@@ -13,6 +13,16 @@ const humanCachePath = new URL('../data/movies-for-humans.json', import.meta.url
 const readmePath = new URL('../README.md', import.meta.url);
 
 
+const capitalizeFirstLetter = (str = '') => {
+    const letters = str.split('');
+    letters[0] = letters[0].toUpperCase();
+    return letters.join('');
+}
+  
+const kebabToPrettyPrint = (str = '') => {
+    return str.split('-').map(capitalizeFirstLetter).join(' ');
+}
+
 const fetchJSON = async (url) => {
     const response = await fetch(url);
     return await response.json();
@@ -40,19 +50,9 @@ const getDiff = async (oldMovies, newMovies) => {
     const hiddenShowings = newShowingsUnique.filter(isHidden);
 
     if (newTitles.length > 0) {
-        console.log('New titles found: ', newTitles);
+        console.log('New titles found: ', newTitles.map(kebabToPrettyPrint));
 
-        // Update README with new movies.
-        const oldReadme = await read(readmePath);
-        const movieUpdatesTitle = '## Movie updates';
-        const [prefix, suffix] = oldReadme.split(movieUpdatesTitle)
-
-        const newReadme = `${ prefix }${ movieUpdatesTitle }
-### ${ new Date() }
-New movies added: ${ newTitles.join(', ') }
-${ suffix }`;
-
-        write(readmePath, newReadme);
+        await updateReadme(newTitles);
     } else {
         console.log('No new titles found.');
     }
@@ -65,6 +65,19 @@ ${ hiddenShowings.length } hidden showings found.`);
     }
 }
 
+const updateReadme = async (newMovies) => {
+    const oldReadme = await read(readmePath);
+    const movieUpdatesTitle = '## Movie updates';
+    const [prefix, suffix] = oldReadme.split(movieUpdatesTitle)
+
+    const newReadme = `${ prefix }${ movieUpdatesTitle }
+### ${ new Date() }
+New movies added: ${ newMovies.join(', ') }
+${ suffix }`;
+
+    write(readmePath, newReadme);
+}
+
 const update = async() => {
     const rawLatestMovies = await fetchJSON(moviesUrl);
 
@@ -74,7 +87,7 @@ const update = async() => {
     await write(cachePath, JSON.stringify(rawLatestMovies));
 
     // Updates human readable list.
-    await write(humanCachePath, JSON.stringify(movies, null, 2));
+    await write(humanCachePath, JSON.stringify(movies.map(kebabToPrettyPrint), null, 2));
 }
 update();
 
