@@ -13,6 +13,6 @@
   "type": "module",
   "scripts": {
     "fetch": "",
-    "foo": "yarn node  --experimental-json-modules scripts/update-movies.js"
+    "check": "yarn node --experimental-json-modules scripts/update-movies.js"
   }
 }
