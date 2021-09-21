@@ -1,4 +1,4 @@
-import {createReadStream, createWriteStream, writeFile} from 'fs';
+import {createReadStream, createWriteStream, writeFile, readFile} from 'fs';
 import {pipeline} from 'stream';
 import {promisify} from 'util';
 import fetch from 'node-fetch';
@@ -18,13 +18,18 @@ const fetchJSON = async (url) => {
     return await response.json();
 }
 
+const read = async (path) => {
+    const readFilePromisified = promisify(readFile);
+    return await readFilePromisified(path, 'utf8');
+}
+
 const write = async (path, data) => {
     const writeFilePromisified = promisify(writeFile);
     await writeFilePromisified(path, data);
 }
 
 
-const getDiff = (oldMovies, newMovies) => {
+const getDiff = async (oldMovies, newMovies) => {
     const oldShowings = oldMovies.data?.sessions;
     const newShowings = newMovies.data?.sessions;
 
@@ -36,7 +41,18 @@ const getDiff = (oldMovies, newMovies) => {
 
     if (newTitles.length > 0) {
         console.log('New titles found: ', newTitles);
-        // TODO write to README
+
+        // Update README with new movies.
+        const oldReadme = await read(readmePath);
+        const movieUpdatesTitle = '## Movie updates';
+        const [prefix, suffix] = oldReadme.split(movieUpdatesTitle)
+
+        const newReadme = `${ prefix }${ movieUpdatesTitle }
+### ${ new Date() }
+New movies added: ${ newTitles.join(', ') }
+${ suffix }`;
+
+        write(readmePath, newReadme);
     } else {
         console.log('No new titles found.');
     }
@@ -52,7 +68,7 @@ ${ hiddenShowings.length } hidden showings found.`);
 const update = async() => {
     const rawLatestMovies = await fetchJSON(moviesUrl);
 
-    const { movies } = getDiff(cachedMovies, rawLatestMovies);
+    const { movies } = await getDiff(cachedMovies, rawLatestMovies);
 
     // Updates cache
     await write(cachePath, JSON.stringify(rawLatestMovies));
