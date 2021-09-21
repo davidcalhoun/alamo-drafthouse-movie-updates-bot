@@ -9,6 +9,7 @@ import stream from 'stream';
 
 const moviesUrl = 'https://drafthouse.com/s/mother/v2/schedule/market/raleigh';
 const cachePath = new URL('../data/movies.json', import.meta.url);
+const humanCachePath = new URL('../data/movies-for-humans.json', import.meta.url);
 const readmePath = new URL('../README.md', import.meta.url);
 
 
@@ -19,7 +20,7 @@ const fetchJSON = async (url) => {
 
 const write = async (path, data) => {
     const writeFilePromisified = promisify(writeFile);
-    await writeFilePromisified(path, JSON.stringify(data));
+    await writeFilePromisified(path, data);
 }
 
 
@@ -43,14 +44,21 @@ const getDiff = (oldMovies, newMovies) => {
     console.log(`${ newShowingsUnique.length } movies with ${ newShowings.length } total showings found.
 ${ hiddenShowings.length } hidden showings found.`);
 
+    return {
+        movies: newShowingsUnique
+    }
 }
 
 const update = async() => {
-    const latestMovies = await fetchJSON(moviesUrl);
+    const rawLatestMovies = await fetchJSON(moviesUrl);
 
-    getDiff(cachedMovies, latestMovies);
+    const { movies } = getDiff(cachedMovies, rawLatestMovies);
 
-    await write(cachePath, latestMovies);
+    // Updates cache
+    await write(cachePath, JSON.stringify(rawLatestMovies));
+
+    // Updates human readable list.
+    await write(humanCachePath, JSON.stringify(movies, null, 2));
 }
 update();
 
