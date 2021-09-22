@@ -55,7 +55,7 @@ const getDiff = async (oldMovies, newMovies) => {
     const newFoundTitles = difference(newPresentations, oldPresentations);
 
     if (newFoundTitles.length > 0) {
-        console.log('New titles found: ', newFoundTitles.map(getPresentationTitle));
+        console.log('New titles found: ', uniq(newFoundTitles.map(getPresentationTitle)));
     } else {
         console.log('No new titles found.');
     }
