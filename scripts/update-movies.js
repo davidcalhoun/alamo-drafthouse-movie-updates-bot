@@ -38,12 +38,7 @@ const write = async (path, data) => {
     await writeFilePromisified(path, data);
 }
 
-const isInFuture = ({ showTimeUtc }) => {
-    const now = new Date().getTime();
-    const time = new Date(showTimeUtc).getTime();
-
-    return time > now;
-}
+const isOnSale = ({ status }) => status === 'ONSALE';
 
 const getPresentationTitle = ({ show }) => show.title;
 
@@ -67,8 +62,8 @@ const getDiff = async (oldMovies, newMovies) => {
 
     const oldShowings = oldMovies.data?.sessions;
     const newShowings = newMovies.data?.sessions;
-    const oldShowingsFiltered = oldShowings.filter(isInFuture);
-    const newShowingsFiltered = newShowings.filter(isInFuture);
+    const oldShowingsFiltered = oldShowings.filter(isOnSale);
+    const newShowingsFiltered = newShowings.filter(isOnSale);
     const newFoundShowings = difference(newShowingsFiltered, oldShowingsFiltered);
 
     const hiddenShowings = oldMovies.data?.sessions.filter(isHidden);
