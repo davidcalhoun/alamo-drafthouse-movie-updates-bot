@@ -3,7 +3,7 @@ import {pipeline} from 'stream';
 import {promisify} from 'util';
 import fetch from 'node-fetch';
 import cachedMovies from '../data/movies.json';
-import {difference, uniqBy} from 'ramda';
+import {difference, uniqBy, uniq} from 'ramda';
 import stream from 'stream';
 
 
@@ -38,41 +38,61 @@ const write = async (path, data) => {
     await writeFilePromisified(path, data);
 }
 
+const isInFuture = ({ showTimeUtc }) => {
+    const now = new Date().getTime();
+    const time = new Date(showTimeUtc).getTime();
+
+    return time > now;
+}
+
+const getPresentationTitle = ({ show }) => show.title;
+
+const getDayOfWeek = (datetime) => {
+    const time = new Date(datetime);
+    return new Intl.DateTimeFormat('en-US', {  weekday: 'long' }).format(time);
+}
+
 
 const getDiff = async (oldMovies, newMovies) => {
-    const oldShowings = oldMovies.data?.sessions;
-    const newShowings = newMovies.data?.sessions;
+    // Check for new presentations (new movies).
+    const oldPresentations = oldMovies.data?.presentations;
+    const newPresentations = newMovies.data?.presentations;
+    const newFoundTitles = difference(newPresentations, oldPresentations);
 
-    const oldShowingsUnique = uniqBy(getTitle, oldShowings).map(getTitle);
-    const newShowingsUnique = uniqBy(getTitle, newShowings).map(getTitle);
-    const newTitles = difference(newShowingsUnique, oldShowingsUnique);
-
-    const hiddenShowings = newShowingsUnique.filter(isHidden);
-
-    if (newTitles.length > 0) {
-        console.log('New titles found: ', newTitles.map(kebabToPrettyPrint));
-
-        await updateReadme(newTitles);
+    if (newFoundTitles.length > 0) {
+        console.log('New titles found: ', newFoundTitles.map(getPresentationTitle));
     } else {
         console.log('No new titles found.');
     }
 
-    console.log(`${ newShowingsUnique.length } movies with ${ newShowings.length } total showings found.
+    const oldShowings = oldMovies.data?.sessions;
+    const newShowings = newMovies.data?.sessions;
+    const oldShowingsFiltered = oldShowings.filter(isInFuture);
+    const newShowingsFiltered = newShowings.filter(isInFuture);
+    const newFoundShowings = difference(newShowingsFiltered, oldShowingsFiltered);
+
+    const hiddenShowings = oldMovies.data?.sessions.filter(isHidden);
+
+    console.log(`${ newPresentations.length } movies with ${ newShowings.length } total showings found.
+${ newFoundTitles.length } new movies found.
+${ newFoundShowings.length } new showings found.
 ${ hiddenShowings.length } hidden showings found.`);
 
     return {
-        movies: newShowingsUnique
+        allMovies: uniq(newPresentations.map(getPresentationTitle).sort((a, b) => a.localeCompare(b))),
+        newMovies: newFoundTitles.map(getPresentationTitle),
+        newScreenings: newFoundShowings.map(({ presentationSlug, showTimeUtc }) => `${ kebabToPrettyPrint(presentationSlug) } (${ getDayOfWeek(showTimeUtc) } ${ new Date(`${ showTimeUtc }Z`).toLocaleString() })`)
     }
 }
 
-const updateReadme = async (newMovies) => {
+const updateReadme = async (newMovies, newScreenings) => {
     const oldReadme = await read(readmePath);
     const movieUpdatesTitle = '## Movie updates';
     const [prefix, suffix] = oldReadme.split(movieUpdatesTitle)
 
     const newReadme = `${ prefix }${ movieUpdatesTitle }
 ### ${ new Date() }
-New movies added: ${ newMovies.join(', ') }
+${ newMovies.length > 0 ? `* New movies: ${ newMovies.join(', ')}\n` : '' }${ newScreenings.length > 0 ? `* New screenings: ${ newScreenings.join(', ')}` : '' }
 ${ suffix }`;
 
     write(readmePath, newReadme);
@@ -81,13 +101,18 @@ ${ suffix }`;
 const update = async() => {
     const rawLatestMovies = await fetchJSON(moviesUrl);
 
-    const { movies } = await getDiff(cachedMovies, rawLatestMovies);
+    const { allMovies, newMovies, newScreenings } = await getDiff(cachedMovies, rawLatestMovies);
 
     // Updates cache
     await write(cachePath, JSON.stringify(rawLatestMovies));
 
-    // Updates human readable list.
-    await write(humanCachePath, JSON.stringify(movies.map(kebabToPrettyPrint), null, 2));
+    // Updates human readable movie list.
+    await write(humanCachePath, JSON.stringify(allMovies, null, 2));
+
+    // Updates README.md
+    if (newScreenings.length > 0 || newMovies.length > 0) {
+        await updateReadme(newMovies, newScreenings);
+    }
 }
 update();
 
