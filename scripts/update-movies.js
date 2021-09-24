@@ -118,7 +118,7 @@ const updateReadme = async (newMovies, newScreenings) => {
 
     const newReadme = `${ prefix }${ movieUpdatesTitle }
 ### ${ new Date() }
-${ newMovies.length > 0 ? `* New movies: ${ newMovies.join(', ')}\n` : '' }${ newScreenings.length > 0 ? `* New screenings: ${ newScreenings.map(({ presentationSlug, showings }) => `${ kebabToPrettyPrint(presentationSlug) } (${ showings.join(', ') })`).join('; ')}` : '' }
+${ newMovies.length > 0 ? `* New movies: ${ newMovies.join(', ')}\n` : '' }${ newScreenings.length > 0 ? `* New screenings: ${ newScreenings.map(({ presentationSlug, showings }) => `\n    * ${ kebabToPrettyPrint(presentationSlug) } (${ showings.join(', ') })`).join('')}` : '' }
 ${ suffix }`;
 
     write(readmePath, newReadme);
