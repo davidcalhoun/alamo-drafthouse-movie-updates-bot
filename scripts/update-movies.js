@@ -57,6 +57,9 @@ const formatTime = (datetime) => {
 
 const isSameShowing = ({sessionId: sessionIdA}, {sessionId: sessionIdB}) => sessionIdA === sessionIdB;
 
+const isSamePresentation = ({slug: slugA}, {slug: slugB}) => slugA === slugB;
+
+
 const mergeShowingsPerMovie = (showings) => {
     const combined = showings.reduce((all, { presentationSlug, showTimeUtc }) => {
         const timesPerDay = all.get(presentationSlug) || new Map();
@@ -83,7 +86,7 @@ const getDiff = async (oldMovies, newMovies) => {
     // Check for new presentations (new movies).
     const oldPresentations = oldMovies.data?.presentations;
     const newPresentations = newMovies.data?.presentations;
-    const newFoundTitles = difference(newPresentations, oldPresentations);
+    const newFoundTitles = differenceWith(isSamePresentation, newPresentations, oldPresentations);
 
     if (newFoundTitles.length > 0) {
         console.log('New titles found: ', uniq(newFoundTitles.map(getPresentationTitle)));

@@ -5,6 +5,11 @@
 Monitors for Alamo Drafthouse movie additions.
 
 ## Movie updates
+### Fri Sep 24 2021 12:20:08 GMT-0400 (Eastern Daylight Time)
+* New movies: Titane
+* New screenings: 
+    * Titane (Thu Sep 30 2021 (7:30 PM), Sat Oct 02 2021 (7:15 PM), Sun Oct 03 2021 (7:15 PM))
+
 ### Fri Sep 24 2021 11:42:48 GMT-0400 (Eastern Daylight Time)
 * New movies: The Exorcist, The Shining, Willy Wonka and the Chocolate Factory, A NIGHTMARE ON ELM STREET
 * New screenings: 
