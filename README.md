@@ -5,6 +5,14 @@
 Monitors for Alamo Drafthouse movie additions.
 
 ## Movie updates
+### Fri Sep 24 2021 11:42:48 GMT-0400 (Eastern Daylight Time)
+* New movies: The Exorcist, The Shining, Willy Wonka and the Chocolate Factory, A NIGHTMARE ON ELM STREET
+* New screenings: 
+    * A Nightmare On Elm Street (Wed Oct 27 2021 (9:30 PM))
+    * The Exorcist (Mon Oct 18 2021 (9:30 PM))
+    * The Shining (Tue Oct 05 2021 (6:45 PM))
+    * Willy Wonka And The Chocolate Factory (Wed Oct 13 2021 (6:45 PM))
+
 
 ### Thu Sep 23 2021 21:54:55 GMT-0400 (Eastern Daylight Time)
 
