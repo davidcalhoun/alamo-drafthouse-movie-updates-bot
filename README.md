@@ -5,6 +5,11 @@
 Monitors for Alamo Drafthouse movie additions.
 
 ## Movie updates
+### Fri Sep 24 2021 15:43:06 GMT-0400 (Eastern Daylight Time)
+* New movies: Lamb (2021)
+* New screenings: 
+    * Lamb (Thu Oct 07 2021 (7:00 PM, 10:00 PM))
+
 ### Fri Sep 24 2021 12:20:08 GMT-0400 (Eastern Daylight Time)
 * New movies: Titane
 * New screenings: 
