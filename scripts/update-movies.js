@@ -3,7 +3,7 @@ import {pipeline} from 'stream';
 import {promisify} from 'util';
 import fetch from 'node-fetch';
 import cachedMovies from '../data/movies.json';
-import {difference, uniqBy, uniq} from 'ramda';
+import {difference, differenceWith, uniqBy, uniq} from 'ramda';
 import stream from 'stream';
 
 
@@ -47,6 +47,8 @@ const getDayOfWeek = (datetime) => {
     return new Intl.DateTimeFormat('en-US', {  weekday: 'long' }).format(time);
 }
 
+const isSameShowing = ({sessionId: sessionIdA}, {sessionId: sessionIdB}) => sessionIdA === sessionIdB;
+
 
 const getDiff = async (oldMovies, newMovies) => {
     // Check for new presentations (new movies).
@@ -64,7 +66,7 @@ const getDiff = async (oldMovies, newMovies) => {
     const newShowings = newMovies.data?.sessions;
     const oldShowingsFiltered = oldShowings.filter(isOnSale);
     const newShowingsFiltered = newShowings.filter(isOnSale);
-    const newFoundShowings = difference(newShowingsFiltered, oldShowingsFiltered);
+    const newFoundShowings = differenceWith(isSameShowing, newShowingsFiltered, oldShowingsFiltered);
 
     const hiddenShowings = oldMovies.data?.sessions.filter(isHidden);
 
