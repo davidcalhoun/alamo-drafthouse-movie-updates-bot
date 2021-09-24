@@ -47,8 +47,37 @@ const getDayOfWeek = (datetime) => {
     return new Intl.DateTimeFormat('en-US', {  weekday: 'long' }).format(time);
 }
 
+const formatDate = (datetime) => {
+    return new Date(`${ datetime }Z`).toDateString();
+}
+
+const formatTime = (datetime) => {
+    return new Date(`${ datetime }Z`).toLocaleTimeString([], { hour: 'numeric', minute: '2-digit', hour12: true });
+}
+
 const isSameShowing = ({sessionId: sessionIdA}, {sessionId: sessionIdB}) => sessionIdA === sessionIdB;
 
+const mergeShowingsPerMovie = (showings) => {
+    const combined = showings.reduce((all, { presentationSlug, showTimeUtc }) => {
+        const timesPerDay = all.get(presentationSlug) || new Map();
+        const day = formatDate(showTimeUtc);
+        const times = timesPerDay.get(day) || [];
+        timesPerDay.set(day, [...times, showTimeUtc]);
+        return all.set(presentationSlug, timesPerDay);
+    }, new Map());
+
+    const result = Array.from(combined).map(([presentationSlug, showingsPerDayMap]) => {
+        return {
+            presentationSlug,
+            showings: Array.from(showingsPerDayMap).reduce((allDays, [day, showings]) => {
+                allDays.push(`${ day } (${ showings.sort().map(showing => formatTime(showing)).join(', ') })`);
+                return allDays;
+            }, [])
+        }
+    });
+
+    return result;
+}
 
 const getDiff = async (oldMovies, newMovies) => {
     // Check for new presentations (new movies).
@@ -78,7 +107,7 @@ ${ hiddenShowings.length } hidden showings found.`);
     return {
         allMovies: uniq(newPresentations.map(getPresentationTitle).sort((a, b) => a.localeCompare(b))),
         newMovies: newFoundTitles.map(getPresentationTitle),
-        newScreenings: newFoundShowings.map(({ presentationSlug, showTimeUtc }) => `${ kebabToPrettyPrint(presentationSlug) } (${ getDayOfWeek(showTimeUtc) } ${ new Date(`${ showTimeUtc }Z`).toLocaleString() })`)
+        newScreenings: mergeShowingsPerMovie(newFoundShowings)
     }
 }
 
@@ -89,7 +118,7 @@ const updateReadme = async (newMovies, newScreenings) => {
 
     const newReadme = `${ prefix }${ movieUpdatesTitle }
 ### ${ new Date() }
-${ newMovies.length > 0 ? `* New movies: ${ newMovies.join(', ')}\n` : '' }${ newScreenings.length > 0 ? `* New screenings: ${ newScreenings.join(', ')}` : '' }
+${ newMovies.length > 0 ? `* New movies: ${ newMovies.join(', ')}\n` : '' }${ newScreenings.length > 0 ? `* New screenings: ${ newScreenings.map(({ presentationSlug, showings }) => `${ kebabToPrettyPrint(presentationSlug) } (${ showings.join(', ') })`).join('; ')}` : '' }
 ${ suffix }`;
 
     write(readmePath, newReadme);

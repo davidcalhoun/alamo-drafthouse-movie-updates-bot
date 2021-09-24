@@ -5,10 +5,15 @@
 Monitors for Alamo Drafthouse movie additions.
 
 ## Movie updates
-### Thu Sep 23 2021 20:57:19 GMT-0400 (Eastern Daylight Time)
+### Thu Sep 23 2021 21:55:46 GMT-0400 (Eastern Daylight Time)
 * New movies: Tom Petty, Somewhere You Feel Free: The Making of Wildflowers
-* New screenings: Tom Petty Somewhere You Feel Free The Making Of Wildflowers (Wednesday 10/20/2021, 5:00:00 PM), Tom Petty Somewhere You Feel Free The Making Of Wildflowers (Thursday 10/20/2021, 8:00:00 PM), Tom Petty Somewhere You Feel Free The Making Of Wildflowers (Thursday 10/21/2021, 6:45:00 PM)
+* New screenings: Tom Petty Somewhere You Feel Free The Making Of Wildflowers (Wed Oct 20 2021 (5:00 PM, 8:00 PM), Thu Oct 21 2021 (6:45 PM))
 
+
+### Thu Sep 23 2021 21:54:55 GMT-0400 (Eastern Daylight Time)
+
+- New movies: Tom Petty, Somewhere You Feel Free: The Making of Wildflowers
+- New screenings: Tom Petty Somewhere You Feel Free The Making Of Wildflowers (Wed Oct 20 2021 (5:00 PM, 8:00 PM), Thu Oct 21 2021 (6:45 PM))
 
 ### Wed Sep 22 2021 18:16:17 GMT-0400 (Eastern Daylight Time)
 
