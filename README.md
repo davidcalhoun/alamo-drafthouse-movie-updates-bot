@@ -5,6 +5,10 @@
 Monitors for Alamo Drafthouse movie additions.
 
 ## Movie updates
+### Mon Sep 27 2021 16:49:01 GMT-0400 (Eastern Daylight Time)
+* New screenings: 
+    * [Mean Girls Brunch](https://drafthouse.com/raleigh/show/mean-girls-brunch) } (Sun Oct 03 2021 (1:45 PM))
+
 ### Mon Sep 27 2021 12:26:50 GMT-0400 (Eastern Daylight Time)
 * New movies: Titane
 * New screenings: 
