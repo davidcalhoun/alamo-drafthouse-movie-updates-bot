@@ -128,7 +128,13 @@ ${ suffix }`;
 }
 
 const update = async() => {
-    const rawLatestMovies = await fetchJSON(moviesUrl);
+    let rawLatestMovies;
+    try {
+        rawLatestMovies = await fetchJSON(moviesUrl);
+    } catch(e) {
+        console.error('Error fetching latest movies:', e);
+        return;
+    }
 
     const { allMovies, newMovies, newScreenings } = await getDiff(cachedMovies, rawLatestMovies);
 
