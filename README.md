@@ -5,6 +5,11 @@
 Monitors for Alamo Drafthouse movie additions.
 
 ## Movie updates
+### Mon Sep 27 2021 12:26:50 GMT-0400 (Eastern Daylight Time)
+* New movies: Titane
+* New screenings: 
+    * [Titane W Q A](https://drafthouse.com/raleigh/show/titane-w-q-a) } (Fri Oct 01 2021 (7:15 PM))
+
 ### Fri Sep 24 2021 15:43:06 GMT-0400 (Eastern Daylight Time)
 * New movies: Lamb (2021)
 * New screenings: 
