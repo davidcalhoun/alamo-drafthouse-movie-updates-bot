@@ -5,33 +5,38 @@
 Monitors for Alamo Drafthouse movie additions.
 
 ## Movie updates
+
 ### Mon Sep 27 2021 16:49:01 GMT-0400 (Eastern Daylight Time)
-* New screenings: 
-    * [Mean Girls Brunch](https://drafthouse.com/raleigh/show/mean-girls-brunch) } (Sun Oct 03 2021 (1:45 PM))
+
+- New screenings:
+  - [Mean Girls Brunch](https://drafthouse.com/raleigh/show/mean-girls-brunch) (Sun Oct 03 2021 (1:45 PM))
 
 ### Mon Sep 27 2021 12:26:50 GMT-0400 (Eastern Daylight Time)
-* New movies: Titane
-* New screenings: 
-    * [Titane W Q A](https://drafthouse.com/raleigh/show/titane-w-q-a) } (Fri Oct 01 2021 (7:15 PM))
+
+- New movies: Titane
+- New screenings:
+  - [Titane W Q A](https://drafthouse.com/raleigh/show/titane-w-q-a) (Fri Oct 01 2021 (7:15 PM))
 
 ### Fri Sep 24 2021 15:43:06 GMT-0400 (Eastern Daylight Time)
-* New movies: Lamb (2021)
-* New screenings: 
-    * Lamb (Thu Oct 07 2021 (7:00 PM, 10:00 PM))
+
+- New movies: Lamb (2021)
+- New screenings:
+  - Lamb (Thu Oct 07 2021 (7:00 PM, 10:00 PM))
 
 ### Fri Sep 24 2021 12:20:08 GMT-0400 (Eastern Daylight Time)
-* New movies: Titane
-* New screenings: 
-    * Titane (Thu Sep 30 2021 (7:30 PM), Sat Oct 02 2021 (7:15 PM), Sun Oct 03 2021 (7:15 PM))
+
+- New movies: Titane
+- New screenings:
+  - Titane (Thu Sep 30 2021 (7:30 PM), Sat Oct 02 2021 (7:15 PM), Sun Oct 03 2021 (7:15 PM))
 
 ### Fri Sep 24 2021 11:42:48 GMT-0400 (Eastern Daylight Time)
-* New movies: The Exorcist, The Shining, Willy Wonka and the Chocolate Factory, A NIGHTMARE ON ELM STREET
-* New screenings: 
-    * A Nightmare On Elm Street (Wed Oct 27 2021 (9:30 PM))
-    * The Exorcist (Mon Oct 18 2021 (9:30 PM))
-    * The Shining (Tue Oct 05 2021 (6:45 PM))
-    * Willy Wonka And The Chocolate Factory (Wed Oct 13 2021 (6:45 PM))
 
+- New movies: The Exorcist, The Shining, Willy Wonka and the Chocolate Factory, A NIGHTMARE ON ELM STREET
+- New screenings:
+  - A Nightmare On Elm Street (Wed Oct 27 2021 (9:30 PM))
+  - The Exorcist (Mon Oct 18 2021 (9:30 PM))
+  - The Shining (Tue Oct 05 2021 (6:45 PM))
+  - Willy Wonka And The Chocolate Factory (Wed Oct 13 2021 (6:45 PM))
 
 ### Thu Sep 23 2021 21:54:55 GMT-0400 (Eastern Daylight Time)
 
