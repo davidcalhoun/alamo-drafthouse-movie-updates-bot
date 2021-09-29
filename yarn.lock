@@ -9,6 +9,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "alamo-drafthouse-movie-updates-bot@workspace:."
   dependencies:
+    date-fns: ^2.24.0
     node-fetch: ^3.0.0
     ramda: ^0.27.1
   languageName: unknown
@@ -18,6 +19,13 @@ __metadata:
   version: 3.0.1
   resolution: "data-uri-to-buffer@npm:3.0.1"
   checksum: c59c3009686a78c071806b72f4810856ec28222f0f4e252aa495ec027ed9732298ceea99c50328cf59b151dd34cbc3ad6150bbb43e41fc56fa19f48c99e9fc30
+  languageName: node
+  linkType: hard
+
+"date-fns@npm:^2.24.0":
+  version: 2.24.0
+  resolution: "date-fns@npm:2.24.0"
+  checksum: f930419e356cf6a6a02c7ed6c6e438df61b4011861002a3dc94a4efc83bc96a7f30ea3cc2e7231c421604c3d5131f9ffb097bf8e7f81a59d68f556864490664f
   languageName: node
   linkType: hard
 

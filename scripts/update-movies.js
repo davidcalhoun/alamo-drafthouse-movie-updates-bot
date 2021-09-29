@@ -4,8 +4,7 @@ import {promisify} from 'util';
 import fetch from 'node-fetch';
 import cachedMovies from '../data/movies.json';
 import {difference, differenceWith, uniqBy, uniq} from 'ramda';
-import stream from 'stream';
-
+import { format } from 'date-fns'
 
 const moviesUrl = 'https://drafthouse.com/s/mother/v2/schedule/market/raleigh';
 const cachePath = new URL('../data/movies.json', import.meta.url);
@@ -48,11 +47,11 @@ const getDayOfWeek = (datetime) => {
 }
 
 const formatDate = (datetime) => {
-    return new Date(`${ datetime }Z`).toDateString();
+    return format(new Date(`${ datetime }Z`), "eee L/d");
 }
 
 const formatTime = (datetime) => {
-    return new Date(`${ datetime }Z`).toLocaleTimeString([], { hour: 'numeric', minute: '2-digit', hour12: true });
+    return format(new Date(`${ datetime }Z`), "K:mmaaa");
 }
 
 const isSameShowing = ({sessionId: sessionIdA}, {sessionId: sessionIdB}) => sessionIdA === sessionIdB;
@@ -121,7 +120,7 @@ const updateReadme = async (newMovies, newScreenings) => {
 
     const newReadme = `${ prefix }${ movieUpdatesTitle }
 ### ${ new Date() }
-${ newMovies.length > 0 ? `* New movies: ${ newMovies.join(', ')}\n` : '' }${ newScreenings.length > 0 ? `* New screenings: ${ newScreenings.map(({ presentationSlug, showings }) => `\n    * [${ kebabToPrettyPrint(presentationSlug) }](https://drafthouse.com/raleigh/event/${ presentationSlug }) (${ showings.join(', ') })`).join('')}` : '' }
+${ newMovies.length > 0 ? `* New movies: ${ newMovies.join(', ')}\n` : '' }${ newScreenings.length > 0 ? `* New screenings: ${ newScreenings.map(({ presentationSlug, showings }) => `\n    * [${ kebabToPrettyPrint(presentationSlug) }](https://drafthouse.com/raleigh/event/${ presentationSlug }): ${ showings.join(', ') }`).join('')}` : '' }
 ${ suffix }`;
 
     write(readmePath, newReadme);
@@ -139,7 +138,7 @@ const update = async() => {
     const { allMovies, newMovies, newScreenings } = await getDiff(cachedMovies, rawLatestMovies);
 
     // Updates cache
-    await write(cachePath, JSON.stringify(rawLatestMovies));
+    //await write(cachePath, JSON.stringify(rawLatestMovies));
 
     // Updates human readable movie list.
     await write(humanCachePath, JSON.stringify(allMovies, null, 2));
