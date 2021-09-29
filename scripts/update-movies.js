@@ -2,15 +2,14 @@ import {createReadStream, createWriteStream, writeFile, readFile} from 'fs';
 import {pipeline} from 'stream';
 import {promisify} from 'util';
 import fetch from 'node-fetch';
-import cachedMovies from '../data/movies.json';
 import {difference, differenceWith, uniqBy, uniq} from 'ramda';
 import { format } from 'date-fns'
 
-const moviesUrl = 'https://drafthouse.com/s/mother/v2/schedule/market/raleigh';
-const cachePath = new URL('../data/movies.json', import.meta.url);
-const humanCachePath = new URL('../data/movies-for-humans.json', import.meta.url);
-const readmePath = new URL('../README.md', import.meta.url);
+const getTitle = ({presentationSlug}) => presentationSlug;
+const isHidden = ({isHidden}) => isHidden;
 
+const markets = ['raleigh', 'los-angeles'];
+const moviesBaseUrl = 'https://drafthouse.com/s/mother/v2/schedule/market';
 
 const capitalizeFirstLetter = (str = '') => {
     const letters = str.split('');
@@ -83,8 +82,12 @@ const mergeShowingsPerMovie = (showings) => {
 
 const getDiff = async (oldMovies, newMovies) => {
     // Check for new presentations (new movies).
-    const oldPresentations = oldMovies.data?.presentations;
+    let oldPresentations = oldMovies.data?.presentations;
     const newPresentations = newMovies.data?.presentations;
+    if (!oldPresentations) {
+        oldPresentations = [];
+    };
+
     const newFoundTitles = differenceWith(isSamePresentation, newPresentations, oldPresentations);
 
     if (newFoundTitles.length > 0) {
@@ -93,18 +96,21 @@ const getDiff = async (oldMovies, newMovies) => {
         console.log('No new titles found.');
     }
 
-    const oldShowings = oldMovies.data?.sessions;
+    let oldShowings = oldMovies.data?.sessions;
+    if (!oldShowings) {
+        oldShowings = [];
+    };
     const newShowings = newMovies.data?.sessions;
     const oldShowingsFiltered = oldShowings.filter(isOnSale);
     const newShowingsFiltered = newShowings.filter(isOnSale);
     const newFoundShowings = differenceWith(isSameShowing, newShowingsFiltered, oldShowingsFiltered);
 
-    const hiddenShowings = oldMovies.data?.sessions.filter(isHidden);
+    const hiddenShowings = oldMovies.data?.sessions?.filter(isHidden);
 
     console.log(`${ newPresentations.length } movies with ${ newShowings.length } total showings found.
 ${ newFoundTitles.length } new movies found.
 ${ newFoundShowings.length } new showings found.
-${ hiddenShowings.length } hidden showings found.`);
+${ hiddenShowings?.length } hidden showings found.`);
 
     return {
         allMovies: uniq(newPresentations.map(getPresentationTitle).sort((a, b) => a.localeCompare(b))),
@@ -113,8 +119,15 @@ ${ hiddenShowings.length } hidden showings found.`);
     }
 }
 
-const updateReadme = async (newMovies, newScreenings) => {
-    const oldReadme = await read(readmePath);
+const updateReadme = async (market, newMovies, newScreenings) => {
+    const readmePath = new URL(`../markets/${market}.md`, import.meta.url);
+    let oldReadme;
+    try {
+        oldReadme = await read(readmePath);
+    } catch(e) {
+        // init
+        oldReadme = `# ${market}\n## Movie updates`;
+    }
     const movieUpdatesTitle = '## Movie updates';
     const [prefix, suffix] = oldReadme.split(movieUpdatesTitle)
 
@@ -126,29 +139,41 @@ ${ suffix }`;
     write(readmePath, newReadme);
 }
 
-const update = async() => {
+const update = async(marketName) => {
     let rawLatestMovies;
     try {
-        rawLatestMovies = await fetchJSON(moviesUrl);
+        rawLatestMovies = await fetchJSON(`${moviesBaseUrl}/${marketName}`);
     } catch(e) {
         console.error('Error fetching latest movies:', e);
         return;
     }
 
+    let cachedMovies;
+    try {
+        cachedMovies = await read(new URL(`../data/${marketName}-raw.json`, import.meta.url));
+    } catch(e) {
+        console.log('Creating new cache due to error: ', e);
+        // file doesn't exist yet, so create it
+        cachedMovies = {};
+    }
+
     const { allMovies, newMovies, newScreenings } = await getDiff(cachedMovies, rawLatestMovies);
 
     // Updates cache
-    //await write(cachePath, JSON.stringify(rawLatestMovies));
+    const cachePath = new URL(`../data/${marketName}-raw.json`, import.meta.url);
+    await write(cachePath, JSON.stringify(rawLatestMovies));
 
     // Updates human readable movie list.
+    const humanCachePath = new URL(`../data/${marketName}.json`, import.meta.url);
     await write(humanCachePath, JSON.stringify(allMovies, null, 2));
 
     // Updates README.md
     if (newScreenings.length > 0 || newMovies.length > 0) {
-        await updateReadme(newMovies, newScreenings);
+        await updateReadme(marketName, newMovies, newScreenings);
     }
 }
-update();
 
-const getTitle = ({presentationSlug}) => presentationSlug;
-const isHidden = ({isHidden}) => isHidden;
+markets.forEach((market) => {
+    update(market);
+});
+
