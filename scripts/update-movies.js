@@ -3,12 +3,24 @@ import {pipeline} from 'stream';
 import {promisify} from 'util';
 import fetch from 'node-fetch';
 import {difference, differenceWith, uniqBy, uniq} from 'ramda';
-import { format } from 'date-fns'
+//import { format } from 'date-fns'
+//import { utcToZonedTime, format } from 'date-fns-tz';
+import dateFnsTz from 'date-fns-tz';
+const { utcToZonedTime, format } = dateFnsTz;
 
 const getTitle = ({presentationSlug}) => presentationSlug;
 const isHidden = ({isHidden}) => isHidden;
 
-const markets = ['raleigh', 'los-angeles'];
+const markets = [
+    {
+        name: 'raleigh',
+        timeZone: 'America/New_York'
+    },
+    {
+        name: 'los-angeles',
+        timeZone: 'America/Los_Angeles'
+    }
+];
 const moviesBaseUrl = 'https://drafthouse.com/s/mother/v2/schedule/market';
 
 const capitalizeFirstLetter = (str = '') => {
@@ -31,6 +43,18 @@ const read = async (path) => {
     return await readFilePromisified(path, 'utf8');
 }
 
+const readJSON = async (path) => {
+    let data;
+    try {
+        data = await read(path);
+    } catch(e) {
+        console.error(e);
+        return {};
+    }
+
+    return JSON.parse(data);
+}
+
 const write = async (path, data) => {
     const writeFilePromisified = promisify(writeFile);
     await writeFilePromisified(path, data);
@@ -40,17 +64,13 @@ const isOnSale = ({ status }) => status === 'ONSALE';
 
 const getPresentationTitle = ({ show }) => show.title;
 
-const getDayOfWeek = (datetime) => {
-    const time = new Date(datetime);
-    return new Intl.DateTimeFormat('en-US', {  weekday: 'long' }).format(time);
+const formatDate = (datetime, timeZone) => {
+    return format(new Date(`${datetime}Z`), "eee L/d", { timeZone });
 }
 
-const formatDate = (datetime) => {
-    return format(new Date(`${ datetime }Z`), "eee L/d");
-}
-
-const formatTime = (datetime) => {
-    return format(new Date(`${ datetime }Z`), "K:mmaaa");
+const formatTime = (datetime, timeZone) => {
+    const zonedTime = utcToZonedTime(new Date(`${datetime}Z`), timeZone)
+    return format(zonedTime, "K:mmaaa", { timeZone });
 }
 
 const isSameShowing = ({sessionId: sessionIdA}, {sessionId: sessionIdB}) => sessionIdA === sessionIdB;
@@ -58,10 +78,10 @@ const isSameShowing = ({sessionId: sessionIdA}, {sessionId: sessionIdB}) => sess
 const isSamePresentation = ({slug: slugA}, {slug: slugB}) => slugA === slugB;
 
 
-const mergeShowingsPerMovie = (showings) => {
+const mergeShowingsPerMovie = (showings, timeZone) => {
     const combined = showings.reduce((all, { presentationSlug, showTimeUtc }) => {
         const timesPerDay = all.get(presentationSlug) || new Map();
-        const day = formatDate(showTimeUtc);
+        const day = formatDate(showTimeUtc, timeZone);
         const times = timesPerDay.get(day) || [];
         timesPerDay.set(day, [...times, showTimeUtc]);
         return all.set(presentationSlug, timesPerDay);
@@ -71,7 +91,7 @@ const mergeShowingsPerMovie = (showings) => {
         return {
             presentationSlug,
             showings: Array.from(showingsPerDayMap).reduce((allDays, [day, showings]) => {
-                allDays.push(`${ day } (${ showings.sort().map(showing => formatTime(showing)).join(', ') })`);
+                allDays.push(`${ day } (${ showings.sort().map(showing => formatTime(showing, timeZone)).join(', ') })`);
                 return allDays;
             }, [])
         }
@@ -80,24 +100,20 @@ const mergeShowingsPerMovie = (showings) => {
     return result;
 }
 
-const getDiff = async (oldMovies, newMovies) => {
+const getDiff = async (marketName, timeZone, oldMovies, newMovies) => {
     // Check for new presentations (new movies).
     let oldPresentations = oldMovies.data?.presentations;
     const newPresentations = newMovies.data?.presentations;
     if (!oldPresentations) {
+        console.warn('No old presentations found');
         oldPresentations = [];
     };
 
     const newFoundTitles = differenceWith(isSamePresentation, newPresentations, oldPresentations);
 
-    if (newFoundTitles.length > 0) {
-        console.log('New titles found: ', uniq(newFoundTitles.map(getPresentationTitle)));
-    } else {
-        console.log('No new titles found.');
-    }
-
     let oldShowings = oldMovies.data?.sessions;
-    if (!oldShowings) {
+    if (!oldShowings?.length) {
+        console.warn('No old showings found', oldShowings, oldMovies.data?.sessions);
         oldShowings = [];
     };
     const newShowings = newMovies.data?.sessions;
@@ -107,19 +123,25 @@ const getDiff = async (oldMovies, newMovies) => {
 
     const hiddenShowings = oldMovies.data?.sessions?.filter(isHidden);
 
-    console.log(`${ newPresentations.length } movies with ${ newShowings.length } total showings found.
+    console.log(`
+${ marketName }
+${ newPresentations.length } movies with ${ newShowings.length } total showings found.
 ${ newFoundTitles.length } new movies found.
 ${ newFoundShowings.length } new showings found.
 ${ hiddenShowings?.length } hidden showings found.`);
 
+if (newFoundTitles.length > 0) {
+    console.log('New titles found: ', uniq(newFoundTitles.map(getPresentationTitle)));
+}
+
     return {
         allMovies: uniq(newPresentations.map(getPresentationTitle).sort((a, b) => a.localeCompare(b))),
         newMovies: newFoundTitles.map(getPresentationTitle),
-        newScreenings: mergeShowingsPerMovie(newFoundShowings)
+        newScreenings: mergeShowingsPerMovie(newFoundShowings, timeZone)
     }
 }
 
-const updateReadme = async (market, newMovies, newScreenings) => {
+const updateReadme = async (market, timeZone, newMovies, newScreenings) => {
     const readmePath = new URL(`../markets/${market}.md`, import.meta.url);
     let oldReadme;
     try {
@@ -131,15 +153,17 @@ const updateReadme = async (market, newMovies, newScreenings) => {
     const movieUpdatesTitle = '## Movie updates';
     const [prefix, suffix] = oldReadme.split(movieUpdatesTitle)
 
+    const now = new Date();
+
     const newReadme = `${ prefix }${ movieUpdatesTitle }
-### ${ new Date() }
-${ newMovies.length > 0 ? `* New movies: ${ newMovies.join(', ')}\n` : '' }${ newScreenings.length > 0 ? `* New screenings: ${ newScreenings.map(({ presentationSlug, showings }) => `\n    * [${ kebabToPrettyPrint(presentationSlug) }](https://drafthouse.com/raleigh/event/${ presentationSlug }): ${ showings.join(', ') }`).join('')}` : '' }
+### ${ formatDate(now, timeZone) } ${ formatTime(now, timeZone) }
+${ newMovies.length > 0 ? `* New movies: ${ newMovies.join(', ')}\n` : '' }${ newScreenings.length > 0 ? `* New screenings: ${ newScreenings.map(({ presentationSlug, showings }) => `\n    * [${ kebabToPrettyPrint(presentationSlug) }](https://drafthouse.com/${ market }/show/${ presentationSlug }): ${ showings.join(', ') }`).join('')}` : '' }
 ${ suffix }`;
 
     write(readmePath, newReadme);
 }
 
-const update = async(marketName) => {
+const update = async(marketName, timeZone) => {
     let rawLatestMovies;
     try {
         rawLatestMovies = await fetchJSON(`${moviesBaseUrl}/${marketName}`);
@@ -150,14 +174,14 @@ const update = async(marketName) => {
 
     let cachedMovies;
     try {
-        cachedMovies = await read(new URL(`../data/${marketName}-raw.json`, import.meta.url));
+        cachedMovies = await readJSON(new URL(`../data/${marketName}-raw.json`, import.meta.url));
     } catch(e) {
         console.log('Creating new cache due to error: ', e);
         // file doesn't exist yet, so create it
         cachedMovies = {};
     }
 
-    const { allMovies, newMovies, newScreenings } = await getDiff(cachedMovies, rawLatestMovies);
+    const { allMovies, newMovies, newScreenings } = await getDiff(marketName, timeZone, cachedMovies, rawLatestMovies);
 
     // Updates cache
     const cachePath = new URL(`../data/${marketName}-raw.json`, import.meta.url);
@@ -169,11 +193,11 @@ const update = async(marketName) => {
 
     // Updates README.md
     if (newScreenings.length > 0 || newMovies.length > 0) {
-        await updateReadme(marketName, newMovies, newScreenings);
+        await updateReadme(marketName, timeZone, newMovies, newScreenings);
     }
 }
 
-markets.forEach((market) => {
-    update(market);
+markets.forEach(({ name, timeZone }) => {
+    update(name, timeZone);
 });
 

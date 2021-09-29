@@ -8,6 +8,7 @@
   "packageManager": "yarn@3.0.2",
   "dependencies": {
     "date-fns": "^2.24.0",
+    "date-fns-tz": "^1.1.6",
     "node-fetch": "^3.0.0",
     "ramda": "^0.27.1"
   },
