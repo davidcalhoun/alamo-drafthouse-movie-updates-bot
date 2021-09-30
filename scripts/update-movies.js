@@ -70,7 +70,7 @@ const formatDate = (datetime, timeZone) => {
 
 const formatTime = (datetime, timeZone) => {
     const zonedTime = utcToZonedTime(new Date(`${datetime}Z`), timeZone)
-    return format(zonedTime, "K:mmaaa", { timeZone });
+    return format(zonedTime, "h:mmaaa", { timeZone });
 }
 
 const isSameShowing = ({sessionId: sessionIdA}, {sessionId: sessionIdB}) => sessionIdA === sessionIdB;
