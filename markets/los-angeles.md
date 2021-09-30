@@ -1,6 +1,10 @@
 # los-angeles
 
 ## Movie updates
+### Thu 9/30 1:58am
+* New screenings: 
+    * [The French Dispatch](https://drafthouse.com/los-angeles/show/the-french-dispatch): Thu 10/21 (6:30pm), Fri 10/22 (9:30pm, 10:00pm, 4:30pm, 7:30pm), Sat 10/23 (10:30pm, 10:45pm, 11:00am, 2:00pm, 5:00pm), Sun 10/24 (11:30am, 2:30pm), Mon 10/25 (7:00pm, 7:30pm), Tue 10/26 (7:00pm, 7:30pm), Wed 10/27 (7:00pm, 7:30pm)
+
 ### Wed 9/29 2:33pm
 * New screenings: 
     * [Blush](https://drafthouse.com/los-angeles/show/blush): Fri 10/1 (11:30am), Sun 10/3 (11:30am)
