@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 10/1 11:20am
+* New movies: My Hero Academia: The Movie - World Heroes' Mission (Dubbed), My Hero Academia: The Movie - World Heroes' Mission (Subtitled)
+* New screenings: 
+    * [My Hero Academia The Movie World Heroes Mission Dubbed](https://drafthouse.com/raleigh/show/my-hero-academia-the-movie-world-heroes-mission-dubbed): Fri 10/29 (7:30pm), Sat 10/30 (4:00pm), Tue 11/2 (7:30pm), Thu 11/4 (7:30pm)
+    * [My Hero Academia The Movie World Heroes Mission Subtitled](https://drafthouse.com/raleigh/show/my-hero-academia-the-movie-world-heroes-mission-subtitled): Sun 10/31 (4:00pm), Mon 11/1 (7:30pm), Wed 11/3 (7:30pm)
+
 ### Wed 9/29 8:15am
 * New movies: The Many Saints of Newark, Mean Girls, The Addams Family 2, Copshop, Blue Bayou
 * New screenings: 
