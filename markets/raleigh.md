@@ -1,6 +1,10 @@
 # raleigh
 
 ## Movie updates
+### Fri 10/1 11:38am
+* New screenings: 
+    * [The Many Saints Of Newark](https://drafthouse.com/raleigh/show/the-many-saints-of-newark): Fri 10/1 (3:15pm)
+
 ### Fri 10/1 11:35am
 * New movies: Halloween Kills
 * New screenings: 
