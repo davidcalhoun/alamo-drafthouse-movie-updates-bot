@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 10/1 11:35am
+* New movies: Halloween Kills
+* New screenings: 
+    * [Halloween Kills](https://drafthouse.com/raleigh/show/halloween-kills): Thu 10/14 (7:00pm)
+
 ### Fri 10/1 11:20am
 * New movies: My Hero Academia: The Movie - World Heroes' Mission (Dubbed), My Hero Academia: The Movie - World Heroes' Mission (Subtitled)
 * New screenings: 
