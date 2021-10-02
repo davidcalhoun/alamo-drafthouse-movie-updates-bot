@@ -1,3 +1,5 @@
+name: "New movies"
+description: "Checks a market for newly added movies."
 inputs:
   alamoMarket:
     description: "Alamo market (e.g. Los Angeles)"
@@ -10,5 +12,5 @@ runs:
   using: "composite"
   steps:
     - id: get-new-movies
-      run: echo "::set-output name=value::$(yarn new-movies ${{ inputs.alamoMarket }})"
+      run: echo "::set-output name=value::$(echo $RANDOM)"
       shell: bash
