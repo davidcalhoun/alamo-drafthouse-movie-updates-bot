@@ -14,3 +14,4 @@ const checkForNewMovies = async (marketName) => {
 
 checkForNewMovies(alamoMarket);
 
+process.exit(0);

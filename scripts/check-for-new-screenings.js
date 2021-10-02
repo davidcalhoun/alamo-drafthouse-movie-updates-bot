@@ -13,3 +13,5 @@ const checkForNewScreenings = async (marketName) => {
 }
 
 checkForNewScreenings(alamoMarket);
+
+process.exit(0);

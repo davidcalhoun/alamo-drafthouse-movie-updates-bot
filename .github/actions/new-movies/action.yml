@@ -12,5 +12,5 @@ runs:
   using: "composite"
   steps:
     - id: get-new-movies
-      run: echo "::set-output name=value::$(echo $RANDOM)"
+      run: echo "::set-output name=value::$(yarn new-movies ${{ inputs.alamoMarket }})"
       shell: bash
