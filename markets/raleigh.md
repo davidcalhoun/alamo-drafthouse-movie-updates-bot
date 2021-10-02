@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 10/1 2:34pm
+* New movies: The Doors: Live at The Bowl ’68 - Special Edition
+* New screenings: 
+    * [The Doors Live At The Bowl 68 Special Edition](https://drafthouse.com/raleigh/show/the-doors-live-at-the-bowl-68-special-edition): Thu 11/4 (7:15pm)
+
 ### Fri 10/1 11:38am
 * New screenings: 
     * [The Many Saints Of Newark](https://drafthouse.com/raleigh/show/the-many-saints-of-newark): Fri 10/1 (3:15pm)

@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 10/1 11:34am
+* New movies: The Doors: Live at The Bowl ’68 - Special Edition
+* New screenings: 
+    * [The Doors Live At The Bowl 68 Special Edition](https://drafthouse.com/los-angeles/show/the-doors-live-at-the-bowl-68-special-edition): Thu 11/4 (7:00pm)
+
 ### Fri 10/1 8:20am
 * New movies: Halloween Kills
 * New screenings: 
