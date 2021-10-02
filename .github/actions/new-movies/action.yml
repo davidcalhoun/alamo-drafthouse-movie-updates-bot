@@ -3,12 +3,12 @@ inputs:
     description: "Alamo market (e.g. Los Angeles)"
     required: true
 outputs:
-  newMovies:
+  movies:
     description: "Newly added movies"
-    value: ${{ steps.movies.outputs.newMovies }}
+    value: ${{ steps.get-new-movies.outputs.movies }}
 runs:
   using: "composite"
   steps:
-    - id: movies
-      run: echo "::set-output name=newMovies::$(yarn new-movies ${{ inputs.alamoMarket }})"
+    - id: get-new-movies
+      run: echo "::set-output name=movies::$(yarn new-movies ${{ inputs.alamoMarket }})"
       shell: bash
