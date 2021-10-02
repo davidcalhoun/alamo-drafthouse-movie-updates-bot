@@ -15,13 +15,13 @@ jobs:
       - name: Check for new movies.
         id: new-movies
         uses: ./.github/actions/new-movies
-          with:
-              alamoMarket: los-angeles
+        with:
+          alamoMarket: los-angeles
       - name: Check for new screenings.
         id: new-screenings
         uses: ./.github/actions/new-screenings
-          with:
-              alamoMarket: los-angeles
+        with:
+          alamoMarket: los-angeles
       - name: (on movie/screenings add) Update readme for market.
         if: steps.new-movies.outputs.newMovies != '' || steps.new-screenings.outputs.newScreenings != ''
         run: yarn update-readme los-angeles
