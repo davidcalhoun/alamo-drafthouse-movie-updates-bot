@@ -19,11 +19,11 @@ jobs:
         id: new-screenings
         run: yarn new-screenings los-angeles
       - name: (on movie/screenings add) Update readme for market.
-        if: steps.new-movies.outputs.newMovies !== '' || steps.new-screenings.outputs.newScreenings !== ''
+        if: steps.new-movies.outputs.newMovies != '' || steps.new-screenings.outputs.newScreenings != ''
         run: yarn update-readme los-angeles
       - name: (on movie/screenings add) Check in new movies to the repo.
         uses: test-room-7/action-update-file@v1
-        if: steps.new-movies.outputs.newMovies !== '' || steps.new-screenings.outputs.newScreenings !== ''
+        if: steps.new-movies.outputs.newMovies != '' || steps.new-screenings.outputs.newScreenings != ''
         with:
           file-path: |
             data
