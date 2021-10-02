@@ -14,6 +14,11 @@
   },
   "type": "module",
   "scripts": {
-    "start": "yarn node --experimental-json-modules scripts/update-movies.js"
+    "start": "yarn node --experimental-json-modules scripts/update-movies.js",
+    "fetch": "yarn node --experimental-json-modules scripts/fetch-movies.js",
+    "new-movies": "yarn node --experimental-json-modules scripts/check-for-new-movies.js",
+    "new-screenings": "yarn node --experimental-json-modules scripts/check-for-new-screenings.js",
+    "update-readme": "yarn node --experimental-json-modules scripts/update-readme.js",
+    "cleanup": "yarn node --experimental-json-modules scripts/cleanup.js"
   }
 }

@@ -1,0 +1,32 @@
+name: checks for movie updates
+on:
+  push:
+  schedule:
+    - cron: "7 12 * * *" # runs daily at 12:07pm
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+    steps:
+      # Checks out code from Github.
+      - name: Checkout repo
+        uses: actions/checkout@v2
+      - name: Fetch latest movie data for market.
+        run: yarn fetch los-angeles
+      - name: Check for new movies.
+        id: new-movies
+        run: yarn new-movies los-angeles
+      - name: Check for new screenings.
+        id: new-screenings
+        run: yarn new-screenings los-angeles
+      - name: (on movie/screenings add) Update readme for market.
+        if: steps.new-movies.outputs.newMovies !== '' || steps.new-screenings.outputs.newScreenings !== ''
+        run: yarn update-readme los-angeles
+      - name: (on movie/screenings add) Check in new movies to the repo.
+        uses: test-room-7/action-update-file@v1
+        if: steps.new-movies.outputs.newMovies !== '' || steps.new-screenings.outputs.newScreenings !== ''
+        with:
+          file-path: |
+            data
+            markets
+          commit-msg: Bot - added new movies or screenings!
+          github-token: ${{ secrets.GITHUB_TOKEN }}

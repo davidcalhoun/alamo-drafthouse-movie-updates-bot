@@ -1,49 +1,21 @@
 import {createReadStream, createWriteStream, writeFile, readFile} from 'fs';
-import {pipeline} from 'stream';
 import {promisify} from 'util';
 import fetch from 'node-fetch';
 import {difference, differenceWith, uniqBy, uniq} from 'ramda';
-//import { format } from 'date-fns'
-//import { utcToZonedTime, format } from 'date-fns-tz';
 import dateFnsTz from 'date-fns-tz';
 const { utcToZonedTime, format } = dateFnsTz;
 
-const getTitle = ({presentationSlug}) => presentationSlug;
-const isHidden = ({isHidden}) => isHidden;
-
-const markets = [
-    {
-        name: 'raleigh',
-        timeZone: 'America/New_York'
-    },
-    {
-        name: 'los-angeles',
-        timeZone: 'America/Los_Angeles'
-    }
-];
-const moviesBaseUrl = 'https://drafthouse.com/s/mother/v2/schedule/market';
-
-const capitalizeFirstLetter = (str = '') => {
-    const letters = str.split('');
-    letters[0] = letters[0].toUpperCase();
-    return letters.join('');
-}
-  
-const kebabToPrettyPrint = (str = '') => {
-    return str.split('-').map(capitalizeFirstLetter).join(' ');
-}
-
-const fetchJSON = async (url) => {
+export const fetchJSON = async (url) => {
     const response = await fetch(url);
     return await response.json();
 }
 
-const read = async (path) => {
+export const read = async (path) => {
     const readFilePromisified = promisify(readFile);
     return await readFilePromisified(path, 'utf8');
 }
 
-const readJSON = async (path) => {
+export const readJSON = async (path) => {
     let data;
     try {
         data = await read(path);
@@ -55,22 +27,53 @@ const readJSON = async (path) => {
     return JSON.parse(data);
 }
 
-const write = async (path, data) => {
+export const write = async (path, data) => {
     const writeFilePromisified = promisify(writeFile);
     await writeFilePromisified(path, data);
+}
+
+const markets = [
+    {
+        name: 'raleigh',
+        timeZone: 'America/New_York'
+    },
+    {
+        name: 'los-angeles',
+        timeZone: 'America/Los_Angeles'
+    }
+];
+const defaultTimeZone = 'America/New_York';
+export const getTimeZone = (market) => {
+    const {timeZone} = markets.find(({ name: curMarket }) => curMarket === market) || {};
+
+    return timeZone || defaultTimeZone;
+}
+
+
+const getTitle = ({presentationSlug}) => presentationSlug;
+const isHidden = ({isHidden}) => isHidden;
+
+const capitalizeFirstLetter = (str = '') => {
+    const letters = str.split('');
+    letters[0] = letters[0].toUpperCase();
+    return letters.join('');
+}
+  
+export const kebabToPrettyPrint = (str = '') => {
+    return str.split('-').map(capitalizeFirstLetter).join(' ');
 }
 
 const isOnSale = ({ status }) => status === 'ONSALE';
 
 const getPresentationTitle = ({ show }) => show.title;
 
-const formatDate = (utcdatetime, timeZone) => {
+export const formatDate = (utcdatetime, timeZone) => {
     const datetime = typeof utcdatetime === 'number' ? new Date(utcdatetime) : new Date(`${utcdatetime}Z`);
     const zonedTime = utcToZonedTime(datetime, timeZone);
     return format(zonedTime, "eee L/d", { timeZone });
 }
 
-const formatTime = (utcdatetime, timeZone) => {
+export const formatTime = (utcdatetime, timeZone) => {
     const datetime = typeof utcdatetime === 'number' ? new Date(utcdatetime) : new Date(`${utcdatetime}Z`);
     const zonedTime = utcToZonedTime(datetime, timeZone);
     return format(zonedTime, "h:mmaaa", { timeZone });
@@ -103,7 +106,33 @@ const mergeShowingsPerMovie = (showings, timeZone) => {
     return result;
 }
 
-const getDiff = async (marketName, timeZone, oldMovies, newMovies) => {
+export const getMoviesDiff = async (marketName) => {
+    const timeZone = getTimeZone(marketName);
+
+    const errorMsgRunFetch = `Can't read temp JSON for market.  Need to run this first: node fetch-movies.js ${marketName}`;
+
+    let newMovies;
+    try {
+        newMovies = await readJSON(new URL(`../data/${marketName}-raw-temp.json`, import.meta.url));
+    } catch(e) {
+        console.error(errorMsgRunFetch, e);
+        return {};
+    }
+
+    if (!newMovies.data) {
+        console.error(errorMsgRunFetch);
+        return {};
+    }
+
+    let oldMovies;
+    try {
+        oldMovies = await readJSON(new URL(`../data/${marketName}-raw.json`, import.meta.url));
+    } catch(e) {
+        // Cache doesn't exist yet, so create it
+        oldMovies = {};
+    }
+
+
     // Check for new presentations (new movies).
     let oldPresentations = oldMovies.data?.presentations;
     const newPresentations = newMovies.data?.presentations;
@@ -138,9 +167,9 @@ ${ hiddenShowings?.length } hidden showings found.`);
 
 
 
-if (newFoundTitles.length > 0) {
-    console.log('New titles found: ', uniq(newFoundTitles.map(getPresentationTitle)));
-}
+    if (newFoundTitles.length > 0) {
+        console.log('New titles found: ', uniq(newFoundTitles.map(getPresentationTitle)));
+    }
 
     return {
         allMovies: uniq(newPresentations.map(getPresentationTitle).sort((a, b) => a.localeCompare(b))),
@@ -149,66 +178,6 @@ if (newFoundTitles.length > 0) {
     }
 }
 
-const updateReadme = async (market, timeZone, newMovies, newScreenings) => {
-    const readmePath = new URL(`../markets/${market}.md`, import.meta.url);
-    let oldReadme;
-    try {
-        oldReadme = await read(readmePath);
-    } catch(e) {
-        // init
-        oldReadme = `# ${market}\n## Movie updates`;
-    }
-    const movieUpdatesTitle = '## Movie updates';
-    const [prefix, suffix] = oldReadme.split(movieUpdatesTitle)
-
-    const now = new Date();
-
-    const newReadme = `${ prefix }${ movieUpdatesTitle }
-### ${ formatDate(now, timeZone) } ${ formatTime(now, timeZone) }
-${ newMovies.length > 0 ? `* New movies: ${ newMovies.join(', ')}\n` : '' }${ newScreenings.length > 0 ? `* New screenings: ${ newScreenings.map(({ presentationSlug, showings }) => `\n    * [${ kebabToPrettyPrint(presentationSlug) }](https://drafthouse.com/${ market }/show/${ presentationSlug }): ${ showings.join(', ') }`).join('')}` : '' }
-${ suffix }`;
-
-    write(readmePath, newReadme);
+export const formatScreeningsMarkdown = (screenings, marketName) => {
+    return screenings.map(({ presentationSlug, showings }) => `\n    * [${ kebabToPrettyPrint(presentationSlug) }](https://drafthouse.com/${ marketName }/show/${ presentationSlug }): ${ showings.join(', ') }`).join('\n');
 }
-
-const update = async(marketName, timeZone) => {
-    let rawLatestMovies;
-    try {
-        rawLatestMovies = await fetchJSON(`${moviesBaseUrl}/${marketName}`);
-    } catch(e) {
-        console.error('Error fetching latest movies:', e);
-        return;
-    }
-
-    let cachedMovies;
-    try {
-        cachedMovies = await readJSON(new URL(`../data/${marketName}-raw.json`, import.meta.url));
-    } catch(e) {
-        console.log('Creating new cache due to error: ', e);
-        // file doesn't exist yet, so create it
-        cachedMovies = {};
-    }
-
-    const { allMovies, newMovies, newScreenings } = await getDiff(marketName, timeZone, cachedMovies, rawLatestMovies);
-
-    // Updates cache
-    const cachePath = new URL(`../data/${marketName}-raw.json`, import.meta.url);
-    await write(cachePath, JSON.stringify(rawLatestMovies));
-
-    // Updates human readable movie list.
-    const humanCachePath = new URL(`../data/${marketName}.json`, import.meta.url);
-    await write(humanCachePath, JSON.stringify(allMovies, null, 2));
-
-    // Updates README.md
-    if (newScreenings.length > 0 || newMovies.length > 0) {
-        await updateReadme(marketName, timeZone, newMovies, newScreenings);
-        process.exit(1); // exit with "error", so following scripts will trigger
-    } else {
-        process.exit(0);
-    }
-}
-
-markets.forEach(({ name, timeZone }) => {
-    update(name, timeZone);
-});
-
