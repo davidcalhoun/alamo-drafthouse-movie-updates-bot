@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 10/1 6:37pm
+* New screenings: 
+    * [Shang Chi And The Legend Of The Ten Rings](https://drafthouse.com/los-angeles/show/shang-chi-and-the-legend-of-the-ten-rings): Sat 10/2 (10:15pm)
+    * [Venom Let There Be Carnage](https://drafthouse.com/los-angeles/show/venom-let-there-be-carnage): Sat 10/2 (10:15pm)
+
 ### Fri 10/1 11:34am
 * New movies: The Doors: Live at The Bowl ’68 - Special Edition
 * New screenings: 

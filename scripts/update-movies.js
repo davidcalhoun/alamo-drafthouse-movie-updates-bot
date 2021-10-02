@@ -64,12 +64,15 @@ const isOnSale = ({ status }) => status === 'ONSALE';
 
 const getPresentationTitle = ({ show }) => show.title;
 
-const formatDate = (datetime, timeZone) => {
-    return format(new Date(`${datetime}Z`), "eee L/d", { timeZone });
+const formatDate = (utcdatetime, timeZone) => {
+    const datetime = typeof utcdatetime === 'number' ? new Date(utcdatetime) : new Date(`${utcdatetime}Z`);
+    const zonedTime = utcToZonedTime(datetime, timeZone);
+    return format(zonedTime, "eee L/d", { timeZone });
 }
 
-const formatTime = (datetime, timeZone) => {
-    const zonedTime = utcToZonedTime(new Date(`${datetime}Z`), timeZone)
+const formatTime = (utcdatetime, timeZone) => {
+    const datetime = typeof utcdatetime === 'number' ? new Date(utcdatetime) : new Date(`${utcdatetime}Z`);
+    const zonedTime = utcToZonedTime(datetime, timeZone);
     return format(zonedTime, "h:mmaaa", { timeZone });
 }
 
@@ -123,12 +126,17 @@ const getDiff = async (marketName, timeZone, oldMovies, newMovies) => {
 
     const hiddenShowings = oldMovies.data?.sessions?.filter(isHidden);
 
+    const now = new Date().getTime();
+
     console.log(`
+${ formatDate(now, timeZone) } ${ formatTime(now, timeZone) }
 ${ marketName }
 ${ newPresentations.length } movies with ${ newShowings.length } total showings found.
 ${ newFoundTitles.length } new movies found.
 ${ newFoundShowings.length } new showings found.
 ${ hiddenShowings?.length } hidden showings found.`);
+
+
 
 if (newFoundTitles.length > 0) {
     console.log('New titles found: ', uniq(newFoundTitles.map(getPresentationTitle)));
