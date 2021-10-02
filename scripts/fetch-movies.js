@@ -1,8 +1,7 @@
-import {createReadStream, createWriteStream, writeFile, readFile} from 'fs';
-import {pipeline} from 'stream';
-import {promisify} from 'util';
-import fetch from 'node-fetch';
-import {fetchJSON, write, getTimeZone} from './utils.js'
+import {fetchJSON, write} from './utils.js'
+import { dirname } from 'path';
+import { fileURLToPath } from 'url';
+const __dirname = dirname(fileURLToPath(import.meta.url))
 
 const [nodePath, scriptPath, alamoMarket] = process.argv;
 
@@ -29,7 +28,7 @@ const fetchMovies = async(marketName) => {
     }
 
     // Updates temp cache.
-    const tmpPath = new URL(`../data/${marketName}-raw-temp.json`, import.meta.url);
+    const tmpPath = `${__dirname}/../data/${marketName}-raw-temp.json`;
     await write(tmpPath, JSON.stringify(rawLatestMovies));
 }
 
