@@ -33,4 +33,4 @@ const fetchMovies = async(marketName) => {
     await write(tmpPath, JSON.stringify(rawLatestMovies));
 }
 
-fetchMovies(alamoMarket);
+await fetchMovies(alamoMarket);
