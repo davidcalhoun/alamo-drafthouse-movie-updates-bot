@@ -22,8 +22,10 @@ jobs:
         uses: ./.github/actions/new-screenings
         with:
           alamoMarket: los-angeles
+      - run: echo new-movies ${{ steps.new-movies.outputs.movies }}
+        shell: bash
       - name: (on movie/screenings add) Update readme for market.
-        if: steps.new-movies.outputs.value != ''
+        if: steps.new-movies.outputs.movies != ''
         run: yarn update-readme los-angeles
       - name: (on movie/screenings add) Check in new movies to the repo.
         uses: test-room-7/action-update-file@v1

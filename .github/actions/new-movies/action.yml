@@ -3,7 +3,7 @@ inputs:
     description: "Alamo market (e.g. Los Angeles)"
     required: true
 outputs:
-  value:
+  movies:
     description: "Newly added movies"
     value: ${{ steps.get-new-movies.outputs.value }}
 runs:
