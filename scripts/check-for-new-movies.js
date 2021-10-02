@@ -12,6 +12,6 @@ const checkForNewMovies = async (marketName) => {
     }
 }
 
-checkForNewMovies(alamoMarket);
+await checkForNewMovies(alamoMarket);
 
 process.exit(0);

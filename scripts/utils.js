@@ -5,14 +5,24 @@ import {difference, differenceWith, uniqBy, uniq} from 'ramda';
 import dateFnsTz from 'date-fns-tz';
 const { utcToZonedTime, format } = dateFnsTz;
 
+const readFilePromisified = promisify(readFile);
+const writeFilePromisified = promisify(writeFile);
+
 export const fetchJSON = async (url) => {
     const response = await fetch(url);
     return await response.json();
 }
 
 export const read = async (path) => {
-    const readFilePromisified = promisify(readFile);
-    return await readFilePromisified(path, 'utf8');
+    let output;
+    try {
+        output = await readFilePromisified(path, 'utf8');
+    } catch(e) {
+        console.error(e);
+        return '';
+    }
+
+    return output;
 }
 
 export const readJSON = async (path) => {
@@ -28,7 +38,6 @@ export const readJSON = async (path) => {
 }
 
 export const write = async (path, data) => {
-    const writeFilePromisified = promisify(writeFile);
     await writeFilePromisified(path, data);
 }
 
@@ -113,11 +122,16 @@ export const getMoviesDiff = async (marketName) => {
 
     let newMovies;
     try {
+        console.log(333)
         newMovies = await readJSON(new URL(`../data/${marketName}-raw-temp.json`, import.meta.url));
+        console.log(444)
     } catch(e) {
+        console.log(23232, marketName)
         console.error(errorMsgRunFetch, e);
         return {};
     }
+
+    console.log(55, newMovies)
 
     if (!newMovies.data) {
         console.error(errorMsgRunFetch);
@@ -131,6 +145,8 @@ export const getMoviesDiff = async (marketName) => {
         // Cache doesn't exist yet, so create it
         oldMovies = {};
     }
+
+    console.log(111, oldMovies);
 
 
     // Check for new presentations (new movies).
@@ -164,8 +180,6 @@ ${ newPresentations.length } movies with ${ newShowings.length } total showings 
 ${ newFoundTitles.length } new movies found.
 ${ newFoundShowings.length } new showings found.
 ${ hiddenShowings?.length } hidden showings found.`);
-
-
 
     if (newFoundTitles.length > 0) {
         console.log('New titles found: ', uniq(newFoundTitles.map(getPresentationTitle)));

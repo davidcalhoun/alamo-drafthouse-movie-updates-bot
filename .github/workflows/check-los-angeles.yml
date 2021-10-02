@@ -27,12 +27,12 @@ jobs:
       - name: (on movie/screenings add) Update readme for market.
         if: steps.new-movies.outputs.movies != ''
         run: yarn update-readme los-angeles
-      - name: (on movie/screenings add) Check in new movies to the repo.
-        uses: test-room-7/action-update-file@v1
-        if: steps.new-movies.outputs.value != ''
-        with:
-          file-path: |
-            data
-            markets
-          commit-msg: Bot - added new movies or screenings!
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+      # - name: (on movie/screenings add) Check in new movies to the repo.
+      #   uses: test-room-7/action-update-file@v1
+      #   if: steps.new-movies.outputs.movies != ''
+      #   with:
+      #     file-path: |
+      #       data
+      #       markets
+      #     commit-msg: Bot - added new movies or screenings!
+      #     github-token: ${{ secrets.GITHUB_TOKEN }}
