@@ -4,7 +4,7 @@ on:
   schedule:
     - cron: "7 12 * * *" # runs daily at 12:07pm
 jobs:
-  build-and-test:
+  check-movies-los-angeles:
     runs-on: ubuntu-latest
     steps:
       # Checks out code from Github.
@@ -14,10 +14,14 @@ jobs:
         run: yarn fetch los-angeles
       - name: Check for new movies.
         id: new-movies
-        run: yarn new-movies los-angeles
+        uses: ./.github/actions/new-movies
+          with:
+              alamoMarket: los-angeles
       - name: Check for new screenings.
         id: new-screenings
-        run: yarn new-screenings los-angeles
+        uses: ./.github/actions/new-screenings
+          with:
+              alamoMarket: los-angeles
       - name: (on movie/screenings add) Update readme for market.
         if: steps.new-movies.outputs.newMovies != '' || steps.new-screenings.outputs.newScreenings != ''
         run: yarn update-readme los-angeles
