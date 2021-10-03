@@ -115,6 +115,12 @@ const mergeShowingsPerMovie = (showings, timeZone) => {
     return result;
 }
 
+const removeDiacritics = str => {
+    return str
+      .normalize('NFD')
+      .replace(/[\u0300-\u036f]/g, '');
+  }
+
 export const getMoviesDiff = async (marketName) => {
     const timeZone = getTimeZone(marketName);
 
@@ -177,7 +183,7 @@ export const getMoviesDiff = async (marketName) => {
 
     return {
         allMovies: uniq(newPresentations.map(getPresentationTitle).sort((a, b) => a.localeCompare(b))),
-        newMovies: newFoundTitles.map(getPresentationTitle),
+        newMovies: newFoundTitles.map(getPresentationTitle).map(removeDiacritics),
         newScreenings: mergeShowingsPerMovie(newFoundShowings, timeZone)
     }
 }
