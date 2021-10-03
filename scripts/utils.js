@@ -120,7 +120,7 @@ const removeDiacritics = str => {
 }
 
 const removeParens = str => {
-    return str.replace(/(|)/g, '');
+    return str.replace(/\(|\)/g, '');
 }
 
 export const getMoviesDiff = async (marketName) => {
