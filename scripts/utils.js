@@ -116,10 +116,8 @@ const mergeShowingsPerMovie = (showings, timeZone) => {
 }
 
 const removeDiacritics = str => {
-    return str
-      .normalize('NFD')
-      .replace(/[\u0300-\u036f]/g, '');
-  }
+    return str.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+}
 
 export const getMoviesDiff = async (marketName) => {
     const timeZone = getTimeZone(marketName);
