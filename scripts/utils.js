@@ -119,6 +119,10 @@ const removeDiacritics = str => {
     return str.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
 }
 
+const removeParens = str => {
+    return str.replace(/(|)/g, '');
+}
+
 export const getMoviesDiff = async (marketName) => {
     const timeZone = getTimeZone(marketName);
 
@@ -181,7 +185,7 @@ export const getMoviesDiff = async (marketName) => {
 
     return {
         allMovies: uniq(newPresentations.map(getPresentationTitle).sort((a, b) => a.localeCompare(b))),
-        newMovies: newFoundTitles.map(getPresentationTitle).map(removeDiacritics),
+        newMovies: newFoundTitles.map(getPresentationTitle).map(removeDiacritics).map(removeParens),
         newScreenings: mergeShowingsPerMovie(newFoundShowings, timeZone)
     }
 }

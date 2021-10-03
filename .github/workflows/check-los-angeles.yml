@@ -32,7 +32,7 @@ jobs:
         if: steps.new-movies.outputs.movies != '' || steps.new-screenings.outputs.screenings != ''
         with:
           file-path: |
-            data
-            markets
+            data/*.json
+            markets/*.md
           commit-msg: Bot - adding new movies/screenings
           github-token: ${{ secrets.GITHUB_TOKEN }}
