@@ -18,5 +18,6 @@ runs:
         r="${r//$'\n'/'%0A'}"                             # Multiline escape sequences for '\n'
         r="${r//$'\r'/'%0D'}"                             # Multiline escape sequences for '\r'
         r="${r//$'\''/'%E2%80%99'}"                       # Multiline escape sequences for `'`
+        r="${r//$':'/'%3A'}"                              # Multiline escape sequences for ':'
         echo "::set-output name=value::$r"
       shell: bash
