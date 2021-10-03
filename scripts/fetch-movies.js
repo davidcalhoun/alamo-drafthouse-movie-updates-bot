@@ -28,7 +28,8 @@ const fetchMovies = async(marketName) => {
     }
 
     // Updates temp cache.
-    const tmpPath = `${__dirname}/../data/${marketName}-raw-temp.json`;
+    //const tmpPath = `${__dirname}/../data/${marketName}-raw-temp.json`;
+    const tmpPath = new URL(`../data/${marketName}-raw-temp.json`, import.meta.url);
     await write(tmpPath, JSON.stringify(rawLatestMovies));
 }
 
