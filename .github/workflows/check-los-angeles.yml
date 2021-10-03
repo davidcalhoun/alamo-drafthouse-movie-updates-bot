@@ -2,7 +2,7 @@ name: checks for movie updates
 on:
   push:
   schedule:
-    - cron: "7 12 * * *" # runs daily at 12:07pm
+    - cron: "6 * * * *" # hourly, 6 mins past the hour
 jobs:
   check-movies-los-angeles:
     runs-on: ubuntu-latest
@@ -36,3 +36,6 @@ jobs:
             markets/*.md
           commit-msg: Bot - adding new movies/screenings
           github-token: ${{ secrets.GITHUB_TOKEN }}
+      - name: (on movie/screenings add) Update movie cache.
+        if: steps.new-movies.outputs.movies != '' || steps.new-screenings.outputs.screenings != ''
+        run: yarn cleanup los-angeles
