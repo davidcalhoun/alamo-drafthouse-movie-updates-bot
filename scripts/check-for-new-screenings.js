@@ -6,7 +6,7 @@ const checkForNewScreenings = async (marketName) => {
     const { newScreenings } = await getMoviesDiff(marketName);
 
     if (newScreenings.length) {
-        return formatScreeningsMarkdown(newScreenings, marketName)
+        console.log(formatScreeningsMarkdown(newScreenings, marketName));
     } else {
         return ''
     }

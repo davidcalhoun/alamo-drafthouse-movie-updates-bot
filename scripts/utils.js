@@ -122,16 +122,11 @@ export const getMoviesDiff = async (marketName) => {
 
     let newMovies;
     try {
-        console.log(333)
         newMovies = await readJSON(new URL(`../data/${marketName}-raw-temp.json`, import.meta.url));
-        console.log(444)
     } catch(e) {
-        console.log(23232, marketName)
         console.error(errorMsgRunFetch, e);
         return {};
     }
-
-    console.log(55, newMovies)
 
     if (!newMovies.data) {
         console.error(errorMsgRunFetch);
@@ -146,14 +141,10 @@ export const getMoviesDiff = async (marketName) => {
         oldMovies = {};
     }
 
-    console.log(111, oldMovies);
-
-
     // Check for new presentations (new movies).
     let oldPresentations = oldMovies.data?.presentations;
     const newPresentations = newMovies.data?.presentations;
     if (!oldPresentations) {
-        console.warn('No old presentations found');
         oldPresentations = [];
     };
 
@@ -161,7 +152,6 @@ export const getMoviesDiff = async (marketName) => {
 
     let oldShowings = oldMovies.data?.sessions;
     if (!oldShowings?.length) {
-        console.warn('No old showings found', oldShowings, oldMovies.data?.sessions);
         oldShowings = [];
     };
     const newShowings = newMovies.data?.sessions;
@@ -173,17 +163,17 @@ export const getMoviesDiff = async (marketName) => {
 
     const now = new Date().getTime();
 
-    console.log(`
-${ formatDate(now, timeZone) } ${ formatTime(now, timeZone) }
-${ marketName }
-${ newPresentations.length } movies with ${ newShowings.length } total showings found.
-${ newFoundTitles.length } new movies found.
-${ newFoundShowings.length } new showings found.
-${ hiddenShowings?.length } hidden showings found.`);
+//     console.log(`
+// ${ formatDate(now, timeZone) } ${ formatTime(now, timeZone) }
+// ${ marketName }
+// ${ newPresentations.length } movies with ${ newShowings.length } total showings found.
+// ${ newFoundTitles.length } new movies found.
+// ${ newFoundShowings.length } new showings found.
+// ${ hiddenShowings?.length } hidden showings found.`);
 
-    if (newFoundTitles.length > 0) {
-        console.log('New titles found: ', uniq(newFoundTitles.map(getPresentationTitle)));
-    }
+//     if (newFoundTitles.length > 0) {
+//         console.log('New titles found: ', uniq(newFoundTitles.map(getPresentationTitle)));
+//     }
 
     return {
         allMovies: uniq(newPresentations.map(getPresentationTitle).sort((a, b) => a.localeCompare(b))),
