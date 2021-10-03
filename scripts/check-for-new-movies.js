@@ -7,7 +7,7 @@ const checkForNewMovies = async (marketName) => {
 
     if (newMovies.length) {
         //console.log(newMovies.join(', '));
-        console.log('The French Dispatch, Venom: Let There Be Carnage, Titane, No Time to Die, Lamb (2021)');
+        console.log('The French Dispatch, Venom');
     } else {
         return ''
     }
