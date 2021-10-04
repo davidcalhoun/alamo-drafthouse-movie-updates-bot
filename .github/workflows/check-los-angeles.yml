@@ -27,6 +27,9 @@ jobs:
       - name: (on movie/screenings add) Update readme for market.
         if: steps.new-movies.outputs.movies != '' || steps.new-screenings.outputs.screenings != ''
         run: yarn update-readme los-angeles
+      - name: (on movie/screenings add) Update movie cache.
+        if: steps.new-movies.outputs.movies != '' || steps.new-screenings.outputs.screenings != ''
+        run: yarn cleanup los-angeles
       - name: (on movie/screenings add) Check in new movies to the repo.
         uses: test-room-7/action-update-file@v1
         if: steps.new-movies.outputs.movies != '' || steps.new-screenings.outputs.screenings != ''
@@ -36,6 +39,3 @@ jobs:
             markets/*.md
           commit-msg: Bot - adding new movies/screenings
           github-token: ${{ secrets.GITHUB_TOKEN }}
-      - name: (on movie/screenings add) Update movie cache.
-        if: steps.new-movies.outputs.movies != '' || steps.new-screenings.outputs.screenings != ''
-        run: yarn cleanup los-angeles
