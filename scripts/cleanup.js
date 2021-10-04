@@ -11,7 +11,10 @@ const updateCachesAndCleanup = async (marketName) => {
     const rawLatestMovies = await readJSON(tempCachePath);
     await write(cachePath, JSON.stringify(rawLatestMovies));
 
+    console.log(`Cache updated at ${ cachePath }`);
+
     // Delete old temp cache.
+    console.log(`Removing old temp cache at ${ tempCachePath }`);
     rmSync(tempCachePath, {
         force: true,
     });
