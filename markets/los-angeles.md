@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 10/4 8:26am
+* New movies: Dune 2021
+
+* New screenings: 
+    * [Dune 2021](https://drafthouse.com/los-angeles/show/dune-2021): Fri 10/22 (6:45pm), Sat 10/23 (7:15pm), Sun 10/24 (7:15pm)
+
 ### Sat 10/2 9:51pm
 * New movies: The French Dispatch, Venom: Let There Be Carnage, Titane, No Time to Die, Lamb 2021, Shang-Chi and the Legend of the Ten Rings, The Eyes of Tammy Faye, The Addams Family 2, Dear Evan Hansen, The Many Saints of Newark, Halloween Kills, Mean Girls, The French Dispatch, Shaun of the Dead, The Craft, Beetlejuice, No Time to Die, A Clockwork Orange - 4k Restoration, Andrzej Zuławski’s Possession - 4K Restoration, Halloween 1978, Scream, The Addams Family 1991 - 30th Anniversary, The Thing 1982, Blush, The Card Counter, The Doors: Live at The Bowl ’68 - Special Edition, The Exorcist, The Howling - 4K Restoration, The Lost Boys, The Shining, Willy Wonka and the Chocolate Factory, A NIGHTMARE ON ELM STREET, Phantasm - 4K Restoration
 
