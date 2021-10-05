@@ -30,6 +30,23 @@ jobs:
       - name: (on movie/screenings add) Update movie cache.
         if: steps.new-movies.outputs.movies != '' || steps.new-screenings.outputs.screenings != ''
         run: yarn cleanup los-angeles
+      - name: Send email
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: ${{secrets.SMTP_SERVER}}
+          server_port: ${{secrets.SMTP_PORT}}
+          username: ${{secrets.SMTP_USER}}
+          password: ${{secrets.SMTP_PASS}}
+          subject: New Alamo screenings - ${{steps.new-screenings.outputs.screenings}}
+          to: david.b.calhoun+alamobot@gmail.com
+          from: David Calhoun (alamo-bot)
+          secure: true
+          body: New movies/screenings found in Los Angeles!  ${{steps.new-screenings.outputs.screenings}}
+          reply_to: david.b.calhoun@gmail.com
+          # Optional unsigned/invalid certificates allowance:
+          # ignore_cert: true
+          convert_markdown: true
+          priority: low
       - name: (on movie/screenings add) Check in new movies to the repo.
         uses: test-room-7/action-update-file@v1
         if: steps.new-movies.outputs.movies != '' || steps.new-screenings.outputs.screenings != ''
