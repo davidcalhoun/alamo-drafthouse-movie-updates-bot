@@ -2,7 +2,7 @@
 
 ## Movie updates
 
-### Mon 10/4 4:31pm
+### Mon 10/4 8:26am
 
 - New movies: Dune 2021
 

@@ -31,6 +31,7 @@ jobs:
         if: steps.new-movies.outputs.movies != '' || steps.new-screenings.outputs.screenings != ''
         run: yarn cleanup los-angeles
       - name: Send email
+        if: steps.new-movies.outputs.movies != '' || steps.new-screenings.outputs.screenings != ''
         uses: dawidd6/action-send-mail@v3
         with:
           server_address: ${{secrets.SMTP_SERVER}}
@@ -41,7 +42,7 @@ jobs:
           to: david.b.calhoun@gmail.com
           from: '"Davids Alamo Bot" <david.b.calhoun@gmail.com>'
           secure: true
-          body: New movies/screenings found in Los Angeles!  ${{steps.new-screenings.outputs.screenings}}
+          body: New movies/screenings found in Los Angeles!  \nMovies - ${{steps.new-movies.outputs.movies}}\nScreenings - ${{steps.new-screenings.outputs.screenings}}\nView the archive [here](https://github.com/davidcalhoun/alamo-drafthouse-movie-updates-bot/blob/main/markets/los-angeles.md)
           reply_to: david.b.calhoun@gmail.com
           # Optional unsigned/invalid certificates allowance:
           # ignore_cert: true
