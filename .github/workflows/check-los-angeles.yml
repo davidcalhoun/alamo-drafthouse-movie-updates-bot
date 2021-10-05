@@ -41,9 +41,9 @@ jobs:
           to: david.b.calhoun@gmail.com
           from: '"Davids Alamo Bot" <david.b.calhoun@gmail.com>'
           secure: true
-          body: file://./los-angeles.md
+          html_body: file://los-angeles.md
           reply_to: david.b.calhoun@gmail.com
-          content_type: convert_markdown
+          content_type: text/html
           convert_markdown: true
           priority: low
       - name: (on movie/screenings add) Check in new movies to the repo.
