@@ -38,14 +38,15 @@ jobs:
           server_port: ${{secrets.SMTP_PORT}}
           username: ${{secrets.SMTP_USER}}
           password: ${{secrets.SMTP_PASS}}
-          subject: New Alamo movies/screenings - ${{steps.new-movies.outputs.movies}}, ${{steps.new-screenings.outputs.screenings}}
+          subject: "New Alamo screenings: ${{steps.new-movies.outputs.movies}}"
           to: david.b.calhoun@gmail.com
           from: '"Davids Alamo Bot" <david.b.calhoun@gmail.com>'
           secure: true
-          body: New movies/screenings found in Los Angeles!  \nMovies - ${{steps.new-movies.outputs.movies}}\nScreenings - ${{steps.new-screenings.outputs.screenings}}\nView the archive [here](https://github.com/davidcalhoun/alamo-drafthouse-movie-updates-bot/blob/main/markets/los-angeles.md)
+          body: 'New screenings found in Los Angeles!  \n ## Movies: ${{steps.new-movies.outputs.movies}}\n ## Screenings \n ${{steps.new-screenings.outputs.screenings}}\n  ## View the archive [here](https://github.com/davidcalhoun/alamo-drafthouse-movie-updates-bot/blob/main/markets/los-angeles.md)'
           reply_to: david.b.calhoun@gmail.com
           # Optional unsigned/invalid certificates allowance:
           # ignore_cert: true
+          content_type: text/html
           convert_markdown: true
           priority: low
       - name: (on movie/screenings add) Check in new movies to the repo.
