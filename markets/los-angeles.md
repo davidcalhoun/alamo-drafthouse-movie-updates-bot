@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 10/5 8:04am
+* New movies: The Last Duel
+
+* New screenings: 
+    * [The Last Duel](https://drafthouse.com/los-angeles/show/the-last-duel): Thu 10/14 (6:00pm), Fri 10/15 (6:15pm)
+
 
 ### Mon 10/4 8:26am
 
