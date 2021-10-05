@@ -41,7 +41,7 @@ jobs:
           to: david.b.calhoun@gmail.com
           from: '"Davids Alamo Bot" <david.b.calhoun@gmail.com>'
           secure: true
-          html_body: file://./los-angeles.md
+          html_body: file://los-angeles.md
           reply_to: david.b.calhoun@gmail.com
           convert_markdown: true
           priority: low

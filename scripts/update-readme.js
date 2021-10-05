@@ -32,11 +32,14 @@ ${ newText }
 ${ suffix }`;
 
     // Write to readme history (to check into github).
-    write(readmePath, newReadme);
+    await write(readmePath, newReadme);
 
     // Write temp file for notification email.
     const tmpEmailBodyPath = new URL(`../${marketName}.md`, import.meta.url);
-    write(tmpEmailBodyPath, newText);
+    await write(tmpEmailBodyPath, `${newText}
+
+Check out the [archive of new screenings](https://github.com/davidcalhoun/alamo-drafthouse-movie-updates-bot/blob/main/markets/los-angeles.md)
+`);
 }
 
 updateReadme(alamoMarket);
