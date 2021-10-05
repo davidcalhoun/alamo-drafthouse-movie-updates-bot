@@ -37,7 +37,7 @@ jobs:
           server_port: ${{secrets.SMTP_PORT}}
           username: ${{secrets.SMTP_USER}}
           password: ${{secrets.SMTP_PASS}}
-          subject: New Alamo screenings - ${{steps.new-screenings.outputs.screenings}}
+          subject: New Alamo movies/screenings - ${{steps.new-movies.outputs.movies}}, ${{steps.new-screenings.outputs.screenings}}
           to: david.b.calhoun+alamobot@gmail.com
           from: David Calhoun (alamo-bot)
           secure: true
