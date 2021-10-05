@@ -23,13 +23,20 @@ const updateReadme = async (marketName) => {
     const moviesFormatted = newMovies.join(', ');
     const screeningsFormatted = formatScreeningsMarkdown(newScreenings, marketName);
 
+    const newText = `${ newMovies.length > 0 ? `* New movies: ${ moviesFormatted }\n` : `` }
+${ newScreenings.length > 0 ? `* New screenings: ${ screeningsFormatted }` : `` }`
+
     const newReadme = `${ prefix }${ movieUpdatesTitle }
 ### ${ formatDate(now, timeZone) } ${ formatTime(now, timeZone) }
-${ newMovies.length > 0 ? `* New movies: ${ moviesFormatted }\n` : `` }
-${ newScreenings.length > 0 ? `* New screenings: ${ screeningsFormatted }` : `` }
+${ newText }
 ${ suffix }`;
 
+    // Write to readme history (to check into github).
     write(readmePath, newReadme);
+
+    // Write temp file for notification email.
+    const tmpEmailBodyPath = new URL(`../${marketName}.md`, import.meta.url);
+    write(tmpEmailBodyPath, newText);
 }
 
 updateReadme(alamoMarket);

@@ -13,6 +13,9 @@ const fetchMovies = async(marketName) => {
         return;
     }
 
+    // Keeps track of response timing.
+    const timeStart = Date.now();
+
     // Fetch latest movies for the market.
     let rawLatestMovies;
     try {
@@ -22,15 +25,18 @@ const fetchMovies = async(marketName) => {
         return;
     }
 
+    console.log(`Fetched movies for ${ marketName } in ${ Date.now() - timeStart } milliseconds.`);
+
     if (rawLatestMovies.error) {
         console.error(`Error: HTTP ${rawLatestMovies.error?.errorCode?.code}.  Are you sure market '${alamoMarket}' exists?`);
         return;
     }
 
     // Updates temp cache.
-    //const tmpPath = `${__dirname}/../data/${marketName}-raw-temp.json`;
     const tmpPath = new URL(`../data/${marketName}-raw-temp.json`, import.meta.url);
     await write(tmpPath, JSON.stringify(rawLatestMovies));
+
+    console.log(`Temp cache updated for ${ marketName }`);
 }
 
 await fetchMovies(alamoMarket);
