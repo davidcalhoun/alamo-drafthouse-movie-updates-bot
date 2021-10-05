@@ -39,7 +39,7 @@ jobs:
           password: ${{secrets.SMTP_PASS}}
           subject: New Alamo movies/screenings - ${{steps.new-movies.outputs.movies}}, ${{steps.new-screenings.outputs.screenings}}
           to: david.b.calhoun@gmail.com
-          from: "David's Alamo Bot" <david.b.calhoun@gmail.com>
+          from: "Davids Alamo Bot" <david.b.calhoun@gmail.com>
           secure: true
           body: New movies/screenings found in Los Angeles!  ${{steps.new-screenings.outputs.screenings}}
           reply_to: david.b.calhoun@gmail.com
