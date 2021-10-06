@@ -25,11 +25,13 @@ jobs:
       - run: echo new-movies ${{ steps.new-movies.outputs.movies }}
         shell: bash
       - name: (on movie/screenings add) Update readme for market.
+        if: steps.new-movies.outputs.movies != '' || steps.new-screenings.outputs.screenings != ''
         run: yarn update-readme los-angeles
       - name: (on movie/screenings add) Update movie cache.
         if: steps.new-movies.outputs.movies != '' || steps.new-screenings.outputs.screenings != ''
         run: yarn cleanup los-angeles
       - name: (on movie/screenings add) Send email
+        if: steps.new-movies.outputs.movies != '' || steps.new-screenings.outputs.screenings != ''
         uses: dawidd6/action-send-mail@v3
         with:
           server_address: ${{secrets.SMTP_SERVER}}
@@ -45,8 +47,8 @@ jobs:
           convert_markdown: true
           priority: low
       - name: (on movie/screenings add) Check in new movies to the repo.
-        uses: test-room-7/action-update-file@v1
         if: steps.new-movies.outputs.movies != '' || steps.new-screenings.outputs.screenings != ''
+        uses: test-room-7/action-update-file@v1
         with:
           file-path: |
             data/*.json
