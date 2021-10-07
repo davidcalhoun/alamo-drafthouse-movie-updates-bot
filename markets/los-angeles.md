@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/6 9:25am
+* New movies: Godzilla vs. Hedorah, Gojira 1954 - 4k Restoration, The Heisei Godzilla Double Feature
+
+* New screenings: 
+    * [The Heisei Godzilla Double Feature](https://drafthouse.com/los-angeles/show/the-heisei-godzilla-double-feature): Sun 11/14 (12:00pm)
+
 ### Tue 10/5 3:23pm
 * New movies: GODZILLA VS. HEDORAH, GOJIRA 1954 - 4K RESTORATION, SHIN GODZILLA
 
