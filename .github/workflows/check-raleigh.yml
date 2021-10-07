@@ -1,35 +1,35 @@
-name: Check for new LA movies
+name: Check for new Raleigh movies
 on:
   push:
   schedule:
     - cron: "6 * * * *" # hourly, 6 mins past the hour
 jobs:
-  check-movies-los-angeles:
+  check-movies-raleigh:
     runs-on: ubuntu-latest
     steps:
       # Checks out code from Github.
       - name: Checkout repo
         uses: actions/checkout@v2
       - name: Fetch latest movie data for market.
-        run: yarn fetch los-angeles
+        run: yarn fetch raleigh
       - name: Check for new movies.
         id: new-movies
         uses: ./.github/actions/new-movies
         with:
-          alamoMarket: los-angeles
+          alamoMarket: raleigh
       - name: Check for new screenings.
         id: new-screenings
         uses: ./.github/actions/new-screenings
         with:
-          alamoMarket: los-angeles
+          alamoMarket: raleigh
       - run: echo new-movies ${{ steps.new-movies.outputs.movies }}
         shell: bash
       - name: (on movie/screenings add) Update readme for market.
         if: steps.new-movies.outputs.movies != '' || steps.new-screenings.outputs.screenings != ''
-        run: yarn update-readme los-angeles
+        run: yarn update-readme raleigh
       - name: (on movie/screenings add) Update movie cache.
         if: steps.new-movies.outputs.movies != '' || steps.new-screenings.outputs.screenings != ''
-        run: yarn cleanup los-angeles
+        run: yarn cleanup raleigh
       - name: (on movie/screenings add) Send email
         if: steps.new-movies.outputs.movies != '' || steps.new-screenings.outputs.screenings != ''
         uses: dawidd6/action-send-mail@v3
@@ -38,11 +38,11 @@ jobs:
           server_port: ${{secrets.SMTP_PORT}}
           username: ${{secrets.SMTP_USER}}
           password: ${{secrets.SMTP_PASS}}
-          subject: "New LA Alamo screenings: ${{steps.new-movies.outputs.movies}}"
+          subject: "New Raleigh Alamo screenings: ${{steps.new-movies.outputs.movies}}"
           to: david.b.calhoun@gmail.com
           from: '"Davids Alamo Bot" <david.b.calhoun@gmail.com>'
           secure: true
-          html_body: file://los-angeles.md
+          html_body: file://raleigh.md
           reply_to: david.b.calhoun@gmail.com
           convert_markdown: true
           priority: low

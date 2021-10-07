@@ -6,7 +6,7 @@ const checkForNewMovies = async (marketName) => {
     const { newMovies } = await getMoviesDiff(marketName);
 
     if (newMovies.length) {
-        console.log(newMovies.join(', '));
+        console.log(newMovies.map(movie => `    * ${ movie }`).join('\n'));
     } else {
         return ''
     }
