@@ -38,7 +38,7 @@ ${ suffix }`;
     const tmpEmailBodyPath = new URL(`../${marketName}.md`, import.meta.url);
     await write(tmpEmailBodyPath, `${newText}
 
-Check out the [archive of new screenings](https://github.com/davidcalhoun/alamo-drafthouse-movie-updates-bot/blob/main/markets/los-angeles.md)
+Check out the [archive of new screenings](https://github.com/davidcalhoun/alamo-drafthouse-movie-updates-bot/blob/main/markets/${ marketName }.md)
 `);
 }
 

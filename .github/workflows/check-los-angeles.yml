@@ -1,6 +1,5 @@
 name: Check for new LA movies
 on:
-  push:
   schedule:
     - cron: "6 * * * *" # hourly, 6 mins past the hour
 jobs:
