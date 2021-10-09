@@ -5,10 +5,17 @@ inputs:
 outputs:
   screenings:
     description: "Newly added screenings"
-    value: ${{ steps.get-new-screenings.outputs.screenings }}
+    value: ${{ steps.get-new-screenings.outputs.value }}
 runs:
   using: "composite"
   steps:
     - id: get-new-screenings
-      run: echo "::set-output name=screenings::$(yarn new-screenings ${{ inputs.alamoMarket }})"
+      run: |
+        r=$(yarn new-screenings ${{ inputs.alamoMarket }})
+        r="${r//'%'/'%25'}"                               # Multiline escape sequences for %
+        r="${r//$'\n'/'%0A'}"                             # Multiline escape sequences for '\n'
+        r="${r//$'\r'/'%0D'}"                             # Multiline escape sequences for '\r'
+        r="${r//$'\''/'%E2%80%99'}"                       # Multiline escape sequences for `'`
+        r="${r//$':'/'%3A'}"                              # Multiline escape sequences for ':'
+        echo "::set-output name=value::$r"
       shell: bash
