@@ -17,12 +17,14 @@ jobs:
         uses: ./.github/actions/new-movies
         with:
           alamoMarket: raleigh
+      - run: echo new-movies ${{ steps.new-movies.outputs.movies }}
+        shell: bash
       - name: Check for new screenings.
         id: new-screenings
         uses: ./.github/actions/new-screenings
         with:
           alamoMarket: raleigh
-      - run: echo new-movies ${{ steps.new-movies.outputs.movies }}
+      - run: echo new-screenings ${{ steps.new-screenings.outputs.screenings }}
         shell: bash
       - name: (on movie/screenings add) Update readme for market.
         if: steps.new-movies.outputs.movies != '' || steps.new-screenings.outputs.screenings != ''
