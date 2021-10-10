@@ -55,5 +55,5 @@ jobs:
           file-path: |
             data/*.json
             markets/*.md
-          commit-msg: Bot - adding new movies/screenings
+          commit-msg: Bot - adding new movies/screenings for Raleigh
           github-token: ${{ secrets.GITHUB_TOKEN }}
