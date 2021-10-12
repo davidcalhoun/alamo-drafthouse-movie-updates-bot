@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 10/12 8:36am
+* New movies: Last Night in Soho
+
+* New screenings: 
+    * [Last Night In Soho](https://drafthouse.com/raleigh/show/last-night-in-soho): Thu 10/28 (7:00pm, 10:15pm), Fri 10/29 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Sat 10/30 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Sun 10/31 (12:30pm, 3:45pm, 7:00pm)
+
 ### Mon 10/11 8:52pm
 * New movies: Eternals, Eternals
 
