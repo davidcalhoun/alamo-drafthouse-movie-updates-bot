@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 10/12 3:17pm
+* New movies: Bergman Island
+
+* New screenings: 
+    * [Bergman Island](https://drafthouse.com/raleigh/show/bergman-island): Thu 10/14 (7:15pm), Fri 10/15 (12:45pm, 4:15pm, 7:15pm, 10:25pm), Sat 10/16 (12:45pm, 4:15pm, 7:15pm, 10:25pm), Sun 10/17 (12:45pm, 4:15pm, 7:15pm), Mon 10/18 (12:45pm, 4:15pm, 7:15pm, 10:25pm), Tue 10/19 (12:45pm, 4:15pm, 7:15pm, 10:25pm), Wed 10/20 (12:45pm, 4:15pm, 7:15pm, 10:25pm)
+
 ### Tue 10/12 12:35pm
 
 * New screenings: 
