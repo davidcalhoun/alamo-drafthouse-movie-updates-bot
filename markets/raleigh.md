@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Wed 10/13 3:17pm
+
+* New screenings: 
+    * [Dune 2021](https://drafthouse.com/raleigh/show/dune-2021): Fri 10/29 (6:15pm)
+
 ### Tue 10/12 3:17pm
 * New movies: Bergman Island
 
