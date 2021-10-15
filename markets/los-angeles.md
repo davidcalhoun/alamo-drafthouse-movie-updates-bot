@@ -1,6 +1,15 @@
 # los-angeles
 
 ## Movie updates
+### Thu 10/14 6:05pm
+
+* New screenings: 
+    * [Dune 2021](https://drafthouse.com/los-angeles/show/dune-2021): Fri 10/22 (2:45pm, 10:00pm), Sat 10/23 (11:45am, 12:30pm, 3:30pm, 4:15pm, 8:00pm), Sun 10/24 (11:45am, 12:30pm, 3:30pm, 4:15pm, 8:00pm), Mon 10/25 (3:30pm, 7:15pm), Tue 10/26 (3:30pm, 7:15pm), Wed 10/27 (3:30pm, 7:15pm)
+
+    * [Eternals](https://drafthouse.com/los-angeles/show/eternals): Thu 11/4 (6:15pm, 6:45pm, 10:00pm, 10:30pm), Fri 11/5 (2:45pm, 3:15pm, 6:30pm, 7:00pm, 10:15pm, 10:45pm), Sat 11/6 (11:00am, 12:00pm, 2:45pm, 3:45pm, 6:30pm, 7:30pm), Sun 11/7 (11:00am, 12:30pm, 2:45pm, 4:15pm, 6:30pm, 8:00pm)
+
+    * [The French Dispatch](https://drafthouse.com/los-angeles/show/the-french-dispatch): Fri 10/22 (3:30pm, 6:30pm, 9:30pm), Sat 10/23 (1:30pm, 4:30pm, 7:30pm), Sun 10/24 (1:30pm, 4:30pm, 7:30pm, 8:15pm), Mon 10/25 (3:15pm, 4:00pm, 4:35pm, 6:15pm), Tue 10/26 (3:15pm, 4:00pm, 4:35pm, 6:15pm), Wed 10/27 (3:15pm, 4:00pm, 4:35pm, 6:15pm)
+
 ### Wed 10/13 11:21am
 * New movies: Bergman Island, The Rescue
 
