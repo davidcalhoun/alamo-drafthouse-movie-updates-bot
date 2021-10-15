@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 10/15 10:21am
+
+* New screenings: 
+    * [Halloween Kills](https://drafthouse.com/los-angeles/show/halloween-kills): Fri 10/15 (9:20pm), Sat 10/16 (4:35pm, 6:45pm), Sun 10/17 (7:00pm, 8:00pm)
+
 ### Thu 10/14 6:05pm
 
 * New screenings: 
