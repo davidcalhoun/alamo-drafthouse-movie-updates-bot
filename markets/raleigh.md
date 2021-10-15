@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 10/15 12:35pm
+
+* New screenings: 
+    * [Halloween Kills](https://drafthouse.com/raleigh/show/halloween-kills): Sat 10/16 (10:55pm), Sun 10/17 (6:00pm)
+
 ### Fri 10/15 10:20am
 
 * New screenings: 
