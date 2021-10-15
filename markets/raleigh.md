@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Fri 10/15 10:20am
+
+* New screenings: 
+    * [Dune 2021](https://drafthouse.com/raleigh/show/dune-2021): Thu 10/21 (7:00pm, 10:45pm), Fri 10/22 (11:45am, 3:30pm, 7:15pm, 10:55pm), Sat 10/23 (11:45am, 3:30pm, 7:15pm, 10:55pm), Sun 10/24 (12:00pm, 3:45pm, 7:30pm), Mon 10/25 (11:00am, 1:45pm, 2:45pm, 5:30pm, 6:30pm, 9:15pm, 10:15pm), Tue 10/26 (11:00am, 1:45pm, 2:45pm, 5:30pm, 6:30pm, 9:15pm, 10:15pm), Wed 10/27 (11:00am, 1:45pm, 2:45pm, 5:30pm, 6:30pm, 9:15pm, 10:15pm), Thu 10/28 (3:00pm)
+
+    * [Eternals](https://drafthouse.com/raleigh/show/eternals): Thu 11/4 (7:00pm, 9:00pm, 10:45pm), Fri 11/5 (11:30am, 3:15pm, 7:00pm, 10:45pm), Sat 11/6 (11:30am, 3:15pm, 7:00pm, 10:45pm), Sun 11/7 (10:45am, 2:30pm, 6:15pm), Mon 11/8 (10:45am, 11:30am, 2:30pm, 3:15pm, 6:15pm, 7:00pm, 10:00pm, 10:45pm), Tue 11/9 (10:45am, 11:30am, 2:30pm, 3:15pm, 6:15pm, 7:00pm, 10:00pm, 10:45pm), Wed 11/10 (10:45am, 11:30am, 2:30pm, 3:15pm, 6:15pm, 7:00pm, 10:00pm, 10:45pm)
+
 ### Wed 10/13 3:17pm
 
 * New screenings: 
