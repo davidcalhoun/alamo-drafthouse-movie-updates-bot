@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 10/19 2:27pm
+* New movies: Antlers
+
+* New screenings: 
+    * [Antlers](https://drafthouse.com/raleigh/show/antlers): Thu 10/28 (6:00pm, 9:00pm), Fri 10/29 (7:45pm, 10:45pm), Sat 10/30 (7:45pm, 10:45pm), Sun 10/31 (7:45pm)
+
 ### Tue 10/19 12:35pm
 * New movies: Ron's Gone Wrong, The Harder They Fall, The Electrical Life of Louis Wain
 
