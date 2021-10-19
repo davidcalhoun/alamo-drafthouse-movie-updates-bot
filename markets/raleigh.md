@@ -1,6 +1,34 @@
 # raleigh
 
 ## Movie updates
+### Tue 10/19 12:35pm
+* New movies: Ron's Gone Wrong, The Harder They Fall, The Electrical Life of Louis Wain
+
+* New screenings: 
+    * [Bergman Island](https://drafthouse.com/raleigh/show/bergman-island): Thu 10/21 (3:30pm)
+
+    * [Dune 2021](https://drafthouse.com/raleigh/show/dune-2021): Thu 10/21 (8:00pm, 9:00pm, 10:00pm), Fri 10/22 (12:30pm, 4:15pm, 5:00pm, 9:00pm), Sat 10/23 (12:30pm, 4:15pm, 5:00pm, 8:00pm, 9:00pm), Sun 10/24 (12:30pm, 4:15pm, 8:00pm), Mon 10/25 (12:30pm, 4:15pm, 5:00pm, 8:00pm, 9:00pm), Tue 10/26 (12:30pm, 4:15pm, 5:00pm, 8:00pm, 9:00pm), Wed 10/27 (12:30pm, 4:15pm, 8:00pm)
+
+    * [Halloween Kills](https://drafthouse.com/raleigh/show/halloween-kills): Thu 10/21 (11:15am, 2:00pm, 2:15pm, 5:00pm, 7:50pm, 10:35pm), Fri 10/22 (1:30pm, 4:30pm, 7:30pm, 10:35pm), Sat 10/23 (1:30pm, 4:30pm, 7:30pm, 10:35pm), Sun 10/24 (1:00pm, 4:00pm, 7:15pm), Mon 10/25 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Tue 10/26 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Wed 10/27 (12:00pm, 1:30pm, 4:30pm, 7:30pm, 10:35pm)
+
+    * [Lamb](https://drafthouse.com/raleigh/show/lamb): Thu 10/21 (1:00pm, 4:20pm)
+
+    * [No Time To Die](https://drafthouse.com/raleigh/show/no-time-to-die): Thu 10/21 (11:30am, 1:45pm, 2:30pm, 3:15pm, 5:15pm, 6:30pm, 10:15pm), Fri 10/22 (11:15am, 3:00pm, 6:15pm, 10:00pm), Sat 10/23 (11:15am, 3:00pm, 6:15pm, 10:00pm), Sun 10/24 (11:15am, 3:00pm, 6:15pm), Mon 10/25 (11:15am, 3:00pm, 6:15pm, 10:00pm), Tue 10/26 (11:15am, 3:00pm, 6:15pm, 10:00pm), Wed 10/27 (11:15am, 3:00pm, 6:15pm, 10:00pm)
+
+    * [Rons Gone Wrong](https://drafthouse.com/raleigh/show/rons-gone-wrong): Thu 10/21 (6:15pm, 9:15pm), Fri 10/22 (11:30am, 2:30pm, 5:45pm, 8:45pm), Sat 10/23 (11:30am, 2:30pm, 5:45pm, 8:45pm), Sun 10/24 (11:30am, 2:30pm, 5:45pm), Mon 10/25 (11:30am, 2:30pm, 5:45pm, 8:45pm), Tue 10/26 (11:30am, 2:30pm, 5:45pm, 8:45pm), Wed 10/27 (11:30am, 2:30pm, 5:45pm, 8:45pm)
+
+    * [Shang Chi And The Legend Of The Ten Rings](https://drafthouse.com/raleigh/show/shang-chi-and-the-legend-of-the-ten-rings): Thu 10/21 (11:45am, 3:00pm)
+
+    * [The Addams Family 2](https://drafthouse.com/raleigh/show/the-addams-family-2): Thu 10/21 (12:00pm, 2:45pm)
+
+    * [The Electrical Life Of Louis Wain](https://drafthouse.com/raleigh/show/the-electrical-life-of-louis-wain): Fri 10/22 (11:00am, 2:15pm, 5:30pm, 8:30pm), Sat 10/23 (11:00am, 2:15pm, 5:30pm, 8:30pm), Sun 10/24 (11:00am, 2:15pm, 5:30pm), Mon 10/25 (11:00am, 2:15pm, 5:15pm, 8:30pm), Tue 10/26 (11:00am, 2:15pm, 5:30pm, 8:30pm), Wed 10/27 (11:00am, 2:15pm, 5:30pm, 8:30pm)
+
+    * [The Harder They Fall](https://drafthouse.com/raleigh/show/the-harder-they-fall): Thu 10/21 (7:15pm, 10:45pm), Fri 10/22 (11:45am, 3:15pm, 6:45pm, 10:25pm), Sat 10/23 (11:45am, 3:15pm, 6:45pm, 10:25pm), Sun 10/24 (11:45am, 3:15pm, 6:45pm), Mon 10/25 (11:45am, 3:15pm, 6:45pm, 10:25pm), Tue 10/26 (11:45am, 3:15pm, 6:45pm, 10:25pm), Wed 10/27 (11:45am, 3:15pm, 6:45pm, 10:25pm)
+
+    * [The Last Duel](https://drafthouse.com/raleigh/show/the-last-duel): Thu 10/21 (12:40pm, 4:15pm, 5:45pm, 9:20pm), Fri 10/22 (12:45pm, 2:15pm, 6:00pm, 9:45pm), Sat 10/23 (1:00pm, 2:15pm, 6:00pm, 9:45pm), Sun 10/24 (11:45am, 3:30pm, 6:00pm), Mon 10/25 (1:00pm, 2:15pm, 6:00pm, 9:45pm), Tue 10/26 (1:00pm, 2:15pm, 6:00pm, 9:45pm), Wed 10/27 (2:15pm, 3:00pm, 6:00pm, 9:45pm)
+
+    * [Venom Let There Be Carnage](https://drafthouse.com/raleigh/show/venom-let-there-be-carnage): Thu 10/21 (1:15pm, 4:15pm, 7:30pm, 10:25pm), Fri 10/22 (12:15pm, 3:30pm, 7:00pm, 9:50pm), Sat 10/23 (12:15pm, 3:30pm, 7:00pm, 9:50pm), Sun 10/24 (12:15pm, 3:30pm, 7:00pm), Mon 10/25 (12:15pm, 3:30pm, 7:00pm, 9:50pm), Tue 10/26 (12:15pm, 3:30pm, 7:00pm, 9:50pm), Wed 10/27 (12:15pm, 3:30pm, 7:00pm, 9:50pm)
+
 ### Tue 10/19 11:24am
 
 * New screenings: 
