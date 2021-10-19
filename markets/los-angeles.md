@@ -1,6 +1,26 @@
 # los-angeles
 
 ## Movie updates
+### Tue 10/19 1:18pm
+* New movies: Antlers
+
+* New screenings: 
+    * [Antlers](https://drafthouse.com/los-angeles/show/antlers): Thu 10/28 (6:15pm, 9:00pm), Fri 10/29 (7:30pm, 10:15pm), Sat 10/30 (5:00pm, 7:45pm), Sun 10/31 (5:00pm, 7:45pm)
+
+    * [Dune 2021](https://drafthouse.com/los-angeles/show/dune-2021): Thu 10/21 (6:45pm, 10:30pm)
+
+    * [Halloween Kills](https://drafthouse.com/los-angeles/show/halloween-kills): Thu 10/21 (7:45pm, 10:50pm)
+
+    * [Lamb](https://drafthouse.com/los-angeles/show/lamb): Thu 10/21 (5:30pm)
+
+    * [No Time To Die](https://drafthouse.com/los-angeles/show/no-time-to-die): Thu 10/21 (5:45pm, 9:40pm)
+
+    * [The French Dispatch](https://drafthouse.com/los-angeles/show/the-french-dispatch): Thu 10/21 (7:30pm, 10:30pm)
+
+    * [The Last Duel](https://drafthouse.com/los-angeles/show/the-last-duel): Thu 10/21 (7:15pm, 10:30pm)
+
+    * [Titane](https://drafthouse.com/los-angeles/show/titane): Thu 10/21 (8:25pm)
+
 ### Mon 10/18 6:14pm
 
 * New screenings: 
