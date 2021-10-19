@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 10/19 11:24am
+
+* New screenings: 
+    * [No Time To Die](https://drafthouse.com/raleigh/show/no-time-to-die): Wed 10/20 (1:45pm, 5:30pm, 9:15pm)
+
 ### Fri 10/15 12:35pm
 
 * New screenings: 
