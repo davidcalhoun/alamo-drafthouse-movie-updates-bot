@@ -1,6 +1,24 @@
 # los-angeles
 
 ## Movie updates
+### Tue 10/19 6:04pm
+* New movies: The French Dispatch
+
+* New screenings: 
+    * [Dune 2021](https://drafthouse.com/los-angeles/show/dune-2021): Fri 10/22 (2:00pm, 5:45pm, 9:30pm), Sat 10/23 (11:45am, 12:30pm, 3:30pm, 4:15pm), Sun 10/24 (11:45am, 12:30pm, 3:30pm, 4:15pm)
+
+    * [Halloween Kills](https://drafthouse.com/los-angeles/show/halloween-kills): Fri 10/22 (4:45pm, 8:00pm, 11:15pm), Sat 10/23 (1:45pm, 5:15pm, 8:15pm), Sun 10/24 (1:45pm, 5:15pm, 8:30pm)
+
+    * [Lamb](https://drafthouse.com/los-angeles/show/lamb): Fri 10/22 (5:35pm), Sat 10/23 (3:20pm), Sun 10/24 (3:20pm)
+
+    * [No Time To Die](https://drafthouse.com/los-angeles/show/no-time-to-die): Fri 10/22 (2:30pm, 6:20pm, 10:10pm), Sat 10/23 (10:45am, 2:45pm, 6:45pm), Sun 10/24 (10:45am, 2:45pm, 7:00pm)
+
+    * [The French Dispatch](https://drafthouse.com/los-angeles/show/the-french-dispatch): Fri 10/22 (2:15pm, 3:00pm, 3:30pm, 4:00pm, 4:30pm, 5:15pm, 7:00pm, 7:15pm, 8:15pm, 9:30pm, 10:15pm, 10:30pm, 10:45pm), Sat 10/23 (11:00am, 11:30am, 12:00pm, 12:15pm, 1:00pm, 1:30pm, 2:00pm, 2:30pm, 3:00pm, 3:15pm, 4:00pm, 5:30pm, 6:00pm, 6:30pm, 7:00pm), Sun 10/24 (11:30am, 12:15pm, 12:45pm, 1:30pm, 2:00pm, 2:30pm, 3:00pm, 3:15pm, 3:45pm, 4:30pm, 6:30pm, 6:45pm, 7:30pm, 8:15pm)
+
+    * [The Last Duel](https://drafthouse.com/los-angeles/show/the-last-duel): Fri 10/22 (3:40pm, 7:15pm, 11:00pm), Sat 10/23 (12:10pm, 3:45pm, 7:45pm), Sun 10/24 (12:15pm, 4:00pm, 7:45pm)
+
+    * [Titane](https://drafthouse.com/los-angeles/show/titane): Fri 10/22 (2:45pm, 8:45pm), Sat 10/23 (12:30pm, 6:15pm), Sun 10/24 (12:30pm, 6:15pm)
+
 ### Tue 10/19 4:18pm
 
 * New screenings: 
