@@ -1,6 +1,50 @@
 # raleigh
 
 ## Movie updates
+### Wed 10/20 2:26pm
+* New movies: Elf, It's a Wonderful Life, Cabaret, Eyes Wide Shut, Godzilla vs. Biollante, Gremlins, National Lampoon's Christmas Vacation, Planes, Trains & Automobiles, Return of Godzilla, Shin Godzilla, The Heisei Godzilla Double Feature, The Holiday, The Polar Express, When Harry Met Sally..., AGFA's Special Christmas Special, Black Christmas 1974, Dial Code Santa Claus, Scrooged, Unforgiven
+
+* New screenings: 
+    * [Agfas Special Christmas Special](https://drafthouse.com/raleigh/show/agfas-special-christmas-special): Sun 12/12 (9:45pm)
+
+    * [Black Christmas](https://drafthouse.com/raleigh/show/black-christmas): Mon 12/20 (7:45pm)
+
+    * [Cabaret](https://drafthouse.com/raleigh/show/cabaret): Tue 11/23 (7:45pm)
+
+    * [Dial Code Santa Claus](https://drafthouse.com/raleigh/show/dial-code-santa-claus): Tue 12/21 (10:30pm)
+
+    * [Eyes Wide Shut](https://drafthouse.com/raleigh/show/eyes-wide-shut): Sun 12/26 (5:45pm)
+
+    * [Godzilla Vs Biollante](https://drafthouse.com/raleigh/show/godzilla-vs-biollante): Tue 11/16 (9:45pm)
+
+    * [Gojira 4k Restoration](https://drafthouse.com/raleigh/show/gojira-4k-restoration): Tue 11/9 (6:45pm)
+
+    * [Gremlins](https://drafthouse.com/raleigh/show/gremlins): Mon 12/6 (9:15pm)
+
+    * [Its A Wonderful Life](https://drafthouse.com/raleigh/show/its-a-wonderful-life): Wed 12/22 (7:15pm)
+
+    * [Movie Party Elf](https://drafthouse.com/raleigh/show/movie-party-elf): Sun 11/14 (6:00pm), Wed 12/1 (7:00pm)
+
+    * [Movie Party National Lampoons Christmas Vacation](https://drafthouse.com/raleigh/show/movie-party-national-lampoons-christmas-vacation): Mon 11/22 (5:00pm)
+
+    * [Planes Trains Automobiles](https://drafthouse.com/raleigh/show/planes-trains-automobiles): Thu 11/25 (5:45pm)
+
+    * [Return Of Godzilla](https://drafthouse.com/raleigh/show/return-of-godzilla): Mon 11/15 (9:45pm)
+
+    * [Scrooged](https://drafthouse.com/raleigh/show/scrooged): Tue 12/7 (9:15pm)
+
+    * [Shin Godzilla](https://drafthouse.com/raleigh/show/shin-godzilla): Mon 11/8 (6:45pm)
+
+    * [The Heisei Godzilla Double Feature](https://drafthouse.com/raleigh/show/the-heisei-godzilla-double-feature): Sun 11/14 (2:15pm)
+
+    * [The Holiday Brunch](https://drafthouse.com/raleigh/show/the-holiday-brunch): Sun 12/12 (10:00am)
+
+    * [The Polar Express](https://drafthouse.com/raleigh/show/the-polar-express): Sun 11/28 (11:00am)
+
+    * [Unforgiven W Bonus Content](https://drafthouse.com/raleigh/show/unforgiven-w-bonus-content): Tue 11/16 (6:15pm)
+
+    * [When Harry Met Sally Brunch](https://drafthouse.com/raleigh/show/when-harry-met-sally-brunch): Fri 12/31 (11:00am)
+
 ### Tue 10/19 2:27pm
 * New movies: Antlers
 
