@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Tue 10/19 8:19pm
+
+* New screenings: 
+    * [No Time To Die](https://drafthouse.com/los-angeles/show/no-time-to-die): Wed 10/20 (6:30pm)
+
+    * [The French Dispatch](https://drafthouse.com/los-angeles/show/the-french-dispatch): Sat 10/23 (7:30pm)
+
 ### Tue 10/19 7:07pm
 
 * New screenings: 
