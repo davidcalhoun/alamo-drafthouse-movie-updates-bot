@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 10/19 7:07pm
+
+* New screenings: 
+    * [The Exorcist](https://drafthouse.com/los-angeles/show/the-exorcist): Thu 10/21 (5:30pm, 10:50pm)
+
 ### Tue 10/19 6:04pm
 * New movies: The French Dispatch
 
