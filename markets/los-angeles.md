@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/20 10:22am
+
+* New screenings: 
+    * [Gojira 4k Restoration](https://drafthouse.com/los-angeles/show/gojira-4k-restoration): Wed 11/3 (6:45pm)
+
+    * [The French Dispatch](https://drafthouse.com/los-angeles/show/the-french-dispatch): Fri 10/22 (6:00pm)
+
 ### Wed 10/20 12:17am
 
 * New screenings: 
