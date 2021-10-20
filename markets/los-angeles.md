@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/20 3:18pm
+
+* New screenings: 
+    * [Dune 2021](https://drafthouse.com/los-angeles/show/dune-2021): Sun 10/24 (7:15pm)
+
 ### Wed 10/20 1:18pm
 
 * New screenings: 
