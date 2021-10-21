@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/20 11:22pm
+
+* New screenings: 
+    * [Dune 2021](https://drafthouse.com/los-angeles/show/dune-2021): Fri 10/22 (10:00pm)
+
 ### Wed 10/20 9:24pm
 * New movies: Elf, National Lampoon's Christmas Vacation, Love Actually, Planes, Trains & Automobiles, It's a Wonderful Life, Cabaret, Carol, Eyes Wide Shut, Godzilla vs. Biollante, National Lampoon's Christmas Vacation, Switchblade Sisters, The Apartment, The Holiday, When Harry Met Sally..., White Christmas, Batman Returns, Black Christmas 1974, Meet Me in St. Louis, Unforgiven, PEEPING TOM
 
