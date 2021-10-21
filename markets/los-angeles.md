@@ -1,6 +1,24 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/20 8:18pm
+* New movies: Black Narcissus, Blood and Black Lace, Death Line, Penitentiary, The Handmaiden, The Outlaw Josey Wales
+
+* New screenings: 
+    * [Black Narcissus](https://drafthouse.com/los-angeles/show/black-narcissus): Sun 11/7 (7:40pm)
+
+    * [Blood And Black Lace](https://drafthouse.com/los-angeles/show/blood-and-black-lace): Thu 11/11 (6:45pm)
+
+    * [Death Line](https://drafthouse.com/los-angeles/show/death-line): Sun 11/14 (8:15pm)
+
+    * [Penitentiary](https://drafthouse.com/los-angeles/show/penitentiary): Wed 11/10 (6:45pm)
+
+    * [The French Dispatch](https://drafthouse.com/los-angeles/show/the-french-dispatch): Fri 10/22 (7:30pm)
+
+    * [The Handmaiden](https://drafthouse.com/los-angeles/show/the-handmaiden): Sun 11/14 (4:40pm)
+
+    * [The Outlaw Josey Wales W Bonus Content](https://drafthouse.com/los-angeles/show/the-outlaw-josey-wales-w-bonus-content): Mon 11/8 (3:00pm)
+
 ### Wed 10/20 6:08pm
 * New movies: Andrzej Zuławski’s Possession - 4K Restoration
 
