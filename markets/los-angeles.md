@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 10/21 1:19pm
+
+* New screenings: 
+    * [Phantasm](https://drafthouse.com/los-angeles/show/phantasm): Mon 10/25 (6:45pm)
+
 ### Thu 10/21 11:21am
 
 * New screenings: 
