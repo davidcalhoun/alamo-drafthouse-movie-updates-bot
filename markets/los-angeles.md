@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 10/21 9:39am
+* New movies: Spencer
+
+* New screenings: 
+    * [Spencer](https://drafthouse.com/los-angeles/show/spencer): Thu 11/4 (5:00pm)
+
 ### Wed 10/20 11:22pm
 
 * New screenings: 
