@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 10/21 12:46pm
+* New movies: Spencer
+
+* New screenings: 
+    * [Spencer](https://drafthouse.com/raleigh/show/spencer): Thu 11/4 (5:00pm)
+
 ### Thu 10/21 11:49am
 * New movies: Clifford, The Big Red Dog, Ghostbusters 1984, The Rocky Horror Picture Show, Clifford, The Big Red Dog
 
