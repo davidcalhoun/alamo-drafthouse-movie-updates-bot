@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Thu 10/21 7:22pm
+
+* New screenings: 
+    * [Dune 2021](https://drafthouse.com/raleigh/show/dune-2021): Fri 10/22 (8:30pm, 10:25pm), Sat 10/23 (8:30pm, 10:25pm), Sun 10/24 (5:30pm, 6:45pm)
+
 ### Thu 10/21 12:46pm
 * New movies: Spencer
 
