@@ -1,6 +1,18 @@
 # raleigh
 
 ## Movie updates
+### Thu 10/21 11:49am
+* New movies: Clifford, The Big Red Dog, Ghostbusters 1984, The Rocky Horror Picture Show, Clifford, The Big Red Dog
+
+* New screenings: 
+    * [Clifford The Big Red Dog](https://drafthouse.com/raleigh/show/clifford-the-big-red-dog): Wed 11/10 (11:15am, 2:15pm, 5:00pm, 7:45pm), Thu 11/11 (11:15am, 2:15pm, 5:00pm, 7:45pm)
+
+    * [Clifford The Big Red Dog Early Access Screening](https://drafthouse.com/raleigh/show/clifford-the-big-red-dog-early-access-screening): Tue 11/9 (11:15am, 2:15pm, 5:00pm, 7:45pm)
+
+    * [Ghostbusters 1984](https://drafthouse.com/raleigh/show/ghostbusters-1984): Tue 11/2 (6:40pm)
+
+    * [The Rocky Horror Picture Show](https://drafthouse.com/raleigh/show/the-rocky-horror-picture-show): Thu 10/28 (10:00pm)
+
 ### Wed 10/20 2:26pm
 * New movies: Elf, It's a Wonderful Life, Cabaret, Eyes Wide Shut, Godzilla vs. Biollante, Gremlins, National Lampoon's Christmas Vacation, Planes, Trains & Automobiles, Return of Godzilla, Shin Godzilla, The Heisei Godzilla Double Feature, The Holiday, The Polar Express, When Harry Met Sally..., AGFA's Special Christmas Special, Black Christmas 1974, Dial Code Santa Claus, Scrooged, Unforgiven
 
