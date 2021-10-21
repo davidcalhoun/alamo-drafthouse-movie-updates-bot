@@ -1,6 +1,50 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/20 9:24pm
+* New movies: Elf, National Lampoon's Christmas Vacation, Love Actually, Planes, Trains & Automobiles, It's a Wonderful Life, Cabaret, Carol, Eyes Wide Shut, Godzilla vs. Biollante, National Lampoon's Christmas Vacation, Switchblade Sisters, The Apartment, The Holiday, When Harry Met Sally..., White Christmas, Batman Returns, Black Christmas 1974, Meet Me in St. Louis, Unforgiven, PEEPING TOM
+
+* New screenings: 
+    * [Batman Returns](https://drafthouse.com/los-angeles/show/batman-returns): Sun 12/12 (5:25pm)
+
+    * [Black Christmas](https://drafthouse.com/los-angeles/show/black-christmas): Wed 12/22 (8:00pm)
+
+    * [Cabaret](https://drafthouse.com/los-angeles/show/cabaret): Tue 11/23 (6:45pm)
+
+    * [Carol Brunch](https://drafthouse.com/los-angeles/show/carol-brunch): Sun 12/26 (11:00am)
+
+    * [Eyes Wide Shut](https://drafthouse.com/los-angeles/show/eyes-wide-shut): Wed 12/29 (8:00pm)
+
+    * [Godzilla Vs Biollante](https://drafthouse.com/los-angeles/show/godzilla-vs-biollante): Thu 11/18 (6:45pm)
+
+    * [Its A Wonderful Life](https://drafthouse.com/los-angeles/show/its-a-wonderful-life): Sun 12/19 (2:10pm)
+
+    * [Love Actually Brunch](https://drafthouse.com/los-angeles/show/love-actually-brunch): Fri 11/26 (11:00am), Sat 11/27 (11:00am), Sun 11/28 (11:00am)
+
+    * [Meet Me In St Louis](https://drafthouse.com/los-angeles/show/meet-me-in-st-louis): Sun 12/12 (2:25pm)
+
+    * [Movie Party Elf](https://drafthouse.com/los-angeles/show/movie-party-elf): Tue 11/30 (6:45pm), Mon 12/6 (6:45pm), Mon 12/20 (6:45pm), Tue 12/21 (6:45pm), Thu 12/23 (6:45pm)
+
+    * [Movie Party National Lampoons Christmas Vacation](https://drafthouse.com/los-angeles/show/movie-party-national-lampoons-christmas-vacation): Sun 11/21 (5:45pm), Mon 11/29 (6:45pm), Wed 12/1 (6:45pm), Tue 12/7 (6:45pm)
+
+    * [National Lampoons Christmas Vacation](https://drafthouse.com/los-angeles/show/national-lampoons-christmas-vacation): Thu 11/25 (8:25pm)
+
+    * [Peeping Tom](https://drafthouse.com/los-angeles/show/peeping-tom): Mon 11/22 (6:45pm)
+
+    * [Planes Trains Automobiles](https://drafthouse.com/los-angeles/show/planes-trains-automobiles): Wed 11/24 (6:45pm), Thu 11/25 (3:00pm, 5:45pm)
+
+    * [Switchblade Sisters](https://drafthouse.com/los-angeles/show/switchblade-sisters): Wed 12/8 (8:00pm)
+
+    * [The Apartment Brunch](https://drafthouse.com/los-angeles/show/the-apartment-brunch): Sat 1/1 (12:00pm)
+
+    * [The Holiday Brunch](https://drafthouse.com/los-angeles/show/the-holiday-brunch): Sun 12/12 (11:00am)
+
+    * [Unforgiven W Bonus Content](https://drafthouse.com/los-angeles/show/unforgiven-w-bonus-content): Tue 11/16 (6:45pm)
+
+    * [When Harry Met Sally Brunch](https://drafthouse.com/los-angeles/show/when-harry-met-sally-brunch): Fri 12/31 (11:00am)
+
+    * [White Christmas](https://drafthouse.com/los-angeles/show/white-christmas): Sun 12/19 (11:00am)
+
 ### Wed 10/20 8:18pm
 * New movies: Black Narcissus, Blood and Black Lace, Death Line, Penitentiary, The Handmaiden, The Outlaw Josey Wales
 
