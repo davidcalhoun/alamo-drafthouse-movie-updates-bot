@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/20 6:08pm
+* New movies: Andrzej Zuławski’s Possession - 4K Restoration
+
+* New screenings: 
+    * [Andrzej Zulawskis Possession 4k Restoration](https://drafthouse.com/los-angeles/show/andrzej-zulawskis-possession-4k-restoration): Wed 10/20 (7:00pm)
+
 ### Wed 10/20 4:19pm
 
 * New screenings: 
