@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 10/21 4:18pm
+
+* New screenings: 
+    * [The French Dispatch](https://drafthouse.com/los-angeles/show/the-french-dispatch): Sat 10/23 (12:25pm)
+
 ### Thu 10/21 1:19pm
 
 * New screenings: 
