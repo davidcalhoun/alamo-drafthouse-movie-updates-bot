@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Fri 10/22 1:26pm
+
+* New screenings: 
+    * [My Hero Academia The Movie World Heroes Mission Dubbed](https://drafthouse.com/raleigh/show/my-hero-academia-the-movie-world-heroes-mission-dubbed): Fri 10/29 (2:00pm, 4:45pm, 10:30pm), Sat 10/30 (1:15pm, 6:45pm, 9:30pm)
+
+    * [My Hero Academia The Movie World Heroes Mission Subtitled](https://drafthouse.com/raleigh/show/my-hero-academia-the-movie-world-heroes-mission-subtitled): Sun 10/31 (1:15pm)
+
 ### Thu 10/21 7:22pm
 
 * New screenings: 
