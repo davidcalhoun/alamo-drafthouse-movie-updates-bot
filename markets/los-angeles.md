@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Thu 10/21 6:11pm
+
+* New screenings: 
+    * [Dune 2021](https://drafthouse.com/los-angeles/show/dune-2021): Sat 10/23 (8:00pm)
+
+    * [The French Dispatch](https://drafthouse.com/los-angeles/show/the-french-dispatch): Fri 10/22 (6:30pm)
+
 ### Thu 10/21 4:18pm
 
 * New screenings: 
