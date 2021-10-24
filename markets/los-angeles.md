@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Sun 10/24 12:17am
+
+* New screenings: 
+    * [The French Dispatch Brunch](https://drafthouse.com/los-angeles/show/the-french-dispatch-brunch): Sun 10/24 (11:00am)
+
 ### Sat 10/23 3:17pm
 
 * New screenings: 
