@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Sun 10/24 12:14pm
+
+* New screenings: 
+    * [Shin Godzilla](https://drafthouse.com/los-angeles/show/shin-godzilla): Tue 11/9 (6:45pm)
+
 ### Sun 10/24 12:17am
 
 * New screenings: 
