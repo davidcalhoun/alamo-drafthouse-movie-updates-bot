@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 10/25 10:22am
+
+* New screenings: 
+    * [Last Night In Soho](https://drafthouse.com/los-angeles/show/last-night-in-soho): Thu 10/28 (6:00pm)
+
 ### Sun 10/24 12:14pm
 
 * New screenings: 
