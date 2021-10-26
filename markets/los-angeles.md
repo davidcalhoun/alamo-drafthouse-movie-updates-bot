@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 10/26 9:28am
+
+* New screenings: 
+    * [Halloween 1978](https://drafthouse.com/los-angeles/show/halloween-1978): Sun 10/31 (6:45pm)
+
 ### Mon 10/25 10:22am
 
 * New screenings: 
