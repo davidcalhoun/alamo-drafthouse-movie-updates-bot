@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 10/27 4:23pm
+* New movies: Finch
+
+* New screenings: 
+    * [Finch](https://drafthouse.com/raleigh/show/finch): Thu 11/4 (7:45pm), Fri 11/5 (11:00am, 2:00pm, 5:00pm, 8:00pm, 10:55pm), Sat 11/6 (11:00am, 2:00pm, 5:00pm, 8:00pm, 10:55pm), Sun 11/7 (11:15am, 2:15pm, 5:15pm, 8:15pm), Mon 11/8 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Tue 11/9 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Wed 11/10 (12:30pm, 3:30pm, 6:30pm, 9:30pm)
+
 ### Tue 10/26 10:33pm
 * New movies: Scream
 
