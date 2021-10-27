@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/27 1:19pm
+* New movies: Finch
+
+* New screenings: 
+    * [Finch](https://drafthouse.com/los-angeles/show/finch): Thu 11/4 (7:15pm, 10:20pm), Fri 11/5 (3:00pm, 6:15pm, 9:25pm), Sat 11/6 (11:15am, 2:30pm, 5:45pm), Sun 11/7 (11:15am, 2:30pm, 5:45pm), Mon 11/8 (3:15pm, 6:30pm), Tue 11/9 (3:15pm, 6:30pm), Wed 11/10 (3:15pm, 6:30pm)
+
 ### Wed 10/27 8:19am
 
 * New screenings: 
