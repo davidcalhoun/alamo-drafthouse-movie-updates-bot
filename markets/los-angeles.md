@@ -1,6 +1,28 @@
 # los-angeles
 
 ## Movie updates
+### Tue 10/26 5:58pm
+* New movies: Scream
+
+* New screenings: 
+    * [Antlers](https://drafthouse.com/los-angeles/show/antlers): Fri 10/29 (1:30pm, 4:30pm), Sat 10/30 (11:30am, 2:10pm), Sun 10/31 (11:30am, 2:15pm), Mon 11/1 (5:00pm, 8:45pm), Tue 11/2 (5:00pm, 8:45pm), Wed 11/3 (5:25pm, 8:10pm)
+
+    * [Dune 2021](https://drafthouse.com/los-angeles/show/dune-2021): Thu 10/28 (4:45pm, 5:30pm, 8:30pm, 9:15pm), Fri 10/29 (2:00pm, 3:30pm, 5:45pm, 7:30pm, 9:30pm, 10:45pm), Sat 10/30 (11:00am, 12:00pm, 3:00pm, 4:00pm, 7:00pm, 8:00pm), Sun 10/31 (11:00am, 12:00pm, 3:00pm, 3:45pm, 7:30pm, 8:15pm), Mon 11/1 (3:30pm, 4:15pm, 7:15pm, 8:00pm), Tue 11/2 (3:30pm, 4:15pm, 7:15pm, 8:00pm), Wed 11/3 (2:30pm, 3:30pm, 7:15pm)
+
+    * [Gojira 4k Restoration](https://drafthouse.com/los-angeles/show/gojira-4k-restoration): Wed 11/3 (7:55pm)
+
+    * [Halloween Kills](https://drafthouse.com/los-angeles/show/halloween-kills): Thu 10/28 (7:00pm, 10:00pm), Fri 10/29 (4:45pm, 7:45pm, 11:00pm), Sat 10/30 (1:00pm, 4:30pm, 8:00pm), Sun 10/31 (1:00pm, 4:30pm, 8:00pm), Mon 11/1 (5:15pm, 8:15pm), Tue 11/2 (5:15pm, 8:15pm), Wed 11/3 (5:15pm, 8:15pm)
+
+    * [Last Night In Soho](https://drafthouse.com/los-angeles/show/last-night-in-soho): Thu 10/28 (7:00pm, 7:30pm, 10:30pm), Fri 10/29 (1:45pm, 2:30pm, 3:15pm, 5:45pm, 6:30pm, 9:35pm), Sat 10/30 (11:30am, 2:15pm, 3:00pm, 5:15pm, 8:45pm), Sun 10/31 (12:00pm, 2:15pm, 3:15pm, 5:30pm, 8:45pm), Mon 11/1 (3:05pm, 4:20pm, 5:15pm, 7:30pm, 8:20pm), Tue 11/2 (3:05pm, 4:20pm, 5:15pm, 7:30pm, 8:30pm), Wed 11/3 (3:15pm, 4:20pm, 7:00pm)
+
+    * [No Time To Die](https://drafthouse.com/los-angeles/show/no-time-to-die): Thu 10/28 (4:45pm, 8:45pm), Fri 10/29 (2:00pm, 6:15pm, 10:15pm), Sat 10/30 (11:00am, 2:45pm, 6:45pm), Sun 10/31 (11:00am, 3:00pm, 6:45pm), Mon 11/1 (2:45pm, 6:45pm), Tue 11/2 (2:45pm, 6:45pm), Wed 11/3 (2:45pm, 6:45pm)
+
+    * [Scream](https://drafthouse.com/los-angeles/show/scream): Sun 10/31 (9:00pm), Mon 11/1 (6:50pm), Tue 11/2 (6:50pm)
+
+    * [The French Dispatch](https://drafthouse.com/los-angeles/show/the-french-dispatch): Thu 10/28 (5:15pm, 5:45pm, 6:15pm, 6:45pm, 8:15pm, 9:30pm, 9:45pm, 10:45pm), Fri 10/29 (3:00pm, 3:45pm, 4:15pm, 5:15pm, 6:00pm, 6:45pm, 7:15pm, 8:15pm, 9:10pm, 10:30pm, 11:15pm, 11:15pm), Sat 10/30 (11:15am, 12:15pm, 12:45pm, 1:45pm, 2:30pm, 3:30pm, 3:45pm, 5:15pm, 5:30pm, 6:30pm, 7:15pm, 8:30pm), Sun 10/31 (12:30pm, 12:45pm, 1:30pm, 2:30pm, 3:45pm, 4:00pm, 4:45pm, 5:45pm, 7:00pm, 8:30pm), Mon 11/1 (3:00pm, 3:45pm, 4:00pm, 4:45pm, 6:00pm, 7:00pm, 7:45pm), Tue 11/2 (3:00pm, 3:45pm, 4:00pm, 4:45pm, 6:00pm, 7:00pm, 7:45pm), Wed 11/3 (3:45pm, 4:40pm, 6:25pm)
+
+    * [Titane](https://drafthouse.com/los-angeles/show/titane): Thu 10/28 (9:30pm), Fri 10/29 (8:55pm), Sat 10/30 (6:15pm), Sun 10/31 (6:20pm), Mon 11/1 (6:15pm), Tue 11/2 (6:15pm)
+
 ### Tue 10/26 9:28am
 
 * New screenings: 
