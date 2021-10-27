@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/27 8:19am
+
+* New screenings: 
+    * [Scream Brunch](https://drafthouse.com/los-angeles/show/scream-brunch): Sun 10/31 (11:30am)
+
 ### Tue 10/26 7:29pm
 
 * New screenings: 
