@@ -1,6 +1,36 @@
 # raleigh
 
 ## Movie updates
+### Tue 10/26 10:33pm
+* New movies: Scream
+
+* New screenings: 
+    * [Antlers](https://drafthouse.com/raleigh/show/antlers): Fri 10/29 (12:00pm, 3:00pm, 5:00pm), Sat 10/30 (11:30am, 1:30pm, 4:30pm), Sun 10/31 (12:45pm, 2:30pm, 4:15pm), Mon 11/1 (1:45pm, 5:00pm, 7:45pm, 10:45pm), Tue 11/2 (1:45pm, 5:00pm, 7:45pm, 10:45pm), Wed 11/3 (1:00pm, 3:55pm, 6:35pm, 9:45pm)
+
+    * [Dune 2021](https://drafthouse.com/raleigh/show/dune-2021): Thu 10/28 (12:15pm, 1:15pm, 2:00pm, 2:30pm, 5:15pm, 6:30pm, 7:30pm, 9:30pm, 10:30pm), Fri 10/29 (12:15pm, 1:15pm, 2:15pm, 6:00pm, 6:45pm, 9:45pm, 10:00pm), Sat 10/30 (11:15am, 1:00pm, 2:00pm, 5:00pm, 6:00pm, 7:15pm, 8:45pm, 9:45pm), Sun 10/31 (11:00am, 1:00pm, 2:15pm, 2:45pm, 5:20pm, 6:30pm), Mon 11/1 (1:15pm, 2:15pm, 3:00pm, 5:15pm, 6:00pm, 6:45pm, 9:15pm, 9:45pm), Tue 11/2 (1:15pm, 2:15pm, 3:00pm, 5:15pm, 6:00pm, 9:15pm, 9:45pm), Wed 11/3 (12:45pm, 2:15pm, 3:15pm, 5:10pm, 6:15pm, 8:45pm, 9:35pm)
+
+    * [Ghostbusters 1984](https://drafthouse.com/raleigh/show/ghostbusters-1984): Tue 11/2 (9:30pm)
+
+    * [Gojira 4k Restoration](https://drafthouse.com/raleigh/show/gojira-4k-restoration): Wed 11/3 (10:15pm)
+
+    * [Halloween Kills](https://drafthouse.com/raleigh/show/halloween-kills): Thu 10/28 (1:45pm, 4:45pm, 7:45pm, 10:45pm), Fri 10/29 (1:45pm, 4:30pm, 7:15pm, 10:30pm), Sat 10/30 (1:45pm, 4:15pm, 7:30pm, 10:25pm), Sun 10/31 (1:30pm, 4:30pm, 7:15pm), Mon 11/1 (1:30pm, 4:25pm, 7:15pm, 10:00pm), Tue 11/2 (1:30pm, 4:25pm, 7:15pm, 10:00pm), Wed 11/3 (1:30pm, 4:15pm, 7:15pm, 10:00pm)
+
+    * [Last Night In Soho](https://drafthouse.com/raleigh/show/last-night-in-soho): Thu 10/28 (8:00pm), Fri 10/29 (2:00pm, 6:30pm, 9:15pm), Sat 10/30 (11:45am, 2:15pm, 4:45pm, 6:30pm, 9:15pm), Sun 10/31 (11:30am, 4:45pm, 6:00pm), Mon 11/1 (12:30pm, 1:50pm, 3:55pm, 6:30pm, 7:00pm, 9:00pm, 10:30pm), Tue 11/2 (12:30pm, 1:50pm, 3:45pm, 6:30pm, 7:00pm, 9:00pm, 10:15pm), Wed 11/3 (12:00pm, 2:30pm, 4:30pm, 6:45pm, 7:45pm, 9:00pm, 10:45pm)
+
+    * [My Hero Academia The Movie World Heroes Mission Dubbed](https://drafthouse.com/raleigh/show/my-hero-academia-the-movie-world-heroes-mission-dubbed): Fri 10/29 (11:45am), Mon 11/1 (4:40pm, 10:15pm), Tue 11/2 (4:40pm, 10:30pm), Wed 11/3 (2:00pm, 4:45pm, 10:30pm)
+
+    * [No Time To Die](https://drafthouse.com/raleigh/show/no-time-to-die): Thu 10/28 (12:30pm, 2:15pm, 6:15pm, 10:00pm), Fri 10/29 (1:00pm, 2:30pm, 5:30pm, 9:30pm), Sat 10/30 (1:15pm, 2:30pm, 5:30pm, 9:30pm), Sun 10/31 (12:15pm, 2:00pm, 5:40pm), Mon 11/1 (1:30pm, 2:00pm, 5:30pm, 9:30pm), Tue 11/2 (1:30pm, 2:00pm, 5:30pm, 9:30pm), Wed 11/3 (1:15pm, 3:00pm, 5:30pm, 9:15pm)
+
+    * [Rons Gone Wrong](https://drafthouse.com/raleigh/show/rons-gone-wrong): Thu 10/28 (11:30am, 1:00pm, 2:45pm, 4:30pm, 5:45pm, 8:45pm), Fri 10/29 (11:30am, 2:45pm, 5:45pm, 8:45pm), Sat 10/30 (11:00am, 2:45pm, 5:45pm, 8:35pm), Sun 10/31 (11:10am, 3:30pm, 5:50pm), Mon 11/1 (12:25pm, 3:15pm, 5:45pm, 8:45pm), Tue 11/2 (12:25pm, 3:15pm, 5:45pm, 8:35pm), Wed 11/3 (12:10pm, 2:45pm, 5:45pm, 8:35pm)
+
+    * [Scream](https://drafthouse.com/raleigh/show/scream): Fri 10/29 (10:55pm), Sat 10/30 (10:45pm), Mon 11/1 (10:25pm)
+
+    * [The Last Duel](https://drafthouse.com/raleigh/show/the-last-duel): Thu 10/28 (4:15pm)
+
+    * [The Rocky Horror Picture Show](https://drafthouse.com/raleigh/show/the-rocky-horror-picture-show): Thu 10/28 (6:45pm)
+
+    * [Venom Let There Be Carnage](https://drafthouse.com/raleigh/show/venom-let-there-be-carnage): Thu 10/28 (12:00pm, 3:30pm, 4:00pm, 7:15pm, 10:15pm), Fri 10/29 (12:45pm, 4:00pm, 6:15pm, 9:00pm), Sat 10/30 (11:50am, 3:15pm, 6:15pm, 9:00pm), Sun 10/31 (12:00pm, 3:00pm, 6:20pm), Mon 11/1 (1:00pm, 3:45pm, 6:15pm, 9:00pm), Tue 11/2 (1:00pm, 3:45pm, 6:15pm, 9:00pm), Wed 11/3 (12:15pm, 3:10pm, 6:00pm, 9:25pm)
+
 ### Fri 10/22 1:26pm
 
 * New screenings: 
