@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 10/28 10:21am
+
+* New screenings: 
+    * [Batman Returns](https://drafthouse.com/los-angeles/show/batman-returns): Sun 12/12 (5:25pm)
+
 ### Wed 10/27 3:18pm
 
 * New screenings: 
