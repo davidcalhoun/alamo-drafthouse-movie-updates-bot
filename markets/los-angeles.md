@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Thu 10/28 9:24pm
+
+* New screenings: 
+    * [Gojira 4k Restoration](https://drafthouse.com/los-angeles/show/gojira-4k-restoration): Wed 11/3 (4:20pm, 4:40pm)
+
+    * [Halloween 1978](https://drafthouse.com/los-angeles/show/halloween-1978): Sat 10/30 (3:45pm), Sun 10/31 (4:45pm)
+
 ### Thu 10/28 10:21am
 
 * New screenings: 
