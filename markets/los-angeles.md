@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 11/1 7:17am
+* New movies: Ghostbusters: Afterlife
+
+* New screenings: 
+    * [Ghostbusters Afterlife](https://drafthouse.com/los-angeles/show/ghostbusters-afterlife): Thu 11/18 (4:00pm, 6:30pm, 7:10pm, 9:35pm), Fri 11/19 (3:15pm, 6:30pm, 9:45pm), Sat 11/20 (12:00pm, 3:15pm, 6:30pm), Sun 11/21 (12:00pm, 3:15pm, 6:30pm)
+
 ### Sat 10/30 7:03pm
 
 * New screenings: 
