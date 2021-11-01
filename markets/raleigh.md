@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 11/1 9:27am
+* New movies: Ghostbusters: Afterlife
+
+* New screenings: 
+    * [Ghostbusters Afterlife](https://drafthouse.com/raleigh/show/ghostbusters-afterlife): Thu 11/18 (4:00pm, 7:00pm, 7:15pm, 10:30pm), Fri 11/19 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Sat 11/20 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Sun 11/21 (12:00pm, 3:15pm, 6:30pm, 9:45pm)
+
 ### Wed 10/27 4:23pm
 * New movies: Finch
 
