@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 11/2 4:18pm
+
+* New screenings: 
+    * [Eternals](https://drafthouse.com/los-angeles/show/eternals): Sun 11/7 (12:30pm)
+
 ### Tue 11/2 1:19pm
 
 * New screenings: 
