@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 11/2 1:19pm
+
+* New screenings: 
+    * [Gojira 4k Restoration](https://drafthouse.com/los-angeles/show/gojira-4k-restoration): Wed 11/3 (7:30pm)
+
 ### Mon 11/1 7:17am
 * New movies: Ghostbusters: Afterlife
 
