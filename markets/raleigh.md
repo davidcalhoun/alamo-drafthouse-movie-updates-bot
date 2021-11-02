@@ -1,6 +1,31 @@
 # raleigh
 
 ## Movie updates
+### Tue 11/2 5:19pm
+
+* New screenings: 
+    * [Antlers](https://drafthouse.com/raleigh/show/antlers): Thu 11/4 (1:00pm, 3:55pm, 7:15pm, 10:55pm), Fri 11/5 (1:00pm, 4:15pm, 7:15pm, 10:15pm), Sat 11/6 (1:00pm, 4:15pm, 7:15pm, 10:15pm), Sun 11/7 (1:00pm, 4:15pm, 7:15pm), Mon 11/8 (1:00pm, 4:15pm, 7:15pm, 10:15pm), Tue 11/9 (1:00pm, 4:15pm, 7:15pm, 10:15pm), Wed 11/10 (1:00pm, 4:15pm, 7:15pm, 10:15pm)
+
+    * [Dune 2021](https://drafthouse.com/raleigh/show/dune-2021): Thu 11/4 (12:00pm, 2:15pm, 5:15pm, 6:45pm, 9:30pm), Fri 11/5 (11:00am, 3:00pm, 6:45pm, 10:30pm), Sat 11/6 (11:00am, 3:00pm, 6:45pm, 10:30pm), Sun 11/7 (12:00pm, 3:45pm, 7:30pm), Mon 11/8 (11:25am, 3:00pm, 6:45pm, 10:30pm), Tue 11/9 (11:25am, 3:00pm, 6:45pm, 10:30pm), Wed 11/10 (11:25am, 3:00pm, 6:45pm, 10:30pm)
+
+    * [Eternals](https://drafthouse.com/raleigh/show/eternals): Thu 11/4 (9:50pm, 10:30pm), Fri 11/5 (12:45pm, 1:30pm, 2:00pm, 5:15pm, 5:45pm, 9:00pm, 9:30pm), Sat 11/6 (12:45pm, 1:30pm, 2:00pm, 5:15pm, 5:45pm, 9:00pm, 9:30pm), Sun 11/7 (1:30pm, 2:45pm, 5:30pm, 6:45pm), Mon 11/8 (12:30pm, 1:15pm, 3:00pm, 5:15pm, 9:00pm, 10:15pm), Tue 11/9 (1:15pm, 5:15pm, 9:00pm, 10:15pm), Wed 11/10 (1:15pm, 5:15pm, 9:00pm, 10:15pm)
+
+    * [Gojira 4k Restoration](https://drafthouse.com/raleigh/show/gojira-4k-restoration): Wed 11/10 (6:45pm)
+
+    * [Halloween Kills](https://drafthouse.com/raleigh/show/halloween-kills): Thu 11/4 (1:30pm, 4:15pm, 10:15pm), Fri 11/5 (4:45pm, 7:45pm, 11:00pm), Sat 11/6 (4:45pm, 7:45pm, 11:00pm), Sun 11/7 (2:15pm, 5:00pm, 8:00pm), Mon 11/8 (4:45pm, 7:45pm, 10:55pm), Tue 11/9 (3:45pm, 10:55pm), Wed 11/10 (3:45pm, 10:55pm)
+
+    * [Last Night In Soho](https://drafthouse.com/raleigh/show/last-night-in-soho): Thu 11/4 (1:45pm, 3:45pm, 4:00pm, 6:30pm, 10:20pm), Fri 11/5 (11:15am, 3:15pm, 6:30pm, 9:45pm), Sat 11/6 (11:15am, 3:15pm, 6:30pm, 9:45pm), Sun 11/7 (11:15am, 3:30pm, 6:30pm), Mon 11/8 (11:00am, 3:00pm, 6:00pm, 9:15pm), Tue 11/9 (11:00am, 3:00pm, 6:00pm, 9:15pm), Wed 11/10 (11:00am, 3:00pm, 6:00pm, 9:15pm)
+
+    * [My Hero Academia The Movie World Heroes Mission Dubbed](https://drafthouse.com/raleigh/show/my-hero-academia-the-movie-world-heroes-mission-dubbed): Thu 11/4 (2:00pm, 4:45pm), Fri 11/5 (11:15am), Sat 11/6 (11:15am), Sun 11/7 (11:30am), Mon 11/8 (12:10pm), Tue 11/9 (12:45pm), Wed 11/10 (12:45pm)
+
+    * [No Time To Die](https://drafthouse.com/raleigh/show/no-time-to-die): Thu 11/4 (1:15pm, 3:30pm, 6:15pm, 10:15pm), Fri 11/5 (11:30am, 2:15pm, 6:00pm, 9:45pm), Sat 11/6 (11:30am, 2:15pm, 6:00pm, 9:45pm), Sun 11/7 (11:45am, 2:15pm, 6:00pm), Mon 11/8 (11:10am, 2:00pm, 5:45pm, 9:45pm), Tue 11/9 (11:10am, 2:00pm, 5:45pm, 9:45pm), Wed 11/10 (11:10am, 2:00pm, 5:45pm, 9:45pm)
+
+    * [Rons Gone Wrong](https://drafthouse.com/raleigh/show/rons-gone-wrong): Thu 11/4 (12:30pm, 3:15pm)
+
+    * [Spencer](https://drafthouse.com/raleigh/show/spencer): Thu 11/4 (8:00pm), Fri 11/5 (1:15pm, 4:30pm, 7:30pm, 10:30pm), Sat 11/6 (1:15pm, 4:30pm, 7:30pm, 10:30pm), Sun 11/7 (1:15pm, 4:30pm, 7:45pm), Mon 11/8 (1:30pm, 4:30pm, 7:30pm, 10:25pm), Tue 11/9 (1:30pm, 4:30pm, 7:30pm, 10:25pm), Wed 11/10 (1:30pm, 4:30pm, 7:30pm, 10:25pm)
+
+    * [Venom Let There Be Carnage](https://drafthouse.com/raleigh/show/venom-let-there-be-carnage): Thu 11/4 (12:15pm, 3:10pm)
+
 ### Mon 11/1 9:27am
 * New movies: Ghostbusters: Afterlife
 
