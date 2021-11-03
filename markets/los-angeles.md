@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 11/3 10:23am
+
+* New screenings: 
+    * [Eternals](https://drafthouse.com/los-angeles/show/eternals): Thu 11/4 (9:45pm, 10:00pm)
+
 ### Tue 11/2 11:22pm
 * New movies: The Beta Test
 
