@@ -1,6 +1,32 @@
 # los-angeles
 
 ## Movie updates
+### Tue 11/2 11:22pm
+* New movies: The Beta Test
+
+* New screenings: 
+    * [Antlers](https://drafthouse.com/los-angeles/show/antlers): Thu 11/4 (7:05pm, 9:45pm), Fri 11/5 (4:15pm, 7:00pm, 11:00pm), Sat 11/6 (1:15pm, 4:10pm, 6:50pm), Sun 11/7 (12:30pm, 3:45pm, 6:45pm), Mon 11/8 (4:00pm, 7:00pm), Tue 11/9 (3:30pm, 6:50pm), Wed 11/10 (4:10pm, 6:50pm)
+
+    * [Black Narcissus](https://drafthouse.com/los-angeles/show/black-narcissus): Wed 11/10 (7:45pm)
+
+    * [Dune 2021](https://drafthouse.com/los-angeles/show/dune-2021): Thu 11/4 (6:30pm, 10:20pm), Fri 11/5 (1:45pm, 5:45pm, 9:45pm), Sat 11/6 (11:00am, 2:45pm, 6:30pm), Sun 11/7 (10:30am, 2:15pm, 6:15pm), Mon 11/8 (2:30pm, 6:30pm), Tue 11/9 (2:45pm, 6:30pm), Wed 11/10 (2:45pm, 6:30pm)
+
+    * [Eternals](https://drafthouse.com/los-angeles/show/eternals): Thu 11/4 (8:15pm, 8:35pm), Fri 11/5 (3:45pm), Sat 11/6 (12:45pm), Sun 11/7 (1:00pm), Mon 11/8 (2:30pm, 3:30pm, 4:15pm, 6:15pm, 7:15pm, 8:00pm), Tue 11/9 (2:30pm, 3:00pm, 4:15pm, 6:15pm, 7:30pm, 8:00pm), Wed 11/10 (2:30pm, 3:30pm, 4:15pm, 6:15pm, 7:15pm, 8:00pm)
+
+    * [Godzilla Vs Hedorah](https://drafthouse.com/los-angeles/show/godzilla-vs-hedorah): Mon 11/8 (7:45pm)
+
+    * [Last Night In Soho](https://drafthouse.com/los-angeles/show/last-night-in-soho): Thu 11/4 (7:55pm, 11:00pm), Fri 11/5 (3:00pm, 6:30pm, 9:30pm, 11:00pm), Sat 11/6 (12:15pm, 3:30pm, 6:35pm), Sun 11/7 (12:45pm, 4:30pm, 8:30pm), Mon 11/8 (4:30pm, 8:15pm), Tue 11/9 (4:30pm, 7:25pm), Wed 11/10 (4:30pm, 7:25pm)
+
+    * [No Time To Die](https://drafthouse.com/los-angeles/show/no-time-to-die): Thu 11/4 (5:40pm, 9:30pm), Fri 11/5 (2:00pm, 6:00pm, 10:00pm), Sat 11/6 (11:25am, 3:15pm, 7:05pm), Sun 11/7 (11:30am, 3:15pm, 7:15pm), Mon 11/8 (2:45pm, 6:45pm), Tue 11/9 (3:15pm, 7:05pm), Wed 11/10 (3:05pm, 7:05pm)
+
+    * [Shin Godzilla](https://drafthouse.com/los-angeles/show/shin-godzilla): Tue 11/9 (7:45pm)
+
+    * [Spencer](https://drafthouse.com/los-angeles/show/spencer): Fri 11/5 (4:00pm, 7:15pm, 10:45pm), Sat 11/6 (1:00pm, 4:30pm, 8:15pm), Sun 11/7 (12:00pm, 4:00pm, 7:20pm), Mon 11/8 (4:00pm, 7:30pm), Tue 11/9 (4:05pm, 7:05pm), Wed 11/10 (4:05pm, 7:05pm)
+
+    * [The Beta Test](https://drafthouse.com/los-angeles/show/the-beta-test): Thu 11/4 (9:40pm), Fri 11/5 (7:45pm, 10:30pm), Sat 11/6 (5:00pm, 7:45pm), Sun 11/7 (4:45pm, 7:45pm), Mon 11/8 (4:45pm), Tue 11/9 (5:00pm), Wed 11/10 (5:00pm)
+
+    * [The French Dispatch](https://drafthouse.com/los-angeles/show/the-french-dispatch): Thu 11/4 (7:00pm, 10:45pm), Fri 11/5 (2:30pm, 5:30pm, 7:15pm, 8:45pm), Sat 11/6 (12:30pm, 3:50pm, 7:30pm, 8:00pm), Sun 11/7 (12:00pm, 2:00pm, 3:45pm, 5:20pm, 7:00pm), Mon 11/8 (3:45pm, 7:45pm), Tue 11/9 (3:50pm, 3:50pm, 6:45pm), Wed 11/10 (3:45pm, 3:50pm, 6:45pm)
+
 ### Tue 11/2 4:18pm
 
 * New screenings: 
