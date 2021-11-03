@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 11/3 4:18pm
+* New movies: Benedetta
+
+* New screenings: 
+    * [Advance Screening Benedetta](https://drafthouse.com/los-angeles/show/advance-screening-benedetta): Tue 11/16 (7:30pm)
+
+    * [Godzilla Vs Hedorah](https://drafthouse.com/los-angeles/show/godzilla-vs-hedorah): Mon 11/8 (6:45pm)
+
 ### Wed 11/3 10:23am
 
 * New screenings: 
