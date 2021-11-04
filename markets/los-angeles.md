@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 11/4 11:21am
+
+* New screenings: 
+    * [Godzilla Vs Biollante](https://drafthouse.com/los-angeles/show/godzilla-vs-biollante): Thu 11/18 (6:45pm)
+
 ### Thu 11/4 7:16am
 * New movies: Support Local Cinemas: BUBBA HO-TEP
 
