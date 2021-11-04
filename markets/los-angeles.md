@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 11/4 7:16am
+* New movies: Support Local Cinemas: BUBBA HO-TEP
+
+* New screenings: 
+    * [Support Local Cinemas Bubba Ho Tep](https://drafthouse.com/los-angeles/show/support-local-cinemas-bubba-ho-tep): Mon 11/15 (7:00pm), Wed 11/17 (7:00pm)
+
 ### Wed 11/3 6:00pm
 
 * New screenings: 
