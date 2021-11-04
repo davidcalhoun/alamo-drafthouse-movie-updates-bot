@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 11/4 10:21am
+* New movies: Support Local Cinemas: BUBBA HO-TEP
+
+* New screenings: 
+    * [Support Local Cinemas Bubba Ho Tep](https://drafthouse.com/raleigh/show/support-local-cinemas-bubba-ho-tep): Mon 11/15 (7:00pm)
+
 ### Tue 11/2 5:19pm
 
 * New screenings: 
