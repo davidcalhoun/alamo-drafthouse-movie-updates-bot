@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Wed 11/3 6:00pm
+
+* New screenings: 
+    * [Last Night In Soho](https://drafthouse.com/los-angeles/show/last-night-in-soho): Wed 11/3 (7:00pm)
+
+    * [Switchblade Sisters](https://drafthouse.com/los-angeles/show/switchblade-sisters): Wed 12/8 (8:00pm)
+
 ### Wed 11/3 4:18pm
 * New movies: Benedetta
 
