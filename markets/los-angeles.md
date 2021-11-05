@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Fri 11/5 12:14pm
+
+* New screenings: 
+    * [Eternals](https://drafthouse.com/los-angeles/show/eternals): Sun 11/7 (8:00pm)
+
+    * [Last Night In Soho](https://drafthouse.com/los-angeles/show/last-night-in-soho): Fri 11/5 (11:15pm)
+
 ### Fri 11/5 11:21am
 * New movies: Brian Wilson: Long Promised Road
 
