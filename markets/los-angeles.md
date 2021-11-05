@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 11/5 11:21am
+* New movies: Brian Wilson: Long Promised Road
+
+* New screenings: 
+    * [Brian Wilson Long Promised Road](https://drafthouse.com/los-angeles/show/brian-wilson-long-promised-road): Wed 11/17 (7:30pm)
+
 ### Thu 11/4 4:18pm
 
 * New screenings: 
