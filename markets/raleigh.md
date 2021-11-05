@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 11/5 3:17pm
+* New movies: Brian Wilson: Long Promised Road
+
+* New screenings: 
+    * [Brian Wilson Long Promised Road](https://drafthouse.com/raleigh/show/brian-wilson-long-promised-road): Wed 11/17 (7:15pm)
+
 ### Thu 11/4 10:21am
 * New movies: Support Local Cinemas: BUBBA HO-TEP
 
