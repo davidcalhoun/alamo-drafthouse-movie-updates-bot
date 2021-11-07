@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Sun 11/7 3:18pm
+
+* New screenings: 
+    * [The Handmaiden](https://drafthouse.com/los-angeles/show/the-handmaiden): Sun 11/14 (4:40pm)
+
 ### Sun 11/7 2:17pm
 
 * New screenings: 
