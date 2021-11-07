@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Sun 11/7 11:14am
+
+* New screenings: 
+    * [Eternals](https://drafthouse.com/los-angeles/show/eternals): Sun 11/7 (12:30pm, 2:45pm, 4:15pm, 8:00pm)
+
+    * [The Heisei Godzilla Double Feature](https://drafthouse.com/los-angeles/show/the-heisei-godzilla-double-feature): Sun 11/14 (12:00pm)
+
 ### Sat 11/6 7:36pm
 
 * New screenings: 
