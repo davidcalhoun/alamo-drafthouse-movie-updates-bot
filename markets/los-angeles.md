@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Sat 11/6 7:36pm
+
+* New screenings: 
+    * [Spencer](https://drafthouse.com/los-angeles/show/spencer): Sat 11/6 (8:15pm)
+
 ### Sat 11/6 7:04pm
 
 * New screenings: 
