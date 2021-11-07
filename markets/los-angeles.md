@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Sun 11/7 2:17pm
+
+* New screenings: 
+    * [Dune 2021](https://drafthouse.com/los-angeles/show/dune-2021): Sun 11/7 (6:15pm)
+
+    * [The Beta Test](https://drafthouse.com/los-angeles/show/the-beta-test): Sun 11/7 (7:45pm)
+
 ### Sun 11/7 11:14am
 
 * New screenings: 
