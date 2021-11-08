@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 11/8 11:36am
+* New movies: Sing 2
+
+* New screenings: 
+    * [Sing 2 Early Access](https://drafthouse.com/raleigh/show/sing-2-early-access): Sat 11/27 (5:00pm)
+
 ### Fri 11/5 3:17pm
 * New movies: Brian Wilson: Long Promised Road
 
