@@ -1,6 +1,36 @@
 # los-angeles
 
 ## Movie updates
+### Tue 11/9 2:18pm
+* New movies: Tick, Tick Boom!, Belfast, King Richard
+
+* New screenings: 
+    * [Advance Screening Benedetta](https://drafthouse.com/los-angeles/show/advance-screening-benedetta): Tue 11/16 (7:50pm)
+
+    * [Belfast](https://drafthouse.com/los-angeles/show/belfast): Thu 11/11 (7:15pm, 10:30pm), Fri 11/12 (1:30pm, 4:40pm, 7:35pm, 10:30pm), Sat 11/13 (1:35pm, 5:00pm, 8:00pm), Sun 11/14 (1:30pm, 5:00pm, 8:00pm), Mon 11/15 (4:40pm, 8:00pm), Tue 11/16 (4:35pm, 5:45pm), Wed 11/17 (4:20pm, 7:30pm)
+
+    * [Dune 2021](https://drafthouse.com/los-angeles/show/dune-2021): Thu 11/11 (5:35pm, 9:45pm), Fri 11/12 (2:45pm, 6:30pm, 10:30pm), Sat 11/13 (10:45am, 2:45pm, 6:30pm), Sun 11/14 (10:45am, 2:30pm, 6:30pm), Mon 11/15 (2:45pm, 6:30pm), Tue 11/16 (2:45pm, 6:30pm), Wed 11/17 (2:30pm, 6:30pm)
+
+    * [Eternals](https://drafthouse.com/los-angeles/show/eternals): Thu 11/11 (5:15pm, 6:15pm, 9:00pm, 10:45pm), Fri 11/12 (1:15pm, 2:15pm, 3:15pm, 5:00pm, 5:20pm, 6:05pm, 7:05pm, 8:45pm, 9:15pm, 10:00pm, 10:45pm), Sat 11/13 (10:30am, 11:00am, 11:30am, 2:30pm, 2:45pm, 3:15pm, 5:20pm, 6:15pm, 6:30pm, 7:30pm), Sun 11/14 (10:30am, 11:30am, 12:15pm, 2:00pm, 2:45pm, 3:30pm, 5:20pm, 6:15pm, 6:30pm, 7:30pm), Mon 11/15 (1:45pm, 2:30pm, 3:15pm, 5:00pm, 5:30pm, 7:15pm), Tue 11/16 (2:10pm, 3:00pm, 3:15pm, 6:05pm, 7:15pm), Wed 11/17 (1:45pm, 2:15pm, 3:15pm, 5:30pm, 7:15pm)
+
+    * [Finch](https://drafthouse.com/los-angeles/show/finch): Thu 11/11 (5:00pm), Fri 11/12 (2:00pm), Sat 11/13 (11:15am, 2:15pm), Sun 11/14 (11:00am), Mon 11/15 (1:55pm), Tue 11/16 (1:55pm), Wed 11/17 (2:45pm)
+
+    * [Godzilla Vs Biollante](https://drafthouse.com/los-angeles/show/godzilla-vs-biollante): Wed 11/17 (6:15pm)
+
+    * [King Richard](https://drafthouse.com/los-angeles/show/king-richard): Fri 11/19 (2:30pm, 6:00pm, 9:30pm), Sat 11/20 (11:00am, 2:30pm, 6:00pm), Sun 11/21 (11:00am, 2:30pm, 6:00pm)
+
+    * [Last Night In Soho](https://drafthouse.com/los-angeles/show/last-night-in-soho): Thu 11/11 (6:45pm, 10:45pm), Fri 11/12 (1:00pm, 3:55pm, 6:55pm, 10:15pm), Sat 11/13 (12:30pm, 4:15pm, 8:15pm), Sun 11/14 (12:30pm, 4:30pm, 8:15pm), Mon 11/15 (3:45pm, 6:45pm), Tue 11/16 (3:30pm, 7:00pm), Wed 11/17 (3:30pm, 6:45pm)
+
+    * [No Time To Die](https://drafthouse.com/los-angeles/show/no-time-to-die): Thu 11/11 (5:00pm, 9:25pm), Fri 11/12 (1:45pm, 5:35pm, 9:30pm), Sat 11/13 (11:30am, 3:20pm, 7:30pm), Sun 11/14 (11:15am, 3:15pm, 7:30pm), Mon 11/15 (1:45pm, 5:45pm), Tue 11/16 (1:40pm, 5:35pm), Wed 11/17 (1:45pm, 5:45pm)
+
+    * [Return Of Godzilla](https://drafthouse.com/los-angeles/show/return-of-godzilla): Mon 11/15 (6:15pm)
+
+    * [Spencer](https://drafthouse.com/los-angeles/show/spencer): Thu 11/11 (6:00pm, 9:00pm), Fri 11/12 (2:30pm, 5:50pm, 9:00pm), Sat 11/13 (11:45am, 2:55pm, 6:00pm), Sun 11/14 (11:45am, 3:00pm, 6:00pm), Mon 11/15 (2:55pm, 6:00pm), Tue 11/16 (2:30pm, 5:15pm), Wed 11/17 (4:45pm, 6:00pm)
+
+    * [The French Dispatch](https://drafthouse.com/los-angeles/show/the-french-dispatch): Thu 11/11 (6:30pm, 8:10pm, 9:30pm, 10:00pm), Fri 11/12 (3:00pm, 4:00pm, 7:50pm, 11:00pm), Sat 11/13 (12:15pm, 1:00pm, 4:00pm, 7:15pm, 8:30pm), Sun 11/14 (10:45am, 2:15pm, 4:00pm, 7:00pm), Mon 11/15 (3:30pm, 4:00pm, 7:30pm), Tue 11/16 (3:45pm, 4:00pm, 7:00pm), Wed 11/17 (3:00pm, 3:45pm, 7:00pm)
+
+    * [Tick Tick Boom](https://drafthouse.com/los-angeles/show/tick-tick-boom): Thu 11/11 (7:00pm, 10:15pm), Fri 11/12 (1:00pm, 4:15pm, 7:20pm, 11:00pm), Sat 11/13 (12:45pm, 4:30pm, 7:45pm), Sun 11/14 (12:45pm, 4:15pm, 7:45pm), Mon 11/15 (4:15pm, 7:45pm), Tue 11/16 (4:15pm, 7:30pm), Wed 11/17 (4:00pm, 8:00pm)
+
 ### Tue 11/9 9:24am
 * New movies: Elf
 
