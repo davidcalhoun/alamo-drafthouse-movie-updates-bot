@@ -1,6 +1,28 @@
 # raleigh
 
 ## Movie updates
+### Mon 11/8 8:12pm
+* New movies: The French Dispatch, Belfast
+
+* New screenings: 
+    * [Belfast](https://drafthouse.com/raleigh/show/belfast): Thu 11/11 (7:15pm, 10:20pm), Fri 11/12 (1:00pm, 4:00pm, 7:15pm, 10:20pm), Sat 11/13 (1:00pm, 4:00pm, 7:15pm, 10:20pm), Sun 11/14 (1:00pm, 4:00pm, 7:00pm), Mon 11/15 (1:00pm, 4:00pm, 7:15pm, 10:20pm), Tue 11/16 (1:00pm, 4:00pm, 7:15pm, 10:20pm), Wed 11/17 (1:00pm, 4:00pm, 7:15pm, 10:20pm)
+
+    * [Clifford The Big Red Dog](https://drafthouse.com/raleigh/show/clifford-the-big-red-dog): Fri 11/12 (11:30am, 2:15pm, 5:00pm, 7:45pm), Sat 11/13 (11:30am, 2:15pm, 5:00pm, 7:45pm), Sun 11/14 (11:30am, 6:45pm), Mon 11/15 (11:30am, 2:15pm, 5:00pm, 7:45pm), Tue 11/16 (11:30am, 2:15pm, 5:00pm, 7:45pm), Wed 11/17 (12:45pm, 2:15pm, 5:00pm, 7:45pm)
+
+    * [Dune 2021](https://drafthouse.com/raleigh/show/dune-2021): Thu 11/11 (11:25am, 3:00pm, 6:45pm, 9:30pm, 10:15pm), Fri 11/12 (11:15am, 2:50pm, 6:45pm, 9:30pm, 10:15pm), Sat 11/13 (11:15am, 2:50pm, 6:45pm, 9:30pm, 10:15pm), Sun 11/14 (11:15am, 3:00pm, 6:35pm), Mon 11/15 (11:15am, 2:50pm, 6:45pm, 9:30pm, 10:15pm), Tue 11/16 (11:15am, 3:00pm, 6:45pm, 9:30pm, 10:15pm), Wed 11/17 (11:15am, 3:00pm, 6:45pm, 9:30pm, 10:15pm)
+
+    * [Eternals](https://drafthouse.com/raleigh/show/eternals): Thu 11/11 (10:45am, 11:30am, 12:15pm, 1:30pm, 2:30pm, 3:15pm, 4:15pm, 5:15pm, 6:15pm, 7:00pm, 8:00pm, 9:15pm, 10:00pm, 10:45pm), Fri 11/12 (10:45am, 11:30am, 12:15pm, 1:30pm, 2:30pm, 3:15pm, 4:15pm, 5:15pm, 6:15pm, 7:00pm, 8:00pm, 9:00pm, 10:00pm, 10:45pm), Sat 11/13 (10:45am, 11:30am, 12:15pm, 1:30pm, 2:30pm, 3:15pm, 4:15pm, 5:15pm, 6:15pm, 7:00pm, 8:00pm, 9:00pm, 10:00pm, 10:45pm), Sun 11/14 (12:00pm, 12:30pm, 1:15pm, 2:00pm, 3:45pm, 4:15pm, 5:00pm, 7:30pm, 8:00pm), Mon 11/15 (10:45am, 1:15pm, 1:45pm, 2:30pm, 3:00pm, 5:15pm, 5:45pm, 6:15pm, 9:00pm, 10:00pm, 10:30pm), Tue 11/16 (11:15am, 1:15pm, 2:00pm, 2:30pm, 3:15pm, 5:15pm, 6:00pm, 7:00pm, 9:00pm, 9:45pm, 10:45pm), Wed 11/17 (10:45am, 11:30am, 1:30pm, 2:30pm, 3:15pm, 3:30pm, 5:15pm, 6:15pm, 7:00pm, 9:00pm, 10:00pm, 10:45pm)
+
+    * [Finch](https://drafthouse.com/raleigh/show/finch): Thu 11/11 (12:30pm, 3:30pm), Fri 11/12 (11:00am, 3:30pm), Sat 11/13 (11:00am, 3:30pm), Sun 11/14 (11:00am, 3:15pm), Mon 11/15 (11:00am, 3:30pm), Tue 11/16 (11:00am, 3:30pm), Wed 11/17 (11:00am, 3:30pm)
+
+    * [Last Night In Soho](https://drafthouse.com/raleigh/show/last-night-in-soho): Thu 11/11 (11:00am, 4:00pm, 6:30pm, 10:30pm), Fri 11/12 (6:30pm, 10:30pm), Sat 11/13 (6:30pm, 10:30pm), Sun 11/14 (6:15pm), Mon 11/15 (6:30pm, 10:30pm), Tue 11/16 (6:30pm, 10:30pm), Wed 11/17 (6:30pm, 10:30pm)
+
+    * [No Time To Die](https://drafthouse.com/raleigh/show/no-time-to-die): Thu 11/11 (12:00pm, 2:00pm, 5:45pm, 9:45pm), Fri 11/12 (11:30am, 2:00pm, 5:45pm, 9:45pm), Sat 11/13 (11:35am, 2:00pm, 6:00pm, 9:45pm), Sun 11/14 (11:25am, 2:00pm, 5:45pm), Mon 11/15 (11:35am, 2:00pm, 5:45pm, 9:45pm), Tue 11/16 (11:30am, 2:00pm, 5:45pm, 9:45pm), Wed 11/17 (11:35am, 2:00pm, 5:45pm, 9:45pm)
+
+    * [Spencer](https://drafthouse.com/raleigh/show/spencer): Thu 11/11 (1:15pm, 4:30pm, 7:30pm, 10:30pm), Fri 11/12 (1:15pm, 4:30pm, 7:30pm, 10:30pm), Sat 11/13 (1:15pm, 4:30pm, 7:30pm, 10:30pm), Sun 11/14 (1:30pm, 4:45pm, 7:45pm), Mon 11/15 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Tue 11/16 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Wed 11/17 (1:15pm, 4:30pm, 7:30pm, 10:30pm)
+
+    * [The French Dispatch](https://drafthouse.com/raleigh/show/the-french-dispatch): Thu 11/11 (11:45am, 2:45pm, 6:00pm, 9:00pm), Fri 11/12 (11:45am, 2:45pm, 6:00pm, 9:00pm), Sat 11/13 (11:45am, 2:45pm, 6:00pm, 9:00pm), Sun 11/14 (11:45am, 2:45pm, 5:45pm), Mon 11/15 (11:45am, 2:45pm, 6:00pm, 9:00pm), Tue 11/16 (11:45am, 2:45pm, 6:00pm, 9:00pm), Wed 11/17 (11:45am, 2:45pm, 6:00pm, 9:00pm)
+
 ### Mon 11/8 11:36am
 * New movies: Sing 2
 
