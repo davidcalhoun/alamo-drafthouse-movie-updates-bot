@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 11/9 9:24am
+* New movies: Elf
+
+* New screenings: 
+    * [Elf](https://drafthouse.com/los-angeles/show/elf): Fri 11/26 (2:25pm), Sat 11/27 (5:50pm), Sun 11/28 (5:50pm)
+
+    * [Love Actually Brunch](https://drafthouse.com/los-angeles/show/love-actually-brunch): Sat 11/27 (2:25pm), Sun 11/28 (2:25pm)
+
 ### Tue 11/9 8:30am
 * New movies: Return of Godzilla
 
