@@ -1,6 +1,20 @@
 # los-angeles
 
 ## Movie updates
+### Tue 11/9 8:30am
+* New movies: Return of Godzilla
+
+* New screenings: 
+    * [Cabaret](https://drafthouse.com/los-angeles/show/cabaret): Sun 11/21 (2:45pm)
+
+    * [National Lampoons Christmas Vacation](https://drafthouse.com/los-angeles/show/national-lampoons-christmas-vacation): Tue 11/23 (4:15pm), Wed 11/24 (4:00pm)
+
+    * [Return Of Godzilla](https://drafthouse.com/los-angeles/show/return-of-godzilla): Fri 11/12 (6:30pm)
+
+    * [The Handmaiden](https://drafthouse.com/los-angeles/show/the-handmaiden): Fri 11/12 (9:30pm)
+
+    * [The Heisei Godzilla Double Feature](https://drafthouse.com/los-angeles/show/the-heisei-godzilla-double-feature): Sat 11/13 (3:30pm)
+
 ### Sun 11/7 3:18pm
 
 * New screenings: 
