@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 11/9 3:18pm
+
+* New screenings: 
+    * [Batman Returns](https://drafthouse.com/los-angeles/show/batman-returns): Sun 12/12 (5:25pm)
+
 ### Tue 11/9 2:18pm
 * New movies: Tick, Tick Boom!, Belfast, King Richard
 
