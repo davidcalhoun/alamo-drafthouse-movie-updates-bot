@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 11/9 5:22pm
+* New movies: King Richard
+
+* New screenings: 
+    * [King Richard](https://drafthouse.com/raleigh/show/king-richard): Fri 11/19 (11:15am, 2:05pm, 5:30pm, 9:00pm), Sat 11/20 (11:15am, 2:05pm, 5:30pm, 9:00pm), Sun 11/21 (11:15am, 2:05pm, 5:30pm)
+
 ### Mon 11/8 8:12pm
 * New movies: The French Dispatch, Belfast
 
