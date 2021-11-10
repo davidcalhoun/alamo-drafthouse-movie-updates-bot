@@ -163,13 +163,12 @@ export const getMoviesDiff = async (marketName) => {
         oldShowings = [];
     };
     const newShowings = newMovies.data?.sessions;
-    const oldShowingsFiltered = oldShowings.filter(isOnSale);
-    const newShowingsFiltered = newShowings.filter(isOnSale);
-    const newFoundShowings = differenceWith(isSameShowing, newShowingsFiltered, oldShowingsFiltered);
+    const newFoundShowings = differenceWith(isSameShowing, newShowings, oldShowings);
 
-    const hiddenShowings = oldMovies.data?.sessions?.filter(isHidden);
-
-    const now = new Date().getTime();
+    // const oldShowingsFiltered = oldShowings.filter(isOnSale);
+    // const newShowingsFiltered = newShowings.filter(isOnSale);
+    // const hiddenShowings = oldMovies.data?.sessions?.filter(isHidden);
+    // const now = new Date().getTime();
 
 //     console.log(`
 // ${ formatDate(now, timeZone) } ${ formatTime(now, timeZone) }
