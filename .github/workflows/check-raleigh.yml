@@ -37,7 +37,7 @@ jobs:
           username: ${{secrets.SMTP_USER}}
           password: ${{secrets.SMTP_PASS}}
           subject: "New Raleigh Alamo screenings: ${{steps.new-movies.outputs.movies}}"
-          to: david.b.calhoun@gmail.com
+          to: ${{secrets.SUBSCRIBERS_RALEIGH}}
           from: '"Davids Alamo Bot" <david.b.calhoun@gmail.com>'
           secure: true
           html_body: file://raleigh.md
