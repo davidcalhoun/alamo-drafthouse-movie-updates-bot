@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 11/10 2:18pm
+* New movies: Gorillaz: Song Machine Live from Kong
+
+* New screenings: 
+    * [Gorillaz Song Machine Live From Kong](https://drafthouse.com/los-angeles/show/gorillaz-song-machine-live-from-kong): Wed 12/8 (6:45pm)
+
 ### Tue 11/9 3:18pm
 
 * New screenings: 
