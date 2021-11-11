@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 11/10 5:23pm
+* New movies: Gorillaz: Song Machine Live from Kong
+
+* New screenings: 
+    * [Gorillaz Song Machine Live From Kong](https://drafthouse.com/raleigh/show/gorillaz-song-machine-live-from-kong): Wed 12/8 (7:15pm)
+
 ### Tue 11/9 5:22pm
 * New movies: King Richard
 
