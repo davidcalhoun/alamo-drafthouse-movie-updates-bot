@@ -5,15 +5,28 @@ inputs:
     description: "Alamo market (e.g. Los Angeles)"
     required: true
 outputs:
-  movies:
-    description: "Newly added movies"
-    value: ${{ steps.get-new-movies.outputs.value }}
+  movies-titles:
+    description: "New movie titles (for email subject)"
+    value: ${{ steps.get-new-movies-titles.outputs.value }}
+  movies-markdown:
+    description: "New movies markdown (for email body)"
+    value: ${{ steps.get-new-movies-markdown.outputs.value }}
 runs:
   using: "composite"
   steps:
-    - id: get-new-movies
+    - id: get-new-movies-titles
       run: |
         r=$(yarn new-movies ${{ inputs.alamoMarket }})
+        r="${r//'%'/'%25'}"                               # Multiline escape sequences for %
+        r="${r//$'\n'/'%0A'}"                             # Multiline escape sequences for '\n'
+        r="${r//$'\r'/'%0D'}"                             # Multiline escape sequences for '\r'
+        r="${r//$'\''/'%E2%80%99'}"                       # Multiline escape sequences for `'`
+        r="${r//$':'/'%3A'}"                              # Multiline escape sequences for ':'
+        echo "::set-output name=value::$r"
+      shell: bash
+    - id: get-new-movies-markdown
+      run: |
+        r=$(yarn new-movies ${{ inputs.alamoMarket }} true)
         r="${r//'%'/'%25'}"                               # Multiline escape sequences for %
         r="${r//$'\n'/'%0A'}"                             # Multiline escape sequences for '\n'
         r="${r//$'\r'/'%0D'}"                             # Multiline escape sequences for '\r'

@@ -5,11 +5,9 @@ const [nodePath, scriptPath, alamoMarket] = process.argv;
 const checkForNewScreenings = async (marketName) => {
     const { newScreenings } = await getMoviesDiff(marketName);
 
-    if (newScreenings.length) {
-        console.log(formatScreeningsMarkdown(newScreenings, marketName));
-    } else {
-        return ''
-    }
+    return newScreenings.length
+        ? console.log(formatScreeningsMarkdown(newScreenings, marketName))
+        : '';
 }
 
 await checkForNewScreenings(alamoMarket);

@@ -1,5 +1,6 @@
 name: Check for new LA movies
 on:
+  push:
   schedule:
     - cron: "6 * * * *" # hourly, 6 mins past the hour
 jobs:
@@ -22,20 +23,36 @@ jobs:
         with:
           alamoMarket: los-angeles
       - name: (on movie/screenings add) Update readme for market.
-        if: steps.new-movies.outputs.movies != '' || steps.new-screenings.outputs.screenings != ''
+        if: steps.new-movies.outputs.movies-titles != '' || steps.new-screenings.outputs.screenings != ''
         run: yarn update-readme los-angeles
       - name: (on movie/screenings add) Update movie cache.
-        if: steps.new-movies.outputs.movies != '' || steps.new-screenings.outputs.screenings != ''
+        if: steps.new-movies.outputs.movies-titles != '' || steps.new-screenings.outputs.screenings != ''
         run: yarn cleanup los-angeles
       - name: (on movie/screenings add) Send email
-        if: steps.new-movies.outputs.movies != '' || steps.new-screenings.outputs.screenings != ''
+        if: steps.new-movies.outputs.movies-titles != ''
         uses: dawidd6/action-send-mail@v3
         with:
           server_address: ${{secrets.SMTP_SERVER}}
           server_port: ${{secrets.SMTP_PORT}}
           username: ${{secrets.SMTP_USER}}
           password: ${{secrets.SMTP_PASS}}
-          subject: "New LA Alamo screenings: ${{steps.new-movies.outputs.movies}}"
+          subject: "New LA Alamo movies: ${{steps.new-movies.outputs.movies-titles}}"
+          to: ${{secrets.SUBSCRIBERS_LOS_ANGELES}}
+          from: '"Davids Alamo Bot" <david.b.calhoun@gmail.com>'
+          secure: true
+          html_body: file://los-angeles.md
+          reply_to: david.b.calhoun@gmail.com
+          convert_markdown: true
+          priority: low
+      - name: (on movie/screenings add) Send email
+        if: steps.new-movies.outputs.movies-titles == '' && steps.new-screenings.outputs.screenings != ''
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: ${{secrets.SMTP_SERVER}}
+          server_port: ${{secrets.SMTP_PORT}}
+          username: ${{secrets.SMTP_USER}}
+          password: ${{secrets.SMTP_PASS}}
+          subject: "New LA Alamo screenings"
           to: ${{secrets.SUBSCRIBERS_LOS_ANGELES}}
           from: '"Davids Alamo Bot" <david.b.calhoun@gmail.com>'
           secure: true
