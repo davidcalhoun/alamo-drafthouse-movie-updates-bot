@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 11/10 6:30pm
+
+* New screenings: 
+    * [Eternals](https://drafthouse.com/los-angeles/show/eternals): Thu 11/11 (5:45pm, 10:30pm)
+
 ### Wed 11/10 2:18pm
 * New movies: Gorillaz: Song Machine Live from Kong
 
