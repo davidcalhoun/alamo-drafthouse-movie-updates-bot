@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Fri 11/12 1:28am
+* New movies: Sword Art Online: The Movie - Progressive Aria of a Starless Night Subtitled, The Jinkx & Dela Holiday Special
+
+* New screenings: 
+    * [Sword Art Online The Movie Progressive Aria Of A Starless Night Subtitled](https://drafthouse.com/raleigh/show/sword-art-online-the-movie-progressive-aria-of-a-starless-night-subtitled): Fri 12/3 (7:35pm), Sat 12/4 (12:00pm), Thu 12/9 (7:30pm)
+
+    * [The Jinkx Deal Holiday Special](https://drafthouse.com/raleigh/show/the-jinkx-deal-holiday-special): Wed 12/15 (7:15pm)
+
 ### Wed 11/10 5:23pm
 * New movies: Gorillaz: Song Machine Live from Kong
 
