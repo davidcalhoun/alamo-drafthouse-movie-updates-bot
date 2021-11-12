@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Fri 11/12 12:27pm
+* New movies: House of Gucci, House of Gucci, Sword Art Online: The Movie - Progressive Aria of a Starless Night Dubbed
+
+* New screenings: 
+    * [House Of Gucci](https://drafthouse.com/raleigh/show/house-of-gucci): Wed 11/24 (11:45am, 3:15pm, 7:00pm), Thu 11/25 (11:45am, 3:15pm, 7:00pm), Fri 11/26 (11:45am, 3:15pm, 7:00pm), Sat 11/27 (11:45am, 3:15pm, 7:00pm, 10:45pm), Sun 11/28 (11:45am, 3:15pm, 7:00pm)
+
+    * [House Of Gucci Dress Up Screening](https://drafthouse.com/raleigh/show/house-of-gucci-dress-up-screening): Tue 11/23 (7:00pm)
+
+    * [Sword Art Online The Movie Progressive Aria Of A Starless Night Dubbed](https://drafthouse.com/raleigh/show/sword-art-online-the-movie-progressive-aria-of-a-starless-night-dubbed): Tue 12/7 (7:30pm), Wed 12/8 (7:30pm)
+
 ### Fri 11/12 1:28am
 * New movies: Sword Art Online: The Movie - Progressive Aria of a Starless Night Subtitled, The Jinkx & Dela Holiday Special
 
