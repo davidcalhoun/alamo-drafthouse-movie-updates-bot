@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 11/11 10:22pm
+* New movies: The Jinkx & Dela Holiday Special
+
+* New screenings: 
+    * [The Handmaiden](https://drafthouse.com/los-angeles/show/the-handmaiden): Sun 11/14 (2:45pm)
+
+    * [The Jinkx Deal Holiday Special](https://drafthouse.com/los-angeles/show/the-jinkx-deal-holiday-special): Tue 12/14 (7:15pm)
+
 ### Wed 11/10 6:30pm
 
 * New screenings: 
