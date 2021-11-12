@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 11/12 9:23am
+* New movies: House of Gucci, House of Gucci
+
+* New screenings: 
+    * [House Of Gucci](https://drafthouse.com/los-angeles/show/house-of-gucci): Wed 11/24 (3:00pm, 7:00pm), Thu 11/25 (2:15pm, 6:00pm, 9:45pm), Fri 11/26 (11:15am, 3:00pm, 6:45pm), Sat 11/27 (11:15am, 3:00pm, 6:45pm), Sun 11/28 (11:15am, 3:00pm, 6:45pm)
+
+    * [House Of Gucci Dress Up Screening](https://drafthouse.com/los-angeles/show/house-of-gucci-dress-up-screening): Tue 11/23 (7:00pm)
+
 ### Thu 11/11 10:22pm
 * New movies: The Jinkx & Dela Holiday Special
 
