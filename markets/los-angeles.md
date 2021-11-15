@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Mon 11/15 2:18pm
+
+* New screenings: 
+    * [Last Night In Soho](https://drafthouse.com/los-angeles/show/last-night-in-soho): Tue 11/16 (8:30pm)
+
+    * [The French Dispatch](https://drafthouse.com/los-angeles/show/the-french-dispatch): Tue 11/16 (8:15pm)
+
 ### Sun 11/14 5:00pm
 
 * New screenings: 
