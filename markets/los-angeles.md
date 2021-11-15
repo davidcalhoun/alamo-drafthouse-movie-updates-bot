@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Sun 11/14 5:00pm
+
+* New screenings: 
+    * [Return Of Godzilla](https://drafthouse.com/los-angeles/show/return-of-godzilla): Mon 11/15 (8:45pm)
+
 ### Fri 11/12 9:23am
 * New movies: House of Gucci, House of Gucci
 
