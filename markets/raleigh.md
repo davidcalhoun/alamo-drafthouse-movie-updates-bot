@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Mon 11/15 10:24pm
+* New movies: Disney's Encanto, Disney's Encanto
+
+* New screenings: 
+    * [Disneys Encanto Dubbed](https://drafthouse.com/raleigh/show/disneys-encanto-dubbed): Wed 11/24 (5:00pm)
+
+    * [Encanto](https://drafthouse.com/raleigh/show/encanto): Tue 11/23 (6:00pm, 9:00pm), Wed 11/24 (11:15am, 2:30pm, 6:00pm, 9:00pm), Thu 11/25 (11:15am, 2:30pm, 6:00pm), Fri 11/26 (11:15am, 2:30pm, 6:00pm, 9:00pm), Sat 11/27 (11:15am, 2:30pm, 6:00pm, 9:00pm), Sun 11/28 (11:15am, 2:30pm, 6:00pm)
+
 ### Mon 11/15 9:35pm
 
 * New screenings: 
