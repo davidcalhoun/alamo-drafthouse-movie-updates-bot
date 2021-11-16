@@ -1,6 +1,27 @@
 # raleigh
 
 ## Movie updates
+### Tue 11/16 12:22pm
+
+* New screenings: 
+    * [Belfast](https://drafthouse.com/raleigh/show/belfast): Thu 11/18 (1:00pm, 3:45pm, 6:45pm, 8:30pm), Fri 11/19 (1:30pm, 4:30pm, 7:15pm, 10:00pm), Sat 11/20 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sun 11/21 (1:30pm, 4:30pm, 7:15pm), Mon 11/22 (1:30pm, 4:30pm, 7:30pm, 10:15pm)
+
+    * [Clifford The Big Red Dog](https://drafthouse.com/raleigh/show/clifford-the-big-red-dog): Thu 11/18 (12:00pm, 2:00pm, 3:00pm, 5:45pm), Fri 11/19 (11:40am, 1:15pm, 3:00pm, 5:45pm), Sat 11/20 (11:45am, 1:15pm, 2:55pm, 5:45pm), Sun 11/21 (11:00am, 11:45am, 3:00pm, 5:45pm), Mon 11/22 (11:45am, 1:15pm, 3:00pm, 5:45pm)
+
+    * [Dune 2021](https://drafthouse.com/raleigh/show/dune-2021): Thu 11/18 (12:45pm, 2:30pm, 6:15pm, 10:00pm), Fri 11/19 (10:45am, 2:25pm, 6:00pm, 10:00pm), Sat 11/20 (11:15am, 2:30pm, 6:15pm, 10:00pm), Sun 11/21 (10:45am, 2:25pm, 6:00pm), Mon 11/22 (10:45am, 2:25pm, 6:15pm, 10:00pm)
+
+    * [Eternals](https://drafthouse.com/raleigh/show/eternals): Thu 11/18 (12:15pm, 1:15pm, 2:15pm, 6:00pm, 8:00pm, 10:00pm), Fri 11/19 (11:45am, 2:30pm, 6:15pm, 7:45pm, 10:00pm), Sat 11/20 (11:15am, 3:00pm, 6:45pm, 8:00pm, 10:30pm), Sun 11/21 (11:30am, 3:15pm, 7:00pm, 7:45pm), Mon 11/22 (11:30am, 3:30pm, 6:30pm, 10:30pm)
+
+    * [Ghostbusters Afterlife](https://drafthouse.com/raleigh/show/ghostbusters-afterlife): Thu 11/18 (4:45pm, 5:00pm, 8:15pm, 9:30pm, 9:45pm, 10:15pm), Fri 11/19 (11:00am, 1:00pm, 1:45pm, 4:15pm, 7:30pm, 8:30pm, 10:45pm), Sat 11/20 (11:00am, 1:00pm, 2:00pm, 4:15pm, 7:30pm, 8:30pm, 10:45pm), Sun 11/21 (11:00am, 1:00pm, 1:45pm, 4:15pm, 7:30pm), Mon 11/22 (11:00am, 12:00pm, 1:00pm, 1:45pm, 3:15pm, 5:30pm, 7:00pm, 8:00pm, 8:30pm, 10:15pm)
+
+    * [King Richard](https://drafthouse.com/raleigh/show/king-richard): Fri 11/19 (3:30pm, 7:00pm, 10:30pm), Sat 11/20 (3:30pm, 7:00pm, 10:30pm), Sun 11/21 (2:45pm, 6:15pm), Mon 11/22 (11:15am, 2:05pm, 3:00pm, 6:00pm, 7:15pm, 9:30pm, 10:45pm)
+
+    * [No Time To Die](https://drafthouse.com/raleigh/show/no-time-to-die): Thu 11/18 (1:45pm, 5:30pm, 9:15pm), Fri 11/19 (4:00pm, 5:15pm, 9:15pm), Sat 11/20 (4:00pm, 5:15pm, 9:15pm), Sun 11/21 (12:15pm, 4:00pm, 5:15pm), Mon 11/22 (4:00pm, 8:15pm, 9:00pm)
+
+    * [Spencer](https://drafthouse.com/raleigh/show/spencer): Thu 11/18 (2:45pm)
+
+    * [The French Dispatch](https://drafthouse.com/raleigh/show/the-french-dispatch): Thu 11/18 (12:30pm, 3:30pm, 4:30pm, 7:45pm, 10:45pm), Fri 11/19 (12:45pm, 3:45pm, 6:45pm, 9:40pm), Sat 11/20 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Sun 11/21 (12:45pm, 3:45pm, 6:45pm), Mon 11/22 (12:45pm, 3:45pm, 6:45pm, 9:45pm)
+
 ### Mon 11/15 10:24pm
 * New movies: Disney's Encanto, Disney's Encanto
 
