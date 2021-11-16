@@ -61,7 +61,7 @@ jobs:
           convert_markdown: true
           priority: low
       - name: (on movie/screenings add) Check in new movies to the repo.
-        if: steps.new-movies.outputs.movies != '' || steps.new-screenings.outputs.screenings != ''
+        if: steps.new-movies.outputs.movies-titles != '' || steps.new-screenings.outputs.screenings != ''
         uses: test-room-7/action-update-file@v1
         with:
           file-path: |

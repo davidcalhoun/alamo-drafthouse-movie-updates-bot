@@ -28,7 +28,7 @@ jobs:
       - name: (on movie/screenings add) Update movie cache.
         if: steps.new-movies.outputs.movies-titles != '' || steps.new-screenings.outputs.screenings != ''
         run: yarn cleanup raleigh
-      - name: (on movie/screenings add) Send email
+      - name: (on movie add) Send email
         if: steps.new-movies.outputs.movies-titles != ''
         uses: dawidd6/action-send-mail@v3
         with:
