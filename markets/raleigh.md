@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 11/16 5:23pm
+* New movies: The Jinkx & Dela Holiday Special
+
+
+
 ### Tue 11/16 12:22pm
 
 * New screenings: 
