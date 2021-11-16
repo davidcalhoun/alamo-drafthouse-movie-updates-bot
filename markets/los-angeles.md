@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 11/16 2:35pm
+* New movies: The Jinkx & Dela Holiday Special, The Power of the Dog
+
+
+
 ### Mon 11/15 3:19pm
 
 * New screenings: 
