@@ -1,6 +1,29 @@
 # los-angeles
 
 ## Movie updates
+### Tue 11/16 7:19pm
+
+* New screenings: 
+    * [Belfast](https://drafthouse.com/los-angeles/show/belfast): Thu 11/18 (4:30pm, 7:45pm, 10:45pm), Fri 11/19 (4:15pm, 7:45pm, 10:15pm), Sat 11/20 (12:45pm, 4:45pm, 8:15pm), Sun 11/21 (11:45am, 5:00pm, 8:00pm)
+
+    * [Dune 2021](https://drafthouse.com/los-angeles/show/dune-2021): Thu 11/18 (3:00pm, 6:45pm, 10:30pm), Fri 11/19 (3:00pm, 6:45pm, 10:30pm), Sat 11/20 (11:00am, 2:50pm, 6:45pm), Sun 11/21 (11:00am, 3:00pm, 6:45pm)
+
+    * [Eternals](https://drafthouse.com/los-angeles/show/eternals): Thu 11/18 (2:00pm, 2:30pm, 5:45pm, 9:30pm), Fri 11/19 (2:30pm, 6:15pm, 10:00pm), Sat 11/20 (11:45am, 3:45pm, 7:45pm), Sun 11/21 (12:35pm, 4:30pm, 8:15pm)
+
+    * [Ghostbusters Afterlife](https://drafthouse.com/los-angeles/show/ghostbusters-afterlife): Thu 11/18 (2:30pm, 10:00pm, 11:00pm), Fri 11/19 (2:15pm, 5:30pm, 7:00pm, 8:15pm, 8:45pm, 10:45pm), Sat 11/20 (11:20am, 12:30pm, 1:15pm, 2:35pm, 4:15pm, 7:00pm), Sun 11/21 (11:15am, 12:30pm, 1:15pm, 4:15pm, 7:45pm)
+
+    * [Godzilla Vs Biollante](https://drafthouse.com/los-angeles/show/godzilla-vs-biollante): Thu 11/18 (3:30pm, 10:00pm)
+
+    * [Last Night In Soho](https://drafthouse.com/los-angeles/show/last-night-in-soho): Thu 11/18 (4:15pm, 7:45pm, 11:00pm), Fri 11/19 (4:45pm, 8:00pm, 11:00pm), Sat 11/20 (1:45pm, 5:15pm, 8:30pm), Sun 11/21 (1:30pm, 5:15pm, 8:30pm)
+
+    * [No Time To Die](https://drafthouse.com/los-angeles/show/no-time-to-die): Thu 11/18 (1:45pm, 5:40pm, 9:30pm), Fri 11/19 (2:00pm, 5:50pm, 9:50pm), Sat 11/20 (11:20am, 3:15pm, 7:05pm), Sun 11/21 (11:20am, 3:15pm, 7:15pm)
+
+    * [Spencer](https://drafthouse.com/los-angeles/show/spencer): Thu 11/18 (3:15pm, 6:40pm, 9:40pm), Fri 11/19 (4:15pm, 7:30pm, 10:45pm), Sat 11/20 (11:45am, 3:40pm, 7:40pm), Sun 11/21 (11:30am, 2:30pm, 6:00pm)
+
+    * [The French Dispatch](https://drafthouse.com/los-angeles/show/the-french-dispatch): Thu 11/18 (2:00pm, 5:25pm, 8:45pm), Fri 11/19 (2:45pm, 6:00pm, 9:00pm), Sat 11/20 (1:00pm, 4:00pm, 7:15pm), Sun 11/21 (12:45pm, 4:00pm, 7:30pm)
+
+    * [The Power Of The Dog](https://drafthouse.com/los-angeles/show/the-power-of-the-dog): Thu 11/18 (2:45pm, 6:00pm), Fri 11/19 (3:45pm), Sat 11/20 (3:30pm), Sun 11/21 (2:45pm, 6:15pm)
+
 ### Tue 11/16 2:35pm
 * New movies: The Jinkx & Dela Holiday Special, The Power of the Dog
 
