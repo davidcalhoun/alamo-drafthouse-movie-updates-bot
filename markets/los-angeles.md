@@ -1,6 +1,31 @@
 # los-angeles
 
 ## Movie updates
+### Thu 11/18 8:24pm
+
+* New screenings: 
+    * [Belfast](https://drafthouse.com/los-angeles/show/belfast): Mon 11/22 (4:15pm, 7:45pm)
+
+    * [Dune 2021](https://drafthouse.com/los-angeles/show/dune-2021): Mon 11/22 (2:15pm, 6:00pm)
+
+    * [Eternals](https://drafthouse.com/los-angeles/show/eternals): Mon 11/22 (2:30pm, 6:30pm)
+
+    * [Ghostbusters Afterlife](https://drafthouse.com/los-angeles/show/ghostbusters-afterlife): Mon 11/22 (3:00pm, 4:00pm, 4:45pm, 6:15pm, 8:00pm)
+
+    * [King Richard](https://drafthouse.com/los-angeles/show/king-richard): Mon 11/22 (2:45pm, 6:30pm)
+
+    * [Last Night In Soho](https://drafthouse.com/los-angeles/show/last-night-in-soho): Mon 11/22 (4:30pm, 8:15pm)
+
+    * [No Time To Die](https://drafthouse.com/los-angeles/show/no-time-to-die): Mon 11/22 (2:00pm, 5:50pm)
+
+    * [Planes Trains Automobiles](https://drafthouse.com/los-angeles/show/planes-trains-automobiles): Mon 11/22 (2:00pm, 7:00pm)
+
+    * [Spencer](https://drafthouse.com/los-angeles/show/spencer): Mon 11/22 (3:30pm, 7:30pm)
+
+    * [The French Dispatch](https://drafthouse.com/los-angeles/show/the-french-dispatch): Mon 11/22 (3:15pm, 7:15pm)
+
+    * [The Power Of The Dog](https://drafthouse.com/los-angeles/show/the-power-of-the-dog): Mon 11/22 (3:45pm)
+
 ### Thu 11/18 7:19pm
 
 * New screenings: 
