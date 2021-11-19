@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 11/18 7:19pm
+
+* New screenings: 
+    * [National Lampoons Christmas Vacation](https://drafthouse.com/los-angeles/show/national-lampoons-christmas-vacation): Sun 11/21 (3:15pm)
+
 ### Tue 11/16 7:19pm
 
 * New screenings: 
