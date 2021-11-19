@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 11/19 8:27am
+* New movies: The Matrix Re-Release
+
+* New screenings: 
+    * [The Matrix Re Release](https://drafthouse.com/raleigh/show/the-matrix-re-release): Mon 12/13 (7:15pm), Tue 12/14 (7:15pm)
+
 ### Tue 11/16 5:23pm
 * New movies: The Jinkx & Dela Holiday Special
 
