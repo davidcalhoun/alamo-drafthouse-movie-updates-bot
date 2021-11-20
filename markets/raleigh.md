@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Fri 11/19 8:11pm
+
+* New screenings: 
+    * [Ghostbusters Afterlife](https://drafthouse.com/raleigh/show/ghostbusters-afterlife): Tue 11/23 (11:15am, 2:30pm, 7:30pm, 10:45pm), Wed 11/24 (1:00pm, 4:15pm, 7:30pm, 10:50pm), Thu 11/25 (1:00pm, 4:15pm, 7:30pm, 10:50pm), Fri 11/26 (1:00pm, 4:15pm, 7:30pm, 10:55pm), Sat 11/27 (1:00pm, 4:15pm, 7:30pm, 10:55pm), Sun 11/28 (1:00pm, 4:15pm, 7:30pm)
+
+    * [King Richard](https://drafthouse.com/raleigh/show/king-richard): Tue 11/23 (1:00pm, 3:30pm, 6:45pm, 10:15pm), Wed 11/24 (11:30am, 3:00pm, 6:45pm, 10:20pm), Thu 11/25 (11:30am, 3:00pm, 6:45pm, 10:20pm), Fri 11/26 (11:30am, 3:00pm, 6:45pm, 10:20pm), Sat 11/27 (11:30am, 3:00pm, 6:45pm, 10:20pm), Sun 11/28 (11:30am, 3:00pm, 6:45pm)
+
 ### Fri 11/19 8:27am
 * New movies: The Matrix Re-Release
 
