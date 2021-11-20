@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Fri 11/19 7:19pm
+
+* New screenings: 
+    * [Ghostbusters Afterlife](https://drafthouse.com/los-angeles/show/ghostbusters-afterlife): Tue 11/23 (3:40pm, 7:15pm), Wed 11/24 (3:20pm, 6:30pm), Thu 11/25 (3:00pm, 6:30pm, 9:40pm), Fri 11/26 (11:30am, 2:50pm, 6:15pm)
+
+    * [King Richard](https://drafthouse.com/los-angeles/show/king-richard): Tue 11/23 (2:30pm, 6:30pm), Wed 11/24 (3:15pm, 6:45pm), Thu 11/25 (2:45pm, 6:15pm, 10:00pm), Fri 11/26 (11:50am, 3:25pm, 7:00pm)
+
 ### Fri 11/19 4:29am
 * New movies: The Matrix Re-Release
 
