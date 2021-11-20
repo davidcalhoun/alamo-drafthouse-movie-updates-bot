@@ -1,6 +1,15 @@
 # los-angeles
 
 ## Movie updates
+### Sat 11/20 11:14am
+
+* New screenings: 
+    * [Movie Party National Lampoons Christmas Vacation](https://drafthouse.com/los-angeles/show/movie-party-national-lampoons-christmas-vacation): Sat 11/20 (9:45pm)
+
+    * [Peeping Tom](https://drafthouse.com/los-angeles/show/peeping-tom): Sat 11/20 (9:45pm)
+
+    * [Planes Trains Automobiles](https://drafthouse.com/los-angeles/show/planes-trains-automobiles): Sat 11/20 (10:10pm)
+
 ### Sat 11/20 9:21am
 
 * New screenings: 
