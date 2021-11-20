@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Fri 11/19 8:24pm
+
+* New screenings: 
+    * [Ghostbusters Afterlife](https://drafthouse.com/los-angeles/show/ghostbusters-afterlife): Sat 11/27 (11:30am, 2:50pm, 6:15pm), Sun 11/28 (11:30am, 2:50pm, 6:15pm)
+
+    * [King Richard](https://drafthouse.com/los-angeles/show/king-richard): Sat 11/27 (11:50am, 3:25pm, 7:00pm), Sun 11/28 (11:50am, 3:25pm, 7:00pm)
+
 ### Fri 11/19 7:19pm
 
 * New screenings: 
