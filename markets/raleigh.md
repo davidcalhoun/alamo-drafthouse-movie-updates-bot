@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Sun 11/21 5:25am
+* New movies: Resident Evil: Welcome to Raccoon City, C'mon C'mon
+
+* New screenings: 
+    * [Cmon Cmon](https://drafthouse.com/raleigh/show/cmon-cmon): Tue 11/23 (7:15pm), Wed 11/24 (1:00pm, 4:15pm, 7:15pm), Thu 11/25 (1:00pm, 4:15pm, 7:20pm)
+
+    * [Resident Evil Welcome To Raccoon City](https://drafthouse.com/raleigh/show/resident-evil-welcome-to-raccoon-city): Tue 11/23 (6:15pm, 9:15pm), Wed 11/24 (1:30pm, 4:45pm, 7:45pm, 10:50pm), Thu 11/25 (1:30pm, 4:45pm, 7:45pm)
+
 ### Fri 11/19 8:11pm
 
 * New screenings: 
