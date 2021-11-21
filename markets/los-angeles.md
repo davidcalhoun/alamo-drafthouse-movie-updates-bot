@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Sun 11/21 10:21am
+
+* New screenings: 
+    * [National Lampoons Christmas Vacation](https://drafthouse.com/los-angeles/show/national-lampoons-christmas-vacation): Sun 11/21 (9:30pm)
+
 ### Sun 11/21 1:18am
 * New movies: C'mon C'mon
 
