@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Sun 11/21 1:18am
+* New movies: C'mon C'mon
+
+* New screenings: 
+    * [Cmon Cmon](https://drafthouse.com/los-angeles/show/cmon-cmon): Tue 11/23 (7:15pm), Wed 11/24 (4:20pm, 7:15pm), Thu 11/25 (3:45pm, 6:45pm, 10:15pm), Fri 11/26 (12:45pm, 3:45pm, 6:45pm), Sat 11/27 (12:45pm, 3:45pm, 6:45pm), Sun 11/28 (12:45pm, 3:45pm, 6:45pm)
+
 ### Sat 11/20 11:14am
 
 * New screenings: 
