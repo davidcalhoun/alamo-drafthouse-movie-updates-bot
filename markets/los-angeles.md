@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 11/22 10:22am
+* New movies: The King's Man, The Matrix Reissue
+
+* New screenings: 
+    * [The Kings Man](https://drafthouse.com/los-angeles/show/the-kings-man): Tue 12/21 (4:00pm, 7:30pm), Wed 12/22 (4:00pm, 7:30pm), Thu 12/23 (3:30pm, 7:00pm, 10:25pm), Fri 12/24 (4:00pm, 7:30pm), Sat 12/25 (12:30pm, 4:00pm, 7:30pm), Sun 12/26 (12:30pm, 4:00pm, 7:30pm)
+
 ### Mon 11/22 9:24am
 * New movies: The Matrix Re-Release
 
