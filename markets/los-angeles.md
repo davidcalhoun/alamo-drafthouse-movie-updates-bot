@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 11/22 11:14am
+* New movies: Eternals
+
+
+
 ### Mon 11/22 10:22am
 * New movies: The King's Man, The Matrix Reissue
 
