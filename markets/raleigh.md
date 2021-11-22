@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 11/22 12:28pm
+* New movies: The Matrix Re-Release
+
+* New screenings: 
+    * [The Matrix Re Release](https://drafthouse.com/raleigh/show/the-matrix-re-release): Mon 12/13 (7:15pm), Tue 12/14 (7:15pm)
+
 ### Mon 11/22 11:37am
 * New movies: Julia, Disney's Encanto, ETERNALS
 
