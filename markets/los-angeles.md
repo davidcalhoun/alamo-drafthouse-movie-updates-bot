@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 11/22 9:24am
+* New movies: The Matrix Re-Release
+
+* New screenings: 
+    * [The Matrix Re Release](https://drafthouse.com/los-angeles/show/the-matrix-re-release): Wed 12/15 (7:00pm)
+
 ### Mon 11/22 8:30am
 * New movies: ETERNALS
 
