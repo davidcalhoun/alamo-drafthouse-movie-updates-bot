@@ -1,6 +1,36 @@
 # raleigh
 
 ## Movie updates
+### Mon 11/22 11:37am
+* New movies: Julia, Disney's Encanto, ETERNALS
+
+* New screenings: 
+    * [Belfast](https://drafthouse.com/raleigh/show/belfast): Tue 11/23 (1:15pm, 4:00pm)
+
+    * [Clifford The Big Red Dog](https://drafthouse.com/raleigh/show/clifford-the-big-red-dog): Tue 11/23 (11:45am, 12:30pm, 2:45pm, 5:45pm)
+
+    * [Cmon Cmon](https://drafthouse.com/raleigh/show/cmon-cmon): Tue 11/23 (10:10pm)
+
+    * [Disneys Encanto Dubbed](https://drafthouse.com/raleigh/show/disneys-encanto-dubbed): Wed 11/24 (5:00pm)
+
+    * [Dune 2021](https://drafthouse.com/raleigh/show/dune-2021): Tue 11/23 (12:00pm, 3:45pm)
+
+    * [Encanto](https://drafthouse.com/raleigh/show/encanto): Tue 11/23 (8:30pm), Wed 11/24 (10:30am, 12:15pm, 1:45pm, 3:30pm, 8:00pm)
+
+    * [Ghostbusters Afterlife](https://drafthouse.com/raleigh/show/ghostbusters-afterlife): Tue 11/23 (11:00am, 12:15pm, 12:45pm, 4:30pm)
+
+    * [House Of Gucci](https://drafthouse.com/raleigh/show/house-of-gucci): Tue 11/23 (8:15pm, 10:45pm), Wed 11/24 (1:15pm, 5:15pm, 5:45pm, 9:30pm, 9:45pm, 10:45pm)
+
+    * [Julia](https://drafthouse.com/raleigh/show/julia): Tue 11/23 (8:00pm, 10:50pm), Wed 11/24 (11:00am, 2:45pm, 6:30pm, 9:15pm)
+
+    * [Marvels Eternals](https://drafthouse.com/raleigh/show/marvels-eternals): Tue 11/23 (11:15am, 3:00pm, 6:30pm, 10:30pm), Wed 11/24 (10:45am, 2:15pm, 6:15pm, 10:00pm)
+
+    * [No Time To Die](https://drafthouse.com/raleigh/show/no-time-to-die): Tue 11/23 (2:20pm, 4:15pm)
+
+    * [Resident Evil Welcome To Raccoon City](https://drafthouse.com/raleigh/show/resident-evil-welcome-to-raccoon-city): Tue 11/23 (3:15pm)
+
+    * [The French Dispatch](https://drafthouse.com/raleigh/show/the-french-dispatch): Tue 11/23 (1:45pm, 4:45pm)
+
 ### Sun 11/21 5:25am
 * New movies: Resident Evil: Welcome to Raccoon City, C'mon C'mon
 
