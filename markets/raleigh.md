@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 11/22 1:27pm
+* New movies: The King's Man, Eternals, The Matrix Reissue
+
+* New screenings: 
+    * [The Kings Man](https://drafthouse.com/raleigh/show/the-kings-man): Tue 12/21 (4:00pm, 7:15pm, 10:45pm), Wed 12/22 (12:30pm, 4:00pm, 7:15pm, 10:45pm), Thu 12/23 (12:30pm, 4:00pm, 7:15pm, 10:45pm), Fri 12/24 (12:30pm, 4:00pm, 7:15pm), Sat 12/25 (12:30pm, 4:00pm, 7:15pm, 10:45pm), Sun 12/26 (12:30pm, 4:00pm, 7:15pm, 10:45pm)
+
 ### Mon 11/22 12:28pm
 * New movies: The Matrix Re-Release
 
