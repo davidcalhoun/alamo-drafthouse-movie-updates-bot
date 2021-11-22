@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 11/22 8:30am
+* New movies: ETERNALS
+
+
+
 ### Sun 11/21 10:21am
 
 * New screenings: 
