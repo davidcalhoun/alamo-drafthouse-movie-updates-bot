@@ -1,6 +1,15 @@
 # raleigh
 
 ## Movie updates
+### Tue 11/23 10:25am
+
+* New screenings: 
+    * [Dune 2021](https://drafthouse.com/raleigh/show/dune-2021): Tue 11/23 (5:15pm)
+
+    * [House Of Gucci](https://drafthouse.com/raleigh/show/house-of-gucci): Tue 11/23 (9:00pm)
+
+    * [The French Dispatch](https://drafthouse.com/raleigh/show/the-french-dispatch): Tue 11/23 (5:30pm)
+
 ### Mon 11/22 1:27pm
 * New movies: The King's Man, Eternals, The Matrix Reissue
 
