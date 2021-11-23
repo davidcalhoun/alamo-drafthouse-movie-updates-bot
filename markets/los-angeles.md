@@ -1,6 +1,34 @@
 # los-angeles
 
 ## Movie updates
+### Mon 11/22 11:17pm
+* New movies: Resident Evil: Welcome to Raccoon City
+
+* New screenings: 
+    * [Belfast](https://drafthouse.com/los-angeles/show/belfast): Tue 11/23 (4:45pm)
+
+    * [Dune 2021](https://drafthouse.com/los-angeles/show/dune-2021): Tue 11/23 (8:05pm), Wed 11/24 (7:50pm), Thu 11/25 (8:50pm)
+
+    * [Eternals](https://drafthouse.com/los-angeles/show/eternals): Tue 11/23 (3:15pm, 6:30pm), Wed 11/24 (2:30pm, 6:15pm), Thu 11/25 (2:30pm, 6:15pm, 10:00pm)
+
+    * [Ghostbusters Afterlife](https://drafthouse.com/los-angeles/show/ghostbusters-afterlife): Tue 11/23 (2:30pm), Wed 11/24 (4:35pm), Thu 11/25 (4:15pm, 7:45pm)
+
+    * [House Of Gucci](https://drafthouse.com/los-angeles/show/house-of-gucci): Tue 11/23 (7:30pm, 8:00pm), Wed 11/24 (2:25pm, 6:15pm), Thu 11/25 (2:50pm, 6:35pm, 9:15pm, 10:20pm)
+
+    * [Last Night In Soho](https://drafthouse.com/los-angeles/show/last-night-in-soho): Tue 11/23 (4:30pm, 7:45pm), Wed 11/24 (4:30pm, 7:45pm), Thu 11/25 (4:00pm, 7:30pm, 11:00pm)
+
+    * [No Time To Die](https://drafthouse.com/los-angeles/show/no-time-to-die): Tue 11/23 (2:15pm), Wed 11/24 (7:30pm), Thu 11/25 (5:00pm)
+
+    * [Peeping Tom](https://drafthouse.com/los-angeles/show/peeping-tom): Tue 11/23 (3:45pm)
+
+    * [Resident Evil Welcome To Raccoon City](https://drafthouse.com/los-angeles/show/resident-evil-welcome-to-raccoon-city): Tue 11/23 (3:00pm, 6:15pm), Wed 11/24 (4:30pm, 8:00pm), Thu 11/25 (4:00pm, 7:20pm, 10:30pm)
+
+    * [Spencer](https://drafthouse.com/los-angeles/show/spencer): Tue 11/23 (3:50pm), Wed 11/24 (4:50pm), Thu 11/25 (2:00pm)
+
+    * [The French Dispatch](https://drafthouse.com/los-angeles/show/the-french-dispatch): Tue 11/23 (4:00pm, 6:30pm), Wed 11/24 (3:45pm, 8:00pm), Thu 11/25 (2:50pm, 5:50pm, 10:55pm)
+
+    * [The Power Of The Dog](https://drafthouse.com/los-angeles/show/the-power-of-the-dog): Tue 11/23 (4:15pm)
+
 ### Mon 11/22 11:14am
 * New movies: Eternals
 
