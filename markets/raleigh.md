@@ -1,6 +1,17 @@
 # raleigh
 
 ## Movie updates
+### Tue 11/23 1:25pm
+
+* New screenings: 
+    * [Cmon Cmon](https://drafthouse.com/raleigh/show/cmon-cmon): Wed 11/24 (10:15pm)
+
+    * [Dune 2021](https://drafthouse.com/raleigh/show/dune-2021): Wed 11/24 (1:10pm, 8:15pm)
+
+    * [Ghostbusters Afterlife](https://drafthouse.com/raleigh/show/ghostbusters-afterlife): Wed 11/24 (3:30pm, 5:00pm)
+
+    * [The French Dispatch](https://drafthouse.com/raleigh/show/the-french-dispatch): Wed 11/24 (11:25am, 2:45pm, 6:45pm, 9:50pm)
+
 ### Tue 11/23 10:25am
 
 * New screenings: 
