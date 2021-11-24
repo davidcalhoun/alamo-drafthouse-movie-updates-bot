@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 11/24 12:22am
+* New movies: The Roku Channel Presents: Zoey's Extraordinary Christmas Fan Screening
+
+* New screenings: 
+    * [Zoeys Extraordinary Christmas](https://drafthouse.com/los-angeles/show/zoeys-extraordinary-christmas): Tue 11/30 (7:00pm)
+
 ### Tue 11/23 10:22pm
 
 * New screenings: 
