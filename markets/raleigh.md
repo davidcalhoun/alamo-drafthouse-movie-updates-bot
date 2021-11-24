@@ -1,6 +1,31 @@
 # raleigh
 
 ## Movie updates
+### Wed 11/24 10:25am
+
+* New screenings: 
+    * [Cmon Cmon](https://drafthouse.com/raleigh/show/cmon-cmon): Thu 11/25 (10:15pm), Fri 11/26 (1:00pm, 4:15pm, 7:20pm, 10:15pm), Sat 11/27 (1:05pm, 4:20pm, 7:25pm, 10:20pm), Sun 11/28 (1:00pm, 4:15pm, 7:20pm), Mon 11/29 (1:00pm, 4:15pm, 7:20pm, 10:15pm), Tue 11/30 (1:00pm, 4:15pm, 7:20pm, 10:15pm), Wed 12/1 (1:00pm, 4:15pm, 7:20pm, 10:15pm)
+
+    * [Dune 2021](https://drafthouse.com/raleigh/show/dune-2021): Thu 11/25 (11:30am, 9:40pm), Fri 11/26 (11:35am, 10:05pm), Sat 11/27 (12:05pm, 8:15pm), Sun 11/28 (12:00pm, 6:45pm), Mon 11/29 (12:10pm, 10:35pm), Tue 11/30 (12:10pm, 10:35pm), Wed 12/1 (12:10pm, 10:35pm)
+
+    * [Encanto](https://drafthouse.com/raleigh/show/encanto): Thu 11/25 (11:00am, 2:00pm, 9:00pm), Fri 11/26 (12:15pm), Sat 11/27 (12:15pm), Sun 11/28 (12:15pm), Mon 11/29 (11:15am, 12:15pm, 2:30pm, 6:00pm, 9:00pm), Tue 11/30 (11:15am, 12:15pm, 2:30pm, 6:00pm, 9:00pm), Wed 12/1 (11:15am, 12:15pm, 2:30pm, 6:00pm, 9:00pm)
+
+    * [Eternals](https://drafthouse.com/raleigh/show/eternals): Thu 11/25 (11:00am, 6:15pm, 10:00pm), Fri 11/26 (12:45pm, 2:40pm, 6:25pm, 10:10pm), Sat 11/27 (12:50pm, 2:45pm, 6:30pm, 10:15pm), Sun 11/28 (11:15am, 2:25pm, 6:15pm), Mon 11/29 (12:45pm, 2:40pm, 6:25pm, 10:10pm), Tue 11/30 (12:45pm, 2:40pm, 6:25pm, 10:10pm), Wed 12/1 (12:45pm, 2:40pm, 6:25pm, 10:10pm)
+
+    * [Ghostbusters Afterlife](https://drafthouse.com/raleigh/show/ghostbusters-afterlife): Thu 11/25 (3:30pm), Fri 11/26 (3:30pm, 6:50pm), Sat 11/27 (4:00pm), Sun 11/28 (3:30pm, 5:45pm), Mon 11/29 (1:00pm, 4:05pm, 4:15pm, 7:25pm, 7:30pm, 10:55pm), Tue 11/30 (1:00pm, 4:05pm, 4:15pm, 7:25pm, 7:30pm, 10:55pm), Wed 12/1 (1:00pm, 4:05pm, 4:15pm, 7:25pm, 7:30pm, 10:55pm)
+
+    * [House Of Gucci](https://drafthouse.com/raleigh/show/house-of-gucci): Thu 11/25 (12:45pm, 2:15pm, 5:15pm, 5:45pm, 9:15pm, 9:30pm), Fri 11/26 (1:20pm, 3:45pm, 5:15pm, 8:00pm, 9:30pm), Sat 11/27 (1:05pm, 3:45pm, 7:45pm, 8:05pm), Sun 11/28 (2:00pm, 3:50pm, 7:40pm), Mon 11/29 (11:45am, 1:20pm, 3:15pm, 3:45pm, 5:15pm, 7:00pm, 8:00pm, 9:30pm, 10:45pm), Tue 11/30 (11:45am, 1:20pm, 3:15pm, 3:45pm, 5:15pm, 7:00pm, 8:00pm, 9:30pm, 10:45pm), Wed 12/1 (11:45am, 1:20pm, 3:15pm, 3:45pm, 5:15pm, 8:00pm, 9:15pm, 10:15pm)
+
+    * [King Richard](https://drafthouse.com/raleigh/show/king-richard): Mon 11/29 (11:30am, 3:00pm, 6:45pm, 10:20pm), Tue 11/30 (11:30am, 3:00pm, 6:45pm, 10:20pm), Wed 12/1 (11:30am, 3:00pm, 6:45pm, 10:20pm)
+
+    * [Planes Trains Automobiles](https://drafthouse.com/raleigh/show/planes-trains-automobiles): Thu 11/25 (7:45pm)
+
+    * [Resident Evil Welcome To Raccoon City](https://drafthouse.com/raleigh/show/resident-evil-welcome-to-raccoon-city): Thu 11/25 (2:45pm, 10:30pm), Fri 11/26 (11:45am, 4:45pm, 7:45pm, 10:50pm), Sat 11/27 (11:50am, 4:50pm, 7:50pm, 10:55pm), Sun 11/28 (1:30pm, 4:45pm, 7:45pm), Mon 11/29 (11:45am, 4:45pm, 7:45pm, 10:50pm), Tue 11/30 (11:45am, 4:45pm, 7:45pm, 10:50pm), Wed 12/1 (11:45am, 4:45pm, 7:45pm, 10:50pm)
+
+    * [Sing 2 Early Access](https://drafthouse.com/raleigh/show/sing-2-early-access): Sat 11/27 (5:15pm)
+
+    * [The French Dispatch](https://drafthouse.com/raleigh/show/the-french-dispatch): Thu 11/25 (11:15am, 2:45pm, 6:45pm, 10:50pm), Fri 11/26 (12:00pm, 3:00pm, 6:10pm, 9:15pm), Sat 11/27 (11:15am, 2:15pm, 6:40pm, 10:45pm), Sun 11/28 (11:45am, 2:50pm, 5:50pm), Mon 11/29 (12:00pm, 3:00pm, 6:10pm, 9:15pm), Tue 11/30 (12:00pm, 3:00pm, 6:10pm, 9:15pm), Wed 12/1 (12:00pm, 3:00pm, 6:10pm, 9:15pm)
+
 ### Tue 11/23 1:25pm
 
 * New screenings: 
