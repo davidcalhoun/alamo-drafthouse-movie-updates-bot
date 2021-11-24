@@ -1,6 +1,29 @@
 # los-angeles
 
 ## Movie updates
+### Tue 11/23 10:22pm
+
+* New screenings: 
+    * [Dune 2021](https://drafthouse.com/los-angeles/show/dune-2021): Fri 11/26 (12:30pm, 7:15pm), Sat 11/27 (10:45am, 7:30pm), Sun 11/28 (11:00am, 7:45pm)
+
+    * [Elf](https://drafthouse.com/los-angeles/show/elf): Fri 11/26 (5:15pm, 8:15pm), Sat 11/27 (8:30pm)
+
+    * [Eternals](https://drafthouse.com/los-angeles/show/eternals): Fri 11/26 (10:45am, 2:30pm, 6:30pm), Sat 11/27 (10:45am, 2:30pm, 6:15pm), Sun 11/28 (10:45am, 2:30pm, 6:15pm)
+
+    * [Ghostbusters Afterlife](https://drafthouse.com/los-angeles/show/ghostbusters-afterlife): Fri 11/26 (4:45pm, 8:00pm), Sat 11/27 (12:30pm, 4:15pm, 8:00pm), Sun 11/28 (12:30pm, 4:00pm, 7:30pm)
+
+    * [House Of Gucci](https://drafthouse.com/los-angeles/show/house-of-gucci): Fri 11/26 (4:00pm, 7:45pm), Sat 11/27 (4:00pm, 7:45pm), Sun 11/28 (12:30pm, 4:15pm, 8:00pm)
+
+    * [Last Night In Soho](https://drafthouse.com/los-angeles/show/last-night-in-soho): Fri 11/26 (12:30pm, 3:45pm, 7:00pm), Sat 11/27 (1:00pm, 4:45pm, 8:15pm), Sun 11/28 (1:00pm, 4:30pm, 8:00pm)
+
+    * [No Time To Die](https://drafthouse.com/los-angeles/show/no-time-to-die): Fri 11/26 (11:20am, 3:15pm), Sat 11/27 (12:00pm, 3:15pm), Sun 11/28 (3:15pm)
+
+    * [Resident Evil Welcome To Raccoon City](https://drafthouse.com/los-angeles/show/resident-evil-welcome-to-raccoon-city): Fri 11/26 (1:00pm, 4:30pm, 7:30pm), Sat 11/27 (1:00pm, 5:00pm, 8:15pm), Sun 11/28 (1:00pm, 4:30pm, 7:30pm)
+
+    * [Spencer](https://drafthouse.com/los-angeles/show/spencer): Fri 11/26 (12:15pm), Sat 11/27 (11:45am), Sun 11/28 (12:15pm)
+
+    * [The French Dispatch](https://drafthouse.com/los-angeles/show/the-french-dispatch): Fri 11/26 (11:45am, 3:30pm, 6:30pm), Sat 11/27 (11:00am, 2:05pm, 5:30pm), Sun 11/28 (11:30am, 2:50pm, 6:00pm)
+
 ### Mon 11/22 11:17pm
 * New movies: Resident Evil: Welcome to Raccoon City
 
