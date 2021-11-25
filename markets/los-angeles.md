@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 11/24 9:17pm
+
+* New screenings: 
+    * [Elf](https://drafthouse.com/los-angeles/show/elf): Sun 11/28 (8:30pm)
+
 ### Wed 11/24 5:01pm
 * New movies: Love Actually, Nightmare Alley 2021
 
