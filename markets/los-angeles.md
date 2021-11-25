@@ -1,6 +1,36 @@
 # los-angeles
 
 ## Movie updates
+### Wed 11/24 5:01pm
+* New movies: Love Actually, Nightmare Alley 2021
+
+* New screenings: 
+    * [Cmon Cmon](https://drafthouse.com/los-angeles/show/cmon-cmon): Mon 11/29 (3:15pm, 6:30pm), Tue 11/30 (4:55pm, 8:20pm), Wed 12/1 (2:45pm, 7:15pm)
+
+    * [Dune 2021](https://drafthouse.com/los-angeles/show/dune-2021): Mon 11/29 (7:35pm), Wed 12/1 (7:15pm)
+
+    * [Eternals](https://drafthouse.com/los-angeles/show/eternals): Mon 11/29 (2:30pm, 6:15pm), Tue 11/30 (3:45pm, 7:30pm), Wed 12/1 (2:30pm, 6:15pm)
+
+    * [Ghostbusters Afterlife](https://drafthouse.com/los-angeles/show/ghostbusters-afterlife): Mon 11/29 (4:15pm, 6:30pm, 7:45pm), Tue 11/30 (4:35pm), Wed 12/1 (4:30pm, 5:45pm, 8:15pm)
+
+    * [House Of Gucci](https://drafthouse.com/los-angeles/show/house-of-gucci): Mon 11/29 (2:00pm, 3:00pm, 5:45pm, 7:00pm), Tue 11/30 (4:00pm, 8:00pm), Wed 12/1 (2:15pm, 3:30pm, 6:30pm, 7:35pm)
+
+    * [King Richard](https://drafthouse.com/los-angeles/show/king-richard): Mon 11/29 (2:15pm, 6:00pm), Wed 12/1 (3:45pm)
+
+    * [Last Night In Soho](https://drafthouse.com/los-angeles/show/last-night-in-soho): Mon 11/29 (4:00pm, 8:00pm), Tue 11/30 (7:45pm), Wed 12/1 (4:45pm, 8:30pm)
+
+    * [Love Actually](https://drafthouse.com/los-angeles/show/love-actually): Mon 11/29 (2:30pm), Wed 12/1 (3:15pm)
+
+    * [Nightmare Alley Special Screening](https://drafthouse.com/los-angeles/show/nightmare-alley-special-screening): Wed 12/1 (6:00pm)
+
+    * [No Time To Die](https://drafthouse.com/los-angeles/show/no-time-to-die): Mon 11/29 (3:45pm), Wed 12/1 (3:15pm)
+
+    * [Resident Evil Welcome To Raccoon City](https://drafthouse.com/los-angeles/show/resident-evil-welcome-to-raccoon-city): Mon 11/29 (4:15pm, 8:15pm), Tue 11/30 (5:45pm, 8:40pm), Wed 12/1 (4:15pm, 7:55pm)
+
+    * [Spencer](https://drafthouse.com/los-angeles/show/spencer): Mon 11/29 (3:15pm), Wed 12/1 (2:45pm)
+
+    * [The French Dispatch](https://drafthouse.com/los-angeles/show/the-french-dispatch): Mon 11/29 (4:00pm, 7:20pm), Tue 11/30 (3:30pm), Wed 12/1 (4:00pm, 7:00pm)
+
 ### Wed 11/24 12:22am
 * New movies: The Roku Channel Presents: Zoey's Extraordinary Christmas Fan Screening
 
