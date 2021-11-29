@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 11/29 2:22am
+* New movies: Spider-Man: No Way Home
+
+* New screenings: 
+    * [Spider Man No Way Home](https://drafthouse.com/raleigh/show/spider-man-no-way-home): Thu 12/16 (3:00pm, 3:30pm, 3:45pm, 5:00pm, 6:45pm, 7:15pm, 7:30pm, 9:00pm, 10:30pm, 11:00pm, 11:15pm), Fri 12/17 (10:00am, 11:00am, 12:00pm, 1:00pm, 2:00pm, 3:00pm, 4:00pm, 5:00pm, 6:00pm, 7:00pm, 8:00pm, 9:00pm, 10:00pm, 10:55pm), Sat 12/18 (10:00am, 11:00am, 12:00pm, 1:00pm, 2:00pm, 3:00pm, 4:00pm, 5:00pm, 6:00pm, 7:00pm, 8:00pm, 9:00pm, 10:00pm, 10:55pm), Sun 12/19 (10:00am, 11:00am, 12:00pm, 1:00pm, 2:00pm, 3:00pm, 4:00pm, 5:00pm, 6:00pm, 7:00pm, 8:00pm, 9:00pm, 10:00pm, 10:55pm), Mon 12/20 (10:15am, 11:00am, 11:45am, 12:15pm, 2:15pm, 2:50pm, 3:45pm, 4:15pm, 6:15pm, 6:45pm, 8:15pm, 10:15pm, 10:30pm, 10:45pm), Tue 12/21 (10:45am, 2:30pm, 6:15pm, 10:00pm), Wed 12/22 (11:15am, 3:00pm, 6:45pm, 10:30pm), Thu 12/23 (11:30am, 3:15pm, 7:00pm, 10:45pm), Fri 12/24 (11:00am, 2:45pm, 6:30pm), Sat 12/25 (10:30am, 2:15pm, 6:00pm, 9:45pm), Sun 12/26 (11:15am, 3:00pm, 6:45pm, 10:30pm), Mon 12/27 (11:30am, 3:15pm, 7:00pm, 10:45pm), Tue 12/28 (11:30am, 3:15pm, 7:00pm, 10:45pm), Wed 12/29 (11:30am, 3:15pm, 7:00pm, 10:45pm), Thu 12/30 (11:30am, 3:15pm, 7:00pm, 10:45pm), Fri 12/31 (11:30am, 3:15pm, 7:00pm), Sat 1/1 (1:15pm, 5:00pm, 8:45pm), Sun 1/2 (10:30am, 2:15pm, 6:00pm)
+
 ### Wed 11/24 10:25am
 
 * New screenings: 
