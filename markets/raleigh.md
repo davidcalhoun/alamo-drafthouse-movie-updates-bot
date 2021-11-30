@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 11/30 11:36am
+* New movies: Don't Look Up
+
+* New screenings: 
+    * [Dont Look Up](https://drafthouse.com/raleigh/show/dont-look-up): Thu 12/9 (7:00pm), Fri 12/10 (7:00pm), Sat 12/11 (7:00pm), Sun 12/12 (7:00pm)
+
 ### Tue 11/30 9:21am
 * New movies: West Side Story 2021
 
