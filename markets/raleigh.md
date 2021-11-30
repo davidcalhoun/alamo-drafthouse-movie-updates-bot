@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 11/30 9:21am
+* New movies: West Side Story 2021
+
+* New screenings: 
+    * [West Side Story 2021](https://drafthouse.com/raleigh/show/west-side-story-2021): Thu 12/9 (5:00pm, 8:45pm), Fri 12/10 (11:15am, 3:00pm, 6:45pm, 10:30pm), Sat 12/11 (11:15am, 3:00pm, 6:45pm, 10:30pm), Sun 12/12 (11:15am, 3:00pm, 6:45pm)
+
 ### Mon 11/29 2:22am
 * New movies: Spider-Man: No Way Home
 
