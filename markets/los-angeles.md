@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 11/30 6:17am
+* New movies: West Side Story 2021
+
+* New screenings: 
+    * [West Side Story 2021](https://drafthouse.com/los-angeles/show/west-side-story-2021): Thu 12/9 (5:00pm, 8:45pm), Fri 12/10 (12:00pm, 4:00pm, 7:50pm), Sat 12/11 (11:50am, 3:50pm, 7:40pm), Sun 12/12 (11:30am, 3:30pm, 7:20pm), Mon 12/13 (3:00pm, 7:00pm), Tue 12/14 (3:00pm, 7:00pm), Wed 12/15 (3:20pm, 7:25pm)
+
 ### Sun 11/28 9:17pm
 * New movies: Spider-Man: No Way Home
 
