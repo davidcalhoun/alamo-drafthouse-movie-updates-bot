@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 11/30 8:29am
+* New movies: Don't Look Up
+
+* New screenings: 
+    * [Dont Look Up](https://drafthouse.com/los-angeles/show/dont-look-up): Thu 12/9 (7:00pm), Fri 12/10 (7:00pm), Sat 12/11 (7:00pm), Sun 12/12 (6:15pm)
+
 ### Tue 11/30 6:17am
 * New movies: West Side Story 2021
 
