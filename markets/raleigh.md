@@ -1,6 +1,40 @@
 # raleigh
 
 ## Movie updates
+### Tue 11/30 3:24pm
+* New movies: Benedetta, Wolf, Silent Night, The Polar Express, Elf
+
+* New screenings: 
+    * [Benedetta](https://drafthouse.com/raleigh/show/benedetta): Thu 12/2 (7:15pm, 10:45pm), Fri 12/3 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Sat 12/4 (12:15pm, 3:45pm, 7:15pm, 9:45pm), Sun 12/5 (11:50am, 3:15pm, 6:30pm), Mon 12/6 (12:45pm, 4:00pm, 7:15pm, 10:45pm), Tue 12/7 (12:45pm, 4:00pm, 7:15pm, 10:35pm), Wed 12/8 (12:45pm, 4:00pm, 7:30pm, 10:55pm)
+
+    * [Cmon Cmon](https://drafthouse.com/raleigh/show/cmon-cmon): Thu 12/2 (1:40pm, 4:45pm), Fri 12/3 (1:30pm, 4:45pm), Sat 12/4 (1:55pm, 5:30pm), Sun 12/5 (2:30pm, 5:00pm), Mon 12/6 (2:00pm, 5:15pm), Tue 12/7 (2:15pm, 5:15pm), Wed 12/8 (2:15pm, 5:15pm)
+
+    * [Dune 2021](https://drafthouse.com/raleigh/show/dune-2021): Thu 12/2 (2:55pm, 9:30pm), Fri 12/3 (10:15pm), Sat 12/4 (2:00pm, 9:15pm), Sun 12/5 (1:15pm), Mon 12/6 (5:30pm), Tue 12/7 (5:30pm), Wed 12/8 (5:30pm)
+
+    * [Elf](https://drafthouse.com/raleigh/show/elf): Sun 12/5 (4:30pm)
+
+    * [Encanto](https://drafthouse.com/raleigh/show/encanto): Thu 12/2 (11:15am, 1:00pm, 4:00pm, 6:00pm, 6:45pm, 9:00pm), Fri 12/3 (11:15am, 12:30pm, 3:30pm, 6:00pm, 9:00pm), Sat 12/4 (11:15am, 2:30pm, 3:30pm, 6:00pm, 9:00pm), Sun 12/5 (11:30am, 2:45pm, 6:00pm), Mon 12/6 (12:30pm, 3:30pm, 6:00pm, 9:00pm), Tue 12/7 (11:30am, 12:00pm, 3:45pm, 6:00pm, 9:00pm), Wed 12/8 (11:15am, 12:30pm, 3:45pm, 6:15pm, 9:15pm)
+
+    * [Eternals](https://drafthouse.com/raleigh/show/eternals): Thu 12/2 (1:15pm, 5:30pm, 9:25pm), Fri 12/3 (11:55am, 2:20pm, 6:15pm, 9:45pm), Sat 12/4 (11:30am, 3:15pm, 6:15pm, 10:00pm), Sun 12/5 (11:45am, 2:15pm, 6:15pm), Mon 12/6 (12:00pm, 2:30pm, 6:15pm, 10:00pm), Tue 12/7 (12:00pm, 2:30pm, 6:15pm, 10:00pm), Wed 12/8 (11:45am, 2:15pm, 6:00pm, 9:45pm)
+
+    * [Ghostbusters Afterlife](https://drafthouse.com/raleigh/show/ghostbusters-afterlife): Thu 12/2 (12:00pm, 3:15pm, 3:55pm, 6:30pm, 9:45pm), Fri 12/3 (11:45am, 2:30pm, 4:15pm, 6:30pm, 9:45pm), Sat 12/4 (1:00pm, 4:15pm, 7:30pm, 10:00pm, 10:45pm), Sun 12/5 (12:15pm, 3:30pm, 7:00pm), Mon 12/6 (11:55am, 3:15pm, 6:30pm, 9:45pm), Tue 12/7 (12:30pm, 3:00pm, 6:30pm, 9:45pm), Wed 12/8 (12:30pm, 3:30pm, 6:45pm, 10:00pm)
+
+    * [Gremlins](https://drafthouse.com/raleigh/show/gremlins): Sun 12/5 (5:30pm)
+
+    * [House Of Gucci](https://drafthouse.com/raleigh/show/house-of-gucci): Thu 12/2 (11:50am, 11:55am, 2:15pm, 3:45pm, 7:00pm, 9:50pm, 10:50pm), Fri 12/3 (12:15pm, 3:00pm, 7:00pm, 8:30pm, 10:45pm), Sat 12/4 (11:45am, 2:50pm, 6:30pm, 10:15pm), Sun 12/5 (12:00pm, 4:00pm, 7:30pm), Mon 12/6 (2:15pm, 4:00pm, 8:00pm, 10:30pm), Tue 12/7 (1:45pm, 3:30pm, 7:00pm, 9:35pm, 10:45pm), Wed 12/8 (2:30pm, 3:15pm, 7:00pm, 9:30pm, 10:45pm)
+
+    * [King Richard](https://drafthouse.com/raleigh/show/king-richard): Thu 12/2 (2:00pm, 5:45pm), Fri 12/3 (4:15pm), Sat 12/4 (5:45pm, 8:30pm), Sun 12/5 (5:45pm), Mon 12/6 (1:55pm), Tue 12/7 (2:00pm), Wed 12/8 (1:45pm)
+
+    * [Resident Evil Welcome To Raccoon City](https://drafthouse.com/raleigh/show/resident-evil-welcome-to-raccoon-city): Thu 12/2 (2:30pm, 5:00pm, 8:00pm, 10:55pm), Fri 12/3 (1:30pm, 5:00pm, 8:00pm, 11:00pm), Sat 12/4 (1:45pm, 4:45pm, 6:45pm, 10:30pm), Sun 12/5 (1:00pm, 4:15pm, 7:45pm), Mon 12/6 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Tue 12/7 (1:15pm, 4:45pm, 8:00pm, 10:55pm), Wed 12/8 (1:45pm, 4:45pm, 7:45pm, 10:40pm)
+
+    * [Silent Night](https://drafthouse.com/raleigh/show/silent-night): Thu 12/2 (7:45pm, 10:30pm), Fri 12/3 (7:45pm, 10:30pm), Sat 12/4 (7:45pm, 10:50pm), Sun 12/5 (8:00pm), Mon 12/6 (8:15pm, 10:55pm), Tue 12/7 (8:15pm, 10:55pm), Wed 12/8 (8:15pm, 10:55pm)
+
+    * [The French Dispatch](https://drafthouse.com/raleigh/show/the-french-dispatch): Thu 12/2 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Fri 12/3 (11:20am, 3:45pm, 6:45pm, 10:00pm), Sat 12/4 (12:15pm, 3:15pm, 7:00pm), Sun 12/5 (11:15am, 3:45pm, 7:15pm), Mon 12/6 (11:40am, 3:45pm, 6:45pm, 9:45pm), Tue 12/7 (12:15pm, 3:45pm, 6:45pm, 10:15pm), Wed 12/8 (12:15pm, 3:30pm, 6:30pm, 9:15pm)
+
+    * [The Polar Express](https://drafthouse.com/raleigh/show/the-polar-express): Sun 12/5 (1:30pm)
+
+    * [Wolf](https://drafthouse.com/raleigh/show/wolf): Thu 12/2 (7:30pm, 10:15pm), Fri 12/3 (2:15pm, 5:15pm, 8:15pm, 11:00pm), Sat 12/4 (2:45pm, 5:00pm, 8:00pm, 10:20pm), Sun 12/5 (11:55am, 2:55pm, 6:45pm), Mon 12/6 (2:30pm, 5:00pm, 7:45pm, 10:40pm), Tue 12/7 (1:30pm, 4:30pm, 7:45pm, 10:30pm), Wed 12/8 (2:00pm, 5:00pm, 8:00pm, 10:50pm)
+
 ### Tue 11/30 11:36am
 * New movies: Don't Look Up
 
