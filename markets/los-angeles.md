@@ -1,6 +1,42 @@
 # los-angeles
 
 ## Movie updates
+### Tue 11/30 10:22pm
+* New movies: Benedetta, Wolf, Silent Night, National Lampoon's Christmas Vacation, Love Actually, Elf
+
+* New screenings: 
+    * [Benedetta](https://drafthouse.com/los-angeles/show/benedetta): Thu 12/2 (7:15pm, 11:00pm), Fri 12/3 (3:00pm, 4:30pm, 7:15pm, 10:30pm), Sat 12/4 (12:00pm, 1:40pm, 4:15pm, 8:00pm), Sun 12/5 (1:00pm, 1:45pm, 4:45pm, 8:00pm), Mon 12/6 (4:15pm, 5:45pm), Tue 12/7 (4:00pm, 7:45pm), Wed 12/8 (4:15pm, 7:30pm)
+
+    * [Cmon Cmon](https://drafthouse.com/los-angeles/show/cmon-cmon): Thu 12/2 (2:40pm, 5:45pm, 9:05pm), Fri 12/3 (2:30pm, 6:00pm, 9:00pm), Sat 12/4 (11:45am, 3:00pm, 6:10pm), Sun 12/5 (12:00pm, 3:15pm, 6:15pm), Mon 12/6 (2:00pm, 5:30pm), Tue 12/7 (2:45pm, 6:00pm), Wed 12/8 (3:30pm, 6:15pm)
+
+    * [Dune 2021](https://drafthouse.com/los-angeles/show/dune-2021): Thu 12/2 (1:45pm, 5:30pm), Fri 12/3 (2:45pm, 6:30pm), Sat 12/4 (10:45am, 8:00pm), Sun 12/5 (10:45am, 8:30pm), Mon 12/6 (6:20pm), Tue 12/7 (4:00pm), Wed 12/8 (2:30pm)
+
+    * [Elf](https://drafthouse.com/los-angeles/show/elf): Thu 12/2 (5:45pm), Fri 12/3 (5:45pm, 8:30pm), Sat 12/4 (5:55pm), Sun 12/5 (9:00pm), Tue 12/7 (3:45pm)
+
+    * [Eternals](https://drafthouse.com/los-angeles/show/eternals): Thu 12/2 (2:15pm, 6:15pm, 10:15pm), Fri 12/3 (1:45pm, 5:30pm, 9:30pm), Sat 12/4 (11:30am, 3:15pm, 7:15pm), Sun 12/5 (11:45am, 3:30pm, 7:15pm), Mon 12/6 (2:30pm, 6:45pm), Tue 12/7 (2:35pm, 6:45pm), Wed 12/8 (3:00pm, 7:00pm)
+
+    * [Ghostbusters Afterlife](https://drafthouse.com/los-angeles/show/ghostbusters-afterlife): Thu 12/2 (3:50pm, 4:30pm, 7:45pm, 11:15pm), Fri 12/3 (4:00pm, 7:30pm, 11:00pm), Sat 12/4 (12:40pm, 4:40pm, 8:15pm), Sun 12/5 (12:15pm, 4:15pm, 7:45pm), Mon 12/6 (3:15pm, 7:15pm), Tue 12/7 (2:00pm, 6:00pm), Wed 12/8 (4:30pm, 8:15pm)
+
+    * [House Of Gucci](https://drafthouse.com/los-angeles/show/house-of-gucci): Thu 12/2 (2:00pm, 3:05pm, 5:45pm, 6:50pm, 10:00pm, 10:45pm), Fri 12/3 (2:00pm, 3:15pm, 5:45pm, 7:00pm, 9:45pm, 10:45pm), Sat 12/4 (11:00am, 12:15pm, 2:45pm, 4:00pm, 6:45pm, 8:30pm), Sun 12/5 (11:00am, 12:45pm, 3:00pm, 4:30pm, 7:00pm, 8:15pm), Mon 12/6 (2:00pm, 3:15pm, 7:00pm), Tue 12/7 (2:15pm, 3:45pm, 7:30pm), Wed 12/8 (2:15pm, 3:15pm, 6:00pm)
+
+    * [King Richard](https://drafthouse.com/los-angeles/show/king-richard): Thu 12/2 (3:20pm)
+
+    * [Last Night In Soho](https://drafthouse.com/los-angeles/show/last-night-in-soho): Thu 12/2 (4:00pm, 7:30pm, 11:00pm), Fri 12/3 (8:00pm, 11:30pm), Sat 12/4 (5:30pm, 9:00pm), Sun 12/5 (5:30pm, 9:00pm), Mon 12/6 (4:15pm, 8:00pm), Tue 12/7 (4:15pm, 8:00pm), Wed 12/8 (4:30pm, 8:15pm)
+
+    * [Love Actually](https://drafthouse.com/los-angeles/show/love-actually): Thu 12/2 (2:20pm)
+
+    * [Love Actually Brunch](https://drafthouse.com/los-angeles/show/love-actually-brunch): Fri 12/3 (2:15pm), Sat 12/4 (10:45am, 2:15pm), Sun 12/5 (10:45am, 2:15pm)
+
+    * [National Lampoons Christmas Vacation](https://drafthouse.com/los-angeles/show/national-lampoons-christmas-vacation): Thu 12/2 (8:45pm), Fri 12/3 (11:30pm), Sat 12/4 (8:45pm), Sun 12/5 (6:00pm), Mon 12/6 (3:55pm), Wed 12/8 (4:45pm)
+
+    * [Resident Evil Welcome To Raccoon City](https://drafthouse.com/los-angeles/show/resident-evil-welcome-to-raccoon-city): Thu 12/2 (3:35pm, 6:30pm, 9:30pm), Fri 12/3 (3:35pm, 6:40pm, 10:00pm), Sat 12/4 (1:00pm, 4:30pm, 7:30pm), Sun 12/5 (11:45am, 3:00pm, 6:45pm), Mon 12/6 (3:00pm, 6:30pm), Tue 12/7 (3:10pm, 7:00pm), Wed 12/8 (3:45pm, 6:45pm)
+
+    * [Silent Night](https://drafthouse.com/los-angeles/show/silent-night): Thu 12/2 (10:00pm), Fri 12/3 (10:15pm), Sat 12/4 (2:30pm, 5:15pm, 9:15pm), Sun 12/5 (2:30pm, 5:45pm, 9:15pm), Mon 12/6 (3:40pm, 7:45pm), Tue 12/7 (8:30pm), Wed 12/8 (7:15pm)
+
+    * [The French Dispatch](https://drafthouse.com/los-angeles/show/the-french-dispatch): Thu 12/2 (2:55pm, 6:15pm, 9:15pm), Fri 12/3 (3:15pm, 6:15pm, 9:15pm), Sat 12/4 (11:45am, 3:15pm, 6:20pm), Sun 12/5 (12:30pm, 3:30pm, 6:30pm), Mon 12/6 (2:50pm, 6:10pm), Tue 12/7 (4:15pm, 8:15pm), Wed 12/8 (3:00pm, 6:30pm)
+
+    * [Wolf](https://drafthouse.com/los-angeles/show/wolf): Thu 12/2 (7:00pm, 9:45pm), Fri 12/3 (3:45pm, 7:00pm, 10:15pm), Sat 12/4 (1:00pm, 4:15pm, 7:30pm), Sun 12/5 (1:15pm, 4:30pm, 7:35pm), Mon 12/6 (3:30pm, 7:30pm), Tue 12/7 (3:00pm, 6:25pm), Wed 12/8 (3:45pm, 6:30pm)
+
 ### Tue 11/30 8:29am
 * New movies: Don't Look Up
 
