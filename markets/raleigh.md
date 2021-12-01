@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 11/30 8:18pm
+
+* New screenings: 
+    * [Spider Man No Way Home](https://drafthouse.com/raleigh/show/spider-man-no-way-home): Thu 12/16 (6:15pm), Fri 12/17 (6:30pm)
+
 ### Tue 11/30 3:24pm
 * New movies: Benedetta, Wolf, Silent Night, The Polar Express, Elf
 
