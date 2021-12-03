@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 12/2 8:25pm
+* New movies: Repo Man
+
+* New screenings: 
+    * [Repo Man](https://drafthouse.com/los-angeles/show/repo-man): Tue 12/21 (6:30pm)
+
+    * [Valley Girl](https://drafthouse.com/los-angeles/show/valley-girl): Mon 12/13 (6:30pm)
+
 ### Thu 12/2 7:19pm
 * New movies: Summer of ‘83: VALLEY GIRL
 
