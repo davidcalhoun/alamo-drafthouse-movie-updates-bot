@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 12/2 7:19pm
+* New movies: Summer of ‘83: VALLEY GIRL
+
+* New screenings: 
+    * [Valley Girl](https://drafthouse.com/los-angeles/show/valley-girl): Tue 12/14 (6:30pm)
+
 ### Tue 11/30 10:22pm
 * New movies: Benedetta, Wolf, Silent Night, National Lampoon's Christmas Vacation, Love Actually, Elf
 
