@@ -1,6 +1,17 @@
 # los-angeles
 
 ## Movie updates
+### Fri 12/3 8:25pm
+
+* New screenings: 
+    * [Elf](https://drafthouse.com/los-angeles/show/elf): Sat 12/11 (4:00pm)
+
+    * [Movie Party Elf](https://drafthouse.com/los-angeles/show/movie-party-elf): Mon 12/13 (6:45pm)
+
+    * [Movie Party National Lampoons Christmas Vacation](https://drafthouse.com/los-angeles/show/movie-party-national-lampoons-christmas-vacation): Sun 12/12 (5:50pm)
+
+    * [The Holiday Brunch](https://drafthouse.com/los-angeles/show/the-holiday-brunch): Sat 12/11 (11:15am)
+
 ### Thu 12/2 8:25pm
 * New movies: Repo Man
 
