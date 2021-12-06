@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 12/6 8:25am
+
+* New screenings: 
+    * [The Kings Man](https://drafthouse.com/los-angeles/show/the-kings-man): Wed 12/22 (12:30pm)
+
 ### Fri 12/3 8:25pm
 
 * New screenings: 
