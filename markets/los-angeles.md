@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 12/6 9:15am
+* New movies: The Matrix Resurrections
+
+* New screenings: 
+    * [The Matrix Resurrections](https://drafthouse.com/los-angeles/show/the-matrix-resurrections): Wed 12/22 (11:30am, 3:20pm, 6:00pm), Thu 12/23 (3:20pm, 7:15pm, 10:50pm), Fri 12/24 (2:45pm, 6:30pm), Sat 12/25 (11:00am, 2:45pm, 6:40pm, 10:20pm), Sun 12/26 (12:15pm, 4:15pm, 8:00pm), Mon 12/27 (12:00pm, 4:00pm, 8:00pm), Tue 12/28 (12:00pm, 4:00pm, 8:00pm), Wed 12/29 (12:15pm, 4:10pm, 6:00pm)
+
 ### Mon 12/6 8:25am
 
 * New screenings: 
