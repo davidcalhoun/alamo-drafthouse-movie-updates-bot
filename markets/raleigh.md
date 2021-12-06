@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 12/6 10:25am
+* New movies: Sing 2
+
+* New screenings: 
+    * [Sing 2](https://drafthouse.com/raleigh/show/sing-2): Wed 12/22 (11:45am, 3:00pm, 6:00pm, 9:00pm), Thu 12/23 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Fri 12/24 (11:45am, 3:00pm, 6:00pm), Sat 12/25 (11:45am, 3:15pm, 6:30pm, 9:00pm), Sun 12/26 (11:30am, 2:30pm, 6:00pm, 9:00pm)
+
 ### Tue 11/30 8:18pm
 
 * New screenings: 
