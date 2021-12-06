@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 12/6 11:15am
+* New movies: Fantastic Fest Presents: Agnes
+
+* New screenings: 
+    * [Live Q A Agnes](https://drafthouse.com/los-angeles/show/live-q-a-agnes): Fri 12/10 (6:00pm), Sat 12/11 (6:00pm)
+
 ### Mon 12/6 9:15am
 * New movies: The Matrix Resurrections
 
