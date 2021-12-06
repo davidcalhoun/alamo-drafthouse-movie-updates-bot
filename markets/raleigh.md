@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 12/6 12:19pm
+* New movies: The Matrix Resurrections
+
+* New screenings: 
+    * [The Matrix Resurrections](https://drafthouse.com/raleigh/show/the-matrix-resurrections): Wed 12/22 (12:30pm, 4:00pm, 7:30pm, 9:15pm), Thu 12/23 (12:30pm, 4:00pm, 7:30pm, 9:15pm), Fri 12/24 (12:30pm, 4:00pm, 7:30pm), Sat 12/25 (12:15pm, 3:45pm, 7:30pm, 9:30pm), Sun 12/26 (12:15pm, 4:00pm, 7:30pm, 9:15pm)
+
 ### Mon 12/6 10:25am
 * New movies: Sing 2
 
