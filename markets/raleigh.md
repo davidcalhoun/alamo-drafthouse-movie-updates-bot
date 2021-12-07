@@ -1,6 +1,44 @@
 # raleigh
 
 ## Movie updates
+### Tue 12/7 5:24pm
+* New movies: National Champions, Being The Ricardos, Spencer
+
+* New screenings: 
+    * [Being The Ricardos](https://drafthouse.com/raleigh/show/being-the-ricardos): Fri 12/10 (12:45pm, 4:00pm, 7:30pm, 10:45pm), Sat 12/11 (12:30pm, 4:15pm, 7:30pm, 10:45pm), Sun 12/12 (12:30pm, 3:45pm, 7:15pm), Mon 12/13 (12:30pm, 4:15pm, 7:30pm, 10:45pm), Tue 12/14 (12:30pm, 4:15pm, 7:30pm, 10:45pm), Wed 12/15 (12:30pm, 4:15pm, 7:30pm, 10:30pm)
+
+    * [Benedetta](https://drafthouse.com/raleigh/show/benedetta): Thu 12/9 (12:30pm, 4:00pm)
+
+    * [Cmon Cmon](https://drafthouse.com/raleigh/show/cmon-cmon): Thu 12/9 (1:00pm)
+
+    * [Dont Look Up](https://drafthouse.com/raleigh/show/dont-look-up): Thu 12/9 (10:15pm, 10:45pm), Fri 12/10 (11:45am, 3:30pm, 10:30pm), Sat 12/11 (12:00pm, 1:30pm, 3:30pm, 9:00pm, 10:25pm), Sun 12/12 (10:45am, 12:00pm, 2:15pm, 3:30pm, 5:45pm), Mon 12/13 (12:00pm, 12:45pm, 3:30pm, 4:30pm, 7:00pm, 10:30pm), Tue 12/14 (11:45am, 12:45pm, 3:15pm, 4:30pm, 6:45pm, 10:30pm), Wed 12/15 (12:00pm, 12:30pm, 3:30pm, 4:30pm, 7:00pm, 10:30pm)
+
+    * [Dune 2021](https://drafthouse.com/raleigh/show/dune-2021): Thu 12/9 (5:30pm)
+
+    * [Encanto](https://drafthouse.com/raleigh/show/encanto): Thu 12/9 (11:00am, 11:30am, 2:00pm, 4:00pm, 6:00pm, 9:00pm), Fri 12/10 (12:30pm, 3:30pm, 6:00pm, 9:00pm), Sat 12/11 (11:30am, 2:30pm, 6:00pm, 9:15pm), Sun 12/12 (11:30am, 3:00pm, 6:00pm, 8:55pm), Mon 12/13 (11:30am, 2:30pm, 6:00pm, 9:15pm), Tue 12/14 (11:30am, 2:30pm, 6:00pm, 9:15pm), Wed 12/15 (11:30am, 2:30pm, 6:00pm, 9:15pm)
+
+    * [Eternals](https://drafthouse.com/raleigh/show/eternals): Thu 12/9 (11:45am, 2:30pm, 6:15pm, 10:00pm), Fri 12/10 (1:30pm, 2:30pm, 6:15pm, 10:00pm), Sat 12/11 (10:45am, 2:30pm, 6:15pm, 10:00pm), Sun 12/12 (10:45am, 2:30pm, 6:15pm), Mon 12/13 (10:45am, 2:30pm, 6:15pm, 10:00pm), Tue 12/14 (10:45am, 2:30pm, 6:15pm, 10:00pm), Wed 12/15 (10:45am, 2:30pm, 6:15pm, 10:00pm)
+
+    * [Ghostbusters Afterlife](https://drafthouse.com/raleigh/show/ghostbusters-afterlife): Thu 12/9 (12:15pm, 3:30pm), Fri 12/10 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Sat 12/11 (1:00pm, 4:30pm, 7:45pm, 10:55pm), Sun 12/12 (1:00pm, 4:30pm, 8:00pm), Mon 12/13 (1:00pm, 4:30pm, 7:45pm, 10:55pm), Tue 12/14 (1:00pm, 4:30pm, 7:45pm, 10:55pm), Wed 12/15 (1:00pm, 4:30pm, 7:45pm, 10:55pm)
+
+    * [House Of Gucci](https://drafthouse.com/raleigh/show/house-of-gucci): Thu 12/9 (1:00pm, 2:15pm, 3:45pm, 7:15pm, 9:30pm), Fri 12/10 (1:45pm, 2:30pm, 6:30pm, 10:15pm), Sat 12/11 (11:00am, 2:45pm, 6:30pm, 10:15pm), Sun 12/12 (12:15pm, 4:00pm, 7:45pm), Mon 12/13 (11:00am, 2:45pm, 6:30pm, 10:15pm), Tue 12/14 (11:00am, 2:45pm, 6:30pm, 10:15pm), Wed 12/15 (11:00am, 2:45pm, 6:30pm, 10:15pm)
+
+    * [King Richard](https://drafthouse.com/raleigh/show/king-richard): Thu 12/9 (1:45pm)
+
+    * [National Champions](https://drafthouse.com/raleigh/show/national-champions): Thu 12/9 (7:45pm, 10:50pm), Fri 12/10 (12:50pm, 4:05pm, 7:15pm, 10:30pm), Sat 12/11 (12:45pm, 4:00pm, 7:15pm, 10:20pm), Sun 12/12 (11:45am, 3:15pm, 7:30pm), Mon 12/13 (12:45pm, 4:00pm, 6:30pm, 9:45pm), Tue 12/14 (12:45pm, 4:00pm, 6:30pm, 9:45pm), Wed 12/15 (12:45pm, 4:00pm, 6:30pm, 9:45pm)
+
+    * [Resident Evil Welcome To Raccoon City](https://drafthouse.com/raleigh/show/resident-evil-welcome-to-raccoon-city): Thu 12/9 (1:30pm, 4:30pm)
+
+    * [Spencer](https://drafthouse.com/raleigh/show/spencer): Fri 12/10 (3:15pm), Sat 12/11 (3:00pm), Sun 12/12 (1:30pm), Mon 12/13 (3:00pm), Tue 12/14 (3:00pm), Wed 12/15 (3:00pm)
+
+    * [The French Dispatch](https://drafthouse.com/raleigh/show/the-french-dispatch): Thu 12/9 (12:45pm, 3:30pm, 6:30pm, 9:15pm), Fri 12/10 (5:45pm, 8:45pm), Sat 12/11 (10:00pm), Sun 12/12 (6:45pm), Mon 12/13 (8:00pm, 10:50pm), Tue 12/14 (8:00pm, 10:50pm), Wed 12/15 (8:00pm, 10:50pm)
+
+    * [The Matrix Reissue](https://drafthouse.com/raleigh/show/the-matrix-reissue): Mon 12/13 (10:40pm), Tue 12/14 (10:40pm), Wed 12/15 (10:50pm)
+
+    * [West Side Story 2021](https://drafthouse.com/raleigh/show/west-side-story-2021): Thu 12/9 (6:45pm, 10:30pm), Fri 12/10 (7:45pm, 10:15pm), Sat 12/11 (1:15pm, 5:00pm, 8:45pm), Sun 12/12 (1:15pm, 5:00pm, 8:45pm), Mon 12/13 (11:15am, 3:00pm, 5:00pm, 6:45pm, 8:45pm, 10:30pm), Tue 12/14 (11:15am, 1:15pm, 3:00pm, 5:00pm, 8:45pm, 10:30pm), Wed 12/15 (11:15am, 1:15pm, 3:00pm, 5:00pm, 6:45pm, 8:45pm, 10:30pm)
+
+    * [Wolf](https://drafthouse.com/raleigh/show/wolf): Thu 12/9 (4:45pm, 8:00pm, 10:50pm), Fri 12/10 (12:30pm), Sat 12/11 (12:15pm), Sun 12/12 (4:45pm), Mon 12/13 (12:15pm), Tue 12/14 (12:15pm), Wed 12/15 (12:15pm)
+
 ### Mon 12/6 12:19pm
 * New movies: The Matrix Resurrections
 
