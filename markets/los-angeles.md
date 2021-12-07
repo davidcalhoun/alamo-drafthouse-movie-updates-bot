@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 12/6 5:05pm
+* New movies: Being The Ricardos
+
+* New screenings: 
+    * [Being The Ricardos Dress Up Screening](https://drafthouse.com/los-angeles/show/being-the-ricardos-dress-up-screening): Sat 12/11 (7:20pm)
+
 ### Mon 12/6 11:15am
 * New movies: Fantastic Fest Presents: Agnes
 
