@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 12/8 3:25pm
+* New movies: The King's Man
+
+* New screenings: 
+    * [Free Victory Screening The Kings Man](https://drafthouse.com/raleigh/show/free-victory-screening-the-kings-man): Tue 12/14 (7:00pm)
+
 ### Tue 12/7 5:24pm
 * New movies: National Champions, Being The Ricardos, Spencer
 
