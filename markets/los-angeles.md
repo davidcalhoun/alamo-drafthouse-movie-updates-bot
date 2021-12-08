@@ -1,6 +1,40 @@
 # los-angeles
 
 ## Movie updates
+### Tue 12/7 11:18pm
+* New movies: Drive My Car, Being The Ricardos
+
+* New screenings: 
+    * [Being The Ricardos](https://drafthouse.com/los-angeles/show/being-the-ricardos): Fri 12/10 (12:50pm, 4:20pm, 6:15pm), Sat 12/11 (11:35am, 3:20pm), Sun 12/12 (10:30am, 2:30pm, 6:30pm), Mon 12/13 (3:45pm, 7:45pm), Tue 12/14 (4:15pm, 7:45pm), Wed 12/15 (2:30pm, 6:30pm)
+
+    * [Benedetta](https://drafthouse.com/los-angeles/show/benedetta): Thu 12/9 (1:40pm, 6:20pm, 10:30pm), Fri 12/10 (3:15pm, 6:30pm), Sat 12/11 (4:00pm), Sun 12/12 (5:15pm), Mon 12/13 (2:15pm, 6:00pm), Tue 12/14 (6:00pm), Wed 12/15 (5:45pm)
+
+    * [Cmon Cmon](https://drafthouse.com/los-angeles/show/cmon-cmon): Thu 12/9 (2:00pm, 4:30pm, 5:30pm), Fri 12/10 (11:30am), Sat 12/11 (12:15pm), Sun 12/12 (11:25am), Mon 12/13 (2:00pm), Tue 12/14 (2:30pm), Wed 12/15 (1:00pm)
+
+    * [Dont Look Up](https://drafthouse.com/los-angeles/show/dont-look-up): Thu 12/9 (7:15pm, 10:45pm, 11:15pm), Fri 12/10 (11:15am, 12:05pm, 2:45pm, 3:45pm, 8:00pm), Sat 12/11 (11:00am, 1:15pm, 3:00pm, 5:00pm), Sun 12/12 (9:45am, 11:15am, 1:20pm, 2:50pm), Mon 12/13 (2:45pm, 3:15pm, 6:15pm), Tue 12/14 (4:00pm, 4:45pm, 8:00pm), Wed 12/15 (1:25pm, 2:00pm, 6:00pm)
+
+    * [Drive My Car](https://drafthouse.com/los-angeles/show/drive-my-car): Thu 12/9 (6:15pm, 10:30pm), Fri 12/10 (11:45am, 12:30pm, 4:00pm, 8:15pm), Sat 12/11 (10:00am, 2:15pm, 6:15pm), Sun 12/12 (10:15am, 2:00pm, 6:00pm), Mon 12/13 (2:45pm, 3:30pm, 7:30pm), Tue 12/14 (2:30pm, 2:45pm, 6:30pm), Wed 12/15 (2:00pm, 6:00pm)
+
+    * [Dune 2021](https://drafthouse.com/los-angeles/show/dune-2021): Thu 12/9 (2:45pm)
+
+    * [Eternals](https://drafthouse.com/los-angeles/show/eternals): Thu 12/9 (3:15pm)
+
+    * [Ghostbusters Afterlife](https://drafthouse.com/los-angeles/show/ghostbusters-afterlife): Thu 12/9 (3:10pm, 4:45pm, 7:40pm, 8:15pm, 9:50pm), Fri 12/10 (1:15pm, 5:00pm, 8:30pm), Sat 12/11 (10:30am, 2:00pm, 6:00pm), Sun 12/12 (12:00pm, 3:15pm, 6:45pm), Mon 12/13 (3:00pm, 6:50pm), Tue 12/14 (3:00pm, 6:30pm), Wed 12/15 (3:15pm, 7:00pm)
+
+    * [House Of Gucci](https://drafthouse.com/los-angeles/show/house-of-gucci): Thu 12/9 (1:15pm, 2:30pm, 5:00pm, 6:35pm, 8:50pm, 10:25pm), Fri 12/10 (1:15pm, 3:30pm, 7:15pm, 9:00pm), Sat 12/11 (12:15pm, 4:30pm, 7:25pm), Sun 12/12 (11:45am, 3:40pm, 7:30pm), Mon 12/13 (2:30pm, 6:30pm), Tue 12/14 (2:15pm, 6:00pm), Wed 12/15 (2:45pm, 6:45pm)
+
+    * [Last Night In Soho](https://drafthouse.com/los-angeles/show/last-night-in-soho): Thu 12/9 (1:45pm, 3:30pm, 9:00pm), Fri 12/10 (11:15am, 2:25pm), Sat 12/11 (8:30pm), Sun 12/12 (2:30pm), Mon 12/13 (8:00pm), Tue 12/14 (8:15pm), Wed 12/15 (2:30pm)
+
+    * [Resident Evil Welcome To Raccoon City](https://drafthouse.com/los-angeles/show/resident-evil-welcome-to-raccoon-city): Thu 12/9 (3:00pm)
+
+    * [The French Dispatch](https://drafthouse.com/los-angeles/show/the-french-dispatch): Thu 12/9 (2:15pm, 6:00pm, 9:20pm), Fri 12/10 (12:45pm, 4:45pm, 7:40pm), Sat 12/11 (10:30am, 1:30pm, 6:45pm), Sun 12/12 (10:45am, 1:45pm, 5:35pm), Mon 12/13 (3:15pm, 7:15pm), Tue 12/14 (3:45pm, 7:00pm), Wed 12/15 (1:35pm, 5:30pm)
+
+    * [The Matrix Reissue](https://drafthouse.com/los-angeles/show/the-matrix-reissue): Sun 12/12 (10:00am, 2:00pm), Wed 12/15 (2:45pm)
+
+    * [West Side Story 2021](https://drafthouse.com/los-angeles/show/west-side-story-2021): Thu 12/9 (7:00pm, 11:00pm), Fri 12/10 (11:00am, 3:00pm, 6:45pm), Sat 12/11 (12:45pm, 8:15pm), Sun 12/12 (12:30pm), Mon 12/13 (4:15pm, 5:20pm), Tue 12/14 (3:30pm, 4:15pm), Wed 12/15 (1:30pm)
+
+    * [Wolf](https://drafthouse.com/los-angeles/show/wolf): Thu 12/9 (1:30pm)
+
 ### Mon 12/6 5:05pm
 * New movies: Being The Ricardos
 
