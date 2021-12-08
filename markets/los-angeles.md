@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 12/8 11:15am
+* New movies: The King's Man
+
+* New screenings: 
+    * [Free Victory Screening The Kings Man](https://drafthouse.com/los-angeles/show/free-victory-screening-the-kings-man): Tue 12/14 (7:30pm, 7:30pm)
+
 ### Tue 12/7 11:18pm
 * New movies: Drive My Car, Being The Ricardos
 
