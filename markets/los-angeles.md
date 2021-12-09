@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 12/8 6:05pm
+
+* New screenings: 
+    * [West Side Story 2021](https://drafthouse.com/los-angeles/show/west-side-story-2021): Fri 12/10 (12:00pm)
+
 ### Wed 12/8 11:15am
 * New movies: The King's Man
 
