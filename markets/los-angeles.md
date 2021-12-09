@@ -1,6 +1,15 @@
 # los-angeles
 
 ## Movie updates
+### Thu 12/9 3:19pm
+
+* New screenings: 
+    * [Being The Ricardos](https://drafthouse.com/los-angeles/show/being-the-ricardos): Fri 12/10 (10:00pm)
+
+    * [The French Dispatch](https://drafthouse.com/los-angeles/show/the-french-dispatch): Fri 12/10 (10:30pm)
+
+    * [West Side Story 2021](https://drafthouse.com/los-angeles/show/west-side-story-2021): Fri 12/10 (9:35pm)
+
 ### Thu 12/9 1:19am
 * New movies: Nightmare Alley 2021
 
