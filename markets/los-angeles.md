@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 12/9 1:19am
+* New movies: Nightmare Alley 2021
+
+* New screenings: 
+    * [Advance Screening Nightmare Alley 2021 Early Access Screening](https://drafthouse.com/los-angeles/show/advance-screening-nightmare-alley-2021-early-access-screening): Wed 12/15 (7:00pm)
+
 ### Wed 12/8 6:05pm
 
 * New screenings: 
