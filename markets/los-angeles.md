@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Thu 12/9 5:03pm
+* New movies: The Holiday
+
+* New screenings: 
+    * [Batman Returns](https://drafthouse.com/los-angeles/show/batman-returns): Wed 12/15 (9:00pm)
+
+    * [Being The Ricardos](https://drafthouse.com/los-angeles/show/being-the-ricardos): Wed 12/15 (8:45pm)
+
+    * [The Holiday](https://drafthouse.com/los-angeles/show/the-holiday): Wed 12/15 (9:00pm)
+
+    * [West Side Story 2021](https://drafthouse.com/los-angeles/show/west-side-story-2021): Wed 12/15 (8:30pm)
+
 ### Thu 12/9 3:19pm
 
 * New screenings: 
