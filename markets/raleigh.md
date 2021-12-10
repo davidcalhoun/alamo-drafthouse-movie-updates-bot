@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 12/10 2:18pm
+* New movies: Nightmare Alley 2021
+
+* New screenings: 
+    * [Nightmare Alley 2021](https://drafthouse.com/raleigh/show/nightmare-alley-2021): Wed 12/15 (7:00pm), Fri 12/17 (12:15pm, 3:45pm, 7:15pm, 10:45pm), Sat 12/18 (12:15pm, 3:45pm, 7:15pm, 10:45pm), Sun 12/19 (12:15pm, 3:45pm, 7:15pm, 10:45pm)
+
 ### Fri 12/10 1:27pm
 * New movies: Licorice Pizza
 
