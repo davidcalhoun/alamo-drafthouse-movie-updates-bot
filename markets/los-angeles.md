@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 12/10 3:19pm
+* New movies: Licorice Pizza
+
+* New screenings: 
+    * [Licorice Pizza](https://drafthouse.com/los-angeles/show/licorice-pizza): Fri 12/24 (4:00pm, 7:45pm), Sat 12/25 (10:40am, 2:20pm, 6:00pm, 9:25pm), Sun 12/26 (10:45am, 2:30pm, 6:20pm), Mon 12/27 (11:00am, 2:30pm, 6:00pm), Tue 12/28 (11:00am, 2:30pm, 6:00pm), Wed 12/29 (12:00pm, 3:45pm, 7:30pm)
+
 ### Fri 12/10 1:16pm
 
 * New screenings: 
