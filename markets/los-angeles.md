@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 12/10 11:15am
+* New movies: Red Rocket
+
+* New screenings: 
+    * [Red Rocket](https://drafthouse.com/los-angeles/show/red-rocket): Thu 12/16 (7:00pm, 10:15pm), Fri 12/17 (1:25pm, 4:40pm, 8:00pm, 11:15pm), Sat 12/18 (11:15am, 3:15pm, 7:15pm, 10:30pm), Sun 12/19 (11:15am, 3:00pm, 6:40pm), Mon 12/20 (10:30am, 2:15pm, 6:00pm), Tue 12/21 (10:15am, 2:00pm, 6:00pm), Wed 12/22 (10:15am, 2:00pm, 6:00pm)
+
 ### Thu 12/9 5:03pm
 * New movies: The Holiday
 
