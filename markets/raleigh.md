@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 12/10 1:27pm
+* New movies: Licorice Pizza
+
+* New screenings: 
+    * [Licorice Pizza](https://drafthouse.com/raleigh/show/licorice-pizza): Fri 12/24 (4:30pm, 8:00pm), Sat 12/25 (11:15am, 2:45pm, 6:15pm, 10:00pm), Sun 12/26 (11:15am, 2:45pm, 6:15pm, 9:45pm)
+
 ### Wed 12/8 3:25pm
 * New movies: The King's Man
 
