@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 12/10 1:16pm
+
+* New screenings: 
+    * [Free Victory Screening The Kings Man](https://drafthouse.com/los-angeles/show/free-victory-screening-the-kings-man): Tue 12/14 (7:45pm)
+
 ### Fri 12/10 11:15am
 * New movies: Red Rocket
 
