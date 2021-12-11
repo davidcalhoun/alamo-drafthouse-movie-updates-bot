@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Sat 12/11 1:18am
+* New movies: Nightmare Alley 2021
+
+* New screenings: 
+    * [Nightmare Alley 2021](https://drafthouse.com/los-angeles/show/nightmare-alley-2021): Fri 12/17 (3:00pm, 6:45pm, 10:30pm), Sat 12/18 (12:15pm, 4:00pm, 7:45pm, 11:15pm), Sun 12/19 (12:15pm, 4:15pm, 8:00pm), Mon 12/20 (12:00pm, 4:00pm, 8:15pm), Tue 12/21 (12:15pm, 4:15pm, 8:15pm), Wed 12/22 (10:55am, 2:55pm, 7:10pm)
+
 ### Fri 12/10 5:02pm
 
 * New screenings: 
