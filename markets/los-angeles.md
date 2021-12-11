@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Fri 12/10 5:02pm
+
+* New screenings: 
+    * [Being The Ricardos](https://drafthouse.com/los-angeles/show/being-the-ricardos): Wed 12/15 (5:10pm)
+
+    * [The Matrix Reissue](https://drafthouse.com/los-angeles/show/the-matrix-reissue): Wed 12/15 (5:00pm)
+
 ### Fri 12/10 3:19pm
 * New movies: Licorice Pizza
 
