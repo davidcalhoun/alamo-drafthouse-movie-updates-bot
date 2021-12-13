@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Mon 12/13 12:20pm
+* New movies: Belle Dubbed, Belle Subtitled
+
+* New screenings: 
+    * [Belle Dubbed](https://drafthouse.com/los-angeles/show/belle-dubbed): Thu 1/13 (10:45pm), Fri 1/14 (3:45pm, 10:45pm), Sat 1/15 (1:00pm, 7:30pm), Sun 1/16 (12:45pm, 7:30pm)
+
+    * [Belle Subtitled](https://drafthouse.com/los-angeles/show/belle-subtitled): Thu 1/13 (7:30pm), Fri 1/14 (7:15pm), Sat 1/15 (4:15pm, 10:45pm), Sun 1/16 (4:10pm)
+
 ### Sat 12/11 1:18am
 * New movies: Nightmare Alley 2021
 
