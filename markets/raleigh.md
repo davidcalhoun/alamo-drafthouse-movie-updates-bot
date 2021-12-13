@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 12/13 11:37am
+
+* New screenings: 
+    * [The Jinkx Dela Holiday Special](https://drafthouse.com/raleigh/show/the-jinkx-dela-holiday-special): Wed 12/15 (9:45pm)
+
 ### Fri 12/10 2:18pm
 * New movies: Nightmare Alley 2021
 
