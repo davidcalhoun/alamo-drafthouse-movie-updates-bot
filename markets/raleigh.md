@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Mon 12/13 3:24pm
+* New movies: Belle Dubbed, Belle Subtitled
+
+* New screenings: 
+    * [Belle Dubbed](https://drafthouse.com/raleigh/show/belle-dubbed): Thu 1/13 (7:15pm), Fri 1/14 (12:15pm, 6:45pm), Sat 1/15 (3:35pm, 10:00pm), Sun 1/16 (12:15pm, 6:45pm)
+
+    * [Belle Subtitled](https://drafthouse.com/raleigh/show/belle-subtitled): Thu 1/13 (10:30pm), Fri 1/14 (3:30pm, 10:00pm), Sat 1/15 (12:15pm, 6:45pm), Sun 1/16 (3:30pm)
+
 ### Mon 12/13 11:37am
 
 * New screenings: 
