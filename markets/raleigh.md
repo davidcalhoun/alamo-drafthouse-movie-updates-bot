@@ -1,6 +1,27 @@
 # raleigh
 
 ## Movie updates
+### Tue 12/14 12:26pm
+
+* New screenings: 
+    * [Dont Look Up](https://drafthouse.com/raleigh/show/dont-look-up): Thu 12/16 (12:45pm), Fri 12/17 (2:15pm), Sat 12/18 (2:15pm), Sun 12/19 (2:15pm), Mon 12/20 (4:00pm), Tue 12/21 (2:00pm)
+
+    * [Encanto](https://drafthouse.com/raleigh/show/encanto): Thu 12/16 (12:45pm, 2:30pm, 6:00pm, 9:15pm), Fri 12/17 (11:45am, 3:15pm, 6:15pm, 9:15pm), Sat 12/18 (11:45am, 3:15pm, 6:15pm, 9:15pm), Sun 12/19 (11:45am, 3:15pm, 6:15pm, 9:15pm), Mon 12/20 (11:30am, 3:00pm, 6:00pm, 9:00pm), Tue 12/21 (11:45am, 3:00pm, 6:00pm, 9:00pm)
+
+    * [Eternals](https://drafthouse.com/raleigh/show/eternals): Thu 12/16 (1:45pm), Fri 12/17 (1:30pm, 10:30pm), Sat 12/18 (1:30pm, 10:30pm), Sun 12/19 (1:30pm, 10:30pm), Mon 12/20 (1:30pm, 10:30pm), Tue 12/21 (12:00pm, 9:15pm)
+
+    * [Ghostbusters Afterlife](https://drafthouse.com/raleigh/show/ghostbusters-afterlife): Thu 12/16 (2:00pm)
+
+    * [House Of Gucci](https://drafthouse.com/raleigh/show/house-of-gucci): Thu 12/16 (3:15pm, 7:00pm, 10:45pm), Fri 12/17 (11:45am, 3:30pm, 7:30pm, 9:45pm), Sat 12/18 (11:45am, 3:30pm, 7:30pm, 9:45pm), Sun 12/19 (11:45am, 3:30pm, 7:30pm, 9:45pm), Mon 12/20 (11:30am, 3:15pm, 7:00pm, 10:45pm), Tue 12/21 (11:45am, 3:30pm, 6:45pm, 10:15pm)
+
+    * [National Champions](https://drafthouse.com/raleigh/show/national-champions): Thu 12/16 (2:45pm), Fri 12/17 (11:15am), Sat 12/18 (11:15am), Sun 12/19 (11:15am), Mon 12/20 (12:45pm), Tue 12/21 (11:30am)
+
+    * [Nightmare Alley 2021](https://drafthouse.com/raleigh/show/nightmare-alley-2021): Mon 12/20 (12:00pm, 3:30pm, 7:15pm, 10:45pm), Tue 12/21 (12:15pm, 3:45pm, 7:30pm, 10:50pm)
+
+    * [Spider Man No Way Home](https://drafthouse.com/raleigh/show/spider-man-no-way-home): Thu 12/16 (4:15pm, 5:30pm, 5:45pm, 8:00pm, 9:30pm, 9:45pm, 10:00pm), Fri 12/17 (10:45am, 2:30pm, 5:15pm, 5:45pm, 10:45pm, 11:15pm), Sat 12/18 (10:45am, 2:30pm, 5:15pm, 5:45pm, 6:30pm, 10:45pm, 11:15pm), Sun 12/19 (10:45am, 2:30pm, 5:15pm, 5:45pm, 6:30pm, 10:30pm), Mon 12/20 (1:00pm, 5:00pm, 5:30pm, 7:30pm, 8:45pm), Tue 12/21 (10:15am, 11:15am, 1:15pm, 2:00pm, 2:45pm, 3:15pm, 5:00pm, 5:30pm, 5:45pm, 7:00pm, 7:45pm, 9:30pm, 10:45pm)
+
+    * [West Side Story 2021](https://drafthouse.com/raleigh/show/west-side-story-2021): Thu 12/16 (1:15pm, 2:15pm, 6:30pm, 10:15pm), Fri 12/17 (10:30am, 2:45pm, 6:45pm, 9:30pm), Sat 12/18 (10:30am, 2:45pm, 6:45pm, 9:30pm), Sun 12/19 (10:30am, 2:45pm, 6:45pm, 9:30pm), Mon 12/20 (10:45am, 2:30pm, 6:30pm, 9:15pm), Tue 12/21 (10:30am, 2:30pm, 6:30pm, 9:50pm)
+
 ### Mon 12/13 3:24pm
 * New movies: Belle Dubbed, Belle Subtitled
 
