@@ -1,6 +1,19 @@
 # los-angeles
 
 ## Movie updates
+### Tue 12/14 3:19pm
+
+* New screenings: 
+    * [Dont Look Up](https://drafthouse.com/los-angeles/show/dont-look-up): Fri 12/17 (1:45pm)
+
+    * [House Of Gucci](https://drafthouse.com/los-angeles/show/house-of-gucci): Fri 12/17 (1:15pm, 5:15pm, 9:00pm)
+
+    * [Nightmare Alley 2021](https://drafthouse.com/los-angeles/show/nightmare-alley-2021): Fri 12/17 (10:20pm)
+
+    * [Spider Man No Way Home](https://drafthouse.com/los-angeles/show/spider-man-no-way-home): Fri 12/17 (12:45pm, 1:00pm, 1:30pm, 4:25pm, 4:45pm, 5:05pm, 5:30pm, 8:15pm, 8:35pm, 8:55pm, 9:15pm)
+
+    * [West Side Story 2021](https://drafthouse.com/los-angeles/show/west-side-story-2021): Fri 12/17 (2:45pm, 6:30pm, 10:30pm)
+
 ### Tue 12/14 1:14pm
 
 * New screenings: 
