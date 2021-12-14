@@ -1,6 +1,17 @@
 # los-angeles
 
 ## Movie updates
+### Tue 12/14 1:14pm
+
+* New screenings: 
+    * [Dont Look Up](https://drafthouse.com/los-angeles/show/dont-look-up): Thu 12/16 (3:50pm)
+
+    * [House Of Gucci](https://drafthouse.com/los-angeles/show/house-of-gucci): Thu 12/16 (2:30pm, 6:30pm, 10:15pm)
+
+    * [Spider Man No Way Home](https://drafthouse.com/los-angeles/show/spider-man-no-way-home): Thu 12/16 (1:30pm, 2:15pm, 4:50pm, 5:15pm, 5:45pm, 6:15pm, 7:35pm, 8:35pm, 9:00pm, 9:35pm, 9:55pm, 11:10pm), Fri 12/17 (12:15am)
+
+    * [West Side Story 2021](https://drafthouse.com/los-angeles/show/west-side-story-2021): Thu 12/16 (2:30pm, 6:15pm, 10:00pm)
+
 ### Mon 12/13 12:20pm
 * New movies: Belle Dubbed, Belle Subtitled
 
