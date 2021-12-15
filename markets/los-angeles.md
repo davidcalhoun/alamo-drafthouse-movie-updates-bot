@@ -1,6 +1,19 @@
 # los-angeles
 
 ## Movie updates
+### Tue 12/14 5:02pm
+
+* New screenings: 
+    * [Dont Look Up](https://drafthouse.com/los-angeles/show/dont-look-up): Sat 12/18 (12:00pm), Sun 12/19 (10:00am), Mon 12/20 (11:00am), Tue 12/21 (10:45am)
+
+    * [House Of Gucci](https://drafthouse.com/los-angeles/show/house-of-gucci): Sat 12/18 (11:00am, 2:45pm, 6:30pm, 10:20pm), Sun 12/19 (11:15am, 3:00pm, 6:45pm), Mon 12/20 (12:15pm, 4:15pm, 8:00pm), Tue 12/21 (12:30pm, 4:15pm, 8:00pm)
+
+    * [Its A Wonderful Life](https://drafthouse.com/los-angeles/show/its-a-wonderful-life): Sun 12/19 (5:30pm)
+
+    * [Spider Man No Way Home](https://drafthouse.com/los-angeles/show/spider-man-no-way-home): Sat 12/18 (10:00am, 1:00pm, 1:20pm, 1:45pm, 4:15pm, 5:15pm, 5:30pm, 8:00pm, 8:50pm, 9:05pm, 9:15pm), Sun 12/19 (12:40pm, 1:00pm, 1:30pm, 1:45pm, 4:20pm, 4:40pm, 5:05pm, 5:20pm, 8:15pm, 8:30pm, 9:00pm), Mon 12/20 (10:00am, 11:15am, 1:00pm, 1:35pm, 2:30pm, 3:00pm, 4:45pm, 5:10pm, 6:45pm, 8:30pm), Tue 12/21 (10:00am, 11:00am, 11:15am, 11:45am, 12:00pm, 12:45pm, 1:35pm, 2:30pm, 2:35pm, 3:00pm, 3:30pm, 4:45pm, 5:10pm, 6:45pm, 7:15pm, 8:30pm)
+
+    * [West Side Story 2021](https://drafthouse.com/los-angeles/show/west-side-story-2021): Sat 12/18 (12:00pm, 3:45pm, 7:30pm, 11:15pm), Sun 12/19 (12:00pm, 3:50pm, 7:35pm), Mon 12/20 (10:30am, 2:15pm, 6:15pm), Tue 12/21 (10:00am, 2:00pm, 6:00pm)
+
 ### Tue 12/14 3:19pm
 
 * New screenings: 
