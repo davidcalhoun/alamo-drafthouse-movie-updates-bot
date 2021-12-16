@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 12/16 3:19pm
+
+* New screenings: 
+    * [West Side Story 2021](https://drafthouse.com/los-angeles/show/west-side-story-2021): Thu 12/16 (2:35pm)
+
 ### Thu 12/16 12:19pm
 
 * New screenings: 
