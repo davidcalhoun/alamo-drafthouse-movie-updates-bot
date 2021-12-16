@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Thu 12/16 11:15am
+
+* New screenings: 
+    * [Nightmare Alley 2021](https://drafthouse.com/los-angeles/show/nightmare-alley-2021): Thu 12/23 (2:00pm, 6:00pm, 9:30pm)
+
+    * [West Side Story 2021](https://drafthouse.com/los-angeles/show/west-side-story-2021): Wed 12/22 (11:00am, 2:45pm, 6:30pm), Thu 12/23 (2:30pm, 6:15pm, 10:10pm)
+
 ### Wed 12/15 12:20pm
 
 * New screenings: 
