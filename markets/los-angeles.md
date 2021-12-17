@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 12/17 8:29am
+* New movies: The Tragedy of Macbeth
+
+* New screenings: 
+    * [The Tragedy Of Macbeth](https://drafthouse.com/los-angeles/show/the-tragedy-of-macbeth): Sat 12/25 (10:30am, 1:35pm, 4:40pm, 7:45pm, 10:40pm), Sun 12/26 (10:15am, 1:10pm, 4:00pm, 6:50pm), Mon 12/27 (10:45am, 1:35pm, 4:25pm, 7:15pm), Tue 12/28 (10:45am, 1:35pm, 4:25pm, 7:15pm)
+
 ### Thu 12/16 3:19pm
 
 * New screenings: 
