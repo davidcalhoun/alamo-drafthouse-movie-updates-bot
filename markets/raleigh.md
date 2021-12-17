@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 12/17 12:28pm
+
+* New screenings: 
+    * [Spider Man No Way Home](https://drafthouse.com/raleigh/show/spider-man-no-way-home): Fri 12/17 (9:45pm, 10:30pm), Sat 12/18 (9:45pm, 10:30pm), Sun 12/19 (9:45pm, 10:30pm)
+
 ### Tue 12/14 12:26pm
 
 * New screenings: 
