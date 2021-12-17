@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Fri 12/17 10:22am
+* New movies: Scream 2022, Scream 2022
+
+* New screenings: 
+    * [Brunch Screenings Scream 2022](https://drafthouse.com/los-angeles/show/brunch-screenings-scream-2022): Sun 1/16 (11:30am)
+
+    * [Scream 2022](https://drafthouse.com/los-angeles/show/scream-2022): Thu 1/13 (7:00pm, 10:10pm), Fri 1/14 (3:40pm, 7:00pm, 10:10pm), Sat 1/15 (12:30pm, 3:45pm, 7:00pm, 10:10pm), Sun 1/16 (12:30pm, 3:45pm, 7:00pm)
+
+    * [Spider Man No Way Home](https://drafthouse.com/los-angeles/show/spider-man-no-way-home): Sat 12/18 (5:00pm)
+
 ### Fri 12/17 8:29am
 * New movies: The Tragedy of Macbeth
 
