@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Fri 12/17 1:27pm
+* New movies: Scream 2022, Scream 2022, Scream 2022
+
+* New screenings: 
+    * [Brunch Screenings Scream 2022](https://drafthouse.com/raleigh/show/brunch-screenings-scream-2022): Sun 1/16 (11:00am)
+
+    * [Livestream Q A Scream 2022 Fan Event With Q A Livestream](https://drafthouse.com/raleigh/show/livestream-q-a-scream-2022-fan-event-with-q-a-livestream): Thu 1/13 (8:00pm)
+
+    * [Scream 2022](https://drafthouse.com/raleigh/show/scream-2022): Thu 1/13 (7:00pm, 10:00pm), Fri 1/14 (12:45pm, 4:00pm, 7:00pm, 10:15pm), Sat 1/15 (12:45pm, 4:00pm, 7:00pm, 10:15pm), Sun 1/16 (12:45pm, 4:00pm, 7:00pm)
+
 ### Fri 12/17 12:28pm
 
 * New screenings: 
