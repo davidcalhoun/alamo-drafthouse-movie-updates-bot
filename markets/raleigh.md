@@ -1,6 +1,27 @@
 # raleigh
 
 ## Movie updates
+### Mon 12/20 3:25pm
+
+* New screenings: 
+    * [Dont Look Up](https://drafthouse.com/raleigh/show/dont-look-up): Wed 12/22 (4:15pm), Thu 12/23 (2:45pm)
+
+    * [Encanto](https://drafthouse.com/raleigh/show/encanto): Wed 12/22 (12:15pm, 6:30pm), Thu 12/23 (1:00pm, 6:45pm)
+
+    * [Eternals](https://drafthouse.com/raleigh/show/eternals): Wed 12/22 (11:30am, 10:15pm), Thu 12/23 (11:45am, 10:15pm)
+
+    * [National Champions](https://drafthouse.com/raleigh/show/national-champions): Wed 12/22 (11:15am), Thu 12/23 (11:30am)
+
+    * [Nightmare Alley 2021](https://drafthouse.com/raleigh/show/nightmare-alley-2021): Wed 12/22 (11:00am, 2:35pm, 6:15pm, 9:30pm), Thu 12/23 (12:15pm, 3:50pm, 6:15pm, 10:00pm)
+
+    * [Sing 2](https://drafthouse.com/raleigh/show/sing-2): Wed 12/22 (3:15pm), Thu 12/23 (3:30pm)
+
+    * [Spider Man No Way Home](https://drafthouse.com/raleigh/show/spider-man-no-way-home): Wed 12/22 (12:15pm, 1:15pm, 1:30pm, 2:15pm, 5:00pm, 5:15pm, 7:45pm, 9:45pm), Thu 12/23 (1:15pm, 1:30pm, 2:30pm, 5:00pm, 5:15pm, 6:30pm, 7:45pm, 8:30pm)
+
+    * [The Matrix Resurrections](https://drafthouse.com/raleigh/show/the-matrix-resurrections): Wed 12/22 (8:45pm), Thu 12/23 (8:45pm, 11:05pm)
+
+    * [West Side Story 2021](https://drafthouse.com/raleigh/show/west-side-story-2021): Wed 12/22 (3:30pm, 10:30pm), Thu 12/23 (4:45pm, 9:45pm)
+
 ### Fri 12/17 1:27pm
 * New movies: Scream 2022, Scream 2022, Scream 2022
 
