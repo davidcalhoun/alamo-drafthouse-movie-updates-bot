@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Tue 12/21 1:16pm
+
+* New screenings: 
+    * [Spider Man No Way Home](https://drafthouse.com/los-angeles/show/spider-man-no-way-home): Wed 12/22 (10:15am, 11:45am, 1:00pm, 3:35pm, 4:35pm, 7:30pm, 8:15pm)
+
+    * [The Matrix Resurrections](https://drafthouse.com/los-angeles/show/the-matrix-resurrections): Wed 12/22 (10:00am, 12:15pm, 1:20pm, 1:45pm, 3:50pm, 4:55pm, 7:45pm, 8:30pm)
+
 ### Fri 12/17 10:22am
 * New movies: Scream 2022, Scream 2022
 
