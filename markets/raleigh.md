@@ -1,6 +1,15 @@
 # raleigh
 
 ## Movie updates
+### Tue 12/21 11:38am
+
+* New screenings: 
+    * [Sing 2](https://drafthouse.com/raleigh/show/sing-2): Wed 12/22 (11:00am), Thu 12/23 (11:15am)
+
+    * [Spider Man No Way Home](https://drafthouse.com/raleigh/show/spider-man-no-way-home): Wed 12/22 (11:30am, 10:15pm)
+
+    * [The Matrix Resurrections](https://drafthouse.com/raleigh/show/the-matrix-resurrections): Thu 12/23 (2:45pm)
+
 ### Mon 12/20 3:25pm
 
 * New screenings: 
