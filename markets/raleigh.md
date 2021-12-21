@@ -1,6 +1,32 @@
 # raleigh
 
 ## Movie updates
+### Tue 12/21 12:30pm
+* New movies: Red Rocket, A Journal for Jordan, American Underdog
+
+* New screenings: 
+    * [A Journal For Jordan](https://drafthouse.com/raleigh/show/a-journal-for-jordan): Fri 12/24 (3:30pm, 6:45pm), Sat 12/25 (12:00pm, 3:30pm, 6:45pm, 10:15pm), Sun 12/26 (12:00pm, 3:15pm, 6:30pm, 10:00pm), Mon 12/27 (11:45am, 3:00pm, 6:15pm, 10:00pm), Tue 12/28 (11:45am, 3:00pm, 6:15pm, 10:00pm), Wed 12/29 (11:45am, 3:00pm, 6:15pm, 10:00pm)
+
+    * [American Underdog The Kurt Warner Story](https://drafthouse.com/raleigh/show/american-underdog-the-kurt-warner-story): Fri 12/24 (5:00pm, 8:00pm), Sat 12/25 (12:30pm, 4:00pm, 7:00pm, 10:00pm), Sun 12/26 (12:45pm, 4:15pm, 7:15pm, 10:15pm), Mon 12/27 (12:30pm, 3:30pm, 6:30pm, 9:45pm), Tue 12/28 (12:30pm, 3:30pm, 6:30pm, 9:45pm), Wed 12/29 (12:30pm, 3:30pm, 6:30pm, 9:45pm)
+
+    * [Encanto](https://drafthouse.com/raleigh/show/encanto): Fri 12/24 (11:15am, 5:45pm), Sat 12/25 (11:00am, 5:45pm), Sun 12/26 (10:45am, 5:30pm), Mon 12/27 (11:00am, 5:45pm), Tue 12/28 (11:00am, 5:45pm), Wed 12/29 (11:00am, 5:45pm)
+
+    * [Licorice Pizza](https://drafthouse.com/raleigh/show/licorice-pizza): Mon 12/27 (11:15am, 2:45pm, 6:45pm, 10:00pm), Tue 12/28 (11:15am, 2:45pm, 6:45pm, 10:00pm), Wed 12/29 (11:15am, 2:45pm, 6:45pm, 10:00pm)
+
+    * [Nightmare Alley 2021](https://drafthouse.com/raleigh/show/nightmare-alley-2021): Fri 12/24 (11:30am, 3:15pm, 7:00pm), Sat 12/25 (11:30am, 3:30pm, 7:15pm, 9:15pm), Sun 12/26 (11:45am, 3:25pm, 7:00pm, 10:45pm), Mon 12/27 (11:30am, 3:30pm, 7:15pm, 9:30pm), Tue 12/28 (11:30am, 3:30pm, 7:15pm, 9:30pm), Wed 12/29 (11:30am, 3:30pm, 7:15pm, 9:30pm)
+
+    * [Red Rocket](https://drafthouse.com/raleigh/show/red-rocket): Fri 12/24 (4:45pm, 8:15pm), Sat 12/25 (1:00pm, 4:20pm, 7:45pm, 11:00pm), Sun 12/26 (1:00pm, 4:30pm, 7:45pm, 11:00pm), Mon 12/27 (1:15pm, 4:30pm, 7:45pm, 11:00pm), Tue 12/28 (1:15pm, 4:30pm, 7:45pm, 11:00pm), Wed 12/29 (1:15pm, 4:30pm, 7:45pm, 11:00pm)
+
+    * [Sing 2](https://drafthouse.com/raleigh/show/sing-2): Fri 12/24 (12:15pm), Sun 12/26 (9:30pm), Mon 12/27 (11:15am, 2:30pm, 6:00pm, 9:00pm), Tue 12/28 (11:15am, 2:30pm, 6:00pm, 9:00pm), Wed 12/29 (11:15am, 2:30pm, 6:00pm, 9:00pm)
+
+    * [Spider Man No Way Home](https://drafthouse.com/raleigh/show/spider-man-no-way-home): Fri 12/24 (12:00pm, 1:00pm), Sat 12/25 (1:45pm), Sun 12/26 (2:15pm), Mon 12/27 (1:45pm), Tue 12/28 (1:45pm), Wed 12/29 (1:45pm)
+
+    * [The Kings Man](https://drafthouse.com/raleigh/show/the-kings-man): Sun 12/26 (10:15pm), Mon 12/27 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Tue 12/28 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Wed 12/29 (12:45pm, 4:00pm, 7:15pm, 10:30pm)
+
+    * [The Matrix Resurrections](https://drafthouse.com/raleigh/show/the-matrix-resurrections): Fri 12/24 (1:15pm, 2:00pm), Mon 12/27 (12:15pm, 3:45pm, 7:30pm, 9:15pm, 10:45pm), Tue 12/28 (12:15pm, 3:45pm, 7:30pm, 9:15pm, 10:45pm), Wed 12/29 (12:15pm, 3:45pm, 7:30pm, 9:15pm, 10:45pm)
+
+    * [West Side Story 2021](https://drafthouse.com/raleigh/show/west-side-story-2021): Fri 12/24 (2:15pm, 6:15pm), Sat 12/25 (2:00pm, 5:30pm), Sun 12/26 (1:45pm, 8:30pm), Mon 12/27 (2:00pm, 5:30pm), Tue 12/28 (2:00pm, 5:30pm), Wed 12/29 (2:00pm, 5:30pm)
+
 ### Tue 12/21 11:38am
 
 * New screenings: 
