@@ -1,6 +1,42 @@
 # raleigh
 
 ## Movie updates
+### Wed 12/22 3:25pm
+* New movies: The Lord of the Rings:  The Fellowship of the Ring:  Extended Edition With Q&A, Breezy, Inherent Vice, Grease, The Goonies, The Lord of the Rings: The Two Towers: Extended Edition With Q&A, Fast Times at Ridgemont High, American Graffiti, Pretty in Pink, Pride & Prejudice 2005, The Twilight Saga: Twilight, Car Wash, Rocky IV: Rocky vs. Drago - Ultimate Director's Cut, Shampoo, Sweet Sweetback's Baadasssss Song, The Lodger: A Story of the London Fog w/ New Score
+
+* New screenings: 
+    * [American Graffiti](https://drafthouse.com/raleigh/show/american-graffiti): Tue 1/11 (7:15pm)
+
+    * [Breezy](https://drafthouse.com/raleigh/show/breezy): Sun 1/23 (12:15pm), Tue 1/25 (10:00pm)
+
+    * [Brunch Screenings Pretty In Pink Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-pretty-in-pink-brunch): Sat 2/5 (11:00am)
+
+    * [Brunch Screenings Pride Prejudice 2005 Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-pride-prejudice-2005-brunch): Sat 1/22 (11:00am)
+
+    * [Brunch Screenings The Twilight Saga Twilight Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-the-twilight-saga-twilight-brunch): Sat 1/29 (11:00am)
+
+    * [Car Wash](https://drafthouse.com/raleigh/show/car-wash): Tue 1/11 (10:15pm)
+
+    * [Inherent Vice](https://drafthouse.com/raleigh/show/inherent-vice): Sun 1/30 (7:15pm), Wed 2/2 (6:45pm)
+
+    * [Movie Party The Goonies](https://drafthouse.com/raleigh/show/movie-party-the-goonies): Sun 1/23 (6:45pm), Tue 1/25 (7:15pm)
+
+    * [Rocky Iv Rocky Vs Drago Directors Cut](https://drafthouse.com/raleigh/show/rocky-iv-rocky-vs-drago-directors-cut): Mon 1/10 (7:15pm)
+
+    * [Shampoo](https://drafthouse.com/raleigh/show/shampoo): Sat 1/15 (12:30pm)
+
+    * [Signature Programming Grease](https://drafthouse.com/raleigh/show/signature-programming-grease): Sun 2/6 (6:45pm), Tue 2/8 (6:45pm)
+
+    * [Special Event The Lord Of The Rings The Fellowship Of The Ring Extended Edition With Q A](https://drafthouse.com/raleigh/show/special-event-the-lord-of-the-rings-the-fellowship-of-the-ring-extended-edition-with-q-a): Sun 1/9 (12:00pm), Wed 1/12 (6:30pm), Wed 1/19 (6:30pm)
+
+    * [Special Event The Lord Of The Rings The Two Towers Extended Edition](https://drafthouse.com/raleigh/show/special-event-the-lord-of-the-rings-the-two-towers-extended-edition): Sun 1/16 (6:15pm)
+
+    * [Sweet Sweetbacks Baadasssss Song](https://drafthouse.com/raleigh/show/sweet-sweetbacks-baadasssss-song): Mon 2/7 (7:00pm)
+
+    * [The Licorice Pizza Mixtape Fast Times At Ridgemont High Brunch](https://drafthouse.com/raleigh/show/the-licorice-pizza-mixtape-fast-times-at-ridgemont-high-brunch): Sat 1/8 (11:00am)
+
+    * [The Lodger A Story Of The London Fog](https://drafthouse.com/raleigh/show/the-lodger-a-story-of-the-london-fog): Mon 1/17 (6:45pm)
+
 ### Wed 12/22 11:38am
 
 * New screenings: 
