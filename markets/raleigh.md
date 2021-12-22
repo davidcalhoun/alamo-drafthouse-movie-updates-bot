@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 12/22 4:20pm
+* New movies: The Lord of the Rings:  The Return of the King:  Extended Edition With Q&A
+
+* New screenings: 
+    * [Special Event The Lord Of The Rings The Return Of The King Extended Edition](https://drafthouse.com/raleigh/show/special-event-the-lord-of-the-rings-the-return-of-the-king-extended-edition): Mon 1/24 (6:30pm)
+
 ### Wed 12/22 3:25pm
 * New movies: The Lord of the Rings:  The Fellowship of the Ring:  Extended Edition With Q&A, Breezy, Inherent Vice, Grease, The Goonies, The Lord of the Rings: The Two Towers: Extended Edition With Q&A, Fast Times at Ridgemont High, American Graffiti, Pretty in Pink, Pride & Prejudice 2005, The Twilight Saga: Twilight, Car Wash, Rocky IV: Rocky vs. Drago - Ultimate Director's Cut, Shampoo, Sweet Sweetback's Baadasssss Song, The Lodger: A Story of the London Fog w/ New Score
 
