@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Tue 12/21 6:38pm
+
+* New screenings: 
+    * [Spider Man No Way Home](https://drafthouse.com/los-angeles/show/spider-man-no-way-home): Thu 12/23 (1:10pm, 4:15pm, 4:50pm, 7:50pm, 8:30pm)
+
+    * [The Matrix Resurrections](https://drafthouse.com/los-angeles/show/the-matrix-resurrections): Thu 12/23 (1:00pm, 2:30pm, 2:50pm, 4:35pm, 5:00pm, 6:15pm, 8:15pm, 8:45pm, 9:30pm, 9:50pm)
+
 ### Tue 12/21 1:16pm
 
 * New screenings: 
