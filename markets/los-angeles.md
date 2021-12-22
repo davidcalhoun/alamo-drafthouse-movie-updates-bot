@@ -1,6 +1,52 @@
 # los-angeles
 
 ## Movie updates
+### Wed 12/22 12:20pm
+* New movies: Boogie Nights, The Lord of the Rings: The Two Towers: Extended Edition With Q&A, American Graffiti, Car Wash, Inherent Vice, The Lord of the Rings:  The Fellowship of the Ring:  Extended Edition With Q&A, The Lord of the Rings:  The Return of the King:  Extended Edition With Q&A, Fast Times at Ridgemont High, Breezy, Pretty in Pink, Pride & Prejudice 2005, The Twilight Saga: Twilight, Punch-Drunk Love, Rocky IV: Rocky vs. Drago - Ultimate Director's Cut, Shampoo, Grease, Soylent Green, Sweet Sweetback's Baadasssss Song, The Lodger: A Story of the London Fog w/ New Score, Fast Times at Ridgemont High, The Goonies
+
+* New screenings: 
+    * [American Graffiti](https://drafthouse.com/los-angeles/show/american-graffiti): Fri 1/7 (6:00pm), Sat 1/8 (8:00pm), Tue 1/11 (4:45pm)
+
+    * [Boogie Nights](https://drafthouse.com/los-angeles/show/boogie-nights): Tue 1/18 (6:30pm), Fri 1/21 (6:00pm), Mon 1/24 (6:30pm)
+
+    * [Breezy](https://drafthouse.com/los-angeles/show/breezy): Sat 1/22 (6:00pm), Sun 1/23 (2:35pm)
+
+    * [Brunch Screenings Pretty In Pink Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-pretty-in-pink-brunch): Sat 2/5 (11:30am), Sun 2/6 (11:30am)
+
+    * [Brunch Screenings Pride Prejudice 2005 Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-pride-prejudice-2005-brunch): Sat 1/22 (11:30am), Sun 1/23 (11:20am)
+
+    * [Brunch Screenings The Twilight Saga Twilight Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-the-twilight-saga-twilight-brunch): Sat 1/29 (11:30am), Sun 1/30 (11:30am)
+
+    * [Car Wash](https://drafthouse.com/los-angeles/show/car-wash): Fri 1/7 (9:00pm), Sun 1/9 (2:30pm), Wed 1/12 (3:15pm)
+
+    * [Fast Times At Ridgemont High](https://drafthouse.com/los-angeles/show/fast-times-at-ridgemont-high): Sat 1/8 (5:10pm)
+
+    * [Inherent Vice](https://drafthouse.com/los-angeles/show/inherent-vice): Fri 1/28 (6:30pm), Sat 1/29 (6:30pm), Sun 1/30 (6:30pm)
+
+    * [Movie Party The Goonies](https://drafthouse.com/los-angeles/show/movie-party-the-goonies): Sun 1/23 (7:00pm)
+
+    * [Punch Drunk Love 1](https://drafthouse.com/los-angeles/show/punch-drunk-love-1): Fri 2/4 (6:30pm), Sat 2/5 (9:20pm)
+
+    * [Rocky Iv Rocky Vs Drago Directors Cut](https://drafthouse.com/los-angeles/show/rocky-iv-rocky-vs-drago-directors-cut): Mon 1/10 (7:45pm), Tue 1/11 (7:45pm)
+
+    * [Shampoo](https://drafthouse.com/los-angeles/show/shampoo): Fri 1/14 (6:15pm), Sat 1/15 (9:00pm)
+
+    * [Signature Programming Grease](https://drafthouse.com/los-angeles/show/signature-programming-grease): Sun 2/6 (7:00pm), Tue 2/8 (6:30pm)
+
+    * [Soylent Green](https://drafthouse.com/los-angeles/show/soylent-green): Sat 1/8 (2:15pm), Mon 1/10 (5:00pm)
+
+    * [Special Event The Lord Of The Rings The Fellowship Of The Ring Extended Edition With Q A](https://drafthouse.com/los-angeles/show/special-event-the-lord-of-the-rings-the-fellowship-of-the-ring-extended-edition-with-q-a): Sun 1/9 (1:30pm), Wed 1/12 (6:00pm)
+
+    * [Special Event The Lord Of The Rings The Return Of The King Extended Edition](https://drafthouse.com/los-angeles/show/special-event-the-lord-of-the-rings-the-return-of-the-king-extended-edition): Sat 1/22 (12:00pm), Sun 1/23 (5:30pm)
+
+    * [Special Event The Lord Of The Rings The Two Towers Extended Edition](https://drafthouse.com/los-angeles/show/special-event-the-lord-of-the-rings-the-two-towers-extended-edition): Sat 1/15 (12:00pm), Sun 1/16 (5:30pm), Wed 1/19 (6:00pm)
+
+    * [Sweet Sweetbacks Baadasssss Song](https://drafthouse.com/los-angeles/show/sweet-sweetbacks-baadasssss-song): Fri 2/4 (9:20pm), Sat 2/5 (6:30pm)
+
+    * [The Licorice Pizza Mixtape Fast Times At Ridgemont High Brunch](https://drafthouse.com/los-angeles/show/the-licorice-pizza-mixtape-fast-times-at-ridgemont-high-brunch): Sat 1/8 (11:30am), Sun 1/9 (11:30am)
+
+    * [The Lodger A Story Of The London Fog](https://drafthouse.com/los-angeles/show/the-lodger-a-story-of-the-london-fog): Sat 1/15 (6:00pm), Mon 1/17 (6:30pm)
+
 ### Tue 12/21 6:38pm
 
 * New screenings: 
