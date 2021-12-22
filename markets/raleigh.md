@@ -1,6 +1,23 @@
 # raleigh
 
 ## Movie updates
+### Wed 12/22 11:38am
+
+* New screenings: 
+    * [A Journal For Jordan](https://drafthouse.com/raleigh/show/a-journal-for-jordan): Thu 12/30 (11:45am, 3:00pm, 6:15pm, 10:00pm), Fri 12/31 (11:45am, 3:00pm, 6:15pm), Sat 1/1 (3:00pm, 6:15pm, 10:00pm), Sun 1/2 (11:45am, 3:00pm, 6:15pm)
+
+    * [American Underdog The Kurt Warner Story](https://drafthouse.com/raleigh/show/american-underdog-the-kurt-warner-story): Thu 12/30 (12:30pm, 3:30pm, 6:30pm, 9:45pm), Fri 12/31 (12:30pm, 3:30pm, 6:30pm), Sat 1/1 (3:30pm, 6:30pm), Sun 1/2 (12:30pm, 3:30pm, 6:30pm)
+
+    * [Licorice Pizza](https://drafthouse.com/raleigh/show/licorice-pizza): Thu 12/30 (11:15am, 2:45pm, 6:45pm, 10:00pm), Fri 12/31 (11:15am, 2:45pm, 6:45pm), Sat 1/1 (2:45pm, 6:45pm, 10:00pm), Sun 1/2 (11:15am, 2:45pm, 6:15pm)
+
+    * [Nightmare Alley 2021](https://drafthouse.com/raleigh/show/nightmare-alley-2021): Sat 1/1 (9:30pm)
+
+    * [Sing 2](https://drafthouse.com/raleigh/show/sing-2): Thu 12/30 (11:15am, 2:30pm, 6:00pm, 9:00pm), Fri 12/31 (11:15am, 2:30pm, 6:00pm), Sat 1/1 (2:30pm, 6:00pm, 9:00pm), Sun 1/2 (12:00pm, 3:15pm, 6:45pm)
+
+    * [The Kings Man](https://drafthouse.com/raleigh/show/the-kings-man): Thu 12/30 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Fri 12/31 (12:45pm, 4:00pm, 7:15pm), Sat 1/1 (4:00pm, 7:15pm, 10:30pm), Sun 1/2 (12:45pm, 4:00pm, 7:15pm)
+
+    * [The Matrix Resurrections](https://drafthouse.com/raleigh/show/the-matrix-resurrections): Thu 12/30 (12:15pm, 3:45pm, 7:30pm, 9:15pm), Fri 12/31 (12:15pm, 3:45pm, 7:30pm), Sat 1/1 (3:45pm, 7:30pm, 9:15pm), Sun 1/2 (12:15pm, 3:45pm, 7:30pm)
+
 ### Tue 12/21 12:30pm
 * New movies: Red Rocket, A Journal for Jordan, American Underdog
 
