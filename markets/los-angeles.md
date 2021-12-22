@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Wed 12/22 1:16pm
+
+* New screenings: 
+    * [Nightmare Alley 2021](https://drafthouse.com/los-angeles/show/nightmare-alley-2021): Sat 12/25 (11:00pm)
+
+    * [Spider Man No Way Home](https://drafthouse.com/los-angeles/show/spider-man-no-way-home): Sat 12/25 (10:00am)
+
 ### Wed 12/22 12:20pm
 * New movies: Boogie Nights, The Lord of the Rings: The Two Towers: Extended Edition With Q&A, American Graffiti, Car Wash, Inherent Vice, The Lord of the Rings:  The Fellowship of the Ring:  Extended Edition With Q&A, The Lord of the Rings:  The Return of the King:  Extended Edition With Q&A, Fast Times at Ridgemont High, Breezy, Pretty in Pink, Pride & Prejudice 2005, The Twilight Saga: Twilight, Punch-Drunk Love, Rocky IV: Rocky vs. Drago - Ultimate Director's Cut, Shampoo, Grease, Soylent Green, Sweet Sweetback's Baadasssss Song, The Lodger: A Story of the London Fog w/ New Score, Fast Times at Ridgemont High, The Goonies
 
