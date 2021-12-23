@@ -1,6 +1,24 @@
 # los-angeles
 
 ## Movie updates
+### Wed 12/22 5:04pm
+* New movies: A Journal for Jordan
+
+* New screenings: 
+    * [A Journal For Jordan](https://drafthouse.com/los-angeles/show/a-journal-for-jordan): Fri 12/24 (3:30pm, 7:30pm), Sat 12/25 (11:15am, 3:00pm, 6:55pm, 8:35pm), Sun 12/26 (11:15am, 3:00pm, 6:35pm), Mon 12/27 (12:35pm, 4:30pm, 8:20pm), Tue 12/28 (10:15am, 2:15pm, 6:15pm), Wed 12/29 (10:15am, 2:15pm, 6:15pm)
+
+    * [Nightmare Alley 2021](https://drafthouse.com/los-angeles/show/nightmare-alley-2021): Fri 12/24 (2:00pm, 5:45pm), Mon 12/27 (12:15pm, 4:15pm, 8:00pm), Tue 12/28 (12:15pm, 3:55pm, 7:45pm), Wed 12/29 (10:30am, 2:30pm, 6:30pm)
+
+    * [Spider Man No Way Home](https://drafthouse.com/los-angeles/show/spider-man-no-way-home): Fri 12/24 (3:00pm, 6:45pm), Sat 12/25 (1:35pm, 5:25pm), Sun 12/26 (1:00pm, 4:55pm, 8:30pm), Mon 12/27 (10:30am, 1:15pm, 5:15pm), Tue 12/28 (10:30am, 1:00pm, 5:00pm, 6:15pm), Wed 12/29 (1:00pm, 5:00pm)
+
+    * [The Kings Man](https://drafthouse.com/los-angeles/show/the-kings-man): Sat 12/25 (9:05pm), Mon 12/27 (11:30am, 3:00pm, 6:45pm), Tue 12/28 (11:45am, 3:30pm, 7:30pm), Wed 12/29 (11:45am, 3:30pm, 7:15pm)
+
+    * [The Matrix Resurrections](https://drafthouse.com/los-angeles/show/the-matrix-resurrections): Fri 12/24 (1:45pm, 3:40pm, 4:30pm, 5:30pm, 7:30pm, 8:00pm), Sat 12/25 (12:15pm, 1:10pm, 4:25pm, 4:55pm, 8:10pm), Sun 12/26 (12:30pm, 3:40pm, 4:25pm, 7:30pm, 8:35pm), Mon 12/27 (10:00am, 12:55pm, 1:45pm, 4:45pm, 5:40pm, 8:30pm), Tue 12/28 (10:00am, 12:30pm, 1:40pm, 4:30pm, 5:20pm, 8:30pm), Wed 12/29 (10:15am, 11:15am, 2:00pm, 3:30pm, 7:45pm)
+
+    * [The Tragedy Of Macbeth](https://drafthouse.com/los-angeles/show/the-tragedy-of-macbeth): Wed 12/29 (11:00am, 2:00pm, 5:15pm, 8:15pm)
+
+    * [West Side Story 2021](https://drafthouse.com/los-angeles/show/west-side-story-2021): Fri 12/24 (2:30pm, 6:30pm), Mon 12/27 (10:45am, 2:45pm, 6:35pm), Tue 12/28 (11:15am, 3:15pm, 7:15pm), Wed 12/29 (10:00am, 1:45pm, 5:30pm)
+
 ### Wed 12/22 1:16pm
 
 * New screenings: 
