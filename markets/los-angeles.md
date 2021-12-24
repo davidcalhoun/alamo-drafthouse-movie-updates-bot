@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 12/24 2:18pm
+
+* New screenings: 
+    * [Eyes Wide Shut](https://drafthouse.com/los-angeles/show/eyes-wide-shut): Wed 12/29 (6:40pm)
+
 ### Wed 12/22 5:04pm
 * New movies: A Journal for Jordan
 
