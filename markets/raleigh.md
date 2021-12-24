@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Thu 12/23 8:16pm
+
+* New screenings: 
+    * [When Harry Met Sally Brunch](https://drafthouse.com/raleigh/show/when-harry-met-sally-brunch): Fri 12/31 (12:45pm)
+
 ### Wed 12/22 4:20pm
 * New movies: The Lord of the Rings:  The Return of the King:  Extended Edition With Q&A
 
