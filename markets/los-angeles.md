@@ -1,6 +1,19 @@
 # los-angeles
 
 ## Movie updates
+### Sun 12/26 11:18pm
+
+* New screenings: 
+    * [A Journal For Jordan](https://drafthouse.com/los-angeles/show/a-journal-for-jordan): Thu 12/30 (3:15pm, 6:40pm, 10:00pm), Fri 12/31 (12:30pm, 4:00pm, 7:25pm), Sat 1/1 (2:30pm, 5:50pm, 9:10pm), Sun 1/2 (11:15am, 2:35pm, 6:00pm)
+
+    * [Licorice Pizza](https://drafthouse.com/los-angeles/show/licorice-pizza): Thu 12/30 (2:40pm, 6:10pm, 9:40pm), Fri 12/31 (12:45pm, 4:15pm, 7:45pm), Sat 1/1 (1:00pm, 4:30pm, 8:00pm), Sun 1/2 (12:45pm, 4:15pm, 7:45pm)
+
+    * [The Kings Man](https://drafthouse.com/los-angeles/show/the-kings-man): Thu 12/30 (2:30pm, 6:10pm, 9:30pm), Fri 12/31 (11:15am, 2:40pm, 6:00pm), Sat 1/1 (1:00pm, 4:20pm, 7:40pm), Sun 1/2 (12:15pm, 3:40pm, 7:00pm)
+
+    * [The Matrix Resurrections](https://drafthouse.com/los-angeles/show/the-matrix-resurrections): Thu 12/30 (2:45pm, 6:40pm, 10:30pm), Fri 12/31 (12:15pm, 3:55pm, 7:35pm), Sat 1/1 (2:00pm, 5:45pm, 9:20pm), Sun 1/2 (11:00am, 2:45pm, 6:30pm)
+
+    * [The Tragedy Of Macbeth](https://drafthouse.com/los-angeles/show/the-tragedy-of-macbeth): Thu 12/30 (4:00pm, 7:15pm, 10:15pm)
+
 ### Fri 12/24 2:18pm
 
 * New screenings: 
