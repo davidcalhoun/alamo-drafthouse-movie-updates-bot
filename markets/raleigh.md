@@ -1,6 +1,20 @@
 # raleigh
 
 ## Movie updates
+### Tue 12/28 2:18pm
+* New movies: Kiki's Delivery Service Dubbed, My Neighbor Totoro Dubbed, Nausicaa of the Valley of the Wind Dubbed, Porco Rosso Dubbed, Princess Mononoke Dubbed
+
+* New screenings: 
+    * [Brunch Screenings Kikis Delivery Service Dubbed Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-kikis-delivery-service-dubbed-brunch): Sun 4/24 (11:00am)
+
+    * [Brunch Screenings My Neighbor Totoro Dubbed Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-my-neighbor-totoro-dubbed-brunch): Sun 1/30 (11:00am)
+
+    * [Brunch Screenings Nausicaa Of The Valley Of The Wind Dubbed Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-nausicaa-of-the-valley-of-the-wind-dubbed-brunch): Sun 3/27 (11:00am)
+
+    * [Brunch Screenings Porco Rosso Dubbed Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-porco-rosso-dubbed-brunch): Sun 5/29 (11:00am)
+
+    * [Brunch Screenings Princess Mononoke Dubbed Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-princess-mononoke-dubbed-brunch): Sun 2/27 (11:00am)
+
 ### Tue 12/28 11:37am
 * New movies: The Tragedy of Macbeth
 
