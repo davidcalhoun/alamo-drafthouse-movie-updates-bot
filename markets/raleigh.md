@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 12/28 3:25pm
+* New movies: Groundhog Day
+
+* New screenings: 
+    * [Groundhog Day](https://drafthouse.com/raleigh/show/groundhog-day): Wed 2/2 (7:15pm), Sun 2/6 (11:45am)
+
 ### Tue 12/28 2:18pm
 * New movies: Kiki's Delivery Service Dubbed, My Neighbor Totoro Dubbed, Nausicaa of the Valley of the Wind Dubbed, Porco Rosso Dubbed, Princess Mononoke Dubbed
 
