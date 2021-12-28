@@ -1,6 +1,36 @@
 # raleigh
 
 ## Movie updates
+### Tue 12/28 11:37am
+* New movies: The Tragedy of Macbeth
+
+* New screenings: 
+    * [A Journal For Jordan](https://drafthouse.com/raleigh/show/a-journal-for-jordan): Mon 1/3 (11:45am, 3:00pm, 6:15pm, 9:45pm), Tue 1/4 (11:45am, 3:00pm, 6:15pm, 9:45pm), Wed 1/5 (11:45am, 3:00pm, 6:15pm, 9:45pm)
+
+    * [American Underdog The Kurt Warner Story](https://drafthouse.com/raleigh/show/american-underdog-the-kurt-warner-story): Sat 1/1 (9:45pm), Mon 1/3 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Tue 1/4 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Wed 1/5 (12:30pm, 3:30pm, 6:30pm, 9:30pm)
+
+    * [Encanto](https://drafthouse.com/raleigh/show/encanto): Thu 12/30 (11:00am, 5:45pm)
+
+    * [Licorice Pizza](https://drafthouse.com/raleigh/show/licorice-pizza): Mon 1/3 (11:15am, 2:45pm, 6:45pm, 10:00pm), Tue 1/4 (11:15am, 2:45pm, 6:45pm, 10:00pm), Wed 1/5 (11:15am, 2:45pm, 6:45pm, 10:00pm)
+
+    * [Nightmare Alley 2021](https://drafthouse.com/raleigh/show/nightmare-alley-2021): Thu 12/30 (11:30am, 3:30pm, 7:15pm, 9:30pm), Fri 12/31 (3:20pm), Sat 1/1 (7:15pm), Sun 1/2 (3:15pm), Mon 1/3 (4:15pm, 8:30pm), Tue 1/4 (4:15pm, 8:30pm), Wed 1/5 (4:15pm, 8:30pm)
+
+    * [Red Rocket](https://drafthouse.com/raleigh/show/red-rocket): Thu 12/30 (1:15pm, 4:30pm, 7:45pm, 11:00pm), Fri 12/31 (1:15pm)
+
+    * [Sing 2](https://drafthouse.com/raleigh/show/sing-2): Fri 12/31 (11:00am, 5:30pm), Sat 1/1 (2:00pm, 5:45pm), Sun 1/2 (11:00am, 5:45pm), Mon 1/3 (11:00am, 11:30am, 2:30pm, 5:30pm, 6:00pm, 9:00pm), Tue 1/4 (11:00am, 11:30am, 2:30pm, 5:30pm, 6:00pm, 9:00pm), Wed 1/5 (11:00am, 11:30am, 2:30pm, 5:30pm, 6:00pm, 9:00pm)
+
+    * [Spider Man No Way Home](https://drafthouse.com/raleigh/show/spider-man-no-way-home): Thu 12/30 (1:45pm), Fri 12/31 (1:45pm, 5:45pm, 7:15pm), Sat 1/1 (1:45pm, 9:30pm), Sun 1/2 (11:30am, 1:45pm, 7:00pm), Mon 1/3 (11:15am, 1:45pm, 3:15pm, 5:45pm, 7:00pm, 9:20pm, 10:35pm), Tue 1/4 (11:15am, 1:45pm, 3:15pm, 5:45pm, 7:00pm, 9:20pm, 10:35pm), Wed 1/5 (11:15am, 1:45pm, 3:15pm, 5:45pm, 7:00pm, 9:20pm, 10:35pm)
+
+    * [The Kings Man](https://drafthouse.com/raleigh/show/the-kings-man): Mon 1/3 (12:45pm, 4:00pm, 7:15pm, 10:35pm), Tue 1/4 (12:45pm, 4:00pm, 7:15pm, 10:35pm), Wed 1/5 (12:45pm, 4:00pm, 7:15pm, 10:35pm)
+
+    * [The Matrix Resurrections](https://drafthouse.com/raleigh/show/the-matrix-resurrections): Thu 12/30 (10:45pm), Sat 1/1 (10:45pm), Mon 1/3 (12:15pm, 3:45pm, 7:30pm), Tue 1/4 (12:15pm, 3:45pm, 7:30pm), Wed 1/5 (12:15pm, 3:45pm, 7:30pm)
+
+    * [The Tragedy Of Macbeth](https://drafthouse.com/raleigh/show/the-tragedy-of-macbeth): Fri 12/31 (4:30pm, 7:45pm), Sat 1/1 (4:30pm, 7:45pm, 10:45pm), Sun 1/2 (1:15pm, 4:30pm, 7:45pm), Mon 1/3 (1:15pm, 4:30pm, 7:45pm, 10:45pm), Tue 1/4 (1:15pm, 4:30pm, 7:45pm, 10:45pm), Wed 1/5 (1:15pm, 4:30pm, 7:45pm, 10:45pm)
+
+    * [West Side Story 2021](https://drafthouse.com/raleigh/show/west-side-story-2021): Thu 12/30 (2:00pm, 5:30pm), Fri 12/31 (2:00pm), Sat 1/1 (3:20pm, 5:30pm), Sun 1/2 (2:00pm, 5:30pm), Mon 1/3 (12:15pm, 2:00pm, 8:00pm), Tue 1/4 (12:15pm, 2:00pm, 8:00pm), Wed 1/5 (12:15pm, 2:00pm, 8:00pm)
+
+    * [When Harry Met Sally Brunch](https://drafthouse.com/raleigh/show/when-harry-met-sally-brunch): Sun 1/2 (11:00am)
+
 ### Thu 12/23 8:16pm
 
 * New screenings: 
