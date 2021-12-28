@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 12/27 7:19pm
+
+* New screenings: 
+    * [Spider Man No Way Home](https://drafthouse.com/los-angeles/show/spider-man-no-way-home): Mon 12/27 (8:50pm)
+
 ### Sun 12/26 11:18pm
 
 * New screenings: 
