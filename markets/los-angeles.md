@@ -1,6 +1,29 @@
 # los-angeles
 
 ## Movie updates
+### Wed 12/29 6:07pm
+
+* New screenings: 
+    * [A Journal For Jordan](https://drafthouse.com/los-angeles/show/a-journal-for-jordan): Mon 1/3 (12:40pm, 4:00pm, 7:40pm), Tue 1/4 (12:40pm, 4:00pm, 7:40pm), Wed 1/5 (12:40pm, 4:00pm, 7:40pm)
+
+    * [Licorice Pizza](https://drafthouse.com/los-angeles/show/licorice-pizza): Mon 1/3 (12:45pm, 4:15pm, 7:45pm), Tue 1/4 (12:45pm, 4:15pm, 7:45pm), Wed 1/5 (12:45pm, 4:15pm, 7:45pm)
+
+    * [Nightmare Alley 2021](https://drafthouse.com/los-angeles/show/nightmare-alley-2021): Thu 12/30 (1:50pm, 5:35pm, 9:15pm), Fri 12/31 (3:00pm, 6:45pm), Sat 1/1 (4:00pm), Sun 1/2 (3:15pm, 7:15pm), Mon 1/3 (3:15pm, 7:15pm), Tue 1/4 (3:15pm, 7:15pm), Wed 1/5 (3:15pm, 7:15pm)
+
+    * [Spider Man No Way Home](https://drafthouse.com/los-angeles/show/spider-man-no-way-home): Thu 12/30 (1:40pm, 4:15pm, 5:20pm, 8:00pm, 9:00pm), Fri 12/31 (12:30pm, 1:15pm, 4:30pm, 5:00pm, 8:10pm), Sat 1/1 (12:00pm, 3:20pm, 3:40pm, 7:00pm, 7:30pm, 9:30pm), Sun 1/2 (11:15am, 12:20pm, 1:20pm, 4:15pm, 5:10pm, 8:00pm), Mon 1/3 (10:30am, 11:15am, 11:30am, 12:20pm, 1:20pm, 2:15pm, 3:15pm, 4:15pm, 5:10pm, 6:00pm, 7:00pm, 8:00pm), Tue 1/4 (10:30am, 11:15am, 11:30am, 12:20pm, 1:20pm, 2:15pm, 3:15pm, 4:15pm, 5:10pm, 6:00pm, 7:00pm, 8:00pm), Wed 1/5 (10:30am, 11:15am, 11:30am, 12:20pm, 1:20pm, 2:15pm, 3:15pm, 4:15pm, 5:10pm, 6:00pm, 7:00pm, 8:00pm)
+
+    * [The Apartment Brunch](https://drafthouse.com/los-angeles/show/the-apartment-brunch): Sat 1/1 (12:30pm)
+
+    * [The Kings Man](https://drafthouse.com/los-angeles/show/the-kings-man): Mon 1/3 (12:15pm, 3:40pm, 7:00pm), Tue 1/4 (12:15pm, 3:40pm, 7:00pm), Wed 1/5 (12:15pm, 3:40pm, 7:00pm)
+
+    * [The Matrix Resurrections](https://drafthouse.com/los-angeles/show/the-matrix-resurrections): Thu 12/30 (2:00pm, 5:40pm, 9:20pm), Fri 12/31 (1:45pm, 5:30pm), Sat 1/1 (2:45pm, 6:25pm, 10:00pm), Sun 1/2 (12:00pm, 3:45pm, 7:30pm), Mon 1/3 (10:45am, 12:00pm, 2:45pm, 3:45pm, 6:30pm, 7:30pm), Tue 1/4 (10:45am, 12:00pm, 2:45pm, 3:45pm, 6:30pm, 7:30pm), Wed 1/5 (10:45am, 12:00pm, 2:45pm, 3:45pm, 6:30pm, 7:30pm)
+
+    * [The Tragedy Of Macbeth](https://drafthouse.com/los-angeles/show/the-tragedy-of-macbeth): Fri 12/31 (10:45am, 1:45pm, 5:00pm, 8:00pm), Sat 1/1 (12:45pm, 3:00pm, 6:00pm, 9:00pm), Sun 1/2 (11:00am, 2:05pm, 5:15pm, 8:15pm), Mon 1/3 (11:00am, 2:05pm, 5:15pm, 8:15pm), Tue 1/4 (11:00am, 2:05pm, 5:15pm, 8:15pm), Wed 1/5 (11:00am, 2:05pm, 5:15pm, 8:15pm)
+
+    * [West Side Story 2021](https://drafthouse.com/los-angeles/show/west-side-story-2021): Thu 12/30 (2:25pm, 6:25pm, 10:15pm), Fri 12/31 (11:45am, 3:30pm, 7:15pm), Sat 1/1 (1:20pm, 5:15pm, 7:45pm), Sun 1/2 (11:00am, 3:00pm, 6:45pm), Mon 1/3 (11:00am, 3:00pm, 6:45pm), Tue 1/4 (11:00am, 3:00pm, 6:45pm), Wed 1/5 (11:00am, 3:00pm, 6:45pm)
+
+    * [When Harry Met Sally Brunch](https://drafthouse.com/los-angeles/show/when-harry-met-sally-brunch): Fri 12/31 (12:00pm)
+
 ### Mon 12/27 7:19pm
 
 * New screenings: 
