@@ -1,6 +1,28 @@
 # los-angeles
 
 ## Movie updates
+### Wed 12/29 10:23pm
+* New movies: My Neighbor Totoro Dubbed, Kiki's Delivery Service Dubbed, Porco Rosso Dubbed, Princess Mononoke Dubbed, Groundhog Day, Teenage Mutant Ninja Turtles 1990, Rad
+
+* New screenings: 
+    * [Brunch Screenings Kikis Delivery Service Dubbed Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-kikis-delivery-service-dubbed-brunch): Sun 4/24 (12:00pm)
+
+    * [Brunch Screenings My Neighbor Totoro Dubbed Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-my-neighbor-totoro-dubbed-brunch): Sat 1/29 (2:40pm), Sun 1/30 (2:40pm)
+
+    * [Brunch Screenings Porco Rosso Dubbed Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-porco-rosso-dubbed-brunch): Sun 5/29 (12:00pm)
+
+    * [Brunch Screenings Princess Mononoke Dubbed Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-princess-mononoke-dubbed-brunch): Sun 2/27 (11:30am)
+
+    * [Groundhog Day](https://drafthouse.com/los-angeles/show/groundhog-day): Wed 2/2 (6:30pm)
+
+    * [Inherent Vice](https://drafthouse.com/los-angeles/show/inherent-vice): Tue 2/1 (6:30pm)
+
+    * [Rad](https://drafthouse.com/los-angeles/show/rad): Sun 1/30 (5:15pm)
+
+    * [Sweet Sweetbacks Baadasssss Song](https://drafthouse.com/los-angeles/show/sweet-sweetbacks-baadasssss-song): Wed 2/9 (7:00pm)
+
+    * [Teenage Mutant Ninja Turtles 1990](https://drafthouse.com/los-angeles/show/teenage-mutant-ninja-turtles-1990): Wed 2/9 (4:15pm)
+
 ### Wed 12/29 6:07pm
 
 * New screenings: 
