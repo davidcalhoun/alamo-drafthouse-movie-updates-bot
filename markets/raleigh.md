@@ -1,6 +1,36 @@
 # raleigh
 
 ## Movie updates
+### Tue 1/4 10:25am
+* New movies: The 355
+
+* New screenings: 
+    * [A Journal For Jordan](https://drafthouse.com/raleigh/show/a-journal-for-jordan): Thu 1/6 (11:25am, 10:20pm), Fri 1/7 (11:30am, 10:20pm), Sat 1/8 (11:30am, 10:20pm), Sun 1/9 (11:30am, 10:15pm), Mon 1/10 (11:30am, 10:20pm), Tue 1/11 (11:30am, 10:20pm), Wed 1/12 (11:00am, 10:00pm)
+
+    * [American Underdog The Kurt Warner Story](https://drafthouse.com/raleigh/show/american-underdog-the-kurt-warner-story): Thu 1/6 (11:15am, 2:15pm)
+
+    * [Licorice Pizza](https://drafthouse.com/raleigh/show/licorice-pizza): Thu 1/6 (11:45am, 3:15pm, 6:45pm, 10:05pm), Fri 1/7 (12:00pm, 3:30pm, 6:45pm, 10:05pm), Sat 1/8 (12:00pm, 3:30pm, 6:45pm, 10:05pm), Sun 1/9 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Mon 1/10 (12:00pm, 3:30pm, 6:45pm, 10:05pm), Tue 1/11 (12:00pm, 3:30pm, 6:45pm, 10:05pm), Wed 1/12 (12:00pm, 3:30pm, 6:45pm, 10:05pm)
+
+    * [Nightmare Alley 2021](https://drafthouse.com/raleigh/show/nightmare-alley-2021): Thu 1/6 (1:30pm, 8:30pm), Fri 1/7 (11:15am, 8:45pm), Sat 1/8 (12:00pm, 8:00pm), Sun 1/9 (11:45am, 8:30pm), Mon 1/10 (12:30pm, 8:15pm), Tue 1/11 (12:30pm, 8:15pm), Wed 1/12 (12:45pm, 7:45pm)
+
+    * [Rocky Iv Rocky Vs Drago Directors Cut](https://drafthouse.com/raleigh/show/rocky-iv-rocky-vs-drago-directors-cut): Sat 1/8 (8:30pm)
+
+    * [Sing 2](https://drafthouse.com/raleigh/show/sing-2): Thu 1/6 (11:30am, 12:00pm, 3:00pm, 5:30pm, 6:00pm, 9:00pm), Fri 1/7 (11:00am, 12:15pm, 2:45pm, 3:15pm, 5:45pm, 6:15pm, 9:15pm), Sat 1/8 (11:15am, 12:15pm, 2:00pm, 3:15pm, 5:15pm, 6:15pm, 9:15pm), Sun 1/9 (11:15am, 2:30pm, 3:15pm, 5:30pm, 6:15pm, 9:15pm), Mon 1/10 (11:15am, 12:15pm, 3:15pm, 4:15pm, 5:15pm, 6:15pm, 9:15pm), Tue 1/11 (11:15am, 12:15pm, 3:15pm, 4:15pm, 5:15pm, 6:15pm, 9:15pm), Wed 1/12 (11:15am, 12:00pm, 3:00pm, 4:30pm, 5:15pm, 6:00pm, 9:15pm)
+
+    * [Special Event The Lord Of The Rings The Fellowship Of The Ring Extended Edition With Q A](https://drafthouse.com/raleigh/show/special-event-the-lord-of-the-rings-the-fellowship-of-the-ring-extended-edition-with-q-a): Fri 1/7 (8:15pm), Sun 1/9 (8:15pm), Mon 1/10 (12:00pm), Tue 1/11 (12:00pm), Wed 1/12 (11:45am)
+
+    * [Spider Man No Way Home](https://drafthouse.com/raleigh/show/spider-man-no-way-home): Thu 1/6 (11:45am, 12:45pm, 2:30pm, 3:20pm, 5:15pm, 6:15pm, 8:45pm, 9:15pm, 9:50pm), Fri 1/7 (11:45am, 2:15pm, 3:20pm, 6:00pm, 7:00pm, 9:45pm, 10:40pm), Sat 1/8 (11:45am, 2:15pm, 3:20pm, 5:45pm, 7:00pm, 9:45pm, 10:35pm), Sun 1/9 (11:00am, 11:30am, 2:15pm, 3:30pm, 5:15pm, 6:00pm, 8:50pm, 9:45pm), Mon 1/10 (11:45am, 2:15pm, 3:20pm, 6:00pm, 7:00pm, 9:45pm, 10:35pm), Tue 1/11 (11:45am, 2:15pm, 3:20pm, 6:00pm, 7:00pm, 9:45pm, 10:35pm), Wed 1/12 (12:10pm, 2:30pm, 3:45pm, 7:15pm, 8:15pm, 10:50pm)
+
+    * [The 355](https://drafthouse.com/raleigh/show/the-355): Thu 1/6 (7:00pm, 10:30pm), Fri 1/7 (1:00pm, 4:15pm, 7:30pm, 10:45pm), Sat 1/8 (1:00pm, 4:15pm, 7:30pm, 10:45pm), Sun 1/9 (1:00pm, 4:15pm, 7:30pm, 10:45pm), Mon 1/10 (1:00pm, 4:25pm, 7:30pm, 10:45pm), Tue 1/11 (1:00pm, 4:25pm, 7:30pm, 10:45pm), Wed 1/12 (1:00pm, 4:15pm, 7:30pm, 10:35pm)
+
+    * [The Kings Man](https://drafthouse.com/raleigh/show/the-kings-man): Thu 1/6 (1:00pm, 4:15pm, 7:30pm, 10:45pm), Fri 1/7 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Sat 1/8 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Sun 1/9 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Mon 1/10 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Tue 1/11 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Wed 1/12 (12:30pm, 3:45pm, 7:00pm, 10:15pm)
+
+    * [The Matrix Resurrections](https://drafthouse.com/raleigh/show/the-matrix-resurrections): Thu 1/6 (12:15pm, 3:45pm, 7:15pm, 10:50pm), Fri 1/7 (1:15pm, 4:45pm, 7:15pm, 10:50pm), Sat 1/8 (12:15pm, 3:45pm, 7:15pm, 10:50pm), Sun 1/9 (1:15pm, 4:45pm, 7:00pm, 10:30pm), Mon 1/10 (12:45pm, 4:15pm, 7:45pm, 10:00pm), Tue 1/11 (11:30am, 3:00pm, 6:45pm, 10:30pm), Wed 1/12 (11:30am, 3:15pm, 6:45pm, 10:15pm)
+
+    * [The Tragedy Of Macbeth](https://drafthouse.com/raleigh/show/the-tragedy-of-macbeth): Thu 1/6 (1:45pm, 4:45pm, 7:45pm, 10:45pm), Fri 1/7 (1:45pm, 4:45pm, 7:45pm, 10:45pm), Sat 1/8 (1:45pm, 4:45pm, 7:45pm, 10:45pm), Sun 1/9 (1:45pm, 4:45pm, 7:45pm, 10:45pm), Mon 1/10 (1:45pm, 4:45pm, 7:45pm, 10:45pm), Tue 1/11 (1:45pm, 4:45pm, 7:45pm, 10:45pm), Wed 1/12 (1:45pm, 4:45pm, 7:45pm, 10:40pm)
+
+    * [West Side Story 2021](https://drafthouse.com/raleigh/show/west-side-story-2021): Thu 1/6 (2:45pm, 6:30pm), Fri 1/7 (2:45pm, 6:30pm), Sat 1/8 (2:45pm, 6:30pm), Sun 1/9 (2:45pm, 6:30pm), Mon 1/10 (2:45pm, 6:30pm), Tue 1/11 (2:45pm, 6:30pm), Wed 1/12 (2:30pm, 6:15pm)
+
 ### Tue 12/28 3:25pm
 * New movies: Groundhog Day
 
