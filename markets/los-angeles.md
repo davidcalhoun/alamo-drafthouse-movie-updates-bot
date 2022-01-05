@@ -1,6 +1,15 @@
 # los-angeles
 
 ## Movie updates
+### Tue 1/4 5:08pm
+
+* New screenings: 
+    * [Brunch Screenings Scream 2022](https://drafthouse.com/los-angeles/show/brunch-screenings-scream-2022): Sat 1/15 (11:30am), Sun 1/16 (1:45pm)
+
+    * [Scream 2022](https://drafthouse.com/los-angeles/show/scream-2022): Thu 1/13 (7:20pm, 8:00pm, 10:30pm), Fri 1/14 (6:00pm, 9:15pm), Sat 1/15 (2:45pm, 6:00pm, 9:15pm), Sun 1/16 (5:00pm, 8:15pm)
+
+    * [Special Event The Lord Of The Rings The Two Towers Extended Edition](https://drafthouse.com/los-angeles/show/special-event-the-lord-of-the-rings-the-two-towers-extended-edition): Sat 1/15 (11:15am)
+
 ### Wed 12/29 10:23pm
 * New movies: My Neighbor Totoro Dubbed, Kiki's Delivery Service Dubbed, Porco Rosso Dubbed, Princess Mononoke Dubbed, Groundhog Day, Teenage Mutant Ninja Turtles 1990, Rad
 
