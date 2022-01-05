@@ -1,6 +1,28 @@
 # los-angeles
 
 ## Movie updates
+### Tue 1/4 6:39pm
+* New movies: The 355
+
+* New screenings: 
+    * [A Journal For Jordan](https://drafthouse.com/los-angeles/show/a-journal-for-jordan): Thu 1/6 (11:00am, 3:00pm)
+
+    * [Licorice Pizza](https://drafthouse.com/los-angeles/show/licorice-pizza): Thu 1/6 (1:00pm, 4:25pm, 8:00pm)
+
+    * [Nightmare Alley 2021](https://drafthouse.com/los-angeles/show/nightmare-alley-2021): Thu 1/6 (3:30pm, 7:30pm)
+
+    * [Spider Man No Way Home](https://drafthouse.com/los-angeles/show/spider-man-no-way-home): Thu 1/6 (10:45am, 11:45am, 12:00pm, 12:45pm, 1:35pm, 2:30pm, 3:30pm, 4:40pm, 5:25pm, 6:15pm, 7:15pm, 8:15pm)
+
+    * [The 355](https://drafthouse.com/los-angeles/show/the-355): Thu 1/6 (6:30pm, 7:45pm)
+
+    * [The Kings Man](https://drafthouse.com/los-angeles/show/the-kings-man): Thu 1/6 (12:30pm, 3:55pm, 7:15pm)
+
+    * [The Matrix Resurrections](https://drafthouse.com/los-angeles/show/the-matrix-resurrections): Thu 1/6 (11:00am, 12:15pm, 2:45pm, 4:00pm, 6:45pm)
+
+    * [The Tragedy Of Macbeth](https://drafthouse.com/los-angeles/show/the-tragedy-of-macbeth): Thu 1/6 (11:15am, 2:10pm, 5:30pm, 8:30pm)
+
+    * [West Side Story 2021](https://drafthouse.com/los-angeles/show/west-side-story-2021): Thu 1/6 (11:15am, 3:15pm, 7:00pm)
+
 ### Tue 1/4 5:08pm
 
 * New screenings: 
