@@ -1,6 +1,35 @@
 # los-angeles
 
 ## Movie updates
+### Tue 1/4 7:20pm
+
+* New screenings: 
+    * [Car Wash](https://drafthouse.com/los-angeles/show/car-wash): Mon 1/10 (2:10pm)
+
+    * [Fast Times At Ridgemont High](https://drafthouse.com/los-angeles/show/fast-times-at-ridgemont-high): Mon 1/10 (11:30am)
+
+    * [Licorice Pizza](https://drafthouse.com/los-angeles/show/licorice-pizza): Fri 1/7 (3:15pm, 6:45pm, 10:15pm), Sat 1/8 (11:15am, 2:45pm, 6:15pm, 9:45pm), Sun 1/9 (12:30pm, 4:00pm, 7:30pm), Mon 1/10 (1:00pm, 4:30pm, 8:00pm), Tue 1/11 (1:00pm, 4:30pm, 8:00pm), Wed 1/12 (1:00pm, 4:30pm, 8:00pm)
+
+    * [Nightmare Alley 2021](https://drafthouse.com/los-angeles/show/nightmare-alley-2021): Fri 1/7 (2:35pm, 10:10pm), Sat 1/8 (11:15am, 2:15pm), Sun 1/9 (10:30am, 7:00pm), Mon 1/10 (11:10am, 8:00pm), Tue 1/11 (11:05am, 4:00pm), Wed 1/12 (11:05am, 4:00pm, 7:05pm)
+
+    * [Rocky Iv Rocky Vs Drago Directors Cut](https://drafthouse.com/los-angeles/show/rocky-iv-rocky-vs-drago-directors-cut): Fri 1/7 (3:00pm), Sat 1/8 (9:55pm), Tue 1/11 (5:05pm), Wed 1/12 (3:10pm)
+
+    * [Soylent Green](https://drafthouse.com/los-angeles/show/soylent-green): Tue 1/11 (11:25am)
+
+    * [Special Event The Lord Of The Rings The Fellowship Of The Ring Extended Edition With Q A](https://drafthouse.com/los-angeles/show/special-event-the-lord-of-the-rings-the-fellowship-of-the-ring-extended-edition-with-q-a): Fri 1/7 (6:30pm), Sat 1/8 (6:45pm), Sun 1/9 (5:20pm), Mon 1/10 (2:00pm), Tue 1/11 (5:45pm), Wed 1/12 (2:00pm)
+
+    * [Spider Man No Way Home](https://drafthouse.com/los-angeles/show/spider-man-no-way-home): Fri 1/7 (1:15pm, 2:10pm, 2:50pm, 4:15pm, 4:50pm, 5:45pm, 6:40pm, 8:00pm, 8:30pm, 9:30pm, 10:25pm), Sat 1/8 (10:00am, 11:00am, 11:50am, 12:40pm, 1:35pm, 2:45pm, 3:30pm, 4:15pm, 5:25pm, 6:30pm, 7:10pm, 8:00pm, 9:10pm, 10:10pm, 10:45pm), Sun 1/9 (10:15am, 11:15am, 12:15pm, 1:10pm, 1:55pm, 3:00pm, 4:00pm, 4:50pm, 5:45pm, 6:45pm, 7:45pm), Mon 1/10 (11:00am, 11:45am, 12:45pm, 2:00pm, 2:35pm, 3:20pm, 4:30pm, 5:45pm, 6:15pm, 7:15pm, 8:15pm), Tue 1/11 (11:00am, 11:45am, 12:45pm, 1:45pm, 2:35pm, 3:30pm, 4:30pm, 5:30pm, 6:15pm, 7:15pm, 8:15pm), Wed 1/12 (11:00am, 11:45am, 12:45pm, 1:45pm, 2:35pm, 3:30pm, 4:30pm, 5:30pm, 6:15pm, 7:15pm, 8:15pm)
+
+    * [The 355](https://drafthouse.com/los-angeles/show/the-355): Fri 1/7 (2:45pm, 6:00pm, 9:15pm), Sat 1/8 (12:10pm, 3:45pm, 7:00pm, 10:25pm), Sun 1/9 (12:00pm, 3:05pm, 6:20pm), Mon 1/10 (12:15pm, 3:35pm, 6:50pm), Tue 1/11 (12:15pm, 3:35pm, 6:50pm), Wed 1/12 (12:15pm, 3:35pm, 6:50pm)
+
+    * [The Kings Man](https://drafthouse.com/los-angeles/show/the-kings-man): Fri 1/7 (3:15pm, 6:40pm, 10:00pm), Sat 1/8 (12:25pm, 4:00pm, 7:20pm, 10:40pm), Sun 1/9 (12:30pm, 4:25pm, 8:15pm), Mon 1/10 (12:30pm, 3:55pm, 7:20pm), Tue 1/11 (1:00pm, 4:25pm, 7:45pm), Wed 1/12 (1:00pm, 4:25pm, 7:45pm)
+
+    * [The Matrix Resurrections](https://drafthouse.com/los-angeles/show/the-matrix-resurrections): Fri 1/7 (3:25pm, 7:00pm, 10:40pm), Sat 1/8 (10:20am, 2:00pm, 5:45pm, 9:25pm), Sun 1/9 (11:30am, 3:25pm, 7:15pm), Mon 1/10 (12:00pm, 3:50pm, 7:35pm), Tue 1/11 (12:00pm, 3:55pm, 7:45pm), Wed 1/12 (12:00pm, 3:55pm, 7:45pm)
+
+    * [The Tragedy Of Macbeth](https://drafthouse.com/los-angeles/show/the-tragedy-of-macbeth): Fri 1/7 (1:50pm, 4:40pm, 7:45pm, 10:45pm), Sat 1/8 (12:00pm, 3:00pm, 6:00pm, 8:55pm), Sun 1/9 (10:40am, 2:10pm, 5:05pm, 8:00pm), Mon 1/10 (11:00am, 2:40pm, 5:35pm, 8:30pm), Tue 1/11 (11:00am, 2:40pm, 5:35pm, 8:30pm), Wed 1/12 (11:10am, 2:40pm, 5:35pm, 8:30pm)
+
+    * [West Side Story 2021](https://drafthouse.com/los-angeles/show/west-side-story-2021): Fri 1/7 (2:25pm, 6:15pm), Sat 1/8 (10:30am, 3:00pm, 6:00pm), Sun 1/9 (11:00am, 2:45pm, 6:45pm), Mon 1/10 (11:45am, 4:00pm, 7:05pm), Tue 1/11 (11:45am, 2:00pm, 8:00pm), Wed 1/12 (11:45am, 8:00pm)
+
 ### Tue 1/4 6:39pm
 * New movies: The 355
 
