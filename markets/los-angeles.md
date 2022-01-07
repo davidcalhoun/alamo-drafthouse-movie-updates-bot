@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 1/7 9:28am
+
+* New screenings: 
+    * [Special Event The Lord Of The Rings The Fellowship Of The Ring Extended Edition With Q A](https://drafthouse.com/los-angeles/show/special-event-the-lord-of-the-rings-the-fellowship-of-the-ring-extended-edition-with-q-a): Sat 1/8 (9:45am, 1:35pm), Sun 1/9 (9:55am)
+
 ### Tue 1/4 7:20pm
 
 * New screenings: 
