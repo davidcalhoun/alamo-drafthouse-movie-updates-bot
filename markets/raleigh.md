@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 1/7 10:25am
+* New movies: UFC 270: Ngannou vs. Gane
+
+* New screenings: 
+    * [Ufc 270 Ngannou Vs Gane](https://drafthouse.com/raleigh/show/ufc-270-ngannou-vs-gane): Sat 1/22 (10:00pm)
+
 ### Tue 1/4 10:25am
 * New movies: The 355
 
