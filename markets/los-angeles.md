@@ -1,6 +1,15 @@
 # los-angeles
 
 ## Movie updates
+### Sun 1/9 2:18pm
+
+* New screenings: 
+    * [Brunch Screenings Pride Prejudice 2005 Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-pride-prejudice-2005-brunch): Sat 1/22 (2:45pm)
+
+    * [Movie Party The Goonies](https://drafthouse.com/los-angeles/show/movie-party-the-goonies): Tue 1/25 (7:00pm)
+
+    * [Special Event The Lord Of The Rings The Return Of The King Extended Edition](https://drafthouse.com/los-angeles/show/special-event-the-lord-of-the-rings-the-return-of-the-king-extended-edition): Sat 1/22 (6:00pm)
+
 ### Fri 1/7 9:28am
 
 * New screenings: 
