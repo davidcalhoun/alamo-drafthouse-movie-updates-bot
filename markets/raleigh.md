@@ -1,6 +1,31 @@
 # raleigh
 
 ## Movie updates
+### Tue 1/11 3:25pm
+
+* New screenings: 
+    * [A Journal For Jordan](https://drafthouse.com/raleigh/show/a-journal-for-jordan): Thu 1/13 (12:45pm)
+
+    * [Licorice Pizza](https://drafthouse.com/raleigh/show/licorice-pizza): Thu 1/13 (12:15pm, 3:30pm, 6:45pm, 10:05pm)
+
+    * [Nightmare Alley 2021](https://drafthouse.com/raleigh/show/nightmare-alley-2021): Thu 1/13 (12:00pm)
+
+    * [Scream 2022](https://drafthouse.com/raleigh/show/scream-2022): Thu 1/13 (9:15pm)
+
+    * [Sing 2](https://drafthouse.com/raleigh/show/sing-2): Thu 1/13 (11:55am, 3:00pm, 6:00pm, 9:00pm)
+
+    * [Spider Man No Way Home](https://drafthouse.com/raleigh/show/spider-man-no-way-home): Thu 1/13 (11:15am, 11:45am, 1:55pm, 3:00pm, 3:30pm, 3:30pm, 5:30pm, 6:30pm, 10:05pm)
+
+    * [The 355](https://drafthouse.com/raleigh/show/the-355): Thu 1/13 (1:15pm, 4:30pm, 7:45pm, 10:50pm)
+
+    * [The Kings Man](https://drafthouse.com/raleigh/show/the-kings-man): Thu 1/13 (12:30pm, 3:45pm, 7:00pm, 10:15pm)
+
+    * [The Matrix Resurrections](https://drafthouse.com/raleigh/show/the-matrix-resurrections): Thu 1/13 (1:30pm, 4:00pm, 10:30pm)
+
+    * [The Tragedy Of Macbeth](https://drafthouse.com/raleigh/show/the-tragedy-of-macbeth): Thu 1/13 (1:00pm, 5:05pm, 7:35pm)
+
+    * [West Side Story 2021](https://drafthouse.com/raleigh/show/west-side-story-2021): Thu 1/13 (4:15pm)
+
 ### Tue 1/11 2:19pm
 * New movies: Venom: Let There Be Carnage, The Last Picture Show
 
