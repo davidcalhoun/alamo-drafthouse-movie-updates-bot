@@ -1,6 +1,40 @@
 # raleigh
 
 ## Movie updates
+### Tue 1/11 2:19pm
+* New movies: Venom: Let There Be Carnage, The Last Picture Show
+
+* New screenings: 
+    * [Belle Dubbed](https://drafthouse.com/raleigh/show/belle-dubbed): Sun 1/16 (10:00pm), Mon 1/17 (12:00pm, 6:30pm), Tue 1/18 (12:15pm, 6:45pm), Wed 1/19 (12:15pm, 6:45pm, 10:00pm)
+
+    * [Belle Subtitled](https://drafthouse.com/raleigh/show/belle-subtitled): Mon 1/17 (3:15pm, 10:00pm), Tue 1/18 (3:30pm, 10:00pm), Wed 1/19 (3:30pm)
+
+    * [Licorice Pizza](https://drafthouse.com/raleigh/show/licorice-pizza): Fri 1/14 (12:40pm, 4:00pm, 7:15pm, 10:45pm), Sat 1/15 (12:40pm, 4:00pm, 7:15pm, 10:45pm), Sun 1/16 (12:40pm, 4:00pm, 7:15pm, 10:45pm), Mon 1/17 (12:40pm, 4:00pm, 7:15pm, 10:45pm), Tue 1/18 (12:40pm, 4:00pm, 7:15pm, 10:45pm), Wed 1/19 (12:40pm, 4:00pm, 7:15pm, 10:45pm)
+
+    * [Nightmare Alley 2021](https://drafthouse.com/raleigh/show/nightmare-alley-2021): Fri 1/14 (11:00am), Sat 1/15 (11:00am), Sun 1/16 (11:00am), Mon 1/17 (11:00am), Tue 1/18 (11:00am), Wed 1/19 (11:00am)
+
+    * [Scream 2022](https://drafthouse.com/raleigh/show/scream-2022): Fri 1/14 (11:15am, 1:45pm, 2:15pm, 4:45pm, 6:15pm, 7:45pm, 9:15pm, 10:55pm), Sat 1/15 (1:45pm, 2:15pm, 4:45pm, 6:15pm, 7:45pm, 9:15pm, 10:55pm), Sun 1/16 (2:15pm, 6:15pm, 9:30pm, 10:15pm), Mon 1/17 (12:45pm, 1:45pm, 2:15pm, 4:00pm, 4:45pm, 7:00pm, 7:45pm, 9:50pm, 10:15pm, 11:00pm), Tue 1/18 (11:15am, 12:45pm, 1:45pm, 2:15pm, 4:00pm, 4:45pm, 6:15pm, 7:00pm, 7:45pm, 9:30pm, 10:15pm, 11:00pm), Wed 1/19 (11:15am, 12:45pm, 2:15pm, 4:00pm, 6:15pm, 7:00pm, 9:30pm, 10:15pm)
+
+    * [Sing 2](https://drafthouse.com/raleigh/show/sing-2): Fri 1/14 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 1/15 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sun 1/16 (12:00pm, 3:00pm, 6:00pm, 9:05pm), Mon 1/17 (12:00pm, 3:00pm, 6:00pm, 9:05pm), Tue 1/18 (12:00pm, 3:00pm, 6:00pm, 9:05pm), Wed 1/19 (12:00pm, 3:00pm, 6:00pm, 9:05pm)
+
+    * [Special Event The Lord Of The Rings The Fellowship Of The Ring Extended Edition With Q A](https://drafthouse.com/raleigh/show/special-event-the-lord-of-the-rings-the-fellowship-of-the-ring-extended-edition-with-q-a): Sun 1/16 (1:00pm)
+
+    * [Special Event The Lord Of The Rings The Two Towers Extended Edition](https://drafthouse.com/raleigh/show/special-event-the-lord-of-the-rings-the-two-towers-extended-edition): Wed 1/19 (12:55pm)
+
+    * [Spider Man No Way Home](https://drafthouse.com/raleigh/show/spider-man-no-way-home): Fri 1/14 (11:30am, 2:30pm, 3:00pm, 5:15pm, 6:30pm, 8:50pm, 10:30pm), Sat 1/15 (11:30am, 2:30pm, 3:00pm, 5:15pm, 6:30pm, 8:50pm, 10:30pm), Sun 1/16 (11:30am, 2:30pm, 3:00pm, 5:15pm, 6:30pm, 8:50pm, 10:30pm), Mon 1/17 (11:30am, 2:30pm, 3:00pm, 5:15pm, 6:15pm, 9:45pm), Tue 1/18 (11:30am, 2:30pm, 3:00pm, 5:15pm, 6:30pm, 8:50pm, 10:30pm), Wed 1/19 (11:30am, 2:30pm, 3:00pm, 5:15pm, 6:30pm, 8:50pm, 10:30pm)
+
+    * [The 355](https://drafthouse.com/raleigh/show/the-355): Fri 1/14 (11:45am, 3:10pm, 6:15pm, 9:30pm), Sat 1/15 (11:45am, 3:10pm, 6:15pm, 9:30pm), Sun 1/16 (11:45am, 3:10pm, 6:15pm, 9:30pm), Mon 1/17 (11:45am, 3:10pm, 6:15pm, 9:30pm), Tue 1/18 (11:45am, 3:10pm, 6:15pm, 9:30pm), Wed 1/19 (11:45am, 3:10pm, 6:15pm, 9:30pm)
+
+    * [The Kings Man](https://drafthouse.com/raleigh/show/the-kings-man): Fri 1/14 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Sat 1/15 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Sun 1/16 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Mon 1/17 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Tue 1/18 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Wed 1/19 (12:30pm, 3:45pm, 7:00pm, 10:15pm)
+
+    * [The Last Picture Show](https://drafthouse.com/raleigh/show/the-last-picture-show): Mon 1/17 (11:15am)
+
+    * [The Matrix Resurrections](https://drafthouse.com/raleigh/show/the-matrix-resurrections): Fri 1/14 (3:45pm, 10:30pm), Sat 1/15 (3:45pm, 10:30pm), Sun 1/16 (4:00pm, 10:30pm), Mon 1/17 (3:45pm, 10:30pm), Tue 1/18 (3:45pm, 10:30pm), Wed 1/19 (4:00pm, 10:30pm)
+
+    * [The Tragedy Of Macbeth](https://drafthouse.com/raleigh/show/the-tragedy-of-macbeth): Fri 1/14 (12:45pm, 7:30pm), Sat 1/15 (11:20am, 7:30pm), Sun 1/16 (1:00pm, 7:30pm), Mon 1/17 (12:45pm, 7:30pm), Tue 1/18 (12:45pm, 7:30pm), Wed 1/19 (1:00pm, 7:30pm)
+
+    * [Venom Let There Be Carnage](https://drafthouse.com/raleigh/show/venom-let-there-be-carnage): Mon 1/17 (8:50pm)
+
 ### Fri 1/7 10:25am
 * New movies: UFC 270: Ngannou vs. Gane
 
