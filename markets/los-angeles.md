@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 1/11 7:23pm
+
+* New screenings: 
+    * [Brunch Screenings Princess Mononoke Dubbed Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-princess-mononoke-dubbed-brunch): Sat 2/26 (11:30am)
+
 ### Sun 1/9 2:18pm
 
 * New screenings: 
