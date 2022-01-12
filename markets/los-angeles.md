@@ -1,6 +1,44 @@
 # los-angeles
 
 ## Movie updates
+### Tue 1/11 11:18pm
+* New movies: Parallel Mothers, The Last Picture Show
+
+* New screenings: 
+    * [Belle Dubbed](https://drafthouse.com/los-angeles/show/belle-dubbed): Mon 1/17 (4:10pm), Tue 1/18 (1:00pm, 7:30pm), Wed 1/19 (4:10pm)
+
+    * [Belle Subtitled](https://drafthouse.com/los-angeles/show/belle-subtitled): Mon 1/17 (1:00pm, 7:30pm), Tue 1/18 (4:10pm), Wed 1/19 (1:00pm, 7:30pm)
+
+    * [Boogie Nights](https://drafthouse.com/los-angeles/show/boogie-nights): Wed 1/19 (6:30pm)
+
+    * [Brunch Screenings Scream 2022](https://drafthouse.com/los-angeles/show/brunch-screenings-scream-2022): Sat 1/15 (10:45am), Sun 1/16 (10:40am)
+
+    * [Licorice Pizza](https://drafthouse.com/los-angeles/show/licorice-pizza): Thu 1/13 (3:10pm, 6:30pm, 10:00pm), Fri 1/14 (2:25pm, 6:00pm, 9:30pm), Sat 1/15 (11:00am, 2:30pm, 6:00pm, 9:30pm), Sun 1/16 (11:00am, 2:30pm, 6:00pm), Mon 1/17 (11:00am, 2:30pm, 6:00pm), Tue 1/18 (11:00am, 2:40pm, 6:00pm), Wed 1/19 (11:00am, 2:40pm, 6:30pm)
+
+    * [Nightmare Alley 2021](https://drafthouse.com/los-angeles/show/nightmare-alley-2021): Thu 1/13 (2:50pm)
+
+    * [Parallel Mothers](https://drafthouse.com/los-angeles/show/parallel-mothers): Fri 1/14 (3:00pm, 6:20pm, 9:45pm), Sat 1/15 (11:40am, 3:00pm, 6:20pm, 9:45pm), Sun 1/16 (11:40am, 3:00pm, 6:20pm), Mon 1/17 (11:40am, 3:00pm, 6:20pm), Tue 1/18 (11:40am, 3:00pm, 6:20pm), Wed 1/19 (11:40am, 3:00pm, 6:20pm)
+
+    * [Scream 2022](https://drafthouse.com/los-angeles/show/scream-2022): Thu 1/13 (7:40pm, 10:45pm, 11:00pm), Fri 1/14 (2:10pm, 2:50pm, 5:20pm, 8:25pm, 9:30pm, 10:35pm), Sat 1/15 (2:10pm, 5:20pm, 8:25pm), Sun 1/16 (5:40pm), Mon 1/17 (10:40am, 12:30pm, 1:45pm, 2:00pm, 3:45pm, 5:00pm, 5:10pm, 7:00pm, 8:15pm), Tue 1/18 (10:40am, 12:30pm, 1:45pm, 2:00pm, 3:45pm, 5:00pm, 5:10pm, 7:00pm, 8:15pm), Wed 1/19 (10:40am, 12:30pm, 1:50pm, 2:00pm, 3:45pm, 5:00pm, 5:10pm, 7:00pm, 8:15pm)
+
+    * [Special Event The Lord Of The Rings The Fellowship Of The Ring Extended Edition With Q A](https://drafthouse.com/los-angeles/show/special-event-the-lord-of-the-rings-the-fellowship-of-the-ring-extended-edition-with-q-a): Thu 1/13 (6:30pm), Sun 1/16 (12:00pm), Tue 1/18 (12:10pm)
+
+    * [Special Event The Lord Of The Rings The Two Towers Extended Edition](https://drafthouse.com/los-angeles/show/special-event-the-lord-of-the-rings-the-two-towers-extended-edition): Thu 1/13 (8:15pm), Sun 1/16 (6:00pm), Mon 1/17 (12:45pm, 5:45pm), Tue 1/18 (5:30pm), Wed 1/19 (12:45pm)
+
+    * [Spider Man No Way Home](https://drafthouse.com/los-angeles/show/spider-man-no-way-home): Thu 1/13 (3:00pm, 3:30pm, 3:50pm, 4:40pm, 6:00pm, 9:35pm), Fri 1/14 (2:30pm, 3:00pm, 3:20pm, 6:40pm, 7:00pm, 10:20pm), Sat 1/15 (11:10am, 3:00pm, 5:30pm, 6:40pm, 9:20pm, 10:25pm), Sun 1/16 (11:15am, 2:00pm, 3:00pm, 6:40pm), Mon 1/17 (10:30am, 11:15am, 2:10pm, 3:00pm, 6:40pm), Tue 1/18 (10:50am, 11:15am, 2:25pm, 3:00pm, 6:40pm), Wed 1/19 (10:50am, 11:20am, 2:25pm, 3:00pm, 6:40pm)
+
+    * [The 355](https://drafthouse.com/los-angeles/show/the-355): Thu 1/13 (3:30pm, 6:45pm, 10:10pm), Fri 1/14 (3:15pm, 6:45pm, 10:00pm), Sat 1/15 (12:00pm, 3:15pm, 6:45pm, 10:00pm), Sun 1/16 (12:00pm, 3:15pm, 6:45pm), Mon 1/17 (12:00pm, 3:15pm, 6:45pm), Tue 1/18 (12:00pm, 3:15pm, 6:45pm), Wed 1/19 (12:00pm, 3:15pm, 6:45pm)
+
+    * [The Kings Man](https://drafthouse.com/los-angeles/show/the-kings-man): Thu 1/13 (2:50pm, 6:15pm, 9:45pm), Fri 1/14 (3:45pm, 7:20pm, 10:45pm), Sat 1/15 (12:20pm, 3:45pm, 7:20pm, 10:45pm), Sun 1/16 (12:20pm, 3:45pm, 7:20pm), Mon 1/17 (12:20pm, 3:45pm, 7:20pm), Tue 1/18 (12:20pm, 3:45pm, 7:20pm), Wed 1/19 (12:20pm, 3:45pm, 7:20pm)
+
+    * [The Last Picture Show](https://drafthouse.com/los-angeles/show/the-last-picture-show): Sun 1/16 (2:45pm)
+
+    * [The Matrix Resurrections](https://drafthouse.com/los-angeles/show/the-matrix-resurrections): Thu 1/13 (4:20pm)
+
+    * [The Tragedy Of Macbeth](https://drafthouse.com/los-angeles/show/the-tragedy-of-macbeth): Thu 1/13 (2:50pm, 4:30pm, 7:40pm, 10:45pm), Fri 1/14 (2:50pm, 6:00pm, 9:00pm), Sat 1/15 (11:30am, 2:50pm, 6:10pm, 9:10pm), Sun 1/16 (11:30am, 2:50pm, 6:10pm), Mon 1/17 (11:30am, 2:50pm, 6:10pm), Tue 1/18 (11:30am, 2:50pm, 6:10pm), Wed 1/19 (11:30am, 2:50pm, 6:10pm)
+
+    * [West Side Story 2021](https://drafthouse.com/los-angeles/show/west-side-story-2021): Thu 1/13 (3:50pm)
+
 ### Tue 1/11 8:26pm
 * New movies: Nausicaa of the Valley of the Wind Dubbed
 
