@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 1/11 8:26pm
+* New movies: Nausicaa of the Valley of the Wind Dubbed
+
+* New screenings: 
+    * [Brunch Screenings Kikis Delivery Service Dubbed Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-kikis-delivery-service-dubbed-brunch): Sat 4/23 (12:00pm)
+
+    * [Brunch Screenings Nausicaa Of The Valley Of The Wind Dubbed Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-nausicaa-of-the-valley-of-the-wind-dubbed-brunch): Sun 3/27 (11:30am)
+
 ### Tue 1/11 7:23pm
 
 * New screenings: 
