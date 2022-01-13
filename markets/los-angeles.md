@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 1/12 6:40pm
+
+* New screenings: 
+    * [Special Event The Lord Of The Rings The Return Of The King Extended Edition](https://drafthouse.com/los-angeles/show/special-event-the-lord-of-the-rings-the-return-of-the-king-extended-edition): Sun 1/23 (11:45am)
+
 ### Tue 1/11 11:18pm
 * New movies: Parallel Mothers, The Last Picture Show
 
