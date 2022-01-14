@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 1/14 2:17pm
+* New movies: The Goonies
+
+* New screenings: 
+    * [The Goonies](https://drafthouse.com/raleigh/show/the-goonies): Wed 1/26 (9:00pm)
+
 ### Fri 1/14 12:30pm
 * New movies: Twin Peaks: Fire Walk With Me, Before Sunrise / Before Sunset Double Feature, Bridesmaids, In the Mood for Love, Bound 1996, Girls Trip, But I'm a Cheerleader, Fifty Shades of Grey, Poetic Justice, A RAISIN IN THE SUN 1961, Notting Hill, GUESS WHO’S COMING TO DINNER, Harry Potter and the Chamber of Secrets, Harry Potter and the Goblet of Fire, Harry Potter and the Prisoner of Azkaban, Harry Potter and the Sorcerer's Stone, IN THE HEAT OF THE NIGHT, Moonlight, Somewhere in Time, Tales from the Hood, The Birds, The Phantom of the Opera 2004, To Kill a Mockingbird, Us
 
