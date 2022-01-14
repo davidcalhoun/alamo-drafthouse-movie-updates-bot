@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 1/14 6:24pm
+
+* New screenings: 
+    * [Sundown](https://drafthouse.com/raleigh/show/sundown): Thu 2/3 (9:30pm), Fri 2/4 (1:15pm, 3:45pm, 6:15pm, 8:45pm), Sat 2/5 (1:15pm, 3:45pm, 6:15pm, 8:45pm), Sun 2/6 (1:15pm, 3:45pm, 6:15pm, 8:45pm)
+
 ### Fri 1/14 2:17pm
 * New movies: The Goonies
 
