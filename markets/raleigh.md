@@ -1,6 +1,58 @@
 # raleigh
 
 ## Movie updates
+### Fri 1/14 12:30pm
+* New movies: Twin Peaks: Fire Walk With Me, Before Sunrise / Before Sunset Double Feature, Bridesmaids, In the Mood for Love, Bound 1996, Girls Trip, But I'm a Cheerleader, Fifty Shades of Grey, Poetic Justice, A RAISIN IN THE SUN 1961, Notting Hill, GUESS WHO’S COMING TO DINNER, Harry Potter and the Chamber of Secrets, Harry Potter and the Goblet of Fire, Harry Potter and the Prisoner of Azkaban, Harry Potter and the Sorcerer's Stone, IN THE HEAT OF THE NIGHT, Moonlight, Somewhere in Time, Tales from the Hood, The Birds, The Phantom of the Opera 2004, To Kill a Mockingbird, Us
+
+* New screenings: 
+    * [A Raisin In The Sun 1961](https://drafthouse.com/raleigh/show/a-raisin-in-the-sun-1961): Sat 2/26 (2:15pm)
+
+    * [Before Sunrise Before Sunset Double Feature](https://drafthouse.com/raleigh/show/before-sunrise-before-sunset-double-feature): Mon 2/14 (5:30pm)
+
+    * [Bound 1996](https://drafthouse.com/raleigh/show/bound-1996): Tue 2/15 (6:30pm)
+
+    * [Bridesmaids Brunch](https://drafthouse.com/raleigh/show/bridesmaids-brunch): Sat 2/12 (11:00am)
+
+    * [Brunch Screenings Fifty Shades Of Grey Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-fifty-shades-of-grey-brunch): Sat 2/12 (2:15pm)
+
+    * [Brunch Screenings Girls Trip Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-girls-trip-brunch): Sun 2/13 (11:00am)
+
+    * [Brunch Screenings Notting Hill Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-notting-hill-brunch): Sat 2/26 (11:00am)
+
+    * [Guess Whos Coming To Dinner](https://drafthouse.com/raleigh/show/guess-whos-coming-to-dinner): Sat 2/19 (1:50pm)
+
+    * [Harry Potter And The Chamber Of Secrets](https://drafthouse.com/raleigh/show/harry-potter-and-the-chamber-of-secrets): Sat 2/5 (3:00pm)
+
+    * [Harry Potter And The Goblet Of Fire](https://drafthouse.com/raleigh/show/harry-potter-and-the-goblet-of-fire): Sat 2/26 (3:00pm)
+
+    * [Harry Potter And The Prisoner Of Azkaban](https://drafthouse.com/raleigh/show/harry-potter-and-the-prisoner-of-azkaban): Sat 2/19 (3:00pm)
+
+    * [Harry Potter And The Sorcerers Stone](https://drafthouse.com/raleigh/show/harry-potter-and-the-sorcerers-stone): Sat 1/29 (3:00pm)
+
+    * [In The Heat Of The Night](https://drafthouse.com/raleigh/show/in-the-heat-of-the-night): Sat 2/5 (1:45pm)
+
+    * [In The Mood For Love](https://drafthouse.com/raleigh/show/in-the-mood-for-love): Mon 2/14 (6:30pm)
+
+    * [Moonlight](https://drafthouse.com/raleigh/show/moonlight): Mon 2/28 (7:15pm)
+
+    * [Poetic Justice](https://drafthouse.com/raleigh/show/poetic-justice): Mon 2/14 (10:00pm)
+
+    * [Signature Programming But Im A Cheerleader Brunch](https://drafthouse.com/raleigh/show/signature-programming-but-im-a-cheerleader-brunch): Sun 2/20 (11:00am)
+
+    * [Signature Programming Somewhere In Time Brunch](https://drafthouse.com/raleigh/show/signature-programming-somewhere-in-time-brunch): Sat 2/19 (11:00am)
+
+    * [Tales From The Hood](https://drafthouse.com/raleigh/show/tales-from-the-hood): Thu 3/3 (10:00pm)
+
+    * [The Birds](https://drafthouse.com/raleigh/show/the-birds): Sun 2/20 (1:35pm)
+
+    * [The Phantom Of The Opera 2004 Movie Party](https://drafthouse.com/raleigh/show/the-phantom-of-the-opera-2004-movie-party): Sun 2/27 (6:45pm)
+
+    * [To Kill A Mockingbird](https://drafthouse.com/raleigh/show/to-kill-a-mockingbird): Sun 2/27 (2:20pm)
+
+    * [Twin Peaks Fire Walk With Me](https://drafthouse.com/raleigh/show/twin-peaks-fire-walk-with-me): Thu 2/24 (7:55pm), Wed 3/2 (10:00pm)
+
+    * [Us](https://drafthouse.com/raleigh/show/us): Mon 2/21 (7:00pm)
+
 ### Fri 1/14 10:25am
 * New movies: Sundown
 
