@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 1/14 10:23am
+
+* New screenings: 
+    * [Spider Man No Way Home](https://drafthouse.com/los-angeles/show/spider-man-no-way-home): Sat 1/15 (5:35pm)
+
 ### Fri 1/14 8:28am
 * New movies: Before Sunrise / Before Sunset Double Feature, Bridesmaids, In the Mood for Love, My Neighbor Totoro Subtitled, Twin Peaks: Fire Walk With Me, Eternal Sunshine of the Spotless Mind, Fifty Shades of Grey, Poetic Justice, The Umbrellas of Cherbourg, Bound 1996, Girls Trip, But I'm a Cheerleader, The Twilight Saga: Twilight, Harry Potter and the Prisoner of Azkaban, Harry Potter and the Sorcerer's Stone, Notting Hill, The Phantom of the Opera 2004, A RAISIN IN THE SUN 1961, Harry Potter and the Chamber of Secrets, Harry Potter and the Goblet of Fire, IN THE HEAT OF THE NIGHT, Moonlight, Somewhere in Time, Tales from the Hood, The Birds, To Kill a Mockingbird, Us
 
