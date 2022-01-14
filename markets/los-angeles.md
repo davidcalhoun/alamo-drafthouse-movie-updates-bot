@@ -1,6 +1,66 @@
 # los-angeles
 
 ## Movie updates
+### Fri 1/14 8:28am
+* New movies: Before Sunrise / Before Sunset Double Feature, Bridesmaids, In the Mood for Love, My Neighbor Totoro Subtitled, Twin Peaks: Fire Walk With Me, Eternal Sunshine of the Spotless Mind, Fifty Shades of Grey, Poetic Justice, The Umbrellas of Cherbourg, Bound 1996, Girls Trip, But I'm a Cheerleader, The Twilight Saga: Twilight, Harry Potter and the Prisoner of Azkaban, Harry Potter and the Sorcerer's Stone, Notting Hill, The Phantom of the Opera 2004, A RAISIN IN THE SUN 1961, Harry Potter and the Chamber of Secrets, Harry Potter and the Goblet of Fire, IN THE HEAT OF THE NIGHT, Moonlight, Somewhere in Time, Tales from the Hood, The Birds, To Kill a Mockingbird, Us
+
+* New screenings: 
+    * [A Raisin In The Sun 1961](https://drafthouse.com/los-angeles/show/a-raisin-in-the-sun-1961): Sat 2/26 (7:00pm)
+
+    * [Before Sunrise Before Sunset Double Feature](https://drafthouse.com/los-angeles/show/before-sunrise-before-sunset-double-feature): Mon 2/14 (7:00pm), Tue 2/15 (6:00pm)
+
+    * [Bound 1996](https://drafthouse.com/los-angeles/show/bound-1996): Wed 2/16 (8:00pm)
+
+    * [Bridesmaids Brunch](https://drafthouse.com/los-angeles/show/bridesmaids-brunch): Sat 2/12 (11:30am), Sun 2/13 (11:00am)
+
+    * [Brunch Screenings Fifty Shades Of Grey Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-fifty-shades-of-grey-brunch): Sat 2/12 (12:00pm), Sun 2/13 (12:00pm)
+
+    * [Brunch Screenings Girls Trip Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-girls-trip-brunch): Sun 2/13 (3:15pm)
+
+    * [Brunch Screenings Notting Hill Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-notting-hill-brunch): Sat 2/26 (12:00pm), Sun 2/27 (12:00pm)
+
+    * [Eternal Sunshine Of The Spotless Mind](https://drafthouse.com/los-angeles/show/eternal-sunshine-of-the-spotless-mind): Mon 2/14 (5:00pm), Wed 2/16 (5:00pm)
+
+    * [Harry Potter And The Chamber Of Secrets](https://drafthouse.com/los-angeles/show/harry-potter-and-the-chamber-of-secrets): Sat 2/5 (12:00pm)
+
+    * [Harry Potter And The Goblet Of Fire](https://drafthouse.com/los-angeles/show/harry-potter-and-the-goblet-of-fire): Sat 2/26 (3:15pm)
+
+    * [Harry Potter And The Prisoner Of Azkaban](https://drafthouse.com/los-angeles/show/harry-potter-and-the-prisoner-of-azkaban): Sat 2/19 (2:00pm), Sun 2/20 (5:00pm), Tue 2/22 (6:00pm)
+
+    * [Harry Potter And The Sorcerers Stone](https://drafthouse.com/los-angeles/show/harry-potter-and-the-sorcerers-stone): Fri 1/28 (6:00pm), Sat 1/29 (12:00pm, 8:00pm)
+
+    * [In The Heat Of The Night](https://drafthouse.com/los-angeles/show/in-the-heat-of-the-night): Sat 2/5 (2:25pm)
+
+    * [In The Mood For Love](https://drafthouse.com/los-angeles/show/in-the-mood-for-love): Mon 2/14 (2:15pm), Tue 2/15 (5:00pm)
+
+    * [Moonlight](https://drafthouse.com/los-angeles/show/moonlight): Mon 2/28 (7:30pm)
+
+    * [My Neighbor Totoro Subtitled](https://drafthouse.com/los-angeles/show/my-neighbor-totoro-subtitled): Sat 1/29 (5:20pm), Sun 1/30 (8:00pm)
+
+    * [Poetic Justice](https://drafthouse.com/los-angeles/show/poetic-justice): Mon 2/14 (4:00pm), Tue 2/15 (7:45pm)
+
+    * [Rad](https://drafthouse.com/los-angeles/show/rad): Mon 1/31 (5:00pm)
+
+    * [Signature Programming But Im A Cheerleader Brunch](https://drafthouse.com/los-angeles/show/signature-programming-but-im-a-cheerleader-brunch): Sun 2/20 (11:00am)
+
+    * [Signature Programming Somewhere In Time Brunch](https://drafthouse.com/los-angeles/show/signature-programming-somewhere-in-time-brunch): Sat 2/19 (11:00am)
+
+    * [Tales From The Hood](https://drafthouse.com/los-angeles/show/tales-from-the-hood): Thu 3/3 (7:30pm)
+
+    * [The Birds](https://drafthouse.com/los-angeles/show/the-birds): Sun 2/20 (1:45pm)
+
+    * [The Phantom Of The Opera 2004 Movie Party](https://drafthouse.com/los-angeles/show/the-phantom-of-the-opera-2004-movie-party): Sun 2/27 (6:00pm), Tue 3/1 (6:30pm)
+
+    * [The Umbrellas Of Cherbourg](https://drafthouse.com/los-angeles/show/the-umbrellas-of-cherbourg): Sun 2/13 (2:15pm)
+
+    * [To Kill A Mockingbird](https://drafthouse.com/los-angeles/show/to-kill-a-mockingbird): Sun 2/27 (3:00pm)
+
+    * [Twilight](https://drafthouse.com/los-angeles/show/twilight): Mon 1/31 (7:40pm)
+
+    * [Twin Peaks Fire Walk With Me](https://drafthouse.com/los-angeles/show/twin-peaks-fire-walk-with-me): Thu 2/24 (6:55pm), Wed 3/2 (7:00pm)
+
+    * [Us](https://drafthouse.com/los-angeles/show/us): Mon 2/21 (7:00pm)
+
 ### Fri 1/14 7:20am
 * New movies: Sundown
 
