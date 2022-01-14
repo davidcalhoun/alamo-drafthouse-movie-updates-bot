@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 1/14 10:25am
+* New movies: Sundown
+
+* New screenings: 
+    * [Sundown](https://drafthouse.com/raleigh/show/sundown): Thu 2/3 (7:00pm)
+
 ### Tue 1/11 3:25pm
 
 * New screenings: 
