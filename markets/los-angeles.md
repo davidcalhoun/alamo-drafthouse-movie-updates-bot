@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 1/14 7:20am
+* New movies: Sundown
+
+* New screenings: 
+    * [Sundown](https://drafthouse.com/los-angeles/show/sundown): Thu 1/27 (7:00pm)
+
 ### Wed 1/12 6:40pm
 
 * New screenings: 
