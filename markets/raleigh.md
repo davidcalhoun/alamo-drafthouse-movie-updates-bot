@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Sat 1/15 3:24pm
+* New movies: A Raisin in the Sun, My Neighbor Totoro Dubbed, My Neighbor Totoro Subtitled, Pride & Prejudice 2005
+
+* New screenings: 
+    * [My Neighbor Totoro Dubbed](https://drafthouse.com/raleigh/show/my-neighbor-totoro-dubbed): Mon 1/31 (6:45pm)
+
+    * [My Neighbor Totoro Subtitled](https://drafthouse.com/raleigh/show/my-neighbor-totoro-subtitled): Tue 2/1 (6:45pm)
+
+    * [Pride Prejudice](https://drafthouse.com/raleigh/show/pride-prejudice): Wed 1/26 (6:15pm)
+
 ### Fri 1/14 8:18pm
 * New movies: The Umbrellas of Cherbourg, Eternal Sunshine of the Spotless Mind
 
