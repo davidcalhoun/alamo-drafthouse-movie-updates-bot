@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Sat 1/15 4:20pm
+* New movies: To Sir, with Love
+
+* New screenings: 
+    * [To Sir With Love](https://drafthouse.com/raleigh/show/to-sir-with-love): Sun 1/30 (1:35pm)
+
 ### Sat 1/15 3:24pm
 * New movies: A Raisin in the Sun, My Neighbor Totoro Dubbed, My Neighbor Totoro Subtitled, Pride & Prejudice 2005
 
