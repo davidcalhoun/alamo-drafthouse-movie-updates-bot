@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 1/14 9:19pm
+
+* New screenings: 
+    * [Scream 2022](https://drafthouse.com/los-angeles/show/scream-2022): Sun 1/16 (10:45am)
+
 ### Fri 1/14 3:19pm
 
 * New screenings: 
