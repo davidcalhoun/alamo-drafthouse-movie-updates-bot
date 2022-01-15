@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Fri 1/14 8:18pm
+* New movies: The Umbrellas of Cherbourg, Eternal Sunshine of the Spotless Mind
+
+* New screenings: 
+    * [Eternal Sunshine Of The Spotless Mind](https://drafthouse.com/raleigh/show/eternal-sunshine-of-the-spotless-mind): Wed 2/16 (6:30pm)
+
+    * [The Umbrellas Of Cherbourg](https://drafthouse.com/raleigh/show/the-umbrellas-of-cherbourg): Sun 2/13 (2:15pm)
+
 ### Fri 1/14 6:24pm
 
 * New screenings: 
