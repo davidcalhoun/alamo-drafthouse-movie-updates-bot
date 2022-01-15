@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Sat 1/15 1:16pm
+* New movies: A Raisin in the Sun, To Sir, with Love
+
+* New screenings: 
+    * [To Sir With Love](https://drafthouse.com/los-angeles/show/to-sir-with-love): Sat 1/29 (3:35pm)
+
 ### Fri 1/14 9:19pm
 
 * New screenings: 
