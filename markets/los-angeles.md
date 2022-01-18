@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 1/18 12:21pm
+* New movies: Death Game
+
+* New screenings: 
+    * [Death Game](https://drafthouse.com/los-angeles/show/death-game): Mon 2/7 (7:30pm)
+
 ### Sat 1/15 1:16pm
 * New movies: A Raisin in the Sun, To Sir, with Love
 
