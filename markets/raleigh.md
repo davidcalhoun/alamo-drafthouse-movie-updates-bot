@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Tue 1/18 12:32pm
+* New movies: Sing A Bit Of Harmony Dubbed, Sing A Bit Of Harmony Subtitled
+
+* New screenings: 
+    * [Sing A Bit Of Harmony](https://drafthouse.com/raleigh/show/sing-a-bit-of-harmony): Tue 1/25 (7:30pm)
+
+    * [Sing A Bit Of Harmony Subtitled](https://drafthouse.com/raleigh/show/sing-a-bit-of-harmony-subtitled): Wed 1/26 (7:30pm)
+
 ### Sat 1/15 4:20pm
 * New movies: To Sir, with Love
 
