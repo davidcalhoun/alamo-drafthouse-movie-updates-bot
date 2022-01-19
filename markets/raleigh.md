@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 1/19 5:24am
+* New movies: Jackass Forever with Bonus Content
+
+* New screenings: 
+    * [Jackass Forever With Bonus Content](https://drafthouse.com/raleigh/show/jackass-forever-with-bonus-content): Thu 2/3 (7:15pm, 10:00pm)
+
 ### Wed 1/19 3:26am
 * New movies: Jackass Forever
 
