@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 1/19 3:26am
+* New movies: Jackass Forever
+
+* New screenings: 
+    * [Jackass Forever](https://drafthouse.com/raleigh/show/jackass-forever): Fri 2/4 (1:45pm, 4:30pm, 7:15pm, 10:00pm), Sat 2/5 (1:30pm, 4:15pm, 7:00pm, 9:45pm), Sun 2/6 (1:45pm, 4:30pm, 7:15pm, 10:00pm)
+
 ### Tue 1/18 2:19pm
 * New movies: The King's Daughter, Redeeming Love
 
