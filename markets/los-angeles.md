@@ -1,6 +1,40 @@
 # los-angeles
 
 ## Movie updates
+### Tue 1/18 5:57pm
+* New movies: Nightmare Alley: Vision in Darkness and Light, The Power of the Dog, Tick, Tick Boom!
+
+* New screenings: 
+    * [Belle Dubbed](https://drafthouse.com/los-angeles/show/belle-dubbed): Thu 1/20 (7:15pm), Fri 1/21 (7:15pm), Sat 1/22 (12:30pm, 7:15pm), Sun 1/23 (12:15pm, 3:45pm), Mon 1/24 (7:15pm), Tue 1/25 (7:15pm), Wed 1/26 (7:15pm)
+
+    * [Belle Subtitled](https://drafthouse.com/los-angeles/show/belle-subtitled): Thu 1/20 (3:50pm, 10:40pm), Fri 1/21 (3:50pm, 10:40pm), Sat 1/22 (3:50pm, 10:40pm), Sun 1/23 (7:15pm), Mon 1/24 (12:15pm, 3:45pm), Tue 1/25 (12:15pm, 3:45pm), Wed 1/26 (12:15pm, 3:45pm)
+
+    * [Boogie Nights](https://drafthouse.com/los-angeles/show/boogie-nights): Sat 1/22 (6:00pm)
+
+    * [Licorice Pizza](https://drafthouse.com/los-angeles/show/licorice-pizza): Thu 1/20 (2:35pm, 6:15pm, 9:45pm), Fri 1/21 (2:30pm, 6:30pm, 9:45pm), Sat 1/22 (11:00am, 2:30pm, 6:15pm, 9:45pm), Sun 1/23 (12:00pm, 3:25pm, 6:00pm), Mon 1/24 (11:40am, 3:05pm, 7:00pm), Tue 1/25 (11:40am, 3:15pm, 7:00pm), Wed 1/26 (11:40am, 3:15pm, 7:00pm)
+
+    * [Nightmare Alley Vision In Darkness And Light](https://drafthouse.com/los-angeles/show/nightmare-alley-vision-in-darkness-and-light): Thu 1/20 (7:00pm, 10:00pm), Fri 1/21 (2:10pm, 6:00pm, 9:45pm), Sat 1/22 (10:35am, 2:15pm, 6:00pm, 9:45pm), Sun 1/23 (10:30am, 2:15pm, 6:00pm), Mon 1/24 (10:30am, 2:15pm, 6:00pm), Tue 1/25 (10:30am, 2:15pm, 6:00pm), Wed 1/26 (10:30am, 2:15pm, 6:00pm)
+
+    * [Parallel Mothers](https://drafthouse.com/los-angeles/show/parallel-mothers): Thu 1/20 (3:15pm, 6:45pm, 10:40pm), Fri 1/21 (3:30pm, 7:00pm, 10:25pm), Sat 1/22 (12:50pm, 4:05pm, 7:35pm, 10:45pm), Sun 1/23 (12:45pm, 4:15pm, 7:30pm), Mon 1/24 (12:45pm, 4:15pm, 7:30pm), Tue 1/25 (12:45pm, 4:15pm, 7:30pm), Wed 1/26 (12:45pm, 4:15pm, 7:30pm)
+
+    * [Scream 2022](https://drafthouse.com/los-angeles/show/scream-2022): Thu 1/20 (2:40pm, 2:50pm, 3:40pm, 4:40pm, 6:00pm, 7:00pm, 7:45pm, 9:15pm, 10:15pm, 10:50pm), Fri 1/21 (2:50pm, 3:40pm, 4:40pm, 6:00pm, 7:00pm, 7:45pm, 9:15pm, 10:15pm, 10:50pm), Sat 1/22 (10:40am, 11:20am, 12:30pm, 2:35pm, 3:40pm, 5:15pm, 5:45pm, 7:00pm, 8:30pm, 9:00pm, 10:15pm), Sun 1/23 (11:15am, 12:15pm, 1:50pm, 2:35pm, 3:25pm, 4:55pm, 5:45pm, 8:00pm), Mon 1/24 (11:15am, 12:15pm, 1:15pm, 2:35pm, 3:25pm, 4:25pm, 5:45pm, 6:45pm, 7:45pm), Tue 1/25 (11:15am, 12:15pm, 1:15pm, 2:35pm, 3:25pm, 4:25pm, 5:45pm, 6:45pm, 7:45pm), Wed 1/26 (11:15am, 12:15pm, 1:15pm, 2:35pm, 3:25pm, 4:25pm, 5:45pm, 6:45pm, 7:45pm)
+
+    * [Special Event The Lord Of The Rings The Return Of The King Extended Edition](https://drafthouse.com/los-angeles/show/special-event-the-lord-of-the-rings-the-return-of-the-king-extended-edition): Fri 1/21 (5:40pm), Mon 1/24 (5:00pm), Tue 1/25 (5:00pm), Wed 1/26 (12:00pm)
+
+    * [Special Event The Lord Of The Rings The Two Towers Extended Edition](https://drafthouse.com/los-angeles/show/special-event-the-lord-of-the-rings-the-two-towers-extended-edition): Thu 1/20 (6:30pm)
+
+    * [Spider Man No Way Home](https://drafthouse.com/los-angeles/show/spider-man-no-way-home): Thu 1/20 (2:10pm, 3:25pm, 6:00pm, 9:45pm), Fri 1/21 (2:00pm, 2:50pm, 6:30pm, 10:10pm), Sat 1/22 (11:10am, 2:50pm, 6:30pm, 10:10pm), Sun 1/23 (11:10am, 2:50pm, 6:30pm), Mon 1/24 (11:10am, 12:10pm, 2:50pm, 6:30pm), Tue 1/25 (11:10am, 12:10pm, 2:50pm, 6:30pm), Wed 1/26 (11:10am, 2:50pm, 6:30pm)
+
+    * [The 355](https://drafthouse.com/los-angeles/show/the-355): Thu 1/20 (3:00pm, 5:45pm, 9:10pm), Fri 1/21 (10:00pm), Sat 1/22 (1:50pm), Sun 1/23 (10:35am), Mon 1/24 (3:45pm), Tue 1/25 (1:45pm), Wed 1/26 (5:15pm)
+
+    * [The Kings Man](https://drafthouse.com/los-angeles/show/the-kings-man): Thu 1/20 (3:30pm, 7:00pm, 10:25pm)
+
+    * [The Power Of The Dog](https://drafthouse.com/los-angeles/show/the-power-of-the-dog): Fri 1/21 (2:50pm, 6:15pm, 9:30pm), Sat 1/22 (11:20am, 2:50pm, 6:30pm, 10:00pm), Sun 1/23 (11:35am, 3:00pm, 6:20pm), Mon 1/24 (11:35am, 3:00pm, 6:20pm), Tue 1/25 (11:35am, 3:00pm, 6:20pm), Wed 1/26 (11:35am, 3:00pm, 6:20pm)
+
+    * [The Tragedy Of Macbeth](https://drafthouse.com/los-angeles/show/the-tragedy-of-macbeth): Thu 1/20 (3:45pm, 6:45pm, 9:50pm), Fri 1/21 (3:45pm, 6:45pm, 9:50pm), Sat 1/22 (12:45pm, 3:45pm, 6:45pm, 9:50pm), Sun 1/23 (12:30pm, 3:30pm, 6:30pm), Mon 1/24 (12:30pm, 3:30pm, 6:30pm), Tue 1/25 (12:30pm, 3:30pm, 6:30pm), Wed 1/26 (12:30pm, 3:30pm, 6:30pm)
+
+    * [Tick Tick Boom](https://drafthouse.com/los-angeles/show/tick-tick-boom): Fri 1/21 (3:15pm), Sat 1/22 (9:35pm), Sun 1/23 (6:45pm), Mon 1/24 (10:40am, 1:45pm), Tue 1/25 (10:40am, 3:50pm), Wed 1/26 (10:55am, 2:00pm, 6:10pm)
+
 ### Tue 1/18 12:21pm
 * New movies: Death Game
 
