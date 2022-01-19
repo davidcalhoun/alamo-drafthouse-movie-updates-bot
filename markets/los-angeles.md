@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Tue 1/18 6:29pm
+
+* New screenings: 
+    * [Before Sunrise Before Sunset Double Feature](https://drafthouse.com/los-angeles/show/before-sunrise-before-sunset-double-feature): Sun 2/13 (5:00pm)
+
+    * [The Umbrellas Of Cherbourg](https://drafthouse.com/los-angeles/show/the-umbrellas-of-cherbourg): Thu 2/17 (7:15pm)
+
 ### Tue 1/18 5:57pm
 * New movies: Nightmare Alley: Vision in Darkness and Light, The Power of the Dog, Tick, Tick Boom!
 
