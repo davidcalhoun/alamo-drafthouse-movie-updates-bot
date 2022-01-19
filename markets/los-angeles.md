@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 1/19 1:18am
+* New movies: Jackass Forever with Bonus Content
+
+* New screenings: 
+    * [Jackass Forever With Bonus Content](https://drafthouse.com/los-angeles/show/jackass-forever-with-bonus-content): Thu 2/3 (7:00pm, 10:00pm)
+
 ### Wed 1/19 12:21am
 * New movies: Jackass Forever
 
