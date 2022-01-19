@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 1/19 12:21am
+* New movies: Jackass Forever
+
+* New screenings: 
+    * [Jackass Forever](https://drafthouse.com/los-angeles/show/jackass-forever): Fri 2/4 (2:00pm, 4:45pm, 7:30pm, 10:15pm), Sat 2/5 (11:00am, 1:45pm, 4:30pm, 7:15pm, 10:00pm), Sun 2/6 (11:00am, 1:45pm, 4:30pm, 7:15pm)
+
 ### Tue 1/18 6:29pm
 
 * New screenings: 
