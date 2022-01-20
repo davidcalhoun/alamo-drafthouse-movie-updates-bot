@@ -1,6 +1,20 @@
 # raleigh
 
 ## Movie updates
+### Thu 1/20 11:35am
+* New movies: Death Game, Harry Potter and the Deathly Hallows: Part 1, Harry Potter and the Deathly Hallows: Part 2, Harry Potter and the Half-Blood Prince, Harry Potter and the Order of the Phoenix
+
+* New screenings: 
+    * [Death Game](https://drafthouse.com/raleigh/show/death-game): Mon 2/7 (9:45pm)
+
+    * [Harry Potter And The Deathly Hallows Part 1](https://drafthouse.com/raleigh/show/harry-potter-and-the-deathly-hallows-part-1): Sat 3/26 (3:00pm)
+
+    * [Harry Potter And The Deathly Hallows Part 2](https://drafthouse.com/raleigh/show/harry-potter-and-the-deathly-hallows-part-2): Sat 4/2 (3:00pm)
+
+    * [Harry Potter And The Half Blood Prince](https://drafthouse.com/raleigh/show/harry-potter-and-the-half-blood-prince): Sat 3/19 (3:00pm)
+
+    * [Harry Potter And The Order Of The Phoenix](https://drafthouse.com/raleigh/show/harry-potter-and-the-order-of-the-phoenix): Sat 3/12 (3:00pm)
+
 ### Wed 1/19 5:24am
 * New movies: Jackass Forever with Bonus Content
 
