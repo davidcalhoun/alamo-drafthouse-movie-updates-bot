@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Thu 1/20 5:01pm
+* New movies: The Goonies, Harry Potter and the Half-Blood Prince, Harry Potter and the Order of the Phoenix
+
+* New screenings: 
+    * [Brunch Screenings Pride Prejudice 2005 Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-pride-prejudice-2005-brunch): Sat 1/22 (12:50pm), Sun 1/23 (12:15pm)
+
+    * [Harry Potter And The Half Blood Prince](https://drafthouse.com/los-angeles/show/harry-potter-and-the-half-blood-prince): Sat 3/19 (12:30pm)
+
+    * [Harry Potter And The Order Of The Phoenix](https://drafthouse.com/los-angeles/show/harry-potter-and-the-order-of-the-phoenix): Sat 3/12 (12:30pm)
+
 ### Wed 1/19 1:18am
 * New movies: Jackass Forever with Bonus Content
 
