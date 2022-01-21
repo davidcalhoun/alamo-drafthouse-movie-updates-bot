@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Thu 1/20 6:00pm
+* New movies: Harry Potter and the Deathly Hallows: Part 1, Harry Potter and the Deathly Hallows: Part 2
+
+* New screenings: 
+    * [Harry Potter And The Chamber Of Secrets](https://drafthouse.com/los-angeles/show/harry-potter-and-the-chamber-of-secrets): Sat 2/5 (8:20pm)
+
+    * [Harry Potter And The Deathly Hallows Part 1](https://drafthouse.com/los-angeles/show/harry-potter-and-the-deathly-hallows-part-1): Sat 3/26 (12:00pm), Sun 3/27 (6:15pm)
+
+    * [Harry Potter And The Deathly Hallows Part 2](https://drafthouse.com/los-angeles/show/harry-potter-and-the-deathly-hallows-part-2): Sat 4/2 (12:00pm), Sun 4/3 (5:30pm)
+
 ### Thu 1/20 5:01pm
 * New movies: The Goonies, Harry Potter and the Half-Blood Prince, Harry Potter and the Order of the Phoenix
 
