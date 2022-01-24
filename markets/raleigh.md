@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 1/24 9:20am
+* New movies: Marry Me
+
+* New screenings: 
+    * [Marry Me](https://drafthouse.com/raleigh/show/marry-me): Thu 2/10 (5:00pm, 8:00pm)
+
 ### Mon 1/24 3:26am
 * New movies: Ponyo Dubbed
 
