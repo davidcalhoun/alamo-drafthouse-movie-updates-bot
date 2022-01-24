@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Mon 1/24 8:28am
+* New movies: Ponyo Dubbed
+
+* New screenings: 
+    * [Brunch Screenings Kikis Delivery Service Dubbed Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-kikis-delivery-service-dubbed-brunch): Sun 4/24 (3:00pm)
+
+    * [Brunch Screenings Ponyo Dubbed](https://drafthouse.com/los-angeles/show/brunch-screenings-ponyo-dubbed): Sat 6/25 (11:30am), Sun 6/26 (12:00pm)
+
+    * [Brunch Screenings Porco Rosso Dubbed Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-porco-rosso-dubbed-brunch): Sun 5/29 (2:45pm)
+
+    * [Harry Potter And The Goblet Of Fire](https://drafthouse.com/los-angeles/show/harry-potter-and-the-goblet-of-fire): Sun 2/27 (6:20pm), Wed 3/2 (3:15pm)
+
 ### Mon 1/24 7:18am
 
 * New screenings: 
