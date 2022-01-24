@@ -1,6 +1,15 @@
 # los-angeles
 
 ## Movie updates
+### Mon 1/24 7:18am
+
+* New screenings: 
+    * [Brunch Screenings My Neighbor Totoro Dubbed Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-my-neighbor-totoro-dubbed-brunch): Sun 1/30 (3:15pm)
+
+    * [Brunch Screenings Princess Mononoke Dubbed Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-princess-mononoke-dubbed-brunch): Sun 2/27 (3:20pm)
+
+    * [Brunch Screenings The Twilight Saga Twilight Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-the-twilight-saga-twilight-brunch): Sun 1/30 (12:00pm)
+
 ### Thu 1/20 6:00pm
 * New movies: Harry Potter and the Deathly Hallows: Part 1, Harry Potter and the Deathly Hallows: Part 2
 
