@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 1/24 12:18pm
+* New movies: Pom Poko Dubbed
+
+* New screenings: 
+    * [Brunch Screenings Pom Poko Dubbed Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-pom-poko-dubbed-brunch): Sat 7/23 (11:30am)
+
 ### Mon 1/24 8:28am
 * New movies: Ponyo Dubbed
 
