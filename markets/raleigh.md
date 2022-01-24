@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 1/24 3:26am
+* New movies: Ponyo Dubbed
+
+* New screenings: 
+    * [Brunch Screenings Ponyo Dubbed](https://drafthouse.com/raleigh/show/brunch-screenings-ponyo-dubbed): Sun 6/26 (11:00am)
+
 ### Thu 1/20 11:35am
 * New movies: Death Game, Harry Potter and the Deathly Hallows: Part 1, Harry Potter and the Deathly Hallows: Part 2, Harry Potter and the Half-Blood Prince, Harry Potter and the Order of the Phoenix
 
