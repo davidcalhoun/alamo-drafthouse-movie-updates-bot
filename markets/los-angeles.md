@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 1/24 5:09pm
+* New movies: Jeen-Yuhs: A Kanye Trilogy Act 1
+
+* New screenings: 
+    * [Jeen Yuhs A Kanye Trilogy Act 1](https://drafthouse.com/los-angeles/show/jeen-yuhs-a-kanye-trilogy-act-1): Thu 2/10 (6:15pm)
+
 ### Mon 1/24 12:18pm
 * New movies: Pom Poko Dubbed
 
