@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 1/25 7:18am
+* New movies: Moonfall
+
+* New screenings: 
+    * [Moonfall](https://drafthouse.com/los-angeles/show/moonfall): Thu 2/3 (6:00pm, 9:30pm), Fri 2/4 (3:00pm, 6:30pm, 10:00pm), Sat 2/5 (11:15am, 2:45pm, 6:15pm, 9:45pm), Sun 2/6 (12:30pm, 4:00pm, 7:30pm)
+
 ### Mon 1/24 5:09pm
 * New movies: Jeen-Yuhs: A Kanye Trilogy Act 1
 
