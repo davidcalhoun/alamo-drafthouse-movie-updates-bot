@@ -1,6 +1,46 @@
 # raleigh
 
 ## Movie updates
+### Mon 1/24 8:21pm
+* New movies: Nightmare Alley: Vision in Darkness and Light, The Twilight Saga: Twilight, Flee
+
+* New screenings: 
+    * [Belle Dubbed](https://drafthouse.com/raleigh/show/belle-dubbed): Thu 1/27 (1:00pm, 7:15pm), Fri 1/28 (2:30pm), Sat 1/29 (2:30pm), Sun 1/30 (10:55am), Mon 1/31 (3:35pm), Tue 2/1 (3:40pm), Wed 2/2 (3:40pm)
+
+    * [Belle Subtitled](https://drafthouse.com/raleigh/show/belle-subtitled): Thu 1/27 (4:10pm, 10:20pm)
+
+    * [Brunch Screenings My Neighbor Totoro Dubbed Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-my-neighbor-totoro-dubbed-brunch): Sat 1/29 (12:15pm)
+
+    * [Flee](https://drafthouse.com/raleigh/show/flee): Fri 1/28 (2:15pm, 4:45pm, 7:15pm, 10:00pm), Sat 1/29 (2:15pm, 4:45pm, 7:15pm, 10:00pm), Sun 1/30 (2:15pm, 4:45pm, 7:15pm), Mon 1/31 (2:15pm, 4:45pm, 7:15pm, 10:00pm), Tue 2/1 (2:15pm, 4:45pm, 7:15pm, 10:00pm), Wed 2/2 (2:15pm, 4:45pm, 7:15pm, 10:00pm)
+
+    * [Harry Potter And The Sorcerers Stone](https://drafthouse.com/raleigh/show/harry-potter-and-the-sorcerers-stone): Sun 1/30 (5:00pm), Mon 1/31 (12:15pm), Tue 2/1 (12:15pm), Wed 2/2 (12:15pm)
+
+    * [Licorice Pizza](https://drafthouse.com/raleigh/show/licorice-pizza): Thu 1/27 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Fri 1/28 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Sat 1/29 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Sun 1/30 (12:15pm, 3:30pm, 6:45pm), Mon 1/31 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Tue 2/1 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Wed 2/2 (12:15pm, 3:30pm, 6:45pm, 10:00pm)
+
+    * [My Neighbor Totoro Subtitled](https://drafthouse.com/raleigh/show/my-neighbor-totoro-subtitled): Wed 2/2 (12:00pm)
+
+    * [Nightmare Alley Vision In Darkness And Light](https://drafthouse.com/raleigh/show/nightmare-alley-vision-in-darkness-and-light): Thu 1/27 (7:30pm, 9:30pm), Fri 1/28 (12:40pm, 4:15pm, 7:00pm, 9:00pm), Sat 1/29 (12:45pm, 4:15pm, 6:45pm, 9:00pm), Sun 1/30 (12:15pm, 4:00pm, 6:45pm), Mon 1/31 (12:40pm, 4:15pm, 7:00pm, 9:00pm), Tue 2/1 (12:40pm, 4:15pm, 7:00pm, 9:00pm), Wed 2/2 (12:40pm, 4:15pm, 7:45pm, 9:45pm)
+
+    * [Pride Prejudice](https://drafthouse.com/raleigh/show/pride-prejudice): Thu 1/27 (6:15pm)
+
+    * [Redeeming Love](https://drafthouse.com/raleigh/show/redeeming-love): Thu 1/27 (12:30pm, 3:50pm, 6:45pm, 10:00pm), Fri 1/28 (11:30am, 2:45pm, 6:00pm, 9:15pm), Sat 1/29 (11:30am, 2:45pm, 6:00pm, 9:15pm), Sun 1/30 (11:30am, 2:45pm, 6:00pm), Mon 1/31 (11:30am, 2:45pm, 6:00pm, 9:15pm), Tue 2/1 (11:30am, 2:45pm, 6:00pm, 9:15pm), Wed 2/2 (12:25pm, 2:45pm, 6:00pm, 9:15pm)
+
+    * [Scream 2022](https://drafthouse.com/raleigh/show/scream-2022): Thu 1/27 (11:45am, 2:30pm, 4:00pm, 4:30pm, 5:30pm, 7:15pm, 8:25pm, 10:10pm), Fri 1/28 (11:45am, 4:00pm, 5:45pm, 7:45pm, 8:45pm, 10:30pm), Sat 1/29 (11:45am, 5:45pm, 7:45pm, 8:45pm, 10:15pm), Sun 1/30 (12:30pm, 3:45pm, 7:30pm), Mon 1/31 (11:45am, 4:00pm, 7:45pm, 9:25pm, 10:30pm), Tue 2/1 (11:45am, 4:00pm, 7:45pm, 9:30pm, 10:30pm), Wed 2/2 (11:45am, 4:00pm, 7:00pm, 10:00pm)
+
+    * [Sing 2](https://drafthouse.com/raleigh/show/sing-2): Thu 1/27 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Fri 1/28 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 1/29 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sun 1/30 (12:05pm, 3:00pm, 6:00pm), Mon 1/31 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Tue 2/1 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Wed 2/2 (12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
+    * [Special Event The Lord Of The Rings The Return Of The King Extended Edition](https://drafthouse.com/raleigh/show/special-event-the-lord-of-the-rings-the-return-of-the-king-extended-edition): Thu 1/27 (12:15pm)
+
+    * [Spider Man No Way Home](https://drafthouse.com/raleigh/show/spider-man-no-way-home): Thu 1/27 (12:55pm, 2:45pm, 6:15pm, 9:45pm), Fri 1/28 (1:45pm, 2:45pm, 5:30pm, 6:15pm, 9:45pm), Sat 1/29 (1:45pm, 2:45pm, 5:15pm, 6:15pm, 9:45pm), Sun 1/30 (11:15am, 2:45pm, 6:15pm), Mon 1/31 (12:00pm, 1:45pm, 2:45pm, 5:30pm, 6:15pm, 9:45pm), Tue 2/1 (1:45pm, 2:45pm, 5:30pm, 6:15pm, 9:45pm), Wed 2/2 (12:25pm, 2:45pm, 6:15pm, 9:45pm)
+
+    * [The Kings Daughter](https://drafthouse.com/raleigh/show/the-kings-daughter): Thu 1/27 (1:20pm, 4:05pm)
+
+    * [The Kings Man](https://drafthouse.com/raleigh/show/the-kings-man): Thu 1/27 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Fri 1/28 (11:45am, 3:00pm, 6:15pm, 9:30pm), Sat 1/29 (11:45am, 3:00pm, 6:15pm, 9:30pm), Sun 1/30 (11:45am, 3:00pm, 6:30pm), Mon 1/31 (11:45am, 3:00pm, 6:15pm, 9:30pm), Tue 2/1 (11:45am, 3:00pm, 6:15pm, 9:30pm), Wed 2/2 (11:45am, 3:00pm, 6:15pm, 9:30pm)
+
+    * [The Tragedy Of Macbeth](https://drafthouse.com/raleigh/show/the-tragedy-of-macbeth): Thu 1/27 (1:00pm)
+
+    * [Twilight](https://drafthouse.com/raleigh/show/twilight): Tue 2/1 (12:30pm), Wed 2/2 (4:00pm)
+
 ### Mon 1/24 9:20am
 * New movies: Marry Me
 
