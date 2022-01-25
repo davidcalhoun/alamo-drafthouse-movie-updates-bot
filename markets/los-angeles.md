@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 1/25 9:20am
+
+* New screenings: 
+    * [Brunch Screenings The Twilight Saga Twilight Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-the-twilight-saga-twilight-brunch): Sat 1/29 (1:00pm)
+
 ### Tue 1/25 7:18am
 * New movies: Moonfall
 
