@@ -1,6 +1,48 @@
 # los-angeles
 
 ## Movie updates
+### Tue 1/25 12:18pm
+* New movies: Gamestop: Rise of the Players, Drive My Car, Flee
+
+* New screenings: 
+    * [Belle Dubbed](https://drafthouse.com/los-angeles/show/belle-dubbed): Thu 1/27 (1:55pm)
+
+    * [Brunch Screenings Pom Poko Dubbed Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-pom-poko-dubbed-brunch): Sun 7/24 (11:30am)
+
+    * [Drive My Car](https://drafthouse.com/los-angeles/show/drive-my-car): Thu 1/27 (2:40pm, 5:15pm, 9:25pm), Fri 1/28 (3:10pm, 6:00pm, 9:35pm), Sat 1/29 (11:00am, 3:15pm, 7:30pm), Sun 1/30 (10:25am, 2:30pm, 6:35pm), Mon 1/31 (11:05am, 3:10pm, 7:15pm), Tue 2/1 (11:05am, 3:10pm, 7:15pm), Wed 2/2 (11:05am, 3:10pm, 7:15pm)
+
+    * [Flee](https://drafthouse.com/los-angeles/show/flee): Thu 1/27 (7:00pm, 9:40pm), Fri 1/28 (2:00pm, 4:30pm, 7:05pm, 10:15pm), Sat 1/29 (11:50am, 2:25pm, 5:00pm, 7:40pm, 10:15pm), Sun 1/30 (11:50am, 2:25pm, 5:00pm, 7:40pm), Mon 1/31 (12:30pm, 3:05pm, 5:40pm, 8:15pm), Tue 2/1 (12:40pm, 3:15pm, 5:50pm, 8:25pm), Wed 2/2 (12:30pm, 3:05pm, 5:40pm, 8:15pm)
+
+    * [Gamestop Rise Of The Players](https://drafthouse.com/los-angeles/show/gamestop-rise-of-the-players): Thu 1/27 (5:00pm, 7:40pm, 10:20pm), Fri 1/28 (3:00pm, 4:15pm, 8:15pm, 10:55pm), Sat 1/29 (12:20pm, 3:10pm, 6:00pm, 8:50pm), Sun 1/30 (12:20pm, 3:10pm, 6:00pm), Mon 1/31 (1:00pm, 3:50pm, 6:35pm), Tue 2/1 (1:00pm, 3:50pm, 6:35pm), Wed 2/2 (1:00pm, 3:50pm, 6:35pm)
+
+    * [Groundhog Day](https://drafthouse.com/los-angeles/show/groundhog-day): Mon 1/31 (3:25pm), Tue 2/1 (3:25pm), Wed 2/2 (3:25pm)
+
+    * [Harry Potter And The Sorcerers Stone](https://drafthouse.com/los-angeles/show/harry-potter-and-the-sorcerers-stone): Mon 1/31 (11:45am, 6:15pm), Tue 2/1 (11:45am), Wed 2/2 (11:45am)
+
+    * [Licorice Pizza](https://drafthouse.com/los-angeles/show/licorice-pizza): Thu 1/27 (3:05pm, 6:45pm, 10:15pm), Fri 1/28 (3:00pm, 7:00pm, 10:15pm), Sat 1/29 (11:30am, 3:00pm, 6:40pm, 10:10pm), Sun 1/30 (11:30am, 3:00pm, 6:00pm), Mon 1/31 (12:10pm, 3:40pm, 7:10pm), Tue 2/1 (11:30am, 3:00pm, 6:20pm), Wed 2/2 (11:30am, 3:00pm, 6:30pm)
+
+    * [My Neighbor Totoro Subtitled](https://drafthouse.com/los-angeles/show/my-neighbor-totoro-subtitled): Fri 1/28 (10:20pm), Mon 1/31 (10:50am), Tue 2/1 (10:50am), Wed 2/2 (10:50am)
+
+    * [Nightmare Alley Vision In Darkness And Light](https://drafthouse.com/los-angeles/show/nightmare-alley-vision-in-darkness-and-light): Thu 1/27 (2:15pm, 6:10pm, 10:00pm), Fri 1/28 (2:50pm, 6:15pm, 10:05pm), Sat 1/29 (10:30am, 2:20pm, 6:10pm, 9:50pm), Sun 1/30 (10:30am, 2:20pm, 6:10pm), Mon 1/31 (11:15am, 3:00pm, 6:45pm), Tue 2/1 (11:15am, 3:00pm, 6:45pm), Wed 2/2 (11:15am, 3:00pm, 6:45pm)
+
+    * [Parallel Mothers](https://drafthouse.com/los-angeles/show/parallel-mothers): Thu 1/27 (2:45pm, 6:15pm, 8:30pm), Fri 1/28 (2:30pm, 7:15pm), Sat 1/29 (12:40pm, 7:00pm), Sun 1/30 (12:40pm, 7:00pm), Mon 1/31 (12:45pm, 7:20pm), Tue 2/1 (12:45pm, 7:20pm), Wed 2/2 (12:45pm, 7:20pm)
+
+    * [Rad](https://drafthouse.com/los-angeles/show/rad): Tue 2/1 (5:00pm), Wed 2/2 (5:00pm)
+
+    * [Scream 2022](https://drafthouse.com/los-angeles/show/scream-2022): Thu 1/27 (2:15pm, 3:10pm, 3:45pm, 5:30pm, 6:20pm, 8:45pm, 9:30pm), Fri 1/28 (2:15pm, 4:15pm, 5:30pm, 7:30pm, 8:45pm, 9:45pm, 10:30pm), Sat 1/29 (11:00am, 2:15pm, 4:15pm, 5:30pm, 7:30pm, 8:45pm, 10:30pm), Sun 1/30 (11:00am, 1:00pm, 2:15pm, 4:15pm, 5:30pm, 7:30pm), Mon 1/31 (11:40am, 1:40pm, 2:55pm, 4:55pm, 6:10pm, 8:00pm), Tue 2/1 (11:40am, 1:40pm, 2:45pm, 4:55pm, 6:00pm, 8:00pm), Wed 2/2 (11:40am, 1:40pm, 2:55pm, 4:55pm, 6:10pm, 8:00pm)
+
+    * [Special Event The Lord Of The Rings The Return Of The King Extended Edition](https://drafthouse.com/los-angeles/show/special-event-the-lord-of-the-rings-the-return-of-the-king-extended-edition): Thu 1/27 (5:30pm)
+
+    * [Spider Man No Way Home](https://drafthouse.com/los-angeles/show/spider-man-no-way-home): Thu 1/27 (1:45pm, 2:30pm, 6:15pm, 10:10pm), Fri 1/28 (2:35pm, 6:20pm, 10:00pm), Sat 1/29 (10:40am, 2:20pm, 6:00pm, 9:35pm), Sun 1/30 (11:40am, 3:20pm, 7:00pm), Mon 1/31 (12:20pm, 1:25pm, 4:00pm, 7:40pm), Tue 2/1 (12:20pm, 1:25pm, 4:00pm, 7:40pm), Wed 2/2 (12:20pm, 1:25pm, 4:00pm, 7:40pm)
+
+    * [Sundown](https://drafthouse.com/los-angeles/show/sundown): Sat 1/29 (10:45am), Sun 1/30 (7:00pm), Mon 1/31 (11:40am, 2:20pm, 5:00pm, 7:40pm), Tue 2/1 (11:40am, 2:20pm, 5:00pm, 7:40pm), Wed 2/2 (11:40am, 2:20pm, 5:00pm, 7:40pm)
+
+    * [The 355](https://drafthouse.com/los-angeles/show/the-355): Thu 1/27 (5:00pm)
+
+    * [The Tragedy Of Macbeth](https://drafthouse.com/los-angeles/show/the-tragedy-of-macbeth): Thu 1/27 (2:00pm, 9:30pm), Fri 1/28 (10:25pm), Sat 1/29 (4:00pm, 10:15pm), Sun 1/30 (4:00pm), Mon 1/31 (4:15pm), Tue 2/1 (4:15pm), Wed 2/2 (4:15pm)
+
+    * [Twilight](https://drafthouse.com/los-angeles/show/twilight): Tue 2/1 (7:40pm), Wed 2/2 (7:40pm)
+
 ### Tue 1/25 9:20am
 
 * New screenings: 
