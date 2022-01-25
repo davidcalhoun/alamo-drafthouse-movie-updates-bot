@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 1/25 10:23am
+* New movies: Moonfall
+
+* New screenings: 
+    * [Moonfall](https://drafthouse.com/raleigh/show/moonfall): Thu 2/3 (6:00pm, 9:15pm), Fri 2/4 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Sat 2/5 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Sun 2/6 (11:30am, 2:45pm, 6:00pm)
+
 ### Mon 1/24 8:21pm
 * New movies: Nightmare Alley: Vision in Darkness and Light, The Twilight Saga: Twilight, Flee
 
