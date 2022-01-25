@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 1/25 11:34am
+* New movies: Jeen-Yuhs: A Kanye Trilogy Act 1
+
+* New screenings: 
+    * [Jeen Yuhs A Kanye Trilogy Act 1](https://drafthouse.com/raleigh/show/jeen-yuhs-a-kanye-trilogy-act-1): Thu 2/10 (7:00pm)
+
 ### Tue 1/25 10:23am
 * New movies: Moonfall
 
