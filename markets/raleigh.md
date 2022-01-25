@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 1/25 12:24pm
+* New movies: Pom Poko Dubbed
+
+* New screenings: 
+    * [Brunch Screenings Pom Poko Dubbed Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-pom-poko-dubbed-brunch): Sun 7/24 (11:00am)
+
 ### Tue 1/25 11:34am
 * New movies: Jeen-Yuhs: A Kanye Trilogy Act 1
 
