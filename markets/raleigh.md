@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 1/27 11:34am
+* New movies: Clean
+
+* New screenings: 
+    * [Clean](https://drafthouse.com/raleigh/show/clean): Thu 1/27 (7:00pm, 9:35pm), Fri 1/28 (1:30pm, 4:15pm, 7:00pm, 9:45pm), Sat 1/29 (1:30pm, 4:15pm, 7:00pm, 9:45pm), Sun 1/30 (2:00pm, 4:40pm, 6:15pm), Mon 1/31 (1:30pm, 4:15pm, 7:00pm, 9:45pm), Tue 2/1 (1:30pm, 4:15pm, 7:00pm, 9:45pm), Wed 2/2 (1:30pm, 4:15pm, 7:00pm, 10:00pm)
+
 ### Tue 1/25 12:24pm
 * New movies: Pom Poko Dubbed
 
