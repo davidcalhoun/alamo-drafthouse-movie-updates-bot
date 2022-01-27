@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 1/27 11:13am
+
+* New screenings: 
+    * [The Power Of The Dog](https://drafthouse.com/los-angeles/show/the-power-of-the-dog): Sat 1/29 (10:00pm), Sun 1/30 (1:00pm), Mon 1/31 (1:40pm)
+
 ### Tue 1/25 12:18pm
 * New movies: Gamestop: Rise of the Players, Drive My Car, Flee
 
