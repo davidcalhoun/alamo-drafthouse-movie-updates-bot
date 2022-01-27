@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 1/27 2:17pm
+
+* New screenings: 
+    * [Brunch Screenings Nausicaa Of The Valley Of The Wind Dubbed Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-nausicaa-of-the-valley-of-the-wind-dubbed-brunch): Sun 3/27 (2:45pm)
+
 ### Thu 1/27 11:13am
 
 * New screenings: 
