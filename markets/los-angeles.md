@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 1/27 5:03pm
+* New movies: Shortbus
+
+* New screenings: 
+    * [Shortbus](https://drafthouse.com/los-angeles/show/shortbus): Tue 2/8 (7:30pm)
+
 ### Thu 1/27 2:17pm
 
 * New screenings: 
