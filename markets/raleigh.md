@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 1/28 5:21pm
+* New movies: Uncharted
+
+* New screenings: 
+    * [Uncharted](https://drafthouse.com/raleigh/show/uncharted): Thu 2/17 (4:00pm, 7:00pm, 10:00pm), Fri 2/18 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sat 2/19 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sun 2/20 (1:00pm, 4:00pm, 7:00pm)
+
 ### Thu 1/27 11:34am
 * New movies: Clean
 
