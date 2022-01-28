@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 1/28 2:17pm
+* New movies: Uncharted
+
+* New screenings: 
+    * [Uncharted](https://drafthouse.com/los-angeles/show/uncharted): Thu 2/17 (4:00pm, 7:00pm), Fri 2/18 (4:00pm, 7:00pm, 10:00pm), Sat 2/19 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sun 2/20 (1:00pm, 4:00pm, 7:00pm)
+
 ### Thu 1/27 5:03pm
 * New movies: Shortbus
 
