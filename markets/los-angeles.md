@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 1/28 4:58pm
+* New movies: Shapeless, Ghosts of the Ozarks
+
+* New screenings: 
+    * [Live Q A Ghosts Of The Ozarks](https://drafthouse.com/los-angeles/show/live-q-a-ghosts-of-the-ozarks): Fri 2/4 (7:00pm)
+
+    * [Live Q A Shapeless](https://drafthouse.com/los-angeles/show/live-q-a-shapeless): Fri 2/11 (7:00pm)
+
 ### Fri 1/28 2:17pm
 * New movies: Uncharted
 
