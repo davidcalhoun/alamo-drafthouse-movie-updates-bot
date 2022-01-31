@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 1/31 6:22pm
+
+* New screenings: 
+    * [Jackass Forever](https://drafthouse.com/raleigh/show/jackass-forever): Fri 2/4 (7:45pm, 10:30pm)
+
 ### Fri 1/28 5:21pm
 * New movies: Uncharted
 
