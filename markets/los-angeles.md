@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Sun 1/30 10:21pm
+* New movies: Marry Me
+
+* New screenings: 
+    * [Marry Me](https://drafthouse.com/los-angeles/show/marry-me): Thu 2/10 (5:30pm, 8:30pm)
+
 ### Fri 1/28 4:58pm
 * New movies: Shapeless, Ghosts of the Ozarks
 
