@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 1/31 9:18am
+* New movies: King Knight
+
+* New screenings: 
+    * [Live Q A King Knight](https://drafthouse.com/los-angeles/show/live-q-a-king-knight): Fri 2/18 (7:00pm)
+
 ### Sun 1/30 10:21pm
 * New movies: Marry Me
 
