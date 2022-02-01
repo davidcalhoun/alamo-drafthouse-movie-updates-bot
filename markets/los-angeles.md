@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 1/31 6:37pm
+
+* New screenings: 
+    * [The Power Of The Dog](https://drafthouse.com/los-angeles/show/the-power-of-the-dog): Tue 2/1 (1:40pm), Wed 2/2 (7:40pm)
+
 ### Mon 1/31 9:18am
 * New movies: King Knight
 
