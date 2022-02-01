@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 2/1 6:16am
+* New movies: Death on the Nile 2022
+
+* New screenings: 
+    * [Death On The Nile 2022](https://drafthouse.com/los-angeles/show/death-on-the-nile-2022): Thu 2/10 (5:00pm, 8:15pm), Fri 2/11 (4:15pm, 7:30pm, 10:45pm), Sat 2/12 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Sun 2/13 (11:30am, 2:45pm, 6:00pm)
+
 ### Tue 2/1 1:18am
 * New movies: Aelita: Queen of Mars / Snarky Puppy: Family Dinner, Vol. 2 Double Feature, Nosferatu / Sylva by Snarky Puppy & Metropole Orkest Double Feature, The Lost World 1925 / Snarky Puppy: We Like It Here Double Feature, Three Silent Shorts / SNARKY PUPPY: GROUNDUP Double Feature, Waxworks / Snarky Puppy: Family Dinner - Vol. One Double Feature
 
