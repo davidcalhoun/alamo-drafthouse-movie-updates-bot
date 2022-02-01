@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 2/1 9:19am
+* New movies: Death on the Nile 2022
+
+* New screenings: 
+    * [Death On The Nile 2022](https://drafthouse.com/raleigh/show/death-on-the-nile-2022): Thu 2/10 (5:15pm, 8:30pm), Fri 2/11 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Sat 2/12 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Sun 2/13 (12:15pm, 3:30pm, 6:45pm)
+
 ### Mon 1/31 6:22pm
 
 * New screenings: 
