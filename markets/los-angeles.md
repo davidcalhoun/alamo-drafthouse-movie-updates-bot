@@ -1,6 +1,48 @@
 # los-angeles
 
 ## Movie updates
+### Tue 2/1 10:21am
+* New movies: Ghosts of the Ozarks
+
+* New screenings: 
+    * [Brunch Screenings Pretty In Pink Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-pretty-in-pink-brunch): Sun 2/6 (2:20pm)
+
+    * [Drive My Car](https://drafthouse.com/los-angeles/show/drive-my-car): Thu 2/3 (4:45pm, 6:20pm, 9:00pm), Fri 2/4 (2:55pm, 4:35pm, 8:45pm), Sat 2/5 (12:15pm, 4:35pm, 7:00pm, 8:45pm), Sun 2/6 (11:00am, 3:10pm, 6:00pm), Mon 2/7 (11:20am, 2:40pm, 6:45pm), Tue 2/8 (11:20am, 2:40pm, 6:45pm), Wed 2/9 (11:20am, 2:40pm, 6:45pm)
+
+    * [Flee](https://drafthouse.com/los-angeles/show/flee): Thu 2/3 (3:45pm)
+
+    * [Gamestop Rise Of The Players](https://drafthouse.com/los-angeles/show/gamestop-rise-of-the-players): Thu 2/3 (3:15pm)
+
+    * [Ghosts Of The Ozarks](https://drafthouse.com/los-angeles/show/ghosts-of-the-ozarks): Sun 2/6 (8:00pm)
+
+    * [Harry Potter And The Chamber Of Secrets](https://drafthouse.com/los-angeles/show/harry-potter-and-the-chamber-of-secrets): Fri 2/4 (5:30pm), Sun 2/6 (2:15pm), Mon 2/7 (5:45pm), Tue 2/8 (11:50am), Wed 2/9 (11:25am)
+
+    * [In The Heat Of The Night](https://drafthouse.com/los-angeles/show/in-the-heat-of-the-night): Sun 2/6 (5:00pm)
+
+    * [Jackass Forever](https://drafthouse.com/los-angeles/show/jackass-forever): Fri 2/4 (2:30pm, 3:25pm, 5:15pm, 6:15pm, 8:00pm, 9:00pm, 10:45pm), Sat 2/5 (11:40am, 12:35pm, 2:30pm, 3:25pm, 5:15pm, 6:15pm, 8:00pm, 9:00pm, 10:45pm), Sun 2/6 (11:45am, 12:45pm, 2:35pm, 3:30pm, 5:20pm, 6:20pm, 8:10pm), Mon 2/7 (11:00am, 11:45am, 12:45pm, 1:45pm, 2:35pm, 3:30pm, 4:30pm, 5:20pm, 6:20pm, 7:15pm, 8:10pm), Tue 2/8 (11:00am, 11:45am, 12:45pm, 1:45pm, 2:35pm, 3:30pm, 4:30pm, 5:20pm, 6:20pm, 7:15pm, 8:10pm), Wed 2/9 (11:00am, 11:45am, 12:45pm, 1:45pm, 2:35pm, 3:30pm, 4:30pm, 5:20pm, 6:20pm, 7:20pm, 8:10pm)
+
+    * [Jackass Forever With Bonus Content](https://drafthouse.com/los-angeles/show/jackass-forever-with-bonus-content): Thu 2/3 (7:30pm, 8:00pm, 10:20pm, 10:50pm)
+
+    * [Licorice Pizza](https://drafthouse.com/los-angeles/show/licorice-pizza): Thu 2/3 (3:25pm, 6:15pm, 9:40pm), Fri 2/4 (3:35pm, 7:00pm, 10:25pm), Sat 2/5 (12:15pm, 3:35pm, 7:00pm, 10:20pm), Sun 2/6 (12:30pm, 4:00pm, 7:30pm), Mon 2/7 (12:30pm, 4:00pm, 7:30pm), Tue 2/8 (12:30pm, 4:00pm, 7:30pm), Wed 2/9 (12:30pm, 4:00pm, 7:30pm)
+
+    * [Live Q A Ghosts Of The Ozarks](https://drafthouse.com/los-angeles/show/live-q-a-ghosts-of-the-ozarks): Fri 2/4 (10:20pm)
+
+    * [Moonfall](https://drafthouse.com/los-angeles/show/moonfall): Fri 2/4 (3:10pm), Mon 2/7 (12:15pm, 3:45pm, 7:15pm), Tue 2/8 (12:15pm, 3:35pm, 7:00pm), Wed 2/9 (12:15pm, 3:35pm, 7:00pm)
+
+    * [My Neighbor Totoro Subtitled](https://drafthouse.com/los-angeles/show/my-neighbor-totoro-subtitled): Thu 2/3 (10:30pm)
+
+    * [Nightmare Alley Vision In Darkness And Light](https://drafthouse.com/los-angeles/show/nightmare-alley-vision-in-darkness-and-light): Thu 2/3 (3:45pm, 6:20pm, 10:00pm), Fri 2/4 (6:00pm, 9:45pm), Sat 2/5 (11:25am, 6:00pm, 9:45pm), Sun 2/6 (2:20pm, 7:30pm), Mon 2/7 (11:00am, 3:45pm, 6:15pm), Tue 2/8 (11:00am, 3:45pm, 6:15pm), Wed 2/9 (11:00am, 3:15pm, 6:15pm)
+
+    * [Parallel Mothers](https://drafthouse.com/los-angeles/show/parallel-mothers): Thu 2/3 (3:10pm, 4:45pm), Fri 2/4 (2:20pm), Sat 2/5 (3:50pm), Sun 2/6 (11:10am), Mon 2/7 (12:30pm), Tue 2/8 (11:30am, 2:45pm), Wed 2/9 (1:00pm)
+
+    * [Scream 2022](https://drafthouse.com/los-angeles/show/scream-2022): Thu 2/3 (4:00pm, 4:10pm, 10:20pm, 10:50pm), Fri 2/4 (4:00pm, 7:15pm, 10:35pm), Sat 2/5 (12:50pm, 4:00pm, 7:15pm, 10:30pm), Sun 2/6 (12:55pm, 4:10pm, 7:20pm), Mon 2/7 (12:55pm, 4:10pm, 7:20pm), Tue 2/8 (12:55pm, 4:10pm, 7:20pm), Wed 2/9 (12:55pm, 4:10pm, 7:20pm)
+
+    * [Spider Man No Way Home](https://drafthouse.com/los-angeles/show/spider-man-no-way-home): Thu 2/3 (2:55pm, 6:30pm, 10:10pm), Fri 2/4 (2:20pm, 6:00pm, 9:45pm), Sat 2/5 (10:50am, 2:25pm, 6:00pm, 9:45pm), Sun 2/6 (11:30am, 3:15pm, 6:10pm), Mon 2/7 (11:30am, 2:10pm, 3:10pm, 6:45pm), Tue 2/8 (11:10am, 2:50pm, 6:00pm), Wed 2/9 (11:30am, 3:10pm, 6:45pm)
+
+    * [Sundown](https://drafthouse.com/los-angeles/show/sundown): Thu 2/3 (3:10pm, 5:40pm, 8:15pm, 10:45pm), Fri 2/4 (2:40pm, 5:15pm, 7:45pm, 10:15pm), Sat 2/5 (12:00pm, 2:40pm, 5:15pm, 7:45pm, 10:15pm), Sun 2/6 (12:00pm, 2:35pm, 5:15pm, 8:00pm), Mon 2/7 (12:00pm, 2:30pm, 5:10pm, 7:45pm), Tue 2/8 (12:00pm, 2:30pm, 5:10pm, 7:45pm), Wed 2/9 (12:00pm, 2:30pm, 5:10pm, 7:45pm)
+
+    * [The Tragedy Of Macbeth](https://drafthouse.com/los-angeles/show/the-tragedy-of-macbeth): Thu 2/3 (3:25pm), Fri 2/4 (3:10pm), Sat 2/5 (3:10pm), Sun 2/6 (11:20am), Mon 2/7 (11:20am, 3:25pm), Tue 2/8 (3:25pm), Wed 2/9 (3:25pm, 6:55pm)
+
 ### Tue 2/1 6:16am
 * New movies: Death on the Nile 2022
 
