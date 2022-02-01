@@ -1,6 +1,20 @@
 # los-angeles
 
 ## Movie updates
+### Tue 2/1 1:18am
+* New movies: Aelita: Queen of Mars / Snarky Puppy: Family Dinner, Vol. 2 Double Feature, Nosferatu / Sylva by Snarky Puppy & Metropole Orkest Double Feature, The Lost World 1925 / Snarky Puppy: We Like It Here Double Feature, Three Silent Shorts / SNARKY PUPPY: GROUNDUP Double Feature, Waxworks / Snarky Puppy: Family Dinner - Vol. One Double Feature
+
+* New screenings: 
+    * [Aelita Queen Of Mars Snarky Puppy Family Dinner Vol 2 Double Feature](https://drafthouse.com/los-angeles/show/aelita-queen-of-mars-snarky-puppy-family-dinner-vol-2-double-feature): Sun 3/20 (6:00pm)
+
+    * [Nosferatu Sylva By Snarky Puppy Metropole Orkest Double Feature](https://drafthouse.com/los-angeles/show/nosferatu-sylva-by-snarky-puppy-metropole-orkest-double-feature): Sun 3/13 (6:00pm)
+
+    * [The Lost World 1925 Snarky Puppy We Like It Here Double Feature](https://drafthouse.com/los-angeles/show/the-lost-world-1925-snarky-puppy-we-like-it-here-double-feature): Sun 2/27 (6:45pm)
+
+    * [Three Silent Shorts Snarky Puppy Groundup Double Feature](https://drafthouse.com/los-angeles/show/three-silent-shorts-snarky-puppy-groundup-double-feature): Sun 2/20 (6:00pm)
+
+    * [Waxworks Snarky Puppy Family Dinner Vol One Double Feature](https://drafthouse.com/los-angeles/show/waxworks-snarky-puppy-family-dinner-vol-one-double-feature): Sun 3/6 (6:00pm)
+
 ### Mon 1/31 6:37pm
 
 * New screenings: 
