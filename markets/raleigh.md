@@ -1,6 +1,46 @@
 # raleigh
 
 ## Movie updates
+### Tue 2/1 11:35am
+* New movies: Ghosts of the Ozarks
+
+* New screenings: 
+    * [Belle Dubbed](https://drafthouse.com/raleigh/show/belle-dubbed): Thu 2/3 (12:50pm, 3:55pm)
+
+    * [Clean](https://drafthouse.com/raleigh/show/clean): Thu 2/3 (3:45pm), Fri 2/4 (3:45pm), Sat 2/5 (4:00pm), Sun 2/6 (12:35pm), Mon 2/7 (3:45pm), Tue 2/8 (4:05pm), Wed 2/9 (3:45pm)
+
+    * [Flee](https://drafthouse.com/raleigh/show/flee): Thu 2/3 (1:15pm, 3:40pm)
+
+    * [Ghosts Of The Ozarks](https://drafthouse.com/raleigh/show/ghosts-of-the-ozarks): Fri 2/4 (8:30pm)
+
+    * [Harry Potter And The Chamber Of Secrets](https://drafthouse.com/raleigh/show/harry-potter-and-the-chamber-of-secrets): Sat 2/5 (11:15am), Sun 2/6 (3:00pm), Mon 2/7 (3:30pm), Tue 2/8 (3:45pm), Wed 2/9 (3:00pm, 6:45pm)
+
+    * [Harry Potter And The Sorcerers Stone](https://drafthouse.com/raleigh/show/harry-potter-and-the-sorcerers-stone): Thu 2/3 (12:45pm)
+
+    * [Jackass Forever](https://drafthouse.com/raleigh/show/jackass-forever): Fri 2/4 (12:15pm, 2:15pm, 3:00pm, 5:00pm, 5:45pm, 9:45pm), Sat 2/5 (5:30pm, 7:30pm, 8:10pm, 10:15pm), Sun 2/6 (12:15pm, 3:15pm), Mon 2/7 (12:30pm, 1:15pm, 1:45pm, 4:00pm, 4:25pm, 7:15pm, 7:45pm, 9:45pm, 10:00pm, 10:30pm), Tue 2/8 (12:30pm, 12:50pm, 1:35pm, 3:30pm, 4:20pm, 7:00pm, 7:45pm, 9:45pm, 10:00pm, 10:30pm), Wed 2/9 (12:15pm, 1:45pm, 2:15pm, 4:25pm, 5:00pm, 7:15pm, 7:45pm, 9:45pm, 10:00pm, 10:30pm)
+
+    * [Jackass Forever With Bonus Content](https://drafthouse.com/raleigh/show/jackass-forever-with-bonus-content): Thu 2/3 (7:45pm, 9:30pm, 10:30pm)
+
+    * [Licorice Pizza](https://drafthouse.com/raleigh/show/licorice-pizza): Thu 2/3 (12:00pm, 3:15pm, 6:45pm, 10:00pm), Fri 2/4 (12:00pm, 3:15pm, 6:45pm, 10:00pm), Sat 2/5 (12:00pm, 3:15pm, 6:45pm, 10:00pm), Sun 2/6 (12:00pm, 3:15pm, 6:45pm), Mon 2/7 (12:00pm, 3:15pm, 6:45pm, 10:00pm), Tue 2/8 (12:00pm, 3:15pm, 6:45pm, 10:00pm), Wed 2/9 (12:00pm, 3:15pm, 6:45pm, 10:00pm)
+
+    * [Moonfall](https://drafthouse.com/raleigh/show/moonfall): Sat 2/5 (9:30pm), Mon 2/7 (12:00pm, 3:15pm, 6:30pm, 9:30pm), Tue 2/8 (12:00pm, 3:15pm, 6:30pm, 9:30pm), Wed 2/9 (12:00pm, 3:15pm, 6:30pm, 9:30pm)
+
+    * [Nightmare Alley Vision In Darkness And Light](https://drafthouse.com/raleigh/show/nightmare-alley-vision-in-darkness-and-light): Thu 2/3 (12:15pm, 6:30pm, 10:00pm), Fri 2/4 (12:15pm, 6:30pm, 10:00pm), Sat 2/5 (12:30pm, 6:45pm, 10:15pm), Sun 2/6 (2:35pm, 6:05pm), Mon 2/7 (12:15pm, 6:30pm, 10:00pm), Tue 2/8 (12:15pm, 7:15pm, 9:50pm), Wed 2/9 (12:15pm, 6:30pm, 10:00pm)
+
+    * [Redeeming Love](https://drafthouse.com/raleigh/show/redeeming-love): Thu 2/3 (12:10pm, 3:30pm)
+
+    * [Scream 2022](https://drafthouse.com/raleigh/show/scream-2022): Thu 2/3 (11:35am, 12:50pm, 4:35pm, 7:30pm, 10:25pm), Fri 2/4 (11:30am, 4:35pm, 7:30pm, 10:30pm), Sat 2/5 (11:30am, 4:35pm, 7:15pm, 10:30pm), Sun 2/6 (11:30am, 4:30pm, 7:30pm), Mon 2/7 (11:30am, 4:35pm, 7:30pm, 10:30pm), Tue 2/8 (11:30am, 4:00pm, 6:15pm, 9:15pm), Wed 2/9 (11:30am, 4:35pm, 7:30pm, 10:30pm)
+
+    * [Sing 2](https://drafthouse.com/raleigh/show/sing-2): Thu 2/3 (12:30pm, 3:30pm, 6:30pm), Fri 2/4 (12:30pm, 3:30pm, 6:30pm), Sat 2/5 (12:30pm, 3:30pm, 6:30pm), Sun 2/6 (12:30pm, 3:30pm, 6:30pm), Mon 2/7 (12:30pm, 3:30pm, 6:30pm), Tue 2/8 (12:30pm, 3:30pm, 6:30pm), Wed 2/9 (12:30pm, 3:30pm, 6:30pm)
+
+    * [Spider Man No Way Home](https://drafthouse.com/raleigh/show/spider-man-no-way-home): Thu 2/3 (1:00pm, 2:30pm, 3:45pm, 6:15pm, 9:50pm), Fri 2/4 (1:00pm, 2:30pm, 6:15pm, 9:50pm), Sat 2/5 (1:00pm, 2:30pm, 6:15pm, 9:50pm), Sun 2/6 (1:00pm, 2:30pm, 6:15pm), Mon 2/7 (1:00pm, 2:30pm, 6:15pm, 9:50pm), Tue 2/8 (12:25pm, 2:30pm, 6:15pm, 9:50pm), Wed 2/9 (1:00pm, 2:30pm, 6:15pm, 9:50pm)
+
+    * [Sundown](https://drafthouse.com/raleigh/show/sundown): Mon 2/7 (1:15pm, 3:45pm, 6:15pm, 8:45pm), Tue 2/8 (1:15pm, 3:45pm, 6:15pm, 8:45pm), Wed 2/9 (1:15pm, 3:45pm, 6:15pm, 8:45pm)
+
+    * [The Kings Man](https://drafthouse.com/raleigh/show/the-kings-man): Thu 2/3 (11:30am, 2:45pm, 6:00pm, 9:15pm), Fri 2/4 (11:30am, 2:45pm, 6:00pm, 9:15pm), Sat 2/5 (11:30am, 2:45pm, 6:00pm, 9:15pm), Sun 2/6 (11:30am, 2:45pm, 6:00pm), Mon 2/7 (11:30am, 2:45pm, 6:00pm, 9:15pm), Tue 2/8 (11:30am, 2:45pm, 6:00pm, 9:15pm), Wed 2/9 (11:30am, 2:45pm, 6:00pm, 9:15pm)
+
+    * [Twilight](https://drafthouse.com/raleigh/show/twilight): Thu 2/3 (4:30pm)
+
 ### Tue 2/1 9:19am
 * New movies: Death on the Nile 2022
 
