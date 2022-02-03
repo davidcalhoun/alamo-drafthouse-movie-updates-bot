@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 2/2 5:01pm
+
+* New screenings: 
+    * [Shortbus](https://drafthouse.com/los-angeles/show/shortbus): Wed 2/9 (12:00pm, 7:00pm), Thu 2/10 (8:50pm)
+
 ### Tue 2/1 10:21am
 * New movies: Ghosts of the Ozarks
 
