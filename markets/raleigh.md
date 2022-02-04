@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Thu 2/3 8:12pm
+
+* New screenings: 
+    * [Brunch Screenings Pretty In Pink Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-pretty-in-pink-brunch): Sun 2/6 (11:00am)
+
 ### Tue 2/1 11:35am
 * New movies: Ghosts of the Ozarks
 
