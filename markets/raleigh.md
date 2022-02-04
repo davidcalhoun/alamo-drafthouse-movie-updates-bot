@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 2/4 12:17pm
+* New movies: UFC 271: Adesanya vs Whittaker 2
+
+* New screenings: 
+    * [Ufc 271 Adesanya Vs Whittaker 2](https://drafthouse.com/raleigh/show/ufc-271-adesanya-vs-whittaker-2): Sat 2/12 (10:00pm)
+
 ### Thu 2/3 8:12pm
 
 * New screenings: 
