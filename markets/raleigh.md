@@ -1,6 +1,44 @@
 # raleigh
 
 ## Movie updates
+### Mon 2/7 6:22pm
+* New movies: Blacklight, Drive My Car, Scream 2022, Shapeless
+
+* New screenings: 
+    * [Blacklight](https://drafthouse.com/raleigh/show/blacklight): Thu 2/10 (6:30pm, 9:30pm), Fri 2/11 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Sat 2/12 (1:35pm, 4:30pm, 7:30pm, 10:30pm), Sun 2/13 (1:30pm, 4:30pm, 7:30pm), Mon 2/14 (1:45pm, 4:45pm, 7:30pm, 10:30pm), Tue 2/15 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Wed 2/16 (1:30pm, 4:30pm, 7:30pm, 10:30pm)
+
+    * [Clean](https://drafthouse.com/raleigh/show/clean): Thu 2/10 (4:50pm)
+
+    * [Death On The Nile 2022](https://drafthouse.com/raleigh/show/death-on-the-nile-2022): Thu 2/10 (9:20pm), Fri 2/11 (12:05pm, 5:45pm), Mon 2/14 (12:15pm, 3:30pm, 6:45pm, 10:00pm, 10:15pm), Tue 2/15 (12:05pm, 12:15pm, 3:30pm, 6:45pm, 10:00pm), Wed 2/16 (12:05pm, 12:15pm, 3:30pm, 6:45pm, 10:00pm)
+
+    * [Drive My Car](https://drafthouse.com/raleigh/show/drive-my-car): Thu 2/10 (12:45pm, 4:45pm, 8:45pm), Fri 2/11 (11:45am, 4:00pm, 8:00pm), Sat 2/12 (3:15pm, 5:30pm, 7:15pm), Sun 2/13 (11:15am, 3:20pm, 5:00pm), Mon 2/14 (12:10pm, 3:20pm), Tue 2/15 (11:45am, 4:00pm, 8:00pm), Wed 2/16 (11:45am, 4:00pm, 8:00pm)
+
+    * [Eternal Sunshine Of The Spotless Mind](https://drafthouse.com/raleigh/show/eternal-sunshine-of-the-spotless-mind): Tue 2/15 (9:30pm), Wed 2/16 (9:30pm)
+
+    * [Jackass Forever](https://drafthouse.com/raleigh/show/jackass-forever): Thu 2/10 (1:15pm, 2:15pm, 4:20pm, 7:30pm, 10:15pm), Fri 2/11 (2:00pm, 4:45pm, 7:45pm, 10:30pm), Sat 2/12 (11:45am, 2:00pm, 4:45pm, 7:45pm, 10:30pm), Sun 2/13 (11:45am, 2:00pm, 4:45pm, 7:45pm), Mon 2/14 (1:15pm, 4:00pm, 7:45pm, 10:30pm), Tue 2/15 (2:00pm, 4:45pm, 7:45pm, 10:30pm), Wed 2/16 (2:00pm, 4:45pm, 7:45pm, 10:30pm)
+
+    * [Licorice Pizza](https://drafthouse.com/raleigh/show/licorice-pizza): Thu 2/10 (12:00pm, 3:15pm, 6:45pm, 10:05pm), Fri 2/11 (12:15pm, 3:45pm, 7:00pm, 10:15pm), Sat 2/12 (12:15pm, 3:45pm, 10:00pm), Sun 2/13 (12:15pm, 3:45pm, 7:00pm), Mon 2/14 (12:30pm, 3:45pm, 10:15pm), Tue 2/15 (12:15pm, 3:45pm, 7:00pm, 10:15pm), Wed 2/16 (12:15pm, 3:45pm, 7:00pm, 10:15pm)
+
+    * [Marry Me](https://drafthouse.com/raleigh/show/marry-me): Thu 2/10 (9:45pm), Fri 2/11 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 2/12 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sun 2/13 (12:00pm, 3:00pm, 6:00pm), Mon 2/14 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Tue 2/15 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Wed 2/16 (12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
+    * [Moonfall](https://drafthouse.com/raleigh/show/moonfall): Thu 2/10 (11:45am, 3:00pm, 6:15pm, 9:35pm), Fri 2/11 (11:30am, 2:45pm, 6:00pm, 9:15pm), Sat 2/12 (11:30am, 2:45pm, 6:00pm, 9:15pm), Sun 2/13 (11:30am, 2:45pm, 6:00pm), Mon 2/14 (11:30am, 2:45pm, 7:00pm, 9:45pm), Tue 2/15 (11:30am, 2:45pm, 6:00pm, 9:15pm), Wed 2/16 (11:30am, 2:45pm, 6:00pm, 9:15pm)
+
+    * [Nightmare Alley Vision In Darkness And Light](https://drafthouse.com/raleigh/show/nightmare-alley-vision-in-darkness-and-light): Thu 2/10 (1:20pm)
+
+    * [Scream 2022](https://drafthouse.com/raleigh/show/scream-2022): Fri 2/11 (11:30am, 4:15pm, 7:15pm, 10:15pm), Sat 2/12 (4:00pm, 7:00pm, 10:35pm), Sun 2/13 (4:15pm, 7:15pm), Mon 2/14 (11:30am, 4:15pm, 7:15pm, 10:30pm), Tue 2/15 (11:30am, 4:15pm, 7:15pm, 10:15pm), Wed 2/16 (11:30am, 4:15pm, 7:15pm, 10:15pm)
+
+    * [Shapeless](https://drafthouse.com/raleigh/show/shapeless): Fri 2/11 (9:15pm)
+
+    * [Sing 2](https://drafthouse.com/raleigh/show/sing-2): Thu 2/10 (12:30pm, 3:30pm, 6:30pm), Fri 2/11 (12:30pm, 3:30pm, 6:30pm), Sat 2/12 (12:30pm, 3:30pm, 6:30pm), Sun 2/13 (12:30pm, 3:30pm, 6:30pm), Mon 2/14 (12:20pm, 3:15pm, 6:15pm), Tue 2/15 (12:30pm, 3:30pm, 6:30pm), Wed 2/16 (12:30pm, 3:30pm, 6:30pm)
+
+    * [Special Event Scream 2022 Fan Appreciation Day With Bonus Content](https://drafthouse.com/raleigh/show/special-event-scream-2022-fan-appreciation-day-with-bonus-content): Thu 2/10 (11:55am, 4:00pm, 7:15pm, 10:25pm)
+
+    * [Spider Man No Way Home](https://drafthouse.com/raleigh/show/spider-man-no-way-home): Thu 2/10 (12:50pm, 2:00pm, 3:00pm, 6:00pm, 9:30pm), Fri 2/11 (12:45pm, 2:30pm, 6:15pm, 9:50pm), Sat 2/12 (12:30pm, 2:30pm, 6:15pm, 9:30pm), Sun 2/13 (12:45pm, 2:30pm, 6:15pm), Mon 2/14 (11:45am, 2:30pm, 6:00pm, 9:25pm), Tue 2/15 (12:45pm, 2:30pm, 6:15pm, 9:45pm), Wed 2/16 (12:45pm, 2:30pm, 6:15pm, 9:45pm)
+
+    * [Sundown](https://drafthouse.com/raleigh/show/sundown): Thu 2/10 (12:00pm, 2:30pm), Fri 2/11 (3:15pm), Sat 2/12 (11:10am), Sun 2/13 (11:00am), Mon 2/14 (12:20pm, 2:45pm), Tue 2/15 (3:15pm), Wed 2/16 (3:15pm)
+
+    * [The Kings Man](https://drafthouse.com/raleigh/show/the-kings-man): Fri 2/11 (9:30pm), Sat 2/12 (9:30pm), Sun 2/13 (7:30pm), Mon 2/14 (9:15pm), Tue 2/15 (9:30pm), Wed 2/16 (9:30pm)
+
 ### Fri 2/4 12:17pm
 * New movies: UFC 271: Adesanya vs Whittaker 2
 
