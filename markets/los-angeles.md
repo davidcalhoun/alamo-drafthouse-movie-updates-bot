@@ -1,6 +1,48 @@
 # los-angeles
 
 ## Movie updates
+### Mon 2/7 9:16pm
+* New movies: Being The Ricardos, Belfast, Scream 2022, The Worst Person in the World, Licorice Pizza
+
+* New screenings: 
+    * [Being The Ricardos](https://drafthouse.com/los-angeles/show/being-the-ricardos): Fri 2/11 (5:30pm), Sat 2/12 (10:45am), Sun 2/13 (11:45am), Mon 2/14 (8:00pm), Tue 2/15 (11:45am), Wed 2/16 (11:40am, 1:40pm)
+
+    * [Belfast](https://drafthouse.com/los-angeles/show/belfast): Fri 2/11 (2:50pm), Sat 2/12 (4:15pm), Sun 2/13 (11:30am), Mon 2/14 (11:30am), Tue 2/15 (3:00pm), Wed 2/16 (11:00am)
+
+    * [Bridesmaids Brunch](https://drafthouse.com/los-angeles/show/bridesmaids-brunch): Sat 2/12 (1:00pm)
+
+    * [Death On The Nile 2022](https://drafthouse.com/los-angeles/show/death-on-the-nile-2022): Thu 2/10 (6:30pm, 9:45pm), Fri 2/11 (3:00pm, 5:45pm, 9:00pm), Sat 2/12 (2:30pm, 5:45pm, 9:00pm), Sun 2/13 (2:30pm, 5:45pm), Mon 2/14 (11:00am, 1:15pm, 2:30pm, 4:30pm, 5:45pm, 7:45pm), Tue 2/15 (11:15am, 1:00pm, 2:30pm, 4:15pm, 5:45pm, 7:30pm), Wed 2/16 (11:15am, 1:15pm, 2:30pm, 4:30pm, 5:45pm, 7:45pm)
+
+    * [Drive My Car](https://drafthouse.com/los-angeles/show/drive-my-car): Thu 2/10 (3:30pm, 7:45pm, 9:00pm), Fri 2/11 (3:40pm, 7:45pm), Sat 2/12 (11:00am, 3:30pm, 7:45pm), Sun 2/13 (10:45am, 3:00pm, 6:20pm), Mon 2/14 (11:00am, 3:15pm, 7:20pm), Tue 2/15 (11:15am, 3:30pm, 7:00pm), Wed 2/16 (11:15am, 3:30pm, 7:00pm)
+
+    * [Eternal Sunshine Of The Spotless Mind](https://drafthouse.com/los-angeles/show/eternal-sunshine-of-the-spotless-mind): Wed 2/16 (6:15pm)
+
+    * [Jackass Forever](https://drafthouse.com/los-angeles/show/jackass-forever): Thu 2/10 (2:15pm, 2:45pm, 4:15pm, 7:30pm, 10:15pm), Fri 2/11 (2:40pm, 5:15pm, 8:00pm, 8:45pm, 10:00pm, 11:00pm), Sat 2/12 (11:45am, 2:15pm, 5:15pm, 7:00pm, 8:00pm, 9:15pm, 11:00pm), Sun 2/13 (11:00am, 1:45pm, 4:30pm, 7:15pm), Mon 2/14 (11:45am, 2:15pm, 5:00pm, 7:45pm), Tue 2/15 (11:00am, 3:15pm, 6:15pm), Wed 2/16 (11:45am, 2:30pm, 5:15pm, 8:00pm)
+
+    * [Licorice Pizza](https://drafthouse.com/los-angeles/show/licorice-pizza): Thu 2/10 (3:15pm, 6:45pm, 10:05pm), Fri 2/11 (3:15pm, 6:45pm, 10:15pm), Sat 2/12 (11:15am, 2:35pm, 10:00pm), Sun 2/13 (11:15am, 2:45pm, 6:00pm), Mon 2/14 (11:30am, 2:55pm, 6:15pm), Tue 2/15 (12:00pm, 3:30pm, 6:50pm), Wed 2/16 (12:00pm, 3:30pm, 6:50pm)
+
+    * [Marry Me](https://drafthouse.com/los-angeles/show/marry-me): Fri 2/11 (3:30pm, 6:30pm, 9:30pm), Sat 2/12 (12:15pm, 3:20pm, 6:30pm, 9:30pm), Sun 2/13 (12:10pm, 3:05pm, 6:10pm), Mon 2/14 (12:30pm, 3:30pm, 6:30pm), Tue 2/15 (12:30pm, 3:30pm, 6:30pm), Wed 2/16 (12:30pm, 3:30pm, 6:30pm)
+
+    * [Moonfall](https://drafthouse.com/los-angeles/show/moonfall): Thu 2/10 (3:00pm, 6:15pm, 9:30pm), Fri 2/11 (4:00pm, 7:15pm, 10:25pm), Sat 2/12 (11:45am, 3:45pm, 7:00pm, 10:30pm), Sun 2/13 (11:30am, 3:45pm, 7:00pm), Mon 2/14 (12:40pm, 4:00pm, 7:25pm), Tue 2/15 (12:40pm, 4:00pm, 7:25pm), Wed 2/16 (12:40pm, 4:00pm, 7:25pm)
+
+    * [Nightmare Alley Vision In Darkness And Light](https://drafthouse.com/los-angeles/show/nightmare-alley-vision-in-darkness-and-light): Thu 2/10 (3:45pm)
+
+    * [Parallel Mothers](https://drafthouse.com/los-angeles/show/parallel-mothers): Thu 2/10 (2:30pm)
+
+    * [Scream 2022](https://drafthouse.com/los-angeles/show/scream-2022): Fri 2/11 (4:00pm, 7:00pm, 9:55pm), Sat 2/12 (12:30pm, 3:30pm, 6:45pm, 9:45pm), Sun 2/13 (12:45pm, 4:00pm, 7:00pm), Mon 2/14 (1:15pm, 4:15pm, 7:45pm), Tue 2/15 (12:45pm, 3:55pm, 7:40pm), Wed 2/16 (1:00pm, 4:00pm, 7:40pm)
+
+    * [Special Event Licorice Pizza](https://drafthouse.com/los-angeles/show/special-event-licorice-pizza): Sat 2/12 (6:15pm)
+
+    * [Special Event Scream 2022 Fan Appreciation Day With Bonus Content](https://drafthouse.com/los-angeles/show/special-event-scream-2022-fan-appreciation-day-with-bonus-content): Thu 2/10 (4:00pm, 7:15pm, 10:30pm)
+
+    * [Spider Man No Way Home](https://drafthouse.com/los-angeles/show/spider-man-no-way-home): Thu 2/10 (2:25pm, 6:00pm, 9:35pm), Fri 2/11 (2:15pm, 6:00pm, 9:40pm), Sat 2/12 (12:00pm, 3:00pm, 6:35pm, 10:15pm), Sun 2/13 (12:00pm, 2:45pm, 6:30pm), Mon 2/14 (11:15am, 3:00pm, 6:35pm), Tue 2/15 (11:30am, 3:00pm, 6:35pm), Wed 2/16 (11:25am, 3:00pm, 6:35pm)
+
+    * [Sundown](https://drafthouse.com/los-angeles/show/sundown): Thu 2/10 (4:00pm)
+
+    * [The Tragedy Of Macbeth](https://drafthouse.com/los-angeles/show/the-tragedy-of-macbeth): Thu 2/10 (3:25pm)
+
+    * [The Worst Person In The World](https://drafthouse.com/los-angeles/show/the-worst-person-in-the-world): Thu 2/10 (5:45pm, 7:00pm, 10:15pm), Fri 2/11 (2:30pm, 3:45pm, 6:15pm, 9:25pm), Sat 2/12 (1:00pm, 2:45pm, 4:15pm, 6:00pm, 7:30pm, 9:45pm, 10:45pm), Sun 2/13 (1:00pm, 4:15pm, 7:00pm, 7:45pm), Mon 2/14 (12:25pm, 12:45pm, 3:45pm, 7:00pm), Tue 2/15 (12:00pm, 1:15pm, 1:45pm, 4:35pm, 7:50pm), Wed 2/16 (12:25pm, 3:00pm, 3:45pm, 7:10pm)
+
 ### Wed 2/2 5:01pm
 
 * New screenings: 
