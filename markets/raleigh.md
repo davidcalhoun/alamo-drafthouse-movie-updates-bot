@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Mon 2/7 10:22pm
+* New movies: Licorice Pizza, Dog
+
+* New screenings: 
+    * [Advance Screening Dog](https://drafthouse.com/raleigh/show/advance-screening-dog): Mon 2/14 (7:00pm)
+
+    * [Special Event Licorice Pizza](https://drafthouse.com/raleigh/show/special-event-licorice-pizza): Sat 2/12 (7:00pm)
+
 ### Mon 2/7 6:22pm
 * New movies: Blacklight, Drive My Car, Scream 2022, Shapeless
 
