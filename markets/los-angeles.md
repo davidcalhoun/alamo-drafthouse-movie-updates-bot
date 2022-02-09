@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 2/9 12:21am
+
+* New screenings: 
+    * [Twin Peaks Fire Walk With Me](https://drafthouse.com/los-angeles/show/twin-peaks-fire-walk-with-me): Wed 3/2 (5:45pm)
+
 ### Mon 2/7 9:16pm
 * New movies: Being The Ricardos, Belfast, Scream 2022, The Worst Person in the World, Licorice Pizza
 
