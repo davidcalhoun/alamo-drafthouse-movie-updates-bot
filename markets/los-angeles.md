@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 2/10 9:18am
+* New movies: The Batman, The Batman
+
+* New screenings: 
+    * [Brunch Screenings The Batman Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-the-batman-brunch): Fri 3/4 (10:00am, 11:00am), Sat 3/5 (10:00am, 11:00am), Sun 3/6 (10:00am, 11:00am)
+
+    * [The Batman](https://drafthouse.com/los-angeles/show/the-batman): Thu 3/3 (3:00pm, 3:15pm, 4:00pm, 7:00pm, 7:15pm, 8:00pm, 11:00pm, 11:15pm), Fri 3/4 (12:00am, 12:00pm, 2:00pm, 3:00pm, 4:00pm, 6:00pm, 7:00pm, 8:00pm, 10:00pm, 11:00pm), Sat 3/5 (12:00pm, 2:00pm, 3:00pm, 4:00pm, 6:00pm, 7:00pm, 8:00pm, 10:00pm, 11:00pm), Sun 3/6 (12:00pm, 2:00pm, 3:00pm, 4:00pm, 6:00pm, 7:00pm, 8:00pm, 10:00pm, 11:00pm), Mon 3/7 (11:00am, 12:00pm, 2:00pm, 3:00pm, 4:00pm, 6:00pm, 7:00pm, 8:00pm, 10:00pm), Tue 3/8 (11:00am, 12:00pm, 2:00pm, 3:00pm, 4:00pm, 6:00pm, 7:00pm, 8:00pm, 10:00pm), Wed 3/9 (11:00am, 12:00pm, 2:00pm, 3:00pm, 4:00pm, 6:00pm, 7:00pm, 8:00pm, 10:00pm), Thu 3/10 (2:00pm, 6:00pm, 10:00pm), Fri 3/11 (2:00pm, 6:00pm, 10:00pm), Sat 3/12 (10:00am, 2:00pm, 6:00pm, 10:00pm), Sun 3/13 (10:30am, 2:30pm, 6:30pm), Mon 3/14 (11:00am, 3:00pm, 7:00pm), Tue 3/15 (11:00am, 3:00pm, 7:00pm), Wed 3/16 (11:00am, 3:00pm, 7:00pm), Thu 3/17 (2:00pm, 6:00pm, 10:00pm)
+
 ### Wed 2/9 12:21am
 
 * New screenings: 
