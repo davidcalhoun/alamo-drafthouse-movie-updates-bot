@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Thu 2/10 12:22pm
+* New movies: The Batman, The Batman
+
+* New screenings: 
+    * [Brunch Screenings The Batman Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-the-batman-brunch): Sat 3/5 (10:00am), Sun 3/6 (10:00am)
+
+    * [The Batman](https://drafthouse.com/raleigh/show/the-batman): Thu 3/3 (3:00pm, 3:30pm, 4:00pm, 5:00pm, 7:00pm, 7:30pm, 9:00pm, 10:55pm, 11:30pm), Fri 3/4 (10:00am, 10:30am, 11:00am, 1:00pm, 2:00pm, 2:30pm, 3:00pm, 5:00pm, 6:00pm, 6:30pm, 7:00pm, 9:00pm, 9:55pm, 10:30pm, 11:00pm), Sat 3/5 (10:30am, 11:00am, 1:00pm, 2:00pm, 2:30pm, 3:00pm, 5:00pm, 6:00pm, 6:30pm, 7:00pm, 9:00pm, 9:55pm, 10:30pm, 11:00pm), Sun 3/6 (10:30am, 11:00am, 1:00pm, 2:00pm, 2:30pm, 3:00pm, 5:00pm, 6:00pm, 6:30pm, 7:00pm, 9:00pm, 9:55pm, 10:30pm, 11:00pm), Mon 3/7 (10:00am, 11:00am, 1:00pm, 1:30pm, 2:00pm, 3:00pm, 5:00pm, 5:30pm, 6:00pm, 7:00pm, 9:00pm, 9:30pm, 10:00pm, 11:00pm), Tue 3/8 (10:00am, 11:00am, 1:00pm, 1:30pm, 2:00pm, 3:00pm, 5:00pm, 5:30pm, 6:00pm, 7:00pm, 9:00pm, 9:30pm, 9:55pm, 11:00pm), Wed 3/9 (10:00am, 11:00am, 1:00pm, 1:30pm, 2:00pm, 3:00pm, 5:00pm, 5:30pm, 6:00pm, 7:00pm, 9:00pm, 9:30pm, 9:55pm, 11:00pm), Thu 3/10 (10:00am, 11:00am, 1:00pm, 1:30pm, 2:00pm, 3:00pm, 5:00pm, 5:30pm, 6:00pm, 7:00pm, 9:00pm, 9:30pm, 9:55pm, 11:00pm), Fri 3/11 (10:45am, 2:45pm, 6:45pm, 10:45pm), Sat 3/12 (10:45am, 2:45pm, 6:45pm, 10:45pm), Sun 3/13 (10:45am, 2:45pm, 6:45pm, 10:45pm), Mon 3/14 (10:45am, 2:45pm, 6:45pm, 10:45pm), Tue 3/15 (10:45am, 2:45pm, 6:45pm, 10:45pm), Wed 3/16 (10:45am, 2:45pm, 6:45pm, 10:45pm), Thu 3/17 (10:45am, 2:45pm, 6:45pm, 10:45pm)
+
 ### Mon 2/7 10:22pm
 * New movies: Licorice Pizza, Dog
 
