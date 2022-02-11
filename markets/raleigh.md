@@ -1,6 +1,48 @@
 # raleigh
 
 ## Movie updates
+### Fri 2/11 1:25pm
+* New movies: The Big Lebowski, Dazed and Confused, Monty Python's Life of Brian, Hot Fuzz, Josie And The Pussycats, Prince: Sign O' The Times, Labyrinth, Popstar: Never Stop Never Stopping, Army of Darkness, Evil Dead II, Mandy, North by Northwest, Star Trek: First Contact, Streets of Fire, The Evil Dead 1981, The Lighthouse, The Song Remains the Same, The Ten Commandments, Vertigo
+
+* New screenings: 
+    * [Army Of Darkness](https://drafthouse.com/raleigh/show/army-of-darkness): Mon 3/28 (7:45pm)
+
+    * [Evil Dead Ii](https://drafthouse.com/raleigh/show/evil-dead-ii): Mon 3/21 (7:45pm)
+
+    * [Mandy](https://drafthouse.com/raleigh/show/mandy): Sun 4/17 (10:00pm)
+
+    * [Monty Pythons Life Of Brian](https://drafthouse.com/raleigh/show/monty-pythons-life-of-brian): Sat 4/16 (2:45pm), Tue 4/19 (6:45pm)
+
+    * [Movie Party Hot Fuzz](https://drafthouse.com/raleigh/show/movie-party-hot-fuzz): Fri 4/1 (7:15pm)
+
+    * [Movie Party Josie And The Pussycats](https://drafthouse.com/raleigh/show/movie-party-josie-and-the-pussycats): Tue 3/29 (7:30pm)
+
+    * [Movie Party The Big Lebowski](https://drafthouse.com/raleigh/show/movie-party-the-big-lebowski): Sun 4/10 (7:30pm), Tue 4/12 (7:30pm), Wed 4/20 (7:30pm)
+
+    * [North By Northwest](https://drafthouse.com/raleigh/show/north-by-northwest): Sun 3/20 (3:00pm)
+
+    * [Prince Sign O The Times](https://drafthouse.com/raleigh/show/prince-sign-o-the-times): Mon 4/4 (6:45pm)
+
+    * [Quote Along Labyrinth](https://drafthouse.com/raleigh/show/quote-along-labyrinth): Tue 3/15 (7:30pm)
+
+    * [Special Event Dazed And Confused Cast Reunion](https://drafthouse.com/raleigh/show/special-event-dazed-and-confused-cast-reunion): Sun 4/17 (6:45pm), Wed 4/20 (4:20pm)
+
+    * [Special Event Popstar Never Stop Never Stopping](https://drafthouse.com/raleigh/show/special-event-popstar-never-stop-never-stopping): Tue 3/22 (7:30pm)
+
+    * [Star Trek First Contact](https://drafthouse.com/raleigh/show/star-trek-first-contact): Tue 4/5 (6:45pm)
+
+    * [Streets Of Fire](https://drafthouse.com/raleigh/show/streets-of-fire): Sun 4/3 (6:45pm)
+
+    * [The Evil Dead 1981](https://drafthouse.com/raleigh/show/the-evil-dead-1981): Mon 3/14 (7:45pm)
+
+    * [The Lighthouse](https://drafthouse.com/raleigh/show/the-lighthouse): Mon 4/11 (6:45pm)
+
+    * [The Song Remains The Same](https://drafthouse.com/raleigh/show/the-song-remains-the-same): Wed 3/23 (9:45pm)
+
+    * [The Ten Commandments](https://drafthouse.com/raleigh/show/the-ten-commandments): Sun 4/17 (2:15pm)
+
+    * [Vertigo](https://drafthouse.com/raleigh/show/vertigo): Sun 4/24 (1:45pm)
+
 ### Fri 2/11 12:21pm
 * New movies: A Hard Day's Night, Almost Famous, Hedwig and the Angry Inch, The Twilight Saga: Eclipse, The Twilight Saga: New Moon, Rock N' Roll High School
 
