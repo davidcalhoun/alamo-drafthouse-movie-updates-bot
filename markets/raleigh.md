@@ -1,6 +1,22 @@
 # raleigh
 
 ## Movie updates
+### Fri 2/11 12:21pm
+* New movies: A Hard Day's Night, Almost Famous, Hedwig and the Angry Inch, The Twilight Saga: Eclipse, The Twilight Saga: New Moon, Rock N' Roll High School
+
+* New screenings: 
+    * [Brunch Screenings A Hard Days Night Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-a-hard-days-night-brunch): Sat 4/2 (11:00am)
+
+    * [Brunch Screenings Almost Famous](https://drafthouse.com/raleigh/show/brunch-screenings-almost-famous): Sat 3/12 (11:00am)
+
+    * [Brunch Screenings Hedwig And The Angry Inch Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-hedwig-and-the-angry-inch-brunch): Sat 4/9 (11:00am)
+
+    * [Brunch Screenings The Twilight Saga Eclipse Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-the-twilight-saga-eclipse-brunch): Sat 4/30 (11:00am)
+
+    * [Brunch Screenings The Twilight Saga New Moon Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-the-twilight-saga-new-moon-brunch): Sat 3/19 (11:00am)
+
+    * [Rock N Roll High School](https://drafthouse.com/raleigh/show/rock-n-roll-high-school): Mon 3/7 (6:45pm)
+
 ### Thu 2/10 12:22pm
 * New movies: The Batman, The Batman
 
