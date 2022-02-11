@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Thu 2/10 6:32pm
+
+* New screenings: 
+    * [Drive My Car](https://drafthouse.com/los-angeles/show/drive-my-car): Sun 2/13 (5:45pm)
+
+    * [The Worst Person In The World](https://drafthouse.com/los-angeles/show/the-worst-person-in-the-world): Fri 2/11 (10:00pm), Mon 2/14 (8:00pm)
+
 ### Thu 2/10 9:18am
 * New movies: The Batman, The Batman
 
