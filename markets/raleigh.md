@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 2/11 3:22pm
+* New movies: Army of Darkness, Evil Dead II, The Evil Dead 1981
+
+
+
 ### Fri 2/11 1:25pm
 * New movies: The Big Lebowski, Dazed and Confused, Monty Python's Life of Brian, Hot Fuzz, Josie And The Pussycats, Prince: Sign O' The Times, Labyrinth, Popstar: Never Stop Never Stopping, Army of Darkness, Evil Dead II, Mandy, North by Northwest, Star Trek: First Contact, Streets of Fire, The Evil Dead 1981, The Lighthouse, The Song Remains the Same, The Ten Commandments, Vertigo
 
