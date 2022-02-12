@@ -1,6 +1,76 @@
 # los-angeles
 
 ## Movie updates
+### Sat 2/12 3:14am
+* New movies: Popstar: Never Stop Never Stopping, 2001: A Space Odyssey, Almost Famous, Hedwig and the Angry Inch, Rock N' Roll High School, Son of the White Mare, Harry Potter and the Deathly Hallows Double Feature, Hot Fuzz, Josie And The Pussycats, The Big Lebowski, Nausicaa of the Valley of the Wind Subtitled, Prince: Sign O' The Times, Labyrinth, A Hard Day's Night, La Bamba, The Twilight Saga: Eclipse, The Twilight Saga: New Moon, Army of Darkness, Evil Dead II, The Evil Dead 1981, Jesus Christ Superstar, Mandy, North by Northwest, Star Trek: First Contact, Streets of Fire, The Last Temptation of Christ, The Lighthouse, The Secret Life of Plants, The Song Remains the Same, The Ten Commandments, Vertigo
+
+* New screenings: 
+    * [2001 A Space Odyssey](https://drafthouse.com/los-angeles/show/2001-a-space-odyssey): Sun 4/10 (5:30pm), Tue 4/19 (5:45pm)
+
+    * [Brunch Screenings A Hard Days Night Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-a-hard-days-night-brunch): Sat 4/2 (11:30am)
+
+    * [Brunch Screenings Almost Famous](https://drafthouse.com/los-angeles/show/brunch-screenings-almost-famous): Sat 3/12 (1:15pm), Sun 3/13 (11:30am)
+
+    * [Brunch Screenings Hedwig And The Angry Inch Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-hedwig-and-the-angry-inch-brunch): Sat 4/9 (11:30am), Sun 4/10 (11:30am)
+
+    * [Brunch Screenings Kikis Delivery Service Dubbed Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-kikis-delivery-service-dubbed-brunch): Sat 4/23 (11:30am)
+
+    * [Brunch Screenings La Bamba Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-la-bamba-brunch): Sat 3/26 (11:30am)
+
+    * [Brunch Screenings Nausicaa Of The Valley Of The Wind Dubbed Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-nausicaa-of-the-valley-of-the-wind-dubbed-brunch): Sat 3/26 (2:30pm)
+
+    * [Brunch Screenings The Twilight Saga Eclipse Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-the-twilight-saga-eclipse-brunch): Sat 4/30 (11:30am)
+
+    * [Brunch Screenings The Twilight Saga New Moon Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-the-twilight-saga-new-moon-brunch): Sat 3/19 (11:15am)
+
+    * [Graveyard Shift Army Of Darkness](https://drafthouse.com/los-angeles/show/graveyard-shift-army-of-darkness): Mon 3/28 (5:45pm)
+
+    * [Graveyard Shift Evil Dead Ii](https://drafthouse.com/los-angeles/show/graveyard-shift-evil-dead-ii): Mon 3/21 (5:45pm)
+
+    * [Graveyard Shift The Evil Dead 1981](https://drafthouse.com/los-angeles/show/graveyard-shift-the-evil-dead-1981): Mon 3/14 (5:30pm)
+
+    * [Harry Potter And The Deathly Hallows Double Feature](https://drafthouse.com/los-angeles/show/harry-potter-and-the-deathly-hallows-double-feature): Sun 4/3 (11:45am)
+
+    * [Jesus Christ Superstar](https://drafthouse.com/los-angeles/show/jesus-christ-superstar): Sat 4/16 (2:45pm)
+
+    * [Mandy](https://drafthouse.com/los-angeles/show/mandy): Wed 4/20 (5:45pm)
+
+    * [Movie Party Hot Fuzz](https://drafthouse.com/los-angeles/show/movie-party-hot-fuzz): Sun 5/1 (7:30pm)
+
+    * [Movie Party Josie And The Pussycats](https://drafthouse.com/los-angeles/show/movie-party-josie-and-the-pussycats): Tue 3/29 (7:30pm)
+
+    * [Movie Party The Big Lebowski](https://drafthouse.com/los-angeles/show/movie-party-the-big-lebowski): Tue 4/12 (7:20pm)
+
+    * [Nausicaa Of The Valley Of The Wind Subtitled](https://drafthouse.com/los-angeles/show/nausicaa-of-the-valley-of-the-wind-subtitled): Wed 3/30 (5:45pm)
+
+    * [North By Northwest](https://drafthouse.com/los-angeles/show/north-by-northwest): Sun 3/20 (2:40pm)
+
+    * [Prince Sign O The Times](https://drafthouse.com/los-angeles/show/prince-sign-o-the-times): Mon 4/4 (5:45pm)
+
+    * [Quote Along Labyrinth](https://drafthouse.com/los-angeles/show/quote-along-labyrinth): Tue 3/15 (7:30pm)
+
+    * [Rock N Roll High School](https://drafthouse.com/los-angeles/show/rock-n-roll-high-school): Mon 3/7 (5:30pm), Tue 3/8 (9:15pm)
+
+    * [Son Of The White Mare](https://drafthouse.com/los-angeles/show/son-of-the-white-mare): Tue 3/15 (8:15pm), Wed 3/16 (8:15pm)
+
+    * [Special Event Popstar Never Stop Never Stopping](https://drafthouse.com/los-angeles/show/special-event-popstar-never-stop-never-stopping): Sat 3/19 (5:45pm), Tue 3/22 (5:45pm)
+
+    * [Star Trek First Contact](https://drafthouse.com/los-angeles/show/star-trek-first-contact): Wed 4/6 (5:45pm)
+
+    * [Streets Of Fire](https://drafthouse.com/los-angeles/show/streets-of-fire): Sun 4/3 (5:45pm)
+
+    * [The Last Temptation Of Christ](https://drafthouse.com/los-angeles/show/the-last-temptation-of-christ): Sun 4/17 (7:15pm)
+
+    * [The Lighthouse](https://drafthouse.com/los-angeles/show/the-lighthouse): Mon 4/11 (5:45pm)
+
+    * [The Secret Life Of Plants](https://drafthouse.com/los-angeles/show/the-secret-life-of-plants): Wed 4/20 (8:15pm)
+
+    * [The Song Remains The Same](https://drafthouse.com/los-angeles/show/the-song-remains-the-same): Wed 3/23 (8:15pm)
+
+    * [The Ten Commandments](https://drafthouse.com/los-angeles/show/the-ten-commandments): Sun 4/17 (2:30pm)
+
+    * [Vertigo](https://drafthouse.com/los-angeles/show/vertigo): Sun 4/24 (2:00pm)
+
 ### Thu 2/10 6:32pm
 
 * New screenings: 
