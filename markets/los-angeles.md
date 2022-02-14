@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 2/14 12:21am
+* New movies: Popstar: Never Stop Never Stopping
+
+
+
 ### Sat 2/12 3:14am
 * New movies: Popstar: Never Stop Never Stopping, 2001: A Space Odyssey, Almost Famous, Hedwig and the Angry Inch, Rock N' Roll High School, Son of the White Mare, Harry Potter and the Deathly Hallows Double Feature, Hot Fuzz, Josie And The Pussycats, The Big Lebowski, Nausicaa of the Valley of the Wind Subtitled, Prince: Sign O' The Times, Labyrinth, A Hard Day's Night, La Bamba, The Twilight Saga: Eclipse, The Twilight Saga: New Moon, Army of Darkness, Evil Dead II, The Evil Dead 1981, Jesus Christ Superstar, Mandy, North by Northwest, Star Trek: First Contact, Streets of Fire, The Last Temptation of Christ, The Lighthouse, The Secret Life of Plants, The Song Remains the Same, The Ten Commandments, Vertigo
 
