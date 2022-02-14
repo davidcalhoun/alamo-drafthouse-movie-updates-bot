@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 2/14 3:26am
+* New movies: Popstar: Never Stop Never Stopping
+
+
+
 ### Fri 2/11 3:22pm
 * New movies: Army of Darkness, Evil Dead II, The Evil Dead 1981
 
