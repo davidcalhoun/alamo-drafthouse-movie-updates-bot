@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 2/15 10:21am
+* New movies: Selena
+
+* New screenings: 
+    * [Movie Party Selena](https://drafthouse.com/los-angeles/show/movie-party-selena): Wed 4/13 (7:30pm), Sat 4/16 (12:00pm)
+
 ### Mon 2/14 12:21am
 * New movies: Popstar: Never Stop Never Stopping
 
