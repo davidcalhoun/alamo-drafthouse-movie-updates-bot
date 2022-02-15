@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 2/15 1:26pm
+* New movies: Selena
+
+* New screenings: 
+    * [Movie Party Selena](https://drafthouse.com/raleigh/show/movie-party-selena): Wed 4/13 (7:15pm), Sat 4/16 (12:00pm)
+
 ### Mon 2/14 9:37pm
 * New movies: Dazed and Confused
 
