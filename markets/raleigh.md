@@ -1,6 +1,44 @@
 # raleigh
 
 ## Movie updates
+### Mon 2/14 8:32pm
+* New movies: Dog, The Cursed, West Side Story 2021, The Worst Person in the World, King Knight
+
+* New screenings: 
+    * [Blacklight](https://drafthouse.com/raleigh/show/blacklight): Thu 2/17 (1:50pm, 4:45pm, 7:45pm, 10:45pm), Fri 2/18 (2:45pm), Sat 2/19 (10:55am, 8:45pm), Sun 2/20 (11:35am), Mon 2/21 (12:35pm, 9:45pm), Tue 2/22 (4:50pm, 10:45pm), Wed 2/23 (4:50pm, 10:45pm)
+
+    * [Death On The Nile 2022](https://drafthouse.com/raleigh/show/death-on-the-nile-2022): Thu 2/17 (12:00pm, 1:20pm, 3:15pm, 6:30pm, 9:45pm), Fri 2/18 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Sat 2/19 (11:45am, 3:30pm, 6:30pm, 9:45pm), Sun 2/20 (12:00pm, 3:15pm, 6:30pm), Mon 2/21 (12:00pm, 3:30pm, 6:30pm, 10:15pm), Tue 2/22 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Wed 2/23 (12:00pm, 3:15pm, 6:30pm, 9:45pm)
+
+    * [Dog](https://drafthouse.com/raleigh/show/dog): Thu 2/17 (4:30pm, 7:30pm, 10:30pm), Fri 2/18 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Sat 2/19 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Sun 2/20 (1:30pm, 4:30pm, 7:30pm), Mon 2/21 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Tue 2/22 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Wed 2/23 (1:30pm, 4:30pm, 7:30pm, 10:30pm)
+
+    * [Drive My Car](https://drafthouse.com/raleigh/show/drive-my-car): Thu 2/17 (3:30pm, 9:10pm), Fri 2/18 (3:30pm), Sat 2/19 (9:00pm), Sun 2/20 (3:15pm, 5:45pm), Mon 2/21 (3:30pm), Tue 2/22 (9:00pm), Wed 2/23 (9:00pm)
+
+    * [Jackass Forever](https://drafthouse.com/raleigh/show/jackass-forever): Thu 2/17 (12:00pm, 1:00pm, 3:00pm, 6:45pm, 9:30pm), Fri 2/18 (12:05pm, 3:45pm, 6:45pm, 9:30pm), Sat 2/19 (12:45pm, 3:30pm, 6:45pm, 9:30pm), Sun 2/20 (12:45pm, 3:45pm, 6:45pm), Mon 2/21 (1:00pm, 3:45pm, 6:45pm, 9:40pm), Tue 2/22 (12:45pm, 3:45pm, 6:45pm, 9:30pm), Wed 2/23 (12:45pm, 3:45pm, 6:45pm, 9:30pm)
+
+    * [King Knight](https://drafthouse.com/raleigh/show/king-knight): Fri 2/18 (9:00pm)
+
+    * [Licorice Pizza](https://drafthouse.com/raleigh/show/licorice-pizza): Thu 2/17 (1:00pm, 5:45pm), Fri 2/18 (2:30pm, 5:45pm), Sat 2/19 (5:45pm), Sun 2/20 (2:30pm), Mon 2/21 (2:30pm, 9:30pm), Tue 2/22 (2:30pm, 5:45pm), Wed 2/23 (2:30pm, 5:45pm)
+
+    * [Marry Me](https://drafthouse.com/raleigh/show/marry-me): Thu 2/17 (12:00pm, 2:45pm, 6:00pm, 9:00pm), Fri 2/18 (12:00pm, 3:15pm, 6:15pm, 9:15pm), Sat 2/19 (11:45am, 2:45pm, 6:15pm, 9:15pm), Sun 2/20 (12:00pm, 3:00pm, 6:00pm), Mon 2/21 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Tue 2/22 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Wed 2/23 (12:15pm, 3:15pm, 6:15pm, 9:15pm)
+
+    * [Moonfall](https://drafthouse.com/raleigh/show/moonfall): Thu 2/17 (12:00pm)
+
+    * [Scream 2022](https://drafthouse.com/raleigh/show/scream-2022): Thu 2/17 (12:35pm, 4:15pm, 7:15pm, 10:15pm), Fri 2/18 (7:45pm, 10:45pm), Sat 2/19 (7:15pm, 10:15pm), Sun 2/20 (7:15pm), Mon 2/21 (7:45pm, 10:45pm), Tue 2/22 (7:45pm, 9:15pm), Wed 2/23 (7:45pm, 9:15pm)
+
+    * [Sing 2](https://drafthouse.com/raleigh/show/sing-2): Thu 2/17 (2:30pm)
+
+    * [Spider Man No Way Home](https://drafthouse.com/raleigh/show/spider-man-no-way-home): Thu 2/17 (12:15pm, 3:15pm, 6:15pm, 9:45pm), Fri 2/18 (12:00pm, 2:15pm, 6:00pm, 9:30pm), Sat 2/19 (12:00pm, 3:15pm, 6:00pm, 9:30pm), Sun 2/20 (11:10am, 2:40pm, 6:15pm), Mon 2/21 (12:30pm, 4:15pm, 6:00pm, 9:30pm), Tue 2/22 (1:15pm, 2:15pm, 6:00pm, 9:30pm), Wed 2/23 (1:15pm, 2:15pm, 6:00pm, 9:30pm)
+
+    * [Sundown](https://drafthouse.com/raleigh/show/sundown): Thu 2/17 (3:45pm)
+
+    * [The Cursed](https://drafthouse.com/raleigh/show/the-cursed): Thu 2/17 (7:45pm, 10:45pm), Fri 2/18 (1:45pm, 4:45pm, 7:45pm, 10:45pm), Sat 2/19 (1:45pm, 4:45pm, 7:45pm, 10:45pm), Sun 2/20 (1:45pm, 4:45pm, 7:45pm), Mon 2/21 (12:45pm, 3:45pm, 7:45pm, 10:45pm), Tue 2/22 (1:45pm, 4:45pm, 7:45pm, 10:45pm), Wed 2/23 (1:45pm, 4:45pm, 7:45pm, 10:45pm)
+
+    * [The Worst Person In The World](https://drafthouse.com/raleigh/show/the-worst-person-in-the-world): Thu 2/17 (5:30pm, 8:45pm), Fri 2/18 (12:30pm, 4:00pm, 7:15pm, 10:30pm), Sat 2/19 (12:30pm, 4:00pm, 7:15pm, 10:30pm), Sun 2/20 (12:30pm, 4:00pm, 7:15pm), Mon 2/21 (12:30pm, 4:00pm, 7:15pm, 10:30pm), Tue 2/22 (12:30pm, 4:00pm, 7:15pm, 10:30pm), Wed 2/23 (12:30pm, 4:00pm, 7:15pm, 10:30pm)
+
+    * [Uncharted](https://drafthouse.com/raleigh/show/uncharted): Fri 2/18 (9:15pm), Mon 2/21 (12:45pm, 3:45pm, 6:45pm, 10:00pm), Tue 2/22 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Wed 2/23 (1:00pm, 4:00pm, 7:00pm, 10:00pm)
+
+    * [West Side Story 2021](https://drafthouse.com/raleigh/show/west-side-story-2021): Fri 2/18 (12:15pm, 5:35pm), Sat 2/19 (11:30am, 5:00pm), Sun 2/20 (11:30am, 5:00pm), Mon 2/21 (2:20pm, 5:45pm), Tue 2/22 (1:45pm, 5:30pm), Wed 2/23 (1:45pm, 5:30pm)
+
 ### Mon 2/14 3:26am
 * New movies: Popstar: Never Stop Never Stopping
 
