@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 2/14 9:37pm
+* New movies: Dazed and Confused
+
+
+
 ### Mon 2/14 8:32pm
 * New movies: Dog, The Cursed, West Side Story 2021, The Worst Person in the World, King Knight
 
