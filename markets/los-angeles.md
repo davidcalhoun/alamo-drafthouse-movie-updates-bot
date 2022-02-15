@@ -1,6 +1,46 @@
 # los-angeles
 
 ## Movie updates
+### Tue 2/15 11:14am
+* New movies: West Side Story 2021, Dog, The Cursed, Ted K, But I'm a Cheerleader
+
+* New screenings: 
+    * [Being The Ricardos](https://drafthouse.com/los-angeles/show/being-the-ricardos): Thu 2/17 (3:00pm)
+
+    * [But Im A Cheerleader](https://drafthouse.com/los-angeles/show/but-im-a-cheerleader): Tue 2/22 (7:00pm)
+
+    * [Death On The Nile 2022](https://drafthouse.com/los-angeles/show/death-on-the-nile-2022): Thu 2/17 (2:15pm, 3:15pm, 6:30pm, 9:45pm, 10:45pm), Fri 2/18 (3:15pm, 6:30pm, 9:45pm), Sat 2/19 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Sun 2/20 (11:45am, 3:15pm, 6:35pm), Mon 2/21 (11:45am, 3:15pm, 6:30pm), Tue 2/22 (11:45am, 3:15pm, 6:30pm), Wed 2/23 (11:45am, 3:15pm, 6:30pm)
+
+    * [Dog](https://drafthouse.com/los-angeles/show/dog): Thu 2/17 (5:45pm, 8:35pm), Fri 2/18 (3:45pm, 6:45pm, 9:35pm), Sat 2/19 (12:15pm, 3:45pm, 6:45pm, 9:35pm), Sun 2/20 (12:15pm, 3:45pm, 6:45pm), Mon 2/21 (12:15pm, 3:45pm, 6:45pm), Tue 2/22 (12:15pm, 3:45pm, 6:45pm), Wed 2/23 (12:15pm, 3:45pm, 7:30pm)
+
+    * [Drive My Car](https://drafthouse.com/los-angeles/show/drive-my-car): Thu 2/17 (4:15pm, 6:30pm, 8:20pm), Fri 2/18 (3:30pm, 8:15pm), Sat 2/19 (12:30pm, 4:45pm, 9:00pm), Sun 2/20 (10:50am, 2:55pm, 6:30pm), Mon 2/21 (11:00am, 1:30pm, 5:45pm), Tue 2/22 (11:10am, 1:30pm, 5:45pm), Wed 2/23 (11:00am, 1:30pm, 5:45pm)
+
+    * [Harry Potter And The Prisoner Of Azkaban](https://drafthouse.com/los-angeles/show/harry-potter-and-the-prisoner-of-azkaban): Sat 2/19 (5:45pm), Mon 2/21 (2:45pm), Wed 2/23 (2:45pm)
+
+    * [Jackass Forever](https://drafthouse.com/los-angeles/show/jackass-forever): Thu 2/17 (2:30pm, 5:15pm, 8:00pm, 9:45pm, 11:00pm), Fri 2/18 (2:30pm, 5:15pm, 8:00pm, 11:00pm), Sat 2/19 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:15pm), Sun 2/20 (11:30am, 2:45pm, 5:30pm, 8:15pm), Mon 2/21 (12:00pm, 2:45pm, 5:30pm, 8:15pm), Tue 2/22 (12:00pm, 2:45pm, 5:30pm, 8:15pm), Wed 2/23 (12:00pm, 2:45pm, 5:30pm, 8:15pm)
+
+    * [Licorice Pizza](https://drafthouse.com/los-angeles/show/licorice-pizza): Thu 2/17 (2:55pm, 6:15pm, 9:35pm), Fri 2/18 (2:55pm, 6:15pm, 9:45pm), Sat 2/19 (11:30am, 2:55pm, 6:15pm, 9:45pm), Sun 2/20 (11:30am, 2:55pm, 6:15pm), Mon 2/21 (11:30am, 2:55pm, 6:15pm), Tue 2/22 (11:30am, 2:55pm, 6:15pm), Wed 2/23 (11:30am, 2:55pm, 6:15pm)
+
+    * [Marry Me](https://drafthouse.com/los-angeles/show/marry-me): Thu 2/17 (4:15pm, 7:30pm, 10:30pm), Fri 2/18 (4:15pm, 7:30pm, 10:45pm), Sat 2/19 (1:15pm, 4:15pm, 7:30pm, 10:30pm), Sun 2/20 (10:45am, 1:45pm, 4:45pm, 7:45pm), Mon 2/21 (10:45am, 1:45pm, 4:45pm, 7:45pm), Tue 2/22 (10:45am, 1:45pm, 4:45pm, 7:45pm), Wed 2/23 (10:45am, 1:45pm, 4:45pm, 7:45pm)
+
+    * [Moonfall](https://drafthouse.com/los-angeles/show/moonfall): Thu 2/17 (3:30pm)
+
+    * [Scream 2022](https://drafthouse.com/los-angeles/show/scream-2022): Thu 2/17 (4:30pm)
+
+    * [Spider Man No Way Home](https://drafthouse.com/los-angeles/show/spider-man-no-way-home): Thu 2/17 (3:40pm)
+
+    * [Ted K](https://drafthouse.com/los-angeles/show/ted-k): Fri 2/18 (3:45pm, 7:15pm, 10:30pm), Sat 2/19 (12:30pm, 3:05pm, 6:15pm, 9:20pm), Sun 2/20 (12:30pm, 3:25pm, 7:05pm), Mon 2/21 (12:30pm, 3:05pm, 6:20pm), Tue 2/22 (12:30pm, 3:05pm, 6:20pm), Wed 2/23 (12:30pm, 3:05pm, 6:20pm)
+
+    * [The Birds](https://drafthouse.com/los-angeles/show/the-birds): Mon 2/21 (3:30pm)
+
+    * [The Cursed](https://drafthouse.com/los-angeles/show/the-cursed): Thu 2/17 (7:45pm, 10:45pm), Fri 2/18 (4:30pm, 7:45pm, 10:45pm), Sat 2/19 (1:30pm, 4:30pm, 7:45pm, 10:45pm), Sun 2/20 (12:45pm, 4:15pm, 7:30pm), Mon 2/21 (12:45pm, 4:15pm, 7:15pm), Tue 2/22 (12:45pm, 4:15pm, 7:15pm), Wed 2/23 (12:45pm, 4:15pm, 7:15pm)
+
+    * [The Worst Person In The World](https://drafthouse.com/los-angeles/show/the-worst-person-in-the-world): Thu 2/17 (2:45pm, 6:00pm, 10:15pm), Fri 2/18 (2:40pm, 6:00pm, 9:15pm), Sat 2/19 (11:15am, 2:40pm, 6:00pm, 9:15pm), Sun 2/20 (11:15am, 2:30pm, 6:00pm), Mon 2/21 (11:15am, 2:30pm, 6:00pm), Tue 2/22 (11:15am, 2:30pm, 6:00pm), Wed 2/23 (11:15am, 2:30pm, 6:00pm)
+
+    * [Uncharted](https://drafthouse.com/los-angeles/show/uncharted): Thu 2/17 (6:45pm, 9:15pm, 10:00pm), Fri 2/18 (2:15pm, 5:30pm, 8:30pm), Mon 2/21 (1:00pm, 4:00pm, 7:15pm), Tue 2/22 (1:00pm, 3:00pm, 4:00pm, 7:15pm), Wed 2/23 (1:00pm, 4:00pm, 6:45pm, 7:15pm)
+
+    * [West Side Story 2021](https://drafthouse.com/los-angeles/show/west-side-story-2021): Fri 2/18 (3:10pm, 10:15pm), Sat 2/19 (12:45pm, 9:30pm), Sun 2/20 (11:00am, 2:15pm), Mon 2/21 (11:00am, 6:15pm), Tue 2/22 (11:00am, 3:15pm), Wed 2/23 (11:00am, 3:30pm, 6:15pm)
+
 ### Tue 2/15 10:21am
 * New movies: Selena
 
