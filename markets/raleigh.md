@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Thu 2/17 4:20pm
+
+* New screenings: 
+    * [Twin Peaks Fire Walk With Me](https://drafthouse.com/raleigh/show/twin-peaks-fire-walk-with-me): Mon 2/21 (9:45pm)
+
 ### Tue 2/15 1:26pm
 * New movies: Selena
 
