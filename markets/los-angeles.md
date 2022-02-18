@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Fri 2/18 12:18pm
+
+* New screenings: 
+    * [Jackass Forever](https://drafthouse.com/los-angeles/show/jackass-forever): Sat 2/19 (7:30pm)
+
+    * [Uncharted](https://drafthouse.com/los-angeles/show/uncharted): Sat 2/19 (4:30pm)
+
 ### Tue 2/15 11:14am
 * New movies: West Side Story 2021, Dog, The Cursed, Ted K, But I'm a Cheerleader
 
