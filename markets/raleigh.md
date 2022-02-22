@@ -1,6 +1,35 @@
 # raleigh
 
 ## Movie updates
+### Tue 2/22 6:23pm
+
+* New screenings: 
+    * [2022 Oscar Nominated Shorts Animation](https://drafthouse.com/raleigh/show/2022-oscar-nominated-shorts-animation): Sun 2/27 (2:00pm, 7:45pm)
+
+    * [2022 Oscar Nominated Shorts Live Action](https://drafthouse.com/raleigh/show/2022-oscar-nominated-shorts-live-action): Sun 2/27 (10:45am)
+
+    * [Cyrano](https://drafthouse.com/raleigh/show/cyrano): Sun 2/27 (12:45pm, 4:00pm, 7:15pm)
+
+    * [Death On The Nile 2022](https://drafthouse.com/raleigh/show/death-on-the-nile-2022): Sun 2/27 (11:15am, 2:40pm, 6:00pm)
+
+    * [Dog](https://drafthouse.com/raleigh/show/dog): Sun 2/27 (12:00pm, 3:30pm, 6:30pm)
+
+    * [Goodbye Dragon Inn](https://drafthouse.com/raleigh/show/goodbye-dragon-inn): Sun 2/27 (5:00pm)
+
+    * [Jackass Forever](https://drafthouse.com/raleigh/show/jackass-forever): Sun 2/27 (1:00pm, 3:45pm, 6:45pm)
+
+    * [Marry Me](https://drafthouse.com/raleigh/show/marry-me): Sun 2/27 (10:45am)
+
+    * [Spider Man No Way Home](https://drafthouse.com/raleigh/show/spider-man-no-way-home): Sun 2/27 (12:00pm, 3:00pm, 6:15pm)
+
+    * [Studio 666](https://drafthouse.com/raleigh/show/studio-666): Sun 2/27 (1:30pm, 4:15pm, 7:00pm)
+
+    * [The Cursed](https://drafthouse.com/raleigh/show/the-cursed): Sun 2/27 (1:45pm, 4:45pm, 7:45pm)
+
+    * [The Worst Person In The World](https://drafthouse.com/raleigh/show/the-worst-person-in-the-world): Sun 2/27 (12:45pm, 4:00pm, 7:15pm)
+
+    * [Uncharted](https://drafthouse.com/raleigh/show/uncharted): Sun 2/27 (12:15pm, 3:30pm, 6:15pm)
+
 ### Tue 2/22 3:23pm
 * New movies: Cyrano, Studio 666, 2022 Oscar Nominated Shorts: Animation, 2022 Oscar Nominated Shorts: Live Action, Goodbye, Dragon Inn
 
