@@ -1,6 +1,36 @@
 # los-angeles
 
 ## Movie updates
+### Tue 2/22 3:19pm
+* New movies: Studio 666, Cyrano, 2022 Oscar Nominated Shorts: Live Action, 2022 Oscar Nominated Shorts: Animation
+
+* New screenings: 
+    * [2022 Oscar Nominated Shorts Animation](https://drafthouse.com/los-angeles/show/2022-oscar-nominated-shorts-animation): Fri 2/25 (2:45pm), Sat 2/26 (10:50am, 6:00pm, 10:15pm), Mon 2/28 (10:50am, 4:30pm), Tue 3/1 (4:35pm), Wed 3/2 (10:50am, 6:00pm)
+
+    * [2022 Oscar Nominated Shorts Live Action](https://drafthouse.com/los-angeles/show/2022-oscar-nominated-shorts-live-action): Fri 2/25 (5:45pm, 9:00pm), Sat 2/26 (2:50pm, 8:45pm), Mon 2/28 (1:00pm, 4:15pm, 7:20pm), Tue 3/1 (2:45pm, 7:20pm), Wed 3/2 (11:15am, 2:30pm)
+
+    * [Brunch Screenings Princess Mononoke Dubbed Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-princess-mononoke-dubbed-brunch): Fri 2/25 (9:50pm)
+
+    * [Cyrano](https://drafthouse.com/los-angeles/show/cyrano): Fri 2/25 (3:45pm, 7:15pm, 10:25pm), Sat 2/26 (12:45pm, 4:00pm, 7:15pm, 10:25pm), Mon 2/28 (12:45pm, 4:00pm, 7:15pm), Tue 3/1 (4:00pm, 7:15pm), Wed 3/2 (12:45pm, 4:00pm, 7:15pm)
+
+    * [Death On The Nile 2022](https://drafthouse.com/los-angeles/show/death-on-the-nile-2022): Fri 2/25 (3:20pm, 6:45pm, 10:00pm), Sat 2/26 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Mon 2/28 (12:00pm, 3:20pm, 6:45pm), Tue 3/1 (3:15pm, 6:45pm), Wed 3/2 (12:00pm, 3:20pm, 6:45pm)
+
+    * [Dog](https://drafthouse.com/los-angeles/show/dog): Fri 2/25 (3:35pm, 6:30pm, 9:25pm), Sat 2/26 (12:30pm, 3:35pm, 6:30pm, 9:45pm), Mon 2/28 (12:30pm, 3:40pm, 6:30pm), Tue 3/1 (3:30pm, 6:30pm), Wed 3/2 (12:30pm, 3:40pm, 6:30pm)
+
+    * [Drive My Car](https://drafthouse.com/los-angeles/show/drive-my-car): Fri 2/25 (4:00pm, 5:30pm, 8:15pm), Sat 2/26 (11:10am, 1:40pm, 5:45pm, 9:50pm), Mon 2/28 (12:10pm, 1:45pm, 6:00pm), Tue 3/1 (2:15pm, 6:20pm), Wed 3/2 (11:00am, 1:40pm)
+
+    * [Jackass Forever](https://drafthouse.com/los-angeles/show/jackass-forever): Fri 2/25 (2:30pm, 5:15pm, 8:00pm, 10:45pm), Sat 2/26 (11:30am, 2:15pm, 5:10pm, 8:00pm), Mon 2/28 (11:30am, 2:15pm, 5:15pm, 8:00pm), Tue 3/1 (2:30pm, 5:15pm, 8:00pm), Wed 3/2 (11:30am, 2:15pm, 5:15pm, 8:00pm)
+
+    * [Licorice Pizza](https://drafthouse.com/los-angeles/show/licorice-pizza): Fri 2/25 (2:40pm, 6:00pm, 9:30pm), Sat 2/26 (11:00am, 2:30pm, 6:00pm, 9:30pm), Mon 2/28 (11:00am, 2:30pm, 6:00pm), Tue 3/1 (2:40pm, 6:00pm), Wed 3/2 (11:00am, 2:30pm, 6:00pm)
+
+    * [Studio 666](https://drafthouse.com/los-angeles/show/studio-666): Fri 2/25 (2:15pm, 5:00pm, 7:45pm, 10:30pm), Sat 2/26 (11:15am, 2:00pm, 5:00pm, 7:45pm, 10:30pm), Mon 2/28 (11:15am, 2:00pm, 5:00pm, 7:45pm), Tue 3/1 (1:55pm, 5:00pm, 7:45pm), Wed 3/2 (11:15am, 2:00pm, 5:00pm, 7:45pm)
+
+    * [The Cursed](https://drafthouse.com/los-angeles/show/the-cursed): Fri 2/25 (3:15pm, 6:15pm, 9:15pm), Sat 2/26 (3:15pm, 6:15pm, 9:15pm), Mon 2/28 (12:15pm, 3:15pm, 6:15pm), Tue 3/1 (3:45pm, 6:45pm), Wed 3/2 (12:15pm, 3:15pm, 6:15pm)
+
+    * [The Worst Person In The World](https://drafthouse.com/los-angeles/show/the-worst-person-in-the-world): Fri 2/25 (3:00pm, 6:15pm, 9:45pm), Sat 2/26 (1:00pm, 4:15pm, 7:30pm, 10:45pm), Mon 2/28 (1:00pm, 4:15pm, 7:30pm), Tue 3/1 (3:15pm, 6:00pm), Wed 3/2 (1:00pm, 4:15pm, 7:30pm)
+
+    * [Uncharted](https://drafthouse.com/los-angeles/show/uncharted): Fri 2/25 (2:25pm, 4:30pm, 7:30pm, 10:40pm), Sat 2/26 (11:45am, 3:00pm, 6:15pm, 9:15pm), Mon 2/28 (11:45am, 3:00pm, 6:15pm), Tue 3/1 (2:00pm, 3:00pm, 6:15pm), Wed 3/2 (11:45am, 3:00pm, 6:15pm)
+
 ### Fri 2/18 12:18pm
 
 * New screenings: 
