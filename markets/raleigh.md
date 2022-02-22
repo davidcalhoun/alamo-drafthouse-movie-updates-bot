@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 2/22 10:24am
+
+* New screenings: 
+    * [Bts Permission To Dance On Stage Seoul Live Viewing](https://drafthouse.com/raleigh/show/bts-permission-to-dance-on-stage-seoul-live-viewing): Sat 3/12 (4:30pm, 8:30pm)
+
 ### Fri 2/18 2:17pm
 * New movies: BTS Permission to Dance On Stage - Seoul: Live Viewing
 
