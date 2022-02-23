@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 2/23 1:17pm
+* New movies: Princess Mononoke Subtitled
+
+* New screenings: 
+    * [Marry Me](https://drafthouse.com/los-angeles/show/marry-me): Fri 2/25 (2:40pm)
+
 ### Tue 2/22 5:15pm
 * New movies: Us
 
