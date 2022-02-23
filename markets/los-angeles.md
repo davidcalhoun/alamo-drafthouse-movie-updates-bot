@@ -1,6 +1,42 @@
 # los-angeles
 
 ## Movie updates
+### Tue 2/22 5:15pm
+* New movies: Us
+
+* New screenings: 
+    * [2022 Oscar Nominated Shorts Animation](https://drafthouse.com/los-angeles/show/2022-oscar-nominated-shorts-animation): Sun 2/27 (3:10pm)
+
+    * [2022 Oscar Nominated Shorts Live Action](https://drafthouse.com/los-angeles/show/2022-oscar-nominated-shorts-live-action): Sun 2/27 (11:05am, 6:00pm)
+
+    * [Cyrano](https://drafthouse.com/los-angeles/show/cyrano): Thu 2/24 (7:15pm, 10:25pm), Sun 2/27 (12:45pm, 4:00pm, 7:15pm)
+
+    * [Death On The Nile 2022](https://drafthouse.com/los-angeles/show/death-on-the-nile-2022): Thu 2/24 (3:30pm, 6:45pm, 10:00pm), Sun 2/27 (12:15pm, 3:30pm, 6:45pm)
+
+    * [Dog](https://drafthouse.com/los-angeles/show/dog): Thu 2/24 (3:40pm, 6:30pm, 9:20pm), Sun 2/27 (12:30pm, 3:35pm, 6:30pm)
+
+    * [Drive My Car](https://drafthouse.com/los-angeles/show/drive-my-car): Thu 2/24 (4:00pm, 5:30pm, 8:15pm), Sun 2/27 (2:35pm)
+
+    * [Jackass Forever](https://drafthouse.com/los-angeles/show/jackass-forever): Thu 2/24 (2:30pm, 5:15pm, 8:00pm, 10:45pm), Sun 2/27 (11:45am, 2:15pm, 5:00pm, 7:45pm)
+
+    * [Licorice Pizza](https://drafthouse.com/los-angeles/show/licorice-pizza): Thu 2/24 (2:40pm, 6:00pm, 9:30pm), Sun 2/27 (10:45am, 2:30pm, 6:15pm)
+
+    * [Marry Me](https://drafthouse.com/los-angeles/show/marry-me): Thu 2/24 (4:15pm)
+
+    * [Studio 666](https://drafthouse.com/los-angeles/show/studio-666): Thu 2/24 (5:00pm, 7:45pm, 10:30pm), Sun 2/27 (11:15am, 2:00pm, 4:45pm, 7:30pm)
+
+    * [Ted K](https://drafthouse.com/los-angeles/show/ted-k): Thu 2/24 (3:45pm)
+
+    * [The Cursed](https://drafthouse.com/los-angeles/show/the-cursed): Thu 2/24 (3:15pm, 6:15pm, 9:15pm), Sun 2/27 (12:00pm)
+
+    * [The Worst Person In The World](https://drafthouse.com/los-angeles/show/the-worst-person-in-the-world): Thu 2/24 (3:00pm, 6:15pm, 9:45pm), Sun 2/27 (11:25am, 2:45pm, 6:45pm)
+
+    * [Uncharted](https://drafthouse.com/los-angeles/show/uncharted): Thu 2/24 (2:25pm, 4:30pm, 7:30pm, 10:40pm), Sun 2/27 (11:00am, 2:00pm, 5:00pm, 8:00pm)
+
+    * [Us](https://drafthouse.com/los-angeles/show/us): Thu 2/24 (10:15pm)
+
+    * [West Side Story 2021](https://drafthouse.com/los-angeles/show/west-side-story-2021): Thu 2/24 (9:45pm)
+
 ### Tue 2/22 3:19pm
 * New movies: Studio 666, Cyrano, 2022 Oscar Nominated Shorts: Live Action, 2022 Oscar Nominated Shorts: Animation
 
