@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Fri 2/25 2:20am
+* New movies: Jujutsu Kaisen 0 Dubbed, Jujutsu Kaisen 0 Subtitled
+
+* New screenings: 
+    * [Jujutsu Kaisen 0 Dubbed](https://drafthouse.com/raleigh/show/jujutsu-kaisen-0-dubbed): Thu 3/17 (7:30pm), Fri 3/18 (1:45pm, 7:30pm), Sat 3/19 (1:45pm, 7:30pm), Sun 3/20 (1:45pm, 7:30pm)
+
+    * [Jujutsu Kaisen 0 Subtitled](https://drafthouse.com/raleigh/show/jujutsu-kaisen-0-subtitled): Thu 3/17 (10:15pm), Fri 3/18 (4:45pm, 10:15pm), Sat 3/19 (4:45pm, 10:15pm), Sun 3/20 (4:45pm, 10:15pm)
+
 ### Tue 2/22 6:23pm
 
 * New screenings: 
