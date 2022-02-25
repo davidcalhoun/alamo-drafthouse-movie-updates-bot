@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 2/25 2:18pm
+
+* New screenings: 
+    * [Jackass Forever](https://drafthouse.com/raleigh/show/jackass-forever): Mon 2/28 (1:00pm)
+
 ### Fri 2/25 1:27pm
 * New movies: UFC 272: Covington vs. Masvidal
 
