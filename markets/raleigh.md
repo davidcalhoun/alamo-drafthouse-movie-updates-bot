@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 2/25 1:27pm
+* New movies: UFC 272: Covington vs. Masvidal
+
+* New screenings: 
+    * [Ufc 272 Covington Vs Masvidal](https://drafthouse.com/raleigh/show/ufc-272-covington-vs-masvidal): Sat 3/5 (10:00pm)
+
 ### Fri 2/25 2:20am
 * New movies: Jujutsu Kaisen 0 Dubbed, Jujutsu Kaisen 0 Subtitled
 
