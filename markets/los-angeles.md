@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Sun 2/27 7:19pm
+
+* New screenings: 
+    * [Stunt Rock](https://drafthouse.com/los-angeles/show/stunt-rock): Sat 3/26 (9:15pm)
+
 ### Sun 2/27 6:34pm
 * New movies: Stunt Rock
 
