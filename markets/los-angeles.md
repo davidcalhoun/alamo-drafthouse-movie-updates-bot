@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 2/28 12:19pm
+* New movies: Spirited Away Dubbed
+
+* New screenings: 
+    * [Brunch Screenings Spirited Away Dubbed Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-spirited-away-dubbed-brunch): Sat 8/27 (11:30am)
+
 ### Sun 2/27 7:19pm
 
 * New screenings: 
