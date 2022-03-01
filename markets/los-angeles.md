@@ -1,6 +1,15 @@
 # los-angeles
 
 ## Movie updates
+### Mon 2/28 6:45pm
+
+* New screenings: 
+    * [Licorice Pizza](https://drafthouse.com/los-angeles/show/licorice-pizza): Sun 3/6 (1:00pm), Wed 3/9 (12:15pm)
+
+    * [Studio 666](https://drafthouse.com/los-angeles/show/studio-666): Sun 3/6 (10:50pm)
+
+    * [The Batman](https://drafthouse.com/los-angeles/show/the-batman): Sun 3/6 (4:15pm, 10:30pm)
+
 ### Mon 2/28 5:21pm
 * New movies: After Yang
 
