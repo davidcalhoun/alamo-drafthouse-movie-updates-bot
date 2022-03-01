@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 3/1 11:33am
+* New movies: Spirited Away Dubbed
+
+* New screenings: 
+    * [Brunch Screenings Spirited Away Dubbed Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-spirited-away-dubbed-brunch): Sun 8/28 (11:00am)
+
 ### Tue 3/1 2:21am
 
 * New screenings: 
