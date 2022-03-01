@@ -1,6 +1,36 @@
 # los-angeles
 
 ## Movie updates
+### Mon 2/28 5:21pm
+* New movies: After Yang
+
+* New screenings: 
+    * [2022 Oscar Nominated Shorts Animation](https://drafthouse.com/los-angeles/show/2022-oscar-nominated-shorts-animation): Thu 3/3 (2:30pm), Fri 3/4 (10:45am), Sat 3/5 (11:30am), Sun 3/6 (12:10pm), Mon 3/7 (11:30am), Tue 3/8 (11:00am), Wed 3/9 (11:30am)
+
+    * [2022 Oscar Nominated Shorts Live Action](https://drafthouse.com/los-angeles/show/2022-oscar-nominated-shorts-live-action): Thu 3/3 (4:15pm), Fri 3/4 (1:30pm), Sat 3/5 (2:10pm), Sun 3/6 (2:50pm), Mon 3/7 (2:15pm), Tue 3/8 (5:45pm), Wed 3/9 (2:15pm)
+
+    * [After Yang](https://drafthouse.com/los-angeles/show/after-yang): Thu 3/3 (3:45pm, 6:30pm, 9:15pm), Fri 3/4 (12:15pm, 3:15pm, 6:15pm, 9:00pm), Sat 3/5 (11:00am, 1:45pm, 4:45pm, 7:30pm, 10:30pm), Sun 3/6 (11:20am, 2:10pm, 5:00pm, 7:45pm, 11:00pm), Mon 3/7 (1:00pm, 3:45pm, 6:45pm, 9:45pm), Tue 3/8 (1:00pm, 3:45pm, 6:45pm, 9:45pm), Wed 3/9 (1:00pm, 3:45pm, 6:45pm, 9:45pm)
+
+    * [Brunch Screenings The Batman Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-the-batman-brunch): Fri 3/4 (10:30am), Sat 3/5 (10:30am), Sun 3/6 (10:30am)
+
+    * [Cyrano](https://drafthouse.com/los-angeles/show/cyrano): Thu 3/3 (3:30pm, 6:45pm, 10:00pm), Fri 3/4 (12:10pm, 3:45pm, 7:15pm, 10:20pm), Sat 3/5 (12:15pm, 3:35pm, 6:50pm, 10:20pm), Sun 3/6 (12:15pm, 3:35pm, 6:40pm, 9:50pm), Mon 3/7 (12:45pm, 4:15pm, 7:25pm, 10:30pm), Tue 3/8 (12:45pm, 4:15pm, 7:25pm, 10:30pm), Wed 3/9 (12:45pm, 4:15pm, 7:30pm, 10:00pm)
+
+    * [Death On The Nile 2022](https://drafthouse.com/los-angeles/show/death-on-the-nile-2022): Thu 3/3 (2:45pm, 6:10pm, 9:30pm), Fri 3/4 (12:00pm, 3:30pm, 6:45pm, 10:05pm), Sat 3/5 (10:45am, 2:20pm, 5:20pm, 8:30pm, 10:10pm), Sun 3/6 (12:00pm, 3:20pm, 6:30pm, 9:40pm), Mon 3/7 (1:15pm, 4:30pm, 7:45pm, 8:15pm), Tue 3/8 (1:15pm, 4:30pm, 7:45pm, 9:30pm), Wed 3/9 (1:15pm, 4:30pm, 7:45pm, 9:30pm)
+
+    * [Jackass Forever](https://drafthouse.com/los-angeles/show/jackass-forever): Thu 3/3 (2:25pm, 8:00pm), Fri 3/4 (2:40pm, 8:30pm, 11:15pm), Sat 3/5 (8:25pm, 11:00pm), Sun 3/6 (8:15pm, 10:55pm), Mon 3/7 (3:30pm, 9:30pm), Tue 3/8 (3:35pm, 9:30pm), Wed 3/9 (3:30pm, 9:30pm)
+
+    * [Licorice Pizza](https://drafthouse.com/los-angeles/show/licorice-pizza): Thu 3/3 (10:45pm), Fri 3/4 (5:15pm), Sat 3/5 (10:15am)
+
+    * [Studio 666](https://drafthouse.com/los-angeles/show/studio-666): Thu 3/3 (5:10pm), Fri 3/4 (11:30am), Sat 3/5 (1:30pm), Sun 3/6 (12:45pm), Mon 3/7 (12:30pm, 6:30pm), Tue 3/8 (12:30pm, 6:30pm), Wed 3/9 (12:30pm, 6:30pm)
+
+    * [The Batman](https://drafthouse.com/los-angeles/show/the-batman): Thu 3/3 (4:45pm, 5:15pm, 8:45pm, 9:15pm, 10:15pm), Fri 3/4 (1:00pm, 2:30pm, 4:40pm, 5:00pm, 6:30pm, 8:45pm, 9:00pm, 10:30pm), Sat 3/5 (1:00pm, 2:30pm, 4:20pm, 5:00pm, 6:30pm, 9:00pm, 10:30pm), Sun 3/6 (2:30pm, 3:45pm, 4:45pm, 6:30pm, 8:45pm, 9:00pm, 10:30pm), Mon 3/7 (12:30pm, 1:00pm, 4:30pm, 5:00pm, 8:30pm, 9:00pm, 9:15pm), Tue 3/8 (10:45am, 12:45pm, 1:40pm, 2:45pm, 5:00pm, 9:00pm), Wed 3/9 (12:30pm, 1:00pm, 4:30pm, 5:00pm, 5:30pm, 8:30pm, 9:00pm)
+
+    * [The Cursed](https://drafthouse.com/los-angeles/show/the-cursed): Fri 3/4 (9:45pm), Sun 3/6 (10:30pm), Tue 3/8 (10:25pm)
+
+    * [The Worst Person In The World](https://drafthouse.com/los-angeles/show/the-worst-person-in-the-world): Thu 3/3 (4:30pm, 7:45pm, 11:15pm), Fri 3/4 (11:45am, 3:10pm, 6:30pm), Sat 3/5 (11:45am, 3:10pm, 6:20pm, 9:30pm), Sun 3/6 (10:15am, 1:30pm, 4:40pm, 7:50pm), Mon 3/7 (12:00pm, 3:30pm, 7:15pm, 10:25pm), Tue 3/8 (12:00pm, 3:30pm, 7:15pm), Wed 3/9 (12:00pm, 3:30pm, 7:15pm, 10:25pm)
+
+    * [Uncharted](https://drafthouse.com/los-angeles/show/uncharted): Thu 3/3 (3:30pm, 6:30pm, 9:30pm), Fri 3/4 (10:15am, 1:15pm, 4:25pm, 7:40pm, 10:45pm), Sat 3/5 (10:15am, 1:15pm, 4:35pm, 7:45pm, 10:45pm), Sun 3/6 (11:45am, 3:10pm, 6:15pm, 9:15pm), Mon 3/7 (12:15pm, 3:15pm, 6:15pm, 10:15pm), Tue 3/8 (12:15pm, 3:15pm, 6:15pm, 10:40pm), Wed 3/9 (12:15pm, 3:15pm, 6:15pm, 9:15pm)
+
 ### Mon 2/28 12:19pm
 * New movies: Spirited Away Dubbed
 
