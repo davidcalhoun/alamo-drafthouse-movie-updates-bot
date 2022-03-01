@@ -1,6 +1,36 @@
 # raleigh
 
 ## Movie updates
+### Tue 3/1 1:28am
+* New movies: X, The Lost City, The Lost City
+
+* New screenings: 
+    * [2022 Oscar Nominated Shorts Animation](https://drafthouse.com/raleigh/show/2022-oscar-nominated-shorts-animation): Fri 3/4 (3:15pm), Sat 3/5 (3:15pm), Sun 3/6 (3:15pm), Mon 3/7 (3:15pm), Tue 3/8 (3:15pm), Wed 3/9 (3:15pm)
+
+    * [2022 Oscar Nominated Shorts Live Action](https://drafthouse.com/raleigh/show/2022-oscar-nominated-shorts-live-action): Fri 3/4 (12:15pm), Sat 3/5 (12:15pm), Sun 3/6 (12:15pm), Mon 3/7 (12:15pm), Tue 3/8 (12:15pm), Wed 3/9 (12:15pm)
+
+    * [Brunch Screenings The Lost City](https://drafthouse.com/raleigh/show/brunch-screenings-the-lost-city): Sat 3/26 (12:00pm)
+
+    * [Cyrano](https://drafthouse.com/raleigh/show/cyrano): Fri 3/4 (1:15pm, 4:15pm, 7:15pm, 10:20pm), Sat 3/5 (1:15pm, 4:15pm, 7:15pm, 10:20pm), Sun 3/6 (1:15pm, 4:15pm, 7:15pm, 10:20pm), Mon 3/7 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Tue 3/8 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Wed 3/9 (1:15pm, 4:15pm, 7:15pm, 10:15pm)
+
+    * [Death On The Nile 2022](https://drafthouse.com/raleigh/show/death-on-the-nile-2022): Fri 3/4 (12:30pm, 3:30pm, 6:45pm, 10:10pm), Sat 3/5 (12:30pm, 3:30pm, 6:45pm, 9:15pm), Sun 3/6 (12:30pm, 3:30pm, 6:45pm, 10:10pm), Mon 3/7 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Tue 3/8 (12:30pm, 3:30pm, 6:45pm, 9:45pm), Wed 3/9 (12:30pm, 3:30pm, 6:45pm, 9:45pm)
+
+    * [Dog](https://drafthouse.com/raleigh/show/dog): Fri 3/4 (12:00pm), Sat 3/5 (12:00pm), Sun 3/6 (12:00pm), Mon 3/7 (1:15pm), Tue 3/8 (1:15pm), Wed 3/9 (1:15pm)
+
+    * [Jackass Forever](https://drafthouse.com/raleigh/show/jackass-forever): Fri 3/4 (2:45pm, 9:15pm), Sat 3/5 (2:45pm, 9:30pm), Sun 3/6 (2:45pm, 9:15pm), Mon 3/7 (4:00pm, 9:15pm), Tue 3/8 (4:00pm, 10:30pm), Wed 3/9 (4:00pm, 10:30pm)
+
+    * [Spider Man No Way Home](https://drafthouse.com/raleigh/show/spider-man-no-way-home): Fri 3/4 (11:15am, 2:45pm, 6:15pm, 9:45pm), Sat 3/5 (11:15am, 2:45pm, 6:15pm, 9:45pm), Sun 3/6 (11:15am, 2:45pm, 6:15pm, 9:45pm), Mon 3/7 (11:15am, 2:45pm, 6:15pm, 9:45pm), Tue 3/8 (11:15am, 2:45pm, 6:15pm, 9:45pm), Wed 3/9 (11:15am, 2:45pm, 6:15pm, 9:45pm)
+
+    * [Studio 666](https://drafthouse.com/raleigh/show/studio-666): Fri 3/4 (5:45pm), Sat 3/5 (5:45pm), Sun 3/6 (5:45pm), Mon 3/7 (5:45pm), Tue 3/8 (5:45pm), Wed 3/9 (5:45pm)
+
+    * [The Batman](https://drafthouse.com/raleigh/show/the-batman): Fri 3/4 (1:30pm, 5:15pm, 5:30pm, 8:30pm, 9:30pm), Sat 3/5 (1:30pm, 5:15pm, 5:30pm, 8:30pm), Sun 3/6 (1:30pm, 5:15pm, 5:30pm, 8:30pm, 9:30pm), Mon 3/7 (11:45am, 8:00pm, 8:30pm), Tue 3/8 (11:45am, 3:45pm, 6:30pm, 8:00pm, 8:30pm), Wed 3/9 (11:45am, 3:45pm, 6:30pm, 8:00pm, 8:30pm)
+
+    * [The Lost City](https://drafthouse.com/raleigh/show/the-lost-city): Thu 3/24 (4:15pm, 7:00pm), Sat 3/26 (6:20pm), Sun 3/27 (3:30pm, 6:15pm)
+
+    * [Uncharted](https://drafthouse.com/raleigh/show/uncharted): Fri 3/4 (1:45pm, 4:30pm, 7:30pm, 10:45pm), Sat 3/5 (1:45pm, 4:30pm, 7:30pm, 10:45pm), Sun 3/6 (1:45pm, 4:30pm, 7:30pm, 10:45pm), Mon 3/7 (1:45pm, 4:30pm, 7:30pm, 10:30pm), Tue 3/8 (1:45pm, 4:30pm, 7:30pm, 10:30pm), Wed 3/9 (1:45pm, 4:30pm, 7:30pm, 10:30pm)
+
+    * [X](https://drafthouse.com/raleigh/show/x): Thu 3/17 (7:00pm, 9:45pm), Fri 3/18 (7:45pm, 10:30pm), Sat 3/19 (7:45pm, 10:30pm), Sun 3/20 (7:45pm, 10:30pm)
+
 ### Mon 2/28 8:39pm
 
 * New screenings: 
