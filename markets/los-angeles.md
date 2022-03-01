@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Mon 2/28 10:23pm
+* New movies: X, The Lost City
+
+* New screenings: 
+    * [The Lost City](https://drafthouse.com/los-angeles/show/the-lost-city): Thu 3/24 (4:00pm, 7:00pm, 10:00pm), Fri 3/25 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sat 3/26 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sun 3/27 (1:00pm, 4:00pm, 7:00pm)
+
+    * [X](https://drafthouse.com/los-angeles/show/x): Thu 3/17 (7:00pm, 9:45pm), Fri 3/18 (2:30pm, 5:15pm, 8:00pm, 10:45pm), Sat 3/19 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Sun 3/20 (11:45am, 2:30pm, 5:15pm, 8:00pm)
+
 ### Mon 2/28 7:22pm
 
 * New screenings: 
