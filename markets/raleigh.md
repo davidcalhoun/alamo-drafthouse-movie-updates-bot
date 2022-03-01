@@ -1,6 +1,33 @@
 # raleigh
 
 ## Movie updates
+### Mon 2/28 8:39pm
+
+* New screenings: 
+    * [2022 Oscar Nominated Shorts Animation](https://drafthouse.com/raleigh/show/2022-oscar-nominated-shorts-animation): Thu 3/3 (2:00pm)
+
+    * [2022 Oscar Nominated Shorts Live Action](https://drafthouse.com/raleigh/show/2022-oscar-nominated-shorts-live-action): Thu 3/3 (4:45pm)
+
+    * [Cyrano](https://drafthouse.com/raleigh/show/cyrano): Thu 3/3 (12:45pm, 3:45pm, 7:15pm, 10:45pm)
+
+    * [Death On The Nile 2022](https://drafthouse.com/raleigh/show/death-on-the-nile-2022): Thu 3/3 (12:00pm, 1:40pm, 6:00pm, 9:00pm)
+
+    * [Dog](https://drafthouse.com/raleigh/show/dog): Thu 3/3 (12:40pm, 3:15pm, 6:15pm)
+
+    * [Jackass Forever](https://drafthouse.com/raleigh/show/jackass-forever): Thu 3/3 (7:45pm)
+
+    * [Spider Man No Way Home](https://drafthouse.com/raleigh/show/spider-man-no-way-home): Thu 3/3 (12:15pm, 2:45pm, 6:30pm, 9:15pm)
+
+    * [Studio 666](https://drafthouse.com/raleigh/show/studio-666): Thu 3/3 (8:00pm)
+
+    * [The Batman](https://drafthouse.com/raleigh/show/the-batman): Thu 3/3 (5:30pm, 9:30pm, 9:45pm, 10:15pm)
+
+    * [The Cursed](https://drafthouse.com/raleigh/show/the-cursed): Thu 3/3 (2:45pm)
+
+    * [The Worst Person In The World](https://drafthouse.com/raleigh/show/the-worst-person-in-the-world): Thu 3/3 (2:15pm)
+
+    * [Uncharted](https://drafthouse.com/raleigh/show/uncharted): Thu 3/3 (12:30pm, 3:30pm, 6:45pm, 10:30pm)
+
 ### Fri 2/25 2:18pm
 
 * New screenings: 
