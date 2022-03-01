@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 3/1 12:19pm
+
+* New screenings: 
+    * [Brunch Screenings Spirited Away Dubbed Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-spirited-away-dubbed-brunch): Sun 8/28 (11:30am)
+
 ### Mon 2/28 10:23pm
 * New movies: X, The Lost City
 
