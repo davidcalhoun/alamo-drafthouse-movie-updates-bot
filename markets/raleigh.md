@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 3/1 2:21am
+
+* New screenings: 
+    * [The Lost City](https://drafthouse.com/raleigh/show/the-lost-city): Fri 3/25 (4:15pm, 7:00pm)
+
 ### Tue 3/1 1:28am
 * New movies: X, The Lost City, The Lost City
 
