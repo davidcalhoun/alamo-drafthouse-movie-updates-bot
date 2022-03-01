@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 2/28 7:22pm
+
+* New screenings: 
+    * [Dog](https://drafthouse.com/los-angeles/show/dog): Thu 3/3 (4:15pm)
+
 ### Mon 2/28 6:45pm
 
 * New screenings: 
