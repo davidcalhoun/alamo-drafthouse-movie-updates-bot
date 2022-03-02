@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 3/2 12:22pm
+* New movies: On Cinema at the Cinema Special
+
+* New screenings: 
+    * [On Cinema At The Cinema Special](https://drafthouse.com/raleigh/show/on-cinema-at-the-cinema-special): Sun 3/27 (7:45pm)
+
 ### Tue 3/1 11:33am
 * New movies: Spirited Away Dubbed
 
