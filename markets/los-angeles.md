@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 3/2 4:31am
+* New movies: On Cinema at the Cinema Special
+
+* New screenings: 
+    * [On Cinema At The Cinema Special](https://drafthouse.com/los-angeles/show/on-cinema-at-the-cinema-special): Sun 3/27 (5:45pm)
+
 ### Tue 3/1 12:19pm
 
 * New screenings: 
