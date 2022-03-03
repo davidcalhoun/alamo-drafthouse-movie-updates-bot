@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 3/3 4:20pm
+* New movies: Everything Everywhere All At Once
+
+* New screenings: 
+    * [Advance Screening Everything Everywhere All At Once](https://drafthouse.com/raleigh/show/advance-screening-everything-everywhere-all-at-once): Thu 3/17 (6:45pm)
+
 ### Wed 3/2 12:22pm
 * New movies: On Cinema at the Cinema Special
 
