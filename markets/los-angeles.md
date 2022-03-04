@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 3/4 1:16pm
+
+* New screenings: 
+    * [Uncharted](https://drafthouse.com/los-angeles/show/uncharted): Sat 3/5 (11:00pm)
+
 ### Thu 3/3 6:44pm
 * New movies: I've Heard the Mermaids Singing, Offseason, Offseason
 
