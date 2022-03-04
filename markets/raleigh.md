@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 3/4 10:25am
+
+* New screenings: 
+    * [The Batman](https://drafthouse.com/raleigh/show/the-batman): Sat 3/5 (9:45pm), Sun 3/6 (9:45pm)
+
 ### Thu 3/3 4:20pm
 * New movies: Everything Everywhere All At Once
 
