@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Thu 3/3 6:44pm
+* New movies: I've Heard the Mermaids Singing, Offseason, Offseason
+
+* New screenings: 
+    * [Ive Heard The Mermaids Singing](https://drafthouse.com/los-angeles/show/ive-heard-the-mermaids-singing): Fri 3/18 (7:15pm), Sat 3/19 (7:15pm), Sun 3/20 (3:15pm)
+
+    * [Live Q A Offseason](https://drafthouse.com/los-angeles/show/live-q-a-offseason): Fri 3/11 (7:30pm)
+
+    * [Offseason](https://drafthouse.com/los-angeles/show/offseason): Fri 3/11 (10:30pm), Sat 3/12 (3:30pm, 9:00pm)
+
 ### Thu 3/3 5:22pm
 
 * New screenings: 
