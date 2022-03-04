@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 3/3 5:22pm
+
+* New screenings: 
+    * [Advance Screening Everything Everywhere All At Once](https://drafthouse.com/los-angeles/show/advance-screening-everything-everywhere-all-at-once): Thu 3/17 (7:30pm)
+
 ### Thu 3/3 3:18pm
 * New movies: Everything Everywhere All At Once
 
