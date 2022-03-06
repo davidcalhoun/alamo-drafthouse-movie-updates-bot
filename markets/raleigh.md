@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Sun 3/6 12:20pm
+* New movies: Stunt Rock
+
+* New screenings: 
+    * [Stunt Rock](https://drafthouse.com/raleigh/show/stunt-rock): Wed 3/30 (7:45pm)
+
 ### Fri 3/4 10:25am
 
 * New screenings: 
