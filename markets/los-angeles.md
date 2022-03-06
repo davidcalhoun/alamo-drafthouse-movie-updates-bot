@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Sat 3/5 7:19pm
+
+* New screenings: 
+    * [Uncharted](https://drafthouse.com/los-angeles/show/uncharted): Sun 3/6 (6:45pm)
+
 ### Fri 3/4 1:16pm
 
 * New screenings: 
