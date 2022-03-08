@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Tue 3/8 6:22pm
+* New movies: Swiss Army Man, The Heroic Trio
+
+* New screenings: 
+    * [Swiss Army Man](https://drafthouse.com/raleigh/show/swiss-army-man): Tue 3/29 (10:15pm)
+
+    * [The Heroic Trio](https://drafthouse.com/raleigh/show/the-heroic-trio): Mon 3/28 (9:15pm)
+
 ### Mon 3/7 8:33pm
 * New movies: The Worst Person in the World, The Batman
 
