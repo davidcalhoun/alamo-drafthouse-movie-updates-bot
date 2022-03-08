@@ -1,6 +1,38 @@
 # raleigh
 
 ## Movie updates
+### Mon 3/7 8:33pm
+* New movies: The Worst Person in the World, The Batman
+
+* New screenings: 
+    * [2022 Oscar Nominated Shorts Animation](https://drafthouse.com/raleigh/show/2022-oscar-nominated-shorts-animation): Thu 3/10 (3:15pm)
+
+    * [2022 Oscar Nominated Shorts Live Action](https://drafthouse.com/raleigh/show/2022-oscar-nominated-shorts-live-action): Thu 3/10 (12:15pm)
+
+    * [Brunch Screenings The Batman Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-the-batman-brunch): Sat 3/12 (10:00am), Sun 3/13 (10:00am)
+
+    * [Cyrano](https://drafthouse.com/raleigh/show/cyrano): Thu 3/10 (1:15pm), Fri 3/11 (12:00pm), Sat 3/12 (1:15pm), Sun 3/13 (12:00pm), Mon 3/14 (12:00pm), Tue 3/15 (12:00pm), Wed 3/16 (12:00pm)
+
+    * [Death On The Nile 2022](https://drafthouse.com/raleigh/show/death-on-the-nile-2022): Thu 3/10 (12:30pm, 3:30pm, 6:45pm, 9:45pm), Fri 3/11 (12:15pm, 3:30pm, 6:30pm, 9:45pm), Sat 3/12 (12:45pm, 3:30pm, 6:30pm, 9:45pm), Sun 3/13 (12:15pm, 3:30pm, 6:30pm), Mon 3/14 (12:15pm, 3:30pm, 6:30pm, 9:45pm), Tue 3/15 (12:15pm, 3:30pm, 6:30pm, 9:45pm), Wed 3/16 (12:15pm, 3:30pm, 6:30pm, 9:45pm)
+
+    * [Dog](https://drafthouse.com/raleigh/show/dog): Thu 3/10 (1:15pm)
+
+    * [Graveyard Shift The Evil Dead 1981](https://drafthouse.com/raleigh/show/graveyard-shift-the-evil-dead-1981): Mon 3/14 (10:30pm)
+
+    * [Harry Potter And The Order Of The Phoenix](https://drafthouse.com/raleigh/show/harry-potter-and-the-order-of-the-phoenix): Sat 3/12 (11:45am)
+
+    * [Jackass Forever](https://drafthouse.com/raleigh/show/jackass-forever): Thu 3/10 (4:00pm, 10:30pm)
+
+    * [Spider Man No Way Home](https://drafthouse.com/raleigh/show/spider-man-no-way-home): Thu 3/10 (11:15am, 2:45pm, 6:15pm, 9:45pm), Fri 3/11 (11:00am, 2:30pm, 6:15pm, 9:45pm), Sat 3/12 (12:00pm, 2:15pm, 6:00pm, 9:30pm), Sun 3/13 (11:00am, 2:30pm, 6:15pm), Mon 3/14 (11:00am, 2:30pm, 6:15pm, 9:45pm), Tue 3/15 (11:00am, 2:30pm, 6:00pm, 9:30pm), Wed 3/16 (11:00am, 2:30pm, 6:15pm, 9:45pm)
+
+    * [Studio 666](https://drafthouse.com/raleigh/show/studio-666): Thu 3/10 (5:45pm)
+
+    * [The Batman](https://drafthouse.com/raleigh/show/the-batman): Thu 3/10 (11:45am, 3:45pm, 4:15pm, 6:30pm, 7:45pm, 8:15pm, 8:30pm), Fri 3/11 (10:00am, 11:45am, 12:15pm, 1:00pm, 1:30pm, 2:00pm, 3:15pm, 3:45pm, 4:15pm, 5:00pm, 5:30pm, 6:00pm, 7:15pm, 7:45pm, 8:15pm, 9:00pm, 9:30pm, 10:00pm), Sat 3/12 (11:15am, 1:15pm, 2:00pm, 3:15pm, 5:15pm, 5:35pm, 6:15pm, 7:30pm, 9:15pm, 9:45pm, 10:15pm), Sun 3/13 (11:45am, 12:15pm, 1:00pm, 1:30pm, 2:00pm, 3:15pm, 3:45pm, 4:15pm, 5:00pm, 5:30pm, 6:00pm, 7:15pm, 7:45pm, 8:15pm), Mon 3/14 (11:45am, 12:15pm, 1:00pm, 1:30pm, 2:00pm, 3:15pm, 3:45pm, 4:15pm, 5:00pm, 5:30pm, 6:00pm, 7:15pm, 8:15pm, 9:00pm, 9:30pm, 10:00pm), Tue 3/15 (11:30am, 12:15pm, 1:00pm, 1:30pm, 1:45pm, 3:15pm, 3:30pm, 4:15pm, 5:00pm, 5:30pm, 5:45pm, 7:15pm, 8:15pm, 9:00pm, 9:30pm, 9:45pm, 10:15pm), Wed 3/16 (11:45am, 12:15pm, 1:00pm, 1:30pm, 2:00pm, 3:15pm, 3:45pm, 4:15pm, 5:00pm, 5:30pm, 6:00pm, 7:15pm, 7:45pm, 8:15pm, 9:00pm, 9:30pm, 10:00pm)
+
+    * [The Worst Person In The World](https://drafthouse.com/raleigh/show/the-worst-person-in-the-world): Fri 3/11 (1:15pm, 4:15pm, 7:30pm, 10:30pm), Sat 3/12 (1:00pm, 4:00pm, 7:15pm, 10:30pm), Sun 3/13 (1:15pm, 4:15pm, 7:30pm), Mon 3/14 (1:15pm, 4:15pm, 7:30pm, 10:30pm), Tue 3/15 (1:15pm, 4:15pm, 7:30pm, 10:30pm), Wed 3/16 (1:15pm, 4:15pm, 7:30pm, 10:30pm)
+
+    * [Uncharted](https://drafthouse.com/raleigh/show/uncharted): Thu 3/10 (1:45pm, 4:30pm, 7:30pm, 10:30pm), Fri 3/11 (1:00pm, 4:00pm, 7:00pm, 10:15pm), Sat 3/12 (1:30pm, 3:45pm, 7:00pm, 10:00pm), Sun 3/13 (1:00pm, 4:00pm, 7:00pm), Mon 3/14 (1:00pm, 4:00pm, 7:00pm, 10:15pm), Tue 3/15 (1:00pm, 4:00pm, 7:00pm, 10:15pm), Wed 3/16 (1:00pm, 4:00pm, 7:00pm, 10:15pm)
+
 ### Sun 3/6 12:20pm
 * New movies: Stunt Rock
 
