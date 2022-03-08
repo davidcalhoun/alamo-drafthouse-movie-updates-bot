@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 3/7 10:23pm
+
+* New screenings: 
+    * [Licorice Pizza](https://drafthouse.com/los-angeles/show/licorice-pizza): Tue 3/8 (12:15pm)
+
 ### Mon 3/7 8:24pm
 
 * New screenings: 
