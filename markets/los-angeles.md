@@ -1,6 +1,40 @@
 # los-angeles
 
 ## Movie updates
+### Tue 3/8 10:22am
+* New movies: The Batman
+
+* New screenings: 
+    * [2022 Oscar Nominated Shorts Animation](https://drafthouse.com/los-angeles/show/2022-oscar-nominated-shorts-animation): Thu 3/10 (1:30pm)
+
+    * [2022 Oscar Nominated Shorts Live Action](https://drafthouse.com/los-angeles/show/2022-oscar-nominated-shorts-live-action): Thu 3/10 (4:15pm)
+
+    * [After Yang](https://drafthouse.com/los-angeles/show/after-yang): Thu 3/10 (1:15pm, 4:15pm, 7:05pm, 9:50pm), Fri 3/11 (10:15am, 1:15pm, 4:15pm, 7:15pm, 10:00pm), Sat 3/12 (10:15am, 1:00pm, 4:15pm, 7:15pm, 10:00pm), Sun 3/13 (10:30am, 1:15pm, 4:15pm, 7:15pm), Mon 3/14 (12:40pm, 3:45pm, 6:30pm), Tue 3/15 (11:30am, 1:00pm, 3:45pm, 6:30pm), Wed 3/16 (1:00pm, 3:45pm, 6:30pm)
+
+    * [Brunch Screenings Almost Famous](https://drafthouse.com/los-angeles/show/brunch-screenings-almost-famous): Sat 3/12 (10:10am)
+
+    * [Brunch Screenings The Batman Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-the-batman-brunch): Sat 3/12 (10:50am, 11:15am), Sun 3/13 (10:45am, 11:15am)
+
+    * [Cyrano](https://drafthouse.com/los-angeles/show/cyrano): Thu 3/10 (2:45pm, 6:15pm, 9:30pm)
+
+    * [Death On The Nile 2022](https://drafthouse.com/los-angeles/show/death-on-the-nile-2022): Thu 3/10 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Fri 3/11 (12:15pm, 3:30pm, 6:45pm, 10:15pm), Sat 3/12 (12:15pm, 3:30pm, 6:45pm, 10:15pm), Sun 3/13 (12:15pm, 3:30pm, 6:45pm), Mon 3/14 (12:00pm, 3:30pm, 7:00pm), Tue 3/15 (12:15pm, 4:00pm, 7:15pm), Wed 3/16 (12:15pm, 3:30pm, 7:00pm)
+
+    * [Graveyard Shift The Evil Dead 1981](https://drafthouse.com/los-angeles/show/graveyard-shift-the-evil-dead-1981): Tue 3/15 (5:30pm)
+
+    * [Harry Potter And The Order Of The Phoenix](https://drafthouse.com/los-angeles/show/harry-potter-and-the-order-of-the-phoenix): Fri 3/11 (3:45pm), Sun 3/13 (2:40pm), Tue 3/15 (11:00am)
+
+    * [Jackass Forever](https://drafthouse.com/los-angeles/show/jackass-forever): Thu 3/10 (1:45pm)
+
+    * [Studio 666](https://drafthouse.com/los-angeles/show/studio-666): Thu 3/10 (10:45pm)
+
+    * [The Batman](https://drafthouse.com/los-angeles/show/the-batman): Thu 3/10 (1:00pm, 1:30pm, 2:30pm, 2:45pm, 4:30pm, 5:00pm, 5:30pm, 6:30pm, 7:00pm, 7:30pm, 8:30pm, 9:00pm, 9:30pm, 10:30pm), Fri 3/11 (10:00am, 10:25am, 11:00am, 11:10am, 11:30am, 11:40am, 12:00pm, 12:45pm, 12:50pm, 2:30pm, 3:00pm, 3:15pm, 3:30pm, 4:00pm, 4:45pm, 4:55pm, 6:35pm, 7:00pm, 7:20pm, 7:45pm, 8:00pm, 8:45pm, 9:00pm), Sat 3/12 (11:25am, 11:55am, 12:40pm, 1:00pm, 3:00pm, 3:25pm, 3:30pm, 4:45pm, 4:45pm, 6:30pm, 7:05pm, 7:30pm, 7:35pm, 8:35pm, 8:50pm, 9:30pm), Sun 3/13 (11:30am, 11:55am, 12:40pm, 1:00pm, 1:20pm, 2:55pm, 3:25pm, 3:30pm, 4:00pm, 4:45pm, 5:00pm, 5:30pm, 7:00pm, 7:30pm, 7:45pm, 8:05pm, 8:50pm, 9:00pm), Mon 3/14 (10:25am, 10:45am, 11:15am, 11:25am, 11:50am, 12:25pm, 12:45pm, 1:20pm, 2:25pm, 2:45pm, 3:20pm, 3:30pm, 4:00pm, 4:30pm, 4:50pm, 6:45pm, 7:35pm, 7:50pm, 8:05pm, 8:35pm, 9:00pm), Tue 3/15 (10:20am, 11:30am, 11:30am, 12:00pm, 12:25pm, 12:40pm, 2:35pm, 3:15pm, 3:30pm, 3:35pm, 4:00pm, 4:30pm, 4:50pm, 6:45pm, 7:30pm, 7:45pm, 8:00pm, 8:35pm), Wed 3/16 (10:45am, 11:15am, 11:30am, 11:45am, 12:00pm, 12:30pm, 12:45pm, 1:20pm, 2:45pm, 3:20pm, 3:30pm, 3:50pm, 4:00pm, 4:30pm, 4:50pm, 5:30pm, 6:45pm, 7:30pm, 7:30pm, 8:00pm, 8:30pm)
+
+    * [The Cursed](https://drafthouse.com/los-angeles/show/the-cursed): Thu 3/10 (11:00pm), Fri 3/11 (9:30pm), Sun 3/13 (6:15pm), Mon 3/14 (8:15pm), Tue 3/15 (2:20pm)
+
+    * [The Worst Person In The World](https://drafthouse.com/los-angeles/show/the-worst-person-in-the-world): Thu 3/10 (3:00pm, 6:30pm, 9:45pm), Fri 3/11 (11:30am, 2:45pm, 6:15pm), Sat 3/12 (11:30am, 2:45pm, 6:15pm, 9:45pm), Sun 3/13 (11:30am, 2:45pm), Mon 3/14 (11:15am, 2:30pm, 6:00pm), Tue 3/15 (11:00am, 2:30pm, 6:00pm), Wed 3/16 (11:15am, 2:30pm, 6:00pm)
+
+    * [Uncharted](https://drafthouse.com/los-angeles/show/uncharted): Thu 3/10 (1:45pm, 4:45pm, 7:45pm)
+
 ### Mon 3/7 10:23pm
 
 * New screenings: 
