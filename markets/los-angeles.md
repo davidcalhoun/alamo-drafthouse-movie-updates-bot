@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 3/9 10:22am
+* New movies: The Runner x Rabid
+
+* New screenings: 
+    * [The Runner X Rabid](https://drafthouse.com/los-angeles/show/the-runner-x-rabid): Mon 4/25 (5:45pm)
+
 ### Tue 3/8 7:19pm
 * New movies: Tammy and the T-Rex
 
