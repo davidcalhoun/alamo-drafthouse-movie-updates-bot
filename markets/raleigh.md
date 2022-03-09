@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 3/9 12:23pm
+* New movies: The Runner x Rabid
+
+* New screenings: 
+    * [The Runner X Rabid](https://drafthouse.com/raleigh/show/the-runner-x-rabid): Mon 4/25 (9:15pm)
+
 ### Tue 3/8 6:22pm
 * New movies: Swiss Army Man, The Heroic Trio
 
