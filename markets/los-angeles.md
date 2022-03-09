@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Tue 3/8 5:17pm
+* New movies: Swiss Army Man, The Heroic Trio
+
+* New screenings: 
+    * [Swiss Army Man](https://drafthouse.com/los-angeles/show/swiss-army-man): Mon 3/28 (3:00pm)
+
+    * [The Heroic Trio](https://drafthouse.com/los-angeles/show/the-heroic-trio): Mon 3/28 (8:15pm)
+
+    * [X](https://drafthouse.com/los-angeles/show/x): Mon 3/14 (7:00pm)
+
 ### Tue 3/8 10:22am
 * New movies: The Batman
 
