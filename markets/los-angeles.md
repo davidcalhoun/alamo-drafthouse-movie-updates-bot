@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 3/8 7:19pm
+* New movies: Tammy and the T-Rex
+
+* New screenings: 
+    * [Tammy And The T Rex](https://drafthouse.com/los-angeles/show/tammy-and-the-t-rex): Tue 3/15 (9:00pm), Wed 3/16 (9:00pm)
+
 ### Tue 3/8 5:17pm
 * New movies: Swiss Army Man, The Heroic Trio
 
