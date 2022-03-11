@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 3/11 3:15am
+
+* New screenings: 
+    * [Brunch Screenings Kikis Delivery Service Dubbed Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-kikis-delivery-service-dubbed-brunch): Sat 4/23 (2:15pm)
+
 ### Wed 3/9 10:22am
 * New movies: The Runner x Rabid
 
