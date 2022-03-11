@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 3/11 4:31am
+* New movies: La Bamba
+
+* New screenings: 
+    * [Brunch Screenings La Bamba Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-la-bamba-brunch): Sat 3/26 (11:30am)
+
 ### Fri 3/11 3:15am
 
 * New screenings: 
