@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Fri 3/11 1:16pm
+
+* New screenings: 
+    * [Brunch Screenings The Batman Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-the-batman-brunch): Sat 3/12 (11:15am), Sun 3/13 (11:15am)
+
+    * [The Batman](https://drafthouse.com/los-angeles/show/the-batman): Sat 3/12 (3:25pm, 7:30pm), Sun 3/13 (3:25pm, 7:45pm), Mon 3/14 (11:15am, 3:20pm, 7:50pm), Tue 3/15 (11:30am, 3:35pm, 7:45pm), Wed 3/16 (11:15am, 3:20pm, 7:30pm)
+
 ### Fri 3/11 4:31am
 * New movies: La Bamba
 
