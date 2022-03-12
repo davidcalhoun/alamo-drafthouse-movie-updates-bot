@@ -1,6 +1,22 @@
 # los-angeles
 
 ## Movie updates
+### Fri 3/11 5:10pm
+* New movies: Blackhat, Miami Vice 1984 Pilot, Miami Vice 2006, Thief, Collateral
+
+* New screenings: 
+    * [Blackhat](https://drafthouse.com/los-angeles/show/blackhat): Mon 4/18 (1:45pm), Mon 4/25 (2:30pm)
+
+    * [Collateral](https://drafthouse.com/los-angeles/show/collateral): Fri 4/22 (2:30pm)
+
+    * [Miami Vice 1984 Pilot](https://drafthouse.com/los-angeles/show/miami-vice-1984-pilot): Fri 4/1 (3:00pm), Mon 4/4 (3:00pm)
+
+    * [Miami Vice 2006](https://drafthouse.com/los-angeles/show/miami-vice-2006): Fri 4/29 (3:00pm), Mon 5/2 (3:00pm)
+
+    * [Prince Sign O The Times](https://drafthouse.com/los-angeles/show/prince-sign-o-the-times): Mon 4/4 (8:15pm)
+
+    * [Thief](https://drafthouse.com/los-angeles/show/thief): Fri 4/8 (2:25pm), Mon 4/11 (2:30pm)
+
 ### Fri 3/11 1:16pm
 
 * New screenings: 
