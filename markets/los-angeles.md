@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Sun 3/13 10:17am
+* New movies: Apollo 10 1/2: A Space Age Childhood
+
+* New screenings: 
+    * [Apollo 10 1 2 A Space Age Childhood](https://drafthouse.com/los-angeles/show/apollo-10-1-2-a-space-age-childhood): Thu 3/24 (7:15pm, 9:45pm), Fri 3/25 (3:45pm, 6:30pm, 9:00pm), Sat 3/26 (1:30pm, 4:00pm, 6:30pm, 9:00pm), Sun 3/27 (1:15pm, 3:45pm, 6:15pm), Mon 3/28 (1:15pm, 3:45pm, 6:15pm)
+
 ### Fri 3/11 5:10pm
 * New movies: Blackhat, Miami Vice 1984 Pilot, Miami Vice 2006, Thief, Collateral
 
