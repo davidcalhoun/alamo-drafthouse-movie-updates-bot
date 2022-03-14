@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 3/14 8:21am
+
+* New screenings: 
+    * [Sonic The Hedgehog 2](https://drafthouse.com/los-angeles/show/sonic-the-hedgehog-2): Fri 4/8 (3:00pm, 6:00pm), Sat 4/9 (3:00pm, 6:00pm), Sun 4/10 (11:45am, 3:00pm, 6:00pm), Mon 4/11 (12:00pm, 3:00pm, 6:00pm), Tue 4/12 (12:00pm, 3:00pm, 6:00pm), Wed 4/13 (12:00pm, 3:00pm, 6:00pm)
+
 ### Mon 3/14 6:23am
 * New movies: Morbius, Sonic the Hedgehog 2
 
