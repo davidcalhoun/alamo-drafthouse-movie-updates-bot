@@ -1,6 +1,38 @@
 # los-angeles
 
 ## Movie updates
+### Mon 3/14 2:17pm
+* New movies: The Outfit, Alice, Master, The Batman, Uncharted
+
+* New screenings: 
+    * [After Yang](https://drafthouse.com/los-angeles/show/after-yang): Thu 3/17 (2:10pm, 6:45pm, 9:30pm), Fri 3/18 (2:15pm, 5:00pm, 7:45pm, 10:30pm), Sat 3/19 (10:45am, 1:30pm, 4:15pm, 7:00pm, 9:45pm), Sun 3/20 (12:00pm, 3:00pm, 6:15pm), Mon 3/21 (12:00pm, 3:00pm, 6:15pm), Tue 3/22 (12:00pm, 3:00pm, 6:15pm), Wed 3/23 (12:00pm, 3:00pm, 6:15pm)
+
+    * [Alice](https://drafthouse.com/los-angeles/show/alice): Thu 3/17 (7:45pm, 10:25pm), Fri 3/18 (3:30pm, 6:45pm, 9:30pm), Sat 3/19 (12:30pm, 3:30pm, 6:30pm, 9:15pm), Sun 3/20 (1:00pm, 3:45pm, 6:30pm), Mon 3/21 (1:00pm, 3:45pm, 6:30pm), Tue 3/22 (1:00pm, 3:45pm, 6:30pm), Wed 3/23 (1:00pm, 3:45pm, 6:30pm)
+
+    * [Brunch Screenings The Batman Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-the-batman-brunch): Sat 3/19 (10:15am, 11:30am), Sun 3/20 (10:45am, 11:45am)
+
+    * [Death On The Nile 2022](https://drafthouse.com/los-angeles/show/death-on-the-nile-2022): Thu 3/17 (3:45pm)
+
+    * [Graveyard Shift Evil Dead Ii](https://drafthouse.com/los-angeles/show/graveyard-shift-evil-dead-ii): Mon 3/21 (8:15pm)
+
+    * [Harry Potter And The Half Blood Prince](https://drafthouse.com/los-angeles/show/harry-potter-and-the-half-blood-prince): Sat 3/19 (3:35pm), Wed 3/23 (11:15am)
+
+    * [Ive Heard The Mermaids Singing](https://drafthouse.com/los-angeles/show/ive-heard-the-mermaids-singing): Mon 3/21 (12:45pm, 3:15pm), Tue 3/22 (11:20am, 3:15pm), Wed 3/23 (3:10pm, 5:45pm)
+
+    * [Master](https://drafthouse.com/los-angeles/show/master): Fri 3/18 (4:00pm, 7:00pm, 9:45pm), Sat 3/19 (12:15pm, 3:15pm, 6:00pm, 8:30pm), Sun 3/20 (12:30pm, 3:15pm, 6:00pm), Mon 3/21 (12:30pm, 3:15pm, 6:00pm), Tue 3/22 (12:15pm, 3:15pm, 6:00pm), Wed 3/23 (12:30pm, 3:15pm, 6:00pm)
+
+    * [Son Of The White Mare](https://drafthouse.com/los-angeles/show/son-of-the-white-mare): Thu 3/17 (2:45pm)
+
+    * [The Batman](https://drafthouse.com/los-angeles/show/the-batman): Thu 3/17 (2:30pm, 3:00pm, 3:00pm, 3:15pm, 3:30pm, 3:45pm, 4:00pm, 5:15pm, 5:30pm, 7:15pm, 9:15pm, 9:30pm, 10:35pm, 10:45pm), Fri 3/18 (2:00pm, 2:15pm, 3:00pm, 4:25pm, 5:50pm, 6:00pm, 6:20pm, 8:30pm, 10:00pm, 10:20pm, 10:25pm), Sat 3/19 (12:45pm, 2:15pm, 3:45pm, 4:55pm, 6:15pm, 7:50pm, 8:15pm, 9:00pm), Sun 3/20 (11:30am, 12:45pm, 2:50pm, 3:30pm, 4:45pm, 6:30pm, 7:00pm, 7:30pm), Mon 3/21 (10:45am, 11:30am, 12:00pm, 12:20pm, 2:50pm, 3:30pm, 4:30pm, 7:00pm, 7:30pm), Tue 3/22 (10:45am, 11:30am, 12:00pm, 2:50pm, 3:30pm, 4:30pm, 5:30pm, 7:00pm, 7:30pm), Wed 3/23 (10:45am, 11:30am, 12:20pm, 2:50pm, 3:30pm, 4:30pm, 7:00pm, 7:30pm)
+
+    * [The Outfit](https://drafthouse.com/los-angeles/show/the-outfit): Thu 3/17 (8:00pm, 10:45pm), Fri 3/18 (3:45pm, 6:30pm, 9:15pm), Sat 3/19 (11:00am, 1:45pm, 4:30pm, 7:15pm, 10:00pm), Sun 3/20 (12:15pm, 4:00pm, 6:45pm), Mon 3/21 (12:45pm, 4:00pm, 6:45pm), Tue 3/22 (12:30pm, 4:00pm, 6:45pm), Wed 3/23 (12:45pm, 4:00pm, 6:45pm)
+
+    * [The Worst Person In The World](https://drafthouse.com/los-angeles/show/the-worst-person-in-the-world): Thu 3/17 (2:20pm, 5:00pm), Fri 3/18 (2:40pm, 10:45pm), Sat 3/19 (2:30pm, 9:35pm), Sun 3/20 (11:15am, 3:10pm), Mon 3/21 (4:05pm, 7:15pm), Tue 3/22 (12:00pm, 2:00pm, 8:15pm), Wed 3/23 (12:00pm, 3:25pm, 6:40pm)
+
+    * [Uncharted](https://drafthouse.com/los-angeles/show/uncharted): Thu 3/17 (10:55pm), Fri 3/18 (4:15pm, 7:30pm, 10:30pm), Sat 3/19 (11:00am, 2:15pm, 5:30pm, 9:00pm), Sun 3/20 (1:00pm, 4:15pm, 7:15pm), Mon 3/21 (1:00pm, 4:15pm, 7:15pm), Tue 3/22 (1:00pm, 4:15pm, 7:15pm), Wed 3/23 (1:00pm, 4:15pm, 7:15pm)
+
+    * [X](https://drafthouse.com/los-angeles/show/x): Thu 3/17 (8:15pm, 11:00pm), Fri 3/18 (3:15pm, 6:15pm, 9:00pm), Sat 3/19 (10:30am, 1:15pm, 4:00pm, 6:45pm, 9:30pm), Sun 3/20 (11:00am, 1:45pm, 4:30pm, 7:15pm), Mon 3/21 (11:00am, 11:45am, 1:45pm, 2:30pm, 4:30pm, 5:15pm, 7:15pm, 8:00pm), Tue 3/22 (11:00am, 11:45am, 1:45pm, 2:30pm, 4:30pm, 5:15pm, 7:15pm, 8:00pm), Wed 3/23 (11:00am, 11:45am, 1:45pm, 2:30pm, 4:30pm, 5:15pm, 7:15pm, 8:00pm)
+
 ### Mon 3/14 8:21am
 
 * New screenings: 
