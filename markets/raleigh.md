@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Mon 3/14 4:27am
+* New movies: Alice, The Outfit
+
+* New screenings: 
+    * [Alice](https://drafthouse.com/raleigh/show/alice): Thu 3/17 (7:45pm, 10:30pm)
+
+    * [The Outfit](https://drafthouse.com/raleigh/show/the-outfit): Thu 3/17 (7:15pm, 10:00pm)
+
 ### Wed 3/9 12:23pm
 * New movies: The Runner x Rabid
 
