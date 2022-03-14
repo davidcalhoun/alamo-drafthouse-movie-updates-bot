@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Mon 3/14 9:27am
+* New movies: Morbius, Sonic the Hedgehog 2
+
+* New screenings: 
+    * [Morbius](https://drafthouse.com/raleigh/show/morbius): Thu 3/31 (4:00pm, 7:00pm, 10:00pm), Fri 4/1 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sat 4/2 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sun 4/3 (1:00pm, 4:00pm, 7:00pm)
+
+    * [Sonic The Hedgehog 2](https://drafthouse.com/raleigh/show/sonic-the-hedgehog-2): Thu 4/7 (3:00pm, 6:00pm, 9:00pm), Fri 4/8 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sat 4/9 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sun 4/10 (1:00pm, 4:00pm, 7:00pm)
+
 ### Mon 3/14 4:27am
 * New movies: Alice, The Outfit
 
