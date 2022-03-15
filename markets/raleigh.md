@@ -1,6 +1,36 @@
 # raleigh
 
 ## Movie updates
+### Mon 3/14 9:38pm
+* New movies: Master
+
+* New screenings: 
+    * [Alice](https://drafthouse.com/raleigh/show/alice): Fri 3/18 (1:15pm, 4:15pm, 7:15pm, 10:00pm), Sat 3/19 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Sun 3/20 (1:15pm, 4:15pm, 7:15pm, 10:00pm), Mon 3/21 (1:15pm, 4:15pm, 7:15pm, 10:00pm), Tue 3/22 (1:15pm, 4:15pm, 7:15pm, 10:00pm), Wed 3/23 (1:15pm, 4:15pm, 7:15pm, 10:00pm)
+
+    * [Cyrano](https://drafthouse.com/raleigh/show/cyrano): Thu 3/17 (4:15pm)
+
+    * [Death On The Nile 2022](https://drafthouse.com/raleigh/show/death-on-the-nile-2022): Thu 3/17 (11:15am, 2:30pm, 6:00pm, 9:15pm), Fri 3/18 (11:45am, 3:00pm, 6:15pm, 9:45pm), Sat 3/19 (11:15am, 2:30pm, 6:30pm, 9:45pm), Sun 3/20 (11:45am, 3:00pm, 6:15pm, 9:45pm), Mon 3/21 (11:45am, 3:00pm, 6:15pm, 9:45pm), Tue 3/22 (11:45am, 3:00pm, 6:15pm, 9:45pm), Wed 3/23 (11:30am, 2:45pm, 6:15pm, 9:45pm)
+
+    * [Graveyard Shift Evil Dead Ii](https://drafthouse.com/raleigh/show/graveyard-shift-evil-dead-ii): Mon 3/21 (10:15pm)
+
+    * [Jujutsu Kaisen 0 Dubbed](https://drafthouse.com/raleigh/show/jujutsu-kaisen-0-dubbed): Mon 3/21 (1:45pm, 7:00pm), Tue 3/22 (1:45pm, 7:00pm, 10:15pm), Wed 3/23 (1:45pm, 7:45pm)
+
+    * [Jujutsu Kaisen 0 Subtitled](https://drafthouse.com/raleigh/show/jujutsu-kaisen-0-subtitled): Thu 3/17 (9:00pm, 10:30pm), Mon 3/21 (4:45pm, 10:00pm), Tue 3/22 (4:45pm, 10:00pm), Wed 3/23 (4:45pm, 10:30pm)
+
+    * [Master](https://drafthouse.com/raleigh/show/master): Fri 3/18 (1:00pm, 3:45pm, 6:45pm, 9:30pm), Sat 3/19 (1:00pm, 3:45pm, 6:45pm, 10:00pm), Sun 3/20 (1:00pm, 3:45pm, 6:45pm, 9:30pm), Mon 3/21 (1:00pm, 3:45pm, 6:45pm, 9:30pm), Tue 3/22 (1:00pm, 3:45pm, 6:45pm, 9:30pm), Wed 3/23 (1:00pm, 3:45pm, 6:45pm, 9:30pm)
+
+    * [Spider Man No Way Home](https://drafthouse.com/raleigh/show/spider-man-no-way-home): Thu 3/17 (11:45am, 3:15pm, 6:30pm, 9:30pm), Fri 3/18 (11:45am, 3:30pm, 6:15pm, 9:45pm), Sat 3/19 (11:15am, 2:45pm, 6:15pm, 9:45pm), Sun 3/20 (11:45am, 3:30pm, 6:15pm, 9:45pm), Mon 3/21 (11:45am, 3:30pm, 6:15pm, 9:45pm), Tue 3/22 (11:45am, 3:30pm, 6:15pm, 9:45pm), Wed 3/23 (11:45am, 3:15pm, 6:15pm, 10:00pm)
+
+    * [The Batman](https://drafthouse.com/raleigh/show/the-batman): Thu 3/17 (11:15am, 11:45am, 12:15pm, 12:45pm, 1:30pm, 3:30pm, 3:45pm, 5:00pm, 5:30pm, 10:00pm), Fri 3/18 (12:00pm, 1:00pm, 2:00pm, 4:00pm, 5:00pm, 7:00pm, 8:00pm, 9:00pm), Sat 3/19 (10:45am, 12:00pm, 2:15pm, 4:00pm, 5:45pm, 6:45pm, 8:00pm, 9:00pm), Sun 3/20 (11:00am, 12:00pm, 1:00pm, 4:00pm, 5:00pm, 7:00pm, 8:00pm, 9:00pm), Mon 3/21 (12:00pm, 1:00pm, 2:00pm, 4:00pm, 5:00pm, 8:00pm, 9:00pm), Tue 3/22 (12:00pm, 1:00pm, 2:00pm, 4:00pm, 5:00pm, 8:00pm, 9:00pm), Wed 3/23 (11:00am, 12:45pm, 1:30pm, 3:00pm, 5:00pm, 5:45pm, 7:00pm, 9:00pm)
+
+    * [The Outfit](https://drafthouse.com/raleigh/show/the-outfit): Fri 3/18 (12:45pm, 3:30pm, 6:30pm, 9:15pm), Sat 3/19 (12:45pm, 3:45pm, 7:00pm, 10:00pm), Sun 3/20 (12:45pm, 3:30pm, 6:30pm, 9:15pm), Mon 3/21 (12:45pm, 3:30pm, 6:30pm, 9:15pm), Tue 3/22 (12:45pm, 3:30pm, 6:30pm, 9:15pm), Wed 3/23 (12:45pm, 3:30pm, 6:30pm, 9:15pm)
+
+    * [The Worst Person In The World](https://drafthouse.com/raleigh/show/the-worst-person-in-the-world): Thu 3/17 (11:30am, 3:15pm)
+
+    * [Uncharted](https://drafthouse.com/raleigh/show/uncharted): Thu 3/17 (12:00pm, 3:00pm, 6:15pm, 9:30pm), Fri 3/18 (11:30am, 2:45pm, 6:00pm, 9:00pm), Sat 3/19 (11:30am, 2:45pm, 6:00pm, 9:15pm), Sun 3/20 (11:30am, 2:45pm, 6:00pm, 9:00pm), Mon 3/21 (11:30am, 2:45pm, 6:00pm, 9:00pm), Tue 3/22 (11:30am, 2:45pm, 6:00pm, 9:00pm), Wed 3/23 (11:15am, 2:30pm, 6:00pm, 9:00pm)
+
+    * [X](https://drafthouse.com/raleigh/show/x): Fri 3/18 (1:30pm, 4:30pm), Sat 3/19 (1:30pm, 4:30pm), Sun 3/20 (1:30pm, 4:30pm), Mon 3/21 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Tue 3/22 (1:30pm, 4:30pm, 7:45pm, 10:30pm), Wed 3/23 (1:15pm, 4:30pm, 7:30pm, 10:15pm)
+
 ### Mon 3/14 9:27am
 * New movies: Morbius, Sonic the Hedgehog 2
 
