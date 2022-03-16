@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 3/16 2:28pm
+* New movies: UFC 273: Volkanovski vs. The Korean Zombie
+
+* New screenings: 
+    * [Ufc 273 Volkanovski Vs The Korean Zombie](https://drafthouse.com/raleigh/show/ufc-273-volkanovski-vs-the-korean-zombie): Sat 4/9 (10:00pm)
+
 ### Mon 3/14 9:38pm
 * New movies: Master
 
