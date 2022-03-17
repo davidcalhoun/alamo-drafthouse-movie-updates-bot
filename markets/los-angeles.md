@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 3/17 4:18pm
+
+* New screenings: 
+    * [X](https://drafthouse.com/los-angeles/show/x): Thu 3/17 (9:30pm)
+
 ### Mon 3/14 2:17pm
 * New movies: The Outfit, Alice, Master, The Batman, Uncharted
 
