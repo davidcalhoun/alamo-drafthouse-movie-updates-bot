@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Fri 3/18 3:19pm
+* New movies: 7 Days
+
+* New screenings: 
+    * [7 Days](https://drafthouse.com/los-angeles/show/7-days): Fri 3/25 (3:30pm, 6:15pm, 9:00pm), Sat 3/26 (1:30pm, 4:15pm, 7:15pm, 9:45pm), Sun 3/27 (1:30pm, 4:15pm, 6:45pm)
+
+    * [Brunch Screenings Nausicaa Of The Valley Of The Wind Dubbed Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-nausicaa-of-the-valley-of-the-wind-dubbed-brunch): Sun 3/27 (11:00am)
+
+    * [Graveyard Shift Army Of Darkness](https://drafthouse.com/los-angeles/show/graveyard-shift-army-of-darkness): Mon 3/28 (5:00pm), Wed 3/30 (5:45pm)
+
 ### Fri 3/18 2:17pm
 
 * New screenings: 
