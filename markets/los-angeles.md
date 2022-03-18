@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 3/18 2:17pm
+
+* New screenings: 
+    * [Morbius](https://drafthouse.com/los-angeles/show/morbius): Mon 4/4 (6:45pm)
+
 ### Thu 3/17 4:18pm
 
 * New screenings: 
