@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 3/21 7:23pm
+* New movies: This Much I Know To Be True
+
+* New screenings: 
+    * [This Much I Know To Be True](https://drafthouse.com/raleigh/show/this-much-i-know-to-be-true): Wed 5/11 (7:15pm)
+
 ### Wed 3/16 2:28pm
 * New movies: UFC 273: Volkanovski vs. The Korean Zombie
 
