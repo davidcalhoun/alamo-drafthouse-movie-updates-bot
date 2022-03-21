@@ -1,6 +1,50 @@
 # los-angeles
 
 ## Movie updates
+### Mon 3/21 3:19pm
+* New movies: Infinite Storm, The Lost City, Nausicaa of the Valley of the Wind Subtitled
+
+* New screenings: 
+    * [7 Days](https://drafthouse.com/los-angeles/show/7-days): Mon 3/28 (7:45pm), Tue 3/29 (11:30am), Wed 3/30 (7:50pm)
+
+    * [After Yang](https://drafthouse.com/los-angeles/show/after-yang): Thu 3/24 (2:15pm), Fri 3/25 (10:30pm), Sat 3/26 (10:40pm), Sun 3/27 (8:25pm), Mon 3/28 (11:00am), Tue 3/29 (3:00pm), Wed 3/30 (7:40pm)
+
+    * [Alice](https://drafthouse.com/los-angeles/show/alice): Thu 3/24 (2:45pm)
+
+    * [Apollo 10 1 2 A Space Age Childhood](https://drafthouse.com/los-angeles/show/apollo-10-1-2-a-space-age-childhood): Tue 3/29 (1:15pm, 3:45pm, 6:30pm), Wed 3/30 (1:15pm, 3:45pm, 6:30pm)
+
+    * [Brunch Screenings The Batman Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-the-batman-brunch): Sat 3/26 (11:00am), Sun 3/27 (11:15am)
+
+    * [Brunch Screenings The Lost City](https://drafthouse.com/los-angeles/show/brunch-screenings-the-lost-city): Sat 3/26 (11:30am), Sun 3/27 (11:40am)
+
+    * [Graveyard Shift Army Of Darkness](https://drafthouse.com/los-angeles/show/graveyard-shift-army-of-darkness): Tue 3/29 (4:30pm)
+
+    * [Graveyard Shift Evil Dead Ii](https://drafthouse.com/los-angeles/show/graveyard-shift-evil-dead-ii): Thu 3/24 (6:45pm)
+
+    * [Harry Potter And The Deathly Hallows Part 1](https://drafthouse.com/los-angeles/show/harry-potter-and-the-deathly-hallows-part-1): Fri 3/25 (1:45pm), Mon 3/28 (11:30am), Tue 3/29 (11:30am)
+
+    * [Infinite Storm](https://drafthouse.com/los-angeles/show/infinite-storm): Thu 3/24 (7:30pm, 10:15pm), Fri 3/25 (2:00pm, 4:45pm, 7:30pm, 10:15pm), Sat 3/26 (1:15pm, 4:15pm, 7:05pm, 9:45pm), Sun 3/27 (1:15pm, 4:15pm, 7:00pm), Mon 3/28 (1:15pm, 4:15pm, 7:00pm), Tue 3/29 (1:15pm, 4:15pm, 7:00pm), Wed 3/30 (1:15pm, 4:15pm, 7:00pm)
+
+    * [Ive Heard The Mermaids Singing](https://drafthouse.com/los-angeles/show/ive-heard-the-mermaids-singing): Thu 3/24 (2:50pm)
+
+    * [Master](https://drafthouse.com/los-angeles/show/master): Thu 3/24 (3:45pm)
+
+    * [Nausicaa Of The Valley Of The Wind Subtitled](https://drafthouse.com/los-angeles/show/nausicaa-of-the-valley-of-the-wind-subtitled): Sat 3/26 (5:45pm)
+
+    * [The Batman](https://drafthouse.com/los-angeles/show/the-batman): Thu 3/24 (1:50pm, 3:15pm, 5:00pm, 6:00pm, 9:15pm, 9:30pm, 10:05pm), Fri 3/25 (1:50pm, 4:15pm, 5:30pm, 6:00pm, 8:20pm, 9:45pm, 10:10pm), Sat 3/26 (11:45am, 3:10pm, 3:45pm, 7:20pm, 7:45pm, 9:30pm), Sun 3/27 (12:40pm, 2:15pm, 3:15pm, 6:30pm, 7:15pm), Mon 3/28 (11:00am, 12:45pm, 1:40pm, 3:05pm, 5:40pm, 7:10pm), Tue 3/29 (11:15am, 12:30pm, 1:30pm, 3:25pm, 5:30pm, 6:00pm, 7:00pm), Wed 3/30 (11:00am, 11:25am, 1:30pm, 3:05pm, 3:30pm, 5:30pm, 7:10pm)
+
+    * [The Lost City](https://drafthouse.com/los-angeles/show/the-lost-city): Thu 3/24 (5:45pm, 8:45pm, 9:30pm), Fri 3/25 (2:45pm, 5:45pm, 8:45pm), Sat 3/26 (2:45pm, 5:45pm, 8:45pm), Sun 3/27 (2:35pm, 5:30pm), Mon 3/28 (11:45am, 1:00pm, 2:45pm, 4:00pm, 6:00pm, 7:15pm), Tue 3/29 (11:45am, 1:00pm, 2:45pm, 4:00pm, 5:45pm, 7:15pm), Wed 3/30 (11:45am, 1:00pm, 2:45pm, 4:00pm, 6:00pm, 7:15pm)
+
+    * [The Outfit](https://drafthouse.com/los-angeles/show/the-outfit): Thu 3/24 (3:30pm, 6:15pm, 9:00pm), Fri 3/25 (3:15pm, 6:15pm, 9:15pm), Sat 3/26 (12:15pm, 3:30pm, 6:15pm, 9:15pm), Sun 3/27 (12:15pm, 3:30pm, 6:15pm), Mon 3/28 (12:15pm, 3:15pm, 6:15pm), Tue 3/29 (12:15pm, 3:15pm, 6:15pm), Wed 3/30 (12:15pm, 3:15pm, 6:15pm)
+
+    * [The Song Remains The Same](https://drafthouse.com/los-angeles/show/the-song-remains-the-same): Thu 3/24 (5:15pm)
+
+    * [The Worst Person In The World](https://drafthouse.com/los-angeles/show/the-worst-person-in-the-world): Thu 3/24 (3:15pm), Fri 3/25 (4:00pm), Sat 3/26 (6:15pm), Sun 3/27 (4:30pm), Mon 3/28 (7:30pm), Tue 3/29 (7:45pm), Wed 3/30 (11:35am)
+
+    * [Uncharted](https://drafthouse.com/los-angeles/show/uncharted): Thu 3/24 (4:00pm, 7:15pm, 10:30pm), Fri 3/25 (4:00pm, 7:15pm, 10:30pm), Sat 3/26 (12:45pm, 4:00pm, 7:00pm, 10:00pm), Sun 3/27 (12:30pm, 3:45pm, 6:45pm), Mon 3/28 (12:30pm, 3:45pm, 6:45pm), Tue 3/29 (12:30pm, 3:45pm, 6:45pm), Wed 3/30 (12:30pm, 3:45pm, 6:45pm)
+
+    * [X](https://drafthouse.com/los-angeles/show/x): Thu 3/24 (1:45pm, 2:15pm, 4:30pm, 5:00pm, 6:30pm, 7:45pm, 8:45pm, 10:30pm), Fri 3/25 (2:30pm, 3:30pm, 5:15pm, 6:45pm, 8:00pm, 9:30pm, 10:45pm), Sat 3/26 (11:15am, 12:30pm, 2:15pm, 3:15pm, 5:00pm, 6:00pm, 7:45pm, 8:45pm), Sun 3/27 (11:00am, 12:30pm, 1:45pm, 3:15pm, 6:00pm), Mon 3/28 (11:15am, 12:30pm, 2:00pm, 3:15pm, 4:45pm, 6:15pm), Tue 3/29 (12:30pm, 2:00pm, 3:15pm, 4:45pm, 6:15pm), Wed 3/30 (11:15am, 12:30pm, 2:00pm, 3:15pm, 4:45pm, 6:15pm)
+
 ### Fri 3/18 3:19pm
 * New movies: 7 Days
 
