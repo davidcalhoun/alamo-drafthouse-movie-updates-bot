@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 3/21 4:19pm
+* New movies: This Much I Know To Be True
+
+* New screenings: 
+    * [This Much I Know To Be True](https://drafthouse.com/los-angeles/show/this-much-i-know-to-be-true): Wed 5/11 (7:15pm)
+
 ### Mon 3/21 3:19pm
 * New movies: Infinite Storm, The Lost City, Nausicaa of the Valley of the Wind Subtitled
 
