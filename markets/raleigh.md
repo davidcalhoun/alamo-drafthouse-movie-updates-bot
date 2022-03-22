@@ -1,6 +1,40 @@
 # raleigh
 
 ## Movie updates
+### Tue 3/22 12:40pm
+* New movies: Infinite Storm, Sing 2, The Worst Person in the World
+
+* New screenings: 
+    * [Alice](https://drafthouse.com/raleigh/show/alice): Thu 3/24 (1:15pm, 4:15pm, 6:45pm, 9:30pm), Fri 3/25 (1:15pm, 4:15pm, 7:15pm, 10:00pm), Sat 3/26 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Sun 3/27 (1:15pm, 4:15pm, 7:15pm), Mon 3/28 (1:15pm, 4:15pm, 7:15pm, 10:00pm), Tue 3/29 (1:15pm, 4:15pm, 7:15pm, 10:00pm), Wed 3/30 (1:15pm, 4:15pm, 7:00pm, 10:00pm)
+
+    * [Death On The Nile 2022](https://drafthouse.com/raleigh/show/death-on-the-nile-2022): Thu 3/24 (1:30pm)
+
+    * [Graveyard Shift Army Of Darkness](https://drafthouse.com/raleigh/show/graveyard-shift-army-of-darkness): Wed 3/30 (10:30pm)
+
+    * [Infinite Storm](https://drafthouse.com/raleigh/show/infinite-storm): Thu 3/24 (7:00pm, 9:45pm), Fri 3/25 (1:00pm, 4:00pm, 6:45pm, 9:45pm), Sat 3/26 (1:00pm, 4:00pm, 6:45pm, 9:45pm), Sun 3/27 (1:00pm, 4:00pm, 6:45pm), Mon 3/28 (1:00pm, 4:00pm, 6:45pm, 9:45pm), Tue 3/29 (1:00pm, 4:00pm, 6:45pm, 9:45pm), Wed 3/30 (1:00pm, 4:00pm, 6:45pm, 9:45pm)
+
+    * [Jujutsu Kaisen 0 Dubbed](https://drafthouse.com/raleigh/show/jujutsu-kaisen-0-dubbed): Thu 3/24 (1:45pm, 7:45pm), Fri 3/25 (1:45pm, 7:45pm), Sat 3/26 (1:45pm, 7:45pm), Sun 3/27 (1:45pm, 7:45pm), Mon 3/28 (1:45pm, 6:15pm), Tue 3/29 (1:30pm, 6:15pm), Wed 3/30 (1:30pm, 7:30pm)
+
+    * [Jujutsu Kaisen 0 Subtitled](https://drafthouse.com/raleigh/show/jujutsu-kaisen-0-subtitled): Thu 3/24 (4:45pm, 10:30pm), Fri 3/25 (4:45pm, 10:45pm), Sat 3/26 (4:45pm, 10:45pm), Sun 3/27 (4:45pm), Mon 3/28 (4:45pm, 10:45pm), Tue 3/29 (4:30pm, 9:15pm), Wed 3/30 (4:30pm, 10:15pm)
+
+    * [Master](https://drafthouse.com/raleigh/show/master): Thu 3/24 (1:00pm, 3:30pm)
+
+    * [Sing Along Sing 2](https://drafthouse.com/raleigh/show/sing-along-sing-2): Fri 3/25 (12:15pm), Sat 3/26 (12:15pm), Sun 3/27 (12:15pm), Mon 3/28 (12:00pm), Tue 3/29 (12:00pm), Wed 3/30 (1:15pm)
+
+    * [Spider Man No Way Home](https://drafthouse.com/raleigh/show/spider-man-no-way-home): Thu 3/24 (11:45am, 3:15pm)
+
+    * [The Batman](https://drafthouse.com/raleigh/show/the-batman): Thu 3/24 (12:00pm, 1:00pm, 1:30pm, 5:00pm, 5:45pm, 8:45pm, 9:00pm, 9:30pm), Fri 3/25 (12:45pm, 1:30pm, 5:15pm, 5:45pm, 8:15pm, 9:15pm, 9:30pm), Sat 3/26 (1:00pm, 1:15pm, 5:15pm, 5:45pm, 8:15pm, 9:30pm, 10:00pm), Sun 3/27 (11:15am, 12:45pm, 3:15pm, 5:15pm, 7:45pm), Mon 3/28 (12:45pm, 1:30pm, 5:15pm, 5:30pm, 8:15pm, 9:15pm), Tue 3/29 (12:45pm, 1:30pm, 5:15pm, 5:30pm, 8:15pm, 9:15pm), Wed 3/30 (12:45pm, 1:30pm, 5:15pm, 5:30pm, 8:15pm, 9:15pm)
+
+    * [The Lost City](https://drafthouse.com/raleigh/show/the-lost-city): Thu 3/24 (6:00pm, 10:00pm), Fri 3/25 (11:55am, 1:15pm, 2:45pm, 3:15pm, 5:30pm, 10:00pm), Sat 3/26 (11:45am, 2:45pm, 3:15pm, 5:30pm, 9:30pm), Sun 3/27 (12:15pm, 2:15pm, 3:15pm, 5:00pm), Mon 3/28 (11:45am, 1:15pm, 2:45pm, 4:15pm, 5:30pm, 7:00pm, 10:00pm), Tue 3/29 (11:45am, 1:00pm, 2:45pm, 4:15pm, 5:30pm, 7:00pm, 10:00pm), Wed 3/30 (11:45am, 1:00pm, 2:45pm, 4:15pm, 5:30pm, 7:00pm, 10:00pm)
+
+    * [The Outfit](https://drafthouse.com/raleigh/show/the-outfit): Thu 3/24 (12:45pm, 3:30pm, 6:30pm, 9:15pm), Fri 3/25 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sat 3/26 (12:30pm, 3:30pm, 6:15pm, 9:00pm), Sun 3/27 (1:30pm, 4:30pm, 7:15pm), Mon 3/28 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Tue 3/29 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Wed 3/30 (12:30pm, 3:30pm, 6:30pm, 9:30pm)
+
+    * [The Worst Person In The World](https://drafthouse.com/raleigh/show/the-worst-person-in-the-world): Fri 3/25 (6:15pm), Sat 3/26 (6:15pm), Sun 3/27 (6:15pm), Mon 3/28 (3:00pm), Tue 3/29 (3:00pm), Wed 3/30 (4:30pm)
+
+    * [Uncharted](https://drafthouse.com/raleigh/show/uncharted): Thu 3/24 (11:30am, 2:30pm, 6:00pm, 9:00pm), Fri 3/25 (12:00pm, 3:00pm, 6:00pm, 9:15pm), Sat 3/26 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sun 3/27 (12:00pm, 3:00pm, 6:00pm), Mon 3/28 (12:00pm, 3:00pm, 6:00pm, 9:15pm), Tue 3/29 (12:00pm, 3:00pm, 6:00pm, 9:15pm), Wed 3/30 (12:00pm, 3:00pm, 6:00pm, 9:15pm)
+
+    * [X](https://drafthouse.com/raleigh/show/x): Thu 3/24 (1:15pm, 4:40pm, 7:30pm, 9:45pm, 10:15pm), Fri 3/25 (1:30pm, 4:30pm, 7:30pm, 9:45pm, 10:30pm), Sat 3/26 (1:30pm, 4:30pm, 7:30pm, 9:15pm, 10:30pm), Sun 3/27 (1:30pm, 4:30pm, 7:30pm), Mon 3/28 (1:45pm, 4:30pm, 7:30pm, 9:35pm, 10:30pm), Tue 3/29 (1:45pm, 4:30pm, 7:30pm, 9:35pm, 10:30pm), Wed 3/30 (1:45pm, 4:30pm, 7:15pm, 9:35pm, 10:15pm)
+
 ### Mon 3/21 7:23pm
 * New movies: This Much I Know To Be True
 
