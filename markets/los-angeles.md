@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 3/22 4:19pm
+* New movies: 7 Days
+
+* New screenings: 
+    * [Live Q A 7 Days](https://drafthouse.com/los-angeles/show/live-q-a-7-days): Fri 3/25 (7:30pm)
+
 ### Mon 3/21 4:19pm
 * New movies: This Much I Know To Be True
 
