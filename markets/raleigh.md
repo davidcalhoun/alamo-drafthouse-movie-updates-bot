@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 3/22 2:28pm
+
+* New screenings: 
+    * [The Outfit](https://drafthouse.com/raleigh/show/the-outfit): Wed 3/30 (11:30am)
+
 ### Tue 3/22 12:40pm
 * New movies: Infinite Storm, Sing 2, The Worst Person in the World
 
