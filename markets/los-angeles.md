@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 3/23 4:18pm
+
+* New screenings: 
+    * [Uncharted](https://drafthouse.com/los-angeles/show/uncharted): Thu 3/24 (4:00pm, 7:15pm), Fri 3/25 (7:15pm, 10:45pm), Sun 3/27 (3:00pm)
+
 ### Tue 3/22 7:55pm
 
 * New screenings: 
