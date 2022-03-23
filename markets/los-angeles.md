@@ -1,6 +1,17 @@
 # los-angeles
 
 ## Movie updates
+### Tue 3/22 7:55pm
+
+* New screenings: 
+    * [7 Days](https://drafthouse.com/los-angeles/show/7-days): Mon 3/28 (9:00pm)
+
+    * [After Yang](https://drafthouse.com/los-angeles/show/after-yang): Sat 3/26 (9:30pm)
+
+    * [The Batman](https://drafthouse.com/los-angeles/show/the-batman): Sun 3/27 (3:15pm), Tue 3/29 (2:15pm), Wed 3/30 (1:30pm)
+
+    * [X](https://drafthouse.com/los-angeles/show/x): Sat 3/26 (12:30pm, 6:00pm, 9:00pm), Sun 3/27 (5:30pm, 8:15pm), Mon 3/28 (12:45pm, 3:30pm), Tue 3/29 (11:30am, 7:45pm), Wed 3/30 (7:30pm)
+
 ### Tue 3/22 6:34pm
 
 * New screenings: 
