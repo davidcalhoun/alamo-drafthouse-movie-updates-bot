@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 3/22 6:34pm
+
+* New screenings: 
+    * [X](https://drafthouse.com/los-angeles/show/x): Wed 3/23 (5:15pm), Fri 3/25 (2:30pm), Mon 3/28 (6:15pm)
+
 ### Tue 3/22 4:19pm
 * New movies: 7 Days
 
