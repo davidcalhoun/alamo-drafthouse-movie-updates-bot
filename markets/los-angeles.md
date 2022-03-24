@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 3/24 4:19pm
+* New movies: JOSIE AND THE PUSSYCATS
+
+
+
 ### Thu 3/24 3:19pm
 * New movies: The Witch, Midsommar, Midsommar
 
