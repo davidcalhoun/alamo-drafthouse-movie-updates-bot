@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 3/24 12:34pm
+* New movies: The Room with Greg Sestero Live
+
+* New screenings: 
+    * [The Room With Greg Sestero Live](https://drafthouse.com/raleigh/show/the-room-with-greg-sestero-live): Fri 4/15 (7:15pm)
+
 ### Tue 3/22 2:28pm
 
 * New screenings: 
