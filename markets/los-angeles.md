@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Thu 3/24 3:19pm
+* New movies: The Witch, Midsommar, Midsommar
+
+* New screenings: 
+    * [Brunch Screenings Midsommar Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-midsommar-brunch): Sun 4/17 (11:15am)
+
+    * [Graveyard Shift The Witch](https://drafthouse.com/los-angeles/show/graveyard-shift-the-witch): Mon 4/18 (8:00pm)
+
+    * [Special Event Midsommar With Ari Aster Q A](https://drafthouse.com/los-angeles/show/special-event-midsommar-with-ari-aster-q-a): Tue 4/19 (7:30pm)
+
 ### Wed 3/23 4:18pm
 
 * New screenings: 
