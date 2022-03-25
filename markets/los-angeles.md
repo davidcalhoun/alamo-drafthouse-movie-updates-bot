@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 3/25 2:17pm
+* New movies: EASTER SUNDAY
+
+* New screenings: 
+    * [Easter Sunday](https://drafthouse.com/los-angeles/show/easter-sunday): Thu 8/4 (7:00pm), Fri 8/5 (7:00pm), Sat 8/6 (7:00pm), Sun 8/7 (7:00pm)
+
 ### Fri 3/25 1:22am
 * New movies: Inspector Ike, Superior
 
