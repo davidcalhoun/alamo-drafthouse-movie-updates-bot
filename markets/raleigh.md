@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Fri 3/25 10:21am
+
+* New screenings: 
+    * [Graveyard Shift Army Of Darkness](https://drafthouse.com/raleigh/show/graveyard-shift-army-of-darkness): Sat 3/26 (9:00pm)
+
+    * [Harry Potter And The Deathly Hallows Part 1](https://drafthouse.com/raleigh/show/harry-potter-and-the-deathly-hallows-part-1): Sun 3/27 (1:00pm)
+
 ### Fri 3/25 2:29am
 * New movies: The Witch
 
