@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Fri 3/25 2:29am
+* New movies: The Witch
+
+* New screenings: 
+    * [Graveyard Shift The Witch](https://drafthouse.com/raleigh/show/graveyard-shift-the-witch): Sun 4/17 (12:00pm)
+
+    * [Mandy](https://drafthouse.com/raleigh/show/mandy): Mon 4/18 (7:30pm)
+
 ### Thu 3/24 12:34pm
 * New movies: The Room with Greg Sestero Live
 
