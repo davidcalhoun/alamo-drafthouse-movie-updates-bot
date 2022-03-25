@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 3/24 6:22pm
+
+* New screenings: 
+    * [X](https://drafthouse.com/los-angeles/show/x): Thu 3/24 (7:45pm)
+
 ### Thu 3/24 4:19pm
 * New movies: JOSIE AND THE PUSSYCATS
 
