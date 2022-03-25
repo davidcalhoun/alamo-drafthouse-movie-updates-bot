@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Fri 3/25 1:22am
+* New movies: Inspector Ike, Superior
+
+* New screenings: 
+    * [Blackhat](https://drafthouse.com/los-angeles/show/blackhat): Fri 4/15 (2:30pm)
+
+    * [Inspector Ike](https://drafthouse.com/los-angeles/show/inspector-ike): Fri 4/8 (7:30pm), Sat 4/9 (7:30pm)
+
+    * [Superior](https://drafthouse.com/los-angeles/show/superior): Fri 4/15 (5:45pm)
+
 ### Thu 3/24 6:22pm
 
 * New screenings: 
