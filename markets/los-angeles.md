@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 3/25 7:48pm
+
+* New screenings: 
+    * [X](https://drafthouse.com/los-angeles/show/x): Fri 3/25 (8:00pm, 10:15pm), Sat 3/26 (11:30am, 2:15pm, 5:15pm, 8:00pm), Sun 3/27 (12:30pm, 3:15pm, 6:00pm)
+
 ### Fri 3/25 2:17pm
 * New movies: EASTER SUNDAY
 
