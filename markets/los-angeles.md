@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Sun 3/27 11:24pm
+
+* New screenings: 
+    * [X](https://drafthouse.com/los-angeles/show/x): Mon 3/28 (12:00pm, 2:45pm, 5:30pm), Tue 3/29 (12:45pm, 3:45pm, 6:45pm), Wed 3/30 (12:45pm, 3:45pm, 6:45pm)
+
 ### Sun 3/27 8:33pm
 
 * New screenings: 
