@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 3/28 2:17pm
+* New movies: We're All Going to the World's Fair
+
+* New screenings: 
+    * [Advance Screening Were All Going To The Worlds Fair](https://drafthouse.com/los-angeles/show/advance-screening-were-all-going-to-the-worlds-fair): Tue 4/19 (8:00pm)
+
 ### Sun 3/27 11:24pm
 
 * New screenings: 
