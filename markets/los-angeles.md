@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Sun 3/27 8:33pm
+
+* New screenings: 
+    * [Collateral](https://drafthouse.com/los-angeles/show/collateral): Mon 4/25 (2:30pm)
+
 ### Fri 3/25 7:48pm
 
 * New screenings: 
