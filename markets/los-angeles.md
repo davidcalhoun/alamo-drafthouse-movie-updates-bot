@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 3/28 3:19pm
+* New movies: Ambulance
+
+* New screenings: 
+    * [Ambulance](https://drafthouse.com/los-angeles/show/ambulance): Thu 4/7 (7:15pm, 10:30pm), Fri 4/8 (3:30pm, 6:45pm, 10:00pm), Sat 4/9 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Sun 4/10 (12:15pm, 3:45pm, 7:15pm)
+
 ### Mon 3/28 2:17pm
 * New movies: We're All Going to the World's Fair
 
