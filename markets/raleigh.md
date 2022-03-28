@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 3/28 6:24pm
+* New movies: Ambulance
+
+* New screenings: 
+    * [Ambulance](https://drafthouse.com/raleigh/show/ambulance): Thu 4/7 (7:00pm)
+
 ### Fri 3/25 10:21am
 
 * New screenings: 
