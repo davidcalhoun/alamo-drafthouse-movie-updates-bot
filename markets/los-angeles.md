@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 3/29 4:19pm
+
+* New screenings: 
+    * [Everything Everywhere All At Once](https://drafthouse.com/los-angeles/show/everything-everywhere-all-at-once): Thu 3/31 (7:00pm)
+
 ### Tue 3/29 1:19pm
 * New movies: Everything Everywhere All At Once, You Won't Be Alone, Open Caption: CODA, Everything Everywhere All At Once, Everything Everywhere All At Once, The Batman
 
