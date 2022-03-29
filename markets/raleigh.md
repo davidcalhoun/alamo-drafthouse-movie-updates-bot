@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 3/29 11:25am
+* New movies: Fantastic Beasts: The Secrets of Dumbledore
+
+* New screenings: 
+    * [Fantastic Beasts The Secrets Of Dumbledore](https://drafthouse.com/raleigh/show/fantastic-beasts-the-secrets-of-dumbledore): Thu 4/14 (2:30pm, 6:00pm, 9:30pm)
+
 ### Mon 3/28 6:24pm
 * New movies: Ambulance
 
