@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 3/29 4:31am
+* New movies: Fantastic Beasts: The Secrets of Dumbledore, Fantastic Beasts: The Secrets of Dumbledore
+
+* New screenings: 
+    * [Brunch Screenings Fantastic Beasts The Secrets Of Dumbledore](https://drafthouse.com/los-angeles/show/brunch-screenings-fantastic-beasts-the-secrets-of-dumbledore): Sat 4/16 (12:15pm), Sun 4/17 (11:00am)
+
+    * [Fantastic Beasts The Secrets Of Dumbledore](https://drafthouse.com/los-angeles/show/fantastic-beasts-the-secrets-of-dumbledore): Thu 4/14 (2:30pm, 6:00pm, 9:45pm), Fri 4/15 (2:30pm, 6:00pm, 9:30pm), Sat 4/16 (3:30pm, 7:00pm, 10:30pm), Sun 4/17 (2:30pm, 6:00pm)
+
 ### Mon 3/28 3:19pm
 * New movies: Ambulance
 
