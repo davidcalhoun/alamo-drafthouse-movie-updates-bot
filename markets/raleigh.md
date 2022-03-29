@@ -1,6 +1,40 @@
 # raleigh
 
 ## Movie updates
+### Tue 3/29 1:24pm
+* New movies: You Won't Be Alone, Open Caption: CODA
+
+* New screenings: 
+    * [Alice](https://drafthouse.com/raleigh/show/alice): Thu 3/31 (1:00pm, 3:50pm)
+
+    * [Coda](https://drafthouse.com/raleigh/show/coda): Fri 4/1 (6:45pm), Sat 4/2 (6:45pm), Sun 4/3 (6:45pm), Mon 4/4 (6:45pm), Tue 4/5 (6:45pm), Wed 4/6 (6:45pm)
+
+    * [Infinite Storm](https://drafthouse.com/raleigh/show/infinite-storm): Thu 3/31 (1:00pm, 4:00pm, 6:45pm, 9:30pm), Fri 4/1 (1:00pm, 4:00pm), Sat 4/2 (1:00pm, 4:00pm), Sun 4/3 (1:00pm, 4:00pm), Mon 4/4 (1:00pm, 4:00pm), Tue 4/5 (1:00pm, 4:00pm), Wed 4/6 (1:00pm, 4:00pm)
+
+    * [Jujutsu Kaisen 0 Dubbed](https://drafthouse.com/raleigh/show/jujutsu-kaisen-0-dubbed): Thu 3/31 (11:45am), Fri 4/1 (12:15pm), Sat 4/2 (12:15pm), Sun 4/3 (12:15pm), Mon 4/4 (12:15pm), Tue 4/5 (12:15pm), Wed 4/6 (12:15pm)
+
+    * [Jujutsu Kaisen 0 Subtitled](https://drafthouse.com/raleigh/show/jujutsu-kaisen-0-subtitled): Thu 3/31 (3:00pm, 5:15pm), Fri 4/1 (3:15pm, 6:15pm, 10:15pm), Sat 4/2 (3:15pm, 6:15pm, 10:15pm), Sun 4/3 (3:15pm, 6:15pm), Mon 4/4 (3:15pm, 6:15pm, 10:15pm), Tue 4/5 (3:15pm, 6:15pm, 10:15pm), Wed 4/6 (3:15pm, 6:15pm, 10:15pm)
+
+    * [Morbius](https://drafthouse.com/raleigh/show/morbius): Thu 3/31 (6:00pm, 8:15pm, 9:00pm, 10:45pm), Fri 4/1 (12:00pm, 2:45pm, 4:15pm, 5:45pm, 8:45pm, 9:45pm, 10:20pm), Sat 4/2 (12:00pm, 2:45pm, 5:45pm, 7:30pm, 8:45pm, 9:00pm, 9:45pm), Sun 4/3 (11:45am, 2:45pm, 3:45pm, 5:45pm), Mon 4/4 (12:00pm, 1:00pm, 2:45pm, 3:45pm, 4:00pm, 5:45pm, 7:00pm, 8:45pm, 9:45pm, 9:45pm, 10:00pm), Tue 4/5 (12:00pm, 1:00pm, 2:45pm, 3:45pm, 4:00pm, 5:45pm, 7:00pm, 8:45pm, 9:45pm, 9:45pm, 10:00pm), Wed 4/6 (12:00pm, 1:00pm, 2:45pm, 3:45pm, 4:00pm, 5:45pm, 7:00pm, 8:45pm, 9:45pm, 9:45pm, 10:00pm)
+
+    * [Sing Along Sing 2](https://drafthouse.com/raleigh/show/sing-along-sing-2): Thu 3/31 (12:30pm)
+
+    * [Star Trek First Contact](https://drafthouse.com/raleigh/show/star-trek-first-contact): Wed 4/6 (6:45pm)
+
+    * [The Batman](https://drafthouse.com/raleigh/show/the-batman): Thu 3/31 (11:55am, 1:30pm, 5:30pm, 6:30pm, 8:30pm), Fri 4/1 (1:15pm, 2:25pm, 5:30pm, 6:30pm, 9:15pm, 9:30pm), Sat 4/2 (1:15pm, 1:45pm, 2:25pm, 5:30pm, 6:30pm, 9:15pm, 9:30pm), Sun 4/3 (1:15pm, 2:25pm, 5:30pm, 6:30pm), Mon 4/4 (1:15pm, 2:25pm, 5:30pm, 6:30pm, 9:15pm, 9:30pm), Tue 4/5 (1:15pm, 2:25pm, 5:30pm, 6:30pm, 9:15pm, 9:30pm), Wed 4/6 (1:15pm, 2:25pm, 5:30pm, 6:30pm, 9:15pm, 9:30pm)
+
+    * [The Lost City](https://drafthouse.com/raleigh/show/the-lost-city): Thu 3/31 (11:55am, 12:30pm, 2:45pm, 3:30pm, 5:45pm, 6:30pm, 9:30pm), Fri 4/1 (12:30pm, 1:00pm, 1:30pm, 3:30pm, 4:30pm, 6:30pm, 7:30pm, 9:30pm, 10:30pm), Sat 4/2 (11:45am, 1:30pm, 4:30pm, 5:55pm, 6:30pm, 9:30pm, 10:30pm), Sun 4/3 (12:30pm, 12:45pm, 1:30pm, 3:30pm, 4:30pm, 6:30pm, 7:30pm), Mon 4/4 (12:30pm, 12:45pm, 1:30pm, 3:30pm, 4:30pm, 6:30pm, 7:30pm, 9:30pm, 10:30pm), Tue 4/5 (12:30pm, 12:45pm, 1:30pm, 3:30pm, 4:30pm, 6:30pm, 7:30pm, 9:30pm, 10:30pm), Wed 4/6 (12:30pm, 12:45pm, 1:30pm, 3:30pm, 4:30pm, 6:30pm, 7:30pm, 9:30pm, 10:30pm)
+
+    * [The Outfit](https://drafthouse.com/raleigh/show/the-outfit): Thu 3/31 (11:30am, 2:15pm, 6:45pm, 9:45pm)
+
+    * [The Worst Person In The World](https://drafthouse.com/raleigh/show/the-worst-person-in-the-world): Thu 3/31 (3:30pm)
+
+    * [Uncharted](https://drafthouse.com/raleigh/show/uncharted): Thu 3/31 (12:00pm, 3:00pm)
+
+    * [X](https://drafthouse.com/raleigh/show/x): Thu 3/31 (1:45pm, 4:30pm, 6:00pm, 9:15pm, 9:45pm), Fri 4/1 (1:45pm, 4:30pm, 7:15pm, 10:30pm), Sat 4/2 (1:45pm, 4:30pm, 7:15pm, 10:30pm), Sun 4/3 (1:45pm, 4:30pm, 7:15pm), Mon 4/4 (1:45pm, 4:30pm, 7:15pm, 10:30pm), Tue 4/5 (1:45pm, 4:30pm, 7:15pm, 10:30pm), Wed 4/6 (1:45pm, 4:30pm, 7:15pm, 10:30pm)
+
+    * [You Wont Be Alone](https://drafthouse.com/raleigh/show/you-wont-be-alone): Thu 3/31 (7:15pm, 10:15pm), Fri 4/1 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sat 4/2 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sun 4/3 (12:00pm, 3:15pm, 6:15pm), Mon 4/4 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Tue 4/5 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Wed 4/6 (12:15pm, 3:15pm, 6:15pm, 9:15pm)
+
 ### Tue 3/29 12:35pm
 * New movies: Castle in the Sky Dubbed
 
