@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 3/29 12:35pm
+* New movies: Castle in the Sky Dubbed
+
+* New screenings: 
+    * [Brunch Screenings Castle In The Sky Dubbed Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-castle-in-the-sky-dubbed-brunch): Sun 9/25 (11:00am)
+
 ### Tue 3/29 11:25am
 * New movies: Fantastic Beasts: The Secrets of Dumbledore
 
