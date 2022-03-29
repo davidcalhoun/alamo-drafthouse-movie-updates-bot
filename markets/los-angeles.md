@@ -1,6 +1,52 @@
 # los-angeles
 
 ## Movie updates
+### Tue 3/29 1:19pm
+* New movies: Everything Everywhere All At Once, You Won't Be Alone, Open Caption: CODA, Everything Everywhere All At Once, Everything Everywhere All At Once, The Batman
+
+* New screenings: 
+    * [7 Days](https://drafthouse.com/los-angeles/show/7-days): Thu 3/31 (6:00pm)
+
+    * [Apollo 10 1 2 A Space Age Childhood](https://drafthouse.com/los-angeles/show/apollo-10-1-2-a-space-age-childhood): Thu 3/31 (2:45pm)
+
+    * [Brunch Screenings A Hard Days Night Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-a-hard-days-night-brunch): Sun 4/3 (11:15am)
+
+    * [Brunch Screenings The Batman Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-the-batman-brunch): Sat 4/2 (10:45am)
+
+    * [Coda](https://drafthouse.com/los-angeles/show/coda): Fri 4/1 (3:10pm), Sat 4/2 (3:10pm), Sun 4/3 (8:20pm), Mon 4/4 (7:45pm), Tue 4/5 (5:00pm), Wed 4/6 (7:50pm)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/los-angeles/show/everything-everywhere-all-at-once): Thu 3/31 (7:15pm, 8:15pm, 8:30pm, 9:15pm, 10:25pm, 10:40pm), Fri 4/1 (1:30pm, 2:15pm, 3:00pm, 3:30pm, 5:00pm, 5:45pm, 6:30pm, 8:35pm, 9:15pm, 10:00pm), Sat 4/2 (12:30pm, 2:10pm, 2:45pm, 3:15pm, 4:00pm, 5:30pm, 6:15pm, 6:45pm, 7:30pm, 9:00pm, 9:45pm, 10:15pm, 10:50pm), Sun 4/3 (10:45am, 12:15pm, 2:15pm, 3:00pm, 3:20pm, 4:00pm, 5:40pm, 6:20pm, 7:00pm, 7:30pm), Mon 4/4 (10:45am, 12:00pm, 12:15pm, 1:25pm, 2:15pm, 3:00pm, 3:20pm, 4:00pm, 5:40pm, 6:20pm, 7:15pm, 7:30pm), Tue 4/5 (10:45am, 12:00pm, 12:15pm, 1:10pm, 2:15pm, 3:00pm, 3:20pm, 4:00pm, 5:40pm, 6:20pm, 7:15pm, 7:30pm), Wed 4/6 (10:45am, 12:00pm, 12:15pm, 1:30pm, 2:15pm, 3:00pm, 3:20pm, 4:00pm, 5:40pm, 6:20pm, 7:15pm, 7:30pm)
+
+    * [Everything Everywhere All At Once Brunch](https://drafthouse.com/los-angeles/show/everything-everywhere-all-at-once-brunch): Sat 4/2 (10:45am, 11:45am), Sun 4/3 (12:00pm, 2:00pm)
+
+    * [Everything Everywhere All At Once Fan Celebration](https://drafthouse.com/los-angeles/show/everything-everywhere-all-at-once-fan-celebration): Thu 3/31 (7:00pm)
+
+    * [Harry Potter And The Deathly Hallows Part 2](https://drafthouse.com/los-angeles/show/harry-potter-and-the-deathly-hallows-part-2): Sat 4/2 (2:00pm), Tue 4/5 (4:30pm), Wed 4/6 (11:15am)
+
+    * [Infinite Storm](https://drafthouse.com/los-angeles/show/infinite-storm): Thu 3/31 (2:45pm, 4:45pm), Fri 4/1 (9:10pm), Sat 4/2 (10:00pm), Sun 4/3 (8:00pm), Mon 4/4 (10:45am), Tue 4/5 (10:50am), Wed 4/6 (10:45am)
+
+    * [Morbius](https://drafthouse.com/los-angeles/show/morbius): Thu 3/31 (5:45pm, 8:30pm), Fri 4/1 (2:30pm, 5:45pm, 8:30pm), Sat 4/2 (11:45am, 2:30pm, 5:30pm, 8:45pm), Sun 4/3 (11:30am, 2:15pm, 5:00pm), Mon 4/4 (11:45am, 2:30pm, 5:30pm), Tue 4/5 (11:45am, 2:30pm, 5:30pm), Wed 4/6 (11:45am, 1:10pm, 2:45pm, 3:55pm, 5:30pm, 6:40pm)
+
+    * [Prince Sign O The Times](https://drafthouse.com/los-angeles/show/prince-sign-o-the-times): Tue 4/5 (8:15pm), Wed 4/6 (8:15pm)
+
+    * [Star Trek First Contact](https://drafthouse.com/los-angeles/show/star-trek-first-contact): Mon 4/4 (4:50pm), Tue 4/5 (8:00pm), Wed 4/6 (5:00pm)
+
+    * [Streets Of Fire](https://drafthouse.com/los-angeles/show/streets-of-fire): Sat 4/2 (5:15pm), Mon 4/4 (8:30pm), Tue 4/5 (7:45pm)
+
+    * [The Batman](https://drafthouse.com/los-angeles/show/the-batman): Thu 3/31 (3:10pm, 4:15pm, 5:30pm, 8:20pm, 9:45pm), Fri 4/1 (2:00pm, 5:35pm, 6:00pm, 10:00pm), Sat 4/2 (1:45pm, 6:00pm, 6:15pm, 10:15pm), Sun 4/3 (11:00am, 1:45pm, 6:15pm), Mon 4/4 (11:00am, 1:45pm, 6:15pm), Tue 4/5 (11:00am, 1:45pm, 6:15pm), Wed 4/6 (11:00am, 1:45pm, 6:15pm)
+
+    * [The Lost City](https://drafthouse.com/los-angeles/show/the-lost-city): Thu 3/31 (2:45pm, 4:00pm, 5:45pm, 8:45pm), Fri 4/1 (3:45pm, 7:00pm, 10:15pm), Sat 4/2 (12:45pm, 3:45pm, 7:00pm, 10:00pm), Sun 4/3 (1:00pm, 4:15pm, 7:15pm), Mon 4/4 (1:00pm, 4:15pm, 7:15pm), Tue 4/5 (1:00pm, 4:15pm, 7:15pm), Wed 4/6 (1:00pm, 4:15pm, 7:15pm)
+
+    * [The Outfit](https://drafthouse.com/los-angeles/show/the-outfit): Thu 3/31 (3:15pm, 6:15pm), Fri 4/1 (9:40pm), Sat 4/2 (11:00am), Sun 4/3 (11:00am), Mon 4/4 (11:00am), Tue 4/5 (11:00am), Wed 4/6 (11:00am)
+
+    * [The Worst Person In The World](https://drafthouse.com/los-angeles/show/the-worst-person-in-the-world): Fri 4/1 (6:00pm), Sat 4/2 (8:00pm), Sun 4/3 (7:45pm), Mon 4/4 (11:15am), Tue 4/5 (1:30pm), Wed 4/6 (2:30pm)
+
+    * [Uncharted](https://drafthouse.com/los-angeles/show/uncharted): Thu 3/31 (3:00pm)
+
+    * [X](https://drafthouse.com/los-angeles/show/x): Thu 3/31 (2:30pm, 3:30pm, 5:20pm, 6:30pm, 9:30pm), Fri 4/1 (2:15pm, 5:10pm, 8:00pm, 10:45pm), Sat 4/2 (11:15am, 2:15pm, 5:15pm, 8:00pm, 10:45pm), Sun 4/3 (11:15am, 2:25pm, 5:15pm), Mon 4/4 (11:30am, 2:15pm, 5:15pm, 8:00pm), Tue 4/5 (11:30am, 2:15pm, 5:15pm, 8:00pm), Wed 4/6 (11:30am, 2:15pm, 5:15pm, 8:00pm)
+
+    * [You Wont Be Alone](https://drafthouse.com/los-angeles/show/you-wont-be-alone): Thu 3/31 (7:40pm, 10:30pm), Fri 4/1 (1:45pm, 4:35pm, 7:45pm, 10:45pm), Sat 4/2 (1:00pm, 4:15pm, 7:45pm, 10:45pm), Sun 4/3 (12:45pm, 3:45pm, 6:35pm), Mon 4/4 (12:30pm, 3:45pm, 7:00pm), Tue 4/5 (12:30pm, 3:45pm, 7:00pm), Wed 4/6 (12:30pm, 3:45pm, 7:00pm)
+
 ### Tue 3/29 4:31am
 * New movies: Fantastic Beasts: The Secrets of Dumbledore, Fantastic Beasts: The Secrets of Dumbledore
 
