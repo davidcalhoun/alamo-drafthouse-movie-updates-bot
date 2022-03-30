@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Tue 3/29 6:35pm
+
+* New screenings: 
+    * [Everything Everywhere All At Once](https://drafthouse.com/los-angeles/show/everything-everywhere-all-at-once): Thu 3/31 (10:25pm)
+
+    * [The Lost City](https://drafthouse.com/los-angeles/show/the-lost-city): Thu 3/31 (4:00pm)
+
 ### Tue 3/29 4:19pm
 
 * New screenings: 
