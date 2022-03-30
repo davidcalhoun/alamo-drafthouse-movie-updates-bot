@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 3/30 12:16pm
+
+* New screenings: 
+    * [Inspector Ike](https://drafthouse.com/los-angeles/show/inspector-ike): Fri 4/15 (7:30pm), Sat 4/16 (7:30pm)
+
 ### Tue 3/29 6:35pm
 
 * New screenings: 
