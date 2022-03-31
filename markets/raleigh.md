@@ -1,6 +1,17 @@
 # raleigh
 
 ## Movie updates
+### Thu 3/31 7:24pm
+
+* New screenings: 
+    * [Brunch Screenings A Hard Days Night Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-a-hard-days-night-brunch): Sat 4/2 (1:30pm)
+
+    * [Coda](https://drafthouse.com/raleigh/show/coda): Sun 4/3 (12:55pm)
+
+    * [Harry Potter And The Deathly Hallows Part 2](https://drafthouse.com/raleigh/show/harry-potter-and-the-deathly-hallows-part-2): Sat 4/2 (9:30pm)
+
+    * [Prince Sign O The Times](https://drafthouse.com/raleigh/show/prince-sign-o-the-times): Sat 4/2 (9:00pm)
+
 ### Tue 3/29 1:24pm
 * New movies: You Won't Be Alone, Open Caption: CODA
 
