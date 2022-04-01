@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Thu 3/31 10:17pm
+
+* New screenings: 
+    * [Everything Everywhere All At Once](https://drafthouse.com/los-angeles/show/everything-everywhere-all-at-once): Sat 4/2 (8:45pm), Sun 4/3 (5:00pm)
+
+    * [Miami Vice 1984 Pilot](https://drafthouse.com/los-angeles/show/miami-vice-1984-pilot): Sun 4/3 (8:45pm)
+
 ### Wed 3/30 12:16pm
 
 * New screenings: 
