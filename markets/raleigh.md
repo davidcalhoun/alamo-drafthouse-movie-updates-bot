@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 4/1 4:24pm
+
+* New screenings: 
+    * [Fantastic Beasts The Secrets Of Dumbledore](https://drafthouse.com/raleigh/show/fantastic-beasts-the-secrets-of-dumbledore): Fri 4/15 (11:00am, 2:30pm, 6:00pm, 9:30pm), Sat 4/16 (11:00am, 2:30pm, 6:00pm, 9:30pm), Sun 4/17 (11:00am, 2:30pm, 6:00pm, 9:30pm)
+
 ### Thu 3/31 7:24pm
 
 * New screenings: 
