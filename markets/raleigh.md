@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Fri 4/1 5:21pm
+* New movies: We're All Going to the World's Fair, Superior
+
+* New screenings: 
+    * [Advance Screening Were All Going To The Worlds Fair](https://drafthouse.com/raleigh/show/advance-screening-were-all-going-to-the-worlds-fair): Tue 4/19 (9:30pm)
+
+    * [Superior](https://drafthouse.com/raleigh/show/superior): Fri 4/15 (9:00pm)
+
 ### Fri 4/1 4:24pm
 
 * New screenings: 
