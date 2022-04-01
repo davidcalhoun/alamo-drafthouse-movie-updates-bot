@@ -1,6 +1,15 @@
 # los-angeles
 
 ## Movie updates
+### Fri 4/1 1:20pm
+
+* New screenings: 
+    * [2001 A Space Odyssey](https://drafthouse.com/los-angeles/show/2001-a-space-odyssey): Mon 4/18 (4:15pm)
+
+    * [Fantastic Beasts The Secrets Of Dumbledore](https://drafthouse.com/los-angeles/show/fantastic-beasts-the-secrets-of-dumbledore): Mon 4/18 (11:00am, 2:30pm, 6:00pm), Tue 4/19 (11:00am, 2:30pm, 6:00pm), Wed 4/20 (11:00am, 2:30pm, 6:00pm)
+
+    * [Mandy](https://drafthouse.com/los-angeles/show/mandy): Tue 4/19 (4:45pm)
+
 ### Thu 3/31 10:17pm
 
 * New screenings: 
