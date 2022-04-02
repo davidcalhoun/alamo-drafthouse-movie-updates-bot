@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 4/1 6:36pm
+* New movies: Hatching
+
+* New screenings: 
+    * [Live Q A Hatching](https://drafthouse.com/los-angeles/show/live-q-a-hatching): Sat 4/30 (3:30pm, 6:30pm), Sun 5/1 (3:30pm, 6:30pm)
+
 ### Fri 4/1 1:20pm
 
 * New screenings: 
