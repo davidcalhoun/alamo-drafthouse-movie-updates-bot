@@ -1,6 +1,46 @@
 # los-angeles
 
 ## Movie updates
+### Mon 4/4 3:19pm
+* New movies: All the Old Knives, Everything Everywhere All At Once, Sonic the Hedgehog 2, Selena
+
+* New screenings: 
+    * [2001 A Space Odyssey](https://drafthouse.com/los-angeles/show/2001-a-space-odyssey): Fri 4/8 (5:30pm), Sat 4/9 (2:45pm), Sun 4/10 (2:15pm), Tue 4/12 (11:15am)
+
+    * [All The Old Knives](https://drafthouse.com/los-angeles/show/all-the-old-knives): Fri 4/8 (4:15pm, 7:30pm, 10:30pm), Sat 4/9 (1:00pm, 3:55pm, 6:45pm, 9:45pm), Sun 4/10 (1:00pm, 4:15pm, 7:30pm), Mon 4/11 (1:00pm, 4:15pm, 7:30pm), Tue 4/12 (1:00pm, 4:15pm, 7:30pm), Wed 4/13 (1:00pm, 4:15pm, 7:30pm)
+
+    * [Ambulance](https://drafthouse.com/los-angeles/show/ambulance): Mon 4/11 (12:15pm, 3:45pm, 7:15pm), Tue 4/12 (12:15pm, 3:45pm, 7:15pm), Wed 4/13 (12:15pm, 3:45pm, 7:15pm)
+
+    * [Brunch Screenings Hedwig And The Angry Inch Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-hedwig-and-the-angry-inch-brunch): Sun 4/10 (2:45pm)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/los-angeles/show/everything-everywhere-all-at-once): Thu 4/7 (2:00pm, 2:30pm, 3:10pm, 5:30pm, 6:30pm, 7:25pm, 8:50pm, 9:45pm, 10:00pm, 10:15pm), Fri 4/8 (2:15pm, 3:15pm, 3:45pm, 5:45pm, 7:00pm, 7:15pm, 9:45pm, 10:30pm, 10:45pm), Sat 4/9 (12:15pm, 12:45pm, 2:05pm, 3:45pm, 4:10pm, 5:25pm, 6:30pm, 7:15pm, 7:30pm, 8:45pm, 10:00pm, 10:45pm, 11:00pm), Sun 4/10 (12:30pm, 3:30pm, 4:15pm, 6:00pm, 7:00pm, 7:45pm), Mon 4/11 (11:15am, 12:00pm, 12:30pm, 2:45pm, 3:30pm, 4:15pm, 6:15pm, 7:00pm, 7:45pm), Tue 4/12 (11:00am, 11:30am, 12:30pm, 2:30pm, 3:15pm, 4:00pm, 6:00pm, 7:00pm), Wed 4/13 (11:00am, 11:30am, 12:30pm, 2:30pm, 3:15pm, 4:00pm, 6:00pm, 7:00pm)
+
+    * [Everything Everywhere All At Once Brunch](https://drafthouse.com/los-angeles/show/everything-everywhere-all-at-once-brunch): Sat 4/9 (10:45am), Sun 4/10 (11:15am)
+
+    * [Infinite Storm](https://drafthouse.com/los-angeles/show/infinite-storm): Thu 4/7 (3:15pm)
+
+    * [Morbius](https://drafthouse.com/los-angeles/show/morbius): Thu 4/7 (4:15pm, 7:00pm, 10:00pm), Fri 4/8 (3:00pm, 6:15pm, 9:30pm), Sat 4/9 (12:15pm, 3:15pm, 6:15pm, 9:00pm), Sun 4/10 (12:45pm, 4:00pm, 6:45pm), Mon 4/11 (12:45pm, 4:00pm, 6:45pm), Tue 4/12 (12:45pm, 4:00pm, 6:45pm), Wed 4/13 (12:45pm, 4:00pm, 6:45pm)
+
+    * [Sonic The Hedgehog 2](https://drafthouse.com/los-angeles/show/sonic-the-hedgehog-2): Thu 4/7 (3:40pm, 6:45pm, 10:15pm), Fri 4/8 (4:00pm, 7:30pm, 10:35pm), Sat 4/9 (2:20pm, 5:25pm, 8:30pm), Sun 4/10 (2:05pm, 5:10pm, 8:15pm), Mon 4/11 (11:00am, 11:45am, 2:05pm, 3:00pm, 5:10pm, 6:20pm, 8:15pm), Tue 4/12 (11:00am, 11:45am, 2:05pm, 3:00pm, 5:10pm, 6:20pm, 8:15pm), Wed 4/13 (11:00am, 2:05pm, 5:10pm, 8:15pm)
+
+    * [Sonic The Hedgehog 2 Brunch](https://drafthouse.com/los-angeles/show/sonic-the-hedgehog-2-brunch): Sat 4/9 (11:15am), Sun 4/10 (11:00am)
+
+    * [Special Event Selena 25th Anniversary](https://drafthouse.com/los-angeles/show/special-event-selena-25th-anniversary): Tue 4/12 (2:45pm)
+
+    * [The Batman](https://drafthouse.com/los-angeles/show/the-batman): Thu 4/7 (2:15pm, 6:00pm, 9:15pm), Fri 4/8 (2:15pm, 6:00pm, 9:15pm), Sat 4/9 (11:30am, 3:15pm, 6:30pm, 10:15pm), Sun 4/10 (11:30am, 3:15pm, 6:30pm), Mon 4/11 (11:30am, 3:15pm, 6:30pm), Tue 4/12 (11:30am, 3:15pm, 6:30pm), Wed 4/13 (11:30am, 3:15pm, 6:30pm)
+
+    * [The Lighthouse](https://drafthouse.com/los-angeles/show/the-lighthouse): Fri 4/8 (9:15pm), Mon 4/11 (11:30am), Wed 4/13 (11:15am)
+
+    * [The Lost City](https://drafthouse.com/los-angeles/show/the-lost-city): Thu 4/7 (3:00pm, 6:15pm, 10:00pm), Fri 4/8 (3:00pm, 6:15pm, 10:15pm), Sat 4/9 (12:20pm, 3:30pm, 7:15pm, 10:30pm), Sun 4/10 (12:20pm, 3:30pm, 7:15pm), Mon 4/11 (12:20pm, 3:30pm, 7:15pm), Tue 4/12 (12:20pm, 3:30pm, 7:15pm), Wed 4/13 (12:20pm, 3:30pm, 7:15pm)
+
+    * [The Outfit](https://drafthouse.com/los-angeles/show/the-outfit): Thu 4/7 (10:50pm)
+
+    * [The Worst Person In The World](https://drafthouse.com/los-angeles/show/the-worst-person-in-the-world): Thu 4/7 (4:15pm)
+
+    * [X](https://drafthouse.com/los-angeles/show/x): Thu 4/7 (4:00pm, 10:45pm), Fri 4/8 (2:00pm, 8:00pm), Sat 4/9 (11:45am, 5:30pm), Sun 4/10 (11:45am, 5:30pm), Mon 4/11 (11:45am, 5:30pm), Tue 4/12 (11:45am, 5:30pm), Wed 4/13 (11:45am, 2:15pm, 5:30pm)
+
+    * [You Wont Be Alone](https://drafthouse.com/los-angeles/show/you-wont-be-alone): Thu 4/7 (2:00pm, 5:00pm, 7:50pm), Fri 4/8 (5:00pm, 11:00pm), Sat 4/9 (2:30pm, 8:15pm), Sun 4/10 (2:30pm, 8:30pm), Mon 4/11 (2:30pm, 8:30pm), Tue 4/12 (2:30pm, 8:30pm), Wed 4/13 (2:30pm, 8:30pm)
+
 ### Sun 4/3 11:24pm
 
 * New screenings: 
