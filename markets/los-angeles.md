@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Sun 4/3 11:24pm
+
+* New screenings: 
+    * [2001 A Space Odyssey](https://drafthouse.com/los-angeles/show/2001-a-space-odyssey): Wed 4/13 (5:45pm)
+
+    * [The Lighthouse](https://drafthouse.com/los-angeles/show/the-lighthouse): Tue 4/12 (5:45pm)
+
 ### Fri 4/1 6:36pm
 * New movies: Hatching
 
