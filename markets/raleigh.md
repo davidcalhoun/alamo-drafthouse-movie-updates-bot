@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 4/5 2:29pm
+* New movies: The Unbearable Weight of Massive Talent
+
+* New screenings: 
+    * [Advance Screening The Unbearable Weight Of Massive Talent](https://drafthouse.com/raleigh/show/advance-screening-the-unbearable-weight-of-massive-talent): Sat 4/16 (7:00pm)
+
 ### Tue 4/5 11:26am
 * New movies: Everything Everywhere All At Once, All the Old Knives, Everything Everywhere All At Once
 
