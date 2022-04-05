@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 4/5 3:21pm
+* New movies: ABBA: The Movie - Fan Event
+
+* New screenings: 
+    * [Abba The Movie Fan Event](https://drafthouse.com/raleigh/show/abba-the-movie-fan-event): Thu 5/12 (6:45pm), Sat 5/14 (3:00pm)
+
 ### Tue 4/5 2:29pm
 * New movies: The Unbearable Weight of Massive Talent
 
