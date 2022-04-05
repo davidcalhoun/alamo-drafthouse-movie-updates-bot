@@ -1,6 +1,36 @@
 # raleigh
 
 ## Movie updates
+### Tue 4/5 11:26am
+* New movies: Everything Everywhere All At Once, All the Old Knives, Everything Everywhere All At Once
+
+* New screenings: 
+    * [All The Old Knives](https://drafthouse.com/raleigh/show/all-the-old-knives): Fri 4/8 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Sat 4/9 (11:30am, 3:30pm, 6:30pm, 9:45pm), Sun 4/10 (12:45pm, 3:45pm, 6:45pm), Mon 4/11 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Tue 4/12 (12:15pm, 3:15pm, 6:15pm, 10:15pm), Wed 4/13 (12:45pm, 3:45pm, 6:45pm, 9:45pm)
+
+    * [Ambulance](https://drafthouse.com/raleigh/show/ambulance): Thu 4/7 (10:15pm), Fri 4/8 (11:45am, 3:15pm, 6:30pm, 9:45pm), Sat 4/9 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Sun 4/10 (12:30pm, 3:45pm, 7:15pm), Mon 4/11 (12:30pm, 4:00pm, 7:15pm, 10:30pm), Tue 4/12 (12:15pm, 3:30pm, 7:00pm, 10:15pm), Wed 4/13 (12:30pm, 4:00pm, 6:45pm, 10:30pm)
+
+    * [Coda](https://drafthouse.com/raleigh/show/coda): Thu 4/7 (5:45pm)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/raleigh/show/everything-everywhere-all-at-once): Thu 4/7 (8:15pm, 8:45pm, 9:45pm), Fri 4/8 (12:25pm, 1:30pm, 2:30pm, 5:00pm, 6:00pm, 7:30pm, 8:30pm, 9:30pm), Sat 4/9 (11:45am, 1:45pm, 2:30pm, 5:15pm, 6:00pm, 7:00pm, 8:45pm, 9:30pm), Sun 4/10 (12:00pm, 1:25pm, 3:30pm, 4:10pm, 6:00pm, 7:30pm), Mon 4/11 (12:15pm, 1:00pm, 2:30pm, 5:00pm, 6:00pm, 7:30pm, 8:30pm, 9:30pm), Tue 4/12 (12:30pm, 1:20pm, 4:00pm, 5:00pm, 6:45pm, 8:00pm, 8:45pm, 10:00pm), Wed 4/13 (12:15pm, 1:00pm, 2:00pm, 5:00pm, 6:00pm, 7:30pm, 9:00pm, 10:00pm)
+
+    * [Everything Everywhere All At Once Fan Celebration](https://drafthouse.com/raleigh/show/everything-everywhere-all-at-once-fan-celebration): Thu 4/7 (7:15pm)
+
+    * [Infinite Storm](https://drafthouse.com/raleigh/show/infinite-storm): Thu 4/7 (2:45pm)
+
+    * [Jujutsu Kaisen 0 Dubbed](https://drafthouse.com/raleigh/show/jujutsu-kaisen-0-dubbed): Thu 4/7 (12:15pm), Fri 4/8 (11:30am), Sat 4/9 (11:15am), Sun 4/10 (12:15pm), Mon 4/11 (11:30am), Tue 4/12 (11:45am), Wed 4/13 (11:30am)
+
+    * [Morbius](https://drafthouse.com/raleigh/show/morbius): Thu 4/7 (12:30pm, 2:30pm, 3:30pm, 6:45pm, 10:00pm), Fri 4/8 (1:45pm, 4:45pm, 7:45pm, 10:45pm), Sat 4/9 (1:30pm, 4:15pm, 7:30pm, 10:45pm), Sun 4/10 (1:45pm, 4:45pm, 7:45pm), Mon 4/11 (1:45pm, 4:45pm, 7:45pm, 10:45pm), Tue 4/12 (1:45pm, 4:45pm, 7:45pm, 10:30pm), Wed 4/13 (1:45pm, 4:45pm, 7:45pm, 10:45pm)
+
+    * [Sonic The Hedgehog 2](https://drafthouse.com/raleigh/show/sonic-the-hedgehog-2): Thu 4/7 (4:00pm, 5:30pm, 7:45pm), Fri 4/8 (11:15am, 4:15pm, 6:45pm), Sat 4/9 (11:15am, 2:30pm, 5:45pm), Sun 4/10 (11:30am, 2:45pm), Mon 4/11 (11:15am, 12:00pm, 3:15pm, 4:15pm, 6:30pm, 9:45pm), Tue 4/12 (11:30am, 1:30pm, 2:45pm, 4:45pm, 6:00pm, 9:15pm), Wed 4/13 (12:00pm, 3:15pm, 4:15pm, 6:30pm, 9:45pm)
+
+    * [The Batman](https://drafthouse.com/raleigh/show/the-batman): Thu 4/7 (12:45pm, 2:00pm, 2:45pm, 6:00pm, 9:00pm), Fri 4/8 (11:45am, 2:15pm, 6:15pm, 10:00pm), Sat 4/9 (12:00pm, 2:15pm, 6:15pm, 9:00pm), Sun 4/10 (11:00am, 3:00pm, 7:15pm), Mon 4/11 (11:45am, 2:15pm, 6:15pm, 10:00pm), Tue 4/12 (11:45am, 2:30pm, 6:30pm, 9:30pm), Wed 4/13 (11:45am, 2:15pm, 6:15pm, 10:00pm)
+
+    * [The Lost City](https://drafthouse.com/raleigh/show/the-lost-city): Thu 4/7 (1:00pm, 2:15pm, 3:30pm, 5:15pm, 6:30pm, 9:30pm), Fri 4/8 (1:00pm, 4:00pm, 7:00pm, 10:15pm), Sat 4/9 (12:45pm, 3:45pm, 6:45pm, 10:15pm), Sun 4/10 (12:15pm, 3:15pm, 6:15pm), Mon 4/11 (1:00pm, 4:00pm, 7:00pm, 10:15pm), Tue 4/12 (1:00pm, 4:00pm, 7:00pm, 10:30pm), Wed 4/13 (1:00pm, 4:00pm, 7:00pm, 10:15pm)
+
+    * [X](https://drafthouse.com/raleigh/show/x): Thu 4/7 (1:45pm, 4:30pm, 7:30pm, 10:15pm), Fri 4/8 (1:45pm, 4:45pm, 7:45pm, 10:30pm), Sat 4/9 (1:45pm, 4:45pm, 7:45pm, 10:30pm), Sun 4/10 (1:15pm, 4:45pm, 7:45pm), Mon 4/11 (1:45pm, 4:45pm, 7:45pm, 10:30pm), Tue 4/12 (1:45pm, 4:30pm, 7:30pm, 10:55pm), Wed 4/13 (1:45pm, 4:45pm, 7:45pm, 10:30pm)
+
+    * [You Wont Be Alone](https://drafthouse.com/raleigh/show/you-wont-be-alone): Thu 4/7 (4:45pm, 10:45pm), Fri 4/8 (3:45pm, 10:00pm), Sat 4/9 (4:00pm, 10:15pm), Sun 4/10 (3:15pm, 6:30pm), Mon 4/11 (3:45pm, 10:00pm), Tue 4/12 (3:45pm, 10:40pm), Wed 4/13 (3:45pm, 10:15pm)
+
 ### Fri 4/1 5:21pm
 * New movies: We're All Going to the World's Fair, Superior
 
