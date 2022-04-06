@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Wed 4/6 9:34am
+* New movies: Doctor Strange in the Multiverse of Madness, Doctor Strange in the Multiverse of Madness
+
+* New screenings: 
+    * [Doctor Strange In The Multiverse Of Madness](https://drafthouse.com/raleigh/show/doctor-strange-in-the-multiverse-of-madness): Thu 5/5 (3:00pm, 4:15pm, 6:30pm, 7:00pm, 7:45pm, 10:00pm, 11:15pm), Fri 5/6 (10:00am, 11:00am, 1:20pm, 2:30pm, 4:40pm, 6:00pm, 7:00pm, 8:00pm, 9:30pm, 11:20pm), Sat 5/7 (10:00am, 1:20pm, 2:30pm, 4:40pm, 6:00pm, 7:00pm, 8:00pm, 9:30pm, 11:20pm), Sun 5/8 (10:00am, 1:20pm, 2:30pm, 4:40pm, 6:00pm, 7:00pm, 8:00pm, 9:30pm, 11:20pm), Mon 5/9 (11:00am, 12:00pm, 2:30pm, 3:30pm, 6:00pm, 7:00pm, 7:30pm, 9:30pm, 10:30pm), Tue 5/10 (10:45am, 12:00pm, 2:10pm, 3:30pm, 5:35pm, 7:00pm, 7:30pm, 10:30pm), Wed 5/11 (11:00am, 12:00pm, 2:30pm, 3:30pm, 6:00pm, 7:00pm, 7:30pm, 9:30pm, 10:30pm), Thu 5/12 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Fri 5/13 (10:00am, 1:20pm, 4:40pm, 8:00pm, 11:20pm), Sat 5/14 (10:00am, 1:20pm, 4:40pm, 8:00pm, 11:20pm), Sun 5/15 (10:00am, 1:20pm, 4:40pm, 8:00pm), Mon 5/16 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Tue 5/17 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Wed 5/18 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Thu 5/19 (12:00pm, 3:30pm, 7:00pm, 10:30pm)
+
+    * [Doctor Strange In The Multiverse Of Madness Brunch](https://drafthouse.com/raleigh/show/doctor-strange-in-the-multiverse-of-madness-brunch): Sat 5/7 (11:00am), Sun 5/8 (11:00am)
+
 ### Tue 4/5 3:21pm
 * New movies: ABBA: The Movie - Fan Event
 
