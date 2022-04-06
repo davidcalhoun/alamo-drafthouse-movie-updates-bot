@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 4/5 6:36pm
+* New movies: The Bad Guys
+
+* New screenings: 
+    * [The Bad Guys](https://drafthouse.com/los-angeles/show/the-bad-guys): Thu 4/21 (5:00pm, 7:45pm, 10:30pm), Fri 4/22 (3:30pm, 6:15pm, 9:00pm), Sat 4/23 (12:45pm, 3:30pm, 6:15pm, 9:00pm), Sun 4/24 (12:45pm, 3:30pm, 6:15pm)
+
 ### Mon 4/4 3:19pm
 * New movies: All the Old Knives, Everything Everywhere All At Once, Sonic the Hedgehog 2, Selena
 
