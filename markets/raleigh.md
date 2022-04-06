@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 4/6 10:22am
+* New movies: The Northman
+
+* New screenings: 
+    * [The Northman](https://drafthouse.com/raleigh/show/the-northman): Thu 4/21 (7:00pm, 10:30pm), Fri 4/22 (12:00pm, 4:00pm, 6:30pm, 10:00pm), Sat 4/23 (12:00pm, 4:00pm, 6:30pm, 10:00pm), Sun 4/24 (12:00pm, 4:00pm, 6:30pm)
+
 ### Wed 4/6 9:34am
 * New movies: Doctor Strange in the Multiverse of Madness, Doctor Strange in the Multiverse of Madness
 
