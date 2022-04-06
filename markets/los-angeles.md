@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 4/6 6:30am
+* New movies: Doctor Strange in the Multiverse of Madness, Doctor Strange in the Multiverse of Madness
+
+* New screenings: 
+    * [Doctor Strange In The Multiverse Of Madness](https://drafthouse.com/los-angeles/show/doctor-strange-in-the-multiverse-of-madness): Thu 5/5 (3:00pm, 3:45pm, 4:30pm, 6:15pm, 7:00pm, 7:45pm, 9:30pm, 10:15pm, 11:00pm), Fri 5/6 (10:00am, 11:00am, 12:00pm, 1:15pm, 2:15pm, 3:15pm, 4:30pm, 5:30pm, 6:30pm, 7:45pm, 8:45pm, 9:45pm, 11:00pm), Sat 5/7 (11:00am, 1:15pm, 2:15pm, 3:15pm, 4:30pm, 5:30pm, 6:30pm, 7:45pm, 8:45pm, 9:45pm, 11:00pm), Sun 5/8 (11:00am, 1:15pm, 2:15pm, 3:15pm, 4:30pm, 5:30pm, 6:30pm, 7:45pm, 8:45pm, 9:45pm), Mon 5/9 (11:00am, 11:30am, 12:15pm, 2:15pm, 2:45pm, 3:30pm, 5:30pm, 6:00pm, 6:45pm, 8:45pm, 9:15pm, 10:00pm), Tue 5/10 (11:00am, 11:30am, 12:15pm, 2:15pm, 2:45pm, 3:30pm, 5:30pm, 6:00pm, 6:45pm, 8:45pm, 9:15pm, 10:00pm), Wed 5/11 (11:00am, 11:30am, 12:15pm, 2:15pm, 2:45pm, 3:30pm, 5:30pm, 6:00pm, 6:45pm, 8:45pm, 9:15pm, 10:00pm), Thu 5/12 (11:00am, 11:30am, 12:15pm, 2:15pm, 2:45pm, 3:30pm, 5:30pm, 6:00pm, 6:45pm, 8:45pm, 9:15pm, 10:00pm), Fri 5/13 (10:00am, 12:00pm, 1:15pm, 3:15pm, 4:30pm, 6:30pm, 7:45pm, 9:45pm), Sat 5/14 (1:15pm, 3:15pm, 4:30pm, 6:30pm, 7:45pm, 9:45pm), Sun 5/15 (1:15pm, 3:15pm, 4:30pm, 6:30pm, 7:45pm, 9:45pm), Mon 5/16 (11:00am, 12:15pm, 2:15pm, 3:30pm, 5:30pm, 6:45pm, 8:45pm, 10:00pm), Tue 5/17 (11:00am, 12:15pm, 2:15pm, 3:30pm, 5:30pm, 6:45pm, 8:45pm, 10:00pm), Wed 5/18 (11:00am, 12:15pm, 2:15pm, 3:30pm, 5:30pm, 6:45pm, 8:45pm, 10:00pm)
+
+    * [Doctor Strange In The Multiverse Of Madness Brunch](https://drafthouse.com/los-angeles/show/doctor-strange-in-the-multiverse-of-madness-brunch): Sat 5/7 (10:00am, 12:00pm), Sun 5/8 (10:00am, 12:00pm), Sat 5/14 (10:00am, 12:00pm), Sun 5/15 (10:00am, 12:00pm)
+
 ### Tue 4/5 6:36pm
 * New movies: The Bad Guys
 
