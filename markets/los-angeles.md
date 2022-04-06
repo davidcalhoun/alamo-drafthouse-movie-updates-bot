@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 4/6 2:17pm
+* New movies: The Unbearable Weight of Massive Talent
+
+* New screenings: 
+    * [Advance Screening The Unbearable Weight Of Massive Talent](https://drafthouse.com/los-angeles/show/advance-screening-the-unbearable-weight-of-massive-talent): Sat 4/16 (8:30pm)
+
 ### Wed 4/6 7:18am
 * New movies: The Northman
 
