@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 4/6 4:20pm
+
+* New screenings: 
+    * [All The Old Knives](https://drafthouse.com/los-angeles/show/all-the-old-knives): Thu 4/7 (10:15pm)
+
 ### Wed 4/6 2:17pm
 * New movies: The Unbearable Weight of Massive Talent
 
