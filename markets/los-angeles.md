@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 4/6 7:18am
+* New movies: The Northman
+
+* New screenings: 
+    * [The Northman](https://drafthouse.com/los-angeles/show/the-northman): Thu 4/21 (7:00pm, 10:30pm), Fri 4/22 (3:15pm, 6:45pm, 10:15pm), Sat 4/23 (11:45am, 3:15pm, 6:45pm, 10:15pm), Sun 4/24 (11:45am, 3:15pm, 6:45pm), Mon 4/25 (11:45am, 3:15pm, 6:45pm), Tue 4/26 (11:45am, 3:15pm, 6:45pm), Wed 4/27 (11:45am, 3:15pm, 6:45pm)
+
 ### Wed 4/6 6:30am
 * New movies: Doctor Strange in the Multiverse of Madness, Doctor Strange in the Multiverse of Madness
 
