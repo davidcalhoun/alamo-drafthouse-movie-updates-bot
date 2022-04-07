@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 4/7 3:19pm
+* New movies: Dual
+
+* New screenings: 
+    * [Doctor Strange In The Multiverse Of Madness](https://drafthouse.com/los-angeles/show/doctor-strange-in-the-multiverse-of-madness): Mon 5/9 (11:00am, 2:15pm, 8:45pm), Tue 5/10 (11:00am, 2:15pm, 8:45pm), Wed 5/11 (11:00am, 2:15pm, 8:45pm), Thu 5/12 (11:00am, 2:15pm, 8:45pm)
+
+    * [Dual Qa](https://drafthouse.com/los-angeles/show/dual-qa): Sat 4/16 (6:45pm)
+
 ### Thu 4/7 2:17pm
 
 * New screenings: 
