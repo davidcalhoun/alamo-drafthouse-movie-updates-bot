@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 4/7 2:17pm
+
+* New screenings: 
+    * [Everything Everywhere All At Once](https://drafthouse.com/los-angeles/show/everything-everywhere-all-at-once): Sat 4/9 (8:15pm)
+
 ### Wed 4/6 7:54pm
 
 * New screenings: 
