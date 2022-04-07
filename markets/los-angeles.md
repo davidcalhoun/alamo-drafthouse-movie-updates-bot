@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 4/6 7:54pm
+
+* New screenings: 
+    * [Doctor Strange In The Multiverse Of Madness](https://drafthouse.com/los-angeles/show/doctor-strange-in-the-multiverse-of-madness): Thu 5/5 (3:15pm, 6:30pm, 9:45pm)
+
 ### Wed 4/6 4:20pm
 
 * New screenings: 
