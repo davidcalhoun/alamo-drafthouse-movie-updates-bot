@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 4/8 2:29pm
+
+* New screenings: 
+    * [Everything Everywhere All At Once](https://drafthouse.com/raleigh/show/everything-everywhere-all-at-once): Sun 4/10 (7:45pm)
+
 ### Wed 4/6 10:22am
 * New movies: The Northman
 
