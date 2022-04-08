@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 4/8 1:20pm
+* New movies: Ponyo Dubbed
+
+
+
 ### Thu 4/7 3:19pm
 * New movies: Dual
 
