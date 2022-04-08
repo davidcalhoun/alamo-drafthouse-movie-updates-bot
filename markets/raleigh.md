@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 4/8 4:24pm
+* New movies: Ponyo Dubbed
+
+
+
 ### Fri 4/8 2:29pm
 
 * New screenings: 
