@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Sat 4/9 12:15pm
+
+* New screenings: 
+    * [Sonic The Hedgehog 2](https://drafthouse.com/los-angeles/show/sonic-the-hedgehog-2): Sat 4/9 (8:30pm)
+
 ### Fri 4/8 1:20pm
 * New movies: Ponyo Dubbed
 
