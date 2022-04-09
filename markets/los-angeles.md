@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Sat 4/9 1:20pm
+* New movies: Kiki's Delivery Service Subtitled
+
+* New screenings: 
+    * [Kikis Delivery Service Subtitled](https://drafthouse.com/los-angeles/show/kikis-delivery-service-subtitled): Sat 4/23 (5:00pm)
+
+    * [Vertigo](https://drafthouse.com/los-angeles/show/vertigo): Sat 4/23 (2:45pm)
+
 ### Sat 4/9 12:15pm
 
 * New screenings: 
