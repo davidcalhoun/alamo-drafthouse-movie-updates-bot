@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Sun 4/10 10:18pm
+* New movies: The Unbearable Weight of Massive Talent
+
+* New screenings: 
+    * [The Unbearable Weight Of Massive Talent](https://drafthouse.com/los-angeles/show/the-unbearable-weight-of-massive-talent): Mon 4/25 (1:30pm, 4:30pm, 7:30pm), Tue 4/26 (1:30pm, 4:30pm, 7:30pm), Wed 4/27 (1:30pm, 4:30pm, 7:30pm)
+
 ### Sun 4/10 8:10pm
 
 * New screenings: 
