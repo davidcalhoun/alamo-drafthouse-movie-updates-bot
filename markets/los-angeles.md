@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Sun 4/10 8:10pm
+
+* New screenings: 
+    * [Fantastic Beasts The Secrets Of Dumbledore](https://drafthouse.com/los-angeles/show/fantastic-beasts-the-secrets-of-dumbledore): Mon 4/18 (11:00am, 2:30pm, 6:00pm), Tue 4/19 (2:30pm), Wed 4/20 (11:00am, 2:30pm, 6:00pm)
+
 ### Sat 4/9 1:20pm
 * New movies: Kiki's Delivery Service Subtitled
 
