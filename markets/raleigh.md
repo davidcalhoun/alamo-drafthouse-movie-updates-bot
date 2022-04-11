@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 4/11 11:26am
+
+* New screenings: 
+    * [The Unbearable Weight Of Massive Talent](https://drafthouse.com/raleigh/show/the-unbearable-weight-of-massive-talent): Thu 4/21 (6:00pm, 9:00pm), Fri 4/22 (7:30pm, 10:30pm), Sat 4/23 (1:00pm, 3:30pm, 7:30pm, 10:30pm), Sun 4/24 (1:00pm, 3:30pm, 7:30pm)
+
 ### Mon 4/11 2:30am
 * New movies: The Unbearable Weight of Massive Talent
 
