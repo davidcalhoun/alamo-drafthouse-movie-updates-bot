@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 4/11 2:30am
+* New movies: The Unbearable Weight of Massive Talent
+
+* New screenings: 
+    * [The Unbearable Weight Of Massive Talent](https://drafthouse.com/raleigh/show/the-unbearable-weight-of-massive-talent): Fri 4/22 (1:00pm, 3:30pm)
+
 ### Fri 4/8 4:24pm
 * New movies: Ponyo Dubbed
 
