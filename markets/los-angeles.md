@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 4/12 3:19pm
+* New movies: Take Me To The River New Orleans, Take Me To The River New Orleans
+
+* New screenings: 
+    * [Take Me To The River New Orleans](https://drafthouse.com/los-angeles/show/take-me-to-the-river-new-orleans): Fri 4/29 (6:30pm), Sun 5/1 (6:00pm)
+
+    * [Take Me To The River New Orleans Qa](https://drafthouse.com/los-angeles/show/take-me-to-the-river-new-orleans-qa): Sat 4/30 (6:00pm)
+
 ### Tue 4/12 12:16pm
 
 * New screenings: 
