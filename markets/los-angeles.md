@@ -1,6 +1,50 @@
 # los-angeles
 
 ## Movie updates
+### Mon 4/11 9:25pm
+* New movies: Dual, Everything Everywhere All At Once, Sonic the Hedgehog 2, Midsommar
+
+* New screenings: 
+    * [2001 A Space Odyssey](https://drafthouse.com/los-angeles/show/2001-a-space-odyssey): Thu 4/14 (5:45pm), Tue 4/19 (2:10pm)
+
+    * [All The Old Knives](https://drafthouse.com/los-angeles/show/all-the-old-knives): Thu 4/14 (2:30pm)
+
+    * [Ambulance](https://drafthouse.com/los-angeles/show/ambulance): Thu 4/14 (4:15pm, 7:30pm, 10:50pm), Fri 4/15 (4:00pm, 7:30pm, 10:45pm), Sat 4/16 (1:00pm, 4:15pm, 7:45pm, 11:00pm), Sun 4/17 (12:45pm, 4:15pm, 7:45pm), Mon 4/18 (12:45pm, 4:15pm, 7:45pm), Tue 4/19 (12:45pm, 4:15pm, 7:45pm), Wed 4/20 (12:45pm, 4:15pm, 7:45pm)
+
+    * [Brunch Screenings Midsommar Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-midsommar-brunch): Sat 4/16 (11:45am)
+
+    * [Dual](https://drafthouse.com/los-angeles/show/dual): Fri 4/15 (3:45pm, 6:30pm, 9:15pm), Sat 4/16 (12:30pm, 3:15pm, 10:00pm), Sun 4/17 (1:00pm, 3:45pm, 6:45pm), Mon 4/18 (1:00pm, 3:45pm, 6:30pm), Tue 4/19 (1:00pm, 3:45pm, 6:30pm), Wed 4/20 (1:00pm, 3:45pm, 6:30pm)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/los-angeles/show/everything-everywhere-all-at-once): Thu 4/14 (3:30pm, 5:30pm, 7:00pm, 7:15pm, 9:00pm, 10:20pm, 10:35pm), Fri 4/15 (3:15pm, 3:30pm, 3:45pm, 6:45pm, 8:30pm, 10:15pm, 10:30pm), Sat 4/16 (11:00am, 2:25pm, 3:00pm, 4:00pm, 5:45pm, 6:45pm, 9:30pm, 10:15pm), Sun 4/17 (10:45am, 2:15pm, 3:15pm, 5:45pm, 7:00pm), Mon 4/18 (10:45am, 11:45am, 2:15pm, 3:15pm, 5:35pm, 6:45pm), Tue 4/19 (10:45am, 11:45am, 2:15pm, 3:15pm, 5:35pm, 6:45pm), Wed 4/20 (10:45am, 11:45am, 2:15pm, 3:15pm, 5:35pm, 6:45pm)
+
+    * [Everything Everywhere All At Once Brunch](https://drafthouse.com/los-angeles/show/everything-everywhere-all-at-once-brunch): Sat 4/16 (11:30am), Sun 4/17 (11:45am)
+
+    * [Fantastic Beasts The Secrets Of Dumbledore](https://drafthouse.com/los-angeles/show/fantastic-beasts-the-secrets-of-dumbledore): Thu 4/14 (3:45pm, 7:15pm, 9:20pm, 10:45pm), Fri 4/15 (2:00pm, 5:30pm, 9:00pm), Sat 4/16 (11:00am, 4:00pm, 7:30pm, 10:55pm), Sun 4/17 (12:15pm, 3:45pm, 7:30pm), Mon 4/18 (12:10pm, 3:35pm, 7:15pm), Tue 4/19 (12:10pm, 3:35pm, 7:15pm), Wed 4/20 (12:10pm, 3:35pm, 7:15pm)
+
+    * [Jesus Christ Superstar](https://drafthouse.com/los-angeles/show/jesus-christ-superstar): Mon 4/18 (1:25pm)
+
+    * [Mandy](https://drafthouse.com/los-angeles/show/mandy): Wed 4/20 (1:00pm)
+
+    * [Morbius](https://drafthouse.com/los-angeles/show/morbius): Thu 4/14 (3:45pm, 6:30pm, 9:15pm), Fri 4/15 (3:20pm, 7:15pm, 10:00pm), Sat 4/16 (11:45am, 3:00pm, 6:15pm, 9:00pm), Sun 4/17 (12:30pm, 3:30pm, 6:30pm), Mon 4/18 (11:00am, 12:30pm, 3:30pm, 6:30pm), Tue 4/19 (12:30pm, 3:30pm, 6:30pm), Wed 4/20 (12:30pm, 3:30pm, 6:30pm)
+
+    * [Sonic The Hedgehog 2](https://drafthouse.com/los-angeles/show/sonic-the-hedgehog-2): Thu 4/14 (2:20pm, 3:10pm, 5:45pm, 6:15pm, 9:00pm, 9:30pm), Fri 4/15 (2:45pm, 9:50pm), Sat 4/16 (11:15am, 2:30pm, 6:00pm, 9:15pm), Sun 4/17 (11:35am, 2:45pm, 6:15pm), Mon 4/18 (11:35am, 2:45pm, 6:15pm), Tue 4/19 (11:00am, 11:35am, 2:45pm, 6:15pm), Wed 4/20 (11:35am, 2:45pm, 6:15pm)
+
+    * [Sonic The Hedgehog 2 Live Qa](https://drafthouse.com/los-angeles/show/sonic-the-hedgehog-2-live-qa): Fri 4/15 (6:15pm)
+
+    * [Special Event Midsommar With Ari Aster Q A](https://drafthouse.com/los-angeles/show/special-event-midsommar-with-ari-aster-q-a): Mon 4/18 (5:00pm)
+
+    * [Superior](https://drafthouse.com/los-angeles/show/superior): Fri 4/15 (10:45pm), Sat 4/16 (5:45pm, 10:45pm), Sun 4/17 (11:30am, 7:40pm), Mon 4/18 (10:45am, 9:00pm), Tue 4/19 (11:15am, 1:55pm), Wed 4/20 (12:25pm, 3:05pm, 8:50pm)
+
+    * [The Batman](https://drafthouse.com/los-angeles/show/the-batman): Thu 4/14 (3:00pm, 6:45pm, 10:00pm), Fri 4/15 (2:45pm, 6:45pm, 10:00pm), Sat 4/16 (11:15am, 3:15pm, 6:30pm, 10:15pm), Sun 4/17 (12:00pm, 3:15pm, 7:00pm), Mon 4/18 (12:00pm, 3:15pm, 7:00pm), Tue 4/19 (12:00pm, 3:15pm, 7:00pm), Wed 4/20 (12:00pm, 3:15pm, 7:00pm)
+
+    * [The Last Temptation Of Christ](https://drafthouse.com/los-angeles/show/the-last-temptation-of-christ): Sun 4/17 (3:30pm), Wed 4/20 (4:15pm)
+
+    * [The Lost City](https://drafthouse.com/los-angeles/show/the-lost-city): Thu 4/14 (3:50pm, 7:00pm, 10:45pm), Fri 4/15 (3:50pm, 7:00pm, 10:45pm), Sat 4/16 (12:20pm, 3:30pm, 7:15pm, 10:30pm), Sun 4/17 (12:20pm, 4:00pm, 7:30pm), Mon 4/18 (12:20pm, 4:00pm, 7:30pm), Tue 4/19 (12:20pm, 4:00pm, 7:30pm), Wed 4/20 (12:20pm, 4:00pm, 7:30pm)
+
+    * [X](https://drafthouse.com/los-angeles/show/x): Thu 4/14 (4:30pm)
+
+    * [You Wont Be Alone](https://drafthouse.com/los-angeles/show/you-wont-be-alone): Thu 4/14 (2:45pm)
+
 ### Sun 4/10 11:25pm
 
 * New screenings: 
