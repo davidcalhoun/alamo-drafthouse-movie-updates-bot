@@ -1,6 +1,30 @@
 # raleigh
 
 ## Movie updates
+### Tue 4/12 3:19pm
+* New movies: Dual
+
+* New screenings: 
+    * [Ambulance](https://drafthouse.com/raleigh/show/ambulance): Fri 4/15 (12:30pm, 4:00pm, 7:25pm, 10:30pm), Sat 4/16 (12:30pm, 4:00pm, 7:25pm, 10:45pm), Sun 4/17 (12:15pm, 3:45pm, 7:30pm, 10:30pm), Mon 4/18 (12:30pm, 4:00pm, 7:15pm, 10:30pm), Tue 4/19 (12:30pm, 4:00pm, 7:15pm, 10:30pm), Wed 4/20 (12:30pm, 4:00pm, 7:15pm, 10:30pm)
+
+    * [Dual](https://drafthouse.com/raleigh/show/dual): Fri 4/15 (1:00pm, 3:50pm, 6:30pm, 9:15pm), Sat 4/16 (1:00pm, 3:50pm, 6:30pm, 9:15pm), Sun 4/17 (11:20am, 3:30pm, 6:40pm, 9:30pm), Mon 4/18 (1:00pm, 3:50pm, 6:30pm, 9:15pm), Tue 4/19 (1:00pm, 3:50pm, 6:30pm, 9:15pm), Wed 4/20 (1:00pm, 3:50pm, 6:30pm, 9:15pm)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/raleigh/show/everything-everywhere-all-at-once): Fri 4/15 (12:00pm, 3:30pm, 5:30pm, 7:00pm, 9:00pm), Sat 4/16 (12:00pm, 3:30pm, 5:30pm, 7:00pm, 9:00pm), Sun 4/17 (12:00pm, 2:00pm, 5:30pm, 7:00pm, 9:00pm), Mon 4/18 (12:00pm, 3:30pm, 5:30pm, 7:00pm, 9:00pm), Tue 4/19 (12:00pm, 3:30pm, 5:30pm, 7:00pm, 9:00pm), Wed 4/20 (12:00pm, 3:30pm, 5:30pm, 7:00pm, 9:00pm)
+
+    * [Fantastic Beasts The Secrets Of Dumbledore](https://drafthouse.com/raleigh/show/fantastic-beasts-the-secrets-of-dumbledore): Fri 4/15 (12:15pm, 2:00pm, 3:45pm, 5:30pm), Sat 4/16 (12:00pm, 3:30pm, 5:30pm, 10:30pm), Sun 4/17 (12:15pm, 3:45pm, 7:15pm, 10:45pm), Mon 4/18 (11:00am, 12:00pm, 2:30pm, 3:30pm, 3:50pm, 6:00pm, 7:00pm, 9:30pm, 10:30pm), Tue 4/19 (11:00am, 11:30am, 12:00pm, 2:30pm, 3:00pm, 3:30pm, 6:00pm, 7:00pm, 9:30pm, 10:30pm), Wed 4/20 (12:00pm, 12:15pm, 12:45pm, 3:30pm, 4:05pm, 7:00pm, 8:00pm, 10:30pm, 10:30pm)
+
+    * [Morbius](https://drafthouse.com/raleigh/show/morbius): Fri 4/15 (1:50pm, 4:45pm, 7:45pm, 10:45pm), Sat 4/16 (1:45pm, 4:45pm, 7:45pm, 10:45pm), Sun 4/17 (12:30pm, 3:30pm, 7:00pm, 10:45pm), Mon 4/18 (1:45pm, 4:45pm, 7:45pm, 10:45pm), Tue 4/19 (1:45pm, 4:45pm, 7:45pm, 10:45pm), Wed 4/20 (1:45pm, 4:45pm, 7:45pm, 10:45pm)
+
+    * [Sonic The Hedgehog 2](https://drafthouse.com/raleigh/show/sonic-the-hedgehog-2): Fri 4/15 (10:45am, 11:45am, 2:00pm, 3:15pm, 6:40pm, 10:00pm), Sat 4/16 (10:30am, 11:30am, 2:00pm, 3:15pm, 6:45pm, 10:00pm), Sun 4/17 (11:45am, 3:15pm, 6:30pm, 10:00pm), Mon 4/18 (11:45am, 12:45pm, 2:00pm, 3:00pm, 6:30pm, 10:00pm), Tue 4/19 (11:45am, 2:00pm, 3:15pm, 6:30pm, 10:00pm), Wed 4/20 (11:45am, 2:00pm, 3:15pm, 6:30pm, 10:00pm)
+
+    * [Superior](https://drafthouse.com/raleigh/show/superior): Sat 4/16 (9:00pm)
+
+    * [The Batman](https://drafthouse.com/raleigh/show/the-batman): Fri 4/15 (11:00am, 2:15pm, 6:00pm, 9:15pm), Sat 4/16 (10:45am, 2:15pm, 6:15pm, 9:45pm), Sun 4/17 (10:45am, 2:15pm, 6:15pm, 9:45pm), Mon 4/18 (11:00am, 2:15pm, 6:00pm, 9:15pm), Tue 4/19 (11:00am, 2:15pm, 6:00pm, 9:15pm), Wed 4/20 (11:00am, 2:15pm, 6:00pm, 9:15pm)
+
+    * [The Lost City](https://drafthouse.com/raleigh/show/the-lost-city): Fri 4/15 (11:15am, 3:00pm, 6:15pm, 10:15pm), Sat 4/16 (11:15am, 3:00pm, 6:30pm, 10:15pm), Sun 4/17 (11:15am, 3:00pm, 6:30pm, 10:15pm), Mon 4/18 (11:15am, 3:00pm, 6:15pm, 10:15pm), Tue 4/19 (11:15am, 3:00pm, 6:15pm, 10:15pm), Wed 4/20 (11:15am, 3:00pm, 6:15pm, 10:15pm)
+
+    * [X](https://drafthouse.com/raleigh/show/x): Fri 4/15 (10:30pm), Sat 4/16 (10:30pm), Sun 4/17 (10:30pm), Mon 4/18 (10:30pm), Tue 4/19 (10:30pm), Wed 4/20 (10:30pm)
+
 ### Mon 4/11 11:26am
 
 * New screenings: 
