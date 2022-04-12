@@ -1,6 +1,31 @@
 # raleigh
 
 ## Movie updates
+### Tue 4/12 7:24pm
+
+* New screenings: 
+    * [All The Old Knives](https://drafthouse.com/raleigh/show/all-the-old-knives): Thu 4/14 (12:45pm, 3:45pm)
+
+    * [Ambulance](https://drafthouse.com/raleigh/show/ambulance): Thu 4/14 (12:15pm, 3:45pm, 6:45pm, 10:25pm)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/raleigh/show/everything-everywhere-all-at-once): Thu 4/14 (12:00pm, 3:30pm, 6:45pm, 10:05pm, 10:45pm)
+
+    * [Fantastic Beasts The Secrets Of Dumbledore](https://drafthouse.com/raleigh/show/fantastic-beasts-the-secrets-of-dumbledore): Thu 4/14 (3:00pm, 6:30pm, 7:15pm, 7:30pm, 10:00pm)
+
+    * [Jujutsu Kaisen 0 Dubbed](https://drafthouse.com/raleigh/show/jujutsu-kaisen-0-dubbed): Thu 4/14 (11:30am)
+
+    * [Morbius](https://drafthouse.com/raleigh/show/morbius): Thu 4/14 (1:30pm, 4:30pm, 7:30pm, 10:30pm)
+
+    * [Sonic The Hedgehog 2](https://drafthouse.com/raleigh/show/sonic-the-hedgehog-2): Thu 4/14 (11:30am, 12:00pm, 3:15pm, 7:00pm, 10:15pm)
+
+    * [The Batman](https://drafthouse.com/raleigh/show/the-batman): Thu 4/14 (11:45am, 2:15pm, 6:15pm, 10:15pm)
+
+    * [The Lost City](https://drafthouse.com/raleigh/show/the-lost-city): Thu 4/14 (1:00pm, 4:00pm, 7:00pm, 10:30pm)
+
+    * [X](https://drafthouse.com/raleigh/show/x): Thu 4/14 (1:45pm, 4:45pm, 7:45pm, 10:45pm)
+
+    * [You Wont Be Alone](https://drafthouse.com/raleigh/show/you-wont-be-alone): Thu 4/14 (3:45pm)
+
 ### Tue 4/12 3:19pm
 * New movies: Dual
 
