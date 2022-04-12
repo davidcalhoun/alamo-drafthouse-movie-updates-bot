@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 4/12 12:16pm
+
+* New screenings: 
+    * [Doctor Strange In The Multiverse Of Madness](https://drafthouse.com/los-angeles/show/doctor-strange-in-the-multiverse-of-madness): Mon 5/16 (12:15pm, 3:30pm, 6:45pm), Tue 5/17 (12:15pm, 3:30pm, 6:45pm, 10:00pm)
+
 ### Mon 4/11 9:25pm
 * New movies: Dual, Everything Everywhere All At Once, Sonic the Hedgehog 2, Midsommar
 
