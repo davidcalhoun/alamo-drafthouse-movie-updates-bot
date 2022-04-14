@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 4/14 7:24pm
+* New movies: Petite Maman
+
+* New screenings: 
+    * [Advance Screening Petite Maman](https://drafthouse.com/raleigh/show/advance-screening-petite-maman): Tue 4/19 (7:00pm)
+
 ### Thu 4/14 4:25pm
 * New movies: Ponyo Dubbed
 
