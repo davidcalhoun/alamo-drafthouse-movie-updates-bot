@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 4/14 1:20pm
+* New movies: Ponyo Dubbed
+
+
+
 ### Thu 4/14 1:25am
 * New movies: Drug Stories, Forbidden World, L.A. Wars, Pit Stop, The Rambling Guitarist, Top of the Heap, Uninvited
 
