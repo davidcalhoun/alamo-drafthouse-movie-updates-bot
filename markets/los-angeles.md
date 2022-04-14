@@ -1,6 +1,24 @@
 # los-angeles
 
 ## Movie updates
+### Thu 4/14 1:25am
+* New movies: Drug Stories, Forbidden World, L.A. Wars, Pit Stop, The Rambling Guitarist, Top of the Heap, Uninvited
+
+* New screenings: 
+    * [Drug Stories](https://drafthouse.com/los-angeles/show/drug-stories): Tue 6/14 (8:00pm), Wed 6/15 (8:00pm)
+
+    * [Forbidden World](https://drafthouse.com/los-angeles/show/forbidden-world): Tue 5/24 (8:00pm), Wed 5/25 (8:00pm)
+
+    * [L A Wars](https://drafthouse.com/los-angeles/show/l-a-wars): Tue 5/17 (9:45pm), Wed 5/18 (9:45pm)
+
+    * [Pit Stop](https://drafthouse.com/los-angeles/show/pit-stop): Tue 6/28 (8:00pm), Wed 6/29 (8:00pm)
+
+    * [The Rambling Guitarist](https://drafthouse.com/los-angeles/show/the-rambling-guitarist): Tue 6/21 (8:00pm), Wed 6/22 (8:00pm)
+
+    * [Top Of The Heap](https://drafthouse.com/los-angeles/show/top-of-the-heap): Tue 5/31 (8:00pm), Wed 6/1 (8:00pm)
+
+    * [Uninvited](https://drafthouse.com/los-angeles/show/uninvited): Tue 6/7 (8:00pm), Wed 6/8 (8:00pm)
+
 ### Tue 4/12 3:19pm
 * New movies: Take Me To The River New Orleans, Take Me To The River New Orleans
 
