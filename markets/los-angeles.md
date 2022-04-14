@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Thu 4/14 3:21pm
+* New movies: Petite Maman, Petite Maman, Twenty One Pilots Cinema Experience
+
+* New screenings: 
+    * [Advance Screening Petite Maman](https://drafthouse.com/los-angeles/show/advance-screening-petite-maman): Tue 4/26 (8:00pm)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/los-angeles/show/everything-everywhere-all-at-once): Sun 4/17 (7:40pm)
+
+    * [Petite Maman](https://drafthouse.com/los-angeles/show/petite-maman): Fri 4/29 (8:00pm), Sat 4/30 (8:00pm), Sun 5/1 (4:45pm)
+
+    * [Twenty One Pilots Cinema Experience](https://drafthouse.com/los-angeles/show/twenty-one-pilots-cinema-experience): Thu 5/19 (8:00pm)
+
 ### Thu 4/14 1:20pm
 * New movies: Ponyo Dubbed
 
