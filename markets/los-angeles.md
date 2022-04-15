@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Thu 4/14 6:41pm
+* New movies: Ryoma! The Prince of Tennis Decide Dubbed, Ryoma! The Prince of Tennis Decide Subtitled
+
+* New screenings: 
+    * [Brunch Screenings The Twilight Saga Eclipse Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-the-twilight-saga-eclipse-brunch): Sat 4/30 (2:45pm)
+
+    * [Ryoma The Prince Of Tennis Decide Dubbed](https://drafthouse.com/los-angeles/show/ryoma-the-prince-of-tennis-decide-dubbed): Thu 5/12 (5:45pm)
+
+    * [Ryoma The Prince Of Tennis Decide Subtitled](https://drafthouse.com/los-angeles/show/ryoma-the-prince-of-tennis-decide-subtitled): Thu 5/12 (8:30pm)
+
 ### Thu 4/14 3:21pm
 * New movies: Petite Maman, Petite Maman, Twenty One Pilots Cinema Experience
 
