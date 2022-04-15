@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Thu 4/14 10:01pm
+* New movies: Ryoma! The Prince of Tennis Decide Subtitled, Twenty One Pilots Cinema Experience
+
+* New screenings: 
+    * [Ryoma The Prince Of Tennis Decide Subtitled](https://drafthouse.com/raleigh/show/ryoma-the-prince-of-tennis-decide-subtitled): Thu 5/12 (9:45pm)
+
+    * [Twenty One Pilots Cinema Experience](https://drafthouse.com/raleigh/show/twenty-one-pilots-cinema-experience): Thu 5/19 (7:15pm)
+
 ### Thu 4/14 7:24pm
 * New movies: Petite Maman
 
