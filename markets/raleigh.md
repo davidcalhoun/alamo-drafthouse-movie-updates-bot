@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 4/15 3:21pm
+
+* New screenings: 
+    * [Fantastic Beasts The Secrets Of Dumbledore](https://drafthouse.com/raleigh/show/fantastic-beasts-the-secrets-of-dumbledore): Fri 4/15 (10:30pm)
+
 ### Thu 4/14 10:01pm
 * New movies: Ryoma! The Prince of Tennis Decide Subtitled, Twenty One Pilots Cinema Experience
 
