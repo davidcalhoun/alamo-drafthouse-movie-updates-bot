@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 4/18 1:28pm
+* New movies: Freakscene: The Story of Dinosaur Jr.
+
+* New screenings: 
+    * [Freakscene The Story Of Dinosaur Jr](https://drafthouse.com/raleigh/show/freakscene-the-story-of-dinosaur-jr): Tue 5/31 (7:45pm)
+
 ### Mon 4/18 6:28am
 * New movies: Take Me To The River New Orleans
 
