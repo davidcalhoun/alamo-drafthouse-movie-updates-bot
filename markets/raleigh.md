@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 4/18 6:28am
+* New movies: Take Me To The River New Orleans
+
+* New screenings: 
+    * [Take Me To The River New Orleans](https://drafthouse.com/raleigh/show/take-me-to-the-river-new-orleans): Fri 5/20 (7:45pm), Sat 5/21 (7:45pm), Sun 5/22 (7:45pm), Mon 5/23 (7:45pm), Tue 5/24 (7:45pm), Wed 5/25 (7:45pm)
+
 ### Sat 4/16 12:33pm
 
 * New screenings: 
