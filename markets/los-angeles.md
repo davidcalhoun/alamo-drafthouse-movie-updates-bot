@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 4/19 8:21am
+* New movies: Downton Abbey: A New Era
+
+* New screenings: 
+    * [Downton Abbey A New Era Advance Fan Celebration](https://drafthouse.com/los-angeles/show/downton-abbey-a-new-era-advance-fan-celebration): Wed 5/18 (7:00pm)
+
 ### Tue 4/19 5:41am
 * New movies: Downton Abbey: A New Era, Downton Abbey: A New Era
 
