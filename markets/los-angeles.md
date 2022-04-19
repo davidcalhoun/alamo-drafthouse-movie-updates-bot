@@ -1,6 +1,48 @@
 # los-angeles
 
 ## Movie updates
+### Mon 4/18 6:51pm
+* New movies: The Unbearable Weight of Massive Talent
+
+* New screenings: 
+    * [Ambulance](https://drafthouse.com/los-angeles/show/ambulance): Thu 4/21 (3:15pm, 6:45pm, 10:15pm), Fri 4/22 (2:45pm, 6:00pm, 9:45pm), Sat 4/23 (11:20am, 2:45pm, 6:00pm, 9:30pm), Sun 4/24 (12:00pm, 3:20pm, 6:35pm), Mon 4/25 (12:45pm, 4:10pm, 7:40pm), Tue 4/26 (12:45pm, 4:10pm, 7:40pm), Wed 4/27 (12:45pm, 4:10pm, 7:40pm)
+
+    * [Brunch Screenings Fantastic Beasts The Secrets Of Dumbledore](https://drafthouse.com/los-angeles/show/brunch-screenings-fantastic-beasts-the-secrets-of-dumbledore): Sat 4/23 (12:00pm), Sun 4/24 (12:15pm)
+
+    * [Brunch Screenings Kikis Delivery Service Dubbed Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-kikis-delivery-service-dubbed-brunch): Sun 4/24 (11:15am)
+
+    * [Collateral](https://drafthouse.com/los-angeles/show/collateral): Tue 4/26 (1:40pm)
+
+    * [Dual](https://drafthouse.com/los-angeles/show/dual): Thu 4/21 (3:45pm, 6:30pm)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/los-angeles/show/everything-everywhere-all-at-once): Thu 4/21 (2:40pm, 4:00pm, 6:15pm, 7:25pm, 9:45pm, 10:45pm), Fri 4/22 (3:10pm, 3:45pm, 6:30pm, 7:15pm, 10:00pm, 10:45pm), Sat 4/23 (12:30pm, 2:20pm, 4:00pm, 5:45pm, 6:15pm, 9:20pm, 10:00pm), Sun 4/24 (12:15pm, 2:30pm, 4:00pm, 6:00pm, 7:20pm), Mon 4/25 (11:00am, 12:15pm, 2:30pm, 4:00pm, 6:00pm, 7:20pm), Tue 4/26 (11:00am, 12:15pm, 2:30pm, 4:00pm, 6:00pm, 7:20pm), Wed 4/27 (11:00am, 12:15pm, 2:30pm, 4:00pm, 6:00pm, 7:20pm)
+
+    * [Everything Everywhere All At Once Brunch](https://drafthouse.com/los-angeles/show/everything-everywhere-all-at-once-brunch): Sat 4/23 (11:00am), Sun 4/24 (11:00am)
+
+    * [Fantastic Beasts The Secrets Of Dumbledore](https://drafthouse.com/los-angeles/show/fantastic-beasts-the-secrets-of-dumbledore): Thu 4/21 (2:15pm, 3:30pm, 7:15pm, 10:40pm), Fri 4/22 (3:30pm, 5:45pm, 7:00pm, 9:15pm, 10:30pm), Sat 4/23 (3:30pm, 7:00pm, 10:30pm), Sun 4/24 (3:45pm, 7:10pm), Mon 4/25 (12:15pm, 3:00pm, 3:45pm, 6:30pm, 7:10pm), Tue 4/26 (11:30am, 12:15pm, 3:00pm, 3:45pm, 6:30pm, 7:10pm), Wed 4/27 (11:30am, 12:15pm, 3:00pm, 3:45pm, 6:30pm, 7:10pm)
+
+    * [Mandy](https://drafthouse.com/los-angeles/show/mandy): Thu 4/21 (5:45pm)
+
+    * [Morbius](https://drafthouse.com/los-angeles/show/morbius): Thu 4/21 (2:50pm)
+
+    * [Movie Party Selena](https://drafthouse.com/los-angeles/show/movie-party-selena): Sun 4/24 (5:45pm), Wed 4/27 (5:30pm)
+
+    * [Sonic The Hedgehog 2](https://drafthouse.com/los-angeles/show/sonic-the-hedgehog-2): Thu 4/21 (3:55pm, 6:15pm, 9:30pm), Fri 4/22 (3:00pm, 6:15pm, 9:30pm), Sat 4/23 (12:15pm, 3:20pm, 6:30pm, 9:45pm), Sun 4/24 (11:30am, 2:45pm, 6:15pm), Mon 4/25 (11:30am, 2:45pm, 6:00pm), Tue 4/26 (11:30am, 2:45pm, 6:00pm), Wed 4/27 (11:30am, 2:45pm, 6:00pm)
+
+    * [Superior](https://drafthouse.com/los-angeles/show/superior): Thu 4/21 (3:45pm)
+
+    * [The Bad Guys](https://drafthouse.com/los-angeles/show/the-bad-guys): Mon 4/25 (12:45pm, 3:30pm, 6:15pm), Tue 4/26 (12:45pm, 3:30pm, 6:15pm), Wed 4/27 (12:45pm, 3:30pm, 6:15pm)
+
+    * [The Batman](https://drafthouse.com/los-angeles/show/the-batman): Thu 4/21 (2:15pm)
+
+    * [The Lost City](https://drafthouse.com/los-angeles/show/the-lost-city): Thu 4/21 (4:00pm), Fri 4/22 (2:45pm), Sat 4/23 (10:55pm), Sun 4/24 (5:15pm), Mon 4/25 (12:00pm), Tue 4/26 (5:00pm), Wed 4/27 (2:15pm)
+
+    * [The Northman](https://drafthouse.com/los-angeles/show/the-northman): Thu 4/21 (9:10pm, 9:20pm, 10:00pm), Fri 4/22 (2:00pm, 5:30pm, 6:00pm, 8:50pm, 9:30pm), Sat 4/23 (10:45am, 2:10pm, 5:35pm, 8:00pm, 9:10pm), Sun 4/24 (10:50am, 2:15pm, 6:00pm), Mon 4/25 (10:50am, 2:15pm, 5:45pm), Tue 4/26 (10:50am, 2:15pm, 5:45pm), Wed 4/27 (10:50am, 2:15pm, 5:45pm)
+
+    * [The Unbearable Weight Of Massive Talent](https://drafthouse.com/los-angeles/show/the-unbearable-weight-of-massive-talent): Thu 4/21 (7:00pm, 10:25pm), Fri 4/22 (2:30pm, 5:20pm, 8:10pm, 11:00pm), Sat 4/23 (2:25pm, 5:15pm, 8:05pm), Sun 4/24 (4:40pm, 7:45pm), Mon 4/25 (11:15am, 12:30pm, 3:30pm, 6:30pm), Tue 4/26 (10:50am, 12:30pm, 3:30pm, 6:30pm), Wed 4/27 (11:15am, 12:30pm, 3:30pm, 6:30pm)
+
+    * [The Unbearable Weight Of Massive Talent Brunch](https://drafthouse.com/los-angeles/show/the-unbearable-weight-of-massive-talent-brunch): Sat 4/23 (11:15am)
+
 ### Thu 4/14 6:41pm
 * New movies: Ryoma! The Prince of Tennis Decide Dubbed, Ryoma! The Prince of Tennis Decide Subtitled
 
