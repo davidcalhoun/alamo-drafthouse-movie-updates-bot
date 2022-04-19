@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Tue 4/19 8:49am
+* New movies: Downton Abbey: A New Era, Downton Abbey: A New Era
+
+* New screenings: 
+    * [Downton Abbey A New Era](https://drafthouse.com/raleigh/show/downton-abbey-a-new-era): Thu 5/19 (7:00pm, 10:30pm), Fri 5/20 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Sat 5/21 (2:45pm, 6:00pm, 9:15pm), Sun 5/22 (2:45pm, 6:00pm, 9:15pm)
+
+    * [Downton Abbey A New Era Brunch](https://drafthouse.com/raleigh/show/downton-abbey-a-new-era-brunch): Sat 5/21 (11:30am), Sun 5/22 (11:30am)
+
 ### Mon 4/18 1:28pm
 * New movies: Freakscene: The Story of Dinosaur Jr.
 
