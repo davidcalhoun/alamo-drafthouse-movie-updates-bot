@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 4/19 1:30pm
+
+* New screenings: 
+    * [The Batman](https://drafthouse.com/raleigh/show/the-batman): Tue 4/19 (6:00pm)
+
 ### Tue 4/19 11:27am
 * New movies: Downton Abbey: A New Era
 
