@@ -1,6 +1,38 @@
 # raleigh
 
 ## Movie updates
+### Tue 4/19 2:30pm
+* New movies: The Bad Guys, Kiki's Delivery Service Dubbed, Kiki's Delivery Service Subtitled
+
+* New screenings: 
+    * [Ambulance](https://drafthouse.com/raleigh/show/ambulance): Thu 4/21 (11:30am, 2:45pm, 6:15pm, 10:15pm), Fri 4/22 (12:00pm, 3:30pm, 6:15pm, 9:45pm), Sat 4/23 (12:00pm, 3:30pm, 6:15pm, 9:45pm), Sun 4/24 (12:00pm, 3:30pm, 6:15pm), Mon 4/25 (11:30am, 3:00pm, 6:15pm, 10:45pm), Tue 4/26 (11:30am, 3:00pm, 6:15pm, 10:45pm), Wed 4/27 (11:30am, 3:00pm, 6:15pm, 10:45pm)
+
+    * [Dual](https://drafthouse.com/raleigh/show/dual): Thu 4/21 (1:45pm, 4:30pm)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/raleigh/show/everything-everywhere-all-at-once): Thu 4/21 (11:45am, 3:15pm, 6:45pm, 10:30pm), Fri 4/22 (12:15pm, 3:45pm, 7:15pm, 10:45pm), Sat 4/23 (12:15pm, 3:45pm, 7:15pm, 10:45pm), Sun 4/24 (12:15pm, 3:45pm, 7:15pm), Mon 4/25 (11:45am, 3:15pm, 6:45pm, 10:15pm), Tue 4/26 (11:45am, 3:15pm, 6:45pm, 10:15pm), Wed 4/27 (11:45am, 3:15pm, 6:45pm, 10:15pm)
+
+    * [Fantastic Beasts The Secrets Of Dumbledore](https://drafthouse.com/raleigh/show/fantastic-beasts-the-secrets-of-dumbledore): Thu 4/21 (11:00am, 11:30am, 12:00pm, 2:30pm, 3:00pm, 3:30pm, 5:30pm, 6:30pm, 9:15pm, 10:00pm), Fri 4/22 (11:00am, 11:45am, 2:00pm, 2:45pm, 5:30pm, 6:15pm, 9:00pm, 10:15pm), Sat 4/23 (11:00am, 11:45am, 2:00pm, 2:45pm, 5:30pm, 6:15pm, 9:00pm, 10:15pm), Sun 4/24 (11:45am, 12:45pm, 4:15pm, 5:00pm, 7:45pm), Mon 4/25 (12:15pm, 1:30pm, 2:15pm, 3:45pm, 5:45pm, 7:15pm, 9:30pm), Tue 4/26 (12:15pm, 1:30pm, 2:15pm, 3:45pm, 5:45pm, 7:15pm, 9:15pm), Wed 4/27 (12:15pm, 1:30pm, 2:15pm, 3:45pm, 5:45pm, 7:15pm, 9:15pm)
+
+    * [Kikis Delivery Service Dubbed](https://drafthouse.com/raleigh/show/kikis-delivery-service-dubbed): Sat 4/23 (11:25am), Mon 4/25 (12:00pm), Tue 4/26 (12:00pm), Wed 4/27 (3:30pm)
+
+    * [Kikis Delivery Service Subtitled](https://drafthouse.com/raleigh/show/kikis-delivery-service-subtitled): Sat 4/23 (2:15pm), Wed 4/27 (9:30pm)
+
+    * [Morbius](https://drafthouse.com/raleigh/show/morbius): Thu 4/21 (12:15pm, 3:15pm)
+
+    * [Sonic The Hedgehog 2](https://drafthouse.com/raleigh/show/sonic-the-hedgehog-2): Thu 4/21 (1:30pm, 2:15pm, 4:45pm, 6:15pm, 9:30pm), Fri 4/22 (11:00am, 11:45am, 3:15pm, 7:00pm, 9:45pm), Sat 4/23 (11:00am, 11:45am, 3:15pm, 7:00pm, 9:45pm), Sun 4/24 (12:30pm, 3:45pm, 7:00pm), Mon 4/25 (12:00pm, 3:00pm, 6:15pm, 9:30pm), Tue 4/26 (12:00pm, 3:00pm, 6:15pm, 9:30pm), Wed 4/27 (12:00pm, 3:00pm, 6:15pm, 9:30pm)
+
+    * [The Bad Guys](https://drafthouse.com/raleigh/show/the-bad-guys): Thu 4/21 (5:00pm, 7:45pm), Fri 4/22 (12:15pm, 3:00pm, 6:00pm, 8:45pm), Sat 4/23 (12:15pm, 3:00pm, 6:00pm, 8:45pm), Sun 4/24 (12:15pm, 3:00pm, 6:00pm), Mon 4/25 (12:15pm, 3:15pm, 6:00pm, 9:00pm), Tue 4/26 (12:15pm, 3:15pm, 6:00pm, 9:00pm), Wed 4/27 (12:15pm, 3:15pm, 6:00pm, 9:00pm)
+
+    * [The Batman](https://drafthouse.com/raleigh/show/the-batman): Thu 4/21 (1:00pm)
+
+    * [The Lost City](https://drafthouse.com/raleigh/show/the-lost-city): Thu 4/21 (1:15pm, 4:15pm)
+
+    * [The Northman](https://drafthouse.com/raleigh/show/the-northman): Thu 4/21 (7:30pm, 8:15pm, 9:30pm), Fri 4/22 (1:30pm, 2:15pm, 5:45pm, 8:00pm, 9:15pm), Sat 4/23 (2:15pm, 5:45pm, 9:15pm), Sun 4/24 (11:00am, 2:15pm, 5:45pm), Mon 4/25 (12:30pm, 1:45pm, 4:15pm, 5:15pm, 7:00pm, 8:00pm, 8:45pm, 10:30pm), Tue 4/26 (12:30pm, 1:45pm, 4:15pm, 5:15pm, 7:00pm, 8:00pm, 8:45pm, 9:30pm, 10:30pm), Wed 4/27 (12:30pm, 1:45pm, 4:15pm, 5:15pm, 7:00pm, 8:00pm, 8:45pm, 10:30pm)
+
+    * [The Unbearable Weight Of Massive Talent](https://drafthouse.com/raleigh/show/the-unbearable-weight-of-massive-talent): Thu 4/21 (7:15pm, 10:45pm), Fri 4/22 (11:15am, 3:15pm, 5:00pm, 6:45pm, 9:30pm), Sat 4/23 (11:15am, 3:15pm, 6:45pm, 9:30pm), Sun 4/24 (11:15am, 2:30pm, 3:15pm, 6:45pm), Mon 4/25 (1:15pm, 4:00pm, 5:00pm, 6:30pm, 7:45pm, 9:45pm, 10:45pm), Tue 4/26 (1:15pm, 4:00pm, 5:00pm, 6:30pm, 7:45pm, 9:45pm, 10:45pm), Wed 4/27 (1:15pm, 4:00pm, 5:00pm, 6:30pm, 7:45pm, 9:40pm, 10:45pm)
+
+    * [Vertigo](https://drafthouse.com/raleigh/show/vertigo): Sat 4/23 (5:00pm, 8:15pm), Sun 4/24 (5:30pm), Mon 4/25 (2:45pm), Tue 4/26 (2:45pm), Wed 4/27 (12:00pm)
+
 ### Tue 4/19 1:30pm
 
 * New screenings: 
