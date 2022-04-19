@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 4/19 5:41am
+* New movies: Downton Abbey: A New Era, Downton Abbey: A New Era
+
+* New screenings: 
+    * [Downton Abbey A New Era](https://drafthouse.com/los-angeles/show/downton-abbey-a-new-era): Thu 5/19 (7:00pm, 10:15pm), Fri 5/20 (3:45pm, 7:00pm, 10:15pm), Sat 5/21 (3:45pm, 7:00pm, 10:15pm), Sun 5/22 (3:45pm, 7:00pm)
+
+    * [Downton Abbey A New Era Brunch](https://drafthouse.com/los-angeles/show/downton-abbey-a-new-era-brunch): Sat 5/21 (12:30pm), Sun 5/22 (12:30pm)
+
 ### Mon 4/18 6:51pm
 * New movies: The Unbearable Weight of Massive Talent
 
