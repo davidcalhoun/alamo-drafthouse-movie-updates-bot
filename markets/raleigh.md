@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 4/19 11:27am
+* New movies: Downton Abbey: A New Era
+
+* New screenings: 
+    * [Downton Abbey A New Era Advance Fan Celebration](https://drafthouse.com/raleigh/show/downton-abbey-a-new-era-advance-fan-celebration): Wed 5/18 (7:00pm)
+
 ### Tue 4/19 8:49am
 * New movies: Downton Abbey: A New Era, Downton Abbey: A New Era
 
