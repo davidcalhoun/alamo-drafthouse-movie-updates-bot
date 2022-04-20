@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Wed 4/20 12:19am
+* New movies: They Live, Prince of Darkness
+
+* New screenings: 
+    * [Brunch Screenings Spirited Away Dubbed Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-spirited-away-dubbed-brunch): Sun 8/28 (2:45pm)
+
+    * [Prince Of Darkness](https://drafthouse.com/los-angeles/show/prince-of-darkness): Mon 8/15 (7:30pm)
+
+    * [They Live](https://drafthouse.com/los-angeles/show/they-live): Sat 8/27 (9:30pm), Tue 8/30 (7:30pm)
+
 ### Tue 4/19 11:26pm
 * New movies: Escape from L.A., Escape from New York, Christine 1983, Starman, The Fog, The Thing 1982
 
