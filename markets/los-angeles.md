@@ -1,6 +1,36 @@
 # los-angeles
 
 ## Movie updates
+### Tue 4/19 9:51pm
+* New movies: Back to the Future, Friday the 13th Part IV: The Final Chapter, Robocop: Director's Cut, Crazy Rich Asians, Back to the Future, Dirty Dancing, Poltergeist 1982, Dirty Dancing, Crazy Rich Asians, Mamma Mia!, Rear Window, Mamma Mia!, MARIE ANTOINETTE
+
+* New screenings: 
+    * [Back To The Future](https://drafthouse.com/los-angeles/show/back-to-the-future): Mon 5/23 (4:45pm)
+
+    * [Crazy Rich Asians](https://drafthouse.com/los-angeles/show/crazy-rich-asians): Wed 5/18 (3:15pm)
+
+    * [Dirty Dancing](https://drafthouse.com/los-angeles/show/dirty-dancing): Mon 5/9 (3:00pm)
+
+    * [Friday The 13th Part Iv The Final Chapter](https://drafthouse.com/los-angeles/show/friday-the-13th-part-iv-the-final-chapter): Fri 5/13 (7:30pm, 10:15pm)
+
+    * [Graveyard Shift Poltergeist 1982](https://drafthouse.com/los-angeles/show/graveyard-shift-poltergeist-1982): Mon 5/23 (8:00pm)
+
+    * [Mamma Mia](https://drafthouse.com/los-angeles/show/mamma-mia): Wed 5/11 (4:15pm)
+
+    * [Marie Antoinette](https://drafthouse.com/los-angeles/show/marie-antoinette): Fri 5/6 (5:45pm), Mon 5/9 (9:45pm)
+
+    * [Movie Party Back To The Future](https://drafthouse.com/los-angeles/show/movie-party-back-to-the-future): Fri 5/20 (9:30pm), Sat 5/21 (5:45pm), Sun 5/22 (7:00pm), Mon 5/23 (7:00pm)
+
+    * [Movie Party Dirty Dancing](https://drafthouse.com/los-angeles/show/movie-party-dirty-dancing): Sun 5/8 (7:00pm)
+
+    * [Rear Window](https://drafthouse.com/los-angeles/show/rear-window): Sun 5/15 (2:00pm)
+
+    * [Robocop Directors Cut](https://drafthouse.com/los-angeles/show/robocop-directors-cut): Sat 5/21 (3:00pm), Sun 5/22 (4:30pm)
+
+    * [Special Event Crazy Rich Asians Brunch](https://drafthouse.com/los-angeles/show/special-event-crazy-rich-asians-brunch): Sat 5/14 (10:45am), Sun 5/15 (10:45am)
+
+    * [Special Event Mamma Mia Brunch](https://drafthouse.com/los-angeles/show/special-event-mamma-mia-brunch): Sun 5/8 (10:45am)
+
 ### Tue 4/19 8:21am
 * New movies: Downton Abbey: A New Era
 
