@@ -1,6 +1,22 @@
 # los-angeles
 
 ## Movie updates
+### Tue 4/19 11:26pm
+* New movies: Escape from L.A., Escape from New York, Christine 1983, Starman, The Fog, The Thing 1982
+
+* New screenings: 
+    * [Escape From L A](https://drafthouse.com/los-angeles/show/escape-from-l-a): Mon 7/4 (7:30pm)
+
+    * [Escape From New York](https://drafthouse.com/los-angeles/show/escape-from-new-york): Mon 7/4 (4:45pm)
+
+    * [Graveyard Shift Christine 1983](https://drafthouse.com/los-angeles/show/graveyard-shift-christine-1983): Mon 7/18 (7:30pm)
+
+    * [Starman](https://drafthouse.com/los-angeles/show/starman): Wed 7/20 (7:30pm)
+
+    * [The Fog](https://drafthouse.com/los-angeles/show/the-fog): Mon 6/13 (7:30pm)
+
+    * [The Thing](https://drafthouse.com/los-angeles/show/the-thing): Mon 8/8 (7:30pm)
+
 ### Tue 4/19 10:36pm
 * New movies: Dark Star, Halloween 1978, Shogun Assassin, Back to the Future Part II, Back to the Future Part III, Blue Velvet, Jackie Brown, SPRING BREAKERS
 
