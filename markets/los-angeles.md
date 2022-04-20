@@ -1,6 +1,28 @@
 # los-angeles
 
 ## Movie updates
+### Tue 4/19 10:36pm
+* New movies: Dark Star, Halloween 1978, Shogun Assassin, Back to the Future Part II, Back to the Future Part III, Blue Velvet, Jackie Brown, SPRING BREAKERS
+
+* New screenings: 
+    * [Back To The Future Part Ii](https://drafthouse.com/los-angeles/show/back-to-the-future-part-ii): Tue 5/31 (7:30pm)
+
+    * [Back To The Future Part Iii](https://drafthouse.com/los-angeles/show/back-to-the-future-part-iii): Wed 6/8 (7:00pm)
+
+    * [Blue Velvet](https://drafthouse.com/los-angeles/show/blue-velvet): Wed 5/25 (6:45pm)
+
+    * [Brunch Screenings Porco Rosso Dubbed Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-porco-rosso-dubbed-brunch): Sat 5/28 (12:00pm)
+
+    * [Dark Star](https://drafthouse.com/los-angeles/show/dark-star): Mon 5/30 (5:00pm), Tue 5/31 (5:30pm), Wed 6/1 (2:45pm)
+
+    * [Fist City Shogun Assassin](https://drafthouse.com/los-angeles/show/fist-city-shogun-assassin): Mon 5/30 (7:30pm)
+
+    * [Halloween 1978](https://drafthouse.com/los-angeles/show/halloween-1978): Fri 6/3 (9:30pm), Mon 6/6 (7:00pm)
+
+    * [Jackie Brown](https://drafthouse.com/los-angeles/show/jackie-brown): Wed 5/25 (4:15pm)
+
+    * [Spring Breakers](https://drafthouse.com/los-angeles/show/spring-breakers): Fri 5/27 (5:45pm), Wed 6/1 (5:15pm)
+
 ### Tue 4/19 9:51pm
 * New movies: Back to the Future, Friday the 13th Part IV: The Final Chapter, Robocop: Director's Cut, Crazy Rich Asians, Back to the Future, Dirty Dancing, Poltergeist 1982, Dirty Dancing, Crazy Rich Asians, Mamma Mia!, Rear Window, Mamma Mia!, MARIE ANTOINETTE
 
