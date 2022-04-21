@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 4/21 2:32pm
+* New movies: Revue Starlight The Movie
+
+* New screenings: 
+    * [Revue Starlight The Movie](https://drafthouse.com/raleigh/show/revue-starlight-the-movie): Sun 6/5 (7:15pm), Mon 6/6 (7:15pm)
+
 ### Tue 4/19 2:30pm
 * New movies: The Bad Guys, Kiki's Delivery Service Dubbed, Kiki's Delivery Service Subtitled
 
