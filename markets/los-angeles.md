@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 4/21 3:20pm
+
+* New screenings: 
+    * [The Northman](https://drafthouse.com/los-angeles/show/the-northman): Fri 4/22 (10:30pm)
+
 ### Wed 4/20 12:19am
 * New movies: They Live, Prince of Darkness
 
