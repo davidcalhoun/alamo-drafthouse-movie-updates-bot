@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 4/21 4:19pm
+* New movies: Closer, Revue Starlight The Movie
+
+* New screenings: 
+    * [Closer](https://drafthouse.com/los-angeles/show/closer): Fri 5/20 (6:45pm)
+
+    * [Revue Starlight The Movie](https://drafthouse.com/los-angeles/show/revue-starlight-the-movie): Sun 6/5 (2:30pm), Mon 6/6 (6:30pm)
+
 ### Thu 4/21 3:20pm
 
 * New screenings: 
