@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 4/22 9:31am
+* New movies: Fallen Angels
+
+* New screenings: 
+    * [Fallen Angels](https://drafthouse.com/los-angeles/show/fallen-angels): Mon 5/16 (5:45pm)
+
 ### Fri 4/22 8:21am
 
 * New screenings: 
