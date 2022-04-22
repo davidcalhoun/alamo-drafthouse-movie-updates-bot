@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Fri 4/22 7:24pm
+* New movies: Petite Maman, Memory
+
+* New screenings: 
+    * [Memory](https://drafthouse.com/raleigh/show/memory): Thu 4/28 (6:15pm, 9:15pm)
+
+    * [Petite Maman](https://drafthouse.com/raleigh/show/petite-maman): Fri 5/6 (6:30pm), Sat 5/7 (6:30pm), Sun 5/8 (6:30pm)
+
 ### Fri 4/22 6:25pm
 * New movies: Hatching
 
