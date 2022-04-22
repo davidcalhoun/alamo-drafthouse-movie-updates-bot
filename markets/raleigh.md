@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 4/22 6:25pm
+* New movies: Hatching
+
+* New screenings: 
+    * [Hatching](https://drafthouse.com/raleigh/show/hatching): Thu 4/28 (7:00pm, 9:30pm), Fri 4/29 (7:00pm), Sat 4/30 (7:00pm), Sun 5/1 (7:00pm)
+
 ### Thu 4/21 2:32pm
 * New movies: Revue Starlight The Movie
 
