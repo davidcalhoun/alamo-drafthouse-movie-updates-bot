@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 4/22 8:21am
+
+* New screenings: 
+    * [Doctor Strange In The Multiverse Of Madness](https://drafthouse.com/los-angeles/show/doctor-strange-in-the-multiverse-of-madness): Thu 5/5 (5:00pm), Sun 5/8 (1:45pm)
+
 ### Thu 4/21 4:19pm
 * New movies: Closer, Revue Starlight The Movie
 
