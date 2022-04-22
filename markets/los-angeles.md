@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 4/22 3:20pm
+
+* New screenings: 
+    * [This Much I Know To Be True](https://drafthouse.com/los-angeles/show/this-much-i-know-to-be-true): Wed 5/11 (10:15pm), Fri 5/13 (4:45pm), Sun 5/15 (5:00pm)
+
 ### Fri 4/22 9:31am
 * New movies: Fallen Angels
 
