@@ -1,6 +1,38 @@
 # raleigh
 
 ## Movie updates
+### Sat 4/23 9:54pm
+* New movies: Back to the Future, Dirty Dancing, Friday the 13th Part IV: The Final Chapter, Robocop: Director's Cut, Shogun Assassin, Poltergeist 1982, Blue Velvet, Crazy Rich Asians, Dark Star, Jackie Brown, Mamma Mia!, Rear Window, Crazy Rich Asians
+
+* New screenings: 
+    * [Back To The Future](https://drafthouse.com/raleigh/show/back-to-the-future): Sat 5/21 (9:30pm), Sun 5/22 (11:00am, 7:00pm), Mon 5/23 (1:15pm), Tue 5/24 (1:15pm)
+
+    * [Blue Velvet](https://drafthouse.com/raleigh/show/blue-velvet): Wed 5/25 (9:15pm)
+
+    * [Crazy Rich Asians](https://drafthouse.com/raleigh/show/crazy-rich-asians): Wed 5/18 (3:30pm)
+
+    * [Dark Star](https://drafthouse.com/raleigh/show/dark-star): Mon 5/30 (9:30pm)
+
+    * [Downton Abbey A New Era](https://drafthouse.com/raleigh/show/downton-abbey-a-new-era): Sat 5/21 (4:30pm)
+
+    * [Fist City Shogun Assassin](https://drafthouse.com/raleigh/show/fist-city-shogun-assassin): Mon 5/30 (7:00pm)
+
+    * [Friday The 13th Part Iv The Final Chapter](https://drafthouse.com/raleigh/show/friday-the-13th-part-iv-the-final-chapter): Fri 5/13 (10:00pm), Mon 5/16 (7:45pm)
+
+    * [Graveyard Shift Poltergeist 1982](https://drafthouse.com/raleigh/show/graveyard-shift-poltergeist-1982): Mon 5/23 (7:30pm)
+
+    * [Jackie Brown](https://drafthouse.com/raleigh/show/jackie-brown): Fri 5/20 (9:00pm)
+
+    * [Mamma Mia](https://drafthouse.com/raleigh/show/mamma-mia): Sun 5/8 (12:45pm)
+
+    * [Movie Party Dirty Dancing](https://drafthouse.com/raleigh/show/movie-party-dirty-dancing): Sun 5/8 (4:00pm), Tue 5/10 (7:15pm)
+
+    * [Rear Window](https://drafthouse.com/raleigh/show/rear-window): Sat 5/14 (6:15pm)
+
+    * [Robocop Directors Cut](https://drafthouse.com/raleigh/show/robocop-directors-cut): Sun 5/22 (2:15pm), Tue 5/24 (7:30pm)
+
+    * [Special Event Crazy Rich Asians Brunch](https://drafthouse.com/raleigh/show/special-event-crazy-rich-asians-brunch): Sat 5/14 (11:45am)
+
 ### Fri 4/22 7:24pm
 * New movies: Petite Maman, Memory
 
