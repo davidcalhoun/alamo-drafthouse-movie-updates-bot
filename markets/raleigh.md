@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Sun 4/24 7:24pm
+* New movies: Back to the Future, Dirty Dancing
+
+* New screenings: 
+    * [Dirty Dancing](https://drafthouse.com/raleigh/show/dirty-dancing): Tue 5/10 (4:30pm)
+
+    * [Mamma Mia](https://drafthouse.com/raleigh/show/mamma-mia): Wed 5/11 (4:15pm)
+
 ### Sat 4/23 9:54pm
 * New movies: Back to the Future, Dirty Dancing, Friday the 13th Part IV: The Final Chapter, Robocop: Director's Cut, Shogun Assassin, Poltergeist 1982, Blue Velvet, Crazy Rich Asians, Dark Star, Jackie Brown, Mamma Mia!, Rear Window, Crazy Rich Asians
 
