@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 4/25 10:23am
+* New movies: George Michael Freedom Uncut
+
+* New screenings: 
+    * [George Michael Freedom Uncut](https://drafthouse.com/los-angeles/show/george-michael-freedom-uncut): Wed 6/22 (7:30pm)
+
 ### Fri 4/22 3:20pm
 
 * New screenings: 
