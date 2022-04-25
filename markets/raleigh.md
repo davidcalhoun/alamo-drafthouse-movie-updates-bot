@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 4/25 2:32pm
+* New movies: George Michael Freedom Uncut
+
+* New screenings: 
+    * [George Michael Freedom Uncut](https://drafthouse.com/raleigh/show/george-michael-freedom-uncut): Wed 6/22 (7:45pm)
+
 ### Sun 4/24 7:24pm
 * New movies: Back to the Future, Dirty Dancing
 
