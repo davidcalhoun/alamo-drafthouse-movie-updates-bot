@@ -1,6 +1,34 @@
 # raleigh
 
 ## Movie updates
+### Mon 4/25 4:25pm
+* New movies: We're All Going to the World's Fair, The Twilight Saga: Eclipse
+
+* New screenings: 
+    * [Ambulance](https://drafthouse.com/raleigh/show/ambulance): Thu 4/28 (11:30am, 3:00pm), Fri 4/29 (9:15pm), Sat 4/30 (9:15pm), Sun 5/1 (3:30pm), Mon 5/2 (9:15pm), Tue 5/3 (9:15pm), Wed 5/4 (9:15pm)
+
+    * [Brunch Screenings The Twilight Saga Eclipse Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-the-twilight-saga-eclipse-brunch): Sun 5/1 (11:00am)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/raleigh/show/everything-everywhere-all-at-once): Thu 4/28 (11:45am, 3:15pm, 6:45pm, 10:15pm), Fri 4/29 (1:15pm, 2:30pm, 6:00pm, 10:00pm), Sat 4/30 (1:15pm, 2:30pm, 6:00pm, 10:00pm), Sun 5/1 (1:15pm, 2:30pm, 6:00pm), Mon 5/2 (1:15pm, 2:30pm, 6:00pm, 10:30pm), Tue 5/3 (1:15pm, 2:30pm, 6:00pm, 10:00pm), Wed 5/4 (1:15pm, 2:30pm, 6:00pm, 10:00pm)
+
+    * [Fantastic Beasts The Secrets Of Dumbledore](https://drafthouse.com/raleigh/show/fantastic-beasts-the-secrets-of-dumbledore): Thu 4/28 (12:15pm, 1:30pm, 3:45pm, 7:15pm, 9:15pm), Fri 4/29 (11:45am, 3:00pm, 6:45pm, 10:15pm), Sat 4/30 (11:45am, 3:00pm, 6:45pm, 10:15pm), Sun 5/1 (11:45am, 3:00pm, 6:45pm), Mon 5/2 (11:45am, 3:00pm, 6:45pm, 10:15pm), Tue 5/3 (11:45am, 3:00pm, 6:45pm, 10:15pm), Wed 5/4 (11:45am, 3:00pm, 6:45pm, 10:15pm)
+
+    * [Hatching](https://drafthouse.com/raleigh/show/hatching): Fri 4/29 (1:45pm, 4:30pm, 10:45pm), Sat 4/30 (1:45pm, 4:30pm, 10:45pm), Sun 5/1 (1:45pm, 4:30pm), Mon 5/2 (1:45pm, 4:30pm, 6:45pm, 10:45pm), Tue 5/3 (1:45pm, 4:30pm, 7:00pm, 10:45pm), Wed 5/4 (1:45pm, 4:30pm, 7:00pm, 10:45pm)
+
+    * [Memory](https://drafthouse.com/raleigh/show/memory): Fri 4/29 (1:00pm, 4:15pm, 7:15pm, 10:30pm), Sat 4/30 (1:00pm, 4:15pm, 7:15pm, 10:30pm), Sun 5/1 (1:00pm, 4:15pm, 7:15pm), Mon 5/2 (1:00pm, 4:15pm, 7:15pm, 10:15pm), Tue 5/3 (1:00pm, 4:15pm, 7:15pm, 10:30pm), Wed 5/4 (1:00pm, 4:15pm, 7:15pm, 10:30pm)
+
+    * [Sonic The Hedgehog 2](https://drafthouse.com/raleigh/show/sonic-the-hedgehog-2): Thu 4/28 (12:15pm, 3:15pm, 6:30pm, 10:00pm), Fri 4/29 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Sat 4/30 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Sun 5/1 (12:00pm, 3:15pm, 6:30pm), Mon 5/2 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Tue 5/3 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Wed 5/4 (12:00pm, 3:15pm, 6:30pm, 9:45pm)
+
+    * [The Bad Guys](https://drafthouse.com/raleigh/show/the-bad-guys): Thu 4/28 (12:00pm, 2:45pm, 6:00pm, 9:00pm), Fri 4/29 (12:45pm, 3:30pm, 6:15pm, 9:00pm), Sat 4/30 (12:45pm, 3:30pm, 6:15pm, 9:00pm), Sun 5/1 (12:45pm, 3:30pm, 6:15pm), Mon 5/2 (12:45pm, 3:30pm, 6:15pm, 9:00pm), Tue 5/3 (12:45pm, 3:30pm, 6:15pm, 9:00pm), Wed 5/4 (12:45pm, 3:30pm, 6:15pm, 9:00pm)
+
+    * [The Northman](https://drafthouse.com/raleigh/show/the-northman): Thu 4/28 (11:30am, 1:30pm, 3:30pm, 4:15pm, 5:15pm, 6:15pm, 8:00pm, 9:45pm, 10:45pm), Fri 4/29 (12:30pm, 1:30pm, 3:15pm, 4:00pm, 5:00pm, 7:30pm, 8:30pm, 9:30pm), Sat 4/30 (12:30pm, 1:30pm, 2:15pm, 4:00pm, 5:00pm, 7:30pm, 8:30pm, 9:30pm), Sun 5/1 (12:30pm, 1:30pm, 2:15pm, 4:00pm, 5:00pm, 7:30pm), Mon 5/2 (12:30pm, 1:30pm, 4:00pm, 5:00pm, 7:00pm, 8:30pm, 9:30pm), Tue 5/3 (12:30pm, 1:30pm, 3:15pm, 4:00pm, 5:00pm, 7:30pm, 8:30pm, 9:30pm), Wed 5/4 (12:30pm, 1:30pm, 3:15pm, 4:00pm, 5:00pm, 7:30pm, 8:30pm, 9:30pm)
+
+    * [The Twilight Saga Eclipse](https://drafthouse.com/raleigh/show/the-twilight-saga-eclipse): Fri 4/29 (11:40am), Mon 5/2 (11:40am), Tue 5/3 (11:40am), Wed 5/4 (11:40am)
+
+    * [The Unbearable Weight Of Massive Talent](https://drafthouse.com/raleigh/show/the-unbearable-weight-of-massive-talent): Thu 4/28 (12:30pm, 1:15pm, 2:00pm, 3:00pm, 5:00pm, 7:45pm, 8:45pm, 10:45pm), Fri 4/29 (11:30am, 12:15pm, 2:45pm, 4:45pm, 5:45pm, 7:45pm, 8:45pm, 10:50pm), Sat 4/30 (11:30am, 12:45pm, 3:45pm, 4:45pm, 5:45pm, 7:45pm, 8:45pm, 10:50pm), Sun 5/1 (11:30am, 12:30pm, 4:45pm, 5:45pm, 7:45pm), Mon 5/2 (11:30am, 12:45pm, 2:45pm, 4:45pm, 5:45pm, 7:45pm, 8:45pm), Tue 5/3 (11:30am, 12:15pm, 2:45pm, 4:45pm, 5:45pm, 7:45pm, 8:45pm, 10:50pm), Wed 5/4 (11:30am, 12:15pm, 2:45pm, 4:45pm, 5:45pm, 7:45pm, 8:45pm, 10:50pm)
+
+    * [Were All Going To The Worlds Fair](https://drafthouse.com/raleigh/show/were-all-going-to-the-worlds-fair): Fri 4/29 (6:45pm), Sat 4/30 (6:45pm), Sun 5/1 (6:45pm), Mon 5/2 (4:00pm), Tue 5/3 (6:45pm), Wed 5/4 (6:45pm)
+
 ### Mon 4/25 2:32pm
 * New movies: George Michael Freedom Uncut
 
