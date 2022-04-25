@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 4/25 2:16pm
+* New movies: Marie Antoinette
+
+* New screenings: 
+    * [Marie Antoinette](https://drafthouse.com/los-angeles/show/marie-antoinette): Fri 5/6 (5:45pm), Mon 5/9 (9:45pm)
+
 ### Mon 4/25 10:23am
 * New movies: George Michael Freedom Uncut
 
