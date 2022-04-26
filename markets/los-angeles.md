@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 4/26 3:20pm
+* New movies: HBO Max Presents The Staircase
+
+* New screenings: 
+    * [Free Victory Screening The Staircase](https://drafthouse.com/los-angeles/show/free-victory-screening-the-staircase): Tue 5/3 (7:30pm)
+
 ### Mon 4/25 9:33pm
 * New movies: Hatching, Everything Everywhere All At Once, The Unbearable Weight of Massive Talent
 
