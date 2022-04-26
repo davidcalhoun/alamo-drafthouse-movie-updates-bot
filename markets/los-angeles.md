@@ -1,6 +1,40 @@
 # los-angeles
 
 ## Movie updates
+### Mon 4/25 9:33pm
+* New movies: Hatching, Everything Everywhere All At Once, The Unbearable Weight of Massive Talent
+
+* New screenings: 
+    * [Ambulance](https://drafthouse.com/los-angeles/show/ambulance): Thu 4/28 (2:45pm, 6:00pm), Fri 4/29 (2:40pm), Sat 4/30 (11:45am), Sun 5/1 (11:30am), Mon 5/2 (11:45am), Tue 5/3 (12:00pm), Wed 5/4 (11:30am)
+
+    * [Brunch Screenings The Twilight Saga Eclipse Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-the-twilight-saga-eclipse-brunch): Sun 5/1 (2:45pm)
+
+    * [Collateral](https://drafthouse.com/los-angeles/show/collateral): Thu 4/28 (2:30pm)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/los-angeles/show/everything-everywhere-all-at-once): Thu 4/28 (3:10pm, 3:45pm, 6:30pm, 7:15pm, 9:20pm, 10:00pm, 10:45pm), Fri 4/29 (2:10pm, 3:45pm, 5:30pm, 7:15pm, 9:00pm, 9:30pm), Sat 4/30 (11:15am, 2:35pm, 3:45pm, 6:00pm, 7:15pm, 9:45pm, 10:45pm), Sun 5/1 (11:15am, 2:40pm, 3:45pm, 6:00pm, 7:15pm), Mon 5/2 (11:15am, 12:15pm, 2:40pm, 3:45pm, 6:00pm, 6:45pm, 7:15pm), Tue 5/3 (11:15am, 12:15pm, 2:40pm, 3:45pm, 6:00pm, 6:45pm, 7:15pm), Wed 5/4 (11:15am, 12:15pm, 2:40pm, 3:45pm, 6:00pm, 6:45pm, 7:15pm)
+
+    * [Everything Everywhere All At Once Brunch](https://drafthouse.com/los-angeles/show/everything-everywhere-all-at-once-brunch): Sat 4/30 (12:25pm), Sun 5/1 (12:15pm)
+
+    * [Fantastic Beasts The Secrets Of Dumbledore](https://drafthouse.com/los-angeles/show/fantastic-beasts-the-secrets-of-dumbledore): Thu 4/28 (3:30pm, 5:45pm, 7:00pm, 9:15pm), Fri 4/29 (3:30pm, 7:00pm, 10:30pm), Sat 4/30 (11:30am, 3:15pm, 7:00pm, 10:25pm), Sun 5/1 (11:45am, 3:15pm, 7:00pm), Mon 5/2 (11:30am, 3:15pm, 6:45pm), Tue 5/3 (11:30am, 3:15pm, 6:45pm), Wed 5/4 (11:30am, 3:15pm, 6:45pm)
+
+    * [Hatching](https://drafthouse.com/los-angeles/show/hatching): Thu 4/28 (8:00pm, 10:40pm), Fri 4/29 (3:40pm, 6:10pm, 8:40pm), Sat 4/30 (1:00pm, 10:35pm), Sun 5/1 (1:00pm), Mon 5/2 (1:00pm, 3:30pm, 6:15pm), Tue 5/3 (1:00pm, 3:30pm, 6:15pm), Wed 5/4 (1:00pm, 3:45pm, 6:15pm)
+
+    * [Petite Maman](https://drafthouse.com/los-angeles/show/petite-maman): Fri 4/29 (3:15pm, 5:45pm, 10:15pm), Sat 4/30 (12:45pm, 3:20pm, 5:45pm, 10:15pm), Sun 5/1 (12:25pm, 2:30pm, 7:00pm), Mon 5/2 (12:00pm, 2:30pm, 4:45pm, 7:00pm), Tue 5/3 (12:00pm, 2:30pm, 4:45pm, 7:00pm), Wed 5/4 (12:00pm, 2:30pm, 4:45pm, 7:00pm)
+
+    * [Sonic The Hedgehog 2](https://drafthouse.com/los-angeles/show/sonic-the-hedgehog-2): Thu 4/28 (3:00pm, 6:20pm)
+
+    * [Take Me To The River New Orleans](https://drafthouse.com/los-angeles/show/take-me-to-the-river-new-orleans): Mon 5/2 (12:00pm), Tue 5/3 (12:00pm, 3:00pm), Wed 5/4 (12:00pm, 6:30pm)
+
+    * [The Bad Guys](https://drafthouse.com/los-angeles/show/the-bad-guys): Thu 4/28 (3:30pm, 6:10pm, 9:00pm), Fri 4/29 (3:30pm, 6:15pm, 9:00pm), Sat 4/30 (12:15pm, 3:00pm, 6:15pm, 9:00pm), Sun 5/1 (12:00pm, 3:00pm, 6:15pm), Mon 5/2 (11:45am, 2:25pm, 5:15pm, 8:00pm), Tue 5/3 (11:45am, 2:25pm, 5:15pm, 8:00pm), Wed 5/4 (11:45am, 2:25pm, 5:15pm, 8:00pm)
+
+    * [The Lost City](https://drafthouse.com/los-angeles/show/the-lost-city): Thu 4/28 (2:45pm)
+
+    * [The Northman](https://drafthouse.com/los-angeles/show/the-northman): Thu 4/28 (2:00pm, 3:15pm, 5:30pm, 6:00pm, 6:45pm, 8:50pm, 9:30pm, 10:15pm, 10:30pm), Fri 4/29 (2:25pm, 2:50pm, 4:10pm, 6:00pm, 6:40pm, 9:30pm, 10:00pm, 10:40pm), Sat 4/30 (11:00am, 11:15am, 12:00pm, 2:20pm, 3:20pm, 5:40pm, 6:00pm, 8:15pm, 9:00pm, 9:15pm, 9:30pm), Sun 5/1 (10:45am, 12:40pm, 12:45pm, 2:15pm, 4:00pm, 4:10pm, 5:45pm, 7:20pm), Mon 5/2 (10:45am, 11:45am, 12:45pm, 2:15pm, 3:15pm, 4:10pm, 5:45pm, 6:30pm, 7:30pm), Tue 5/3 (10:45am, 11:45am, 12:45pm, 2:15pm, 3:15pm, 4:10pm, 5:45pm, 6:30pm), Wed 5/4 (10:45am, 11:45am, 12:45pm, 2:15pm, 3:00pm, 3:15pm, 4:10pm, 5:45pm, 7:30pm)
+
+    * [The Unbearable Weight Of Massive Talent](https://drafthouse.com/los-angeles/show/the-unbearable-weight-of-massive-talent): Thu 4/28 (2:20pm, 4:30pm, 5:10pm, 7:30pm, 9:45pm, 10:30pm), Fri 4/29 (2:00pm, 4:50pm, 6:15pm, 7:30pm, 7:45pm, 9:10pm, 10:20pm, 10:45pm), Sat 4/30 (2:00pm, 3:10pm, 4:50pm, 6:20pm, 7:45pm, 9:30pm, 10:40pm), Sun 5/1 (2:00pm, 3:10pm, 5:00pm, 6:20pm, 7:50pm), Mon 5/2 (11:00am, 2:00pm, 3:10pm, 5:00pm, 6:30pm, 7:50pm), Tue 5/3 (11:00am, 2:00pm, 3:30pm, 5:00pm, 6:30pm, 7:50pm), Wed 5/4 (11:00am, 2:00pm, 3:00pm, 5:00pm, 6:15pm, 7:50pm)
+
+    * [The Unbearable Weight Of Massive Talent Brunch](https://drafthouse.com/los-angeles/show/the-unbearable-weight-of-massive-talent-brunch): Sat 4/30 (11:10am), Sun 5/1 (11:00am)
+
 ### Mon 4/25 2:16pm
 * New movies: Marie Antoinette
 
