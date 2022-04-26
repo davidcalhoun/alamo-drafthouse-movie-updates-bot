@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 4/26 6:24pm
+* New movies: HBO Max Presents The Staircase
+
+* New screenings: 
+    * [Free Victory Screening The Staircase](https://drafthouse.com/raleigh/show/free-victory-screening-the-staircase): Mon 5/2 (7:30pm)
+
 ### Tue 4/26 2:32pm
 * New movies: Mamma Mia!
 
