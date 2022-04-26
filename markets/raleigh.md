@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 4/26 2:32pm
+* New movies: Mamma Mia!
+
+* New screenings: 
+    * [Special Event Mamma Mia Brunch](https://drafthouse.com/raleigh/show/special-event-mamma-mia-brunch): Sat 5/7 (10:45am)
+
 ### Mon 4/25 4:25pm
 * New movies: We're All Going to the World's Fair, The Twilight Saga: Eclipse
 
