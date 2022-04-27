@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 4/26 9:48pm
+* New movies: The Birdcage
+
+* New screenings: 
+    * [The Birdcage Brunch](https://drafthouse.com/los-angeles/show/the-birdcage-brunch): Sun 6/19 (11:30am)
+
 ### Tue 4/26 3:20pm
 * New movies: HBO Max Presents The Staircase
 
