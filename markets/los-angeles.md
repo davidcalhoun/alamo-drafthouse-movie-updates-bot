@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 4/27 1:22pm
+* New movies: On the Count of Three
+
+* New screenings: 
+    * [Downton Abbey A New Era Advance Fan Celebration](https://drafthouse.com/los-angeles/show/downton-abbey-a-new-era-advance-fan-celebration): Wed 5/18 (7:30pm)
+
+    * [On The Count Of Three](https://drafthouse.com/los-angeles/show/on-the-count-of-three): Thu 5/12 (7:00pm, 9:30pm), Fri 5/13 (10:30am, 1:00pm, 3:30pm, 6:00pm, 8:30pm), Sat 5/14 (10:30am, 1:00pm, 3:30pm, 6:00pm, 8:30pm), Sun 5/15 (10:30am, 1:00pm, 3:30pm, 6:00pm)
+
 ### Tue 4/26 9:48pm
 * New movies: The Birdcage
 
