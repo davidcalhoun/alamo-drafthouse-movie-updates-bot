@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 4/27 3:18pm
+* New movies: On the Count of Three
+
+* New screenings: 
+    * [On The Count Of Three](https://drafthouse.com/raleigh/show/on-the-count-of-three): Thu 5/12 (7:30pm, 10:00pm), Fri 5/13 (1:30pm, 4:00pm, 6:30pm, 9:00pm), Sat 5/14 (1:30pm, 4:00pm, 6:30pm, 9:00pm), Sun 5/15 (1:30pm, 4:00pm, 6:30pm, 9:00pm), Mon 5/16 (2:15pm, 4:45pm, 7:15pm, 9:45pm), Tue 5/17 (2:15pm, 4:45pm, 7:15pm, 9:45pm), Wed 5/18 (2:15pm, 4:45pm, 7:15pm, 9:45pm)
+
 ### Tue 4/26 6:24pm
 * New movies: HBO Max Presents The Staircase
 
