@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 4/28 6:38am
+* New movies: Jurassic World Dominion, Jurassic World Dominion
+
+* New screenings: 
+    * [Jurassic World Dominion](https://drafthouse.com/los-angeles/show/jurassic-world-dominion): Thu 6/9 (4:00pm, 7:30pm, 11:00pm), Fri 6/10 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sat 6/11 (3:30pm, 7:00pm, 10:30pm), Sun 6/12 (3:30pm, 7:00pm), Mon 6/13 (12:00pm, 3:30pm, 7:00pm), Tue 6/14 (12:00pm, 3:30pm, 7:00pm), Wed 6/15 (12:00pm, 3:30pm, 7:00pm)
+
+    * [Jurassic World Dominion Brunch](https://drafthouse.com/los-angeles/show/jurassic-world-dominion-brunch): Sat 6/11 (12:00pm), Sun 6/12 (12:00pm)
+
 ### Wed 4/27 1:22pm
 * New movies: On the Count of Three
 
