@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Thu 4/28 9:42am
+* New movies: Jurassic World Dominion, Jurassic World Dominion
+
+* New screenings: 
+    * [Jurassic World Dominion](https://drafthouse.com/raleigh/show/jurassic-world-dominion): Thu 6/9 (4:00pm, 6:00pm, 9:45pm), Fri 6/10 (11:00am, 2:45pm, 6:30pm, 10:15pm), Sat 6/11 (2:45pm, 6:30pm, 10:15pm), Sun 6/12 (11:00am, 2:45pm, 5:00pm, 6:30pm, 10:15pm)
+
+    * [Jurassic World Dominion Brunch](https://drafthouse.com/raleigh/show/jurassic-world-dominion-brunch): Sat 6/11 (11:00am)
+
 ### Wed 4/27 3:18pm
 * New movies: On the Count of Three
 
