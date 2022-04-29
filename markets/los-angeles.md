@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 4/29 2:18pm
+* New movies: We're All Going to the World's Fair
+
+* New screenings: 
+    * [Were All Going To The Worlds Fair](https://drafthouse.com/los-angeles/show/were-all-going-to-the-worlds-fair): Fri 4/29 (10:20pm)
+
 ### Thu 4/28 6:38am
 * New movies: Jurassic World Dominion, Jurassic World Dominion
 
