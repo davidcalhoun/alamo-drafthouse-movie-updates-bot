@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Sat 4/30 11:24am
+
+* New screenings: 
+    * [Fantastic Beasts The Secrets Of Dumbledore](https://drafthouse.com/los-angeles/show/fantastic-beasts-the-secrets-of-dumbledore): Sat 4/30 (10:40pm)
+
 ### Fri 4/29 4:20pm
 
 * New screenings: 
