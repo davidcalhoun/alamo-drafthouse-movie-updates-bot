@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 5/2 3:20pm
+* New movies: Netflix Presents: The Best of with a Sneak Peek at Love, Death + Robots Vol. 3
+
+* New screenings: 
+    * [Livestream Q A Love Death Robots Volume 3](https://drafthouse.com/raleigh/show/livestream-q-a-love-death-robots-volume-3): Tue 5/10 (10:00pm)
+
 ### Thu 4/28 9:42am
 * New movies: Jurassic World Dominion, Jurassic World Dominion
 
