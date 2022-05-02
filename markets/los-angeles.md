@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 5/2 10:25am
+* New movies: Ham on Rye
+
+* New screenings: 
+    * [Live Q A Ham On Rye](https://drafthouse.com/los-angeles/show/live-q-a-ham-on-rye): Sun 5/15 (7:30pm)
+
 ### Sun 5/1 6:56pm
 
 * New screenings: 
