@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Sun 5/1 6:56pm
+
+* New screenings: 
+    * [Were All Going To The Worlds Fair](https://drafthouse.com/los-angeles/show/were-all-going-to-the-worlds-fair): Wed 5/4 (7:15pm)
+
 ### Sat 4/30 11:24am
 
 * New screenings: 
