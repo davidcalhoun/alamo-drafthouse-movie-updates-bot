@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 5/2 12:16pm
+* New movies: Howl's Moving Castle Dubbed
+
+* New screenings: 
+    * [Brunch Screenings Howls Moving Castle Dubbed Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-howls-moving-castle-dubbed-brunch): Sat 10/29 (11:30am)
+
 ### Mon 5/2 10:25am
 * New movies: Ham on Rye
 
