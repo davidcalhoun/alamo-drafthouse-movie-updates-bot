@@ -1,6 +1,31 @@
 # los-angeles
 
 ## Movie updates
+### Tue 5/3 11:25am
+
+* New screenings: 
+    * [Dirty Dancing](https://drafthouse.com/los-angeles/show/dirty-dancing): Wed 5/11 (3:45pm)
+
+    * [Doctor Strange In The Multiverse Of Madness](https://drafthouse.com/los-angeles/show/doctor-strange-in-the-multiverse-of-madness): Thu 5/5 (7:15pm, 8:10pm, 10:30pm, 11:20pm), Fri 5/6 (10:20am, 11:00am, 1:30pm, 2:30pm, 3:00pm, 4:45pm, 6:15pm, 8:00pm, 8:55pm, 9:15pm), Sat 5/7 (10:20am, 10:40am, 1:30pm, 1:50pm, 3:00pm, 4:40pm, 5:00pm, 6:15pm, 8:00pm, 8:20pm, 9:00pm), Sun 5/8 (2:45pm, 3:45pm, 5:00pm, 6:15pm, 8:15pm, 9:10pm, 10:00pm), Mon 5/9 (1:00pm, 1:30pm, 2:10pm, 5:00pm, 5:45pm, 7:00pm, 8:15pm, 8:55pm), Tue 5/10 (8:35pm, 10:00pm), Wed 5/11 (12:30pm, 1:00pm, 4:50pm, 8:10pm)
+
+    * [Doctor Strange In The Multiverse Of Madness Brunch](https://drafthouse.com/los-angeles/show/doctor-strange-in-the-multiverse-of-madness-brunch): Sun 5/8 (12:30pm)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/los-angeles/show/everything-everywhere-all-at-once): Thu 5/5 (4:00pm, 7:30pm, 8:15pm, 10:50pm), Fri 5/6 (10:30am, 11:45am, 1:50pm, 3:15pm, 5:15pm, 6:45pm, 8:35pm, 10:15pm), Sat 5/7 (10:30am, 11:40am, 1:50pm, 3:15pm, 5:15pm, 6:45pm, 8:35pm, 10:15pm), Sun 5/8 (10:30am, 11:35am, 1:50pm, 3:20pm, 5:15pm, 6:45pm, 8:35pm, 10:10pm), Mon 5/9 (10:45am, 11:45am, 1:40pm, 3:10pm, 5:10pm, 6:30pm, 8:30pm, 9:50pm), Tue 5/10 (11:45am, 1:45pm, 3:10pm, 5:15pm, 6:30pm, 9:50pm), Wed 5/11 (11:00am, 12:00pm, 1:55pm, 3:20pm, 5:15pm, 6:30pm, 8:35pm, 9:50pm)
+
+    * [Hatching](https://drafthouse.com/los-angeles/show/hatching): Thu 5/5 (3:15pm), Fri 5/6 (9:35pm), Sat 5/7 (9:35pm), Sun 5/8 (9:30pm), Mon 5/9 (9:30pm), Tue 5/10 (8:45pm), Wed 5/11 (9:30pm)
+
+    * [Petite Maman](https://drafthouse.com/los-angeles/show/petite-maman): Thu 5/5 (5:00pm, 7:20pm, 9:40pm), Fri 5/6 (11:30am, 1:45pm, 4:15pm, 6:40pm), Sat 5/7 (11:30am, 1:45pm, 4:15pm, 6:40pm), Sun 5/8 (11:25am, 1:40pm, 4:10pm, 6:40pm), Mon 5/9 (12:30pm, 2:45pm, 5:00pm, 7:15pm), Tue 5/10 (1:25pm, 4:00pm, 6:20pm), Wed 5/11 (12:30pm, 2:45pm, 5:00pm, 7:15pm)
+
+    * [Take Me To The River New Orleans](https://drafthouse.com/los-angeles/show/take-me-to-the-river-new-orleans): Thu 5/5 (4:15pm)
+
+    * [The Bad Guys](https://drafthouse.com/los-angeles/show/the-bad-guys): Thu 5/5 (5:15pm, 8:00pm, 10:40pm), Fri 5/6 (11:10am, 2:00pm, 4:45pm, 7:30pm, 10:30pm), Sat 5/7 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:30pm), Sun 5/8 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:10pm), Mon 5/9 (11:20am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Tue 5/10 (12:45pm, 3:30pm, 6:10pm, 9:10pm), Wed 5/11 (11:15am, 2:00pm, 4:40pm, 7:30pm, 10:20pm)
+
+    * [The Northman](https://drafthouse.com/los-angeles/show/the-northman): Thu 5/5 (3:25pm, 6:45pm, 10:05pm), Fri 5/6 (11:20am, 2:40pm, 6:00pm, 9:30pm), Sat 5/7 (11:10am, 2:40pm, 6:00pm, 9:20pm), Sun 5/8 (11:10am, 2:30pm, 6:00pm, 9:20pm), Mon 5/9 (11:10am, 2:35pm, 6:15pm, 9:35pm), Tue 5/10 (11:10am, 2:30pm, 6:10pm, 9:35pm), Wed 5/11 (11:15am, 2:35pm, 6:15pm, 9:35pm)
+
+    * [The Unbearable Weight Of Massive Talent](https://drafthouse.com/los-angeles/show/the-unbearable-weight-of-massive-talent): Thu 5/5 (3:10pm, 6:00pm, 9:00pm), Fri 5/6 (10:10am, 1:00pm, 4:00pm, 7:10pm, 10:00pm), Sat 5/7 (10:10am, 1:00pm, 4:00pm, 7:10pm, 10:00pm), Sun 5/8 (12:10pm, 3:00pm, 6:00pm, 9:00pm), Mon 5/9 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Tue 5/10 (12:10pm, 3:00pm, 6:00pm, 9:00pm), Wed 5/11 (12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
+    * [Were All Going To The Worlds Fair](https://drafthouse.com/los-angeles/show/were-all-going-to-the-worlds-fair): Thu 5/5 (5:45pm), Fri 5/6 (12:15pm), Sat 5/7 (12:15pm), Sun 5/8 (12:15pm), Mon 5/9 (11:10am), Tue 5/10 (11:20am), Wed 5/11 (2:25pm)
+
 ### Tue 5/3 10:30am
 * New movies: Top Gun: Maverick
 
