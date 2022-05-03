@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 5/3 10:30am
+* New movies: Top Gun: Maverick
+
+* New screenings: 
+    * [Victory Advance Screening Top Gun Maverick](https://drafthouse.com/los-angeles/show/victory-advance-screening-top-gun-maverick): Wed 5/25 (7:00pm)
+
 ### Tue 5/3 9:33am
 * New movies: Top Gun: Maverick, Top Gun: Maverick
 
