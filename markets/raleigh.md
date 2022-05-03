@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 5/3 1:33pm
+* New movies: Top Gun: Maverick
+
+* New screenings: 
+    * [Victory Advance Screening Top Gun Maverick](https://drafthouse.com/raleigh/show/victory-advance-screening-top-gun-maverick): Wed 5/25 (7:00pm)
+
 ### Tue 5/3 12:41pm
 * New movies: Top Gun: Maverick, Howl's Moving Castle Dubbed, Top Gun: Maverick
 
