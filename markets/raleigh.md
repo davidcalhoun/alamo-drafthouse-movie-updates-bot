@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Tue 5/3 12:41pm
+* New movies: Top Gun: Maverick, Howl's Moving Castle Dubbed, Top Gun: Maverick
+
+* New screenings: 
+    * [Brunch Screenings Howls Moving Castle Dubbed Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-howls-moving-castle-dubbed-brunch): Sun 10/30 (11:00am)
+
+    * [Top Gun Maverick](https://drafthouse.com/raleigh/show/top-gun-maverick): Thu 5/26 (3:00pm, 6:30pm, 10:00pm), Fri 5/27 (11:45am, 3:15pm, 6:45pm, 10:15pm), Sat 5/28 (3:15pm, 6:45pm, 10:15pm), Sun 5/29 (11:45am, 3:15pm, 6:45pm), Mon 5/30 (11:45am, 3:15pm, 6:45pm, 10:15pm)
+
+    * [Top Gun Maverick Brunch](https://drafthouse.com/raleigh/show/top-gun-maverick-brunch): Sat 5/28 (11:45am)
+
 ### Mon 5/2 3:20pm
 * New movies: Netflix Presents: The Best of with a Sneak Peek at Love, Death + Robots Vol. 3
 
