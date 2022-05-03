@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 5/3 12:16pm
+
+* New screenings: 
+    * [Brunch Screenings Howls Moving Castle Dubbed Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-howls-moving-castle-dubbed-brunch): Sun 10/30 (11:30am)
+
 ### Tue 5/3 11:25am
 
 * New screenings: 
