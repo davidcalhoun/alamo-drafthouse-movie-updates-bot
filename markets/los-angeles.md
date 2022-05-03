@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 5/3 9:33am
+* New movies: Top Gun: Maverick, Top Gun: Maverick
+
+* New screenings: 
+    * [Top Gun Maverick](https://drafthouse.com/los-angeles/show/top-gun-maverick): Thu 5/26 (3:00pm, 6:15pm, 9:30pm), Fri 5/27 (3:45pm, 7:00pm, 10:15pm), Sat 5/28 (3:45pm, 7:00pm, 10:15pm), Sun 5/29 (3:45pm, 7:00pm), Mon 5/30 (12:30pm, 3:45pm, 7:00pm), Tue 5/31 (12:30pm, 3:45pm, 7:00pm), Wed 6/1 (12:30pm, 3:45pm, 7:00pm)
+
+    * [Top Gun Maverick Brunch](https://drafthouse.com/los-angeles/show/top-gun-maverick-brunch): Sat 5/28 (12:30pm), Sun 5/29 (12:30pm)
+
 ### Mon 5/2 12:16pm
 * New movies: Howl's Moving Castle Dubbed
 
