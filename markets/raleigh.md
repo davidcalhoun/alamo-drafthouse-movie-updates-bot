@@ -1,6 +1,35 @@
 # raleigh
 
 ## Movie updates
+### Tue 5/3 4:26pm
+
+* New screenings: 
+    * [Ambulance](https://drafthouse.com/raleigh/show/ambulance): Thu 5/5 (12:10pm)
+
+    * [Doctor Strange In The Multiverse Of Madness](https://drafthouse.com/raleigh/show/doctor-strange-in-the-multiverse-of-madness): Thu 5/5 (3:30pm, 4:30pm, 5:30pm, 8:00pm, 9:00pm, 10:30pm), Fri 5/6 (12:00pm, 12:45pm, 1:45pm, 3:30pm, 4:00pm, 5:00pm, 8:30pm, 10:30pm), Sat 5/7 (11:30am, 12:00pm, 1:40pm, 3:00pm, 3:30pm, 5:00pm, 8:30pm, 10:30pm), Sun 5/8 (12:30pm, 1:30pm, 3:50pm, 5:00pm, 8:30pm, 10:15pm), Mon 5/9 (12:30pm, 1:30pm, 4:00pm, 4:30pm, 5:00pm, 8:00pm, 8:30pm, 10:50pm), Tue 5/10 (11:15am, 12:40pm, 1:15pm, 2:40pm, 4:00pm, 6:00pm, 9:30pm), Wed 5/11 (11:30am, 12:30pm, 1:30pm, 4:00pm, 5:00pm, 8:30pm, 10:15pm)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/raleigh/show/everything-everywhere-all-at-once): Thu 5/5 (11:30am, 3:55pm, 7:15pm, 9:10pm), Fri 5/6 (1:00pm, 4:55pm, 7:30pm, 10:50pm), Sat 5/7 (12:40pm, 4:00pm, 7:30pm, 10:15pm), Sun 5/8 (12:00pm, 3:25pm, 6:45pm, 10:10pm), Mon 5/9 (11:30am, 3:25pm, 6:45pm, 10:10pm), Tue 5/10 (12:00pm, 3:25pm, 6:45pm, 10:10pm), Wed 5/11 (12:15pm, 3:00pm, 6:30pm, 9:50pm)
+
+    * [Fantastic Beasts The Secrets Of Dumbledore](https://drafthouse.com/raleigh/show/fantastic-beasts-the-secrets-of-dumbledore): Thu 5/5 (11:00am, 2:30pm)
+
+    * [Hatching](https://drafthouse.com/raleigh/show/hatching): Thu 5/5 (1:20pm)
+
+    * [Memory](https://drafthouse.com/raleigh/show/memory): Thu 5/5 (1:30pm, 6:00pm), Fri 5/6 (7:15pm), Sat 5/7 (10:50pm), Sun 5/8 (8:15pm), Mon 5/9 (1:15pm), Tue 5/10 (10:15pm), Wed 5/11 (10:50pm)
+
+    * [Petite Maman](https://drafthouse.com/raleigh/show/petite-maman): Fri 5/6 (11:45am, 2:00pm, 4:15pm, 9:00pm), Sat 5/7 (11:15am, 1:30pm, 3:45pm, 9:00pm), Sun 5/8 (11:45am, 2:00pm, 4:15pm, 9:00pm), Mon 5/9 (11:45am, 2:00pm, 4:15pm, 6:30pm, 9:00pm), Tue 5/10 (11:30am, 2:45pm, 5:00pm, 7:15pm, 9:45pm), Wed 5/11 (1:00pm, 3:15pm, 5:30pm, 7:45pm, 10:00pm)
+
+    * [Sonic The Hedgehog 2](https://drafthouse.com/raleigh/show/sonic-the-hedgehog-2): Thu 5/5 (12:00pm, 3:10pm, 6:15pm), Fri 5/6 (1:30pm, 3:00pm, 6:45pm, 10:00pm), Sat 5/7 (12:50pm, 3:40pm, 6:45pm, 10:00pm), Sun 5/8 (11:50am, 3:00pm, 6:15pm, 9:20pm), Mon 5/9 (12:15pm, 3:00pm, 6:15pm, 9:20pm), Tue 5/10 (11:45am, 2:40pm, 5:45pm, 9:00pm), Wed 5/11 (11:50am, 2:40pm, 5:45pm, 9:00pm)
+
+    * [The Bad Guys](https://drafthouse.com/raleigh/show/the-bad-guys): Thu 5/5 (11:15am, 2:55pm, 5:45pm, 8:40pm), Fri 5/6 (12:15pm, 4:30pm, 6:15pm, 9:00pm), Sat 5/7 (12:10pm, 2:50pm, 5:30pm, 8:15pm, 10:55pm), Sun 5/8 (11:55am, 2:45pm, 5:30pm, 7:30pm, 10:30pm), Mon 5/9 (12:10pm, 2:50pm, 5:30pm, 8:15pm, 10:55pm), Tue 5/10 (12:10pm, 2:50pm, 5:30pm, 8:15pm, 10:55pm), Wed 5/11 (11:45am, 2:25pm, 5:15pm, 8:00pm, 10:40pm)
+
+    * [The Northman](https://drafthouse.com/raleigh/show/the-northman): Thu 5/5 (12:40pm, 2:00pm, 4:00pm, 7:30pm, 9:30pm), Fri 5/6 (11:55am, 3:15pm, 8:15pm, 10:15pm), Sat 5/7 (12:20pm, 3:55pm, 7:15pm, 10:45pm), Sun 5/8 (12:30pm, 3:55pm, 7:15pm, 10:45pm), Mon 5/9 (12:30pm, 3:55pm, 7:15pm, 10:40pm), Tue 5/10 (11:20am, 2:55pm, 6:15pm, 9:40pm), Wed 5/11 (11:15am, 2:55pm, 6:15pm, 9:40pm)
+
+    * [The Twilight Saga Eclipse](https://drafthouse.com/raleigh/show/the-twilight-saga-eclipse): Thu 5/5 (1:00pm)
+
+    * [The Unbearable Weight Of Massive Talent](https://drafthouse.com/raleigh/show/the-unbearable-weight-of-massive-talent): Thu 5/5 (12:55pm, 3:45pm, 6:45pm, 9:40pm), Fri 5/6 (11:00am, 1:55pm, 4:45pm, 7:45pm, 10:40pm), Sat 5/7 (11:10am, 2:00pm, 4:55pm, 7:45pm, 10:40pm), Sun 5/8 (11:00am, 1:50pm, 4:45pm, 7:45pm, 10:40pm), Mon 5/9 (11:00am, 1:50pm, 4:45pm, 7:45pm, 10:45pm), Tue 5/10 (11:55am, 1:50pm, 4:45pm, 7:45pm, 10:45pm), Wed 5/11 (1:15pm, 3:45pm, 6:45pm, 9:45pm)
+
+    * [Were All Going To The Worlds Fair](https://drafthouse.com/raleigh/show/were-all-going-to-the-worlds-fair): Thu 5/5 (12:20pm)
+
 ### Tue 5/3 1:33pm
 * New movies: Top Gun: Maverick
 
