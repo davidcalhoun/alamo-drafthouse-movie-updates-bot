@@ -1,6 +1,48 @@
 # los-angeles
 
 ## Movie updates
+### Wed 5/4 2:21am
+* New movies: Pitch Perfect, Tangerine, Indiana Jones and the Last Crusade, Paris Is Burning, The Birdcage, A Star Is Born 1954, A Star Is Born 1954, To Wong Foo, Thanks for Everything! Julie Newmar, Hardcore, Indiana Jones and the Last Crusade, The Land Before Time, Tom & Jerry: The Movie, Pitch Perfect, The Clock 1945, To Wong Foo, Thanks for Everything! Julie Newmar, Minions, Space Jam
+
+* New screenings: 
+    * [A Star Is Born 1954](https://drafthouse.com/los-angeles/show/a-star-is-born-1954): Sun 6/12 (4:00pm)
+
+    * [A Star Is Born 1954 Brunch](https://drafthouse.com/los-angeles/show/a-star-is-born-1954-brunch): Sat 6/11 (10:45am)
+
+    * [Brunch Screenings To Wong Foo Thanks For Everything Julie Newmar Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-to-wong-foo-thanks-for-everything-julie-newmar-brunch): Sat 6/4 (11:30am)
+
+    * [Closer](https://drafthouse.com/los-angeles/show/closer): Mon 5/23 (2:00pm)
+
+    * [Hardcore](https://drafthouse.com/los-angeles/show/hardcore): Sun 6/19 (6:00pm)
+
+    * [Indiana Jones And The Last Crusade](https://drafthouse.com/los-angeles/show/indiana-jones-and-the-last-crusade): Fri 6/17 (7:00pm)
+
+    * [Indiana Jones And The Last Crusade Brunch](https://drafthouse.com/los-angeles/show/indiana-jones-and-the-last-crusade-brunch): Sun 6/19 (12:00pm)
+
+    * [Kids Camp Minions](https://drafthouse.com/los-angeles/show/kids-camp-minions): Mon 5/30 (11:45am)
+
+    * [Kids Camp Space Jam](https://drafthouse.com/los-angeles/show/kids-camp-space-jam): Tue 6/7 (11:30am)
+
+    * [Kids Camp The Land Before Time](https://drafthouse.com/los-angeles/show/kids-camp-the-land-before-time): Mon 6/13 (11:30am)
+
+    * [Kids Camp Tom Jerry 2021](https://drafthouse.com/los-angeles/show/kids-camp-tom-jerry-2021): Mon 6/6 (11:30am)
+
+    * [Movie Party Pitch Perfect](https://drafthouse.com/los-angeles/show/movie-party-pitch-perfect): Sat 6/4 (9:30pm), Sun 6/5 (7:00pm)
+
+    * [Paris Is Burning](https://drafthouse.com/los-angeles/show/paris-is-burning): Fri 6/3 (3:15pm), Sun 6/5 (12:10pm)
+
+    * [Pitch Perfect](https://drafthouse.com/los-angeles/show/pitch-perfect): Tue 6/7 (2:00pm)
+
+    * [Tangerine](https://drafthouse.com/los-angeles/show/tangerine): Sun 6/12 (1:15pm), Tue 6/14 (3:15pm)
+
+    * [The Birdcage](https://drafthouse.com/los-angeles/show/the-birdcage): Sat 6/18 (7:30pm)
+
+    * [The Clock 1945](https://drafthouse.com/los-angeles/show/the-clock-1945): Sat 6/4 (2:25pm)
+
+    * [The Fog](https://drafthouse.com/los-angeles/show/the-fog): Sat 6/11 (9:45pm), Sun 6/12 (8:00pm)
+
+    * [To Wong Foo Thanks For Everything Julie Newmar](https://drafthouse.com/los-angeles/show/to-wong-foo-thanks-for-everything-julie-newmar): Sun 6/5 (5:40pm)
+
 ### Wed 5/4 1:25am
 * New movies: The Iron Giant
 
