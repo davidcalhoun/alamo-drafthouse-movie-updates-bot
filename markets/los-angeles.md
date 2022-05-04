@@ -1,6 +1,22 @@
 # los-angeles
 
 ## Movie updates
+### Wed 5/4 1:25am
+* New movies: The Iron Giant
+
+* New screenings: 
+    * [Blue Velvet](https://drafthouse.com/los-angeles/show/blue-velvet): Sun 5/22 (3:30pm)
+
+    * [Fallen Angels](https://drafthouse.com/los-angeles/show/fallen-angels): Tue 5/17 (7:00pm)
+
+    * [Graveyard Shift Poltergeist 1982](https://drafthouse.com/los-angeles/show/graveyard-shift-poltergeist-1982): Mon 5/23 (4:30pm)
+
+    * [Jackie Brown](https://drafthouse.com/los-angeles/show/jackie-brown): Sun 5/22 (12:45pm)
+
+    * [Kids Camp The Iron Giant](https://drafthouse.com/los-angeles/show/kids-camp-the-iron-giant): Mon 5/23 (11:30am)
+
+    * [Robocop Directors Cut](https://drafthouse.com/los-angeles/show/robocop-directors-cut): Sat 5/21 (9:00pm)
+
 ### Tue 5/3 12:16pm
 
 * New screenings: 
