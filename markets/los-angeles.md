@@ -1,6 +1,28 @@
 # los-angeles
 
 ## Movie updates
+### Wed 5/4 3:23am
+* New movies: Cats, Fist of Fury, There Will Be Blood, Cats, Hotel Transylvania, Pee-wee's Big Adventure, Peter Rabbit 2: The Runaway
+
+* New screenings: 
+    * [Cats](https://drafthouse.com/los-angeles/show/cats): Wed 6/29 (3:30pm)
+
+    * [Fist City Fist Of Fury](https://drafthouse.com/los-angeles/show/fist-city-fist-of-fury): Sat 6/25 (9:30pm), Mon 6/27 (7:30pm)
+
+    * [Kids Camp Hotel Transylvania](https://drafthouse.com/los-angeles/show/kids-camp-hotel-transylvania): Mon 6/27 (11:30am)
+
+    * [Kids Camp Pee Wees Big Adventure](https://drafthouse.com/los-angeles/show/kids-camp-pee-wees-big-adventure): Mon 7/4 (11:30am)
+
+    * [Kids Camp Peter Rabbit 2 The Runaway](https://drafthouse.com/los-angeles/show/kids-camp-peter-rabbit-2-the-runaway): Mon 6/20 (11:30am)
+
+    * [Movie Party Cats](https://drafthouse.com/los-angeles/show/movie-party-cats): Fri 6/24 (7:00pm), Tue 6/28 (5:00pm)
+
+    * [The Birdcage](https://drafthouse.com/los-angeles/show/the-birdcage): Wed 6/22 (5:00pm)
+
+    * [The Thing](https://drafthouse.com/los-angeles/show/the-thing): Fri 8/5 (9:30pm), Sat 8/6 (9:30pm), Sun 8/7 (4:30pm)
+
+    * [There Will Be Blood](https://drafthouse.com/los-angeles/show/there-will-be-blood): Sun 6/19 (5:45pm), Mon 6/20 (6:45pm)
+
 ### Wed 5/4 2:21am
 * New movies: Pitch Perfect, Tangerine, Indiana Jones and the Last Crusade, Paris Is Burning, The Birdcage, A Star Is Born 1954, A Star Is Born 1954, To Wong Foo, Thanks for Everything! Julie Newmar, Hardcore, Indiana Jones and the Last Crusade, The Land Before Time, Tom & Jerry: The Movie, Pitch Perfect, The Clock 1945, To Wong Foo, Thanks for Everything! Julie Newmar, Minions, Space Jam
 
