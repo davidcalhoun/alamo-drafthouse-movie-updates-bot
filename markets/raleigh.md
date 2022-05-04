@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Wed 5/4 3:20pm
+
+* New screenings: 
+    * [Jurassic World Dominion](https://drafthouse.com/raleigh/show/jurassic-world-dominion): Thu 6/9 (7:30pm), Fri 6/10 (7:15pm), Sat 6/11 (4:00pm), Sun 6/12 (12:45pm), Mon 6/13 (7:15pm), Tue 6/14 (7:15pm), Wed 6/15 (7:15pm)
+
 ### Tue 5/3 4:26pm
 
 * New screenings: 
