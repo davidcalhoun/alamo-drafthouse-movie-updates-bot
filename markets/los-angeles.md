@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 5/5 1:23pm
+* New movies: Black Gold
+
+
+
 ### Wed 5/4 3:23am
 * New movies: Cats, Fist of Fury, There Will Be Blood, Cats, Hotel Transylvania, Pee-wee's Big Adventure, Peter Rabbit 2: The Runaway
 
