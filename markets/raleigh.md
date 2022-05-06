@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 5/6 2:33am
+
+* New screenings: 
+    * [Doctor Strange In The Multiverse Of Madness](https://drafthouse.com/raleigh/show/doctor-strange-in-the-multiverse-of-madness): Sat 5/7 (6:15pm)
+
 ### Thu 5/5 11:11pm
 * New movies: Halloween 1978, Pitch Perfect, Fist of Fury, There Will Be Blood, Back to the Future Part II, Back to the Future Part III, Indiana Jones and the Last Crusade, Cats, The Birdcage, A Star Is Born 1954, To Wong Foo, Thanks for Everything! Julie Newmar, Cats, Indiana Jones and the Last Crusade, Hotel Transylvania, Peter Rabbit 2: The Runaway, The Iron Giant, Tom & Jerry: The Movie, Pitch Perfect, Tangerine, The Birdcage, The Clock 1945, To Wong Foo, Thanks for Everything! Julie Newmar, Minions, Space Jam
 
