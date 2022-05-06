@@ -1,6 +1,60 @@
 # raleigh
 
 ## Movie updates
+### Thu 5/5 11:11pm
+* New movies: Halloween 1978, Pitch Perfect, Fist of Fury, There Will Be Blood, Back to the Future Part II, Back to the Future Part III, Indiana Jones and the Last Crusade, Cats, The Birdcage, A Star Is Born 1954, To Wong Foo, Thanks for Everything! Julie Newmar, Cats, Indiana Jones and the Last Crusade, Hotel Transylvania, Peter Rabbit 2: The Runaway, The Iron Giant, Tom & Jerry: The Movie, Pitch Perfect, Tangerine, The Birdcage, The Clock 1945, To Wong Foo, Thanks for Everything! Julie Newmar, Minions, Space Jam
+
+* New screenings: 
+    * [A Star Is Born 1954 Brunch](https://drafthouse.com/raleigh/show/a-star-is-born-1954-brunch): Sun 6/12 (3:00pm)
+
+    * [Back To The Future Part Ii](https://drafthouse.com/raleigh/show/back-to-the-future-part-ii): Wed 6/1 (7:30pm)
+
+    * [Back To The Future Part Iii](https://drafthouse.com/raleigh/show/back-to-the-future-part-iii): Wed 6/8 (7:30pm)
+
+    * [Brunch Screenings To Wong Foo Thanks For Everything Julie Newmar Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-to-wong-foo-thanks-for-everything-julie-newmar-brunch): Sat 6/4 (11:00am)
+
+    * [Cats](https://drafthouse.com/raleigh/show/cats): Wed 6/29 (3:00pm)
+
+    * [Dark Star](https://drafthouse.com/raleigh/show/dark-star): Sun 5/29 (7:00pm)
+
+    * [Fist City Fist Of Fury](https://drafthouse.com/raleigh/show/fist-city-fist-of-fury): Mon 6/27 (7:30pm), Tue 6/28 (9:30pm)
+
+    * [Halloween 1978](https://drafthouse.com/raleigh/show/halloween-1978): Sat 6/4 (9:30pm), Mon 6/6 (10:30pm)
+
+    * [Indiana Jones And The Last Crusade](https://drafthouse.com/raleigh/show/indiana-jones-and-the-last-crusade): Sun 6/19 (7:00pm)
+
+    * [Indiana Jones And The Last Crusade Brunch](https://drafthouse.com/raleigh/show/indiana-jones-and-the-last-crusade-brunch): Sun 6/19 (3:00pm)
+
+    * [Kids Camp Hotel Transylvania](https://drafthouse.com/raleigh/show/kids-camp-hotel-transylvania): Mon 6/27 (11:00am)
+
+    * [Kids Camp Minions](https://drafthouse.com/raleigh/show/kids-camp-minions): Mon 5/30 (11:00am)
+
+    * [Kids Camp Peter Rabbit 2 The Runaway](https://drafthouse.com/raleigh/show/kids-camp-peter-rabbit-2-the-runaway): Mon 6/20 (11:00am)
+
+    * [Kids Camp Space Jam](https://drafthouse.com/raleigh/show/kids-camp-space-jam): Tue 6/7 (11:00am)
+
+    * [Kids Camp The Iron Giant](https://drafthouse.com/raleigh/show/kids-camp-the-iron-giant): Wed 5/25 (11:00am)
+
+    * [Kids Camp Tom Jerry 2021](https://drafthouse.com/raleigh/show/kids-camp-tom-jerry-2021): Mon 6/6 (11:00am)
+
+    * [Movie Party Cats](https://drafthouse.com/raleigh/show/movie-party-cats): Tue 6/28 (7:30pm)
+
+    * [Movie Party Pitch Perfect](https://drafthouse.com/raleigh/show/movie-party-pitch-perfect): Sat 6/4 (6:15pm), Tue 6/7 (7:30pm)
+
+    * [Pitch Perfect](https://drafthouse.com/raleigh/show/pitch-perfect): Tue 6/7 (3:00pm)
+
+    * [Tangerine](https://drafthouse.com/raleigh/show/tangerine): Sun 6/12 (7:00pm)
+
+    * [The Birdcage](https://drafthouse.com/raleigh/show/the-birdcage): Wed 6/22 (4:45pm)
+
+    * [The Birdcage Brunch](https://drafthouse.com/raleigh/show/the-birdcage-brunch): Sun 6/19 (11:00am)
+
+    * [The Clock 1945](https://drafthouse.com/raleigh/show/the-clock-1945): Sat 6/4 (2:00pm)
+
+    * [There Will Be Blood](https://drafthouse.com/raleigh/show/there-will-be-blood): Mon 6/20 (7:00pm), Tue 6/21 (9:30pm)
+
+    * [To Wong Foo Thanks For Everything Julie Newmar](https://drafthouse.com/raleigh/show/to-wong-foo-thanks-for-everything-julie-newmar): Wed 6/8 (3:30pm)
+
 ### Wed 5/4 3:20pm
 
 * New screenings: 
