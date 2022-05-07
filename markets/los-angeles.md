@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Sat 5/7 11:23am
+* New movies: Triple Fisher: The Lethal Lolitas of Long Island, THE WATERMELON WOMAN
+
+* New screenings: 
+    * [The Watermelon Woman](https://drafthouse.com/los-angeles/show/the-watermelon-woman): Fri 6/10 (3:00pm), Mon 6/13 (7:15pm)
+
+    * [Triple Fisher The Lethal Lolitas Of Long Island](https://drafthouse.com/los-angeles/show/triple-fisher-the-lethal-lolitas-of-long-island): Tue 5/24 (8:30pm)
+
 ### Thu 5/5 1:23pm
 * New movies: Black Gold
 
