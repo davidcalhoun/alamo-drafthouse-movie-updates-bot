@@ -1,6 +1,30 @@
 # raleigh
 
 ## Movie updates
+### Tue 5/10 6:25pm
+* New movies: Firestarter 2022, Happening
+
+* New screenings: 
+    * [Doctor Strange In The Multiverse Of Madness](https://drafthouse.com/raleigh/show/doctor-strange-in-the-multiverse-of-madness): Thu 5/12 (11:00am, 12:15pm, 12:30pm, 1:00pm, 1:30pm, 2:00pm, 2:30pm, 4:00pm, 4:30pm, 5:00pm, 5:30pm, 6:00pm, 8:30pm, 9:00pm, 9:30pm), Fri 5/13 (11:30am, 12:00pm, 2:55pm, 3:25pm, 3:55pm, 6:15pm, 6:45pm, 7:15pm, 9:15pm, 9:30pm, 10:30pm), Sat 5/14 (11:00am, 12:00pm, 2:25pm, 3:20pm, 5:45pm, 6:45pm, 9:00pm, 9:15pm, 9:30pm, 10:00pm, 10:30pm), Sun 5/15 (11:30am, 12:30pm, 1:50pm, 2:55pm, 3:30pm, 3:55pm, 6:15pm, 6:45pm, 7:15pm), Mon 5/16 (11:00am, 12:00pm, 1:00pm, 1:30pm, 2:30pm, 3:00pm, 3:30pm, 5:00pm, 6:00pm, 6:30pm, 7:00pm, 8:30pm, 9:30pm, 10:00pm, 10:30pm, 10:30pm), Tue 5/17 (11:00am, 11:30am, 12:00pm, 1:30pm, 2:30pm, 3:00pm, 3:30pm, 5:00pm, 6:00pm, 6:30pm, 7:00pm, 8:30pm, 9:00pm, 9:30pm, 10:00pm, 10:30pm), Wed 5/18 (12:00pm, 1:30pm, 2:30pm, 2:45pm, 5:00pm, 6:00pm, 8:30pm, 9:00pm, 9:30pm, 10:30pm), Thu 5/19 (12:00pm, 3:30pm)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/raleigh/show/everything-everywhere-all-at-once): Thu 5/12 (12:20pm, 3:45pm, 7:15pm, 10:40pm), Fri 5/13 (11:15am, 12:30pm, 3:30pm, 8:00pm, 9:45pm), Sat 5/14 (10:55am, 12:15pm, 3:40pm, 7:00pm, 10:20pm), Sun 5/15 (12:00pm, 1:00pm, 4:25pm, 7:45pm), Mon 5/16 (11:45am, 12:55pm, 4:15pm, 7:30pm, 9:45pm), Tue 5/17 (11:50am, 12:30pm, 2:50pm, 6:15pm, 9:50pm), Wed 5/18 (11:55am, 2:55pm, 6:15pm, 9:45pm, 10:40pm)
+
+    * [Firestarter 2022](https://drafthouse.com/raleigh/show/firestarter-2022): Thu 5/12 (8:00pm, 10:45pm), Fri 5/13 (12:15pm, 2:10pm, 4:50pm, 7:30pm, 10:15pm), Sat 5/14 (12:30pm, 3:15pm, 5:20pm, 8:00pm, 10:40pm), Sun 5/15 (11:00am, 1:45pm, 3:00pm, 5:45pm, 8:30pm), Mon 5/16 (12:20pm, 2:10pm, 4:50pm, 8:00pm, 10:45pm), Tue 5/17 (11:25am, 2:10pm, 4:50pm, 7:30pm, 10:15pm), Wed 5/18 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm)
+
+    * [Happening](https://drafthouse.com/raleigh/show/happening): Thu 5/12 (8:15pm, 10:55pm), Fri 5/13 (11:50am, 2:40pm, 5:30pm, 8:15pm, 10:55pm), Sat 5/14 (11:20am, 2:00pm, 4:45pm, 7:30pm, 10:10pm), Sun 5/15 (11:10am, 12:40pm, 4:15pm, 7:00pm), Mon 5/16 (11:30am, 2:50pm, 5:30pm, 8:15pm, 10:55pm), Tue 5/17 (11:55am, 2:40pm, 5:20pm, 8:00pm, 10:45pm), Wed 5/18 (12:15pm, 2:15pm, 4:55pm, 7:45pm, 10:25pm)
+
+    * [On The Count Of Three](https://drafthouse.com/raleigh/show/on-the-count-of-three): Fri 5/13 (11:25am), Sat 5/14 (10:50am), Sun 5/15 (10:10am), Mon 5/16 (11:40am), Tue 5/17 (11:45am), Wed 5/18 (11:50am, 3:15pm, 5:45pm, 8:15pm, 10:45pm)
+
+    * [Petite Maman](https://drafthouse.com/raleigh/show/petite-maman): Thu 5/12 (11:45am), Fri 5/13 (2:45pm), Sat 5/14 (10:15am), Sun 5/15 (10:45am), Mon 5/16 (11:15am), Tue 5/17 (3:15pm), Wed 5/18 (12:30pm)
+
+    * [Sonic The Hedgehog 2](https://drafthouse.com/raleigh/show/sonic-the-hedgehog-2): Thu 5/12 (1:45pm, 3:40pm)
+
+    * [The Bad Guys](https://drafthouse.com/raleigh/show/the-bad-guys): Thu 5/12 (12:25pm, 3:50pm, 6:30pm, 9:10pm), Fri 5/13 (12:45pm, 3:00pm, 5:15pm, 7:00pm), Sat 5/14 (2:15pm, 5:00pm, 7:45pm), Sun 5/15 (10:30am, 12:15pm, 3:20pm, 6:00pm), Mon 5/16 (1:10pm, 3:55pm, 6:45pm, 9:40pm), Tue 5/17 (12:10pm, 4:00pm, 6:45pm, 9:25pm), Wed 5/18 (11:45am, 2:30pm, 5:15pm, 8:00pm)
+
+    * [The Northman](https://drafthouse.com/raleigh/show/the-northman): Thu 5/12 (4:50pm), Fri 5/13 (5:45pm), Sat 5/14 (6:00pm), Sun 5/15 (5:15pm), Mon 5/16 (4:30pm), Tue 5/17 (5:30pm), Wed 5/18 (5:40pm)
+
+    * [The Unbearable Weight Of Massive Talent](https://drafthouse.com/raleigh/show/the-unbearable-weight-of-massive-talent): Thu 5/12 (12:55pm, 3:15pm, 6:15pm, 9:15pm), Fri 5/13 (11:00am, 2:00pm, 4:55pm, 7:45pm, 10:45pm), Sat 5/14 (10:45am, 1:35pm, 4:25pm, 7:15pm, 10:15pm), Sun 5/15 (10:40am, 1:15pm, 4:30pm, 7:30pm), Mon 5/16 (11:55am, 3:15pm, 6:15pm, 9:15pm), Tue 5/17 (11:10am, 2:00pm, 4:55pm, 7:45pm, 10:40pm), Wed 5/18 (11:20am, 1:15pm, 4:15pm, 7:15pm, 10:10pm)
+
 ### Tue 5/10 3:21pm
 
 * New screenings: 
