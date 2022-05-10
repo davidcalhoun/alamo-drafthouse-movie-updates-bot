@@ -1,6 +1,44 @@
 # los-angeles
 
 ## Movie updates
+### Mon 5/9 6:23pm
+* New movies: Firestarter 2022, Happening, Lux Aeterna, Vortex, Ham on Rye, Uncharted
+
+* New screenings: 
+    * [Doctor Strange In The Multiverse Of Madness](https://drafthouse.com/los-angeles/show/doctor-strange-in-the-multiverse-of-madness): Thu 5/12 (3:50pm, 5:00pm, 5:30pm, 8:15pm), Fri 5/13 (10:50am, 11:00am, 2:15pm, 5:30pm, 8:45pm), Sat 5/14 (11:00am, 2:15pm, 5:30pm, 8:45pm), Sun 5/15 (10:55am, 2:15pm, 5:30pm), Mon 5/16 (11:30am, 2:45pm, 6:00pm), Tue 5/17 (11:10am, 11:30am, 2:20pm, 2:45pm, 6:00pm, 8:00pm), Wed 5/18 (11:45am, 12:00pm, 12:50pm, 2:35pm, 3:00pm, 3:20pm, 6:15pm)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/los-angeles/show/everything-everywhere-all-at-once): Thu 5/12 (3:10pm, 4:00pm, 6:30pm, 9:50pm), Fri 5/13 (11:15am, 11:35am, 12:45pm, 2:55pm, 6:15pm, 9:35pm, 10:10pm), Sat 5/14 (11:15am, 11:35am, 12:45pm, 2:20pm, 2:55pm, 6:15pm, 7:30pm, 8:15pm, 9:30pm, 10:10pm), Sun 5/15 (11:15am, 11:30am, 12:45pm, 1:30pm, 2:55pm, 6:15pm), Mon 5/16 (11:40am, 12:30pm, 1:00pm, 1:30pm, 1:40pm, 4:30pm), Tue 5/17 (12:30pm, 1:00pm, 1:30pm, 4:20pm, 7:45pm), Wed 5/18 (11:15am, 12:30pm, 1:30pm, 2:10pm, 4:25pm, 7:45pm)
+
+    * [Fallen Angels](https://drafthouse.com/los-angeles/show/fallen-angels): Fri 5/13 (3:05pm), Sat 5/14 (9:35pm)
+
+    * [Firestarter 2022](https://drafthouse.com/los-angeles/show/firestarter-2022): Thu 5/12 (5:00pm, 7:40pm, 9:30pm), Fri 5/13 (10:40am, 1:30pm, 4:15pm, 7:10pm, 10:00pm), Sat 5/14 (10:40am, 1:30pm, 4:15pm, 7:10pm, 10:00pm), Sun 5/15 (10:35am, 1:35pm, 4:15pm, 7:00pm), Mon 5/16 (1:25pm, 4:15pm, 7:00pm), Tue 5/17 (1:25pm, 2:20pm, 4:10pm, 7:00pm), Wed 5/18 (1:30pm, 4:00pm, 6:45pm)
+
+    * [Ham On Rye](https://drafthouse.com/los-angeles/show/ham-on-rye): Fri 5/13 (2:00pm), Sat 5/14 (2:00pm), Mon 5/16 (7:30pm), Tue 5/17 (4:30pm), Wed 5/18 (1:45pm)
+
+    * [Happening](https://drafthouse.com/los-angeles/show/happening): Thu 5/12 (7:30pm, 10:20pm), Fri 5/13 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:40pm), Sat 5/14 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:40pm), Sun 5/15 (11:40am, 2:25pm, 5:15pm, 8:00pm), Mon 5/16 (1:00pm, 3:00pm, 3:40pm, 6:30pm), Tue 5/17 (1:00pm, 3:40pm, 6:30pm), Wed 5/18 (12:50pm, 3:40pm, 6:30pm)
+
+    * [Hatching](https://drafthouse.com/los-angeles/show/hatching): Thu 5/12 (2:30pm)
+
+    * [Lux Aeterna](https://drafthouse.com/los-angeles/show/lux-aeterna): Fri 5/13 (12:30pm, 5:45pm, 8:15pm), Sat 5/14 (11:50am, 5:45pm), Sun 5/15 (11:00am, 4:50pm), Mon 5/16 (11:10am, 5:00pm, 8:00pm), Tue 5/17 (11:30am, 2:00pm), Wed 5/18 (11:40am, 5:30pm)
+
+    * [On The Count Of Three](https://drafthouse.com/los-angeles/show/on-the-count-of-three): Mon 5/16 (1:10pm, 3:50pm, 6:20pm), Tue 5/17 (11:45am, 1:15pm, 3:45pm, 6:15pm), Wed 5/18 (1:00pm, 3:30pm, 6:00pm)
+
+    * [Petite Maman](https://drafthouse.com/los-angeles/show/petite-maman): Thu 5/12 (2:00pm)
+
+    * [The Bad Guys](https://drafthouse.com/los-angeles/show/the-bad-guys): Thu 5/12 (2:20pm)
+
+    * [The Northman](https://drafthouse.com/los-angeles/show/the-northman): Thu 5/12 (2:45pm, 6:15pm, 9:40pm), Fri 5/13 (12:20pm, 3:40pm, 7:00pm, 10:20pm), Sat 5/14 (12:20pm, 3:40pm, 7:00pm, 10:20pm), Sun 5/15 (12:20pm, 3:40pm, 7:00pm), Mon 5/16 (12:40pm, 4:00pm, 7:30pm), Tue 5/17 (12:40pm, 4:00pm, 7:30pm), Wed 5/18 (1:15pm, 4:40pm, 8:00pm)
+
+    * [The Unbearable Weight Of Massive Talent](https://drafthouse.com/los-angeles/show/the-unbearable-weight-of-massive-talent): Thu 5/12 (4:15pm, 7:15pm, 10:10pm), Fri 5/13 (4:15pm, 7:15pm), Sat 5/14 (4:15pm, 7:15pm), Sun 5/15 (4:15pm, 7:15pm), Mon 5/16 (5:00pm, 8:00pm), Tue 5/17 (5:00pm, 8:00pm), Wed 5/18 (5:00pm, 8:00pm)
+
+    * [This Much I Know To Be True](https://drafthouse.com/los-angeles/show/this-much-i-know-to-be-true): Thu 5/12 (3:00pm, 6:45pm), Sat 5/14 (4:45pm)
+
+    * [Uncharted](https://drafthouse.com/los-angeles/show/uncharted): Fri 5/13 (9:25pm), Tue 5/17 (5:00pm)
+
+    * [Vortex](https://drafthouse.com/los-angeles/show/vortex): Fri 5/13 (2:35pm, 6:00pm), Sat 5/14 (2:35pm, 6:00pm), Sun 5/15 (2:35pm, 6:00pm), Mon 5/16 (3:50pm, 7:15pm), Tue 5/17 (3:50pm, 7:15pm), Wed 5/18 (3:50pm, 7:15pm)
+
+    * [Were All Going To The Worlds Fair](https://drafthouse.com/los-angeles/show/were-all-going-to-the-worlds-fair): Thu 5/12 (4:15pm)
+
 ### Sat 5/7 11:23am
 * New movies: Triple Fisher: The Lethal Lolitas of Long Island, THE WATERMELON WOMAN
 
