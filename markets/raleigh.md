@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 5/10 3:21pm
+
+* New screenings: 
+    * [Men](https://drafthouse.com/raleigh/show/men): Thu 5/19 (10:15pm)
+
 ### Tue 5/10 12:41pm
 * New movies: Men
 
