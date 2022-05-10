@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Tue 5/10 12:41pm
+* New movies: Men
+
+* New screenings: 
+    * [Back To The Future](https://drafthouse.com/raleigh/show/back-to-the-future): Sat 5/21 (9:30pm)
+
+    * [Men](https://drafthouse.com/raleigh/show/men): Thu 5/19 (7:30pm), Fri 5/20 (7:30pm), Sat 5/21 (6:30pm), Sun 5/22 (7:30pm)
+
 ### Fri 5/6 2:33am
 
 * New screenings: 
