@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 5/10 12:17pm
+* New movies: Men, Men
+
+* New screenings: 
+    * [Men](https://drafthouse.com/los-angeles/show/men): Thu 5/19 (7:15pm, 10:00pm), Fri 5/20 (4:30pm, 7:15pm, 10:00pm), Sat 5/21 (4:15pm, 7:15pm, 10:00pm), Sun 5/22 (4:15pm, 7:15pm)
+
+    * [Men Brunch](https://drafthouse.com/los-angeles/show/men-brunch): Sun 5/22 (1:30pm)
+
 ### Mon 5/9 6:23pm
 * New movies: Firestarter 2022, Happening, Lux Aeterna, Vortex, Ham on Rye, Uncharted
 
