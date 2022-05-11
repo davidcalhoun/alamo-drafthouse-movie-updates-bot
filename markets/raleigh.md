@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 5/11 3:21pm
+* New movies: Fantastic Fest Presents After Blue
+
+* New screenings: 
+    * [After Blue](https://drafthouse.com/raleigh/show/after-blue): Fri 6/3 (10:15pm)
+
 ### Tue 5/10 6:25pm
 * New movies: Firestarter 2022, Happening
 
