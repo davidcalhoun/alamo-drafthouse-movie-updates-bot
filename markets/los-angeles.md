@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 5/12 4:21pm
+* New movies: FANTASTIC FEST PRESENTS DINNER IN AMERICA with Live Q&A
+
+
+
 ### Thu 5/12 3:23pm
 * New movies: Fantastic Fest Presents Dinner in America
 
