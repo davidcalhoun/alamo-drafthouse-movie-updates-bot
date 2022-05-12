@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 5/12 3:23pm
+* New movies: Fantastic Fest Presents Dinner in America
+
+* New screenings: 
+    * [Live Q A Dinner In America](https://drafthouse.com/los-angeles/show/live-q-a-dinner-in-america): Thu 5/26 (7:15pm)
+
+    * [On The Count Of Three](https://drafthouse.com/los-angeles/show/on-the-count-of-three): Sat 5/14 (10:10pm)
+
 ### Thu 5/12 2:17pm
 * New movies: Fantastic Fest Presents After Blue
 
