@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 5/12 2:17pm
+* New movies: Fantastic Fest Presents After Blue
+
+* New screenings: 
+    * [After Blue](https://drafthouse.com/los-angeles/show/after-blue): Fri 6/3 (8:45pm)
+
+    * [Movie Party Back To The Future](https://drafthouse.com/los-angeles/show/movie-party-back-to-the-future): Sat 5/21 (9:30pm)
+
 ### Thu 5/12 9:33am
 * New movies: Fantastic Fest Presents RRR
 
