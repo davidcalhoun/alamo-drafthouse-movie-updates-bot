@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 5/11 10:08pm
+* New movies: Fantastic Fest Presents RRR
+
+* New screenings: 
+    * [Fantastic Fest Presents Rrr](https://drafthouse.com/raleigh/show/fantastic-fest-presents-rrr): Wed 6/1 (6:15pm)
+
 ### Wed 5/11 3:21pm
 * New movies: Fantastic Fest Presents After Blue
 
