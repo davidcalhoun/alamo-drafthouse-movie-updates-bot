@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 5/12 9:33am
+* New movies: Fantastic Fest Presents RRR
+
+* New screenings: 
+    * [Fantastic Fest Presents Rrr](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-rrr): Wed 6/1 (6:15pm)
+
 ### Tue 5/10 12:17pm
 * New movies: Men, Men
 
