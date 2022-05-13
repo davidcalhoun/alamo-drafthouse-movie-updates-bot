@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 5/13 4:22pm
+
+* New screenings: 
+    * [Fantastic Fest Presents Dinner In America](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-dinner-in-america): Sun 5/29 (5:00pm)
+
 ### Fri 5/13 3:21pm
 * New movies: Fantastic Fest Presents Dinner in America
 
