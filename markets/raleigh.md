@@ -1,6 +1,20 @@
 # raleigh
 
 ## Movie updates
+### Fri 5/13 12:41pm
+* New movies: Ponyo Dubbed
+
+* New screenings: 
+    * [Fist City Shogun Assassin](https://drafthouse.com/raleigh/show/fist-city-shogun-assassin): Thu 6/2 (7:30pm)
+
+    * [Movie Party Back To The Future](https://drafthouse.com/raleigh/show/movie-party-back-to-the-future): Sun 6/5 (4:00pm)
+
+    * [Movie Party Pitch Perfect](https://drafthouse.com/raleigh/show/movie-party-pitch-perfect): Sun 6/26 (6:45pm)
+
+    * [Ponyo Dubbed](https://drafthouse.com/raleigh/show/ponyo-dubbed): Sat 6/25 (11:00am)
+
+    * [Rear Window](https://drafthouse.com/raleigh/show/rear-window): Sat 5/21 (1:30pm)
+
 ### Wed 5/11 10:08pm
 * New movies: Fantastic Fest Presents RRR
 
