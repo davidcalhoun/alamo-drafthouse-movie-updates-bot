@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Fri 5/13 7:01pm
+
+* New screenings: 
+    * [Movie Party Cats](https://drafthouse.com/los-angeles/show/movie-party-cats): Sun 6/26 (7:00pm)
+
+    * [Movie Party Pitch Perfect](https://drafthouse.com/los-angeles/show/movie-party-pitch-perfect): Sat 6/25 (4:00pm)
+
 ### Fri 5/13 4:22pm
 
 * New screenings: 
