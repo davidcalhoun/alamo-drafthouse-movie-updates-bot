@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 5/16 12:16pm
+* New movies: Lingua Franca
+
+* New screenings: 
+    * [Lingua Franca](https://drafthouse.com/los-angeles/show/lingua-franca): Fri 6/3 (6:00pm), Tue 6/7 (5:20pm)
+
 ### Fri 5/13 7:01pm
 
 * New screenings: 
