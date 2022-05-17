@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 5/17 11:27am
+* New movies: Emergency
+
+* New screenings: 
+    * [Advance Screening Emergency](https://drafthouse.com/raleigh/show/advance-screening-emergency): Thu 5/19 (7:00pm)
+
 ### Tue 5/17 10:27am
 * New movies: The Bob's Burgers Movie, The Bob's Burgers Movie
 
