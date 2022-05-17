@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Mon 5/16 9:36pm
+* New movies: Dashcam, Dashcam
+
+* New screenings: 
+    * [Dashcam](https://drafthouse.com/los-angeles/show/dashcam): Sat 6/4 (9:45pm), Sun 6/5 (6:45pm)
+
+    * [Live Q A Dashcam](https://drafthouse.com/los-angeles/show/live-q-a-dashcam): Fri 6/3 (6:45pm, 9:45pm), Sat 6/4 (6:45pm)
+
 ### Mon 5/16 6:48pm
 * New movies: Pleasure, Emergency, Back to the Future
 
