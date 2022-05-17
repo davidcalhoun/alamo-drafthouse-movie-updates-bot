@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 5/17 8:22am
+* New movies: Emergency
+
+* New screenings: 
+    * [Advance Screening Emergency](https://drafthouse.com/los-angeles/show/advance-screening-emergency): Thu 5/19 (7:00pm)
+
 ### Tue 5/17 6:47am
 * New movies: The Bob's Burgers Movie, The Bob's Burgers Movie
 
