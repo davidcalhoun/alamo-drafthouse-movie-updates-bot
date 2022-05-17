@@ -1,6 +1,52 @@
 # los-angeles
 
 ## Movie updates
+### Mon 5/16 6:48pm
+* New movies: Pleasure, Emergency, Back to the Future
+
+* New screenings: 
+    * [Back To The Future](https://drafthouse.com/los-angeles/show/back-to-the-future): Mon 5/23 (4:45pm), Tue 5/24 (2:20pm), Wed 5/25 (1:10pm)
+
+    * [Blue Velvet](https://drafthouse.com/los-angeles/show/blue-velvet): Tue 5/24 (1:50pm, 5:20pm)
+
+    * [Doctor Strange In The Multiverse Of Madness](https://drafthouse.com/los-angeles/show/doctor-strange-in-the-multiverse-of-madness): Thu 5/19 (2:00pm, 3:15pm, 3:30pm, 5:15pm, 6:30pm, 8:30pm, 9:40pm), Fri 5/20 (2:30pm, 3:35pm, 5:45pm, 6:45pm, 9:00pm, 10:10pm), Sat 5/21 (11:15am, 12:00pm, 3:20pm, 5:30pm, 6:45pm, 8:45pm, 10:00pm), Sun 5/22 (1:00pm, 3:30pm, 5:35pm, 6:45pm), Mon 5/23 (12:15pm, 2:25pm, 3:30pm, 5:35pm, 6:45pm), Tue 5/24 (12:15pm, 3:30pm, 4:30pm, 6:45pm), Wed 5/25 (12:00pm, 1:15pm, 3:15pm, 4:30pm, 6:30pm)
+
+    * [Downton Abbey A New Era](https://drafthouse.com/los-angeles/show/downton-abbey-a-new-era): Fri 5/20 (3:15pm, 4:45pm), Sat 5/21 (2:20pm, 5:15pm), Sun 5/22 (11:10am, 2:20pm, 6:25pm), Mon 5/23 (12:30pm, 1:00pm, 3:10pm, 3:45pm, 6:25pm, 7:45pm), Tue 5/24 (11:10am, 12:30pm, 3:10pm, 3:45pm, 6:25pm, 7:40pm), Wed 5/25 (12:30pm, 3:45pm, 7:40pm)
+
+    * [Downton Abbey A New Era Brunch](https://drafthouse.com/los-angeles/show/downton-abbey-a-new-era-brunch): Sat 5/21 (11:30am), Sun 5/22 (12:00pm)
+
+    * [Emergency](https://drafthouse.com/los-angeles/show/emergency): Fri 5/20 (3:00pm, 6:00pm, 9:00pm), Sat 5/21 (11:45am, 2:50pm, 6:00pm, 9:00pm), Sun 5/22 (11:50am, 2:50pm, 6:00pm), Mon 5/23 (12:00pm, 2:50pm, 6:00pm), Tue 5/24 (11:00am, 2:50pm, 6:00pm), Wed 5/25 (2:15pm, 5:10pm, 6:30pm)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/los-angeles/show/everything-everywhere-all-at-once): Thu 5/19 (2:45pm, 4:30pm, 6:15pm, 9:45pm), Fri 5/20 (2:45pm, 6:15pm, 9:40pm), Sat 5/21 (11:20am, 12:15pm, 2:40pm, 6:15pm, 9:40pm), Sun 5/22 (11:20am, 2:40pm, 6:15pm), Mon 5/23 (11:10am, 2:40pm, 6:15pm), Tue 5/24 (11:15am, 2:40pm, 6:15pm), Wed 5/25 (12:25pm, 2:55pm, 6:15pm)
+
+    * [Fallen Angels](https://drafthouse.com/los-angeles/show/fallen-angels): Thu 5/19 (4:45pm)
+
+    * [Firestarter 2022](https://drafthouse.com/los-angeles/show/firestarter-2022): Thu 5/19 (3:00pm, 6:00pm, 8:45pm), Fri 5/20 (3:00pm, 6:00pm, 8:45pm), Sat 5/21 (12:15pm, 3:00pm, 6:00pm, 8:50pm), Sun 5/22 (12:15pm, 3:00pm, 6:00pm), Mon 5/23 (12:20pm, 3:00pm, 6:00pm), Tue 5/24 (12:20pm, 3:00pm, 6:00pm), Wed 5/25 (12:40pm, 3:20pm, 6:00pm)
+
+    * [Graveyard Shift Poltergeist 1982](https://drafthouse.com/los-angeles/show/graveyard-shift-poltergeist-1982): Tue 5/24 (5:00pm), Wed 5/25 (3:45pm)
+
+    * [Ham On Rye](https://drafthouse.com/los-angeles/show/ham-on-rye): Thu 5/19 (5:30pm)
+
+    * [Happening](https://drafthouse.com/los-angeles/show/happening): Thu 5/19 (3:00pm)
+
+    * [Lux Aeterna](https://drafthouse.com/los-angeles/show/lux-aeterna): Thu 5/19 (2:15pm)
+
+    * [Men](https://drafthouse.com/los-angeles/show/men): Thu 5/19 (8:00pm, 10:45pm), Fri 5/20 (8:00pm, 10:45pm), Sat 5/21 (2:30pm, 6:25pm), Mon 5/23 (11:00am, 1:45pm, 4:30pm, 7:15pm), Tue 5/24 (11:00am, 12:00pm, 1:50pm, 4:35pm, 7:20pm), Wed 5/25 (12:10pm, 1:40pm, 4:30pm, 7:15pm)
+
+    * [Men Brunch](https://drafthouse.com/los-angeles/show/men-brunch): Sat 5/21 (1:10pm), Sun 5/22 (10:45am)
+
+    * [On The Count Of Three](https://drafthouse.com/los-angeles/show/on-the-count-of-three): Thu 5/19 (2:45pm, 5:15pm, 7:45pm, 10:30pm), Fri 5/20 (2:30pm, 5:15pm, 7:45pm, 10:30pm), Sat 5/21 (11:35am, 2:15pm, 5:15pm, 7:45pm, 10:30pm), Sun 5/22 (11:40am, 2:15pm, 5:15pm, 8:00pm), Mon 5/23 (11:40am, 2:20pm, 5:15pm, 8:00pm), Tue 5/24 (11:40am, 2:20pm, 5:15pm, 7:50pm), Wed 5/25 (12:00pm, 2:40pm, 5:15pm, 7:50pm)
+
+    * [Pleasure](https://drafthouse.com/los-angeles/show/pleasure): Thu 5/19 (7:30pm, 9:45pm, 10:20pm), Fri 5/20 (4:40pm, 7:30pm, 10:25pm), Sat 5/21 (1:25pm, 4:30pm, 7:30pm, 10:25pm), Sun 5/22 (12:20pm, 4:20pm, 7:40pm), Mon 5/23 (1:15pm, 4:15pm, 7:20pm), Tue 5/24 (1:15pm, 4:15pm, 7:10pm), Wed 5/25 (1:00pm, 4:15pm, 7:30pm)
+
+    * [Robocop Directors Cut](https://drafthouse.com/los-angeles/show/robocop-directors-cut): Fri 5/20 (4:00pm), Sat 5/21 (3:35pm), Sun 5/22 (6:35pm), Mon 5/23 (4:15pm)
+
+    * [The Northman](https://drafthouse.com/los-angeles/show/the-northman): Thu 5/19 (3:30pm, 6:50pm, 10:10pm), Fri 5/20 (6:30pm), Sat 5/21 (8:30pm), Sun 5/22 (11:30am), Mon 5/23 (11:30am), Tue 5/24 (1:00pm), Wed 5/25 (3:10pm)
+
+    * [The Unbearable Weight Of Massive Talent](https://drafthouse.com/los-angeles/show/the-unbearable-weight-of-massive-talent): Thu 5/19 (2:30pm), Fri 5/20 (9:50pm), Sat 5/21 (11:30am), Sun 5/22 (3:15pm), Mon 5/23 (11:20am), Tue 5/24 (12:10pm), Wed 5/25 (12:20pm)
+
+    * [Vortex](https://drafthouse.com/los-angeles/show/vortex): Thu 5/19 (3:50pm)
+
 ### Mon 5/16 12:16pm
 * New movies: Lingua Franca
 
