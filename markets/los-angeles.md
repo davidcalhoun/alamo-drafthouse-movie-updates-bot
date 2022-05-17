@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 5/17 6:47am
+* New movies: The Bob's Burgers Movie, The Bob's Burgers Movie
+
+* New screenings: 
+    * [Advance Screening The Bobs Burgers Movie](https://drafthouse.com/los-angeles/show/advance-screening-the-bobs-burgers-movie): Tue 5/24 (7:00pm)
+
+    * [Bobs Burgers](https://drafthouse.com/los-angeles/show/bobs-burgers): Thu 5/26 (5:00pm, 7:45pm, 10:45pm), Fri 5/27 (1:00pm, 4:00pm, 6:45pm, 9:45pm), Sat 5/28 (1:00pm, 4:00pm, 6:45pm, 9:45pm), Sun 5/29 (1:00pm, 4:00pm, 6:45pm), Mon 5/30 (1:00pm, 4:00pm, 6:45pm), Tue 5/31 (1:00pm, 4:00pm, 6:45pm), Wed 6/1 (1:00pm, 4:00pm, 6:45pm)
+
 ### Mon 5/16 9:36pm
 * New movies: Dashcam, Dashcam
 

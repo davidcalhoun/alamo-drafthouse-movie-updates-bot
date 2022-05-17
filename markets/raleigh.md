@@ -1,14 +1,6 @@
 # raleigh
 
 ## Movie updates
-### Tue 5/17 9:41am
-* New movies: The Bob's Burgers Movie, The Bob's Burgers Movie
-
-* New screenings: 
-    * [Advance Screening The Bobs Burgers Movie](https://drafthouse.com/raleigh/show/advance-screening-the-bobs-burgers-movie): Tue 5/24 (7:00pm)
-
-    * [Bobs Burgers](https://drafthouse.com/raleigh/show/bobs-burgers): Thu 5/26 (5:00pm, 7:45pm, 10:30pm), Fri 5/27 (1:45pm, 4:45pm, 7:45pm, 10:45pm), Sat 5/28 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sun 5/29 (12:00pm, 3:00pm, 6:00pm)
-
 ### Fri 5/13 12:41pm
 * New movies: Ponyo Dubbed
 
