@@ -1,6 +1,36 @@
 # raleigh
 
 ## Movie updates
+### Tue 5/17 12:41pm
+* New movies: Emergency
+
+* New screenings: 
+    * [Doctor Strange In The Multiverse Of Madness](https://drafthouse.com/raleigh/show/doctor-strange-in-the-multiverse-of-madness): Thu 5/19 (11:30am, 1:30pm, 3:00pm, 4:00pm, 5:00pm, 6:30pm, 8:30pm, 9:30pm, 10:00pm), Fri 5/20 (11:30am, 2:00pm, 2:45pm, 5:15pm, 6:00pm, 8:30pm, 9:15pm, 10:15pm), Sat 5/21 (11:15am, 12:30pm, 2:30pm, 3:45pm, 5:45pm, 7:00pm, 9:00pm, 10:15pm), Sun 5/22 (12:30pm, 2:00pm, 3:45pm, 4:30pm, 7:30pm, 8:30pm), Mon 5/23 (11:30am, 2:15pm, 2:45pm, 4:45pm, 6:00pm, 8:30pm, 9:15pm, 10:10pm, 10:30pm), Tue 5/24 (12:15pm, 2:30pm, 3:30pm, 5:45pm, 8:30pm, 9:00pm, 10:30pm), Wed 5/25 (12:50pm, 1:30pm, 3:45pm, 4:45pm, 8:00pm, 9:40pm, 10:30pm)
+
+    * [Downton Abbey A New Era](https://drafthouse.com/raleigh/show/downton-abbey-a-new-era): Fri 5/20 (4:30pm), Sat 5/21 (12:15pm, 10:00pm), Mon 5/23 (12:30pm, 3:45pm, 7:00pm, 9:30pm), Tue 5/24 (1:00pm, 2:00pm, 5:15pm, 9:50pm), Wed 5/25 (11:30am, 12:30pm, 2:45pm, 4:15pm, 6:00pm, 9:55pm)
+
+    * [Emergency](https://drafthouse.com/raleigh/show/emergency): Fri 5/20 (1:30pm, 5:00pm, 8:00pm, 10:50pm), Sat 5/21 (1:45pm, 4:40pm, 7:30pm, 10:25pm), Sun 5/22 (1:30pm, 4:20pm, 7:15pm), Mon 5/23 (12:40pm, 3:30pm, 6:30pm, 9:20pm), Tue 5/24 (12:00pm, 4:45pm, 7:45pm, 10:40pm), Wed 5/25 (11:40am, 2:30pm, 6:30pm, 9:30pm)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/raleigh/show/everything-everywhere-all-at-once): Thu 5/19 (11:55am, 1:45pm, 2:10pm, 5:30pm, 9:00pm), Fri 5/20 (1:30pm, 2:40pm, 5:45pm, 9:10pm), Sat 5/21 (1:00pm, 3:20pm, 6:45pm, 10:10pm), Sun 5/22 (1:20pm, 4:55pm, 8:15pm), Mon 5/23 (1:20pm, 3:50pm, 7:15pm, 10:40pm), Tue 5/24 (1:10pm, 3:00pm, 6:00pm, 9:30pm), Wed 5/25 (12:55pm, 4:10pm, 5:30pm, 9:05pm)
+
+    * [Firestarter 2022](https://drafthouse.com/raleigh/show/firestarter-2022): Thu 5/19 (11:25am, 3:15pm, 5:15pm, 8:00pm, 10:40pm), Fri 5/20 (1:45pm, 4:30pm, 7:15pm, 10:00pm), Sat 5/21 (12:40pm, 4:25pm, 7:15pm, 10:55pm), Sun 5/22 (1:00pm, 3:50pm, 6:30pm), Mon 5/23 (12:45pm, 3:30pm, 6:15pm, 9:00pm), Tue 5/24 (12:50pm, 3:30pm, 6:15pm, 9:00pm), Wed 5/25 (1:20pm, 3:45pm, 7:45pm, 10:25pm)
+
+    * [Happening](https://drafthouse.com/raleigh/show/happening): Thu 5/19 (9:45pm)
+
+    * [Men](https://drafthouse.com/raleigh/show/men): Thu 5/19 (9:50pm), Fri 5/20 (1:50pm, 4:45pm, 10:45pm), Sat 5/21 (12:55pm, 3:40pm, 10:30pm), Sun 5/22 (1:45pm, 5:00pm), Mon 5/23 (1:45pm, 5:45pm, 8:00pm, 10:55pm), Tue 5/24 (11:45am, 3:15pm, 6:30pm, 9:15pm), Wed 5/25 (12:45pm, 3:30pm, 6:15pm, 9:00pm)
+
+    * [On The Count Of Three](https://drafthouse.com/raleigh/show/on-the-count-of-three): Thu 5/19 (12:45pm, 3:15pm, 5:45pm, 8:15pm, 10:45pm), Fri 5/20 (12:00pm, 4:00pm, 6:30pm, 9:00pm), Sat 5/21 (3:00pm, 5:30pm, 8:00pm, 10:40pm), Sun 5/22 (12:55pm, 3:30pm, 6:15pm), Mon 5/23 (1:30pm, 4:10pm, 6:45pm, 10:45pm), Tue 5/24 (12:45pm, 4:10pm, 6:45pm, 9:20pm), Wed 5/25 (1:15pm, 4:00pm, 7:15pm, 10:40pm)
+
+    * [Petite Maman](https://drafthouse.com/raleigh/show/petite-maman): Thu 5/19 (11:15am)
+
+    * [Take Me To The River New Orleans](https://drafthouse.com/raleigh/show/take-me-to-the-river-new-orleans): Sun 5/22 (5:30pm)
+
+    * [The Bad Guys](https://drafthouse.com/raleigh/show/the-bad-guys): Thu 5/19 (1:00pm, 3:50pm, 6:45pm), Fri 5/20 (12:15pm, 3:00pm, 6:15pm), Sat 5/21 (11:55am, 2:40pm, 5:25pm, 8:15pm), Sun 5/22 (1:15pm, 4:00pm, 6:45pm), Mon 5/23 (12:15pm, 3:00pm, 5:30pm, 8:15pm), Tue 5/24 (12:10pm, 2:50pm, 5:30pm, 8:15pm), Wed 5/25 (12:00pm, 2:40pm, 5:20pm, 8:15pm)
+
+    * [The Northman](https://drafthouse.com/raleigh/show/the-northman): Thu 5/19 (12:30pm)
+
+    * [The Unbearable Weight Of Massive Talent](https://drafthouse.com/raleigh/show/the-unbearable-weight-of-massive-talent): Thu 5/19 (12:15pm, 1:15pm, 3:20pm, 4:15pm, 6:15pm, 9:15pm), Fri 5/20 (1:00pm, 3:55pm, 6:45pm, 9:40pm), Sat 5/21 (12:00pm, 3:25pm, 6:15pm, 9:20pm), Sun 5/22 (1:50pm, 4:40pm, 7:45pm), Mon 5/23 (12:55pm, 4:55pm, 7:45pm, 10:50pm), Tue 5/24 (1:30pm, 4:25pm, 7:15pm, 10:15pm), Wed 5/25 (1:15pm, 4:20pm, 6:45pm, 10:55pm)
+
 ### Tue 5/17 11:27am
 * New movies: Emergency
 
