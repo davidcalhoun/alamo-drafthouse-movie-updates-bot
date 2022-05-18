@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 5/17 6:39pm
+* New movies: Mommy
+
+* New screenings: 
+    * [Mommy](https://drafthouse.com/los-angeles/show/mommy): Fri 6/17 (3:30pm), Mon 6/20 (8:00pm)
+
 ### Tue 5/17 8:22am
 * New movies: Emergency
 
