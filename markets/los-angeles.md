@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Wed 5/18 11:25am
+
+* New screenings: 
+    * [Doctor Strange In The Multiverse Of Madness](https://drafthouse.com/los-angeles/show/doctor-strange-in-the-multiverse-of-madness): Wed 5/18 (3:00pm, 6:15pm)
+
+    * [The Northman](https://drafthouse.com/los-angeles/show/the-northman): Wed 5/18 (11:35am, 3:05pm, 7:15pm)
+
 ### Tue 5/17 6:39pm
 * New movies: Mommy
 
