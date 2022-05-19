@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Thu 5/19 6:24pm
+
+* New screenings: 
+    * [Jackie Brown](https://drafthouse.com/raleigh/show/jackie-brown): Sat 5/21 (10:00pm)
+
 ### Tue 5/17 12:41pm
 * New movies: Emergency
 
