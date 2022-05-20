@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 5/20 7:26pm
+* New movies: Crimes of the Future
+
+* New screenings: 
+    * [Crimes Of The Future](https://drafthouse.com/raleigh/show/crimes-of-the-future): Thu 6/2 (7:00pm, 9:50pm), Fri 6/3 (12:45pm, 3:45pm, 7:10pm, 10:00pm), Sat 6/4 (12:45pm, 3:45pm, 7:15pm, 10:10pm), Sun 6/5 (1:00pm, 7:15pm)
+
 ### Thu 5/19 6:24pm
 
 * New screenings: 
