@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Fri 5/20 4:21pm
+* New movies: Crimes of the Future, Watcher, Graveyard Shift: Secret Screening #1
+
+* New screenings: 
+    * [Crimes Of The Future](https://drafthouse.com/los-angeles/show/crimes-of-the-future): Thu 6/2 (7:00pm, 10:00pm), Fri 6/3 (4:00pm, 7:00pm, 10:00pm), Sat 6/4 (12:30pm, 3:30pm, 6:30pm), Sun 6/5 (1:00pm, 4:00pm), Mon 6/6 (1:30pm, 4:30pm), Tue 6/7 (1:30pm, 4:30pm, 7:30pm)
+
+    * [Graveyard Shift Advance Screening Watcher](https://drafthouse.com/los-angeles/show/graveyard-shift-advance-screening-watcher): Sun 5/29 (7:50pm)
+
+    * [Graveyard Shift Secret Screening 1](https://drafthouse.com/los-angeles/show/graveyard-shift-secret-screening-1): Sat 6/18 (9:30pm)
+
 ### Wed 5/18 11:25am
 
 * New screenings: 
