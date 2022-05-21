@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 5/20 6:22pm
+
+* New screenings: 
+    * [Fantastic Fest Presents Rrr](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-rrr): Thu 6/2 (8:00pm)
+
 ### Fri 5/20 4:21pm
 * New movies: Crimes of the Future, Watcher, Graveyard Shift: Secret Screening #1
 
