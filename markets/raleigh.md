@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Fri 5/20 9:42pm
+* New movies: Watcher, Graveyard Shift: Secret Screening #1
+
+* New screenings: 
+    * [Graveyard Shift Advance Screening Watcher](https://drafthouse.com/raleigh/show/graveyard-shift-advance-screening-watcher): Tue 5/31 (10:10pm)
+
+    * [Graveyard Shift Secret Screening 1](https://drafthouse.com/raleigh/show/graveyard-shift-secret-screening-1): Tue 6/21 (6:45pm)
+
 ### Fri 5/20 7:26pm
 * New movies: Crimes of the Future
 
