@@ -1,6 +1,37 @@
 # los-angeles
 
 ## Movie updates
+### Mon 5/23 4:20pm
+
+* New screenings: 
+    * [Back To The Future Part Ii](https://drafthouse.com/los-angeles/show/back-to-the-future-part-ii): Sun 5/29 (5:20pm)
+
+    * [Bobs Burgers](https://drafthouse.com/los-angeles/show/bobs-burgers): Sat 5/28 (2:00pm, 5:00pm, 8:00pm, 11:00pm), Sun 5/29 (11:10am, 2:00pm, 5:00pm, 8:25pm), Mon 5/30 (11:10am, 12:15pm, 2:00pm, 3:00pm, 5:00pm, 8:00pm), Tue 5/31 (11:10am, 12:15pm, 2:00pm, 5:00pm, 8:15pm), Wed 6/1 (11:10am, 11:45am, 2:00pm, 5:00pm, 8:00pm)
+
+    * [Doctor Strange In The Multiverse Of Madness](https://drafthouse.com/los-angeles/show/doctor-strange-in-the-multiverse-of-madness): Sat 5/28 (1:10pm, 4:20pm, 7:30pm, 10:45pm), Sun 5/29 (12:45pm, 4:00pm, 7:15pm), Mon 5/30 (12:45pm, 4:00pm, 7:15pm), Tue 5/31 (12:45pm, 4:00pm, 7:15pm), Wed 6/1 (12:45pm, 4:00pm, 7:15pm)
+
+    * [Downton Abbey A New Era](https://drafthouse.com/los-angeles/show/downton-abbey-a-new-era): Sat 5/28 (12:10pm, 3:20pm, 6:30pm, 10:00pm), Sun 5/29 (12:10pm, 3:20pm, 6:35pm), Mon 5/30 (12:10pm, 3:20pm, 6:35pm), Tue 5/31 (12:10pm, 3:20pm, 6:35pm), Wed 6/1 (12:10pm, 3:20pm, 6:35pm)
+
+    * [Emergency](https://drafthouse.com/los-angeles/show/emergency): Sat 5/28 (2:30pm), Sun 5/29 (2:30pm), Mon 5/30 (2:30pm), Tue 5/31 (2:30pm), Wed 6/1 (2:30pm)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/los-angeles/show/everything-everywhere-all-at-once): Sat 5/28 (11:20am, 2:45pm, 6:15pm, 9:35pm), Sun 5/29 (11:35am, 3:00pm, 6:25pm), Mon 5/30 (11:35am, 3:00pm, 6:25pm), Tue 5/31 (11:35am, 3:00pm, 6:25pm), Wed 6/1 (11:35am, 3:00pm, 6:25pm)
+
+    * [Fantastic Fest Presents Dinner In America](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-dinner-in-america): Mon 5/30 (5:45pm), Tue 5/31 (4:30pm), Wed 6/1 (3:25pm)
+
+    * [Fantastic Fest Presents Rrr](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-rrr): Wed 6/1 (5:30pm)
+
+    * [Fist City Shogun Assassin](https://drafthouse.com/los-angeles/show/fist-city-shogun-assassin): Sat 5/28 (9:15pm)
+
+    * [Men](https://drafthouse.com/los-angeles/show/men): Sat 5/28 (11:45am, 1:45pm, 4:45pm, 7:45pm, 10:30pm), Sun 5/29 (11:45am, 1:45pm, 4:45pm, 7:45pm), Mon 5/30 (11:45am, 1:45pm, 4:45pm, 7:45pm), Tue 5/31 (11:45am, 1:45pm, 4:45pm, 7:35pm), Wed 6/1 (11:45am, 1:45pm, 4:45pm, 7:45pm)
+
+    * [On The Count Of Three](https://drafthouse.com/los-angeles/show/on-the-count-of-three): Sat 5/28 (5:45pm), Sun 5/29 (8:15pm), Mon 5/30 (8:15pm), Tue 5/31 (3:00pm), Wed 6/1 (8:15pm)
+
+    * [Pleasure](https://drafthouse.com/los-angeles/show/pleasure): Sat 5/28 (8:30pm), Sun 5/29 (5:25pm), Mon 5/30 (5:20pm), Tue 5/31 (5:20pm), Wed 6/1 (5:20pm)
+
+    * [Spring Breakers](https://drafthouse.com/los-angeles/show/spring-breakers): Mon 5/30 (2:20pm)
+
+    * [Top Gun Maverick](https://drafthouse.com/los-angeles/show/top-gun-maverick): Sat 5/28 (11:00am, 12:45pm, 2:15pm, 2:45pm, 4:15pm, 5:30pm, 6:00pm, 8:45pm, 10:30pm), Sun 5/29 (11:00am, 11:30am, 1:30pm, 2:15pm, 2:45pm, 5:30pm, 6:00pm, 8:00pm), Mon 5/30 (11:00am, 11:30am, 2:15pm, 2:45pm, 5:30pm, 6:00pm), Tue 5/31 (11:00am, 11:30am, 1:15pm, 2:15pm, 2:45pm, 5:30pm, 6:00pm, 7:50pm), Wed 6/1 (11:00am, 11:30am, 12:00pm, 2:15pm, 2:45pm, 6:00pm, 8:00pm)
+
 ### Mon 5/23 3:22pm
 
 * New screenings: 
