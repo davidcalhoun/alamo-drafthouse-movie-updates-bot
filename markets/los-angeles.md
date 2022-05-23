@@ -1,6 +1,31 @@
 # los-angeles
 
 ## Movie updates
+### Mon 5/23 3:22pm
+
+* New screenings: 
+    * [Bobs Burgers](https://drafthouse.com/los-angeles/show/bobs-burgers): Thu 5/26 (5:30pm, 8:15pm, 9:45pm, 10:00pm), Fri 5/27 (2:15pm, 3:15pm, 5:00pm, 7:45pm, 10:30pm)
+
+    * [Doctor Strange In The Multiverse Of Madness](https://drafthouse.com/los-angeles/show/doctor-strange-in-the-multiverse-of-madness): Thu 5/26 (3:30pm, 6:45pm, 10:00pm), Fri 5/27 (1:10pm, 4:20pm, 7:30pm, 10:40pm)
+
+    * [Downton Abbey A New Era](https://drafthouse.com/los-angeles/show/downton-abbey-a-new-era): Thu 5/26 (4:15pm, 7:30pm, 10:45pm), Fri 5/27 (3:00pm, 6:30pm, 10:00pm)
+
+    * [Emergency](https://drafthouse.com/los-angeles/show/emergency): Thu 5/26 (4:40pm), Fri 5/27 (6:00pm)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/los-angeles/show/everything-everywhere-all-at-once): Thu 5/26 (2:40pm, 6:00pm, 9:20pm), Fri 5/27 (2:45pm, 6:15pm, 9:35pm)
+
+    * [Firestarter 2022](https://drafthouse.com/los-angeles/show/firestarter-2022): Thu 5/26 (3:20pm)
+
+    * [Men](https://drafthouse.com/los-angeles/show/men): Thu 5/26 (2:45pm, 5:15pm, 8:00pm, 10:45pm), Fri 5/27 (3:15pm, 5:15pm, 8:00pm, 10:45pm)
+
+    * [On The Count Of Three](https://drafthouse.com/los-angeles/show/on-the-count-of-three): Thu 5/26 (7:30pm), Fri 5/27 (1:15pm)
+
+    * [Pleasure](https://drafthouse.com/los-angeles/show/pleasure): Thu 5/26 (10:10pm), Fri 5/27 (8:50pm)
+
+    * [The Unbearable Weight Of Massive Talent](https://drafthouse.com/los-angeles/show/the-unbearable-weight-of-massive-talent): Thu 5/26 (3:00pm)
+
+    * [Top Gun Maverick](https://drafthouse.com/los-angeles/show/top-gun-maverick): Thu 5/26 (4:00pm, 10:30pm, 11:00pm), Fri 5/27 (1:45pm, 2:00pm, 2:30pm, 5:00pm, 8:15pm, 10:00pm)
+
 ### Mon 5/23 1:26am
 
 * New screenings: 
