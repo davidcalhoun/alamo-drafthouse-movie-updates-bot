@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 5/23 1:26am
+
+* New screenings: 
+    * [Top Gun Maverick](https://drafthouse.com/los-angeles/show/top-gun-maverick): Thu 5/26 (3:45pm, 7:00pm, 10:20pm), Fri 5/27 (2:45pm, 6:15pm, 9:30pm), Sat 5/28 (11:30am, 3:00pm, 6:15pm, 9:30pm)
+
 ### Fri 5/20 6:22pm
 
 * New screenings: 
