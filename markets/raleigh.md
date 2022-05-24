@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Tue 5/24 2:32pm
+
+* New screenings: 
+    * [Bobs Burgers](https://drafthouse.com/raleigh/show/bobs-burgers): Sat 5/28 (2:30pm, 5:15pm, 8:00pm, 10:45pm)
+
+    * [Top Gun Maverick](https://drafthouse.com/raleigh/show/top-gun-maverick): Sat 5/28 (11:15am, 2:00pm)
+
 ### Tue 5/24 12:40pm
 
 * New screenings: 
