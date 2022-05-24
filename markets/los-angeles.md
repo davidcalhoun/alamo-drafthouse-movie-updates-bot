@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 5/24 4:21pm
+
+* New screenings: 
+    * [Jurassic World Dominion](https://drafthouse.com/los-angeles/show/jurassic-world-dominion): Thu 6/9 (4:30pm), Fri 6/10 (2:30pm), Sat 6/11 (2:30pm), Sun 6/12 (6:00pm), Mon 6/13 (2:30pm), Tue 6/14 (2:30pm), Wed 6/15 (2:30pm)
+
 ### Mon 5/23 4:20pm
 
 * New screenings: 
