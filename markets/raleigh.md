@@ -1,6 +1,31 @@
 # raleigh
 
 ## Movie updates
+### Tue 5/24 12:40pm
+
+* New screenings: 
+    * [Bobs Burgers](https://drafthouse.com/raleigh/show/bobs-burgers): Thu 5/26 (5:30pm, 6:00pm, 8:15pm, 8:45pm, 11:00pm), Fri 5/27 (11:45am, 12:15pm, 12:45pm, 2:45pm, 3:00pm, 3:45pm, 5:30pm, 7:00pm, 8:15pm, 11:00pm), Sat 5/28 (11:55am, 2:45pm, 2:50pm, 5:45pm, 8:30pm), Sun 5/29 (11:15am, 2:45pm, 5:30pm, 8:30pm), Mon 5/30 (11:30am, 1:15pm, 2:30pm, 3:00pm, 5:15pm, 5:45pm, 8:00pm, 8:30pm, 10:45pm), Tue 5/31 (11:30am, 12:00pm, 1:15pm, 2:15pm, 2:45pm, 5:00pm, 5:30pm, 8:15pm, 9:00pm, 11:00pm), Wed 6/1 (11:30am, 12:00pm, 1:45pm, 2:15pm, 2:45pm, 3:15pm, 5:00pm, 5:30pm, 7:45pm, 8:15pm, 9:30pm, 10:30pm, 11:00pm)
+
+    * [Doctor Strange In The Multiverse Of Madness](https://drafthouse.com/raleigh/show/doctor-strange-in-the-multiverse-of-madness): Thu 5/26 (12:30pm, 1:40pm, 3:45pm, 7:00pm, 10:15pm), Fri 5/27 (12:50pm, 2:50pm, 6:00pm, 9:20pm), Sat 5/28 (11:50am, 3:00pm, 6:15pm, 9:30pm), Sun 5/29 (12:50pm, 4:00pm, 7:15pm), Mon 5/30 (12:20pm, 2:45pm, 6:00pm, 9:15pm), Tue 5/31 (11:45am, 3:30pm, 6:45pm, 10:00pm), Wed 6/1 (12:50pm, 3:00pm, 6:00pm, 9:15pm)
+
+    * [Downton Abbey A New Era](https://drafthouse.com/raleigh/show/downton-abbey-a-new-era): Thu 5/26 (11:50am, 12:50pm, 7:15pm, 10:25pm), Fri 5/27 (12:30pm, 4:00pm, 7:15pm, 10:30pm), Sat 5/28 (1:15pm, 4:30pm, 7:45pm, 9:15pm), Sun 5/29 (1:20pm, 4:30pm, 7:45pm), Mon 5/30 (11:40am, 4:00pm, 6:30pm, 9:45pm), Tue 5/31 (1:10pm, 4:20pm, 7:30pm, 10:40pm), Wed 6/1 (11:55am, 3:30pm, 6:30pm, 9:40pm)
+
+    * [Emergency](https://drafthouse.com/raleigh/show/emergency): Thu 5/26 (1:30pm, 4:25pm)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/raleigh/show/everything-everywhere-all-at-once): Thu 5/26 (11:00am, 2:20pm, 6:15pm, 9:45pm), Fri 5/27 (12:20pm, 3:40pm, 6:30pm, 10:00pm), Sat 5/28 (12:45pm, 4:10pm, 6:30pm, 9:50pm), Sun 5/29 (11:30am, 2:55pm, 6:15pm), Mon 5/30 (12:55pm, 2:50pm, 6:15pm, 9:40pm), Tue 5/31 (11:20am, 2:40pm, 6:00pm, 9:25pm), Wed 6/1 (12:15pm, 4:00pm, 7:15pm, 10:40pm)
+
+    * [Firestarter 2022](https://drafthouse.com/raleigh/show/firestarter-2022): Thu 5/26 (12:00pm, 2:50pm)
+
+    * [Men](https://drafthouse.com/raleigh/show/men): Thu 5/26 (1:15pm, 4:00pm, 6:45pm, 9:30pm), Fri 5/27 (12:00pm, 3:30pm, 6:15pm, 9:00pm), Sat 5/28 (12:00pm, 3:45pm, 7:30pm, 10:15pm), Sun 5/29 (12:55pm, 3:45pm, 6:30pm), Mon 5/30 (11:55am, 3:30pm, 6:15pm, 9:00pm), Tue 5/31 (11:15am, 3:45pm, 6:30pm, 9:15pm), Wed 6/1 (12:45pm, 3:40pm, 6:45pm, 10:30pm)
+
+    * [On The Count Of Three](https://drafthouse.com/raleigh/show/on-the-count-of-three): Thu 5/26 (1:00pm, 3:30pm)
+
+    * [The Bad Guys](https://drafthouse.com/raleigh/show/the-bad-guys): Thu 5/26 (12:10pm, 2:55pm), Fri 5/27 (11:00am, 2:30pm), Sat 5/28 (12:40pm, 3:20pm), Sun 5/29 (11:55am, 1:15pm), Mon 5/30 (12:15pm, 4:15pm), Tue 5/31 (12:50pm, 2:55pm), Wed 6/1 (11:20am, 4:30pm)
+
+    * [The Unbearable Weight Of Massive Talent](https://drafthouse.com/raleigh/show/the-unbearable-weight-of-massive-talent): Thu 5/26 (12:15pm, 3:15pm, 5:40pm), Fri 5/27 (9:45pm), Sat 5/28 (10:55pm), Sun 5/29 (4:00pm), Mon 5/30 (8:45pm), Tue 5/31 (8:30pm), Wed 6/1 (10:20pm)
+
+    * [Top Gun Maverick](https://drafthouse.com/raleigh/show/top-gun-maverick): Thu 5/26 (4:00pm, 5:45pm, 7:30pm, 8:30pm, 9:00pm, 10:50pm), Fri 5/27 (11:30am, 1:15pm, 4:30pm, 5:15pm, 5:45pm, 8:00pm, 8:30pm, 9:15pm), Sat 5/28 (12:30pm, 1:45pm, 5:00pm, 5:30pm, 6:00pm, 8:15pm, 9:00pm), Sun 5/29 (1:00pm, 1:45pm, 2:00pm, 4:15pm, 5:00pm, 5:15pm, 7:30pm), Mon 5/30 (11:15am, 12:00pm, 1:45pm, 2:15pm, 3:15pm, 5:00pm, 5:30pm, 7:15pm, 8:15pm, 10:30pm), Tue 5/31 (11:40am, 12:30pm, 1:30pm, 2:00pm, 3:00pm, 4:00pm, 4:45pm, 5:15pm, 5:45pm, 6:15pm, 7:15pm, 8:00pm, 9:30pm, 10:30pm), Wed 6/1 (11:15am, 11:45am, 12:30pm, 2:00pm, 2:30pm, 3:45pm, 5:15pm, 5:45pm, 7:00pm, 8:30pm, 9:00pm, 10:15pm)
+
 ### Fri 5/20 9:42pm
 * New movies: Watcher, Graveyard Shift: Secret Screening #1
 
