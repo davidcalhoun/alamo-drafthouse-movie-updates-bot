@@ -1,6 +1,54 @@
 # los-angeles
 
 ## Movie updates
+### Tue 5/24 6:51pm
+* New movies: Bound, Kamikaze Hearts, Drunken Master, Annie 1982, Goosebumps, Hotel Transylvania 4: Transformania, Sing 2, Sing 2016, Superman 1978, The Boss Baby: Family Business, The Croods: A New Age, The NeverEnding Story, Paris Is Burning, Pokemon Detective Pikachu, The Handmaiden, Cloudy with a Chance of Meatballs, Superman 1978, Cloudy with a Chance of Meatballs 2, PERFECT BLUE, THE ADVENTURES OF PRISCILLA, QUEEN OF THE DESERT, Annie 1982
+
+* New screenings: 
+    * [Bound 1996](https://drafthouse.com/los-angeles/show/bound-1996): Fri 7/29 (3:30pm), Mon 8/1 (2:15pm)
+
+    * [Fist City Drunken Master](https://drafthouse.com/los-angeles/show/fist-city-drunken-master): Mon 8/29 (7:30pm)
+
+    * [Jurassic World Dominion](https://drafthouse.com/los-angeles/show/jurassic-world-dominion): Fri 6/10 (6:00pm)
+
+    * [Kids Camp Annie 1982](https://drafthouse.com/los-angeles/show/kids-camp-annie-1982): Tue 8/23 (11:30am)
+
+    * [Kids Camp Cloudy With A Chance Of Meatballs](https://drafthouse.com/los-angeles/show/kids-camp-cloudy-with-a-chance-of-meatballs): Mon 8/15 (11:30am)
+
+    * [Kids Camp Cloudy With A Chance Of Meatballs 2](https://drafthouse.com/los-angeles/show/kids-camp-cloudy-with-a-chance-of-meatballs-2): Mon 8/22 (11:30am)
+
+    * [Kids Camp Goosebumps](https://drafthouse.com/los-angeles/show/kids-camp-goosebumps): Mon 8/29 (11:30am)
+
+    * [Kids Camp Hotel Transylvania 4 Transformania](https://drafthouse.com/los-angeles/show/kids-camp-hotel-transylvania-4-transformania): Mon 8/1 (11:30am)
+
+    * [Kids Camp Sing 2](https://drafthouse.com/los-angeles/show/kids-camp-sing-2): Mon 7/18 (11:30am)
+
+    * [Kids Camp Sing 2016](https://drafthouse.com/los-angeles/show/kids-camp-sing-2016): Mon 7/11 (11:30am)
+
+    * [Kids Camp Superman 1978](https://drafthouse.com/los-angeles/show/kids-camp-superman-1978): Tue 8/2 (11:30am)
+
+    * [Kids Camp The Boss Baby Family Business](https://drafthouse.com/los-angeles/show/kids-camp-the-boss-baby-family-business): Mon 7/25 (11:30am)
+
+    * [Kids Camp The Croods A New Age](https://drafthouse.com/los-angeles/show/kids-camp-the-croods-a-new-age): Mon 8/8 (11:30am)
+
+    * [Kids Camp The Neverending Story](https://drafthouse.com/los-angeles/show/kids-camp-the-neverending-story): Tue 8/30 (11:30am)
+
+    * [Live Q A Kamikaze Hearts](https://drafthouse.com/los-angeles/show/live-q-a-kamikaze-hearts): Fri 6/10 (8:00pm)
+
+    * [Paris Is Burning](https://drafthouse.com/los-angeles/show/paris-is-burning): Mon 6/27 (8:00pm)
+
+    * [Perfect Blue](https://drafthouse.com/los-angeles/show/perfect-blue): Mon 7/11 (7:30pm)
+
+    * [Special Event Pokemon Detective Pikachu Kids Camp](https://drafthouse.com/los-angeles/show/special-event-pokemon-detective-pikachu-kids-camp): Tue 8/16 (11:30am)
+
+    * [Superman 1978](https://drafthouse.com/los-angeles/show/superman-1978): Sun 7/31 (3:30pm)
+
+    * [The Adventures Of Priscilla Queen Of The Desert](https://drafthouse.com/los-angeles/show/the-adventures-of-priscilla-queen-of-the-desert): Sun 6/26 (2:45pm)
+
+    * [The Handmaiden](https://drafthouse.com/los-angeles/show/the-handmaiden): Fri 7/1 (3:30pm)
+
+    * [They Live](https://drafthouse.com/los-angeles/show/they-live): Mon 8/29 (4:15pm)
+
 ### Tue 5/24 4:21pm
 
 * New screenings: 
