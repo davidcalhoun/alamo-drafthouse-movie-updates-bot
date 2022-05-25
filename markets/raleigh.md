@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 5/25 1:27am
+* New movies: Escape from L.A.
+
+* New screenings: 
+    * [Escape From L A](https://drafthouse.com/raleigh/show/escape-from-l-a): Mon 7/4 (10:00pm)
+
 ### Tue 5/24 2:32pm
 
 * New screenings: 
