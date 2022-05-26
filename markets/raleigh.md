@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Thu 5/26 7:21am
+* New movies: Bound, The Handmaiden, MAGIC MIKE XXL
+
+* New screenings: 
+    * [Bound 1996](https://drafthouse.com/raleigh/show/bound-1996): Fri 7/29 (3:30pm), Mon 8/1 (10:20pm)
+
+    * [Magic Mike Xxl](https://drafthouse.com/raleigh/show/magic-mike-xxl): Fri 7/8 (3:30pm)
+
+    * [The Handmaiden](https://drafthouse.com/raleigh/show/the-handmaiden): Fri 7/1 (3:30pm)
+
 ### Wed 5/25 1:27am
 * New movies: Escape from L.A.
 
