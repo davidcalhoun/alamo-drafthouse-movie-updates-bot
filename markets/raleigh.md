@@ -1,6 +1,30 @@
 # raleigh
 
 ## Movie updates
+### Tue 5/31 5:23pm
+* New movies: Watcher
+
+* New screenings: 
+    * [Bobs Burgers](https://drafthouse.com/raleigh/show/bobs-burgers): Thu 6/2 (11:15am, 2:00pm, 2:30pm, 4:15pm, 5:30pm, 8:15pm), Fri 6/3 (11:15am, 11:45am, 1:00pm, 2:00pm, 2:30pm, 3:00pm, 5:15pm, 5:30pm, 6:45pm, 7:30pm, 9:30pm, 10:45pm), Sat 6/4 (11:45am, 12:55pm, 3:30pm, 5:00pm, 6:45pm, 7:45pm, 9:45pm, 10:30pm), Sun 6/5 (11:00am, 12:00pm, 2:30pm, 3:00pm, 4:15pm, 5:45pm, 6:30pm, 8:30pm), Mon 6/6 (11:30am, 11:50am, 1:45pm, 2:15pm, 2:45pm, 3:30pm, 4:30pm, 5:00pm, 5:30pm, 7:00pm, 7:45pm, 9:45pm, 10:40pm), Tue 6/7 (11:30am, 12:30pm, 2:00pm, 4:30pm, 5:30pm, 7:15pm, 7:45pm, 10:00pm, 10:30pm)
+
+    * [Crimes Of The Future](https://drafthouse.com/raleigh/show/crimes-of-the-future): Sun 6/5 (4:10pm), Mon 6/6 (1:00pm, 3:55pm, 7:30pm, 10:25pm), Tue 6/7 (1:25pm, 4:55pm, 8:00pm, 10:50pm)
+
+    * [Doctor Strange In The Multiverse Of Madness](https://drafthouse.com/raleigh/show/doctor-strange-in-the-multiverse-of-madness): Thu 6/2 (12:45pm, 3:30pm, 6:45pm, 10:00pm), Fri 6/3 (12:00pm, 3:15pm, 6:30pm, 9:40pm), Sat 6/4 (11:50am, 3:00pm, 6:30pm, 9:40pm), Sun 6/5 (12:15pm, 3:30pm, 6:45pm), Mon 6/6 (11:20am, 2:40pm, 6:00pm, 9:15pm), Tue 6/7 (12:55pm, 3:30pm, 6:45pm, 9:55pm)
+
+    * [Downton Abbey A New Era](https://drafthouse.com/raleigh/show/downton-abbey-a-new-era): Thu 6/2 (12:15pm, 4:30pm, 7:45pm), Fri 6/3 (1:15pm, 4:30pm, 7:45pm, 10:55pm), Sat 6/4 (12:15pm, 4:15pm, 7:30pm, 10:40pm), Sun 6/5 (11:15am, 2:55pm, 6:15pm), Mon 6/6 (12:00pm, 3:15pm, 6:30pm, 9:40pm), Tue 6/7 (11:20am, 3:15pm, 6:30pm, 9:40pm)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/raleigh/show/everything-everywhere-all-at-once): Thu 6/2 (11:40am, 3:55pm, 7:15pm, 10:40pm), Fri 6/3 (11:40am, 2:55pm, 6:15pm, 9:35pm), Sat 6/4 (1:30pm, 4:45pm, 6:15pm, 9:35pm), Sun 6/5 (12:45pm, 4:30pm, 7:30pm), Mon 6/6 (12:20pm, 3:40pm, 6:15pm, 9:40pm), Tue 6/7 (11:35am, 2:55pm, 6:15pm, 9:35pm)
+
+    * [Men](https://drafthouse.com/raleigh/show/men): Thu 6/2 (12:55pm, 3:45pm, 6:15pm, 9:00pm), Fri 6/3 (8:00pm, 10:45pm), Sat 6/4 (8:00pm, 10:45pm), Sun 6/5 (5:30pm, 8:00pm), Mon 6/6 (8:00pm, 10:45pm), Tue 6/7 (7:00pm, 9:45pm)
+
+    * [The Bad Guys](https://drafthouse.com/raleigh/show/the-bad-guys): Thu 6/2 (11:45am, 1:45pm), Fri 6/3 (1:30pm, 4:45pm), Sat 6/4 (12:25pm, 2:30pm), Sun 6/5 (12:20pm, 1:45pm), Mon 6/6 (11:45am, 2:25pm), Tue 6/7 (11:15am, 2:30pm)
+
+    * [The Unbearable Weight Of Massive Talent](https://drafthouse.com/raleigh/show/the-unbearable-weight-of-massive-talent): Thu 6/2 (10:55pm)
+
+    * [Top Gun Maverick](https://drafthouse.com/raleigh/show/top-gun-maverick): Thu 6/2 (11:00am, 11:30am, 1:00pm, 2:15pm, 2:45pm, 3:00pm, 4:00pm, 4:45pm, 5:15pm, 6:00pm, 6:30pm, 8:30pm, 9:15pm, 9:45pm), Fri 6/3 (11:00am, 11:30am, 2:15pm, 2:45pm, 3:45pm, 5:45pm, 6:00pm, 9:00pm, 9:15pm), Sat 6/4 (11:30am, 12:30pm, 2:45pm, 3:15pm, 3:40pm, 3:50pm, 6:00pm, 7:00pm, 9:15pm, 10:15pm), Sun 6/5 (11:30am, 12:55pm, 1:30pm, 2:45pm, 3:15pm, 6:00pm, 7:00pm), Mon 6/6 (11:15am, 12:15pm, 2:30pm, 4:15pm, 5:45pm, 6:45pm, 9:00pm, 10:00pm), Tue 6/7 (11:45am, 1:00pm, 1:30pm, 2:15pm, 4:15pm, 4:45pm, 5:15pm, 6:00pm, 8:30pm, 9:15pm, 10:30pm)
+
+    * [Watcher](https://drafthouse.com/raleigh/show/watcher): Thu 6/2 (8:00pm, 10:45pm), Fri 6/3 (12:15pm, 4:15pm, 8:15pm, 10:55pm), Sat 6/4 (1:25pm, 5:15pm, 8:15pm, 10:55pm), Sun 6/5 (12:30pm, 4:45pm, 8:15pm), Mon 6/6 (1:30pm, 5:15pm, 8:15pm, 10:55pm), Tue 6/7 (12:45pm, 4:20pm, 8:15pm, 10:55pm)
+
 ### Thu 5/26 7:21am
 * New movies: Bound, The Handmaiden, MAGIC MIKE XXL
 
