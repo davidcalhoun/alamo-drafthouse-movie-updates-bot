@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Wed 6/1 3:21pm
+
+* New screenings: 
+    * [After Blue](https://drafthouse.com/raleigh/show/after-blue): Fri 6/3 (10:45pm), Sat 6/4 (10:30pm), Sun 6/5 (8:00pm), Mon 6/6 (10:40pm)
+
 ### Wed 6/1 11:30am
 * New movies: Elvis, Elvis
 
