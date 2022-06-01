@@ -1,6 +1,38 @@
 # los-angeles
 
 ## Movie updates
+### Tue 5/31 7:07pm
+* New movies: Watcher, Morbius
+
+* New screenings: 
+    * [After Blue](https://drafthouse.com/los-angeles/show/after-blue): Sat 6/4 (7:00pm), Sun 6/5 (3:45pm), Mon 6/6 (3:00pm), Tue 6/7 (12:20pm, 7:00pm)
+
+    * [Bobs Burgers](https://drafthouse.com/los-angeles/show/bobs-burgers): Fri 6/3 (2:30pm, 3:45pm, 5:15pm, 8:00pm, 10:45pm), Sat 6/4 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Sun 6/5 (11:30am, 2:15pm, 5:00pm, 7:45pm), Mon 6/6 (11:30am, 2:15pm, 5:00pm, 7:45pm), Tue 6/7 (11:25am, 2:15pm, 5:00pm, 7:45pm)
+
+    * [Crimes Of The Future](https://drafthouse.com/los-angeles/show/crimes-of-the-future): Fri 6/3 (2:30pm, 3:10pm, 5:30pm, 8:30pm), Sat 6/4 (11:15am, 2:30pm, 5:30pm, 8:30pm, 10:20pm), Sun 6/5 (11:10am, 2:20pm, 5:30pm, 7:15pm), Mon 6/6 (12:30pm, 2:15pm, 5:15pm, 7:50pm), Tue 6/7 (11:30am, 2:45pm, 5:45pm)
+
+    * [Dashcam](https://drafthouse.com/los-angeles/show/dashcam): Sun 6/5 (12:30pm), Mon 6/6 (12:40pm, 6:45pm), Tue 6/7 (12:35pm, 6:45pm)
+
+    * [Doctor Strange In The Multiverse Of Madness](https://drafthouse.com/los-angeles/show/doctor-strange-in-the-multiverse-of-madness): Fri 6/3 (3:45pm, 7:00pm, 10:30pm), Sat 6/4 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Sun 6/5 (12:15pm, 4:00pm, 7:15pm), Mon 6/6 (12:45pm, 4:00pm, 7:15pm), Tue 6/7 (12:45pm, 4:00pm, 7:15pm)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/los-angeles/show/everything-everywhere-all-at-once): Fri 6/3 (2:45pm, 6:15pm, 9:45pm), Sat 6/4 (11:25am, 2:45pm, 6:15pm, 9:45pm), Sun 6/5 (11:20am, 2:45pm, 6:15pm), Mon 6/6 (11:15am, 2:45pm, 6:15pm), Tue 6/7 (11:15am, 2:45pm, 6:15pm)
+
+    * [Fantastic Fest Presents Dinner In America](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-dinner-in-america): Fri 6/3 (6:25pm), Sat 6/4 (3:45pm), Sun 6/5 (12:45pm), Mon 6/6 (12:10pm), Tue 6/7 (2:20pm)
+
+    * [Halloween 1978](https://drafthouse.com/los-angeles/show/halloween-1978): Sat 6/4 (8:15pm)
+
+    * [Men](https://drafthouse.com/los-angeles/show/men): Fri 6/3 (3:30pm, 6:30pm, 9:30pm), Sat 6/4 (12:35pm, 3:30pm, 6:30pm, 9:30pm), Sun 6/5 (12:35pm, 3:30pm, 6:30pm), Mon 6/6 (12:35pm, 3:30pm, 6:30pm), Tue 6/7 (12:30pm, 3:30pm, 6:30pm)
+
+    * [Morbius](https://drafthouse.com/los-angeles/show/morbius): Tue 6/7 (3:45pm)
+
+    * [Paris Is Burning](https://drafthouse.com/los-angeles/show/paris-is-burning): Sun 6/5 (12:00pm)
+
+    * [Top Gun Maverick](https://drafthouse.com/los-angeles/show/top-gun-maverick): Fri 6/3 (2:15pm, 3:00pm, 3:30pm, 5:45pm, 7:15pm, 9:15pm, 10:30pm), Sat 6/4 (12:00pm, 12:30pm, 1:00pm, 2:15pm, 3:15pm, 4:15pm, 5:00pm, 5:45pm, 7:30pm, 9:15pm, 10:45pm), Sun 6/5 (12:45pm, 2:30pm, 3:15pm, 4:15pm, 6:00pm, 7:30pm), Mon 6/6 (11:00am, 1:00pm, 2:30pm, 3:15pm, 4:15pm, 6:00pm, 7:40pm), Tue 6/7 (11:00am, 1:00pm, 2:30pm, 3:15pm, 4:15pm, 6:00pm, 7:30pm)
+
+    * [Top Gun Maverick Brunch](https://drafthouse.com/los-angeles/show/top-gun-maverick-brunch): Sat 6/4 (11:00am), Sun 6/5 (11:00am)
+
+    * [Watcher](https://drafthouse.com/los-angeles/show/watcher): Fri 6/3 (3:00pm, 6:00pm, 9:00pm), Sat 6/4 (12:15pm, 3:00pm, 6:00pm, 9:00pm), Sun 6/5 (12:15pm, 3:00pm, 6:15pm), Mon 6/6 (12:45pm, 3:30pm, 6:15pm), Tue 6/7 (12:15pm, 3:00pm, 6:15pm)
+
 ### Tue 5/24 6:51pm
 * New movies: Bound, Kamikaze Hearts, Drunken Master, Annie 1982, Goosebumps, Hotel Transylvania 4: Transformania, Sing 2, Sing 2016, Superman 1978, The Boss Baby: Family Business, The Croods: A New Age, The NeverEnding Story, Paris Is Burning, Pokemon Detective Pikachu, The Handmaiden, Cloudy with a Chance of Meatballs, Superman 1978, Cloudy with a Chance of Meatballs 2, PERFECT BLUE, THE ADVENTURES OF PRISCILLA, QUEEN OF THE DESERT, Annie 1982
 
