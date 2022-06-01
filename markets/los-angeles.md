@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Wed 6/1 8:24am
+* New movies: Elvis, Elvis, Elvis
+
+* New screenings: 
+    * [Advance Screening Elvis](https://drafthouse.com/los-angeles/show/advance-screening-elvis): Tue 6/21 (7:00pm)
+
+    * [Elvis](https://drafthouse.com/los-angeles/show/elvis): Thu 6/23 (5:00pm, 8:45pm), Fri 6/24 (3:15pm, 6:30pm, 10:00pm), Sat 6/25 (7:00pm), Sun 6/26 (3:15pm, 6:30pm), Mon 6/27 (11:30am, 3:15pm, 7:00pm), Tue 6/28 (11:30am, 3:15pm, 7:00pm)
+
+    * [Elvis Brunch](https://drafthouse.com/los-angeles/show/elvis-brunch): Sat 6/25 (12:15pm), Sun 6/26 (11:30am)
+
 ### Tue 5/31 7:07pm
 * New movies: Watcher, Morbius
 
