@@ -1,6 +1,33 @@
 # los-angeles
 
 ## Movie updates
+### Wed 6/1 4:21pm
+
+* New screenings: 
+    * [Bobs Burgers](https://drafthouse.com/los-angeles/show/bobs-burgers): Thu 6/2 (2:30pm, 3:45pm, 5:15pm, 6:45pm, 8:00pm, 9:45pm, 10:45pm)
+
+    * [Crimes Of The Future](https://drafthouse.com/los-angeles/show/crimes-of-the-future): Thu 6/2 (7:45pm, 10:45pm)
+
+    * [Doctor Strange In The Multiverse Of Madness](https://drafthouse.com/los-angeles/show/doctor-strange-in-the-multiverse-of-madness): Thu 6/2 (3:45pm, 7:00pm, 10:30pm)
+
+    * [Downton Abbey A New Era](https://drafthouse.com/los-angeles/show/downton-abbey-a-new-era): Thu 6/2 (4:15pm)
+
+    * [Emergency](https://drafthouse.com/los-angeles/show/emergency): Thu 6/2 (3:00pm)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/los-angeles/show/everything-everywhere-all-at-once): Thu 6/2 (2:45pm, 6:15pm, 9:45pm)
+
+    * [Fantastic Fest Presents Rrr](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-rrr): Thu 6/2 (3:40pm, 9:00pm)
+
+    * [Men](https://drafthouse.com/los-angeles/show/men): Thu 6/2 (3:20pm, 6:30pm, 9:30pm)
+
+    * [On The Count Of Three](https://drafthouse.com/los-angeles/show/on-the-count-of-three): Thu 6/2 (5:10pm)
+
+    * [Pleasure](https://drafthouse.com/los-angeles/show/pleasure): Thu 6/2 (6:00pm)
+
+    * [Top Gun Maverick](https://drafthouse.com/los-angeles/show/top-gun-maverick): Thu 6/2 (2:30pm, 3:15pm, 4:00pm, 5:45pm, 7:15pm, 9:15pm, 10:30pm)
+
+    * [Watcher](https://drafthouse.com/los-angeles/show/watcher): Thu 6/2 (7:30pm, 10:15pm)
+
 ### Wed 6/1 8:24am
 * New movies: Elvis, Elvis, Elvis
 
