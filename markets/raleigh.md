@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Wed 6/1 11:30am
+* New movies: Elvis, Elvis
+
+* New screenings: 
+    * [Elvis](https://drafthouse.com/raleigh/show/elvis): Thu 6/23 (5:00pm, 8:45pm), Fri 6/24 (6:45pm, 10:30pm), Sat 6/25 (6:45pm, 10:30pm), Sun 6/26 (3:15pm, 7:00pm)
+
+    * [Elvis Brunch](https://drafthouse.com/raleigh/show/elvis-brunch): Sun 6/26 (11:30am)
+
 ### Tue 5/31 5:23pm
 * New movies: Watcher
 
