@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Thu 6/2 1:33pm
+* New movies: Marcel the Shell with Shoes On
+
+* New screenings: 
+    * [Advance Screening Marcel The Shell With Shoes On](https://drafthouse.com/raleigh/show/advance-screening-marcel-the-shell-with-shoes-on): Tue 6/14 (7:00pm)
+
+    * [Downton Abbey A New Era](https://drafthouse.com/raleigh/show/downton-abbey-a-new-era): Thu 6/2 (10:15pm)
+
 ### Wed 6/1 3:21pm
 
 * New screenings: 
