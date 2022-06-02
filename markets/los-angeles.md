@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 6/2 10:29am
+* New movies: Marcel the Shell with Shoes On
+
+* New screenings: 
+    * [Advance Screening Marcel The Shell With Shoes On](https://drafthouse.com/los-angeles/show/advance-screening-marcel-the-shell-with-shoes-on): Tue 6/14 (7:00pm)
+
 ### Wed 6/1 4:21pm
 
 * New screenings: 
