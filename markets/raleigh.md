@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Fri 6/3 10:20am
+* New movies: Fruits Basket: Prelude Dubbed, Fruits Basket Prelude Subtitled
+
+* New screenings: 
+    * [Fruits Basket Prelude Dubbed](https://drafthouse.com/raleigh/show/fruits-basket-prelude-dubbed): Sat 6/25 (1:50pm), Wed 6/29 (7:00pm)
+
+    * [Fruits Basket Prelude Subtitled](https://drafthouse.com/raleigh/show/fruits-basket-prelude-subtitled): Tue 6/28 (7:00pm)
+
 ### Thu 6/2 1:33pm
 * New movies: Marcel the Shell with Shoes On
 
