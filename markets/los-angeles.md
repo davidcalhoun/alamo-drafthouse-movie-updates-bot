@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 6/2 6:41pm
+
+* New screenings: 
+    * [Jurassic World Dominion](https://drafthouse.com/los-angeles/show/jurassic-world-dominion): Thu 6/9 (5:30pm, 8:00pm, 9:00pm, 10:00pm), Fri 6/10 (11:00am, 9:30pm), Sat 6/11 (11:00am, 6:00pm, 9:30pm), Sun 6/12 (11:00am, 2:30pm)
+
 ### Thu 6/2 10:29am
 * New movies: Marcel the Shell with Shoes On
 
