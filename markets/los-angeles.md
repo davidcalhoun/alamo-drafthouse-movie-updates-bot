@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 6/6 6:40am
+* New movies: A Snake of June
+
+* New screenings: 
+    * [A Snake Of June](https://drafthouse.com/los-angeles/show/a-snake-of-june): Fri 7/15 (3:15pm)
+
 ### Mon 6/6 5:41am
 * New movies: Minions: The Rise of Gru
 
