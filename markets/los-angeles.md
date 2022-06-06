@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 6/6 12:17pm
+* New movies: The Wind Rises Dubbed
+
+* New screenings: 
+    * [Brunch Screenings The Wind Rises Dubbed Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-the-wind-rises-dubbed-brunch): Sat 12/3 (11:30am)
+
 ### Mon 6/6 6:40am
 * New movies: A Snake of June
 
