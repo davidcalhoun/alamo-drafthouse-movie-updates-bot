@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Sun 6/5 9:34pm
+* New movies: Fantastic Fest Presents Neptune Frost, GANJA & HESS
+
+* New screenings: 
+    * [Fantastic Fest Presents Neptune Frost](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-neptune-frost): Sun 6/26 (3:40pm)
+
+    * [Ganja Hess](https://drafthouse.com/los-angeles/show/ganja-hess): Tue 7/26 (7:45pm)
+
+    * [Indiana Jones And The Last Crusade](https://drafthouse.com/los-angeles/show/indiana-jones-and-the-last-crusade): Fri 6/17 (10:10pm)
+
 ### Fri 6/3 9:23pm
 
 * New screenings: 
