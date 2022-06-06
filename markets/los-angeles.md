@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 6/6 3:20pm
+
+* New screenings: 
+    * [Advance Screening Marcel The Shell With Shoes On](https://drafthouse.com/los-angeles/show/advance-screening-marcel-the-shell-with-shoes-on): Tue 6/14 (7:30pm)
+
 ### Mon 6/6 12:17pm
 * New movies: The Wind Rises Dubbed
 
