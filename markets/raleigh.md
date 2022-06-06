@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Mon 6/6 8:50am
+* New movies: Minions: The Rise of Gru, Minions: The Rise of Gru
+
+* New screenings: 
+    * [Minions The Rise Of Gru](https://drafthouse.com/raleigh/show/minions-the-rise-of-gru): Thu 6/30 (2:00pm, 4:35pm, 7:10pm, 9:45pm), Fri 7/1 (11:00am, 1:35pm, 4:10pm, 6:45pm, 9:20pm), Sat 7/2 (2:05pm, 4:40pm, 7:15pm, 9:50pm), Sun 7/3 (11:00am, 1:35pm, 4:10pm, 6:45pm), Mon 7/4 (11:00am, 1:35pm, 4:10pm, 6:45pm, 9:20pm)
+
+    * [Minions The Rise Of Gru Family Party](https://drafthouse.com/raleigh/show/minions-the-rise-of-gru-family-party): Sat 7/2 (10:30am)
+
 ### Sun 6/5 10:09pm
 * New movies: Pee-wee's Big Adventure, Pee-wee's Big Adventure
 
