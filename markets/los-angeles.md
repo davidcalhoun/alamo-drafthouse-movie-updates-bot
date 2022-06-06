@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 6/6 5:41am
+* New movies: Minions: The Rise of Gru
+
+* New screenings: 
+    * [Minions The Rise Of Gru](https://drafthouse.com/los-angeles/show/minions-the-rise-of-gru): Thu 6/30 (2:00pm, 4:30pm, 7:00pm, 9:30pm), Fri 7/1 (2:00pm, 4:30pm, 7:00pm, 9:30pm), Sat 7/2 (11:30am, 2:00pm, 4:30pm, 7:00pm, 9:30pm), Sun 7/3 (11:30am, 2:00pm, 4:30pm, 7:00pm), Mon 7/4 (11:15am, 2:00pm, 4:30pm, 7:00pm), Tue 7/5 (11:30am, 2:00pm, 4:30pm, 7:00pm), Wed 7/6 (11:30am, 2:00pm)
+
 ### Sun 6/5 9:34pm
 * New movies: Fantastic Fest Presents Neptune Frost, GANJA & HESS
 
