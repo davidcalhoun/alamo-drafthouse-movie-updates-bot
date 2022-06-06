@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Sun 6/5 10:09pm
+* New movies: Pee-wee's Big Adventure, Pee-wee's Big Adventure
+
+* New screenings: 
+    * [Kids Camp Pee Wees Big Adventure](https://drafthouse.com/raleigh/show/kids-camp-pee-wees-big-adventure): Mon 7/4 (11:45am)
+
+    * [Pee Wees Big Adventure](https://drafthouse.com/raleigh/show/pee-wees-big-adventure): Sun 7/3 (3:00pm)
+
 ### Fri 6/3 10:20am
 * New movies: Fruits Basket: Prelude Dubbed, Fruits Basket Prelude Subtitled
 
