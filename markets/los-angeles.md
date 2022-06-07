@@ -1,6 +1,32 @@
 # los-angeles
 
 ## Movie updates
+### Mon 6/6 6:47pm
+* New movies: Space Jam
+
+* New screenings: 
+    * [After Blue](https://drafthouse.com/los-angeles/show/after-blue): Tue 6/7 (12:20pm), Fri 6/10 (10:25pm)
+
+    * [Bobs Burgers](https://drafthouse.com/los-angeles/show/bobs-burgers): Tue 6/7 (11:25am), Thu 6/9 (3:30pm, 6:30pm, 9:15pm), Fri 6/10 (3:45pm, 6:45pm, 9:30pm)
+
+    * [Crimes Of The Future](https://drafthouse.com/los-angeles/show/crimes-of-the-future): Tue 6/7 (11:30am, 1:30pm), Thu 6/9 (3:00pm, 4:30pm, 7:30pm, 10:25pm), Fri 6/10 (5:00pm, 6:30pm, 7:30pm, 9:40pm, 10:50pm)
+
+    * [Dashcam](https://drafthouse.com/los-angeles/show/dashcam): Tue 6/7 (12:35pm), Thu 6/9 (5:45pm)
+
+    * [Doctor Strange In The Multiverse Of Madness](https://drafthouse.com/los-angeles/show/doctor-strange-in-the-multiverse-of-madness): Tue 6/7 (12:45pm), Thu 6/9 (3:50pm, 7:00pm, 10:30pm), Fri 6/10 (3:15pm, 7:15pm, 10:45pm)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/los-angeles/show/everything-everywhere-all-at-once): Tue 6/7 (11:15am), Thu 6/9 (3:15pm, 6:45pm, 10:15pm), Fri 6/10 (2:45pm, 6:15pm, 9:45pm)
+
+    * [Jurassic World Dominion](https://drafthouse.com/los-angeles/show/jurassic-world-dominion): Thu 6/9 (8:10pm, 8:40pm), Fri 6/10 (1:30pm, 1:45pm, 4:00pm, 10:00pm)
+
+    * [Kids Camp Space Jam](https://drafthouse.com/los-angeles/show/kids-camp-space-jam): Tue 6/7 (11:45am)
+
+    * [Men](https://drafthouse.com/los-angeles/show/men): Tue 6/7 (12:30pm), Thu 6/9 (3:00pm), Fri 6/10 (4:30pm)
+
+    * [Top Gun Maverick](https://drafthouse.com/los-angeles/show/top-gun-maverick): Tue 6/7 (11:00am, 1:00pm), Thu 6/9 (2:45pm, 4:00pm, 6:15pm, 7:15pm, 9:30pm, 10:45pm), Fri 6/10 (2:30pm, 3:45pm, 5:45pm, 7:15pm, 9:00pm, 10:35pm)
+
+    * [Watcher](https://drafthouse.com/los-angeles/show/watcher): Tue 6/7 (12:15pm), Thu 6/9 (3:20pm, 6:00pm)
+
 ### Mon 6/6 3:20pm
 
 * New screenings: 
