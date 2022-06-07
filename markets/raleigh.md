@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 6/7 12:37pm
+* New movies: The Wind Rises Dubbed
+
+* New screenings: 
+    * [Brunch Screenings The Wind Rises Dubbed Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-the-wind-rises-dubbed-brunch): Sun 12/4 (11:00am)
+
 ### Tue 6/7 11:31am
 * New movies: Fantastic Fest Presents After Blue, The Land Before Time, The Fog
 
