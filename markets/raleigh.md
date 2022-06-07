@@ -1,6 +1,36 @@
 # raleigh
 
 ## Movie updates
+### Tue 6/7 11:31am
+* New movies: Fantastic Fest Presents After Blue, The Land Before Time, The Fog
+
+* New screenings: 
+    * [After Blue](https://drafthouse.com/raleigh/show/after-blue): Sat 6/11 (8:15pm), Sun 6/12 (8:30pm)
+
+    * [Bobs Burgers](https://drafthouse.com/raleigh/show/bobs-burgers): Thu 6/9 (12:30pm, 1:00pm, 1:30pm, 2:45pm, 3:15pm, 5:30pm, 8:00pm, 10:30pm), Fri 6/10 (11:15am, 3:15pm, 7:00pm, 9:45pm), Sat 6/11 (11:15am, 3:15pm, 7:15pm, 10:00pm), Sun 6/12 (11:15am, 3:15pm, 6:15pm), Mon 6/13 (1:15pm, 5:15pm, 8:00pm, 10:45pm), Tue 6/14 (12:50pm, 4:55pm, 8:00pm, 10:45pm), Wed 6/15 (12:55pm, 4:55pm, 8:00pm, 10:45pm)
+
+    * [Crimes Of The Future](https://drafthouse.com/raleigh/show/crimes-of-the-future): Thu 6/9 (12:40pm, 4:15pm, 7:45pm, 10:40pm), Fri 6/10 (1:00pm, 4:00pm, 7:45pm, 10:50pm), Sat 6/11 (1:20pm, 4:15pm, 8:00pm, 10:50pm), Sun 6/12 (12:20pm, 3:10pm, 6:00pm), Mon 6/13 (11:55am, 3:55pm, 7:30pm, 10:20pm), Tue 6/14 (11:55am, 3:40pm, 6:30pm, 9:25pm), Wed 6/15 (12:15pm, 3:40pm, 6:30pm, 9:20pm)
+
+    * [Doctor Strange In The Multiverse Of Madness](https://drafthouse.com/raleigh/show/doctor-strange-in-the-multiverse-of-madness): Thu 6/9 (1:15pm, 3:30pm, 6:30pm, 9:40pm), Fri 6/10 (12:20pm, 3:30pm, 6:45pm, 9:55pm), Sat 6/11 (1:30pm, 4:45pm, 6:00pm, 9:15pm), Sun 6/12 (12:15pm, 3:30pm, 6:45pm), Mon 6/13 (1:00pm, 3:35pm, 6:45pm, 9:55pm), Tue 6/14 (12:40pm, 3:00pm, 6:15pm, 9:25pm), Wed 6/15 (11:50am, 3:00pm, 6:15pm, 9:25pm)
+
+    * [Downton Abbey A New Era](https://drafthouse.com/raleigh/show/downton-abbey-a-new-era): Thu 6/9 (12:00pm), Fri 6/10 (1:45pm), Sat 6/11 (12:45pm), Sun 6/12 (11:50am), Mon 6/13 (12:45pm), Tue 6/14 (1:50pm), Wed 6/15 (11:40am)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/raleigh/show/everything-everywhere-all-at-once): Thu 6/9 (11:25am, 2:50pm, 6:15pm, 9:35pm), Fri 6/10 (11:30am, 2:50pm, 6:00pm, 9:20pm), Sat 6/11 (11:30am, 2:55pm, 6:45pm, 10:10pm), Sun 6/12 (12:55pm, 4:15pm, 7:45pm), Mon 6/13 (12:10pm, 4:10pm, 6:15pm, 9:40pm), Tue 6/14 (1:15pm, 3:55pm, 7:15pm, 10:40pm), Wed 6/15 (1:00pm, 3:15pm, 6:45pm, 10:05pm)
+
+    * [Jurassic World Dominion](https://drafthouse.com/raleigh/show/jurassic-world-dominion): Thu 6/9 (4:30pm, 7:00pm, 8:15pm, 9:00pm, 10:30pm), Fri 6/10 (12:15pm, 12:45pm, 1:15pm, 2:00pm, 3:45pm, 4:15pm, 4:45pm, 5:00pm, 5:30pm, 8:15pm, 8:30pm, 9:00pm), Sat 6/11 (12:00pm, 12:30pm, 1:00pm, 2:00pm, 3:30pm, 5:30pm, 7:00pm, 7:30pm, 9:00pm), Sun 6/12 (12:30pm, 1:30pm, 2:00pm, 4:00pm, 4:30pm, 7:30pm, 8:00pm), Mon 6/13 (12:00pm, 12:30pm, 1:30pm, 2:30pm, 3:30pm, 4:15pm, 5:00pm, 5:30pm, 6:00pm, 7:00pm, 8:30pm, 9:00pm, 9:30pm, 10:15pm), Tue 6/14 (11:00am, 12:00pm, 12:30pm, 2:30pm, 3:30pm, 4:00pm, 5:00pm, 5:30pm, 6:00pm, 8:30pm, 9:00pm, 9:30pm, 10:00pm), Wed 6/15 (11:00am, 12:00pm, 1:15pm, 1:45pm, 2:30pm, 3:30pm, 4:30pm, 4:45pm, 5:30pm, 6:00pm, 7:00pm, 8:30pm, 9:30pm, 10:30pm), Thu 6/16 (11:30am)
+
+    * [Kids Camp The Land Before Time](https://drafthouse.com/raleigh/show/kids-camp-the-land-before-time): Mon 6/13 (12:15pm)
+
+    * [Men](https://drafthouse.com/raleigh/show/men): Thu 6/9 (10:45pm), Fri 6/10 (10:45pm), Sat 6/11 (10:30pm), Sun 6/12 (8:15pm)
+
+    * [The Bad Guys](https://drafthouse.com/raleigh/show/the-bad-guys): Thu 6/9 (11:50am)
+
+    * [The Fog](https://drafthouse.com/raleigh/show/the-fog): Mon 6/13 (7:45pm)
+
+    * [Top Gun Maverick](https://drafthouse.com/raleigh/show/top-gun-maverick): Thu 6/9 (11:30am, 12:45pm, 1:45pm, 2:30pm, 3:15pm, 3:45pm, 5:45pm, 6:45pm, 7:15pm, 10:00pm), Fri 6/10 (12:00pm, 1:30pm, 6:15pm, 7:30pm, 9:30pm, 10:40pm), Sat 6/11 (11:55am, 1:45pm, 4:30pm, 5:00pm, 6:15pm, 7:45pm, 9:30pm), Sun 6/12 (12:00pm, 12:40pm, 3:55pm, 7:15pm), Mon 6/13 (11:45am, 2:00pm, 3:00pm, 4:00pm, 6:45pm, 10:00pm, 10:30pm), Tue 6/14 (11:45am, 12:15pm, 1:30pm, 3:30pm, 4:45pm, 6:45pm, 7:45pm, 9:45pm), Wed 6/15 (12:45pm, 1:30pm, 4:00pm, 5:15pm, 7:45pm, 8:15pm, 9:00pm)
+
+    * [Watcher](https://drafthouse.com/raleigh/show/watcher): Thu 6/9 (5:00pm), Fri 6/10 (4:50pm), Sat 6/11 (3:55pm), Sun 6/12 (5:30pm), Mon 6/13 (2:45pm), Tue 6/14 (2:50pm), Wed 6/15 (2:50pm)
+
 ### Tue 6/7 10:22am
 
 * New screenings: 
