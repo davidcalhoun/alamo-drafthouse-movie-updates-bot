@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Tue 6/7 12:16pm
+
+* New screenings: 
+    * [Brunch Screenings The Wind Rises Dubbed Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-the-wind-rises-dubbed-brunch): Sun 12/4 (11:30am)
+
+    * [Lightyear](https://drafthouse.com/los-angeles/show/lightyear): Fri 6/17 (4:45pm)
+
 ### Tue 6/7 12:19am
 * New movies: Lightyear, Lightyear
 
