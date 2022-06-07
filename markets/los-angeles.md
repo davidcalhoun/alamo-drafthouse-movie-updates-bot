@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 6/7 12:19am
+* New movies: Lightyear, Lightyear
+
+* New screenings: 
+    * [Lightyear](https://drafthouse.com/los-angeles/show/lightyear): Thu 6/16 (3:00pm, 6:00pm, 9:00pm), Fri 6/17 (3:30pm, 6:30pm, 9:30pm), Sat 6/18 (3:30pm, 6:30pm, 9:30pm), Sun 6/19 (3:30pm, 6:30pm)
+
+    * [Lighyear Brunch](https://drafthouse.com/los-angeles/show/lighyear-brunch): Sat 6/18 (12:30pm)
+
 ### Mon 6/6 8:20pm
 * New movies: Fantastic Fest Presents RRR
 
