@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 6/7 10:22am
+
+* New screenings: 
+    * [Lightyear](https://drafthouse.com/raleigh/show/lightyear): Sun 6/19 (12:00pm), Mon 6/20 (1:00pm, 4:00pm), Thu 6/23 (11:00am, 2:00pm)
+
 ### Tue 6/7 3:23am
 * New movies: Lightyear
 
