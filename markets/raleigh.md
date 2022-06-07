@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 6/7 3:23am
+* New movies: Lightyear
+
+* New screenings: 
+    * [Lightyear](https://drafthouse.com/raleigh/show/lightyear): Thu 6/16 (3:00pm, 6:00pm, 9:00pm), Fri 6/17 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 6/18 (12:00pm, 3:00pm, 5:00pm, 6:00pm, 9:00pm), Sun 6/19 (12:00pm, 3:00pm, 6:00pm)
+
 ### Mon 6/6 8:50am
 * New movies: Minions: The Rise of Gru, Minions: The Rise of Gru
 
