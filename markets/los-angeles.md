@@ -1,6 +1,34 @@
 # los-angeles
 
 ## Movie updates
+### Mon 6/6 8:20pm
+* New movies: Fantastic Fest Presents RRR
+
+* New screenings: 
+    * [After Blue](https://drafthouse.com/los-angeles/show/after-blue): Sat 6/11 (11:40am), Sun 6/12 (12:15pm), Tue 6/14 (4:45pm), Wed 6/15 (6:45pm)
+
+    * [Bobs Burgers](https://drafthouse.com/los-angeles/show/bobs-burgers): Sat 6/11 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Sun 6/12 (10:15am, 1:00pm, 3:45pm, 6:45pm), Mon 6/13 (10:30am, 1:15pm, 4:00pm, 6:45pm), Tue 6/14 (10:30am, 1:15pm, 4:00pm, 6:45pm), Wed 6/15 (10:30am, 1:15pm, 4:00pm, 6:45pm)
+
+    * [Crimes Of The Future](https://drafthouse.com/los-angeles/show/crimes-of-the-future): Sat 6/11 (11:50am, 3:00pm, 4:30pm, 5:45pm, 7:30pm, 10:30pm), Sun 6/12 (10:20am, 2:00pm, 4:15pm, 7:30pm), Mon 6/13 (11:00am, 1:55pm, 4:10pm, 7:30pm), Tue 6/14 (11:00am, 12:25pm, 4:25pm, 8:25pm), Wed 6/15 (11:00am, 1:30pm, 4:30pm, 7:30pm)
+
+    * [Doctor Strange In The Multiverse Of Madness](https://drafthouse.com/los-angeles/show/doctor-strange-in-the-multiverse-of-madness): Sat 6/11 (11:30am, 3:00pm, 6:30pm, 10:00pm), Sun 6/12 (12:00pm, 3:15pm, 6:30pm), Mon 6/13 (12:00pm, 3:15pm, 6:30pm), Tue 6/14 (11:45am, 3:00pm, 6:30pm), Wed 6/15 (11:45am, 3:00pm, 6:30pm)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/los-angeles/show/everything-everywhere-all-at-once): Sat 6/11 (11:10am, 2:30pm, 6:00pm, 9:20pm), Sun 6/12 (11:15am, 2:45pm, 6:15pm), Mon 6/13 (11:15am, 2:45pm, 6:15pm), Tue 6/14 (11:15am, 2:45pm, 6:15pm), Wed 6/15 (11:15am, 2:45pm, 6:15pm)
+
+    * [Fantastic Fest Presents Rrr](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-rrr): Sat 6/11 (8:45pm), Sun 6/12 (5:00pm), Tue 6/14 (12:00pm)
+
+    * [Jurassic World Dominion](https://drafthouse.com/los-angeles/show/jurassic-world-dominion): Sat 6/11 (1:00pm, 6:15pm, 9:45pm), Mon 6/13 (10:15am, 10:45am, 11:30am, 12:40pm, 1:45pm, 3:00pm, 5:15pm, 6:00pm), Tue 6/14 (10:15am, 10:45am, 12:45pm, 1:45pm, 4:15pm, 5:15pm, 7:45pm), Wed 6/15 (10:15am, 10:45am, 12:45pm, 1:45pm, 4:15pm, 5:15pm, 6:00pm, 7:45pm)
+
+    * [Jurassic World Dominion Brunch](https://drafthouse.com/los-angeles/show/jurassic-world-dominion-brunch): Sun 6/12 (12:30pm)
+
+    * [Men](https://drafthouse.com/los-angeles/show/men): Sat 6/11 (3:15pm), Sun 6/12 (6:15pm), Mon 6/13 (1:40pm), Tue 6/14 (2:00pm), Wed 6/15 (2:00pm)
+
+    * [The Adventures Of Priscilla Queen Of The Desert](https://drafthouse.com/los-angeles/show/the-adventures-of-priscilla-queen-of-the-desert): Sat 6/11 (2:50pm), Mon 6/13 (4:25pm)
+
+    * [Top Gun Maverick](https://drafthouse.com/los-angeles/show/top-gun-maverick): Sat 6/11 (11:00am, 12:30pm, 2:15pm, 4:00pm, 5:30pm, 6:15pm, 7:15pm, 9:00pm, 10:40pm), Sun 6/12 (10:45am, 11:00am, 12:45pm, 2:15pm, 4:00pm, 5:30pm, 7:15pm), Mon 6/13 (11:00am, 12:15pm, 2:15pm, 3:30pm, 5:30pm, 6:45pm), Tue 6/14 (11:00am, 12:15pm, 2:15pm, 3:30pm, 5:30pm, 6:45pm), Wed 6/15 (11:00am, 12:15pm, 1:00pm, 2:15pm, 3:30pm, 4:45pm, 5:30pm, 7:00pm)
+
+    * [Watcher](https://drafthouse.com/los-angeles/show/watcher): Sat 6/11 (10:45am), Sun 6/12 (3:30pm), Mon 6/13 (4:50pm), Tue 6/14 (5:45pm), Wed 6/15 (4:20pm)
+
 ### Mon 6/6 6:47pm
 * New movies: Space Jam
 
