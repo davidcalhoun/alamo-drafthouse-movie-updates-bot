@@ -1,6 +1,25 @@
 # los-angeles
 
 ## Movie updates
+### Tue 6/7 8:26pm
+
+* New screenings: 
+    * [Bobs Burgers](https://drafthouse.com/los-angeles/show/bobs-burgers): Fri 6/10 (1:00pm)
+
+    * [Crimes Of The Future](https://drafthouse.com/los-angeles/show/crimes-of-the-future): Fri 6/10 (12:45pm)
+
+    * [Doctor Strange In The Multiverse Of Madness](https://drafthouse.com/los-angeles/show/doctor-strange-in-the-multiverse-of-madness): Fri 6/10 (12:00pm)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/los-angeles/show/everything-everywhere-all-at-once): Fri 6/10 (11:15am)
+
+    * [Jurassic World Dominion](https://drafthouse.com/los-angeles/show/jurassic-world-dominion): Fri 6/10 (11:00am, 12:00pm, 1:45pm)
+
+    * [The Adventures Of Priscilla Queen Of The Desert](https://drafthouse.com/los-angeles/show/the-adventures-of-priscilla-queen-of-the-desert): Fri 6/10 (12:25pm)
+
+    * [Top Gun Maverick](https://drafthouse.com/los-angeles/show/top-gun-maverick): Fri 6/10 (12:30pm, 6:30pm)
+
+    * [Watcher](https://drafthouse.com/los-angeles/show/watcher): Fri 6/10 (11:45am)
+
 ### Tue 6/7 12:16pm
 
 * New screenings: 
