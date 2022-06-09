@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 6/9 8:50am
+* New movies: Nope
+
+* New screenings: 
+    * [Nope](https://drafthouse.com/raleigh/show/nope): Thu 7/21 (4:00pm, 7:00pm, 10:35pm), Fri 7/22 (11:50am, 3:25pm, 7:00pm, 10:35pm), Sat 7/23 (11:50am, 3:25pm, 7:00pm, 10:35pm), Sun 7/24 (11:50am, 3:25pm, 7:00pm)
+
 ### Tue 6/7 12:37pm
 * New movies: The Wind Rises Dubbed
 
