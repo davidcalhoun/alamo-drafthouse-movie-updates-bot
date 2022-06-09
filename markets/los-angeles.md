@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 6/9 5:41am
+* New movies: Nope, Nope
+
+* New screenings: 
+    * [Nope](https://drafthouse.com/los-angeles/show/nope): Thu 7/21 (4:00pm, 5:00pm, 7:30pm, 8:30pm, 11:00pm), Fri 7/22 (2:30pm, 3:30pm, 6:00pm, 7:00pm, 9:30pm, 10:30pm), Sat 7/23 (12:00pm, 2:30pm, 3:30pm, 6:00pm, 7:00pm, 9:30pm, 10:30pm), Sun 7/24 (12:00pm, 2:30pm, 3:30pm, 6:00pm, 7:00pm), Mon 7/25 (11:00am, 12:00pm, 2:30pm, 3:30pm, 6:00pm, 7:00pm), Tue 7/26 (11:00am, 12:00pm, 2:30pm, 3:30pm, 6:00pm, 7:00pm), Wed 7/27 (11:00am, 12:00pm, 2:30pm, 3:30pm, 6:00pm, 7:00pm)
+
+    * [Nope Brunch](https://drafthouse.com/los-angeles/show/nope-brunch): Sat 7/23 (11:00am)
+
 ### Tue 6/7 8:26pm
 
 * New screenings: 
