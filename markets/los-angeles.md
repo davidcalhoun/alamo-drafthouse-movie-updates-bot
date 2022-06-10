@@ -1,6 +1,38 @@
 # los-angeles
 
 ## Movie updates
+### Thu 6/9 9:28pm
+* New movies: A League of Their Own, Magic Mike XXL, Legally Blonde, Dick, Flux Gourmet, Grease 2, Legally Blonde, The Dark Crystal, Howl's Moving Castle Dubbed, Santa Sangre, MAD GOD
+
+* New screenings: 
+    * [A League Of Their Own Brunch](https://drafthouse.com/los-angeles/show/a-league-of-their-own-brunch): Sat 7/30 (11:00am), Sun 7/31 (12:15pm)
+
+    * [Advance Screening Marcel The Shell With Shoes On](https://drafthouse.com/los-angeles/show/advance-screening-marcel-the-shell-with-shoes-on): Tue 6/14 (7:45pm)
+
+    * [Brunch Screenings Howls Moving Castle Dubbed Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-howls-moving-castle-dubbed-brunch): Sun 10/30 (11:00am)
+
+    * [Dick Brunch](https://drafthouse.com/los-angeles/show/dick-brunch): Sat 7/2 (12:00pm)
+
+    * [Fantastic Fest Presents Mad God](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-mad-god): Sun 7/3 (7:45pm)
+
+    * [Flux Gourmet](https://drafthouse.com/los-angeles/show/flux-gourmet): Sun 7/10 (3:30pm)
+
+    * [Grease 2 Brunch](https://drafthouse.com/los-angeles/show/grease-2-brunch): Sat 8/20 (11:15am)
+
+    * [Howls Moving Castle Dubbed](https://drafthouse.com/los-angeles/show/howls-moving-castle-dubbed): Sat 10/29 (2:45pm), Sun 10/30 (2:45pm)
+
+    * [Legally Blonde Brunch](https://drafthouse.com/los-angeles/show/legally-blonde-brunch): Sun 7/17 (11:30am)
+
+    * [Legally Blonde Movie Party](https://drafthouse.com/los-angeles/show/legally-blonde-movie-party): Tue 7/19 (7:00pm)
+
+    * [Magic Mike Xxl](https://drafthouse.com/los-angeles/show/magic-mike-xxl): Fri 7/8 (3:30pm), Tue 7/12 (7:30pm)
+
+    * [Perfect Blue](https://drafthouse.com/los-angeles/show/perfect-blue): Mon 7/11 (5:00pm), Wed 7/13 (8:00pm)
+
+    * [Santa Sangre](https://drafthouse.com/los-angeles/show/santa-sangre): Tue 7/5 (8:00pm), Wed 7/6 (8:00pm)
+
+    * [The Dark Crystal Brunch](https://drafthouse.com/los-angeles/show/the-dark-crystal-brunch): Sat 8/6 (11:30am)
+
 ### Thu 6/9 5:41am
 * New movies: Nope, Nope
 
