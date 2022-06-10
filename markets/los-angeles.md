@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 6/10 12:15pm
+* New movies: Flux Gourmet
+
+
+
 ### Thu 6/9 10:17pm
 * New movies: Conan the Barbarian, Koyaanisqatsi, Blade Runner: The Final Cut, Cat People, Drunken Master II, Rocky III, The Best Little Whorehouse in Texas, The Road Warrior, The Slumber Party Massacre
 
