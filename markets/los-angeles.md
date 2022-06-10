@@ -1,6 +1,32 @@
 # los-angeles
 
 ## Movie updates
+### Thu 6/9 10:17pm
+* New movies: Conan the Barbarian, Koyaanisqatsi, Blade Runner: The Final Cut, Cat People, Drunken Master II, Rocky III, The Best Little Whorehouse in Texas, The Road Warrior, The Slumber Party Massacre
+
+* New screenings: 
+    * [Blade Runner The Final Cut](https://drafthouse.com/los-angeles/show/blade-runner-the-final-cut): Wed 8/17 (4:45pm)
+
+    * [Cat People](https://drafthouse.com/los-angeles/show/cat-people): Tue 8/23 (7:45pm)
+
+    * [Conan The Barbarian](https://drafthouse.com/los-angeles/show/conan-the-barbarian): Sat 8/20 (9:30pm), Wed 8/24 (7:45pm)
+
+    * [Fist City Drunken Master Ii](https://drafthouse.com/los-angeles/show/fist-city-drunken-master-ii): Tue 8/30 (4:45pm)
+
+    * [Ganja Hess](https://drafthouse.com/los-angeles/show/ganja-hess): Fri 7/22 (2:45pm)
+
+    * [Koyaanisqatsi](https://drafthouse.com/los-angeles/show/koyaanisqatsi): Fri 8/12 (3:00pm), Wed 8/17 (8:00pm)
+
+    * [Rocky Iii](https://drafthouse.com/los-angeles/show/rocky-iii): Sun 8/7 (7:30pm)
+
+    * [Slumber Party Massacre](https://drafthouse.com/los-angeles/show/slumber-party-massacre): Fri 8/5 (6:45pm)
+
+    * [The Best Little Whorehouse In Texas Brunch](https://drafthouse.com/los-angeles/show/the-best-little-whorehouse-in-texas-brunch): Sat 8/13 (11:15am)
+
+    * [The Road Warrior](https://drafthouse.com/los-angeles/show/the-road-warrior): Fri 8/26 (9:30pm)
+
+    * [The Thing](https://drafthouse.com/los-angeles/show/the-thing): Sat 8/6 (6:30pm)
+
 ### Thu 6/9 9:28pm
 * New movies: A League of Their Own, Magic Mike XXL, Legally Blonde, Dick, Flux Gourmet, Grease 2, Legally Blonde, The Dark Crystal, Howl's Moving Castle Dubbed, Santa Sangre, MAD GOD
 
