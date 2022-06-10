@@ -1,6 +1,28 @@
 # raleigh
 
 ## Movie updates
+### Fri 6/10 4:23pm
+* New movies: Ganja & Hess, A Snake of June, Escape from New York, Fantastic Fest Presents Neptune Frost, Superman 1978, Legally Blonde, THE ADVENTURES OF PRISCILLA, QUEEN OF THE DESERT
+
+* New screenings: 
+    * [A Snake Of June](https://drafthouse.com/raleigh/show/a-snake-of-june): Fri 7/15 (3:30pm)
+
+    * [Escape From New York](https://drafthouse.com/raleigh/show/escape-from-new-york): Mon 7/4 (7:15pm)
+
+    * [Fantastic Fest Presents Neptune Frost](https://drafthouse.com/raleigh/show/fantastic-fest-presents-neptune-frost): Sun 6/26 (3:45pm)
+
+    * [Ganja Hess](https://drafthouse.com/raleigh/show/ganja-hess): Fri 7/22 (3:45pm), Tue 7/26 (7:15pm)
+
+    * [Kids Camp Superman 1978](https://drafthouse.com/raleigh/show/kids-camp-superman-1978): Tue 8/2 (11:00am)
+
+    * [Legally Blonde Brunch](https://drafthouse.com/raleigh/show/legally-blonde-brunch): Sun 7/17 (11:00am)
+
+    * [Magic Mike Xxl](https://drafthouse.com/raleigh/show/magic-mike-xxl): Tue 7/12 (7:00pm)
+
+    * [Perfect Blue](https://drafthouse.com/raleigh/show/perfect-blue): Wed 7/13 (9:30pm)
+
+    * [The Adventures Of Priscilla Queen Of The Desert](https://drafthouse.com/raleigh/show/the-adventures-of-priscilla-queen-of-the-desert): Sun 6/26 (2:00pm)
+
 ### Fri 6/10 10:22am
 * New movies: Sing 2016, PERFECT BLUE
 
