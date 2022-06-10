@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 6/10 3:18pm
+* New movies: RRR #encoRRRe
+
+
+
 ### Fri 6/10 12:15pm
 * New movies: Flux Gourmet
 
