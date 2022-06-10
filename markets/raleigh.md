@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Fri 6/10 10:22am
+* New movies: Sing 2016, PERFECT BLUE
+
+* New screenings: 
+    * [Kids Camp Sing 2016](https://drafthouse.com/raleigh/show/kids-camp-sing-2016): Mon 7/11 (11:00am)
+
+    * [Perfect Blue](https://drafthouse.com/raleigh/show/perfect-blue): Mon 7/11 (7:00pm)
+
 ### Thu 6/9 8:50am
 * New movies: Nope
 
