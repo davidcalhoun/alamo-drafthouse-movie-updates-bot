@@ -1,6 +1,32 @@
 # raleigh
 
 ## Movie updates
+### Fri 6/10 11:47pm
+* New movies: The Thing 1982, They Live, Drunken Master, Annie 1982, Goosebumps, The Croods: A New Age, The NeverEnding Story, Prince of Darkness, Pokemon Detective Pikachu, Cloudy with a Chance of Meatballs, Cloudy with a Chance of Meatballs 2, Annie 1982
+
+* New screenings: 
+    * [Fist City Drunken Master](https://drafthouse.com/raleigh/show/fist-city-drunken-master): Mon 8/29 (7:30pm)
+
+    * [Kids Camp Annie 1982](https://drafthouse.com/raleigh/show/kids-camp-annie-1982): Tue 8/23 (11:00am)
+
+    * [Kids Camp Cloudy With A Chance Of Meatballs](https://drafthouse.com/raleigh/show/kids-camp-cloudy-with-a-chance-of-meatballs): Mon 8/15 (11:00am)
+
+    * [Kids Camp Cloudy With A Chance Of Meatballs 2](https://drafthouse.com/raleigh/show/kids-camp-cloudy-with-a-chance-of-meatballs-2): Mon 8/22 (11:00am)
+
+    * [Kids Camp Goosebumps](https://drafthouse.com/raleigh/show/kids-camp-goosebumps): Mon 8/29 (11:00am)
+
+    * [Kids Camp The Croods A New Age](https://drafthouse.com/raleigh/show/kids-camp-the-croods-a-new-age): Mon 8/8 (11:00am)
+
+    * [Kids Camp The Neverending Story](https://drafthouse.com/raleigh/show/kids-camp-the-neverending-story): Tue 8/30 (11:00am)
+
+    * [Prince Of Darkness](https://drafthouse.com/raleigh/show/prince-of-darkness): Mon 8/15 (7:30pm)
+
+    * [Special Event Pokemon Detective Pikachu Kids Camp](https://drafthouse.com/raleigh/show/special-event-pokemon-detective-pikachu-kids-camp): Tue 8/16 (11:00am)
+
+    * [The Thing](https://drafthouse.com/raleigh/show/the-thing): Sat 8/6 (9:30pm), Mon 8/8 (7:30pm), Tue 8/9 (10:30pm)
+
+    * [They Live](https://drafthouse.com/raleigh/show/they-live): Sat 8/27 (9:30pm), Mon 8/29 (9:30pm), Tue 8/30 (9:30pm)
+
 ### Fri 6/10 4:23pm
 * New movies: Ganja & Hess, A Snake of June, Escape from New York, Fantastic Fest Presents Neptune Frost, Superman 1978, Legally Blonde, THE ADVENTURES OF PRISCILLA, QUEEN OF THE DESERT
 
