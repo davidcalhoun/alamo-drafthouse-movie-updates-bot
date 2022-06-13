@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Mon 6/13 6:42am
+* New movies: Thor: Love and Thunder, Thor: Love and Thunder
+
+* New screenings: 
+    * [Thor Love And Thunder](https://drafthouse.com/los-angeles/show/thor-love-and-thunder): Thu 7/7 (3:00pm, 4:00pm, 6:15pm, 7:15pm, 9:30pm, 10:30pm), Fri 7/8 (11:30am, 12:30pm, 2:45pm, 3:45pm, 6:00pm, 7:00pm, 9:15pm, 10:15pm), Sat 7/9 (12:30pm, 2:45pm, 3:45pm, 6:00pm, 7:00pm, 9:15pm, 10:15pm), Sun 7/10 (12:30pm, 2:45pm, 3:45pm, 6:00pm, 7:00pm), Mon 7/11 (11:45am, 12:30pm, 2:50pm, 3:45pm, 6:00pm, 7:00pm), Tue 7/12 (11:30am, 12:30pm, 2:45pm, 3:45pm, 6:00pm, 7:00pm), Wed 7/13 (11:30am, 12:30pm, 2:45pm, 3:45pm, 6:00pm, 7:00pm)
+
+    * [Thor Love And Thunder Brunch](https://drafthouse.com/los-angeles/show/thor-love-and-thunder-brunch): Sat 7/9 (11:30am), Sun 7/10 (11:30am)
+
 ### Mon 6/13 2:20am
 
 * New screenings: 

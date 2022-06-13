@@ -1,12 +1,6 @@
 # raleigh
 
 ## Movie updates
-### Mon 6/13 9:42am
-* New movies: Thor: Love and Thunder
-
-* New screenings: 
-    * [Thor Love And Thunder](https://drafthouse.com/raleigh/show/thor-love-and-thunder): Thu 7/7 (3:00pm, 6:15pm, 7:15pm, 9:30pm), Fri 7/8 (11:30am, 2:45pm, 3:45pm, 6:00pm, 9:15pm), Sat 7/9 (11:30am, 2:45pm, 3:45pm, 6:00pm, 9:15pm), Sun 7/10 (11:30am, 2:45pm, 3:45pm, 6:00pm)
-
 ### Fri 6/10 11:47pm
 * New movies: The Thing 1982, They Live, Drunken Master, Annie 1982, Goosebumps, The Croods: A New Age, The NeverEnding Story, Prince of Darkness, Pokemon Detective Pikachu, Cloudy with a Chance of Meatballs, Cloudy with a Chance of Meatballs 2, Annie 1982
 
