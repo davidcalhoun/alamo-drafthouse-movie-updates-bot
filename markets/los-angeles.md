@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 6/13 2:20am
+
+* New screenings: 
+    * [Indiana Jones And The Last Crusade](https://drafthouse.com/los-angeles/show/indiana-jones-and-the-last-crusade): Sun 6/19 (3:15pm)
+
 ### Fri 6/10 3:18pm
 * New movies: RRR #encoRRRe
 
