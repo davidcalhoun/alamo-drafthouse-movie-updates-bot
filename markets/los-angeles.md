@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 6/14 1:21pm
+* New movies: Bound
+
+
+
 ### Mon 6/13 11:25pm
 
 * New screenings: 
