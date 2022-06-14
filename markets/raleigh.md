@@ -1,6 +1,38 @@
 # raleigh
 
 ## Movie updates
+### Tue 6/14 12:37pm
+* New movies: Brian and Charles, Cha Cha Real Smooth, RRR #encoRRRe, Block Party
+
+* New screenings: 
+    * [Block Party](https://drafthouse.com/raleigh/show/block-party): Sun 6/19 (5:30pm)
+
+    * [Bobs Burgers](https://drafthouse.com/raleigh/show/bobs-burgers): Thu 6/16 (12:55pm, 4:45pm), Fri 6/17 (11:15am), Sun 6/19 (11:15am), Mon 6/20 (12:00pm), Tue 6/21 (12:40pm), Wed 6/22 (11:30am)
+
+    * [Brian And Charles](https://drafthouse.com/raleigh/show/brian-and-charles): Thu 6/16 (7:45pm, 10:20pm), Fri 6/17 (1:45pm, 5:40pm, 8:15pm, 10:50pm), Sun 6/19 (1:30pm, 4:10pm, 6:15pm), Mon 6/20 (12:50pm, 4:40pm, 8:15pm, 10:55pm), Tue 6/21 (11:55am, 3:10pm, 5:45pm, 8:30pm), Wed 6/22 (11:35am, 2:10pm, 5:45pm, 8:30pm)
+
+    * [Cha Cha Real Smooth](https://drafthouse.com/raleigh/show/cha-cha-real-smooth): Thu 6/16 (7:30pm, 10:25pm), Fri 6/17 (1:40pm, 4:20pm, 7:45pm, 10:35pm), Sun 6/19 (12:40pm, 3:25pm, 6:45pm), Mon 6/20 (11:15am, 2:45pm, 5:45pm, 8:40pm), Tue 6/21 (11:20am, 2:20pm, 5:15pm, 8:15pm), Wed 6/22 (1:20pm, 4:15pm, 8:15pm)
+
+    * [Crimes Of The Future](https://drafthouse.com/raleigh/show/crimes-of-the-future): Thu 6/16 (12:40pm, 10:50pm), Fri 6/17 (10:55pm), Mon 6/20 (10:45pm), Tue 6/21 (10:50pm), Wed 6/22 (10:50pm)
+
+    * [Doctor Strange In The Multiverse Of Madness](https://drafthouse.com/raleigh/show/doctor-strange-in-the-multiverse-of-madness): Thu 6/16 (1:15pm, 3:05pm, 6:15pm, 9:25pm), Fri 6/17 (1:10pm, 4:15pm, 7:15pm, 10:25pm), Sun 6/19 (1:15pm, 4:30pm, 7:45pm), Mon 6/20 (1:25pm, 3:05pm, 6:45pm, 9:55pm), Tue 6/21 (12:45pm, 3:55pm, 7:15pm, 10:25pm), Wed 6/22 (12:10pm, 3:25pm, 7:15pm, 10:25pm)
+
+    * [Downton Abbey A New Era](https://drafthouse.com/raleigh/show/downton-abbey-a-new-era): Thu 6/16 (3:55pm)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/raleigh/show/everything-everywhere-all-at-once): Thu 6/16 (11:45am, 4:25pm, 6:45pm, 10:05pm), Fri 6/17 (11:30am, 2:55pm, 6:45pm, 10:05pm), Sun 6/19 (11:55am, 3:55pm, 7:15pm), Mon 6/20 (11:45am, 3:25pm, 6:15pm, 9:35pm), Tue 6/21 (11:45am, 2:40pm, 6:15pm, 9:40pm), Wed 6/22 (1:15pm, 4:50pm, 6:15pm, 9:40pm)
+
+    * [Fantastic Fest Presents Rrr Encore](https://drafthouse.com/raleigh/show/fantastic-fest-presents-rrr-encore): Fri 6/17 (8:30pm), Sun 6/19 (6:00pm)
+
+    * [Jurassic World Dominion](https://drafthouse.com/raleigh/show/jurassic-world-dominion): Thu 6/16 (12:30pm, 1:00pm, 1:30pm, 4:30pm, 5:00pm, 5:30pm, 7:00pm, 9:15pm, 10:30pm), Fri 6/17 (11:45am, 1:30pm, 2:00pm, 3:15pm, 4:30pm, 5:00pm, 6:15pm, 7:00pm, 9:45pm, 10:30pm), Sun 6/19 (12:30pm, 2:00pm, 3:30pm, 4:00pm, 7:30pm), Mon 6/20 (11:30am, 1:30pm, 2:00pm, 5:00pm, 5:30pm, 6:00pm, 6:30pm, 9:30pm), Tue 6/21 (11:15am, 12:30pm, 2:45pm, 3:00pm, 5:30pm, 6:30pm, 7:00pm, 10:00pm, 10:30pm), Wed 6/22 (11:15am, 1:30pm, 2:15pm, 2:45pm, 3:30pm, 6:30pm, 7:00pm, 10:00pm, 10:30pm)
+
+    * [Lightyear](https://drafthouse.com/raleigh/show/lightyear): Thu 6/16 (3:30pm, 4:00pm, 6:30pm, 8:00pm, 8:30pm, 9:30pm), Fri 6/17 (12:30pm, 1:00pm, 3:30pm, 4:00pm, 7:30pm, 8:00pm, 10:20pm), Sun 6/19 (1:00pm, 5:00pm, 8:00pm), Mon 6/20 (12:30pm, 2:15pm, 3:00pm, 3:30pm, 5:15pm, 7:30pm, 8:30pm, 9:00pm, 10:00pm, 10:30pm), Tue 6/21 (11:00am, 11:30am, 12:00pm, 2:00pm, 2:30pm, 4:00pm, 4:30pm, 5:00pm, 7:30pm, 8:00pm, 9:00pm, 10:20pm), Wed 6/22 (12:00pm, 12:30pm, 1:00pm, 3:00pm, 4:00pm, 5:00pm, 6:00pm, 8:00pm, 9:00pm)
+
+    * [Thor Love And Thunder](https://drafthouse.com/raleigh/show/thor-love-and-thunder): Thu 7/7 (4:30pm, 7:45pm, 11:00pm), Fri 7/8 (1:00pm, 4:15pm, 7:30pm, 10:45pm), Sat 7/9 (1:00pm, 4:15pm, 7:30pm, 10:45pm), Sun 7/10 (1:00pm, 4:15pm, 7:30pm)
+
+    * [Top Gun Maverick](https://drafthouse.com/raleigh/show/top-gun-maverick): Thu 6/16 (11:00am, 12:15pm, 2:15pm, 3:30pm, 7:15pm, 10:35pm), Fri 6/17 (12:55pm, 4:30pm, 6:30pm, 9:50pm), Sun 6/19 (11:30am, 2:45pm, 5:15pm), Mon 6/20 (12:55pm, 4:15pm, 7:15pm, 10:35pm), Tue 6/21 (1:15pm, 3:30pm, 6:00pm, 9:15pm), Wed 6/22 (11:55am, 3:15pm, 6:45pm, 10:05pm)
+
+    * [Watcher](https://drafthouse.com/raleigh/show/watcher): Thu 6/16 (2:00pm)
+
 ### Mon 6/13 10:22am
 * New movies: Thor: Love and Thunder
 
