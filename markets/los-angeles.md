@@ -1,6 +1,25 @@
 # los-angeles
 
 ## Movie updates
+### Mon 6/13 11:25pm
+
+* New screenings: 
+    * [Bobs Burgers](https://drafthouse.com/los-angeles/show/bobs-burgers): Fri 6/17 (11:45am)
+
+    * [Brian And Charles](https://drafthouse.com/los-angeles/show/brian-and-charles): Fri 6/17 (12:20pm)
+
+    * [Cha Cha Real Smooth](https://drafthouse.com/los-angeles/show/cha-cha-real-smooth): Fri 6/17 (1:15pm)
+
+    * [Crimes Of The Future](https://drafthouse.com/los-angeles/show/crimes-of-the-future): Fri 6/17 (1:00pm)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/los-angeles/show/everything-everywhere-all-at-once): Fri 6/17 (11:35am)
+
+    * [Jurassic World Dominion](https://drafthouse.com/los-angeles/show/jurassic-world-dominion): Fri 6/17 (11:45am, 12:20pm, 2:15pm)
+
+    * [Lightyear](https://drafthouse.com/los-angeles/show/lightyear): Fri 6/17 (12:30pm, 1:45pm)
+
+    * [Top Gun Maverick](https://drafthouse.com/los-angeles/show/top-gun-maverick): Fri 6/17 (12:00pm, 12:45pm)
+
 ### Mon 6/13 8:54pm
 * New movies: Brian and Charles, Cha Cha Real Smooth, Block Party, Jurassic World Dominion
 
