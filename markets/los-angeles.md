@@ -1,6 +1,42 @@
 # los-angeles
 
 ## Movie updates
+### Mon 6/13 8:54pm
+* New movies: Brian and Charles, Cha Cha Real Smooth, Block Party, Jurassic World Dominion
+
+* New screenings: 
+    * [Block Party](https://drafthouse.com/los-angeles/show/block-party): Fri 6/17 (6:35pm)
+
+    * [Bobs Burgers](https://drafthouse.com/los-angeles/show/bobs-burgers): Thu 6/16 (2:30pm, 5:15pm, 8:00pm, 10:45pm), Fri 6/17 (2:30pm, 5:15pm, 8:00pm, 10:45pm), Sat 6/18 (11:10am, 2:30pm, 5:15pm, 8:00pm, 10:50pm), Sun 6/19 (11:20am, 2:15pm, 5:00pm, 8:00pm), Mon 6/20 (11:45am, 2:30pm, 5:15pm, 8:00pm), Tue 6/21 (11:30am, 2:15pm, 5:00pm, 7:45pm), Wed 6/22 (11:30am, 2:15pm, 5:00pm, 7:45pm)
+
+    * [Brian And Charles](https://drafthouse.com/los-angeles/show/brian-and-charles): Thu 6/16 (7:15pm, 9:50pm), Fri 6/17 (3:00pm, 6:00pm, 8:45pm), Sat 6/18 (12:20pm, 3:00pm, 6:00pm, 8:45pm), Sun 6/19 (12:15pm, 3:00pm, 6:00pm), Mon 6/20 (12:15pm, 3:00pm, 6:00pm), Tue 6/21 (12:15pm, 3:00pm, 6:00pm), Wed 6/22 (12:30pm, 3:15pm, 6:00pm)
+
+    * [Cha Cha Real Smooth](https://drafthouse.com/los-angeles/show/cha-cha-real-smooth): Thu 6/16 (7:45pm, 10:40pm), Fri 6/17 (4:25pm, 7:30pm, 10:20pm), Sat 6/18 (1:15pm, 4:30pm, 7:30pm, 10:20pm), Sun 6/19 (1:25pm, 4:30pm, 7:30pm), Mon 6/20 (1:15pm, 4:30pm, 7:30pm), Tue 6/21 (1:25pm, 4:30pm, 7:25pm), Wed 6/22 (1:15pm, 4:15pm, 7:15pm)
+
+    * [Crimes Of The Future](https://drafthouse.com/los-angeles/show/crimes-of-the-future): Thu 6/16 (3:45pm, 6:40pm, 9:30pm), Fri 6/17 (4:00pm, 7:00pm, 9:50pm), Sat 6/18 (1:00pm, 4:00pm, 7:00pm, 9:50pm), Sun 6/19 (1:10pm, 4:00pm, 7:00pm), Mon 6/20 (1:10pm, 4:00pm, 7:00pm), Tue 6/21 (1:00pm, 3:50pm, 6:45pm), Wed 6/22 (1:00pm, 3:50pm, 6:45pm)
+
+    * [Doctor Strange In The Multiverse Of Madness](https://drafthouse.com/los-angeles/show/doctor-strange-in-the-multiverse-of-madness): Thu 6/16 (4:00pm)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/los-angeles/show/everything-everywhere-all-at-once): Thu 6/16 (3:10pm, 6:30pm, 10:00pm), Fri 6/17 (2:55pm, 6:15pm, 9:50pm), Sat 6/18 (11:30am, 2:55pm, 6:15pm, 9:50pm), Sun 6/19 (11:25am, 2:50pm, 6:20pm), Mon 6/20 (11:25am, 2:50pm, 6:20pm), Tue 6/21 (11:25am, 2:50pm, 6:20pm), Wed 6/22 (11:40am, 3:00pm, 6:30pm)
+
+    * [Fantastic Fest Presents Rrr Encore](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-rrr-encore): Fri 6/17 (9:15pm), Sat 6/18 (11:50am), Mon 6/20 (2:15pm), Tue 6/21 (3:00pm), Wed 6/22 (12:00pm)
+
+    * [Graveyard Shift Secret Screening 1](https://drafthouse.com/los-angeles/show/graveyard-shift-secret-screening-1): Sat 6/18 (10:30pm)
+
+    * [Jurassic World Dominion](https://drafthouse.com/los-angeles/show/jurassic-world-dominion): Thu 6/16 (2:00pm, 3:15pm, 5:45pm, 6:50pm, 9:15pm, 10:15pm), Fri 6/17 (3:15pm, 5:45pm, 6:45pm, 9:15pm, 10:15pm), Sat 6/18 (11:40am, 2:00pm, 3:15pm, 5:30pm, 6:45pm, 9:00pm, 10:15pm), Sun 6/19 (11:10am, 11:45am, 2:40pm, 3:15pm, 6:10pm, 6:45pm), Mon 6/20 (11:10am, 11:45am, 2:40pm, 3:15pm, 6:10pm, 6:45pm), Tue 6/21 (11:10am, 11:45am, 2:40pm, 3:15pm, 4:15pm, 6:10pm, 7:20pm), Wed 6/22 (11:00am, 11:10am, 2:00pm, 2:40pm, 4:30pm, 6:15pm)
+
+    * [Jurassic World Dominion Brunch](https://drafthouse.com/los-angeles/show/jurassic-world-dominion-brunch): Sat 6/18 (11:00am)
+
+    * [Lightyear](https://drafthouse.com/los-angeles/show/lightyear): Thu 6/16 (4:30pm, 7:30pm, 10:00pm, 10:25pm), Fri 6/17 (7:45pm, 10:40pm), Sat 6/18 (1:45pm, 4:45pm, 6:45pm, 7:45pm, 10:40pm), Sun 6/19 (1:45pm, 4:45pm, 7:45pm), Mon 6/20 (12:30pm, 1:45pm, 3:30pm, 4:55pm, 6:30pm, 7:45pm), Tue 6/21 (12:30pm, 1:15pm, 1:45pm, 3:30pm, 4:40pm, 6:30pm, 7:35pm), Wed 6/22 (11:10am, 1:45pm, 2:30pm, 4:20pm, 4:45pm, 7:45pm)
+
+    * [Lighyear Brunch](https://drafthouse.com/los-angeles/show/lighyear-brunch): Sun 6/19 (12:30pm)
+
+    * [Men](https://drafthouse.com/los-angeles/show/men): Thu 6/16 (3:10pm), Fri 6/17 (3:50pm), Mon 6/20 (2:00pm)
+
+    * [The Birdcage](https://drafthouse.com/los-angeles/show/the-birdcage): Wed 6/22 (1:30pm)
+
+    * [Top Gun Maverick](https://drafthouse.com/los-angeles/show/top-gun-maverick): Thu 6/16 (2:15pm, 4:15pm, 5:30pm, 7:00pm, 8:45pm, 10:15pm), Fri 6/17 (4:00pm, 7:15pm, 10:30pm), Sat 6/18 (11:20am, 12:30pm, 3:45pm, 4:15pm, 7:15pm, 10:30pm), Sun 6/19 (12:45pm, 4:00pm, 6:35pm, 7:15pm), Mon 6/20 (11:00am, 12:45pm, 4:00pm, 4:45pm, 7:15pm), Tue 6/21 (11:45am, 12:45pm, 4:00pm, 7:15pm), Wed 6/22 (12:45pm, 4:00pm, 7:15pm)
+
 ### Mon 6/13 6:42am
 * New movies: Thor: Love and Thunder, Thor: Love and Thunder
 
