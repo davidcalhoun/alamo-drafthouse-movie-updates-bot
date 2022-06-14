@@ -1,6 +1,29 @@
 # raleigh
 
 ## Movie updates
+### Tue 6/14 1:26pm
+
+* New screenings: 
+    * [Bobs Burgers](https://drafthouse.com/raleigh/show/bobs-burgers): Sat 6/18 (11:15am)
+
+    * [Brian And Charles](https://drafthouse.com/raleigh/show/brian-and-charles): Sat 6/18 (1:10pm, 3:05pm, 5:40pm, 8:15pm)
+
+    * [Cha Cha Real Smooth](https://drafthouse.com/raleigh/show/cha-cha-real-smooth): Sat 6/18 (11:10am, 2:05pm, 4:55pm, 7:45pm)
+
+    * [Crimes Of The Future](https://drafthouse.com/raleigh/show/crimes-of-the-future): Sat 6/18 (10:40pm)
+
+    * [Doctor Strange In The Multiverse Of Madness](https://drafthouse.com/raleigh/show/doctor-strange-in-the-multiverse-of-madness): Sat 6/18 (12:10pm, 3:15pm, 7:15pm, 10:25pm)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/raleigh/show/everything-everywhere-all-at-once): Sat 6/18 (11:30am, 2:55pm, 6:15pm, 9:40pm)
+
+    * [Fantastic Fest Presents Rrr Encore](https://drafthouse.com/raleigh/show/fantastic-fest-presents-rrr-encore): Sat 6/18 (8:30pm)
+
+    * [Jurassic World Dominion](https://drafthouse.com/raleigh/show/jurassic-world-dominion): Sat 6/18 (11:00am, 11:45am, 1:00pm, 3:30pm, 3:45pm, 6:30pm, 7:00pm, 8:00pm, 10:00pm, 10:30pm)
+
+    * [Lightyear](https://drafthouse.com/raleigh/show/lightyear): Sat 6/18 (12:30pm, 2:00pm, 2:30pm, 4:30pm, 5:30pm, 7:30pm, 10:20pm), Sun 6/19 (2:15pm)
+
+    * [Top Gun Maverick](https://drafthouse.com/raleigh/show/top-gun-maverick): Sat 6/18 (11:50am, 3:25pm, 6:45pm, 10:05pm)
+
 ### Tue 6/14 12:37pm
 * New movies: Brian and Charles, Cha Cha Real Smooth, RRR #encoRRRe, Block Party
 
