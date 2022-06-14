@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 6/14 4:26pm
+* New movies: Bound
+
+
+
 ### Tue 6/14 1:26pm
 
 * New screenings: 
