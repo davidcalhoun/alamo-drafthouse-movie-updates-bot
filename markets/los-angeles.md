@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 6/14 2:17pm
+
+* New screenings: 
+    * [Jurassic World Dominion](https://drafthouse.com/los-angeles/show/jurassic-world-dominion): Tue 6/14 (6:00pm)
+
 ### Tue 6/14 1:21pm
 * New movies: Bound
 
