@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 6/15 3:20pm
+* New movies: The Slumber Party Massacre
+
+
+
 ### Tue 6/14 3:17pm
 
 * New screenings: 
