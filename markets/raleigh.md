@@ -1,6 +1,18 @@
 # raleigh
 
 ## Movie updates
+### Wed 6/15 12:34pm
+* New movies: Christine, Sing 2, Starman
+
+* New screenings: 
+    * [Graveyard Shift Christine 1983](https://drafthouse.com/raleigh/show/graveyard-shift-christine-1983): Mon 7/18 (8:35pm)
+
+    * [Kids Camp Sing 2](https://drafthouse.com/raleigh/show/kids-camp-sing-2): Mon 7/18 (11:00am)
+
+    * [Starman](https://drafthouse.com/raleigh/show/starman): Wed 7/20 (8:45pm)
+
+    * [Thor Love And Thunder](https://drafthouse.com/raleigh/show/thor-love-and-thunder): Mon 7/11 (12:00pm, 1:00pm, 3:15pm, 4:15pm, 6:30pm, 7:30pm, 8:30pm, 9:45pm, 10:45pm), Tue 7/12 (12:00pm, 1:00pm, 3:15pm, 4:15pm, 6:30pm, 7:30pm, 8:45pm, 9:45pm, 10:45pm), Wed 7/13 (12:00pm, 1:00pm, 3:15pm, 4:15pm, 6:30pm, 7:30pm, 8:45pm, 9:45pm, 10:45pm), Thu 7/14 (12:00pm, 1:00pm, 3:15pm, 4:15pm, 6:30pm, 7:30pm, 8:45pm, 9:45pm, 10:45pm), Fri 7/15 (11:30am, 1:00pm, 2:45pm, 4:15pm, 6:00pm, 7:30pm, 9:15pm, 10:45pm), Sat 7/16 (11:30am, 1:00pm, 2:45pm, 4:15pm, 6:00pm, 7:30pm, 9:15pm, 10:45pm), Sun 7/17 (11:30am, 1:00pm, 2:45pm, 4:15pm, 6:00pm, 7:30pm), Mon 7/18 (12:00pm, 1:00pm, 3:15pm, 4:15pm, 6:30pm, 7:30pm, 9:45pm, 10:45pm), Tue 7/19 (12:00pm, 1:00pm, 3:15pm, 4:15pm, 6:30pm, 7:30pm, 9:45pm, 10:45pm), Wed 7/20 (12:00pm, 1:00pm, 3:15pm, 4:15pm, 6:30pm, 7:30pm, 9:45pm, 10:45pm)
+
 ### Tue 6/14 4:26pm
 * New movies: Bound
 
