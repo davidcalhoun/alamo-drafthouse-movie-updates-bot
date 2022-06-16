@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Thu 6/16 3:17pm
+* New movies: Pulp Fiction, Star Trek II: The Wrath of Khan
+
+* New screenings: 
+    * [Movie Party Pulp Fiction](https://drafthouse.com/raleigh/show/movie-party-pulp-fiction): Sat 7/30 (9:30pm), Tue 8/2 (6:45pm)
+
+    * [Star Trek Ii The Wrath Of Khan](https://drafthouse.com/raleigh/show/star-trek-ii-the-wrath-of-khan): Wed 8/3 (7:15pm)
+
 ### Thu 6/16 1:27pm
 * New movies: Flux Gourmet, Conan the Barbarian, The Slumber Party Massacre, The Slumber Party Massacre
 
