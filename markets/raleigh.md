@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Thu 6/16 1:27pm
+* New movies: Flux Gourmet, Conan the Barbarian, The Slumber Party Massacre, The Slumber Party Massacre
+
+* New screenings: 
+    * [Conan The Barbarian](https://drafthouse.com/raleigh/show/conan-the-barbarian): Wed 8/24 (7:30pm)
+
+    * [Fantastic Fest Presents Flux Gourmet](https://drafthouse.com/raleigh/show/fantastic-fest-presents-flux-gourmet): Sun 7/10 (3:30pm)
+
+    * [Film Club The Slumber Party Massacre](https://drafthouse.com/raleigh/show/film-club-the-slumber-party-massacre): Fri 8/5 (9:30pm)
+
 ### Wed 6/15 12:34pm
 * New movies: Christine, Sing 2, Starman
 
