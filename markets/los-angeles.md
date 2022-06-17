@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 6/17 5:39am
+
+* New screenings: 
+    * [There Will Be Blood](https://drafthouse.com/los-angeles/show/there-will-be-blood): Sun 6/19 (6:10pm)
+
 ### Wed 6/15 3:20pm
 * New movies: The Slumber Party Massacre
 
