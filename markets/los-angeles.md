@@ -1,6 +1,22 @@
 # los-angeles
 
 ## Movie updates
+### Fri 6/17 8:25am
+* New movies: Contamination, Graduation Day, Nightbeast, Samurai Cop, Rude Boy, THINGS TO COME
+
+* New screenings: 
+    * [Contamination](https://drafthouse.com/los-angeles/show/contamination): Tue 8/16 (8:00pm), Wed 8/17 (7:45pm)
+
+    * [Fantastic Fest Presents Rude Boy](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-rude-boy): Mon 7/25 (4:00pm)
+
+    * [Graduation Day](https://drafthouse.com/los-angeles/show/graduation-day): Tue 8/23 (8:00pm), Wed 8/24 (8:00pm)
+
+    * [Nightbeast](https://drafthouse.com/los-angeles/show/nightbeast): Tue 7/26 (8:00pm), Wed 7/27 (8:00pm)
+
+    * [Samurai Cop](https://drafthouse.com/los-angeles/show/samurai-cop): Tue 8/2 (8:00pm), Wed 8/3 (8:00pm)
+
+    * [Things To Come](https://drafthouse.com/los-angeles/show/things-to-come): Tue 7/12 (8:00pm), Wed 7/13 (7:45pm)
+
 ### Fri 6/17 5:39am
 
 * New screenings: 
