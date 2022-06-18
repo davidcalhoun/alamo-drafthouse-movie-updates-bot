@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Sat 6/18 2:28pm
+
+* New screenings: 
+    * [Top Gun Maverick](https://drafthouse.com/raleigh/show/top-gun-maverick): Sat 6/18 (10:20pm), Sun 6/19 (6:15pm), Mon 6/20 (5:30pm)
+
 ### Thu 6/16 3:17pm
 * New movies: Pulp Fiction, Star Trek II: The Wrath of Khan
 
