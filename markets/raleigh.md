@@ -1,6 +1,32 @@
 # raleigh
 
 ## Movie updates
+### Tue 6/21 4:25pm
+* New movies: The Black Phone, RRR #encoRRRe
+
+* New screenings: 
+    * [Brian And Charles](https://drafthouse.com/raleigh/show/brian-and-charles): Fri 6/24 (8:20pm), Sat 6/25 (5:30pm), Sun 6/26 (5:55pm), Mon 6/27 (8:20pm), Tue 6/28 (5:30pm), Wed 6/29 (10:40pm)
+
+    * [Cha Cha Real Smooth](https://drafthouse.com/raleigh/show/cha-cha-real-smooth): Fri 6/24 (10:55pm), Sat 6/25 (8:15pm), Sun 6/26 (8:30pm), Mon 6/27 (10:55pm), Tue 6/28 (10:45pm), Wed 6/29 (7:45pm)
+
+    * [Doctor Strange In The Multiverse Of Madness](https://drafthouse.com/raleigh/show/doctor-strange-in-the-multiverse-of-madness): Fri 6/24 (11:55am, 3:15pm, 6:30pm, 9:40pm), Sat 6/25 (11:45am, 3:55pm, 7:15pm, 10:25pm), Sun 6/26 (1:15pm, 4:00pm, 7:45pm), Mon 6/27 (11:50am, 3:30pm, 6:45pm, 10:20pm), Tue 6/28 (1:15pm, 3:25pm, 7:15pm, 10:25pm), Wed 6/29 (12:25pm, 3:35pm, 6:45pm, 9:55pm)
+
+    * [Elvis](https://drafthouse.com/raleigh/show/elvis): Fri 6/24 (12:45pm, 2:00pm, 2:30pm, 4:30pm, 5:45pm, 9:30pm), Sat 6/25 (12:15pm, 2:30pm, 6:15pm, 10:00pm), Sun 6/26 (12:00pm, 2:15pm, 6:00pm), Mon 6/27 (11:30am, 12:00pm, 1:45pm, 3:15pm, 3:45pm, 6:00pm, 7:00pm, 9:45pm, 9:55pm), Tue 6/28 (12:30pm, 1:30pm, 2:00pm, 2:30pm, 5:15pm, 6:15pm, 9:00pm, 10:00pm), Wed 6/29 (11:00am, 12:30pm, 2:45pm, 4:00pm, 4:30pm, 5:15pm, 6:30pm, 9:00pm, 10:15pm)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/raleigh/show/everything-everywhere-all-at-once): Fri 6/24 (11:20am, 2:40pm, 6:00pm, 9:50pm), Sat 6/25 (12:30pm, 2:55pm, 6:30pm, 9:50pm), Sun 6/26 (11:20am, 2:45pm, 6:15pm), Mon 6/27 (12:10pm, 3:55pm, 7:15pm, 10:40pm), Tue 6/28 (11:15am, 2:40pm, 6:45pm, 10:05pm), Wed 6/29 (11:30am, 2:55pm, 6:15pm, 9:35pm)
+
+    * [Fantastic Fest Presents Rrr Encore](https://drafthouse.com/raleigh/show/fantastic-fest-presents-rrr-encore): Fri 6/24 (8:30pm), Sat 6/25 (8:30pm), Sun 6/26 (5:30pm), Mon 6/27 (9:30pm), Tue 6/28 (8:15pm), Wed 6/29 (8:15pm)
+
+    * [George Michael Freedom Uncut](https://drafthouse.com/raleigh/show/george-michael-freedom-uncut): Fri 6/24 (11:25am), Sat 6/25 (7:30pm), Sun 6/26 (11:50am)
+
+    * [Jurassic World Dominion](https://drafthouse.com/raleigh/show/jurassic-world-dominion): Fri 6/24 (11:15am, 12:30pm, 3:45pm, 7:15pm, 9:25pm, 10:00pm), Sat 6/25 (12:45pm, 1:30pm, 4:30pm, 5:00pm, 5:45pm, 9:20pm), Sun 6/26 (12:30pm, 3:00pm, 7:15pm), Mon 6/27 (12:20pm, 2:15pm, 5:45pm, 8:45pm, 9:15pm), Tue 6/28 (11:30am, 12:00pm, 3:00pm, 3:30pm, 6:00pm, 9:40pm), Wed 6/29 (12:45pm, 1:30pm, 3:30pm, 6:00pm, 9:30pm)
+
+    * [Lightyear](https://drafthouse.com/raleigh/show/lightyear): Fri 6/24 (11:00am, 12:00pm, 2:50pm, 5:40pm, 8:00pm, 10:50pm), Sat 6/25 (11:30am, 12:10pm, 3:05pm, 4:00pm, 8:00pm, 10:50pm), Sun 6/26 (11:15am, 11:40am, 2:30pm, 6:30pm), Mon 6/27 (11:25am, 11:55am, 2:30pm, 5:25pm, 8:00pm, 10:50pm), Tue 6/28 (11:10am, 11:40am, 2:15pm, 5:00pm, 6:30pm, 9:45pm), Wed 6/29 (11:30am, 1:00pm, 2:20pm, 5:00pm, 8:00pm, 10:50pm)
+
+    * [The Black Phone](https://drafthouse.com/raleigh/show/the-black-phone): Fri 6/24 (12:55pm, 4:00pm, 7:00pm, 10:45pm), Sat 6/25 (11:25am, 2:55pm, 7:00pm, 9:50pm), Sun 6/26 (12:15pm, 3:05pm, 5:00pm, 8:00pm), Mon 6/27 (12:50pm, 3:40pm, 6:30pm, 9:20pm), Tue 6/28 (12:35pm, 4:25pm, 8:00pm, 10:50pm), Wed 6/29 (12:40pm, 4:20pm, 7:15pm, 10:10pm)
+
+    * [Top Gun Maverick](https://drafthouse.com/raleigh/show/top-gun-maverick): Fri 6/24 (1:00pm, 1:30pm, 4:15pm, 4:45pm, 7:30pm, 10:45pm), Sat 6/25 (11:40am, 2:15pm, 4:15pm, 6:00pm, 9:15pm, 10:35pm), Sun 6/26 (1:00pm, 4:15pm, 4:30pm, 7:30pm), Mon 6/27 (11:15am, 1:30pm, 2:45pm, 3:00pm, 4:45pm, 5:30pm, 6:15pm, 10:45pm), Tue 6/28 (11:00am, 1:45pm, 4:15pm, 10:30pm), Wed 6/29 (11:45am, 1:15pm, 4:15pm, 7:30pm, 9:40pm, 10:45pm)
+
 ### Tue 6/21 9:47am
 
 * New screenings: 
