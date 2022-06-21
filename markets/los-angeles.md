@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 6/21 7:19am
+* New movies: Happiness of the Katakuris
+
+* New screenings: 
+    * [Happiness Of The Katakuris](https://drafthouse.com/los-angeles/show/happiness-of-the-katakuris): Tue 8/9 (8:00pm), Wed 8/10 (8:00pm)
+
 ### Fri 6/17 8:25am
 * New movies: Contamination, Graduation Day, Nightbeast, Samurai Cop, Rude Boy, THINGS TO COME
 
