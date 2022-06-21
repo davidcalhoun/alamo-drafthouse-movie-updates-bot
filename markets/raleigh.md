@@ -1,6 +1,17 @@
 # raleigh
 
 ## Movie updates
+### Tue 6/21 9:47am
+
+* New screenings: 
+    * [Elvis](https://drafthouse.com/raleigh/show/elvis): Thu 6/23 (6:00pm, 9:45pm), Fri 6/24 (11:15am, 3:00pm), Sat 6/25 (3:00pm)
+
+    * [Elvis Brunch](https://drafthouse.com/raleigh/show/elvis-brunch): Sat 6/25 (11:15am)
+
+    * [Lightyear](https://drafthouse.com/raleigh/show/lightyear): Thu 6/30 (11:00am)
+
+    * [Minions The Rise Of Gru](https://drafthouse.com/raleigh/show/minions-the-rise-of-gru): Tue 7/5 (11:00am, 1:35pm, 4:10pm, 6:45pm, 9:20pm), Wed 7/6 (11:00am, 1:35pm, 4:10pm, 6:45pm, 9:20pm)
+
 ### Sat 6/18 2:28pm
 
 * New screenings: 
