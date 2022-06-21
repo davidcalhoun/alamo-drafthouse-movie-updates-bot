@@ -1,6 +1,31 @@
 # raleigh
 
 ## Movie updates
+### Tue 6/21 5:21pm
+
+* New screenings: 
+    * [Bobs Burgers](https://drafthouse.com/raleigh/show/bobs-burgers): Thu 6/23 (11:10am)
+
+    * [Brian And Charles](https://drafthouse.com/raleigh/show/brian-and-charles): Thu 6/23 (8:20pm)
+
+    * [Cha Cha Real Smooth](https://drafthouse.com/raleigh/show/cha-cha-real-smooth): Thu 6/23 (10:55pm)
+
+    * [Crimes Of The Future](https://drafthouse.com/raleigh/show/crimes-of-the-future): Thu 6/23 (5:10pm)
+
+    * [Doctor Strange In The Multiverse Of Madness](https://drafthouse.com/raleigh/show/doctor-strange-in-the-multiverse-of-madness): Thu 6/23 (12:45pm, 4:00pm, 7:15pm, 10:25pm)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/raleigh/show/everything-everywhere-all-at-once): Thu 6/23 (11:25am, 2:50pm, 6:15pm, 9:40pm)
+
+    * [Fantastic Fest Presents Rrr Encore](https://drafthouse.com/raleigh/show/fantastic-fest-presents-rrr-encore): Thu 6/23 (9:20pm)
+
+    * [Jurassic World Dominion](https://drafthouse.com/raleigh/show/jurassic-world-dominion): Thu 6/23 (11:55am, 1:00pm, 2:30pm, 3:25pm, 5:45pm, 6:45pm, 9:15pm, 10:15pm)
+
+    * [Lightyear](https://drafthouse.com/raleigh/show/lightyear): Thu 6/23 (11:30am, 11:50am, 12:50pm, 2:40pm, 3:40pm, 4:30pm, 6:30pm, 10:20pm)
+
+    * [The Black Phone](https://drafthouse.com/raleigh/show/the-black-phone): Thu 6/23 (5:30pm, 8:00pm, 10:50pm)
+
+    * [Top Gun Maverick](https://drafthouse.com/raleigh/show/top-gun-maverick): Thu 6/23 (11:10am, 12:15pm, 1:55pm, 2:25pm, 3:30pm, 7:00pm, 7:30pm, 10:45pm)
+
 ### Tue 6/21 4:25pm
 * New movies: The Black Phone, RRR #encoRRRe
 
