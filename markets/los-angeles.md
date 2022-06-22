@@ -1,6 +1,40 @@
 # los-angeles
 
 ## Movie updates
+### Wed 6/22 9:30am
+* New movies: The Black Phone, Official Competition
+
+* New screenings: 
+    * [Bobs Burgers](https://drafthouse.com/los-angeles/show/bobs-burgers): Thu 6/23 (3:15pm, 7:45pm), Fri 6/24 (11:00am, 7:30pm), Sat 6/25 (11:00am, 7:45pm), Sun 6/26 (11:15am, 7:30pm), Mon 6/27 (11:15am, 7:30pm), Tue 6/28 (11:15am, 7:30pm), Wed 6/29 (11:15am, 7:30pm)
+
+    * [Brian And Charles](https://drafthouse.com/los-angeles/show/brian-and-charles): Thu 6/23 (3:00pm), Fri 6/24 (11:45am), Sat 6/25 (11:45am), Sun 6/26 (11:45am), Mon 6/27 (11:45am), Tue 6/28 (11:45am), Wed 6/29 (11:40am)
+
+    * [Brunch Screenings Ponyo Dubbed](https://drafthouse.com/los-angeles/show/brunch-screenings-ponyo-dubbed): Sat 6/25 (12:50pm)
+
+    * [Cha Cha Real Smooth](https://drafthouse.com/los-angeles/show/cha-cha-real-smooth): Thu 6/23 (4:25pm), Fri 6/24 (4:15pm, 10:15pm), Sat 6/25 (4:45pm, 10:40pm), Sun 6/26 (4:15pm), Mon 6/27 (4:15pm), Tue 6/28 (4:15pm), Wed 6/29 (4:15pm)
+
+    * [Crimes Of The Future](https://drafthouse.com/los-angeles/show/crimes-of-the-future): Thu 6/23 (4:15pm, 7:15pm, 10:35pm), Fri 6/24 (12:45pm, 4:50pm, 7:45pm, 11:00pm), Sat 6/25 (1:15pm, 4:20pm, 7:25pm, 10:30pm), Sun 6/26 (1:25pm, 4:45pm, 7:45pm), Mon 6/27 (1:30pm, 4:45pm, 7:45pm), Tue 6/28 (1:30pm, 4:45pm, 7:45pm), Wed 6/29 (1:00pm, 5:00pm, 7:50pm)
+
+    * [Elvis](https://drafthouse.com/los-angeles/show/elvis): Thu 6/23 (6:15pm, 7:30pm, 9:30pm, 10:00pm), Fri 6/24 (11:30am, 12:30pm, 1:45pm, 5:30pm, 9:15pm), Sat 6/25 (1:00pm, 1:45pm, 2:15pm, 5:30pm, 9:30pm, 9:45pm), Sun 6/26 (12:30pm, 2:00pm, 5:45pm), Mon 6/27 (12:30pm, 2:00pm, 5:45pm), Tue 6/28 (12:30pm, 2:00pm, 5:45pm), Wed 6/29 (11:00am, 12:30pm, 1:15pm, 2:00pm, 2:45pm, 7:00pm)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/los-angeles/show/everything-everywhere-all-at-once): Thu 6/23 (2:45pm, 6:10pm), Fri 6/24 (2:30pm, 6:15pm), Sat 6/25 (2:30pm, 6:25pm), Sun 6/26 (2:30pm, 6:10pm), Mon 6/27 (2:30pm, 6:15pm), Tue 6/28 (2:30pm, 6:15pm), Wed 6/29 (2:15pm, 5:45pm)
+
+    * [Fantastic Fest Presents Neptune Frost](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-neptune-frost): Fri 6/24 (2:00pm, 9:40pm), Sat 6/25 (6:40pm), Mon 6/27 (5:00pm), Tue 6/28 (8:15pm)
+
+    * [Fantastic Fest Presents Rrr Encore](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-rrr-encore): Thu 6/23 (3:20pm), Sun 6/26 (5:35pm), Mon 6/27 (3:15pm), Tue 6/28 (12:45pm)
+
+    * [George Michael Freedom Uncut](https://drafthouse.com/los-angeles/show/george-michael-freedom-uncut): Fri 6/24 (8:30pm), Sat 6/25 (3:35pm)
+
+    * [Jurassic World Dominion](https://drafthouse.com/los-angeles/show/jurassic-world-dominion): Thu 6/23 (2:30pm, 3:30pm, 6:00pm, 9:30pm), Fri 6/24 (11:15am, 2:45pm, 6:15pm, 10:15pm), Sat 6/25 (11:15am, 2:45pm, 6:15pm, 10:00pm), Sun 6/26 (11:15am, 3:00pm, 6:45pm), Mon 6/27 (11:15am, 2:45pm, 6:30pm), Tue 6/28 (11:15am, 2:45pm, 6:30pm), Wed 6/29 (11:15am, 2:45pm, 6:30pm)
+
+    * [Lightyear](https://drafthouse.com/los-angeles/show/lightyear): Thu 6/23 (2:10pm, 3:45pm, 6:45pm, 9:45pm), Fri 6/24 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 6/25 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sun 6/26 (12:00pm, 2:50pm, 6:00pm), Mon 6/27 (12:00pm, 3:00pm, 6:00pm), Tue 6/28 (12:00pm, 3:00pm, 6:00pm), Wed 6/29 (11:30am, 12:00pm, 3:00pm, 6:00pm)
+
+    * [Official Competition](https://drafthouse.com/los-angeles/show/official-competition): Thu 6/23 (7:00pm, 10:20pm), Fri 6/24 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Sat 6/25 (12:15pm, 3:45pm, 6:45pm, 10:00pm), Sun 6/26 (12:15pm, 3:30pm, 6:45pm), Mon 6/27 (12:15pm, 3:30pm, 6:45pm), Tue 6/28 (12:15pm, 3:30pm, 6:45pm), Wed 6/29 (12:15pm, 3:30pm, 6:45pm)
+
+    * [The Black Phone](https://drafthouse.com/los-angeles/show/the-black-phone): Thu 6/23 (5:00pm, 5:45pm, 8:00pm, 8:30pm, 10:10pm, 10:45pm), Fri 6/24 (1:20pm, 3:45pm, 4:30pm, 5:45pm, 7:30pm, 9:50pm, 10:30pm), Sat 6/25 (12:30pm, 3:15pm, 6:00pm, 9:00pm, 10:15pm, 11:00pm), Sun 6/26 (12:50pm, 1:40pm, 4:30pm, 7:45pm), Mon 6/27 (12:15pm, 1:15pm, 2:15pm, 4:20pm, 7:20pm), Tue 6/28 (1:15pm, 2:45pm, 4:20pm, 5:30pm, 7:20pm), Wed 6/29 (1:15pm, 2:30pm, 4:20pm, 5:15pm, 7:20pm)
+
+    * [Top Gun Maverick](https://drafthouse.com/los-angeles/show/top-gun-maverick): Thu 6/23 (3:10pm, 6:30pm, 10:00pm), Fri 6/24 (12:15pm, 3:30pm, 7:15pm, 10:45pm), Sat 6/25 (12:15pm, 3:30pm, 7:15pm, 10:45pm), Sun 6/26 (12:40pm, 4:00pm, 7:15pm), Mon 6/27 (12:30pm, 3:50pm, 7:10pm), Tue 6/28 (11:30am, 12:30pm, 3:50pm, 7:10pm), Wed 6/29 (12:30pm, 3:50pm, 7:10pm)
+
 ### Tue 6/21 7:19am
 * New movies: Happiness of the Katakuris
 
