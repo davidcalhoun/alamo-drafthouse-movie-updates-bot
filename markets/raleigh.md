@@ -1,6 +1,15 @@
 # raleigh
 
 ## Movie updates
+### Tue 6/21 10:25pm
+
+* New screenings: 
+    * [Elvis](https://drafthouse.com/raleigh/show/elvis): Fri 6/24 (11:15am)
+
+    * [Lightyear](https://drafthouse.com/raleigh/show/lightyear): Fri 6/24 (11:30am)
+
+    * [Top Gun Maverick](https://drafthouse.com/raleigh/show/top-gun-maverick): Sun 6/26 (11:45am)
+
 ### Tue 6/21 5:21pm
 
 * New screenings: 
