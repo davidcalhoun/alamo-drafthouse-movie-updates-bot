@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Wed 6/22 1:20pm
+
+* New screenings: 
+    * [Thor Love And Thunder](https://drafthouse.com/los-angeles/show/thor-love-and-thunder): Thu 7/7 (3:30pm, 6:45pm, 10:00pm), Fri 7/8 (11:00am, 2:15pm, 5:30pm, 8:45pm), Sat 7/9 (2:15pm, 5:30pm, 8:45pm), Sun 7/10 (2:15pm, 5:30pm)
+
+    * [Thor Love And Thunder Brunch](https://drafthouse.com/los-angeles/show/thor-love-and-thunder-brunch): Sat 7/9 (11:00am), Sun 7/10 (11:00am)
+
 ### Wed 6/22 9:30am
 * New movies: The Black Phone, Official Competition
 
