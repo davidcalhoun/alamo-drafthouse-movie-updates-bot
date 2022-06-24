@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 6/23 8:44pm
+* New movies: Halloween III: Season of the Witch
+
+* New screenings: 
+    * [Graveyard Shift Halloween Iii Season Of The Witch](https://drafthouse.com/los-angeles/show/graveyard-shift-halloween-iii-season-of-the-witch): Fri 8/19 (9:30pm), Mon 8/22 (7:45pm)
+
 ### Wed 6/22 1:20pm
 
 * New screenings: 
