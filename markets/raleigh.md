@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 6/24 12:01am
+* New movies: Halloween III: Season of the Witch
+
+* New screenings: 
+    * [Graveyard Shift Halloween Iii Season Of The Witch](https://drafthouse.com/raleigh/show/graveyard-shift-halloween-iii-season-of-the-witch): Mon 8/22 (7:30pm)
+
 ### Tue 6/21 10:25pm
 
 * New screenings: 
