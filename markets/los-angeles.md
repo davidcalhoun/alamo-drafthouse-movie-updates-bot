@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Sun 6/26 11:22am
+* New movies: The Lost Record, This Is GWAR, This Is GWAR
+
+* New screenings: 
+    * [Fantastic Fest Presents This Is Gwar](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-this-is-gwar): Mon 7/18 (9:30pm)
+
+    * [The Lost Record](https://drafthouse.com/los-angeles/show/the-lost-record): Tue 7/19 (8:00pm)
+
 ### Thu 6/23 8:44pm
 * New movies: Halloween III: Season of the Witch
 
