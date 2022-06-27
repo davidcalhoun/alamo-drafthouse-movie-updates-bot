@@ -1,6 +1,54 @@
 # los-angeles
 
 ## Movie updates
+### Mon 6/27 1:20pm
+* New movies: Mr. Malcolm's List
+
+* New screenings: 
+    * [Bobs Burgers](https://drafthouse.com/los-angeles/show/bobs-burgers): Thu 6/30 (5:00pm)
+
+    * [Brian And Charles](https://drafthouse.com/los-angeles/show/brian-and-charles): Thu 6/30 (3:00pm)
+
+    * [Cha Cha Real Smooth](https://drafthouse.com/los-angeles/show/cha-cha-real-smooth): Thu 6/30 (2:00pm)
+
+    * [Crimes Of The Future](https://drafthouse.com/los-angeles/show/crimes-of-the-future): Thu 6/30 (1:50pm, 7:30pm), Fri 7/1 (10:45am, 7:30pm), Sat 7/2 (10:45am, 7:30pm), Sun 7/3 (11:15am, 8:00pm), Mon 7/4 (11:10am, 7:30pm), Tue 7/5 (11:10am, 7:30pm), Wed 7/6 (11:10am, 7:30pm)
+
+    * [Elvis](https://drafthouse.com/los-angeles/show/elvis): Thu 6/30 (1:45pm, 2:30pm, 5:30pm, 6:30pm, 9:30pm, 10:30pm), Fri 7/1 (11:00am, 12:15pm, 1:45pm, 2:45pm, 5:45pm, 6:30pm, 9:30pm, 10:15pm), Sat 7/2 (12:15pm, 1:45pm, 2:45pm, 5:45pm, 6:30pm, 9:30pm, 10:15pm), Sun 7/3 (12:20pm, 2:15pm, 3:15pm, 6:00pm, 7:15pm), Mon 7/4 (11:00am, 12:15pm, 2:00pm, 2:45pm, 5:45pm, 6:45pm), Tue 7/5 (11:00am, 12:15pm, 2:00pm, 2:45pm, 5:45pm, 6:45pm), Wed 7/6 (10:45am, 12:15pm, 2:00pm, 3:00pm, 5:45pm, 6:30pm)
+
+    * [Elvis Brunch](https://drafthouse.com/los-angeles/show/elvis-brunch): Sat 7/2 (11:00am), Sun 7/3 (11:30am)
+
+    * [Escape From L A](https://drafthouse.com/los-angeles/show/escape-from-l-a): Tue 7/5 (12:00pm), Wed 7/6 (12:15pm)
+
+    * [Escape From New York](https://drafthouse.com/los-angeles/show/escape-from-new-york): Mon 7/4 (6:00pm), Tue 7/5 (5:15pm)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/los-angeles/show/everything-everywhere-all-at-once): Thu 6/30 (3:45pm, 10:45pm), Fri 7/1 (4:00pm, 10:25pm), Sat 7/2 (4:00pm, 10:30pm), Sun 7/3 (4:10pm, 7:30pm), Mon 7/4 (4:00pm), Tue 7/5 (4:00pm), Wed 7/6 (4:00pm)
+
+    * [Fantastic Fest Presents Mad God](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-mad-god): Fri 7/1 (7:40pm, 10:10pm), Sat 7/2 (7:45pm, 10:15pm), Mon 7/4 (2:20pm, 7:30pm), Tue 7/5 (2:45pm, 7:30pm), Wed 7/6 (5:30pm, 7:30pm)
+
+    * [Fantastic Fest Presents Neptune Frost](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-neptune-frost): Thu 6/30 (8:45pm), Fri 7/1 (5:30pm), Sat 7/2 (9:15pm), Sun 7/3 (4:40pm), Tue 7/5 (6:00pm)
+
+    * [Fantastic Fest Presents Rrr Encore](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-rrr-encore): Thu 6/30 (4:45pm), Fri 7/1 (11:00am), Sat 7/2 (8:45pm), Sun 7/3 (12:30pm), Wed 7/6 (1:15pm)
+
+    * [Fist City Fist Of Fury](https://drafthouse.com/los-angeles/show/fist-city-fist-of-fury): Thu 6/30 (9:15pm)
+
+    * [Jurassic World Dominion](https://drafthouse.com/los-angeles/show/jurassic-world-dominion): Thu 6/30 (3:00pm, 6:45pm, 10:15pm), Fri 7/1 (11:15am, 3:15pm, 6:45pm, 10:20pm), Sat 7/2 (11:15am, 3:15pm, 6:45pm, 10:15pm), Sun 7/3 (12:00pm, 3:45pm, 7:30pm), Mon 7/4 (11:20am, 3:00pm, 6:30pm), Tue 7/5 (11:20am, 3:00pm, 6:30pm), Wed 7/6 (11:20am, 3:00pm, 6:30pm)
+
+    * [Kids Camp Pee Wees Big Adventure](https://drafthouse.com/los-angeles/show/kids-camp-pee-wees-big-adventure): Mon 7/4 (11:45am), Tue 7/5 (11:45am)
+
+    * [Lightyear](https://drafthouse.com/los-angeles/show/lightyear): Thu 6/30 (2:45pm, 6:00pm, 9:00pm), Fri 7/1 (11:45am, 3:00pm, 6:10pm, 9:00pm), Sat 7/2 (11:45am, 3:00pm, 6:10pm, 9:00pm), Sun 7/3 (12:10pm, 3:30pm, 6:45pm), Mon 7/4 (12:00pm, 3:15pm, 6:15pm), Tue 7/5 (12:00pm, 3:15pm, 6:15pm), Wed 7/6 (11:45am, 2:30pm, 6:45pm)
+
+    * [Minions The Rise Of Gru](https://drafthouse.com/los-angeles/show/minions-the-rise-of-gru): Fri 7/1 (10:45am, 11:30am), Sat 7/2 (10:45am, 3:10pm), Sun 7/3 (12:45pm), Wed 7/6 (4:30pm, 7:00pm)
+
+    * [Mr Malcolms List](https://drafthouse.com/los-angeles/show/mr-malcolms-list): Thu 6/30 (7:15pm, 10:15pm), Fri 7/1 (11:30am, 2:30pm, 6:00pm, 9:00pm), Sat 7/2 (11:30am, 2:30pm, 6:00pm, 9:00pm), Sun 7/3 (11:45am, 2:45pm, 6:10pm), Mon 7/4 (11:30am, 2:30pm, 6:00pm), Tue 7/5 (11:30am, 2:30pm, 6:00pm), Wed 7/6 (11:30am, 2:30pm, 6:00pm)
+
+    * [Official Competition](https://drafthouse.com/los-angeles/show/official-competition): Thu 6/30 (4:00pm, 5:45pm), Fri 7/1 (1:00pm, 4:15pm), Sat 7/2 (1:00pm, 4:15pm), Sun 7/3 (1:15pm, 4:45pm), Mon 7/4 (1:00pm, 4:15pm), Tue 7/5 (1:00pm, 4:15pm), Wed 7/6 (1:00pm, 4:15pm)
+
+    * [The Black Phone](https://drafthouse.com/los-angeles/show/the-black-phone): Thu 6/30 (2:15pm, 5:15pm, 8:00pm, 10:50pm), Fri 7/1 (11:15am, 2:15pm, 5:15pm, 7:15pm, 8:15pm, 10:00pm), Sat 7/2 (11:15am, 2:15pm, 5:15pm, 8:00pm, 11:00pm), Sun 7/3 (11:00am, 1:45pm, 3:15pm, 6:30pm), Mon 7/4 (11:00am, 2:10pm, 5:00pm, 7:45pm), Tue 7/5 (11:00am, 2:10pm, 5:00pm, 7:45pm), Wed 7/6 (11:00am, 1:45pm, 4:45pm, 7:45pm)
+
+    * [The Handmaiden](https://drafthouse.com/los-angeles/show/the-handmaiden): Fri 7/1 (8:30pm), Sat 7/2 (5:00pm), Sun 7/3 (7:40pm)
+
+    * [Top Gun Maverick](https://drafthouse.com/los-angeles/show/top-gun-maverick): Thu 6/30 (2:45pm, 6:15pm, 8:15pm, 9:45pm), Fri 7/1 (12:30pm, 1:45pm, 3:45pm, 7:15pm, 10:30pm), Sat 7/2 (12:30pm, 1:45pm, 3:45pm, 5:45pm, 7:15pm, 10:30pm), Sun 7/3 (1:00pm, 4:20pm, 7:50pm), Mon 7/4 (12:30pm, 2:30pm, 3:45pm, 7:15pm), Tue 7/5 (12:30pm, 2:30pm, 3:45pm, 7:15pm), Wed 7/6 (12:30pm, 3:00pm, 3:45pm, 7:15pm)
+
 ### Sun 6/26 11:22am
 * New movies: The Lost Record, This Is GWAR, This Is GWAR
 
