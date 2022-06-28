@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Tue 6/28 4:19pm
+* New movies: Ringu, Class of 1984, Grease 2
+
+* New screenings: 
+    * [Class Of 1984](https://drafthouse.com/los-angeles/show/class-of-1984): Sun 8/28 (7:30pm)
+
+    * [Movie Party Grease 2](https://drafthouse.com/los-angeles/show/movie-party-grease-2): Fri 8/19 (7:30pm), Sun 8/21 (11:15am)
+
+    * [Ringu](https://drafthouse.com/los-angeles/show/ringu): Tue 7/19 (7:45pm), Wed 7/20 (8:00pm)
+
 ### Mon 6/27 1:20pm
 * New movies: Mr. Malcolm's List
 
