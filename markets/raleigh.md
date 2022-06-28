@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 6/28 12:41pm
+
+* New screenings: 
+    * [The Black Phone](https://drafthouse.com/raleigh/show/the-black-phone): Sat 7/2 (9:30pm)
+
 ### Mon 6/27 10:22pm
 * New movies: Mr. Malcolm's List, Mad God, UFC 276: Adesanya vs. Cannonier
 
