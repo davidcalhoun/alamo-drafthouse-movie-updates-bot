@@ -1,6 +1,38 @@
 # raleigh
 
 ## Movie updates
+### Mon 6/27 10:22pm
+* New movies: Mr. Malcolm's List, Mad God, UFC 276: Adesanya vs. Cannonier
+
+* New screenings: 
+    * [Brian And Charles](https://drafthouse.com/raleigh/show/brian-and-charles): Thu 6/30 (10:20pm)
+
+    * [Cha Cha Real Smooth](https://drafthouse.com/raleigh/show/cha-cha-real-smooth): Thu 6/30 (11:25am)
+
+    * [Doctor Strange In The Multiverse Of Madness](https://drafthouse.com/raleigh/show/doctor-strange-in-the-multiverse-of-madness): Thu 6/30 (11:15am)
+
+    * [Elvis](https://drafthouse.com/raleigh/show/elvis): Thu 6/30 (12:15pm, 12:45pm, 2:15pm, 3:45pm, 4:15pm, 6:00pm, 9:45pm), Fri 7/1 (12:00pm, 1:00pm, 3:45pm, 4:45pm, 5:15pm, 7:00pm, 7:45pm, 9:00pm), Sat 7/2 (11:00am, 12:30pm, 1:15pm, 2:45pm, 5:45pm, 6:30pm, 8:15pm, 10:15pm), Sun 7/3 (12:15pm, 2:45pm, 4:00pm, 6:45pm, 7:30pm), Mon 7/4 (12:15pm, 1:15pm, 3:15pm, 4:00pm, 6:00pm, 7:45pm, 9:45pm), Tue 7/5 (11:45am, 12:15pm, 3:30pm, 4:00pm, 6:00pm, 6:15pm), Wed 7/6 (3:30pm, 4:00pm, 6:15pm, 7:45pm, 10:00pm)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/raleigh/show/everything-everywhere-all-at-once): Thu 6/30 (7:00pm), Fri 7/1 (8:30pm), Sat 7/2 (8:30pm), Sun 7/3 (5:45pm), Mon 7/4 (5:00pm), Tue 7/5 (5:45pm), Wed 7/6 (6:30pm)
+
+    * [Fantastic Fest Presents Mad God](https://drafthouse.com/raleigh/show/fantastic-fest-presents-mad-god): Fri 7/1 (10:45pm), Sat 7/2 (9:40pm), Sun 7/3 (8:15pm), Tue 7/5 (3:15pm), Wed 7/6 (9:55pm)
+
+    * [Jurassic World Dominion](https://drafthouse.com/raleigh/show/jurassic-world-dominion): Thu 6/30 (12:40pm, 2:45pm, 6:15pm, 9:50pm), Fri 7/1 (11:30am, 3:00pm, 6:30pm, 10:20pm), Sat 7/2 (11:10am, 2:40pm, 6:15pm, 9:55pm), Sun 7/3 (12:00pm, 3:30pm, 7:00pm), Mon 7/4 (1:00pm, 4:30pm, 7:00pm, 10:30pm), Tue 7/5 (1:00pm, 3:30pm, 7:15pm), Wed 7/6 (2:55pm, 7:00pm, 10:40pm)
+
+    * [Lightyear](https://drafthouse.com/raleigh/show/lightyear): Thu 6/30 (12:00pm, 12:50pm, 3:40pm, 6:30pm, 9:20pm), Fri 7/1 (11:10am, 3:10pm, 6:00pm, 8:50pm), Sat 7/2 (11:30am, 2:30pm, 5:30pm, 6:45pm), Sun 7/3 (1:15pm, 4:15pm, 7:15pm), Mon 7/4 (12:50pm, 2:30pm, 5:25pm, 8:15pm), Tue 7/5 (11:25am, 3:10pm, 6:30pm), Wed 7/6 (4:40pm, 7:30pm, 10:20pm)
+
+    * [Minions The Rise Of Gru](https://drafthouse.com/raleigh/show/minions-the-rise-of-gru): Thu 6/30 (3:00pm, 4:00pm, 5:40pm, 7:45pm, 8:15pm, 10:15pm, 10:45pm), Fri 7/1 (11:45am, 12:30pm, 2:00pm, 2:30pm), Sat 7/2 (12:00pm, 12:45pm, 3:15pm, 9:45pm), Sun 7/3 (11:45am, 12:30pm, 2:30pm, 5:15pm), Mon 7/4 (12:00pm), Tue 7/5 (12:45pm, 3:45pm), Wed 7/6 (2:15pm, 2:45pm, 3:15pm)
+
+    * [Mr Malcolms List](https://drafthouse.com/raleigh/show/mr-malcolms-list): Thu 6/30 (7:30pm, 10:30pm), Fri 7/1 (11:15am, 3:15pm, 6:15pm, 9:15pm), Sat 7/2 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Sun 7/3 (12:15pm, 3:15pm, 6:15pm), Mon 7/4 (1:30pm, 3:30pm, 6:30pm, 9:30pm), Tue 7/5 (12:40pm, 4:30pm, 7:30pm), Wed 7/6 (3:55pm, 6:00pm, 9:00pm)
+
+    * [The Black Phone](https://drafthouse.com/raleigh/show/the-black-phone): Thu 6/30 (1:15pm, 4:10pm, 8:00pm, 10:50pm), Fri 7/1 (12:40pm, 2:15pm, 5:10pm, 7:30pm, 8:00pm, 10:00pm, 10:55pm), Sat 7/2 (1:10pm, 4:00pm, 7:00pm, 7:45pm, 10:40pm), Sun 7/3 (11:55am, 1:45pm, 4:40pm, 6:30pm, 8:00pm), Mon 7/4 (12:40pm, 4:40pm, 7:30pm, 8:00pm, 10:20pm, 10:55pm), Tue 7/5 (11:10am, 12:20pm, 2:25pm, 5:15pm, 7:00pm), Wed 7/6 (2:20pm, 5:10pm, 5:30pm, 8:00pm, 8:30pm, 10:50pm)
+
+    * [The Handmaiden](https://drafthouse.com/raleigh/show/the-handmaiden): Sat 7/2 (4:15pm), Sun 7/3 (4:45pm), Mon 7/4 (3:45pm), Tue 7/5 (2:00pm)
+
+    * [Top Gun Maverick](https://drafthouse.com/raleigh/show/top-gun-maverick): Thu 6/30 (11:30am, 12:30pm, 2:30pm, 4:30pm, 5:45pm, 6:45pm, 9:00pm, 10:00pm), Fri 7/1 (11:55am, 12:45pm, 4:00pm, 4:30pm, 7:15pm, 10:30pm), Sat 7/2 (12:15pm, 2:45pm, 3:30pm, 5:00pm, 6:00pm, 9:15pm, 9:30pm), Sun 7/3 (11:30am, 1:30pm, 2:45pm, 6:00pm), Mon 7/4 (11:30am, 12:00pm, 2:20pm, 2:45pm, 5:40pm, 8:30pm, 9:00pm), Tue 7/5 (11:45am, 12:10pm, 3:00pm, 5:30pm, 7:45pm), Wed 7/6 (3:00pm, 5:00pm, 7:15pm, 8:15pm, 10:30pm)
+
+    * [Ufc 276 Adesanya Vs Cannonier](https://drafthouse.com/raleigh/show/ufc-276-adesanya-vs-cannonier): Sat 7/2 (10:00pm)
+
 ### Fri 6/24 12:01am
 * New movies: Halloween III: Season of the Witch
 
