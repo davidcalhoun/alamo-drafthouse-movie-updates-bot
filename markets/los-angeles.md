@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 6/28 7:01pm
+* New movies: The Slumber Party Massacre
+
+
+
 ### Tue 6/28 4:19pm
 * New movies: Ringu, Class of 1984, Grease 2
 
