@@ -1,6 +1,28 @@
 # raleigh
 
 ## Movie updates
+### Wed 6/29 2:34pm
+* New movies: Spirited Away Dubbed, Class of 1984, Drunken Master II, Once Upon a Time in China, Hotel Transylvania 4: Transformania, The Boss Baby: Family Business, Superman 1978, Once Upon a Time in China
+
+* New screenings: 
+    * [Blade Runner The Final Cut](https://drafthouse.com/raleigh/show/blade-runner-the-final-cut): Fri 8/12 (9:30pm)
+
+    * [Class Of 1984](https://drafthouse.com/raleigh/show/class-of-1984): Sun 8/28 (7:30pm)
+
+    * [Fist City Drunken Master Ii](https://drafthouse.com/raleigh/show/fist-city-drunken-master-ii): Tue 8/30 (7:30pm)
+
+    * [Fist City Once Upon A Time In China](https://drafthouse.com/raleigh/show/fist-city-once-upon-a-time-in-china): Mon 8/1 (7:00pm)
+
+    * [Graveyard Shift Christine 1983](https://drafthouse.com/raleigh/show/graveyard-shift-christine-1983): Mon 7/18 (7:15pm)
+
+    * [Kids Camp Hotel Transylvania 4 Transformania](https://drafthouse.com/raleigh/show/kids-camp-hotel-transylvania-4-transformania): Mon 8/1 (11:00am)
+
+    * [Kids Camp The Boss Baby Family Business](https://drafthouse.com/raleigh/show/kids-camp-the-boss-baby-family-business): Mon 7/25 (11:00am)
+
+    * [Spirited Away Dubbed](https://drafthouse.com/raleigh/show/spirited-away-dubbed): Sat 8/27 (3:30pm), Sun 8/28 (2:15pm)
+
+    * [Superman 1978](https://drafthouse.com/raleigh/show/superman-1978): Sun 7/31 (2:45pm)
+
 ### Wed 6/29 1:48pm
 * New movies: Legally Blonde, The Best Little Whorehouse in Texas, The Dark Crystal, A League of Their Own, Blade Runner: The Final Cut, Cat People, Rude Boy, Koyaanisqatsi, Rocky III, The Dark Crystal, This Is GWAR, This Is GWAR
 
