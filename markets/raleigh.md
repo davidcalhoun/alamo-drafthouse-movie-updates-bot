@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 6/28 10:27pm
+* New movies: The Slumber Party Massacre
+
+
+
 ### Tue 6/28 12:41pm
 
 * New screenings: 
