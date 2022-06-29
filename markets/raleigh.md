@@ -1,6 +1,38 @@
 # raleigh
 
 ## Movie updates
+### Wed 6/29 1:48pm
+* New movies: Legally Blonde, The Best Little Whorehouse in Texas, The Dark Crystal, A League of Their Own, Blade Runner: The Final Cut, Cat People, Rude Boy, Koyaanisqatsi, Rocky III, The Dark Crystal, This Is GWAR, This Is GWAR
+
+* New screenings: 
+    * [A League Of Their Own Brunch](https://drafthouse.com/raleigh/show/a-league-of-their-own-brunch): Sun 7/31 (11:30am)
+
+    * [Blade Runner The Final Cut](https://drafthouse.com/raleigh/show/blade-runner-the-final-cut): Sat 8/13 (3:30pm)
+
+    * [Cat People](https://drafthouse.com/raleigh/show/cat-people): Tue 8/23 (7:30pm)
+
+    * [Conan The Barbarian](https://drafthouse.com/raleigh/show/conan-the-barbarian): Sat 8/20 (9:30pm)
+
+    * [Fantastic Fest Presents Rude Boy](https://drafthouse.com/raleigh/show/fantastic-fest-presents-rude-boy): Mon 7/25 (9:30pm)
+
+    * [Fantastic Fest Presents This Is Gwar](https://drafthouse.com/raleigh/show/fantastic-fest-presents-this-is-gwar): Mon 7/18 (9:30pm)
+
+    * [Koyaanisqatsi](https://drafthouse.com/raleigh/show/koyaanisqatsi): Wed 8/17 (7:30pm)
+
+    * [Legally Blonde Movie Party](https://drafthouse.com/raleigh/show/legally-blonde-movie-party): Tue 7/19 (7:45pm)
+
+    * [Movie Party Pulp Fiction](https://drafthouse.com/raleigh/show/movie-party-pulp-fiction): Sun 7/31 (7:30pm)
+
+    * [Perfect Blue](https://drafthouse.com/raleigh/show/perfect-blue): Tue 7/12 (10:15pm)
+
+    * [Rocky Iii](https://drafthouse.com/raleigh/show/rocky-iii): Sun 8/7 (3:30pm)
+
+    * [The Best Little Whorehouse In Texas Brunch](https://drafthouse.com/raleigh/show/the-best-little-whorehouse-in-texas-brunch): Sat 8/13 (11:30am), Sun 8/14 (11:30am)
+
+    * [The Dark Crystal](https://drafthouse.com/raleigh/show/the-dark-crystal): Wed 8/10 (3:00pm)
+
+    * [The Dark Crystal Brunch](https://drafthouse.com/raleigh/show/the-dark-crystal-brunch): Sat 8/6 (11:30am), Sun 8/7 (11:30am)
+
 ### Tue 6/28 10:27pm
 * New movies: The Slumber Party Massacre
 
