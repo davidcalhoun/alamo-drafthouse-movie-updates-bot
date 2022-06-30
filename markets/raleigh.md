@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Thu 6/30 3:19pm
+* New movies: The Last Unicorn, Grease 2, Grease 2
+
+* New screenings: 
+    * [Grease 2 Brunch](https://drafthouse.com/raleigh/show/grease-2-brunch): Sat 8/20 (11:30am)
+
+    * [Movie Party Grease 2](https://drafthouse.com/raleigh/show/movie-party-grease-2): Sun 8/21 (7:30pm)
+
+    * [The Last Unicorn](https://drafthouse.com/raleigh/show/the-last-unicorn): Sat 8/13 (11:30am)
+
 ### Wed 6/29 2:34pm
 * New movies: Spirited Away Dubbed, Class of 1984, Drunken Master II, Once Upon a Time in China, Hotel Transylvania 4: Transformania, The Boss Baby: Family Business, Superman 1978, Once Upon a Time in China
 
