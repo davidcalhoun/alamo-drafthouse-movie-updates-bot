@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 7/1 5:21pm
+
+* New screenings: 
+    * [Star Trek Ii The Wrath Of Khan](https://drafthouse.com/raleigh/show/star-trek-ii-the-wrath-of-khan): Fri 7/29 (9:30pm), Sat 7/30 (11:30am)
+
 ### Thu 6/30 3:19pm
 * New movies: The Last Unicorn, Grease 2, Grease 2
 
