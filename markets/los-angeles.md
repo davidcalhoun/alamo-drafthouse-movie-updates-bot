@@ -1,6 +1,15 @@
 # los-angeles
 
 ## Movie updates
+### Thu 6/30 7:12pm
+
+* New screenings: 
+    * [Brunch Screenings Spirited Away Dubbed Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-spirited-away-dubbed-brunch): Sat 8/27 (11:00am)
+
+    * [Perfect Blue](https://drafthouse.com/los-angeles/show/perfect-blue): Sun 7/10 (6:30pm), Tue 7/12 (5:00pm)
+
+    * [Top Gun Maverick](https://drafthouse.com/los-angeles/show/top-gun-maverick): Sun 7/3 (4:45pm)
+
 ### Tue 6/28 7:01pm
 * New movies: The Slumber Party Massacre
 
