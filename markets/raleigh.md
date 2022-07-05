@@ -1,6 +1,27 @@
 # raleigh
 
 ## Movie updates
+### Tue 7/5 3:19pm
+
+* New screenings: 
+    * [Elvis](https://drafthouse.com/raleigh/show/elvis): Thu 7/7 (11:15am, 12:40pm, 2:15pm, 6:00pm, 9:45pm)
+
+    * [Fantastic Fest Presents Mad God](https://drafthouse.com/raleigh/show/fantastic-fest-presents-mad-god): Thu 7/7 (2:45pm)
+
+    * [Jurassic World Dominion](https://drafthouse.com/raleigh/show/jurassic-world-dominion): Thu 7/7 (11:25am, 2:55pm, 6:30pm, 10:05pm)
+
+    * [Lightyear](https://drafthouse.com/raleigh/show/lightyear): Thu 7/7 (11:55am, 2:55pm)
+
+    * [Minions The Rise Of Gru](https://drafthouse.com/raleigh/show/minions-the-rise-of-gru): Thu 7/7 (11:45am, 12:15pm, 12:45pm, 1:15pm, 7:00pm, 9:35pm)
+
+    * [Mr Malcolms List](https://drafthouse.com/raleigh/show/mr-malcolms-list): Thu 7/7 (5:15pm)
+
+    * [The Black Phone](https://drafthouse.com/raleigh/show/the-black-phone): Thu 7/7 (11:30am, 2:20pm, 5:10pm, 8:00pm, 10:55pm)
+
+    * [Thor Love And Thunder](https://drafthouse.com/raleigh/show/thor-love-and-thunder): Thu 7/7 (3:30pm, 4:00pm, 5:45pm, 6:45pm, 8:15pm, 9:00pm, 10:00pm, 10:30pm)
+
+    * [Top Gun Maverick](https://drafthouse.com/raleigh/show/top-gun-maverick): Thu 7/7 (12:30pm, 1:00pm, 3:45pm, 4:15pm, 7:30pm, 10:45pm)
+
 ### Fri 7/1 5:21pm
 
 * New screenings: 
