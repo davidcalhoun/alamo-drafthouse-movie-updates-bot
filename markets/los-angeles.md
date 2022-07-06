@@ -1,6 +1,40 @@
 # los-angeles
 
 ## Movie updates
+### Tue 7/5 10:30pm
+* New movies: Marcel the Shell with Shoes On, Tammy and the T-Rex
+
+* New screenings: 
+    * [Crimes Of The Future](https://drafthouse.com/los-angeles/show/crimes-of-the-future): Sat 7/9 (3:40pm), Wed 7/13 (12:45pm)
+
+    * [Elvis](https://drafthouse.com/los-angeles/show/elvis): Thu 7/7 (2:15pm, 6:00pm, 9:50pm), Fri 7/8 (12:15pm, 2:45pm, 6:30pm, 10:25pm), Sat 7/9 (12:15pm, 2:45pm, 6:30pm, 10:25pm), Sun 7/10 (12:15pm, 2:45pm, 6:30pm), Mon 7/11 (12:15pm, 2:45pm, 6:30pm), Tue 7/12 (12:15pm, 2:45pm, 6:30pm), Wed 7/13 (12:15pm, 2:45pm, 6:30pm)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/los-angeles/show/everything-everywhere-all-at-once): Thu 7/7 (7:00pm), Fri 7/8 (7:45pm), Sat 7/9 (7:45pm), Sun 7/10 (12:00pm), Mon 7/11 (7:30pm), Tue 7/12 (4:20pm), Wed 7/13 (4:20pm)
+
+    * [Fantastic Fest Presents Flux Gourmet](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-flux-gourmet): Mon 7/11 (2:00pm)
+
+    * [Fantastic Fest Presents Rrr Encore](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-rrr-encore): Tue 7/12 (12:45pm), Wed 7/13 (3:45pm)
+
+    * [Jurassic World Dominion](https://drafthouse.com/los-angeles/show/jurassic-world-dominion): Thu 7/7 (2:30pm, 6:00pm, 10:20pm), Fri 7/8 (12:45pm, 4:15pm, 7:20pm, 10:35pm), Sat 7/9 (12:45pm, 4:15pm, 7:15pm, 10:45pm), Sun 7/10 (12:45pm, 4:15pm, 7:15pm), Mon 7/11 (12:45pm, 2:30pm, 7:20pm), Tue 7/12 (12:45pm, 4:15pm, 7:15pm), Wed 7/13 (12:45pm, 4:15pm, 7:15pm)
+
+    * [Lightyear](https://drafthouse.com/los-angeles/show/lightyear): Thu 7/7 (2:40pm)
+
+    * [Marcel The Shell With Shoes On](https://drafthouse.com/los-angeles/show/marcel-the-shell-with-shoes-on): Thu 7/7 (4:00pm, 4:45pm, 7:00pm, 7:30pm, 9:15pm, 9:40pm, 10:15pm), Fri 7/8 (11:35am, 12:15pm, 12:55pm, 2:10pm, 3:00pm, 4:45pm, 6:00pm, 8:00pm, 8:35pm, 10:00pm), Sat 7/9 (11:45am, 12:15pm, 1:00pm, 2:30pm, 3:00pm, 5:15pm, 6:00pm, 6:30pm, 8:00pm, 8:35pm, 10:30pm), Sun 7/10 (11:15am, 11:45am, 1:50pm, 2:30pm, 4:30pm, 5:15pm, 7:30pm, 8:00pm), Mon 7/11 (11:15am, 12:00pm, 2:35pm, 4:30pm, 5:15pm, 6:00pm, 8:00pm), Tue 7/12 (11:45am, 1:00pm, 2:30pm, 3:45pm, 5:15pm, 6:30pm, 8:00pm), Wed 7/13 (11:00am, 11:45am, 1:45pm, 2:30pm, 4:30pm, 5:15pm, 7:15pm, 8:00pm)
+
+    * [Minions The Rise Of Gru](https://drafthouse.com/los-angeles/show/minions-the-rise-of-gru): Thu 7/7 (2:30pm, 5:15pm, 8:00pm, 10:50pm), Fri 7/8 (12:40pm, 3:30pm, 6:15pm, 9:00pm), Sat 7/9 (12:40pm, 3:30pm, 6:15pm, 9:00pm), Sun 7/10 (12:40pm, 3:30pm, 6:15pm), Mon 7/11 (12:40pm, 3:30pm, 6:15pm), Tue 7/12 (12:35pm, 3:30pm, 6:15pm), Wed 7/13 (12:35pm, 3:30pm, 6:15pm)
+
+    * [Mr Malcolms List](https://drafthouse.com/los-angeles/show/mr-malcolms-list): Thu 7/7 (4:00pm), Fri 7/8 (1:00pm), Sat 7/9 (1:00pm), Sun 7/10 (1:15pm), Mon 7/11 (1:15pm), Tue 7/12 (1:15pm), Wed 7/13 (1:15pm)
+
+    * [Perfect Blue](https://drafthouse.com/los-angeles/show/perfect-blue): Fri 7/8 (6:30pm), Sat 7/9 (10:50pm)
+
+    * [Tammy And The T Rex](https://drafthouse.com/los-angeles/show/tammy-and-the-t-rex): Tue 7/12 (7:45pm), Wed 7/13 (7:40pm)
+
+    * [The Black Phone](https://drafthouse.com/los-angeles/show/the-black-phone): Thu 7/7 (3:45pm, 6:30pm, 9:45pm), Fri 7/8 (12:00pm, 4:00pm, 7:15pm, 11:05pm), Sat 7/9 (12:00pm, 4:00pm, 7:15pm, 11:05pm), Sun 7/10 (12:00pm, 4:00pm, 7:45pm), Mon 7/11 (11:45am, 4:00pm, 7:10pm), Tue 7/12 (12:00pm, 4:00pm, 7:45pm), Wed 7/13 (12:00pm, 4:00pm, 7:50pm)
+
+    * [Thor Love And Thunder](https://drafthouse.com/los-angeles/show/thor-love-and-thunder): Thu 7/7 (5:30pm, 8:45pm), Fri 7/8 (9:00pm, 11:00pm), Sat 7/9 (4:00pm, 9:05pm), Sun 7/10 (4:20pm, 7:15pm), Mon 7/11 (11:00am, 2:15pm, 4:20pm, 5:30pm), Tue 7/12 (11:00am, 2:15pm, 5:30pm), Wed 7/13 (11:00am, 2:15pm, 5:30pm)
+
+    * [Top Gun Maverick](https://drafthouse.com/los-angeles/show/top-gun-maverick): Thu 7/7 (3:00pm, 6:15pm, 9:30pm), Fri 7/8 (11:20am, 3:15pm, 6:45pm, 10:10pm), Sat 7/9 (11:20am, 3:15pm, 6:45pm, 10:10pm), Sun 7/10 (11:30am, 3:15pm, 6:45pm), Mon 7/11 (12:00pm, 3:15pm, 6:45pm), Tue 7/12 (12:00pm, 3:15pm, 6:45pm), Wed 7/13 (11:45am, 3:15pm, 6:45pm)
+
 ### Tue 7/5 7:10pm
 * New movies: Pokemon Detective Pikachu
 
