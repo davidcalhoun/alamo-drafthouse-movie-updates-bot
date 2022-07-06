@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 7/5 7:10pm
+* New movies: Pokemon Detective Pikachu
+
+* New screenings: 
+    * [Pokemon Detective Pikachu Movie Party](https://drafthouse.com/los-angeles/show/pokemon-detective-pikachu-movie-party): Sun 8/14 (7:00pm)
+
 ### Thu 6/30 7:12pm
 
 * New screenings: 
