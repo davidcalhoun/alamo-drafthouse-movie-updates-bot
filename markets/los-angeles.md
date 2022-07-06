@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Wed 7/6 3:20pm
+
+* New screenings: 
+    * [Graveyard Shift Christine 1983](https://drafthouse.com/los-angeles/show/graveyard-shift-christine-1983): Sun 7/17 (7:30pm)
+
+    * [Thor Love And Thunder](https://drafthouse.com/los-angeles/show/thor-love-and-thunder): Thu 7/14 (3:45pm, 7:00pm, 10:15pm), Fri 7/15 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Sat 7/16 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Sun 7/17 (12:30pm, 3:45pm, 7:00pm), Mon 7/18 (12:30pm, 3:45pm, 7:00pm), Tue 7/19 (12:30pm, 3:45pm), Wed 7/20 (12:30pm, 3:45pm, 7:00pm)
+
 ### Tue 7/5 10:30pm
 * New movies: Marcel the Shell with Shoes On, Tammy and the T-Rex
 
