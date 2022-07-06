@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Wed 7/6 12:38pm
+* New movies: The Road Warrior, Pom Poko Subtitled
+
+* New screenings: 
+    * [Pom Poko Subtitled](https://drafthouse.com/raleigh/show/pom-poko-subtitled): Sat 7/23 (3:00pm)
+
+    * [The Road Warrior](https://drafthouse.com/raleigh/show/the-road-warrior): Fri 8/26 (9:30pm), Wed 8/31 (7:30pm)
+
 ### Tue 7/5 10:34pm
 * New movies: Pokemon Detective Pikachu
 
