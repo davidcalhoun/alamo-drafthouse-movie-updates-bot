@@ -1,6 +1,26 @@
 # los-angeles
 
 ## Movie updates
+### Wed 7/6 4:19pm
+* New movies: Akira Subtitled, Pulp Fiction, The Last Unicorn
+
+* New screenings: 
+    * [Akira](https://drafthouse.com/los-angeles/show/akira): Sun 10/16 (7:00pm), Tue 10/18 (3:45pm)
+
+    * [Blade Runner The Final Cut](https://drafthouse.com/los-angeles/show/blade-runner-the-final-cut): Fri 8/12 (9:00pm)
+
+    * [Movie Party Pulp Fiction](https://drafthouse.com/los-angeles/show/movie-party-pulp-fiction): Sat 7/30 (9:30pm), Tue 8/2 (7:00pm)
+
+    * [Prince Of Darkness](https://drafthouse.com/los-angeles/show/prince-of-darkness): Mon 8/15 (4:45pm)
+
+    * [Rocky Iii](https://drafthouse.com/los-angeles/show/rocky-iii): Mon 8/8 (4:45pm)
+
+    * [The Last Unicorn](https://drafthouse.com/los-angeles/show/the-last-unicorn): Sun 8/14 (11:30am), Tue 8/16 (2:20pm)
+
+    * [The Road Warrior](https://drafthouse.com/los-angeles/show/the-road-warrior): Sun 8/28 (6:00pm), Thu 9/1 (9:30pm)
+
+    * [The Thing](https://drafthouse.com/los-angeles/show/the-thing): Fri 8/5 (3:45pm), Tue 8/9 (5:00pm)
+
 ### Wed 7/6 3:20pm
 
 * New screenings: 
