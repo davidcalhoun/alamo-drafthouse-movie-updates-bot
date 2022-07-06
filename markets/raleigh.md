@@ -1,6 +1,28 @@
 # raleigh
 
 ## Movie updates
+### Tue 7/5 10:34pm
+* New movies: Pokemon Detective Pikachu
+
+* New screenings: 
+    * [Elvis](https://drafthouse.com/raleigh/show/elvis): Fri 7/8 (11:25am, 2:30pm, 6:15pm, 10:00pm), Sat 7/9 (12:45pm, 4:30pm, 6:15pm, 10:00pm), Sun 7/10 (12:10pm, 3:55pm, 7:45pm), Mon 7/11 (11:15am, 3:00pm, 6:15pm, 10:00pm), Tue 7/12 (12:55pm, 4:45pm, 6:15pm, 10:00pm), Wed 7/13 (12:45pm, 4:30pm, 6:15pm, 10:00pm)
+
+    * [Jurassic World Dominion](https://drafthouse.com/raleigh/show/jurassic-world-dominion): Fri 7/8 (11:55am, 3:15pm, 6:45pm, 10:20pm), Sat 7/9 (11:25am, 3:15pm, 6:45pm, 10:20pm), Sun 7/10 (12:30pm, 3:40pm, 6:45pm), Mon 7/11 (11:40am, 3:10pm, 6:45pm, 10:20pm), Tue 7/12 (11:25am, 3:10pm, 6:45pm, 10:20pm), Wed 7/13 (11:55am, 3:40pm, 6:45pm, 10:15pm)
+
+    * [Lightyear](https://drafthouse.com/raleigh/show/lightyear): Fri 7/8 (12:10pm), Sat 7/9 (11:50am), Sun 7/10 (12:40pm), Mon 7/11 (12:20pm), Tue 7/12 (11:40am), Wed 7/13 (2:20pm)
+
+    * [Minions The Rise Of Gru](https://drafthouse.com/raleigh/show/minions-the-rise-of-gru): Thu 7/7 (3:15pm), Fri 7/8 (11:15am, 12:00pm, 3:00pm, 5:45pm, 8:15pm, 10:50pm), Sat 7/9 (11:15am, 11:45am, 1:15pm, 2:40pm, 5:15pm, 8:15pm, 10:50pm), Sun 7/10 (11:45am, 12:45pm, 1:15pm, 3:15pm, 5:45pm, 8:30pm), Mon 7/11 (12:55pm, 3:10pm, 3:30pm, 5:45pm, 8:15pm, 10:50pm), Tue 7/12 (11:45am, 12:40pm, 2:30pm, 3:00pm, 3:40pm, 5:45pm, 8:15pm, 10:50pm), Wed 7/13 (11:45am, 12:15pm, 12:40pm, 1:15pm, 3:10pm, 3:45pm, 5:15pm, 7:00pm, 9:00pm)
+
+    * [Mr Malcolms List](https://drafthouse.com/raleigh/show/mr-malcolms-list): Fri 7/8 (5:30pm), Sat 7/9 (5:00pm), Sun 7/10 (2:15pm), Mon 7/11 (9:20pm), Tue 7/12 (8:30pm), Wed 7/13 (5:45pm)
+
+    * [Pokemon Detective Pikachu Movie Party](https://drafthouse.com/raleigh/show/pokemon-detective-pikachu-movie-party): Sun 8/14 (7:30pm)
+
+    * [The Black Phone](https://drafthouse.com/raleigh/show/the-black-phone): Fri 7/8 (1:45pm, 5:00pm, 7:45pm, 10:40pm), Sat 7/9 (1:30pm, 4:20pm, 7:45pm, 10:40pm), Sun 7/10 (12:55pm, 4:00pm, 7:15pm), Mon 7/11 (11:25am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Tue 7/12 (1:15pm, 5:00pm, 7:45pm, 10:30pm), Wed 7/13 (1:10pm, 4:00pm, 8:00pm, 10:50pm)
+
+    * [Thor Love And Thunder](https://drafthouse.com/raleigh/show/thor-love-and-thunder): Fri 7/8 (11:00am, 12:30pm, 1:55pm, 2:15pm, 4:45pm, 6:30pm, 7:00pm, 8:00pm, 8:30pm, 9:45pm, 10:15pm), Sat 7/9 (12:00pm, 1:50pm, 2:15pm, 3:15pm, 5:30pm, 6:30pm, 7:00pm, 8:00pm, 8:45pm, 9:45pm, 10:15pm), Sun 7/10 (1:30pm, 4:45pm, 5:15pm, 6:30pm, 7:00pm, 8:00pm), Mon 7/11 (11:30am, 12:30pm, 2:00pm, 2:45pm, 3:45pm, 5:15pm, 6:00pm, 7:00pm, 9:15pm, 10:15pm), Tue 7/12 (11:30am, 12:30pm, 2:15pm, 2:45pm, 3:45pm, 5:30pm, 6:00pm, 9:15pm), Wed 7/13 (11:00am, 2:15pm, 2:45pm, 5:30pm, 6:00pm, 8:15pm, 9:15pm)
+
+    * [Top Gun Maverick](https://drafthouse.com/raleigh/show/top-gun-maverick): Fri 7/8 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Sat 7/9 (11:55am, 3:00pm, 7:15pm, 10:30pm), Sun 7/10 (11:40am, 3:00pm, 6:15pm), Mon 7/11 (12:45pm, 4:00pm, 7:15pm, 10:40pm), Tue 7/12 (12:25pm, 4:00pm, 7:15pm, 10:40pm), Wed 7/13 (12:20pm, 3:30pm, 7:15pm, 10:30pm)
+
 ### Tue 7/5 3:19pm
 
 * New screenings: 
