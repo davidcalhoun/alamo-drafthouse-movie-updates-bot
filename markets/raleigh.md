@@ -1,6 +1,20 @@
 # raleigh
 
 ## Movie updates
+### Wed 7/6 1:29pm
+* New movies: Grease 2
+
+* New screenings: 
+    * [Blade Runner The Final Cut](https://drafthouse.com/raleigh/show/blade-runner-the-final-cut): Mon 8/15 (9:30pm)
+
+    * [Graveyard Shift Halloween Iii Season Of The Witch](https://drafthouse.com/raleigh/show/graveyard-shift-halloween-iii-season-of-the-witch): Fri 8/19 (9:30pm)
+
+    * [Grease 2](https://drafthouse.com/raleigh/show/grease-2): Wed 8/24 (3:30pm)
+
+    * [Koyaanisqatsi](https://drafthouse.com/raleigh/show/koyaanisqatsi): Fri 8/12 (3:00pm)
+
+    * [Rocky Iii](https://drafthouse.com/raleigh/show/rocky-iii): Mon 8/8 (9:30pm)
+
 ### Wed 7/6 12:38pm
 * New movies: The Road Warrior, Pom Poko Subtitled
 
