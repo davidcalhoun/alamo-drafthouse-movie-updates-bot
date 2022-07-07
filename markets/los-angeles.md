@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 7/7 4:20pm
+
+* New screenings: 
+    * [Thor Love And Thunder](https://drafthouse.com/los-angeles/show/thor-love-and-thunder): Thu 7/7 (10:15pm)
+
 ### Wed 7/6 4:19pm
 * New movies: Akira Subtitled, Pulp Fiction, The Last Unicorn
 
