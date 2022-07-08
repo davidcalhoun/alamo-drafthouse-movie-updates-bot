@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 7/8 4:29pm
+* New movies: Akira Subtitled
+
+* New screenings: 
+    * [Akira](https://drafthouse.com/raleigh/show/akira): Sun 10/16 (7:45pm), Tue 10/18 (4:30pm)
+
 ### Wed 7/6 1:29pm
 * New movies: Grease 2
 
