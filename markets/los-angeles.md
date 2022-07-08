@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 7/8 11:25am
+* New movies: Medusa, MANIAC COP 2 with Bill Lustig
+
+* New screenings: 
+    * [Live Q A Medusa](https://drafthouse.com/los-angeles/show/live-q-a-medusa): Sun 7/31 (4:00pm)
+
+    * [Maniac Cop 2 With Bill Lustig](https://drafthouse.com/los-angeles/show/maniac-cop-2-with-bill-lustig): Wed 8/31 (8:00pm)
+
 ### Fri 7/8 10:29am
 * New movies: Star Trek II: The Wrath of Khan, Arrebato
 
