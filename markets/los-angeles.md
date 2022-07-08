@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 7/8 10:29am
+* New movies: Star Trek II: The Wrath of Khan, Arrebato
+
+* New screenings: 
+    * [Arrebato](https://drafthouse.com/los-angeles/show/arrebato): Tue 8/30 (8:00pm)
+
+    * [Star Trek Ii The Wrath Of Khan](https://drafthouse.com/los-angeles/show/star-trek-ii-the-wrath-of-khan): Sat 7/30 (10:00pm)
+
 ### Thu 7/7 4:20pm
 
 * New screenings: 
