@@ -1,6 +1,15 @@
 # los-angeles
 
 ## Movie updates
+### Fri 7/8 4:19pm
+
+* New screenings: 
+    * [Marcel The Shell With Shoes On](https://drafthouse.com/los-angeles/show/marcel-the-shell-with-shoes-on): Fri 7/8 (11:10pm), Sat 7/9 (11:10pm)
+
+    * [Perfect Blue](https://drafthouse.com/los-angeles/show/perfect-blue): Sat 7/16 (9:30pm)
+
+    * [Thor Love And Thunder](https://drafthouse.com/los-angeles/show/thor-love-and-thunder): Fri 7/8 (10:00pm), Sat 7/9 (10:30pm)
+
 ### Fri 7/8 11:25am
 * New movies: Medusa, MANIAC COP 2 with Bill Lustig
 
