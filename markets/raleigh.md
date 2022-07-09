@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Sat 7/9 6:23pm
+
+* New screenings: 
+    * [Thor Love And Thunder](https://drafthouse.com/raleigh/show/thor-love-and-thunder): Sun 7/10 (8:15pm)
+
 ### Fri 7/8 4:29pm
 * New movies: Akira Subtitled
 
