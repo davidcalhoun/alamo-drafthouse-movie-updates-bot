@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 7/8 6:52pm
+
+* New screenings: 
+    * [Blade Runner The Final Cut](https://drafthouse.com/los-angeles/show/blade-runner-the-final-cut): Sun 8/14 (2:15pm)
+
 ### Fri 7/8 4:19pm
 
 * New screenings: 
