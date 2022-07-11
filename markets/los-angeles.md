@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 7/11 2:17pm
+* New movies: Grease 2
+
+
+
 ### Mon 7/11 1:31pm
 * New movies: GREASE 2
 
