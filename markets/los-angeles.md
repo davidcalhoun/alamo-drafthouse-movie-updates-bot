@@ -1,6 +1,44 @@
 # los-angeles
 
 ## Movie updates
+### Mon 7/11 3:19pm
+* New movies: Where the Crawdads Sing, Fire of Love, Mrs. Harris Goes to Paris, Anonymous Club
+
+* New screenings: 
+    * [Anonymous Club](https://drafthouse.com/los-angeles/show/anonymous-club): Fri 7/15 (11:25am, 6:00pm)
+
+    * [Crimes Of The Future](https://drafthouse.com/los-angeles/show/crimes-of-the-future): Thu 7/14 (2:25pm)
+
+    * [Elvis](https://drafthouse.com/los-angeles/show/elvis): Thu 7/14 (2:45pm, 6:00pm, 9:45pm), Fri 7/15 (11:45am, 3:45pm, 6:15pm, 10:00pm)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/los-angeles/show/everything-everywhere-all-at-once): Thu 7/14 (5:45pm), Fri 7/15 (2:00pm)
+
+    * [Fantastic Fest Presents Rrr Encore](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-rrr-encore): Thu 7/14 (5:15pm), Fri 7/15 (8:45pm)
+
+    * [Fantastic Fest Presents This Is Gwar](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-this-is-gwar): Fri 7/15 (5:30pm)
+
+    * [Fire Of Love](https://drafthouse.com/los-angeles/show/fire-of-love): Thu 7/14 (7:30pm, 10:30pm), Fri 7/15 (1:15pm, 4:00pm, 6:45pm, 9:30pm)
+
+    * [Jurassic World Dominion](https://drafthouse.com/los-angeles/show/jurassic-world-dominion): Thu 7/14 (3:45pm)
+
+    * [Marcel The Shell With Shoes On](https://drafthouse.com/los-angeles/show/marcel-the-shell-with-shoes-on): Thu 7/14 (2:20pm, 5:00pm, 7:45pm, 10:30pm), Fri 7/15 (11:40am, 2:25pm, 5:10pm, 7:50pm, 10:30pm)
+
+    * [Minions The Rise Of Gru](https://drafthouse.com/los-angeles/show/minions-the-rise-of-gru): Thu 7/14 (3:30pm, 6:15pm, 9:00pm), Fri 7/15 (12:45pm, 3:20pm, 6:00pm, 8:45pm)
+
+    * [Mr Malcolms List](https://drafthouse.com/los-angeles/show/mr-malcolms-list): Thu 7/14 (2:30pm)
+
+    * [Mrs Harris Goes To Paris](https://drafthouse.com/los-angeles/show/mrs-harris-goes-to-paris): Thu 7/14 (7:15pm, 10:15pm), Fri 7/15 (1:30pm, 4:30pm, 7:15pm, 10:00pm)
+
+    * [Perfect Blue](https://drafthouse.com/los-angeles/show/perfect-blue): Thu 7/14 (9:30pm), Fri 7/15 (12:30pm)
+
+    * [The Black Phone](https://drafthouse.com/los-angeles/show/the-black-phone): Thu 7/14 (3:15pm, 6:45pm, 9:30pm), Fri 7/15 (1:00pm, 3:30pm, 7:30pm, 11:00pm)
+
+    * [Thor Love And Thunder](https://drafthouse.com/los-angeles/show/thor-love-and-thunder): Thu 7/14 (2:15pm, 4:15pm, 5:30pm, 8:45pm), Fri 7/15 (11:15am, 2:40pm, 5:45pm, 8:30pm, 9:00pm)
+
+    * [Top Gun Maverick](https://drafthouse.com/los-angeles/show/top-gun-maverick): Thu 7/14 (3:45pm, 7:15pm, 10:40pm), Fri 7/15 (12:45pm, 4:15pm, 7:45pm, 10:25pm)
+
+    * [Where The Crawdads Sing](https://drafthouse.com/los-angeles/show/where-the-crawdads-sing): Thu 7/14 (3:00pm, 6:30pm, 9:15pm, 10:00pm), Fri 7/15 (11:35am, 3:00pm, 6:30pm, 9:45pm)
+
 ### Mon 7/11 2:17pm
 * New movies: Grease 2
 
