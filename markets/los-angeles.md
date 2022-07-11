@@ -1,6 +1,42 @@
 # los-angeles
 
 ## Movie updates
+### Mon 7/11 4:19pm
+* New movies: Thor: Love and Thunder
+
+* New screenings: 
+    * [A Snake Of June](https://drafthouse.com/los-angeles/show/a-snake-of-june): Mon 7/18 (7:00pm)
+
+    * [Anonymous Club](https://drafthouse.com/los-angeles/show/anonymous-club): Sat 7/16 (1:30pm, 7:00pm), Sun 7/17 (5:30pm, 8:00pm), Mon 7/18 (5:00pm), Tue 7/19 (5:15pm), Wed 7/20 (5:30pm)
+
+    * [Elvis](https://drafthouse.com/los-angeles/show/elvis): Sat 7/16 (11:30am, 3:45pm, 6:15pm, 10:00pm), Sun 7/17 (11:30am, 3:45pm, 6:30pm), Mon 7/18 (11:30am, 3:45pm, 6:30pm), Tue 7/19 (11:40am, 3:45pm, 6:15pm), Wed 7/20 (11:30am, 3:45pm, 6:15pm)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/los-angeles/show/everything-everywhere-all-at-once): Mon 7/18 (1:15pm), Wed 7/20 (12:45pm)
+
+    * [Fantastic Fest Presents Rrr Encore](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-rrr-encore): Sat 7/16 (12:15pm), Mon 7/18 (2:45pm), Wed 7/20 (1:00pm)
+
+    * [Fantastic Fest Presents This Is Gwar](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-this-is-gwar): Wed 7/20 (4:15pm)
+
+    * [Fire Of Love](https://drafthouse.com/los-angeles/show/fire-of-love): Sat 7/16 (1:15pm, 4:00pm, 6:45pm, 9:30pm), Sun 7/17 (1:15pm, 4:00pm, 6:45pm), Mon 7/18 (1:15pm, 4:00pm, 6:45pm), Tue 7/19 (1:15pm, 4:00pm, 6:45pm), Wed 7/20 (1:15pm, 4:00pm, 6:45pm)
+
+    * [Marcel The Shell With Shoes On](https://drafthouse.com/los-angeles/show/marcel-the-shell-with-shoes-on): Sat 7/16 (11:40am, 2:15pm, 4:15pm, 5:15pm, 8:00pm, 10:45pm), Sun 7/17 (11:15am, 12:40pm, 2:00pm, 2:45pm, 5:20pm, 8:00pm), Mon 7/18 (11:40am, 2:20pm, 5:15pm, 8:00pm), Tue 7/19 (11:30am, 12:00pm, 2:15pm, 5:00pm, 7:45pm), Wed 7/20 (11:40am, 2:20pm, 5:15pm, 8:00pm)
+
+    * [Minions The Rise Of Gru](https://drafthouse.com/los-angeles/show/minions-the-rise-of-gru): Sat 7/16 (12:45pm, 3:15pm, 6:00pm, 8:45pm), Sun 7/17 (12:00pm, 3:15pm, 6:00pm), Mon 7/18 (12:45pm, 3:15pm, 6:00pm), Tue 7/19 (12:45pm, 3:15pm, 6:00pm), Wed 7/20 (12:30pm, 3:15pm, 6:00pm)
+
+    * [Mrs Harris Goes To Paris](https://drafthouse.com/los-angeles/show/mrs-harris-goes-to-paris): Sat 7/16 (1:45pm, 4:30pm, 7:15pm, 10:00pm), Sun 7/17 (1:30pm, 4:30pm, 7:15pm), Mon 7/18 (1:30pm, 4:30pm, 7:15pm), Tue 7/19 (1:45pm, 4:30pm, 7:15pm), Wed 7/20 (1:30pm, 4:30pm, 7:15pm)
+
+    * [Perfect Blue](https://drafthouse.com/los-angeles/show/perfect-blue): Sun 7/17 (5:00pm), Tue 7/19 (2:35pm)
+
+    * [The Black Phone](https://drafthouse.com/los-angeles/show/the-black-phone): Sat 7/16 (1:00pm, 3:30pm, 7:30pm, 11:00pm), Sun 7/17 (1:00pm, 3:30pm, 7:30pm), Mon 7/18 (1:00pm, 3:30pm, 7:30pm), Tue 7/19 (1:00pm, 3:30pm, 7:30pm), Wed 7/20 (1:00pm, 3:30pm, 7:30pm)
+
+    * [Thor Love And Thunder](https://drafthouse.com/los-angeles/show/thor-love-and-thunder): Sat 7/16 (2:40pm, 4:45pm, 5:45pm, 8:15pm, 9:00pm), Sun 7/17 (2:30pm, 3:00pm, 5:45pm), Mon 7/18 (11:15am, 2:30pm, 5:45pm), Tue 7/19 (11:30am, 1:30pm, 2:45pm, 4:50pm, 6:15pm), Wed 7/20 (11:15am, 2:30pm, 5:45pm)
+
+    * [Thor Love And Thunder Brunch](https://drafthouse.com/los-angeles/show/thor-love-and-thunder-brunch): Sat 7/16 (11:30am), Sun 7/17 (11:15am)
+
+    * [Top Gun Maverick](https://drafthouse.com/los-angeles/show/top-gun-maverick): Sat 7/16 (12:45pm, 4:15pm, 7:45pm, 10:25pm), Sun 7/17 (12:45pm, 4:15pm, 7:45pm), Mon 7/18 (12:45pm, 4:15pm, 7:45pm), Tue 7/19 (12:45pm, 4:15pm, 7:45pm), Wed 7/20 (12:45pm, 4:15pm, 7:45pm)
+
+    * [Where The Crawdads Sing](https://drafthouse.com/los-angeles/show/where-the-crawdads-sing): Sat 7/16 (11:50am, 3:00pm, 6:30pm, 9:45pm), Sun 7/17 (11:45am, 2:15pm, 6:15pm), Mon 7/18 (11:50am, 3:00pm, 6:15pm), Tue 7/19 (11:50am, 3:00pm, 6:30pm), Wed 7/20 (11:50am, 3:00pm, 6:30pm)
+
 ### Mon 7/11 3:19pm
 * New movies: Where the Crawdads Sing, Fire of Love, Mrs. Harris Goes to Paris, Anonymous Club
 
