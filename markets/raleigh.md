@@ -1,6 +1,32 @@
 # raleigh
 
 ## Movie updates
+### Mon 7/11 6:23pm
+* New movies: Marcel the Shell with Shoes On, Paws of Fury: The Legend of Hank, Where the Crawdads Sing
+
+* New screenings: 
+    * [Elvis](https://drafthouse.com/raleigh/show/elvis): Thu 7/14 (2:30pm, 6:15pm), Fri 7/15 (2:00pm, 5:45pm), Sat 7/16 (2:00pm, 5:45pm), Sun 7/17 (11:15am, 5:45pm), Mon 7/18 (2:00pm, 5:45pm), Tue 7/19 (2:00pm, 5:45pm), Wed 7/20 (2:00pm, 5:45pm)
+
+    * [Jurassic World Dominion](https://drafthouse.com/raleigh/show/jurassic-world-dominion): Thu 7/14 (11:45am), Fri 7/15 (12:00pm), Sat 7/16 (11:50am), Sun 7/17 (11:50am), Mon 7/18 (1:10pm), Tue 7/19 (1:10pm), Wed 7/20 (11:50am)
+
+    * [Kids Camp Sing 2](https://drafthouse.com/raleigh/show/kids-camp-sing-2): Tue 7/19 (12:00pm)
+
+    * [Marcel The Shell With Shoes On](https://drafthouse.com/raleigh/show/marcel-the-shell-with-shoes-on): Thu 7/14 (4:00pm, 5:45pm, 7:00pm, 8:20pm, 9:35pm), Fri 7/15 (12:15pm, 1:25pm, 2:55pm, 4:00pm, 5:30pm, 6:45pm, 8:15pm, 9:45pm), Sat 7/16 (12:15pm, 1:30pm, 2:50pm, 4:10pm, 5:30pm, 6:45pm, 8:15pm, 9:45pm), Sun 7/17 (12:10pm, 1:30pm, 2:45pm, 4:10pm, 5:30pm, 6:45pm), Mon 7/18 (12:15pm, 12:45pm, 3:00pm, 3:40pm, 5:30pm, 6:00pm, 8:15pm, 9:30pm), Tue 7/19 (12:45pm, 1:45pm, 3:25pm, 4:30pm, 6:45pm, 9:30pm, 9:30pm), Wed 7/20 (12:10pm, 12:45pm, 2:45pm, 3:35pm, 5:30pm, 6:10pm, 8:15pm, 9:05pm)
+
+    * [Minions The Rise Of Gru](https://drafthouse.com/raleigh/show/minions-the-rise-of-gru): Thu 7/14 (12:40pm, 1:15pm, 3:10pm, 3:45pm, 6:15pm, 9:00pm), Fri 7/15 (1:15pm, 3:45pm, 6:30pm, 9:00pm), Sat 7/16 (1:20pm, 3:55pm, 6:30pm, 9:00pm), Sun 7/17 (1:15pm, 3:50pm, 6:30pm), Mon 7/18 (1:30pm, 4:00pm, 6:30pm, 9:00pm), Tue 7/19 (1:30pm, 4:00pm, 6:00pm, 8:45pm), Wed 7/20 (1:15pm, 3:45pm, 6:30pm, 9:00pm)
+
+    * [Paws Of Fury The Legend Of Hank](https://drafthouse.com/raleigh/show/paws-of-fury-the-legend-of-hank): Thu 7/14 (3:00pm, 6:00pm, 9:15pm), Fri 7/15 (11:35am, 2:25pm, 4:45pm, 6:15pm), Sat 7/16 (11:25am, 2:25pm, 3:20pm, 4:45pm, 6:15pm), Sun 7/17 (11:30am, 2:25pm, 3:00pm, 3:20pm, 6:15pm), Mon 7/18 (11:50am, 2:40pm, 4:45pm, 6:15pm), Tue 7/19 (12:30pm, 3:45pm, 4:45pm, 6:15pm), Wed 7/20 (11:30am, 2:25pm, 3:20pm, 4:45pm, 6:15pm)
+
+    * [Perfect Blue](https://drafthouse.com/raleigh/show/perfect-blue): Fri 7/15 (9:00pm), Sat 7/16 (9:00pm), Tue 7/19 (10:35pm)
+
+    * [The Black Phone](https://drafthouse.com/raleigh/show/the-black-phone): Thu 7/14 (1:45pm, 4:45pm, 7:45pm, 10:15pm, 10:30pm), Fri 7/15 (7:45pm, 10:30pm), Sat 7/16 (7:45pm, 10:30pm), Sun 7/17 (4:50pm, 7:40pm), Mon 7/18 (7:45pm, 10:35pm), Tue 7/19 (7:45pm, 10:35pm), Wed 7/20 (7:45pm, 10:30pm)
+
+    * [Thor Love And Thunder](https://drafthouse.com/raleigh/show/thor-love-and-thunder): Thu 7/14 (11:30am, 12:45pm, 2:15pm, 5:30pm, 8:50pm), Fri 7/15 (1:40pm, 5:15pm, 8:30pm, 9:30pm), Sat 7/16 (1:40pm, 5:15pm, 8:30pm, 9:30pm), Sun 7/17 (1:45pm, 5:15pm), Mon 7/18 (12:30pm, 3:45pm, 9:15pm), Tue 7/19 (11:30am, 2:40pm, 2:55pm, 9:15pm, 10:45pm), Wed 7/20 (1:40pm, 5:15pm, 8:30pm, 9:30pm)
+
+    * [Top Gun Maverick](https://drafthouse.com/raleigh/show/top-gun-maverick): Thu 7/14 (12:30pm, 3:55pm, 7:15pm, 10:30pm), Fri 7/15 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Sat 7/16 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Sun 7/17 (12:45pm, 4:00pm, 7:15pm), Mon 7/18 (12:35pm, 4:00pm, 7:15pm, 10:30pm), Tue 7/19 (12:20pm, 4:00pm, 7:15pm, 10:30pm), Wed 7/20 (12:45pm, 4:00pm, 7:15pm, 10:30pm)
+
+    * [Where The Crawdads Sing](https://drafthouse.com/raleigh/show/where-the-crawdads-sing): Thu 7/14 (3:30pm, 6:45pm, 10:00pm), Fri 7/15 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Sat 7/16 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Sun 7/17 (12:30pm, 3:45pm, 7:00pm), Mon 7/18 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Tue 7/19 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Wed 7/20 (12:30pm, 3:45pm, 7:00pm, 10:15pm)
+
 ### Mon 7/11 5:21pm
 * New movies: Grease 2
 
