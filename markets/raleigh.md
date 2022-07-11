@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 7/11 5:21pm
+* New movies: Grease 2
+
+
+
 ### Sat 7/9 6:23pm
 
 * New screenings: 
