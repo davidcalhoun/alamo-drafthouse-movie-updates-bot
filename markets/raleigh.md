@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 7/12 4:27pm
+
+* New screenings: 
+    * [The Last Unicorn](https://drafthouse.com/raleigh/show/the-last-unicorn): Tue 8/16 (3:30pm)
+
 ### Mon 7/11 6:23pm
 * New movies: Marcel the Shell with Shoes On, Paws of Fury: The Legend of Hank, Where the Crawdads Sing
 
