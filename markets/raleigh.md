@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Wed 7/13 12:38pm
+
+* New screenings: 
+    * [Marcel The Shell With Shoes On](https://drafthouse.com/raleigh/show/marcel-the-shell-with-shoes-on): Sat 7/16 (10:30pm), Sun 7/17 (11:00am)
+
 ### Wed 7/13 11:33am
 
 * New screenings: 
