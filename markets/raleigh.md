@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Wed 7/13 11:33am
+
+* New screenings: 
+    * [Marcel The Shell With Shoes On](https://drafthouse.com/raleigh/show/marcel-the-shell-with-shoes-on): Sat 7/16 (11:30am)
+
+    * [Paws Of Fury The Legend Of Hank](https://drafthouse.com/raleigh/show/paws-of-fury-the-legend-of-hank): Sat 7/16 (5:30pm)
+
 ### Tue 7/12 4:27pm
 
 * New screenings: 
