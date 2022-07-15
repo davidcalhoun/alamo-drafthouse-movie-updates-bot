@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Fri 7/15 4:26pm
+* New movies: Howl's Moving Castle Dubbed
+
+* New screenings: 
+    * [Brunch Screenings Howls Moving Castle Dubbed Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-howls-moving-castle-dubbed-brunch): Sat 10/29 (11:00am)
+
+    * [Howls Moving Castle Dubbed](https://drafthouse.com/raleigh/show/howls-moving-castle-dubbed): Sat 10/29 (2:15pm), Sun 10/30 (2:15pm)
+
 ### Fri 7/15 10:27am
 
 * New screenings: 
