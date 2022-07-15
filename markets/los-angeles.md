@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 7/14 10:41pm
+* New movies: Hypochondriac
+
+* New screenings: 
+    * [Live Q A Hypochondriac](https://drafthouse.com/los-angeles/show/live-q-a-hypochondriac): Fri 7/29 (7:00pm)
+
 ### Mon 7/11 4:19pm
 * New movies: Thor: Love and Thunder
 
