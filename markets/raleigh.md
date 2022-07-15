@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Fri 7/15 10:27am
+
+* New screenings: 
+    * [Marcel The Shell With Shoes On](https://drafthouse.com/raleigh/show/marcel-the-shell-with-shoes-on): Sun 7/17 (2:20pm)
+
+    * [Where The Crawdads Sing](https://drafthouse.com/raleigh/show/where-the-crawdads-sing): Sat 7/16 (9:30pm), Sun 7/17 (3:20pm)
+
 ### Wed 7/13 12:38pm
 
 * New screenings: 
