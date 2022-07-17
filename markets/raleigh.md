@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Sun 7/17 5:21pm
+
+* New screenings: 
+    * [Where The Crawdads Sing](https://drafthouse.com/raleigh/show/where-the-crawdads-sing): Mon 7/18 (5:05pm), Wed 7/20 (1:10am)
+
 ### Fri 7/15 4:26pm
 * New movies: Howl's Moving Castle Dubbed
 
