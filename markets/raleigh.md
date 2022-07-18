@@ -1,6 +1,29 @@
 # raleigh
 
 ## Movie updates
+### Mon 7/18 7:24pm
+
+* New screenings: 
+    * [Elvis](https://drafthouse.com/raleigh/show/elvis): Thu 7/21 (12:00pm), Fri 7/22 (2:00pm), Sat 7/23 (11:45am), Sun 7/24 (11:15am), Mon 7/25 (1:00pm), Tue 7/26 (1:15pm), Wed 7/27 (1:15pm)
+
+    * [Jurassic World Dominion](https://drafthouse.com/raleigh/show/jurassic-world-dominion): Thu 7/21 (1:15pm)
+
+    * [Marcel The Shell With Shoes On](https://drafthouse.com/raleigh/show/marcel-the-shell-with-shoes-on): Thu 7/21 (12:30pm, 1:00pm, 3:15pm, 3:45pm, 6:15pm, 9:00pm), Fri 7/22 (12:25pm, 3:05pm, 6:15pm, 9:00pm), Sat 7/23 (1:00pm, 3:40pm, 6:15pm, 9:00pm), Sun 7/24 (1:00pm, 3:40pm, 6:15pm), Mon 7/25 (1:15pm, 3:45pm, 4:15pm, 6:15pm, 9:00pm), Tue 7/26 (12:25pm, 3:05pm, 6:15pm, 9:00pm), Wed 7/27 (12:25pm, 3:05pm, 6:15pm, 9:00pm)
+
+    * [Minions The Rise Of Gru](https://drafthouse.com/raleigh/show/minions-the-rise-of-gru): Thu 7/21 (12:45pm, 3:15pm, 6:00pm, 8:45pm), Fri 7/22 (12:45pm, 3:15pm, 6:00pm, 8:45pm), Sat 7/23 (12:30pm, 3:30pm, 6:00pm, 8:45pm), Sun 7/24 (12:45pm, 3:20pm, 6:00pm), Mon 7/25 (12:30pm, 3:15pm, 6:00pm, 8:45pm), Tue 7/26 (12:45pm, 3:15pm, 6:00pm, 8:45pm), Wed 7/27 (12:45pm, 3:15pm, 6:00pm, 8:45pm)
+
+    * [Nope](https://drafthouse.com/raleigh/show/nope): Thu 7/21 (4:45pm, 5:30pm, 7:30pm, 8:00pm, 8:50pm, 10:15pm, 10:50pm), Fri 7/22 (11:40am, 12:15pm, 1:45pm, 3:00pm, 5:00pm, 5:45pm, 6:30pm, 6:45pm, 8:15pm, 9:15pm, 9:45pm, 10:00pm, 11:15pm), Sat 7/23 (12:25pm, 1:45pm, 2:30pm, 3:45pm, 5:00pm, 5:45pm, 6:45pm, 7:15pm, 8:15pm, 9:15pm, 10:00pm, 10:45pm, 11:15pm), Sun 7/24 (12:15pm, 1:15pm, 2:10pm, 3:00pm, 3:30pm, 4:30pm, 5:45pm, 6:30pm, 6:45pm), Mon 7/25 (11:40am, 12:15pm, 2:15pm, 2:30pm, 3:00pm, 5:00pm, 5:45pm, 6:30pm, 6:45pm, 7:00pm, 8:15pm, 9:45pm, 10:00pm, 10:35pm), Tue 7/26 (11:40am, 11:50am, 12:15pm, 2:15pm, 3:00pm, 3:25pm, 3:45pm, 5:00pm, 5:45pm, 6:30pm, 7:00pm, 8:15pm, 9:15pm, 9:45pm, 10:15pm, 10:35pm), Wed 7/27 (11:40am, 11:50am, 12:10pm, 2:15pm, 3:00pm, 3:30pm, 3:40pm, 5:00pm, 5:45pm, 6:30pm, 6:45pm, 7:00pm, 8:15pm, 9:15pm, 9:45pm, 10:00pm, 10:35pm)
+
+    * [Paws Of Fury The Legend Of Hank](https://drafthouse.com/raleigh/show/paws-of-fury-the-legend-of-hank): Thu 7/21 (12:00pm, 3:00pm, 6:00pm), Fri 7/22 (12:15pm, 3:15pm, 6:00pm), Sat 7/23 (12:15pm, 3:15pm, 6:00pm), Sun 7/24 (12:25pm, 3:15pm, 6:00pm), Mon 7/25 (12:15pm, 3:15pm, 6:00pm), Tue 7/26 (12:15pm, 3:15pm, 6:00pm), Wed 7/27 (12:15pm, 3:15pm, 6:00pm)
+
+    * [The Black Phone](https://drafthouse.com/raleigh/show/the-black-phone): Thu 7/21 (9:15pm), Fri 7/22 (8:45pm), Sat 7/23 (8:45pm), Sun 7/24 (7:45pm), Mon 7/25 (9:00pm), Tue 7/26 (9:00pm), Wed 7/27 (9:00pm)
+
+    * [Thor Love And Thunder](https://drafthouse.com/raleigh/show/thor-love-and-thunder): Thu 7/21 (12:15pm, 1:30pm, 2:15pm, 3:45pm, 6:45pm, 10:00pm), Fri 7/22 (1:30pm, 4:40pm, 7:45pm, 10:50pm), Sat 7/23 (1:30pm, 4:40pm, 7:45pm, 10:50pm), Sun 7/24 (1:30pm, 4:40pm, 7:45pm), Mon 7/25 (1:30pm, 4:40pm, 7:45pm, 10:50pm), Tue 7/26 (1:30pm, 4:40pm, 7:45pm, 10:50pm), Wed 7/27 (1:30pm, 4:40pm, 7:45pm, 10:50pm)
+
+    * [Top Gun Maverick](https://drafthouse.com/raleigh/show/top-gun-maverick): Thu 7/21 (1:00pm, 4:15pm, 7:30pm, 10:45pm), Fri 7/22 (1:00pm, 4:15pm, 7:30pm, 10:45pm), Sat 7/23 (12:55pm, 4:15pm, 7:30pm, 10:30pm), Sun 7/24 (12:55pm, 4:15pm, 7:30pm), Mon 7/25 (1:00pm, 4:15pm, 7:30pm, 10:45pm), Tue 7/26 (1:00pm, 4:15pm, 7:30pm, 10:45pm), Wed 7/27 (1:00pm, 4:15pm, 7:30pm, 10:45pm)
+
+    * [Where The Crawdads Sing](https://drafthouse.com/raleigh/show/where-the-crawdads-sing): Thu 7/21 (12:45pm, 4:00pm, 7:15pm, 10:25pm), Fri 7/22 (12:45pm, 4:00pm, 7:15pm, 10:25pm), Sat 7/23 (11:30am, 2:45pm, 6:30pm, 9:45pm), Sun 7/24 (12:50pm, 4:00pm, 7:15pm), Mon 7/25 (12:45pm, 4:00pm, 7:15pm, 10:25pm), Tue 7/26 (12:45pm, 4:00pm, 7:15pm, 10:25pm), Wed 7/27 (12:45pm, 4:00pm, 7:15pm, 10:25pm)
+
 ### Mon 7/18 2:29pm
 
 * New screenings: 
