@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 7/18 2:29pm
+
+* New screenings: 
+    * [Thor Love And Thunder](https://drafthouse.com/raleigh/show/thor-love-and-thunder): Mon 7/18 (10:40pm)
+
 ### Mon 7/18 10:00am
 
 * New screenings: 
