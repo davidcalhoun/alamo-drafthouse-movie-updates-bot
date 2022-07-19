@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 7/19 3:19pm
+* New movies: The Stendhal Syndrome
+
+* New screenings: 
+    * [The Stendhal Syndrome](https://drafthouse.com/los-angeles/show/the-stendhal-syndrome): Sun 7/31 (7:45pm)
+
 ### Mon 7/18 9:24pm
 * New movies: Mad God
 
