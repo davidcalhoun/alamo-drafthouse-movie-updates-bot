@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 7/19 11:31am
+
+* New screenings: 
+    * [Paws Of Fury The Legend Of Hank](https://drafthouse.com/raleigh/show/paws-of-fury-the-legend-of-hank): Tue 7/19 (6:15pm)
+
 ### Mon 7/18 7:24pm
 
 * New screenings: 
