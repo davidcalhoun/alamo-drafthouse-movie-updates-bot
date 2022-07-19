@@ -1,6 +1,38 @@
 # los-angeles
 
 ## Movie updates
+### Mon 7/18 9:24pm
+* New movies: Mad God
+
+* New screenings: 
+    * [Elvis](https://drafthouse.com/los-angeles/show/elvis): Thu 7/21 (3:15pm, 6:15pm, 10:00pm), Fri 7/22 (11:30am, 3:15pm, 6:15pm, 10:00pm), Sat 7/23 (11:30am, 3:15pm, 6:15pm, 10:00pm), Sun 7/24 (11:30am, 3:15pm, 6:15pm), Mon 7/25 (11:30am, 3:15pm, 6:15pm), Tue 7/26 (11:30am, 3:15pm, 6:15pm), Wed 7/27 (11:30am, 3:15pm, 6:15pm)
+
+    * [Fantastic Fest Presents Mad God](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-mad-god): Fri 7/22 (4:15pm), Mon 7/25 (8:15pm), Tue 7/26 (11:45am), Wed 7/27 (3:00pm)
+
+    * [Fantastic Fest Presents Rrr Encore](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-rrr-encore): Thu 7/21 (2:30pm), Fri 7/22 (11:45am), Sat 7/23 (3:00pm), Sun 7/24 (3:00pm), Mon 7/25 (7:00pm), Tue 7/26 (11:25am), Wed 7/27 (5:45pm)
+
+    * [Fantastic Fest Presents Rude Boy](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-rude-boy): Fri 7/22 (11:20am)
+
+    * [Fire Of Love](https://drafthouse.com/los-angeles/show/fire-of-love): Thu 7/21 (3:45pm, 6:30pm, 9:30pm), Fri 7/22 (12:50pm, 4:00pm, 6:45pm, 9:45pm), Sat 7/23 (12:50pm, 4:00pm, 6:45pm, 9:45pm), Sun 7/24 (12:50pm, 4:00pm, 6:45pm), Mon 7/25 (12:45pm, 4:00pm, 6:45pm), Tue 7/26 (12:45pm, 4:00pm, 6:45pm), Wed 7/27 (1:00pm, 4:00pm, 6:45pm)
+
+    * [Marcel The Shell With Shoes On](https://drafthouse.com/los-angeles/show/marcel-the-shell-with-shoes-on): Thu 7/21 (4:30pm, 7:45pm, 10:30pm), Fri 7/22 (12:40pm, 3:45pm, 6:30pm, 9:15pm), Sat 7/23 (12:40pm, 3:45pm, 6:30pm, 9:15pm), Sun 7/24 (12:40pm, 3:45pm, 6:30pm), Mon 7/25 (12:45pm, 3:45pm, 6:30pm), Tue 7/26 (12:45pm, 3:45pm, 6:30pm), Wed 7/27 (11:10am, 12:45pm, 3:45pm, 6:30pm)
+
+    * [Minions The Rise Of Gru](https://drafthouse.com/los-angeles/show/minions-the-rise-of-gru): Thu 7/21 (3:00pm)
+
+    * [Mrs Harris Goes To Paris](https://drafthouse.com/los-angeles/show/mrs-harris-goes-to-paris): Thu 7/21 (4:15pm, 7:15pm, 10:15pm), Fri 7/22 (1:00pm, 4:25pm, 7:45pm, 10:45pm), Sat 7/23 (1:00pm, 4:15pm, 7:30pm, 10:30pm), Sun 7/24 (1:00pm, 4:30pm, 7:45pm), Mon 7/25 (1:15pm, 4:30pm, 7:45pm), Tue 7/26 (1:15pm, 4:30pm, 7:45pm), Wed 7/27 (1:15pm, 4:30pm, 7:45pm)
+
+    * [Nope](https://drafthouse.com/los-angeles/show/nope): Thu 7/21 (5:45pm, 7:00pm, 9:15pm, 10:30pm), Fri 7/22 (10:45am, 11:15am, 12:00pm, 2:00pm, 5:15pm, 7:15pm, 8:45pm, 10:45pm), Sat 7/23 (1:00pm, 2:15pm, 4:30pm, 5:40pm, 7:15pm, 9:00pm, 10:45pm), Sun 7/24 (1:30pm, 3:00pm, 6:30pm, 7:30pm), Mon 7/25 (12:30pm, 1:00pm, 4:30pm, 8:00pm), Tue 7/26 (1:00pm, 4:00pm, 4:30pm, 8:00pm), Wed 7/27 (11:30am, 1:00pm, 1:45pm, 4:30pm)
+
+    * [Nope Brunch](https://drafthouse.com/los-angeles/show/nope-brunch): Sat 7/23 (10:45am), Sun 7/24 (11:15am, 11:30am)
+
+    * [The Black Phone](https://drafthouse.com/los-angeles/show/the-black-phone): Thu 7/21 (4:45pm, 8:00pm, 10:45pm), Fri 7/22 (5:45pm, 9:00pm), Sat 7/23 (8:00pm, 11:00pm), Sun 7/24 (5:00pm, 8:00pm), Mon 7/25 (2:45pm, 5:30pm), Tue 7/26 (2:15pm, 5:15pm), Wed 7/27 (5:15pm, 8:00pm)
+
+    * [Thor Love And Thunder](https://drafthouse.com/los-angeles/show/thor-love-and-thunder): Thu 7/21 (3:30pm, 6:45pm, 10:00pm), Fri 7/22 (12:00pm, 3:30pm, 7:00pm, 10:15pm), Sat 7/23 (12:00pm, 3:30pm, 7:00pm, 10:15pm), Sun 7/24 (12:15pm, 3:45pm, 7:15pm), Mon 7/25 (12:15pm, 3:45pm, 7:30pm), Tue 7/26 (12:15pm, 3:45pm, 7:15pm), Wed 7/27 (12:15pm, 3:45pm, 7:15pm)
+
+    * [Top Gun Maverick](https://drafthouse.com/los-angeles/show/top-gun-maverick): Thu 7/21 (2:45pm, 7:00pm, 10:30pm), Fri 7/22 (11:10am, 2:45pm, 7:00pm, 10:15pm), Sat 7/23 (11:10am, 2:45pm, 7:15pm, 10:30pm), Sun 7/24 (11:15am, 2:45pm, 7:00pm), Mon 7/25 (11:15am, 2:45pm, 7:15pm), Tue 7/26 (11:15am, 2:45pm, 7:15pm), Wed 7/27 (11:20am, 2:45pm, 7:15pm)
+
+    * [Where The Crawdads Sing](https://drafthouse.com/los-angeles/show/where-the-crawdads-sing): Thu 7/21 (2:30pm, 6:00pm, 9:15pm), Fri 7/22 (11:00am, 2:15pm, 6:00pm, 9:15pm), Sat 7/23 (11:00am, 2:15pm, 6:00pm, 9:15pm), Sun 7/24 (11:00am, 2:15pm, 6:00pm), Mon 7/25 (11:00am, 2:15pm, 6:00pm), Tue 7/26 (11:00am, 2:15pm, 6:00pm), Wed 7/27 (11:00am, 2:15pm, 6:00pm)
+
 ### Thu 7/14 10:41pm
 * New movies: Hypochondriac
 
