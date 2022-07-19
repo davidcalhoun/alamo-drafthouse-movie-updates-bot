@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Tue 7/19 12:40pm
+
+* New screenings: 
+    * [Nope](https://drafthouse.com/raleigh/show/nope): Fri 7/22 (11:35pm), Sat 7/23 (11:35pm)
+
+    * [Thor Love And Thunder](https://drafthouse.com/raleigh/show/thor-love-and-thunder): Fri 7/22 (5:00pm, 11:35pm), Sat 7/23 (11:35pm)
+
 ### Tue 7/19 11:31am
 
 * New screenings: 
