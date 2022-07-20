@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 7/20 12:16pm
+
+* New screenings: 
+    * [The Thing](https://drafthouse.com/los-angeles/show/the-thing): Sat 8/6 (3:15pm), Sun 8/7 (1:30pm), Wed 8/10 (5:00pm)
+
 ### Wed 7/20 7:24am
 * New movies: Bullet Train
 
