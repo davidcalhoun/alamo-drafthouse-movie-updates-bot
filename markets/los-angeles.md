@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 7/19 7:02pm
+
+* New screenings: 
+    * [Samurai Cop](https://drafthouse.com/los-angeles/show/samurai-cop): Wed 7/27 (8:00pm)
+
 ### Tue 7/19 3:19pm
 * New movies: The Stendhal Syndrome
 
