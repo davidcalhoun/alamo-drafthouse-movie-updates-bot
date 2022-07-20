@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 7/20 11:27am
+* New movies: Bullet Train
+
+* New screenings: 
+    * [Bullet Train](https://drafthouse.com/raleigh/show/bullet-train): Thu 8/4 (3:30pm, 7:00pm, 10:30pm), Fri 8/5 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sat 8/6 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sun 8/7 (11:45am, 3:15pm, 6:45pm)
+
 ### Tue 7/19 12:40pm
 
 * New screenings: 
