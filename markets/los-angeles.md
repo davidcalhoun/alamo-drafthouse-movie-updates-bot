@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 7/20 7:24am
+* New movies: Bullet Train
+
+* New screenings: 
+    * [Bullet Train](https://drafthouse.com/los-angeles/show/bullet-train): Thu 8/4 (3:30pm, 7:00pm, 10:30pm), Fri 8/5 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sat 8/6 (12:00pm, 3:30pm, 7:15pm, 10:45pm), Sun 8/7 (12:00pm, 3:30pm, 7:00pm)
+
 ### Tue 7/19 7:02pm
 
 * New screenings: 
