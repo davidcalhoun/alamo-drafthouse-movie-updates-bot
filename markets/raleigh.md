@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 7/21 2:32pm
+* New movies: Apocalypse Now: Final Cut
+
+* New screenings: 
+    * [Apocalypse Now Final Cut](https://drafthouse.com/raleigh/show/apocalypse-now-final-cut): Sat 8/27 (6:15pm)
+
 ### Wed 7/20 11:27am
 * New movies: Bullet Train
 
