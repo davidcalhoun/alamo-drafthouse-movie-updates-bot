@@ -1,6 +1,22 @@
 # los-angeles
 
 ## Movie updates
+### Wed 7/20 7:02pm
+* New movies: The Dark Crystal, Pulp Fiction
+
+* New screenings: 
+    * [Brunch Screenings Howls Moving Castle Dubbed Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-howls-moving-castle-dubbed-brunch): Sat 10/29 (11:00am)
+
+    * [Koyaanisqatsi](https://drafthouse.com/los-angeles/show/koyaanisqatsi): Mon 8/15 (2:15pm)
+
+    * [Pulp Fiction](https://drafthouse.com/los-angeles/show/pulp-fiction): Mon 8/1 (7:30pm)
+
+    * [The Dark Crystal](https://drafthouse.com/los-angeles/show/the-dark-crystal): Mon 8/8 (2:15pm)
+
+    * [The Dark Crystal Brunch](https://drafthouse.com/los-angeles/show/the-dark-crystal-brunch): Sun 8/7 (11:30am)
+
+    * [The Thing](https://drafthouse.com/los-angeles/show/the-thing): Thu 8/11 (7:30pm)
+
 ### Wed 7/20 12:16pm
 
 * New screenings: 
