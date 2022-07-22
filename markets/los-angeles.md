@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 7/21 10:28pm
+* New movies: Nosferatu with Live Score by Invincible Czars
+
+* New screenings: 
+    * [Nosferatu With Invincible Czars](https://drafthouse.com/los-angeles/show/nosferatu-with-invincible-czars): Mon 9/26 (6:30pm, 9:30pm)
+
 ### Wed 7/20 7:02pm
 * New movies: The Dark Crystal, Pulp Fiction
 
