@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Fri 7/22 9:43am
+* New movies: Dragon Ball Super: Super Hero Dubbed, Dragon Ball Super: Super Hero Subtitled
+
+* New screenings: 
+    * [Dragon Ball Super Super Hero Dubbed](https://drafthouse.com/raleigh/show/dragon-ball-super-super-hero-dubbed): Thu 8/18 (5:00pm, 7:50pm), Fri 8/19 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Sat 8/20 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Sun 8/21 (12:45pm, 3:45pm, 6:45pm), Mon 8/22 (12:45pm, 3:45pm, 6:45pm), Tue 8/23 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Wed 8/24 (12:45pm, 3:45pm, 6:45pm, 9:45pm)
+
+    * [Dragon Ball Super Super Hero Subtitled](https://drafthouse.com/raleigh/show/dragon-ball-super-super-hero-subtitled): Thu 8/18 (10:45pm), Mon 8/22 (9:45pm)
+
 ### Thu 7/21 2:32pm
 * New movies: Apocalypse Now: Final Cut
 
