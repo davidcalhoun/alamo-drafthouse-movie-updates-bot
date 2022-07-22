@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 7/22 1:32pm
+* New movies: Nosferatu with Live Score by Invincible Czars
+
+* New screenings: 
+    * [Nosferatu With Invincible Czars](https://drafthouse.com/raleigh/show/nosferatu-with-invincible-czars): Mon 10/10 (6:30pm)
+
 ### Fri 7/22 9:43am
 * New movies: Dragon Ball Super: Super Hero Dubbed, Dragon Ball Super: Super Hero Subtitled
 
