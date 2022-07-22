@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 7/22 12:16pm
+* New movies: Inu-Oh Subtitled
+
+* New screenings: 
+    * [Inu Oh Subtitled](https://drafthouse.com/los-angeles/show/inu-oh-subtitled): Thu 8/11 (7:15pm), Fri 8/12 (7:15pm), Sat 8/13 (7:15pm), Sun 8/14 (7:15pm)
+
 ### Fri 7/22 6:39am
 * New movies: Dragon Ball Super: Super Hero Dubbed, Dragon Ball Super: Super Hero Subtitled
 
