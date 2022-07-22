@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 7/22 6:39am
+* New movies: Dragon Ball Super: Super Hero Dubbed, Dragon Ball Super: Super Hero Subtitled
+
+* New screenings: 
+    * [Dragon Ball Super Super Hero Dubbed](https://drafthouse.com/los-angeles/show/dragon-ball-super-super-hero-dubbed): Thu 8/18 (5:00pm, 7:45pm), Fri 8/19 (12:30pm, 3:30pm, 6:30pm), Sat 8/20 (12:30pm, 6:30pm, 9:30pm), Sun 8/21 (12:30pm, 3:30pm, 6:30pm), Mon 8/22 (12:30pm, 3:30pm, 6:30pm), Tue 8/23 (12:30pm, 3:30pm), Wed 8/24 (12:30pm, 3:30pm, 6:30pm)
+
+    * [Dragon Ball Super Super Hero Subtitled](https://drafthouse.com/los-angeles/show/dragon-ball-super-super-hero-subtitled): Thu 8/18 (10:30pm), Fri 8/19 (9:30pm), Sat 8/20 (3:30pm), Tue 8/23 (6:30pm)
+
 ### Thu 7/21 11:28pm
 * New movies: Apocalypse Now: Final Cut
 
