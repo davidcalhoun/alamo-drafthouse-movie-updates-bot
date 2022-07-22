@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 7/22 1:22pm
+* New movies: Bodies Bodies Bodies
+
+* New screenings: 
+    * [Bodies Bodies Bodies Livestream Qa](https://drafthouse.com/los-angeles/show/bodies-bodies-bodies-livestream-qa): Wed 8/3 (5:00pm)
+
 ### Fri 7/22 12:16pm
 * New movies: Inu-Oh Subtitled
 
