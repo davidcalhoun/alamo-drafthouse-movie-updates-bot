@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 7/21 11:28pm
+* New movies: Apocalypse Now: Final Cut
+
+* New screenings: 
+    * [Apocalypse Now Final Cut](https://drafthouse.com/los-angeles/show/apocalypse-now-final-cut): Fri 8/26 (6:00pm), Sat 8/27 (2:25pm)
+
+    * [They Live](https://drafthouse.com/los-angeles/show/they-live): Fri 8/26 (6:45pm), Sat 8/27 (6:45pm)
+
 ### Thu 7/21 10:28pm
 * New movies: Nosferatu with Live Score by Invincible Czars
 
