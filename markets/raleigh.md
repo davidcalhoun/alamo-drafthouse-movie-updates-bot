@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Sat 7/23 3:20pm
+
+* New screenings: 
+    * [Nope](https://drafthouse.com/raleigh/show/nope): Sat 7/23 (5:00pm)
+
 ### Fri 7/22 1:32pm
 * New movies: Nosferatu with Live Score by Invincible Czars
 
