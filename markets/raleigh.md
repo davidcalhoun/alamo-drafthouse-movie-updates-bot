@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Sun 7/24 11:26am
+
+* New screenings: 
+    * [Nope](https://drafthouse.com/raleigh/show/nope): Sun 7/24 (2:10pm)
+
 ### Sat 7/23 3:20pm
 
 * New screenings: 
