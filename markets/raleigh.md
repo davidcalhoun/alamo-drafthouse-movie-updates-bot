@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 7/26 11:29am
+* New movies: Bodies Bodies Bodies
+
+* New screenings: 
+    * [Bodies Bodies Bodies](https://drafthouse.com/raleigh/show/bodies-bodies-bodies): Thu 8/11 (7:00pm), Fri 8/12 (7:45pm), Sat 8/13 (7:45pm), Sun 8/14 (7:45pm)
+
 ### Mon 7/25 10:37pm
 * New movies: DC League of Super-Pets, Vengeance, Fire of Love, Everything Everywhere All At Once, Bodies Bodies Bodies, Hypochondriac
 
