@@ -1,6 +1,42 @@
 # raleigh
 
 ## Movie updates
+### Mon 7/25 10:37pm
+* New movies: DC League of Super-Pets, Vengeance, Fire of Love, Everything Everywhere All At Once, Bodies Bodies Bodies, Hypochondriac
+
+* New screenings: 
+    * [Bodies Bodies Bodies Livestream Qa](https://drafthouse.com/raleigh/show/bodies-bodies-bodies-livestream-qa): Wed 8/3 (8:00pm)
+
+    * [Dc League Of Super Pets](https://drafthouse.com/raleigh/show/dc-league-of-super-pets): Thu 7/28 (2:45pm, 6:00pm, 9:00pm), Fri 7/29 (11:45am, 2:45pm, 6:00pm, 9:00pm), Sat 7/30 (11:45am, 2:45pm, 6:00pm, 9:00pm), Sun 7/31 (11:45am, 2:45pm, 6:00pm), Mon 8/1 (11:45am, 2:45pm, 6:00pm, 9:00pm), Tue 8/2 (11:45am, 2:45pm, 6:00pm, 9:00pm), Wed 8/3 (11:45am, 2:45pm, 6:00pm, 9:00pm)
+
+    * [Elvis](https://drafthouse.com/raleigh/show/elvis): Thu 7/28 (11:30am)
+
+    * [Everything Everywhere All At Once With Bonus Content](https://drafthouse.com/raleigh/show/everything-everywhere-all-at-once-with-bonus-content): Mon 8/1 (9:00pm), Tue 8/2 (9:00pm)
+
+    * [Fire Of Love](https://drafthouse.com/raleigh/show/fire-of-love): Thu 7/28 (7:15pm, 9:55pm), Fri 7/29 (1:15pm, 4:15pm, 7:15pm, 9:55pm), Sat 7/30 (1:15pm, 4:30pm, 7:15pm, 9:55pm), Sun 7/31 (1:15pm, 4:30pm, 7:30pm), Mon 8/1 (1:15pm, 4:15pm, 7:15pm, 9:55pm), Tue 8/2 (1:15pm, 4:15pm, 7:15pm, 9:55pm), Wed 8/3 (1:15pm, 4:15pm, 7:15pm, 9:55pm)
+
+    * [Hypochondriac](https://drafthouse.com/raleigh/show/hypochondriac): Tue 8/2 (10:30pm), Wed 8/3 (9:00pm)
+
+    * [Kids Camp Superman 1978](https://drafthouse.com/raleigh/show/kids-camp-superman-1978): Wed 8/3 (11:00am)
+
+    * [Marcel The Shell With Shoes On](https://drafthouse.com/raleigh/show/marcel-the-shell-with-shoes-on): Thu 7/28 (1:00pm, 3:45pm, 6:15pm, 9:15pm), Fri 7/29 (12:30pm, 6:15pm), Sat 7/30 (3:45pm, 6:15pm), Sun 7/31 (11:45am, 6:15pm), Mon 8/1 (4:15pm, 6:15pm), Tue 8/2 (4:10pm, 6:15pm), Wed 8/3 (4:15pm, 6:15pm)
+
+    * [Minions The Rise Of Gru](https://drafthouse.com/raleigh/show/minions-the-rise-of-gru): Thu 7/28 (12:45pm, 3:30pm, 6:00pm, 8:45pm), Fri 7/29 (12:45pm, 3:15pm, 6:00pm, 8:50pm), Sat 7/30 (12:45pm, 3:15pm, 6:00pm, 8:45pm), Sun 7/31 (12:40pm, 3:15pm, 6:00pm), Mon 8/1 (12:30pm, 3:30pm, 6:05pm, 8:45pm), Tue 8/2 (12:30pm, 3:30pm, 6:05pm, 8:45pm), Wed 8/3 (12:30pm, 3:30pm, 6:05pm, 8:45pm)
+
+    * [Nope](https://drafthouse.com/raleigh/show/nope): Thu 7/28 (11:45am, 12:15pm, 1:00pm, 2:15pm, 3:00pm, 3:40pm, 4:15pm, 5:45pm, 6:30pm, 7:00pm, 9:00pm, 10:20pm, 10:50pm), Fri 7/29 (11:00am, 11:45am, 12:15pm, 2:20pm, 3:00pm, 3:40pm, 5:45pm, 6:35pm, 7:00pm, 9:15pm, 10:20pm, 10:50pm), Sat 7/30 (11:00am, 11:45am, 12:15pm, 2:20pm, 3:00pm, 3:40pm, 5:45pm, 6:35pm, 7:00pm, 9:00pm, 10:20pm, 10:50pm), Sun 7/31 (12:15pm, 12:45pm, 2:30pm, 3:40pm, 4:15pm, 5:30pm, 7:00pm), Mon 8/1 (11:45am, 12:15pm, 12:45pm, 2:05pm, 3:00pm, 3:40pm, 5:35pm, 7:00pm, 9:20pm, 10:20pm), Tue 8/2 (11:45am, 12:15pm, 12:45pm, 2:25pm, 3:00pm, 3:40pm, 5:45pm, 7:00pm, 9:20pm, 10:20pm), Wed 8/3 (11:45am, 12:15pm, 12:45pm, 2:25pm, 3:00pm, 3:40pm, 5:45pm, 9:20pm, 10:20pm, 11:00pm)
+
+    * [Paws Of Fury The Legend Of Hank](https://drafthouse.com/raleigh/show/paws-of-fury-the-legend-of-hank): Thu 7/28 (1:45pm)
+
+    * [The Black Phone](https://drafthouse.com/raleigh/show/the-black-phone): Thu 7/28 (4:30pm)
+
+    * [Thor Love And Thunder](https://drafthouse.com/raleigh/show/thor-love-and-thunder): Thu 7/28 (1:15pm, 4:30pm, 7:45pm, 10:00pm), Fri 7/29 (1:15pm, 4:30pm, 7:45pm, 10:00pm), Sat 7/30 (1:15pm, 4:30pm, 7:45pm, 10:00pm), Sun 7/31 (11:00am, 2:15pm, 6:30pm), Mon 8/1 (1:15pm, 4:30pm, 7:45pm, 10:50pm), Tue 8/2 (1:15pm, 4:30pm, 7:45pm, 10:50pm), Wed 8/3 (1:15pm, 4:30pm, 7:00pm, 10:30pm)
+
+    * [Top Gun Maverick](https://drafthouse.com/raleigh/show/top-gun-maverick): Thu 7/28 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Fri 7/29 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Sat 7/30 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Sun 7/31 (12:00pm, 3:15pm, 6:30pm), Mon 8/1 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Tue 8/2 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Wed 8/3 (12:00pm, 3:15pm, 6:30pm, 9:45pm)
+
+    * [Vengeance](https://drafthouse.com/raleigh/show/vengeance): Thu 7/28 (7:30pm, 10:20pm), Fri 7/29 (1:00pm, 4:00pm, 7:30pm, 10:20pm), Sat 7/30 (1:00pm, 4:00pm, 7:30pm, 10:20pm), Sun 7/31 (1:00pm, 4:00pm, 7:15pm), Mon 8/1 (1:00pm, 4:00pm, 7:30pm, 10:35pm), Tue 8/2 (1:00pm, 4:00pm, 7:30pm, 10:35pm), Wed 8/3 (1:00pm, 4:00pm, 7:30pm, 10:35pm)
+
+    * [Where The Crawdads Sing](https://drafthouse.com/raleigh/show/where-the-crawdads-sing): Thu 7/28 (11:30am, 3:15pm, 6:45pm, 10:00pm), Fri 7/29 (12:00pm, 3:15pm, 6:45pm, 10:00pm), Sat 7/30 (12:00pm, 3:15pm, 6:45pm, 10:00pm), Sun 7/31 (12:00pm, 3:30pm, 6:45pm), Mon 8/1 (12:00pm, 3:15pm, 6:45pm, 10:00pm), Tue 8/2 (12:00pm, 3:15pm, 6:45pm, 10:00pm), Wed 8/3 (12:00pm, 3:15pm, 6:45pm, 10:00pm)
+
 ### Sun 7/24 11:26am
 
 * New screenings: 
