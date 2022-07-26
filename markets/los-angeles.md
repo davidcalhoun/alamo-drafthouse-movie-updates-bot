@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 7/26 9:29am
+* New movies: Bodies Bodies Bodies
+
+* New screenings: 
+    * [Bodies Bodies Bodies](https://drafthouse.com/los-angeles/show/bodies-bodies-bodies): Thu 8/11 (7:00pm, 10:00pm), Fri 8/12 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sat 8/13 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sun 8/14 (1:00pm, 4:00pm, 7:30pm)
+
 ### Tue 7/26 8:23am
 * New movies: DC League of Super-Pets, Vengeance, Resurrection, Everything Everywhere All At Once, Medusa, Hypochondriac, Once Upon a Time in China, Once Upon a Time in China
 
