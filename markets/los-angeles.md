@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 7/26 10:23am
+
+* New screenings: 
+    * [Easter Sunday](https://drafthouse.com/los-angeles/show/easter-sunday): Sat 8/6 (7:00pm)
+
 ### Tue 7/26 9:29am
 * New movies: Bodies Bodies Bodies
 
