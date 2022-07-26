@@ -1,6 +1,42 @@
 # los-angeles
 
 ## Movie updates
+### Tue 7/26 8:23am
+* New movies: DC League of Super-Pets, Vengeance, Resurrection, Everything Everywhere All At Once, Medusa, Hypochondriac, Once Upon a Time in China, Once Upon a Time in China
+
+* New screenings: 
+    * [Dc League Of Super Pets](https://drafthouse.com/los-angeles/show/dc-league-of-super-pets): Thu 7/28 (2:30pm, 3:30pm, 6:30pm, 9:45pm, 10:30pm), Fri 7/29 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 7/30 (1:10pm, 3:40pm, 6:30pm, 9:35pm), Sun 7/31 (12:00pm, 3:00pm, 6:00pm), Mon 8/1 (12:00pm, 3:00pm, 6:00pm), Tue 8/2 (12:00pm, 3:00pm, 6:00pm), Wed 8/3 (1:15pm, 3:00pm, 6:00pm)
+
+    * [Elvis](https://drafthouse.com/los-angeles/show/elvis): Thu 7/28 (3:00pm, 6:45pm, 9:45pm), Fri 7/29 (11:15am, 3:00pm, 6:00pm, 9:50pm), Sat 7/30 (11:15am, 3:00pm, 6:00pm, 10:00pm), Sun 7/31 (11:15am, 3:00pm, 6:00pm), Mon 8/1 (11:15am, 3:00pm, 6:00pm), Tue 8/2 (11:15am, 3:00pm, 6:45pm), Wed 8/3 (11:15am, 3:00pm, 6:00pm)
+
+    * [Everything Everywhere All At Once With Bonus Content](https://drafthouse.com/los-angeles/show/everything-everywhere-all-at-once-with-bonus-content): Fri 7/29 (11:45am), Sat 7/30 (3:25pm), Sun 7/31 (12:25pm), Tue 8/2 (4:15pm), Wed 8/3 (1:00pm)
+
+    * [Fire Of Love](https://drafthouse.com/los-angeles/show/fire-of-love): Thu 7/28 (4:30pm, 7:45pm), Fri 7/29 (4:45pm, 7:45pm), Sat 7/30 (4:45pm, 7:45pm), Sun 7/31 (4:50pm, 7:45pm), Mon 8/1 (4:50pm, 7:45pm), Tue 8/2 (4:50pm, 7:45pm), Wed 8/3 (4:50pm, 7:45pm)
+
+    * [Fist City Once Upon A Time In China](https://drafthouse.com/los-angeles/show/fist-city-once-upon-a-time-in-china): Mon 8/1 (8:00pm)
+
+    * [Hypochondriac](https://drafthouse.com/los-angeles/show/hypochondriac): Fri 7/29 (10:00pm), Sat 7/30 (7:00pm), Sun 7/31 (7:00pm), Mon 8/1 (5:15pm), Tue 8/2 (3:00pm), Wed 8/3 (8:15pm)
+
+    * [Marcel The Shell With Shoes On](https://drafthouse.com/los-angeles/show/marcel-the-shell-with-shoes-on): Thu 7/28 (3:15pm, 6:00pm, 8:45pm), Fri 7/29 (1:00pm, 3:45pm, 6:30pm, 9:15pm), Sat 7/30 (12:45pm, 4:45pm, 7:20pm, 10:10pm), Sun 7/31 (1:00pm, 3:45pm, 6:30pm), Mon 8/1 (1:00pm, 3:45pm, 6:30pm), Tue 8/2 (11:30am, 2:15pm, 6:00pm), Wed 8/3 (1:00pm, 3:45pm, 6:30pm)
+
+    * [Medusa](https://drafthouse.com/los-angeles/show/medusa): Fri 7/29 (7:15pm, 10:30pm), Sat 7/30 (2:30pm, 9:50pm), Mon 8/1 (12:30pm, 4:00pm), Tue 8/2 (1:00pm, 5:45pm), Wed 8/3 (1:45pm, 4:45pm)
+
+    * [Mrs Harris Goes To Paris](https://drafthouse.com/los-angeles/show/mrs-harris-goes-to-paris): Thu 7/28 (3:45pm)
+
+    * [Nope](https://drafthouse.com/los-angeles/show/nope): Thu 7/28 (2:15pm, 3:30pm, 4:15pm, 6:45pm, 9:15pm, 10:15pm, 10:45pm), Fri 7/29 (11:00am, 12:00pm, 12:30pm, 1:30pm, 2:15pm, 3:30pm, 3:45pm, 5:45pm, 6:45pm, 9:15pm, 10:15pm, 10:45pm), Sat 7/30 (11:45am, 1:30pm, 2:30pm, 3:35pm, 6:00pm, 7:00pm, 10:30pm, 10:45pm), Sun 7/31 (12:00pm, 1:30pm, 2:20pm, 3:30pm, 5:45pm, 7:00pm), Mon 8/1 (11:00am, 12:00pm, 1:30pm, 2:20pm, 3:30pm, 5:45pm, 7:00pm), Tue 8/2 (11:45am, 12:30pm, 1:30pm, 3:00pm, 3:45pm, 6:30pm), Wed 8/3 (11:15am, 11:45am, 1:30pm, 2:30pm, 5:00pm, 5:45pm, 8:00pm)
+
+    * [Nope Brunch](https://drafthouse.com/los-angeles/show/nope-brunch): Sat 7/30 (11:15am), Sun 7/31 (11:00am)
+
+    * [Resurrection](https://drafthouse.com/los-angeles/show/resurrection): Thu 7/28 (7:15pm, 10:15pm), Fri 7/29 (1:15pm, 4:15pm, 7:15pm, 10:30pm), Sat 7/30 (1:15pm, 4:15pm, 7:15pm, 10:30pm), Sun 7/31 (1:15pm, 4:15pm, 7:15pm), Mon 8/1 (1:15pm, 4:15pm, 7:15pm), Tue 8/2 (1:15pm, 4:15pm, 7:15pm), Wed 8/3 (1:15pm, 4:15pm, 7:15pm)
+
+    * [Thor Love And Thunder](https://drafthouse.com/los-angeles/show/thor-love-and-thunder): Thu 7/28 (3:45pm, 7:15pm, 9:30pm), Fri 7/29 (12:45pm, 4:00pm, 7:30pm, 10:45pm), Sat 7/30 (12:15pm, 4:00pm, 7:30pm, 10:45pm), Sun 7/31 (12:45pm, 4:15pm, 7:30pm), Mon 8/1 (12:45pm, 4:15pm, 7:30pm), Tue 8/2 (12:45pm, 4:15pm, 7:30pm), Wed 8/3 (12:45pm, 4:15pm, 7:30pm)
+
+    * [Top Gun Maverick](https://drafthouse.com/los-angeles/show/top-gun-maverick): Thu 7/28 (2:45pm, 6:15pm, 10:45pm), Fri 7/29 (11:30am, 2:45pm, 6:45pm, 10:15pm), Sat 7/30 (11:30am, 2:45pm, 6:45pm, 10:15pm), Sun 7/31 (11:30am, 2:45pm, 6:45pm), Mon 8/1 (11:30am, 2:45pm, 6:45pm), Tue 8/2 (11:30am, 2:45pm), Wed 8/3 (11:30am, 2:45pm, 6:45pm)
+
+    * [Vengeance](https://drafthouse.com/los-angeles/show/vengeance): Thu 7/28 (7:30pm, 10:30pm, 11:00pm), Fri 7/29 (12:15pm, 3:15pm, 6:15pm, 9:30pm), Sat 7/30 (12:30pm, 3:10pm, 6:15pm, 9:20pm), Sun 7/31 (12:15pm, 3:15pm, 6:15pm), Mon 8/1 (12:15pm, 3:15pm, 6:15pm), Tue 8/2 (12:15pm, 3:15pm, 6:15pm), Wed 8/3 (12:15pm, 3:15pm, 6:15pm)
+
+    * [Where The Crawdads Sing](https://drafthouse.com/los-angeles/show/where-the-crawdads-sing): Thu 7/28 (4:00pm)
+
 ### Fri 7/22 1:22pm
 * New movies: Bodies Bodies Bodies
 
