@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 7/27 2:17pm
+
+* New screenings: 
+    * [The Thing](https://drafthouse.com/los-angeles/show/the-thing): Mon 8/8 (4:30pm)
+
 ### Tue 7/26 10:23am
 
 * New screenings: 
