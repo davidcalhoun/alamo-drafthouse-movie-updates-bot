@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 7/27 4:25pm
+* New movies: Fast Times at Ridgemont High 40th Anniversary
+
+* New screenings: 
+    * [Fast Times At Ridgemont High 40th Anniversary](https://drafthouse.com/raleigh/show/fast-times-at-ridgemont-high-40th-anniversary): Sat 8/6 (2:15pm)
+
 ### Tue 7/26 11:29am
 * New movies: Bodies Bodies Bodies
 
