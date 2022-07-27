@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Wed 7/27 5:21pm
+* New movies: Lost Highway
+
+* New screenings: 
+    * [Fast Times At Ridgemont High 40th Anniversary](https://drafthouse.com/raleigh/show/fast-times-at-ridgemont-high-40th-anniversary): Wed 8/10 (12:00pm)
+
+    * [Lost Highway](https://drafthouse.com/raleigh/show/lost-highway): Tue 8/9 (7:15pm)
+
+    * [The Thing](https://drafthouse.com/raleigh/show/the-thing): Mon 8/8 (3:00pm)
+
 ### Wed 7/27 4:25pm
 * New movies: Fast Times at Ridgemont High 40th Anniversary
 
