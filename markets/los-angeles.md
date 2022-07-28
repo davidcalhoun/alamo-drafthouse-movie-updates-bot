@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 7/28 4:22pm
+
+* New screenings: 
+    * [Nope](https://drafthouse.com/los-angeles/show/nope): Thu 7/28 (10:30pm)
+
 ### Wed 7/27 2:17pm
 
 * New screenings: 
