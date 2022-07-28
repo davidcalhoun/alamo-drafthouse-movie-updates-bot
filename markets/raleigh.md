@@ -1,6 +1,20 @@
 # raleigh
 
 ## Movie updates
+### Thu 7/28 12:39pm
+* New movies: Castle in the Sky Subtitled, Castle in the Sky Dubbed
+
+* New screenings: 
+    * [Blade Runner The Final Cut](https://drafthouse.com/raleigh/show/blade-runner-the-final-cut): Sat 8/13 (10:00pm), Tue 8/16 (6:15pm)
+
+    * [Castle In The Sky Dubbed](https://drafthouse.com/raleigh/show/castle-in-the-sky-dubbed): Fri 9/23 (3:00pm)
+
+    * [Castle In The Sky Subtitled](https://drafthouse.com/raleigh/show/castle-in-the-sky-subtitled): Sun 9/25 (2:15pm), Mon 9/26 (3:00pm)
+
+    * [The Last Unicorn](https://drafthouse.com/raleigh/show/the-last-unicorn): Sun 8/14 (2:45pm)
+
+    * [The Thing](https://drafthouse.com/raleigh/show/the-thing): Fri 8/12 (5:45pm)
+
 ### Wed 7/27 5:21pm
 * New movies: Lost Highway
 
