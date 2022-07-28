@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 7/28 6:24pm
+* New movies: Pulp Fiction
+
+* New screenings: 
+    * [Nope](https://drafthouse.com/raleigh/show/nope): Fri 7/29 (8:50pm), Sat 7/30 (8:30pm)
+
 ### Thu 7/28 12:39pm
 * New movies: Castle in the Sky Subtitled, Castle in the Sky Dubbed
 
