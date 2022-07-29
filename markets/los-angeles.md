@@ -1,6 +1,20 @@
 # los-angeles
 
 ## Movie updates
+### Fri 7/29 2:18pm
+* New movies: Fast Times at Ridgemont High 40th Anniversary, THE GODFATHER
+
+* New screenings: 
+    * [Big Screen Classics The Godfather](https://drafthouse.com/los-angeles/show/big-screen-classics-the-godfather): Sat 9/3 (3:30pm)
+
+    * [Blade Runner The Final Cut](https://drafthouse.com/los-angeles/show/blade-runner-the-final-cut): Fri 8/12 (5:45pm)
+
+    * [Fast Times At Ridgemont High 40th Anniversary](https://drafthouse.com/los-angeles/show/fast-times-at-ridgemont-high-40th-anniversary): Tue 8/9 (2:00pm, 7:45pm)
+
+    * [Koyaanisqatsi](https://drafthouse.com/los-angeles/show/koyaanisqatsi): Sat 8/13 (2:20pm)
+
+    * [Prince Of Darkness](https://drafthouse.com/los-angeles/show/prince-of-darkness): Thu 8/18 (7:30pm)
+
 ### Fri 7/29 1:21pm
 * New movies: I Love My Dad
 
