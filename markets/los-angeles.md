@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 7/29 8:25am
+* New movies: Vengeance
+
+* New screenings: 
+    * [Live Q A Vengeance](https://drafthouse.com/los-angeles/show/live-q-a-vengeance): Sun 7/31 (6:15pm)
+
 ### Thu 7/28 4:22pm
 
 * New screenings: 
