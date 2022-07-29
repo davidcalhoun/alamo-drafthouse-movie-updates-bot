@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 7/29 1:21pm
+* New movies: I Love My Dad
+
+* New screenings: 
+    * [I Love My Dad Live Qa](https://drafthouse.com/los-angeles/show/i-love-my-dad-live-qa): Sat 8/6 (5:00pm, 8:15pm)
+
 ### Fri 7/29 8:25am
 * New movies: Vengeance
 
