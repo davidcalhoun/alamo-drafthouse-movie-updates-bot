@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 7/29 9:41pm
+
+* New screenings: 
+    * [Fast Times At Ridgemont High 40th Anniversary](https://drafthouse.com/los-angeles/show/fast-times-at-ridgemont-high-40th-anniversary): Wed 8/10 (2:00pm, 7:00pm)
+
 ### Fri 7/29 2:18pm
 * New movies: Fast Times at Ridgemont High 40th Anniversary, THE GODFATHER
 
