@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Sat 7/30 12:33pm
+
+* New screenings: 
+    * [Dc League Of Super Pets](https://drafthouse.com/raleigh/show/dc-league-of-super-pets): Sun 7/31 (10:25am)
+
 ### Thu 7/28 6:24pm
 * New movies: Pulp Fiction
 
