@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 8/1 1:25pm
+* New movies: Heat
+
+* New screenings: 
+    * [Heat](https://drafthouse.com/los-angeles/show/heat): Tue 8/9 (11:45am, 3:45pm, 7:45pm)
+
 ### Fri 7/29 9:41pm
 
 * New screenings: 
