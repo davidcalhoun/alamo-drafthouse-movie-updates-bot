@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 8/1 3:22pm
+* New movies: Hypochondriac
+
+
+
 ### Mon 8/1 1:25pm
 * New movies: Heat
 
