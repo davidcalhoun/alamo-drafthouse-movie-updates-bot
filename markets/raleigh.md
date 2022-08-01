@@ -1,6 +1,34 @@
 # raleigh
 
 ## Movie updates
+### Mon 8/1 3:19pm
+* New movies: Easter Sunday
+
+* New screenings: 
+    * [Bullet Train](https://drafthouse.com/raleigh/show/bullet-train): Thu 8/4 (5:45pm, 9:00pm), Fri 8/5 (11:00am, 2:15pm, 5:30pm, 8:45pm), Sat 8/6 (11:15am, 2:45pm, 6:00pm, 8:45pm), Sun 8/7 (11:15am, 2:45pm, 6:00pm), Mon 8/8 (11:30am, 12:15pm, 2:45pm, 3:30pm, 6:15pm, 7:00pm, 10:30pm), Tue 8/9 (11:00am, 11:30am, 2:15pm, 3:00pm, 3:45pm, 5:30pm, 6:30pm, 8:45pm, 10:00pm), Wed 8/10 (11:15am, 12:00pm, 2:30pm, 3:30pm, 6:00pm, 7:00pm, 8:45pm, 10:30pm)
+
+    * [Dc League Of Super Pets](https://drafthouse.com/raleigh/show/dc-league-of-super-pets): Thu 8/4 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Fri 8/5 (11:15am, 2:45pm, 6:00pm, 9:00pm), Sat 8/6 (11:00am, 2:45pm, 6:00pm, 9:00pm), Sun 8/7 (12:30pm, 2:30pm, 6:00pm), Mon 8/8 (11:15am, 2:45pm, 6:00pm, 9:00pm), Tue 8/9 (11:15am, 2:45pm, 6:00pm, 9:00pm), Wed 8/10 (11:00am, 2:45pm, 6:00pm, 9:00pm)
+
+    * [Easter Sunday](https://drafthouse.com/raleigh/show/easter-sunday): Thu 8/4 (5:00pm, 7:45pm, 10:30pm), Fri 8/5 (11:15am, 2:00pm, 5:00pm, 7:45pm, 10:30pm), Sat 8/6 (11:15am, 2:00pm, 5:00pm, 7:45pm, 10:30pm), Sun 8/7 (11:00am, 2:00pm, 5:00pm, 7:45pm), Mon 8/8 (11:15am, 2:00pm, 5:00pm, 7:45pm, 10:30pm), Tue 8/9 (11:15am, 2:00pm, 5:00pm, 7:45pm, 10:30pm), Wed 8/10 (11:15am, 2:00pm, 5:00pm, 7:45pm, 10:30pm)
+
+    * [Fire Of Love](https://drafthouse.com/raleigh/show/fire-of-love): Thu 8/4 (5:15pm), Fri 8/5 (6:00pm), Sat 8/6 (5:45pm), Sun 8/7 (6:30pm), Mon 8/8 (9:50pm), Tue 8/9 (5:45pm), Wed 8/10 (5:45pm)
+
+    * [Marcel The Shell With Shoes On](https://drafthouse.com/raleigh/show/marcel-the-shell-with-shoes-on): Thu 8/4 (3:00pm, 8:00pm)
+
+    * [Minions The Rise Of Gru](https://drafthouse.com/raleigh/show/minions-the-rise-of-gru): Thu 8/4 (12:00pm, 2:30pm)
+
+    * [Nope](https://drafthouse.com/raleigh/show/nope): Thu 8/4 (11:45am, 12:15pm, 12:45pm, 1:00pm, 1:45pm, 4:00pm, 6:15pm, 7:15pm, 9:30pm, 10:30pm), Fri 8/5 (11:30am, 11:45am, 2:00pm, 2:45pm, 3:00pm, 5:45pm, 6:15pm, 9:00pm, 9:30pm), Sat 8/6 (11:30am, 11:45am, 2:00pm, 3:00pm, 5:15pm, 6:15pm, 8:30pm, 9:15pm), Sun 8/7 (11:15am, 11:45am, 2:15pm, 3:00pm, 5:45pm, 6:15pm), Mon 8/8 (11:30am, 12:45pm, 2:30pm, 4:10pm, 5:45pm, 6:30pm, 9:45pm, 10:30pm), Tue 8/9 (11:30am, 12:15pm, 2:25pm, 3:30pm, 7:00pm, 8:30pm, 10:45pm), Wed 8/10 (11:30am, 11:30am, 2:00pm, 2:45pm, 5:15pm, 6:15pm, 8:30pm, 9:15pm)
+
+    * [The Thing](https://drafthouse.com/raleigh/show/the-thing): Wed 8/10 (9:30pm)
+
+    * [Thor Love And Thunder](https://drafthouse.com/raleigh/show/thor-love-and-thunder): Thu 8/4 (11:30am, 2:45pm, 4:15pm, 7:30pm, 10:45pm), Fri 8/5 (11:30am, 1:00pm, 4:15pm, 7:30pm, 10:45pm), Sat 8/6 (1:00pm, 4:15pm, 7:30pm, 10:45pm), Sun 8/7 (1:00pm, 4:15pm, 7:30pm), Mon 8/8 (11:45am, 2:15pm, 6:00pm, 9:00pm), Tue 8/9 (12:30pm, 1:00pm, 4:15pm, 7:30pm, 10:45pm), Wed 8/10 (1:00pm, 4:15pm, 7:30pm, 10:45pm)
+
+    * [Top Gun Maverick](https://drafthouse.com/raleigh/show/top-gun-maverick): Thu 8/4 (12:30pm, 4:00pm, 7:30pm, 10:45pm), Fri 8/5 (12:45pm, 4:00pm, 7:30pm, 10:45pm), Sat 8/6 (12:45pm, 4:00pm, 7:30pm, 10:45pm), Sun 8/7 (12:45pm, 4:00pm, 7:30pm), Mon 8/8 (12:45pm, 4:00pm, 7:30pm, 10:45pm), Tue 8/9 (12:45pm, 4:00pm, 7:30pm, 10:45pm), Wed 8/10 (12:45pm, 4:00pm, 7:30pm, 10:45pm)
+
+    * [Vengeance](https://drafthouse.com/raleigh/show/vengeance): Thu 8/4 (12:45pm, 3:45pm, 6:45pm, 10:00pm), Fri 8/5 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Sat 8/6 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Sun 8/7 (12:15pm, 3:45pm, 7:00pm), Mon 8/8 (12:30pm, 3:45pm, 6:45pm, 10:00pm), Tue 8/9 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Wed 8/10 (12:15pm, 3:30pm, 6:45pm, 10:00pm)
+
+    * [Where The Crawdads Sing](https://drafthouse.com/raleigh/show/where-the-crawdads-sing): Thu 8/4 (11:45am, 3:15pm, 6:30pm, 9:45pm), Fri 8/5 (11:45am, 3:15pm, 6:30pm, 9:45pm), Sat 8/6 (11:45am, 3:15pm, 6:30pm, 9:45pm), Sun 8/7 (11:30am, 3:00pm, 6:30pm), Mon 8/8 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Tue 8/9 (11:15am, 2:45pm, 6:15pm, 9:30pm), Wed 8/10 (11:45am, 3:15pm, 6:30pm, 9:45pm)
+
 ### Sat 7/30 12:33pm
 
 * New screenings: 
