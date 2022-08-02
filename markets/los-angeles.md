@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Tue 8/2 10:27am
+
+* New screenings: 
+    * [Bullet Train](https://drafthouse.com/los-angeles/show/bullet-train): Tue 8/9 (6:00pm)
+
+    * [Heat](https://drafthouse.com/los-angeles/show/heat): Tue 8/9 (3:00pm, 7:00pm)
+
 ### Mon 8/1 9:28pm
 * New movies: I Love My Dad
 
