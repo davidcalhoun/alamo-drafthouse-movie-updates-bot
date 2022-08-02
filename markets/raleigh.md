@@ -1,6 +1,18 @@
 # raleigh
 
 ## Movie updates
+### Tue 8/2 5:22pm
+* New movies: Coraline 3D, Dynasty 3-D, Giant, THE GODFATHER
+
+* New screenings: 
+    * [Big Screen Classics The Godfather](https://drafthouse.com/raleigh/show/big-screen-classics-the-godfather): Sat 9/3 (3:00pm)
+
+    * [Coraline 3d](https://drafthouse.com/raleigh/show/coraline-3d): Sat 9/17 (11:30am)
+
+    * [Fist City Dynasty 3d](https://drafthouse.com/raleigh/show/fist-city-dynasty-3d): Mon 9/26 (7:00pm)
+
+    * [Giant](https://drafthouse.com/raleigh/show/giant): Sun 9/4 (2:00pm)
+
 ### Mon 8/1 3:19pm
 * New movies: Easter Sunday
 
