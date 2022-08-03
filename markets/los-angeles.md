@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Wed 8/3 12:18am
+* New movies: Coraline 3D, Dynasty 3-D
+
+* New screenings: 
+    * [Big Screen Classics The Godfather](https://drafthouse.com/los-angeles/show/big-screen-classics-the-godfather): Sun 9/4 (2:00pm)
+
+    * [Coraline 3d](https://drafthouse.com/los-angeles/show/coraline-3d): Sat 9/17 (11:30am)
+
+    * [Fist City Dynasty 3d](https://drafthouse.com/los-angeles/show/fist-city-dynasty-3d): Tue 9/27 (8:00pm)
+
 ### Tue 8/2 10:27am
 
 * New screenings: 
