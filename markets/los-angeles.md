@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 8/4 6:39am
+* New movies: Laal Singh Chaddha
+
+* New screenings: 
+    * [Laal Singh Chaddha](https://drafthouse.com/los-angeles/show/laal-singh-chaddha): Thu 8/11 (6:30pm), Fri 8/12 (6:30pm), Sat 8/13 (6:30pm), Sun 8/14 (6:30pm)
+
 ### Wed 8/3 12:18am
 * New movies: Coraline 3D, Dynasty 3-D
 
