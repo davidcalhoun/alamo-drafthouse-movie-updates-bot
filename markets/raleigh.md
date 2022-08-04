@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Thu 8/4 7:24pm
+* New movies: The Godfather
+
+
+
 ### Tue 8/2 5:22pm
 * New movies: Coraline 3D, Dynasty 3-D, Giant, THE GODFATHER
 
