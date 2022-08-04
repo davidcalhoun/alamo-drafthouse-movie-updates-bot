@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 8/4 1:22pm
+
+* New screenings: 
+    * [Heat](https://drafthouse.com/los-angeles/show/heat): Tue 8/9 (11:30am, 1:00pm, 2:10pm, 7:15pm)
+
 ### Thu 8/4 6:39am
 * New movies: Laal Singh Chaddha
 
