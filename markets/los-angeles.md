@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 8/4 4:19pm
+* New movies: The Godfather
+
+
+
 ### Thu 8/4 1:22pm
 
 * New screenings: 
