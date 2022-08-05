@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 8/4 10:33pm
+* New movies: Steel Magnolias
+
+* New screenings: 
+    * [Steel Magnolias Brunch](https://drafthouse.com/los-angeles/show/steel-magnolias-brunch): Sat 9/3 (12:15pm)
+
 ### Thu 8/4 6:59pm
 * New movies: The Godfather Part II, Pet Sematary, Castle in the Sky Dubbed, La Mujer Murcielago The Batwoman, Peggy Sue Got Married, The Outsiders: The Complete Novel, Dredd, The Dark Knight, Fitzcarraldo, Mario Puzo’s The Godfather, Coda: The Death of Michael Corleone, Rumble Fish, Tucker: The Man and His Dream, The Conversation, DIAL M FOR MURDER 3D, Creature from the Black Lagoon, JACKASS 3D, THE DARK KNIGHT RISES
 
