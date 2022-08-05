@@ -1,6 +1,46 @@
 # los-angeles
 
 ## Movie updates
+### Thu 8/4 6:59pm
+* New movies: The Godfather Part II, Pet Sematary, Castle in the Sky Dubbed, La Mujer Murcielago The Batwoman, Peggy Sue Got Married, The Outsiders: The Complete Novel, Dredd, The Dark Knight, Fitzcarraldo, Mario Puzo’s The Godfather, Coda: The Death of Michael Corleone, Rumble Fish, Tucker: The Man and His Dream, The Conversation, DIAL M FOR MURDER 3D, Creature from the Black Lagoon, JACKASS 3D, THE DARK KNIGHT RISES
+
+* New screenings: 
+    * [Big Screen Classics Dial M For Murder 3d](https://drafthouse.com/los-angeles/show/big-screen-classics-dial-m-for-murder-3d): Mon 9/19 (3:30pm), Wed 9/21 (3:30pm)
+
+    * [Blade Runner The Final Cut](https://drafthouse.com/los-angeles/show/blade-runner-the-final-cut): Sat 8/13 (6:30pm)
+
+    * [Brunch Screenings Castle In The Sky Dubbed Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-castle-in-the-sky-dubbed-brunch): Sat 9/24 (11:30am), Sun 9/25 (11:30am)
+
+    * [Creature From The Black Lagoon](https://drafthouse.com/los-angeles/show/creature-from-the-black-lagoon): Sat 9/10 (2:00pm)
+
+    * [Dredd](https://drafthouse.com/los-angeles/show/dredd): Fri 9/2 (9:30pm), Mon 9/5 (7:30pm)
+
+    * [Fitzcarraldo](https://drafthouse.com/los-angeles/show/fitzcarraldo): Mon 8/29 (3:45pm)
+
+    * [Graveyard Shift Pet Sematary](https://drafthouse.com/los-angeles/show/graveyard-shift-pet-sematary): Sat 9/17 (9:15pm), Mon 9/19 (6:30pm)
+
+    * [Jackass 3d](https://drafthouse.com/los-angeles/show/jackass-3d): Mon 9/12 (8:00pm)
+
+    * [La Mujer Murcielago The Batwoman](https://drafthouse.com/los-angeles/show/la-mujer-murcielago-the-batwoman): Sat 9/17 (6:30pm), Thu 9/22 (6:30pm)
+
+    * [Mario Puzos The Godfather Coda The Death Of Michael Corleone](https://drafthouse.com/los-angeles/show/mario-puzos-the-godfather-coda-the-death-of-michael-corleone): Sat 9/17 (2:30pm)
+
+    * [Peggy Sue Got Married](https://drafthouse.com/los-angeles/show/peggy-sue-got-married): Tue 9/20 (8:00pm), Thu 9/22 (3:30pm)
+
+    * [Rumble Fish](https://drafthouse.com/los-angeles/show/rumble-fish): Wed 9/28 (8:00pm)
+
+    * [The Conversation](https://drafthouse.com/los-angeles/show/the-conversation): Sun 9/11 (12:00pm), Mon 9/12 (3:00pm), Tue 9/13 (8:00pm), Wed 9/14 (3:00pm)
+
+    * [The Dark Knight](https://drafthouse.com/los-angeles/show/the-dark-knight): Sun 9/4 (9:30pm), Wed 9/7 (5:45pm)
+
+    * [The Dark Night Rises](https://drafthouse.com/los-angeles/show/the-dark-night-rises): Thu 9/15 (6:30pm)
+
+    * [The Godfather Part Ii](https://drafthouse.com/los-angeles/show/the-godfather-part-ii): Fri 9/9 (6:00pm), Sun 9/11 (3:00pm), Tue 9/13 (3:30pm)
+
+    * [The Outsiders The Complete Novel](https://drafthouse.com/los-angeles/show/the-outsiders-the-complete-novel): Sun 9/25 (2:45pm), Mon 9/26 (2:45pm)
+
+    * [Tucker The Man And His Dream](https://drafthouse.com/los-angeles/show/tucker-the-man-and-his-dream): Sun 10/2 (2:15pm)
+
 ### Thu 8/4 4:19pm
 * New movies: The Godfather
 
