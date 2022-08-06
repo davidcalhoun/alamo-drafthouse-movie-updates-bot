@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Fri 8/5 6:56pm
+* New movies: Monty Python and the Holy Grail, The Mummy 1999, Ghostbusters 1984, CatVideoFest 2022
+
+* New screenings: 
+    * [Catvideofest 2022](https://drafthouse.com/los-angeles/show/catvideofest-2022): Sat 9/10 (4:15pm)
+
+    * [Movie Party Ghostbusters 1984](https://drafthouse.com/los-angeles/show/movie-party-ghostbusters-1984): Thu 10/6 (7:00pm)
+
+    * [Movie Party Monty Python And The Holy Grail](https://drafthouse.com/los-angeles/show/movie-party-monty-python-and-the-holy-grail): Fri 9/9 (9:45pm), Sun 9/11 (7:00pm), Sat 9/24 (7:00pm), Sun 9/25 (7:00pm)
+
+    * [Movie Party The Mummy 1999](https://drafthouse.com/los-angeles/show/movie-party-the-mummy-1999): Sat 9/3 (7:00pm), Tue 9/6 (7:00pm)
+
 ### Thu 8/4 10:33pm
 * New movies: Steel Magnolias
 
