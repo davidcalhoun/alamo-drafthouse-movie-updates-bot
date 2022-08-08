@@ -1,6 +1,44 @@
 # raleigh
 
 ## Movie updates
+### Mon 8/8 6:26pm
+* New movies: Top Gun: Maverick, Fall, Billy Joel Live at Yankee Stadium
+
+* New screenings: 
+    * [Billy Joel Live At Yankee Stadium](https://drafthouse.com/raleigh/show/billy-joel-live-at-yankee-stadium): Wed 10/5 (7:00pm), Sun 10/9 (3:15pm)
+
+    * [Blade Runner The Final Cut](https://drafthouse.com/raleigh/show/blade-runner-the-final-cut): Tue 8/16 (9:45pm), Wed 8/17 (9:30pm)
+
+    * [Bodies Bodies Bodies](https://drafthouse.com/raleigh/show/bodies-bodies-bodies): Thu 8/11 (8:30pm, 10:00pm), Fri 8/12 (12:00pm, 2:00pm, 2:30pm, 4:45pm, 5:30pm, 8:30pm, 10:30pm), Sat 8/13 (11:45am, 1:45pm, 4:45pm, 5:30pm, 8:30pm, 10:30pm), Sun 8/14 (11:50am, 1:45pm, 4:45pm, 5:45pm), Mon 8/15 (11:30am, 1:45pm, 3:30pm, 4:45pm, 5:30pm, 6:45pm, 8:30pm, 10:30pm), Tue 8/16 (11:45am, 1:45pm, 4:45pm, 5:30pm, 7:45pm, 8:30pm, 10:30pm), Wed 8/17 (11:30am, 1:45pm, 3:30pm, 4:45pm, 5:30pm, 7:45pm, 8:30pm, 10:30pm)
+
+    * [Bullet Train](https://drafthouse.com/raleigh/show/bullet-train): Thu 8/11 (11:15am, 12:30pm, 2:30pm, 4:00pm, 5:45pm, 7:30pm, 9:00pm, 10:45pm), Fri 8/12 (12:30pm, 3:45pm, 7:00pm, 10:45pm), Sat 8/13 (12:30pm, 3:45pm, 7:00pm, 10:45pm), Sun 8/14 (12:30pm, 3:45pm, 7:00pm), Mon 8/15 (12:30pm, 3:45pm, 7:00pm, 10:45pm), Tue 8/16 (12:30pm, 3:45pm, 7:00pm, 10:45pm), Wed 8/17 (12:30pm, 3:45pm, 7:00pm, 10:45pm)
+
+    * [Dc League Of Super Pets](https://drafthouse.com/raleigh/show/dc-league-of-super-pets): Thu 8/11 (11:45am, 3:00pm, 6:00pm, 9:00pm), Fri 8/12 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 8/13 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sun 8/14 (12:00pm, 3:00pm, 6:00pm), Mon 8/15 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Tue 8/16 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Wed 8/17 (12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
+    * [Easter Sunday](https://drafthouse.com/raleigh/show/easter-sunday): Thu 8/11 (1:00pm, 3:45pm, 6:45pm, 9:30pm), Fri 8/12 (1:00pm, 3:45pm, 6:45pm, 9:30pm), Sat 8/13 (1:00pm, 3:45pm, 6:45pm, 9:30pm), Sun 8/14 (1:00pm, 3:45pm, 6:45pm), Mon 8/15 (1:15pm, 4:15pm, 7:00pm, 9:45pm), Tue 8/16 (1:00pm, 3:45pm, 6:45pm, 9:30pm), Wed 8/17 (1:00pm, 3:45pm, 6:45pm, 9:30pm)
+
+    * [Fall](https://drafthouse.com/raleigh/show/fall): Thu 8/11 (6:00pm, 9:15pm), Fri 8/12 (12:00pm, 3:10pm, 6:15pm, 9:15pm), Sat 8/13 (12:15pm, 3:00pm, 6:15pm, 9:15pm), Sun 8/14 (12:15pm, 3:30pm, 6:00pm), Mon 8/15 (12:00pm, 3:10pm, 6:15pm, 9:15pm), Tue 8/16 (12:15pm, 3:00pm, 6:30pm, 9:30pm), Wed 8/17 (11:45am, 3:00pm, 6:15pm, 9:15pm)
+
+    * [Fast Times At Ridgemont High 40th Anniversary](https://drafthouse.com/raleigh/show/fast-times-at-ridgemont-high-40th-anniversary): Thu 8/11 (12:15pm)
+
+    * [Kids Camp Cloudy With A Chance Of Meatballs](https://drafthouse.com/raleigh/show/kids-camp-cloudy-with-a-chance-of-meatballs): Wed 8/17 (12:00pm)
+
+    * [Nope](https://drafthouse.com/raleigh/show/nope): Thu 8/11 (11:30am, 12:00pm, 2:45pm, 3:30pm, 6:15pm, 9:30pm), Fri 8/12 (11:30am, 2:45pm, 6:00pm, 9:00pm), Sat 8/13 (11:30am, 2:45pm, 6:00pm, 9:30pm), Sun 8/14 (11:45am, 3:00pm, 6:15pm), Mon 8/15 (11:30am, 2:30pm, 6:00pm, 9:20pm), Tue 8/16 (11:40am, 2:30pm, 6:00pm, 9:15pm), Wed 8/17 (1:00pm, 4:15pm, 6:10pm, 10:15pm)
+
+    * [Special Event Top Gun Maverick Fan Appreciation With Bonus Content](https://drafthouse.com/raleigh/show/special-event-top-gun-maverick-fan-appreciation-with-bonus-content): Fri 8/12 (11:30am, 3:00pm, 6:30pm, 10:00pm), Sat 8/13 (12:10pm, 3:30pm, 6:55pm, 10:15pm), Sun 8/14 (11:30am, 3:00pm, 6:30pm), Mon 8/15 (11:30am, 3:00pm, 6:30pm, 10:00pm), Tue 8/16 (11:30am, 3:00pm, 6:30pm, 10:00pm), Wed 8/17 (11:30am, 3:00pm, 6:30pm, 10:00pm)
+
+    * [The Dark Crystal](https://drafthouse.com/raleigh/show/the-dark-crystal): Thu 8/11 (3:15pm)
+
+    * [The Thing](https://drafthouse.com/raleigh/show/the-thing): Sat 8/13 (6:45pm)
+
+    * [Thor Love And Thunder](https://drafthouse.com/raleigh/show/thor-love-and-thunder): Thu 8/11 (11:45am, 3:00pm, 6:30pm, 9:45pm), Fri 8/12 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Sat 8/13 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Sun 8/14 (12:45pm, 4:15pm, 6:45pm), Mon 8/15 (12:15pm, 3:00pm, 6:30pm, 9:45pm), Tue 8/16 (12:00pm, 3:15pm, 6:45pm, 10:00pm), Wed 8/17 (12:25pm, 3:00pm, 6:30pm, 9:45pm)
+
+    * [Top Gun Maverick](https://drafthouse.com/raleigh/show/top-gun-maverick): Thu 8/11 (12:00pm, 3:15pm, 6:30pm, 9:45pm)
+
+    * [Vengeance](https://drafthouse.com/raleigh/show/vengeance): Thu 8/11 (11:15am, 2:15pm, 5:30pm), Fri 8/12 (11:30am), Sat 8/13 (2:30pm), Sun 8/14 (2:45pm), Mon 8/15 (2:15pm), Tue 8/16 (2:30pm), Wed 8/17 (2:15pm)
+
+    * [Where The Crawdads Sing](https://drafthouse.com/raleigh/show/where-the-crawdads-sing): Thu 8/11 (12:15pm, 3:45pm, 7:15pm, 10:30pm), Fri 8/12 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Sat 8/13 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Sun 8/14 (1:10pm, 4:20pm, 7:30pm), Mon 8/15 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Tue 8/16 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Wed 8/17 (12:45pm, 4:00pm, 7:15pm, 10:30pm)
+
 ### Thu 8/4 7:24pm
 * New movies: The Godfather
 
