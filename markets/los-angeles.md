@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 8/8 1:22pm
+* New movies: Dial M for Murder 3D, Dredd 3D, Creature from the Black Lagoon 3D
+
+
+
 ### Fri 8/5 6:56pm
 * New movies: Monty Python and the Holy Grail, The Mummy 1999, Ghostbusters 1984, CatVideoFest 2022
 
