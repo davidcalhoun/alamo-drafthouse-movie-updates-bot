@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 8/8 4:21pm
+* New movies: Flesh for Frankenstein 3D
+
+* New screenings: 
+    * [Flesh For Frankenstein 3d](https://drafthouse.com/los-angeles/show/flesh-for-frankenstein-3d): Sat 10/1 (10:00pm), Thu 10/6 (10:00pm)
+
 ### Mon 8/8 1:22pm
 * New movies: Dial M for Murder 3D, Dredd 3D, Creature from the Black Lagoon 3D
 
