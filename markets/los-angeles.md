@@ -1,6 +1,46 @@
 # los-angeles
 
 ## Movie updates
+### Mon 8/8 7:06pm
+* New movies: Fall, Sharp Stick
+
+* New screenings: 
+    * [Blade Runner The Final Cut](https://drafthouse.com/los-angeles/show/blade-runner-the-final-cut): Sun 8/14 (4:30pm), Wed 8/17 (11:10am)
+
+    * [Bodies Bodies Bodies](https://drafthouse.com/los-angeles/show/bodies-bodies-bodies): Thu 8/11 (7:45pm, 8:45pm, 10:30pm), Fri 8/12 (2:00pm, 4:45pm, 7:45pm, 8:45pm, 10:30pm), Sat 8/13 (11:00am, 1:45pm, 4:45pm, 7:45pm, 8:45pm, 10:30pm), Sun 8/14 (11:00am, 1:45pm, 4:45pm, 7:45pm), Mon 8/15 (11:20am, 1:10pm, 2:00pm, 4:00pm, 4:45pm, 7:00pm, 7:45pm), Tue 8/16 (11:20am, 1:10pm, 2:00pm, 4:00pm, 4:45pm, 7:00pm, 7:45pm), Wed 8/17 (11:20am, 1:10pm, 2:00pm, 4:00pm, 4:45pm, 7:00pm, 7:45pm)
+
+    * [Bullet Train](https://drafthouse.com/los-angeles/show/bullet-train): Thu 8/11 (2:30pm, 3:45pm, 5:15pm, 6:00pm, 9:20pm), Fri 8/12 (11:15am, 2:30pm, 6:00pm, 9:30pm), Sat 8/13 (11:15am, 2:30pm, 6:00pm, 9:30pm), Sun 8/14 (11:15am, 2:30pm, 6:00pm), Mon 8/15 (11:15am, 2:30pm, 6:00pm), Tue 8/16 (11:15am, 2:30pm, 6:00pm), Wed 8/17 (11:15am, 2:30pm, 6:00pm)
+
+    * [Dc League Of Super Pets](https://drafthouse.com/los-angeles/show/dc-league-of-super-pets): Thu 8/11 (4:15pm)
+
+    * [Easter Sunday](https://drafthouse.com/los-angeles/show/easter-sunday): Thu 8/11 (4:15pm, 7:00pm, 9:45pm), Fri 8/12 (12:45pm, 3:45pm, 7:00pm, 9:50pm), Sat 8/13 (12:45pm, 3:45pm, 7:00pm, 9:50pm), Sun 8/14 (12:45pm, 3:45pm, 7:00pm), Mon 8/15 (12:45pm, 3:45pm, 7:00pm), Tue 8/16 (12:45pm, 3:45pm, 7:00pm), Wed 8/17 (12:45pm, 3:45pm, 7:00pm)
+
+    * [Fall](https://drafthouse.com/los-angeles/show/fall): Thu 8/11 (6:15pm, 9:15pm), Fri 8/12 (12:30pm, 3:30pm, 6:15pm, 9:15pm), Sat 8/13 (12:30pm, 3:30pm, 6:15pm, 9:15pm), Sun 8/14 (12:30pm, 3:30pm, 6:15pm), Mon 8/15 (12:40pm, 3:30pm, 6:15pm), Tue 8/16 (12:40pm, 3:30pm, 6:15pm), Wed 8/17 (12:40pm, 3:30pm, 6:15pm)
+
+    * [I Love My Dad](https://drafthouse.com/los-angeles/show/i-love-my-dad): Thu 8/11 (3:15pm, 9:00pm), Fri 8/12 (3:15pm), Sat 8/13 (3:00pm), Sun 8/14 (3:15pm), Mon 8/15 (3:15pm), Tue 8/16 (12:00pm, 3:15pm), Wed 8/17 (11:30am, 3:15pm)
+
+    * [Inu Oh Subtitled](https://drafthouse.com/los-angeles/show/inu-oh-subtitled): Thu 8/11 (10:15pm), Fri 8/12 (1:15pm, 4:20pm, 6:45pm, 10:15pm), Sat 8/13 (1:15pm, 4:20pm, 10:15pm), Sun 8/14 (1:15pm, 4:20pm), Mon 8/15 (1:25pm, 4:15pm, 7:15pm), Tue 8/16 (1:30pm, 4:15pm, 7:15pm), Wed 8/17 (1:25pm, 4:15pm, 7:15pm)
+
+    * [Laal Singh Chaddha](https://drafthouse.com/los-angeles/show/laal-singh-chaddha): Thu 8/11 (2:45pm, 9:30pm), Fri 8/12 (11:30am, 3:15pm, 10:15pm), Sat 8/13 (11:30am, 3:15pm, 10:15pm), Sun 8/14 (11:30am, 3:15pm), Mon 8/15 (11:20am, 3:15pm, 6:45pm), Tue 8/16 (11:20am, 3:15pm, 6:45pm), Wed 8/17 (11:30am, 3:15pm, 6:45pm)
+
+    * [Marcel The Shell With Shoes On](https://drafthouse.com/los-angeles/show/marcel-the-shell-with-shoes-on): Thu 8/11 (2:40pm, 6:00pm), Fri 8/12 (12:15pm, 6:00pm), Sat 8/13 (12:15pm, 6:00pm), Sun 8/14 (12:15pm, 6:00pm), Mon 8/15 (12:25pm, 6:00pm), Tue 8/16 (12:25pm, 6:00pm), Wed 8/17 (12:25pm, 6:00pm)
+
+    * [Nope](https://drafthouse.com/los-angeles/show/nope): Thu 8/11 (3:30pm, 6:45pm, 10:15pm), Fri 8/12 (11:30am, 2:45pm, 6:45pm, 10:15pm), Sat 8/13 (11:30am, 2:45pm, 6:45pm, 10:15pm), Sun 8/14 (11:30am, 2:45pm, 6:30pm), Mon 8/15 (11:45am, 3:00pm, 6:30pm), Tue 8/16 (11:45am, 3:00pm, 6:30pm), Wed 8/17 (11:45am, 3:00pm, 6:30pm)
+
+    * [Prince Of Darkness](https://drafthouse.com/los-angeles/show/prince-of-darkness): Mon 8/15 (7:45pm)
+
+    * [Resurrection](https://drafthouse.com/los-angeles/show/resurrection): Thu 8/11 (4:30pm)
+
+    * [Sharp Stick](https://drafthouse.com/los-angeles/show/sharp-stick): Fri 8/12 (1:30pm, 4:10pm), Sat 8/13 (3:45pm, 8:00pm), Sun 8/14 (2:00pm, 8:15pm), Mon 8/15 (2:05pm, 5:00pm), Tue 8/16 (2:45pm, 5:15pm), Wed 8/17 (2:10pm, 5:15pm)
+
+    * [The Best Little Whorehouse In Texas Brunch](https://drafthouse.com/los-angeles/show/the-best-little-whorehouse-in-texas-brunch): Sat 8/13 (12:30pm)
+
+    * [The Thing](https://drafthouse.com/los-angeles/show/the-thing): Thu 8/11 (3:00pm, 10:30pm), Fri 8/12 (9:45pm), Sat 8/13 (5:00pm, 10:30pm), Sun 8/14 (5:20pm), Tue 8/16 (7:45pm)
+
+    * [Thor Love And Thunder](https://drafthouse.com/los-angeles/show/thor-love-and-thunder): Thu 8/11 (3:10pm, 6:15pm, 10:15pm), Fri 8/12 (1:15pm, 4:25pm, 7:30pm, 10:40pm), Sat 8/13 (1:15pm, 4:25pm, 7:30pm, 10:40pm), Sun 8/14 (1:15pm, 4:25pm, 7:30pm), Mon 8/15 (1:15pm, 4:25pm, 7:30pm), Tue 8/16 (1:15pm, 4:25pm, 7:30pm), Wed 8/17 (1:15pm, 4:25pm, 7:30pm)
+
+    * [Vengeance](https://drafthouse.com/los-angeles/show/vengeance): Thu 8/11 (4:45pm), Fri 8/12 (12:00pm), Sat 8/13 (9:45pm), Sun 8/14 (11:00am), Mon 8/15 (11:10am), Tue 8/16 (5:00pm), Wed 8/17 (2:20pm)
+
 ### Mon 8/8 4:21pm
 * New movies: Flesh for Frankenstein 3D
 
