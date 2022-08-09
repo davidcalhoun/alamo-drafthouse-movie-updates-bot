@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 8/9 11:24am
+
+* New screenings: 
+    * [I Love My Dad](https://drafthouse.com/los-angeles/show/i-love-my-dad): Tue 8/9 (4:10pm)
+
 ### Mon 8/8 9:00pm
 * New movies: Billy Joel Live at Yankee Stadium
 
