@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 8/8 9:00pm
+* New movies: Billy Joel Live at Yankee Stadium
+
+* New screenings: 
+    * [Billy Joel Live At Yankee Stadium](https://drafthouse.com/los-angeles/show/billy-joel-live-at-yankee-stadium): Wed 10/5 (7:00pm), Sun 10/9 (4:15pm)
+
 ### Mon 8/8 7:06pm
 * New movies: Fall, Sharp Stick
 
