@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 8/10 7:18am
+* New movies: Dredd
+
+
+
 ### Tue 8/9 11:24am
 
 * New screenings: 
