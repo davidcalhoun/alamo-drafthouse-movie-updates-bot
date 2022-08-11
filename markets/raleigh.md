@@ -1,6 +1,50 @@
 # raleigh
 
 ## Movie updates
+### Thu 8/11 5:25am
+* New movies: La Mujer Murcielago The Batwoman, The Godfather Part II, The Outsiders: The Complete Novel, Friday the 13th Part III 3-D, Pet Sematary, Monty Python and the Holy Grail, Creature from the Black Lagoon 3D, Dial M for Murder 3D, Jackass 3D, Mario Puzo’s The Godfather, Coda: The Death of Michael Corleone, Peggy Sue Got Married, Rumble Fish, Steel Magnolias, Dredd, The Mummy 1999, The Dark Knight, THE DARK KNIGHT RISES, CatVideoFest 2022, The Conversation, THE MAN WHO FELL TO EARTH
+
+* New screenings: 
+    * [Catvideofest 2022](https://drafthouse.com/raleigh/show/catvideofest-2022): Sun 9/11 (3:00pm)
+
+    * [Creature From The Black Lagoon 3d](https://drafthouse.com/raleigh/show/creature-from-the-black-lagoon-3d): Sat 9/10 (3:30pm)
+
+    * [Dial M For Murder 3d](https://drafthouse.com/raleigh/show/dial-m-for-murder-3d): Sun 9/18 (3:00pm)
+
+    * [Dredd](https://drafthouse.com/raleigh/show/dredd): Mon 9/5 (9:30pm)
+
+    * [Friday The 13th Part Iii 3 D](https://drafthouse.com/raleigh/show/friday-the-13th-part-iii-3-d): Tue 9/13 (10:15pm)
+
+    * [Graveyard Shift Pet Sematary](https://drafthouse.com/raleigh/show/graveyard-shift-pet-sematary): Mon 9/19 (7:00pm)
+
+    * [Jackass 3d](https://drafthouse.com/raleigh/show/jackass-3d): Tue 9/13 (7:30pm)
+
+    * [La Mujer Murcielago The Batwoman](https://drafthouse.com/raleigh/show/la-mujer-murcielago-the-batwoman): Sat 9/17 (10:15pm), Mon 9/19 (3:00pm)
+
+    * [Mario Puzos The Godfather Coda The Death Of Michael Corleone](https://drafthouse.com/raleigh/show/mario-puzos-the-godfather-coda-the-death-of-michael-corleone): Sat 9/17 (6:30pm)
+
+    * [Movie Party Monty Python And The Holy Grail](https://drafthouse.com/raleigh/show/movie-party-monty-python-and-the-holy-grail): Sun 9/11 (7:00pm), Wed 9/14 (7:00pm)
+
+    * [Movie Party The Mummy 1999](https://drafthouse.com/raleigh/show/movie-party-the-mummy-1999): Sat 9/3 (10:00pm)
+
+    * [Peggy Sue Got Married](https://drafthouse.com/raleigh/show/peggy-sue-got-married): Wed 9/21 (3:00pm)
+
+    * [Rumble Fish](https://drafthouse.com/raleigh/show/rumble-fish): Sat 9/24 (3:00pm)
+
+    * [Steel Magnolias Brunch](https://drafthouse.com/raleigh/show/steel-magnolias-brunch): Sun 9/4 (11:00am)
+
+    * [The Conversation](https://drafthouse.com/raleigh/show/the-conversation): Mon 9/12 (4:00pm)
+
+    * [The Dark Knight](https://drafthouse.com/raleigh/show/the-dark-knight): Thu 9/8 (10:00pm)
+
+    * [The Dark Night Rises](https://drafthouse.com/raleigh/show/the-dark-night-rises): Fri 9/9 (3:30pm), Tue 9/13 (3:30pm), Wed 9/14 (3:30pm)
+
+    * [The Godfather Part Ii](https://drafthouse.com/raleigh/show/the-godfather-part-ii): Sun 9/11 (11:30am), Sat 9/17 (3:00pm)
+
+    * [The Man Who Fell To Earth](https://drafthouse.com/raleigh/show/the-man-who-fell-to-earth): Mon 9/12 (7:00pm)
+
+    * [The Outsiders The Complete Novel](https://drafthouse.com/raleigh/show/the-outsiders-the-complete-novel): Fri 9/23 (7:00pm), Sun 9/25 (7:00pm)
+
 ### Mon 8/8 6:26pm
 * New movies: Top Gun: Maverick, Fall, Billy Joel Live at Yankee Stadium
 
