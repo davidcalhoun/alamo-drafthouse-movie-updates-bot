@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 8/11 8:21am
+* New movies: The Dark Knight Rises
+
+
+
 ### Wed 8/10 6:51pm
 * New movies: Spirited Away Dubbed, THE MAN WHO FELL TO EARTH
 
