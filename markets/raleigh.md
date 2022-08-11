@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Thu 8/11 11:27am
+* New movies: The Dark Knight Rises
+
+
+
 ### Thu 8/11 5:25am
 * New movies: La Mujer Murcielago The Batwoman, The Godfather Part II, The Outsiders: The Complete Novel, Friday the 13th Part III 3-D, Pet Sematary, Monty Python and the Holy Grail, Creature from the Black Lagoon 3D, Dial M for Murder 3D, Jackass 3D, Mario Puzo’s The Godfather, Coda: The Death of Michael Corleone, Peggy Sue Got Married, Rumble Fish, Steel Magnolias, Dredd, The Mummy 1999, The Dark Knight, THE DARK KNIGHT RISES, CatVideoFest 2022, The Conversation, THE MAN WHO FELL TO EARTH
 
