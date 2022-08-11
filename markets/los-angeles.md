@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Wed 8/10 6:51pm
+* New movies: Spirited Away Dubbed, THE MAN WHO FELL TO EARTH
+
+* New screenings: 
+    * [Jackass 3d](https://drafthouse.com/los-angeles/show/jackass-3d): Sat 9/10 (10:15pm)
+
+    * [Movie Party The Mummy 1999](https://drafthouse.com/los-angeles/show/movie-party-the-mummy-1999): Fri 9/2 (7:00pm)
+
+    * [Spirited Away Dubbed](https://drafthouse.com/los-angeles/show/spirited-away-dubbed): Sat 8/27 (2:45pm)
+
+    * [The Man Who Fell To Earth](https://drafthouse.com/los-angeles/show/the-man-who-fell-to-earth): Mon 9/12 (6:15pm)
+
 ### Wed 8/10 7:18am
 * New movies: Dredd
 
