@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 8/12 2:18pm
+* New movies: The Timekeepers of Eternity
+
+* New screenings: 
+    * [Fantastic Fest Presents The Timekeepers Of Eternity](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-the-timekeepers-of-eternity): Fri 9/2 (3:30pm), Sat 9/3 (9:30pm), Wed 9/7 (3:15pm)
+
 ### Fri 8/12 9:33am
 * New movies: Three Thousand Years of Longing, Three Thousand Years of Longing
 
