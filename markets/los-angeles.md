@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 8/12 9:33am
+* New movies: Three Thousand Years of Longing, Three Thousand Years of Longing
+
+* New screenings: 
+    * [Three Thousand Years Of Longing](https://drafthouse.com/los-angeles/show/three-thousand-years-of-longing): Thu 8/25 (5:00pm, 8:00pm), Fri 8/26 (12:45pm, 4:00pm, 7:00pm, 10:15pm), Sat 8/27 (4:00pm, 7:00pm, 10:15pm), Sun 8/28 (4:00pm, 7:00pm, 10:15pm), Mon 8/29 (1:00pm, 7:00pm), Tue 8/30 (12:45pm, 4:00pm, 7:00pm), Wed 8/31 (12:45pm, 4:00pm, 7:00pm)
+
+    * [Three Thousand Years Of Longing Brunch](https://drafthouse.com/los-angeles/show/three-thousand-years-of-longing-brunch): Sat 8/27 (12:45pm), Sun 8/28 (12:45pm)
+
 ### Thu 8/11 8:21am
 * New movies: The Dark Knight Rises
 
