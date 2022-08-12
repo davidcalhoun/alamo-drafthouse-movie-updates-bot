@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 8/12 5:22pm
+* New movies: The Timekeepers of Eternity
+
+* New screenings: 
+    * [Fantastic Fest Presents The Timekeepers Of Eternity](https://drafthouse.com/raleigh/show/fantastic-fest-presents-the-timekeepers-of-eternity): Wed 9/7 (7:15pm)
+
 ### Fri 8/12 12:42pm
 * New movies: Three Thousand Years of Longing
 
