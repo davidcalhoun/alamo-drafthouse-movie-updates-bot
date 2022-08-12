@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Fri 8/12 11:28am
+
+* New screenings: 
+    * [The Last Unicorn](https://drafthouse.com/raleigh/show/the-last-unicorn): Sun 8/14 (10:15am)
+
+    * [The Thing](https://drafthouse.com/raleigh/show/the-thing): Sun 8/14 (5:45pm)
+
 ### Thu 8/11 11:27am
 * New movies: The Dark Knight Rises
 
