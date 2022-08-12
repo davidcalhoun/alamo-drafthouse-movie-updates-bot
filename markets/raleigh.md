@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 8/12 7:24pm
+* New movies: Twilight: Breaking Dawn Double Feature
+
+* New screenings: 
+    * [Twilight Breaking Dawn Double Feature](https://drafthouse.com/raleigh/show/twilight-breaking-dawn-double-feature): Sat 9/10 (11:00am)
+
 ### Fri 8/12 5:22pm
 * New movies: The Timekeepers of Eternity
 
