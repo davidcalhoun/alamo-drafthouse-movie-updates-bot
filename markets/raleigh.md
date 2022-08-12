@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 8/12 12:42pm
+* New movies: Three Thousand Years of Longing
+
+* New screenings: 
+    * [Three Thousand Years Of Longing](https://drafthouse.com/raleigh/show/three-thousand-years-of-longing): Thu 8/25 (5:00pm, 7:50pm, 10:45pm), Fri 8/26 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sat 8/27 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sun 8/28 (1:00pm, 4:00pm, 7:00pm)
+
 ### Fri 8/12 11:28am
 
 * New screenings: 
