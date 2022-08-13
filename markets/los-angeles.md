@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 8/12 6:50pm
+* New movies: Twilight: Breaking Dawn Double Feature
+
+* New screenings: 
+    * [Twilight Breaking Dawn Double Feature](https://drafthouse.com/los-angeles/show/twilight-breaking-dawn-double-feature): Sat 9/10 (11:00am)
+
 ### Fri 8/12 2:18pm
 * New movies: The Timekeepers of Eternity
 
