@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Sun 8/14 12:18am
+
+* New screenings: 
+    * [Koyaanisqatsi](https://drafthouse.com/los-angeles/show/koyaanisqatsi): Mon 8/15 (5:00pm)
+
 ### Fri 8/12 6:50pm
 * New movies: Twilight: Breaking Dawn Double Feature
 
