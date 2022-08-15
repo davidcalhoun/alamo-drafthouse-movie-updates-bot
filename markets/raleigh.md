@@ -1,6 +1,46 @@
 # raleigh
 
 ## Movie updates
+### Mon 8/15 4:26pm
+* New movies: Top Gun: Maverick, Beast, Elvis
+
+* New screenings: 
+    * [Beast](https://drafthouse.com/raleigh/show/beast): Thu 8/18 (7:30pm, 10:30pm), Fri 8/19 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Sat 8/20 (1:45pm, 4:45pm, 7:30pm, 10:30pm), Sun 8/21 (1:30pm, 4:30pm, 7:30pm), Mon 8/22 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Tue 8/23 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Wed 8/24 (1:30pm, 4:30pm, 7:30pm, 10:30pm)
+
+    * [Bodies Bodies Bodies](https://drafthouse.com/raleigh/show/bodies-bodies-bodies): Thu 8/18 (1:30pm, 4:15pm, 7:00pm, 10:00pm), Fri 8/19 (1:45pm, 4:45pm, 7:45pm, 10:45pm), Sat 8/20 (1:30pm, 4:30pm, 7:40pm, 10:45pm), Sun 8/21 (1:45pm, 4:45pm, 7:45pm), Mon 8/22 (1:40pm, 4:30pm, 7:45pm, 10:45pm), Tue 8/23 (1:45pm, 4:45pm, 7:45pm, 10:45pm), Wed 8/24 (1:45pm, 4:30pm, 7:45pm, 10:30pm)
+
+    * [Bullet Train](https://drafthouse.com/raleigh/show/bullet-train): Thu 8/18 (11:45am, 3:00pm, 6:15pm, 9:30pm), Fri 8/19 (11:45am, 3:00pm, 6:15pm, 10:00pm), Sat 8/20 (11:45am, 3:00pm, 6:15pm, 10:45pm), Sun 8/21 (11:45am, 3:00pm, 6:15pm), Mon 8/22 (11:45am, 3:00pm, 6:15pm, 9:30pm), Tue 8/23 (11:30am, 2:45pm, 6:15pm, 10:00pm), Wed 8/24 (1:00pm, 4:15pm, 6:15pm, 9:30pm)
+
+    * [Conan The Barbarian](https://drafthouse.com/raleigh/show/conan-the-barbarian): Mon 8/22 (10:30pm)
+
+    * [Dc League Of Super Pets](https://drafthouse.com/raleigh/show/dc-league-of-super-pets): Thu 8/18 (11:45am, 2:45pm, 6:00pm, 9:00pm), Fri 8/19 (11:45am, 2:45pm, 6:00pm, 9:00pm), Sat 8/20 (11:45am, 2:45pm, 6:00pm, 9:00pm), Sun 8/21 (11:45am, 2:45pm, 6:00pm), Mon 8/22 (11:45am, 2:45pm, 6:00pm, 9:00pm), Tue 8/23 (11:45am, 2:45pm, 6:00pm, 9:00pm), Wed 8/24 (11:45am, 2:45pm, 6:00pm, 9:00pm)
+
+    * [Dragon Ball Super Super Hero Dubbed](https://drafthouse.com/raleigh/show/dragon-ball-super-super-hero-dubbed): Thu 8/18 (9:30pm), Fri 8/19 (11:30am), Sat 8/20 (7:55pm), Sun 8/21 (12:00pm), Mon 8/22 (12:15pm), Wed 8/24 (11:40am)
+
+    * [Easter Sunday](https://drafthouse.com/raleigh/show/easter-sunday): Thu 8/18 (12:05pm, 3:00pm)
+
+    * [Elvis](https://drafthouse.com/raleigh/show/elvis): Thu 8/18 (5:45pm), Fri 8/19 (5:45pm), Sat 8/20 (2:40pm), Sun 8/21 (3:15pm), Mon 8/22 (3:30pm), Tue 8/23 (2:15pm), Wed 8/24 (2:30pm)
+
+    * [Fall](https://drafthouse.com/raleigh/show/fall): Thu 8/18 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Fri 8/19 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 8/20 (2:00pm, 5:00pm, 6:30pm, 9:30pm), Sun 8/21 (12:00pm, 3:00pm, 6:00pm), Mon 8/22 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Tue 8/23 (1:30pm, 4:30pm, 6:00pm, 9:00pm), Wed 8/24 (12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
+    * [Graveyard Shift Halloween Iii Season Of The Witch](https://drafthouse.com/raleigh/show/graveyard-shift-halloween-iii-season-of-the-witch): Tue 8/23 (10:45pm), Wed 8/24 (10:45pm)
+
+    * [Grease 2](https://drafthouse.com/raleigh/show/grease-2): Fri 8/19 (2:30pm)
+
+    * [Kids Camp Cloudy With A Chance Of Meatballs](https://drafthouse.com/raleigh/show/kids-camp-cloudy-with-a-chance-of-meatballs): Thu 8/18 (1:45pm)
+
+    * [Nope](https://drafthouse.com/raleigh/show/nope): Thu 8/18 (12:15pm, 3:30pm, 6:45pm, 10:15pm), Fri 8/19 (12:15pm, 3:30pm, 7:00pm, 10:15pm), Sat 8/20 (12:20pm, 3:35pm, 7:00pm, 10:15pm), Sun 8/21 (12:15pm, 3:30pm, 7:00pm), Mon 8/22 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Tue 8/23 (12:20pm, 3:35pm, 7:00pm, 10:15pm), Wed 8/24 (12:30pm, 3:45pm, 7:00pm, 10:15pm)
+
+    * [The Last Unicorn](https://drafthouse.com/raleigh/show/the-last-unicorn): Thu 8/18 (2:15pm)
+
+    * [Thor Love And Thunder](https://drafthouse.com/raleigh/show/thor-love-and-thunder): Thu 8/18 (11:30am, 3:15pm, 6:30pm, 9:45pm), Fri 8/19 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Sat 8/20 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Sun 8/21 (12:00pm, 3:15pm, 6:30pm), Mon 8/22 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Tue 8/23 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Wed 8/24 (12:00pm, 3:15pm, 6:30pm, 9:45pm)
+
+    * [Top Gun Maverick](https://drafthouse.com/raleigh/show/top-gun-maverick): Thu 8/18 (12:15pm, 3:30pm, 7:00pm, 10:15pm), Fri 8/19 (12:15pm, 3:30pm, 7:00pm, 10:15pm), Sat 8/20 (12:15pm, 3:30pm, 7:00pm, 10:15pm), Sun 8/21 (12:15pm, 3:30pm, 7:00pm), Mon 8/22 (12:15pm, 3:30pm, 7:00pm, 10:15pm), Tue 8/23 (12:15pm, 3:30pm, 7:00pm, 10:15pm), Wed 8/24 (12:15pm, 3:30pm, 7:00pm, 10:15pm)
+
+    * [Vengeance](https://drafthouse.com/raleigh/show/vengeance): Thu 8/18 (4:30pm)
+
+    * [Where The Crawdads Sing](https://drafthouse.com/raleigh/show/where-the-crawdads-sing): Thu 8/18 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Fri 8/19 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Sat 8/20 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Sun 8/21 (12:45pm, 4:00pm, 7:15pm), Mon 8/22 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Tue 8/23 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Wed 8/24 (12:45pm, 4:00pm, 7:15pm, 10:30pm)
+
 ### Fri 8/12 7:24pm
 * New movies: Twilight: Breaking Dawn Double Feature
 
