@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Mon 8/15 6:26pm
+* New movies: The Thing 1982, Grease
+
+* New screenings: 
+    * [Blade Runner The Final Cut](https://drafthouse.com/raleigh/show/blade-runner-the-final-cut): Sun 8/21 (4:15pm)
+
+    * [Grease Sing Along](https://drafthouse.com/raleigh/show/grease-sing-along): Sat 8/20 (2:45pm), Tue 8/23 (3:00pm)
+
+    * [The Thing](https://drafthouse.com/raleigh/show/the-thing): Mon 8/22 (4:15pm), Wed 8/24 (2:45pm)
+
 ### Mon 8/15 4:26pm
 * New movies: Top Gun: Maverick, Beast, Elvis
 
