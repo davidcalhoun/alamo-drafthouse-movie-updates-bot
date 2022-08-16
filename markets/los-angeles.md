@@ -1,6 +1,58 @@
 # los-angeles
 
 ## Movie updates
+### Mon 8/15 7:07pm
+* New movies: Beast, RRR #encoRRRe, Grease, Inland Empire - 4k Remaster
+
+* New screenings: 
+    * [Beast](https://drafthouse.com/los-angeles/show/beast): Thu 8/18 (5:15pm, 8:00pm, 10:45pm), Fri 8/19 (12:15pm, 3:15pm, 6:30pm, 9:20pm), Sat 8/20 (12:30pm, 3:10pm, 6:30pm, 9:20pm), Sun 8/21 (11:25am, 3:15pm, 6:30pm), Mon 8/22 (12:30pm, 3:15pm, 6:30pm), Tue 8/23 (12:00pm, 2:40pm, 6:30pm), Wed 8/24 (12:30pm, 3:15pm, 6:30pm)
+
+    * [Blade Runner The Final Cut](https://drafthouse.com/los-angeles/show/blade-runner-the-final-cut): Thu 8/18 (4:15pm), Sat 8/20 (6:45pm), Sun 8/21 (2:30pm), Mon 8/22 (2:10pm), Tue 8/23 (2:50pm), Wed 8/24 (2:10pm)
+
+    * [Bodies Bodies Bodies](https://drafthouse.com/los-angeles/show/bodies-bodies-bodies): Thu 8/18 (3:15pm, 6:00pm, 7:30pm, 10:00pm, 10:15pm), Fri 8/19 (1:15pm, 3:30pm, 4:00pm, 7:00pm, 8:00pm, 9:45pm, 10:45pm), Sat 8/20 (1:15pm, 3:30pm, 4:00pm, 7:00pm, 8:00pm, 9:45pm, 10:45pm), Sun 8/21 (12:40pm, 1:15pm, 4:00pm, 7:00pm, 8:00pm), Mon 8/22 (12:40pm, 1:15pm, 4:00pm, 7:00pm), Tue 8/23 (12:40pm, 1:15pm, 4:00pm, 7:00pm), Wed 8/24 (12:40pm, 1:15pm, 4:00pm, 7:00pm)
+
+    * [Bullet Train](https://drafthouse.com/los-angeles/show/bullet-train): Thu 8/18 (3:15pm, 6:30pm, 10:00pm), Fri 8/19 (12:00pm, 3:15pm, 6:45pm, 10:00pm), Sat 8/20 (12:00pm, 3:15pm, 6:45pm, 10:00pm), Sun 8/21 (12:00pm, 3:15pm, 6:45pm), Mon 8/22 (12:00pm, 3:15pm, 6:45pm), Tue 8/23 (12:00pm, 3:15pm, 6:45pm), Wed 8/24 (12:00pm, 3:15pm, 6:45pm)
+
+    * [Conan The Barbarian](https://drafthouse.com/los-angeles/show/conan-the-barbarian): Sat 8/20 (6:00pm)
+
+    * [Dragon Ball Super Super Hero Dubbed](https://drafthouse.com/los-angeles/show/dragon-ball-super-super-hero-dubbed): Thu 8/18 (11:00pm), Fri 8/19 (2:30pm, 4:45pm, 8:30pm), Sat 8/20 (11:45am, 2:30pm, 5:30pm), Sun 8/21 (11:45am, 5:30pm), Mon 8/22 (11:30am, 5:15pm), Tue 8/23 (2:20pm, 5:15pm, 8:00pm), Wed 8/24 (11:30am, 7:50pm)
+
+    * [Dragon Ball Super Super Hero Subtitled](https://drafthouse.com/los-angeles/show/dragon-ball-super-super-hero-subtitled): Thu 8/18 (5:30pm, 8:15pm), Fri 8/19 (11:45am, 5:30pm), Sat 8/20 (8:30pm), Sun 8/21 (2:30pm, 8:15pm), Mon 8/22 (2:20pm, 8:00pm), Tue 8/23 (11:30am), Wed 8/24 (2:20pm, 5:05pm)
+
+    * [Easter Sunday](https://drafthouse.com/los-angeles/show/easter-sunday): Thu 8/18 (9:20pm), Fri 8/19 (12:40pm), Sat 8/20 (12:40pm), Sun 8/21 (12:50pm), Mon 8/22 (3:30pm), Tue 8/23 (1:00pm), Wed 8/24 (3:30pm)
+
+    * [Fall](https://drafthouse.com/los-angeles/show/fall): Thu 8/18 (4:00pm, 7:00pm), Fri 8/19 (6:15pm), Sat 8/20 (6:15pm), Sun 8/21 (6:15pm), Mon 8/22 (6:15pm), Tue 8/23 (7:15pm), Wed 8/24 (8:00pm)
+
+    * [Fantastic Fest Presents Rrr Encore](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-rrr-encore): Fri 8/19 (5:00pm), Sat 8/20 (2:15pm), Mon 8/22 (12:15pm), Tue 8/23 (6:15pm)
+
+    * [Graveyard Shift Halloween Iii Season Of The Witch](https://drafthouse.com/los-angeles/show/graveyard-shift-halloween-iii-season-of-the-witch): Fri 8/19 (10:40pm)
+
+    * [Grease 2 Brunch](https://drafthouse.com/los-angeles/show/grease-2-brunch): Sat 8/20 (12:15pm), Sun 8/21 (12:15pm)
+
+    * [Grease Sing Along](https://drafthouse.com/los-angeles/show/grease-sing-along): Sun 8/21 (2:05pm), Tue 8/23 (11:15am), Wed 8/24 (11:15am)
+
+    * [I Love My Dad](https://drafthouse.com/los-angeles/show/i-love-my-dad): Thu 8/18 (3:45pm)
+
+    * [Inland Empire](https://drafthouse.com/los-angeles/show/inland-empire): Sun 8/21 (5:45pm), Wed 8/24 (12:45pm)
+
+    * [Inu Oh Subtitled](https://drafthouse.com/los-angeles/show/inu-oh-subtitled): Thu 8/18 (4:30pm, 7:15pm, 10:15pm), Fri 8/19 (1:30pm, 4:20pm, 7:15pm, 10:15pm), Sat 8/20 (1:30pm, 4:20pm, 7:15pm, 10:15pm), Sun 8/21 (1:30pm, 4:20pm, 7:15pm), Mon 8/22 (1:30pm, 4:20pm, 7:15pm), Tue 8/23 (1:30pm, 4:20pm, 8:00pm), Wed 8/24 (11:40am, 2:40pm, 6:15pm)
+
+    * [Koyaanisqatsi](https://drafthouse.com/los-angeles/show/koyaanisqatsi): Thu 8/18 (10:20pm)
+
+    * [Laal Singh Chaddha](https://drafthouse.com/los-angeles/show/laal-singh-chaddha): Thu 8/18 (3:30pm), Fri 8/19 (4:15pm), Sat 8/20 (4:15pm), Sun 8/21 (4:15pm), Mon 8/22 (4:15pm), Tue 8/23 (4:15pm), Wed 8/24 (4:15pm)
+
+    * [Marcel The Shell With Shoes On](https://drafthouse.com/los-angeles/show/marcel-the-shell-with-shoes-on): Thu 8/18 (6:45pm), Fri 8/19 (12:50pm), Sat 8/20 (12:50pm), Sun 8/21 (3:30pm), Mon 8/22 (12:50pm), Tue 8/23 (3:40pm), Wed 8/24 (12:50pm)
+
+    * [Nope](https://drafthouse.com/los-angeles/show/nope): Thu 8/18 (3:00pm, 6:15pm, 9:45pm), Fri 8/19 (11:45am, 3:00pm, 6:00pm, 9:30pm), Sat 8/20 (11:30am, 3:00pm, 6:00pm, 9:30pm), Sun 8/21 (11:35am, 3:00pm, 6:00pm), Mon 8/22 (11:45am, 3:00pm, 6:00pm), Tue 8/23 (11:45am, 3:00pm, 6:00pm), Wed 8/24 (11:45am, 3:00pm, 6:00pm)
+
+    * [Prince Of Darkness](https://drafthouse.com/los-angeles/show/prince-of-darkness): Fri 8/19 (11:35am), Mon 8/22 (4:45pm)
+
+    * [The Thing](https://drafthouse.com/los-angeles/show/the-thing): Thu 8/18 (8:45pm), Fri 8/19 (1:45pm, 9:10pm), Sat 8/20 (10:00pm), Sun 8/21 (5:00pm), Mon 8/22 (5:10pm, 8:00pm), Tue 8/23 (4:50pm), Wed 8/24 (4:45pm)
+
+    * [They Live](https://drafthouse.com/los-angeles/show/they-live): Fri 8/19 (2:20pm), Sat 8/20 (3:20pm, 9:10pm), Sun 8/21 (8:00pm), Mon 8/22 (8:05pm), Tue 8/23 (2:10pm, 5:20pm), Wed 8/24 (5:15pm)
+
+    * [Thor Love And Thunder](https://drafthouse.com/los-angeles/show/thor-love-and-thunder): Thu 8/18 (3:00pm, 6:15pm, 9:30pm), Fri 8/19 (1:00pm, 3:45pm, 7:00pm, 10:15pm), Sat 8/20 (1:00pm, 3:45pm, 7:00pm, 10:15pm), Sun 8/21 (1:00pm, 3:45pm, 7:00pm), Mon 8/22 (1:00pm, 3:45pm, 7:00pm), Tue 8/23 (1:00pm, 3:45pm, 7:00pm), Wed 8/24 (1:00pm, 3:45pm, 7:00pm)
+
 ### Sun 8/14 12:18am
 
 * New screenings: 
