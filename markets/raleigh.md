@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 8/16 6:26pm
+* New movies: Breaking
+
+* New screenings: 
+    * [Breaking](https://drafthouse.com/raleigh/show/breaking): Thu 8/25 (7:00pm), Fri 8/26 (6:45pm), Sun 8/28 (6:45pm)
+
 ### Mon 8/15 6:26pm
 * New movies: The Thing 1982, Grease
 
