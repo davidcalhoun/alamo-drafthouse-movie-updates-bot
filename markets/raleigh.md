@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Wed 8/17 12:39pm
+* New movies: Jackass 3D
+
+
+
 ### Wed 8/17 9:55am
 * New movies: Fantastic Fest Presents: THE TIMEKEEPERS OF ETERNITY
 
