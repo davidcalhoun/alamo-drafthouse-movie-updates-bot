@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Wed 8/17 12:16pm
+
+* New screenings: 
+    * [Steel Magnolias Brunch](https://drafthouse.com/los-angeles/show/steel-magnolias-brunch): Sun 9/4 (11:00am)
+
+    * [The Godfather](https://drafthouse.com/los-angeles/show/the-godfather): Mon 9/5 (4:00pm)
+
 ### Wed 8/17 9:32am
 * New movies: Jackass 3D
 
