@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 8/17 6:50am
+* New movies: Fantastic Fest Presents: THE TIMEKEEPERS OF ETERNITY
+
+
+
 ### Tue 8/16 7:17pm
 * New movies: Breaking
 
