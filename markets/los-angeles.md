@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 8/17 9:32am
+* New movies: Jackass 3D
+
+
+
 ### Wed 8/17 6:50am
 * New movies: Fantastic Fest Presents: THE TIMEKEEPERS OF ETERNITY
 
