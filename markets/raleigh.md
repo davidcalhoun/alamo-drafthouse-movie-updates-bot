@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Wed 8/17 9:55am
+* New movies: Fantastic Fest Presents: THE TIMEKEEPERS OF ETERNITY
+
+
+
 ### Tue 8/16 6:26pm
 * New movies: Breaking
 
