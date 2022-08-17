@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 8/16 7:17pm
+* New movies: Breaking
+
+* New screenings: 
+    * [Breaking](https://drafthouse.com/los-angeles/show/breaking): Thu 8/25 (7:00pm, 10:00pm), Fri 8/26 (6:30pm), Sat 8/27 (6:30pm), Sun 8/28 (6:30pm)
+
 ### Mon 8/15 7:07pm
 * New movies: Beast, RRR #encoRRRe, Grease, Inland Empire - 4k Remaster
 
