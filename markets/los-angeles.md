@@ -1,6 +1,20 @@
 # los-angeles
 
 ## Movie updates
+### Wed 8/17 1:21pm
+* New movies: Friday the 13th Part III 3-D, Mean Girls
+
+* New screenings: 
+    * [Friday The 13th Part Iii 3 D](https://drafthouse.com/los-angeles/show/friday-the-13th-part-iii-3-d): Thu 9/22 (6:30pm)
+
+    * [Mean Girls Movie Party](https://drafthouse.com/los-angeles/show/mean-girls-movie-party): Mon 10/3 (7:00pm)
+
+    * [Movie Party Ghostbusters 1984](https://drafthouse.com/los-angeles/show/movie-party-ghostbusters-1984): Sun 10/2 (7:00pm)
+
+    * [Movie Party The Mummy 1999](https://drafthouse.com/los-angeles/show/movie-party-the-mummy-1999): Sat 9/10 (10:00pm), Sun 9/11 (3:30pm)
+
+    * [Peggy Sue Got Married](https://drafthouse.com/los-angeles/show/peggy-sue-got-married): Sun 9/18 (11:30am)
+
 ### Wed 8/17 12:16pm
 
 * New screenings: 
