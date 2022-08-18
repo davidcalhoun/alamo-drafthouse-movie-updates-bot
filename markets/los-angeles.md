@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 8/18 1:24pm
+* New movies: Funny Pages
+
+* New screenings: 
+    * [Funny Pages](https://drafthouse.com/los-angeles/show/funny-pages): Thu 8/25 (7:30pm, 10:15pm), Fri 8/26 (1:00pm, 3:45pm, 6:15pm, 9:00pm), Sat 8/27 (1:00pm, 3:45pm, 6:15pm, 9:00pm), Sun 8/28 (1:00pm, 3:45pm, 6:15pm)
+
 ### Wed 8/17 1:21pm
 * New movies: Friday the 13th Part III 3-D, Mean Girls
 
