@@ -1,6 +1,19 @@
 # los-angeles
 
 ## Movie updates
+### Thu 8/18 4:20pm
+
+* New screenings: 
+    * [Dragon Ball Super Super Hero Dubbed](https://drafthouse.com/los-angeles/show/dragon-ball-super-super-hero-dubbed): Sat 8/20 (10:15pm)
+
+    * [Graveyard Shift Halloween Iii Season Of The Witch](https://drafthouse.com/los-angeles/show/graveyard-shift-halloween-iii-season-of-the-witch): Sun 8/21 (8:00pm)
+
+    * [Grease Sing Along](https://drafthouse.com/los-angeles/show/grease-sing-along): Sat 8/20 (12:15pm)
+
+    * [Inland Empire](https://drafthouse.com/los-angeles/show/inland-empire): Sun 8/21 (12:15pm)
+
+    * [Prince Of Darkness](https://drafthouse.com/los-angeles/show/prince-of-darkness): Thu 8/18 (10:15pm), Sat 8/20 (4:00pm)
+
 ### Thu 8/18 2:18pm
 
 * New screenings: 
