@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Thu 8/18 2:18pm
+
+* New screenings: 
+    * [Brunch Screenings Spirited Away Dubbed Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-spirited-away-dubbed-brunch): Sun 8/28 (11:00am)
+
+    * [They Live](https://drafthouse.com/los-angeles/show/they-live): Fri 8/26 (4:00pm), Sun 8/28 (4:50pm)
+
 ### Thu 8/18 1:24pm
 * New movies: Funny Pages
 
