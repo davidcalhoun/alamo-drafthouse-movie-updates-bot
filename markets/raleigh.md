@@ -1,6 +1,20 @@
 # raleigh
 
 ## Movie updates
+### Fri 8/19 12:38pm
+* New movies: Raiders of the Lost Ark - Presented in 4K
+
+* New screenings: 
+    * [Fantastic Fest Presents The Timekeepers Of Eternity1](https://drafthouse.com/raleigh/show/fantastic-fest-presents-the-timekeepers-of-eternity1): Fri 9/2 (10:00pm)
+
+    * [Friday The 13th Part Iii 3 D](https://drafthouse.com/raleigh/show/friday-the-13th-part-iii-3-d): Sat 9/10 (10:15pm)
+
+    * [Movie Party The Mummy 1999](https://drafthouse.com/raleigh/show/movie-party-the-mummy-1999): Sun 9/18 (5:50pm)
+
+    * [Raiders Of The Lost Ark](https://drafthouse.com/raleigh/show/raiders-of-the-lost-ark): Thu 9/15 (3:30pm)
+
+    * [The Dark Knight](https://drafthouse.com/raleigh/show/the-dark-knight): Fri 9/2 (3:00pm)
+
 ### Wed 8/17 12:39pm
 * New movies: Jackass 3D
 
