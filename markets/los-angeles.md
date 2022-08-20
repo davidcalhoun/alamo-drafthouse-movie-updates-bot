@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 8/19 7:06pm
+* New movies: The Boys Next Door
+
+* New screenings: 
+    * [The Boys Next Door](https://drafthouse.com/los-angeles/show/the-boys-next-door): Tue 9/6 (8:00pm), Wed 9/7 (8:00pm)
+
 ### Thu 8/18 4:20pm
 
 * New screenings: 
