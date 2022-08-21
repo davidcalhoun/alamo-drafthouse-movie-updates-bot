@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Sat 8/20 8:43pm
+* New movies: Friday the 13th Part III 3D
+
+
+
 ### Fri 8/19 7:06pm
 * New movies: The Boys Next Door
 
