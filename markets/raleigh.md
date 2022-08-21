@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Sun 8/21 12:00am
+* New movies: Friday the 13th Part III 3D
+
+
+
 ### Fri 8/19 12:38pm
 * New movies: Raiders of the Lost Ark - Presented in 4K
 
