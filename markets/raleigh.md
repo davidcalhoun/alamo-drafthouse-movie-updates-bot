@@ -1,6 +1,41 @@
 # raleigh
 
 ## Movie updates
+### Mon 8/22 4:25pm
+
+* New screenings: 
+    * [Beast](https://drafthouse.com/raleigh/show/beast): Thu 8/25 (1:30pm, 4:30pm, 7:15pm, 10:00pm), Fri 8/26 (1:30pm, 4:30pm, 7:15pm, 10:00pm), Sat 8/27 (1:30pm, 4:15pm, 7:15pm, 10:00pm), Sun 8/28 (1:00pm, 3:45pm, 6:45pm), Mon 8/29 (1:30pm, 4:30pm, 7:15pm, 10:00pm), Tue 8/30 (1:30pm, 4:30pm, 7:15pm, 10:00pm), Wed 8/31 (1:30pm, 4:30pm, 7:15pm, 10:00pm)
+
+    * [Bodies Bodies Bodies](https://drafthouse.com/raleigh/show/bodies-bodies-bodies): Thu 8/25 (1:45pm, 4:45pm, 7:30pm, 10:15pm), Fri 8/26 (1:45pm, 4:30pm, 7:15pm, 10:00pm), Sat 8/27 (1:45pm, 4:30pm, 7:15pm, 10:00pm), Sun 8/28 (1:30pm, 4:15pm, 7:15pm), Mon 8/29 (1:45pm, 4:30pm, 7:30pm, 10:15pm), Tue 8/30 (1:45pm, 4:30pm, 10:30pm), Wed 8/31 (12:30pm, 3:15pm, 7:00pm, 10:15pm)
+
+    * [Breaking](https://drafthouse.com/raleigh/show/breaking): Thu 8/25 (10:00pm), Fri 8/26 (12:45pm, 3:45pm, 9:45pm), Sat 8/27 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Sun 8/28 (12:30pm, 3:30pm), Mon 8/29 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Tue 8/30 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Wed 8/31 (12:15pm, 3:15pm, 6:30pm, 9:30pm)
+
+    * [Bullet Train](https://drafthouse.com/raleigh/show/bullet-train): Thu 8/25 (12:25pm, 3:45pm, 7:15pm, 10:45pm), Fri 8/26 (12:30pm, 3:45pm, 7:30pm, 10:45pm), Sat 8/27 (12:30pm, 3:45pm, 7:30pm, 10:45pm), Sun 8/28 (1:15pm, 4:40pm, 8:00pm), Mon 8/29 (12:00pm, 3:30pm, 7:15pm, 10:45pm), Tue 8/30 (12:00pm, 3:30pm, 7:15pm, 10:45pm), Wed 8/31 (12:00pm, 3:30pm, 6:50pm, 10:30pm)
+
+    * [Conan The Barbarian](https://drafthouse.com/raleigh/show/conan-the-barbarian): Thu 8/25 (10:30pm)
+
+    * [Dc League Of Super Pets](https://drafthouse.com/raleigh/show/dc-league-of-super-pets): Thu 8/25 (11:45am, 2:45pm, 6:00pm, 9:00pm), Fri 8/26 (11:45am, 2:45pm, 6:00pm, 9:00pm), Sat 8/27 (11:45am, 2:45pm, 6:00pm, 9:00pm), Sun 8/28 (11:45am, 2:45pm, 6:00pm), Mon 8/29 (11:45am, 2:45pm, 6:00pm, 9:00pm), Tue 8/30 (11:45am, 2:45pm, 6:00pm, 9:00pm), Wed 8/31 (11:45am, 2:45pm, 9:15pm)
+
+    * [Dragon Ball Super Super Hero Dubbed](https://drafthouse.com/raleigh/show/dragon-ball-super-super-hero-dubbed): Thu 8/25 (12:40pm, 2:00pm, 3:30pm, 6:30pm, 9:30pm), Fri 8/26 (11:45am, 2:45pm, 6:00pm, 9:00pm), Sat 8/27 (12:00pm, 3:15pm, 6:30pm, 10:15pm), Sun 8/28 (12:00pm, 3:15pm, 6:15pm), Mon 8/29 (11:45am, 2:45pm, 6:00pm, 9:45pm), Tue 8/30 (1:15pm, 4:15pm, 6:45pm, 9:45pm), Wed 8/31 (12:00pm, 3:00pm, 6:15pm, 10:30pm)
+
+    * [Fall](https://drafthouse.com/raleigh/show/fall): Thu 8/25 (1:00pm, 4:00pm)
+
+    * [Nope](https://drafthouse.com/raleigh/show/nope): Thu 8/25 (12:00pm, 3:15pm, 6:45pm, 10:15pm), Fri 8/26 (12:15pm, 3:30pm, 6:45pm, 10:30pm), Sat 8/27 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Sun 8/28 (12:15pm, 3:30pm, 6:45pm), Mon 8/29 (12:15pm, 3:30pm, 6:45pm, 10:15pm), Tue 8/30 (11:30am, 2:45pm, 6:00pm, 9:30pm), Wed 8/31 (11:30am, 2:45pm, 6:00pm, 9:30pm)
+
+    * [Spirited Away Dubbed](https://drafthouse.com/raleigh/show/spirited-away-dubbed): Fri 8/26 (11:40am, 6:15pm), Sat 8/27 (12:15pm), Mon 8/29 (12:45pm, 4:15pm), Tue 8/30 (1:30pm), Wed 8/31 (12:45pm, 4:15pm)
+
+    * [The Road Warrior](https://drafthouse.com/raleigh/show/the-road-warrior): Fri 8/26 (3:00pm)
+
+    * [They Live](https://drafthouse.com/raleigh/show/they-live): Wed 8/31 (10:15pm)
+
+    * [Thor Love And Thunder](https://drafthouse.com/raleigh/show/thor-love-and-thunder): Thu 8/25 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Fri 8/26 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Sat 8/27 (11:45am, 3:00pm, 7:00pm, 10:30pm), Sun 8/28 (12:45pm, 4:00pm, 6:00pm), Mon 8/29 (12:00pm, 3:15pm, 6:30pm, 10:30pm), Tue 8/30 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Wed 8/31 (11:45am, 3:15pm, 6:30pm, 9:45pm)
+
+    * [Three Thousand Years Of Longing](https://drafthouse.com/raleigh/show/three-thousand-years-of-longing): Mon 8/29 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Tue 8/30 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Wed 8/31 (1:00pm, 4:00pm, 7:00pm, 10:00pm)
+
+    * [Top Gun Maverick](https://drafthouse.com/raleigh/show/top-gun-maverick): Thu 8/25 (12:15pm, 3:30pm, 7:00pm, 10:15pm), Fri 8/26 (12:15pm, 3:30pm, 7:00pm, 10:35pm), Sat 8/27 (12:15pm, 3:30pm, 7:00pm, 10:15pm), Sun 8/28 (12:45pm, 4:00pm, 7:30pm), Mon 8/29 (12:15pm, 3:30pm, 7:00pm, 10:15pm), Tue 8/30 (12:15pm, 3:30pm, 7:00pm, 10:15pm), Wed 8/31 (12:15pm, 3:30pm, 9:45pm)
+
+    * [Where The Crawdads Sing](https://drafthouse.com/raleigh/show/where-the-crawdads-sing): Thu 8/25 (11:45am, 3:00pm)
+
 ### Mon 8/22 12:34pm
 * New movies: Coraline
 
