@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 8/22 9:27am
+* New movies: Coraline
+
+
+
 ### Sat 8/20 8:43pm
 * New movies: Friday the 13th Part III 3D
 
