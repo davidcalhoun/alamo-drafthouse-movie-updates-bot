@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 8/22 12:34pm
+* New movies: Coraline
+
+
+
 ### Sun 8/21 12:00am
 * New movies: Friday the 13th Part III 3D
 
