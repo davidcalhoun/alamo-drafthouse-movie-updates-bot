@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 8/23 12:35pm
+* New movies: DIO: Dreamers Never Die
+
+* New screenings: 
+    * [Dio Dreamers Never Die](https://drafthouse.com/raleigh/show/dio-dreamers-never-die): Wed 9/28 (9:30pm), Sun 10/2 (3:00pm)
+
 ### Tue 8/23 9:44am
 * New movies: Spider-Man: No Way Home
 
