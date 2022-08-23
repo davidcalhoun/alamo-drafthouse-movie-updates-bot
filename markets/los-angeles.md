@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 8/22 11:34pm
+
+* New screenings: 
+    * [Spirited Away Dubbed](https://drafthouse.com/los-angeles/show/spirited-away-dubbed): Thu 9/1 (6:15pm)
+
 ### Mon 8/22 9:27am
 * New movies: Coraline
 
