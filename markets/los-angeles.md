@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 8/23 6:40am
+* New movies: Spider-Man: No Way Home
+
+* New screenings: 
+    * [Spider Man No Way Home Rerelease](https://drafthouse.com/los-angeles/show/spider-man-no-way-home-rerelease): Thu 9/1 (3:15pm, 7:00pm), Fri 9/2 (11:30am, 3:15pm, 7:15pm), Sat 9/3 (11:30am, 3:15pm, 7:15pm)
+
 ### Mon 8/22 11:34pm
 
 * New screenings: 
