@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 8/23 2:18pm
+* New movies: DIO: Dreamers Never Die
+
+* New screenings: 
+    * [Dio Dreamers Never Die](https://drafthouse.com/los-angeles/show/dio-dreamers-never-die): Wed 9/28 (7:00pm), Sun 10/2 (3:30pm)
+
 ### Tue 8/23 11:25am
 * New movies: Prince of Darkness, Spirited Away Subtitled, Jurassic World Dominion
 
