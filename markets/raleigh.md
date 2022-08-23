@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 8/23 9:44am
+* New movies: Spider-Man: No Way Home
+
+* New screenings: 
+    * [Spider Man No Way Home Rerelease](https://drafthouse.com/raleigh/show/spider-man-no-way-home-rerelease): Thu 9/1 (3:10pm, 7:00pm, 10:45pm), Fri 9/2 (11:30am, 3:15pm, 7:00pm, 10:45pm), Sat 9/3 (11:30am, 3:15pm, 7:00pm, 10:45pm), Sun 9/4 (11:30am, 3:15pm, 7:00pm)
+
 ### Mon 8/22 4:25pm
 
 * New screenings: 
