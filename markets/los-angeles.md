@@ -1,6 +1,22 @@
 # los-angeles
 
 ## Movie updates
+### Wed 8/24 2:18pm
+* New movies: The Cotton Club Encore
+
+* New screenings: 
+    * [Friday The 13th Part Iii 3d](https://drafthouse.com/los-angeles/show/friday-the-13th-part-iii-3d): Tue 9/20 (5:15pm)
+
+    * [Movie Party The Mummy 1999](https://drafthouse.com/los-angeles/show/movie-party-the-mummy-1999): Sun 9/11 (7:45pm)
+
+    * [Spider Man No Way Home Rerelease](https://drafthouse.com/los-angeles/show/spider-man-no-way-home-rerelease): Sun 9/4 (11:15am, 3:00pm, 7:00pm)
+
+    * [The Cotton Club Encore](https://drafthouse.com/los-angeles/show/the-cotton-club-encore): Tue 9/20 (2:00pm)
+
+    * [The Godfather](https://drafthouse.com/los-angeles/show/the-godfather): Fri 9/2 (3:00pm)
+
+    * [World Of Animation Coraline 3d](https://drafthouse.com/los-angeles/show/world-of-animation-coraline-3d): Sun 9/18 (2:30pm)
+
 ### Wed 8/24 1:21pm
 
 * New screenings: 
