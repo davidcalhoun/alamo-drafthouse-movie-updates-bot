@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 8/24 1:21pm
+
+* New screenings: 
+    * [Movie Party The Mummy 1999](https://drafthouse.com/los-angeles/show/movie-party-the-mummy-1999): Sat 9/3 (7:00pm)
+
 ### Tue 8/23 7:09pm
 * New movies: Karmalink
 
