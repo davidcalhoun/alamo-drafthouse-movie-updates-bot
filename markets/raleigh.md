@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 8/24 8:50am
+* New movies: Jaws 1975
+
+* New screenings: 
+    * [Jaws 1975](https://drafthouse.com/raleigh/show/jaws-1975): Thu 9/1 (5:00pm, 8:15pm), Fri 9/2 (2:45pm, 6:00pm), Sun 9/4 (2:45pm, 6:00pm)
+
 ### Tue 8/23 12:35pm
 * New movies: DIO: Dreamers Never Die
 
