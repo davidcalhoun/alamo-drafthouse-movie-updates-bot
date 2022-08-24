@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Wed 8/24 3:21pm
+
+* New screenings: 
+    * [Movie Party The Mummy 1999](https://drafthouse.com/raleigh/show/movie-party-the-mummy-1999): Sat 9/3 (10:00pm)
+
 ### Wed 8/24 8:50am
 * New movies: Jaws 1975
 
