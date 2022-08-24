@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 8/23 7:09pm
+* New movies: Karmalink
+
+* New screenings: 
+    * [Live Q A Karmalink](https://drafthouse.com/los-angeles/show/live-q-a-karmalink): Mon 9/5 (7:00pm)
+
 ### Tue 8/23 2:18pm
 * New movies: DIO: Dreamers Never Die
 
