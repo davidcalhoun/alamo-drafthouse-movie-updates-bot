@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 8/24 10:55pm
+* New movies: The Mummy 1999
+
+* New screenings: 
+    * [The Dark Knight](https://drafthouse.com/los-angeles/show/the-dark-knight): Fri 9/9 (2:25pm)
+
+    * [The Mummy 1999](https://drafthouse.com/los-angeles/show/the-mummy-1999): Tue 9/6 (3:45pm), Thu 9/8 (3:00pm)
+
 ### Wed 8/24 2:18pm
 * New movies: The Cotton Club Encore
 
