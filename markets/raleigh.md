@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Thu 8/25 10:24am
+
+* New screenings: 
+    * [Dc League Of Super Pets](https://drafthouse.com/raleigh/show/dc-league-of-super-pets): Wed 8/31 (6:15pm)
+
+    * [Top Gun Maverick](https://drafthouse.com/raleigh/show/top-gun-maverick): Wed 8/31 (7:00pm)
+
 ### Thu 8/25 9:48am
 * New movies: Memoria
 
