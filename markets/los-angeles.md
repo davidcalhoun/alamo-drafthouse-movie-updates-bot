@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 8/25 6:43am
+* New movies: Memoria
+
+* New screenings: 
+    * [Memoria](https://drafthouse.com/los-angeles/show/memoria): Thu 9/8 (7:00pm, 10:30pm), Fri 9/9 (11:45am, 3:15pm, 6:45pm, 10:15pm), Sat 9/10 (11:45am, 3:15pm, 6:45pm, 10:15pm), Sun 9/11 (11:45am, 3:15pm, 6:45pm)
+
 ### Wed 8/24 10:55pm
 * New movies: The Mummy 1999
 
