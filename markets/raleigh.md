@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 8/25 9:48am
+* New movies: Memoria
+
+* New screenings: 
+    * [Memoria](https://drafthouse.com/raleigh/show/memoria): Thu 9/8 (7:00pm), Fri 9/9 (6:45pm), Sat 9/10 (6:45pm), Sun 9/11 (6:45pm)
+
 ### Wed 8/24 3:21pm
 
 * New screenings: 
