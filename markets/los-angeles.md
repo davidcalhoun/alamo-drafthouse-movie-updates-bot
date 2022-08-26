@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 8/26 1:27am
+
+* New screenings: 
+    * [Marcel The Shell With Shoes On](https://drafthouse.com/los-angeles/show/marcel-the-shell-with-shoes-on): Fri 8/26 (2:15pm)
+
 ### Thu 8/25 6:43am
 * New movies: Memoria
 
