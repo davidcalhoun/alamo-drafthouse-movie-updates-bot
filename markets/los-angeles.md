@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 8/26 4:20pm
+
+* New screenings: 
+    * [Jurassic World Dominion](https://drafthouse.com/los-angeles/show/jurassic-world-dominion): Sat 8/27 (5:35pm), Sun 8/28 (12:45pm)
+
 ### Fri 8/26 3:20pm
 * New movies: Princess Mononoke Dubbed, My Neighbor Totoro Dubbed, Princess Mononoke Subtitled
 
