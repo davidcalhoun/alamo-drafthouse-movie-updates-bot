@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Fri 8/26 3:20pm
+* New movies: Princess Mononoke Dubbed, My Neighbor Totoro Dubbed, Princess Mononoke Subtitled
+
+* New screenings: 
+    * [My Neighbor Totoro Dubbed](https://drafthouse.com/los-angeles/show/my-neighbor-totoro-dubbed): Mon 9/12 (12:30pm), Tue 9/13 (11:30am, 2:00pm), Wed 9/14 (3:30pm)
+
+    * [Princess Mononoke Dubbed](https://drafthouse.com/los-angeles/show/princess-mononoke-dubbed): Sun 9/4 (4:30pm), Mon 9/5 (12:30pm), Tue 9/6 (12:15pm), Wed 9/7 (11:45am), Thu 9/8 (3:30pm)
+
+    * [Princess Mononoke Subtitled](https://drafthouse.com/los-angeles/show/princess-mononoke-subtitled): Fri 9/2 (11:30am)
+
 ### Fri 8/26 1:27am
 
 * New screenings: 
