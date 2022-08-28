@@ -1,6 +1,20 @@
 # raleigh
 
 ## Movie updates
+### Sun 8/28 9:34am
+* New movies: Honk For Jesus. Save Your Soul., The Godfather
+
+* New screenings: 
+    * [Honk For Jesus Save Your Soul](https://drafthouse.com/raleigh/show/honk-for-jesus-save-your-soul): Sat 9/3 (1:15pm, 4:15pm, 7:15pm, 10:15pm)
+
+    * [Jaws 1975](https://drafthouse.com/raleigh/show/jaws-1975): Sat 9/3 (2:45pm, 6:15pm)
+
+    * [Spider Man No Way Home Rerelease](https://drafthouse.com/raleigh/show/spider-man-no-way-home-rerelease): Sat 9/3 (11:30am, 3:15pm, 7:00pm, 10:45pm)
+
+    * [The Godfather](https://drafthouse.com/raleigh/show/the-godfather): Sat 9/3 (3:00pm)
+
+    * [Three Thousand Years Of Longing](https://drafthouse.com/raleigh/show/three-thousand-years-of-longing): Sat 9/3 (12:45pm, 3:45pm, 6:45pm, 9:45pm)
+
 ### Thu 8/25 10:24am
 
 * New screenings: 
