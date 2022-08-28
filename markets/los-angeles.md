@@ -1,6 +1,30 @@
 # los-angeles
 
 ## Movie updates
+### Sun 8/28 4:16am
+* New movies: Honk For Jesus. Save Your Soul., Saloum
+
+* New screenings: 
+    * [Bodies Bodies Bodies](https://drafthouse.com/los-angeles/show/bodies-bodies-bodies): Sat 9/3 (12:30pm, 3:15pm, 6:15pm, 9:00pm)
+
+    * [Bullet Train](https://drafthouse.com/los-angeles/show/bullet-train): Sat 9/3 (12:45pm, 4:15pm, 7:30pm, 10:45pm)
+
+    * [Fantastic Fest Presents The Timekeepers Of Eternity1](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-the-timekeepers-of-eternity1): Sat 9/3 (9:30pm)
+
+    * [Honk For Jesus Save Your Soul](https://drafthouse.com/los-angeles/show/honk-for-jesus-save-your-soul): Sat 9/3 (11:45am, 2:30pm, 6:30pm, 9:30pm)
+
+    * [Nope](https://drafthouse.com/los-angeles/show/nope): Sat 9/3 (12:00pm, 3:30pm, 6:45pm, 10:15pm)
+
+    * [Saloum](https://drafthouse.com/los-angeles/show/saloum): Sat 9/3 (1:15pm, 3:45pm, 7:45pm)
+
+    * [Spider Man No Way Home Rerelease](https://drafthouse.com/los-angeles/show/spider-man-no-way-home-rerelease): Sat 9/3 (11:15am, 3:00pm, 6:00pm, 9:50pm)
+
+    * [Steel Magnolias Brunch](https://drafthouse.com/los-angeles/show/steel-magnolias-brunch): Sat 9/3 (12:15pm)
+
+    * [The Godfather](https://drafthouse.com/los-angeles/show/the-godfather): Sat 9/3 (3:30pm)
+
+    * [Three Thousand Years Of Longing](https://drafthouse.com/los-angeles/show/three-thousand-years-of-longing): Sat 9/3 (1:00pm, 4:00pm, 7:00pm, 10:00pm)
+
 ### Fri 8/26 4:20pm
 
 * New screenings: 
