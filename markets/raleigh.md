@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 8/29 9:46am
+* New movies: Brahmastra Part One: Shiva
+
+* New screenings: 
+    * [Brahmastra Part One Shiva](https://drafthouse.com/raleigh/show/brahmastra-part-one-shiva): Thu 9/8 (5:00pm, 9:00pm), Fri 9/9 (10:50am, 2:40pm, 6:30pm, 10:30pm), Sat 9/10 (6:00pm)
+
 ### Sun 8/28 9:34am
 * New movies: Honk For Jesus. Save Your Soul., The Godfather
 
