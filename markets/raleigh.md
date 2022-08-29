@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 8/29 10:26am
+
+* New screenings: 
+    * [Brahmastra Part One Shiva](https://drafthouse.com/raleigh/show/brahmastra-part-one-shiva): Sun 9/11 (6:00pm)
+
 ### Mon 8/29 9:46am
 * New movies: Brahmastra Part One: Shiva
 
