@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 8/29 6:41am
+* New movies: Brahmastra Part One: Shiva
+
+* New screenings: 
+    * [Brahmastra Part One Shiva](https://drafthouse.com/los-angeles/show/brahmastra-part-one-shiva): Thu 9/8 (5:00pm, 9:00pm), Fri 9/9 (6:00pm, 10:00pm), Sat 9/10 (6:00pm, 10:00pm), Sun 9/11 (6:00pm)
+
 ### Sun 8/28 4:16am
 * New movies: Honk For Jesus. Save Your Soul., Saloum
 
