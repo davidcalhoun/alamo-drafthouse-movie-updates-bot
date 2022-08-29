@@ -1,6 +1,49 @@
 # los-angeles
 
 ## Movie updates
+### Mon 8/29 3:20pm
+
+* New screenings: 
+    * [Apocalypse Now Final Cut](https://drafthouse.com/los-angeles/show/apocalypse-now-final-cut): Thu 9/1 (5:45pm), Fri 9/2 (5:45pm), Sat 9/3 (2:45pm, 5:20pm), Mon 9/5 (2:50pm)
+
+    * [Beast](https://drafthouse.com/los-angeles/show/beast): Thu 9/1 (3:00pm)
+
+    * [Bodies Bodies Bodies](https://drafthouse.com/los-angeles/show/bodies-bodies-bodies): Thu 9/1 (4:00pm, 6:45pm, 10:45pm), Fri 9/2 (12:30pm, 3:30pm, 6:15pm, 9:00pm), Sun 9/4 (12:45pm, 3:30pm, 6:30pm), Mon 9/5 (12:45pm, 3:30pm, 6:30pm), Tue 9/6 (12:45pm, 3:30pm, 6:30pm), Wed 9/7 (12:50pm, 3:40pm, 6:30pm)
+
+    * [Breaking](https://drafthouse.com/los-angeles/show/breaking): Thu 9/1 (4:15pm, 7:15pm, 10:10pm), Fri 9/2 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Sat 9/3 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Sun 9/4 (1:15pm, 4:15pm, 7:15pm), Mon 9/5 (1:15pm, 4:15pm, 7:15pm), Tue 9/6 (1:15pm, 4:15pm, 7:15pm), Wed 9/7 (1:15pm, 4:20pm, 7:15pm)
+
+    * [Bullet Train](https://drafthouse.com/los-angeles/show/bullet-train): Thu 9/1 (3:40pm, 7:00pm, 10:20pm), Fri 9/2 (12:30pm, 3:45pm, 7:15pm, 10:30pm), Sun 9/4 (12:30pm, 3:45pm, 7:15pm), Mon 9/5 (12:30pm, 3:45pm, 7:15pm), Tue 9/6 (12:45pm, 4:00pm, 7:15pm), Wed 9/7 (12:30pm, 3:45pm, 7:15pm)
+
+    * [Dragon Ball Super Super Hero Dubbed](https://drafthouse.com/los-angeles/show/dragon-ball-super-super-hero-dubbed): Thu 9/1 (3:15pm, 6:00pm, 9:20pm), Fri 9/2 (2:40pm, 10:45pm), Sat 9/3 (11:25am, 2:20pm, 10:40pm), Sun 9/4 (11:40am, 8:00pm), Mon 9/5 (11:40am, 8:00pm), Tue 9/6 (12:10pm), Wed 9/7 (1:45pm)
+
+    * [Fantastic Fest Presents The Timekeepers Of Eternity1](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-the-timekeepers-of-eternity1): Sat 9/3 (10:20pm)
+
+    * [Funny Pages](https://drafthouse.com/los-angeles/show/funny-pages): Thu 9/1 (3:50pm, 6:30pm, 9:15pm), Fri 9/2 (1:15pm, 4:00pm, 7:15pm, 9:55pm), Sat 9/3 (12:35pm, 3:15pm, 7:15pm, 9:45pm), Sun 9/4 (11:30am, 2:15pm, 5:00pm, 7:45pm), Mon 9/5 (11:30am, 2:15pm, 4:45pm, 8:00pm), Tue 9/6 (11:40am, 2:15pm, 5:00pm, 7:45pm), Wed 9/7 (11:30am, 2:15pm, 5:00pm, 7:45pm)
+
+    * [Honk For Jesus Save Your Soul](https://drafthouse.com/los-angeles/show/honk-for-jesus-save-your-soul): Thu 9/1 (5:00pm, 7:45pm, 10:40pm), Fri 9/2 (11:45am, 2:45pm, 6:30pm, 10:15pm), Sun 9/4 (11:50am, 2:50pm, 6:00pm), Mon 9/5 (12:10pm, 3:00pm, 6:00pm), Tue 9/6 (12:00pm, 3:00pm, 6:00pm), Wed 9/7 (11:50am, 2:50pm, 6:00pm)
+
+    * [Inu Oh Subtitled](https://drafthouse.com/los-angeles/show/inu-oh-subtitled): Thu 9/1 (3:30pm)
+
+    * [Marcel The Shell With Shoes On](https://drafthouse.com/los-angeles/show/marcel-the-shell-with-shoes-on): Thu 9/1 (4:00pm, 6:45pm), Fri 9/2 (11:50am, 5:25pm, 8:00pm), Sat 9/3 (5:15pm, 8:00pm), Sun 9/4 (2:40pm, 5:25pm), Mon 9/5 (2:40pm, 5:25pm), Tue 9/6 (3:00pm, 5:25pm), Wed 9/7 (4:40pm, 7:30pm)
+
+    * [Nope](https://drafthouse.com/los-angeles/show/nope): Thu 9/1 (2:45pm, 6:00pm, 9:15pm), Fri 9/2 (12:00pm, 3:15pm, 6:45pm, 10:00pm), Sun 9/4 (12:00pm, 3:20pm, 6:45pm), Mon 9/5 (12:00pm, 3:20pm, 6:45pm), Tue 9/6 (12:00pm, 3:20pm, 6:45pm), Wed 9/7 (12:00pm, 3:20pm, 6:45pm)
+
+    * [Saloum](https://drafthouse.com/los-angeles/show/saloum): Fri 9/2 (12:15pm, 3:00pm, 8:30pm), Sun 9/4 (1:00pm, 3:30pm, 6:15pm), Mon 9/5 (1:00pm, 3:30pm, 6:15pm), Tue 9/6 (1:00pm, 3:30pm, 6:15pm), Wed 9/7 (1:00pm, 3:30pm, 6:15pm)
+
+    * [Spider Man No Way Home Rerelease](https://drafthouse.com/los-angeles/show/spider-man-no-way-home-rerelease): Thu 9/1 (9:00pm), Fri 9/2 (9:50pm), Mon 9/5 (11:15am, 3:10pm, 7:00pm), Tue 9/6 (11:25am, 3:10pm, 6:00pm), Wed 9/7 (12:15pm, 4:10pm, 6:15pm)
+
+    * [Spirited Away Dubbed](https://drafthouse.com/los-angeles/show/spirited-away-dubbed): Thu 9/1 (9:40pm), Fri 9/2 (10:05pm), Sun 9/4 (6:15pm)
+
+    * [Steel Magnolias Brunch](https://drafthouse.com/los-angeles/show/steel-magnolias-brunch): Sat 9/3 (11:35am)
+
+    * [The Dark Knight](https://drafthouse.com/los-angeles/show/the-dark-knight): Mon 9/5 (12:20pm), Tue 9/6 (1:45pm)
+
+    * [The Godfather](https://drafthouse.com/los-angeles/show/the-godfather): Fri 9/2 (11:15am), Sun 9/4 (12:15pm), Wed 9/7 (11:30am)
+
+    * [They Live](https://drafthouse.com/los-angeles/show/they-live): Thu 9/1 (9:50pm), Fri 9/2 (5:40pm), Sat 9/3 (10:20pm), Wed 9/7 (3:30pm)
+
+    * [Three Thousand Years Of Longing](https://drafthouse.com/los-angeles/show/three-thousand-years-of-longing): Thu 9/1 (4:30pm, 7:30pm, 10:30pm), Fri 9/2 (1:00pm, 4:00pm, 7:00pm, 10:15pm), Sun 9/4 (1:00pm, 4:00pm, 7:00pm), Mon 9/5 (1:00pm, 4:00pm, 7:00pm), Tue 9/6 (1:30pm, 4:30pm, 7:30pm), Wed 9/7 (1:00pm, 4:00pm, 7:00pm)
+
 ### Mon 8/29 6:41am
 * New movies: Brahmastra Part One: Shiva
 
