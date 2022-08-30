@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 8/30 9:31am
+* New movies: Goodnight Mommy 2022, Barbarian
+
+* New screenings: 
+    * [Advance Screening Barbarian](https://drafthouse.com/los-angeles/show/advance-screening-barbarian): Tue 9/6 (7:00pm)
+
+    * [Free Victory Screening Goodnight Mommy 2022](https://drafthouse.com/los-angeles/show/free-victory-screening-goodnight-mommy-2022): Wed 9/14 (6:30pm, 6:30pm)
+
 ### Tue 8/30 7:20am
 * New movies: Barbarian
 
