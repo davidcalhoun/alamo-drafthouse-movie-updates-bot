@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 8/30 7:20am
+* New movies: Barbarian
+
+* New screenings: 
+    * [Barbarian](https://drafthouse.com/los-angeles/show/barbarian): Thu 9/8 (7:00pm, 10:00pm), Fri 9/9 (1:00pm, 4:00pm, 7:00pm, 10:30pm), Sat 9/10 (1:00pm, 4:00pm, 7:00pm, 10:15pm), Sun 9/11 (12:30pm, 4:00pm, 7:00pm)
+
 ### Mon 8/29 3:20pm
 
 * New screenings: 
