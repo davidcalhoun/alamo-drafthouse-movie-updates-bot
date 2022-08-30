@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 8/30 12:39pm
+* New movies: Barbarian
+
+* New screenings: 
+    * [Advance Screening Barbarian](https://drafthouse.com/raleigh/show/advance-screening-barbarian): Tue 9/6 (7:00pm)
+
 ### Tue 8/30 9:53am
 * New movies: Barbarian
 
