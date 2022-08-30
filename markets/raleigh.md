@@ -1,6 +1,56 @@
 # raleigh
 
 ## Movie updates
+### Tue 8/30 2:30pm
+* New movies: Steel Magnolias, Princess Mononoke Dubbed, Princess Mononoke Subtitled, The Mummy 1999
+
+* New screenings: 
+    * [Beast](https://drafthouse.com/raleigh/show/beast): Thu 9/1 (1:30pm, 4:30pm, 7:15pm, 10:00pm), Fri 9/2 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Sat 9/3 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Sun 9/4 (1:30pm, 4:30pm, 7:30pm), Mon 9/5 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Tue 9/6 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Wed 9/7 (1:30pm, 4:30pm, 7:30pm, 10:30pm)
+
+    * [Bodies Bodies Bodies](https://drafthouse.com/raleigh/show/bodies-bodies-bodies): Thu 9/1 (12:15pm, 2:20pm, 7:00pm, 9:45pm), Fri 9/2 (1:45pm, 4:45pm, 7:45pm, 10:45pm), Sat 9/3 (1:45pm, 4:45pm, 7:45pm, 10:45pm), Sun 9/4 (1:45pm, 4:45pm, 7:45pm), Mon 9/5 (1:45pm, 4:45pm, 7:45pm, 10:45pm), Tue 9/6 (1:45pm, 4:45pm, 7:45pm, 10:45pm), Wed 9/7 (1:45pm, 4:45pm, 7:45pm, 10:45pm)
+
+    * [Breaking](https://drafthouse.com/raleigh/show/breaking): Thu 9/1 (12:30pm, 3:30pm, 6:15pm, 9:15pm), Fri 9/2 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sat 9/3 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sun 9/4 (12:30pm, 3:30pm, 6:30pm), Mon 9/5 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Tue 9/6 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Wed 9/7 (12:30pm, 3:30pm, 6:30pm, 9:30pm)
+
+    * [Bullet Train](https://drafthouse.com/raleigh/show/bullet-train): Thu 9/1 (11:45am, 3:00pm, 6:45pm, 10:00pm), Fri 9/2 (12:45pm, 4:15pm, 7:30pm, 10:45pm), Sat 9/3 (12:45pm, 4:15pm, 7:30pm, 10:45pm), Sun 9/4 (12:45pm, 4:15pm, 7:30pm), Mon 9/5 (12:45pm, 4:15pm, 7:30pm, 10:45pm), Tue 9/6 (12:30pm, 3:45pm, 6:15pm, 10:00pm), Wed 9/7 (12:45pm, 4:15pm, 7:30pm, 10:45pm)
+
+    * [Dc League Of Super Pets](https://drafthouse.com/raleigh/show/dc-league-of-super-pets): Thu 9/1 (11:30am, 6:30pm), Fri 9/2 (11:30am), Sat 9/3 (11:30am), Sun 9/4 (11:45am), Mon 9/5 (11:30am), Tue 9/6 (11:30am), Wed 9/7 (11:30am)
+
+    * [Dragon Ball Super Super Hero Dubbed](https://drafthouse.com/raleigh/show/dragon-ball-super-super-hero-dubbed): Thu 9/1 (12:40pm, 3:45pm), Fri 9/2 (2:15pm), Sat 9/3 (2:15pm), Sun 9/4 (2:30pm), Mon 9/5 (2:15pm), Tue 9/6 (2:15pm), Wed 9/7 (2:15pm)
+
+    * [Fantastic Fest Presents The Timekeepers Of Eternity1](https://drafthouse.com/raleigh/show/fantastic-fest-presents-the-timekeepers-of-eternity1): Mon 9/5 (10:00pm)
+
+    * [Honk For Jesus Save Your Soul](https://drafthouse.com/raleigh/show/honk-for-jesus-save-your-soul): Fri 9/2 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Sun 9/4 (1:15pm, 4:15pm, 7:15pm), Mon 9/5 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Tue 9/6 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Wed 9/7 (1:15pm, 4:15pm, 7:15pm, 10:15pm)
+
+    * [Jaws 1975](https://drafthouse.com/raleigh/show/jaws-1975): Mon 9/5 (2:45pm, 6:00pm), Tue 9/6 (2:45pm, 6:00pm), Wed 9/7 (2:45pm, 6:00pm)
+
+    * [Nope](https://drafthouse.com/raleigh/show/nope): Thu 9/1 (11:30am, 2:45pm, 6:00pm, 9:30pm), Fri 9/2 (11:45am, 2:30pm, 6:15pm, 10:15pm), Sat 9/3 (11:45am, 2:30pm, 6:00pm, 9:30pm), Sun 9/4 (12:15pm, 3:30pm, 6:45pm), Mon 9/5 (11:45am, 2:30pm, 6:15pm, 10:15pm), Tue 9/6 (12:00pm, 3:20pm, 6:30pm, 10:15pm), Wed 9/7 (11:45am, 2:30pm, 6:15pm, 9:45pm)
+
+    * [Princess Mononoke Dubbed](https://drafthouse.com/raleigh/show/princess-mononoke-dubbed): Fri 9/2 (11:15am), Sat 9/3 (11:15am), Sun 9/4 (11:15am), Mon 9/5 (11:15am), Tue 9/6 (11:15am), Wed 9/7 (11:15am)
+
+    * [Princess Mononoke Subtitled](https://drafthouse.com/raleigh/show/princess-mononoke-subtitled): Tue 9/6 (9:30pm), Wed 9/7 (9:30pm)
+
+    * [Spider Man No Way Home Rerelease](https://drafthouse.com/raleigh/show/spider-man-no-way-home-rerelease): Mon 9/5 (11:30am, 3:15pm, 7:00pm, 10:45pm), Tue 9/6 (11:30am, 3:15pm, 7:00pm, 10:45pm), Wed 9/7 (11:30am, 3:15pm, 7:00pm, 10:45pm)
+
+    * [Spirited Away Dubbed](https://drafthouse.com/raleigh/show/spirited-away-dubbed): Thu 9/1 (1:00pm, 4:15pm)
+
+    * [Steel Magnolias](https://drafthouse.com/raleigh/show/steel-magnolias): Fri 9/2 (5:15pm), Sat 9/3 (11:00am, 5:15pm), Sun 9/4 (6:30pm), Mon 9/5 (11:00am, 5:15pm), Tue 9/6 (11:15am, 5:15pm), Wed 9/7 (11:00am, 5:15pm)
+
+    * [The Dark Knight](https://drafthouse.com/raleigh/show/the-dark-knight): Mon 9/5 (3:00pm), Tue 9/6 (2:40pm), Wed 9/7 (3:00pm)
+
+    * [The Godfather](https://drafthouse.com/raleigh/show/the-godfather): Fri 9/2 (9:15pm), Sat 9/3 (7:15pm), Tue 9/6 (9:15pm)
+
+    * [The Mummy 1999](https://drafthouse.com/raleigh/show/the-mummy-1999): Fri 9/2 (11:00am, 6:45pm), Mon 9/5 (6:45pm), Wed 9/7 (9:15pm)
+
+    * [The Road Warrior](https://drafthouse.com/raleigh/show/the-road-warrior): Thu 9/1 (7:30pm)
+
+    * [They Live](https://drafthouse.com/raleigh/show/they-live): Thu 9/1 (10:15pm)
+
+    * [Thor Love And Thunder](https://drafthouse.com/raleigh/show/thor-love-and-thunder): Thu 9/1 (11:45am, 3:15pm, 6:30pm, 9:45pm)
+
+    * [Three Thousand Years Of Longing](https://drafthouse.com/raleigh/show/three-thousand-years-of-longing): Thu 9/1 (12:45pm, 3:45pm, 6:45pm, 9:30pm), Fri 9/2 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Sun 9/4 (12:45pm, 3:45pm, 6:45pm), Mon 9/5 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Tue 9/6 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Wed 9/7 (12:45pm, 3:45pm, 6:45pm, 9:45pm)
+
+    * [Top Gun Maverick](https://drafthouse.com/raleigh/show/top-gun-maverick): Thu 9/1 (12:15pm, 3:30pm, 9:45pm), Fri 9/2 (8:30pm), Sat 9/3 (8:30pm), Sun 9/4 (5:30pm), Mon 9/5 (8:30pm), Tue 9/6 (8:30pm), Wed 9/7 (8:30pm)
+
 ### Tue 8/30 12:39pm
 * New movies: Barbarian
 
