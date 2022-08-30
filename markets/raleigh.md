@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 8/30 9:53am
+* New movies: Barbarian
+
+* New screenings: 
+    * [Barbarian](https://drafthouse.com/raleigh/show/barbarian): Thu 9/8 (7:30pm, 10:30pm), Fri 9/9 (7:30pm, 10:30pm), Sat 9/10 (7:30pm, 10:30pm), Sun 9/11 (7:30pm)
+
 ### Mon 8/29 10:26am
 
 * New screenings: 
