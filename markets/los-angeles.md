@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 8/31 2:19pm
+* New movies: They Live
+
+* New screenings: 
+    * [They Live With 100 Soft](https://drafthouse.com/los-angeles/show/they-live-with-100-soft): Sun 9/4 (8:00pm)
+
 ### Tue 8/30 9:31am
 * New movies: Goodnight Mommy 2022, Barbarian
 
