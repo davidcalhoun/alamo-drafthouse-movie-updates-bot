@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Thu 9/1 12:36pm
+
+* New screenings: 
+    * [The Godfather Part Ii](https://drafthouse.com/raleigh/show/the-godfather-part-ii): Fri 9/9 (11:10am)
+
+    * [The Mummy 1999](https://drafthouse.com/raleigh/show/the-mummy-1999): Thu 9/8 (11:30am)
+
 ### Tue 8/30 2:30pm
 * New movies: Steel Magnolias, Princess Mononoke Dubbed, Princess Mononoke Subtitled, The Mummy 1999
 
