@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 9/1 7:20pm
+* New movies: Goodbye, Don Glees! Subtitled, Goodbye, Don Glees! Dubbed
+
+* New screenings: 
+    * [Goodbye Don Glees Dubbed](https://drafthouse.com/los-angeles/show/goodbye-don-glees-dubbed): Sun 9/18 (4:00pm)
+
+    * [Goodbye Don Glees Subtitled](https://drafthouse.com/los-angeles/show/goodbye-don-glees-subtitled): Wed 9/14 (7:00pm), Tue 9/20 (7:00pm)
+
 ### Wed 8/31 2:19pm
 * New movies: They Live
 
