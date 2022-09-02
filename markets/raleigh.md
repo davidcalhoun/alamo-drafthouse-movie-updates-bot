@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 9/2 10:23am
+
+* New screenings: 
+    * [The Mummy 1999](https://drafthouse.com/raleigh/show/the-mummy-1999): Sat 9/3 (11:00pm)
+
 ### Thu 9/1 12:36pm
 
 * New screenings: 
