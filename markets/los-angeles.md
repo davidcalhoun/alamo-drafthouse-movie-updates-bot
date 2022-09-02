@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 9/2 6:40am
+* New movies: Moonage Daydream
+
+* New screenings: 
+    * [Moonage Daydream](https://drafthouse.com/los-angeles/show/moonage-daydream): Thu 9/22 (6:00pm, 9:30pm), Fri 9/23 (11:30am, 3:00pm, 6:30pm, 10:00pm), Sat 9/24 (11:30am, 3:00pm, 6:30pm, 10:00pm), Sun 9/25 (11:30am, 3:00pm, 6:30pm)
+
 ### Thu 9/1 7:20pm
 * New movies: Goodbye, Don Glees! Subtitled, Goodbye, Don Glees! Dubbed
 
