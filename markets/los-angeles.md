@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 9/2 2:17pm
+
+* New screenings: 
+    * [Marcel The Shell With Shoes On](https://drafthouse.com/los-angeles/show/marcel-the-shell-with-shoes-on): Tue 9/6 (5:25pm)
+
 ### Fri 9/2 6:40am
 * New movies: Moonage Daydream
 
