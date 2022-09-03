@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 9/2 7:24pm
+* New movies: Dementia 13 / B'twixt Now and Sunrise
+
+* New screenings: 
+    * [Dementia 13 B Twixt Now And Sunrise](https://drafthouse.com/los-angeles/show/dementia-13-b-twixt-now-and-sunrise): Sat 10/1 (12:00pm)
+
+    * [Tucker The Man And His Dream](https://drafthouse.com/los-angeles/show/tucker-the-man-and-his-dream): Sat 10/1 (4:00pm)
+
 ### Fri 9/2 2:17pm
 
 * New screenings: 
