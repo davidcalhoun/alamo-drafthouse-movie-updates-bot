@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Tue 9/6 10:27am
+* New movies: Pearl, Pearl, X / Pearl Double Feature
+
+* New screenings: 
+    * [Advance Screening Pearl W Livestream Q A](https://drafthouse.com/raleigh/show/advance-screening-pearl-w-livestream-q-a): Tue 9/13 (8:00pm)
+
+    * [Pearl](https://drafthouse.com/raleigh/show/pearl): Thu 9/15 (7:00pm), Fri 9/16 (7:30pm, 10:15pm), Sat 9/17 (7:30pm), Sun 9/18 (7:30pm)
+
+    * [X Pearl Double Feature](https://drafthouse.com/raleigh/show/x-pearl-double-feature): Thu 9/15 (6:25pm)
+
 ### Fri 9/2 10:23am
 
 * New screenings: 
