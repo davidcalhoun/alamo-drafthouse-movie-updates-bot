@@ -1,6 +1,41 @@
 # los-angeles
 
 ## Movie updates
+### Tue 9/6 2:19pm
+
+* New screenings: 
+    * [Barbarian](https://drafthouse.com/los-angeles/show/barbarian): Fri 9/9 (11:30am, 1:40pm, 2:30pm, 5:30pm, 6:30pm, 9:20pm), Sat 9/10 (11:30am, 2:30pm, 5:30pm, 7:20pm, 8:30pm), Sun 9/11 (11:30am, 2:15pm, 5:15pm), Mon 9/12 (11:30am, 1:00pm, 2:20pm, 4:00pm, 5:10pm, 7:15pm), Tue 9/13 (11:20am, 12:40pm, 2:10pm, 4:00pm, 5:00pm, 7:00pm, 8:10pm), Wed 9/14 (12:15pm, 12:40pm, 3:35pm, 4:00pm, 7:00pm)
+
+    * [Bodies Bodies Bodies](https://drafthouse.com/los-angeles/show/bodies-bodies-bodies): Fri 9/9 (12:20pm, 3:15pm, 7:00pm, 9:45pm), Sat 9/10 (12:15pm, 3:00pm, 7:00pm, 9:40pm), Sun 9/11 (12:15pm, 3:00pm, 7:10pm), Mon 9/12 (12:25pm, 3:15pm, 7:00pm), Tue 9/13 (12:30pm, 3:15pm, 7:15pm), Wed 9/14 (12:20pm, 3:10pm, 7:15pm)
+
+    * [Brahmastra Part One Shiva](https://drafthouse.com/los-angeles/show/brahmastra-part-one-shiva): Fri 9/9 (11:15am, 3:10pm), Sat 9/10 (11:15am, 3:10pm), Sun 9/11 (11:15am, 3:15pm), Mon 9/12 (11:20am, 3:10pm, 6:00pm), Tue 9/13 (11:20am, 3:10pm, 6:00pm), Wed 9/14 (12:00pm, 3:10pm, 6:00pm)
+
+    * [Bullet Train](https://drafthouse.com/los-angeles/show/bullet-train): Fri 9/9 (11:45am, 3:00pm, 6:15pm, 9:30pm), Sat 9/10 (11:45am, 3:10pm, 6:45pm, 10:30pm), Sun 9/11 (1:30pm, 4:15pm, 7:30pm), Mon 9/12 (11:45am, 3:00pm, 6:15pm), Tue 9/13 (11:45am, 3:00pm, 6:15pm), Wed 9/14 (11:45am, 3:00pm, 6:30pm)
+
+    * [Catvideofest 2022](https://drafthouse.com/los-angeles/show/catvideofest-2022): Fri 9/9 (11:35am), Sat 9/10 (11:30am, 2:00pm)
+
+    * [Creature From The Black Lagoon 3d](https://drafthouse.com/los-angeles/show/creature-from-the-black-lagoon-3d): Sun 9/11 (8:00pm)
+
+    * [Funny Pages](https://drafthouse.com/los-angeles/show/funny-pages): Fri 9/9 (6:30pm, 10:15pm), Sat 9/10 (6:20pm, 10:00pm), Sun 9/11 (1:00pm, 6:30pm), Mon 9/12 (1:35pm, 6:30pm), Tue 9/13 (1:35pm, 6:30pm), Wed 9/14 (1:45pm, 3:45pm)
+
+    * [Honk For Jesus Save Your Soul](https://drafthouse.com/los-angeles/show/honk-for-jesus-save-your-soul): Fri 9/9 (4:30pm, 7:30pm), Sat 9/10 (4:30pm, 7:35pm), Sun 9/11 (4:30pm, 7:30pm), Mon 9/12 (4:15pm, 7:15pm), Tue 9/13 (4:15pm, 7:15pm), Wed 9/14 (4:30pm, 7:30pm)
+
+    * [Marcel The Shell With Shoes On](https://drafthouse.com/los-angeles/show/marcel-the-shell-with-shoes-on): Fri 9/9 (12:50pm, 3:45pm), Sat 9/10 (12:25pm, 4:40pm), Sun 9/11 (1:45pm, 3:45pm), Mon 9/12 (1:10pm, 3:45pm), Tue 9/13 (1:00pm, 3:45pm), Wed 9/14 (1:00pm)
+
+    * [Memoria](https://drafthouse.com/los-angeles/show/memoria): Mon 9/12 (11:50am, 3:15pm, 6:45pm), Tue 9/13 (11:45am, 3:15pm, 6:45pm), Wed 9/14 (11:45am, 3:15pm, 6:45pm)
+
+    * [My Neighbor Totoro Dubbed](https://drafthouse.com/los-angeles/show/my-neighbor-totoro-dubbed): Fri 9/9 (12:00pm)
+
+    * [Nope](https://drafthouse.com/los-angeles/show/nope): Fri 9/9 (1:30pm, 3:45pm, 7:15pm, 10:35pm), Sat 9/10 (1:30pm, 3:45pm, 6:30pm, 10:30pm), Sun 9/11 (12:45pm, 3:45pm, 7:20pm), Mon 9/12 (1:30pm, 4:15pm, 7:30pm), Tue 9/13 (1:35pm, 4:15pm, 7:30pm), Wed 9/14 (1:15pm, 4:45pm, 7:30pm)
+
+    * [The Dark Knight](https://drafthouse.com/los-angeles/show/the-dark-knight): Sat 9/10 (10:10pm)
+
+    * [The Godfather Part Ii](https://drafthouse.com/los-angeles/show/the-godfather-part-ii): Fri 9/9 (2:00pm, 9:00pm), Mon 9/12 (2:45pm), Wed 9/14 (2:35pm)
+
+    * [The Mummy 1999](https://drafthouse.com/los-angeles/show/the-mummy-1999): Sat 9/10 (7:15pm), Mon 9/12 (11:35am), Wed 9/14 (11:30am)
+
+    * [Three Thousand Years Of Longing](https://drafthouse.com/los-angeles/show/three-thousand-years-of-longing): Fri 9/9 (12:40pm, 4:45pm, 7:45pm, 10:40pm), Sat 9/10 (12:40pm, 4:50pm, 7:45pm, 10:40pm), Sun 9/11 (12:45pm, 4:45pm, 7:45pm), Mon 9/12 (1:20pm, 4:45pm, 7:45pm), Tue 9/13 (1:10pm, 4:40pm, 7:50pm), Wed 9/14 (1:45pm, 4:30pm, 6:15pm)
+
 ### Tue 9/6 7:22am
 * New movies: Pearl, Pearl, X / Pearl Double Feature
 
