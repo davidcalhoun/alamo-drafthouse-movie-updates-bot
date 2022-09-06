@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 9/5 9:51pm
+
+* New screenings: 
+    * [Creature From The Black Lagoon 3d](https://drafthouse.com/los-angeles/show/creature-from-the-black-lagoon-3d): Fri 9/9 (8:30pm), Tue 9/13 (1:25pm)
+
 ### Fri 9/2 7:24pm
 * New movies: Dementia 13 / B'twixt Now and Sunrise
 
