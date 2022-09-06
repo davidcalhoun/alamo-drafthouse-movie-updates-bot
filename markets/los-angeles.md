@@ -1,6 +1,37 @@
 # los-angeles
 
 ## Movie updates
+### Tue 9/6 3:21pm
+
+* New screenings: 
+    * [Barbarian](https://drafthouse.com/los-angeles/show/barbarian): Thu 9/8 (7:30pm, 9:30pm)
+
+    * [Bodies Bodies Bodies](https://drafthouse.com/los-angeles/show/bodies-bodies-bodies): Thu 9/8 (3:50pm, 6:30pm, 9:15pm)
+
+    * [Breaking](https://drafthouse.com/los-angeles/show/breaking): Thu 9/8 (4:00pm)
+
+    * [Bullet Train](https://drafthouse.com/los-angeles/show/bullet-train): Thu 9/8 (3:00pm, 6:15pm, 9:30pm)
+
+    * [Dragon Ball Super Super Hero Dubbed](https://drafthouse.com/los-angeles/show/dragon-ball-super-super-hero-dubbed): Thu 9/8 (2:30pm)
+
+    * [Funny Pages](https://drafthouse.com/los-angeles/show/funny-pages): Thu 9/8 (3:30pm, 6:00pm, 8:45pm)
+
+    * [Honk For Jesus Save Your Soul](https://drafthouse.com/los-angeles/show/honk-for-jesus-save-your-soul): Thu 9/8 (3:30pm, 6:30pm)
+
+    * [Marcel The Shell With Shoes On](https://drafthouse.com/los-angeles/show/marcel-the-shell-with-shoes-on): Thu 9/8 (7:45pm, 10:20pm)
+
+    * [Nope](https://drafthouse.com/los-angeles/show/nope): Thu 9/8 (4:10pm, 6:45pm, 10:25pm)
+
+    * [Saloum](https://drafthouse.com/los-angeles/show/saloum): Thu 9/8 (2:30pm, 5:15pm, 9:30pm)
+
+    * [Spider Man No Way Home Rerelease](https://drafthouse.com/los-angeles/show/spider-man-no-way-home-rerelease): Thu 9/8 (3:15pm)
+
+    * [The Dark Knight](https://drafthouse.com/los-angeles/show/the-dark-knight): Thu 9/8 (10:00pm)
+
+    * [The Mummy 1999](https://drafthouse.com/los-angeles/show/the-mummy-1999): Thu 9/8 (6:15pm)
+
+    * [Three Thousand Years Of Longing](https://drafthouse.com/los-angeles/show/three-thousand-years-of-longing): Thu 9/8 (4:20pm, 7:15pm, 10:10pm)
+
 ### Tue 9/6 2:19pm
 
 * New screenings: 
