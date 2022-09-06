@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Tue 9/6 7:22am
+* New movies: Pearl, Pearl, X / Pearl Double Feature
+
+* New screenings: 
+    * [Advance Screening Pearl W Livestream Q A](https://drafthouse.com/los-angeles/show/advance-screening-pearl-w-livestream-q-a): Tue 9/13 (5:00pm)
+
+    * [Pearl](https://drafthouse.com/los-angeles/show/pearl): Thu 9/15 (7:00pm, 10:00pm), Fri 9/16 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sat 9/17 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sun 9/18 (1:00pm, 4:00pm, 7:00pm)
+
+    * [X Pearl Double Feature](https://drafthouse.com/los-angeles/show/x-pearl-double-feature): Thu 9/15 (5:30pm)
+
 ### Mon 9/5 9:51pm
 
 * New screenings: 
