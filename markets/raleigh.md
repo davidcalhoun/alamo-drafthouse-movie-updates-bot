@@ -1,6 +1,19 @@
 # raleigh
 
 ## Movie updates
+### Wed 9/7 9:58am
+
+* New screenings: 
+    * [Beast](https://drafthouse.com/raleigh/show/beast): Tue 9/13 (9:45pm)
+
+    * [Brahmastra Part One Shiva](https://drafthouse.com/raleigh/show/brahmastra-part-one-shiva): Tue 9/13 (1:30pm)
+
+    * [Creature From The Black Lagoon 3d](https://drafthouse.com/raleigh/show/creature-from-the-black-lagoon-3d): Sun 9/11 (1:15pm), Tue 9/13 (1:55pm)
+
+    * [Princess Mononoke Subtitled](https://drafthouse.com/raleigh/show/princess-mononoke-subtitled): Sun 9/11 (2:15pm)
+
+    * [Spider Man No Way Home Rerelease](https://drafthouse.com/raleigh/show/spider-man-no-way-home-rerelease): Tue 9/13 (6:00pm)
+
 ### Wed 9/7 8:56am
 * New movies: Don't Worry Darling
 
