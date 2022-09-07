@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 9/7 8:56am
+* New movies: Don't Worry Darling
+
+* New screenings: 
+    * [Advance Screening Dont Worry Darling](https://drafthouse.com/raleigh/show/advance-screening-dont-worry-darling): Mon 9/12 (7:00pm)
+
 ### Tue 9/6 10:49pm
 * New movies: Monty Python and the Holy Grail
 
