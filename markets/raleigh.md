@@ -1,6 +1,54 @@
 # raleigh
 
 ## Movie updates
+### Tue 9/6 10:49pm
+* New movies: Monty Python and the Holy Grail
+
+* New screenings: 
+    * [Barbarian](https://drafthouse.com/raleigh/show/barbarian): Thu 9/8 (8:00pm, 10:50pm), Fri 9/9 (12:50pm, 3:40pm, 6:30pm, 9:20pm), Sat 9/10 (12:50pm, 3:40pm, 4:40pm, 6:30pm, 9:20pm), Sun 9/11 (12:20pm, 3:10pm, 8:15pm), Mon 9/12 (12:20pm, 5:10pm, 8:00pm, 10:10pm, 10:45pm), Tue 9/13 (1:30pm, 4:30pm, 8:30pm, 9:15pm), Wed 9/14 (12:50pm, 3:40pm, 6:30pm, 8:00pm, 9:20pm, 10:50pm)
+
+    * [Beast](https://drafthouse.com/raleigh/show/beast): Thu 9/8 (8:30pm), Fri 9/9 (10:45pm), Sat 9/10 (8:30pm), Sun 9/11 (8:30pm), Mon 9/12 (8:30pm), Wed 9/14 (8:30pm)
+
+    * [Bodies Bodies Bodies](https://drafthouse.com/raleigh/show/bodies-bodies-bodies): Thu 9/8 (1:15pm, 4:00pm, 6:45pm, 9:30pm), Fri 9/9 (1:20pm, 4:20pm, 8:00pm, 10:55pm), Sat 9/10 (1:05pm, 4:00pm, 8:00pm, 10:40pm), Sun 9/11 (12:15pm, 3:50pm, 6:30pm), Mon 9/12 (1:10pm, 5:00pm, 7:45pm, 10:25pm), Tue 9/13 (11:50am, 2:30pm, 6:30pm, 9:10pm), Wed 9/14 (1:15pm, 5:00pm, 8:15pm, 10:55pm)
+
+    * [Brahmastra Part One Shiva](https://drafthouse.com/raleigh/show/brahmastra-part-one-shiva): Thu 9/8 (6:00pm), Fri 9/9 (1:15pm, 5:10pm, 9:50pm), Sat 9/10 (12:45pm, 5:00pm, 9:00pm), Sun 9/11 (11:50am, 3:40pm), Mon 9/12 (1:20pm, 3:10pm, 6:15pm, 9:00pm), Tue 9/13 (12:40pm, 1:40pm, 6:00pm, 9:50pm), Wed 9/14 (11:00am, 3:00pm, 6:00pm, 9:55pm)
+
+    * [Breaking](https://drafthouse.com/raleigh/show/breaking): Thu 9/8 (1:40pm, 4:25pm), Fri 9/9 (5:40pm), Sat 9/10 (3:20pm), Sun 9/11 (5:15pm), Mon 9/12 (3:15pm), Tue 9/13 (12:40pm), Wed 9/14 (5:25pm)
+
+    * [Bullet Train](https://drafthouse.com/raleigh/show/bullet-train): Thu 9/8 (1:00pm, 4:15pm, 6:30pm, 9:40pm), Fri 9/9 (1:00pm, 4:15pm, 7:45pm, 10:40pm), Sat 9/10 (1:20pm, 4:30pm, 7:15pm, 10:30pm), Sun 9/11 (4:00pm, 8:00pm), Mon 9/12 (12:40pm, 3:50pm, 7:15pm, 10:35pm), Tue 9/13 (1:00pm, 4:30pm, 7:45pm, 10:55pm), Wed 9/14 (1:30pm, 4:50pm, 7:30pm, 10:40pm)
+
+    * [Dc League Of Super Pets](https://drafthouse.com/raleigh/show/dc-league-of-super-pets): Thu 9/8 (12:15pm)
+
+    * [Dragon Ball Super Super Hero Dubbed](https://drafthouse.com/raleigh/show/dragon-ball-super-super-hero-dubbed): Thu 9/8 (3:30pm)
+
+    * [Honk For Jesus Save Your Soul](https://drafthouse.com/raleigh/show/honk-for-jesus-save-your-soul): Thu 9/8 (11:45am, 2:30pm), Fri 9/9 (2:55pm), Sat 9/10 (2:00pm), Sun 9/11 (5:30pm), Mon 9/12 (12:30pm), Tue 9/13 (11:55am), Wed 9/14 (12:00pm)
+
+    * [Jaws 1975](https://drafthouse.com/raleigh/show/jaws-1975): Thu 9/8 (1:45pm), Fri 9/9 (2:50pm), Sat 9/10 (12:15pm), Sun 9/11 (3:45pm), Mon 9/12 (10:30pm), Tue 9/13 (4:20pm), Wed 9/14 (9:50pm)
+
+    * [Memoria](https://drafthouse.com/raleigh/show/memoria): Thu 9/8 (10:20pm), Fri 9/9 (12:00pm, 3:25pm, 10:05pm), Sat 9/10 (12:40pm, 4:40pm, 10:05pm), Sun 9/11 (12:00pm, 3:25pm), Mon 9/12 (12:50pm, 4:10pm, 7:30pm, 10:50pm), Tue 9/13 (12:00pm, 3:25pm, 6:45pm, 10:05pm), Wed 9/14 (11:30am, 2:55pm, 6:45pm, 10:10pm)
+
+    * [Monty Python And The Holy Grail](https://drafthouse.com/raleigh/show/monty-python-and-the-holy-grail): Fri 9/9 (12:15pm), Mon 9/12 (11:40am), Wed 9/14 (11:50am)
+
+    * [Nope](https://drafthouse.com/raleigh/show/nope): Thu 9/8 (1:30pm, 4:45pm, 7:15pm, 10:35pm), Fri 9/9 (1:30pm, 4:45pm, 6:15pm, 9:30pm), Sat 9/10 (1:00pm, 3:45pm, 7:00pm, 10:25pm), Sun 9/11 (12:45pm, 4:30pm, 7:45pm), Mon 9/12 (1:30pm, 2:45pm, 6:45pm, 10:05pm), Tue 9/13 (11:30am, 2:45pm, 6:15pm, 9:30pm), Wed 9/14 (12:15pm, 4:00pm, 7:15pm, 10:30pm)
+
+    * [Princess Mononoke Dubbed](https://drafthouse.com/raleigh/show/princess-mononoke-dubbed): Thu 9/8 (4:30pm)
+
+    * [Princess Mononoke Subtitled](https://drafthouse.com/raleigh/show/princess-mononoke-subtitled): Fri 9/9 (8:30pm), Sun 9/11 (12:30pm), Mon 9/12 (12:45pm), Wed 9/14 (2:45pm)
+
+    * [Spider Man No Way Home Rerelease](https://drafthouse.com/raleigh/show/spider-man-no-way-home-rerelease): Thu 9/8 (11:00am, 2:45pm, 6:15pm, 9:50pm), Fri 9/9 (12:30pm, 4:00pm, 7:00pm, 9:00pm), Sat 9/10 (1:15pm, 4:45pm, 6:15pm, 10:00pm), Sun 9/11 (1:00pm, 4:45pm), Mon 9/12 (1:00pm, 4:45pm, 6:30pm, 10:15pm), Tue 9/13 (12:45pm, 2:40pm, 5:15pm, 9:00pm), Wed 9/14 (1:00pm, 4:45pm, 6:15pm, 10:00pm)
+
+    * [Steel Magnolias](https://drafthouse.com/raleigh/show/steel-magnolias): Thu 9/8 (3:00pm)
+
+    * [The Conversation](https://drafthouse.com/raleigh/show/the-conversation): Fri 9/9 (11:55am), Wed 9/14 (2:25pm)
+
+    * [The Dark Knight](https://drafthouse.com/raleigh/show/the-dark-knight): Thu 9/8 (12:50pm)
+
+    * [The Godfather Part Ii](https://drafthouse.com/raleigh/show/the-godfather-part-ii): Sun 9/11 (1:10pm), Mon 9/12 (2:10pm), Wed 9/14 (12:40pm)
+
+    * [Three Thousand Years Of Longing](https://drafthouse.com/raleigh/show/three-thousand-years-of-longing): Thu 9/8 (12:30pm, 3:55pm, 7:45pm, 10:40pm), Fri 9/9 (12:20pm, 3:15pm, 7:15pm, 10:10pm), Sat 9/10 (12:25pm, 4:15pm, 7:45pm, 10:45pm), Sun 9/11 (1:30pm, 7:15pm), Mon 9/12 (11:50am, 3:50pm, 6:00pm, 10:00pm), Tue 9/13 (12:20pm, 3:15pm, 7:15pm, 10:10pm), Wed 9/14 (12:55pm, 3:50pm, 7:45pm, 10:40pm)
+
+    * [Top Gun Maverick](https://drafthouse.com/raleigh/show/top-gun-maverick): Thu 9/8 (5:15pm)
+
 ### Tue 9/6 10:27am
 * New movies: Pearl, Pearl, X / Pearl Double Feature
 
