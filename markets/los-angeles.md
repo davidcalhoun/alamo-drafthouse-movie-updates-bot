@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 9/7 12:42am
+* New movies: Deathstalker II: Duel of the Titans
+
+* New screenings: 
+    * [Deathstalker Ii Duel Of The Titans](https://drafthouse.com/los-angeles/show/deathstalker-ii-duel-of-the-titans): Tue 9/13 (7:40pm), Wed 9/14 (8:00pm)
+
 ### Tue 9/6 3:21pm
 
 * New screenings: 
