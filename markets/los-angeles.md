@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 9/7 5:44am
+* New movies: Don't Worry Darling
+
+* New screenings: 
+    * [Advance Screening Dont Worry Darling](https://drafthouse.com/los-angeles/show/advance-screening-dont-worry-darling): Mon 9/12 (7:00pm)
+
 ### Wed 9/7 12:42am
 * New movies: Deathstalker II: Duel of the Titans
 
