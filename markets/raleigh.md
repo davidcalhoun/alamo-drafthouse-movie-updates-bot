@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Thu 9/8 10:25am
+
+* New screenings: 
+    * [Nope](https://drafthouse.com/raleigh/show/nope): Tue 9/13 (11:00am, 2:15pm)
+
+    * [Pearl](https://drafthouse.com/raleigh/show/pearl): Sat 9/17 (10:15pm), Mon 9/19 (8:00pm, 10:45pm)
+
 ### Wed 9/7 11:30am
 
 * New screenings: 
