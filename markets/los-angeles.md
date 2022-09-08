@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Thu 9/8 3:22pm
+* New movies: Castle in the Sky Dubbed, Samurai Cop
+
+* New screenings: 
+    * [Castle In The Sky Dubbed](https://drafthouse.com/los-angeles/show/castle-in-the-sky-dubbed): Fri 9/23 (2:45pm)
+
+    * [Rumble Fish](https://drafthouse.com/los-angeles/show/rumble-fish): Tue 9/27 (5:15pm)
+
+    * [Samurai Cop](https://drafthouse.com/los-angeles/show/samurai-cop): Wed 9/21 (6:30pm)
+
+    * [The Godfather Part Ii](https://drafthouse.com/los-angeles/show/the-godfather-part-ii): Sat 9/10 (1:15pm)
+
 ### Wed 9/7 5:44am
 * New movies: Don't Worry Darling
 
