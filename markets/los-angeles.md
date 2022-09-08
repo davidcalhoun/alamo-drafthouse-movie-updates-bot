@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 9/8 4:24pm
+
+* New screenings: 
+    * [Barbarian](https://drafthouse.com/los-angeles/show/barbarian): Sun 9/11 (7:30pm)
+
 ### Thu 9/8 3:22pm
 * New movies: Castle in the Sky Dubbed, Samurai Cop
 
