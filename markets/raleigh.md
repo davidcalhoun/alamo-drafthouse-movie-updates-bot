@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 9/9 1:31pm
+
+* New screenings: 
+    * [Catvideofest 2022](https://drafthouse.com/raleigh/show/catvideofest-2022): Sat 9/10 (11:45am)
+
 ### Fri 9/9 9:54am
 * New movies: The Woman King, Mobile Suit Gundam Cucuruz Doan's Island Subtitled, Mobile Suit Gundam Cururuz Doan's Island Dubbed
 
