@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Fri 9/9 9:54am
+* New movies: The Woman King, Mobile Suit Gundam Cucuruz Doan's Island Subtitled, Mobile Suit Gundam Cururuz Doan's Island Dubbed
+
+* New screenings: 
+    * [Mobile Suit Gundam Cucuruz Doans Island Subtitled](https://drafthouse.com/raleigh/show/mobile-suit-gundam-cucuruz-doans-island-subtitled): Tue 9/27 (7:00pm)
+
+    * [Mobile Suit Gundam Cururuz Doans Island Dubbed](https://drafthouse.com/raleigh/show/mobile-suit-gundam-cururuz-doans-island-dubbed): Wed 9/28 (7:00pm)
+
+    * [The Woman King](https://drafthouse.com/raleigh/show/the-woman-king): Thu 9/15 (3:00pm, 6:15pm, 9:30pm), Fri 9/16 (12:40pm, 4:00pm, 6:30pm, 10:00pm), Sat 9/17 (12:40pm, 4:00pm, 6:00pm, 9:20pm), Sun 9/18 (12:40pm, 4:00pm, 6:30pm), Mon 9/19 (12:40pm, 4:00pm, 6:30pm, 9:50pm), Tue 9/20 (1:15pm, 4:40pm, 7:00pm, 10:20pm)
+
 ### Thu 9/8 10:48pm
 
 * New screenings: 
