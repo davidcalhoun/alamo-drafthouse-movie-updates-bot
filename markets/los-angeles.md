@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 9/9 6:50am
+* New movies: The Woman King
+
+* New screenings: 
+    * [The Woman King](https://drafthouse.com/los-angeles/show/the-woman-king): Thu 9/15 (3:15pm, 6:45pm, 10:15pm), Fri 9/16 (11:45am, 3:15pm, 6:45pm, 10:15pm), Sat 9/17 (11:45am, 3:15pm, 6:45pm, 10:15pm), Sun 9/18 (11:45am, 3:15pm, 6:45pm)
+
 ### Thu 9/8 4:24pm
 
 * New screenings: 
