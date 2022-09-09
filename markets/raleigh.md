@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Thu 9/8 10:48pm
+
+* New screenings: 
+    * [Catvideofest 2022](https://drafthouse.com/raleigh/show/catvideofest-2022): Sun 9/11 (11:50am)
+
 ### Thu 9/8 12:41pm
 
 * New screenings: 
