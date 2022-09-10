@@ -1,6 +1,15 @@
 # raleigh
 
 ## Movie updates
+### Sat 9/10 2:33pm
+
+* New screenings: 
+    * [Bullet Train](https://drafthouse.com/raleigh/show/bullet-train): Sun 9/11 (12:10pm)
+
+    * [Spider Man No Way Home Rerelease](https://drafthouse.com/raleigh/show/spider-man-no-way-home-rerelease): Sun 9/11 (6:15pm)
+
+    * [Three Thousand Years Of Longing](https://drafthouse.com/raleigh/show/three-thousand-years-of-longing): Sun 9/11 (3:20pm)
+
 ### Sat 9/10 12:36pm
 
 * New screenings: 
