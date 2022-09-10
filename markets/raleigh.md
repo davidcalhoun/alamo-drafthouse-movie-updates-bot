@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Sat 9/10 12:36pm
+
+* New screenings: 
+    * [Pearl](https://drafthouse.com/raleigh/show/pearl): Fri 9/16 (3:45pm)
+
 ### Fri 9/9 1:31pm
 
 * New screenings: 
