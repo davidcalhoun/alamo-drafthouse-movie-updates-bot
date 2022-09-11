@@ -1,6 +1,28 @@
 # raleigh
 
 ## Movie updates
+### Sun 9/11 12:36pm
+* New movies: The Cotton Club Encore, Dementia 13 / B'twixt Now and Sunrise, Tucker: The Man and His Dream, Mean Girls
+
+* New screenings: 
+    * [Castle In The Sky Dubbed](https://drafthouse.com/raleigh/show/castle-in-the-sky-dubbed): Thu 9/29 (3:00pm)
+
+    * [Dementia 13 B Twixt Now And Sunrise](https://drafthouse.com/raleigh/show/dementia-13-b-twixt-now-and-sunrise): Sat 10/1 (11:00am)
+
+    * [Graveyard Shift Pet Sematary](https://drafthouse.com/raleigh/show/graveyard-shift-pet-sematary): Fri 9/16 (8:45pm)
+
+    * [Mean Girls Movie Party](https://drafthouse.com/raleigh/show/mean-girls-movie-party): Sun 10/2 (7:30pm)
+
+    * [Peggy Sue Got Married](https://drafthouse.com/raleigh/show/peggy-sue-got-married): Sun 9/18 (12:00pm)
+
+    * [Raiders Of The Lost Ark](https://drafthouse.com/raleigh/show/raiders-of-the-lost-ark): Fri 9/16 (5:45pm), Mon 9/19 (10:00pm), Wed 9/21 (5:45pm), Thu 9/22 (3:00pm)
+
+    * [Rumble Fish](https://drafthouse.com/raleigh/show/rumble-fish): Wed 9/28 (4:15pm)
+
+    * [The Cotton Club Encore](https://drafthouse.com/raleigh/show/the-cotton-club-encore): Tue 9/20 (3:00pm)
+
+    * [Tucker The Man And His Dream](https://drafthouse.com/raleigh/show/tucker-the-man-and-his-dream): Fri 9/30 (4:00pm)
+
 ### Sat 9/10 2:33pm
 
 * New screenings: 
