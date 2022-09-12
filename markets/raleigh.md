@@ -1,6 +1,52 @@
 # raleigh
 
 ## Movie updates
+### Mon 9/12 4:29pm
+* New movies: See How They Run, The Silent Twins
+
+* New screenings: 
+    * [Barbarian](https://drafthouse.com/raleigh/show/barbarian): Thu 9/15 (1:00pm, 4:00pm, 8:00pm, 10:50pm)
+
+    * [Beast](https://drafthouse.com/raleigh/show/beast): Thu 9/15 (5:50pm)
+
+    * [Bodies Bodies Bodies](https://drafthouse.com/raleigh/show/bodies-bodies-bodies): Thu 9/15 (5:30pm)
+
+    * [Brahmastra Part One Shiva](https://drafthouse.com/raleigh/show/brahmastra-part-one-shiva): Thu 9/15 (3:40pm)
+
+    * [Breaking](https://drafthouse.com/raleigh/show/breaking): Thu 9/15 (11:15am)
+
+    * [Bullet Train](https://drafthouse.com/raleigh/show/bullet-train): Thu 9/15 (12:45pm, 3:55pm, 7:30pm, 10:00pm)
+
+    * [Honk For Jesus Save Your Soul](https://drafthouse.com/raleigh/show/honk-for-jesus-save-your-soul): Thu 9/15 (2:15pm)
+
+    * [Jaws 1975](https://drafthouse.com/raleigh/show/jaws-1975): Thu 9/15 (1:30pm)
+
+    * [Memoria](https://drafthouse.com/raleigh/show/memoria): Thu 9/15 (12:25pm)
+
+    * [Monty Python And The Holy Grail](https://drafthouse.com/raleigh/show/monty-python-and-the-holy-grail): Thu 9/15 (11:40am)
+
+    * [Nope](https://drafthouse.com/raleigh/show/nope): Thu 9/15 (11:30am, 2:45pm, 6:00pm, 9:15pm)
+
+    * [Pearl](https://drafthouse.com/raleigh/show/pearl): Thu 9/15 (8:15pm, 10:40pm, 11:00pm)
+
+    * [Princess Mononoke Subtitled](https://drafthouse.com/raleigh/show/princess-mononoke-subtitled): Thu 9/15 (11:45am)
+
+    * [See How They Run](https://drafthouse.com/raleigh/show/see-how-they-run): Thu 9/15 (5:00pm, 7:45pm, 10:30pm)
+
+    * [Spider Man No Way Home Rerelease](https://drafthouse.com/raleigh/show/spider-man-no-way-home-rerelease): Thu 9/15 (11:55am)
+
+    * [The Conversation](https://drafthouse.com/raleigh/show/the-conversation): Thu 9/15 (12:30pm)
+
+    * [The Dark Knight Rises](https://drafthouse.com/raleigh/show/the-dark-knight-rises): Thu 9/15 (2:00pm)
+
+    * [The Godfather Part Ii](https://drafthouse.com/raleigh/show/the-godfather-part-ii): Thu 9/15 (12:55pm)
+
+    * [The Silent Twins](https://drafthouse.com/raleigh/show/the-silent-twins): Thu 9/15 (7:15pm, 10:15pm)
+
+    * [The Woman King](https://drafthouse.com/raleigh/show/the-woman-king): Thu 9/15 (4:45pm, 6:45pm, 8:30pm)
+
+    * [Three Thousand Years Of Longing](https://drafthouse.com/raleigh/show/three-thousand-years-of-longing): Thu 9/15 (3:45pm)
+
 ### Sun 9/11 12:36pm
 * New movies: The Cotton Club Encore, Dementia 13 / B'twixt Now and Sunrise, Tucker: The Man and His Dream, Mean Girls
 
