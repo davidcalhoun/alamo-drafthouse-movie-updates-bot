@@ -1,6 +1,31 @@
 # raleigh
 
 ## Movie updates
+### Mon 9/12 7:29pm
+
+* New screenings: 
+    * [Barbarian](https://drafthouse.com/raleigh/show/barbarian): Fri 9/16 (1:30pm, 4:15pm, 7:00pm, 10:45pm), Sat 9/17 (11:40am, 3:40pm, 7:30pm, 10:20pm), Sun 9/18 (1:30pm, 4:15pm, 7:00pm), Mon 9/19 (1:30pm, 4:15pm, 7:45pm, 10:30pm), Tue 9/20 (1:00pm, 3:45pm, 7:45pm, 10:40pm), Wed 9/21 (11:45am, 4:30pm, 8:00pm, 10:50pm)
+
+    * [Bodies Bodies Bodies](https://drafthouse.com/raleigh/show/bodies-bodies-bodies): Fri 9/16 (5:00pm), Sat 9/17 (2:30pm), Sun 9/18 (5:15pm), Mon 9/19 (1:50pm), Tue 9/20 (9:15pm), Wed 9/21 (8:45pm)
+
+    * [Brahmastra Part One Shiva](https://drafthouse.com/raleigh/show/brahmastra-part-one-shiva): Fri 9/16 (1:20pm), Sat 9/17 (4:30pm), Sun 9/18 (12:55pm), Mon 9/19 (1:00pm), Tue 9/20 (4:40pm), Wed 9/21 (4:00pm)
+
+    * [Bullet Train](https://drafthouse.com/raleigh/show/bullet-train): Fri 9/16 (11:40am, 3:30pm, 6:45pm, 9:55pm), Sat 9/17 (11:50am, 3:50pm, 7:00pm, 10:10pm), Sun 9/18 (11:30am, 2:40pm, 6:30pm), Mon 9/19 (11:50am, 3:00pm, 6:45pm, 9:55pm), Tue 9/20 (1:30pm, 4:00pm, 6:45pm, 9:55pm), Wed 9/21 (12:10pm, 3:20pm, 6:30pm, 9:40pm)
+
+    * [Memoria](https://drafthouse.com/raleigh/show/memoria): Fri 9/16 (1:40pm), Sat 9/17 (12:20pm), Sun 9/18 (1:55pm), Mon 9/19 (4:20pm), Tue 9/20 (1:20pm), Wed 9/21 (1:10pm)
+
+    * [Nope](https://drafthouse.com/raleigh/show/nope): Fri 9/16 (11:30am, 2:45pm, 6:15pm, 9:30pm), Sat 9/17 (12:30pm, 2:55pm, 6:15pm, 9:30pm), Sun 9/18 (11:55am, 3:15pm, 6:00pm), Mon 9/19 (11:00am, 2:15pm, 6:15pm, 9:15pm), Tue 9/20 (12:25pm, 3:00pm, 6:15pm, 9:30pm), Wed 9/21 (11:25am, 2:40pm, 6:00pm, 9:15pm)
+
+    * [Pearl](https://drafthouse.com/raleigh/show/pearl): Fri 9/16 (11:15am, 5:15pm, 8:00pm, 9:50pm), Sat 9/17 (2:15pm, 5:00pm, 7:45pm, 10:30pm), Sun 9/18 (12:15pm, 2:50pm, 5:45pm, 8:30pm), Mon 9/19 (11:15am, 11:45am, 2:00pm, 2:30pm, 4:45pm, 5:15pm, 8:00pm, 10:45pm), Tue 9/20 (11:15am, 11:45am, 2:30pm, 5:15pm, 8:00pm, 8:30pm, 9:30pm, 10:45pm), Wed 9/21 (11:30am, 12:15pm, 2:15pm, 2:30pm, 5:00pm, 7:15pm, 7:45pm, 10:00pm, 10:30pm)
+
+    * [See How They Run](https://drafthouse.com/raleigh/show/see-how-they-run): Fri 9/16 (12:45pm, 4:30pm, 7:45pm, 10:25pm), Sat 9/17 (1:30pm, 5:15pm, 8:00pm, 10:45pm), Sun 9/18 (1:10pm, 4:45pm, 8:00pm), Mon 9/19 (12:50pm, 4:30pm, 8:15pm, 10:55pm), Tue 9/20 (1:15pm, 5:00pm, 8:15pm, 10:55pm), Wed 9/21 (1:15pm, 4:45pm, 7:30pm, 10:15pm)
+
+    * [The Silent Twins](https://drafthouse.com/raleigh/show/the-silent-twins): Fri 9/16 (12:15pm, 3:15pm, 7:15pm, 10:15pm), Sat 9/17 (11:55am, 3:45pm, 6:45pm, 9:45pm), Sun 9/18 (12:45pm, 3:45pm, 7:30pm), Mon 9/19 (12:55pm, 3:50pm, 7:15pm, 10:20pm), Tue 9/20 (12:00pm, 3:40pm, 7:15pm, 10:15pm), Wed 9/21 (1:00pm, 3:55pm, 7:00pm, 9:55pm)
+
+    * [The Woman King](https://drafthouse.com/raleigh/show/the-woman-king): Fri 9/16 (1:15pm, 2:00pm, 5:30pm, 6:00pm, 9:00pm, 9:15pm), Sat 9/17 (11:25am, 2:45pm, 5:30pm, 8:30pm, 9:00pm), Sun 9/18 (1:40pm, 3:55pm, 6:45pm, 7:15pm), Mon 9/19 (12:00pm, 3:15pm, 5:00pm, 5:30pm, 6:00pm, 9:00pm, 9:30pm), Tue 9/20 (11:00am, 11:25am, 12:55pm, 2:40pm, 4:45pm, 5:30pm, 6:00pm, 9:00pm), Wed 9/21 (11:15am, 11:55am, 2:45pm, 3:15pm, 5:15pm, 6:15pm, 6:45pm, 8:30pm, 9:30pm, 10:10pm)
+
+    * [Three Thousand Years Of Longing](https://drafthouse.com/raleigh/show/three-thousand-years-of-longing): Fri 9/16 (2:50pm), Sat 9/17 (12:45pm), Sun 9/18 (11:00am), Mon 9/19 (1:25pm), Tue 9/20 (2:00pm), Wed 9/21 (1:50pm)
+
 ### Mon 9/12 4:29pm
 * New movies: See How They Run, The Silent Twins
 
