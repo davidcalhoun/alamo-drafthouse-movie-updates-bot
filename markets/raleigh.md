@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 9/13 2:34pm
+
+* New screenings: 
+    * [Dont Worry Darling](https://drafthouse.com/raleigh/show/dont-worry-darling): Mon 9/26 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Tue 9/27 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Wed 9/28 (12:45pm, 4:00pm, 7:15pm, 10:30pm)
+
 ### Tue 9/13 1:34pm
 * New movies: Avatar, Deep Astronomy and the Romantic Sciences, Dynasty 3D, Ghostbusters 1984
 
