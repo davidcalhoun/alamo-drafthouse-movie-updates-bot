@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 9/13 6:29pm
+* New movies: Top Gun: Maverick
+
+* New screenings: 
+    * [Top Gun Maverick](https://drafthouse.com/raleigh/show/top-gun-maverick): Tue 9/13 (11:40pm)
+
 ### Tue 9/13 5:25pm
 * New movies: The Reverend
 
