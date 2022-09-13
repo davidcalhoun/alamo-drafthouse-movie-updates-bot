@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 9/13 2:20pm
+* New movies: The Reverend
+
+* New screenings: 
+    * [Live Q A The Reverend](https://drafthouse.com/los-angeles/show/live-q-a-the-reverend): Sat 9/24 (7:30pm)
+
 ### Tue 9/13 8:24am
 * New movies: Don't Worry Darling, See How They Run, The Silent Twins
 
