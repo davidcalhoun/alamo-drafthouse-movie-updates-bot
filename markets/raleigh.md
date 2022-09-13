@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Tue 9/13 11:30am
+* New movies: Don't Worry Darling, Keane
+
+* New screenings: 
+    * [Dont Worry Darling](https://drafthouse.com/raleigh/show/dont-worry-darling): Thu 9/22 (4:00pm, 7:15pm, 10:30pm), Fri 9/23 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Sat 9/24 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Sun 9/25 (12:45pm, 4:00pm, 7:15pm)
+
+    * [Keane](https://drafthouse.com/raleigh/show/keane): Tue 9/20 (6:30pm)
+
 ### Mon 9/12 7:29pm
 
 * New screenings: 
