@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 9/13 5:25pm
+* New movies: The Reverend
+
+* New screenings: 
+    * [The Reverend](https://drafthouse.com/raleigh/show/the-reverend): Tue 9/27 (4:30pm)
+
 ### Tue 9/13 2:34pm
 
 * New screenings: 
