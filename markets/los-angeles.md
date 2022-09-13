@@ -1,6 +1,44 @@
 # los-angeles
 
 ## Movie updates
+### Tue 9/13 8:24am
+* New movies: Don't Worry Darling, See How They Run, The Silent Twins
+
+* New screenings: 
+    * [Barbarian](https://drafthouse.com/los-angeles/show/barbarian): Thu 9/15 (3:00pm, 4:15pm, 6:00pm, 9:00pm, 10:10pm), Fri 9/16 (12:00pm, 2:50pm, 4:15pm, 5:45pm, 7:15pm, 10:10pm), Sat 9/17 (12:00pm, 2:50pm, 4:15pm, 5:45pm, 7:15pm, 10:10pm), Sun 9/18 (11:30am, 2:20pm, 4:15pm, 5:15pm, 7:15pm), Mon 9/19 (11:30am, 2:20pm, 4:15pm, 7:15pm, 8:15pm), Tue 9/20 (11:30am, 2:20pm, 4:15pm, 7:15pm, 8:15pm), Wed 9/21 (11:30am, 2:20pm, 4:15pm, 5:15pm, 7:15pm)
+
+    * [Bodies Bodies Bodies](https://drafthouse.com/los-angeles/show/bodies-bodies-bodies): Thu 9/15 (4:30pm, 10:15pm), Fri 9/16 (5:00pm, 10:45pm), Sat 9/17 (5:00pm, 10:45pm), Sun 9/18 (5:00pm), Mon 9/19 (5:00pm), Tue 9/20 (5:00pm), Wed 9/21 (5:00pm)
+
+    * [Brahmastra Part One Shiva](https://drafthouse.com/los-angeles/show/brahmastra-part-one-shiva): Thu 9/15 (3:40pm), Fri 9/16 (12:20pm), Sat 9/17 (12:20pm), Sun 9/18 (12:15pm), Mon 9/19 (12:15pm), Tue 9/20 (12:15pm), Wed 9/21 (12:15pm)
+
+    * [Bullet Train](https://drafthouse.com/los-angeles/show/bullet-train): Thu 9/15 (3:20pm, 6:30pm, 9:45pm), Fri 9/16 (12:10pm, 3:20pm, 6:30pm, 9:45pm), Sat 9/17 (12:10pm, 3:20pm, 6:30pm, 9:45pm), Sun 9/18 (12:00pm, 3:20pm, 6:30pm), Mon 9/19 (12:00pm, 3:20pm, 6:30pm), Tue 9/20 (12:00pm, 3:20pm, 6:30pm), Wed 9/21 (12:00pm, 3:20pm, 6:30pm)
+
+    * [Dont Worry Darling](https://drafthouse.com/los-angeles/show/dont-worry-darling): Thu 9/22 (4:00pm, 7:15pm, 10:30pm), Fri 9/23 (11:15am, 12:30pm, 2:30pm, 3:45pm, 5:45pm, 7:00pm, 9:00pm, 10:15pm), Sat 9/24 (11:15am, 12:30pm, 2:30pm, 3:45pm, 5:45pm, 9:00pm, 9:50pm), Sun 9/25 (11:15am, 12:30pm, 2:30pm, 3:45pm, 5:45pm, 7:30pm)
+
+    * [Honk For Jesus Save Your Soul](https://drafthouse.com/los-angeles/show/honk-for-jesus-save-your-soul): Thu 9/15 (4:00pm)
+
+    * [La Mujer Murcielago The Batwoman](https://drafthouse.com/los-angeles/show/la-mujer-murcielago-the-batwoman): Wed 9/21 (1:00pm)
+
+    * [Marcel The Shell With Shoes On](https://drafthouse.com/los-angeles/show/marcel-the-shell-with-shoes-on): Thu 9/15 (2:40pm)
+
+    * [Mario Puzos The Godfather Coda The Death Of Michael Corleone](https://drafthouse.com/los-angeles/show/mario-puzos-the-godfather-coda-the-death-of-michael-corleone): Fri 9/16 (11:30am), Sun 9/18 (5:30pm)
+
+    * [Memoria](https://drafthouse.com/los-angeles/show/memoria): Thu 9/15 (3:10pm, 10:05pm), Fri 9/16 (2:40pm, 6:00pm), Sat 9/17 (11:40am, 3:00pm), Sun 9/18 (12:30pm, 6:45pm), Mon 9/19 (12:20pm, 3:45pm), Tue 9/20 (12:20pm, 3:40pm), Wed 9/21 (12:20pm, 3:45pm)
+
+    * [Nope](https://drafthouse.com/los-angeles/show/nope): Thu 9/15 (3:00pm, 6:15pm, 9:35pm), Fri 9/16 (11:35am, 3:00pm, 6:15pm, 9:35pm), Sat 9/17 (11:30am, 3:00pm, 6:15pm, 9:35pm), Sun 9/18 (11:45am, 3:00pm, 6:15pm), Mon 9/19 (11:45am, 3:00pm, 6:15pm), Tue 9/20 (11:45am, 3:00pm, 6:15pm), Wed 9/21 (11:45am, 3:00pm, 6:15pm)
+
+    * [Pearl](https://drafthouse.com/los-angeles/show/pearl): Thu 9/15 (7:15pm, 8:45pm, 10:30pm), Fri 9/16 (6:15pm, 8:00pm, 9:00pm, 9:30pm, 10:45pm), Sat 9/17 (6:20pm, 8:00pm, 9:10pm, 10:45pm), Sun 9/18 (7:45pm, 8:15pm), Mon 9/19 (12:30pm, 1:00pm, 4:00pm, 5:15pm, 7:00pm, 7:45pm), Tue 9/20 (1:00pm, 4:00pm, 5:15pm, 7:00pm, 7:45pm), Wed 9/21 (1:00pm, 4:00pm, 7:00pm, 7:45pm, 8:15pm)
+
+    * [See How They Run](https://drafthouse.com/los-angeles/show/see-how-they-run): Thu 9/15 (5:00pm, 7:45pm, 10:45pm), Fri 9/16 (1:45pm, 4:45pm, 7:45pm, 10:30pm), Sat 9/17 (1:45pm, 4:45pm, 7:45pm, 10:30pm), Sun 9/18 (1:45pm, 4:45pm, 7:30pm), Mon 9/19 (1:45pm, 4:45pm, 7:30pm), Tue 9/20 (1:45pm, 4:45pm, 7:30pm), Wed 9/21 (1:45pm, 4:45pm, 7:10pm)
+
+    * [The Silent Twins](https://drafthouse.com/los-angeles/show/the-silent-twins): Thu 9/15 (7:30pm, 10:30pm), Fri 9/16 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Sat 9/17 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Sun 9/18 (1:30pm, 4:30pm, 7:30pm), Mon 9/19 (1:30pm, 4:30pm, 7:30pm), Tue 9/20 (1:30pm, 4:30pm, 7:30pm), Wed 9/21 (1:30pm, 4:30pm, 7:30pm)
+
+    * [The Woman King](https://drafthouse.com/los-angeles/show/the-woman-king): Thu 9/15 (5:15pm), Fri 9/16 (1:00pm, 4:30pm, 8:45pm), Sat 9/17 (1:00pm, 4:30pm, 8:45pm), Sun 9/18 (12:45pm, 4:15pm), Mon 9/19 (11:45am, 12:45pm, 3:15pm, 4:15pm, 6:45pm, 7:15pm), Tue 9/20 (11:45am, 12:45pm, 3:15pm, 4:15pm, 6:45pm), Wed 9/21 (11:45am, 12:45pm, 3:15pm, 4:15pm, 6:45pm, 7:30pm)
+
+    * [Three Thousand Years Of Longing](https://drafthouse.com/los-angeles/show/three-thousand-years-of-longing): Thu 9/15 (2:30pm, 7:15pm), Fri 9/16 (2:00pm, 7:45pm), Sat 9/17 (2:00pm, 7:45pm), Sun 9/18 (2:00pm, 7:45pm), Mon 9/19 (2:00pm, 7:45pm), Tue 9/20 (2:00pm, 7:45pm), Wed 9/21 (2:00pm, 7:45pm)
+
+    * [World Of Animation Coraline 3d](https://drafthouse.com/los-angeles/show/world-of-animation-coraline-3d): Fri 9/16 (3:20pm)
+
 ### Fri 9/9 6:50am
 * New movies: The Woman King
 
