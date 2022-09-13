@@ -1,6 +1,18 @@
 # raleigh
 
 ## Movie updates
+### Tue 9/13 1:34pm
+* New movies: Avatar, Deep Astronomy and the Romantic Sciences, Dynasty 3D, Ghostbusters 1984
+
+* New screenings: 
+    * [Avatar Rerelease](https://drafthouse.com/raleigh/show/avatar-rerelease): Fri 9/23 (1:10pm, 5:00pm, 8:50pm), Sat 9/24 (1:10pm, 5:00pm, 8:50pm), Sun 9/25 (11:45am, 3:45pm, 7:45pm), Mon 9/26 (1:10pm, 5:00pm, 8:50pm), Tue 9/27 (1:10pm, 5:00pm, 8:50pm), Wed 9/28 (1:10pm, 5:00pm, 8:50pm)
+
+    * [Deep Astronomy And The Romantic Sciences](https://drafthouse.com/raleigh/show/deep-astronomy-and-the-romantic-sciences): Sat 10/8 (7:30pm)
+
+    * [Fist City Dynasty 3d](https://drafthouse.com/raleigh/show/fist-city-dynasty-3d): Sun 10/9 (6:00pm)
+
+    * [Movie Party Ghostbusters 1984](https://drafthouse.com/raleigh/show/movie-party-ghostbusters-1984): Tue 10/4 (7:30pm)
+
 ### Tue 9/13 11:30am
 * New movies: Don't Worry Darling, Keane
 
