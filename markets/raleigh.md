@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Wed 9/14 12:42pm
+
+* New screenings: 
+    * [Pearl](https://drafthouse.com/raleigh/show/pearl): Sat 9/17 (10:30pm)
+
 ### Wed 9/14 2:13am
 * New movies: Deep Astronomy and the Romantic Sciences
 
