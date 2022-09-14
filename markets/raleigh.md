@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Wed 9/14 2:13am
+* New movies: Deep Astronomy and the Romantic Sciences
+
+
+
 ### Tue 9/13 6:29pm
 * New movies: Top Gun: Maverick
 
