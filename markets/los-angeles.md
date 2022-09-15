@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 9/15 2:21pm
+
+* New screenings: 
+    * [Dont Worry Darling](https://drafthouse.com/los-angeles/show/dont-worry-darling): Thu 9/22 (4:20pm, 7:30pm)
+
 ### Tue 9/13 2:20pm
 * New movies: The Reverend
 
