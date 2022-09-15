@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Thu 9/15 3:23pm
+* New movies: Mean Girls
+
+* New screenings: 
+    * [Dont Worry Darling](https://drafthouse.com/los-angeles/show/dont-worry-darling): Thu 9/22 (10:45pm)
+
+    * [Mean Girls](https://drafthouse.com/los-angeles/show/mean-girls): Wed 10/5 (4:15pm)
+
+    * [Movie Party Ghostbusters 1984](https://drafthouse.com/los-angeles/show/movie-party-ghostbusters-1984): Tue 10/4 (7:00pm)
+
 ### Thu 9/15 2:21pm
 
 * New screenings: 
