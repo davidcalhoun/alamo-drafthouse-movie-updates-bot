@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 9/16 7:28pm
+* New movies: Masking Threshold
+
+* New screenings: 
+    * [Fantastic Fest Presents Masking Threshold](https://drafthouse.com/raleigh/show/fantastic-fest-presents-masking-threshold): Tue 9/27 (9:50pm)
+
 ### Fri 9/16 3:24pm
 * New movies: Bros
 
