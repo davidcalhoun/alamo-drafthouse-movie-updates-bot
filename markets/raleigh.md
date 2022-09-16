@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 9/16 3:24pm
+* New movies: Bros
+
+* New screenings: 
+    * [Bros](https://drafthouse.com/raleigh/show/bros): Thu 9/29 (7:15pm, 10:15pm), Fri 9/30 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sat 10/1 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sun 10/2 (1:00pm, 4:00pm, 7:00pm)
+
 ### Fri 9/16 2:34pm
 
 * New screenings: 
