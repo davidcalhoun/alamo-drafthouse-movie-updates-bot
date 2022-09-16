@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 9/16 9:56am
+
+* New screenings: 
+    * [World Of Animation Coraline 3d](https://drafthouse.com/raleigh/show/world-of-animation-coraline-3d): Sun 9/18 (12:15pm)
+
 ### Wed 9/14 12:42pm
 
 * New screenings: 
