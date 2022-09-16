@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 9/16 2:34pm
+
+* New screenings: 
+    * [Peggy Sue Got Married](https://drafthouse.com/raleigh/show/peggy-sue-got-married): Sun 9/18 (10:50am)
+
 ### Fri 9/16 9:56am
 
 * New screenings: 
