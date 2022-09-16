@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 9/16 12:19pm
+* New movies: Bros, Bros
+
+* New screenings: 
+    * [Bros](https://drafthouse.com/los-angeles/show/bros): Thu 9/29 (5:00pm, 8:00pm), Fri 9/30 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Sat 10/1 (3:45pm, 7:00pm, 10:15pm), Sun 10/2 (3:15pm, 6:30pm)
+
+    * [Brunch Screenings Bros Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-bros-brunch): Sat 10/1 (12:30pm), Sun 10/2 (12:15pm)
+
 ### Thu 9/15 3:23pm
 * New movies: Mean Girls
 
