@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 9/16 4:24pm
+* New movies: Masking Threshold
+
+* New screenings: 
+    * [Fantastic Fest Presents Masking Threshold](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-masking-threshold): Mon 9/26 (8:00pm)
+
 ### Fri 9/16 12:19pm
 * New movies: Bros, Bros
 
