@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Sat 9/17 12:37pm
+
+* New screenings: 
+    * [Nope](https://drafthouse.com/raleigh/show/nope): Sun 9/18 (11:30am)
+
+    * [The Woman King](https://drafthouse.com/raleigh/show/the-woman-king): Sat 9/17 (10:00pm)
+
 ### Fri 9/16 7:28pm
 * New movies: Masking Threshold
 
