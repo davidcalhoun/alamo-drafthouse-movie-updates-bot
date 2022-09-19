@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 9/19 1:42pm
+
+* New screenings: 
+    * [Fist City Dynasty 3d](https://drafthouse.com/raleigh/show/fist-city-dynasty-3d): Mon 9/26 (7:00pm)
+
 ### Sat 9/17 12:37pm
 
 * New screenings: 
