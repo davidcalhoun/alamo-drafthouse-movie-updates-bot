@@ -1,6 +1,44 @@
 # los-angeles
 
 ## Movie updates
+### Mon 9/19 3:22pm
+* New movies: Catherine Called Birdy, Monty Python and the Holy Grail
+
+* New screenings: 
+    * [Barbarian](https://drafthouse.com/los-angeles/show/barbarian): Thu 9/22 (4:45pm, 7:45pm, 10:35pm), Fri 9/23 (11:00am, 2:00pm, 4:50pm, 7:45pm, 10:35pm), Sat 9/24 (11:00am, 2:00pm, 4:50pm, 7:45pm, 10:35pm), Sun 9/25 (11:00am, 2:00pm, 4:50pm, 7:45pm), Mon 9/26 (11:10am, 2:00pm, 4:50pm, 7:45pm), Tue 9/27 (11:10am, 2:00pm, 4:50pm, 7:45pm), Wed 9/28 (11:10am, 2:00pm, 4:50pm, 7:45pm)
+
+    * [Brahmastra Part One Shiva](https://drafthouse.com/los-angeles/show/brahmastra-part-one-shiva): Thu 9/22 (3:45pm)
+
+    * [Brunch Screenings Castle In The Sky Dubbed Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-castle-in-the-sky-dubbed-brunch): Sun 9/25 (1:00pm)
+
+    * [Bullet Train](https://drafthouse.com/los-angeles/show/bullet-train): Thu 9/22 (4:00pm, 7:15pm, 10:25pm), Fri 9/23 (12:50pm, 4:00pm, 6:45pm, 10:35pm), Sat 9/24 (12:50pm, 4:00pm, 6:45pm, 10:35pm), Sun 9/25 (12:50pm, 4:00pm, 6:45pm), Mon 9/26 (12:50pm, 4:00pm, 7:30pm), Tue 9/27 (12:50pm, 4:00pm, 7:30pm), Wed 9/28 (12:50pm, 4:00pm, 7:30pm)
+
+    * [Castle In The Sky Dubbed](https://drafthouse.com/los-angeles/show/castle-in-the-sky-dubbed): Tue 9/27 (1:00pm), Wed 9/28 (1:50pm)
+
+    * [Catherine Called Birdy](https://drafthouse.com/los-angeles/show/catherine-called-birdy): Fri 9/23 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sat 9/24 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sun 9/25 (12:15pm, 3:15pm, 6:15pm), Mon 9/26 (12:15pm, 3:15pm, 6:15pm), Tue 9/27 (12:15pm, 3:15pm, 6:15pm), Wed 9/28 (12:15pm, 3:15pm, 6:15pm)
+
+    * [Dont Worry Darling](https://drafthouse.com/los-angeles/show/dont-worry-darling): Thu 9/22 (6:15pm, 7:45pm, 9:30pm), Fri 9/23 (4:20pm, 7:30pm, 9:30pm), Sat 9/24 (6:45pm, 8:45pm), Sun 9/25 (6:45pm), Mon 9/26 (11:30am, 12:30pm, 1:00pm, 3:45pm, 4:45pm, 6:00pm, 7:00pm), Tue 9/27 (11:20am, 12:30pm, 2:30pm, 3:45pm, 5:45pm, 7:00pm), Wed 9/28 (11:20am, 12:30pm, 2:30pm, 3:45pm, 5:45pm, 7:30pm)
+
+    * [Memoria](https://drafthouse.com/los-angeles/show/memoria): Thu 9/22 (9:15pm), Fri 9/23 (1:00pm, 6:00pm), Mon 9/26 (1:15pm), Tue 9/27 (11:00am, 4:10pm), Wed 9/28 (4:00pm)
+
+    * [Monty Python And The Holy Grail](https://drafthouse.com/los-angeles/show/monty-python-and-the-holy-grail): Fri 9/23 (10:45pm), Sat 9/24 (1:45pm), Wed 9/28 (11:10am)
+
+    * [Moonage Daydream](https://drafthouse.com/los-angeles/show/moonage-daydream): Thu 9/22 (6:45pm), Fri 9/23 (7:15pm), Sat 9/24 (7:15pm), Sun 9/25 (7:15pm), Mon 9/26 (11:20am, 2:45pm, 6:15pm), Tue 9/27 (11:35am, 3:00pm, 6:30pm), Wed 9/28 (11:35am, 3:00pm, 6:30pm)
+
+    * [Nope](https://drafthouse.com/los-angeles/show/nope): Thu 9/22 (3:30pm, 10:10pm), Fri 9/23 (3:30pm, 10:00pm), Sat 9/24 (3:30pm, 10:00pm), Sun 9/25 (3:30pm), Mon 9/26 (3:30pm, 6:45pm), Tue 9/27 (3:30pm, 6:45pm), Wed 9/28 (3:30pm, 6:45pm)
+
+    * [Pearl](https://drafthouse.com/los-angeles/show/pearl): Thu 9/22 (3:10pm, 6:00pm, 9:00pm), Fri 9/23 (12:15pm, 3:00pm, 6:00pm, 9:00pm), Sat 9/24 (12:15pm, 3:00pm, 6:00pm, 10:00pm), Sun 9/25 (12:15pm, 3:00pm, 6:00pm), Mon 9/26 (12:15pm, 3:00pm, 6:00pm), Tue 9/27 (12:15pm, 3:00pm, 6:00pm), Wed 9/28 (12:15pm, 3:00pm, 6:00pm)
+
+    * [See How They Run](https://drafthouse.com/los-angeles/show/see-how-they-run): Thu 9/22 (4:15pm, 7:00pm, 9:45pm), Fri 9/23 (12:40pm, 4:15pm, 7:00pm, 9:45pm), Sat 9/24 (12:40pm, 4:15pm, 7:00pm, 9:45pm), Sun 9/25 (12:40pm, 4:15pm, 7:00pm), Mon 9/26 (12:40pm, 4:30pm, 7:15pm), Tue 9/27 (12:40pm, 4:30pm, 7:15pm), Wed 9/28 (12:40pm, 4:30pm, 7:15pm)
+
+    * [The Outsiders The Complete Novel](https://drafthouse.com/los-angeles/show/the-outsiders-the-complete-novel): Sat 9/24 (2:45pm, 10:10pm), Tue 9/27 (7:30pm)
+
+    * [The Silent Twins](https://drafthouse.com/los-angeles/show/the-silent-twins): Thu 9/22 (3:00pm), Fri 9/23 (1:15pm), Sat 9/24 (1:15pm), Sun 9/25 (1:15pm), Mon 9/26 (1:30pm), Tue 9/27 (1:30pm), Wed 9/28 (1:30pm)
+
+    * [The Woman King](https://drafthouse.com/los-angeles/show/the-woman-king): Thu 9/22 (3:25pm, 6:45pm, 10:05pm), Fri 9/23 (12:00pm, 3:25pm, 6:45pm, 10:15pm), Sat 9/24 (12:00pm, 3:25pm, 6:00pm, 9:25pm), Sun 9/25 (12:00pm, 3:25pm, 6:00pm), Mon 9/26 (11:45am, 3:20pm, 7:00pm), Tue 9/27 (11:45am, 3:20pm, 6:45pm), Wed 9/28 (11:45am, 3:20pm, 6:45pm)
+
+    * [Three Thousand Years Of Longing](https://drafthouse.com/los-angeles/show/three-thousand-years-of-longing): Thu 9/22 (3:20pm, 10:55pm), Fri 9/23 (11:45am), Sat 9/24 (4:30pm), Sun 9/25 (4:30pm), Tue 9/27 (2:20pm), Wed 9/28 (1:00pm, 5:05pm)
+
 ### Fri 9/16 4:24pm
 * New movies: Masking Threshold
 
