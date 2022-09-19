@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Mon 9/19 2:37pm
+
+* New screenings: 
+    * [Bros](https://drafthouse.com/raleigh/show/bros): Mon 10/3 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Tue 10/4 (12:30pm, 3:30pm, 6:30pm, 9:30pm)
+
+    * [Dont Worry Darling](https://drafthouse.com/raleigh/show/dont-worry-darling): Fri 9/23 (6:15pm, 9:30pm), Sat 9/24 (5:45pm, 9:00pm), Sun 9/25 (12:15pm, 3:30pm, 6:45pm, 10:00pm, 10:30pm)
+
 ### Mon 9/19 1:42pm
 
 * New screenings: 
