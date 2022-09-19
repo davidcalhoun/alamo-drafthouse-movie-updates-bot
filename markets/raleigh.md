@@ -1,6 +1,40 @@
 # raleigh
 
 ## Movie updates
+### Mon 9/19 3:24pm
+* New movies: Moonage Daydream
+
+* New screenings: 
+    * [Barbarian](https://drafthouse.com/raleigh/show/barbarian): Thu 9/22 (1:00pm, 3:45pm, 7:30pm, 10:20pm)
+
+    * [Bodies Bodies Bodies](https://drafthouse.com/raleigh/show/bodies-bodies-bodies): Thu 9/22 (4:45pm)
+
+    * [Brahmastra Part One Shiva](https://drafthouse.com/raleigh/show/brahmastra-part-one-shiva): Thu 9/22 (11:00am)
+
+    * [Bullet Train](https://drafthouse.com/raleigh/show/bullet-train): Thu 9/22 (2:50pm)
+
+    * [Dont Worry Darling](https://drafthouse.com/raleigh/show/dont-worry-darling): Thu 9/22 (4:30pm, 5:00pm, 5:30pm, 6:15pm, 7:45pm, 8:15pm, 9:30pm, 10:50pm)
+
+    * [La Mujer Murcielago The Batwoman](https://drafthouse.com/raleigh/show/la-mujer-murcielago-the-batwoman): Thu 9/22 (12:30pm)
+
+    * [Memoria](https://drafthouse.com/raleigh/show/memoria): Thu 9/22 (1:30pm)
+
+    * [Moonage Daydream](https://drafthouse.com/raleigh/show/moonage-daydream): Thu 9/22 (6:00pm, 9:30pm)
+
+    * [Nope](https://drafthouse.com/raleigh/show/nope): Thu 9/22 (8:45pm)
+
+    * [Pearl](https://drafthouse.com/raleigh/show/pearl): Thu 9/22 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm)
+
+    * [Peggy Sue Got Married](https://drafthouse.com/raleigh/show/peggy-sue-got-married): Thu 9/22 (11:15am)
+
+    * [See How They Run](https://drafthouse.com/raleigh/show/see-how-they-run): Thu 9/22 (11:30am, 2:55pm, 6:30pm, 9:15pm)
+
+    * [The Silent Twins](https://drafthouse.com/raleigh/show/the-silent-twins): Thu 9/22 (11:50am)
+
+    * [The Woman King](https://drafthouse.com/raleigh/show/the-woman-king): Thu 9/22 (12:15pm, 12:45pm, 1:15pm, 2:15pm, 3:30pm, 5:45pm, 6:45pm, 9:00pm, 10:00pm)
+
+    * [Three Thousand Years Of Longing](https://drafthouse.com/raleigh/show/three-thousand-years-of-longing): Thu 9/22 (2:00pm)
+
 ### Mon 9/19 2:37pm
 
 * New screenings: 
