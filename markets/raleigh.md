@@ -1,6 +1,35 @@
 # raleigh
 
 ## Movie updates
+### Mon 9/19 10:44pm
+
+* New screenings: 
+    * [Barbarian](https://drafthouse.com/raleigh/show/barbarian): Fri 9/23 (12:15pm, 4:15pm, 7:30pm, 10:15pm), Sat 9/24 (12:40pm, 3:35pm, 7:30pm, 10:15pm), Sun 9/25 (12:40pm, 4:15pm, 8:00pm, 10:45pm), Mon 9/26 (12:25pm, 3:55pm, 6:15pm, 9:00pm), Tue 9/27 (12:55pm, 3:55pm, 6:45pm, 10:45pm), Wed 9/28 (1:00pm, 3:30pm, 6:15pm, 9:25pm)
+
+    * [Brunch Screenings Castle In The Sky Dubbed Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-castle-in-the-sky-dubbed-brunch): Sat 9/24 (1:00pm)
+
+    * [Castle In The Sky Subtitled](https://drafthouse.com/raleigh/show/castle-in-the-sky-subtitled): Mon 9/26 (4:55pm), Tue 9/27 (1:20pm), Wed 9/28 (4:55pm)
+
+    * [Dont Worry Darling](https://drafthouse.com/raleigh/show/dont-worry-darling): Fri 9/23 (11:15am, 2:00pm, 7:45pm, 9:00pm, 10:50pm), Sat 9/24 (11:50am, 3:30pm, 5:45pm, 7:45pm, 9:00pm, 10:55pm), Sun 9/25 (11:15am, 3:40pm, 5:15pm, 6:15pm, 9:30pm), Mon 9/26 (11:00am, 7:45pm, 10:50pm), Tue 9/27 (12:50pm, 2:00pm, 4:00pm, 5:15pm, 7:45pm, 10:50pm), Wed 9/28 (11:20am, 12:15pm, 2:30pm, 5:45pm, 7:45pm, 10:55pm)
+
+    * [Moonage Daydream](https://drafthouse.com/raleigh/show/moonage-daydream): Fri 9/23 (11:20am, 2:40pm, 6:00pm, 9:20pm), Sat 9/24 (12:30pm, 3:45pm, 6:00pm, 9:20pm), Sun 9/25 (12:50pm, 4:10pm, 6:45pm, 10:10pm), Mon 9/26 (11:25am, 2:45pm, 6:45pm, 10:10pm), Tue 9/27 (11:30am, 2:55pm, 6:15pm, 9:40pm), Wed 9/28 (12:45pm, 4:10pm, 6:00pm, 9:55pm)
+
+    * [Nope](https://drafthouse.com/raleigh/show/nope): Fri 9/23 (10:10pm), Sat 9/24 (8:30pm), Sun 9/25 (8:30pm), Mon 9/26 (8:30pm), Tue 9/27 (8:30pm), Wed 9/28 (8:30pm)
+
+    * [Pearl](https://drafthouse.com/raleigh/show/pearl): Fri 9/23 (1:30pm, 5:15pm, 8:00pm, 10:45pm), Sat 9/24 (11:45am, 2:30pm, 6:30pm, 9:15pm), Sun 9/25 (1:15pm, 3:30pm, 7:30pm, 10:20pm), Mon 9/26 (1:30pm, 4:40pm, 8:00pm, 10:45pm), Tue 9/27 (12:30pm, 3:15pm, 6:00pm, 9:15pm), Wed 9/28 (1:30pm, 4:00pm, 8:00pm, 10:50pm)
+
+    * [Rumble Fish](https://drafthouse.com/raleigh/show/rumble-fish): Fri 9/23 (4:45pm), Mon 9/26 (2:15pm)
+
+    * [See How They Run](https://drafthouse.com/raleigh/show/see-how-they-run): Fri 9/23 (1:00pm, 3:45pm, 6:30pm, 9:10pm), Sat 9/24 (12:50pm, 3:15pm, 7:00pm, 9:40pm), Sun 9/25 (1:00pm, 3:15pm, 6:00pm, 9:00pm), Mon 9/26 (12:15pm, 4:15pm, 7:30pm, 10:20pm), Tue 9/27 (12:45pm, 3:45pm, 6:30pm, 10:15pm), Wed 9/28 (12:40pm, 3:20pm, 6:45pm, 10:45pm)
+
+    * [The Outsiders The Complete Novel](https://drafthouse.com/raleigh/show/the-outsiders-the-complete-novel): Sat 9/24 (4:15pm), Mon 9/26 (2:00pm), Wed 9/28 (1:45pm)
+
+    * [The Reverend](https://drafthouse.com/raleigh/show/the-reverend): Fri 9/23 (11:30am), Mon 9/26 (11:30am)
+
+    * [The Silent Twins](https://drafthouse.com/raleigh/show/the-silent-twins): Fri 9/23 (1:45pm), Sat 9/24 (12:15pm), Sun 9/25 (2:20pm), Mon 9/26 (1:45pm), Tue 9/27 (11:00am), Wed 9/28 (11:00am)
+
+    * [The Woman King](https://drafthouse.com/raleigh/show/the-woman-king): Fri 9/23 (12:10pm, 1:15pm, 2:30pm, 3:30pm, 4:30pm, 5:45pm, 6:15pm, 6:45pm, 9:30pm, 10:00pm), Sat 9/24 (11:30am, 1:15pm, 2:45pm, 4:30pm, 5:15pm, 6:15pm, 6:45pm, 9:30pm, 10:00pm), Sun 9/25 (11:30am, 12:00pm, 1:30pm, 2:55pm, 4:45pm, 5:30pm, 6:30pm, 8:45pm, 9:45pm, 10:15pm), Mon 9/26 (12:30pm, 1:15pm, 3:15pm, 4:30pm, 5:15pm, 6:00pm, 6:30pm, 7:00pm, 9:15pm, 9:45pm, 10:15pm), Tue 9/27 (12:15pm, 1:00pm, 3:30pm, 4:15pm, 7:00pm, 7:30pm, 9:00pm, 9:30pm), Wed 9/28 (12:30pm, 1:15pm, 2:00pm, 3:55pm, 4:30pm, 5:15pm, 7:30pm, 9:00pm, 10:25pm), Thu 9/29 (12:45pm, 4:00pm)
+
 ### Mon 9/19 3:24pm
 * New movies: Moonage Daydream
 
