@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 9/21 12:45pm
+* New movies: Amsterdam
+
+* New screenings: 
+    * [Amsterdam](https://drafthouse.com/raleigh/show/amsterdam): Thu 10/6 (6:00pm, 9:30pm), Fri 10/7 (11:45am, 3:15pm, 6:45pm, 10:15pm), Sat 10/8 (11:45am, 3:15pm, 6:45pm, 10:15pm), Sun 10/9 (11:45am, 3:15pm, 6:45pm, 10:15pm)
+
 ### Wed 9/21 10:33am
 
 * New screenings: 
