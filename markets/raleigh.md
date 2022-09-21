@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Wed 9/21 10:33am
+
+* New screenings: 
+    * [Dont Worry Darling](https://drafthouse.com/raleigh/show/dont-worry-darling): Thu 9/29 (1:30pm, 4:40pm, 7:45pm, 10:55pm)
+
 ### Mon 9/19 10:44pm
 
 * New screenings: 
