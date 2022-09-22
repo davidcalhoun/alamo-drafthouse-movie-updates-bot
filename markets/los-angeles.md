@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 9/22 1:25pm
+* New movies: Some Like It Rare
+
+* New screenings: 
+    * [Some Like It Rare](https://drafthouse.com/los-angeles/show/some-like-it-rare): Fri 10/7 (8:00pm)
+
 ### Wed 9/21 7:22pm
 * New movies: Moonage Daydream
 
