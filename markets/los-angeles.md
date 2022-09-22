@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 9/21 7:22pm
+* New movies: Moonage Daydream
+
+* New screenings: 
+    * [Live Q A Moonage Daydream](https://drafthouse.com/los-angeles/show/live-q-a-moonage-daydream): Sun 9/25 (3:00pm)
+
 ### Mon 9/19 3:22pm
 * New movies: Catherine Called Birdy, Monty Python and the Holy Grail
 
