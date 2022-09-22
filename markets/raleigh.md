@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 9/22 4:29pm
+* New movies: Grateful Dead Meet-Up At The Movies 2022
+
+* New screenings: 
+    * [Grateful Dead Meet Up At The Movies 2022](https://drafthouse.com/raleigh/show/grateful-dead-meet-up-at-the-movies-2022): Tue 11/1 (7:00pm), Sat 11/5 (4:15pm)
+
 ### Wed 9/21 12:45pm
 * New movies: Amsterdam
 
