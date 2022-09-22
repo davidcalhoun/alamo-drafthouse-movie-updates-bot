@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Thu 9/22 4:25pm
+* New movies: Memories of Murder, MIAMI CONNECTION with Grandmaster Y.K. Kim LIVE
+
+* New screenings: 
+    * [Howls Moving Castle Dubbed](https://drafthouse.com/los-angeles/show/howls-moving-castle-dubbed): Sun 10/30 (2:15pm)
+
+    * [Memories Of Murder](https://drafthouse.com/los-angeles/show/memories-of-murder): Sun 10/9 (1:00pm)
+
+    * [Miami Connection](https://drafthouse.com/los-angeles/show/miami-connection): Tue 10/18 (8:00pm), Wed 10/19 (8:00pm)
+
 ### Thu 9/22 1:25pm
 * New movies: Some Like It Rare
 
