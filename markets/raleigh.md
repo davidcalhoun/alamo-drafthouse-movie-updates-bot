@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Thu 9/22 7:30pm
+
+* New screenings: 
+    * [Brunch Screenings Castle In The Sky Dubbed Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-castle-in-the-sky-dubbed-brunch): Sun 9/25 (12:00pm)
+
 ### Thu 9/22 4:29pm
 * New movies: Grateful Dead Meet-Up At The Movies 2022
 
