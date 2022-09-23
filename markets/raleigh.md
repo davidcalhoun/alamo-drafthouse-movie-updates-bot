@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Fri 9/23 10:38am
+
+* New screenings: 
+    * [Amsterdam](https://drafthouse.com/raleigh/show/amsterdam): Mon 10/10 (12:30pm, 4:00pm, 7:30pm, 10:50pm), Tue 10/11 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Wed 10/12 (12:00pm)
+
+    * [Bros](https://drafthouse.com/raleigh/show/bros): Thu 10/6 (12:00pm, 3:00pm)
+
 ### Thu 9/22 7:30pm
 
 * New screenings: 
