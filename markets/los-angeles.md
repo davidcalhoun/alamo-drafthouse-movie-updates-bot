@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 9/22 7:27pm
+* New movies: Amsterdam, PHANTOM OF THE MALL: ERIC’S REVENGE
+
+* New screenings: 
+    * [Amsterdam](https://drafthouse.com/los-angeles/show/amsterdam): Thu 10/6 (6:00pm, 10:00pm), Fri 10/7 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sat 10/8 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sun 10/9 (12:45pm, 3:00pm, 7:00pm)
+
+    * [Phantom Of The Mall Erics Revenge1](https://drafthouse.com/los-angeles/show/phantom-of-the-mall-erics-revenge1): Tue 10/4 (7:45pm), Wed 10/5 (8:00pm)
+
 ### Thu 9/22 4:25pm
 * New movies: Memories of Murder, MIAMI CONNECTION with Grandmaster Y.K. Kim LIVE
 
