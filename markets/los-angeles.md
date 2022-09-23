@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 9/23 1:24pm
+* New movies: AGFA Presents: Dismember the Alamo 2022
+
+* New screenings: 
+    * [Agfa Presents Dismember The Alamo 2022](https://drafthouse.com/los-angeles/show/agfa-presents-dismember-the-alamo-2022): Sat 10/29 (12:30pm)
+
 ### Thu 9/22 7:27pm
 * New movies: Amsterdam, PHANTOM OF THE MALL: ERIC’S REVENGE
 
