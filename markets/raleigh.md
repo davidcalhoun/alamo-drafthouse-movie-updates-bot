@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Sat 9/24 10:49pm
+* New movies: Piggy
+
+* New screenings: 
+    * [Piggy Advance Screening](https://drafthouse.com/raleigh/show/piggy-advance-screening): Tue 10/4 (7:00pm)
+
 ### Fri 9/23 10:38am
 
 * New screenings: 
