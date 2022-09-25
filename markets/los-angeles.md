@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Sat 9/24 7:27pm
+* New movies: Piggy
+
+* New screenings: 
+    * [Piggy Advance Screening](https://drafthouse.com/los-angeles/show/piggy-advance-screening): Tue 10/4 (5:00pm)
+
 ### Fri 9/23 1:24pm
 * New movies: AGFA Presents: Dismember the Alamo 2022
 
