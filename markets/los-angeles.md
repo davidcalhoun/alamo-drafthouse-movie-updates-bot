@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Mon 9/26 2:22pm
+* New movies: Spookies, Voyage of the Rock Aliens
+
+* New screenings: 
+    * [Spookies](https://drafthouse.com/los-angeles/show/spookies): Tue 10/25 (8:00pm), Wed 10/26 (8:00pm)
+
+    * [Voyage Of The Rock Aliens](https://drafthouse.com/los-angeles/show/voyage-of-the-rock-aliens): Tue 10/11 (8:00pm)
+
 ### Mon 9/26 9:34am
 * New movies: Triangle of Sadness, Triangle of Sadness
 
