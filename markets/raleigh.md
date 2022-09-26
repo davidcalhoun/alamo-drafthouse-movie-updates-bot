@@ -1,6 +1,46 @@
 # raleigh
 
 ## Movie updates
+### Mon 9/26 6:30pm
+* New movies: God's Creatures, Smile, Mona Lisa and the Blood Moon, Ghostbusters 1984, Masking Threshold, Mean Girls, The African Desperate
+
+* New screenings: 
+    * [Avatar Rerelease](https://drafthouse.com/raleigh/show/avatar-rerelease): Thu 9/29 (1:35pm, 5:25pm, 9:15pm), Fri 9/30 (12:15pm, 4:15pm, 8:15pm), Sat 10/1 (1:30pm, 5:20pm, 9:10pm), Sun 10/2 (11:35am, 3:25pm, 7:15pm), Mon 10/3 (12:20pm, 4:10pm, 8:00pm), Tue 10/4 (1:00pm, 4:50pm, 8:40pm), Wed 10/5 (12:35pm, 4:25pm, 8:15pm)
+
+    * [Barbarian](https://drafthouse.com/raleigh/show/barbarian): Thu 9/29 (11:20am, 2:20pm, 5:10pm, 8:00pm, 10:50pm), Fri 9/30 (11:45am, 2:30pm, 5:20pm, 8:10pm, 11:00pm), Sat 10/1 (11:10am, 3:15pm, 6:00pm, 8:45pm, 10:35pm), Sun 10/2 (11:30am, 2:20pm, 5:10pm, 8:00pm), Mon 10/3 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Tue 10/4 (1:20pm, 4:10pm, 8:30pm, 9:35pm), Wed 10/5 (12:00pm, 2:50pm, 5:40pm, 8:30pm, 11:20pm)
+
+    * [Bros](https://drafthouse.com/raleigh/show/bros): Wed 10/5 (1:30pm, 4:30pm, 7:30pm, 10:30pm)
+
+    * [Castle In The Sky Dubbed](https://drafthouse.com/raleigh/show/castle-in-the-sky-dubbed): Fri 9/30 (11:45am), Mon 10/3 (2:50pm), Wed 10/5 (3:30pm)
+
+    * [Dont Worry Darling](https://drafthouse.com/raleigh/show/dont-worry-darling): Thu 9/29 (12:00pm, 3:30pm), Fri 9/30 (11:40am, 2:50pm, 6:00pm, 9:00pm), Sat 10/1 (12:25pm, 3:35pm, 6:45pm, 9:55pm), Sun 10/2 (12:25pm, 3:35pm, 6:45pm), Mon 10/3 (12:35pm, 3:45pm, 6:55pm, 10:05pm), Tue 10/4 (12:45pm, 3:55pm, 7:05pm, 10:15pm), Wed 10/5 (12:00pm, 3:10pm, 6:20pm, 9:30pm)
+
+    * [Ghostbusters 1984](https://drafthouse.com/raleigh/show/ghostbusters-1984): Mon 10/3 (12:00pm), Tue 10/4 (12:15pm), Wed 10/5 (12:40pm)
+
+    * [Gods Creatures](https://drafthouse.com/raleigh/show/gods-creatures): Thu 9/29 (7:00pm, 9:45pm), Fri 9/30 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Sat 10/1 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Sun 10/2 (12:15pm, 3:00pm, 5:45pm, 8:30pm), Mon 10/3 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Tue 10/4 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Wed 10/5 (12:00pm, 2:45pm, 5:30pm, 8:15pm, 11:00pm)
+
+    * [Masking Threshold](https://drafthouse.com/raleigh/show/masking-threshold): Fri 9/30 (10:00pm), Mon 10/3 (10:05pm), Wed 10/5 (4:25pm)
+
+    * [Mean Girls](https://drafthouse.com/raleigh/show/mean-girls): Tue 10/4 (3:05pm)
+
+    * [Mona Lisa And The Blood Moon](https://drafthouse.com/raleigh/show/mona-lisa-and-the-blood-moon): Fri 9/30 (7:15pm), Sat 10/1 (6:45pm), Sun 10/2 (12:10pm), Mon 10/3 (7:15pm), Tue 10/4 (10:45pm), Wed 10/5 (9:55pm)
+
+    * [Moonage Daydream](https://drafthouse.com/raleigh/show/moonage-daydream): Thu 9/29 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Fri 9/30 (12:30pm, 3:45pm, 6:20pm, 9:40pm), Sat 10/1 (11:15am, 3:00pm, 6:00pm, 9:25pm), Sun 10/2 (11:20am, 2:40pm, 6:00pm), Mon 10/3 (11:20am, 2:40pm, 6:00pm, 9:20pm), Tue 10/4 (11:45am, 3:05pm, 9:25pm), Wed 10/5 (11:20am, 2:40pm, 6:00pm, 9:20pm)
+
+    * [Nope](https://drafthouse.com/raleigh/show/nope): Thu 9/29 (1:55pm, 5:15pm)
+
+    * [Pearl](https://drafthouse.com/raleigh/show/pearl): Thu 9/29 (11:25am, 2:15pm, 5:15pm, 8:15pm, 11:15pm), Fri 9/30 (11:55am, 2:45pm, 5:30pm, 8:15pm, 11:15pm), Sat 10/1 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Sun 10/2 (11:45am, 2:35pm, 5:25pm, 8:15pm), Mon 10/3 (11:45am, 2:35pm, 5:25pm, 8:15pm, 11:05pm), Tue 10/4 (12:00pm, 2:50pm, 5:40pm, 6:25pm, 11:20pm), Wed 10/5 (11:15am, 2:05pm, 4:55pm, 7:45pm, 10:35pm)
+
+    * [See How They Run](https://drafthouse.com/raleigh/show/see-how-they-run): Thu 9/29 (11:10am, 1:55pm, 4:40pm, 6:45pm, 9:30pm), Fri 9/30 (11:00am, 1:55pm, 4:40pm, 7:30pm, 10:15pm), Sat 10/1 (11:35am, 2:20pm, 5:05pm, 7:50pm, 11:30pm), Sun 10/2 (11:30am, 2:15pm, 5:00pm, 7:45pm), Mon 10/3 (12:45pm, 3:30pm, 6:15pm, 9:00pm), Tue 10/4 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Wed 10/5 (11:00am, 1:45pm, 4:30pm, 7:15pm, 10:00pm)
+
+    * [Smile](https://drafthouse.com/raleigh/show/smile): Thu 9/29 (7:30pm, 8:30pm, 10:30pm), Fri 9/30 (10:30am, 1:30pm, 4:30pm, 7:45pm, 10:45pm), Sat 10/1 (10:30am, 1:30pm, 4:30pm, 7:30pm, 10:30pm), Sun 10/2 (1:20pm, 4:20pm, 6:30pm), Mon 10/3 (11:00am, 2:00pm, 5:00pm, 8:00pm, 11:00pm), Tue 10/4 (1:20pm, 4:20pm, 7:45pm, 10:25pm), Wed 10/5 (12:30pm, 3:30pm, 6:30pm, 9:30pm)
+
+    * [The African Desperate](https://drafthouse.com/raleigh/show/the-african-desperate): Sat 10/1 (9:35pm), Tue 10/4 (5:00pm)
+
+    * [The Silent Twins](https://drafthouse.com/raleigh/show/the-silent-twins): Thu 9/29 (1:00pm, 4:00pm)
+
+    * [The Woman King](https://drafthouse.com/raleigh/show/the-woman-king): Thu 9/29 (11:40am, 6:15pm, 9:30pm), Fri 9/30 (12:15pm, 3:45pm, 7:00pm, 10:15pm), Sat 10/1 (11:00am, 2:30pm, 6:15pm, 9:45pm), Sun 10/2 (11:15am, 2:45pm, 6:15pm), Mon 10/3 (12:25pm, 3:55pm, 5:55pm, 9:25pm), Tue 10/4 (1:40pm, 5:45pm, 9:15pm), Wed 10/5 (1:05pm, 6:35pm, 10:05pm)
+
 ### Mon 9/26 11:32am
 * New movies: AGFA Presents: Dismember the Alamo 2022
 
