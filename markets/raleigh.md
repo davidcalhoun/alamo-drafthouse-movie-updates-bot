@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 9/26 11:32am
+* New movies: AGFA Presents: Dismember the Alamo 2022
+
+* New screenings: 
+    * [Agfa Presents Dismember The Alamo 2022](https://drafthouse.com/raleigh/show/agfa-presents-dismember-the-alamo-2022): Sat 10/29 (12:00pm)
+
 ### Sat 9/24 10:49pm
 * New movies: Piggy
 
