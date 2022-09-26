@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Mon 9/26 9:34am
+* New movies: Triangle of Sadness, Triangle of Sadness
+
+* New screenings: 
+    * [Advance Screening Triangle Of Sadness](https://drafthouse.com/los-angeles/show/advance-screening-triangle-of-sadness): Mon 10/10 (7:00pm)
+
+    * [Triangle Of Sadness](https://drafthouse.com/los-angeles/show/triangle-of-sadness): Thu 10/13 (6:00pm, 7:00pm, 9:30pm, 10:30pm), Fri 10/14 (11:00am, 12:00pm, 2:30pm, 3:30pm, 6:00pm, 7:00pm, 9:30pm, 10:30pm), Sat 10/15 (11:00am, 12:00pm, 2:30pm, 3:30pm, 6:00pm, 7:00pm, 9:30pm, 10:30pm), Sun 10/16 (11:00am, 12:00pm, 2:30pm, 3:30pm, 6:00pm)
+
 ### Sat 9/24 7:27pm
 * New movies: Piggy
 
