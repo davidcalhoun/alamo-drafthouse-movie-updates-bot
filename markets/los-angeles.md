@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 9/27 3:25pm
+* New movies: TAR
+
+* New screenings: 
+    * [Tar](https://drafthouse.com/los-angeles/show/tar): Thu 10/13 (7:00pm, 10:45pm), Fri 10/14 (11:00am, 2:45pm, 6:30pm, 10:20pm), Sat 10/15 (11:00am, 2:45pm, 6:30pm, 10:20pm), Sun 10/16 (11:00am, 2:45pm, 6:30pm)
+
 ### Tue 9/27 11:34am
 * New movies: Smile, God's Creatures, Masking Threshold, Mona Lisa and the Blood Moon, Vesper, The African Desperate, Ghostbusters 1984, Mean Girls
 
