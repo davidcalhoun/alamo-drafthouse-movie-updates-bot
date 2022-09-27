@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 9/27 4:29pm
+* New movies: Black Adam, Halloween Ends
+
+* New screenings: 
+    * [Black Adam](https://drafthouse.com/los-angeles/show/black-adam): Thu 10/20 (3:00pm, 6:15pm, 9:30pm), Fri 10/21 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Sat 10/22 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Sun 10/23 (12:45pm, 4:00pm, 7:15pm), Mon 10/24 (12:45pm, 4:00pm, 7:15pm), Tue 10/25 (12:45pm, 4:00pm, 7:15pm), Wed 10/26 (12:45pm, 4:00pm, 7:15pm)
+
+    * [Halloween Ends](https://drafthouse.com/los-angeles/show/halloween-ends): Thu 10/13 (5:00pm, 8:00pm, 11:00pm), Fri 10/14 (1:15pm, 4:25pm, 7:30pm, 10:40pm), Sat 10/15 (1:15pm, 4:25pm, 7:30pm, 10:40pm), Sun 10/16 (1:15pm, 4:25pm, 7:30pm)
+
 ### Tue 9/27 3:25pm
 * New movies: TAR
 
