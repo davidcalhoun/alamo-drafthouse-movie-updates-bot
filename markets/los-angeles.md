@@ -1,6 +1,54 @@
 # los-angeles
 
 ## Movie updates
+### Tue 9/27 11:34am
+* New movies: Smile, God's Creatures, Masking Threshold, Mona Lisa and the Blood Moon, Vesper, The African Desperate, Ghostbusters 1984, Mean Girls
+
+* New screenings: 
+    * [Barbarian](https://drafthouse.com/los-angeles/show/barbarian): Thu 9/29 (4:45pm, 7:45pm, 10:45pm), Fri 9/30 (1:45pm, 4:40pm, 7:45pm, 10:45pm), Sat 10/1 (1:45pm, 4:40pm, 7:45pm, 10:45pm), Sun 10/2 (1:45pm, 4:40pm, 7:40pm), Mon 10/3 (1:45pm, 4:40pm, 7:40pm), Tue 10/4 (1:45pm, 4:40pm, 7:40pm), Wed 10/5 (1:40pm, 4:40pm, 7:40pm)
+
+    * [Bros](https://drafthouse.com/los-angeles/show/bros): Thu 9/29 (6:00pm, 9:15pm, 11:05pm), Fri 9/30 (11:30am, 2:35pm, 5:45pm, 9:00pm), Sat 10/1 (11:30am, 2:35pm, 5:45pm, 9:00pm), Sun 10/2 (11:30am, 2:35pm, 5:45pm), Mon 10/3 (11:30am, 12:45pm, 2:35pm, 4:00pm, 5:45pm, 6:30pm), Tue 10/4 (11:30am, 12:50pm, 2:35pm, 4:00pm, 5:45pm, 6:30pm), Wed 10/5 (11:30am, 12:50pm, 2:35pm, 4:00pm, 5:45pm, 7:00pm)
+
+    * [Bullet Train](https://drafthouse.com/los-angeles/show/bullet-train): Thu 9/29 (2:50pm)
+
+    * [Catherine Called Birdy](https://drafthouse.com/los-angeles/show/catherine-called-birdy): Thu 9/29 (4:15pm), Fri 9/30 (9:30pm)
+
+    * [Dont Worry Darling](https://drafthouse.com/los-angeles/show/dont-worry-darling): Thu 9/29 (3:00pm, 6:15pm, 9:30pm), Fri 9/30 (11:30am, 3:30pm, 6:45pm, 10:00pm), Sat 10/1 (11:30am, 3:15pm, 6:30pm, 9:45pm), Sun 10/2 (11:35am, 3:30pm, 6:45pm), Mon 10/3 (11:35am, 3:25pm, 6:45pm), Tue 10/4 (11:40am, 3:25pm, 6:45pm), Wed 10/5 (11:40am, 3:25pm, 6:45pm)
+
+    * [Ghostbusters 1984](https://drafthouse.com/los-angeles/show/ghostbusters-1984): Mon 10/3 (12:30pm), Wed 10/5 (11:25am)
+
+    * [Gods Creatures](https://drafthouse.com/los-angeles/show/gods-creatures): Thu 9/29 (7:15pm, 10:00pm), Fri 9/30 (1:15pm, 4:15pm, 7:15pm, 10:10pm), Sat 10/1 (1:15pm, 4:15pm, 7:15pm, 10:10pm), Sun 10/2 (1:30pm, 4:15pm, 7:15pm), Mon 10/3 (1:30pm, 4:25pm, 7:15pm), Tue 10/4 (1:30pm, 4:25pm, 7:15pm), Wed 10/5 (1:30pm, 4:25pm, 7:15pm)
+
+    * [Masking Threshold](https://drafthouse.com/los-angeles/show/masking-threshold): Fri 9/30 (3:45pm, 10:25pm), Sat 10/1 (10:25pm), Sun 10/2 (11:40am, 5:15pm), Mon 10/3 (4:10pm), Tue 10/4 (2:15pm), Wed 10/5 (12:40pm)
+
+    * [Mean Girls](https://drafthouse.com/los-angeles/show/mean-girls): Tue 10/4 (12:40pm)
+
+    * [Mean Girls Brunch](https://drafthouse.com/los-angeles/show/mean-girls-brunch): Sun 10/2 (12:30pm)
+
+    * [Memoria](https://drafthouse.com/los-angeles/show/memoria): Thu 9/29 (4:00pm)
+
+    * [Mona Lisa And The Blood Moon](https://drafthouse.com/los-angeles/show/mona-lisa-and-the-blood-moon): Thu 9/29 (10:00pm), Fri 9/30 (6:30pm), Sat 10/1 (7:00pm), Mon 10/3 (7:00pm), Tue 10/4 (3:30pm), Wed 10/5 (5:10pm)
+
+    * [Moonage Daydream](https://drafthouse.com/los-angeles/show/moonage-daydream): Thu 9/29 (3:20pm, 6:45pm, 10:15pm), Fri 9/30 (12:00pm, 2:45pm, 6:15pm, 9:40pm), Sat 10/1 (11:45am, 2:45pm, 6:15pm, 9:40pm), Sun 10/2 (12:00pm, 2:45pm, 6:15pm), Mon 10/3 (12:00pm, 2:45pm, 6:15pm), Tue 10/4 (12:00pm, 2:50pm, 6:15pm), Wed 10/5 (12:00pm, 2:50pm, 6:15pm)
+
+    * [Nope](https://drafthouse.com/los-angeles/show/nope): Thu 9/29 (3:25pm)
+
+    * [Pearl](https://drafthouse.com/los-angeles/show/pearl): Thu 9/29 (3:10pm, 6:10pm, 10:10pm), Fri 9/30 (12:15pm, 3:15pm, 6:00pm, 9:00pm), Sat 10/1 (12:15pm, 3:15pm, 6:00pm, 9:00pm), Sun 10/2 (12:15pm, 3:15pm, 6:00pm), Mon 10/3 (12:15pm, 3:15pm, 6:00pm), Tue 10/4 (12:15pm, 3:15pm, 6:00pm), Wed 10/5 (12:15pm, 3:15pm, 6:00pm)
+
+    * [See How They Run](https://drafthouse.com/los-angeles/show/see-how-they-run): Thu 9/29 (4:35pm, 7:20pm), Fri 9/30 (4:30pm, 7:30pm), Sat 10/1 (4:30pm, 7:30pm), Sun 10/2 (4:30pm, 7:30pm), Mon 10/3 (4:30pm, 7:30pm), Tue 10/4 (4:30pm, 7:30pm), Wed 10/5 (4:30pm, 7:30pm)
+
+    * [Smile](https://drafthouse.com/los-angeles/show/smile): Thu 9/29 (7:00pm, 9:00pm, 10:15pm, 10:30pm), Fri 9/30 (12:30pm, 3:45pm, 7:00pm, 10:20pm), Sat 10/1 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Sun 10/2 (12:30pm, 3:45pm, 7:00pm), Mon 10/3 (12:30pm, 3:45pm, 7:00pm), Tue 10/4 (12:30pm, 3:45pm, 7:00pm), Wed 10/5 (1:00pm, 3:20pm, 6:30pm)
+
+    * [The African Desperate](https://drafthouse.com/los-angeles/show/the-african-desperate): Fri 9/30 (1:30pm), Sat 10/1 (1:30pm), Mon 10/3 (1:45pm), Tue 10/4 (11:30am), Wed 10/5 (1:45pm)
+
+    * [The Silent Twins](https://drafthouse.com/los-angeles/show/the-silent-twins): Thu 9/29 (4:00pm)
+
+    * [The Woman King](https://drafthouse.com/los-angeles/show/the-woman-king): Thu 9/29 (3:00pm, 6:30pm, 10:00pm), Fri 9/30 (11:40am, 3:00pm, 6:30pm, 10:00pm), Sat 10/1 (11:40am, 3:00pm, 6:30pm, 10:00pm), Sun 10/2 (11:40am, 3:00pm, 6:30pm), Mon 10/3 (11:40am, 3:00pm, 6:30pm), Tue 10/4 (11:40am, 3:00pm, 6:30pm), Wed 10/5 (11:40am, 3:00pm, 6:30pm)
+
+    * [Three Thousand Years Of Longing](https://drafthouse.com/los-angeles/show/three-thousand-years-of-longing): Thu 9/29 (7:30pm)
+
+    * [Vesper](https://drafthouse.com/los-angeles/show/vesper): Fri 9/30 (12:45pm), Sun 10/2 (1:20pm), Mon 10/3 (1:00pm, 3:30pm), Tue 10/4 (1:20pm), Wed 10/5 (2:10pm)
+
 ### Mon 9/26 2:22pm
 * New movies: Spookies, Voyage of the Rock Aliens
 
