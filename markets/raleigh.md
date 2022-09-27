@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Tue 9/27 1:43pm
+* New movies: Triangle of Sadness, Triangle of Sadness, Terrifier 2
+
+* New screenings: 
+    * [Advance Screening Triangle Of Sadness](https://drafthouse.com/raleigh/show/advance-screening-triangle-of-sadness): Wed 10/12 (7:00pm)
+
+    * [Terrifier 2](https://drafthouse.com/raleigh/show/terrifier-2): Thu 10/6 (9:15pm)
+
+    * [Triangle Of Sadness](https://drafthouse.com/raleigh/show/triangle-of-sadness): Thu 10/20 (6:00pm), Fri 10/21 (6:45pm), Sat 10/22 (6:45pm), Sun 10/23 (6:45pm)
+
 ### Mon 9/26 6:30pm
 * New movies: God's Creatures, Smile, Mona Lisa and the Blood Moon, Ghostbusters 1984, Masking Threshold, Mean Girls, The African Desperate
 
