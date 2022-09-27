@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 9/27 2:40pm
+
+* New screenings: 
+    * [Terrifier 2](https://drafthouse.com/raleigh/show/terrifier-2): Fri 10/7 (10:00pm), Sat 10/8 (10:00pm)
+
 ### Tue 9/27 1:43pm
 * New movies: Triangle of Sadness, Triangle of Sadness, Terrifier 2
 
