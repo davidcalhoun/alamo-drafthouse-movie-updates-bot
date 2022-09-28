@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Wed 9/28 2:40pm
+* New movies: Halloween Ends, Black Adam
+
+* New screenings: 
+    * [Black Adam](https://drafthouse.com/raleigh/show/black-adam): Thu 10/20 (3:30pm, 6:45pm, 10:00pm), Fri 10/21 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Sat 10/22 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Sun 10/23 (12:45pm, 4:00pm, 7:15pm)
+
+    * [Halloween Ends](https://drafthouse.com/raleigh/show/halloween-ends): Thu 10/13 (5:00pm, 7:00pm, 10:00pm), Fri 10/14 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Sat 10/15 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Sun 10/16 (1:00pm, 4:00pm, 7:00pm)
+
 ### Tue 9/27 2:40pm
 
 * New screenings: 
