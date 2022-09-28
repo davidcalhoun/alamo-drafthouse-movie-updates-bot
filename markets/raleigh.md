@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Wed 9/28 6:30pm
+* New movies: Lyle, Lyle, Crocodile, Lyle, Lyle, Crocodile
+
+* New screenings: 
+    * [Family Party Lyle Lyle Crocodile](https://drafthouse.com/raleigh/show/family-party-lyle-lyle-crocodile): Sun 10/9 (10:30am)
+
+    * [Lyle Lyle Crocodile](https://drafthouse.com/raleigh/show/lyle-lyle-crocodile): Thu 10/6 (3:00pm, 6:00pm), Fri 10/7 (12:00pm, 3:00pm, 6:00pm), Sat 10/8 (12:00pm, 3:00pm, 6:00pm), Sun 10/9 (2:20pm, 5:10pm)
+
 ### Wed 9/28 2:40pm
 * New movies: Halloween Ends, Black Adam
 
