@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 9/27 7:22pm
+* New movies: Mona Lisa and the Blood Moon
+
+* New screenings: 
+    * [Live Q A Mona Lisa And The Blood Moon](https://drafthouse.com/los-angeles/show/live-q-a-mona-lisa-and-the-blood-moon): Thu 9/29 (6:45pm), Sun 10/2 (8:00pm)
+
 ### Tue 9/27 4:29pm
 * New movies: Black Adam, Halloween Ends
 
