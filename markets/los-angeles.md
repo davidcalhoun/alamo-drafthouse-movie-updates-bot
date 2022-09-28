@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 9/28 3:25pm
+* New movies: Lyle, Lyle, Crocodile
+
+* New screenings: 
+    * [Lyle Lyle Crocodile](https://drafthouse.com/los-angeles/show/lyle-lyle-crocodile): Thu 10/6 (3:15pm, 6:15pm, 9:15pm), Fri 10/7 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 10/8 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sun 10/9 (12:00pm, 3:00pm, 6:00pm)
+
 ### Tue 9/27 7:22pm
 * New movies: Mona Lisa and the Blood Moon
 
