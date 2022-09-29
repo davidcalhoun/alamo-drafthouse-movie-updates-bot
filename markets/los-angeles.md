@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 9/29 2:23pm
+
+* New screenings: 
+    * [Triangle Of Sadness](https://drafthouse.com/los-angeles/show/triangle-of-sadness): Sun 10/16 (7:15pm)
+
 ### Wed 9/28 3:25pm
 * New movies: Lyle, Lyle, Crocodile
 
