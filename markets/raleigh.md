@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Thu 9/29 11:33am
+
+* New screenings: 
+    * [Moonage Daydream](https://drafthouse.com/raleigh/show/moonage-daydream): Tue 10/4 (6:00pm)
+
 ### Wed 9/28 6:30pm
 * New movies: Lyle, Lyle, Crocodile, Lyle, Lyle, Crocodile
 
