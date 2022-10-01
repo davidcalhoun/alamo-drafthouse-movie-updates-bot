@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Sat 10/1 1:32pm
+
+* New screenings: 
+    * [See How They Run](https://drafthouse.com/raleigh/show/see-how-they-run): Sat 10/1 (10:35pm)
+
 ### Thu 9/29 11:33am
 
 * New screenings: 
