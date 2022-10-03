@@ -1,6 +1,20 @@
 # raleigh
 
 ## Movie updates
+### Mon 10/3 1:47pm
+* New movies: Candyman 1992, Fright Night, The Craft, Universal Soldier: Day of Reckoning, Donnie Darko
+
+* New screenings: 
+    * [Candyman 1992](https://drafthouse.com/raleigh/show/candyman-1992): Wed 10/12 (7:45pm)
+
+    * [Fist City Universal Soldier Day Of Reckoning](https://drafthouse.com/raleigh/show/fist-city-universal-soldier-day-of-reckoning): Mon 10/10 (10:00pm)
+
+    * [Fright Night](https://drafthouse.com/raleigh/show/fright-night): Wed 10/12 (10:30pm)
+
+    * [Graveyard Shift Donnie Darko](https://drafthouse.com/raleigh/show/graveyard-shift-donnie-darko): Tue 10/11 (10:00pm)
+
+    * [The Craft Brunch](https://drafthouse.com/raleigh/show/the-craft-brunch): Sat 10/8 (1:30pm)
+
 ### Mon 10/3 11:34am
 * New movies: Joint Security Area, Miracle Valley, Memories of Murder
 
