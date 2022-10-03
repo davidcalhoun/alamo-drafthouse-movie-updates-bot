@@ -1,6 +1,40 @@
 # raleigh
 
 ## Movie updates
+### Mon 10/3 6:30pm
+* New movies: Piggy, Bride of Chucky, Let the Right One In
+
+* New screenings: 
+    * [Amsterdam](https://drafthouse.com/raleigh/show/amsterdam): Thu 10/6 (5:45pm, 8:15pm), Fri 10/7 (1:35pm, 8:15pm), Sat 10/8 (1:05pm, 7:45pm), Sun 10/9 (10:05am, 1:25pm, 8:00pm), Mon 10/10 (8:15pm), Tue 10/11 (11:30am, 8:15pm), Wed 10/12 (11:05am, 2:30pm, 6:00pm, 9:30pm, 10:15pm)
+
+    * [Avatar Rerelease](https://drafthouse.com/raleigh/show/avatar-rerelease): Thu 10/6 (12:35pm, 4:25pm)
+
+    * [Barbarian](https://drafthouse.com/raleigh/show/barbarian): Thu 10/6 (11:30am, 2:20pm, 5:10pm, 8:00pm, 10:50pm), Fri 10/7 (11:45am, 2:35pm, 5:25pm, 8:15pm, 11:05pm), Sat 10/8 (11:30am, 2:20pm, 5:10pm, 8:00pm, 10:50pm), Sun 10/9 (12:35pm, 2:35pm, 5:25pm, 8:15pm), Mon 10/10 (11:45am, 2:35pm, 5:25pm, 8:15pm, 11:05pm), Tue 10/11 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Wed 10/12 (11:45am, 2:35pm, 5:25pm, 8:15pm, 11:05pm)
+
+    * [Bride Of Chucky](https://drafthouse.com/raleigh/show/bride-of-chucky): Tue 10/11 (7:30pm)
+
+    * [Bros](https://drafthouse.com/raleigh/show/bros): Thu 10/6 (12:40pm, 3:50pm, 6:50pm, 9:45pm), Fri 10/7 (12:45pm, 4:55pm, 7:55pm, 10:50pm), Sat 10/8 (12:45pm, 4:25pm, 7:25pm, 10:20pm), Sun 10/9 (10:40am, 1:40pm, 4:45pm, 7:45pm), Mon 10/10 (12:50pm, 4:00pm, 7:00pm, 9:55pm), Tue 10/11 (1:20pm, 4:30pm, 7:00pm, 10:05pm), Wed 10/12 (1:20pm, 4:30pm, 7:30pm, 10:25pm)
+
+    * [Dont Worry Darling](https://drafthouse.com/raleigh/show/dont-worry-darling): Thu 10/6 (1:00pm, 4:10pm, 7:20pm, 10:30pm), Fri 10/7 (11:50am, 3:10pm, 6:30pm, 9:50pm), Sat 10/8 (12:20pm, 3:40pm, 7:00pm, 10:20pm), Sun 10/9 (12:35pm, 3:55pm, 7:15pm), Mon 10/10 (12:15pm, 3:25pm, 6:45pm, 10:05pm), Tue 10/11 (11:20am, 2:40pm, 6:00pm, 9:20pm), Wed 10/12 (12:05pm, 3:25pm, 6:45pm, 10:05pm)
+
+    * [Fantastic Fest Presents Piggy](https://drafthouse.com/raleigh/show/fantastic-fest-presents-piggy): Fri 10/7 (7:15pm), Sat 10/8 (7:05pm), Mon 10/10 (3:25pm), Tue 10/11 (7:15pm), Wed 10/12 (5:10pm)
+
+    * [Gods Creatures](https://drafthouse.com/raleigh/show/gods-creatures): Thu 10/6 (12:05pm, 3:00pm)
+
+    * [Let The Right One In](https://drafthouse.com/raleigh/show/let-the-right-one-in): Mon 10/10 (7:15pm)
+
+    * [Lyle Lyle Crocodile](https://drafthouse.com/raleigh/show/lyle-lyle-crocodile): Thu 10/6 (7:10pm, 9:00pm), Fri 10/7 (11:45am, 2:00pm, 2:35pm, 5:00pm, 5:25pm, 8:00pm, 9:00pm), Sat 10/8 (10:40am, 11:15am, 2:05pm, 4:55pm, 9:15pm), Sun 10/9 (11:45am, 12:25pm, 3:25pm, 6:15pm), Mon 10/10 (10:50am, 11:45am, 12:35pm, 1:40pm, 2:15pm, 2:35pm, 5:25pm, 6:00pm, 9:00pm), Tue 10/11 (11:45am, 12:30pm, 1:25pm, 2:35pm, 3:30pm, 4:25pm, 5:25pm, 6:30pm, 9:30pm), Wed 10/12 (12:00pm, 1:10pm, 1:45pm, 3:00pm, 4:10pm, 4:35pm, 6:00pm, 7:25pm, 9:00pm)
+
+    * [Moonage Daydream](https://drafthouse.com/raleigh/show/moonage-daydream): Thu 10/6 (11:40am, 3:50pm), Fri 10/7 (3:55pm), Sat 10/8 (3:45pm), Sun 10/9 (4:40pm), Mon 10/10 (3:55pm), Tue 10/11 (2:50pm), Wed 10/12 (1:50pm)
+
+    * [Pearl](https://drafthouse.com/raleigh/show/pearl): Thu 10/6 (1:00pm, 10:00pm), Fri 10/7 (10:50pm), Sat 10/8 (10:10pm), Mon 10/10 (10:50pm), Tue 10/11 (9:50pm), Wed 10/12 (10:25pm)
+
+    * [See How They Run](https://drafthouse.com/raleigh/show/see-how-they-run): Thu 10/6 (1:25pm, 4:20pm, 7:15pm, 10:10pm), Fri 10/7 (11:20am, 2:15pm, 5:10pm, 8:05pm, 11:00pm), Sat 10/8 (11:50am, 2:35pm, 5:30pm, 8:25pm, 11:20pm), Sun 10/9 (10:40am, 1:25pm, 4:20pm, 7:15pm), Mon 10/10 (1:10pm, 5:05pm, 8:00pm, 10:55pm), Tue 10/11 (11:25am, 2:10pm, 5:05pm, 8:00pm, 10:55pm), Wed 10/12 (11:25am, 2:10pm, 5:05pm, 8:00pm, 10:55pm)
+
+    * [Smile](https://drafthouse.com/raleigh/show/smile): Thu 10/6 (12:35pm, 1:45pm, 3:35pm, 4:45pm, 7:45pm, 10:45pm), Fri 10/7 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sat 10/8 (10:50am, 2:00pm, 5:00pm, 8:00pm, 11:00pm), Sun 10/9 (11:15am, 2:15pm, 5:15pm, 8:15pm), Mon 10/10 (11:25am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Tue 10/11 (12:35pm, 3:35pm, 6:35pm, 9:35pm), Wed 10/12 (1:00pm, 4:00pm, 7:00pm, 10:00pm)
+
+    * [The Woman King](https://drafthouse.com/raleigh/show/the-woman-king): Thu 10/6 (11:35am, 2:55pm, 6:15pm, 9:35pm), Fri 10/7 (12:40pm, 3:50pm, 7:10pm, 10:30pm), Sat 10/8 (11:00am, 2:20pm, 5:40pm, 9:00pm), Sun 10/9 (11:50am, 3:10pm, 6:30pm), Mon 10/10 (10:55am, 2:35pm, 5:55pm, 9:15pm), Tue 10/11 (12:20pm, 3:40pm, 6:10pm, 10:00pm), Wed 10/12 (11:35am, 2:55pm, 6:15pm, 9:35pm)
+
 ### Mon 10/3 1:47pm
 * New movies: Candyman 1992, Fright Night, The Craft, Universal Soldier: Day of Reckoning, Donnie Darko
 
