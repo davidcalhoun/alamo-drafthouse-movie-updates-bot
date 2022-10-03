@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Sun 10/2 11:39pm
+* New movies: Black Panther: Wakanda Forever, Black Panther: Wakanda Forever
+
+* New screenings: 
+    * [Black Panther Wakanda Forever](https://drafthouse.com/los-angeles/show/black-panther-wakanda-forever): Thu 11/10 (3:00pm, 3:15pm, 3:45pm, 4:15pm, 5:15pm, 7:00pm, 7:15pm, 8:00pm, 9:15pm, 11:00pm, 11:15pm), Fri 11/11 (12:00am, 10:15am, 10:35am, 11:00am, 11:45am, 2:00pm, 2:30pm, 3:00pm, 3:45pm, 5:15pm, 6:00pm, 6:30pm, 7:00pm, 9:15pm, 10:00pm, 10:30pm, 11:00pm), Sat 11/12 (10:35am, 11:45am, 2:00pm, 2:30pm, 3:00pm, 3:45pm, 5:15pm, 6:00pm, 6:30pm, 7:00pm, 9:15pm, 10:00pm, 10:30pm, 11:00pm), Sun 11/13 (10:35am, 11:45am, 2:00pm, 2:30pm, 3:00pm, 3:45pm, 5:15pm, 6:00pm, 6:30pm, 7:00pm, 9:15pm, 10:00pm, 10:30pm, 11:00pm), Mon 11/14 (11:00am, 11:30am, 12:00pm, 12:30pm, 2:00pm, 3:00pm, 3:30pm, 4:00pm, 6:00pm, 7:00pm, 7:30pm, 8:00pm), Tue 11/15 (11:00am, 11:30am, 12:00pm, 12:30pm, 2:00pm, 3:00pm, 3:30pm, 4:00pm, 6:00pm, 7:00pm, 7:30pm, 8:00pm), Wed 11/16 (11:00am, 11:30am, 12:00pm, 12:30pm, 2:00pm, 3:00pm, 3:30pm, 4:00pm, 6:00pm, 7:00pm, 7:30pm, 8:00pm), Thu 11/17 (2:00pm, 2:30pm, 3:00pm, 3:30pm, 5:15pm, 6:00pm, 6:30pm, 7:00pm, 9:15pm, 10:00pm, 10:30pm, 11:00pm), Fri 11/18 (11:00am, 12:00pm, 3:00pm, 6:00pm, 7:00pm, 10:00pm, 11:00pm), Sat 11/19 (12:00pm, 3:00pm, 6:00pm, 7:00pm, 10:00pm, 11:00pm), Sun 11/20 (12:00pm, 3:00pm, 6:00pm, 7:00pm, 10:00pm, 11:00pm), Mon 11/21 (11:00am, 12:00pm, 3:00pm, 6:00pm, 7:00pm)
+
+    * [Black Panther Wakanda Forever Brunch](https://drafthouse.com/los-angeles/show/black-panther-wakanda-forever-brunch): Sat 11/12 (10:15am, 11:00am), Sun 11/13 (10:15am, 11:00am), Sat 11/19 (11:00am), Sun 11/20 (11:00am)
+
 ### Thu 9/29 2:23pm
 
 * New screenings: 
