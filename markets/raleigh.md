@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Mon 10/3 11:34am
+* New movies: Joint Security Area, Miracle Valley, Memories of Murder
+
+* New screenings: 
+    * [Graveyard Shift Miracle Valley](https://drafthouse.com/raleigh/show/graveyard-shift-miracle-valley): Mon 10/17 (7:15pm)
+
+    * [Joint Security Area](https://drafthouse.com/raleigh/show/joint-security-area): Sat 10/15 (12:00pm), Sat 10/22 (3:45pm)
+
+    * [Memories Of Murder](https://drafthouse.com/raleigh/show/memories-of-murder): Sat 10/8 (4:15pm)
+
 ### Sun 10/2 11:30am
 * New movies: Black Panther: Wakanda Forever
 
