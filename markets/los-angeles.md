@@ -1,6 +1,60 @@
 # los-angeles
 
 ## Movie updates
+### Mon 10/3 3:25pm
+* New movies: Piggy, The Craft, Bros, Bride of Chucky, Candyman 1992, Let the Right One In, Universal Soldier: Day of Reckoning, Fright Night
+
+* New screenings: 
+    * [Amsterdam](https://drafthouse.com/los-angeles/show/amsterdam): Thu 10/6 (7:15pm, 10:40pm), Fri 10/7 (11:00am, 2:20pm, 5:45pm, 9:15pm), Sat 10/8 (11:00am, 2:20pm, 5:45pm, 9:15pm), Sun 10/9 (11:00am, 2:20pm, 5:45pm), Mon 10/10 (12:00pm, 1:30pm, 2:20pm, 3:30pm, 5:45pm, 6:30pm), Tue 10/11 (11:00am, 11:50am, 2:20pm, 3:30pm, 7:00pm), Wed 10/12 (11:30am, 1:00pm, 3:30pm, 4:30pm, 7:00pm)
+
+    * [Barbarian](https://drafthouse.com/los-angeles/show/barbarian): Thu 10/6 (4:30pm, 7:30pm, 10:30pm), Fri 10/7 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Sat 10/8 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Sun 10/9 (1:15pm, 4:15pm, 7:15pm), Mon 10/10 (12:25pm, 4:15pm, 7:15pm), Tue 10/11 (12:00pm, 2:50pm, 6:15pm), Wed 10/12 (1:15pm, 4:15pm, 7:15pm)
+
+    * [Bride Of Chucky](https://drafthouse.com/los-angeles/show/bride-of-chucky): Fri 10/7 (10:15pm), Sat 10/8 (10:10pm)
+
+    * [Bros](https://drafthouse.com/los-angeles/show/bros): Thu 10/6 (2:45pm, 3:45pm, 5:45pm, 6:30pm, 9:45pm), Fri 10/7 (11:45am, 3:15pm, 6:30pm, 9:45pm), Sat 10/8 (3:15pm, 6:30pm, 9:45pm), Sun 10/9 (3:15pm, 6:30pm), Mon 10/10 (11:15am, 3:15pm, 6:30pm), Tue 10/11 (11:45am, 3:15pm, 6:30pm), Wed 10/12 (12:45pm, 3:15pm, 6:30pm)
+
+    * [Brunch Screenings Bros Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-bros-brunch): Sat 10/8 (11:45am), Sun 10/9 (11:45am)
+
+    * [Candyman 1992](https://drafthouse.com/los-angeles/show/candyman-1992): Fri 10/7 (11:45am)
+
+    * [Dont Worry Darling](https://drafthouse.com/los-angeles/show/dont-worry-darling): Thu 10/6 (3:30pm, 6:45pm, 9:30pm), Fri 10/7 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Sat 10/8 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Sun 10/9 (12:15pm, 3:30pm, 6:45pm), Mon 10/10 (12:10pm, 3:30pm, 6:45pm), Tue 10/11 (12:20pm, 3:30pm, 6:45pm), Wed 10/12 (12:15pm, 3:30pm, 6:45pm)
+
+    * [Fantastic Fest Presents Piggy](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-piggy): Fri 10/7 (2:40pm, 7:30pm, 10:45pm), Sat 10/8 (4:45pm, 7:30pm, 10:30pm), Sun 10/9 (2:05pm, 4:45pm, 7:30pm), Mon 10/10 (3:45pm), Tue 10/11 (3:15pm, 5:15pm), Wed 10/12 (12:45pm)
+
+    * [Fist City Universal Soldier Day Of Reckoning](https://drafthouse.com/los-angeles/show/fist-city-universal-soldier-day-of-reckoning): Tue 10/11 (5:45pm)
+
+    * [Ghostbusters 1984](https://drafthouse.com/los-angeles/show/ghostbusters-1984): Thu 10/6 (8:45pm)
+
+    * [Gods Creatures](https://drafthouse.com/los-angeles/show/gods-creatures): Thu 10/6 (4:15pm)
+
+    * [Let The Right One In](https://drafthouse.com/los-angeles/show/let-the-right-one-in): Fri 10/7 (4:25pm), Mon 10/10 (1:10pm), Tue 10/11 (11:45am)
+
+    * [Lyle Lyle Crocodile](https://drafthouse.com/los-angeles/show/lyle-lyle-crocodile): Mon 10/10 (12:00pm, 3:00pm, 6:00pm), Tue 10/11 (12:00pm, 3:00pm, 6:00pm), Wed 10/12 (12:00pm, 3:00pm, 6:00pm)
+
+    * [Mean Girls](https://drafthouse.com/los-angeles/show/mean-girls): Thu 10/6 (3:00pm)
+
+    * [Memories Of Murder](https://drafthouse.com/los-angeles/show/memories-of-murder): Fri 10/7 (1:00pm), Sat 10/8 (1:00pm), Tue 10/11 (1:50pm)
+
+    * [Mona Lisa And The Blood Moon](https://drafthouse.com/los-angeles/show/mona-lisa-and-the-blood-moon): Thu 10/6 (3:00pm, 9:30pm), Fri 10/7 (3:00pm, 9:30pm), Sat 10/8 (3:00pm, 9:30pm), Sun 10/9 (3:00pm), Mon 10/10 (3:00pm), Tue 10/11 (3:00pm), Wed 10/12 (3:00pm)
+
+    * [Moonage Daydream](https://drafthouse.com/los-angeles/show/moonage-daydream): Thu 10/6 (3:00pm, 6:00pm), Fri 10/7 (11:30am, 6:00pm), Sat 10/8 (11:30am, 6:00pm), Sun 10/9 (11:30am, 6:00pm), Mon 10/10 (11:30am, 6:00pm), Tue 10/11 (11:30am, 6:00pm), Wed 10/12 (11:45am, 6:00pm)
+
+    * [Peaches Christ Presents Queer Horror Fright Night](https://drafthouse.com/los-angeles/show/peaches-christ-presents-queer-horror-fright-night): Sun 10/9 (6:30pm)
+
+    * [Pearl](https://drafthouse.com/los-angeles/show/pearl): Thu 10/6 (2:30pm, 8:00pm, 11:00pm), Fri 10/7 (4:45pm, 7:45pm, 10:40pm), Sat 10/8 (4:45pm, 7:45pm, 10:40pm), Sun 10/9 (4:45pm, 7:45pm), Mon 10/10 (4:45pm, 7:45pm), Tue 10/11 (4:45pm, 7:45pm), Wed 10/12 (4:45pm, 7:45pm)
+
+    * [See How They Run](https://drafthouse.com/los-angeles/show/see-how-they-run): Thu 10/6 (5:15pm), Fri 10/7 (11:15am, 2:00pm), Sat 10/8 (11:15am, 2:00pm), Sun 10/9 (11:15am, 2:00pm), Mon 10/10 (11:15am, 2:00pm), Tue 10/11 (11:15am, 2:00pm), Wed 10/12 (11:15am, 2:00pm)
+
+    * [Smile](https://drafthouse.com/los-angeles/show/smile): Thu 10/6 (3:45pm, 7:00pm, 10:20pm), Fri 10/7 (12:30pm, 3:45pm, 7:00pm, 10:20pm), Sat 10/8 (12:30pm, 3:45pm, 7:00pm, 10:20pm), Sun 10/9 (12:30pm, 3:45pm, 7:00pm), Mon 10/10 (12:40pm, 3:45pm, 7:00pm), Tue 10/11 (12:30pm, 3:45pm, 7:00pm), Wed 10/12 (12:30pm, 3:45pm, 7:00pm)
+
+    * [Some Like It Rare](https://drafthouse.com/los-angeles/show/some-like-it-rare): Fri 10/7 (5:20pm), Sat 10/8 (4:20pm), Mon 10/10 (1:00pm), Tue 10/11 (11:15am)
+
+    * [The Craft Brunch](https://drafthouse.com/los-angeles/show/the-craft-brunch): Sat 10/8 (11:15am), Sun 10/9 (11:15am)
+
+    * [The Woman King](https://drafthouse.com/los-angeles/show/the-woman-king): Thu 10/6 (3:15pm, 6:45pm, 10:15pm), Fri 10/7 (11:45am, 3:15pm, 6:45pm, 10:15pm), Sat 10/8 (11:45am, 3:15pm, 6:45pm, 10:15pm), Sun 10/9 (11:45am, 3:15pm, 6:45pm), Mon 10/10 (11:45am, 3:15pm, 6:45pm), Tue 10/11 (11:40am, 3:15pm, 6:45pm), Wed 10/12 (11:45am, 3:15pm, 6:45pm)
+
+    * [Voyage Of The Rock Aliens](https://drafthouse.com/los-angeles/show/voyage-of-the-rock-aliens): Wed 10/12 (8:00pm)
+
 ### Sun 10/2 11:39pm
 * New movies: Black Panther: Wakanda Forever, Black Panther: Wakanda Forever
 
