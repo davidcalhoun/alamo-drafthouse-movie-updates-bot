@@ -1,6 +1,30 @@
 # raleigh
 
 ## Movie updates
+### Tue 10/4 4:34pm
+* New movies: Shaun of the Dead, Beetlejuice, The Lost Boys, The Guest, Trick 'r Treat, All About Evil, The Gangster, the Cop, the Devil, ParaNorman, The Shining, A NIGHTMARE ON ELM STREET
+
+* New screenings: 
+    * [A Nightmare On Elm Street](https://drafthouse.com/raleigh/show/a-nightmare-on-elm-street): Sat 10/22 (10:00pm)
+
+    * [Graveyard Shift The Guest](https://drafthouse.com/raleigh/show/graveyard-shift-the-guest): Mon 10/24 (7:00pm)
+
+    * [Graveyard Shift Trick R Treat](https://drafthouse.com/raleigh/show/graveyard-shift-trick-r-treat): Mon 10/31 (9:30pm)
+
+    * [Movie Party Beetlejuice](https://drafthouse.com/raleigh/show/movie-party-beetlejuice): Tue 10/18 (7:00pm), Fri 10/28 (7:00pm)
+
+    * [Movie Party Shaun Of The Dead](https://drafthouse.com/raleigh/show/movie-party-shaun-of-the-dead): Tue 10/25 (7:00pm), Sat 10/29 (9:30pm), Mon 10/31 (7:00pm)
+
+    * [Movie Party The Lost Boys](https://drafthouse.com/raleigh/show/movie-party-the-lost-boys): Fri 10/21 (7:00pm), Thu 10/27 (7:00pm)
+
+    * [Paranorman](https://drafthouse.com/raleigh/show/paranorman): Mon 10/31 (3:00pm)
+
+    * [Peaches Christ Presents Queer Horror All About Evil](https://drafthouse.com/raleigh/show/peaches-christ-presents-queer-horror-all-about-evil): Sun 10/23 (7:00pm)
+
+    * [The Gangster The Cop The Devil](https://drafthouse.com/raleigh/show/the-gangster-the-cop-the-devil): Wed 11/2 (7:30pm)
+
+    * [The Shining](https://drafthouse.com/raleigh/show/the-shining): Fri 10/28 (9:30pm)
+
 ### Mon 10/3 6:30pm
 * New movies: Piggy, Bride of Chucky, Let the Right One In
 
