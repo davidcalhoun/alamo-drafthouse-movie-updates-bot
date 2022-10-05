@@ -1,6 +1,20 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/5 3:26pm
+* New movies: Shaun of the Dead, The Rocky Horror Picture Show, The Crow, Joint Security Area, Miracle Valley
+
+* New screenings: 
+    * [Graveyard Shift Miracle Valley](https://drafthouse.com/los-angeles/show/graveyard-shift-miracle-valley): Tue 10/18 (7:45pm)
+
+    * [Graveyard Shift The Crow](https://drafthouse.com/los-angeles/show/graveyard-shift-the-crow): Mon 10/17 (7:45pm)
+
+    * [Joint Security Area](https://drafthouse.com/los-angeles/show/joint-security-area): Sun 10/16 (11:30am)
+
+    * [Movie Party Shaun Of The Dead](https://drafthouse.com/los-angeles/show/movie-party-shaun-of-the-dead): Sat 10/22 (7:30pm), Fri 10/28 (9:15pm), Sun 10/30 (7:00pm)
+
+    * [Movie Party The Rocky Horror Picture Show](https://drafthouse.com/los-angeles/show/movie-party-the-rocky-horror-picture-show): Sat 10/29 (9:15pm), Mon 10/31 (7:00pm)
+
 ### Wed 10/5 2:21pm
 * New movies: Catherine Called Birdy
 
