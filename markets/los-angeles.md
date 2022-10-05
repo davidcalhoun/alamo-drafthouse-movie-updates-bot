@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/5 9:54am
+* New movies: Decision to Leave
+
+* New screenings: 
+    * [Decision To Leave](https://drafthouse.com/los-angeles/show/decision-to-leave): Thu 10/20 (7:00pm, 10:30pm), Fri 10/21 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sat 10/22 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sun 10/23 (12:00pm, 3:30pm, 7:00pm)
+
 ### Tue 10/4 9:01pm
 * New movies: Beetlejuice
 
