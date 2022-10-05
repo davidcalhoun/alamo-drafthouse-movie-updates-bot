@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 10/4 9:01pm
+* New movies: Beetlejuice
+
+* New screenings: 
+    * [Movie Party Beetlejuice](https://drafthouse.com/los-angeles/show/movie-party-beetlejuice): Sun 10/9 (11:15am), Tue 10/11 (6:00pm)
+
 ### Mon 10/3 3:25pm
 * New movies: Piggy, The Craft, Bros, Bride of Chucky, Candyman 1992, Let the Right One In, Universal Soldier: Day of Reckoning, Fright Night
 
