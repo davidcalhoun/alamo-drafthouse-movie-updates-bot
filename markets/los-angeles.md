@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/5 2:21pm
+* New movies: Catherine Called Birdy
+
+* New screenings: 
+    * [Live Q A Catherine Called Birdy](https://drafthouse.com/los-angeles/show/live-q-a-catherine-called-birdy): Sat 10/8 (7:00pm)
+
 ### Wed 10/5 9:54am
 * New movies: Decision to Leave
 
