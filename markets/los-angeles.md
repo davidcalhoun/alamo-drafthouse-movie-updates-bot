@@ -1,6 +1,30 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/5 4:28pm
+* New movies: Psycho 1960, The Shining, Trick 'r Treat, A Nightmare on Elm Street 1984, The Guest, Scream, Slash/Back, The Gangster, the Cop, the Devil, Gojira 1954
+
+* New screenings: 
+    * [A Nightmare On Elm Street](https://drafthouse.com/los-angeles/show/a-nightmare-on-elm-street): Thu 10/27 (10:00pm), Sat 10/29 (10:50pm)
+
+    * [Gojira 4k Restoration](https://drafthouse.com/los-angeles/show/gojira-4k-restoration): Thu 11/3 (7:00pm)
+
+    * [Graveyard Shift The Guest](https://drafthouse.com/los-angeles/show/graveyard-shift-the-guest): Mon 10/24 (7:45pm)
+
+    * [Graveyard Shift Trick R Treat](https://drafthouse.com/los-angeles/show/graveyard-shift-trick-r-treat): Sat 10/29 (6:00pm), Mon 10/31 (7:45pm)
+
+    * [Peaches Christ Presents Queer Horror Psycho 1960](https://drafthouse.com/los-angeles/show/peaches-christ-presents-queer-horror-psycho-1960): Sat 10/22 (2:30pm), Sun 10/23 (2:15pm)
+
+    * [Scream Brunch](https://drafthouse.com/los-angeles/show/scream-brunch): Sat 10/15 (11:15am)
+
+    * [Slash Back](https://drafthouse.com/los-angeles/show/slash-back): Fri 10/21 (9:30pm), Sat 10/22 (10:00pm), Sun 10/23 (8:15pm)
+
+    * [The Craft Brunch](https://drafthouse.com/los-angeles/show/the-craft-brunch): Sat 10/22 (11:30am)
+
+    * [The Gangster The Cop The Devil](https://drafthouse.com/los-angeles/show/the-gangster-the-cop-the-devil): Sun 10/30 (5:30pm)
+
+    * [The Shining](https://drafthouse.com/los-angeles/show/the-shining): Fri 10/28 (5:45pm), Sat 10/29 (8:30pm), Mon 10/31 (4:15pm)
+
 ### Wed 10/5 3:26pm
 * New movies: Shaun of the Dead, The Rocky Horror Picture Show, The Crow, Joint Security Area, Miracle Valley
 
