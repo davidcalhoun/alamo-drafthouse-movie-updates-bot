@@ -1,6 +1,18 @@
 # raleigh
 
 ## Movie updates
+### Wed 10/5 1:00pm
+* New movies: Decision to Leave, TAR, Psycho 1960
+
+* New screenings: 
+    * [Decision To Leave](https://drafthouse.com/raleigh/show/decision-to-leave): Thu 10/27 (7:15pm), Fri 10/28 (7:15pm), Sat 10/29 (7:00pm)
+
+    * [Paranorman](https://drafthouse.com/raleigh/show/paranorman): Sun 10/30 (5:30pm)
+
+    * [Peaches Christ Presents Queer Horror Psycho 1960](https://drafthouse.com/raleigh/show/peaches-christ-presents-queer-horror-psycho-1960): Sun 10/23 (3:45pm), Wed 10/26 (7:00pm)
+
+    * [Tar](https://drafthouse.com/raleigh/show/tar): Thu 10/27 (7:30pm), Fri 10/28 (6:15pm, 10:00pm), Sat 10/29 (6:00pm, 9:45pm), Sun 10/30 (5:55pm)
+
 ### Tue 10/4 4:34pm
 * New movies: Shaun of the Dead, Beetlejuice, The Lost Boys, The Guest, Trick 'r Treat, All About Evil, The Gangster, the Cop, the Devil, ParaNorman, The Shining, A NIGHTMARE ON ELM STREET
 
