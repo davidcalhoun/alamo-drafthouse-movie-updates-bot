@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 10/6 11:32am
+* New movies: One Piece Film: Red Subtitled, One Piece Film: Red Dubbed
+
+* New screenings: 
+    * [One Piece Film Red Dubbed](https://drafthouse.com/los-angeles/show/one-piece-film-red-dubbed): Thu 11/3 (5:00pm), Fri 11/4 (3:15pm), Sat 11/5 (9:45pm), Sun 11/6 (6:30pm), Mon 11/7 (3:15pm), Tue 11/8 (12:00pm), Wed 11/9 (6:30pm)
+
+    * [One Piece Film Red Subtitled](https://drafthouse.com/los-angeles/show/one-piece-film-red-subtitled): Thu 11/3 (8:00pm, 11:00pm), Fri 11/4 (12:00pm, 6:30pm, 9:45pm), Sat 11/5 (12:00pm, 3:15pm, 6:30pm), Sun 11/6 (12:00pm, 3:15pm), Mon 11/7 (12:00pm, 6:30pm), Tue 11/8 (3:15pm, 6:30pm), Wed 11/9 (12:00pm, 3:15pm)
+
 ### Wed 10/5 9:49pm
 * New movies: All Jacked Up and Full of Worms
 
