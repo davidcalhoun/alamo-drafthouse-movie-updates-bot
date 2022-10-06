@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 10/6 2:40pm
+* New movies: Gojira 1954
+
+* New screenings: 
+    * [Gojira 4k Restoration](https://drafthouse.com/raleigh/show/gojira-4k-restoration): Thu 11/3 (7:00pm)
+
 ### Wed 10/5 1:00pm
 * New movies: Decision to Leave, TAR, Psycho 1960
 
