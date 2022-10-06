@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Thu 10/6 3:31pm
+* New movies: One Piece Film: Red Subtitled, One Piece Film: Red Dubbed
+
+* New screenings: 
+    * [One Piece Film Red Dubbed](https://drafthouse.com/raleigh/show/one-piece-film-red-dubbed): Sat 11/5 (1:15pm), Sun 11/6 (7:00pm), Mon 11/7 (7:00pm), Wed 11/9 (7:00pm)
+
+    * [One Piece Film Red Subtitled](https://drafthouse.com/raleigh/show/one-piece-film-red-subtitled): Thu 11/3 (5:45pm), Fri 11/4 (7:00pm), Sat 11/5 (7:00pm), Sun 11/6 (4:00pm), Tue 11/8 (7:00pm), Thu 11/10 (7:30pm)
+
 ### Thu 10/6 2:40pm
 * New movies: Gojira 1954
 
