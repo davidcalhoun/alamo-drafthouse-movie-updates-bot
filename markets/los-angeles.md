@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 10/6 1:26pm
+* New movies: Tokyo Godfathers Dubbed
+
+* New screenings: 
+    * [Tokyo Godfathers Dubbed](https://drafthouse.com/los-angeles/show/tokyo-godfathers-dubbed): Mon 12/12 (8:00pm)
+
 ### Thu 10/6 11:32am
 * New movies: One Piece Film: Red Subtitled, One Piece Film: Red Dubbed
 
