@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/5 9:49pm
+* New movies: All Jacked Up and Full of Worms
+
+* New screenings: 
+    * [All Jacked Up And Full Of Worms](https://drafthouse.com/los-angeles/show/all-jacked-up-and-full-of-worms): Mon 11/7 (8:00pm)
+
 ### Wed 10/5 4:28pm
 * New movies: Psycho 1960, The Shining, Trick 'r Treat, A Nightmare on Elm Street 1984, The Guest, Scream, Slash/Back, The Gangster, the Cop, the Devil, Gojira 1954
 
