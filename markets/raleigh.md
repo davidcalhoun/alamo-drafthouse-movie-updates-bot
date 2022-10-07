@@ -1,6 +1,22 @@
 # raleigh
 
 ## Movie updates
+### Fri 10/7 2:39pm
+* New movies: Elf, National Lampoon's Christmas Vacation, Tokyo Godfathers Subtitled, Gremlins, The Polar Express
+
+* New screenings: 
+    * [Gojira 4k Restoration](https://drafthouse.com/raleigh/show/gojira-4k-restoration): Thu 11/3 (4:20pm, 9:45pm)
+
+    * [Movie Party Elf](https://drafthouse.com/raleigh/show/movie-party-elf): Fri 12/9 (7:00pm), Sun 12/11 (4:00pm), Wed 12/14 (7:00pm)
+
+    * [Movie Party Gremlins](https://drafthouse.com/raleigh/show/movie-party-gremlins): Wed 12/7 (7:00pm), Sat 12/10 (7:00pm)
+
+    * [Movie Party National Lampoons Christmas Vacation](https://drafthouse.com/raleigh/show/movie-party-national-lampoons-christmas-vacation): Sat 12/10 (10:00pm), Sun 12/11 (7:00pm), Tue 12/13 (7:00pm)
+
+    * [Movie Party The Polar Express](https://drafthouse.com/raleigh/show/movie-party-the-polar-express): Sat 12/3 (4:00pm), Sun 12/11 (1:00pm)
+
+    * [Tokyo Godfathers Subtitled](https://drafthouse.com/raleigh/show/tokyo-godfathers-subtitled): Mon 12/12 (7:30pm), Wed 12/14 (3:30pm)
+
 ### Thu 10/6 3:31pm
 * New movies: One Piece Film: Red Subtitled, One Piece Film: Red Dubbed
 
