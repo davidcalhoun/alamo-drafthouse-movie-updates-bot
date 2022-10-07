@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 10/7 6:31pm
+
+* New screenings: 
+    * [Movie Party Elf](https://drafthouse.com/raleigh/show/movie-party-elf): Sun 12/4 (7:00pm)
+
 ### Fri 10/7 2:39pm
 * New movies: Elf, National Lampoon's Christmas Vacation, Tokyo Godfathers Subtitled, Gremlins, The Polar Express
 
