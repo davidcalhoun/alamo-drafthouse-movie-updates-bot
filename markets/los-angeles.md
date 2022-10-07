@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 10/7 12:23pm
+* New movies: Anvil! The Story of Anvil
+
+* New screenings: 
+    * [Anvil The Story Of Anvil](https://drafthouse.com/los-angeles/show/anvil-the-story-of-anvil): Sat 10/8 (2:05pm)
+
 ### Thu 10/6 1:26pm
 * New movies: Tokyo Godfathers Dubbed
 
