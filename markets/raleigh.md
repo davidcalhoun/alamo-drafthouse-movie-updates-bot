@@ -1,6 +1,17 @@
 # raleigh
 
 ## Movie updates
+### Sat 10/8 12:39pm
+
+* New screenings: 
+    * [Barbarian](https://drafthouse.com/raleigh/show/barbarian): Sat 10/8 (11:30pm)
+
+    * [Smile](https://drafthouse.com/raleigh/show/smile): Sat 10/8 (10:15pm)
+
+    * [Terrifier 2](https://drafthouse.com/raleigh/show/terrifier-2): Sat 10/8 (10:50pm)
+
+    * [The Craft Brunch](https://drafthouse.com/raleigh/show/the-craft-brunch): Sun 10/9 (3:30pm)
+
 ### Fri 10/7 6:31pm
 
 * New screenings: 
