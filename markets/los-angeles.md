@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Fri 10/7 6:58pm
+* New movies: Elf, The Polar Express
+
+* New screenings: 
+    * [Gojira 4k Restoration](https://drafthouse.com/los-angeles/show/gojira-4k-restoration): Thu 11/3 (9:45pm), Sat 11/5 (10:00pm), Sun 11/6 (7:15pm)
+
+    * [Movie Party Elf](https://drafthouse.com/los-angeles/show/movie-party-elf): Sun 12/11 (7:00pm), Tue 12/13 (7:00pm)
+
+    * [Movie Party The Polar Express](https://drafthouse.com/los-angeles/show/movie-party-the-polar-express): Sat 12/10 (7:00pm), Sun 12/11 (1:00pm)
+
 ### Fri 10/7 12:23pm
 * New movies: Anvil! The Story of Anvil
 
