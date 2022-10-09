@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Sun 10/9 6:41am
+* New movies: DogVideoFest 2022
+
+* New screenings: 
+    * [Dog Video Fest 2022](https://drafthouse.com/los-angeles/show/dog-video-fest-2022): Sat 10/15 (2:20pm)
+
 ### Fri 10/7 6:58pm
 * New movies: Elf, The Polar Express
 
