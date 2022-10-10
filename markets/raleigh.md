@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 10/10 6:31pm
+
+* New screenings: 
+    * [Halloween Ends](https://drafthouse.com/raleigh/show/halloween-ends): Sun 10/16 (2:00pm, 5:00pm, 8:00pm, 10:55pm)
+
 ### Mon 10/10 4:32pm
 * New movies: The Craft
 
