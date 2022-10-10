@@ -1,6 +1,38 @@
 # raleigh
 
 ## Movie updates
+### Mon 10/10 4:32pm
+* New movies: The Craft
+
+* New screenings: 
+    * [Amsterdam](https://drafthouse.com/raleigh/show/amsterdam): Thu 10/13 (11:20am, 2:40pm, 6:15pm, 9:40pm)
+
+    * [Barbarian](https://drafthouse.com/raleigh/show/barbarian): Thu 10/13 (1:20pm, 4:30pm, 8:15pm, 11:00pm)
+
+    * [Bros](https://drafthouse.com/raleigh/show/bros): Thu 10/13 (1:30pm, 3:30pm, 7:30pm, 10:30pm)
+
+    * [Candyman 1992](https://drafthouse.com/raleigh/show/candyman-1992): Thu 10/13 (4:55pm)
+
+    * [Dont Worry Darling](https://drafthouse.com/raleigh/show/dont-worry-darling): Thu 10/13 (11:55am, 3:30pm, 6:45pm, 9:55pm)
+
+    * [Fantastic Fest Presents Piggy](https://drafthouse.com/raleigh/show/fantastic-fest-presents-piggy): Thu 10/13 (2:55pm)
+
+    * [Halloween Ends](https://drafthouse.com/raleigh/show/halloween-ends): Thu 10/13 (5:15pm, 5:30pm, 8:30pm)
+
+    * [Lyle Lyle Crocodile](https://drafthouse.com/raleigh/show/lyle-lyle-crocodile): Thu 10/13 (11:15am, 1:00pm, 2:10pm, 4:00pm, 7:45pm, 10:40pm)
+
+    * [Moonage Daydream](https://drafthouse.com/raleigh/show/moonage-daydream): Thu 10/13 (11:30am)
+
+    * [Pearl](https://drafthouse.com/raleigh/show/pearl): Thu 10/13 (2:00pm)
+
+    * [See How They Run](https://drafthouse.com/raleigh/show/see-how-they-run): Thu 10/13 (2:30pm)
+
+    * [Smile](https://drafthouse.com/raleigh/show/smile): Thu 10/13 (12:30pm, 3:15pm, 7:15pm, 10:15pm)
+
+    * [The Craft](https://drafthouse.com/raleigh/show/the-craft): Thu 10/13 (11:45am)
+
+    * [The Woman King](https://drafthouse.com/raleigh/show/the-woman-king): Thu 10/13 (12:00pm, 4:10pm, 6:30pm, 9:50pm)
+
 ### Mon 10/10 3:32pm
 * New movies: Scream
 
