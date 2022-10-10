@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 10/10 10:40am
+
+* New screenings: 
+    * [Amsterdam](https://drafthouse.com/los-angeles/show/amsterdam): Mon 10/10 (2:35pm)
+
 ### Mon 10/10 9:37am
 * New movies: Glass Onion: A Knives Out Mystery, Glass Onion: A Knives Out Mystery
 
