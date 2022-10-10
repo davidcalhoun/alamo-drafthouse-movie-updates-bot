@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Mon 10/10 9:37am
+* New movies: Glass Onion: A Knives Out Mystery, Glass Onion: A Knives Out Mystery
+
+* New screenings: 
+    * [Glass Onion Knives Out Mystery](https://drafthouse.com/los-angeles/show/glass-onion-knives-out-mystery): Wed 11/23 (12:00pm, 3:30pm, 7:00pm), Thu 11/24 (3:30pm, 7:00pm, 10:30pm), Fri 11/25 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sat 11/26 (3:30pm, 7:00pm, 10:30pm), Sun 11/27 (3:30pm, 7:00pm), Mon 11/28 (12:00pm, 3:30pm, 7:00pm), Tue 11/29 (12:00pm, 3:30pm, 7:00pm)
+
+    * [Special Menu Glass Onion A Knives Out Mystery Brunch](https://drafthouse.com/los-angeles/show/special-menu-glass-onion-a-knives-out-mystery-brunch): Sat 11/26 (12:00pm), Sun 11/27 (12:00pm)
+
 ### Sun 10/9 6:41am
 * New movies: DogVideoFest 2022
 
