@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 10/10 3:32pm
+* New movies: Scream
+
+* New screenings: 
+    * [Scream Brunch](https://drafthouse.com/raleigh/show/scream-brunch): Sat 10/15 (11:00am), Sun 10/16 (11:00am)
+
 ### Mon 10/10 2:44pm
 
 * New screenings: 
