@@ -1,6 +1,48 @@
 # los-angeles
 
 ## Movie updates
+### Mon 10/10 2:22pm
+* New movies: Old Man, Stars At Noon
+
+* New screenings: 
+    * [Akira](https://drafthouse.com/los-angeles/show/akira): Mon 10/17 (4:20pm, 6:00pm), Tue 10/18 (11:15am), Wed 10/19 (11:15am)
+
+    * [Amsterdam](https://drafthouse.com/los-angeles/show/amsterdam): Thu 10/13 (3:00pm, 6:30pm, 10:00pm), Fri 10/14 (11:30am, 3:00pm, 6:30pm, 10:00pm), Sat 10/15 (11:30am, 3:00pm, 6:30pm, 10:00pm), Sun 10/16 (11:45am, 3:15pm, 6:45pm), Mon 10/17 (11:45am, 3:15pm, 6:45pm), Tue 10/18 (11:45am, 3:15pm, 6:45pm), Wed 10/19 (11:45am, 3:15pm, 6:45pm)
+
+    * [Barbarian](https://drafthouse.com/los-angeles/show/barbarian): Thu 10/13 (4:15pm, 7:15pm, 10:15pm), Fri 10/14 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Sat 10/15 (1:15pm, 4:15pm, 7:15pm, 10:00pm), Sun 10/16 (1:15pm, 4:15pm, 7:15pm), Mon 10/17 (1:15pm, 4:15pm, 7:15pm), Tue 10/18 (1:15pm, 4:15pm, 7:15pm), Wed 10/19 (1:15pm, 4:15pm, 7:15pm)
+
+    * [Bros](https://drafthouse.com/los-angeles/show/bros): Thu 10/13 (3:45pm, 6:45pm, 9:50pm), Fri 10/14 (12:30pm, 3:40pm, 6:45pm, 9:50pm), Sat 10/15 (12:30pm, 3:40pm, 6:45pm, 9:45pm), Sun 10/16 (12:30pm, 3:40pm, 6:00pm), Mon 10/17 (12:30pm, 3:40pm, 6:45pm), Tue 10/18 (12:30pm, 3:40pm, 6:45pm), Wed 10/19 (12:30pm, 3:40pm, 6:45pm)
+
+    * [Dont Worry Darling](https://drafthouse.com/los-angeles/show/dont-worry-darling): Thu 10/13 (4:30pm, 7:45pm), Fri 10/14 (4:30pm, 7:45pm), Sat 10/15 (4:30pm, 7:45pm), Sun 10/16 (4:30pm, 7:45pm), Mon 10/17 (4:30pm, 7:45pm), Tue 10/18 (4:30pm, 6:00pm), Wed 10/19 (4:30pm, 6:00pm)
+
+    * [Fantastic Fest Presents Piggy](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-piggy): Thu 10/13 (4:15pm)
+
+    * [Graveyard Shift Miracle Valley](https://drafthouse.com/los-angeles/show/graveyard-shift-miracle-valley): Wed 10/19 (7:45pm)
+
+    * [Halloween Ends](https://drafthouse.com/los-angeles/show/halloween-ends): Thu 10/13 (5:45pm, 8:50pm), Fri 10/14 (11:15am, 2:20pm, 5:30pm, 8:40pm), Sat 10/15 (5:00pm, 8:00pm, 11:00pm), Sun 10/16 (11:15am, 2:30pm, 5:30pm), Mon 10/17 (11:25am, 1:15pm, 4:25pm, 7:30pm), Tue 10/18 (11:30am, 1:15pm, 4:25pm, 7:30pm), Wed 10/19 (11:30am, 1:15pm, 4:25pm, 7:30pm)
+
+    * [Lyle Lyle Crocodile](https://drafthouse.com/los-angeles/show/lyle-lyle-crocodile): Thu 10/13 (3:15pm, 6:15pm, 9:15pm), Fri 10/14 (11:45am, 3:00pm, 6:15pm, 9:15pm), Sat 10/15 (11:45am, 3:00pm, 6:15pm, 9:15pm), Sun 10/16 (11:45am, 3:00pm, 6:15pm), Mon 10/17 (12:00pm, 3:00pm, 6:15pm), Tue 10/18 (12:00pm, 3:00pm, 6:15pm), Wed 10/19 (12:00pm, 3:00pm, 6:15pm)
+
+    * [Mona Lisa And The Blood Moon](https://drafthouse.com/los-angeles/show/mona-lisa-and-the-blood-moon): Thu 10/13 (3:00pm)
+
+    * [Moonage Daydream](https://drafthouse.com/los-angeles/show/moonage-daydream): Thu 10/13 (3:30pm)
+
+    * [Old Man](https://drafthouse.com/los-angeles/show/old-man): Fri 10/14 (10:45pm), Sat 10/15 (10:10pm), Sun 10/16 (3:15pm), Mon 10/17 (3:15pm), Tue 10/18 (3:15pm), Wed 10/19 (3:15pm)
+
+    * [Pearl](https://drafthouse.com/los-angeles/show/pearl): Thu 10/13 (11:00pm), Fri 10/14 (11:00pm), Sat 10/15 (11:00pm), Sun 10/16 (8:30pm), Mon 10/17 (6:00pm), Tue 10/18 (6:00pm), Wed 10/19 (6:00pm)
+
+    * [See How They Run](https://drafthouse.com/los-angeles/show/see-how-they-run): Thu 10/13 (3:00pm)
+
+    * [Smile](https://drafthouse.com/los-angeles/show/smile): Thu 10/13 (4:15pm, 7:30pm, 10:45pm), Fri 10/14 (1:00pm, 4:15pm, 7:30pm, 10:45pm), Sat 10/15 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Sun 10/16 (12:45pm, 4:00pm, 6:45pm), Mon 10/17 (12:45pm, 4:00pm, 7:15pm), Tue 10/18 (12:45pm, 4:50pm, 7:45pm), Wed 10/19 (1:00pm, 5:00pm, 7:45pm)
+
+    * [Stars At Noon](https://drafthouse.com/los-angeles/show/stars-at-noon): Fri 10/14 (1:00pm), Sat 10/15 (1:00pm), Sun 10/16 (1:00pm), Mon 10/17 (1:00pm), Tue 10/18 (1:00pm), Wed 10/19 (1:00pm)
+
+    * [Tar](https://drafthouse.com/los-angeles/show/tar): Thu 10/13 (7:15pm, 9:40pm), Fri 10/14 (11:30am, 3:15pm, 7:00pm), Sat 10/15 (1:00pm, 9:30pm), Sun 10/16 (11:30am, 6:00pm), Mon 10/17 (11:30am, 12:30pm, 2:45pm, 6:30pm), Tue 10/18 (11:30am, 1:00pm, 2:45pm, 6:30pm), Wed 10/19 (11:30am, 1:15pm, 2:45pm, 6:30pm)
+
+    * [The Woman King](https://drafthouse.com/los-angeles/show/the-woman-king): Thu 10/13 (3:30pm)
+
+    * [Triangle Of Sadness](https://drafthouse.com/los-angeles/show/triangle-of-sadness): Thu 10/13 (11:00pm), Fri 10/14 (11:00am, 2:30pm, 9:30pm), Sat 10/15 (11:00am, 2:30pm, 6:00pm), Mon 10/17 (11:00am, 12:00pm, 2:30pm, 3:30pm, 7:00pm), Tue 10/18 (12:15pm, 2:30pm, 4:00pm, 7:00pm), Wed 10/19 (12:00pm, 2:30pm, 3:30pm, 4:15pm, 7:00pm)
+
 ### Mon 10/10 10:40am
 
 * New screenings: 
