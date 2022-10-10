@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Mon 10/10 1:45pm
+
+* New screenings: 
+    * [Halloween Ends](https://drafthouse.com/raleigh/show/halloween-ends): Mon 10/17 (11:00am, 1:00pm, 2:00pm, 4:00pm, 5:00pm, 7:00pm, 8:00pm, 9:55pm, 10:55pm), Tue 10/18 (1:00pm, 4:00pm, 9:45pm), Wed 10/19 (11:00am, 2:00pm, 5:00pm, 8:00pm, 10:55pm)
+
+    * [Triangle Of Sadness](https://drafthouse.com/raleigh/show/triangle-of-sadness): Thu 10/20 (9:30pm)
+
 ### Mon 10/10 12:46pm
 * New movies: Glass Onion: A Knives Out Mystery
 
