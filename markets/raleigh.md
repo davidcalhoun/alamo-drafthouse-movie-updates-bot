@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Mon 10/10 2:44pm
+
+* New screenings: 
+    * [Black Adam](https://drafthouse.com/raleigh/show/black-adam): Mon 10/24 (1:00pm, 4:15pm, 7:30pm, 10:45pm), Tue 10/25 (11:30am, 2:45pm, 6:00pm, 9:15pm)
+
+    * [Triangle Of Sadness](https://drafthouse.com/raleigh/show/triangle-of-sadness): Mon 10/24 (11:30am, 3:00pm, 6:30pm, 9:55pm), Tue 10/25 (12:00pm, 3:30pm, 10:00pm)
+
 ### Mon 10/10 1:45pm
 
 * New screenings: 
