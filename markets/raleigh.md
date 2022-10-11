@@ -1,6 +1,15 @@
 # raleigh
 
 ## Movie updates
+### Tue 10/11 12:45pm
+
+* New screenings: 
+    * [Howls Moving Castle Dubbed](https://drafthouse.com/raleigh/show/howls-moving-castle-dubbed): Sun 10/30 (8:15pm), Mon 10/31 (3:00pm)
+
+    * [Movie Party Gremlins](https://drafthouse.com/raleigh/show/movie-party-gremlins): Sat 12/10 (4:00pm)
+
+    * [Movie Party National Lampoons Christmas Vacation](https://drafthouse.com/raleigh/show/movie-party-national-lampoons-christmas-vacation): Tue 11/29 (7:00pm)
+
 ### Mon 10/10 10:41pm
 * New movies: Terrifier 2, Stars At Noon, The Crow, Old Man
 
