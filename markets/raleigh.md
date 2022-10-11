@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Tue 10/11 1:37pm
+* New movies: Batman Returns, Lady Snowblood
+
+* New screenings: 
+    * [Batman Returns](https://drafthouse.com/raleigh/show/batman-returns): Mon 12/12 (3:00pm), Tue 12/13 (9:15pm)
+
+    * [Fist City Lady Snowblood](https://drafthouse.com/raleigh/show/fist-city-lady-snowblood): Mon 12/5 (7:00pm)
+
+    * [Movie Party Elf](https://drafthouse.com/raleigh/show/movie-party-elf): Tue 12/6 (7:00pm)
+
 ### Tue 10/11 12:45pm
 
 * New screenings: 
