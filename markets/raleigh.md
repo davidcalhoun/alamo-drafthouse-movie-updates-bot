@@ -1,6 +1,40 @@
 # raleigh
 
 ## Movie updates
+### Mon 10/10 10:41pm
+* New movies: Terrifier 2, Stars At Noon, The Crow, Old Man
+
+* New screenings: 
+    * [Akira](https://drafthouse.com/raleigh/show/akira): Fri 10/14 (1:15pm), Sun 10/16 (4:30pm), Tue 10/18 (1:15pm), Wed 10/19 (2:45pm)
+
+    * [Amsterdam](https://drafthouse.com/raleigh/show/amsterdam): Fri 10/14 (11:30am, 2:55pm, 6:15pm, 9:40pm), Sat 10/15 (1:15pm, 3:25pm, 6:15pm, 9:40pm), Sun 10/16 (12:55pm, 3:25pm, 6:45pm, 10:50pm), Mon 10/17 (11:15am, 2:40pm, 6:00pm, 9:20pm), Tue 10/18 (12:50pm, 4:10pm, 6:15pm, 9:35pm), Wed 10/19 (11:25am, 2:50pm, 6:15pm, 9:35pm)
+
+    * [Barbarian](https://drafthouse.com/raleigh/show/barbarian): Fri 10/14 (8:15pm, 11:00pm), Sat 10/15 (8:15pm, 11:00pm), Sun 10/16 (8:15pm, 11:00pm), Mon 10/17 (8:15pm, 11:00pm), Tue 10/18 (8:15pm, 11:00pm), Wed 10/19 (8:15pm, 11:00pm)
+
+    * [Bros](https://drafthouse.com/raleigh/show/bros): Fri 10/14 (2:15pm, 5:15pm), Sat 10/15 (4:00pm, 5:30pm), Sun 10/16 (3:30pm, 5:30pm), Mon 10/17 (12:55pm, 4:15pm), Tue 10/18 (12:00pm, 3:30pm), Wed 10/19 (2:15pm, 5:15pm)
+
+    * [Dont Worry Darling](https://drafthouse.com/raleigh/show/dont-worry-darling): Fri 10/14 (12:45pm, 3:55pm, 7:15pm, 10:20pm), Sat 10/15 (11:45am, 3:55pm, 7:15pm, 10:30pm), Sun 10/16 (12:45pm, 4:20pm, 7:30pm, 10:40pm), Mon 10/17 (12:00pm, 3:40pm, 6:45pm, 9:50pm), Tue 10/18 (1:30pm, 4:40pm, 7:15pm, 10:25pm), Wed 10/19 (12:40pm, 3:55pm, 7:15pm, 10:50pm)
+
+    * [Graveyard Shift The Crow](https://drafthouse.com/raleigh/show/graveyard-shift-the-crow): Sat 10/15 (8:30pm), Sun 10/16 (8:30pm)
+
+    * [Halloween Ends](https://drafthouse.com/raleigh/show/halloween-ends): Fri 10/14 (11:00am, 12:00pm, 12:30pm, 2:00pm, 2:30pm, 3:30pm, 4:00pm, 5:00pm, 6:30pm, 8:00pm, 9:30pm, 10:55pm), Sat 10/15 (11:30am, 12:30pm, 2:00pm, 2:30pm, 3:30pm, 5:00pm, 6:30pm, 8:00pm, 9:30pm, 10:55pm), Sun 10/16 (12:00pm, 12:30pm, 1:30pm, 3:00pm, 10:00pm, 10:30pm), Mon 10/17 (11:30am, 12:30pm, 2:30pm, 3:30pm, 5:30pm, 8:30pm), Tue 10/18 (11:30am, 12:30pm, 2:30pm, 3:00pm, 5:30pm, 7:30pm, 8:00pm, 8:30pm, 10:30pm, 10:55pm), Wed 10/19 (11:30am, 1:00pm, 2:30pm, 4:00pm, 7:00pm, 9:55pm, 10:00pm)
+
+    * [Joint Security Area](https://drafthouse.com/raleigh/show/joint-security-area): Fri 10/14 (5:30pm), Sun 10/16 (12:15pm)
+
+    * [Lyle Lyle Crocodile](https://drafthouse.com/raleigh/show/lyle-lyle-crocodile): Fri 10/14 (11:15am, 3:00pm, 6:00pm, 9:00pm), Sat 10/15 (11:15am, 3:00pm, 6:00pm, 9:00pm), Sun 10/16 (11:25am, 2:40pm, 6:00pm, 9:00pm), Mon 10/17 (12:45pm, 3:15pm, 6:15pm, 9:10pm), Tue 10/18 (12:15pm, 3:15pm, 6:00pm, 9:00pm), Wed 10/19 (12:45pm, 3:40pm, 6:00pm, 9:00pm)
+
+    * [Old Man](https://drafthouse.com/raleigh/show/old-man): Mon 10/17 (9:45pm)
+
+    * [See How They Run](https://drafthouse.com/raleigh/show/see-how-they-run): Fri 10/14 (11:45am), Sat 10/15 (2:10pm), Sun 10/16 (2:15pm), Mon 10/17 (1:55pm), Tue 10/18 (2:10pm), Wed 10/19 (12:00pm)
+
+    * [Smile](https://drafthouse.com/raleigh/show/smile): Fri 10/14 (1:00pm, 4:40pm, 7:45pm, 10:45pm), Sat 10/15 (12:55pm, 4:45pm, 7:45pm, 10:45pm), Sun 10/16 (11:40am, 3:15pm, 6:30pm, 9:30pm), Mon 10/17 (1:15pm, 4:45pm, 7:45pm, 10:45pm), Tue 10/18 (12:25pm, 4:15pm, 7:45pm, 10:45pm), Wed 10/19 (1:30pm, 4:45pm, 7:45pm, 10:45pm)
+
+    * [Stars At Noon](https://drafthouse.com/raleigh/show/stars-at-noon): Fri 10/14 (8:30pm), Sat 10/15 (4:55pm), Sun 10/16 (4:55pm), Mon 10/17 (4:55pm), Tue 10/18 (4:55pm), Wed 10/19 (1:55pm)
+
+    * [Terrifier 2](https://drafthouse.com/raleigh/show/terrifier-2): Fri 10/14 (7:00pm, 10:40pm), Sat 10/15 (7:00pm, 10:40pm), Sun 10/16 (6:15pm, 9:50pm), Mon 10/17 (6:30pm, 10:10pm), Tue 10/18 (6:30pm, 10:10pm), Wed 10/19 (6:30pm, 10:30pm)
+
+    * [The Woman King](https://drafthouse.com/raleigh/show/the-woman-king): Fri 10/14 (12:00pm, 3:25pm, 6:45pm, 10:10pm), Sat 10/15 (11:55am, 2:55pm, 6:45pm, 10:10pm), Sun 10/16 (11:55am, 3:55pm, 7:15pm, 10:05pm), Mon 10/17 (1:30pm, 3:55pm, 7:15pm, 10:35pm), Tue 10/18 (12:55pm, 3:25pm, 6:45pm, 10:05pm), Wed 10/19 (11:55am, 3:25pm, 6:45pm, 10:10pm)
+
 ### Mon 10/10 6:31pm
 
 * New screenings: 
