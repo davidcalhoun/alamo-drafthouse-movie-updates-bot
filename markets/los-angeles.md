@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 10/11 9:37am
+* New movies: The Banshees of Inisherin
+
+* New screenings: 
+    * [The Banshees Of Inisherin](https://drafthouse.com/los-angeles/show/the-banshees-of-inisherin): Thu 10/27 (5:00pm, 8:00pm, 11:00pm), Fri 10/28 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Sat 10/29 (12:45pm, 3:50pm, 7:00pm, 10:15pm), Sun 10/30 (12:30pm, 3:45pm, 6:00pm), Mon 10/31 (12:30pm, 3:45pm)
+
 ### Mon 10/10 2:22pm
 * New movies: Old Man, Stars At Noon
 
