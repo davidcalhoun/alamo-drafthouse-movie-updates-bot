@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 10/12 1:48pm
+* New movies: The Rocky Horror Picture Show
+
+* New screenings: 
+    * [Movie Party The Rocky Horror Picture Show](https://drafthouse.com/raleigh/show/movie-party-the-rocky-horror-picture-show): Sat 10/29 (6:45pm)
+
 ### Wed 10/12 12:53pm
 * New movies: Please Baby Please
 
