@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/12 3:25pm
+* New movies: National Lampoon's Christmas Vacation, Gremlins, Batman Returns
+
+* New screenings: 
+    * [Batman Returns](https://drafthouse.com/los-angeles/show/batman-returns): Sun 12/11 (6:00pm)
+
+    * [Movie Party Elf](https://drafthouse.com/los-angeles/show/movie-party-elf): Sun 11/27 (3:00pm)
+
+    * [Movie Party Gremlins](https://drafthouse.com/los-angeles/show/movie-party-gremlins): Sun 12/11 (4:00pm)
+
+    * [Movie Party National Lampoons Christmas Vacation](https://drafthouse.com/los-angeles/show/movie-party-national-lampoons-christmas-vacation): Sat 11/26 (3:00pm), Tue 11/29 (7:00pm), Sat 12/3 (3:00pm), Thu 12/8 (9:00pm), Tue 12/13 (3:00pm)
+
 ### Tue 10/11 9:37am
 * New movies: The Banshees of Inisherin
 
