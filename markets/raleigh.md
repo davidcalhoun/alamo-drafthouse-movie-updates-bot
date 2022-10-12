@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 10/12 12:53pm
+* New movies: Please Baby Please
+
+* New screenings: 
+    * [Advance Screening Please Baby Please Early Access](https://drafthouse.com/raleigh/show/advance-screening-please-baby-please-early-access): Wed 10/26 (9:30pm)
+
 ### Tue 10/11 1:37pm
 * New movies: Batman Returns, Lady Snowblood
 
