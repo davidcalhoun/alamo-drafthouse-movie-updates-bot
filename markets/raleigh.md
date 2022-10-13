@@ -1,6 +1,20 @@
 # raleigh
 
 ## Movie updates
+### Thu 10/13 3:30pm
+* New movies: The Banshees of Inisherin, Carol, Christmas in Connecticut
+
+* New screenings: 
+    * [Black Adam](https://drafthouse.com/raleigh/show/black-adam): Tue 10/25 (12:30pm, 1:00pm, 3:45pm, 4:15pm, 10:55pm)
+
+    * [Carol Brunch](https://drafthouse.com/raleigh/show/carol-brunch): Sun 12/25 (1:00pm)
+
+    * [Christmas In Connecticut](https://drafthouse.com/raleigh/show/christmas-in-connecticut): Tue 12/13 (3:00pm)
+
+    * [The Banshees Of Inisherin](https://drafthouse.com/raleigh/show/the-banshees-of-inisherin): Thu 11/3 (6:15pm, 9:15pm), Fri 11/4 (6:15pm, 9:15pm), Sat 11/5 (6:15pm, 9:15pm), Sun 11/6 (6:15pm)
+
+    * [Triangle Of Sadness](https://drafthouse.com/raleigh/show/triangle-of-sadness): Tue 10/25 (11:00am, 2:30pm, 7:30pm)
+
 ### Thu 10/13 2:41pm
 
 * New screenings: 
