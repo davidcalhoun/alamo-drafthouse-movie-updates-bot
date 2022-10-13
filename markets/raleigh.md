@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Thu 10/13 7:36pm
+* New movies: Beetlejuice
+
+* New screenings: 
+    * [Akira](https://drafthouse.com/raleigh/show/akira): Sun 10/16 (9:50pm)
+
+    * [Beetlejuice](https://drafthouse.com/raleigh/show/beetlejuice): Sat 10/15 (2:30pm)
+
+    * [Terrifier 2](https://drafthouse.com/raleigh/show/terrifier-2): Fri 10/14 (10:45pm)
+
 ### Thu 10/13 3:30pm
 * New movies: The Banshees of Inisherin, Carol, Christmas in Connecticut
 
