@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Thu 10/13 2:41pm
+
+* New screenings: 
+    * [Black Adam](https://drafthouse.com/raleigh/show/black-adam): Fri 10/21 (12:00pm, 3:15pm, 6:15pm, 10:00pm), Sat 10/22 (12:00pm, 3:15pm, 6:15pm), Sun 10/23 (12:00pm, 3:15pm, 6:15pm, 10:00pm, 10:30pm)
+
+    * [Triangle Of Sadness](https://drafthouse.com/raleigh/show/triangle-of-sadness): Fri 10/21 (11:15am, 2:50pm, 9:30pm), Sat 10/22 (11:15am, 2:45pm, 9:30pm), Sun 10/23 (11:15am, 2:50pm, 9:30pm)
+
 ### Wed 10/12 1:48pm
 * New movies: The Rocky Horror Picture Show
 
