@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 10/14 7:34pm
+
+* New screenings: 
+    * [Halloween Ends](https://drafthouse.com/raleigh/show/halloween-ends): Wed 10/19 (11:45am, 6:15pm, 9:30pm)
+
 ### Thu 10/13 7:36pm
 * New movies: Beetlejuice
 
