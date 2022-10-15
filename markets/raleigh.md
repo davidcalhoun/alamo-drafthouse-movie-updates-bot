@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Sat 10/15 12:41pm
+
+* New screenings: 
+    * [Akira](https://drafthouse.com/raleigh/show/akira): Sat 10/15 (9:00pm)
+
+    * [Black Panther Wakanda Forever](https://drafthouse.com/raleigh/show/black-panther-wakanda-forever): Tue 11/22 (10:45am, 2:45pm, 6:45pm, 10:45pm)
+
 ### Sat 10/15 11:30am
 
 * New screenings: 
