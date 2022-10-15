@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Sat 10/15 11:30am
+
+* New screenings: 
+    * [Black Panther Wakanda Forever](https://drafthouse.com/raleigh/show/black-panther-wakanda-forever): Thu 11/10 (9:00pm)
+
 ### Fri 10/14 7:34pm
 
 * New screenings: 
