@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Sun 10/16 1:34pm
+
+* New screenings: 
+    * [Smile](https://drafthouse.com/raleigh/show/smile): Sun 10/16 (9:00pm)
+
 ### Sat 10/15 12:41pm
 
 * New screenings: 
