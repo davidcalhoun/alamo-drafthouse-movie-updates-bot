@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 10/17 1:51pm
+* New movies: Till
+
+* New screenings: 
+    * [Till](https://drafthouse.com/raleigh/show/till): Thu 10/27 (1:30pm, 4:30pm)
+
 ### Sun 10/16 1:34pm
 
 * New screenings: 
