@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 10/17 4:29pm
+* New movies: Beetlejuice
+
+* New screenings: 
+    * [Movie Party Beetlejuice](https://drafthouse.com/los-angeles/show/movie-party-beetlejuice): Sun 10/23 (5:20pm)
+
 ### Wed 10/12 3:25pm
 * New movies: National Lampoon's Christmas Vacation, Gremlins, Batman Returns
 
