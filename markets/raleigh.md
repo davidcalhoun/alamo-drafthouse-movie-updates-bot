@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 10/18 12:49pm
+
+* New screenings: 
+    * [Black Adam](https://drafthouse.com/raleigh/show/black-adam): Wed 10/26 (12:50pm)
+
 ### Mon 10/17 10:51pm
 
 * New screenings: 
