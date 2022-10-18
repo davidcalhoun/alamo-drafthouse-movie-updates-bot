@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 10/17 10:51pm
+
+* New screenings: 
+    * [Triangle Of Sadness](https://drafthouse.com/raleigh/show/triangle-of-sadness): Sat 10/22 (12:15pm)
+
 ### Mon 10/17 7:35pm
 * New movies: Ticket to Paradise, Beetlejuice, Burning 2018, Shaun of the Dead
 
