@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 10/18 11:38am
+* New movies: The Roku Channel Presents: Weird: The Al Yankovic Story
+
+* New screenings: 
+    * [Free Victory Screening Roku Presents Weird The Al Yankovic Story W Livestream Q A](https://drafthouse.com/los-angeles/show/free-victory-screening-roku-presents-weird-the-al-yankovic-story-w-livestream-q-a): Tue 11/1 (4:30pm, 4:30pm)
+
 ### Mon 10/17 7:28pm
 * New movies: Ticket to Paradise, Burning 2018, Shaun of the Dead, Please Baby Please
 
