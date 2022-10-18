@@ -1,6 +1,52 @@
 # los-angeles
 
 ## Movie updates
+### Mon 10/17 7:28pm
+* New movies: Ticket to Paradise, Burning 2018, Shaun of the Dead, Please Baby Please
+
+* New screenings: 
+    * [A Nightmare On Elm Street](https://drafthouse.com/los-angeles/show/a-nightmare-on-elm-street): Sat 10/22 (3:30pm)
+
+    * [Advance Screening Please Baby Please Early Access](https://drafthouse.com/los-angeles/show/advance-screening-please-baby-please-early-access): Wed 10/26 (6:00pm)
+
+    * [Amsterdam](https://drafthouse.com/los-angeles/show/amsterdam): Thu 10/20 (3:45pm, 6:45pm), Fri 10/21 (11:35am, 6:00pm), Sat 10/22 (11:35am, 6:00pm), Sun 10/23 (11:35am, 6:00pm), Mon 10/24 (11:35am, 6:00pm), Tue 10/25 (11:35am, 6:00pm), Wed 10/26 (11:35am, 6:00pm)
+
+    * [Barbarian](https://drafthouse.com/los-angeles/show/barbarian): Thu 10/20 (6:30pm, 9:30pm), Fri 10/21 (6:15pm, 9:15pm), Sat 10/22 (6:15pm, 9:15pm), Sun 10/23 (3:20pm, 6:15pm), Mon 10/24 (3:20pm, 6:15pm), Tue 10/25 (3:20pm, 6:15pm), Wed 10/26 (3:20pm, 6:15pm)
+
+    * [Black Adam](https://drafthouse.com/los-angeles/show/black-adam): Thu 10/20 (5:45pm, 7:00pm, 10:15pm), Fri 10/21 (11:15am, 2:30pm, 5:45pm), Sat 10/22 (11:15am, 2:30pm, 5:45pm), Sun 10/23 (2:45pm, 5:50pm), Mon 10/24 (11:00am, 2:15pm, 5:30pm), Tue 10/25 (11:00am, 2:15pm, 5:30pm), Wed 10/26 (11:00am, 2:15pm, 5:30pm)
+
+    * [Bros](https://drafthouse.com/los-angeles/show/bros): Thu 10/20 (3:40pm, 10:10pm), Fri 10/21 (3:00pm, 9:45pm), Sat 10/22 (3:00pm, 9:30pm), Sun 10/23 (3:00pm), Mon 10/24 (1:10pm, 3:00pm), Tue 10/25 (3:00pm), Wed 10/26 (3:00pm)
+
+    * [Burning 2018](https://drafthouse.com/los-angeles/show/burning-2018): Fri 10/21 (2:10pm), Sun 10/23 (11:10am), Tue 10/25 (11:00am)
+
+    * [Decision To Leave](https://drafthouse.com/los-angeles/show/decision-to-leave): Thu 10/20 (7:15pm, 9:00pm, 10:45pm), Fri 10/21 (11:00am, 2:30pm, 6:00pm, 9:30pm), Sat 10/22 (12:45pm, 4:15pm, 5:30pm, 9:00pm), Sun 10/23 (11:00am, 2:25pm, 6:00pm), Mon 10/24 (11:10am, 12:00pm, 3:30pm, 4:15pm, 7:00pm, 8:00pm), Tue 10/25 (11:15am, 12:00pm, 2:45pm, 3:30pm, 6:15pm, 7:00pm), Wed 10/26 (11:00am, 12:00pm, 2:30pm, 3:30pm, 7:00pm)
+
+    * [Dont Worry Darling](https://drafthouse.com/los-angeles/show/dont-worry-darling): Thu 10/20 (3:15pm)
+
+    * [Graveyard Shift The Guest](https://drafthouse.com/los-angeles/show/graveyard-shift-the-guest): Wed 10/26 (5:15pm)
+
+    * [Halloween Ends](https://drafthouse.com/los-angeles/show/halloween-ends): Thu 10/20 (4:25pm, 7:30pm, 10:30pm), Fri 10/21 (1:15pm, 4:25pm, 7:30pm, 10:35pm), Sat 10/22 (12:30pm, 3:45pm, 7:45pm, 10:45pm), Sun 10/23 (1:15pm, 4:25pm, 7:30pm), Mon 10/24 (1:15pm, 4:25pm, 7:30pm), Tue 10/25 (1:15pm, 4:25pm, 7:30pm), Wed 10/26 (1:15pm, 4:25pm, 7:30pm)
+
+    * [Lyle Lyle Crocodile](https://drafthouse.com/los-angeles/show/lyle-lyle-crocodile): Thu 10/20 (2:45pm)
+
+    * [Old Man](https://drafthouse.com/los-angeles/show/old-man): Thu 10/20 (4:00pm)
+
+    * [Peaches Christ Presents Queer Horror Psycho 1960](https://drafthouse.com/los-angeles/show/peaches-christ-presents-queer-horror-psycho-1960): Fri 10/21 (11:15am), Mon 10/24 (2:35pm), Tue 10/25 (5:05pm), Wed 10/26 (11:45am)
+
+    * [Shaun Of The Dead](https://drafthouse.com/los-angeles/show/shaun-of-the-dead): Fri 10/21 (3:25pm)
+
+    * [Slash Back](https://drafthouse.com/los-angeles/show/slash-back): Mon 10/24 (5:30pm), Tue 10/25 (2:35pm), Wed 10/26 (2:40pm)
+
+    * [Smile](https://drafthouse.com/los-angeles/show/smile): Thu 10/20 (4:15pm, 7:30pm, 10:45pm), Fri 10/21 (12:15pm, 4:15pm, 7:30pm, 10:45pm), Sat 10/22 (12:15pm, 4:15pm, 7:30pm, 10:45pm), Sun 10/23 (12:15pm, 4:15pm, 7:30pm), Mon 10/24 (12:15pm, 4:15pm, 7:30pm), Tue 10/25 (12:15pm, 4:15pm, 7:30pm), Wed 10/26 (12:15pm, 4:15pm, 7:30pm)
+
+    * [Tar](https://drafthouse.com/los-angeles/show/tar): Thu 10/20 (2:45pm, 6:30pm, 10:15pm), Fri 10/21 (11:00am, 2:45pm, 6:30pm, 10:15pm), Sat 10/22 (11:00am, 2:45pm, 6:30pm, 10:15pm), Sun 10/23 (11:00am, 2:45pm, 6:30pm), Mon 10/24 (11:00am, 2:45pm, 6:30pm), Tue 10/25 (11:00am, 2:45pm, 6:30pm), Wed 10/26 (11:00am, 2:45pm, 6:30pm)
+
+    * [The Craft Brunch](https://drafthouse.com/los-angeles/show/the-craft-brunch): Sun 10/23 (11:25am)
+
+    * [Ticket To Paradise](https://drafthouse.com/los-angeles/show/ticket-to-paradise): Thu 10/20 (5:00pm, 8:00pm, 11:00pm), Fri 10/21 (11:20am, 2:10pm, 5:00pm, 7:50pm, 10:50pm), Sat 10/22 (11:20am, 2:10pm, 5:00pm, 7:50pm, 10:50pm), Sun 10/23 (12:15pm, 3:15pm, 6:15pm), Mon 10/24 (12:15pm, 3:15pm, 6:15pm), Tue 10/25 (12:15pm, 3:15pm, 6:15pm), Wed 10/26 (12:15pm, 3:15pm, 6:15pm)
+
+    * [Triangle Of Sadness](https://drafthouse.com/los-angeles/show/triangle-of-sadness): Thu 10/20 (2:20pm, 3:15pm, 6:00pm, 9:40pm), Fri 10/21 (11:10am, 12:30pm, 2:50pm, 5:45pm, 6:30pm, 9:00pm, 10:10pm), Sat 10/22 (11:00am, 12:30pm, 2:45pm, 6:30pm, 9:00pm, 10:10pm), Sun 10/23 (11:20am, 12:30pm, 3:00pm, 6:45pm), Mon 10/24 (11:20am, 12:30pm, 3:00pm, 6:45pm), Tue 10/25 (11:20am, 12:30pm, 3:00pm, 6:45pm), Wed 10/26 (11:20am, 12:30pm, 3:00pm, 6:45pm)
+
 ### Mon 10/17 4:29pm
 * New movies: Beetlejuice
 
