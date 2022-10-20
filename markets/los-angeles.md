@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 10/20 3:25pm
+* New movies: The Menu, Liam Gallagher Knebworth 22
+
+* New screenings: 
+    * [Advance Screening The Menu](https://drafthouse.com/los-angeles/show/advance-screening-the-menu): Wed 11/9 (7:00pm)
+
+    * [Liam Gallagher Knebworth 22](https://drafthouse.com/los-angeles/show/liam-gallagher-knebworth-22): Thu 11/17 (7:00pm)
+
 ### Wed 10/19 7:25pm
 * New movies: Lady Snowblood, Enter the Dragon, Casablanca, Christmas in Connecticut
 
