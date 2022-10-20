@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Thu 10/20 6:31pm
+* New movies: The Menu
+
+* New screenings: 
+    * [Advance Screening The Menu](https://drafthouse.com/raleigh/show/advance-screening-the-menu): Wed 11/9 (7:15pm)
+
+    * [Black Adam](https://drafthouse.com/raleigh/show/black-adam): Fri 10/21 (9:55pm), Sat 10/22 (10:25pm)
+
 ### Thu 10/20 2:49pm
 * New movies: Child's Play 1988, The Holiday
 
