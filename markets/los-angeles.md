@@ -1,6 +1,20 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/19 7:25pm
+* New movies: Lady Snowblood, Enter the Dragon, Casablanca, Christmas in Connecticut
+
+* New screenings: 
+    * [A Nightmare On Elm Street](https://drafthouse.com/los-angeles/show/a-nightmare-on-elm-street): Fri 10/28 (3:00pm)
+
+    * [Christmas In Connecticut](https://drafthouse.com/los-angeles/show/christmas-in-connecticut): Mon 12/12 (5:00pm)
+
+    * [Fist City Enter The Dragon](https://drafthouse.com/los-angeles/show/fist-city-enter-the-dragon): Mon 11/7 (5:00pm)
+
+    * [Fist City Lady Snowblood](https://drafthouse.com/los-angeles/show/fist-city-lady-snowblood): Mon 12/5 (8:00pm)
+
+    * [Special Event Casablanca Brunch Screening](https://drafthouse.com/los-angeles/show/special-event-casablanca-brunch-screening): Sun 11/6 (11:00am)
+
 ### Tue 10/18 11:38am
 * New movies: The Roku Channel Presents: Weird: The Al Yankovic Story
 
