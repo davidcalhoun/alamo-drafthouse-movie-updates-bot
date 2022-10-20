@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Thu 10/20 2:49pm
+* New movies: Child's Play 1988, The Holiday
+
+* New screenings: 
+    * [Graveyard Shift Childs Play 1988](https://drafthouse.com/raleigh/show/graveyard-shift-childs-play-1988): Mon 12/12 (10:15pm)
+
+    * [Movie Party Elf](https://drafthouse.com/raleigh/show/movie-party-elf): Sun 11/27 (6:00pm), Sun 12/4 (4:00pm)
+
+    * [The Holiday Brunch](https://drafthouse.com/raleigh/show/the-holiday-brunch): Sat 12/3 (11:00am)
+
 ### Tue 10/18 12:49pm
 
 * New screenings: 
