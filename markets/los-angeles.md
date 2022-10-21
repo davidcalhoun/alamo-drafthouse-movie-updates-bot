@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 10/21 12:32am
+* New movies: The Menu
+
+* New screenings: 
+    * [The Menu](https://drafthouse.com/los-angeles/show/the-menu): Thu 11/17 (5:00pm, 7:50pm, 10:45pm), Fri 11/18 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sat 11/19 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sun 11/20 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Mon 11/21 (12:30pm, 3:30pm, 6:30pm)
+
 ### Thu 10/20 3:25pm
 * New movies: The Menu, Liam Gallagher Knebworth 22
 
