@@ -1,6 +1,20 @@
 # raleigh
 
 ## Movie updates
+### Fri 10/21 11:38am
+* New movies: Howl's Moving Castle Subtitled
+
+* New screenings: 
+    * [Black Panther Wakanda Forever](https://drafthouse.com/raleigh/show/black-panther-wakanda-forever): Sun 11/20 (10:30pm)
+
+    * [Howls Moving Castle Subtitled](https://drafthouse.com/raleigh/show/howls-moving-castle-subtitled): Mon 10/31 (12:00pm)
+
+    * [Tar](https://drafthouse.com/raleigh/show/tar): Tue 11/1 (11:00am, 2:45pm, 6:30pm, 10:15pm), Wed 11/2 (11:00am, 2:45pm, 6:30pm, 10:15pm)
+
+    * [The Menu](https://drafthouse.com/raleigh/show/the-menu): Fri 11/18 (1:30pm), Sat 11/19 (1:30pm), Sun 11/20 (1:30pm, 10:20pm), Mon 11/21 (1:15pm, 4:15pm, 7:15pm, 10:05pm), Tue 11/22 (1:15pm, 4:15pm, 7:15pm, 10:05pm)
+
+    * [Till](https://drafthouse.com/raleigh/show/till): Fri 10/28 (1:00pm, 4:15pm, 7:30pm, 10:45pm)
+
 ### Fri 10/21 3:36am
 * New movies: The Menu
 
