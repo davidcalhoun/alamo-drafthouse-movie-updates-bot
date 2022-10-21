@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Fri 10/21 3:29pm
+
+* New screenings: 
+    * [Tar](https://drafthouse.com/raleigh/show/tar): Mon 10/31 (11:00am, 2:45pm, 6:30pm, 10:15pm)
+
+    * [Till](https://drafthouse.com/raleigh/show/till): Mon 10/31 (6:00pm, 9:15pm)
+
 ### Fri 10/21 1:39pm
 * New movies: Liam Gallagher Knebworth 22
 
