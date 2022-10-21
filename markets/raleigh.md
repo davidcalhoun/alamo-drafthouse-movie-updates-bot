@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 10/21 1:39pm
+* New movies: Liam Gallagher Knebworth 22
+
+* New screenings: 
+    * [Liam Gallagher Knebworth 22](https://drafthouse.com/raleigh/show/liam-gallagher-knebworth-22): Thu 11/17 (7:15pm)
+
 ### Fri 10/21 11:38am
 * New movies: Howl's Moving Castle Subtitled
 
