@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 10/21 4:29pm
+* New movies: Holy Spider, Please Baby Please
+
+* New screenings: 
+    * [Fantastic Fest Presents Holy Spider W Live Q A](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-holy-spider-w-live-q-a): Thu 11/3 (7:30pm), Fri 11/4 (7:30pm)
+
+    * [Please Baby Please](https://drafthouse.com/los-angeles/show/please-baby-please): Thu 10/27 (7:00pm, 9:45pm)
+
 ### Fri 10/21 12:32am
 * New movies: The Menu
 
