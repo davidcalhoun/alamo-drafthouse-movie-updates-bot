@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Sat 10/22 4:31pm
+
+* New screenings: 
+    * [Peaches Christ Presents Queer Horror Psycho 1960](https://drafthouse.com/raleigh/show/peaches-christ-presents-queer-horror-psycho-1960): Wed 10/26 (7:00pm)
+
 ### Fri 10/21 3:29pm
 
 * New screenings: 
