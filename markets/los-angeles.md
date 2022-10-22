@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Fri 10/21 7:11pm
+* New movies: Please Baby Please, The Jinkx & Dela Holiday Special, Brainwashed: Sex-Camera-Power
+
+* New screenings: 
+    * [Live Q A Brainwashed Sex Camera Power](https://drafthouse.com/los-angeles/show/live-q-a-brainwashed-sex-camera-power): Sat 11/19 (6:00pm)
+
+    * [Live Q A Please Baby Please](https://drafthouse.com/los-angeles/show/live-q-a-please-baby-please): Fri 10/28 (7:00pm, 9:00pm)
+
+    * [The Jinkx Dela Holiday Special](https://drafthouse.com/los-angeles/show/the-jinkx-dela-holiday-special): Mon 12/5 (5:15pm)
+
 ### Fri 10/21 4:29pm
 * New movies: Holy Spider, Please Baby Please
 
