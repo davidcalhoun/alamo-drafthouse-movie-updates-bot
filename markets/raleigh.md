@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 10/24 2:48pm
+
+* New screenings: 
+    * [The Banshees Of Inisherin](https://drafthouse.com/raleigh/show/the-banshees-of-inisherin): Fri 11/4 (12:15pm, 3:15pm), Sat 11/5 (12:15pm, 3:15pm), Sun 11/6 (12:15pm, 3:15pm, 9:15pm), Mon 11/7 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Tue 11/8 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Wed 11/9 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Thu 11/10 (1:00pm)
+
 ### Sat 10/22 4:31pm
 
 * New screenings: 
