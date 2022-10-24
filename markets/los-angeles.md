@@ -1,6 +1,34 @@
 # los-angeles
 
 ## Movie updates
+### Mon 10/24 2:23pm
+* New movies: Till
+
+* New screenings: 
+    * [A Nightmare On Elm Street](https://drafthouse.com/los-angeles/show/a-nightmare-on-elm-street): Sat 10/29 (11:00pm)
+
+    * [Barbarian](https://drafthouse.com/los-angeles/show/barbarian): Fri 10/28 (12:00pm), Sat 10/29 (11:00pm), Sun 10/30 (8:00pm), Mon 10/31 (11:45am), Tue 11/1 (1:00pm), Wed 11/2 (1:25pm)
+
+    * [Black Adam](https://drafthouse.com/los-angeles/show/black-adam): Fri 10/28 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Sat 10/29 (12:45pm, 4:00pm, 7:15pm, 10:35pm), Sun 10/30 (12:45pm, 4:00pm, 7:15pm), Mon 10/31 (1:00pm, 4:15pm, 7:30pm), Tue 11/1 (12:45pm, 4:00pm, 7:15pm), Wed 11/2 (1:10pm, 4:25pm, 7:40pm)
+
+    * [Decision To Leave](https://drafthouse.com/los-angeles/show/decision-to-leave): Fri 10/28 (11:25am, 12:45pm, 3:00pm, 4:00pm, 6:30pm, 7:30pm, 9:15pm, 10:00pm), Sat 10/29 (11:30am, 3:00pm, 6:30pm, 10:00pm), Sun 10/30 (11:30am, 3:00pm, 6:30pm), Mon 10/31 (11:30am, 12:45pm, 3:00pm, 6:30pm), Tue 11/1 (11:35am, 3:00pm, 6:30pm), Wed 11/2 (11:30am, 3:00pm, 4:20pm, 6:30pm)
+
+    * [Please Baby Please](https://drafthouse.com/los-angeles/show/please-baby-please): Fri 10/28 (1:15pm, 4:15pm), Sat 10/29 (4:45pm, 7:30pm, 10:10pm), Sun 10/30 (1:15pm, 4:00pm, 6:45pm), Mon 10/31 (12:30pm, 3:45pm, 6:30pm), Tue 11/1 (1:15pm, 4:00pm, 6:45pm), Wed 11/2 (1:00pm, 4:15pm)
+
+    * [Smile](https://drafthouse.com/los-angeles/show/smile): Fri 10/28 (1:15pm, 4:30pm, 7:45pm, 10:50pm), Sat 10/29 (1:15pm, 4:30pm, 7:45pm, 10:50pm), Sun 10/30 (1:15pm, 4:30pm, 7:45pm), Mon 10/31 (1:15pm, 4:30pm, 7:45pm), Tue 11/1 (1:15pm, 4:30pm, 7:45pm), Wed 11/2 (1:15pm, 4:30pm, 7:45pm)
+
+    * [Tar](https://drafthouse.com/los-angeles/show/tar): Fri 10/28 (11:00am, 2:45pm, 6:30pm, 10:15pm), Sat 10/29 (1:00pm, 2:45pm, 6:30pm, 10:15pm), Sun 10/30 (11:15am, 3:00pm, 6:45pm), Mon 10/31 (11:15am, 3:00pm, 6:45pm), Tue 11/1 (11:15am, 3:00pm, 6:45pm), Wed 11/2 (11:15am, 3:00pm, 6:45pm)
+
+    * [The Banshees Of Inisherin](https://drafthouse.com/los-angeles/show/the-banshees-of-inisherin): Fri 10/28 (11:40am, 2:45pm, 6:00pm, 11:00pm), Sat 10/29 (11:45am, 2:00pm, 5:00pm, 8:00pm), Sun 10/30 (11:00am, 2:00pm, 5:00pm), Mon 10/31 (11:20am, 2:25pm, 5:30pm, 6:45pm), Tue 11/1 (11:45am, 1:00pm, 2:45pm, 3:50pm, 5:45pm, 7:00pm), Wed 11/2 (12:15pm, 1:00pm, 3:15pm, 4:00pm, 7:45pm)
+
+    * [The Shining](https://drafthouse.com/los-angeles/show/the-shining): Mon 10/31 (3:10pm), Wed 11/2 (3:45pm)
+
+    * [Ticket To Paradise](https://drafthouse.com/los-angeles/show/ticket-to-paradise): Fri 10/28 (12:35pm, 3:25pm, 6:15pm, 10:10pm), Sat 10/29 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sun 10/30 (12:15pm, 3:15pm, 6:15pm), Mon 10/31 (12:25pm, 3:20pm, 6:15pm), Tue 11/1 (12:15pm, 3:15pm, 6:15pm), Wed 11/2 (11:40am, 3:25pm, 6:15pm)
+
+    * [Till](https://drafthouse.com/los-angeles/show/till): Fri 10/28 (11:00am, 2:30pm, 6:00pm, 9:30pm), Sat 10/29 (12:00pm, 3:15pm, 6:40pm, 10:00pm), Sun 10/30 (11:15am, 2:30pm, 6:00pm), Mon 10/31 (12:15pm, 2:30pm, 6:00pm), Tue 11/1 (11:15am, 2:30pm, 6:00pm), Wed 11/2 (12:00pm, 3:30pm, 7:25pm)
+
+    * [Triangle Of Sadness](https://drafthouse.com/los-angeles/show/triangle-of-sadness): Fri 10/28 (11:45am, 3:15pm, 6:45pm, 10:20pm), Sat 10/29 (11:45am, 3:15pm, 6:50pm, 10:25pm), Sun 10/30 (12:00pm, 3:30pm, 7:00pm), Mon 10/31 (12:00pm, 3:30pm, 7:00pm), Tue 11/1 (12:00pm, 3:30pm, 7:00pm), Wed 11/2 (12:00pm, 2:30pm, 6:00pm)
+
 ### Fri 10/21 7:11pm
 * New movies: Please Baby Please, The Jinkx & Dela Holiday Special, Brainwashed: Sex-Camera-Power
 
