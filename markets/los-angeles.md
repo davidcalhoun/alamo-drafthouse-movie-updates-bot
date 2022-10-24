@@ -1,6 +1,31 @@
 # los-angeles
 
 ## Movie updates
+### Mon 10/24 3:25pm
+
+* New screenings: 
+    * [Amsterdam](https://drafthouse.com/los-angeles/show/amsterdam): Thu 10/27 (3:30pm)
+
+    * [Barbarian](https://drafthouse.com/los-angeles/show/barbarian): Thu 10/27 (4:00pm, 7:00pm)
+
+    * [Black Adam](https://drafthouse.com/los-angeles/show/black-adam): Thu 10/27 (4:00pm, 7:15pm, 10:30pm)
+
+    * [Decision To Leave](https://drafthouse.com/los-angeles/show/decision-to-leave): Thu 10/27 (2:30pm, 3:15pm, 6:45pm, 7:15pm, 9:15pm, 10:45pm)
+
+    * [Halloween Ends](https://drafthouse.com/los-angeles/show/halloween-ends): Thu 10/27 (4:15pm)
+
+    * [Smile](https://drafthouse.com/los-angeles/show/smile): Thu 10/27 (4:15pm, 7:30pm, 10:45pm)
+
+    * [Tar](https://drafthouse.com/los-angeles/show/tar): Thu 10/27 (2:45pm, 6:30pm, 10:15pm)
+
+    * [The Banshees Of Inisherin](https://drafthouse.com/los-angeles/show/the-banshees-of-inisherin): Thu 10/27 (6:00pm, 9:00pm)
+
+    * [Ticket To Paradise](https://drafthouse.com/los-angeles/show/ticket-to-paradise): Thu 10/27 (3:25pm, 6:15pm, 10:15pm)
+
+    * [Till](https://drafthouse.com/los-angeles/show/till): Thu 10/27 (2:45pm, 6:00pm, 9:30pm)
+
+    * [Triangle Of Sadness](https://drafthouse.com/los-angeles/show/triangle-of-sadness): Thu 10/27 (2:30pm, 6:15pm, 9:50pm)
+
 ### Mon 10/24 2:23pm
 * New movies: Till
 
