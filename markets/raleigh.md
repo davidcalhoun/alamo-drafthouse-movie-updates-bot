@@ -1,6 +1,56 @@
 # raleigh
 
 ## Movie updates
+### Mon 10/24 10:53pm
+* New movies: Prey For The Devil, A Nightmare on Elm Street 1984, The Lair
+
+* New screenings: 
+    * [A Nightmare On Elm Street](https://drafthouse.com/raleigh/show/a-nightmare-on-elm-street): Thu 10/27 (5:15pm)
+
+    * [Amsterdam](https://drafthouse.com/raleigh/show/amsterdam): Thu 10/27 (2:30pm)
+
+    * [Black Adam](https://drafthouse.com/raleigh/show/black-adam): Thu 10/27 (11:15am, 12:15pm, 3:15pm, 6:30pm, 9:40pm), Fri 10/28 (12:30pm, 3:50pm, 6:30pm, 9:45pm), Sat 10/29 (1:15pm, 4:30pm, 7:45pm, 10:55pm), Sun 10/30 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Mon 10/31 (12:45pm, 3:45pm, 7:30pm, 10:40pm), Tue 11/1 (1:15pm, 4:30pm, 7:45pm, 10:55pm), Wed 11/2 (1:15pm, 4:30pm, 7:30pm, 10:40pm)
+
+    * [Bros](https://drafthouse.com/raleigh/show/bros): Thu 10/27 (12:45pm)
+
+    * [Decision To Leave](https://drafthouse.com/raleigh/show/decision-to-leave): Thu 10/27 (10:40pm), Fri 10/28 (1:30pm, 4:40pm, 8:45pm, 10:40pm), Sat 10/29 (12:10pm, 3:30pm, 10:20pm), Sun 10/30 (1:15pm, 4:00pm, 6:15pm, 9:40pm), Mon 10/31 (1:15pm, 2:15pm, 6:00pm, 9:00pm), Tue 11/1 (1:10pm, 2:40pm, 6:00pm, 9:20pm), Wed 11/2 (1:20pm, 2:50pm, 6:15pm, 9:40pm)
+
+    * [Dont Worry Darling](https://drafthouse.com/raleigh/show/dont-worry-darling): Thu 10/27 (4:00pm)
+
+    * [Graveyard Shift The Guest](https://drafthouse.com/raleigh/show/graveyard-shift-the-guest): Thu 10/27 (5:45pm)
+
+    * [Halloween Ends](https://drafthouse.com/raleigh/show/halloween-ends): Thu 10/27 (12:00pm, 3:45pm, 7:45pm, 10:50pm), Fri 10/28 (12:55pm, 4:45pm, 8:00pm, 10:55pm), Sat 10/29 (1:30pm, 5:15pm, 8:00pm, 10:55pm), Sun 10/30 (12:00pm, 3:50pm, 7:30pm, 10:30pm), Mon 10/31 (1:15pm, 4:50pm, 8:00pm, 10:55pm), Tue 11/1 (12:00pm, 4:00pm, 8:00pm, 10:55pm), Wed 11/2 (11:30am, 3:00pm, 7:00pm, 9:55pm)
+
+    * [Howls Moving Castle Dubbed](https://drafthouse.com/raleigh/show/howls-moving-castle-dubbed): Tue 11/1 (5:15pm), Wed 11/2 (12:45pm)
+
+    * [Howls Moving Castle Subtitled](https://drafthouse.com/raleigh/show/howls-moving-castle-subtitled): Fri 10/28 (4:00pm), Tue 11/1 (1:50pm), Wed 11/2 (4:45pm)
+
+    * [Lyle Lyle Crocodile](https://drafthouse.com/raleigh/show/lyle-lyle-crocodile): Thu 10/27 (11:55am, 2:15pm), Fri 10/28 (1:45pm, 5:45pm), Sat 10/29 (2:55pm, 5:45pm), Sun 10/30 (2:55pm, 5:45pm), Mon 10/31 (11:25am, 5:40pm), Tue 11/1 (2:55pm, 5:45pm), Wed 11/2 (2:30pm, 5:30pm)
+
+    * [Paranorman](https://drafthouse.com/raleigh/show/paranorman): Fri 10/28 (2:00pm)
+
+    * [Peaches Christ Presents Queer Horror Psycho 1960](https://drafthouse.com/raleigh/show/peaches-christ-presents-queer-horror-psycho-1960): Thu 10/27 (5:00pm)
+
+    * [Prey For The Devil](https://drafthouse.com/raleigh/show/prey-for-the-devil): Thu 10/27 (8:00pm, 10:45pm), Fri 10/28 (1:15pm, 5:00pm, 8:15pm, 10:50pm), Sat 10/29 (12:15pm, 4:15pm, 8:15pm, 10:50pm), Sun 10/30 (12:35pm, 4:30pm, 8:00pm, 10:40pm), Mon 10/31 (12:20pm, 3:55pm, 7:15pm, 9:50pm), Tue 11/1 (1:30pm, 4:50pm, 8:15pm, 10:50pm), Wed 11/2 (12:15pm, 4:15pm, 8:15pm, 10:55pm)
+
+    * [Smile](https://drafthouse.com/raleigh/show/smile): Thu 10/27 (12:20pm, 2:55pm, 6:00pm, 9:00pm), Fri 10/28 (11:40am, 2:45pm, 6:45pm, 9:50pm), Sat 10/29 (11:10am, 3:15pm, 7:15pm, 10:15pm), Sun 10/30 (1:30pm, 3:15pm, 7:15pm, 10:20pm), Mon 10/31 (12:55pm, 4:15pm, 7:45pm, 10:45pm), Tue 11/1 (11:40am, 3:30pm, 7:30pm, 10:30pm), Wed 11/2 (11:45am, 3:45pm, 7:15pm, 10:15pm)
+
+    * [Tar](https://drafthouse.com/raleigh/show/tar): Thu 10/27 (9:45pm), Fri 10/28 (11:15am, 2:30pm), Sat 10/29 (11:55am, 2:10pm), Sun 10/30 (10:45am, 2:45pm, 9:45pm)
+
+    * [Terrifier 2](https://drafthouse.com/raleigh/show/terrifier-2): Thu 10/27 (8:30pm), Sun 10/30 (8:45pm), Mon 10/31 (5:30pm), Tue 11/1 (8:45pm)
+
+    * [The Gangster The Cop The Devil](https://drafthouse.com/raleigh/show/the-gangster-the-cop-the-devil): Wed 11/2 (8:30pm)
+
+    * [The Lair](https://drafthouse.com/raleigh/show/the-lair): Tue 11/1 (9:30pm)
+
+    * [The Woman King](https://drafthouse.com/raleigh/show/the-woman-king): Thu 10/27 (1:30pm), Fri 10/28 (2:40pm), Sat 10/29 (8:45pm), Sun 10/30 (1:40pm), Mon 10/31 (4:45pm), Tue 11/1 (2:00pm), Wed 11/2 (1:45pm)
+
+    * [Ticket To Paradise](https://drafthouse.com/raleigh/show/ticket-to-paradise): Thu 10/27 (3:00pm, 3:25pm, 6:15pm, 9:10pm), Fri 10/28 (11:55am, 3:55pm, 7:45pm, 10:35pm), Sat 10/29 (12:25pm, 3:40pm, 7:30pm, 10:30pm), Sun 10/30 (12:55pm, 4:55pm, 7:45pm, 10:35pm), Mon 10/31 (11:40am, 2:30pm, 6:15pm, 9:05pm), Tue 11/1 (12:40pm, 4:20pm, 7:15pm, 10:05pm), Wed 11/2 (1:30pm, 4:25pm, 7:45pm, 10:35pm)
+
+    * [Till](https://drafthouse.com/raleigh/show/till): Thu 10/27 (6:45pm, 10:00pm), Sat 10/29 (12:45pm, 4:45pm, 6:15pm, 9:55pm), Sun 10/30 (12:45pm, 4:45pm, 6:45pm, 10:00pm), Mon 10/31 (1:30pm, 3:00pm, 10:00pm), Tue 11/1 (12:45pm, 4:45pm, 6:30pm, 9:45pm), Wed 11/2 (1:00pm, 5:00pm, 6:45pm, 10:00pm)
+
+    * [Triangle Of Sadness](https://drafthouse.com/raleigh/show/triangle-of-sadness): Thu 10/27 (11:45am, 12:30pm, 3:30pm, 6:00pm, 9:30pm), Fri 10/28 (11:00am, 3:00pm, 6:00pm, 9:40pm), Sat 10/29 (12:50pm, 4:00pm, 6:30pm, 10:00pm), Sun 10/30 (11:15am, 2:30pm, 6:30pm, 9:55pm), Mon 10/31 (12:15pm, 4:00pm, 8:30pm, 9:55pm), Tue 11/1 (11:30am, 2:45pm, 6:45pm, 10:15pm), Wed 11/2 (12:30pm, 4:00pm, 6:00pm, 9:30pm)
+
 ### Mon 10/24 2:48pm
 
 * New screenings: 
