@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Wed 10/26 3:21pm
+
+* New screenings: 
+    * [Howls Moving Castle Subtitled](https://drafthouse.com/raleigh/show/howls-moving-castle-subtitled): Wed 11/2 (8:00pm)
+
 ### Mon 10/24 10:53pm
 * New movies: Prey For The Devil, A Nightmare on Elm Street 1984, The Lair
 
