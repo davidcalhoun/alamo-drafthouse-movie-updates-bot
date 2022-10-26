@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Tue 10/25 8:55pm
+* New movies: Blood Rage, Blood Relatives, CRUISING
+
+* New screenings: 
+    * [Blood Rage](https://drafthouse.com/los-angeles/show/blood-rage): Tue 11/8 (8:00pm), Wed 11/9 (8:00pm)
+
+    * [Cruising2](https://drafthouse.com/los-angeles/show/cruising2): Wed 11/16 (8:00pm)
+
+    * [Fantastic Fest Presents Blood Relatives W Live Q A](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-blood-relatives-w-live-q-a): Tue 11/15 (7:00pm)
+
+    * [Movie Party Gremlins](https://drafthouse.com/los-angeles/show/movie-party-gremlins): Sat 12/10 (8:00pm)
+
 ### Mon 10/24 3:25pm
 
 * New screenings: 
