@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 10/27 1:28am
+* New movies: Love Actually
+
+* New screenings: 
+    * [Love Actually Brunch](https://drafthouse.com/los-angeles/show/love-actually-brunch): Sat 11/26 (11:30am)
+
 ### Thu 10/27 12:20am
 
 * New screenings: 
