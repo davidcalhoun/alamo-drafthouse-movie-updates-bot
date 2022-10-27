@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 10/27 12:20am
+
+* New screenings: 
+    * [Glass Onion Knives Out Mystery](https://drafthouse.com/los-angeles/show/glass-onion-knives-out-mystery): Wed 11/23 (10:30pm), Thu 11/24 (12:00pm), Sun 11/27 (10:30pm)
+
 ### Tue 10/25 8:55pm
 * New movies: Blood Rage, Blood Relatives, CRUISING
 
