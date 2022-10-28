@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 10/27 7:11pm
+
+* New screenings: 
+    * [Cruising2](https://drafthouse.com/los-angeles/show/cruising2): Tue 11/15 (4:00pm)
+
 ### Thu 10/27 1:28am
 * New movies: Love Actually
 
