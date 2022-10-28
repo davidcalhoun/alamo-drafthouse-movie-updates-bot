@@ -1,6 +1,22 @@
 # los-angeles
 
 ## Movie updates
+### Fri 10/28 2:19pm
+* New movies: The Holiday
+
+* New screenings: 
+    * [Batman Returns](https://drafthouse.com/los-angeles/show/batman-returns): Fri 12/9 (7:15pm)
+
+    * [Movie Party Elf](https://drafthouse.com/los-angeles/show/movie-party-elf): Sun 12/4 (6:00pm)
+
+    * [Movie Party Gremlins](https://drafthouse.com/los-angeles/show/movie-party-gremlins): Thu 12/8 (7:00pm)
+
+    * [Movie Party National Lampoons Christmas Vacation](https://drafthouse.com/los-angeles/show/movie-party-national-lampoons-christmas-vacation): Tue 12/6 (7:00pm)
+
+    * [Movie Party The Polar Express](https://drafthouse.com/los-angeles/show/movie-party-the-polar-express): Sat 12/10 (2:00pm)
+
+    * [The Holiday](https://drafthouse.com/los-angeles/show/the-holiday): Mon 12/5 (1:45pm)
+
 ### Thu 10/27 7:11pm
 
 * New screenings: 
