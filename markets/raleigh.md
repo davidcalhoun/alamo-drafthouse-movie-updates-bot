@@ -1,6 +1,42 @@
 # raleigh
 
 ## Movie updates
+### Tue 11/1 12:41pm
+* New movies: Howl's Moving Castle Subtitled, Meet Me in the Bathroom
+
+* New screenings: 
+    * [Black Adam](https://drafthouse.com/raleigh/show/black-adam): Sat 11/5 (12:45pm, 4:00pm, 7:15pm, 10:25pm), Sun 11/6 (12:45pm, 3:55pm, 7:15pm, 10:30pm), Mon 11/7 (1:00pm, 4:15pm, 7:30pm, 10:40pm), Tue 11/8 (1:00pm, 4:15pm, 7:30pm, 10:40pm), Wed 11/9 (12:45pm, 3:55pm, 7:45pm, 10:15pm)
+
+    * [Brunch Screenings Howls Moving Castle Subtitled Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-howls-moving-castle-subtitled-brunch): Sat 11/5 (11:15am), Sun 11/6 (12:00pm)
+
+    * [Decision To Leave](https://drafthouse.com/raleigh/show/decision-to-leave): Sat 11/5 (1:20pm, 4:30pm, 6:45pm, 10:20pm), Sun 11/6 (1:15pm, 4:30pm, 6:30pm, 9:55pm), Mon 11/7 (11:50am, 2:40pm, 6:15pm, 9:40pm), Tue 11/8 (11:15am, 2:40pm, 6:15pm, 9:40pm), Wed 11/9 (1:00pm, 4:15pm, 8:00pm, 10:00pm)
+
+    * [Gojira 4k Restoration](https://drafthouse.com/raleigh/show/gojira-4k-restoration): Mon 11/7 (1:45pm), Wed 11/9 (11:00am)
+
+    * [Grateful Dead Meet Up At The Movies 2022](https://drafthouse.com/raleigh/show/grateful-dead-meet-up-at-the-movies-2022): Sat 11/5 (2:45pm), Sun 11/6 (2:30pm), Mon 11/7 (11:15am, 3:15pm, 5:45pm), Tue 11/8 (11:00am, 5:45pm), Wed 11/9 (5:00pm)
+
+    * [Halloween Ends](https://drafthouse.com/raleigh/show/halloween-ends): Sat 11/5 (8:30pm), Sun 11/6 (10:00pm), Mon 11/7 (10:55pm), Tue 11/8 (10:55pm), Wed 11/9 (10:55pm)
+
+    * [Howls Moving Castle Subtitled](https://drafthouse.com/raleigh/show/howls-moving-castle-subtitled): Tue 11/8 (2:45pm)
+
+    * [Meet Me In The Bathroom](https://drafthouse.com/raleigh/show/meet-me-in-the-bathroom): Tue 11/8 (8:00pm), Wed 11/9 (8:45pm)
+
+    * [Prey For The Devil](https://drafthouse.com/raleigh/show/prey-for-the-devil): Sat 11/5 (12:50pm, 4:50pm, 8:15pm, 10:55pm), Sun 11/6 (12:50pm, 4:45pm, 8:00pm, 10:45pm), Mon 11/7 (12:00pm, 4:30pm, 8:15pm, 10:50pm), Tue 11/8 (12:00pm, 4:30pm, 8:15pm, 10:50pm), Wed 11/9 (1:30pm, 4:20pm, 8:15pm, 10:50pm)
+
+    * [Smile](https://drafthouse.com/raleigh/show/smile): Sat 11/5 (11:30am, 3:30pm, 7:30pm, 10:30pm), Sun 11/6 (11:30am, 3:30pm, 7:30pm, 10:35pm), Mon 11/7 (12:55pm, 3:55pm, 7:15pm, 10:15pm), Tue 11/8 (1:20pm, 3:55pm, 7:15pm, 10:15pm), Wed 11/9 (12:40pm, 3:45pm, 7:30pm, 10:30pm)
+
+    * [Something In The Dirt](https://drafthouse.com/raleigh/show/something-in-the-dirt): Sat 11/5 (5:15pm, 10:15pm), Sun 11/6 (1:30pm, 8:30pm), Mon 11/7 (5:00pm, 8:00pm), Tue 11/8 (12:50pm, 5:00pm), Wed 11/9 (1:45pm, 3:30pm)
+
+    * [Tar](https://drafthouse.com/raleigh/show/tar): Sat 11/5 (11:00am, 3:00pm, 6:30pm, 10:00pm), Sun 11/6 (1:00pm, 3:00pm, 6:00pm, 9:45pm), Mon 11/7 (12:15pm, 4:00pm, 6:00pm, 9:45pm), Tue 11/8 (12:15pm, 4:00pm, 6:00pm, 9:40pm), Wed 11/9 (1:15pm, 4:30pm, 6:00pm, 9:45pm)
+
+    * [The Banshees Of Inisherin](https://drafthouse.com/raleigh/show/the-banshees-of-inisherin): Sat 11/5 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Sun 11/6 (11:45am, 2:45pm, 5:45pm, 8:45pm), Mon 11/7 (11:30am, 2:30pm, 5:30pm, 8:30pm, 10:00pm), Tue 11/8 (11:30am, 2:30pm, 5:30pm, 8:30pm, 10:00pm), Wed 11/9 (11:45am, 2:45pm, 5:45pm)
+
+    * [Ticket To Paradise](https://drafthouse.com/raleigh/show/ticket-to-paradise): Sat 11/5 (1:30pm, 5:30pm, 8:00pm, 10:50pm), Sun 11/6 (1:10pm, 4:55pm, 7:45pm, 10:40pm), Mon 11/7 (12:50pm, 3:45pm, 7:45pm, 10:35pm), Tue 11/8 (12:55pm, 3:45pm, 7:45pm, 10:35pm), Wed 11/9 (12:10pm, 3:00pm, 6:30pm, 9:20pm)
+
+    * [Till](https://drafthouse.com/raleigh/show/till): Sat 11/5 (11:45am, 2:15pm, 6:00pm, 9:20pm), Sun 11/6 (11:25am, 2:40pm, 6:45pm, 10:05pm), Mon 11/7 (11:45am, 3:00pm, 6:45pm, 10:05pm), Tue 11/8 (11:45am, 3:00pm, 6:45pm, 10:05pm), Wed 11/9 (12:55pm, 4:45pm, 6:45pm, 10:05pm)
+
+    * [Triangle Of Sadness](https://drafthouse.com/raleigh/show/triangle-of-sadness): Sat 11/5 (2:30pm), Sun 11/6 (5:00pm), Mon 11/7 (1:30pm), Tue 11/8 (1:30pm), Wed 11/9 (12:00pm)
+
 ### Tue 11/1 11:30am
 * New movies: Something in the Dirt
 
