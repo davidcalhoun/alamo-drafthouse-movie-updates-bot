@@ -1,6 +1,38 @@
 # raleigh
 
 ## Movie updates
+### Tue 11/1 11:30am
+* New movies: Something in the Dirt
+
+* New screenings: 
+    * [Black Adam](https://drafthouse.com/raleigh/show/black-adam): Fri 11/4 (1:15pm, 4:30pm, 7:45pm, 10:50pm)
+
+    * [Decision To Leave](https://drafthouse.com/raleigh/show/decision-to-leave): Fri 11/4 (1:20pm, 3:55pm, 7:15pm, 10:30pm)
+
+    * [Gojira 4k Restoration](https://drafthouse.com/raleigh/show/gojira-4k-restoration): Fri 11/4 (2:15pm)
+
+    * [Grateful Dead Meet Up At The Movies 2022](https://drafthouse.com/raleigh/show/grateful-dead-meet-up-at-the-movies-2022): Fri 11/4 (1:45pm)
+
+    * [Halloween Ends](https://drafthouse.com/raleigh/show/halloween-ends): Fri 11/4 (10:55pm)
+
+    * [Howls Moving Castle Subtitled](https://drafthouse.com/raleigh/show/howls-moving-castle-subtitled): Fri 11/4 (11:15am)
+
+    * [Prey For The Devil](https://drafthouse.com/raleigh/show/prey-for-the-devil): Fri 11/4 (12:50pm, 4:45pm, 8:15pm, 10:00pm)
+
+    * [Smile](https://drafthouse.com/raleigh/show/smile): Fri 11/4 (11:45am, 3:30pm, 7:30pm, 10:40pm)
+
+    * [Something In The Dirt](https://drafthouse.com/raleigh/show/something-in-the-dirt): Fri 11/4 (5:15pm, 8:30pm)
+
+    * [Tar](https://drafthouse.com/raleigh/show/tar): Fri 11/4 (1:30pm, 4:15pm, 6:00pm, 9:40pm)
+
+    * [The Banshees Of Inisherin](https://drafthouse.com/raleigh/show/the-banshees-of-inisherin): Fri 11/4 (12:45pm, 3:45pm, 6:45pm, 9:45pm)
+
+    * [Ticket To Paradise](https://drafthouse.com/raleigh/show/ticket-to-paradise): Fri 11/4 (1:00pm, 4:00pm, 8:00pm, 10:45pm)
+
+    * [Till](https://drafthouse.com/raleigh/show/till): Fri 11/4 (12:40pm, 2:45pm, 6:30pm, 9:50pm)
+
+    * [Triangle Of Sadness](https://drafthouse.com/raleigh/show/triangle-of-sadness): Fri 11/4 (5:00pm)
+
 ### Tue 11/1 10:33am
 
 * New screenings: 
