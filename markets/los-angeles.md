@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 11/1 5:51am
+* New movies: The Fabelmans
+
+* New screenings: 
+    * [The Fabelmans](https://drafthouse.com/los-angeles/show/the-fabelmans): Wed 11/23 (6:30pm), Thu 11/24 (6:30pm), Fri 11/25 (6:30pm), Sat 11/26 (6:30pm), Sun 11/27 (6:30pm)
+
 ### Mon 10/31 7:25pm
 * New movies: Armageddon Time, Holy Spider, Something in the Dirt
 
