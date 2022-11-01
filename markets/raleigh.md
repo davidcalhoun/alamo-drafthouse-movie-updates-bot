@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 11/1 9:03am
+* New movies: The Fabelmans
+
+* New screenings: 
+    * [The Fabelmans](https://drafthouse.com/raleigh/show/the-fabelmans): Wed 11/23 (6:45pm), Thu 11/24 (6:45pm), Fri 11/25 (6:45pm), Sat 11/26 (6:45pm), Sun 11/27 (6:30pm)
+
 ### Mon 10/31 12:41pm
 
 * New screenings: 
