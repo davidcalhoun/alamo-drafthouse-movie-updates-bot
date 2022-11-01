@@ -1,6 +1,38 @@
 # los-angeles
 
 ## Movie updates
+### Mon 10/31 7:25pm
+* New movies: Armageddon Time, Holy Spider, Something in the Dirt
+
+* New screenings: 
+    * [All Jacked Up And Full Of Worms](https://drafthouse.com/los-angeles/show/all-jacked-up-and-full-of-worms): Tue 11/8 (2:30pm), Wed 11/9 (2:30pm)
+
+    * [Armageddon Time](https://drafthouse.com/los-angeles/show/armageddon-time): Thu 11/3 (7:45pm, 10:50pm), Fri 11/4 (1:15pm, 4:20pm, 7:30pm, 10:35pm), Sat 11/5 (1:15pm, 4:20pm, 7:30pm, 11:00pm), Sun 11/6 (1:15pm, 4:20pm, 7:30pm), Mon 11/7 (1:15pm, 4:20pm, 7:30pm), Tue 11/8 (1:15pm, 4:20pm, 7:30pm), Wed 11/9 (1:15pm, 4:20pm, 7:30pm)
+
+    * [Black Adam](https://drafthouse.com/los-angeles/show/black-adam): Thu 11/3 (3:15pm, 6:30pm, 10:10pm), Fri 11/4 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Sat 11/5 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Sun 11/6 (12:45pm, 4:00pm, 7:15pm), Mon 11/7 (12:45pm, 4:00pm, 7:15pm), Tue 11/8 (12:45pm, 4:00pm, 7:15pm), Wed 11/9 (12:45pm, 4:00pm, 7:15pm)
+
+    * [Decision To Leave](https://drafthouse.com/los-angeles/show/decision-to-leave): Thu 11/3 (3:15pm, 7:15pm, 10:35pm), Fri 11/4 (11:45am, 3:50pm, 7:15pm, 10:45pm), Sat 11/5 (12:15pm, 3:45pm, 7:15pm, 10:30pm), Sun 11/6 (12:15pm, 3:45pm, 7:15pm), Mon 11/7 (12:15pm, 3:45pm, 7:15pm), Tue 11/8 (12:15pm, 3:45pm, 7:15pm), Wed 11/9 (12:15pm, 3:45pm, 7:15pm)
+
+    * [Gojira 4k Restoration](https://drafthouse.com/los-angeles/show/gojira-4k-restoration): Thu 11/3 (4:15pm), Fri 11/4 (3:10pm), Sat 11/5 (11:30am, 2:15pm)
+
+    * [Holy Spider](https://drafthouse.com/los-angeles/show/holy-spider): Thu 11/3 (9:00pm), Fri 11/4 (12:50pm, 4:15pm, 9:00pm), Sat 11/5 (12:30pm, 3:30pm, 6:45pm, 10:45pm), Sun 11/6 (12:45pm, 3:45pm, 7:00pm), Mon 11/7 (12:45pm, 3:45pm, 7:00pm), Tue 11/8 (12:45pm, 3:45pm, 7:00pm), Wed 11/9 (12:45pm, 3:45pm, 6:00pm)
+
+    * [Please Baby Please](https://drafthouse.com/los-angeles/show/please-baby-please): Thu 11/3 (4:45pm)
+
+    * [Smile](https://drafthouse.com/los-angeles/show/smile): Thu 11/3 (4:30pm, 7:40pm, 10:45pm), Fri 11/4 (1:15pm, 4:30pm, 7:45pm, 10:50pm), Sat 11/5 (1:15pm, 4:30pm, 7:45pm, 10:50pm), Sun 11/6 (1:15pm, 4:30pm, 7:45pm), Mon 11/7 (1:15pm, 4:30pm, 7:45pm), Tue 11/8 (1:15pm, 4:30pm, 7:45pm), Wed 11/9 (1:15pm, 4:30pm, 7:45pm)
+
+    * [Something In The Dirt](https://drafthouse.com/los-angeles/show/something-in-the-dirt): Fri 11/4 (6:00pm, 10:50pm), Sat 11/5 (5:00pm, 8:00pm), Sun 11/6 (2:00pm, 5:00pm), Mon 11/7 (11:00am, 2:00pm), Tue 11/8 (11:30am, 5:00pm), Wed 11/9 (11:30am, 5:00pm)
+
+    * [Tar](https://drafthouse.com/los-angeles/show/tar): Thu 11/3 (3:30pm, 6:35pm, 10:20pm), Fri 11/4 (11:00am, 2:45pm, 6:30pm, 10:15pm), Sat 11/5 (11:00am, 2:45pm, 6:30pm, 10:15pm), Sun 11/6 (11:00am, 2:45pm, 6:30pm), Mon 11/7 (11:00am, 2:45pm, 6:30pm), Tue 11/8 (11:00am, 2:45pm, 6:30pm), Wed 11/9 (11:00am, 2:45pm, 6:30pm)
+
+    * [The Banshees Of Inisherin](https://drafthouse.com/los-angeles/show/the-banshees-of-inisherin): Thu 11/3 (3:00pm, 4:00pm, 7:00pm, 10:05pm), Fri 11/4 (12:40pm, 3:45pm, 7:00pm, 10:15pm), Sat 11/5 (12:45pm, 3:45pm, 7:00pm, 10:15pm), Sun 11/6 (12:45pm, 3:45pm, 7:00pm), Mon 11/7 (12:45pm, 3:45pm, 7:00pm), Tue 11/8 (12:45pm, 3:45pm, 7:00pm), Wed 11/9 (12:45pm, 3:45pm, 7:00pm)
+
+    * [Ticket To Paradise](https://drafthouse.com/los-angeles/show/ticket-to-paradise): Thu 11/3 (3:45pm, 6:00pm, 9:45pm), Fri 11/4 (12:30pm, 3:25pm, 6:15pm, 9:15pm), Sat 11/5 (12:30pm, 3:25pm, 6:15pm, 9:15pm), Sun 11/6 (11:10am, 1:45pm, 4:30pm, 8:00pm), Mon 11/7 (12:30pm, 3:25pm, 6:15pm), Tue 11/8 (12:30pm, 3:25pm, 6:15pm), Wed 11/9 (12:30pm, 3:25pm, 6:15pm)
+
+    * [Till](https://drafthouse.com/los-angeles/show/till): Thu 11/3 (3:00pm, 6:15pm, 9:35pm), Fri 11/4 (11:15am, 2:40pm, 6:00pm, 9:20pm), Sat 11/5 (11:15am, 2:40pm, 6:00pm, 9:20pm), Sun 11/6 (11:15am, 2:40pm, 6:00pm), Mon 11/7 (11:15am, 2:40pm, 6:00pm), Tue 11/8 (11:15am, 2:40pm, 6:00pm), Wed 11/9 (11:15am, 2:40pm)
+
+    * [Triangle Of Sadness](https://drafthouse.com/los-angeles/show/triangle-of-sadness): Thu 11/3 (4:15pm, 6:45pm, 10:45pm), Fri 11/4 (11:45am, 3:15pm, 6:45pm, 10:20pm), Sat 11/5 (11:45am, 3:15pm, 6:45pm, 10:20pm), Sun 11/6 (11:45am, 3:15pm, 6:45pm), Mon 11/7 (11:45am, 3:15pm, 6:45pm), Tue 11/8 (11:45am, 3:15pm, 6:45pm), Wed 11/9 (11:45am, 3:15pm, 6:45pm)
+
 ### Fri 10/28 2:19pm
 * New movies: The Holiday
 
