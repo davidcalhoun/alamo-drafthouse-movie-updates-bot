@@ -1,6 +1,37 @@
 # raleigh
 
 ## Movie updates
+### Tue 11/1 10:33am
+
+* New screenings: 
+    * [Black Adam](https://drafthouse.com/raleigh/show/black-adam): Thu 11/3 (11:45am, 3:00pm, 6:45pm, 10:00pm)
+
+    * [Decision To Leave](https://drafthouse.com/raleigh/show/decision-to-leave): Thu 11/3 (11:30am, 2:55pm, 6:30pm, 9:50pm)
+
+    * [Halloween Ends](https://drafthouse.com/raleigh/show/halloween-ends): Thu 11/3 (1:45pm, 8:45pm)
+
+    * [Howls Moving Castle Dubbed](https://drafthouse.com/raleigh/show/howls-moving-castle-dubbed): Thu 11/3 (2:15pm)
+
+    * [Howls Moving Castle Subtitled](https://drafthouse.com/raleigh/show/howls-moving-castle-subtitled): Thu 11/3 (5:15pm)
+
+    * [Lyle Lyle Crocodile](https://drafthouse.com/raleigh/show/lyle-lyle-crocodile): Thu 11/3 (11:20am)
+
+    * [Prey For The Devil](https://drafthouse.com/raleigh/show/prey-for-the-devil): Thu 11/3 (1:20pm, 4:50pm, 8:15pm, 10:50pm)
+
+    * [Smile](https://drafthouse.com/raleigh/show/smile): Thu 11/3 (12:55pm, 4:45pm, 7:45pm, 10:45pm)
+
+    * [Tar](https://drafthouse.com/raleigh/show/tar): Thu 11/3 (1:15pm, 2:00pm, 6:00pm, 9:40pm)
+
+    * [The Banshees Of Inisherin](https://drafthouse.com/raleigh/show/the-banshees-of-inisherin): Thu 11/3 (5:00pm, 8:00pm, 10:55pm)
+
+    * [The Woman King](https://drafthouse.com/raleigh/show/the-woman-king): Thu 11/3 (2:40pm)
+
+    * [Ticket To Paradise](https://drafthouse.com/raleigh/show/ticket-to-paradise): Thu 11/3 (11:55am, 3:55pm, 7:30pm, 10:15pm)
+
+    * [Till](https://drafthouse.com/raleigh/show/till): Thu 11/3 (1:30pm, 4:00pm, 7:15pm, 10:30pm)
+
+    * [Triangle Of Sadness](https://drafthouse.com/raleigh/show/triangle-of-sadness): Thu 11/3 (12:45pm)
+
 ### Tue 11/1 9:03am
 * New movies: The Fabelmans
 
