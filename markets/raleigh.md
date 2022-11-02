@@ -1,6 +1,24 @@
 # raleigh
 
 ## Movie updates
+### Wed 11/2 1:37pm
+* New movies: Eyes Wide Shut, Love Actually, When Harry Met Sally..., A Christmas Story
+
+* New screenings: 
+    * [A Christmas Story](https://drafthouse.com/raleigh/show/a-christmas-story): Wed 11/30 (3:00pm)
+
+    * [Eyes Wide Shut](https://drafthouse.com/raleigh/show/eyes-wide-shut): Wed 12/28 (5:45pm)
+
+    * [Love Actually Brunch](https://drafthouse.com/raleigh/show/love-actually-brunch): Sun 11/27 (11:00am)
+
+    * [Movie Party Elf](https://drafthouse.com/raleigh/show/movie-party-elf): Thu 12/8 (7:00pm)
+
+    * [Movie Party Gremlins](https://drafthouse.com/raleigh/show/movie-party-gremlins): Sat 12/3 (7:00pm)
+
+    * [Movie Party National Lampoons Christmas Vacation](https://drafthouse.com/raleigh/show/movie-party-national-lampoons-christmas-vacation): Fri 12/2 (9:30pm)
+
+    * [When Harry Met Sally Brunch](https://drafthouse.com/raleigh/show/when-harry-met-sally-brunch): Sat 12/31 (11:00am)
+
 ### Tue 11/1 12:41pm
 * New movies: Howl's Moving Castle Subtitled, Meet Me in the Bathroom
 
