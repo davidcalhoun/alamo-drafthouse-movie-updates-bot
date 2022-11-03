@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 11/3 2:17pm
+* New movies: The Beyond 1981, Nr. 10
+
+* New screenings: 
+    * [Fantastic Fest Presents Nr 10 Sneak Preview](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-nr-10-sneak-preview): Mon 11/28 (7:30pm)
+
+    * [Graveyard Shift The Beyond 1981](https://drafthouse.com/los-angeles/show/graveyard-shift-the-beyond-1981): Mon 11/28 (8:00pm)
+
 ### Tue 11/1 5:51am
 * New movies: The Fabelmans
 
