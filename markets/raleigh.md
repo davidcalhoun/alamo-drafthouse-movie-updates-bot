@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 11/3 11:35am
+* New movies: Nr. 10
+
+* New screenings: 
+    * [Fantastic Fest Presents Nr 10 Sneak Preview](https://drafthouse.com/raleigh/show/fantastic-fest-presents-nr-10-sneak-preview): Mon 11/28 (7:00pm)
+
 ### Wed 11/2 1:37pm
 * New movies: Eyes Wide Shut, Love Actually, When Harry Met Sally..., A Christmas Story
 
