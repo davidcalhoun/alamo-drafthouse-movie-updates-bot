@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 11/4 8:23am
+* New movies: Cruising
+
+
+
 ### Thu 11/3 2:17pm
 * New movies: The Beyond 1981, Nr. 10
 
