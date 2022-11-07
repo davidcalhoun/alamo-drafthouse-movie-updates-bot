@@ -1,6 +1,34 @@
 # los-angeles
 
 ## Movie updates
+### Mon 11/7 3:25pm
+* New movies: Taurus
+
+* New screenings: 
+    * [Armageddon Time](https://drafthouse.com/los-angeles/show/armageddon-time): Thu 11/10 (2:15pm), Fri 11/11 (11:30am), Sat 11/12 (10:00am), Sun 11/13 (11:30am), Mon 11/14 (12:15pm, 4:10pm), Tue 11/15 (12:15pm, 4:10pm), Wed 11/16 (12:15pm, 4:15pm)
+
+    * [Black Adam](https://drafthouse.com/los-angeles/show/black-adam): Thu 11/10 (3:00pm, 6:15pm, 9:30pm), Fri 11/11 (12:30pm, 4:00pm, 7:15pm, 10:30pm), Sat 11/12 (11:15am, 3:15pm, 7:15pm, 10:25pm), Sun 11/13 (12:30pm, 4:00pm, 7:15pm, 10:30pm), Mon 11/14 (1:00pm, 4:25pm, 7:45pm), Tue 11/15 (1:00pm, 4:25pm, 7:45pm), Wed 11/16 (1:15pm, 4:30pm, 7:45pm)
+
+    * [Black Panther Wakanda Forever](https://drafthouse.com/los-angeles/show/black-panther-wakanda-forever): Thu 11/10 (5:00pm, 5:45pm, 9:00pm, 9:40pm), Fri 11/11 (12:00pm, 2:45pm, 7:25pm, 11:20pm), Sat 11/12 (10:00am, 2:05pm, 9:35pm, 11:15pm), Sun 11/13 (12:45pm, 2:45pm, 4:45pm, 7:25pm, 8:45pm, 11:20pm), Mon 11/14 (10:45am, 2:00pm, 5:45pm), Tue 11/15 (10:45am, 11:30am), Wed 11/16 (11:00am, 2:45pm, 3:10pm)
+
+    * [Decision To Leave](https://drafthouse.com/los-angeles/show/decision-to-leave): Thu 11/10 (3:30pm, 7:00pm, 10:30pm), Fri 11/11 (11:15am, 2:45pm, 6:45pm, 10:15pm), Sat 11/12 (11:45am, 2:45pm, 6:45pm, 10:15pm), Sun 11/13 (11:15am, 2:45pm, 6:45pm, 10:15pm), Mon 11/14 (12:45pm, 4:30pm, 8:00pm), Tue 11/15 (12:45pm, 4:30pm, 8:00pm), Wed 11/16 (12:45pm, 4:30pm, 8:00pm)
+
+    * [Gojira 4k Restoration](https://drafthouse.com/los-angeles/show/gojira-4k-restoration): Mon 11/14 (7:15pm), Tue 11/15 (7:15pm)
+
+    * [One Piece Film Red Dubbed](https://drafthouse.com/los-angeles/show/one-piece-film-red-dubbed): Thu 11/10 (2:45pm), Fri 11/11 (10:00pm), Sat 11/12 (10:40pm), Sun 11/13 (10:00pm), Mon 11/14 (2:45pm), Tue 11/15 (2:45pm), Wed 11/16 (2:45pm)
+
+    * [One Piece Film Red Subtitled](https://drafthouse.com/los-angeles/show/one-piece-film-red-subtitled): Thu 11/10 (6:45pm, 10:00pm), Fri 11/11 (12:15pm, 3:30pm, 6:45pm), Sat 11/12 (12:15pm, 3:40pm, 7:00pm), Sun 11/13 (12:15pm, 3:30pm, 6:45pm), Mon 11/14 (11:00am, 6:00pm), Tue 11/15 (11:15am, 6:00pm), Wed 11/16 (11:45am, 6:00pm)
+
+    * [Smile](https://drafthouse.com/los-angeles/show/smile): Thu 11/10 (2:00pm)
+
+    * [Tar](https://drafthouse.com/los-angeles/show/tar): Thu 11/10 (2:15pm, 6:00pm, 9:50pm), Fri 11/11 (10:25am, 2:10pm, 6:00pm, 9:45pm), Sat 11/12 (11:35am, 3:30pm, 7:30pm, 10:35pm), Sun 11/13 (10:25am, 2:10pm, 6:00pm, 9:45pm), Mon 11/14 (11:00am, 2:45pm, 6:30pm), Tue 11/15 (12:10pm, 2:20pm, 6:15pm), Wed 11/16 (12:25pm, 4:10pm, 7:15pm)
+
+    * [Taurus](https://drafthouse.com/los-angeles/show/taurus): Wed 11/16 (12:15pm)
+
+    * [The Banshees Of Inisherin](https://drafthouse.com/los-angeles/show/the-banshees-of-inisherin): Thu 11/10 (3:45pm, 7:45pm, 10:45pm), Fri 11/11 (11:00am, 2:15pm, 6:15pm, 9:30pm), Sat 11/12 (10:45am, 2:15pm, 6:15pm, 10:10pm), Sun 11/13 (11:00am, 2:15pm, 6:15pm, 9:30pm), Mon 11/14 (11:15am, 3:15pm, 6:30pm), Tue 11/15 (11:15am, 3:15pm, 6:30pm), Wed 11/16 (11:15am, 3:15pm, 6:30pm)
+
+    * [Triangle Of Sadness](https://drafthouse.com/los-angeles/show/triangle-of-sadness): Thu 11/10 (4:00pm, 7:30pm, 11:00pm), Fri 11/11 (12:30pm, 4:00pm, 7:45pm, 11:10pm), Sat 11/12 (12:15pm, 4:00pm, 7:45pm, 11:10pm), Sun 11/13 (12:30pm, 4:00pm, 7:45pm, 11:10pm), Mon 11/14 (11:45am, 3:15pm, 6:45pm), Tue 11/15 (11:45am, 3:15pm, 6:45pm), Wed 11/16 (11:30am, 3:00pm, 7:00pm)
+
 ### Fri 11/4 8:23am
 * New movies: Cruising
 
