@@ -1,6 +1,21 @@
 # raleigh
 
 ## Movie updates
+### Mon 11/7 6:30pm
+
+* New screenings: 
+    * [Black Adam](https://drafthouse.com/raleigh/show/black-adam): Mon 11/14 (11:45am, 2:55pm, 6:15pm, 9:25pm), Tue 11/15 (11:45am, 2:55pm, 6:15pm, 10:15pm), Wed 11/16 (11:45am, 2:55pm, 6:15pm, 10:15pm)
+
+    * [Black Panther Wakanda Forever](https://drafthouse.com/raleigh/show/black-panther-wakanda-forever): Mon 11/14 (11:30am, 12:00pm, 12:30pm, 1:00pm, 1:30pm, 3:30pm, 4:00pm, 4:30pm, 5:00pm, 5:30pm, 8:00pm, 8:30pm, 9:00pm, 9:30pm, 10:15pm), Tue 11/15 (11:30am, 12:00pm, 12:30pm, 1:00pm, 1:30pm, 3:30pm, 4:00pm, 4:30pm, 5:00pm, 8:00pm, 8:30pm, 9:00pm, 9:30pm), Wed 11/16 (12:00pm, 12:30pm, 1:00pm, 1:30pm, 4:00pm, 4:30pm, 5:00pm, 5:30pm, 8:00pm, 8:30pm, 9:00pm, 9:30pm, 9:45pm)
+
+    * [One Piece Film Red Dubbed](https://drafthouse.com/raleigh/show/one-piece-film-red-dubbed): Mon 11/14 (7:15pm), Wed 11/16 (7:15pm)
+
+    * [One Piece Film Red Subtitled](https://drafthouse.com/raleigh/show/one-piece-film-red-subtitled): Tue 11/15 (7:15pm)
+
+    * [The Banshees Of Inisherin](https://drafthouse.com/raleigh/show/the-banshees-of-inisherin): Sat 11/12 (10:30am), Mon 11/14 (1:15pm, 4:15pm, 7:30pm, 10:40pm), Tue 11/15 (1:15pm, 4:15pm, 7:30pm, 10:40pm), Wed 11/16 (1:15pm, 4:15pm, 7:30pm, 10:40pm)
+
+    * [Ticket To Paradise](https://drafthouse.com/raleigh/show/ticket-to-paradise): Mon 11/14 (12:55pm, 3:55pm, 6:45pm, 9:35pm), Tue 11/15 (12:55pm, 3:55pm, 6:45pm, 9:40pm), Wed 11/16 (12:55pm, 3:55pm, 6:45pm, 9:25pm)
+
 ### Mon 11/7 5:27pm
 
 * New screenings: 
