@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 11/8 2:21pm
+
+* New screenings: 
+    * [Black Panther Wakanda Forever](https://drafthouse.com/los-angeles/show/black-panther-wakanda-forever): Fri 11/11 (9:30pm), Sun 11/13 (9:30pm)
+
 ### Tue 11/8 1:19pm
 
 * New screenings: 
