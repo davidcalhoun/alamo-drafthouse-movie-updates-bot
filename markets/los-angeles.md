@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 11/7 7:34pm
+
+* New screenings: 
+    * [Gojira 4k Restoration](https://drafthouse.com/los-angeles/show/gojira-4k-restoration): Wed 11/16 (6:45pm)
+
 ### Mon 11/7 3:25pm
 * New movies: Taurus
 
