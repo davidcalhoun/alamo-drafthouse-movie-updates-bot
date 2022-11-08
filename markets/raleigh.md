@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 11/8 2:29pm
+* New movies: The Last of Sheila
+
+* New screenings: 
+    * [The Last Of Sheila](https://drafthouse.com/raleigh/show/the-last-of-sheila): Sat 11/19 (11:00am)
+
 ### Tue 11/8 11:40am
 * New movies: Hunt, Leonor Will Never Die
 
