@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 11/8 11:25am
+* New movies: The Last of Sheila
+
+* New screenings: 
+    * [The Last Of Sheila](https://drafthouse.com/los-angeles/show/the-last-of-sheila): Sat 11/19 (10:50am)
+
 ### Mon 11/7 7:34pm
 
 * New screenings: 
