@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Tue 11/8 11:40am
+* New movies: Hunt, Leonor Will Never Die
+
+* New screenings: 
+    * [Fantastic Fest Presents Hunt Advance Screening](https://drafthouse.com/raleigh/show/fantastic-fest-presents-hunt-advance-screening): Wed 11/30 (7:00pm)
+
+    * [Fantastic Fest Presents Leonor Will Never Die Advance Screening](https://drafthouse.com/raleigh/show/fantastic-fest-presents-leonor-will-never-die-advance-screening): Tue 11/29 (9:00pm)
+
 ### Mon 11/7 6:30pm
 
 * New screenings: 
