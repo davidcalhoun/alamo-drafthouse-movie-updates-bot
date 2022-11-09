@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Wed 11/9 1:31pm
+
+* New screenings: 
+    * [Black Panther Wakanda Forever](https://drafthouse.com/raleigh/show/black-panther-wakanda-forever): Fri 11/11 (10:15pm), Sat 11/12 (10:15pm)
+
 ### Tue 11/8 9:26pm
 * New movies: Neil Young: Harvest Time
 
