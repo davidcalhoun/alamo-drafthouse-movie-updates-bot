@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 11/8 9:26pm
+* New movies: Neil Young: Harvest Time
+
+* New screenings: 
+    * [Neil Young Harvest Time](https://drafthouse.com/raleigh/show/neil-young-harvest-time): Thu 12/1 (7:00pm)
+
 ### Tue 11/8 2:29pm
 * New movies: The Last of Sheila
 
