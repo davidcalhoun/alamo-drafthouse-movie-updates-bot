@@ -1,6 +1,22 @@
 # los-angeles
 
 ## Movie updates
+### Wed 11/9 5:57pm
+* New movies: Hunt, Leonor Will Never Die
+
+* New screenings: 
+    * [Black Panther Wakanda Forever](https://drafthouse.com/los-angeles/show/black-panther-wakanda-forever): Tue 11/22 (11:00am, 2:50pm, 6:45pm, 10:45pm), Fri 11/25 (11:00am, 2:50pm, 6:45pm, 10:45pm), Sat 11/26 (2:50pm, 6:45pm, 10:45pm), Sun 11/27 (2:50pm, 6:45pm, 10:45pm)
+
+    * [Black Panther Wakanda Forever Brunch](https://drafthouse.com/los-angeles/show/black-panther-wakanda-forever-brunch): Sat 11/26 (11:00am), Sun 11/27 (11:00am)
+
+    * [Fantastic Fest Presents Hunt Advance Screening](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-hunt-advance-screening): Wed 11/30 (7:00pm)
+
+    * [Fantastic Fest Presents Leonor Will Never Die Advance Screening](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-leonor-will-never-die-advance-screening): Tue 11/29 (5:00pm)
+
+    * [The Fabelmans](https://drafthouse.com/los-angeles/show/the-fabelmans): Wed 11/23 (11:15am, 2:30pm, 10:15pm), Thu 11/24 (11:15am, 2:30pm, 10:15pm), Fri 11/25 (11:15am, 2:30pm, 10:15pm), Sat 11/26 (11:15am, 2:30pm, 10:15pm), Sun 11/27 (11:15am, 2:30pm, 10:15pm)
+
+    * [The Menu](https://drafthouse.com/los-angeles/show/the-menu): Tue 11/22 (1:15pm, 4:25pm, 7:30pm, 10:45pm), Fri 11/25 (1:15pm, 4:25pm, 7:30pm, 10:45pm), Sat 11/26 (1:15pm, 4:25pm, 7:30pm, 10:45pm), Sun 11/27 (1:15pm, 4:25pm, 7:30pm, 10:45pm)
+
 ### Tue 11/8 2:21pm
 
 * New screenings: 
