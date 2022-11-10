@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Wed 11/9 7:33pm
+
+* New screenings: 
+    * [Black Panther Wakanda Forever](https://drafthouse.com/los-angeles/show/black-panther-wakanda-forever): Wed 11/23 (11:00am, 2:50pm, 6:45pm, 10:45pm), Thu 11/24 (11:00am, 2:50pm, 6:45pm, 10:45pm)
+
+    * [The Menu](https://drafthouse.com/los-angeles/show/the-menu): Wed 11/23 (1:15pm, 4:25pm, 7:30pm, 10:45pm), Thu 11/24 (1:15pm, 4:25pm, 7:30pm, 10:45pm)
+
 ### Wed 11/9 5:57pm
 * New movies: Hunt, Leonor Will Never Die
 
