@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 11/10 3:22pm
+* New movies: The Inspection
+
+* New screenings: 
+    * [The Inspection](https://drafthouse.com/los-angeles/show/the-inspection): Tue 11/22 (7:00pm, 10:00pm), Wed 11/23 (12:15pm, 3:15pm, 6:15pm, 9:10pm), Thu 11/24 (12:15pm, 3:15pm, 6:15pm, 9:10pm), Fri 11/25 (12:15pm, 3:15pm, 6:15pm, 9:10pm), Sat 11/26 (12:15pm, 3:15pm, 6:15pm, 9:10pm), Sun 11/27 (12:15pm, 3:15pm, 6:15pm, 9:10pm)
+
 ### Wed 11/9 7:33pm
 
 * New screenings: 
