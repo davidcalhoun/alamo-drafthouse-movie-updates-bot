@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 11/11 11:36am
+* New movies: Bones And All
+
+* New screenings: 
+    * [Bones And All](https://drafthouse.com/raleigh/show/bones-and-all): Tue 11/22 (7:00pm, 10:15pm), Wed 11/23 (7:00pm), Thu 11/24 (7:00pm), Fri 11/25 (7:00pm), Sat 11/26 (7:00pm), Sun 11/27 (7:00pm)
+
 ### Wed 11/9 1:31pm
 
 * New screenings: 
