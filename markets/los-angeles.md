@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 11/11 8:29am
+* New movies: Bones And All
+
+* New screenings: 
+    * [Bones And All](https://drafthouse.com/los-angeles/show/bones-and-all): Tue 11/22 (7:30pm, 11:00pm), Wed 11/23 (12:15pm, 3:45pm, 7:15pm, 10:45pm), Thu 11/24 (12:15pm, 3:45pm, 7:15pm, 10:45pm), Fri 11/25 (12:15pm, 3:45pm, 7:15pm, 10:45pm), Sat 11/26 (12:15pm, 3:45pm, 7:15pm, 10:45pm), Sun 11/27 (12:15pm, 3:45pm, 7:15pm, 10:45pm)
+
 ### Thu 11/10 3:22pm
 * New movies: The Inspection
 
