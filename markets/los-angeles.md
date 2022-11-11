@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 11/11 3:22pm
+
+* New screenings: 
+    * [Black Panther Wakanda Forever](https://drafthouse.com/los-angeles/show/black-panther-wakanda-forever): Fri 11/11 (10:15pm)
+
 ### Fri 11/11 8:29am
 * New movies: Bones And All
 
