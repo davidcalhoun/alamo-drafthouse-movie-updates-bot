@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Sun 11/13 9:27pm
+
+* New screenings: 
+    * [Fantastic Fest Presents Blood Relatives W Live Q A](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-blood-relatives-w-live-q-a): Tue 11/15 (6:45pm)
+
 ### Fri 11/11 3:22pm
 
 * New screenings: 
