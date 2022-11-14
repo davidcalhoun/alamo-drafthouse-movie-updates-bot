@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 11/14 11:37am
+* New movies: Devotion
+
+* New screenings: 
+    * [Devotion](https://drafthouse.com/raleigh/show/devotion): Tue 11/22 (2:00pm, 5:30pm, 9:00pm), Wed 11/23 (11:00am, 2:30pm, 6:00pm, 9:30pm), Thu 11/24 (11:00am, 2:30pm, 6:00pm, 9:30pm)
+
 ### Fri 11/11 11:36am
 * New movies: Bones And All
 
