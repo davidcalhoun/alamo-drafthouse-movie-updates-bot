@@ -1,6 +1,34 @@
 # los-angeles
 
 ## Movie updates
+### Mon 11/14 2:26pm
+* New movies: She Said, Guillermo del Toro's Pinocchio
+
+* New screenings: 
+    * [Armageddon Time](https://drafthouse.com/los-angeles/show/armageddon-time): Thu 11/17 (2:15pm)
+
+    * [Black Adam](https://drafthouse.com/los-angeles/show/black-adam): Thu 11/17 (3:15pm)
+
+    * [Black Panther Wakanda Forever](https://drafthouse.com/los-angeles/show/black-panther-wakanda-forever): Fri 11/18 (10:30am, 2:00pm, 2:40pm, 3:30pm, 3:45pm, 5:20pm, 7:30pm, 9:20pm, 9:45pm, 11:25pm), Sat 11/19 (10:40am, 2:00pm, 2:30pm, 3:30pm, 3:45pm, 7:30pm, 8:25pm, 9:20pm), Sun 11/20 (2:00pm, 2:10pm, 3:30pm, 3:45pm, 7:30pm), Mon 11/21 (11:45am, 2:00pm, 2:30pm, 3:30pm, 3:45pm, 6:30pm)
+
+    * [Black Panther Wakanda Forever Brunch](https://drafthouse.com/los-angeles/show/black-panther-wakanda-forever-brunch): Sun 11/20 (11:15am)
+
+    * [Decision To Leave](https://drafthouse.com/los-angeles/show/decision-to-leave): Thu 11/17 (3:45pm, 7:15pm, 10:45pm), Fri 11/18 (11:45am, 3:15pm, 6:45pm, 10:15pm), Sat 11/19 (11:45am, 3:15pm, 6:45pm, 10:15pm), Sun 11/20 (11:45am, 3:15pm, 6:45pm), Mon 11/21 (11:45am, 3:15pm, 6:45pm)
+
+    * [Guillermo Del Toros Pinocchio](https://drafthouse.com/los-angeles/show/guillermo-del-toros-pinocchio): Fri 11/18 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Sat 11/19 (11:30am, 2:45pm, 6:45pm, 10:00pm), Sun 11/20 (11:00am, 3:00pm, 6:15pm), Mon 11/21 (12:30pm, 3:45pm, 7:00pm)
+
+    * [One Piece Film Red Subtitled](https://drafthouse.com/los-angeles/show/one-piece-film-red-subtitled): Thu 11/17 (2:35pm)
+
+    * [She Said](https://drafthouse.com/los-angeles/show/she-said): Thu 11/17 (5:45pm, 9:45pm), Fri 11/18 (12:15pm, 4:00pm, 7:15pm, 10:35pm), Sat 11/19 (12:15pm, 4:00pm, 7:15pm, 10:35pm), Sun 11/20 (12:15pm, 4:00pm, 7:15pm), Mon 11/21 (12:15pm, 4:00pm, 7:15pm)
+
+    * [Tar](https://drafthouse.com/los-angeles/show/tar): Thu 11/17 (3:15pm, 6:30pm), Fri 11/18 (11:45am, 2:10pm, 6:00pm), Sat 11/19 (11:45am, 2:10pm, 6:00pm), Sun 11/20 (11:45am, 2:10pm, 6:00pm), Mon 11/21 (10:40am, 2:10pm, 6:00pm)
+
+    * [The Banshees Of Inisherin](https://drafthouse.com/los-angeles/show/the-banshees-of-inisherin): Thu 11/17 (3:45pm, 6:45pm), Fri 11/18 (11:00am, 6:45pm), Sat 11/19 (11:00am, 7:45pm), Sun 11/20 (11:00am, 7:45pm), Mon 11/21 (11:00am, 7:45pm)
+
+    * [The Menu](https://drafthouse.com/los-angeles/show/the-menu): Thu 11/17 (7:30pm, 9:10pm, 9:45pm, 10:20pm, 10:35pm), Fri 11/18 (10:45am, 11:30am, 2:15pm, 7:45pm, 10:00pm, 10:45pm), Sat 11/19 (11:15am, 2:15pm, 5:20pm, 10:00pm, 10:45pm, 11:15pm), Sun 11/20 (10:45am, 11:00am, 2:00pm, 5:00pm, 8:00pm), Mon 11/21 (10:45am, 11:00am, 2:00pm, 5:00pm, 7:30pm, 8:00pm)
+
+    * [Triangle Of Sadness](https://drafthouse.com/los-angeles/show/triangle-of-sadness): Thu 11/17 (2:45pm, 6:15pm, 10:15pm), Fri 11/18 (11:15am, 2:45pm, 6:15pm, 9:45pm), Sat 11/19 (11:15am, 2:45pm, 6:15pm, 9:45pm), Sun 11/20 (11:15am, 2:45pm, 6:15pm), Mon 11/21 (11:15am, 2:45pm, 6:15pm)
+
 ### Sun 11/13 9:27pm
 
 * New screenings: 
