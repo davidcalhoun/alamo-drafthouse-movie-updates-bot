@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 11/15 1:17pm
+
+* New screenings: 
+    * [She Said](https://drafthouse.com/los-angeles/show/she-said): Wed 11/23 (1:00pm, 4:20pm, 7:45pm, 11:00pm), Thu 11/24 (1:00pm, 4:20pm, 7:45pm, 11:00pm), Fri 11/25 (1:00pm, 4:20pm, 7:45pm, 11:00pm), Sat 11/26 (1:00pm, 4:20pm, 7:45pm, 11:00pm), Sun 11/27 (1:00pm, 4:20pm, 7:45pm, 11:00pm)
+
 ### Tue 11/15 12:21pm
 * New movies: Eo
 
