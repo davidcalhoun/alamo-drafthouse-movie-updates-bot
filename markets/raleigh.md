@@ -1,6 +1,21 @@
 # raleigh
 
 ## Movie updates
+### Mon 11/14 10:49pm
+
+* New screenings: 
+    * [Black Adam](https://drafthouse.com/raleigh/show/black-adam): Fri 11/18 (11:15am, 2:50pm, 6:00pm, 9:10pm), Sat 11/19 (11:45am, 3:45pm, 6:00pm, 9:15pm), Sun 11/20 (11:40am, 2:50pm, 6:00pm, 9:10pm), Mon 11/21 (12:30pm, 4:20pm, 7:30pm, 10:40pm)
+
+    * [Black Panther Wakanda Forever](https://drafthouse.com/raleigh/show/black-panther-wakanda-forever): Fri 11/18 (11:45am, 12:30pm, 12:55pm, 1:15pm, 2:00pm, 2:30pm, 3:30pm, 4:15pm, 5:00pm, 5:45pm, 6:15pm, 7:15pm, 8:00pm, 8:45pm, 9:30pm, 10:00pm, 11:00pm), Sat 11/19 (12:30pm, 1:15pm, 4:00pm, 5:00pm, 6:15pm, 7:15pm, 8:15pm, 8:45pm, 10:00pm, 11:00pm), Sun 11/20 (11:15am, 12:15pm, 1:00pm, 3:00pm, 4:00pm, 4:45pm, 5:30pm, 7:45pm, 8:00pm, 8:30pm, 9:15pm, 10:30pm, 10:40pm), Mon 11/21 (12:15pm, 12:45pm, 1:30pm, 2:00pm, 2:30pm, 4:30pm, 5:15pm, 5:45pm, 6:15pm, 8:15pm, 9:00pm, 9:30pm, 10:00pm)
+
+    * [She Said](https://drafthouse.com/raleigh/show/she-said): Fri 11/18 (11:30am, 3:15pm, 6:30pm, 9:40pm), Sat 11/19 (12:45pm, 3:15pm, 6:30pm, 9:45pm), Sun 11/20 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Mon 11/21 (11:15am, 2:40pm, 6:00pm, 9:15pm)
+
+    * [The Banshees Of Inisherin](https://drafthouse.com/raleigh/show/the-banshees-of-inisherin): Fri 11/18 (1:00pm, 4:45pm, 7:45pm, 10:50pm), Sat 11/19 (11:30am, 3:00pm, 7:00pm, 10:00pm), Sun 11/20 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Mon 11/21 (1:15pm, 4:00pm, 7:00pm, 10:05pm)
+
+    * [The Menu](https://drafthouse.com/raleigh/show/the-menu): Fri 11/18 (11:00am), Sat 11/19 (12:15pm, 2:15pm, 2:30pm, 5:15pm, 5:30pm, 8:30pm), Sun 11/20 (11:00am, 11:30am, 2:00pm, 2:30pm, 5:00pm, 7:00pm, 9:50pm), Mon 11/21 (11:00am, 1:45pm, 4:45pm, 7:45pm, 10:50pm)
+
+    * [Ticket To Paradise](https://drafthouse.com/raleigh/show/ticket-to-paradise): Fri 11/18 (12:15pm, 4:00pm, 7:00pm, 9:50pm), Sat 11/19 (12:55pm, 4:15pm, 7:45pm, 10:40pm), Sun 11/20 (12:30pm, 3:25pm, 6:15pm, 9:05pm), Mon 11/21 (1:00pm, 3:40pm, 6:30pm, 9:20pm)
+
 ### Mon 11/14 9:07pm
 * New movies: She Said
 
