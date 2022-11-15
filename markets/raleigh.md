@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 11/15 9:22am
+* New movies: Strange World
+
+* New screenings: 
+    * [Strange World](https://drafthouse.com/raleigh/show/strange-world): Tue 11/22 (6:30pm, 9:15pm), Wed 11/23 (10:15am, 1:00pm, 3:45pm, 6:30pm, 9:15pm), Thu 11/24 (10:15am, 1:00pm, 3:45pm, 6:30pm, 9:15pm), Fri 11/25 (3:45pm, 6:30pm), Sat 11/26 (3:45pm, 6:30pm), Sun 11/27 (4:00pm, 6:45pm)
+
 ### Mon 11/14 10:49pm
 
 * New screenings: 
