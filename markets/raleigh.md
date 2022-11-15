@@ -1,6 +1,22 @@
 # raleigh
 
 ## Movie updates
+### Mon 11/14 9:07pm
+* New movies: She Said
+
+* New screenings: 
+    * [Black Adam](https://drafthouse.com/raleigh/show/black-adam): Thu 11/17 (12:45pm, 4:00pm, 6:30pm, 9:40pm)
+
+    * [Black Panther Wakanda Forever](https://drafthouse.com/raleigh/show/black-panther-wakanda-forever): Thu 11/17 (10:45am, 11:00am, 11:15am, 11:45am, 12:30pm, 12:55pm, 1:00pm, 2:30pm, 2:45pm, 3:00pm, 3:30pm, 4:30pm, 7:00pm, 9:00pm, 9:30pm, 10:30pm, 11:00pm)
+
+    * [One Piece Film Red Subtitled](https://drafthouse.com/raleigh/show/one-piece-film-red-subtitled): Thu 11/17 (8:30pm)
+
+    * [She Said](https://drafthouse.com/raleigh/show/she-said): Thu 11/17 (5:45pm, 7:15pm, 10:15pm)
+
+    * [The Banshees Of Inisherin](https://drafthouse.com/raleigh/show/the-banshees-of-inisherin): Thu 11/17 (12:15pm, 3:15pm, 6:15pm, 9:15pm)
+
+    * [Ticket To Paradise](https://drafthouse.com/raleigh/show/ticket-to-paradise): Thu 11/17 (11:55am, 2:55pm, 6:45pm, 9:45pm)
+
 ### Mon 11/14 11:37am
 * New movies: Devotion
 
