@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 11/15 12:21pm
+* New movies: Eo
+
+* New screenings: 
+    * [Eo](https://drafthouse.com/los-angeles/show/eo): Thu 12/1 (5:00pm, 7:45pm, 10:30pm), Fri 12/2 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Sat 12/3 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Sun 12/4 (11:15am, 2:00pm, 4:45pm, 7:30pm)
+
 ### Tue 11/15 6:18am
 * New movies: Strange World, Strange World
 
