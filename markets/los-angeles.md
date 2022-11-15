@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 11/15 6:18am
+* New movies: Strange World, Strange World
+
+* New screenings: 
+    * [Brunch Screenings Strange World Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-strange-world-brunch): Sat 11/26 (11:30am), Sun 11/27 (11:30am)
+
+    * [Strange World](https://drafthouse.com/los-angeles/show/strange-world): Tue 11/22 (6:00pm), Wed 11/23 (11:30am, 3:00pm, 6:00pm, 9:00pm), Thu 11/24 (11:30am, 3:00pm, 6:00pm, 9:00pm), Fri 11/25 (11:30am, 3:00pm, 6:00pm, 9:00pm), Sat 11/26 (3:00pm, 6:00pm, 9:00pm), Sun 11/27 (3:00pm, 6:00pm, 9:00pm)
+
 ### Mon 11/14 2:26pm
 * New movies: She Said, Guillermo del Toro's Pinocchio
 
