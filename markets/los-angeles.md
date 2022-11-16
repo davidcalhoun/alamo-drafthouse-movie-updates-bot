@@ -1,6 +1,26 @@
 # los-angeles
 
 ## Movie updates
+### Tue 11/15 5:50pm
+* New movies: Little Women 2019, The Holiday, Little Women 2019, Child's Play 1988, Rare Exports: A Christmas Tale, Chunky Shrapnel, The Harbinger
+
+* New screenings: 
+    * [Brunch Screenings Little Women 2019 Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-little-women-2019-brunch): Sat 12/10 (11:15am)
+
+    * [Christmas In Connecticut](https://drafthouse.com/los-angeles/show/christmas-in-connecticut): Tue 12/13 (5:00pm)
+
+    * [Chunky Shrapnel](https://drafthouse.com/los-angeles/show/chunky-shrapnel): Wed 12/7 (5:00pm)
+
+    * [Fantastic Fest Presents The Harbinger W Live Q A](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-the-harbinger-w-live-q-a): Sun 12/4 (7:00pm)
+
+    * [Graveyard Shift Childs Play 1988](https://drafthouse.com/los-angeles/show/graveyard-shift-childs-play-1988): Fri 12/9 (10:30pm)
+
+    * [Little Women 2019](https://drafthouse.com/los-angeles/show/little-women-2019): Wed 12/14 (11:00am)
+
+    * [Rare Exports A Christmas Tale](https://drafthouse.com/los-angeles/show/rare-exports-a-christmas-tale): Thu 12/8 (10:00pm)
+
+    * [The Holiday Brunch](https://drafthouse.com/los-angeles/show/the-holiday-brunch): Sun 12/4 (11:00am)
+
 ### Tue 11/15 1:17pm
 
 * New screenings: 
