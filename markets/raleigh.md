@@ -1,6 +1,29 @@
 # raleigh
 
 ## Movie updates
+### Thu 11/17 11:35am
+
+* New screenings: 
+    * [Black Adam](https://drafthouse.com/raleigh/show/black-adam): Tue 11/22 (12:15pm, 3:50pm)
+
+    * [Black Panther Wakanda Forever](https://drafthouse.com/raleigh/show/black-panther-wakanda-forever): Tue 11/22 (12:30pm, 1:30pm, 4:15pm, 5:15pm, 8:00pm, 9:00pm), Wed 11/23 (11:45am, 3:30pm, 7:15pm, 11:00pm), Thu 11/24 (11:45am, 3:30pm, 7:15pm, 11:00pm), Fri 11/25 (11:30am, 3:25pm, 7:15pm, 11:05pm), Sat 11/26 (11:30am, 3:25pm, 7:15pm, 11:05pm), Sun 11/27 (11:30am, 3:25pm, 7:15pm)
+
+    * [Bones And All](https://drafthouse.com/raleigh/show/bones-and-all): Wed 11/23 (12:00pm, 3:15pm, 10:15pm), Thu 11/24 (12:00pm, 3:15pm, 10:15pm), Fri 11/25 (9:25am, 12:35pm, 3:45pm, 10:15pm), Sat 11/26 (12:00pm, 3:15pm, 10:15pm), Sun 11/27 (12:00pm, 3:30pm)
+
+    * [Devotion](https://drafthouse.com/raleigh/show/devotion): Fri 11/25 (11:00am, 2:30pm, 6:00pm, 9:30pm), Sat 11/26 (11:00am, 2:30pm, 6:00pm, 9:30pm), Sun 11/27 (11:00am, 2:30pm, 6:15pm)
+
+    * [She Said](https://drafthouse.com/raleigh/show/she-said): Tue 11/22 (1:00pm, 4:15pm, 7:30pm, 10:50pm)
+
+    * [Strange World](https://drafthouse.com/raleigh/show/strange-world): Fri 11/25 (10:15am, 1:00pm, 9:15pm), Sat 11/26 (10:15am, 1:00pm, 9:15pm), Sun 11/27 (10:30am, 1:15pm)
+
+    * [The Banshees Of Inisherin](https://drafthouse.com/raleigh/show/the-banshees-of-inisherin): Tue 11/22 (12:45pm, 3:30pm)
+
+    * [The Fabelmans](https://drafthouse.com/raleigh/show/the-fabelmans): Wed 11/23 (11:30am, 3:10pm, 10:20pm), Thu 11/24 (11:00am, 3:00pm, 10:20pm), Fri 11/25 (11:00am, 3:00pm, 10:20pm), Sat 11/26 (11:00am, 3:00pm, 10:20pm), Sun 11/27 (10:45am, 2:20pm)
+
+    * [The Menu](https://drafthouse.com/raleigh/show/the-menu): Tue 11/22 (10:55am, 1:55pm, 4:55pm, 7:45pm, 10:40pm), Wed 11/23 (10:50am, 1:40pm, 4:45pm, 7:45pm, 10:40pm), Thu 11/24 (10:55am, 2:00pm, 4:55pm, 7:45pm, 10:40pm), Fri 11/25 (10:30am, 1:45pm, 4:45pm, 7:45pm, 10:40pm), Sat 11/26 (10:30am, 1:30pm, 4:45pm, 7:45pm, 10:40pm), Sun 11/27 (10:45am, 1:45pm, 4:45pm, 7:45pm)
+
+    * [Ticket To Paradise](https://drafthouse.com/raleigh/show/ticket-to-paradise): Tue 11/22 (11:10am)
+
 ### Tue 11/15 5:23pm
 
 * New screenings: 
