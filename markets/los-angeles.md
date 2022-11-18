@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 11/18 1:17pm
+* New movies: Hey, Stop Stabbing Me!
+
+* New screenings: 
+    * [Hey Stop Stabbing Me](https://drafthouse.com/los-angeles/show/hey-stop-stabbing-me): Wed 12/7 (8:00pm)
+
 ### Tue 11/15 5:50pm
 * New movies: Little Women 2019, The Holiday, Little Women 2019, Child's Play 1988, Rare Exports: A Christmas Tale, Chunky Shrapnel, The Harbinger
 
