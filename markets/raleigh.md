@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Thu 11/17 9:11pm
+
+* New screenings: 
+    * [The Menu](https://drafthouse.com/raleigh/show/the-menu): Fri 11/18 (12:15pm, 9:50pm, 10:40pm)
+
 ### Thu 11/17 11:35am
 
 * New screenings: 
