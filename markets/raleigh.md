@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Fri 11/18 3:25pm
+* New movies: The Jinkx & Dela Holiday Special, The Harbinger
+
+* New screenings: 
+    * [The Harbinger](https://drafthouse.com/raleigh/show/the-harbinger): Sat 12/3 (9:30pm)
+
+    * [The Jinkx Dela Holiday Special](https://drafthouse.com/raleigh/show/the-jinkx-dela-holiday-special): Wed 12/7 (7:15pm)
+
 ### Thu 11/17 9:11pm
 
 * New screenings: 
