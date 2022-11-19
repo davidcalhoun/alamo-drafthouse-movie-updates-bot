@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 11/18 9:03pm
+
+* New screenings: 
+    * [The Menu](https://drafthouse.com/raleigh/show/the-menu): Sat 11/19 (10:40pm)
+
 ### Fri 11/18 3:25pm
 * New movies: The Jinkx & Dela Holiday Special, The Harbinger
 
