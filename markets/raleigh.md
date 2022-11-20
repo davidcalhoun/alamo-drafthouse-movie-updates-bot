@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Sun 11/20 10:24am
+* New movies: Avatar: The Way Of Water
+
+* New screenings: 
+    * [Avatar The Way Of Water](https://drafthouse.com/raleigh/show/avatar-the-way-of-water): Thu 12/15 (3:00pm, 3:30pm, 7:15pm, 7:45pm, 11:30pm), Fri 12/16 (12:00am, 10:00am, 10:30am, 2:15pm, 2:45pm, 6:30pm, 7:00pm, 10:45pm, 11:15pm), Sat 12/17 (10:00am, 10:30am, 2:15pm, 2:45pm, 6:30pm, 7:00pm, 10:45pm, 11:15pm), Sun 12/18 (9:30am, 10:00am, 1:45pm, 2:15pm, 6:00pm, 6:30pm, 10:15pm, 10:45pm), Mon 12/19 (11:30am, 1:45pm, 3:45pm, 6:00pm, 8:00pm, 10:15pm), Tue 12/20 (11:30am, 1:45pm, 3:45pm, 6:00pm, 8:00pm, 10:15pm), Wed 12/21 (11:30am, 1:45pm, 3:45pm, 6:00pm, 8:00pm, 10:15pm), Thu 12/22 (10:30am, 11:30am, 2:45pm, 3:45pm, 7:00pm, 8:00pm), Fri 12/23 (10:20am, 1:40pm, 2:40pm, 6:00pm, 7:00pm, 10:20pm, 11:20pm), Sat 12/24 (9:20am, 10:20am, 1:40pm, 2:40pm, 6:00pm, 7:00pm), Sun 12/25 (9:20am, 10:20am, 1:40pm, 2:40pm, 6:00pm, 7:00pm, 10:20pm, 11:20pm)
+
 ### Sat 11/19 3:24pm
 
 * New screenings: 
