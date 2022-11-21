@@ -1,6 +1,34 @@
 # raleigh
 
 ## Movie updates
+### Mon 11/21 4:23pm
+* New movies: Violent Night, The Inspection
+
+* New screenings: 
+    * [Black Adam](https://drafthouse.com/raleigh/show/black-adam): Mon 11/28 (12:40pm), Tue 11/29 (10:50am), Wed 11/30 (11:50am)
+
+    * [Black Panther Wakanda Forever](https://drafthouse.com/raleigh/show/black-panther-wakanda-forever): Mon 11/28 (11:00am, 2:00pm, 2:45pm, 5:45pm, 6:30pm, 9:30pm, 10:15pm), Tue 11/29 (11:15am, 1:00pm, 3:00pm, 4:45pm, 8:30pm, 10:00pm), Wed 11/30 (11:45am, 1:00pm, 1:30pm, 3:30pm, 4:45pm, 5:15pm, 8:30pm, 9:00pm, 10:15pm)
+
+    * [Bones And All](https://drafthouse.com/raleigh/show/bones-and-all): Mon 11/28 (1:15pm, 4:30pm, 7:45pm, 10:55pm), Tue 11/29 (12:40pm, 3:55pm, 7:15pm, 10:30pm), Wed 11/30 (12:55pm, 4:15pm, 7:30pm, 10:45pm)
+
+    * [Devotion](https://drafthouse.com/raleigh/show/devotion): Mon 11/28 (11:30am, 3:25pm, 6:45pm, 10:10pm), Tue 11/29 (12:30pm, 4:00pm, 7:30pm, 10:55pm), Wed 11/30 (12:15pm, 3:40pm, 6:00pm, 9:20pm)
+
+    * [Glass Onion Knives Out Mystery](https://drafthouse.com/raleigh/show/glass-onion-knives-out-mystery): Mon 11/28 (10:30am, 12:00pm, 12:30pm, 2:55pm, 3:55pm, 5:15pm, 7:15pm, 8:45pm, 10:45pm), Tue 11/29 (12:00pm, 1:45pm, 2:00pm, 5:30pm, 6:45pm, 8:15pm, 10:05pm)
+
+    * [She Said](https://drafthouse.com/raleigh/show/she-said): Mon 11/28 (1:00pm, 4:15pm, 7:30pm, 10:45pm), Tue 11/29 (11:40am, 2:55pm, 6:15pm, 9:30pm), Wed 11/30 (11:30am, 2:45pm, 6:30pm, 9:45pm)
+
+    * [Strange World](https://drafthouse.com/raleigh/show/strange-world): Mon 11/28 (11:45am, 2:30pm, 6:15pm, 9:00pm), Tue 11/29 (12:55pm, 3:45pm, 6:30pm, 9:15pm), Wed 11/30 (1:15pm, 4:00pm, 6:45pm, 9:30pm)
+
+    * [The Banshees Of Inisherin](https://drafthouse.com/raleigh/show/the-banshees-of-inisherin): Mon 11/28 (3:55pm), Tue 11/29 (3:30pm, 5:15pm), Wed 11/30 (5:45pm)
+
+    * [The Fabelmans](https://drafthouse.com/raleigh/show/the-fabelmans): Mon 11/28 (10:50am, 2:25pm, 6:00pm, 9:35pm), Tue 11/29 (11:00am, 2:30pm, 6:00pm, 9:45pm), Wed 11/30 (11:00am, 2:40pm, 6:15pm, 8:45pm, 9:55pm)
+
+    * [The Inspection](https://drafthouse.com/raleigh/show/the-inspection): Thu 12/1 (7:15pm, 9:55pm)
+
+    * [The Menu](https://drafthouse.com/raleigh/show/the-menu): Mon 11/28 (11:25am, 2:15pm, 5:10pm, 8:00pm, 10:00pm, 10:50pm), Tue 11/29 (11:25am, 2:15pm, 5:10pm, 8:00pm, 10:50pm), Wed 11/30 (11:15am, 12:30pm, 2:15pm, 3:25pm, 5:10pm, 8:00pm, 10:30pm, 10:50pm)
+
+    * [Violent Night](https://drafthouse.com/raleigh/show/violent-night): Thu 12/1 (5:00pm, 8:00pm, 10:55pm)
+
 ### Mon 11/21 3:23pm
 
 * New screenings: 
