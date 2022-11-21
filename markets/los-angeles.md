@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Sun 11/20 11:18pm
+* New movies: Avatar: The Way Of Water, Avatar: The Way Of Water
+
+* New screenings: 
+    * [Avatar The Way Of Water](https://drafthouse.com/los-angeles/show/avatar-the-way-of-water): Thu 12/15 (3:00pm, 4:00pm, 7:30pm, 8:30pm), Fri 12/16 (9:50am, 12:30pm, 2:10pm, 5:00pm, 6:30pm, 9:30pm, 10:50pm), Sat 12/17 (12:30pm, 2:10pm, 5:00pm, 6:30pm, 9:30pm, 10:50pm), Sun 12/18 (11:00am, 3:00pm, 3:30pm, 7:30pm, 8:00pm), Mon 12/19 (10:30am, 11:00am, 3:00pm, 3:30pm, 8:00pm), Tue 12/20 (10:30am, 11:00am, 3:00pm, 3:30pm, 7:30pm, 8:00pm), Wed 12/21 (10:30am, 11:00am, 3:00pm, 3:30pm, 7:30pm, 8:00pm), Thu 12/22 (2:00pm, 3:30pm, 6:30pm, 8:00pm), Fri 12/23 (10:00am, 11:00am, 2:30pm, 3:30pm, 7:00pm, 8:00pm), Sat 12/24 (11:00am, 2:30pm, 3:30pm, 7:00pm, 8:00pm), Sun 12/25 (11:00am, 2:30pm, 3:30pm, 7:00pm, 8:00pm)
+
+    * [Brunch Screenings Avatar The Way Of Water Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-avatar-the-way-of-water-brunch): Sat 12/17 (9:50am), Sun 12/18 (10:30am), Sat 12/24 (10:00am), Sun 12/25 (10:00am)
+
+    * [Movie Party Elf](https://drafthouse.com/los-angeles/show/movie-party-elf): Mon 12/19 (7:30pm)
+
 ### Fri 11/18 1:17pm
 * New movies: Hey, Stop Stabbing Me!
 
