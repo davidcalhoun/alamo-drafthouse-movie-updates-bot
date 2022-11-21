@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 11/21 5:25pm
+
+* New screenings: 
+    * [Violent Night](https://drafthouse.com/raleigh/show/violent-night): Fri 12/2 (7:30pm, 10:30pm), Sat 12/3 (7:30pm, 10:30pm), Sun 12/4 (7:30pm, 10:30pm)
+
 ### Mon 11/21 4:23pm
 * New movies: Violent Night, The Inspection
 
