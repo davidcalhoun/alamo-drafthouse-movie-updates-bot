@@ -1,6 +1,29 @@
 # raleigh
 
 ## Movie updates
+### Mon 11/21 3:23pm
+
+* New screenings: 
+    * [Black Adam](https://drafthouse.com/raleigh/show/black-adam): Wed 11/23 (10:45am), Thu 11/24 (10:50am), Fri 11/25 (1:20pm), Sat 11/26 (10:55am), Sun 11/27 (11:40am)
+
+    * [Black Panther Wakanda Forever](https://drafthouse.com/raleigh/show/black-panther-wakanda-forever): Tue 11/22 (11:30am, 12:00pm, 2:15pm, 3:15pm, 6:00pm, 7:15pm, 9:45pm, 11:00pm), Wed 11/23 (10:00am, 1:30pm, 2:00pm, 5:45pm, 9:30pm), Thu 11/24 (1:30pm, 4:30pm, 5:15pm, 9:00pm), Fri 11/25 (10:45am, 2:30pm, 6:15pm, 10:00pm), Sat 11/26 (11:45am, 3:30pm, 7:15pm, 11:00pm), Sun 11/27 (10:00am, 1:55pm, 5:45pm, 8:55pm, 9:30pm)
+
+    * [Bones And All](https://drafthouse.com/raleigh/show/bones-and-all): Sun 11/27 (10:15pm)
+
+    * [Devotion](https://drafthouse.com/raleigh/show/devotion): Fri 11/25 (9:55am), Sun 11/27 (9:45pm)
+
+    * [Glass Onion Knives Out Mystery](https://drafthouse.com/raleigh/show/glass-onion-knives-out-mystery): Wed 11/23 (5:30pm, 8:15pm, 9:00pm), Thu 11/24 (5:00pm, 8:30pm), Fri 11/25 (12:50pm, 4:30pm, 8:00pm, 8:30pm), Sat 11/26 (10:00am, 5:15pm, 9:00pm), Sun 11/27 (3:00pm, 5:30pm, 9:00pm, 9:50pm)
+
+    * [She Said](https://drafthouse.com/raleigh/show/she-said): Wed 11/23 (12:55pm, 4:15pm, 7:30pm, 10:45pm), Thu 11/24 (12:55pm, 4:15pm, 7:30pm, 10:45pm), Fri 11/25 (10:50am, 2:10pm, 4:15pm, 7:30pm, 10:45pm), Sat 11/26 (12:55pm, 4:15pm, 7:30pm, 10:45pm), Sun 11/27 (1:00pm, 4:15pm, 7:30pm, 10:45pm)
+
+    * [Strange World](https://drafthouse.com/raleigh/show/strange-world): Sun 11/27 (9:40pm)
+
+    * [The Banshees Of Inisherin](https://drafthouse.com/raleigh/show/the-banshees-of-inisherin): Wed 11/23 (5:15pm), Thu 11/24 (1:45pm), Fri 11/25 (5:30pm), Sat 11/26 (5:55pm), Sun 11/27 (2:30pm)
+
+    * [The Fabelmans](https://drafthouse.com/raleigh/show/the-fabelmans): Wed 11/23 (1:55pm), Thu 11/24 (8:15pm), Sat 11/26 (10:30am, 2:15pm, 8:45pm), Sun 11/27 (10:05pm)
+
+    * [The Menu](https://drafthouse.com/raleigh/show/the-menu): Tue 11/22 (11:25am, 2:50pm, 5:40pm, 8:30pm), Sun 11/27 (10:40pm)
+
 ### Sun 11/20 10:24am
 * New movies: Avatar: The Way Of Water
 
