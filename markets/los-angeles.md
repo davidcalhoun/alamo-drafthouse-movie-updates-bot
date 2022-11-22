@@ -1,6 +1,34 @@
 # los-angeles
 
 ## Movie updates
+### Mon 11/21 5:52pm
+* New movies: Ice Cream Man, The Harbinger
+
+* New screenings: 
+    * [Black Panther Wakanda Forever](https://drafthouse.com/los-angeles/show/black-panther-wakanda-forever): Tue 11/22 (11:30am, 12:00pm, 2:00pm, 3:25pm, 4:00pm, 7:00pm), Wed 11/23 (11:10am, 5:45pm, 6:00pm)
+
+    * [Bones And All](https://drafthouse.com/los-angeles/show/bones-and-all): Tue 11/22 (7:15pm, 7:45pm, 8:00pm), Wed 11/23 (2:40pm, 9:15pm)
+
+    * [Decision To Leave](https://drafthouse.com/los-angeles/show/decision-to-leave): Tue 11/22 (12:45pm, 4:15pm), Wed 11/23 (3:30pm, 11:00pm)
+
+    * [Glass Onion Knives Out Mystery](https://drafthouse.com/los-angeles/show/glass-onion-knives-out-mystery): Wed 11/23 (11:00am, 6:15pm, 10:00pm)
+
+    * [Guillermo Del Toros Pinocchio](https://drafthouse.com/los-angeles/show/guillermo-del-toros-pinocchio): Tue 11/22 (12:30pm, 3:45pm, 7:00pm)
+
+    * [Ice Cream Man 2](https://drafthouse.com/los-angeles/show/ice-cream-man-2): Tue 12/13 (8:00pm), Wed 12/14 (8:00pm)
+
+    * [She Said](https://drafthouse.com/los-angeles/show/she-said): Tue 11/22 (11:45am, 3:00pm, 6:30pm)
+
+    * [Tar](https://drafthouse.com/los-angeles/show/tar): Tue 11/22 (11:15am, 3:15pm)
+
+    * [The Banshees Of Inisherin](https://drafthouse.com/los-angeles/show/the-banshees-of-inisherin): Tue 11/22 (1:15pm)
+
+    * [The Fabelmans](https://drafthouse.com/los-angeles/show/the-fabelmans): Wed 11/23 (11:45am, 7:10pm)
+
+    * [The Menu](https://drafthouse.com/los-angeles/show/the-menu): Tue 11/22 (11:00am, 12:15pm, 3:15pm, 4:30pm, 6:15pm), Wed 11/23 (11:15am, 3:00pm)
+
+    * [Triangle Of Sadness](https://drafthouse.com/los-angeles/show/triangle-of-sadness): Tue 11/22 (12:00pm, 3:30pm), Wed 11/23 (2:20pm, 9:40pm)
+
 ### Sun 11/20 11:18pm
 * New movies: Avatar: The Way Of Water, Avatar: The Way Of Water
 
