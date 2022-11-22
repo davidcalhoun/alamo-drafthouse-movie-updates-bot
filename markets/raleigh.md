@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 11/22 5:25pm
+* New movies: Empire of Light
+
+* New screenings: 
+    * [Empire Of Light](https://drafthouse.com/raleigh/show/empire-of-light): Thu 12/8 (6:45pm, 9:45pm), Fri 12/9 (6:30pm), Sat 12/10 (6:30pm), Sun 12/11 (6:30pm)
+
 ### Mon 11/21 5:25pm
 
 * New screenings: 
