@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 11/21 7:12pm
+* New movies: Perdita Durango Dance with the Devil
+
+* New screenings: 
+    * [Perdita Durango](https://drafthouse.com/los-angeles/show/perdita-durango): Tue 11/29 (8:00pm)
+
 ### Mon 11/21 5:52pm
 * New movies: Ice Cream Man, The Harbinger
 
