@@ -1,6 +1,31 @@
 # los-angeles
 
 ## Movie updates
+### Mon 11/21 9:18pm
+
+* New screenings: 
+    * [Black Panther Wakanda Forever](https://drafthouse.com/los-angeles/show/black-panther-wakanda-forever): Thu 11/24 (11:15am, 5:45pm), Fri 11/25 (11:15am, 5:45pm), Sat 11/26 (5:45pm), Sun 11/27 (11:30am, 5:45pm), Mon 11/28 (11:00am, 12:00pm, 2:50pm, 6:45pm), Tue 11/29 (11:10am, 3:00pm, 5:45pm, 6:45pm), Wed 11/30 (11:10am, 2:15pm, 3:00pm, 5:45pm, 6:10pm, 7:00pm)
+
+    * [Bones And All](https://drafthouse.com/los-angeles/show/bones-and-all): Thu 11/24 (11:05am, 2:40pm, 6:15pm), Fri 11/25 (2:45pm, 6:15pm, 9:30pm), Sat 11/26 (2:45pm, 6:15pm, 9:30pm), Sun 11/27 (2:40pm, 6:15pm, 9:15pm), Mon 11/28 (12:30pm, 2:30pm, 4:00pm, 6:15pm), Tue 11/29 (11:00am, 12:30pm, 2:40pm, 7:30pm), Wed 11/30 (11:25am, 12:30pm, 2:40pm, 4:00pm, 6:15pm, 7:30pm)
+
+    * [Decision To Leave](https://drafthouse.com/los-angeles/show/decision-to-leave): Thu 11/24 (3:30pm, 11:00pm), Fri 11/25 (3:30pm, 11:00pm), Sat 11/26 (3:30pm, 11:00pm), Sun 11/27 (3:30pm, 11:00pm), Mon 11/28 (1:00pm, 3:50pm), Tue 11/29 (3:30pm), Wed 11/30 (11:00am, 3:20pm)
+
+    * [Glass Onion Knives Out Mystery](https://drafthouse.com/los-angeles/show/glass-onion-knives-out-mystery): Thu 11/24 (11:15am, 6:00pm, 9:30pm), Fri 11/25 (6:00pm, 9:15pm), Sat 11/26 (6:00pm, 9:45pm), Sun 11/27 (11:10am, 6:00pm, 9:30pm), Mon 11/28 (12:45pm, 6:00pm), Tue 11/29 (11:15am, 4:00pm, 6:00pm)
+
+    * [She Said](https://drafthouse.com/los-angeles/show/she-said): Mon 11/28 (12:15pm, 4:15pm, 7:40pm), Tue 11/29 (1:00pm, 4:20pm, 7:45pm), Wed 11/30 (1:00pm, 4:20pm, 7:45pm)
+
+    * [Strange World](https://drafthouse.com/los-angeles/show/strange-world): Mon 11/28 (11:15am, 3:00pm, 6:00pm), Tue 11/29 (11:40am, 3:00pm, 6:15pm), Wed 11/30 (12:15pm, 3:05pm, 6:00pm)
+
+    * [Tar](https://drafthouse.com/los-angeles/show/tar): Fri 11/25 (11:00am), Sat 11/26 (11:00am)
+
+    * [The Fabelmans](https://drafthouse.com/los-angeles/show/the-fabelmans): Thu 11/24 (11:45am, 7:10pm), Fri 11/25 (11:45am, 7:10pm), Sat 11/26 (11:45am, 7:10pm), Sun 11/27 (11:45am, 7:10pm), Mon 11/28 (11:15am, 2:45pm, 6:30pm, 7:15pm), Tue 11/29 (11:20am, 11:50am, 2:30pm, 6:30pm), Wed 11/30 (11:45am, 12:00pm, 2:50pm, 3:45pm, 6:30pm)
+
+    * [The Inspection](https://drafthouse.com/los-angeles/show/the-inspection): Thu 11/24 (9:45pm), Fri 11/25 (9:45pm), Sun 11/27 (9:45pm), Mon 11/28 (11:40am, 3:30pm, 6:25pm), Tue 11/29 (1:15pm, 4:00pm, 7:15pm), Wed 11/30 (12:10pm, 4:10pm, 6:45pm)
+
+    * [The Menu](https://drafthouse.com/los-angeles/show/the-menu): Thu 11/24 (3:00pm, 9:10pm), Fri 11/25 (11:15am, 3:00pm), Sat 11/26 (11:15am), Sun 11/27 (11:15am), Mon 11/28 (11:45am, 1:15pm, 4:25pm, 7:30pm), Tue 11/29 (11:15am, 1:15pm, 2:10pm, 4:25pm, 7:30pm), Wed 11/30 (11:00am, 11:25am, 2:00pm, 5:00pm, 8:00pm)
+
+    * [Triangle Of Sadness](https://drafthouse.com/los-angeles/show/triangle-of-sadness): Thu 11/24 (2:20pm, 9:40pm), Fri 11/25 (2:20pm, 9:40pm), Sat 11/26 (2:20pm, 9:40pm), Sun 11/27 (2:20pm, 9:40pm), Mon 11/28 (4:30pm), Tue 11/29 (2:20pm), Wed 11/30 (12:40pm, 2:20pm)
+
 ### Mon 11/21 7:12pm
 * New movies: Perdita Durango Dance with the Devil
 
