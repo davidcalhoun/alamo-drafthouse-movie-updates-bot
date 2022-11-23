@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Tue 11/22 5:40pm
+* New movies: Violent Night, Empire of Light
+
+* New screenings: 
+    * [Empire Of Light](https://drafthouse.com/los-angeles/show/empire-of-light): Thu 12/8 (5:00pm, 8:00pm, 11:00pm), Fri 12/9 (12:15pm, 3:20pm, 6:30pm, 9:40pm), Sat 12/10 (12:15pm, 3:20pm, 6:30pm, 9:40pm), Sun 12/11 (12:15pm, 3:20pm, 6:30pm)
+
+    * [Movie Party Elf](https://drafthouse.com/los-angeles/show/movie-party-elf): Wed 12/14 (7:00pm)
+
+    * [Movie Party National Lampoons Christmas Vacation](https://drafthouse.com/los-angeles/show/movie-party-national-lampoons-christmas-vacation): Mon 12/19 (8:00pm)
+
+    * [Violent Night](https://drafthouse.com/los-angeles/show/violent-night): Thu 12/1 (5:00pm, 8:00pm, 11:00pm), Fri 12/2 (12:45pm, 3:50pm), Sat 12/3 (12:45pm, 3:50pm, 7:00pm, 10:10pm), Sun 12/4 (12:45pm, 3:50pm, 7:00pm)
+
 ### Mon 11/21 9:18pm
 
 * New screenings: 
