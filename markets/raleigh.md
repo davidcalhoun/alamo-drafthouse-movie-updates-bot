@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 11/23 12:19pm
+* New movies: Violent Night
+
+* New screenings: 
+    * [Free Victory Screening Violent Night Advance Screening](https://drafthouse.com/raleigh/show/free-victory-screening-violent-night-advance-screening): Wed 11/30 (7:15pm)
+
 ### Tue 11/22 5:25pm
 * New movies: Empire of Light
 
