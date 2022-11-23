@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Wed 11/23 9:16am
+* New movies: Violent Night, Violent Night, Violent Night
+
+* New screenings: 
+    * [Escape Your Home For The Holidays Violent Night W Live Intro](https://drafthouse.com/los-angeles/show/escape-your-home-for-the-holidays-violent-night-w-live-intro): Fri 12/2 (10:30pm)
+
+    * [Escape Your Home For The Holidays Violent Night W Live Q A](https://drafthouse.com/los-angeles/show/escape-your-home-for-the-holidays-violent-night-w-live-q-a): Fri 12/2 (7:00pm)
+
+    * [Free Victory Screening Violent Night Advance Screening](https://drafthouse.com/los-angeles/show/free-victory-screening-violent-night-advance-screening): Wed 11/30 (7:30pm)
+
 ### Tue 11/22 5:40pm
 * New movies: Violent Night, Empire of Light
 
