@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 11/25 1:16pm
+
+* New screenings: 
+    * [Glass Onion Knives Out Mystery](https://drafthouse.com/los-angeles/show/glass-onion-knives-out-mystery): Sat 11/26 (10:00pm)
+
 ### Wed 11/23 9:16am
 * New movies: Violent Night, Violent Night, Violent Night
 
