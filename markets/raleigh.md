@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 11/25 12:20pm
+
+* New screenings: 
+    * [Glass Onion Knives Out Mystery](https://drafthouse.com/raleigh/show/glass-onion-knives-out-mystery): Sat 11/26 (10:20pm)
+
 ### Fri 11/25 11:31am
 
 * New screenings: 
