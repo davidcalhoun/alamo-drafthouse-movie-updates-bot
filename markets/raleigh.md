@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Mon 11/28 1:28pm
+* New movies: Spoiler Alert
+
+* New screenings: 
+    * [Empire Of Light](https://drafthouse.com/raleigh/show/empire-of-light): Fri 12/9 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sat 12/10 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sun 12/11 (12:30pm, 3:30pm, 6:30pm, 9:30pm)
+
+    * [Spoiler Alert The Hero Dies](https://drafthouse.com/raleigh/show/spoiler-alert-the-hero-dies): Fri 12/9 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 12/10 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sun 12/11 (12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
 ### Fri 11/25 12:20pm
 
 * New screenings: 
