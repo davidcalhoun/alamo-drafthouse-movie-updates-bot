@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Mon 11/28 2:18pm
+* New movies: Hey, Stop Stabbing Me!
+
+* New screenings: 
+    * [Hey Stop Stabbing Me](https://drafthouse.com/los-angeles/show/hey-stop-stabbing-me): Wed 12/14 (8:00pm)
+
+    * [Ice Cream Man 2](https://drafthouse.com/los-angeles/show/ice-cream-man-2): Wed 12/7 (8:00pm)
+
 ### Mon 11/28 1:16pm
 * New movies: 2nd Chance, Hunt, Nr. 10, Leonor Will Never Die, The Wind Rises Dubbed
 
