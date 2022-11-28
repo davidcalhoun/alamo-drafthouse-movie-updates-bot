@@ -1,6 +1,27 @@
 # raleigh
 
 ## Movie updates
+### Mon 11/28 3:22pm
+
+* New screenings: 
+    * [A Christmas Story](https://drafthouse.com/raleigh/show/a-christmas-story): Thu 12/1 (2:15pm)
+
+    * [Black Panther Wakanda Forever](https://drafthouse.com/raleigh/show/black-panther-wakanda-forever): Thu 12/1 (11:00am, 12:30pm, 1:00pm, 1:30pm, 1:45pm, 2:30pm, 2:45pm, 5:30pm, 6:30pm, 8:15pm, 9:15pm, 9:55pm, 10:15pm)
+
+    * [Bones And All](https://drafthouse.com/raleigh/show/bones-and-all): Thu 12/1 (11:15am, 4:15pm, 7:30pm, 10:40pm)
+
+    * [Devotion](https://drafthouse.com/raleigh/show/devotion): Thu 12/1 (12:25pm, 3:50pm, 6:45pm, 10:10pm)
+
+    * [She Said](https://drafthouse.com/raleigh/show/she-said): Thu 12/1 (3:45pm)
+
+    * [Strange World](https://drafthouse.com/raleigh/show/strange-world): Thu 12/1 (12:55pm, 4:45pm, 7:45pm, 10:30pm)
+
+    * [The Banshees Of Inisherin](https://drafthouse.com/raleigh/show/the-banshees-of-inisherin): Thu 12/1 (5:15pm)
+
+    * [The Fabelmans](https://drafthouse.com/raleigh/show/the-fabelmans): Thu 12/1 (11:30am, 3:10pm, 6:15pm, 9:50pm)
+
+    * [The Menu](https://drafthouse.com/raleigh/show/the-menu): Thu 12/1 (12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
 ### Mon 11/28 1:28pm
 * New movies: Spoiler Alert
 
