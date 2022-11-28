@@ -1,6 +1,50 @@
 # los-angeles
 
 ## Movie updates
+### Mon 11/28 1:16pm
+* New movies: 2nd Chance, Hunt, Nr. 10, Leonor Will Never Die, The Wind Rises Dubbed
+
+* New screenings: 
+    * [2nd Chance](https://drafthouse.com/los-angeles/show/2nd-chance): Thu 12/1 (7:15pm, 10:00pm), Fri 12/2 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sat 12/3 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sun 12/4 (11:30am, 2:15pm, 5:00pm, 7:45pm), Mon 12/5 (11:30am, 2:15pm, 5:00pm, 7:45pm), Tue 12/6 (11:30am, 2:15pm, 5:00pm, 7:45pm), Wed 12/7 (11:30am, 2:15pm, 5:00pm, 7:45pm)
+
+    * [Black Panther Wakanda Forever](https://drafthouse.com/los-angeles/show/black-panther-wakanda-forever): Thu 12/1 (2:15pm, 3:15pm, 6:15pm, 9:25pm, 10:10pm), Fri 12/2 (11:00am, 11:45am, 2:50pm, 3:45pm, 6:45pm, 10:40pm), Sat 12/3 (11:00am, 2:50pm, 6:45pm, 10:40pm), Sun 12/4 (11:00am, 2:50pm, 6:45pm), Mon 12/5 (11:00am, 2:50pm, 6:45pm), Tue 12/6 (11:00am, 12:00pm, 3:00pm, 7:00pm), Wed 12/7 (11:00am, 2:50pm, 6:45pm)
+
+    * [Bones And All](https://drafthouse.com/los-angeles/show/bones-and-all): Thu 12/1 (2:15pm, 3:30pm, 7:00pm, 8:30pm, 10:30pm), Fri 12/2 (11:45am, 12:35pm, 4:00pm, 7:30pm, 11:00pm), Sat 12/3 (11:45am, 12:35pm, 4:00pm, 7:30pm, 11:00pm), Sun 12/4 (12:40pm, 4:00pm, 7:30pm), Mon 12/5 (11:45am, 12:35pm, 4:00pm, 7:30pm), Tue 12/6 (11:45am, 12:35pm, 4:00pm, 7:30pm), Wed 12/7 (11:45am, 12:35pm, 4:00pm, 7:30pm)
+
+    * [Brunch Screenings The Wind Rises Dubbed Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-the-wind-rises-dubbed-brunch): Sat 12/3 (12:40pm)
+
+    * [Chunky Shrapnel](https://drafthouse.com/los-angeles/show/chunky-shrapnel): Tue 12/6 (5:00pm), Wed 12/7 (2:10pm)
+
+    * [Decision To Leave](https://drafthouse.com/los-angeles/show/decision-to-leave): Thu 12/1 (5:45pm), Fri 12/2 (2:15pm), Sat 12/3 (2:20pm), Sun 12/4 (2:15pm), Mon 12/5 (5:45pm), Tue 12/6 (5:45pm), Wed 12/7 (5:45pm)
+
+    * [Eo](https://drafthouse.com/los-angeles/show/eo): Sun 12/4 (8:15pm), Mon 12/5 (11:00am, 2:10pm, 4:45pm, 7:30pm), Tue 12/6 (11:20am, 2:00pm, 4:45pm, 7:30pm), Wed 12/7 (11:15am, 2:00pm, 4:45pm, 7:30pm)
+
+    * [Fist City Lady Snowblood](https://drafthouse.com/los-angeles/show/fist-city-lady-snowblood): Tue 12/6 (4:00pm)
+
+    * [Graveyard Shift The Beyond 1981](https://drafthouse.com/los-angeles/show/graveyard-shift-the-beyond-1981): Thu 12/1 (5:45pm)
+
+    * [Hunt](https://drafthouse.com/los-angeles/show/hunt): Fri 12/2 (9:00pm), Sat 12/3 (8:45pm), Sun 12/4 (2:40pm), Mon 12/5 (6:15pm), Tue 12/6 (7:45pm), Wed 12/7 (2:30pm)
+
+    * [Leonor Will Never Die](https://drafthouse.com/los-angeles/show/leonor-will-never-die): Fri 12/2 (6:00pm), Sat 12/3 (5:45pm), Sun 12/4 (2:30pm), Mon 12/5 (12:35pm), Tue 12/6 (2:10pm)
+
+    * [Nr 10](https://drafthouse.com/los-angeles/show/nr-10): Fri 12/2 (3:00pm), Sat 12/3 (10:25pm), Sun 12/4 (5:25pm), Mon 12/5 (3:30pm), Tue 12/6 (11:10am), Wed 12/7 (11:35am)
+
+    * [She Said](https://drafthouse.com/los-angeles/show/she-said): Thu 12/1 (3:30pm, 6:00pm), Fri 12/2 (12:15pm, 6:15pm), Sat 12/3 (12:15pm, 6:15pm), Sun 12/4 (11:45am, 7:15pm), Mon 12/5 (12:15pm, 6:15pm), Tue 12/6 (12:15pm, 6:15pm), Wed 12/7 (12:15pm, 6:15pm)
+
+    * [Strange World](https://drafthouse.com/los-angeles/show/strange-world): Thu 12/1 (3:00pm, 6:00pm, 9:00pm), Fri 12/2 (11:15am, 3:00pm, 6:00pm, 9:00pm), Sat 12/3 (11:15am, 3:00pm, 6:00pm, 9:00pm), Sun 12/4 (11:15am, 3:00pm, 6:00pm), Mon 12/5 (11:15am, 3:00pm, 6:00pm), Tue 12/6 (11:15am, 3:00pm, 6:00pm), Wed 12/7 (11:15am, 3:00pm, 6:00pm)
+
+    * [The Fabelmans](https://drafthouse.com/los-angeles/show/the-fabelmans): Thu 12/1 (2:45pm, 6:30pm, 10:15pm), Fri 12/2 (11:00am, 2:45pm, 6:30pm, 10:20pm), Sat 12/3 (11:00am, 2:45pm, 6:30pm, 10:20pm), Sun 12/4 (11:00am, 2:45pm, 6:30pm), Mon 12/5 (11:00am, 2:45pm, 6:30pm), Tue 12/6 (11:00am, 2:45pm, 6:30pm), Wed 12/7 (11:00am, 2:45pm, 6:30pm)
+
+    * [The Inspection](https://drafthouse.com/los-angeles/show/the-inspection): Thu 12/1 (3:15pm), Fri 12/2 (3:30pm), Sat 12/3 (3:30pm), Sun 12/4 (4:30pm), Mon 12/5 (3:30pm), Tue 12/6 (3:30pm), Wed 12/7 (3:30pm)
+
+    * [The Menu](https://drafthouse.com/los-angeles/show/the-menu): Thu 12/1 (2:00pm, 4:15pm, 7:15pm, 10:25pm), Fri 12/2 (12:00pm, 1:15pm, 4:15pm, 7:15pm, 10:30pm), Sat 12/3 (1:15pm, 4:15pm, 7:15pm, 10:30pm), Sun 12/4 (1:15pm, 4:15pm, 7:15pm), Mon 12/5 (11:15am, 1:15pm, 4:15pm, 7:15pm), Tue 12/6 (1:15pm, 4:15pm, 7:15pm), Wed 12/7 (11:00am, 1:15pm, 4:15pm, 7:15pm)
+
+    * [The Wind Rises Dubbed](https://drafthouse.com/los-angeles/show/the-wind-rises-dubbed): Sat 12/3 (4:00pm)
+
+    * [Triangle Of Sadness](https://drafthouse.com/los-angeles/show/triangle-of-sadness): Thu 12/1 (2:15pm), Fri 12/2 (8:45pm), Sat 12/3 (8:45pm), Sun 12/4 (5:45pm), Mon 12/5 (2:15pm), Tue 12/6 (2:15pm), Wed 12/7 (2:15pm)
+
+    * [Violent Night](https://drafthouse.com/los-angeles/show/violent-night): Thu 12/1 (6:45pm, 9:15pm, 9:45pm), Fri 12/2 (5:45pm, 7:45pm, 9:35pm, 10:15pm), Sat 12/3 (5:45pm, 7:15pm, 9:40pm), Mon 12/5 (12:45pm, 3:50pm, 7:00pm), Tue 12/6 (12:30pm, 3:40pm, 7:00pm), Wed 12/7 (12:45pm, 3:50pm, 7:00pm)
+
 ### Fri 11/25 1:16pm
 
 * New screenings: 
