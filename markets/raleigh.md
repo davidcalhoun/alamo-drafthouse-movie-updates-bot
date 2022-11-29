@@ -1,6 +1,38 @@
 # raleigh
 
 ## Movie updates
+### Tue 11/29 11:32am
+* New movies: Nr. 10, Hunt, The Wind Rises Subtitled, The Wind Rises Subtitled, The Wind Rises Dubbed
+
+* New screenings: 
+    * [Black Panther Wakanda Forever](https://drafthouse.com/raleigh/show/black-panther-wakanda-forever): Fri 12/2 (11:00am, 12:00pm, 1:00pm, 2:45pm, 3:30pm, 4:45pm, 5:30pm, 6:00pm, 8:30pm, 9:00pm, 9:45pm), Sat 12/3 (12:00pm, 1:00pm, 2:45pm, 4:45pm, 6:30pm, 8:30pm, 10:00pm, 10:15pm), Sun 12/4 (11:45am, 1:30pm, 2:15pm, 4:15pm, 5:15pm, 6:00pm, 9:00pm, 9:30pm), Mon 12/5 (11:00am, 12:00pm, 1:00pm, 2:45pm, 3:45pm, 5:15pm, 6:30pm, 9:00pm, 9:45pm, 10:15pm), Tue 12/6 (11:55am, 1:30pm, 2:15pm, 3:45pm, 5:15pm, 6:00pm, 9:00pm, 9:45pm, 10:20pm), Wed 12/7 (11:00am, 12:30pm, 1:45pm, 2:45pm, 3:45pm, 5:30pm, 6:30pm, 9:15pm, 9:50pm, 10:15pm)
+
+    * [Bones And All](https://drafthouse.com/raleigh/show/bones-and-all): Fri 12/2 (11:45am, 3:45pm, 7:00pm, 10:15pm), Sat 12/3 (12:30pm, 3:50pm, 7:15pm, 10:25pm), Sun 12/4 (12:50pm, 3:55pm, 7:15pm, 10:25pm), Mon 12/5 (12:45pm, 3:00pm, 6:45pm, 10:00pm), Tue 12/6 (1:15pm, 4:45pm, 6:45pm, 9:55pm), Wed 12/7 (1:30pm, 4:45pm, 7:30pm, 10:40pm)
+
+    * [Brunch Screenings The Wind Rises Subtitled Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-the-wind-rises-subtitled-brunch): Sat 12/3 (1:50pm)
+
+    * [Devotion](https://drafthouse.com/raleigh/show/devotion): Fri 12/2 (11:25am, 2:50pm, 6:45pm, 10:25pm), Sat 12/3 (12:50pm, 4:15pm, 6:00pm, 9:20pm), Sun 12/4 (1:20pm, 2:50pm, 6:45pm, 10:10pm), Mon 12/5 (1:15pm, 4:40pm, 6:15pm, 9:40pm), Tue 12/6 (11:20am, 2:50pm, 6:15pm, 9:40pm), Wed 12/7 (12:15pm, 4:15pm, 6:45pm, 10:10pm)
+
+    * [Hunt](https://drafthouse.com/raleigh/show/hunt): Fri 12/2 (12:15pm), Sun 12/4 (9:45pm), Mon 12/5 (10:55pm), Tue 12/6 (10:55pm), Wed 12/7 (10:50pm)
+
+    * [Nr 10](https://drafthouse.com/raleigh/show/nr-10): Fri 12/2 (5:00pm, 8:00pm), Sun 12/4 (8:15pm, 10:59pm), Mon 12/5 (8:15pm), Tue 12/6 (11:45am, 5:30pm, 8:15pm), Wed 12/7 (11:45am, 2:30pm)
+
+    * [Strange World](https://drafthouse.com/raleigh/show/strange-world): Fri 12/2 (11:30am, 2:15pm, 6:15pm, 10:10pm), Sat 12/3 (11:50am, 3:55pm, 7:45pm, 9:45pm), Sun 12/4 (12:55pm, 4:45pm, 7:45pm, 10:40pm), Mon 12/5 (12:30pm, 4:30pm, 7:45pm, 10:30pm), Tue 12/6 (11:30am, 5:00pm, 7:45pm, 10:30pm), Wed 12/7 (11:30am, 3:30pm, 6:15pm, 9:00pm)
+
+    * [The Banshees Of Inisherin](https://drafthouse.com/raleigh/show/the-banshees-of-inisherin): Fri 12/2 (3:00pm), Sat 12/3 (2:30pm), Sun 12/4 (2:00pm), Mon 12/5 (2:55pm), Tue 12/6 (2:30pm), Wed 12/7 (5:15pm)
+
+    * [The Fabelmans](https://drafthouse.com/raleigh/show/the-fabelmans): Fri 12/2 (12:30pm, 4:15pm, 7:15pm, 10:50pm), Sat 12/3 (11:40am, 2:40pm, 6:15pm, 9:50pm), Sun 12/4 (12:45pm, 4:30pm, 6:15pm, 9:50pm), Mon 12/5 (11:20am, 3:15pm, 6:00pm, 9:35pm), Tue 12/6 (12:40pm, 2:55pm, 6:30pm, 10:10pm), Wed 12/7 (12:55pm, 2:15pm, 6:00pm, 9:40pm)
+
+    * [The Inspection](https://drafthouse.com/raleigh/show/the-inspection): Fri 12/2 (1:15pm, 4:00pm, 7:45pm, 10:45pm), Sat 12/3 (11:55am, 3:15pm, 6:45pm, 10:40pm), Sun 12/4 (1:15pm, 5:00pm, 8:00pm, 10:45pm), Mon 12/5 (12:15pm, 4:00pm, 8:00pm, 10:40pm), Tue 12/6 (12:15pm, 4:00pm, 8:00pm, 10:40pm), Wed 12/7 (1:10pm, 4:30pm, 8:15pm, 10:55pm)
+
+    * [The Menu](https://drafthouse.com/raleigh/show/the-menu): Fri 12/2 (11:30am, 2:30pm, 6:30pm, 9:20pm), Sat 12/3 (1:30pm, 5:00pm, 8:00pm, 10:55pm), Sun 12/4 (1:00pm, 3:30pm, 6:30pm, 9:55pm), Mon 12/5 (11:30am, 2:20pm, 7:30pm, 10:25pm), Tue 12/6 (12:55pm, 3:55pm, 7:30pm, 10:00pm), Wed 12/7 (1:00pm, 4:00pm, 8:00pm, 9:55pm)
+
+    * [The Wind Rises Dubbed](https://drafthouse.com/raleigh/show/the-wind-rises-dubbed): Mon 12/5 (1:50pm)
+
+    * [The Wind Rises Subtitled](https://drafthouse.com/raleigh/show/the-wind-rises-subtitled): Mon 12/5 (5:00pm), Tue 12/6 (1:50pm)
+
+    * [Violent Night](https://drafthouse.com/raleigh/show/violent-night): Fri 12/2 (1:30pm, 4:30pm), Sat 12/3 (12:55pm, 4:30pm), Sun 12/4 (11:55am, 3:45pm), Mon 12/5 (1:30pm, 4:45pm, 7:15pm, 10:10pm), Tue 12/6 (1:00pm, 4:15pm, 7:15pm, 10:15pm), Wed 12/7 (12:20pm, 3:50pm, 7:45pm, 10:40pm)
+
 ### Mon 11/28 3:22pm
 
 * New screenings: 
