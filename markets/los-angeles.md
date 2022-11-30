@@ -1,6 +1,20 @@
 # los-angeles
 
 ## Movie updates
+### Wed 11/30 3:19pm
+* New movies: White Christmas, Carol, Eyes Wide Shut, When Harry Met Sally...
+
+* New screenings: 
+    * [Carol Brunch](https://drafthouse.com/los-angeles/show/carol-brunch): Sun 12/25 (12:30pm)
+
+    * [Eyes Wide Shut](https://drafthouse.com/los-angeles/show/eyes-wide-shut): Tue 12/27 (6:00pm)
+
+    * [Movie Party Elf](https://drafthouse.com/los-angeles/show/movie-party-elf): Mon 12/19 (5:00pm)
+
+    * [When Harry Met Sally Brunch](https://drafthouse.com/los-angeles/show/when-harry-met-sally-brunch): Sat 12/31 (11:00am)
+
+    * [White Christmas](https://drafthouse.com/los-angeles/show/white-christmas): Sat 12/24 (11:00am)
+
 ### Mon 11/28 2:18pm
 * New movies: Hey, Stop Stabbing Me!
 
