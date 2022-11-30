@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Wed 11/30 1:28pm
+* New movies: Little Women 2019, Rare Exports: A Christmas Tale
+
+* New screenings: 
+    * [Brunch Screenings Little Women 2019 Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-little-women-2019-brunch): Sat 12/10 (11:45am)
+
+    * [Rare Exports A Christmas Tale](https://drafthouse.com/raleigh/show/rare-exports-a-christmas-tale): Sun 12/11 (9:15pm)
+
+    * [The Jinkx Dela Holiday Special](https://drafthouse.com/raleigh/show/the-jinkx-dela-holiday-special): Fri 12/9 (9:15pm)
+
 ### Tue 11/29 11:32am
 * New movies: Nr. 10, Hunt, The Wind Rises Subtitled, The Wind Rises Subtitled, The Wind Rises Dubbed
 
