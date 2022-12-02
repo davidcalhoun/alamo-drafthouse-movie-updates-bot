@@ -1,6 +1,20 @@
 # los-angeles
 
 ## Movie updates
+### Thu 12/1 6:49pm
+* New movies: All That Breathes, Phantom Thread
+
+* New screenings: 
+    * [All That Breathes](https://drafthouse.com/los-angeles/show/all-that-breathes): Thu 1/12 (7:30pm)
+
+    * [Movie Party Elf](https://drafthouse.com/los-angeles/show/movie-party-elf): Sat 12/17 (12:00pm), Sun 12/18 (11:45am)
+
+    * [Movie Party Gremlins](https://drafthouse.com/los-angeles/show/movie-party-gremlins): Sun 12/18 (2:45pm)
+
+    * [Movie Party National Lampoons Christmas Vacation](https://drafthouse.com/los-angeles/show/movie-party-national-lampoons-christmas-vacation): Sat 12/17 (3:00pm)
+
+    * [Phantom Thread](https://drafthouse.com/los-angeles/show/phantom-thread): Mon 1/2 (8:00pm)
+
 ### Wed 11/30 3:19pm
 * New movies: White Christmas, Carol, Eyes Wide Shut, When Harry Met Sally...
 
