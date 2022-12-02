@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Fri 12/2 1:24pm
+* New movies: Phantom Thread
+
+* New screenings: 
+    * [Movie Party Elf](https://drafthouse.com/raleigh/show/movie-party-elf): Thu 12/8 (10:00pm), Wed 12/14 (10:00pm)
+
+    * [Phantom Thread](https://drafthouse.com/raleigh/show/phantom-thread): Sun 1/1 (6:45pm)
+
 ### Wed 11/30 1:28pm
 * New movies: Little Women 2019, Rare Exports: A Christmas Tale
 
