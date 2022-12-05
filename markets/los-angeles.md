@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 12/5 8:25am
+* New movies: The Civil Dead
+
+* New screenings: 
+    * [Live Q A The Civil Dead](https://drafthouse.com/los-angeles/show/live-q-a-the-civil-dead): Fri 2/3 (7:00pm)
+
 ### Thu 12/1 6:49pm
 * New movies: All That Breathes, Phantom Thread
 
