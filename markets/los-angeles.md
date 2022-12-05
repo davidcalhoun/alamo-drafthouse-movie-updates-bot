@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 12/5 12:18pm
+
+* New screenings: 
+    * [Nr 10](https://drafthouse.com/los-angeles/show/nr-10): Tue 12/6 (5:00pm)
+
 ### Mon 12/5 8:25am
 * New movies: The Civil Dead
 
