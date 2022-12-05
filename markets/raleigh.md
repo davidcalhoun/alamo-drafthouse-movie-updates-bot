@@ -1,6 +1,38 @@
 # raleigh
 
 ## Movie updates
+### Mon 12/5 6:22pm
+* New movies: Guillermo del Toro's Pinocchio, Leonor Will Never Die
+
+* New screenings: 
+    * [Black Panther Wakanda Forever](https://drafthouse.com/raleigh/show/black-panther-wakanda-forever): Thu 12/8 (11:15am, 12:00pm, 1:30pm, 3:00pm, 3:45pm, 5:15pm, 6:30pm, 9:00pm, 10:15pm), Fri 12/9 (11:30am, 1:00pm, 3:15pm, 4:45pm, 6:15pm, 8:30pm, 9:55pm)
+
+    * [Bones And All](https://drafthouse.com/raleigh/show/bones-and-all): Thu 12/8 (11:30am, 2:50pm, 6:45pm, 10:05pm), Fri 12/9 (1:15pm, 4:25pm, 7:45pm, 10:55pm)
+
+    * [Devotion](https://drafthouse.com/raleigh/show/devotion): Thu 12/8 (11:50am, 3:55pm, 7:15pm, 10:35pm), Fri 12/9 (11:15am, 3:20pm, 7:15pm, 10:40pm)
+
+    * [Empire Of Light](https://drafthouse.com/raleigh/show/empire-of-light): Thu 12/8 (10:55pm)
+
+    * [Guillermo Del Toros Pinocchio](https://drafthouse.com/raleigh/show/guillermo-del-toros-pinocchio): Fri 12/9 (2:15pm)
+
+    * [Leonor Will Never Die](https://drafthouse.com/raleigh/show/leonor-will-never-die): Fri 12/9 (5:15pm)
+
+    * [Spoiler Alert The Hero Dies](https://drafthouse.com/raleigh/show/spoiler-alert-the-hero-dies): Thu 12/8 (7:45pm, 10:45pm)
+
+    * [Strange World](https://drafthouse.com/raleigh/show/strange-world): Thu 12/8 (12:15pm, 3:15pm, 6:00pm, 8:45pm), Fri 12/9 (12:55pm, 3:45pm, 6:30pm, 10:00pm)
+
+    * [The Banshees Of Inisherin](https://drafthouse.com/raleigh/show/the-banshees-of-inisherin): Thu 12/8 (4:45pm)
+
+    * [The Fabelmans](https://drafthouse.com/raleigh/show/the-fabelmans): Thu 12/8 (1:15pm, 3:10pm, 6:15pm, 9:55pm), Fri 12/9 (12:40pm, 2:40pm, 6:45pm, 10:25pm)
+
+    * [The Inspection](https://drafthouse.com/raleigh/show/the-inspection): Thu 12/8 (2:00pm), Fri 12/9 (11:25am)
+
+    * [The Menu](https://drafthouse.com/raleigh/show/the-menu): Thu 12/8 (12:30pm, 3:30pm, 7:30pm, 10:25pm), Fri 12/9 (1:30pm, 4:30pm, 7:30pm, 10:20pm)
+
+    * [The Wind Rises Subtitled](https://drafthouse.com/raleigh/show/the-wind-rises-subtitled): Thu 12/8 (12:45pm)
+
+    * [Violent Night](https://drafthouse.com/raleigh/show/violent-night): Thu 12/8 (1:00pm, 4:00pm, 6:55pm, 9:50pm), Fri 12/9 (12:15pm, 4:15pm, 8:00pm, 10:55pm)
+
 ### Fri 12/2 1:24pm
 * New movies: Phantom Thread
 
