@@ -1,6 +1,58 @@
 # los-angeles
 
 ## Movie updates
+### Mon 12/5 9:15pm
+* New movies: Guillermo del Toro's Pinocchio, Spoiler Alert, Holy Spider, Soft & Quiet, Aftersun, Moonage Daydream
+
+* New screenings: 
+    * [2nd Chance](https://drafthouse.com/los-angeles/show/2nd-chance): Thu 12/8 (2:15pm), Fri 12/9 (3:30pm), Sat 12/10 (3:30pm), Sun 12/11 (3:30pm), Mon 12/12 (3:30pm), Tue 12/13 (3:30pm), Wed 12/14 (3:30pm)
+
+    * [Aftersun](https://drafthouse.com/los-angeles/show/aftersun): Fri 12/9 (1:00pm, 8:15pm), Sat 12/10 (2:10pm, 8:15pm), Sun 12/11 (2:10pm), Mon 12/12 (2:15pm, 8:15pm), Tue 12/13 (2:15pm, 8:15pm), Wed 12/14 (2:15pm)
+
+    * [Batman Returns](https://drafthouse.com/los-angeles/show/batman-returns): Fri 12/9 (5:45pm), Sat 12/10 (9:00pm), Mon 12/12 (1:45pm), Wed 12/14 (11:15am)
+
+    * [Black Panther Wakanda Forever](https://drafthouse.com/los-angeles/show/black-panther-wakanda-forever): Thu 12/8 (3:15pm, 6:30pm, 10:20pm), Fri 12/9 (11:00am, 3:00pm, 6:00pm, 10:00pm), Sat 12/10 (11:00am, 3:00pm, 6:00pm, 10:00pm), Sun 12/11 (11:00am, 3:00pm, 6:00pm), Mon 12/12 (11:00am, 3:00pm, 6:00pm), Tue 12/13 (11:00am, 3:00pm, 6:00pm), Wed 12/14 (11:00am, 3:00pm, 6:00pm)
+
+    * [Bones And All](https://drafthouse.com/los-angeles/show/bones-and-all): Thu 12/8 (4:00pm, 7:30pm, 10:55pm), Fri 12/9 (12:15pm, 3:45pm, 7:15pm, 10:40pm), Sat 12/10 (12:15pm, 3:45pm, 7:15pm, 10:40pm), Sun 12/11 (12:30pm, 2:30pm, 8:00pm), Mon 12/12 (12:15pm, 3:45pm, 7:15pm), Tue 12/13 (12:15pm, 3:45pm, 7:15pm), Wed 12/14 (12:15pm, 3:45pm, 7:15pm)
+
+    * [Decision To Leave](https://drafthouse.com/los-angeles/show/decision-to-leave): Thu 12/8 (3:30pm)
+
+    * [Empire Of Light](https://drafthouse.com/los-angeles/show/empire-of-light): Mon 12/12 (12:15pm, 3:20pm, 6:30pm), Tue 12/13 (12:15pm, 3:20pm, 6:30pm), Wed 12/14 (12:15pm, 3:20pm, 6:30pm)
+
+    * [Eo](https://drafthouse.com/los-angeles/show/eo): Thu 12/8 (2:00pm, 4:45pm, 7:40pm, 10:30pm), Fri 12/9 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sat 12/10 (11:30am, 2:15pm, 5:00pm, 7:45pm, 11:00pm), Sun 12/11 (11:30am, 2:15pm, 5:00pm, 7:45pm), Mon 12/12 (11:10am, 2:30pm, 5:15pm, 8:00pm), Tue 12/13 (11:45am, 2:30pm, 5:15pm, 8:00pm), Wed 12/14 (11:20am, 2:30pm, 5:15pm, 8:00pm)
+
+    * [Graveyard Shift Childs Play 1988](https://drafthouse.com/los-angeles/show/graveyard-shift-childs-play-1988): Fri 12/9 (9:45pm), Sat 12/10 (9:45pm)
+
+    * [Guillermo Del Toros Pinocchio](https://drafthouse.com/los-angeles/show/guillermo-del-toros-pinocchio): Thu 12/8 (9:00pm), Fri 12/9 (5:15pm, 11:00pm), Sat 12/10 (11:10am, 4:50pm), Sun 12/11 (11:10am, 5:00pm), Mon 12/12 (11:15am, 5:00pm), Tue 12/13 (11:10am, 5:00pm), Wed 12/14 (11:10am, 5:00pm)
+
+    * [Holy Spider](https://drafthouse.com/los-angeles/show/holy-spider): Fri 12/9 (4:00pm), Sat 12/10 (11:00am), Sun 12/11 (8:10pm), Mon 12/12 (11:30am), Tue 12/13 (11:00am), Wed 12/14 (2:00pm)
+
+    * [Hunt](https://drafthouse.com/los-angeles/show/hunt): Thu 12/8 (9:50pm)
+
+    * [Leonor Will Never Die](https://drafthouse.com/los-angeles/show/leonor-will-never-die): Thu 12/8 (5:45pm)
+
+    * [Moonage Daydream](https://drafthouse.com/los-angeles/show/moonage-daydream): Fri 12/9 (11:25am), Sat 12/10 (4:55pm), Sun 12/11 (11:15am), Mon 12/12 (12:30pm), Tue 12/13 (11:30am), Wed 12/14 (2:30pm)
+
+    * [She Said](https://drafthouse.com/los-angeles/show/she-said): Thu 12/8 (2:30pm)
+
+    * [Soft And Quiet](https://drafthouse.com/los-angeles/show/soft-and-quiet): Sat 12/10 (10:30pm)
+
+    * [Spoiler Alert The Hero Dies](https://drafthouse.com/los-angeles/show/spoiler-alert-the-hero-dies): Thu 12/8 (7:15pm, 10:15pm), Fri 12/9 (1:15pm, 4:20pm, 7:30pm, 10:30pm), Sat 12/10 (1:15pm, 4:20pm, 7:30pm, 10:30pm), Sun 12/11 (1:15pm, 4:20pm, 7:30pm), Mon 12/12 (1:15pm, 4:20pm, 7:30pm), Tue 12/13 (1:15pm, 4:20pm, 7:30pm), Wed 12/14 (1:15pm, 4:20pm, 8:00pm)
+
+    * [Strange World](https://drafthouse.com/los-angeles/show/strange-world): Thu 12/8 (3:00pm)
+
+    * [The Fabelmans](https://drafthouse.com/los-angeles/show/the-fabelmans): Thu 12/8 (2:45pm, 6:00pm, 9:40pm), Fri 12/9 (11:00am, 2:45pm, 6:30pm, 10:10pm), Sat 12/10 (11:00am, 2:45pm, 6:30pm, 10:10pm), Sun 12/11 (11:00am, 2:45pm, 6:30pm), Mon 12/12 (11:00am, 2:45pm, 6:30pm), Tue 12/13 (11:00am, 2:45pm, 6:30pm), Wed 12/14 (11:00am, 2:45pm, 6:30pm)
+
+    * [The Inspection](https://drafthouse.com/los-angeles/show/the-inspection): Thu 12/8 (2:15pm)
+
+    * [The Menu](https://drafthouse.com/los-angeles/show/the-menu): Thu 12/8 (3:45pm, 7:00pm, 10:00pm), Fri 12/9 (12:45pm, 3:45pm, 7:00pm, 10:00pm), Sat 12/10 (12:45pm, 3:45pm, 7:00pm, 10:00pm), Sun 12/11 (12:40pm, 3:45pm, 7:00pm), Mon 12/12 (12:45pm, 4:00pm, 8:00pm), Tue 12/13 (12:45pm, 3:45pm, 6:00pm), Wed 12/14 (12:45pm, 3:45pm, 6:00pm)
+
+    * [Tokyo Godfathers Dubbed](https://drafthouse.com/los-angeles/show/tokyo-godfathers-dubbed): Fri 12/9 (3:00pm), Sat 12/10 (3:00pm), Mon 12/12 (7:00pm), Tue 12/13 (2:15pm), Wed 12/14 (5:15pm)
+
+    * [Triangle Of Sadness](https://drafthouse.com/los-angeles/show/triangle-of-sadness): Thu 12/8 (2:45pm, 6:15pm), Fri 12/9 (12:00pm, 6:15pm), Sat 12/10 (12:00pm, 6:15pm), Sun 12/11 (12:00pm, 6:15pm), Mon 12/12 (12:00pm, 6:15pm), Tue 12/13 (12:00pm, 6:15pm), Wed 12/14 (12:00pm, 6:15pm)
+
+    * [Violent Night](https://drafthouse.com/los-angeles/show/violent-night): Thu 12/8 (3:40pm, 6:45pm, 9:50pm), Fri 12/9 (11:40am, 2:45pm, 6:45pm, 9:00pm, 9:50pm), Sat 12/10 (11:40am, 2:45pm, 5:45pm, 6:45pm, 9:50pm), Sun 12/11 (11:25am, 2:45pm, 6:45pm), Mon 12/12 (11:40am, 2:45pm, 6:45pm), Tue 12/13 (11:40am, 2:45pm, 6:45pm), Wed 12/14 (11:40am, 2:45pm, 6:45pm)
+
 ### Mon 12/5 12:18pm
 
 * New screenings: 
