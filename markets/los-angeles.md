@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 12/6 6:16am
+* New movies: Babylon, Babylon
+
+* New screenings: 
+    * [Babylon](https://drafthouse.com/los-angeles/show/babylon): Thu 12/22 (3:00pm), Fri 12/23 (10:00am, 2:15pm, 6:30pm), Sat 12/24 (2:15pm, 6:45pm), Sun 12/25 (2:15pm, 6:30pm)
+
+    * [Costume Screening Babylon](https://drafthouse.com/los-angeles/show/costume-screening-babylon): Thu 12/22 (7:30pm)
+
 ### Mon 12/5 9:15pm
 * New movies: Guillermo del Toro's Pinocchio, Spoiler Alert, Holy Spider, Soft & Quiet, Aftersun, Moonage Daydream
 
