@@ -1,6 +1,50 @@
 # los-angeles
 
 ## Movie updates
+### Tue 12/6 3:18pm
+* New movies: Frankenhooker, Sunset Boulevard, Top of the Heap, Killer Klowns from Outer Space, Last Action Hero, The Lord of the Rings: The Fellowship of the Ring: Extended Edition, The Lord of the Rings: The Return of the King: Extended Edition, The Lord of the Rings: The Two Towers: Extended Edition, Assault on Precinct 13, Cabaret, Hoop Dreams, Once Upon a Time in... Hollywood, Singin' in the Rain, The Apartment, The Killing of a Chinese Bookie, The Red Shoes, Brotherhood of the Wolf, Friday The 13th:  Part VI: Jason Lives, Millennium Actress Subtitled, DUDE BRO PARTY MASSACRE III
+
+* New screenings: 
+    * [Assault On Precinct 13](https://drafthouse.com/los-angeles/show/assault-on-precinct-13): Fri 1/27 (7:45pm)
+
+    * [Brotherhood Of The Wolf](https://drafthouse.com/los-angeles/show/brotherhood-of-the-wolf): Fri 1/20 (9:30pm)
+
+    * [Brunch Screenings Cabaret Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-cabaret-brunch): Sun 1/22 (11:00am)
+
+    * [Dude Bro Party Massacre Iii](https://drafthouse.com/los-angeles/show/dude-bro-party-massacre-iii): Tue 1/24 (8:00pm), Wed 1/25 (8:00pm)
+
+    * [Frankenhooker](https://drafthouse.com/los-angeles/show/frankenhooker): Tue 1/10 (8:00pm), Wed 1/11 (8:00pm)
+
+    * [Friday The 13th Part Vi Jason Lives](https://drafthouse.com/los-angeles/show/friday-the-13th-part-vi-jason-lives): Fri 1/13 (10:00pm)
+
+    * [Graveyard Shift Killer Klowns From Outer Space](https://drafthouse.com/los-angeles/show/graveyard-shift-killer-klowns-from-outer-space): Mon 1/30 (8:00pm)
+
+    * [Hoop Dreams](https://drafthouse.com/los-angeles/show/hoop-dreams): Sun 1/29 (1:50pm)
+
+    * [Last Action Hero](https://drafthouse.com/los-angeles/show/last-action-hero): Mon 1/16 (7:00pm)
+
+    * [Millennium Actress Subtitled](https://drafthouse.com/los-angeles/show/millennium-actress-subtitled): Mon 1/23 (8:00pm)
+
+    * [Once Upon A Time In Hollywood](https://drafthouse.com/los-angeles/show/once-upon-a-time-in-hollywood): Sat 1/28 (3:45pm)
+
+    * [Special Event Singin In The Rain Brunch](https://drafthouse.com/los-angeles/show/special-event-singin-in-the-rain-brunch): Sun 1/29 (11:00am)
+
+    * [Sunset Blvd](https://drafthouse.com/los-angeles/show/sunset-blvd): Sun 1/8 (3:00pm)
+
+    * [The Apartment Brunch](https://drafthouse.com/los-angeles/show/the-apartment-brunch): Sun 1/1 (12:00pm)
+
+    * [The Killing Of A Chinese Bookie](https://drafthouse.com/los-angeles/show/the-killing-of-a-chinese-bookie): Sun 1/22 (2:15pm)
+
+    * [The Lord Of The Rings The Fellowship Of The Ring Extended Edition](https://drafthouse.com/los-angeles/show/the-lord-of-the-rings-the-fellowship-of-the-ring-extended-edition): Sat 1/7 (11:00am)
+
+    * [The Lord Of The Rings The Return Of The King Extended Edition](https://drafthouse.com/los-angeles/show/the-lord-of-the-rings-the-return-of-the-king-extended-edition): Sat 1/21 (11:00am)
+
+    * [The Lord Of The Rings The Two Towers Extended Edition 2](https://drafthouse.com/los-angeles/show/the-lord-of-the-rings-the-two-towers-extended-edition-2): Sat 1/14 (11:00am)
+
+    * [The Red Shoes](https://drafthouse.com/los-angeles/show/the-red-shoes): Sun 1/15 (3:00pm)
+
+    * [Top Of The Heap](https://drafthouse.com/los-angeles/show/top-of-the-heap): Tue 1/17 (8:00pm), Wed 1/18 (8:00pm)
+
 ### Tue 12/6 2:17pm
 * New movies: The Goonies, Wattstax
 
