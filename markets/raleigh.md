@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Tue 12/6 9:20am
+* New movies: Babylon, Babylon
+
+* New screenings: 
+    * [Babylon](https://drafthouse.com/raleigh/show/babylon): Thu 12/22 (3:00pm), Fri 12/23 (6:15pm), Sat 12/24 (6:15pm), Sun 12/25 (6:15pm)
+
+    * [Costume Screening Babylon](https://drafthouse.com/raleigh/show/costume-screening-babylon): Thu 12/22 (7:15pm)
+
 ### Mon 12/5 8:44pm
 * New movies: Soft & Quiet
 
