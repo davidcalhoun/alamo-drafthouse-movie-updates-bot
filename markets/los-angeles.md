@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 12/6 2:17pm
+* New movies: The Goonies, Wattstax
+
+* New screenings: 
+    * [Movie Party The Goonies](https://drafthouse.com/los-angeles/show/movie-party-the-goonies): Fri 1/20 (7:00pm), Sun 1/22 (7:00pm), Thu 1/26 (7:00pm)
+
+    * [Wattstax](https://drafthouse.com/los-angeles/show/wattstax): Sat 2/25 (4:00pm)
+
 ### Tue 12/6 9:16am
 * New movies: Glass Onion: A Knives Out Mystery
 
