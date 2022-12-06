@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 12/6 2:17pm
+
+* New screenings: 
+    * [The Inspection](https://drafthouse.com/raleigh/show/the-inspection): Sat 12/10 (10:10pm), Sun 12/11 (11:00pm)
+
 ### Tue 12/6 12:19pm
 * New movies: Glass Onion: A Knives Out Mystery
 
