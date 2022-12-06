@@ -1,6 +1,38 @@
 # raleigh
 
 ## Movie updates
+### Mon 12/5 8:44pm
+* New movies: Soft & Quiet
+
+* New screenings: 
+    * [Black Panther Wakanda Forever](https://drafthouse.com/raleigh/show/black-panther-wakanda-forever): Sat 12/10 (12:15pm, 3:45pm, 5:00pm, 6:15pm, 8:45pm, 9:30pm), Sun 12/11 (11:30am, 3:15pm, 4:15pm, 6:45pm, 9:45pm, 10:30pm), Mon 12/12 (11:30am, 2:00pm, 3:15pm, 5:45pm, 7:00pm, 10:45pm), Tue 12/13 (12:00pm, 2:15pm, 3:45pm, 5:45pm, 6:00pm, 9:45pm, 10:20pm), Wed 12/14 (12:00pm, 12:30pm, 4:15pm, 5:15pm, 6:30pm, 9:00pm, 10:15pm)
+
+    * [Bones And All](https://drafthouse.com/raleigh/show/bones-and-all): Sat 12/10 (1:00pm, 4:30pm, 7:45pm, 10:55pm), Sun 12/11 (1:30pm, 3:55pm, 7:45pm, 10:55pm), Mon 12/12 (12:00pm, 4:00pm, 7:15pm, 10:25pm), Tue 12/13 (12:45pm, 4:05pm, 7:15pm, 10:30pm), Wed 12/14 (1:15pm, 4:25pm, 7:15pm, 10:25pm)
+
+    * [Devotion](https://drafthouse.com/raleigh/show/devotion): Sat 12/10 (1:15pm, 3:50pm, 7:15pm, 10:40pm), Sun 12/11 (11:15am, 3:10pm, 7:15pm, 10:40pm), Mon 12/12 (12:20pm, 4:20pm, 6:45pm, 10:05pm), Tue 12/13 (12:20pm, 3:10pm, 6:45pm, 10:05pm), Wed 12/14 (11:15am, 2:40pm, 6:00pm, 9:20pm)
+
+    * [Empire Of Light](https://drafthouse.com/raleigh/show/empire-of-light): Sat 12/10 (7:30pm, 10:30pm), Sun 12/11 (6:15pm, 10:05pm), Mon 12/12 (12:55pm, 3:55pm, 6:55pm, 9:55pm), Tue 12/13 (12:30pm, 3:40pm, 6:55pm, 9:55pm), Wed 12/14 (12:50pm, 3:55pm, 7:45pm, 10:45pm)
+
+    * [Guillermo Del Toros Pinocchio](https://drafthouse.com/raleigh/show/guillermo-del-toros-pinocchio): Sat 12/10 (1:30pm), Sun 12/11 (11:00am), Mon 12/12 (11:00am), Tue 12/13 (11:15am), Wed 12/14 (2:15pm)
+
+    * [Leonor Will Never Die](https://drafthouse.com/raleigh/show/leonor-will-never-die): Sun 12/11 (2:00pm)
+
+    * [Movie Party Elf](https://drafthouse.com/raleigh/show/movie-party-elf): Sat 12/10 (2:15pm)
+
+    * [Soft And Quiet](https://drafthouse.com/raleigh/show/soft-and-quiet): Mon 12/12 (9:30pm)
+
+    * [Spoiler Alert The Hero Dies](https://drafthouse.com/raleigh/show/spoiler-alert-the-hero-dies): Mon 12/12 (11:55am, 3:45pm, 7:45pm, 10:40pm), Tue 12/13 (1:30pm, 4:50pm, 8:00pm, 10:55pm), Wed 12/14 (12:55pm, 3:50pm, 6:45pm, 9:40pm)
+
+    * [Strange World](https://drafthouse.com/raleigh/show/strange-world): Sat 12/10 (12:25pm, 4:10pm, 6:55pm, 9:40pm), Sun 12/11 (12:15pm, 4:10pm, 6:55pm, 9:40pm), Mon 12/12 (1:15pm, 3:10pm, 6:15pm, 9:00pm), Tue 12/13 (12:25pm, 3:30pm, 6:30pm, 9:30pm), Wed 12/14 (12:40pm, 3:45pm, 6:55pm, 9:40pm)
+
+    * [The Fabelmans](https://drafthouse.com/raleigh/show/the-fabelmans): Sat 12/10 (12:10pm, 3:10pm, 6:45pm, 10:20pm), Sun 12/11 (12:25pm, 2:40pm, 6:30pm, 10:25pm), Mon 12/12 (12:40pm, 4:25pm, 6:00pm, 9:35pm), Tue 12/13 (1:15pm, 4:25pm, 6:15pm, 9:50pm), Wed 12/14 (11:55am, 3:40pm, 6:15pm, 9:50pm)
+
+    * [The Inspection](https://drafthouse.com/raleigh/show/the-inspection): Mon 12/12 (1:45pm), Tue 12/13 (12:15pm), Wed 12/14 (11:30am)
+
+    * [The Menu](https://drafthouse.com/raleigh/show/the-menu): Sat 12/10 (11:15am, 3:15pm, 6:30pm, 10:05pm), Sun 12/11 (1:15pm, 4:40pm, 8:00pm, 10:50pm), Mon 12/12 (12:50pm, 3:40pm, 6:30pm, 9:20pm), Tue 12/13 (1:00pm, 4:00pm, 7:30pm, 9:50pm), Wed 12/14 (1:00pm, 4:00pm, 8:00pm, 10:50pm)
+
+    * [Violent Night](https://drafthouse.com/raleigh/show/violent-night): Sat 12/10 (12:45pm, 4:45pm, 7:55pm, 10:50pm), Sun 12/11 (12:55pm, 4:50pm, 7:30pm, 11:00pm), Mon 12/12 (1:30pm, 4:30pm, 8:00pm, 10:55pm), Tue 12/13 (12:55pm, 3:55pm, 7:45pm, 10:45pm), Wed 12/14 (1:30pm, 4:30pm, 7:30pm, 10:30pm)
+
 ### Mon 12/5 6:22pm
 * New movies: Guillermo del Toro's Pinocchio, Leonor Will Never Die
 
