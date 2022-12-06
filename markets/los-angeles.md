@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 12/6 9:16am
+* New movies: Glass Onion: A Knives Out Mystery
+
+* New screenings: 
+    * [Free Victory Screening Glass Onion A Knives Out Mystery W Livestream Q A](https://drafthouse.com/los-angeles/show/free-victory-screening-glass-onion-a-knives-out-mystery-w-livestream-q-a): Sun 12/11 (4:00pm)
+
 ### Tue 12/6 6:16am
 * New movies: Babylon, Babylon
 
