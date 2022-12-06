@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 12/6 12:19pm
+* New movies: Glass Onion: A Knives Out Mystery
+
+* New screenings: 
+    * [Free Victory Screening Glass Onion A Knives Out Mystery W Livestream Q A](https://drafthouse.com/raleigh/show/free-victory-screening-glass-onion-a-knives-out-mystery-w-livestream-q-a): Sun 12/11 (7:00pm)
+
 ### Tue 12/6 9:20am
 * New movies: Babylon, Babylon
 
