@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 12/7 3:16pm
+* New movies: ivans xtc.
+
+* New screenings: 
+    * [Ivans Xtc](https://drafthouse.com/los-angeles/show/ivans-xtc): Sat 1/21 (4:30pm)
+
 ### Wed 12/7 2:17pm
 * New movies: Faster, Pussycat! Kill! Kill!
 
