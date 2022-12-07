@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 12/7 2:17pm
+* New movies: Faster, Pussycat! Kill! Kill!
+
+* New screenings: 
+    * [Faster Pussycat Kill Kill](https://drafthouse.com/los-angeles/show/faster-pussycat-kill-kill): Sun 1/29 (7:00pm)
+
 ### Wed 12/7 6:16am
 * New movies: Babylon
 
