@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 12/7 6:16am
+* New movies: Babylon
+
+* New screenings: 
+    * [Brunch Screenings Babylon Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-babylon-brunch): Sat 12/24 (10:00am), Sun 12/25 (10:00am)
+
 ### Tue 12/6 3:18pm
 * New movies: Frankenhooker, Sunset Boulevard, Top of the Heap, Killer Klowns from Outer Space, Last Action Hero, The Lord of the Rings: The Fellowship of the Ring: Extended Edition, The Lord of the Rings: The Return of the King: Extended Edition, The Lord of the Rings: The Two Towers: Extended Edition, Assault on Precinct 13, Cabaret, Hoop Dreams, Once Upon a Time in... Hollywood, Singin' in the Rain, The Apartment, The Killing of a Chinese Bookie, The Red Shoes, Brotherhood of the Wolf, Friday The 13th:  Part VI: Jason Lives, Millennium Actress Subtitled, DUDE BRO PARTY MASSACRE III
 
