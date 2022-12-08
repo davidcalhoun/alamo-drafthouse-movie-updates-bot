@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 12/7 5:26pm
+* New movies: Soft & Quiet
+
+* New screenings: 
+    * [Soft Quiet Live Qa](https://drafthouse.com/los-angeles/show/soft-quiet-live-qa): Wed 12/14 (7:30pm), Mon 1/9 (7:00pm)
+
 ### Wed 12/7 3:16pm
 * New movies: ivans xtc.
 
