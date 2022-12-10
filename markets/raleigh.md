@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Sat 12/10 11:29am
+
+* New screenings: 
+    * [Violent Night](https://drafthouse.com/raleigh/show/violent-night): Sat 12/10 (10:05pm)
+
 ### Wed 12/7 12:20pm
 
 * New screenings: 
