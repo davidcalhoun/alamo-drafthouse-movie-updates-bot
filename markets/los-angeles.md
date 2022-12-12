@@ -1,6 +1,36 @@
 # los-angeles
 
 ## Movie updates
+### Mon 12/12 3:18pm
+* New movies: The Whale, Puss In Boots: The Last Wish, The Menu
+
+* New screenings: 
+    * [Avatar The Way Of Water](https://drafthouse.com/los-angeles/show/avatar-the-way-of-water): Fri 12/16 (10:45am, 11:40am, 12:00pm, 12:15pm, 1:20pm, 2:00pm, 4:00pm, 4:20pm, 5:40pm, 6:15pm, 8:30pm, 8:45pm, 9:00pm, 10:10pm), Sat 12/17 (11:30am, 12:15pm, 2:00pm, 4:00pm, 4:20pm, 5:45pm, 6:15pm, 8:30pm, 8:45pm, 9:00pm, 10:10pm), Sun 12/18 (10:45am, 11:45am, 12:25pm, 2:00pm, 2:15pm, 4:10pm, 6:15pm, 6:30pm, 8:15pm, 8:30pm), Mon 12/19 (10:45am, 11:45am, 12:00pm, 1:40pm, 2:00pm, 2:30pm, 3:45pm, 6:15pm, 6:45pm, 7:30pm), Tue 12/20 (10:45am, 11:20am, 11:45am, 12:00pm, 1:40pm, 2:15pm, 3:45pm, 6:30pm, 7:30pm), Wed 12/21 (11:25am, 12:00pm, 2:30pm, 3:45pm, 6:30pm)
+
+    * [Black Panther Wakanda Forever](https://drafthouse.com/los-angeles/show/black-panther-wakanda-forever): Fri 12/16 (11:00am, 2:50pm, 6:45pm, 10:30pm), Sat 12/17 (11:00am, 2:50pm, 6:45pm, 10:30pm), Sun 12/18 (11:00am, 2:50pm, 6:45pm), Mon 12/19 (11:00am, 2:50pm, 6:45pm), Tue 12/20 (11:15am, 3:15pm, 7:15pm), Wed 12/21 (11:15am, 3:15pm, 7:15pm)
+
+    * [Bones And All](https://drafthouse.com/los-angeles/show/bones-and-all): Fri 12/16 (10:05am, 7:00pm), Sat 12/17 (11:45am, 7:00pm), Sun 12/18 (10:45am, 7:15pm), Mon 12/19 (10:45am, 7:15pm), Tue 12/20 (11:25am, 6:45pm), Wed 12/21 (11:10am, 7:00pm)
+
+    * [Brunch Screenings Avatar The Way Of Water Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-avatar-the-way-of-water-brunch): Sat 12/17 (12:00pm)
+
+    * [Brunch Screenings The Menu Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-the-menu-brunch): Sat 12/17 (10:20am)
+
+    * [Empire Of Light](https://drafthouse.com/los-angeles/show/empire-of-light): Fri 12/16 (11:00am, 3:00pm, 6:15pm, 10:15pm), Sat 12/17 (11:00am, 3:00pm, 6:15pm, 10:15pm), Sun 12/18 (11:15am, 3:15pm, 6:15pm), Mon 12/19 (11:30am, 3:15pm, 6:15pm), Tue 12/20 (11:15am, 3:15pm, 6:15pm), Wed 12/21 (12:30pm, 3:30pm, 7:20pm)
+
+    * [Eo](https://drafthouse.com/los-angeles/show/eo): Fri 12/16 (10:00am, 10:40pm), Sat 12/17 (10:00am, 10:40pm), Sun 12/18 (5:40pm), Mon 12/19 (11:10am), Tue 12/20 (11:10am)
+
+    * [Puss In Boots The Last Wish](https://drafthouse.com/los-angeles/show/puss-in-boots-the-last-wish): Wed 12/21 (11:00am, 1:50pm, 4:40pm, 7:30pm)
+
+    * [Spoiler Alert The Hero Dies](https://drafthouse.com/los-angeles/show/spoiler-alert-the-hero-dies): Fri 12/16 (4:00pm), Sat 12/17 (4:00pm), Sun 12/18 (4:15pm), Mon 12/19 (4:15pm), Tue 12/20 (3:45pm), Wed 12/21 (3:45pm)
+
+    * [The Fabelmans](https://drafthouse.com/los-angeles/show/the-fabelmans): Fri 12/16 (11:25am, 3:15pm, 7:00pm, 10:45pm), Sat 12/17 (11:25am, 3:15pm, 7:00pm, 10:45pm), Sun 12/18 (11:25am, 3:15pm, 7:00pm), Mon 12/19 (11:25am, 3:15pm, 7:00pm), Tue 12/20 (12:15pm, 4:00pm, 7:45pm), Wed 12/21 (12:15pm, 4:00pm, 7:45pm)
+
+    * [The Menu](https://drafthouse.com/los-angeles/show/the-menu): Fri 12/16 (10:20am, 1:10pm, 4:35pm, 7:35pm, 10:35pm), Sat 12/17 (1:10pm, 4:35pm, 7:35pm, 10:35pm), Sun 12/18 (10:30am, 1:20pm, 4:45pm, 7:45pm), Mon 12/19 (12:45pm, 4:25pm, 8:10pm), Tue 12/20 (12:45pm, 4:25pm, 8:00pm), Wed 12/21 (12:45pm, 4:25pm, 8:00pm)
+
+    * [The Whale](https://drafthouse.com/los-angeles/show/the-whale): Tue 12/20 (4:15pm, 5:00pm, 7:00pm, 8:15pm), Wed 12/21 (10:45am, 1:45pm, 4:45pm, 6:45pm, 7:45pm)
+
+    * [Violent Night](https://drafthouse.com/los-angeles/show/violent-night): Fri 12/16 (12:00pm, 3:15pm, 6:00pm, 9:15pm), Sat 12/17 (12:00pm, 3:15pm, 6:00pm, 9:15pm), Sun 12/18 (12:00pm, 3:00pm, 6:00pm), Mon 12/19 (11:00am, 2:00pm, 6:00pm), Tue 12/20 (11:00am, 2:00pm, 6:00pm), Wed 12/21 (11:00am, 2:00pm, 5:00pm, 8:00pm)
+
 ### Mon 12/12 2:17pm
 
 * New screenings: 
