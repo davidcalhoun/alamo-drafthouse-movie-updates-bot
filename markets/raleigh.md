@@ -1,6 +1,37 @@
 # raleigh
 
 ## Movie updates
+### Mon 12/12 6:22pm
+
+* New screenings: 
+    * [Avatar The Way Of Water](https://drafthouse.com/raleigh/show/avatar-the-way-of-water): Thu 12/15 (4:00pm, 4:30pm, 5:00pm, 5:30pm, 6:45pm, 8:15pm, 8:45pm, 9:15pm, 9:45pm, 11:00pm), Fri 12/16 (12:30pm, 1:00pm, 1:45pm, 3:15pm, 4:15pm, 4:45pm, 5:15pm, 7:30pm, 8:30pm, 9:00pm, 9:30pm, 10:15pm), Sat 12/17 (11:00am, 12:15pm, 12:45pm, 1:15pm, 1:45pm, 3:45pm, 4:30pm, 5:00pm, 5:30pm, 6:00pm, 8:00pm, 8:45pm, 9:15pm, 9:45pm, 10:15pm), Sun 12/18 (10:30am, 11:45am, 12:15pm, 12:45pm, 1:15pm, 2:45pm, 4:00pm, 4:30pm, 5:00pm, 5:30pm, 7:00pm, 8:15pm, 8:45pm, 9:15pm, 9:45pm), Mon 12/19 (11:00am, 12:00pm, 12:30pm, 1:00pm, 1:30pm, 3:15pm, 4:15pm, 4:45pm, 5:15pm, 5:45pm, 7:30pm, 8:30pm, 9:00pm, 9:30pm, 10:00pm)
+
+    * [Black Panther Wakanda Forever](https://drafthouse.com/raleigh/show/black-panther-wakanda-forever): Thu 12/15 (11:15am, 2:30pm, 6:15pm, 10:00pm), Fri 12/16 (12:15pm, 4:00pm, 6:15pm, 10:00pm), Sat 12/17 (12:10pm, 4:00pm, 6:15pm, 10:00pm), Sun 12/18 (12:00pm, 3:55pm), Mon 12/19 (11:45am, 2:30pm, 6:15pm, 10:05pm)
+
+    * [Bones And All](https://drafthouse.com/raleigh/show/bones-and-all): Thu 12/15 (3:15pm)
+
+    * [Devotion](https://drafthouse.com/raleigh/show/devotion): Thu 12/15 (1:30pm)
+
+    * [Empire Of Light](https://drafthouse.com/raleigh/show/empire-of-light): Thu 12/15 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Fri 12/16 (12:00pm, 3:00pm, 6:45pm, 9:45pm), Sat 12/17 (12:40pm, 3:15pm, 6:45pm, 9:45pm), Sun 12/18 (6:45pm, 9:50pm), Mon 12/19 (11:25am, 3:30pm, 6:30pm, 9:35pm)
+
+    * [Guillermo Del Toros Pinocchio](https://drafthouse.com/raleigh/show/guillermo-del-toros-pinocchio): Thu 12/15 (12:30pm)
+
+    * [Leonor Will Never Die](https://drafthouse.com/raleigh/show/leonor-will-never-die): Thu 12/15 (12:25pm)
+
+    * [Spoiler Alert The Hero Dies](https://drafthouse.com/raleigh/show/spoiler-alert-the-hero-dies): Thu 12/15 (3:50pm), Fri 12/16 (10:50am), Sat 12/17 (10:50am), Sun 12/18 (10:15am), Mon 12/19 (10:50am)
+
+    * [Strange World](https://drafthouse.com/raleigh/show/strange-world): Thu 12/15 (1:15pm)
+
+    * [The Fabelmans](https://drafthouse.com/raleigh/show/the-fabelmans): Thu 12/15 (12:15pm)
+
+    * [The Inspection](https://drafthouse.com/raleigh/show/the-inspection): Thu 12/15 (1:50pm)
+
+    * [The Menu](https://drafthouse.com/raleigh/show/the-menu): Thu 12/15 (11:50am, 2:40pm, 6:30pm, 9:30pm), Fri 12/16 (1:30pm, 3:55pm, 7:45pm, 10:40pm), Sat 12/17 (1:30pm, 3:55pm, 7:45pm, 10:40pm), Sun 12/18 (1:30pm, 4:25pm, 7:15pm, 10:05pm), Mon 12/19 (1:15pm, 4:10pm, 7:00pm, 9:50pm)
+
+    * [Tokyo Godfathers Subtitled](https://drafthouse.com/raleigh/show/tokyo-godfathers-subtitled): Thu 12/15 (11:45am)
+
+    * [Violent Night](https://drafthouse.com/raleigh/show/violent-night): Thu 12/15 (1:00pm, 3:55pm, 7:00pm, 9:55pm), Fri 12/16 (12:55pm, 4:20pm, 7:15pm, 10:10pm), Sat 12/17 (1:00pm, 4:20pm, 7:15pm, 10:10pm), Sun 12/18 (12:55pm, 3:50pm, 7:45pm, 10:40pm), Mon 12/19 (12:55pm, 3:50pm, 6:45pm, 9:40pm)
+
 ### Sat 12/10 11:29am
 
 * New screenings: 
