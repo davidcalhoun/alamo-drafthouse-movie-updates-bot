@@ -1,6 +1,31 @@
 # los-angeles
 
 ## Movie updates
+### Mon 12/12 2:17pm
+
+* New screenings: 
+    * [Aftersun](https://drafthouse.com/los-angeles/show/aftersun): Thu 12/15 (2:45pm)
+
+    * [Avatar The Way Of Water](https://drafthouse.com/los-angeles/show/avatar-the-way-of-water): Thu 12/15 (4:30pm, 5:00pm, 5:30pm, 9:00pm, 9:15pm, 9:30pm, 10:00pm)
+
+    * [Black Panther Wakanda Forever](https://drafthouse.com/los-angeles/show/black-panther-wakanda-forever): Thu 12/15 (2:40pm, 6:30pm, 10:30pm)
+
+    * [Bones And All](https://drafthouse.com/los-angeles/show/bones-and-all): Thu 12/15 (7:15pm, 11:00pm)
+
+    * [Empire Of Light](https://drafthouse.com/los-angeles/show/empire-of-light): Thu 12/15 (3:15pm, 6:15pm, 10:15pm)
+
+    * [Eo](https://drafthouse.com/los-angeles/show/eo): Thu 12/15 (2:25pm)
+
+    * [Spoiler Alert The Hero Dies](https://drafthouse.com/los-angeles/show/spoiler-alert-the-hero-dies): Thu 12/15 (4:15pm)
+
+    * [The Fabelmans](https://drafthouse.com/los-angeles/show/the-fabelmans): Thu 12/15 (3:15pm, 7:00pm, 10:45pm)
+
+    * [The Menu](https://drafthouse.com/los-angeles/show/the-menu): Thu 12/15 (3:45pm, 6:45pm, 9:45pm)
+
+    * [Triangle Of Sadness](https://drafthouse.com/los-angeles/show/triangle-of-sadness): Thu 12/15 (2:30pm)
+
+    * [Violent Night](https://drafthouse.com/los-angeles/show/violent-night): Thu 12/15 (3:00pm, 6:00pm, 9:15pm)
+
 ### Wed 12/7 5:26pm
 * New movies: Soft & Quiet
 
