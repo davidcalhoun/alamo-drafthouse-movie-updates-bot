@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Mon 12/12 8:52pm
+
+* New screenings: 
+    * [Black Panther Wakanda Forever](https://drafthouse.com/raleigh/show/black-panther-wakanda-forever): Sun 12/18 (6:15pm, 10:00pm)
+
+    * [Empire Of Light](https://drafthouse.com/raleigh/show/empire-of-light): Sun 12/18 (12:10pm, 3:15pm)
+
 ### Mon 12/12 6:22pm
 
 * New screenings: 
