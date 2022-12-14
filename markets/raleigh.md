@@ -1,6 +1,40 @@
 # raleigh
 
 ## Movie updates
+### Wed 12/14 2:17pm
+* New movies: Sunset Boulevard, Bullitt, Frankenhooker, Hard Target, The Lord of the Rings: The Fellowship of the Ring: Extended Edition, The Lord of the Rings: The Two Towers: Extended Edition, Deliverance, Dr. Jekyll & Mr. Hyde 1931, Mulholland Drive, The Apartment, The Red Shoes, Friday The 13th Part VI: Jason Lives, Millennium Actress Subtitled, All That Breathes, La La Land
+
+* New screenings: 
+    * [All That Breathes](https://drafthouse.com/raleigh/show/all-that-breathes): Thu 1/12 (7:00pm)
+
+    * [Bullitt](https://drafthouse.com/raleigh/show/bullitt): Tue 1/10 (7:00pm)
+
+    * [Deliverance](https://drafthouse.com/raleigh/show/deliverance): Tue 1/17 (7:00pm)
+
+    * [Dr Jekyll Mr Hyde 1931](https://drafthouse.com/raleigh/show/dr-jekyll-mr-hyde-1931): Sat 1/14 (3:45pm)
+
+    * [Frankenhooker](https://drafthouse.com/raleigh/show/frankenhooker): Wed 1/11 (8:00pm)
+
+    * [Friday The 13th Part Vi Jason Lives](https://drafthouse.com/raleigh/show/friday-the-13th-part-vi-jason-lives): Fri 1/13 (7:00pm)
+
+    * [Hard Target](https://drafthouse.com/raleigh/show/hard-target): Wed 1/18 (6:45pm)
+
+    * [La La Land](https://drafthouse.com/raleigh/show/la-la-land): Sun 1/15 (11:15am)
+
+    * [Millennium Actress Subtitled](https://drafthouse.com/raleigh/show/millennium-actress-subtitled): Wed 1/18 (9:30pm)
+
+    * [Mulholland Drive](https://drafthouse.com/raleigh/show/mulholland-drive): Mon 1/9 (9:30pm)
+
+    * [Sunset Blvd](https://drafthouse.com/raleigh/show/sunset-blvd): Sun 1/8 (3:00pm)
+
+    * [The Apartment Brunch](https://drafthouse.com/raleigh/show/the-apartment-brunch): Sun 1/1 (12:00pm)
+
+    * [The Lord Of The Rings The Fellowship Of The Ring Extended Edition](https://drafthouse.com/raleigh/show/the-lord-of-the-rings-the-fellowship-of-the-ring-extended-edition): Sat 1/7 (11:00am)
+
+    * [The Lord Of The Rings The Two Towers Extended Edition 2](https://drafthouse.com/raleigh/show/the-lord-of-the-rings-the-two-towers-extended-edition-2): Sat 1/14 (11:00am)
+
+    * [The Red Shoes](https://drafthouse.com/raleigh/show/the-red-shoes): Sun 1/15 (2:30pm)
+
 ### Wed 12/14 1:25pm
 * New movies: The Whale
 
