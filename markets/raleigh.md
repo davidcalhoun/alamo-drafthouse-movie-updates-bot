@@ -1,6 +1,19 @@
 # raleigh
 
 ## Movie updates
+### Wed 12/14 4:19pm
+
+* New screenings: 
+    * [Avatar The Way Of Water](https://drafthouse.com/raleigh/show/avatar-the-way-of-water): Mon 12/26 (11:00am, 11:30am, 3:15pm, 3:45pm, 7:30pm, 8:00pm), Tue 12/27 (11:00am, 11:30am, 3:15pm, 3:45pm, 7:30pm, 8:00pm)
+
+    * [Babylon](https://drafthouse.com/raleigh/show/babylon): Sat 12/24 (10:45am, 3:00pm), Sun 12/25 (12:30pm, 4:45pm, 9:00pm), Mon 12/26 (12:30pm, 4:45pm, 6:15pm, 9:00pm), Tue 12/27 (12:30pm, 4:45pm, 6:30pm, 9:00pm)
+
+    * [I Wanna Dance With Somebody](https://drafthouse.com/raleigh/show/i-wanna-dance-with-somebody): Sat 12/24 (11:45am, 3:15pm, 7:15pm), Sun 12/25 (11:30am, 3:00pm, 6:30pm, 10:00pm), Mon 12/26 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Tue 12/27 (12:00pm, 3:30pm, 7:00pm, 10:30pm)
+
+    * [Puss In Boots The Last Wish](https://drafthouse.com/raleigh/show/puss-in-boots-the-last-wish): Sat 12/24 (12:45pm, 3:30pm, 6:45pm), Sun 12/25 (4:00pm, 6:45pm, 9:30pm), Mon 12/26 (1:30pm, 4:00pm, 6:45pm, 9:30pm), Tue 12/27 (1:30pm, 4:00pm, 6:45pm, 9:30pm)
+
+    * [The Whale](https://drafthouse.com/raleigh/show/the-whale): Mon 12/26 (1:00pm, 4:15pm, 7:15pm, 10:15pm), Tue 12/27 (1:00pm, 4:15pm, 7:15pm, 10:15pm)
+
 ### Wed 12/14 3:22pm
 * New movies: Puss In Boots: The Last Wish, Whitney Houston: I Wanna Dance With Somebody, Audition, Killer Klowns from Outer Space, Escape From Alcatraz, Faster, Pussycat! Kill! Kill!, Hoop Dreams, Once Upon a Time in... Hollywood, Singin' in the Rain, The Goonies, Under the Skin
 
