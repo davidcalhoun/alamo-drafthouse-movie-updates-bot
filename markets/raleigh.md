@@ -1,6 +1,34 @@
 # raleigh
 
 ## Movie updates
+### Wed 12/14 3:22pm
+* New movies: Puss In Boots: The Last Wish, Whitney Houston: I Wanna Dance With Somebody, Audition, Killer Klowns from Outer Space, Escape From Alcatraz, Faster, Pussycat! Kill! Kill!, Hoop Dreams, Once Upon a Time in... Hollywood, Singin' in the Rain, The Goonies, Under the Skin
+
+* New screenings: 
+    * [Audition](https://drafthouse.com/raleigh/show/audition): Wed 2/1 (7:45pm)
+
+    * [Babylon](https://drafthouse.com/raleigh/show/babylon): Thu 12/22 (9:00pm), Fri 12/23 (12:30pm, 4:45pm, 9:00pm)
+
+    * [Escape From Alcatraz](https://drafthouse.com/raleigh/show/escape-from-alcatraz): Tue 1/31 (7:00pm)
+
+    * [Faster Pussycat Kill Kill](https://drafthouse.com/raleigh/show/faster-pussycat-kill-kill): Mon 1/16 (9:30pm)
+
+    * [Graveyard Shift Killer Klowns From Outer Space](https://drafthouse.com/raleigh/show/graveyard-shift-killer-klowns-from-outer-space): Mon 1/30 (9:00pm)
+
+    * [Hoop Dreams](https://drafthouse.com/raleigh/show/hoop-dreams): Sun 1/29 (2:00pm)
+
+    * [I Wanna Dance With Somebody](https://drafthouse.com/raleigh/show/i-wanna-dance-with-somebody): Thu 12/22 (2:00pm, 5:30pm, 6:15pm, 9:45pm), Fri 12/23 (11:30am, 3:00pm, 6:30pm, 10:00pm)
+
+    * [Movie Party The Goonies](https://drafthouse.com/raleigh/show/movie-party-the-goonies): Sun 1/22 (7:00pm)
+
+    * [Once Upon A Time In Hollywood](https://drafthouse.com/raleigh/show/once-upon-a-time-in-hollywood): Sat 1/28 (3:00pm)
+
+    * [Puss In Boots The Last Wish](https://drafthouse.com/raleigh/show/puss-in-boots-the-last-wish): Fri 12/23 (1:15pm, 4:00pm, 6:45pm, 9:30pm)
+
+    * [Special Event Singin In The Rain Brunch](https://drafthouse.com/raleigh/show/special-event-singin-in-the-rain-brunch): Sun 1/29 (11:00am)
+
+    * [Under The Skin](https://drafthouse.com/raleigh/show/under-the-skin): Wed 1/25 (9:30pm)
+
 ### Wed 12/14 2:17pm
 * New movies: Sunset Boulevard, Bullitt, Frankenhooker, Hard Target, The Lord of the Rings: The Fellowship of the Ring: Extended Edition, The Lord of the Rings: The Two Towers: Extended Edition, Deliverance, Dr. Jekyll & Mr. Hyde 1931, Mulholland Drive, The Apartment, The Red Shoes, Friday The 13th Part VI: Jason Lives, Millennium Actress Subtitled, All That Breathes, La La Land
 
