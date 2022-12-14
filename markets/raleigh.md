@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 12/14 1:25pm
+* New movies: The Whale
+
+* New screenings: 
+    * [The Whale](https://drafthouse.com/raleigh/show/the-whale): Tue 12/20 (4:00pm, 7:00pm, 10:00pm), Wed 12/21 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Thu 12/22 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Fri 12/23 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Sat 12/24 (10:30am, 1:30pm, 4:30pm, 7:30pm), Sun 12/25 (1:30pm, 4:30pm, 7:30pm, 10:30pm)
+
 ### Mon 12/12 8:52pm
 
 * New screenings: 
