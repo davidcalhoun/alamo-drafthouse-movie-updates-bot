@@ -1,6 +1,26 @@
 # los-angeles
 
 ## Movie updates
+### Tue 12/13 7:22pm
+* New movies: Whitney Houston: I Wanna Dance With Somebody, Puss In Boots: The Last Wish
+
+* New screenings: 
+    * [Avatar The Way Of Water](https://drafthouse.com/los-angeles/show/avatar-the-way-of-water): Thu 12/22 (10:10pm), Fri 12/23 (9:45pm), Mon 12/26 (10:50am, 12:00pm, 3:20pm, 4:30pm, 7:45pm, 9:00pm), Tue 12/27 (10:50am, 12:00pm, 3:20pm, 4:30pm, 7:45pm, 9:00pm), Wed 12/28 (10:50am, 12:00pm, 3:20pm, 4:30pm, 7:45pm, 9:00pm), Thu 12/29 (10:50am, 12:00pm, 3:20pm, 4:30pm, 7:45pm, 9:00pm), Fri 12/30 (10:50am, 12:00pm, 3:20pm, 4:30pm, 7:45pm, 9:00pm), Sat 12/31 (11:00am, 2:30pm, 3:30pm, 7:00pm, 8:00pm), Sun 1/1 (11:00am, 3:00pm, 3:30pm, 7:00pm, 8:00pm)
+
+    * [Babylon](https://drafthouse.com/los-angeles/show/babylon): Thu 12/22 (9:15pm), Fri 12/23 (10:45pm), Sun 12/25 (10:45pm), Mon 12/26 (11:10am, 3:00pm, 7:30pm), Tue 12/27 (11:10am, 3:00pm, 7:30pm), Wed 12/28 (11:10am, 3:00pm, 7:30pm), Thu 12/29 (11:10am, 3:00pm, 7:30pm), Fri 12/30 (11:10am, 3:00pm, 7:30pm), Sat 12/31 (3:40pm, 8:00pm), Sun 1/1 (3:15pm, 7:35pm)
+
+    * [Brunch Screenings Avatar The Way Of Water Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-avatar-the-way-of-water-brunch): Sat 12/31 (10:00am), Sun 1/1 (11:30am)
+
+    * [Brunch Screenings Babylon Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-babylon-brunch): Sat 12/31 (11:15am), Sun 1/1 (11:30am)
+
+    * [Brunch Screenings Puss In Boots The Last Wish Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-puss-in-boots-the-last-wish-brunch): Sat 12/24 (11:15am), Sun 12/25 (12:00pm), Sat 12/31 (10:45am), Sun 1/1 (12:15pm)
+
+    * [I Wanna Dance With Somebody](https://drafthouse.com/los-angeles/show/i-wanna-dance-with-somebody): Thu 12/22 (2:15pm, 6:00pm, 9:45pm), Fri 12/23 (10:45am, 2:30pm, 6:15pm, 10:00pm), Sat 12/24 (10:45am, 2:30pm, 6:15pm), Sun 12/25 (10:45am, 2:30pm, 6:15pm, 10:00pm), Mon 12/26 (11:25am, 3:30pm, 6:15pm, 9:45pm), Tue 12/27 (11:25am, 3:30pm, 6:15pm, 9:45pm), Wed 12/28 (11:25am, 3:30pm, 6:15pm, 9:45pm), Thu 12/29 (11:25am, 3:30pm, 6:15pm, 9:45pm), Fri 12/30 (11:25am, 3:30pm, 6:15pm, 9:45pm), Sat 12/31 (11:35am, 3:10pm, 6:45pm), Sun 1/1 (11:45am, 3:45pm, 7:20pm)
+
+    * [Puss In Boots The Last Wish](https://drafthouse.com/los-angeles/show/puss-in-boots-the-last-wish): Thu 12/22 (3:15pm, 6:15pm, 9:00pm), Fri 12/23 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 12/24 (2:05pm, 5:00pm, 7:50pm), Sun 12/25 (3:00pm, 6:00pm, 9:00pm), Mon 12/26 (12:10pm, 3:10pm, 7:10pm, 10:00pm), Tue 12/27 (12:10pm, 3:10pm, 7:10pm, 10:00pm), Wed 12/28 (12:10pm, 3:10pm, 7:10pm, 10:00pm), Thu 12/29 (12:10pm, 3:10pm, 7:10pm, 10:00pm), Fri 12/30 (12:10pm, 3:10pm, 7:10pm, 10:00pm), Sat 12/31 (1:45pm, 4:45pm, 7:45pm), Sun 1/1 (3:10pm, 6:00pm)
+
+    * [The Whale](https://drafthouse.com/los-angeles/show/the-whale): Thu 12/22 (3:15pm, 7:00pm, 10:50pm), Fri 12/23 (12:30pm, 3:45pm, 7:30pm, 10:45pm), Sat 12/24 (10:20am, 1:25pm, 4:30pm, 7:45pm), Sun 12/25 (10:30am, 2:40pm, 6:00pm, 9:15pm, 10:45pm), Mon 12/26 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Tue 12/27 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Wed 12/28 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Thu 12/29 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Fri 12/30 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Sat 12/31 (10:15am, 1:20pm, 4:25pm, 7:30pm), Sun 1/1 (11:50am, 3:50pm, 7:25pm)
+
 ### Mon 12/12 3:18pm
 * New movies: The Whale, Puss In Boots: The Last Wish, The Menu
 
