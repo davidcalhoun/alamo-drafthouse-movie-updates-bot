@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 12/15 11:31am
+* New movies: Brotherhood of the Wolf
+
+* New screenings: 
+    * [Brotherhood Of The Wolf](https://drafthouse.com/raleigh/show/brotherhood-of-the-wolf): Fri 1/20 (9:30pm)
+
 ### Wed 12/14 4:19pm
 
 * New screenings: 
