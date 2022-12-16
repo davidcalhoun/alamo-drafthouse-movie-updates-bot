@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Fri 12/16 12:21am
+* New movies: Women Talking, That Time I Got Reincarnated As a Slime The Movie: Scarlet Bond Subtitled, That Time I Got Reincarnated As a Slime The Movie: Scarlet Bond Dubbed, Women Talking
+
+* New screenings: 
+    * [Brunch Screenings Women Talking Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-women-talking-brunch): Sat 1/7 (1:00pm), Sun 1/8 (1:00pm)
+
+    * [That Time I Got Reincarnated As A Slime The Movie Scarlet Bond Dubbed](https://drafthouse.com/los-angeles/show/that-time-i-got-reincarnated-as-a-slime-the-movie-scarlet-bond-dubbed): Thu 1/19 (10:50pm), Fri 1/20 (3:25pm), Sat 1/21 (12:20pm, 6:30pm), Sun 1/22 (3:25pm)
+
+    * [That Time I Got Reincarnated As A Slime The Movie Scarlet Bond Subtitled](https://drafthouse.com/los-angeles/show/that-time-i-got-reincarnated-as-a-slime-the-movie-scarlet-bond-subtitled): Thu 1/19 (5:00pm, 7:55pm), Fri 1/20 (12:20pm, 6:30pm, 9:35pm), Sat 1/21 (3:25pm, 9:35pm), Sun 1/22 (12:20pm, 6:30pm)
+
+    * [Women Talking](https://drafthouse.com/los-angeles/show/women-talking): Thu 1/5 (4:00pm, 7:00pm, 10:00pm), Fri 1/6 (1:25pm, 4:25pm, 7:00pm, 10:00pm), Sat 1/7 (4:00pm, 7:00pm, 10:00pm), Sun 1/8 (4:00pm, 7:00pm)
+
 ### Tue 12/13 7:22pm
 * New movies: Whitney Houston: I Wanna Dance With Somebody, Puss In Boots: The Last Wish
 
