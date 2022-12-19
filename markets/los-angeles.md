@@ -1,6 +1,29 @@
 # los-angeles
 
 ## Movie updates
+### Mon 12/19 2:16pm
+
+* New screenings: 
+    * [Avatar The Way Of Water](https://drafthouse.com/los-angeles/show/avatar-the-way-of-water): Tue 12/20 (6:00pm, 7:15pm), Wed 12/21 (11:15am, 2:10pm, 3:15pm, 6:40pm, 7:15pm)
+
+    * [Black Panther Wakanda Forever](https://drafthouse.com/los-angeles/show/black-panther-wakanda-forever): Tue 12/20 (3:15pm)
+
+    * [Bones And All](https://drafthouse.com/los-angeles/show/bones-and-all): Tue 12/20 (6:45pm)
+
+    * [Empire Of Light](https://drafthouse.com/los-angeles/show/empire-of-light): Tue 12/20 (3:00pm)
+
+    * [Puss In Boots The Last Wish](https://drafthouse.com/los-angeles/show/puss-in-boots-the-last-wish): Wed 12/21 (11:45am, 7:00pm)
+
+    * [Spoiler Alert The Hero Dies](https://drafthouse.com/los-angeles/show/spoiler-alert-the-hero-dies): Tue 12/20 (3:45pm)
+
+    * [The Fabelmans](https://drafthouse.com/los-angeles/show/the-fabelmans): Tue 12/20 (4:00pm)
+
+    * [The Menu](https://drafthouse.com/los-angeles/show/the-menu): Wed 12/21 (11:15am)
+
+    * [The Whale](https://drafthouse.com/los-angeles/show/the-whale): Tue 12/20 (7:45pm), Wed 12/21 (12:10pm, 3:35pm, 4:00pm, 7:35pm)
+
+    * [Violent Night](https://drafthouse.com/los-angeles/show/violent-night): Tue 12/20 (2:00pm, 6:00pm), Wed 12/21 (11:00am, 2:00pm, 5:00pm, 8:00pm)
+
 ### Mon 12/19 11:13am
 
 * New screenings: 
