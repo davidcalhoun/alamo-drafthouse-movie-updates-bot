@@ -1,6 +1,21 @@
 # los-angeles
 
 ## Movie updates
+### Mon 12/19 3:17pm
+
+* New screenings: 
+    * [Avatar The Way Of Water](https://drafthouse.com/los-angeles/show/avatar-the-way-of-water): Thu 12/22 (2:50pm, 5:45pm, 8:45pm), Fri 12/23 (11:45am, 2:00pm, 4:15pm, 5:40pm, 8:45pm), Sat 12/24 (11:40am, 2:45pm, 4:00pm, 5:45pm, 6:15pm), Sun 12/25 (11:45am, 4:15pm, 5:30pm, 8:45pm, 9:45pm), Mon 12/26 (11:30am, 2:00pm, 4:00pm, 5:45pm, 8:30pm, 9:45pm), Tue 12/27 (11:40am, 4:00pm, 5:00pm, 8:30pm, 9:20pm), Wed 12/28 (11:30am, 2:00pm, 4:00pm, 5:45pm, 8:30pm, 9:45pm)
+
+    * [Babylon](https://drafthouse.com/los-angeles/show/babylon): Thu 12/22 (3:45pm, 8:15pm), Fri 12/23 (10:25am, 12:15pm, 4:45pm, 9:15pm), Sat 12/24 (10:30am, 3:00pm, 7:30pm), Sun 12/25 (12:15pm, 4:45pm, 9:15pm), Mon 12/26 (12:20pm, 4:45pm, 9:15pm), Tue 12/27 (12:40pm, 4:40pm, 9:15pm), Wed 12/28 (12:20pm, 4:45pm, 9:15pm)
+
+    * [The Menu](https://drafthouse.com/los-angeles/show/the-menu): Thu 12/22 (3:00pm, 6:00pm, 9:45pm), Fri 12/23 (11:00am, 2:45pm, 6:45pm, 10:15pm), Sat 12/24 (11:50am, 2:15pm, 5:10pm, 8:00pm), Sun 12/25 (11:30am, 2:30pm, 3:45pm, 6:45pm, 10:00pm), Mon 12/26 (11:00am, 2:50pm, 6:45pm, 10:15pm), Tue 12/27 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Wed 12/28 (11:00am, 2:50pm, 6:45pm, 10:15pm)
+
+    * [The Whale](https://drafthouse.com/los-angeles/show/the-whale): Thu 12/22 (2:30pm, 2:45pm, 5:40pm, 6:40pm, 10:05pm), Fri 12/23 (10:45am, 2:00pm, 5:15pm, 8:30pm), Sat 12/24 (11:30am, 2:45pm, 8:20pm), Sun 12/25 (10:45am, 2:00pm, 5:15pm, 8:30pm), Mon 12/26 (11:00am, 2:15pm, 5:30pm, 8:45pm), Tue 12/27 (11:30am, 2:45pm, 9:30pm), Wed 12/28 (11:00am, 2:15pm, 5:30pm, 8:45pm)
+
+    * [Violent Night](https://drafthouse.com/los-angeles/show/violent-night): Thu 12/22 (3:40pm, 7:15pm, 10:25pm), Fri 12/23 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sat 12/24 (12:15pm, 3:15pm, 7:15pm), Sun 12/25 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Mon 12/26 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Tue 12/27 (12:15pm, 3:15pm, 6:15pm, 9:50pm), Wed 12/28 (12:15pm, 3:15pm, 6:15pm, 9:15pm)
+
+    * [White Christmas](https://drafthouse.com/los-angeles/show/white-christmas): Mon 12/26 (11:40am), Tue 12/27 (11:45am), Wed 12/28 (11:40am)
+
 ### Mon 12/19 2:16pm
 
 * New screenings: 
