@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 12/19 11:13am
+
+* New screenings: 
+    * [Empire Of Light](https://drafthouse.com/los-angeles/show/empire-of-light): Wed 12/21 (12:30pm, 3:40pm)
+
 ### Fri 12/16 12:21am
 * New movies: Women Talking, That Time I Got Reincarnated As a Slime The Movie: Scarlet Bond Subtitled, That Time I Got Reincarnated As a Slime The Movie: Scarlet Bond Dubbed, Women Talking
 
