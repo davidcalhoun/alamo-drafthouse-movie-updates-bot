@@ -1,6 +1,25 @@
 # raleigh
 
 ## Movie updates
+### Mon 12/19 4:18pm
+
+* New screenings: 
+    * [Avatar The Way Of Water](https://drafthouse.com/raleigh/show/avatar-the-way-of-water): Tue 12/20 (11:00am, 12:00pm, 12:30pm, 1:00pm, 2:15pm, 3:15pm, 4:15pm, 4:45pm, 5:15pm, 5:30pm, 6:30pm, 7:30pm, 9:00pm, 9:30pm, 9:45pm), Wed 12/21 (11:00am, 12:00pm, 12:30pm, 3:15pm, 4:15pm, 4:45pm, 5:45pm, 7:30pm, 8:30pm, 9:00pm), Thu 12/22 (12:00pm, 1:30pm, 4:15pm, 5:45pm, 8:30pm, 9:45pm)
+
+    * [Black Panther Wakanda Forever](https://drafthouse.com/raleigh/show/black-panther-wakanda-forever): Tue 12/20 (1:30pm, 2:30pm, 6:15pm, 10:05pm), Wed 12/21 (11:55am, 2:45pm, 6:45pm, 9:15pm), Thu 12/22 (11:15am, 2:30pm, 6:00pm, 9:40pm)
+
+    * [Empire Of Light](https://drafthouse.com/raleigh/show/empire-of-light): Tue 12/20 (11:15am)
+
+    * [Puss In Boots The Last Wish](https://drafthouse.com/raleigh/show/puss-in-boots-the-last-wish): Wed 12/21 (11:15am, 2:00pm, 4:30pm, 6:30pm, 10:10pm), Thu 12/22 (11:45am, 1:45pm, 3:15pm, 4:00pm, 6:45pm, 9:50pm)
+
+    * [Spoiler Alert The Hero Dies](https://drafthouse.com/raleigh/show/spoiler-alert-the-hero-dies): Tue 12/20 (10:45pm)
+
+    * [The Menu](https://drafthouse.com/raleigh/show/the-menu): Tue 12/20 (1:10pm), Wed 12/21 (10:30pm), Thu 12/22 (12:15pm)
+
+    * [The Whale](https://drafthouse.com/raleigh/show/the-whale): Tue 12/20 (8:30pm), Wed 12/21 (4:45pm, 7:45pm, 10:45pm), Thu 12/22 (11:00am)
+
+    * [Violent Night](https://drafthouse.com/raleigh/show/violent-night): Tue 12/20 (12:55pm, 3:50pm, 6:45pm, 9:40pm), Wed 12/21 (1:30pm, 3:50pm, 7:15pm, 10:05pm), Thu 12/22 (1:00pm, 4:30pm, 7:30pm, 10:25pm)
+
 ### Thu 12/15 11:31am
 * New movies: Brotherhood of the Wolf
 
