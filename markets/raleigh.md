@@ -1,6 +1,19 @@
 # raleigh
 
 ## Movie updates
+### Tue 12/20 5:20pm
+
+* New screenings: 
+    * [Avatar The Way Of Water](https://drafthouse.com/raleigh/show/avatar-the-way-of-water): Fri 12/30 (11:30am, 12:00pm, 3:45pm, 4:15pm, 8:00pm, 8:30pm), Sat 12/31 (1:15pm, 1:45pm, 5:30pm, 6:00pm), Sun 1/1 (11:30am, 3:15pm, 3:45pm, 7:30pm, 8:00pm), Mon 1/2 (11:30am, 11:55am, 3:45pm, 4:15pm, 8:00pm, 8:30pm), Tue 1/3 (11:30am, 11:55am, 3:45pm, 4:15pm, 8:00pm, 8:30pm), Wed 1/4 (11:30am, 12:00pm, 3:45pm, 4:15pm, 8:00pm, 8:30pm)
+
+    * [Babylon](https://drafthouse.com/raleigh/show/babylon): Fri 12/30 (12:30pm, 3:00pm, 6:00pm, 9:00pm), Sat 12/31 (12:45pm, 2:15pm, 6:15pm), Sun 1/1 (2:00pm, 6:15pm), Mon 1/2 (6:00pm), Tue 1/3 (6:00pm)
+
+    * [I Wanna Dance With Somebody](https://drafthouse.com/raleigh/show/i-wanna-dance-with-somebody): Fri 12/30 (7:15pm, 10:15pm), Sat 12/31 (11:55am), Sun 1/1 (12:40pm), Mon 1/2 (10:15pm), Tue 1/3 (10:15pm)
+
+    * [Puss In Boots The Last Wish](https://drafthouse.com/raleigh/show/puss-in-boots-the-last-wish): Fri 12/30 (6:30pm, 9:15pm), Sat 12/31 (3:30pm), Sun 1/1 (4:15pm, 7:00pm), Mon 1/2 (11:00am, 12:30pm, 1:45pm, 3:15pm), Tue 1/3 (11:00am, 12:30pm, 1:45pm, 3:15pm)
+
+    * [The Whale](https://drafthouse.com/raleigh/show/the-whale): Sat 12/31 (12:50pm, 3:55pm, 7:00pm), Sun 1/1 (11:00am), Mon 1/2 (4:30pm, 7:30pm), Tue 1/3 (4:30pm, 7:30pm)
+
 ### Tue 12/20 1:25pm
 
 * New screenings: 
