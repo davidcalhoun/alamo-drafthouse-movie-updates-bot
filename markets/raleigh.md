@@ -1,6 +1,23 @@
 # raleigh
 
 ## Movie updates
+### Tue 12/20 12:18pm
+
+* New screenings: 
+    * [Avatar The Way Of Water](https://drafthouse.com/raleigh/show/avatar-the-way-of-water): Fri 12/23 (12:00pm, 4:15pm, 8:30pm, 9:45pm), Sat 12/24 (1:15pm, 5:00pm, 5:30pm), Sun 12/25 (12:00pm, 3:45pm, 4:15pm, 8:30pm)
+
+    * [Babylon](https://drafthouse.com/raleigh/show/babylon): Fri 12/23 (2:00pm, 5:30pm), Sat 12/24 (5:45pm)
+
+    * [Black Panther Wakanda Forever](https://drafthouse.com/raleigh/show/black-panther-wakanda-forever): Fri 12/23 (11:45am, 3:30pm, 6:55pm, 10:10pm), Sat 12/24 (12:15pm, 4:00pm, 7:00pm), Sun 12/25 (11:55am, 3:30pm, 7:15pm, 10:00pm)
+
+    * [Puss In Boots The Last Wish](https://drafthouse.com/raleigh/show/puss-in-boots-the-last-wish): Fri 12/23 (11:55am, 2:45pm), Sat 12/24 (11:30am, 2:15pm), Sun 12/25 (10:45am, 1:15pm, 4:10pm)
+
+    * [The Menu](https://drafthouse.com/raleigh/show/the-menu): Fri 12/23 (10:45pm), Sat 12/24 (1:00pm), Sun 12/25 (8:00pm)
+
+    * [The Whale](https://drafthouse.com/raleigh/show/the-whale): Fri 12/23 (11:00am), Sun 12/25 (12:25pm, 9:50pm)
+
+    * [Violent Night](https://drafthouse.com/raleigh/show/violent-night): Fri 12/23 (12:55pm, 3:50pm, 7:15pm, 10:40pm), Sat 12/24 (11:50am, 2:45pm, 3:55pm, 7:45pm), Sun 12/25 (12:15pm, 3:15pm, 6:55pm, 10:50pm)
+
 ### Tue 12/20 11:30am
 
 * New screenings: 
