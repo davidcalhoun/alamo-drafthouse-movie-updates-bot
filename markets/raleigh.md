@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 12/20 9:21am
+* New movies: M3gan
+
+* New screenings: 
+    * [M3gan](https://drafthouse.com/raleigh/show/m3gan): Thu 1/5 (5:00pm, 7:45pm, 10:30pm), Fri 1/6 (7:15pm), Sat 1/7 (4:00pm, 6:45pm, 9:30pm), Sun 1/8 (6:30pm)
+
 ### Mon 12/19 6:20pm
 
 * New screenings: 
