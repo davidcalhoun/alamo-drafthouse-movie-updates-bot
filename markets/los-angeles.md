@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 12/20 6:17am
+* New movies: M3gan
+
+* New screenings: 
+    * [M3gan](https://drafthouse.com/los-angeles/show/m3gan): Thu 1/5 (5:00pm, 7:50pm, 10:40pm), Fri 1/6 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sat 1/7 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sun 1/8 (12:30pm, 3:30pm, 6:30pm)
+
 ### Mon 12/19 3:17pm
 
 * New screenings: 
