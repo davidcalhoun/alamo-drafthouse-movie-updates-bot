@@ -1,6 +1,25 @@
 # raleigh
 
 ## Movie updates
+### Tue 12/20 1:25pm
+
+* New screenings: 
+    * [Avatar The Way Of Water](https://drafthouse.com/raleigh/show/avatar-the-way-of-water): Thu 12/29 (11:30am, 11:55am, 1:00pm, 2:00pm, 3:45pm, 4:15pm, 4:45pm, 5:15pm, 6:15pm, 8:00pm, 8:30pm, 9:30pm, 10:30pm)
+
+    * [Babylon](https://drafthouse.com/raleigh/show/babylon): Thu 12/29 (12:30pm, 3:00pm, 6:00pm, 9:00pm)
+
+    * [Black Panther Wakanda Forever](https://drafthouse.com/raleigh/show/black-panther-wakanda-forever): Thu 12/29 (11:15am, 2:45pm, 6:45pm, 9:55pm)
+
+    * [I Wanna Dance With Somebody](https://drafthouse.com/raleigh/show/i-wanna-dance-with-somebody): Thu 12/29 (12:00pm, 3:30pm, 7:15pm, 10:15pm)
+
+    * [Puss In Boots The Last Wish](https://drafthouse.com/raleigh/show/puss-in-boots-the-last-wish): Thu 12/29 (11:00am, 12:30pm, 1:45pm, 3:15pm, 6:30pm, 9:15pm)
+
+    * [The Menu](https://drafthouse.com/raleigh/show/the-menu): Thu 12/29 (10:45pm)
+
+    * [The Whale](https://drafthouse.com/raleigh/show/the-whale): Thu 12/29 (12:45pm, 4:30pm, 7:30pm, 10:40pm)
+
+    * [Violent Night](https://drafthouse.com/raleigh/show/violent-night): Thu 12/29 (11:50am, 3:50pm, 7:00pm, 10:50pm)
+
 ### Tue 12/20 12:18pm
 
 * New screenings: 
