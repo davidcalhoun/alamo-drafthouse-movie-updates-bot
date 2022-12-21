@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 12/20 7:18pm
+* New movies: Singin' in the Rain
+
+
+
 ### Tue 12/20 6:17am
 * New movies: M3gan
 
