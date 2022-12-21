@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 12/20 10:22pm
+* New movies: Singin' in the Rain
+
+
+
 ### Tue 12/20 5:20pm
 
 * New screenings: 
