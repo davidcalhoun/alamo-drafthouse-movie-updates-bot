@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Wed 12/21 10:22am
+
+* New screenings: 
+    * [M3gan](https://drafthouse.com/raleigh/show/m3gan): Fri 1/6 (1:30pm, 4:15pm, 9:45pm), Mon 1/9 (1:15pm, 4:00pm, 6:45pm)
+
 ### Tue 12/20 10:22pm
 * New movies: Singin' in the Rain
 
