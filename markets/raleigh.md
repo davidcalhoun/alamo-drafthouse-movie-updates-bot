@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 12/21 6:22pm
+* New movies: The Subtle Art of Not Giving a #@%!
+
+* New screenings: 
+    * [The Subtle Art Of Not Giving A](https://drafthouse.com/raleigh/show/the-subtle-art-of-not-giving-a): Mon 1/9 (6:30pm)
+
 ### Wed 12/21 5:20pm
 * New movies: The Lord of the Rings: The Return of the King: Extended Edition, The Killing of a Chinese Bookie
 
