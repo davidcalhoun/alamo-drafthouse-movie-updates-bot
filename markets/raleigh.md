@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Wed 12/21 5:20pm
+* New movies: The Lord of the Rings: The Return of the King: Extended Edition, The Killing of a Chinese Bookie
+
+* New screenings: 
+    * [The Killing Of A Chinese Bookie](https://drafthouse.com/raleigh/show/the-killing-of-a-chinese-bookie): Sun 1/22 (11:00am)
+
+    * [The Lord Of The Rings The Return Of The King Extended Edition](https://drafthouse.com/raleigh/show/the-lord-of-the-rings-the-return-of-the-king-extended-edition): Sat 1/21 (11:00am)
+
 ### Wed 12/21 10:22am
 
 * New screenings: 
