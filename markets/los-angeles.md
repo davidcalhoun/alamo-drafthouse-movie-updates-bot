@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Wed 12/21 2:16pm
+* New movies: Mulholland Drive, JASON GOES TO HELL: THE FINAL FRIDAY
+
+* New screenings: 
+    * [Drafthouse Of Horrors Jason Goes To Hell The Final Friday](https://drafthouse.com/los-angeles/show/drafthouse-of-horrors-jason-goes-to-hell-the-final-friday): Fri 1/13 (7:15pm)
+
+    * [Faster Pussycat Kill Kill](https://drafthouse.com/los-angeles/show/faster-pussycat-kill-kill): Fri 1/27 (10:00pm)
+
+    * [Mulholland Drive](https://drafthouse.com/los-angeles/show/mulholland-drive): Mon 1/9 (7:00pm)
+
 ### Tue 12/20 7:18pm
 * New movies: Singin' in the Rain
 
