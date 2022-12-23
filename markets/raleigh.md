@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Fri 12/23 2:16pm
+* New movies: Skinamarink, Last Action Hero
+
+* New screenings: 
+    * [Last Action Hero](https://drafthouse.com/raleigh/show/last-action-hero): Mon 1/16 (7:00pm)
+
+    * [Skinamarink](https://drafthouse.com/raleigh/show/skinamarink): Fri 1/13 (9:30pm), Sat 1/14 (9:30pm)
+
 ### Wed 12/21 6:22pm
 * New movies: The Subtle Art of Not Giving a #@%!
 
