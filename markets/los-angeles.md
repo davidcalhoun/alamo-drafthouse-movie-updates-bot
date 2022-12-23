@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 12/23 1:14pm
+* New movies: Jason Goes to Hell: The Final Friday
+
+
+
 ### Thu 12/22 5:21pm
 * New movies: Skinamarink, Violent Streets
 
