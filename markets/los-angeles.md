@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 12/22 5:21pm
+* New movies: Skinamarink, Violent Streets
+
+* New screenings: 
+    * [Skinamarink](https://drafthouse.com/los-angeles/show/skinamarink): Fri 1/13 (6:45pm, 9:45pm), Sat 1/14 (7:00pm, 10:00pm)
+
+    * [Violent Streets](https://drafthouse.com/los-angeles/show/violent-streets): Fri 1/13 (1:15pm)
+
 ### Wed 12/21 2:16pm
 * New movies: Mulholland Drive, JASON GOES TO HELL: THE FINAL FRIDAY
 
