@@ -1,6 +1,25 @@
 # raleigh
 
 ## Movie updates
+### Tue 12/27 2:16pm
+
+* New screenings: 
+    * [Avatar The Way Of Water](https://drafthouse.com/raleigh/show/avatar-the-way-of-water): Fri 12/30 (1:00pm, 2:00pm, 4:45pm, 5:15pm, 6:15pm, 9:30pm, 10:30pm), Sat 12/31 (11:15am, 12:15pm, 3:30pm, 4:30pm, 5:00pm), Sun 1/1 (10:45am, 2:30pm, 5:00pm, 5:30pm), Mon 1/2 (1:00pm, 2:00pm, 4:45pm, 5:15pm, 6:15pm, 9:30pm, 10:30pm), Tue 1/3 (1:00pm, 2:00pm, 4:45pm, 5:15pm, 6:15pm, 9:30pm, 10:30pm), Wed 1/4 (1:00pm, 4:45pm, 5:15pm, 9:30pm)
+
+    * [Babylon](https://drafthouse.com/raleigh/show/babylon): Sun 1/1 (12:45pm), Mon 1/2 (12:25pm, 3:00pm, 9:00pm), Tue 1/3 (12:25pm, 3:00pm, 9:00pm), Wed 1/4 (12:25pm, 3:00pm, 6:00pm, 9:00pm)
+
+    * [Black Panther Wakanda Forever](https://drafthouse.com/raleigh/show/black-panther-wakanda-forever): Fri 12/30 (11:15am, 2:45pm, 6:45pm, 9:55pm), Sat 12/31 (12:00pm, 3:00pm, 6:30pm), Sun 1/1 (12:55pm, 2:15pm, 6:30pm), Mon 1/2 (11:15am, 2:45pm, 6:45pm, 9:55pm), Tue 1/3 (11:15am, 2:45pm, 9:55pm), Wed 1/4 (11:15am, 2:45pm, 6:45pm, 9:55pm)
+
+    * [I Wanna Dance With Somebody](https://drafthouse.com/raleigh/show/i-wanna-dance-with-somebody): Fri 12/30 (11:55am, 3:30pm), Sat 12/31 (3:45pm, 7:15pm), Sun 1/1 (3:00pm, 6:00pm), Mon 1/2 (12:00pm, 3:30pm, 7:15pm), Tue 1/3 (12:00pm, 3:30pm, 7:15pm), Wed 1/4 (11:55am, 3:30pm, 7:15pm, 10:15pm)
+
+    * [Puss In Boots The Last Wish](https://drafthouse.com/raleigh/show/puss-in-boots-the-last-wish): Fri 12/30 (11:00am, 12:15pm, 1:45pm, 3:15pm), Sat 12/31 (12:15pm, 6:45pm), Sun 1/1 (11:45am, 2:45pm), Mon 1/2 (6:30pm, 9:15pm), Tue 1/3 (6:30pm, 9:15pm), Wed 1/4 (11:00am, 12:30pm, 1:45pm, 3:15pm, 6:30pm, 9:15pm)
+
+    * [The Menu](https://drafthouse.com/raleigh/show/the-menu): Fri 12/30 (10:45pm), Sat 12/31 (11:20am), Sun 1/1 (11:15am), Mon 1/2 (10:45pm), Tue 1/3 (10:45pm), Wed 1/4 (10:45pm)
+
+    * [The Whale](https://drafthouse.com/raleigh/show/the-whale): Fri 12/30 (12:45pm, 4:30pm, 7:30pm, 10:40pm), Sun 1/1 (11:40am, 4:45pm, 7:45pm), Mon 1/2 (12:45pm, 10:40pm), Wed 1/4 (12:45pm, 4:30pm, 7:30pm, 10:40pm)
+
+    * [Violent Night](https://drafthouse.com/raleigh/show/violent-night): Fri 12/30 (11:45am, 3:50pm, 7:00pm, 10:50pm), Sat 12/31 (1:00pm, 4:00pm, 6:55pm), Sun 1/1 (1:15pm, 4:20pm, 7:15pm), Mon 1/2 (11:50am, 3:50pm, 7:00pm, 10:50pm), Tue 1/3 (11:50am, 7:00pm, 10:50pm), Wed 1/4 (11:50am, 3:50pm, 7:00pm, 10:50pm)
+
 ### Fri 12/23 2:16pm
 * New movies: Skinamarink, Last Action Hero
 
