@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 12/27 4:17pm
+
+* New screenings: 
+    * [Avatar The Way Of Water](https://drafthouse.com/raleigh/show/avatar-the-way-of-water): Thu 1/5 (1:30pm, 5:45pm, 10:00pm)
+
 ### Tue 12/27 2:16pm
 
 * New screenings: 
