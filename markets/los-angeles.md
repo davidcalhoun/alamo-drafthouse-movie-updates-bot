@@ -1,6 +1,31 @@
 # los-angeles
 
 ## Movie updates
+### Tue 12/27 2:15pm
+
+* New screenings: 
+    * [Avatar The Way Of Water](https://drafthouse.com/los-angeles/show/avatar-the-way-of-water): Thu 12/29 (11:00am, 11:30am, 2:00pm, 3:30pm, 4:00pm, 5:45pm, 8:00pm, 8:30pm, 9:45pm), Fri 12/30 (11:10am, 11:40am, 2:00pm, 3:30pm, 4:00pm, 5:45pm, 8:00pm, 8:30pm, 9:25pm), Sat 12/31 (11:30am, 1:30pm, 2:00pm, 4:00pm, 5:45pm, 6:00pm), Sun 1/1 (12:10pm, 2:30pm, 3:30pm, 6:15pm, 7:30pm), Mon 1/2 (11:00am, 11:20am, 12:00pm, 2:00pm, 2:20pm, 3:00pm, 3:30pm, 5:50pm, 6:20pm, 7:15pm, 8:00pm), Tue 1/3 (11:00am, 11:20am, 12:00pm, 2:00pm, 2:20pm, 3:00pm, 3:30pm, 5:50pm, 6:20pm, 7:15pm, 8:00pm), Wed 1/4 (11:00am, 11:20am, 12:00pm, 2:00pm, 2:20pm, 3:00pm, 3:30pm, 5:50pm, 6:20pm, 7:15pm, 8:00pm)
+
+    * [Babylon](https://drafthouse.com/los-angeles/show/babylon): Thu 12/29 (12:20pm, 4:45pm, 9:15pm), Fri 12/30 (12:20pm, 4:45pm, 9:15pm), Sat 12/31 (10:30am, 2:45pm, 7:15pm), Sun 1/1 (12:30pm, 2:10pm, 6:30pm, 7:50pm), Mon 1/2 (11:15am, 12:20pm, 3:00pm, 3:40pm, 6:45pm, 7:20pm), Tue 1/3 (11:15am, 12:20pm, 3:00pm, 3:40pm, 6:45pm, 7:20pm), Wed 1/4 (11:15am, 12:20pm, 3:00pm, 3:40pm, 6:45pm, 7:20pm)
+
+    * [I Wanna Dance With Somebody](https://drafthouse.com/los-angeles/show/i-wanna-dance-with-somebody): Mon 1/2 (11:30am, 3:30pm, 7:00pm), Tue 1/3 (11:30am, 3:30pm, 7:00pm), Wed 1/4 (11:30am, 3:30pm, 7:00pm)
+
+    * [Phantom Thread](https://drafthouse.com/los-angeles/show/phantom-thread): Tue 1/3 (8:00pm), Wed 1/4 (8:00pm)
+
+    * [Puss In Boots The Last Wish](https://drafthouse.com/los-angeles/show/puss-in-boots-the-last-wish): Mon 1/2 (12:15pm, 3:00pm, 7:00pm), Tue 1/3 (12:15pm, 3:00pm, 7:00pm), Wed 1/4 (12:15pm, 3:00pm, 7:00pm)
+
+    * [The Apartment Brunch](https://drafthouse.com/los-angeles/show/the-apartment-brunch): Sun 1/1 (11:00am)
+
+    * [The Menu](https://drafthouse.com/los-angeles/show/the-menu): Thu 12/29 (11:00am, 2:50pm, 6:45pm, 10:15pm), Fri 12/30 (11:00am, 11:45am, 2:45pm, 6:30pm, 10:20pm), Sat 12/31 (11:45am, 2:50pm, 6:30pm, 8:20pm), Sun 1/1 (11:30am, 3:15pm, 7:00pm), Mon 1/2 (11:00am, 11:30am, 2:00pm, 5:00pm, 7:45pm), Tue 1/3 (11:00am, 11:30am, 2:00pm, 5:00pm, 7:45pm), Wed 1/4 (11:00am, 11:30am, 2:00pm, 5:00pm, 7:45pm)
+
+    * [The Whale](https://drafthouse.com/los-angeles/show/the-whale): Sun 1/1 (4:45pm), Mon 1/2 (11:00am, 11:45am, 3:50pm, 4:35pm, 7:30pm), Tue 1/3 (11:00am, 11:45am, 3:50pm, 4:35pm, 7:30pm), Wed 1/4 (11:00am, 11:45am, 3:50pm, 4:35pm, 7:30pm)
+
+    * [Violent Night](https://drafthouse.com/los-angeles/show/violent-night): Thu 12/29 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Fri 12/30 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sat 12/31 (12:15pm, 3:15pm, 6:15pm), Sun 1/1 (12:30pm, 4:30pm, 8:00pm), Mon 1/2 (12:40pm, 4:20pm, 8:00pm), Tue 1/3 (12:40pm, 4:20pm, 8:00pm), Wed 1/4 (12:40pm, 4:20pm, 8:00pm)
+
+    * [When Harry Met Sally Brunch](https://drafthouse.com/los-angeles/show/when-harry-met-sally-brunch): Sat 12/31 (10:45am)
+
+    * [White Christmas](https://drafthouse.com/los-angeles/show/white-christmas): Thu 12/29 (11:40am)
+
 ### Fri 12/23 1:14pm
 * New movies: Jason Goes to Hell: The Final Friday
 
