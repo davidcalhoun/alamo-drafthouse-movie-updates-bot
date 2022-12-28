@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 12/28 11:13am
+* New movies: All That Breathes
+
+* New screenings: 
+    * [All That Breathes](https://drafthouse.com/los-angeles/show/all-that-breathes): Wed 1/11 (7:30pm)
+
 ### Tue 12/27 9:15pm
 * New movies: A Man Called Otto
 
