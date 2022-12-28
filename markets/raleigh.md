@@ -1,6 +1,17 @@
 # raleigh
 
 ## Movie updates
+### Wed 12/28 6:20pm
+
+* New screenings: 
+    * [Avatar The Way Of Water](https://drafthouse.com/raleigh/show/avatar-the-way-of-water): Wed 1/4 (2:00pm, 6:15pm, 10:30pm), Thu 1/5 (1:00pm, 5:15pm, 9:30pm)
+
+    * [Black Panther Wakanda Forever](https://drafthouse.com/raleigh/show/black-panther-wakanda-forever): Tue 1/3 (6:45pm)
+
+    * [The Whale](https://drafthouse.com/raleigh/show/the-whale): Tue 1/3 (12:45pm, 10:40pm)
+
+    * [Violent Night](https://drafthouse.com/raleigh/show/violent-night): Tue 1/3 (3:50pm)
+
 ### Tue 12/27 6:21pm
 
 * New screenings: 
