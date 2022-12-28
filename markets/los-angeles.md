@@ -1,6 +1,15 @@
 # los-angeles
 
 ## Movie updates
+### Wed 12/28 1:14pm
+
+* New screenings: 
+    * [A Man Called Otto](https://drafthouse.com/los-angeles/show/a-man-called-otto): Fri 1/13 (11:15am, 3:15pm, 10:45pm), Sat 1/14 (11:15am, 3:15pm, 7:00pm, 10:45pm), Sun 1/15 (11:15am, 3:15pm, 7:00pm)
+
+    * [Avatar The Way Of Water](https://drafthouse.com/los-angeles/show/avatar-the-way-of-water): Fri 1/13 (11:00am, 2:30pm, 6:30pm, 10:15pm), Sat 1/14 (2:30pm, 6:30pm, 10:15pm), Sun 1/15 (2:30pm, 6:30pm)
+
+    * [Brunch Screenings Avatar The Way Of Water Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-avatar-the-way-of-water-brunch): Sat 1/14 (11:00am), Sun 1/15 (11:00am)
+
 ### Wed 12/28 11:13am
 * New movies: All That Breathes
 
