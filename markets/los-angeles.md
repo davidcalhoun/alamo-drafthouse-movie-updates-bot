@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 12/27 9:15pm
+* New movies: A Man Called Otto
+
+* New screenings: 
+    * [A Man Called Otto](https://drafthouse.com/los-angeles/show/a-man-called-otto): Fri 1/13 (12:00pm, 3:30pm, 7:00pm, 10:25pm), Sat 1/14 (12:00pm, 3:30pm, 7:00pm, 10:25pm), Sun 1/15 (12:00pm, 3:30pm, 7:00pm)
+
 ### Tue 12/27 6:36pm
 * New movies: Broker
 
