@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 12/27 6:36pm
+* New movies: Broker
+
+* New screenings: 
+    * [Broker](https://drafthouse.com/los-angeles/show/broker): Fri 1/6 (11:15am, 2:45pm, 6:15pm, 9:45pm), Sat 1/7 (11:15am, 2:45pm, 6:15pm, 9:45pm), Sun 1/8 (11:15am, 2:45pm, 6:15pm)
+
 ### Tue 12/27 2:15pm
 
 * New screenings: 
