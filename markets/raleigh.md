@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 12/29 12:18pm
+* New movies: Missing 2023
+
+* New screenings: 
+    * [Free Victory Screening Missing 2023 Advance Screening W Livestream Q A](https://drafthouse.com/raleigh/show/free-victory-screening-missing-2023-advance-screening-w-livestream-q-a): Thu 1/12 (10:00pm)
+
 ### Wed 12/28 6:20pm
 
 * New screenings: 
