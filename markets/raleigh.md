@@ -1,6 +1,27 @@
 # raleigh
 
 ## Movie updates
+### Tue 1/3 6:21pm
+
+* New screenings: 
+    * [Avatar The Way Of Water](https://drafthouse.com/raleigh/show/avatar-the-way-of-water): Thu 1/5 (12:00pm, 12:30pm, 2:30pm, 3:15pm, 6:45pm)
+
+    * [Babylon](https://drafthouse.com/raleigh/show/babylon): Thu 1/5 (12:45pm, 4:45pm, 7:30pm, 9:00pm)
+
+    * [Black Panther Wakanda Forever](https://drafthouse.com/raleigh/show/black-panther-wakanda-forever): Thu 1/5 (11:55am, 2:15pm, 6:30pm, 9:45pm)
+
+    * [I Wanna Dance With Somebody](https://drafthouse.com/raleigh/show/i-wanna-dance-with-somebody): Thu 1/5 (12:55pm, 4:30pm, 6:15pm, 10:20pm)
+
+    * [M3gan](https://drafthouse.com/raleigh/show/m3gan): Thu 1/5 (8:00pm, 11:00pm)
+
+    * [Puss In Boots The Last Wish](https://drafthouse.com/raleigh/show/puss-in-boots-the-last-wish): Thu 1/5 (11:30am, 11:45am, 3:30pm, 3:45pm, 6:00pm, 8:45pm)
+
+    * [The Menu](https://drafthouse.com/raleigh/show/the-menu): Thu 1/5 (12:40pm)
+
+    * [The Whale](https://drafthouse.com/raleigh/show/the-whale): Thu 1/5 (12:15pm, 4:15pm, 7:15pm, 10:15pm)
+
+    * [Violent Night](https://drafthouse.com/raleigh/show/violent-night): Thu 1/5 (10:45pm)
+
 ### Thu 12/29 12:18pm
 * New movies: Missing 2023
 
