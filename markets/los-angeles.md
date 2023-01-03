@@ -1,6 +1,46 @@
 # los-angeles
 
 ## Movie updates
+### Tue 1/3 3:17pm
+* New movies: The Menu
+
+* New screenings: 
+    * [Avatar The Way Of Water](https://drafthouse.com/los-angeles/show/avatar-the-way-of-water): Thu 1/5 (1:45pm, 2:25pm, 3:30pm, 5:20pm, 6:20pm, 8:00pm, 9:10pm, 9:30pm), Fri 1/6 (11:15am, 11:30am, 2:00pm, 3:45pm, 5:30pm, 7:40pm, 8:15pm, 9:15pm, 9:45pm), Sat 1/7 (11:15am, 11:30am, 2:00pm, 3:45pm, 5:30pm, 7:00pm, 8:15pm, 9:15pm), Sun 1/8 (11:00am, 11:50am, 2:00pm, 3:20pm, 5:30pm, 7:15pm, 7:40pm), Mon 1/9 (11:00am, 11:50am, 2:00pm, 3:15pm, 5:30pm, 6:00pm, 7:30pm), Tue 1/10 (11:00am, 11:50am, 2:00pm, 3:15pm, 5:30pm, 6:00pm, 7:30pm), Wed 1/11 (11:00am, 11:50am, 2:00pm, 3:15pm, 3:40pm, 5:30pm, 7:30pm)
+
+    * [Babylon](https://drafthouse.com/los-angeles/show/babylon): Thu 1/5 (2:15pm, 3:00pm, 6:00pm, 9:30pm), Fri 1/6 (11:00am, 2:20pm, 3:20pm, 6:10pm, 9:40pm), Sat 1/7 (2:20pm, 3:20pm, 6:10pm, 9:40pm), Sun 1/8 (2:20pm, 3:30pm, 6:10pm), Mon 1/9 (11:00am, 2:20pm, 3:30pm, 7:15pm), Tue 1/10 (11:00am, 2:20pm, 3:30pm, 7:15pm), Wed 1/11 (11:00am, 2:20pm, 3:30pm, 6:00pm)
+
+    * [Broker](https://drafthouse.com/los-angeles/show/broker): Thu 1/5 (7:20pm, 10:35pm), Fri 1/6 (12:00pm, 3:30pm), Sat 1/7 (12:00pm, 3:30pm), Sun 1/8 (12:45pm), Mon 1/9 (11:15am, 12:45pm, 2:45pm, 6:10pm), Tue 1/10 (11:15am, 12:45pm, 2:45pm, 6:10pm), Wed 1/11 (11:15am, 12:45pm, 2:45pm, 6:10pm)
+
+    * [Brunch Screenings Babylon Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-babylon-brunch): Sat 1/7 (11:00am), Sun 1/8 (11:00am)
+
+    * [Brunch Screenings Puss In Boots The Last Wish Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-puss-in-boots-the-last-wish-brunch): Sat 1/7 (11:35am)
+
+    * [Brunch Screenings The Menu Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-the-menu-brunch): Sun 1/8 (11:00am)
+
+    * [Frankenhooker](https://drafthouse.com/los-angeles/show/frankenhooker): Tue 1/10 (12:15pm)
+
+    * [I Wanna Dance With Somebody](https://drafthouse.com/los-angeles/show/i-wanna-dance-with-somebody): Thu 1/5 (2:10pm)
+
+    * [M3gan](https://drafthouse.com/los-angeles/show/m3gan): Thu 1/5 (5:45pm, 6:45pm, 8:30pm, 10:45pm), Fri 1/6 (11:25am, 11:15pm), Sat 1/7 (11:25am, 7:40pm, 10:35pm), Sun 1/8 (11:25am, 4:20pm, 7:45pm), Mon 1/9 (11:25am, 12:30pm, 3:30pm, 4:20pm, 6:30pm, 7:45pm), Tue 1/10 (11:30am, 12:40pm, 3:30pm, 4:20pm, 6:30pm), Wed 1/11 (11:25am, 12:30pm, 3:30pm, 4:20pm, 6:30pm, 7:45pm)
+
+    * [Mulholland Drive](https://drafthouse.com/los-angeles/show/mulholland-drive): Sun 1/8 (6:00pm), Wed 1/11 (12:00pm)
+
+    * [Phantom Thread](https://drafthouse.com/los-angeles/show/phantom-thread): Thu 1/5 (3:00pm)
+
+    * [Puss In Boots The Last Wish](https://drafthouse.com/los-angeles/show/puss-in-boots-the-last-wish): Thu 1/5 (3:15pm, 6:35pm, 10:20pm), Fri 1/6 (11:35am, 3:20pm, 6:45pm, 10:30pm), Sat 1/7 (3:20pm, 6:45pm, 10:30pm), Sun 1/8 (11:35am, 3:20pm, 6:45pm), Mon 1/9 (11:35am, 3:15pm, 6:45pm), Tue 1/10 (11:35am, 3:15pm, 6:45pm), Wed 1/11 (11:35am, 3:15pm, 6:45pm)
+
+    * [Sunset Blvd](https://drafthouse.com/los-angeles/show/sunset-blvd): Sat 1/7 (4:00pm), Sun 1/8 (12:00pm), Mon 1/9 (11:00am)
+
+    * [The Lord Of The Rings The Fellowship Of The Ring Extended Edition](https://drafthouse.com/los-angeles/show/the-lord-of-the-rings-the-fellowship-of-the-ring-extended-edition): Fri 1/6 (1:00pm), Sat 1/7 (6:45pm), Mon 1/9 (2:00pm), Tue 1/10 (3:00pm)
+
+    * [The Menu](https://drafthouse.com/los-angeles/show/the-menu): Thu 1/5 (2:30pm, 6:15pm, 9:45pm), Fri 1/6 (11:10am, 2:30pm, 6:20pm, 10:00pm), Sat 1/7 (11:00am, 2:30pm, 6:20pm, 10:00pm), Sun 1/8 (2:30pm, 6:30pm), Mon 1/9 (11:10am, 2:30pm, 6:20pm), Tue 1/10 (11:10am, 2:30pm, 6:20pm), Wed 1/11 (11:10am, 2:30pm, 6:20pm)
+
+    * [The Whale](https://drafthouse.com/los-angeles/show/the-whale): Thu 1/5 (2:45pm, 6:00pm, 9:15pm), Fri 1/6 (12:15pm, 4:00pm, 7:15pm, 10:20pm), Sat 1/7 (12:15pm, 4:00pm, 7:15pm, 10:20pm), Sun 1/8 (12:15pm, 4:10pm, 7:15pm), Mon 1/9 (12:15pm, 4:10pm, 7:15pm), Tue 1/10 (12:25pm, 4:10pm, 7:45pm), Wed 1/11 (12:15pm, 4:10pm, 7:15pm)
+
+    * [Violent Night](https://drafthouse.com/los-angeles/show/violent-night): Thu 1/5 (2:00pm)
+
+    * [Women Talking](https://drafthouse.com/los-angeles/show/women-talking): Mon 1/9 (1:00pm, 4:00pm, 7:00pm), Tue 1/10 (1:00pm, 4:00pm, 7:00pm), Wed 1/11 (1:00pm, 4:00pm, 7:00pm)
+
 ### Wed 12/28 1:14pm
 
 * New screenings: 
