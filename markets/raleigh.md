@@ -1,6 +1,32 @@
 # raleigh
 
 ## Movie updates
+### Tue 1/3 8:43pm
+* New movies: The Offering
+
+* New screenings: 
+    * [Avatar The Way Of Water](https://drafthouse.com/raleigh/show/avatar-the-way-of-water): Fri 1/6 (12:30pm, 2:15pm, 8:30pm), Sat 1/7 (8:15pm, 9:00pm), Sun 1/8 (1:00pm, 5:15pm, 6:15pm), Mon 1/9 (12:30pm, 1:45pm, 4:45pm, 8:00pm), Tue 1/10 (11:00am, 12:30pm, 1:45pm, 2:15pm, 3:15pm, 4:45pm, 7:30pm, 8:30pm, 9:00pm), Wed 1/11 (11:00am, 12:00pm, 12:30pm, 3:15pm, 4:15pm, 4:45pm, 7:30pm, 8:30pm, 9:00pm)
+
+    * [Babylon](https://drafthouse.com/raleigh/show/babylon): Fri 1/6 (12:45pm, 5:00pm, 6:15pm), Sat 1/7 (11:30am, 3:45pm, 4:45pm, 6:00pm, 9:15pm), Sun 1/8 (11:40am, 2:00pm, 6:00pm), Mon 1/9 (12:45pm, 5:00pm, 7:45pm, 9:15pm), Tue 1/10 (1:00pm, 5:15pm, 6:15pm, 9:45pm), Wed 1/11 (1:15pm, 2:15pm, 6:00pm, 10:15pm)
+
+    * [Black Panther Wakanda Forever](https://drafthouse.com/raleigh/show/black-panther-wakanda-forever): Fri 1/6 (12:00pm, 4:00pm, 7:15pm, 9:15pm), Sat 1/7 (12:30pm, 2:15pm, 6:15pm, 10:00pm), Sun 1/8 (12:45pm, 4:30pm, 7:45pm), Mon 1/9 (11:45am, 3:30pm, 6:45pm, 10:15pm), Tue 1/10 (12:45pm, 4:30pm, 6:00pm, 10:00pm), Wed 1/11 (12:15pm, 4:00pm, 6:15pm, 10:00pm)
+
+    * [Fantastic Fest Presents The Offering Advance Screening](https://drafthouse.com/raleigh/show/fantastic-fest-presents-the-offering-advance-screening): Tue 1/10 (9:30pm)
+
+    * [I Wanna Dance With Somebody](https://drafthouse.com/raleigh/show/i-wanna-dance-with-somebody): Fri 1/6 (11:15am, 2:45pm, 6:30pm, 9:30pm), Sat 1/7 (11:45am, 3:40pm, 7:00pm, 10:30pm), Sun 1/8 (12:10pm, 3:45pm, 7:00pm), Mon 1/9 (11:30am, 3:00pm, 7:00pm, 10:30pm), Tue 1/10 (11:25am, 2:45pm, 6:45pm, 10:15pm), Wed 1/11 (11:40am, 3:10pm, 6:45pm, 10:20pm)
+
+    * [M3gan](https://drafthouse.com/raleigh/show/m3gan): Fri 1/6 (6:00pm, 8:45pm, 11:00pm), Sat 1/7 (8:00pm, 10:45pm), Sun 1/8 (11:30am, 2:15pm, 5:00pm), Mon 1/9 (12:00pm, 2:45pm, 5:30pm, 8:15pm, 11:00pm), Tue 1/10 (8:15pm, 10:30pm, 11:00pm), Wed 1/11 (11:45am, 2:30pm, 5:15pm, 7:00pm, 8:15pm, 9:45pm, 11:00pm)
+
+    * [Puss In Boots The Last Wish](https://drafthouse.com/raleigh/show/puss-in-boots-the-last-wish): Fri 1/6 (12:15pm, 1:45pm, 3:00pm, 4:30pm, 5:45pm, 6:45pm, 10:30pm), Sat 1/7 (12:00pm, 2:45pm, 4:15pm, 5:30pm, 6:30pm, 10:15pm), Sun 1/8 (11:15am, 12:15pm, 4:00pm, 6:45pm), Mon 1/9 (11:15am, 11:45am, 2:30pm, 3:45pm, 5:15pm, 6:00pm, 8:45pm), Tue 1/10 (11:30am, 3:00pm, 5:00pm, 5:45pm, 6:30pm, 9:15pm), Wed 1/11 (11:30am, 12:45pm, 3:30pm, 5:30pm, 6:30pm, 9:15pm)
+
+    * [Sunset Blvd](https://drafthouse.com/raleigh/show/sunset-blvd): Sat 1/7 (1:50pm)
+
+    * [The Lord Of The Rings The Fellowship Of The Ring Extended Edition](https://drafthouse.com/raleigh/show/the-lord-of-the-rings-the-fellowship-of-the-ring-extended-edition): Fri 1/6 (1:00pm), Sat 1/7 (1:30pm), Sun 1/8 (1:30pm), Mon 1/9 (2:00pm), Tue 1/10 (12:00pm), Wed 1/11 (1:00pm)
+
+    * [The Whale](https://drafthouse.com/raleigh/show/the-whale): Fri 1/6 (12:40pm, 3:45pm, 7:45pm, 10:45pm), Sat 1/7 (12:40pm, 3:15pm, 7:15pm, 10:15pm), Sun 1/8 (12:55pm, 3:55pm, 7:15pm), Mon 1/9 (1:30pm, 4:30pm, 7:15pm, 10:40pm), Tue 1/10 (11:45am, 3:45pm, 7:45pm, 10:45pm), Wed 1/11 (12:55pm, 3:55pm, 7:45pm, 10:45pm)
+
+    * [Violent Night](https://drafthouse.com/raleigh/show/violent-night): Fri 1/6 (11:20am), Sat 1/7 (11:20am), Sun 1/8 (8:15pm), Mon 1/9 (12:50pm), Tue 1/10 (12:50pm), Wed 1/11 (10:30pm)
+
 ### Tue 1/3 6:21pm
 
 * New screenings: 
