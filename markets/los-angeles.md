@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 1/4 9:18am
+* New movies: Dangerous Men
+
+* New screenings: 
+    * [Dangerous Men](https://drafthouse.com/los-angeles/show/dangerous-men): Tue 1/31 (7:00pm), Wed 2/1 (7:00pm)
+
 ### Wed 1/4 8:30am
 * New movies: Dude Bro Party Massacre III
 
