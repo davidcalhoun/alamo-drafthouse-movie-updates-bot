@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Wed 1/4 12:22pm
+
+* New screenings: 
+    * [Avatar The Way Of Water](https://drafthouse.com/raleigh/show/avatar-the-way-of-water): Thu 1/12 (11:00am, 11:30am, 3:15pm, 3:45pm, 7:30pm)
+
+    * [House Party 2023](https://drafthouse.com/raleigh/show/house-party-2023): Thu 1/12 (10:45pm), Fri 1/13 (1:30pm, 4:15pm), Sat 1/14 (1:15pm, 4:00pm)
+
 ### Wed 1/4 11:36am
 * New movies: House Party 2023
 
