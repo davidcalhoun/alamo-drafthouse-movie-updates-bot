@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 1/4 11:36am
+* New movies: House Party 2023
+
+* New screenings: 
+    * [House Party 2023](https://drafthouse.com/raleigh/show/house-party-2023): Thu 1/12 (8:00pm), Fri 1/13 (8:00pm), Sat 1/14 (6:45pm), Sun 1/15 (7:00pm)
+
 ### Tue 1/3 8:43pm
 * New movies: The Offering
 
