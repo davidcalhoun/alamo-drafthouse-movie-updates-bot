@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 1/4 8:30am
+* New movies: Dude Bro Party Massacre III
+
+* New screenings: 
+    * [Dude Bro Party Massacre Iii](https://drafthouse.com/los-angeles/show/dude-bro-party-massacre-iii): Tue 1/24 (8:00pm), Wed 1/25 (8:00pm)
+
 ### Tue 1/3 3:17pm
 * New movies: The Menu
 
