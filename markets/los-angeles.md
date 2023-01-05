@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 1/4 6:41pm
+
+* New screenings: 
+    * [Frankenhooker](https://drafthouse.com/los-angeles/show/frankenhooker): Sat 1/7 (10:00pm)
+
 ### Wed 1/4 9:18am
 * New movies: Dangerous Men
 
