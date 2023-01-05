@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Thu 1/5 3:18pm
+* New movies: The Offering
+
+* New screenings: 
+    * [Fantastic Fest Presents The Offering Advance Screening](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-the-offering-advance-screening): Fri 1/13 (4:00pm)
+
+    * [Live Q A The Civil Dead](https://drafthouse.com/los-angeles/show/live-q-a-the-civil-dead): Fri 2/3 (9:00pm)
+
+    * [Skinamarink](https://drafthouse.com/los-angeles/show/skinamarink): Sat 1/14 (4:10pm)
+
 ### Thu 1/5 11:13am
 
 * New screenings: 
