@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 1/4 9:15pm
+* New movies: Fantastic Fest Presents: THE OFFERING w/ Live Q&A
+
+* New screenings: 
+    * [Fantastic Fest Presents The Offering W Live Qa](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-the-offering-w-live-qa): Tue 1/10 (7:30pm)
+
 ### Wed 1/4 6:41pm
 
 * New screenings: 
