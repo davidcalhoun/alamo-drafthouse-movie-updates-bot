@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Wed 1/4 8:46pm
+
+* New screenings: 
+    * [M3gan](https://drafthouse.com/raleigh/show/m3gan): Fri 1/6 (5:45pm), Sat 1/7 (5:30pm), Sun 1/8 (5:15pm)
+
 ### Wed 1/4 12:22pm
 
 * New screenings: 
