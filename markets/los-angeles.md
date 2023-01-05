@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 1/5 11:13am
+
+* New screenings: 
+    * [M3gan](https://drafthouse.com/los-angeles/show/m3gan): Thu 1/5 (9:45pm), Sat 1/7 (2:30pm, 10:00pm), Sun 1/8 (2:30pm)
+
 ### Wed 1/4 10:20pm
 * New movies: The Offering
 
