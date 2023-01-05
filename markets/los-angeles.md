@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 1/4 10:20pm
+* New movies: The Offering
+
+
+
 ### Wed 1/4 9:15pm
 * New movies: Fantastic Fest Presents: THE OFFERING w/ Live Q&A
 
