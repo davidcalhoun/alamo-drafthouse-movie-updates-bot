@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 1/5 5:26pm
+
+* New screenings: 
+    * [Mulholland Drive](https://drafthouse.com/los-angeles/show/mulholland-drive): Mon 1/9 (6:20pm), Wed 1/11 (6:20pm)
+
 ### Thu 1/5 3:18pm
 * New movies: The Offering
 
