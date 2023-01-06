@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 1/6 12:21am
+
+* New screenings: 
+    * [The Lord Of The Rings The Two Towers Extended Edition 2](https://drafthouse.com/los-angeles/show/the-lord-of-the-rings-the-two-towers-extended-edition-2): Fri 1/13 (11:00am)
+
 ### Thu 1/5 5:26pm
 
 * New screenings: 
