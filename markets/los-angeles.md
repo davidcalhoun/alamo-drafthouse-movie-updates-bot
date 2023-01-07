@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Sat 1/7 5:19am
+* New movies: Samurai Wolf, Samurai Wolf 2
+
+* New screenings: 
+    * [Samurai Wolf](https://drafthouse.com/los-angeles/show/samurai-wolf): Sat 1/14 (3:45pm)
+
+    * [Samurai Wolf 2](https://drafthouse.com/los-angeles/show/samurai-wolf-2): Sun 1/15 (12:30pm)
+
+    * [Violent Streets](https://drafthouse.com/los-angeles/show/violent-streets): Sat 1/14 (6:15pm), Sun 1/15 (6:30pm)
+
 ### Fri 1/6 9:15pm
 
 * New screenings: 
