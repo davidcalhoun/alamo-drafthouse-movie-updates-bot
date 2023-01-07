@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Fri 1/6 9:15pm
+
+* New screenings: 
+    * [That Time I Got Reincarnated As A Slime The Movie Scarlet Bond Dubbed](https://drafthouse.com/los-angeles/show/that-time-i-got-reincarnated-as-a-slime-the-movie-scarlet-bond-dubbed): Tue 1/24 (12:20pm)
+
+    * [That Time I Got Reincarnated As A Slime The Movie Scarlet Bond Subtitled](https://drafthouse.com/los-angeles/show/that-time-i-got-reincarnated-as-a-slime-the-movie-scarlet-bond-subtitled): Tue 1/24 (3:25pm, 6:30pm)
+
 ### Fri 1/6 12:21am
 
 * New screenings: 
