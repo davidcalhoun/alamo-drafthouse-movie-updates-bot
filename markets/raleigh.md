@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 1/9 8:48pm
+* New movies: BTS: Yet To Come In Cinemas
+
+* New screenings: 
+    * [Bts Yet To Come In Cinemas](https://drafthouse.com/raleigh/show/bts-yet-to-come-in-cinemas): Wed 2/1 (7:00pm), Fri 2/3 (7:00pm), Sat 2/4 (4:00pm)
+
 ### Thu 1/5 8:47pm
 
 * New screenings: 
