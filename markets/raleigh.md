@@ -1,6 +1,48 @@
 # raleigh
 
 ## Movie updates
+### Tue 1/10 10:28am
+* New movies: Women Talking, Broker, Plane, Infinity Pool, Saint Omer, Women Talking, The 22nd Annual Animation Show of Shows
+
+* New screenings: 
+    * [Avatar The Way Of Water](https://drafthouse.com/raleigh/show/avatar-the-way-of-water): Thu 1/12 (1:30pm, 5:45pm, 10:15pm), Fri 1/13 (11:30am, 12:30pm, 3:45pm, 4:45pm, 6:00pm, 9:00pm), Sat 1/14 (12:00pm, 12:30pm, 4:15pm, 4:45pm, 6:00pm, 8:30pm, 9:00pm), Sun 1/15 (11:00am, 11:30am, 3:15pm, 3:45pm, 6:45pm, 7:30pm), Mon 1/16 (11:00am, 12:30pm, 3:15pm, 4:00pm, 4:45pm, 7:30pm, 9:00pm), Wed 1/18 (12:15pm, 12:30pm, 3:55pm, 4:45pm, 6:30pm, 9:00pm, 10:00pm)
+
+    * [Babylon](https://drafthouse.com/raleigh/show/babylon): Thu 1/12 (12:45pm, 3:00pm, 6:15pm, 9:40pm), Fri 1/13 (11:15am, 3:15pm, 7:30pm, 9:45pm), Sat 1/14 (12:15pm, 3:30pm, 6:30pm, 9:45pm), Sun 1/15 (12:15pm, 3:55pm, 6:00pm), Mon 1/16 (12:00pm, 3:45pm, 6:15pm, 9:15pm), Wed 1/18 (12:25pm, 2:00pm, 6:00pm, 10:15pm)
+
+    * [Black Panther Wakanda Forever](https://drafthouse.com/raleigh/show/black-panther-wakanda-forever): Thu 1/12 (12:10pm)
+
+    * [Broker](https://drafthouse.com/raleigh/show/broker): Fri 1/13 (2:45pm, 6:30pm, 10:15pm), Sat 1/14 (4:30pm, 7:45pm, 10:55pm), Sun 1/15 (4:30pm, 8:15pm), Mon 1/16 (2:45pm, 6:00pm, 9:45pm), Wed 1/18 (3:30pm, 7:30pm, 10:45pm)
+
+    * [Brunch Screenings Women Talking Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-women-talking-brunch): Sun 1/15 (12:00pm)
+
+    * [Bullitt](https://drafthouse.com/raleigh/show/bullitt): Thu 1/12 (11:45am)
+
+    * [House Party 2023](https://drafthouse.com/raleigh/show/house-party-2023): Thu 1/12 (5:00pm), Fri 1/13 (10:45pm), Sat 1/14 (10:15pm), Sun 1/15 (1:15pm, 4:00pm, 8:00pm), Mon 1/16 (12:50pm, 3:40pm, 6:30pm, 10:15pm), Wed 1/18 (1:15pm, 4:30pm, 7:15pm, 10:45pm)
+
+    * [I Wanna Dance With Somebody](https://drafthouse.com/raleigh/show/i-wanna-dance-with-somebody): Thu 1/12 (2:55pm)
+
+    * [Infinity Pool](https://drafthouse.com/raleigh/show/infinity-pool): Thu 1/26 (7:00pm), Fri 1/27 (6:30pm), Sat 1/28 (6:30pm), Sun 1/29 (6:30pm)
+
+    * [La La Land](https://drafthouse.com/raleigh/show/la-la-land): Mon 1/16 (1:45pm)
+
+    * [M3gan](https://drafthouse.com/raleigh/show/m3gan): Thu 1/12 (12:15pm, 12:40pm, 3:30pm, 5:30pm, 8:15pm, 11:00pm), Fri 1/13 (12:40pm, 4:30pm, 8:15pm, 11:00pm), Sat 1/14 (1:00pm, 4:40pm, 8:00pm, 10:45pm), Sun 1/15 (1:30pm, 3:00pm, 7:00pm), Mon 1/16 (1:30pm, 4:15pm, 8:15pm, 11:00pm), Wed 1/18 (1:30pm, 4:15pm, 8:15pm, 11:00pm)
+
+    * [Plane](https://drafthouse.com/raleigh/show/plane): Thu 1/12 (6:00pm, 8:50pm), Fri 1/13 (12:20pm, 3:40pm, 6:45pm, 9:40pm), Sat 1/14 (12:20pm, 4:20pm, 7:15pm, 10:05pm), Sun 1/15 (1:20pm, 4:10pm, 7:15pm), Mon 1/16 (1:10pm, 3:25pm, 7:15pm, 10:45pm), Wed 1/18 (1:00pm, 4:55pm, 7:45pm, 10:40pm)
+
+    * [Puss In Boots The Last Wish](https://drafthouse.com/raleigh/show/puss-in-boots-the-last-wish): Thu 1/12 (12:30pm, 2:45pm, 3:15pm, 6:30pm, 9:15pm), Fri 1/13 (12:55pm, 4:00pm, 7:45pm, 10:30pm), Sat 1/14 (12:40pm, 3:15pm, 6:15pm, 9:05pm), Sun 1/15 (12:50pm, 3:30pm, 6:15pm), Mon 1/16 (12:55pm, 5:00pm, 8:00pm, 10:10pm), Wed 1/18 (11:15am, 3:15pm, 6:55pm, 9:40pm)
+
+    * [Saint Omer](https://drafthouse.com/raleigh/show/saint-omer): Thu 1/12 (7:45pm, 10:50pm), Fri 1/13 (12:50pm), Sat 1/14 (12:55pm), Sun 1/15 (12:45pm), Mon 1/16 (11:40am), Wed 1/18 (12:40pm)
+
+    * [The 22nd Annual Animation Show Of Shows](https://drafthouse.com/raleigh/show/the-22nd-annual-animation-show-of-shows): Wed 1/18 (4:00pm)
+
+    * [The Lord Of The Rings The Fellowship Of The Ring Extended Edition](https://drafthouse.com/raleigh/show/the-lord-of-the-rings-the-fellowship-of-the-ring-extended-edition): Thu 1/12 (11:15am)
+
+    * [The Lord Of The Rings The Two Towers Extended Edition 2](https://drafthouse.com/raleigh/show/the-lord-of-the-rings-the-two-towers-extended-edition-2): Fri 1/13 (11:50am, 3:25pm), Sun 1/15 (5:45pm), Wed 1/18 (12:00pm)
+
+    * [The Whale](https://drafthouse.com/raleigh/show/the-whale): Thu 1/12 (11:55am, 3:55pm, 7:15pm, 10:30pm), Fri 1/13 (1:25pm, 4:45pm, 6:15pm, 9:15pm), Sat 1/14 (1:30pm, 3:55pm, 7:30pm, 10:30pm), Sun 1/15 (12:30pm, 4:15pm, 7:45pm), Mon 1/16 (12:25pm, 4:15pm, 6:45pm, 10:30pm), Wed 1/18 (12:10pm, 3:45pm, 6:15pm, 9:15pm)
+
+    * [Women Talking](https://drafthouse.com/raleigh/show/women-talking): Thu 1/12 (4:00pm, 6:45pm, 9:30pm), Fri 1/13 (12:00pm, 3:30pm, 7:15pm, 10:00pm), Sat 1/14 (12:25pm, 3:10pm, 7:00pm, 10:40pm), Sun 1/15 (3:40pm, 6:30pm), Mon 1/16 (1:00pm, 3:55pm, 7:45pm, 10:35pm), Wed 1/18 (12:45pm, 4:45pm, 7:00pm, 9:45pm)
+
 ### Mon 1/9 8:48pm
 * New movies: BTS: Yet To Come In Cinemas
 
