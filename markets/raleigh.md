@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 1/10 5:21pm
+* New movies: When You Finish Saving the World
+
+* New screenings: 
+    * [When You Finish Saving The World](https://drafthouse.com/raleigh/show/when-you-finish-saving-the-world): Sat 1/21 (7:30pm), Tue 1/24 (3:45pm)
+
 ### Tue 1/10 10:28am
 * New movies: Women Talking, Broker, Plane, Infinity Pool, Saint Omer, Women Talking, The 22nd Annual Animation Show of Shows
 
