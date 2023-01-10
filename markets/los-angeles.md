@@ -1,6 +1,38 @@
 # los-angeles
 
 ## Movie updates
+### Mon 1/9 8:21pm
+* New movies: Plane, The Offering, Saint Omer
+
+* New screenings: 
+    * [A Man Called Otto](https://drafthouse.com/los-angeles/show/a-man-called-otto): Mon 1/16 (11:15am, 3:15pm, 7:00pm), Wed 1/18 (11:15am, 3:15pm, 7:00pm)
+
+    * [Avatar The Way Of Water](https://drafthouse.com/los-angeles/show/avatar-the-way-of-water): Fri 1/13 (2:00pm, 5:30pm, 9:20pm, 10:20pm), Sat 1/14 (11:10am, 5:25pm, 9:30pm), Sun 1/15 (11:30am, 6:30pm, 7:00pm), Mon 1/16 (11:00am, 11:30am, 2:30pm, 6:30pm, 7:00pm), Wed 1/18 (11:00am, 11:30am, 2:30pm, 6:30pm, 7:00pm)
+
+    * [Babylon](https://drafthouse.com/los-angeles/show/babylon): Fri 1/13 (2:20pm, 6:00pm, 9:40pm), Sat 1/14 (11:00am, 2:20pm, 6:10pm, 9:35pm), Sun 1/15 (12:15pm, 2:20pm, 6:10pm), Mon 1/16 (12:15pm, 2:20pm, 6:10pm), Wed 1/18 (12:15pm, 2:20pm, 6:10pm)
+
+    * [Broker](https://drafthouse.com/los-angeles/show/broker): Fri 1/13 (7:00pm, 10:30pm), Sat 1/14 (3:20pm, 6:45pm, 10:10pm), Sun 1/15 (3:30pm, 7:00pm), Mon 1/16 (3:30pm, 7:00pm), Wed 1/18 (3:30pm, 7:00pm)
+
+    * [M3gan](https://drafthouse.com/los-angeles/show/m3gan): Fri 1/13 (3:00pm, 6:00pm, 9:00pm), Sat 1/14 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sun 1/15 (12:00pm, 3:00pm, 6:00pm), Mon 1/16 (12:00pm, 3:00pm, 6:00pm), Wed 1/18 (12:00pm, 3:00pm, 6:00pm)
+
+    * [Plane](https://drafthouse.com/los-angeles/show/plane): Fri 1/13 (2:00pm, 5:00pm, 8:00pm, 11:00pm), Sat 1/14 (12:45pm, 4:20pm, 7:30pm, 10:30pm), Sun 1/15 (12:45pm, 4:30pm, 7:30pm), Mon 1/16 (12:45pm, 4:30pm, 7:30pm), Wed 1/18 (12:45pm, 4:30pm, 7:30pm)
+
+    * [Puss In Boots The Last Wish](https://drafthouse.com/los-angeles/show/puss-in-boots-the-last-wish): Fri 1/13 (3:10pm, 6:45pm, 10:30pm), Sat 1/14 (11:30am, 3:20pm, 6:45pm, 10:25pm), Sun 1/15 (11:30am, 3:15pm, 6:45pm), Mon 1/16 (11:30am, 3:15pm, 6:45pm), Wed 1/18 (11:30am, 3:15pm, 6:45pm)
+
+    * [Saint Omer](https://drafthouse.com/los-angeles/show/saint-omer): Fri 1/13 (3:30pm), Sat 1/14 (12:00pm), Sun 1/15 (11:40am), Mon 1/16 (11:40am), Wed 1/18 (11:40am)
+
+    * [Skinamarink](https://drafthouse.com/los-angeles/show/skinamarink): Fri 1/13 (4:15pm), Sat 1/14 (4:00pm), Sun 1/15 (12:15pm, 3:45pm, 5:30pm), Mon 1/16 (12:15pm, 3:45pm, 5:35pm), Wed 1/18 (12:15pm, 3:45pm, 5:35pm)
+
+    * [The Lord Of The Rings The Two Towers Extended Edition 2](https://drafthouse.com/los-angeles/show/the-lord-of-the-rings-the-two-towers-extended-edition-2): Sat 1/14 (11:30am, 9:15pm), Mon 1/16 (2:10pm), Wed 1/18 (12:15pm)
+
+    * [The Offering](https://drafthouse.com/los-angeles/show/the-offering): Sat 1/14 (2:40pm), Sun 1/15 (2:45pm), Mon 1/16 (11:25am), Wed 1/18 (2:50pm)
+
+    * [The Whale](https://drafthouse.com/los-angeles/show/the-whale): Fri 1/13 (4:00pm, 7:15pm, 10:25pm), Sat 1/14 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Sun 1/15 (12:45pm, 4:00pm, 7:15pm), Mon 1/16 (12:45pm, 4:00pm, 7:15pm), Wed 1/18 (12:45pm, 4:00pm, 7:15pm)
+
+    * [Violent Streets](https://drafthouse.com/los-angeles/show/violent-streets): Mon 1/16 (2:45pm), Wed 1/18 (5:10pm)
+
+    * [Women Talking](https://drafthouse.com/los-angeles/show/women-talking): Fri 1/13 (2:25pm, 6:25pm, 10:00pm), Sat 1/14 (11:45am, 3:35pm, 6:35pm, 9:50pm), Sun 1/15 (12:30pm, 4:00pm, 6:45pm), Mon 1/16 (12:30pm, 4:00pm, 6:45pm), Wed 1/18 (12:30pm, 4:00pm, 6:45pm)
+
 ### Sat 1/7 5:19am
 * New movies: Samurai Wolf, Samurai Wolf 2
 
