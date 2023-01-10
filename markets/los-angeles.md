@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Mon 1/9 9:15pm
+* New movies: When You Finish Saving the World
+
+* New screenings: 
+    * [The Lord Of The Rings The Return Of The King Extended Edition](https://drafthouse.com/los-angeles/show/the-lord-of-the-rings-the-return-of-the-king-extended-edition): Sat 1/21 (7:15pm)
+
+    * [When You Finish Saving The World](https://drafthouse.com/los-angeles/show/when-you-finish-saving-the-world): Thu 1/19 (7:00pm), Fri 1/20 (6:30pm), Sat 1/21 (11:15am), Sun 1/22 (5:10pm)
+
 ### Mon 1/9 8:21pm
 * New movies: Plane, The Offering, Saint Omer
 
