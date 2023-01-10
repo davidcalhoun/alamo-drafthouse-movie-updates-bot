@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 1/10 7:25am
+* New movies: Infinity Pool
+
+* New screenings: 
+    * [Infinity Pool](https://drafthouse.com/los-angeles/show/infinity-pool): Thu 1/26 (7:00pm), Fri 1/27 (6:45pm), Sat 1/28 (7:00pm)
+
 ### Mon 1/9 9:15pm
 * New movies: When You Finish Saving the World
 
