@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 1/10 8:46pm
+* New movies: Knock at the Cabin
+
+* New screenings: 
+    * [Knock At The Cabin](https://drafthouse.com/raleigh/show/knock-at-the-cabin): Thu 2/2 (5:00pm, 7:55pm), Fri 2/3 (6:00pm), Sat 2/4 (7:00pm), Sun 2/5 (7:00pm)
+
 ### Tue 1/10 5:21pm
 * New movies: When You Finish Saving the World
 
