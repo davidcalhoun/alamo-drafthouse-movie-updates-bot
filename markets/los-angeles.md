@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 1/11 4:34am
+* New movies: Infinity Pool
+
+* New screenings: 
+    * [Infinity Pool](https://drafthouse.com/los-angeles/show/infinity-pool): Thu 1/26 (7:00pm), Fri 1/27 (6:45pm), Sat 1/28 (7:00pm)
+
 ### Tue 1/10 5:26pm
 * New movies: Knock at the Cabin
 
