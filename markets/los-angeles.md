@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 1/11 2:17pm
+* New movies: Infinity Pool, Infinity Pool
+
+* New screenings: 
+    * [Live Q A Infinity Pool](https://drafthouse.com/los-angeles/show/live-q-a-infinity-pool): Sun 1/29 (12:00pm)
+
+    * [Special Event Infinity Pool W Live Intro](https://drafthouse.com/los-angeles/show/special-event-infinity-pool-w-live-intro): Sun 1/29 (3:30pm)
+
 ### Wed 1/11 4:34am
 * New movies: Infinity Pool
 
