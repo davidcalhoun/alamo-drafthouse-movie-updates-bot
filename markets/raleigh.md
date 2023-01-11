@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 1/11 3:22pm
+* New movies: Billie Eilish: Live at the O2 Extended Cut
+
+* New screenings: 
+    * [Billie Eilish Live At The O2 Extended Cut](https://drafthouse.com/raleigh/show/billie-eilish-live-at-the-o2-extended-cut): Fri 1/27 (7:00pm)
+
 ### Wed 1/11 7:40am
 * New movies: Infinity Pool
 
