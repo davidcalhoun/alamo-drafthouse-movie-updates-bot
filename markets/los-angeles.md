@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 1/10 5:26pm
+* New movies: Knock at the Cabin
+
+* New screenings: 
+    * [Knock At The Cabin](https://drafthouse.com/los-angeles/show/knock-at-the-cabin): Thu 2/2 (5:00pm, 8:00pm), Fri 2/3 (3:45pm, 7:00pm), Sat 2/4 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Sun 2/5 (12:30pm, 3:45pm, 7:00pm)
+
 ### Tue 1/10 7:25am
 * New movies: Infinity Pool
 
