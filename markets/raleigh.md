@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 1/11 7:40am
+* New movies: Infinity Pool
+
+* New screenings: 
+    * [Infinity Pool](https://drafthouse.com/raleigh/show/infinity-pool): Thu 1/26 (7:00pm), Fri 1/27 (6:30pm), Sat 1/28 (6:30pm), Sun 1/29 (6:30pm)
+
 ### Tue 1/10 8:46pm
 * New movies: Knock at the Cabin
 
