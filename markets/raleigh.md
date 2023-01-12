@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Thu 1/12 3:23pm
+* New movies: That Time I Got Reincarnated As a Slime The Movie: Scarlet Bond Subtitled, That Time I Got Reincarnated As a Slime The Movie: Scarlet Bond Dubbed
+
+* New screenings: 
+    * [Bts Yet To Come In Cinemas](https://drafthouse.com/raleigh/show/bts-yet-to-come-in-cinemas): Thu 2/2 (7:00pm)
+
+    * [That Time I Got Reincarnated As A Slime The Movie Scarlet Bond Dubbed](https://drafthouse.com/raleigh/show/that-time-i-got-reincarnated-as-a-slime-the-movie-scarlet-bond-dubbed): Sat 1/21 (4:15pm), Mon 1/23 (6:30pm), Wed 1/25 (6:30pm)
+
+    * [That Time I Got Reincarnated As A Slime The Movie Scarlet Bond Subtitled](https://drafthouse.com/raleigh/show/that-time-i-got-reincarnated-as-a-slime-the-movie-scarlet-bond-subtitled): Fri 1/20 (6:30pm), Sun 1/22 (2:00pm), Tue 1/24 (6:30pm), Thu 1/26 (6:30pm)
+
 ### Thu 1/12 2:18am
 
 * New screenings: 
