@@ -1,6 +1,33 @@
 # raleigh
 
 ## Movie updates
+### Thu 1/12 2:18am
+
+* New screenings: 
+    * [Avatar The Way Of Water](https://drafthouse.com/raleigh/show/avatar-the-way-of-water): Tue 1/17 (11:45am, 12:30pm, 3:45pm, 4:45pm, 8:00pm, 9:00pm, 9:40pm)
+
+    * [Babylon](https://drafthouse.com/raleigh/show/babylon): Tue 1/17 (1:15pm, 2:40pm, 6:00pm, 9:55pm)
+
+    * [Broker](https://drafthouse.com/raleigh/show/broker): Tue 1/17 (3:55pm, 6:30pm, 9:45pm)
+
+    * [House Party 2023](https://drafthouse.com/raleigh/show/house-party-2023): Tue 1/17 (1:00pm, 4:15pm, 6:45pm, 9:30pm)
+
+    * [La La Land](https://drafthouse.com/raleigh/show/la-la-land): Tue 1/17 (1:45pm)
+
+    * [M3gan](https://drafthouse.com/raleigh/show/m3gan): Tue 1/17 (1:30pm, 5:30pm, 8:15pm, 11:00pm)
+
+    * [Plane](https://drafthouse.com/raleigh/show/plane): Tue 1/17 (12:55pm, 4:55pm, 7:45pm, 10:35pm)
+
+    * [Puss In Boots The Last Wish](https://drafthouse.com/raleigh/show/puss-in-boots-the-last-wish): Tue 1/17 (12:45pm, 3:15pm, 6:55pm, 10:00pm)
+
+    * [Saint Omer](https://drafthouse.com/raleigh/show/saint-omer): Tue 1/17 (12:25pm)
+
+    * [The 22nd Annual Animation Show Of Shows](https://drafthouse.com/raleigh/show/the-22nd-annual-animation-show-of-shows): Tue 1/17 (4:00pm)
+
+    * [The Whale](https://drafthouse.com/raleigh/show/the-whale): Tue 1/17 (12:15pm, 3:30pm, 6:15pm, 9:15pm)
+
+    * [Women Talking](https://drafthouse.com/raleigh/show/women-talking): Tue 1/17 (11:55am, 3:30pm, 7:15pm, 10:15pm)
+
 ### Wed 1/11 3:22pm
 * New movies: Billie Eilish: Live at the O2 Extended Cut
 
