@@ -1,6 +1,40 @@
 # los-angeles
 
 ## Movie updates
+### Wed 1/11 10:22pm
+* New movies: Billie Eilish: Live at the O2 Extended Cut
+
+* New screenings: 
+    * [A Man Called Otto](https://drafthouse.com/los-angeles/show/a-man-called-otto): Tue 1/17 (11:15am, 3:15pm, 7:00pm)
+
+    * [Avatar The Way Of Water](https://drafthouse.com/los-angeles/show/avatar-the-way-of-water): Tue 1/17 (11:00am, 11:30am, 2:30pm, 6:30pm, 7:00pm)
+
+    * [Babylon](https://drafthouse.com/los-angeles/show/babylon): Tue 1/17 (12:15pm, 2:20pm, 6:10pm)
+
+    * [Billie Eilish Live At The O2 Extended Cut](https://drafthouse.com/los-angeles/show/billie-eilish-live-at-the-o2-extended-cut): Fri 1/27 (7:00pm)
+
+    * [Broker](https://drafthouse.com/los-angeles/show/broker): Tue 1/17 (3:30pm, 7:00pm)
+
+    * [M3gan](https://drafthouse.com/los-angeles/show/m3gan): Tue 1/17 (12:00pm, 3:00pm, 6:00pm)
+
+    * [Plane](https://drafthouse.com/los-angeles/show/plane): Tue 1/17 (12:45pm, 4:30pm, 7:30pm)
+
+    * [Puss In Boots The Last Wish](https://drafthouse.com/los-angeles/show/puss-in-boots-the-last-wish): Tue 1/17 (11:30am, 3:15pm, 6:45pm)
+
+    * [Saint Omer](https://drafthouse.com/los-angeles/show/saint-omer): Tue 1/17 (11:40am)
+
+    * [Skinamarink](https://drafthouse.com/los-angeles/show/skinamarink): Tue 1/17 (12:15pm, 3:45pm, 5:35pm)
+
+    * [The Lord Of The Rings The Two Towers Extended Edition 2](https://drafthouse.com/los-angeles/show/the-lord-of-the-rings-the-two-towers-extended-edition-2): Tue 1/17 (12:10pm)
+
+    * [The Offering](https://drafthouse.com/los-angeles/show/the-offering): Tue 1/17 (5:10pm)
+
+    * [The Whale](https://drafthouse.com/los-angeles/show/the-whale): Tue 1/17 (12:45pm, 4:00pm, 7:15pm)
+
+    * [Violent Streets](https://drafthouse.com/los-angeles/show/violent-streets): Tue 1/17 (2:45pm)
+
+    * [Women Talking](https://drafthouse.com/los-angeles/show/women-talking): Tue 1/17 (12:30pm, 4:00pm, 6:45pm)
+
 ### Wed 1/11 2:17pm
 * New movies: Infinity Pool, Infinity Pool
 
