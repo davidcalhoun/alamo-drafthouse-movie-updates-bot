@@ -1,6 +1,15 @@
 # los-angeles
 
 ## Movie updates
+### Thu 1/12 2:17pm
+
+* New screenings: 
+    * [That Time I Got Reincarnated As A Slime The Movie Scarlet Bond Dubbed](https://drafthouse.com/los-angeles/show/that-time-i-got-reincarnated-as-a-slime-the-movie-scarlet-bond-dubbed): Mon 1/23 (6:00pm), Wed 1/25 (6:30pm)
+
+    * [The Lord Of The Rings The Return Of The King Extended Edition](https://drafthouse.com/los-angeles/show/the-lord-of-the-rings-the-return-of-the-king-extended-edition): Mon 1/23 (2:40pm)
+
+    * [When You Finish Saving The World](https://drafthouse.com/los-angeles/show/when-you-finish-saving-the-world): Mon 1/23 (12:00pm), Tue 1/24 (5:20pm), Wed 1/25 (3:45pm)
+
 ### Wed 1/11 10:22pm
 * New movies: Billie Eilish: Live at the O2 Extended Cut
 
