@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 1/13 2:16pm
+
+* New screenings: 
+    * [Skinamarink](https://drafthouse.com/los-angeles/show/skinamarink): Sat 1/14 (10:30pm)
+
 ### Thu 1/12 2:17pm
 
 * New screenings: 
