@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Fri 1/13 9:21am
+* New movies: Sword Art Online the Movie -Progressive- Scherzo of Deep Night Subtitled, Sword Art Online the Movie -Progressive- Scherzo of Deep Night Dubbed
+
+* New screenings: 
+    * [Sword Art Online The Movie Progressive Scherzo Of Deep Night Dubbed](https://drafthouse.com/raleigh/show/sword-art-online-the-movie-progressive-scherzo-of-deep-night-dubbed): Tue 2/7 (6:30pm), Wed 2/8 (6:30pm)
+
+    * [Sword Art Online The Movie Progressive Scherzo Of Deep Night Subtitled](https://drafthouse.com/raleigh/show/sword-art-online-the-movie-progressive-scherzo-of-deep-night-subtitled): Sat 2/4 (12:30pm), Sun 2/5 (3:15pm), Thu 2/9 (6:30pm)
+
 ### Thu 1/12 3:23pm
 * New movies: That Time I Got Reincarnated As a Slime The Movie: Scarlet Bond Subtitled, That Time I Got Reincarnated As a Slime The Movie: Scarlet Bond Dubbed
 
