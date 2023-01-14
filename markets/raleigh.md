@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Sat 1/14 9:17am
+
+* New screenings: 
+    * [Avatar The Way Of Water](https://drafthouse.com/raleigh/show/avatar-the-way-of-water): Thu 1/19 (12:30pm, 4:45pm, 9:00pm)
+
 ### Fri 1/13 9:21am
 * New movies: Sword Art Online the Movie -Progressive- Scherzo of Deep Night Subtitled, Sword Art Online the Movie -Progressive- Scherzo of Deep Night Dubbed
 
