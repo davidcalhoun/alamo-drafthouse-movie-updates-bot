@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Sat 1/14 6:20pm
+* New movies: Kids vs Aliens
+
+* New screenings: 
+    * [Advance Screening Kids Vs Aliens](https://drafthouse.com/raleigh/show/advance-screening-kids-vs-aliens): Tue 1/17 (9:40pm)
+
 ### Sat 1/14 9:17am
 
 * New screenings: 
