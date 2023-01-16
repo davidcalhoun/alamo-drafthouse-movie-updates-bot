@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 1/16 11:13am
+
+* New screenings: 
+    * [Advance Screening Kids Vs Aliens](https://drafthouse.com/los-angeles/show/advance-screening-kids-vs-aliens): Wed 1/18 (8:00pm)
+
 ### Sat 1/14 2:15pm
 * New movies: Kids vs Aliens
 
