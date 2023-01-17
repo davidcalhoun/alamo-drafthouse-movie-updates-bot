@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 1/16 7:18pm
+
+* New screenings: 
+    * [Infinity Pool](https://drafthouse.com/los-angeles/show/infinity-pool): Sat 1/28 (12:30pm, 3:45pm, 10:15pm)
+
 ### Mon 1/16 5:24pm
 * New movies: Ant-Man and The Wasp: Quantumania, Ant-Man and The Wasp: Quantumania
 
