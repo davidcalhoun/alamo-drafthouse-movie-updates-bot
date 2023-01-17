@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Tue 1/17 11:29am
+
+* New screenings: 
+    * [Infinity Pool](https://drafthouse.com/raleigh/show/infinity-pool): Thu 1/26 (10:00pm)
+
+    * [Knock At The Cabin](https://drafthouse.com/raleigh/show/knock-at-the-cabin): Fri 2/3 (12:30pm, 3:15pm)
+
 ### Mon 1/16 8:44pm
 * New movies: Ant-Man and The Wasp: Quantumania, Ant-Man and The Wasp: Quantumania
 
