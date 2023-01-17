@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Mon 1/16 5:24pm
+* New movies: Ant-Man and The Wasp: Quantumania, Ant-Man and The Wasp: Quantumania
+
+* New screenings: 
+    * [Ant Man And The Wasp Quantumania](https://drafthouse.com/los-angeles/show/ant-man-and-the-wasp-quantumania): Thu 2/16 (3:00pm, 3:40pm, 4:20pm, 6:20pm, 7:00pm, 7:40pm, 9:40pm, 10:20pm, 11:00pm), Fri 2/17 (11:00am, 11:45am, 12:15pm, 2:20pm, 3:10pm, 3:35pm, 5:40pm, 6:30pm, 7:00pm, 9:00pm, 9:50pm, 10:20pm), Sat 2/18 (12:15pm, 2:20pm, 3:10pm, 3:35pm, 5:40pm, 6:30pm, 7:00pm, 9:00pm, 9:50pm, 10:20pm), Sun 2/19 (12:15pm, 2:20pm, 3:10pm, 3:35pm, 5:40pm, 6:30pm, 7:00pm), Mon 2/20 (11:00am, 11:45am, 12:15pm, 2:20pm, 3:10pm, 3:35pm, 5:40pm, 6:30pm, 7:00pm), Tue 2/21 (11:00am, 11:45am, 12:15pm, 2:20pm, 3:10pm, 3:35pm, 5:40pm, 6:30pm, 7:00pm, 9:00pm, 9:50pm, 10:20pm), Wed 2/22 (11:00am, 11:45am, 12:15pm, 2:20pm, 3:10pm, 3:35pm, 5:40pm, 6:30pm, 7:00pm, 9:00pm, 9:50pm, 10:20pm), Thu 2/23 (3:10pm, 3:40pm, 6:30pm, 7:00pm, 9:50pm, 10:20pm), Fri 2/24 (11:15am, 12:15pm, 2:40pm, 3:35pm, 6:00pm, 7:00pm, 9:20pm, 10:20pm), Sat 2/25 (12:15pm, 2:40pm, 3:35pm, 6:00pm, 7:00pm, 9:20pm, 10:20pm), Sun 2/26 (12:15pm, 2:40pm, 3:35pm, 6:00pm, 7:00pm), Mon 2/27 (11:15am, 12:15pm, 2:40pm, 3:35pm, 6:00pm, 7:00pm), Tue 2/28 (11:15am, 12:15pm, 2:40pm, 3:35pm, 6:00pm, 7:00pm), Wed 3/1 (11:15am, 12:15pm, 2:40pm, 3:35pm, 6:00pm, 7:00pm)
+
+    * [Ant Man And The Wasp Quantumania Brunch](https://drafthouse.com/los-angeles/show/ant-man-and-the-wasp-quantumania-brunch): Sat 2/18 (11:00am, 11:45am), Sun 2/19 (11:00am, 11:45am), Sat 2/25 (11:15am), Sun 2/26 (11:15am)
+
 ### Mon 1/16 11:13am
 
 * New screenings: 
