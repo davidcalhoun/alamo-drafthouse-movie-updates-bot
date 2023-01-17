@@ -1,6 +1,40 @@
 # raleigh
 
 ## Movie updates
+### Tue 1/17 4:19pm
+* New movies: Kids vs Aliens
+
+* New screenings: 
+    * [Avatar The Way Of Water](https://drafthouse.com/raleigh/show/avatar-the-way-of-water): Fri 1/20 (12:30pm, 1:45pm, 4:45pm, 6:00pm, 9:00pm), Sat 1/21 (12:30pm, 4:45pm, 6:00pm, 9:00pm), Sun 1/22 (10:55am, 12:00pm, 3:15pm, 4:15pm, 7:30pm), Mon 1/23 (12:30pm, 1:45pm, 4:45pm, 6:00pm, 9:00pm), Tue 1/24 (12:30pm, 1:40pm, 4:45pm, 6:00pm, 9:00pm, 9:30pm), Wed 1/25 (12:30pm, 1:45pm, 4:45pm, 6:00pm, 9:00pm)
+
+    * [Babylon](https://drafthouse.com/raleigh/show/babylon): Fri 1/20 (3:15pm), Sat 1/21 (2:40pm), Sun 1/22 (2:55pm), Mon 1/23 (12:10pm), Tue 1/24 (11:15am), Wed 1/25 (2:15pm)
+
+    * [Broker](https://drafthouse.com/raleigh/show/broker): Fri 1/20 (11:45am, 12:45pm, 3:00pm, 7:15pm, 10:30pm), Sat 1/21 (11:25am, 3:00pm, 6:15pm, 10:05pm, 10:30pm), Sun 1/22 (1:10pm, 4:30pm, 6:15pm), Mon 1/23 (12:00pm, 3:15pm, 3:45pm, 7:00pm, 10:15pm), Tue 1/24 (11:00am, 3:00pm, 3:30pm, 6:45pm, 10:30pm), Wed 1/25 (11:15am, 11:45am, 3:00pm, 7:15pm, 10:30pm)
+
+    * [Brotherhood Of The Wolf](https://drafthouse.com/raleigh/show/brotherhood-of-the-wolf): Sat 1/21 (11:45am), Sun 1/22 (12:30pm), Mon 1/23 (10:15pm), Tue 1/24 (10:15pm), Wed 1/25 (3:15pm)
+
+    * [Deliverance](https://drafthouse.com/raleigh/show/deliverance): Thu 1/19 (10:30pm)
+
+    * [House Party 2023](https://drafthouse.com/raleigh/show/house-party-2023): Fri 1/20 (11:45am, 2:30pm, 5:15pm, 7:30pm, 10:15pm), Sat 1/21 (12:55pm, 3:15pm, 5:15pm, 7:45pm, 10:15pm), Sun 1/22 (1:15pm, 4:00pm, 7:40pm), Mon 1/23 (11:45am, 2:30pm, 5:15pm, 7:15pm, 10:40pm), Tue 1/24 (11:45am, 2:30pm, 5:15pm, 7:45pm, 10:40pm), Wed 1/25 (11:00am, 2:30pm, 5:15pm, 8:00pm, 10:15pm)
+
+    * [Kids Vs Aliens](https://drafthouse.com/raleigh/show/kids-vs-aliens): Fri 1/20 (10:20pm), Sat 1/21 (10:40pm), Sun 1/22 (8:15pm), Mon 1/23 (9:05pm), Tue 1/24 (9:05pm), Wed 1/25 (11:00pm)
+
+    * [M3gan](https://drafthouse.com/raleigh/show/m3gan): Fri 1/20 (12:00pm, 2:45pm, 5:30pm, 8:15pm, 11:00pm), Sat 1/21 (12:00pm, 2:45pm, 5:30pm, 8:15pm, 11:00pm), Sun 1/22 (12:15pm, 3:00pm), Mon 1/23 (11:55am, 2:45pm, 5:30pm, 8:15pm, 11:00pm), Tue 1/24 (12:15pm, 2:45pm, 5:30pm, 8:15pm, 11:00pm), Wed 1/25 (12:00pm, 2:45pm, 5:30pm, 8:15pm, 10:45pm)
+
+    * [Missing 2023](https://drafthouse.com/raleigh/show/missing-2023): Fri 1/20 (10:45am, 1:10pm, 4:05pm, 7:00pm, 9:55pm), Sat 1/21 (11:55am, 1:55pm, 4:50pm, 7:00pm, 9:55pm), Sun 1/22 (11:55am, 3:30pm, 7:15pm), Mon 1/23 (11:15am, 1:30pm, 4:30pm, 7:30pm, 10:25pm), Tue 1/24 (10:50am, 1:15pm, 4:30pm, 7:30pm, 10:25pm), Wed 1/25 (10:55am, 1:55pm, 4:50pm, 7:45pm, 10:40pm)
+
+    * [Plane](https://drafthouse.com/raleigh/show/plane): Fri 1/20 (12:50pm, 3:40pm, 4:25pm, 6:45pm, 9:40pm), Sat 1/21 (10:50am, 1:00pm, 3:55pm, 6:45pm, 9:40pm), Sun 1/22 (11:40am, 3:55pm, 7:45pm), Mon 1/23 (1:10pm, 3:25pm, 4:25pm, 6:45pm, 10:00pm), Tue 1/24 (11:55am, 1:35pm, 4:25pm, 7:15pm, 10:10pm), Wed 1/25 (10:50am, 1:50pm, 4:40pm, 7:30pm, 10:20pm)
+
+    * [Puss In Boots The Last Wish](https://drafthouse.com/raleigh/show/puss-in-boots-the-last-wish): Fri 1/20 (11:00am, 1:40pm, 4:00pm, 6:15pm, 9:05pm), Sat 1/21 (11:45am, 2:30pm, 3:45pm, 6:30pm, 9:15pm), Sun 1/22 (12:45pm, 2:30pm, 6:30pm), Mon 1/23 (11:00am, 2:15pm, 5:00pm, 6:15pm, 9:35pm), Tue 1/24 (10:55am, 2:15pm, 5:00pm, 6:15pm, 10:00pm), Wed 1/25 (10:40am, 1:30pm, 4:15pm, 6:15pm, 9:05pm)
+
+    * [Skinamarink](https://drafthouse.com/raleigh/show/skinamarink): Fri 1/20 (8:00pm, 10:45pm), Sat 1/21 (8:00pm), Sun 1/22 (8:30pm), Mon 1/23 (8:00pm), Tue 1/24 (8:00pm), Wed 1/25 (9:45pm)
+
+    * [The Whale](https://drafthouse.com/raleigh/show/the-whale): Fri 1/20 (12:15pm), Sat 1/21 (9:30pm), Sun 1/22 (5:15pm), Mon 1/23 (9:25pm), Tue 1/24 (12:45pm), Wed 1/25 (12:15pm)
+
+    * [When You Finish Saving The World](https://drafthouse.com/raleigh/show/when-you-finish-saving-the-world): Sun 1/22 (4:55pm), Mon 1/23 (10:55am), Wed 1/25 (11:20am)
+
+    * [Women Talking](https://drafthouse.com/raleigh/show/women-talking): Fri 1/20 (11:25am, 2:10pm, 4:55pm, 7:45pm, 10:40pm), Sat 1/21 (11:10am, 1:40pm, 4:30pm, 7:15pm, 10:00pm), Sun 1/22 (12:40pm, 3:25pm, 6:45pm), Mon 1/23 (12:40pm, 1:00pm, 4:00pm, 7:45pm, 10:30pm), Tue 1/24 (10:45am, 1:45pm, 4:10pm, 7:00pm, 9:50pm), Wed 1/25 (11:30am, 1:40pm, 4:30pm, 6:45pm, 9:40pm)
+
 ### Tue 1/17 3:20pm
 * New movies: Skinamarink, Missing 2023
 
