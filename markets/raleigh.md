@@ -1,6 +1,36 @@
 # raleigh
 
 ## Movie updates
+### Tue 1/17 3:20pm
+* New movies: Skinamarink, Missing 2023
+
+* New screenings: 
+    * [Avatar The Way Of Water](https://drafthouse.com/raleigh/show/avatar-the-way-of-water): Thu 1/19 (11:30am, 1:45pm, 6:00pm, 9:30pm)
+
+    * [Babylon](https://drafthouse.com/raleigh/show/babylon): Thu 1/19 (11:55am)
+
+    * [Broker](https://drafthouse.com/raleigh/show/broker): Thu 1/19 (12:15pm, 3:30pm, 4:15pm, 6:45pm, 10:00pm)
+
+    * [House Party 2023](https://drafthouse.com/raleigh/show/house-party-2023): Thu 1/19 (11:45am, 2:30pm, 5:15pm, 7:45pm, 10:15pm)
+
+    * [M3gan](https://drafthouse.com/raleigh/show/m3gan): Thu 1/19 (12:00pm, 2:45pm, 5:30pm, 8:15pm, 11:00pm)
+
+    * [Missing 2023](https://drafthouse.com/raleigh/show/missing-2023): Thu 1/19 (4:00pm, 7:00pm, 9:55pm)
+
+    * [Plane](https://drafthouse.com/raleigh/show/plane): Thu 1/19 (10:55am, 1:50pm, 4:25pm, 7:15pm, 10:10pm)
+
+    * [Puss In Boots The Last Wish](https://drafthouse.com/raleigh/show/puss-in-boots-the-last-wish): Thu 1/19 (11:00am, 1:15pm, 3:45pm, 6:30pm, 9:15pm)
+
+    * [Saint Omer](https://drafthouse.com/raleigh/show/saint-omer): Thu 1/19 (10:30pm)
+
+    * [Skinamarink](https://drafthouse.com/raleigh/show/skinamarink): Thu 1/19 (8:00pm, 10:45pm)
+
+    * [The Lord Of The Rings The Two Towers Extended Edition 2](https://drafthouse.com/raleigh/show/the-lord-of-the-rings-the-two-towers-extended-edition-2): Thu 1/19 (4:40pm)
+
+    * [The Whale](https://drafthouse.com/raleigh/show/the-whale): Thu 1/19 (1:25pm)
+
+    * [Women Talking](https://drafthouse.com/raleigh/show/women-talking): Thu 1/19 (11:25am, 2:15pm, 5:00pm, 7:30pm, 10:20pm)
+
 ### Tue 1/17 11:29am
 
 * New screenings: 
