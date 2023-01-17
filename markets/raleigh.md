@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Mon 1/16 8:44pm
+* New movies: Ant-Man and The Wasp: Quantumania, Ant-Man and The Wasp: Quantumania
+
+* New screenings: 
+    * [Ant Man And The Wasp Quantumania](https://drafthouse.com/raleigh/show/ant-man-and-the-wasp-quantumania): Thu 2/16 (3:00pm, 4:00pm, 6:15pm, 7:15pm, 9:30pm, 10:40pm), Fri 2/17 (12:00am, 10:00am, 11:00am, 1:20pm, 2:30pm, 4:40pm, 6:00pm, 8:00pm, 9:30pm, 11:20pm), Sat 2/18 (9:40am, 1:00pm, 2:40pm, 4:20pm, 6:00pm, 7:40pm, 9:20pm, 11:00pm), Sun 2/19 (12:20pm, 2:40pm, 3:40pm, 6:00pm, 7:00pm, 9:20pm, 10:20pm), Mon 2/20 (11:20am, 12:20pm, 2:40pm, 3:40pm, 6:00pm, 7:00pm, 9:20pm, 10:20pm), Tue 2/21 (11:20am, 12:20pm, 2:40pm, 3:40pm, 6:00pm, 7:00pm, 9:20pm, 10:20pm), Wed 2/22 (11:20am, 12:20pm, 2:40pm, 3:40pm, 6:00pm, 7:00pm, 9:20pm, 10:20pm), Thu 2/23 (11:20am, 12:20pm, 2:40pm, 3:40pm, 6:00pm, 7:00pm, 9:20pm, 10:20pm), Fri 2/24 (9:40am, 11:20am, 1:00pm, 2:40pm, 4:20pm, 6:00pm, 7:40pm, 9:20pm, 11:00pm), Sat 2/25 (9:40am, 1:00pm, 2:40pm, 4:20pm, 6:00pm, 7:40pm, 9:20pm, 11:00pm), Sun 2/26 (12:20pm, 2:40pm, 3:40pm, 6:00pm, 7:00pm, 9:20pm, 10:20pm), Mon 2/27 (11:20am, 12:20pm, 2:40pm, 3:40pm, 6:00pm, 7:00pm, 9:20pm, 10:20pm), Tue 2/28 (11:20am, 12:20pm, 2:40pm, 3:40pm, 6:00pm, 7:00pm, 9:20pm, 10:20pm), Wed 3/1 (11:20am, 12:20pm, 2:40pm, 3:40pm, 6:00pm, 7:00pm, 9:20pm, 10:20pm)
+
+    * [Ant Man And The Wasp Quantumania Brunch](https://drafthouse.com/raleigh/show/ant-man-and-the-wasp-quantumania-brunch): Sat 2/18 (11:20am), Sun 2/19 (11:20am), Sat 2/25 (11:20am), Sun 2/26 (11:20am)
+
 ### Sat 1/14 6:20pm
 * New movies: Kids vs Aliens
 
