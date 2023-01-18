@@ -1,6 +1,50 @@
 # los-angeles
 
 ## Movie updates
+### Tue 1/17 5:27pm
+* New movies: Kids vs. Aliens, Kids vs. Aliens
+
+* New screenings: 
+    * [A Man Called Otto](https://drafthouse.com/los-angeles/show/a-man-called-otto): Thu 1/19 (2:45pm, 6:45pm, 10:20pm), Fri 1/20 (2:45pm, 6:45pm, 10:30pm), Sat 1/21 (11:15am, 3:20pm, 7:00pm, 11:00pm), Sun 1/22 (11:30am, 3:35pm, 7:15pm), Mon 1/23 (3:15pm, 7:15pm), Tue 1/24 (3:15pm, 7:15pm), Wed 1/25 (3:15pm, 7:25pm)
+
+    * [Avatar The Way Of Water](https://drafthouse.com/los-angeles/show/avatar-the-way-of-water): Thu 1/19 (2:15pm, 6:00pm, 9:20pm, 10:00pm), Fri 1/20 (2:20pm, 4:55pm, 6:00pm, 9:40pm, 10:00pm), Sat 1/21 (11:00am, 11:45am, 2:30pm, 6:35pm, 9:00pm, 10:15pm), Sun 1/22 (11:10am, 11:45am, 2:45pm, 6:45pm), Mon 1/23 (2:45pm, 3:45pm, 6:30pm), Tue 1/24 (2:45pm, 3:45pm, 6:30pm), Wed 1/25 (2:45pm, 3:25pm, 6:30pm)
+
+    * [Babylon](https://drafthouse.com/los-angeles/show/babylon): Thu 1/19 (3:15pm, 6:10pm), Fri 1/20 (3:15pm, 6:10pm), Sat 1/21 (11:25am, 3:10pm, 6:15pm), Sun 1/22 (11:25am, 3:10pm, 6:15pm), Mon 1/23 (3:15pm, 6:15pm), Tue 1/24 (3:15pm, 6:15pm), Wed 1/25 (3:20pm, 6:00pm)
+
+    * [Broker](https://drafthouse.com/los-angeles/show/broker): Thu 1/19 (3:30pm, 7:00pm, 10:25pm), Fri 1/20 (3:45pm, 6:35pm, 10:00pm), Sat 1/21 (11:35am, 3:00pm, 6:15pm, 9:45pm), Sun 1/22 (12:00pm, 3:00pm, 6:30pm), Mon 1/23 (3:00pm, 6:30pm), Tue 1/24 (3:00pm, 6:30pm), Wed 1/25 (3:00pm, 6:30pm)
+
+    * [Brotherhood Of The Wolf](https://drafthouse.com/los-angeles/show/brotherhood-of-the-wolf): Sat 1/21 (2:15pm), Sun 1/22 (2:30pm), Mon 1/23 (2:15pm), Tue 1/24 (2:25pm), Wed 1/25 (2:00pm)
+
+    * [Brunch Screenings Cabaret Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-cabaret-brunch): Sun 1/22 (11:20am)
+
+    * [Fantastic Fest Presents Kids Vs Aliens](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-kids-vs-aliens): Fri 1/20 (7:30pm, 10:20pm)
+
+    * [Kids Vs Aliens](https://drafthouse.com/los-angeles/show/kids-vs-aliens): Sat 1/21 (9:40pm), Sun 1/22 (6:20pm), Mon 1/23 (8:15pm), Tue 1/24 (5:30pm), Wed 1/25 (5:35pm)
+
+    * [M3gan](https://drafthouse.com/los-angeles/show/m3gan): Thu 1/19 (4:00pm, 7:00pm, 10:00pm), Fri 1/20 (4:00pm, 6:30pm, 10:15pm), Sat 1/21 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sun 1/22 (12:00pm, 4:00pm, 7:45pm), Mon 1/23 (4:00pm, 7:00pm), Tue 1/24 (4:00pm, 7:00pm), Wed 1/25 (4:15pm, 7:10pm)
+
+    * [Millennium Actress Subtitled](https://drafthouse.com/los-angeles/show/millennium-actress-subtitled): Tue 1/24 (2:15pm), Wed 1/25 (2:15pm)
+
+    * [Plane](https://drafthouse.com/los-angeles/show/plane): Thu 1/19 (4:30pm, 7:30pm, 10:35pm), Fri 1/20 (3:15pm, 7:15pm, 10:10pm), Sat 1/21 (11:20am, 3:15pm, 7:15pm, 10:20pm), Sun 1/22 (1:00pm, 4:30pm, 7:30pm), Mon 1/23 (4:50pm, 7:45pm), Tue 1/24 (4:45pm, 7:45pm), Wed 1/25 (4:00pm, 7:45pm)
+
+    * [Puss In Boots The Last Wish](https://drafthouse.com/los-angeles/show/puss-in-boots-the-last-wish): Thu 1/19 (3:15pm, 6:45pm, 10:30pm), Fri 1/20 (3:15pm, 6:45pm, 10:30pm), Sat 1/21 (12:30pm, 3:20pm, 6:45pm, 10:35pm), Sun 1/22 (12:30pm, 3:25pm, 6:45pm), Mon 1/23 (3:25pm, 6:45pm), Tue 1/24 (3:25pm, 6:45pm), Wed 1/25 (3:10pm, 6:45pm)
+
+    * [Skinamarink](https://drafthouse.com/los-angeles/show/skinamarink): Thu 1/19 (6:25pm, 9:35pm, 10:40pm), Fri 1/20 (2:10pm, 10:40pm), Sat 1/21 (6:00pm, 10:40pm), Sun 1/22 (6:00pm), Mon 1/23 (2:00pm), Tue 1/24 (2:35pm, 8:15pm), Wed 1/25 (4:45pm)
+
+    * [That Time I Got Reincarnated As A Slime The Movie Scarlet Bond Subtitled](https://drafthouse.com/los-angeles/show/that-time-i-got-reincarnated-as-a-slime-the-movie-scarlet-bond-subtitled): Tue 1/24 (6:00pm)
+
+    * [The Lord Of The Rings The Return Of The King Extended Edition](https://drafthouse.com/los-angeles/show/the-lord-of-the-rings-the-return-of-the-king-extended-edition): Fri 1/20 (2:10pm), Sat 1/21 (1:50pm)
+
+    * [The Offering](https://drafthouse.com/los-angeles/show/the-offering): Thu 1/19 (3:40pm)
+
+    * [The Whale](https://drafthouse.com/los-angeles/show/the-whale): Thu 1/19 (4:15pm, 7:30pm), Fri 1/20 (4:15pm, 7:30pm), Sat 1/21 (12:10pm, 4:10pm, 7:30pm), Sun 1/22 (1:15pm, 4:15pm, 7:25pm), Mon 1/23 (4:50pm, 8:00pm), Tue 1/24 (4:50pm, 8:00pm), Wed 1/25 (4:50pm, 8:00pm)
+
+    * [Violent Streets](https://drafthouse.com/los-angeles/show/violent-streets): Thu 1/19 (4:10pm)
+
+    * [When You Finish Saving The World](https://drafthouse.com/los-angeles/show/when-you-finish-saving-the-world): Thu 1/19 (9:40pm), Mon 1/23 (2:15pm), Tue 1/24 (2:15pm), Wed 1/25 (2:15pm)
+
+    * [Women Talking](https://drafthouse.com/los-angeles/show/women-talking): Thu 1/19 (3:45pm, 7:45pm, 10:45pm), Fri 1/20 (3:45pm, 7:45pm, 10:50pm), Sat 1/21 (12:00pm, 3:45pm, 7:45pm, 10:45pm), Sun 1/22 (12:00pm, 3:45pm, 7:40pm), Mon 1/23 (3:45pm, 7:45pm), Tue 1/24 (3:45pm, 7:45pm), Wed 1/25 (3:45pm, 7:45pm)
+
 ### Mon 1/16 7:18pm
 
 * New screenings: 
