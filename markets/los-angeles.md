@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 1/18 12:18pm
+* New movies: Knock at the Cabin
+
+* New screenings: 
+    * [Free Victory Screening Knock At The Cabin Advance Screening](https://drafthouse.com/los-angeles/show/free-victory-screening-knock-at-the-cabin-advance-screening): Wed 1/25 (7:00pm)
+
 ### Tue 1/17 5:27pm
 * New movies: Kids vs. Aliens, Kids vs. Aliens
 
