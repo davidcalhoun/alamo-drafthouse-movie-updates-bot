@@ -1,6 +1,18 @@
 # raleigh
 
 ## Movie updates
+### Fri 1/20 3:22pm
+* New movies: Bridesmaids, Emma Mae, Eternal Sunshine of the Spotless Mind, Wild at Heart
+
+* New screenings: 
+    * [Emma Mae](https://drafthouse.com/raleigh/show/emma-mae): Wed 2/15 (10:00pm)
+
+    * [Eternal Sunshine Of The Spotless Mind](https://drafthouse.com/raleigh/show/eternal-sunshine-of-the-spotless-mind): Wed 2/15 (7:00pm)
+
+    * [Wild At Heart](https://drafthouse.com/raleigh/show/wild-at-heart): Tue 2/14 (10:00pm)
+
+    * [Xoxo Alamo Bridesmaids](https://drafthouse.com/raleigh/show/xoxo-alamo-bridesmaids): Sun 2/12 (11:00am), Mon 2/13 (7:00pm)
+
 ### Fri 1/20 2:16pm
 * New movies: Assault on Precinct 13, Boyz N the Hood, Chungking Express, Corpse Bride, Funeral Parade of Roses, You've Got Mail
 
