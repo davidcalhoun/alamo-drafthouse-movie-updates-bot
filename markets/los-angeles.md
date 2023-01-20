@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Fri 1/20 1:17am
+* New movies: Space Jam, Amigo, DEEMO Memorial Keys Subtitled, NEAR DARK
+
+* New screenings: 
+    * [Amigo](https://drafthouse.com/los-angeles/show/amigo): Sun 3/5 (12:30pm)
+
+    * [Deemo Memorial Keys Subtitled](https://drafthouse.com/los-angeles/show/deemo-memorial-keys-subtitled): Thu 2/9 (7:00pm)
+
+    * [Near Dark](https://drafthouse.com/los-angeles/show/near-dark): Tue 2/28 (8:00pm), Wed 3/1 (8:00pm)
+
+    * [Signature Programming Space Jam](https://drafthouse.com/los-angeles/show/signature-programming-space-jam): Sun 2/26 (7:30pm)
+
 ### Thu 1/19 6:47pm
 * New movies: Huesera: The Bone Woman, Audition, Give Me Pity!, The Phantom of the Opera 2004, Bridesmaids, Before Sunrise / Before Sunset Double Feature, Boyz N the Hood, Chungking Express, Corpse Bride, Eternal Sunshine of the Spotless Mind, Huesera: The Bone Woman, Possession 1981, Love & Basketball, Moonstruck, The Souvenir / The Souvenir Part II Double Feature, Wild at Heart, You've Got Mail, Bring It On, Harold and Maude, Coffy, Reds, Training Day, Twin Peaks: Fire Walk with Me, Written on the Wind, When You Get to the Forest
 
