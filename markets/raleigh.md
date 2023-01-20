@@ -1,6 +1,22 @@
 # raleigh
 
 ## Movie updates
+### Fri 1/20 2:16pm
+* New movies: Assault on Precinct 13, Boyz N the Hood, Chungking Express, Corpse Bride, Funeral Parade of Roses, You've Got Mail
+
+* New screenings: 
+    * [Assault On Precinct 13](https://drafthouse.com/raleigh/show/assault-on-precinct-13): Fri 2/3 (9:30pm)
+
+    * [Boyz N The Hood](https://drafthouse.com/raleigh/show/boyz-n-the-hood): Tue 2/7 (9:30pm)
+
+    * [Chungking Express](https://drafthouse.com/raleigh/show/chungking-express): Sun 2/5 (11:00am)
+
+    * [Corpse Bride](https://drafthouse.com/raleigh/show/corpse-bride): Mon 2/6 (9:30pm)
+
+    * [Funeral Parade Of Roses](https://drafthouse.com/raleigh/show/funeral-parade-of-roses): Wed 2/8 (9:00pm)
+
+    * [Youve Got Mail Brunch](https://drafthouse.com/raleigh/show/youve-got-mail-brunch): Sat 2/11 (11:00am)
+
 ### Wed 1/18 4:18pm
 * New movies: Knock at the Cabin
 
