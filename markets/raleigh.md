@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 1/20 4:18pm
+
+* New screenings: 
+    * [Avatar The Way Of Water](https://drafthouse.com/raleigh/show/avatar-the-way-of-water): Thu 1/26 (12:30pm, 4:45pm, 9:00pm)
+
 ### Fri 1/20 3:22pm
 * New movies: Bridesmaids, Emma Mae, Eternal Sunshine of the Spotless Mind, Wild at Heart
 
