@@ -1,6 +1,64 @@
 # los-angeles
 
 ## Movie updates
+### Thu 1/19 6:47pm
+* New movies: Huesera: The Bone Woman, Audition, Give Me Pity!, The Phantom of the Opera 2004, Bridesmaids, Before Sunrise / Before Sunset Double Feature, Boyz N the Hood, Chungking Express, Corpse Bride, Eternal Sunshine of the Spotless Mind, Huesera: The Bone Woman, Possession 1981, Love & Basketball, Moonstruck, The Souvenir / The Souvenir Part II Double Feature, Wild at Heart, You've Got Mail, Bring It On, Harold and Maude, Coffy, Reds, Training Day, Twin Peaks: Fire Walk with Me, Written on the Wind, When You Get to the Forest
+
+* New screenings: 
+    * [Assault On Precinct 13](https://drafthouse.com/los-angeles/show/assault-on-precinct-13): Fri 1/27 (4:15pm)
+
+    * [Audition](https://drafthouse.com/los-angeles/show/audition): Tue 2/14 (8:00pm), Wed 2/15 (8:00pm)
+
+    * [Before Sunrise Before Sunset Double Feature](https://drafthouse.com/los-angeles/show/before-sunrise-before-sunset-double-feature): Sat 2/11 (2:15pm)
+
+    * [Boyz N The Hood](https://drafthouse.com/los-angeles/show/boyz-n-the-hood): Sun 2/5 (2:00pm)
+
+    * [Brunch Screenings Bring It On Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-bring-it-on-brunch): Sat 2/25 (11:00am)
+
+    * [Brunch Screenings Harold And Maude Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-harold-and-maude-brunch): Sat 2/18 (12:00pm)
+
+    * [Chungking Express](https://drafthouse.com/los-angeles/show/chungking-express): Sun 2/5 (11:00am)
+
+    * [Coffy](https://drafthouse.com/los-angeles/show/coffy): Sun 2/19 (8:00pm)
+
+    * [Corpse Bride](https://drafthouse.com/los-angeles/show/corpse-bride): Sat 2/4 (2:00pm)
+
+    * [Eternal Sunshine Of The Spotless Mind](https://drafthouse.com/los-angeles/show/eternal-sunshine-of-the-spotless-mind): Tue 2/14 (7:05pm)
+
+    * [Fantastic Fest Presents Give Me Pity Advance Screening W Live Q A](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-give-me-pity-advance-screening-w-live-q-a): Tue 2/28 (7:30pm)
+
+    * [Fantastic Fest Presents Huesera The Bone Woman W Live Q A](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-huesera-the-bone-woman-w-live-q-a): Sun 2/12 (7:30pm)
+
+    * [Graveyard Shift Possession 1981](https://drafthouse.com/los-angeles/show/graveyard-shift-possession-1981): Mon 2/27 (7:30pm)
+
+    * [Huesera](https://drafthouse.com/los-angeles/show/huesera): Fri 2/10 (9:30pm), Sat 2/11 (10:00pm), Mon 2/13 (4:30pm)
+
+    * [Live Q A The Civil Dead](https://drafthouse.com/los-angeles/show/live-q-a-the-civil-dead): Sun 2/12 (8:00pm), Mon 2/13 (8:00pm)
+
+    * [Love Basketball](https://drafthouse.com/los-angeles/show/love-basketball): Sat 2/11 (6:45pm)
+
+    * [Moonstruck Brunch](https://drafthouse.com/los-angeles/show/moonstruck-brunch): Sat 2/4 (11:00am)
+
+    * [Reds](https://drafthouse.com/los-angeles/show/reds): Sun 2/26 (3:00pm)
+
+    * [The Phantom Of The Opera 2004 Movie Party](https://drafthouse.com/los-angeles/show/the-phantom-of-the-opera-2004-movie-party): Mon 2/6 (7:00pm)
+
+    * [The Souvenir The Souvenir Part Ii Double Feature](https://drafthouse.com/los-angeles/show/the-souvenir-the-souvenir-part-ii-double-feature): Sun 2/12 (2:30pm)
+
+    * [Training Day](https://drafthouse.com/los-angeles/show/training-day): Sat 2/25 (1:45pm)
+
+    * [Twin Peaks Fire Walk With Me](https://drafthouse.com/los-angeles/show/twin-peaks-fire-walk-with-me): Fri 2/24 (10:00pm)
+
+    * [When You Get To The Forest](https://drafthouse.com/los-angeles/show/when-you-get-to-the-forest): Mon 2/20 (8:00pm)
+
+    * [Wild At Heart](https://drafthouse.com/los-angeles/show/wild-at-heart): Fri 2/10 (9:15pm)
+
+    * [Written On The Wind](https://drafthouse.com/los-angeles/show/written-on-the-wind): Sun 2/19 (5:00pm)
+
+    * [Xoxo Alamo Bridesmaids](https://drafthouse.com/los-angeles/show/xoxo-alamo-bridesmaids): Mon 2/13 (7:00pm)
+
+    * [Youve Got Mail Brunch](https://drafthouse.com/los-angeles/show/youve-got-mail-brunch): Sat 2/11 (11:00am)
+
 ### Wed 1/18 12:18pm
 * New movies: Knock at the Cabin
 
