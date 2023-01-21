@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 1/20 9:15pm
+* New movies: Southland Tales, SLEEPAWAY CAMP with Felissa Rose LIVE
+
+* New screenings: 
+    * [Sleepaway Camp With Felissa Rose Live](https://drafthouse.com/los-angeles/show/sleepaway-camp-with-felissa-rose-live): Fri 3/10 (7:00pm)
+
+    * [Southland Tales](https://drafthouse.com/los-angeles/show/southland-tales): Tue 2/21 (8:00pm), Wed 2/22 (8:00pm)
+
 ### Fri 1/20 1:17am
 * New movies: Space Jam, Amigo, DEEMO Memorial Keys Subtitled, NEAR DARK
 
