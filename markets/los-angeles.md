@@ -1,6 +1,50 @@
 # los-angeles
 
 ## Movie updates
+### Mon 1/23 2:16pm
+* New movies: Everything Everywhere All At Once, TAR, Avatar: The Way Of Water, Babylon, The Banshees of Inisherin, The Fabelmans
+
+* New screenings: 
+    * [A Man Called Otto](https://drafthouse.com/los-angeles/show/a-man-called-otto): Thu 1/26 (2:45pm)
+
+    * [Avatar The Way Of Water](https://drafthouse.com/los-angeles/show/avatar-the-way-of-water): Thu 1/26 (2:00pm, 3:00pm, 6:00pm, 9:30pm), Fri 1/27 (2:15pm, 6:00pm, 9:20pm), Sat 1/28 (2:15pm, 3:00pm, 6:00pm, 9:20pm), Sun 1/29 (11:25am, 2:00pm, 3:00pm, 7:00pm), Mon 1/30 (3:00pm, 6:30pm), Tue 1/31 (3:00pm, 6:30pm), Wed 2/1 (3:00pm, 6:30pm)
+
+    * [Babylon](https://drafthouse.com/los-angeles/show/babylon): Thu 1/26 (3:20pm, 6:00pm), Fri 1/27 (3:00pm, 6:00pm), Sat 1/28 (11:15am, 6:00pm), Sun 1/29 (6:00pm), Mon 1/30 (3:30pm, 6:30pm), Tue 1/31 (3:30pm, 6:30pm), Wed 2/1 (3:30pm, 6:30pm)
+
+    * [Broker](https://drafthouse.com/los-angeles/show/broker): Thu 1/26 (2:45pm, 6:15pm, 9:45pm), Fri 1/27 (3:00pm, 6:15pm, 9:40pm), Sat 1/28 (11:40am, 3:00pm, 6:15pm, 10:15pm), Sun 1/29 (11:40am, 3:00pm, 6:15pm), Mon 1/30 (3:30pm, 6:45pm), Tue 1/31 (3:30pm, 6:45pm), Wed 2/1 (3:30pm, 6:45pm)
+
+    * [Brotherhood Of The Wolf](https://drafthouse.com/los-angeles/show/brotherhood-of-the-wolf): Thu 1/26 (3:30pm, 10:35pm), Sat 1/28 (12:00pm), Sun 1/29 (11:10am)
+
+    * [Brunch Screenings Avatar The Way Of Water Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-avatar-the-way-of-water-brunch): Sat 1/28 (11:15am)
+
+    * [Brunch Screenings Babylon Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-babylon-brunch): Sun 1/29 (12:15pm)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/los-angeles/show/everything-everywhere-all-at-once): Fri 1/27 (9:50pm), Sat 1/28 (6:30pm), Sun 1/29 (7:45pm), Mon 1/30 (7:00pm), Tue 1/31 (6:05pm), Wed 2/1 (4:30pm)
+
+    * [Infinity Pool](https://drafthouse.com/los-angeles/show/infinity-pool): Thu 1/26 (7:20pm, 9:30pm, 10:15pm, 10:50pm), Fri 1/27 (3:30pm, 6:45pm, 9:25pm, 10:00pm, 10:25pm), Sat 1/28 (11:30am, 2:45pm, 7:40pm, 9:25pm, 9:45pm), Sun 1/29 (11:00am, 3:45pm, 6:00pm), Mon 1/30 (2:55pm, 3:45pm, 7:00pm), Tue 1/31 (3:00pm, 3:45pm, 7:00pm, 8:00pm), Wed 2/1 (3:00pm, 3:45pm, 7:00pm, 8:00pm)
+
+    * [M3gan](https://drafthouse.com/los-angeles/show/m3gan): Thu 1/26 (4:00pm, 6:30pm, 9:25pm, 10:15pm), Fri 1/27 (3:45pm, 6:30pm, 10:30pm), Sat 1/28 (11:20am, 3:30pm, 6:30pm, 9:30pm, 10:30pm), Sun 1/29 (11:15am, 2:15pm, 5:00pm, 6:25pm), Mon 1/30 (4:00pm, 7:15pm), Tue 1/31 (4:00pm, 7:15pm), Wed 2/1 (4:00pm, 7:15pm)
+
+    * [Plane](https://drafthouse.com/los-angeles/show/plane): Thu 1/26 (3:45pm, 6:45pm, 9:45pm), Fri 1/27 (4:15pm, 7:15pm, 10:15pm), Sat 1/28 (1:15pm, 4:15pm, 7:15pm, 10:45pm), Sun 1/29 (1:15pm, 4:15pm, 7:15pm), Mon 1/30 (3:25pm, 6:15pm), Tue 1/31 (3:25pm, 6:15pm), Wed 2/1 (3:25pm, 6:15pm)
+
+    * [Puss In Boots The Last Wish](https://drafthouse.com/los-angeles/show/puss-in-boots-the-last-wish): Thu 1/26 (3:10pm, 6:35pm, 10:15pm), Fri 1/27 (3:10pm, 6:35pm, 10:15pm), Sat 1/28 (11:00am, 3:10pm, 6:40pm, 10:15pm), Sun 1/29 (12:15pm, 3:10pm, 6:40pm), Mon 1/30 (3:45pm, 7:30pm), Tue 1/31 (3:45pm, 7:30pm), Wed 2/1 (3:45pm, 7:30pm)
+
+    * [Skinamarink](https://drafthouse.com/los-angeles/show/skinamarink): Thu 1/26 (10:20pm), Fri 1/27 (10:45pm), Sat 1/28 (10:45pm)
+
+    * [Tar](https://drafthouse.com/los-angeles/show/tar): Sat 1/28 (11:00am, 1:50pm), Sun 1/29 (5:45pm)
+
+    * [That Time I Got Reincarnated As A Slime The Movie Scarlet Bond Subtitled](https://drafthouse.com/los-angeles/show/that-time-i-got-reincarnated-as-a-slime-the-movie-scarlet-bond-subtitled): Thu 1/26 (6:30pm)
+
+    * [The Banshees Of Inisherin](https://drafthouse.com/los-angeles/show/the-banshees-of-inisherin): Fri 1/27 (2:45pm), Sat 1/28 (10:00pm), Sun 1/29 (2:40pm), Mon 1/30 (3:15pm), Tue 1/31 (3:15pm), Wed 2/1 (3:15pm)
+
+    * [The Fabelmans](https://drafthouse.com/los-angeles/show/the-fabelmans): Fri 1/27 (4:00pm), Sat 1/28 (5:40pm), Mon 1/30 (4:15pm), Tue 1/31 (4:15pm), Wed 2/1 (6:05pm)
+
+    * [The Whale](https://drafthouse.com/los-angeles/show/the-whale): Thu 1/26 (3:15pm, 4:35pm, 7:50pm), Fri 1/27 (4:30pm, 7:45pm), Sat 1/28 (1:15pm, 4:30pm, 7:45pm), Sun 1/29 (12:35pm, 4:35pm, 7:45pm), Mon 1/30 (4:45pm, 8:00pm), Tue 1/31 (4:45pm, 8:00pm), Wed 2/1 (4:45pm, 8:00pm)
+
+    * [When You Finish Saving The World](https://drafthouse.com/los-angeles/show/when-you-finish-saving-the-world): Thu 1/26 (2:00pm)
+
+    * [Women Talking](https://drafthouse.com/los-angeles/show/women-talking): Thu 1/26 (3:45pm, 7:40pm, 10:40pm), Fri 1/27 (3:45pm, 7:25pm, 10:30pm), Sat 1/28 (12:00pm, 3:45pm, 7:30pm, 10:30pm), Sun 1/29 (12:00pm, 3:45pm, 7:30pm), Mon 1/30 (4:30pm, 7:45pm), Tue 1/31 (4:30pm, 7:45pm), Wed 2/1 (4:30pm, 7:45pm)
+
 ### Fri 1/20 9:15pm
 * New movies: Southland Tales, SLEEPAWAY CAMP with Felissa Rose LIVE
 
