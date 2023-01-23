@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 1/23 3:16pm
+* New movies: Birdemic 3: Sea Eagle
+
+* New screenings: 
+    * [Birdemic 3 Sea Eagle](https://drafthouse.com/los-angeles/show/birdemic-3-sea-eagle): Tue 2/7 (8:00pm), Wed 2/8 (8:00pm)
+
 ### Mon 1/23 2:16pm
 * New movies: Everything Everywhere All At Once, TAR, Avatar: The Way Of Water, Babylon, The Banshees of Inisherin, The Fabelmans
 
