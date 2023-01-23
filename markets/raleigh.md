@@ -1,6 +1,37 @@
 # raleigh
 
 ## Movie updates
+### Mon 1/23 3:22pm
+
+* New screenings: 
+    * [Avatar The Way Of Water](https://drafthouse.com/raleigh/show/avatar-the-way-of-water): Thu 1/26 (6:00pm, 9:15pm)
+
+    * [Babylon](https://drafthouse.com/raleigh/show/babylon): Thu 1/26 (3:00pm)
+
+    * [Brotherhood Of The Wolf](https://drafthouse.com/raleigh/show/brotherhood-of-the-wolf): Thu 1/26 (11:15am)
+
+    * [House Party 2023](https://drafthouse.com/raleigh/show/house-party-2023): Thu 1/26 (10:45am, 1:30pm, 4:15pm, 7:45pm, 10:30pm)
+
+    * [Kids Vs Aliens](https://drafthouse.com/raleigh/show/kids-vs-aliens): Thu 1/26 (9:40pm)
+
+    * [M3gan](https://drafthouse.com/raleigh/show/m3gan): Thu 1/26 (11:30am, 2:45pm, 5:30pm, 8:15pm, 11:00pm)
+
+    * [Missing 2023](https://drafthouse.com/raleigh/show/missing-2023): Thu 1/26 (10:55am, 1:55pm, 4:50pm, 7:15pm, 10:10pm)
+
+    * [Plane](https://drafthouse.com/raleigh/show/plane): Thu 1/26 (1:10pm, 3:25pm, 3:40pm, 6:15pm, 9:05pm)
+
+    * [Puss In Boots The Last Wish](https://drafthouse.com/raleigh/show/puss-in-boots-the-last-wish): Thu 1/26 (12:40pm, 2:15pm, 4:00pm, 6:45pm, 9:30pm)
+
+    * [Skinamarink](https://drafthouse.com/raleigh/show/skinamarink): Thu 1/26 (10:15pm)
+
+    * [The Lord Of The Rings The Return Of The King Extended Edition](https://drafthouse.com/raleigh/show/the-lord-of-the-rings-the-return-of-the-king-extended-edition): Thu 1/26 (12:45pm)
+
+    * [The Whale](https://drafthouse.com/raleigh/show/the-whale): Thu 1/26 (10:50am)
+
+    * [When You Finish Saving The World](https://drafthouse.com/raleigh/show/when-you-finish-saving-the-world): Thu 1/26 (12:20pm)
+
+    * [Women Talking](https://drafthouse.com/raleigh/show/women-talking): Thu 1/26 (12:55pm, 1:55pm, 4:40pm, 7:30pm, 10:20pm)
+
 ### Fri 1/20 4:18pm
 
 * New screenings: 
