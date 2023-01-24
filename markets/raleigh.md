@@ -1,6 +1,42 @@
 # raleigh
 
 ## Movie updates
+### Mon 1/23 8:46pm
+* New movies: Everything Everywhere All At Once, The Banshees of Inisherin, The Fabelmans
+
+* New screenings: 
+    * [Avatar The Way Of Water](https://drafthouse.com/raleigh/show/avatar-the-way-of-water): Fri 1/27 (12:00pm, 4:15pm, 6:00pm, 8:30pm, 9:50pm), Sat 1/28 (12:30pm, 1:45pm, 4:45pm, 6:00pm, 9:00pm), Sun 1/29 (10:55am, 12:40pm, 3:15pm, 6:15pm, 7:30pm), Mon 1/30 (12:00pm, 4:15pm, 6:00pm, 8:30pm, 10:15pm), Tue 1/31 (12:30pm, 1:45pm, 4:45pm, 6:00pm, 9:00pm), Wed 2/1 (12:30pm, 1:45pm, 4:45pm, 6:00pm, 9:00pm)
+
+    * [Broker](https://drafthouse.com/raleigh/show/broker): Fri 1/27 (10:55pm), Sat 1/28 (10:20pm), Sun 1/29 (1:45pm), Mon 1/30 (5:45pm), Tue 1/31 (10:00pm), Wed 2/1 (10:40pm)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/raleigh/show/everything-everywhere-all-at-once): Fri 1/27 (7:30pm), Sat 1/28 (7:30pm), Sun 1/29 (7:00pm), Mon 1/30 (7:30pm), Tue 1/31 (7:30pm), Wed 2/1 (9:50pm)
+
+    * [Graveyard Shift Killer Klowns From Outer Space](https://drafthouse.com/raleigh/show/graveyard-shift-killer-klowns-from-outer-space): Tue 1/31 (10:15pm)
+
+    * [House Party 2023](https://drafthouse.com/raleigh/show/house-party-2023): Fri 1/27 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Sat 1/28 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Sun 1/29 (1:25pm, 4:10pm, 6:55pm), Mon 1/30 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Tue 1/31 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Wed 2/1 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm)
+
+    * [Infinity Pool](https://drafthouse.com/raleigh/show/infinity-pool): Fri 1/27 (11:40am, 1:30pm, 3:30pm, 9:30pm), Sat 1/28 (12:15pm, 3:20pm, 9:35pm, 10:15pm), Sun 1/29 (12:25pm, 3:30pm), Mon 1/30 (12:30pm, 12:55pm, 3:55pm, 7:00pm, 10:05pm), Tue 1/31 (12:15pm, 3:25pm, 3:55pm, 6:30pm, 9:35pm), Wed 2/1 (12:25pm, 3:25pm, 4:00pm, 6:30pm, 9:35pm)
+
+    * [M3gan](https://drafthouse.com/raleigh/show/m3gan): Fri 1/27 (11:15am, 2:45pm, 5:30pm, 8:15pm, 11:00pm), Sat 1/28 (10:50am, 2:45pm, 5:30pm, 8:15pm, 11:00pm), Sun 1/29 (12:50pm, 3:35pm, 6:20pm), Mon 1/30 (11:55am, 2:45pm, 5:30pm, 8:15pm, 11:00pm), Tue 1/31 (12:00pm, 2:45pm, 5:30pm, 8:15pm, 11:00pm), Wed 2/1 (12:00pm, 2:45pm, 5:30pm, 8:15pm, 11:00pm)
+
+    * [Missing 2023](https://drafthouse.com/raleigh/show/missing-2023): Fri 1/27 (12:25pm, 3:20pm, 4:35pm, 6:45pm, 9:40pm), Sat 1/28 (12:00pm, 1:00pm, 4:00pm, 7:00pm, 9:55pm), Sun 1/29 (12:30pm, 3:50pm, 6:45pm), Mon 1/30 (10:55am, 1:55pm, 4:50pm, 7:45pm, 10:40pm), Tue 1/31 (12:35pm, 1:00pm, 3:50pm, 6:45pm, 9:40pm), Wed 2/1 (10:45am, 1:40pm, 4:35pm, 7:30pm, 10:25pm)
+
+    * [Plane](https://drafthouse.com/raleigh/show/plane): Fri 1/27 (10:40am, 1:35pm, 4:25pm, 7:15pm, 10:05pm), Sat 1/28 (11:55am, 1:35pm, 4:25pm, 7:15pm, 10:05pm), Sun 1/29 (1:00pm, 4:55pm, 7:45pm), Mon 1/30 (10:45am, 1:35pm, 4:25pm, 7:15pm, 10:10pm), Tue 1/31 (11:15am, 2:05pm, 4:55pm, 7:45pm, 10:35pm), Wed 2/1 (10:40am, 1:35pm, 4:25pm, 7:15pm, 10:05pm)
+
+    * [Puss In Boots The Last Wish](https://drafthouse.com/raleigh/show/puss-in-boots-the-last-wish): Fri 1/27 (11:00am, 12:45pm, 4:00pm, 6:15pm, 9:05pm), Sat 1/28 (11:00am, 12:45pm, 3:30pm, 6:15pm, 9:05pm), Sun 1/29 (1:15pm, 3:30pm, 6:00pm), Mon 1/30 (11:15am, 2:00pm, 4:45pm, 6:15pm, 9:05pm), Tue 1/31 (11:00am, 3:30pm, 6:15pm, 9:05pm), Wed 2/1 (11:00am, 12:45pm, 3:30pm, 6:15pm, 9:05pm)
+
+    * [Skinamarink](https://drafthouse.com/raleigh/show/skinamarink): Fri 1/27 (10:15pm), Sat 1/28 (10:55pm), Sun 1/29 (8:45pm), Mon 1/30 (10:55pm), Tue 1/31 (10:55pm), Wed 2/1 (10:15pm)
+
+    * [The Banshees Of Inisherin](https://drafthouse.com/raleigh/show/the-banshees-of-inisherin): Fri 1/27 (3:00pm), Sat 1/28 (4:30pm), Sun 1/29 (4:00pm), Mon 1/30 (11:30am), Tue 1/31 (4:30pm), Wed 2/1 (1:00pm)
+
+    * [The Fabelmans](https://drafthouse.com/raleigh/show/the-fabelmans): Fri 1/27 (11:25am), Sat 1/28 (6:45pm), Sun 1/29 (4:55pm), Mon 1/30 (2:25pm), Tue 1/31 (12:55pm), Wed 2/1 (4:10pm)
+
+    * [The Lord Of The Rings The Return Of The King Extended Edition](https://drafthouse.com/raleigh/show/the-lord-of-the-rings-the-return-of-the-king-extended-edition): Fri 1/27 (1:45pm)
+
+    * [The Whale](https://drafthouse.com/raleigh/show/the-whale): Fri 1/27 (1:00pm), Sat 1/28 (1:30pm), Sun 1/29 (8:30pm), Mon 1/30 (12:50pm), Tue 1/31 (12:50pm), Wed 2/1 (1:10pm)
+
+    * [Women Talking](https://drafthouse.com/raleigh/show/women-talking): Fri 1/27 (10:45am, 2:00pm, 4:55pm, 7:45pm, 10:35pm), Sat 1/28 (11:15am, 2:05pm, 4:55pm, 7:45pm, 10:35pm), Sun 1/29 (1:30pm, 4:25pm, 7:15pm), Mon 1/30 (12:15pm, 3:00pm, 3:30pm, 3:55pm, 6:45pm, 9:35pm), Tue 1/31 (10:45am, 1:35pm, 4:25pm, 7:15pm, 10:05pm), Wed 2/1 (11:20am, 2:10pm, 5:00pm, 7:50pm, 10:50pm)
+
 ### Mon 1/23 3:22pm
 
 * New screenings: 
