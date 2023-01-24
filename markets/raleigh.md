@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Tue 1/24 2:16pm
+* New movies: Magic Mike's Last Dance, Magic Mike's Last Dance
+
+* New screenings: 
+    * [Magic Mikes Last Dance](https://drafthouse.com/raleigh/show/magic-mikes-last-dance): Sun 2/12 (7:00pm)
+
+    * [Rowdy Screening Magic Mikes Last Dance](https://drafthouse.com/raleigh/show/rowdy-screening-magic-mikes-last-dance): Thu 2/9 (7:00pm), Fri 2/10 (7:00pm), Sat 2/11 (7:00pm), Mon 2/13 (7:00pm)
+
 ### Mon 1/23 9:42pm
 * New movies: Women Talking
 
