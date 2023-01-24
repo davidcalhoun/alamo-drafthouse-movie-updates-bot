@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 1/23 9:42pm
+* New movies: Women Talking
+
+* New screenings: 
+    * [Brunch Screenings Women Talking Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-women-talking-brunch): Sat 1/28 (11:15am)
+
 ### Mon 1/23 8:46pm
 * New movies: Everything Everywhere All At Once, The Banshees of Inisherin, The Fabelmans
 
