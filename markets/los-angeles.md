@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Tue 1/24 8:20pm
+* New movies: Magic Mike's Last Dance, Magic Mike's Last Dance, Magic Mike's Last Dance
+
+* New screenings: 
+    * [Brunch Screenings Magic Mikes Last Dance Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-magic-mikes-last-dance-brunch): Sat 2/11 (12:30pm), Sun 2/12 (12:30pm)
+
+    * [Magic Mikes Last Dance](https://drafthouse.com/los-angeles/show/magic-mikes-last-dance): Thu 2/9 (10:15pm), Fri 2/10 (3:45pm, 10:15pm), Sat 2/11 (3:45pm, 10:15pm), Sun 2/12 (3:45pm, 7:00pm), Mon 2/13 (12:30pm, 3:45pm)
+
+    * [Rowdy Screening Magic Mikes Last Dance](https://drafthouse.com/los-angeles/show/rowdy-screening-magic-mikes-last-dance): Thu 2/9 (7:00pm), Fri 2/10 (7:00pm), Sat 2/11 (7:00pm)
+
 ### Tue 1/24 5:22pm
 * New movies: Sleepaway Camp
 
