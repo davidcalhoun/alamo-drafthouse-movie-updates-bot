@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 1/24 5:22pm
+* New movies: Sleepaway Camp
+
+
+
 ### Mon 1/23 3:16pm
 * New movies: Birdemic 3: Sea Eagle
 
