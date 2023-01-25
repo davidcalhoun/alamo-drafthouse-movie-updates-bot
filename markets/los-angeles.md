@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 1/25 3:17pm
+* New movies: DEEMO Memorial Keys Dubbed
+
+
+
 ### Tue 1/24 8:20pm
 * New movies: Magic Mike's Last Dance, Magic Mike's Last Dance, Magic Mike's Last Dance
 
