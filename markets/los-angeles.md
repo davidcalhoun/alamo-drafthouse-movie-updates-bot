@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 1/26 10:20am
+
+* New screenings: 
+    * [Everything Everywhere All At Once](https://drafthouse.com/los-angeles/show/everything-everywhere-all-at-once): Sat 1/28 (9:30pm)
+
 ### Wed 1/25 3:17pm
 * New movies: DEEMO Memorial Keys Dubbed
 
