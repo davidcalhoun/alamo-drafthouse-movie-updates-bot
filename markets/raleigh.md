@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Fri 1/27 4:17pm
+* New movies: The Harder They Come, Twin Peaks: Fire Walk with Me, When You Get to the Forest
+
+* New screenings: 
+    * [The Harder They Come](https://drafthouse.com/raleigh/show/the-harder-they-come): Wed 2/22 (9:00pm)
+
+    * [Twin Peaks Fire Walk With Me](https://drafthouse.com/raleigh/show/twin-peaks-fire-walk-with-me): Fri 2/24 (10:00pm)
+
+    * [When You Get To The Forest](https://drafthouse.com/raleigh/show/when-you-get-to-the-forest): Mon 2/20 (9:00pm)
+
 ### Tue 1/24 2:16pm
 * New movies: Magic Mike's Last Dance, Magic Mike's Last Dance
 
