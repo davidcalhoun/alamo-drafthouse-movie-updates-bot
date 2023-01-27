@@ -1,6 +1,20 @@
 # raleigh
 
 ## Movie updates
+### Fri 1/27 5:20pm
+* New movies: Space Jam, Possession 1981, Give Me Pity!, Mary Jane's Not a Virgin Anymore, Training Day
+
+* New screenings: 
+    * [Fantastic Fest Presents Give Me Pity Advance Screening](https://drafthouse.com/raleigh/show/fantastic-fest-presents-give-me-pity-advance-screening): Tue 2/28 (7:00pm)
+
+    * [Graveyard Shift Possession 1981](https://drafthouse.com/raleigh/show/graveyard-shift-possession-1981): Mon 2/27 (9:15pm)
+
+    * [Mary Janes Not A Virgin Anymore](https://drafthouse.com/raleigh/show/mary-janes-not-a-virgin-anymore): Wed 3/1 (9:00pm)
+
+    * [Signature Programming Space Jam](https://drafthouse.com/raleigh/show/signature-programming-space-jam): Mon 2/27 (6:30pm)
+
+    * [Training Day](https://drafthouse.com/raleigh/show/training-day): Wed 3/1 (7:00pm)
+
 ### Fri 1/27 4:17pm
 * New movies: The Harder They Come, Twin Peaks: Fire Walk with Me, When You Get to the Forest
 
