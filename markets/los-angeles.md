@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Sun 1/29 5:19am
+* New movies: Cocaine Bear
+
+* New screenings: 
+    * [Cocaine Bear](https://drafthouse.com/los-angeles/show/cocaine-bear): Thu 2/23 (5:00pm, 7:50pm, 10:40pm), Fri 2/24 (1:00pm, 3:50pm, 6:45pm, 9:35pm), Sat 2/25 (1:00pm, 3:50pm, 6:45pm, 9:35pm), Sun 2/26 (1:00pm, 3:50pm, 6:45pm)
+
 ### Thu 1/26 10:20am
 
 * New screenings: 
