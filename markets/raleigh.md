@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Sun 1/29 8:23am
+* New movies: Cocaine Bear
+
+* New screenings: 
+    * [Cocaine Bear](https://drafthouse.com/raleigh/show/cocaine-bear): Thu 2/23 (5:00pm, 7:45pm, 10:35pm), Fri 2/24 (7:00pm, 9:50pm), Sat 2/25 (7:00pm, 9:50pm), Sun 2/26 (7:15pm, 10:00pm)
+
 ### Fri 1/27 5:20pm
 * New movies: Space Jam, Possession 1981, Give Me Pity!, Mary Jane's Not a Virgin Anymore, Training Day
 
