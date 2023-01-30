@@ -1,6 +1,48 @@
 # raleigh
 
 ## Movie updates
+### Mon 1/30 6:21pm
+* New movies: 80 for Brady, The Phantom of the Opera 2004, The Lord of the Rings: The Return of the King: Extended Edition, Once Upon a Time in... Hollywood
+
+* New screenings: 
+    * [80 For Brady](https://drafthouse.com/raleigh/show/80-for-brady): Thu 2/2 (3:00pm, 5:45pm, 8:30pm, 9:50pm)
+
+    * [Avatar The Way Of Water](https://drafthouse.com/raleigh/show/avatar-the-way-of-water): Thu 2/2 (12:30pm, 2:30pm, 4:45pm, 9:00pm)
+
+    * [Broker](https://drafthouse.com/raleigh/show/broker): Thu 2/2 (10:50pm)
+
+    * [Escape From Alcatraz](https://drafthouse.com/raleigh/show/escape-from-alcatraz): Thu 2/2 (11:55am)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/raleigh/show/everything-everywhere-all-at-once): Thu 2/2 (7:15pm, 10:35pm)
+
+    * [House Party 2023](https://drafthouse.com/raleigh/show/house-party-2023): Thu 2/2 (12:15pm)
+
+    * [Infinity Pool](https://drafthouse.com/raleigh/show/infinity-pool): Thu 2/2 (1:30pm, 2:15pm, 4:30pm, 7:30pm, 10:30pm)
+
+    * [Knock At The Cabin](https://drafthouse.com/raleigh/show/knock-at-the-cabin): Thu 2/2 (10:40pm)
+
+    * [M3gan](https://drafthouse.com/raleigh/show/m3gan): Thu 2/2 (12:00pm, 2:45pm, 5:30pm, 8:15pm, 11:00pm)
+
+    * [Missing 2023](https://drafthouse.com/raleigh/show/missing-2023): Thu 2/2 (11:00am, 2:00pm, 4:15pm, 4:50pm, 6:45pm, 9:35pm)
+
+    * [Once Upon A Time In Hollywood](https://drafthouse.com/raleigh/show/once-upon-a-time-in-hollywood): Thu 2/2 (2:55pm)
+
+    * [Plane](https://drafthouse.com/raleigh/show/plane): Thu 2/2 (8:00pm)
+
+    * [Puss In Boots The Last Wish](https://drafthouse.com/raleigh/show/puss-in-boots-the-last-wish): Thu 2/2 (11:45am, 12:45pm, 3:30pm, 6:15pm, 9:05pm)
+
+    * [The Banshees Of Inisherin](https://drafthouse.com/raleigh/show/the-banshees-of-inisherin): Thu 2/2 (1:00pm)
+
+    * [The Fabelmans](https://drafthouse.com/raleigh/show/the-fabelmans): Thu 2/2 (1:15pm)
+
+    * [The Lord Of The Rings The Return Of The King Extended Edition](https://drafthouse.com/raleigh/show/the-lord-of-the-rings-the-return-of-the-king-extended-edition): Thu 2/2 (7:45pm)
+
+    * [The Phantom Of The Opera 2004 Movie Party](https://drafthouse.com/raleigh/show/the-phantom-of-the-opera-2004-movie-party): Mon 2/6 (9:00pm), Wed 2/8 (9:00pm)
+
+    * [The Whale](https://drafthouse.com/raleigh/show/the-whale): Thu 2/2 (11:15am)
+
+    * [Women Talking](https://drafthouse.com/raleigh/show/women-talking): Thu 2/2 (5:15pm)
+
 ### Sun 1/29 8:23am
 * New movies: Cocaine Bear
 
