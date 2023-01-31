@@ -1,6 +1,46 @@
 # raleigh
 
 ## Movie updates
+### Tue 1/31 12:19pm
+* New movies: TAR, All Quiet on the Western Front 2022, Baby Ruby, 80 for Brady, Triangle of Sadness
+
+* New screenings: 
+    * [80 For Brady](https://drafthouse.com/raleigh/show/80-for-brady): Fri 2/3 (10:55am, 1:30pm, 4:00pm, 6:45pm, 9:40pm), Sat 2/4 (10:45am, 12:50pm, 3:30pm, 6:15pm, 9:00pm), Sun 2/5 (3:00pm, 5:45pm, 8:30pm), Mon 2/6 (11:30am, 2:15pm, 5:00pm, 6:45pm, 9:35pm), Tue 2/7 (6:45pm, 9:30pm), Wed 2/8 (4:00pm, 6:45pm, 9:30pm)
+
+    * [All Quiet On The Western Front 2022](https://drafthouse.com/raleigh/show/all-quiet-on-the-western-front-2022): Fri 2/3 (2:15pm), Sat 2/4 (8:00pm), Sun 2/5 (3:30pm), Mon 2/6 (7:30pm), Tue 2/7 (7:30pm)
+
+    * [Assault On Precinct 13](https://drafthouse.com/raleigh/show/assault-on-precinct-13): Sat 2/4 (8:30pm), Mon 2/6 (12:55pm), Wed 2/8 (11:25am)
+
+    * [Avatar The Way Of Water](https://drafthouse.com/raleigh/show/avatar-the-way-of-water): Fri 2/3 (12:45pm, 5:00pm, 9:15pm), Sat 2/4 (12:45pm, 5:00pm, 9:15pm), Sun 2/5 (10:45am, 3:00pm, 7:15pm), Mon 2/6 (12:30pm, 4:45pm, 9:00pm), Tue 2/7 (12:30pm, 4:45pm, 9:00pm), Wed 2/8 (12:30pm, 4:45pm, 9:00pm)
+
+    * [Baby Ruby](https://drafthouse.com/raleigh/show/baby-ruby): Sat 2/4 (9:25pm), Sun 2/5 (3:40pm), Mon 2/6 (9:05pm), Wed 2/8 (10:55pm)
+
+    * [Brunch Screenings 80 For Brady Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-80-for-brady-brunch): Sun 2/5 (12:45pm)
+
+    * [Bts Yet To Come In Cinemas](https://drafthouse.com/raleigh/show/bts-yet-to-come-in-cinemas): Sun 2/5 (7:00pm)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/raleigh/show/everything-everywhere-all-at-once): Fri 2/3 (6:30pm, 9:55pm), Sat 2/4 (6:00pm), Sun 2/5 (11:30am, 6:45pm), Mon 2/6 (3:30pm, 6:00pm), Wed 2/8 (7:30pm)
+
+    * [Infinity Pool](https://drafthouse.com/raleigh/show/infinity-pool): Fri 2/3 (11:40am, 12:55pm, 4:15pm, 7:15pm, 10:15pm), Sat 2/4 (11:30am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Sun 2/5 (12:10pm, 1:45pm, 4:45pm, 7:45pm), Mon 2/6 (12:45pm, 3:00pm, 3:45pm, 7:15pm, 10:15pm), Tue 2/7 (11:00am, 1:40pm, 4:15pm, 7:15pm, 10:15pm), Wed 2/8 (11:40am, 12:50pm, 4:15pm, 7:15pm, 10:15pm)
+
+    * [Knock At The Cabin](https://drafthouse.com/raleigh/show/knock-at-the-cabin): Fri 2/3 (8:45pm, 9:50pm), Sat 2/4 (1:15pm, 2:00pm, 3:15pm, 9:45pm), Sun 2/5 (11:45am, 2:30pm, 5:15pm), Mon 2/6 (12:00pm, 2:45pm, 5:30pm, 8:15pm, 11:00pm), Tue 2/7 (11:55am, 2:45pm, 5:30pm, 8:15pm, 11:00pm), Wed 2/8 (11:55am, 2:45pm, 5:30pm, 8:15pm, 11:00pm)
+
+    * [M3gan](https://drafthouse.com/raleigh/show/m3gan): Fri 2/3 (12:00pm, 2:45pm, 5:30pm, 8:15pm, 11:00pm), Sat 2/4 (12:00pm, 2:45pm, 5:30pm, 8:15pm, 11:00pm), Sun 2/5 (12:00pm, 2:45pm, 5:30pm, 8:15pm), Mon 2/6 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm)
+
+    * [Missing 2023](https://drafthouse.com/raleigh/show/missing-2023): Fri 2/3 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:45pm), Sat 2/4 (1:30pm, 4:20pm, 7:15pm, 10:15pm), Sun 2/5 (1:50pm, 4:40pm, 7:30pm), Mon 2/6 (1:30pm, 3:15pm, 4:20pm, 7:45pm, 10:40pm), Tue 2/7 (1:15pm, 2:00pm, 4:55pm, 7:45pm, 10:40pm), Wed 2/8 (1:15pm, 2:00pm, 4:55pm, 7:45pm, 10:35pm)
+
+    * [Plane](https://drafthouse.com/raleigh/show/plane): Fri 2/3 (4:40pm, 7:30pm), Sat 2/4 (8:00pm), Sun 2/5 (6:00pm), Mon 2/6 (6:15pm)
+
+    * [Puss In Boots The Last Wish](https://drafthouse.com/raleigh/show/puss-in-boots-the-last-wish): Fri 2/3 (11:30am, 1:00pm, 3:45pm, 6:15pm, 9:00pm), Sat 2/4 (11:00am, 2:30pm, 5:15pm, 6:45pm, 9:30pm), Sun 2/5 (11:00am, 1:15pm, 4:00pm, 6:30pm), Mon 2/6 (12:15pm, 1:00pm, 3:45pm, 6:30pm, 9:15pm), Tue 2/7 (10:55am, 12:45pm, 3:30pm, 6:15pm, 9:05pm), Wed 2/8 (11:10am, 1:55pm, 4:40pm, 6:15pm, 9:05pm)
+
+    * [Tar](https://drafthouse.com/raleigh/show/tar): Fri 2/3 (11:45am, 5:45pm), Sat 2/4 (12:15pm), Sun 2/5 (11:15am), Mon 2/6 (12:55pm), Tue 2/7 (3:00pm)
+
+    * [The Fabelmans](https://drafthouse.com/raleigh/show/the-fabelmans): Fri 2/3 (2:40pm), Sat 2/4 (4:25pm), Sun 2/5 (2:55pm), Mon 2/6 (11:40am), Tue 2/7 (11:25am), Wed 2/8 (2:40pm)
+
+    * [Triangle Of Sadness](https://drafthouse.com/raleigh/show/triangle-of-sadness): Fri 2/3 (3:30pm, 10:30pm), Sat 2/4 (1:00pm, 4:55pm), Sun 2/5 (6:15pm), Mon 2/6 (10:30pm)
+
+    * [Women Talking](https://drafthouse.com/raleigh/show/women-talking): Fri 2/3 (1:45pm), Sat 2/4 (3:55pm), Sun 2/5 (12:50pm), Mon 2/6 (4:40pm), Tue 2/7 (4:40pm)
+
 ### Mon 1/30 6:21pm
 * New movies: 80 for Brady, The Phantom of the Opera 2004, The Lord of the Rings: The Return of the King: Extended Edition, Once Upon a Time in... Hollywood
 
