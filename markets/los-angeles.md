@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 1/31 11:13am
+* New movies: Funeral Parade of Roses
+
+
+
 ### Mon 1/30 6:47pm
 * New movies: Skinamarink, Brotherhood of the Wolf
 
