@@ -1,6 +1,46 @@
 # los-angeles
 
 ## Movie updates
+### Mon 1/30 5:36pm
+* New movies: Assault on Precinct 13, Baby Ruby, All Quiet on the Western Front 2022
+
+* New screenings: 
+    * [All Quiet On The Western Front 2022](https://drafthouse.com/los-angeles/show/all-quiet-on-the-western-front-2022): Fri 2/3 (6:00pm), Sat 2/4 (4:30pm), Sun 2/5 (1:45pm), Mon 2/6 (2:30pm), Tue 2/7 (3:00pm)
+
+    * [Assault On Precinct 13](https://drafthouse.com/los-angeles/show/assault-on-precinct-13): Fri 2/3 (9:10pm, 10:20pm), Sat 2/4 (5:45pm, 10:35pm), Sun 2/5 (5:30pm, 8:10pm), Mon 2/6 (7:45pm), Tue 2/7 (3:20pm), Wed 2/8 (4:50pm, 7:45pm)
+
+    * [Avatar The Way Of Water](https://drafthouse.com/los-angeles/show/avatar-the-way-of-water): Fri 2/3 (2:15pm, 3:10pm, 6:00pm, 9:40pm), Sat 2/4 (11:00am, 2:15pm, 6:15pm, 9:40pm), Sun 2/5 (11:00am, 2:20pm, 6:30pm), Mon 2/6 (2:15pm, 6:15pm), Tue 2/7 (3:25pm, 6:15pm), Wed 2/8 (2:15pm, 6:15pm)
+
+    * [Baby Ruby](https://drafthouse.com/los-angeles/show/baby-ruby): Fri 2/3 (4:15pm, 10:15pm), Sat 2/4 (11:10am, 8:10pm, 10:25pm), Sun 2/5 (11:10am, 5:10pm, 8:00pm), Mon 2/6 (5:25pm, 8:25pm), Tue 2/7 (5:25pm, 8:25pm), Wed 2/8 (2:15pm, 5:25pm, 8:25pm)
+
+    * [Babylon](https://drafthouse.com/los-angeles/show/babylon): Fri 2/3 (3:20pm, 9:20pm), Sat 2/4 (3:20pm, 6:00pm), Sun 2/5 (3:20pm, 6:00pm), Mon 2/6 (3:00pm), Tue 2/7 (6:00pm), Wed 2/8 (6:00pm)
+
+    * [Broker](https://drafthouse.com/los-angeles/show/broker): Sat 2/4 (11:45am), Sun 2/5 (11:45am)
+
+    * [Chungking Express](https://drafthouse.com/los-angeles/show/chungking-express): Sat 2/4 (12:00pm)
+
+    * [Corpse Bride](https://drafthouse.com/los-angeles/show/corpse-bride): Sat 2/4 (10:45pm)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/los-angeles/show/everything-everywhere-all-at-once): Fri 2/3 (5:20pm, 10:25pm), Sat 2/4 (6:45pm, 10:15pm), Sun 2/5 (7:30pm), Mon 2/6 (3:20pm, 6:00pm), Tue 2/7 (2:45pm, 7:10pm), Wed 2/8 (2:45pm, 7:00pm)
+
+    * [Infinity Pool](https://drafthouse.com/los-angeles/show/infinity-pool): Fri 2/3 (3:45pm, 7:30pm, 10:45pm), Sat 2/4 (1:00pm, 4:15pm, 7:30pm, 10:55pm), Sun 2/5 (1:00pm, 4:15pm, 7:45pm), Mon 2/6 (4:15pm, 7:30pm), Tue 2/7 (4:15pm, 7:30pm), Wed 2/8 (4:15pm, 7:30pm)
+
+    * [Knock At The Cabin](https://drafthouse.com/los-angeles/show/knock-at-the-cabin): Fri 2/3 (2:30pm, 6:15pm, 10:00pm, 10:50pm), Sat 2/4 (11:45am, 2:40pm, 5:30pm, 8:25pm, 9:20pm), Sun 2/5 (11:15am, 2:10pm, 5:00pm), Mon 2/6 (2:30pm, 4:00pm, 5:35pm, 8:00pm), Tue 2/7 (2:30pm, 4:00pm, 5:35pm, 7:00pm), Wed 2/8 (2:30pm, 4:00pm, 5:35pm, 7:00pm)
+
+    * [M3gan](https://drafthouse.com/los-angeles/show/m3gan): Fri 2/3 (3:00pm, 6:45pm, 10:40pm), Sat 2/4 (11:20am, 3:20pm, 6:45pm, 10:40pm), Sun 2/5 (11:25am, 3:25pm, 6:45pm), Mon 2/6 (2:40pm, 6:40pm), Tue 2/7 (2:40pm, 6:40pm), Wed 2/8 (2:40pm, 6:40pm)
+
+    * [Moonstruck Brunch](https://drafthouse.com/los-angeles/show/moonstruck-brunch): Sun 2/5 (12:00pm)
+
+    * [Puss In Boots The Last Wish](https://drafthouse.com/los-angeles/show/puss-in-boots-the-last-wish): Fri 2/3 (3:10pm, 6:30pm, 9:45pm), Sat 2/4 (12:00pm, 3:00pm, 6:30pm, 10:15pm), Sun 2/5 (12:00pm, 3:00pm, 6:30pm), Mon 2/6 (3:00pm, 6:30pm), Tue 2/7 (3:00pm, 6:30pm), Wed 2/8 (3:00pm, 6:30pm)
+
+    * [Tar](https://drafthouse.com/los-angeles/show/tar): Fri 2/3 (2:25pm), Sat 2/4 (1:50pm), Sun 2/5 (7:00pm), Mon 2/6 (7:00pm), Tue 2/7 (3:10pm), Wed 2/8 (3:10pm)
+
+    * [The Fabelmans](https://drafthouse.com/los-angeles/show/the-fabelmans): Sat 2/4 (3:00pm, 8:35pm), Sun 2/5 (3:00pm), Mon 2/6 (3:45pm), Tue 2/7 (6:00pm), Wed 2/8 (3:45pm)
+
+    * [The Whale](https://drafthouse.com/los-angeles/show/the-whale): Fri 2/3 (4:00pm, 7:15pm), Sat 2/4 (1:00pm, 4:10pm, 7:20pm), Sun 2/5 (1:00pm, 4:10pm, 7:20pm), Mon 2/6 (4:10pm, 7:15pm), Tue 2/7 (4:15pm, 7:20pm), Wed 2/8 (4:10pm, 7:15pm)
+
+    * [Women Talking](https://drafthouse.com/los-angeles/show/women-talking): Fri 2/3 (3:35pm, 7:40pm), Sat 2/4 (12:45pm, 3:35pm, 7:40pm), Sun 2/5 (12:45pm, 3:35pm, 7:40pm), Mon 2/6 (3:35pm, 7:30pm), Tue 2/7 (3:40pm, 7:45pm), Wed 2/8 (3:35pm, 7:30pm)
+
 ### Sun 1/29 5:19am
 * New movies: Cocaine Bear
 
