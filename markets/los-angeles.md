@@ -1,6 +1,40 @@
 # los-angeles
 
 ## Movie updates
+### Mon 1/30 6:47pm
+* New movies: Skinamarink, Brotherhood of the Wolf
+
+* New screenings: 
+    * [Avatar The Way Of Water](https://drafthouse.com/los-angeles/show/avatar-the-way-of-water): Thu 2/2 (2:00pm, 3:10pm, 6:00pm, 9:30pm, 9:30pm)
+
+    * [Babylon](https://drafthouse.com/los-angeles/show/babylon): Thu 2/2 (3:20pm, 6:00pm)
+
+    * [Broker](https://drafthouse.com/los-angeles/show/broker): Thu 2/2 (2:45pm)
+
+    * [Brotherhood Of The Wolf](https://drafthouse.com/los-angeles/show/brotherhood-of-the-wolf): Thu 2/2 (2:10pm)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/los-angeles/show/everything-everywhere-all-at-once): Thu 2/2 (2:20pm, 5:40pm, 10:20pm)
+
+    * [Graveyard Shift Killer Klowns From Outer Space](https://drafthouse.com/los-angeles/show/graveyard-shift-killer-klowns-from-outer-space): Thu 2/2 (10:00pm)
+
+    * [Infinity Pool](https://drafthouse.com/los-angeles/show/infinity-pool): Thu 2/2 (3:30pm, 6:45pm, 7:30pm, 9:25pm, 10:45pm)
+
+    * [Knock At The Cabin](https://drafthouse.com/los-angeles/show/knock-at-the-cabin): Thu 2/2 (6:15pm, 9:15pm, 10:35pm, 11:00pm)
+
+    * [M3gan](https://drafthouse.com/los-angeles/show/m3gan): Thu 2/2 (2:30pm, 6:30pm, 10:25pm)
+
+    * [Plane](https://drafthouse.com/los-angeles/show/plane): Thu 2/2 (2:00pm)
+
+    * [Puss In Boots The Last Wish](https://drafthouse.com/los-angeles/show/puss-in-boots-the-last-wish): Thu 2/2 (3:10pm, 6:35pm, 10:15pm)
+
+    * [Skinamarink](https://drafthouse.com/los-angeles/show/skinamarink): Thu 2/2 (9:15pm)
+
+    * [Tar](https://drafthouse.com/los-angeles/show/tar): Thu 2/2 (5:25pm)
+
+    * [The Whale](https://drafthouse.com/los-angeles/show/the-whale): Thu 2/2 (4:00pm, 7:15pm)
+
+    * [Women Talking](https://drafthouse.com/los-angeles/show/women-talking): Thu 2/2 (3:45pm, 7:40pm)
+
 ### Mon 1/30 5:36pm
 * New movies: Assault on Precinct 13, Baby Ruby, All Quiet on the Western Front 2022
 
