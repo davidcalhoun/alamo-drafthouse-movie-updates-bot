@@ -1,6 +1,29 @@
 # raleigh
 
 ## Movie updates
+### Tue 1/31 6:21pm
+
+* New screenings: 
+    * [80 For Brady](https://drafthouse.com/raleigh/show/80-for-brady): Tue 2/7 (1:00pm, 3:15pm, 3:45pm), Wed 2/8 (1:00pm, 3:45pm)
+
+    * [All Quiet On The Western Front 2022](https://drafthouse.com/raleigh/show/all-quiet-on-the-western-front-2022): Wed 2/8 (12:00pm)
+
+    * [Assault On Precinct 13](https://drafthouse.com/raleigh/show/assault-on-precinct-13): Tue 2/7 (8:50pm)
+
+    * [Baby Ruby](https://drafthouse.com/raleigh/show/baby-ruby): Tue 2/7 (12:40pm)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/raleigh/show/everything-everywhere-all-at-once): Tue 2/7 (3:40pm, 7:00pm), Wed 2/8 (8:45pm)
+
+    * [M3gan](https://drafthouse.com/raleigh/show/m3gan): Tue 2/7 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Wed 2/8 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm)
+
+    * [Plane](https://drafthouse.com/raleigh/show/plane): Tue 2/7 (6:00pm), Wed 2/8 (6:00pm)
+
+    * [Tar](https://drafthouse.com/raleigh/show/tar): Wed 2/8 (11:30am)
+
+    * [Triangle Of Sadness](https://drafthouse.com/raleigh/show/triangle-of-sadness): Tue 2/7 (12:15pm, 10:30pm), Wed 2/8 (3:30pm, 10:30pm)
+
+    * [Women Talking](https://drafthouse.com/raleigh/show/women-talking): Wed 2/8 (3:15pm)
+
 ### Tue 1/31 12:19pm
 * New movies: TAR, All Quiet on the Western Front 2022, Baby Ruby, 80 for Brady, Triangle of Sadness
 
