@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Wed 2/1 6:21pm
+* New movies: 80 for Brady
+
+
+
 ### Tue 1/31 9:58pm
 * New movies: Magic Mike's Last Dance
 
