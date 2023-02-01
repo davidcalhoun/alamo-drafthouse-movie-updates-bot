@@ -1,6 +1,20 @@
 # raleigh
 
 ## Movie updates
+### Tue 1/31 9:58pm
+* New movies: Magic Mike's Last Dance
+
+* New screenings: 
+    * [Brunch Screenings Magic Mikes Last Dance Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-magic-mikes-last-dance-brunch): Sat 2/11 (1:00pm), Sun 2/12 (1:00pm)
+
+    * [Eternal Sunshine Of The Spotless Mind](https://drafthouse.com/raleigh/show/eternal-sunshine-of-the-spotless-mind): Tue 2/14 (8:00pm)
+
+    * [Magic Mikes Last Dance](https://drafthouse.com/raleigh/show/magic-mikes-last-dance): Fri 2/10 (1:00pm, 4:00pm), Sat 2/11 (4:00pm), Sun 2/12 (4:00pm), Mon 2/13 (1:00pm, 4:00pm), Tue 2/14 (1:00pm, 4:00pm)
+
+    * [Rowdy Screening Magic Mikes Last Dance](https://drafthouse.com/raleigh/show/rowdy-screening-magic-mikes-last-dance): Fri 2/10 (10:15pm), Sat 2/11 (10:15pm), Tue 2/14 (7:00pm, 10:55pm)
+
+    * [Xoxo Alamo Bridesmaids](https://drafthouse.com/raleigh/show/xoxo-alamo-bridesmaids): Mon 2/13 (10:00pm)
+
 ### Tue 1/31 9:01pm
 
 * New screenings: 
