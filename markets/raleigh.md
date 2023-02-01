@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 1/31 9:01pm
+
+* New screenings: 
+    * [Rowdy Screening Magic Mikes Last Dance](https://drafthouse.com/raleigh/show/rowdy-screening-magic-mikes-last-dance): Thu 2/9 (10:15pm)
+
 ### Tue 1/31 6:21pm
 
 * New screenings: 
