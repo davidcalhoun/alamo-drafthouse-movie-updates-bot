@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 2/2 1:13pm
+
+* New screenings: 
+    * [Amigo](https://drafthouse.com/los-angeles/show/amigo): Fri 3/3 (4:00pm)
+
 ### Tue 1/31 11:13am
 * New movies: Funeral Parade of Roses
 
