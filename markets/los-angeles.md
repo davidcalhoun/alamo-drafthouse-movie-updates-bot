@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Fri 2/3 2:16pm
+* New movies: Irreversible: Straight Cut
+
+* New screenings: 
+    * [Graveyard Shift Possession 1981](https://drafthouse.com/los-angeles/show/graveyard-shift-possession-1981): Sun 2/26 (8:00pm), Mon 2/27 (4:15pm), Tue 2/28 (4:15pm), Thu 3/2 (4:00pm)
+
+    * [Irreversible Straight Cut](https://drafthouse.com/los-angeles/show/irreversible-straight-cut): Fri 2/24 (9:30pm), Sun 2/26 (5:15pm), Mon 2/27 (8:00pm), Tue 2/28 (5:00pm)
+
+    * [Wattstax](https://drafthouse.com/los-angeles/show/wattstax): Fri 2/24 (3:45pm), Sun 2/26 (12:00pm), Mon 2/27 (5:00pm)
+
 ### Thu 2/2 9:16pm
 
 * New screenings: 
