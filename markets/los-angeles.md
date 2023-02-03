@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 2/3 3:17pm
+
+* New screenings: 
+    * [Youve Got Mail Brunch](https://drafthouse.com/los-angeles/show/youve-got-mail-brunch): Sun 2/12 (11:15am)
+
 ### Fri 2/3 2:16pm
 * New movies: Irreversible: Straight Cut
 
