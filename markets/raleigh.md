@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 2/3 11:29am
+* New movies: 80 for Brady
+
+
+
 ### Fri 2/3 10:21am
 * New movies: Decision to Leave, Fire of Love
 
