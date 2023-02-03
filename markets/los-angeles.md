@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 2/2 5:37pm
+* New movies: Decision to Leave
+
+* New screenings: 
+    * [Livestream Q A Decision To Leave W Pre Recorded Q A](https://drafthouse.com/los-angeles/show/livestream-q-a-decision-to-leave-w-pre-recorded-q-a): Mon 2/13 (7:30pm)
+
 ### Thu 2/2 1:13pm
 
 * New screenings: 
