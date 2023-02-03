@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Fri 2/3 10:21am
+* New movies: Decision to Leave, Fire of Love
+
+* New screenings: 
+    * [Livestream Q A Decision To Leave W Pre Recorded Q A](https://drafthouse.com/raleigh/show/livestream-q-a-decision-to-leave-w-pre-recorded-q-a): Mon 2/13 (8:00pm)
+
+    * [Special Event Fire Of Love W Intro Pre Recorded Q A](https://drafthouse.com/raleigh/show/special-event-fire-of-love-w-intro-pre-recorded-q-a): Tue 2/14 (7:30pm)
+
 ### Wed 2/1 6:21pm
 * New movies: 80 for Brady
 
