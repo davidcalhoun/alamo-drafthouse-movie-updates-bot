@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 2/2 9:16pm
+
+* New screenings: 
+    * [Funeral Parade Of Roses](https://drafthouse.com/los-angeles/show/funeral-parade-of-roses): Wed 2/8 (8:00pm)
+
 ### Thu 2/2 5:37pm
 * New movies: Decision to Leave
 
