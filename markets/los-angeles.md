@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Sat 2/4 6:50pm
+
+* New screenings: 
+    * [Baby Ruby](https://drafthouse.com/los-angeles/show/baby-ruby): Sat 2/4 (10:25pm)
+
 ### Fri 2/3 3:17pm
 
 * New screenings: 
