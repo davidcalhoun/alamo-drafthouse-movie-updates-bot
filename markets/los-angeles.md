@@ -1,6 +1,58 @@
 # los-angeles
 
 ## Movie updates
+### Mon 2/6 3:16pm
+* New movies: Close, EO, Everything Everywhere All At Once, Hannah Ha Ha, Fire of Love
+
+* New screenings: 
+    * [Assault On Precinct 13](https://drafthouse.com/los-angeles/show/assault-on-precinct-13): Thu 2/9 (10:20pm)
+
+    * [Audition](https://drafthouse.com/los-angeles/show/audition): Tue 2/14 (10:15pm)
+
+    * [Avatar The Way Of Water](https://drafthouse.com/los-angeles/show/avatar-the-way-of-water): Thu 2/9 (2:00pm, 2:40pm, 6:00pm, 9:30pm), Fri 2/10 (11:30am, 2:00pm, 6:00pm, 9:30pm), Sat 2/11 (11:35am, 2:00pm, 6:00pm, 9:30pm), Sun 2/12 (11:00am, 3:00pm, 6:40pm), Mon 2/13 (11:00am, 3:00pm, 6:30pm), Tue 2/14 (11:00am, 3:00pm, 6:20pm, 9:10pm), Wed 2/15 (11:00am, 3:00pm, 6:30pm)
+
+    * [Baby Ruby](https://drafthouse.com/los-angeles/show/baby-ruby): Thu 2/9 (2:50pm)
+
+    * [Babylon](https://drafthouse.com/los-angeles/show/babylon): Thu 2/9 (5:00pm), Fri 2/10 (4:00pm), Sat 2/11 (7:15pm), Sun 2/12 (5:30pm), Mon 2/13 (3:00pm), Tue 2/14 (5:30pm), Wed 2/15 (5:45pm)
+
+    * [Brunch Screenings Magic Mikes Last Dance Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-magic-mikes-last-dance-brunch): Sun 2/12 (11:00am)
+
+    * [Close](https://drafthouse.com/los-angeles/show/close): Thu 2/9 (7:15pm, 10:15pm), Fri 2/10 (12:00pm, 4:00pm, 7:15pm, 10:15pm), Sat 2/11 (12:00pm, 4:00pm, 7:15pm, 10:15pm), Sun 2/12 (1:00pm, 4:00pm, 7:00pm), Mon 2/13 (1:00pm, 4:00pm, 8:00pm), Tue 2/14 (1:15pm, 4:20pm, 8:00pm, 10:50pm), Wed 2/15 (1:00pm, 4:00pm, 7:00pm)
+
+    * [Eo](https://drafthouse.com/los-angeles/show/eo): Fri 2/10 (11:45am, 6:45pm), Sat 2/11 (3:10pm, 10:30pm), Sun 2/12 (12:00pm), Mon 2/13 (11:15am), Tue 2/14 (11:10am, 3:15pm), Wed 2/15 (11:30am, 4:15pm)
+
+    * [Eternal Sunshine Of The Spotless Mind](https://drafthouse.com/los-angeles/show/eternal-sunshine-of-the-spotless-mind): Tue 2/14 (10:05pm), Wed 2/15 (1:15pm)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/los-angeles/show/everything-everywhere-all-at-once): Thu 2/9 (3:30pm, 5:30pm, 9:45pm), Fri 2/10 (5:45pm, 9:00pm), Sat 2/11 (9:40pm), Sun 2/12 (4:25pm), Mon 2/13 (11:15am, 4:15pm), Tue 2/14 (11:40am, 3:30pm, 9:50pm), Wed 2/15 (12:45pm, 4:30pm)
+
+    * [Everything Everywhere All At Once Brunch](https://drafthouse.com/los-angeles/show/everything-everywhere-all-at-once-brunch): Sat 2/11 (11:45am)
+
+    * [Hannah Ha Ha](https://drafthouse.com/los-angeles/show/hannah-ha-ha): Mon 2/13 (2:00pm), Tue 2/14 (5:35pm), Wed 2/15 (7:00pm)
+
+    * [Infinity Pool](https://drafthouse.com/los-angeles/show/infinity-pool): Thu 2/9 (3:00pm, 6:15pm, 9:30pm), Fri 2/10 (11:45am, 3:00pm, 6:15pm, 9:30pm), Sat 2/11 (11:45am, 3:00pm, 6:15pm, 9:30pm), Sun 2/12 (11:45am, 3:00pm, 6:15pm), Mon 2/13 (11:30am, 2:45pm, 6:00pm), Tue 2/14 (11:30am, 2:45pm, 6:00pm, 9:25pm), Wed 2/15 (11:30am, 2:45pm, 6:00pm)
+
+    * [Knock At The Cabin](https://drafthouse.com/los-angeles/show/knock-at-the-cabin): Thu 2/9 (2:20pm, 5:10pm, 8:00pm, 10:50pm), Fri 2/10 (11:25am, 2:20pm, 5:10pm, 8:00pm, 10:15pm), Sat 2/11 (11:25am, 2:20pm, 5:10pm, 8:00pm, 10:15pm), Sun 2/12 (11:25am, 2:15pm, 5:10pm, 8:00pm), Mon 2/13 (12:15pm, 3:15pm, 6:45pm), Tue 2/14 (11:10am, 2:00pm, 4:50pm, 7:45pm, 10:35pm), Wed 2/15 (12:15pm, 3:15pm, 6:15pm)
+
+    * [M3gan](https://drafthouse.com/los-angeles/show/m3gan): Thu 2/9 (3:00pm, 6:30pm, 10:25pm), Fri 2/10 (11:00am, 3:00pm, 6:30pm, 10:25pm), Sat 2/11 (11:00am, 3:00pm, 6:30pm, 10:25pm), Sun 2/12 (12:00pm, 3:30pm, 7:20pm), Mon 2/13 (12:00pm, 3:30pm, 7:20pm), Tue 2/14 (12:00pm, 3:25pm, 7:25pm, 10:45pm), Wed 2/15 (12:00pm, 3:30pm, 7:20pm)
+
+    * [Magic Mikes Last Dance](https://drafthouse.com/los-angeles/show/magic-mikes-last-dance): Thu 2/9 (7:30pm, 8:30pm, 9:00pm, 9:20pm, 10:35pm), Fri 2/10 (11:15am, 12:30pm, 2:20pm, 2:45pm, 5:30pm, 6:00pm, 8:20pm, 8:40pm, 10:50pm), Sat 2/11 (11:15am, 2:20pm, 5:30pm, 7:30pm, 8:40pm, 10:50pm), Sun 2/12 (2:00pm, 5:00pm, 6:30pm), Mon 2/13 (11:00am, 2:00pm, 5:00pm, 6:15pm, 7:00pm), Tue 2/14 (11:00am, 12:30pm, 2:00pm, 3:45pm, 5:00pm, 6:00pm, 7:00pm, 9:10pm, 10:10pm, 10:20pm), Wed 2/15 (11:15am, 12:30pm, 2:20pm, 3:45pm, 5:30pm, 7:00pm)
+
+    * [Puss In Boots The Last Wish](https://drafthouse.com/los-angeles/show/puss-in-boots-the-last-wish): Thu 2/9 (2:00pm, 4:45pm, 7:30pm), Fri 2/10 (11:00am, 1:50pm, 4:40pm, 7:30pm), Sat 2/11 (11:00am, 1:50pm, 4:40pm, 7:30pm), Sun 2/12 (11:00am, 1:50pm, 4:40pm, 7:30pm), Mon 2/13 (1:00pm, 3:50pm, 6:45pm), Tue 2/14 (12:15pm, 3:15pm, 6:15pm), Wed 2/15 (1:00pm, 3:50pm, 6:45pm)
+
+    * [Special Event Fire Of Love W Intro Pre Recorded Q A](https://drafthouse.com/los-angeles/show/special-event-fire-of-love-w-intro-pre-recorded-q-a): Tue 2/14 (7:15pm)
+
+    * [Tar](https://drafthouse.com/los-angeles/show/tar): Thu 2/9 (3:10pm), Fri 2/10 (2:45pm), Sat 2/11 (5:50pm), Sun 2/12 (12:30pm), Mon 2/13 (12:20pm), Tue 2/14 (1:45pm), Wed 2/15 (6:00pm)
+
+    * [The Fabelmans](https://drafthouse.com/los-angeles/show/the-fabelmans): Thu 2/9 (3:45pm), Fri 2/10 (11:00am), Sat 2/11 (3:30pm), Sun 2/12 (2:45pm), Mon 2/13 (2:45pm), Tue 2/14 (11:45am), Wed 2/15 (2:10pm)
+
+    * [The Whale](https://drafthouse.com/los-angeles/show/the-whale): Thu 2/9 (2:15pm, 5:25pm), Fri 2/10 (11:40am), Sat 2/11 (4:00pm), Sun 2/12 (11:15am), Mon 2/13 (7:45pm), Tue 2/14 (2:15pm), Wed 2/15 (2:30pm)
+
+    * [Wild At Heart](https://drafthouse.com/los-angeles/show/wild-at-heart): Fri 2/10 (2:25pm)
+
+    * [Women Talking](https://drafthouse.com/los-angeles/show/women-talking): Thu 2/9 (2:00pm), Fri 2/10 (1:00pm), Sat 2/11 (1:00pm), Sun 2/12 (2:30pm), Mon 2/13 (12:00pm), Tue 2/14 (11:15am), Wed 2/15 (11:15am)
+
+    * [Youve Got Mail Brunch](https://drafthouse.com/los-angeles/show/youve-got-mail-brunch): Sat 2/11 (12:00pm)
+
 ### Sat 2/4 6:50pm
 
 * New screenings: 
