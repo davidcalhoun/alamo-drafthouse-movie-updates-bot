@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Sun 2/5 9:43pm
+* New movies: Cocaine Bear
+
+* New screenings: 
+    * [Movie Party Cocaine Bear](https://drafthouse.com/raleigh/show/movie-party-cocaine-bear): Sat 2/25 (3:45pm)
+
 ### Fri 2/3 11:29am
 * New movies: 80 for Brady
 
