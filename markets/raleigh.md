@@ -1,6 +1,45 @@
 # raleigh
 
 ## Movie updates
+### Mon 2/6 6:20pm
+
+* New screenings: 
+    * [80 For Brady](https://drafthouse.com/raleigh/show/80-for-brady): Thu 2/9 (1:15pm, 3:15pm, 4:00pm, 6:45pm, 9:30pm)
+
+    * [All Quiet On The Western Front 2022](https://drafthouse.com/raleigh/show/all-quiet-on-the-western-front-2022): Thu 2/9 (3:55pm)
+
+    * [Assault On Precinct 13](https://drafthouse.com/raleigh/show/assault-on-precinct-13): Thu 2/9 (2:55pm)
+
+    * [Avatar The Way Of Water](https://drafthouse.com/raleigh/show/avatar-the-way-of-water): Thu 2/9 (12:30pm, 4:45pm, 9:00pm)
+
+    * [Baby Ruby](https://drafthouse.com/raleigh/show/baby-ruby): Thu 2/9 (12:40pm)
+
+    * [Corpse Bride](https://drafthouse.com/raleigh/show/corpse-bride): Thu 2/9 (11:40am)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/raleigh/show/everything-everywhere-all-at-once): Thu 2/9 (6:00pm, 9:20pm)
+
+    * [Infinity Pool](https://drafthouse.com/raleigh/show/infinity-pool): Thu 2/9 (7:30pm, 10:35pm)
+
+    * [Knock At The Cabin](https://drafthouse.com/raleigh/show/knock-at-the-cabin): Thu 2/9 (1:30pm, 2:15pm, 4:15pm, 7:45pm, 10:30pm)
+
+    * [M3gan](https://drafthouse.com/raleigh/show/m3gan): Thu 2/9 (11:00am, 1:45pm, 4:30pm, 7:15pm, 10:00pm)
+
+    * [Magic Mikes Last Dance](https://drafthouse.com/raleigh/show/magic-mikes-last-dance): Thu 2/9 (5:00pm, 5:30pm, 8:00pm, 8:30pm, 10:55pm)
+
+    * [Missing 2023](https://drafthouse.com/raleigh/show/missing-2023): Thu 2/9 (2:00pm, 4:50pm)
+
+    * [Plane](https://drafthouse.com/raleigh/show/plane): Thu 2/9 (3:40pm)
+
+    * [Puss In Boots The Last Wish](https://drafthouse.com/raleigh/show/puss-in-boots-the-last-wish): Thu 2/9 (11:30am, 12:45pm, 3:30pm, 6:15pm, 9:05pm)
+
+    * [Tar](https://drafthouse.com/raleigh/show/tar): Thu 2/9 (11:15am)
+
+    * [The Fabelmans](https://drafthouse.com/raleigh/show/the-fabelmans): Thu 2/9 (12:00pm)
+
+    * [Triangle Of Sadness](https://drafthouse.com/raleigh/show/triangle-of-sadness): Thu 2/9 (9:15pm)
+
+    * [Women Talking](https://drafthouse.com/raleigh/show/women-talking): Thu 2/9 (1:00pm)
+
 ### Sun 2/5 9:43pm
 * New movies: Cocaine Bear
 
