@@ -1,6 +1,43 @@
 # raleigh
 
 ## Movie updates
+### Tue 2/7 11:29am
+
+* New screenings: 
+    * [80 For Brady](https://drafthouse.com/raleigh/show/80-for-brady): Sat 2/11 (11:45am, 2:15pm, 3:30pm, 6:15pm, 9:05pm), Sun 2/12 (1:15pm, 3:30pm, 3:55pm, 6:15pm), Mon 2/13 (12:15pm, 12:55pm, 3:15pm, 6:15pm, 9:05pm), Tue 2/14 (11:25am, 12:55pm, 3:45pm, 6:30pm, 9:15pm), Wed 2/15 (11:55am, 12:45pm, 3:30pm, 6:15pm, 9:05pm)
+
+    * [Avatar The Way Of Water](https://drafthouse.com/raleigh/show/avatar-the-way-of-water): Sat 2/11 (11:30am, 3:45pm, 8:00pm), Sun 2/12 (10:45am, 3:00pm, 7:15pm), Mon 2/13 (12:30pm, 4:45pm, 9:00pm), Tue 2/14 (12:30pm, 4:45pm, 9:00pm), Wed 2/15 (12:30pm, 4:45pm, 9:00pm)
+
+    * [Eo](https://drafthouse.com/raleigh/show/eo): Sat 2/11 (8:20pm, 10:55pm), Sun 2/12 (6:30pm), Mon 2/13 (5:45pm, 8:15pm), Tue 2/14 (5:55pm, 8:30pm), Wed 2/15 (1:15pm, 7:45pm)
+
+    * [Eternal Sunshine Of The Spotless Mind](https://drafthouse.com/raleigh/show/eternal-sunshine-of-the-spotless-mind): Sat 2/11 (1:30pm, 2:30pm), Sun 2/12 (12:15pm), Tue 2/14 (1:45pm)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/raleigh/show/everything-everywhere-all-at-once): Sat 2/11 (11:15am, 6:30pm), Sun 2/12 (6:45pm), Mon 2/13 (12:20pm, 6:30pm), Tue 2/14 (2:30pm), Wed 2/15 (3:45pm, 7:15pm)
+
+    * [Infinity Pool](https://drafthouse.com/raleigh/show/infinity-pool): Sat 2/11 (7:30pm, 10:40pm), Sun 2/12 (7:45pm), Mon 2/13 (7:30pm, 10:45pm), Tue 2/14 (7:45pm, 10:45pm), Wed 2/15 (7:30pm, 10:30pm)
+
+    * [Knock At The Cabin](https://drafthouse.com/raleigh/show/knock-at-the-cabin): Sat 2/11 (12:30pm, 2:40pm, 4:30pm, 5:00pm, 7:15pm, 10:00pm), Sun 2/12 (11:15am, 2:00pm, 4:45pm, 7:30pm), Mon 2/13 (12:00pm, 2:55pm, 3:55pm, 7:15pm, 10:05pm), Tue 2/14 (12:00pm, 2:45pm, 5:30pm, 8:15pm, 11:00pm), Wed 2/15 (12:55pm, 1:30pm, 3:55pm, 6:45pm, 10:20pm)
+
+    * [M3gan](https://drafthouse.com/raleigh/show/m3gan): Sat 2/11 (12:55pm, 3:55pm, 7:45pm, 10:30pm), Sun 2/12 (11:55am, 2:45pm, 5:00pm, 8:00pm), Mon 2/13 (11:25am, 2:10pm, 4:55pm, 7:45pm, 10:30pm), Tue 2/14 (11:45am, 2:10pm, 4:30pm, 7:15pm, 10:00pm), Wed 2/15 (12:00pm, 2:45pm, 5:30pm, 8:15pm, 11:00pm)
+
+    * [Magic Mikes Last Dance](https://drafthouse.com/raleigh/show/magic-mikes-last-dance): Sat 2/11 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sun 2/12 (12:00pm, 2:15pm, 5:15pm, 8:15pm), Mon 2/13 (10:55am, 2:00pm, 3:00pm, 4:30pm, 5:00pm, 10:40pm), Tue 2/14 (11:00am, 1:30pm, 2:00pm, 5:00pm, 10:20pm), Wed 2/15 (11:00am, 1:00pm, 2:00pm, 4:00pm, 4:30pm, 5:00pm, 8:00pm, 9:30pm, 10:55pm)
+
+    * [Missing 2023](https://drafthouse.com/raleigh/show/missing-2023): Thu 2/9 (12:15pm)
+
+    * [Plane](https://drafthouse.com/raleigh/show/plane): Sat 2/11 (5:25pm), Sun 2/12 (1:25pm), Mon 2/13 (4:25pm), Tue 2/14 (4:40pm), Wed 2/15 (1:40pm)
+
+    * [Puss In Boots The Last Wish](https://drafthouse.com/raleigh/show/puss-in-boots-the-last-wish): Sat 2/11 (11:25am, 2:00pm, 4:45pm, 6:45pm, 9:30pm), Sun 2/12 (12:45pm, 3:15pm, 6:00pm, 8:45pm), Mon 2/13 (11:00am, 1:45pm, 3:45pm, 6:45pm, 9:30pm), Tue 2/14 (12:45pm, 3:30pm, 4:55pm, 6:45pm, 9:30pm), Wed 2/15 (10:55am, 12:25pm, 3:15pm, 6:30pm, 9:15pm)
+
+    * [Tar](https://drafthouse.com/raleigh/show/tar): Sat 2/11 (11:40am), Sun 2/12 (4:15pm), Mon 2/13 (12:45pm), Tue 2/14 (3:00pm), Wed 2/15 (2:45pm)
+
+    * [The Outwaters](https://drafthouse.com/raleigh/show/the-outwaters): Sat 2/11 (5:30pm, 8:30pm), Sun 2/12 (5:30pm, 8:30pm), Mon 2/13 (6:00pm, 8:55pm), Tue 2/14 (6:15pm, 9:10pm), Wed 2/15 (6:00pm, 8:55pm)
+
+    * [Triangle Of Sadness](https://drafthouse.com/raleigh/show/triangle-of-sadness): Sat 2/11 (9:55pm), Sun 2/12 (2:55pm), Mon 2/13 (11:45am, 9:55pm), Tue 2/14 (11:30am), Wed 2/15 (4:15pm, 10:40pm)
+
+    * [Wild At Heart](https://drafthouse.com/raleigh/show/wild-at-heart): Sat 2/11 (3:15pm)
+
+    * [Youve Got Mail Brunch](https://drafthouse.com/raleigh/show/youve-got-mail-brunch): Sun 2/12 (1:45pm)
+
 ### Tue 2/7 10:22am
 * New movies: EO, The Outwaters, Chungking Express
 
