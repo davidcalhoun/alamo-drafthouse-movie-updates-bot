@@ -1,6 +1,42 @@
 # raleigh
 
 ## Movie updates
+### Tue 2/7 10:22am
+* New movies: EO, The Outwaters, Chungking Express
+
+* New screenings: 
+    * [80 For Brady](https://drafthouse.com/raleigh/show/80-for-brady): Fri 2/10 (1:15pm, 3:30pm, 3:45pm, 6:15pm, 9:05pm)
+
+    * [Avatar The Way Of Water](https://drafthouse.com/raleigh/show/avatar-the-way-of-water): Fri 2/10 (12:30pm, 4:45pm, 9:00pm)
+
+    * [Chungking Express](https://drafthouse.com/raleigh/show/chungking-express): Thu 2/9 (4:55pm)
+
+    * [Eo](https://drafthouse.com/raleigh/show/eo): Fri 2/10 (12:00pm, 2:40pm, 5:15pm)
+
+    * [Eternal Sunshine Of The Spotless Mind](https://drafthouse.com/raleigh/show/eternal-sunshine-of-the-spotless-mind): Fri 2/10 (7:45pm)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/raleigh/show/everything-everywhere-all-at-once): Fri 2/10 (6:30pm)
+
+    * [Infinity Pool](https://drafthouse.com/raleigh/show/infinity-pool): Fri 2/10 (7:30pm, 10:35pm)
+
+    * [Knock At The Cabin](https://drafthouse.com/raleigh/show/knock-at-the-cabin): Thu 2/9 (6:00pm), Fri 2/10 (11:30am, 12:55pm, 1:45pm, 4:30pm, 7:15pm, 10:40pm)
+
+    * [M3gan](https://drafthouse.com/raleigh/show/m3gan): Fri 2/10 (12:45pm, 2:45pm, 5:30pm, 8:15pm, 11:00pm)
+
+    * [Magic Mikes Last Dance](https://drafthouse.com/raleigh/show/magic-mikes-last-dance): Fri 2/10 (11:00am, 11:45am, 2:00pm, 5:00pm, 8:00pm, 10:55pm)
+
+    * [Plane](https://drafthouse.com/raleigh/show/plane): Fri 2/10 (3:55pm)
+
+    * [Puss In Boots The Last Wish](https://drafthouse.com/raleigh/show/puss-in-boots-the-last-wish): Fri 2/10 (11:10am, 1:55pm, 4:40pm, 6:45pm, 9:30pm)
+
+    * [Tar](https://drafthouse.com/raleigh/show/tar): Fri 2/10 (2:15pm)
+
+    * [The Outwaters](https://drafthouse.com/raleigh/show/the-outwaters): Fri 2/10 (6:00pm, 8:55pm)
+
+    * [Triangle Of Sadness](https://drafthouse.com/raleigh/show/triangle-of-sadness): Fri 2/10 (9:55pm)
+
+    * [Wild At Heart](https://drafthouse.com/raleigh/show/wild-at-heart): Fri 2/10 (10:00pm)
+
 ### Mon 2/6 6:20pm
 
 * New screenings: 
