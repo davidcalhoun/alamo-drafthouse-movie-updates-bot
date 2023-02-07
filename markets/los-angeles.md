@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 2/7 1:16am
+
+* New screenings: 
+    * [Irreversible Straight Cut](https://drafthouse.com/los-angeles/show/irreversible-straight-cut): Thu 3/2 (3:30pm)
+
 ### Mon 2/6 3:16pm
 * New movies: Close, EO, Everything Everywhere All At Once, Hannah Ha Ha, Fire of Love
 
