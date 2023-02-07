@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Tue 2/7 3:22pm
+* New movies: Demon Slayer: Kimetsu No Yaiba the Movie: Mugen Train Subtitled, Demon Slayer: Kimetsu No Yaiba the Movie: Mugen Train Dubbed
+
+* New screenings: 
+    * [Demon Slayer Kimetsu No Yaiba The Movie Mugen Train Dubbed](https://drafthouse.com/raleigh/show/demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train-dubbed): Sun 3/5 (12:30pm)
+
+    * [Demon Slayer Kimetsu No Yaiba The Movie Mugen Train Dubbed 1](https://drafthouse.com/raleigh/show/demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train-dubbed-1): Fri 3/3 (6:30pm), Sat 3/4 (10:30pm)
+
 ### Tue 2/7 11:29am
 
 * New screenings: 
