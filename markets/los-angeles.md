@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 2/8 8:25am
+* New movies: Scream VI, Scream VI
+
+* New screenings: 
+    * [Fan Event Scream Vi 3d Fan Event](https://drafthouse.com/los-angeles/show/fan-event-scream-vi-3d-fan-event): Thu 3/9 (5:00pm)
+
+    * [Scream Vi](https://drafthouse.com/los-angeles/show/scream-vi): Fri 3/10 (7:00pm), Sat 3/11 (7:00pm)
+
 ### Wed 2/8 7:18am
 * New movies: Emily
 
