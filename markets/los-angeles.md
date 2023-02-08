@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 2/8 7:18am
+* New movies: Emily
+
+* New screenings: 
+    * [Emily](https://drafthouse.com/los-angeles/show/emily): Thu 2/23 (7:15pm, 10:45pm), Fri 2/24 (11:30am, 3:00pm, 6:30pm, 10:00pm), Sat 2/25 (11:30am, 3:00pm, 6:30pm, 10:00pm), Sun 2/26 (11:30am, 3:00pm, 6:30pm)
+
 ### Tue 2/7 1:16am
 
 * New screenings: 
