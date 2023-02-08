@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Wed 2/8 11:30am
+* New movies: Scream VI, Scream VI
+
+* New screenings: 
+    * [Fan Event Scream Vi 3d Fan Event](https://drafthouse.com/raleigh/show/fan-event-scream-vi-3d-fan-event): Thu 3/9 (5:00pm)
+
+    * [Scream Vi](https://drafthouse.com/raleigh/show/scream-vi): Fri 3/10 (7:00pm), Sat 3/11 (7:00pm), Sun 3/12 (7:00pm), Mon 3/13 (7:00pm), Tue 3/14 (7:00pm), Wed 3/15 (7:00pm)
+
 ### Tue 2/7 4:18pm
 
 * New screenings: 
