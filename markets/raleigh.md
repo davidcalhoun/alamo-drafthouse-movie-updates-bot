@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Wed 2/8 3:22pm
+
+* New screenings: 
+    * [Eo](https://drafthouse.com/raleigh/show/eo): Sat 2/11 (8:20pm)
+
+    * [Wild At Heart](https://drafthouse.com/raleigh/show/wild-at-heart): Sat 2/11 (10:50pm)
+
 ### Wed 2/8 11:30am
 * New movies: Scream VI, Scream VI
 
