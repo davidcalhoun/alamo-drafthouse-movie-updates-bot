@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 2/9 5:31am
+* New movies: Fast X
+
+* New screenings: 
+    * [Fast X](https://drafthouse.com/los-angeles/show/fast-x): Thu 5/18 (6:00pm), Fri 5/19 (6:00pm)
+
 ### Wed 2/8 8:25am
 * New movies: Scream VI, Scream VI
 
