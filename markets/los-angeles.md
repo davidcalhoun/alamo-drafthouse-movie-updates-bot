@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 2/9 12:18pm
+
+* New screenings: 
+    * [Fantastic Fest Presents Huesera The Bone Woman W Live Q A](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-huesera-the-bone-woman-w-live-q-a): Sun 2/12 (6:30pm)
+
 ### Thu 2/9 5:31am
 * New movies: Fast X
 
