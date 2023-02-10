@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Fri 2/10 9:20am
+* New movies: Demon Slayer: To the Swordsmith Village Subtitled, Demon Slayer: To the Swordsmith Village Dubbed
+
+* New screenings: 
+    * [Demon Slayer To The Swordsmith Village Dubbed](https://drafthouse.com/raleigh/show/demon-slayer-to-the-swordsmith-village-dubbed): Sun 3/5 (12:30pm), Wed 3/8 (6:30pm)
+
+    * [Demon Slayer To The Swordsmith Village Subtitled](https://drafthouse.com/raleigh/show/demon-slayer-to-the-swordsmith-village-subtitled): Fri 3/3 (6:30pm), Sat 3/4 (10:30pm), Mon 3/6 (6:30pm), Tue 3/7 (6:30pm), Thu 3/9 (6:30pm)
+
 ### Thu 2/9 8:34am
 * New movies: Fast X
 
