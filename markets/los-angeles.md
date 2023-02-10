@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 2/10 6:16am
+* New movies: Demon Slayer: To the Swordsmith Village Subtitled, Demon Slayer: To the Swordsmith Village Dubbed
+
+* New screenings: 
+    * [Demon Slayer To The Swordsmith Village Dubbed](https://drafthouse.com/los-angeles/show/demon-slayer-to-the-swordsmith-village-dubbed): Sun 3/5 (2:30pm), Wed 3/8 (6:30pm)
+
+    * [Demon Slayer To The Swordsmith Village Subtitled](https://drafthouse.com/los-angeles/show/demon-slayer-to-the-swordsmith-village-subtitled): Fri 3/3 (6:40pm), Sat 3/4 (10:00pm), Mon 3/6 (6:30pm), Tue 3/7 (6:30pm)
+
 ### Thu 2/9 5:39pm
 
 * New screenings: 
