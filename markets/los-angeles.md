@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Thu 2/9 5:39pm
+
+* New screenings: 
+    * [Huesera](https://drafthouse.com/los-angeles/show/huesera): Fri 2/10 (10:50pm), Sat 2/11 (10:30pm)
+
+    * [Irreversible Straight Cut](https://drafthouse.com/los-angeles/show/irreversible-straight-cut): Wed 3/1 (7:00pm)
+
 ### Thu 2/9 12:18pm
 
 * New screenings: 
