@@ -1,6 +1,20 @@
 # raleigh
 
 ## Movie updates
+### Fri 2/10 11:30am
+* New movies: Raw 2016, The Matrix, The Virgin Suicides
+
+* New screenings: 
+    * [Ant Man And The Wasp Quantumania](https://drafthouse.com/raleigh/show/ant-man-and-the-wasp-quantumania): Thu 3/2 (12:30pm, 3:45pm)
+
+    * [Cocaine Bear](https://drafthouse.com/raleigh/show/cocaine-bear): Sun 2/26 (11:15am, 2:00pm, 4:45pm), Wed 3/1 (7:30pm, 10:15pm)
+
+    * [Raw](https://drafthouse.com/raleigh/show/raw): Wed 3/8 (9:30pm)
+
+    * [The Matrix](https://drafthouse.com/raleigh/show/the-matrix): Fri 3/3 (9:30pm)
+
+    * [The Virgin Suicides](https://drafthouse.com/raleigh/show/the-virgin-suicides): Sun 3/5 (3:30pm)
+
 ### Fri 2/10 9:20am
 * New movies: Demon Slayer: To the Swordsmith Village Subtitled, Demon Slayer: To the Swordsmith Village Dubbed
 
