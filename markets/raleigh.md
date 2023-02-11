@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Sat 2/11 3:21pm
+* New movies: Marcel the Shell with Shoes On
+
+* New screenings: 
+    * [Marcel The Shell With Shoes On](https://drafthouse.com/raleigh/show/marcel-the-shell-with-shoes-on): Sat 2/25 (11:00am)
+
 ### Fri 2/10 11:30am
 * New movies: Raw 2016, The Matrix, The Virgin Suicides
 
