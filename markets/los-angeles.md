@@ -1,6 +1,36 @@
 # los-angeles
 
 ## Movie updates
+### Mon 2/13 3:18pm
+* New movies: Of An Age, The Outwaters
+
+* New screenings: 
+    * [Ant Man And The Wasp Quantumania](https://drafthouse.com/los-angeles/show/ant-man-and-the-wasp-quantumania): Thu 2/16 (3:15pm, 3:25pm, 5:25pm, 6:30pm, 6:35pm, 6:45pm, 8:45pm, 9:55pm, 10:05pm), Fri 2/17 (11:20am, 12:30pm, 12:50pm, 2:40pm, 3:55pm, 4:10pm, 6:00pm, 7:15pm, 7:30pm, 9:20pm, 10:50pm), Sat 2/18 (12:50pm, 1:50pm, 4:10pm, 5:10pm, 7:30pm, 8:35pm, 10:50pm), Sun 2/19 (11:15am, 1:00pm, 1:45pm, 2:40pm, 4:20pm, 6:00pm, 7:40pm), Mon 2/20 (11:20am, 1:00pm, 2:40pm, 4:20pm, 4:45pm, 7:40pm), Tue 2/21 (11:15am, 11:30am, 1:00pm, 1:45pm, 2:40pm, 4:20pm, 6:00pm, 7:40pm), Wed 2/22 (11:15am, 11:30am, 1:00pm, 1:45pm, 2:40pm, 4:20pm, 6:00pm, 7:40pm)
+
+    * [Ant Man And The Wasp Quantumania Brunch](https://drafthouse.com/los-angeles/show/ant-man-and-the-wasp-quantumania-brunch): Sat 2/18 (11:30am), Sun 2/19 (11:30am)
+
+    * [Avatar The Way Of Water](https://drafthouse.com/los-angeles/show/avatar-the-way-of-water): Thu 2/16 (3:30pm)
+
+    * [Close](https://drafthouse.com/los-angeles/show/close): Thu 2/16 (4:00pm, 7:10pm, 10:05pm), Fri 2/17 (12:00pm, 3:00pm, 6:15pm, 9:20pm), Sat 2/18 (12:00pm, 3:00pm, 6:15pm, 9:20pm), Sun 2/19 (11:00am, 3:00pm, 6:15pm), Mon 2/20 (12:00pm, 4:00pm, 7:15pm), Tue 2/21 (11:00am, 3:00pm, 6:15pm), Wed 2/22 (11:00am, 3:00pm, 6:15pm)
+
+    * [Coffy](https://drafthouse.com/los-angeles/show/coffy): Wed 2/22 (5:10pm)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/los-angeles/show/everything-everywhere-all-at-once): Thu 2/16 (9:50pm), Fri 2/17 (5:15pm, 8:45pm), Sat 2/18 (9:00pm), Mon 2/20 (5:15pm), Tue 2/21 (5:20pm), Wed 2/22 (5:20pm)
+
+    * [Infinity Pool](https://drafthouse.com/los-angeles/show/infinity-pool): Thu 2/16 (2:45pm, 6:00pm, 9:15pm), Fri 2/17 (11:15am, 2:40pm, 6:00pm, 9:30pm), Sat 2/18 (11:25am, 2:40pm, 6:00pm, 9:30pm), Sun 2/19 (11:15am, 2:40pm, 6:00pm), Mon 2/20 (11:20am, 2:45pm, 6:10pm), Tue 2/21 (11:15am, 2:40pm, 6:00pm), Wed 2/22 (11:15am, 2:40pm, 6:00pm)
+
+    * [Knock At The Cabin](https://drafthouse.com/los-angeles/show/knock-at-the-cabin): Thu 2/16 (4:30pm, 7:20pm, 10:10pm), Fri 2/17 (12:15pm, 3:15pm, 6:15pm, 9:10pm), Sat 2/18 (12:25pm, 3:20pm, 6:15pm, 9:10pm), Sun 2/19 (12:15pm, 3:15pm, 6:15pm), Mon 2/20 (11:10am, 3:00pm, 6:00pm), Tue 2/21 (12:15pm, 3:15pm, 6:15pm), Wed 2/22 (12:15pm, 3:15pm, 6:15pm)
+
+    * [Live Qa The Outwaters](https://drafthouse.com/los-angeles/show/live-qa-the-outwaters): Mon 2/20 (7:00pm)
+
+    * [M3gan](https://drafthouse.com/los-angeles/show/m3gan): Thu 2/16 (2:30pm)
+
+    * [Magic Mikes Last Dance](https://drafthouse.com/los-angeles/show/magic-mikes-last-dance): Thu 2/16 (3:00pm, 6:00pm, 9:10pm), Fri 2/17 (11:30am, 2:45pm, 6:00pm, 9:05pm), Sat 2/18 (11:35am, 2:45pm, 6:00pm, 9:15pm), Sun 2/19 (12:45pm, 4:00pm, 7:15pm), Mon 2/20 (12:35pm, 3:45pm, 6:00pm), Tue 2/21 (12:45pm, 4:00pm, 7:15pm), Wed 2/22 (12:45pm, 4:00pm, 7:15pm)
+
+    * [Of An Age](https://drafthouse.com/los-angeles/show/of-an-age): Thu 2/16 (7:50pm, 10:40pm), Fri 2/17 (11:00am, 2:00pm, 5:00pm, 8:00pm, 11:00pm), Sat 2/18 (11:00am, 2:05pm, 5:00pm, 7:50pm, 10:40pm), Sun 2/19 (11:00am, 2:00pm, 4:50pm, 7:45pm), Mon 2/20 (11:00am, 2:00pm, 5:10pm, 8:00pm), Tue 2/21 (11:00am, 2:05pm, 5:00pm, 7:50pm), Wed 2/22 (11:00am, 2:00pm, 4:50pm, 7:45pm)
+
+    * [Puss In Boots The Last Wish](https://drafthouse.com/los-angeles/show/puss-in-boots-the-last-wish): Thu 2/16 (3:35pm), Fri 2/17 (11:30am, 2:25pm), Sat 2/18 (11:15am), Sun 2/19 (11:30am, 2:25pm), Mon 2/20 (11:35am, 2:25pm), Tue 2/21 (11:30am, 2:25pm), Wed 2/22 (11:30am, 2:25pm)
+
 ### Fri 2/10 6:16am
 * New movies: Demon Slayer: To the Swordsmith Village Subtitled, Demon Slayer: To the Swordsmith Village Dubbed
 
