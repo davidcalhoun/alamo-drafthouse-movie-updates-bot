@@ -1,6 +1,18 @@
 # raleigh
 
 ## Movie updates
+### Mon 2/13 3:23pm
+* New movies: Der Fan, Millennium Mambo, A Scanner Darkly, Booksmart
+
+* New screenings: 
+    * [A Scanner Darkly](https://drafthouse.com/raleigh/show/a-scanner-darkly): Mon 3/20 (9:50pm)
+
+    * [Der Fan](https://drafthouse.com/raleigh/show/der-fan): Wed 3/22 (9:30pm)
+
+    * [In Brunch We Trust Booksmart](https://drafthouse.com/raleigh/show/in-brunch-we-trust-booksmart): Sat 3/18 (11:00am)
+
+    * [Millennium Mambo](https://drafthouse.com/raleigh/show/millennium-mambo): Sun 3/19 (12:30pm)
+
 ### Sat 2/11 3:21pm
 * New movies: Marcel the Shell with Shoes On
 
