@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 2/14 2:17pm
+* New movies: Near Dark
+
+* New screenings: 
+    * [Near Dark](https://drafthouse.com/los-angeles/show/near-dark): Tue 2/28 (8:00pm), Wed 3/1 (8:00pm)
+
 ### Mon 2/13 6:49pm
 
 * New screenings: 
