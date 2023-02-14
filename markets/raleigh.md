@@ -1,6 +1,41 @@
 # raleigh
 
 ## Movie updates
+### Mon 2/13 8:52pm
+
+* New screenings: 
+    * [80 For Brady](https://drafthouse.com/raleigh/show/80-for-brady): Thu 2/16 (11:15am)
+
+    * [Ant Man And The Wasp Quantumania](https://drafthouse.com/raleigh/show/ant-man-and-the-wasp-quantumania): Thu 2/16 (3:30pm, 4:30pm, 5:00pm, 5:30pm, 6:45pm, 7:45pm, 8:15pm, 8:45pm, 10:00pm, 11:00pm, 11:30pm), Fri 2/17 (12:00am)
+
+    * [Avatar The Way Of Water](https://drafthouse.com/raleigh/show/avatar-the-way-of-water): Thu 2/16 (12:15pm, 4:45pm, 9:00pm)
+
+    * [Eo](https://drafthouse.com/raleigh/show/eo): Thu 2/16 (1:55pm)
+
+    * [Eternal Sunshine Of The Spotless Mind](https://drafthouse.com/raleigh/show/eternal-sunshine-of-the-spotless-mind): Thu 2/16 (2:40pm)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/raleigh/show/everything-everywhere-all-at-once): Thu 2/16 (12:30pm)
+
+    * [Infinity Pool](https://drafthouse.com/raleigh/show/infinity-pool): Thu 2/16 (8:30pm)
+
+    * [Knock At The Cabin](https://drafthouse.com/raleigh/show/knock-at-the-cabin): Thu 2/16 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm)
+
+    * [M3gan](https://drafthouse.com/raleigh/show/m3gan): Thu 2/16 (9:15pm)
+
+    * [Magic Mikes Last Dance](https://drafthouse.com/raleigh/show/magic-mikes-last-dance): Thu 2/16 (12:00pm, 1:00pm, 3:55pm, 7:00pm, 9:55pm)
+
+    * [Plane](https://drafthouse.com/raleigh/show/plane): Thu 2/16 (12:40pm)
+
+    * [Puss In Boots The Last Wish](https://drafthouse.com/raleigh/show/puss-in-boots-the-last-wish): Thu 2/16 (12:55pm, 3:45pm, 6:30pm)
+
+    * [Tar](https://drafthouse.com/raleigh/show/tar): Thu 2/16 (1:15pm)
+
+    * [The Outwaters](https://drafthouse.com/raleigh/show/the-outwaters): Thu 2/16 (2:00pm)
+
+    * [Triangle Of Sadness](https://drafthouse.com/raleigh/show/triangle-of-sadness): Thu 2/16 (4:55pm)
+
+    * [Wild At Heart](https://drafthouse.com/raleigh/show/wild-at-heart): Thu 2/16 (11:30am)
+
 ### Mon 2/13 3:23pm
 * New movies: Der Fan, Millennium Mambo, A Scanner Darkly, Booksmart
 
