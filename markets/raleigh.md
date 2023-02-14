@@ -1,6 +1,30 @@
 # raleigh
 
 ## Movie updates
+### Tue 2/14 11:32am
+* New movies: Sharper
+
+* New screenings: 
+    * [80 For Brady](https://drafthouse.com/raleigh/show/80-for-brady): Fri 2/17 (10:45am), Sat 2/18 (10:30am), Sun 2/19 (3:30pm), Mon 2/20 (12:45pm), Tue 2/21 (4:00pm), Wed 2/22 (2:00pm)
+
+    * [Ant Man And The Wasp Quantumania](https://drafthouse.com/raleigh/show/ant-man-and-the-wasp-quantumania): Fri 2/17 (10:50am, 11:30am, 12:00pm, 12:30pm, 1:30pm, 2:00pm, 3:00pm, 3:30pm, 4:00pm, 5:15pm, 6:30pm, 7:00pm, 7:30pm, 8:45pm, 9:00pm, 10:00pm, 10:30pm), Sat 2/18 (10:15am, 11:15am, 11:30am, 12:00pm, 12:30pm, 1:45pm, 2:50pm, 3:00pm, 3:30pm, 4:00pm, 5:15pm, 6:30pm, 7:00pm, 7:30pm, 9:00pm, 9:45pm, 10:00pm, 10:30pm), Sun 2/19 (11:15am, 11:30am, 12:00pm, 12:30pm, 1:00pm, 2:30pm, 3:00pm, 4:00pm, 4:30pm, 5:45pm, 6:30pm, 6:45pm, 7:30pm, 8:00pm, 9:00pm, 10:00pm, 10:30pm), Mon 2/20 (11:30am, 12:30pm, 1:30pm, 2:00pm, 3:00pm, 4:00pm, 5:00pm, 5:30pm, 6:30pm, 6:45pm, 7:30pm, 8:30pm, 9:05pm, 10:00pm), Tue 2/21 (11:00am, 12:00pm, 12:50pm, 1:30pm, 2:15pm, 2:30pm, 3:15pm, 4:45pm, 5:30pm, 6:30pm, 8:00pm, 8:45pm, 9:00pm, 9:45pm), Wed 2/22 (11:00am, 12:00pm, 2:15pm, 3:00pm, 3:15pm, 4:15pm, 4:45pm, 5:30pm, 6:30pm, 6:45pm, 7:30pm, 8:00pm, 9:05pm, 9:45pm)
+
+    * [Avatar The Way Of Water](https://drafthouse.com/raleigh/show/avatar-the-way-of-water): Fri 2/17 (12:45pm, 5:00pm, 9:15pm), Sat 2/18 (12:45pm, 5:00pm, 9:15pm), Sun 2/19 (12:45pm, 5:00pm, 9:15pm), Mon 2/20 (1:00pm, 5:15pm, 9:30pm), Tue 2/21 (1:00pm, 5:15pm, 9:30pm), Wed 2/22 (12:55pm, 5:15pm, 9:30pm)
+
+    * [Cocaine Bear](https://drafthouse.com/raleigh/show/cocaine-bear): Wed 3/1 (11:15am, 2:00pm, 4:45pm)
+
+    * [Infinity Pool](https://drafthouse.com/raleigh/show/infinity-pool): Fri 2/17 (10:55pm), Sat 2/18 (8:45pm), Sun 2/19 (11:00pm), Mon 2/20 (11:00pm), Tue 2/21 (8:50pm), Wed 2/22 (11:00pm)
+
+    * [Knock At The Cabin](https://drafthouse.com/raleigh/show/knock-at-the-cabin): Fri 2/17 (11:55am, 2:45pm, 5:30pm, 8:15pm, 11:00pm), Sat 2/18 (11:55am, 2:40pm, 5:30pm, 8:15pm, 10:40pm), Sun 2/19 (11:55am, 2:45pm, 5:30pm, 8:15pm, 9:05pm), Mon 2/20 (11:45am, 2:30pm, 5:25pm, 8:15pm, 10:40pm), Tue 2/21 (11:25am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Wed 2/22 (1:30pm, 2:40pm, 5:25pm, 8:15pm, 10:45pm)
+
+    * [M3gan](https://drafthouse.com/raleigh/show/m3gan): Fri 2/17 (9:45pm), Sat 2/18 (11:05pm), Sun 2/19 (10:55pm), Mon 2/20 (10:55pm), Tue 2/21 (9:50pm), Wed 2/22 (9:55pm)
+
+    * [Magic Mikes Last Dance](https://drafthouse.com/raleigh/show/magic-mikes-last-dance): Fri 2/17 (12:15pm, 3:15pm, 4:45pm, 7:45pm, 10:40pm), Sat 2/18 (10:55am, 1:50pm, 4:45pm, 7:45pm, 10:40pm), Sun 2/19 (10:55am, 1:50pm, 4:45pm, 7:45pm, 10:45pm), Mon 2/20 (11:00am, 1:45pm, 3:50pm, 7:45pm, 9:55pm), Tue 2/21 (12:25pm, 1:15pm, 4:15pm, 5:45pm, 7:15pm, 10:15pm), Wed 2/22 (11:45am, 1:15pm, 4:20pm, 7:15pm, 10:20pm)
+
+    * [Puss In Boots The Last Wish](https://drafthouse.com/raleigh/show/puss-in-boots-the-last-wish): Fri 2/17 (1:00pm, 3:55pm, 6:15pm), Sat 2/18 (1:10pm, 3:55pm, 6:15pm), Sun 2/19 (12:55pm, 3:55pm, 6:15pm), Mon 2/20 (12:55pm, 3:30pm, 6:15pm), Tue 2/21 (11:45am, 3:30pm, 6:15pm), Wed 2/22 (12:15pm, 4:00pm, 6:15pm)
+
+    * [Sharper](https://drafthouse.com/raleigh/show/sharper): Fri 2/17 (6:45pm), Sat 2/18 (6:45pm), Sun 2/19 (9:55pm), Mon 2/20 (4:45pm), Tue 2/21 (6:45pm), Wed 2/22 (1:00pm)
+
 ### Mon 2/13 8:52pm
 
 * New screenings: 
