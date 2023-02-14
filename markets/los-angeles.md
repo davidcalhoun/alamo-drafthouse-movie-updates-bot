@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 2/13 6:49pm
+
+* New screenings: 
+    * [Ant Man And The Wasp Quantumania](https://drafthouse.com/los-angeles/show/ant-man-and-the-wasp-quantumania): Tue 2/21 (9:00pm)
+
 ### Mon 2/13 3:18pm
 * New movies: Of An Age, The Outwaters
 
