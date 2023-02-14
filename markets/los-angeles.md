@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 2/14 3:17pm
+* New movies: Cocaine Bear
+
+* New screenings: 
+    * [Movie Party Cocaine Bear](https://drafthouse.com/los-angeles/show/movie-party-cocaine-bear): Sat 2/25 (10:00pm)
+
 ### Tue 2/14 2:17pm
 * New movies: Near Dark
 
