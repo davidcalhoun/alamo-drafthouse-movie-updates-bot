@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 2/15 2:17pm
+* New movies: Glow: The Story of the Gorgeous Ladies of Wrestling
+
+
+
 ### Wed 2/15 1:15pm
 * New movies: Ithaka, GLOW: THE STORY OF THE GORGEOUS LADIES OF WRESTLING
 
