@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 2/14 7:22pm
+* New movies: Out of Time: The Material Issue Story, Marcel the Shell with Shoes On
+
+* New screenings: 
+    * [Live Q A Out Of Time The Material Issue Story](https://drafthouse.com/los-angeles/show/live-q-a-out-of-time-the-material-issue-story): Fri 2/24 (7:00pm)
+
+    * [Marcel The Shell With Shoes On](https://drafthouse.com/los-angeles/show/marcel-the-shell-with-shoes-on): Sat 2/25 (3:00pm)
+
 ### Tue 2/14 3:17pm
 * New movies: Cocaine Bear
 
