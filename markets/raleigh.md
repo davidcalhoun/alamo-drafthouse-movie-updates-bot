@@ -1,6 +1,18 @@
 # raleigh
 
 ## Movie updates
+### Wed 2/15 1:27pm
+* New movies: Bram Stoker's Dracula 1992, Ithaka, Unicorn Wars Subtitled
+
+* New screenings: 
+    * [Advance Screening Unicorn Wars Subtitled](https://drafthouse.com/raleigh/show/advance-screening-unicorn-wars-subtitled): Mon 3/6 (9:30pm)
+
+    * [Brunch Screenings Bram Stokers Dracula 1992 Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-bram-stokers-dracula-1992-brunch): Sat 3/11 (12:30pm)
+
+    * [Live Q A Ithaka](https://drafthouse.com/raleigh/show/live-q-a-ithaka): Sun 3/12 (4:00pm)
+
+    * [Scream Vi](https://drafthouse.com/raleigh/show/scream-vi): Sat 3/11 (3:45pm)
+
 ### Tue 2/14 11:32am
 * New movies: Sharper
 
