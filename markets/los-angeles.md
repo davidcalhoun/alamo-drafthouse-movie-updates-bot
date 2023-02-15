@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 2/15 12:19pm
+* New movies: All Quiet on the Western Front 2022, Yes, Madam!
+
+* New screenings: 
+    * [All Quiet On The Western Front 2022](https://drafthouse.com/los-angeles/show/all-quiet-on-the-western-front-2022): Mon 3/6 (3:15pm), Tue 3/7 (3:15pm)
+
+    * [Yes Madam](https://drafthouse.com/los-angeles/show/yes-madam): Wed 3/22 (8:00pm)
+
 ### Tue 2/14 8:22pm
 * New movies: Rock 'n' Roll High School, TAR, Millennium Mambo, Daughters of the Dust, Booksmart, Johnny Mnemonic in Black and White, Show Me Love, The Matrix, The Matrix Reloaded / Revolutions Double Feature, The Virgin Suicides, Unicorn Wars Subtitled
 
