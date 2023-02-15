@@ -1,6 +1,24 @@
 # raleigh
 
 ## Movie updates
+### Wed 2/15 2:17pm
+* New movies: Real Genius, Daisies, Daughters of the Dust, Johnny Mnemonic in Black and White, Show Me Love, Speed Racer, Yes, Madam!
+
+* New screenings: 
+    * [Brunch Screenings Real Genius Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-real-genius-brunch): Sat 3/25 (12:15pm)
+
+    * [Daisies](https://drafthouse.com/raleigh/show/daisies): Wed 3/29 (9:30pm)
+
+    * [Daughters Of The Dust](https://drafthouse.com/raleigh/show/daughters-of-the-dust): Sun 3/12 (12:00pm)
+
+    * [Livestream Q A Johnny Mnemonic In Black And White W Pre Recorded Q A](https://drafthouse.com/raleigh/show/livestream-q-a-johnny-mnemonic-in-black-and-white-w-pre-recorded-q-a): Mon 3/13 (10:15pm)
+
+    * [Show Me Love](https://drafthouse.com/raleigh/show/show-me-love): Sun 3/26 (12:15pm)
+
+    * [Speed Racer](https://drafthouse.com/raleigh/show/speed-racer): Mon 3/27 (6:00pm)
+
+    * [Yes Madam](https://drafthouse.com/raleigh/show/yes-madam): Wed 3/22 (7:00pm)
+
 ### Wed 2/15 1:27pm
 * New movies: Bram Stoker's Dracula 1992, Ithaka, Unicorn Wars Subtitled
 
