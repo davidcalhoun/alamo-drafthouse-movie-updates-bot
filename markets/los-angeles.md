@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 2/15 1:15pm
+* New movies: Ithaka, GLOW: THE STORY OF THE GORGEOUS LADIES OF WRESTLING
+
+* New screenings: 
+    * [Glow The Story Of The Gorgeous Ladies Of Wrestling W Filmmakers Live](https://drafthouse.com/los-angeles/show/glow-the-story-of-the-gorgeous-ladies-of-wrestling-w-filmmakers-live): Tue 3/14 (8:00pm), Wed 3/15 (8:00pm)
+
+    * [Live Q A Ithaka](https://drafthouse.com/los-angeles/show/live-q-a-ithaka): Sat 3/4 (6:30pm)
+
 ### Wed 2/15 12:19pm
 * New movies: All Quiet on the Western Front 2022, Yes, Madam!
 
