@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 2/16 2:17pm
+
+* New screenings: 
+    * [Ant Man And The Wasp Quantumania](https://drafthouse.com/los-angeles/show/ant-man-and-the-wasp-quantumania): Thu 2/16 (9:50pm, 10:05pm), Fri 2/17 (9:20pm), Sat 2/18 (9:10pm, 9:30pm)
+
 ### Thu 2/16 9:15am
 * New movies: Shazam! Fury of the Gods
 
