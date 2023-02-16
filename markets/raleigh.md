@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Thu 2/16 11:30am
+* New movies: Shazam! Fury of the Gods, Shazam! Fury of the Gods
+
+* New screenings: 
+    * [Brunch Screenings Shazam Fury Of The Gods Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-shazam-fury-of-the-gods-brunch): Sun 3/19 (11:30am)
+
+    * [Shazam Fury Of The Gods](https://drafthouse.com/raleigh/show/shazam-fury-of-the-gods): Thu 3/16 (3:00pm, 6:15pm, 9:30pm), Fri 3/17 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Sun 3/19 (2:45pm, 6:00pm, 9:15pm)
+
 ### Wed 2/15 8:50pm
 * New movies: Bill & Ted's Excellent Adventure
 
