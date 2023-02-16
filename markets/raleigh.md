@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 2/15 8:50pm
+* New movies: Bill & Ted's Excellent Adventure
+
+* New screenings: 
+    * [Movie Party Bill Teds Excellent Adventure](https://drafthouse.com/raleigh/show/movie-party-bill-teds-excellent-adventure): Mon 3/20 (7:00pm)
+
 ### Wed 2/15 2:17pm
 * New movies: Real Genius, Daisies, Daughters of the Dust, Johnny Mnemonic in Black and White, Show Me Love, Speed Racer, Yes, Madam!
 
