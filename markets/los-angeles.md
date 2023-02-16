@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 2/15 5:37pm
+* New movies: Bill & Ted's Excellent Adventure
+
+* New screenings: 
+    * [Movie Party Bill Teds Excellent Adventure](https://drafthouse.com/los-angeles/show/movie-party-bill-teds-excellent-adventure): Wed 3/15 (7:00pm)
+
 ### Wed 2/15 3:18pm
 * New movies: Country Gold, The Box 2009
 
