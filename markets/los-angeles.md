@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 2/16 9:15am
+* New movies: Shazam! Fury of the Gods
+
+* New screenings: 
+    * [Shazam Fury Of The Gods](https://drafthouse.com/los-angeles/show/shazam-fury-of-the-gods): Thu 3/16 (3:30pm, 7:00pm, 10:30pm), Fri 3/17 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sat 3/18 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sun 3/19 (12:00pm, 3:30pm, 7:00pm)
+
 ### Wed 2/15 5:37pm
 * New movies: Bill & Ted's Excellent Adventure
 
