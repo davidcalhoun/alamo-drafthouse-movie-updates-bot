@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 2/17 10:22am
+
+* New screenings: 
+    * [Scream Vi](https://drafthouse.com/raleigh/show/scream-vi): Fri 3/10 (10:15pm), Sat 3/11 (10:15pm), Sun 3/12 (12:30pm, 10:15pm)
+
 ### Thu 2/16 9:55pm
 * New movies: Silver Bullet
 
