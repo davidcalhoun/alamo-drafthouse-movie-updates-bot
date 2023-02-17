@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 2/16 5:39pm
+* New movies: Crouching Tiger, Hidden Dragon
+
+* New screenings: 
+    * [Crouching Tiger Hidden Dragon](https://drafthouse.com/los-angeles/show/crouching-tiger-hidden-dragon): Fri 2/17 (10:35pm), Sun 2/19 (5:15pm), Mon 2/20 (1:50pm), Tue 2/21 (4:55pm)
+
 ### Thu 2/16 2:17pm
 
 * New screenings: 
