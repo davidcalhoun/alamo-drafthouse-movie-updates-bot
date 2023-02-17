@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 2/17 4:18pm
+* New movies: Female Prisoner Scorpion: Jailhouse 41
+
+* New screenings: 
+    * [Female Prisoner Scorpion Jailhouse 41](https://drafthouse.com/raleigh/show/female-prisoner-scorpion-jailhouse-41): Tue 3/14 (10:15pm)
+
 ### Fri 2/17 12:19pm
 * New movies: Creed III
 
