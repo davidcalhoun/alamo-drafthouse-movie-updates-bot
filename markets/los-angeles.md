@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 2/17 9:15am
+* New movies: Creed III
+
+* New screenings: 
+    * [Creed Iii](https://drafthouse.com/los-angeles/show/creed-iii): Thu 3/2 (7:00pm), Fri 3/3 (7:00pm), Sat 3/4 (7:00pm), Sun 3/5 (7:00pm)
+
 ### Thu 2/16 10:22pm
 * New movies: 2023 Oscar Nominated Shorts: Live Action, 2023 Oscar Nominated Shorts: Animation, A Scanner Darkly, Bram Stoker's Dracula 1992, Speed Racer
 
