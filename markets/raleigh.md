@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 2/17 12:19pm
+* New movies: Creed III
+
+* New screenings: 
+    * [Creed Iii](https://drafthouse.com/raleigh/show/creed-iii): Thu 3/2 (7:00pm, 10:00pm), Fri 3/3 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sat 3/4 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sun 3/5 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Mon 3/6 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Tue 3/7 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Wed 3/8 (1:00pm, 4:00pm, 7:00pm, 10:00pm)
+
 ### Fri 2/17 10:22am
 
 * New screenings: 
