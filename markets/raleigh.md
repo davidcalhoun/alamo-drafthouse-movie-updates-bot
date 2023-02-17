@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 2/16 9:55pm
+* New movies: Silver Bullet
+
+* New screenings: 
+    * [Terror Tuesday Silver Bullet](https://drafthouse.com/raleigh/show/terror-tuesday-silver-bullet): Tue 8/1 (9:30pm)
+
 ### Thu 2/16 11:30am
 * New movies: Shazam! Fury of the Gods, Shazam! Fury of the Gods
 
