@@ -1,6 +1,22 @@
 # los-angeles
 
 ## Movie updates
+### Thu 2/16 10:22pm
+* New movies: 2023 Oscar Nominated Shorts: Live Action, 2023 Oscar Nominated Shorts: Animation, A Scanner Darkly, Bram Stoker's Dracula 1992, Speed Racer
+
+* New screenings: 
+    * [2023 Oscar Nominated Shorts Animation](https://drafthouse.com/los-angeles/show/2023-oscar-nominated-shorts-animation): Thu 2/23 (7:00pm), Fri 2/24 (1:15pm, 7:15pm), Sat 2/25 (4:20pm, 10:10pm), Sun 2/26 (1:15pm)
+
+    * [2023 Oscar Nominated Shorts Live Action](https://drafthouse.com/los-angeles/show/2023-oscar-nominated-shorts-live-action): Thu 2/23 (9:50pm), Fri 2/24 (4:10pm, 10:10pm), Sat 2/25 (1:15pm, 7:15pm), Sun 2/26 (4:10pm, 7:15pm)
+
+    * [A Scanner Darkly](https://drafthouse.com/los-angeles/show/a-scanner-darkly): Sun 3/19 (2:00pm)
+
+    * [Brunch Screenings Bram Stokers Dracula 1992 Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-bram-stokers-dracula-1992-brunch): Sat 3/11 (11:00am)
+
+    * [Cocaine Bear](https://drafthouse.com/los-angeles/show/cocaine-bear): Fri 2/24 (4:40pm, 7:30pm, 10:20pm), Sat 2/25 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Sun 2/26 (4:40pm, 7:30pm)
+
+    * [Speed Racer](https://drafthouse.com/los-angeles/show/speed-racer): Sat 3/25 (11:00am)
+
 ### Thu 2/16 5:39pm
 * New movies: Crouching Tiger, Hidden Dragon
 
