@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Sat 2/18 3:21pm
+* New movies: Sleepaway Camp, Something's Gotta Give
+
+* New screenings: 
+    * [Brunch Screenings Somethings Gotta Give](https://drafthouse.com/raleigh/show/brunch-screenings-somethings-gotta-give): Sat 3/4 (11:00am)
+
+    * [Live Q A Sleepaway Camp](https://drafthouse.com/raleigh/show/live-q-a-sleepaway-camp): Mon 4/17 (7:00pm)
+
 ### Fri 2/17 4:18pm
 * New movies: Female Prisoner Scorpion: Jailhouse 41
 
