@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 2/20 3:22pm
+
+* New screenings: 
+    * [Cocaine Bear](https://drafthouse.com/raleigh/show/cocaine-bear): Tue 2/28 (8:00pm)
+
 ### Mon 2/20 12:19pm
 * New movies: Irreversible: Straight Cut
 
