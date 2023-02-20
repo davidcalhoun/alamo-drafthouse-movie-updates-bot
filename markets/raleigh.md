@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 2/20 11:30am
+
+* New screenings: 
+    * [Graveyard Shift Possession 1981](https://drafthouse.com/raleigh/show/graveyard-shift-possession-1981): Tue 2/28 (4:45pm)
+
 ### Sat 2/18 3:21pm
 * New movies: Sleepaway Camp, Something's Gotta Give
 
