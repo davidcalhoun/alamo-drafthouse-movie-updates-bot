@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Mon 2/20 12:19pm
+* New movies: Irreversible: Straight Cut
+
+* New screenings: 
+    * [Graveyard Shift Possession 1981](https://drafthouse.com/raleigh/show/graveyard-shift-possession-1981): Wed 3/1 (4:15pm)
+
+    * [Irreversible Straight Cut](https://drafthouse.com/raleigh/show/irreversible-straight-cut): Tue 2/28 (9:30pm)
+
 ### Mon 2/20 11:30am
 
 * New screenings: 
