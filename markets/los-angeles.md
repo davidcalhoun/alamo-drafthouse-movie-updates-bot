@@ -1,6 +1,15 @@
 # los-angeles
 
 ## Movie updates
+### Mon 2/20 10:21am
+
+* New screenings: 
+    * [Cocaine Bear](https://drafthouse.com/los-angeles/show/cocaine-bear): Fri 2/24 (11:00am, 1:50pm), Sun 2/26 (11:00am, 1:50pm)
+
+    * [Reds](https://drafthouse.com/los-angeles/show/reds): Fri 2/24 (11:15am)
+
+    * [Twin Peaks Fire Walk With Me](https://drafthouse.com/los-angeles/show/twin-peaks-fire-walk-with-me): Fri 2/24 (6:35pm)
+
 ### Fri 2/17 9:15am
 * New movies: Creed III
 
