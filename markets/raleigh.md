@@ -1,6 +1,34 @@
 # raleigh
 
 ## Movie updates
+### Tue 2/21 3:23pm
+* New movies: Close, Wattstax, Bring It On, Reds
+
+* New screenings: 
+    * [Ant Man And The Wasp Quantumania](https://drafthouse.com/raleigh/show/ant-man-and-the-wasp-quantumania): Fri 2/24 (11:30am, 12:00pm, 12:45pm, 3:15pm, 3:45pm, 7:00pm, 8:30pm, 10:15pm), Sat 2/25 (12:15pm, 12:30pm, 1:30pm, 2:30pm, 3:30pm, 4:45pm, 5:45pm, 7:00pm, 9:40pm, 10:05pm), Sun 2/26 (11:00am, 1:45pm, 2:15pm, 4:30pm, 5:00pm, 5:30pm, 8:15pm, 8:45pm), Mon 2/27 (11:00am, 11:30am, 12:40pm, 1:00pm, 1:45pm, 2:15pm, 2:45pm, 3:50pm, 4:15pm, 5:00pm, 5:30pm, 6:00pm, 7:00pm, 8:45pm, 9:15pm, 10:15pm)
+
+    * [Avatar The Way Of Water](https://drafthouse.com/raleigh/show/avatar-the-way-of-water): Fri 2/24 (12:30pm, 4:45pm, 9:00pm), Sat 2/25 (2:00pm, 6:15pm, 10:30pm), Sun 2/26 (12:30pm, 4:45pm, 9:00pm), Mon 2/27 (12:30pm, 4:45pm, 9:00pm)
+
+    * [Brunch Screenings Bring It On Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-bring-it-on-brunch): Sun 2/26 (12:55pm)
+
+    * [Close](https://drafthouse.com/raleigh/show/close): Fri 2/24 (3:55pm, 6:15pm), Sat 2/25 (4:25pm, 7:15pm), Sun 2/26 (3:55pm, 7:45pm), Mon 2/27 (3:55pm, 6:45pm)
+
+    * [Cocaine Bear](https://drafthouse.com/raleigh/show/cocaine-bear): Fri 2/24 (11:45am, 1:45pm, 3:00pm, 4:30pm, 5:15pm, 5:45pm, 7:15pm, 8:00pm, 10:50pm), Sat 2/25 (11:45am, 2:15pm, 5:00pm, 7:45pm, 8:00pm, 10:15pm, 10:30pm, 10:45pm), Sun 2/26 (5:45pm, 8:30pm, 10:40pm), Mon 2/27 (12:45pm, 3:30pm, 4:30pm, 7:45pm, 9:40pm, 10:30pm)
+
+    * [Irreversible Straight Cut](https://drafthouse.com/raleigh/show/irreversible-straight-cut): Sat 2/25 (9:00pm)
+
+    * [Knock At The Cabin](https://drafthouse.com/raleigh/show/knock-at-the-cabin): Fri 2/24 (12:15pm, 2:45pm, 5:30pm, 8:15pm, 11:00pm), Sat 2/25 (11:30am, 2:45pm, 5:30pm, 8:15pm, 11:00pm), Sun 2/26 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Mon 2/27 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm)
+
+    * [Magic Mikes Last Dance](https://drafthouse.com/raleigh/show/magic-mikes-last-dance): Fri 2/24 (12:20pm, 12:50pm, 3:20pm, 6:45pm, 10:45pm), Sat 2/25 (11:50am, 12:55pm, 4:00pm, 6:45pm, 10:40pm), Sun 2/26 (10:45am, 1:30pm, 3:50pm, 6:45pm, 9:40pm), Mon 2/27 (12:55pm, 1:30pm, 4:50pm, 7:15pm, 10:10pm)
+
+    * [Puss In Boots The Last Wish](https://drafthouse.com/raleigh/show/puss-in-boots-the-last-wish): Fri 2/24 (11:00am, 2:30pm), Sat 2/25 (10:55am, 1:40pm), Sun 2/26 (12:15pm, 3:00pm), Mon 2/27 (11:15am, 2:00pm)
+
+    * [Reds](https://drafthouse.com/raleigh/show/reds): Mon 2/27 (8:15pm)
+
+    * [Twin Peaks Fire Walk With Me](https://drafthouse.com/raleigh/show/twin-peaks-fire-walk-with-me): Fri 2/24 (9:05pm)
+
+    * [Wattstax](https://drafthouse.com/raleigh/show/wattstax): Sat 2/25 (11:15am), Sun 2/26 (1:00pm)
+
 ### Mon 2/20 3:22pm
 
 * New screenings: 
