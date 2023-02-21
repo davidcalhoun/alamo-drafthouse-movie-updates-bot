@@ -1,6 +1,33 @@
 # raleigh
 
 ## Movie updates
+### Tue 2/21 4:19pm
+
+* New screenings: 
+    * [80 For Brady](https://drafthouse.com/raleigh/show/80-for-brady): Thu 2/23 (11:00am)
+
+    * [Ant Man And The Wasp Quantumania](https://drafthouse.com/raleigh/show/ant-man-and-the-wasp-quantumania): Thu 2/23 (11:30am, 12:00pm, 1:00pm, 1:45pm, 3:15pm, 4:00pm, 4:15pm, 6:30pm, 7:30pm, 9:45pm, 10:40pm), Tue 2/28 (11:00am, 11:30am, 12:30pm, 1:30pm, 2:15pm, 2:45pm, 3:45pm, 5:00pm, 5:30pm, 6:00pm, 8:45pm, 9:15pm), Wed 3/1 (11:30am, 12:30pm, 1:00pm, 1:30pm, 2:30pm, 2:45pm, 3:45pm, 4:15pm, 4:45pm, 5:45pm, 6:00pm, 9:20pm)
+
+    * [Avatar The Way Of Water](https://drafthouse.com/raleigh/show/avatar-the-way-of-water): Thu 2/23 (12:10pm, 4:40pm, 9:00pm), Tue 2/28 (12:25pm, 4:45pm, 9:00pm), Wed 3/1 (12:40pm, 5:00pm, 9:15pm)
+
+    * [Close](https://drafthouse.com/raleigh/show/close): Thu 2/23 (8:00pm, 10:50pm), Tue 2/28 (4:40pm, 7:30pm), Wed 3/1 (3:55pm, 8:00pm)
+
+    * [Cocaine Bear](https://drafthouse.com/raleigh/show/cocaine-bear): Thu 2/23 (5:30pm, 7:15pm, 8:15pm, 10:00pm, 10:55pm), Tue 2/28 (11:15am, 11:45am, 2:30pm, 5:15pm, 5:45pm, 8:30pm, 10:20pm, 10:45pm), Wed 3/1 (11:45am, 1:15pm, 6:15pm, 6:45pm, 8:55pm, 9:30pm, 10:15pm, 10:50pm, 11:05pm)
+
+    * [Infinity Pool](https://drafthouse.com/raleigh/show/infinity-pool): Thu 2/23 (12:15pm)
+
+    * [Knock At The Cabin](https://drafthouse.com/raleigh/show/knock-at-the-cabin): Thu 2/23 (1:15pm, 2:45pm, 6:45pm, 9:30pm), Tue 2/28 (10:55am, 1:45pm, 4:30pm, 7:15pm, 10:00pm), Wed 3/1 (10:55am, 1:45pm, 4:30pm, 7:15pm, 10:00pm)
+
+    * [M3gan](https://drafthouse.com/raleigh/show/m3gan): Thu 2/23 (5:15pm)
+
+    * [Magic Mikes Last Dance](https://drafthouse.com/raleigh/show/magic-mikes-last-dance): Thu 2/23 (12:40pm, 3:20pm, 6:15pm, 9:10pm), Tue 2/28 (12:55pm, 2:00pm, 3:50pm, 6:45pm, 9:40pm), Wed 3/1 (11:15am, 2:15pm, 5:15pm, 8:10pm, 10:05pm)
+
+    * [Puss In Boots The Last Wish](https://drafthouse.com/raleigh/show/puss-in-boots-the-last-wish): Thu 2/23 (11:45am, 2:30pm), Tue 2/28 (12:15pm, 3:00pm), Wed 3/1 (12:45pm, 3:30pm)
+
+    * [Reds](https://drafthouse.com/raleigh/show/reds): Tue 2/28 (8:15pm)
+
+    * [Sharper](https://drafthouse.com/raleigh/show/sharper): Thu 2/23 (3:40pm)
+
 ### Tue 2/21 3:23pm
 * New movies: Close, Wattstax, Bring It On, Reds
 
