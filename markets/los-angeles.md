@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 2/21 10:22am
+* New movies: Fugue
+
+* New screenings: 
+    * [Live Q A Fugue](https://drafthouse.com/los-angeles/show/live-q-a-fugue): Mon 3/13 (7:30pm)
+
+    * [Live Q A Sleepaway Camp](https://drafthouse.com/los-angeles/show/live-q-a-sleepaway-camp): Sun 3/12 (7:00pm)
+
 ### Mon 2/20 5:39pm
 * New movies: Written on the Wind
 
