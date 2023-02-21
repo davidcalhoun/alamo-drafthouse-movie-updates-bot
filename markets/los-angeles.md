@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Mon 2/20 5:39pm
+* New movies: Written on the Wind
+
+* New screenings: 
+    * [Crouching Tiger Hidden Dragon](https://drafthouse.com/los-angeles/show/crouching-tiger-hidden-dragon): Tue 2/21 (11:15am), Wed 2/22 (11:45am)
+
+    * [Written On The Wind](https://drafthouse.com/los-angeles/show/written-on-the-wind): Tue 2/21 (11:45am)
+
 ### Mon 2/20 10:21am
 
 * New screenings: 
