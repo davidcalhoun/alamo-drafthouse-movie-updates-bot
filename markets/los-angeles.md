@@ -1,6 +1,54 @@
 # los-angeles
 
 ## Movie updates
+### Tue 2/21 11:14am
+* New movies: A House Made of Splinters, Everything Everywhere All At Once
+
+* New screenings: 
+    * [2023 Oscar Nominated Shorts Animation](https://drafthouse.com/los-angeles/show/2023-oscar-nominated-shorts-animation): Mon 2/27 (2:10pm, 5:00pm), Tue 2/28 (11:10am, 5:00pm), Wed 3/1 (2:10pm, 8:00pm)
+
+    * [2023 Oscar Nominated Shorts Live Action](https://drafthouse.com/los-angeles/show/2023-oscar-nominated-shorts-live-action): Mon 2/27 (11:10am, 7:45pm), Tue 2/28 (2:00pm, 7:45pm), Wed 3/1 (11:10am, 5:00pm)
+
+    * [A House Made Of Splinters](https://drafthouse.com/los-angeles/show/a-house-made-of-splinters): Mon 2/27 (2:40pm), Tue 2/28 (2:50pm), Wed 3/1 (4:30pm)
+
+    * [Ant Man And The Wasp Quantumania](https://drafthouse.com/los-angeles/show/ant-man-and-the-wasp-quantumania): Thu 2/23 (2:40pm, 5:45pm, 8:50pm), Fri 2/24 (11:00am, 2:15pm, 5:30pm, 8:50pm), Sat 2/25 (11:45am, 9:05pm), Sun 2/26 (11:00am, 2:15pm, 5:30pm), Mon 2/27 (11:00am, 2:15pm, 5:30pm), Tue 2/28 (11:00am, 1:15pm, 2:15pm, 4:35pm, 5:30pm, 7:30pm), Wed 3/1 (11:00am, 1:00pm, 2:15pm, 4:30pm, 5:30pm)
+
+    * [Brunch Screenings Bring It On Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-bring-it-on-brunch): Sun 2/26 (11:00am)
+
+    * [Close](https://drafthouse.com/los-angeles/show/close): Thu 2/23 (4:00pm)
+
+    * [Cocaine Bear](https://drafthouse.com/los-angeles/show/cocaine-bear): Thu 2/23 (6:00pm, 6:45pm, 8:40pm, 9:35pm), Fri 2/24 (6:45pm), Mon 2/27 (11:00am, 1:00pm, 1:50pm, 3:50pm, 4:40pm, 6:45pm, 7:30pm), Tue 2/28 (11:00am, 1:00pm, 1:50pm, 3:50pm, 4:40pm, 6:45pm, 8:00pm), Wed 3/1 (11:00am, 12:45pm, 1:50pm, 3:45pm, 4:40pm, 6:45pm, 7:30pm)
+
+    * [Coffy](https://drafthouse.com/los-angeles/show/coffy): Thu 2/23 (3:00pm)
+
+    * [Crouching Tiger Hidden Dragon](https://drafthouse.com/los-angeles/show/crouching-tiger-hidden-dragon): Thu 2/23 (5:30pm), Fri 2/24 (12:00pm), Tue 2/28 (11:35am)
+
+    * [Emily](https://drafthouse.com/los-angeles/show/emily): Mon 2/27 (11:30am, 3:00pm, 6:30pm), Tue 2/28 (11:30am, 3:00pm, 6:30pm), Wed 3/1 (11:30am, 3:00pm, 6:30pm)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/los-angeles/show/everything-everywhere-all-at-once): Thu 2/23 (3:45pm, 9:00pm), Sun 2/26 (1:45pm), Wed 3/1 (2:50pm)
+
+    * [Graveyard Shift Possession 1981](https://drafthouse.com/los-angeles/show/graveyard-shift-possession-1981): Fri 2/24 (3:20pm), Sat 2/25 (9:00pm), Wed 3/1 (1:15pm)
+
+    * [Infinity Pool](https://drafthouse.com/los-angeles/show/infinity-pool): Thu 2/23 (3:30pm, 9:10pm), Fri 2/24 (2:45pm, 9:00pm), Sat 2/25 (2:45pm, 9:00pm), Sun 2/26 (2:45pm), Mon 2/27 (2:45pm), Tue 2/28 (2:45pm), Wed 3/1 (2:45pm)
+
+    * [Irreversible Straight Cut](https://drafthouse.com/los-angeles/show/irreversible-straight-cut): Thu 2/23 (9:50pm)
+
+    * [Knock At The Cabin](https://drafthouse.com/los-angeles/show/knock-at-the-cabin): Thu 2/23 (3:20pm, 6:15pm, 9:10pm), Fri 2/24 (12:30pm, 3:20pm, 6:15pm, 9:10pm), Sat 2/25 (12:00pm, 3:15pm, 6:15pm, 10:00pm), Sun 2/26 (12:30pm, 3:20pm, 6:15pm), Mon 2/27 (12:20pm, 3:10pm, 6:00pm), Tue 2/28 (12:20pm, 3:10pm, 6:00pm), Wed 3/1 (12:30pm, 3:20pm, 6:10pm)
+
+    * [Live Q A Everything Everywhere All At Once](https://drafthouse.com/los-angeles/show/live-q-a-everything-everywhere-all-at-once): Sat 2/25 (5:00pm)
+
+    * [Magic Mikes Last Dance](https://drafthouse.com/los-angeles/show/magic-mikes-last-dance): Thu 2/23 (4:20pm, 7:25pm, 10:30pm), Fri 2/24 (1:15pm, 4:20pm, 7:25pm, 10:30pm), Sat 2/25 (1:15pm, 4:20pm, 7:25pm, 10:30pm), Sun 2/26 (1:15pm, 4:20pm, 7:20pm), Mon 2/27 (1:10pm, 4:15pm, 7:20pm), Tue 2/28 (1:10pm, 4:15pm, 7:20pm), Wed 3/1 (1:10pm, 4:10pm, 7:15pm)
+
+    * [Of An Age](https://drafthouse.com/los-angeles/show/of-an-age): Thu 2/23 (3:20pm, 6:15pm), Fri 2/24 (11:50am, 6:00pm), Sat 2/25 (11:50am, 6:00pm), Sun 2/26 (11:50am, 6:00pm), Mon 2/27 (11:50am, 6:00pm), Tue 2/28 (11:50am, 6:00pm), Wed 3/1 (11:50am, 6:00pm)
+
+    * [Puss In Boots The Last Wish](https://drafthouse.com/los-angeles/show/puss-in-boots-the-last-wish): Thu 2/23 (2:40pm)
+
+    * [Reds](https://drafthouse.com/los-angeles/show/reds): Mon 2/27 (11:45am)
+
+    * [Training Day](https://drafthouse.com/los-angeles/show/training-day): Sat 2/25 (12:40pm), Mon 2/27 (11:25am), Wed 3/1 (11:35am)
+
+    * [Twin Peaks Fire Walk With Me](https://drafthouse.com/los-angeles/show/twin-peaks-fire-walk-with-me): Tue 2/28 (12:45pm)
+
 ### Tue 2/21 10:22am
 * New movies: Fugue
 
