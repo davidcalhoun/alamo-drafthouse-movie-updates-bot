@@ -1,6 +1,22 @@
 # los-angeles
 
 ## Movie updates
+### Wed 2/22 3:16pm
+* New movies: Return to Seoul, Ithaka, RRR, A House Made of Splinters, Spring Breakers, Fist of the Condor
+
+* New screenings: 
+    * [Fist Of The Condor](https://drafthouse.com/los-angeles/show/fist-of-the-condor): Tue 4/4 (4:00pm)
+
+    * [Ithaka](https://drafthouse.com/los-angeles/show/ithaka): Fri 3/3 (1:00pm), Mon 3/6 (3:30pm), Tue 3/7 (5:00pm), Wed 3/8 (5:00pm)
+
+    * [Live Q A A House Made Of Splinters](https://drafthouse.com/los-angeles/show/live-q-a-a-house-made-of-splinters): Wed 3/8 (7:30pm)
+
+    * [Return To Seoul](https://drafthouse.com/los-angeles/show/return-to-seoul): Thu 3/2 (7:15pm, 10:30pm), Fri 3/3 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Sat 3/4 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Sun 3/5 (12:45pm, 4:00pm, 7:15pm)
+
+    * [Special Event Rrr Fan Celebrrration](https://drafthouse.com/los-angeles/show/special-event-rrr-fan-celebrrration): Fri 3/3 (9:40pm), Sat 3/4 (11:00am)
+
+    * [Spring Breakers](https://drafthouse.com/los-angeles/show/spring-breakers): Wed 3/15 (7:30pm)
+
 ### Tue 2/21 11:14am
 * New movies: A House Made of Splinters, Everything Everywhere All At Once
 
