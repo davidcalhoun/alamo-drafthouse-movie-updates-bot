@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Tue 2/21 8:49pm
+
+* New screenings: 
+    * [Ant Man And The Wasp Quantumania](https://drafthouse.com/raleigh/show/ant-man-and-the-wasp-quantumania): Thu 3/2 (11:30am, 12:30pm, 2:45pm, 3:45pm, 6:00pm, 9:15pm)
+
+    * [Cocaine Bear](https://drafthouse.com/raleigh/show/cocaine-bear): Thu 3/2 (11:00am, 1:50pm, 4:30pm, 7:15pm, 9:55pm)
+
 ### Tue 2/21 4:19pm
 
 * New screenings: 
