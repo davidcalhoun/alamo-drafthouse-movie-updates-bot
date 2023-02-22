@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Wed 2/22 4:19pm
+* New movies: Spring Breakers, Fist of the Condor
+
+* New screenings: 
+    * [Fist Of The Condor](https://drafthouse.com/raleigh/show/fist-of-the-condor): Tue 4/4 (7:00pm)
+
+    * [Spring Breakers](https://drafthouse.com/raleigh/show/spring-breakers): Wed 3/15 (8:00pm)
+
 ### Tue 2/21 8:49pm
 
 * New screenings: 
