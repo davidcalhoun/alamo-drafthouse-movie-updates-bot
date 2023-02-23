@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 2/22 6:46pm
+* New movies: Constantine, Chop & Steele
+
+* New screenings: 
+    * [Constantine](https://drafthouse.com/los-angeles/show/constantine): Fri 3/10 (10:15pm), Sat 3/11 (10:20pm)
+
+    * [Live Q A Chop Steele](https://drafthouse.com/los-angeles/show/live-q-a-chop-steele): Thu 4/13 (7:00pm), Fri 4/14 (7:00pm)
+
 ### Wed 2/22 5:25pm
 
 * New screenings: 
