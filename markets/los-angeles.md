@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 2/22 5:25pm
+
+* New screenings: 
+    * [Scream Vi](https://drafthouse.com/los-angeles/show/scream-vi): Fri 3/10 (12:20pm)
+
 ### Wed 2/22 3:16pm
 * New movies: Return to Seoul, Ithaka, RRR, A House Made of Splinters, Spring Breakers, Fist of the Condor
 
