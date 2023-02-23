@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Thu 2/23 1:27pm
+
+* New screenings: 
+    * [Ant Man And The Wasp Quantumania](https://drafthouse.com/raleigh/show/ant-man-and-the-wasp-quantumania): Thu 2/23 (2:30pm)
+
 ### Wed 2/22 4:19pm
 * New movies: Spring Breakers, Fist of the Condor
 
