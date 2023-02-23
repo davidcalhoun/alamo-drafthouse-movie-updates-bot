@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 2/23 12:19pm
+
+* New screenings: 
+    * [Cocaine Bear](https://drafthouse.com/los-angeles/show/cocaine-bear): Sun 2/26 (6:00pm)
+
 ### Wed 2/22 6:46pm
 * New movies: Constantine, Chop & Steele
 
