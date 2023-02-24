@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 2/23 5:35pm
+* New movies: Smoking Causes Coughing
+
+* New screenings: 
+    * [Fantastic Fest Presents Smoking Causes Coughing Advance Screening](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-smoking-causes-coughing-advance-screening): Mon 3/27 (7:00pm)
+
 ### Thu 2/23 12:19pm
 
 * New screenings: 
