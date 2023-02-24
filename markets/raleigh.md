@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Thu 2/23 8:48pm
+* New movies: Smoking Causes Coughing
+
+* New screenings: 
+    * [Fantastic Fest Presents Smoking Causes Coughing Advance Screening](https://drafthouse.com/raleigh/show/fantastic-fest-presents-smoking-causes-coughing-advance-screening): Mon 3/27 (9:30pm)
+
+    * [Graveyard Shift Possession 1981](https://drafthouse.com/raleigh/show/graveyard-shift-possession-1981): Sun 2/26 (8:15pm)
+
 ### Thu 2/23 1:27pm
 
 * New screenings: 
