@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 2/24 2:17pm
+
+* New screenings: 
+    * [Special Event Rrr Fan Celebrrration](https://drafthouse.com/los-angeles/show/special-event-rrr-fan-celebrrration): Fri 3/3 (6:15pm), Sat 3/4 (5:00pm), Sun 3/5 (3:10pm)
+
 ### Fri 2/24 1:14pm
 
 * New screenings: 
