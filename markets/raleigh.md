@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Fri 2/24 1:27pm
+* New movies: Chop & Steele
+
+* New screenings: 
+    * [Live Q A Chop Steele](https://drafthouse.com/raleigh/show/live-q-a-chop-steele): Thu 4/20 (7:00pm)
+
+    * [Scream Vi](https://drafthouse.com/raleigh/show/scream-vi): Fri 3/10 (12:50pm, 3:55pm), Mon 3/13 (12:50pm, 3:55pm), Tue 3/14 (12:50pm, 3:55pm), Wed 3/15 (12:50pm, 3:55pm, 10:15pm)
+
 ### Thu 2/23 8:48pm
 * New movies: Smoking Causes Coughing
 
