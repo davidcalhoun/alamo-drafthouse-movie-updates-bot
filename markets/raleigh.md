@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Fri 2/24 2:17pm
+
+* New screenings: 
+    * [Scream Vi](https://drafthouse.com/raleigh/show/scream-vi): Thu 3/16 (11:55am)
+
+    * [Shazam Fury Of The Gods](https://drafthouse.com/raleigh/show/shazam-fury-of-the-gods): Mon 3/20 (12:30pm, 3:45pm), Tue 3/21 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Wed 3/22 (11:30am, 2:45pm, 6:00pm, 9:15pm)
+
 ### Fri 2/24 1:27pm
 * New movies: Chop & Steele
 
