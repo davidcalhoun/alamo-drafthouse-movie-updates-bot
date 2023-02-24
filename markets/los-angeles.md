@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 2/24 1:14pm
+
+* New screenings: 
+    * [Cocaine Bear](https://drafthouse.com/los-angeles/show/cocaine-bear): Fri 2/24 (10:30pm), Sat 2/25 (12:00pm, 10:15pm), Sun 2/26 (12:30pm)
+
 ### Fri 2/24 12:19pm
 * New movies: The Ants & The Grasshopper
 
