@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 2/24 12:19pm
+* New movies: The Ants & The Grasshopper
+
+* New screenings: 
+    * [Live Q A The Ants The Grasshopper](https://drafthouse.com/los-angeles/show/live-q-a-the-ants-the-grasshopper): Fri 3/31 (7:00pm)
+
 ### Thu 2/23 5:35pm
 * New movies: Smoking Causes Coughing
 
