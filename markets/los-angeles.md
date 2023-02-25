@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Sat 2/25 1:14pm
+
+* New screenings: 
+    * [Ant Man And The Wasp Quantumania](https://drafthouse.com/los-angeles/show/ant-man-and-the-wasp-quantumania): Sat 2/25 (9:05pm)
+
 ### Fri 2/24 2:17pm
 
 * New screenings: 
