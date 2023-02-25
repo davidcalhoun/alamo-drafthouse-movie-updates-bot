@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Sat 2/25 12:19pm
+
+* New screenings: 
+    * [Brunch Screenings Shazam Fury Of The Gods Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-shazam-fury-of-the-gods-brunch): Sat 3/18 (11:30am)
+
+    * [Shazam Fury Of The Gods](https://drafthouse.com/raleigh/show/shazam-fury-of-the-gods): Sat 3/18 (2:45pm, 6:00pm, 9:15pm), Thu 3/23 (11:45am)
+
 ### Fri 2/24 2:17pm
 
 * New screenings: 
