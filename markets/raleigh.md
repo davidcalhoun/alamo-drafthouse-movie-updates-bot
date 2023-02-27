@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 2/27 5:22pm
+* New movies: On Cinema at the Cinema Special
+
+* New screenings: 
+    * [On Cinema At The Cinema Special](https://drafthouse.com/raleigh/show/on-cinema-at-the-cinema-special): Sun 3/12 (8:00pm)
+
 ### Mon 2/27 3:23pm
 * New movies: RRR, History of the World, Part 1
 
