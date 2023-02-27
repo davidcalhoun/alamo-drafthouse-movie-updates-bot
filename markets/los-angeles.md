@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 2/27 12:19pm
+* New movies: Something's Gotta Give
+
+* New screenings: 
+    * [Brunch Screenings Somethings Gotta Give](https://drafthouse.com/los-angeles/show/brunch-screenings-somethings-gotta-give): Sat 3/18 (11:30am)
+
 ### Mon 2/27 1:19am
 
 * New screenings: 
