@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Mon 2/27 12:24am
+
+* New screenings: 
+    * [Creed Iii](https://drafthouse.com/los-angeles/show/creed-iii): Thu 3/2 (10:10pm), Fri 3/3 (12:30pm, 3:45pm, 10:15pm)
+
+    * [Special Event Rrr Fan Celebrrration](https://drafthouse.com/los-angeles/show/special-event-rrr-fan-celebrrration): Sun 3/5 (7:30pm)
+
 ### Sat 2/25 1:14pm
 
 * New screenings: 
