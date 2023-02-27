@@ -1,6 +1,32 @@
 # raleigh
 
 ## Movie updates
+### Mon 2/27 6:22pm
+* New movies: Wattstax, Operation Fortune: Ruse de Guerre
+
+* New screenings: 
+    * [Ant Man And The Wasp Quantumania](https://drafthouse.com/raleigh/show/ant-man-and-the-wasp-quantumania): Thu 3/2 (1:00pm, 1:30pm, 2:00pm, 4:15pm, 4:45pm, 5:15pm)
+
+    * [Avatar The Way Of Water](https://drafthouse.com/raleigh/show/avatar-the-way-of-water): Thu 3/2 (12:25pm, 4:40pm, 8:15pm)
+
+    * [Close](https://drafthouse.com/raleigh/show/close): Thu 3/2 (10:15pm)
+
+    * [Cocaine Bear](https://drafthouse.com/raleigh/show/cocaine-bear): Thu 3/2 (11:15am, 2:50pm, 5:30pm)
+
+    * [Creed Iii](https://drafthouse.com/raleigh/show/creed-iii): Thu 3/2 (7:30pm, 8:00pm, 8:30pm, 9:00pm, 10:30pm, 11:00pm)
+
+    * [Knock At The Cabin](https://drafthouse.com/raleigh/show/knock-at-the-cabin): Thu 3/2 (12:15pm, 2:15pm, 5:00pm, 7:45pm, 10:35pm)
+
+    * [Magic Mikes Last Dance](https://drafthouse.com/raleigh/show/magic-mikes-last-dance): Thu 3/2 (12:55pm, 3:00pm)
+
+    * [Operation Fortune](https://drafthouse.com/raleigh/show/operation-fortune): Thu 3/2 (6:45pm, 9:45pm)
+
+    * [Puss In Boots The Last Wish](https://drafthouse.com/raleigh/show/puss-in-boots-the-last-wish): Thu 3/2 (11:25am)
+
+    * [Reds](https://drafthouse.com/raleigh/show/reds): Thu 3/2 (5:55pm)
+
+    * [Wattstax](https://drafthouse.com/raleigh/show/wattstax): Thu 3/2 (12:00pm)
+
 ### Mon 2/27 5:22pm
 * New movies: On Cinema at the Cinema Special
 
