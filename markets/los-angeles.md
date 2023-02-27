@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Mon 2/27 1:19am
+
+* New screenings: 
+    * [Creed Iii](https://drafthouse.com/los-angeles/show/creed-iii): Thu 3/2 (7:15pm)
+
+    * [Scream Vi](https://drafthouse.com/los-angeles/show/scream-vi): Thu 3/9 (8:30pm)
+
 ### Mon 2/27 12:24am
 
 * New screenings: 
