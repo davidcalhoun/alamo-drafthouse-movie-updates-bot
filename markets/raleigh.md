@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Mon 2/27 3:23pm
+* New movies: RRR, History of the World, Part 1
+
+* New screenings: 
+    * [History Of The World Part 1](https://drafthouse.com/raleigh/show/history-of-the-world-part-1): Fri 3/3 (3:45pm)
+
+    * [Special Event Rrr Fan Celebrrration](https://drafthouse.com/raleigh/show/special-event-rrr-fan-celebrrration): Sat 3/4 (6:00pm), Sun 3/5 (6:15pm), Mon 3/6 (2:15pm), Tue 3/7 (9:30pm), Wed 3/8 (2:15pm)
+
 ### Sat 2/25 12:19pm
 
 * New screenings: 
