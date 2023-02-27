@@ -1,6 +1,44 @@
 # los-angeles
 
 ## Movie updates
+### Mon 2/27 2:17pm
+* New movies: Operation Fortune: Ruse de Guerre, History of the World, Part 1, Flaming Ears
+
+* New screenings: 
+    * [2023 Oscar Nominated Shorts Animation](https://drafthouse.com/los-angeles/show/2023-oscar-nominated-shorts-animation): Thu 3/2 (5:00pm, 7:45pm), Fri 3/3 (4:15pm, 10:00pm), Sat 3/4 (12:45pm, 6:45pm), Sun 3/5 (2:00pm, 7:45pm), Mon 3/6 (11:00am, 4:50pm), Tue 3/7 (2:00pm, 7:45pm), Wed 3/8 (11:00am, 4:50pm)
+
+    * [2023 Oscar Nominated Shorts Live Action](https://drafthouse.com/los-angeles/show/2023-oscar-nominated-shorts-live-action): Thu 3/2 (3:00pm, 10:30pm), Fri 3/3 (1:00pm, 7:00pm), Sat 3/4 (3:35pm, 9:30pm), Sun 3/5 (11:00am, 4:45pm), Mon 3/6 (1:50pm, 7:40pm), Tue 3/7 (11:00am, 4:45pm), Wed 3/8 (1:50pm, 7:40pm)
+
+    * [Ant Man And The Wasp Quantumania](https://drafthouse.com/los-angeles/show/ant-man-and-the-wasp-quantumania): Thu 3/2 (3:10pm, 3:40pm, 6:00pm, 10:00pm), Fri 3/3 (11:30am, 2:45pm, 6:00pm, 9:15pm), Sat 3/4 (11:30am, 2:45pm, 6:00pm, 9:15pm), Sun 3/5 (11:30am, 2:45pm, 6:00pm), Mon 3/6 (11:30am, 2:45pm, 6:00pm), Tue 3/7 (11:30am, 2:45pm, 6:00pm), Wed 3/8 (11:30am, 2:45pm, 6:00pm)
+
+    * [Cocaine Bear](https://drafthouse.com/los-angeles/show/cocaine-bear): Thu 3/2 (3:15pm, 4:40pm, 6:30pm, 7:30pm, 9:40pm, 10:20pm), Fri 3/3 (11:15am, 1:20pm, 2:00pm, 4:50pm, 7:20pm, 7:45pm, 10:30pm), Sat 3/4 (11:15am, 1:00pm, 2:00pm, 4:50pm, 7:10pm, 7:45pm, 10:30pm), Sun 3/5 (11:15am, 1:25pm, 2:00pm, 4:50pm, 7:20pm, 7:45pm), Mon 3/6 (11:15am, 1:25pm, 2:00pm, 4:50pm, 7:20pm, 7:45pm), Tue 3/7 (11:15am, 1:25pm, 2:00pm, 4:50pm, 7:20pm, 7:45pm), Wed 3/8 (11:15am, 1:25pm, 2:00pm, 4:50pm, 7:45pm)
+
+    * [Creed Iii](https://drafthouse.com/los-angeles/show/creed-iii): Thu 3/2 (7:40pm, 9:15pm, 10:25pm), Fri 3/3 (11:00am, 2:15pm, 5:30pm, 8:45pm), Sat 3/4 (11:00am, 12:30pm, 2:15pm, 3:45pm, 5:30pm, 8:45pm, 10:15pm), Sun 3/5 (11:00am, 12:30pm, 2:15pm, 3:45pm, 5:30pm), Mon 3/6 (11:00am, 12:00pm, 2:15pm, 3:45pm, 5:30pm, 7:00pm), Tue 3/7 (11:00am, 12:00pm, 2:15pm, 3:20pm, 5:30pm, 7:00pm), Wed 3/8 (11:00am, 12:30pm, 2:15pm, 3:45pm, 5:30pm, 7:00pm)
+
+    * [Emily](https://drafthouse.com/los-angeles/show/emily): Thu 3/2 (3:00pm, 6:15pm), Fri 3/3 (11:40am, 3:00pm, 6:25pm), Sat 3/4 (11:40am, 3:00pm, 6:25pm), Sun 3/5 (11:40am, 3:00pm, 6:30pm), Mon 3/6 (11:40am, 3:00pm, 6:30pm), Tue 3/7 (11:40am, 3:00pm, 6:30pm), Wed 3/8 (11:40am, 3:00pm, 6:30pm)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/los-angeles/show/everything-everywhere-all-at-once): Fri 3/3 (10:20pm), Mon 3/6 (12:00pm), Wed 3/8 (4:30pm)
+
+    * [Flaming Ears](https://drafthouse.com/los-angeles/show/flaming-ears): Fri 3/3 (3:20pm), Wed 3/8 (11:00am)
+
+    * [Graveyard Shift Possession 1981](https://drafthouse.com/los-angeles/show/graveyard-shift-possession-1981): Thu 3/2 (9:25pm)
+
+    * [History Of The World Part 1](https://drafthouse.com/los-angeles/show/history-of-the-world-part-1): Fri 3/3 (12:30pm, 9:50pm), Sat 3/4 (3:25pm, 9:45pm)
+
+    * [Infinity Pool](https://drafthouse.com/los-angeles/show/infinity-pool): Thu 3/2 (4:30pm, 10:40pm), Fri 3/3 (4:10pm, 10:10pm), Sat 3/4 (4:00pm, 9:55pm), Sun 3/5 (4:10pm), Mon 3/6 (4:10pm), Tue 3/7 (12:15pm, 4:10pm), Wed 3/8 (4:15pm)
+
+    * [Knock At The Cabin](https://drafthouse.com/los-angeles/show/knock-at-the-cabin): Thu 3/2 (3:50pm, 9:50pm), Fri 3/3 (4:30pm, 10:30pm), Sat 3/4 (4:30pm, 10:30pm), Sun 3/5 (11:20am, 5:10pm), Mon 3/6 (11:20am, 5:10pm), Tue 3/7 (11:20am, 5:10pm), Wed 3/8 (11:20am, 5:10pm)
+
+    * [Magic Mikes Last Dance](https://drafthouse.com/los-angeles/show/magic-mikes-last-dance): Thu 3/2 (4:15pm, 6:45pm), Fri 3/3 (1:15pm, 7:30pm), Sat 3/4 (1:15pm, 7:30pm), Sun 3/5 (2:10pm, 8:00pm), Mon 3/6 (2:10pm, 8:00pm), Tue 3/7 (2:10pm, 8:00pm), Wed 3/8 (2:10pm, 8:00pm)
+
+    * [Operation Fortune](https://drafthouse.com/los-angeles/show/operation-fortune): Thu 3/2 (6:00pm, 9:10pm), Fri 3/3 (11:45am, 3:00pm, 6:15pm, 9:20pm), Sat 3/4 (11:45am, 3:00pm, 6:15pm, 9:20pm), Sun 3/5 (11:45am, 3:00pm, 6:15pm), Mon 3/6 (11:45am, 3:00pm, 6:15pm), Tue 3/7 (11:45am, 3:00pm, 6:15pm), Wed 3/8 (11:45am, 3:30pm, 7:20pm)
+
+    * [Return To Seoul](https://drafthouse.com/los-angeles/show/return-to-seoul): Mon 3/6 (12:45pm, 4:00pm, 7:15pm), Tue 3/7 (12:45pm, 4:00pm, 7:15pm), Wed 3/8 (12:45pm, 4:00pm, 7:15pm)
+
+    * [Special Event Rrr Fan Celebrrration](https://drafthouse.com/los-angeles/show/special-event-rrr-fan-celebrrration): Sat 3/4 (12:30pm), Mon 3/6 (11:20am), Tue 3/7 (12:35pm), Wed 3/8 (11:10am, 3:00pm)
+
+    * [The Matrix](https://drafthouse.com/los-angeles/show/the-matrix): Sun 3/5 (7:35pm)
+
 ### Mon 2/27 12:19pm
 * New movies: Something's Gotta Give
 
