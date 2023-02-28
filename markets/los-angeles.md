@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Tue 2/28 12:19pm
+
+* New screenings: 
+    * [Demon Slayer To The Swordsmith Village Subtitled](https://drafthouse.com/los-angeles/show/demon-slayer-to-the-swordsmith-village-subtitled): Thu 3/9 (6:30pm)
+
+    * [Scream Vi](https://drafthouse.com/los-angeles/show/scream-vi): Thu 3/9 (6:00pm, 9:20pm), Fri 3/10 (11:00am, 2:20pm, 5:40pm, 9:00pm, 10:00pm), Sat 3/11 (11:00am, 2:20pm, 5:40pm, 9:00pm), Sun 3/12 (11:00am, 2:20pm, 5:40pm, 7:00pm)
+
 ### Mon 2/27 2:17pm
 * New movies: Operation Fortune: Ruse de Guerre, History of the World, Part 1, Flaming Ears
 
