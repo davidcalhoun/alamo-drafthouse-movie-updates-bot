@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 2/28 3:23pm
+* New movies: The Room 2003
+
+* New screenings: 
+    * [Special Event The Room 2003](https://drafthouse.com/raleigh/show/special-event-the-room-2003): Tue 3/21 (7:00pm)
+
 ### Tue 2/28 10:23am
 * New movies: History of the World, Part 1
 
