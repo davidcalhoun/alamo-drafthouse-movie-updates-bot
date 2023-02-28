@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 2/28 4:19pm
+* New movies: On Cinema at the Cinema Special
+
+* New screenings: 
+    * [On Cinema At The Cinema Special](https://drafthouse.com/raleigh/show/on-cinema-at-the-cinema-special): Sun 3/12 (8:00pm)
+
 ### Tue 2/28 3:23pm
 * New movies: The Room 2003
 
