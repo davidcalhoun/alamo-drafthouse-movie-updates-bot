@@ -1,6 +1,40 @@
 # raleigh
 
 ## Movie updates
+### Tue 2/28 10:23am
+* New movies: History of the World, Part 1
+
+* New screenings: 
+    * [Ant Man And The Wasp Quantumania](https://drafthouse.com/raleigh/show/ant-man-and-the-wasp-quantumania): Fri 3/3 (12:30pm, 3:55pm, 7:15pm, 9:30pm), Sat 3/4 (1:15pm, 4:30pm, 6:45pm, 9:55pm), Sun 3/5 (12:25pm, 3:35pm, 6:45pm, 10:20pm), Mon 3/6 (11:50am, 3:05pm, 6:15pm, 9:25pm), Tue 3/7 (11:50am, 3:05pm, 6:15pm, 9:25pm), Wed 3/8 (11:15am, 2:55pm, 6:15pm, 9:25pm)
+
+    * [Avatar The Way Of Water](https://drafthouse.com/raleigh/show/avatar-the-way-of-water): Fri 3/3 (12:40pm, 4:55pm, 9:15pm), Sat 3/4 (12:40pm, 4:55pm, 9:15pm), Sun 3/5 (11:30am, 3:45pm, 8:00pm), Mon 3/6 (12:30pm, 4:45pm, 9:05pm), Tue 3/7 (12:30pm, 4:45pm, 9:05pm), Wed 3/8 (12:30pm, 4:45pm, 9:05pm)
+
+    * [Close](https://drafthouse.com/raleigh/show/close): Fri 3/3 (1:55pm), Sat 3/4 (12:15pm), Sun 3/5 (4:55pm), Mon 3/6 (11:55am), Tue 3/7 (9:40pm), Wed 3/8 (10:05pm)
+
+    * [Cocaine Bear](https://drafthouse.com/raleigh/show/cocaine-bear): Fri 3/3 (11:55am, 2:45pm, 5:30pm, 8:15pm, 11:00pm), Sat 3/4 (11:30am, 2:10pm, 4:50pm, 6:15pm, 10:40pm), Sun 3/5 (12:15pm, 2:55pm, 5:35pm, 8:15pm, 10:55pm), Mon 3/6 (11:45am, 2:25pm, 5:05pm, 7:45pm, 11:00pm), Tue 3/7 (11:45am, 2:25pm, 5:05pm, 7:45pm, 11:00pm), Wed 3/8 (12:15pm, 2:25pm, 5:05pm, 7:45pm, 11:00pm)
+
+    * [Creed Iii](https://drafthouse.com/raleigh/show/creed-iii): Fri 3/3 (11:00am, 12:00pm, 2:00pm, 3:00pm, 4:30pm, 5:00pm, 6:00pm, 7:30pm, 8:00pm, 9:00pm, 10:30pm), Sat 3/4 (12:30pm, 2:00pm, 2:30pm, 3:30pm, 5:00pm, 5:30pm, 6:30pm, 8:00pm, 8:30pm, 9:00pm, 9:30pm), Sun 3/5 (12:00pm, 1:30pm, 2:30pm, 3:00pm, 4:30pm, 5:30pm, 6:00pm, 6:30pm, 8:30pm, 9:00pm, 9:30pm), Mon 3/6 (11:00am, 11:30am, 1:30pm, 2:00pm, 2:30pm, 3:00pm, 3:30pm, 4:30pm, 5:00pm, 5:30pm, 6:00pm, 7:30pm, 8:00pm, 8:30pm, 9:00pm, 10:30pm), Tue 3/7 (11:00am, 11:30am, 1:30pm, 2:00pm, 2:30pm, 3:00pm, 3:30pm, 4:30pm, 5:00pm, 5:30pm, 6:00pm, 7:30pm, 8:00pm, 8:30pm, 10:30pm), Wed 3/8 (11:00am, 11:30am, 12:00pm, 1:00pm, 1:30pm, 2:30pm, 3:00pm, 4:00pm, 4:30pm, 5:00pm, 5:30pm, 6:00pm, 7:30pm, 8:00pm, 10:30pm), Thu 3/9 (11:00am, 12:00pm, 2:00pm, 3:00pm)
+
+    * [Demon Slayer To The Swordsmith Village Dubbed](https://drafthouse.com/raleigh/show/demon-slayer-to-the-swordsmith-village-dubbed): Sun 3/5 (9:55pm), Wed 3/8 (9:00pm)
+
+    * [Demon Slayer To The Swordsmith Village Subtitled](https://drafthouse.com/raleigh/show/demon-slayer-to-the-swordsmith-village-subtitled): Fri 3/3 (8:30pm), Mon 3/6 (9:40pm)
+
+    * [History Of The World Part 1](https://drafthouse.com/raleigh/show/history-of-the-world-part-1): Fri 3/3 (11:50am, 3:45pm, 5:45pm), Sat 3/4 (7:30pm, 10:15pm), Sun 3/5 (7:30pm, 10:15pm)
+
+    * [Knock At The Cabin](https://drafthouse.com/raleigh/show/knock-at-the-cabin): Fri 3/3 (12:10pm, 2:55pm, 6:45pm, 10:55pm), Sat 3/4 (1:30pm, 3:55pm, 7:45pm, 11:00pm), Sun 3/5 (12:40pm, 3:25pm, 7:45pm, 10:35pm), Mon 3/6 (12:20pm, 4:00pm, 6:45pm, 10:25pm), Tue 3/7 (12:20pm, 3:55pm, 6:45pm, 10:25pm), Wed 3/8 (12:55pm, 4:25pm, 7:15pm, 10:25pm)
+
+    * [Magic Mikes Last Dance](https://drafthouse.com/raleigh/show/magic-mikes-last-dance): Fri 3/3 (1:30pm), Sat 3/4 (3:15pm), Sun 3/5 (1:45pm), Mon 3/6 (1:15pm), Tue 3/7 (1:15pm), Wed 3/8 (2:00pm)
+
+    * [Operation Fortune](https://drafthouse.com/raleigh/show/operation-fortune): Fri 3/3 (12:55pm, 4:45pm, 7:45pm, 10:45pm), Sat 3/4 (12:55pm, 4:15pm, 7:15pm, 10:20pm), Sun 3/5 (1:15pm, 4:15pm, 7:15pm, 10:40pm), Mon 3/6 (1:00pm, 4:15pm, 7:15pm, 10:15pm), Tue 3/7 (12:55pm, 4:15pm, 7:15pm, 10:15pm), Wed 3/8 (1:15pm, 3:45pm, 6:45pm, 9:45pm)
+
+    * [Puss In Boots The Last Wish](https://drafthouse.com/raleigh/show/puss-in-boots-the-last-wish): Fri 3/3 (11:10am), Sat 3/4 (11:15am), Sun 3/5 (11:45am), Mon 3/6 (12:45pm), Tue 3/7 (12:45pm), Wed 3/8 (11:25am)
+
+    * [Scream Vi](https://drafthouse.com/raleigh/show/scream-vi): Thu 3/9 (6:00pm, 9:15pm)
+
+    * [Special Event Rrr Fan Celebrrration](https://drafthouse.com/raleigh/show/special-event-rrr-fan-celebrrration): Fri 3/3 (2:30pm)
+
+    * [The Matrix](https://drafthouse.com/raleigh/show/the-matrix): Fri 3/3 (10:30pm), Tue 3/7 (9:00pm), Wed 3/8 (8:30pm)
+
 ### Mon 2/27 6:22pm
 * New movies: Wattstax, Operation Fortune: Ruse de Guerre
 
