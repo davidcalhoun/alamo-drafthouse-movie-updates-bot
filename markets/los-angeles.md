@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Wed 3/1 12:24am
+* New movies: John Wick: Chapter 4, John Wick: Chapter 4, John Wick: Chapter 4
+
+* New screenings: 
+    * [Brunch Screenings John Wick Chapter 4 Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-john-wick-chapter-4-brunch): Sat 3/25 (10:30am)
+
+    * [Costume Screening John Wick Chapter 4 Cosplay At The Continental](https://drafthouse.com/los-angeles/show/costume-screening-john-wick-chapter-4-cosplay-at-the-continental): Thu 3/23 (7:00pm)
+
+    * [John Wick Chapter 4](https://drafthouse.com/los-angeles/show/john-wick-chapter-4): Thu 3/23 (3:00pm, 11:00pm), Fri 3/24 (10:30am, 2:30pm, 6:30pm, 10:30pm), Sat 3/25 (2:30pm, 6:30pm, 10:30pm), Sun 3/26 (2:30pm, 6:30pm)
+
 ### Tue 2/28 12:19pm
 
 * New screenings: 
