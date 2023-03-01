@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Wed 3/1 2:17pm
+* New movies: 65, Enys Men
+
+* New screenings: 
+    * [Creed Iii](https://drafthouse.com/los-angeles/show/creed-iii): Sun 3/5 (8:00pm)
+
+    * [Enys Men](https://drafthouse.com/los-angeles/show/enys-men): Sat 4/1 (10:00pm)
+
+    * [Sixty Five](https://drafthouse.com/los-angeles/show/sixty-five): Thu 3/9 (4:00pm, 6:45pm, 9:30pm), Fri 3/10 (1:00pm, 3:45pm, 6:30pm, 9:15pm), Sat 3/11 (1:00pm, 3:45pm, 6:30pm, 9:15pm), Sun 3/12 (1:00pm, 3:45pm, 6:30pm)
+
+    * [Yes Madam](https://drafthouse.com/los-angeles/show/yes-madam): Wed 3/22 (5:10pm)
+
 ### Wed 3/1 1:16pm
 * New movies: The Box 2009
 
