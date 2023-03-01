@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 3/1 1:16pm
+* New movies: The Box 2009
+
+* New screenings: 
+    * [The Box 2009](https://drafthouse.com/los-angeles/show/the-box-2009): Tue 3/28 (8:00pm), Wed 3/29 (8:00pm)
+
 ### Wed 3/1 12:24am
 * New movies: John Wick: Chapter 4, John Wick: Chapter 4, John Wick: Chapter 4
 
