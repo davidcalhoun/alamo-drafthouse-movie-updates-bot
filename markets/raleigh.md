@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Wed 3/1 3:28am
+* New movies: John Wick: Chapter 4, John Wick: Chapter 4
+
+* New screenings: 
+    * [Costume Screening John Wick Chapter 4 Cosplay At The Continental](https://drafthouse.com/raleigh/show/costume-screening-john-wick-chapter-4-cosplay-at-the-continental): Thu 3/23 (7:00pm)
+
+    * [John Wick Chapter 4](https://drafthouse.com/raleigh/show/john-wick-chapter-4): Thu 3/23 (3:00pm), Fri 3/24 (11:00am, 2:55pm, 6:50pm, 10:45pm), Sat 3/25 (11:00am, 2:55pm, 6:50pm, 10:45pm), Sun 3/26 (11:00am, 2:55pm, 6:50pm, 10:45pm), Mon 3/27 (11:00am, 2:55pm, 6:50pm, 10:45pm), Tue 3/28 (11:00am, 2:55pm, 6:50pm, 10:45pm), Wed 3/29 (11:00am, 2:55pm, 6:50pm, 10:45pm)
+
 ### Tue 2/28 4:19pm
 * New movies: On Cinema at the Cinema Special
 
