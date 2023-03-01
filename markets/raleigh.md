@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 3/1 1:27pm
+* New movies: Metallica: 72 Seasons – Global Premiere
+
+* New screenings: 
+    * [Metallica 72 Seasons Global Premiere](https://drafthouse.com/raleigh/show/metallica-72-seasons-global-premiere): Thu 4/13 (7:00pm)
+
 ### Wed 3/1 3:28am
 * New movies: John Wick: Chapter 4, John Wick: Chapter 4
 
