@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Thu 3/2 5:21pm
+
+* New screenings: 
+    * [Demon Slayer To The Swordsmith Village Subtitled](https://drafthouse.com/raleigh/show/demon-slayer-to-the-swordsmith-village-subtitled): Sat 3/4 (10:55am)
+
 ### Wed 3/1 1:27pm
 * New movies: Metallica: 72 Seasons – Global Premiere
 
