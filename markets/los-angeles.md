@@ -1,6 +1,20 @@
 # los-angeles
 
 ## Movie updates
+### Thu 3/2 2:16pm
+* New movies: Inside, The Quiet Girl
+
+* New screenings: 
+    * [Creed Iii](https://drafthouse.com/los-angeles/show/creed-iii): Thu 3/9 (3:45pm, 7:00pm, 10:15pm), Fri 3/10 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Sat 3/11 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Sun 3/12 (12:45pm, 4:00pm, 7:15pm)
+
+    * [Demon Slayer To The Swordsmith Village Subtitled](https://drafthouse.com/los-angeles/show/demon-slayer-to-the-swordsmith-village-subtitled): Fri 3/3 (10:30pm)
+
+    * [Inside](https://drafthouse.com/los-angeles/show/inside): Thu 3/16 (7:15pm, 10:15pm), Fri 3/17 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sat 3/18 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sun 3/19 (12:30pm, 3:30pm, 6:30pm)
+
+    * [Scream Vi](https://drafthouse.com/los-angeles/show/scream-vi): Fri 3/17 (12:45pm, 4:00pm, 7:15pm), Sat 3/18 (12:45pm, 4:00pm, 7:15pm), Sun 3/19 (12:45pm, 4:00pm)
+
+    * [The Quiet Girl](https://drafthouse.com/los-angeles/show/the-quiet-girl): Thu 3/9 (7:30pm)
+
 ### Wed 3/1 2:17pm
 * New movies: 65, Enys Men
 
