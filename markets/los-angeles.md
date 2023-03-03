@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 3/3 9:16am
+* New movies: Nemesis
+
+* New screenings: 
+    * [Nemesis](https://drafthouse.com/los-angeles/show/nemesis): Tue 4/4 (8:00pm), Wed 4/5 (8:00pm)
+
 ### Thu 3/2 2:16pm
 * New movies: Inside, The Quiet Girl
 
