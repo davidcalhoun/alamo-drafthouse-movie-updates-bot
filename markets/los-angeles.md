@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Sat 3/4 3:14am
+* New movies: The Lake House
+
+* New screenings: 
+    * [The Lake House](https://drafthouse.com/los-angeles/show/the-lake-house): Wed 3/29 (8:00pm)
+
 ### Fri 3/3 9:16am
 * New movies: Nemesis
 
