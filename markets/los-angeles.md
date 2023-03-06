@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 3/6 12:19pm
+* New movies: The UnRedacted
+
+* New screenings: 
+    * [Live Q A The Unredacted](https://drafthouse.com/los-angeles/show/live-q-a-the-unredacted): Wed 4/19 (7:30pm)
+
 ### Sat 3/4 3:14am
 * New movies: The Lake House
 
