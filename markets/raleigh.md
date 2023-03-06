@@ -1,6 +1,44 @@
 # raleigh
 
 ## Movie updates
+### Mon 3/6 6:22pm
+* New movies: Cruising, Sea of Love, Belly, Demon Slayer: Kimetsu No Yaiba the Movie: Mugen Train Subtitled, Dazed and Confused, Uncut Gems
+
+* New screenings: 
+    * [Ant Man And The Wasp Quantumania](https://drafthouse.com/raleigh/show/ant-man-and-the-wasp-quantumania): Fri 3/10 (11:55am, 3:05pm, 6:15pm, 9:25pm), Sat 3/11 (11:30am, 3:05pm, 6:15pm, 9:25pm), Sun 3/12 (11:50am, 3:05pm, 6:15pm, 9:25pm)
+
+    * [Belly](https://drafthouse.com/raleigh/show/belly): Thu 4/20 (4:20pm)
+
+    * [Champions](https://drafthouse.com/raleigh/show/champions): Fri 3/10 (1:00pm, 4:20pm, 6:45pm, 9:55pm), Sat 3/11 (1:00pm, 4:20pm, 6:45pm, 9:55pm), Sun 3/12 (12:25pm, 3:35pm, 6:45pm, 9:55pm)
+
+    * [Cocaine Bear](https://drafthouse.com/raleigh/show/cocaine-bear): Fri 3/10 (1:30pm, 2:50pm, 5:30pm, 8:15pm, 10:55pm), Sat 3/11 (1:30pm, 2:45pm, 5:30pm, 8:15pm, 10:55pm), Sun 3/12 (1:30pm, 2:55pm, 5:35pm, 8:15pm, 10:55pm)
+
+    * [Creed Iii](https://drafthouse.com/raleigh/show/creed-iii): Fri 3/10 (12:00pm, 12:30pm, 3:00pm, 3:30pm, 6:00pm, 7:30pm, 9:00pm, 10:30pm), Sat 3/11 (11:15am, 12:00pm, 3:00pm, 3:30pm, 6:00pm, 7:30pm, 9:00pm, 10:30pm), Sun 3/12 (11:55am, 3:00pm, 3:30pm, 6:00pm, 6:30pm, 9:00pm, 9:30pm)
+
+    * [Cruising](https://drafthouse.com/raleigh/show/cruising): Tue 4/11 (5:00pm), Wed 4/12 (7:45pm)
+
+    * [Dazed And Confused](https://drafthouse.com/raleigh/show/dazed-and-confused): Sat 4/15 (4:20pm)
+
+    * [Demon Slayer Kimetsu No Yaiba The Movie Mugen Train Dubbed 1](https://drafthouse.com/raleigh/show/demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train-dubbed-1): Fri 3/10 (4:15pm)
+
+    * [Demon Slayer To The Swordsmith Village Dubbed](https://drafthouse.com/raleigh/show/demon-slayer-to-the-swordsmith-village-dubbed): Sun 3/12 (8:30pm)
+
+    * [Demon Slayer To The Swordsmith Village Subtitled](https://drafthouse.com/raleigh/show/demon-slayer-to-the-swordsmith-village-subtitled): Sat 3/11 (4:15pm)
+
+    * [Knock At The Cabin](https://drafthouse.com/raleigh/show/knock-at-the-cabin): Fri 3/10 (11:30am), Sat 3/11 (12:15pm), Sun 3/12 (11:30am)
+
+    * [Operation Fortune](https://drafthouse.com/raleigh/show/operation-fortune): Fri 3/10 (12:45pm, 3:45pm, 7:15pm, 10:15pm), Sat 3/11 (12:45pm, 3:45pm, 7:15pm, 10:15pm), Sun 3/12 (1:15pm, 4:15pm, 7:15pm, 10:15pm)
+
+    * [Scream Vi](https://drafthouse.com/raleigh/show/scream-vi): Fri 3/10 (11:00am, 1:40pm, 2:10pm, 4:45pm, 5:15pm, 6:30pm, 8:00pm, 8:30pm, 9:45pm), Sat 3/11 (11:00am, 1:40pm, 2:10pm, 4:45pm, 5:15pm, 6:30pm, 8:00pm, 8:30pm, 9:45pm), Sun 3/12 (12:15pm, 12:45pm, 2:00pm, 3:45pm, 4:15pm, 5:15pm, 7:30pm, 10:45pm)
+
+    * [Sea Of Love](https://drafthouse.com/raleigh/show/sea-of-love): Mon 4/10 (4:45pm, 7:45pm)
+
+    * [Sixty Five](https://drafthouse.com/raleigh/show/sixty-five): Fri 3/10 (12:15pm, 2:15pm, 5:00pm, 7:45pm, 10:25pm), Sat 3/11 (12:55pm, 2:15pm, 5:00pm, 7:45pm, 10:25pm), Sun 3/12 (11:15am, 2:15pm, 5:00pm, 7:45pm, 10:30pm)
+
+    * [Star Trek First Contact](https://drafthouse.com/raleigh/show/star-trek-first-contact): Wed 4/5 (3:15pm)
+
+    * [Uncut Gems](https://drafthouse.com/raleigh/show/uncut-gems): Mon 4/3 (7:00pm)
+
 ### Mon 3/6 3:23pm
 * New movies: 65, Princess Mononoke Subtitled, Star Trek: First Contact, Princess Mononoke Subtitled, Champions, Princess Mononoke Dubbed, Scarface 1983
 
