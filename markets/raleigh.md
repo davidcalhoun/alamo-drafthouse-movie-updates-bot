@@ -1,6 +1,48 @@
 # raleigh
 
 ## Movie updates
+### Mon 3/6 3:23pm
+* New movies: 65, Princess Mononoke Subtitled, Star Trek: First Contact, Princess Mononoke Subtitled, Champions, Princess Mononoke Dubbed, Scarface 1983
+
+* New screenings: 
+    * [Ant Man And The Wasp Quantumania](https://drafthouse.com/raleigh/show/ant-man-and-the-wasp-quantumania): Thu 3/9 (11:00am, 2:55pm, 4:15pm, 6:15pm, 9:25pm)
+
+    * [Avatar The Way Of Water](https://drafthouse.com/raleigh/show/avatar-the-way-of-water): Thu 3/9 (12:30pm)
+
+    * [Brunch Screenings Princess Mononoke Subtitled Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-princess-mononoke-subtitled-brunch): Sat 4/1 (11:00am)
+
+    * [Champions](https://drafthouse.com/raleigh/show/champions): Thu 3/9 (7:00pm, 10:30pm)
+
+    * [Close](https://drafthouse.com/raleigh/show/close): Thu 3/9 (2:40pm)
+
+    * [Cocaine Bear](https://drafthouse.com/raleigh/show/cocaine-bear): Thu 3/9 (12:15pm, 1:45pm, 4:30pm, 7:15pm, 9:55pm)
+
+    * [Creed Iii](https://drafthouse.com/raleigh/show/creed-iii): Thu 3/9 (11:30am, 12:00pm, 1:15pm, 2:00pm, 3:00pm, 7:30pm, 8:45pm, 9:30pm)
+
+    * [Knock At The Cabin](https://drafthouse.com/raleigh/show/knock-at-the-cabin): Thu 3/9 (11:55am)
+
+    * [Magic Mikes Last Dance](https://drafthouse.com/raleigh/show/magic-mikes-last-dance): Thu 3/9 (4:00pm)
+
+    * [Operation Fortune](https://drafthouse.com/raleigh/show/operation-fortune): Thu 3/9 (12:45pm, 3:45pm, 4:45pm, 6:45pm, 9:45pm)
+
+    * [Princess Mononoke Dubbed](https://drafthouse.com/raleigh/show/princess-mononoke-dubbed): Mon 4/3 (3:30pm)
+
+    * [Princess Mononoke Subtitled](https://drafthouse.com/raleigh/show/princess-mononoke-subtitled): Fri 3/31 (3:30pm), Tue 4/4 (3:30pm)
+
+    * [Puss In Boots The Last Wish](https://drafthouse.com/raleigh/show/puss-in-boots-the-last-wish): Thu 3/9 (11:15am)
+
+    * [Scareface 1983](https://drafthouse.com/raleigh/show/scareface-1983): Sun 4/2 (11:45am)
+
+    * [Scream Vi](https://drafthouse.com/raleigh/show/scream-vi): Thu 3/9 (5:30pm, 8:00pm, 8:15pm, 10:15pm, 11:15pm)
+
+    * [Sixty Five](https://drafthouse.com/raleigh/show/sixty-five): Thu 3/9 (2:30pm, 5:15pm, 7:45pm, 10:20pm)
+
+    * [Special Event Rrr Fan Celebrrration](https://drafthouse.com/raleigh/show/special-event-rrr-fan-celebrrration): Thu 3/9 (2:15pm)
+
+    * [Star Trek First Contact](https://drafthouse.com/raleigh/show/star-trek-first-contact): Sat 4/1 (2:30pm)
+
+    * [The Matrix](https://drafthouse.com/raleigh/show/the-matrix): Thu 3/9 (12:40pm)
+
 ### Mon 3/6 2:17pm
 * New movies: Dog Day Afternoon
 
