@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 3/6 2:17pm
+* New movies: Dog Day Afternoon
+
+* New screenings: 
+    * [Dog Day Afternoon](https://drafthouse.com/raleigh/show/dog-day-afternoon): Sun 4/2 (3:45pm)
+
 ### Fri 3/3 11:29am
 
 * New screenings: 
