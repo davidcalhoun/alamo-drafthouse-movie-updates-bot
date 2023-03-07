@@ -1,6 +1,22 @@
 # raleigh
 
 ## Movie updates
+### Tue 3/7 11:31am
+* New movies: Jack and Jill, Selena, Superman 1978, The Devil's Backbone, Faster, Pussycat! Kill! Kill!, Mandy
+
+* New screenings: 
+    * [Graveyard Shift The Devils Backbone](https://drafthouse.com/raleigh/show/graveyard-shift-the-devils-backbone): Mon 4/24 (8:00pm)
+
+    * [Jack And Jill](https://drafthouse.com/raleigh/show/jack-and-jill): Tue 4/18 (8:00pm), Wed 4/19 (4:20pm)
+
+    * [Mandy](https://drafthouse.com/raleigh/show/mandy): Sun 4/16 (9:30pm)
+
+    * [Movie Party Selena](https://drafthouse.com/raleigh/show/movie-party-selena): Sun 4/16 (2:30pm)
+
+    * [Superman 1978](https://drafthouse.com/raleigh/show/superman-1978): Sun 4/16 (6:00pm), Tue 4/18 (4:30pm)
+
+    * [Weird Wednesday Faster Pussycat Kill Kill](https://drafthouse.com/raleigh/show/weird-wednesday-faster-pussycat-kill-kill): Wed 4/5 (9:30pm)
+
 ### Mon 3/6 8:59pm
 * New movies: Demon Slayer: Kimetsu No Yaiba the Movie: Mugen Train Dubbed
 
