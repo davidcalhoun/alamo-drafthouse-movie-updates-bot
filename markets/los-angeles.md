@@ -1,6 +1,32 @@
 # los-angeles
 
 ## Movie updates
+### Tue 3/7 3:18pm
+* New movies: Der Fan, Princess Mononoke Subtitled, Cruising, A Life on the Farm, Selena, Belly, Carlito's Way, Dazed and Confused, Scarface 1983, Sea of Love, OKJA
+
+* New screenings: 
+    * [Belly](https://drafthouse.com/los-angeles/show/belly): Thu 4/20 (4:20pm)
+
+    * [Brunch Screenings Princess Mononoke Subtitled Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-princess-mononoke-subtitled-brunch): Sun 4/2 (11:00am)
+
+    * [Carlitos Way](https://drafthouse.com/los-angeles/show/carlitos-way): Sat 4/8 (11:30am)
+
+    * [Cruising](https://drafthouse.com/los-angeles/show/cruising): Fri 4/7 (3:45pm), Mon 4/10 (8:00pm)
+
+    * [Dazed And Confused](https://drafthouse.com/los-angeles/show/dazed-and-confused): Mon 4/17 (7:30pm)
+
+    * [Der Fan](https://drafthouse.com/los-angeles/show/der-fan): Tue 4/18 (8:00pm), Wed 4/19 (8:00pm)
+
+    * [Fantastic Fest Presents A Life On The Farm W Live Q A](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-a-life-on-the-farm-w-live-q-a): Thu 4/13 (9:30pm)
+
+    * [Movie Party Selena](https://drafthouse.com/los-angeles/show/movie-party-selena): Sun 4/16 (3:30pm)
+
+    * [Okja](https://drafthouse.com/los-angeles/show/okja): Mon 4/10 (7:30pm)
+
+    * [Scareface 1983](https://drafthouse.com/los-angeles/show/scareface-1983): Mon 4/3 (12:00pm)
+
+    * [Sea Of Love](https://drafthouse.com/los-angeles/show/sea-of-love): Sun 4/9 (11:30am)
+
 ### Mon 3/6 5:43pm
 * New movies: Unicorn Wars Subtitled
 
