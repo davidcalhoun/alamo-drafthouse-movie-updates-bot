@@ -1,6 +1,30 @@
 # raleigh
 
 ## Movie updates
+### Mon 3/6 8:59pm
+* New movies: Demon Slayer: Kimetsu No Yaiba the Movie: Mugen Train Dubbed
+
+* New screenings: 
+    * [Ant Man And The Wasp Quantumania](https://drafthouse.com/raleigh/show/ant-man-and-the-wasp-quantumania): Mon 3/13 (11:55am, 3:05pm, 6:15pm, 9:25pm), Tue 3/14 (11:30am, 3:05pm, 6:15pm, 9:25pm), Wed 3/15 (11:55am, 3:05pm, 6:15pm, 9:25pm)
+
+    * [Champions](https://drafthouse.com/raleigh/show/champions): Mon 3/13 (1:00pm, 4:20pm, 6:45pm, 9:55pm), Tue 3/14 (1:00pm, 4:20pm, 6:45pm, 9:55pm), Wed 3/15 (12:20pm, 3:30pm, 6:45pm, 9:55pm)
+
+    * [Cocaine Bear](https://drafthouse.com/raleigh/show/cocaine-bear): Mon 3/13 (1:30pm, 2:50pm, 5:30pm, 8:15pm, 10:55pm), Tue 3/14 (1:30pm, 2:45pm, 5:30pm, 8:15pm, 10:55pm), Wed 3/15 (11:45am, 2:45pm, 5:30pm, 8:15pm, 10:55pm)
+
+    * [Creed Iii](https://drafthouse.com/raleigh/show/creed-iii): Mon 3/13 (12:00pm, 12:30pm, 3:00pm, 3:30pm, 6:00pm, 7:30pm, 9:00pm, 10:30pm), Tue 3/14 (11:15am, 12:00pm, 3:00pm, 3:30pm, 6:00pm, 7:30pm, 9:00pm, 10:30pm), Wed 3/15 (11:15am, 12:00pm, 12:15pm, 2:15pm, 3:00pm, 6:00pm, 7:30pm, 10:30pm)
+
+    * [Demon Slayer Kimetsu No Yaiba The Movie Mugen Train Dubbed](https://drafthouse.com/raleigh/show/demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train-dubbed): Sun 3/12 (8:30pm), Mon 3/13 (4:15pm)
+
+    * [Demon Slayer Kimetsu No Yaiba The Movie Mugen Train Dubbed 1](https://drafthouse.com/raleigh/show/demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train-dubbed-1): Tue 3/14 (4:15pm), Wed 3/15 (4:30pm)
+
+    * [Knock At The Cabin](https://drafthouse.com/raleigh/show/knock-at-the-cabin): Mon 3/13 (11:30am), Tue 3/14 (12:15pm), Wed 3/15 (1:45pm)
+
+    * [Operation Fortune](https://drafthouse.com/raleigh/show/operation-fortune): Mon 3/13 (12:45pm, 3:45pm, 7:15pm, 10:20pm), Tue 3/14 (12:45pm, 3:45pm, 7:15pm, 10:20pm), Wed 3/15 (1:15pm, 4:15pm, 7:15pm, 10:15pm)
+
+    * [Scream Vi](https://drafthouse.com/raleigh/show/scream-vi): Mon 3/13 (11:00am, 1:40pm, 2:10pm, 4:45pm, 5:15pm, 6:30pm, 8:00pm, 8:30pm, 9:45pm), Tue 3/14 (11:00am, 1:40pm, 2:10pm, 4:45pm, 5:15pm, 6:30pm, 8:00pm, 8:30pm, 9:45pm), Wed 3/15 (11:30am, 1:30pm, 3:15pm, 4:45pm, 5:15pm, 6:30pm, 8:30pm, 9:00pm, 9:45pm, 10:40pm)
+
+    * [Sixty Five](https://drafthouse.com/raleigh/show/sixty-five): Mon 3/13 (12:15pm, 2:15pm, 5:00pm, 7:45pm, 10:35pm), Tue 3/14 (12:55pm, 2:15pm, 5:00pm, 7:45pm, 10:35pm), Wed 3/15 (11:00am, 2:25pm, 5:00pm, 7:45pm, 10:25pm)
+
 ### Mon 3/6 6:22pm
 * New movies: Cruising, Sea of Love, Belly, Demon Slayer: Kimetsu No Yaiba the Movie: Mugen Train Subtitled, Dazed and Confused, Uncut Gems
 
