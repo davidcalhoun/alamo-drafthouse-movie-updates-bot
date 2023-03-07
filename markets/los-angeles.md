@@ -1,6 +1,46 @@
 # los-angeles
 
 ## Movie updates
+### Mon 3/6 5:43pm
+* New movies: Unicorn Wars Subtitled
+
+* New screenings: 
+    * [2023 Oscar Nominated Shorts Animation](https://drafthouse.com/los-angeles/show/2023-oscar-nominated-shorts-animation): Thu 3/9 (2:45pm, 7:30pm), Fri 3/10 (2:10pm, 8:00pm), Sat 3/11 (11:00am, 5:00pm, 10:45pm), Sun 3/12 (2:00pm, 7:50pm), Mon 3/13 (11:15am, 5:00pm), Tue 3/14 (2:00pm), Wed 3/15 (11:15am, 5:00pm)
+
+    * [2023 Oscar Nominated Shorts Live Action](https://drafthouse.com/los-angeles/show/2023-oscar-nominated-shorts-live-action): Thu 3/9 (4:30pm), Fri 3/10 (11:10am, 5:00pm), Sat 3/11 (1:50pm, 7:45pm), Sun 3/12 (11:00am, 4:50pm), Mon 3/13 (2:00pm), Tue 3/14 (11:00am, 4:45pm), Wed 3/15 (2:00pm)
+
+    * [Ant Man And The Wasp Quantumania](https://drafthouse.com/los-angeles/show/ant-man-and-the-wasp-quantumania): Thu 3/9 (3:00pm, 6:15pm, 9:30pm), Fri 3/10 (11:30am, 2:45pm, 6:00pm, 9:30pm), Sat 3/11 (11:30am, 2:45pm, 6:00pm, 9:15pm), Sun 3/12 (11:30am, 2:45pm, 6:00pm), Mon 3/13 (11:30am, 2:45pm, 6:00pm), Tue 3/14 (11:30am, 2:45pm, 6:00pm), Wed 3/15 (11:30am, 2:45pm, 6:00pm)
+
+    * [Brunch Screenings Bram Stokers Dracula 1992 Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-bram-stokers-dracula-1992-brunch): Sat 3/11 (11:15am)
+
+    * [Cocaine Bear](https://drafthouse.com/los-angeles/show/cocaine-bear): Thu 3/9 (4:15pm, 7:00pm, 9:50pm), Fri 3/10 (11:15am, 2:00pm, 4:50pm, 7:45pm, 10:30pm), Sat 3/11 (11:15am, 2:00pm, 4:45pm, 7:45pm, 10:30pm), Sun 3/12 (11:15am, 2:00pm, 4:50pm, 7:45pm), Mon 3/13 (11:15am, 2:00pm, 5:00pm, 7:45pm), Tue 3/14 (11:15am, 2:00pm, 5:00pm, 7:45pm), Wed 3/15 (11:30am, 2:15pm, 5:00pm, 7:45pm)
+
+    * [Creed Iii](https://drafthouse.com/los-angeles/show/creed-iii): Fri 3/10 (11:45am), Mon 3/13 (12:45pm, 4:00pm, 7:15pm), Tue 3/14 (12:45pm, 4:00pm, 7:15pm), Wed 3/15 (12:45pm, 4:00pm, 7:15pm)
+
+    * [Demon Slayer To The Swordsmith Village Dubbed](https://drafthouse.com/los-angeles/show/demon-slayer-to-the-swordsmith-village-dubbed): Tue 3/14 (12:20pm)
+
+    * [Demon Slayer To The Swordsmith Village Subtitled](https://drafthouse.com/los-angeles/show/demon-slayer-to-the-swordsmith-village-subtitled): Fri 3/10 (10:35pm), Sat 3/11 (6:45pm), Sun 3/12 (4:40pm), Mon 3/13 (12:25pm), Wed 3/15 (1:15pm)
+
+    * [Emily](https://drafthouse.com/los-angeles/show/emily): Thu 3/9 (3:00pm)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/los-angeles/show/everything-everywhere-all-at-once): Fri 3/10 (12:45pm), Sun 3/12 (7:45pm), Mon 3/13 (3:30pm, 7:45pm), Tue 3/14 (6:30pm, 7:30pm), Wed 3/15 (4:30pm, 6:30pm)
+
+    * [Magic Mikes Last Dance](https://drafthouse.com/los-angeles/show/magic-mikes-last-dance): Thu 3/9 (2:45pm)
+
+    * [Operation Fortune](https://drafthouse.com/los-angeles/show/operation-fortune): Thu 3/9 (3:25pm, 6:30pm, 9:40pm), Fri 3/10 (12:25pm, 3:30pm, 6:45pm, 9:50pm), Sat 3/11 (12:25pm, 3:30pm, 6:45pm, 9:10pm), Sun 3/12 (12:25pm, 3:30pm, 6:45pm), Mon 3/13 (12:15pm, 3:30pm, 6:45pm), Tue 3/14 (12:15pm, 3:30pm, 6:45pm), Wed 3/15 (12:15pm, 3:30pm, 6:45pm)
+
+    * [Return To Seoul](https://drafthouse.com/los-angeles/show/return-to-seoul): Thu 3/9 (4:00pm, 7:15pm, 10:25pm), Fri 3/10 (1:15pm, 4:30pm, 7:40pm, 10:50pm), Sat 3/11 (1:10pm, 4:20pm, 7:30pm, 10:35pm), Sun 3/12 (1:15pm, 4:30pm, 7:40pm), Mon 3/13 (1:15pm, 4:30pm, 7:40pm), Tue 3/14 (1:00pm, 4:15pm, 7:25pm), Wed 3/15 (1:00pm, 4:10pm, 7:20pm)
+
+    * [Scream Vi](https://drafthouse.com/los-angeles/show/scream-vi): Thu 3/9 (5:30pm, 8:45pm, 9:35pm, 10:15pm), Fri 3/10 (6:15pm, 9:15pm, 10:45pm), Sat 3/11 (2:50pm, 5:15pm, 8:30pm, 9:50pm, 9:50pm), Sun 3/12 (11:25am, 6:15pm), Mon 3/13 (11:00am, 12:30pm, 2:20pm, 2:50pm, 3:45pm, 5:40pm, 7:00pm), Tue 3/14 (11:00am, 12:30pm, 2:20pm, 2:50pm, 3:45pm, 5:40pm, 7:00pm), Wed 3/15 (11:15am, 12:30pm, 2:30pm, 2:50pm, 3:45pm, 6:00pm)
+
+    * [Sixty Five](https://drafthouse.com/los-angeles/show/sixty-five): Mon 3/13 (1:00pm, 3:45pm, 6:30pm), Tue 3/14 (1:00pm, 3:45pm, 7:45pm), Wed 3/15 (1:00pm, 3:45pm, 7:45pm)
+
+    * [Special Event Rrr Fan Celebrrration](https://drafthouse.com/los-angeles/show/special-event-rrr-fan-celebrrration): Thu 3/9 (3:00pm), Fri 3/10 (3:00pm), Sat 3/11 (2:15pm), Sun 3/12 (2:35pm), Mon 3/13 (12:10pm), Tue 3/14 (12:10pm, 3:30pm), Wed 3/15 (3:00pm)
+
+    * [The Quiet Girl](https://drafthouse.com/los-angeles/show/the-quiet-girl): Thu 3/9 (10:25pm), Fri 3/10 (12:30pm, 3:15pm), Sat 3/11 (12:00pm, 6:15pm), Sun 3/12 (12:30pm, 3:15pm), Mon 3/13 (12:00pm, 6:15pm), Tue 3/14 (12:00pm, 6:15pm), Wed 3/15 (12:00pm, 6:15pm)
+
+    * [Unicorn Wars Subtitled](https://drafthouse.com/los-angeles/show/unicorn-wars-subtitled): Fri 3/10 (4:15pm), Sat 3/11 (2:35pm), Sun 3/12 (2:00pm), Mon 3/13 (4:45pm), Tue 3/14 (4:45pm), Wed 3/15 (12:15pm)
+
 ### Mon 3/6 12:19pm
 * New movies: The UnRedacted
 
