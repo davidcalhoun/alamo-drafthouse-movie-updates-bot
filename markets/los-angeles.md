@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Wed 3/8 3:18pm
+* New movies: The Doom Generation, A Life on the Farm
+
+* New screenings: 
+    * [A Life On The Farm](https://drafthouse.com/los-angeles/show/a-life-on-the-farm): Fri 4/14 (10:00pm)
+
+    * [Spring Breakers](https://drafthouse.com/los-angeles/show/spring-breakers): Wed 3/15 (2:00pm, 4:45pm), Thu 3/16 (6:15pm)
+
+    * [The Doom Generation](https://drafthouse.com/los-angeles/show/the-doom-generation): Sat 4/15 (9:30pm)
+
+    * [Yes Madam](https://drafthouse.com/los-angeles/show/yes-madam): Wed 3/22 (2:20pm)
+
 ### Wed 3/8 1:16pm
 
 * New screenings: 
