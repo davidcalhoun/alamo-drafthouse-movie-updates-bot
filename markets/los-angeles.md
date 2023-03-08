@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 3/8 1:16pm
+
+* New screenings: 
+    * [Scream Vi](https://drafthouse.com/los-angeles/show/scream-vi): Thu 3/9 (9:50pm, 10:25pm), Fri 3/10 (10:30pm), Sat 3/11 (7:35pm, 9:20pm, 10:35pm), Sun 3/12 (7:45pm)
+
 ### Wed 3/8 10:23am
 
 * New screenings: 
