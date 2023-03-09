@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 3/9 12:21pm
+* New movies: How to Blow Up a Pipeline
+
+* New screenings: 
+    * [Advance Screening How To Blow Up A Pipeline](https://drafthouse.com/raleigh/show/advance-screening-how-to-blow-up-a-pipeline): Tue 3/21 (8:00pm)
+
 ### Thu 3/9 10:24am
 
 * New screenings: 
