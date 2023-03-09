@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 3/9 12:19pm
+* New movies: Enys Men
+
+* New screenings: 
+    * [Advance Screening Enys Men](https://drafthouse.com/los-angeles/show/advance-screening-enys-men): Wed 3/29 (7:00pm)
+
 ### Thu 3/9 10:21am
 * New movies: Clueless, Evil Dead II
 
