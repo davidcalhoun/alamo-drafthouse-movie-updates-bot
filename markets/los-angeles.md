@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 3/9 3:19pm
+
+* New screenings: 
+    * [John Wick Chapter 4](https://drafthouse.com/los-angeles/show/john-wick-chapter-4): Thu 3/23 (5:00pm, 9:00pm), Fri 3/24 (1:30pm, 5:30pm, 9:30pm), Sat 3/25 (1:30pm, 5:30pm, 9:30pm), Sun 3/26 (1:30pm, 5:30pm, 9:30pm), Mon 3/27 (11:30am, 3:30pm, 7:30pm), Wed 3/29 (7:30pm)
+
 ### Thu 3/9 2:18pm
 * New movies: The Super Mario Bros. Movie, The Super Mario Bros. Movie, The Super Mario Bros. Movie
 
