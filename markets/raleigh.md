@@ -1,6 +1,18 @@
 # raleigh
 
 ## Movie updates
+### Thu 3/9 5:22pm
+* New movies: The Super Mario Bros. Movie, The Super Mario Bros. Movie, The Super Mario Bros. Movie, The Super Mario Bros. Movie
+
+* New screenings: 
+    * [Brunch Screenings The Super Mario Bros Movie Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-the-super-mario-bros-movie-brunch): Sun 4/9 (11:00am)
+
+    * [Family Party The Super Mario Bros Movie](https://drafthouse.com/raleigh/show/family-party-the-super-mario-bros-movie): Sat 4/8 (11:00am)
+
+    * [Movie Party The Super Mario Bros Movie](https://drafthouse.com/raleigh/show/movie-party-the-super-mario-bros-movie): Thu 4/6 (7:15pm)
+
+    * [The Super Mario Bros Movie](https://drafthouse.com/raleigh/show/the-super-mario-bros-movie): Wed 4/5 (6:45pm), Fri 4/7 (11:00am, 1:45pm, 4:30pm, 7:15pm, 10:00pm), Sat 4/8 (2:30pm, 5:15pm, 8:00pm, 10:45pm), Sun 4/9 (1:45pm, 4:30pm, 7:15pm, 10:00pm), Mon 4/10 (11:00am, 1:45pm, 4:30pm, 7:15pm, 10:00pm), Tue 4/11 (10:00pm), Wed 4/12 (11:00am, 1:45pm, 4:30pm, 7:15pm, 10:00pm)
+
 ### Thu 3/9 3:23pm
 * New movies: Event Horizon, Videodrome, Happiness of the Katakuris, Times Square
 
