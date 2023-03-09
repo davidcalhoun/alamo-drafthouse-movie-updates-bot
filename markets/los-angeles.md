@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 3/9 10:21am
+* New movies: Clueless, Evil Dead II
+
+* New screenings: 
+    * [Champagne Cinema Clueless Movie Party](https://drafthouse.com/los-angeles/show/champagne-cinema-clueless-movie-party): Mon 4/24 (7:00pm)
+
+    * [Movie Party Evil Dead Ii](https://drafthouse.com/los-angeles/show/movie-party-evil-dead-ii): Sun 4/2 (7:00pm)
+
 ### Wed 3/8 3:18pm
 * New movies: The Doom Generation, A Life on the Farm
 
