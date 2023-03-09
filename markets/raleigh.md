@@ -1,6 +1,20 @@
 # raleigh
 
 ## Movie updates
+### Thu 3/9 2:17pm
+* New movies: Clueless, Evil Dead II, The Doom Generation, A Life on the Farm, Tammy and the T-Rex
+
+* New screenings: 
+    * [A Life On The Farm](https://drafthouse.com/raleigh/show/a-life-on-the-farm): Thu 4/20 (10:00pm)
+
+    * [Champagne Cinema Clueless Movie Party](https://drafthouse.com/raleigh/show/champagne-cinema-clueless-movie-party): Tue 4/25 (7:00pm)
+
+    * [Movie Party Evil Dead Ii](https://drafthouse.com/raleigh/show/movie-party-evil-dead-ii): Sun 4/2 (7:00pm)
+
+    * [The Doom Generation](https://drafthouse.com/raleigh/show/the-doom-generation): Mon 4/17 (10:00pm)
+
+    * [Weird Wednesday Tammy And The T Rex 4k Restoration](https://drafthouse.com/raleigh/show/weird-wednesday-tammy-and-the-t-rex-4k-restoration): Wed 4/26 (9:30pm)
+
 ### Thu 3/9 12:21pm
 * New movies: How to Blow Up a Pipeline
 
