@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Thu 3/9 10:24am
+
+* New screenings: 
+    * [Demon Slayer To The Swordsmith Village Dubbed](https://drafthouse.com/raleigh/show/demon-slayer-to-the-swordsmith-village-dubbed): Sun 3/12 (8:30pm), Mon 3/13 (4:15pm)
+
+    * [Demon Slayer To The Swordsmith Village Subtitled](https://drafthouse.com/raleigh/show/demon-slayer-to-the-swordsmith-village-subtitled): Fri 3/10 (4:15pm), Tue 3/14 (4:15pm), Wed 3/15 (4:30pm)
+
 ### Tue 3/7 11:31am
 * New movies: Jack and Jill, Selena, Superman 1978, The Devil's Backbone, Faster, Pussycat! Kill! Kill!, Mandy
 
