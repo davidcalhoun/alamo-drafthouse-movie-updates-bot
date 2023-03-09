@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Thu 3/9 2:18pm
+* New movies: The Super Mario Bros. Movie, The Super Mario Bros. Movie, The Super Mario Bros. Movie
+
+* New screenings: 
+    * [Family Party The Super Mario Bros Movie](https://drafthouse.com/los-angeles/show/family-party-the-super-mario-bros-movie): Sat 4/8 (10:45am), Sun 4/9 (10:45am)
+
+    * [Movie Party The Super Mario Bros Movie](https://drafthouse.com/los-angeles/show/movie-party-the-super-mario-bros-movie): Thu 4/6 (7:00pm), Fri 4/7 (7:00pm)
+
+    * [The Super Mario Bros Movie](https://drafthouse.com/los-angeles/show/the-super-mario-bros-movie): Wed 4/5 (11:00am, 1:40pm, 4:20pm, 7:00pm), Thu 4/6 (11:00am, 1:40pm, 4:20pm, 9:50pm), Fri 4/7 (11:00am, 1:40pm, 4:20pm, 9:50pm), Sat 4/8 (2:20pm, 5:00pm, 7:45pm), Sun 4/9 (2:20pm, 5:00pm, 7:45pm)
+
 ### Thu 3/9 12:19pm
 * New movies: Enys Men
 
