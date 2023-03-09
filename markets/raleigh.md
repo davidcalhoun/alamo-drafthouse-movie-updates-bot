@@ -1,6 +1,18 @@
 # raleigh
 
 ## Movie updates
+### Thu 3/9 3:23pm
+* New movies: Event Horizon, Videodrome, Happiness of the Katakuris, Times Square
+
+* New screenings: 
+    * [Terror Tuesday Event Horizon](https://drafthouse.com/raleigh/show/terror-tuesday-event-horizon): Tue 4/4 (9:30pm)
+
+    * [Terror Tuesday Videodrome](https://drafthouse.com/raleigh/show/terror-tuesday-videodrome): Tue 4/11 (9:30pm)
+
+    * [Weird Wednesday Happiness Of The Katakuris](https://drafthouse.com/raleigh/show/weird-wednesday-happiness-of-the-katakuris): Wed 4/19 (9:30pm)
+
+    * [Weird Wednesday Times Square](https://drafthouse.com/raleigh/show/weird-wednesday-times-square): Wed 4/12 (9:30pm)
+
 ### Thu 3/9 2:17pm
 * New movies: Clueless, Evil Dead II, The Doom Generation, A Life on the Farm, Tammy and the T-Rex
 
