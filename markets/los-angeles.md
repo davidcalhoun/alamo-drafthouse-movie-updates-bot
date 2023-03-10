@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 3/9 5:41pm
+
+* New screenings: 
+    * [John Wick Chapter 4](https://drafthouse.com/los-angeles/show/john-wick-chapter-4): Tue 3/28 (11:30am, 3:30pm, 7:30pm)
+
 ### Thu 3/9 3:19pm
 
 * New screenings: 
