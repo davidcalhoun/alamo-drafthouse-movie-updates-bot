@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Fri 3/10 12:23am
+* New movies: Dungeons & Dragons: Honor Among Thieves, Dungeons & Dragons: Honor Among Thieves
+
+* New screenings: 
+    * [Brunch Screenings Dungeons Dragons Honor Among Thieves Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-dungeons-dragons-honor-among-thieves-brunch): Sat 4/1 (11:00am), Sun 4/2 (12:00pm)
+
+    * [Dungeons Dragons Honor Among Thieves](https://drafthouse.com/los-angeles/show/dungeons-dragons-honor-among-thieves): Thu 3/30 (3:00pm, 6:30pm, 10:00pm), Fri 3/31 (11:00am, 2:30pm, 6:00pm, 9:30pm), Sat 4/1 (2:30pm, 6:00pm, 9:30pm), Sun 4/2 (3:30pm)
+
+    * [The Lake House](https://drafthouse.com/los-angeles/show/the-lake-house): Tue 3/28 (8:00pm)
+
 ### Thu 3/9 8:22pm
 
 * New screenings: 
