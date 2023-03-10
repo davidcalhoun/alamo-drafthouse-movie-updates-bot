@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 3/10 2:16pm
+* New movies: Assault on Precinct 13, Enys Men
+
+* New screenings: 
+    * [Assault On Precinct 13](https://drafthouse.com/los-angeles/show/assault-on-precinct-13): Tue 4/11 (8:00pm), Wed 4/12 (8:00pm)
+
+    * [Live Q A Enys Men](https://drafthouse.com/los-angeles/show/live-q-a-enys-men): Mon 4/3 (7:00pm)
+
 ### Fri 3/10 1:18am
 
 * New screenings: 
