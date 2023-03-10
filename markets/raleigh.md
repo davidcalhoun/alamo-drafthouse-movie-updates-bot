@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 3/10 3:28am
+* New movies: Dungeons & Dragons: Honor Among Thieves
+
+* New screenings: 
+    * [Dungeons Dragons Honor Among Thieves](https://drafthouse.com/raleigh/show/dungeons-dragons-honor-among-thieves): Fri 3/31 (7:00pm, 10:20pm), Sat 4/1 (5:30pm, 9:00pm), Sun 4/2 (6:00pm, 9:30pm)
+
 ### Thu 3/9 5:22pm
 * New movies: The Super Mario Bros. Movie, The Super Mario Bros. Movie, The Super Mario Bros. Movie, The Super Mario Bros. Movie
 
