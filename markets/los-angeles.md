@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 3/10 1:18am
+
+* New screenings: 
+    * [Brunch Screenings John Wick Chapter 4 Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-john-wick-chapter-4-brunch): Sun 3/26 (11:30am)
+
 ### Fri 3/10 12:23am
 * New movies: Dungeons & Dragons: Honor Among Thieves, Dungeons & Dragons: Honor Among Thieves
 
