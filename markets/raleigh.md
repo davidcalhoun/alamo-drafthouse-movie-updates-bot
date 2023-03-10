@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 3/10 1:25pm
+
+* New screenings: 
+    * [Shazam Fury Of The Gods](https://drafthouse.com/raleigh/show/shazam-fury-of-the-gods): Tue 3/21 (12:15pm, 3:30pm)
+
 ### Fri 3/10 3:28am
 * New movies: Dungeons & Dragons: Honor Among Thieves
 
