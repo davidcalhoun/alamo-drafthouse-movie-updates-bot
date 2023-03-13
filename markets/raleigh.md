@@ -1,6 +1,40 @@
 # raleigh
 
 ## Movie updates
+### Mon 3/13 7:21pm
+* New movies: Everything Everywhere All At Once, Bill & Ted's Excellent Adventure, The Whale
+
+* New screenings: 
+    * [A Scanner Darkly](https://drafthouse.com/raleigh/show/a-scanner-darkly): Sat 3/18 (8:00pm, 10:50pm)
+
+    * [Ant Man And The Wasp Quantumania](https://drafthouse.com/raleigh/show/ant-man-and-the-wasp-quantumania): Thu 3/16 (12:45pm, 2:00pm, 6:00pm, 9:15pm), Fri 3/17 (11:50am, 3:00pm, 6:45pm, 9:55pm), Sat 3/18 (11:50am, 3:00pm, 6:45pm, 9:55pm), Sun 3/19 (12:15pm, 3:00pm, 6:45pm, 9:55pm), Mon 3/20 (11:50am, 3:00pm, 6:45pm, 9:55pm)
+
+    * [Bill Teds Excellent Adventure](https://drafthouse.com/raleigh/show/bill-teds-excellent-adventure): Fri 3/17 (8:00pm, 10:30pm)
+
+    * [Champions](https://drafthouse.com/raleigh/show/champions): Thu 3/16 (12:20pm, 3:30pm, 6:45pm), Fri 3/17 (12:20pm, 3:30pm, 7:15pm), Sat 3/18 (12:20pm, 3:30pm, 7:15pm), Sun 3/19 (11:50am, 3:30pm, 7:15pm), Mon 3/20 (12:20pm, 3:30pm, 7:15pm)
+
+    * [Cocaine Bear](https://drafthouse.com/raleigh/show/cocaine-bear): Thu 3/16 (1:30pm, 5:15pm, 8:00pm, 10:50pm), Fri 3/17 (1:30pm, 5:30pm, 8:15pm, 10:55pm), Sat 3/18 (1:30pm, 5:30pm, 8:15pm, 10:55pm), Sun 3/19 (1:30pm, 5:30pm, 8:15pm, 10:55pm), Mon 3/20 (1:30pm, 5:30pm, 8:15pm, 10:55pm)
+
+    * [Creed Iii](https://drafthouse.com/raleigh/show/creed-iii): Thu 3/16 (11:30am, 12:30pm, 2:30pm, 3:30pm, 6:30pm, 7:00pm, 9:30pm, 10:00pm), Fri 3/17 (11:25am, 1:45pm, 4:10pm, 4:40pm, 7:30pm, 9:05pm, 10:45pm), Sat 3/18 (1:45pm, 3:30pm, 4:10pm, 7:45pm, 9:10pm), Sun 3/19 (11:00am, 4:15pm, 4:40pm, 7:00pm, 7:45pm, 10:00pm, 10:30pm), Mon 3/20 (11:25am, 1:45pm, 4:10pm, 4:40pm, 6:00pm, 7:45pm, 9:00pm, 10:25pm)
+
+    * [Demon Slayer To The Swordsmith Village Subtitled](https://drafthouse.com/raleigh/show/demon-slayer-to-the-swordsmith-village-subtitled): Thu 3/16 (11:00am, 2:55pm)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/raleigh/show/everything-everywhere-all-at-once): Thu 3/16 (1:20pm, 4:00pm, 8:15pm), Fri 3/17 (1:15pm), Sat 3/18 (1:15pm), Sun 3/19 (1:15pm, 8:00pm), Mon 3/20 (1:15pm, 8:30pm)
+
+    * [Knock At The Cabin](https://drafthouse.com/raleigh/show/knock-at-the-cabin): Thu 3/16 (10:30pm)
+
+    * [Operation Fortune](https://drafthouse.com/raleigh/show/operation-fortune): Thu 3/16 (4:45pm), Fri 3/17 (10:50pm), Sat 3/18 (10:45pm), Sun 3/19 (10:45pm), Mon 3/20 (10:45pm)
+
+    * [Scream Vi](https://drafthouse.com/raleigh/show/scream-vi): Thu 3/16 (1:00pm, 1:55pm, 4:10pm, 7:15pm, 7:45pm, 10:15pm), Fri 3/17 (12:00pm, 2:15pm, 3:15pm, 6:00pm, 9:10pm, 9:30pm), Sat 3/18 (12:15pm, 2:15pm, 4:40pm, 7:00pm, 7:30pm, 9:30pm, 10:05pm, 10:40pm), Sun 3/19 (12:50pm, 3:15pm, 3:55pm, 7:30pm, 9:30pm, 10:45pm), Mon 3/20 (12:00pm, 2:15pm, 3:15pm, 7:30pm, 10:40pm)
+
+    * [Shazam Fury Of The Gods](https://drafthouse.com/raleigh/show/shazam-fury-of-the-gods): Thu 3/16 (5:00pm, 5:30pm, 8:45pm, 9:55pm), Fri 3/17 (11:30am, 1:00pm, 2:45pm, 4:15pm, 4:45pm, 5:15pm, 6:15pm, 8:30pm), Sat 3/18 (12:30pm, 1:00pm, 3:45pm, 4:15pm, 4:45pm, 5:15pm, 6:15pm, 8:30pm), Sun 3/19 (1:00pm, 4:15pm, 4:45pm, 5:15pm, 6:15pm, 8:30pm), Mon 3/20 (11:30am, 1:00pm, 2:45pm, 4:15pm, 4:45pm, 5:15pm, 6:15pm, 9:30pm)
+
+    * [Sixty Five](https://drafthouse.com/raleigh/show/sixty-five): Thu 3/16 (12:15pm, 4:15pm, 7:30pm, 10:40pm), Fri 3/17 (11:00am, 2:30pm, 6:30pm, 10:25pm), Sat 3/18 (11:45am, 2:30pm, 6:30pm, 10:25pm), Sun 3/19 (12:15pm, 2:55pm, 6:30pm, 9:10pm), Mon 3/20 (11:00am, 2:30pm, 6:30pm, 9:05pm)
+
+    * [The Whale](https://drafthouse.com/raleigh/show/the-whale): Fri 3/17 (11:15am), Sat 3/18 (11:15am), Sun 3/19 (1:45pm), Mon 3/20 (11:15am)
+
+    * [Yes Madam](https://drafthouse.com/raleigh/show/yes-madam): Mon 3/20 (8:00pm, 10:50pm)
+
 ### Fri 3/10 1:25pm
 
 * New screenings: 
