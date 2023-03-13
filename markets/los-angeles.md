@@ -1,6 +1,44 @@
 # los-angeles
 
 ## Movie updates
+### Mon 3/13 3:17pm
+* New movies: The Whale
+
+* New screenings: 
+    * [A Scanner Darkly](https://drafthouse.com/los-angeles/show/a-scanner-darkly): Fri 3/17 (5:00pm), Sat 3/18 (2:00pm)
+
+    * [Ant Man And The Wasp Quantumania](https://drafthouse.com/los-angeles/show/ant-man-and-the-wasp-quantumania): Thu 3/16 (3:15pm, 6:30pm, 9:45pm), Fri 3/17 (11:45am, 3:00pm, 6:15pm, 9:30pm), Sat 3/18 (11:45am, 3:00pm, 6:15pm, 9:30pm), Sun 3/19 (11:45am, 3:00pm, 6:15pm), Mon 3/20 (11:45am, 3:00pm, 6:15pm), Tue 3/21 (11:45am, 3:00pm, 6:15pm), Wed 3/22 (11:45am, 3:00pm, 6:15pm)
+
+    * [Cocaine Bear](https://drafthouse.com/los-angeles/show/cocaine-bear): Thu 3/16 (4:45pm, 7:30pm, 10:20pm), Fri 3/17 (11:00am, 1:45pm, 4:35pm, 7:30pm, 10:20pm), Sat 3/18 (11:00am, 1:45pm, 4:35pm, 7:30pm, 10:20pm), Sun 3/19 (11:00am, 1:45pm, 4:30pm, 7:15pm), Mon 3/20 (11:30am, 2:15pm, 5:00pm, 7:45pm), Tue 3/21 (11:15am, 2:00pm, 4:45pm, 7:45pm), Wed 3/22 (11:30am, 2:20pm, 5:15pm, 8:00pm)
+
+    * [Creed Iii](https://drafthouse.com/los-angeles/show/creed-iii): Thu 3/16 (2:45pm, 6:00pm, 9:15pm), Fri 3/17 (11:30am, 2:45pm, 6:00pm, 9:10pm), Sat 3/18 (11:15am, 2:30pm, 6:00pm, 9:10pm), Sun 3/19 (12:30pm, 4:15pm, 7:45pm), Mon 3/20 (12:30pm, 4:15pm, 7:30pm), Tue 3/21 (12:35pm, 4:15pm, 7:30pm), Wed 3/22 (12:30pm, 4:15pm, 7:30pm)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/los-angeles/show/everything-everywhere-all-at-once): Thu 3/16 (3:15pm, 6:15pm, 9:45pm), Fri 3/17 (11:15am, 1:30pm, 2:45pm, 6:15pm, 9:15pm, 10:10pm), Sat 3/18 (11:15am, 2:45pm, 6:15pm, 7:15pm, 9:15pm, 10:10pm), Sun 3/19 (12:45pm, 2:30pm, 6:00pm), Mon 3/20 (12:45pm, 2:30pm, 6:00pm), Tue 3/21 (12:45pm, 2:30pm, 6:00pm, 7:30pm), Wed 3/22 (12:45pm, 2:30pm, 5:45pm)
+
+    * [In Brunch We Trust Booksmart](https://drafthouse.com/los-angeles/show/in-brunch-we-trust-booksmart): Sun 3/19 (11:15am)
+
+    * [Inside](https://drafthouse.com/los-angeles/show/inside): Mon 3/20 (12:15pm, 3:25pm, 6:30pm), Tue 3/21 (12:20pm, 3:25pm, 6:30pm), Wed 3/22 (1:15pm, 4:00pm, 6:00pm)
+
+    * [Livestream Q A Johnny Mnemonic In Black And White W Pre Recorded Q A](https://drafthouse.com/los-angeles/show/livestream-q-a-johnny-mnemonic-in-black-and-white-w-pre-recorded-q-a): Thu 3/16 (10:10pm)
+
+    * [Millennium Mambo](https://drafthouse.com/los-angeles/show/millennium-mambo): Mon 3/20 (12:00pm)
+
+    * [Operation Fortune](https://drafthouse.com/los-angeles/show/operation-fortune): Thu 3/16 (4:15pm), Fri 3/17 (10:30pm), Sat 3/18 (10:45pm), Sun 3/19 (4:45pm), Mon 3/20 (2:50pm), Tue 3/21 (12:10pm), Wed 3/22 (11:15am)
+
+    * [Return To Seoul](https://drafthouse.com/los-angeles/show/return-to-seoul): Thu 3/16 (3:45pm, 7:00pm), Fri 3/17 (12:30pm, 3:45pm, 7:00pm), Sat 3/18 (12:30pm, 3:45pm, 7:00pm), Sun 3/19 (12:30pm, 3:45pm, 7:30pm), Mon 3/20 (12:30pm, 3:45pm, 7:00pm), Tue 3/21 (12:30pm, 3:45pm, 7:00pm), Wed 3/22 (12:30pm, 3:45pm, 7:00pm)
+
+    * [Scream Vi](https://drafthouse.com/los-angeles/show/scream-vi): Thu 3/16 (2:45pm, 4:10pm, 6:00pm, 7:30pm, 9:15pm, 10:45pm), Fri 3/17 (11:00am, 2:15pm, 5:30pm, 8:45pm, 10:30pm), Sat 3/18 (11:00am, 2:15pm, 5:30pm, 8:45pm, 10:30pm), Sun 3/19 (11:30am, 2:45pm, 5:30pm, 7:15pm), Mon 3/20 (11:20am, 12:45pm, 2:30pm, 4:00pm, 5:45pm, 7:15pm), Tue 3/21 (11:20am, 12:50pm, 2:30pm, 4:00pm, 5:45pm, 7:15pm), Wed 3/22 (11:15am, 12:45pm, 2:30pm, 4:15pm, 7:45pm)
+
+    * [Shazam Fury Of The Gods](https://drafthouse.com/los-angeles/show/shazam-fury-of-the-gods): Mon 3/20 (12:00pm, 3:30pm, 7:00pm), Tue 3/21 (1:30pm, 3:15pm, 6:45pm), Wed 3/22 (11:30am, 3:00pm, 6:30pm)
+
+    * [Sixty Five](https://drafthouse.com/los-angeles/show/sixty-five): Thu 3/16 (3:30pm, 6:45pm, 9:30pm), Fri 3/17 (1:00pm, 3:45pm, 6:30pm, 9:45pm), Sat 3/18 (1:00pm, 3:45pm, 6:30pm, 9:45pm), Sun 3/19 (11:45am, 3:45pm, 7:00pm), Mon 3/20 (11:45am, 3:45pm, 6:45pm), Tue 3/21 (11:45am, 3:45pm, 6:30pm), Wed 3/22 (11:45am, 3:45pm, 6:45pm)
+
+    * [Special Event Rrr Fan Celebrrration](https://drafthouse.com/los-angeles/show/special-event-rrr-fan-celebrrration): Thu 3/16 (8:40pm), Fri 3/17 (11:45am, 8:00pm), Sat 3/18 (2:45pm), Sun 3/19 (6:30pm), Mon 3/20 (3:10pm), Tue 3/21 (12:00pm), Wed 3/22 (12:10pm)
+
+    * [Spring Breakers](https://drafthouse.com/los-angeles/show/spring-breakers): Thu 3/16 (2:45pm)
+
+    * [The Whale](https://drafthouse.com/los-angeles/show/the-whale): Thu 3/16 (3:00pm, 5:30pm), Fri 3/17 (4:15pm, 7:30pm), Sat 3/18 (5:00pm, 8:15pm), Sun 3/19 (2:15pm), Mon 3/20 (11:45am, 6:00pm), Tue 3/21 (4:20pm, 8:00pm), Wed 3/22 (4:30pm)
+
 ### Mon 3/13 1:23am
 
 * New screenings: 
