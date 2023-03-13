@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 3/13 1:23am
+
+* New screenings: 
+    * [Spring Breakers](https://drafthouse.com/los-angeles/show/spring-breakers): Thu 3/16 (9:00pm)
+
 ### Fri 3/10 2:16pm
 * New movies: Assault on Precinct 13, Enys Men
 
