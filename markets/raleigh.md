@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 3/14 4:28pm
+* New movies: How to Blow Up a Pipeline
+
+* New screenings: 
+    * [Livestream Q A How To Blow Up A Pipeline](https://drafthouse.com/raleigh/show/livestream-q-a-how-to-blow-up-a-pipeline): Tue 3/21 (8:00pm)
+
 ### Tue 3/14 12:36pm
 
 * New screenings: 
