@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 3/14 11:27am
+
+* New screenings: 
+    * [Shazam Fury Of The Gods](https://drafthouse.com/raleigh/show/shazam-fury-of-the-gods): Wed 3/22 (6:45pm)
+
 ### Mon 3/13 10:36pm
 
 * New screenings: 
