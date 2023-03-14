@@ -1,6 +1,29 @@
 # raleigh
 
 ## Movie updates
+### Mon 3/13 9:32pm
+
+* New screenings: 
+    * [Ant Man And The Wasp Quantumania](https://drafthouse.com/raleigh/show/ant-man-and-the-wasp-quantumania): Tue 3/21 (11:50am, 3:00pm, 6:45pm, 9:55pm), Wed 3/22 (11:45am, 3:00pm, 6:30pm, 10:25pm)
+
+    * [Champions](https://drafthouse.com/raleigh/show/champions): Tue 3/21 (12:20pm, 3:30pm), Wed 3/22 (12:20pm, 3:30pm, 7:15pm)
+
+    * [Cocaine Bear](https://drafthouse.com/raleigh/show/cocaine-bear): Tue 3/21 (1:10pm, 3:50pm, 7:45pm, 10:50pm), Wed 3/22 (1:30pm, 5:30pm, 8:15pm, 10:55pm)
+
+    * [Creed Iii](https://drafthouse.com/raleigh/show/creed-iii): Fri 3/17 (9:55pm), Tue 3/21 (11:40am, 12:15pm, 2:30pm, 4:10pm, 5:45pm, 7:15pm, 9:05pm), Wed 3/22 (12:15pm, 4:10pm, 7:45pm, 9:00pm)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/raleigh/show/everything-everywhere-all-at-once): Fri 3/17 (8:00pm, 8:30pm), Sat 3/18 (8:00pm, 8:30pm), Tue 3/21 (1:15pm, 8:30pm), Wed 3/22 (1:15pm, 8:30pm)
+
+    * [Operation Fortune](https://drafthouse.com/raleigh/show/operation-fortune): Tue 3/21 (8:45pm), Wed 3/22 (10:45pm)
+
+    * [Scream Vi](https://drafthouse.com/raleigh/show/scream-vi): Sat 3/18 (10:10pm), Tue 3/21 (12:55pm, 2:40pm, 4:40pm, 7:30pm, 9:30pm, 10:15pm, 10:45pm), Wed 3/22 (11:00am, 2:15pm, 3:15pm, 4:40pm, 7:30pm, 10:00pm, 10:40pm)
+
+    * [Shazam Fury Of The Gods](https://drafthouse.com/raleigh/show/shazam-fury-of-the-gods): Tue 3/21 (12:30pm, 1:00pm, 3:45pm, 4:15pm, 6:15pm, 9:45pm, 10:25pm), Wed 3/22 (11:30am, 12:30pm, 1:00pm, 2:45pm, 3:45pm, 4:15pm, 4:45pm, 5:15pm, 6:00pm, 6:45pm, 8:00pm, 9:15pm)
+
+    * [Sixty Five](https://drafthouse.com/raleigh/show/sixty-five): Tue 3/21 (11:55am, 3:15pm, 6:30pm, 10:30pm), Wed 3/22 (11:50am, 2:30pm, 6:15pm, 9:45pm)
+
+    * [The Whale](https://drafthouse.com/raleigh/show/the-whale): Tue 3/21 (5:30pm), Wed 3/22 (1:45pm)
+
 ### Mon 3/13 7:21pm
 * New movies: Everything Everywhere All At Once, Bill & Ted's Excellent Adventure, The Whale
 
