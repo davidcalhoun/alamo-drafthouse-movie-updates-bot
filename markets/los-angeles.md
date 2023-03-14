@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 3/14 3:16pm
+
+* New screenings: 
+    * [Shazam Fury Of The Gods](https://drafthouse.com/los-angeles/show/shazam-fury-of-the-gods): Tue 3/21 (11:15am)
+
 ### Tue 3/14 7:19am
 * New movies: How to Blow Up a Pipeline
 
