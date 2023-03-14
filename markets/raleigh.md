@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Mon 3/13 10:36pm
+
+* New screenings: 
+    * [Scream Vi](https://drafthouse.com/raleigh/show/scream-vi): Fri 3/17 (7:45pm)
+
+    * [Shazam Fury Of The Gods](https://drafthouse.com/raleigh/show/shazam-fury-of-the-gods): Mon 3/20 (9:05pm)
+
 ### Mon 3/13 9:32pm
 
 * New screenings: 
