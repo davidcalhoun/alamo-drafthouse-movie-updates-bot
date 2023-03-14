@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 3/14 12:36pm
+
+* New screenings: 
+    * [Everything Everywhere All At Once](https://drafthouse.com/raleigh/show/everything-everywhere-all-at-once): Wed 3/22 (8:30pm)
+
 ### Tue 3/14 11:27am
 
 * New screenings: 
