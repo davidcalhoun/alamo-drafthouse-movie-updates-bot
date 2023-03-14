@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 3/14 7:19am
+* New movies: How to Blow Up a Pipeline
+
+* New screenings: 
+    * [Livestream Q A How To Blow Up A Pipeline](https://drafthouse.com/los-angeles/show/livestream-q-a-how-to-blow-up-a-pipeline): Tue 3/21 (5:00pm)
+
 ### Mon 3/13 3:17pm
 * New movies: The Whale
 
