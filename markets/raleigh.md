@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Wed 3/15 10:20am
+* New movies: Tetris, Tetris
+
+* New screenings: 
+    * [Advance Screening Tetris Free Advance Screening](https://drafthouse.com/raleigh/show/advance-screening-tetris-free-advance-screening): Wed 3/22 (7:30pm)
+
+    * [Tetris](https://drafthouse.com/raleigh/show/tetris): Thu 3/23 (7:45pm, 10:45pm), Fri 3/24 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sat 3/25 (3:15pm, 6:15pm, 9:15pm)
+
 ### Tue 3/14 4:28pm
 * New movies: How to Blow Up a Pipeline
 
