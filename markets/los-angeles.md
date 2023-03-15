@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 3/15 7:16am
+* New movies: Tetris, Tetris
+
+* New screenings: 
+    * [Advance Screening Tetris Free Advance Screening](https://drafthouse.com/los-angeles/show/advance-screening-tetris-free-advance-screening): Wed 3/22 (7:30pm)
+
+    * [Tetris](https://drafthouse.com/los-angeles/show/tetris): Thu 3/23 (7:15pm, 10:25pm), Fri 3/24 (11:40am, 2:50pm, 6:00pm, 9:10pm), Sat 3/25 (11:40am, 2:50pm, 6:00pm, 9:10pm)
+
 ### Tue 3/14 3:16pm
 
 * New screenings: 
