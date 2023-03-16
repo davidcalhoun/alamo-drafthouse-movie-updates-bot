@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Thu 3/16 2:14pm
+* New movies: A Thousand and One
+
+* New screenings: 
+    * [A Thousand And One](https://drafthouse.com/los-angeles/show/a-thousand-and-one): Thu 3/30 (7:00pm, 10:15pm), Fri 3/31 (11:45am, 3:15pm, 7:00pm, 10:30pm), Sat 4/1 (11:45am, 3:15pm, 7:00pm, 10:30pm), Sun 4/2 (11:30am, 3:00pm, 6:45pm)
+
+    * [John Wick Chapter 4](https://drafthouse.com/los-angeles/show/john-wick-chapter-4): Thu 3/30 (3:00pm, 6:00pm, 10:00pm), Fri 3/31 (11:15am, 3:00pm, 6:30pm, 10:10pm), Sat 4/1 (11:15am, 3:00pm, 6:30pm, 10:10pm), Sun 4/2 (11:00am, 2:45pm, 6:15pm)
+
+    * [The Super Mario Bros Movie](https://drafthouse.com/los-angeles/show/the-super-mario-bros-movie): Wed 4/5 (7:45pm), Thu 4/6 (7:45pm)
+
 ### Wed 3/15 7:16am
 * New movies: Tetris, Tetris
 
