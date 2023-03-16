@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 3/16 4:22pm
+* New movies: How to Blow Up a Pipeline
+
+* New screenings: 
+    * [How To Blow Up A Pipeline](https://drafthouse.com/raleigh/show/how-to-blow-up-a-pipeline): Thu 4/13 (10:15pm), Fri 4/14 (7:00pm, 9:50pm), Sat 4/15 (7:45pm, 10:40pm), Sun 4/16 (7:45pm, 10:40pm)
+
 ### Wed 3/15 10:20am
 * New movies: Tetris, Tetris
 
