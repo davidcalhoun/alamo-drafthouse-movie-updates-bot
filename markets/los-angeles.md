@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 3/17 2:14pm
+
+* New screenings: 
+    * [The Super Mario Bros Movie](https://drafthouse.com/los-angeles/show/the-super-mario-bros-movie): Thu 4/6 (11:00am)
+
 ### Fri 3/17 9:23am
 * New movies: A Good Person
 
