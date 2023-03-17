@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 3/17 9:23am
+* New movies: A Good Person
+
+* New screenings: 
+    * [A Good Person](https://drafthouse.com/los-angeles/show/a-good-person): Thu 3/23 (4:10pm, 7:30pm, 10:50pm), Fri 3/24 (3:20pm, 6:45pm), Sat 3/25 (3:20pm, 6:45pm)
+
 ### Thu 3/16 11:20pm
 
 * New screenings: 
