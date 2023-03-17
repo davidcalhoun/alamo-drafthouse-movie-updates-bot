@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 3/16 7:37pm
+* New movies: How to Blow Up a Pipeline
+
+* New screenings: 
+    * [How To Blow Up A Pipeline](https://drafthouse.com/los-angeles/show/how-to-blow-up-a-pipeline): Thu 4/6 (7:15pm, 10:10pm), Fri 4/7 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 4/8 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sun 4/9 (12:00pm, 3:00pm, 6:00pm)
+
 ### Thu 3/16 2:14pm
 * New movies: A Thousand and One
 
