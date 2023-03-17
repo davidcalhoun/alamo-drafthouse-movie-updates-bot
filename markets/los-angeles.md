@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 3/16 11:20pm
+
+* New screenings: 
+    * [John Wick Chapter 4](https://drafthouse.com/los-angeles/show/john-wick-chapter-4): Fri 3/24 (11:15am), Sat 3/25 (11:15am)
+
 ### Thu 3/16 7:37pm
 * New movies: How to Blow Up a Pipeline
 
