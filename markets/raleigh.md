@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Sat 3/18 10:18am
+
+* New screenings: 
+    * [How To Blow Up A Pipeline](https://drafthouse.com/raleigh/show/how-to-blow-up-a-pipeline): Thu 4/13 (10:05pm), Fri 4/14 (1:30pm, 4:15pm), Sat 4/15 (11:30am, 2:15pm, 5:00pm), Sun 4/16 (1:30pm, 4:15pm), Mon 4/17 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Tue 4/18 (11:00am, 1:45pm, 4:45pm, 7:30pm, 10:45pm)
+
+    * [The Super Mario Bros Movie](https://drafthouse.com/raleigh/show/the-super-mario-bros-movie): Tue 4/11 (12:15pm, 2:55pm, 5:30pm), Thu 4/13 (11:30am, 2:15pm)
+
 ### Sat 3/18 4:24am
 * New movies: Dungeons & Dragons: Honor Among Thieves
 
