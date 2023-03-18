@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Sat 3/18 4:24am
+* New movies: Dungeons & Dragons: Honor Among Thieves
+
+* New screenings: 
+    * [Advance Screening Dungeons Dragons Honor Among Thieves Amazon Prime Early Showing](https://drafthouse.com/raleigh/show/advance-screening-dungeons-dragons-honor-among-thieves-amazon-prime-early-showing): Sun 3/19 (2:00pm)
+
 ### Thu 3/16 4:22pm
 * New movies: How to Blow Up a Pipeline
 
