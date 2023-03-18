@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Sat 3/18 4:20pm
+
+* New screenings: 
+    * [Fast X](https://drafthouse.com/raleigh/show/fast-x): Thu 5/18 (5:15pm, 8:30pm), Fri 5/19 (12:30pm, 3:45pm, 10:15pm), Sat 5/20 (12:30pm, 3:45pm, 10:15pm), Sun 5/21 (12:30pm, 3:45pm, 10:15pm), Mon 5/22 (12:30pm, 3:45pm, 10:15pm), Tue 5/23 (12:30pm, 3:45pm), Wed 5/24 (12:30pm, 3:45pm, 10:15pm)
+
 ### Sat 3/18 11:19am
 
 * New screenings: 
