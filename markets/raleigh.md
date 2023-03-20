@@ -1,6 +1,38 @@
 # raleigh
 
 ## Movie updates
+### Mon 3/20 5:18pm
+* New movies: A Good Person
+
+* New screenings: 
+    * [A Good Person](https://drafthouse.com/raleigh/show/a-good-person): Thu 3/23 (4:00pm, 7:15pm, 10:30pm)
+
+    * [Ant Man And The Wasp Quantumania](https://drafthouse.com/raleigh/show/ant-man-and-the-wasp-quantumania): Thu 3/23 (2:45pm)
+
+    * [Champions](https://drafthouse.com/raleigh/show/champions): Thu 3/23 (11:00am)
+
+    * [Cocaine Bear](https://drafthouse.com/raleigh/show/cocaine-bear): Thu 3/23 (3:45pm, 6:30pm)
+
+    * [Creed Iii](https://drafthouse.com/raleigh/show/creed-iii): Thu 3/23 (11:55am, 12:30pm, 5:00pm, 6:00pm, 9:15pm)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/raleigh/show/everything-everywhere-all-at-once): Thu 3/23 (1:00pm, 2:00pm)
+
+    * [John Wick Chapter 4](https://drafthouse.com/raleigh/show/john-wick-chapter-4): Thu 3/23 (3:30pm, 4:30pm, 5:30pm, 7:30pm, 8:00pm, 8:30pm, 9:00pm, 9:30pm, 9:50pm)
+
+    * [Millennium Mambo](https://drafthouse.com/raleigh/show/millennium-mambo): Thu 3/23 (12:00pm)
+
+    * [Operation Fortune](https://drafthouse.com/raleigh/show/operation-fortune): Thu 3/23 (12:55pm)
+
+    * [Scream Vi](https://drafthouse.com/raleigh/show/scream-vi): Thu 3/23 (12:30pm, 1:30pm, 3:40pm, 4:40pm, 6:45pm, 10:45pm)
+
+    * [Shazam Fury Of The Gods](https://drafthouse.com/raleigh/show/shazam-fury-of-the-gods): Thu 3/23 (11:40am, 2:55pm, 6:15pm, 9:35pm)
+
+    * [Sixty Five](https://drafthouse.com/raleigh/show/sixty-five): Thu 3/23 (11:15am)
+
+    * [The Whale](https://drafthouse.com/raleigh/show/the-whale): Thu 3/23 (12:45pm)
+
+    * [Yes Madam](https://drafthouse.com/raleigh/show/yes-madam): Thu 3/23 (2:15pm)
+
 ### Sat 3/18 4:20pm
 
 * New screenings: 
