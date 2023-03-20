@@ -1,6 +1,40 @@
 # los-angeles
 
 ## Movie updates
+### Mon 3/20 1:17pm
+* New movies: A Good Person, A Thousand and One
+
+* New screenings: 
+    * [A Good Person](https://drafthouse.com/los-angeles/show/a-good-person): Fri 3/24 (11:30am, 10:20pm), Sat 3/25 (11:35am, 10:35pm), Sun 3/26 (12:00pm, 3:15pm, 6:45pm), Mon 3/27 (11:45am, 3:15pm, 7:00pm), Tue 3/28 (11:45am, 3:10pm, 6:15pm), Wed 3/29 (11:45am, 3:10pm, 7:10pm)
+
+    * [Advance Screening A Thousand And One](https://drafthouse.com/los-angeles/show/advance-screening-a-thousand-and-one): Tue 3/28 (7:00pm)
+
+    * [Ant Man And The Wasp Quantumania](https://drafthouse.com/los-angeles/show/ant-man-and-the-wasp-quantumania): Thu 3/23 (3:25pm)
+
+    * [Brunch Screenings John Wick Chapter 4 Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-john-wick-chapter-4-brunch): Sat 3/25 (12:00pm), Sun 3/26 (10:30am)
+
+    * [Cocaine Bear](https://drafthouse.com/los-angeles/show/cocaine-bear): Thu 3/23 (4:00pm, 6:45pm, 10:45pm), Fri 3/24 (11:30am, 2:15pm, 5:10pm, 7:45pm, 10:30pm), Sat 3/25 (11:30am, 2:15pm, 5:10pm, 7:45pm, 11:00pm), Sun 3/26 (11:30am, 2:15pm, 5:10pm, 7:45pm), Mon 3/27 (11:45am, 2:30pm, 5:15pm, 8:00pm), Tue 3/28 (11:45am, 2:30pm, 5:15pm, 8:00pm), Wed 3/29 (11:45am, 2:30pm, 5:15pm, 8:00pm)
+
+    * [Creed Iii](https://drafthouse.com/los-angeles/show/creed-iii): Thu 3/23 (3:30pm, 6:45pm, 10:00pm), Fri 3/24 (12:25pm, 3:35pm, 7:00pm, 10:15pm), Sat 3/25 (12:25pm, 3:35pm, 7:00pm, 10:15pm), Sun 3/26 (12:25pm, 3:35pm, 7:00pm), Mon 3/27 (12:45pm, 4:00pm, 8:00pm), Tue 3/28 (12:30pm, 3:45pm, 7:30pm), Wed 3/29 (12:30pm, 3:45pm, 7:30pm)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/los-angeles/show/everything-everywhere-all-at-once): Thu 3/23 (2:30pm), Fri 3/24 (10:30am), Sat 3/25 (2:30pm), Sun 3/26 (4:30pm), Mon 3/27 (11:15am, 2:10pm), Tue 3/28 (12:35pm, 4:00pm), Wed 3/29 (12:35pm, 4:00pm)
+
+    * [Inside](https://drafthouse.com/los-angeles/show/inside): Thu 3/23 (3:10pm, 6:10pm, 9:15pm), Fri 3/24 (10:45am, 1:45pm, 4:45pm, 8:00pm, 10:50pm), Sat 3/25 (10:45am, 1:45pm, 4:45pm, 8:00pm, 10:50pm), Sun 3/26 (10:45am, 1:45pm, 4:45pm, 8:00pm), Mon 3/27 (11:00am, 1:55pm, 4:50pm, 7:45pm), Tue 3/28 (11:00am, 1:55pm, 4:50pm, 7:45pm), Wed 3/29 (11:00am, 1:55pm, 4:50pm, 7:45pm)
+
+    * [John Wick Chapter 4](https://drafthouse.com/los-angeles/show/john-wick-chapter-4): Thu 3/23 (3:15pm, 5:30pm, 6:00pm, 6:45pm, 9:30pm, 9:30pm, 10:00pm), Fri 3/24 (12:00pm, 2:00pm, 3:00pm, 4:00pm, 6:00pm, 8:00pm, 10:00pm), Sat 3/25 (2:55pm, 4:00pm, 6:00pm, 7:00pm, 8:00pm, 10:00pm, 10:20pm), Sun 3/26 (12:00pm, 12:30pm, 1:45pm, 4:00pm, 5:45pm, 8:00pm), Mon 3/27 (11:00am, 11:30am, 12:00pm, 2:45pm, 3:00pm, 3:30pm, 4:00pm, 5:45pm, 6:35pm, 7:15pm), Tue 3/28 (11:00am, 11:30am, 2:15pm, 3:00pm, 3:30pm, 6:30pm, 7:00pm), Wed 3/29 (11:00am, 11:30am, 12:00pm, 2:45pm, 3:00pm, 3:30pm, 4:00pm, 6:30pm, 7:00pm)
+
+    * [Live Q A A Good Person](https://drafthouse.com/los-angeles/show/live-q-a-a-good-person): Fri 3/24 (6:45pm), Sat 3/25 (6:45pm)
+
+    * [Return To Seoul](https://drafthouse.com/los-angeles/show/return-to-seoul): Thu 3/23 (2:25pm), Fri 3/24 (10:25am), Sat 3/25 (10:25am), Sun 3/26 (8:00pm), Mon 3/27 (11:00am), Tue 3/28 (11:10am), Wed 3/29 (11:30am)
+
+    * [Scream Vi](https://drafthouse.com/los-angeles/show/scream-vi): Thu 3/23 (4:00pm, 7:15pm, 10:30pm), Fri 3/24 (12:30pm, 3:45pm, 7:15pm, 10:30pm), Sat 3/25 (12:30pm, 3:45pm, 7:15pm, 10:30pm), Sun 3/26 (12:15pm, 3:45pm, 7:15pm), Mon 3/27 (11:55am, 3:30pm, 6:45pm), Tue 3/28 (12:15pm, 3:30pm, 6:45pm), Wed 3/29 (12:15pm, 3:30pm, 6:45pm)
+
+    * [Shazam Fury Of The Gods](https://drafthouse.com/los-angeles/show/shazam-fury-of-the-gods): Thu 3/23 (2:45pm, 6:15pm, 9:40pm), Fri 3/24 (11:15am, 2:45pm, 6:15pm, 9:45pm), Sat 3/25 (11:15am, 2:45pm, 6:15pm, 9:45pm), Sun 3/26 (11:15am, 2:45pm, 6:15pm), Mon 3/27 (11:20am, 3:00pm, 6:25pm), Tue 3/28 (11:30am, 3:00pm, 6:25pm), Wed 3/29 (11:30am, 3:00pm, 6:25pm)
+
+    * [Sixty Five](https://drafthouse.com/los-angeles/show/sixty-five): Thu 3/23 (2:20pm)
+
+    * [Tetris](https://drafthouse.com/los-angeles/show/tetris): Sun 3/26 (11:40am, 2:45pm, 6:00pm), Mon 3/27 (11:40am, 2:45pm, 6:00pm), Tue 3/28 (11:40am, 2:45pm, 6:00pm), Wed 3/29 (11:40am, 2:45pm, 6:00pm)
+
 ### Mon 3/20 9:25am
 
 * New screenings: 
