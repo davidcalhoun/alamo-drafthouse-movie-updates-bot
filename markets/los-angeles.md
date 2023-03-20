@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 3/20 9:25am
+
+* New screenings: 
+    * [Live Q A Out Of Time The Material Issue Story](https://drafthouse.com/los-angeles/show/live-q-a-out-of-time-the-material-issue-story): Fri 3/24 (9:45pm)
+
 ### Fri 3/17 2:14pm
 
 * New screenings: 
