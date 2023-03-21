@@ -1,6 +1,28 @@
 # raleigh
 
 ## Movie updates
+### Tue 3/21 6:18pm
+* New movies: A Thousand and One
+
+* New screenings: 
+    * [A Good Person](https://drafthouse.com/raleigh/show/a-good-person): Fri 3/24 (11:55am, 3:55pm, 7:15pm, 10:30pm), Sat 3/25 (11:55am, 3:45pm, 7:15pm, 10:30pm), Sun 3/26 (11:30am, 2:45pm, 6:00pm, 9:15pm), Mon 3/27 (11:15am, 3:15pm, 7:30pm, 9:15pm), Tue 3/28 (11:40am, 3:00pm, 6:45pm, 10:00pm), Wed 3/29 (11:40am, 3:00pm, 6:45pm, 10:00pm)
+
+    * [Advance Screening A Thousand And One](https://drafthouse.com/raleigh/show/advance-screening-a-thousand-and-one): Tue 3/28 (7:00pm)
+
+    * [Cocaine Bear](https://drafthouse.com/raleigh/show/cocaine-bear): Fri 3/24 (11:20am, 2:00pm, 6:45pm), Sat 3/25 (7:45pm, 10:25pm), Sun 3/26 (6:15pm, 8:55pm), Mon 3/27 (6:45pm, 10:50pm), Tue 3/28 (11:15am, 2:00pm, 10:50pm), Wed 3/29 (11:15am, 2:00pm, 10:50pm)
+
+    * [Creed Iii](https://drafthouse.com/raleigh/show/creed-iii): Fri 3/24 (12:55pm, 3:45pm, 6:00pm, 9:25pm), Sat 3/25 (12:45pm, 4:15pm, 7:00pm, 10:00pm), Sun 3/26 (1:15pm, 4:15pm, 7:30pm, 10:30pm), Mon 3/27 (12:10pm, 3:10pm, 6:15pm, 10:15pm), Tue 3/28 (11:45am, 3:45pm, 6:15pm, 9:15pm), Wed 3/29 (11:45am, 3:45pm, 6:15pm, 9:15pm)
+
+    * [Everything Everywhere All At Once](https://drafthouse.com/raleigh/show/everything-everywhere-all-at-once): Fri 3/24 (2:30pm), Sat 3/25 (2:30pm), Sun 3/26 (2:50pm), Mon 3/27 (1:15pm, 2:30pm), Tue 3/28 (12:30pm), Wed 3/29 (12:30pm)
+
+    * [John Wick Chapter 4](https://drafthouse.com/raleigh/show/john-wick-chapter-4): Fri 3/24 (11:30am, 12:00pm, 12:30pm, 1:30pm, 3:30pm, 4:00pm, 4:30pm, 5:30pm, 7:30pm, 8:00pm, 8:30pm, 9:00pm, 9:30pm), Sat 3/25 (11:30am, 12:00pm, 12:30pm, 1:00pm, 3:30pm, 4:00pm, 4:30pm, 5:00pm, 7:30pm, 8:00pm, 8:30pm, 9:00pm), Sun 3/26 (12:00pm, 12:30pm, 1:00pm, 1:30pm, 4:00pm, 4:30pm, 5:00pm, 5:30pm, 8:00pm, 8:30pm, 9:00pm, 9:30pm, 9:50pm), Mon 3/27 (11:30am, 12:00pm, 12:30pm, 1:00pm, 3:30pm, 4:00pm, 4:30pm, 5:00pm, 8:00pm, 8:30pm, 9:00pm, 9:25pm), Tue 3/28 (11:30am, 1:30pm, 2:45pm, 3:30pm, 4:00pm, 4:30pm, 5:30pm, 7:30pm, 8:00pm, 8:30pm, 9:30pm, 10:00pm), Wed 3/29 (11:30am, 1:00pm, 1:30pm, 3:30pm, 4:00pm, 4:30pm, 5:00pm, 5:30pm, 7:30pm, 8:00pm, 8:30pm, 9:00pm)
+
+    * [Scream Vi](https://drafthouse.com/raleigh/show/scream-vi): Fri 3/24 (12:40pm, 4:40pm, 7:45pm, 10:50pm), Sat 3/25 (1:30pm, 4:40pm, 6:30pm, 9:40pm), Sun 3/26 (12:20pm, 3:25pm, 7:15pm, 10:20pm), Mon 3/27 (12:25pm, 4:40pm, 7:45pm, 10:45pm), Tue 3/28 (12:55pm, 4:10pm, 7:15pm, 10:30pm), Wed 3/29 (12:55pm, 4:10pm, 7:15pm, 10:25pm)
+
+    * [Shazam Fury Of The Gods](https://drafthouse.com/raleigh/show/shazam-fury-of-the-gods): Fri 3/24 (11:15am, 3:10pm, 6:30pm, 9:45pm), Sat 3/25 (11:15am, 3:10pm, 6:00pm, 9:20pm), Sun 3/26 (12:50pm, 4:10pm, 6:30pm, 9:45pm), Mon 3/27 (11:55am, 3:55pm, 6:30pm, 9:50pm), Tue 3/28 (1:15pm, 2:45pm, 6:00pm, 9:20pm), Wed 3/29 (1:15pm, 2:45pm, 6:00pm, 9:20pm)
+
+    * [Tetris](https://drafthouse.com/raleigh/show/tetris): Sat 3/25 (1:15pm), Sun 3/26 (12:45pm, 3:45pm, 6:45pm, 10:45pm), Mon 3/27 (12:55pm, 3:40pm, 7:15pm, 10:55pm), Tue 3/28 (12:45pm, 4:45pm, 7:45pm, 10:45pm), Wed 3/29 (12:45pm, 4:45pm, 7:45pm, 10:45pm)
+
 ### Mon 3/20 11:20pm
 * New movies: Scarface 1983
 
