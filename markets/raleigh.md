@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 3/21 7:19pm
+
+* New screenings: 
+    * [Everything Everywhere All At Once](https://drafthouse.com/raleigh/show/everything-everywhere-all-at-once): Tue 3/28 (11:50am)
+
 ### Tue 3/21 6:18pm
 * New movies: A Thousand and One
 
