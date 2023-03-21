@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 3/20 9:36pm
+* New movies: Sleepaway Camp
+
+
+
 ### Mon 3/20 5:18pm
 * New movies: A Good Person
 
