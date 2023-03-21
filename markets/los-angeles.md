@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 3/20 8:16pm
+* New movies: Scarface 1983
+
+
+
 ### Mon 3/20 1:17pm
 * New movies: A Good Person, A Thousand and One
 
