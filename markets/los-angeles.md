@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 3/21 1:17pm
+
+* New screenings: 
+    * [The Super Mario Bros Movie](https://drafthouse.com/los-angeles/show/the-super-mario-bros-movie): Wed 4/5 (2:20pm, 5:00pm), Thu 4/6 (5:00pm, 10:30pm), Fri 4/7 (11:40am, 2:20pm, 5:00pm, 7:45pm, 10:25pm), Sat 4/8 (11:00am, 1:40pm, 4:20pm, 7:00pm, 9:45pm), Sun 4/9 (11:00am, 1:40pm, 4:20pm, 7:00pm)
+
 ### Mon 3/20 8:16pm
 * New movies: Scarface 1983
 
