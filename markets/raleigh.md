@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 3/20 11:20pm
+* New movies: Scarface 1983
+
+
+
 ### Mon 3/20 9:36pm
 * New movies: Sleepaway Camp
 
