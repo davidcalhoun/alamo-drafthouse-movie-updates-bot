@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 3/22 11:20am
+* New movies: Renfield
+
+
+
 ### Wed 3/22 10:14am
 * New movies: RENFIELD
 
