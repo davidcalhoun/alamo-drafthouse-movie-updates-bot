@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Wed 3/22 8:38am
+* New movies: Renfield, Renfield
+
+* New screenings: 
+    * [Advance Screening Renfield W Livestream Q A](https://drafthouse.com/raleigh/show/advance-screening-renfield-w-livestream-q-a): Tue 4/11 (8:15pm)
+
+    * [Renfield](https://drafthouse.com/raleigh/show/renfield): Fri 4/14 (11:50am, 2:30pm, 5:15pm, 8:00pm, 10:40pm), Sat 4/15 (7:15pm, 9:55pm), Sun 4/16 (11:50am, 2:30pm, 5:15pm, 8:00pm, 10:40pm), Mon 4/17 (11:50am, 2:30pm, 5:15pm, 8:00pm, 10:40pm), Tue 4/18 (8:00pm, 10:40pm)
+
 ### Tue 3/21 7:19pm
 
 * New screenings: 
