@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 3/22 12:13pm
+* New movies: How to Blow Up a Pipeline
+
+* New screenings: 
+    * [Special Event How To Blow Up A Pipeline W Live Intro](https://drafthouse.com/los-angeles/show/special-event-how-to-blow-up-a-pipeline-w-live-intro): Mon 3/27 (7:30pm)
+
 ### Wed 3/22 11:20am
 * New movies: Renfield
 
