@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 3/22 9:22am
+* New movies: Midsommar: Director's Cut
+
+* New screenings: 
+    * [Livestream Q A Midsommar Directors Cut W Beau Is Afraid Preview](https://drafthouse.com/los-angeles/show/livestream-q-a-midsommar-directors-cut-w-beau-is-afraid-preview): Sat 4/1 (12:00pm)
+
 ### Wed 3/22 5:32am
 * New movies: Renfield, Renfield
 
