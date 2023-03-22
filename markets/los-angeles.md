@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 3/22 10:14am
+* New movies: RENFIELD
+
+* New screenings: 
+    * [Renfield W Live Qa](https://drafthouse.com/los-angeles/show/renfield-w-live-qa): Tue 4/11 (5:15pm)
+
 ### Wed 3/22 9:22am
 * New movies: Midsommar: Director's Cut
 
