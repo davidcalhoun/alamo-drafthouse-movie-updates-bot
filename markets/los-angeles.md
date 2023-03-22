@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 3/22 5:32am
+* New movies: Renfield, Renfield
+
+* New screenings: 
+    * [Costume Screening Renfield Vampire Screening](https://drafthouse.com/los-angeles/show/costume-screening-renfield-vampire-screening): Thu 4/13 (6:30pm)
+
+    * [Renfield](https://drafthouse.com/los-angeles/show/renfield): Thu 4/13 (10:00pm), Fri 4/14 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Sat 4/15 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Sun 4/16 (12:45pm, 7:00pm)
+
 ### Tue 3/21 1:17pm
 
 * New screenings: 
