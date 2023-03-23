@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Thu 3/23 1:19pm
+* New movies: A Thousand and One
+
+* New screenings: 
+    * [A Thousand And One](https://drafthouse.com/raleigh/show/a-thousand-and-one): Thu 3/30 (7:00pm, 10:00pm)
+
+    * [Dungeons Dragons Honor Among Thieves](https://drafthouse.com/raleigh/show/dungeons-dragons-honor-among-thieves): Thu 3/30 (3:00pm, 6:30pm, 9:50pm), Fri 3/31 (12:00pm), Sun 4/2 (11:00am, 2:30pm)
+
+    * [John Wick Chapter 4](https://drafthouse.com/raleigh/show/john-wick-chapter-4): Thu 3/30 (11:00am, 11:30am, 3:30pm, 7:30pm)
+
 ### Thu 3/23 12:28pm
 
 * New screenings: 
