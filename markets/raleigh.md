@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Thu 3/23 9:29am
+* New movies: Renfield
+
+* New screenings: 
+    * [Costume Screening Renfield Vampire Screening](https://drafthouse.com/raleigh/show/costume-screening-renfield-vampire-screening): Thu 4/13 (7:45pm)
+
+    * [Renfield](https://drafthouse.com/raleigh/show/renfield): Thu 4/13 (5:00pm, 10:30pm)
+
 ### Wed 3/22 8:38am
 * New movies: Renfield, Renfield
 
