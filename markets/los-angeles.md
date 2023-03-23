@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Wed 3/22 6:19pm
+* New movies: The Five Devils, The Doom Generation
+
+* New screenings: 
+    * [Live Q A The Doom Generation](https://drafthouse.com/los-angeles/show/live-q-a-the-doom-generation): Sat 4/15 (6:30pm)
+
+    * [Movie Party Evil Dead Ii](https://drafthouse.com/los-angeles/show/movie-party-evil-dead-ii): Tue 4/4 (7:00pm)
+
+    * [The Five Devils](https://drafthouse.com/los-angeles/show/the-five-devils): Fri 3/31 (4:15pm, 7:15pm, 9:50pm), Sat 4/1 (4:30pm, 7:15pm), Sun 4/2 (2:30pm, 5:15pm, 8:00pm), Mon 4/3 (4:10pm, 7:00pm), Tue 4/4 (2:30pm, 5:15pm, 8:00pm), Wed 4/5 (2:00pm, 4:45pm, 7:30pm)
+
 ### Wed 3/22 12:13pm
 * New movies: How to Blow Up a Pipeline
 
