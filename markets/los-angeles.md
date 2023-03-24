@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 3/24 3:15pm
+* New movies: Smoking Causes Coughing, Shaolin Invincibles
+
+* New screenings: 
+    * [Shaolin Invincibles](https://drafthouse.com/los-angeles/show/shaolin-invincibles): Tue 4/25 (8:00pm), Wed 4/26 (8:00pm)
+
+    * [Smoking Causes Coughing](https://drafthouse.com/los-angeles/show/smoking-causes-coughing): Fri 3/31 (10:00pm), Sat 4/1 (2:00pm), Sun 4/2 (3:15pm)
+
 ### Fri 3/24 6:20am
 * New movies: Air
 
