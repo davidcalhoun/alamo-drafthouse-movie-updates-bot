@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 3/24 9:24am
+* New movies: Air
+
+* New screenings: 
+    * [Air](https://drafthouse.com/raleigh/show/air): Wed 4/5 (7:30pm, 10:30pm), Thu 4/6 (6:45pm, 9:45pm), Mon 4/10 (12:55pm, 3:50pm, 6:45pm, 9:40pm)
+
 ### Thu 3/23 1:19pm
 * New movies: A Thousand and One
 
