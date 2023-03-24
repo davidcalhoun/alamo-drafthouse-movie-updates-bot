@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 3/24 6:20am
+* New movies: Air
+
+* New screenings: 
+    * [Air](https://drafthouse.com/los-angeles/show/air): Wed 4/5 (12:30pm, 3:30pm, 6:30pm), Thu 4/6 (3:30pm, 6:30pm, 9:30pm), Fri 4/7 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sat 4/8 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sun 4/9 (12:30pm, 3:30pm, 6:30pm)
+
 ### Wed 3/22 6:19pm
 * New movies: The Five Devils, The Doom Generation
 
