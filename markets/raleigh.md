@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Sat 3/25 2:24am
+* New movies: Pulse 2001
+
+* New screenings: 
+    * [Terror Tuesday Pulse 2001](https://drafthouse.com/raleigh/show/terror-tuesday-pulse-2001): Tue 4/25 (10:00pm)
+
 ### Fri 3/24 5:16pm
 
 * New screenings: 
