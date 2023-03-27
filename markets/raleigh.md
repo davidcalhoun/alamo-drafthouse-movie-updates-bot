@@ -1,6 +1,27 @@
 # raleigh
 
 ## Movie updates
+### Mon 3/27 2:27pm
+
+* New screenings: 
+    * [A Good Person](https://drafthouse.com/raleigh/show/a-good-person): Thu 3/30 (12:55pm, 4:00pm, 7:15pm, 10:30pm)
+
+    * [Cocaine Bear](https://drafthouse.com/raleigh/show/cocaine-bear): Thu 3/30 (4:15pm)
+
+    * [Creed Iii](https://drafthouse.com/raleigh/show/creed-iii): Thu 3/30 (12:45pm, 3:45pm, 6:45pm, 9:45pm)
+
+    * [Daisies](https://drafthouse.com/raleigh/show/daisies): Thu 3/30 (11:55am)
+
+    * [Dungeons Dragons Honor Among Thieves](https://drafthouse.com/raleigh/show/dungeons-dragons-honor-among-thieves): Thu 3/30 (7:30pm, 10:50pm)
+
+    * [John Wick Chapter 4](https://drafthouse.com/raleigh/show/john-wick-chapter-4): Thu 3/30 (11:30am, 12:00pm, 12:30pm, 1:00pm, 1:30pm, 3:30pm, 4:30pm, 5:00pm, 8:30pm, 9:00pm, 9:30pm)
+
+    * [Scream Vi](https://drafthouse.com/raleigh/show/scream-vi): Thu 3/30 (1:25pm, 4:40pm, 7:45pm, 10:55pm)
+
+    * [Shazam Fury Of The Gods](https://drafthouse.com/raleigh/show/shazam-fury-of-the-gods): Thu 3/30 (11:40am, 2:55pm, 6:15pm, 9:20pm)
+
+    * [Tetris](https://drafthouse.com/raleigh/show/tetris): Thu 3/30 (2:15pm)
+
 ### Mon 3/27 12:25pm
 * New movies: Air
 
