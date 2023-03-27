@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Mon 3/27 7:21pm
+* New movies: Sick of Myself
+
+* New screenings: 
+    * [Fantastic Fest Presents Sick Of Myself Advance Screening](https://drafthouse.com/raleigh/show/fantastic-fest-presents-sick-of-myself-advance-screening): Wed 4/26 (6:45pm)
+
+    * [John Wick Chapter 4](https://drafthouse.com/raleigh/show/john-wick-chapter-4): Tue 3/28 (12:00pm)
+
 ### Mon 3/27 4:23pm
 
 * New screenings: 
