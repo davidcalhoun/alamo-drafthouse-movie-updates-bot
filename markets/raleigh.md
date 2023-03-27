@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 3/27 4:23pm
+
+* New screenings: 
+    * [Dungeons Dragons Honor Among Thieves](https://drafthouse.com/raleigh/show/dungeons-dragons-honor-among-thieves): Thu 3/30 (9:20pm)
+
 ### Mon 3/27 3:15pm
 * New movies: The Five Devils, The Descent
 
