@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Mon 3/27 3:15pm
+* New movies: The Five Devils, The Descent
+
+* New screenings: 
+    * [Terror Tuesday The Descent](https://drafthouse.com/raleigh/show/terror-tuesday-the-descent): Tue 4/18 (9:30pm)
+
+    * [The Five Devils](https://drafthouse.com/raleigh/show/the-five-devils): Thu 3/30 (5:15pm, 8:00pm, 10:50pm)
+
 ### Mon 3/27 2:27pm
 
 * New screenings: 
