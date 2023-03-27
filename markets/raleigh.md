@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 3/27 12:25pm
+* New movies: Air
+
+* New screenings: 
+    * [Advance Screening Air Sneak Preview](https://drafthouse.com/raleigh/show/advance-screening-air-sneak-preview): Sat 4/1 (7:00pm)
+
 ### Sat 3/25 2:24am
 * New movies: Pulse 2001
 
