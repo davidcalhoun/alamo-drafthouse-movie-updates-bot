@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 3/27 12:15am
+* New movies: Air
+
+* New screenings: 
+    * [Advance Screening Air Sneak Preview](https://drafthouse.com/los-angeles/show/advance-screening-air-sneak-preview): Sat 4/1 (7:00pm)
+
 ### Fri 3/24 3:15pm
 * New movies: Smoking Causes Coughing, Shaolin Invincibles
 
