@@ -1,6 +1,42 @@
 # los-angeles
 
 ## Movie updates
+### Mon 3/27 6:23pm
+* New movies: Evil Dead II
+
+* New screenings: 
+    * [A Good Person](https://drafthouse.com/los-angeles/show/a-good-person): Thu 3/30 (3:25pm, 6:45pm, 10:10pm), Fri 3/31 (12:00pm, 3:25pm, 6:45pm, 10:10pm), Sat 4/1 (12:55pm, 4:10pm, 7:30pm, 10:45pm), Sun 4/2 (1:15pm, 4:30pm, 7:50pm), Mon 4/3 (1:15pm, 4:30pm, 7:50pm), Tue 4/4 (12:25pm, 3:40pm, 7:00pm)
+
+    * [A Thousand And One](https://drafthouse.com/los-angeles/show/a-thousand-and-one): Mon 4/3 (11:30am, 3:00pm, 6:45pm), Tue 4/4 (11:30am, 3:30pm, 7:15pm)
+
+    * [Brunch Screenings Princess Mononoke Subtitled Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-princess-mononoke-subtitled-brunch): Sun 4/2 (11:45am)
+
+    * [Cocaine Bear](https://drafthouse.com/los-angeles/show/cocaine-bear): Thu 3/30 (2:00pm, 5:00pm, 7:45pm, 10:30pm), Fri 3/31 (11:45am, 3:45pm, 6:30pm, 9:15pm), Sat 4/1 (12:40pm, 3:45pm, 6:30pm, 9:15pm), Sun 4/2 (11:45am, 3:45pm, 6:30pm), Mon 4/3 (11:45am, 3:45pm, 6:30pm), Tue 4/4 (11:45am, 3:45pm, 6:30pm)
+
+    * [Creed Iii](https://drafthouse.com/los-angeles/show/creed-iii): Thu 3/30 (4:15pm, 7:30pm, 10:45pm), Fri 3/31 (1:00pm, 4:10pm, 7:30pm, 10:45pm), Sat 4/1 (1:15pm, 4:30pm, 7:45pm, 10:50pm), Sun 4/2 (1:15pm, 4:30pm, 7:40pm), Mon 4/3 (1:15pm, 4:30pm, 7:40pm), Tue 4/4 (1:15pm, 4:30pm, 7:40pm)
+
+    * [Dungeons Dragons Honor Among Thieves](https://drafthouse.com/los-angeles/show/dungeons-dragons-honor-among-thieves): Thu 3/30 (3:45pm, 4:40pm, 5:30pm, 7:15pm, 9:00pm, 10:40pm), Fri 3/31 (12:20pm, 3:45pm, 7:15pm, 10:40pm), Sat 4/1 (12:15pm, 3:45pm, 7:15pm, 10:00pm), Sun 4/2 (11:20am, 4:00pm, 6:00pm, 7:25pm), Mon 4/3 (11:10am, 12:00pm, 2:35pm, 3:30pm, 6:00pm, 7:30pm), Tue 4/4 (11:00am, 1:00pm, 2:35pm, 4:30pm, 6:00pm)
+
+    * [Enys Men](https://drafthouse.com/los-angeles/show/enys-men): Mon 4/3 (11:30am)
+
+    * [Evil Dead Ii](https://drafthouse.com/los-angeles/show/evil-dead-ii): Tue 4/4 (11:10am)
+
+    * [Inside](https://drafthouse.com/los-angeles/show/inside): Thu 3/30 (2:10pm), Fri 3/31 (11:15am, 4:25pm), Sat 4/1 (11:15am), Sun 4/2 (11:15am), Mon 4/3 (1:50pm), Tue 4/4 (11:15am)
+
+    * [John Wick Chapter 4](https://drafthouse.com/los-angeles/show/john-wick-chapter-4): Thu 3/30 (2:15pm, 4:00pm, 5:40pm, 8:00pm, 9:25pm), Fri 3/31 (12:00pm, 12:25pm, 2:15pm, 4:00pm, 5:40pm, 8:00pm, 9:25pm), Sat 4/1 (12:00pm, 12:30pm, 2:15pm, 4:00pm, 8:00pm, 8:40pm), Sun 4/2 (11:45am, 2:15pm, 3:10pm, 5:40pm, 7:15pm), Mon 4/3 (11:00am, 11:45am, 2:15pm, 2:45pm, 3:10pm, 5:40pm, 6:15pm, 7:15pm), Tue 4/4 (11:15am, 11:45am, 2:15pm, 3:10pm, 3:15pm, 5:40pm, 6:45pm, 7:15pm)
+
+    * [Scarface 1983](https://drafthouse.com/los-angeles/show/scarface-1983): Fri 3/31 (12:10pm), Tue 4/4 (11:35am)
+
+    * [Scream Vi](https://drafthouse.com/los-angeles/show/scream-vi): Thu 3/30 (2:30pm, 6:15pm, 9:40pm), Fri 3/31 (12:30pm, 2:30pm, 6:15pm, 9:40pm), Sat 4/1 (12:30pm, 3:30pm, 6:15pm, 9:25pm), Sun 4/2 (12:00pm, 2:30pm, 6:15pm), Mon 4/3 (12:00pm, 2:30pm, 6:15pm), Tue 4/4 (12:00pm, 2:30pm, 6:15pm)
+
+    * [Shazam Fury Of The Gods](https://drafthouse.com/los-angeles/show/shazam-fury-of-the-gods): Thu 3/30 (2:15pm)
+
+    * [Smoking Causes Coughing](https://drafthouse.com/los-angeles/show/smoking-causes-coughing): Mon 4/3 (4:45pm), Tue 4/4 (1:40pm)
+
+    * [Tetris](https://drafthouse.com/los-angeles/show/tetris): Thu 3/30 (2:45pm)
+
+    * [The Five Devils](https://drafthouse.com/los-angeles/show/the-five-devils): Thu 3/30 (8:00pm, 10:45pm), Sat 4/1 (10:40pm), Mon 4/3 (11:00am)
+
 ### Mon 3/27 12:15am
 * New movies: Air
 
