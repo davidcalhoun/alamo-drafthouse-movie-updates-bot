@@ -1,6 +1,30 @@
 # raleigh
 
 ## Movie updates
+### Mon 3/27 9:41pm
+* New movies: Malum
+
+* New screenings: 
+    * [A Good Person](https://drafthouse.com/raleigh/show/a-good-person): Fri 3/31 (12:55pm, 4:10pm, 6:30pm, 9:45pm), Sat 4/1 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Sun 4/2 (11:40am, 3:00pm, 6:30pm, 9:45pm), Mon 4/3 (12:55pm, 4:10pm, 6:30pm, 9:45pm), Tue 4/4 (11:40am, 2:55pm, 6:15pm, 9:35pm)
+
+    * [A Thousand And One](https://drafthouse.com/raleigh/show/a-thousand-and-one): Fri 3/31 (1:15pm, 3:45pm, 6:15pm, 9:15pm), Sat 4/1 (1:15pm, 4:15pm, 7:15pm, 10:30pm), Sun 4/2 (12:40pm, 3:40pm, 6:45pm, 9:50pm), Mon 4/3 (1:15pm, 3:45pm, 6:15pm, 9:15pm), Tue 4/4 (12:45pm, 3:45pm, 6:45pm, 9:45pm)
+
+    * [Cocaine Bear](https://drafthouse.com/raleigh/show/cocaine-bear): Fri 3/31 (2:15pm), Sat 4/1 (11:15am), Sun 4/2 (2:15pm), Mon 4/3 (2:15pm), Tue 4/4 (5:30pm)
+
+    * [Creed Iii](https://drafthouse.com/raleigh/show/creed-iii): Fri 3/31 (12:45pm, 4:15pm, 7:15pm, 10:15pm), Sat 4/1 (1:25pm, 4:30pm, 6:15pm, 9:15pm), Sun 4/2 (1:15pm, 4:15pm, 7:45pm, 10:45pm), Mon 4/3 (12:45pm, 4:15pm, 7:15pm, 10:15pm), Tue 4/4 (1:15pm, 4:15pm, 7:15pm, 10:15pm)
+
+    * [Dungeons Dragons Honor Among Thieves](https://drafthouse.com/raleigh/show/dungeons-dragons-honor-among-thieves): Thu 3/30 (6:00pm), Fri 3/31 (11:15am, 1:40pm, 2:40pm, 3:00pm, 4:55pm, 7:30pm, 8:15pm, 9:50pm), Sat 4/1 (11:30am, 1:00pm, 1:30pm, 4:25pm, 4:55pm, 7:30pm, 8:15pm, 10:00pm), Sun 4/2 (12:50pm, 12:55pm, 4:10pm, 4:25pm, 7:30pm, 10:15pm, 10:50pm), Mon 4/3 (11:15am, 1:40pm, 2:40pm, 3:00pm, 4:55pm, 7:30pm, 9:50pm, 10:20pm, 10:50pm), Tue 4/4 (11:15am, 11:50am, 2:40pm, 3:10pm, 4:00pm, 7:30pm, 10:30pm, 10:50pm)
+
+    * [John Wick Chapter 4](https://drafthouse.com/raleigh/show/john-wick-chapter-4): Fri 3/31 (11:00am, 12:30pm, 4:30pm, 5:00pm, 6:00pm, 8:30pm, 9:00pm, 9:55pm), Sat 4/1 (12:00pm, 2:00pm, 3:00pm, 4:00pm, 6:00pm, 8:00pm, 9:40pm, 9:55pm), Sun 4/2 (12:30pm, 1:00pm, 4:30pm, 5:00pm, 6:15pm, 8:30pm, 9:00pm, 9:40pm), Mon 4/3 (11:00am, 11:30am, 12:30pm, 4:30pm, 5:00pm, 6:00pm, 8:30pm, 9:00pm, 9:55pm), Tue 4/4 (11:30am, 12:00pm, 12:30pm, 1:00pm, 4:30pm, 5:00pm, 6:00pm, 8:30pm, 9:00pm, 9:55pm)
+
+    * [Malum](https://drafthouse.com/raleigh/show/malum): Fri 3/31 (10:50pm), Sat 4/1 (10:50pm), Sun 4/2 (10:55pm), Mon 4/3 (8:15pm), Tue 4/4 (8:15pm)
+
+    * [Scream Vi](https://drafthouse.com/raleigh/show/scream-vi): Fri 3/31 (1:30pm, 4:40pm, 6:45pm, 10:25pm), Sat 4/1 (12:20pm, 3:25pm, 6:30pm, 10:15pm), Sun 4/2 (12:15pm, 3:25pm, 7:15pm, 10:20pm), Mon 4/3 (1:30pm, 4:40pm, 6:45pm, 10:25pm), Tue 4/4 (1:30pm, 4:40pm, 6:30pm, 9:40pm)
+
+    * [Shazam Fury Of The Gods](https://drafthouse.com/raleigh/show/shazam-fury-of-the-gods): Fri 3/31 (11:40am, 2:55pm), Sat 4/1 (11:40am, 2:55pm), Sun 4/2 (4:55pm), Mon 4/3 (11:40am, 2:55pm), Tue 4/4 (11:00am, 2:15pm)
+
+    * [The Five Devils](https://drafthouse.com/raleigh/show/the-five-devils): Fri 3/31 (7:45pm), Sat 4/1 (7:45pm), Sun 4/2 (8:15pm), Mon 4/3 (7:45pm, 10:55pm), Tue 4/4 (7:45pm, 10:55pm)
+
 ### Mon 3/27 7:21pm
 * New movies: Sick of Myself
 
