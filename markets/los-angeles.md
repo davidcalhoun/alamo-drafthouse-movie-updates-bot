@@ -1,6 +1,26 @@
 # los-angeles
 
 ## Movie updates
+### Tue 3/28 5:34am
+* New movies: Mandy
+
+* New screenings: 
+    * [Belly](https://drafthouse.com/los-angeles/show/belly): Thu 4/20 (7:15pm, 10:00pm)
+
+    * [Carlitos Way](https://drafthouse.com/los-angeles/show/carlitos-way): Sun 4/9 (2:40pm)
+
+    * [Dazed And Confused](https://drafthouse.com/los-angeles/show/dazed-and-confused): Sat 4/15 (1:00pm), Mon 4/17 (4:30pm)
+
+    * [Live Q A Chop Steele](https://drafthouse.com/los-angeles/show/live-q-a-chop-steele): Thu 4/13 (6:30pm)
+
+    * [Mandy](https://drafthouse.com/los-angeles/show/mandy): Fri 4/14 (10:00pm), Sat 4/15 (10:00pm)
+
+    * [Movie Party Selena](https://drafthouse.com/los-angeles/show/movie-party-selena): Sun 4/16 (11:00am)
+
+    * [Sea Of Love](https://drafthouse.com/los-angeles/show/sea-of-love): Sat 4/8 (3:10pm)
+
+    * [The Doom Generation](https://drafthouse.com/los-angeles/show/the-doom-generation): Fri 4/14 (4:25pm), Sat 4/15 (4:00pm), Sun 4/16 (7:45pm), Mon 4/17 (8:00pm), Thu 4/20 (3:30pm)
+
 ### Mon 3/27 6:23pm
 * New movies: Evil Dead II
 
