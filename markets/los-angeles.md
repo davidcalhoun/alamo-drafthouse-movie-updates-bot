@@ -1,6 +1,19 @@
 # los-angeles
 
 ## Movie updates
+### Wed 3/29 3:16pm
+
+* New screenings: 
+    * [Air](https://drafthouse.com/los-angeles/show/air): Thu 4/6 (12:30pm)
+
+    * [Dungeons Dragons Honor Among Thieves](https://drafthouse.com/los-angeles/show/dungeons-dragons-honor-among-thieves): Thu 4/6 (11:25am, 2:50pm, 6:15pm, 9:40pm), Fri 4/7 (11:15am, 3:00pm, 6:45pm, 10:30pm), Sat 4/8 (11:15am, 3:00pm, 6:45pm, 10:25pm), Sun 4/9 (11:20am, 3:20pm, 7:00pm)
+
+    * [How To Blow Up A Pipeline](https://drafthouse.com/los-angeles/show/how-to-blow-up-a-pipeline): Fri 4/7 (12:15pm, 3:10pm, 6:00pm, 9:00pm), Sat 4/8 (12:15pm, 3:10pm, 6:00pm, 9:00pm), Sun 4/9 (3:00pm)
+
+    * [John Wick Chapter 4](https://drafthouse.com/los-angeles/show/john-wick-chapter-4): Thu 4/6 (3:15pm, 6:00pm, 10:00pm), Fri 4/7 (11:00am, 2:40pm, 6:25pm, 10:10pm), Sat 4/8 (11:00am, 2:40pm, 6:25pm, 10:10pm), Sun 4/9 (11:15am, 2:50pm, 6:45pm)
+
+    * [The Super Mario Bros Movie](https://drafthouse.com/los-angeles/show/the-super-mario-bros-movie): Thu 4/6 (11:40am, 12:15pm, 2:20pm), Sat 4/8 (10:30pm)
+
 ### Tue 3/28 6:34pm
 * New movies: Sick of Myself, Jack and Jill
 
