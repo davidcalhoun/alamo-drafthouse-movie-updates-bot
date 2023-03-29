@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 3/28 6:34pm
+* New movies: Sick of Myself, Jack and Jill
+
+* New screenings: 
+    * [Fantastic Fest Presents Sick Of Myself Advance Screening](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-sick-of-myself-advance-screening): Wed 4/26 (7:30pm)
+
+    * [Jack And Jill](https://drafthouse.com/los-angeles/show/jack-and-jill): Tue 4/18 (7:45pm)
+
 ### Tue 3/28 5:34am
 * New movies: Mandy
 
