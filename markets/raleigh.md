@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 3/29 3:16pm
+* New movies: Enys Men
+
+* New screenings: 
+    * [Enys Men](https://drafthouse.com/raleigh/show/enys-men): Wed 3/29 (10:50pm)
+
 ### Mon 3/27 9:41pm
 * New movies: Malum
 
