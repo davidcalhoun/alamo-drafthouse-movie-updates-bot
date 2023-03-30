@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 3/30 7:15am
+
+* New screenings: 
+    * [Dungeons Dragons Honor Among Thieves](https://drafthouse.com/los-angeles/show/dungeons-dragons-honor-among-thieves): Thu 3/30 (10:20pm), Fri 3/31 (10:10pm), Sat 4/1 (10:45pm)
+
 ### Wed 3/29 3:16pm
 
 * New screenings: 
