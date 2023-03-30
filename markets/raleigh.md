@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Thu 3/30 5:15pm
+
+* New screenings: 
+    * [Renfield](https://drafthouse.com/raleigh/show/renfield): Tue 4/18 (10:45pm)
+
 ### Wed 3/29 3:16pm
 * New movies: Enys Men
 
