@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 3/30 6:19pm
+* New movies: The Blob 1988
+
+* New screenings: 
+    * [Terror Tuesday The Blob 1988](https://drafthouse.com/raleigh/show/terror-tuesday-the-blob-1988): Tue 5/2 (9:30pm)
+
 ### Thu 3/30 5:15pm
 
 * New screenings: 
