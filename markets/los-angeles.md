@@ -1,6 +1,24 @@
 # los-angeles
 
 ## Movie updates
+### Thu 3/30 6:21pm
+* New movies: Billy Madison, Half Baked, Man with a Movie Camera, The Complete Metropolis, Videodrome
+
+* New screenings: 
+    * [Fast X](https://drafthouse.com/los-angeles/show/fast-x): Sat 5/20 (6:00pm), Sun 5/21 (6:00pm)
+
+    * [Live Q A Billy Madison](https://drafthouse.com/los-angeles/show/live-q-a-billy-madison): Sat 4/29 (5:00pm)
+
+    * [Live Q A Half Baked](https://drafthouse.com/los-angeles/show/live-q-a-half-baked): Sat 4/29 (9:30pm)
+
+    * [Live Q A The Doom Generation](https://drafthouse.com/los-angeles/show/live-q-a-the-doom-generation): Sat 4/15 (7:00pm)
+
+    * [Live Score Man With A Movie Camera](https://drafthouse.com/los-angeles/show/live-score-man-with-a-movie-camera): Thu 5/11 (7:00pm)
+
+    * [Live Score Metropolis With David Didonato](https://drafthouse.com/los-angeles/show/live-score-metropolis-with-david-didonato): Mon 5/1 (8:00pm)
+
+    * [Videodrome](https://drafthouse.com/los-angeles/show/videodrome): Tue 5/2 (8:00pm), Wed 5/3 (8:00pm)
+
 ### Thu 3/30 7:15am
 
 * New screenings: 
