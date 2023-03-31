@@ -1,6 +1,24 @@
 # los-angeles
 
 ## Movie updates
+### Thu 3/30 7:36pm
+* New movies: Suzume Subtitled, Suzume Dubbed
+
+* New screenings: 
+    * [Air](https://drafthouse.com/los-angeles/show/air): Mon 4/10 (12:30pm, 3:30pm, 6:30pm), Wed 4/12 (12:30pm, 3:30pm, 6:30pm), Thu 4/13 (3:30pm, 6:30pm, 9:30pm), Fri 4/14 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Sat 4/15 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Sun 4/16 (12:45pm, 3:45pm, 6:45pm)
+
+    * [Dungeons Dragons Honor Among Thieves](https://drafthouse.com/los-angeles/show/dungeons-dragons-honor-among-thieves): Mon 4/10 (11:20am, 3:20pm, 7:00pm), Wed 4/12 (11:20am, 3:20pm, 7:00pm)
+
+    * [How To Blow Up A Pipeline](https://drafthouse.com/los-angeles/show/how-to-blow-up-a-pipeline): Mon 4/10 (12:00pm, 3:00pm, 6:00pm), Wed 4/12 (12:00pm, 3:00pm, 6:00pm), Thu 4/13 (3:10pm, 6:00pm, 9:00pm), Fri 4/14 (12:30pm, 3:20pm, 6:15pm, 9:10pm), Sat 4/15 (12:30pm, 3:20pm, 6:15pm, 9:10pm), Sun 4/16 (12:30pm, 3:20pm, 6:15pm)
+
+    * [John Wick Chapter 4](https://drafthouse.com/los-angeles/show/john-wick-chapter-4): Mon 4/10 (11:15am, 2:50pm, 6:45pm), Wed 4/12 (11:15am, 2:50pm, 6:45pm)
+
+    * [Suzume Dubbed](https://drafthouse.com/los-angeles/show/suzume-dubbed): Thu 4/13 (4:00pm), Fri 4/14 (11:30am), Sat 4/15 (2:45pm), Sun 4/16 (11:30am)
+
+    * [Suzume Subtitled](https://drafthouse.com/los-angeles/show/suzume-subtitled): Thu 4/13 (7:15pm, 10:30pm), Fri 4/14 (2:45pm, 6:00pm, 9:20pm), Sat 4/15 (11:30am, 6:00pm, 9:20pm), Sun 4/16 (2:45pm, 6:00pm)
+
+    * [The Super Mario Bros Movie](https://drafthouse.com/los-angeles/show/the-super-mario-bros-movie): Mon 4/10 (11:00am, 11:40am, 1:40pm, 2:20pm, 4:20pm, 5:00pm, 7:00pm, 7:45pm), Wed 4/12 (11:00am, 11:40am, 1:40pm, 2:20pm, 4:20pm, 5:00pm, 7:00pm, 7:45pm), Thu 4/13 (4:45pm, 7:30pm, 10:15pm), Fri 4/14 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sat 4/15 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sun 4/16 (11:30am, 2:15pm, 5:00pm, 7:45pm)
+
 ### Thu 3/30 6:21pm
 * New movies: Billy Madison, Half Baked, Man with a Movie Camera, The Complete Metropolis, Videodrome
 
