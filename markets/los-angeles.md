@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Sat 4/1 8:15am
+* New movies: Guardians of the Galaxy Vol. 3, Guardians of the Galaxy Vol. 3
+
+* New screenings: 
+    * [Brunch Screenings Guardians Of The Galaxy Vol 3 Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-guardians-of-the-galaxy-vol-3-brunch): Sat 5/6 (11:00am, 11:30am), Sun 5/7 (11:00am, 11:30am), Sat 5/13 (11:00am), Sun 5/14 (11:00am)
+
+    * [Guardians Of The Galaxy Vol 3](https://drafthouse.com/los-angeles/show/guardians-of-the-galaxy-vol-3): Thu 5/4 (3:00pm, 3:30pm, 6:45pm, 7:15pm, 9:45pm, 10:30pm, 11:00pm), Fri 5/5 (10:15am, 11:00am, 11:30am, 2:00pm, 2:45pm, 3:15pm, 5:45pm, 6:30pm, 7:00pm, 9:30pm, 10:15pm, 10:45pm), Sat 5/6 (10:15am, 2:00pm, 2:45pm, 3:15pm, 5:45pm, 6:30pm, 7:00pm, 9:30pm, 10:15pm, 10:45pm), Sun 5/7 (10:15am, 2:00pm, 2:45pm, 3:15pm, 5:45pm, 6:30pm, 7:00pm), Mon 5/8 (11:00am, 11:30am, 2:15pm, 2:45pm, 3:15pm, 6:00pm, 6:30pm, 7:00pm, 9:45pm, 10:15pm), Tue 5/9 (11:00am, 11:30am, 2:15pm, 2:45pm, 3:15pm, 6:00pm, 6:30pm, 7:00pm, 9:45pm), Wed 5/10 (11:00am, 11:30am, 2:15pm, 2:45pm, 3:15pm, 6:00pm, 6:30pm, 7:00pm, 9:45pm), Thu 5/11 (2:45pm, 6:30pm, 10:15pm), Fri 5/12 (11:00am, 2:45pm, 6:30pm, 10:15pm), Sat 5/13 (2:45pm, 6:30pm, 10:15pm), Sun 5/14 (2:45pm, 6:30pm), Mon 5/15 (11:00am, 2:45pm, 6:30pm)
+
 ### Thu 3/30 7:36pm
 * New movies: Suzume Subtitled, Suzume Dubbed
 
