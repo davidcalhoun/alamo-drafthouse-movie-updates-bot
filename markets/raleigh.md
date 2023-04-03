@@ -1,6 +1,21 @@
 # raleigh
 
 ## Movie updates
+### Mon 4/3 7:18pm
+
+* New screenings: 
+    * [A Thousand And One](https://drafthouse.com/raleigh/show/a-thousand-and-one): Wed 4/5 (12:15pm, 4:00pm, 7:00pm, 10:00pm), Thu 4/6 (12:20pm, 3:25pm, 6:30pm, 10:15pm)
+
+    * [Air](https://drafthouse.com/raleigh/show/air): Wed 4/5 (11:55am, 10:30pm), Thu 4/6 (9:40pm)
+
+    * [Creed Iii](https://drafthouse.com/raleigh/show/creed-iii): Wed 4/5 (12:50pm, 3:00pm, 6:00pm, 9:05pm), Thu 4/6 (1:10pm, 4:00pm, 7:00pm, 10:05pm)
+
+    * [Dungeons Dragons Honor Among Thieves](https://drafthouse.com/raleigh/show/dungeons-dragons-honor-among-thieves): Wed 4/5 (11:10am, 12:55pm, 4:15pm, 5:30pm, 6:30pm, 9:50pm, 10:15pm), Thu 4/6 (12:40pm, 4:15pm, 7:30pm, 10:55pm)
+
+    * [John Wick Chapter 4](https://drafthouse.com/raleigh/show/john-wick-chapter-4): Wed 4/5 (1:30pm, 2:30pm, 6:15pm, 7:45pm, 9:00pm), Thu 4/6 (12:55pm, 4:55pm, 6:15pm, 9:00pm)
+
+    * [The Super Mario Bros Movie](https://drafthouse.com/raleigh/show/the-super-mario-bros-movie): Wed 4/5 (11:00am, 12:00pm, 12:45pm, 1:45pm, 2:15pm, 2:40pm, 3:15pm, 3:30pm, 4:30pm, 5:15pm, 5:55pm, 7:15pm, 8:00pm, 8:30pm, 9:55pm, 10:40pm), Thu 4/6 (11:55am, 12:30pm, 12:45pm, 1:15pm, 2:45pm, 3:15pm, 3:30pm, 4:00pm, 5:30pm, 6:00pm, 6:45pm, 8:15pm, 8:45pm, 9:30pm, 10:50pm)
+
 ### Mon 4/3 4:19pm
 * New movies: From Russia with Love, On Her Majesty's Secret Service
 
