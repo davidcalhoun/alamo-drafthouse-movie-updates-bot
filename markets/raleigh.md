@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 4/3 10:18am
+
+* New screenings: 
+    * [Guardians Of The Galaxy Vol 3](https://drafthouse.com/raleigh/show/guardians-of-the-galaxy-vol-3): Fri 5/5 (11:00am, 12:30pm, 2:45pm, 4:30pm, 6:30pm, 8:30pm, 10:30pm, 10:40pm), Sat 5/6 (11:00am, 11:30am, 1:30pm, 3:00pm, 5:30pm, 7:00pm, 9:30pm, 10:45pm), Sun 5/7 (11:00am, 11:30am, 1:30pm, 3:00pm, 5:30pm, 7:00pm, 9:30pm, 10:45pm), Mon 5/8 (11:00am, 11:30am, 1:30pm, 3:00pm, 5:30pm, 7:00pm, 9:30pm, 10:45pm), Tue 5/9 (11:00am, 11:30am, 1:30pm, 3:00pm, 5:30pm, 7:00pm, 9:30pm, 10:45pm), Wed 5/10 (11:00am, 11:30am, 1:30pm, 3:00pm, 5:30pm, 7:00pm, 9:30pm, 10:45pm), Thu 5/11 (11:00am, 11:30am, 1:30pm, 3:00pm, 5:30pm, 7:00pm, 9:30pm, 10:45pm), Fri 5/12 (11:00am, 12:30pm, 3:00pm, 4:30pm, 7:00pm, 8:30pm, 10:45pm), Sat 5/13 (11:00am, 12:30pm, 3:00pm, 4:30pm, 7:00pm, 8:30pm, 10:45pm), Sun 5/14 (11:00am, 12:30pm, 3:00pm, 4:30pm, 7:00pm, 8:30pm, 10:45pm), Mon 5/15 (11:00am, 12:30pm, 3:00pm, 4:30pm, 7:00pm, 8:30pm, 10:45pm), Tue 5/16 (11:00am, 12:30pm, 3:00pm, 4:30pm, 7:00pm, 8:30pm, 10:45pm), Wed 5/17 (11:00am, 12:30pm, 3:00pm, 4:30pm, 7:00pm, 8:30pm, 10:45pm), Thu 5/18 (11:00am, 3:00pm, 7:00pm, 10:45pm)
+
 ### Mon 4/3 9:23am
 * New movies: Guardians of the Galaxy Vol. 3
 
