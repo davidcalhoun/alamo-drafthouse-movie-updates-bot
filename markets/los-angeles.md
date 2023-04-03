@@ -1,6 +1,35 @@
 # los-angeles
 
 ## Movie updates
+### Mon 4/3 3:14pm
+
+* New screenings: 
+    * [A Thousand And One](https://drafthouse.com/los-angeles/show/a-thousand-and-one): Wed 4/5 (11:25am, 3:00pm, 6:45pm), Thu 4/6 (1:15pm, 4:20pm, 7:30pm, 10:35pm), Fri 4/7 (1:15pm, 4:20pm, 7:00pm, 10:50pm), Sat 4/8 (1:00pm, 4:10pm, 6:15pm, 10:00pm), Sun 4/9 (1:15pm, 4:20pm, 7:30pm), Mon 4/10 (1:15pm, 4:20pm, 7:30pm), Tue 4/11 (1:15pm, 3:45pm, 7:30pm), Wed 4/12 (1:15pm, 4:20pm, 7:30pm)
+
+    * [Air](https://drafthouse.com/los-angeles/show/air): Wed 4/5 (8:00pm), Thu 4/6 (5:30pm), Fri 4/7 (5:30pm), Sat 4/8 (8:00pm), Tue 4/11 (1:00pm, 4:10pm, 6:45pm)
+
+    * [Carlitos Way](https://drafthouse.com/los-angeles/show/carlitos-way): Mon 4/10 (1:00pm)
+
+    * [Cocaine Bear](https://drafthouse.com/los-angeles/show/cocaine-bear): Wed 4/5 (1:00pm), Thu 4/6 (4:45pm), Fri 4/7 (12:15pm), Sat 4/8 (8:15pm)
+
+    * [Creed Iii](https://drafthouse.com/los-angeles/show/creed-iii): Wed 4/5 (11:35am, 2:50pm, 6:00pm), Thu 4/6 (11:15am, 2:35pm, 6:00pm, 9:10pm), Fri 4/7 (12:45pm, 4:00pm, 7:10pm, 10:20pm), Sat 4/8 (12:45pm, 4:00pm, 7:10pm, 10:20pm), Sun 4/9 (12:45pm, 4:00pm, 7:15pm), Mon 4/10 (12:45pm, 4:00pm, 7:15pm), Tue 4/11 (12:20pm, 3:30pm), Wed 4/12 (12:45pm, 4:00pm, 7:20pm)
+
+    * [Cruising](https://drafthouse.com/los-angeles/show/cruising): Tue 4/11 (1:45pm), Wed 4/12 (5:15pm)
+
+    * [Dungeons Dragons Honor Among Thieves](https://drafthouse.com/los-angeles/show/dungeons-dragons-honor-among-thieves): Wed 4/5 (12:15pm, 3:45pm, 4:25pm, 7:15pm), Thu 4/6 (2:00pm), Fri 4/7 (2:00pm, 7:25pm), Sat 4/8 (4:35pm, 7:20pm), Sun 4/9 (5:45pm), Mon 4/10 (2:00pm, 4:30pm), Tue 4/11 (11:50am, 3:20pm, 4:35pm, 6:30pm), Wed 4/12 (8:00pm)
+
+    * [How To Blow Up A Pipeline](https://drafthouse.com/los-angeles/show/how-to-blow-up-a-pipeline): Thu 4/6 (7:30pm), Tue 4/11 (12:00pm, 3:00pm)
+
+    * [John Wick Chapter 4](https://drafthouse.com/los-angeles/show/john-wick-chapter-4): Wed 4/5 (11:00am, 12:15pm, 2:45pm, 6:15pm), Thu 4/6 (11:10am, 12:45pm, 8:30pm), Fri 4/7 (8:30pm), Sat 4/8 (12:35pm), Sun 4/9 (1:45pm, 6:00pm), Mon 4/10 (5:30pm), Tue 4/11 (11:15am, 3:15pm, 7:00pm), Wed 4/12 (12:00pm, 4:00pm)
+
+    * [Scream Vi](https://drafthouse.com/los-angeles/show/scream-vi): Wed 4/5 (11:45am, 3:45pm, 7:35pm), Thu 4/6 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Fri 4/7 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Sat 4/8 (12:15pm, 3:30pm, 6:45pm, 10:45pm), Sun 4/9 (12:15pm, 3:30pm, 6:45pm), Mon 4/10 (11:45am, 3:00pm, 6:15pm), Tue 4/11 (12:30pm, 4:20pm), Wed 4/12 (11:45am, 3:00pm, 6:15pm)
+
+    * [Smoking Causes Coughing](https://drafthouse.com/los-angeles/show/smoking-causes-coughing): Wed 4/5 (2:15pm), Fri 4/7 (11:30am), Sat 4/8 (11:00pm), Mon 4/10 (11:30am), Wed 4/12 (12:00pm)
+
+    * [The Five Devils](https://drafthouse.com/los-angeles/show/the-five-devils): Wed 4/5 (11:30am, 4:45pm), Thu 4/6 (11:20am, 10:25pm), Fri 4/7 (10:15pm), Sat 4/8 (11:00pm), Sun 4/9 (11:00am), Mon 4/10 (1:50pm), Tue 4/11 (11:00am), Wed 4/12 (2:30pm)
+
+    * [The Super Mario Bros Movie](https://drafthouse.com/los-angeles/show/the-super-mario-bros-movie): Wed 4/5 (11:40am, 12:00pm, 2:40pm, 3:00pm, 5:20pm, 5:40pm, 8:20pm), Thu 4/6 (1:15pm, 3:15pm, 4:00pm, 6:45pm, 9:25pm), Fri 4/7 (1:00pm, 3:15pm, 6:00pm, 8:45pm), Sat 4/8 (12:10pm, 2:55pm, 5:35pm, 9:15pm), Sun 4/9 (12:30pm, 3:15pm, 6:15pm), Mon 4/10 (11:15am, 4:45pm), Tue 4/11 (11:00am, 11:40am, 1:15pm, 1:45pm, 2:20pm, 4:00pm, 4:30pm, 5:00pm, 7:45pm), Wed 4/12 (12:45pm, 3:30pm, 6:15pm)
+
 ### Mon 4/3 10:14am
 * New movies: The Artifice Girl
 
