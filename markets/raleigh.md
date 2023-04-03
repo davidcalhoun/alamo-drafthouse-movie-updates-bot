@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 4/3 11:20am
+
+* New screenings: 
+    * [The Super Mario Bros Movie](https://drafthouse.com/raleigh/show/the-super-mario-bros-movie): Wed 4/5 (11:30am, 2:15pm, 4:50pm)
+
 ### Mon 4/3 10:18am
 
 * New screenings: 
