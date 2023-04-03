@@ -1,6 +1,20 @@
 # raleigh
 
 ## Movie updates
+### Mon 4/3 4:19pm
+* New movies: From Russia with Love, On Her Majesty's Secret Service
+
+* New screenings: 
+    * [Belly](https://drafthouse.com/raleigh/show/belly): Wed 4/19 (7:00pm)
+
+    * [Champagne Cinema Clueless Movie Party](https://drafthouse.com/raleigh/show/champagne-cinema-clueless-movie-party): Tue 5/2 (6:30pm)
+
+    * [From Russia With Love](https://drafthouse.com/raleigh/show/from-russia-with-love): Sun 4/23 (12:15pm), Mon 4/24 (2:00pm)
+
+    * [Jack And Jill](https://drafthouse.com/raleigh/show/jack-and-jill): Sat 4/15 (1:30pm)
+
+    * [On Her Majestys Secret Service](https://drafthouse.com/raleigh/show/on-her-majestys-secret-service): Mon 5/1 (3:00pm), Wed 5/3 (6:00pm)
+
 ### Mon 4/3 3:15pm
 * New movies: Tetsuo: The Iron Man, Jason Goes to Hell: The Final Friday, Silent Hill, The People Under the Stairs, The Texas Chain Saw Massacre 1974, Freeway, Perdita Durango Dance with the Devil, The Heroic Trio, Truck Turner, Wild Things
 
