@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 4/3 10:14am
+* New movies: The Artifice Girl
+
+* New screenings: 
+    * [Live Q A The Artifice Girl](https://drafthouse.com/los-angeles/show/live-q-a-the-artifice-girl): Thu 4/27 (7:30pm)
+
 ### Sat 4/1 8:15am
 * New movies: Guardians of the Galaxy Vol. 3, Guardians of the Galaxy Vol. 3
 
