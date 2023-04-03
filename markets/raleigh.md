@@ -1,6 +1,30 @@
 # raleigh
 
 ## Movie updates
+### Mon 4/3 3:15pm
+* New movies: Tetsuo: The Iron Man, Jason Goes to Hell: The Final Friday, Silent Hill, The People Under the Stairs, The Texas Chain Saw Massacre 1974, Freeway, Perdita Durango Dance with the Devil, The Heroic Trio, Truck Turner, Wild Things
+
+* New screenings: 
+    * [Terror Tuesday Jason Goes To Hell The Final Friday](https://drafthouse.com/raleigh/show/terror-tuesday-jason-goes-to-hell-the-final-friday): Tue 6/20 (9:30pm)
+
+    * [Terror Tuesday Silent Hill](https://drafthouse.com/raleigh/show/terror-tuesday-silent-hill): Tue 5/30 (9:30pm)
+
+    * [Terror Tuesday Tetsuo The Iron Man](https://drafthouse.com/raleigh/show/terror-tuesday-tetsuo-the-iron-man): Tue 5/23 (10:30pm)
+
+    * [Terror Tuesday The People Under The Stairs](https://drafthouse.com/raleigh/show/terror-tuesday-the-people-under-the-stairs): Tue 5/16 (10:45pm)
+
+    * [Terror Tuesday The Texas Chain Saw Massacre 1974](https://drafthouse.com/raleigh/show/terror-tuesday-the-texas-chain-saw-massacre-1974): Tue 6/6 (9:30pm)
+
+    * [Weird Wednesday Freeway](https://drafthouse.com/raleigh/show/weird-wednesday-freeway): Wed 5/31 (9:30pm)
+
+    * [Weird Wednesday Perdita Durango Dance With The Devil](https://drafthouse.com/raleigh/show/weird-wednesday-perdita-durango-dance-with-the-devil): Wed 5/17 (10:45pm)
+
+    * [Weird Wednesday The Heroic Trio](https://drafthouse.com/raleigh/show/weird-wednesday-the-heroic-trio): Wed 5/24 (9:30pm)
+
+    * [Weird Wednesday Truck Turner](https://drafthouse.com/raleigh/show/weird-wednesday-truck-turner): Wed 5/10 (10:45pm)
+
+    * [Weird Wednesday Wild Things](https://drafthouse.com/raleigh/show/weird-wednesday-wild-things): Wed 5/3 (9:30pm)
+
 ### Mon 4/3 12:25pm
 
 * New screenings: 
