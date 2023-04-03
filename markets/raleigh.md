@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 4/3 9:23am
+* New movies: Guardians of the Galaxy Vol. 3
+
+* New screenings: 
+    * [Guardians Of The Galaxy Vol 3](https://drafthouse.com/raleigh/show/guardians-of-the-galaxy-vol-3): Thu 5/4 (3:00pm, 3:30pm, 5:30pm, 7:00pm, 9:30pm, 10:45pm)
+
 ### Thu 3/30 6:19pm
 * New movies: The Blob 1988
 
