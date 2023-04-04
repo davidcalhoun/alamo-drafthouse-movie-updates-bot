@@ -1,6 +1,21 @@
 # raleigh
 
 ## Movie updates
+### Tue 4/4 10:19am
+
+* New screenings: 
+    * [A Thousand And One](https://drafthouse.com/raleigh/show/a-thousand-and-one): Fri 4/7 (12:50pm, 3:55pm, 7:30pm, 10:40pm), Sat 4/8 (1:25pm, 4:30pm, 7:30pm, 10:55pm), Sun 4/9 (12:15pm, 4:00pm, 6:30pm, 10:20pm), Mon 4/10 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Tue 4/11 (12:55pm, 3:55pm, 7:00pm, 10:05pm), Wed 4/12 (11:55am, 3:10pm, 6:15pm, 9:20pm)
+
+    * [Air](https://drafthouse.com/raleigh/show/air): Fri 4/7 (12:30pm, 3:15pm, 7:00pm, 10:00pm), Sat 4/8 (12:25pm, 3:20pm, 6:15pm, 9:20pm), Sun 4/9 (12:55pm, 3:50pm, 6:15pm, 9:15pm), Tue 4/11 (11:00am, 3:00pm, 6:30pm, 9:55pm), Wed 4/12 (1:00pm, 3:50pm, 7:30pm, 10:25pm)
+
+    * [Creed Iii](https://drafthouse.com/raleigh/show/creed-iii): Fri 4/7 (3:30pm, 6:30pm, 9:30pm), Sat 4/8 (12:55pm, 3:40pm, 6:45pm, 10:40pm), Sun 4/9 (11:40am, 3:15pm, 6:00pm, 9:40pm), Mon 4/10 (1:00pm, 3:55pm, 7:00pm, 10:00pm), Tue 4/11 (1:25pm, 4:25pm, 7:45pm, 10:45pm), Wed 4/12 (11:25am, 3:55pm, 7:00pm, 10:05pm)
+
+    * [Dungeons Dragons Honor Among Thieves](https://drafthouse.com/raleigh/show/dungeons-dragons-honor-among-thieves): Fri 4/7 (11:15am, 11:55am, 2:40pm, 4:10pm, 6:00pm, 9:20pm, 10:15pm), Sat 4/8 (12:15pm, 3:55pm, 7:15pm, 8:45pm, 10:30pm), Sun 4/9 (12:10pm, 12:40pm, 2:00pm, 2:40pm, 5:25pm, 7:00pm, 8:00pm), Mon 4/10 (12:30pm, 2:20pm, 5:10pm, 5:40pm, 8:30pm, 10:15pm, 10:45pm), Tue 4/11 (11:40am, 12:10pm, 2:00pm, 3:15pm, 5:15pm, 7:30pm, 8:40pm, 10:50pm), Wed 4/12 (11:15am, 12:15pm, 2:40pm, 5:55pm, 6:45pm, 8:15pm, 10:05pm, 10:25pm)
+
+    * [John Wick Chapter 4](https://drafthouse.com/raleigh/show/john-wick-chapter-4): Fri 4/7 (12:15pm, 12:55pm, 4:55pm, 6:15pm, 8:00pm, 9:00pm), Sat 4/8 (12:55pm, 4:55pm, 7:45pm, 9:00pm, 9:50pm), Sun 4/9 (11:55am, 3:30pm, 3:55pm, 7:30pm, 9:00pm), Mon 4/10 (11:40am, 1:15pm, 4:00pm, 6:15pm, 8:00pm, 9:00pm), Tue 4/11 (12:50pm, 4:45pm, 6:00pm, 8:30pm, 9:25pm), Wed 4/12 (11:40am, 2:30pm, 3:30pm, 4:00pm, 6:30pm, 8:45pm)
+
+    * [The Super Mario Bros Movie](https://drafthouse.com/raleigh/show/the-super-mario-bros-movie): Fri 4/7 (12:00pm, 1:15pm, 2:45pm, 4:00pm, 5:30pm, 6:45pm, 8:15pm, 9:30pm, 10:50pm), Sat 4/8 (11:30am, 12:00pm, 12:30pm, 1:00pm, 1:30pm, 2:15pm, 2:45pm, 3:15pm, 3:45pm, 4:15pm, 5:00pm, 5:30pm, 6:00pm, 6:30pm, 7:00pm, 8:15pm, 9:15pm, 9:45pm), Sun 4/9 (11:15am, 11:30am, 12:00pm, 1:00pm, 2:15pm, 2:45pm, 3:45pm, 5:00pm, 5:30pm, 6:45pm, 7:45pm, 8:15pm, 8:45pm, 9:30pm, 10:30pm, 10:50pm), Mon 4/10 (11:40am, 12:00pm, 12:40pm, 2:45pm, 3:15pm, 3:30pm, 5:00pm, 5:30pm, 6:00pm, 8:15pm, 8:45pm, 10:50pm), Tue 4/11 (11:15am, 12:30pm, 1:15pm, 1:50pm, 2:15pm, 3:30pm, 4:00pm, 4:30pm, 6:15pm, 6:45pm, 7:15pm, 9:00pm), Wed 4/12 (11:30am, 12:00pm, 12:30pm, 1:15pm, 2:15pm, 2:45pm, 3:15pm, 5:00pm, 5:30pm, 6:00pm, 8:00pm, 10:30pm, 10:40pm), Thu 4/13 (12:30pm, 1:30pm, 3:15pm, 4:15pm, 6:00pm, 8:45pm)
+
 ### Mon 4/3 7:18pm
 
 * New screenings: 
