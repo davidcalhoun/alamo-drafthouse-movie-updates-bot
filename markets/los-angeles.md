@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 4/4 9:21am
+* New movies: HBO Max Presents: Love & Death
+
+* New screenings: 
+    * [Free Victory Screening Hbo Max Presents Love Death](https://drafthouse.com/los-angeles/show/free-victory-screening-hbo-max-presents-love-death): Mon 4/24 (7:00pm)
+
 ### Mon 4/3 3:14pm
 
 * New screenings: 
