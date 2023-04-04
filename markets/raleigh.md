@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 4/4 11:20am
+
+* New screenings: 
+    * [Creed Iii](https://drafthouse.com/raleigh/show/creed-iii): Fri 4/7 (11:50am)
+
 ### Tue 4/4 10:19am
 
 * New screenings: 
