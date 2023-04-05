@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Wed 4/5 3:14pm
+* New movies: Carole King: Home Again - Live in Central Park, Nuclear Now, What The Hell Happened to Blood, Sweat & Tears
+
+* New screenings: 
+    * [Carole King Home Again Live In Central Park](https://drafthouse.com/los-angeles/show/carole-king-home-again-live-in-central-park): Mon 5/8 (8:00pm)
+
+    * [Nuclear Now](https://drafthouse.com/los-angeles/show/nuclear-now): Mon 5/1 (7:30pm)
+
+    * [The Super Mario Bros Movie](https://drafthouse.com/los-angeles/show/the-super-mario-bros-movie): Sat 4/8 (8:15pm)
+
+    * [What The Hell Happened To Blood Sweat Tears](https://drafthouse.com/los-angeles/show/what-the-hell-happened-to-blood-sweat-tears): Wed 5/10 (7:30pm)
+
 ### Wed 4/5 6:28am
 * New movies: Beau is Afraid
 
