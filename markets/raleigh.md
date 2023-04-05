@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 4/5 2:27pm
+* New movies: Event Horizon
+
+* New screenings: 
+    * [Terror Tuesday Event Horizon](https://drafthouse.com/raleigh/show/terror-tuesday-event-horizon): Tue 4/11 (7:15pm)
+
 ### Wed 4/5 9:31am
 * New movies: Beau is Afraid
 
