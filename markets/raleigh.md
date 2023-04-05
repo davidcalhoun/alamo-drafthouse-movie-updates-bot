@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Wed 4/5 6:17pm
+
+* New screenings: 
+    * [Metallica 72 Seasons Global Premiere](https://drafthouse.com/raleigh/show/metallica-72-seasons-global-premiere): Thu 4/13 (10:15pm)
+
 ### Wed 4/5 2:27pm
 * New movies: Event Horizon
 
