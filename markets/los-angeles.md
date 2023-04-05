@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 4/5 6:28am
+* New movies: Beau is Afraid
+
+* New screenings: 
+    * [Beau Is Afraid](https://drafthouse.com/los-angeles/show/beau-is-afraid): Thu 4/20 (3:50pm, 8:00pm, 9:30pm), Fri 4/21 (11:00am, 3:15pm, 7:30pm), Sat 4/22 (11:00am, 3:15pm, 7:30pm), Sun 4/23 (11:00am, 3:15pm, 7:30pm), Mon 4/24 (3:15pm, 7:30pm)
+
 ### Tue 4/4 9:21am
 * New movies: HBO Max Presents: Love & Death
 
