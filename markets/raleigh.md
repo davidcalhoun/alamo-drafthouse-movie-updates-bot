@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 4/5 9:31am
+* New movies: Beau is Afraid
+
+* New screenings: 
+    * [Beau Is Afraid](https://drafthouse.com/raleigh/show/beau-is-afraid): Thu 4/20 (3:45pm, 6:00pm, 10:15pm), Fri 4/21 (11:00am, 3:00pm, 6:00pm, 9:45pm), Sat 4/22 (11:00am, 3:00pm, 6:00pm, 9:45pm), Sun 4/23 (11:00am, 3:00pm, 6:00pm, 9:45pm)
+
 ### Tue 4/4 11:20am
 
 * New screenings: 
