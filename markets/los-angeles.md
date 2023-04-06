@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 4/6 9:20am
+* New movies: Evil Dead Rise, Evil Dead Rise
+
+* New screenings: 
+    * [Evil Dead Rise](https://drafthouse.com/los-angeles/show/evil-dead-rise): Thu 4/20 (7:00pm, 9:45pm), Fri 4/21 (11:00am, 1:45pm, 4:30pm, 7:15pm, 10:00pm), Sat 4/22 (11:00am, 1:45pm, 4:30pm, 7:15pm, 10:00pm), Sun 4/23 (11:00am, 1:45pm, 4:30pm, 7:15pm)
+
+    * [Fantastic Fest Presents Evil Dead Rise Advance Screening](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-evil-dead-rise-advance-screening): Tue 4/18 (7:15pm)
+
 ### Wed 4/5 3:14pm
 * New movies: Carole King: Home Again - Live in Central Park, Nuclear Now, What The Hell Happened to Blood, Sweat & Tears
 
