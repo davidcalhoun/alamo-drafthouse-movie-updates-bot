@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Thu 4/6 12:25pm
+* New movies: Evil Dead Rise, Evil Dead Rise
+
+* New screenings: 
+    * [Evil Dead Rise](https://drafthouse.com/raleigh/show/evil-dead-rise): Thu 4/20 (8:00pm, 10:45pm), Fri 4/21 (12:30pm, 3:15pm, 7:00pm, 10:00pm), Sat 4/22 (12:30pm, 3:15pm, 7:00pm, 10:00pm), Sun 4/23 (3:15pm, 7:00pm, 10:00pm)
+
+    * [Fantastic Fest Presents Evil Dead Rise Advance Screening](https://drafthouse.com/raleigh/show/fantastic-fest-presents-evil-dead-rise-advance-screening): Tue 4/18 (7:30pm)
+
 ### Wed 4/5 6:17pm
 
 * New screenings: 
