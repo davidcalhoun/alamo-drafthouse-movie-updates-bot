@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Fri 4/7 4:14pm
+* New movies: WarGames, Castle in the Sky Subtitled, My Neighbor Totoro Subtitled, GOLDENEYE
+
+* New screenings: 
+    * [Brunch Screenings Castle In The Sky Subtitled Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-castle-in-the-sky-subtitled-brunch): Sun 9/3 (11:00am)
+
+    * [Brunch Screenings My Neighbor Totoro Subtitled Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-my-neighbor-totoro-subtitled-brunch): Sun 10/1 (11:00am)
+
+    * [Goldeneye](https://drafthouse.com/los-angeles/show/goldeneye): Mon 5/29 (4:00pm)
+
+    * [Wargames](https://drafthouse.com/los-angeles/show/wargames): Sat 5/6 (11:00am), Mon 5/8 (4:45pm)
+
 ### Fri 4/7 3:14pm
 
 * New screenings: 
