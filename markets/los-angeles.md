@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 4/7 3:14pm
+
+* New screenings: 
+    * [Air](https://drafthouse.com/los-angeles/show/air): Sat 4/8 (4:00pm), Sun 4/9 (4:00pm)
+
 ### Fri 4/7 4:12am
 * New movies: Fantastic Fest Presents: HOUSE OF 1000 CORPSES - 20TH ANNIVERSARY
 
