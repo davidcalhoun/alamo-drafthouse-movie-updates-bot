@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 4/7 4:12am
+* New movies: Fantastic Fest Presents: HOUSE OF 1000 CORPSES - 20TH ANNIVERSARY
+
+* New screenings: 
+    * [Beau Is Afraid](https://drafthouse.com/los-angeles/show/beau-is-afraid): Fri 4/21 (9:30pm), Sat 4/22 (9:30pm)
+
+    * [Fantastic Fest Presents House Of 1000 Corpses 20th Anniversary Free Victory](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-house-of-1000-corpses-20th-anniversary-free-victory): Thu 4/20 (6:30pm)
+
 ### Thu 4/6 9:20am
 * New movies: Evil Dead Rise, Evil Dead Rise
 
