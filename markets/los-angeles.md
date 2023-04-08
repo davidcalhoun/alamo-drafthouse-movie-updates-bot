@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 4/7 11:18pm
+* New movies: The Howling
+
+* New screenings: 
+    * [Special Event The Howling 4k Restoration](https://drafthouse.com/los-angeles/show/special-event-the-howling-4k-restoration): Wed 6/7 (8:00pm)
+
 ### Fri 4/7 6:14pm
 * New movies: Legally Blonde, Spirited Away Subtitled
 
