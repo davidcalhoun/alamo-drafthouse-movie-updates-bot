@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 4/7 6:14pm
+* New movies: Legally Blonde, Spirited Away Subtitled
+
+* New screenings: 
+    * [Brunch Screenings Spirited Away Subtitled Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-spirited-away-subtitled-brunch): Sun 8/6 (11:00am)
+
+    * [Champagne Cinema Legally Blonde](https://drafthouse.com/los-angeles/show/champagne-cinema-legally-blonde): Tue 5/16 (6:30pm), Wed 5/17 (6:30pm)
+
 ### Fri 4/7 4:14pm
 * New movies: WarGames, Castle in the Sky Subtitled, My Neighbor Totoro Subtitled, GOLDENEYE
 
