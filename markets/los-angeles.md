@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Sat 4/8 4:11am
+
+* New screenings: 
+    * [Fast X](https://drafthouse.com/los-angeles/show/fast-x): Thu 5/18 (7:00pm), Fri 5/19 (7:00pm), Sat 5/20 (7:00pm), Sun 5/21 (7:00pm)
+
 ### Fri 4/7 11:18pm
 * New movies: The Howling
 
