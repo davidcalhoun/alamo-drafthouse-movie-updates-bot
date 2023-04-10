@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 4/10 4:15pm
+
+* New screenings: 
+    * [How To Blow Up A Pipeline](https://drafthouse.com/los-angeles/show/how-to-blow-up-a-pipeline): Tue 4/11 (6:00pm)
+
 ### Mon 4/10 1:16pm
 * New movies: Showing Up
 
