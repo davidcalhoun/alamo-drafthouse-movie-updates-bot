@@ -1,6 +1,22 @@
 # raleigh
 
 ## Movie updates
+### Mon 4/10 2:23pm
+* New movies: Barb & Star Go to Vista del Mar, Castle in the Sky Subtitled, My Neighbor Totoro Subtitled, Spirited Away Subtitled, WarGames, Death Becomes Her
+
+* New screenings: 
+    * [Barb Star Go To Vista Del Mar Movie Party](https://drafthouse.com/raleigh/show/barb-star-go-to-vista-del-mar-movie-party): Tue 5/30 (6:30pm)
+
+    * [Brunch Screenings Castle In The Sky Subtitled Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-castle-in-the-sky-subtitled-brunch): Sun 9/3 (11:00am)
+
+    * [Brunch Screenings My Neighbor Totoro Subtitled Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-my-neighbor-totoro-subtitled-brunch): Sun 10/1 (11:00am)
+
+    * [Brunch Screenings Spirited Away Subtitled Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-spirited-away-subtitled-brunch): Sun 8/6 (11:00am)
+
+    * [Death Becomes Her](https://drafthouse.com/raleigh/show/death-becomes-her): Sun 4/30 (11:00am)
+
+    * [Wargames](https://drafthouse.com/raleigh/show/wargames): Tue 5/9 (7:30pm)
+
 ### Mon 4/10 1:17pm
 * New movies: Subspecies V: Blood Rise, The Wizard of Oz 1939, Legally Blonde, GOLDENEYE, SECRET WORLD OF ARRIETTY - Subtitled, THE SPY WHO LOVED ME
 
