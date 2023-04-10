@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Mon 4/10 12:25pm
+* New movies: The Thing 1982, They Live
+
+* New screenings: 
+    * [The Thing](https://drafthouse.com/raleigh/show/the-thing): Mon 4/24 (9:30pm), Tue 4/25 (4:00pm), Wed 4/26 (3:45pm)
+
+    * [They Live](https://drafthouse.com/raleigh/show/they-live): Mon 5/1 (7:00pm)
+
 ### Thu 4/6 12:25pm
 * New movies: Evil Dead Rise, Evil Dead Rise
 
