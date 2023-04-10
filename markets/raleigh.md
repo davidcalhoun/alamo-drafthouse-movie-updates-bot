@@ -1,6 +1,18 @@
 # raleigh
 
 ## Movie updates
+### Mon 4/10 3:15pm
+* New movies: Suzume Subtitled, Suzume Dubbed
+
+* New screenings: 
+    * [How To Blow Up A Pipeline](https://drafthouse.com/raleigh/show/how-to-blow-up-a-pipeline): Thu 4/13 (7:15pm, 10:05pm)
+
+    * [Suzume Dubbed](https://drafthouse.com/raleigh/show/suzume-dubbed): Thu 4/13 (4:00pm)
+
+    * [Suzume Subtitled](https://drafthouse.com/raleigh/show/suzume-subtitled): Thu 4/13 (6:30pm, 9:40pm)
+
+    * [The Super Mario Bros Movie](https://drafthouse.com/raleigh/show/the-super-mario-bros-movie): Thu 4/13 (1:30pm)
+
 ### Mon 4/10 2:23pm
 * New movies: Barb & Star Go to Vista del Mar, Castle in the Sky Subtitled, My Neighbor Totoro Subtitled, Spirited Away Subtitled, WarGames, Death Becomes Her
 
