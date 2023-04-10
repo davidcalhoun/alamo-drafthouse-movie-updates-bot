@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Mon 4/10 6:19pm
+* New movies: Bullitt, Hustlers
+
+* New screenings: 
+    * [Brunch Screenings Bullitt Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-bullitt-brunch): Sun 5/21 (11:00am)
+
+    * [In Brunch We Trust Hustlers](https://drafthouse.com/raleigh/show/in-brunch-we-trust-hustlers): Sun 5/28 (12:00pm)
+
 ### Mon 4/10 4:19pm
 
 * New screenings: 
