@@ -1,6 +1,42 @@
 # los-angeles
 
 ## Movie updates
+### Mon 4/10 1:16pm
+* New movies: Showing Up
+
+* New screenings: 
+    * [A Thousand And One](https://drafthouse.com/los-angeles/show/a-thousand-and-one): Thu 4/13 (3:15pm)
+
+    * [Air](https://drafthouse.com/los-angeles/show/air): Mon 4/17 (12:45pm, 3:45pm, 6:00pm), Tue 4/18 (12:00pm, 3:45pm, 7:00pm), Wed 4/19 (12:45pm, 3:45pm, 6:45pm)
+
+    * [Assault On Precinct 13](https://drafthouse.com/los-angeles/show/assault-on-precinct-13): Thu 4/13 (4:15pm)
+
+    * [Creed Iii](https://drafthouse.com/los-angeles/show/creed-iii): Thu 4/13 (2:25pm)
+
+    * [Dazed And Confused](https://drafthouse.com/los-angeles/show/dazed-and-confused): Wed 4/19 (2:00pm)
+
+    * [Dungeons Dragons Honor Among Thieves](https://drafthouse.com/los-angeles/show/dungeons-dragons-honor-among-thieves): Thu 4/13 (2:35pm, 6:00pm, 10:20pm), Fri 4/14 (11:00am, 3:00pm, 6:25pm, 9:50pm), Sat 4/15 (11:15am, 3:00pm, 6:45pm, 10:30pm), Sun 4/16 (11:15am, 3:00pm, 6:45pm), Mon 4/17 (11:45am, 3:00pm, 6:15pm), Tue 4/18 (11:15am, 3:00pm, 6:45pm), Wed 4/19 (11:45am, 3:00pm, 6:15pm)
+
+    * [How To Blow Up A Pipeline](https://drafthouse.com/los-angeles/show/how-to-blow-up-a-pipeline): Fri 4/14 (12:20pm, 3:10pm, 6:00pm, 10:00pm), Sat 4/15 (12:30pm, 3:20pm, 6:15pm, 10:10pm), Sun 4/16 (1:00pm, 6:45pm), Mon 4/17 (12:30pm, 3:20pm, 7:15pm), Tue 4/18 (12:30pm, 3:25pm, 6:15pm), Wed 4/19 (12:30pm, 3:20pm, 7:15pm)
+
+    * [John Wick Chapter 4](https://drafthouse.com/los-angeles/show/john-wick-chapter-4): Thu 4/13 (3:40pm, 6:15pm, 9:25pm), Fri 4/14 (11:00am, 2:25pm, 6:20pm, 9:00pm), Sat 4/15 (11:00am, 2:45pm, 6:25pm, 9:10pm), Sun 4/16 (11:00am, 2:45pm, 6:30pm), Mon 4/17 (11:00am, 3:15pm, 6:30pm), Tue 4/18 (11:00am, 2:40pm, 6:30pm), Wed 4/19 (11:00am, 3:15pm, 6:30pm)
+
+    * [Mandy](https://drafthouse.com/los-angeles/show/mandy): Sun 4/16 (4:35pm), Tue 4/18 (4:20pm), Wed 4/19 (4:30pm)
+
+    * [Renfield](https://drafthouse.com/los-angeles/show/renfield): Thu 4/13 (5:25pm, 8:30pm, 10:45pm), Fri 4/14 (11:45am, 2:35pm, 5:15pm, 8:00pm, 10:45pm), Sat 4/15 (11:45am, 2:25pm, 5:15pm, 8:00pm, 10:45pm), Sun 4/16 (11:45am, 2:30pm, 5:15pm, 7:30pm, 8:00pm), Mon 4/17 (11:15am, 12:00pm, 2:00pm, 2:40pm, 4:45pm, 5:20pm, 7:30pm, 8:00pm), Tue 4/18 (11:15am, 12:15pm, 2:00pm, 3:00pm, 4:45pm, 5:45pm, 7:30pm), Wed 4/19 (11:15am, 12:00pm, 2:00pm, 2:40pm, 4:45pm, 5:20pm, 7:30pm, 8:00pm)
+
+    * [Scream Vi](https://drafthouse.com/los-angeles/show/scream-vi): Thu 4/13 (3:00pm)
+
+    * [Showing Up](https://drafthouse.com/los-angeles/show/showing-up): Thu 4/13 (7:45pm), Fri 4/14 (1:00pm, 4:00pm, 7:00pm, 10:20pm), Sat 4/15 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sun 4/16 (12:00pm, 3:00pm, 6:00pm), Mon 4/17 (1:00pm, 4:00pm, 7:00pm), Tue 4/18 (1:00pm, 4:00pm, 7:00pm), Wed 4/19 (1:00pm, 4:00pm, 7:00pm)
+
+    * [Suzume Dubbed](https://drafthouse.com/los-angeles/show/suzume-dubbed): Tue 4/18 (12:40pm)
+
+    * [Suzume Subtitled](https://drafthouse.com/los-angeles/show/suzume-subtitled): Mon 4/17 (11:15am, 2:35pm, 6:00pm), Tue 4/18 (4:00pm, 6:00pm), Wed 4/19 (11:30am, 2:40pm, 6:00pm)
+
+    * [The Doom Generation](https://drafthouse.com/los-angeles/show/the-doom-generation): Fri 4/14 (11:00am, 1:00pm, 6:30pm), Sat 4/15 (1:45pm), Sun 4/16 (2:20pm, 5:00pm), Mon 4/17 (12:15pm, 2:50pm), Tue 4/18 (11:00am, 2:50pm, 5:25pm), Wed 4/19 (11:00am, 5:00pm)
+
+    * [The Super Mario Bros Movie](https://drafthouse.com/los-angeles/show/the-super-mario-bros-movie): Thu 4/13 (2:50pm, 3:45pm, 5:40pm, 9:45pm), Fri 4/14 (12:30pm, 1:40pm, 3:20pm, 3:40pm, 6:10pm, 9:00pm), Sat 4/15 (11:00am, 12:30pm, 3:15pm, 4:15pm, 6:00pm, 8:45pm), Sun 4/16 (11:00am, 12:30pm, 1:45pm, 4:00pm, 6:15pm), Mon 4/17 (11:00am, 11:30am, 12:30pm, 1:45pm, 2:15pm, 3:15pm, 5:00pm, 5:20pm, 6:45pm, 7:45pm), Tue 4/18 (11:30am, 12:10pm, 1:00pm, 1:30pm, 2:15pm, 3:10pm, 5:00pm, 7:45pm), Wed 4/19 (11:15am, 11:30am, 12:30pm, 1:35pm, 2:15pm, 3:15pm, 5:00pm, 6:00pm, 7:45pm)
+
 ### Sat 4/8 4:11am
 
 * New screenings: 
