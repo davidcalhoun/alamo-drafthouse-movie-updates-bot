@@ -1,6 +1,24 @@
 # raleigh
 
 ## Movie updates
+### Mon 4/10 1:17pm
+* New movies: Subspecies V: Blood Rise, The Wizard of Oz 1939, Legally Blonde, GOLDENEYE, SECRET WORLD OF ARRIETTY - Subtitled, THE SPY WHO LOVED ME
+
+* New screenings: 
+    * [Brunch Screenings The Wizard Of Oz 1939 Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-the-wizard-of-oz-1939-brunch): Sat 5/13 (11:45am)
+
+    * [Champagne Cinema Legally Blonde](https://drafthouse.com/raleigh/show/champagne-cinema-legally-blonde): Wed 5/17 (8:00pm)
+
+    * [Goldeneye](https://drafthouse.com/raleigh/show/goldeneye): Sun 5/28 (3:00pm), Mon 5/29 (3:00pm)
+
+    * [Graveyard Shift Subspecies V Blood Rise](https://drafthouse.com/raleigh/show/graveyard-shift-subspecies-v-blood-rise): Mon 5/15 (7:00pm)
+
+    * [Secret World Of Arriety](https://drafthouse.com/raleigh/show/secret-world-of-arriety): Mon 6/12 (8:00pm)
+
+    * [The Spy Who Loved Me](https://drafthouse.com/raleigh/show/the-spy-who-loved-me): Sat 5/20 (3:00pm)
+
+    * [They Live](https://drafthouse.com/raleigh/show/they-live): Tue 5/2 (3:45pm), Wed 5/3 (3:15pm)
+
 ### Mon 4/10 12:25pm
 * New movies: The Thing 1982, They Live
 
