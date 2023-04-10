@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 4/10 4:19pm
+
+* New screenings: 
+    * [The Super Mario Bros Movie](https://drafthouse.com/raleigh/show/the-super-mario-bros-movie): Fri 4/14 (12:30pm, 3:15pm, 6:00pm, 8:45pm), Sun 4/16 (1:00pm, 3:45pm, 6:30pm, 9:15pm)
+
 ### Mon 4/10 3:15pm
 * New movies: Suzume Subtitled, Suzume Dubbed
 
