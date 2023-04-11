@@ -1,6 +1,27 @@
 # raleigh
 
 ## Movie updates
+### Tue 4/11 11:20am
+
+* New screenings: 
+    * [Air](https://drafthouse.com/raleigh/show/air): Fri 4/14 (1:15pm, 4:15pm, 7:15pm, 10:10pm), Sat 4/15 (12:10pm, 4:00pm, 7:00pm, 10:00pm), Sun 4/16 (1:15pm, 4:20pm, 7:15pm, 10:15pm), Mon 4/17 (1:15pm, 4:20pm, 7:15pm, 10:15pm), Tue 4/18 (1:25pm, 4:20pm, 7:15pm, 10:10pm), Wed 4/19 (12:15pm, 3:20pm, 6:15pm, 9:10pm)
+
+    * [Creed Iii](https://drafthouse.com/raleigh/show/creed-iii): Fri 4/14 (11:00am), Sat 4/15 (11:00am), Sun 4/16 (1:45pm), Mon 4/17 (12:15pm), Tue 4/18 (1:15pm), Wed 4/19 (1:20pm)
+
+    * [Dungeons Dragons Honor Among Thieves](https://drafthouse.com/raleigh/show/dungeons-dragons-honor-among-thieves): Fri 4/14 (12:15pm, 3:00pm, 6:15pm, 9:30pm), Sat 4/15 (12:15pm, 3:00pm, 6:15pm, 9:30pm), Sun 4/16 (11:45am, 3:00pm, 6:15pm, 9:40pm), Mon 4/17 (12:15pm, 3:00pm, 6:15pm, 9:30pm), Tue 4/18 (12:15pm, 3:00pm, 6:15pm, 9:35pm), Wed 4/19 (11:40am, 3:15pm, 6:30pm, 9:45pm)
+
+    * [How To Blow Up A Pipeline](https://drafthouse.com/raleigh/show/how-to-blow-up-a-pipeline): Wed 4/19 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm)
+
+    * [John Wick Chapter 4](https://drafthouse.com/raleigh/show/john-wick-chapter-4): Fri 4/14 (12:55pm, 5:00pm, 8:30pm), Sat 4/15 (12:55pm, 4:55pm, 8:30pm), Sun 4/16 (12:50pm, 4:40pm, 8:30pm), Mon 4/17 (12:40pm, 4:30pm, 8:30pm), Tue 4/18 (12:45pm, 4:40pm, 8:15pm), Wed 4/19 (12:45pm, 4:40pm, 8:30pm)
+
+    * [Renfield](https://drafthouse.com/raleigh/show/renfield): Fri 4/14 (12:20pm, 3:00pm, 5:45pm, 7:30pm, 9:00pm, 10:15pm, 10:50pm), Sat 4/15 (1:15pm, 3:10pm, 5:50pm, 9:00pm, 10:50pm), Sun 4/16 (4:50pm, 7:30pm, 10:10pm), Mon 4/17 (7:30pm, 10:10pm), Tue 4/18 (11:15am, 2:00pm, 4:50pm, 6:30pm, 8:30pm), Wed 4/19 (11:55am, 2:40pm, 5:20pm, 7:45pm, 8:00pm, 9:45pm, 10:30pm, 10:40pm)
+
+    * [Suzume Dubbed](https://drafthouse.com/raleigh/show/suzume-dubbed): Fri 4/14 (11:45am), Sat 4/15 (11:55am), Sun 4/16 (12:30pm), Mon 4/17 (11:55am), Tue 4/18 (11:55am), Wed 4/19 (12:10pm)
+
+    * [Suzume Subtitled](https://drafthouse.com/raleigh/show/suzume-subtitled): Fri 4/14 (3:40pm, 6:45pm, 9:50pm), Sat 4/15 (3:40pm, 6:45pm, 9:50pm), Sun 4/16 (3:40pm, 6:45pm, 9:50pm), Mon 4/17 (3:40pm, 6:45pm, 9:50pm), Tue 4/18 (3:40pm, 6:45pm, 9:50pm), Wed 4/19 (2:55pm, 6:00pm, 9:05pm)
+
+    * [The Super Mario Bros Movie](https://drafthouse.com/raleigh/show/the-super-mario-bros-movie): Fri 4/14 (12:00pm, 1:00pm, 2:00pm, 2:45pm, 3:45pm, 4:45pm, 5:30pm, 6:30pm, 8:15pm, 9:15pm), Sat 4/15 (12:00pm, 12:30pm, 1:00pm, 2:00pm, 2:45pm, 3:15pm, 3:45pm, 4:45pm, 5:30pm, 6:00pm, 6:30pm, 7:30pm, 8:15pm, 8:45pm, 9:15pm, 10:15pm), Sun 4/16 (11:00am, 11:30am, 12:00pm, 2:15pm, 2:45pm, 5:00pm, 5:30pm, 7:45pm, 8:15pm, 10:30pm, 10:50pm), Mon 4/17 (11:15am, 12:00pm, 1:00pm, 1:30pm, 2:00pm, 2:45pm, 3:15pm, 3:45pm, 4:15pm, 4:45pm, 5:30pm, 6:00pm, 6:30pm, 7:00pm, 8:15pm, 8:45pm, 9:15pm, 10:50pm), Tue 4/18 (11:00am, 12:00pm, 12:30pm, 1:00pm, 1:45pm, 2:45pm, 3:15pm, 3:45pm, 4:15pm, 5:30pm, 6:00pm, 7:00pm, 8:45pm, 9:45pm, 10:15pm), Wed 4/19 (11:00am, 11:30am, 12:00pm, 1:15pm, 1:45pm, 2:15pm, 2:45pm, 4:00pm, 4:30pm, 5:00pm, 5:30pm, 6:45pm, 7:15pm, 8:15pm, 10:00pm, 10:55pm)
+
 ### Tue 4/11 10:18am
 
 * New screenings: 
