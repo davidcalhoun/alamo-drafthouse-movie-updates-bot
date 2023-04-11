@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Tue 4/11 10:18am
+
+* New screenings: 
+    * [Renfield](https://drafthouse.com/raleigh/show/renfield): Thu 4/20 (1:00pm)
+
+    * [The Super Mario Bros Movie](https://drafthouse.com/raleigh/show/the-super-mario-bros-movie): Thu 4/20 (11:00am, 12:30pm, 1:40pm, 3:15pm)
+
 ### Mon 4/10 9:34pm
 
 * New screenings: 
