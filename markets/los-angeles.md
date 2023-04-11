@@ -1,6 +1,22 @@
 # los-angeles
 
 ## Movie updates
+### Tue 4/11 3:14pm
+* New movies: Polite Society, Chevalier 2023
+
+* New screenings: 
+    * [Beau Is Afraid](https://drafthouse.com/los-angeles/show/beau-is-afraid): Fri 4/28 (11:00am, 2:30pm, 6:00pm, 9:30pm), Sat 4/29 (11:00am, 2:30pm, 6:00pm, 9:30pm), Sun 4/30 (11:00am, 2:30pm, 6:00pm)
+
+    * [Chevalier 2023](https://drafthouse.com/los-angeles/show/chevalier-2023): Thu 4/20 (5:00pm, 7:50pm, 10:45pm), Fri 4/21 (12:45pm, 3:45pm, 6:45pm, 9:40pm), Sat 4/22 (12:45pm, 3:45pm, 6:45pm, 9:40pm), Sun 4/23 (12:45pm, 3:45pm, 6:45pm)
+
+    * [Evil Dead Rise](https://drafthouse.com/los-angeles/show/evil-dead-rise): Fri 4/28 (11:45am, 3:15pm, 6:45pm, 10:15pm), Sat 4/29 (11:45am, 3:15pm, 6:45pm, 10:15pm), Sun 4/30 (11:45am, 3:15pm, 6:45pm)
+
+    * [Polite Society](https://drafthouse.com/los-angeles/show/polite-society): Thu 4/27 (7:00pm, 10:00pm), Fri 4/28 (11:00am, 2:00pm, 4:50pm, 7:45pm, 10:40pm), Sat 4/29 (11:00am, 1:55pm, 4:45pm, 7:45pm, 10:40pm), Sun 4/30 (11:00am, 1:55pm, 4:45pm, 7:45pm)
+
+    * [Renfield](https://drafthouse.com/los-angeles/show/renfield): Thu 4/20 (4:00pm, 6:45pm, 10:45pm), Fri 4/21 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sat 4/22 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sun 4/23 (11:30am, 2:15pm, 5:00pm, 7:45pm)
+
+    * [The Doom Generation](https://drafthouse.com/los-angeles/show/the-doom-generation): Sat 4/22 (7:00pm), Sun 4/23 (8:00pm)
+
 ### Tue 4/11 1:16pm
 * New movies: SECRET WORLD OF ARRIETTY - Subtitled
 
