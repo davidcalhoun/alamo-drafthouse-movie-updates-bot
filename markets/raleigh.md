@@ -1,6 +1,29 @@
 # raleigh
 
 ## Movie updates
+### Mon 4/10 9:34pm
+
+* New screenings: 
+    * [A Thousand And One](https://drafthouse.com/raleigh/show/a-thousand-and-one): Thu 4/13 (4:30pm)
+
+    * [Air](https://drafthouse.com/raleigh/show/air): Thu 4/13 (11:55am, 3:30pm, 6:45pm, 9:45pm)
+
+    * [Creed Iii](https://drafthouse.com/raleigh/show/creed-iii): Thu 4/13 (3:45pm)
+
+    * [Cruising](https://drafthouse.com/raleigh/show/cruising): Thu 4/13 (12:45pm, 10:50pm)
+
+    * [Dungeons Dragons Honor Among Thieves](https://drafthouse.com/raleigh/show/dungeons-dragons-honor-among-thieves): Thu 4/13 (12:40pm, 3:00pm, 6:15pm, 9:30pm)
+
+    * [John Wick Chapter 4](https://drafthouse.com/raleigh/show/john-wick-chapter-4): Thu 4/13 (11:50am, 3:55pm, 7:55pm)
+
+    * [Renfield](https://drafthouse.com/raleigh/show/renfield): Thu 4/13 (9:00pm)
+
+    * [Sea Of Love](https://drafthouse.com/raleigh/show/sea-of-love): Thu 4/13 (2:55pm)
+
+    * [Suzume Subtitled](https://drafthouse.com/raleigh/show/suzume-subtitled): Thu 4/13 (5:55pm)
+
+    * [The Super Mario Bros Movie](https://drafthouse.com/raleigh/show/the-super-mario-bros-movie): Thu 4/13 (11:15am, 12:00pm, 12:15pm, 1:00pm, 1:55pm, 2:45pm, 5:30pm, 7:30pm, 8:15pm, 10:10pm)
+
 ### Mon 4/10 6:19pm
 * New movies: Bullitt, Hustlers
 
