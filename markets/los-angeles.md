@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 4/11 1:16pm
+* New movies: SECRET WORLD OF ARRIETTY - Subtitled
+
+* New screenings: 
+    * [Secret World Of Arriety](https://drafthouse.com/los-angeles/show/secret-world-of-arriety): Mon 6/12 (7:30pm)
+
 ### Mon 4/10 4:15pm
 
 * New screenings: 
