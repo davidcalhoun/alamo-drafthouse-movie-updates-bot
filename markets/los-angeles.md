@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 4/12 6:16pm
+
+* New screenings: 
+    * [Fast X](https://drafthouse.com/los-angeles/show/fast-x): Thu 5/18 (2:30pm, 3:30pm, 9:30pm, 10:30pm), Fri 5/19 (11:00am, 12:00pm, 2:30pm, 3:30pm, 9:30pm, 10:30pm), Sat 5/20 (11:00am, 12:00pm, 2:30pm, 3:30pm, 9:30pm, 10:30pm), Sun 5/21 (11:00am, 12:00pm, 2:30pm, 3:30pm), Mon 5/22 (12:00pm, 3:30pm, 7:00pm), Tue 5/23 (1:00pm, 4:30pm, 6:00pm)
+
 ### Tue 4/11 3:14pm
 * New movies: Polite Society, Chevalier 2023
 
