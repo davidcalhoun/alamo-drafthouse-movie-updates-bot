@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Thu 4/13 3:15pm
+
+* New screenings: 
+    * [The Doom Generation](https://drafthouse.com/raleigh/show/the-doom-generation): Sat 4/15 (10:50pm)
+
 ### Tue 4/11 11:20am
 
 * New screenings: 
