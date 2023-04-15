@@ -1,6 +1,40 @@
 # los-angeles
 
 ## Movie updates
+### Sat 4/15 1:18am
+* New movies: Fast Five, Moon Garden, The Fast and the Furious 2001, Subspecies V: Blood Rise, The Lure, Always Be My Maybe, Bullitt, On the Town, Hustlers, Plus One, The Best Years of Our Lives, The Deer Hunter, The Last Starfighter, The Wizard 1989, Space Jam
+
+* New screenings: 
+    * [Always Be My Maybe](https://drafthouse.com/los-angeles/show/always-be-my-maybe): Mon 5/15 (7:30pm)
+
+    * [Brunch Screenings Bullitt Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-bullitt-brunch): Sat 5/20 (11:30am)
+
+    * [Brunch Screenings On The Town Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-on-the-town-brunch): Sat 5/27 (11:00am)
+
+    * [Fast Five](https://drafthouse.com/los-angeles/show/fast-five): Sat 5/13 (5:45pm), Thu 5/18 (4:00pm)
+
+    * [Graveyard Shift Subspecies V Blood Rise](https://drafthouse.com/los-angeles/show/graveyard-shift-subspecies-v-blood-rise): Mon 5/15 (8:00pm)
+
+    * [Graveyard Shift The Lure](https://drafthouse.com/los-angeles/show/graveyard-shift-the-lure): Mon 5/22 (8:00pm)
+
+    * [Hustlers](https://drafthouse.com/los-angeles/show/hustlers): Sun 5/28 (3:00pm)
+
+    * [Moon Garden](https://drafthouse.com/los-angeles/show/moon-garden): Fri 5/26 (9:30pm), Sat 5/27 (9:30pm), Sun 5/28 (6:30pm)
+
+    * [Plus One](https://drafthouse.com/los-angeles/show/plus-one): Sun 5/21 (3:00pm)
+
+    * [Space Jam](https://drafthouse.com/los-angeles/show/space-jam): Fri 5/12 (6:45pm)
+
+    * [The Best Years Of Our Lives](https://drafthouse.com/los-angeles/show/the-best-years-of-our-lives): Sun 5/28 (11:00am)
+
+    * [The Deer Hunter](https://drafthouse.com/los-angeles/show/the-deer-hunter): Mon 5/29 (11:45am)
+
+    * [The Fast And The Furious](https://drafthouse.com/los-angeles/show/the-fast-and-the-furious): Fri 5/12 (9:30pm), Wed 5/17 (7:30pm)
+
+    * [The Last Starfighter](https://drafthouse.com/los-angeles/show/the-last-starfighter): Tue 5/16 (7:30pm)
+
+    * [The Wizard 1989](https://drafthouse.com/los-angeles/show/the-wizard-1989): Sun 5/21 (12:00pm)
+
 ### Wed 4/12 6:16pm
 
 * New screenings: 
