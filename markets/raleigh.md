@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 4/14 9:37pm
+
+* New screenings: 
+    * [Barb Star Go To Vista Del Mar Movie Party](https://drafthouse.com/raleigh/show/barb-star-go-to-vista-del-mar-movie-party): Sun 5/28 (6:30pm)
+
 ### Thu 4/13 3:15pm
 
 * New screenings: 
