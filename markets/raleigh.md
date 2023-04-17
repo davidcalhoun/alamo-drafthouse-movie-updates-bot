@@ -1,6 +1,33 @@
 # raleigh
 
 ## Movie updates
+### Mon 4/17 6:18pm
+
+* New screenings: 
+    * [Air](https://drafthouse.com/raleigh/show/air): Fri 4/21 (12:45pm, 4:20pm, 7:15pm, 10:15pm), Sat 4/22 (12:45pm, 4:20pm, 7:15pm, 10:15pm), Sun 4/23 (12:45pm, 4:20pm, 7:15pm, 10:15pm), Mon 4/24 (1:15pm, 4:20pm, 7:30pm, 10:30pm), Tue 4/25 (12:20pm, 3:30pm, 6:45pm, 9:45pm), Wed 4/26 (1:00pm, 4:15pm, 7:15pm, 10:15pm)
+
+    * [Beau Is Afraid](https://drafthouse.com/raleigh/show/beau-is-afraid): Mon 4/24 (11:00am, 2:40pm, 6:00pm, 9:00pm), Tue 4/25 (11:30am, 3:00pm, 6:15pm, 10:15pm), Wed 4/26 (11:30am, 2:00pm, 6:00pm, 9:00pm)
+
+    * [Chevalier 2023](https://drafthouse.com/raleigh/show/chevalier-2023): Fri 4/21 (12:00pm, 2:55pm, 6:30pm, 9:20pm), Sat 4/22 (12:00pm, 2:55pm, 6:30pm, 9:20pm), Sun 4/23 (12:30pm, 3:30pm, 6:30pm, 9:20pm), Mon 4/24 (1:30pm, 4:30pm, 7:45pm, 10:40pm), Tue 4/25 (1:30pm, 4:25pm, 7:15pm, 10:05pm), Wed 4/26 (12:45pm)
+
+    * [Dungeons Dragons Honor Among Thieves](https://drafthouse.com/raleigh/show/dungeons-dragons-honor-among-thieves): Fri 4/21 (11:30am, 2:55pm, 6:15pm, 9:30pm), Sat 4/22 (11:30am, 2:55pm, 6:15pm, 9:30pm), Sun 4/23 (11:30am, 2:55pm, 6:15pm, 9:30pm), Mon 4/24 (11:25am, 2:45pm, 6:30pm, 9:50pm), Tue 4/25 (11:00am, 2:30pm, 6:00pm, 9:15pm), Wed 4/26 (11:20am, 2:40pm, 6:30pm, 9:50pm)
+
+    * [Evil Dead Rise](https://drafthouse.com/raleigh/show/evil-dead-rise): Fri 4/21 (8:30pm), Sat 4/22 (8:30pm), Sun 4/23 (8:30pm), Mon 4/24 (11:30am, 2:15pm, 4:55pm, 6:45pm, 8:30pm), Tue 4/25 (11:15am, 12:15pm, 2:00pm, 3:15pm, 4:45pm, 7:30pm, 8:30pm, 10:45pm), Wed 4/26 (12:15pm, 3:00pm, 5:45pm, 8:00pm, 8:30pm, 10:00pm, 10:40pm)
+
+    * [From Russia With Love](https://drafthouse.com/raleigh/show/from-russia-with-love): Mon 4/24 (5:00pm)
+
+    * [How To Blow Up A Pipeline](https://drafthouse.com/raleigh/show/how-to-blow-up-a-pipeline): Fri 4/21 (5:45pm), Sat 4/22 (5:45pm), Sun 4/23 (1:40pm), Mon 4/24 (10:00pm), Tue 4/25 (5:00pm), Wed 4/26 (3:40pm)
+
+    * [John Wick Chapter 4](https://drafthouse.com/raleigh/show/john-wick-chapter-4): Fri 4/21 (1:00pm, 4:15pm, 8:15pm), Sat 4/22 (1:00pm, 4:15pm, 8:15pm), Sun 4/23 (1:00pm, 4:15pm, 8:15pm), Mon 4/24 (12:15pm, 4:15pm, 8:15pm), Tue 4/25 (1:00pm, 4:15pm, 8:15pm), Wed 4/26 (12:55pm, 4:00pm, 8:15pm)
+
+    * [Renfield](https://drafthouse.com/raleigh/show/renfield): Fri 4/21 (1:30pm, 5:00pm, 7:45pm, 10:30pm), Sat 4/22 (1:30pm, 5:00pm, 7:45pm, 10:30pm), Sun 4/23 (1:30pm, 5:00pm, 7:45pm, 10:30pm), Mon 4/24 (1:00pm, 3:45pm, 7:15pm, 9:55pm), Tue 4/25 (12:30pm, 4:00pm, 7:45pm, 10:30pm), Wed 4/26 (1:25pm, 5:00pm, 7:45pm, 10:30pm)
+
+    * [Suzume Dubbed](https://drafthouse.com/raleigh/show/suzume-dubbed): Fri 4/21 (1:15pm), Sat 4/22 (1:15pm), Sun 4/23 (1:15pm), Mon 4/24 (12:40pm), Tue 4/25 (12:55pm)
+
+    * [Suzume Subtitled](https://drafthouse.com/raleigh/show/suzume-subtitled): Fri 4/21 (3:40pm, 6:45pm, 9:50pm), Sat 4/22 (3:40pm, 6:45pm, 9:50pm), Sun 4/23 (3:40pm, 6:45pm, 9:50pm), Mon 4/24 (3:55pm, 7:00pm, 10:05pm), Tue 4/25 (3:10pm, 6:30pm, 9:40pm), Wed 4/26 (3:55pm, 7:00pm, 10:05pm)
+
+    * [The Super Mario Bros Movie](https://drafthouse.com/raleigh/show/the-super-mario-bros-movie): Fri 4/21 (11:15am, 11:45am, 12:55pm, 2:00pm, 2:30pm, 3:45pm, 4:45pm, 5:15pm, 7:30pm, 8:00pm, 10:15pm, 10:45pm), Sat 4/22 (11:15am, 11:45am, 12:55pm, 2:00pm, 2:30pm, 3:45pm, 4:45pm, 5:15pm, 7:30pm, 8:00pm, 10:15pm, 10:45pm), Sun 4/23 (11:15am, 11:45am, 2:00pm, 2:30pm, 4:45pm, 5:15pm, 7:30pm, 8:00pm, 10:15pm, 10:45pm), Mon 4/24 (11:15am, 12:00pm, 12:55pm, 3:00pm, 3:40pm, 5:45pm, 6:15pm), Tue 4/25 (12:00pm, 1:40pm, 2:40pm, 5:15pm, 5:45pm, 10:15pm), Wed 4/26 (11:15am, 12:00pm, 2:45pm, 5:30pm, 6:15pm)
+
 ### Mon 4/17 4:20pm
 * New movies: Chevalier 2023
 
