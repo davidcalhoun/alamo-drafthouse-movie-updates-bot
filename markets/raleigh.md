@@ -1,6 +1,36 @@
 # raleigh
 
 ## Movie updates
+### Mon 4/17 4:20pm
+* New movies: Chevalier 2023
+
+* New screenings: 
+    * [Air](https://drafthouse.com/raleigh/show/air): Thu 4/20 (12:45pm, 4:15pm, 6:45pm, 9:45pm)
+
+    * [Beau Is Afraid](https://drafthouse.com/raleigh/show/beau-is-afraid): Thu 4/20 (4:00pm)
+
+    * [Chevalier 2023](https://drafthouse.com/raleigh/show/chevalier-2023): Thu 4/20 (5:00pm, 7:50pm, 10:40pm)
+
+    * [Creed Iii](https://drafthouse.com/raleigh/show/creed-iii): Thu 4/20 (12:00pm)
+
+    * [Dungeons Dragons Honor Among Thieves](https://drafthouse.com/raleigh/show/dungeons-dragons-honor-among-thieves): Thu 4/20 (11:40am, 2:55pm, 6:15pm, 9:30pm)
+
+    * [Evil Dead Rise](https://drafthouse.com/raleigh/show/evil-dead-rise): Thu 4/20 (8:30pm)
+
+    * [How To Blow Up A Pipeline](https://drafthouse.com/raleigh/show/how-to-blow-up-a-pipeline): Thu 4/20 (2:15pm)
+
+    * [John Wick Chapter 4](https://drafthouse.com/raleigh/show/john-wick-chapter-4): Thu 4/20 (12:50pm, 4:40pm, 8:15pm)
+
+    * [Renfield](https://drafthouse.com/raleigh/show/renfield): Thu 4/20 (3:50pm, 7:30pm, 10:10pm)
+
+    * [Suzume Dubbed](https://drafthouse.com/raleigh/show/suzume-dubbed): Thu 4/20 (12:55pm)
+
+    * [Suzume Subtitled](https://drafthouse.com/raleigh/show/suzume-subtitled): Thu 4/20 (3:40pm, 6:30pm, 9:40pm)
+
+    * [The Doom Generation](https://drafthouse.com/raleigh/show/the-doom-generation): Thu 4/20 (1:45pm)
+
+    * [The Super Mario Bros Movie](https://drafthouse.com/raleigh/show/the-super-mario-bros-movie): Thu 4/20 (11:30am, 1:15pm, 7:15pm, 9:55pm)
+
 ### Fri 4/14 9:37pm
 
 * New screenings: 
