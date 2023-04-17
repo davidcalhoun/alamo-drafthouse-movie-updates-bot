@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 4/17 8:17am
+* New movies: Star Wars: Return of the Jedi
+
+* New screenings: 
+    * [Special Event Star Wars Return Of The Jedi 40th Anniversary Re Release](https://drafthouse.com/los-angeles/show/special-event-star-wars-return-of-the-jedi-40th-anniversary-re-release): Fri 4/28 (11:30am, 3:00pm, 6:30pm, 10:00pm), Sat 4/29 (11:30am, 3:00pm, 6:30pm, 10:00pm), Sun 4/30 (11:30am, 3:00pm, 6:30pm), Mon 5/1 (11:30am, 3:00pm, 6:30pm), Tue 5/2 (11:30am, 3:00pm, 6:30pm), Wed 5/3 (11:30am, 3:00pm, 6:30pm), Thu 5/4 (2:00pm)
+
 ### Sat 4/15 1:18am
 * New movies: Fast Five, Moon Garden, The Fast and the Furious 2001, Subspecies V: Blood Rise, The Lure, Always Be My Maybe, Bullitt, On the Town, Hustlers, Plus One, The Best Years of Our Lives, The Deer Hunter, The Last Starfighter, The Wizard 1989, Space Jam
 
