@@ -1,6 +1,36 @@
 # los-angeles
 
 ## Movie updates
+### Mon 4/17 3:14pm
+* New movies: Guy Ritchie's The Covenant
+
+* New screenings: 
+    * [Air](https://drafthouse.com/los-angeles/show/air): Thu 4/20 (3:00pm, 6:10pm, 9:15pm), Fri 4/21 (1:00pm, 4:00pm, 7:00pm, 10:45pm), Sat 4/22 (1:00pm, 4:00pm, 7:00pm, 10:10pm), Sun 4/23 (1:00pm, 4:00pm, 8:00pm), Mon 4/24 (12:40pm, 3:45pm, 7:45pm), Tue 4/25 (12:30pm, 3:30pm, 8:00pm), Wed 4/26 (1:00pm, 4:00pm, 8:00pm)
+
+    * [Beau Is Afraid](https://drafthouse.com/los-angeles/show/beau-is-afraid): Thu 4/20 (3:25pm), Fri 4/21 (5:15pm), Sat 4/22 (2:30pm, 8:20pm), Sun 4/23 (5:45pm), Mon 4/24 (11:25am, 12:00pm), Tue 4/25 (11:00am, 12:00pm, 3:15pm, 7:30pm), Wed 4/26 (11:00am, 12:25pm, 3:15pm, 7:30pm)
+
+    * [Chevalier 2023](https://drafthouse.com/los-angeles/show/chevalier-2023): Mon 4/24 (12:20pm, 3:15pm, 6:15pm), Tue 4/25 (12:45pm, 3:45pm, 6:50pm), Wed 4/26 (12:45pm, 3:45pm, 6:45pm)
+
+    * [Dungeons Dragons Honor Among Thieves](https://drafthouse.com/los-angeles/show/dungeons-dragons-honor-among-thieves): Thu 4/20 (3:10pm, 6:35pm, 10:00pm), Fri 4/21 (12:05pm, 3:30pm, 6:15pm, 10:00pm), Sat 4/22 (11:25am, 2:50pm, 6:15pm, 9:35pm), Sun 4/23 (11:25am, 2:50pm, 6:15pm), Mon 4/24 (11:10am, 2:35pm, 6:45pm), Tue 4/25 (11:25am, 2:50pm, 6:15pm), Wed 4/26 (11:25am, 2:50pm, 6:15pm)
+
+    * [Evil Dead Rise](https://drafthouse.com/los-angeles/show/evil-dead-rise): Fri 4/21 (9:45pm), Sat 4/22 (6:45pm), Sun 4/23 (5:15pm), Mon 4/24 (11:00am, 1:40pm, 4:00pm, 4:25pm, 7:15pm), Tue 4/25 (11:00am, 1:45pm, 2:30pm, 4:30pm, 5:15pm, 7:15pm), Wed 4/26 (11:00am, 1:45pm, 2:30pm, 4:30pm, 5:15pm, 7:15pm)
+
+    * [Guy Ritchies The Covenant](https://drafthouse.com/los-angeles/show/guy-ritchies-the-covenant): Thu 4/20 (7:30pm, 10:45pm), Fri 4/21 (11:35am, 2:45pm, 6:00pm, 9:15pm), Sat 4/22 (11:35am, 2:45pm, 6:00pm, 9:15pm), Sun 4/23 (11:35am, 2:45pm, 6:00pm), Mon 4/24 (11:35am, 2:45pm, 6:00pm), Tue 4/25 (11:35am, 2:45pm, 6:00pm), Wed 4/26 (11:35am, 2:45pm, 6:00pm)
+
+    * [How To Blow Up A Pipeline](https://drafthouse.com/los-angeles/show/how-to-blow-up-a-pipeline): Thu 4/20 (3:10pm), Fri 4/21 (12:30pm), Sat 4/22 (2:45pm), Sun 4/23 (11:40am), Mon 4/24 (4:40pm), Tue 4/25 (11:40am), Wed 4/26 (4:40pm)
+
+    * [John Wick Chapter 4](https://drafthouse.com/los-angeles/show/john-wick-chapter-4): Thu 4/20 (3:00pm, 6:00pm, 10:00pm), Fri 4/21 (12:00pm, 4:00pm, 8:00pm), Sat 4/22 (12:00pm, 4:00pm, 8:00pm), Sun 4/23 (12:00pm, 4:00pm, 7:00pm), Mon 4/24 (12:00pm, 4:00pm), Tue 4/25 (12:00pm, 4:00pm, 6:40pm), Wed 4/26 (12:00pm, 4:00pm, 7:00pm)
+
+    * [Renfield](https://drafthouse.com/los-angeles/show/renfield): Mon 4/24 (11:20am, 2:00pm, 4:15pm, 8:00pm), Tue 4/25 (11:30am, 2:15pm, 5:00pm, 7:45pm), Wed 4/26 (11:30am, 2:15pm, 5:00pm, 7:45pm)
+
+    * [Showing Up](https://drafthouse.com/los-angeles/show/showing-up): Fri 4/21 (11:35am), Sat 4/22 (11:30am), Sun 4/23 (2:45pm), Mon 4/24 (1:00pm), Tue 4/25 (4:05pm), Wed 4/26 (11:30am)
+
+    * [Suzume Dubbed](https://drafthouse.com/los-angeles/show/suzume-dubbed): Fri 4/21 (3:10pm), Mon 4/24 (6:30pm)
+
+    * [Suzume Subtitled](https://drafthouse.com/los-angeles/show/suzume-subtitled): Thu 4/20 (4:10pm, 7:15pm, 10:25pm), Fri 4/21 (11:50am, 6:30pm, 9:50pm), Sat 4/22 (11:50am, 3:15pm, 6:30pm, 9:50pm), Sun 4/23 (11:50am, 3:15pm, 6:30pm), Mon 4/24 (11:50am, 3:15pm), Tue 4/25 (11:50am, 3:15pm, 6:30pm), Wed 4/26 (11:50am, 3:15pm, 6:30pm)
+
+    * [The Super Mario Bros Movie](https://drafthouse.com/los-angeles/show/the-super-mario-bros-movie): Thu 4/20 (3:35pm, 6:15pm, 9:00pm), Fri 4/21 (11:15am, 2:00pm, 2:35pm, 3:45pm, 4:45pm, 7:35pm, 10:20pm), Sat 4/22 (11:15am, 12:00pm, 2:00pm, 4:45pm, 5:35pm, 7:35pm, 10:20pm), Sun 4/23 (11:15am, 12:00pm, 2:00pm, 2:30pm, 4:45pm, 7:35pm), Mon 4/24 (11:30am, 2:15pm, 5:00pm, 7:45pm), Tue 4/25 (11:15am, 2:00pm, 4:45pm, 7:35pm), Wed 4/26 (11:15am, 2:00pm, 4:45pm, 7:35pm)
+
 ### Mon 4/17 8:17am
 * New movies: Star Wars: Return of the Jedi
 
