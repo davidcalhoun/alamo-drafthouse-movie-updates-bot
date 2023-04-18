@@ -1,6 +1,24 @@
 # raleigh
 
 ## Movie updates
+### Tue 4/18 12:22pm
+* New movies: A Nightmare on Elm Street 4: The Dream Master, On the Town, Driveways, Stalker, The Last Starfighter, The Wizard 1989, Casino Royale
+
+* New screenings: 
+    * [Brunch Screenings On The Town Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-on-the-town-brunch): Sat 5/27 (11:00am)
+
+    * [Casino Royale](https://drafthouse.com/raleigh/show/casino-royale): Tue 6/6 (3:00pm)
+
+    * [Driveways](https://drafthouse.com/raleigh/show/driveways): Sun 5/21 (7:15pm)
+
+    * [Stalker](https://drafthouse.com/raleigh/show/stalker): Wed 5/31 (3:00pm)
+
+    * [Terror Tuesday A Nightmare On Elm Street 4 The Dream Master](https://drafthouse.com/raleigh/show/terror-tuesday-a-nightmare-on-elm-street-4-the-dream-master): Tue 6/27 (9:30pm)
+
+    * [The Last Starfighter](https://drafthouse.com/raleigh/show/the-last-starfighter): Tue 5/16 (7:15pm)
+
+    * [The Wizard 1989](https://drafthouse.com/raleigh/show/the-wizard-1989): Wed 5/24 (7:15pm)
+
 ### Mon 4/17 9:34pm
 * New movies: Always Be My Maybe, Mamma Mia!
 
