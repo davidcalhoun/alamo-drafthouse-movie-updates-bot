@@ -1,6 +1,18 @@
 # raleigh
 
 ## Movie updates
+### Mon 4/17 9:34pm
+* New movies: Always Be My Maybe, Mamma Mia!
+
+* New screenings: 
+    * [Always Be My Maybe](https://drafthouse.com/raleigh/show/always-be-my-maybe): Sat 5/13 (2:15pm)
+
+    * [Chevalier 2023](https://drafthouse.com/raleigh/show/chevalier-2023): Wed 4/26 (4:40pm, 7:30pm, 10:20pm)
+
+    * [Special Event Mamma Mia Brunch](https://drafthouse.com/raleigh/show/special-event-mamma-mia-brunch): Sun 5/14 (11:30am)
+
+    * [Suzume Dubbed](https://drafthouse.com/raleigh/show/suzume-dubbed): Wed 4/26 (1:30pm)
+
 ### Mon 4/17 6:18pm
 
 * New screenings: 
