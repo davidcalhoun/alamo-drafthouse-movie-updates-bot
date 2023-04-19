@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 4/18 11:20pm
+
+* New screenings: 
+    * [Fast X](https://drafthouse.com/los-angeles/show/fast-x): Fri 5/26 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sat 5/27 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sun 5/28 (12:00pm, 3:30pm, 7:00pm), Mon 5/29 (12:00pm, 3:30pm, 7:00pm)
+
 ### Tue 4/18 10:15pm
 * New movies: Tightrope
 
