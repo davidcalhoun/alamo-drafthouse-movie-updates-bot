@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 4/18 10:15pm
+* New movies: Tightrope
+
+* New screenings: 
+    * [Tightrope](https://drafthouse.com/los-angeles/show/tightrope): Tue 5/23 (8:00pm), Wed 5/24 (8:00pm)
+
 ### Mon 4/17 3:14pm
 * New movies: Guy Ritchie's The Covenant
 
