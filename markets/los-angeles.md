@@ -1,6 +1,22 @@
 # los-angeles
 
 ## Movie updates
+### Wed 4/19 12:15am
+* New movies: Mother 2009, mother!, Mother 1996
+
+* New screenings: 
+    * [Beau Is Afraid](https://drafthouse.com/los-angeles/show/beau-is-afraid): Thu 4/27 (3:00pm, 6:30pm, 10:00pm)
+
+    * [Evil Dead Rise](https://drafthouse.com/los-angeles/show/evil-dead-rise): Thu 4/27 (3:45pm, 7:15pm, 10:45pm)
+
+    * [Mother](https://drafthouse.com/los-angeles/show/mother): Sun 5/14 (6:00pm)
+
+    * [Mother 1996](https://drafthouse.com/los-angeles/show/mother-1996): Sun 5/14 (11:30am)
+
+    * [Mother 2009](https://drafthouse.com/los-angeles/show/mother-2009): Sat 5/13 (9:15pm), Sun 5/14 (2:30pm)
+
+    * [The Super Mario Bros Movie](https://drafthouse.com/los-angeles/show/the-super-mario-bros-movie): Thu 4/27 (3:30pm, 6:15pm, 9:00pm), Fri 4/28 (11:15am, 2:00pm, 4:40pm, 7:30pm, 10:15pm), Sat 4/29 (11:15am, 2:00pm, 4:40pm, 7:30pm, 10:15pm), Sun 4/30 (11:15am, 2:00pm, 4:45pm, 7:30pm)
+
 ### Tue 4/18 11:20pm
 
 * New screenings: 
