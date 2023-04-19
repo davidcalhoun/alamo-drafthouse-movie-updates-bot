@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 4/19 6:19am
+* New movies: Sisu
+
+* New screenings: 
+    * [Fantastic Fest Presents Sisu](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-sisu): Tue 4/25 (7:00pm)
+
 ### Wed 4/19 12:15am
 * New movies: Mother 2009, mother!, Mother 1996
 
