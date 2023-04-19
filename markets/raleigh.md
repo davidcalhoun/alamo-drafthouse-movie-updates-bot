@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 4/19 9:23am
+* New movies: Sisu
+
+* New screenings: 
+    * [Fantastic Fest Presents Sisu](https://drafthouse.com/raleigh/show/fantastic-fest-presents-sisu): Tue 4/25 (8:00pm)
+
 ### Tue 4/18 12:22pm
 * New movies: A Nightmare on Elm Street 4: The Dream Master, On the Town, Driveways, Stalker, The Last Starfighter, The Wizard 1989, Casino Royale
 
