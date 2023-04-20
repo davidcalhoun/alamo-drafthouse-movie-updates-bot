@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 4/20 10:13am
+* New movies: House of 1000 Corpses - 20th Anniversary
+
+* New screenings: 
+    * [Free Victory Screening Fantastic Fest Presents House Of 1000 Corpses 20th Anniversary Screening W Live Q A](https://drafthouse.com/los-angeles/show/free-victory-screening-fantastic-fest-presents-house-of-1000-corpses-20th-anniversary-screening-w-live-q-a): Thu 4/20 (7:00pm)
+
 ### Wed 4/19 6:19am
 * New movies: Sisu
 
