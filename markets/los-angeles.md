@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 4/21 4:15pm
+* New movies: Double Agent 73
+
+* New screenings: 
+    * [Double Agent 73](https://drafthouse.com/los-angeles/show/double-agent-73): Tue 5/9 (8:00pm), Wed 5/10 (8:00pm)
+
 ### Thu 4/20 10:13am
 * New movies: House of 1000 Corpses - 20th Anniversary
 
