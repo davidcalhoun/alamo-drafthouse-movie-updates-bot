@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 4/21 8:16pm
+
+* New screenings: 
+    * [Fast X](https://drafthouse.com/los-angeles/show/fast-x): Thu 5/25 (3:30pm, 7:00pm, 10:30pm), Sun 5/28 (10:15pm)
+
 ### Fri 4/21 7:32pm
 * New movies: Are You There God? It's Me, Margaret., Sisu
 
