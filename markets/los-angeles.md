@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 4/21 7:32pm
+* New movies: Are You There God? It's Me, Margaret., Sisu
+
+* New screenings: 
+    * [Are You There God Its Me Margaret](https://drafthouse.com/los-angeles/show/are-you-there-god-its-me-margaret): Thu 4/27 (3:00pm, 6:00pm, 9:00pm), Fri 4/28 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sat 4/29 (12:15pm, 3:15pm, 6:15pm), Sun 4/30 (12:15pm, 3:15pm, 6:15pm)
+
+    * [Sisu](https://drafthouse.com/los-angeles/show/sisu): Thu 4/27 (4:00pm, 6:45pm, 9:30pm), Fri 4/28 (1:15pm, 4:00pm, 7:00pm, 9:45pm), Sat 4/29 (1:15pm, 4:00pm, 7:00pm, 9:45pm), Sun 4/30 (12:30pm, 4:15pm, 7:00pm)
+
 ### Fri 4/21 4:15pm
 * New movies: Double Agent 73
 
