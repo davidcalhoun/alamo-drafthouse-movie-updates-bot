@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Mon 4/24 11:20am
+* New movies: Mother 1996, Carole King: Home Again - Live in Central Park, What The Hell Happened to Blood, Sweat & Tears
+
+* New screenings: 
+    * [Carole King Home Again Live In Central Park](https://drafthouse.com/raleigh/show/carole-king-home-again-live-in-central-park): Mon 5/8 (7:30pm)
+
+    * [Mother 1996](https://drafthouse.com/raleigh/show/mother-1996): Sun 5/14 (2:30pm)
+
+    * [What The Hell Happened To Blood Sweat Tears](https://drafthouse.com/raleigh/show/what-the-hell-happened-to-blood-sweat-tears): Wed 5/10 (7:30pm)
+
 ### Wed 4/19 9:23am
 * New movies: Sisu
 
