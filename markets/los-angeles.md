@@ -1,6 +1,37 @@
 # los-angeles
 
 ## Movie updates
+### Mon 4/24 6:20pm
+
+* New screenings: 
+    * [Air](https://drafthouse.com/los-angeles/show/air): Thu 4/27 (4:15pm, 7:15pm, 10:15pm), Fri 4/28 (12:00pm, 3:00pm, 6:00pm, 9:10pm), Sat 4/29 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sun 4/30 (11:40am, 2:45pm, 6:00pm), Mon 5/1 (11:45am, 2:45pm, 6:00pm), Tue 5/2 (11:45am, 2:45pm, 6:00pm), Wed 5/3 (11:45am, 2:45pm, 6:00pm)
+
+    * [Are You There God Its Me Margaret](https://drafthouse.com/los-angeles/show/are-you-there-god-its-me-margaret): Sat 4/29 (9:00pm), Mon 5/1 (1:00pm, 4:00pm, 7:00pm), Tue 5/2 (1:00pm, 4:00pm, 7:00pm), Wed 5/3 (1:00pm, 4:00pm, 7:00pm)
+
+    * [Beau Is Afraid](https://drafthouse.com/los-angeles/show/beau-is-afraid): Thu 4/27 (5:20pm), Mon 5/1 (12:00pm, 2:30pm, 6:00pm), Tue 5/2 (12:00pm, 2:30pm, 6:00pm), Wed 5/3 (12:00pm, 2:30pm, 6:00pm)
+
+    * [Chevalier 2023](https://drafthouse.com/los-angeles/show/chevalier-2023): Thu 4/27 (3:50pm, 6:45pm, 9:40pm), Fri 4/28 (1:15pm, 4:10pm, 7:00pm, 10:00pm), Sat 4/29 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sun 4/30 (1:15pm, 4:10pm, 7:00pm), Mon 5/1 (1:15pm, 4:10pm, 7:00pm), Tue 5/2 (1:15pm, 4:10pm, 7:00pm), Wed 5/3 (1:15pm, 4:10pm, 7:00pm)
+
+    * [Dungeons Dragons Honor Among Thieves](https://drafthouse.com/los-angeles/show/dungeons-dragons-honor-among-thieves): Thu 4/27 (2:40pm)
+
+    * [Evil Dead Rise](https://drafthouse.com/los-angeles/show/evil-dead-rise): Mon 5/1 (11:45am, 3:15pm, 6:45pm), Tue 5/2 (11:45am, 3:15pm, 6:45pm), Wed 5/3 (11:45am, 3:15pm, 6:45pm)
+
+    * [Guy Ritchies The Covenant](https://drafthouse.com/los-angeles/show/guy-ritchies-the-covenant): Thu 4/27 (4:15pm), Fri 4/28 (12:45pm, 10:25pm), Sat 4/29 (1:50pm), Sun 4/30 (2:25pm), Mon 5/1 (4:30pm), Tue 5/2 (4:30pm), Wed 5/3 (4:30pm)
+
+    * [John Wick Chapter 4](https://drafthouse.com/los-angeles/show/john-wick-chapter-4): Mon 4/24 (7:40pm), Thu 4/27 (2:50pm, 6:00pm, 9:35pm), Fri 4/28 (12:20pm, 4:20pm, 8:20pm), Sat 4/29 (1:00pm, 5:00pm, 8:00pm), Sun 4/30 (11:30am, 3:30pm, 5:40pm), Mon 5/1 (12:30pm, 3:15pm, 6:15pm), Tue 5/2 (12:30pm, 3:15pm, 6:15pm), Wed 5/3 (12:30pm, 3:15pm, 6:15pm)
+
+    * [Polite Society](https://drafthouse.com/los-angeles/show/polite-society): Mon 5/1 (11:10am, 2:00pm, 4:50pm, 7:45pm), Tue 5/2 (11:10am, 2:00pm, 4:50pm, 7:45pm), Wed 5/3 (11:10am, 2:00pm, 4:50pm, 7:45pm)
+
+    * [Renfield](https://drafthouse.com/los-angeles/show/renfield): Thu 4/27 (2:25pm, 5:10pm, 8:00pm, 10:45pm), Fri 4/28 (12:45pm, 3:30pm, 6:15pm, 9:00pm), Sat 4/29 (12:45pm, 3:30pm, 6:15pm, 9:00pm), Sun 4/30 (12:45pm, 3:30pm, 6:15pm), Mon 5/1 (12:45pm, 3:30pm, 7:15pm), Tue 5/2 (12:45pm, 3:30pm, 7:15pm), Wed 5/3 (12:45pm, 3:30pm, 7:15pm)
+
+    * [Sisu](https://drafthouse.com/los-angeles/show/sisu): Mon 5/1 (12:30pm, 4:15pm, 7:00pm), Tue 5/2 (12:30pm, 4:15pm, 7:00pm), Wed 5/3 (12:30pm, 4:15pm, 7:00pm)
+
+    * [Suzume Subtitled](https://drafthouse.com/los-angeles/show/suzume-subtitled): Thu 4/27 (2:15pm), Fri 4/28 (4:00pm, 7:15pm), Sat 4/29 (11:20am), Sun 4/30 (11:15am, 7:30pm), Mon 5/1 (12:10pm), Tue 5/2 (12:10pm), Wed 5/3 (12:10pm)
+
+    * [The Doom Generation](https://drafthouse.com/los-angeles/show/the-doom-generation): Thu 4/27 (10:35pm)
+
+    * [The Super Mario Bros Movie](https://drafthouse.com/los-angeles/show/the-super-mario-bros-movie): Thu 4/27 (10:10pm), Mon 5/1 (11:15am, 2:00pm, 4:45pm, 7:30pm), Tue 5/2 (11:15am, 2:00pm, 4:45pm, 7:30pm), Wed 5/3 (11:15am, 2:00pm, 4:45pm, 7:30pm)
+
 ### Fri 4/21 8:16pm
 
 * New screenings: 
