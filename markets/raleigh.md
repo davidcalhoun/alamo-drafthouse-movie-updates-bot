@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 4/25 2:23pm
+* New movies: Roger Waters - This Is Not a Drill - Live From Prague
+
+* New screenings: 
+    * [Roger Waters This Is Not A Drill Live From Prague](https://drafthouse.com/raleigh/show/roger-waters-this-is-not-a-drill-live-from-prague): Thu 5/25 (8:45pm)
+
 ### Mon 4/24 9:37pm
 * New movies: Are You There God? It's Me, Margaret., Big George Foreman, Polite Society, Star Wars: Return of the Jedi, Death Becomes Her
 
