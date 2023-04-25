@@ -1,6 +1,40 @@
 # raleigh
 
 ## Movie updates
+### Mon 4/24 9:37pm
+* New movies: Are You There God? It's Me, Margaret., Big George Foreman, Polite Society, Star Wars: Return of the Jedi, Death Becomes Her
+
+* New screenings: 
+    * [Air](https://drafthouse.com/raleigh/show/air): Thu 4/27 (12:25pm, 3:30pm, 6:15pm, 9:15pm), Fri 4/28 (3:00pm, 6:00pm), Sat 4/29 (3:00pm, 6:00pm), Sun 4/30 (3:00pm, 6:00pm), Mon 5/1 (12:55pm, 9:45pm), Tue 5/2 (3:00pm), Wed 5/3 (3:00pm)
+
+    * [Are You There God Its Me Margaret](https://drafthouse.com/raleigh/show/are-you-there-god-its-me-margaret): Thu 4/27 (3:45pm, 6:45pm, 9:35pm), Fri 4/28 (1:10pm, 3:40pm, 6:30pm, 9:20pm), Sat 4/29 (1:10pm, 3:30pm, 6:30pm, 9:20pm), Sun 4/30 (12:30pm, 3:30pm, 6:30pm, 9:20pm), Mon 5/1 (12:15pm, 3:15pm, 6:30pm, 9:20pm), Tue 5/2 (12:15pm, 3:15pm, 6:15pm, 9:20pm), Wed 5/3 (12:15pm, 3:15pm, 6:30pm, 9:20pm)
+
+    * [Beau Is Afraid](https://drafthouse.com/raleigh/show/beau-is-afraid): Thu 4/27 (11:00am, 3:00pm, 6:00pm, 9:10pm), Fri 4/28 (1:00pm, 1:55pm, 6:00pm, 9:00pm), Sat 4/29 (12:00pm, 1:55pm, 6:00pm, 9:00pm), Sun 4/30 (11:40am, 1:50pm, 6:00pm, 9:00pm), Mon 5/1 (2:00pm, 6:00pm, 9:45pm), Tue 5/2 (11:00am, 2:25pm, 6:00pm, 9:35pm), Wed 5/3 (11:00am, 1:45pm, 6:00pm, 9:35pm)
+
+    * [Big George Foreman](https://drafthouse.com/raleigh/show/big-george-foreman): Thu 4/27 (4:00pm, 7:15pm, 10:30pm), Fri 4/28 (12:25pm, 4:00pm, 7:15pm, 10:30pm), Sat 4/29 (12:15pm, 4:00pm, 7:15pm, 10:30pm), Sun 4/30 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Mon 5/1 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Tue 5/2 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Wed 5/3 (12:45pm, 4:00pm, 7:15pm, 10:30pm)
+
+    * [Chevalier 2023](https://drafthouse.com/raleigh/show/chevalier-2023): Thu 4/27 (12:35pm, 3:30pm, 6:30pm, 9:30pm), Fri 4/28 (1:30pm, 4:30pm, 6:45pm, 9:40pm), Sat 4/29 (1:30pm, 4:30pm, 6:45pm, 9:40pm), Sun 4/30 (1:30pm, 4:30pm, 6:45pm, 9:40pm), Mon 5/1 (1:30pm, 4:30pm, 6:45pm, 10:15pm), Tue 5/2 (12:15pm, 3:15pm, 6:15pm, 9:10pm), Wed 5/3 (12:15pm, 3:15pm, 6:45pm, 9:40pm)
+
+    * [Death Becomes Her](https://drafthouse.com/raleigh/show/death-becomes-her): Sun 4/30 (11:00am)
+
+    * [Dungeons Dragons Honor Among Thieves](https://drafthouse.com/raleigh/show/dungeons-dragons-honor-among-thieves): Thu 4/27 (11:30am, 2:55pm, 6:15pm, 9:40pm), Fri 4/28 (11:25am, 2:45pm, 6:15pm, 9:45pm), Sat 4/29 (11:25am, 2:45pm, 6:15pm, 9:45pm), Sun 4/30 (11:25am, 2:45pm, 6:15pm, 9:45pm), Mon 5/1 (11:25am, 2:45pm, 6:15pm, 10:10pm), Tue 5/2 (11:25am, 2:45pm, 6:15pm, 10:00pm), Wed 5/3 (11:25am, 2:45pm, 6:15pm, 10:05pm)
+
+    * [Evil Dead Rise](https://drafthouse.com/raleigh/show/evil-dead-rise): Thu 4/27 (12:30pm, 3:15pm, 7:00pm, 9:45pm, 10:00pm), Fri 4/28 (12:15pm, 4:00pm, 7:30pm, 10:00pm, 10:15pm), Sat 4/29 (1:15pm, 3:55pm, 7:30pm, 10:00pm, 10:15pm), Sun 4/30 (1:00pm, 4:00pm, 7:30pm, 10:00pm, 10:15pm), Mon 5/1 (1:15pm, 3:55pm, 7:30pm, 10:00pm), Tue 5/2 (1:30pm, 4:30pm, 7:15pm, 10:00pm), Wed 5/3 (1:15pm, 4:00pm, 6:30pm, 9:15pm)
+
+    * [How To Blow Up A Pipeline](https://drafthouse.com/raleigh/show/how-to-blow-up-a-pipeline): Thu 4/27 (4:30pm)
+
+    * [John Wick Chapter 4](https://drafthouse.com/raleigh/show/john-wick-chapter-4): Thu 4/27 (2:00pm)
+
+    * [Polite Society](https://drafthouse.com/raleigh/show/polite-society): Thu 4/27 (7:30pm, 10:15pm), Fri 4/28 (12:45pm, 3:30pm, 6:15pm, 9:05pm), Sat 4/29 (12:45pm, 3:30pm, 6:15pm, 9:00pm), Sun 4/30 (12:45pm, 3:30pm, 6:15pm, 9:00pm), Mon 5/1 (12:40pm, 3:30pm, 6:15pm, 9:00pm), Tue 5/2 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Wed 5/3 (12:00pm, 3:00pm, 6:15pm, 9:00pm)
+
+    * [Renfield](https://drafthouse.com/raleigh/show/renfield): Thu 4/27 (1:30pm, 5:15pm, 8:00pm, 10:45pm), Fri 4/28 (1:15pm, 5:15pm, 8:00pm, 10:45pm), Sat 4/29 (12:20pm, 4:05pm, 6:45pm, 9:30pm), Sun 4/30 (12:15pm, 3:45pm, 6:45pm, 9:30pm), Mon 5/1 (1:00pm, 3:45pm, 6:45pm, 9:30pm), Tue 5/2 (1:00pm, 3:45pm, 6:45pm, 9:45pm), Wed 5/3 (1:00pm, 3:45pm, 6:45pm, 9:45pm)
+
+    * [Special Event Star Wars Return Of The Jedi 40th Anniversary Re Release](https://drafthouse.com/raleigh/show/special-event-star-wars-return-of-the-jedi-40th-anniversary-re-release): Fri 4/28 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Sat 4/29 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Sun 4/30 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Mon 5/1 (11:50am, 3:50pm, 7:00pm, 9:30pm), Tue 5/2 (11:15am, 12:30pm, 3:45pm, 7:00pm, 10:15pm), Wed 5/3 (12:30pm, 3:45pm, 7:00pm, 10:15pm)
+
+    * [Suzume Dubbed](https://drafthouse.com/raleigh/show/suzume-dubbed): Thu 4/27 (1:55pm)
+
+    * [The Super Mario Bros Movie](https://drafthouse.com/raleigh/show/the-super-mario-bros-movie): Thu 4/27 (11:30am, 12:45pm, 1:15pm, 2:15pm, 5:00pm, 6:30pm, 7:45pm, 10:30pm), Fri 4/28 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sat 4/29 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sun 4/30 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Mon 5/1 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Tue 5/2 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Wed 5/3 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm)
+
 ### Mon 4/24 11:20am
 * New movies: Mother 1996, Carole King: Home Again - Live in Central Park, What The Hell Happened to Blood, Sweat & Tears
 
