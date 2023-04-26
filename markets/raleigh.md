@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Wed 4/26 12:26pm
+* New movies: The Secret World of Arrietty Subtitled
+
+
+
 ### Wed 4/26 12:23am
 * New movies: The Little Mermaid 2023, The Little Mermaid 2023, The Little Mermaid 2023
 
