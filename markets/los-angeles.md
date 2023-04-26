@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 4/26 9:21am
+* New movies: The Secret World of Arrietty Subtitled
+
+
+
 ### Tue 4/25 9:19pm
 * New movies: The Little Mermaid 2023, The Little Mermaid 2023
 
