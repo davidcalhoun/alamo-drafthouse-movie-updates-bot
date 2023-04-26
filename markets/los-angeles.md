@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 4/25 9:19pm
+* New movies: The Little Mermaid 2023, The Little Mermaid 2023
+
+* New screenings: 
+    * [Family Party The Little Mermaid 2023](https://drafthouse.com/los-angeles/show/family-party-the-little-mermaid-2023): Sat 5/27 (10:30am), Sun 5/28 (10:30am)
+
+    * [The Little Mermaid 2023](https://drafthouse.com/los-angeles/show/the-little-mermaid-2023): Thu 5/25 (3:00pm, 4:00pm, 6:20pm, 9:45pm), Fri 5/26 (11:00am, 2:30pm, 3:30pm, 6:00pm, 9:00pm), Sat 5/27 (2:50pm, 3:30pm, 6:10pm, 9:00pm), Sun 5/28 (2:50pm, 3:30pm, 6:00pm, 9:00pm), Mon 5/29 (11:00am, 2:30pm, 3:30pm, 6:00pm), Tue 5/30 (11:00am, 2:30pm, 3:30pm, 6:00pm), Wed 5/31 (11:00am, 2:20pm, 3:30pm, 5:40pm)
+
 ### Mon 4/24 6:20pm
 
 * New screenings: 
