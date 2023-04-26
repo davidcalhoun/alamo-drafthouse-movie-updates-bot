@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Wed 4/26 12:23am
+* New movies: The Little Mermaid 2023, The Little Mermaid 2023, The Little Mermaid 2023
+
+* New screenings: 
+    * [Advance Screening The Little Mermaid 2023 Early Access Screening](https://drafthouse.com/raleigh/show/advance-screening-the-little-mermaid-2023-early-access-screening): Wed 5/24 (6:00pm)
+
+    * [Family Party The Little Mermaid 2023](https://drafthouse.com/raleigh/show/family-party-the-little-mermaid-2023): Sat 5/27 (10:45am)
+
+    * [The Little Mermaid 2023](https://drafthouse.com/raleigh/show/the-little-mermaid-2023): Thu 5/25 (3:00pm, 5:25pm, 6:30pm), Fri 5/26 (11:30am, 2:30pm, 6:00pm, 9:30pm), Sat 5/27 (2:30pm, 7:00pm, 10:30pm), Sun 5/28 (12:30pm, 4:00pm, 7:30pm, 9:00pm), Mon 5/29 (11:30am, 6:30pm, 10:00pm), Tue 5/30 (11:30am, 2:30pm, 6:00pm), Wed 5/31 (12:00pm, 2:30pm, 6:00pm), Thu 6/1 (12:00pm, 3:00pm, 6:30pm, 10:00pm)
+
 ### Tue 4/25 2:23pm
 * New movies: Roger Waters - This Is Not a Drill - Live From Prague
 
