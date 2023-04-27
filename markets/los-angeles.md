@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 4/27 9:19am
+* New movies: MOON GARDEN in 35mm
+
+
+
 ### Wed 4/26 9:21am
 * New movies: The Secret World of Arrietty Subtitled
 
