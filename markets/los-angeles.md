@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 4/27 11:19am
+* New movies: Moon Garden
+
+
+
 ### Thu 4/27 10:14am
 * New movies: Moon Garden
 
