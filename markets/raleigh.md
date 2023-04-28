@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 4/28 1:17pm
+* New movies: BlackBerry
+
+* New screenings: 
+    * [Blackberry](https://drafthouse.com/raleigh/show/blackberry): Thu 5/11 (6:45pm, 9:50pm), Fri 5/12 (6:45pm, 9:45pm)
+
 ### Wed 4/26 12:26pm
 * New movies: The Secret World of Arrietty Subtitled
 
