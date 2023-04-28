@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 4/28 4:15pm
+* New movies: A/V Geeks Present: I Know Why You're Scared, The Wizard of Oz 1939
+
+* New screenings: 
+    * [I Know Why Youre Scared](https://drafthouse.com/los-angeles/show/i-know-why-youre-scared): Sat 5/13 (12:00pm)
+
+    * [The Wizard Of Oz](https://drafthouse.com/los-angeles/show/the-wizard-of-oz): Sat 5/13 (2:45pm)
+
 ### Thu 4/27 11:19am
 * New movies: Moon Garden
 
