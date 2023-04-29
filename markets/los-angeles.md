@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 4/28 8:16pm
+* New movies: Driveways
+
+* New screenings: 
+    * [Driveways](https://drafthouse.com/los-angeles/show/driveways): Sat 5/20 (2:40pm)
+
 ### Fri 4/28 4:15pm
 * New movies: A/V Geeks Present: I Know Why You're Scared, The Wizard of Oz 1939
 
