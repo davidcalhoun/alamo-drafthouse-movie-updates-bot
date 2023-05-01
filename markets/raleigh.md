@@ -1,6 +1,20 @@
 # raleigh
 
 ## Movie updates
+### Mon 5/1 1:17pm
+* New movies: Stunt Rock, Poltergeist 1982, Bloodsport, D.E.B.S., Pink Flamingos
+
+* New screenings: 
+    * [Terror Tuesday Poltergeist 1982](https://drafthouse.com/raleigh/show/terror-tuesday-poltergeist-1982): Tue 7/4 (9:30pm)
+
+    * [Weird Wednesday Bloodsport](https://drafthouse.com/raleigh/show/weird-wednesday-bloodsport): Wed 6/14 (9:30pm)
+
+    * [Weird Wednesday D E B S](https://drafthouse.com/raleigh/show/weird-wednesday-d-e-b-s): Wed 6/21 (9:30pm)
+
+    * [Weird Wednesday Pink Flamingos](https://drafthouse.com/raleigh/show/weird-wednesday-pink-flamingos): Wed 6/7 (9:30pm)
+
+    * [Weird Wednesday Stunt Rock](https://drafthouse.com/raleigh/show/weird-wednesday-stunt-rock): Wed 6/28 (9:30pm)
+
 ### Fri 4/28 1:17pm
 * New movies: BlackBerry
 
