@@ -1,6 +1,30 @@
 # raleigh
 
 ## Movie updates
+### Mon 5/1 7:20pm
+* New movies: Psycho II
+
+* New screenings: 
+    * [Are You There God Its Me Margaret](https://drafthouse.com/raleigh/show/are-you-there-god-its-me-margaret): Fri 5/5 (11:50am, 2:40pm, 6:15pm, 9:05pm), Sat 5/6 (1:15pm, 4:15pm, 6:15pm, 9:05pm), Sun 5/7 (12:25pm, 4:15pm, 6:15pm, 9:10pm), Mon 5/8 (11:55am, 3:35pm, 6:15pm, 9:40pm), Tue 5/9 (11:55am, 3:35pm, 6:15pm, 9:35pm), Wed 5/10 (11:55am, 3:35pm, 6:15pm, 9:35pm)
+
+    * [Beau Is Afraid](https://drafthouse.com/raleigh/show/beau-is-afraid): Fri 5/5 (12:00pm), Sat 5/6 (2:30pm), Sun 5/7 (2:30pm), Mon 5/8 (9:05pm), Tue 5/9 (9:05pm), Wed 5/10 (9:05pm)
+
+    * [Big George Foreman](https://drafthouse.com/raleigh/show/big-george-foreman): Fri 5/5 (12:40pm, 3:00pm), Sat 5/6 (11:15am, 3:25pm), Sun 5/7 (1:00pm, 2:55pm), Mon 5/8 (12:25pm, 2:45pm), Tue 5/9 (12:25pm, 2:45pm), Wed 5/10 (12:25pm, 2:45pm)
+
+    * [Dungeons Dragons Honor Among Thieves](https://drafthouse.com/raleigh/show/dungeons-dragons-honor-among-thieves): Fri 5/5 (3:55pm), Sat 5/6 (11:55am), Sun 5/7 (11:40am), Mon 5/8 (3:25pm), Tue 5/9 (3:25pm), Wed 5/10 (3:25pm)
+
+    * [Evil Dead Rise](https://drafthouse.com/raleigh/show/evil-dead-rise): Fri 5/5 (1:30pm, 4:50pm, 7:15pm, 9:55pm), Sat 5/6 (1:00pm, 3:15pm, 7:15pm, 9:55pm), Sun 5/7 (1:15pm, 3:15pm, 7:15pm, 9:40pm), Mon 5/8 (12:50pm, 4:35pm, 7:15pm, 9:55pm), Tue 5/9 (12:50pm, 4:35pm, 7:15pm, 9:55pm), Wed 5/10 (12:50pm, 4:35pm, 7:15pm, 9:55pm)
+
+    * [Guardians Of The Galaxy Vol 3](https://drafthouse.com/raleigh/show/guardians-of-the-galaxy-vol-3): Fri 5/5 (1:00pm, 2:00pm, 4:00pm, 5:00pm, 5:30pm, 6:00pm, 7:00pm, 7:30pm, 8:00pm, 9:00pm, 9:30pm, 10:00pm), Sat 5/6 (12:00pm, 12:30pm, 3:30pm, 4:00pm, 4:30pm, 5:00pm, 6:00pm, 6:30pm, 7:30pm, 8:00pm, 8:30pm, 9:00pm, 9:45pm, 10:15pm), Sun 5/7 (12:00pm, 1:00pm, 3:30pm, 4:00pm, 4:30pm, 5:00pm, 6:00pm, 6:30pm, 7:30pm, 8:00pm, 8:30pm, 9:00pm, 10:00pm), Mon 5/8 (12:00pm, 12:30pm, 1:00pm, 3:30pm, 4:00pm, 4:30pm, 5:00pm, 6:00pm, 6:30pm, 8:00pm, 8:30pm, 9:00pm, 10:00pm), Tue 5/9 (12:00pm, 12:30pm, 1:00pm, 3:30pm, 4:00pm, 4:30pm, 5:00pm, 6:00pm, 6:30pm, 8:00pm, 8:30pm, 9:00pm, 10:30pm), Wed 5/10 (12:00pm, 12:30pm, 1:00pm, 3:30pm, 4:00pm, 4:30pm, 5:00pm, 6:00pm, 6:30pm, 8:00pm, 8:30pm, 9:00pm, 10:30pm)
+
+    * [Polite Society](https://drafthouse.com/raleigh/show/polite-society): Fri 5/5 (11:15am), Sat 5/6 (2:15pm), Sun 5/7 (1:45pm), Mon 5/8 (1:50pm), Tue 5/9 (1:50pm), Wed 5/10 (1:50pm)
+
+    * [Renfield](https://drafthouse.com/raleigh/show/renfield): Fri 5/5 (2:10pm), Sat 5/6 (11:40am), Sun 5/7 (10:05pm), Mon 5/8 (10:05pm), Tue 5/9 (10:05pm), Wed 5/10 (10:05pm)
+
+    * [Terror Tuesday Psycho Ii](https://drafthouse.com/raleigh/show/terror-tuesday-psycho-ii): Tue 5/9 (10:45pm)
+
+    * [The Super Mario Bros Movie](https://drafthouse.com/raleigh/show/the-super-mario-bros-movie): Fri 5/5 (12:15pm, 4:10pm, 6:45pm, 9:20pm), Sat 5/6 (12:40pm, 3:40pm, 6:45pm, 9:20pm), Sun 5/7 (11:55am, 3:55pm, 6:45pm, 9:25pm), Mon 5/8 (12:45pm, 3:40pm, 6:45pm, 9:20pm), Tue 5/9 (12:45pm, 3:40pm, 6:45pm, 9:20pm), Wed 5/10 (12:45pm, 3:40pm, 6:45pm, 9:20pm)
+
 ### Mon 5/1 6:18pm
 
 * New screenings: 
