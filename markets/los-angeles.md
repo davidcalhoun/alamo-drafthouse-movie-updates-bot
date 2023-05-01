@@ -1,6 +1,36 @@
 # los-angeles
 
 ## Movie updates
+### Mon 5/1 3:14pm
+* New movies: Guardians of the Galaxy Vol. 3
+
+* New screenings: 
+    * [Air](https://drafthouse.com/los-angeles/show/air): Thu 5/4 (2:15pm), Fri 5/5 (11:25am, 5:15pm), Sat 5/6 (2:30pm), Sun 5/7 (4:10pm), Mon 5/8 (11:35am, 5:25pm), Tue 5/9 (5:25pm, 7:30pm), Wed 5/10 (11:35am, 8:15pm)
+
+    * [Are You There God Its Me Margaret](https://drafthouse.com/los-angeles/show/are-you-there-god-its-me-margaret): Thu 5/4 (3:20pm, 6:25pm, 10:45pm), Fri 5/5 (12:15pm, 4:15pm, 7:20pm, 10:25pm), Sat 5/6 (12:15pm, 4:15pm, 7:20pm, 10:25pm), Sun 5/7 (12:15pm, 4:15pm, 7:20pm), Mon 5/8 (12:00pm, 4:15pm, 7:20pm, 10:25pm), Tue 5/9 (12:00pm, 4:10pm, 7:15pm, 10:25pm), Wed 5/10 (12:00pm, 4:15pm, 7:20pm, 10:25pm)
+
+    * [Beau Is Afraid](https://drafthouse.com/los-angeles/show/beau-is-afraid): Thu 5/4 (2:00pm, 6:00pm, 9:10pm), Fri 5/5 (10:45am, 2:00pm, 6:00pm, 9:00pm), Sat 5/6 (10:45am, 2:10pm, 6:00pm, 9:25pm), Sun 5/7 (10:45am, 2:00pm, 6:00pm), Mon 5/8 (11:00am, 2:30pm, 6:15pm, 9:00pm), Tue 5/9 (11:00am, 2:30pm, 6:15pm, 9:00pm), Wed 5/10 (11:00am, 2:30pm, 6:15pm, 9:00pm)
+
+    * [Chevalier 2023](https://drafthouse.com/los-angeles/show/chevalier-2023): Thu 5/4 (2:10pm)
+
+    * [Evil Dead Rise](https://drafthouse.com/los-angeles/show/evil-dead-rise): Thu 5/4 (3:00pm, 6:15pm, 10:15pm), Fri 5/5 (11:15am, 3:00pm, 6:15pm, 10:15pm), Sat 5/6 (11:45am, 3:00pm, 6:35pm, 10:15pm), Sun 5/7 (11:15am, 3:00pm, 6:15pm), Mon 5/8 (11:15am, 3:15pm, 6:45pm, 10:30pm), Tue 5/9 (11:15am, 3:15pm, 6:45pm, 10:30pm), Wed 5/10 (11:15am, 3:15pm, 6:45pm, 10:30pm)
+
+    * [Guardians Of The Galaxy Vol 3](https://drafthouse.com/los-angeles/show/guardians-of-the-galaxy-vol-3): Thu 5/4 (3:15pm, 5:15pm, 9:00pm, 9:25pm), Fri 5/5 (12:00pm, 12:30pm, 1:15pm, 3:45pm, 5:00pm, 7:30pm, 8:20pm, 8:45pm), Sat 5/6 (10:45am, 12:30pm, 1:15pm, 2:30pm, 6:15pm, 8:20pm, 8:45pm, 10:00pm), Sun 5/7 (12:00pm, 12:30pm, 1:30pm, 3:45pm, 5:15pm, 7:15pm, 7:30pm), Mon 5/8 (12:00pm, 12:30pm, 1:00pm, 3:45pm, 8:30pm), Tue 5/9 (12:00pm, 12:20pm, 12:40pm, 3:45pm, 4:25pm, 8:30pm), Wed 5/10 (12:00pm, 12:20pm, 12:40pm, 3:45pm, 4:25pm)
+
+    * [John Wick Chapter 4](https://drafthouse.com/los-angeles/show/john-wick-chapter-4): Thu 5/4 (5:00pm)
+
+    * [Live Q A Guardians Of The Galaxy Vol 3](https://drafthouse.com/los-angeles/show/live-q-a-guardians-of-the-galaxy-vol-3): Thu 5/4 (7:30pm)
+
+    * [Polite Society](https://drafthouse.com/los-angeles/show/polite-society): Thu 5/4 (4:15pm, 7:15pm, 10:10pm), Fri 5/5 (11:15am, 3:15pm, 6:15pm, 9:15pm), Sat 5/6 (11:15am, 3:15pm, 6:15pm, 9:15pm), Sun 5/7 (11:15am, 3:15pm, 6:15pm), Mon 5/8 (11:15am, 3:00pm, 6:00pm, 9:30pm), Tue 5/9 (11:15am, 3:00pm, 6:00pm, 9:30pm), Wed 5/10 (11:15am, 3:00pm, 6:00pm, 9:30pm)
+
+    * [Renfield](https://drafthouse.com/los-angeles/show/renfield): Thu 5/4 (9:00pm), Fri 5/5 (2:30pm), Sat 5/6 (5:35pm), Sun 5/7 (10:40am, 1:25pm), Mon 5/8 (2:40pm, 7:30pm), Tue 5/9 (11:50am, 2:40pm), Wed 5/10 (2:40pm, 5:30pm)
+
+    * [Sisu](https://drafthouse.com/los-angeles/show/sisu): Thu 5/4 (3:50pm, 6:40pm, 9:30pm), Fri 5/5 (10:30am, 1:15pm, 4:00pm, 6:45pm, 9:45pm), Sat 5/6 (10:30am, 1:15pm, 4:00pm, 6:45pm, 9:45pm), Sun 5/7 (10:25am, 1:15pm, 4:00pm, 6:45pm), Mon 5/8 (12:45pm, 3:45pm, 6:45pm, 9:35pm), Tue 5/9 (12:45pm, 3:45pm, 6:45pm, 9:35pm), Wed 5/10 (12:45pm, 3:45pm, 6:45pm, 9:35pm)
+
+    * [The Super Mario Bros Movie](https://drafthouse.com/los-angeles/show/the-super-mario-bros-movie): Thu 5/4 (2:25pm, 5:15pm, 8:00pm, 11:15pm), Fri 5/5 (10:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sat 5/6 (10:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sun 5/7 (10:45am, 2:15pm, 5:00pm, 7:45pm), Mon 5/8 (11:45am, 2:15pm, 5:00pm, 7:45pm, 10:10pm), Tue 5/9 (11:45am, 2:15pm, 5:00pm, 7:45pm, 10:15pm), Wed 5/10 (11:45am, 2:15pm, 5:00pm, 7:45pm, 10:15pm)
+
+    * [Videodrome](https://drafthouse.com/los-angeles/show/videodrome): Tue 5/9 (8:00pm), Wed 5/10 (8:00pm)
+
 ### Fri 4/28 8:16pm
 * New movies: Driveways
 
