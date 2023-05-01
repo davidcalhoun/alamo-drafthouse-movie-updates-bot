@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 5/1 4:17pm
+* New movies: BlackBerry
+
+* New screenings: 
+    * [Blackberry](https://drafthouse.com/los-angeles/show/blackberry): Thu 5/11 (5:45pm, 9:00pm), Fri 5/12 (11:45am, 3:00pm, 6:15pm, 9:30pm), Sat 5/13 (11:45am, 3:00pm, 6:15pm, 9:30pm), Sun 5/14 (11:45am, 3:00pm, 6:15pm), Mon 5/15 (11:45am, 3:00pm, 6:15pm), Tue 5/16 (11:45am, 3:00pm, 6:15pm), Wed 5/17 (11:45am, 3:00pm, 6:15pm)
+
 ### Mon 5/1 3:14pm
 * New movies: Guardians of the Galaxy Vol. 3
 
