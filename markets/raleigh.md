@@ -1,6 +1,37 @@
 # raleigh
 
 ## Movie updates
+### Mon 5/1 6:18pm
+
+* New screenings: 
+    * [Air](https://drafthouse.com/raleigh/show/air): Thu 5/4 (2:00pm)
+
+    * [Are You There God Its Me Margaret](https://drafthouse.com/raleigh/show/are-you-there-god-its-me-margaret): Thu 5/4 (1:30pm, 4:25pm, 7:15pm, 9:40pm)
+
+    * [Beau Is Afraid](https://drafthouse.com/raleigh/show/beau-is-afraid): Thu 5/4 (12:15pm, 4:15pm)
+
+    * [Big George Foreman](https://drafthouse.com/raleigh/show/big-george-foreman): Thu 5/4 (11:25am, 2:40pm)
+
+    * [Chevalier 2023](https://drafthouse.com/raleigh/show/chevalier-2023): Thu 5/4 (1:40pm)
+
+    * [Dungeons Dragons Honor Among Thieves](https://drafthouse.com/raleigh/show/dungeons-dragons-honor-among-thieves): Thu 5/4 (12:40pm)
+
+    * [Evil Dead Rise](https://drafthouse.com/raleigh/show/evil-dead-rise): Thu 5/4 (1:15pm, 3:55pm, 6:45pm, 9:25pm)
+
+    * [Guardians Of The Galaxy Vol 3](https://drafthouse.com/raleigh/show/guardians-of-the-galaxy-vol-3): Thu 5/4 (4:00pm, 4:30pm, 5:00pm, 6:00pm, 7:30pm, 8:00pm, 8:30pm, 9:00pm, 10:15pm)
+
+    * [On Her Majestys Secret Service](https://drafthouse.com/raleigh/show/on-her-majestys-secret-service): Thu 5/4 (12:00pm)
+
+    * [Polite Society](https://drafthouse.com/raleigh/show/polite-society): Thu 5/4 (10:55pm)
+
+    * [Renfield](https://drafthouse.com/raleigh/show/renfield): Thu 5/4 (8:15pm)
+
+    * [Special Event Star Wars Return Of The Jedi 40th Anniversary Re Release](https://drafthouse.com/raleigh/show/special-event-star-wars-return-of-the-jedi-40th-anniversary-re-release): Thu 5/4 (11:45am, 2:15pm)
+
+    * [The Super Mario Bros Movie](https://drafthouse.com/raleigh/show/the-super-mario-bros-movie): Thu 5/4 (12:55pm, 3:40pm, 6:15pm, 9:05pm)
+
+    * [They Live](https://drafthouse.com/raleigh/show/they-live): Thu 5/4 (11:30am)
+
 ### Mon 5/1 1:17pm
 * New movies: Stunt Rock, Poltergeist 1982, Bloodsport, D.E.B.S., Pink Flamingos
 
