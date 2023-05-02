@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Tue 5/2 2:23pm
+* New movies: Book Club: The Next Chapter, Mother 2009
+
+* New screenings: 
+    * [Book Club The Next Chapter](https://drafthouse.com/raleigh/show/book-club-the-next-chapter): Thu 5/11 (5:00pm, 7:50pm, 10:40pm), Fri 5/12 (6:15pm, 9:05pm), Sat 5/13 (6:15pm, 9:05pm)
+
+    * [Mother 2009](https://drafthouse.com/raleigh/show/mother-2009): Sun 5/14 (9:15pm)
+
 ### Mon 5/1 7:20pm
 * New movies: Psycho II
 
