@@ -1,6 +1,38 @@
 # los-angeles
 
 ## Movie updates
+### Tue 5/2 11:20pm
+* New movies: Shin Ultraman Subtitled, Hellraiser III: Hell on Earth, Still: A Michael J. Fox Movie, Bull Durham, Hedwig and the Angry Inch, Rocketman, The Babadook, Victor/Victoria, Cabaret 1972, Purple Rain, But I'm a Cheerleader, The Birdcage, Party Girl 1995
+
+* New screenings: 
+    * [Brunch Screenings Bull Durham Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-bull-durham-brunch): Sat 6/17 (11:00am)
+
+    * [Brunch Screenings Hedwig And The Angry Inch Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-hedwig-and-the-angry-inch-brunch): Sun 6/11 (11:00am)
+
+    * [Brunch Screenings Rocketman Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-rocketman-brunch): Sat 6/24 (11:00am)
+
+    * [Brunch Screenings The Babadook Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-the-babadook-brunch): Sat 6/10 (11:00am)
+
+    * [Brunch Screenings Victor Victoria Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-victor-victoria-brunch): Sun 6/25 (11:00am)
+
+    * [Cabaret](https://drafthouse.com/los-angeles/show/cabaret): Sun 6/4 (11:00am)
+
+    * [Hellraiser Iii Hell On Earth](https://drafthouse.com/los-angeles/show/hellraiser-iii-hell-on-earth): Tue 6/20 (8:00pm), Wed 6/21 (8:00pm)
+
+    * [Moon Garden](https://drafthouse.com/los-angeles/show/moon-garden): Mon 5/29 (5:15pm), Tue 5/30 (5:15pm)
+
+    * [Party Girl](https://drafthouse.com/los-angeles/show/party-girl): Sun 6/11 (1:45pm)
+
+    * [Purple Rain](https://drafthouse.com/los-angeles/show/purple-rain): Wed 6/7 (7:00pm)
+
+    * [Shin Ultraman Subtitled](https://drafthouse.com/los-angeles/show/shin-ultraman-subtitled): Fri 5/26 (7:30pm), Sat 5/27 (7:30pm), Sun 5/28 (4:30pm), Mon 5/29 (7:20pm), Thu 6/1 (4:00pm)
+
+    * [Signature Programming But Im A Cheerleader Brunch](https://drafthouse.com/los-angeles/show/signature-programming-but-im-a-cheerleader-brunch): Sat 6/3 (11:00am)
+
+    * [Still A Michael J Fox Movie](https://drafthouse.com/los-angeles/show/still-a-michael-j-fox-movie): Fri 5/12 (4:00pm, 7:45pm), Sun 5/14 (5:00pm), Mon 5/15 (4:45pm)
+
+    * [The Birdcage Brunch](https://drafthouse.com/los-angeles/show/the-birdcage-brunch): Sun 6/18 (11:00am)
+
 ### Mon 5/1 4:17pm
 * New movies: BlackBerry
 
