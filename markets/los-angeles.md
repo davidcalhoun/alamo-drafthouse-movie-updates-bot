@@ -1,6 +1,22 @@
 # los-angeles
 
 ## Movie updates
+### Wed 5/3 12:15am
+* New movies: Moonlight, Do The Right Thing, Mortal Kombat 1995, Mortal Kombat 2021, There Will Be Blood, Eighth Grade, Eighth Grade
+
+* New screenings: 
+    * [Do The Right Thing](https://drafthouse.com/los-angeles/show/do-the-right-thing): Mon 6/19 (7:00pm)
+
+    * [Moonlight](https://drafthouse.com/los-angeles/show/moonlight): Sat 6/17 (4:35pm), Mon 6/19 (4:00pm)
+
+    * [Mortal Kombat](https://drafthouse.com/los-angeles/show/mortal-kombat): Mon 6/12 (7:00pm)
+
+    * [Mortal Kombat 2021](https://drafthouse.com/los-angeles/show/mortal-kombat-2021): Mon 6/12 (4:00pm)
+
+    * [Still Awesome Eighth Grade](https://drafthouse.com/los-angeles/show/still-awesome-eighth-grade): Sun 6/18 (2:10pm)
+
+    * [There Will Be Blood](https://drafthouse.com/los-angeles/show/there-will-be-blood): Sun 6/18 (5:00pm)
+
 ### Tue 5/2 11:20pm
 * New movies: Shin Ultraman Subtitled, Hellraiser III: Hell on Earth, Still: A Michael J. Fox Movie, Bull Durham, Hedwig and the Angry Inch, Rocketman, The Babadook, Victor/Victoria, Cabaret 1972, Purple Rain, But I'm a Cheerleader, The Birdcage, Party Girl 1995
 
