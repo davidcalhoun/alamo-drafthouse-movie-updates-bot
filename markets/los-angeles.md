@@ -1,6 +1,48 @@
 # los-angeles
 
 ## Movie updates
+### Mon 5/8 2:13pm
+* New movies: Knights of the Zodiac, Mamma Mia!, Mamma Mia!
+
+* New screenings: 
+    * [Air](https://drafthouse.com/los-angeles/show/air): Thu 5/11 (2:35pm)
+
+    * [Are You There God Its Me Margaret](https://drafthouse.com/los-angeles/show/are-you-there-god-its-me-margaret): Thu 5/11 (4:25pm, 7:30pm, 10:35pm), Fri 5/12 (1:15pm, 4:20pm, 7:20pm, 10:20pm), Sat 5/13 (1:15pm, 4:20pm, 7:20pm, 10:20pm), Sun 5/14 (1:15pm, 4:20pm, 7:20pm), Mon 5/15 (1:15pm, 4:20pm, 7:20pm), Tue 5/16 (1:15pm, 4:20pm, 7:20pm, 10:30pm), Wed 5/17 (1:15pm, 4:20pm, 7:20pm, 10:30pm)
+
+    * [Beau Is Afraid](https://drafthouse.com/los-angeles/show/beau-is-afraid): Thu 5/11 (3:00pm, 6:15pm, 10:00pm), Fri 5/12 (11:00am, 2:15pm, 6:00pm, 9:15pm), Sat 5/13 (11:00am, 2:15pm, 6:00pm, 9:15pm), Sun 5/14 (11:00am, 3:30pm, 6:00pm), Mon 5/15 (11:00am, 2:15pm, 6:00pm), Tue 5/16 (11:00am, 2:15pm, 6:00pm, 9:15pm), Wed 5/17 (11:00am, 2:15pm, 6:00pm, 9:15pm)
+
+    * [Blackberry](https://drafthouse.com/los-angeles/show/blackberry): Tue 5/16 (9:30pm), Wed 5/17 (9:30pm)
+
+    * [Brunch Screenings Guardians Of The Galaxy Vol 3 Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-guardians-of-the-galaxy-vol-3-brunch): Sun 5/14 (11:35am)
+
+    * [Evil Dead Rise](https://drafthouse.com/los-angeles/show/evil-dead-rise): Thu 5/11 (3:30pm, 7:15pm, 10:50pm), Fri 5/12 (11:30am, 3:15pm, 6:30pm, 10:20pm), Sat 5/13 (11:30am, 3:15pm, 6:30pm, 10:20pm), Sun 5/14 (12:45pm, 3:15pm, 7:45pm), Mon 5/15 (11:30am, 3:15pm, 6:30pm), Tue 5/16 (11:30am, 3:15pm, 6:30pm, 10:20pm), Wed 5/17 (11:30am, 3:15pm, 6:30pm, 10:20pm)
+
+    * [Graveyard Shift Subspecies V Blood Rise](https://drafthouse.com/los-angeles/show/graveyard-shift-subspecies-v-blood-rise): Tue 5/16 (4:45pm)
+
+    * [Guardians Of The Galaxy Vol 3](https://drafthouse.com/los-angeles/show/guardians-of-the-galaxy-vol-3): Thu 5/11 (3:00pm, 3:15pm, 5:00pm, 7:00pm, 8:15pm, 8:45pm, 9:20pm), Fri 5/12 (11:45am, 12:00pm, 12:30pm, 3:30pm, 3:45pm, 4:15pm, 7:15pm, 8:00pm, 9:45pm), Sat 5/13 (11:45am, 12:30pm, 3:30pm, 4:15pm, 7:15pm, 8:00pm, 8:30pm), Sun 5/14 (11:45am, 2:00pm, 3:30pm, 5:45pm, 6:45pm, 7:15pm), Mon 5/15 (11:00am, 11:45am, 12:30pm, 3:30pm, 4:15pm, 7:15pm, 8:00pm), Tue 5/16 (11:00am, 11:45am, 1:00pm, 2:45pm, 3:30pm, 5:25pm, 7:15pm, 8:30pm, 9:25pm), Wed 5/17 (11:00am, 11:45am, 1:00pm, 2:45pm, 3:30pm, 5:20pm, 7:15pm, 8:30pm, 9:20pm)
+
+    * [Knights Of The Zodiac](https://drafthouse.com/los-angeles/show/knights-of-the-zodiac): Thu 5/11 (4:00pm, 7:15pm, 10:20pm), Fri 5/12 (12:45pm, 3:50pm, 7:00pm, 10:00pm), Sat 5/13 (12:45pm, 3:50pm, 7:00pm, 10:00pm), Sun 5/14 (11:15am, 3:15pm, 6:15pm), Mon 5/15 (12:45pm, 3:45pm, 6:45pm), Tue 5/16 (12:45pm, 3:45pm, 6:45pm, 9:50pm), Wed 5/17 (12:45pm, 3:45pm, 6:45pm, 9:50pm)
+
+    * [Mamma Mia](https://drafthouse.com/los-angeles/show/mamma-mia): Tue 5/16 (5:35pm), Wed 5/17 (11:10am)
+
+    * [Mother 2009](https://drafthouse.com/los-angeles/show/mother-2009): Mon 5/15 (1:15pm), Wed 5/17 (2:10pm)
+
+    * [Polite Society](https://drafthouse.com/los-angeles/show/polite-society): Thu 5/11 (2:30pm), Fri 5/12 (1:00pm), Sat 5/13 (5:25pm), Sun 5/14 (11:10am), Mon 5/15 (11:20am), Tue 5/16 (2:30pm), Wed 5/17 (2:30pm)
+
+    * [Renfield](https://drafthouse.com/los-angeles/show/renfield): Thu 5/11 (2:15pm, 5:30pm, 10:30pm), Fri 5/12 (11:00pm), Sat 5/13 (11:00pm), Sun 5/14 (2:15pm), Mon 5/15 (5:15pm), Tue 5/16 (11:45am), Wed 5/17 (4:45pm)
+
+    * [Sisu](https://drafthouse.com/los-angeles/show/sisu): Thu 5/11 (4:00pm, 6:45pm, 9:30pm), Fri 5/12 (1:15pm, 4:10pm, 7:00pm, 10:30pm), Sat 5/13 (1:15pm, 4:10pm, 7:00pm, 9:45pm), Sun 5/14 (1:00pm, 3:50pm, 7:45pm), Mon 5/15 (1:15pm, 4:10pm, 7:00pm), Tue 5/16 (1:15pm, 4:10pm, 7:00pm, 9:45pm), Wed 5/17 (1:15pm, 4:10pm, 7:00pm, 9:45pm)
+
+    * [Special Event Mamma Mia Brunch](https://drafthouse.com/los-angeles/show/special-event-mamma-mia-brunch): Sat 5/13 (11:15am)
+
+    * [The Fast And The Furious](https://drafthouse.com/los-angeles/show/the-fast-and-the-furious): Tue 5/16 (2:30pm)
+
+    * [The Last Starfighter](https://drafthouse.com/los-angeles/show/the-last-starfighter): Wed 5/17 (11:30am)
+
+    * [The Super Mario Bros Movie](https://drafthouse.com/los-angeles/show/the-super-mario-bros-movie): Thu 5/11 (2:15pm, 5:00pm, 7:45pm, 10:30pm), Fri 5/12 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:10pm), Sat 5/13 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:10pm), Sun 5/14 (11:20am, 2:00pm, 4:45pm, 7:30pm), Mon 5/15 (11:15am, 2:00pm, 4:45pm, 7:30pm), Tue 5/16 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:10pm), Wed 5/17 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:10pm)
+
+    * [The Wizard Of Oz](https://drafthouse.com/los-angeles/show/the-wizard-of-oz): Sat 5/13 (2:25pm), Mon 5/15 (2:15pm), Tue 5/16 (11:30am), Wed 5/17 (5:35pm)
+
 ### Mon 5/8 10:13am
 * New movies: MST3K: Cave Dwellers
 
