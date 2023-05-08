@@ -1,6 +1,26 @@
 # raleigh
 
 ## Movie updates
+### Mon 5/8 6:18pm
+* New movies: mother!
+
+* New screenings: 
+    * [Are You There God Its Me Margaret](https://drafthouse.com/raleigh/show/are-you-there-god-its-me-margaret): Fri 5/12 (12:15pm, 3:10pm, 6:00pm, 8:50pm), Sat 5/13 (12:55pm, 3:50pm, 6:45pm, 9:40pm), Sun 5/14 (12:20pm, 3:15pm, 7:15pm, 10:05pm), Mon 5/15 (1:25pm, 4:25pm, 7:15pm, 10:05pm), Tue 5/16 (1:20pm, 4:20pm, 7:30pm, 10:20pm), Wed 5/17 (1:25pm, 4:25pm, 7:15pm, 10:05pm)
+
+    * [Blackberry](https://drafthouse.com/raleigh/show/blackberry): Fri 5/12 (11:30am, 2:45pm), Sat 5/13 (1:15pm, 4:15pm, 7:15pm, 10:20pm), Sun 5/14 (1:20pm, 4:25pm, 7:45pm, 10:50pm), Mon 5/15 (11:45am, 2:50pm, 6:00pm, 9:05pm), Tue 5/16 (1:35pm, 2:55pm, 6:00pm, 9:05pm), Wed 5/17 (11:45am, 2:50pm, 6:00pm, 9:05pm)
+
+    * [Book Club The Next Chapter](https://drafthouse.com/raleigh/show/book-club-the-next-chapter): Fri 5/12 (11:50am, 2:25pm), Sat 5/13 (11:25am, 3:25pm), Sun 5/14 (11:55am, 3:10pm, 6:30pm, 9:20pm), Mon 5/15 (1:10pm, 4:40pm, 7:30pm, 10:20pm), Tue 5/16 (12:50pm, 4:40pm, 6:15pm, 9:10pm), Wed 5/17 (1:10pm, 4:40pm, 7:30pm, 10:20pm)
+
+    * [Evil Dead Rise](https://drafthouse.com/raleigh/show/evil-dead-rise): Fri 5/12 (1:25pm, 4:05pm, 7:15pm, 9:55pm), Sat 5/13 (12:45pm, 4:45pm, 7:30pm, 10:10pm), Sun 5/14 (1:15pm, 3:55pm, 6:45pm, 9:25pm), Mon 5/15 (1:15pm, 4:00pm, 6:45pm, 9:25pm), Tue 5/16 (12:55pm, 3:50pm, 6:45pm, 9:25pm), Wed 5/17 (1:15pm, 4:00pm, 6:45pm, 9:25pm)
+
+    * [Guardians Of The Galaxy Vol 3](https://drafthouse.com/raleigh/show/guardians-of-the-galaxy-vol-3): Fri 5/12 (11:45am, 12:00pm, 12:40pm, 2:30pm, 3:30pm, 3:45pm, 4:15pm, 5:15pm, 5:45pm, 7:30pm, 8:00pm, 9:00pm, 9:30pm), Sat 5/13 (12:15pm, 1:00pm, 1:30pm, 2:30pm, 4:00pm, 5:15pm, 6:00pm, 7:45pm, 7:45pm, 9:00pm, 9:30pm), Sun 5/14 (11:45am, 12:15pm, 2:45pm, 3:30pm, 4:00pm, 5:15pm, 5:30pm, 6:00pm, 7:30pm, 9:00pm, 9:30pm), Mon 5/15 (11:30am, 1:00pm, 1:30pm, 2:00pm, 2:30pm, 3:15pm, 4:45pm, 5:15pm, 5:45pm, 6:15pm, 8:30pm, 9:00pm, 9:30pm, 10:00pm), Tue 5/16 (11:15am, 1:00pm, 1:30pm, 2:00pm, 2:30pm, 4:45pm, 5:15pm, 5:45pm, 8:30pm, 9:00pm, 9:30pm), Wed 5/17 (1:00pm, 1:30pm, 2:00pm, 2:30pm, 4:45pm, 5:15pm, 5:45pm, 6:15pm, 8:30pm, 9:00pm, 10:00pm, 10:30pm)
+
+    * [Hypnotic](https://drafthouse.com/raleigh/show/hypnotic): Fri 5/12 (11:40am), Sat 5/13 (5:00pm), Sun 5/14 (12:25pm), Mon 5/15 (1:55pm), Tue 5/16 (10:05pm), Wed 5/17 (1:55pm)
+
+    * [Mother](https://drafthouse.com/raleigh/show/mother): Mon 5/15 (9:45pm)
+
+    * [The Super Mario Bros Movie](https://drafthouse.com/raleigh/show/the-super-mario-bros-movie): Fri 5/12 (1:15pm, 3:55pm, 6:30pm, 9:10pm), Sat 5/13 (1:20pm, 3:55pm, 6:30pm, 9:15pm), Sun 5/14 (12:00pm, 2:40pm, 6:15pm, 8:50pm), Mon 5/15 (11:55am, 3:55pm, 6:30pm, 9:15pm), Tue 5/16 (11:55am, 3:55pm, 6:30pm, 9:15pm), Wed 5/17 (11:55am, 3:55pm, 6:30pm, 9:15pm)
+
 ### Mon 5/8 4:18pm
 * New movies: Hypnotic
 
