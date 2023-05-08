@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Mon 5/8 9:22am
+* New movies: Spider-Man: Across the Spider-Verse, Spider-Man: Across the Spider-Verse, Spider-Man: Across the Spider-Verse
+
+* New screenings: 
+    * [Brunch Screenings Spider Man Across The Spider Verse Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-spider-man-across-the-spider-verse-brunch): Sun 6/4 (11:00am)
+
+    * [Family Party Spider Man Across The Spider Verse](https://drafthouse.com/raleigh/show/family-party-spider-man-across-the-spider-verse): Sat 6/3 (10:30am)
+
+    * [Spider Man Across The Spider Verse](https://drafthouse.com/raleigh/show/spider-man-across-the-spider-verse): Thu 6/1 (2:00pm), Fri 6/2 (6:00pm), Sat 6/3 (6:30pm)
+
 ### Tue 5/2 2:23pm
 * New movies: Book Club: The Next Chapter, Mother 2009
 
