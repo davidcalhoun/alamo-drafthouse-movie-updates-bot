@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Mon 5/8 6:19am
+* New movies: Spider-Man: Across the Spider-Verse, Spider-Man: Across the Spider-Verse, Spider-Man: Across the Spider-Verse
+
+* New screenings: 
+    * [Brunch Screenings Spider Man Across The Spider Verse Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-spider-man-across-the-spider-verse-brunch): Sat 6/3 (12:15pm), Sun 6/4 (12:15pm)
+
+    * [Family Party Spider Man Across The Spider Verse](https://drafthouse.com/los-angeles/show/family-party-spider-man-across-the-spider-verse): Sat 6/3 (10:30am), Sun 6/4 (10:30am)
+
+    * [Spider Man Across The Spider Verse](https://drafthouse.com/los-angeles/show/spider-man-across-the-spider-verse): Thu 6/1 (2:00pm, 3:00pm, 5:30pm, 6:30pm, 9:00pm, 10:00pm), Fri 6/2 (11:00am, 12:15pm, 2:30pm, 3:45pm, 6:00pm, 7:15pm, 9:30pm, 10:45pm), Sat 6/3 (3:00pm, 3:45pm, 6:30pm, 7:15pm, 10:00pm, 10:45pm), Sun 6/4 (3:00pm, 3:45pm, 6:30pm, 7:15pm), Mon 6/5 (11:00am, 12:15pm, 2:30pm, 3:45pm, 6:00pm, 7:15pm), Tue 6/6 (11:00am, 12:15pm, 2:30pm, 3:45pm, 6:00pm, 7:15pm), Wed 6/7 (11:00am, 12:15pm, 2:30pm, 3:45pm, 6:00pm, 7:15pm), Thu 6/8 (3:30pm, 7:00pm, 10:30pm), Fri 6/9 (11:30am, 3:00pm, 6:30pm, 10:00pm), Sat 6/10 (11:30am, 3:00pm, 6:30pm, 10:00pm), Sun 6/11 (11:30am, 3:00pm, 6:30pm), Mon 6/12 (11:30am, 3:00pm, 6:30pm), Tue 6/13 (11:30am, 3:00pm, 6:30pm), Wed 6/14 (11:30am, 3:00pm, 6:30pm)
+
 ### Wed 5/3 12:15am
 * New movies: Moonlight, Do The Right Thing, Mortal Kombat 1995, Mortal Kombat 2021, There Will Be Blood, Eighth Grade, Eighth Grade
 
