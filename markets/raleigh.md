@@ -1,6 +1,32 @@
 # raleigh
 
 ## Movie updates
+### Mon 5/8 4:18pm
+* New movies: Hypnotic
+
+* New screenings: 
+    * [Are You There God Its Me Margaret](https://drafthouse.com/raleigh/show/are-you-there-god-its-me-margaret): Thu 5/11 (12:20pm, 3:10pm, 6:00pm, 9:10pm)
+
+    * [Beau Is Afraid](https://drafthouse.com/raleigh/show/beau-is-afraid): Thu 5/11 (2:30pm)
+
+    * [Big George Foreman](https://drafthouse.com/raleigh/show/big-george-foreman): Thu 5/11 (12:25pm)
+
+    * [Dungeons Dragons Honor Among Thieves](https://drafthouse.com/raleigh/show/dungeons-dragons-honor-among-thieves): Thu 5/11 (12:40pm)
+
+    * [Evil Dead Rise](https://drafthouse.com/raleigh/show/evil-dead-rise): Thu 5/11 (1:30pm, 4:00pm, 7:15pm, 10:40pm)
+
+    * [Guardians Of The Galaxy Vol 3](https://drafthouse.com/raleigh/show/guardians-of-the-galaxy-vol-3): Thu 5/11 (12:30pm, 1:00pm, 3:45pm, 4:15pm, 4:45pm, 7:30pm, 8:00pm, 8:30pm, 8:50pm)
+
+    * [Hypnotic](https://drafthouse.com/raleigh/show/hypnotic): Thu 5/11 (6:30pm)
+
+    * [Polite Society](https://drafthouse.com/raleigh/show/polite-society): Thu 5/11 (2:15pm)
+
+    * [Renfield](https://drafthouse.com/raleigh/show/renfield): Thu 5/11 (4:30pm)
+
+    * [The Super Mario Bros Movie](https://drafthouse.com/raleigh/show/the-super-mario-bros-movie): Thu 5/11 (11:55am, 3:40pm, 6:15pm, 8:55pm)
+
+    * [Wargames](https://drafthouse.com/raleigh/show/wargames): Thu 5/11 (11:15am)
+
 ### Mon 5/8 9:22am
 * New movies: Spider-Man: Across the Spider-Verse, Spider-Man: Across the Spider-Verse, Spider-Man: Across the Spider-Verse
 
