@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 5/8 10:13am
+* New movies: MST3K: Cave Dwellers
+
+* New screenings: 
+    * [Mst3k Cave Dwellers](https://drafthouse.com/los-angeles/show/mst3k-cave-dwellers): Tue 5/30 (8:00pm)
+
 ### Mon 5/8 6:19am
 * New movies: Spider-Man: Across the Spider-Verse, Spider-Man: Across the Spider-Verse, Spider-Man: Across the Spider-Verse
 
