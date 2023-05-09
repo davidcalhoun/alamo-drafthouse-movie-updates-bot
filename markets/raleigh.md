@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 5/9 12:24pm
+* New movies: Kiki's Delivery Service Subtitled
+
+* New screenings: 
+    * [Brunch Screenings Kikis Delivery Service Subtitled Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-kikis-delivery-service-subtitled-brunch): Sun 11/5 (11:00am)
+
 ### Mon 5/8 6:18pm
 * New movies: mother!
 
