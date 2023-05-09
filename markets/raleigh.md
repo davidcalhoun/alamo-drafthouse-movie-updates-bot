@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 5/9 7:18pm
+* New movies: Grateful Dead Meet-Up at the Movies, 2023
+
+* New screenings: 
+    * [Grateful Dead Meet Up At The Movies 2023](https://drafthouse.com/raleigh/show/grateful-dead-meet-up-at-the-movies-2023): Thu 6/22 (7:00pm), Sat 6/24 (2:00pm)
+
 ### Tue 5/9 12:24pm
 * New movies: Kiki's Delivery Service Subtitled
 
