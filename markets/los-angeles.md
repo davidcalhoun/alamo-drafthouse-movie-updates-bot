@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 5/9 12:12pm
+* New movies: Kiki's Delivery Service Subtitled
+
+* New screenings: 
+    * [Brunch Screenings Kikis Delivery Service Subtitled Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-kikis-delivery-service-subtitled-brunch): Sun 11/5 (11:00am)
+
 ### Mon 5/8 9:18pm
 * New movies: You Hurt My Feelings, Sick of Myself
 
