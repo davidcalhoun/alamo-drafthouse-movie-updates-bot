@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Mon 5/8 9:18pm
+* New movies: You Hurt My Feelings, Sick of Myself
+
+* New screenings: 
+    * [Live Q A Sick Of Myself](https://drafthouse.com/los-angeles/show/live-q-a-sick-of-myself): Thu 5/18 (7:30pm)
+
+    * [You Hurt My Feelings](https://drafthouse.com/los-angeles/show/you-hurt-my-feelings): Thu 5/25 (4:00pm, 6:45pm, 9:30pm), Fri 5/26 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sat 5/27 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sun 5/28 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Mon 5/29 (11:30am, 2:15pm, 5:00pm, 7:45pm), Tue 5/30 (11:30am, 2:15pm, 5:00pm, 7:45pm), Wed 5/31 (11:30am, 2:15pm, 5:00pm, 7:45pm)
+
 ### Mon 5/8 2:13pm
 * New movies: Knights of the Zodiac, Mamma Mia!, Mamma Mia!
 
