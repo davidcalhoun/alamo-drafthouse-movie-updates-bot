@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 5/9 10:14pm
+
+* New screenings: 
+    * [Goldeneye](https://drafthouse.com/los-angeles/show/goldeneye): Sun 5/28 (1:00pm)
+
 ### Tue 5/9 6:17pm
 * New movies: The Little Mermaid 2023
 
