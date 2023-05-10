@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 5/10 5:20pm
+* New movies: The Innocent
+
+* New screenings: 
+    * [The Innocent](https://drafthouse.com/raleigh/show/the-innocent): Fri 5/19 (4:30pm), Tue 5/23 (7:30pm)
+
 ### Wed 5/10 4:24pm
 * New movies: You Hurt My Feelings
 
