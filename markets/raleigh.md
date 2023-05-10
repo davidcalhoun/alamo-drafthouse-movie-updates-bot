@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Tue 5/9 11:20pm
+* New movies: Hellraiser III: Hell on Earth, Tales From The Crypt: Demon Knight
+
+* New screenings: 
+    * [Terror Tuesday Hellraiser Iii Hell On Earth](https://drafthouse.com/raleigh/show/terror-tuesday-hellraiser-iii-hell-on-earth): Tue 6/20 (9:30pm)
+
+    * [Terror Tuesday Tales From The Crypt Demon Knight](https://drafthouse.com/raleigh/show/terror-tuesday-tales-from-the-crypt-demon-knight): Tue 6/13 (9:30pm)
+
 ### Tue 5/9 7:18pm
 * New movies: Grateful Dead Meet-Up at the Movies, 2023
 
