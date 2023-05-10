@@ -1,6 +1,26 @@
 # raleigh
 
 ## Movie updates
+### Wed 5/10 12:27pm
+* New movies: Cloverfield, Spawn, Action Jackson, Mars Attacks!, Voyage of the Rock Aliens, Plus One
+
+* New screenings: 
+    * [Fast X](https://drafthouse.com/raleigh/show/fast-x): Thu 5/25 (12:30pm)
+
+    * [Plus One](https://drafthouse.com/raleigh/show/plus-one): Mon 5/22 (7:00pm)
+
+    * [Terror Tuesday Cloverfield](https://drafthouse.com/raleigh/show/terror-tuesday-cloverfield): Tue 7/11 (9:30pm)
+
+    * [Terror Tuesday Spawn](https://drafthouse.com/raleigh/show/terror-tuesday-spawn): Tue 7/18 (9:30pm)
+
+    * [The Little Mermaid 2023](https://drafthouse.com/raleigh/show/the-little-mermaid-2023): Thu 5/25 (4:00pm, 7:30pm, 10:00pm, 10:50pm), Fri 5/26 (3:00pm, 6:30pm, 10:00pm), Sat 5/27 (3:30pm, 6:00pm, 9:30pm), Sun 5/28 (10:40am, 2:00pm, 5:30pm, 9:30pm), Mon 5/29 (11:00am, 2:30pm, 6:00pm, 9:30pm), Tue 5/30 (11:00am, 3:00pm, 6:30pm, 10:00pm), Wed 5/31 (11:00am, 3:30pm, 7:00pm, 10:30pm), Thu 6/1 (10:40am, 11:30am)
+
+    * [Weird Wednesday Action Jackson](https://drafthouse.com/raleigh/show/weird-wednesday-action-jackson): Wed 7/12 (9:30pm)
+
+    * [Weird Wednesday Mars Attacks](https://drafthouse.com/raleigh/show/weird-wednesday-mars-attacks): Wed 7/5 (9:30pm)
+
+    * [Weird Wednesday Voyage Of The Rock Aliens](https://drafthouse.com/raleigh/show/weird-wednesday-voyage-of-the-rock-aliens): Wed 7/26 (9:30pm)
+
 ### Wed 5/10 3:17am
 * New movies: Transformers: Rise of the Beasts
 
