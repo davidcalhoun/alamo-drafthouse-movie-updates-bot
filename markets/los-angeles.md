@@ -1,6 +1,20 @@
 # los-angeles
 
 ## Movie updates
+### Tue 5/9 6:17pm
+* New movies: The Little Mermaid 2023
+
+* New screenings: 
+    * [Brunch Screenings The Little Mermaid 2023 Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-the-little-mermaid-2023-brunch): Sun 5/28 (12:00pm)
+
+    * [Guardians Of The Galaxy Vol 3](https://drafthouse.com/los-angeles/show/guardians-of-the-galaxy-vol-3): Thu 5/18 (2:30pm, 6:15pm, 10:00pm), Fri 5/19 (11:15am, 3:00pm, 6:45pm, 10:30pm), Sat 5/20 (11:15am, 3:00pm, 6:45pm, 10:30pm), Sun 5/21 (11:15am, 3:00pm, 6:45pm), Mon 5/22 (11:15am, 3:00pm, 6:45pm, 10:30pm), Tue 5/23 (11:00am, 2:45pm, 6:15pm, 9:00pm), Wed 5/24 (11:15am, 3:00pm, 6:45pm, 10:30pm)
+
+    * [Master Gardener](https://drafthouse.com/los-angeles/show/master-gardener): Fri 5/19 (12:15pm, 3:20pm, 6:30pm, 9:35pm), Sat 5/20 (12:15pm, 3:20pm, 6:30pm, 9:35pm), Sun 5/21 (12:15pm, 3:20pm, 6:30pm), Mon 5/22 (12:15pm, 3:20pm, 6:30pm, 9:35pm), Tue 5/23 (12:00pm, 3:00pm, 6:30pm, 9:35pm), Wed 5/24 (12:15pm, 3:20pm, 6:30pm, 9:35pm)
+
+    * [Sanctuary](https://drafthouse.com/los-angeles/show/sanctuary): Thu 5/18 (7:45pm, 10:40pm), Mon 5/22 (10:30pm), Tue 5/23 (10:30pm), Wed 5/24 (10:30pm)
+
+    * [The Little Mermaid 2023](https://drafthouse.com/los-angeles/show/the-little-mermaid-2023): Thu 5/25 (7:20pm, 10:45pm), Fri 5/26 (12:00pm, 7:00pm, 10:30pm), Sat 5/27 (12:00pm, 7:00pm, 10:30pm), Sun 5/28 (7:00pm, 10:30pm), Mon 5/29 (12:00pm, 7:00pm), Tue 5/30 (12:00pm, 7:00pm), Wed 5/31 (12:00pm, 7:00pm), Thu 6/1 (2:30pm, 6:00pm, 9:30pm), Fri 6/2 (11:30am, 3:00pm, 6:30pm, 10:00pm), Sat 6/3 (11:00am, 2:30pm, 6:00pm, 9:30pm), Sun 6/4 (11:00am, 2:30pm, 6:00pm), Mon 6/5 (11:30am, 3:00pm, 6:30pm, 10:00pm), Tue 6/6 (11:30am, 3:00pm, 6:30pm, 10:00pm), Wed 6/7 (11:30am, 3:00pm, 6:30pm, 10:00pm)
+
 ### Tue 5/9 4:15pm
 * New movies: Sanctuary, Master Gardener, Grateful Dead Meet-Up at the Movies, 2023
 
