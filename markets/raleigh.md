@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 5/10 3:17am
+* New movies: Transformers: Rise of the Beasts
+
+* New screenings: 
+    * [Transformers Rise Of The Beasts](https://drafthouse.com/raleigh/show/transformers-rise-of-the-beasts): Thu 6/8 (10:00pm), Fri 6/9 (11:00am, 6:00pm), Sat 6/10 (11:00am, 6:00pm), Sun 6/11 (11:00am, 6:00pm)
+
 ### Tue 5/9 11:20pm
 * New movies: Hellraiser III: Hell on Earth, Tales From The Crypt: Demon Knight
 
