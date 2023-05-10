@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 5/10 12:14am
+* New movies: Transformers: Rise of the Beasts
+
+* New screenings: 
+    * [Transformers Rise Of The Beasts](https://drafthouse.com/los-angeles/show/transformers-rise-of-the-beasts): Thu 6/8 (3:00pm, 6:15pm, 9:30pm), Fri 6/9 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Sat 6/10 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Sun 6/11 (12:45pm, 4:00pm, 7:15pm), Mon 6/12 (12:45pm, 4:00pm, 7:15pm), Tue 6/13 (12:45pm, 4:00pm, 7:15pm), Wed 6/14 (12:45pm, 4:00pm, 7:15pm)
+
 ### Tue 5/9 10:14pm
 
 * New screenings: 
