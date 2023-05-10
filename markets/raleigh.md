@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Wed 5/10 4:24pm
+* New movies: You Hurt My Feelings
+
+* New screenings: 
+    * [Spider Man Across The Spider Verse](https://drafthouse.com/raleigh/show/spider-man-across-the-spider-verse): Thu 6/1 (3:30pm, 5:30pm, 7:00pm, 9:00pm, 10:30pm), Fri 6/2 (11:00am, 12:00pm, 2:30pm, 3:30pm, 7:00pm, 9:30pm, 10:30pm), Sat 6/3 (12:30pm, 3:00pm, 4:00pm, 7:30pm, 10:00pm, 10:50pm), Sun 6/4 (12:00pm, 2:30pm, 3:30pm, 6:00pm, 7:00pm, 9:30pm, 10:30pm), Mon 6/5 (11:00am, 12:00pm, 2:30pm, 3:30pm, 6:00pm, 7:00pm, 9:30pm, 10:30pm), Tue 6/6 (11:00am, 12:00pm, 2:30pm, 3:30pm, 6:00pm, 7:00pm, 10:30pm), Wed 6/7 (11:00am, 12:00pm, 2:30pm, 3:30pm, 6:00pm, 7:00pm, 10:30pm), Thu 6/8 (11:30am)
+
+    * [Transformers Rise Of The Beasts](https://drafthouse.com/raleigh/show/transformers-rise-of-the-beasts): Mon 6/12 (1:30pm, 4:45pm), Tue 6/13 (11:45am, 3:00pm, 6:15pm), Wed 6/14 (11:45am, 3:00pm, 6:15pm)
+
+    * [You Hurt My Feelings](https://drafthouse.com/raleigh/show/you-hurt-my-feelings): Thu 5/25 (7:00pm), Fri 5/26 (6:15pm), Sat 5/27 (6:15pm)
+
 ### Wed 5/10 12:27pm
 * New movies: Cloverfield, Spawn, Action Jackson, Mars Attacks!, Voyage of the Rock Aliens, Plus One
 
