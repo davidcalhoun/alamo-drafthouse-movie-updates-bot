@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 5/11 9:20am
+* New movies: Max Original: Clone High
+
+* New screenings: 
+    * [Free Victory Screening Max Clone High](https://drafthouse.com/los-angeles/show/free-victory-screening-max-clone-high): Tue 5/23 (7:00pm, 7:00pm)
+
 ### Wed 5/10 12:14am
 * New movies: Transformers: Rise of the Beasts
 
