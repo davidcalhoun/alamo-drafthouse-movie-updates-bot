@@ -1,6 +1,20 @@
 # los-angeles
 
 ## Movie updates
+### Fri 5/12 2:14am
+* New movies: Scott Pilgrim vs. the World, Dirty Dancing, Jumanji: Welcome to the Jungle, Teen Titans Go! to the Movies
+
+* New screenings: 
+    * [Champagne Cinema Dirty Dancing](https://drafthouse.com/los-angeles/show/champagne-cinema-dirty-dancing): Tue 6/13 (7:00pm)
+
+    * [Kids Camp Jumanji Welcome To The Jungle](https://drafthouse.com/los-angeles/show/kids-camp-jumanji-welcome-to-the-jungle): Mon 5/29 (11:15am)
+
+    * [Kids Camp Teen Titans Go To The Movies](https://drafthouse.com/los-angeles/show/kids-camp-teen-titans-go-to-the-movies): Fri 6/2 (11:00am)
+
+    * [Movie Party Scott Pilgrim Vs The World](https://drafthouse.com/los-angeles/show/movie-party-scott-pilgrim-vs-the-world): Sun 6/25 (7:30pm), Mon 6/26 (7:00pm)
+
+    * [Mst3k Cave Dwellers](https://drafthouse.com/los-angeles/show/mst3k-cave-dwellers): Wed 5/31 (8:00pm)
+
 ### Thu 5/11 9:20am
 * New movies: Max Original: Clone High
 
