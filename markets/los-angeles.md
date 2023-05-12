@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 5/12 3:16am
+
+* New screenings: 
+    * [Mst3k Cave Dwellers](https://drafthouse.com/los-angeles/show/mst3k-cave-dwellers): Wed 5/31 (8:00pm)
+
 ### Fri 5/12 2:14am
 * New movies: Scott Pilgrim vs. the World, Dirty Dancing, Jumanji: Welcome to the Jungle, Teen Titans Go! to the Movies
 
