@@ -1,6 +1,38 @@
 # raleigh
 
 ## Movie updates
+### Sat 5/13 11:17am
+* New movies: The Dragon Lives Again, Party Girl 1995, Do The Right Thing, Hedwig and the Angry Inch, The Angry Birds Movie, The Land Before Time, The Mitchells vs. The Machines, Moonlight, Scott Pilgrim vs. the World, Jaws 1975, Pokemon Detective Pikachu, There Will Be Blood
+
+* New screenings: 
+    * [Brunch Screenings Party Girl 1995 Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-party-girl-1995-brunch): Sun 6/11 (11:00am)
+
+    * [Do The Right Thing](https://drafthouse.com/raleigh/show/do-the-right-thing): Mon 6/19 (7:00pm)
+
+    * [Hedwig And The Angry Inch](https://drafthouse.com/raleigh/show/hedwig-and-the-angry-inch): Sun 6/11 (9:15pm)
+
+    * [Kids Camp The Angry Birds Movie](https://drafthouse.com/raleigh/show/kids-camp-the-angry-birds-movie): Mon 6/12 (10:45am)
+
+    * [Kids Camp The Land Before Time](https://drafthouse.com/raleigh/show/kids-camp-the-land-before-time): Mon 6/26 (11:00am)
+
+    * [Kids Camp The Mitchells Vs The Machines](https://drafthouse.com/raleigh/show/kids-camp-the-mitchells-vs-the-machines): Mon 6/19 (11:00am)
+
+    * [Moonlight](https://drafthouse.com/raleigh/show/moonlight): Mon 6/19 (10:15pm)
+
+    * [Movie Party Scott Pilgrim Vs The World](https://drafthouse.com/raleigh/show/movie-party-scott-pilgrim-vs-the-world): Mon 6/26 (7:00pm)
+
+    * [Signature Programming Jaws 1975](https://drafthouse.com/raleigh/show/signature-programming-jaws-1975): Mon 7/3 (7:00pm)
+
+    * [Special Event Pokemon Detective Pikachu Kids Camp](https://drafthouse.com/raleigh/show/special-event-pokemon-detective-pikachu-kids-camp): Wed 6/14 (11:00am)
+
+    * [Spider Man Across The Spider Verse](https://drafthouse.com/raleigh/show/spider-man-across-the-spider-verse): Wed 6/7 (12:30pm, 1:30pm, 5:00pm, 8:30pm)
+
+    * [There Will Be Blood](https://drafthouse.com/raleigh/show/there-will-be-blood): Tue 6/20 (2:00pm)
+
+    * [Transformers Rise Of The Beasts](https://drafthouse.com/raleigh/show/transformers-rise-of-the-beasts): Wed 6/14 (11:45am)
+
+    * [Weird Wednesday The Dragon Lives Again](https://drafthouse.com/raleigh/show/weird-wednesday-the-dragon-lives-again): Wed 7/19 (9:30pm)
+
 ### Sat 5/13 10:16am
 * New movies: But I'm a Cheerleader, Cabaret 1972, Jumanji: Welcome to the Jungle, Teen Titans Go! to the Movies, The Bad Guys, Purple Rain, Top Gun: Maverick
 
