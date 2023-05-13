@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 5/12 9:18pm
+
+* New screenings: 
+    * [Live Q A Sick Of Myself](https://drafthouse.com/los-angeles/show/live-q-a-sick-of-myself): Thu 5/18 (8:00pm)
+
 ### Fri 5/12 3:16am
 
 * New screenings: 
