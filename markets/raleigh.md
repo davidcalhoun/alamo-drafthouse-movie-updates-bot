@@ -1,6 +1,28 @@
 # raleigh
 
 ## Movie updates
+### Sat 5/13 10:16am
+* New movies: But I'm a Cheerleader, Cabaret 1972, Jumanji: Welcome to the Jungle, Teen Titans Go! to the Movies, The Bad Guys, Purple Rain, Top Gun: Maverick
+
+* New screenings: 
+    * [But Im A Cheerleader](https://drafthouse.com/raleigh/show/but-im-a-cheerleader): Mon 6/5 (7:30pm)
+
+    * [Cabaret](https://drafthouse.com/raleigh/show/cabaret): Tue 6/6 (7:30pm)
+
+    * [Casino Royale](https://drafthouse.com/raleigh/show/casino-royale): Wed 6/7 (3:30pm)
+
+    * [Kids Camp Jumanji Welcome To The Jungle](https://drafthouse.com/raleigh/show/kids-camp-jumanji-welcome-to-the-jungle): Mon 5/29 (12:15pm)
+
+    * [Kids Camp Teen Titans Go To The Movies](https://drafthouse.com/raleigh/show/kids-camp-teen-titans-go-to-the-movies): Tue 6/6 (12:30pm)
+
+    * [Kids Camp The Bad Guys](https://drafthouse.com/raleigh/show/kids-camp-the-bad-guys): Tue 5/30 (12:00pm)
+
+    * [Purple Rain](https://drafthouse.com/raleigh/show/purple-rain): Wed 6/7 (7:00pm)
+
+    * [The Little Mermaid 2023](https://drafthouse.com/raleigh/show/the-little-mermaid-2023): Mon 5/29 (3:30pm)
+
+    * [Top Gun Maverick](https://drafthouse.com/raleigh/show/top-gun-maverick): Mon 5/29 (7:00pm)
+
 ### Wed 5/10 5:20pm
 * New movies: The Innocent
 
