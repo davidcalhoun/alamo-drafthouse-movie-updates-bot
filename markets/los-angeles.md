@@ -1,6 +1,34 @@
 # los-angeles
 
 ## Movie updates
+### Mon 5/15 3:14pm
+* New movies: The Super Mario Bros. Movie, Bullitt
+
+* New screenings: 
+    * [Are You There God Its Me Margaret](https://drafthouse.com/los-angeles/show/are-you-there-god-its-me-margaret): Thu 5/18 (3:10pm), Fri 5/19 (12:10pm, 3:10pm), Sat 5/20 (12:10pm, 3:10pm), Sun 5/21 (12:10pm, 3:10pm), Mon 5/22 (12:10pm, 3:10pm), Tue 5/23 (12:10pm, 3:10pm), Wed 5/24 (12:10pm, 3:10pm)
+
+    * [Beau Is Afraid](https://drafthouse.com/los-angeles/show/beau-is-afraid): Thu 5/18 (3:00pm, 6:15pm), Fri 5/19 (11:35am, 6:15pm), Sat 5/20 (11:35am, 6:15pm), Sun 5/21 (11:35am, 6:15pm), Mon 5/22 (11:30am, 6:15pm), Tue 5/23 (11:35am, 6:15pm), Wed 5/24 (11:35am, 6:15pm)
+
+    * [Blackberry](https://drafthouse.com/los-angeles/show/blackberry): Thu 5/18 (3:35pm, 7:30pm, 10:45pm), Fri 5/19 (1:00pm, 3:50pm, 7:45pm, 11:00pm), Sat 5/20 (1:00pm, 3:50pm, 7:45pm, 11:00pm), Sun 5/21 (1:00pm, 3:50pm, 7:45pm), Mon 5/22 (1:15pm, 4:30pm, 7:15pm, 10:00pm), Tue 5/23 (11:15am, 3:50pm, 6:00pm, 9:15pm), Wed 5/24 (1:00pm, 3:50pm, 7:45pm, 10:30pm)
+
+    * [Brunch Screenings The Super Mario Bros Movie Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-the-super-mario-bros-movie-brunch): Sat 5/20 (11:15am), Sun 5/21 (11:15am)
+
+    * [Bullitt](https://drafthouse.com/los-angeles/show/bullitt): Tue 5/23 (12:10pm)
+
+    * [Evil Dead Rise](https://drafthouse.com/los-angeles/show/evil-dead-rise): Thu 5/18 (11:00pm)
+
+    * [Fast X](https://drafthouse.com/los-angeles/show/fast-x): Thu 5/18 (3:50pm, 3:50pm, 4:15pm, 5:30pm, 9:10pm, 10:00pm), Fri 5/19 (1:30pm, 4:15pm, 5:10pm, 7:30pm, 8:45pm, 9:55pm), Sat 5/20 (4:15pm, 5:15pm, 7:30pm, 8:50pm, 9:55pm), Sun 5/21 (4:15pm, 6:30pm, 7:40pm), Mon 5/22 (11:00am, 1:00pm, 2:30pm, 3:45pm, 4:30pm, 6:00pm, 7:45pm, 9:35pm), Tue 5/23 (11:50am, 2:30pm, 3:25pm, 7:00pm, 9:15pm), Wed 5/24 (11:00am, 1:00pm, 1:45pm, 2:30pm, 4:15pm, 4:30pm, 6:00pm, 7:30pm, 8:15pm, 9:35pm)
+
+    * [Graveyard Shift The Lure](https://drafthouse.com/los-angeles/show/graveyard-shift-the-lure): Tue 5/23 (3:15pm), Wed 5/24 (5:20pm)
+
+    * [Guardians Of The Galaxy Vol 3](https://drafthouse.com/los-angeles/show/guardians-of-the-galaxy-vol-3): Thu 5/18 (4:15pm, 9:45pm, 10:15pm), Fri 5/19 (12:45pm, 1:45pm, 5:30pm, 9:15pm), Sat 5/20 (12:45pm, 1:45pm, 5:30pm, 9:15pm), Sun 5/21 (12:45pm, 1:45pm, 5:30pm), Mon 5/22 (12:30pm, 1:45pm, 5:30pm, 9:15pm), Tue 5/23 (2:15pm, 3:35pm), Wed 5/24 (12:45pm, 1:45pm, 5:30pm, 9:15pm)
+
+    * [Knights Of The Zodiac](https://drafthouse.com/los-angeles/show/knights-of-the-zodiac): Thu 5/18 (2:25pm), Fri 5/19 (4:30pm), Sat 5/20 (4:30pm), Sun 5/21 (4:30pm), Mon 5/22 (4:15pm), Tue 5/23 (12:30pm), Wed 5/24 (4:30pm)
+
+    * [Sisu](https://drafthouse.com/los-angeles/show/sisu): Thu 5/18 (7:00pm, 10:25pm), Fri 5/19 (7:15pm, 10:25pm), Sat 5/20 (7:15pm, 10:25pm), Sun 5/21 (7:15pm), Mon 5/22 (7:15pm, 10:25pm), Tue 5/23 (7:15pm, 9:50pm), Wed 5/24 (7:10pm, 10:25pm)
+
+    * [The Super Mario Bros Movie](https://drafthouse.com/los-angeles/show/the-super-mario-bros-movie): Thu 5/18 (4:40pm, 7:25pm, 10:35pm), Fri 5/19 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:10pm), Sat 5/20 (2:00pm, 4:45pm, 7:30pm, 10:10pm), Sun 5/21 (2:00pm, 4:45pm, 7:30pm), Mon 5/22 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:10pm), Tue 5/23 (1:15pm, 4:00pm, 6:45pm, 9:30pm), Wed 5/24 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:10pm)
+
 ### Mon 5/15 1:16pm
 
 * New screenings: 
