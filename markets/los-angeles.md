@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 5/15 11:19am
+* New movies: Guardians of the Galaxy Vol. 3
+
+
+
 ### Mon 5/15 10:13am
 * New movies: The Starling Girl
 
