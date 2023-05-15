@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Mon 5/15 9:23am
+* New movies: The Boogeyman 2023, The Boogeyman 2023
+
+* New screenings: 
+    * [Advance Screening The Boogeyman 2023](https://drafthouse.com/raleigh/show/advance-screening-the-boogeyman-2023): Tue 5/30 (7:00pm)
+
+    * [The Boogeyman 2023](https://drafthouse.com/raleigh/show/the-boogeyman-2023): Thu 6/1 (7:30pm, 10:15pm), Fri 6/2 (1:00pm, 3:45pm, 6:30pm, 9:15pm), Sat 6/3 (1:00pm, 3:45pm, 6:30pm, 9:15pm), Sun 6/4 (1:00pm, 3:45pm, 6:30pm, 9:15pm)
+
 ### Sat 5/13 11:17am
 * New movies: The Dragon Lives Again, Party Girl 1995, Do The Right Thing, Hedwig and the Angry Inch, The Angry Birds Movie, The Land Before Time, The Mitchells vs. The Machines, Moonlight, Scott Pilgrim vs. the World, Jaws 1975, Pokemon Detective Pikachu, There Will Be Blood
 
