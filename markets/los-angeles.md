@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 5/15 10:13am
+* New movies: The Starling Girl
+
+* New screenings: 
+    * [The Starling Girl](https://drafthouse.com/los-angeles/show/the-starling-girl): Thu 5/25 (7:00pm), Fri 5/26 (6:15pm), Sat 5/27 (6:00pm), Sun 5/28 (6:00pm)
+
 ### Mon 5/15 6:19am
 * New movies: The Boogeyman 2023, The Boogeyman 2023
 
