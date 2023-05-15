@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 5/15 1:16pm
+
+* New screenings: 
+    * [The Little Mermaid 2023](https://drafthouse.com/los-angeles/show/the-little-mermaid-2023): Tue 5/30 (11:00am, 2:30pm, 6:00pm, 9:30pm)
+
 ### Mon 5/15 11:19am
 * New movies: Guardians of the Galaxy Vol. 3
 
