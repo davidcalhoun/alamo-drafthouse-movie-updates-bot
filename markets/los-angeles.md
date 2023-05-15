@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Mon 5/15 6:19am
+* New movies: The Boogeyman 2023, The Boogeyman 2023
+
+* New screenings: 
+    * [Advance Screening The Boogeyman 2023 W Live Q A](https://drafthouse.com/los-angeles/show/advance-screening-the-boogeyman-2023-w-live-q-a): Wed 5/31 (7:00pm)
+
+    * [The Boogeyman 2023](https://drafthouse.com/los-angeles/show/the-boogeyman-2023): Thu 6/1 (7:30pm, 10:25pm), Fri 6/2 (11:15am, 2:00pm, 4:50pm, 7:45pm, 10:40pm), Sat 6/3 (11:15am, 2:00pm, 4:50pm, 7:45pm, 10:40pm), Sun 6/4 (11:15am, 2:00pm, 4:50pm, 7:45pm)
+
 ### Fri 5/12 9:18pm
 
 * New screenings: 
