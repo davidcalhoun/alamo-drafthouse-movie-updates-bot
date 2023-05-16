@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 5/16 1:17pm
+* New movies: Robots 2023
+
+* New screenings: 
+    * [Robots 2023](https://drafthouse.com/raleigh/show/robots-2023): Thu 5/18 (7:30pm), Fri 5/19 (8:15pm), Sat 5/20 (8:15pm), Sun 5/21 (8:15pm), Mon 5/22 (11:15am), Tue 5/23 (8:15pm), Wed 5/24 (8:15pm)
+
 ### Tue 5/16 10:18am
 
 * New screenings: 
