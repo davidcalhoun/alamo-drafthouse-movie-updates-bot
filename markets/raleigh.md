@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 5/16 9:22am
+* New movies: Elemental
+
+* New screenings: 
+    * [Elemental](https://drafthouse.com/raleigh/show/elemental): Thu 6/15 (5:00pm, 8:00pm), Fri 6/16 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 6/17 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sun 6/18 (12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
 ### Mon 5/15 9:39pm
 * New movies: Master Gardener, Mother 1996
 
