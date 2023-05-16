@@ -1,6 +1,32 @@
 # raleigh
 
 ## Movie updates
+### Mon 5/15 9:39pm
+* New movies: Master Gardener, Mother 1996
+
+* New screenings: 
+    * [Are You There God Its Me Margaret](https://drafthouse.com/raleigh/show/are-you-there-god-its-me-margaret): Thu 5/18 (12:10pm), Fri 5/19 (5:25pm), Sat 5/20 (11:50am), Sun 5/21 (5:15pm), Mon 5/22 (5:45pm), Tue 5/23 (5:25pm), Wed 5/24 (5:25pm)
+
+    * [Blackberry](https://drafthouse.com/raleigh/show/blackberry): Thu 5/18 (1:30pm, 4:40pm, 7:45pm, 10:50pm), Fri 5/19 (11:55am, 3:10pm, 6:45pm, 9:50pm), Sat 5/20 (1:25pm, 4:30pm, 7:30pm, 10:35pm), Sun 5/21 (1:30pm, 4:40pm, 7:45pm, 10:50pm), Mon 5/22 (11:50am, 3:40pm, 7:15pm, 8:40pm), Tue 5/23 (11:50am, 2:55pm, 6:15pm, 9:20pm), Wed 5/24 (11:55am, 3:10pm, 6:15pm, 9:20pm)
+
+    * [Book Club The Next Chapter](https://drafthouse.com/raleigh/show/book-club-the-next-chapter): Thu 5/18 (1:00pm, 4:15pm, 6:45pm, 9:40pm), Fri 5/19 (12:55pm, 4:55pm, 7:45pm, 10:35pm), Sat 5/20 (12:00pm, 3:55pm, 6:45pm, 9:40pm), Sun 5/21 (11:25am, 3:50pm, 6:45pm, 9:40pm), Mon 5/22 (12:15pm, 3:10pm, 6:00pm, 8:50pm), Tue 5/23 (1:25pm, 4:25pm, 7:45pm, 10:40pm), Wed 5/24 (1:25pm, 4:25pm, 7:45pm, 10:40pm)
+
+    * [Evil Dead Rise](https://drafthouse.com/raleigh/show/evil-dead-rise): Thu 5/18 (1:15pm), Fri 5/19 (10:55pm), Sat 5/20 (10:50pm), Sun 5/21 (10:55pm), Mon 5/22 (10:20pm), Tue 5/23 (10:55pm), Wed 5/24 (10:55pm)
+
+    * [Fast X](https://drafthouse.com/raleigh/show/fast-x): Thu 5/18 (2:30pm, 3:00pm, 4:00pm, 4:30pm, 6:00pm, 6:30pm, 8:00pm, 9:30pm, 10:15pm, 10:40pm), Fri 5/19 (11:00am, 1:30pm, 2:00pm, 2:30pm, 5:00pm, 5:30pm, 6:00pm, 8:30pm, 9:30pm), Sat 5/20 (11:00am, 11:30am, 1:30pm, 2:00pm, 2:30pm, 5:00pm, 5:30pm, 6:00pm, 8:30pm, 9:00pm), Sun 5/21 (12:00pm, 12:15pm, 2:00pm, 3:30pm, 4:00pm, 5:30pm, 7:30pm, 9:00pm), Mon 5/22 (12:00pm, 12:30pm, 1:00pm, 1:30pm, 3:30pm, 4:00pm, 4:30pm, 5:00pm, 8:00pm, 8:30pm), Tue 5/23 (11:00am, 11:30am, 12:30pm, 1:00pm, 1:30pm, 2:30pm, 3:00pm, 4:30pm, 5:00pm, 8:00pm, 8:30pm, 10:00pm), Wed 5/24 (11:00am, 11:30am, 12:00pm, 12:30pm, 1:00pm, 1:30pm, 2:30pm, 3:00pm, 3:30pm, 4:30pm, 5:00pm, 7:00pm, 8:00pm, 8:30pm, 10:00pm, 10:30pm)
+
+    * [Guardians Of The Galaxy Vol 3](https://drafthouse.com/raleigh/show/guardians-of-the-galaxy-vol-3): Thu 5/18 (12:30pm, 12:55pm, 1:45pm, 5:25pm, 9:00pm, 9:55pm), Fri 5/19 (11:15am, 12:40pm, 1:45pm, 2:55pm, 4:15pm, 6:30pm, 8:00pm, 9:00pm, 10:05pm), Sat 5/20 (12:15pm, 1:15pm, 2:55pm, 4:45pm, 5:15pm, 7:15pm, 8:45pm, 9:30pm), Sun 5/21 (11:40am, 1:00pm, 1:40pm, 2:15pm, 4:45pm, 6:00pm, 8:30pm, 9:45pm, 9:45pm), Mon 5/22 (11:00am, 2:00pm, 2:40pm, 5:30pm, 7:30pm, 9:00pm, 9:45pm), Tue 5/23 (11:15am, 2:00pm, 4:00pm, 5:30pm, 6:00pm, 9:00pm, 9:30pm), Wed 5/24 (11:15am, 2:00pm, 4:00pm, 5:30pm, 9:00pm), Thu 5/25 (1:45pm)
+
+    * [Hypnotic](https://drafthouse.com/raleigh/show/hypnotic): Thu 5/18 (11:20am)
+
+    * [Master Gardener](https://drafthouse.com/raleigh/show/master-gardener): Thu 5/18 (7:15pm, 10:10pm), Fri 5/19 (1:25pm, 3:45pm, 7:15pm, 10:10pm), Sat 5/20 (12:50pm, 4:00pm, 6:30pm, 9:25pm), Sun 5/21 (12:55pm, 3:15pm, 6:15pm, 9:10pm), Mon 5/22 (1:15pm, 4:15pm, 6:45pm, 9:40pm), Tue 5/23 (12:55pm, 3:50pm, 6:45pm, 9:40pm), Wed 5/24 (12:55pm, 3:50pm, 6:45pm, 9:40pm)
+
+    * [Mother 1996](https://drafthouse.com/raleigh/show/mother-1996): Thu 5/18 (11:40am)
+
+    * [The Last Starfighter](https://drafthouse.com/raleigh/show/the-last-starfighter): Thu 5/18 (3:55pm)
+
+    * [The Super Mario Bros Movie](https://drafthouse.com/raleigh/show/the-super-mario-bros-movie): Thu 5/18 (12:50pm, 3:30pm, 6:15pm, 8:55pm), Fri 5/19 (11:45am, 2:20pm, 6:15pm, 8:50pm), Sat 5/20 (11:15am, 2:40pm, 6:15pm, 8:50pm), Sun 5/21 (1:15pm, 3:55pm, 6:30pm, 9:15pm), Mon 5/22 (12:55pm, 2:55pm, 6:15pm, 8:55pm), Tue 5/23 (11:20am, 2:50pm, 6:30pm, 9:10pm), Wed 5/24 (11:20am, 2:50pm, 6:30pm, 9:10pm)
+
 ### Mon 5/15 9:23am
 * New movies: The Boogeyman 2023, The Boogeyman 2023
 
