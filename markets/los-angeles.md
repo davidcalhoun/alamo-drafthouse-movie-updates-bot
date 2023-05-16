@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 5/16 6:18am
+* New movies: Elemental, Elemental
+
+* New screenings: 
+    * [Brunch Screenings Elemental Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-elemental-brunch): Sat 6/17 (11:40am), Sun 6/18 (11:40am)
+
+    * [Elemental](https://drafthouse.com/los-angeles/show/elemental): Thu 6/15 (3:00pm, 6:15pm, 9:20pm), Fri 6/16 (11:40am, 2:50pm, 6:00pm, 9:10pm), Sat 6/17 (2:50pm, 6:00pm, 9:10pm), Sun 6/18 (2:50pm, 6:00pm), Mon 6/19 (11:40am, 2:50pm, 6:00pm, 9:10pm), Tue 6/20 (11:40am, 2:50pm, 6:00pm, 9:10pm), Wed 6/21 (11:40am, 2:50pm, 6:00pm, 9:10pm)
+
 ### Mon 5/15 3:14pm
 * New movies: The Super Mario Bros. Movie, Bullitt
 
