@@ -1,6 +1,18 @@
 # raleigh
 
 ## Movie updates
+### Wed 5/17 12:24pm
+* New movies: By Hook or by Crook, Come Back to the 5 and Dime, Jimmy Dean, Jimmy Dean, Dressed in Blue, Glen or Glenda
+
+* New screenings: 
+    * [Doll Parts 70 Years Of Trans Cinema By Hook Or By Crook](https://drafthouse.com/raleigh/show/doll-parts-70-years-of-trans-cinema-by-hook-or-by-crook): Wed 6/28 (6:30pm)
+
+    * [Doll Parts 70 Years Of Trans Cinema Come Back To The 5 And Dime Jimmy Dean Jimmy Dean](https://drafthouse.com/raleigh/show/doll-parts-70-years-of-trans-cinema-come-back-to-the-5-and-dime-jimmy-dean-jimmy-dean): Wed 7/5 (7:00pm)
+
+    * [Doll Parts 70 Years Of Trans Cinema Dressed In Blue](https://drafthouse.com/raleigh/show/doll-parts-70-years-of-trans-cinema-dressed-in-blue): Wed 6/14 (7:00pm)
+
+    * [Doll Parts 70 Years Of Trans Cinema Glen Or Glenda](https://drafthouse.com/raleigh/show/doll-parts-70-years-of-trans-cinema-glen-or-glenda): Wed 6/21 (6:00pm)
+
 ### Tue 5/16 1:17pm
 * New movies: Robots 2023
 
