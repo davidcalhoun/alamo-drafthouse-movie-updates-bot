@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Wed 5/17 9:20am
+* New movies: By Hook or by Crook, Dressed in Blue, Glen or Glenda
+
+* New screenings: 
+    * [Doll Parts 70 Years Of Trans Cinema By Hook Or By Crook](https://drafthouse.com/los-angeles/show/doll-parts-70-years-of-trans-cinema-by-hook-or-by-crook): Sat 6/24 (2:15pm)
+
+    * [Doll Parts 70 Years Of Trans Cinema Dressed In Blue](https://drafthouse.com/los-angeles/show/doll-parts-70-years-of-trans-cinema-dressed-in-blue): Sat 6/10 (1:45pm)
+
+    * [Doll Parts 70 Years Of Trans Cinema Glen Or Glenda](https://drafthouse.com/los-angeles/show/doll-parts-70-years-of-trans-cinema-glen-or-glenda): Sat 6/17 (2:00pm)
+
 ### Tue 5/16 10:13am
 * New movies: Robots 2023
 
