@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Wed 5/17 5:15pm
+
+* New screenings: 
+    * [Spider Man Across The Spider Verse](https://drafthouse.com/raleigh/show/spider-man-across-the-spider-verse): Thu 6/1 (10:00pm)
+
 ### Wed 5/17 12:24pm
 * New movies: By Hook or by Crook, Come Back to the 5 and Dime, Jimmy Dean, Jimmy Dean, Dressed in Blue, Glen or Glenda
 
