@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Thu 5/18 11:18am
+
+* New screenings: 
+    * [Stalker](https://drafthouse.com/raleigh/show/stalker): Mon 5/29 (9:30pm)
+
+    * [The Little Mermaid 2023](https://drafthouse.com/raleigh/show/the-little-mermaid-2023): Mon 5/29 (10:30pm)
+
 ### Wed 5/17 5:15pm
 
 * New screenings: 
