@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Fri 5/19 2:22pm
+* New movies: Elemental
+
+* New screenings: 
+    * [Brunch Screenings Elemental Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-elemental-brunch): Sat 6/17 (12:30pm), Sun 6/18 (12:30pm)
+
+    * [Elemental](https://drafthouse.com/raleigh/show/elemental): Tue 6/20 (4:30pm, 7:30pm), Wed 6/21 (3:30pm, 9:00pm)
+
+    * [Transformers Rise Of The Beasts](https://drafthouse.com/raleigh/show/transformers-rise-of-the-beasts): Thu 6/15 (12:15pm)
+
 ### Fri 5/19 12:24pm
 
 * New screenings: 
