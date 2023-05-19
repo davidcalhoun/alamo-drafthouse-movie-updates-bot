@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 5/19 7:18pm
+
+* New screenings: 
+    * [Transformers Rise Of The Beasts](https://drafthouse.com/raleigh/show/transformers-rise-of-the-beasts): Thu 6/8 (3:30pm, 6:45pm)
+
 ### Fri 5/19 2:22pm
 * New movies: Elemental
 
