@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Fri 5/19 12:24pm
+
+* New screenings: 
+    * [Fast X](https://drafthouse.com/raleigh/show/fast-x): Sun 5/21 (5:30pm), Mon 5/22 (8:00pm)
+
+    * [Guardians Of The Galaxy Vol 3](https://drafthouse.com/raleigh/show/guardians-of-the-galaxy-vol-3): Mon 5/22 (8:30pm), Tue 5/23 (8:00pm), Wed 5/24 (8:00pm)
+
 ### Thu 5/18 11:18am
 
 * New screenings: 
