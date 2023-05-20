@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Fri 5/19 9:36pm
+
+* New screenings: 
+    * [Spider Man Across The Spider Verse](https://drafthouse.com/raleigh/show/spider-man-across-the-spider-verse): Thu 6/8 (12:00pm)
+
+    * [Transformers Rise Of The Beasts](https://drafthouse.com/raleigh/show/transformers-rise-of-the-beasts): Fri 6/9 (2:45pm, 9:15pm), Sat 6/10 (2:45pm, 9:15pm), Sun 6/11 (2:45pm)
+
 ### Fri 5/19 7:18pm
 
 * New screenings: 
