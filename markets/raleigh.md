@@ -1,6 +1,25 @@
 # raleigh
 
 ## Movie updates
+### Mon 5/22 7:18pm
+
+* New screenings: 
+    * [About My Father](https://drafthouse.com/raleigh/show/about-my-father): Fri 5/26 (1:30pm, 4:10pm, 7:30pm, 10:05pm), Sat 5/27 (12:25pm, 3:40pm, 7:15pm, 9:50pm), Mon 5/29 (1:30pm, 4:10pm, 7:15pm, 10:55pm), Tue 5/30 (12:30pm, 3:10pm, 6:45pm, 9:20pm), Wed 5/31 (12:30pm, 3:10pm, 6:45pm, 10:05pm)
+
+    * [Blackberry](https://drafthouse.com/raleigh/show/blackberry): Fri 5/26 (10:50pm), Sat 5/27 (5:15pm), Mon 5/29 (8:45pm), Tue 5/30 (1:10pm), Wed 5/31 (1:10pm)
+
+    * [Fast X](https://drafthouse.com/raleigh/show/fast-x): Fri 5/26 (11:45am, 12:45pm, 3:15pm, 4:15pm, 6:45pm, 7:45pm, 10:10pm), Sat 5/27 (12:15pm, 12:45pm, 3:45pm, 4:15pm, 6:45pm, 10:15pm), Mon 5/29 (12:20pm, 12:45pm, 3:50pm, 4:15pm, 7:30pm, 9:50pm), Tue 5/30 (11:45am, 12:15pm, 3:15pm, 4:15pm, 5:45pm, 7:45pm, 9:15pm), Wed 5/31 (11:45am, 12:15pm, 3:15pm, 4:15pm, 5:45pm, 7:45pm, 9:15pm)
+
+    * [Guardians Of The Galaxy Vol 3](https://drafthouse.com/raleigh/show/guardians-of-the-galaxy-vol-3): Fri 5/26 (12:15pm, 1:15pm, 3:45pm, 4:45pm, 7:15pm, 8:15pm, 9:00pm), Sat 5/27 (12:00pm, 1:30pm, 6:15pm, 8:15pm, 9:45pm), Mon 5/29 (12:55pm, 1:55pm, 3:55pm, 7:45pm, 9:00pm), Tue 5/30 (11:55am, 1:40pm, 3:40pm, 5:15pm, 7:30pm, 9:00pm), Wed 5/31 (11:15am, 2:55pm, 3:40pm, 6:30pm, 9:20pm)
+
+    * [Master Gardener](https://drafthouse.com/raleigh/show/master-gardener): Fri 5/26 (4:30pm), Sat 5/27 (11:45am), Mon 5/29 (5:45pm), Tue 5/30 (1:00pm), Wed 5/31 (11:55am)
+
+    * [The Little Mermaid 2023](https://drafthouse.com/raleigh/show/the-little-mermaid-2023): Fri 5/26 (11:00am, 12:00pm, 1:00pm, 3:30pm, 5:30pm, 7:00pm, 10:30pm), Sat 5/27 (1:00pm, 2:00pm, 3:00pm, 4:30pm, 5:00pm, 5:30pm, 8:00pm, 8:30pm, 9:00pm), Mon 5/29 (12:30pm, 4:30pm, 5:30pm, 8:00pm), Tue 5/30 (3:30pm, 4:00pm, 5:00pm, 8:30pm, 9:45pm), Wed 5/31 (1:00pm, 4:30pm, 5:00pm, 8:00pm, 8:30pm)
+
+    * [The Super Mario Bros Movie](https://drafthouse.com/raleigh/show/the-super-mario-bros-movie): Fri 5/26 (12:20pm, 2:55pm, 6:55pm, 8:50pm), Sat 5/27 (11:15am, 2:40pm, 6:30pm, 9:05pm), Mon 5/29 (1:00pm, 3:40pm, 6:15pm, 8:50pm), Tue 5/30 (11:30am, 2:15pm, 6:15pm, 8:50pm), Wed 5/31 (11:30am, 2:15pm, 6:15pm, 8:50pm)
+
+    * [You Hurt My Feelings](https://drafthouse.com/raleigh/show/you-hurt-my-feelings): Fri 5/26 (12:55pm, 3:40pm, 9:40pm), Sat 5/27 (1:15pm, 4:00pm, 7:45pm, 10:25pm), Mon 5/29 (12:15pm, 2:55pm, 6:45pm, 9:20pm), Tue 5/30 (12:55pm, 3:35pm, 7:15pm, 9:55pm), Wed 5/31 (12:55pm, 3:35pm, 7:15pm, 9:55pm)
+
 ### Mon 5/22 6:18pm
 * New movies: About My Father, The Spy Who Loved Me
 
