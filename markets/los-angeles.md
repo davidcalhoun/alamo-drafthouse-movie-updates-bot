@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Mon 5/22 6:19am
+* New movies: Indiana Jones and the Dial of Destiny, Indiana Jones and the Dial of Destiny
+
+* New screenings: 
+    * [Brunch Screenings Indiana Jones And The Dial Of Destiny Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-indiana-jones-and-the-dial-of-destiny-brunch): Sat 7/1 (11:00am), Sun 7/2 (11:00am), Sat 7/8 (11:00am), Sun 7/9 (11:00am)
+
+    * [Indiana Jones And The Dial Of Destiny](https://drafthouse.com/los-angeles/show/indiana-jones-and-the-dial-of-destiny): Thu 6/29 (3:00pm, 5:30pm, 6:45pm, 9:15pm, 10:30pm), Fri 6/30 (11:00am, 11:30am, 2:45pm, 3:15pm, 6:30pm, 7:00pm, 10:15pm, 10:45pm), Sat 7/1 (11:30am, 2:45pm, 3:15pm, 6:30pm, 7:00pm, 10:15pm, 10:45pm), Sun 7/2 (12:00pm, 2:45pm, 3:45pm, 6:30pm, 7:30pm), Mon 7/3 (11:00am, 12:00pm, 2:45pm, 3:45pm, 6:30pm, 7:30pm), Tue 7/4 (11:00am, 12:00pm, 2:45pm, 3:45pm, 6:30pm, 7:30pm), Wed 7/5 (11:00am, 12:00pm, 2:45pm, 3:45pm, 6:30pm, 7:30pm), Thu 7/6 (2:45pm, 6:30pm, 10:15pm), Fri 7/7 (11:00am, 2:45pm, 6:30pm, 10:15pm), Sat 7/8 (2:45pm, 6:30pm, 10:15pm), Sun 7/9 (2:45pm, 6:30pm), Mon 7/10 (11:00am, 2:45pm, 6:30pm, 10:15pm), Tue 7/11 (11:00am, 2:45pm, 6:30pm, 10:15pm), Wed 7/12 (11:00am, 2:45pm, 6:30pm, 10:15pm)
+
 ### Wed 5/17 9:20am
 * New movies: By Hook or by Crook, Dressed in Blue, Glen or Glenda
 
