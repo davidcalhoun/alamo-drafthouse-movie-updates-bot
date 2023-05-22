@@ -1,6 +1,38 @@
 # raleigh
 
 ## Movie updates
+### Mon 5/22 6:18pm
+* New movies: About My Father, The Spy Who Loved Me
+
+* New screenings: 
+    * [About My Father](https://drafthouse.com/raleigh/show/about-my-father): Thu 5/25 (3:15pm, 7:15pm, 9:55pm)
+
+    * [Are You There God Its Me Margaret](https://drafthouse.com/raleigh/show/are-you-there-god-its-me-margaret): Thu 5/25 (1:00pm)
+
+    * [Blackberry](https://drafthouse.com/raleigh/show/blackberry): Thu 5/25 (1:25pm)
+
+    * [Book Club The Next Chapter](https://drafthouse.com/raleigh/show/book-club-the-next-chapter): Thu 5/25 (2:00pm)
+
+    * [Evil Dead Rise](https://drafthouse.com/raleigh/show/evil-dead-rise): Thu 5/25 (10:50pm)
+
+    * [Fast X](https://drafthouse.com/raleigh/show/fast-x): Thu 5/25 (11:30am, 4:15pm, 6:45pm, 10:10pm)
+
+    * [Guardians Of The Galaxy Vol 3](https://drafthouse.com/raleigh/show/guardians-of-the-galaxy-vol-3): Thu 5/25 (11:15am, 12:45pm, 1:45pm, 2:45pm, 6:15pm, 7:45pm, 9:50pm)
+
+    * [Master Gardener](https://drafthouse.com/raleigh/show/master-gardener): Thu 5/25 (3:50pm)
+
+    * [Robots 2023](https://drafthouse.com/raleigh/show/robots-2023): Thu 5/25 (11:00am)
+
+    * [The Innocent](https://drafthouse.com/raleigh/show/the-innocent): Thu 5/25 (11:55am)
+
+    * [The Little Mermaid 2023](https://drafthouse.com/raleigh/show/the-little-mermaid-2023): Thu 5/25 (3:30pm, 5:00pm, 8:30pm, 9:30pm)
+
+    * [The Spy Who Loved Me](https://drafthouse.com/raleigh/show/the-spy-who-loved-me): Thu 5/25 (12:15pm)
+
+    * [The Super Mario Bros Movie](https://drafthouse.com/raleigh/show/the-super-mario-bros-movie): Thu 5/25 (12:40pm, 2:40pm, 6:00pm, 8:35pm)
+
+    * [You Hurt My Feelings](https://drafthouse.com/raleigh/show/you-hurt-my-feelings): Thu 5/25 (4:30pm, 9:40pm)
+
 ### Mon 5/22 9:22am
 * New movies: Indiana Jones and the Dial of Destiny, Indiana Jones and the Dial of Destiny
 
