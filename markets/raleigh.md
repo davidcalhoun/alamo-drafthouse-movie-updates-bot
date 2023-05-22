@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Mon 5/22 9:22am
+* New movies: Indiana Jones and the Dial of Destiny, Indiana Jones and the Dial of Destiny
+
+* New screenings: 
+    * [Brunch Screenings Indiana Jones And The Dial Of Destiny Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-indiana-jones-and-the-dial-of-destiny-brunch): Sat 7/1 (11:00am), Sun 7/2 (11:00am)
+
+    * [Indiana Jones And The Dial Of Destiny](https://drafthouse.com/raleigh/show/indiana-jones-and-the-dial-of-destiny): Thu 6/29 (3:00pm, 6:45pm, 10:30pm), Fri 6/30 (11:00am, 2:45pm, 6:30pm, 10:15pm), Sat 7/1 (2:45pm, 6:30pm, 10:15pm), Sun 7/2 (2:45pm, 6:30pm, 10:15pm), Mon 7/3 (11:30am, 3:15pm)
+
 ### Fri 5/19 9:36pm
 
 * New screenings: 
