@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 5/22 1:16pm
+* New movies: The Bad Guys
+
+* New screenings: 
+    * [Kids Camp The Bad Guys](https://drafthouse.com/los-angeles/show/kids-camp-the-bad-guys): Tue 5/30 (11:00am)
+
 ### Mon 5/22 6:19am
 * New movies: Indiana Jones and the Dial of Destiny, Indiana Jones and the Dial of Destiny
 
