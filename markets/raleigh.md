@@ -1,6 +1,25 @@
 # raleigh
 
 ## Movie updates
+### Mon 5/22 9:39pm
+
+* New screenings: 
+    * [About My Father](https://drafthouse.com/raleigh/show/about-my-father): Sun 5/28 (1:30pm, 4:40pm, 7:15pm, 9:50pm)
+
+    * [Blackberry](https://drafthouse.com/raleigh/show/blackberry): Sun 5/28 (10:50pm)
+
+    * [Fast X](https://drafthouse.com/raleigh/show/fast-x): Sun 5/28 (11:15am, 3:15pm, 4:45pm, 6:45pm, 10:15pm)
+
+    * [Guardians Of The Galaxy Vol 3](https://drafthouse.com/raleigh/show/guardians-of-the-galaxy-vol-3): Sun 5/28 (11:40am, 12:55pm, 2:40pm, 4:10pm, 6:15pm, 8:15pm, 9:45pm)
+
+    * [Master Gardener](https://drafthouse.com/raleigh/show/master-gardener): Sun 5/28 (1:45pm)
+
+    * [The Little Mermaid 2023](https://drafthouse.com/raleigh/show/the-little-mermaid-2023): Sun 5/28 (11:00am, 2:30pm, 4:30pm, 7:00pm, 8:00pm, 10:20pm)
+
+    * [The Super Mario Bros Movie](https://drafthouse.com/raleigh/show/the-super-mario-bros-movie): Sun 5/28 (11:30am, 2:10pm, 6:00pm, 8:35pm)
+
+    * [You Hurt My Feelings](https://drafthouse.com/raleigh/show/you-hurt-my-feelings): Sun 5/28 (1:25pm, 4:15pm, 7:45pm, 10:25pm)
+
 ### Mon 5/22 7:18pm
 
 * New screenings: 
