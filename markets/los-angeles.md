@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 5/22 7:34pm
+
+* New screenings: 
+    * [Fast X](https://drafthouse.com/los-angeles/show/fast-x): Sun 5/28 (7:45pm)
+
 ### Mon 5/22 6:20pm
 * New movies: About My Father, Shin Ultraman Dubbed
 
