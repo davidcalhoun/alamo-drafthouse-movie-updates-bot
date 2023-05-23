@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 5/23 5:16pm
+
+* New screenings: 
+    * [Movie Party Scott Pilgrim Vs The World](https://drafthouse.com/raleigh/show/movie-party-scott-pilgrim-vs-the-world): Tue 6/27 (7:30pm)
+
 ### Tue 5/23 12:24pm
 * New movies: The Flash 2023
 
