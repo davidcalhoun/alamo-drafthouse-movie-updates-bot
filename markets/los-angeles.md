@@ -1,6 +1,46 @@
 # los-angeles
 
 ## Movie updates
+### Mon 5/22 6:20pm
+* New movies: About My Father, Shin Ultraman Dubbed
+
+* New screenings: 
+    * [About My Father](https://drafthouse.com/los-angeles/show/about-my-father): Thu 5/25 (6:10pm, 9:00pm), Fri 5/26 (12:45pm, 3:30pm, 7:15pm, 10:40pm), Sat 5/27 (12:45pm, 3:30pm, 6:20pm, 10:20pm), Sun 5/28 (12:15pm, 4:15pm, 8:00pm, 10:00pm), Mon 5/29 (12:50pm, 3:40pm, 6:30pm, 9:15pm), Tue 5/30 (1:00pm, 3:45pm, 6:30pm, 9:15pm), Wed 5/31 (1:10pm, 3:50pm, 6:35pm, 9:20pm)
+
+    * [Are You There God Its Me Margaret](https://drafthouse.com/los-angeles/show/are-you-there-god-its-me-margaret): Thu 5/25 (3:30pm)
+
+    * [Beau Is Afraid](https://drafthouse.com/los-angeles/show/beau-is-afraid): Thu 5/25 (2:45pm, 8:45pm), Fri 5/26 (12:35pm, 9:20pm), Sat 5/27 (9:10pm), Sun 5/28 (9:10pm), Mon 5/29 (8:30pm), Wed 5/31 (12:30pm)
+
+    * [Blackberry](https://drafthouse.com/los-angeles/show/blackberry): Thu 5/25 (3:00pm), Fri 5/26 (11:10am), Sat 5/27 (10:25pm), Sun 5/28 (9:30pm), Mon 5/29 (2:30pm), Tue 5/30 (5:00pm), Wed 5/31 (1:15pm)
+
+    * [Brunch Screenings The Little Mermaid 2023 Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-the-little-mermaid-2023-brunch): Sat 5/27 (11:15am)
+
+    * [Fast X](https://drafthouse.com/los-angeles/show/fast-x): Thu 5/25 (10:00pm), Sat 5/27 (5:30pm), Sun 5/28 (10:30pm), Mon 5/29 (10:15pm), Tue 5/30 (11:30am, 3:10pm, 6:45pm, 10:15pm), Wed 5/31 (12:35pm, 2:30pm, 6:25pm, 10:15pm)
+
+    * [Goldeneye](https://drafthouse.com/los-angeles/show/goldeneye): Sat 5/27 (4:45pm), Tue 5/30 (1:50pm)
+
+    * [Guardians Of The Galaxy Vol 3](https://drafthouse.com/los-angeles/show/guardians-of-the-galaxy-vol-3): Thu 5/25 (3:00pm, 3:45pm, 6:00pm, 9:45pm), Fri 5/26 (11:00am, 2:45pm, 3:45pm, 6:30pm, 10:15pm), Sat 5/27 (11:00am, 2:45pm, 6:30pm, 10:15pm), Sun 5/28 (11:00am, 2:45pm, 6:30pm, 10:15pm), Mon 5/29 (11:00am, 2:45pm, 6:30pm, 10:15pm), Tue 5/30 (11:00am, 2:45pm, 6:30pm, 10:15pm), Wed 5/31 (11:00am, 2:45pm, 6:00pm, 9:45pm)
+
+    * [Master Gardener](https://drafthouse.com/los-angeles/show/master-gardener): Thu 5/25 (4:35pm, 7:45pm, 10:45pm), Fri 5/26 (1:00pm, 4:10pm, 7:30pm), Sat 5/27 (1:00pm, 4:15pm, 7:25pm), Sun 5/28 (12:10pm, 3:25pm, 7:00pm), Mon 5/29 (1:15pm, 4:20pm, 7:30pm, 10:30pm), Tue 5/30 (1:15pm, 4:20pm, 7:30pm, 10:30pm), Wed 5/31 (12:10pm, 3:15pm, 6:30pm, 9:35pm)
+
+    * [Moon Garden](https://drafthouse.com/los-angeles/show/moon-garden): Fri 5/26 (4:45pm), Sat 5/27 (2:40pm), Wed 5/31 (4:30pm)
+
+    * [Sanctuary](https://drafthouse.com/los-angeles/show/sanctuary): Thu 5/25 (3:30pm, 7:30pm, 10:15pm), Fri 5/26 (11:20am, 2:10pm, 5:00pm, 8:00pm, 10:50pm), Sat 5/27 (10:45am, 1:50pm, 4:40pm, 8:00pm, 10:50pm), Sun 5/28 (11:35am, 2:30pm, 6:30pm, 9:30pm), Mon 5/29 (12:30pm, 3:25pm, 6:15pm, 9:00pm), Tue 5/30 (12:30pm, 3:25pm, 6:15pm, 9:00pm), Wed 5/31 (12:40pm, 4:15pm, 6:15pm, 10:00pm)
+
+    * [Shin Ultraman Dubbed](https://drafthouse.com/los-angeles/show/shin-ultraman-dubbed): Fri 5/26 (10:45pm), Wed 5/31 (4:45pm)
+
+    * [Shin Ultraman Subtitled](https://drafthouse.com/los-angeles/show/shin-ultraman-subtitled): Tue 5/30 (8:15pm)
+
+    * [The Deer Hunter](https://drafthouse.com/los-angeles/show/the-deer-hunter): Tue 5/30 (12:40pm)
+
+    * [The Little Mermaid 2023](https://drafthouse.com/los-angeles/show/the-little-mermaid-2023): Thu 5/25 (5:15pm, 9:15pm), Fri 5/26 (5:30pm), Sat 5/27 (1:25pm), Sun 5/28 (7:45pm), Mon 5/29 (9:30pm), Wed 5/31 (11:15am, 2:40pm, 9:30pm)
+
+    * [The Starling Girl](https://drafthouse.com/los-angeles/show/the-starling-girl): Thu 5/25 (10:00pm), Fri 5/26 (11:45am, 2:20pm, 10:00pm), Sat 5/27 (11:45am, 3:00pm, 10:40pm), Sun 5/28 (11:45am, 3:00pm, 10:00pm), Mon 5/29 (11:20am, 3:00pm, 6:15pm, 9:20pm), Tue 5/30 (11:45am, 3:00pm, 6:15pm, 9:20pm), Wed 5/31 (12:50pm, 4:00pm, 7:15pm, 10:20pm)
+
+    * [The Super Mario Bros Movie](https://drafthouse.com/los-angeles/show/the-super-mario-bros-movie): Thu 5/25 (2:35pm, 6:30pm, 10:30pm), Fri 5/26 (1:00pm, 3:00pm, 6:15pm, 9:00pm), Sat 5/27 (11:20am, 2:00pm, 4:40pm, 7:20pm, 10:10pm), Sun 5/28 (10:45am, 1:30pm, 5:20pm, 7:15pm, 10:15pm), Mon 5/29 (12:15pm, 2:40pm, 5:20pm, 8:00pm, 10:45pm), Tue 5/30 (11:10am, 1:50pm, 4:35pm, 7:20pm, 10:00pm), Wed 5/31 (11:45am, 3:30pm, 7:30pm, 10:10pm)
+
+    * [You Hurt My Feelings](https://drafthouse.com/los-angeles/show/you-hurt-my-feelings): Mon 5/29 (10:30pm), Tue 5/30 (10:30pm), Wed 5/31 (10:30pm)
+
 ### Mon 5/22 1:16pm
 * New movies: The Bad Guys
 
