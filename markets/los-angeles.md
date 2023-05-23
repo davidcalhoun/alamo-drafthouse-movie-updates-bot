@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 5/23 9:20am
+* New movies: The Flash 2023, The Flash 2023
+
+* New screenings: 
+    * [Brunch Screenings The Flash 2023 Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-the-flash-2023-brunch): Sat 6/17 (11:45am), Sun 6/18 (11:45am), Sat 6/24 (11:20am), Sun 6/25 (11:20am)
+
+    * [The Flash 2023](https://drafthouse.com/los-angeles/show/the-flash-2023): Thu 6/15 (3:00pm, 5:25pm, 6:40pm, 9:00pm, 10:15pm), Fri 6/16 (11:00am, 11:45am, 2:35pm, 3:25pm, 6:15pm, 7:00pm, 9:55pm, 10:35pm), Sat 6/17 (11:00am, 2:35pm, 3:25pm, 6:15pm, 7:00pm, 9:55pm, 10:35pm), Sun 6/18 (11:00am, 2:35pm, 3:25pm, 6:15pm, 7:00pm), Mon 6/19 (11:00am, 11:45am, 2:40pm, 3:20pm, 6:15pm, 7:00pm, 9:50pm), Tue 6/20 (11:00am, 11:45am, 2:40pm, 3:20pm, 6:15pm, 7:00pm, 9:50pm), Wed 6/21 (11:00am, 11:45am, 2:40pm, 3:20pm, 6:15pm, 7:00pm, 9:50pm), Thu 6/22 (3:25pm, 6:00pm, 9:40pm), Fri 6/23 (11:20am, 3:00pm, 6:40pm, 10:20pm), Sat 6/24 (3:00pm, 6:40pm, 10:20pm), Sun 6/25 (3:00pm, 6:40pm), Mon 6/26 (11:20am, 3:00pm, 6:40pm), Tue 6/27 (11:20am, 3:00pm, 6:40pm), Wed 6/28 (11:20am, 3:00pm, 6:40pm)
+
 ### Mon 5/22 7:34pm
 
 * New screenings: 
