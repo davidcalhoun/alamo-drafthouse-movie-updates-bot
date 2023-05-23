@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 5/23 12:24pm
+* New movies: The Flash 2023
+
+* New screenings: 
+    * [The Flash 2023](https://drafthouse.com/raleigh/show/the-flash-2023): Thu 6/15 (3:30pm, 7:00pm, 10:30pm), Fri 6/16 (11:30am, 3:30pm, 7:00pm, 10:30pm), Sat 6/17 (3:30pm, 7:00pm, 10:30pm), Sun 6/18 (3:30pm, 7:00pm, 10:30pm), Mon 6/19 (11:30am, 2:00pm, 3:00pm, 5:30pm, 6:30pm, 9:00pm, 10:00pm), Tue 6/20 (12:00pm, 3:30pm, 6:00pm, 10:30pm), Wed 6/21 (11:30am, 6:00pm), Thu 6/22 (1:00pm, 4:30pm)
+
 ### Mon 5/22 9:39pm
 
 * New screenings: 
