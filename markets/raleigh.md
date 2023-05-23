@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 5/23 7:18pm
+* New movies: The Little Mermaid 2023
+
+
+
 ### Tue 5/23 5:16pm
 
 * New screenings: 
