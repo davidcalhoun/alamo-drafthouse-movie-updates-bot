@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Wed 5/24 5:30am
+* New movies: Asteroid City, Asteroid City, Asteroid City, Asteroid City
+
+* New screenings: 
+    * [Asteroid City](https://drafthouse.com/los-angeles/show/asteroid-city): Thu 6/22 (7:00pm, 10:00pm), Fri 6/23 (11:00am, 12:15pm, 1:55pm, 3:15pm, 4:50pm, 6:15pm, 7:45pm, 9:15pm, 10:45pm), Sat 6/24 (12:15pm, 1:55pm, 3:15pm, 4:50pm, 6:15pm, 7:45pm, 9:15pm, 10:45pm), Sun 6/25 (11:00am, 12:15pm, 2:00pm, 3:15pm, 5:00pm, 6:15pm, 8:00pm), Mon 6/26 (11:00am, 12:15pm, 2:00pm, 3:15pm, 5:00pm, 6:15pm, 8:00pm, 9:15pm), Tue 6/27 (11:00am, 12:15pm, 2:00pm, 3:15pm, 5:00pm, 6:15pm, 8:00pm, 9:15pm), Wed 6/28 (11:00am, 12:15pm, 1:55pm, 3:15pm, 4:50pm, 7:45pm, 9:15pm), Thu 6/29 (2:30pm, 6:30pm, 9:30pm), Fri 6/30 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 7/1 (3:00pm, 6:00pm, 9:00pm), Sun 7/2 (11:00am, 2:00pm, 5:00pm, 8:00pm), Mon 7/3 (12:00pm, 3:00pm, 6:00pm), Tue 7/4 (12:00pm, 3:00pm, 6:00pm), Wed 7/5 (12:00pm, 3:00pm, 6:00pm)
+
+    * [Brunch Screenings Asteroid City Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-asteroid-city-brunch): Sat 6/24 (11:00am), Sat 7/1 (12:00pm)
+
+    * [Livestream Q A Asteroid City Advance Screening](https://drafthouse.com/los-angeles/show/livestream-q-a-asteroid-city-advance-screening): Mon 6/12 (7:00pm)
+
+    * [Special Menu Asteroid City Chili Supper Screening](https://drafthouse.com/los-angeles/show/special-menu-asteroid-city-chili-supper-screening): Wed 6/28 (6:15pm)
+
 ### Wed 5/24 1:19am
 * New movies: Sonic the Hedgehog, Babe: Pig in the City, Batman: Mask of the Phantasm, DC League of Super-Pets, Free Willy, Goosebumps 2: Haunted Halloween, Hotel Transylvania 2, How to Train Your Dragon 2, The Angry Birds Movie, The Land Before Time, The Mitchells vs. The Machines, Trolls World Tour, Jaws 1975, Pokemon Detective Pikachu, The Lego Movie 2: The Second Part, Unidentified Objects, KUNG FU PANDA 2, WHERE THE WILD THINGS ARE
 
