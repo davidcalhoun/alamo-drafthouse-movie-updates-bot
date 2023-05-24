@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Wed 5/24 8:36am
+* New movies: Asteroid City, Asteroid City, Asteroid City
+
+* New screenings: 
+    * [Asteroid City](https://drafthouse.com/raleigh/show/asteroid-city): Thu 6/22 (8:00pm, 10:50pm), Fri 6/23 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Sat 6/24 (11:00am, 6:30pm, 9:30pm), Sun 6/25 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Mon 6/26 (1:15pm, 4:10pm), Tue 6/27 (12:50pm, 3:40pm, 6:30pm), Wed 6/28 (12:45pm, 3:40pm, 10:00pm), Thu 6/29 (12:00pm)
+
+    * [Livestream Q A Asteroid City Advance Screening](https://drafthouse.com/raleigh/show/livestream-q-a-asteroid-city-advance-screening): Mon 6/12 (7:00pm)
+
+    * [Special Menu Asteroid City Chili Supper Screening](https://drafthouse.com/raleigh/show/special-menu-asteroid-city-chili-supper-screening): Wed 6/28 (7:00pm)
+
 ### Tue 5/23 7:18pm
 * New movies: The Little Mermaid 2023
 
