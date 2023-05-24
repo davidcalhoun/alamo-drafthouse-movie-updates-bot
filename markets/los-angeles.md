@@ -1,6 +1,46 @@
 # los-angeles
 
 ## Movie updates
+### Wed 5/24 1:19am
+* New movies: Sonic the Hedgehog, Babe: Pig in the City, Batman: Mask of the Phantasm, DC League of Super-Pets, Free Willy, Goosebumps 2: Haunted Halloween, Hotel Transylvania 2, How to Train Your Dragon 2, The Angry Birds Movie, The Land Before Time, The Mitchells vs. The Machines, Trolls World Tour, Jaws 1975, Pokemon Detective Pikachu, The Lego Movie 2: The Second Part, Unidentified Objects, KUNG FU PANDA 2, WHERE THE WILD THINGS ARE
+
+* New screenings: 
+    * [Kids Camp Babe Pig In The City](https://drafthouse.com/los-angeles/show/kids-camp-babe-pig-in-the-city): Mon 7/10 (11:00am)
+
+    * [Kids Camp Batman Mask Of The Phantasm](https://drafthouse.com/los-angeles/show/kids-camp-batman-mask-of-the-phantasm): Fri 6/23 (11:00am)
+
+    * [Kids Camp Dc League Of Super Pets](https://drafthouse.com/los-angeles/show/kids-camp-dc-league-of-super-pets): Fri 6/30 (11:00am)
+
+    * [Kids Camp Free Willy](https://drafthouse.com/los-angeles/show/kids-camp-free-willy): Fri 7/14 (11:00am)
+
+    * [Kids Camp Goosebumps 2 Haunted Halloween](https://drafthouse.com/los-angeles/show/kids-camp-goosebumps-2-haunted-halloween): Mon 7/24 (11:00am)
+
+    * [Kids Camp Hotel Transylvania 2](https://drafthouse.com/los-angeles/show/kids-camp-hotel-transylvania-2): Fri 7/28 (11:00am)
+
+    * [Kids Camp How To Train Your Dragon 2](https://drafthouse.com/los-angeles/show/kids-camp-how-to-train-your-dragon-2): Mon 7/17 (11:00am)
+
+    * [Kids Camp Kung Fu Panda 2](https://drafthouse.com/los-angeles/show/kids-camp-kung-fu-panda-2): Fri 9/1 (11:00am)
+
+    * [Kids Camp Sonic The Hedgehog](https://drafthouse.com/los-angeles/show/kids-camp-sonic-the-hedgehog): Mon 6/5 (11:00am)
+
+    * [Kids Camp The Angry Birds Movie](https://drafthouse.com/los-angeles/show/kids-camp-the-angry-birds-movie): Mon 6/12 (11:00am)
+
+    * [Kids Camp The Land Before Time](https://drafthouse.com/los-angeles/show/kids-camp-the-land-before-time): Mon 6/26 (11:00am)
+
+    * [Kids Camp The Lego Movie 2 The Second Part](https://drafthouse.com/los-angeles/show/kids-camp-the-lego-movie-2-the-second-part): Fri 8/4 (11:00am)
+
+    * [Kids Camp The Mitchells Vs The Machines](https://drafthouse.com/los-angeles/show/kids-camp-the-mitchells-vs-the-machines): Mon 6/19 (11:00am)
+
+    * [Kids Camp Trolls World Tour](https://drafthouse.com/los-angeles/show/kids-camp-trolls-world-tour): Fri 7/7 (11:00am)
+
+    * [Signature Programming Jaws 1975](https://drafthouse.com/los-angeles/show/signature-programming-jaws-1975): Tue 7/4 (7:00pm)
+
+    * [Special Event Pokemon Detective Pikachu Kids Camp](https://drafthouse.com/los-angeles/show/special-event-pokemon-detective-pikachu-kids-camp): Fri 6/9 (11:00am)
+
+    * [Unidentified Objects](https://drafthouse.com/los-angeles/show/unidentified-objects): Wed 6/14 (7:30pm)
+
+    * [Where The Wild Things Are](https://drafthouse.com/los-angeles/show/where-the-wild-things-are): Fri 8/18 (11:00am)
+
 ### Tue 5/23 6:22pm
 * New movies: The Little Mermaid 2023
 
