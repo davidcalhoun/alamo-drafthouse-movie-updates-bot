@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 5/24 10:13am
+* New movies: ODESZA: The Last Goodbye Cinematic Experience
+
+* New screenings: 
+    * [Odesza The Last Goodbye Cinematic Experience](https://drafthouse.com/los-angeles/show/odesza-the-last-goodbye-cinematic-experience): Fri 7/7 (9:00pm)
+
 ### Wed 5/24 5:30am
 * New movies: Asteroid City, Asteroid City, Asteroid City, Asteroid City
 
