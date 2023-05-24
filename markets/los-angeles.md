@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 5/23 6:22pm
+* New movies: The Little Mermaid 2023
+
+
+
 ### Tue 5/23 9:20am
 * New movies: The Flash 2023, The Flash 2023
 
