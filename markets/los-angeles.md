@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 5/25 6:19am
+* New movies: Past Lives
+
+* New screenings: 
+    * [Drafthouse Recommends Past Lives Advance Screening W Live Q A](https://drafthouse.com/los-angeles/show/drafthouse-recommends-past-lives-advance-screening-w-live-q-a): Tue 6/6 (5:30pm)
+
 ### Wed 5/24 7:33pm
 * New movies: Times Square
 
