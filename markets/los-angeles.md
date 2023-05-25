@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 5/24 7:33pm
+* New movies: Times Square
+
+* New screenings: 
+    * [Times Square](https://drafthouse.com/los-angeles/show/times-square): Wed 7/5 (8:00pm)
+
 ### Wed 5/24 10:13am
 * New movies: ODESZA: The Last Goodbye Cinematic Experience
 
