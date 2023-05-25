@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 5/25 4:15pm
+* New movies: All Man: The International Male Story
+
+* New screenings: 
+    * [Live Q A All Man The International Male Story](https://drafthouse.com/los-angeles/show/live-q-a-all-man-the-international-male-story): Mon 6/5 (7:00pm)
+
+    * [Special Event The Howling 4k Restoration](https://drafthouse.com/los-angeles/show/special-event-the-howling-4k-restoration): Wed 6/7 (10:00pm)
+
 ### Thu 5/25 2:13pm
 * New movies: But I'm a Cheerleader
 
