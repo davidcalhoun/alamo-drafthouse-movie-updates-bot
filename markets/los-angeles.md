@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 5/25 2:13pm
+* New movies: But I'm a Cheerleader
+
+* New screenings: 
+    * [Signature Programming But Im A Cheerleader Brunch](https://drafthouse.com/los-angeles/show/signature-programming-but-im-a-cheerleader-brunch): Sat 6/3 (11:00am)
+
+    * [Spider Man Across The Spider Verse](https://drafthouse.com/los-angeles/show/spider-man-across-the-spider-verse): Mon 6/5 (9:30pm)
+
 ### Thu 5/25 11:19am
 
 * New screenings: 
