@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Thu 5/25 11:19am
+
+* New screenings: 
+    * [Blackberry](https://drafthouse.com/los-angeles/show/blackberry): Sat 5/27 (10:40pm)
+
+    * [The Little Mermaid 2023](https://drafthouse.com/los-angeles/show/the-little-mermaid-2023): Thu 5/25 (10:00pm), Fri 5/26 (10:00pm), Sat 5/27 (5:30pm, 10:25pm), Sun 5/28 (7:45pm, 9:30pm)
+
 ### Thu 5/25 6:19am
 * New movies: Past Lives
 
