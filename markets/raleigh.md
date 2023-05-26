@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 5/26 11:18am
+* New movies: Trolls World Tour
+
+* New screenings: 
+    * [Kids Camp Trolls World Tour](https://drafthouse.com/raleigh/show/kids-camp-trolls-world-tour): Wed 7/12 (11:00am)
+
 ### Wed 5/24 8:36am
 * New movies: Asteroid City, Asteroid City, Asteroid City
 
