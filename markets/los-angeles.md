@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 5/25 10:14pm
+
+* New screenings: 
+    * [Shin Ultraman Subtitled](https://drafthouse.com/los-angeles/show/shin-ultraman-subtitled): Fri 5/26 (10:45pm), Wed 5/31 (4:45pm)
+
 ### Thu 5/25 4:15pm
 * New movies: All Man: The International Male Story
 
