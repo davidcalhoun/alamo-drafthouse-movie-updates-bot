@@ -1,6 +1,15 @@
 # raleigh
 
 ## Movie updates
+### Fri 5/26 3:14pm
+
+* New screenings: 
+    * [Elemental](https://drafthouse.com/raleigh/show/elemental): Thu 6/15 (3:00pm)
+
+    * [Indiana Jones And The Dial Of Destiny](https://drafthouse.com/raleigh/show/indiana-jones-and-the-dial-of-destiny): Mon 7/3 (10:15pm)
+
+    * [The Flash 2023](https://drafthouse.com/raleigh/show/the-flash-2023): Thu 6/15 (8:00pm)
+
 ### Fri 5/26 11:18am
 * New movies: Trolls World Tour
 
