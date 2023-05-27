@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Sat 5/27 11:17am
+* New movies: The Birdcage
+
+* New screenings: 
+    * [The Birdcage Brunch](https://drafthouse.com/raleigh/show/the-birdcage-brunch): Sun 6/18 (11:00am)
+
 ### Fri 5/26 3:14pm
 
 * New screenings: 
