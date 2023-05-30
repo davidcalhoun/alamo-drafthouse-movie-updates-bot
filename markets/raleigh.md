@@ -1,6 +1,25 @@
 # raleigh
 
 ## Movie updates
+### Tue 5/30 3:14pm
+
+* New screenings: 
+    * [About My Father](https://drafthouse.com/raleigh/show/about-my-father): Sun 6/4 (1:15pm, 4:40pm, 8:15pm, 10:50pm), Mon 6/5 (12:25pm, 3:00pm, 5:40pm, 8:15pm, 10:50pm), Tue 6/6 (11:05am, 3:00pm, 5:40pm, 8:15pm, 10:50pm), Wed 6/7 (11:10am, 2:55pm, 5:40pm, 8:15pm, 10:50pm)
+
+    * [Fast X](https://drafthouse.com/raleigh/show/fast-x): Sun 6/4 (12:30pm, 4:50pm, 7:15pm, 10:40pm), Mon 6/5 (11:15am, 1:30pm, 3:20pm, 6:45pm, 10:10pm), Tue 6/6 (11:30am, 3:20pm, 4:00pm, 6:45pm, 10:10pm), Wed 6/7 (11:15am, 11:45am, 3:20pm, 6:45pm, 10:10pm)
+
+    * [Guardians Of The Galaxy Vol 3](https://drafthouse.com/raleigh/show/guardians-of-the-galaxy-vol-3): Sun 6/4 (12:55pm, 4:05pm, 6:45pm, 10:20pm), Mon 6/5 (11:25am, 11:45am, 2:40pm, 6:15pm, 9:45pm), Tue 6/6 (11:10am, 11:45am, 2:40pm, 6:15pm, 9:55pm), Wed 6/7 (11:50am, 2:40pm, 3:15pm, 6:15pm, 9:50pm)
+
+    * [Spider Man Across The Spider Verse](https://drafthouse.com/raleigh/show/spider-man-across-the-spider-verse): Sun 6/4 (1:00pm, 1:30pm, 4:00pm, 4:30pm, 5:00pm, 8:00pm, 8:30pm), Mon 6/5 (3:00pm, 5:00pm, 10:00pm), Tue 6/6 (9:45pm), Wed 6/7 (7:00pm, 10:25pm), Thu 6/8 (11:00am, 1:30pm, 2:30pm, 5:00pm, 6:00pm, 8:30pm, 9:30pm)
+
+    * [The Boogeyman 2023](https://drafthouse.com/raleigh/show/the-boogeyman-2023): Sun 6/4 (12:40pm, 3:25pm, 7:30pm, 10:15pm), Mon 6/5 (11:50am, 1:45pm, 4:30pm, 7:15pm, 9:55pm), Tue 6/6 (11:55am, 1:45pm, 4:30pm, 7:15pm, 10:45pm), Wed 6/7 (12:15pm, 1:45pm, 4:30pm, 7:15pm, 9:55pm)
+
+    * [The Little Mermaid 2023](https://drafthouse.com/raleigh/show/the-little-mermaid-2023): Sun 6/4 (11:30am, 3:00pm, 6:30pm, 10:00pm), Mon 6/5 (12:30pm, 4:00pm, 6:30pm, 8:30pm, 9:50pm), Tue 6/6 (1:30pm, 5:00pm, 6:30pm, 8:30pm, 9:50pm), Wed 6/7 (11:30am, 3:00pm, 6:30pm, 9:50pm, 10:30pm)
+
+    * [The Super Mario Bros Movie](https://drafthouse.com/raleigh/show/the-super-mario-bros-movie): Sun 6/4 (11:40am, 2:15pm, 6:15pm, 8:55pm), Mon 6/5 (11:10am, 2:35pm, 5:10pm, 7:45pm, 10:25pm), Tue 6/6 (12:10pm, 2:35pm, 5:10pm, 7:45pm, 10:25pm), Wed 6/7 (12:10pm, 2:35pm, 5:10pm, 7:45pm, 10:20pm)
+
+    * [You Hurt My Feelings](https://drafthouse.com/raleigh/show/you-hurt-my-feelings): Sun 6/4 (1:25pm, 4:10pm, 7:45pm, 10:25pm), Mon 6/5 (11:55am, 2:45pm, 5:20pm, 8:00pm, 10:40pm), Tue 6/6 (1:15pm, 2:45pm, 5:20pm, 8:00pm, 10:40pm), Wed 6/7 (12:00pm, 2:45pm, 5:20pm, 8:00pm, 10:40pm)
+
 ### Tue 5/30 2:23pm
 
 * New screenings: 
