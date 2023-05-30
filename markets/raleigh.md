@@ -1,6 +1,35 @@
 # raleigh
 
 ## Movie updates
+### Tue 5/30 2:23pm
+
+* New screenings: 
+    * [About My Father](https://drafthouse.com/raleigh/show/about-my-father): Thu 6/1 (1:00pm, 3:40pm, 7:15pm, 9:50pm), Fri 6/2 (12:40pm, 3:55pm, 7:45pm, 10:20pm)
+
+    * [Blackberry](https://drafthouse.com/raleigh/show/blackberry): Thu 6/1 (11:15am)
+
+    * [Fast X](https://drafthouse.com/raleigh/show/fast-x): Thu 6/1 (12:15pm, 3:50pm, 6:45pm, 10:10pm), Fri 6/2 (1:15pm, 4:15pm, 6:45pm, 10:10pm)
+
+    * [Goldeneye](https://drafthouse.com/raleigh/show/goldeneye): Thu 6/1 (1:45pm)
+
+    * [Guardians Of The Galaxy Vol 3](https://drafthouse.com/raleigh/show/guardians-of-the-galaxy-vol-3): Thu 6/1 (12:50pm, 4:30pm, 6:00pm, 9:30pm), Fri 6/2 (12:15pm, 3:15pm, 6:15pm, 9:45pm)
+
+    * [Master Gardener](https://drafthouse.com/raleigh/show/master-gardener): Thu 6/1 (4:50pm)
+
+    * [Spider Man Across The Spider Verse](https://drafthouse.com/raleigh/show/spider-man-across-the-spider-verse): Thu 6/1 (2:30pm, 4:00pm, 5:00pm, 8:30pm), Fri 6/2 (1:00pm, 1:30pm, 4:30pm, 5:00pm, 5:30pm, 8:30pm, 9:00pm)
+
+    * [Stalker](https://drafthouse.com/raleigh/show/stalker): Thu 6/1 (8:15pm)
+
+    * [The Boogeyman 2023](https://drafthouse.com/raleigh/show/the-boogeyman-2023): Fri 6/2 (11:55am, 2:45pm, 9:15pm)
+
+    * [The Little Mermaid 2023](https://drafthouse.com/raleigh/show/the-little-mermaid-2023): Thu 6/1 (12:30pm), Fri 6/2 (12:30pm, 4:00pm, 7:30pm, 10:50pm)
+
+    * [The Super Mario Bros Movie](https://drafthouse.com/raleigh/show/the-super-mario-bros-movie): Thu 6/1 (11:40am, 2:15pm, 6:15pm, 8:50pm), Fri 6/2 (12:55pm, 4:40pm, 7:55pm, 10:35pm)
+
+    * [Transformers Rise Of The Beasts](https://drafthouse.com/raleigh/show/transformers-rise-of-the-beasts): Mon 6/12 (9:55pm), Tue 6/13 (1:00pm, 4:15pm, 7:30pm, 10:40pm), Wed 6/14 (10:00pm)
+
+    * [You Hurt My Feelings](https://drafthouse.com/raleigh/show/you-hurt-my-feelings): Thu 6/1 (1:30pm, 4:10pm, 7:45pm, 10:25pm), Fri 6/2 (1:35pm, 3:40pm, 7:15pm, 9:50pm)
+
 ### Sat 5/27 11:17am
 * New movies: The Birdcage
 
