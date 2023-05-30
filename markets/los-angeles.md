@@ -1,6 +1,33 @@
 # los-angeles
 
 ## Movie updates
+### Tue 5/30 4:14pm
+
+* New screenings: 
+    * [About My Father](https://drafthouse.com/los-angeles/show/about-my-father): Thu 6/1 (2:00pm)
+
+    * [Beau Is Afraid](https://drafthouse.com/los-angeles/show/beau-is-afraid): Thu 6/1 (9:00pm), Fri 6/2 (8:00pm), Sat 6/3 (7:45pm), Sun 6/4 (5:30pm), Mon 6/5 (12:50pm, 8:00pm), Tue 6/6 (7:35pm), Wed 6/7 (2:45pm)
+
+    * [Fast X](https://drafthouse.com/los-angeles/show/fast-x): Thu 6/1 (3:15pm, 7:00pm, 10:30pm), Fri 6/2 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sat 6/3 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sun 6/4 (12:00pm, 3:30pm, 7:00pm), Mon 6/5 (12:00pm, 3:30pm, 7:00pm, 9:40pm), Tue 6/6 (12:00pm, 3:30pm, 7:00pm, 10:15pm), Wed 6/7 (12:00pm, 3:30pm, 7:00pm, 10:00pm)
+
+    * [Guardians Of The Galaxy Vol 3](https://drafthouse.com/los-angeles/show/guardians-of-the-galaxy-vol-3): Thu 6/1 (3:45pm, 6:15pm, 10:00pm), Fri 6/2 (11:00am, 2:45pm, 6:30pm, 10:15pm), Sat 6/3 (12:30pm, 3:00pm, 6:45pm, 10:30pm), Sun 6/4 (12:00pm, 3:45pm, 7:30pm), Mon 6/5 (12:00pm, 2:15pm, 6:00pm, 9:00pm), Tue 6/6 (11:00am, 2:45pm, 6:30pm, 10:00pm), Wed 6/7 (12:30pm, 4:15pm, 7:30pm, 10:00pm)
+
+    * [Master Gardener](https://drafthouse.com/los-angeles/show/master-gardener): Thu 6/1 (3:10pm), Fri 6/2 (5:10pm), Sat 6/3 (11:40am, 2:45pm), Sun 6/4 (11:10am, 2:20pm), Mon 6/5 (3:45pm), Tue 6/6 (11:30am, 4:30pm), Wed 6/7 (11:10am, 4:00pm)
+
+    * [Moon Garden](https://drafthouse.com/los-angeles/show/moon-garden): Fri 6/2 (1:45pm), Sat 6/3 (10:00pm), Sun 6/4 (8:30pm), Mon 6/5 (5:10pm), Tue 6/6 (9:40pm), Wed 6/7 (12:00pm)
+
+    * [Sanctuary](https://drafthouse.com/los-angeles/show/sanctuary): Thu 6/1 (3:40pm, 6:30pm), Fri 6/2 (12:30pm, 3:15pm, 6:15pm, 9:00pm), Sat 6/3 (11:45am, 3:15pm, 6:15pm, 9:00pm), Sun 6/4 (11:45am, 3:15pm, 6:15pm), Mon 6/5 (12:25pm, 3:15pm, 6:15pm, 9:00pm), Tue 6/6 (12:30pm, 3:15pm, 6:15pm, 9:00pm), Wed 6/7 (1:15pm, 3:15pm, 6:15pm, 9:00pm)
+
+    * [Spider Man Across The Spider Verse](https://drafthouse.com/los-angeles/show/spider-man-across-the-spider-verse): Thu 6/1 (2:20pm, 4:45pm, 6:00pm, 7:10pm, 8:15pm, 9:20pm, 9:35pm, 10:40pm), Fri 6/2 (11:45am, 3:15pm, 4:30pm, 6:45pm, 8:20pm, 10:15pm), Sat 6/3 (11:25am, 1:35pm, 4:15pm, 5:10pm, 8:45pm), Sun 6/4 (11:45am, 1:30pm, 3:15pm, 5:00pm, 6:45pm), Mon 6/5 (11:45am, 3:15pm, 6:45pm), Tue 6/6 (11:45am, 3:15pm, 6:45pm, 9:30pm), Wed 6/7 (11:45am, 3:15pm, 6:45pm, 9:30pm)
+
+    * [The Boogeyman 2023](https://drafthouse.com/los-angeles/show/the-boogeyman-2023): Mon 6/5 (11:15am, 2:00pm, 4:50pm, 7:45pm, 10:15pm), Tue 6/6 (11:15am, 2:00pm, 4:50pm, 7:45pm, 10:30pm), Wed 6/7 (11:15am, 2:00pm, 4:50pm, 7:45pm, 10:15pm)
+
+    * [The Little Mermaid 2023](https://drafthouse.com/los-angeles/show/the-little-mermaid-2023): Thu 6/1 (5:15pm, 8:45pm), Fri 6/2 (11:00am, 2:10pm, 5:40pm, 9:10pm), Sat 6/3 (11:30am, 2:00pm, 5:30pm, 9:00pm), Sun 6/4 (11:30am, 2:15pm, 5:45pm), Mon 6/5 (11:00am, 2:00pm, 5:30pm), Tue 6/6 (1:00pm, 2:00pm, 5:30pm, 9:00pm), Wed 6/7 (1:00pm, 2:15pm, 5:45pm, 9:15pm)
+
+    * [The Super Mario Bros Movie](https://drafthouse.com/los-angeles/show/the-super-mario-bros-movie): Thu 6/1 (2:30pm)
+
+    * [You Hurt My Feelings](https://drafthouse.com/los-angeles/show/you-hurt-my-feelings): Thu 6/1 (3:30pm, 6:15pm), Fri 6/2 (11:25am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Sat 6/3 (11:15am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Sun 6/4 (10:45am, 2:30pm, 5:15pm, 8:00pm), Mon 6/5 (11:15am, 2:30pm, 5:15pm, 8:00pm, 9:50pm), Tue 6/6 (11:15am, 2:30pm, 5:15pm, 8:00pm, 10:15pm), Wed 6/7 (12:30pm, 4:30pm, 7:15pm, 10:30pm)
+
 ### Thu 5/25 10:14pm
 
 * New screenings: 
