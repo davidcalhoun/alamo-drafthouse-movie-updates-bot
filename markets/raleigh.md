@@ -1,6 +1,25 @@
 # raleigh
 
 ## Movie updates
+### Tue 5/30 4:19pm
+
+* New screenings: 
+    * [About My Father](https://drafthouse.com/raleigh/show/about-my-father): Sat 6/3 (1:30pm, 4:40pm, 8:15pm, 10:50pm)
+
+    * [Fast X](https://drafthouse.com/raleigh/show/fast-x): Sat 6/3 (12:45pm, 4:20pm, 7:15pm, 10:40pm)
+
+    * [Guardians Of The Galaxy Vol 3](https://drafthouse.com/raleigh/show/guardians-of-the-galaxy-vol-3): Sat 6/3 (1:00pm, 4:45pm, 6:45pm, 10:20pm)
+
+    * [Spider Man Across The Spider Verse](https://drafthouse.com/raleigh/show/spider-man-across-the-spider-verse): Sat 6/3 (12:00pm, 2:00pm, 3:30pm, 5:00pm, 5:30pm, 8:30pm, 9:00pm, 9:30pm)
+
+    * [The Boogeyman 2023](https://drafthouse.com/raleigh/show/the-boogeyman-2023): Sat 6/3 (11:30am, 3:25pm, 7:00pm)
+
+    * [The Little Mermaid 2023](https://drafthouse.com/raleigh/show/the-little-mermaid-2023): Sat 6/3 (11:00am, 1:15pm, 2:30pm, 6:00pm, 9:45pm)
+
+    * [The Super Mario Bros Movie](https://drafthouse.com/raleigh/show/the-super-mario-bros-movie): Sat 6/3 (11:15am, 2:15pm, 6:15pm, 8:55pm)
+
+    * [You Hurt My Feelings](https://drafthouse.com/raleigh/show/you-hurt-my-feelings): Sat 6/3 (12:50pm, 4:05pm, 7:45pm, 10:20pm)
+
 ### Tue 5/30 3:14pm
 
 * New screenings: 
