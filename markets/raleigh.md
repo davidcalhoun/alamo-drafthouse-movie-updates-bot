@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Wed 5/31 2:23pm
+* New movies: Metallica: M72 World Tour Live from Arlington, TX, Night 1, Metallica: M72 World Tour Live from Arlington, TX, Night 2
+
+* New screenings: 
+    * [Metallica M72 World Tour Live From Arlington Tx Night 1](https://drafthouse.com/raleigh/show/metallica-m72-world-tour-live-from-arlington-tx-night-1): Fri 8/18 (9:15pm), Sat 8/19 (9:00pm)
+
+    * [Metallica M72 World Tour Live From Arlington Tx Night 2](https://drafthouse.com/raleigh/show/metallica-m72-world-tour-live-from-arlington-tx-night-2): Sun 8/20 (9:15pm), Mon 8/21 (9:00pm)
+
 ### Tue 5/30 4:19pm
 
 * New screenings: 
