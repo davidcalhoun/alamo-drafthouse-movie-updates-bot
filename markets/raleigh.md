@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 5/31 4:18pm
+* New movies: Shaolin Invincibles
+
+* New screenings: 
+    * [Weird Wednesday Shaolin Invincibles](https://drafthouse.com/raleigh/show/weird-wednesday-shaolin-invincibles): Wed 7/19 (9:30pm)
+
 ### Wed 5/31 3:14pm
 * New movies: DC League of Super-Pets
 
