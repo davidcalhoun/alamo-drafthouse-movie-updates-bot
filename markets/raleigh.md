@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Wed 5/31 6:18pm
+
+* New screenings: 
+    * [Elemental](https://drafthouse.com/raleigh/show/elemental): Thu 6/15 (6:15pm, 9:15pm)
+
 ### Wed 5/31 4:18pm
 * New movies: Shaolin Invincibles
 
