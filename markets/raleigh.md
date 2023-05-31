@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 5/31 3:14pm
+* New movies: DC League of Super-Pets
+
+* New screenings: 
+    * [Kids Camp Dc League Of Super Pets](https://drafthouse.com/raleigh/show/kids-camp-dc-league-of-super-pets): Mon 7/3 (11:00am)
+
 ### Wed 5/31 2:23pm
 * New movies: Metallica: M72 World Tour Live from Arlington, TX, Night 1, Metallica: M72 World Tour Live from Arlington, TX, Night 2
 
