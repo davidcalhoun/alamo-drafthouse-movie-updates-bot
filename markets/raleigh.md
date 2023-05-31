@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Wed 5/31 7:17pm
+
+* New screenings: 
+    * [Elemental](https://drafthouse.com/raleigh/show/elemental): Thu 6/22 (11:00am, 2:00pm, 5:00pm)
+
+    * [The Flash 2023](https://drafthouse.com/raleigh/show/the-flash-2023): Thu 6/22 (12:00pm, 3:30pm)
+
 ### Wed 5/31 6:18pm
 
 * New screenings: 
