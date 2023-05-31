@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 5/31 4:15pm
+* New movies: The Return of the Living Dead
+
+* New screenings: 
+    * [Graveyard Shift The Return Of The Living Dead](https://drafthouse.com/los-angeles/show/graveyard-shift-the-return-of-the-living-dead): Mon 7/3 (8:00pm)
+
 ### Tue 5/30 4:14pm
 
 * New screenings: 
