@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 6/1 4:15pm
+* New movies: Paddington 2
+
+* New screenings: 
+    * [Kids Camp Paddington 2](https://drafthouse.com/los-angeles/show/kids-camp-paddington-2): Mon 8/7 (11:00am)
+
 ### Thu 6/1 10:13am
 
 * New screenings: 
