@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 6/1 9:22am
+* New movies: The Blackening, The Blackening
+
+* New screenings: 
+    * [Advance Screening The Blackening Early Access Screening W Bonus Content](https://drafthouse.com/los-angeles/show/advance-screening-the-blackening-early-access-screening-w-bonus-content): Wed 6/14 (6:00pm)
+
+    * [The Blackening](https://drafthouse.com/los-angeles/show/the-blackening): Thu 6/15 (7:00pm, 9:50pm), Fri 6/16 (11:15am, 2:00pm, 4:50pm, 7:40pm, 10:30pm), Sat 6/17 (11:15am, 2:00pm, 4:50pm, 7:40pm, 10:30pm), Sun 6/18 (11:15am, 2:00pm, 4:50pm, 7:40pm)
+
 ### Thu 6/1 5:32am
 * New movies: Oppenheimer
 
