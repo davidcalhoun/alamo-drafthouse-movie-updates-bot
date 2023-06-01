@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 6/1 5:32am
+* New movies: Oppenheimer
+
+* New screenings: 
+    * [Oppenheimer](https://drafthouse.com/los-angeles/show/oppenheimer): Thu 7/20 (5:00pm, 9:15pm), Fri 7/21 (11:00am, 3:15pm, 7:30pm), Sat 7/22 (11:00am, 3:15pm, 7:30pm), Sun 7/23 (11:00am, 3:15pm, 7:30pm), Mon 7/24 (11:00am, 3:15pm, 7:30pm), Tue 7/25 (11:00am, 3:15pm, 7:30pm), Wed 7/26 (11:00am, 3:15pm, 7:30pm)
+
 ### Wed 5/31 4:15pm
 * New movies: The Return of the Living Dead
 
