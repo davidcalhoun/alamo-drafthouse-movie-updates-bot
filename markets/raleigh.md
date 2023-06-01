@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Thu 6/1 12:27pm
+* New movies: The Blackening, The Blackening
+
+* New screenings: 
+    * [Advance Screening The Blackening Early Access Screening W Bonus Content](https://drafthouse.com/raleigh/show/advance-screening-the-blackening-early-access-screening-w-bonus-content): Wed 6/14 (7:30pm)
+
+    * [The Blackening](https://drafthouse.com/raleigh/show/the-blackening): Thu 6/15 (6:45pm, 9:25pm)
+
 ### Wed 5/31 7:17pm
 
 * New screenings: 
