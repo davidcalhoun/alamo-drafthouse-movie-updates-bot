@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 6/1 10:13am
+
+* New screenings: 
+    * [Spider Man Across The Spider Verse](https://drafthouse.com/los-angeles/show/spider-man-across-the-spider-verse): Fri 6/2 (9:00pm), Sat 6/3 (10:30pm), Sun 6/4 (6:15pm)
+
 ### Thu 6/1 9:22am
 * New movies: The Blackening, The Blackening
 
