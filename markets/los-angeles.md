@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Fri 6/2 2:13pm
+* New movies: MADAGASCAR: ESCAPE 2 AFRICA
+
+* New screenings: 
+    * [Kids Camp Madagascar Escape 2 Africa](https://drafthouse.com/los-angeles/show/kids-camp-madagascar-escape-2-africa): Mon 8/21 (11:00am)
+
+    * [Oppenheimer](https://drafthouse.com/los-angeles/show/oppenheimer): Fri 7/28 (11:00am, 3:15pm, 7:30pm), Sat 7/29 (11:00am, 3:15pm, 7:30pm), Sun 7/30 (11:00am, 3:15pm, 7:30pm), Mon 7/31 (11:00am, 3:15pm, 7:30pm), Tue 8/1 (11:00am, 3:15pm, 7:30pm), Wed 8/2 (11:00am, 3:15pm, 7:30pm)
+
+    * [Spider Man Across The Spider Verse](https://drafthouse.com/los-angeles/show/spider-man-across-the-spider-verse): Fri 6/16 (11:30am, 3:00pm, 6:30pm, 10:00pm), Sat 6/17 (11:30am, 3:00pm, 6:30pm, 10:00pm), Sun 6/18 (11:30am, 3:00pm, 6:30pm), Mon 6/19 (11:30am, 3:00pm, 6:30pm), Tue 6/20 (11:30am, 3:00pm, 6:30pm), Wed 6/21 (11:30am, 3:00pm, 6:30pm)
+
 ### Fri 6/2 8:15am
 
 * New screenings: 
