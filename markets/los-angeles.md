@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 6/2 8:15am
+
+* New screenings: 
+    * [Spider Man Across The Spider Verse](https://drafthouse.com/los-angeles/show/spider-man-across-the-spider-verse): Sat 6/3 (1:00pm)
+
 ### Thu 6/1 6:42pm
 * New movies: Pufnstuf, Puss In Boots: The Last Wish
 
