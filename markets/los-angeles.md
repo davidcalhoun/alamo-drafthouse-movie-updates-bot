@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 6/1 6:42pm
+* New movies: Pufnstuf, Puss In Boots: The Last Wish
+
+* New screenings: 
+    * [Kids Camp Pufnstuf](https://drafthouse.com/los-angeles/show/kids-camp-pufnstuf): Mon 8/14 (11:00am)
+
+    * [Kids Camp Puss In Boots The Last Wish](https://drafthouse.com/los-angeles/show/kids-camp-puss-in-boots-the-last-wish): Fri 8/11 (11:00am)
+
 ### Thu 6/1 4:15pm
 * New movies: Paddington 2
 
