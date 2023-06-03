@@ -1,6 +1,48 @@
 # raleigh
 
 ## Movie updates
+### Sat 6/3 7:17pm
+* New movies: Dirty Dancing, The Return of the Living Dead, Interstellar, Babe: Pig in the City, Chicken Run, Free Willy, Goosebumps 2: Haunted Halloween, Hotel Transylvania 2, How to Train Your Dragon 2, Madagascar: Escape 2 Africa, Paddington 2, Pufnstuf, Puss In Boots: The Last Wish, The Iron Giant, The Lego Movie 2: The Second Part, Lady Bird, Magic 1978, SUPERBAD, WHERE THE WILD THINGS ARE
+
+* New screenings: 
+    * [Champagne Cinema Dirty Dancing](https://drafthouse.com/raleigh/show/champagne-cinema-dirty-dancing): Tue 6/13 (7:00pm)
+
+    * [Graveyard Shift The Return Of The Living Dead](https://drafthouse.com/raleigh/show/graveyard-shift-the-return-of-the-living-dead): Mon 7/3 (9:30pm)
+
+    * [Interstellar](https://drafthouse.com/raleigh/show/interstellar): Mon 7/17 (7:00pm)
+
+    * [Kids Camp Babe Pig In The City](https://drafthouse.com/raleigh/show/kids-camp-babe-pig-in-the-city): Mon 7/10 (11:00am)
+
+    * [Kids Camp Chicken Run](https://drafthouse.com/raleigh/show/kids-camp-chicken-run): Mon 8/28 (11:00am)
+
+    * [Kids Camp Free Willy](https://drafthouse.com/raleigh/show/kids-camp-free-willy): Tue 7/18 (11:00am)
+
+    * [Kids Camp Goosebumps 2 Haunted Halloween](https://drafthouse.com/raleigh/show/kids-camp-goosebumps-2-haunted-halloween): Mon 7/24 (11:00am)
+
+    * [Kids Camp Hotel Transylvania 2](https://drafthouse.com/raleigh/show/kids-camp-hotel-transylvania-2): Mon 7/31 (11:00am)
+
+    * [Kids Camp How To Train Your Dragon 2](https://drafthouse.com/raleigh/show/kids-camp-how-to-train-your-dragon-2): Mon 7/17 (11:00am)
+
+    * [Kids Camp Madagascar Escape 2 Africa](https://drafthouse.com/raleigh/show/kids-camp-madagascar-escape-2-africa): Tue 8/22 (11:00am)
+
+    * [Kids Camp Paddington 2](https://drafthouse.com/raleigh/show/kids-camp-paddington-2): Tue 8/8 (11:00am)
+
+    * [Kids Camp Pufnstuf](https://drafthouse.com/raleigh/show/kids-camp-pufnstuf): Mon 8/14 (11:00am)
+
+    * [Kids Camp Puss In Boots The Last Wish](https://drafthouse.com/raleigh/show/kids-camp-puss-in-boots-the-last-wish): Tue 8/15 (11:00am)
+
+    * [Kids Camp The Iron Giant](https://drafthouse.com/raleigh/show/kids-camp-the-iron-giant): Tue 8/29 (11:00am)
+
+    * [Kids Camp The Lego Movie 2 The Second Part](https://drafthouse.com/raleigh/show/kids-camp-the-lego-movie-2-the-second-part): Mon 8/7 (11:00am)
+
+    * [Lady Bird](https://drafthouse.com/raleigh/show/lady-bird): Sat 7/8 (11:00am)
+
+    * [Magic 1978](https://drafthouse.com/raleigh/show/magic-1978): Mon 7/10 (7:00pm)
+
+    * [Superbad](https://drafthouse.com/raleigh/show/superbad): Sun 7/30 (11:00am)
+
+    * [Where The Wild Things Are](https://drafthouse.com/raleigh/show/where-the-wild-things-are): Mon 8/21 (11:00am)
+
 ### Thu 6/1 12:27pm
 * New movies: The Blackening, The Blackening
 
