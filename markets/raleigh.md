@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Sat 6/3 10:11pm
+* New movies: KUNG FU PANDA 2
+
+* New screenings: 
+    * [Kids Camp Kung Fu Panda 2](https://drafthouse.com/raleigh/show/kids-camp-kung-fu-panda-2): Tue 9/5 (11:00am)
+
 ### Sat 6/3 7:17pm
 * New movies: Dirty Dancing, The Return of the Living Dead, Interstellar, Babe: Pig in the City, Chicken Run, Free Willy, Goosebumps 2: Haunted Halloween, Hotel Transylvania 2, How to Train Your Dragon 2, Madagascar: Escape 2 Africa, Paddington 2, Pufnstuf, Puss In Boots: The Last Wish, The Iron Giant, The Lego Movie 2: The Second Part, Lady Bird, Magic 1978, SUPERBAD, WHERE THE WILD THINGS ARE
 
