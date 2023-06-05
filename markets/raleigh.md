@@ -1,6 +1,25 @@
 # raleigh
 
 ## Movie updates
+### Mon 6/5 7:18pm
+
+* New screenings: 
+    * [Fast X](https://drafthouse.com/raleigh/show/fast-x): Mon 6/12 (11:50am, 2:50pm, 3:15pm, 6:45pm, 10:10pm), Tue 6/13 (11:45am, 2:50pm, 5:00pm, 6:45pm, 9:55pm), Wed 6/14 (11:30am, 3:50pm, 4:30pm, 6:45pm, 10:15pm)
+
+    * [Guardians Of The Galaxy Vol 3](https://drafthouse.com/raleigh/show/guardians-of-the-galaxy-vol-3): Mon 6/12 (1:00pm, 2:30pm, 4:40pm, 6:00pm, 9:30pm), Tue 6/13 (12:55pm, 3:10pm, 4:00pm, 6:15pm, 9:45pm), Wed 6/14 (12:15pm, 2:55pm, 4:55pm, 6:00pm, 9:35pm)
+
+    * [Spider Man Across The Spider Verse](https://drafthouse.com/raleigh/show/spider-man-across-the-spider-verse): Mon 6/12 (12:00pm, 12:30pm, 2:00pm, 3:30pm, 4:00pm, 5:30pm, 6:30pm, 9:00pm, 9:55pm, 10:20pm), Tue 6/13 (12:00pm, 1:30pm, 2:30pm, 3:30pm, 5:30pm, 6:00pm, 8:30pm, 9:00pm, 10:00pm, 10:30pm), Wed 6/14 (11:30am, 12:30pm, 1:00pm, 2:00pm, 5:30pm, 8:30pm, 9:00pm, 9:55pm, 10:30pm)
+
+    * [The Boogeyman 2023](https://drafthouse.com/raleigh/show/the-boogeyman-2023): Mon 6/12 (11:45am, 2:15pm, 5:00pm, 7:45pm, 10:45pm), Tue 6/13 (11:30am, 1:15pm, 4:30pm, 7:45pm, 10:45pm), Wed 6/14 (11:45am, 2:15pm, 5:00pm, 7:45pm, 10:30pm)
+
+    * [The Little Mermaid 2023](https://drafthouse.com/raleigh/show/the-little-mermaid-2023): Mon 6/12 (11:30am, 12:40pm, 3:00pm, 3:55pm, 6:15pm, 8:15pm, 9:35pm, 10:30pm), Tue 6/13 (11:40am, 2:00pm, 3:00pm, 4:55pm, 6:30pm, 8:15pm, 9:50pm), Wed 6/14 (12:00pm, 1:30pm, 2:30pm, 3:30pm, 4:00pm, 6:30pm, 8:00pm, 9:50pm)
+
+    * [The Super Mario Bros Movie](https://drafthouse.com/raleigh/show/the-super-mario-bros-movie): Mon 6/12 (11:15am, 12:15pm), Tue 6/13 (12:15pm, 2:15pm), Wed 6/14 (11:40am, 4:10pm)
+
+    * [Transformers Rise Of The Beasts](https://drafthouse.com/raleigh/show/transformers-rise-of-the-beasts): Mon 6/12 (11:00am, 7:30pm, 10:40pm), Tue 6/13 (11:15am, 10:15pm), Wed 6/14 (12:55pm)
+
+    * [You Hurt My Feelings](https://drafthouse.com/raleigh/show/you-hurt-my-feelings): Mon 6/12 (7:15pm), Tue 6/13 (7:15pm), Wed 6/14 (7:15pm)
+
 ### Mon 6/5 6:18pm
 
 * New screenings: 
