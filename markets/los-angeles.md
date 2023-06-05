@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 6/5 3:14pm
+* New movies: Come Back to the 5 and Dime, Jimmy Dean, Jimmy Dean
+
+* New screenings: 
+    * [Doll Parts 70 Years Of Trans Cinema Come Back To The 5 And Dime Jimmy Dean Jimmy Dean](https://drafthouse.com/los-angeles/show/doll-parts-70-years-of-trans-cinema-come-back-to-the-5-and-dime-jimmy-dean-jimmy-dean): Sat 7/1 (3:30pm)
+
 ### Fri 6/2 2:13pm
 * New movies: MADAGASCAR: ESCAPE 2 AFRICA
 
