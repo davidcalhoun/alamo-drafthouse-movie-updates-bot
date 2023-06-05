@@ -1,6 +1,31 @@
 # raleigh
 
 ## Movie updates
+### Mon 6/5 5:15pm
+
+* New screenings: 
+    * [About My Father](https://drafthouse.com/raleigh/show/about-my-father): Thu 6/8 (5:15pm)
+
+    * [But Im A Cheerleader](https://drafthouse.com/raleigh/show/but-im-a-cheerleader): Thu 6/8 (11:45am)
+
+    * [Fast X](https://drafthouse.com/raleigh/show/fast-x): Thu 6/8 (11:20am, 1:15pm, 3:50pm, 7:15pm, 10:40pm)
+
+    * [Guardians Of The Galaxy Vol 3](https://drafthouse.com/raleigh/show/guardians-of-the-galaxy-vol-3): Thu 6/8 (12:10pm, 1:45pm, 2:45pm, 6:15pm, 9:50pm)
+
+    * [Purple Rain](https://drafthouse.com/raleigh/show/purple-rain): Thu 6/8 (4:45pm)
+
+    * [Spider Man Across The Spider Verse](https://drafthouse.com/raleigh/show/spider-man-across-the-spider-verse): Thu 6/8 (5:30pm, 7:00pm, 9:00pm, 10:30pm)
+
+    * [The Boogeyman 2023](https://drafthouse.com/raleigh/show/the-boogeyman-2023): Thu 6/8 (11:15am, 4:15pm, 4:50pm, 7:45pm, 10:50pm)
+
+    * [The Little Mermaid 2023](https://drafthouse.com/raleigh/show/the-little-mermaid-2023): Thu 6/8 (11:30am, 12:55pm, 3:00pm, 6:30pm, 7:30pm, 9:55pm, 10:25pm)
+
+    * [The Super Mario Bros Movie](https://drafthouse.com/raleigh/show/the-super-mario-bros-movie): Thu 6/8 (11:10am, 2:15pm)
+
+    * [Transformers Rise Of The Beasts](https://drafthouse.com/raleigh/show/transformers-rise-of-the-beasts): Thu 6/8 (2:00pm, 10:45pm)
+
+    * [You Hurt My Feelings](https://drafthouse.com/raleigh/show/you-hurt-my-feelings): Thu 6/8 (8:00pm)
+
 ### Sat 6/3 10:11pm
 * New movies: KUNG FU PANDA 2
 
