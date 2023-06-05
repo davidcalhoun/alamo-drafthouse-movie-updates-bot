@@ -1,6 +1,25 @@
 # raleigh
 
 ## Movie updates
+### Mon 6/5 6:18pm
+
+* New screenings: 
+    * [Fast X](https://drafthouse.com/raleigh/show/fast-x): Fri 6/9 (11:10am, 1:15pm, 3:15pm, 6:45pm, 10:35pm), Sat 6/10 (11:30am, 1:15pm, 3:15pm, 6:45pm, 10:35pm), Sun 6/11 (12:25pm, 3:15pm, 3:50pm, 6:45pm, 10:40pm)
+
+    * [Guardians Of The Galaxy Vol 3](https://drafthouse.com/raleigh/show/guardians-of-the-galaxy-vol-3): Fri 6/9 (11:40am, 2:40pm, 4:40pm, 6:15pm, 9:45pm), Sat 6/10 (12:15pm, 2:40pm, 4:40pm, 6:15pm, 10:10pm), Sun 6/11 (11:40am, 2:40pm, 4:40pm, 7:45pm, 9:40pm)
+
+    * [Spider Man Across The Spider Verse](https://drafthouse.com/raleigh/show/spider-man-across-the-spider-verse): Fri 6/9 (11:30am, 12:00pm, 2:30pm, 3:00pm, 3:30pm, 4:30pm, 5:00pm, 6:30pm, 7:00pm, 8:30pm, 9:55pm, 10:30pm), Sat 6/10 (11:15am, 12:00pm, 3:30pm, 4:30pm, 5:00pm, 7:00pm, 8:00pm, 8:30pm, 9:55pm, 10:30pm), Sun 6/11 (12:00pm, 12:30pm, 2:00pm, 3:30pm, 4:00pm, 5:30pm, 7:00pm, 7:30pm, 9:00pm, 10:30pm)
+
+    * [The Boogeyman 2023](https://drafthouse.com/raleigh/show/the-boogeyman-2023): Fri 6/9 (11:25am, 2:10pm, 4:55pm, 7:45pm, 10:55pm), Sat 6/10 (11:40am, 1:45pm, 4:55pm, 7:45pm, 10:55pm), Sun 6/11 (11:45am, 2:30pm, 5:15pm, 7:15pm, 10:55pm)
+
+    * [The Little Mermaid 2023](https://drafthouse.com/raleigh/show/the-little-mermaid-2023): Fri 6/9 (12:30pm, 1:00pm, 3:55pm, 5:30pm, 7:15pm, 8:00pm, 9:00pm, 10:10pm, 10:25pm), Sat 6/10 (11:20am, 11:55am, 1:30pm, 3:00pm, 3:55pm, 5:30pm, 6:30pm, 7:15pm, 8:50pm, 9:50pm, 10:25pm), Sun 6/11 (11:15am, 1:15pm, 4:15pm, 5:00pm, 6:15pm, 8:15pm, 8:30pm, 10:15pm)
+
+    * [The Super Mario Bros Movie](https://drafthouse.com/raleigh/show/the-super-mario-bros-movie): Fri 6/9 (11:50am, 2:25pm), Sat 6/10 (11:10am, 2:20pm), Sun 6/11 (11:25am, 1:40pm)
+
+    * [Transformers Rise Of The Beasts](https://drafthouse.com/raleigh/show/transformers-rise-of-the-beasts): Fri 6/9 (11:15am, 2:15pm), Sat 6/10 (2:15pm), Sun 6/11 (11:30am, 10:00pm)
+
+    * [You Hurt My Feelings](https://drafthouse.com/raleigh/show/you-hurt-my-feelings): Fri 6/9 (8:15pm), Sat 6/10 (8:15pm), Sun 6/11 (8:00pm)
+
 ### Mon 6/5 5:15pm
 
 * New screenings: 
