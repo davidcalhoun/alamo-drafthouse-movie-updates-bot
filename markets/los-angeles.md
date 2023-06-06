@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 6/6 12:12pm
+
+* New screenings: 
+    * [Spider Man Across The Spider Verse](https://drafthouse.com/los-angeles/show/spider-man-across-the-spider-verse): Tue 6/6 (9:00pm), Wed 6/7 (9:00pm)
+
 ### Mon 6/5 6:43pm
 * New movies: Past Lives, Spider-Man: Across the Spider-Verse, Hedwig and the Angry Inch
 
