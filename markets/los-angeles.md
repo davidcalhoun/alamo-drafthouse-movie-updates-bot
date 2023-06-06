@@ -1,6 +1,26 @@
 # los-angeles
 
 ## Movie updates
+### Tue 6/6 2:14pm
+* New movies: Dunkirk, Inception, Interstellar, Lady Bird, Small Soldiers, Tenet, SUPERBAD
+
+* New screenings: 
+    * [Dunkirk](https://drafthouse.com/los-angeles/show/dunkirk): Tue 7/4 (4:00pm)
+
+    * [Inception](https://drafthouse.com/los-angeles/show/inception): Sun 7/2 (3:00pm)
+
+    * [Interstellar](https://drafthouse.com/los-angeles/show/interstellar): Sun 7/16 (2:30pm)
+
+    * [Lady Bird](https://drafthouse.com/los-angeles/show/lady-bird): Sat 7/8 (11:15am)
+
+    * [Oppenheimer](https://drafthouse.com/los-angeles/show/oppenheimer): Thu 7/27 (1:45pm, 6:00pm, 10:15pm)
+
+    * [Small Soldiers](https://drafthouse.com/los-angeles/show/small-soldiers): Tue 7/18 (7:30pm)
+
+    * [Superbad](https://drafthouse.com/los-angeles/show/superbad): Sun 7/30 (11:15am)
+
+    * [Tenet](https://drafthouse.com/los-angeles/show/tenet): Mon 7/17 (6:00pm)
+
 ### Tue 6/6 12:12pm
 
 * New screenings: 
