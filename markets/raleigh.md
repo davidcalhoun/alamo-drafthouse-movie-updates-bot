@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Mon 6/5 9:57pm
+
+* New screenings: 
+    * [Spider Man Across The Spider Verse](https://drafthouse.com/raleigh/show/spider-man-across-the-spider-verse): Thu 6/15 (11:30am)
+
+    * [The Flash 2023](https://drafthouse.com/raleigh/show/the-flash-2023): Thu 6/15 (6:00pm, 9:30pm)
+
 ### Mon 6/5 7:18pm
 
 * New screenings: 
