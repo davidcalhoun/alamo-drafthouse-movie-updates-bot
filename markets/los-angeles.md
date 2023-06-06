@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Tue 6/6 3:14pm
+
+* New screenings: 
+    * [Beau Is Afraid](https://drafthouse.com/los-angeles/show/beau-is-afraid): Tue 6/6 (7:35pm)
+
+    * [Master Gardener](https://drafthouse.com/los-angeles/show/master-gardener): Tue 6/6 (4:30pm)
+
 ### Tue 6/6 2:14pm
 * New movies: Dunkirk, Inception, Interstellar, Lady Bird, Small Soldiers, Tenet, SUPERBAD
 
