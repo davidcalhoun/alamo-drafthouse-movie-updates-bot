@@ -1,6 +1,40 @@
 # los-angeles
 
 ## Movie updates
+### Mon 6/5 6:43pm
+* New movies: Past Lives, Spider-Man: Across the Spider-Verse, Hedwig and the Angry Inch
+
+* New screenings: 
+    * [Beau Is Afraid](https://drafthouse.com/los-angeles/show/beau-is-afraid): Thu 6/8 (3:15pm), Fri 6/9 (7:40pm), Sat 6/10 (7:45pm), Sun 6/11 (4:40pm), Mon 6/12 (11:45am), Tue 6/13 (12:25pm, 8:15pm), Wed 6/14 (3:15pm)
+
+    * [Brunch Screenings Hedwig And The Angry Inch Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-hedwig-and-the-angry-inch-brunch): Sat 6/10 (11:40am), Sun 6/11 (11:45am)
+
+    * [Brunch Screenings Spider Man Across The Spider Verse Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-spider-man-across-the-spider-verse-brunch): Sat 6/10 (12:15pm), Sun 6/11 (11:00am)
+
+    * [Fast X](https://drafthouse.com/los-angeles/show/fast-x): Thu 6/8 (4:10pm)
+
+    * [Guardians Of The Galaxy Vol 3](https://drafthouse.com/los-angeles/show/guardians-of-the-galaxy-vol-3): Thu 6/8 (2:45pm, 6:30pm, 10:15pm), Fri 6/9 (11:15am, 3:00pm, 6:45pm, 9:00pm), Sat 6/10 (11:15am, 3:00pm, 6:45pm, 9:00pm), Sun 6/11 (11:15am, 3:00pm, 6:45pm, 9:30pm), Mon 6/12 (11:15am, 3:00pm, 6:45pm, 10:00pm), Tue 6/13 (11:15am, 3:00pm, 6:45pm, 10:10pm), Wed 6/14 (11:15am, 3:00pm, 6:45pm, 9:10pm)
+
+    * [Hedwig And The Angry Inch](https://drafthouse.com/los-angeles/show/hedwig-and-the-angry-inch): Fri 6/9 (11:25am), Tue 6/13 (12:45pm), Wed 6/14 (3:00pm)
+
+    * [Party Girl](https://drafthouse.com/los-angeles/show/party-girl): Fri 6/9 (4:45pm, 10:30pm), Sat 6/10 (10:35pm), Sun 6/11 (5:15pm), Mon 6/12 (4:35pm)
+
+    * [Past Lives](https://drafthouse.com/los-angeles/show/past-lives): Thu 6/8 (7:15pm, 7:45pm, 8:45pm, 10:15pm, 10:45pm), Fri 6/9 (11:30am, 12:30pm, 1:00pm, 2:30pm, 3:30pm, 4:00pm, 5:30pm, 6:30pm, 7:00pm, 8:30pm, 9:30pm, 10:00pm), Sat 6/10 (11:30am, 12:30pm, 1:00pm, 2:30pm, 3:30pm, 4:00pm, 5:30pm, 6:30pm, 7:00pm, 8:30pm, 9:30pm, 10:00pm), Sun 6/11 (11:30am, 12:30pm, 1:00pm, 2:30pm, 3:30pm, 4:00pm, 5:30pm, 6:30pm, 7:00pm, 8:30pm, 10:00pm), Mon 6/12 (11:30am, 12:30pm, 1:00pm, 2:30pm, 3:30pm, 4:00pm, 5:30pm, 6:30pm, 8:30pm, 10:30pm), Tue 6/13 (11:30am, 12:30pm, 1:15pm, 2:30pm, 3:30pm, 4:15pm, 5:30pm, 6:30pm, 7:15pm, 8:30pm, 10:15pm), Wed 6/14 (11:30am, 12:30pm, 1:00pm, 2:30pm, 3:30pm, 4:00pm, 5:30pm, 6:30pm, 7:00pm, 8:30pm, 10:00pm)
+
+    * [Purple Rain](https://drafthouse.com/los-angeles/show/purple-rain): Thu 6/8 (2:45pm)
+
+    * [Sanctuary](https://drafthouse.com/los-angeles/show/sanctuary): Thu 6/8 (2:15pm)
+
+    * [Spider Man Across The Spider Verse](https://drafthouse.com/los-angeles/show/spider-man-across-the-spider-verse): Thu 6/8 (2:10pm, 5:00pm, 5:45pm, 8:35pm, 8:45pm, 9:20pm), Fri 6/9 (12:15pm, 1:25pm, 3:50pm, 5:00pm, 7:25pm, 8:40pm, 10:20pm), Sat 6/10 (1:25pm, 3:50pm, 5:00pm, 7:25pm, 8:40pm, 10:20pm), Sun 6/11 (12:15pm, 2:35pm, 3:50pm, 6:10pm, 7:30pm, 9:00pm), Mon 6/12 (12:30pm, 1:25pm, 4:10pm, 5:00pm, 7:45pm, 8:40pm, 9:30pm), Tue 6/13 (12:30pm, 1:00pm, 4:10pm, 4:40pm, 7:45pm, 9:30pm), Wed 6/14 (12:30pm, 1:25pm, 4:10pm, 5:00pm, 7:45pm, 8:40pm, 9:30pm)
+
+    * [The Boogeyman 2023](https://drafthouse.com/los-angeles/show/the-boogeyman-2023): Thu 6/8 (3:50pm, 6:45pm, 9:40pm), Fri 6/9 (11:00am, 1:45pm, 4:35pm, 7:30pm, 10:55pm), Sat 6/10 (11:00am, 1:45pm, 4:35pm, 7:30pm, 11:00pm), Sun 6/11 (11:00am, 1:45pm, 4:35pm, 7:30pm, 10:10pm), Mon 6/12 (11:00am, 1:45pm, 4:35pm, 7:30pm, 10:20pm), Tue 6/13 (11:00am, 1:45pm, 4:35pm, 7:30pm, 10:20pm), Wed 6/14 (11:00am, 1:45pm, 4:35pm, 7:30pm, 10:20pm)
+
+    * [The Little Mermaid 2023](https://drafthouse.com/los-angeles/show/the-little-mermaid-2023): Thu 6/8 (2:30pm, 5:15pm, 6:00pm, 9:30pm), Fri 6/9 (11:15am, 2:45pm, 6:15pm, 9:45pm), Sat 6/10 (11:15am, 2:45pm, 6:15pm, 9:45pm), Sun 6/11 (11:15am, 2:45pm, 6:15pm, 9:45pm), Mon 6/12 (11:15am, 2:45pm, 6:15pm, 9:45pm), Tue 6/13 (11:15am, 2:45pm, 6:15pm, 9:45pm), Wed 6/14 (11:15am, 2:45pm, 6:15pm, 9:45pm)
+
+    * [Transformers Rise Of The Beasts](https://drafthouse.com/los-angeles/show/transformers-rise-of-the-beasts): Thu 6/8 (3:45pm, 7:30pm, 10:45pm), Fri 6/9 (2:20pm, 5:40pm), Sat 6/10 (2:25pm, 5:45pm), Sun 6/11 (8:00pm, 9:45pm), Mon 6/12 (10:10pm), Tue 6/13 (3:40pm, 9:55pm), Wed 6/14 (11:40am, 10:10pm)
+
+    * [You Hurt My Feelings](https://drafthouse.com/los-angeles/show/you-hurt-my-feelings): Thu 6/8 (2:30pm, 6:00pm), Fri 6/9 (2:00pm), Sat 6/10 (5:00pm), Sun 6/11 (2:30pm), Mon 6/12 (1:45pm), Tue 6/13 (4:45pm), Wed 6/14 (12:30pm)
+
 ### Mon 6/5 3:14pm
 * New movies: Come Back to the 5 and Dime, Jimmy Dean, Jimmy Dean
 
