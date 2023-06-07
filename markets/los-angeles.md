@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 6/7 12:12pm
+* New movies: Dude Bro Party Massacre III
+
+* New screenings: 
+    * [Live Q A Dude Bro Party Massacre Iii](https://drafthouse.com/los-angeles/show/live-q-a-dude-bro-party-massacre-iii): Fri 8/4 (7:00pm, 8:00pm)
+
 ### Tue 6/6 8:20pm
 
 * New screenings: 
