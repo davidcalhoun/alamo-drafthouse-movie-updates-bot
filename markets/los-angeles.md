@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 6/6 6:45pm
+
+* New screenings: 
+    * [Guardians Of The Galaxy Vol 3](https://drafthouse.com/los-angeles/show/guardians-of-the-galaxy-vol-3): Wed 6/7 (2:00pm)
+
 ### Tue 6/6 3:14pm
 
 * New screenings: 
