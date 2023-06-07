@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 6/6 8:20pm
+
+* New screenings: 
+    * [Past Lives](https://drafthouse.com/los-angeles/show/past-lives): Thu 6/15 (4:30pm, 7:30pm, 10:30pm), Fri 6/16 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Sat 6/17 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Sun 6/18 (1:15pm, 4:15pm, 7:15pm), Mon 6/19 (1:15pm, 4:15pm, 7:15pm), Tue 6/20 (1:15pm, 4:15pm, 7:15pm), Wed 6/21 (1:15pm, 4:15pm, 7:15pm)
+
 ### Tue 6/6 6:45pm
 
 * New screenings: 
