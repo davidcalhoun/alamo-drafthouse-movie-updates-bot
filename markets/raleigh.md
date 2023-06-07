@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Wed 6/7 5:16pm
+
+* New screenings: 
+    * [Indiana Jones And The Dial Of Destiny](https://drafthouse.com/raleigh/show/indiana-jones-and-the-dial-of-destiny): Thu 7/6 (11:30am, 3:15pm)
+
 ### Mon 6/5 9:57pm
 
 * New screenings: 
