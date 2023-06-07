@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 6/7 3:14pm
+
+* New screenings: 
+    * [Asteroid City](https://drafthouse.com/los-angeles/show/asteroid-city): Thu 6/22 (7:15pm, 7:45pm, 10:15pm, 10:45pm)
+
 ### Wed 6/7 12:12pm
 * New movies: Dude Bro Party Massacre III
 
