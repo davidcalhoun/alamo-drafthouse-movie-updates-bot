@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 6/8 8:35am
+* New movies: Oppenheimer
+
+* New screenings: 
+    * [Oppenheimer](https://drafthouse.com/raleigh/show/oppenheimer): Thu 7/20 (5:00pm, 9:15pm), Fri 7/21 (7:30pm), Sat 7/22 (7:30pm), Sun 7/23 (11:00am, 3:15pm, 7:30pm), Mon 7/24 (1:45pm, 6:00pm), Tue 7/25 (1:00pm, 5:15pm), Wed 7/26 (1:00pm, 5:15pm)
+
 ### Wed 6/7 6:18pm
 
 * New screenings: 
