@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 6/8 5:30am
+
+* New screenings: 
+    * [Oppenheimer](https://drafthouse.com/los-angeles/show/oppenheimer): Thu 7/20 (6:00pm, 10:15pm), Fri 7/21 (12:45pm, 5:00pm, 9:15pm), Sat 7/22 (12:45pm, 5:00pm, 9:15pm), Sun 7/23 (12:45pm, 5:00pm, 9:15pm), Mon 7/24 (12:45pm, 5:00pm, 9:15pm), Tue 7/25 (12:45pm, 5:00pm, 9:15pm), Wed 7/26 (12:45pm, 5:00pm, 9:15pm)
+
 ### Wed 6/7 3:14pm
 
 * New screenings: 
