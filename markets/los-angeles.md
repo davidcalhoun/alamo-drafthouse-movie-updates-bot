@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 6/8 11:18am
+* New movies: She's the Man
+
+* New screenings: 
+    * [Champagne Cinema Shes The Man](https://drafthouse.com/los-angeles/show/champagne-cinema-shes-the-man): Sun 7/9 (11:30am), Mon 7/10 (7:30pm)
+
 ### Thu 6/8 5:30am
 
 * New screenings: 
