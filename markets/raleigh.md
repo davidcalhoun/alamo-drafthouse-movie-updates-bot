@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Thu 6/8 5:17pm
+
+* New screenings: 
+    * [Asteroid City](https://drafthouse.com/raleigh/show/asteroid-city): Mon 6/26 (10:00pm), Tue 6/27 (11:00am, 1:50pm, 4:40pm, 10:30pm), Wed 6/28 (11:15am, 2:15pm, 5:10pm, 8:00pm, 10:50pm)
+
 ### Thu 6/8 2:22pm
 * New movies: She's the Man
 
