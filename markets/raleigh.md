@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Thu 6/8 12:24pm
+* New movies: Small Soldiers
+
+* New screenings: 
+    * [Oppenheimer](https://drafthouse.com/raleigh/show/oppenheimer): Fri 7/21 (11:00am, 3:15pm), Sat 7/22 (11:00am, 3:15pm)
+
+    * [Small Soldiers](https://drafthouse.com/raleigh/show/small-soldiers): Sun 7/16 (3:00pm)
+
 ### Thu 6/8 8:35am
 * New movies: Oppenheimer
 
