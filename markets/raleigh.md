@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 6/8 2:22pm
+* New movies: She's the Man
+
+* New screenings: 
+    * [Champagne Cinema Shes The Man](https://drafthouse.com/raleigh/show/champagne-cinema-shes-the-man): Sun 7/9 (7:00pm)
+
 ### Thu 6/8 12:24pm
 * New movies: Small Soldiers
 
