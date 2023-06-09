@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 6/9 3:14pm
+
+* New screenings: 
+    * [The Flash 2023](https://drafthouse.com/los-angeles/show/the-flash-2023): Mon 6/19 (11:45am, 7:00pm)
+
 ### Fri 6/9 9:19am
 * New movies: Joy Ride, Joy Ride, Joy Ride, Joy Ride
 
