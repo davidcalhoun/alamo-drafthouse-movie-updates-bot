@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Fri 6/9 9:19am
+* New movies: Joy Ride, Joy Ride, Joy Ride, Joy Ride
+
+* New screenings: 
+    * [Advance Screening Joy Ride Early Access Screening](https://drafthouse.com/los-angeles/show/advance-screening-joy-ride-early-access-screening): Wed 7/5 (7:00pm)
+
+    * [Brunch Screenings Joy Ride Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-joy-ride-brunch): Sat 7/8 (11:20am), Sat 7/15 (11:00am), Sun 7/16 (11:00am)
+
+    * [Joy Ride](https://drafthouse.com/los-angeles/show/joy-ride): Thu 7/6 (6:30pm, 9:20pm), Fri 7/7 (11:20am, 2:10pm, 5:00pm, 7:45pm), Sat 7/8 (2:10pm, 5:00pm, 7:45pm, 10:35pm), Sun 7/9 (11:20am, 2:10pm, 5:00pm, 7:45pm), Mon 7/10 (11:20am, 2:10pm, 5:00pm, 7:45pm), Wed 7/12 (11:20am, 2:10pm, 5:00pm, 7:45pm), Thu 7/13 (5:00pm, 7:45pm, 10:35pm), Fri 7/14 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Sat 7/15 (1:50pm, 4:40pm, 7:30pm, 10:20pm), Sun 7/16 (1:50pm, 4:40pm, 7:30pm), Mon 7/17 (11:00am, 1:50pm, 4:40pm, 7:30pm), Tue 7/18 (11:00am, 1:50pm, 4:40pm, 7:30pm), Wed 7/19 (11:00am, 1:50pm, 4:40pm, 7:30pm)
+
+    * [Rowdy Screening Joy Ride](https://drafthouse.com/los-angeles/show/rowdy-screening-joy-ride): Fri 7/7 (10:35pm)
+
 ### Thu 6/8 7:56pm
 
 * New screenings: 
