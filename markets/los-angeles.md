@@ -1,6 +1,20 @@
 # los-angeles
 
 ## Movie updates
+### Thu 6/8 6:43pm
+* New movies: The Youtube Effect, Frances Ha, Teenage Mutant Ninja Turtles 1990, The Triplets of Belleville, The Toxic Avenger
+
+* New screenings: 
+    * [Frances Ha](https://drafthouse.com/los-angeles/show/frances-ha): Sun 7/16 (11:45am)
+
+    * [Live Q A The Youtube Effect](https://drafthouse.com/los-angeles/show/live-q-a-the-youtube-effect): Fri 7/7 (7:00pm)
+
+    * [Teenage Mutant Ninja Turtles 1990](https://drafthouse.com/los-angeles/show/teenage-mutant-ninja-turtles-1990): Wed 8/2 (7:00pm)
+
+    * [The Toxic Avenger](https://drafthouse.com/los-angeles/show/the-toxic-avenger): Mon 8/7 (8:00pm)
+
+    * [The Triplets Of Belleville](https://drafthouse.com/los-angeles/show/the-triplets-of-belleville): Tue 6/27 (11:00am)
+
 ### Thu 6/8 11:18am
 * New movies: She's the Man
 
