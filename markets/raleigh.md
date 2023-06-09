@@ -1,6 +1,18 @@
 # raleigh
 
 ## Movie updates
+### Fri 6/9 12:24pm
+* New movies: Joy Ride, Joy Ride, Joy Ride, Joy Ride
+
+* New screenings: 
+    * [Advance Screening Joy Ride Early Access Screening](https://drafthouse.com/raleigh/show/advance-screening-joy-ride-early-access-screening): Wed 7/5 (6:30pm)
+
+    * [Brunch Screenings Joy Ride Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-joy-ride-brunch): Sun 7/9 (12:15pm)
+
+    * [Joy Ride](https://drafthouse.com/raleigh/show/joy-ride): Thu 7/6 (7:00pm, 9:45pm), Fri 7/7 (11:00am, 1:45pm, 4:30pm, 7:15pm), Sat 7/8 (1:45pm, 4:30pm, 7:15pm, 10:00pm), Sun 7/9 (10:00pm), Mon 7/10 (1:45pm, 4:30pm, 7:15pm, 10:00pm), Tue 7/11 (1:15pm, 4:00pm, 6:45pm), Wed 7/12 (1:45pm, 4:30pm, 7:15pm, 10:00pm)
+
+    * [Rowdy Screening Joy Ride](https://drafthouse.com/raleigh/show/rowdy-screening-joy-ride): Fri 7/7 (10:00pm)
+
 ### Thu 6/8 5:17pm
 
 * New screenings: 
