@@ -1,6 +1,38 @@
 # raleigh
 
 ## Movie updates
+### Sat 6/10 1:16pm
+* New movies: Harry Potter and the Order of the Phoenix, Teenage Mutant Ninja Turtles 1990, Frances Ha, Harry Potter and the Goblet of Fire, Harry Potter and the Half-Blood Prince, Dunkirk, Harry Potter and the Chamber of Secrets, Harry Potter and the Prisoner of Azkaban, Harry Potter and the Sorcerer's Stone, Tenet, Harry Potter and the Deathly Hallows: Part 1, Harry Potter and the Deathly Hallows: Part 2, The Toxic Avenger
+
+* New screenings: 
+    * [Dunkirk](https://drafthouse.com/raleigh/show/dunkirk): Tue 7/4 (2:45pm)
+
+    * [Frances Ha](https://drafthouse.com/raleigh/show/frances-ha): Sat 7/15 (11:00am)
+
+    * [Harry Potter And The Chamber Of Secrets](https://drafthouse.com/raleigh/show/harry-potter-and-the-chamber-of-secrets): Sun 8/13 (3:15pm)
+
+    * [Harry Potter And The Deathly Hallows Part 1](https://drafthouse.com/raleigh/show/harry-potter-and-the-deathly-hallows-part-1): Sun 9/17 (3:00pm)
+
+    * [Harry Potter And The Deathly Hallows Part 2](https://drafthouse.com/raleigh/show/harry-potter-and-the-deathly-hallows-part-2): Sun 9/24 (3:15pm)
+
+    * [Harry Potter And The Goblet Of Fire](https://drafthouse.com/raleigh/show/harry-potter-and-the-goblet-of-fire): Sun 8/27 (3:15pm)
+
+    * [Harry Potter And The Half Blood Prince](https://drafthouse.com/raleigh/show/harry-potter-and-the-half-blood-prince): Sun 9/10 (3:15pm)
+
+    * [Harry Potter And The Order Of The Phoenix](https://drafthouse.com/raleigh/show/harry-potter-and-the-order-of-the-phoenix): Sun 9/3 (2:15pm)
+
+    * [Harry Potter And The Prisoner Of Azkaban](https://drafthouse.com/raleigh/show/harry-potter-and-the-prisoner-of-azkaban): Sun 8/20 (3:00pm)
+
+    * [Harry Potter And The Sorcerers Stone](https://drafthouse.com/raleigh/show/harry-potter-and-the-sorcerers-stone): Sun 8/6 (2:15pm)
+
+    * [Indiana Jones And The Dial Of Destiny](https://drafthouse.com/raleigh/show/indiana-jones-and-the-dial-of-destiny): Tue 7/4 (11:00am)
+
+    * [Teenage Mutant Ninja Turtles 1990](https://drafthouse.com/raleigh/show/teenage-mutant-ninja-turtles-1990): Sun 7/30 (2:00pm), Mon 7/31 (7:00pm)
+
+    * [Tenet](https://drafthouse.com/raleigh/show/tenet): Mon 7/17 (6:00pm)
+
+    * [The Toxic Avenger](https://drafthouse.com/raleigh/show/the-toxic-avenger): Mon 8/7 (9:30pm)
+
 ### Sat 6/10 10:16am
 
 * New screenings: 
