@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Sat 6/10 10:16am
+
+* New screenings: 
+    * [Indiana Jones And The Dial Of Destiny](https://drafthouse.com/raleigh/show/indiana-jones-and-the-dial-of-destiny): Mon 7/3 (2:00pm, 5:45pm), Tue 7/4 (5:45pm), Wed 7/5 (12:00pm, 3:45pm, 7:30pm)
+
+    * [The Blackening](https://drafthouse.com/raleigh/show/the-blackening): Fri 6/16 (12:00pm, 2:50pm, 5:30pm, 8:15pm, 10:55pm), Sat 6/17 (11:55am, 2:45pm, 5:30pm, 8:15pm, 10:55pm), Sun 6/18 (11:55am, 2:45pm, 5:30pm, 8:15pm, 10:55pm), Mon 6/19 (12:00pm, 2:50pm, 5:30pm, 8:15pm, 10:55pm), Tue 6/20 (11:55am, 2:45pm, 5:30pm, 8:15pm, 10:55pm), Wed 6/21 (12:00pm, 2:50pm, 5:30pm, 8:15pm, 10:55pm)
+
 ### Fri 6/9 12:24pm
 * New movies: Joy Ride, Joy Ride, Joy Ride, Joy Ride
 
