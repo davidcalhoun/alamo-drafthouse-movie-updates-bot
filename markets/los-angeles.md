@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 6/12 1:15pm
+* New movies: WAKE IN FRIGHT
+
+* New screenings: 
+    * [Wake In Fright](https://drafthouse.com/los-angeles/show/wake-in-fright): Tue 6/27 (8:00pm), Wed 6/28 (8:00pm)
+
 ### Fri 6/9 3:14pm
 
 * New screenings: 
