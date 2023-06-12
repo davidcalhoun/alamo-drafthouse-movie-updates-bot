@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Mon 6/12 12:25pm
+
+* New screenings: 
+    * [Elemental](https://drafthouse.com/raleigh/show/elemental): Thu 6/15 (6:15pm, 9:10pm)
+
+    * [The Blackening](https://drafthouse.com/raleigh/show/the-blackening): Fri 6/16 (12:00pm, 2:45pm)
+
 ### Sat 6/10 1:16pm
 * New movies: Harry Potter and the Order of the Phoenix, Teenage Mutant Ninja Turtles 1990, Frances Ha, Harry Potter and the Goblet of Fire, Harry Potter and the Half-Blood Prince, Dunkirk, Harry Potter and the Chamber of Secrets, Harry Potter and the Prisoner of Azkaban, Harry Potter and the Sorcerer's Stone, Tenet, Harry Potter and the Deathly Hallows: Part 1, Harry Potter and the Deathly Hallows: Part 2, The Toxic Avenger
 
