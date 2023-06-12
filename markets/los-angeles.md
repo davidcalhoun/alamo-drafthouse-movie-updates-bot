@@ -1,6 +1,27 @@
 # los-angeles
 
 ## Movie updates
+### Mon 6/12 4:15pm
+
+* New screenings: 
+    * [Beau Is Afraid](https://drafthouse.com/los-angeles/show/beau-is-afraid): Thu 6/15 (2:05pm)
+
+    * [Guardians Of The Galaxy Vol 3](https://drafthouse.com/los-angeles/show/guardians-of-the-galaxy-vol-3): Thu 6/15 (2:15pm, 6:00pm)
+
+    * [Party Girl](https://drafthouse.com/los-angeles/show/party-girl): Thu 6/15 (2:30pm)
+
+    * [Past Lives](https://drafthouse.com/los-angeles/show/past-lives): Thu 6/15 (3:00pm, 5:45pm, 8:45pm)
+
+    * [Spider Man Across The Spider Verse](https://drafthouse.com/los-angeles/show/spider-man-across-the-spider-verse): Thu 6/15 (2:15pm, 3:25pm, 6:00pm, 9:30pm)
+
+    * [The Boogeyman 2023](https://drafthouse.com/los-angeles/show/the-boogeyman-2023): Thu 6/15 (9:45pm)
+
+    * [The Flash 2023](https://drafthouse.com/los-angeles/show/the-flash-2023): Thu 6/15 (3:20pm, 6:20pm, 7:00pm, 10:00pm, 10:40pm)
+
+    * [The Little Mermaid 2023](https://drafthouse.com/los-angeles/show/the-little-mermaid-2023): Thu 6/15 (3:00pm, 6:30pm, 10:00pm)
+
+    * [Transformers Rise Of The Beasts](https://drafthouse.com/los-angeles/show/transformers-rise-of-the-beasts): Thu 6/15 (3:50pm, 7:15pm, 10:40pm)
+
 ### Mon 6/12 1:15pm
 * New movies: WAKE IN FRIGHT
 
