@@ -1,6 +1,40 @@
 # raleigh
 
 ## Movie updates
+### Tue 6/13 12:25pm
+* New movies: Past Lives, Hedwig and the Angry Inch
+
+* New screenings: 
+    * [Doll Parts 70 Years Of Trans Cinema Dressed In Blue](https://drafthouse.com/raleigh/show/doll-parts-70-years-of-trans-cinema-dressed-in-blue): Thu 6/15 (11:50am)
+
+    * [Elemental](https://drafthouse.com/raleigh/show/elemental): Sun 6/18 (9:00pm)
+
+    * [Fast X](https://drafthouse.com/raleigh/show/fast-x): Thu 6/15 (11:45am), Fri 6/16 (10:40pm), Sat 6/17 (10:25pm), Sun 6/18 (8:15pm)
+
+    * [Guardians Of The Galaxy Vol 3](https://drafthouse.com/raleigh/show/guardians-of-the-galaxy-vol-3): Thu 6/15 (12:15pm, 2:40pm, 4:55pm, 6:30pm, 10:05pm), Fri 6/16 (11:00am, 2:40pm, 6:15pm, 9:45pm), Sat 6/17 (11:50am, 2:40pm, 6:15pm, 9:50pm), Sun 6/18 (12:25pm, 2:40pm, 6:15pm, 9:50pm)
+
+    * [Hedwig And The Angry Inch](https://drafthouse.com/raleigh/show/hedwig-and-the-angry-inch): Thu 6/15 (2:45pm)
+
+    * [Past Lives](https://drafthouse.com/raleigh/show/past-lives): Thu 6/15 (7:45pm, 10:55pm), Fri 6/16 (11:55am, 2:00pm, 4:55pm, 7:45pm, 10:35pm), Sat 6/17 (11:00am, 2:00pm, 4:55pm, 7:45pm, 10:40pm), Sun 6/18 (11:45am, 2:40pm, 6:30pm, 9:20pm)
+
+    * [Spider Man Across The Spider Verse](https://drafthouse.com/raleigh/show/spider-man-across-the-spider-verse): Thu 6/15 (12:00pm, 12:30pm, 7:30pm, 10:25pm), Fri 6/16 (11:50am, 1:00pm, 3:55pm, 4:30pm, 6:30pm, 9:55pm), Sat 6/17 (1:00pm, 3:55pm, 4:30pm, 6:30pm, 9:55pm), Sun 6/18 (11:15am, 1:30pm, 4:00pm, 5:00pm, 7:15pm, 10:15pm)
+
+    * [The Blackening](https://drafthouse.com/raleigh/show/the-blackening): Sun 6/18 (1:00pm, 3:45pm, 7:30pm, 10:55pm)
+
+    * [The Boogeyman 2023](https://drafthouse.com/raleigh/show/the-boogeyman-2023): Thu 6/15 (2:15pm), Fri 6/16 (8:00pm), Sat 6/17 (8:00pm), Sun 6/18 (5:30pm)
+
+    * [The Flash 2023](https://drafthouse.com/raleigh/show/the-flash-2023): Thu 6/15 (4:00pm), Fri 6/16 (1:30pm, 5:00pm, 7:30pm, 8:30pm), Sat 6/17 (11:45am, 1:30pm, 5:00pm, 7:30pm, 8:30pm), Sun 6/18 (12:15pm, 2:15pm, 3:15pm, 5:45pm, 8:30pm, 9:15pm)
+
+    * [The Little Mermaid 2023](https://drafthouse.com/raleigh/show/the-little-mermaid-2023): Thu 6/15 (11:15am, 3:15pm, 4:15pm, 5:30pm, 8:30pm, 9:00pm), Fri 6/16 (12:00pm, 12:40pm, 3:25pm, 6:45pm, 10:05pm), Sat 6/17 (11:15am, 12:40pm, 3:25pm, 6:45pm, 10:05pm), Sun 6/18 (11:55am, 3:55pm, 6:45pm, 10:05pm)
+
+    * [The Secret World Of Arrietty Subtitled](https://drafthouse.com/raleigh/show/the-secret-world-of-arrietty-subtitled): Thu 6/15 (3:45pm)
+
+    * [The Super Mario Bros Movie](https://drafthouse.com/raleigh/show/the-super-mario-bros-movie): Thu 6/15 (11:40am)
+
+    * [Transformers Rise Of The Beasts](https://drafthouse.com/raleigh/show/transformers-rise-of-the-beasts): Thu 6/15 (10:45am, 1:00pm, 3:55pm, 7:15pm, 10:35pm), Fri 6/16 (12:45pm, 3:15pm, 4:00pm, 7:15pm, 10:25pm), Sat 6/17 (12:45pm, 3:15pm, 4:00pm, 7:15pm, 10:35pm), Sun 6/18 (1:15pm, 4:30pm, 7:45pm, 10:40pm)
+
+    * [You Hurt My Feelings](https://drafthouse.com/raleigh/show/you-hurt-my-feelings): Thu 6/15 (12:55pm)
+
 ### Mon 6/12 12:25pm
 
 * New screenings: 
