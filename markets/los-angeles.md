@@ -1,6 +1,40 @@
 # los-angeles
 
 ## Movie updates
+### Mon 6/12 6:37pm
+* New movies: The Birdcage, No Hard Feelings
+
+* New screenings: 
+    * [Advance Screening No Hard Feelings Sneak Preview](https://drafthouse.com/los-angeles/show/advance-screening-no-hard-feelings-sneak-preview): Sat 6/17 (7:00pm)
+
+    * [Do The Right Thing](https://drafthouse.com/los-angeles/show/do-the-right-thing): Fri 6/16 (2:15pm), Tue 6/20 (12:40pm), Wed 6/21 (12:30pm)
+
+    * [Elemental](https://drafthouse.com/los-angeles/show/elemental): Sun 6/18 (9:10pm)
+
+    * [Guardians Of The Galaxy Vol 3](https://drafthouse.com/los-angeles/show/guardians-of-the-galaxy-vol-3): Fri 6/16 (11:15am, 3:00pm, 6:45pm), Sat 6/17 (11:15am, 3:00pm, 6:45pm), Sun 6/18 (11:15am, 3:00pm, 6:45pm), Mon 6/19 (11:15am, 3:00pm, 6:45pm), Tue 6/20 (11:15am, 3:00pm, 6:45pm), Wed 6/21 (11:15am, 3:00pm, 6:45pm)
+
+    * [Moonlight](https://drafthouse.com/los-angeles/show/moonlight): Tue 6/20 (2:15pm)
+
+    * [Past Lives](https://drafthouse.com/los-angeles/show/past-lives): Fri 6/16 (11:20am, 2:25pm, 5:30pm, 8:35pm), Sat 6/17 (11:20am, 2:25pm, 5:30pm, 8:35pm), Sun 6/18 (11:20am, 2:25pm, 3:10pm, 5:30pm, 9:00pm), Mon 6/19 (11:20am, 2:25pm, 5:30pm, 8:35pm, 10:15pm), Tue 6/20 (11:20am, 2:25pm, 5:30pm, 8:35pm, 10:15pm), Wed 6/21 (11:20am, 2:25pm, 5:30pm, 8:35pm, 10:15pm)
+
+    * [Spider Man Across The Spider Verse](https://drafthouse.com/los-angeles/show/spider-man-across-the-spider-verse): Fri 6/16 (5:00pm), Sat 6/17 (3:25pm), Sun 6/18 (10:00pm), Mon 6/19 (5:25pm, 9:00pm), Tue 6/20 (5:20pm, 9:00pm), Wed 6/21 (3:50pm, 7:30pm, 10:00pm)
+
+    * [The Birdcage](https://drafthouse.com/los-angeles/show/the-birdcage): Fri 6/16 (11:00am), Mon 6/19 (2:10pm), Tue 6/20 (11:00am), Wed 6/21 (4:45pm)
+
+    * [The Birdcage Brunch](https://drafthouse.com/los-angeles/show/the-birdcage-brunch): Sat 6/17 (12:15pm), Sun 6/18 (12:00pm)
+
+    * [The Blackening](https://drafthouse.com/los-angeles/show/the-blackening): Sun 6/18 (10:15pm), Mon 6/19 (11:15am, 2:00pm, 4:50pm, 7:40pm, 10:15pm), Tue 6/20 (11:15am, 2:00pm, 4:50pm, 7:40pm, 10:30pm), Wed 6/21 (11:15am, 2:00pm, 4:50pm, 7:40pm, 10:30pm)
+
+    * [The Boogeyman 2023](https://drafthouse.com/los-angeles/show/the-boogeyman-2023): Fri 6/16 (10:30pm), Sat 6/17 (10:30pm), Sun 6/18 (10:30pm), Mon 6/19 (10:30pm), Tue 6/20 (10:30pm), Wed 6/21 (10:30pm)
+
+    * [The Flash 2023](https://drafthouse.com/los-angeles/show/the-flash-2023): Fri 6/16 (5:45pm, 8:35pm), Sat 6/17 (7:45pm, 10:15pm), Sun 6/18 (8:30pm, 10:00pm), Mon 6/19 (11:00am, 2:40pm, 6:15pm, 10:00pm)
+
+    * [The Little Mermaid 2023](https://drafthouse.com/los-angeles/show/the-little-mermaid-2023): Fri 6/16 (11:00am, 2:30pm, 6:00pm, 9:30pm), Sat 6/17 (11:00am, 2:30pm, 6:00pm, 9:30pm), Sun 6/18 (11:00am, 2:30pm, 6:00pm, 9:30pm), Mon 6/19 (11:00am, 2:30pm, 6:00pm, 9:30pm), Tue 6/20 (11:00am, 2:30pm, 6:00pm, 9:30pm), Wed 6/21 (11:00am, 2:30pm, 6:00pm, 9:30pm)
+
+    * [There Will Be Blood](https://drafthouse.com/los-angeles/show/there-will-be-blood): Fri 6/16 (1:00pm, 9:30pm), Sun 6/18 (6:15pm), Mon 6/19 (12:10pm), Tue 6/20 (4:00pm), Wed 6/21 (12:45pm)
+
+    * [Transformers Rise Of The Beasts](https://drafthouse.com/los-angeles/show/transformers-rise-of-the-beasts): Fri 6/16 (12:35pm, 4:00pm, 7:20pm, 10:45pm), Sat 6/17 (12:35pm, 4:00pm, 7:20pm, 10:45pm), Sun 6/18 (12:35pm, 4:00pm, 7:20pm, 10:10pm), Mon 6/19 (12:35pm, 4:00pm, 7:20pm, 10:00pm), Tue 6/20 (12:35pm, 4:00pm, 7:20pm, 10:00pm), Wed 6/21 (12:35pm, 4:00pm, 7:20pm, 10:40pm)
+
 ### Mon 6/12 4:15pm
 
 * New screenings: 
