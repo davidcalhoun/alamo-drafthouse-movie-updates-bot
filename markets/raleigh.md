@@ -1,6 +1,29 @@
 # raleigh
 
 ## Movie updates
+### Tue 6/13 1:17pm
+
+* New screenings: 
+    * [Elemental](https://drafthouse.com/raleigh/show/elemental): Mon 6/19 (4:30pm, 7:30pm, 10:30pm), Tue 6/20 (11:00am, 10:40pm), Thu 6/22 (4:30pm)
+
+    * [Fast X](https://drafthouse.com/raleigh/show/fast-x): Mon 6/19 (10:25pm), Tue 6/20 (5:50pm), Wed 6/21 (10:40pm)
+
+    * [Guardians Of The Galaxy Vol 3](https://drafthouse.com/raleigh/show/guardians-of-the-galaxy-vol-3): Mon 6/19 (11:15am, 2:00pm, 6:00pm, 9:30pm), Tue 6/20 (11:15am, 3:15pm, 6:15pm, 9:50pm), Wed 6/21 (12:15pm, 3:40pm, 6:15pm, 9:50pm)
+
+    * [Past Lives](https://drafthouse.com/raleigh/show/past-lives): Mon 6/19 (11:55am, 2:45pm, 4:55pm, 7:45pm, 10:45pm), Tue 6/20 (11:55am, 2:05pm, 4:55pm, 7:45pm, 10:45pm), Wed 6/21 (11:55am, 2:00pm, 4:55pm, 7:45pm, 10:50pm)
+
+    * [Spider Man Across The Spider Verse](https://drafthouse.com/raleigh/show/spider-man-across-the-spider-verse): Mon 6/19 (11:55am, 1:30pm, 2:50pm, 5:30pm, 6:15pm, 9:40pm), Tue 6/20 (11:50am, 2:50pm, 4:25pm, 6:45pm, 10:10pm), Wed 6/21 (11:15am, 12:00pm, 1:15pm, 4:00pm, 6:45pm, 10:10pm)
+
+    * [The Blackening](https://drafthouse.com/raleigh/show/the-blackening): Mon 6/19 (12:30pm, 3:15pm, 5:35pm, 8:15pm, 10:55pm), Tue 6/20 (11:25am, 2:50pm, 5:30pm, 8:15pm, 10:55pm), Wed 6/21 (11:20am, 2:50pm, 5:30pm, 8:00pm, 10:55pm)
+
+    * [The Boogeyman 2023](https://drafthouse.com/raleigh/show/the-boogeyman-2023): Mon 6/19 (8:00pm), Tue 6/20 (8:00pm), Wed 6/21 (8:15pm)
+
+    * [The Flash 2023](https://drafthouse.com/raleigh/show/the-flash-2023): Mon 6/19 (9:00pm), Tue 6/20 (11:30am, 12:30pm, 9:15pm), Wed 6/21 (1:30pm, 5:00pm, 7:00pm, 8:30pm, 10:30pm), Thu 6/22 (1:00pm)
+
+    * [The Little Mermaid 2023](https://drafthouse.com/raleigh/show/the-little-mermaid-2023): Mon 6/19 (1:25pm, 3:25pm, 6:45pm, 10:05pm), Tue 6/20 (11:10am, 3:00pm, 6:30pm, 9:50pm), Wed 6/21 (12:40pm, 3:25pm, 4:40pm, 7:30pm, 10:35pm)
+
+    * [Transformers Rise Of The Beasts](https://drafthouse.com/raleigh/show/transformers-rise-of-the-beasts): Mon 6/19 (12:45pm, 3:55pm, 4:45pm, 7:15pm, 10:35pm), Tue 6/20 (1:15pm, 2:30pm, 4:00pm, 7:15pm, 10:25pm), Wed 6/21 (12:25pm, 2:55pm, 3:50pm, 7:15pm, 10:25pm)
+
 ### Tue 6/13 12:25pm
 * New movies: Past Lives, Hedwig and the Angry Inch
 
