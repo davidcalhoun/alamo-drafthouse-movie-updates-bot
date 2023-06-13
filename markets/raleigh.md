@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Tue 6/13 2:23pm
+* New movies: The Ultimate Willy Wonka Party, HEATHERS
+
+* New screenings: 
+    * [Heathers](https://drafthouse.com/raleigh/show/heathers): Mon 8/14 (7:00pm)
+
+    * [Live Q A The Ultimate Willy Wonka Party](https://drafthouse.com/raleigh/show/live-q-a-the-ultimate-willy-wonka-party): Tue 9/12 (7:00pm)
+
 ### Tue 6/13 1:17pm
 
 * New screenings: 
