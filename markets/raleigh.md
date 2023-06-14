@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 6/13 9:48pm
+* New movies: Mission: Impossible – Dead Reckoning Part One
+
+* New screenings: 
+    * [Mission Impossible Dead Reckoning Pt 1](https://drafthouse.com/raleigh/show/mission-impossible-dead-reckoning-pt-1): Sat 7/15 (1:30pm, 5:30pm, 9:30pm), Mon 7/17 (2:00pm, 9:45pm), Tue 7/18 (1:30pm, 5:30pm), Thu 7/20 (1:00pm)
+
 ### Tue 6/13 2:23pm
 * New movies: The Ultimate Willy Wonka Party, HEATHERS
 
