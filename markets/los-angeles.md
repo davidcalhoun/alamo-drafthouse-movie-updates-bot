@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Tue 6/13 9:18pm
+* New movies: Mission: Impossible – Dead Reckoning Part One, The Youtube Effect, Mission: Impossible – Dead Reckoning Part One
+
+* New screenings: 
+    * [Brunch Screenings Mission Impossible Dead Reckoning Pt 1 Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-mission-impossible-dead-reckoning-pt-1-brunch): Sat 7/15 (10:30am), Sun 7/16 (10:30am)
+
+    * [Mission Impossible Dead Reckoning Pt 1](https://drafthouse.com/los-angeles/show/mission-impossible-dead-reckoning-pt-1): Tue 7/11 (2:00pm, 6:00pm), Wed 7/12 (11:00am, 2:00pm, 6:00pm, 10:00pm), Thu 7/13 (2:30pm, 6:30pm, 10:30pm), Fri 7/14 (10:30am, 2:30pm, 6:30pm, 10:30pm), Sat 7/15 (2:30pm, 6:30pm, 10:30pm), Sun 7/16 (2:30pm, 6:30pm), Mon 7/17 (6:30pm), Tue 7/18 (6:30pm)
+
+    * [The Youtube Effect](https://drafthouse.com/los-angeles/show/the-youtube-effect): Sat 7/8 (3:30pm), Sun 7/9 (2:30pm), Mon 7/10 (5:00pm), Thu 7/13 (2:30pm)
+
 ### Mon 6/12 6:37pm
 * New movies: The Birdcage, No Hard Feelings
 
