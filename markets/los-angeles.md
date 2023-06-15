@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Thu 6/15 4:16pm
+
+* New screenings: 
+    * [Oldboy 2003](https://drafthouse.com/los-angeles/show/oldboy-2003): Wed 8/16 (4:30pm), Thu 8/17 (3:30pm, 7:00pm), Fri 8/18 (6:00pm, 9:30pm), Sun 8/20 (4:30pm), Wed 8/23 (4:30pm)
+
+    * [The Youtube Effect](https://drafthouse.com/los-angeles/show/the-youtube-effect): Tue 7/11 (11:30am)
+
 ### Thu 6/15 11:19am
 
 * New screenings: 
