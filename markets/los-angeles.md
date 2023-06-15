@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Thu 6/15 4:12am
+* New movies: Once Upon a Time in Uganda + Bad Black Double Feature, Oldboy 2003, Doom 2005
+
+* New screenings: 
+    * [Brunch Screenings Spirited Away Subtitled Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-spirited-away-subtitled-brunch): Sun 8/6 (11:30am)
+
+    * [Doom 2005](https://drafthouse.com/los-angeles/show/doom-2005): Wed 7/12 (8:00pm)
+
+    * [Fantastic Fest Presents Once Upon A Time In Uganda Bad Black Double Feature](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-once-upon-a-time-in-uganda-bad-black-double-feature): Mon 7/3 (7:00pm)
+
+    * [Oldboy 2003](https://drafthouse.com/los-angeles/show/oldboy-2003): Mon 8/14 (7:30pm)
+
 ### Tue 6/13 9:18pm
 * New movies: Mission: Impossible – Dead Reckoning Part One, The Youtube Effect, Mission: Impossible – Dead Reckoning Part One
 
