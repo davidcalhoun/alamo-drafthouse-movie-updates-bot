@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 6/15 11:19am
+
+* New screenings: 
+    * [Spider Man Across The Spider Verse](https://drafthouse.com/los-angeles/show/spider-man-across-the-spider-verse): Sat 6/17 (11:15am), Sun 6/18 (2:30pm)
+
 ### Thu 6/15 4:12am
 * New movies: Once Upon a Time in Uganda + Bad Black Double Feature, Oldboy 2003, Doom 2005
 
