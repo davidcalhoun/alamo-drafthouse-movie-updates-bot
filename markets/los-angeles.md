@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 6/15 6:36pm
+
+* New screenings: 
+    * [Tenet](https://drafthouse.com/los-angeles/show/tenet): Sun 7/16 (5:45pm)
+
 ### Thu 6/15 4:16pm
 
 * New screenings: 
