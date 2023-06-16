@@ -1,6 +1,22 @@
 # raleigh
 
 ## Movie updates
+### Fri 6/16 11:18am
+* New movies: The Youtube Effect, 2001: A Space Odyssey, Valley Girl, Valley Girl
+
+* New screenings: 
+    * [2001 A Space Odyssey](https://drafthouse.com/raleigh/show/2001-a-space-odyssey): Mon 9/4 (6:00pm)
+
+    * [Brunch Screenings Valley Girl 40th Anniversary](https://drafthouse.com/raleigh/show/brunch-screenings-valley-girl-40th-anniversary): Sat 8/12 (1:45pm)
+
+    * [Joy Ride](https://drafthouse.com/raleigh/show/joy-ride): Tue 7/11 (11:15am, 12:15pm)
+
+    * [Mission Impossible Dead Reckoning Pt 1](https://drafthouse.com/raleigh/show/mission-impossible-dead-reckoning-pt-1): Tue 7/11 (2:00pm, 5:30pm, 6:00pm, 10:00pm), Wed 7/19 (11:00am, 1:30pm, 3:00pm, 5:30pm, 10:00pm)
+
+    * [Oppenheimer](https://drafthouse.com/raleigh/show/oppenheimer): Thu 7/20 (6:00pm), Fri 7/21 (9:00pm)
+
+    * [The Youtube Effect](https://drafthouse.com/raleigh/show/the-youtube-effect): Fri 7/7 (4:00pm), Sat 7/8 (4:00pm), Sun 7/9 (4:00pm), Mon 7/10 (4:00pm), Tue 7/11 (3:00pm), Thu 7/13 (3:30pm)
+
 ### Tue 6/13 9:48pm
 * New movies: Mission: Impossible – Dead Reckoning Part One
 
