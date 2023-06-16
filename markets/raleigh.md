@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 6/16 12:24pm
+
+* New screenings: 
+    * [Oppenheimer](https://drafthouse.com/raleigh/show/oppenheimer): Fri 7/21 (9:00pm), Sat 7/22 (9:00pm), Sun 7/23 (9:00pm), Mon 7/24 (9:00pm), Tue 7/25 (9:00pm)
+
 ### Fri 6/16 11:18am
 * New movies: The Youtube Effect, 2001: A Space Odyssey, Valley Girl, Valley Girl
 
