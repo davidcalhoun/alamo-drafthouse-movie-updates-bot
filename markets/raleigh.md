@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Mon 6/19 1:17pm
+* New movies: No Hard Feelings
+
+* New screenings: 
+    * [Asteroid City](https://drafthouse.com/raleigh/show/asteroid-city): Thu 6/22 (7:30pm, 10:20pm)
+
+    * [Elemental](https://drafthouse.com/raleigh/show/elemental): Thu 6/22 (1:45pm)
+
+    * [No Hard Feelings](https://drafthouse.com/raleigh/show/no-hard-feelings): Thu 6/22 (4:45pm, 6:55pm, 9:45pm)
+
 ### Fri 6/16 4:18pm
 
 * New screenings: 
