@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 6/20 1:16pm
+* New movies: Barbie
+
+* New screenings: 
+    * [Advance Screening Barbie Blowout Party Early Access Screening](https://drafthouse.com/los-angeles/show/advance-screening-barbie-blowout-party-early-access-screening): Wed 7/19 (7:00pm)
+
 ### Mon 6/19 6:24pm
 
 * New screenings: 
