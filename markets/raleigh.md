@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Tue 6/20 10:18am
+
+* New screenings: 
+    * [Asteroid City](https://drafthouse.com/raleigh/show/asteroid-city): Fri 6/23 (11:55am, 2:20pm, 2:50pm, 5:10pm, 5:40pm, 8:00pm, 8:30pm, 10:50pm), Thu 6/29 (11:15am, 12:00pm, 2:15pm)
+
+    * [Indiana Jones And The Dial Of Destiny](https://drafthouse.com/raleigh/show/indiana-jones-and-the-dial-of-destiny): Thu 6/29 (5:15pm, 9:00pm)
+
 ### Mon 6/19 1:17pm
 * New movies: No Hard Feelings
 
