@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 6/19 6:24pm
+
+* New screenings: 
+    * [Oldboy 2003](https://drafthouse.com/los-angeles/show/oldboy-2003): Sat 8/19 (6:00pm, 9:30pm), Mon 8/21 (1:45pm, 5:15pm), Tue 8/22 (11:30am), Wed 8/23 (6:30pm)
+
 ### Thu 6/15 6:36pm
 
 * New screenings: 
