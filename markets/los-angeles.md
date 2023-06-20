@@ -1,6 +1,28 @@
 # los-angeles
 
 ## Movie updates
+### Tue 6/20 2:12pm
+* New movies: No Hard Feelings
+
+* New screenings: 
+    * [Elemental](https://drafthouse.com/los-angeles/show/elemental): Thu 6/22 (3:15pm, 6:20pm, 9:25pm)
+
+    * [Guardians Of The Galaxy Vol 3](https://drafthouse.com/los-angeles/show/guardians-of-the-galaxy-vol-3): Thu 6/22 (3:45pm)
+
+    * [No Hard Feelings](https://drafthouse.com/los-angeles/show/no-hard-feelings): Thu 6/22 (4:45pm, 6:10pm, 9:10pm)
+
+    * [Past Lives](https://drafthouse.com/los-angeles/show/past-lives): Thu 6/22 (3:00pm, 4:20pm, 7:20pm, 10:25pm)
+
+    * [Spider Man Across The Spider Verse](https://drafthouse.com/los-angeles/show/spider-man-across-the-spider-verse): Thu 6/22 (3:00pm, 3:35pm, 6:30pm, 10:10pm)
+
+    * [The Blackening](https://drafthouse.com/los-angeles/show/the-blackening): Thu 6/22 (3:10pm, 6:35pm, 10:30pm)
+
+    * [The Flash 2023](https://drafthouse.com/los-angeles/show/the-flash-2023): Thu 6/22 (2:45pm)
+
+    * [The Little Mermaid 2023](https://drafthouse.com/los-angeles/show/the-little-mermaid-2023): Thu 6/22 (2:45pm, 6:15pm, 9:45pm)
+
+    * [Transformers Rise Of The Beasts](https://drafthouse.com/los-angeles/show/transformers-rise-of-the-beasts): Thu 6/22 (3:50pm, 7:10pm, 9:30pm)
+
 ### Tue 6/20 1:16pm
 * New movies: Barbie
 
