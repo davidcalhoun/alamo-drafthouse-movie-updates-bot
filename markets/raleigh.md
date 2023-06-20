@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 6/20 1:17pm
+* New movies: The Triplets of Belleville
+
+* New screenings: 
+    * [Brunch Screenings The Triplets Of Belleville Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-the-triplets-of-belleville-brunch): Sun 6/25 (11:00am)
+
 ### Tue 6/20 11:18am
 
 * New screenings: 
