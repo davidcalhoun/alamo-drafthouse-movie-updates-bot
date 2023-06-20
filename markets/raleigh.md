@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Tue 6/20 11:18am
+
+* New screenings: 
+    * [Asteroid City](https://drafthouse.com/raleigh/show/asteroid-city): Thu 6/29 (11:30am, 12:00pm, 10:55pm)
+
+    * [Indiana Jones And The Dial Of Destiny](https://drafthouse.com/raleigh/show/indiana-jones-and-the-dial-of-destiny): Thu 6/29 (3:30pm, 5:30pm, 9:15pm)
+
 ### Tue 6/20 10:18am
 
 * New screenings: 
