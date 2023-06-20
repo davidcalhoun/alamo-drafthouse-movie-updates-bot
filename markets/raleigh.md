@@ -1,6 +1,38 @@
 # raleigh
 
 ## Movie updates
+### Tue 6/20 5:16pm
+* New movies: Spirited Away Subtitled, Spirited Away Dubbed
+
+* New screenings: 
+    * [Asteroid City](https://drafthouse.com/raleigh/show/asteroid-city): Fri 6/23 (11:30am), Sat 6/24 (11:40am, 1:40pm, 2:30pm, 5:00pm, 5:30pm, 8:00pm, 8:30pm, 10:50pm), Sun 6/25 (11:10am, 11:30am, 11:55am, 2:20pm, 2:50pm, 5:10pm, 5:40pm, 8:00pm, 8:30pm, 10:50pm), Mon 6/26 (11:30am, 2:20pm, 2:50pm, 5:10pm, 5:40pm, 8:00pm, 8:30pm, 10:50pm), Tue 6/27 (11:30am, 2:50pm, 5:40pm, 8:30pm), Wed 6/28 (1:15pm, 4:10pm)
+
+    * [Elemental](https://drafthouse.com/raleigh/show/elemental): Fri 6/23 (1:15pm, 3:00pm, 6:00pm, 9:00pm), Sat 6/24 (12:00pm, 3:00pm, 6:45pm, 10:35pm), Sun 6/25 (1:15pm, 2:00pm, 6:00pm, 9:00pm), Mon 6/26 (11:55am, 3:15pm, 6:45pm, 9:40pm), Tue 6/27 (11:55am, 4:00pm, 7:00pm, 9:55pm), Wed 6/28 (11:00am, 2:00pm, 6:00pm, 9:00pm)
+
+    * [Harry Potter And The Sorcerers Stone](https://drafthouse.com/raleigh/show/harry-potter-and-the-sorcerers-stone): Mon 8/7 (2:00pm)
+
+    * [Indiana Jones And The Dial Of Destiny](https://drafthouse.com/raleigh/show/indiana-jones-and-the-dial-of-destiny): Wed 7/5 (11:30am, 3:15pm)
+
+    * [Joy Ride](https://drafthouse.com/raleigh/show/joy-ride): Wed 7/12 (12:00pm, 1:45pm, 4:30pm, 7:15pm, 10:15pm)
+
+    * [Mission Impossible Dead Reckoning Pt 1](https://drafthouse.com/raleigh/show/mission-impossible-dead-reckoning-pt-1): Tue 7/11 (2:30pm, 6:30pm, 10:30pm), Wed 7/12 (1:30pm, 2:45pm, 5:30pm, 6:30pm, 9:55pm)
+
+    * [No Hard Feelings](https://drafthouse.com/raleigh/show/no-hard-feelings): Fri 6/23 (12:00pm, 4:00pm, 7:15pm, 10:00pm), Sat 6/24 (1:15pm, 4:15pm, 7:45pm, 10:55pm), Sun 6/25 (12:00pm, 4:00pm, 7:15pm, 10:15pm), Mon 6/26 (12:30pm, 1:00pm, 5:00pm, 7:45pm, 10:30pm), Tue 6/27 (11:15am, 2:00pm, 5:00pm, 7:15pm, 10:00pm), Wed 6/28 (12:30pm, 3:15pm, 4:45pm, 7:30pm, 10:15pm)
+
+    * [Past Lives](https://drafthouse.com/raleigh/show/past-lives): Fri 6/23 (12:55pm, 4:10pm, 7:00pm, 9:50pm), Sat 6/24 (11:15am, 2:15pm, 6:00pm, 9:00pm), Sun 6/25 (12:55pm, 4:10pm, 7:00pm, 9:50pm), Mon 6/26 (11:15am, 2:15pm, 4:25pm, 7:15pm, 10:05pm), Tue 6/27 (11:55am, 2:20pm, 5:10pm, 8:00pm, 10:50pm), Wed 6/28 (11:05am, 1:55pm, 4:55pm, 7:45pm, 10:35pm)
+
+    * [Spider Man Across The Spider Verse](https://drafthouse.com/raleigh/show/spider-man-across-the-spider-verse): Fri 6/23 (12:15pm, 2:45pm, 6:15pm, 8:15pm, 9:40pm), Sat 6/24 (12:15pm, 1:30pm, 4:00pm, 7:30pm, 8:45pm, 9:55pm), Sun 6/25 (12:15pm, 2:45pm, 6:15pm, 8:15pm, 9:40pm), Mon 6/26 (12:55pm, 4:00pm, 6:30pm, 9:55pm), Tue 6/27 (1:00pm, 3:20pm, 6:45pm, 10:10pm), Wed 6/28 (11:55am, 3:20pm, 6:45pm, 10:10pm)
+
+    * [Spirited Away](https://drafthouse.com/raleigh/show/spirited-away): Sat 8/5 (11:00am), Wed 8/9 (11:00am)
+
+    * [Spirited Away Dubbed](https://drafthouse.com/raleigh/show/spirited-away-dubbed): Tue 8/8 (2:00pm)
+
+    * [The Blackening](https://drafthouse.com/raleigh/show/the-blackening): Fri 6/23 (12:20pm, 3:50pm, 6:30pm, 10:55pm), Sat 6/24 (12:45pm, 3:30pm, 7:15pm, 10:30pm), Sun 6/25 (11:50am, 3:50pm, 6:30pm, 10:55pm), Mon 6/26 (1:20pm, 3:20pm, 3:45pm, 7:30pm, 10:10pm), Tue 6/27 (12:40pm, 3:30pm, 4:30pm, 7:45pm, 10:25pm), Wed 6/28 (12:00pm, 2:50pm, 5:30pm, 8:15pm, 10:55pm)
+
+    * [The Flash 2023](https://drafthouse.com/raleigh/show/the-flash-2023): Fri 6/23 (12:30pm, 1:00pm, 3:45pm, 4:45pm, 6:45pm, 10:15pm), Sat 6/24 (11:45am, 3:15pm, 3:45pm, 5:15pm, 7:00pm, 9:40pm), Sun 6/25 (12:30pm, 2:30pm, 3:45pm, 4:15pm, 6:45pm, 10:00pm), Mon 6/26 (11:45am, 1:30pm, 5:15pm, 6:00pm, 8:45pm, 9:30pm), Tue 6/27 (12:30pm, 1:30pm, 4:45pm, 6:15pm, 8:15pm, 9:45pm), Wed 6/28 (11:15am, 1:30pm, 2:45pm, 5:00pm, 6:15pm, 8:30pm, 9:45pm)
+
+    * [Transformers Rise Of The Beasts](https://drafthouse.com/raleigh/show/transformers-rise-of-the-beasts): Fri 6/23 (1:30pm, 4:30pm, 7:45pm, 9:15pm), Sat 6/24 (1:00pm, 4:30pm, 6:15pm, 9:25pm), Sun 6/25 (1:00pm, 5:00pm, 7:45pm, 9:15pm), Mon 6/26 (12:15pm, 3:30pm, 6:15pm, 9:25pm), Tue 6/27 (12:15pm, 2:45pm, 6:00pm, 9:15pm), Wed 6/28 (12:50pm, 4:00pm, 7:15pm, 10:25pm)
+
 ### Tue 6/20 4:18pm
 * New movies: Barbie, Do The Right Thing
 
