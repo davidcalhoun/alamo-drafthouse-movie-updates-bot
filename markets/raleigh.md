@@ -1,6 +1,40 @@
 # raleigh
 
 ## Movie updates
+### Tue 6/20 4:18pm
+* New movies: Barbie, Do The Right Thing
+
+* New screenings: 
+    * [Advance Screening Barbie Blowout Party Early Access Screening](https://drafthouse.com/raleigh/show/advance-screening-barbie-blowout-party-early-access-screening): Wed 7/19 (7:30pm)
+
+    * [Asteroid City](https://drafthouse.com/raleigh/show/asteroid-city): Thu 6/22 (8:30pm)
+
+    * [Do The Right Thing](https://drafthouse.com/raleigh/show/do-the-right-thing): Thu 6/22 (1:15pm)
+
+    * [Doll Parts 70 Years Of Trans Cinema Glen Or Glenda](https://drafthouse.com/raleigh/show/doll-parts-70-years-of-trans-cinema-glen-or-glenda): Thu 6/22 (12:30pm)
+
+    * [Elemental](https://drafthouse.com/raleigh/show/elemental): Thu 6/22 (6:00pm, 10:00pm)
+
+    * [Fast X](https://drafthouse.com/raleigh/show/fast-x): Thu 6/22 (12:50pm)
+
+    * [Guardians Of The Galaxy Vol 3](https://drafthouse.com/raleigh/show/guardians-of-the-galaxy-vol-3): Thu 6/22 (2:55pm)
+
+    * [No Hard Feelings](https://drafthouse.com/raleigh/show/no-hard-feelings): Thu 6/22 (5:45pm)
+
+    * [Past Lives](https://drafthouse.com/raleigh/show/past-lives): Thu 6/22 (11:45am, 1:55pm, 4:25pm, 7:15pm, 10:05pm)
+
+    * [Spider Man Across The Spider Verse](https://drafthouse.com/raleigh/show/spider-man-across-the-spider-verse): Thu 6/22 (11:25am, 2:50pm, 6:15pm, 9:40pm)
+
+    * [The Blackening](https://drafthouse.com/raleigh/show/the-blackening): Thu 6/22 (11:15am, 3:00pm, 4:55pm, 7:45pm, 10:25pm)
+
+    * [The Boogeyman 2023](https://drafthouse.com/raleigh/show/the-boogeyman-2023): Thu 6/22 (4:15pm)
+
+    * [The Flash 2023](https://drafthouse.com/raleigh/show/the-flash-2023): Thu 6/22 (11:30am, 6:30pm, 9:00pm)
+
+    * [The Little Mermaid 2023](https://drafthouse.com/raleigh/show/the-little-mermaid-2023): Thu 6/22 (2:40pm)
+
+    * [Transformers Rise Of The Beasts](https://drafthouse.com/raleigh/show/transformers-rise-of-the-beasts): Thu 6/22 (12:15pm, 3:30pm, 6:45pm, 9:55pm)
+
 ### Tue 6/20 1:17pm
 * New movies: The Triplets of Belleville
 
