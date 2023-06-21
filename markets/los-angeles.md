@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Wed 6/21 2:14pm
+
+* New screenings: 
+    * [Frances Ha](https://drafthouse.com/los-angeles/show/frances-ha): Sun 7/16 (12:15pm)
+
+    * [Interstellar](https://drafthouse.com/los-angeles/show/interstellar): Mon 7/17 (11:15am)
+
 ### Wed 6/21 12:12pm
 
 * New screenings: 
