@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Wed 6/21 12:24pm
+* New movies: Barbie, Barbie, Barbie
+
+* New screenings: 
+    * [Barbie](https://drafthouse.com/raleigh/show/barbie): Thu 7/20 (3:00pm, 10:15pm), Fri 7/21 (12:00pm, 3:00pm, 5:00pm, 6:00pm), Sat 7/22 (3:00pm, 6:00pm), Sun 7/23 (12:00pm, 3:00pm, 6:00pm), Mon 7/24 (12:00pm, 3:00pm, 6:00pm, 10:15pm), Tue 7/25 (12:00pm, 3:00pm, 6:00pm), Wed 7/26 (11:30am, 7:00pm, 10:00pm)
+
+    * [Costume Screening Barbie Slumber Party Pajama Screening](https://drafthouse.com/raleigh/show/costume-screening-barbie-slumber-party-pajama-screening): Fri 7/21 (8:00pm)
+
+    * [Movie Party Barbie Party Screening](https://drafthouse.com/raleigh/show/movie-party-barbie-party-screening): Sat 7/22 (10:30am)
+
 ### Tue 6/20 5:16pm
 * New movies: Spirited Away Subtitled, Spirited Away Dubbed
 
