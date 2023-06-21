@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Wed 6/21 9:20am
+* New movies: Barbie, Barbie, Barbie
+
+* New screenings: 
+    * [Barbie](https://drafthouse.com/los-angeles/show/barbie): Thu 7/20 (3:15pm, 6:30pm, 10:45pm), Fri 7/21 (11:45am, 3:00pm, 6:15pm, 9:30pm), Sat 7/22 (11:45am, 3:00pm, 6:15pm, 9:30pm), Sun 7/23 (11:45am, 3:00pm, 6:15pm, 9:30pm), Mon 7/24 (11:45am, 3:00pm, 6:15pm, 9:30pm), Tue 7/25 (11:45am, 3:00pm, 6:15pm, 9:30pm), Wed 7/26 (11:45am, 3:00pm, 6:15pm, 9:30pm), Thu 7/27 (3:15pm, 6:30pm, 9:45pm), Fri 7/28 (11:45am, 3:00pm, 6:15pm, 9:30pm), Sat 7/29 (3:00pm, 6:15pm, 9:30pm), Sun 7/30 (3:00pm, 6:15pm, 9:30pm), Mon 7/31 (11:45am, 3:00pm, 6:15pm, 9:30pm), Tue 8/1 (11:45am, 3:00pm, 6:15pm, 9:30pm), Wed 8/2 (11:45am, 3:00pm, 6:15pm, 9:30pm)
+
+    * [Brunch Screenings Barbie Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-barbie-brunch): Sat 7/22 (11:15am), Sun 7/23 (11:15am), Sat 7/29 (11:45am), Sun 7/30 (11:45am)
+
+    * [Movie Party Barbie Party Screening](https://drafthouse.com/los-angeles/show/movie-party-barbie-party-screening): Thu 7/20 (7:30pm), Fri 7/21 (7:00pm), Tue 7/25 (7:00pm)
+
 ### Tue 6/20 6:26pm
 
 * New screenings: 
