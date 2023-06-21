@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Wed 6/21 7:18pm
+* New movies: Brunch Screenings: EASY A Brunch
+
+* New screenings: 
+    * [Brunch Screenings Easy A Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-easy-a-brunch): Sat 7/29 (11:00am)
+
+    * [Joy Ride](https://drafthouse.com/raleigh/show/joy-ride): Tue 7/11 (12:15pm, 1:30pm)
+
+    * [Mission Impossible Dead Reckoning Pt 1](https://drafthouse.com/raleigh/show/mission-impossible-dead-reckoning-pt-1): Tue 7/11 (2:45pm, 4:15pm), Tue 7/18 (2:00pm, 6:00pm, 9:55pm), Thu 7/20 (11:40am)
+
 ### Wed 6/21 6:18pm
 
 * New screenings: 
