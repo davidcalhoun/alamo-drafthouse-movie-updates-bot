@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Wed 6/21 5:17pm
+* New movies: Ruby Gillman, Teenage Kraken
+
+* New screenings: 
+    * [Asteroid City](https://drafthouse.com/raleigh/show/asteroid-city): Thu 6/29 (11:45am, 12:30pm), Fri 6/30 (11:30am, 2:20pm, 5:10pm, 8:00pm, 10:50pm)
+
+    * [Ruby Gillman Teenage Kraken](https://drafthouse.com/raleigh/show/ruby-gillman-teenage-kraken): Thu 6/29 (2:45pm), Fri 6/30 (12:45pm, 3:30pm, 6:15pm, 9:00pm)
+
 ### Wed 6/21 3:14pm
 * New movies: Barbie
 
