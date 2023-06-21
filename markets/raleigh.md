@@ -1,6 +1,22 @@
 # raleigh
 
 ## Movie updates
+### Wed 6/21 3:14pm
+* New movies: Barbie
+
+* New screenings: 
+    * [Barbie](https://drafthouse.com/raleigh/show/barbie): Thu 7/20 (3:30pm, 9:45pm), Sun 7/23 (12:30pm, 3:30pm, 6:30pm, 9:30pm)
+
+    * [Costume Screening Barbie Barbiecore Dress Up](https://drafthouse.com/raleigh/show/costume-screening-barbie-barbiecore-dress-up): Thu 7/20 (6:30pm)
+
+    * [Indiana Jones And The Dial Of Destiny](https://drafthouse.com/raleigh/show/indiana-jones-and-the-dial-of-destiny): Fri 6/30 (10:30am, 1:15pm, 2:15pm, 5:00pm, 6:00pm, 8:45pm, 9:45pm), Sat 7/1 (10:30am, 1:15pm, 2:15pm, 5:00pm, 6:00pm, 8:45pm, 9:45pm), Sun 7/2 (10:30am, 1:15pm, 2:15pm, 5:00pm, 6:00pm, 8:45pm, 9:45pm), Tue 7/4 (10:30am, 11:30am, 2:15pm, 3:15pm, 6:00pm, 7:00pm, 9:45pm)
+
+    * [Joy Ride](https://drafthouse.com/raleigh/show/joy-ride): Mon 7/10 (4:30pm), Tue 7/11 (12:15pm, 10:15pm), Thu 7/13 (10:45pm)
+
+    * [Mission Impossible Dead Reckoning Pt 1](https://drafthouse.com/raleigh/show/mission-impossible-dead-reckoning-pt-1): Tue 7/11 (2:30pm, 9:45pm), Thu 7/13 (11:30am, 12:30pm, 3:15pm, 4:15pm, 7:00pm, 8:00pm)
+
+    * [The Youtube Effect](https://drafthouse.com/raleigh/show/the-youtube-effect): Tue 7/11 (3:00pm)
+
 ### Wed 6/21 2:23pm
 
 * New screenings: 
