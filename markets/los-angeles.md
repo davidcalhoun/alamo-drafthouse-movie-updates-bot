@@ -1,6 +1,29 @@
 # los-angeles
 
 ## Movie updates
+### Tue 6/20 6:26pm
+
+* New screenings: 
+    * [Asteroid City](https://drafthouse.com/los-angeles/show/asteroid-city): Fri 6/23 (11:45am, 1:30pm, 2:45pm, 4:30pm, 5:45pm, 7:15pm, 10:40pm), Sat 6/24 (5:30pm, 7:00pm, 9:55pm), Sun 6/25 (2:45pm, 4:30pm, 5:45pm, 8:45pm, 9:15pm), Mon 6/26 (11:45am, 1:25pm, 2:45pm, 4:30pm, 5:45pm, 8:45pm), Tue 6/27 (12:45pm, 1:40pm, 3:45pm, 4:45pm, 6:45pm), Wed 6/28 (11:30am, 1:15pm, 2:30pm, 4:15pm)
+
+    * [Brunch Screenings Asteroid City Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-asteroid-city-brunch): Sat 6/24 (11:30am)
+
+    * [Elemental](https://drafthouse.com/los-angeles/show/elemental): Fri 6/23 (11:35am, 2:45pm, 6:00pm, 9:10pm), Sat 6/24 (11:35am, 2:45pm, 6:00pm, 9:10pm), Sun 6/25 (11:35am, 2:45pm, 6:00pm, 9:10pm), Mon 6/26 (11:35am, 2:45pm, 6:00pm, 9:10pm), Tue 6/27 (11:40am, 2:45pm, 6:00pm, 9:10pm), Wed 6/28 (11:40am, 2:45pm, 6:00pm, 9:10pm)
+
+    * [No Hard Feelings](https://drafthouse.com/los-angeles/show/no-hard-feelings): Fri 6/23 (11:00am, 2:00pm, 5:00pm, 8:00pm, 11:00pm), Sat 6/24 (11:00am, 2:00pm, 5:00pm, 8:00pm, 11:00pm), Sun 6/25 (11:00am, 2:00pm, 5:00pm, 8:00pm, 10:35pm), Mon 6/26 (11:00am, 2:00pm, 5:00pm, 8:00pm, 11:00pm), Tue 6/27 (1:00pm, 4:30pm, 7:30pm, 10:25pm), Wed 6/28 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:30pm)
+
+    * [Past Lives](https://drafthouse.com/los-angeles/show/past-lives): Fri 6/23 (1:00pm, 4:10pm, 7:45pm, 10:15pm), Sat 6/24 (12:45pm, 4:00pm, 7:25pm, 10:35pm), Sun 6/25 (1:00pm, 4:10pm, 7:20pm, 10:20pm), Mon 6/26 (1:00pm, 4:10pm, 7:15pm, 10:15pm), Tue 6/27 (1:15pm, 4:00pm, 7:10pm, 10:10pm), Wed 6/28 (11:00am, 2:00pm, 5:00pm, 7:15pm, 10:15pm)
+
+    * [Spider Man Across The Spider Verse](https://drafthouse.com/los-angeles/show/spider-man-across-the-spider-verse): Fri 6/23 (11:45am, 3:25pm, 7:00pm, 10:35pm), Sat 6/24 (11:25am, 3:25pm, 7:00pm, 10:25pm), Sun 6/25 (11:15am, 2:25pm, 6:00pm, 9:35pm), Mon 6/26 (11:45am, 3:25pm, 7:30pm, 10:10pm), Tue 6/27 (12:45pm, 4:15pm, 7:45pm, 9:45pm), Wed 6/28 (11:45am, 3:25pm, 7:00pm, 9:00pm)
+
+    * [The Blackening](https://drafthouse.com/los-angeles/show/the-blackening): Fri 6/23 (12:40pm, 3:40pm, 7:00pm, 10:00pm), Sat 6/24 (12:50pm, 3:40pm, 7:15pm, 10:00pm), Sun 6/25 (12:40pm, 3:40pm, 7:00pm, 10:00pm), Mon 6/26 (12:40pm, 3:40pm, 7:00pm, 10:00pm), Tue 6/27 (12:35pm, 3:30pm, 7:00pm, 10:15pm), Wed 6/28 (12:40pm, 3:40pm, 7:00pm, 10:20pm)
+
+    * [The Flash 2023](https://drafthouse.com/los-angeles/show/the-flash-2023): Fri 6/23 (8:45pm), Sat 6/24 (8:30pm), Sun 6/25 (12:45pm, 10:20pm), Mon 6/26 (10:20pm), Tue 6/27 (9:25pm), Wed 6/28 (5:25pm, 10:00pm)
+
+    * [The Little Mermaid 2023](https://drafthouse.com/los-angeles/show/the-little-mermaid-2023): Fri 6/23 (12:10pm, 3:30pm, 6:30pm, 9:50pm), Sat 6/24 (12:10pm, 3:45pm, 6:30pm, 10:10pm), Sun 6/25 (12:10pm, 3:30pm, 6:30pm, 9:50pm), Mon 6/26 (12:00pm, 3:30pm, 6:30pm, 9:50pm), Tue 6/27 (12:00pm, 3:25pm, 6:30pm, 10:00pm), Wed 6/28 (12:00pm, 3:30pm, 6:30pm, 9:50pm)
+
+    * [Transformers Rise Of The Beasts](https://drafthouse.com/los-angeles/show/transformers-rise-of-the-beasts): Fri 6/23 (12:30pm, 4:00pm, 7:30pm, 10:45pm), Sat 6/24 (12:00pm, 2:30pm, 6:00pm, 9:30pm), Sun 6/25 (12:30pm, 3:50pm, 7:10pm, 10:30pm), Mon 6/26 (11:15am, 2:30pm, 6:00pm, 9:30pm), Tue 6/27 (11:10am, 2:30pm, 6:00pm, 9:50pm), Wed 6/28 (11:10am, 2:35pm, 6:00pm, 9:25pm)
+
 ### Tue 6/20 2:12pm
 * New movies: No Hard Feelings
 
