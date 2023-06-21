@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Wed 6/21 2:23pm
+
+* New screenings: 
+    * [Mission Impossible Dead Reckoning Pt 1](https://drafthouse.com/raleigh/show/mission-impossible-dead-reckoning-pt-1): Fri 7/14 (10:30am, 2:15pm, 6:00pm, 9:45pm), Sun 7/16 (10:30am, 2:15pm, 6:00pm, 9:45pm)
+
 ### Wed 6/21 12:24pm
 * New movies: Barbie, Barbie, Barbie
 
