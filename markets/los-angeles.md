@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 6/21 12:12pm
+
+* New screenings: 
+    * [Barbie](https://drafthouse.com/los-angeles/show/barbie): Thu 7/20 (4:15pm, 9:45pm), Fri 7/21 (12:30pm, 3:45pm), Sat 7/22 (2:30pm, 5:45pm), Sun 7/23 (2:30pm, 5:45pm)
+
 ### Wed 6/21 9:20am
 * New movies: Barbie, Barbie, Barbie
 
