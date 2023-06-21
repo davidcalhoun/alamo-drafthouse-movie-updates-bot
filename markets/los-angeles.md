@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 6/21 4:15pm
+* New movies: Brunch Screenings: EASY A Brunch
+
+* New screenings: 
+    * [Brunch Screenings Easy A Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-easy-a-brunch): Sat 7/29 (11:15am)
+
+    * [Mission Impossible Dead Reckoning Pt 1](https://drafthouse.com/los-angeles/show/mission-impossible-dead-reckoning-pt-1): Tue 7/11 (10:00pm)
+
 ### Wed 6/21 2:14pm
 
 * New screenings: 
