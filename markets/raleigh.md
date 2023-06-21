@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Wed 6/21 6:18pm
+
+* New screenings: 
+    * [Indiana Jones And The Dial Of Destiny](https://drafthouse.com/raleigh/show/indiana-jones-and-the-dial-of-destiny): Mon 7/3 (2:20pm, 6:00pm, 9:45pm), Tue 7/4 (1:30pm, 5:15pm)
+
+    * [Ruby Gillman Teenage Kraken](https://drafthouse.com/raleigh/show/ruby-gillman-teenage-kraken): Fri 6/30 (10:45am), Sat 7/1 (10:45am), Sun 7/2 (10:45am), Mon 7/3 (11:45am), Tue 7/4 (11:45am)
+
 ### Wed 6/21 5:17pm
 * New movies: Ruby Gillman, Teenage Kraken
 
