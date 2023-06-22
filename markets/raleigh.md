@@ -1,6 +1,17 @@
 # raleigh
 
 ## Movie updates
+### Wed 6/21 9:49pm
+
+* New screenings: 
+    * [Asteroid City](https://drafthouse.com/raleigh/show/asteroid-city): Wed 7/5 (10:15pm)
+
+    * [Barbie](https://drafthouse.com/raleigh/show/barbie): Mon 7/24 (11:30am, 2:30pm, 5:30pm, 8:30pm)
+
+    * [Oppenheimer](https://drafthouse.com/raleigh/show/oppenheimer): Mon 7/24 (11:15am)
+
+    * [Ruby Gillman Teenage Kraken](https://drafthouse.com/raleigh/show/ruby-gillman-teenage-kraken): Mon 7/3 (12:00pm, 2:40pm), Tue 7/4 (12:55pm)
+
 ### Wed 6/21 7:18pm
 * New movies: Brunch Screenings: EASY A Brunch
 
