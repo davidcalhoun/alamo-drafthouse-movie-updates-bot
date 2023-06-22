@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 6/22 1:17pm
+* New movies: Brunch Screenings: HEATHERS Brunch
+
+* New screenings: 
+    * [Brunch Screenings Heathers Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-heathers-brunch): Sat 8/12 (11:00am)
+
 ### Wed 6/21 10:44pm
 
 * New screenings: 
