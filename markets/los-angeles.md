@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 6/22 11:19am
+
+* New screenings: 
+    * [Asteroid City](https://drafthouse.com/los-angeles/show/asteroid-city): Sun 6/25 (12:45pm)
+
 ### Wed 6/21 4:15pm
 * New movies: Brunch Screenings: EASY A Brunch
 
