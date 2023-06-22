@@ -1,6 +1,15 @@
 # raleigh
 
 ## Movie updates
+### Wed 6/21 10:44pm
+
+* New screenings: 
+    * [Indiana Jones And The Dial Of Destiny](https://drafthouse.com/raleigh/show/indiana-jones-and-the-dial-of-destiny): Sun 7/9 (9:50pm)
+
+    * [Joy Ride](https://drafthouse.com/raleigh/show/joy-ride): Sun 7/9 (2:00pm, 4:45pm, 7:30pm, 10:15pm), Wed 7/12 (4:30pm, 7:15pm)
+
+    * [Mission Impossible Dead Reckoning Pt 1](https://drafthouse.com/raleigh/show/mission-impossible-dead-reckoning-pt-1): Wed 7/12 (9:55pm)
+
 ### Wed 6/21 9:49pm
 
 * New screenings: 
