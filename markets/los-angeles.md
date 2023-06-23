@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 6/23 1:18pm
+* New movies: Once Upon a Time in Uganda
+
+* New screenings: 
+    * [Once Upon A Time In Uganda](https://drafthouse.com/los-angeles/show/once-upon-a-time-in-uganda): Thu 7/6 (7:00pm), Fri 7/7 (4:10pm), Sat 7/8 (6:00pm), Sun 7/9 (5:15pm)
+
 ### Fri 6/23 12:14pm
 * New movies: When Marnie Was There Subtitled
 
