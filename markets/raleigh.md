@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 6/23 7:21pm
+* New movies: Joy Ride
+
+* New screenings: 
+    * [Advance Screening Joy Ride National Sneak Preview](https://drafthouse.com/raleigh/show/advance-screening-joy-ride-national-sneak-preview): Sat 7/1 (7:15pm)
+
 ### Fri 6/23 5:18pm
 
 * New screenings: 
