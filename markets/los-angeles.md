@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 6/23 12:14pm
+* New movies: When Marnie Was There Subtitled
+
+* New screenings: 
+    * [World Of Animation When Marnie Was There Subtitled Brunch](https://drafthouse.com/los-angeles/show/world-of-animation-when-marnie-was-there-subtitled-brunch): Sun 7/9 (11:00am)
+
 ### Thu 6/22 11:19am
 
 * New screenings: 
