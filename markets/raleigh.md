@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 6/23 3:17pm
+* New movies: When Marnie Was There Subtitled
+
+* New screenings: 
+    * [World Of Animation When Marnie Was There Subtitled Brunch](https://drafthouse.com/raleigh/show/world-of-animation-when-marnie-was-there-subtitled-brunch): Sun 7/9 (11:00am)
+
 ### Thu 6/22 1:17pm
 * New movies: Brunch Screenings: HEATHERS Brunch
 
