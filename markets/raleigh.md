@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Fri 6/23 5:18pm
+
+* New screenings: 
+    * [Barbie](https://drafthouse.com/raleigh/show/barbie): Thu 7/27 (11:30am, 3:00pm, 6:00pm, 10:35pm)
+
+    * [Oppenheimer](https://drafthouse.com/raleigh/show/oppenheimer): Thu 7/27 (11:00am, 2:30pm, 6:30pm, 9:00pm)
+
 ### Fri 6/23 3:17pm
 * New movies: When Marnie Was There Subtitled
 
