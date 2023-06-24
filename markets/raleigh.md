@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 6/23 9:58pm
+* New movies: Once Upon a Time in Uganda
+
+* New screenings: 
+    * [Once Upon A Time In Uganda](https://drafthouse.com/raleigh/show/once-upon-a-time-in-uganda): Fri 7/7 (7:30pm), Mon 7/10 (9:30pm), Tue 7/11 (7:00pm), Wed 7/12 (4:30pm), Thu 7/13 (12:50pm)
+
 ### Fri 6/23 7:21pm
 * New movies: Joy Ride
 
