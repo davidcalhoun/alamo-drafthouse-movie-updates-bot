@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 6/26 6:21pm
+
+* New screenings: 
+    * [Indiana Jones And The Dial Of Destiny](https://drafthouse.com/raleigh/show/indiana-jones-and-the-dial-of-destiny): Wed 7/5 (11:30am, 3:15pm)
+
 ### Fri 6/23 9:58pm
 * New movies: Once Upon a Time in Uganda
 
