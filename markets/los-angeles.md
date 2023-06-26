@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 6/26 3:16pm
+* New movies: We Might As Well Be Dead
+
+* New screenings: 
+    * [We Might As Well Be Dead](https://drafthouse.com/los-angeles/show/we-might-as-well-be-dead): Mon 7/3 (5:15pm)
+
 ### Fri 6/23 1:18pm
 * New movies: Once Upon a Time in Uganda
 
