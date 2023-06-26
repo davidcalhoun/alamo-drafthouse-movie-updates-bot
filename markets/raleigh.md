@@ -1,6 +1,31 @@
 # raleigh
 
 ## Movie updates
+### Mon 6/26 7:21pm
+
+* New screenings: 
+    * [Asteroid City](https://drafthouse.com/raleigh/show/asteroid-city): Thu 6/29 (11:15am, 12:00pm, 1:00pm, 3:40pm, 7:45pm), Fri 6/30 (11:30am, 11:55am, 2:20pm, 5:10pm, 7:15pm)
+
+    * [Doll Parts 70 Years Of Trans Cinema By Hook Or By Crook](https://drafthouse.com/raleigh/show/doll-parts-70-years-of-trans-cinema-by-hook-or-by-crook): Thu 6/29 (11:55am)
+
+    * [Elemental](https://drafthouse.com/raleigh/show/elemental): Thu 6/29 (12:15pm, 3:15pm, 7:00pm, 9:55pm), Fri 6/30 (1:15pm, 3:50pm, 7:30pm, 10:05pm)
+
+    * [Indiana Jones And The Dial Of Destiny](https://drafthouse.com/raleigh/show/indiana-jones-and-the-dial-of-destiny): Thu 6/29 (4:15pm, 8:15pm), Fri 6/30 (11:45am, 1:30pm, 2:00pm, 3:45pm, 5:15pm, 5:45pm, 8:00pm, 8:55pm, 9:30pm)
+
+    * [No Hard Feelings](https://drafthouse.com/raleigh/show/no-hard-feelings): Thu 6/29 (11:30am, 1:30pm, 5:00pm, 8:00pm, 10:45pm), Fri 6/30 (1:00pm, 4:15pm, 7:00pm, 10:25pm)
+
+    * [Past Lives](https://drafthouse.com/raleigh/show/past-lives): Thu 6/29 (2:10pm)
+
+    * [Ruby Gillman Teenage Kraken](https://drafthouse.com/raleigh/show/ruby-gillman-teenage-kraken): Thu 6/29 (2:15pm, 4:55pm, 7:30pm, 10:05pm), Fri 6/30 (11:25am, 3:25pm, 6:00pm, 8:35pm)
+
+    * [Spider Man Across The Spider Verse](https://drafthouse.com/raleigh/show/spider-man-across-the-spider-verse): Thu 6/29 (1:15pm, 4:45pm, 6:00pm, 9:25pm), Fri 6/30 (12:15pm, 4:20pm, 6:45pm, 10:10pm)
+
+    * [The Blackening](https://drafthouse.com/raleigh/show/the-blackening): Thu 6/29 (10:35pm), Fri 6/30 (10:55pm)
+
+    * [The Flash 2023](https://drafthouse.com/raleigh/show/the-flash-2023): Thu 6/29 (11:00am, 2:30pm, 6:15pm, 9:45pm), Fri 6/30 (12:45pm, 2:45pm, 6:15pm, 9:45pm)
+
+    * [Transformers Rise Of The Beasts](https://drafthouse.com/raleigh/show/transformers-rise-of-the-beasts): Thu 6/29 (12:25pm, 3:50pm, 6:30pm, 9:40pm), Fri 6/30 (12:50pm, 4:00pm, 7:45pm, 9:45pm)
+
 ### Mon 6/26 6:21pm
 
 * New screenings: 
