@@ -1,6 +1,27 @@
 # raleigh
 
 ## Movie updates
+### Mon 6/26 10:01pm
+
+* New screenings: 
+    * [Asteroid City](https://drafthouse.com/raleigh/show/asteroid-city): Sat 7/1 (11:30am, 11:55am, 2:20pm, 5:10pm, 8:00pm, 10:50pm), Sun 7/2 (11:30am, 11:55am, 2:20pm, 5:10pm, 7:15pm, 10:15pm), Mon 7/3 (12:10pm, 1:00pm, 3:00pm, 3:55pm, 7:55pm, 10:45pm), Tue 7/4 (11:25am, 1:50pm, 2:15pm, 4:40pm, 5:10pm, 8:00pm, 9:55pm), Wed 7/5 (11:25am, 1:25pm, 2:20pm, 3:00pm, 5:00pm, 8:00pm)
+
+    * [Elemental](https://drafthouse.com/raleigh/show/elemental): Sat 7/1 (1:15pm, 3:50pm, 7:30pm, 10:10pm), Sun 7/2 (1:15pm, 3:50pm, 7:30pm, 10:25pm), Mon 7/3 (12:30pm, 3:30pm, 6:30pm, 9:25pm), Tue 7/4 (1:00pm, 4:00pm, 6:45pm, 10:30pm), Wed 7/5 (12:55pm, 3:20pm, 6:15pm, 10:15pm)
+
+    * [Indiana Jones And The Dial Of Destiny](https://drafthouse.com/raleigh/show/indiana-jones-and-the-dial-of-destiny): Sat 7/1 (11:45am, 1:30pm, 2:00pm, 3:40pm, 5:15pm, 5:45pm, 8:55pm, 9:30pm), Sun 7/2 (11:45am, 1:30pm, 2:00pm, 3:45pm, 5:15pm, 5:45pm, 8:00pm, 8:55pm, 9:30pm), Mon 7/3 (12:45pm, 4:15pm, 8:30pm), Tue 7/4 (12:50pm, 4:00pm, 7:45pm), Wed 7/5 (5:15pm, 9:00pm)
+
+    * [No Hard Feelings](https://drafthouse.com/raleigh/show/no-hard-feelings): Sat 7/1 (1:00pm, 4:15pm, 7:45pm, 10:30pm), Sun 7/2 (1:00pm, 4:15pm, 7:00pm, 9:45pm), Mon 7/3 (1:10pm, 4:30pm, 7:15pm, 10:55pm), Tue 7/4 (1:15pm, 4:30pm, 7:30pm, 10:40pm), Wed 7/5 (12:15pm, 4:10pm, 7:45pm, 10:40pm)
+
+    * [Ruby Gillman Teenage Kraken](https://drafthouse.com/raleigh/show/ruby-gillman-teenage-kraken): Sat 7/1 (11:25am, 3:25pm, 6:00pm, 8:35pm), Sun 7/2 (11:25am, 3:25pm, 6:00pm, 8:35pm), Mon 7/3 (6:45pm, 10:00pm), Tue 7/4 (6:00pm, 8:35pm), Wed 7/5 (11:50am, 2:25pm, 6:00pm, 8:40pm)
+
+    * [Spider Man Across The Spider Verse](https://drafthouse.com/raleigh/show/spider-man-across-the-spider-verse): Sat 7/1 (12:15pm, 4:20pm, 6:45pm, 10:10pm), Sun 7/2 (12:15pm, 4:20pm, 6:45pm, 10:10pm), Mon 7/3 (12:50pm, 4:00pm, 7:30pm, 9:20pm), Tue 7/4 (11:50am, 3:15pm, 7:15pm, 10:15pm), Wed 7/5 (11:55am, 3:50pm, 7:15pm, 10:05pm)
+
+    * [The Blackening](https://drafthouse.com/raleigh/show/the-blackening): Sat 7/1 (10:25pm), Sun 7/2 (10:05pm), Mon 7/3 (5:50pm), Tue 7/4 (10:50pm), Wed 7/5 (10:50pm)
+
+    * [The Flash 2023](https://drafthouse.com/raleigh/show/the-flash-2023): Sat 7/1 (12:45pm, 2:45pm, 6:15pm, 9:45pm), Sun 7/2 (12:45pm, 2:45pm, 6:15pm, 9:45pm), Mon 7/3 (11:15am, 2:45pm, 6:15pm, 9:45pm), Tue 7/4 (11:15am, 3:00pm, 7:00pm, 9:45pm), Wed 7/5 (12:40pm, 4:15pm, 6:45pm, 9:10pm)
+
+    * [Transformers Rise Of The Beasts](https://drafthouse.com/raleigh/show/transformers-rise-of-the-beasts): Sat 7/1 (12:50pm, 4:00pm, 7:00pm, 9:55pm), Sun 7/2 (12:50pm, 4:00pm, 7:45pm, 10:55pm), Mon 7/3 (11:40am, 2:50pm, 6:00pm, 9:10pm), Tue 7/4 (11:50am, 2:50pm, 6:30pm, 9:40pm), Wed 7/5 (12:20pm, 3:30pm, 6:55pm, 10:30pm)
+
 ### Mon 6/26 7:21pm
 
 * New screenings: 
