@@ -1,6 +1,42 @@
 # los-angeles
 
 ## Movie updates
+### Mon 6/26 6:48pm
+* New movies: Every Body, Joy Ride
+
+* New screenings: 
+    * [Advance Screening Joy Ride National Sneak Preview](https://drafthouse.com/los-angeles/show/advance-screening-joy-ride-national-sneak-preview): Sat 7/1 (7:15pm)
+
+    * [Asteroid City](https://drafthouse.com/los-angeles/show/asteroid-city): Thu 6/29 (2:00pm, 3:30pm, 7:00pm), Fri 6/30 (10:45am, 1:45pm, 5:45pm, 8:45pm), Sat 7/1 (12:30pm, 4:10pm, 6:45pm, 10:00pm), Sun 7/2 (6:00pm, 6:50pm, 10:20pm), Mon 7/3 (11:10am, 12:20pm, 2:15pm, 9:00pm), Tue 7/4 (11:00am, 2:15pm, 5:15pm), Wed 7/5 (1:15pm, 4:00pm, 9:00pm)
+
+    * [Brunch Screenings Asteroid City Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-asteroid-city-brunch): Sun 7/2 (12:00pm)
+
+    * [Brunch Screenings Indiana Jones And The Dial Of Destiny Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-indiana-jones-and-the-dial-of-destiny-brunch): Sat 7/1 (12:20pm), Sun 7/2 (11:35am)
+
+    * [Dunkirk](https://drafthouse.com/los-angeles/show/dunkirk): Wed 7/5 (1:00pm)
+
+    * [Elemental](https://drafthouse.com/los-angeles/show/elemental): Thu 6/29 (4:15pm, 7:15pm, 10:25pm), Fri 6/30 (1:00pm, 4:15pm, 7:15pm, 10:25pm), Sat 7/1 (1:15pm, 4:20pm, 7:15pm, 10:25pm), Sun 7/2 (1:15pm, 4:15pm, 7:15pm, 10:20pm), Mon 7/3 (1:15pm, 4:15pm, 7:15pm, 10:20pm), Tue 7/4 (1:15pm, 4:15pm, 7:15pm), Wed 7/5 (1:15pm, 4:15pm, 7:10pm, 10:20pm)
+
+    * [Every Body](https://drafthouse.com/los-angeles/show/every-body): Thu 6/29 (7:30pm, 10:15pm), Fri 6/30 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sat 7/1 (11:10am, 1:50pm, 3:40pm, 7:30pm, 10:15pm), Sun 7/2 (11:10am, 1:55pm, 4:40pm, 7:30pm, 10:10pm), Mon 7/3 (11:20am, 2:00pm, 4:45pm, 7:30pm, 10:10pm), Tue 7/4 (11:30am, 2:00pm, 4:45pm, 7:30pm), Wed 7/5 (11:20am, 2:00pm, 4:45pm, 7:30pm, 10:10pm)
+
+    * [Graveyard Shift The Return Of The Living Dead](https://drafthouse.com/los-angeles/show/graveyard-shift-the-return-of-the-living-dead): Tue 7/4 (8:15pm)
+
+    * [Inception](https://drafthouse.com/los-angeles/show/inception): Tue 7/4 (12:15pm), Wed 7/5 (4:15pm)
+
+    * [Indiana Jones And The Dial Of Destiny](https://drafthouse.com/los-angeles/show/indiana-jones-and-the-dial-of-destiny): Thu 6/29 (3:15pm, 5:00pm, 8:45pm, 10:00pm), Fri 6/30 (2:00pm, 4:40pm, 8:30pm), Sat 7/1 (9:45pm), Sun 7/2 (2:15pm, 9:00pm), Mon 7/3 (3:15pm, 10:15pm), Wed 7/5 (10:15pm)
+
+    * [No Hard Feelings](https://drafthouse.com/los-angeles/show/no-hard-feelings): Thu 6/29 (2:05pm, 5:00pm, 8:00pm, 10:55pm), Fri 6/30 (11:15am, 2:10pm, 5:05pm, 8:00pm, 11:00pm), Sat 7/1 (11:15am, 2:10pm, 5:05pm, 8:00pm, 11:00pm), Sun 7/2 (11:15am, 2:10pm, 5:05pm, 8:00pm, 10:20pm), Mon 7/3 (11:15am, 2:10pm, 5:05pm, 8:00pm, 10:45pm), Tue 7/4 (11:15am, 2:10pm, 5:05pm, 8:00pm), Wed 7/5 (11:15am, 2:10pm, 5:05pm, 8:00pm, 10:20pm)
+
+    * [Past Lives](https://drafthouse.com/los-angeles/show/past-lives): Thu 6/29 (2:00pm, 4:55pm, 7:50pm, 10:50pm), Fri 6/30 (12:45pm, 3:45pm, 7:40pm, 10:45pm), Sat 7/1 (12:35pm, 4:30pm, 7:45pm, 10:45pm), Sun 7/2 (11:20am, 3:20pm, 7:45pm, 10:45pm), Mon 7/3 (12:45pm, 3:45pm, 7:45pm, 10:40pm), Tue 7/4 (12:45pm, 3:45pm, 7:45pm), Wed 7/5 (12:40pm, 3:45pm, 7:45pm, 10:45pm)
+
+    * [Spider Man Across The Spider Verse](https://drafthouse.com/los-angeles/show/spider-man-across-the-spider-verse): Thu 6/29 (3:00pm, 6:45pm, 10:20pm), Fri 6/30 (12:20pm, 4:00pm, 6:45pm, 10:20pm), Sat 7/1 (12:15pm, 4:00pm, 6:20pm, 9:55pm), Sun 7/2 (12:20pm, 4:00pm, 6:40pm, 9:45pm), Mon 7/3 (12:20pm, 4:00pm, 6:45pm, 10:20pm), Tue 7/4 (12:25pm, 4:00pm, 6:45pm), Wed 7/5 (12:20pm, 4:00pm, 6:45pm, 9:50pm)
+
+    * [The Blackening](https://drafthouse.com/los-angeles/show/the-blackening): Thu 6/29 (3:25pm, 7:00pm, 9:55pm), Fri 6/30 (12:35pm, 3:30pm, 7:25pm, 10:25pm), Sat 7/1 (12:30pm, 3:25pm, 7:25pm, 10:30pm), Sun 7/2 (12:35pm, 3:30pm, 7:30pm, 10:30pm), Mon 7/3 (12:50pm, 3:30pm, 7:30pm, 10:30pm), Tue 7/4 (12:50pm, 3:30pm, 7:30pm), Wed 7/5 (12:50pm, 3:20pm, 7:20pm, 10:25pm)
+
+    * [The Flash 2023](https://drafthouse.com/los-angeles/show/the-flash-2023): Thu 6/29 (3:40pm, 6:15pm, 9:55pm), Fri 6/30 (12:00pm, 3:40pm, 6:15pm, 9:55pm), Sat 7/1 (12:00pm, 3:40pm, 6:10pm, 9:45pm), Sun 7/2 (12:00pm, 3:40pm, 6:15pm, 9:55pm), Mon 7/3 (11:45am, 3:40pm, 6:15pm, 9:50pm), Tue 7/4 (11:45am, 3:40pm, 6:15pm), Wed 7/5 (11:45am, 3:35pm, 6:15pm, 9:55pm)
+
+    * [Transformers Rise Of The Beasts](https://drafthouse.com/los-angeles/show/transformers-rise-of-the-beasts): Thu 6/29 (3:40pm)
+
 ### Mon 6/26 3:16pm
 * New movies: We Might As Well Be Dead
 
