@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 6/27 9:23am
+* New movies: Theater Camp, Theater Camp
+
+* New screenings: 
+    * [Brunch Screenings Theater Camp Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-theater-camp-brunch): Sat 7/22 (11:00am), Sun 7/23 (11:00am)
+
+    * [Theater Camp](https://drafthouse.com/los-angeles/show/theater-camp): Thu 7/20 (6:00pm, 9:00pm), Fri 7/21 (11:00am, 1:55pm, 4:45pm, 7:45pm, 10:35pm), Sat 7/22 (1:55pm, 4:45pm, 7:45pm, 10:35pm), Sun 7/23 (1:55pm, 4:45pm, 7:45pm, 10:35pm), Mon 7/24 (11:00am, 1:55pm, 4:45pm, 7:45pm), Tue 7/25 (11:00am, 1:55pm, 4:45pm, 7:45pm), Wed 7/26 (11:00am, 1:55pm, 4:45pm, 7:45pm)
+
 ### Tue 6/27 7:16am
 * New movies: Talk to Me
 
