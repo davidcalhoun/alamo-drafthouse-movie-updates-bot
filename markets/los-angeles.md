@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 6/27 7:16am
+* New movies: Talk to Me
+
+* New screenings: 
+    * [Livestream Q A Talk To Me](https://drafthouse.com/los-angeles/show/livestream-q-a-talk-to-me): Tue 7/11 (5:30pm)
+
 ### Mon 6/26 6:48pm
 * New movies: Every Body, Joy Ride
 
