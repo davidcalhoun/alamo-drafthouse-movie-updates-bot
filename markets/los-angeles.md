@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Tue 6/27 3:16pm
+
+* New screenings: 
+    * [Interstellar](https://drafthouse.com/los-angeles/show/interstellar): Sat 7/15 (12:00pm)
+
+    * [Tenet](https://drafthouse.com/los-angeles/show/tenet): Sat 7/15 (9:45pm)
+
 ### Tue 6/27 9:23am
 * New movies: Theater Camp, Theater Camp
 
