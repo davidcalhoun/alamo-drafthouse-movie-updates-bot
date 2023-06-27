@@ -1,6 +1,15 @@
 # los-angeles
 
 ## Movie updates
+### Tue 6/27 4:17pm
+
+* New screenings: 
+    * [Interstellar](https://drafthouse.com/los-angeles/show/interstellar): Fri 7/14 (6:00pm)
+
+    * [Mission Impossible Dead Reckoning Pt 1](https://drafthouse.com/los-angeles/show/mission-impossible-dead-reckoning-pt-1): Thu 7/13 (1:45pm, 5:45pm, 9:45pm), Wed 7/19 (11:00am, 3:00pm, 6:15pm, 10:10pm), Thu 7/20 (2:50pm, 6:45pm, 10:40pm), Fri 7/21 (10:30am, 2:30pm, 6:30pm, 10:30pm), Sat 7/22 (10:30am, 2:30pm, 6:30pm, 10:30pm), Sun 7/23 (10:30am, 2:30pm, 6:30pm)
+
+    * [Tenet](https://drafthouse.com/los-angeles/show/tenet): Fri 7/14 (2:15pm)
+
 ### Tue 6/27 3:16pm
 
 * New screenings: 
