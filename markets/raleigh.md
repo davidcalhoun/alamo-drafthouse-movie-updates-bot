@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 6/27 10:21am
+* New movies: Talk to Me
+
+* New screenings: 
+    * [Livestream Q A Talk To Me](https://drafthouse.com/raleigh/show/livestream-q-a-talk-to-me): Tue 7/11 (8:30pm)
+
 ### Mon 6/26 10:01pm
 
 * New screenings: 
