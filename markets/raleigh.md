@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 6/28 3:19am
+* New movies: Haunted Mansion 2023
+
+* New screenings: 
+    * [Haunted Mansion 2023](https://drafthouse.com/raleigh/show/haunted-mansion-2023): Thu 7/27 (3:30pm, 6:45pm, 9:55pm), Fri 7/28 (12:15pm, 3:30pm, 6:45pm, 9:55pm), Sat 7/29 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Sun 7/30 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Mon 7/31 (11:45am, 3:00pm, 6:15pm, 9:30pm), Tue 8/1 (11:30am, 2:45pm, 6:00pm, 9:15pm)
+
 ### Tue 6/27 11:00pm
 * New movies: Cade – The Tortured Crossing, Shiva Baby, Alligator, Phantasm, The Toxic Avenger Part II, The Toxic Avenger Part III: The Last Temptation of Toxie, Miami Connection, D.E.B.S., Wet Hot American Summer, Detention, Raging Bull, Grease
 
