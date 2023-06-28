@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Wed 6/28 11:21am
+
+* New screenings: 
+    * [Mission Impossible Dead Reckoning Pt 1](https://drafthouse.com/raleigh/show/mission-impossible-dead-reckoning-pt-1): Mon 7/17 (11:30am, 3:15pm)
+
 ### Wed 6/28 3:19am
 * New movies: Haunted Mansion 2023
 
