@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 6/27 10:00pm
+* New movies: Where the Wild Things Are
+
+
+
 ### Tue 6/27 10:21am
 * New movies: Talk to Me
 
