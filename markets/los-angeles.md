@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 6/28 12:16am
+* New movies: Haunted Mansion 2023
+
+* New screenings: 
+    * [Haunted Mansion 2023](https://drafthouse.com/los-angeles/show/haunted-mansion-2023): Thu 7/27 (4:00pm, 7:15pm, 10:30pm), Fri 7/28 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Sat 7/29 (3:45pm, 7:00pm, 10:15pm), Sun 7/30 (3:45pm, 7:00pm, 10:15pm), Mon 7/31 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Tue 8/1 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Wed 8/2 (12:30pm, 3:45pm, 7:00pm, 10:15pm)
+
 ### Tue 6/27 6:47pm
 * New movies: Where the Wild Things Are
 
