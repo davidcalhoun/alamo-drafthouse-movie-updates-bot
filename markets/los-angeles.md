@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Tue 6/27 6:47pm
+* New movies: Where the Wild Things Are
+
+* New screenings: 
+    * [Joy Ride](https://drafthouse.com/los-angeles/show/joy-ride): Thu 7/13 (2:15pm), Fri 7/14 (11:20am, 3:00pm, 6:15pm, 9:45pm), Sat 7/15 (2:50pm, 6:00pm, 9:40pm), Sun 7/16 (2:45pm, 6:00pm, 9:35pm), Mon 7/17 (11:25am, 3:00pm, 6:15pm, 9:40pm), Tue 7/18 (10:20pm), Wed 7/19 (12:00pm, 2:50pm, 4:30pm, 10:25pm)
+
+    * [Mission Impossible Dead Reckoning Pt 1](https://drafthouse.com/los-angeles/show/mission-impossible-dead-reckoning-pt-1): Fri 7/14 (11:00am, 2:15pm, 5:45pm, 9:10pm), Sat 7/15 (10:45am, 2:00pm, 5:40pm, 9:00pm), Sun 7/16 (10:45am, 2:00pm, 5:35pm, 9:00pm), Mon 7/17 (11:00am, 2:15pm, 5:45pm, 9:10pm), Tue 7/18 (12:30pm, 5:45pm, 9:40pm), Wed 7/19 (12:30pm, 5:45pm, 9:40pm)
+
+    * [Once Upon A Time In Uganda](https://drafthouse.com/los-angeles/show/once-upon-a-time-in-uganda): Tue 7/11 (12:10pm), Thu 7/13 (4:30pm)
+
 ### Tue 6/27 4:17pm
 
 * New screenings: 
