@@ -1,6 +1,34 @@
 # raleigh
 
 ## Movie updates
+### Tue 6/27 11:00pm
+* New movies: Cade – The Tortured Crossing, Shiva Baby, Alligator, Phantasm, The Toxic Avenger Part II, The Toxic Avenger Part III: The Last Temptation of Toxie, Miami Connection, D.E.B.S., Wet Hot American Summer, Detention, Raging Bull, Grease
+
+* New screenings: 
+    * [Brunch Screenings D E B S Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-d-e-b-s-brunch): Sun 8/27 (12:30pm)
+
+    * [Brunch Screenings Wet Hot American Summer Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-wet-hot-american-summer-brunch): Sat 8/26 (11:00am)
+
+    * [Cade The Tortured Crossing](https://drafthouse.com/raleigh/show/cade-the-tortured-crossing): Tue 8/8 (7:00pm)
+
+    * [Detention](https://drafthouse.com/raleigh/show/detention): Mon 8/7 (7:00pm)
+
+    * [Raging Bull](https://drafthouse.com/raleigh/show/raging-bull): Thu 8/17 (3:00pm)
+
+    * [Shiva Baby](https://drafthouse.com/raleigh/show/shiva-baby): Tue 8/15 (7:00pm)
+
+    * [Sing Along Grease](https://drafthouse.com/raleigh/show/sing-along-grease): Wed 8/9 (7:00pm)
+
+    * [Terror Tuesday Alligator](https://drafthouse.com/raleigh/show/terror-tuesday-alligator): Tue 8/15 (9:30pm)
+
+    * [Terror Tuesday Phantasm](https://drafthouse.com/raleigh/show/terror-tuesday-phantasm): Tue 8/22 (9:30pm)
+
+    * [The Toxic Avenger Part Ii](https://drafthouse.com/raleigh/show/the-toxic-avenger-part-ii): Mon 8/14 (9:45pm)
+
+    * [The Toxic Avenger Part Iii The Last Temptation Of Toxie](https://drafthouse.com/raleigh/show/the-toxic-avenger-part-iii-the-last-temptation-of-toxie): Mon 8/28 (9:30pm)
+
+    * [Weird Wednesday Miami Connection](https://drafthouse.com/raleigh/show/weird-wednesday-miami-connection): Wed 8/2 (9:30pm)
+
 ### Tue 6/27 10:00pm
 * New movies: Where the Wild Things Are
 
