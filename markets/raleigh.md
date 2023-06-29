@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Wed 6/28 9:56pm
+* New movies: Good Burger, Orphan
+
+* New screenings: 
+    * [Signature Programming Good Burger](https://drafthouse.com/raleigh/show/signature-programming-good-burger): Wed 8/30 (6:00pm)
+
+    * [Terror Tuesday Orphan](https://drafthouse.com/raleigh/show/terror-tuesday-orphan): Tue 7/25 (9:30pm)
+
 ### Wed 6/28 11:21am
 
 * New screenings: 
