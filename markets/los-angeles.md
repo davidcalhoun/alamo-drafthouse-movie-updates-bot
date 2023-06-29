@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 6/29 2:14pm
+* New movies: Haunted Mansion 2023
+
+* New screenings: 
+    * [Brunch Screenings Haunted Mansion 2023 Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-haunted-mansion-2023-brunch): Sat 7/29 (12:30pm), Sun 7/30 (12:30pm)
+
 ### Thu 6/29 10:15am
 
 * New screenings: 
