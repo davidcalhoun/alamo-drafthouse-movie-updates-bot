@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 6/29 10:15am
+
+* New screenings: 
+    * [Indiana Jones And The Dial Of Destiny](https://drafthouse.com/los-angeles/show/indiana-jones-and-the-dial-of-destiny): Thu 6/29 (9:50pm, 10:15pm), Sat 7/1 (10:30pm)
+
 ### Wed 6/28 12:16am
 * New movies: Haunted Mansion 2023
 
