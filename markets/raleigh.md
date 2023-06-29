@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Thu 6/29 7:20pm
+* New movies: Shrek 2, Drop Dead Gorgeous
+
+* New screenings: 
+    * [Champagne Cinema Drop Dead Gorgeous](https://drafthouse.com/raleigh/show/champagne-cinema-drop-dead-gorgeous): Wed 8/23 (6:45pm)
+
+    * [Signature Programming Shrek 2 Swamp Party](https://drafthouse.com/raleigh/show/signature-programming-shrek-2-swamp-party): Sun 8/13 (11:00am)
+
 ### Wed 6/28 9:56pm
 * New movies: Good Burger, Orphan
 
