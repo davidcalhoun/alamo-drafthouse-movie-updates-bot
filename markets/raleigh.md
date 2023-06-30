@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 6/30 12:26pm
+* New movies: Grease
+
+
+
 ### Fri 6/30 11:21am
 * New movies: Killer Workout
 
