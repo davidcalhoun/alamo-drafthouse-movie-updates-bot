@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Fri 6/30 7:15am
+* New movies: Bottoms, Bottoms, Bottoms
+
+* New screenings: 
+    * [Bottoms](https://drafthouse.com/los-angeles/show/bottoms): Thu 8/24 (4:00pm, 5:00pm, 6:45pm, 7:45pm, 9:30pm, 10:30pm), Fri 8/25 (11:00am, 11:45am, 1:45pm, 2:30pm, 4:30pm, 5:15pm, 7:15pm, 8:00pm, 10:00pm, 10:45pm), Sat 8/26 (1:45pm, 2:30pm, 4:30pm, 5:15pm, 7:15pm, 8:00pm, 10:00pm, 10:45pm), Mon 8/28 (11:00am, 11:45am, 1:45pm, 2:30pm, 4:30pm, 5:15pm, 7:15pm, 8:00pm, 10:00pm), Tue 8/29 (11:00am, 11:45am, 1:45pm, 2:30pm, 4:30pm, 5:15pm, 7:15pm, 10:00pm), Wed 8/30 (11:00am, 11:45am, 1:45pm, 2:30pm, 4:30pm, 5:15pm, 7:15pm, 10:00pm), Thu 8/31 (3:45pm, 6:30pm, 9:15pm), Fri 9/1 (11:00am, 1:45pm, 4:30pm, 7:15pm, 10:00pm), Sat 9/2 (1:45pm, 4:30pm, 7:15pm, 10:00pm), Sun 9/3 (1:45pm, 4:30pm, 7:15pm, 10:00pm), Mon 9/4 (11:00am, 1:45pm, 4:30pm, 7:15pm, 10:00pm), Tue 9/5 (11:00am, 1:45pm, 4:30pm, 7:15pm, 10:00pm), Wed 9/6 (11:00am, 1:45pm, 4:30pm, 7:15pm, 10:00pm)
+
+    * [Brunch Screenings Bottoms Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-bottoms-brunch): Sat 8/26 (11:00am, 11:45am), Sat 9/2 (11:00am), Sun 9/3 (11:00am)
+
+    * [Drafthouse Recommends Bottoms Advance Screening W Live Q A](https://drafthouse.com/los-angeles/show/drafthouse-recommends-bottoms-advance-screening-w-live-q-a): Tue 8/22 (5:30pm)
+
 ### Thu 6/29 7:52pm
 
 * New screenings: 
