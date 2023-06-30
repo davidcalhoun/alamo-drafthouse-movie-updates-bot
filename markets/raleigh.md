@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 6/30 11:21am
+* New movies: Killer Workout
+
+* New screenings: 
+    * [Terror Tuesday Killer Workout](https://drafthouse.com/raleigh/show/terror-tuesday-killer-workout): Tue 8/29 (9:30pm)
+
 ### Fri 6/30 10:19am
 * New movies: Bottoms, Bottoms
 
