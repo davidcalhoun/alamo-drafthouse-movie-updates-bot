@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 6/30 2:14pm
+
+* New screenings: 
+    * [Once Upon A Time In Uganda](https://drafthouse.com/los-angeles/show/once-upon-a-time-in-uganda): Wed 7/12 (3:00pm)
+
 ### Fri 6/30 12:13pm
 * New movies: Stephen Curry: Underrated, All I Wanna Do aka Strike!
 
