@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Fri 6/30 10:19am
+* New movies: Bottoms, Bottoms
+
+* New screenings: 
+    * [Bottoms](https://drafthouse.com/raleigh/show/bottoms): Thu 8/31 (4:00pm, 6:45pm, 9:30pm), Fri 9/1 (11:00am, 1:45pm, 4:30pm, 7:15pm, 10:00pm), Sat 9/2 (11:00am, 1:45pm, 4:30pm, 7:15pm, 10:00pm), Mon 9/4 (12:30pm, 3:15pm), Tue 9/5 (1:45pm, 4:30pm, 7:15pm, 10:00pm), Wed 9/6 (11:00am, 1:45pm, 4:30pm, 7:15pm, 10:00pm)
+
+    * [Drafthouse Recommends Bottoms Advance Screening W Livestream Q A](https://drafthouse.com/raleigh/show/drafthouse-recommends-bottoms-advance-screening-w-livestream-q-a): Tue 8/22 (8:30pm)
+
 ### Thu 6/29 7:20pm
 * New movies: Shrek 2, Drop Dead Gorgeous
 
