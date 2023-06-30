@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 6/30 12:13pm
+* New movies: Stephen Curry: Underrated, All I Wanna Do aka Strike!
+
+* New screenings: 
+    * [Brunch Screenings All I Wanna Do Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-all-i-wanna-do-brunch): Sat 8/19 (11:00am)
+
+    * [Stephen Curry Underrated](https://drafthouse.com/los-angeles/show/stephen-curry-underrated): Sat 7/22 (10:45am), Mon 7/24 (1:45pm), Tue 7/25 (4:00pm), Wed 7/26 (11:15am)
+
 ### Fri 6/30 9:22am
 * New movies: Grease
 
