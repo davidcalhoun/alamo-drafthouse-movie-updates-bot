@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 6/30 9:22am
+* New movies: Grease
+
+
+
 ### Fri 6/30 7:15am
 * New movies: Bottoms, Bottoms, Bottoms
 
