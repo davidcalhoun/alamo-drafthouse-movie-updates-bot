@@ -1,6 +1,48 @@
 # los-angeles
 
 ## Movie updates
+### Thu 6/29 6:42pm
+* New movies: Daybreakers, Splice, The Changeling 1980, Heathers, Cade – The Tortured Crossing, Good Burger, Shrek 2, Harry Potter and the Sorcerer's Stone, Shiva Baby, Identikit aka The Driver's Seat, Wet Hot American Summer, Drop Dead Gorgeous, Detention, Harry Potter and the Chamber of Secrets, Raging Bull, Valley Girl, Harry Potter and the Goblet of Fire, Harry Potter and the Prisoner of Azkaban, Grease
+
+* New screenings: 
+    * [Brunch Screenings Heathers Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-heathers-brunch): Sat 8/12 (11:15am), Sun 8/13 (11:00am)
+
+    * [Brunch Screenings Wet Hot American Summer Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-wet-hot-american-summer-brunch): Sat 8/26 (11:15am)
+
+    * [Cade The Tortured Crossing](https://drafthouse.com/los-angeles/show/cade-the-tortured-crossing): Tue 8/8 (7:00pm)
+
+    * [Champagne Cinema Drop Dead Gorgeous](https://drafthouse.com/los-angeles/show/champagne-cinema-drop-dead-gorgeous): Sun 8/20 (11:30am)
+
+    * [Daybreakers](https://drafthouse.com/los-angeles/show/daybreakers): Tue 7/25 (8:00pm), Wed 7/26 (8:00pm)
+
+    * [Detention](https://drafthouse.com/los-angeles/show/detention): Mon 8/7 (5:10pm)
+
+    * [Harry Potter And The Chamber Of Secrets](https://drafthouse.com/los-angeles/show/harry-potter-and-the-chamber-of-secrets): Sun 8/13 (2:00pm)
+
+    * [Harry Potter And The Goblet Of Fire](https://drafthouse.com/los-angeles/show/harry-potter-and-the-goblet-of-fire): Mon 8/28 (6:15pm)
+
+    * [Harry Potter And The Prisoner Of Azkaban](https://drafthouse.com/los-angeles/show/harry-potter-and-the-prisoner-of-azkaban): Sun 8/20 (2:20pm)
+
+    * [Harry Potter And The Sorcerers Stone](https://drafthouse.com/los-angeles/show/harry-potter-and-the-sorcerers-stone): Sun 8/6 (2:15pm)
+
+    * [Raging Bull](https://drafthouse.com/los-angeles/show/raging-bull): Thu 8/17 (2:30pm)
+
+    * [Shiva Baby](https://drafthouse.com/los-angeles/show/shiva-baby): Tue 8/15 (7:15pm)
+
+    * [Signature Programming Good Burger](https://drafthouse.com/los-angeles/show/signature-programming-good-burger): Sat 8/26 (9:30pm)
+
+    * [Signature Programming Shrek 2 Swamp Party](https://drafthouse.com/los-angeles/show/signature-programming-shrek-2-swamp-party): Fri 8/11 (9:30pm)
+
+    * [Sing Along Grease](https://drafthouse.com/los-angeles/show/sing-along-grease): Sat 8/5 (11:00am)
+
+    * [Splice](https://drafthouse.com/los-angeles/show/splice): Tue 7/18 (8:00pm), Wed 7/19 (8:00pm)
+
+    * [The Changeling 1980](https://drafthouse.com/los-angeles/show/the-changeling-1980): Tue 8/1 (8:00pm), Wed 8/2 (8:00pm)
+
+    * [The Drivers Seat](https://drafthouse.com/los-angeles/show/the-drivers-seat): Wed 8/16 (8:00pm)
+
+    * [Valley Girl](https://drafthouse.com/los-angeles/show/valley-girl): Sat 8/12 (2:10pm)
+
 ### Thu 6/29 2:14pm
 * New movies: Haunted Mansion 2023
 
