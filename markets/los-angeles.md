@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Thu 6/29 7:52pm
+
+* New screenings: 
+    * [Oldboy 2003](https://drafthouse.com/los-angeles/show/oldboy-2003): Tue 8/22 (3:00pm)
+
+    * [Signature Programming Good Burger](https://drafthouse.com/los-angeles/show/signature-programming-good-burger): Mon 8/28 (6:45pm)
+
 ### Thu 6/29 6:42pm
 * New movies: Daybreakers, Splice, The Changeling 1980, Heathers, Cade – The Tortured Crossing, Good Burger, Shrek 2, Harry Potter and the Sorcerer's Stone, Shiva Baby, Identikit aka The Driver's Seat, Wet Hot American Summer, Drop Dead Gorgeous, Detention, Harry Potter and the Chamber of Secrets, Raging Bull, Valley Girl, Harry Potter and the Goblet of Fire, Harry Potter and the Prisoner of Azkaban, Grease
 
