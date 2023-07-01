@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 6/30 10:06pm
+* New movies: Bad Biology
+
+* New screenings: 
+    * [Weird Wednesday Bad Biology](https://drafthouse.com/raleigh/show/weird-wednesday-bad-biology): Wed 8/23 (9:30pm)
+
 ### Fri 6/30 12:26pm
 * New movies: Grease
 
