@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 6/30 6:52pm
+* New movies: Biosphere
+
+* New screenings: 
+    * [Biosphere](https://drafthouse.com/los-angeles/show/biosphere): Thu 7/6 (5:30pm, 8:30pm), Fri 7/7 (3:15pm, 6:15pm), Sat 7/8 (3:15pm, 6:15pm), Sun 7/9 (3:15pm, 6:15pm)
+
 ### Fri 6/30 2:14pm
 
 * New screenings: 
