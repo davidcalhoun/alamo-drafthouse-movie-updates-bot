@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 7/3 2:25pm
+* New movies: Mission: Impossible – Dead Reckoning Part One
+
+* New screenings: 
+    * [Advance Screening Mission Impossible Dead Reckoning Pt 1 Walmart See It First](https://drafthouse.com/raleigh/show/advance-screening-mission-impossible-dead-reckoning-pt-1-walmart-see-it-first): Sun 7/9 (3:00pm)
+
 ### Mon 7/3 11:21am
 * New movies: Insidious: The Red Door
 
