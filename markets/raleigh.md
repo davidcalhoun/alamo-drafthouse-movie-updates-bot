@@ -1,6 +1,18 @@
 # raleigh
 
 ## Movie updates
+### Mon 7/3 11:21am
+* New movies: Insidious: The Red Door
+
+* New screenings: 
+    * [Indiana Jones And The Dial Of Destiny](https://drafthouse.com/raleigh/show/indiana-jones-and-the-dial-of-destiny): Thu 7/6 (2:45pm, 5:45pm, 6:30pm, 9:30pm)
+
+    * [Insidious The Red Door](https://drafthouse.com/raleigh/show/insidious-the-red-door): Thu 7/6 (10:15pm)
+
+    * [Joy Ride](https://drafthouse.com/raleigh/show/joy-ride): Thu 7/6 (3:00pm)
+
+    * [Ruby Gillman Teenage Kraken](https://drafthouse.com/raleigh/show/ruby-gillman-teenage-kraken): Thu 7/6 (12:15pm)
+
 ### Fri 6/30 10:06pm
 * New movies: Bad Biology
 
