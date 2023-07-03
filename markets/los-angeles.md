@@ -1,6 +1,32 @@
 # los-angeles
 
 ## Movie updates
+### Mon 7/3 3:17pm
+* New movies: Insidious: The Red Door
+
+* New screenings: 
+    * [Asteroid City](https://drafthouse.com/los-angeles/show/asteroid-city): Thu 7/6 (2:00pm, 4:55pm, 7:50pm, 10:45pm)
+
+    * [Elemental](https://drafthouse.com/los-angeles/show/elemental): Thu 7/6 (3:00pm, 6:00pm, 9:05pm)
+
+    * [Every Body](https://drafthouse.com/los-angeles/show/every-body): Thu 7/6 (2:15pm, 5:00pm)
+
+    * [Indiana Jones And The Dial Of Destiny](https://drafthouse.com/los-angeles/show/indiana-jones-and-the-dial-of-destiny): Thu 7/6 (1:45pm, 2:45pm, 5:15pm, 9:00pm)
+
+    * [Insidious The Red Door](https://drafthouse.com/los-angeles/show/insidious-the-red-door): Thu 7/6 (4:30pm, 7:30pm, 9:45pm)
+
+    * [Joy Ride](https://drafthouse.com/los-angeles/show/joy-ride): Thu 7/6 (7:45pm, 10:35pm)
+
+    * [No Hard Feelings](https://drafthouse.com/los-angeles/show/no-hard-feelings): Thu 7/6 (3:50pm, 6:45pm, 9:40pm)
+
+    * [Past Lives](https://drafthouse.com/los-angeles/show/past-lives): Thu 7/6 (3:15pm, 7:15pm, 10:15pm)
+
+    * [Spider Man Across The Spider Verse](https://drafthouse.com/los-angeles/show/spider-man-across-the-spider-verse): Thu 7/6 (3:40pm, 6:15pm, 10:00pm)
+
+    * [The Blackening](https://drafthouse.com/los-angeles/show/the-blackening): Thu 7/6 (2:30pm, 10:30pm)
+
+    * [The Flash 2023](https://drafthouse.com/los-angeles/show/the-flash-2023): Thu 7/6 (3:20pm)
+
 ### Fri 6/30 6:52pm
 * New movies: Biosphere
 
