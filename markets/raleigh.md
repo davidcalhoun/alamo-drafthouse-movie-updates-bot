@@ -1,6 +1,33 @@
 # raleigh
 
 ## Movie updates
+### Mon 7/3 6:22pm
+
+* New screenings: 
+    * [Asteroid City](https://drafthouse.com/raleigh/show/asteroid-city): Thu 7/6 (12:55pm, 4:15pm, 7:45pm, 10:40pm)
+
+    * [Doll Parts 70 Years Of Trans Cinema Come Back To The 5 And Dime Jimmy Dean Jimmy Dean](https://drafthouse.com/raleigh/show/doll-parts-70-years-of-trans-cinema-come-back-to-the-5-and-dime-jimmy-dean-jimmy-dean): Thu 7/6 (1:45pm)
+
+    * [Dunkirk](https://drafthouse.com/raleigh/show/dunkirk): Thu 7/6 (11:00am)
+
+    * [Elemental](https://drafthouse.com/raleigh/show/elemental): Thu 7/6 (12:30pm, 3:45pm, 7:15pm, 10:10pm)
+
+    * [Indiana Jones And The Dial Of Destiny](https://drafthouse.com/raleigh/show/indiana-jones-and-the-dial-of-destiny): Thu 7/6 (12:00pm, 1:15pm, 2:00pm, 8:45pm, 10:00pm)
+
+    * [Insidious The Red Door](https://drafthouse.com/raleigh/show/insidious-the-red-door): Thu 7/6 (4:30pm, 5:00pm, 7:30pm)
+
+    * [No Hard Feelings](https://drafthouse.com/raleigh/show/no-hard-feelings): Thu 7/6 (1:30pm, 4:55pm, 8:00pm, 10:45pm)
+
+    * [Ruby Gillman Teenage Kraken](https://drafthouse.com/raleigh/show/ruby-gillman-teenage-kraken): Thu 7/6 (11:55am, 3:25pm, 6:00pm)
+
+    * [Spider Man Across The Spider Verse](https://drafthouse.com/raleigh/show/spider-man-across-the-spider-verse): Thu 7/6 (1:00pm, 2:30pm, 6:15pm, 9:40pm)
+
+    * [The Blackening](https://drafthouse.com/raleigh/show/the-blackening): Thu 7/6 (10:30pm)
+
+    * [The Flash 2023](https://drafthouse.com/raleigh/show/the-flash-2023): Thu 7/6 (11:25am)
+
+    * [Transformers Rise Of The Beasts](https://drafthouse.com/raleigh/show/transformers-rise-of-the-beasts): Thu 7/6 (3:00pm, 6:45pm)
+
 ### Mon 7/3 2:25pm
 * New movies: Mission: Impossible – Dead Reckoning Part One
 
