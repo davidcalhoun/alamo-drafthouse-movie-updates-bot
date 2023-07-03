@@ -1,6 +1,42 @@
 # los-angeles
 
 ## Movie updates
+### Mon 7/3 4:18pm
+* New movies: Trolls World Tour
+
+* New screenings: 
+    * [Asteroid City](https://drafthouse.com/los-angeles/show/asteroid-city): Fri 7/7 (11:00am, 2:00pm, 5:00pm, 8:00pm, 10:55pm), Sat 7/8 (11:00am, 1:55pm, 4:50pm, 7:50pm, 10:50pm), Sun 7/9 (10:45am, 2:05pm, 5:05pm, 8:00pm, 10:15pm), Mon 7/10 (11:40am, 1:45pm, 4:45pm, 7:50pm, 10:15pm), Tue 7/11 (11:30am, 2:30pm, 4:30pm, 7:30pm, 10:25pm), Wed 7/12 (11:45am, 4:30pm, 7:30pm, 10:25pm)
+
+    * [Biosphere](https://drafthouse.com/los-angeles/show/biosphere): Mon 7/10 (3:15pm, 6:45pm), Tue 7/11 (1:50pm)
+
+    * [Elemental](https://drafthouse.com/los-angeles/show/elemental): Fri 7/7 (11:50am, 3:00pm, 6:00pm, 9:05pm), Sat 7/8 (11:50am, 3:00pm, 6:00pm, 9:05pm), Sun 7/9 (11:50am, 3:00pm, 6:00pm, 9:05pm), Mon 7/10 (11:50am, 3:00pm, 6:00pm, 9:00pm)
+
+    * [Every Body](https://drafthouse.com/los-angeles/show/every-body): Fri 7/7 (2:30pm), Sat 7/8 (10:45am), Sun 7/9 (1:55pm), Mon 7/10 (11:30am)
+
+    * [Indiana Jones And The Dial Of Destiny](https://drafthouse.com/los-angeles/show/indiana-jones-and-the-dial-of-destiny): Fri 7/7 (12:15pm, 4:00pm, 5:15pm, 9:20pm), Sat 7/8 (11:30am, 1:30pm, 5:20pm, 9:10pm), Sun 7/9 (11:30am, 1:40pm, 5:25pm, 9:10pm), Mon 7/10 (12:00pm, 1:45pm, 5:30pm), Tue 7/11 (12:35pm), Wed 7/12 (12:30pm, 2:50pm, 6:45pm)
+
+    * [Insidious The Red Door](https://drafthouse.com/los-angeles/show/insidious-the-red-door): Fri 7/7 (1:15pm, 4:20pm, 7:20pm, 10:25pm), Sat 7/8 (10:45am, 1:40pm, 4:35pm, 7:30pm, 10:25pm), Sun 7/9 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Mon 7/10 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Tue 7/11 (1:15pm, 4:15pm, 7:20pm, 10:20pm), Wed 7/12 (1:15pm, 4:15pm, 7:15pm, 10:15pm)
+
+    * [Joy Ride](https://drafthouse.com/los-angeles/show/joy-ride): Fri 7/7 (1:00pm, 10:10pm), Sat 7/8 (3:15pm, 8:15pm, 8:45pm, 11:00pm), Sun 7/9 (4:35pm, 7:30pm, 8:15pm, 10:35pm), Mon 7/10 (3:45pm, 6:15pm, 9:45pm), Tue 7/11 (11:20am, 2:10pm, 5:00pm, 7:45pm, 10:35pm), Wed 7/12 (10:30pm)
+
+    * [Kids Camp Trolls World Tour](https://drafthouse.com/los-angeles/show/kids-camp-trolls-world-tour): Fri 7/7 (11:40am)
+
+    * [Lady Bird](https://drafthouse.com/los-angeles/show/lady-bird): Mon 7/10 (12:30pm)
+
+    * [Mission Impossible Dead Reckoning Pt 1](https://drafthouse.com/los-angeles/show/mission-impossible-dead-reckoning-pt-1): Tue 7/11 (3:00pm, 7:00pm, 8:30pm, 9:00pm), Wed 7/12 (12:00pm, 12:45pm, 4:00pm, 4:45pm, 8:45pm)
+
+    * [No Hard Feelings](https://drafthouse.com/los-angeles/show/no-hard-feelings): Fri 7/7 (12:45pm, 3:45pm, 6:45pm, 9:40pm), Sat 7/8 (12:45pm, 3:45pm, 6:45pm, 9:40pm), Sun 7/9 (12:45pm, 3:45pm, 6:45pm, 9:40pm), Mon 7/10 (12:45pm, 3:45pm, 6:45pm, 9:40pm)
+
+    * [Once Upon A Time In Uganda](https://drafthouse.com/los-angeles/show/once-upon-a-time-in-uganda): Mon 7/10 (2:15pm)
+
+    * [Past Lives](https://drafthouse.com/los-angeles/show/past-lives): Fri 7/7 (12:20pm, 3:20pm, 7:10pm, 10:20pm), Sat 7/8 (12:20pm, 3:20pm, 7:15pm, 10:20pm), Sun 7/9 (12:20pm, 3:20pm, 7:15pm, 10:20pm), Mon 7/10 (12:20pm, 3:20pm, 7:15pm, 10:20pm)
+
+    * [Spider Man Across The Spider Verse](https://drafthouse.com/los-angeles/show/spider-man-across-the-spider-verse): Fri 7/7 (12:00pm, 3:35pm, 6:20pm, 9:55pm), Sat 7/8 (12:00pm, 3:40pm, 6:20pm, 9:55pm), Sun 7/9 (12:00pm, 3:40pm, 6:20pm, 9:55pm), Mon 7/10 (12:00pm, 3:35pm, 6:20pm, 9:55pm)
+
+    * [The Blackening](https://drafthouse.com/los-angeles/show/the-blackening): Fri 7/7 (12:25pm, 10:35pm), Sat 7/8 (12:25pm, 9:20pm), Sun 7/9 (11:15am, 9:25pm), Mon 7/10 (11:00am, 9:20pm), Tue 7/11 (11:00am)
+
+    * [The Youtube Effect](https://drafthouse.com/los-angeles/show/the-youtube-effect): Wed 7/12 (11:30am)
+
 ### Mon 7/3 3:17pm
 * New movies: Insidious: The Red Door
 
