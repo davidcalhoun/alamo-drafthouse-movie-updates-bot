@@ -1,6 +1,29 @@
 # raleigh
 
 ## Movie updates
+### Mon 7/3 11:02pm
+
+* New screenings: 
+    * [Asteroid City](https://drafthouse.com/raleigh/show/asteroid-city): Fri 7/7 (1:00pm, 3:55pm, 6:45pm, 9:35pm), Sat 7/8 (10:55am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Sun 7/9 (1:30pm, 4:25pm, 8:00pm, 10:50pm), Mon 7/10 (11:40am, 3:00pm, 6:30pm, 9:40pm)
+
+    * [Elemental](https://drafthouse.com/raleigh/show/elemental): Fri 7/7 (1:15pm, 4:00pm, 6:00pm, 8:55pm), Sat 7/8 (12:00pm, 3:00pm, 3:50pm, 6:30pm, 8:40pm), Sun 7/9 (1:00pm, 3:20pm, 6:45pm, 9:45pm), Mon 7/10 (1:20pm, 4:50pm, 6:45pm, 8:50pm)
+
+    * [Indiana Jones And The Dial Of Destiny](https://drafthouse.com/raleigh/show/indiana-jones-and-the-dial-of-destiny): Fri 7/7 (11:40am, 12:00pm, 12:55pm, 1:30pm, 3:15pm, 5:15pm, 7:45pm, 9:00pm), Sat 7/8 (11:15am, 1:30pm, 3:30pm, 4:45pm, 5:15pm, 7:15pm, 8:30pm, 9:00pm, 9:30pm), Sun 7/9 (12:30pm, 1:30pm, 4:15pm, 5:15pm, 6:00pm, 9:00pm, 10:05pm), Mon 7/10 (12:15pm, 1:00pm, 1:30pm, 2:30pm, 4:15pm, 5:15pm, 6:00pm, 9:00pm, 9:30pm)
+
+    * [Insidious The Red Door](https://drafthouse.com/raleigh/show/insidious-the-red-door): Fri 7/7 (12:15pm, 3:40pm, 6:30pm, 9:25pm), Sat 7/8 (1:00pm, 2:20pm, 5:10pm, 8:00pm, 10:50pm), Sun 7/9 (12:40pm, 3:55pm, 7:15pm, 10:10pm), Mon 7/10 (12:10pm, 3:55pm, 7:45pm, 10:40pm)
+
+    * [Joy Ride](https://drafthouse.com/raleigh/show/joy-ride): Fri 7/7 (2:15pm, 10:30pm), Sat 7/8 (11:30am, 10:30pm), Sun 7/9 (11:45am, 9:40pm), Mon 7/10 (1:15pm, 9:55pm)
+
+    * [No Hard Feelings](https://drafthouse.com/raleigh/show/no-hard-feelings): Fri 7/7 (11:30am, 3:30pm, 6:55pm, 9:40pm), Sat 7/8 (12:55pm, 2:15pm, 5:00pm, 7:45pm, 9:55pm), Sun 7/9 (1:00pm, 5:00pm, 7:45pm, 10:30pm), Mon 7/10 (12:45pm, 4:45pm, 8:00pm, 10:45pm)
+
+    * [Once Upon A Time In Uganda](https://drafthouse.com/raleigh/show/once-upon-a-time-in-uganda): Fri 7/7 (10:10pm), Sat 7/8 (10:55pm), Sun 7/9 (8:50pm), Mon 7/10 (10:55pm)
+
+    * [Ruby Gillman Teenage Kraken](https://drafthouse.com/raleigh/show/ruby-gillman-teenage-kraken): Fri 7/7 (12:50pm, 3:20pm, 6:15pm), Sat 7/8 (11:45am, 3:55pm, 6:00pm), Sun 7/9 (12:45pm, 2:25pm, 6:15pm), Mon 7/10 (11:30am, 2:10pm, 6:15pm)
+
+    * [Spider Man Across The Spider Verse](https://drafthouse.com/raleigh/show/spider-man-across-the-spider-verse): Fri 7/7 (12:30pm, 4:15pm, 7:00pm, 8:50pm), Sat 7/8 (11:55am, 1:15pm, 6:15pm, 9:40pm), Sun 7/9 (11:30am, 2:55pm, 6:30pm, 9:55pm), Mon 7/10 (1:25pm, 3:30pm, 7:30pm, 9:45pm)
+
+    * [Transformers Rise Of The Beasts](https://drafthouse.com/raleigh/show/transformers-rise-of-the-beasts): Fri 7/7 (4:45pm, 8:00pm), Sat 7/8 (2:55pm, 6:45pm), Sun 7/9 (3:45pm, 6:55pm), Mon 7/10 (4:45pm, 7:55pm)
+
 ### Mon 7/3 6:22pm
 
 * New screenings: 
