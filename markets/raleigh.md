@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 7/4 10:21am
+* New movies: They Cloned Tyrone
+
+* New screenings: 
+    * [They Cloned Tyrone](https://drafthouse.com/raleigh/show/they-cloned-tyrone): Thu 7/13 (7:15pm, 10:30pm), Fri 7/14 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Sat 7/15 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Sun 7/16 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Mon 7/17 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Tue 7/18 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Wed 7/19 (12:45pm, 4:00pm, 7:15pm, 10:30pm)
+
 ### Mon 7/3 11:02pm
 
 * New screenings: 
