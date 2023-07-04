@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 7/4 7:16am
+* New movies: They Cloned Tyrone
+
+* New screenings: 
+    * [They Cloned Tyrone](https://drafthouse.com/los-angeles/show/they-cloned-tyrone): Thu 7/13 (7:00pm, 10:20pm), Fri 7/14 (12:20pm, 3:40pm, 7:00pm, 10:15pm), Sat 7/15 (12:20pm, 3:40pm, 7:00pm, 10:15pm), Sun 7/16 (12:20pm, 3:40pm, 7:00pm, 10:15pm), Mon 7/17 (12:20pm, 3:40pm, 7:00pm, 10:15pm), Tue 7/18 (12:20pm, 3:40pm, 7:00pm, 10:15pm), Wed 7/19 (12:00pm, 3:15pm, 6:30pm, 9:45pm)
+
 ### Mon 7/3 6:47pm
 * New movies: Come Back to the 5 and Dime, Jimmy Dean, Jimmy Dean
 
