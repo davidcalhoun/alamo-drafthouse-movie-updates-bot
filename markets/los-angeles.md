@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 7/3 6:47pm
+* New movies: Come Back to the 5 and Dime, Jimmy Dean, Jimmy Dean
+
+* New screenings: 
+    * [Live Qa Come Back To The 5 And Dime Jimmy Dean Jimmy Dean Live Q A](https://drafthouse.com/los-angeles/show/live-qa-come-back-to-the-5-and-dime-jimmy-dean-jimmy-dean-live-q-a): Sat 7/8 (4:45pm)
+
 ### Mon 7/3 4:18pm
 * New movies: Trolls World Tour
 
