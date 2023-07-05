@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Wed 7/5 2:16pm
+* New movies: I Saw the Devil
+
+* New screenings: 
+    * [Cade The Tortured Crossing](https://drafthouse.com/los-angeles/show/cade-the-tortured-crossing): Tue 8/8 (8:00pm)
+
+    * [Detention](https://drafthouse.com/los-angeles/show/detention): Mon 8/7 (5:10pm)
+
+    * [I Saw The Devil](https://drafthouse.com/los-angeles/show/i-saw-the-devil): Sun 7/30 (2:25pm)
+
+    * [Kids Camp Free Willy](https://drafthouse.com/los-angeles/show/kids-camp-free-willy): Wed 7/19 (11:45am)
+
 ### Wed 7/5 10:15am
 * New movies: Pee-wee's Big Adventure
 
