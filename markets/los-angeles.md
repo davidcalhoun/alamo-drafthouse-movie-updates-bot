@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 7/5 10:15am
+* New movies: Pee-wee's Big Adventure
+
+
+
 ### Wed 7/5 9:24am
 * New movies: PEE-WEE’S BIG ADVENTURE Bike Tour
 
