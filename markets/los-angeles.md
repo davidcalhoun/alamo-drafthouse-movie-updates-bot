@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 7/5 9:24am
+* New movies: PEE-WEE’S BIG ADVENTURE Bike Tour
+
+* New screenings: 
+    * [Pee Wees Big Adventure Bike Tour](https://drafthouse.com/los-angeles/show/pee-wees-big-adventure-bike-tour): Fri 7/14 (8:00pm), Sat 7/15 (4:15pm, 7:00pm), Sun 7/16 (3:00pm), Mon 7/17 (3:15pm), Tue 7/18 (4:45pm)
+
 ### Tue 7/4 7:16am
 * New movies: They Cloned Tyrone
 
