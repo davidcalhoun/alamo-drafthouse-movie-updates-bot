@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 7/6 12:14pm
+
+* New screenings: 
+    * [Mission Impossible Dead Reckoning Pt 1](https://drafthouse.com/los-angeles/show/mission-impossible-dead-reckoning-pt-1): Tue 7/11 (5:00pm)
+
 ### Wed 7/5 2:16pm
 * New movies: I Saw the Devil
 
