@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Sat 7/8 4:20pm
+* New movies: Chopping Mall, Donnie Darko, Mod F*ck Explosion
+
+* New screenings: 
+    * [Terror Tuesday Chopping Mall](https://drafthouse.com/raleigh/show/terror-tuesday-chopping-mall): Tue 8/8 (9:45pm)
+
+    * [Weird Wednesday Donnie Darko](https://drafthouse.com/raleigh/show/weird-wednesday-donnie-darko): Wed 8/16 (9:30pm)
+
+    * [Weird Wednesday Mod F Ck Explosion](https://drafthouse.com/raleigh/show/weird-wednesday-mod-f-ck-explosion): Wed 8/9 (9:30pm)
+
 ### Tue 7/4 10:21am
 * New movies: They Cloned Tyrone
 
