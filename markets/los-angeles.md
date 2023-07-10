@@ -1,6 +1,37 @@
 # los-angeles
 
 ## Movie updates
+### Mon 7/10 4:17pm
+
+* New screenings: 
+    * [Asteroid City](https://drafthouse.com/los-angeles/show/asteroid-city): Thu 7/13 (2:20pm, 5:25pm, 7:30pm, 10:25pm), Fri 7/14 (12:40pm, 3:35pm, 7:45pm, 10:45pm), Sat 7/15 (12:30pm, 3:35pm, 7:45pm, 10:45pm), Sun 7/16 (12:30pm, 3:30pm, 7:30pm, 10:30pm), Mon 7/17 (12:40pm, 4:40pm, 7:30pm, 10:25pm), Tue 7/18 (12:50pm, 3:50pm, 7:15pm, 10:25pm), Wed 7/19 (12:35pm, 3:40pm, 7:20pm, 10:05pm)
+
+    * [Biosphere](https://drafthouse.com/los-angeles/show/biosphere): Thu 7/13 (10:20pm), Sat 7/15 (10:30am), Sun 7/16 (10:40am), Tue 7/18 (11:50am), Wed 7/19 (10:15pm)
+
+    * [Frances Ha](https://drafthouse.com/los-angeles/show/frances-ha): Sat 7/15 (11:00am)
+
+    * [Indiana Jones And The Dial Of Destiny](https://drafthouse.com/los-angeles/show/indiana-jones-and-the-dial-of-destiny): Thu 7/13 (2:35pm, 6:10pm, 10:10pm), Fri 7/14 (12:00pm, 3:50pm, 6:40pm, 10:35pm), Sat 7/15 (12:00pm, 4:00pm, 6:40pm, 10:25pm), Sun 7/16 (12:00pm, 3:45pm, 6:40pm, 10:25pm), Mon 7/17 (12:30pm, 3:30pm, 6:15pm, 9:45pm), Tue 7/18 (11:40am, 3:30pm, 6:45pm, 10:15pm), Wed 7/19 (11:45am, 3:30pm, 6:45pm, 10:30pm)
+
+    * [Insidious The Red Door](https://drafthouse.com/los-angeles/show/insidious-the-red-door): Thu 7/13 (3:00pm, 6:25pm, 10:00pm), Fri 7/14 (10:45am, 1:50pm, 5:00pm, 8:00pm, 11:00pm), Sat 7/15 (10:50am, 1:50pm, 5:00pm, 8:00pm, 11:00pm), Sun 7/16 (11:00am, 1:55pm, 5:00pm, 8:00pm, 10:20pm), Mon 7/17 (11:00am, 2:00pm, 5:00pm, 8:00pm, 10:00pm), Tue 7/18 (11:00am, 2:00pm, 5:00pm, 8:00pm, 10:35pm), Wed 7/19 (11:25am, 2:30pm, 6:00pm, 10:10pm)
+
+    * [Interstellar](https://drafthouse.com/los-angeles/show/interstellar): Fri 7/14 (10:25pm), Sat 7/15 (9:15pm), Sun 7/16 (9:30pm), Mon 7/17 (2:15pm), Tue 7/18 (4:00pm), Wed 7/19 (12:50pm)
+
+    * [Joy Ride](https://drafthouse.com/los-angeles/show/joy-ride): Thu 7/13 (7:15pm), Wed 7/19 (11:40am)
+
+    * [Mission Impossible Dead Reckoning Pt 1](https://drafthouse.com/los-angeles/show/mission-impossible-dead-reckoning-pt-1): Thu 7/13 (3:00pm, 3:30pm, 8:30pm, 9:25pm), Fri 7/14 (11:50am, 4:00pm, 10:05pm), Sat 7/15 (5:15pm, 9:40pm), Sun 7/16 (10:30pm), Mon 7/17 (12:50pm, 2:30pm), Tue 7/18 (10:45am, 2:35pm, 10:30pm), Wed 7/19 (9:00pm)
+
+    * [No Hard Feelings](https://drafthouse.com/los-angeles/show/no-hard-feelings): Thu 7/13 (2:50pm, 6:45pm, 9:45pm), Fri 7/14 (12:40pm, 3:15pm, 7:15pm, 10:10pm), Sat 7/15 (12:45pm, 3:20pm, 7:15pm, 10:35pm), Sun 7/16 (12:45pm, 3:20pm, 7:15pm, 10:10pm), Mon 7/17 (12:45pm, 3:20pm, 7:15pm, 10:10pm), Tue 7/18 (12:45pm, 3:20pm, 7:20pm, 10:15pm), Wed 7/19 (12:45pm, 3:20pm, 7:15pm, 10:10pm)
+
+    * [Past Lives](https://drafthouse.com/los-angeles/show/past-lives): Thu 7/13 (3:45pm, 7:15pm), Fri 7/14 (12:10pm, 4:15pm, 7:30pm), Sat 7/15 (1:30pm, 4:30pm, 7:30pm), Sun 7/16 (1:40pm, 4:40pm, 7:45pm), Mon 7/17 (11:10am, 3:45pm, 7:45pm), Tue 7/18 (10:45am, 1:45pm, 4:50pm, 7:45pm), Wed 7/19 (1:15pm, 4:40pm, 7:45pm)
+
+    * [Small Soldiers](https://drafthouse.com/los-angeles/show/small-soldiers): Tue 7/18 (1:45pm), Wed 7/19 (4:50pm)
+
+    * [Special Event Pee Wees Big Adventure Bike Tour](https://drafthouse.com/los-angeles/show/special-event-pee-wees-big-adventure-bike-tour): Fri 7/14 (10:45pm)
+
+    * [Spider Man Across The Spider Verse](https://drafthouse.com/los-angeles/show/spider-man-across-the-spider-verse): Thu 7/13 (3:30pm, 6:00pm, 9:35pm), Fri 7/14 (12:45pm, 3:40pm, 6:15pm, 9:50pm), Sat 7/15 (11:45am, 3:45pm, 6:15pm, 10:10pm), Sun 7/16 (11:45am, 3:45pm, 6:15pm, 9:50pm), Mon 7/17 (11:45am, 3:45pm, 6:15pm, 9:50pm), Tue 7/18 (11:45am, 3:45pm, 6:15pm, 9:50pm), Wed 7/19 (11:45am, 3:45pm, 6:15pm, 9:50pm)
+
+    * [Tenet](https://drafthouse.com/los-angeles/show/tenet): Sat 7/15 (1:35pm), Sun 7/16 (6:35pm), Tue 7/18 (12:10pm), Wed 7/19 (2:30pm)
+
 ### Mon 7/10 12:13pm
 
 * New screenings: 
