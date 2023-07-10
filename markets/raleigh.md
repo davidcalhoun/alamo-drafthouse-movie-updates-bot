@@ -1,6 +1,35 @@
 # raleigh
 
 ## Movie updates
+### Mon 7/10 6:21pm
+
+* New screenings: 
+    * [Asteroid City](https://drafthouse.com/raleigh/show/asteroid-city): Tue 7/11 (1:00pm, 4:05pm, 6:55pm, 9:50pm), Wed 7/12 (11:55am, 3:55pm, 7:45pm, 10:40pm)
+
+    * [Elemental](https://drafthouse.com/raleigh/show/elemental): Tue 7/11 (1:10pm, 4:20pm, 6:15pm, 10:05pm), Wed 7/12 (11:15am, 2:50pm, 6:45pm, 10:25pm)
+
+    * [Indiana Jones And The Dial Of Destiny](https://drafthouse.com/raleigh/show/indiana-jones-and-the-dial-of-destiny): Tue 7/11 (11:00am, 11:45am, 12:30pm, 1:45pm, 7:45pm, 9:25pm), Wed 7/12 (12:15pm, 3:30pm, 6:00pm, 9:45pm)
+
+    * [Insidious The Red Door](https://drafthouse.com/raleigh/show/insidious-the-red-door): Tue 7/11 (1:30pm, 3:55pm, 7:15pm, 10:55pm), Wed 7/12 (11:40am, 3:15pm, 7:15pm, 10:45pm)
+
+    * [Joy Ride](https://drafthouse.com/raleigh/show/joy-ride): Tue 7/11 (1:20pm, 3:30pm, 6:45pm, 10:15pm), Wed 7/12 (1:15pm, 2:30pm, 10:15pm)
+
+    * [Magic 1978](https://drafthouse.com/raleigh/show/magic-1978): Wed 7/12 (4:00pm)
+
+    * [Mission Impossible Dead Reckoning Pt 1](https://drafthouse.com/raleigh/show/mission-impossible-dead-reckoning-pt-1): Wed 7/12 (10:55am, 11:30am, 12:30pm, 2:15pm, 4:30pm, 8:30pm, 9:00pm, 9:40pm)
+
+    * [No Hard Feelings](https://drafthouse.com/raleigh/show/no-hard-feelings): Tue 7/11 (2:15pm, 5:00pm), Wed 7/12 (5:15pm, 8:00pm)
+
+    * [Once Upon A Time In Uganda](https://drafthouse.com/raleigh/show/once-upon-a-time-in-uganda): Tue 7/11 (11:30am), Wed 7/12 (8:15pm, 10:55pm)
+
+    * [Ruby Gillman Teenage Kraken](https://drafthouse.com/raleigh/show/ruby-gillman-teenage-kraken): Tue 7/11 (11:15am), Wed 7/12 (1:45pm)
+
+    * [Spider Man Across The Spider Verse](https://drafthouse.com/raleigh/show/spider-man-across-the-spider-verse): Tue 7/11 (12:55pm, 4:00pm, 7:30pm, 9:10pm), Wed 7/12 (12:00pm, 4:15pm, 7:00pm, 10:10pm)
+
+    * [The Youtube Effect](https://drafthouse.com/raleigh/show/the-youtube-effect): Wed 7/12 (5:45pm)
+
+    * [Transformers Rise Of The Beasts](https://drafthouse.com/raleigh/show/transformers-rise-of-the-beasts): Tue 7/11 (9:40pm)
+
 ### Sat 7/8 4:20pm
 * New movies: Chopping Mall, Donnie Darko, Mod F*ck Explosion
 
