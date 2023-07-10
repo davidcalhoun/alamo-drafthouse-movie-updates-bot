@@ -1,6 +1,23 @@
 # los-angeles
 
 ## Movie updates
+### Mon 7/10 12:13pm
+
+* New screenings: 
+    * [Biosphere](https://drafthouse.com/los-angeles/show/biosphere): Wed 7/12 (7:00pm)
+
+    * [Elemental](https://drafthouse.com/los-angeles/show/elemental): Tue 7/11 (1:00pm)
+
+    * [Indiana Jones And The Dial Of Destiny](https://drafthouse.com/los-angeles/show/indiana-jones-and-the-dial-of-destiny): Wed 7/12 (9:30pm)
+
+    * [Mission Impossible Dead Reckoning Pt 1](https://drafthouse.com/los-angeles/show/mission-impossible-dead-reckoning-pt-1): Tue 7/11 (4:00pm, 8:00pm), Wed 7/12 (11:35am, 3:00pm, 5:30pm)
+
+    * [No Hard Feelings](https://drafthouse.com/los-angeles/show/no-hard-feelings): Tue 7/11 (12:45pm, 3:45pm, 6:45pm, 9:40pm), Wed 7/12 (12:30pm, 3:30pm, 6:30pm, 9:25pm)
+
+    * [Past Lives](https://drafthouse.com/los-angeles/show/past-lives): Tue 7/11 (12:15pm, 3:15pm, 7:15pm, 10:20pm), Wed 7/12 (12:10pm, 3:10pm, 7:15pm, 10:20pm)
+
+    * [Spider Man Across The Spider Verse](https://drafthouse.com/los-angeles/show/spider-man-across-the-spider-verse): Tue 7/11 (12:00pm, 3:35pm, 6:15pm, 9:50pm), Wed 7/12 (11:25am, 3:25pm, 6:15pm, 9:50pm)
+
 ### Thu 7/6 12:14pm
 
 * New screenings: 
