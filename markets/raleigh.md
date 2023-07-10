@@ -1,6 +1,31 @@
 # raleigh
 
 ## Movie updates
+### Mon 7/10 7:20pm
+
+* New screenings: 
+    * [Asteroid City](https://drafthouse.com/raleigh/show/asteroid-city): Thu 7/13 (12:55pm, 4:55pm, 7:45pm, 10:55pm)
+
+    * [Elemental](https://drafthouse.com/raleigh/show/elemental): Thu 7/13 (2:30pm, 6:30pm, 9:25pm)
+
+    * [Indiana Jones And The Dial Of Destiny](https://drafthouse.com/raleigh/show/indiana-jones-and-the-dial-of-destiny): Thu 7/13 (12:40pm, 3:50pm, 6:00pm, 9:40pm)
+
+    * [Insidious The Red Door](https://drafthouse.com/raleigh/show/insidious-the-red-door): Thu 7/13 (1:00pm, 4:20pm, 7:30pm, 10:40pm)
+
+    * [Joy Ride](https://drafthouse.com/raleigh/show/joy-ride): Thu 7/13 (12:10pm, 4:00pm, 6:45pm)
+
+    * [Magic 1978](https://drafthouse.com/raleigh/show/magic-1978): Thu 7/13 (11:15am)
+
+    * [Mission Impossible Dead Reckoning Pt 1](https://drafthouse.com/raleigh/show/mission-impossible-dead-reckoning-pt-1): Thu 7/13 (11:00am, 1:30pm, 2:45pm, 5:15pm, 9:00pm, 9:30pm)
+
+    * [No Hard Feelings](https://drafthouse.com/raleigh/show/no-hard-feelings): Thu 7/13 (5:30pm, 8:15pm)
+
+    * [Once Upon A Time In Uganda](https://drafthouse.com/raleigh/show/once-upon-a-time-in-uganda): Thu 7/13 (11:45am, 10:25pm)
+
+    * [Ruby Gillman Teenage Kraken](https://drafthouse.com/raleigh/show/ruby-gillman-teenage-kraken): Thu 7/13 (2:15pm)
+
+    * [Spider Man Across The Spider Verse](https://drafthouse.com/raleigh/show/spider-man-across-the-spider-verse): Thu 7/13 (12:00pm, 2:50pm, 6:15pm, 9:45pm)
+
 ### Mon 7/10 6:21pm
 
 * New screenings: 
