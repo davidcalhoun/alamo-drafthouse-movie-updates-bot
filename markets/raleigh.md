@@ -1,6 +1,29 @@
 # raleigh
 
 ## Movie updates
+### Tue 7/11 2:26pm
+
+* New screenings: 
+    * [Asteroid City](https://drafthouse.com/raleigh/show/asteroid-city): Fri 7/14 (12:55pm, 2:40pm, 7:30pm, 10:20pm), Sat 7/15 (1:00pm, 4:10pm, 7:45pm, 10:40pm), Sun 7/16 (12:50pm, 3:40pm, 7:45pm, 10:40pm), Mon 7/17 (12:55pm, 4:55pm, 8:00pm, 10:50pm), Tue 7/18 (11:40am, 3:15pm, 6:15pm, 9:05pm), Wed 7/19 (12:55pm, 3:40pm, 7:00pm, 9:55pm)
+
+    * [Elemental](https://drafthouse.com/raleigh/show/elemental): Fri 7/14 (1:15pm, 4:50pm, 6:30pm, 9:50pm), Sat 7/15 (12:25pm, 3:30pm, 7:30pm, 10:25pm), Sun 7/16 (1:15pm, 4:50pm, 7:30pm, 9:10pm), Mon 7/17 (1:30pm, 3:45pm, 7:45pm, 10:30pm), Tue 7/18 (1:15pm, 4:30pm, 7:30pm, 9:10pm), Wed 7/19 (1:15pm, 4:55pm, 7:45pm, 9:45pm)
+
+    * [Indiana Jones And The Dial Of Destiny](https://drafthouse.com/raleigh/show/indiana-jones-and-the-dial-of-destiny): Fri 7/14 (12:00pm, 2:30pm, 6:15pm, 9:55pm), Sat 7/15 (1:15pm, 3:00pm, 6:15pm, 9:50pm), Sun 7/16 (12:00pm, 3:45pm, 6:15pm, 9:55pm), Mon 7/17 (11:20am, 4:25pm, 6:45pm, 9:40pm), Tue 7/18 (11:45am, 3:30pm, 7:45pm, 10:10pm), Wed 7/19 (12:50pm, 2:30pm, 6:15pm, 10:05pm)
+
+    * [Insidious The Red Door](https://drafthouse.com/raleigh/show/insidious-the-red-door): Fri 7/14 (12:15pm, 4:10pm, 7:00pm, 10:55pm), Sat 7/15 (12:00pm, 3:25pm, 7:00pm), Sun 7/16 (12:30pm, 4:10pm, 7:00pm, 10:25pm), Mon 7/17 (1:10pm, 3:30pm, 7:30pm, 10:40pm), Tue 7/18 (11:55am, 3:55pm, 6:45pm, 10:40pm), Wed 7/19 (11:30am, 4:10pm, 8:00pm, 10:50pm)
+
+    * [Joy Ride](https://drafthouse.com/raleigh/show/joy-ride): Fri 7/14 (11:55am, 3:50pm, 7:45pm, 10:25pm), Sat 7/15 (12:20pm, 3:00pm, 6:30pm, 10:55pm), Sun 7/16 (12:15pm, 3:30pm, 6:30pm, 9:50pm), Mon 7/17 (12:10pm, 4:50pm, 8:15pm, 10:55pm), Tue 7/18 (12:30pm, 2:30pm, 6:30pm, 10:25pm), Wed 7/19 (1:20pm, 5:00pm, 8:15pm, 10:55pm)
+
+    * [Mission Impossible Dead Reckoning Pt 1](https://drafthouse.com/raleigh/show/mission-impossible-dead-reckoning-pt-1): Fri 7/14 (1:00pm, 1:30pm, 3:45pm, 4:45pm, 5:15pm, 8:30pm, 9:00pm, 9:30pm), Sat 7/15 (10:30am, 11:30am, 12:30pm, 2:15pm, 4:30pm, 6:00pm, 8:30pm, 9:15pm, 9:45pm, 10:10pm), Sun 7/16 (1:00pm, 1:30pm, 4:45pm, 5:15pm, 8:30pm, 9:00pm), Mon 7/17 (10:55am, 1:00pm, 2:45pm, 6:30pm, 9:30pm, 10:15pm), Tue 7/18 (1:00pm, 2:45pm, 4:45pm, 8:30pm), Wed 7/19 (10:30am, 10:45am, 11:15am, 2:15pm, 3:00pm, 4:30pm, 6:00pm, 9:50pm)
+
+    * [No Hard Feelings](https://drafthouse.com/raleigh/show/no-hard-feelings): Fri 7/14 (5:30pm, 8:15pm), Sat 7/15 (5:00pm, 8:15pm), Sun 7/16 (6:00pm, 8:45pm), Mon 7/17 (5:30pm, 6:45pm), Tue 7/18 (5:15pm, 8:00pm), Wed 7/19 (6:45pm, 10:40pm)
+
+    * [Ruby Gillman Teenage Kraken](https://drafthouse.com/raleigh/show/ruby-gillman-teenage-kraken): Fri 7/14 (11:50am), Sat 7/15 (5:40pm), Sun 7/16 (2:15pm), Mon 7/17 (2:55pm), Tue 7/18 (1:55pm), Wed 7/19 (2:25pm)
+
+    * [Spider Man Across The Spider Verse](https://drafthouse.com/raleigh/show/spider-man-across-the-spider-verse): Fri 7/14 (1:20pm, 3:15pm, 6:45pm, 10:10pm), Sat 7/15 (12:45pm, 3:55pm, 6:45pm, 9:55pm), Sun 7/16 (11:50am, 3:15pm, 6:45pm, 10:10pm), Mon 7/17 (1:25pm, 2:50pm, 6:15pm, 10:20pm), Tue 7/18 (12:15pm, 4:15pm, 7:15pm, 9:40pm), Wed 7/19 (1:30pm, 3:20pm, 6:45pm, 10:20pm)
+
+    * [They Cloned Tyrone](https://drafthouse.com/raleigh/show/they-cloned-tyrone): Mon 7/17 (12:15pm), Tue 7/18 (12:50pm, 10:45pm), Wed 7/19 (12:15pm, 4:00pm, 7:15pm, 10:30pm)
+
 ### Tue 7/11 10:21am
 
 * New screenings: 
