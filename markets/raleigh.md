@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 7/11 4:21pm
+
+* New screenings: 
+    * [Live Q A The Ultimate Willy Wonka Party](https://drafthouse.com/raleigh/show/live-q-a-the-ultimate-willy-wonka-party): Tue 9/12 (4:00pm)
+
 ### Tue 7/11 2:26pm
 
 * New screenings: 
