@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 7/11 10:21am
+
+* New screenings: 
+    * [Elemental](https://drafthouse.com/raleigh/show/elemental): Thu 7/13 (11:15am)
+
 ### Mon 7/10 7:20pm
 
 * New screenings: 
