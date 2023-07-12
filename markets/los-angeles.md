@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Tue 7/11 11:22pm
+
+* New screenings: 
+    * [Barbie](https://drafthouse.com/los-angeles/show/barbie): Thu 8/3 (3:30pm, 6:45pm, 10:00pm), Fri 8/4 (11:45am, 3:00pm, 6:15pm, 9:30pm), Sat 8/5 (3:00pm, 6:15pm, 9:30pm), Sun 8/6 (3:00pm, 6:15pm, 9:30pm), Mon 8/7 (11:45am, 3:00pm, 6:15pm, 9:30pm), Tue 8/8 (11:45am, 3:00pm, 6:15pm, 9:30pm), Wed 8/9 (11:45am, 3:00pm, 6:15pm, 9:30pm)
+
+    * [Brunch Screenings Barbie Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-barbie-brunch): Sat 8/5 (11:45am), Sun 8/6 (11:45am)
+
 ### Mon 7/10 4:17pm
 
 * New screenings: 
