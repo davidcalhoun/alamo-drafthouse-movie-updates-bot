@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 7/12 3:16pm
+* New movies: Good Mythical Evening 2023
+
+* New screenings: 
+    * [Special Event Good Mythical Evening 2023](https://drafthouse.com/los-angeles/show/special-event-good-mythical-evening-2023): Thu 8/24 (6:30pm)
+
 ### Tue 7/11 11:22pm
 
 * New screenings: 
