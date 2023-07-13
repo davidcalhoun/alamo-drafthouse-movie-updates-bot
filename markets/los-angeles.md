@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 7/12 9:20pm
+* New movies: Teenage Mutant Ninja Turtles: Mutant Mayhem, Teenage Mutant Ninja Turtles: Mutant Mayhem
+
+* New screenings: 
+    * [Movie Party Teenage Mutant Ninja Turtles Mutant Mayhem](https://drafthouse.com/los-angeles/show/movie-party-teenage-mutant-ninja-turtles-mutant-mayhem): Tue 8/1 (8:30pm), Wed 8/2 (6:00pm), Mon 8/7 (6:00pm), Wed 8/9 (6:00pm)
+
+    * [Teenage Mutant Ninja Turtles Mutant Mayhem](https://drafthouse.com/los-angeles/show/teenage-mutant-ninja-turtles-mutant-mayhem): Tue 8/1 (2:30pm, 5:30pm), Wed 8/2 (12:00pm, 3:00pm, 9:00pm), Thu 8/3 (3:15pm, 6:15pm, 9:15pm), Fri 8/4 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Sat 8/5 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Sun 8/6 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Mon 8/7 (12:00pm, 3:00pm, 9:00pm), Tue 8/8 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Wed 8/9 (12:00pm, 3:00pm, 9:00pm)
+
 ### Wed 7/12 3:16pm
 * New movies: Good Mythical Evening 2023
 
