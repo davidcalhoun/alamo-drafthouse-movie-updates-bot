@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 7/13 4:17pm
+
+* New screenings: 
+    * [Barbie](https://drafthouse.com/los-angeles/show/barbie): Fri 7/21 (10:15pm), Sat 7/22 (9:00pm), Sun 7/23 (9:00pm), Mon 7/24 (11:15am, 2:30pm, 5:45pm, 9:00pm)
+
 ### Thu 7/13 1:18pm
 * New movies: Tokyo Pop, Female Prisoner Scorpion: Jailhouse 41
 
