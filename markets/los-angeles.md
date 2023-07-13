@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 7/13 1:18pm
+* New movies: Tokyo Pop, Female Prisoner Scorpion: Jailhouse 41
+
+* New screenings: 
+    * [Female Prisoner Scorpion Jailhouse 41](https://drafthouse.com/los-angeles/show/female-prisoner-scorpion-jailhouse-41): Mon 7/31 (8:00pm)
+
+    * [Special Event Tokyo Pop Karaoke Party Bar Event](https://drafthouse.com/los-angeles/show/special-event-tokyo-pop-karaoke-party-bar-event): Tue 8/1 (6:30pm)
+
 ### Thu 7/13 9:23am
 
 * New screenings: 
