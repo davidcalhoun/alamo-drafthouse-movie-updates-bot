@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Thu 7/13 12:25am
+* New movies: Teenage Mutant Ninja Turtles: Mutant Mayhem, Teenage Mutant Ninja Turtles: Mutant Mayhem, Teenage Mutant Ninja Turtles: Mutant Mayhem
+
+* New screenings: 
+    * [Family Party Teenage Mutant Ninja Turtles Mutant Mayhem](https://drafthouse.com/raleigh/show/family-party-teenage-mutant-ninja-turtles-mutant-mayhem): Sat 8/5 (10:00am)
+
+    * [Movie Party Teenage Mutant Ninja Turtles Mutant Mayhem](https://drafthouse.com/raleigh/show/movie-party-teenage-mutant-ninja-turtles-mutant-mayhem): Tue 8/1 (7:30pm)
+
+    * [Teenage Mutant Ninja Turtles Mutant Mayhem](https://drafthouse.com/raleigh/show/teenage-mutant-ninja-turtles-mutant-mayhem): Tue 8/1 (2:00pm, 4:30pm, 10:30pm), Wed 8/2 (3:30pm, 6:30pm), Thu 8/3 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Fri 8/4 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 8/5 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sun 8/6 (12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
 ### Wed 7/12 5:17pm
 * New movies: Good Mythical Evening 2023
 
