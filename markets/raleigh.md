@@ -1,6 +1,15 @@
 # raleigh
 
 ## Movie updates
+### Thu 7/13 3:15pm
+
+* New screenings: 
+    * [Barbie](https://drafthouse.com/raleigh/show/barbie): Fri 7/28 (11:00am, 2:00pm, 4:00pm), Sat 7/29 (10:30am, 1:30pm, 4:30pm), Sun 7/30 (10:30am, 1:30pm, 4:30pm), Mon 7/31 (10:55am), Tue 8/1 (10:30am, 1:30pm)
+
+    * [Oppenheimer](https://drafthouse.com/raleigh/show/oppenheimer): Fri 7/28 (12:00pm, 5:00pm, 9:00pm), Sat 7/29 (1:45pm, 5:50pm, 9:55pm), Sun 7/30 (4:45pm, 9:00pm), Mon 7/31 (1:55pm, 9:40pm), Tue 8/1 (10:15am, 2:30pm)
+
+    * [Teenage Mutant Ninja Turtles Mutant Mayhem](https://drafthouse.com/raleigh/show/teenage-mutant-ninja-turtles-mutant-mayhem): Wed 8/2 (12:30pm)
+
 ### Thu 7/13 12:27pm
 
 * New screenings: 
