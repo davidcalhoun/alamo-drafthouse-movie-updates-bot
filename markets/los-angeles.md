@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 7/13 9:23am
+
+* New screenings: 
+    * [Frances Ha](https://drafthouse.com/los-angeles/show/frances-ha): Fri 7/14 (12:10pm)
+
 ### Wed 7/12 9:20pm
 * New movies: Teenage Mutant Ninja Turtles: Mutant Mayhem, Teenage Mutant Ninja Turtles: Mutant Mayhem
 
