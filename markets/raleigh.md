@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Thu 7/13 12:27pm
+
+* New screenings: 
+    * [Interstellar](https://drafthouse.com/raleigh/show/interstellar): Mon 7/17 (9:30pm)
+
 ### Thu 7/13 12:25am
 * New movies: Teenage Mutant Ninja Turtles: Mutant Mayhem, Teenage Mutant Ninja Turtles: Mutant Mayhem, Teenage Mutant Ninja Turtles: Mutant Mayhem
 
