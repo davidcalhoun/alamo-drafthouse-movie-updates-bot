@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 7/14 9:27am
+* New movies: Talk to Me
+
+* New screenings: 
+    * [Talk To Me](https://drafthouse.com/raleigh/show/talk-to-me): Thu 7/27 (4:45pm, 7:30pm, 10:15pm), Fri 7/28 (11:30am, 2:10pm, 4:50pm, 7:30pm, 10:15pm), Sat 7/29 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Sun 7/30 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Mon 7/31 (10:15am, 1:00pm, 3:45pm, 6:30pm, 9:15pm), Tue 8/1 (10:00am, 12:45pm, 3:30pm, 6:15pm, 9:00pm)
+
 ### Fri 7/14 6:23am
 * New movies: Good Mythical Evening 2023
 
