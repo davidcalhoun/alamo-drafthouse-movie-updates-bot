@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 7/14 6:24am
+* New movies: Talk to Me, Talk to Me
+
+* New screenings: 
+    * [Brunch Screenings Talk To Me Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-talk-to-me-brunch): Sat 7/29 (11:10am), Sun 7/30 (11:10am)
+
+    * [Talk To Me](https://drafthouse.com/los-angeles/show/talk-to-me): Thu 7/27 (5:00pm, 7:45pm, 10:40pm), Fri 7/28 (11:10am, 2:00pm, 4:50pm, 7:45pm, 10:35pm), Sat 7/29 (2:00pm, 4:50pm, 7:45pm, 10:35pm), Sun 7/30 (2:00pm, 4:50pm, 7:45pm), Mon 7/31 (11:10am, 2:00pm, 4:50pm, 7:45pm), Tue 8/1 (11:10am, 2:00pm, 4:50pm, 7:45pm), Wed 8/2 (11:10am, 2:00pm, 4:45pm, 7:45pm)
+
 ### Fri 7/14 3:18am
 * New movies: Good Mythical Evening 2023
 
