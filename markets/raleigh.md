@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 7/14 6:23am
+* New movies: Good Mythical Evening 2023
+
+* New screenings: 
+    * [Special Event Good Mythical Evening 2023](https://drafthouse.com/raleigh/show/special-event-good-mythical-evening-2023): Thu 8/24 (9:30pm)
+
 ### Thu 7/13 3:15pm
 
 * New screenings: 
