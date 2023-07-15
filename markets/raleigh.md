@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Sat 7/15 6:20pm
+
+* New screenings: 
+    * [Barbie](https://drafthouse.com/raleigh/show/barbie): Fri 7/21 (11:15pm)
+
 ### Fri 7/14 9:27am
 * New movies: Talk to Me
 
