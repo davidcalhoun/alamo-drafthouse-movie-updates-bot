@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Tue 7/18 3:14pm
+* New movies: Faceless
+
+* New screenings: 
+    * [Barbie](https://drafthouse.com/los-angeles/show/barbie): Thu 7/27 (2:15pm, 5:30pm, 8:45pm), Fri 7/28 (10:40am, 1:50pm, 4:00pm, 7:15pm, 10:30pm), Sat 7/29 (10:40am, 1:50pm, 4:00pm, 7:15pm, 10:25pm), Sun 7/30 (10:40am, 1:50pm, 4:00pm, 7:15pm), Mon 7/31 (10:45am, 1:50pm, 4:00pm, 7:15pm, 10:25pm), Tue 8/1 (11:25am)
+
+    * [Faceless](https://drafthouse.com/los-angeles/show/faceless): Tue 8/15 (8:00pm)
+
+    * [Oppenheimer](https://drafthouse.com/los-angeles/show/oppenheimer): Thu 7/27 (2:45pm, 5:15pm, 9:30pm), Fri 7/28 (11:35am, 5:00pm, 9:15pm), Sat 7/29 (11:35am, 5:00pm, 9:15pm), Sun 7/30 (11:35am, 5:00pm, 9:15pm), Mon 7/31 (11:35am, 5:00pm, 9:15pm)
+
 ### Tue 7/18 12:15am
 
 * New screenings: 
