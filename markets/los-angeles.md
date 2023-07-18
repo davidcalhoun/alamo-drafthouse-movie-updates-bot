@@ -1,6 +1,31 @@
 # los-angeles
 
 ## Movie updates
+### Mon 7/17 11:21pm
+
+* New screenings: 
+    * [Asteroid City](https://drafthouse.com/los-angeles/show/asteroid-city): Thu 7/20 (4:00pm, 7:45pm, 10:40pm)
+
+    * [Barbie](https://drafthouse.com/los-angeles/show/barbie): Thu 7/20 (5:30pm, 10:15pm)
+
+    * [Indiana Jones And The Dial Of Destiny](https://drafthouse.com/los-angeles/show/indiana-jones-and-the-dial-of-destiny): Thu 7/20 (2:15pm, 6:15pm, 9:45pm)
+
+    * [Insidious The Red Door](https://drafthouse.com/los-angeles/show/insidious-the-red-door): Thu 7/20 (4:15pm, 7:15pm, 10:40pm)
+
+    * [Joy Ride](https://drafthouse.com/los-angeles/show/joy-ride): Thu 7/20 (3:30pm, 7:00pm, 10:05pm)
+
+    * [Mission Impossible Dead Reckoning Pt 1](https://drafthouse.com/los-angeles/show/mission-impossible-dead-reckoning-pt-1): Thu 7/20 (3:45pm)
+
+    * [No Hard Feelings](https://drafthouse.com/los-angeles/show/no-hard-feelings): Thu 7/20 (3:00pm)
+
+    * [Oppenheimer](https://drafthouse.com/los-angeles/show/oppenheimer): Thu 7/20 (8:40pm)
+
+    * [Past Lives](https://drafthouse.com/los-angeles/show/past-lives): Thu 7/20 (2:10pm)
+
+    * [Spider Man Across The Spider Verse](https://drafthouse.com/los-angeles/show/spider-man-across-the-spider-verse): Thu 7/20 (3:25pm)
+
+    * [They Cloned Tyrone](https://drafthouse.com/los-angeles/show/they-cloned-tyrone): Thu 7/20 (2:15pm)
+
 ### Fri 7/14 6:24am
 * New movies: Talk to Me, Talk to Me
 
