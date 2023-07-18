@@ -1,6 +1,29 @@
 # los-angeles
 
 ## Movie updates
+### Tue 7/18 12:15am
+
+* New screenings: 
+    * [Asteroid City](https://drafthouse.com/los-angeles/show/asteroid-city): Fri 7/21 (12:10pm, 4:10pm, 7:15pm, 10:15pm), Sat 7/22 (12:10pm, 4:10pm, 7:15pm, 10:15pm), Sun 7/23 (12:10pm, 4:10pm, 7:15pm, 10:15pm), Mon 7/24 (12:15pm, 4:15pm, 7:15pm, 10:15pm), Tue 7/25 (1:15pm, 4:10pm, 7:15pm, 10:15pm), Wed 7/26 (12:10pm, 4:10pm, 7:15pm, 10:15pm)
+
+    * [Barbie](https://drafthouse.com/los-angeles/show/barbie): Fri 7/21 (1:20pm, 4:30pm, 8:00pm, 11:10pm), Sat 7/22 (11:30am, 10:00pm, 11:45pm), Sun 7/23 (2:40pm, 5:00pm, 9:45pm), Mon 7/24 (3:30pm, 6:30pm, 10:00pm), Tue 7/25 (11:25am, 2:35pm, 5:45pm, 9:00pm, 10:15pm), Wed 7/26 (11:10am, 2:30pm, 5:45pm, 6:40pm, 9:00pm, 9:50pm)
+
+    * [Brunch Screenings Barbie Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-barbie-brunch): Sun 7/23 (10:30am)
+
+    * [Indiana Jones And The Dial Of Destiny](https://drafthouse.com/los-angeles/show/indiana-jones-and-the-dial-of-destiny): Fri 7/21 (12:20pm, 2:45pm, 6:00pm, 10:00pm), Sat 7/22 (12:25pm, 2:45pm, 6:00pm, 10:00pm), Sun 7/23 (12:25pm, 2:40pm, 6:05pm, 10:00pm), Mon 7/24 (12:00pm, 2:45pm, 6:00pm, 10:10pm), Tue 7/25 (12:25pm, 2:45pm, 6:00pm, 10:00pm), Wed 7/26 (12:25pm, 2:45pm, 6:00pm, 10:00pm)
+
+    * [Insidious The Red Door](https://drafthouse.com/los-angeles/show/insidious-the-red-door): Fri 7/21 (12:25pm, 4:25pm, 7:20pm, 10:25pm), Sat 7/22 (12:00pm, 3:00pm, 7:00pm, 9:50pm), Sun 7/23 (11:45am, 3:45pm, 7:00pm, 10:00pm), Mon 7/24 (11:35am, 3:50pm, 7:00pm, 10:50pm), Tue 7/25 (12:40pm, 4:15pm, 7:15pm, 10:50pm), Wed 7/26 (12:35pm, 4:15pm, 7:15pm)
+
+    * [Joy Ride](https://drafthouse.com/los-angeles/show/joy-ride): Fri 7/21 (11:50am, 3:05pm, 6:45pm, 9:40pm), Sat 7/22 (12:00pm, 3:05pm, 6:45pm, 9:40pm), Sun 7/23 (12:00pm, 3:05pm, 6:45pm, 9:40pm), Mon 7/24 (12:00pm, 3:05pm, 6:40pm, 9:35pm), Tue 7/25 (12:00pm, 3:00pm, 6:45pm, 9:40pm), Wed 7/26 (11:20am, 3:00pm, 6:50pm, 9:40pm)
+
+    * [Mission Impossible Dead Reckoning Pt 1](https://drafthouse.com/los-angeles/show/mission-impossible-dead-reckoning-pt-1): Fri 7/21 (10:40am, 3:30pm), Sat 7/22 (1:40pm), Sun 7/23 (10:30am, 5:50pm, 10:30pm), Mon 7/24 (11:25am, 12:25pm, 2:35pm, 6:50pm, 9:50pm), Tue 7/25 (11:10am, 12:00pm, 2:15pm, 6:30pm, 10:25pm), Wed 7/26 (11:30am, 12:20pm, 2:15pm, 6:25pm, 10:25pm)
+
+    * [Oppenheimer](https://drafthouse.com/los-angeles/show/oppenheimer): Fri 7/21 (12:00pm), Sat 7/22 (2:45pm, 8:40pm), Sun 7/23 (11:30am, 8:15pm), Mon 7/24 (8:00pm), Tue 7/25 (3:40pm), Wed 7/26 (3:40pm)
+
+    * [Past Lives](https://drafthouse.com/los-angeles/show/past-lives): Fri 7/21 (10:30am), Sat 7/22 (5:35pm), Sun 7/23 (1:45pm), Mon 7/24 (4:50pm), Tue 7/25 (11:10am), Wed 7/26 (3:25pm)
+
+    * [Theater Camp](https://drafthouse.com/los-angeles/show/theater-camp): Sun 7/23 (10:40pm), Mon 7/24 (10:40pm), Tue 7/25 (10:40pm), Wed 7/26 (10:40pm)
+
 ### Mon 7/17 11:21pm
 
 * New screenings: 
