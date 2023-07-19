@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 7/18 11:57pm
+
+* New screenings: 
+    * [Teenage Mutant Ninja Turtles Mutant Mayhem](https://drafthouse.com/raleigh/show/teenage-mutant-ninja-turtles-mutant-mayhem): Tue 8/8 (1:00pm, 4:00pm, 5:15pm), Thu 8/10 (1:00pm)
+
 ### Mon 7/17 10:10pm
 
 * New screenings: 
