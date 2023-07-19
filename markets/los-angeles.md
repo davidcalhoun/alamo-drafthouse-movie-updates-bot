@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 7/19 3:16am
+* New movies: Shortcomings, Shortcomings
+
+* New screenings: 
+    * [Advance Screening Shortcomings](https://drafthouse.com/los-angeles/show/advance-screening-shortcomings): Tue 8/1 (7:15pm)
+
+    * [Shortcomings](https://drafthouse.com/los-angeles/show/shortcomings): Thu 8/3 (7:45pm, 10:30pm), Fri 8/4 (6:15pm), Sat 8/5 (6:15pm), Sun 8/6 (6:15pm)
+
 ### Tue 7/18 3:14pm
 * New movies: Faceless
 
