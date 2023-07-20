@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 7/20 6:19am
+* New movies: Gran Turismo
+
+* New screenings: 
+    * [Gran Turismo](https://drafthouse.com/los-angeles/show/gran-turismo): Thu 8/10 (5:00pm, 8:30pm), Fri 8/11 (11:30am, 3:00pm, 6:30pm, 10:00pm), Sat 8/12 (11:30am, 3:00pm, 6:30pm, 10:00pm), Sun 8/13 (11:30am, 3:00pm, 6:30pm, 10:00pm), Mon 8/14 (11:30am, 3:00pm, 6:30pm, 10:00pm), Tue 8/15 (11:30am, 3:00pm, 6:30pm, 10:00pm), Wed 8/16 (11:30am, 3:00pm, 6:30pm, 10:00pm)
+
 ### Wed 7/19 7:33pm
 
 * New screenings: 
