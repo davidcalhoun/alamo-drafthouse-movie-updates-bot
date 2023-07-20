@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 7/20 2:24pm
+* New movies: Dr. Strangelove Or: How I Learned To Stop Worrying And Love The Bomb
+
+* New screenings: 
+    * [Dr Strangelove Or How I Learned To Stop Worrying And Love The Bomb](https://drafthouse.com/raleigh/show/dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb): Mon 9/11 (7:00pm)
+
 ### Thu 7/20 11:19am
 
 * New screenings: 
