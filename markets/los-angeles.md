@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 7/20 2:12pm
+* New movies: Kokomo City
+
+* New screenings: 
+    * [Kokomo City](https://drafthouse.com/los-angeles/show/kokomo-city): Fri 8/4 (5:30pm), Sun 8/6 (2:45pm)
+
 ### Thu 7/20 6:19am
 * New movies: Gran Turismo
 
