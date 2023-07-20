@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Thu 7/20 3:14pm
+* New movies: Harry Potter and the Goblet of Fire
+
+* New screenings: 
+    * [Barbie](https://drafthouse.com/raleigh/show/barbie): Fri 7/28 (7:00pm, 10:00pm), Sat 7/29 (7:30pm, 10:30pm), Sun 7/30 (7:30pm, 10:30pm), Mon 7/31 (1:45pm, 4:00pm, 4:45pm, 7:45pm, 10:00pm, 10:45pm), Tue 8/1 (11:00am, 5:00pm, 6:30pm, 8:00pm, 10:55pm)
+
+    * [Harry Potter And The Goblet Of Fire](https://drafthouse.com/raleigh/show/harry-potter-and-the-goblet-of-fire): Sun 8/27 (3:15pm)
+
+    * [Oppenheimer](https://drafthouse.com/raleigh/show/oppenheimer): Mon 7/31 (11:55am, 6:00pm)
+
 ### Thu 7/20 2:24pm
 * New movies: Dr. Strangelove Or: How I Learned To Stop Worrying And Love The Bomb
 
