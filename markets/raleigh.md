@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 7/20 9:28am
+* New movies: Gran Turismo
+
+* New screenings: 
+    * [Gran Turismo](https://drafthouse.com/raleigh/show/gran-turismo): Thu 8/10 (4:00pm, 7:30pm), Fri 8/11 (11:00am, 2:30pm, 6:00pm, 9:30pm), Sat 8/12 (4:30pm, 8:00pm), Sun 8/13 (1:45pm, 5:15pm, 8:45pm), Mon 8/14 (12:00pm, 3:30pm), Tue 8/15 (12:00pm, 3:30pm), Wed 8/16 (11:00am, 2:30pm, 6:00pm)
+
 ### Tue 7/18 11:57pm
 
 * New screenings: 
