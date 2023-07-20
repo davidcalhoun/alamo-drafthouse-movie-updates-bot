@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Wed 7/19 7:33pm
+
+* New screenings: 
+    * [Barbie](https://drafthouse.com/los-angeles/show/barbie): Sat 7/22 (10:15pm), Sun 7/23 (10:15pm)
+
+    * [Oppenheimer](https://drafthouse.com/los-angeles/show/oppenheimer): Thu 7/20 (10:00pm), Sat 7/22 (9:40pm), Sun 7/23 (9:40pm)
+
 ### Wed 7/19 3:16am
 * New movies: Shortcomings, Shortcomings
 
