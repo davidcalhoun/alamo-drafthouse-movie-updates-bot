@@ -1,6 +1,22 @@
 # raleigh
 
 ## Movie updates
+### Fri 7/21 7:17pm
+* New movies: Eyes Wide Shut, Full Metal Jacket, Clue, The Shining, Pride & Prejudice 2005
+
+* New screenings: 
+    * [Bottoms](https://drafthouse.com/raleigh/show/bottoms): Wed 9/6 (5:15pm)
+
+    * [Champagne Cinema Pride Prejudice](https://drafthouse.com/raleigh/show/champagne-cinema-pride-prejudice): Sat 9/9 (11:00am)
+
+    * [Eyes Wide Shut](https://drafthouse.com/raleigh/show/eyes-wide-shut): Mon 10/2 (6:30pm)
+
+    * [Full Metal Jacket](https://drafthouse.com/raleigh/show/full-metal-jacket): Wed 9/6 (7:30pm)
+
+    * [Movie Party Clue](https://drafthouse.com/raleigh/show/movie-party-clue): Wed 9/6 (7:00pm)
+
+    * [The Shining](https://drafthouse.com/raleigh/show/the-shining): Sun 10/1 (9:30pm)
+
 ### Thu 7/20 3:14pm
 * New movies: Harry Potter and the Goblet of Fire
 
