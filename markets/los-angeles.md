@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 7/21 4:14pm
+* New movies: The Shape of Water
+
+* New screenings: 
+    * [Kokomo City](https://drafthouse.com/los-angeles/show/kokomo-city): Fri 8/4 (10:10pm), Sat 8/5 (2:10pm, 4:40pm)
+
+    * [Live Q A The Shape Of Water](https://drafthouse.com/los-angeles/show/live-q-a-the-shape-of-water): Sat 8/12 (4:00pm, 5:00pm, 7:40pm, 8:40pm)
+
 ### Thu 7/20 2:12pm
 * New movies: Kokomo City
 
