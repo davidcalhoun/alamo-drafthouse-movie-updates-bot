@@ -1,6 +1,28 @@
 # raleigh
 
 ## Movie updates
+### Mon 7/24 5:17pm
+* New movies: Theater Camp
+
+* New screenings: 
+    * [Asteroid City](https://drafthouse.com/raleigh/show/asteroid-city): Thu 7/27 (12:15pm)
+
+    * [Barbie](https://drafthouse.com/raleigh/show/barbie): Thu 7/27 (10:30am, 10:55am, 12:30pm, 1:30pm, 2:00pm, 5:00pm, 7:00pm, 8:00pm, 8:30pm, 10:55pm)
+
+    * [Elemental](https://drafthouse.com/raleigh/show/elemental): Thu 7/27 (4:15pm)
+
+    * [Indiana Jones And The Dial Of Destiny](https://drafthouse.com/raleigh/show/indiana-jones-and-the-dial-of-destiny): Thu 7/27 (2:40pm, 4:40pm)
+
+    * [Insidious The Red Door](https://drafthouse.com/raleigh/show/insidious-the-red-door): Thu 7/27 (11:00pm)
+
+    * [Mission Impossible Dead Reckoning Pt 1](https://drafthouse.com/raleigh/show/mission-impossible-dead-reckoning-pt-1): Thu 7/27 (12:55pm, 3:15pm, 7:15pm, 10:00pm)
+
+    * [Oppenheimer](https://drafthouse.com/raleigh/show/oppenheimer): Thu 7/27 (11:40am, 12:00pm, 12:40pm, 3:45pm, 4:30pm, 7:45pm, 8:15pm)
+
+    * [Spider Man Across The Spider Verse](https://drafthouse.com/raleigh/show/spider-man-across-the-spider-verse): Thu 7/27 (11:15am)
+
+    * [Theater Camp](https://drafthouse.com/raleigh/show/theater-camp): Thu 7/27 (6:15pm, 8:55pm)
+
 ### Fri 7/21 7:17pm
 * New movies: Eyes Wide Shut, Full Metal Jacket, Clue, The Shining, Pride & Prejudice 2005
 
