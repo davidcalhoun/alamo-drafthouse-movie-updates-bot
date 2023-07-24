@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 7/24 6:18pm
+* New movies: Despicable Me 2
+
+* New screenings: 
+    * [Kids Camp Despicable Me 2](https://drafthouse.com/raleigh/show/kids-camp-despicable-me-2): Tue 9/12 (11:00am)
+
 ### Mon 7/24 5:17pm
 * New movies: Theater Camp
 
