@@ -1,6 +1,36 @@
 # los-angeles
 
 ## Movie updates
+### Mon 7/24 4:15pm
+* New movies: Earth Mama
+
+* New screenings: 
+    * [Asteroid City](https://drafthouse.com/los-angeles/show/asteroid-city): Thu 7/27 (3:20pm), Fri 7/28 (3:00pm), Sat 7/29 (3:00pm), Sun 7/30 (3:00pm), Mon 7/31 (3:00pm)
+
+    * [Barbie](https://drafthouse.com/los-angeles/show/barbie): Thu 7/27 (5:15pm, 7:00pm, 10:20pm), Fri 7/28 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Sat 7/29 (1:25pm, 2:10pm, 4:35pm, 5:30pm, 8:00pm, 11:10pm), Sun 7/30 (12:00pm, 3:15pm, 6:30pm, 10:25pm), Mon 7/31 (11:25am, 4:45pm), Tue 8/1 (11:10am, 12:35pm, 1:40pm, 4:45pm, 10:30pm), Wed 8/2 (10:45am, 11:30am, 1:50pm)
+
+    * [Brunch Screenings Barbie Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-barbie-brunch): Sat 7/29 (11:25am)
+
+    * [Earth Mama](https://drafthouse.com/los-angeles/show/earth-mama): Fri 7/28 (1:40pm)
+
+    * [Indiana Jones And The Dial Of Destiny](https://drafthouse.com/los-angeles/show/indiana-jones-and-the-dial-of-destiny): Thu 7/27 (3:10pm, 6:15pm, 10:00pm), Fri 7/28 (11:15am, 2:45pm, 6:00pm, 9:50pm), Sat 7/29 (11:15am, 2:50pm, 6:00pm, 9:50pm), Sun 7/30 (11:15am, 2:45pm, 6:00pm, 9:50pm), Mon 7/31 (11:15am, 2:50pm, 6:00pm, 9:50pm)
+
+    * [Insidious The Red Door](https://drafthouse.com/los-angeles/show/insidious-the-red-door): Thu 7/27 (2:00pm, 10:45pm), Fri 7/28 (10:25pm), Sat 7/29 (10:25pm), Sun 7/30 (10:25pm), Mon 7/31 (10:25pm)
+
+    * [Joy Ride](https://drafthouse.com/los-angeles/show/joy-ride): Thu 7/27 (2:20pm, 7:00pm), Fri 7/28 (11:45am, 6:35pm), Sat 7/29 (10:45am, 6:45pm), Sun 7/30 (11:45am, 6:40pm), Mon 7/31 (11:10am, 6:45pm), Tue 8/1 (11:00am)
+
+    * [Mission Impossible Dead Reckoning Pt 1](https://drafthouse.com/los-angeles/show/mission-impossible-dead-reckoning-pt-1): Thu 7/27 (2:50pm, 6:50pm, 9:50pm), Fri 7/28 (10:50am, 2:30pm, 6:25pm, 9:30pm), Sat 7/29 (10:50am, 2:35pm, 6:30pm, 9:35pm), Sun 7/30 (10:50am, 2:30pm, 6:30pm, 9:30pm), Mon 7/31 (11:00am, 2:35pm, 6:30pm, 9:35pm), Tue 8/1 (2:50pm, 6:45pm), Wed 8/2 (10:45am, 2:35pm, 6:30pm, 10:25pm)
+
+    * [Movie Party Teenage Mutant Ninja Turtles Mutant Mayhem](https://drafthouse.com/los-angeles/show/movie-party-teenage-mutant-ninja-turtles-mutant-mayhem): Wed 8/2 (5:00pm)
+
+    * [Oppenheimer](https://drafthouse.com/los-angeles/show/oppenheimer): Thu 7/27 (8:30pm), Fri 7/28 (4:30pm, 8:45pm), Sat 7/29 (8:45pm), Sun 7/30 (6:00pm), Mon 7/31 (12:50pm, 1:40pm, 6:00pm), Tue 8/1 (12:45pm, 2:15pm, 5:00pm, 9:15pm), Wed 8/2 (12:50pm, 2:40pm, 5:10pm, 9:20pm)
+
+    * [Talk To Me](https://drafthouse.com/los-angeles/show/talk-to-me): Sun 7/30 (9:45pm), Mon 7/31 (10:40pm), Wed 8/2 (10:35pm)
+
+    * [Teenage Mutant Ninja Turtles Mutant Mayhem](https://drafthouse.com/los-angeles/show/teenage-mutant-ninja-turtles-mutant-mayhem): Wed 8/2 (9:45pm)
+
+    * [Theater Camp](https://drafthouse.com/los-angeles/show/theater-camp): Thu 7/27 (2:30pm, 6:30pm, 9:20pm), Fri 7/28 (11:25am, 2:15pm, 5:10pm, 8:00pm, 10:50pm), Sat 7/29 (11:20am, 2:15pm, 5:10pm, 8:00pm, 10:50pm), Sun 7/30 (11:25am, 2:15pm, 5:10pm, 8:00pm, 10:20pm), Mon 7/31 (10:50am, 1:50pm, 5:10pm, 8:00pm, 10:20pm)
+
 ### Mon 7/24 3:14pm
 * New movies: Despicable Me 2
 
