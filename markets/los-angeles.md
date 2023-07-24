@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 7/24 3:14pm
+* New movies: Despicable Me 2
+
+* New screenings: 
+    * [Kids Camp Despicable Me 2](https://drafthouse.com/los-angeles/show/kids-camp-despicable-me-2): Fri 9/8 (11:00am)
+
 ### Mon 7/24 11:21am
 * New movies: The Psychic aka Murder to the Tune of the Seven Black Notes 1977
 
