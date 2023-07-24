@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 7/24 11:21am
+* New movies: The Psychic aka Murder to the Tune of the Seven Black Notes 1977
+
+* New screenings: 
+    * [The Psychic 1977 Aka Murder To The Tune Of The Seven Black Notes](https://drafthouse.com/los-angeles/show/the-psychic-1977-aka-murder-to-the-tune-of-the-seven-black-notes): Wed 8/9 (8:00pm)
+
 ### Fri 7/21 4:14pm
 * New movies: The Shape of Water
 
