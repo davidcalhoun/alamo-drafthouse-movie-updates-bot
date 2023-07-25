@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 7/25 12:25pm
+* New movies: Meg 2: The Trench
+
+* New screenings: 
+    * [Meg 2 The Trench](https://drafthouse.com/raleigh/show/meg-2-the-trench): Thu 8/3 (3:00pm, 7:00pm, 10:00pm), Fri 8/4 (3:00pm, 6:30pm), Sat 8/5 (6:30pm, 9:00pm), Sun 8/6 (6:30pm, 8:30pm), Tue 8/8 (8:15pm), Wed 8/9 (3:45pm)
+
 ### Tue 7/25 11:20am
 
 * New screenings: 
