@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 7/25 1:15pm
+
+* New screenings: 
+    * [Cade The Tortured Crossing](https://drafthouse.com/los-angeles/show/cade-the-tortured-crossing): Thu 8/10 (7:15pm)
+
 ### Tue 7/25 9:20am
 * New movies: Meg 2: The Trench
 
