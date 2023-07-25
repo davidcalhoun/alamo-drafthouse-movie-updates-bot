@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 7/25 10:18am
+
+* New screenings: 
+    * [Bottoms](https://drafthouse.com/raleigh/show/bottoms): Sun 9/3 (5:45pm, 8:30pm)
+
 ### Tue 7/25 1:18am
 * New movies: Deadly Prey
 
