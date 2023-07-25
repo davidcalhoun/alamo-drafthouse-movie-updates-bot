@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 7/25 9:20am
+* New movies: Meg 2: The Trench
+
+* New screenings: 
+    * [Meg 2 The Trench](https://drafthouse.com/los-angeles/show/meg-2-the-trench): Thu 8/3 (3:20pm, 6:30pm, 9:45pm), Fri 8/4 (11:30am, 2:45pm, 6:00pm, 9:15pm), Sat 8/5 (11:30am, 2:45pm, 6:00pm, 9:15pm), Sun 8/6 (12:30pm, 3:45pm, 7:00pm, 10:15pm)
+
 ### Mon 7/24 4:15pm
 * New movies: Earth Mama
 
