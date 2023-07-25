@@ -1,6 +1,15 @@
 # raleigh
 
 ## Movie updates
+### Mon 7/24 10:49pm
+
+* New screenings: 
+    * [Cade The Tortured Crossing](https://drafthouse.com/raleigh/show/cade-the-tortured-crossing): Thu 8/10 (7:00pm)
+
+    * [Raging Bull](https://drafthouse.com/raleigh/show/raging-bull): Sun 8/13 (9:30pm), Mon 8/14 (3:45pm)
+
+    * [Shiva Baby](https://drafthouse.com/raleigh/show/shiva-baby): Tue 8/15 (4:30pm)
+
 ### Mon 7/24 6:18pm
 * New movies: Despicable Me 2
 
