@@ -1,6 +1,27 @@
 # raleigh
 
 ## Movie updates
+### Tue 7/25 11:20am
+
+* New screenings: 
+    * [Barbie](https://drafthouse.com/raleigh/show/barbie): Fri 7/28 (10:00am, 10:30am, 1:15pm, 8:00pm, 8:30pm), Sat 7/29 (10:00am, 1:00pm, 3:00pm, 4:00pm, 6:00pm, 7:00pm, 10:00pm, 11:00pm), Sun 7/30 (10:00am, 1:00pm, 3:00pm, 4:00pm, 6:00pm, 7:00pm, 8:50pm, 10:00pm), Mon 7/31 (11:15am, 7:15pm, 9:30pm), Tue 8/1 (4:00pm, 7:00pm), Wed 8/2 (11:30am, 2:30pm, 5:30pm, 6:00pm)
+
+    * [Haunted Mansion 2023](https://drafthouse.com/raleigh/show/haunted-mansion-2023): Fri 7/28 (4:10pm), Sat 7/29 (4:40pm), Sun 7/30 (4:40pm), Mon 7/31 (5:55pm, 10:15pm), Wed 8/2 (12:00pm, 3:10pm, 6:15pm, 9:20pm)
+
+    * [Indiana Jones And The Dial Of Destiny](https://drafthouse.com/raleigh/show/indiana-jones-and-the-dial-of-destiny): Fri 7/28 (1:00pm, 4:40pm), Sat 7/29 (11:15am, 2:40pm), Sun 7/30 (11:55am, 2:55pm), Mon 7/31 (12:55pm, 4:15pm)
+
+    * [Insidious The Red Door](https://drafthouse.com/raleigh/show/insidious-the-red-door): Fri 7/28 (10:55pm), Sat 7/29 (10:50pm), Sun 7/30 (8:30pm), Mon 7/31 (10:45pm)
+
+    * [Mission Impossible Dead Reckoning Pt 1](https://drafthouse.com/raleigh/show/mission-impossible-dead-reckoning-pt-1): Fri 7/28 (10:45am, 2:30pm, 4:15pm, 6:15pm, 10:05pm), Sat 7/29 (10:55am, 2:55pm, 3:30pm, 7:15pm, 9:00pm), Sun 7/30 (12:55pm, 2:25pm, 3:30pm, 6:15pm, 9:30pm), Mon 7/31 (12:30pm, 2:00pm, 3:30pm, 6:45pm, 9:15pm)
+
+    * [Oppenheimer](https://drafthouse.com/raleigh/show/oppenheimer): Fri 7/28 (11:45am, 1:30pm, 3:45pm, 5:30pm, 7:15pm, 8:15pm, 9:30pm), Sat 7/29 (10:45am, 12:30pm, 7:45pm, 8:15pm), Sun 7/30 (10:15am, 10:55am, 7:15pm, 7:45pm, 9:40pm), Mon 7/31 (11:30am, 2:45pm, 4:30pm, 8:00pm, 8:30pm, 9:00pm), Tue 8/1 (11:55am, 9:00pm), Wed 8/2 (10:00am, 2:00pm, 8:30pm, 9:00pm)
+
+    * [Spider Man Across The Spider Verse](https://drafthouse.com/raleigh/show/spider-man-across-the-spider-verse): Fri 7/28 (12:45pm), Sat 7/29 (11:55am), Sun 7/30 (11:30am), Mon 7/31 (10:40am)
+
+    * [Talk To Me](https://drafthouse.com/raleigh/show/talk-to-me): Mon 7/31 (10:30pm), Tue 8/1 (12:50pm), Wed 8/2 (1:15pm, 4:00pm, 6:45pm, 9:35pm)
+
+    * [Theater Camp](https://drafthouse.com/raleigh/show/theater-camp): Fri 7/28 (12:30pm, 3:10pm, 5:50pm, 7:45pm, 10:30pm), Sat 7/29 (12:15pm, 2:50pm, 5:30pm, 6:15pm, 8:55pm), Sun 7/30 (12:30pm, 3:10pm, 5:50pm, 6:45pm, 10:05pm), Mon 7/31 (12:00pm, 2:10pm, 4:50pm, 7:30pm, 10:10pm), Wed 8/2 (10:30am)
+
 ### Tue 7/25 10:18am
 
 * New screenings: 
