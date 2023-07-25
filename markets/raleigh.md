@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Tue 7/25 1:16pm
+* New movies: Oldboy 2003, Mean Girls
+
+* New screenings: 
+    * [Mean Girls Movie Party](https://drafthouse.com/raleigh/show/mean-girls-movie-party): Tue 10/3 (7:00pm)
+
+    * [Oldboy 2003](https://drafthouse.com/raleigh/show/oldboy-2003): Wed 8/16 (3:45pm), Thu 8/17 (6:15pm, 9:30pm), Fri 8/18 (6:00pm), Sat 8/19 (6:00pm), Sun 8/20 (6:00pm), Mon 8/21 (6:00pm), Tue 8/22 (6:00pm), Wed 8/23 (12:15pm, 3:30pm), Thu 8/24 (4:30pm)
+
 ### Tue 7/25 12:25pm
 * New movies: Meg 2: The Trench
 
