@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 7/25 3:12pm
+
+* New screenings: 
+    * [Oppenheimer](https://drafthouse.com/raleigh/show/oppenheimer): Wed 8/2 (10:00am)
+
 ### Tue 7/25 1:16pm
 * New movies: Oldboy 2003, Mean Girls
 
