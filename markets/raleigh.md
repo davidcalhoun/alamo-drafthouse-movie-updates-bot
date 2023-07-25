@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 7/25 1:18am
+* New movies: Deadly Prey
+
+* New screenings: 
+    * [Weird Wednesday Deadly Prey](https://drafthouse.com/raleigh/show/weird-wednesday-deadly-prey): Wed 8/30 (9:30pm)
+
 ### Mon 7/24 10:49pm
 
 * New screenings: 
