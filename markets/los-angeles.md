@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Wed 7/26 5:31am
+* New movies: Strays, Strays, Strays
+
+* New screenings: 
+    * [Advance Screening Strays Hump Day Screening](https://drafthouse.com/los-angeles/show/advance-screening-strays-hump-day-screening): Wed 8/16 (7:30pm)
+
+    * [Live Q A Strays Advance Screening W Live Q A](https://drafthouse.com/los-angeles/show/live-q-a-strays-advance-screening-w-live-q-a): Mon 8/14 (5:30pm)
+
+    * [Strays](https://drafthouse.com/los-angeles/show/strays): Thu 8/17 (5:00pm, 7:45pm, 10:30pm), Fri 8/18 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Sat 8/19 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Sun 8/20 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Mon 8/21 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Tue 8/22 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Wed 8/23 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm)
+
 ### Tue 7/25 10:14pm
 * New movies: Bad Biology
 
