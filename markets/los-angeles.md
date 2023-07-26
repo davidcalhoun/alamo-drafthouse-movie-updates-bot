@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 7/26 2:12pm
+* New movies: Shortcomings
+
+* New screenings: 
+    * [Live Q A Shortcomings](https://drafthouse.com/los-angeles/show/live-q-a-shortcomings): Sun 8/6 (6:15pm)
+
 ### Wed 7/26 5:31am
 * New movies: Strays, Strays, Strays
 
