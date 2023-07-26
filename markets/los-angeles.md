@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 7/25 10:14pm
+* New movies: Bad Biology
+
+* New screenings: 
+    * [Bad Biology](https://drafthouse.com/los-angeles/show/bad-biology): Wed 8/23 (8:00pm)
+
+    * [Shiva Baby](https://drafthouse.com/los-angeles/show/shiva-baby): Fri 8/18 (1:50pm), Sat 8/19 (1:50pm)
+
 ### Tue 7/25 7:36pm
 * New movies: The Psychic
 
