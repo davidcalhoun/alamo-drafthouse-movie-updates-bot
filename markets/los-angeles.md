@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 7/25 7:36pm
+* New movies: The Psychic
+
+
+
 ### Tue 7/25 1:15pm
 
 * New screenings: 
