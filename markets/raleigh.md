@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Wed 7/26 8:36am
+* New movies: Strays, Strays, Strays
+
+* New screenings: 
+    * [Advance Screening Strays Hump Day Screening](https://drafthouse.com/raleigh/show/advance-screening-strays-hump-day-screening): Wed 8/16 (7:00pm)
+
+    * [Livestream Q A Strays Advance Screening W Livestream Q A](https://drafthouse.com/raleigh/show/livestream-q-a-strays-advance-screening-w-livestream-q-a): Mon 8/14 (8:30pm)
+
+    * [Strays](https://drafthouse.com/raleigh/show/strays): Thu 8/17 (5:00pm, 7:45pm, 10:30pm), Fri 8/18 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sat 8/19 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sun 8/20 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm)
+
 ### Tue 7/25 3:12pm
 
 * New screenings: 
