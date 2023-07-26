@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Wed 7/26 6:18pm
+
+* New screenings: 
+    * [Barbie](https://drafthouse.com/raleigh/show/barbie): Mon 7/31 (11:15am)
+
 ### Wed 7/26 8:36am
 * New movies: Strays, Strays, Strays
 
