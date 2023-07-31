@@ -1,6 +1,32 @@
 # raleigh
 
 ## Movie updates
+### Mon 7/31 3:14pm
+* New movies: Kokomo City
+
+* New screenings: 
+    * [Barbie](https://drafthouse.com/raleigh/show/barbie): Tue 8/1 (5:30pm, 8:30pm), Wed 8/2 (11:45am, 1:30pm, 1:55pm, 4:30pm, 5:00pm, 7:00pm, 8:00pm, 10:00pm), Thu 8/3 (10:45am, 11:00am, 12:15pm, 5:00pm, 5:15pm, 5:30pm, 8:00pm, 8:30pm, 10:05pm, 11:00pm)
+
+    * [Haunted Mansion 2023](https://drafthouse.com/raleigh/show/haunted-mansion-2023): Tue 8/1 (11:50am), Wed 8/2 (3:55pm), Thu 8/3 (10:55am, 2:10pm, 3:10pm, 6:15pm, 9:20pm)
+
+    * [Indiana Jones And The Dial Of Destiny](https://drafthouse.com/raleigh/show/indiana-jones-and-the-dial-of-destiny): Tue 8/1 (1:50pm)
+
+    * [Insidious The Red Door](https://drafthouse.com/raleigh/show/insidious-the-red-door): Tue 8/1 (11:00pm)
+
+    * [Kokomo City](https://drafthouse.com/raleigh/show/kokomo-city): Thu 8/3 (7:45pm, 10:30pm)
+
+    * [Mission Impossible Dead Reckoning Pt 1](https://drafthouse.com/raleigh/show/mission-impossible-dead-reckoning-pt-1): Tue 8/1 (12:00pm, 3:00pm, 3:55pm, 7:15pm, 10:25pm), Wed 8/2 (11:15am, 12:10pm, 3:15pm, 7:15pm, 8:15pm), Thu 8/3 (1:00pm, 3:15pm, 3:55pm, 6:45pm, 10:30pm)
+
+    * [Oppenheimer](https://drafthouse.com/raleigh/show/oppenheimer): Tue 8/1 (12:45pm, 6:45pm, 8:15pm), Wed 8/2 (10:15am, 7:30pm), Thu 8/3 (10:30am, 11:55am, 2:30pm, 6:30pm, 8:15pm)
+
+    * [Spider Man Across The Spider Verse](https://drafthouse.com/raleigh/show/spider-man-across-the-spider-verse): Tue 8/1 (4:50pm)
+
+    * [Talk To Me](https://drafthouse.com/raleigh/show/talk-to-me): Tue 8/1 (11:10am), Wed 8/2 (10:50am), Thu 8/3 (12:30pm, 1:50pm, 4:30pm, 7:15pm, 9:55pm)
+
+    * [Teenage Mutant Ninja Turtles Mutant Mayhem](https://drafthouse.com/raleigh/show/teenage-mutant-ninja-turtles-mutant-mayhem): Wed 8/2 (11:00am, 2:45pm, 4:55pm, 10:30pm), Thu 8/3 (11:45am, 2:00pm, 2:40pm)
+
+    * [Theater Camp](https://drafthouse.com/raleigh/show/theater-camp): Tue 8/1 (11:15am, 1:55pm, 4:35pm, 7:45pm, 10:45pm), Wed 8/2 (2:15pm, 5:35pm, 7:45pm, 10:55pm), Thu 8/3 (1:15pm, 4:00pm, 4:50pm, 7:30pm, 10:15pm)
+
 ### Wed 7/26 6:18pm
 
 * New screenings: 
