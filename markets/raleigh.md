@@ -1,6 +1,27 @@
 # raleigh
 
 ## Movie updates
+### Mon 7/31 9:45pm
+
+* New screenings: 
+    * [Barbie](https://drafthouse.com/raleigh/show/barbie): Fri 8/4 (10:30am, 11:30am, 1:00pm, 4:00pm, 5:15pm, 7:00pm, 10:00pm), Sat 8/5 (11:55am, 1:10pm, 4:00pm, 5:00pm, 7:00pm, 10:00pm), Sun 8/6 (10:30am, 1:30pm, 4:30pm, 7:30pm, 10:30pm), Mon 8/7 (12:30pm, 3:30pm, 6:30pm, 10:00pm), Tue 8/8 (10:10am, 12:00pm, 3:00pm, 6:00pm, 9:50pm), Wed 8/9 (10:30am, 1:00pm, 3:00pm, 4:30pm, 7:30pm, 10:30pm)
+
+    * [Haunted Mansion 2023](https://drafthouse.com/raleigh/show/haunted-mansion-2023): Fri 8/4 (10:55am, 12:30pm, 3:40pm, 6:15pm, 10:05pm), Sat 8/5 (10:10am, 1:00pm, 4:10pm, 7:30pm, 10:30pm), Sun 8/6 (11:15am, 11:40am, 4:55pm, 6:15pm, 9:50pm), Mon 8/7 (10:30am, 1:00pm, 3:40pm, 6:15pm, 10:30pm), Tue 8/8 (10:50am, 12:40pm, 1:55pm, 6:15pm, 10:05pm), Wed 8/9 (10:50am, 3:10pm, 4:40pm, 6:15pm, 10:05pm)
+
+    * [Kokomo City](https://drafthouse.com/raleigh/show/kokomo-city): Fri 8/4 (11:55am, 3:20pm, 5:40pm, 7:45pm, 11:00pm), Sat 8/5 (10:40am, 1:40pm, 3:55pm, 6:55pm, 10:40pm), Sun 8/6 (10:50am, 12:45pm, 4:15pm, 8:00pm, 10:20pm), Mon 8/7 (10:45am, 1:40pm, 3:55pm, 8:00pm, 10:20pm), Tue 8/8 (1:10pm, 3:55pm, 5:40pm, 8:00pm, 10:35pm), Wed 8/9 (10:40am, 2:15pm, 4:55pm, 8:00pm, 10:40pm)
+
+    * [Meg 2 The Trench](https://drafthouse.com/raleigh/show/meg-2-the-trench): Fri 8/4 (11:40am, 10:10pm), Sat 8/5 (12:45pm, 3:30pm, 10:15pm), Sun 8/6 (1:15pm, 3:30pm, 9:30pm), Mon 8/7 (12:40pm, 3:00pm, 4:15pm, 7:15pm, 10:15pm), Tue 8/8 (12:55pm, 3:45pm, 6:45pm, 10:20pm), Wed 8/9 (11:15am, 1:55pm, 6:45pm, 10:20pm)
+
+    * [Mission Impossible Dead Reckoning Pt 1](https://drafthouse.com/raleigh/show/mission-impossible-dead-reckoning-pt-1): Fri 8/4 (1:30pm, 2:30pm, 2:45pm, 7:15pm, 9:20pm), Sat 8/5 (11:45am, 2:55pm, 3:45pm, 6:45pm, 9:15pm), Sun 8/6 (1:10pm, 2:30pm, 3:15pm, 6:45pm, 9:55pm), Mon 8/7 (12:15pm, 3:15pm, 3:45pm, 6:45pm, 9:40pm), Tue 8/8 (11:25am, 3:10pm, 3:30pm, 6:55pm, 9:20pm), Wed 8/9 (11:25am, 2:10pm, 4:15pm, 9:45pm)
+
+    * [Oppenheimer](https://drafthouse.com/raleigh/show/oppenheimer): Fri 8/4 (11:15am, 3:15pm, 6:45pm, 8:15pm, 9:30pm), Sat 8/5 (11:30am, 3:40pm, 6:15pm, 8:30pm, 9:30pm), Sun 8/6 (11:30am, 3:00pm, 6:00pm, 8:15pm, 9:20pm), Mon 8/7 (11:15am, 11:45am, 4:00pm, 6:00pm, 9:20pm), Tue 8/8 (10:30am, 2:30pm, 6:30pm, 9:00pm), Wed 8/9 (10:55am, 12:30pm, 6:00pm, 8:15pm, 9:20pm)
+
+    * [Talk To Me](https://drafthouse.com/raleigh/show/talk-to-me): Fri 8/4 (12:40pm, 2:00pm, 4:45pm, 7:30pm, 10:50pm), Sat 8/5 (10:30am, 12:30pm, 4:15pm, 7:15pm, 9:55pm), Sun 8/6 (12:30pm, 2:20pm, 5:00pm, 7:45pm, 10:25pm), Mon 8/7 (10:50am, 1:30pm, 4:10pm, 7:30pm, 10:10pm), Tue 8/8 (12:15pm, 2:55pm, 5:10pm, 7:55pm, 10:40pm), Wed 8/9 (12:10pm, 2:50pm, 5:30pm, 7:15pm, 9:55pm)
+
+    * [Teenage Mutant Ninja Turtles Mutant Mayhem](https://drafthouse.com/raleigh/show/teenage-mutant-ninja-turtles-mutant-mayhem): Fri 8/4 (2:40pm, 5:30pm, 8:30pm), Sat 8/5 (2:10pm, 8:00pm, 10:50pm), Sun 8/6 (7:00pm, 10:00pm), Mon 8/7 (12:00pm, 5:40pm, 6:55pm, 8:30pm, 9:45pm), Tue 8/8 (1:00pm, 7:15pm, 10:30pm), Wed 8/9 (12:50pm, 3:40pm, 6:30pm, 10:00pm)
+
+    * [Theater Camp](https://drafthouse.com/raleigh/show/theater-camp): Fri 8/4 (11:50am, 2:20pm, 5:00pm, 8:00pm, 10:40pm), Sat 8/5 (1:15pm, 3:10pm, 5:50pm, 7:45pm, 10:45pm), Sun 8/6 (11:50am, 2:45pm, 5:30pm, 7:15pm, 10:35pm), Mon 8/7 (11:40am, 2:20pm, 5:00pm, 7:45pm, 10:25pm), Tue 8/8 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:45pm), Wed 8/9 (1:30pm, 4:00pm, 7:45pm, 10:25pm)
+
 ### Mon 7/31 3:14pm
 * New movies: Kokomo City
 
