@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 8/1 12:22pm
+* New movies: Blue Beetle
+
+* New screenings: 
+    * [Blue Beetle](https://drafthouse.com/raleigh/show/blue-beetle): Thu 8/17 (2:30pm, 5:45pm, 9:00pm), Fri 8/18 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Sat 8/19 (11:00am, 2:45pm, 9:15pm), Sun 8/20 (11:00am, 2:45pm, 6:30pm, 9:45pm)
+
 ### Mon 7/31 9:45pm
 
 * New screenings: 
