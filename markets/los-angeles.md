@@ -1,6 +1,38 @@
 # los-angeles
 
 ## Movie updates
+### Mon 7/31 6:27pm
+* New movies: Spirited Away Subtitled
+
+* New screenings: 
+    * [Asteroid City](https://drafthouse.com/los-angeles/show/asteroid-city): Tue 8/1 (3:00pm)
+
+    * [Barbie](https://drafthouse.com/los-angeles/show/barbie): Wed 8/2 (12:20pm, 3:30pm, 6:45pm, 10:00pm), Thu 8/3 (2:15pm, 2:50pm, 5:30pm, 10:15pm), Fri 8/4 (11:00am, 2:10pm, 4:00pm, 7:15pm, 10:40pm), Sat 8/5 (11:00am, 4:00pm, 7:15pm, 10:40pm), Sun 8/6 (11:00am, 4:00pm, 7:15pm, 10:45pm), Mon 8/7 (4:00pm, 7:20pm, 10:25pm), Tue 8/8 (4:00pm, 7:15pm), Wed 8/9 (1:45pm, 4:00pm, 4:50pm, 7:15pm)
+
+    * [Brunch Screenings Spirited Away Subtitled Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-spirited-away-subtitled-brunch): Sat 8/5 (1:00pm)
+
+    * [Haunted Mansion 2023](https://drafthouse.com/los-angeles/show/haunted-mansion-2023): Thu 8/3 (3:45pm, 7:00pm, 10:25pm), Fri 8/4 (11:30am, 3:00pm, 6:40pm, 10:00pm), Sat 8/5 (12:15pm, 3:45pm, 7:00pm, 10:20pm), Sun 8/6 (1:05pm, 4:15pm, 7:30pm, 10:40pm), Mon 8/7 (1:15pm, 4:30pm, 7:00pm, 10:20pm), Tue 8/8 (1:15pm, 4:30pm, 7:00pm, 10:20pm), Wed 8/9 (1:15pm, 4:30pm, 7:00pm, 10:20pm)
+
+    * [Indiana Jones And The Dial Of Destiny](https://drafthouse.com/los-angeles/show/indiana-jones-and-the-dial-of-destiny): Tue 8/1 (11:45am, 3:30pm)
+
+    * [Kokomo City](https://drafthouse.com/los-angeles/show/kokomo-city): Fri 8/4 (10:45am, 1:05pm, 10:30pm), Sat 8/5 (10:40am, 7:05pm, 10:30pm), Sun 8/6 (10:45am, 6:00pm, 9:30pm, 10:25pm), Mon 8/7 (12:20pm, 2:45pm, 6:15pm, 10:35pm), Tue 8/8 (12:45pm, 3:10pm, 5:35pm, 10:30pm), Wed 8/9 (11:15am, 3:50pm, 6:15pm, 10:25pm)
+
+    * [Meg 2 The Trench](https://drafthouse.com/los-angeles/show/meg-2-the-trench): Mon 8/7 (12:30pm, 3:50pm, 7:10pm, 10:20pm), Tue 8/8 (12:30pm, 3:50pm, 7:10pm, 10:20pm), Wed 8/9 (12:30pm, 3:50pm, 7:10pm, 10:20pm)
+
+    * [Mission Impossible Dead Reckoning Pt 1](https://drafthouse.com/los-angeles/show/mission-impossible-dead-reckoning-pt-1): Tue 8/1 (12:25pm, 10:00pm), Thu 8/3 (2:35pm, 6:30pm, 10:10pm), Fri 8/4 (11:10am, 2:45pm, 6:20pm, 10:15pm), Sat 8/5 (11:50am, 2:25pm, 6:20pm, 10:15pm), Sun 8/6 (11:25am, 2:25pm, 6:20pm, 10:15pm), Mon 8/7 (11:45am, 2:20pm, 6:15pm, 10:10pm), Tue 8/8 (11:50am, 2:20pm, 6:15pm, 10:10pm), Wed 8/9 (11:45am, 2:20pm, 6:15pm, 10:10pm)
+
+    * [Oppenheimer](https://drafthouse.com/los-angeles/show/oppenheimer): Thu 8/3 (1:45pm, 3:00pm, 6:00pm, 8:40pm, 10:00pm), Fri 8/4 (11:40am, 2:15pm, 2:45pm, 6:30pm, 10:10pm), Sat 8/5 (11:40am, 2:15pm, 4:15pm, 6:30pm, 8:30pm, 9:30pm), Sun 8/6 (11:40am, 2:15pm, 5:10pm, 6:30pm, 8:30pm), Mon 8/7 (11:00am, 11:40am, 1:55pm, 3:15pm, 7:30pm, 8:45pm), Tue 8/8 (11:00am, 11:40am, 3:15pm, 7:30pm, 9:50pm), Wed 8/9 (11:00am, 11:40am, 3:15pm, 7:30pm, 8:45pm)
+
+    * [Shortcomings](https://drafthouse.com/los-angeles/show/shortcomings): Fri 8/4 (11:45am, 3:25pm, 9:00pm), Sat 8/5 (11:40am, 3:30pm, 9:00pm), Sun 8/6 (11:35am, 3:30pm, 9:20pm), Mon 8/7 (1:00pm, 4:00pm, 7:45pm, 10:30pm), Tue 8/8 (1:00pm, 4:00pm, 7:45pm, 10:30pm), Wed 8/9 (1:00pm, 4:00pm, 7:45pm, 10:30pm)
+
+    * [Spirited Away](https://drafthouse.com/los-angeles/show/spirited-away): Tue 8/8 (12:10pm, 3:40pm), Wed 8/9 (12:30pm)
+
+    * [Talk To Me](https://drafthouse.com/los-angeles/show/talk-to-me): Tue 8/1 (9:20pm), Thu 8/3 (2:10pm, 5:00pm, 7:15pm, 10:10pm), Fri 8/4 (10:50am, 1:40pm, 4:30pm, 7:30pm, 10:25pm), Sat 8/5 (10:50am, 1:40pm, 4:30pm, 7:30pm, 10:20pm), Sun 8/6 (11:10am, 2:00pm, 4:50pm, 7:45pm, 10:35pm), Mon 8/7 (11:10am, 2:00pm, 4:50pm, 7:45pm, 10:35pm), Tue 8/8 (11:10am, 2:00pm, 4:50pm, 7:45pm, 10:35pm), Wed 8/9 (11:10am, 2:00pm, 4:50pm, 7:45pm, 10:35pm)
+
+    * [Teenage Mutant Ninja Turtles Mutant Mayhem](https://drafthouse.com/los-angeles/show/teenage-mutant-ninja-turtles-mutant-mayhem): Tue 8/1 (6:00pm, 9:00pm), Wed 8/2 (11:20am, 2:20pm, 5:25pm, 8:30pm), Thu 8/3 (2:35pm, 5:45pm, 8:45pm)
+
+    * [Theater Camp](https://drafthouse.com/los-angeles/show/theater-camp): Tue 8/1 (12:15pm, 4:15pm, 7:20pm, 10:10pm), Wed 8/2 (11:00am, 1:45pm, 4:30pm, 7:15pm, 10:10pm), Thu 8/3 (2:00pm, 4:45pm, 7:30pm, 10:20pm), Fri 8/4 (11:10am, 2:00pm, 5:00pm, 8:00pm, 10:55pm), Sat 8/5 (11:10am, 2:00pm, 5:00pm, 8:00pm, 10:55pm), Sun 8/6 (11:10am, 2:00pm, 5:00pm, 8:00pm, 10:50pm), Mon 8/7 (11:40am, 3:40pm, 6:30pm, 9:20pm), Tue 8/8 (11:40am, 3:35pm, 6:30pm, 9:20pm), Wed 8/9 (11:40am, 3:40pm, 6:30pm, 9:20pm)
+
 ### Thu 7/27 4:14pm
 
 * New screenings: 
