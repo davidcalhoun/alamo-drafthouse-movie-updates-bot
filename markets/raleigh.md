@@ -1,6 +1,38 @@
 # raleigh
 
 ## Movie updates
+### Wed 8/2 4:18pm
+* New movies: The Mummy 1999, Pee-wee's Big Adventure, A.I. Artificial Intelligence, Thelma & Louise, A Clockwork Orange, Barry Lyndon, Ocean's Eleven 2001, Lolita 1962, Paths of Glory, Spartacus 1960, The Dark Knight, The Killing 1956
+
+* New screenings: 
+    * [2001 A Space Odyssey](https://drafthouse.com/raleigh/show/2001-a-space-odyssey): Sun 9/3 (8:30pm)
+
+    * [A Clockwork Orange 4k Restoration](https://drafthouse.com/raleigh/show/a-clockwork-orange-4k-restoration): Sun 9/17 (9:30pm)
+
+    * [A I Artificial Intelligence](https://drafthouse.com/raleigh/show/a-i-artificial-intelligence): Tue 10/3 (3:15pm), Wed 10/4 (7:00pm)
+
+    * [Barry Lyndon](https://drafthouse.com/raleigh/show/barry-lyndon): Sun 9/24 (11:00am)
+
+    * [Blue Beetle](https://drafthouse.com/raleigh/show/blue-beetle): Sat 8/19 (11:00am)
+
+    * [Brunch Screenings Oceans Eleven 2001 Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-oceans-eleven-2001-brunch): Sun 9/17 (12:00pm)
+
+    * [Lolita 1962](https://drafthouse.com/raleigh/show/lolita-1962): Wed 9/20 (7:00pm)
+
+    * [Movie Party The Mummy 1999](https://drafthouse.com/raleigh/show/movie-party-the-mummy-1999): Sun 9/24 (7:00pm), Wed 9/27 (7:00pm)
+
+    * [Paths Of Glory](https://drafthouse.com/raleigh/show/paths-of-glory): Sat 9/9 (2:15pm)
+
+    * [Pee Wees Big Adventure](https://drafthouse.com/raleigh/show/pee-wees-big-adventure): Fri 8/11 (3:00pm), Sat 8/19 (12:00pm)
+
+    * [Queer Film Theory 101 Thelma Louise](https://drafthouse.com/raleigh/show/queer-film-theory-101-thelma-louise): Mon 9/25 (7:30pm)
+
+    * [Spartacus 1960](https://drafthouse.com/raleigh/show/spartacus-1960): Sun 9/10 (10:55am)
+
+    * [The Dark Knight](https://drafthouse.com/raleigh/show/the-dark-knight): Sat 9/16 (6:00pm)
+
+    * [The Killing 1956](https://drafthouse.com/raleigh/show/the-killing-1956): Sat 9/23 (3:00pm)
+
 ### Tue 8/1 12:22pm
 * New movies: Blue Beetle
 
