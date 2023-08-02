@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 8/2 1:15pm
+* New movies: Extra Terrestrial Visitors, Comic Strip Presents: Bad News & Mr. Jolly Lives Next Door
+
+* New screenings: 
+    * [Comic Strip Presents Bad News Mr Jolly Lives Next Door](https://drafthouse.com/los-angeles/show/comic-strip-presents-bad-news-mr-jolly-lives-next-door): Tue 8/22 (8:00pm)
+
+    * [Extra Terrestrial Visitors](https://drafthouse.com/los-angeles/show/extra-terrestrial-visitors): Tue 8/29 (8:00pm), Wed 8/30 (8:00pm)
+
 ### Mon 7/31 6:27pm
 * New movies: Spirited Away Subtitled
 
