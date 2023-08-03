@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Wed 8/2 11:19pm
+* New movies: Thelma & Louise, Road House, The Mask of Zorro 1998, The Mummy Returns
+
+* New screenings: 
+    * [Queer Film Theory 101 Thelma Louise](https://drafthouse.com/los-angeles/show/queer-film-theory-101-thelma-louise): Mon 9/25 (8:00pm)
+
+    * [Road House](https://drafthouse.com/los-angeles/show/road-house): Sun 9/10 (8:00pm)
+
+    * [The Mask Of Zorro](https://drafthouse.com/los-angeles/show/the-mask-of-zorro): Sat 9/23 (11:00am)
+
+    * [The Mummy Returns](https://drafthouse.com/los-angeles/show/the-mummy-returns): Fri 9/29 (9:30pm)
+
 ### Wed 8/2 1:15pm
 * New movies: Extra Terrestrial Visitors, Comic Strip Presents: Bad News & Mr. Jolly Lives Next Door
 
