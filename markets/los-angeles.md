@@ -1,6 +1,60 @@
 # los-angeles
 
 ## Movie updates
+### Thu 8/3 6:18pm
+* New movies: The Mummy 1999, The Adults, Clue, 2001: A Space Odyssey, Computer Chess, A Clockwork Orange, A.I. Artificial Intelligence, Barry Lyndon, Ocean's Eleven 2001, Pride & Prejudice 2005, Dr. Strangelove Or: How I Learned To Stop Worrying And Love The Bomb, Eyes Wide Shut, Full Metal Jacket, Killer's Kiss, Lolita 1962, Paths of Glory, Spartacus 1960, The Dark Knight, The Killing 1956, The Shining, Harry Potter and the Deathly Hallows: Part 1, Harry Potter and the Deathly Hallows: Part 2, Harry Potter and the Half-Blood Prince, Harry Potter and the Order of the Phoenix
+
+* New screenings: 
+    * [2001 A Space Odyssey](https://drafthouse.com/los-angeles/show/2001-a-space-odyssey): Mon 9/4 (6:00pm)
+
+    * [A Clockwork Orange 4k Restoration](https://drafthouse.com/los-angeles/show/a-clockwork-orange-4k-restoration): Fri 9/15 (9:30pm)
+
+    * [A I Artificial Intelligence](https://drafthouse.com/los-angeles/show/a-i-artificial-intelligence): Sat 9/30 (4:00pm)
+
+    * [Barry Lyndon](https://drafthouse.com/los-angeles/show/barry-lyndon): Sun 9/24 (11:00am)
+
+    * [Brunch Screenings Oceans Eleven 2001 Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-oceans-eleven-2001-brunch): Sat 9/16 (11:00am)
+
+    * [Champagne Cinema Pride Prejudice](https://drafthouse.com/los-angeles/show/champagne-cinema-pride-prejudice): Wed 9/13 (6:30pm)
+
+    * [Computer Chess](https://drafthouse.com/los-angeles/show/computer-chess): Sat 9/9 (11:00am)
+
+    * [Dr Strangelove Or How I Learned To Stop Worrying And Love The Bomb](https://drafthouse.com/los-angeles/show/dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb): Mon 9/11 (7:15pm)
+
+    * [Eyes Wide Shut](https://drafthouse.com/los-angeles/show/eyes-wide-shut): Mon 10/2 (6:30pm)
+
+    * [Full Metal Jacket](https://drafthouse.com/los-angeles/show/full-metal-jacket): Mon 9/4 (2:45pm)
+
+    * [Harry Potter And The Deathly Hallows Part 1](https://drafthouse.com/los-angeles/show/harry-potter-and-the-deathly-hallows-part-1): Sun 9/17 (3:00pm)
+
+    * [Harry Potter And The Deathly Hallows Part 2](https://drafthouse.com/los-angeles/show/harry-potter-and-the-deathly-hallows-part-2): Sun 9/24 (3:15pm)
+
+    * [Harry Potter And The Half Blood Prince](https://drafthouse.com/los-angeles/show/harry-potter-and-the-half-blood-prince): Sun 9/10 (3:30pm)
+
+    * [Harry Potter And The Order Of The Phoenix](https://drafthouse.com/los-angeles/show/harry-potter-and-the-order-of-the-phoenix): Sun 9/3 (2:20pm)
+
+    * [Killers Kiss](https://drafthouse.com/los-angeles/show/killers-kiss): Sat 9/23 (5:10pm)
+
+    * [Live Q A The Adults](https://drafthouse.com/los-angeles/show/live-q-a-the-adults): Sat 8/19 (7:45pm)
+
+    * [Lolita 1962](https://drafthouse.com/los-angeles/show/lolita-1962): Sun 9/17 (6:40pm)
+
+    * [Movie Party Clue](https://drafthouse.com/los-angeles/show/movie-party-clue): Sun 9/3 (6:00pm)
+
+    * [Movie Party The Mummy 1999](https://drafthouse.com/los-angeles/show/movie-party-the-mummy-1999): Fri 9/22 (9:30pm), Sat 9/23 (7:30pm), Sun 9/24 (6:45pm), Wed 9/27 (7:15pm)
+
+    * [Paths Of Glory](https://drafthouse.com/los-angeles/show/paths-of-glory): Sat 9/9 (1:45pm)
+
+    * [Signature Programming Shrek 2 Swamp Party](https://drafthouse.com/los-angeles/show/signature-programming-shrek-2-swamp-party): Sun 8/13 (6:00pm)
+
+    * [Spartacus 1960](https://drafthouse.com/los-angeles/show/spartacus-1960): Sun 9/10 (11:00am)
+
+    * [The Dark Knight](https://drafthouse.com/los-angeles/show/the-dark-knight): Sat 9/16 (6:45pm)
+
+    * [The Killing 1956](https://drafthouse.com/los-angeles/show/the-killing-1956): Sat 9/23 (2:30pm)
+
+    * [The Shining](https://drafthouse.com/los-angeles/show/the-shining): Sun 10/1 (6:30pm)
+
 ### Wed 8/2 11:19pm
 * New movies: Thelma & Louise, Road House, The Mask of Zorro 1998, The Mummy Returns
 
