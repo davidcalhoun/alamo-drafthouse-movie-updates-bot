@@ -1,6 +1,20 @@
 # los-angeles
 
 ## Movie updates
+### Sat 8/5 1:17am
+* New movies: The Last Voyage of the Demeter, Evangelion: 3.0+1.01 Thrice Upon a Time
+
+* New screenings: 
+    * [Barbie](https://drafthouse.com/los-angeles/show/barbie): Fri 8/11 (12:30pm, 3:45pm, 7:00pm, 10:10pm), Sat 8/12 (12:30pm, 3:45pm, 7:00pm, 10:10pm), Sun 8/13 (12:30pm, 3:45pm, 7:00pm, 10:10pm), Mon 8/14 (12:30pm, 3:45pm, 7:00pm, 10:10pm), Tue 8/15 (12:30pm, 3:45pm, 7:00pm, 10:10pm), Wed 8/16 (12:30pm, 3:45pm, 7:00pm, 10:10pm)
+
+    * [Evangelion Thrice Upon A Time](https://drafthouse.com/los-angeles/show/evangelion-thrice-upon-a-time): Fri 9/15 (6:45pm)
+
+    * [Oppenheimer](https://drafthouse.com/los-angeles/show/oppenheimer): Fri 8/11 (11:00am, 2:30pm, 6:15pm, 9:45pm), Sat 8/12 (11:00am, 2:30pm, 6:15pm, 9:45pm), Sun 8/13 (11:00am, 2:30pm, 6:15pm, 9:45pm), Mon 8/14 (11:00am, 2:30pm, 6:15pm, 9:45pm), Tue 8/15 (11:00am, 2:30pm, 6:15pm, 9:45pm), Wed 8/16 (11:00am, 2:30pm, 6:15pm, 9:45pm)
+
+    * [Teenage Mutant Ninja Turtles Mutant Mayhem](https://drafthouse.com/los-angeles/show/teenage-mutant-ninja-turtles-mutant-mayhem): Fri 8/11 (11:45am, 3:15pm, 6:45pm), Sat 8/12 (11:45am, 3:15pm, 6:45pm), Sun 8/13 (11:30am, 3:15pm, 6:45pm), Mon 8/14 (11:45am, 3:15pm, 6:45pm), Tue 8/15 (11:45am, 3:15pm, 6:45pm), Wed 8/16 (11:45am, 3:15pm, 6:45pm)
+
+    * [The Last Voyage Of The Demeter](https://drafthouse.com/los-angeles/show/the-last-voyage-of-the-demeter): Fri 8/11 (11:15am, 2:45pm, 6:00pm, 9:15pm), Sat 8/12 (11:15am, 2:45pm, 6:00pm, 9:15pm), Sun 8/13 (12:15pm, 4:00pm, 7:15pm, 10:30pm), Mon 8/14 (11:15am, 2:45pm, 6:00pm, 9:15pm), Tue 8/15 (11:15am, 2:45pm, 6:00pm, 9:15pm), Wed 8/16 (11:15am, 2:45pm, 6:00pm, 9:15pm)
+
 ### Sat 8/5 12:12am
 * New movies: Gran Turismo: Based on a True Story
 
