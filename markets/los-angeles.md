@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Sat 8/5 12:12am
+* New movies: Gran Turismo: Based on a True Story
+
+* New screenings: 
+    * [Gran Turismo](https://drafthouse.com/los-angeles/show/gran-turismo): Sat 8/12 (3:00pm), Thu 8/24 (6:15pm, 9:45pm), Fri 8/25 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sat 8/26 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Mon 8/28 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Tue 8/29 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Wed 8/30 (12:00pm, 3:30pm, 7:00pm, 10:30pm)
+
 ### Thu 8/3 6:18pm
 * New movies: The Mummy 1999, The Adults, Clue, 2001: A Space Odyssey, Computer Chess, A Clockwork Orange, A.I. Artificial Intelligence, Barry Lyndon, Ocean's Eleven 2001, Pride & Prejudice 2005, Dr. Strangelove Or: How I Learned To Stop Worrying And Love The Bomb, Eyes Wide Shut, Full Metal Jacket, Killer's Kiss, Lolita 1962, Paths of Glory, Spartacus 1960, The Dark Knight, The Killing 1956, The Shining, Harry Potter and the Deathly Hallows: Part 1, Harry Potter and the Deathly Hallows: Part 2, Harry Potter and the Half-Blood Prince, Harry Potter and the Order of the Phoenix
 
