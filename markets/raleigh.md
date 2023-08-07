@@ -1,6 +1,36 @@
 # raleigh
 
 ## Movie updates
+### Mon 8/7 2:22pm
+* New movies: The Last Voyage of the Demeter, Heathers
+
+* New screenings: 
+    * [Barbie](https://drafthouse.com/raleigh/show/barbie): Thu 8/10 (11:00am, 12:30pm, 2:00pm, 3:30pm, 4:15pm, 6:30pm, 8:00pm, 8:30pm, 9:30pm, 10:30pm)
+
+    * [Brunch Screenings Heathers Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-heathers-brunch): Sat 8/12 (11:00am)
+
+    * [Detention](https://drafthouse.com/raleigh/show/detention): Thu 8/10 (3:00pm)
+
+    * [Harry Potter And The Sorcerers Stone](https://drafthouse.com/raleigh/show/harry-potter-and-the-sorcerers-stone): Thu 8/10 (11:40am)
+
+    * [Haunted Mansion 2023](https://drafthouse.com/raleigh/show/haunted-mansion-2023): Thu 8/10 (1:30pm, 4:40pm, 6:45pm, 10:00pm)
+
+    * [Kokomo City](https://drafthouse.com/raleigh/show/kokomo-city): Thu 8/10 (1:55pm)
+
+    * [Meg 2 The Trench](https://drafthouse.com/raleigh/show/meg-2-the-trench): Thu 8/10 (11:15am, 3:15pm, 7:15pm, 10:15pm)
+
+    * [Mission Impossible Dead Reckoning Pt 1](https://drafthouse.com/raleigh/show/mission-impossible-dead-reckoning-pt-1): Thu 8/10 (12:45pm, 2:15pm, 6:15pm, 9:50pm)
+
+    * [Oppenheimer](https://drafthouse.com/raleigh/show/oppenheimer): Thu 8/10 (11:45am, 3:45pm, 7:55pm, 9:00pm)
+
+    * [Talk To Me](https://drafthouse.com/raleigh/show/talk-to-me): Thu 8/10 (1:15pm, 3:55pm, 7:45pm, 11:00pm)
+
+    * [Teenage Mutant Ninja Turtles Mutant Mayhem](https://drafthouse.com/raleigh/show/teenage-mutant-ninja-turtles-mutant-mayhem): Thu 8/10 (12:00pm, 1:00pm, 4:00pm, 4:30pm, 6:00pm, 9:45pm)
+
+    * [The Last Voyage Of The Demeter](https://drafthouse.com/raleigh/show/the-last-voyage-of-the-demeter): Thu 8/10 (5:00pm, 7:30pm, 10:40pm)
+
+    * [Theater Camp](https://drafthouse.com/raleigh/show/theater-camp): Thu 8/10 (5:45pm)
+
 ### Wed 8/2 4:18pm
 * New movies: The Mummy 1999, Pee-wee's Big Adventure, A.I. Artificial Intelligence, Thelma & Louise, A Clockwork Orange, Barry Lyndon, Ocean's Eleven 2001, Lolita 1962, Paths of Glory, Spartacus 1960, The Dark Knight, The Killing 1956
 
