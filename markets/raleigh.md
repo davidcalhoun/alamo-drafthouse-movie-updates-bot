@@ -1,6 +1,30 @@
 # raleigh
 
 ## Movie updates
+### Mon 8/7 7:17pm
+* New movies: Teenage Mutant Ninja Turtles: Mutant Mayhem
+
+* New screenings: 
+    * [Barbie](https://drafthouse.com/raleigh/show/barbie): Fri 8/11 (12:00pm, 2:50pm, 4:45pm, 5:45pm, 7:30pm, 8:00pm, 8:45pm, 10:00pm, 10:30pm), Sat 8/12 (10:45am, 11:00am, 3:00pm, 4:30pm, 5:00pm, 5:30pm, 7:30pm, 8:30pm, 10:30pm), Sun 8/13 (11:15am, 12:15pm, 2:00pm, 5:00pm, 7:00pm, 7:30pm, 10:00pm, 10:30pm), Mon 8/14 (11:30am, 2:00pm, 2:30pm, 4:30pm, 5:30pm, 7:30pm, 10:00pm), Tue 8/15 (10:40am, 2:00pm, 3:00pm, 5:00pm, 5:30pm, 6:00pm, 8:30pm, 10:30pm), Wed 8/16 (11:30am, 12:45pm, 1:30pm, 2:30pm, 3:00pm, 6:00pm, 9:45pm), Thu 8/17 (11:00am, 2:00pm)
+
+    * [Brunch Screenings Teenage Mutant Ninja Turtles Mutant Mayhem Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-teenage-mutant-ninja-turtles-mutant-mayhem-brunch): Sat 8/12 (11:50am)
+
+    * [Haunted Mansion 2023](https://drafthouse.com/raleigh/show/haunted-mansion-2023): Fri 8/11 (1:00pm, 4:00pm, 6:15pm, 10:15pm), Sat 8/12 (12:50pm, 4:10pm, 6:15pm, 10:15pm), Sun 8/13 (11:45am, 3:10pm, 6:15pm, 10:05pm), Mon 8/14 (12:30pm, 3:40pm, 6:45pm, 10:15pm), Tue 8/15 (12:45pm, 3:40pm, 6:45pm, 10:00pm), Wed 8/16 (12:00pm, 3:10pm, 6:45pm, 9:50pm)
+
+    * [Meg 2 The Trench](https://drafthouse.com/raleigh/show/meg-2-the-trench): Fri 8/11 (12:15pm, 3:15pm, 7:15pm, 10:15pm), Sat 8/12 (12:00pm, 3:30pm, 7:15pm, 10:15pm), Sun 8/13 (1:00pm, 4:15pm, 7:15pm, 10:15pm), Mon 8/14 (1:15pm, 4:45pm, 7:45pm, 10:45pm), Tue 8/15 (1:15pm, 4:45pm, 7:45pm, 10:45pm), Wed 8/16 (12:40pm, 3:30pm, 7:45pm, 10:45pm)
+
+    * [Mission Impossible Dead Reckoning Pt 1](https://drafthouse.com/raleigh/show/mission-impossible-dead-reckoning-pt-1): Fri 8/11 (10:55am, 2:45pm, 6:30pm, 9:40pm), Sat 8/12 (11:30am, 3:15pm, 6:30pm, 9:45pm), Sun 8/13 (12:00pm, 3:45pm, 6:30pm, 9:50pm), Mon 8/14 (1:25pm, 5:00pm, 6:30pm, 9:50pm), Tue 8/15 (1:00pm, 2:30pm, 6:15pm, 9:50pm), Wed 8/16 (1:25pm, 4:00pm, 6:15pm, 10:00pm)
+
+    * [Oppenheimer](https://drafthouse.com/raleigh/show/oppenheimer): Fri 8/11 (11:30am, 3:30pm, 6:00pm, 8:30pm, 9:20pm), Sat 8/12 (12:15pm, 4:15pm, 6:00pm, 8:15pm, 9:20pm), Sun 8/13 (12:55pm, 2:30pm, 5:15pm, 6:00pm, 9:20pm), Mon 8/14 (12:45pm, 2:15pm, 6:00pm, 8:45pm, 9:05pm), Tue 8/15 (1:30pm, 3:30pm, 6:30pm, 8:15pm, 9:00pm), Wed 8/16 (12:15pm, 4:15pm, 5:30pm, 6:30pm, 8:15pm, 9:00pm, 10:30pm)
+
+    * [Talk To Me](https://drafthouse.com/raleigh/show/talk-to-me): Fri 8/11 (1:15pm, 3:20pm, 7:00pm, 11:00pm), Sat 8/12 (1:30pm, 4:55pm, 7:45pm, 10:25pm), Sun 8/13 (1:30pm, 4:00pm, 7:45pm, 10:30pm), Mon 8/14 (12:50pm, 3:15pm, 7:00pm, 10:30pm), Tue 8/15 (11:50am, 3:50pm, 7:30pm, 10:10pm), Wed 8/16 (1:15pm, 5:15pm, 8:00pm, 10:40pm)
+
+    * [Teenage Mutant Ninja Turtles Mutant Mayhem](https://drafthouse.com/raleigh/show/teenage-mutant-ninja-turtles-mutant-mayhem): Fri 8/11 (11:00am, 12:30pm, 12:50pm, 1:55pm, 4:10pm, 5:00pm, 7:45pm, 10:40pm), Sat 8/12 (11:15am, 2:00pm, 2:10pm, 2:40pm, 3:55pm, 7:00pm, 8:00pm, 9:50pm, 10:50pm), Sun 8/13 (11:40am, 2:15pm, 2:50pm, 4:55pm, 5:40pm, 8:00pm, 8:30pm, 10:50pm), Mon 8/14 (11:25am, 12:55pm, 1:40pm, 4:15pm, 5:10pm, 6:15pm, 8:00pm, 10:50pm), Tue 8/15 (12:00pm, 12:50pm, 1:40pm, 2:15pm, 5:15pm, 8:00pm, 10:50pm), Wed 8/16 (11:00am, 12:40pm, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Thu 8/17 (11:40am)
+
+    * [The Last Voyage Of The Demeter](https://drafthouse.com/raleigh/show/the-last-voyage-of-the-demeter): Fri 8/11 (11:40am, 3:40pm, 6:45pm, 9:50pm), Sat 8/12 (12:25pm, 3:10pm, 6:45pm, 10:00pm), Sun 8/13 (11:55am, 3:00pm, 6:45pm, 10:20pm), Mon 8/14 (12:10pm, 3:30pm, 7:15pm, 10:20pm), Tue 8/15 (12:30pm, 4:15pm, 7:15pm, 10:15pm), Wed 8/16 (11:55am, 3:40pm, 7:15pm, 10:15pm)
+
+    * [Theater Camp](https://drafthouse.com/raleigh/show/theater-camp): Fri 8/11 (5:50pm), Sat 8/12 (12:30pm), Sun 8/13 (12:30pm), Mon 8/14 (11:15am), Tue 8/15 (11:30am), Wed 8/16 (4:30pm)
+
 ### Mon 8/7 2:22pm
 * New movies: The Last Voyage of the Demeter, Heathers
 
