@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 8/8 3:14pm
+
+* New screenings: 
+    * [Barbie](https://drafthouse.com/raleigh/show/barbie): Thu 8/17 (10:30am, 1:30pm, 4:30pm, 7:30pm, 10:30pm)
+
 ### Mon 8/7 9:32pm
 
 * New screenings: 
