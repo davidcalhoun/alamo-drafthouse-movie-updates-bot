@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 8/8 11:19am
+
+* New screenings: 
+    * [Oldboy 2003](https://drafthouse.com/los-angeles/show/oldboy-2003): Mon 8/14 (9:00pm)
+
 ### Tue 8/8 10:14am
 * New movies: Passages, Barbie
 
