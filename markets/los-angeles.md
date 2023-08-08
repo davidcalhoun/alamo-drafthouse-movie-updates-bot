@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 8/7 7:29pm
+
+* New screenings: 
+    * [Oldboy 2003](https://drafthouse.com/los-angeles/show/oldboy-2003): Thu 8/17 (10:40pm)
+
 ### Sat 8/5 1:17am
 * New movies: The Last Voyage of the Demeter, Evangelion: 3.0+1.01 Thrice Upon a Time
 
