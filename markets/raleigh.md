@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 8/8 5:15pm
+* New movies: Jurassic Park in 3D
+
+* New screenings: 
+    * [Jurassic Park In 3d](https://drafthouse.com/raleigh/show/jurassic-park-in-3d): Thu 8/24 (4:00pm, 7:15pm), Fri 8/25 (4:00pm, 7:15pm), Sat 8/26 (4:00pm, 7:15pm)
+
 ### Tue 8/8 3:14pm
 
 * New screenings: 
