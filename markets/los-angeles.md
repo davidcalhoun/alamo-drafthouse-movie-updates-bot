@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 8/8 1:16pm
+* New movies: Pee-wee's Big Adventure
+
+* New screenings: 
+    * [Pee Wees Big Adventure](https://drafthouse.com/los-angeles/show/pee-wees-big-adventure): Sat 8/12 (11:30am)
+
 ### Tue 8/8 11:19am
 
 * New screenings: 
