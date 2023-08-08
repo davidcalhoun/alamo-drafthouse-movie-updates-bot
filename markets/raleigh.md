@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 8/7 9:32pm
+
+* New screenings: 
+    * [Strays](https://drafthouse.com/raleigh/show/strays): Thu 8/17 (10:25pm)
+
 ### Mon 8/7 7:17pm
 * New movies: Teenage Mutant Ninja Turtles: Mutant Mayhem
 
