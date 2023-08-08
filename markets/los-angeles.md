@@ -1,6 +1,42 @@
 # los-angeles
 
 ## Movie updates
+### Tue 8/8 10:14am
+* New movies: Passages, Barbie
+
+* New screenings: 
+    * [Barbie](https://drafthouse.com/los-angeles/show/barbie): Thu 8/10 (2:20pm, 3:30pm, 5:45pm, 6:30pm, 7:30pm, 9:55pm, 10:10pm, 10:40pm), Fri 8/11 (10:45am, 11:30am, 12:00pm, 1:50pm, 5:00pm, 6:30pm, 9:40pm), Sat 8/12 (11:30am, 5:00pm, 6:30pm, 9:50pm, 10:45pm), Sun 8/13 (11:20am, 6:30pm, 9:40pm), Mon 8/14 (12:00pm), Tue 8/15 (11:10am, 6:30pm, 9:40pm), Wed 8/16 (11:10am, 10:30pm)
+
+    * [Brunch Screenings Barbie Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-barbie-brunch): Sat 8/12 (10:40am), Sun 8/13 (10:45am)
+
+    * [Harry Potter And The Chamber Of Secrets](https://drafthouse.com/los-angeles/show/harry-potter-and-the-chamber-of-secrets): Sun 8/13 (11:00am), Tue 8/15 (1:30pm), Wed 8/16 (11:00am)
+
+    * [Haunted Mansion 2023](https://drafthouse.com/los-angeles/show/haunted-mansion-2023): Thu 8/10 (4:15pm, 7:30pm, 10:45pm), Fri 8/11 (1:00pm, 4:15pm, 7:30pm, 10:45pm), Sat 8/12 (12:50pm, 4:15pm, 7:30pm, 10:45pm), Sun 8/13 (11:00am, 3:00pm, 6:20pm, 9:35pm), Mon 8/14 (11:40am, 3:00pm, 6:20pm, 9:35pm), Tue 8/15 (11:40am, 3:00pm, 6:20pm, 9:35pm), Wed 8/16 (11:25am, 3:00pm, 6:20pm, 9:35pm)
+
+    * [Kokomo City](https://drafthouse.com/los-angeles/show/kokomo-city): Thu 8/10 (2:20pm, 5:30pm), Fri 8/11 (3:10pm), Sat 8/12 (11:50am), Mon 8/14 (2:15pm), Tue 8/15 (5:35pm)
+
+    * [Meg 2 The Trench](https://drafthouse.com/los-angeles/show/meg-2-the-trench): Thu 8/10 (3:45pm, 7:00pm, 10:10pm), Fri 8/11 (12:45pm, 4:00pm, 7:15pm, 10:25pm), Sat 8/12 (12:40pm, 4:00pm, 7:15pm, 10:25pm), Sun 8/13 (12:45pm, 4:00pm, 7:15pm, 10:25pm), Mon 8/14 (12:50pm, 4:00pm, 7:15pm, 10:25pm), Tue 8/15 (12:45pm, 4:00pm, 7:15pm, 10:25pm), Wed 8/16 (12:45pm, 4:00pm, 7:15pm, 10:25pm)
+
+    * [Mission Impossible Dead Reckoning Pt 1](https://drafthouse.com/los-angeles/show/mission-impossible-dead-reckoning-pt-1): Thu 8/10 (3:15pm), Fri 8/11 (5:35pm), Sat 8/12 (11:25am, 8:30pm), Sun 8/13 (3:30pm), Mon 8/14 (1:45pm), Tue 8/15 (3:15pm), Wed 8/16 (12:00pm)
+
+    * [Oldboy 2003](https://drafthouse.com/los-angeles/show/oldboy-2003): Wed 8/16 (1:00pm, 4:00pm, 6:30pm, 10:00pm)
+
+    * [Oppenheimer](https://drafthouse.com/los-angeles/show/oppenheimer): Thu 8/10 (2:10pm, 3:15pm, 6:00pm, 9:00pm, 9:40pm), Fri 8/11 (2:10pm, 8:10pm), Sat 8/12 (1:45pm), Sun 8/13 (2:15pm), Tue 8/15 (1:15pm, 2:15pm), Wed 8/16 (2:15pm)
+
+    * [Passages](https://drafthouse.com/los-angeles/show/passages): Thu 8/10 (7:45pm, 10:30pm), Fri 8/11 (11:15am, 2:00pm, 4:45pm, 7:45pm, 10:35pm), Sat 8/12 (11:15am, 2:00pm, 4:45pm, 7:45pm, 10:35pm), Sun 8/13 (11:10am, 2:00pm, 4:45pm, 7:40pm, 10:30pm), Mon 8/14 (1:15pm, 4:10pm, 7:00pm, 9:45pm), Tue 8/15 (11:00am, 1:45pm, 4:35pm, 7:30pm, 10:15pm), Wed 8/16 (11:00am, 1:45pm, 4:35pm, 7:30pm, 10:15pm)
+
+    * [Shortcomings](https://drafthouse.com/los-angeles/show/shortcomings): Thu 8/10 (3:00pm, 5:25pm, 11:00pm), Fri 8/11 (5:25pm, 11:00pm), Sat 8/12 (5:25pm, 11:00pm), Sun 8/13 (5:25pm, 9:00pm), Mon 8/14 (3:30pm, 10:35pm), Tue 8/15 (5:20pm, 9:50pm, 10:35pm), Wed 8/16 (5:20pm, 10:35pm)
+
+    * [Talk To Me](https://drafthouse.com/los-angeles/show/talk-to-me): Thu 8/10 (2:40pm, 4:50pm, 8:00pm, 10:50pm), Fri 8/11 (11:30am, 2:20pm, 5:10pm, 8:00pm, 10:50pm), Sat 8/12 (11:30am, 2:20pm, 5:10pm, 8:00pm, 10:50pm), Sun 8/13 (11:15am, 2:20pm, 5:10pm, 8:00pm, 10:20pm), Mon 8/14 (11:30am, 2:20pm, 5:10pm, 8:00pm, 9:50pm), Tue 8/15 (11:15am, 2:00pm, 4:50pm, 7:45pm), Wed 8/16 (11:20am, 2:05pm, 4:55pm, 7:45pm)
+
+    * [Teenage Mutant Ninja Turtles Mutant Mayhem](https://drafthouse.com/los-angeles/show/teenage-mutant-ninja-turtles-mutant-mayhem): Thu 8/10 (3:00pm, 6:45pm, 10:20pm), Fri 8/11 (10:30pm), Sat 8/12 (10:30pm), Sun 8/13 (10:30pm), Mon 8/14 (10:30pm), Tue 8/15 (10:30pm), Wed 8/16 (10:20pm)
+
+    * [The Last Voyage Of The Demeter](https://drafthouse.com/los-angeles/show/the-last-voyage-of-the-demeter): Thu 8/10 (5:30pm, 8:45pm)
+
+    * [Theater Camp](https://drafthouse.com/los-angeles/show/theater-camp): Thu 8/10 (2:40pm, 8:15pm), Fri 8/11 (2:40pm, 8:15pm), Sat 8/12 (2:40pm, 8:15pm), Sun 8/13 (2:40pm, 8:15pm), Mon 8/14 (11:25am, 5:40pm), Tue 8/15 (10:45am, 8:00pm), Wed 8/16 (2:35pm, 8:00pm)
+
+    * [Valley Girl](https://drafthouse.com/los-angeles/show/valley-girl): Sat 8/12 (3:30pm), Sun 8/13 (7:30pm), Mon 8/14 (4:40pm), Tue 8/15 (12:20pm)
+
 ### Mon 8/7 7:29pm
 
 * New screenings: 
