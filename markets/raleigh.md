@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Thu 8/10 3:14pm
+* New movies: Ingrid Goes West + The Talented Mr. Ripley Double Feature
+
+
+
 ### Thu 8/10 2:22pm
 * New movies: BABE: PIG IN THE CITY + AFTER HOURS DOUBLE FEATURE, INGRID GOES WEST + THE TALENTED MR. RIPLEY DOUBLE FEATURE
 
