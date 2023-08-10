@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Thu 8/10 2:22pm
+* New movies: BABE: PIG IN THE CITY + AFTER HOURS DOUBLE FEATURE, INGRID GOES WEST + THE TALENTED MR. RIPLEY DOUBLE FEATURE
+
+* New screenings: 
+    * [Babe Pig In The City After Hours Double Feature](https://drafthouse.com/raleigh/show/babe-pig-in-the-city-after-hours-double-feature): Sat 9/16 (1:30pm)
+
+    * [Ingrid Goes West The Talented Mr. Ripley Double Feature](https://drafthouse.com/raleigh/show/ingrid-goes-west-the-talented-mr.-ripley-double-feature): Sat 9/2 (11:45am)
+
 ### Thu 8/10 11:20am
 * New movies: Road House
 
