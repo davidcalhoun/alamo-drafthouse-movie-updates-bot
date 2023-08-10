@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 8/10 12:11pm
+* New movies: Babe: Pig in the City + After Hours Double Feature
+
+* New screenings: 
+    * [Babe Pig In The City After Hours Double Feature](https://drafthouse.com/los-angeles/show/babe-pig-in-the-city-after-hours-double-feature): Sat 9/16 (2:15pm)
+
 ### Tue 8/8 1:16pm
 * New movies: Pee-wee's Big Adventure
 
