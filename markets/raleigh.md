@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 8/10 11:20am
+* New movies: Road House
+
+* New screenings: 
+    * [Road House](https://drafthouse.com/raleigh/show/road-house): Mon 9/11 (9:45pm)
+
 ### Tue 8/8 5:15pm
 * New movies: Jurassic Park in 3D
 
