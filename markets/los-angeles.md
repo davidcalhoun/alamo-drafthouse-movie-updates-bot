@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 8/11 12:11pm
+* New movies: The Adults
+
+* New screenings: 
+    * [The Adults](https://drafthouse.com/los-angeles/show/the-adults): Fri 8/18 (11:45am), Sat 8/19 (11:45am), Mon 8/21 (3:00pm), Wed 8/23 (3:45pm), Thu 8/24 (3:15pm)
+
 ### Thu 8/10 6:49pm
 
 * New screenings: 
