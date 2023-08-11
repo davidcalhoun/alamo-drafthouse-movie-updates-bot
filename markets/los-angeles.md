@@ -1,6 +1,15 @@
 # los-angeles
 
 ## Movie updates
+### Thu 8/10 6:49pm
+
+* New screenings: 
+    * [Champagne Cinema Pride Prejudice](https://drafthouse.com/los-angeles/show/champagne-cinema-pride-prejudice): Sun 9/10 (4:40pm)
+
+    * [Harry Potter And The Prisoner Of Azkaban](https://drafthouse.com/los-angeles/show/harry-potter-and-the-prisoner-of-azkaban): Sun 8/20 (6:00pm)
+
+    * [Oldboy 2003](https://drafthouse.com/los-angeles/show/oldboy-2003): Fri 8/18 (2:30pm), Sat 8/19 (2:30pm), Sun 8/20 (1:00pm, 9:40pm), Mon 8/21 (11:30am, 8:45pm), Tue 8/22 (3:00pm, 6:30pm), Wed 8/23 (10:00pm)
+
 ### Thu 8/10 12:11pm
 * New movies: Babe: Pig in the City + After Hours Double Feature
 
