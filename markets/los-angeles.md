@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 8/11 2:12pm
+
+* New screenings: 
+    * [Live Q A The Adults](https://drafthouse.com/los-angeles/show/live-q-a-the-adults): Sun 8/20 (1:00pm)
+
 ### Fri 8/11 12:11pm
 * New movies: The Adults
 
