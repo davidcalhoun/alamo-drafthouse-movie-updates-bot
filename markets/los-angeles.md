@@ -1,6 +1,40 @@
 # los-angeles
 
 ## Movie updates
+### Mon 8/14 1:15pm
+* New movies: Blue Beetle, Landscape with Invisible Hand, Barbie, Teenage Mutant Ninja Turtles: Mutant Mayhem, Blue Beetle
+
+* New screenings: 
+    * [Barbie](https://drafthouse.com/los-angeles/show/barbie): Thu 8/17 (2:30pm, 3:20pm, 6:40pm, 9:50pm), Fri 8/18 (11:00am, 12:35pm, 2:10pm, 3:45pm, 7:00pm, 9:40pm), Sat 8/19 (12:35pm, 2:10pm, 3:45pm, 7:00pm, 9:40pm, 10:30pm), Sun 8/20 (12:35pm, 2:10pm, 3:45pm, 7:00pm, 9:35pm), Mon 8/21 (11:00am, 12:35pm, 2:10pm, 3:45pm, 7:00pm, 9:40pm), Tue 8/22 (11:10am, 12:35pm, 3:45pm, 7:00pm, 10:15pm), Wed 8/23 (2:45pm, 6:00pm, 10:35pm)
+
+    * [Blue Beetle](https://drafthouse.com/los-angeles/show/blue-beetle): Thu 8/17 (2:00pm, 5:30pm, 9:00pm), Fri 8/18 (12:10pm, 3:40pm, 7:15pm, 10:35pm), Sat 8/19 (12:10pm, 3:35pm, 7:15pm, 10:35pm), Sun 8/20 (3:35pm, 7:15pm, 10:10pm), Mon 8/21 (12:10pm, 3:40pm, 7:15pm, 10:10pm), Tue 8/22 (12:10pm, 3:40pm, 7:10pm, 10:10pm), Wed 8/23 (3:45pm, 7:15pm, 9:10pm)
+
+    * [Brunch Screenings Barbie Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-barbie-brunch): Sat 8/19 (11:00am), Sun 8/20 (11:00am)
+
+    * [Brunch Screenings Blue Beetle Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-blue-beetle-brunch): Sun 8/20 (12:10pm)
+
+    * [Brunch Screenings Teenage Mutant Ninja Turtles Mutant Mayhem Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-teenage-mutant-ninja-turtles-mutant-mayhem-brunch): Sat 8/19 (11:35am)
+
+    * [Harry Potter And The Prisoner Of Azkaban](https://drafthouse.com/los-angeles/show/harry-potter-and-the-prisoner-of-azkaban): Fri 8/18 (4:20pm)
+
+    * [Landscape With Invisible Hand](https://drafthouse.com/los-angeles/show/landscape-with-invisible-hand): Thu 8/17 (7:15pm, 10:15pm), Fri 8/18 (12:00pm, 3:10pm, 6:15pm, 9:50pm), Sat 8/19 (12:00pm, 3:10pm, 6:15pm, 9:50pm), Sun 8/20 (12:00pm, 3:00pm, 6:15pm, 9:50pm), Mon 8/21 (12:00pm, 3:10pm, 6:15pm, 9:50pm), Tue 8/22 (12:00pm, 3:10pm, 6:10pm, 9:45pm), Wed 8/23 (3:15pm, 6:15pm, 9:45pm)
+
+    * [Oldboy 2003](https://drafthouse.com/los-angeles/show/oldboy-2003): Thu 8/17 (3:45pm, 6:00pm, 9:35pm, 10:00pm), Fri 8/18 (8:00pm, 10:10pm), Sat 8/19 (4:20pm, 10:10pm), Sun 8/20 (8:00pm), Mon 8/21 (6:00pm, 9:30pm), Tue 8/22 (4:35pm, 9:20pm), Wed 8/23 (3:00pm)
+
+    * [Oppenheimer](https://drafthouse.com/los-angeles/show/oppenheimer): Thu 8/17 (2:10pm, 5:45pm, 6:15pm, 9:30pm), Fri 8/18 (11:10am, 2:35pm, 5:20pm, 6:30pm, 9:15pm), Sat 8/19 (11:10am, 2:35pm, 5:20pm, 6:30pm, 9:15pm), Sun 8/20 (11:10am, 2:35pm, 5:20pm, 6:30pm, 9:15pm), Mon 8/21 (11:10am, 2:35pm, 5:20pm, 6:30pm, 9:15pm), Tue 8/22 (11:00am, 2:30pm, 6:20pm, 8:45pm), Wed 8/23 (2:15pm, 2:30pm, 8:00pm, 9:20pm)
+
+    * [Passages](https://drafthouse.com/los-angeles/show/passages): Thu 8/17 (2:15pm, 7:15pm), Fri 8/18 (12:25pm, 7:15pm), Sat 8/19 (12:25pm, 7:15pm), Sun 8/20 (12:25pm, 7:15pm), Mon 8/21 (12:25pm, 7:15pm), Tue 8/22 (12:25pm, 7:20pm), Wed 8/23 (7:15pm)
+
+    * [Talk To Me](https://drafthouse.com/los-angeles/show/talk-to-me): Thu 8/17 (2:30pm, 5:15pm, 8:00pm, 10:45pm), Fri 8/18 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sat 8/19 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:50pm), Sun 8/20 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Mon 8/21 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Tue 8/22 (11:00am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Wed 8/23 (2:15pm, 5:00pm, 7:45pm, 10:30pm)
+
+    * [Teenage Mutant Ninja Turtles Mutant Mayhem](https://drafthouse.com/los-angeles/show/teenage-mutant-ninja-turtles-mutant-mayhem): Thu 8/17 (3:10pm, 6:30pm, 10:35pm), Fri 8/18 (11:30am, 3:25pm, 6:50pm, 10:45pm), Sat 8/19 (3:25pm, 6:50pm, 10:45pm), Sun 8/20 (11:35am, 3:25pm, 6:50pm, 10:35pm), Mon 8/21 (11:35am, 3:30pm, 6:50pm, 10:35pm), Tue 8/22 (11:30am, 3:15pm, 6:45pm, 10:00pm), Wed 8/23 (2:00pm, 5:00pm, 6:45pm, 10:35pm)
+
+    * [The Adults](https://drafthouse.com/los-angeles/show/the-adults): Tue 8/22 (1:50pm), Wed 8/23 (1:45pm)
+
+    * [The Last Voyage Of The Demeter](https://drafthouse.com/los-angeles/show/the-last-voyage-of-the-demeter): Thu 8/17 (4:00pm, 6:00pm, 9:15pm), Fri 8/18 (12:45pm, 4:00pm, 6:00pm, 9:15pm), Sat 8/19 (12:45pm, 4:00pm, 6:00pm, 9:15pm), Sun 8/20 (12:45pm, 4:00pm, 6:00pm, 9:15pm), Mon 8/21 (12:45pm, 4:00pm, 6:00pm, 9:15pm), Tue 8/22 (12:45pm, 4:00pm, 6:00pm, 9:15pm), Wed 8/23 (4:00pm, 6:00pm, 9:15pm)
+
+    * [Theater Camp](https://drafthouse.com/los-angeles/show/theater-camp): Thu 8/17 (3:15pm, 10:00pm), Fri 8/18 (3:15pm, 10:00pm), Sat 8/19 (3:15pm, 10:00pm), Sun 8/20 (3:15pm, 10:00pm), Mon 8/21 (3:15pm, 10:00pm), Tue 8/22 (3:15pm, 10:00pm), Wed 8/23 (3:15pm, 10:00pm)
+
 ### Mon 8/14 10:13am
 
 * New screenings: 
