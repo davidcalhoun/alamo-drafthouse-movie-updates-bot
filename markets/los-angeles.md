@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 8/14 10:13am
+
+* New screenings: 
+    * [Bottoms](https://drafthouse.com/los-angeles/show/bottoms): Thu 8/24 (6:00pm, 8:45pm)
+
 ### Fri 8/11 2:12pm
 
 * New screenings: 
