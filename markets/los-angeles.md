@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 8/15 5:27am
+* New movies: Jawan
+
+* New screenings: 
+    * [Jawan](https://drafthouse.com/los-angeles/show/jawan): Thu 9/7 (6:00pm), Fri 9/8 (7:45pm), Sat 9/9 (7:45pm), Sun 9/10 (7:45pm)
+
 ### Mon 8/14 1:15pm
 * New movies: Blue Beetle, Landscape with Invisible Hand, Barbie, Teenage Mutant Ninja Turtles: Mutant Mayhem, Blue Beetle
 
