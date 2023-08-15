@@ -1,6 +1,40 @@
 # raleigh
 
 ## Movie updates
+### Tue 8/15 1:16pm
+* New movies: Landscape with Invisible Hand, Back on the Strip
+
+* New screenings: 
+    * [Back On The Strip](https://drafthouse.com/raleigh/show/back-on-the-strip): Thu 8/17 (7:00pm), Fri 8/18 (1:10pm), Sat 8/19 (2:15pm), Sun 8/20 (5:50pm), Mon 8/21 (4:35pm), Tue 8/22 (3:15pm), Wed 8/23 (6:10pm)
+
+    * [Barbie](https://drafthouse.com/raleigh/show/barbie): Thu 8/17 (11:15am, 12:00pm, 12:40pm), Fri 8/18 (10:10am, 11:00am, 1:15pm, 3:15pm, 6:10pm, 7:05pm, 10:00pm), Sat 8/19 (11:15am, 2:25pm, 3:05pm, 6:05pm, 9:10pm), Sun 8/20 (10:00am, 1:00pm, 4:00pm, 7:00pm, 10:00pm), Mon 8/21 (11:50am, 2:55pm, 6:00pm, 9:30pm), Tue 8/22 (11:55am, 3:00pm, 6:00pm, 9:00pm), Wed 8/23 (12:30pm, 4:00pm, 7:00pm, 10:15pm)
+
+    * [Blue Beetle](https://drafthouse.com/raleigh/show/blue-beetle): Thu 8/17 (6:50pm), Sat 8/19 (5:40pm, 7:35pm), Sun 8/20 (4:55pm, 8:05pm), Mon 8/21 (11:15am, 2:00pm, 2:35pm, 5:45pm, 7:45pm, 9:05pm), Tue 8/22 (1:00pm, 4:30pm, 6:10pm, 9:20pm), Wed 8/23 (11:30am, 2:45pm, 6:05pm, 9:30pm)
+
+    * [Haunted Mansion 2023](https://drafthouse.com/raleigh/show/haunted-mansion-2023): Thu 8/17 (3:40pm), Fri 8/18 (11:10am), Sat 8/19 (11:50am), Sun 8/20 (11:00am), Mon 8/21 (11:15am), Tue 8/22 (12:10pm), Wed 8/23 (11:00am)
+
+    * [Landscape With Invisible Hand](https://drafthouse.com/raleigh/show/landscape-with-invisible-hand): Thu 8/17 (7:00pm, 9:50pm), Fri 8/18 (10:45am, 11:25am, 2:15pm, 5:10pm, 8:00pm, 11:20pm), Sat 8/19 (10:20am, 2:25pm, 5:20pm, 8:10pm, 11:10pm), Sun 8/20 (10:45am, 1:00pm, 3:50pm, 6:40pm, 9:30pm), Mon 8/21 (12:00pm, 3:10pm, 6:25pm, 9:35pm), Tue 8/22 (12:15pm, 4:05pm, 7:10pm, 10:05pm), Wed 8/23 (1:00pm, 4:05pm, 7:00pm, 10:00pm)
+
+    * [Meg 2 The Trench](https://drafthouse.com/raleigh/show/meg-2-the-trench): Thu 8/17 (10:10pm), Fri 8/18 (9:45pm), Sat 8/19 (10:55pm), Sun 8/20 (9:25pm), Mon 8/21 (9:20pm), Tue 8/22 (11:00am), Wed 8/23 (10:10pm)
+
+    * [Metallica M72 World Tour Live From Arlington Tx Night 1](https://drafthouse.com/raleigh/show/metallica-m72-world-tour-live-from-arlington-tx-night-1): Sat 8/19 (9:05pm)
+
+    * [Mission Impossible Dead Reckoning Pt 1](https://drafthouse.com/raleigh/show/mission-impossible-dead-reckoning-pt-1): Thu 8/17 (1:10pm), Fri 8/18 (2:15pm), Sat 8/19 (10:25am), Sun 8/20 (2:00pm), Mon 8/21 (1:00pm), Tue 8/22 (3:10pm), Wed 8/23 (2:10pm)
+
+    * [Oldboy 2003](https://drafthouse.com/raleigh/show/oldboy-2003): Thu 8/17 (10:15pm), Fri 8/18 (4:55pm, 8:10pm, 10:30pm), Sat 8/19 (1:25pm, 4:35pm, 10:30pm), Sun 8/20 (11:30am), Mon 8/21 (3:00pm), Tue 8/22 (2:30pm), Wed 8/23 (6:30pm, 10:00pm)
+
+    * [Oppenheimer](https://drafthouse.com/raleigh/show/oppenheimer): Thu 8/17 (11:45am, 2:45pm, 2:55pm, 6:00pm, 9:40pm), Fri 8/18 (10:50am, 1:55pm, 6:10pm, 9:10pm), Sat 8/19 (12:20pm, 4:55pm, 6:55pm, 9:35pm), Sun 8/20 (12:00pm, 1:50pm, 6:00pm, 9:00pm), Mon 8/21 (11:00am, 3:25pm, 7:35pm, 9:00pm), Tue 8/22 (11:50am, 1:55pm, 5:05pm, 9:10pm), Wed 8/23 (11:30am, 1:50pm, 6:00pm, 9:20pm)
+
+    * [Strays](https://drafthouse.com/raleigh/show/strays): Fri 8/18 (10:10pm), Sat 8/19 (10:35am, 10:50pm), Sun 8/20 (4:20pm, 7:15pm, 10:05pm), Mon 8/21 (12:15pm, 3:15pm, 6:15pm, 9:00pm), Tue 8/22 (12:30pm, 3:30pm, 6:30pm, 9:45pm), Wed 8/23 (1:15pm, 4:10pm, 7:00pm, 9:45pm)
+
+    * [Talk To Me](https://drafthouse.com/raleigh/show/talk-to-me): Thu 8/17 (12:50pm, 3:15pm, 6:45pm, 10:05pm), Fri 8/18 (10:40am, 1:55pm, 3:30pm, 4:20pm, 7:00pm, 11:25pm), Sat 8/19 (10:50am, 1:30pm, 4:05pm, 4:50pm, 7:50pm, 10:30pm), Sun 8/20 (10:25am, 1:10pm, 3:55pm, 6:45pm, 10:00pm), Mon 8/21 (12:25pm, 3:25pm, 6:40pm, 10:55pm), Tue 8/22 (11:50am, 2:30pm, 6:25pm, 9:05pm), Wed 8/23 (1:10pm, 4:00pm, 6:45pm, 9:30pm)
+
+    * [Teenage Mutant Ninja Turtles Mutant Mayhem](https://drafthouse.com/raleigh/show/teenage-mutant-ninja-turtles-mutant-mayhem): Thu 8/17 (11:30am, 2:20pm, 5:10pm, 8:00pm, 10:45pm), Fri 8/18 (10:00am, 12:45pm, 4:15pm, 6:15pm, 9:30pm), Sat 8/19 (11:40am, 1:50pm, 5:20pm, 8:05pm, 10:50pm), Sun 8/20 (10:30am, 12:15pm, 3:10pm, 6:05pm, 9:00pm), Mon 8/21 (11:30am, 3:00pm, 6:15pm, 9:20pm), Tue 8/22 (11:00am, 2:00pm, 4:55pm, 7:50pm, 10:40pm), Wed 8/23 (11:00am, 12:30pm, 3:20pm, 6:05pm, 9:00pm)
+
+    * [The Last Voyage Of The Demeter](https://drafthouse.com/raleigh/show/the-last-voyage-of-the-demeter): Thu 8/17 (12:15pm, 3:30pm, 6:30pm, 9:20pm), Fri 8/18 (10:50am, 1:35pm, 4:35pm, 7:35pm, 10:35pm), Sat 8/19 (10:50am, 1:10pm, 4:35pm, 8:05pm, 11:05pm), Sun 8/20 (10:00am, 1:30pm, 4:35pm, 7:35pm, 10:35pm), Mon 8/21 (11:45am, 2:30pm, 5:45pm, 6:50pm, 10:10pm), Tue 8/22 (12:40pm, 3:40pm, 6:40pm, 9:40pm), Wed 8/23 (11:35am, 3:00pm, 3:35pm, 7:15pm, 10:25pm)
+
+    * [Theater Camp](https://drafthouse.com/raleigh/show/theater-camp): Thu 8/17 (4:00pm)
+
 ### Tue 8/15 12:23pm
 * New movies: Brazil: Director's Cut + Triangle of Sadness Double Feature, Get Out + Society Double Feature, The Mummy Returns, CatVideoFest 2023
 
