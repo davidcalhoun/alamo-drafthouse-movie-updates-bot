@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 8/15 1:15pm
+* New movies: Cade – The Tortured Crossing, Ingrid Goes West + The Talented Mr. Ripley Double Feature
+
+* New screenings: 
+    * [Cade The Tortured Crossing](https://drafthouse.com/los-angeles/show/cade-the-tortured-crossing): Fri 9/1 (6:30pm, 9:20pm), Sat 9/2 (6:30pm, 9:20pm), Sun 9/3 (6:45pm)
+
+    * [Ingrid Goes West The Talented Mr Ripley Double Feature](https://drafthouse.com/los-angeles/show/ingrid-goes-west-the-talented-mr-ripley-double-feature): Sat 9/2 (11:30am)
+
 ### Tue 8/15 12:11pm
 
 * New screenings: 
