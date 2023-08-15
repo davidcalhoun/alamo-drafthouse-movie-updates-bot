@@ -1,6 +1,20 @@
 # raleigh
 
 ## Movie updates
+### Tue 8/15 12:23pm
+* New movies: Brazil: Director's Cut + Triangle of Sadness Double Feature, Get Out + Society Double Feature, The Mummy Returns, CatVideoFest 2023
+
+* New screenings: 
+    * [2001 A Space Odyssey](https://drafthouse.com/raleigh/show/2001-a-space-odyssey): Sat 9/2 (5:00pm), Mon 9/4 (2:45pm)
+
+    * [Brazil Directors Cut Triangle Of Sadness Double Feature](https://drafthouse.com/raleigh/show/brazil-directors-cut-triangle-of-sadness-double-feature): Sat 9/30 (11:00am)
+
+    * [Catvideofest 2023](https://drafthouse.com/raleigh/show/catvideofest-2023): Fri 9/8 (3:00pm)
+
+    * [Get Out Society Double Feature](https://drafthouse.com/raleigh/show/get-out-society-double-feature): Sat 10/14 (11:00am)
+
+    * [The Mummy Returns](https://drafthouse.com/raleigh/show/the-mummy-returns): Sun 10/1 (3:00pm)
+
 ### Thu 8/10 3:14pm
 * New movies: Ingrid Goes West + The Talented Mr. Ripley Double Feature
 
