@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 8/15 12:11pm
+
+* New screenings: 
+    * [Bottoms](https://drafthouse.com/los-angeles/show/bottoms): Fri 8/25 (1:15pm, 4:00pm, 6:45pm, 9:30pm), Sat 8/26 (1:15pm, 4:00pm, 6:45pm)
+
 ### Tue 8/15 5:27am
 * New movies: Jawan
 
