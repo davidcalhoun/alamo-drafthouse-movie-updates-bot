@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 8/15 3:13pm
+* New movies: Jawan
+
+* New screenings: 
+    * [Jawan](https://drafthouse.com/raleigh/show/jawan): Thu 9/7 (8:00pm), Fri 9/8 (8:00pm), Sat 9/9 (8:00pm), Sun 9/10 (8:00pm)
+
 ### Tue 8/15 1:16pm
 * New movies: Landscape with Invisible Hand, Back on the Strip
 
