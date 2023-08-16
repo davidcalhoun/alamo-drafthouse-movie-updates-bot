@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 8/16 2:22pm
+* New movies: The Equalizer 3
+
+* New screenings: 
+    * [The Equalizer 3](https://drafthouse.com/raleigh/show/the-equalizer-3): Thu 8/31 (7:30pm), Fri 9/1 (6:30pm), Sat 9/2 (6:30pm), Sun 9/3 (7:00pm)
+
 ### Tue 8/15 3:13pm
 * New movies: Jawan
 
