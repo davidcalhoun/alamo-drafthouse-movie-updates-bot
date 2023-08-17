@@ -1,6 +1,20 @@
 # los-angeles
 
 ## Movie updates
+### Wed 8/16 8:14pm
+* New movies: Trois De Dupieux, Brazil: Director's Cut + Triangle of Sadness Double Feature, Get Out + Society Double Feature, Chicken Run, The Iron Giant
+
+* New screenings: 
+    * [Brazil Directors Cut Triangle Of Sadness Double Feature](https://drafthouse.com/los-angeles/show/brazil-directors-cut-triangle-of-sadness-double-feature): Sat 9/30 (11:00am)
+
+    * [Get Out Society Double Feature](https://drafthouse.com/los-angeles/show/get-out-society-double-feature): Sat 10/14 (11:00am)
+
+    * [Kids Camp Chicken Run](https://drafthouse.com/los-angeles/show/kids-camp-chicken-run): Tue 8/29 (11:15am)
+
+    * [Kids Camp The Iron Giant](https://drafthouse.com/los-angeles/show/kids-camp-the-iron-giant): Wed 8/30 (11:10am)
+
+    * [Trois De Dupieux](https://drafthouse.com/los-angeles/show/trois-de-dupieux): Sun 9/17 (11:00am)
+
 ### Tue 8/15 1:15pm
 * New movies: Cade – The Tortured Crossing, Ingrid Goes West + The Talented Mr. Ripley Double Feature
 
