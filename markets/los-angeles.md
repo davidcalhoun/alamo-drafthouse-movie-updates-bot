@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Sat 8/19 3:14am
+* New movies: The Equalizer 3
+
+* New screenings: 
+    * [The Equalizer 3](https://drafthouse.com/los-angeles/show/the-equalizer-3): Thu 8/31 (3:00pm, 6:00pm, 9:00pm), Fri 9/1 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sat 9/2 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sun 9/3 (12:15pm, 3:15pm, 6:15pm), Mon 9/4 (3:15pm, 6:15pm, 9:15pm), Tue 9/5 (3:15pm, 6:15pm, 9:15pm), Wed 9/6 (3:15pm, 6:15pm, 9:15pm), Thu 9/7 (3:15pm, 6:15pm, 9:15pm), Fri 9/8 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sat 9/9 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sun 9/10 (12:15pm, 3:15pm, 6:15pm), Mon 9/11 (3:15pm, 6:15pm, 9:15pm), Tue 9/12 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Wed 9/13 (3:15pm, 6:15pm, 9:15pm)
+
 ### Sat 8/19 12:12am
 * New movies: Mean Girls, Heathers
 
