@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Sat 8/19 12:12am
+* New movies: Mean Girls, Heathers
+
+* New screenings: 
+    * [Heathers](https://drafthouse.com/los-angeles/show/heathers): Wed 9/13 (7:30pm)
+
+    * [Mean Girls Movie Party](https://drafthouse.com/los-angeles/show/mean-girls-movie-party): Tue 10/3 (7:00pm)
+
 ### Wed 8/16 8:14pm
 * New movies: Trois De Dupieux, Brazil: Director's Cut + Triangle of Sadness Double Feature, Get Out + Society Double Feature, Chicken Run, The Iron Giant
 
