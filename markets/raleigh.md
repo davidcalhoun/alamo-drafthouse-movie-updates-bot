@@ -1,6 +1,48 @@
 # raleigh
 
 ## Movie updates
+### Mon 8/21 6:17pm
+* New movies: Harry Potter and the Goblet of Fire, D.E.B.S., Asteroid City, The Super Mario Bros. Movie
+
+* New screenings: 
+    * [Asteroid City](https://drafthouse.com/raleigh/show/asteroid-city): Thu 8/24 (6:50pm), Fri 8/25 (6:15pm), Sat 8/26 (6:15pm), Sun 8/27 (7:30pm), Mon 8/28 (6:00pm), Tue 8/29 (7:45pm), Wed 8/30 (6:30pm)
+
+    * [Back On The Strip](https://drafthouse.com/raleigh/show/back-on-the-strip): Thu 8/24 (7:50pm)
+
+    * [Barbie](https://drafthouse.com/raleigh/show/barbie): Thu 8/24 (11:45am, 2:30pm, 3:15pm, 6:30pm, 9:35pm), Fri 8/25 (12:00pm, 2:30pm, 3:30pm, 4:40pm, 7:00pm, 10:00pm), Sat 8/26 (11:15am, 2:00pm, 5:00pm, 8:00pm, 9:10pm, 11:15pm), Sun 8/27 (11:15am, 2:15pm, 5:15pm, 7:00pm, 10:15pm), Mon 8/28 (11:30am, 1:00pm, 2:45pm, 6:15pm, 9:00pm), Tue 8/29 (11:15am, 2:30pm, 4:20pm, 6:00pm, 9:50pm), Wed 8/30 (12:00pm, 3:10pm, 3:55pm, 4:05pm, 6:00pm, 9:00pm)
+
+    * [Blue Beetle](https://drafthouse.com/raleigh/show/blue-beetle): Thu 8/24 (12:00pm, 3:15pm, 7:15pm, 9:00pm), Fri 8/25 (12:45pm, 4:15pm, 7:30pm, 10:55pm), Sat 8/26 (12:15pm, 4:15pm, 7:30pm, 9:30pm, 10:50pm), Sun 8/27 (10:55am, 2:55pm, 4:15pm, 6:30pm, 10:00pm), Mon 8/28 (12:30pm, 3:45pm, 7:30pm, 9:45pm), Tue 8/29 (12:15pm, 1:45pm, 3:30pm, 6:30pm, 9:45pm), Wed 8/30 (1:00pm, 4:15pm, 7:30pm, 10:45pm)
+
+    * [Brunch Screenings D E B S Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-d-e-b-s-brunch): Sun 8/27 (12:30pm)
+
+    * [Gran Turismo](https://drafthouse.com/raleigh/show/gran-turismo): Thu 8/24 (2:00pm, 5:30pm, 6:45pm, 10:15pm), Fri 8/25 (11:00am, 2:30pm, 6:00pm, 9:20pm), Sat 8/26 (12:00pm, 3:30pm, 4:45pm, 7:00pm, 10:30pm), Sun 8/27 (11:00am, 12:45pm, 2:30pm, 6:00pm, 9:30pm), Mon 8/28 (12:00pm, 3:20pm, 6:45pm, 10:15pm), Tue 8/29 (12:00pm, 3:20pm, 5:15pm, 7:00pm, 10:20pm), Wed 8/30 (11:00am, 2:30pm, 6:10pm, 9:15pm)
+
+    * [Harry Potter And The Goblet Of Fire](https://drafthouse.com/raleigh/show/harry-potter-and-the-goblet-of-fire): Fri 8/25 (12:00pm), Sat 8/26 (12:45pm), Sun 8/27 (3:15pm), Mon 8/28 (2:00pm), Tue 8/29 (12:35pm), Wed 8/30 (11:45am)
+
+    * [Haunted Mansion 2023](https://drafthouse.com/raleigh/show/haunted-mansion-2023): Thu 8/24 (12:00pm)
+
+    * [Jurassic Park In 3d](https://drafthouse.com/raleigh/show/jurassic-park-in-3d): Sun 8/27 (3:00pm, 6:45pm), Mon 8/28 (4:00pm, 7:15pm), Tue 8/29 (4:15pm, 7:35pm), Wed 8/30 (3:45pm, 7:15pm)
+
+    * [Landscape With Invisible Hand](https://drafthouse.com/raleigh/show/landscape-with-invisible-hand): Thu 8/24 (11:30am), Sat 8/26 (2:55pm), Mon 8/28 (3:10pm), Wed 8/30 (12:30pm)
+
+    * [Meg 2 The Trench](https://drafthouse.com/raleigh/show/meg-2-the-trench): Thu 8/24 (10:30pm)
+
+    * [Mission Impossible Dead Reckoning Pt 1](https://drafthouse.com/raleigh/show/mission-impossible-dead-reckoning-pt-1): Sun 8/27 (9:00pm)
+
+    * [Oldboy 2003](https://drafthouse.com/raleigh/show/oldboy-2003): Thu 8/24 (11:45am, 6:00pm, 10:30pm), Fri 8/25 (11:05am, 2:00pm, 5:30pm, 7:30pm, 9:45pm, 10:30pm), Sat 8/26 (4:15pm, 6:00pm), Sun 8/27 (6:15pm, 10:15pm), Mon 8/28 (11:15am, 3:00pm, 6:00pm, 7:00pm), Tue 8/29 (11:10am, 6:15pm, 7:20pm), Wed 8/30 (11:20am, 2:40pm, 6:15pm, 9:40pm)
+
+    * [Oppenheimer](https://drafthouse.com/raleigh/show/oppenheimer): Thu 8/24 (12:30pm, 2:45pm, 6:00pm, 9:20pm), Fri 8/25 (11:15am, 3:30pm, 7:45pm, 9:15pm), Sat 8/26 (11:05am, 12:00pm, 3:30pm, 7:40pm, 10:15pm), Sun 8/27 (10:45am, 1:30pm, 3:15pm, 7:20pm, 9:30pm), Mon 8/28 (11:30am, 3:30pm, 7:30pm, 9:15pm), Tue 8/29 (11:30am, 2:30pm, 3:30pm, 7:30pm, 9:30pm), Wed 8/30 (12:30pm, 4:30pm, 8:30pm, 9:30pm)
+
+    * [Strays](https://drafthouse.com/raleigh/show/strays): Thu 8/24 (11:15am, 3:00pm, 6:15pm, 10:00pm), Fri 8/25 (11:30am, 2:45pm, 6:20pm, 9:00pm), Sat 8/26 (11:30am, 2:15pm, 5:00pm, 7:45pm, 11:00pm), Sun 8/27 (11:30am, 2:45pm, 5:30pm, 8:15pm, 11:00pm), Mon 8/28 (12:30pm, 3:40pm, 7:15pm, 10:30pm), Tue 8/29 (12:15pm, 3:00pm, 5:45pm, 8:25pm, 11:05pm), Wed 8/30 (11:30am, 3:00pm, 6:45pm, 10:00pm)
+
+    * [Talk To Me](https://drafthouse.com/raleigh/show/talk-to-me): Thu 8/24 (11:00pm), Fri 8/25 (8:00pm, 11:00pm), Sat 8/26 (7:30pm, 10:45pm), Sun 8/27 (7:30pm, 10:00pm), Mon 8/28 (6:30pm, 10:30pm, 11:00pm), Tue 8/29 (8:55pm, 11:00pm), Wed 8/30 (7:05pm, 10:30pm)
+
+    * [Teenage Mutant Ninja Turtles Mutant Mayhem](https://drafthouse.com/raleigh/show/teenage-mutant-ninja-turtles-mutant-mayhem): Thu 8/24 (12:15pm, 3:15pm, 6:20pm, 9:45pm), Fri 8/25 (12:15pm, 3:45pm, 6:45pm, 10:45pm), Sat 8/26 (11:45am, 3:15pm, 6:30pm, 8:10pm, 11:00pm), Sun 8/27 (11:30am, 2:20pm, 5:10pm, 8:00pm, 10:30pm), Mon 8/28 (12:15pm, 4:10pm, 6:30pm, 10:20pm), Tue 8/29 (11:00am, 1:55pm, 4:50pm, 7:00pm, 10:45pm), Wed 8/30 (12:15pm, 3:30pm, 7:00pm, 10:15pm)
+
+    * [The Last Voyage Of The Demeter](https://drafthouse.com/raleigh/show/the-last-voyage-of-the-demeter): Thu 8/24 (10:05pm), Fri 8/25 (9:15pm), Sat 8/26 (9:45pm), Sun 8/27 (10:50pm), Mon 8/28 (9:15pm), Tue 8/29 (10:40pm), Wed 8/30 (9:45pm)
+
+    * [The Super Mario Bros Movie](https://drafthouse.com/raleigh/show/the-super-mario-bros-movie): Thu 8/24 (1:15pm), Fri 8/25 (1:00pm), Sat 8/26 (12:30pm), Sun 8/27 (12:00pm), Mon 8/28 (1:25pm), Tue 8/29 (1:30pm), Wed 8/30 (12:45pm)
+
 ### Wed 8/16 2:22pm
 * New movies: The Equalizer 3
 
