@@ -1,6 +1,44 @@
 # los-angeles
 
 ## Movie updates
+### Mon 8/21 4:14pm
+* New movies: Mission: Impossible – Dead Reckoning Part One, D.E.B.S.
+
+* New screenings: 
+    * [Barbie](https://drafthouse.com/los-angeles/show/barbie): Thu 8/24 (3:20pm, 7:15pm, 10:25pm), Fri 8/25 (12:15pm, 3:25pm, 6:35pm, 10:15pm), Sat 8/26 (12:15pm, 3:25pm, 6:35pm, 10:15pm), Sun 8/27 (12:15pm, 3:25pm, 6:40pm, 10:20pm), Mon 8/28 (2:45pm, 6:00pm, 10:00pm), Tue 8/29 (12:15pm, 3:25pm, 6:35pm, 10:15pm), Wed 8/30 (12:15pm, 3:25pm, 6:35pm, 10:15pm)
+
+    * [Blue Beetle](https://drafthouse.com/los-angeles/show/blue-beetle): Thu 8/24 (3:40pm, 7:00pm, 10:20pm), Fri 8/25 (11:30am, 2:50pm, 6:15pm, 9:35pm), Sat 8/26 (11:30am, 2:50pm, 6:15pm, 9:35pm), Sun 8/27 (11:30am, 2:50pm, 6:15pm, 9:35pm), Mon 8/28 (3:40pm, 7:00pm, 10:25pm), Tue 8/29 (11:30am, 2:50pm, 6:15pm, 9:35pm), Wed 8/30 (11:30am, 2:50pm, 6:15pm, 9:35pm)
+
+    * [Bottoms](https://drafthouse.com/los-angeles/show/bottoms): Thu 8/24 (9:50pm), Fri 8/25 (10:40am, 2:15pm, 3:00pm, 5:45pm), Sat 8/26 (10:40am, 2:15pm, 3:00pm, 5:45pm, 9:00pm), Sun 8/27 (10:30am, 1:15pm, 1:45pm, 2:15pm, 2:30pm, 3:15pm, 4:00pm, 4:30pm, 5:15pm, 6:00pm, 7:15pm, 8:00pm, 9:00pm, 10:00pm, 10:45pm), Mon 8/28 (2:10pm, 6:30pm, 9:10pm, 10:40pm, 11:00pm), Tue 8/29 (12:30pm, 2:15pm, 3:15pm, 4:00pm, 6:00pm, 6:45pm, 9:30pm, 10:30pm), Wed 8/30 (12:30pm, 2:15pm, 3:15pm, 4:00pm, 6:00pm, 6:45pm, 9:30pm, 10:30pm)
+
+    * [Brunch Screenings Bottoms Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-bottoms-brunch): Sun 8/27 (11:00am, 11:45am)
+
+    * [Brunch Screenings D E B S Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-d-e-b-s-brunch): Sun 8/27 (11:10am)
+
+    * [Gran Turismo](https://drafthouse.com/los-angeles/show/gran-turismo): Thu 8/24 (2:45pm), Sun 8/27 (12:00pm, 3:30pm, 7:00pm, 10:30pm)
+
+    * [Harry Potter And The Goblet Of Fire](https://drafthouse.com/los-angeles/show/harry-potter-and-the-goblet-of-fire): Mon 8/28 (2:30pm)
+
+    * [Landscape With Invisible Hand](https://drafthouse.com/los-angeles/show/landscape-with-invisible-hand): Thu 8/24 (4:30pm), Sat 8/26 (11:15am), Mon 8/28 (3:15pm), Tue 8/29 (11:10am), Wed 8/30 (11:15am)
+
+    * [Mission Impossible Dead Reckoning Pt 1](https://drafthouse.com/los-angeles/show/mission-impossible-dead-reckoning-pt-1): Fri 8/25 (9:45pm), Sat 8/26 (9:45pm), Sun 8/27 (9:50pm), Mon 8/28 (9:30pm), Tue 8/29 (9:45pm), Wed 8/30 (9:45pm)
+
+    * [Oldboy 2003](https://drafthouse.com/los-angeles/show/oldboy-2003): Thu 8/24 (10:25pm), Fri 8/25 (10:45am, 11:35am, 1:25pm, 4:50pm, 8:40pm), Sat 8/26 (2:05pm, 5:30pm, 8:30pm), Sun 8/27 (10:45am, 1:50pm, 5:30pm, 6:50pm, 8:45pm, 10:20pm), Mon 8/28 (2:50pm, 10:10pm), Tue 8/29 (2:00pm, 5:30pm, 8:45pm), Wed 8/30 (1:50pm, 5:30pm, 8:45pm)
+
+    * [Oppenheimer](https://drafthouse.com/los-angeles/show/oppenheimer): Thu 8/24 (3:00pm, 5:45pm, 9:00pm), Fri 8/25 (10:50am, 2:10pm, 6:00pm, 9:25pm), Sat 8/26 (10:45am, 2:10pm, 6:00pm, 9:25pm), Sun 8/27 (10:45am, 2:10pm, 6:00pm, 9:25pm), Mon 8/28 (3:30pm, 5:40pm, 9:20pm), Tue 8/29 (11:45am, 2:10pm, 6:00pm, 9:25pm), Wed 8/30 (11:45am, 2:10pm, 6:00pm, 9:25pm)
+
+    * [Passages](https://drafthouse.com/los-angeles/show/passages): Thu 8/24 (2:20pm)
+
+    * [Strays](https://drafthouse.com/los-angeles/show/strays): Thu 8/24 (2:30pm, 5:15pm, 8:00pm, 10:45pm), Fri 8/25 (10:40am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Sat 8/26 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Sun 8/27 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Mon 8/28 (4:45pm, 7:30pm, 10:15pm), Tue 8/29 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Wed 8/30 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm)
+
+    * [Talk To Me](https://drafthouse.com/los-angeles/show/talk-to-me): Thu 8/24 (7:30pm, 10:15pm), Fri 8/25 (5:00pm, 7:45pm, 10:35pm), Sat 8/26 (5:00pm, 7:45pm, 10:35pm), Sun 8/27 (5:00pm, 7:45pm, 10:30pm), Mon 8/28 (7:45pm, 10:35pm), Tue 8/29 (5:00pm, 7:45pm, 10:30pm), Wed 8/30 (5:00pm, 7:45pm, 10:30pm)
+
+    * [Teenage Mutant Ninja Turtles Mutant Mayhem](https://drafthouse.com/los-angeles/show/teenage-mutant-ninja-turtles-mutant-mayhem): Thu 8/24 (4:00pm, 7:00pm, 10:00pm), Fri 8/25 (11:15am, 3:00pm, 6:25pm), Sat 8/26 (11:10am, 3:00pm, 6:25pm), Sun 8/27 (11:10am, 3:00pm, 6:25pm), Mon 8/28 (2:40pm, 6:15pm), Tue 8/29 (11:10am, 3:00pm, 6:25pm), Wed 8/30 (11:10am, 3:00pm, 6:25pm)
+
+    * [The Last Voyage Of The Demeter](https://drafthouse.com/los-angeles/show/the-last-voyage-of-the-demeter): Thu 8/24 (2:30pm), Fri 8/25 (11:05am), Sat 8/26 (11:35am), Sun 8/27 (12:00pm), Mon 8/28 (3:25pm), Tue 8/29 (11:35am), Wed 8/30 (11:35am)
+
+    * [Theater Camp](https://drafthouse.com/los-angeles/show/theater-camp): Thu 8/24 (3:00pm)
+
 ### Sat 8/19 3:14am
 * New movies: The Equalizer 3
 
