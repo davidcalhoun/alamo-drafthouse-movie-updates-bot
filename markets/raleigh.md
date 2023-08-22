@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Tue 8/22 4:18pm
+* New movies: Cecil B. Demented, BILL & TED'S BOGUS JOURNEY
+
+* New screenings: 
+    * [Weird Wednesday Bill Teds Bogus Journey1](https://drafthouse.com/raleigh/show/weird-wednesday-bill-teds-bogus-journey1): Wed 10/18 (9:30pm)
+
+    * [Weird Wednesday Cecil B Demented](https://drafthouse.com/raleigh/show/weird-wednesday-cecil-b-demented): Wed 9/6 (9:45pm)
+
 ### Tue 8/22 1:17pm
 * New movies: Attack the Block, Carnival of Souls, Drag Me to Hell, Opera, Saw, The Wicker Man: The Final Cut, Double Team, Impulse 1974, Resident Evil: Retribution, The Dark Backward, Tokyo Pop, Castle in the Sky Dubbed, Evangelion: 3.0+1.01 Thrice Upon a Time, Heathers, Killer's Kiss, Scanners, The Mask of Zorro 1998
 
