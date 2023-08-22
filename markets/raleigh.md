@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 8/22 6:17pm
+* New movies: The Little Mermaid 2023, Bill & Ted's Bogus Journey
+
+* New screenings: 
+    * [Sing Along The Little Mermaid 2023](https://drafthouse.com/raleigh/show/sing-along-the-little-mermaid-2023): Thu 8/24 (11:15am, 3:40pm), Fri 8/25 (12:35pm, 4:05pm), Sat 8/26 (11:30am, 2:30pm), Sun 8/27 (12:15pm, 3:45pm), Mon 8/28 (11:10am, 2:30pm), Tue 8/29 (11:15am, 2:45pm), Wed 8/30 (11:15am, 2:45pm)
+
 ### Tue 8/22 4:18pm
 * New movies: Cecil B. Demented, BILL & TED'S BOGUS JOURNEY
 
