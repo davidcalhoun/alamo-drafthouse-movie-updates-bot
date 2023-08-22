@@ -1,6 +1,64 @@
 # raleigh
 
 ## Movie updates
+### Tue 8/22 1:17pm
+* New movies: Attack the Block, Carnival of Souls, Drag Me to Hell, Opera, Saw, The Wicker Man: The Final Cut, Double Team, Impulse 1974, Resident Evil: Retribution, The Dark Backward, Tokyo Pop, Castle in the Sky Dubbed, Evangelion: 3.0+1.01 Thrice Upon a Time, Heathers, Killer's Kiss, Scanners, The Mask of Zorro 1998
+
+* New screenings: 
+    * [2001 A Space Odyssey](https://drafthouse.com/raleigh/show/2001-a-space-odyssey): Mon 9/11 (3:15pm)
+
+    * [A Clockwork Orange 4k Restoration](https://drafthouse.com/raleigh/show/a-clockwork-orange-4k-restoration): Mon 9/18 (10:40pm)
+
+    * [Barry Lyndon](https://drafthouse.com/raleigh/show/barry-lyndon): Wed 9/27 (2:50pm)
+
+    * [Castle In The Sky Dubbed](https://drafthouse.com/raleigh/show/castle-in-the-sky-dubbed): Tue 9/5 (3:00pm)
+
+    * [Evangelion Thrice Upon A Time](https://drafthouse.com/raleigh/show/evangelion-thrice-upon-a-time): Mon 9/18 (7:00pm)
+
+    * [Full Metal Jacket](https://drafthouse.com/raleigh/show/full-metal-jacket): Wed 9/6 (10:30pm)
+
+    * [Harry Potter And The Deathly Hallows Part 1](https://drafthouse.com/raleigh/show/harry-potter-and-the-deathly-hallows-part-1): Mon 9/18 (3:00pm), Tue 9/19 (6:00pm)
+
+    * [Harry Potter And The Deathly Hallows Part 2](https://drafthouse.com/raleigh/show/harry-potter-and-the-deathly-hallows-part-2): Mon 9/25 (4:10pm)
+
+    * [Harry Potter And The Half Blood Prince](https://drafthouse.com/raleigh/show/harry-potter-and-the-half-blood-prince): Wed 9/13 (3:00pm)
+
+    * [Heathers](https://drafthouse.com/raleigh/show/heathers): Wed 9/13 (6:45pm)
+
+    * [Killers Kiss](https://drafthouse.com/raleigh/show/killers-kiss): Tue 9/26 (7:00pm)
+
+    * [Lolita 1962](https://drafthouse.com/raleigh/show/lolita-1962): Wed 9/20 (3:20pm)
+
+    * [Terror Tuesday Attack The Block](https://drafthouse.com/raleigh/show/terror-tuesday-attack-the-block): Tue 9/19 (9:30pm)
+
+    * [Terror Tuesday Carnival Of Souls](https://drafthouse.com/raleigh/show/terror-tuesday-carnival-of-souls): Tue 9/26 (9:30pm)
+
+    * [Terror Tuesday Drag Me To Hell](https://drafthouse.com/raleigh/show/terror-tuesday-drag-me-to-hell): Tue 10/24 (9:30pm)
+
+    * [Terror Tuesday Opera](https://drafthouse.com/raleigh/show/terror-tuesday-opera): Tue 10/3 (9:30pm)
+
+    * [Terror Tuesday Saw](https://drafthouse.com/raleigh/show/terror-tuesday-saw): Tue 9/12 (10:15pm)
+
+    * [Terror Tuesday Scanners](https://drafthouse.com/raleigh/show/terror-tuesday-scanners): Tue 10/10 (9:30pm)
+
+    * [Terror Tuesday The Wicker Man The Final Cut](https://drafthouse.com/raleigh/show/terror-tuesday-the-wicker-man-the-final-cut): Tue 9/5 (9:30pm)
+
+    * [The Dark Knight](https://drafthouse.com/raleigh/show/the-dark-knight): Sun 9/17 (6:30pm)
+
+    * [The Mask Of Zorro](https://drafthouse.com/raleigh/show/the-mask-of-zorro): Sat 9/23 (11:40am)
+
+    * [The Mummy Returns](https://drafthouse.com/raleigh/show/the-mummy-returns): Mon 10/2 (3:15pm)
+
+    * [Weird Wednesday Double Team](https://drafthouse.com/raleigh/show/weird-wednesday-double-team): Wed 9/20 (9:30pm)
+
+    * [Weird Wednesday Impulse 1974](https://drafthouse.com/raleigh/show/weird-wednesday-impulse-1974): Wed 9/13 (9:30pm)
+
+    * [Weird Wednesday Resident Evil Retribution](https://drafthouse.com/raleigh/show/weird-wednesday-resident-evil-retribution): Wed 10/11 (9:30pm)
+
+    * [Weird Wednesday The Dark Backward](https://drafthouse.com/raleigh/show/weird-wednesday-the-dark-backward): Wed 10/4 (9:30pm)
+
+    * [Weird Wednesday Tokyo Pop](https://drafthouse.com/raleigh/show/weird-wednesday-tokyo-pop): Wed 9/27 (9:30pm)
+
 ### Mon 8/21 6:17pm
 * New movies: Harry Potter and the Goblet of Fire, D.E.B.S., Asteroid City, The Super Mario Bros. Movie
 
