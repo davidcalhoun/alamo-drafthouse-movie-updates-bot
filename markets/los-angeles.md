@@ -1,6 +1,15 @@
 # los-angeles
 
 ## Movie updates
+### Wed 8/23 2:12pm
+
+* New screenings: 
+    * [Bottoms](https://drafthouse.com/los-angeles/show/bottoms): Thu 8/24 (7:00pm)
+
+    * [My Animal](https://drafthouse.com/los-angeles/show/my-animal): Tue 9/12 (6:00pm), Thu 9/14 (4:30pm)
+
+    * [Opera](https://drafthouse.com/los-angeles/show/opera): Wed 10/4 (8:00pm)
+
 ### Wed 8/23 6:17am
 * New movies: AMC's The Walking Dead: Daryl Dixon
 
