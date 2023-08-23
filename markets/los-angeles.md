@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Tue 8/22 8:15pm
+* New movies: Rotting in the Sun, My Animal, CatVideoFest 2023
+
+* New screenings: 
+    * [Catvideofest 2023](https://drafthouse.com/los-angeles/show/catvideofest-2023): Sat 9/9 (11:45am)
+
+    * [Heathers](https://drafthouse.com/los-angeles/show/heathers): Fri 9/8 (4:30pm), Mon 9/11 (5:45pm)
+
+    * [My Animal](https://drafthouse.com/los-angeles/show/my-animal): Sun 9/10 (1:45pm), Mon 9/11 (2:45pm)
+
+    * [Rotting In The Sun](https://drafthouse.com/los-angeles/show/rotting-in-the-sun): Fri 9/8 (7:30pm), Sat 9/9 (4:30pm), Sun 9/10 (7:15pm), Mon 9/11 (4:15pm)
+
 ### Mon 8/21 4:14pm
 * New movies: Mission: Impossible – Dead Reckoning Part One, D.E.B.S.
 
