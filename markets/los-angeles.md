@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 8/23 4:14pm
+
+* New screenings: 
+    * [My Animal](https://drafthouse.com/los-angeles/show/my-animal): Sat 9/9 (10:00pm)
+
 ### Wed 8/23 2:12pm
 
 * New screenings: 
