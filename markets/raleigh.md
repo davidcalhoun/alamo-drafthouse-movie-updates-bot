@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 8/23 4:17pm
+* New movies: My Animal
+
+* New screenings: 
+    * [My Animal](https://drafthouse.com/raleigh/show/my-animal): Fri 9/8 (9:30pm), Sat 9/9 (9:30pm), Sun 9/10 (6:40pm), Mon 9/11 (12:45pm), Tue 9/12 (12:45pm), Wed 9/13 (12:45pm), Thu 9/14 (12:45pm)
+
 ### Tue 8/22 6:17pm
 * New movies: The Little Mermaid 2023, Bill & Ted's Bogus Journey
 
