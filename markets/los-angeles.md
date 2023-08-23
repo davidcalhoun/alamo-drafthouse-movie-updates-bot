@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 8/23 6:17am
+* New movies: AMC's The Walking Dead: Daryl Dixon
+
+* New screenings: 
+    * [Free Victory Screening Amcs The Walking Dead Daryl Dixon](https://drafthouse.com/los-angeles/show/free-victory-screening-amcs-the-walking-dead-daryl-dixon): Wed 9/6 (7:00pm)
+
 ### Tue 8/22 9:17pm
 * New movies: Opera
 
