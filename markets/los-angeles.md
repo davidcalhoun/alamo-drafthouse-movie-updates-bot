@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Tue 8/22 9:17pm
+* New movies: Opera
+
+* New screenings: 
+    * [My Animal](https://drafthouse.com/los-angeles/show/my-animal): Fri 9/8 (10:30pm), Wed 9/13 (4:30pm)
+
+    * [Opera](https://drafthouse.com/los-angeles/show/opera): Tue 10/3 (8:00pm)
+
+    * [Rotting In The Sun](https://drafthouse.com/los-angeles/show/rotting-in-the-sun): Tue 9/12 (3:00pm), Wed 9/13 (3:30pm)
+
 ### Tue 8/22 8:15pm
 * New movies: Rotting in the Sun, My Animal, CatVideoFest 2023
 
