@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 8/25 9:19am
+* New movies: Cassandro
+
+* New screenings: 
+    * [Advance Screening Cassandro Free Advance Screening](https://drafthouse.com/los-angeles/show/advance-screening-cassandro-free-advance-screening): Tue 9/12 (7:00pm)
+
 ### Wed 8/23 4:14pm
 
 * New screenings: 
