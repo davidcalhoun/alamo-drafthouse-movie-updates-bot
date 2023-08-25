@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 8/25 12:23pm
+* New movies: Cassandro
+
+* New screenings: 
+    * [Advance Screening Cassandro Free Advance Screening](https://drafthouse.com/raleigh/show/advance-screening-cassandro-free-advance-screening): Tue 9/12 (7:30pm)
+
 ### Wed 8/23 4:17pm
 * New movies: My Animal
 
