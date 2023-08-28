@@ -1,6 +1,48 @@
 # los-angeles
 
 ## Movie updates
+### Mon 8/28 2:12pm
+* New movies: An Evening with Adam Rifkin, Castle in the Sky Subtitled, Elemental
+
+* New screenings: 
+    * [2001 A Space Odyssey](https://drafthouse.com/los-angeles/show/2001-a-space-odyssey): Fri 9/1 (2:45pm), Sun 9/3 (8:50pm), Mon 9/4 (9:45pm), Tue 9/5 (2:00pm, 6:00pm), Wed 9/6 (9:00pm)
+
+    * [An Evening With Adam Rifkin](https://drafthouse.com/los-angeles/show/an-evening-with-adam-rifkin): Wed 9/6 (8:00pm)
+
+    * [Barbie](https://drafthouse.com/los-angeles/show/barbie): Thu 8/31 (3:00pm, 6:15pm, 9:25pm, 10:40pm), Fri 9/1 (12:30pm, 3:45pm, 6:50pm, 10:00pm), Sat 9/2 (12:30pm, 3:40pm, 6:45pm, 9:55pm), Sun 9/3 (12:30pm, 3:40pm, 6:50pm, 10:00pm), Mon 9/4 (12:25pm, 3:35pm, 6:45pm, 9:55pm), Tue 9/5 (12:25pm, 3:40pm, 6:45pm, 10:00pm), Wed 9/6 (3:45pm, 6:45pm, 10:00pm)
+
+    * [Blue Beetle](https://drafthouse.com/los-angeles/show/blue-beetle): Thu 8/31 (4:00pm, 7:20pm, 10:35pm), Fri 9/1 (12:40pm, 4:00pm, 7:30pm, 10:45pm), Sat 9/2 (12:40pm, 4:00pm, 7:25pm, 10:45pm), Sun 9/3 (12:40pm, 4:00pm, 7:30pm, 10:45pm), Mon 9/4 (12:40pm, 4:00pm, 7:25pm, 10:45pm), Tue 9/5 (12:40pm, 4:00pm, 7:30pm, 10:45pm), Wed 9/6 (2:40pm, 6:00pm, 9:15pm)
+
+    * [Bottoms](https://drafthouse.com/los-angeles/show/bottoms): Thu 8/31 (2:45pm, 3:20pm, 5:30pm, 6:45pm, 8:15pm, 10:30pm, 11:00pm), Fri 9/1 (11:30am, 12:00pm, 2:45pm, 3:20pm, 5:30pm, 6:40pm, 8:15pm, 10:30pm, 11:00pm), Sat 9/2 (11:35am, 12:00pm, 2:45pm, 3:20pm, 5:00pm, 5:30pm, 6:30pm, 8:15pm, 10:30pm, 11:00pm), Sun 9/3 (11:35am, 12:00pm, 2:45pm, 3:20pm, 5:30pm, 6:30pm, 8:15pm, 10:30pm, 11:00pm), Mon 9/4 (11:00am, 11:35am, 12:00pm, 1:45pm, 2:45pm, 3:20pm, 5:30pm, 6:30pm, 8:15pm, 10:30pm, 11:00pm), Tue 9/5 (11:35am, 12:00pm, 2:45pm, 3:20pm, 5:30pm, 6:30pm, 8:15pm, 10:30pm, 11:00pm), Wed 9/6 (1:45pm, 3:00pm, 4:15pm, 5:15pm, 10:20pm)
+
+    * [Brunch Screenings Castle In The Sky Subtitled Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-castle-in-the-sky-subtitled-brunch): Sat 9/2 (11:45am), Sun 9/3 (11:45am)
+
+    * [Castle In The Sky Subtitled](https://drafthouse.com/los-angeles/show/castle-in-the-sky-subtitled): Tue 9/5 (11:30am), Wed 9/6 (2:00pm)
+
+    * [Elemental](https://drafthouse.com/los-angeles/show/elemental): Mon 9/4 (11:40am), Wed 9/6 (2:15pm)
+
+    * [Full Metal Jacket](https://drafthouse.com/los-angeles/show/full-metal-jacket): Fri 9/1 (11:40am), Tue 9/5 (2:50pm), Wed 9/6 (5:45pm)
+
+    * [Gran Turismo](https://drafthouse.com/los-angeles/show/gran-turismo): Thu 8/31 (3:30pm, 7:00pm, 10:15pm), Fri 9/1 (11:50am, 3:30pm, 7:00pm, 10:15pm), Sat 9/2 (11:50am, 3:30pm, 7:00pm, 10:15pm), Sun 9/3 (11:50am, 3:30pm, 7:00pm, 10:15pm), Mon 9/4 (11:50am, 3:30pm, 7:00pm, 10:15pm), Tue 9/5 (11:45am, 3:30pm, 7:00pm, 10:15pm), Wed 9/6 (4:00pm, 7:00pm, 9:55pm)
+
+    * [Harry Potter And The Goblet Of Fire](https://drafthouse.com/los-angeles/show/harry-potter-and-the-goblet-of-fire): Thu 8/31 (8:40pm)
+
+    * [Harry Potter And The Order Of The Phoenix](https://drafthouse.com/los-angeles/show/harry-potter-and-the-order-of-the-phoenix): Fri 9/1 (2:10pm), Sat 9/2 (3:00pm), Mon 9/4 (12:30pm), Tue 9/5 (9:10pm)
+
+    * [Kids Camp The Iron Giant](https://drafthouse.com/los-angeles/show/kids-camp-the-iron-giant): Thu 8/31 (2:40pm)
+
+    * [Oldboy 2003](https://drafthouse.com/los-angeles/show/oldboy-2003): Thu 8/31 (5:15pm, 7:15pm), Fri 9/1 (5:40pm, 9:05pm), Sat 9/2 (7:50pm), Sun 9/3 (3:00pm, 9:40pm), Mon 9/4 (4:10pm, 7:35pm), Tue 9/5 (11:00am, 5:45pm, 9:45pm), Wed 9/6 (5:30pm)
+
+    * [Oppenheimer](https://drafthouse.com/los-angeles/show/oppenheimer): Thu 8/31 (3:30pm, 6:00pm, 9:40pm), Fri 9/1 (11:10am, 2:25pm, 6:00pm, 9:30pm), Sat 9/2 (11:10am, 2:20pm, 6:00pm, 9:30pm), Sun 9/3 (11:10am, 2:20pm, 6:00pm, 9:25pm), Mon 9/4 (11:10am, 2:20pm, 6:00pm, 9:30pm), Tue 9/5 (11:10am, 2:20pm, 6:00pm, 9:30pm), Wed 9/6 (2:30pm, 7:30pm, 9:00pm)
+
+    * [Strays](https://drafthouse.com/los-angeles/show/strays): Thu 8/31 (4:00pm, 7:45pm, 10:30pm), Fri 9/1 (11:20am, 2:10pm, 5:00pm, 7:45pm, 10:35pm), Sat 9/2 (11:15am, 2:00pm, 4:45pm, 7:40pm, 10:35pm), Sun 9/3 (11:25am, 2:10pm, 5:00pm, 7:45pm, 10:35pm), Mon 9/4 (11:20am, 2:10pm, 5:00pm, 7:50pm, 10:35pm), Tue 9/5 (11:15am, 2:15pm, 5:00pm, 7:45pm, 10:35pm), Wed 9/6 (2:45pm, 5:15pm, 8:00pm, 10:30pm)
+
+    * [Talk To Me](https://drafthouse.com/los-angeles/show/talk-to-me): Thu 8/31 (8:00pm, 10:50pm), Fri 9/1 (5:10pm, 8:00pm, 10:55pm), Sat 9/2 (5:10pm, 8:00pm, 10:55pm), Sun 9/3 (5:10pm, 8:00pm, 10:55pm), Mon 9/4 (5:10pm, 8:00pm, 10:55pm), Tue 9/5 (5:10pm, 8:00pm, 10:55pm), Wed 9/6 (6:10pm, 9:00pm)
+
+    * [Teenage Mutant Ninja Turtles Mutant Mayhem](https://drafthouse.com/los-angeles/show/teenage-mutant-ninja-turtles-mutant-mayhem): Thu 8/31 (5:00pm), Fri 9/1 (11:00am, 2:00pm), Sat 9/2 (11:00am, 2:10pm), Sun 9/3 (11:00am, 2:00pm), Mon 9/4 (11:00am, 2:00pm), Tue 9/5 (11:10am, 2:05pm), Wed 9/6 (3:10pm)
+
+    * [The Equalizer 3](https://drafthouse.com/los-angeles/show/the-equalizer-3): Thu 8/31 (4:15pm), Sun 9/3 (9:15pm), Mon 9/4 (12:10pm), Tue 9/5 (12:10pm)
+
 ### Mon 8/28 9:19am
 * New movies: A Haunting in Venice
 
