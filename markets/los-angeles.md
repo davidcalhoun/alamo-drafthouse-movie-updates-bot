@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 8/28 9:19am
+* New movies: A Haunting in Venice
+
+* New screenings: 
+    * [Advance Screening A Haunting In Venice Murder Mystery Advance Screening Party](https://drafthouse.com/los-angeles/show/advance-screening-a-haunting-in-venice-murder-mystery-advance-screening-party): Sat 9/9 (6:00pm)
+
 ### Fri 8/25 9:19am
 * New movies: Cassandro
 
