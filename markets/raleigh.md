@@ -1,6 +1,50 @@
 # raleigh
 
 ## Movie updates
+### Mon 8/28 9:17pm
+* New movies: Elemental, Castle in the Sky Subtitled
+
+* New screenings: 
+    * [2001 A Space Odyssey](https://drafthouse.com/raleigh/show/2001-a-space-odyssey): Thu 8/31 (5:50pm), Fri 9/1 (10:00pm), Tue 9/5 (5:15pm), Wed 9/6 (11:15am)
+
+    * [Asteroid City](https://drafthouse.com/raleigh/show/asteroid-city): Thu 8/31 (5:30pm)
+
+    * [Barbie](https://drafthouse.com/raleigh/show/barbie): Thu 8/31 (11:30am, 12:45pm, 3:15pm, 5:00pm, 6:00pm, 9:45pm), Fri 9/1 (12:30pm, 2:45pm, 3:40pm, 6:45pm, 9:45pm), Sat 9/2 (11:30am, 2:45pm, 5:15pm, 6:00pm, 7:00pm, 10:15pm), Sun 9/3 (10:55am, 1:55pm, 3:20pm, 6:00pm, 9:05pm), Mon 9/4 (11:20am, 12:45pm, 3:55pm, 6:25pm, 9:45pm), Tue 9/5 (11:45am, 2:10pm, 3:30pm, 6:05pm, 9:15pm), Wed 9/6 (12:45pm, 2:50pm, 3:35pm, 6:10pm, 10:00pm)
+
+    * [Blue Beetle](https://drafthouse.com/raleigh/show/blue-beetle): Thu 8/31 (12:15pm, 3:35pm, 6:25pm, 10:15pm), Fri 9/1 (11:20am, 2:45pm, 6:10pm, 8:00pm, 9:30pm), Sat 9/2 (12:15pm, 3:40pm, 4:45pm, 8:00pm, 10:00pm), Sun 9/3 (12:00pm, 2:20pm, 5:00pm, 8:15pm, 10:00pm), Mon 9/4 (11:30am, 1:00pm, 4:05pm, 7:15pm, 10:30pm), Tue 9/5 (12:15pm, 4:15pm, 7:30pm, 10:30pm), Wed 9/6 (11:30am, 3:00pm, 6:45pm, 9:15pm)
+
+    * [Bottoms](https://drafthouse.com/raleigh/show/bottoms): Thu 8/31 (8:05pm, 9:00pm), Fri 9/1 (6:15pm, 9:00pm), Sat 9/2 (8:15pm, 9:15pm), Sun 9/3 (11:25am, 1:00pm, 3:55pm, 6:55pm, 9:30pm), Mon 9/4 (4:30pm, 5:45pm, 8:00pm, 8:30pm, 11:10pm), Tue 9/5 (6:15pm, 9:10pm), Wed 9/6 (6:15pm)
+
+    * [Castle In The Sky Dubbed](https://drafthouse.com/raleigh/show/castle-in-the-sky-dubbed): Thu 8/31 (11:15am), Fri 9/1 (11:10am), Wed 9/6 (11:30am, 4:30pm)
+
+    * [Castle In The Sky Subtitled](https://drafthouse.com/raleigh/show/castle-in-the-sky-subtitled): Wed 9/6 (7:45pm)
+
+    * [Elemental](https://drafthouse.com/raleigh/show/elemental): Thu 8/31 (11:45am, 2:50pm), Fri 9/1 (11:25am, 2:40pm), Sat 9/2 (12:10pm, 3:10pm), Sun 9/3 (10:35am, 1:00pm), Mon 9/4 (12:15pm, 3:20pm), Tue 9/5 (11:15am, 11:45am), Wed 9/6 (12:20pm, 3:30pm)
+
+    * [Full Metal Jacket](https://drafthouse.com/raleigh/show/full-metal-jacket): Thu 8/31 (12:00pm, 7:00pm), Fri 9/1 (3:15pm), Tue 9/5 (12:55pm, 7:25pm)
+
+    * [Gran Turismo](https://drafthouse.com/raleigh/show/gran-turismo): Thu 8/31 (1:00pm, 2:45pm, 6:15pm, 9:45pm), Fri 9/1 (11:15am, 2:45pm, 6:10pm, 7:30pm, 9:30pm), Sat 9/2 (11:00am, 2:30pm, 6:10pm, 8:55pm, 10:00pm), Sun 9/3 (10:30am, 2:00pm, 5:25pm, 7:30pm, 9:15pm), Mon 9/4 (11:15am, 3:00pm, 6:45pm, 10:15pm), Tue 9/5 (12:15pm, 3:45pm, 7:20pm, 9:00pm), Wed 9/6 (12:00pm, 3:30pm, 7:00pm, 10:25pm)
+
+    * [Harry Potter And The Goblet Of Fire](https://drafthouse.com/raleigh/show/harry-potter-and-the-goblet-of-fire): Thu 8/31 (1:15pm)
+
+    * [Harry Potter And The Order Of The Phoenix](https://drafthouse.com/raleigh/show/harry-potter-and-the-order-of-the-phoenix): Sat 9/2 (10:30am), Mon 9/4 (12:30pm), Tue 9/5 (2:35pm), Wed 9/6 (1:00pm)
+
+    * [Jurassic Park In 3d](https://drafthouse.com/raleigh/show/jurassic-park-in-3d): Thu 8/31 (11:30am, 2:45pm), Fri 9/1 (11:45am, 3:00pm), Sat 9/2 (2:00pm), Sun 9/3 (2:45pm), Mon 9/4 (2:30pm), Tue 9/5 (12:25pm, 4:00pm), Wed 9/6 (4:05pm)
+
+    * [Landscape With Invisible Hand](https://drafthouse.com/raleigh/show/landscape-with-invisible-hand): Thu 8/31 (2:35pm)
+
+    * [Oldboy 2003](https://drafthouse.com/raleigh/show/oldboy-2003): Thu 8/31 (8:20pm), Fri 9/1 (6:30pm), Sat 9/2 (6:20pm), Tue 9/5 (6:00pm)
+
+    * [Oppenheimer](https://drafthouse.com/raleigh/show/oppenheimer): Thu 8/31 (12:45pm, 4:50pm, 8:55pm), Fri 9/1 (11:05am, 3:15pm, 5:45pm, 9:45pm), Sat 9/2 (12:30pm, 4:45pm, 8:40pm), Sun 9/3 (10:45am, 3:00pm, 5:00pm, 6:40pm), Mon 9/4 (11:15am, 3:30pm, 7:30pm), Tue 9/5 (11:20am, 3:30pm, 7:45pm), Wed 9/6 (1:15pm, 5:30pm, 9:40pm)
+
+    * [Strays](https://drafthouse.com/raleigh/show/strays): Thu 8/31 (10:45pm), Fri 9/1 (12:00pm), Sat 9/2 (1:30pm), Sun 9/3 (11:00pm), Mon 9/4 (9:45pm), Tue 9/5 (10:45pm), Wed 9/6 (9:00pm)
+
+    * [Talk To Me](https://drafthouse.com/raleigh/show/talk-to-me): Thu 8/31 (9:40pm), Fri 9/1 (11:15pm), Sat 9/2 (11:15pm), Sun 9/3 (11:00pm), Mon 9/4 (10:00pm), Tue 9/5 (10:50pm), Wed 9/6 (11:00pm)
+
+    * [Teenage Mutant Ninja Turtles Mutant Mayhem](https://drafthouse.com/raleigh/show/teenage-mutant-ninja-turtles-mutant-mayhem): Thu 8/31 (12:30pm, 3:20pm, 6:10pm, 9:00pm), Fri 9/1 (11:30am, 2:20pm, 5:10pm, 6:00pm, 9:50pm), Sat 9/2 (10:35am, 1:15pm, 4:20pm, 7:30pm, 10:30pm), Sun 9/3 (11:15am, 1:45pm, 4:00pm, 6:55pm, 9:45pm), Mon 9/4 (12:15pm, 3:10pm, 6:10pm, 9:20pm, 10:50pm), Tue 9/5 (11:20am, 3:00pm, 6:45pm, 9:40pm), Wed 9/6 (12:45pm, 2:45pm, 6:50pm, 9:45pm)
+
+    * [The Equalizer 3](https://drafthouse.com/raleigh/show/the-equalizer-3): Thu 8/31 (4:30pm, 10:30pm), Fri 9/1 (12:15pm, 3:15pm, 9:00pm, 11:00pm), Sat 9/2 (12:00pm, 3:15pm, 9:30pm, 11:00pm), Sun 9/3 (12:30pm, 3:45pm, 6:15pm, 9:00pm, 10:15pm), Mon 9/4 (11:00am, 2:15pm, 5:30pm, 6:30pm, 9:00pm), Tue 9/5 (12:00pm, 3:15pm, 6:30pm, 10:00pm), Wed 9/6 (12:30pm, 3:45pm, 6:00pm, 9:00pm)
+
 ### Fri 8/25 12:23pm
 * New movies: Cassandro
 
