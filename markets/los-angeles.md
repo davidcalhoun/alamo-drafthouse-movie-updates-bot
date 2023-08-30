@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 8/30 9:19am
+* New movies: The Nun II
+
+* New screenings: 
+    * [The Nun 2](https://drafthouse.com/los-angeles/show/the-nun-2): Thu 9/7 (4:10pm, 7:15pm, 10:20pm), Fri 9/8 (1:00pm, 4:10pm, 7:15pm, 10:20pm), Sat 9/9 (1:00pm, 4:10pm, 7:15pm, 10:20pm), Sun 9/10 (1:00pm, 4:10pm, 7:15pm), Mon 9/11 (4:10pm, 7:15pm, 10:20pm), Tue 9/12 (1:00pm, 4:00pm, 7:15pm, 10:00pm), Wed 9/13 (4:10pm, 7:15pm, 10:20pm)
+
 ### Mon 8/28 2:12pm
 * New movies: An Evening with Adam Rifkin, Castle in the Sky Subtitled, Elemental
 
