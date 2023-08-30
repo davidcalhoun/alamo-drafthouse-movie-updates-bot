@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 8/30 2:22pm
+* New movies: Doctor Sleep
+
+* New screenings: 
+    * [Doctor Sleep](https://drafthouse.com/raleigh/show/doctor-sleep): Mon 10/2 (10:20pm)
+
 ### Wed 8/30 12:23pm
 * New movies: The Nun II, Unsolved Mysteries: Behind the Legacy
 
