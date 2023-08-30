@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Wed 8/30 1:16pm
+
+* New screenings: 
+    * [Bottoms](https://drafthouse.com/los-angeles/show/bottoms): Wed 9/6 (2:15pm)
+
+    * [Full Metal Jacket](https://drafthouse.com/los-angeles/show/full-metal-jacket): Mon 9/4 (11:30am)
+
 ### Wed 8/30 9:19am
 * New movies: The Nun II
 
