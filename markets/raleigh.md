@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Wed 8/30 12:23pm
+* New movies: The Nun II, Unsolved Mysteries: Behind the Legacy
+
+* New screenings: 
+    * [The Nun 2](https://drafthouse.com/raleigh/show/the-nun-2): Thu 9/7 (4:20pm, 7:15pm, 10:10pm), Fri 9/8 (7:15pm), Sat 9/9 (7:15pm), Sun 9/10 (7:15pm)
+
+    * [Unsolved Mysteries Behind The Legacy](https://drafthouse.com/raleigh/show/unsolved-mysteries-behind-the-legacy): Wed 10/4 (7:30pm)
+
 ### Mon 8/28 9:17pm
 * New movies: Elemental, Castle in the Sky Subtitled
 
