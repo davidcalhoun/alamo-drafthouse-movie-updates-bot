@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 8/31 2:13pm
+* New movies: Wendell & Wild
+
+* New screenings: 
+    * [Wendell And Wild](https://drafthouse.com/los-angeles/show/wendell-and-wild): Sun 10/29 (11:00am)
+
 ### Thu 8/31 12:10pm
 * New movies: The Unknown 1927
 
