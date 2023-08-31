@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 8/31 5:15pm
+* New movies: Wendell & Wild
+
+* New screenings: 
+    * [Wendell And Wild](https://drafthouse.com/raleigh/show/wendell-and-wild): Sun 10/29 (11:00am)
+
 ### Wed 8/30 2:22pm
 * New movies: Doctor Sleep
 
