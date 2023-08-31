@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 8/30 9:18pm
+* New movies: Doctor Sleep, Unsolved Mysteries: Behind the Legacy
+
+* New screenings: 
+    * [Doctor Sleep](https://drafthouse.com/los-angeles/show/doctor-sleep): Mon 10/2 (3:15pm)
+
+    * [Unsolved Mysteries Behind The Legacy](https://drafthouse.com/los-angeles/show/unsolved-mysteries-behind-the-legacy): Wed 10/4 (4:10pm)
+
 ### Wed 8/30 1:16pm
 
 * New screenings: 
