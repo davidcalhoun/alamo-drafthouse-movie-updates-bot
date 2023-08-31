@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 8/30 10:13pm
+* New movies: The Unknown 1927
+
+* New screenings: 
+    * [Special Event The Unknown 1927 Silent Film Day](https://drafthouse.com/los-angeles/show/special-event-the-unknown-1927-silent-film-day): Sat 9/30 (1:45pm)
+
 ### Wed 8/30 9:18pm
 * New movies: Doctor Sleep, Unsolved Mysteries: Behind the Legacy
 
