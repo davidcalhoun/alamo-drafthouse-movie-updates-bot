@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 8/31 12:10pm
+* New movies: The Unknown 1927
+
+
+
 ### Wed 8/30 10:13pm
 * New movies: The Unknown 1927
 
