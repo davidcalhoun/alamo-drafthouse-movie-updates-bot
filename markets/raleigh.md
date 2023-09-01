@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 9/1 1:16pm
+* New movies: TAYLOR SWIFT | THE ERAS TOUR
+
+* New screenings: 
+    * [Taylor Swift The Eras Tour](https://drafthouse.com/raleigh/show/taylor-swift-the-eras-tour): Fri 10/13 (6:00pm, 10:00pm), Sat 10/14 (2:00pm, 6:00pm, 10:00pm), Sun 10/15 (2:00pm, 6:00pm, 10:00pm), Thu 10/19 (6:00pm, 10:00pm), Fri 10/20 (6:00pm, 10:00pm), Sat 10/21 (6:00pm, 10:00pm), Sun 10/22 (6:00pm, 10:00pm), Thu 10/26 (6:00pm, 10:00pm), Fri 10/27 (6:00pm, 10:00pm), Sat 10/28 (6:00pm, 10:00pm), Sun 10/29 (6:00pm, 10:00pm), Tue 10/31 (6:00pm), Thu 11/2 (6:00pm, 10:00pm), Fri 11/3 (6:00pm, 10:00pm), Sat 11/4 (6:00pm, 10:00pm), Sun 11/5 (6:00pm, 10:00pm)
+
 ### Thu 8/31 5:15pm
 * New movies: Wendell & Wild
 
