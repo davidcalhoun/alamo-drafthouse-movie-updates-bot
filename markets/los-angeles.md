@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 9/1 9:19am
+* New movies: Flora and Son
+
+
+
 ### Fri 9/1 8:15am
 * New movies: FLORA AND SON Advance Victory Screening w/Pre-Party
 
