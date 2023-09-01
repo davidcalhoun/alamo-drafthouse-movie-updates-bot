@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 9/1 8:15am
+* New movies: FLORA AND SON Advance Victory Screening w/Pre-Party
+
+* New screenings: 
+    * [Flora And Son Advance Victory Screening W Pre Party](https://drafthouse.com/los-angeles/show/flora-and-son-advance-victory-screening-w-pre-party): Mon 9/18 (5:30pm, 5:30pm)
+
 ### Thu 8/31 2:13pm
 * New movies: Wendell & Wild
 
