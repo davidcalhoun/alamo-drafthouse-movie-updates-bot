@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 9/1 1:15pm
+* New movies: TAYLOR SWIFT | THE ERAS TOUR
+
+* New screenings: 
+    * [Taylor Swift The Eras Tour](https://drafthouse.com/los-angeles/show/taylor-swift-the-eras-tour): Fri 10/13 (6:00pm, 10:10pm), Sat 10/14 (1:50pm, 6:00pm, 10:10pm), Sun 10/15 (1:50pm, 6:00pm), Thu 10/19 (1:50pm, 6:00pm, 10:10pm), Fri 10/20 (1:50pm, 6:00pm, 10:10pm), Sat 10/21 (1:50pm, 6:00pm, 10:10pm), Sun 10/22 (1:50pm, 6:00pm), Thu 10/26 (6:00pm), Fri 10/27 (6:00pm), Sat 10/28 (6:00pm), Sun 10/29 (6:00pm), Tue 10/31 (6:00pm)
+
 ### Fri 9/1 9:19am
 * New movies: Flora and Son
 
