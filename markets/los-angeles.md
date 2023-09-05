@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 9/5 5:29am
+* New movies: The Exorcist: Believer
+
+* New screenings: 
+    * [The Exorcist Believer](https://drafthouse.com/los-angeles/show/the-exorcist-believer): Thu 10/5 (6:30pm, 9:40pm), Fri 10/6 (12:10pm, 3:20pm, 6:30pm, 9:40pm), Sat 10/7 (12:10pm, 3:20pm, 6:30pm, 9:40pm), Sun 10/8 (12:10pm, 3:20pm, 6:30pm), Mon 10/9 (3:20pm, 6:30pm, 9:40pm), Tue 10/10 (12:10pm, 3:20pm, 6:30pm, 9:40pm), Wed 10/11 (3:20pm, 6:30pm, 9:40pm), Thu 10/12 (3:20pm, 6:30pm, 9:40pm), Fri 10/13 (12:10pm, 3:20pm, 6:30pm, 9:40pm), Sat 10/14 (12:10pm, 3:20pm, 6:30pm, 9:40pm), Sun 10/15 (12:10pm, 3:20pm, 6:30pm), Mon 10/16 (3:20pm, 6:30pm, 9:40pm), Tue 10/17 (12:10pm, 3:20pm, 6:30pm, 9:40pm), Wed 10/18 (3:20pm, 6:30pm, 9:40pm)
+
 ### Tue 9/5 3:16am
 * New movies: High Tension, THE BROOD, THE TEXAS CHAINSAW MASSACRE 2
 
