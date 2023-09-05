@@ -1,6 +1,48 @@
 # los-angeles
 
 ## Movie updates
+### Tue 9/5 4:14pm
+* New movies: Despicable Me 2
+
+* New screenings: 
+    * [2001 A Space Odyssey](https://drafthouse.com/los-angeles/show/2001-a-space-odyssey): Thu 9/7 (9:00pm)
+
+    * [Barbie](https://drafthouse.com/los-angeles/show/barbie): Thu 9/7 (4:25pm, 7:30pm, 10:40pm), Fri 9/8 (12:40pm, 3:50pm, 7:00pm, 10:10pm), Sat 9/9 (1:15pm, 4:25pm, 7:30pm, 10:40pm), Sun 9/10 (1:15pm, 4:25pm, 7:30pm), Mon 9/11 (4:25pm, 7:30pm, 10:40pm), Tue 9/12 (1:15pm, 4:20pm, 7:30pm, 10:40pm), Wed 9/13 (4:25pm, 7:30pm, 10:40pm)
+
+    * [Blue Beetle](https://drafthouse.com/los-angeles/show/blue-beetle): Thu 9/7 (2:20pm), Fri 9/8 (11:00am, 2:25pm), Sat 9/9 (11:25am, 1:50pm), Sun 9/10 (11:20am, 2:00pm), Mon 9/11 (2:20pm), Tue 9/12 (11:00am, 2:25pm), Wed 9/13 (2:25pm)
+
+    * [Bottoms](https://drafthouse.com/los-angeles/show/bottoms): Thu 9/7 (2:30pm, 3:00pm, 5:15pm, 6:45pm, 8:00pm, 10:15pm, 10:45pm), Fri 9/8 (11:10am, 11:45am, 1:55pm, 3:20pm, 4:40pm, 6:45pm, 7:25pm, 8:15pm, 10:10pm, 10:25pm, 11:00pm), Sat 9/9 (11:00am, 12:00pm, 2:50pm, 3:30pm, 5:10pm, 6:15pm, 7:00pm, 8:00pm, 9:45pm, 10:45pm), Sun 9/10 (11:10am, 12:00pm, 2:45pm, 4:00pm, 5:15pm, 7:00pm, 8:00pm), Mon 9/11 (2:30pm, 3:15pm, 5:15pm, 6:45pm, 8:00pm, 10:15pm, 10:45pm), Tue 9/12 (11:45am, 3:45pm, 6:40pm, 10:35pm), Wed 9/13 (3:15pm, 6:45pm, 10:10pm)
+
+    * [Dr Strangelove Or How I Learned To Stop Worrying And Love The Bomb](https://drafthouse.com/los-angeles/show/dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb): Fri 9/8 (11:00am), Mon 9/11 (10:05pm)
+
+    * [Full Metal Jacket](https://drafthouse.com/los-angeles/show/full-metal-jacket): Thu 9/7 (2:15pm)
+
+    * [Gran Turismo](https://drafthouse.com/los-angeles/show/gran-turismo): Thu 9/7 (3:25pm, 7:00pm, 10:30pm), Fri 9/8 (11:50am, 3:25pm, 7:00pm, 10:30pm), Sat 9/9 (11:50am, 3:25pm, 7:00pm, 10:30pm), Sun 9/10 (11:00am, 2:30pm, 6:00pm), Mon 9/11 (3:25pm, 7:00pm, 10:30pm), Tue 9/12 (11:40am, 3:10pm, 6:45pm, 10:15pm), Wed 9/13 (3:25pm, 7:00pm, 10:30pm)
+
+    * [Harry Potter And The Half Blood Prince](https://drafthouse.com/los-angeles/show/harry-potter-and-the-half-blood-prince): Fri 9/8 (2:45pm), Sat 9/9 (2:15pm), Tue 9/12 (11:15am)
+
+    * [Jawan](https://drafthouse.com/los-angeles/show/jawan): Thu 9/7 (2:30pm, 6:30pm, 10:00pm), Fri 9/8 (11:30am, 3:40pm), Sat 9/9 (11:35am, 3:40pm), Sun 9/10 (11:30am, 3:40pm), Mon 9/11 (3:40pm, 7:45pm, 8:45pm), Tue 9/12 (11:35am, 3:40pm, 7:45pm, 9:00pm), Wed 9/13 (3:40pm, 7:45pm)
+
+    * [Kids Camp Despicable Me 2](https://drafthouse.com/los-angeles/show/kids-camp-despicable-me-2): Fri 9/8 (12:30pm)
+
+    * [Oldboy 2003](https://drafthouse.com/los-angeles/show/oldboy-2003): Thu 9/7 (5:30pm, 10:30pm), Fri 9/8 (1:45pm), Sat 9/9 (2:00pm, 9:40pm), Sun 9/10 (6:35pm), Mon 9/11 (5:00pm), Tue 9/12 (1:00pm), Wed 9/13 (9:50pm)
+
+    * [Oppenheimer](https://drafthouse.com/los-angeles/show/oppenheimer): Thu 9/7 (2:30pm, 6:00pm, 8:40pm), Fri 9/8 (12:15pm, 2:30pm, 6:00pm, 9:30pm), Sat 9/9 (11:15am, 2:45pm, 5:30pm, 9:00pm), Sun 9/10 (11:45am, 2:45pm, 6:45pm), Mon 9/11 (2:30pm, 6:00pm, 9:30pm), Tue 9/12 (11:30am, 2:30pm, 6:25pm, 9:30pm), Wed 9/13 (2:30pm, 6:00pm, 9:30pm)
+
+    * [Paths Of Glory](https://drafthouse.com/los-angeles/show/paths-of-glory): Mon 9/11 (8:25pm)
+
+    * [Road House](https://drafthouse.com/los-angeles/show/road-house): Fri 9/8 (5:10pm), Sun 9/10 (11:00am), Tue 9/12 (10:20pm)
+
+    * [Spartacus 1960](https://drafthouse.com/los-angeles/show/spartacus-1960): Sun 9/10 (2:05pm)
+
+    * [Strays](https://drafthouse.com/los-angeles/show/strays): Thu 9/7 (3:40pm), Fri 9/8 (12:00pm), Sat 9/9 (11:15am), Sun 9/10 (11:10am), Mon 9/11 (2:15pm), Tue 9/12 (4:30pm), Wed 9/13 (10:25pm)
+
+    * [Talk To Me](https://drafthouse.com/los-angeles/show/talk-to-me): Thu 9/7 (5:45pm, 9:30pm), Fri 9/8 (5:45pm, 8:35pm), Sat 9/9 (5:45pm), Sun 9/10 (5:30pm), Mon 9/11 (5:45pm, 8:40pm), Tue 9/12 (5:45pm, 8:40pm), Wed 9/13 (5:45pm, 8:40pm)
+
+    * [Teenage Mutant Ninja Turtles Mutant Mayhem](https://drafthouse.com/los-angeles/show/teenage-mutant-ninja-turtles-mutant-mayhem): Thu 9/7 (3:00pm)
+
+    * [The Nun 2](https://drafthouse.com/los-angeles/show/the-nun-2): Thu 9/7 (6:30pm, 9:40pm), Sun 9/10 (8:20pm)
+
 ### Tue 9/5 8:15am
 * New movies: Ichi the Killer
 
