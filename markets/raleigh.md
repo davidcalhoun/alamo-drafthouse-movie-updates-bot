@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 9/5 9:22am
+* New movies: A Haunting in Venice
+
+* New screenings: 
+    * [A Haunting In Venice](https://drafthouse.com/raleigh/show/a-haunting-in-venice): Thu 9/14 (6:00pm, 9:00pm), Fri 9/15 (6:45pm, 9:30pm), Sat 9/16 (6:45pm, 9:30pm), Sun 9/17 (6:45pm)
+
 ### Tue 9/5 8:35am
 * New movies: The Exorcist: Believer
 
