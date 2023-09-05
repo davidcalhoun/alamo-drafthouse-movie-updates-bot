@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 9/5 8:15am
+* New movies: Ichi the Killer
+
+* New screenings: 
+    * [Ichi The Killer](https://drafthouse.com/los-angeles/show/ichi-the-killer): Fri 9/8 (6:30pm)
+
 ### Tue 9/5 6:18am
 * New movies: A Haunting in Venice, A Haunting in Venice
 
