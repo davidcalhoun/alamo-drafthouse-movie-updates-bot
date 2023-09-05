@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 9/5 8:35am
+* New movies: The Exorcist: Believer
+
+* New screenings: 
+    * [The Exorcist Believer](https://drafthouse.com/raleigh/show/the-exorcist-believer): Thu 10/5 (7:00pm, 10:00pm), Fri 10/6 (7:00pm, 10:00pm), Sat 10/7 (7:00pm, 10:00pm), Sun 10/8 (7:00pm, 10:00pm)
+
 ### Fri 9/1 1:16pm
 * New movies: TAYLOR SWIFT | THE ERAS TOUR
 
