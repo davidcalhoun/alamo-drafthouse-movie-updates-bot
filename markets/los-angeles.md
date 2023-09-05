@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 9/5 6:18am
+* New movies: A Haunting in Venice, A Haunting in Venice
+
+* New screenings: 
+    * [A Haunting In Venice](https://drafthouse.com/los-angeles/show/a-haunting-in-venice): Thu 9/14 (6:00pm, 9:00pm), Fri 9/15 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 9/16 (3:00pm, 6:00pm, 9:00pm), Sun 9/17 (3:00pm, 6:00pm, 9:00pm), Mon 9/18 (3:00pm, 6:00pm, 9:00pm), Tue 9/19 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Wed 9/20 (3:00pm, 6:00pm, 9:00pm), Thu 9/21 (3:00pm, 6:00pm, 9:00pm), Fri 9/22 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 9/23 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sun 9/24 (3:00pm, 6:00pm, 9:00pm), Mon 9/25 (3:00pm, 6:00pm, 9:00pm), Tue 9/26 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Wed 9/27 (3:00pm, 6:00pm, 9:00pm)
+
+    * [Brunch Screenings A Haunting In Venice Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-a-haunting-in-venice-brunch): Sat 9/16 (12:00pm), Sun 9/17 (12:00pm), Sun 9/24 (12:00pm)
+
 ### Tue 9/5 5:29am
 * New movies: The Exorcist: Believer
 
