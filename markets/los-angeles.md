@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Tue 9/5 3:16am
+* New movies: High Tension, THE BROOD, THE TEXAS CHAINSAW MASSACRE 2
+
+* New screenings: 
+    * [High Tension](https://drafthouse.com/los-angeles/show/high-tension): Fri 9/8 (10:20pm)
+
+    * [My Animal](https://drafthouse.com/los-angeles/show/my-animal): Sat 9/9 (10:35pm)
+
+    * [The Brood](https://drafthouse.com/los-angeles/show/the-brood): Sat 9/9 (7:30pm)
+
+    * [The Texas Chainsaw Massacre 2](https://drafthouse.com/los-angeles/show/the-texas-chainsaw-massacre-2): Sat 9/9 (10:10pm)
+
 ### Fri 9/1 1:15pm
 * New movies: TAYLOR SWIFT | THE ERAS TOUR
 
