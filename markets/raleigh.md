@@ -1,6 +1,18 @@
 # raleigh
 
 ## Movie updates
+### Tue 9/5 6:17pm
+* New movies: Beetlejuice, Opera, The Unknown 1927, Friday the 13th Part IV: The Final Chapter
+
+* New screenings: 
+    * [Friday The 13th Part Iv The Final Chapter](https://drafthouse.com/raleigh/show/friday-the-13th-part-iv-the-final-chapter): Fri 10/13 (10:30pm)
+
+    * [Movie Party Beetlejuice](https://drafthouse.com/raleigh/show/movie-party-beetlejuice): Tue 10/24 (7:00pm), Wed 10/25 (6:45pm)
+
+    * [Opera](https://drafthouse.com/raleigh/show/opera): Fri 10/6 (9:30pm), Sat 10/7 (9:30pm)
+
+    * [Silent Movie Day The Unknown](https://drafthouse.com/raleigh/show/silent-movie-day-the-unknown): Sat 9/30 (3:00pm)
+
 ### Tue 9/5 4:18pm
 
 * New screenings: 
