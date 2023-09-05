@@ -1,6 +1,41 @@
 # raleigh
 
 ## Movie updates
+### Tue 9/5 4:18pm
+
+* New screenings: 
+    * [Barbie](https://drafthouse.com/raleigh/show/barbie): Thu 9/7 (1:30pm, 4:35pm, 7:40pm, 10:45pm), Fri 9/8 (12:00pm, 3:15pm, 6:30pm, 10:00pm), Sat 9/9 (12:00pm, 3:15pm, 6:30pm, 10:00pm), Sun 9/10 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Mon 9/11 (12:00pm, 3:15pm, 6:15pm, 9:45pm), Tue 9/12 (12:00pm, 3:15pm, 6:15pm, 9:15pm), Wed 9/13 (12:00pm, 3:15pm, 6:15pm, 9:30pm)
+
+    * [Blue Beetle](https://drafthouse.com/raleigh/show/blue-beetle): Thu 9/7 (12:00pm, 3:20pm, 6:30pm, 9:45pm), Fri 9/8 (12:20pm, 3:30pm, 6:45pm, 10:15pm), Sat 9/9 (12:20pm, 3:30pm, 6:45pm, 10:20pm), Sun 9/10 (12:20pm, 3:45pm, 7:15pm, 10:30pm), Mon 9/11 (1:00pm, 4:10pm, 7:30pm, 10:45pm), Tue 9/12 (1:00pm, 4:15pm, 7:30pm, 10:45pm), Wed 9/13 (1:00pm, 4:10pm, 7:30pm, 10:45pm)
+
+    * [Bottoms](https://drafthouse.com/raleigh/show/bottoms): Thu 9/7 (12:20pm, 2:00pm, 4:45pm, 6:15pm, 7:30pm, 9:15pm), Fri 9/8 (12:15pm, 2:00pm, 4:45pm, 5:30pm, 6:15pm, 7:30pm, 8:15pm, 9:15pm), Sat 9/9 (12:20pm, 2:00pm, 4:50pm, 6:45pm, 7:35pm, 8:10pm, 9:35pm), Sun 9/10 (12:20pm, 1:15pm, 4:00pm, 6:15pm, 7:00pm, 9:00pm, 9:30pm), Mon 9/11 (12:15pm, 3:30pm, 6:15pm, 6:30pm, 9:00pm, 9:20pm), Tue 9/12 (1:15pm, 3:30pm, 5:15pm, 8:15pm, 10:00pm, 10:55pm), Wed 9/13 (12:00pm, 3:30pm, 6:00pm, 6:30pm, 8:45pm, 9:15pm)
+
+    * [Catvideofest 2023](https://drafthouse.com/raleigh/show/catvideofest-2023): Fri 9/8 (12:30pm), Sat 9/9 (11:30am), Mon 9/11 (12:30pm), Wed 9/13 (12:25pm)
+
+    * [Elemental](https://drafthouse.com/raleigh/show/elemental): Thu 9/7 (1:15pm)
+
+    * [Gran Turismo](https://drafthouse.com/raleigh/show/gran-turismo): Thu 9/7 (12:10pm, 3:30pm, 7:00pm, 10:30pm), Fri 9/8 (12:05pm, 3:30pm, 7:00pm, 10:30pm), Sat 9/9 (12:05pm, 3:30pm, 7:00pm, 10:30pm), Sun 9/10 (12:05pm, 3:30pm, 7:00pm, 10:30pm), Mon 9/11 (12:20pm, 3:40pm, 7:00pm, 10:30pm), Tue 9/12 (12:20pm, 3:40pm, 6:30pm, 10:15pm), Wed 9/13 (12:20pm, 3:40pm, 7:00pm, 10:30pm)
+
+    * [Heathers](https://drafthouse.com/raleigh/show/heathers): Sat 9/9 (5:15pm)
+
+    * [Jawan](https://drafthouse.com/raleigh/show/jawan): Thu 9/7 (12:00pm, 4:00pm), Fri 9/8 (12:00pm, 4:00pm), Sat 9/9 (12:00pm, 4:00pm), Sun 9/10 (12:00pm, 4:00pm), Mon 9/11 (12:00pm, 4:00pm, 8:00pm), Tue 9/12 (12:00pm, 4:00pm, 7:55pm), Wed 9/13 (12:00pm, 4:00pm, 8:00pm)
+
+    * [Jurassic Park In 3d](https://drafthouse.com/raleigh/show/jurassic-park-in-3d): Thu 9/7 (3:00pm), Fri 9/8 (3:00pm), Sat 9/9 (3:00pm), Sun 9/10 (3:00pm), Mon 9/11 (3:00pm), Tue 9/12 (1:45pm), Wed 9/13 (2:45pm)
+
+    * [Oldboy 2003](https://drafthouse.com/raleigh/show/oldboy-2003): Thu 9/7 (10:20pm)
+
+    * [Oppenheimer](https://drafthouse.com/raleigh/show/oppenheimer): Thu 9/7 (1:00pm, 5:15pm, 9:30pm), Fri 9/8 (1:00pm, 5:15pm, 9:45pm), Sat 9/9 (12:55pm, 5:00pm, 9:10pm), Sun 9/10 (12:55pm, 5:00pm, 9:15pm), Mon 9/11 (12:55pm, 5:00pm, 9:15pm), Tue 9/12 (12:55pm, 5:00pm, 9:15pm), Wed 9/13 (12:55pm, 5:00pm, 9:15pm)
+
+    * [Strays](https://drafthouse.com/raleigh/show/strays): Thu 9/7 (2:20pm)
+
+    * [Talk To Me](https://drafthouse.com/raleigh/show/talk-to-me): Thu 9/7 (5:00pm)
+
+    * [Teenage Mutant Ninja Turtles Mutant Mayhem](https://drafthouse.com/raleigh/show/teenage-mutant-ninja-turtles-mutant-mayhem): Thu 9/7 (12:15pm, 3:05pm), Fri 9/8 (11:45am, 2:45pm), Sat 9/9 (11:45am, 2:45pm), Sun 9/10 (11:40am, 2:45pm), Mon 9/11 (11:40am, 2:45pm), Tue 9/12 (11:40am, 2:45pm), Wed 9/13 (11:40am, 2:45pm)
+
+    * [The Equalizer 3](https://drafthouse.com/raleigh/show/the-equalizer-3): Thu 9/7 (12:45pm, 3:45pm, 6:45pm, 10:00pm), Fri 9/8 (12:45pm, 3:45pm, 6:45pm, 10:00pm), Sat 9/9 (12:45pm, 3:45pm, 6:15pm, 9:15pm), Sun 9/10 (12:45pm, 3:45pm, 6:45pm, 10:00pm), Mon 9/11 (12:45pm, 3:45pm, 6:45pm, 10:00pm), Tue 9/12 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Wed 9/13 (12:45pm, 3:45pm, 7:00pm, 10:00pm)
+
+    * [The Nun 2](https://drafthouse.com/raleigh/show/the-nun-2): Thu 9/7 (6:00pm, 8:00pm, 9:00pm, 10:55pm), Fri 9/8 (1:25pm, 4:20pm, 6:00pm, 9:00pm, 10:10pm, 10:50pm), Sat 9/9 (1:25pm, 4:20pm, 5:45pm, 8:45pm, 10:10pm, 10:50pm), Sun 9/10 (1:25pm, 4:20pm, 5:45pm, 8:45pm, 9:45pm, 10:15pm), Mon 9/11 (1:25pm, 4:20pm, 5:45pm, 7:15pm, 8:45pm, 10:15pm), Tue 9/12 (1:30pm, 4:30pm, 5:45pm, 7:15pm, 8:45pm, 10:15pm), Wed 9/13 (1:25pm, 4:20pm, 5:45pm, 7:15pm, 9:00pm, 10:15pm)
+
 ### Tue 9/5 9:22am
 * New movies: A Haunting in Venice
 
