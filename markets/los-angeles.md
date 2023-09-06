@@ -1,6 +1,15 @@
 # los-angeles
 
 ## Movie updates
+### Tue 9/5 6:06pm
+
+* New screenings: 
+    * [My Animal](https://drafthouse.com/los-angeles/show/my-animal): Sat 9/9 (8:40pm)
+
+    * [Talk To Me](https://drafthouse.com/los-angeles/show/talk-to-me): Sat 9/9 (10:35pm)
+
+    * [The Equalizer 3](https://drafthouse.com/los-angeles/show/the-equalizer-3): Sat 9/9 (9:30pm)
+
 ### Tue 9/5 4:14pm
 * New movies: Despicable Me 2
 
