@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 9/6 10:18am
+* New movies: It Lives Inside
+
+* New screenings: 
+    * [It Lives Inside](https://drafthouse.com/raleigh/show/it-lives-inside): Thu 9/21 (7:00pm, 9:45pm), Fri 9/22 (7:15pm, 10:00pm), Sat 9/23 (7:15pm, 10:00pm), Sun 9/24 (7:15pm, 10:00pm)
+
 ### Tue 9/5 6:17pm
 * New movies: Beetlejuice, Opera, The Unknown 1927, Friday the 13th Part IV: The Final Chapter
 
