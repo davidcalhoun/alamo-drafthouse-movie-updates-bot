@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Wed 9/6 12:23pm
+* New movies: The Origin of Evil, The Mummy 1932 + The Wolf Man 1941 Double Feature
+
+* New screenings: 
+    * [The Mummy 1932 The Wolf Man 1941 Double Feature](https://drafthouse.com/raleigh/show/the-mummy-1932-the-wolf-man-1941-double-feature): Sun 10/29 (1:45pm)
+
+    * [The Origin Of Evil](https://drafthouse.com/raleigh/show/the-origin-of-evil): Fri 9/22 (6:30pm), Tue 9/26 (3:00pm)
+
 ### Wed 9/6 10:18am
 * New movies: It Lives Inside
 
