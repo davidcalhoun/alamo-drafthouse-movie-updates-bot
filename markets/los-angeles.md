@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 9/6 2:13pm
+
+* New screenings: 
+    * [Catvideofest 2023](https://drafthouse.com/los-angeles/show/catvideofest-2023): Tue 9/12 (11:30am, 2:00pm)
+
 ### Wed 9/6 7:14am
 * New movies: It Lives Inside
 
