@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 9/7 12:11pm
+
+* New screenings: 
+    * [The Nun 2](https://drafthouse.com/los-angeles/show/the-nun-2): Thu 9/7 (10:45pm), Fri 9/8 (10:25pm), Sat 9/9 (9:45pm)
+
 ### Thu 9/7 6:18am
 * New movies: The Creator
 
