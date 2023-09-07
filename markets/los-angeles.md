@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 9/7 3:16am
+* New movies: It Lives Inside
+
+* New screenings: 
+    * [Live Q A It Lives Inside](https://drafthouse.com/los-angeles/show/live-q-a-it-lives-inside): Thu 9/21 (7:00pm)
+
 ### Thu 9/7 12:13am
 * New movies: Saw + Saw II Double Feature
 
