@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 9/6 10:13pm
+
+* New screenings: 
+    * [It Lives Inside](https://drafthouse.com/los-angeles/show/it-lives-inside): Thu 9/21 (10:10pm)
+
 ### Wed 9/6 2:13pm
 
 * New screenings: 
