@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 9/7 6:18am
+* New movies: The Creator
+
+* New screenings: 
+    * [The Creator](https://drafthouse.com/los-angeles/show/the-creator): Thu 9/28 (6:15pm, 9:45pm), Fri 9/29 (11:15am, 2:45pm, 6:15pm, 9:45pm), Sat 9/30 (11:15am, 2:45pm, 6:15pm, 9:45pm), Sun 10/1 (11:15am, 2:45pm, 6:15pm), Mon 10/2 (2:45pm, 6:15pm, 9:45pm), Tue 10/3 (11:15am, 2:45pm, 6:15pm, 9:45pm), Thu 10/5 (2:45pm, 6:15pm, 9:45pm), Fri 10/6 (11:00am, 2:30pm, 6:00pm, 9:30pm), Sat 10/7 (11:00am, 2:30pm, 6:00pm, 9:30pm), Sun 10/8 (11:00am, 2:30pm, 6:00pm), Mon 10/9 (2:30pm, 6:00pm, 9:30pm), Tue 10/10 (11:00am, 2:30pm, 6:00pm, 9:30pm), Wed 10/11 (2:30pm, 6:00pm, 9:30pm)
+
 ### Thu 9/7 3:16am
 * New movies: It Lives Inside
 
