@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 9/7 3:14pm
+* New movies: Halloween III: Season of the Witch
+
+* New screenings: 
+    * [Terror Tuesday Halloween Iii Season Of The Witch](https://drafthouse.com/raleigh/show/terror-tuesday-halloween-iii-season-of-the-witch): Tue 10/31 (9:30pm)
+
 ### Thu 9/7 1:16pm
 * New movies: The Lost Boys, Dracula 1931 + Dracula's Daughter Double Feature, Scream 1996, To Live and Die in L.A., Abbott and Costello Meet Frankenstein, Bug, Crimson Peak, Little Shop of Horrors, The Black Cat 1934, The Exorcist, Monster House
 
