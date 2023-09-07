@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 9/7 1:15pm
+
+* New screenings: 
+    * [Unsolved Mysteries Behind The Legacy](https://drafthouse.com/los-angeles/show/unsolved-mysteries-behind-the-legacy): Wed 10/4 (3:00pm)
+
 ### Thu 9/7 12:11pm
 
 * New screenings: 
