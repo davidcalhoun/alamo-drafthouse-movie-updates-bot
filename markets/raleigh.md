@@ -1,6 +1,32 @@
 # raleigh
 
 ## Movie updates
+### Thu 9/7 1:16pm
+* New movies: The Lost Boys, Dracula 1931 + Dracula's Daughter Double Feature, Scream 1996, To Live and Die in L.A., Abbott and Costello Meet Frankenstein, Bug, Crimson Peak, Little Shop of Horrors, The Black Cat 1934, The Exorcist, Monster House
+
+* New screenings: 
+    * [Abbott And Costello Meet Frankenstein](https://drafthouse.com/raleigh/show/abbott-and-costello-meet-frankenstein): Fri 10/27 (3:45pm)
+
+    * [Bug](https://drafthouse.com/raleigh/show/bug): Sun 10/22 (9:45pm)
+
+    * [Crimson Peak](https://drafthouse.com/raleigh/show/crimson-peak): Fri 10/20 (11:30am)
+
+    * [Dracula 1931 Draculas Daughter Double Feature](https://drafthouse.com/raleigh/show/dracula-1931-draculas-daughter-double-feature): Sat 10/21 (2:30pm)
+
+    * [Little Shop Of Horrors](https://drafthouse.com/raleigh/show/little-shop-of-horrors): Thu 10/19 (3:45pm)
+
+    * [Movie Party The Lost Boys](https://drafthouse.com/raleigh/show/movie-party-the-lost-boys): Wed 10/18 (6:45pm)
+
+    * [Special Event Scream](https://drafthouse.com/raleigh/show/special-event-scream): Mon 10/30 (7:00pm)
+
+    * [The Black Cat 1934](https://drafthouse.com/raleigh/show/the-black-cat-1934): Sun 10/22 (11:30am)
+
+    * [The Exorcist](https://drafthouse.com/raleigh/show/the-exorcist): Mon 10/23 (9:30pm)
+
+    * [To Live And Die In L A](https://drafthouse.com/raleigh/show/to-live-and-die-in-l-a): Sun 10/22 (1:45pm)
+
+    * [Trick Or Treat Cinema Monster House](https://drafthouse.com/raleigh/show/trick-or-treat-cinema-monster-house): Tue 10/31 (3:15pm)
+
 ### Thu 9/7 12:23pm
 * New movies: The Craft, Found Footage Festival: Vol. 10, The Cabin in the Woods, Sorcerer, [REC], Breathless 1983, Shredder Orpheus, World of Tomorrow Trilogy, Sleepy Hollow, The Others, Cruising, Dracula 1931 Spanish, Frankenstein 1931 + The Invisible Man 1933 Double Feature, Psycho 1960, The Thing 1982
 
