@@ -1,6 +1,40 @@
 # raleigh
 
 ## Movie updates
+### Thu 9/7 12:23pm
+* New movies: The Craft, Found Footage Festival: Vol. 10, The Cabin in the Woods, Sorcerer, [REC], Breathless 1983, Shredder Orpheus, World of Tomorrow Trilogy, Sleepy Hollow, The Others, Cruising, Dracula 1931 Spanish, Frankenstein 1931 + The Invisible Man 1933 Double Feature, Psycho 1960, The Thing 1982
+
+* New screenings: 
+    * [Brunch Screenings Sleepy Hollow Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-sleepy-hollow-brunch): Sat 10/7 (12:00pm)
+
+    * [Brunch Screenings The Others Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-the-others-brunch): Sun 10/15 (12:15pm)
+
+    * [Champagne Cinema The Craft 2](https://drafthouse.com/raleigh/show/champagne-cinema-the-craft-2): Sun 10/8 (12:00pm)
+
+    * [Cruising](https://drafthouse.com/raleigh/show/cruising): Mon 10/16 (9:30pm)
+
+    * [Dracula 1931 Spanish](https://drafthouse.com/raleigh/show/dracula-1931-spanish): Fri 10/6 (4:30pm)
+
+    * [Found Footage Festival Vol 10](https://drafthouse.com/raleigh/show/found-footage-festival-vol-10): Sun 10/15 (7:00pm)
+
+    * [Frankenstein 1931 The Invisible Man 1933](https://drafthouse.com/raleigh/show/frankenstein-1931-the-invisible-man-1933): Sun 10/8 (1:45pm)
+
+    * [Graveyard Shift The Cabin In The Woods](https://drafthouse.com/raleigh/show/graveyard-shift-the-cabin-in-the-woods): Mon 10/9 (6:30pm)
+
+    * [Psycho 1960](https://drafthouse.com/raleigh/show/psycho-1960): Sun 10/15 (3:05pm)
+
+    * [Sorcerer](https://drafthouse.com/raleigh/show/sorcerer): Tue 10/10 (7:00pm)
+
+    * [Terror Tuesday Rec](https://drafthouse.com/raleigh/show/terror-tuesday-rec): Tue 10/17 (9:30pm)
+
+    * [The Thing](https://drafthouse.com/raleigh/show/the-thing): Mon 10/9 (9:15pm)
+
+    * [Weird Wednesday Breathless 1983](https://drafthouse.com/raleigh/show/weird-wednesday-breathless-1983): Wed 11/1 (9:30pm)
+
+    * [Weird Wednesday Shredder Orpheus](https://drafthouse.com/raleigh/show/weird-wednesday-shredder-orpheus): Wed 10/25 (9:30pm)
+
+    * [World Of Tomorrow Trilogy](https://drafthouse.com/raleigh/show/world-of-tomorrow-trilogy): Mon 10/16 (7:00pm)
+
 ### Thu 9/7 11:18am
 * New movies: Saw + Saw II Double Feature
 
