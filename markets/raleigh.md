@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 9/7 11:18am
+* New movies: Saw + Saw II Double Feature
+
+* New screenings: 
+    * [Saw Saw 2 Double Feature](https://drafthouse.com/raleigh/show/saw-saw-2-double-feature): Sat 9/16 (9:00pm)
+
 ### Thu 9/7 9:25am
 * New movies: The Creator
 
