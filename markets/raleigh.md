@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 9/7 9:25am
+* New movies: The Creator
+
+* New screenings: 
+    * [The Creator](https://drafthouse.com/raleigh/show/the-creator): Thu 9/28 (6:00pm, 9:15pm), Fri 9/29 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Sat 9/30 (12:30pm, 3:45pm, 7:00pm, 10:15pm)
+
 ### Wed 9/6 12:23pm
 * New movies: The Origin of Evil, The Mummy 1932 + The Wolf Man 1941 Double Feature
 
