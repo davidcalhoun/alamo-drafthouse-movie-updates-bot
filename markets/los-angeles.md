@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 9/7 12:13am
+* New movies: Saw + Saw II Double Feature
+
+* New screenings: 
+    * [Saw Saw 2 Double Feature](https://drafthouse.com/los-angeles/show/saw-saw-2-double-feature): Sat 9/16 (8:45pm)
+
 ### Wed 9/6 10:13pm
 
 * New screenings: 
