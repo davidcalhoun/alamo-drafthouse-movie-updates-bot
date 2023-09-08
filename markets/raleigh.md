@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 9/8 12:23pm
+* New movies: AGFA Presents: Dismember the Alamo 2023
+
+* New screenings: 
+    * [Agfa Presents Dismember The Alamo 2023](https://drafthouse.com/raleigh/show/agfa-presents-dismember-the-alamo-2023): Sat 10/28 (11:00am)
+
 ### Thu 9/7 3:14pm
 * New movies: Halloween III: Season of the Witch
 
