@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 9/8 7:13am
+* New movies: Flora and Son, Flora and Son
+
+* New screenings: 
+    * [Brunch Screenings Flora And Son Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-flora-and-son-brunch): Sat 9/23 (11:00am), Sun 9/24 (11:00am)
+
+    * [Flora And Son](https://drafthouse.com/los-angeles/show/flora-and-son): Thu 9/21 (7:15pm, 10:15pm), Fri 9/22 (11:00am, 1:50pm, 4:45pm, 7:40pm, 10:30pm), Sat 9/23 (1:50pm, 4:45pm, 7:40pm, 10:30pm), Sun 9/24 (1:50pm, 4:45pm, 7:40pm)
+
 ### Thu 9/7 1:15pm
 
 * New screenings: 
