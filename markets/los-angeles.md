@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Sat 9/9 6:15am
+* New movies: Dumb Money
+
+* New screenings: 
+    * [Dumb Money](https://drafthouse.com/los-angeles/show/dumb-money): Thu 9/21 (3:15pm, 6:15pm, 9:15pm), Fri 9/22 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sat 9/23 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sun 9/24 (12:15pm, 3:15pm, 6:15pm), Mon 9/25 (3:15pm, 6:15pm, 9:15pm), Tue 9/26 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Wed 9/27 (3:15pm, 6:15pm, 9:15pm), Thu 9/28 (4:00pm, 7:00pm, 10:00pm), Fri 9/29 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sat 9/30 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sun 10/1 (1:00pm, 4:00pm, 7:00pm), Mon 10/2 (4:00pm, 7:00pm, 10:00pm), Tue 10/3 (1:00pm, 4:00pm, 7:00pm, 10:00pm)
+
 ### Fri 9/8 2:12pm
 
 * New screenings: 
