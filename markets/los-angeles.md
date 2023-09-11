@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 9/11 2:12pm
+* New movies: The Outlaw Johnny Black
+
+* New screenings: 
+    * [Live Q A The Outlaw Johnny Black](https://drafthouse.com/los-angeles/show/live-q-a-the-outlaw-johnny-black): Fri 9/15 (7:00pm)
+
 ### Sat 9/9 6:15am
 * New movies: Dumb Money
 
