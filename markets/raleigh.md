@@ -1,6 +1,37 @@
 # raleigh
 
 ## Movie updates
+### Mon 9/11 5:15pm
+
+* New screenings: 
+    * [A Haunting In Venice](https://drafthouse.com/raleigh/show/a-haunting-in-venice): Sat 9/16 (12:45pm, 3:45pm, 4:50pm, 6:30pm, 11:00pm), Sun 9/17 (12:45pm, 3:45pm, 4:50pm, 7:00pm, 10:45pm), Mon 9/18 (12:40pm, 12:45pm, 3:25pm, 3:45pm, 5:30pm, 6:15pm, 6:45pm, 9:00pm), Tue 9/19 (12:15pm, 12:45pm, 3:00pm, 3:45pm, 5:30pm, 6:30pm, 6:45pm, 9:30pm), Wed 9/20 (1:45pm, 2:35pm, 4:35pm, 5:00pm, 6:00pm, 7:25pm, 8:40pm, 10:10pm, 11:05pm)
+
+    * [Barbie](https://drafthouse.com/raleigh/show/barbie): Sat 9/16 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sun 9/17 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Mon 9/18 (12:00pm, 3:15pm, 6:15pm, 9:15pm), Tue 9/19 (12:00pm, 3:15pm, 6:15pm, 9:15pm), Wed 9/20 (12:00pm, 3:15pm, 6:15pm, 9:15pm)
+
+    * [Blue Beetle](https://drafthouse.com/raleigh/show/blue-beetle): Sat 9/16 (3:20pm), Sun 9/17 (3:50pm), Mon 9/18 (3:20pm), Tue 9/19 (3:20pm), Wed 9/20 (2:50pm)
+
+    * [Bottoms](https://drafthouse.com/raleigh/show/bottoms): Sat 9/16 (12:30pm, 3:15pm, 6:05pm, 8:00pm, 11:00pm), Sun 9/17 (12:50pm, 1:55pm, 3:25pm, 4:30pm, 6:00pm, 7:30pm, 8:40pm, 10:15pm), Mon 9/18 (12:10pm, 12:20pm, 3:00pm, 6:00pm, 7:35pm, 9:00pm), Tue 9/19 (1:35pm, 2:15pm, 4:15pm, 4:50pm, 7:15pm, 7:30pm, 10:15pm), Wed 9/20 (12:30pm, 2:15pm, 4:50pm, 7:30pm, 11:25pm)
+
+    * [Cassandro](https://drafthouse.com/raleigh/show/cassandro): Sat 9/16 (1:20pm, 4:20pm, 7:15pm, 10:10pm), Sun 9/17 (1:30pm, 4:30pm, 7:25pm, 10:20pm), Mon 9/18 (1:20pm, 4:20pm, 7:15pm, 10:10pm), Tue 9/19 (1:35pm, 4:35pm, 7:30pm, 10:25pm), Wed 9/20 (12:45pm, 3:45pm, 6:40pm, 9:35pm)
+
+    * [Gran Turismo](https://drafthouse.com/raleigh/show/gran-turismo): Sat 9/16 (9:30pm), Sun 9/17 (9:45pm), Mon 9/18 (9:45pm), Tue 9/19 (9:30pm), Wed 9/20 (9:00pm)
+
+    * [Jawan](https://drafthouse.com/raleigh/show/jawan): Sat 9/16 (12:55pm), Sun 9/17 (12:55pm), Mon 9/18 (1:30pm), Tue 9/19 (1:30pm), Wed 9/20 (1:00pm)
+
+    * [Oppenheimer](https://drafthouse.com/raleigh/show/oppenheimer): Sat 9/16 (12:00pm, 4:05pm, 8:15pm), Sun 9/17 (12:15pm, 4:20pm, 8:30pm), Mon 9/18 (12:55pm, 5:00pm, 9:10pm), Tue 9/19 (12:55pm, 5:00pm, 9:10pm), Wed 9/20 (12:15pm, 4:20pm, 8:30pm)
+
+    * [Satanic Hispanics](https://drafthouse.com/raleigh/show/satanic-hispanics): Sat 9/16 (10:45pm), Sun 9/17 (10:55pm), Mon 9/18 (10:15pm), Tue 9/19 (10:15pm), Wed 9/20 (10:15pm)
+
+    * [Teenage Mutant Ninja Turtles Mutant Mayhem](https://drafthouse.com/raleigh/show/teenage-mutant-ninja-turtles-mutant-mayhem): Sat 9/16 (12:30pm), Sun 9/17 (1:00pm), Mon 9/18 (12:30pm), Tue 9/19 (12:30pm), Wed 9/20 (12:00pm)
+
+    * [The Dark Knight](https://drafthouse.com/raleigh/show/the-dark-knight): Sat 9/16 (12:35pm, 4:15pm)
+
+    * [The Equalizer 3](https://drafthouse.com/raleigh/show/the-equalizer-3): Sat 9/16 (2:00pm, 4:55pm, 7:50pm, 9:45pm), Sun 9/17 (1:45pm, 4:45pm, 7:45pm, 10:15pm), Mon 9/18 (1:10pm, 4:05pm, 7:00pm, 10:00pm), Tue 9/19 (1:10pm, 4:05pm, 7:00pm, 10:00pm), Wed 9/20 (1:10pm, 4:05pm, 7:00pm, 10:40pm)
+
+    * [The Nun 2](https://drafthouse.com/raleigh/show/the-nun-2): Sat 9/16 (12:15pm, 3:10pm, 6:05pm, 9:00pm), Sun 9/17 (12:15pm, 3:10pm, 6:05pm, 9:05pm), Mon 9/18 (1:45pm, 4:40pm, 6:30pm, 9:30pm), Tue 9/19 (1:40pm, 4:35pm, 7:45pm, 10:45pm), Wed 9/20 (12:45pm, 3:40pm, 6:35pm, 10:00pm)
+
+    * [The Outlaw Johnny Black](https://drafthouse.com/raleigh/show/the-outlaw-johnny-black): Sat 9/16 (7:40pm), Sun 9/17 (7:35pm), Mon 9/18 (8:15pm), Tue 9/19 (8:15pm), Wed 9/20 (5:20pm, 7:45pm)
+
 ### Mon 9/11 4:17pm
 * New movies: Cassandro, Stop Making Sense, Satanic Hispanics, The Outlaw Johnny Black
 
