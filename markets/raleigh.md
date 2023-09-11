@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 9/11 6:18pm
+* New movies: Dumb Money
+
+* New screenings: 
+    * [Dumb Money](https://drafthouse.com/raleigh/show/dumb-money): Thu 9/21 (4:25pm, 7:15pm, 10:05pm), Fri 9/22 (7:00pm, 10:00pm), Sat 9/23 (7:00pm, 10:00pm)
+
 ### Mon 9/11 5:15pm
 
 * New screenings: 
