@@ -1,6 +1,38 @@
 # raleigh
 
 ## Movie updates
+### Mon 9/11 4:17pm
+* New movies: Cassandro, Stop Making Sense, Satanic Hispanics, The Outlaw Johnny Black
+
+* New screenings: 
+    * [A Haunting In Venice](https://drafthouse.com/raleigh/show/a-haunting-in-venice): Thu 9/14 (4:30pm, 6:45pm, 7:15pm, 9:30pm, 10:00pm), Fri 9/15 (12:40pm, 12:45pm, 3:25pm, 3:45pm, 5:30pm, 6:15pm, 6:30pm, 9:00pm)
+
+    * [Barbie](https://drafthouse.com/raleigh/show/barbie): Thu 9/14 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Fri 9/15 (12:00pm, 3:15pm, 6:15pm, 9:15pm)
+
+    * [Blue Beetle](https://drafthouse.com/raleigh/show/blue-beetle): Thu 9/14 (6:30pm), Fri 9/15 (3:20pm)
+
+    * [Bottoms](https://drafthouse.com/raleigh/show/bottoms): Thu 9/14 (12:50pm, 1:35pm, 2:00pm, 2:15pm, 3:25pm, 4:10pm, 4:45pm, 4:50pm, 7:30pm, 7:30pm, 10:15pm, 10:15pm), Fri 9/15 (12:20pm, 2:15pm, 3:00pm, 4:50pm, 6:00pm, 7:30pm, 9:00pm)
+
+    * [Cassandro](https://drafthouse.com/raleigh/show/cassandro): Fri 9/15 (1:20pm, 4:20pm, 7:15pm, 10:10pm)
+
+    * [Gran Turismo](https://drafthouse.com/raleigh/show/gran-turismo): Thu 9/14 (9:45pm), Fri 9/15 (9:30pm)
+
+    * [Jawan](https://drafthouse.com/raleigh/show/jawan): Thu 9/14 (12:15pm, 4:15pm, 8:30pm), Fri 9/15 (1:30pm)
+
+    * [Oppenheimer](https://drafthouse.com/raleigh/show/oppenheimer): Thu 9/14 (11:40am, 3:45pm, 8:00pm), Fri 9/15 (12:55pm, 5:00pm, 9:10pm)
+
+    * [Satanic Hispanics](https://drafthouse.com/raleigh/show/satanic-hispanics): Fri 9/15 (10:15pm)
+
+    * [Stop Making Sense](https://drafthouse.com/raleigh/show/stop-making-sense): Fri 9/29 (7:15pm, 9:45pm), Sat 9/30 (7:15pm, 9:45pm)
+
+    * [Teenage Mutant Ninja Turtles Mutant Mayhem](https://drafthouse.com/raleigh/show/teenage-mutant-ninja-turtles-mutant-mayhem): Thu 9/14 (1:40pm, 3:35pm), Fri 9/15 (12:30pm)
+
+    * [The Equalizer 3](https://drafthouse.com/raleigh/show/the-equalizer-3): Thu 9/14 (1:10pm, 4:05pm, 7:00pm, 10:00pm), Fri 9/15 (1:10pm, 4:05pm, 7:00pm, 10:00pm)
+
+    * [The Nun 2](https://drafthouse.com/raleigh/show/the-nun-2): Thu 9/14 (12:15pm, 3:10pm, 6:05pm, 9:05pm), Fri 9/15 (1:45pm, 4:45pm, 7:45pm, 10:40pm)
+
+    * [The Outlaw Johnny Black](https://drafthouse.com/raleigh/show/the-outlaw-johnny-black): Fri 9/15 (8:15pm)
+
 ### Fri 9/8 12:23pm
 * New movies: AGFA Presents: Dismember the Alamo 2023
 
