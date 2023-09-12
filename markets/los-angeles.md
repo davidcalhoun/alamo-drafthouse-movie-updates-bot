@@ -1,6 +1,52 @@
 # los-angeles
 
 ## Movie updates
+### Tue 9/12 4:14pm
+* New movies: The Others, Fear and Desire: Premiere Version + The Seafarers Double Feature, Beetlejuice, To Live and Die in L.A., Cruising, The Exorcist, Dracula 1931 + Dracula's Daughter Double Feature, The Cassandra Cat, Abbott and Costello Meet Frankenstein, Crimson Peak, The Others, Bug, Friday the 13th Part IV: The Final Chapter, Ghostbusters 1984, Little Shop of Horrors, Poltergeist 1982, Psycho 1960, The Black Cat 1934, Monster House, First Blood, Rocky Balboa
+
+* New screenings: 
+    * [Abbott And Costello Meet Frankenstein](https://drafthouse.com/los-angeles/show/abbott-and-costello-meet-frankenstein): Sat 10/28 (2:45pm)
+
+    * [Brunch Screenings Crimson Peak Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-crimson-peak-brunch): Sun 10/22 (10:45am)
+
+    * [Brunch Screenings The Others Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-the-others-brunch): Sun 10/15 (11:00am)
+
+    * [Bug](https://drafthouse.com/los-angeles/show/bug): Sat 10/21 (9:35pm)
+
+    * [Cruising](https://drafthouse.com/los-angeles/show/cruising): Tue 10/17 (7:30pm), Wed 10/18 (4:30pm)
+
+    * [Dracula 1931 Draculas Daughter Double Feature](https://drafthouse.com/los-angeles/show/dracula-1931-draculas-daughter-double-feature): Sat 10/21 (2:45pm)
+
+    * [Fear And Desire The Seafarers Double Feature](https://drafthouse.com/los-angeles/show/fear-and-desire-the-seafarers-double-feature): Fri 10/13 (11:45am), Sat 10/14 (11:45am)
+
+    * [First Blood](https://drafthouse.com/los-angeles/show/first-blood): Fri 10/27 (9:45pm)
+
+    * [Friday The 13th Part Iv The Final Chapter](https://drafthouse.com/los-angeles/show/friday-the-13th-part-iv-the-final-chapter): Fri 10/13 (10:00pm)
+
+    * [Ghostbusters 1984](https://drafthouse.com/los-angeles/show/ghostbusters-1984): Sat 10/14 (2:45pm)
+
+    * [Little Shop Of Horrors](https://drafthouse.com/los-angeles/show/little-shop-of-horrors): Sun 10/22 (2:15pm)
+
+    * [Movie Party Beetlejuice](https://drafthouse.com/los-angeles/show/movie-party-beetlejuice): Mon 10/23 (6:00pm), Tue 10/24 (6:00pm)
+
+    * [Poltergeist](https://drafthouse.com/los-angeles/show/poltergeist): Sun 10/15 (7:45pm)
+
+    * [Psycho 1960](https://drafthouse.com/los-angeles/show/psycho-1960): Sun 10/15 (2:00pm)
+
+    * [Rocky Balboa](https://drafthouse.com/los-angeles/show/rocky-balboa): Fri 10/27 (2:45pm)
+
+    * [The Black Cat 1934](https://drafthouse.com/los-angeles/show/the-black-cat-1934): Mon 10/23 (7:00pm)
+
+    * [The Cassandra Cat](https://drafthouse.com/los-angeles/show/the-cassandra-cat): Sat 10/21 (10:45am)
+
+    * [The Exorcist](https://drafthouse.com/los-angeles/show/the-exorcist): Sat 10/21 (6:30pm), Mon 10/23 (4:00pm)
+
+    * [The Others](https://drafthouse.com/los-angeles/show/the-others): Fri 10/13 (2:45pm), Mon 10/16 (4:30pm), Tue 10/17 (4:30pm), Wed 10/18 (7:30pm), Thu 10/19 (4:30pm)
+
+    * [To Live And Die In L A](https://drafthouse.com/los-angeles/show/to-live-and-die-in-l-a): Sun 10/22 (5:00pm), Thu 10/26 (4:45pm)
+
+    * [Trick Or Treat Cinema Monster House](https://drafthouse.com/los-angeles/show/trick-or-treat-cinema-monster-house): Sat 10/28 (11:00am)
+
 ### Tue 9/12 3:14pm
 * New movies: Stop Making Sense, Nowhere, The Craft, Dracula 1931 Spanish, Frankenstein 1931 + The Invisible Man 1933 Double Feature, Skateboard: The Movie 1978, The Thing 1982, Totally F**ked Up + The Doom Generation Double Feature, Sorcerer, The Origin of Evil, Sleepy Hollow
 
