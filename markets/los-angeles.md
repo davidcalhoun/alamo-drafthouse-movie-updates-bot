@@ -1,6 +1,54 @@
 # los-angeles
 
 ## Movie updates
+### Mon 9/11 6:51pm
+* New movies: Cassandro, Outlaw Johnny Black, Satanic Hispanics, Ocean's Eleven 2001, Satanic Hispanics
+
+* New screenings: 
+    * [A Clockwork Orange 4k Restoration](https://drafthouse.com/los-angeles/show/a-clockwork-orange-4k-restoration): Mon 9/18 (6:30pm), Tue 9/19 (2:10pm)
+
+    * [A Haunting In Venice](https://drafthouse.com/los-angeles/show/a-haunting-in-venice): Thu 9/14 (7:30pm, 9:50pm, 10:30pm), Fri 9/15 (9:40pm, 10:30pm), Sat 9/16 (10:25pm), Mon 9/18 (10:00pm), Tue 9/19 (10:35pm)
+
+    * [Babe Pig In The City After Hours Double Feature](https://drafthouse.com/los-angeles/show/babe-pig-in-the-city-after-hours-double-feature): Tue 9/19 (5:45pm)
+
+    * [Barbie](https://drafthouse.com/los-angeles/show/barbie): Thu 9/14 (3:35pm, 6:45pm, 10:00pm), Fri 9/15 (12:35pm, 3:50pm, 6:25pm, 10:35pm), Sat 9/16 (12:40pm, 3:50pm, 7:00pm, 10:10pm), Sun 9/17 (12:35pm, 4:20pm, 7:00pm), Mon 9/18 (3:50pm, 7:00pm, 10:10pm), Tue 9/19 (12:40pm, 3:50pm, 7:00pm, 10:05pm), Wed 9/20 (2:00pm, 3:50pm, 7:00pm, 10:10pm)
+
+    * [Bottoms](https://drafthouse.com/los-angeles/show/bottoms): Thu 9/14 (2:15pm, 5:00pm, 7:45pm, 10:35pm), Fri 9/15 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:45pm), Sat 9/16 (11:40am, 2:40pm, 5:00pm, 7:45pm, 10:35pm), Sun 9/17 (11:00am, 1:45pm, 5:00pm, 8:00pm), Mon 9/18 (2:15pm, 5:00pm, 7:45pm, 10:40pm), Tue 9/19 (11:35am, 2:40pm, 5:00pm, 7:45pm, 10:40pm), Wed 9/20 (2:15pm, 5:00pm, 7:45pm, 10:35pm)
+
+    * [Cassandro](https://drafthouse.com/los-angeles/show/cassandro): Fri 9/15 (12:20pm, 3:30pm, 7:30pm, 10:30pm), Sat 9/16 (12:15pm, 3:30pm, 7:30pm, 10:30pm), Sun 9/17 (12:20pm, 3:30pm, 7:30pm), Mon 9/18 (3:30pm, 7:30pm, 10:30pm), Tue 9/19 (12:15pm, 3:30pm, 7:30pm, 10:30pm), Wed 9/20 (3:30pm, 7:30pm, 10:30pm)
+
+    * [Dr Strangelove Or How I Learned To Stop Worrying And Love The Bomb](https://drafthouse.com/los-angeles/show/dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb): Thu 9/14 (3:10pm)
+
+    * [Gran Turismo](https://drafthouse.com/los-angeles/show/gran-turismo): Thu 9/14 (3:30pm)
+
+    * [Harry Potter And The Deathly Hallows Part 1](https://drafthouse.com/los-angeles/show/harry-potter-and-the-deathly-hallows-part-1): Mon 9/18 (2:45pm), Tue 9/19 (5:30pm), Wed 9/20 (2:35pm)
+
+    * [Jawan](https://drafthouse.com/los-angeles/show/jawan): Thu 9/14 (2:30pm, 6:30pm, 9:10pm), Fri 9/15 (11:30am, 2:25pm, 6:35pm), Sat 9/16 (12:10pm, 2:30pm, 6:30pm), Sun 9/17 (2:45pm, 6:45pm), Mon 9/18 (2:00pm, 6:10pm, 9:10pm), Tue 9/19 (12:10pm, 2:25pm, 6:30pm, 9:15pm), Wed 9/20 (2:30pm, 6:30pm, 8:25pm)
+
+    * [Live Q A Satanic Hispanics](https://drafthouse.com/los-angeles/show/live-q-a-satanic-hispanics): Sun 9/17 (4:35pm)
+
+    * [Lolita 1962](https://drafthouse.com/los-angeles/show/lolita-1962): Tue 9/19 (11:00am, 9:30pm), Wed 9/20 (8:40pm)
+
+    * [Oceans Eleven 2001](https://drafthouse.com/los-angeles/show/oceans-eleven-2001): Tue 9/19 (11:25am), Wed 9/20 (5:15pm, 10:00pm)
+
+    * [Oldboy 2003](https://drafthouse.com/los-angeles/show/oldboy-2003): Thu 9/14 (5:45pm, 10:25pm), Fri 9/15 (10:20pm), Mon 9/18 (2:25pm, 5:45pm, 10:15pm), Tue 9/19 (2:50pm, 6:10pm, 10:25pm), Wed 9/20 (2:10pm, 5:45pm, 10:25pm)
+
+    * [Oppenheimer](https://drafthouse.com/los-angeles/show/oppenheimer): Thu 9/14 (2:00pm, 6:15pm, 9:20pm), Fri 9/15 (11:00am, 3:15pm, 5:15pm), Sat 9/16 (11:15am, 3:15pm, 6:40pm), Sun 9/17 (11:00am, 3:15pm, 6:30pm), Mon 9/18 (3:15pm, 6:40pm), Tue 9/19 (11:15am, 3:15pm, 6:40pm), Wed 9/20 (3:15pm, 6:40pm)
+
+    * [Rotting In The Sun](https://drafthouse.com/los-angeles/show/rotting-in-the-sun): Thu 9/14 (2:40pm)
+
+    * [Satanic Hispanics](https://drafthouse.com/los-angeles/show/satanic-hispanics): Fri 9/15 (3:40pm), Sat 9/16 (5:30pm), Mon 9/18 (2:15pm), Tue 9/19 (12:20pm), Wed 9/20 (5:30pm)
+
+    * [Talk To Me](https://drafthouse.com/los-angeles/show/talk-to-me): Thu 9/14 (7:00pm), Sat 9/16 (10:45pm), Mon 9/18 (10:45pm), Tue 9/19 (11:15am, 10:50pm), Wed 9/20 (10:45pm)
+
+    * [The Dark Knight](https://drafthouse.com/los-angeles/show/the-dark-knight): Fri 9/15 (1:20pm), Mon 9/18 (10:15pm), Tue 9/19 (10:15pm), Wed 9/20 (6:15pm)
+
+    * [The Equalizer 3](https://drafthouse.com/los-angeles/show/the-equalizer-3): Thu 9/14 (3:15pm, 6:20pm, 10:20pm), Fri 9/15 (11:45am, 2:50pm, 6:10pm, 9:15pm), Sat 9/16 (11:50am, 2:50pm, 6:15pm, 9:15pm), Sun 9/17 (11:50am, 3:45pm, 7:45pm), Mon 9/18 (3:00pm, 6:15pm, 9:20pm), Tue 9/19 (12:00pm, 3:00pm, 6:15pm, 9:15pm), Wed 9/20 (3:00pm, 6:15pm, 9:15pm)
+
+    * [The Nun 2](https://drafthouse.com/los-angeles/show/the-nun-2): Thu 9/14 (4:10pm, 7:15pm, 10:20pm), Fri 9/15 (1:00pm, 4:10pm, 7:15pm, 10:35pm), Sat 9/16 (11:00am, 2:00pm, 4:10pm, 7:15pm, 10:15pm), Sun 9/17 (1:00pm, 4:10pm, 7:15pm), Mon 9/18 (4:10pm, 7:20pm, 10:25pm), Tue 9/19 (11:00am, 2:00pm, 4:10pm, 7:15pm, 10:20pm), Wed 9/20 (4:10pm, 7:15pm, 10:20pm)
+
+    * [The Outlaw Johnny Black](https://drafthouse.com/los-angeles/show/the-outlaw-johnny-black): Fri 9/15 (11:00am), Sat 9/16 (11:15am, 10:30pm), Sun 9/17 (11:15am, 7:25pm), Mon 9/18 (2:00pm, 10:30pm), Tue 9/19 (3:30pm, 7:00pm), Wed 9/20 (2:20pm, 9:10pm)
+
 ### Mon 9/11 2:12pm
 * New movies: The Outlaw Johnny Black
 
