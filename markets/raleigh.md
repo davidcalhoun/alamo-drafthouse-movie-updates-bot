@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Tue 9/12 12:24pm
+* New movies: Ghostbusters 1984, Halloween 1978
+
+* New screenings: 
+    * [Ghostbusters 1984](https://drafthouse.com/raleigh/show/ghostbusters-1984): Sat 10/14 (3:45pm)
+
+    * [Halloween 1978](https://drafthouse.com/raleigh/show/halloween-1978): Mon 10/30 (9:30pm)
+
+    * [Movie Party The Lost Boys](https://drafthouse.com/raleigh/show/movie-party-the-lost-boys): Sat 10/28 (9:45pm)
+
 ### Mon 9/11 6:18pm
 * New movies: Dumb Money
 
