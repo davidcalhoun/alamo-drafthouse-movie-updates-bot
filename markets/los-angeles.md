@@ -1,6 +1,32 @@
 # los-angeles
 
 ## Movie updates
+### Tue 9/12 3:14pm
+* New movies: Stop Making Sense, Nowhere, The Craft, Dracula 1931 Spanish, Frankenstein 1931 + The Invisible Man 1933 Double Feature, Skateboard: The Movie 1978, The Thing 1982, Totally F**ked Up + The Doom Generation Double Feature, Sorcerer, The Origin of Evil, Sleepy Hollow
+
+* New screenings: 
+    * [Brunch Screenings Sleepy Hollow Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-sleepy-hollow-brunch): Sat 10/7 (11:15am)
+
+    * [Champagne Cinema The Craft 2](https://drafthouse.com/los-angeles/show/champagne-cinema-the-craft-2): Sun 10/8 (11:15am), Tue 10/10 (7:00pm)
+
+    * [Dracula 1931 Spanish](https://drafthouse.com/los-angeles/show/dracula-1931-spanish): Fri 10/6 (4:00pm), Wed 10/11 (5:00pm)
+
+    * [Fantastic Fest Presents Nowhere](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-nowhere): Fri 10/6 (7:00pm, 10:00pm)
+
+    * [Frankenstein 1931 The Invisible Man 1933](https://drafthouse.com/los-angeles/show/frankenstein-1931-the-invisible-man-1933): Sun 10/8 (2:10pm), Mon 10/9 (2:10pm)
+
+    * [Live Q A Skateboard 1978](https://drafthouse.com/los-angeles/show/live-q-a-skateboard-1978): Wed 10/11 (8:00pm)
+
+    * [Sorcerer](https://drafthouse.com/los-angeles/show/sorcerer): Sun 10/8 (5:45pm)
+
+    * [Stop Making Sense](https://drafthouse.com/los-angeles/show/stop-making-sense): Fri 9/29 (6:45pm, 10:30pm), Sat 9/30 (7:40pm, 10:00pm), Sun 10/1 (5:00pm, 7:45pm), Mon 10/2 (5:00pm, 7:45pm), Tue 10/3 (5:00pm, 7:45pm), Wed 10/4 (5:15pm), Thu 10/5 (4:15pm, 8:00pm)
+
+    * [The Origin Of Evil](https://drafthouse.com/los-angeles/show/the-origin-of-evil): Mon 9/25 (4:40pm), Tue 9/26 (8:00pm)
+
+    * [The Thing](https://drafthouse.com/los-angeles/show/the-thing): Mon 10/9 (10:00pm), Tue 10/10 (5:00pm)
+
+    * [Totally F Ked Up The Doom Generation Double Feature](https://drafthouse.com/los-angeles/show/totally-f-ked-up-the-doom-generation-double-feature): Sat 10/7 (2:15pm)
+
 ### Mon 9/11 6:51pm
 * New movies: Cassandro, Outlaw Johnny Black, Satanic Hispanics, Ocean's Eleven 2001, Satanic Hispanics
 
