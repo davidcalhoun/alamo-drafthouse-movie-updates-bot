@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 9/13 12:13am
+* New movies: Expend4bles
+
+* New screenings: 
+    * [Expend4bles](https://drafthouse.com/los-angeles/show/expend4bles): Thu 9/21 (6:30pm, 9:30pm), Fri 9/22 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sat 9/23 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sun 9/24 (11:00am, 2:00pm, 5:00pm, 8:00pm), Mon 9/25 (3:30pm, 6:30pm, 9:30pm), Tue 9/26 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Wed 9/27 (3:30pm, 6:30pm, 9:30pm), Thu 9/28 (3:30pm, 6:30pm, 9:30pm), Fri 9/29 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sat 9/30 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sun 10/1 (11:00am, 2:00pm, 5:00pm, 8:00pm), Mon 10/2 (3:30pm, 6:30pm, 9:30pm), Tue 10/3 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Wed 10/4 (3:30pm, 6:30pm, 9:30pm)
+
 ### Tue 9/12 6:07pm
 * New movies: Halloween 1978, Scream 1996, The Mummy 1932 + The Wolf Man 1941 Double Feature
 
