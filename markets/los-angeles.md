@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 9/13 12:12pm
+
+* New screenings: 
+    * [Stop Making Sense](https://drafthouse.com/los-angeles/show/stop-making-sense): Thu 9/28 (7:30pm, 10:15pm)
+
 ### Wed 9/13 8:15am
 * New movies: Dad & Step-Dad
 
