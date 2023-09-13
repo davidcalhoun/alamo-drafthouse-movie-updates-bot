@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Wed 9/13 1:17pm
+
+* New screenings: 
+    * [Teenage Mutant Ninja Turtles Mutant Mayhem](https://drafthouse.com/raleigh/show/teenage-mutant-ninja-turtles-mutant-mayhem): Thu 9/14 (4:30pm)
+
 ### Wed 9/13 12:21am
 * New movies: Expend4bles
 
