@@ -1,6 +1,20 @@
 # los-angeles
 
 ## Movie updates
+### Tue 9/12 6:07pm
+* New movies: Halloween 1978, Scream 1996, The Mummy 1932 + The Wolf Man 1941 Double Feature
+
+* New screenings: 
+    * [First Blood](https://drafthouse.com/los-angeles/show/first-blood): Sun 10/29 (5:20pm)
+
+    * [Halloween 1978](https://drafthouse.com/los-angeles/show/halloween-1978): Sat 10/28 (9:30pm), Tue 10/31 (4:30pm)
+
+    * [Rocky Balboa](https://drafthouse.com/los-angeles/show/rocky-balboa): Mon 10/30 (6:30pm)
+
+    * [Special Event Scream](https://drafthouse.com/los-angeles/show/special-event-scream): Mon 10/30 (7:15pm)
+
+    * [The Mummy 1932 The Wolf Man 1941 Double Feature](https://drafthouse.com/los-angeles/show/the-mummy-1932-the-wolf-man-1941-double-feature): Sun 10/29 (1:50pm)
+
 ### Tue 9/12 4:14pm
 * New movies: The Others, Fear and Desire: Premiere Version + The Seafarers Double Feature, Beetlejuice, To Live and Die in L.A., Cruising, The Exorcist, Dracula 1931 + Dracula's Daughter Double Feature, The Cassandra Cat, Abbott and Costello Meet Frankenstein, Crimson Peak, The Others, Bug, Friday the 13th Part IV: The Final Chapter, Ghostbusters 1984, Little Shop of Horrors, Poltergeist 1982, Psycho 1960, The Black Cat 1934, Monster House, First Blood, Rocky Balboa
 
