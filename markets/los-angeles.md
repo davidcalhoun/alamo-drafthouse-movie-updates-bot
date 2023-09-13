@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 9/13 8:15am
+* New movies: Dad & Step-Dad
+
+* New screenings: 
+    * [Live Q A Dad Step Dad](https://drafthouse.com/los-angeles/show/live-q-a-dad-step-dad): Thu 10/5 (7:00pm)
+
 ### Wed 9/13 12:13am
 * New movies: Expend4bles
 
