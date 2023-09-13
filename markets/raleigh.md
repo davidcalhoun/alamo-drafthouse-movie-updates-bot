@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 9/13 12:21am
+* New movies: Expend4bles
+
+* New screenings: 
+    * [Expend4bles](https://drafthouse.com/raleigh/show/expend4bles): Thu 9/21 (6:00pm, 9:00pm), Fri 9/22 (6:00pm, 9:00pm), Sat 9/23 (6:00pm, 9:00pm), Sun 9/24 (6:00pm, 9:00pm)
+
 ### Tue 9/12 12:24pm
 * New movies: Ghostbusters 1984, Halloween 1978
 
