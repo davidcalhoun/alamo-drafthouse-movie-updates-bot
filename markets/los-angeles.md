@@ -1,6 +1,20 @@
 # los-angeles
 
 ## Movie updates
+### Thu 9/14 2:13pm
+* New movies: John Carpenter's Village of the Damned, Mutiny in Heaven
+
+* New screenings: 
+    * [John Carpenters Village Of The Damned](https://drafthouse.com/los-angeles/show/john-carpenters-village-of-the-damned): Tue 10/31 (3:00pm), Wed 11/1 (8:00pm)
+
+    * [Little Shop Of Horrors](https://drafthouse.com/los-angeles/show/little-shop-of-horrors): Wed 10/25 (5:00pm)
+
+    * [Mister Organ](https://drafthouse.com/los-angeles/show/mister-organ): Sat 10/7 (4:40pm), Mon 10/9 (5:45pm), Tue 10/10 (4:10pm), Wed 10/11 (2:15pm)
+
+    * [Mutiny In Heaven](https://drafthouse.com/los-angeles/show/mutiny-in-heaven): Fri 10/27 (11:00am), Wed 11/1 (4:30pm)
+
+    * [The Cassandra Cat](https://drafthouse.com/los-angeles/show/the-cassandra-cat): Tue 10/24 (7:45pm), Wed 10/25 (7:45pm)
+
 ### Thu 9/14 1:15pm
 * New movies: Mister Organ
 
