@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Thu 9/14 1:15pm
+* New movies: Mister Organ
+
+* New screenings: 
+    * [Dumb Money](https://drafthouse.com/los-angeles/show/dumb-money): Thu 9/21 (7:45pm), Fri 9/22 (6:45pm), Sat 9/23 (7:45pm), Sun 9/24 (7:45pm)
+
+    * [Mister Organ](https://drafthouse.com/los-angeles/show/mister-organ): Fri 10/6 (4:40pm)
+
+    * [Stop Making Sense](https://drafthouse.com/los-angeles/show/stop-making-sense): Wed 10/4 (10:45pm)
+
 ### Wed 9/13 12:12pm
 
 * New screenings: 
