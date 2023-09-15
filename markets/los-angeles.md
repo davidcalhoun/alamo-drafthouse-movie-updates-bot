@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 9/14 8:15pm
+
+* New screenings: 
+    * [Nowhere](https://drafthouse.com/los-angeles/show/nowhere): Wed 10/11 (4:40pm)
+
 ### Thu 9/14 7:21pm
 * New movies: Mister Organ, Nowhere, Story Ave
 
