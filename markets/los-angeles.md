@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Thu 9/14 7:21pm
+* New movies: Mister Organ, Nowhere, Story Ave
+
+* New screenings: 
+    * [Live Q A Mister Organ](https://drafthouse.com/los-angeles/show/live-q-a-mister-organ): Sun 10/8 (7:45pm)
+
+    * [Mister Organ](https://drafthouse.com/los-angeles/show/mister-organ): Sun 10/8 (5:00pm)
+
+    * [Nowhere](https://drafthouse.com/los-angeles/show/nowhere): Mon 10/9 (5:40pm), Tue 10/10 (4:30pm)
+
+    * [Story Ave](https://drafthouse.com/los-angeles/show/story-ave): Wed 11/1 (7:15pm)
+
 ### Thu 9/14 2:13pm
 * New movies: John Carpenter's Village of the Damned, Mutiny in Heaven
 
