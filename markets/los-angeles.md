@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 9/15 1:15pm
+
+* New screenings: 
+    * [A Haunting In Venice](https://drafthouse.com/los-angeles/show/a-haunting-in-venice): Sun 9/17 (6:45pm)
+
 ### Thu 9/14 8:15pm
 
 * New screenings: 
