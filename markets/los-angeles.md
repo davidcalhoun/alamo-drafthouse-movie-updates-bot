@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 9/15 2:12pm
+
+* New screenings: 
+    * [Live Q A Dad Step Dad](https://drafthouse.com/los-angeles/show/live-q-a-dad-step-dad): Thu 10/5 (7:30pm)
+
 ### Fri 9/15 1:15pm
 
 * New screenings: 
