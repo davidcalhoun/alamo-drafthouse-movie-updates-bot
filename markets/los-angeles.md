@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 9/18 8:16am
+* New movies: Dark Harvest
+
+* New screenings: 
+    * [Advance Screening Dark Harvest Early Access Screening](https://drafthouse.com/los-angeles/show/advance-screening-dark-harvest-early-access-screening): Wed 10/11 (6:30pm)
+
 ### Fri 9/15 2:12pm
 
 * New screenings: 
