@@ -1,6 +1,52 @@
 # raleigh
 
 ## Movie updates
+### Mon 9/18 3:14pm
+* New movies: The Mummy 1999
+
+* New screenings: 
+    * [A Haunting In Venice](https://drafthouse.com/raleigh/show/a-haunting-in-venice): Thu 9/21 (12:15pm, 3:05pm, 4:10pm, 6:15pm, 8:40pm, 9:10pm), Fri 9/22 (1:00pm, 3:45pm, 7:45pm, 10:30pm), Sat 9/23 (1:00pm, 3:45pm, 6:30pm, 9:15pm), Sun 9/24 (1:00pm, 3:45pm, 6:30pm, 9:15pm), Mon 9/25 (1:30pm, 4:15pm, 7:00pm, 9:50pm), Tue 9/26 (1:15pm, 4:05pm, 6:30pm, 9:25pm), Wed 9/27 (1:25pm, 4:10pm, 7:00pm, 9:50pm)
+
+    * [Barbie](https://drafthouse.com/raleigh/show/barbie): Thu 9/21 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Fri 9/22 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Sat 9/23 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Sun 9/24 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Mon 9/25 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Tue 9/26 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Wed 9/27 (12:45pm, 3:45pm, 6:45pm, 9:45pm)
+
+    * [Barry Lyndon](https://drafthouse.com/raleigh/show/barry-lyndon): Sat 9/23 (11:20am, 7:30pm), Tue 9/26 (7:45pm)
+
+    * [Blue Beetle](https://drafthouse.com/raleigh/show/blue-beetle): Thu 9/21 (3:00pm)
+
+    * [Bottoms](https://drafthouse.com/raleigh/show/bottoms): Thu 9/21 (1:30pm, 2:20pm, 5:00pm, 7:50pm, 11:25pm), Fri 9/22 (1:15pm, 4:00pm, 6:40pm, 9:15pm), Sat 9/23 (1:15pm, 4:00pm, 6:40pm, 9:15pm), Sun 9/24 (1:15pm, 4:00pm, 6:40pm, 9:30pm), Mon 9/25 (1:15pm, 4:00pm, 6:40pm, 9:15pm), Tue 9/26 (1:45pm, 4:30pm, 7:10pm, 9:45pm), Wed 9/27 (1:15pm, 4:00pm, 6:40pm, 9:15pm)
+
+    * [Cassandro](https://drafthouse.com/raleigh/show/cassandro): Thu 9/21 (1:20pm), Fri 9/22 (2:15pm), Sat 9/23 (7:50pm), Sun 9/24 (7:50pm), Mon 9/25 (2:15pm), Tue 9/26 (2:00pm), Wed 9/27 (2:15pm)
+
+    * [Dumb Money](https://drafthouse.com/raleigh/show/dumb-money): Thu 9/21 (5:45pm), Fri 9/22 (1:20pm, 2:05pm, 4:10pm, 4:40pm, 5:10pm), Sat 9/23 (11:20am, 2:10pm, 4:40pm, 5:00pm), Sun 9/24 (11:20am, 2:10pm, 4:40pm, 5:00pm, 7:55pm, 10:45pm), Mon 9/25 (1:20pm, 4:45pm, 5:10pm, 7:35pm, 7:45pm, 10:35pm), Tue 9/26 (12:50pm, 3:40pm, 4:30pm, 4:55pm, 6:30pm, 9:15pm), Wed 9/27 (12:15pm, 3:15pm, 4:35pm, 5:10pm, 7:25pm, 10:30pm)
+
+    * [Expend4bles](https://drafthouse.com/raleigh/show/expend4bles): Thu 9/21 (7:30pm, 10:15pm), Fri 9/22 (12:30pm, 3:15pm, 4:55pm, 9:45pm), Sat 9/23 (12:30pm, 3:15pm), Sun 9/24 (12:15pm, 3:00pm, 10:15pm), Mon 9/25 (12:30pm, 3:15pm, 4:55pm, 6:00pm, 9:00pm, 10:45pm), Tue 9/26 (12:30pm, 3:15pm, 6:00pm, 9:00pm), Wed 9/27 (12:30pm, 3:15pm, 6:00pm, 9:00pm, 10:45pm)
+
+    * [Gran Turismo](https://drafthouse.com/raleigh/show/gran-turismo): Thu 9/21 (1:55pm)
+
+    * [Harry Potter And The Deathly Hallows Part 2](https://drafthouse.com/raleigh/show/harry-potter-and-the-deathly-hallows-part-2): Sat 9/23 (3:45pm, 8:45pm), Sun 9/24 (7:30pm), Tue 9/26 (7:25pm)
+
+    * [It Lives Inside](https://drafthouse.com/raleigh/show/it-lives-inside): Thu 9/21 (8:35pm, 10:30pm), Fri 9/22 (1:45pm, 4:30pm, 8:00pm), Sat 9/23 (1:25pm, 4:20pm), Sun 9/24 (1:25pm, 4:20pm, 10:45pm), Mon 9/25 (1:45pm, 4:30pm, 7:15pm, 8:00pm, 10:00pm, 11:00pm), Tue 9/26 (1:45pm, 4:30pm, 7:15pm, 10:15pm), Wed 9/27 (1:45pm, 4:30pm, 7:15pm, 8:00pm, 10:00pm)
+
+    * [Jawan](https://drafthouse.com/raleigh/show/jawan): Thu 9/21 (1:45pm)
+
+    * [Oppenheimer](https://drafthouse.com/raleigh/show/oppenheimer): Thu 9/21 (12:45pm), Fri 9/22 (12:30pm), Sat 9/23 (12:30pm), Sun 9/24 (12:30pm), Mon 9/25 (12:40pm), Tue 9/26 (12:15pm), Wed 9/27 (12:30pm)
+
+    * [Teenage Mutant Ninja Turtles Mutant Mayhem](https://drafthouse.com/raleigh/show/teenage-mutant-ninja-turtles-mutant-mayhem): Thu 9/21 (12:10pm)
+
+    * [The Equalizer 3](https://drafthouse.com/raleigh/show/the-equalizer-3): Thu 9/21 (1:00pm, 4:00pm, 7:00pm, 9:55pm), Fri 9/22 (12:05pm, 3:05pm, 6:05pm, 9:00pm), Sat 9/23 (12:05pm, 3:05pm, 6:05pm, 9:00pm), Sun 9/24 (12:05pm, 3:05pm, 6:05pm, 9:00pm), Mon 9/25 (12:05pm, 3:05pm, 6:05pm, 9:00pm), Tue 9/26 (12:00pm, 3:00pm, 6:00pm, 9:05pm), Wed 9/27 (12:05pm, 3:05pm, 6:05pm, 9:00pm)
+
+    * [The Killing 1956](https://drafthouse.com/raleigh/show/the-killing-1956): Fri 9/22 (7:30pm, 10:45pm), Sun 9/24 (5:15pm), Tue 9/26 (10:45pm)
+
+    * [The Mask Of Zorro](https://drafthouse.com/raleigh/show/the-mask-of-zorro): Sun 9/24 (1:55pm), Mon 9/25 (1:35pm)
+
+    * [The Mummy 1999](https://drafthouse.com/raleigh/show/the-mummy-1999): Sat 9/23 (5:30pm)
+
+    * [The Nun 2](https://drafthouse.com/raleigh/show/the-nun-2): Thu 9/21 (1:30pm, 4:50pm, 7:45pm, 10:40pm), Fri 9/22 (1:55pm, 4:55pm, 7:50pm, 10:45pm), Sat 9/23 (1:35pm, 4:45pm, 7:50pm, 10:45pm), Sun 9/24 (1:35pm, 4:45pm, 7:50pm, 10:45pm), Mon 9/25 (1:55pm, 4:55pm, 7:50pm, 10:45pm), Tue 9/26 (12:40pm, 3:40pm, 6:35pm, 9:30pm), Wed 9/27 (1:55pm, 4:55pm, 7:50pm, 10:45pm)
+
+    * [The Origin Of Evil](https://drafthouse.com/raleigh/show/the-origin-of-evil): Thu 9/21 (4:15pm), Fri 9/22 (6:30pm), Wed 9/27 (6:15pm)
+
+    * [The Outlaw Johnny Black](https://drafthouse.com/raleigh/show/the-outlaw-johnny-black): Thu 9/21 (5:15pm), Fri 9/22 (10:00pm), Sat 9/23 (10:45pm), Sun 9/24 (10:00pm), Mon 9/25 (10:25pm), Wed 9/27 (10:15pm)
+
 ### Mon 9/18 1:17pm
 
 * New screenings: 
