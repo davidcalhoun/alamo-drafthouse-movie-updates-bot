@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 9/18 4:14pm
+
+* New screenings: 
+    * [Mister Organ](https://drafthouse.com/los-angeles/show/mister-organ): Fri 10/6 (1:50pm), Sat 10/7 (1:50pm), Mon 10/9 (7:15pm), Tue 10/10 (8:00pm), Thu 10/12 (3:00pm, 5:45pm)
+
 ### Mon 9/18 8:16am
 * New movies: Dark Harvest
 
