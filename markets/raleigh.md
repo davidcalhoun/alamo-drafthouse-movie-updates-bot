@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 9/18 11:19am
+* New movies: Dark Harvest
+
+* New screenings: 
+    * [Advance Screening Dark Harvest Early Access Screening](https://drafthouse.com/raleigh/show/advance-screening-dark-harvest-early-access-screening): Wed 10/11 (7:00pm)
+
 ### Wed 9/13 1:17pm
 
 * New screenings: 
