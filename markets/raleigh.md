@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Mon 9/18 7:17pm
+* New movies: Fear and Desire: Premiere Version + The Seafarers Double Feature
+
+* New screenings: 
+    * [Expend4bles](https://drafthouse.com/raleigh/show/expend4bles): Fri 9/22 (4:55pm)
+
+    * [Fear And Desire The Seafarers Double Feature](https://drafthouse.com/raleigh/show/fear-and-desire-the-seafarers-double-feature): Fri 9/22 (10:00pm)
+
 ### Mon 9/18 3:14pm
 * New movies: The Mummy 1999
 
