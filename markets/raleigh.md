@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 9/18 1:17pm
+
+* New screenings: 
+    * [Unsolved Mysteries Behind The Legacy](https://drafthouse.com/raleigh/show/unsolved-mysteries-behind-the-legacy): Wed 10/4 (4:45pm)
+
 ### Mon 9/18 11:19am
 * New movies: Dark Harvest
 
