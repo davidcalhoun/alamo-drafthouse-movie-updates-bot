@@ -1,6 +1,56 @@
 # los-angeles
 
 ## Movie updates
+### Tue 9/19 12:14am
+* New movies: Rotting in the Sun, Barbie, CatVideoFest 2023
+
+* New screenings: 
+    * [A Haunting In Venice](https://drafthouse.com/los-angeles/show/a-haunting-in-venice): Thu 9/21 (3:00pm, 6:00pm, 9:00pm)
+
+    * [Barbie](https://drafthouse.com/los-angeles/show/barbie): Thu 9/21 (3:35pm, 6:45pm, 9:50pm), Fri 9/22 (1:10pm, 4:20pm, 7:30pm, 10:35pm), Sat 9/23 (12:25pm, 3:35pm, 6:45pm, 9:50pm), Sun 9/24 (4:20pm, 7:30pm), Mon 9/25 (2:40pm, 6:45pm, 9:50pm), Tue 9/26 (12:25pm, 3:35pm, 6:45pm, 9:50pm), Wed 9/27 (2:40pm, 6:40pm, 9:50pm)
+
+    * [Barry Lyndon](https://drafthouse.com/los-angeles/show/barry-lyndon): Fri 9/22 (11:00am), Sat 9/23 (11:15am), Sun 9/24 (3:30pm), Mon 9/25 (8:40pm), Tue 9/26 (4:45pm), Wed 9/27 (2:50pm)
+
+    * [Bottoms](https://drafthouse.com/los-angeles/show/bottoms): Thu 9/21 (4:30pm, 7:20pm, 10:10pm)
+
+    * [Brunch Screenings Barbie Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-barbie-brunch): Sun 9/24 (12:20pm)
+
+    * [Cassandro](https://drafthouse.com/los-angeles/show/cassandro): Thu 9/21 (3:25pm), Fri 9/22 (3:45pm, 6:45pm), Sat 9/23 (4:20pm, 7:25pm), Sun 9/24 (3:30pm, 6:30pm), Mon 9/25 (5:45pm), Tue 9/26 (5:00pm), Wed 9/27 (5:45pm)
+
+    * [Catvideofest 2023](https://drafthouse.com/los-angeles/show/catvideofest-2023): Sun 9/24 (11:05am, 1:40pm), Mon 9/25 (2:35pm), Tue 9/26 (12:20pm)
+
+    * [Dumb Money](https://drafthouse.com/los-angeles/show/dumb-money): Thu 9/21 (5:30pm, 8:30pm), Fri 9/22 (6:45pm), Sat 9/23 (6:50pm, 9:45pm), Sun 9/24 (7:45pm)
+
+    * [Flora And Son](https://drafthouse.com/los-angeles/show/flora-and-son): Thu 9/21 (8:00pm), Mon 9/25 (2:15pm, 5:00pm, 7:45pm, 10:35pm), Tue 9/26 (1:45pm, 4:45pm, 7:40pm, 10:30pm), Wed 9/27 (2:10pm, 5:00pm, 7:45pm, 10:35pm)
+
+    * [Harry Potter And The Deathly Hallows Part 2](https://drafthouse.com/los-angeles/show/harry-potter-and-the-deathly-hallows-part-2): Fri 9/22 (6:00pm), Sat 9/23 (3:30pm), Mon 9/25 (5:15pm), Tue 9/26 (1:15pm), Wed 9/27 (5:00pm, 8:25pm)
+
+    * [It Lives Inside](https://drafthouse.com/los-angeles/show/it-lives-inside): Thu 9/21 (7:45pm, 10:35pm)
+
+    * [Jawan](https://drafthouse.com/los-angeles/show/jawan): Thu 9/21 (3:10pm)
+
+    * [Killers Kiss](https://drafthouse.com/los-angeles/show/killers-kiss): Fri 9/22 (9:45pm), Sat 9/23 (10:45pm), Tue 9/26 (5:40pm), Wed 9/27 (10:30pm)
+
+    * [Oldboy 2003](https://drafthouse.com/los-angeles/show/oldboy-2003): Thu 9/21 (4:30pm)
+
+    * [Oppenheimer](https://drafthouse.com/los-angeles/show/oppenheimer): Thu 9/21 (2:45pm), Fri 9/22 (11:30am), Sat 9/23 (12:10pm), Sun 9/24 (11:15am), Mon 9/25 (2:30pm), Tue 9/26 (12:45pm, 8:15pm), Wed 9/27 (2:25pm)
+
+    * [Rotting In The Sun](https://drafthouse.com/los-angeles/show/rotting-in-the-sun): Fri 9/22 (9:50pm), Sat 9/23 (10:25pm), Mon 9/25 (8:45pm), Tue 9/26 (9:00pm), Wed 9/27 (8:45pm)
+
+    * [Satanic Hispanics](https://drafthouse.com/los-angeles/show/satanic-hispanics): Thu 9/21 (3:20pm)
+
+    * [Talk To Me](https://drafthouse.com/los-angeles/show/talk-to-me): Thu 9/21 (10:45pm)
+
+    * [The Equalizer 3](https://drafthouse.com/los-angeles/show/the-equalizer-3): Thu 9/21 (2:25pm, 6:25pm, 9:35pm), Fri 9/22 (11:45am, 2:50pm, 6:00pm, 9:05pm), Sat 9/23 (11:45am, 2:50pm, 6:00pm, 9:10pm), Sun 9/24 (12:40pm, 3:45pm, 7:00pm), Mon 9/25 (3:10pm, 6:15pm, 9:20pm), Tue 9/26 (1:15pm, 4:20pm, 7:25pm, 10:30pm), Wed 9/27 (3:10pm, 6:15pm, 9:20pm)
+
+    * [The Killing 1956](https://drafthouse.com/los-angeles/show/the-killing-1956): Fri 9/22 (3:20pm), Mon 9/25 (2:00pm), Tue 9/26 (3:00pm), Wed 9/27 (2:15pm)
+
+    * [The Nun 2](https://drafthouse.com/los-angeles/show/the-nun-2): Thu 9/21 (4:40pm, 7:30pm, 10:35pm), Fri 9/22 (1:10pm, 4:10pm, 7:15pm, 10:20pm), Sat 9/23 (1:10pm, 4:10pm, 7:15pm, 10:20pm), Sun 9/24 (1:10pm, 4:10pm, 7:15pm), Mon 9/25 (4:10pm, 7:15pm, 10:20pm), Tue 9/26 (1:10pm, 4:10pm, 7:15pm, 10:20pm), Wed 9/27 (3:45pm, 6:50pm, 9:55pm)
+
+    * [The Origin Of Evil](https://drafthouse.com/los-angeles/show/the-origin-of-evil): Fri 9/22 (11:40am)
+
+    * [The Outlaw Johnny Black](https://drafthouse.com/los-angeles/show/the-outlaw-johnny-black): Thu 9/21 (4:00pm)
+
 ### Mon 9/18 4:14pm
 
 * New screenings: 
