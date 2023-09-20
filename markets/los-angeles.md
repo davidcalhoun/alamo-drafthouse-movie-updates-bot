@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Wed 9/20 4:14pm
+* New movies: An Evening with Don Hertzfeldt, Who Will Not Be There, Tickled
+
+* New screenings: 
+    * [Taylor Swift The Eras Tour](https://drafthouse.com/los-angeles/show/taylor-swift-the-eras-tour): Sat 10/14 (5:40pm)
+
+    * [The Others](https://drafthouse.com/los-angeles/show/the-others): Sat 10/14 (9:50pm)
+
+    * [Tickled](https://drafthouse.com/los-angeles/show/tickled): Sun 10/1 (3:45pm)
+
+    * [World Of Tomorrow Trilogy](https://drafthouse.com/los-angeles/show/world-of-tomorrow-trilogy): Mon 10/16 (7:30pm)
+
 ### Wed 9/20 11:20am
 * New movies: Bottoms x Creed: Shinjidai Short
 
