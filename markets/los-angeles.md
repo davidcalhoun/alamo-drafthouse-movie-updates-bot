@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 9/20 12:14am
+* New movies: Saw X
+
+* New screenings: 
+    * [Saw X](https://drafthouse.com/los-angeles/show/saw-x): Thu 9/28 (6:00pm, 9:10pm), Fri 9/29 (12:45pm, 4:00pm, 7:15pm, 10:25pm), Sat 9/30 (12:45pm, 4:00pm, 7:15pm, 10:25pm), Sun 10/1 (12:45pm, 4:00pm, 7:15pm), Mon 10/2 (3:20pm, 7:00pm, 10:10pm), Tue 10/3 (12:40pm, 3:50pm, 9:50pm), Wed 10/4 (7:00pm, 10:10pm), Thu 10/5 (3:20pm, 6:45pm, 10:00pm), Fri 10/6 (12:45pm, 4:00pm, 7:15pm, 10:25pm), Sat 10/7 (12:45pm, 4:00pm, 7:15pm, 10:25pm), Sun 10/8 (12:30pm, 3:45pm, 7:00pm), Mon 10/9 (3:50pm, 7:00pm, 10:10pm), Tue 10/10 (12:45pm, 4:00pm, 7:15pm, 10:25pm), Wed 10/11 (3:50pm, 7:00pm, 10:10pm)
+
 ### Tue 9/19 12:14am
 * New movies: Rotting in the Sun, Barbie, CatVideoFest 2023
 
