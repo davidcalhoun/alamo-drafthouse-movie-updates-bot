@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 9/20 12:21am
+* New movies: Saw X
+
+* New screenings: 
+    * [Saw X](https://drafthouse.com/raleigh/show/saw-x): Thu 9/28 (7:00pm, 10:05pm), Fri 9/29 (6:15pm), Sat 9/30 (6:15pm), Sun 10/1 (6:30pm)
+
 ### Mon 9/18 7:17pm
 * New movies: Fear and Desire: Premiere Version + The Seafarers Double Feature
 
