@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Wed 9/20 3:14pm
+* New movies: The Rocky Horror Picture Show
+
+* New screenings: 
+    * [Movie Party Beetlejuice](https://drafthouse.com/raleigh/show/movie-party-beetlejuice): Mon 10/23 (7:00pm)
+
+    * [Movie Party The Rocky Horror Picture Show](https://drafthouse.com/raleigh/show/movie-party-the-rocky-horror-picture-show): Sun 10/29 (9:45pm)
+
 ### Wed 9/20 12:21am
 * New movies: Saw X
 
