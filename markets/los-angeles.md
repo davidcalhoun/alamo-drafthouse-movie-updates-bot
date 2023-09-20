@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 9/20 11:20am
+* New movies: Bottoms x Creed: Shinjidai Short
+
+* New screenings: 
+    * [Bottoms Creed Shinjidai Short](https://drafthouse.com/los-angeles/show/bottoms-creed-shinjidai-short): Fri 9/22 (11:25am, 2:20pm, 5:10pm, 8:00pm, 10:45pm), Sat 9/23 (11:30am, 2:25pm, 5:15pm, 8:00pm, 10:45pm), Sun 9/24 (11:30am, 2:25pm, 5:15pm, 8:00pm), Mon 9/25 (2:00pm, 4:45pm, 7:30pm, 10:15pm), Tue 9/26 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Wed 9/27 (2:00pm, 4:45pm, 7:30pm, 10:15pm)
+
 ### Wed 9/20 12:14am
 * New movies: Saw X
 
