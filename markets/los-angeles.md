@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 9/22 1:19am
+* New movies: Shredder Orpheus
+
+* New screenings: 
+    * [Fantastic Fest Presents Nowhere](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-nowhere): Sat 10/7 (9:30pm)
+
+    * [Shredder Orpheus](https://drafthouse.com/los-angeles/show/shredder-orpheus): Wed 10/18 (8:00pm)
+
 ### Wed 9/20 4:14pm
 * New movies: An Evening with Don Hertzfeldt, Who Will Not Be There, Tickled
 
