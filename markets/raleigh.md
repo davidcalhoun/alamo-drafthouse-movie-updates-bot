@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Sun 9/24 9:18pm
+* New movies: Killers of the Flower Moon
+
+* New screenings: 
+    * [Killers Of The Flower Moon](https://drafthouse.com/raleigh/show/killers-of-the-flower-moon): Thu 10/19 (3:30pm, 8:00pm), Fri 10/20 (8:00pm), Sat 10/21 (8:00pm), Sun 10/22 (8:00pm)
+
 ### Wed 9/20 3:14pm
 * New movies: The Rocky Horror Picture Show
 
