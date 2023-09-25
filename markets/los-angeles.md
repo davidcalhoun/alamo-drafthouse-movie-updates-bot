@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Sun 9/24 9:18pm
+* New movies: Killers of the Flower Moon
+
+* New screenings: 
+    * [Killers Of The Flower Moon](https://drafthouse.com/los-angeles/show/killers-of-the-flower-moon): Thu 10/19 (2:30pm, 6:00pm, 9:45pm), Fri 10/20 (11:00am, 2:20pm, 6:10pm), Sat 10/21 (11:00am, 2:20pm, 6:10pm), Sun 10/22 (11:00am, 2:45pm, 6:15pm), Mon 10/23 (2:35pm, 6:10pm, 9:15pm)
+
 ### Fri 9/22 1:19am
 * New movies: Shredder Orpheus
 
