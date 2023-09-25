@@ -1,6 +1,54 @@
 # raleigh
 
 ## Movie updates
+### Mon 9/25 7:18pm
+* New movies: PAW Patrol: The Mighty Movie, Mean Girls, My Neighbor Totoro Subtitled
+
+* New screenings: 
+    * [A Haunting In Venice](https://drafthouse.com/raleigh/show/a-haunting-in-venice): Thu 9/28 (2:45pm, 3:00pm, 4:15pm, 7:05pm, 9:50pm), Fri 9/29 (12:15pm, 3:15pm, 6:15pm, 9:05pm), Sat 9/30 (1:25pm, 4:15pm, 7:05pm, 10:00pm), Sun 10/1 (1:05pm, 4:00pm, 6:50pm, 9:45pm), Mon 10/2 (12:30pm, 3:20pm, 6:10pm, 9:00pm), Tue 10/3 (12:25pm, 3:15pm, 6:05pm, 8:55pm), Wed 10/4 (12:15pm, 3:15pm, 6:15pm, 9:05pm)
+
+    * [Barbie](https://drafthouse.com/raleigh/show/barbie): Thu 9/28 (1:40pm), Fri 9/29 (1:20pm), Sat 9/30 (1:30pm), Sun 10/1 (11:45am), Mon 10/2 (1:15pm), Tue 10/3 (1:30pm), Wed 10/4 (11:45am)
+
+    * [Bottoms](https://drafthouse.com/raleigh/show/bottoms): Thu 9/28 (4:45pm), Fri 9/29 (4:25pm), Sat 9/30 (4:35pm), Sun 10/1 (7:15pm), Mon 10/2 (4:20pm), Tue 10/3 (4:30pm), Wed 10/4 (3:45pm)
+
+    * [Brunch Screenings My Neighbor Totoro Subtitled Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-my-neighbor-totoro-subtitled-brunch): Sat 9/30 (12:15pm)
+
+    * [Cassandro](https://drafthouse.com/raleigh/show/cassandro): Thu 9/28 (4:15pm)
+
+    * [Doctor Sleep](https://drafthouse.com/raleigh/show/doctor-sleep): Sat 9/30 (8:45pm)
+
+    * [Dumb Money](https://drafthouse.com/raleigh/show/dumb-money): Thu 9/28 (1:50pm, 4:40pm, 7:30pm, 10:30pm), Fri 9/29 (12:00pm, 3:00pm, 6:10pm, 9:00pm), Sat 9/30 (12:45pm, 3:35pm, 6:00pm, 9:00pm), Sun 10/1 (12:00pm, 3:00pm, 6:05pm, 9:15pm), Mon 10/2 (1:40pm, 4:30pm, 7:20pm, 10:10pm), Tue 10/3 (1:30pm, 4:20pm, 7:10pm, 10:00pm), Wed 10/4 (12:30pm, 3:30pm, 6:45pm, 10:55pm)
+
+    * [Expend4bles](https://drafthouse.com/raleigh/show/expend4bles): Thu 9/28 (2:45pm, 4:10pm, 5:30pm, 8:15pm, 11:00pm), Fri 9/29 (1:25pm, 4:10pm, 6:55pm, 9:40pm), Sat 9/30 (1:15pm, 4:00pm, 6:55pm, 9:40pm), Sun 10/1 (1:15pm, 4:10pm, 6:55pm, 9:40pm), Mon 10/2 (1:00pm, 3:50pm, 6:40pm, 9:25pm), Tue 10/3 (1:05pm, 3:55pm, 6:50pm, 9:35pm), Wed 10/4 (1:00pm, 4:00pm, 7:15pm, 10:05pm)
+
+    * [Eyes Wide Shut](https://drafthouse.com/raleigh/show/eyes-wide-shut): Fri 9/29 (8:45pm), Sun 10/1 (11:30am), Mon 10/2 (9:00pm)
+
+    * [It Lives Inside](https://drafthouse.com/raleigh/show/it-lives-inside): Thu 9/28 (3:30pm, 6:15pm, 7:30pm, 9:00pm), Fri 9/29 (6:45pm, 9:30pm), Sat 9/30 (6:30pm, 9:15pm), Sun 10/1 (6:40pm, 9:30pm), Mon 10/2 (6:30pm, 9:15pm), Tue 10/3 (6:30pm, 9:15pm), Wed 10/4 (3:30pm, 6:30pm, 9:30pm)
+
+    * [Mean Girls](https://drafthouse.com/raleigh/show/mean-girls): Fri 9/29 (3:45pm), Mon 10/2 (3:30pm)
+
+    * [My Neighbor Totoro Subtitled](https://drafthouse.com/raleigh/show/my-neighbor-totoro-subtitled): Fri 9/29 (1:00pm)
+
+    * [Oppenheimer](https://drafthouse.com/raleigh/show/oppenheimer): Thu 9/28 (4:00pm)
+
+    * [Paw Patrol The Mighty Movie](https://drafthouse.com/raleigh/show/paw-patrol-the-mighty-movie): Fri 9/29 (11:15am, 11:45am, 2:30pm, 5:15pm, 6:00pm), Sat 9/30 (10:45am, 12:40pm, 3:00pm, 5:15pm, 6:00pm), Sun 10/1 (11:45am, 3:25pm, 4:25pm, 6:00pm), Mon 10/2 (11:55am, 2:45pm, 5:30pm, 6:15pm), Tue 10/3 (12:00pm, 2:45pm, 5:00pm, 5:45pm), Wed 10/4 (12:00pm, 12:45pm, 3:00pm, 6:00pm)
+
+    * [Saw X](https://drafthouse.com/raleigh/show/saw-x): Thu 9/28 (9:00pm), Fri 9/29 (12:15pm, 3:15pm, 9:15pm), Sat 9/30 (11:45am, 2:45pm, 9:15pm), Sun 10/1 (12:30pm, 3:30pm, 9:00pm), Mon 10/2 (11:50am, 2:55pm, 6:00pm, 9:15pm), Tue 10/3 (12:40pm, 3:40pm, 6:45pm, 9:45pm, 10:35pm), Wed 10/4 (12:00pm, 3:00pm, 6:45pm, 10:30pm)
+
+    * [Stop Making Sense](https://drafthouse.com/raleigh/show/stop-making-sense): Thu 9/28 (7:15pm, 8:10pm, 9:50pm), Fri 9/29 (12:00pm, 2:35pm, 5:25pm, 6:25pm, 8:00pm, 11:15pm), Sat 9/30 (12:15pm, 3:25pm, 5:15pm, 6:30pm, 8:00pm, 11:15pm), Sun 10/1 (1:30pm, 2:30pm, 5:05pm, 6:15pm, 7:40pm, 10:15pm), Mon 10/2 (12:40pm, 2:40pm, 5:15pm, 7:15pm, 9:45pm, 11:15pm), Tue 10/3 (12:30pm, 2:15pm, 4:50pm, 7:15pm, 8:00pm, 8:30pm, 10:45pm), Wed 10/4 (1:00pm, 2:00pm, 4:25pm, 8:45pm, 10:45pm)
+
+    * [The Creator](https://drafthouse.com/raleigh/show/the-creator): Thu 9/28 (10:45pm), Fri 9/29 (8:00pm), Sat 9/30 (8:00pm), Sun 10/1 (11:30am, 2:45pm, 6:15pm, 8:45pm, 9:45pm), Mon 10/2 (12:30pm, 3:45pm, 7:00pm, 8:00pm, 10:15pm), Tue 10/3 (11:30am, 2:45pm, 6:00pm, 7:30pm, 9:45pm), Wed 10/4 (12:45pm, 2:45pm, 6:15pm, 10:05pm)
+
+    * [The Equalizer 3](https://drafthouse.com/raleigh/show/the-equalizer-3): Thu 9/28 (1:45pm, 4:45pm, 7:45pm, 10:45pm), Fri 9/29 (12:45pm, 3:40pm), Sat 9/30 (12:40pm, 3:35pm), Sun 10/1 (12:45pm, 3:40pm), Mon 10/2 (12:40pm, 3:35pm), Tue 10/3 (12:40pm, 3:35pm), Wed 10/4 (1:15pm, 4:15pm, 9:45pm)
+
+    * [The Mummy Returns](https://drafthouse.com/raleigh/show/the-mummy-returns): Tue 10/3 (1:45pm)
+
+    * [The Nun 2](https://drafthouse.com/raleigh/show/the-nun-2): Thu 9/28 (10:15pm), Fri 9/29 (10:45pm), Sat 9/30 (10:45pm), Sun 10/1 (10:00pm), Mon 10/2 (8:15pm), Tue 10/3 (9:45pm), Wed 10/4 (9:45pm)
+
+    * [The Outlaw Johnny Black](https://drafthouse.com/raleigh/show/the-outlaw-johnny-black): Thu 9/28 (5:40pm)
+
+    * [The Shining](https://drafthouse.com/raleigh/show/the-shining): Fri 9/29 (9:00pm), Sat 9/30 (9:15pm), Sun 10/1 (1:30pm), Mon 10/2 (12:00pm)
+
 ### Sun 9/24 9:18pm
 * New movies: Killers of the Flower Moon
 
