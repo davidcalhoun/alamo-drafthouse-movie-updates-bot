@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 9/26 12:24pm
+* New movies: Hocus Pocus
+
+* New screenings: 
+    * [Hocus Pocus](https://drafthouse.com/raleigh/show/hocus-pocus): Fri 10/6 (12:45pm, 3:30pm, 6:15pm, 9:00pm), Sat 10/7 (12:45pm, 3:30pm, 6:15pm, 9:00pm), Sun 10/8 (12:45pm, 3:15pm, 6:00pm, 9:00pm), Mon 10/9 (12:30pm, 3:15pm, 9:00pm), Tue 10/10 (12:45pm, 3:30pm, 6:15pm, 9:00pm), Wed 10/11 (12:45pm, 3:30pm, 6:15pm, 9:00pm)
+
 ### Mon 9/25 7:18pm
 * New movies: PAW Patrol: The Mighty Movie, Mean Girls, My Neighbor Totoro Subtitled
 
