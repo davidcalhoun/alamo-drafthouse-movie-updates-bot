@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 9/26 3:13pm
+* New movies: Dicks: The Musical
+
+* New screenings: 
+    * [Advance Screening Dicks The Musical](https://drafthouse.com/los-angeles/show/advance-screening-dicks-the-musical): Wed 10/4 (8:00pm)
+
 ### Mon 9/25 6:07pm
 * New movies: Fremont
 
