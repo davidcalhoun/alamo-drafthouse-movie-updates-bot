@@ -1,6 +1,52 @@
 # los-angeles
 
 ## Movie updates
+### Mon 9/25 6:07pm
+* New movies: Fremont
+
+* New screenings: 
+    * [A Haunting In Venice](https://drafthouse.com/los-angeles/show/a-haunting-in-venice): Thu 9/28 (3:30pm, 6:30pm, 9:35pm), Fri 9/29 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 9/30 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sun 10/1 (12:35pm, 4:40pm, 8:00pm), Mon 10/2 (3:00pm, 6:00pm, 9:00pm), Tue 10/3 (12:00pm, 3:00pm, 6:00pm, 9:30pm), Wed 10/4 (2:15pm, 6:10pm, 9:15pm)
+
+    * [A I Artificial Intelligence](https://drafthouse.com/los-angeles/show/a-i-artificial-intelligence): Tue 10/3 (10:30pm)
+
+    * [Barbie](https://drafthouse.com/los-angeles/show/barbie): Thu 9/28 (3:10pm)
+
+    * [Barry Lyndon](https://drafthouse.com/los-angeles/show/barry-lyndon): Thu 9/28 (3:00pm)
+
+    * [Bottoms Creed Shinjidai Short](https://drafthouse.com/los-angeles/show/bottoms-creed-shinjidai-short): Thu 9/28 (5:00pm, 7:45pm, 10:30pm), Fri 9/29 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Sat 9/30 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Sun 10/1 (12:00pm, 3:00pm, 6:00pm), Mon 10/2 (2:30pm, 5:15pm, 8:00pm, 10:45pm), Tue 10/3 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Wed 10/4 (2:15pm, 5:00pm, 7:45pm, 10:30pm)
+
+    * [Brazil Directors Cut Triangle Of Sadness Double Feature](https://drafthouse.com/los-angeles/show/brazil-directors-cut-triangle-of-sadness-double-feature): Fri 9/29 (12:25pm)
+
+    * [Brunch Screenings My Neighbor Totoro Subtitled Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-my-neighbor-totoro-subtitled-brunch): Sun 10/1 (11:20am)
+
+    * [Dumb Money](https://drafthouse.com/los-angeles/show/dumb-money): Thu 9/28 (3:00pm), Wed 10/4 (4:15pm, 7:15pm, 10:15pm)
+
+    * [Expend4bles](https://drafthouse.com/los-angeles/show/expend4bles): Sun 10/1 (12:30pm, 3:35pm, 6:40pm)
+
+    * [Eyes Wide Shut](https://drafthouse.com/los-angeles/show/eyes-wide-shut): Mon 10/2 (9:00pm), Tue 10/3 (4:00pm)
+
+    * [Flora And Son](https://drafthouse.com/los-angeles/show/flora-and-son): Thu 9/28 (4:00pm), Fri 9/29 (4:10pm), Sat 9/30 (11:00am), Sun 10/1 (4:20pm), Mon 10/2 (2:10pm), Tue 10/3 (2:10pm), Wed 10/4 (10:45pm)
+
+    * [Fremont](https://drafthouse.com/los-angeles/show/fremont): Sat 9/30 (11:30am), Mon 10/2 (2:40pm), Tue 10/3 (11:25am)
+
+    * [Harry Potter And The Deathly Hallows Part 2](https://drafthouse.com/los-angeles/show/harry-potter-and-the-deathly-hallows-part-2): Thu 9/28 (3:15pm)
+
+    * [It Lives Inside](https://drafthouse.com/los-angeles/show/it-lives-inside): Thu 9/28 (4:20pm, 7:20pm, 10:20pm), Fri 9/29 (12:25pm, 3:25pm, 6:25pm, 9:25pm), Sat 9/30 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sun 10/1 (1:50pm, 5:00pm, 8:00pm), Mon 10/2 (3:30pm, 6:30pm, 9:30pm), Tue 10/3 (12:30pm, 3:25pm, 6:30pm, 10:15pm), Wed 10/4 (3:10pm, 6:45pm, 10:35pm)
+
+    * [Opera](https://drafthouse.com/los-angeles/show/opera): Mon 10/2 (10:40pm)
+
+    * [Saw X](https://drafthouse.com/los-angeles/show/saw-x): Thu 9/28 (7:15pm, 10:30pm), Fri 9/29 (12:45pm, 5:45pm, 9:35pm), Sat 9/30 (5:30pm, 8:45pm), Tue 10/3 (7:15pm, 9:00pm), Wed 10/4 (3:00pm, 4:15pm)
+
+    * [Stop Making Sense](https://drafthouse.com/los-angeles/show/stop-making-sense): Thu 9/28 (7:00pm, 9:50pm), Fri 9/29 (11:25am, 2:10pm, 5:00pm, 7:45pm), Sat 9/30 (11:25am, 2:10pm, 5:00pm, 7:45pm, 10:30pm), Sun 10/1 (11:00am, 1:40pm, 7:10pm), Mon 10/2 (2:00pm, 4:50pm, 7:45pm, 10:35pm), Tue 10/3 (11:15am, 2:00pm, 4:45pm, 7:30pm, 11:00pm), Wed 10/4 (2:20pm, 5:10pm, 8:00pm, 10:50pm)
+
+    * [The Creator](https://drafthouse.com/los-angeles/show/the-creator): Thu 9/28 (6:45pm, 10:15pm), Fri 9/29 (11:00am, 2:25pm, 7:00pm, 9:00pm), Sat 9/30 (2:25pm, 5:45pm, 9:15pm), Sun 10/1 (12:15pm, 1:35pm, 7:40pm), Mon 10/2 (5:30pm), Tue 10/3 (12:00pm, 3:35pm, 10:30pm), Wed 10/4 (2:45pm, 6:20pm, 10:00pm)
+
+    * [The Equalizer 3](https://drafthouse.com/los-angeles/show/the-equalizer-3): Thu 9/28 (4:10pm)
+
+    * [The Nun 2](https://drafthouse.com/los-angeles/show/the-nun-2): Thu 9/28 (3:10pm, 6:15pm, 9:20pm), Fri 9/29 (11:45am, 2:50pm, 6:00pm, 9:10pm), Sat 9/30 (11:45am, 2:50pm, 6:00pm, 9:10pm), Sun 10/1 (11:45am, 2:50pm, 6:00pm), Mon 10/2 (2:50pm, 6:00pm, 9:10pm), Tue 10/3 (11:45am, 2:50pm, 6:00pm, 9:10pm), Wed 10/4 (3:40pm, 7:30pm, 11:00pm)
+
+    * [The Shining](https://drafthouse.com/los-angeles/show/the-shining): Mon 10/2 (10:30pm), Tue 10/3 (12:15pm), Wed 10/4 (9:45pm)
+
 ### Sun 9/24 9:18pm
 * New movies: Killers of the Flower Moon
 
