@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 9/26 1:17pm
+* New movies: Hocus Pocus
+
+* New screenings: 
+    * [Costume Screening Hocus Pocus](https://drafthouse.com/raleigh/show/costume-screening-hocus-pocus): Mon 10/9 (6:00pm)
+
 ### Tue 9/26 12:24pm
 * New movies: Hocus Pocus
 
