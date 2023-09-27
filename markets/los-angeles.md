@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 9/27 12:12pm
+
+* New screenings: 
+    * [Advance Screening Dark Harvest Early Access Screening](https://drafthouse.com/los-angeles/show/advance-screening-dark-harvest-early-access-screening): Wed 10/11 (7:15pm)
+
 ### Wed 9/27 8:16am
 * New movies: Strange Way of Life, Strange Way of Life
 
