@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 9/27 8:16am
+* New movies: Strange Way of Life, Strange Way of Life
+
+* New screenings: 
+    * [Brunch Screenings Strange Way Of Life Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-strange-way-of-life-brunch): Sat 10/7 (11:30am), Sun 10/8 (11:30am)
+
+    * [Strange Way Of Life](https://drafthouse.com/los-angeles/show/strange-way-of-life): Thu 10/5 (7:45pm, 10:30pm), Fri 10/6 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sat 10/7 (2:15pm, 5:00pm, 7:45pm, 10:30pm), Sun 10/8 (2:15pm, 5:00pm, 7:45pm), Mon 10/9 (2:15pm, 5:00pm, 7:45pm, 10:30pm), Tue 10/10 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Wed 10/11 (2:15pm, 5:00pm, 7:45pm, 10:30pm)
+
 ### Tue 9/26 3:13pm
 * New movies: Dicks: The Musical
 
