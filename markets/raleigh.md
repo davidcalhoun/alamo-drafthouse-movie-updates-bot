@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 9/27 11:19am
+* New movies: Strange Way of Life
+
+* New screenings: 
+    * [Strange Way Of Life](https://drafthouse.com/raleigh/show/strange-way-of-life): Thu 10/5 (7:15pm, 9:50pm), Fri 10/6 (7:15pm, 9:50pm), Sat 10/7 (7:15pm, 9:50pm), Sun 10/8 (7:15pm, 9:50pm)
+
 ### Tue 9/26 1:17pm
 * New movies: Hocus Pocus
 
