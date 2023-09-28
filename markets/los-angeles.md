@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 9/28 4:14pm
+* New movies: Dicks: The Musical
+
+* New screenings: 
+    * [Dicks The Musical](https://drafthouse.com/los-angeles/show/dicks-the-musical): Fri 10/20 (11:40am, 3:35pm, 7:00pm, 10:45pm), Sat 10/21 (11:40am, 3:35pm, 7:00pm, 10:45pm), Sun 10/22 (12:00pm, 3:35pm, 7:30pm)
+
+    * [Killers Of The Flower Moon](https://drafthouse.com/los-angeles/show/killers-of-the-flower-moon): Fri 10/20 (9:40pm), Sat 10/21 (9:40pm)
+
 ### Thu 9/28 2:13pm
 * New movies: The Royal Hotel
 
