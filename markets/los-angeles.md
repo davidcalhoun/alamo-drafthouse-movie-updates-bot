@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 9/28 2:13pm
+* New movies: The Royal Hotel
+
+* New screenings: 
+    * [The Royal Hotel](https://drafthouse.com/los-angeles/show/the-royal-hotel): Thu 10/5 (7:15pm, 10:10pm), Fri 10/6 (11:40am, 2:25pm, 5:15pm, 8:00pm, 10:45pm), Sat 10/7 (11:40am, 2:25pm, 5:15pm, 8:00pm, 10:45pm), Sun 10/8 (11:40am, 2:25pm, 5:15pm, 8:00pm), Mon 10/9 (2:25pm, 5:15pm, 8:00pm, 10:45pm), Tue 10/10 (11:40am, 2:25pm, 5:15pm, 8:00pm, 10:45pm), Wed 10/11 (2:30pm, 5:15pm, 8:00pm, 10:45pm)
+
 ### Thu 9/28 8:16am
 
 * New screenings: 
