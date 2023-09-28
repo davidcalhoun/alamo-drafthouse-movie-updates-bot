@@ -1,6 +1,21 @@
 # los-angeles
 
 ## Movie updates
+### Thu 9/28 8:16am
+
+* New screenings: 
+    * [Eyes Wide Shut](https://drafthouse.com/los-angeles/show/eyes-wide-shut): Sat 9/30 (11:00am), Sun 10/1 (11:10am), Tue 10/3 (11:25am)
+
+    * [It Lives Inside](https://drafthouse.com/los-angeles/show/it-lives-inside): Fri 9/29 (12:30pm)
+
+    * [Stop Making Sense](https://drafthouse.com/los-angeles/show/stop-making-sense): Wed 10/4 (10:50pm)
+
+    * [The Creator](https://drafthouse.com/los-angeles/show/the-creator): Sat 9/30 (12:00pm)
+
+    * [The Mummy Returns](https://drafthouse.com/los-angeles/show/the-mummy-returns): Fri 9/29 (11:00am), Tue 10/3 (2:35pm)
+
+    * [The Shining](https://drafthouse.com/los-angeles/show/the-shining): Fri 9/29 (2:20pm), Sun 10/1 (3:10pm)
+
 ### Wed 9/27 12:12pm
 
 * New screenings: 
