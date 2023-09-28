@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 9/28 6:18pm
+* New movies: Dicks: The Musical
+
+* New screenings: 
+    * [Advance Screening Dicks The Musical](https://drafthouse.com/raleigh/show/advance-screening-dicks-the-musical): Tue 10/10 (7:30pm)
+
 ### Wed 9/27 11:19am
 * New movies: Strange Way of Life
 
