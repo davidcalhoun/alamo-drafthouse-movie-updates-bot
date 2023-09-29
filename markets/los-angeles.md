@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Thu 9/28 11:20pm
+
+* New screenings: 
+    * [Dicks The Musical](https://drafthouse.com/los-angeles/show/dicks-the-musical): Thu 10/12 (7:15pm, 10:00pm), Fri 10/13 (12:00pm, 2:40pm, 5:20pm, 8:00pm, 10:40pm), Sat 10/14 (12:00pm, 2:40pm, 5:20pm, 8:00pm, 10:40pm), Sun 10/15 (12:00pm, 2:40pm, 5:20pm, 8:00pm), Mon 10/16 (2:40pm, 5:20pm, 8:00pm, 10:40pm), Tue 10/17 (12:00pm, 2:40pm, 5:20pm, 8:00pm, 10:40pm), Wed 10/18 (2:40pm, 5:20pm, 8:00pm, 10:40pm), Thu 10/19 (3:20pm, 7:10pm, 10:40pm), Mon 10/23 (3:30pm, 7:15pm, 10:45pm), Tue 10/24 (11:40am, 3:35pm, 7:00pm, 10:50pm), Wed 10/25 (3:35pm, 7:00pm, 10:45pm)
+
+    * [Killers Of The Flower Moon](https://drafthouse.com/los-angeles/show/killers-of-the-flower-moon): Tue 10/24 (11:00am, 2:20pm, 6:15pm), Wed 10/25 (2:20pm, 6:10pm)
+
 ### Thu 9/28 4:14pm
 * New movies: Dicks: The Musical
 
