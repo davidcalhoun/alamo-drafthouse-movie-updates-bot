@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Sun 10/1 12:21am
+* New movies: Five Nights at Freddy's, Five Nights at Freddy's
+
+* New screenings: 
+    * [Advance Screening Five Nights At Freddys Fan Screaming](https://drafthouse.com/raleigh/show/advance-screening-five-nights-at-freddys-fan-screaming): Thu 10/26 (7:30pm)
+
+    * [Five Nights At Freddys](https://drafthouse.com/raleigh/show/five-nights-at-freddys): Thu 10/26 (10:30pm)
+
 ### Thu 9/28 6:18pm
 * New movies: Dicks: The Musical
 
