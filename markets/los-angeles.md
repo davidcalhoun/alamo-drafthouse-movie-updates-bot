@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Sat 9/30 9:17pm
+* New movies: Five Nights at Freddy's, Five Nights at Freddy's, Five Nights at Freddy's
+
+* New screenings: 
+    * [Advance Screening Five Nights At Freddys Fan Screaming](https://drafthouse.com/los-angeles/show/advance-screening-five-nights-at-freddys-fan-screaming): Thu 10/26 (6:30pm, 7:15pm)
+
+    * [Five Nights At Freddys](https://drafthouse.com/los-angeles/show/five-nights-at-freddys): Thu 10/26 (3:20pm, 9:40pm), Fri 10/27 (12:30pm, 3:35pm, 6:45pm, 9:50pm), Sat 10/28 (12:30pm, 3:35pm, 6:45pm, 9:50pm), Sun 10/29 (12:30pm, 3:35pm, 6:45pm), Mon 10/30 (3:40pm, 6:45pm, 9:50pm), Tue 10/31 (12:30pm, 3:35pm, 6:45pm, 9:50pm), Wed 11/1 (3:40pm, 6:45pm, 9:50pm)
+
+    * [Movie Party Five Nights At Freddys](https://drafthouse.com/los-angeles/show/movie-party-five-nights-at-freddys): Fri 10/27 (7:30pm)
+
 ### Thu 9/28 11:20pm
 
 * New screenings: 
