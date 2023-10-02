@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 10/2 6:19am
+* New movies: RENAISSANCE: A FILM BY BEYONCE
+
+* New screenings: 
+    * [Renaissance A Film By Beyonce](https://drafthouse.com/los-angeles/show/renaissance-a-film-by-beyonce): Thu 11/30 (7:00pm, 9:15pm), Fri 12/1 (12:00pm, 3:50pm, 6:00pm, 9:50pm), Sat 12/2 (12:00pm, 3:50pm, 6:00pm, 9:50pm), Sun 12/3 (12:00pm, 3:50pm, 6:00pm), Thu 12/7 (6:00pm), Fri 12/8 (6:00pm), Sat 12/9 (6:00pm), Sun 12/10 (6:00pm)
+
 ### Sat 9/30 9:17pm
 * New movies: Five Nights at Freddy's, Five Nights at Freddy's, Five Nights at Freddy's
 
