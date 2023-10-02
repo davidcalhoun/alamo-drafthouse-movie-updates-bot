@@ -1,6 +1,48 @@
 # los-angeles
 
 ## Movie updates
+### Mon 10/2 2:13pm
+* New movies: Bottoms, When Evil Lurks
+
+* New screenings: 
+    * [A Haunting In Venice](https://drafthouse.com/los-angeles/show/a-haunting-in-venice): Thu 10/5 (3:15pm, 6:15pm, 10:10pm), Fri 10/6 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sat 10/7 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sun 10/8 (12:15pm, 3:15pm, 6:15pm), Mon 10/9 (3:15pm, 6:15pm, 9:15pm), Tue 10/10 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Wed 10/11 (3:10pm, 6:10pm, 9:10pm)
+
+    * [Advance Screening Dark Harvest Early Access Screening](https://drafthouse.com/los-angeles/show/advance-screening-dark-harvest-early-access-screening): Wed 10/11 (7:30pm)
+
+    * [Bottoms](https://drafthouse.com/los-angeles/show/bottoms): Thu 10/5 (3:50pm, 6:40pm), Fri 10/6 (11:15am, 2:00pm, 4:45pm, 7:30pm), Sat 10/7 (11:15am, 2:00pm, 4:45pm, 7:30pm), Sun 10/8 (11:15am, 2:00pm, 4:45pm, 7:30pm), Mon 10/9 (2:00pm, 4:45pm, 7:30pm, 10:15pm), Tue 10/10 (11:15am, 2:00pm, 4:45pm, 7:30pm), Wed 10/11 (2:00pm, 4:45pm, 10:35pm)
+
+    * [Dumb Money](https://drafthouse.com/los-angeles/show/dumb-money): Thu 10/5 (3:00pm, 6:00pm, 9:30pm), Fri 10/6 (12:45pm, 3:45pm, 6:45pm, 9:50pm), Sat 10/7 (12:45pm, 3:45pm, 6:45pm, 9:50pm), Sun 10/8 (12:45pm, 3:45pm, 6:45pm), Mon 10/9 (3:45pm, 6:45pm, 9:50pm), Tue 10/10 (12:45pm, 3:45pm, 6:45pm, 9:50pm), Wed 10/11 (3:45pm, 6:45pm, 9:50pm)
+
+    * [Expend4bles](https://drafthouse.com/los-angeles/show/expend4bles): Thu 10/5 (3:45pm)
+
+    * [Fantastic Fest Presents Nowhere](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-nowhere): Fri 10/6 (7:30pm, 10:30pm), Sat 10/7 (6:15pm, 7:35pm)
+
+    * [It Lives Inside](https://drafthouse.com/los-angeles/show/it-lives-inside): Thu 10/5 (10:40pm), Fri 10/6 (10:15pm), Sat 10/7 (10:15pm), Tue 10/10 (10:15pm)
+
+    * [Mister Organ](https://drafthouse.com/los-angeles/show/mister-organ): Tue 10/10 (11:25am), Wed 10/11 (9:25pm)
+
+    * [Nowhere](https://drafthouse.com/los-angeles/show/nowhere): Fri 10/6 (11:15am), Sun 10/8 (11:25am), Mon 10/9 (1:45pm, 10:50pm), Tue 10/10 (11:15am), Wed 10/11 (10:00pm)
+
+    * [Opera](https://drafthouse.com/los-angeles/show/opera): Thu 10/5 (4:45pm), Tue 10/10 (2:40pm)
+
+    * [Sorcerer](https://drafthouse.com/los-angeles/show/sorcerer): Tue 10/10 (8:50pm)
+
+    * [Stop Making Sense](https://drafthouse.com/los-angeles/show/stop-making-sense): Thu 10/5 (4:30pm, 7:20pm, 10:00pm), Fri 10/6 (11:00am, 1:45pm, 4:30pm, 7:20pm, 10:00pm), Sat 10/7 (10:50am, 1:30pm, 4:15pm, 7:00pm, 9:40pm), Sun 10/8 (11:00am, 1:45pm, 4:30pm, 7:15pm), Mon 10/9 (1:45pm, 4:30pm, 7:15pm, 10:00pm), Tue 10/10 (11:00am, 1:45pm, 4:30pm, 7:20pm, 10:00pm), Wed 10/11 (1:45pm, 4:20pm, 7:00pm, 9:40pm)
+
+    * [Strange Way Of Life](https://drafthouse.com/los-angeles/show/strange-way-of-life): Thu 10/5 (9:15pm)
+
+    * [The Creator](https://drafthouse.com/los-angeles/show/the-creator): Sat 10/7 (9:15pm)
+
+    * [The Exorcist Believer](https://drafthouse.com/los-angeles/show/the-exorcist-believer): Thu 10/5 (5:00pm, 9:00pm, 10:30pm), Fri 10/6 (11:30am, 2:40pm, 5:45pm, 8:50pm), Sat 10/7 (11:30am, 2:40pm, 5:45pm, 8:50pm), Sun 10/8 (11:30am, 2:40pm, 5:45pm), Mon 10/9 (2:40pm), Tue 10/10 (5:45pm), Wed 10/11 (3:10pm)
+
+    * [The Nun 2](https://drafthouse.com/los-angeles/show/the-nun-2): Thu 10/5 (3:10pm)
+
+    * [The Shining](https://drafthouse.com/los-angeles/show/the-shining): Thu 10/5 (3:35pm, 10:00pm)
+
+    * [The Thing](https://drafthouse.com/los-angeles/show/the-thing): Mon 10/9 (5:50pm, 8:50pm), Tue 10/10 (11:30am, 10:00pm)
+
+    * [When Evil Lurks](https://drafthouse.com/los-angeles/show/when-evil-lurks): Fri 10/6 (1:00pm), Sat 10/7 (11:00am, 10:35pm), Sun 10/8 (2:00pm), Mon 10/9 (4:20pm), Tue 10/10 (2:10pm), Wed 10/11 (1:45pm)
+
 ### Mon 10/2 6:19am
 * New movies: RENAISSANCE: A FILM BY BEYONCE
 
