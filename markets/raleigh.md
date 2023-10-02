@@ -1,6 +1,54 @@
 # raleigh
 
 ## Movie updates
+### Mon 10/2 6:18pm
+* New movies: When Evil Lurks, My Neighbor Totoro Subtitled, Sleepy Hollow
+
+* New screenings: 
+    * [A Haunting In Venice](https://drafthouse.com/raleigh/show/a-haunting-in-venice): Thu 10/5 (1:30pm, 4:25pm, 7:30pm, 10:20pm), Fri 10/6 (1:45pm, 4:40pm, 7:30pm, 10:20pm), Sat 10/7 (1:45pm, 4:40pm, 7:30pm, 10:20pm), Sun 10/8 (1:45pm, 4:40pm, 7:30pm, 10:20pm), Mon 10/9 (1:45pm, 4:40pm, 7:30pm, 10:20pm), Tue 10/10 (1:45pm, 4:40pm, 7:30pm, 10:20pm), Wed 10/11 (1:40pm, 4:35pm, 7:25pm, 10:15pm)
+
+    * [Barbie](https://drafthouse.com/raleigh/show/barbie): Thu 10/5 (1:10pm)
+
+    * [Bottoms](https://drafthouse.com/raleigh/show/bottoms): Thu 10/5 (7:45pm)
+
+    * [Dracula 1931 Spanish](https://drafthouse.com/raleigh/show/dracula-1931-spanish): Sat 10/7 (4:30pm)
+
+    * [Dumb Money](https://drafthouse.com/raleigh/show/dumb-money): Thu 10/5 (12:55pm, 3:45pm, 6:40pm, 9:30pm), Fri 10/6 (2:00pm, 4:55pm, 8:00pm, 11:00pm), Sat 10/7 (2:00pm, 4:55pm, 8:00pm, 11:00pm), Sun 10/8 (2:00pm, 4:55pm, 7:45pm, 10:45pm), Mon 10/9 (12:15pm, 3:10pm, 6:15pm, 9:15pm), Tue 10/10 (1:00pm, 3:55pm, 7:00pm, 10:00pm), Wed 10/11 (2:00pm, 4:55pm, 7:50pm, 10:45pm)
+
+    * [Expend4bles](https://drafthouse.com/raleigh/show/expend4bles): Thu 10/5 (1:30pm, 3:50pm)
+
+    * [Hocus Pocus](https://drafthouse.com/raleigh/show/hocus-pocus): Fri 10/6 (1:45pm, 5:15pm), Sat 10/7 (1:45pm, 5:15pm), Sun 10/8 (5:15pm), Mon 10/9 (1:25pm, 4:40pm, 7:45pm), Tue 10/10 (1:15pm), Wed 10/11 (1:10pm)
+
+    * [It Lives Inside](https://drafthouse.com/raleigh/show/it-lives-inside): Thu 10/5 (1:00pm, 4:15pm)
+
+    * [My Neighbor Totoro Subtitled](https://drafthouse.com/raleigh/show/my-neighbor-totoro-subtitled): Thu 10/5 (5:10pm)
+
+    * [Opera](https://drafthouse.com/raleigh/show/opera): Sun 10/8 (9:30pm)
+
+    * [Paw Patrol The Mighty Movie](https://drafthouse.com/raleigh/show/paw-patrol-the-mighty-movie): Thu 10/5 (12:45pm, 2:15pm, 3:30pm, 4:15pm, 6:15pm), Fri 10/6 (11:45am, 2:30pm, 3:45pm, 6:45pm), Sat 10/7 (11:45am, 2:30pm, 3:45pm, 6:45pm), Sun 10/8 (11:45am, 2:30pm, 3:45pm, 6:30pm), Mon 10/9 (11:45am, 2:30pm, 3:45pm, 6:00pm), Tue 10/10 (11:45am, 2:30pm, 4:30pm, 6:00pm), Wed 10/11 (11:45am, 2:30pm, 3:35pm, 6:00pm)
+
+    * [Saw X](https://drafthouse.com/raleigh/show/saw-x): Thu 10/5 (12:30pm, 3:45pm, 6:35pm, 9:35pm), Fri 10/6 (1:30pm, 4:40pm, 7:45pm, 10:50pm), Sat 10/7 (1:30pm, 4:40pm, 7:45pm, 10:50pm), Sun 10/8 (1:30pm, 4:40pm, 7:45pm, 10:50pm), Mon 10/9 (1:15pm, 4:25pm, 7:30pm, 10:35pm), Tue 10/10 (1:25pm, 4:30pm, 7:35pm, 10:05pm), Wed 10/11 (1:30pm, 4:40pm, 7:45pm, 10:25pm)
+
+    * [Sleepy Hollow](https://drafthouse.com/raleigh/show/sleepy-hollow): Tue 10/10 (4:10pm)
+
+    * [Stop Making Sense](https://drafthouse.com/raleigh/show/stop-making-sense): Thu 10/5 (7:10pm, 9:45pm), Fri 10/6 (6:30pm, 9:45pm), Sat 10/7 (6:30pm, 9:45pm), Sun 10/8 (5:15pm, 8:00pm), Mon 10/9 (5:15pm, 8:00pm), Tue 10/10 (5:15pm, 8:00pm), Wed 10/11 (8:10pm, 11:20pm)
+
+    * [Strange Way Of Life](https://drafthouse.com/raleigh/show/strange-way-of-life): Fri 10/6 (1:30pm, 4:15pm), Sat 10/7 (1:30pm, 4:15pm), Sun 10/8 (1:30pm, 4:15pm), Mon 10/9 (1:30pm, 4:15pm, 7:15pm, 9:50pm), Tue 10/10 (1:30pm, 4:15pm, 7:15pm, 9:50pm), Wed 10/11 (1:30pm, 4:15pm, 7:15pm, 9:50pm)
+
+    * [The Creator](https://drafthouse.com/raleigh/show/the-creator): Thu 10/5 (11:30am, 1:45pm, 2:45pm, 6:00pm, 9:15pm), Fri 10/6 (12:15pm, 3:15pm, 6:00pm, 9:25pm), Sat 10/7 (12:15pm, 3:15pm, 6:00pm, 9:25pm), Sun 10/8 (1:15pm, 4:45pm, 6:00pm, 9:25pm), Mon 10/9 (12:00pm, 1:10pm, 4:10pm, 7:40pm, 9:25pm), Tue 10/10 (12:00pm, 3:25pm, 7:15pm, 9:25pm), Wed 10/11 (12:15pm, 1:35pm, 4:10pm, 8:00pm, 9:25pm)
+
+    * [The Equalizer 3](https://drafthouse.com/raleigh/show/the-equalizer-3): Thu 10/5 (12:55pm, 4:30pm)
+
+    * [The Exorcist Believer](https://drafthouse.com/raleigh/show/the-exorcist-believer): Thu 10/5 (5:00pm, 7:45pm, 8:00pm, 10:30pm, 10:50pm), Fri 10/6 (1:00pm, 3:00pm, 4:00pm, 7:30pm, 10:30pm), Sat 10/7 (1:00pm, 3:00pm, 4:00pm, 7:30pm, 10:30pm), Sun 10/8 (1:00pm, 3:00pm, 4:00pm, 8:00pm, 11:00pm), Mon 10/9 (1:00pm, 3:00pm, 4:00pm, 7:00pm, 10:00pm, 10:30pm), Tue 10/10 (1:00pm, 1:35pm, 3:00pm, 4:00pm, 6:45pm, 10:00pm, 10:50pm), Wed 10/11 (1:00pm, 3:00pm, 4:00pm, 5:05pm, 6:30pm, 7:30pm, 10:00pm, 10:50pm)
+
+    * [The Nun 2](https://drafthouse.com/raleigh/show/the-nun-2): Thu 10/5 (10:55pm)
+
+    * [The Shining](https://drafthouse.com/raleigh/show/the-shining): Thu 10/5 (9:00pm)
+
+    * [The Thing](https://drafthouse.com/raleigh/show/the-thing): Fri 10/6 (8:00pm), Sun 10/8 (8:15pm, 11:15pm), Tue 10/10 (10:35pm), Wed 10/11 (5:15pm)
+
+    * [When Evil Lurks](https://drafthouse.com/raleigh/show/when-evil-lurks): Fri 10/6 (10:55pm), Sat 10/7 (8:00pm, 10:45pm), Sun 10/8 (10:45pm), Mon 10/9 (10:45pm), Tue 10/10 (10:45pm), Wed 10/11 (10:45pm)
+
 ### Mon 10/2 9:22am
 * New movies: RENAISSANCE: A FILM BY BEYONCE
 
