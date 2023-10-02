@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 10/2 9:22am
+* New movies: RENAISSANCE: A FILM BY BEYONCE
+
+
+
 ### Mon 10/2 8:36am
 * New movies: RENAISSANCE: A FILM BY BEYONCE
 
