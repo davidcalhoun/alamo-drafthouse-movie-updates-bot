@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 10/2 8:36am
+* New movies: RENAISSANCE: A FILM BY BEYONCE
+
+* New screenings: 
+    * [Renaissance A Film By Beyonc](https://drafthouse.com/raleigh/show/renaissance-a-film-by-beyonc): Thu 11/30 (7:00pm, 9:30pm), Fri 12/1 (6:00pm, 9:45pm), Sat 12/2 (6:00pm, 9:45pm), Sun 12/3 (6:00pm, 9:45pm), Thu 12/7 (6:00pm, 9:45pm), Fri 12/8 (6:00pm, 9:45pm), Sat 12/9 (6:00pm, 9:45pm), Sun 12/10 (6:00pm, 9:45pm)
+
 ### Sun 10/1 12:21am
 * New movies: Five Nights at Freddy's, Five Nights at Freddy's
 
