@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 10/3 5:16pm
+* New movies: Dicks: The Musical
+
+* New screenings: 
+    * [Dicks The Musical](https://drafthouse.com/raleigh/show/dicks-the-musical): Thu 10/19 (7:00pm, 9:30pm), Fri 10/20 (11:00am, 1:30pm, 4:00pm, 6:30pm, 9:00pm), Sat 10/21 (11:00am, 1:30pm, 4:00pm, 6:30pm, 9:00pm), Sun 10/22 (11:00am, 1:30pm, 4:00pm, 6:30pm, 9:00pm)
+
 ### Mon 10/2 6:18pm
 * New movies: When Evil Lurks, My Neighbor Totoro Subtitled, Sleepy Hollow
 
