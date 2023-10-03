@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 10/3 9:20am
+* New movies: The Exorcist: Believer
+
+* New screenings: 
+    * [Special Event The Exorcist Believer Peacock X Tinder Event](https://drafthouse.com/los-angeles/show/special-event-the-exorcist-believer-peacock-x-tinder-event): Fri 10/13 (8:00pm, 8:00pm)
+
 ### Mon 10/2 2:13pm
 * New movies: Bottoms, When Evil Lurks
 
