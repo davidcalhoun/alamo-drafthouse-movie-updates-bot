@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/4 11:20am
+
+* New screenings: 
+    * [Killers Of The Flower Moon](https://drafthouse.com/los-angeles/show/killers-of-the-flower-moon): Fri 10/20 (12:00pm, 4:35pm, 9:15pm), Sat 10/21 (12:00pm, 4:35pm, 9:15pm), Mon 10/23 (2:00pm, 9:00pm), Tue 10/24 (1:15pm, 9:00pm)
+
 ### Tue 10/3 9:20am
 * New movies: The Exorcist: Believer
 
