@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/4 1:16pm
+
+* New screenings: 
+    * [Bottoms Creed Shinjidai Short](https://drafthouse.com/los-angeles/show/bottoms-creed-shinjidai-short): Wed 10/4 (7:45pm, 10:30pm)
+
 ### Wed 10/4 11:20am
 
 * New screenings: 
