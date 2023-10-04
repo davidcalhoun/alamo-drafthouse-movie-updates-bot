@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Wed 10/4 2:25pm
+
+* New screenings: 
+    * [Five Nights At Freddys](https://drafthouse.com/raleigh/show/five-nights-at-freddys): Fri 10/27 (7:45pm), Sat 10/28 (6:45pm), Sun 10/29 (6:45pm)
+
 ### Tue 10/3 5:16pm
 * New movies: Dicks: The Musical
 
