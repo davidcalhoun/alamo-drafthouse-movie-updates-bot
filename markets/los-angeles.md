@@ -1,6 +1,15 @@
 # los-angeles
 
 ## Movie updates
+### Thu 10/5 11:20am
+
+* New screenings: 
+    * [Anatomy Of A Fall](https://drafthouse.com/los-angeles/show/anatomy-of-a-fall): Thu 10/26 (3:00pm, 6:45pm, 10:30pm), Fri 10/27 (11:00am, 2:45pm, 6:30pm, 10:15pm), Sat 10/28 (11:00am, 2:45pm, 6:30pm, 10:15pm), Sun 10/29 (11:00am, 2:45pm, 6:30pm), Mon 10/30 (2:45pm, 6:30pm, 10:15pm), Tue 10/31 (11:00am, 2:45pm, 6:30pm, 10:15pm), Wed 11/1 (2:45pm, 6:30pm, 10:15pm)
+
+    * [Mister Organ](https://drafthouse.com/los-angeles/show/mister-organ): Sun 10/8 (2:00pm)
+
+    * [The Exorcist Believer](https://drafthouse.com/los-angeles/show/the-exorcist-believer): Fri 10/6 (10:15pm), Sat 10/7 (10:15pm), Sun 10/8 (7:30pm)
+
 ### Thu 10/5 8:16am
 * New movies: Anatomy of a Fall
 
