@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 10/5 8:16am
+* New movies: Anatomy of a Fall
+
+* New screenings: 
+    * [Anatomy Of A Fall](https://drafthouse.com/los-angeles/show/anatomy-of-a-fall): Thu 10/19 (7:00pm, 10:35pm), Fri 10/20 (11:15am, 3:00pm, 6:45pm, 10:30pm), Sat 10/21 (11:15am, 3:00pm, 6:45pm, 10:30pm), Sun 10/22 (11:15am, 3:00pm, 6:45pm), Mon 10/23 (2:15pm, 6:45pm, 10:30pm), Tue 10/24 (11:15am, 3:00pm, 6:45pm, 10:30pm), Wed 10/25 (3:00pm, 6:45pm, 10:30pm)
+
 ### Wed 10/4 1:16pm
 
 * New screenings: 
