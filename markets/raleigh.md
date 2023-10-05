@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 10/5 11:20am
+* New movies: Anatomy of a Fall
+
+* New screenings: 
+    * [Anatomy Of A Fall](https://drafthouse.com/raleigh/show/anatomy-of-a-fall): Thu 10/26 (7:00pm), Fri 10/27 (6:45pm), Sat 10/28 (7:15pm), Sun 10/29 (6:30pm)
+
 ### Wed 10/4 2:25pm
 
 * New screenings: 
