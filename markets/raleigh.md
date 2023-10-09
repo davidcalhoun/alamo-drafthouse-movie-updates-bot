@@ -1,6 +1,56 @@
 # raleigh
 
 ## Movie updates
+### Mon 10/9 7:17pm
+* New movies: Mister Organ, The Others, Poltergeist 1982, The Lost Boys
+
+* New screenings: 
+    * [A Haunting In Venice](https://drafthouse.com/raleigh/show/a-haunting-in-venice): Thu 10/12 (12:15pm, 3:05pm, 6:15pm, 9:15pm), Fri 10/13 (3:15pm), Sat 10/14 (12:45pm), Sun 10/15 (10:45pm), Mon 10/16 (12:45pm, 4:15pm, 9:35pm), Tue 10/17 (4:15pm, 10:45pm), Wed 10/18 (4:15pm, 10:35pm)
+
+    * [Cruising](https://drafthouse.com/raleigh/show/cruising): Tue 10/17 (7:00pm), Wed 10/18 (12:45pm, 10:15pm)
+
+    * [Dumb Money](https://drafthouse.com/raleigh/show/dumb-money): Thu 10/12 (12:30pm, 3:30pm, 6:30pm, 9:45pm), Fri 10/13 (12:30pm), Sat 10/14 (3:35pm), Sun 10/15 (3:35pm), Mon 10/16 (1:15pm, 3:45pm), Tue 10/17 (1:15pm, 2:15pm), Wed 10/18 (2:15pm)
+
+    * [Friday The 13th Part Iv The Final Chapter](https://drafthouse.com/raleigh/show/friday-the-13th-part-iv-the-final-chapter): Fri 10/13 (7:30pm), Sun 10/15 (11:00pm), Mon 10/16 (1:00pm), Tue 10/17 (7:30pm), Wed 10/18 (8:00pm, 10:20pm)
+
+    * [Ghostbusters 1984](https://drafthouse.com/raleigh/show/ghostbusters-1984): Sat 10/14 (12:00pm), Sun 10/15 (6:10pm), Mon 10/16 (7:30pm, 9:30pm), Tue 10/17 (7:55pm), Wed 10/18 (6:00pm)
+
+    * [Hocus Pocus](https://drafthouse.com/raleigh/show/hocus-pocus): Thu 10/12 (12:40pm, 3:45pm, 6:45pm, 9:45pm), Fri 10/13 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sat 10/14 (11:30am, 2:30pm, 5:30pm, 8:15pm, 11:00pm), Sun 10/15 (11:45am, 2:30pm, 5:15pm, 8:00pm, 9:00pm), Mon 10/16 (12:15pm, 3:15pm, 6:00pm, 9:00pm), Tue 10/17 (12:15pm, 3:15pm, 6:00pm, 9:00pm), Wed 10/18 (1:00pm, 3:45pm, 6:30pm, 9:15pm)
+
+    * [Little Shop Of Horrors](https://drafthouse.com/raleigh/show/little-shop-of-horrors): Fri 10/13 (12:00pm, 2:30pm), Sat 10/14 (10:15pm), Mon 10/16 (12:30pm, 4:15pm, 6:30pm), Tue 10/17 (2:00pm, 9:45pm), Wed 10/18 (8:30pm, 11:05pm)
+
+    * [Mister Organ](https://drafthouse.com/raleigh/show/mister-organ): Fri 10/13 (6:45pm, 9:30pm), Sat 10/14 (10:30pm), Sun 10/15 (10:30pm), Mon 10/16 (11:00pm), Tue 10/17 (9:15pm), Wed 10/18 (10:15pm)
+
+    * [Paw Patrol The Mighty Movie](https://drafthouse.com/raleigh/show/paw-patrol-the-mighty-movie): Thu 10/12 (1:00pm, 2:00pm, 4:00pm, 5:00pm, 7:15pm), Fri 10/13 (11:00am, 12:45pm, 1:50pm, 4:45pm, 6:30pm), Sat 10/14 (11:15am, 2:05pm, 4:50pm, 7:45pm), Sun 10/15 (11:15am, 2:05pm, 4:50pm, 7:45pm), Mon 10/16 (11:45am, 2:35pm, 5:20pm, 8:15pm), Tue 10/17 (11:45am, 2:35pm, 5:20pm, 8:15pm), Wed 10/18 (1:15pm, 2:30pm, 4:30pm, 7:30pm)
+
+    * [Poltergeist](https://drafthouse.com/raleigh/show/poltergeist): Sat 10/14 (7:15pm), Mon 10/16 (6:35pm), Tue 10/17 (6:30pm)
+
+    * [Psycho 1960](https://drafthouse.com/raleigh/show/psycho-1960): Thu 10/12 (11:00am, 4:15pm), Fri 10/13 (1:45pm), Sun 10/15 (5:30pm), Tue 10/17 (12:20pm), Wed 10/18 (1:15pm, 1:30pm, 3:05pm)
+
+    * [Saw X](https://drafthouse.com/raleigh/show/saw-x): Thu 10/12 (11:45am, 3:00pm, 6:20pm, 9:30pm), Fri 10/13 (1:10pm, 4:15pm, 7:45pm, 11:15pm), Sat 10/14 (12:00pm, 3:05pm, 6:15pm, 9:30pm), Sun 10/15 (12:00pm, 3:05pm, 6:25pm, 9:30pm), Mon 10/16 (12:45pm, 4:05pm, 7:15pm, 10:30pm), Tue 10/17 (1:00pm, 4:10pm, 7:15pm, 10:30pm), Wed 10/18 (11:45am, 3:10pm, 6:15pm, 9:30pm)
+
+    * [Sorcerer](https://drafthouse.com/raleigh/show/sorcerer): Thu 10/12 (12:45pm, 7:20pm), Sun 10/15 (12:30pm), Mon 10/16 (6:15pm), Tue 10/17 (1:20pm, 3:15pm), Wed 10/18 (5:15pm, 7:10pm)
+
+    * [Stop Making Sense](https://drafthouse.com/raleigh/show/stop-making-sense): Fri 10/13 (4:45pm), Sat 10/14 (12:15pm), Sun 10/15 (12:15pm), Mon 10/16 (1:30pm, 2:00pm), Tue 10/17 (12:35pm, 4:25pm), Wed 10/18 (12:30pm, 4:25pm)
+
+    * [Strange Way Of Life](https://drafthouse.com/raleigh/show/strange-way-of-life): Thu 10/12 (1:30pm, 4:30pm, 7:30pm, 10:20pm), Fri 10/13 (11:50am, 3:45pm), Sat 10/14 (2:50pm), Sun 10/15 (2:50pm), Mon 10/16 (3:45pm), Tue 10/17 (3:20pm, 4:45pm), Wed 10/18 (3:45pm)
+
+    * [Taylor Swift The Eras Tour](https://drafthouse.com/raleigh/show/taylor-swift-the-eras-tour): Fri 10/13 (6:15pm, 7:00pm, 8:00pm, 9:15pm, 10:45pm), Sat 10/14 (1:00pm, 3:00pm, 5:00pm, 6:30pm, 7:00pm, 8:15pm, 9:00pm), Sun 10/15 (11:00am, 3:00pm, 6:30pm, 6:55pm, 8:30pm)
+
+    * [The Creator](https://drafthouse.com/raleigh/show/the-creator): Thu 10/12 (12:00pm, 3:30pm, 7:00pm, 8:00pm, 10:30pm), Fri 10/13 (12:30pm, 3:55pm, 7:15pm, 10:45pm), Sat 10/14 (12:45pm, 4:05pm, 7:25pm, 10:45pm), Sun 10/15 (12:15pm, 3:35pm, 6:05pm, 9:35pm), Mon 10/16 (12:00pm, 3:25pm, 6:45pm, 10:05pm), Tue 10/17 (12:00pm, 3:25pm, 6:45pm, 10:05pm), Wed 10/18 (12:00pm, 3:25pm, 6:45pm, 10:05pm)
+
+    * [The Exorcist Believer](https://drafthouse.com/raleigh/show/the-exorcist-believer): Thu 10/12 (11:30am, 1:45pm, 2:45pm, 4:45pm, 6:00pm, 7:45pm, 9:00pm, 10:45pm), Fri 10/13 (1:00pm, 4:00pm, 5:05pm, 7:40pm, 11:00pm), Sat 10/14 (12:25pm, 3:30pm, 6:45pm, 10:00pm, 10:45pm), Sun 10/15 (12:25pm, 3:30pm, 6:40pm, 9:45pm, 10:30pm), Mon 10/16 (12:00pm, 3:05pm, 6:00pm, 9:05pm), Tue 10/17 (12:45pm, 3:50pm, 6:45pm, 9:50pm), Wed 10/18 (12:45pm, 3:50pm, 6:45pm, 9:50pm)
+
+    * [The Lost Boys](https://drafthouse.com/raleigh/show/the-lost-boys): Mon 10/16 (10:00pm), Tue 10/17 (6:15pm)
+
+    * [The Others](https://drafthouse.com/raleigh/show/the-others): Fri 10/13 (12:25pm, 3:30pm), Sat 10/14 (5:25pm), Mon 10/16 (4:40pm), Tue 10/17 (5:05pm, 10:00pm), Wed 10/18 (5:05pm)
+
+    * [The Thing](https://drafthouse.com/raleigh/show/the-thing): Fri 10/13 (2:45pm, 10:15pm), Sat 10/14 (11:15pm), Sun 10/15 (9:45pm), Mon 10/16 (3:05pm, 7:05pm, 9:05pm), Tue 10/17 (10:15pm), Wed 10/18 (7:15pm, 9:00pm)
+
+    * [When Evil Lurks](https://drafthouse.com/raleigh/show/when-evil-lurks): Thu 10/12 (10:15pm)
+
+    * [World Of Tomorrow Trilogy](https://drafthouse.com/raleigh/show/world-of-tomorrow-trilogy): Mon 10/16 (10:20pm), Tue 10/17 (7:10pm)
+
 ### Thu 10/5 11:20am
 * New movies: Anatomy of a Fall
 
