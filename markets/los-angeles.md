@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 10/9 1:20am
+
+* New screenings: 
+    * [Killers Of The Flower Moon](https://drafthouse.com/los-angeles/show/killers-of-the-flower-moon): Thu 10/19 (4:40pm, 9:15pm)
+
 ### Thu 10/5 3:14pm
 
 * New screenings: 
