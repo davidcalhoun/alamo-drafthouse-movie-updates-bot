@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 10/10 9:23am
+* New movies: The Marvels
+
+* New screenings: 
+    * [The Marvels](https://drafthouse.com/raleigh/show/the-marvels): Thu 11/9 (3:00pm, 6:30pm, 9:20pm), Fri 11/10 (11:45am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Sat 11/11 (11:45am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Sun 11/12 (11:45am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Mon 11/13 (11:45am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Tue 11/14 (11:45am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Wed 11/15 (11:45am, 1:50pm, 4:40pm, 7:30pm, 10:20pm)
+
 ### Mon 10/9 7:17pm
 * New movies: Mister Organ, The Others, Poltergeist 1982, The Lost Boys
 
