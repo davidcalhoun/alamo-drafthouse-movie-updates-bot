@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 10/10 6:19am
+* New movies: The Marvels, The Marvels
+
+* New screenings: 
+    * [Brunch Screenings The Marvels Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-the-marvels-brunch): Sat 11/11 (10:45am), Sun 11/12 (10:45am), Sat 11/18 (12:00pm), Sun 11/19 (12:00pm)
+
+    * [The Marvels](https://drafthouse.com/los-angeles/show/the-marvels): Thu 11/9 (3:00pm, 4:15pm, 6:00pm, 7:15pm, 9:00pm, 10:15pm), Fri 11/10 (10:45am, 12:00pm, 1:45pm, 3:00pm, 4:45pm, 6:00pm, 7:45pm, 9:00pm, 10:45pm), Sat 11/11 (12:00pm, 1:45pm, 3:00pm, 4:45pm, 6:00pm, 7:45pm, 9:00pm, 10:45pm), Sun 11/12 (12:00pm, 1:45pm, 3:00pm, 4:45pm, 6:00pm, 7:45pm, 9:00pm, 10:45pm), Mon 11/13 (11:45am, 1:00pm, 2:45pm, 4:00pm, 5:45pm, 7:00pm, 8:45pm, 10:00pm), Tue 11/14 (11:45am, 1:00pm, 2:45pm, 4:00pm, 5:45pm, 7:00pm, 8:45pm, 10:00pm), Wed 11/15 (11:45am, 1:00pm, 2:45pm, 4:00pm, 5:45pm, 7:00pm, 8:45pm, 10:00pm), Thu 11/16 (3:00pm, 6:00pm, 9:00pm), Fri 11/17 (12:00pm, 6:00pm, 9:00pm), Sat 11/18 (6:00pm, 9:00pm), Sun 11/19 (6:00pm, 9:00pm), Mon 11/20 (12:00pm, 6:00pm, 9:00pm), Tue 11/21 (12:00pm, 6:00pm, 9:00pm), Wed 11/22 (12:00pm, 6:00pm, 9:00pm)
+
 ### Mon 10/9 6:07pm
 * New movies: Cat Person, Strange Way of Life
 
