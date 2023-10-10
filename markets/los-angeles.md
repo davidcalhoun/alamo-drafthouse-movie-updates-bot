@@ -1,6 +1,66 @@
 # los-angeles
 
 ## Movie updates
+### Mon 10/9 6:07pm
+* New movies: Cat Person, Strange Way of Life
+
+* New screenings: 
+    * [A Haunting In Venice](https://drafthouse.com/los-angeles/show/a-haunting-in-venice): Thu 10/12 (3:00pm, 9:15pm), Fri 10/13 (1:45pm, 3:45pm), Sat 10/14 (10:45am), Sun 10/15 (1:45pm), Mon 10/16 (3:45pm, 6:00pm, 10:00pm), Tue 10/17 (11:25am, 3:20pm, 6:00pm, 10:30pm), Wed 10/18 (2:10pm, 5:05pm, 10:45pm)
+
+    * [Bottoms](https://drafthouse.com/los-angeles/show/bottoms): Thu 10/12 (10:45pm), Mon 10/16 (6:15pm, 10:15pm), Tue 10/17 (2:15pm, 5:00pm), Wed 10/18 (3:30pm, 6:45pm, 10:05pm)
+
+    * [Brunch Screenings Strange Way Of Life Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-strange-way-of-life-brunch): Sat 10/14 (11:10am), Sun 10/15 (11:10am)
+
+    * [Brunch Screenings The Others Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-the-others-brunch): Sun 10/15 (10:45am)
+
+    * [Cat Person](https://drafthouse.com/los-angeles/show/cat-person): Thu 10/12 (5:00pm, 7:00pm, 10:15pm), Fri 10/13 (1:00pm, 4:15pm, 6:45pm, 10:45pm), Sat 10/14 (12:30pm, 3:45pm, 7:10pm, 10:30pm), Sun 10/15 (12:45pm, 4:00pm, 7:30pm), Mon 10/16 (2:45pm, 6:00pm, 9:15pm), Tue 10/17 (12:40pm, 4:00pm, 7:15pm, 10:30pm), Wed 10/18 (2:45pm, 6:00pm, 9:15pm)
+
+    * [Cruising](https://drafthouse.com/los-angeles/show/cruising): Tue 10/17 (6:20pm)
+
+    * [Dicks The Musical](https://drafthouse.com/los-angeles/show/dicks-the-musical): Thu 10/12 (8:00pm, 8:30pm, 10:40pm), Fri 10/13 (5:45pm), Sat 10/14 (1:35pm, 4:00pm, 6:45pm), Sun 10/15 (4:50pm, 7:00pm), Tue 10/17 (7:45pm)
+
+    * [Dumb Money](https://drafthouse.com/los-angeles/show/dumb-money): Thu 10/12 (3:40pm, 9:25pm), Fri 10/13 (4:45pm), Mon 10/16 (4:00pm, 7:00pm), Tue 10/17 (12:00pm, 3:00pm, 9:15pm), Wed 10/18 (4:00pm, 9:45pm)
+
+    * [Frankenstein 1931 The Invisible Man 1933](https://drafthouse.com/los-angeles/show/frankenstein-1931-the-invisible-man-1933): Thu 10/12 (3:15pm)
+
+    * [Friday The 13th Part Iv The Final Chapter](https://drafthouse.com/los-angeles/show/friday-the-13th-part-iv-the-final-chapter): Fri 10/13 (11:00pm)
+
+    * [Get Out Society Double Feature](https://drafthouse.com/los-angeles/show/get-out-society-double-feature): Fri 10/13 (11:15am), Tue 10/17 (11:45am)
+
+    * [Ghostbusters 1984](https://drafthouse.com/los-angeles/show/ghostbusters-1984): Fri 10/13 (11:00am, 4:30pm)
+
+    * [Mister Organ](https://drafthouse.com/los-angeles/show/mister-organ): Mon 10/16 (3:10pm), Tue 10/17 (12:30pm), Wed 10/18 (2:10pm)
+
+    * [Nowhere](https://drafthouse.com/los-angeles/show/nowhere): Thu 10/12 (8:15pm)
+
+    * [Poltergeist](https://drafthouse.com/los-angeles/show/poltergeist): Sat 10/14 (9:25pm), Mon 10/16 (2:30pm), Tue 10/17 (2:25pm, 10:25pm), Wed 10/18 (9:00pm, 10:25pm)
+
+    * [Psycho 1960](https://drafthouse.com/los-angeles/show/psycho-1960): Fri 10/13 (1:20pm), Mon 10/16 (5:45pm, 10:20pm), Tue 10/17 (8:45pm)
+
+    * [Saw X](https://drafthouse.com/los-angeles/show/saw-x): Thu 10/12 (4:00pm, 7:15pm, 10:25pm), Fri 10/13 (12:40pm, 4:00pm, 7:15pm, 10:30pm), Sat 10/14 (12:45pm, 4:00pm, 7:15pm, 10:25pm), Sun 10/15 (11:30am, 3:20pm, 6:15pm), Mon 10/16 (4:00pm, 7:15pm, 10:25pm), Tue 10/17 (12:30pm, 3:45pm, 7:00pm, 10:10pm), Wed 10/18 (4:10pm, 7:15pm, 10:25pm)
+
+    * [Sorcerer](https://drafthouse.com/los-angeles/show/sorcerer): Thu 10/12 (6:00pm)
+
+    * [Stop Making Sense](https://drafthouse.com/los-angeles/show/stop-making-sense): Thu 10/12 (3:10pm, 6:45pm), Fri 10/13 (12:25pm, 3:10pm, 7:00pm), Sat 10/14 (11:00am, 7:00pm), Sun 10/15 (11:00am, 1:30pm, 8:00pm), Mon 10/16 (2:20pm, 7:45pm), Tue 10/17 (1:20pm, 6:45pm), Wed 10/18 (2:20pm, 7:45pm)
+
+    * [Strange Way Of Life](https://drafthouse.com/los-angeles/show/strange-way-of-life): Thu 10/12 (4:45pm, 6:40pm, 10:35pm), Fri 10/13 (11:00am, 2:00pm, 4:45pm, 7:30pm, 10:20pm), Sat 10/14 (2:00pm, 4:45pm, 7:30pm, 10:15pm), Sun 10/15 (1:40pm, 4:25pm, 7:10pm), Mon 10/16 (4:35pm, 7:30pm, 10:15pm), Tue 10/17 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:20pm), Wed 10/18 (4:25pm, 7:25pm, 10:10pm)
+
+    * [Taylor Swift The Eras Tour](https://drafthouse.com/los-angeles/show/taylor-swift-the-eras-tour): Fri 10/13 (8:30pm), Sat 10/14 (12:20pm, 4:30pm, 8:40pm), Sun 10/15 (11:30am, 3:45pm, 5:10pm)
+
+    * [The Creator](https://drafthouse.com/los-angeles/show/the-creator): Thu 10/12 (4:30pm, 6:00pm, 9:30pm), Fri 10/13 (11:25am, 2:50pm, 6:15pm, 9:45pm), Sat 10/14 (11:20am, 2:50pm, 6:15pm, 9:45pm), Sun 10/15 (11:50am, 2:45pm, 6:30pm), Mon 10/16 (2:50pm, 6:45pm, 9:05pm), Tue 10/17 (11:15am, 2:45pm, 6:10pm, 9:45pm), Wed 10/18 (3:15pm, 6:15pm, 9:30pm)
+
+    * [The Exorcist Believer](https://drafthouse.com/los-angeles/show/the-exorcist-believer): Thu 10/12 (3:25pm, 7:30pm), Mon 10/16 (9:00pm), Tue 10/17 (5:35pm, 9:00pm), Wed 10/18 (7:00pm)
+
+    * [The Others](https://drafthouse.com/los-angeles/show/the-others): Fri 10/13 (12:45pm), Tue 10/17 (11:25am)
+
+    * [The Royal Hotel](https://drafthouse.com/los-angeles/show/the-royal-hotel): Thu 10/12 (4:30pm), Fri 10/13 (4:10pm, 9:50pm), Sat 10/14 (4:15pm, 10:00pm), Sun 10/15 (10:45am, 4:15pm), Mon 10/16 (5:00pm, 10:25pm), Tue 10/17 (4:00pm, 9:25pm), Wed 10/18 (5:00pm, 10:25pm)
+
+    * [The Thing](https://drafthouse.com/los-angeles/show/the-thing): Thu 10/12 (4:00pm)
+
+    * [When Evil Lurks](https://drafthouse.com/los-angeles/show/when-evil-lurks): Thu 10/12 (9:30pm)
+
+    * [World Of Tomorrow Trilogy](https://drafthouse.com/los-angeles/show/world-of-tomorrow-trilogy): Mon 10/16 (8:45pm)
+
 ### Mon 10/9 1:20am
 
 * New screenings: 
