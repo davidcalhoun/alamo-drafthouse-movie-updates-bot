@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/11 5:31am
+* New movies: The Holdovers, The Holdovers, The Holdovers
+
+* New screenings: 
+    * [Advance Screening The Holdovers Early Access Screening](https://drafthouse.com/los-angeles/show/advance-screening-the-holdovers-early-access-screening): Sun 10/29 (2:00pm)
+
+    * [Brunch Screenings The Holdovers Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-the-holdovers-brunch): Sat 11/4 (11:15am), Sun 11/5 (11:15am)
+
+    * [The Holdovers](https://drafthouse.com/los-angeles/show/the-holdovers): Thu 11/2 (7:15pm, 10:40pm), Fri 11/3 (11:15am, 2:45pm, 6:15pm, 9:45pm), Sat 11/4 (2:45pm, 6:15pm, 9:45pm), Sun 11/5 (2:45pm, 6:15pm), Mon 11/6 (2:45pm, 6:15pm, 9:45pm), Tue 11/7 (11:15am, 2:45pm, 6:15pm, 9:45pm), Wed 11/8 (2:45pm, 6:15pm, 9:45pm), Thu 11/9 (2:45pm, 6:15pm, 9:45pm), Fri 11/10 (11:15am, 2:45pm, 6:15pm, 9:40pm), Sat 11/11 (11:15am, 2:45pm, 6:15pm, 9:40pm), Sun 11/12 (11:15am, 2:45pm, 6:15pm, 9:40pm), Mon 11/13 (11:15am, 2:45pm, 6:15pm, 9:40pm), Tue 11/14 (11:15am, 2:45pm, 6:15pm, 9:45pm), Wed 11/15 (11:15am, 2:45pm, 6:15pm, 9:40pm)
+
 ### Tue 10/10 6:07pm
 * New movies: Sly
 
