@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Tue 10/10 6:07pm
+* New movies: Sly
+
+* New screenings: 
+    * [Mutiny In Heaven](https://drafthouse.com/los-angeles/show/mutiny-in-heaven): Sat 10/28 (8:10pm)
+
+    * [Sly](https://drafthouse.com/los-angeles/show/sly): Fri 10/27 (5:25pm), Sat 10/28 (5:20pm), Mon 10/30 (4:25pm), Wed 11/1 (10:00pm)
+
+    * [The Exorcist Believer](https://drafthouse.com/los-angeles/show/the-exorcist-believer): Wed 10/11 (6:15pm)
+
 ### Tue 10/10 6:19am
 * New movies: The Marvels, The Marvels
 
