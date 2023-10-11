@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Wed 10/11 5:16pm
+* New movies: The Nightmare Before Christmas
+
+* New screenings: 
+    * [The Nightmare Before Christmas](https://drafthouse.com/raleigh/show/the-nightmare-before-christmas): Sun 10/22 (2:20pm, 4:40pm)
+
+    * [Trick Or Treat Cinema The Nightmare Before Christmas](https://drafthouse.com/raleigh/show/trick-or-treat-cinema-the-nightmare-before-christmas): Sun 10/22 (12:00pm)
+
 ### Wed 10/11 4:19pm
 * New movies: The Nightmare Before Christmas
 
