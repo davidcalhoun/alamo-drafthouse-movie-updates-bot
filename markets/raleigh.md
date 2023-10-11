@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 10/11 4:19pm
+* New movies: The Nightmare Before Christmas
+
+* New screenings: 
+    * [The Nightmare Before Christmas](https://drafthouse.com/raleigh/show/the-nightmare-before-christmas): Fri 10/20 (7:00pm), Sat 10/21 (7:00pm), Sun 10/22 (7:00pm)
+
 ### Wed 10/11 8:36am
 * New movies: The Holdovers
 
