@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 10/11 8:36am
+* New movies: The Holdovers
+
+* New screenings: 
+    * [The Holdovers](https://drafthouse.com/raleigh/show/the-holdovers): Thu 11/9 (7:00pm), Fri 11/10 (6:40pm), Sat 11/11 (6:40pm), Sun 11/12 (6:40pm)
+
 ### Tue 10/10 9:23am
 * New movies: The Marvels
 
