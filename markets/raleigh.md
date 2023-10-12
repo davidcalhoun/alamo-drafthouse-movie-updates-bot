@@ -1,6 +1,30 @@
 # raleigh
 
 ## Movie updates
+### Thu 10/12 3:14pm
+* New movies: Dial Code Santa Claus, Silent Night, Deadly Night Part 2, The Changeling 1980, The Texas Chainsaw Massacre Part 2, Delicatessen, Mute Witness, The Dragon Lives Again, To Die For, The Long Goodbye, DEEP RED
+
+* New screenings: 
+    * [Special Event Dial Code Santa Claus](https://drafthouse.com/raleigh/show/special-event-dial-code-santa-claus): Tue 12/19 (9:30pm)
+
+    * [Terror Tuesday Deep Red](https://drafthouse.com/raleigh/show/terror-tuesday-deep-red): Tue 12/5 (9:30pm)
+
+    * [Terror Tuesday Silent Night Deadly Night Part 2](https://drafthouse.com/raleigh/show/terror-tuesday-silent-night-deadly-night-part-2): Tue 12/12 (9:30pm)
+
+    * [Terror Tuesday The Changeling 1980](https://drafthouse.com/raleigh/show/terror-tuesday-the-changeling-1980): Tue 11/28 (9:30pm)
+
+    * [Terror Tuesday The Texas Chainsaw Massacre Part 2](https://drafthouse.com/raleigh/show/terror-tuesday-the-texas-chainsaw-massacre-part-2): Tue 11/21 (9:30pm)
+
+    * [The Long Goodbye](https://drafthouse.com/raleigh/show/the-long-goodbye): Fri 11/10 (2:40pm)
+
+    * [Weird Wednesday Delicatessen](https://drafthouse.com/raleigh/show/weird-wednesday-delicatessen): Wed 11/22 (9:30pm)
+
+    * [Weird Wednesday Mute Witness](https://drafthouse.com/raleigh/show/weird-wednesday-mute-witness): Wed 12/20 (9:30pm)
+
+    * [Weird Wednesday The Dragon Lives Again](https://drafthouse.com/raleigh/show/weird-wednesday-the-dragon-lives-again): Wed 11/15 (9:30pm)
+
+    * [Weird Wednesday To Die For](https://drafthouse.com/raleigh/show/weird-wednesday-to-die-for): Wed 12/13 (9:30pm)
+
 ### Thu 10/12 2:24pm
 * New movies: Tales from the Hood, Eega
 
