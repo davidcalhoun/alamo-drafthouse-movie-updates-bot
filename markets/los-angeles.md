@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 10/12 10:14am
+
+* New screenings: 
+    * [Taylor Swift The Eras Tour](https://drafthouse.com/los-angeles/show/taylor-swift-the-eras-tour): Thu 10/12 (8:30pm, 9:25pm)
+
 ### Wed 10/11 5:31am
 * New movies: The Holdovers, The Holdovers, The Holdovers
 
