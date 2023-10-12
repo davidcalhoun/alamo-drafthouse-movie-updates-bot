@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Wed 10/11 10:23pm
+
+* New screenings: 
+    * [Taylor Swift The Eras Tour](https://drafthouse.com/raleigh/show/taylor-swift-the-eras-tour): Thu 10/12 (6:00pm, 9:00pm, 10:00pm)
+
 ### Wed 10/11 5:16pm
 * New movies: The Nightmare Before Christmas
 
