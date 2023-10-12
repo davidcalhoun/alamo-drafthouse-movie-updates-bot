@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Thu 10/12 2:24pm
+* New movies: Tales from the Hood, Eega
+
+* New screenings: 
+    * [Terror Tuesday Tales From The Hood](https://drafthouse.com/raleigh/show/terror-tuesday-tales-from-the-hood): Tue 11/7 (9:30pm)
+
+    * [Weird Wednesday Eega](https://drafthouse.com/raleigh/show/weird-wednesday-eega): Wed 11/8 (9:30pm)
+
 ### Wed 10/11 10:23pm
 
 * New screenings: 
