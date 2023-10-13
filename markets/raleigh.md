@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 10/13 11:19am
+* New movies: DAWN OF THE DEAD 2004
+
+* New screenings: 
+    * [Terror Tuesday Dawn Of The Dead 2004](https://drafthouse.com/raleigh/show/terror-tuesday-dawn-of-the-dead-2004): Tue 11/14 (9:30pm)
+
 ### Fri 10/13 8:36am
 * New movies: The Killer 2023
 
