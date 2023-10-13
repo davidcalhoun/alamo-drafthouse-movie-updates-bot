@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 10/13 8:36am
+* New movies: The Killer 2023
+
+* New screenings: 
+    * [The Killer 2023](https://drafthouse.com/raleigh/show/the-killer-2023): Thu 10/26 (7:15pm, 10:15pm), Fri 10/27 (6:15pm), Sat 10/28 (6:15pm), Sun 10/29 (6:15pm)
+
 ### Thu 10/12 3:14pm
 * New movies: Dial Code Santa Claus, Silent Night, Deadly Night Part 2, The Changeling 1980, The Texas Chainsaw Massacre Part 2, Delicatessen, Mute Witness, The Dragon Lives Again, To Die For, The Long Goodbye, DEEP RED
 
