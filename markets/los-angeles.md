@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 10/13 6:06pm
+
+* New screenings: 
+    * [The Marvels](https://drafthouse.com/los-angeles/show/the-marvels): Sat 11/18 (10:00pm), Mon 11/20 (10:00pm), Tue 11/21 (10:00pm), Wed 11/22 (10:00pm)
+
 ### Fri 10/13 5:30am
 * New movies: The Killer 2023
 
