@@ -1,6 +1,41 @@
 # raleigh
 
 ## Movie updates
+### Mon 10/16 4:20pm
+
+* New screenings: 
+    * [A Haunting In Venice](https://drafthouse.com/raleigh/show/a-haunting-in-venice): Thu 10/19 (11:55am)
+
+    * [Dicks The Musical](https://drafthouse.com/raleigh/show/dicks-the-musical): Mon 10/23 (1:00pm, 3:45pm, 6:15pm, 9:00pm), Tue 10/24 (1:10pm, 3:45pm, 6:15pm, 9:00pm), Wed 10/25 (1:10pm, 3:45pm, 6:15pm, 9:00pm)
+
+    * [Dumb Money](https://drafthouse.com/raleigh/show/dumb-money): Thu 10/19 (2:15pm)
+
+    * [Hocus Pocus](https://drafthouse.com/raleigh/show/hocus-pocus): Thu 10/19 (1:05pm, 3:50pm, 6:30pm, 9:15pm), Fri 10/20 (11:15am), Sat 10/21 (11:15am), Sun 10/22 (11:15am), Mon 10/23 (12:30pm), Tue 10/24 (11:35am), Wed 10/25 (11:35am)
+
+    * [Killers Of The Flower Moon](https://drafthouse.com/raleigh/show/killers-of-the-flower-moon): Thu 10/19 (2:45pm, 4:30pm, 5:15pm, 7:15pm, 9:00pm, 9:45pm), Fri 10/20 (11:00am, 12:30pm, 2:30pm, 2:45pm, 3:30pm, 5:00pm, 6:40pm, 7:30pm, 9:30pm), Sat 10/21 (11:00am, 12:30pm, 2:30pm, 3:30pm, 5:00pm, 6:15pm, 6:30pm, 9:30pm), Sun 10/22 (11:00am, 12:30pm, 3:30pm, 5:00pm, 5:00pm, 6:30pm, 9:30pm), Mon 10/23 (12:15pm, 12:30pm, 2:00pm, 2:30pm, 3:00pm, 3:30pm, 4:45pm, 5:00pm, 6:40pm, 7:30pm, 8:00pm, 9:15pm, 9:40pm), Tue 10/24 (12:15pm, 12:30pm, 12:55pm, 2:00pm, 2:15pm, 3:00pm, 4:45pm, 5:00pm, 5:30pm, 6:40pm, 7:30pm, 9:15pm, 9:35pm), Wed 10/25 (12:15pm, 12:30pm, 12:55pm, 2:00pm, 2:15pm, 3:00pm, 4:45pm, 5:00pm, 5:30pm, 6:40pm, 7:30pm, 9:15pm, 9:20pm)
+
+    * [Little Shop Of Horrors](https://drafthouse.com/raleigh/show/little-shop-of-horrors): Mon 10/23 (12:30pm), Tue 10/24 (12:30pm), Wed 10/25 (12:30pm)
+
+    * [Paw Patrol The Mighty Movie](https://drafthouse.com/raleigh/show/paw-patrol-the-mighty-movie): Thu 10/19 (1:45pm)
+
+    * [Saw X](https://drafthouse.com/raleigh/show/saw-x): Thu 10/19 (12:50pm, 3:55pm, 6:15pm, 9:20pm), Fri 10/20 (1:00pm, 4:10pm, 7:15pm, 10:20pm), Sat 10/21 (1:00pm, 4:15pm, 7:15pm, 10:20pm), Sun 10/22 (12:10pm, 3:15pm, 6:15pm, 9:30pm), Mon 10/23 (12:45pm, 4:00pm, 7:15pm, 10:20pm), Tue 10/24 (12:40pm, 4:00pm, 7:15pm, 10:20pm), Wed 10/25 (12:40pm, 4:00pm, 7:15pm, 10:20pm)
+
+    * [Stop Making Sense](https://drafthouse.com/raleigh/show/stop-making-sense): Thu 10/19 (12:50pm)
+
+    * [Strange Way Of Life](https://drafthouse.com/raleigh/show/strange-way-of-life): Thu 10/19 (1:00pm)
+
+    * [Taylor Swift The Eras Tour](https://drafthouse.com/raleigh/show/taylor-swift-the-eras-tour): Thu 10/19 (12:15pm, 2:00pm, 4:15pm, 8:15pm), Fri 10/20 (1:15pm, 2:00pm, 5:15pm, 9:15pm), Sat 10/21 (1:15pm, 2:00pm, 5:15pm, 9:15pm), Sun 10/22 (1:15pm, 2:00pm, 5:15pm, 9:15pm)
+
+    * [The Creator](https://drafthouse.com/raleigh/show/the-creator): Thu 10/19 (12:00pm, 3:20pm, 6:45pm, 10:05pm), Fri 10/20 (11:55am, 3:15pm, 6:45pm, 10:05pm), Sat 10/21 (11:55am, 3:15pm, 6:45pm, 10:05pm), Sun 10/22 (11:55am, 3:15pm, 6:45pm, 10:05pm), Mon 10/23 (11:55am, 3:15pm, 6:45pm, 10:05pm), Tue 10/24 (11:55am, 3:15pm, 6:45pm, 10:05pm), Wed 10/25 (11:55am, 3:15pm, 6:45pm, 10:05pm)
+
+    * [The Exorcist](https://drafthouse.com/raleigh/show/the-exorcist): Sat 10/21 (10:45pm), Wed 10/25 (10:00pm)
+
+    * [The Exorcist Believer](https://drafthouse.com/raleigh/show/the-exorcist-believer): Thu 10/19 (1:40pm, 4:35pm, 7:30pm, 10:30pm), Fri 10/20 (1:15pm, 4:25pm, 7:45pm, 10:45pm), Sat 10/21 (1:15pm, 4:30pm, 7:45pm, 10:45pm), Sun 10/22 (1:15pm, 4:30pm, 7:45pm, 10:45pm), Mon 10/23 (1:15pm, 4:25pm, 7:45pm, 10:45pm), Tue 10/24 (1:15pm, 4:25pm, 7:45pm, 10:45pm), Wed 10/25 (1:15pm, 4:25pm, 7:45pm, 10:45pm)
+
+    * [The Nightmare Before Christmas](https://drafthouse.com/raleigh/show/the-nightmare-before-christmas): Fri 10/20 (11:35am, 12:10pm, 1:55pm, 4:15pm, 9:20pm), Sat 10/21 (11:30am, 12:10pm, 1:50pm, 4:10pm, 9:20pm), Sun 10/22 (11:30am, 1:50pm, 4:10pm, 9:20pm), Mon 10/23 (11:35am, 11:40am, 1:55pm, 4:15pm, 6:30pm, 9:00pm), Tue 10/24 (11:35am, 11:40am, 1:55pm, 4:15pm, 6:30pm, 9:00pm), Wed 10/25 (11:35am, 11:40am, 1:55pm, 4:15pm, 6:30pm, 9:00pm)
+
+    * [To Live And Die In L A](https://drafthouse.com/raleigh/show/to-live-and-die-in-l-a): Sat 10/21 (11:30am), Tue 10/24 (10:00pm)
+
 ### Fri 10/13 11:19am
 * New movies: DAWN OF THE DEAD 2004
 
