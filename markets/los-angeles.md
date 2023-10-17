@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Tue 10/17 8:16am
+* New movies: Trolls Band Together, Trolls Band Together, Trolls Band Together
+
+* New screenings: 
+    * [Brunch Screenings Trolls Band Together Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-trolls-band-together-brunch): Sat 11/18 (11:00am)
+
+    * [Special Event Trolls Band Together Dance Party](https://drafthouse.com/los-angeles/show/special-event-trolls-band-together-dance-party): Sun 11/19 (10:45am, 11:45am)
+
+    * [Trolls Band Together](https://drafthouse.com/los-angeles/show/trolls-band-together): Thu 11/16 (2:00pm, 4:45pm, 7:30pm, 9:00pm), Fri 11/17 (11:00am, 1:45pm, 4:30pm, 7:15pm, 9:00pm), Sat 11/18 (1:45pm, 4:30pm, 7:15pm, 9:00pm), Sun 11/19 (2:00pm, 4:45pm, 7:30pm), Mon 11/20 (4:30pm, 7:15pm, 9:00pm), Tue 11/21 (11:00am, 1:45pm, 4:30pm, 7:15pm, 9:00pm), Wed 11/22 (4:30pm, 7:15pm, 9:00pm)
+
 ### Mon 10/16 6:08pm
 * New movies: Killers of the Flower Moon, Beetlejuice
 
