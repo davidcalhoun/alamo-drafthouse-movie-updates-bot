@@ -1,6 +1,18 @@
 # raleigh
 
 ## Movie updates
+### Tue 10/17 11:19am
+* New movies: Trolls Band Together, Trolls Band Together, Trolls Band Together, Trolls Band Together
+
+* New screenings: 
+    * [Advance Screening Trolls Band Together Early Access Screening](https://drafthouse.com/raleigh/show/advance-screening-trolls-band-together-early-access-screening): Sat 11/4 (2:00pm)
+
+    * [Family Party Trolls Band Together](https://drafthouse.com/raleigh/show/family-party-trolls-band-together): Sat 11/18 (12:30pm)
+
+    * [Special Event Trolls Band Together Dance Party](https://drafthouse.com/raleigh/show/special-event-trolls-band-together-dance-party): Sun 11/19 (12:15pm)
+
+    * [Trolls Band Together](https://drafthouse.com/raleigh/show/trolls-band-together): Thu 11/16 (3:25pm, 6:15pm, 9:00pm), Fri 11/17 (1:00pm, 3:40pm, 6:15pm, 9:00pm), Sat 11/18 (3:30pm, 6:15pm, 9:00pm), Sun 11/19 (3:30pm, 6:15pm, 9:00pm)
+
 ### Mon 10/16 4:20pm
 
 * New screenings: 
