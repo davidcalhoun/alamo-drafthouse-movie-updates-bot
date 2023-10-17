@@ -1,6 +1,48 @@
 # los-angeles
 
 ## Movie updates
+### Mon 10/16 6:08pm
+* New movies: Killers of the Flower Moon, Beetlejuice
+
+* New screenings: 
+    * [Anatomy Of A Fall](https://drafthouse.com/los-angeles/show/anatomy-of-a-fall): Thu 10/19 (7:45pm, 8:30pm), Fri 10/20 (2:00pm, 5:45pm, 9:30pm), Sat 10/21 (2:00pm, 5:45pm, 9:30pm), Sun 10/22 (4:00pm, 7:45pm), Mon 10/23 (5:15pm, 9:10pm), Tue 10/24 (1:50pm, 5:35pm, 9:20pm), Wed 10/25 (5:15pm, 9:00pm)
+
+    * [Beetlejuice](https://drafthouse.com/los-angeles/show/beetlejuice): Wed 10/25 (3:15pm)
+
+    * [Brunch Screenings Crimson Peak Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-crimson-peak-brunch): Sat 10/21 (11:30am)
+
+    * [Brunch Screenings Killers Of The Flower Moon Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-killers-of-the-flower-moon-brunch): Sat 10/21 (10:45am), Sun 10/22 (10:45am)
+
+    * [Bug](https://drafthouse.com/los-angeles/show/bug): Wed 10/25 (10:45pm)
+
+    * [Cat Person](https://drafthouse.com/los-angeles/show/cat-person): Mon 10/23 (2:15pm, 2:30pm, 10:30pm), Tue 10/24 (11:15am, 4:25pm), Wed 10/25 (2:10pm, 9:20pm)
+
+    * [Dracula 1931 Draculas Daughter Double Feature](https://drafthouse.com/los-angeles/show/dracula-1931-draculas-daughter-double-feature): Fri 10/20 (2:45pm), Tue 10/24 (2:45pm)
+
+    * [Killers Of The Flower Moon](https://drafthouse.com/los-angeles/show/killers-of-the-flower-moon): Thu 10/19 (3:45pm, 4:00pm, 8:40pm), Fri 10/20 (10:45am, 3:20pm, 8:00pm), Sat 10/21 (3:20pm, 8:00pm), Sun 10/22 (11:25am, 2:00pm, 6:25pm), Mon 10/23 (5:00pm, 8:15pm, 9:40pm), Tue 10/24 (3:20pm, 5:15pm, 8:00pm, 9:40pm), Wed 10/25 (2:30pm, 4:40pm, 7:15pm, 8:15pm, 9:15pm)
+
+    * [Little Shop Of Horrors](https://drafthouse.com/los-angeles/show/little-shop-of-horrors): Fri 10/20 (12:00pm), Tue 10/24 (12:00pm), Wed 10/25 (2:20pm)
+
+    * [Saw X](https://drafthouse.com/los-angeles/show/saw-x): Thu 10/19 (4:15pm, 7:30pm, 10:40pm), Fri 10/20 (1:00pm, 4:15pm, 7:30pm, 10:40pm), Sat 10/21 (1:00pm, 4:15pm, 7:30pm, 10:40pm), Sun 10/22 (1:00pm, 4:15pm, 7:30pm), Mon 10/23 (4:15pm, 7:30pm, 10:40pm), Tue 10/24 (1:00pm, 4:15pm, 7:30pm, 10:40pm), Wed 10/25 (4:15pm, 7:30pm, 10:40pm)
+
+    * [Stop Making Sense](https://drafthouse.com/los-angeles/show/stop-making-sense): Sun 10/22 (8:25pm), Mon 10/23 (2:15pm, 5:30pm), Tue 10/24 (12:40pm, 2:30pm, 10:45pm), Wed 10/25 (2:00pm, 5:30pm, 10:40pm)
+
+    * [Strange Way Of Life](https://drafthouse.com/los-angeles/show/strange-way-of-life): Thu 10/19 (2:00pm), Fri 10/20 (11:10am), Sat 10/21 (11:10am), Sun 10/22 (11:30am), Mon 10/23 (2:25pm), Tue 10/24 (11:00am), Wed 10/25 (2:25pm)
+
+    * [Taylor Swift The Eras Tour](https://drafthouse.com/los-angeles/show/taylor-swift-the-eras-tour): Thu 10/19 (3:35pm, 4:45pm, 9:00pm), Fri 10/20 (12:15pm, 4:25pm, 8:40pm), Sat 10/21 (12:15pm, 4:25pm, 8:40pm), Sun 10/22 (12:00pm, 4:15pm, 7:00pm)
+
+    * [The Black Cat 1934](https://drafthouse.com/los-angeles/show/the-black-cat-1934): Sun 10/22 (11:45am), Tue 10/24 (2:05pm)
+
+    * [The Cassandra Cat](https://drafthouse.com/los-angeles/show/the-cassandra-cat): Fri 10/20 (11:00am)
+
+    * [The Creator](https://drafthouse.com/los-angeles/show/the-creator): Thu 10/19 (3:30pm, 6:30pm, 10:00pm), Fri 10/20 (12:25pm, 3:50pm, 7:15pm, 10:45pm), Sat 10/21 (12:25pm, 3:50pm, 7:15pm, 10:45pm), Sun 10/22 (12:25pm, 3:50pm, 7:15pm), Mon 10/23 (3:00pm, 6:30pm, 10:00pm), Tue 10/24 (12:25pm, 3:50pm, 7:15pm, 10:45pm), Wed 10/25 (2:45pm, 6:15pm, 9:45pm)
+
+    * [The Exorcist](https://drafthouse.com/los-angeles/show/the-exorcist): Fri 10/20 (6:30pm), Sun 10/22 (3:20pm, 8:10pm), Mon 10/23 (5:40pm), Tue 10/24 (11:00am, 6:30pm, 10:00pm), Wed 10/25 (6:00pm)
+
+    * [The Exorcist Believer](https://drafthouse.com/los-angeles/show/the-exorcist-believer): Thu 10/19 (3:20pm, 7:25pm, 10:30pm), Fri 10/20 (12:40pm, 3:45pm, 7:00pm, 10:05pm), Sat 10/21 (12:40pm, 3:45pm, 7:00pm, 10:05pm), Sun 10/22 (12:15pm, 3:25pm, 6:35pm), Mon 10/23 (3:10pm, 6:20pm, 9:30pm), Tue 10/24 (12:40pm, 3:45pm, 7:00pm, 10:10pm), Wed 10/25 (3:25pm, 6:30pm, 9:35pm)
+
+    * [To Live And Die In L A](https://drafthouse.com/los-angeles/show/to-live-and-die-in-l-a): Fri 10/20 (9:35pm), Mon 10/23 (8:45pm), Tue 10/24 (9:40pm)
+
 ### Fri 10/13 6:06pm
 
 * New screenings: 
