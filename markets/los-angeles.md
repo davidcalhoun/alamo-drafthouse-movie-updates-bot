@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/18 4:12am
+* New movies: Phantom Thread, The Apartment, When Harry Met Sally...
+
+* New screenings: 
+    * [Miami Vice 2006](https://drafthouse.com/los-angeles/show/miami-vice-2006): Wed 12/27 (7:00pm)
+
+    * [Phantom Thread](https://drafthouse.com/los-angeles/show/phantom-thread): Sat 12/30 (11:00am)
+
+    * [The Apartment Brunch](https://drafthouse.com/los-angeles/show/the-apartment-brunch): Mon 1/1 (1:00pm)
+
+    * [When Harry Met Sally Brunch](https://drafthouse.com/los-angeles/show/when-harry-met-sally-brunch): Sun 12/31 (11:00am)
+
 ### Wed 10/18 3:16am
 * New movies: Kiss Kiss Bang Bang, The Holiday, Batman Returns, 2046, Brazil: The Director's Cut, It's a Wonderful Life, White Christmas, Carol, Love Actually, Deep Cover, Gremlins, Miami Vice 2006, Wild Things, Rush to Judgment, The Bride Of Frankenstein, The Night of the Hunter, Thief
 
