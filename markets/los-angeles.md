@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/18 11:20am
+* New movies: FAREWELL MY CONCUBINE
+
+* New screenings: 
+    * [Farewell My Concubine](https://drafthouse.com/los-angeles/show/farewell-my-concubine): Sat 11/11 (10:50am)
+
 ### Wed 10/18 4:12am
 * New movies: Phantom Thread, The Apartment, When Harry Met Sally...
 
