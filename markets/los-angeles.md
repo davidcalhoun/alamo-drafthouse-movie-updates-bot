@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/18 1:16pm
+* New movies: Swordfish
+
+* New screenings: 
+    * [Swordfish](https://drafthouse.com/los-angeles/show/swordfish): Wed 11/15 (8:00pm)
+
 ### Wed 10/18 11:20am
 * New movies: FAREWELL MY CONCUBINE
 
