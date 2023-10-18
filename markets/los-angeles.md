@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/18 1:19am
+* New movies: National Lampoon's Christmas Vacation, The Polar Express, Adaptation., Dune 1984
+
+* New screenings: 
+    * [Adaptation](https://drafthouse.com/los-angeles/show/adaptation): Mon 11/6 (7:00pm)
+
+    * [Dune 1984](https://drafthouse.com/los-angeles/show/dune-1984): Fri 11/3 (9:30pm)
+
+    * [Movie Party National Lampoons Christmas Vacation](https://drafthouse.com/los-angeles/show/movie-party-national-lampoons-christmas-vacation): Sat 11/25 (11:00am)
+
+    * [Movie Party The Polar Express](https://drafthouse.com/los-angeles/show/movie-party-the-polar-express): Sat 12/2 (3:00pm)
+
 ### Tue 10/17 8:16am
 * New movies: Trolls Band Together, Trolls Band Together, Trolls Band Together
 
