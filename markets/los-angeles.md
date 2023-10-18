@@ -1,6 +1,22 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/18 2:15am
+* New movies: Blood Tea and Red String, Face/Off, The Mist, Share?, The Long Goodbye, Dazed and Confused
+
+* New screenings: 
+    * [Blood Tea And Red String](https://drafthouse.com/los-angeles/show/blood-tea-and-red-string): Tue 11/7 (8:00pm), Thu 11/9 (4:30pm)
+
+    * [Face Off](https://drafthouse.com/los-angeles/show/face-off): Fri 11/17 (3:30pm), Wed 11/22 (7:00pm)
+
+    * [Graveyard Shift The Mist In Black White](https://drafthouse.com/los-angeles/show/graveyard-shift-the-mist-in-black-white): Sun 11/12 (3:40pm, 7:00pm)
+
+    * [Live Q A Share](https://drafthouse.com/los-angeles/show/live-q-a-share): Sat 11/11 (9:30pm)
+
+    * [Signature Programming Dazed And Confused](https://drafthouse.com/los-angeles/show/signature-programming-dazed-and-confused): Wed 11/8 (4:20pm)
+
+    * [The Long Goodbye](https://drafthouse.com/los-angeles/show/the-long-goodbye): Fri 11/10 (4:30pm), Tue 11/14 (7:30pm)
+
 ### Wed 10/18 1:19am
 * New movies: National Lampoon's Christmas Vacation, The Polar Express, Adaptation., Dune 1984
 
