@@ -1,6 +1,44 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/18 3:16am
+* New movies: Kiss Kiss Bang Bang, The Holiday, Batman Returns, 2046, Brazil: The Director's Cut, It's a Wonderful Life, White Christmas, Carol, Love Actually, Deep Cover, Gremlins, Miami Vice 2006, Wild Things, Rush to Judgment, The Bride Of Frankenstein, The Night of the Hunter, Thief
+
+* New screenings: 
+    * [2046](https://drafthouse.com/los-angeles/show/2046): Fri 12/15 (6:45pm)
+
+    * [Brazil The Directors Cut](https://drafthouse.com/los-angeles/show/brazil-the-directors-cut): Fri 12/15 (10:10pm)
+
+    * [Brunch Screenings Its A Wonderful Life Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-its-a-wonderful-life-brunch): Sun 12/17 (11:30am)
+
+    * [Brunch Screenings White Christmas](https://drafthouse.com/los-angeles/show/brunch-screenings-white-christmas): Sat 12/9 (11:15am)
+
+    * [Carol Brunch](https://drafthouse.com/los-angeles/show/carol-brunch): Mon 12/25 (1:00pm)
+
+    * [Champagne Cinema Love Actually 2](https://drafthouse.com/los-angeles/show/champagne-cinema-love-actually-2): Sat 12/9 (2:30pm)
+
+    * [Champagne Cinema The Holiday](https://drafthouse.com/los-angeles/show/champagne-cinema-the-holiday): Sun 12/3 (2:30pm)
+
+    * [Deep Cover](https://drafthouse.com/los-angeles/show/deep-cover): Tue 12/19 (6:45pm)
+
+    * [Gremlins](https://drafthouse.com/los-angeles/show/gremlins): Tue 12/12 (7:00pm)
+
+    * [Kiss Kiss Bang Bang](https://drafthouse.com/los-angeles/show/kiss-kiss-bang-bang): Fri 11/24 (2:00pm), Sat 11/25 (9:30pm)
+
+    * [Miami Vice 2006](https://drafthouse.com/los-angeles/show/miami-vice-2006): Fri 12/22 (2:30pm)
+
+    * [Queer Film Theory 101 Batman Returns](https://drafthouse.com/los-angeles/show/queer-film-theory-101-batman-returns): Mon 12/11 (7:00pm)
+
+    * [Queer Film Theory 101 Wild Things](https://drafthouse.com/los-angeles/show/queer-film-theory-101-wild-things): Fri 11/24 (9:30pm)
+
+    * [Rush To Judgment](https://drafthouse.com/los-angeles/show/rush-to-judgment): Wed 11/22 (2:25pm)
+
+    * [The Bride Of Frankenstein](https://drafthouse.com/los-angeles/show/the-bride-of-frankenstein): Tue 12/5 (4:30pm)
+
+    * [The Night Of The Hunter](https://drafthouse.com/los-angeles/show/the-night-of-the-hunter): Fri 12/15 (3:15pm)
+
+    * [Thief](https://drafthouse.com/los-angeles/show/thief): Fri 12/22 (11:10am)
+
 ### Wed 10/18 2:15am
 * New movies: Blood Tea and Red String, Face/Off, The Mist, Share?, The Long Goodbye, Dazed and Confused
 
