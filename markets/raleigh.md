@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 10/19 12:24pm
+* New movies: Your Lucky Day
+
+* New screenings: 
+    * [Fantastic Fest Presents Your Lucky Day](https://drafthouse.com/raleigh/show/fantastic-fest-presents-your-lucky-day): Tue 11/7 (7:15pm)
+
 ### Tue 10/17 11:19am
 * New movies: Trolls Band Together, Trolls Band Together, Trolls Band Together, Trolls Band Together
 
