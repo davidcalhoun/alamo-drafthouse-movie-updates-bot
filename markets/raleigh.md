@@ -1,6 +1,62 @@
 # raleigh
 
 ## Movie updates
+### Thu 10/19 5:15pm
+* New movies: The Polar Express, The Holiday, The Mist, Batman Returns, Irma Vep 1996, The Blade, 2046, Adaptation., Brazil: The Director's Cut, It's a Wonderful Life, Little Women 2019, Deep Cover, Dune 1984, Gremlins, The Grinch 2018, Kiss Kiss Bang Bang, Miami Vice 2006, Planes, Trains & Automobiles, Wild Things, Dazed and Confused, The Bride Of Frankenstein, The City of Lost Children, The Night of the Hunter, The Strangler L'etrangleur 1970, Thief
+
+* New screenings: 
+    * [2046](https://drafthouse.com/raleigh/show/2046): Sat 12/16 (9:00pm)
+
+    * [Adaptation](https://drafthouse.com/raleigh/show/adaptation): Mon 11/6 (7:00pm)
+
+    * [Brazil The Directors Cut](https://drafthouse.com/raleigh/show/brazil-the-directors-cut): Mon 12/18 (9:30pm)
+
+    * [Brunch Screenings Its A Wonderful Life Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-its-a-wonderful-life-brunch): Sun 12/17 (11:00am)
+
+    * [Brunch Screenings Little Women 2019 Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-little-women-2019-brunch): Sat 12/2 (11:15am)
+
+    * [Champagne Cinema The Holiday](https://drafthouse.com/raleigh/show/champagne-cinema-the-holiday): Sun 12/3 (11:00am)
+
+    * [Deep Cover](https://drafthouse.com/raleigh/show/deep-cover): Mon 12/18 (7:00pm)
+
+    * [Dune 1984](https://drafthouse.com/raleigh/show/dune-1984): Mon 11/6 (10:00pm)
+
+    * [Graveyard Shift The Mist In Black White](https://drafthouse.com/raleigh/show/graveyard-shift-the-mist-in-black-white): Mon 11/13 (9:25pm)
+
+    * [Gremlins](https://drafthouse.com/raleigh/show/gremlins): Tue 12/12 (7:00pm)
+
+    * [Kids Camp The Grinch 2018](https://drafthouse.com/raleigh/show/kids-camp-the-grinch-2018): Fri 12/22 (10:30am)
+
+    * [Kiss Kiss Bang Bang](https://drafthouse.com/raleigh/show/kiss-kiss-bang-bang): Mon 11/27 (10:45pm)
+
+    * [Miami Vice 2006](https://drafthouse.com/raleigh/show/miami-vice-2006): Wed 12/27 (9:30pm)
+
+    * [Movie Party The Polar Express](https://drafthouse.com/raleigh/show/movie-party-the-polar-express): Sat 12/2 (3:00pm)
+
+    * [Planes Trains Automobiles](https://drafthouse.com/raleigh/show/planes-trains-automobiles): Thu 11/23 (11:00am)
+
+    * [Queer Film Theory 101 Batman Returns](https://drafthouse.com/raleigh/show/queer-film-theory-101-batman-returns): Mon 12/11 (7:30pm)
+
+    * [Queer Film Theory 101 Wild Things](https://drafthouse.com/raleigh/show/queer-film-theory-101-wild-things): Mon 11/27 (7:30pm)
+
+    * [Signature Programming Dazed And Confused](https://drafthouse.com/raleigh/show/signature-programming-dazed-and-confused): Wed 11/8 (4:20pm)
+
+    * [The Bride Of Frankenstein](https://drafthouse.com/raleigh/show/the-bride-of-frankenstein): Tue 12/5 (7:00pm)
+
+    * [The City Of Lost Children](https://drafthouse.com/raleigh/show/the-city-of-lost-children): Mon 12/4 (9:30pm)
+
+    * [The Exorcist Believer](https://drafthouse.com/raleigh/show/the-exorcist-believer): Fri 10/20 (11:35am, 3:00pm)
+
+    * [The Night Of The Hunter](https://drafthouse.com/raleigh/show/the-night-of-the-hunter): Mon 12/18 (9:50pm)
+
+    * [The Strangler Letrangleur 1970](https://drafthouse.com/raleigh/show/the-strangler-letrangleur-1970): Fri 11/17 (9:45pm)
+
+    * [Thief](https://drafthouse.com/raleigh/show/thief): Tue 12/26 (9:30pm)
+
+    * [Weird Wednesday Irma Vep 1996](https://drafthouse.com/raleigh/show/weird-wednesday-irma-vep-1996): Wed 11/29 (9:30pm)
+
+    * [Weird Wednesday The Blade](https://drafthouse.com/raleigh/show/weird-wednesday-the-blade): Wed 12/6 (9:30pm)
+
 ### Thu 10/19 12:24pm
 * New movies: Your Lucky Day
 
