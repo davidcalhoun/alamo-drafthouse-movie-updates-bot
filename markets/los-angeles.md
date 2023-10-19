@@ -1,6 +1,30 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/18 6:07pm
+* New movies: The Strangler L'etrangleur 1970, Your Lucky Day, Blow Out, Sly, Little Women 2019, The Grinch 2018, Planes, Trains & Automobiles, The City of Lost Children, Your Lucky Day
+
+* New screenings: 
+    * [Blow Out](https://drafthouse.com/los-angeles/show/blow-out): Tue 11/7 (5:00pm), Wed 11/8 (7:45pm)
+
+    * [Brunch Screenings Little Women 2019 Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-little-women-2019-brunch): Sat 12/2 (11:30am)
+
+    * [Fantastic Fest Presents Your Lucky Day](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-your-lucky-day): Tue 11/7 (7:30pm)
+
+    * [Kids Camp The Grinch 2018](https://drafthouse.com/los-angeles/show/kids-camp-the-grinch-2018): Fri 12/22 (10:45am)
+
+    * [Live Q A Sly](https://drafthouse.com/los-angeles/show/live-q-a-sly): Sat 10/28 (7:30pm)
+
+    * [Planes Trains Automobiles](https://drafthouse.com/los-angeles/show/planes-trains-automobiles): Thu 11/23 (5:00pm)
+
+    * [Queer Film Theory 101 Wild Things](https://drafthouse.com/los-angeles/show/queer-film-theory-101-wild-things): Mon 11/27 (7:15pm)
+
+    * [The City Of Lost Children](https://drafthouse.com/los-angeles/show/the-city-of-lost-children): Tue 12/5 (7:00pm)
+
+    * [The Strangler Letrangleur 1970](https://drafthouse.com/los-angeles/show/the-strangler-letrangleur-1970): Fri 11/17 (2:20pm), Sat 11/18 (11:15am), Sun 11/19 (3:10pm), Mon 11/20 (5:45pm), Tue 11/21 (8:00pm), Wed 11/22 (8:45pm), Thu 11/23 (2:10pm)
+
+    * [Your Lucky Day](https://drafthouse.com/los-angeles/show/your-lucky-day): Thu 11/9 (7:00pm), Fri 11/10 (1:45pm), Sat 11/11 (3:00pm), Sun 11/12 (10:20pm), Mon 11/13 (7:30pm), Tue 11/14 (10:30pm), Wed 11/15 (4:45pm), Thu 11/16 (2:00pm)
+
 ### Wed 10/18 1:16pm
 * New movies: Swordfish
 
