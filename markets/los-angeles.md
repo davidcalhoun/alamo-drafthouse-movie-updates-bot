@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/18 8:15pm
+* New movies: Divinity, Where the Devil Roams, In the Court of the Crimson King: King Crimson at 50, In the Court of the Crimson King: King Crimson at 50
+
+* New screenings: 
+    * [Divinity](https://drafthouse.com/los-angeles/show/divinity): Fri 11/3 (1:00pm), Sat 11/4 (7:45pm), Sun 11/5 (4:45pm), Mon 11/6 (5:15pm), Tue 11/7 (10:25pm), Wed 11/8 (10:45pm)
+
+    * [In The Court Of The Crimson King King Crimson At 50](https://drafthouse.com/los-angeles/show/in-the-court-of-the-crimson-king-king-crimson-at-50): Sat 11/4 (5:00pm), Sun 11/5 (2:00pm), Mon 11/6 (8:00pm), Tue 11/7 (2:30pm), Wed 11/8 (7:30pm)
+
+    * [Live Q A In The Court Of The Crimson King King Crimson At 50](https://drafthouse.com/los-angeles/show/live-q-a-in-the-court-of-the-crimson-king-king-crimson-at-50): Fri 11/3 (6:30pm)
+
+    * [Where The Devil Roams](https://drafthouse.com/los-angeles/show/where-the-devil-roams): Fri 11/3 (3:45pm), Sat 11/4 (10:25pm), Sun 11/5 (7:30pm), Mon 11/6 (10:15pm), Tue 11/7 (5:15pm), Wed 11/8 (10:10pm)
+
 ### Wed 10/18 6:07pm
 * New movies: The Strangler L'etrangleur 1970, Your Lucky Day, Blow Out, Sly, Little Women 2019, The Grinch 2018, Planes, Trains & Automobiles, The City of Lost Children, Your Lucky Day
 
