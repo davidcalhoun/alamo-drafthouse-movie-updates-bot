@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 10/19 1:16pm
+* New movies: Suitable Flesh
+
+* New screenings: 
+    * [Suitable Flesh](https://drafthouse.com/los-angeles/show/suitable-flesh): Thu 10/26 (10:25pm), Sun 10/29 (8:15pm), Mon 10/30 (10:15pm), Tue 10/31 (1:40pm), Thu 11/2 (4:20pm)
+
+    * [The Killer 2023](https://drafthouse.com/los-angeles/show/the-killer-2023): Mon 10/30 (4:00pm, 7:20pm, 10:30pm), Tue 10/31 (12:45pm, 4:00pm, 7:20pm, 10:30pm), Wed 11/1 (4:00pm, 7:20pm, 10:30pm)
+
 ### Thu 10/19 11:20am
 
 * New screenings: 
