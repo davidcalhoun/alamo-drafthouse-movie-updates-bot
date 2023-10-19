@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 10/19 11:20am
+
+* New screenings: 
+    * [Killers Of The Flower Moon](https://drafthouse.com/los-angeles/show/killers-of-the-flower-moon): Fri 10/20 (11:45am), Sat 10/21 (11:45am)
+
 ### Wed 10/18 8:15pm
 * New movies: Divinity, Where the Devil Roams, In the Court of the Crimson King: King Crimson at 50, In the Court of the Crimson King: King Crimson at 50
 
