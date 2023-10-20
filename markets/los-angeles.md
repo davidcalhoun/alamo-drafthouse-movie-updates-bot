@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 10/20 8:14am
+* New movies: Saltburn
+
+* New screenings: 
+    * [Fantastic Fest Presents Saltburn Advance Screening W Livestream Q A](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-saltburn-advance-screening-w-livestream-q-a): Mon 11/13 (5:00pm)
+
 ### Thu 10/19 7:21pm
 * New movies: Your Lucky Day
 
