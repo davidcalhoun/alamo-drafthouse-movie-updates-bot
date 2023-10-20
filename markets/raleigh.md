@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 10/20 11:17am
+* New movies: Saltburn
+
+* New screenings: 
+    * [Fantastic Fest Presents Saltburn Advance Screening W Livestream Q A](https://drafthouse.com/raleigh/show/fantastic-fest-presents-saltburn-advance-screening-w-livestream-q-a): Mon 11/13 (8:00pm)
+
 ### Thu 10/19 5:15pm
 * New movies: The Polar Express, The Holiday, The Mist, Batman Returns, Irma Vep 1996, The Blade, 2046, Adaptation., Brazil: The Director's Cut, It's a Wonderful Life, Little Women 2019, Deep Cover, Dune 1984, Gremlins, The Grinch 2018, Kiss Kiss Bang Bang, Miami Vice 2006, Planes, Trains & Automobiles, Wild Things, Dazed and Confused, The Bride Of Frankenstein, The City of Lost Children, The Night of the Hunter, The Strangler L'etrangleur 1970, Thief
 
