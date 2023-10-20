@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Fri 10/20 5:15pm
+
+* New screenings: 
+    * [Hocus Pocus](https://drafthouse.com/raleigh/show/hocus-pocus): Wed 10/25 (4:45pm)
+
+    * [Little Shop Of Horrors](https://drafthouse.com/raleigh/show/little-shop-of-horrors): Thu 10/26 (12:30pm)
+
 ### Fri 10/20 11:17am
 * New movies: Saltburn
 
