@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 10/19 7:21pm
+* New movies: Your Lucky Day
+
+* New screenings: 
+    * [Fantastic Fest Presents Your Lucky Day W Live Q A](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-your-lucky-day-w-live-q-a): Fri 11/10 (7:30pm), Sat 11/11 (6:30pm)
+
 ### Thu 10/19 1:16pm
 * New movies: Suitable Flesh
 
