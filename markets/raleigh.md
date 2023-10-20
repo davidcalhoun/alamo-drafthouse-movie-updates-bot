@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 10/20 6:18pm
+* New movies: National Lampoon's Christmas Vacation
+
+* New screenings: 
+    * [Movie Party National Lampoons Christmas Vacation](https://drafthouse.com/raleigh/show/movie-party-national-lampoons-christmas-vacation): Sun 11/26 (12:00pm)
+
 ### Fri 10/20 5:15pm
 
 * New screenings: 
