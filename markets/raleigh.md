@@ -1,6 +1,48 @@
 # raleigh
 
 ## Movie updates
+### Mon 10/23 5:15pm
+* New movies: The Lost Boys, Suzume Subtitled, Suzume Dubbed
+
+* New screenings: 
+    * [Abbott And Costello Meet Frankenstein](https://drafthouse.com/raleigh/show/abbott-and-costello-meet-frankenstein): Fri 10/27 (11:00am, 1:30pm), Sat 10/28 (10:45am), Sun 10/29 (12:15pm), Mon 10/30 (12:15pm), Tue 10/31 (1:15pm), Wed 11/1 (12:45pm)
+
+    * [Anatomy Of A Fall](https://drafthouse.com/raleigh/show/anatomy-of-a-fall): Thu 10/26 (10:40pm), Fri 10/27 (11:15am, 3:00pm, 10:20pm), Sat 10/28 (11:00am, 2:40pm, 5:25pm, 9:30pm), Sun 10/29 (11:05am, 2:45pm, 10:15pm), Mon 10/30 (11:45am, 3:20pm, 6:55pm, 10:10pm), Tue 10/31 (12:00pm, 3:35pm, 6:00pm, 9:35pm), Wed 11/1 (11:50am, 3:25pm, 7:00pm, 9:50pm)
+
+    * [Dicks The Musical](https://drafthouse.com/raleigh/show/dicks-the-musical): Thu 10/26 (12:30pm, 3:05pm, 5:45pm, 6:00pm, 6:40pm)
+
+    * [Five Nights At Freddys](https://drafthouse.com/raleigh/show/five-nights-at-freddys): Thu 10/26 (3:05pm, 3:45pm, 6:05pm, 11:15pm), Fri 10/27 (11:00am, 12:00pm, 1:55pm, 3:05pm, 4:50pm, 6:35pm, 10:40pm), Sat 10/28 (12:00pm, 12:00pm, 1:30pm, 3:05pm, 4:30pm, 7:30pm, 10:35pm), Sun 10/29 (10:45am, 12:00pm, 3:00pm, 3:45pm, 6:10pm, 10:00pm), Mon 10/30 (12:30pm, 1:00pm, 4:00pm, 4:00pm, 6:00pm, 7:10pm, 9:00pm, 10:30pm, 10:35pm), Tue 10/31 (12:30pm, 1:00pm, 3:35pm, 4:00pm, 6:30pm, 7:10pm, 10:00pm, 10:15pm), Wed 11/1 (12:30pm, 1:00pm, 1:20pm, 3:35pm, 4:00pm, 6:00pm, 6:35pm, 7:10pm, 9:00pm, 10:35pm)
+
+    * [Halloween 1978](https://drafthouse.com/raleigh/show/halloween-1978): Sun 10/29 (6:15pm), Mon 10/30 (6:15pm, 8:00pm), Tue 10/31 (7:10pm)
+
+    * [Hocus Pocus](https://drafthouse.com/raleigh/show/hocus-pocus): Thu 10/26 (1:00pm, 3:20pm, 4:15pm)
+
+    * [Killers Of The Flower Moon](https://drafthouse.com/raleigh/show/killers-of-the-flower-moon): Thu 10/26 (11:30am, 1:15pm, 3:00pm, 6:30pm, 8:30pm, 9:15pm), Fri 10/27 (11:30am, 1:30pm, 5:00pm, 7:00pm, 9:30pm), Sat 10/28 (10:15am, 2:45pm, 6:10pm, 9:00pm), Sun 10/29 (11:00am, 5:10pm, 7:15pm, 9:00pm), Mon 10/30 (11:00am, 12:30pm, 3:30pm, 5:00pm, 8:50pm), Tue 10/31 (1:30pm, 4:45pm, 7:10pm, 9:15pm), Wed 11/1 (1:30pm, 4:15pm, 8:45pm, 9:30pm)
+
+    * [Little Shop Of Horrors](https://drafthouse.com/raleigh/show/little-shop-of-horrors): Thu 10/26 (1:15pm)
+
+    * [Saw X](https://drafthouse.com/raleigh/show/saw-x): Thu 10/26 (12:00pm, 3:15pm, 9:20pm), Fri 10/27 (9:15pm), Sat 10/28 (9:15pm), Sun 10/29 (9:15pm), Mon 10/30 (10:15pm), Tue 10/31 (10:15pm), Wed 11/1 (10:15pm)
+
+    * [Special Event Scream](https://drafthouse.com/raleigh/show/special-event-scream): Sun 10/29 (3:00pm), Mon 10/30 (3:00pm), Tue 10/31 (1:35pm), Wed 11/1 (6:20pm)
+
+    * [Suzume Dubbed](https://drafthouse.com/raleigh/show/suzume-dubbed): Sun 10/29 (4:00pm), Tue 10/31 (4:00pm), Wed 11/1 (3:15pm)
+
+    * [Suzume Subtitled](https://drafthouse.com/raleigh/show/suzume-subtitled): Fri 10/27 (3:25pm), Sat 10/28 (3:00pm), Mon 10/30 (2:50pm), Wed 11/1 (4:15pm)
+
+    * [Taylor Swift The Eras Tour](https://drafthouse.com/raleigh/show/taylor-swift-the-eras-tour): Sat 10/28 (2:00pm), Sun 10/29 (2:00pm, 10:00pm)
+
+    * [The Creator](https://drafthouse.com/raleigh/show/the-creator): Thu 10/26 (11:40am), Fri 10/27 (12:05pm), Sun 10/29 (12:30pm), Mon 10/30 (11:30am), Wed 11/1 (12:55pm)
+
+    * [The Exorcist](https://drafthouse.com/raleigh/show/the-exorcist): Thu 10/26 (12:15pm, 4:00pm)
+
+    * [The Exorcist Believer](https://drafthouse.com/raleigh/show/the-exorcist-believer): Thu 10/26 (12:45pm, 3:40pm, 6:45pm, 9:45pm), Fri 10/27 (11:15am, 2:30pm, 6:10pm, 8:30pm, 9:35pm), Sat 10/28 (11:15am, 2:30pm, 6:10pm, 8:30pm, 10:45pm), Sun 10/29 (11:15am, 2:30pm, 5:30pm, 8:30pm), Mon 10/30 (12:15pm, 3:30pm, 6:30pm, 9:30pm), Tue 10/31 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Wed 11/1 (12:15pm, 3:30pm, 6:30pm, 9:30pm)
+
+    * [The Killer 2023](https://drafthouse.com/raleigh/show/the-killer-2023): Thu 10/26 (8:15pm, 11:00pm), Fri 10/27 (12:40pm, 4:00pm, 5:30pm, 9:15pm), Sat 10/28 (11:15am, 2:20pm, 5:30pm, 9:15pm), Sun 10/29 (12:00pm, 3:10pm, 9:15pm), Mon 10/30 (12:00pm, 3:05pm, 6:05pm, 9:10pm), Tue 10/31 (12:40pm, 3:45pm, 6:45pm, 9:45pm), Wed 11/1 (12:15pm, 3:15pm, 6:15pm, 9:20pm)
+
+    * [The Lost Boys](https://drafthouse.com/raleigh/show/the-lost-boys): Tue 10/31 (12:15pm)
+
+    * [The Nightmare Before Christmas](https://drafthouse.com/raleigh/show/the-nightmare-before-christmas): Thu 10/26 (11:45am, 2:15pm, 4:45pm, 7:05pm, 9:30pm), Fri 10/27 (11:45am, 2:15pm, 4:45pm, 7:15pm, 9:45pm), Sat 10/28 (11:45am, 2:15pm, 4:45pm, 7:15pm, 9:45pm), Sun 10/29 (11:45am, 2:15pm, 5:00pm, 7:30pm, 10:00pm), Mon 10/30 (12:45pm, 3:15pm, 6:00pm, 8:30pm, 11:00pm), Tue 10/31 (12:45pm, 3:15pm, 6:00pm, 8:30pm, 11:00pm), Wed 11/1 (1:40pm, 4:15pm, 6:45pm, 9:15pm)
+
 ### Fri 10/20 6:18pm
 * New movies: National Lampoon's Christmas Vacation
 
