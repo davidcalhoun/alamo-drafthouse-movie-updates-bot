@@ -1,6 +1,44 @@
 # los-angeles
 
 ## Movie updates
+### Mon 10/23 2:13pm
+* New movies: Suitable Flesh
+
+* New screenings: 
+    * [Abbott And Costello Meet Frankenstein](https://drafthouse.com/los-angeles/show/abbott-and-costello-meet-frankenstein): Tue 10/31 (10:00pm)
+
+    * [Dicks The Musical](https://drafthouse.com/los-angeles/show/dicks-the-musical): Thu 10/26 (2:00pm, 4:45pm, 8:00pm, 10:35pm)
+
+    * [Fantastic Fest Presents Suitable Flesh Live Q A](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-suitable-flesh-live-q-a): Fri 10/27 (6:15pm, 8:15pm), Sat 10/28 (6:15pm)
+
+    * [Five Nights At Freddys](https://drafthouse.com/los-angeles/show/five-nights-at-freddys): Thu 10/26 (3:50pm, 9:00pm, 10:45pm), Fri 10/27 (11:25am, 2:30pm, 5:40pm, 10:20pm, 10:45pm), Sat 10/28 (11:45am, 4:20pm, 5:45pm, 10:20pm, 10:45pm), Sun 10/29 (10:30am, 11:40am, 2:30pm, 5:45pm, 8:00pm), Mon 10/30 (2:30pm, 5:40pm, 8:45pm), Tue 10/31 (11:30am, 2:35pm, 5:45pm, 8:40pm), Wed 11/1 (2:25pm, 5:30pm, 10:45pm)
+
+    * [Halloween 1978](https://drafthouse.com/los-angeles/show/halloween-1978): Sat 10/28 (11:00pm), Mon 10/30 (10:35pm), Tue 10/31 (7:15pm), Wed 11/1 (7:00pm)
+
+    * [Killers Of The Flower Moon](https://drafthouse.com/los-angeles/show/killers-of-the-flower-moon): Thu 10/26 (3:15pm, 4:20pm, 5:00pm, 9:30pm), Fri 10/27 (10:45am, 2:45pm, 8:45pm), Sat 10/28 (11:40am, 1:00pm, 9:00pm), Sun 10/29 (12:00pm, 6:15pm), Mon 10/30 (3:15pm, 8:00pm), Tue 10/31 (11:10am, 11:45am, 3:10pm, 4:00pm, 7:45pm, 9:00pm), Wed 11/1 (3:15pm, 4:15pm, 8:35pm, 9:00pm)
+
+    * [Mutiny In Heaven](https://drafthouse.com/los-angeles/show/mutiny-in-heaven): Tue 10/31 (11:10am)
+
+    * [Saw X](https://drafthouse.com/los-angeles/show/saw-x): Thu 10/26 (1:40pm, 6:15pm), Fri 10/27 (11:15am, 7:00pm), Sat 10/28 (12:15pm, 7:00pm), Sun 10/29 (11:15am, 7:45pm), Mon 10/30 (3:15pm, 7:00pm), Tue 10/31 (12:10pm, 7:00pm), Wed 11/1 (7:30pm)
+
+    * [Strange Way Of Life](https://drafthouse.com/los-angeles/show/strange-way-of-life): Thu 10/26 (1:35pm)
+
+    * [Suitable Flesh](https://drafthouse.com/los-angeles/show/suitable-flesh): Wed 11/1 (9:35pm)
+
+    * [Taylor Swift The Eras Tour](https://drafthouse.com/los-angeles/show/taylor-swift-the-eras-tour): Thu 10/26 (1:50pm)
+
+    * [The Creator](https://drafthouse.com/los-angeles/show/the-creator): Thu 10/26 (2:45pm), Fri 10/27 (3:30pm), Sat 10/28 (3:30pm), Sun 10/29 (4:15pm), Mon 10/30 (3:30pm, 10:15pm), Tue 10/31 (3:25pm, 10:15pm), Wed 11/1 (4:00pm, 10:20pm)
+
+    * [The Exorcist Believer](https://drafthouse.com/los-angeles/show/the-exorcist-believer): Thu 10/26 (2:45pm, 7:30pm, 10:00pm), Fri 10/27 (12:45pm, 3:50pm, 7:00pm, 10:10pm), Sat 10/28 (12:45pm, 3:50pm, 7:00pm, 10:10pm), Sun 10/29 (12:45pm, 4:00pm, 7:15pm), Mon 10/30 (2:45pm, 6:00pm, 9:10pm), Tue 10/31 (1:15pm, 4:20pm, 7:30pm, 10:35pm), Wed 11/1 (2:50pm, 6:00pm, 9:15pm)
+
+    * [The Killer 2023](https://drafthouse.com/los-angeles/show/the-killer-2023): Thu 10/26 (9:45pm), Fri 10/27 (11:10am, 3:00pm), Sat 10/28 (11:30am, 3:00pm, 4:35pm), Sun 10/29 (2:45pm), Mon 10/30 (3:00pm, 6:15pm, 9:25pm), Tue 10/31 (11:50am, 8:00pm, 10:10pm), Wed 11/1 (3:00pm, 6:15pm, 9:25pm)
+
+    * [The Mummy 1932 The Wolf Man 1941 Double Feature](https://drafthouse.com/los-angeles/show/the-mummy-1932-the-wolf-man-1941-double-feature): Tue 10/31 (11:10am)
+
+    * [To Live And Die In L A](https://drafthouse.com/los-angeles/show/to-live-and-die-in-l-a): Thu 10/26 (1:45pm)
+
+    * [Wendell And Wild](https://drafthouse.com/los-angeles/show/wendell-and-wild): Fri 10/27 (12:00pm), Tue 10/31 (5:00pm)
+
 ### Mon 10/23 11:19am
 * New movies: I, The Jury 1953
 
