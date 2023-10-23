@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 10/23 11:19am
+* New movies: I, The Jury 1953
+
+* New screenings: 
+    * [I The Jury](https://drafthouse.com/los-angeles/show/i-the-jury): Fri 12/1 (12:30pm), Mon 12/4 (3:15pm)
+
 ### Fri 10/20 8:14am
 * New movies: Saltburn
 
