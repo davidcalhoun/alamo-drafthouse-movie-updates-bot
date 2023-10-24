@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 10/24 11:20am
+* New movies: Dicks: The Musical
+
+* New screenings: 
+    * [Sing Along Dicks The Musical](https://drafthouse.com/los-angeles/show/sing-along-dicks-the-musical): Fri 10/27 (11:35am, 2:15pm, 5:00pm, 7:45pm, 10:25pm), Sat 10/28 (11:20am, 2:00pm, 5:25pm, 7:45pm, 10:25pm), Sun 10/29 (11:00am, 1:40pm, 4:45pm, 7:30pm), Mon 10/30 (2:25pm, 5:05pm, 7:45pm, 10:25pm), Tue 10/31 (1:00pm, 3:40pm, 6:20pm, 9:00pm), Wed 11/1 (2:25pm, 5:05pm, 7:45pm, 10:50pm)
+
 ### Mon 10/23 2:13pm
 * New movies: Suitable Flesh
 
