@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Tue 10/24 3:14pm
+* New movies: A Disturbance in the Force, The Wedding Singer
+
+* New screenings: 
+    * [Brunch Screenings The Wedding Singer Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-the-wedding-singer-brunch): Sun 11/12 (11:00am)
+
+    * [Fantastic Fest Presents A Disturbance In The Force Live Q A](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-a-disturbance-in-the-force-live-q-a): Thu 11/30 (6:15pm, 7:15pm)
+
+    * [Taylor Swift The Eras Tour](https://drafthouse.com/los-angeles/show/taylor-swift-the-eras-tour): Fri 11/3 (1:50pm, 6:00pm)
+
 ### Tue 10/24 11:20am
 * New movies: Dicks: The Musical
 
