@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Tue 10/24 2:24pm
+* New movies: Dicks: The Musical, The Wedding Singer
+
+* New screenings: 
+    * [Brunch Screenings The Wedding Singer Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-the-wedding-singer-brunch): Sun 11/12 (11:30am)
+
+    * [Sing Along Dicks The Musical](https://drafthouse.com/raleigh/show/sing-along-dicks-the-musical): Fri 10/27 (12:00pm, 2:30pm, 4:00pm, 6:30pm, 9:00pm), Sat 10/28 (10:45am, 1:25pm, 4:15pm, 6:55pm, 10:50pm), Sun 10/29 (11:15am, 2:10pm, 4:40pm, 7:10pm, 9:40pm), Mon 10/30 (12:45pm, 3:15pm, 5:45pm, 8:15pm, 10:45pm), Tue 10/31 (12:55pm, 3:25pm, 5:55pm, 8:25pm, 10:55pm), Wed 11/1 (1:50pm, 4:25pm, 7:20pm, 9:15pm)
+
 ### Tue 10/24 9:23am
 * New movies: Blue Eye Samurai
 
