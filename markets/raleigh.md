@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 10/24 9:23am
+* New movies: Blue Eye Samurai
+
+* New screenings: 
+    * [Free Victory Screening Blue Eye Samurai Free Advance Victory Screening](https://drafthouse.com/raleigh/show/free-victory-screening-blue-eye-samurai-free-advance-victory-screening): Wed 11/1 (7:00pm)
+
 ### Mon 10/23 5:15pm
 * New movies: The Lost Boys, Suzume Subtitled, Suzume Dubbed
 
