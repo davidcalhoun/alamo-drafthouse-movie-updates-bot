@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Wed 10/25 9:22am
+* New movies: Elf, Priscilla
+
+* New screenings: 
+    * [Movie Party Elf](https://drafthouse.com/raleigh/show/movie-party-elf): Sun 11/19 (11:00am), Mon 11/20 (6:00pm), Sat 12/2 (11:00am), Sun 12/3 (3:00pm), Sun 12/17 (3:00pm), Sat 12/23 (11:00am)
+
+    * [Priscilla](https://drafthouse.com/raleigh/show/priscilla): Thu 11/2 (4:15pm, 7:15pm, 10:15pm), Fri 11/3 (7:30pm), Sat 11/4 (7:30pm), Sun 11/5 (7:30pm)
+
 ### Tue 10/24 2:24pm
 * New movies: Dicks: The Musical, The Wedding Singer
 
