@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Wed 10/25 4:18pm
+* New movies: White Christmas, It's a Wonderful Life
+
+* New screenings: 
+    * [Brunch Screenings White Christmas](https://drafthouse.com/raleigh/show/brunch-screenings-white-christmas): Sun 12/10 (11:00am)
+
+    * [Its A Wonderful Life](https://drafthouse.com/raleigh/show/its-a-wonderful-life): Sun 12/24 (11:00am)
+
+    * [Movie Party Elf](https://drafthouse.com/raleigh/show/movie-party-elf): Mon 12/4 (6:00pm), Sat 12/9 (3:30pm), Wed 12/13 (6:30pm), Wed 12/20 (6:30pm), Sun 12/24 (3:00pm)
+
 ### Wed 10/25 12:22pm
 * New movies: A Disturbance in the Force
 
