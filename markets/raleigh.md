@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 10/25 12:22pm
+* New movies: A Disturbance in the Force
+
+* New screenings: 
+    * [A Disturbance In The Force](https://drafthouse.com/raleigh/show/a-disturbance-in-the-force): Tue 11/28 (6:00pm)
+
 ### Wed 10/25 9:22am
 * New movies: Elf, Priscilla
 
