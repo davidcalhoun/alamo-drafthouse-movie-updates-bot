@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/25 6:18am
+* New movies: Priscilla, Elf, Priscilla
+
+* New screenings: 
+    * [Brunch Screenings Priscilla Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-priscilla-brunch): Sat 11/4 (12:45pm), Sun 11/5 (12:45pm)
+
+    * [Movie Party Elf](https://drafthouse.com/los-angeles/show/movie-party-elf): Sun 11/19 (7:00pm), Wed 11/22 (5:45pm), Sun 11/26 (11:00am), Sat 12/2 (12:15pm), Mon 12/4 (6:30pm), Sun 12/17 (3:00pm), Mon 12/18 (7:00pm), Sat 12/23 (3:00pm), Sun 12/24 (3:00pm)
+
+    * [Priscilla](https://drafthouse.com/los-angeles/show/priscilla): Thu 11/2 (4:25pm, 7:30pm, 10:35pm), Fri 11/3 (12:45pm, 4:00pm, 7:15pm, 10:20pm), Sat 11/4 (4:00pm, 7:15pm, 10:20pm), Sun 11/5 (4:00pm, 7:15pm), Mon 11/6 (4:00pm, 7:15pm, 10:20pm), Tue 11/7 (12:45pm, 4:00pm, 7:15pm, 10:20pm), Wed 11/8 (4:00pm, 7:15pm, 10:20pm), Thu 11/9 (3:25pm, 6:30pm, 9:35pm), Fri 11/10 (12:30pm, 3:40pm, 6:45pm, 9:50pm), Sat 11/11 (12:30pm, 3:40pm, 6:45pm, 9:50pm), Sun 11/12 (12:30pm, 3:40pm, 6:45pm, 9:50pm), Mon 11/13 (12:30pm, 3:40pm, 6:45pm, 9:50pm), Tue 11/14 (12:30pm, 3:40pm, 6:45pm, 9:50pm), Wed 11/15 (12:30pm, 3:40pm, 6:45pm, 9:50pm)
+
 ### Tue 10/24 3:14pm
 * New movies: A Disturbance in the Force, The Wedding Singer
 
