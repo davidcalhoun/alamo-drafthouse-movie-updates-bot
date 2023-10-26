@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 10/26 2:13pm
+
+* New screenings: 
+    * [The Killer 2023](https://drafthouse.com/los-angeles/show/the-killer-2023): Fri 10/27 (11:15am, 10:25pm)
+
 ### Wed 10/25 6:18am
 * New movies: Priscilla, Elf, Priscilla
 
