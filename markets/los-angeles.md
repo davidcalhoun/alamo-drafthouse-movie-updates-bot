@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 10/26 3:13pm
+
+* New screenings: 
+    * [The Killer 2023](https://drafthouse.com/los-angeles/show/the-killer-2023): Sat 10/28 (10:25pm), Sun 10/29 (11:15am)
+
 ### Thu 10/26 2:13pm
 
 * New screenings: 
