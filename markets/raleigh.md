@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 10/27 11:18am
+* New movies: Wish
+
+* New screenings: 
+    * [Advance Screening Wish Early Access Screening](https://drafthouse.com/raleigh/show/advance-screening-wish-early-access-screening): Sat 11/18 (4:00pm)
+
 ### Wed 10/25 4:18pm
 * New movies: White Christmas, It's a Wonderful Life
 
