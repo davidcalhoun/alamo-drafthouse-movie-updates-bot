@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 10/30 9:22am
+* New movies: Thanksgiving
+
+* New screenings: 
+    * [Thanksgiving](https://drafthouse.com/raleigh/show/thanksgiving): Thu 11/16 (7:45pm), Fri 11/17 (6:45pm), Sat 11/18 (6:45pm), Sun 11/19 (6:45pm)
+
 ### Fri 10/27 11:18am
 * New movies: Wish
 
