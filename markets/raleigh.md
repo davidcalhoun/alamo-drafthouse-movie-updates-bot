@@ -1,6 +1,20 @@
 # raleigh
 
 ## Movie updates
+### Mon 10/30 2:24pm
+* New movies: Carol, The Wedding Singer
+
+* New screenings: 
+    * [Carol Brunch](https://drafthouse.com/raleigh/show/carol-brunch): Mon 12/25 (12:00pm)
+
+    * [Gremlins](https://drafthouse.com/raleigh/show/gremlins): Mon 12/11 (4:40pm)
+
+    * [Movie Party National Lampoons Christmas Vacation](https://drafthouse.com/raleigh/show/movie-party-national-lampoons-christmas-vacation): Wed 12/6 (6:30pm)
+
+    * [Queer Film Theory 101 Batman Returns](https://drafthouse.com/raleigh/show/queer-film-theory-101-batman-returns): Sun 12/10 (9:30pm), Tue 12/12 (3:50pm)
+
+    * [The Wedding Singer](https://drafthouse.com/raleigh/show/the-wedding-singer): Tue 11/14 (6:30pm)
+
 ### Mon 10/30 9:22am
 * New movies: Thanksgiving
 
