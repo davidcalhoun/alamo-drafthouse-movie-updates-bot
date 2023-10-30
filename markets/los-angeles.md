@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Sun 10/29 11:20pm
+* New movies: Jurassic Park
+
+* New screenings: 
+    * [Blow Out](https://drafthouse.com/los-angeles/show/blow-out): Sat 11/4 (2:00pm), Tue 11/7 (11:30am)
+
+    * [Brunch Screenings Kikis Delivery Service Subtitled Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-kikis-delivery-service-subtitled-brunch): Sat 11/4 (11:00am)
+
+    * [Movie Party Jurassic Park](https://drafthouse.com/los-angeles/show/movie-party-jurassic-park): Mon 11/6 (6:00pm)
+
 ### Thu 10/26 3:13pm
 
 * New screenings: 
