@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 10/30 6:18am
+* New movies: Thanksgiving
+
+* New screenings: 
+    * [Thanksgiving](https://drafthouse.com/los-angeles/show/thanksgiving): Thu 11/16 (7:00pm, 10:25pm), Fri 11/17 (11:45am, 3:15pm, 6:45pm, 10:20pm), Sat 11/18 (11:45am, 3:15pm, 6:45pm, 10:10pm), Sun 11/19 (11:45am, 3:15pm, 6:45pm)
+
 ### Sun 10/29 11:20pm
 * New movies: Jurassic Park
 
