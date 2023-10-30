@@ -1,6 +1,58 @@
 # raleigh
 
 ## Movie updates
+### Mon 10/30 5:14pm
+* New movies: Blade Runner: The Final Cut, Casablanca, Kiki's Delivery Service Dubbed, Kiki's Delivery Service Subtitled, Nowhere, The Tunnel to Summer, the Exit of Goodbyes Subtitled, The Tunnel to Summer, the Exit of Goodbyes Dubbed, You've Got Mail
+
+* New screenings: 
+    * [Abbott And Costello Meet Frankenstein](https://drafthouse.com/raleigh/show/abbott-and-costello-meet-frankenstein): Thu 11/2 (1:10pm)
+
+    * [Adaptation](https://drafthouse.com/raleigh/show/adaptation): Tue 11/7 (7:00pm), Wed 11/8 (7:00pm)
+
+    * [Anatomy Of A Fall](https://drafthouse.com/raleigh/show/anatomy-of-a-fall): Thu 11/2 (1:20pm, 2:40pm, 6:15pm, 9:55pm), Fri 11/3 (12:00pm, 3:35pm, 7:10pm, 9:20pm), Sat 11/4 (11:00am, 11:45am, 3:55pm, 7:40pm, 9:15pm), Sun 11/5 (11:30am, 12:25pm, 1:15pm, 2:45pm, 6:35pm, 10:30pm), Mon 11/6 (11:35am, 1:30pm, 3:10pm, 6:45pm, 10:35pm), Tue 11/7 (11:35am, 1:30pm, 3:10pm, 6:45pm, 10:35pm), Wed 11/8 (11:35am, 1:30pm, 3:10pm, 6:45pm, 10:20pm)
+
+    * [Blade Runner The Final Cut](https://drafthouse.com/raleigh/show/blade-runner-the-final-cut): Fri 11/3 (2:45pm, 9:45pm), Sat 11/4 (2:45pm, 10:20pm), Sun 11/5 (8:30pm), Mon 11/6 (1:00pm), Tue 11/7 (7:10pm), Wed 11/8 (7:10pm)
+
+    * [Casablanca](https://drafthouse.com/raleigh/show/casablanca): Fri 11/3 (12:45pm), Sat 11/4 (4:10pm), Sun 11/5 (4:15pm), Mon 11/6 (7:15pm), Tue 11/7 (4:20pm), Wed 11/8 (5:15pm)
+
+    * [Dune 1984](https://drafthouse.com/raleigh/show/dune-1984): Fri 11/3 (6:10pm), Sat 11/4 (7:00pm), Sun 11/5 (10:00pm), Tue 11/7 (10:00pm), Wed 11/8 (10:15pm)
+
+    * [Five Nights At Freddys](https://drafthouse.com/raleigh/show/five-nights-at-freddys): Thu 11/2 (12:45pm, 3:45pm, 6:45pm, 7:30pm, 9:45pm, 10:30pm, 11:15pm), Fri 11/3 (12:40pm, 3:40pm, 6:35pm, 7:15pm, 9:30pm), Sat 11/4 (11:30am, 1:15pm, 3:00pm, 4:15pm, 6:15pm, 7:15pm, 11:15pm), Sun 11/5 (11:45am, 1:15pm, 4:20pm, 5:15pm, 6:15pm, 7:15pm, 9:15pm, 10:15pm), Mon 11/6 (1:30pm, 4:25pm, 5:20pm, 7:20pm, 8:35pm, 9:00pm, 10:20pm), Tue 11/7 (1:30pm, 4:25pm, 5:20pm, 7:30pm, 8:15pm, 9:50pm, 10:30pm), Wed 11/8 (12:15pm, 3:30pm, 6:45pm, 7:45pm, 8:15pm, 9:45pm, 10:45pm)
+
+    * [Halloween 1978](https://drafthouse.com/raleigh/show/halloween-1978): Thu 11/2 (1:30pm)
+
+    * [Kikis Delivery Service Dubbed](https://drafthouse.com/raleigh/show/kikis-delivery-service-dubbed): Fri 11/3 (6:45pm), Mon 11/6 (6:00pm), Tue 11/7 (12:00pm), Wed 11/8 (12:00pm)
+
+    * [Kikis Delivery Service Subtitled](https://drafthouse.com/raleigh/show/kikis-delivery-service-subtitled): Sat 11/4 (12:00pm), Sun 11/5 (7:15pm), Mon 11/6 (12:00pm)
+
+    * [Killers Of The Flower Moon](https://drafthouse.com/raleigh/show/killers-of-the-flower-moon): Thu 11/2 (1:30pm, 2:00pm, 7:00pm, 9:30pm), Fri 11/3 (11:45am, 1:30pm, 3:15pm, 7:00pm, 9:45pm), Sat 11/4 (11:15am, 2:40pm, 3:45pm, 8:15pm), Sun 11/5 (11:15am, 3:15pm, 3:45pm, 8:15pm), Mon 11/6 (11:20am, 2:55pm, 3:50pm, 8:20pm), Tue 11/7 (11:20am, 2:55pm, 4:00pm, 8:30pm), Wed 11/8 (11:20am, 2:55pm, 4:00pm, 8:30pm)
+
+    * [Nowhere](https://drafthouse.com/raleigh/show/nowhere): Thu 11/2 (11:50pm), Fri 11/3 (10:20pm), Sat 11/4 (9:45pm), Sun 11/5 (10:05pm), Mon 11/6 (10:15pm), Tue 11/7 (11:15pm), Wed 11/8 (11:15pm)
+
+    * [Priscilla](https://drafthouse.com/raleigh/show/priscilla): Thu 11/2 (5:15pm, 8:15pm), Fri 11/3 (1:35pm, 3:30pm, 4:30pm, 6:25pm, 10:30pm), Sat 11/4 (12:45pm, 3:45pm, 4:35pm, 6:45pm, 10:25pm), Sun 11/5 (12:00pm, 1:40pm, 3:00pm, 4:35pm, 7:00pm, 10:25pm), Mon 11/6 (11:45am, 1:45pm, 4:05pm, 4:55pm, 7:05pm, 7:50pm, 10:45pm), Tue 11/7 (12:45pm, 1:45pm, 3:00pm, 4:40pm, 6:00pm, 7:35pm, 10:30pm), Wed 11/8 (12:45pm, 1:45pm, 3:00pm, 4:40pm, 6:00pm, 7:35pm, 10:30pm)
+
+    * [Signature Programming Dazed And Confused](https://drafthouse.com/raleigh/show/signature-programming-dazed-and-confused): Mon 11/6 (2:40pm), Tue 11/7 (3:40pm), Wed 11/8 (3:40pm)
+
+    * [Sing Along Dicks The Musical](https://drafthouse.com/raleigh/show/sing-along-dicks-the-musical): Thu 11/2 (12:00pm)
+
+    * [Special Event Scream](https://drafthouse.com/raleigh/show/special-event-scream): Thu 11/2 (3:40pm, 7:45pm)
+
+    * [Suzume Dubbed](https://drafthouse.com/raleigh/show/suzume-dubbed): Thu 11/2 (4:30pm)
+
+    * [The Creator](https://drafthouse.com/raleigh/show/the-creator): Thu 11/2 (1:55pm)
+
+    * [The Exorcist Believer](https://drafthouse.com/raleigh/show/the-exorcist-believer): Thu 11/2 (12:15pm, 3:10pm, 11:00pm), Fri 11/3 (10:45pm), Sat 11/4 (10:15pm), Sun 11/5 (10:15pm), Mon 11/6 (10:00pm), Tue 11/7 (10:15pm), Wed 11/8 (10:15pm)
+
+    * [The Killer 2023](https://drafthouse.com/raleigh/show/the-killer-2023): Thu 11/2 (1:00pm, 4:00pm, 6:30pm, 7:10pm, 9:00pm, 10:15pm), Fri 11/3 (12:15pm, 3:15pm, 6:15pm, 8:00pm, 9:15pm, 11:00pm), Sat 11/4 (12:30pm, 3:30pm, 6:30pm, 7:15pm, 9:30pm, 10:30pm), Sun 11/5 (12:30pm, 3:30pm, 6:30pm, 7:45pm, 9:30pm, 10:50pm), Mon 11/6 (12:30pm, 3:30pm, 6:30pm, 7:30pm, 9:30pm, 10:30pm), Tue 11/7 (12:30pm, 3:30pm, 6:30pm, 7:30pm, 9:30pm, 10:30pm), Wed 11/8 (12:30pm, 3:30pm, 6:30pm, 7:30pm, 9:30pm, 10:30pm)
+
+    * [The Nightmare Before Christmas](https://drafthouse.com/raleigh/show/the-nightmare-before-christmas): Thu 11/2 (1:45pm, 5:10pm), Fri 11/3 (1:10pm), Sat 11/4 (11:40am), Sun 11/5 (1:45pm), Mon 11/6 (1:30pm), Tue 11/7 (12:30pm), Wed 11/8 (12:30pm)
+
+    * [The Tunnel To Summer The Exit Of Goodbyes Dubbed](https://drafthouse.com/raleigh/show/the-tunnel-to-summer-the-exit-of-goodbyes-dubbed): Fri 11/3 (4:30pm), Sat 11/4 (4:30pm), Sun 11/5 (3:45pm), Mon 11/6 (4:30pm), Tue 11/7 (4:00pm), Wed 11/8 (4:20pm)
+
+    * [The Tunnel To Summer The Exit Of Goodbyes Subtitled 2](https://drafthouse.com/raleigh/show/the-tunnel-to-summer-the-exit-of-goodbyes-subtitled-2): Thu 11/2 (6:10pm), Fri 11/3 (12:30pm), Sat 11/4 (2:00pm), Sun 11/5 (1:00pm), Mon 11/6 (2:00pm), Tue 11/7 (1:15pm), Wed 11/8 (1:30pm)
+
+    * [Youve Got Mail](https://drafthouse.com/raleigh/show/youve-got-mail): Fri 11/3 (3:40pm), Sat 11/4 (1:00pm), Sun 11/5 (4:00pm), Mon 11/6 (4:10pm), Tue 11/7 (1:15pm), Wed 11/8 (1:15pm)
+
 ### Mon 10/30 2:24pm
 * New movies: Carol, The Wedding Singer
 
