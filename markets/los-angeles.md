@@ -1,6 +1,48 @@
 # los-angeles
 
 ## Movie updates
+### Mon 10/30 6:08pm
+* New movies: Jurassic Park
+
+* New screenings: 
+    * [Adaptation](https://drafthouse.com/los-angeles/show/adaptation): Sat 11/4 (10:25pm), Mon 11/6 (2:10pm), Wed 11/8 (3:00pm)
+
+    * [Anatomy Of A Fall](https://drafthouse.com/los-angeles/show/anatomy-of-a-fall): Thu 11/2 (4:15pm, 6:45pm, 10:30pm), Fri 11/3 (11:00am, 2:45pm, 6:30pm, 10:15pm), Sat 11/4 (11:00am, 2:45pm, 6:30pm, 10:15pm), Sun 11/5 (11:00am, 2:45pm, 6:30pm), Mon 11/6 (2:40pm, 6:30pm, 10:15pm), Tue 11/7 (11:00am, 2:45pm, 6:35pm, 10:15pm), Wed 11/8 (2:45pm, 6:25pm, 10:15pm)
+
+    * [Blood Tea And Red String](https://drafthouse.com/los-angeles/show/blood-tea-and-red-string): Tue 11/7 (11:00am, 10:35pm)
+
+    * [Blow Out](https://drafthouse.com/los-angeles/show/blow-out): Sun 11/5 (4:20pm), Mon 11/6 (2:45pm, 3:00pm), Wed 11/8 (2:30pm)
+
+    * [Brunch Screenings Kikis Delivery Service Subtitled Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-kikis-delivery-service-subtitled-brunch): Sun 11/5 (11:25am)
+
+    * [Brunch Screenings Priscilla Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-priscilla-brunch): Sat 11/4 (10:45am), Sun 11/5 (10:45am)
+
+    * [Divinity](https://drafthouse.com/los-angeles/show/divinity): Thu 11/2 (10:50pm), Sat 11/4 (10:50pm)
+
+    * [Dune 1984](https://drafthouse.com/los-angeles/show/dune-1984): Sat 11/4 (2:30pm), Sun 11/5 (7:20pm), Mon 11/6 (10:25pm), Tue 11/7 (2:10pm)
+
+    * [Five Nights At Freddys](https://drafthouse.com/los-angeles/show/five-nights-at-freddys): Thu 11/2 (3:45pm, 7:00pm, 10:10pm), Fri 11/3 (12:30pm, 3:50pm, 5:40pm, 7:00pm, 8:45pm, 10:10pm), Sat 11/4 (12:30pm, 3:45pm, 5:40pm, 7:00pm, 8:45pm, 10:10pm), Sun 11/5 (10:45am, 1:50pm, 3:35pm, 4:55pm, 7:00pm, 8:00pm), Mon 11/6 (3:45pm, 5:00pm, 7:00pm, 10:05pm, 10:40pm), Tue 11/7 (11:00am, 12:40pm, 2:30pm, 3:50pm, 5:45pm, 7:00pm, 8:50pm, 10:05pm), Wed 11/8 (3:45pm, 5:00pm, 7:00pm, 10:10pm)
+
+    * [In The Court Of The Crimson King King Crimson At 50](https://drafthouse.com/los-angeles/show/in-the-court-of-the-crimson-king-king-crimson-at-50): Thu 11/2 (4:00pm)
+
+    * [Jurassic Park](https://drafthouse.com/los-angeles/show/jurassic-park): Tue 11/7 (11:10am), Wed 11/8 (10:05pm)
+
+    * [Killers Of The Flower Moon](https://drafthouse.com/los-angeles/show/killers-of-the-flower-moon): Thu 11/2 (5:00pm, 6:15pm, 9:00pm), Fri 11/3 (11:45am, 1:00pm, 4:25pm, 9:00pm), Sat 11/4 (11:45am, 1:00pm, 4:20pm, 6:00pm, 9:00pm), Sun 11/5 (11:00am, 11:40am, 2:20pm, 6:40pm), Mon 11/6 (2:20pm, 5:45pm, 8:10pm, 9:20pm), Tue 11/7 (11:45am, 1:25pm, 6:00pm, 9:00pm), Wed 11/8 (2:50pm, 6:10pm, 8:10pm, 9:00pm)
+
+    * [Priscilla](https://drafthouse.com/los-angeles/show/priscilla): Thu 11/2 (5:45pm, 9:40pm), Fri 11/3 (10:45am, 11:15am, 2:20pm, 5:25pm, 8:30pm), Sat 11/4 (11:15am, 2:20pm, 5:25pm, 8:30pm), Sun 11/5 (11:20am, 2:30pm, 5:40pm), Mon 11/6 (2:20pm, 5:30pm, 8:40pm), Tue 11/7 (11:20am, 2:25pm, 5:30pm, 8:35pm), Wed 11/8 (2:40pm, 5:45pm, 8:50pm)
+
+    * [Signature Programming Dazed And Confused](https://drafthouse.com/los-angeles/show/signature-programming-dazed-and-confused): Wed 11/8 (5:30pm)
+
+    * [Sing Along Dicks The Musical](https://drafthouse.com/los-angeles/show/sing-along-dicks-the-musical): Thu 11/2 (3:30pm), Fri 11/3 (11:00pm), Sat 11/4 (11:40am), Mon 11/6 (2:20pm), Wed 11/8 (2:20pm)
+
+    * [The Exorcist Believer](https://drafthouse.com/los-angeles/show/the-exorcist-believer): Thu 11/2 (3:40pm), Fri 11/3 (10:05pm), Sat 11/4 (10:05pm), Sun 11/5 (7:45pm), Mon 11/6 (10:50pm), Tue 11/7 (10:45pm), Wed 11/8 (10:45pm)
+
+    * [The Holdovers](https://drafthouse.com/los-angeles/show/the-holdovers): Thu 11/2 (8:00pm), Fri 11/3 (12:40pm, 4:10pm, 7:35pm), Sat 11/4 (12:35pm, 4:00pm, 7:25pm), Sun 11/5 (12:50pm, 4:15pm), Mon 11/6 (4:00pm, 7:25pm), Tue 11/7 (12:30pm, 3:55pm, 7:20pm, 10:15pm), Wed 11/8 (3:15pm, 6:40pm)
+
+    * [The Killer 2023](https://drafthouse.com/los-angeles/show/the-killer-2023): Thu 11/2 (3:15pm, 6:30pm, 9:45pm)
+
+    * [Where The Devil Roams](https://drafthouse.com/los-angeles/show/where-the-devil-roams): Thu 11/2 (3:10pm), Sat 11/4 (10:40pm)
+
 ### Mon 10/30 6:18am
 * New movies: Thanksgiving
 
