@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 10/31 2:12pm
+
+* New screenings: 
+    * [Priscilla](https://drafthouse.com/los-angeles/show/priscilla): Thu 11/2 (6:45pm, 9:50pm)
+
 ### Mon 10/30 6:08pm
 * New movies: Jurassic Park
 
