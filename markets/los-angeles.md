@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 10/31 3:13pm
+* New movies: Cade – The Tortured Crossing, It's a Wonderful Knife
+
+* New screenings: 
+    * [Cade The Tortured Crossing](https://drafthouse.com/los-angeles/show/cade-the-tortured-crossing): Sat 11/18 (9:30pm)
+
+    * [Live Q A Its A Wonderful Knife](https://drafthouse.com/los-angeles/show/live-q-a-its-a-wonderful-knife): Fri 11/10 (8:00pm)
+
 ### Tue 10/31 2:12pm
 
 * New screenings: 
