@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 10/31 8:15pm
+* New movies: The Bling Ring, The Servant
+
+* New screenings: 
+    * [The Bling Ring](https://drafthouse.com/los-angeles/show/the-bling-ring): Sun 11/12 (2:00pm)
+
+    * [The Servant](https://drafthouse.com/los-angeles/show/the-servant): Sat 11/18 (2:10pm)
+
 ### Tue 10/31 7:25pm
 
 * New screenings: 
