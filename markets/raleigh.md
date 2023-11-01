@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Wed 11/1 3:14pm
+* New movies: The Bling Ring, The Servant, Rush to Judgment
+
+* New screenings: 
+    * [Rush To Judgment](https://drafthouse.com/raleigh/show/rush-to-judgment): Wed 11/22 (3:00pm)
+
+    * [The Bling Ring](https://drafthouse.com/raleigh/show/the-bling-ring): Sat 11/11 (11:30am)
+
+    * [The Servant](https://drafthouse.com/raleigh/show/the-servant): Sun 11/19 (3:15pm)
+
 ### Wed 11/1 9:21am
 * New movies: The Color Purple 2023
 
