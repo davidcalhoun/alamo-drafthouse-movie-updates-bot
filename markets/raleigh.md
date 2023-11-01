@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Wed 11/1 12:22am
+* New movies: The Hunger Games: The Ballad of Songbirds & Snakes, The Hunger Games: The Ballad of Songbirds & Snakes
+
+* New screenings: 
+    * [Movie Party The Hunger Games The Ballad Of Songbirds Snakes Panem Party Screening](https://drafthouse.com/raleigh/show/movie-party-the-hunger-games-the-ballad-of-songbirds-snakes-panem-party-screening): Thu 11/16 (7:00pm)
+
+    * [The Hunger Games The Ballad Of Songbirds Snakes](https://drafthouse.com/raleigh/show/the-hunger-games-the-ballad-of-songbirds-snakes): Thu 11/16 (10:00pm), Fri 11/17 (7:15pm), Sat 11/18 (7:15pm), Sun 11/19 (7:15pm)
+
 ### Mon 10/30 5:14pm
 * New movies: Blade Runner: The Final Cut, Casablanca, Kiki's Delivery Service Dubbed, Kiki's Delivery Service Subtitled, Nowhere, The Tunnel to Summer, the Exit of Goodbyes Subtitled, The Tunnel to Summer, the Exit of Goodbyes Dubbed, You've Got Mail
 
