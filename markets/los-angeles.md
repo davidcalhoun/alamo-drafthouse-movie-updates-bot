@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 11/1 6:18am
+* New movies: The Color Purple 2023
+
+* New screenings: 
+    * [The Color Purple 2023](https://drafthouse.com/los-angeles/show/the-color-purple-2023): Mon 12/25 (11:15am, 2:50pm, 6:30pm, 10:10pm), Tue 12/26 (11:15am, 2:50pm, 6:30pm, 10:10pm), Wed 12/27 (2:50pm, 6:30pm, 10:10pm), Thu 12/28 (2:50pm, 6:30pm, 10:10pm), Fri 12/29 (11:15am, 2:50pm, 6:30pm, 10:10pm), Sat 12/30 (11:15am, 2:50pm, 6:30pm, 10:10pm), Sun 12/31 (11:15am, 2:50pm, 6:30pm)
+
 ### Tue 10/31 9:18pm
 * New movies: The Hunger Games: The Ballad of Songbirds & Snakes, The Hunger Games: The Ballad of Songbirds & Snakes
 
