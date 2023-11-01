@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Tue 10/31 7:25pm
+
+* New screenings: 
+    * [Farewell My Concubine](https://drafthouse.com/los-angeles/show/farewell-my-concubine): Sat 11/11 (2:55pm)
+
+    * [Thief](https://drafthouse.com/los-angeles/show/thief): Tue 12/26 (7:00pm)
+
 ### Tue 10/31 3:13pm
 * New movies: Cade – The Tortured Crossing, It's a Wonderful Knife
 
