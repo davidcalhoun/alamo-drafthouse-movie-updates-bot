@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 11/1 9:21am
+* New movies: The Color Purple 2023
+
+* New screenings: 
+    * [The Color Purple 2023](https://drafthouse.com/raleigh/show/the-color-purple-2023): Mon 12/25 (11:00am, 2:30pm, 6:00pm, 9:30pm), Tue 12/26 (11:00am, 2:30pm, 6:00pm, 9:30pm), Wed 12/27 (11:00am, 2:30pm, 6:00pm, 9:30pm), Thu 12/28 (11:00am, 2:30pm, 6:00pm, 9:30pm), Fri 12/29 (11:00am, 2:30pm, 6:00pm, 9:30pm), Sat 12/30 (11:00am, 2:30pm, 6:00pm, 9:30pm), Sun 12/31 (11:00am, 2:30pm, 6:00pm)
+
 ### Wed 11/1 12:22am
 * New movies: The Hunger Games: The Ballad of Songbirds & Snakes, The Hunger Games: The Ballad of Songbirds & Snakes
 
