@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 10/31 9:18pm
+* New movies: The Hunger Games: The Ballad of Songbirds & Snakes, The Hunger Games: The Ballad of Songbirds & Snakes
+
+* New screenings: 
+    * [Movie Party The Hunger Games The Ballad Of Songbirds Snakes Panem Party Screening](https://drafthouse.com/los-angeles/show/movie-party-the-hunger-games-the-ballad-of-songbirds-snakes-panem-party-screening): Thu 11/16 (6:15pm), Fri 11/17 (6:15pm)
+
+    * [The Hunger Games The Ballad Of Songbirds Snakes](https://drafthouse.com/los-angeles/show/the-hunger-games-the-ballad-of-songbirds-snakes): Thu 11/16 (3:00pm, 10:00pm), Fri 11/17 (11:25am, 2:45pm, 9:45pm), Sat 11/18 (11:25am, 2:45pm, 6:15pm, 9:45pm), Sun 11/19 (11:25am, 2:45pm, 6:15pm)
+
 ### Tue 10/31 8:15pm
 * New movies: The Bling Ring, The Servant
 
