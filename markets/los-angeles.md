@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 11/2 6:18am
+* New movies: Dream Scenario
+
+* New screenings: 
+    * [Fantastic Fest Presents Dream Scenario W Livestream Q A](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-dream-scenario-w-livestream-q-a): Wed 11/15 (5:00pm)
+
 ### Wed 11/1 6:18am
 * New movies: The Color Purple 2023
 
