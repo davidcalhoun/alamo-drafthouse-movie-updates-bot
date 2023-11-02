@@ -1,6 +1,15 @@
 # los-angeles
 
 ## Movie updates
+### Thu 11/2 1:15pm
+
+* New screenings: 
+    * [Blow Out](https://drafthouse.com/los-angeles/show/blow-out): Sat 11/4 (5:40pm)
+
+    * [Priscilla](https://drafthouse.com/los-angeles/show/priscilla): Sun 11/5 (3:35pm)
+
+    * [The Killer 2023](https://drafthouse.com/los-angeles/show/the-killer-2023): Fri 11/3 (10:10pm), Sun 11/5 (7:00pm)
+
 ### Thu 11/2 6:18am
 * New movies: Dream Scenario
 
