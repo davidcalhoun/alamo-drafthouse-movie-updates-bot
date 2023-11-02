@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 11/2 10:18am
+* New movies: I, The Jury in 3D
+
+* New screenings: 
+    * [I The Jury](https://drafthouse.com/raleigh/show/i-the-jury): Mon 12/4 (4:00pm)
+
 ### Thu 11/2 9:25am
 * New movies: Dream Scenario
 
