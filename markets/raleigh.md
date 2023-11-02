@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 11/2 9:25am
+* New movies: Dream Scenario
+
+* New screenings: 
+    * [Fantastic Fest Presents Dream Scenario W Livestream Q A](https://drafthouse.com/raleigh/show/fantastic-fest-presents-dream-scenario-w-livestream-q-a): Wed 11/15 (8:00pm)
+
 ### Wed 11/1 3:14pm
 * New movies: The Bling Ring, The Servant, Rush to Judgment
 
