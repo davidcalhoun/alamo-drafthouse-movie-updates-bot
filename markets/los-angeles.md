@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 11/3 2:15am
+
+* New screenings: 
+    * [Wish](https://drafthouse.com/los-angeles/show/wish): Fri 11/24 (11:20am, 3:20pm, 6:15pm, 9:10pm), Sat 11/25 (11:20am, 3:20pm, 6:15pm, 9:10pm), Sun 11/26 (12:30pm, 3:20pm, 6:15pm), Mon 11/27 (3:20pm, 6:15pm, 9:10pm), Tue 11/28 (11:20am, 3:20pm, 6:15pm, 9:10pm), Wed 11/29 (3:20pm, 6:15pm, 9:10pm)
+
 ### Fri 11/3 1:19am
 * New movies: Wish
 
