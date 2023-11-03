@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 11/3 6:19am
+* New movies: Saltburn, Saltburn
+
+* New screenings: 
+    * [Fantastic Fest Presents Saltburn Early Access](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-saltburn-early-access): Sat 11/11 (7:00pm)
+
+    * [Saltburn](https://drafthouse.com/los-angeles/show/saltburn): Tue 11/21 (2:45pm, 6:15pm, 9:35pm), Wed 11/22 (3:30pm, 7:15pm, 10:30pm), Thu 11/23 (3:35pm, 7:00pm, 10:20pm), Fri 11/24 (12:20pm, 3:40pm, 7:00pm, 10:20pm), Sat 11/25 (12:20pm, 3:40pm, 7:00pm, 10:20pm), Sun 11/26 (11:40am, 3:40pm, 7:00pm), Mon 11/27 (3:40pm, 7:00pm, 10:20pm), Tue 11/28 (12:20pm, 3:40pm, 7:00pm, 10:20pm), Wed 11/29 (3:40pm, 7:00pm, 10:20pm)
+
 ### Fri 11/3 2:15am
 
 * New screenings: 
