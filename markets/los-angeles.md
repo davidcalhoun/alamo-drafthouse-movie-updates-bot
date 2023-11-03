@@ -1,6 +1,22 @@
 # los-angeles
 
 ## Movie updates
+### Thu 11/2 9:18pm
+* New movies: It's a Wonderful Life
+
+* New screenings: 
+    * [Brunch Screenings Its A Wonderful Life Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-its-a-wonderful-life-brunch): Sat 12/23 (11:30am)
+
+    * [Brunch Screenings Little Women 2019 Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-little-women-2019-brunch): Sun 12/3 (11:00am)
+
+    * [Champagne Cinema The Holiday](https://drafthouse.com/los-angeles/show/champagne-cinema-the-holiday): Sun 12/3 (11:10am)
+
+    * [Its A Wonderful Life](https://drafthouse.com/los-angeles/show/its-a-wonderful-life): Mon 12/18 (2:35pm)
+
+    * [Movie Party Elf](https://drafthouse.com/los-angeles/show/movie-party-elf): Sun 12/10 (12:00pm, 3:00pm), Sun 12/24 (12:00pm)
+
+    * [Movie Party National Lampoons Christmas Vacation](https://drafthouse.com/los-angeles/show/movie-party-national-lampoons-christmas-vacation): Sun 12/3 (6:30pm), Wed 12/6 (6:30pm)
+
 ### Thu 11/2 1:15pm
 
 * New screenings: 
