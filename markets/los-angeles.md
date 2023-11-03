@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 11/3 1:19am
+* New movies: Wish
+
+* New screenings: 
+    * [The Servant](https://drafthouse.com/los-angeles/show/the-servant): Wed 11/22 (11:00am)
+
+    * [Wish](https://drafthouse.com/los-angeles/show/wish): Wed 11/22 (11:40am, 3:40pm, 6:30pm)
+
 ### Thu 11/2 9:18pm
 * New movies: It's a Wonderful Life
 
