@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 11/3 12:24pm
+* New movies: Wish
+
+* New screenings: 
+    * [Wish](https://drafthouse.com/raleigh/show/wish): Tue 11/21 (3:30pm, 6:15pm, 9:00pm), Wed 11/22 (12:45pm, 3:30pm, 6:15pm, 9:00pm), Thu 11/23 (12:45pm, 3:30pm, 6:15pm, 9:00pm), Fri 11/24 (12:45pm, 3:30pm, 6:15pm, 9:00pm), Sat 11/25 (12:45pm, 3:30pm, 6:15pm, 9:00pm), Sun 11/26 (12:45pm, 3:30pm, 6:15pm, 9:00pm)
+
 ### Fri 11/3 9:22am
 * New movies: Saltburn
 
