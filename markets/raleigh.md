@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 11/3 3:14pm
+* New movies: Next Goal Wins 2023
+
+* New screenings: 
+    * [Next Goal Wins 2023](https://drafthouse.com/raleigh/show/next-goal-wins-2023): Thu 11/16 (7:30pm, 10:20pm), Fri 11/17 (7:30pm), Sat 11/18 (7:30pm), Sun 11/19 (7:30pm)
+
 ### Fri 11/3 12:24pm
 * New movies: Wish
 
