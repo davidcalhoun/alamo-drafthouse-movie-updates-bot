@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 11/3 9:22am
+* New movies: Saltburn
+
+* New screenings: 
+    * [Saltburn](https://drafthouse.com/raleigh/show/saltburn): Tue 11/21 (3:35pm, 6:45pm, 9:55pm), Wed 11/22 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Thu 11/23 (12:15pm, 3:30pm, 6:45pm, 10:00pm)
+
 ### Thu 11/2 10:18am
 * New movies: I, The Jury in 3D
 
