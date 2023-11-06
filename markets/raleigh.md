@@ -1,6 +1,56 @@
 # raleigh
 
 ## Movie updates
+### Mon 11/6 6:18pm
+* New movies: Your Lucky Day, Kiki's Delivery Service Subtitled, TAYLOR SWIFT | THE ERAS TOUR, Vertigo, Back to the Future, It's a Wonderful Knife, UFC 295: Prochazka vs. Pereira
+
+* New screenings: 
+    * [Anatomy Of A Fall](https://drafthouse.com/raleigh/show/anatomy-of-a-fall): Thu 11/9 (12:00pm, 2:30pm), Fri 11/10 (3:40pm, 7:15pm), Sat 11/11 (3:40pm, 7:15pm), Sun 11/12 (3:40pm, 7:15pm), Mon 11/13 (3:30pm, 7:05pm), Tue 11/14 (3:45pm, 7:20pm), Wed 11/15 (3:40pm, 7:15pm)
+
+    * [Back To The Future](https://drafthouse.com/raleigh/show/back-to-the-future): Fri 11/10 (1:45pm), Sun 11/12 (5:00pm), Mon 11/13 (2:00pm), Tue 11/14 (5:20pm), Wed 11/15 (5:00pm)
+
+    * [Blade Runner The Final Cut](https://drafthouse.com/raleigh/show/blade-runner-the-final-cut): Thu 11/9 (5:15pm, 9:15pm), Fri 11/10 (3:45pm), Sat 11/11 (4:50pm), Sun 11/12 (5:00pm), Mon 11/13 (1:00pm), Tue 11/14 (5:30pm), Wed 11/15 (3:45pm)
+
+    * [Five Nights At Freddys](https://drafthouse.com/raleigh/show/five-nights-at-freddys): Thu 11/9 (1:10pm, 4:05pm, 6:50pm, 9:45pm), Fri 11/10 (1:30pm, 4:30pm, 7:40pm, 10:40pm), Sat 11/11 (1:30pm, 4:30pm, 7:40pm, 10:40pm), Sun 11/12 (1:30pm, 4:30pm, 7:25pm, 10:20pm), Mon 11/13 (1:30pm, 4:30pm, 7:25pm, 10:20pm), Tue 11/14 (1:35pm, 4:35pm, 7:30pm, 10:25pm), Wed 11/15 (1:30pm, 4:40pm, 7:40pm, 10:35pm)
+
+    * [Its A Wonderful Knife](https://drafthouse.com/raleigh/show/its-a-wonderful-knife): Thu 11/9 (11:30pm), Fri 11/10 (10:15pm), Sat 11/11 (8:15pm), Sun 11/12 (8:15pm, 11:05pm), Mon 11/13 (8:00pm), Tue 11/14 (9:15pm), Wed 11/15 (8:15pm, 9:00pm)
+
+    * [Kikis Delivery Service Dubbed](https://drafthouse.com/raleigh/show/kikis-delivery-service-dubbed): Thu 11/9 (12:15pm, 3:40pm)
+
+    * [Kikis Delivery Service Subtitled](https://drafthouse.com/raleigh/show/kikis-delivery-service-subtitled): Fri 11/10 (1:00pm), Sat 11/11 (2:05pm), Sun 11/12 (2:15pm), Mon 11/13 (5:15pm), Tue 11/14 (3:35pm), Wed 11/15 (1:00pm)
+
+    * [Killers Of The Flower Moon](https://drafthouse.com/raleigh/show/killers-of-the-flower-moon): Thu 11/9 (12:10pm, 4:40pm, 6:15pm), Fri 11/10 (11:30am, 4:00pm, 8:30pm), Sat 11/11 (11:45am, 4:15pm, 8:45pm), Sun 11/12 (11:30am, 4:00pm, 8:30pm), Mon 11/13 (11:30am, 4:00pm, 8:30pm), Tue 11/14 (12:30pm, 5:00pm, 8:35pm), Wed 11/15 (11:30am, 4:00pm, 8:30pm)
+
+    * [Nowhere](https://drafthouse.com/raleigh/show/nowhere): Thu 11/9 (10:15pm)
+
+    * [Priscilla](https://drafthouse.com/raleigh/show/priscilla): Thu 11/9 (1:30pm, 3:55pm, 6:45pm, 9:40pm), Fri 11/10 (1:05pm, 4:05pm, 7:00pm, 9:55pm), Sat 11/11 (12:30pm, 3:25pm, 6:20pm, 9:15pm), Sun 11/12 (12:30pm, 3:25pm, 6:20pm, 9:15pm), Mon 11/13 (12:30pm, 3:25pm, 6:20pm, 9:15pm), Tue 11/14 (12:35pm, 3:30pm, 6:25pm, 9:20pm), Wed 11/15 (1:05pm, 4:05pm, 7:00pm, 9:55pm)
+
+    * [Taylor Swift The Eras Tour](https://drafthouse.com/raleigh/show/taylor-swift-the-eras-tour): Thu 11/9 (3:00pm, 7:00pm), Fri 11/10 (2:00pm, 6:00pm), Sat 11/11 (2:00pm, 6:00pm), Sun 11/12 (2:00pm, 6:00pm)
+
+    * [The Bling Ring](https://drafthouse.com/raleigh/show/the-bling-ring): Thu 11/9 (2:30pm), Fri 11/10 (1:05pm), Sat 11/11 (1:05pm), Sun 11/12 (1:05pm), Mon 11/13 (12:45pm), Tue 11/14 (1:00pm, 1:10pm), Wed 11/15 (1:05pm, 3:15pm)
+
+    * [The Exorcist Believer](https://drafthouse.com/raleigh/show/the-exorcist-believer): Thu 11/9 (10:45pm)
+
+    * [The Holdovers](https://drafthouse.com/raleigh/show/the-holdovers): Thu 11/9 (8:15pm, 9:00pm), Fri 11/10 (12:00pm, 3:20pm, 10:00pm), Sat 11/11 (12:00pm, 3:20pm, 10:00pm), Sun 11/12 (12:00pm, 3:20pm, 9:55pm), Mon 11/13 (12:00pm, 3:20pm, 6:40pm, 10:00pm), Tue 11/14 (12:00pm, 3:20pm, 6:45pm, 10:00pm), Wed 11/15 (12:15pm, 3:30pm, 6:45pm, 10:00pm)
+
+    * [The Killer 2023](https://drafthouse.com/raleigh/show/the-killer-2023): Thu 11/9 (12:45pm, 4:00pm, 7:15pm, 10:25pm), Fri 11/10 (6:45pm, 9:50pm), Sat 11/11 (7:55pm, 11:00pm), Sun 11/12 (8:00pm, 10:00pm), Mon 11/13 (6:55pm, 10:00pm), Tue 11/14 (4:50pm, 8:30pm), Wed 11/15 (6:45pm, 9:50pm)
+
+    * [The Long Goodbye](https://drafthouse.com/raleigh/show/the-long-goodbye): Thu 11/9 (1:00pm), Sat 11/11 (2:40pm), Sun 11/12 (2:40pm), Mon 11/13 (4:00pm), Tue 11/14 (2:35pm), Wed 11/15 (4:25pm)
+
+    * [The Marvels](https://drafthouse.com/raleigh/show/the-marvels): Thu 11/9 (4:30pm, 6:00pm, 7:25pm, 10:15pm), Fri 11/10 (12:30pm, 3:20pm, 5:35pm, 6:15pm, 8:25pm, 9:05pm, 11:15pm), Sat 11/11 (12:30pm, 3:20pm, 5:35pm, 6:15pm, 8:25pm, 9:05pm, 11:15pm), Sun 11/12 (12:30pm, 3:20pm, 5:35pm, 6:15pm, 8:25pm, 9:05pm, 11:15pm), Mon 11/13 (12:40pm, 2:35pm, 3:30pm, 5:25pm, 6:30pm, 8:15pm, 11:05pm), Tue 11/14 (12:15pm, 1:45pm, 2:00pm, 3:05pm, 6:00pm, 8:00pm, 9:00pm, 10:50pm), Wed 11/15 (12:50pm, 1:30pm, 2:15pm, 3:45pm, 5:10pm, 6:35pm, 10:20pm, 10:50pm)
+
+    * [The Nightmare Before Christmas](https://drafthouse.com/raleigh/show/the-nightmare-before-christmas): Thu 11/9 (1:50pm)
+
+    * [The Tunnel To Summer The Exit Of Goodbyes Subtitled 2](https://drafthouse.com/raleigh/show/the-tunnel-to-summer-the-exit-of-goodbyes-subtitled-2): Thu 11/9 (4:15pm)
+
+    * [The Wedding Singer](https://drafthouse.com/raleigh/show/the-wedding-singer): Sat 11/11 (11:15am), Mon 11/13 (2:30pm), Tue 11/14 (11:50am), Wed 11/15 (6:00pm)
+
+    * [Ufc 295 Prochazka Vs Pereira](https://drafthouse.com/raleigh/show/ufc-295-prochazka-vs-pereira): Sat 11/11 (10:00pm)
+
+    * [Vertigo](https://drafthouse.com/raleigh/show/vertigo): Fri 11/10 (5:00pm), Sat 11/11 (5:00pm), Sun 11/12 (1:45pm), Tue 11/14 (2:00pm)
+
+    * [Your Lucky Day](https://drafthouse.com/raleigh/show/your-lucky-day): Thu 11/9 (11:00pm), Fri 11/10 (8:15pm, 10:50pm), Sat 11/11 (10:50pm), Sun 11/12 (10:50pm), Mon 11/13 (10:40pm), Tue 11/14 (10:55pm), Wed 11/15 (12:30pm, 10:45pm)
+
 ### Mon 11/6 3:19pm
 
 * New screenings: 
