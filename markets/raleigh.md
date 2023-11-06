@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 11/6 9:20am
+* New movies: Napoleon
+
+* New screenings: 
+    * [Napoleon](https://drafthouse.com/raleigh/show/napoleon): Tue 11/21 (3:00pm, 7:00pm, 10:45pm), Wed 11/22 (7:00pm), Thu 11/23 (7:00pm), Fri 11/24 (7:05pm), Sat 11/25 (7:00pm), Sun 11/26 (7:00pm)
+
 ### Fri 11/3 3:14pm
 * New movies: Next Goal Wins 2023
 
