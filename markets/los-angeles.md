@@ -1,6 +1,60 @@
 # los-angeles
 
 ## Movie updates
+### Mon 11/6 2:14pm
+* New movies: Vertigo, TAYLOR SWIFT | THE ERAS TOUR, It's a Wonderful Knife, Teenage Mutant Ninja Turtles 1990, The Last Detail, Back to the Future, The Wedding Singer
+
+* New screenings: 
+    * [Anatomy Of A Fall](https://drafthouse.com/los-angeles/show/anatomy-of-a-fall): Thu 11/9 (2:10pm, 6:00pm), Fri 11/10 (11:00am, 2:45pm, 6:35pm), Sat 11/11 (12:00pm, 3:45pm), Sun 11/12 (11:00am, 2:45pm, 6:35pm), Mon 11/13 (11:15am, 2:35pm, 6:30pm), Tue 11/14 (11:30am, 2:35pm, 6:30pm), Wed 11/15 (12:15pm, 2:45pm, 6:35pm)
+
+    * [Back To The Future](https://drafthouse.com/los-angeles/show/back-to-the-future): Mon 11/13 (2:30pm), Wed 11/15 (10:30pm)
+
+    * [Blood Tea And Red String](https://drafthouse.com/los-angeles/show/blood-tea-and-red-string): Thu 11/9 (2:20pm, 11:00pm), Fri 11/10 (11:00pm), Sat 11/11 (11:00pm), Mon 11/13 (11:00am), Tue 11/14 (11:00am), Wed 11/15 (10:50pm)
+
+    * [Brunch Screenings The Marvels Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-the-marvels-brunch): Sat 11/11 (11:30am)
+
+    * [Brunch Screenings The Wedding Singer Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-the-wedding-singer-brunch): Sat 11/11 (11:00am)
+
+    * [Dune 1984](https://drafthouse.com/los-angeles/show/dune-1984): Thu 11/9 (9:50pm)
+
+    * [Fantastic Fest Presents Saltburn Early Access](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-saltburn-early-access): Sat 11/11 (7:15pm)
+
+    * [Farewell My Concubine](https://drafthouse.com/los-angeles/show/farewell-my-concubine): Fri 11/10 (12:20pm), Sun 11/12 (11:35am), Tue 11/14 (4:25pm), Wed 11/15 (12:30pm)
+
+    * [Five Nights At Freddys](https://drafthouse.com/los-angeles/show/five-nights-at-freddys): Thu 11/9 (2:00pm, 5:05pm, 7:30pm, 10:35pm), Fri 11/10 (12:00pm, 3:05pm, 6:10pm, 9:15pm), Sat 11/11 (12:15pm, 3:25pm, 6:35pm, 9:40pm), Sun 11/12 (12:00pm, 3:05pm, 6:10pm, 9:15pm), Mon 11/13 (11:25am, 3:05pm, 6:10pm, 10:15pm), Tue 11/14 (12:00pm, 3:05pm, 6:10pm, 9:15pm), Wed 11/15 (12:10pm, 3:15pm, 6:20pm, 9:25pm)
+
+    * [Graveyard Shift The Mist In Black White](https://drafthouse.com/los-angeles/show/graveyard-shift-the-mist-in-black-white): Mon 11/13 (10:35pm), Tue 11/14 (8:30pm)
+
+    * [In The Court Of The Crimson King King Crimson At 50](https://drafthouse.com/los-angeles/show/in-the-court-of-the-crimson-king-king-crimson-at-50): Thu 11/9 (5:45pm), Mon 11/13 (11:10am)
+
+    * [Its A Wonderful Knife](https://drafthouse.com/los-angeles/show/its-a-wonderful-knife): Fri 11/10 (2:20pm, 10:35pm), Sat 11/11 (4:25pm, 10:35pm), Sun 11/12 (10:20pm), Mon 11/13 (4:20pm, 9:15pm), Tue 11/14 (4:45pm, 10:15pm), Wed 11/15 (10:20pm)
+
+    * [Killers Of The Flower Moon](https://drafthouse.com/los-angeles/show/killers-of-the-flower-moon): Thu 11/9 (2:45pm, 8:10pm), Fri 11/10 (11:25am, 4:15pm, 8:30pm, 9:10pm), Sat 11/11 (11:40am, 1:50pm, 6:15pm, 8:40pm), Sun 11/12 (11:25am, 4:10pm, 7:45pm, 8:45pm), Mon 11/13 (11:30am, 4:15pm, 6:00pm, 8:00pm, 9:00pm), Tue 11/14 (11:40am, 4:15pm, 6:00pm, 8:00pm, 9:00pm), Wed 11/15 (12:00pm, 4:15pm, 7:45pm, 9:00pm)
+
+    * [Priscilla](https://drafthouse.com/los-angeles/show/priscilla): Tue 11/14 (11:20am)
+
+    * [Taylor Swift The Eras Tour](https://drafthouse.com/los-angeles/show/taylor-swift-the-eras-tour): Thu 11/9 (2:35pm, 6:45pm), Fri 11/10 (2:15pm, 6:25pm), Sat 11/11 (2:05pm), Sun 11/12 (2:15pm, 6:25pm)
+
+    * [Teenage Mutant Ninja Turtles 1990](https://drafthouse.com/los-angeles/show/teenage-mutant-ninja-turtles-1990): Sun 11/12 (11:15am), Mon 11/13 (11:00am), Tue 11/14 (1:25pm), Wed 11/15 (2:10pm)
+
+    * [The Bling Ring](https://drafthouse.com/los-angeles/show/the-bling-ring): Tue 11/14 (11:00am), Wed 11/15 (8:00pm)
+
+    * [The Killer 2023](https://drafthouse.com/los-angeles/show/the-killer-2023): Thu 11/9 (3:45pm, 7:00pm, 10:10pm), Fri 11/10 (12:45pm, 4:00pm, 7:15pm, 10:25pm), Sat 11/11 (12:45pm, 4:00pm, 7:15pm, 10:25pm), Sun 11/12 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Mon 11/13 (12:45pm, 4:00pm, 7:15pm, 10:25pm), Tue 11/14 (12:45pm, 4:00pm, 7:15pm, 10:25pm), Wed 11/15 (12:45pm, 4:00pm, 7:15pm, 10:25pm)
+
+    * [The Last Detail](https://drafthouse.com/los-angeles/show/the-last-detail): Fri 11/10 (5:00pm), Sun 11/12 (4:45pm), Mon 11/13 (1:25pm)
+
+    * [The Long Goodbye](https://drafthouse.com/los-angeles/show/the-long-goodbye): Fri 11/10 (11:10am, 10:35pm), Sat 11/11 (11:00am, 10:20pm), Sun 11/12 (10:35pm), Mon 11/13 (11:30am, 1:55pm, 10:10pm), Tue 11/14 (1:45pm), Wed 11/15 (11:40am, 4:40pm)
+
+    * [The Marvels](https://drafthouse.com/los-angeles/show/the-marvels): Thu 11/9 (4:45pm, 7:45pm, 8:30pm, 9:45pm), Fri 11/10 (11:30am, 2:30pm, 5:30pm), Sat 11/11 (2:30pm, 5:30pm), Sun 11/12 (11:30am, 2:30pm, 5:30pm), Mon 11/13 (1:50pm, 5:00pm), Tue 11/14 (11:00am, 2:00pm, 5:00pm), Wed 11/15 (11:00am, 1:00pm, 2:00pm, 3:00pm, 5:00pm, 6:00pm, 7:00pm, 9:00pm, 10:00pm)
+
+    * [The Wedding Singer](https://drafthouse.com/los-angeles/show/the-wedding-singer): Wed 11/15 (11:10am)
+
+    * [Vertigo](https://drafthouse.com/los-angeles/show/vertigo): Fri 11/10 (10:20pm), Sun 11/12 (8:30pm), Tue 11/14 (10:35pm), Wed 11/15 (11:30am)
+
+    * [Where The Devil Roams](https://drafthouse.com/los-angeles/show/where-the-devil-roams): Thu 11/9 (3:00pm)
+
+    * [Your Lucky Day](https://drafthouse.com/los-angeles/show/your-lucky-day): Thu 11/9 (10:45pm), Fri 11/10 (11:35am), Sat 11/11 (10:50pm), Tue 11/14 (3:15pm), Wed 11/15 (10:45pm)
+
 ### Mon 11/6 6:15am
 * New movies: Napoleon
 
