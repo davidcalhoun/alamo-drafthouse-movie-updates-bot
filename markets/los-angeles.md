@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 11/6 6:15am
+* New movies: Napoleon
+
+* New screenings: 
+    * [Napoleon](https://drafthouse.com/los-angeles/show/napoleon): Tue 11/21 (3:10pm, 7:00pm, 9:50pm), Wed 11/22 (11:45am, 2:10pm, 6:00pm, 9:50pm), Thu 11/23 (2:10pm, 6:00pm, 9:15pm), Fri 11/24 (11:30am, 2:10pm, 6:00pm, 9:50pm), Sat 11/25 (11:30am, 2:10pm, 6:00pm, 9:50pm), Sun 11/26 (11:40am, 2:00pm, 6:00pm), Mon 11/27 (2:10pm, 6:00pm, 9:50pm), Tue 11/28 (11:30am, 2:10pm, 6:00pm, 9:50pm), Wed 11/29 (2:10pm, 6:00pm, 9:50pm)
+
 ### Fri 11/3 6:19am
 * New movies: Saltburn, Saltburn
 
