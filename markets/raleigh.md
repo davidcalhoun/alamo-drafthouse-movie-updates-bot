@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 11/6 3:19pm
+
+* New screenings: 
+    * [Movie Party National Lampoons Christmas Vacation](https://drafthouse.com/raleigh/show/movie-party-national-lampoons-christmas-vacation): Wed 11/29 (6:45pm), Tue 12/19 (7:00pm)
+
 ### Mon 11/6 12:18pm
 * New movies: Dawn of the Dead 2004
 
