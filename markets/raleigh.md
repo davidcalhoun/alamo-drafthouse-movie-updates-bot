@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Mon 11/6 12:18pm
+* New movies: Dawn of the Dead 2004
+
+* New screenings: 
+    * [Terror Tuesday Dawn Of The Dead 2004](https://drafthouse.com/raleigh/show/terror-tuesday-dawn-of-the-dead-2004): Tue 11/14 (9:30pm)
+
+    * [The Marvels](https://drafthouse.com/raleigh/show/the-marvels): Tue 11/14 (4:35pm, 7:30pm, 10:20pm)
+
 ### Mon 11/6 9:20am
 * New movies: Napoleon
 
