@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Tue 11/7 1:23pm
+* New movies: Vertigo, Back to the Future, Teenage Mutant Ninja Turtles 1990
+
+* New screenings: 
+    * [Back To The Future](https://drafthouse.com/raleigh/show/back-to-the-future): Fri 11/10 (1:45pm), Sun 11/12 (5:00pm), Mon 11/13 (2:00pm), Tue 11/14 (5:20pm), Wed 11/15 (5:00pm)
+
+    * [Teenage Mutant Ninja Turtles 1990](https://drafthouse.com/raleigh/show/teenage-mutant-ninja-turtles-1990): Sat 11/11 (2:15pm), Mon 11/13 (5:15pm), Wed 11/15 (2:15pm)
+
+    * [Vertigo](https://drafthouse.com/raleigh/show/vertigo): Fri 11/10 (5:00pm), Sat 11/11 (5:00pm), Sun 11/12 (1:45pm), Tue 11/14 (2:00pm)
+
 ### Tue 11/7 12:17pm
 * New movies: Next Goal Wins 2023
 
