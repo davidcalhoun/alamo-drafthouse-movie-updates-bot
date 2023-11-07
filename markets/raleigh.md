@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 11/7 12:17pm
+* New movies: Next Goal Wins 2023
+
+* New screenings: 
+    * [Next Goal Wins 2023](https://drafthouse.com/raleigh/show/next-goal-wins-2023): Thu 11/16 (7:30pm, 10:20pm), Fri 11/17 (7:30pm), Sat 11/18 (7:30pm), Sun 11/19 (7:30pm)
+
 ### Mon 11/6 6:18pm
 * New movies: Your Lucky Day, Kiki's Delivery Service Subtitled, TAYLOR SWIFT | THE ERAS TOUR, Vertigo, Back to the Future, It's a Wonderful Knife, UFC 295: Prochazka vs. Pereira
 
