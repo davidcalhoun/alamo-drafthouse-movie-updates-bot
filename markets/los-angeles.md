@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 11/7 12:16pm
+
+* New screenings: 
+    * [Anatomy Of A Fall](https://drafthouse.com/los-angeles/show/anatomy-of-a-fall): Sat 11/11 (7:30pm)
+
 ### Tue 11/7 11:12am
 
 * New screenings: 
