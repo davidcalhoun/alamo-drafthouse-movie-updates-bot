@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 11/7 8:20am
+* New movies: Next Goal Wins 2023
+
+* New screenings: 
+    * [Next Goal Wins 2023](https://drafthouse.com/los-angeles/show/next-goal-wins-2023): Thu 11/16 (6:30pm, 9:30pm), Fri 11/17 (12:15pm, 3:15pm, 6:30pm, 9:30pm), Sat 11/18 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sun 11/19 (12:30pm, 3:30pm, 6:30pm, 9:30pm)
+
 ### Mon 11/6 5:10pm
 * New movies: Little Women 2019
 
