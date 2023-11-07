@@ -1,6 +1,22 @@
 # los-angeles
 
 ## Movie updates
+### Mon 11/6 5:10pm
+* New movies: Little Women 2019
+
+* New screenings: 
+    * [Little Women 2019](https://drafthouse.com/los-angeles/show/little-women-2019): Fri 12/1 (2:30pm)
+
+    * [Saltburn](https://drafthouse.com/los-angeles/show/saltburn): Wed 11/22 (12:00pm)
+
+    * [Thanksgiving](https://drafthouse.com/los-angeles/show/thanksgiving): Sun 11/19 (10:10pm)
+
+    * [The Hunger Games The Ballad Of Songbirds Snakes](https://drafthouse.com/los-angeles/show/the-hunger-games-the-ballad-of-songbirds-snakes): Sun 11/19 (9:00pm), Tue 11/21 (6:30pm), Wed 11/22 (11:20am, 2:45pm, 6:15pm, 9:40pm)
+
+    * [The Marvels](https://drafthouse.com/los-angeles/show/the-marvels): Sun 11/19 (9:45pm)
+
+    * [Wish](https://drafthouse.com/los-angeles/show/wish): Tue 11/21 (3:00pm, 7:00pm, 10:20pm)
+
 ### Mon 11/6 2:14pm
 * New movies: Vertigo, TAYLOR SWIFT | THE ERAS TOUR, It's a Wonderful Knife, Teenage Mutant Ninja Turtles 1990, The Last Detail, Back to the Future, The Wedding Singer
 
