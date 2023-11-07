@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 11/7 11:12am
+
+* New screenings: 
+    * [Fantastic Fest Presents Saltburn Early Access](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-saltburn-early-access): Sat 11/11 (7:30pm)
+
 ### Tue 11/7 8:20am
 * New movies: Next Goal Wins 2023
 
