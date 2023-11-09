@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 11/9 8:20am
+* New movies: Eileen
+
+* New screenings: 
+    * [Fantastic Fest Presents Eileen W Live Q A](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-eileen-w-live-q-a): Wed 11/29 (7:15pm, 7:45pm)
+
 ### Thu 11/9 1:15am
 * New movies: Mondo Travolta + The Experts
 
