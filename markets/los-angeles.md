@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 11/10 6:13am
+* New movies: Dream Scenario
+
+* New screenings: 
+    * [Dream Scenario](https://drafthouse.com/los-angeles/show/dream-scenario): Thu 11/16 (4:20pm, 7:15pm, 10:10pm), Fri 11/17 (12:35pm, 4:15pm, 7:00pm, 10:00pm), Sat 11/18 (11:00am, 1:55pm, 4:50pm, 7:45pm), Sun 11/19 (1:00pm, 4:00pm, 6:00pm), Tue 11/21 (11:50am, 2:00pm, 5:00pm, 7:45pm), Wed 11/22 (11:50am, 3:15pm, 6:45pm)
+
 ### Thu 11/9 8:20am
 * New movies: Eileen
 
