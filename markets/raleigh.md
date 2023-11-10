@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 11/10 9:18am
+* New movies: Dream Scenario
+
+* New screenings: 
+    * [Dream Scenario](https://drafthouse.com/raleigh/show/dream-scenario): Fri 11/24 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sat 11/25 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Sun 11/26 (2:40pm, 5:25pm, 8:10pm, 10:55pm)
+
 ### Tue 11/7 1:23pm
 * New movies: Vertigo, Back to the Future, Teenage Mutant Ninja Turtles 1990
 
