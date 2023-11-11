@@ -1,6 +1,19 @@
 # raleigh
 
 ## Movie updates
+### Sat 11/11 2:13pm
+
+* New screenings: 
+    * [Next Goal Wins 2023](https://drafthouse.com/raleigh/show/next-goal-wins-2023): Fri 11/17 (1:45pm, 4:40pm, 10:20pm), Sat 11/18 (1:50pm, 4:40pm, 10:20pm), Sun 11/19 (1:50pm, 4:40pm, 10:20pm), Mon 11/20 (1:40pm, 4:35pm, 7:25pm, 10:15pm), Tue 11/21 (1:40pm, 4:30pm, 7:20pm, 10:10pm)
+
+    * [Thanksgiving](https://drafthouse.com/raleigh/show/thanksgiving): Thu 11/16 (10:45pm), Mon 11/20 (1:10pm, 4:00pm, 6:50pm, 9:40pm), Tue 11/21 (1:05pm, 3:55pm, 6:45pm, 9:35pm)
+
+    * [The Hunger Games The Ballad Of Songbirds Snakes](https://drafthouse.com/raleigh/show/the-hunger-games-the-ballad-of-songbirds-snakes): Fri 11/17 (11:55am, 3:35pm), Sat 11/18 (11:50am, 3:30pm)
+
+    * [The Marvels](https://drafthouse.com/raleigh/show/the-marvels): Fri 11/17 (12:35pm, 3:25pm, 6:20pm, 9:15pm), Sat 11/18 (12:45pm, 3:35pm, 6:30pm, 9:25pm), Sun 11/19 (12:30pm, 3:30pm, 6:30pm, 9:20pm), Mon 11/20 (12:30pm, 3:20pm, 6:15pm, 9:10pm), Tue 11/21 (12:35pm, 3:25pm, 6:20pm, 9:15pm)
+
+    * [Trolls Band Together](https://drafthouse.com/raleigh/show/trolls-band-together): Mon 11/20 (1:00pm, 3:45pm, 6:30pm, 9:15pm), Tue 11/21 (3:25pm, 6:15pm, 9:00pm)
+
 ### Fri 11/10 9:18am
 * New movies: Dream Scenario
 
