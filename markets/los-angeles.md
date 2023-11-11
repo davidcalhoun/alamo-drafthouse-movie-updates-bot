@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 11/10 9:13pm
+* New movies: Everyone Will Burn, Raging Grace
+
+* New screenings: 
+    * [Everyone Will Burn](https://drafthouse.com/los-angeles/show/everyone-will-burn): Mon 12/4 (9:45pm), Tue 12/5 (1:20pm), Wed 12/6 (3:40pm)
+
+    * [Raging Grace](https://drafthouse.com/los-angeles/show/raging-grace): Mon 12/4 (12:20pm), Tue 12/5 (3:30pm), Wed 12/6 (12:45pm)
+
 ### Fri 11/10 6:13am
 * New movies: Dream Scenario
 
