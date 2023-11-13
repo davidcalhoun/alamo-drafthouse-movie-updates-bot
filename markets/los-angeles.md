@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Mon 11/13 9:14am
+* New movies: The Boy and the Heron Dubbed, The Boy and the Heron Subtitled, The Boy and the Heron Subtitled
+
+* New screenings: 
+    * [Advance Screening The Boy And The Heron Subtitled](https://drafthouse.com/los-angeles/show/advance-screening-the-boy-and-the-heron-subtitled): Wed 12/6 (7:00pm)
+
+    * [The Boy And The Heron Dubbed](https://drafthouse.com/los-angeles/show/the-boy-and-the-heron-dubbed): Thu 12/7 (9:35pm), Fri 12/8 (11:30am, 6:15pm), Sat 12/9 (2:50pm, 9:35pm), Sun 12/10 (11:30am, 6:15pm), Mon 12/11 (2:50pm, 9:35pm), Tue 12/12 (11:30am, 6:15pm), Wed 12/13 (2:50pm, 9:35pm), Fri 12/15 (3:40pm, 10:20pm), Sat 12/16 (12:20pm, 7:00pm), Sun 12/17 (3:40pm, 10:20pm), Tue 12/19 (3:40pm, 10:20pm), Wed 12/20 (7:00pm)
+
+    * [The Boy And The Heron Subtitled](https://drafthouse.com/los-angeles/show/the-boy-and-the-heron-subtitled): Thu 12/7 (6:15pm), Fri 12/8 (2:50pm, 9:35pm), Sat 12/9 (11:30am, 6:15pm), Sun 12/10 (2:50pm, 9:35pm), Mon 12/11 (6:15pm), Tue 12/12 (2:50pm, 9:35pm), Wed 12/13 (6:15pm), Fri 12/15 (12:20pm, 7:00pm), Sat 12/16 (3:40pm, 10:20pm), Sun 12/17 (12:20pm, 7:00pm), Tue 12/19 (12:20pm, 7:00pm), Wed 12/20 (3:40pm, 10:20pm)
+
 ### Fri 11/10 9:13pm
 * New movies: Everyone Will Burn, Raging Grace
 
