@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 11/14 1:11pm
+
+* New screenings: 
+    * [Mondo Travolta The Experts](https://drafthouse.com/los-angeles/show/mondo-travolta-the-experts): Wed 11/29 (8:00pm)
+
 ### Tue 11/14 12:19am
 
 * New screenings: 
