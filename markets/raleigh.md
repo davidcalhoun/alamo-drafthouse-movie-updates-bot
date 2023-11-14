@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 11/14 6:18pm
+
+* New screenings: 
+    * [The Hunger Games The Ballad Of Songbirds Snakes](https://drafthouse.com/raleigh/show/the-hunger-games-the-ballad-of-songbirds-snakes): Sat 11/18 (7:45pm), Mon 11/20 (1:45pm, 2:15pm, 6:05pm, 9:55pm)
+
 ### Tue 11/14 4:13pm
 
 * New screenings: 
