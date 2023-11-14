@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 11/14 4:13pm
+
+* New screenings: 
+    * [The Boy And The Heron Subtitled](https://drafthouse.com/raleigh/show/the-boy-and-the-heron-subtitled): Fri 12/8 (10:00pm), Sat 12/9 (10:00pm), Sun 12/10 (10:00pm)
+
 ### Tue 11/14 2:12pm
 * New movies: Poor Things
 
