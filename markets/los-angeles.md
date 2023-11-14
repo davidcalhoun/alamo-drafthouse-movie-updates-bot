@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Tue 11/14 2:14pm
+
+* New screenings: 
+    * [The Boy And The Heron Dubbed](https://drafthouse.com/los-angeles/show/the-boy-and-the-heron-dubbed): Thu 12/7 (7:15pm), Fri 12/8 (3:50pm, 10:35pm), Sat 12/9 (12:30pm, 7:15pm), Sun 12/10 (3:50pm), Mon 12/11 (12:30pm, 7:15pm), Tue 12/12 (3:50pm), Wed 12/13 (12:30pm, 7:15pm)
+
+    * [The Boy And The Heron Subtitled](https://drafthouse.com/los-angeles/show/the-boy-and-the-heron-subtitled): Thu 12/7 (10:35pm), Fri 12/8 (12:30pm, 7:15pm), Sat 12/9 (3:50pm, 10:35pm), Sun 12/10 (12:30pm, 7:15pm), Mon 12/11 (3:50pm), Tue 12/12 (12:30pm, 7:15pm), Wed 12/13 (3:50pm)
+
 ### Tue 11/14 1:11pm
 
 * New screenings: 
