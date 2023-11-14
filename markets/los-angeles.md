@@ -1,6 +1,37 @@
 # los-angeles
 
 ## Movie updates
+### Tue 11/14 12:19am
+
+* New screenings: 
+    * [Anatomy Of A Fall](https://drafthouse.com/los-angeles/show/anatomy-of-a-fall): Thu 11/16 (2:30pm), Fri 11/17 (12:25pm), Sat 11/18 (10:45am), Mon 11/20 (10:45am, 2:00pm)
+
+    * [Blood Tea And Red String](https://drafthouse.com/los-angeles/show/blood-tea-and-red-string): Thu 11/16 (2:00pm)
+
+    * [Brunch Screenings The Marvels Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-the-marvels-brunch): Sun 11/19 (11:00am)
+
+    * [Dream Scenario](https://drafthouse.com/los-angeles/show/dream-scenario): Thu 11/16 (5:30pm, 9:00pm), Fri 11/17 (11:00am, 5:45pm, 9:15pm), Sat 11/18 (11:35am, 5:45pm, 8:25pm, 10:40pm), Sun 11/19 (11:15am, 5:45pm, 10:00pm), Mon 11/20 (11:00am, 1:55pm, 4:50pm, 5:45pm, 7:45pm, 10:40pm)
+
+    * [Five Nights At Freddys](https://drafthouse.com/los-angeles/show/five-nights-at-freddys): Thu 11/16 (2:15pm)
+
+    * [Killers Of The Flower Moon](https://drafthouse.com/los-angeles/show/killers-of-the-flower-moon): Thu 11/16 (1:45pm, 5:20pm, 9:00pm), Fri 11/17 (11:40am, 4:00pm, 8:40pm), Sat 11/18 (11:35am, 3:45pm, 8:25pm), Sun 11/19 (11:25am, 3:45pm, 8:25pm), Mon 11/20 (11:35am, 3:45pm, 8:25pm)
+
+    * [Next Goal Wins 2023](https://drafthouse.com/los-angeles/show/next-goal-wins-2023): Mon 11/20 (12:30pm, 3:30pm, 6:30pm, 9:30pm)
+
+    * [Priscilla](https://drafthouse.com/los-angeles/show/priscilla): Thu 11/16 (2:45pm, 6:45pm, 10:15pm), Fri 11/17 (12:50pm, 4:25pm, 7:30pm, 10:35pm), Sat 11/18 (12:40pm, 4:20pm, 7:30pm, 10:35pm), Sun 11/19 (12:40pm, 4:10pm, 7:45pm, 10:50pm), Mon 11/20 (12:40pm, 4:20pm, 7:30pm, 10:35pm)
+
+    * [Thanksgiving](https://drafthouse.com/los-angeles/show/thanksgiving): Thu 11/16 (9:35pm), Sat 11/18 (10:10pm), Sun 11/19 (10:10pm), Mon 11/20 (11:45am, 3:15pm, 6:45pm, 10:10pm)
+
+    * [The Holdovers](https://drafthouse.com/los-angeles/show/the-holdovers): Thu 11/16 (2:35pm, 6:00pm, 9:50pm), Fri 11/17 (11:10am, 2:35pm, 6:10pm, 9:40pm), Sat 11/18 (11:10am, 2:35pm, 6:10pm, 9:40pm), Sun 11/19 (12:50pm, 4:20pm, 7:15pm, 10:40pm), Mon 11/20 (11:10am, 2:40pm, 6:10pm, 9:40pm)
+
+    * [The Hunger Games The Ballad Of Songbirds Snakes](https://drafthouse.com/los-angeles/show/the-hunger-games-the-ballad-of-songbirds-snakes): Thu 11/16 (5:45pm, 8:30pm, 9:25pm), Fri 11/17 (1:55pm, 5:15pm, 8:45pm), Sat 11/18 (5:35pm, 8:45pm), Sun 11/19 (2:00pm, 5:20pm, 8:40pm), Mon 11/20 (11:25am, 2:45pm, 5:20pm, 6:15pm, 8:40pm, 9:45pm)
+
+    * [The Killer 2023](https://drafthouse.com/los-angeles/show/the-killer-2023): Thu 11/16 (2:15pm), Fri 11/17 (10:30pm), Sat 11/18 (2:30pm), Sun 11/19 (9:15pm), Mon 11/20 (11:10am, 2:30pm, 8:35pm)
+
+    * [The Marvels](https://drafthouse.com/los-angeles/show/the-marvels): Thu 11/16 (3:45pm, 10:00pm), Fri 11/17 (11:15am, 3:00pm, 7:30pm), Sat 11/18 (2:30pm, 3:00pm, 5:20pm), Sun 11/19 (2:15pm, 3:00pm, 6:00pm, 10:25pm), Mon 11/20 (11:00am, 12:00pm, 2:20pm, 3:00pm, 9:10pm)
+
+    * [Trolls Band Together](https://drafthouse.com/los-angeles/show/trolls-band-together): Sun 11/19 (9:00pm), Mon 11/20 (11:00am, 1:45pm)
+
 ### Mon 11/13 9:14am
 * New movies: The Boy and the Heron Dubbed, The Boy and the Heron Subtitled, The Boy and the Heron Subtitled
 
