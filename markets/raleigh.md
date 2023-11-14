@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 11/14 2:12pm
+* New movies: Poor Things
+
+* New screenings: 
+    * [Poor Things](https://drafthouse.com/raleigh/show/poor-things): Thu 12/14 (7:00pm, 10:30pm), Fri 12/15 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sat 12/16 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sun 12/17 (11:30am, 6:15pm, 9:45pm), Mon 12/18 (11:45am, 3:15pm, 6:45pm, 10:15pm), Tue 12/19 (11:00am, 2:30pm, 6:00pm, 10:00pm)
+
 ### Mon 11/13 8:20pm
 * New movies: Kiki's Delivery Service Dubbed
 
