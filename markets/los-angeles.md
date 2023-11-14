@@ -1,6 +1,27 @@
 # los-angeles
 
 ## Movie updates
+### Tue 11/14 3:15pm
+
+* New screenings: 
+    * [Dream Scenario](https://drafthouse.com/los-angeles/show/dream-scenario): Wed 11/22 (10:35pm), Thu 11/23 (10:45am, 1:40pm, 4:35pm, 7:30pm, 10:35pm)
+
+    * [Napoleon](https://drafthouse.com/los-angeles/show/napoleon): Thu 11/23 (11:30am)
+
+    * [Next Goal Wins 2023](https://drafthouse.com/los-angeles/show/next-goal-wins-2023): Wed 11/22 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Thu 11/23 (1:00pm, 4:10pm, 7:15pm, 10:10pm)
+
+    * [Saltburn](https://drafthouse.com/los-angeles/show/saltburn): Wed 11/22 (12:45pm), Thu 11/23 (12:15pm)
+
+    * [Thanksgiving](https://drafthouse.com/los-angeles/show/thanksgiving): Wed 11/22 (1:00pm, 4:15pm, 7:20pm, 10:20pm), Thu 11/23 (7:45pm, 10:45pm)
+
+    * [The Hunger Games The Ballad Of Songbirds Snakes](https://drafthouse.com/los-angeles/show/the-hunger-games-the-ballad-of-songbirds-snakes): Thu 11/23 (11:00am, 2:50pm, 6:40pm, 9:50pm)
+
+    * [The Marvels](https://drafthouse.com/los-angeles/show/the-marvels): Wed 11/22 (4:10pm, 10:15pm), Thu 11/23 (12:30pm, 3:30pm, 6:30pm, 9:30pm)
+
+    * [Trolls Band Together](https://drafthouse.com/los-angeles/show/trolls-band-together): Wed 11/22 (11:15am, 2:00pm, 9:20pm)
+
+    * [Wish](https://drafthouse.com/los-angeles/show/wish): Wed 11/22 (10:05pm), Thu 11/23 (11:20am, 3:25pm, 6:25pm, 10:25pm)
+
 ### Tue 11/14 2:14pm
 
 * New screenings: 
