@@ -1,6 +1,62 @@
 # raleigh
 
 ## Movie updates
+### Mon 11/13 8:20pm
+* New movies: Kiki's Delivery Service Dubbed
+
+* New screenings: 
+    * [Anatomy Of A Fall](https://drafthouse.com/raleigh/show/anatomy-of-a-fall): Thu 11/16 (5:45pm, 9:40pm)
+
+    * [Back To The Future](https://drafthouse.com/raleigh/show/back-to-the-future): Thu 11/16 (12:15pm)
+
+    * [Blade Runner The Final Cut](https://drafthouse.com/raleigh/show/blade-runner-the-final-cut): Thu 11/16 (4:25pm)
+
+    * [Five Nights At Freddys](https://drafthouse.com/raleigh/show/five-nights-at-freddys): Fri 11/17 (10:55pm), Sat 11/18 (10:55pm), Sun 11/19 (12:00pm), Mon 11/20 (10:45pm)
+
+    * [Its A Wonderful Knife](https://drafthouse.com/raleigh/show/its-a-wonderful-knife): Thu 11/16 (11:00pm)
+
+    * [Kikis Delivery Service Dubbed](https://drafthouse.com/raleigh/show/kikis-delivery-service-dubbed): Thu 11/16 (11:30am)
+
+    * [Killers Of The Flower Moon](https://drafthouse.com/raleigh/show/killers-of-the-flower-moon): Thu 11/16 (11:30am, 4:00pm, 8:30pm), Fri 11/17 (11:45am, 4:15pm, 8:45pm), Sat 11/18 (11:45am, 4:15pm, 8:45pm), Sun 11/19 (11:50am, 4:20pm, 8:50pm), Mon 11/20 (12:25pm, 4:55pm, 9:25pm)
+
+    * [Movie Party Elf](https://drafthouse.com/raleigh/show/movie-party-elf): Sun 11/19 (8:15pm)
+
+    * [Napoleon](https://drafthouse.com/raleigh/show/napoleon): Wed 11/22 (11:30am, 3:15pm, 10:45pm), Thu 11/23 (11:15am, 3:00pm), Fri 11/24 (11:15am, 3:15pm, 10:50pm), Sat 11/25 (11:30am, 3:15pm, 10:45pm), Sun 11/26 (11:15am, 3:00pm, 10:45pm), Mon 11/27 (1:00pm, 4:45pm, 8:30pm), Tue 11/28 (1:05pm, 4:50pm, 8:35pm), Wed 11/29 (1:00pm, 4:45pm, 8:30pm)
+
+    * [Next Goal Wins 2023](https://drafthouse.com/raleigh/show/next-goal-wins-2023): Wed 11/22 (1:15pm, 4:05pm, 6:55pm, 9:50pm), Thu 11/23 (11:30am, 2:20pm, 5:10pm, 8:00pm), Fri 11/24 (10:50am, 1:40pm, 4:30pm, 7:20pm, 10:15pm), Sat 11/25 (12:00pm, 2:50pm, 5:40pm, 8:30pm, 11:20pm), Sun 11/26 (11:00am, 1:50pm, 4:45pm, 7:35pm, 10:25pm), Mon 11/27 (12:45pm, 3:35pm, 6:25pm, 9:15pm), Tue 11/28 (12:50pm, 3:40pm, 6:30pm, 9:20pm), Wed 11/29 (12:30pm, 3:20pm, 6:10pm, 9:00pm)
+
+    * [Planes Trains Automobiles](https://drafthouse.com/raleigh/show/planes-trains-automobiles): Sat 11/18 (1:20pm)
+
+    * [Priscilla](https://drafthouse.com/raleigh/show/priscilla): Thu 11/16 (12:55pm, 3:50pm, 6:45pm, 9:45pm), Fri 11/17 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sat 11/18 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sun 11/19 (12:10pm, 3:05pm, 6:00pm, 9:00pm), Mon 11/20 (12:55pm, 3:55pm, 6:55pm, 9:55pm)
+
+    * [Saltburn](https://drafthouse.com/raleigh/show/saltburn): Fri 11/24 (11:45am, 3:00pm, 6:25pm, 9:35pm), Sat 11/25 (12:50pm, 4:05pm, 7:30pm, 10:40pm), Sun 11/26 (11:20am, 2:45pm, 6:10pm, 9:30pm), Mon 11/27 (12:15pm, 3:30pm, 6:40pm, 9:55pm), Tue 11/28 (12:20pm, 3:35pm, 6:45pm, 10:00pm), Wed 11/29 (12:15pm, 3:30pm, 6:40pm, 9:55pm)
+
+    * [Teenage Mutant Ninja Turtles 1990](https://drafthouse.com/raleigh/show/teenage-mutant-ninja-turtles-1990): Thu 11/16 (3:30pm)
+
+    * [Thanksgiving](https://drafthouse.com/raleigh/show/thanksgiving): Fri 11/17 (1:10pm, 4:00pm, 6:55pm, 10:00pm), Sat 11/18 (1:15pm, 4:05pm, 6:55pm, 9:45pm), Sun 11/19 (1:20pm, 4:10pm, 7:00pm, 9:50pm), Wed 11/22 (12:45pm, 3:35pm, 6:25pm, 9:25pm), Thu 11/23 (11:10am, 2:00pm, 4:50pm, 7:40pm), Fri 11/24 (10:30am, 1:20pm, 4:10pm, 7:00pm, 10:00pm), Sat 11/25 (11:40am, 2:30pm, 5:20pm, 8:10pm, 11:00pm), Sun 11/26 (10:45am, 1:35pm, 4:25pm, 7:15pm, 10:05pm), Mon 11/27 (12:05pm, 2:55pm, 5:45pm, 8:35pm), Tue 11/28 (12:20pm, 3:10pm, 7:00pm, 8:40pm), Wed 11/29 (12:55pm, 3:45pm, 6:40pm, 9:30pm)
+
+    * [The Bling Ring](https://drafthouse.com/raleigh/show/the-bling-ring): Thu 11/16 (12:00pm)
+
+    * [The Holdovers](https://drafthouse.com/raleigh/show/the-holdovers): Thu 11/16 (11:20am, 2:40pm, 6:00pm, 9:20pm), Fri 11/17 (12:15pm, 3:40pm, 7:00pm, 10:20pm), Sat 11/18 (12:15pm, 3:40pm, 7:00pm, 10:20pm), Sun 11/19 (12:45pm, 4:40pm, 6:20pm, 9:40pm), Mon 11/20 (12:00pm, 3:20pm, 6:40pm, 10:00pm)
+
+    * [The Hunger Games The Ballad Of Songbirds Snakes](https://drafthouse.com/raleigh/show/the-hunger-games-the-ballad-of-songbirds-snakes): Fri 11/17 (2:15pm, 3:00pm, 6:00pm, 9:45pm), Sat 11/18 (1:00pm, 4:45pm, 8:30pm, 9:35pm), Sun 11/19 (1:00pm, 3:00pm, 4:15pm, 8:00pm, 9:45pm), Mon 11/20 (1:00pm, 2:15pm, 3:15pm, 4:45pm, 7:00pm, 8:30pm, 9:00pm), Tue 11/21 (11:45am, 2:00pm, 3:30pm, 5:45pm, 7:15pm, 10:55pm), Wed 11/22 (11:45am, 3:25pm, 7:05pm, 10:45pm), Thu 11/23 (11:15am, 3:00pm, 6:45pm), Fri 11/24 (10:45am, 2:30pm, 6:10pm, 9:50pm), Sat 11/25 (11:50am, 3:35pm, 7:15pm, 10:55pm), Sun 11/26 (11:00am, 2:45pm, 6:30pm, 10:15pm), Mon 11/27 (12:30pm, 4:15pm, 8:00pm), Tue 11/28 (12:35pm, 4:20pm, 8:05pm), Wed 11/29 (12:30pm, 4:15pm, 8:00pm)
+
+    * [The Killer 2023](https://drafthouse.com/raleigh/show/the-killer-2023): Thu 11/16 (9:25pm)
+
+    * [The Long Goodbye](https://drafthouse.com/raleigh/show/the-long-goodbye): Thu 11/16 (1:30pm)
+
+    * [The Marvels](https://drafthouse.com/raleigh/show/the-marvels): Thu 11/16 (12:35pm), Fri 11/17 (1:45pm, 4:45pm, 7:45pm, 10:35pm), Sat 11/18 (1:45pm, 4:45pm, 7:45pm, 10:35pm), Mon 11/20 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Wed 11/22 (1:00pm, 3:50pm, 6:45pm, 9:50pm), Thu 11/23 (10:50am, 1:40pm, 4:35pm, 7:30pm), Fri 11/24 (10:15am, 1:05pm, 4:00pm, 6:55pm, 9:45pm), Sat 11/25 (11:00am, 1:50pm, 4:45pm, 7:40pm, 10:30pm), Sun 11/26 (12:15pm, 3:10pm, 6:00pm, 9:05pm), Mon 11/27 (1:15pm, 4:30pm, 6:15pm, 9:10pm), Tue 11/28 (1:20pm, 4:15pm, 7:10pm, 10:05pm), Wed 11/29 (1:15pm, 4:10pm, 7:05pm, 10:00pm)
+
+    * [The Wedding Singer](https://drafthouse.com/raleigh/show/the-wedding-singer): Thu 11/16 (12:45pm)
+
+    * [Trolls Band Together](https://drafthouse.com/raleigh/show/trolls-band-together): Sun 11/19 (1:50pm, 4:30pm), Tue 11/21 (12:45pm), Wed 11/22 (1:45pm, 4:20pm, 6:55pm, 9:15pm), Thu 11/23 (11:40am, 1:45pm, 4:30pm, 7:15pm), Fri 11/24 (11:00am, 1:45pm, 4:30pm, 7:15pm, 10:00pm), Sat 11/25 (12:05pm, 2:50pm, 5:35pm, 8:20pm, 11:05pm), Sun 11/26 (11:45am, 2:20pm, 5:00pm, 7:40pm, 10:25pm), Mon 11/27 (1:00pm, 3:50pm, 6:30pm, 9:15pm), Tue 11/28 (12:45pm, 3:35pm, 6:15pm, 9:00pm), Wed 11/29 (12:50pm, 3:40pm, 6:20pm, 8:55pm)
+
+    * [Vertigo](https://drafthouse.com/raleigh/show/vertigo): Thu 11/16 (2:15pm)
+
+    * [Wish](https://drafthouse.com/raleigh/show/wish): Thu 11/23 (2:15pm), Fri 11/24 (11:45pm), Sat 11/25 (11:45pm), Mon 11/27 (12:45pm, 3:45pm, 6:25pm, 9:10pm), Tue 11/28 (12:50pm, 3:40pm, 6:20pm, 9:15pm), Wed 11/29 (12:45pm, 3:35pm, 6:15pm, 9:10pm)
+
+    * [Your Lucky Day](https://drafthouse.com/raleigh/show/your-lucky-day): Thu 11/16 (3:30pm)
+
 ### Mon 11/13 12:17pm
 * New movies: The Boy and the Heron Dubbed, The Boy and the Heron Subtitled, The Boy and the Heron Subtitled
 
