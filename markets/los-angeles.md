@@ -1,6 +1,29 @@
 # los-angeles
 
 ## Movie updates
+### Tue 11/14 5:11pm
+
+* New screenings: 
+    * [Dream Scenario](https://drafthouse.com/los-angeles/show/dream-scenario): Tue 11/21 (11:10am, 10:45pm), Fri 11/24 (10:45am, 1:40pm, 4:35pm, 7:30pm, 10:25pm), Sat 11/25 (10:45am, 1:40pm, 4:35pm, 7:30pm, 10:25pm), Sun 11/26 (10:45am, 1:40pm, 4:35pm, 7:30pm, 10:25pm)
+
+    * [Napoleon](https://drafthouse.com/los-angeles/show/napoleon): Sun 11/26 (9:50pm)
+
+    * [Next Goal Wins 2023](https://drafthouse.com/los-angeles/show/next-goal-wins-2023): Tue 11/21 (1:15pm, 4:15pm, 7:30pm, 10:25pm), Fri 11/24 (1:00pm, 4:10pm, 7:15pm, 10:45pm), Sat 11/25 (1:00pm, 4:10pm, 7:15pm, 10:45pm), Sun 11/26 (1:00pm, 4:10pm, 7:15pm, 10:45pm)
+
+    * [Priscilla](https://drafthouse.com/los-angeles/show/priscilla): Tue 11/21 (12:00pm)
+
+    * [Saltburn](https://drafthouse.com/los-angeles/show/saltburn): Sun 11/26 (10:20pm)
+
+    * [Thanksgiving](https://drafthouse.com/los-angeles/show/thanksgiving): Tue 11/21 (11:35am, 3:20pm, 6:45pm, 10:50pm), Thu 11/23 (12:45pm, 3:45pm), Fri 11/24 (12:45pm, 3:45pm, 7:45pm, 10:35pm), Sat 11/25 (12:45pm, 3:45pm, 7:45pm, 10:35pm), Sun 11/26 (12:45pm, 3:45pm, 7:45pm, 10:35pm)
+
+    * [The Hunger Games The Ballad Of Songbirds Snakes](https://drafthouse.com/los-angeles/show/the-hunger-games-the-ballad-of-songbirds-snakes): Tue 11/21 (11:25am, 2:45pm, 9:45pm), Fri 11/24 (11:00am, 2:50pm, 6:40pm, 9:40pm), Sat 11/25 (11:00am, 2:50pm, 6:40pm, 9:40pm), Sun 11/26 (11:00am, 2:50pm, 6:40pm, 9:40pm)
+
+    * [The Marvels](https://drafthouse.com/los-angeles/show/the-marvels): Tue 11/21 (11:45am, 12:45pm, 4:00pm), Fri 11/24 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sat 11/25 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sun 11/26 (12:30pm, 3:30pm, 6:30pm, 9:30pm)
+
+    * [Trolls Band Together](https://drafthouse.com/los-angeles/show/trolls-band-together): Tue 11/21 (9:00pm), Thu 11/23 (11:35am, 2:20pm, 5:00pm, 6:50pm, 9:40pm), Fri 11/24 (11:35am, 2:20pm, 5:00pm, 6:50pm, 10:10pm), Sat 11/25 (11:35am, 2:20pm, 5:00pm, 6:50pm, 10:15pm), Sun 11/26 (11:35am, 2:20pm, 5:00pm, 6:50pm, 10:10pm)
+
+    * [Wish](https://drafthouse.com/los-angeles/show/wish): Sun 11/26 (9:10pm)
+
 ### Tue 11/14 3:15pm
 
 * New screenings: 
