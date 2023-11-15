@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 11/15 9:19am
+* New movies: Dream Scenario
+
+* New screenings: 
+    * [Dream Scenario](https://drafthouse.com/raleigh/show/dream-scenario): Thu 11/23 (5:00pm, 7:45pm), Fri 11/24 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sat 11/25 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Sun 11/26 (11:25am, 2:40pm, 5:25pm, 8:10pm, 10:55pm), Mon 11/27 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Tue 11/28 (1:15pm, 4:00pm, 6:45pm), Wed 11/29 (1:10pm, 3:55pm, 6:00pm, 9:00pm)
+
 ### Tue 11/14 6:18pm
 
 * New screenings: 
