@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 11/15 12:18pm
+* New movies: Wonka
+
+* New screenings: 
+    * [Wonka](https://drafthouse.com/raleigh/show/wonka): Thu 12/14 (3:15pm, 6:15pm, 9:15pm), Fri 12/15 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sat 12/16 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sun 12/17 (12:15pm, 3:15pm, 6:15pm, 9:15pm)
+
 ### Wed 11/15 9:19am
 * New movies: Dream Scenario
 
