@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 11/15 9:14am
+* New movies: Wonka, Wonka
+
+* New screenings: 
+    * [Brunch Screenings Wonka Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-wonka-brunch): Sat 12/16 (11:45am), Sun 12/17 (11:45am)
+
+    * [Wonka](https://drafthouse.com/los-angeles/show/wonka): Thu 12/14 (3:00pm, 6:15pm, 9:30pm), Fri 12/15 (11:45am, 3:00pm, 6:15pm, 9:30pm), Sat 12/16 (3:00pm, 6:15pm, 9:30pm), Sun 12/17 (3:00pm, 6:15pm, 9:30pm), Mon 12/18 (11:45am, 3:00pm, 6:15pm, 9:30pm), Tue 12/19 (11:45am, 3:00pm, 6:15pm, 9:30pm), Wed 12/20 (11:45am, 3:00pm, 6:15pm, 9:30pm)
+
 ### Tue 11/14 7:16pm
 
 * New screenings: 
