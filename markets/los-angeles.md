@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 11/16 7:17am
+* New movies: Eileen
+
+* New screenings: 
+    * [Eileen](https://drafthouse.com/los-angeles/show/eileen): Thu 12/7 (5:00pm, 7:50pm, 10:40pm), Fri 12/8 (11:00am, 1:50pm, 4:45pm, 7:45pm, 10:40pm), Sat 12/9 (11:00am, 1:50pm, 4:45pm, 7:45pm, 10:40pm), Sun 12/10 (11:00am, 1:50pm, 4:45pm, 7:45pm, 10:40pm), Mon 12/11 (11:00am, 1:50pm, 4:45pm, 7:45pm, 10:40pm), Tue 12/12 (11:00am, 1:50pm, 4:45pm, 7:45pm, 10:40pm), Wed 12/13 (11:00am, 1:50pm, 4:45pm, 7:45pm, 10:40pm)
+
 ### Wed 11/15 9:14am
 * New movies: Wonka, Wonka
 
