@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 11/16 10:20am
+* New movies: Eileen
+
+* New screenings: 
+    * [Eileen](https://drafthouse.com/raleigh/show/eileen): Thu 12/7 (7:45pm), Fri 12/8 (7:45pm), Sat 12/9 (7:45pm), Sun 12/10 (7:45pm), Fri 12/15 (6:45pm), Sat 12/16 (6:45pm), Sun 12/17 (6:45pm)
+
 ### Wed 11/15 12:18pm
 * New movies: Wonka
 
