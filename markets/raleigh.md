@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Thu 11/16 4:16pm
+
+* New screenings: 
+    * [The Marvels](https://drafthouse.com/raleigh/show/the-marvels): Thu 11/16 (4:00pm, 4:45pm, 6:25pm, 9:30pm)
+
 ### Thu 11/16 10:20am
 * New movies: Eileen
 
