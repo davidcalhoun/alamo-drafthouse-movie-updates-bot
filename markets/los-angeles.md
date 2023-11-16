@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 11/16 12:16pm
+* New movies: Godzilla Minus One, Godzilla Minus One
+
+* New screenings: 
+    * [Brunch Screenings Godzilla Minus One Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-godzilla-minus-one-brunch): Sat 12/2 (11:30am), Sun 12/3 (11:30am)
+
+    * [Godzilla Minus One](https://drafthouse.com/los-angeles/show/godzilla-minus-one): Thu 11/30 (4:10pm, 7:30pm, 10:50pm), Fri 12/1 (11:30am, 2:50pm, 6:15pm, 9:35pm), Sat 12/2 (2:50pm, 6:15pm, 9:35pm), Sun 12/3 (2:50pm, 6:15pm), Mon 12/4 (11:30am, 2:50pm, 6:15pm, 9:35pm), Tue 12/5 (11:30am, 2:50pm, 6:15pm, 9:35pm), Wed 12/6 (11:30am, 2:50pm, 6:15pm, 9:35pm)
+
 ### Thu 11/16 7:17am
 * New movies: Eileen
 
