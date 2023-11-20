@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 11/20 12:15pm
+* New movies: Aquaman and the Lost Kingdom
+
+* New screenings: 
+    * [Aquaman And The Lost Kingdom](https://drafthouse.com/raleigh/show/aquaman-and-the-lost-kingdom): Thu 12/21 (3:15pm, 6:30pm, 9:45pm), Fri 12/22 (1:00pm, 4:15pm, 7:30pm, 10:45pm), Sat 12/23 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Sun 12/24 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Mon 12/25 (1:00pm, 4:15pm, 7:30pm, 10:45pm)
+
 ### Mon 11/20 8:24am
 * New movies: Migration
 
