@@ -1,6 +1,29 @@
 # raleigh
 
 ## Movie updates
+### Mon 11/20 1:24pm
+
+* New screenings: 
+    * [A Disturbance In The Force](https://drafthouse.com/raleigh/show/a-disturbance-in-the-force): Tue 11/21 (1:30pm), Wed 11/22 (12:30pm), Wed 11/29 (11:45am)
+
+    * [Dream Scenario](https://drafthouse.com/raleigh/show/dream-scenario): Fri 11/24 (11:45pm), Sat 11/25 (11:30pm), Sun 11/26 (9:45pm)
+
+    * [Killers Of The Flower Moon](https://drafthouse.com/raleigh/show/killers-of-the-flower-moon): Tue 11/21 (1:15pm), Wed 11/22 (1:15pm), Thu 11/23 (11:45am), Fri 11/24 (11:15am), Sat 11/25 (11:15am), Sun 11/26 (11:15am), Mon 11/27 (1:15pm), Tue 11/28 (1:30pm), Wed 11/29 (12:15pm)
+
+    * [Kiss Kiss Bang Bang](https://drafthouse.com/raleigh/show/kiss-kiss-bang-bang): Tue 11/21 (12:45pm), Wed 11/22 (11:45pm), Thu 11/23 (3:40pm), Mon 11/27 (11:45am)
+
+    * [Napoleon](https://drafthouse.com/raleigh/show/napoleon): Tue 11/21 (4:00pm, 7:45pm), Wed 11/22 (12:30pm, 4:15pm, 8:00pm), Thu 11/23 (12:00pm, 6:30pm), Fri 11/24 (12:15pm, 4:15pm, 8:00pm, 10:00pm), Sat 11/25 (12:15pm, 4:00pm, 7:45pm, 10:00pm), Sun 11/26 (2:10pm, 6:00pm, 10:00pm), Mon 11/27 (2:30pm), Tue 11/28 (12:00pm, 6:00pm), Wed 11/29 (2:15pm)
+
+    * [Planes Trains Automobiles](https://drafthouse.com/raleigh/show/planes-trains-automobiles): Wed 11/22 (6:30pm)
+
+    * [Priscilla](https://drafthouse.com/raleigh/show/priscilla): Tue 11/21 (5:45pm), Wed 11/22 (5:45pm), Thu 11/23 (4:15pm), Fri 11/24 (3:45pm), Sat 11/25 (3:45pm), Sun 11/26 (3:45pm), Mon 11/27 (5:45pm), Tue 11/28 (4:00pm), Wed 11/29 (4:45pm)
+
+    * [Queer Film Theory 101 Wild Things](https://drafthouse.com/raleigh/show/queer-film-theory-101-wild-things): Tue 11/21 (12:10pm)
+
+    * [Thanksgiving](https://drafthouse.com/raleigh/show/thanksgiving): Fri 11/24 (11:45pm), Sat 11/25 (11:45pm), Tue 11/28 (9:55pm)
+
+    * [The Holdovers](https://drafthouse.com/raleigh/show/the-holdovers): Tue 11/21 (8:45pm), Wed 11/22 (8:45pm), Thu 11/23 (7:15pm), Fri 11/24 (6:40pm), Sat 11/25 (6:40pm), Sun 11/26 (6:40pm), Mon 11/27 (8:45pm), Tue 11/28 (9:45pm), Wed 11/29 (7:40pm)
+
 ### Mon 11/20 12:15pm
 * New movies: Aquaman and the Lost Kingdom
 
