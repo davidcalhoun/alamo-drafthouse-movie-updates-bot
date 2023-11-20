@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 11/20 5:20am
+* New movies: Migration
+
+* New screenings: 
+    * [Migration](https://drafthouse.com/los-angeles/show/migration): Thu 12/21 (2:00pm, 4:45pm, 7:30pm, 10:15pm), Fri 12/22 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sat 12/23 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sun 12/24 (11:30am, 2:15pm, 5:00pm, 7:45pm), Mon 12/25 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Tue 12/26 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Wed 12/27 (2:15pm, 5:00pm, 7:45pm, 10:30pm)
+
 ### Thu 11/16 12:16pm
 * New movies: Godzilla Minus One, Godzilla Minus One
 
