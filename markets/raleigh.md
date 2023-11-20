@@ -1,6 +1,15 @@
 # raleigh
 
 ## Movie updates
+### Mon 11/20 2:15pm
+
+* New screenings: 
+    * [Brunch Screenings Its A Wonderful Life Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-its-a-wonderful-life-brunch): Sat 12/16 (11:00am)
+
+    * [Its A Wonderful Life](https://drafthouse.com/raleigh/show/its-a-wonderful-life): Wed 12/20 (11:00am)
+
+    * [Movie Party National Lampoons Christmas Vacation](https://drafthouse.com/raleigh/show/movie-party-national-lampoons-christmas-vacation): Fri 12/15 (9:30pm), Mon 12/18 (7:15pm), Sat 12/23 (1:00pm)
+
 ### Mon 11/20 1:24pm
 
 * New screenings: 
