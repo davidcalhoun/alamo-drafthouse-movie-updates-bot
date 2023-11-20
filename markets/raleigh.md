@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 11/20 5:20pm
+
+* New screenings: 
+    * [Planes Trains Automobiles](https://drafthouse.com/raleigh/show/planes-trains-automobiles): Tue 11/21 (12:55pm)
+
 ### Mon 11/20 2:15pm
 
 * New screenings: 
