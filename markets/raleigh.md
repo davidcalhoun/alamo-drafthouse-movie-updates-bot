@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 11/20 8:24am
+* New movies: Migration
+
+* New screenings: 
+    * [Migration](https://drafthouse.com/raleigh/show/migration): Fri 12/22 (3:30pm, 6:15pm), Sat 12/23 (3:30pm, 6:15pm), Sun 12/24 (3:30pm, 6:15pm)
+
 ### Fri 11/17 3:20pm
 * New movies: Poor Things
 
