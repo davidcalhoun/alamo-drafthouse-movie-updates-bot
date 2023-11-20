@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Mon 11/20 9:11am
+* New movies: Aquaman and the Lost Kingdom, Aquaman and the Lost Kingdom
+
+* New screenings: 
+    * [Aquaman And The Lost Kingdom](https://drafthouse.com/los-angeles/show/aquaman-and-the-lost-kingdom): Thu 12/21 (3:00pm, 6:30pm, 10:00pm), Fri 12/22 (11:50am, 3:15pm, 6:45pm, 10:10pm), Sat 12/23 (3:15pm, 6:45pm, 10:10pm), Sun 12/24 (3:15pm, 6:45pm), Mon 12/25 (11:50am, 3:15pm, 6:45pm, 10:10pm), Tue 12/26 (11:50am, 3:15pm, 6:45pm, 10:10pm), Wed 12/27 (3:15pm, 6:45pm, 10:10pm)
+
+    * [Brunch Screenings Aquaman And The Lost Kingdom Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-aquaman-and-the-lost-kingdom-brunch): Sat 12/23 (11:50am), Sun 12/24 (11:50am)
+
 ### Mon 11/20 5:20am
 * New movies: Migration
 
