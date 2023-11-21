@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 11/21 7:16am
+* New movies: American Fiction
+
+* New screenings: 
+    * [Livestream Q A American Fiction](https://drafthouse.com/los-angeles/show/livestream-q-a-american-fiction): Mon 12/11 (5:00pm)
+
 ### Tue 11/21 6:15am
 * New movies: Ferrari
 
