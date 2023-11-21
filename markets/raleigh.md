@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 11/21 9:20am
+* New movies: Ferrari
+
+* New screenings: 
+    * [Ferrari](https://drafthouse.com/raleigh/show/ferrari): Sun 12/24 (6:00pm), Mon 12/25 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Tue 12/26 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Wed 12/27 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Thu 12/28 (12:15pm, 3:30pm, 6:45pm, 10:00pm)
+
 ### Tue 11/21 12:19am
 * New movies: Silent Night 2023
 
