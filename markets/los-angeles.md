@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 11/21 6:15am
+* New movies: Ferrari
+
+* New screenings: 
+    * [Ferrari](https://drafthouse.com/los-angeles/show/ferrari): Sun 12/24 (3:45pm, 7:15pm), Mon 12/25 (11:00am, 2:30pm, 6:00pm, 9:30pm), Tue 12/26 (11:00am, 2:30pm, 6:00pm, 9:30pm), Wed 12/27 (2:30pm, 6:00pm, 9:30pm)
+
 ### Mon 11/20 9:15pm
 * New movies: Silent Night 2023
 
