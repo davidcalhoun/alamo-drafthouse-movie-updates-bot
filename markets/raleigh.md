@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 11/21 10:20am
+* New movies: American Fiction
+
+* New screenings: 
+    * [Livestream Q A American Fiction](https://drafthouse.com/raleigh/show/livestream-q-a-american-fiction): Mon 12/11 (8:00pm)
+
 ### Tue 11/21 9:20am
 * New movies: Ferrari
 
