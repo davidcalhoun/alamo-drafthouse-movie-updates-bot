@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 11/20 9:15pm
+* New movies: Silent Night 2023
+
+* New screenings: 
+    * [Silent Night 2023](https://drafthouse.com/los-angeles/show/silent-night-2023): Thu 11/30 (6:30pm, 9:30pm), Fri 12/1 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:45pm), Sat 12/2 (10:45am, 1:45pm, 3:30pm, 6:30pm, 9:30pm), Sun 12/3 (10:45am, 1:45pm, 4:45pm, 7:45pm), Mon 12/4 (12:30pm, 3:30pm, 6:45pm, 9:30pm), Tue 12/5 (12:45pm, 3:45pm, 6:30pm, 10:20pm), Wed 12/6 (12:30pm, 3:30pm, 6:00pm, 9:20pm), Thu 12/7 (3:15pm)
+
 ### Mon 11/20 6:31pm
 * New movies: Elf
 
