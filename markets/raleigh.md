@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 11/21 12:19am
+* New movies: Silent Night 2023
+
+* New screenings: 
+    * [Silent Night 2023](https://drafthouse.com/raleigh/show/silent-night-2023): Thu 11/30 (6:30pm), Fri 12/1 (7:00pm), Sat 12/2 (7:00pm), Sun 12/3 (7:00pm)
+
 ### Mon 11/20 5:20pm
 
 * New screenings: 
