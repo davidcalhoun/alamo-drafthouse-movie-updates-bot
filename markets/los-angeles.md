@@ -1,6 +1,40 @@
 # los-angeles
 
 ## Movie updates
+### Mon 11/20 6:31pm
+* New movies: Elf
+
+* New screenings: 
+    * [Dream Scenario](https://drafthouse.com/los-angeles/show/dream-scenario): Mon 11/27 (10:45am, 1:40pm, 4:35pm, 7:30pm, 10:25pm), Tue 11/28 (10:45am, 1:40pm, 4:35pm, 7:30pm, 10:25pm), Wed 11/29 (10:45am, 1:40pm, 4:35pm, 7:30pm, 10:25pm)
+
+    * [Elf](https://drafthouse.com/los-angeles/show/elf): Sat 11/25 (10:15pm), Sun 11/26 (2:10pm), Tue 11/28 (3:40pm)
+
+    * [Killers Of The Flower Moon](https://drafthouse.com/los-angeles/show/killers-of-the-flower-moon): Tue 11/21 (12:00pm, 3:45pm), Wed 11/22 (2:30pm), Thu 11/23 (2:30pm), Fri 11/24 (2:35pm), Sat 11/25 (2:30pm), Sun 11/26 (2:30pm), Mon 11/27 (3:10pm), Tue 11/28 (2:30pm, 5:00pm), Wed 11/29 (11:00am, 3:15pm)
+
+    * [Kiss Kiss Bang Bang](https://drafthouse.com/los-angeles/show/kiss-kiss-bang-bang): Fri 11/24 (10:45am, 10:15pm), Sun 11/26 (5:00pm, 10:15pm), Mon 11/27 (10:40pm), Tue 11/28 (10:30pm)
+
+    * [Napoleon](https://drafthouse.com/los-angeles/show/napoleon): Tue 11/21 (8:15pm), Wed 11/22 (10:15pm), Thu 11/23 (2:00pm, 8:00pm, 10:15pm), Fri 11/24 (1:40pm, 5:30pm), Sat 11/25 (5:15pm, 9:10pm), Sun 11/26 (8:00pm), Mon 11/27 (11:30am, 11:35am, 3:25pm, 8:45pm), Tue 11/28 (1:10pm, 6:30pm), Wed 11/29 (11:30am, 12:30pm)
+
+    * [Next Goal Wins 2023](https://drafthouse.com/los-angeles/show/next-goal-wins-2023): Mon 11/27 (1:00pm, 4:10pm, 7:15pm, 10:45pm), Tue 11/28 (1:00pm, 4:10pm, 7:15pm, 10:45pm), Wed 11/29 (1:00pm, 4:00pm, 7:00pm, 10:45pm)
+
+    * [Priscilla](https://drafthouse.com/los-angeles/show/priscilla): Tue 11/21 (4:30pm), Wed 11/22 (3:15pm, 7:10pm), Thu 11/23 (11:00am, 7:10pm), Fri 11/24 (11:00am, 7:10pm), Sat 11/25 (11:25am, 7:10pm), Sun 11/26 (11:25am, 7:10pm), Mon 11/27 (7:45pm, 10:50pm), Tue 11/28 (11:25am, 7:10pm), Wed 11/29 (12:10pm, 10:20pm)
+
+    * [Saltburn](https://drafthouse.com/los-angeles/show/saltburn): Tue 11/21 (8:30pm, 10:40pm), Thu 11/23 (11:10am, 5:50pm, 9:10pm), Fri 11/24 (5:00pm, 8:25pm), Sat 11/25 (11:15am, 2:40pm, 6:10pm), Sun 11/26 (6:25pm, 9:45pm), Mon 11/27 (11:00am, 12:20pm, 2:00pm, 10:20pm), Tue 11/28 (9:35pm, 10:20pm), Wed 11/29 (12:30pm, 4:25pm, 10:35pm)
+
+    * [Thanksgiving](https://drafthouse.com/los-angeles/show/thanksgiving): Mon 11/27 (12:45pm, 3:45pm, 7:45pm, 10:35pm), Tue 11/28 (12:45pm, 3:45pm, 7:45pm, 10:35pm), Wed 11/29 (12:45pm, 3:45pm, 7:45pm, 10:30pm)
+
+    * [The Holdovers](https://drafthouse.com/los-angeles/show/the-holdovers): Tue 11/21 (1:00pm, 4:45pm), Wed 11/22 (11:00am), Thu 11/23 (10:50am), Fri 11/24 (11:10am), Sat 11/25 (1:50pm), Sun 11/26 (3:00pm), Mon 11/27 (11:45am, 5:20pm), Tue 11/28 (10:15pm), Wed 11/29 (3:35pm)
+
+    * [The Hunger Games The Ballad Of Songbirds Snakes](https://drafthouse.com/los-angeles/show/the-hunger-games-the-ballad-of-songbirds-snakes): Tue 11/21 (12:30pm), Mon 11/27 (11:00am, 2:50pm, 6:40pm, 9:40pm), Tue 11/28 (11:00am, 2:50pm, 6:40pm, 9:40pm), Wed 11/29 (11:00am, 2:50pm, 6:40pm, 9:40pm)
+
+    * [The Marvels](https://drafthouse.com/los-angeles/show/the-marvels): Tue 11/21 (10:00pm), Wed 11/22 (12:15pm, 6:20pm, 9:25pm), Mon 11/27 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Tue 11/28 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Wed 11/29 (12:30pm, 3:30pm, 6:30pm, 9:30pm)
+
+    * [The Strangler Letrangleur 1970](https://drafthouse.com/los-angeles/show/the-strangler-letrangleur-1970): Sun 11/26 (11:15am), Tue 11/28 (12:45pm)
+
+    * [Trolls Band Together](https://drafthouse.com/los-angeles/show/trolls-band-together): Mon 11/27 (11:15am, 2:20pm, 5:00pm, 6:50pm, 10:10pm), Tue 11/28 (11:35am, 2:20pm, 5:00pm, 6:50pm, 10:10pm), Wed 11/29 (11:35am, 2:20pm, 5:00pm, 6:50pm, 10:00pm)
+
+    * [Wish](https://drafthouse.com/los-angeles/show/wish): Mon 11/27 (11:20am), Wed 11/29 (11:20am, 9:10pm)
+
 ### Mon 11/20 9:11am
 * New movies: Aquaman and the Lost Kingdom, Aquaman and the Lost Kingdom
 
