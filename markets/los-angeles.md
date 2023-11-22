@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 11/22 3:16pm
+* New movies: The Sacrifice Game
+
+* New screenings: 
+    * [Fantastic Fest Presents The Sacrifice Game W Live Q A](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-the-sacrifice-game-w-live-q-a): Wed 11/29 (8:00pm)
+
 ### Wed 11/22 12:16pm
 
 * New screenings: 
