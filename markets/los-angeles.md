@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 11/22 11:12am
+* New movies: Poor Things, Poor Things
+
+* New screenings: 
+    * [Brunch Screenings Poor Things Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-poor-things-brunch): Sat 12/16 (10:45am), Sun 12/17 (10:45am)
+
+    * [Poor Things](https://drafthouse.com/los-angeles/show/poor-things): Thu 12/14 (6:00pm, 7:00pm, 9:35pm, 10:35pm), Fri 12/15 (10:45am, 11:45am, 2:25pm, 3:25pm, 6:00pm, 7:00pm, 9:35pm, 10:35pm), Sat 12/16 (11:45am, 2:25pm, 3:25pm, 6:00pm, 7:00pm, 9:35pm, 10:35pm), Sun 12/17 (11:45am, 2:25pm, 3:25pm, 6:00pm, 7:00pm, 9:35pm, 10:35pm)
+
 ### Tue 11/21 5:13pm
 * New movies: Skinamarink, Silent Night, Deadly Night Part 2, Violent Night, Violent Night
 
