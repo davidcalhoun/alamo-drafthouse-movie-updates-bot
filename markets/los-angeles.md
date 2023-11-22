@@ -1,6 +1,20 @@
 # los-angeles
 
 ## Movie updates
+### Tue 11/21 5:13pm
+* New movies: Skinamarink, Silent Night, Deadly Night Part 2, Violent Night, Violent Night
+
+* New screenings: 
+    * [Escape Your Home For The Holidays Violent Night W Live Q A](https://drafthouse.com/los-angeles/show/escape-your-home-for-the-holidays-violent-night-w-live-q-a): Wed 12/6 (8:00pm)
+
+    * [Movie Party Elf](https://drafthouse.com/los-angeles/show/movie-party-elf): Mon 12/18 (7:30pm), Sat 12/23 (3:30pm)
+
+    * [Silent Night Deadly Night Part 2](https://drafthouse.com/los-angeles/show/silent-night-deadly-night-part-2): Fri 12/8 (3:15pm), Wed 12/13 (8:00pm)
+
+    * [Skinamarink](https://drafthouse.com/los-angeles/show/skinamarink): Fri 12/15 (3:50pm), Wed 12/20 (8:00pm)
+
+    * [Violent Night](https://drafthouse.com/los-angeles/show/violent-night): Fri 12/1 (3:15pm)
+
 ### Tue 11/21 7:16am
 * New movies: American Fiction
 
