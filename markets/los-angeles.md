@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Wed 11/22 12:16pm
+
+* New screenings: 
+    * [Brunch Screenings Poor Things Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-poor-things-brunch): Sat 12/23 (11:00am), Sun 12/24 (11:00am)
+
+    * [Poor Things](https://drafthouse.com/los-angeles/show/poor-things): Mon 12/18 (11:00am, 11:45am, 2:45pm, 3:25pm, 6:30pm, 10:00pm), Tue 12/19 (10:45am, 11:30am, 2:25pm, 3:10pm, 6:00pm, 6:45pm, 9:35pm, 10:20pm), Wed 12/20 (10:45am, 11:30am, 2:25pm, 3:10pm, 6:00pm, 6:45pm, 9:35pm, 10:20pm), Fri 12/22 (11:00am, 2:40pm, 6:15pm, 9:50pm), Sat 12/23 (2:40pm, 6:15pm, 9:50pm), Sun 12/24 (2:40pm, 6:15pm), Mon 12/25 (11:00am, 2:40pm, 6:15pm, 9:50pm), Tue 12/26 (11:00am, 2:40pm, 6:15pm, 9:50pm), Wed 12/27 (2:40pm, 6:15pm, 9:50pm)
+
 ### Wed 11/22 11:12am
 * New movies: Poor Things, Poor Things
 
