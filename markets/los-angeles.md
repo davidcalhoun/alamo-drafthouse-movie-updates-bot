@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 11/27 9:14am
+* New movies: Poor Things
+
+* New screenings: 
+    * [Advance Screening Poor Things](https://drafthouse.com/los-angeles/show/advance-screening-poor-things): Tue 12/5 (6:45pm)
+
 ### Wed 11/22 3:16pm
 * New movies: The Sacrifice Game
 
