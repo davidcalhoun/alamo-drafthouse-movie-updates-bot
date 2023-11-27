@@ -1,6 +1,52 @@
 # los-angeles
 
 ## Movie updates
+### Mon 11/27 1:13pm
+* New movies: The Disappearance of Shere Hite, Violent Night
+
+* New screenings: 
+    * [Dream Scenario](https://drafthouse.com/los-angeles/show/dream-scenario): Thu 11/30 (3:15pm, 7:00pm, 10:30pm), Fri 12/1 (12:15pm, 3:35pm, 7:00pm, 10:20pm), Sat 12/2 (12:10pm, 3:40pm, 7:45pm, 10:40pm), Sun 12/3 (12:15pm, 3:35pm, 7:00pm, 10:20pm), Mon 12/4 (12:15pm, 3:45pm, 7:10pm, 10:30pm), Tue 12/5 (12:30pm, 3:40pm, 7:20pm, 10:35pm), Wed 12/6 (12:00pm, 3:00pm, 6:50pm, 10:35pm)
+
+    * [Everyone Will Burn](https://drafthouse.com/los-angeles/show/everyone-will-burn): Fri 12/1 (5:20pm), Sat 12/2 (10:20pm), Sun 12/3 (9:50pm), Wed 12/6 (10:20pm)
+
+    * [Godzilla Minus One](https://drafthouse.com/los-angeles/show/godzilla-minus-one): Sun 12/3 (9:35pm)
+
+    * [Killers Of The Flower Moon](https://drafthouse.com/los-angeles/show/killers-of-the-flower-moon): Thu 11/30 (2:40pm)
+
+    * [Little Women 2019](https://drafthouse.com/los-angeles/show/little-women-2019): Mon 12/4 (2:30pm), Tue 12/5 (11:25am), Wed 12/6 (3:10pm)
+
+    * [Napoleon](https://drafthouse.com/los-angeles/show/napoleon): Thu 11/30 (2:45pm, 6:40pm, 10:00pm), Fri 12/1 (11:40am, 3:10pm, 6:30pm, 10:00pm), Sat 12/2 (11:40am, 3:15pm, 6:50pm, 9:20pm), Sun 12/3 (11:45am, 3:10pm, 6:30pm, 9:55pm), Mon 12/4 (11:55am, 3:20pm, 6:40pm, 10:10pm), Tue 12/5 (11:40am, 3:15pm, 6:40pm, 9:25pm), Wed 12/6 (12:15pm, 4:10pm, 6:40pm, 9:55pm)
+
+    * [Next Goal Wins 2023](https://drafthouse.com/los-angeles/show/next-goal-wins-2023): Thu 11/30 (3:00pm)
+
+    * [Priscilla](https://drafthouse.com/los-angeles/show/priscilla): Thu 11/30 (3:15pm), Mon 12/4 (3:35pm), Tue 12/5 (3:00pm, 10:15pm), Wed 12/6 (4:00pm)
+
+    * [Raging Grace](https://drafthouse.com/los-angeles/show/raging-grace): Fri 12/1 (11:20am), Sat 12/2 (10:50pm), Sun 12/3 (10:50pm)
+
+    * [Renaissance A Film By Beyonce](https://drafthouse.com/los-angeles/show/renaissance-a-film-by-beyonce): Thu 11/30 (9:40pm, 10:15pm), Fri 12/1 (7:40pm, 8:40pm), Sat 12/2 (5:00pm, 7:00pm), Sun 12/3 (2:40pm, 7:40pm)
+
+    * [Saltburn](https://drafthouse.com/los-angeles/show/saltburn): Thu 11/30 (3:10pm, 6:00pm, 9:20pm), Fri 12/1 (12:00pm, 3:25pm, 6:45pm, 10:05pm), Sat 12/2 (11:10am, 2:30pm, 6:00pm, 9:40pm), Sun 12/3 (1:00pm, 3:25pm, 6:45pm, 10:10pm), Mon 12/4 (11:40am, 3:00pm, 6:50pm, 10:15pm), Tue 12/5 (12:00pm, 3:30pm, 7:10pm, 10:30pm), Wed 12/6 (12:20pm, 3:45pm, 7:15pm, 10:35pm)
+
+    * [Silent Night 2023](https://drafthouse.com/los-angeles/show/silent-night-2023): Sun 12/3 (9:20pm)
+
+    * [Thanksgiving](https://drafthouse.com/los-angeles/show/thanksgiving): Thu 11/30 (4:00pm, 7:45pm, 10:40pm), Fri 12/1 (1:00pm, 4:10pm, 7:15pm, 10:20pm), Sat 12/2 (12:40pm, 3:40pm, 6:40pm, 10:15pm), Sun 12/3 (1:00pm, 4:10pm, 7:20pm, 10:45pm), Mon 12/4 (1:00pm, 4:15pm, 7:30pm, 10:30pm), Tue 12/5 (1:15pm, 4:20pm, 7:30pm, 10:30pm), Wed 12/6 (1:15pm, 4:20pm, 7:30pm, 10:30pm)
+
+    * [The Bride Of Frankenstein](https://drafthouse.com/los-angeles/show/the-bride-of-frankenstein): Tue 12/5 (11:00am, 10:00pm), Wed 12/6 (3:20pm)
+
+    * [The City Of Lost Children](https://drafthouse.com/los-angeles/show/the-city-of-lost-children): Mon 12/4 (10:35pm), Tue 12/5 (5:40pm), Wed 12/6 (12:10pm)
+
+    * [The Disappearance Of Shere Hite](https://drafthouse.com/los-angeles/show/the-disappearance-of-shere-hite): Mon 12/4 (11:20am, 7:20pm), Tue 12/5 (12:00pm, 9:50pm), Wed 12/6 (11:40am, 9:00pm)
+
+    * [The Hunger Games The Ballad Of Songbirds Snakes](https://drafthouse.com/los-angeles/show/the-hunger-games-the-ballad-of-songbirds-snakes): Thu 11/30 (3:00pm, 6:00pm, 9:50pm), Fri 12/1 (11:50am, 3:10pm, 7:00pm, 10:50pm), Sat 12/2 (11:20am, 3:10pm, 7:10pm, 9:00pm), Sun 12/3 (11:20am, 3:10pm, 7:00pm, 10:20pm), Mon 12/4 (11:45am, 3:00pm, 6:00pm, 10:00pm), Tue 12/5 (11:00am, 2:10pm, 6:00pm, 9:00pm), Wed 12/6 (11:10am, 3:00pm, 5:40pm, 9:30pm)
+
+    * [The Marvels](https://drafthouse.com/los-angeles/show/the-marvels): Thu 11/30 (3:45pm, 6:20pm, 9:20pm), Fri 12/1 (1:15pm, 4:25pm, 7:30pm, 10:30pm), Sat 12/2 (1:00pm, 4:10pm, 7:15pm, 10:45pm), Sun 12/3 (12:25pm, 4:25pm, 7:30pm, 10:30pm), Mon 12/4 (1:20pm, 4:30pm, 7:40pm, 10:45pm), Tue 12/5 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:45pm), Wed 12/6 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:45pm)
+
+    * [Trolls Band Together](https://drafthouse.com/los-angeles/show/trolls-band-together): Thu 11/30 (3:20pm)
+
+    * [Violent Night](https://drafthouse.com/los-angeles/show/violent-night): Fri 12/1 (2:15pm), Mon 12/4 (11:35am)
+
+    * [Wish](https://drafthouse.com/los-angeles/show/wish): Thu 11/30 (5:00pm, 6:50pm, 10:50pm), Fri 12/1 (11:45am, 3:45pm, 6:35pm, 9:25pm), Sat 12/2 (11:00am, 1:50pm, 4:35pm, 7:30pm, 11:00pm), Sun 12/3 (10:45am, 1:30pm, 4:20pm, 7:10pm, 10:00pm), Mon 12/4 (1:30pm, 4:20pm, 6:00pm, 9:00pm), Tue 12/5 (11:15am, 2:45pm, 6:00pm, 9:00pm), Wed 12/6 (11:50am, 2:40pm, 6:00pm, 9:00pm)
+
 ### Mon 11/27 9:14am
 * New movies: Poor Things
 
