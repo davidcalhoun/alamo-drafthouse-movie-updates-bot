@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 11/28 6:18pm
+
+* New screenings: 
+    * [Wish](https://drafthouse.com/raleigh/show/wish): Tue 12/5 (6:50pm)
+
 ### Tue 11/28 1:24pm
 * New movies: Godzilla Minus One, The Polar Express, The Holiday, Little Women 2019
 
