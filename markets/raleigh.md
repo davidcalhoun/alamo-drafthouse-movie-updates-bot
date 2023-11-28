@@ -1,6 +1,52 @@
 # raleigh
 
 ## Movie updates
+### Tue 11/28 1:24pm
+* New movies: Godzilla Minus One, The Polar Express, The Holiday, Little Women 2019
+
+* New screenings: 
+    * [A Disturbance In The Force](https://drafthouse.com/raleigh/show/a-disturbance-in-the-force): Thu 11/30 (12:15pm)
+
+    * [Dream Scenario](https://drafthouse.com/raleigh/show/dream-scenario): Thu 11/30 (12:30pm, 3:45pm, 7:15pm, 10:00pm), Fri 12/1 (12:45pm, 3:45pm, 6:35pm, 9:30pm), Sat 12/2 (1:00pm, 4:30pm, 7:15pm, 10:15pm), Sun 12/3 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Mon 12/4 (12:00pm, 3:00pm, 6:25pm, 9:20pm), Tue 12/5 (12:00pm, 3:00pm, 6:25pm, 9:20pm), Wed 12/6 (1:40pm, 4:35pm, 7:25pm, 10:10pm)
+
+    * [Godzilla Minus One](https://drafthouse.com/raleigh/show/godzilla-minus-one): Thu 11/30 (4:00pm, 7:20pm, 10:30pm), Fri 12/1 (1:00pm, 4:25pm, 7:35pm, 10:45pm), Sat 12/2 (12:00pm, 3:25pm, 6:45pm, 10:00pm), Sun 12/3 (1:00pm, 4:15pm, 7:25pm, 10:35pm), Mon 12/4 (12:30pm, 2:45pm, 6:45pm, 7:20pm, 9:00pm), Tue 12/5 (12:30pm, 2:45pm, 6:00pm, 6:50pm, 10:00pm), Wed 12/6 (12:30pm, 4:00pm, 6:40pm, 10:30pm)
+
+    * [Killers Of The Flower Moon](https://drafthouse.com/raleigh/show/killers-of-the-flower-moon): Thu 11/30 (1:45pm)
+
+    * [Little Women 2019](https://drafthouse.com/raleigh/show/little-women-2019): Mon 12/4 (10:30pm)
+
+    * [Napoleon](https://drafthouse.com/raleigh/show/napoleon): Thu 11/30 (11:00am, 2:45pm, 6:30pm, 10:15pm), Fri 12/1 (11:15am, 3:15pm, 7:00pm, 10:45pm), Sat 12/2 (12:30pm, 2:00pm, 5:45pm, 8:00pm, 9:30pm), Sun 12/3 (12:15pm, 6:50pm, 9:30pm), Mon 12/4 (11:15am, 3:00pm, 6:45pm, 10:30pm), Tue 12/5 (11:15am, 3:00pm, 6:45pm, 10:30pm), Wed 12/6 (12:00pm, 1:15pm, 5:00pm, 8:45pm)
+
+    * [Next Goal Wins 2023](https://drafthouse.com/raleigh/show/next-goal-wins-2023): Thu 11/30 (12:15pm)
+
+    * [Priscilla](https://drafthouse.com/raleigh/show/priscilla): Thu 11/30 (1:00pm, 3:05pm)
+
+    * [Renaissance A Film By Beyonce](https://drafthouse.com/raleigh/show/renaissance-a-film-by-beyonce): Thu 11/30 (6:00pm), Fri 12/1 (6:45pm, 10:30pm)
+
+    * [Saltburn](https://drafthouse.com/raleigh/show/saltburn): Thu 11/30 (12:50pm, 2:45pm, 6:00pm, 9:15pm), Fri 12/1 (1:10pm, 4:30pm, 7:45pm, 11:00pm), Sat 12/2 (1:15pm, 2:35pm, 5:50pm, 9:05pm), Sun 12/3 (1:20pm, 2:45pm, 6:00pm, 9:20pm), Mon 12/4 (12:15pm, 3:45pm, 7:00pm, 10:15pm), Tue 12/5 (12:15pm, 3:45pm, 7:00pm, 10:15pm), Wed 12/6 (12:40pm, 3:55pm, 7:10pm, 10:25pm)
+
+    * [Silent Night 2023](https://drafthouse.com/raleigh/show/silent-night-2023): Thu 11/30 (10:45pm), Fri 12/1 (1:15pm, 4:10pm, 9:50pm), Sat 12/2 (1:15pm, 4:10pm, 9:50pm), Sun 12/3 (1:00pm, 4:00pm, 10:00pm), Mon 12/4 (12:45pm, 3:45pm, 6:35pm, 10:00pm), Tue 12/5 (12:45pm, 4:00pm, 6:30pm, 10:00pm), Wed 12/6 (12:15pm, 3:10pm, 6:00pm, 9:55pm)
+
+    * [Thanksgiving](https://drafthouse.com/raleigh/show/thanksgiving): Thu 11/30 (12:55pm, 4:00pm, 7:05pm, 10:00pm), Fri 12/1 (12:30pm, 3:25pm, 6:30pm, 9:25pm), Sat 12/2 (12:15pm, 3:15pm, 6:20pm, 9:15pm), Sun 12/3 (12:25pm, 3:15pm, 6:10pm, 9:15pm), Mon 12/4 (1:15pm, 4:15pm, 7:15pm, 10:05pm), Tue 12/5 (1:15pm, 4:15pm, 7:15pm, 10:05pm), Wed 12/6 (1:35pm, 4:40pm, 7:40pm, 10:40pm)
+
+    * [The Bride Of Frankenstein](https://drafthouse.com/raleigh/show/the-bride-of-frankenstein): Mon 12/4 (12:50pm), Tue 12/5 (12:50pm)
+
+    * [The City Of Lost Children](https://drafthouse.com/raleigh/show/the-city-of-lost-children): Fri 12/1 (12:00pm), Sun 12/3 (10:35pm), Tue 12/5 (9:30pm), Wed 12/6 (3:25pm)
+
+    * [The Holdovers](https://drafthouse.com/raleigh/show/the-holdovers): Thu 11/30 (9:45pm)
+
+    * [The Holiday](https://drafthouse.com/raleigh/show/the-holiday): Fri 12/1 (3:15pm), Mon 12/4 (3:15pm), Tue 12/5 (3:15pm), Wed 12/6 (11:30am)
+
+    * [The Hunger Games The Ballad Of Songbirds Snakes](https://drafthouse.com/raleigh/show/the-hunger-games-the-ballad-of-songbirds-snakes): Thu 11/30 (11:15am, 2:55pm, 6:40pm, 10:25pm), Fri 12/1 (11:25am, 3:05pm, 6:45pm, 10:30pm), Sat 12/2 (11:15am, 2:55pm, 6:35pm, 10:15pm), Sun 12/3 (11:00am, 2:50pm, 6:35pm, 10:15pm), Mon 12/4 (11:15am, 2:55pm, 6:35pm, 10:15pm), Tue 12/5 (11:15am, 2:55pm, 6:35pm, 10:15pm), Wed 12/6 (11:40am, 3:20pm, 7:05pm, 10:50pm)
+
+    * [The Marvels](https://drafthouse.com/raleigh/show/the-marvels): Thu 11/30 (4:00pm)
+
+    * [The Polar Express](https://drafthouse.com/raleigh/show/the-polar-express): Fri 12/1 (3:00pm), Sun 12/3 (12:15pm), Mon 12/4 (12:00pm), Tue 12/5 (3:40pm), Wed 12/6 (3:45pm, 9:00pm)
+
+    * [Trolls Band Together](https://drafthouse.com/raleigh/show/trolls-band-together): Thu 11/30 (12:45pm, 3:30pm, 6:10pm, 9:00pm), Fri 12/1 (12:45pm, 3:25pm, 6:15pm, 9:00pm), Sat 12/2 (12:45pm, 3:35pm, 6:10pm, 9:00pm), Sun 12/3 (12:45pm, 3:30pm, 6:25pm, 9:00pm), Mon 12/4 (1:00pm, 3:35pm, 6:15pm, 9:00pm), Tue 12/5 (1:00pm, 3:35pm, 6:15pm, 9:00pm), Wed 12/6 (1:00pm, 3:40pm, 6:20pm, 9:00pm)
+
+    * [Wish](https://drafthouse.com/raleigh/show/wish): Thu 11/30 (12:30pm, 3:30pm, 6:20pm, 9:00pm), Fri 12/1 (12:30pm, 3:30pm, 6:15pm, 9:00pm), Sat 12/2 (12:15pm, 4:15pm, 7:00pm, 9:45pm), Sun 12/3 (1:30pm, 4:10pm, 8:00pm, 10:45pm), Mon 12/4 (12:15pm, 3:15pm, 6:15pm, 9:10pm), Tue 12/5 (12:15pm, 3:15pm, 6:15pm, 9:00pm), Wed 12/6 (12:55pm, 3:40pm, 6:25pm, 9:15pm)
+
 ### Tue 11/21 10:20am
 * New movies: American Fiction
 
