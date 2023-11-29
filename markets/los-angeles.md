@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 11/28 6:27pm
+* New movies: American Fiction
+
+* New screenings: 
+    * [American Fiction](https://drafthouse.com/los-angeles/show/american-fiction): Thu 12/21 (3:45pm, 7:00pm, 10:15pm), Fri 12/22 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Sat 12/23 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Sun 12/24 (12:30pm, 4:15pm, 7:30pm), Mon 12/25 (12:45pm, 4:00pm, 7:15pm, 10:25pm), Tue 12/26 (12:45pm, 4:00pm, 7:15pm, 10:25pm), Wed 12/27 (12:45pm, 4:00pm, 7:15pm, 10:25pm)
+
 ### Tue 11/28 5:12pm
 * New movies: American Fiction
 
