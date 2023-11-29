@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 11/28 5:12pm
+* New movies: American Fiction
+
+* New screenings: 
+    * [Advance Screening American Fiction](https://drafthouse.com/los-angeles/show/advance-screening-american-fiction): Sat 12/9 (7:00pm)
+
 ### Mon 11/27 1:13pm
 * New movies: The Disappearance of Shere Hite, Violent Night
 
