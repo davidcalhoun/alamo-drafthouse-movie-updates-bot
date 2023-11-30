@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Thu 11/30 4:17pm
+
+* New screenings: 
+    * [The Boy And The Heron Dubbed](https://drafthouse.com/raleigh/show/the-boy-and-the-heron-dubbed): Fri 12/8 (12:15pm, 3:30pm), Sun 12/10 (12:15pm, 3:30pm)
+
 ### Tue 11/28 6:18pm
 
 * New screenings: 
