@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 12/1 10:19am
+* New movies: The Iron Claw
+
+* New screenings: 
+    * [The Iron Claw](https://drafthouse.com/raleigh/show/the-iron-claw): Thu 12/21 (4:00pm, 7:15pm), Fri 12/22 (7:00pm)
+
 ### Thu 11/30 5:19pm
 
 * New screenings: 
