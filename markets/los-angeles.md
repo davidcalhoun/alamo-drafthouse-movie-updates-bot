@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 12/1 7:16am
+* New movies: The Iron Claw
+
+* New screenings: 
+    * [The Iron Claw](https://drafthouse.com/los-angeles/show/the-iron-claw): Thu 12/21 (4:00pm, 7:25pm), Fri 12/22 (11:30am, 3:00pm, 6:30pm, 10:00pm), Sat 12/23 (11:15am, 2:50pm, 6:30pm, 10:00pm), Sun 12/24 (11:30am, 3:00pm, 6:30pm), Mon 12/25 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Tue 12/26 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Wed 12/27 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Thu 12/28 (12:00pm, 3:30pm, 7:00pm, 10:30pm)
+
 ### Tue 11/28 6:27pm
 * New movies: American Fiction
 
