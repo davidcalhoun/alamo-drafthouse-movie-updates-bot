@@ -1,6 +1,48 @@
 # raleigh
 
 ## Movie updates
+### Mon 12/4 4:16pm
+* New movies: White Christmas
+
+* New screenings: 
+    * [Dream Scenario](https://drafthouse.com/raleigh/show/dream-scenario): Thu 12/7 (1:00pm, 4:15pm, 7:15pm, 10:05pm), Fri 12/8 (1:15pm, 4:00pm, 6:50pm, 9:45pm), Sat 12/9 (12:50pm, 4:00pm, 7:15pm, 10:00pm), Sun 12/10 (12:45pm, 3:45pm, 7:00pm, 10:00pm), Mon 12/11 (1:15pm, 4:00pm, 6:50pm, 9:45pm), Tue 12/12 (1:00pm, 3:45pm, 6:35pm, 9:30pm), Wed 12/13 (12:30pm, 3:30pm, 6:15pm, 9:10pm)
+
+    * [Eileen](https://drafthouse.com/raleigh/show/eileen): Fri 12/8 (1:15pm, 4:30pm, 10:30pm), Sat 12/9 (1:00pm, 4:15pm, 10:45pm), Sun 12/10 (1:00pm, 4:30pm, 10:30pm), Mon 12/11 (1:15pm, 4:15pm, 7:00pm, 9:45pm), Tue 12/12 (1:25pm, 4:10pm, 6:55pm, 9:40pm), Wed 12/13 (1:30pm, 4:15pm, 7:00pm, 9:45pm)
+
+    * [Godzilla Minus One](https://drafthouse.com/raleigh/show/godzilla-minus-one): Thu 12/7 (11:30am, 2:45pm, 4:35pm, 6:30pm, 10:30pm), Fri 12/8 (12:45pm, 4:15pm, 7:25pm, 10:35pm), Sat 12/9 (12:00pm, 3:30pm, 7:00pm, 10:15pm), Sun 12/10 (12:00pm, 3:10pm, 6:20pm, 10:35pm), Mon 12/11 (12:15pm, 3:30pm, 6:45pm, 9:55pm), Tue 12/12 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Wed 12/13 (12:15pm, 3:30pm, 6:45pm, 10:00pm)
+
+    * [Gremlins](https://drafthouse.com/raleigh/show/gremlins): Sat 12/9 (11:00pm), Wed 12/13 (3:45pm)
+
+    * [Napoleon](https://drafthouse.com/raleigh/show/napoleon): Thu 12/7 (11:30am, 3:15pm, 6:45pm, 10:15pm), Fri 12/8 (11:30am, 3:15pm, 7:00pm, 10:45pm), Sat 12/9 (12:45pm, 2:25pm, 6:10pm, 9:55pm), Sun 12/10 (12:45pm, 3:15pm, 7:00pm, 10:45pm), Mon 12/11 (12:45pm, 4:30pm, 8:15pm, 10:45pm), Tue 12/12 (12:40pm, 4:25pm, 8:10pm, 9:50pm), Wed 12/13 (12:45pm, 4:30pm, 8:15pm, 9:55pm)
+
+    * [Queer Film Theory 101 Batman Returns](https://drafthouse.com/raleigh/show/queer-film-theory-101-batman-returns): Mon 12/11 (1:30pm)
+
+    * [Renaissance A Film By Beyonce](https://drafthouse.com/raleigh/show/renaissance-a-film-by-beyonce): Fri 12/8 (2:15pm), Sat 12/9 (2:15pm), Sun 12/10 (2:15pm)
+
+    * [Saltburn](https://drafthouse.com/raleigh/show/saltburn): Thu 12/7 (1:00pm, 4:15pm, 7:30pm, 10:45pm), Fri 12/8 (1:00pm, 4:15pm, 8:00pm, 11:15pm), Sat 12/9 (12:15pm, 3:30pm, 7:00pm, 10:15pm), Sun 12/10 (12:25pm, 3:55pm, 7:15pm, 10:35pm), Mon 12/11 (1:00pm, 4:30pm, 8:00pm, 11:15pm), Tue 12/12 (1:15pm, 4:30pm, 7:45pm, 11:00pm), Wed 12/13 (1:15pm, 4:30pm, 7:45pm, 11:00pm)
+
+    * [Silent Night 2023](https://drafthouse.com/raleigh/show/silent-night-2023): Thu 12/7 (12:30pm, 3:25pm, 6:40pm, 10:30pm), Fri 12/8 (12:15pm, 3:30pm, 6:25pm, 9:15pm), Sat 12/9 (11:30am, 2:45pm, 6:00pm, 9:05pm), Sun 12/10 (12:20pm, 2:05pm, 5:00pm, 8:00pm, 11:00pm), Mon 12/11 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Tue 12/12 (1:30pm, 4:25pm, 7:15pm, 10:05pm), Wed 12/13 (12:35pm, 3:25pm, 6:25pm, 9:15pm)
+
+    * [Thanksgiving](https://drafthouse.com/raleigh/show/thanksgiving): Thu 12/7 (12:45pm)
+
+    * [The Boy And The Heron Dubbed](https://drafthouse.com/raleigh/show/the-boy-and-the-heron-dubbed): Sat 12/9 (12:15pm, 7:30pm), Mon 12/11 (12:15pm, 3:30pm, 6:45pm), Tue 12/12 (12:00pm, 3:10pm, 6:20pm), Wed 12/13 (12:00pm, 1:00pm, 3:10pm, 7:30pm)
+
+    * [The Boy And The Heron Subtitled](https://drafthouse.com/raleigh/show/the-boy-and-the-heron-subtitled): Thu 12/7 (5:30pm, 8:45pm), Fri 12/8 (11:00am, 12:45pm, 4:15pm, 7:30pm), Sat 12/9 (11:00am), Sun 12/10 (11:00am, 4:00pm, 7:25pm), Mon 12/11 (1:00pm, 4:30pm, 10:00pm), Tue 12/12 (1:00pm, 4:15pm, 7:30pm, 10:45pm), Wed 12/13 (4:15pm, 6:45pm, 10:45pm)
+
+    * [The City Of Lost Children](https://drafthouse.com/raleigh/show/the-city-of-lost-children): Thu 12/7 (2:30pm)
+
+    * [The Holiday](https://drafthouse.com/raleigh/show/the-holiday): Thu 12/7 (11:00am, 3:25pm)
+
+    * [The Hunger Games The Ballad Of Songbirds Snakes](https://drafthouse.com/raleigh/show/the-hunger-games-the-ballad-of-songbirds-snakes): Thu 12/7 (12:00pm, 3:50pm, 7:40pm, 9:40pm), Fri 12/8 (11:45am, 3:30pm, 7:15pm, 10:55pm), Sat 12/9 (11:15am, 3:00pm, 6:45pm, 10:30pm), Sun 12/10 (11:15am, 3:00pm, 7:00pm, 10:45pm), Mon 12/11 (11:45am, 3:30pm, 7:15pm, 10:55pm), Tue 12/12 (12:00pm, 2:15pm, 6:00pm, 9:40pm), Wed 12/13 (12:00pm, 2:15pm, 6:00pm, 9:40pm)
+
+    * [The Polar Express](https://drafthouse.com/raleigh/show/the-polar-express): Thu 12/7 (3:45pm)
+
+    * [Trolls Band Together](https://drafthouse.com/raleigh/show/trolls-band-together): Thu 12/7 (12:30pm, 9:30pm)
+
+    * [White Christmas](https://drafthouse.com/raleigh/show/white-christmas): Sat 12/9 (11:15am)
+
+    * [Wish](https://drafthouse.com/raleigh/show/wish): Thu 12/7 (12:30pm, 3:20pm, 6:15pm, 9:15pm), Fri 12/8 (12:30pm, 3:15pm, 6:15pm, 9:00pm), Sat 12/9 (12:30pm, 3:15pm, 6:15pm, 9:00pm), Sun 12/10 (11:45am, 2:45pm, 6:00pm, 9:00pm), Mon 12/11 (12:30pm, 3:15pm, 6:15pm, 9:00pm), Tue 12/12 (12:15pm, 3:15pm, 6:10pm, 9:00pm), Wed 12/13 (12:15pm, 3:15pm, 6:15pm, 9:00pm)
+
 ### Fri 12/1 4:16pm
 
 * New screenings: 
