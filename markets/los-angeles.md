@@ -1,6 +1,42 @@
 # los-angeles
 
 ## Movie updates
+### Mon 12/4 7:17pm
+* New movies: Fallen Leaves, Oppenheimer
+
+* New screenings: 
+    * [Dream Scenario](https://drafthouse.com/los-angeles/show/dream-scenario): Thu 12/7 (3:25pm, 7:00pm, 10:15pm), Fri 12/8 (12:15pm, 3:35pm, 7:00pm, 10:20pm), Sat 12/9 (12:15pm, 3:35pm, 7:10pm, 10:20pm), Sun 12/10 (12:15pm, 3:30pm, 7:00pm, 10:20pm), Mon 12/11 (12:10pm, 3:35pm, 6:00pm, 9:50pm), Tue 12/12 (12:10pm, 3:35pm, 6:00pm, 10:00pm), Wed 12/13 (12:10pm, 3:30pm, 6:00pm, 9:50pm)
+
+    * [Fallen Leaves](https://drafthouse.com/los-angeles/show/fallen-leaves): Thu 12/7 (5:00pm), Fri 12/8 (11:50am, 6:00pm), Sat 12/9 (11:50am, 6:00pm), Sun 12/10 (11:50am, 6:00pm), Mon 12/11 (12:45pm, 3:20pm, 7:10pm, 10:20pm), Tue 12/12 (12:45pm, 3:20pm, 7:10pm, 10:20pm), Wed 12/13 (12:45pm, 3:20pm, 7:10pm, 10:20pm)
+
+    * [Godzilla Minus One](https://drafthouse.com/los-angeles/show/godzilla-minus-one): Thu 12/7 (2:45pm, 6:00pm, 10:05pm), Fri 12/8 (12:45pm, 4:10pm, 7:30pm, 10:50pm), Sat 12/9 (12:45pm, 4:10pm, 7:30pm, 10:50pm), Sun 12/10 (12:45pm, 4:10pm, 7:30pm, 10:50pm), Mon 12/11 (12:50pm, 4:10pm, 7:30pm, 10:45pm), Tue 12/12 (12:45pm, 4:05pm, 7:30pm, 10:45pm), Wed 12/13 (12:45pm, 4:05pm, 7:30pm, 10:45pm)
+
+    * [Gremlins](https://drafthouse.com/los-angeles/show/gremlins): Tue 12/12 (11:45am), Wed 12/13 (11:15am, 5:40pm)
+
+    * [Napoleon](https://drafthouse.com/los-angeles/show/napoleon): Thu 12/7 (3:10pm, 6:25pm, 9:55pm), Fri 12/8 (11:40am, 3:10pm, 6:30pm, 10:00pm), Sat 12/9 (11:40am, 3:15pm, 6:30pm, 10:05pm), Sun 12/10 (11:40am, 3:10pm, 6:30pm, 9:55pm), Mon 12/11 (11:40am, 3:10pm, 6:30pm, 9:00pm), Tue 12/12 (11:40am, 3:10pm, 6:30pm, 9:00pm), Wed 12/13 (11:40am, 3:10pm, 6:25pm, 9:00pm)
+
+    * [Oppenheimer](https://drafthouse.com/los-angeles/show/oppenheimer): Fri 12/8 (11:00am, 4:00pm), Sat 12/9 (10:35am, 8:35pm), Sun 12/10 (11:45am, 8:35pm), Mon 12/11 (12:40pm, 2:45pm, 8:15pm), Tue 12/12 (2:45pm, 9:45pm), Wed 12/13 (11:25am, 3:45pm)
+
+    * [Raging Grace](https://drafthouse.com/los-angeles/show/raging-grace): Thu 12/7 (3:00pm)
+
+    * [Renaissance A Film By Beyonce](https://drafthouse.com/los-angeles/show/renaissance-a-film-by-beyonce): Thu 12/7 (9:20pm), Fri 12/8 (12:00pm, 8:20pm), Sat 12/9 (2:50pm, 10:10pm), Sun 12/10 (4:00pm, 8:15pm)
+
+    * [Saltburn](https://drafthouse.com/los-angeles/show/saltburn): Thu 12/7 (3:40pm, 6:35pm, 10:50pm), Fri 12/8 (12:00pm, 3:25pm, 6:50pm, 10:30pm), Sat 12/9 (12:00pm, 3:25pm, 6:50pm, 10:30pm), Sun 12/10 (12:00pm, 3:20pm, 6:50pm, 10:30pm), Mon 12/11 (12:00pm, 3:30pm, 6:50pm, 10:30pm), Tue 12/12 (12:00pm, 3:30pm, 6:50pm, 10:30pm), Wed 12/13 (12:00pm, 3:30pm, 6:50pm, 10:25pm)
+
+    * [Silent Night 2023](https://drafthouse.com/los-angeles/show/silent-night-2023): Thu 12/7 (4:45pm, 7:45pm, 10:40pm), Fri 12/8 (11:15am, 2:10pm, 5:05pm, 8:00pm, 10:55pm), Sat 12/9 (11:15am, 2:10pm, 5:05pm, 8:00pm, 10:55pm), Sun 12/10 (11:10am, 2:10pm, 5:05pm, 8:00pm, 10:55pm), Mon 12/11 (11:15am, 2:10pm, 5:05pm, 8:00pm, 10:55pm), Tue 12/12 (11:15am, 2:10pm, 5:05pm, 8:00pm, 10:55pm), Wed 12/13 (11:15am, 2:10pm, 5:05pm, 8:00pm, 10:55pm)
+
+    * [The Boy And The Heron Dubbed](https://drafthouse.com/los-angeles/show/the-boy-and-the-heron-dubbed): Thu 12/7 (6:45pm, 10:50pm), Fri 12/8 (2:25pm, 8:35pm), Sun 12/10 (2:25pm, 10:10pm, 10:35pm), Mon 12/11 (10:20pm), Tue 12/12 (11:00am, 5:40pm, 10:35pm)
+
+    * [The Boy And The Heron Subtitled](https://drafthouse.com/los-angeles/show/the-boy-and-the-heron-subtitled): Thu 12/7 (7:35pm, 10:10pm), Fri 12/8 (10:10pm), Sat 12/9 (2:25pm, 2:35pm, 10:20pm), Mon 12/11 (11:30am, 10:35pm), Tue 12/12 (9:00pm), Wed 12/13 (11:30am, 2:20pm, 8:45pm, 10:35pm)
+
+    * [The Disappearance Of Shere Hite](https://drafthouse.com/los-angeles/show/the-disappearance-of-shere-hite): Mon 12/11 (11:30am), Tue 12/12 (2:20pm), Wed 12/13 (10:45pm)
+
+    * [The Hunger Games The Ballad Of Songbirds Snakes](https://drafthouse.com/los-angeles/show/the-hunger-games-the-ballad-of-songbirds-snakes): Thu 12/7 (2:45pm, 7:00pm, 9:55pm), Fri 12/8 (11:00am, 2:45pm, 6:40pm, 10:10pm), Sat 12/9 (11:00am, 2:45pm, 6:40pm, 10:10pm), Sun 12/10 (11:00am, 2:45pm, 6:40pm, 10:10pm), Mon 12/11 (11:00am, 2:45pm, 6:40pm, 10:10pm), Tue 12/12 (11:00am, 2:45pm, 6:40pm, 10:10pm), Wed 12/13 (11:00am, 2:45pm, 6:35pm, 10:10pm)
+
+    * [The Marvels](https://drafthouse.com/los-angeles/show/the-marvels): Thu 12/7 (4:15pm)
+
+    * [Wish](https://drafthouse.com/los-angeles/show/wish): Thu 12/7 (3:50pm)
+
 ### Fri 12/1 7:16am
 * New movies: The Iron Claw
 
