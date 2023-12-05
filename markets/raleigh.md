@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 12/5 10:21am
+* New movies: The Iron Claw
+
+* New screenings: 
+    * [Livestream Q A The Iron Claw](https://drafthouse.com/raleigh/show/livestream-q-a-the-iron-claw): Tue 12/19 (7:30pm)
+
 ### Mon 12/4 4:16pm
 * New movies: White Christmas
 
