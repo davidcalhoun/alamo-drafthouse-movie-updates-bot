@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 12/5 4:16pm
+* New movies: Pet Shop Boys Dreamworld: The Greatest Hits Live at the Royal Arena Copenhagen
+
+* New screenings: 
+    * [Pet Shop Boys Dreamworld The Greatest Hits Live At The Royal Arena Copenhagen](https://drafthouse.com/raleigh/show/pet-shop-boys-dreamworld-the-greatest-hits-live-at-the-royal-arena-copenhagen): Sun 2/4 (3:00pm)
+
 ### Tue 12/5 10:21am
 * New movies: The Iron Claw
 
