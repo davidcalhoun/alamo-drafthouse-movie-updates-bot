@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 12/6 3:16pm
+* New movies: Birth
+
+* New screenings: 
+    * [Birth](https://drafthouse.com/los-angeles/show/birth): Sat 12/30 (1:00pm, 4:00pm)
+
 ### Tue 12/5 7:17am
 * New movies: The Iron Claw
 
