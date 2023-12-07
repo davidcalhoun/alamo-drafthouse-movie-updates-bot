@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 12/7 10:20am
+
+* New screenings: 
+    * [The Boy And The Heron Subtitled](https://drafthouse.com/los-angeles/show/the-boy-and-the-heron-subtitled): Fri 12/8 (10:20pm), Sat 12/9 (10:30pm), Sun 12/10 (10:20pm)
+
 ### Thu 12/7 6:15am
 * New movies: Origin, Origin
 
