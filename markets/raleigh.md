@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Thu 12/7 9:19am
+* New movies: Origin, Origin
+
+* New screenings: 
+    * [Advance Screening Origin Early Access](https://drafthouse.com/raleigh/show/advance-screening-origin-early-access): Wed 1/24 (7:00pm)
+
+    * [Origin](https://drafthouse.com/raleigh/show/origin): Thu 1/25 (5:00pm, 8:30pm), Fri 1/26 (6:30pm), Sat 1/27 (6:30pm), Sun 1/28 (6:30pm)
+
 ### Tue 12/5 4:16pm
 * New movies: Pet Shop Boys Dreamworld: The Greatest Hits Live at the Royal Arena Copenhagen
 
