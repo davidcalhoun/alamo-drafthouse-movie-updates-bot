@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 12/7 6:15am
+* New movies: Origin, Origin
+
+* New screenings: 
+    * [Advance Screening Origin Early Access](https://drafthouse.com/los-angeles/show/advance-screening-origin-early-access): Wed 1/17 (7:00pm)
+
+    * [Origin](https://drafthouse.com/los-angeles/show/origin): Thu 1/18 (6:15pm, 9:50pm), Fri 1/19 (11:00am, 2:40pm, 6:15pm, 9:50pm), Sat 1/20 (11:00am, 2:40pm, 6:15pm, 9:50pm), Sun 1/21 (11:00am, 2:40pm, 6:15pm, 9:50pm), Mon 1/22 (2:40pm, 6:15pm, 9:50pm), Tue 1/23 (11:00am, 2:40pm, 6:15pm, 9:50pm), Wed 1/24 (2:40pm, 6:15pm, 9:50pm)
+
 ### Wed 12/6 3:16pm
 * New movies: Birth
 
