@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Fri 12/8 3:13am
+* New movies: Magnolia, A Town Called Panic: Double Fun, The Iron Giant
+
+* New screenings: 
+    * [A Town Called Panic Double Fun](https://drafthouse.com/los-angeles/show/a-town-called-panic-double-fun): Sun 12/31 (11:45am)
+
+    * [Magnolia](https://drafthouse.com/los-angeles/show/magnolia): Fri 1/5 (6:00pm), Sun 1/7 (11:00am)
+
+    * [The Iron Giant](https://drafthouse.com/los-angeles/show/the-iron-giant): Fri 1/5 (3:20pm)
+
 ### Thu 12/7 10:20am
 
 * New screenings: 
