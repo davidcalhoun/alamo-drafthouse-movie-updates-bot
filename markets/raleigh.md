@@ -1,6 +1,32 @@
 # raleigh
 
 ## Movie updates
+### Fri 12/8 1:24pm
+* New movies: Clueless, The Phantom of the Opera 2004, A/V Geeks Present: 1970s Creeps Machine, Audition, The Best Man, Corpse Bride, Eternal Sunshine of the Spotless Mind, Galaxy Quest, Malcolm X, The Matrix, The Talented Mr. Ripley
+
+* New screenings: 
+    * [A V Geeks Present 1970s Creep Machine](https://drafthouse.com/raleigh/show/a-v-geeks-present-1970s-creep-machine): Tue 1/16 (7:00pm)
+
+    * [Audition](https://drafthouse.com/raleigh/show/audition): Mon 1/22 (9:30pm)
+
+    * [Brunch Screenings The Best Man Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-the-best-man-brunch): Sat 2/10 (11:00am)
+
+    * [Corpse Bride](https://drafthouse.com/raleigh/show/corpse-bride): Sat 2/3 (3:25pm)
+
+    * [Eternal Sunshine Of The Spotless Mind](https://drafthouse.com/raleigh/show/eternal-sunshine-of-the-spotless-mind): Wed 2/7 (6:30pm)
+
+    * [Galaxy Quest](https://drafthouse.com/raleigh/show/galaxy-quest): Tue 1/23 (6:30pm)
+
+    * [Malcolm X](https://drafthouse.com/raleigh/show/malcolm-x): Sat 2/3 (11:00am)
+
+    * [Movie Party Clueless](https://drafthouse.com/raleigh/show/movie-party-clueless): Sun 1/28 (11:00am)
+
+    * [The Matrix](https://drafthouse.com/raleigh/show/the-matrix): Sun 1/28 (2:15pm)
+
+    * [The Phantom Of The Opera 2004 Movie Party](https://drafthouse.com/raleigh/show/the-phantom-of-the-opera-2004-movie-party): Mon 2/5 (7:00pm)
+
+    * [The Talented Mr Ripley](https://drafthouse.com/raleigh/show/the-talented-mr-ripley): Sat 1/27 (2:30pm)
+
 ### Fri 12/8 12:18pm
 * New movies: The Lord of the Rings: The Return of the King: Extended Edition, The Goonies, The Lord of the Rings: The Two Towers: Extended Edition, Blood Tea and Red String, Deep Blue Sea, Cemetery Man, Invasion of the Body Snatchers 1978, The Iron Giant, Dr. Caligari, All About My Mother, Being John Malkovich, Election, Go, Mystery Men, Phantom Thread, Run Lola Run, Messiah of Evil, The Apartment, The Limey, The Lord of the Rings: The Fellowship of the Ring: Extended Edition, Snake in the Eagle's Shadow
 
