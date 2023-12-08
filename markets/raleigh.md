@@ -1,6 +1,52 @@
 # raleigh
 
 ## Movie updates
+### Fri 12/8 12:18pm
+* New movies: The Lord of the Rings: The Return of the King: Extended Edition, The Goonies, The Lord of the Rings: The Two Towers: Extended Edition, Blood Tea and Red String, Deep Blue Sea, Cemetery Man, Invasion of the Body Snatchers 1978, The Iron Giant, Dr. Caligari, All About My Mother, Being John Malkovich, Election, Go, Mystery Men, Phantom Thread, Run Lola Run, Messiah of Evil, The Apartment, The Limey, The Lord of the Rings: The Fellowship of the Ring: Extended Edition, Snake in the Eagle's Shadow
+
+* New screenings: 
+    * [All About My Mother](https://drafthouse.com/raleigh/show/all-about-my-mother): Sat 1/13 (2:30pm)
+
+    * [Being John Malkovich](https://drafthouse.com/raleigh/show/being-john-malkovich): Wed 1/10 (6:15pm)
+
+    * [Blood Tea And Red String](https://drafthouse.com/raleigh/show/blood-tea-and-red-string): Wed 1/17 (7:00pm)
+
+    * [Brunch Screenings Election](https://drafthouse.com/raleigh/show/brunch-screenings-election): Sun 1/14 (11:15am)
+
+    * [Go](https://drafthouse.com/raleigh/show/go): Tue 1/2 (7:15pm)
+
+    * [Graveyard Shift Deep Blue Sea](https://drafthouse.com/raleigh/show/graveyard-shift-deep-blue-sea): Mon 1/15 (7:45pm)
+
+    * [Movie Party The Goonies](https://drafthouse.com/raleigh/show/movie-party-the-goonies): Mon 1/22 (6:15pm)
+
+    * [Mystery Men](https://drafthouse.com/raleigh/show/mystery-men): Sun 1/7 (11:45am)
+
+    * [Phantom Thread](https://drafthouse.com/raleigh/show/phantom-thread): Sat 12/30 (11:15am)
+
+    * [Run Lola Run](https://drafthouse.com/raleigh/show/run-lola-run): Sat 1/6 (1:30pm)
+
+    * [Terror Tuesday Cemetery Man](https://drafthouse.com/raleigh/show/terror-tuesday-cemetery-man): Tue 1/16 (9:30pm)
+
+    * [Terror Tuesday Invasion Of The Body Snatchers 1978](https://drafthouse.com/raleigh/show/terror-tuesday-invasion-of-the-body-snatchers-1978): Tue 1/2 (9:30pm)
+
+    * [Terror Tuesday Messiah Of Evil](https://drafthouse.com/raleigh/show/terror-tuesday-messiah-of-evil): Tue 1/30 (9:30pm)
+
+    * [The Apartment](https://drafthouse.com/raleigh/show/the-apartment): Mon 1/1 (12:00pm)
+
+    * [The Iron Giant](https://drafthouse.com/raleigh/show/the-iron-giant): Sat 1/6 (11:00am)
+
+    * [The Limey](https://drafthouse.com/raleigh/show/the-limey): Sat 1/20 (2:30pm)
+
+    * [The Lord Of The Rings The Fellowship Of The Ring Extended Edition](https://drafthouse.com/raleigh/show/the-lord-of-the-rings-the-fellowship-of-the-ring-extended-edition): Sun 1/7 (2:50pm)
+
+    * [The Lord Of The Rings The Return Of The King Extended Edition](https://drafthouse.com/raleigh/show/the-lord-of-the-rings-the-return-of-the-king-extended-edition): Sun 1/21 (2:30pm), Mon 1/22 (12:30pm)
+
+    * [The Lord Of The Rings The Two Towers Extended Edition 2](https://drafthouse.com/raleigh/show/the-lord-of-the-rings-the-two-towers-extended-edition-2): Sun 1/14 (2:05pm)
+
+    * [Weird Wednesday Dr Caligari](https://drafthouse.com/raleigh/show/weird-wednesday-dr-caligari): Wed 1/24 (9:30pm)
+
+    * [Weird Wednesday Snake In The Eagles Shadow](https://drafthouse.com/raleigh/show/weird-wednesday-snake-in-the-eagles-shadow): Wed 1/17 (9:30pm)
+
 ### Thu 12/7 9:19am
 * New movies: Origin, Origin
 
