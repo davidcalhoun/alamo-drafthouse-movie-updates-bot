@@ -1,6 +1,52 @@
 # raleigh
 
 ## Movie updates
+### Fri 12/8 2:15pm
+* New movies: Amelie, Twilight 2008, Twin Peaks: Fire Walk with Me, eXistenZ, The Blair Witch Project, Magnolia, Before Sunrise / Before Sunset Double Feature, Notting Hill, Crouching Tiger, Hidden Dragon, Dick, Ghost Dog: The Way of the Samurai, Mississippi Masala, The Virgin Suicides, She's the Man, AMERICAN MOVIE, Varsity Blues, CRUEL INTENTIONS, DEVIL IN A BLUE DRESS, FENCES, Lost Highway, HARD TICKET TO HAWAII
+
+* New screenings: 
+    * [Amelie](https://drafthouse.com/raleigh/show/amelie): Wed 2/14 (6:30pm), Thu 2/15 (4:30pm), Fri 2/16 (4:30pm), Sat 2/17 (3:00pm), Sun 2/18 (5:15pm)
+
+    * [American Movie](https://drafthouse.com/raleigh/show/american-movie): Wed 2/28 (6:45pm)
+
+    * [Before Sunrise Before Sunset Double Feature](https://drafthouse.com/raleigh/show/before-sunrise-before-sunset-double-feature): Sun 2/11 (11:00am)
+
+    * [Brunch Screenings Notting Hill Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-notting-hill-brunch): Sun 2/4 (11:00am)
+
+    * [Brunch Screenings Varsity Blues Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-varsity-blues-brunch): Sat 2/24 (11:00am)
+
+    * [Crouching Tiger Hidden Dragon](https://drafthouse.com/raleigh/show/crouching-tiger-hidden-dragon): Sat 2/10 (2:05pm)
+
+    * [Cruel Intentions](https://drafthouse.com/raleigh/show/cruel-intentions): Sun 2/25 (12:00pm)
+
+    * [Devil In A Blue Dress](https://drafthouse.com/raleigh/show/devil-in-a-blue-dress): Tue 2/20 (6:45pm)
+
+    * [Dick Brunch](https://drafthouse.com/raleigh/show/dick-brunch): Sat 2/17 (12:20pm)
+
+    * [Existenz](https://drafthouse.com/raleigh/show/existenz): Mon 2/19 (9:30pm)
+
+    * [Fences](https://drafthouse.com/raleigh/show/fences): Sat 2/24 (2:00pm)
+
+    * [Ghost Dog The Way Of The Samurai](https://drafthouse.com/raleigh/show/ghost-dog-the-way-of-the-samurai): Wed 2/21 (6:30pm)
+
+    * [Graveyard Shift The Blair Witch Project](https://drafthouse.com/raleigh/show/graveyard-shift-the-blair-witch-project): Mon 2/12 (9:30pm)
+
+    * [Magnolia](https://drafthouse.com/raleigh/show/magnolia): Sun 2/18 (12:15pm)
+
+    * [Mississippi Masala](https://drafthouse.com/raleigh/show/mississippi-masala): Sun 2/11 (3:15pm)
+
+    * [Movie Party The Twilight Saga Twilight](https://drafthouse.com/raleigh/show/movie-party-the-twilight-saga-twilight): Mon 2/12 (7:00pm)
+
+    * [Shes The Man](https://drafthouse.com/raleigh/show/shes-the-man): Tue 2/13 (6:45pm)
+
+    * [Special Event Lost Highway](https://drafthouse.com/raleigh/show/special-event-lost-highway): Wed 1/3 (9:30pm)
+
+    * [The Virgin Suicides](https://drafthouse.com/raleigh/show/the-virgin-suicides): Mon 2/19 (6:45pm)
+
+    * [Twin Peaks Fire Walk With Me](https://drafthouse.com/raleigh/show/twin-peaks-fire-walk-with-me): Fri 2/23 (9:00pm)
+
+    * [Weird Wednesday Hard Ticket To Hawaii](https://drafthouse.com/raleigh/show/weird-wednesday-hard-ticket-to-hawaii): Wed 1/10 (9:30pm)
+
 ### Fri 12/8 1:24pm
 * New movies: Clueless, The Phantom of the Opera 2004, A/V Geeks Present: 1970s Creeps Machine, Audition, The Best Man, Corpse Bride, Eternal Sunshine of the Spotless Mind, Galaxy Quest, Malcolm X, The Matrix, The Talented Mr. Ripley
 
