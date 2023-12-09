@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Fri 12/8 11:13pm
+* New movies: The Goonies, The Lord of the Rings: The Return of the King: Extended Edition
+
+* New screenings: 
+    * [Audition](https://drafthouse.com/los-angeles/show/audition): Mon 1/22 (9:35pm)
+
+    * [Movie Party The Goonies](https://drafthouse.com/los-angeles/show/movie-party-the-goonies): Mon 1/22 (6:15pm)
+
+    * [The Lord Of The Rings The Return Of The King Extended Edition](https://drafthouse.com/los-angeles/show/the-lord-of-the-rings-the-return-of-the-king-extended-edition): Sun 1/21 (1:45pm)
+
 ### Fri 12/8 10:19pm
 * New movies: Cemetery Man, Audition, The Lord of the Rings: The Two Towers: Extended Edition, Deep Blue Sea, Under the Skin, All About My Mother, Election, Mystery Men, The Limey, The Lord of the Rings: The Fellowship of the Ring: Extended Edition
 
