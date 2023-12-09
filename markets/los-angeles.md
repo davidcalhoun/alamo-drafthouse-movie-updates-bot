@@ -1,6 +1,34 @@
 # los-angeles
 
 ## Movie updates
+### Fri 12/8 10:19pm
+* New movies: Cemetery Man, Audition, The Lord of the Rings: The Two Towers: Extended Edition, Deep Blue Sea, Under the Skin, All About My Mother, Election, Mystery Men, The Limey, The Lord of the Rings: The Fellowship of the Ring: Extended Edition
+
+* New screenings: 
+    * [All About My Mother](https://drafthouse.com/los-angeles/show/all-about-my-mother): Sat 1/13 (4:20pm)
+
+    * [Audition](https://drafthouse.com/los-angeles/show/audition): Fri 1/19 (7:15pm), Sat 1/20 (9:30pm)
+
+    * [Being John Malkovich](https://drafthouse.com/los-angeles/show/being-john-malkovich): Sun 1/7 (7:15pm)
+
+    * [Brunch Screenings Election](https://drafthouse.com/los-angeles/show/brunch-screenings-election): Sun 1/14 (11:15am)
+
+    * [Cemetery Man](https://drafthouse.com/los-angeles/show/cemetery-man): Fri 1/12 (4:15pm), Sat 1/13 (9:30pm), Sun 1/14 (5:45pm), Mon 1/15 (2:45pm), Tue 1/16 (7:15pm), Wed 1/17 (7:45pm)
+
+    * [Graveyard Shift Deep Blue Sea](https://drafthouse.com/los-angeles/show/graveyard-shift-deep-blue-sea): Mon 1/15 (7:15pm)
+
+    * [Mystery Men](https://drafthouse.com/los-angeles/show/mystery-men): Tue 1/9 (8:00pm)
+
+    * [The Iron Giant](https://drafthouse.com/los-angeles/show/the-iron-giant): Mon 1/8 (4:35pm)
+
+    * [The Limey](https://drafthouse.com/los-angeles/show/the-limey): Sat 1/20 (4:30pm)
+
+    * [The Lord Of The Rings The Fellowship Of The Ring Extended Edition](https://drafthouse.com/los-angeles/show/the-lord-of-the-rings-the-fellowship-of-the-ring-extended-edition): Sun 1/7 (2:30pm)
+
+    * [The Lord Of The Rings The Two Towers Extended Edition 2](https://drafthouse.com/los-angeles/show/the-lord-of-the-rings-the-two-towers-extended-edition-2): Sun 1/14 (2:15pm)
+
+    * [Under The Skin](https://drafthouse.com/los-angeles/show/under-the-skin): Mon 1/8 (7:15pm)
+
 ### Fri 12/8 9:14pm
 * New movies: Being John Malkovich, Run Lola Run
 
