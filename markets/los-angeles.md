@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 12/8 9:14pm
+* New movies: Being John Malkovich, Run Lola Run
+
+* New screenings: 
+    * [Being John Malkovich](https://drafthouse.com/los-angeles/show/being-john-malkovich): Sat 1/6 (7:15pm)
+
+    * [Run Lola Run](https://drafthouse.com/los-angeles/show/run-lola-run): Sat 1/6 (4:40pm)
+
 ### Fri 12/8 3:13am
 * New movies: Magnolia, A Town Called Panic: Double Fun, The Iron Giant
 
