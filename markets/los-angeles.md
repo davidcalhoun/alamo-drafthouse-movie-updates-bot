@@ -1,6 +1,24 @@
 # los-angeles
 
 ## Movie updates
+### Sat 12/9 1:13am
+* New movies: Twin Peaks: Fire Walk with Me, Sleepy Hollow, American Pie, AMERICAN MOVIE, Varsity Blues, CRUEL INTENTIONS, FENCES
+
+* New screenings: 
+    * [American Movie](https://drafthouse.com/los-angeles/show/american-movie): Tue 2/27 (7:15pm)
+
+    * [American Pie](https://drafthouse.com/los-angeles/show/american-pie): Sun 2/25 (2:10pm)
+
+    * [Brunch Screenings Varsity Blues Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-varsity-blues-brunch): Sat 2/24 (11:00am)
+
+    * [Cruel Intentions](https://drafthouse.com/los-angeles/show/cruel-intentions): Sun 2/25 (11:15am)
+
+    * [Fences](https://drafthouse.com/los-angeles/show/fences): Sat 2/24 (2:00pm)
+
+    * [Sleepy Hollow](https://drafthouse.com/los-angeles/show/sleepy-hollow): Sun 2/25 (5:00pm)
+
+    * [Twin Peaks Fire Walk With Me](https://drafthouse.com/los-angeles/show/twin-peaks-fire-walk-with-me): Fri 2/23 (9:00pm)
+
 ### Sat 12/9 12:18am
 * New movies: The Phantom of the Opera 2004, eXistenZ, Amelie, Clueless, Twilight 2008, The Matrix, Drop Dead Gorgeous, The Blair Witch Project, Sorcerer, Before Sunrise / Before Sunset Double Feature, Notting Hill, Runaway Bride, The Best Man, Corpse Bride, Crouching Tiger, Hidden Dragon, Dick, Eternal Sunshine of the Spotless Mind, Galaxy Quest, Ghost Dog: The Way of the Samurai, Malcolm X, Mississippi Masala, She's All That, The Talented Mr. Ripley, The Virgin Suicides, They Came Together, Three Kings, DEVIL IN A BLUE DRESS
 
