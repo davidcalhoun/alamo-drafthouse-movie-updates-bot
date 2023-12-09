@@ -1,6 +1,64 @@
 # los-angeles
 
 ## Movie updates
+### Sat 12/9 12:18am
+* New movies: The Phantom of the Opera 2004, eXistenZ, Amelie, Clueless, Twilight 2008, The Matrix, Drop Dead Gorgeous, The Blair Witch Project, Sorcerer, Before Sunrise / Before Sunset Double Feature, Notting Hill, Runaway Bride, The Best Man, Corpse Bride, Crouching Tiger, Hidden Dragon, Dick, Eternal Sunshine of the Spotless Mind, Galaxy Quest, Ghost Dog: The Way of the Samurai, Malcolm X, Mississippi Masala, She's All That, The Talented Mr. Ripley, The Virgin Suicides, They Came Together, Three Kings, DEVIL IN A BLUE DRESS
+
+* New screenings: 
+    * [Amelie](https://drafthouse.com/los-angeles/show/amelie): Wed 2/14 (7:15pm), Thu 2/15 (4:00pm), Fri 2/16 (11:00am), Sat 2/17 (2:30pm)
+
+    * [Before Sunrise Before Sunset Double Feature](https://drafthouse.com/los-angeles/show/before-sunrise-before-sunset-double-feature): Sat 2/10 (2:10pm)
+
+    * [Brunch Screenings Notting Hill Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-notting-hill-brunch): Sun 2/4 (11:00am)
+
+    * [Brunch Screenings Runaway Bride Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-runaway-bride-brunch): Sat 2/10 (11:00am)
+
+    * [Brunch Screenings The Best Man Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-the-best-man-brunch): Sun 2/11 (11:00am)
+
+    * [Corpse Bride](https://drafthouse.com/los-angeles/show/corpse-bride): Mon 2/5 (7:15pm)
+
+    * [Crouching Tiger Hidden Dragon](https://drafthouse.com/los-angeles/show/crouching-tiger-hidden-dragon): Sat 2/10 (6:30pm)
+
+    * [Devil In A Blue Dress](https://drafthouse.com/los-angeles/show/devil-in-a-blue-dress): Fri 2/16 (7:15pm)
+
+    * [Dick Brunch](https://drafthouse.com/los-angeles/show/dick-brunch): Sun 2/18 (11:00am)
+
+    * [Drop Dead Gorgeous](https://drafthouse.com/los-angeles/show/drop-dead-gorgeous): Sat 2/17 (11:45am)
+
+    * [Eternal Sunshine Of The Spotless Mind](https://drafthouse.com/los-angeles/show/eternal-sunshine-of-the-spotless-mind): Tue 2/6 (7:15pm)
+
+    * [Existenz](https://drafthouse.com/los-angeles/show/existenz): Fri 2/16 (10:10pm), Sun 2/18 (7:15pm), Mon 2/19 (7:15pm), Wed 2/21 (4:25pm)
+
+    * [Galaxy Quest](https://drafthouse.com/los-angeles/show/galaxy-quest): Tue 1/23 (7:15pm)
+
+    * [Ghost Dog The Way Of The Samurai](https://drafthouse.com/los-angeles/show/ghost-dog-the-way-of-the-samurai): Sat 2/17 (9:00pm)
+
+    * [Graveyard Shift The Blair Witch Project](https://drafthouse.com/los-angeles/show/graveyard-shift-the-blair-witch-project): Mon 2/12 (8:00pm)
+
+    * [Malcolm X](https://drafthouse.com/los-angeles/show/malcolm-x): Sat 2/3 (11:00am)
+
+    * [Mississippi Masala](https://drafthouse.com/los-angeles/show/mississippi-masala): Sun 2/11 (2:15pm)
+
+    * [Movie Party Clueless](https://drafthouse.com/los-angeles/show/movie-party-clueless): Sun 1/28 (11:00am, 2:00pm)
+
+    * [Movie Party The Twilight Saga Twilight](https://drafthouse.com/los-angeles/show/movie-party-the-twilight-saga-twilight): Sun 2/11 (5:30pm)
+
+    * [Shes All That](https://drafthouse.com/los-angeles/show/shes-all-that): Mon 2/12 (5:10pm)
+
+    * [Sorcerer](https://drafthouse.com/los-angeles/show/sorcerer): Fri 1/26 (4:00pm)
+
+    * [The Matrix](https://drafthouse.com/los-angeles/show/the-matrix): Fri 1/26 (7:15pm), Sat 1/27 (7:15pm)
+
+    * [The Phantom Of The Opera 2004 Movie Party](https://drafthouse.com/los-angeles/show/the-phantom-of-the-opera-2004-movie-party): Fri 2/2 (6:00pm), Sat 2/3 (3:30pm), Sun 2/4 (5:30pm)
+
+    * [The Talented Mr Ripley](https://drafthouse.com/los-angeles/show/the-talented-mr-ripley): Sat 1/27 (3:40pm)
+
+    * [The Virgin Suicides](https://drafthouse.com/los-angeles/show/the-virgin-suicides): Sun 2/18 (4:30pm)
+
+    * [They Came Together](https://drafthouse.com/los-angeles/show/they-came-together): Tue 2/13 (7:15pm)
+
+    * [Three Kings](https://drafthouse.com/los-angeles/show/three-kings): Sat 2/17 (5:45pm)
+
 ### Fri 12/8 11:13pm
 * New movies: The Goonies, The Lord of the Rings: The Return of the King: Extended Edition
 
