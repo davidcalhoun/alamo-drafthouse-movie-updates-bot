@@ -1,6 +1,15 @@
 # raleigh
 
 ## Movie updates
+### Sun 12/10 2:14pm
+
+* New screenings: 
+    * [Its A Wonderful Life](https://drafthouse.com/raleigh/show/its-a-wonderful-life): Mon 12/25 (3:05pm)
+
+    * [Kids Camp The Grinch 2018](https://drafthouse.com/raleigh/show/kids-camp-the-grinch-2018): Tue 12/26 (12:00pm)
+
+    * [Movie Party Elf](https://drafthouse.com/raleigh/show/movie-party-elf): Fri 12/22 (1:10pm, 4:00pm), Tue 12/26 (5:30pm)
+
 ### Fri 12/8 2:15pm
 * New movies: Amelie, Twilight 2008, Twin Peaks: Fire Walk with Me, eXistenZ, The Blair Witch Project, Magnolia, Before Sunrise / Before Sunset Double Feature, Notting Hill, Crouching Tiger, Hidden Dragon, Dick, Ghost Dog: The Way of the Samurai, Mississippi Masala, The Virgin Suicides, She's the Man, AMERICAN MOVIE, Varsity Blues, CRUEL INTENTIONS, DEVIL IN A BLUE DRESS, FENCES, Lost Highway, HARD TICKET TO HAWAII
 
