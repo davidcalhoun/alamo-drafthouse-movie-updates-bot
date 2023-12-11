@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 12/11 12:21am
+* New movies: Love Actually
+
+* New screenings: 
+    * [Champagne Cinema Love Actually 2](https://drafthouse.com/los-angeles/show/champagne-cinema-love-actually-2): Sat 12/16 (2:30pm)
+
 ### Sat 12/9 1:13am
 * New movies: Twin Peaks: Fire Walk with Me, Sleepy Hollow, American Pie, AMERICAN MOVIE, Varsity Blues, CRUEL INTENTIONS, FENCES
 
