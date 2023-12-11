@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 12/11 4:16pm
+* New movies: BUTCHER, BAKER, NIGHTMARE MAKER
+
+* New screenings: 
+    * [Terror Tuesday Butcher Baker Nightmare Maker](https://drafthouse.com/raleigh/show/terror-tuesday-butcher-baker-nightmare-maker): Tue 1/9 (9:30pm)
+
 ### Sun 12/10 2:14pm
 
 * New screenings: 
