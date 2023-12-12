@@ -1,6 +1,44 @@
 # raleigh
 
 ## Movie updates
+### Mon 12/11 8:23pm
+* New movies: RENAISSANCE: A FILM BY BEYONCE
+
+* New screenings: 
+    * [Deep Cover](https://drafthouse.com/raleigh/show/deep-cover): Sun 12/17 (11:00am)
+
+    * [Dream Scenario](https://drafthouse.com/raleigh/show/dream-scenario): Thu 12/14 (11:15pm), Fri 12/15 (10:45pm), Sat 12/16 (11:00pm), Sun 12/17 (11:00pm), Mon 12/18 (11:45pm), Tue 12/19 (10:15pm), Wed 12/20 (11:30pm)
+
+    * [Eileen](https://drafthouse.com/raleigh/show/eileen): Thu 12/14 (1:00pm, 4:00pm, 7:15pm, 10:00pm), Fri 12/15 (1:00pm, 4:00pm, 9:30pm), Sat 12/16 (11:30am, 3:30pm, 10:00pm), Sun 12/17 (12:45pm, 3:45pm, 9:45pm), Mon 12/18 (12:15pm, 3:15pm, 6:00pm, 9:00pm), Tue 12/19 (12:30pm, 3:30pm, 6:15pm, 9:15pm), Wed 12/20 (12:30pm, 3:30pm, 6:15pm, 9:15pm)
+
+    * [Godzilla Minus One](https://drafthouse.com/raleigh/show/godzilla-minus-one): Thu 12/14 (12:15pm, 1:30pm, 3:30pm, 6:45pm, 10:05pm), Fri 12/15 (1:00pm, 4:30pm, 7:45pm, 11:00pm), Sat 12/16 (1:15pm, 4:45pm, 8:00pm, 11:10pm), Sun 12/17 (12:00pm, 3:10pm, 6:25pm, 9:45pm), Mon 12/18 (12:30pm, 3:45pm, 7:20pm, 10:45pm), Tue 12/19 (12:00pm, 3:15pm, 6:25pm, 9:35pm), Wed 12/20 (11:45am, 3:30pm, 7:00pm, 10:15pm)
+
+    * [Gremlins](https://drafthouse.com/raleigh/show/gremlins): Thu 12/14 (4:45pm)
+
+    * [Napoleon](https://drafthouse.com/raleigh/show/napoleon): Thu 12/14 (12:45pm), Fri 12/15 (11:05am), Sat 12/16 (11:45am), Sun 12/17 (11:45am), Mon 12/18 (12:30pm), Tue 12/19 (4:20pm), Wed 12/20 (4:20pm)
+
+    * [Poor Things](https://drafthouse.com/raleigh/show/poor-things): Thu 12/14 (6:25pm, 7:25pm, 9:50pm, 10:50pm), Fri 12/15 (2:00pm, 2:50pm, 5:30pm, 7:15pm, 9:00pm, 11:10pm), Sat 12/16 (12:45pm, 2:15pm, 6:00pm, 8:55pm, 10:00pm), Sun 12/17 (1:50pm, 3:45pm, 5:20pm, 7:00pm, 8:45pm, 10:30pm), Mon 12/18 (12:00pm, 12:45pm, 3:45pm, 4:15pm, 7:40pm, 11:10pm, 11:10pm), Tue 12/19 (11:45am, 12:15pm, 12:55pm, 3:15pm, 6:45pm, 9:45pm, 10:45pm), Wed 12/20 (11:00am, 11:45am, 12:15pm, 12:55pm, 2:30pm, 3:15pm, 6:45pm, 8:05pm, 10:15pm, 10:30pm)
+
+    * [Queer Film Theory 101 Batman Returns](https://drafthouse.com/raleigh/show/queer-film-theory-101-batman-returns): Thu 12/14 (11:45am)
+
+    * [Renaissance A Film By Beyonce](https://drafthouse.com/raleigh/show/renaissance-a-film-by-beyonce): Thu 12/14 (6:00pm, 9:45pm), Fri 12/15 (6:25pm, 10:15pm), Sat 12/16 (6:00pm, 9:45pm), Sun 12/17 (7:10pm, 10:55pm)
+
+    * [Saltburn](https://drafthouse.com/raleigh/show/saltburn): Thu 12/14 (4:45pm, 8:00pm), Fri 12/15 (4:30pm, 8:00pm), Sat 12/16 (4:15pm, 7:45pm), Sun 12/17 (4:35pm, 7:45pm), Mon 12/18 (4:25pm, 7:45pm), Tue 12/19 (3:45pm, 7:15pm), Wed 12/20 (4:00pm, 7:15pm)
+
+    * [Silent Night 2023](https://drafthouse.com/raleigh/show/silent-night-2023): Thu 12/14 (1:25pm)
+
+    * [The Boy And The Heron Dubbed](https://drafthouse.com/raleigh/show/the-boy-and-the-heron-dubbed): Thu 12/14 (11:30am, 12:15pm, 1:00pm, 2:45pm, 3:30pm, 4:10pm, 4:15pm), Fri 12/15 (12:45pm, 1:15pm, 4:00pm, 6:00pm, 11:00pm), Sat 12/16 (12:30pm, 4:00pm, 5:45pm, 7:30pm, 10:45pm), Sun 12/17 (12:30pm, 4:00pm, 7:30pm, 10:45pm), Mon 12/18 (1:15pm, 4:45pm, 8:00pm, 11:10pm), Tue 12/19 (12:45pm, 4:15pm, 8:05pm, 11:15pm), Wed 12/20 (12:30pm, 3:45pm, 7:10pm, 10:25pm)
+
+    * [The Boy And The Heron Subtitled](https://drafthouse.com/raleigh/show/the-boy-and-the-heron-subtitled): Thu 12/14 (7:30pm, 10:45pm), Sun 12/17 (1:15pm)
+
+    * [The Hunger Games The Ballad Of Songbirds Snakes](https://drafthouse.com/raleigh/show/the-hunger-games-the-ballad-of-songbirds-snakes): Thu 12/14 (11:00am, 2:45pm, 6:35pm, 10:15pm), Fri 12/15 (11:35am, 3:15pm, 6:55pm, 10:40pm), Sat 12/16 (11:10am, 2:55pm, 6:35pm, 10:15pm), Sun 12/17 (11:15am, 2:55pm, 6:35pm, 10:15pm), Mon 12/18 (11:30am, 3:10pm, 6:50pm, 10:30pm), Tue 12/19 (11:15am, 2:55pm, 6:35pm, 10:15pm), Wed 12/20 (11:15am, 2:55pm, 6:35pm, 10:15pm)
+
+    * [The Night Of The Hunter](https://drafthouse.com/raleigh/show/the-night-of-the-hunter): Sat 12/16 (11:15am)
+
+    * [Wish](https://drafthouse.com/raleigh/show/wish): Thu 12/14 (12:55pm, 3:40pm)
+
+    * [Wonka](https://drafthouse.com/raleigh/show/wonka): Thu 12/14 (7:45pm, 10:45pm), Fri 12/15 (11:45am, 1:05pm, 2:45pm, 4:15pm, 7:30pm), Sat 12/16 (11:30am, 2:00pm, 2:30pm, 2:45pm, 5:30pm), Sun 12/17 (1:00pm, 2:15pm, 4:00pm, 5:15pm, 8:15pm), Mon 12/18 (1:00pm, 2:30pm, 3:15pm, 4:00pm, 6:15pm, 10:00pm, 10:45pm), Tue 12/19 (11:30am, 1:00pm, 1:25pm, 2:30pm, 4:00pm, 4:30pm, 5:30pm, 7:45pm, 8:30pm, 10:45pm), Wed 12/20 (11:25am, 1:30pm, 2:25pm, 3:00pm, 4:30pm, 5:25pm, 6:00pm, 7:30pm, 8:30pm, 9:00pm, 10:30pm)
+
 ### Mon 12/11 4:16pm
 * New movies: BUTCHER, BAKER, NIGHTMARE MAKER
 
