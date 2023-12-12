@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Tue 12/12 5:19pm
+* New movies: In the Mood for Love, Jawbreaker
+
+* New screenings: 
+    * [Queer Film Theory 101 In The Mood For Love](https://drafthouse.com/raleigh/show/queer-film-theory-101-in-the-mood-for-love): Mon 2/26 (7:00pm)
+
+    * [Queer Film Theory 101 Jawbreaker](https://drafthouse.com/raleigh/show/queer-film-theory-101-jawbreaker): Mon 1/29 (7:00pm)
+
 ### Mon 12/11 8:23pm
 * New movies: RENAISSANCE: A FILM BY BEYONCE
 
