@@ -1,6 +1,62 @@
 # los-angeles
 
 ## Movie updates
+### Mon 12/11 6:29pm
+* New movies: Maestro, RENAISSANCE: A FILM BY BEYONCE, Love Actually, The Boy and the Heron Dubbed, The Boy and the Heron Subtitled, The Boys in the Boat
+
+* New screenings: 
+    * [2046](https://drafthouse.com/los-angeles/show/2046): Sat 12/16 (10:00pm), Sun 12/17 (7:20pm), Wed 12/20 (11:00am)
+
+    * [Advance Screening The Boys In The Boat Early Access](https://drafthouse.com/los-angeles/show/advance-screening-the-boys-in-the-boat-early-access): Sun 12/17 (4:00pm)
+
+    * [Brazil The Directors Cut](https://drafthouse.com/los-angeles/show/brazil-the-directors-cut): Fri 12/15 (11:35am), Sun 12/17 (10:00pm), Mon 12/18 (9:15pm), Tue 12/19 (9:45pm), Wed 12/20 (4:15pm)
+
+    * [Brunch Screenings Its A Wonderful Life Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-its-a-wonderful-life-brunch): Sat 12/16 (11:00am)
+
+    * [Brunch Screenings The Boy And The Heron Dubbed Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-the-boy-and-the-heron-dubbed-brunch): Sun 12/17 (10:45am)
+
+    * [Brunch Screenings The Boy And The Heron Subtitled Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-the-boy-and-the-heron-subtitled-brunch): Sat 12/16 (10:45am)
+
+    * [Brunch Screenings Wonka Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-wonka-brunch): Sat 12/16 (10:50am)
+
+    * [Deep Cover](https://drafthouse.com/los-angeles/show/deep-cover): Wed 12/20 (10:55pm)
+
+    * [Dream Scenario](https://drafthouse.com/los-angeles/show/dream-scenario): Thu 12/14 (2:40pm, 11:00pm), Fri 12/15 (4:35pm, 10:40pm), Sat 12/16 (4:35pm, 10:40pm), Sun 12/17 (4:35pm, 10:40pm), Mon 12/18 (4:35pm, 10:45pm), Tue 12/19 (4:30pm, 10:45pm), Wed 12/20 (4:30pm, 10:40pm)
+
+    * [Eileen](https://drafthouse.com/los-angeles/show/eileen): Thu 12/14 (4:10pm, 7:45pm, 10:40pm), Fri 12/15 (11:00am, 1:50pm, 4:45pm, 7:45pm, 10:45pm), Sat 12/16 (11:00am, 1:50pm, 4:45pm, 7:45pm, 10:45pm), Sun 12/17 (11:00am, 1:50pm, 4:45pm, 7:45pm, 10:45pm), Mon 12/18 (11:10am, 2:00pm, 5:00pm, 8:00pm, 10:50pm), Tue 12/19 (11:00am, 1:50pm, 4:45pm, 7:45pm, 10:40pm), Wed 12/20 (11:00am, 1:50pm, 4:45pm, 7:45pm, 10:40pm)
+
+    * [Fallen Leaves](https://drafthouse.com/los-angeles/show/fallen-leaves): Thu 12/14 (3:20pm), Mon 12/18 (4:15pm), Tue 12/19 (11:10am, 1:45pm), Wed 12/20 (2:20pm)
+
+    * [Godzilla Minus One](https://drafthouse.com/los-angeles/show/godzilla-minus-one): Thu 12/14 (3:25pm, 6:45pm, 10:05pm), Fri 12/15 (12:20pm, 3:45pm, 7:10pm, 10:35pm), Sat 12/16 (12:20pm, 3:45pm, 7:10pm, 10:30pm), Sun 12/17 (12:20pm, 3:45pm, 7:10pm, 10:30pm), Mon 12/18 (12:15pm, 3:40pm, 7:20pm, 10:40pm), Tue 12/19 (12:20pm, 3:45pm, 7:10pm, 10:30pm), Wed 12/20 (12:20pm, 3:45pm, 7:10pm, 10:30pm)
+
+    * [Its A Wonderful Life](https://drafthouse.com/los-angeles/show/its-a-wonderful-life): Mon 12/18 (11:10am), Wed 12/20 (12:50pm)
+
+    * [Love Actually](https://drafthouse.com/los-angeles/show/love-actually): Tue 12/19 (12:00pm), Wed 12/20 (5:00pm)
+
+    * [Maestro](https://drafthouse.com/los-angeles/show/maestro): Thu 12/14 (7:30pm, 10:10pm), Fri 12/15 (12:35pm, 4:00pm, 7:20pm, 10:40pm), Sat 12/16 (12:35pm, 4:00pm, 7:20pm, 10:40pm), Sun 12/17 (11:55am, 3:15pm, 6:35pm, 9:55pm), Mon 12/18 (11:55am, 3:20pm, 6:40pm, 10:00pm), Tue 12/19 (11:35am, 3:10pm, 6:30pm, 9:50pm), Wed 12/20 (11:50am, 3:15pm, 6:35pm, 10:00pm)
+
+    * [Napoleon](https://drafthouse.com/los-angeles/show/napoleon): Thu 12/14 (3:15pm)
+
+    * [Poor Things](https://drafthouse.com/los-angeles/show/poor-things): Thu 12/14 (6:30pm, 8:45pm, 10:00pm), Fri 12/15 (12:10pm, 1:00pm, 2:05pm, 5:40pm, 9:15pm, 10:00pm), Sat 12/16 (1:00pm, 2:10pm, 5:45pm, 8:15pm, 9:20pm), Sun 12/17 (12:25pm, 1:00pm, 2:05pm, 5:40pm, 9:15pm), Mon 12/18 (12:40pm, 2:10pm, 5:40pm, 9:00pm), Tue 12/19 (2:00pm, 5:40pm, 9:15pm), Wed 12/20 (2:05pm, 5:40pm, 8:30pm, 9:15pm)
+
+    * [Renaissance A Film By Beyonce](https://drafthouse.com/los-angeles/show/renaissance-a-film-by-beyonce): Thu 12/14 (6:00pm), Fri 12/15 (6:00pm), Sat 12/16 (6:00pm), Sun 12/17 (6:00pm)
+
+    * [Saltburn](https://drafthouse.com/los-angeles/show/saltburn): Thu 12/14 (4:00pm, 7:20pm, 10:35pm), Fri 12/15 (11:20am, 2:45pm, 6:30pm, 9:50pm), Sat 12/16 (11:20am, 2:45pm, 6:30pm, 9:50pm), Sun 12/17 (11:20am, 2:45pm, 6:25pm, 9:50pm), Mon 12/18 (11:10am, 2:30pm, 6:50pm, 10:15pm), Tue 12/19 (12:00pm, 3:25pm, 7:20pm, 10:40pm), Wed 12/20 (11:20am, 2:45pm, 6:25pm, 9:45pm)
+
+    * [Silent Night 2023](https://drafthouse.com/los-angeles/show/silent-night-2023): Thu 12/14 (3:00pm)
+
+    * [Skinamarink](https://drafthouse.com/los-angeles/show/skinamarink): Sun 12/17 (10:45pm)
+
+    * [The Boy And The Heron Dubbed](https://drafthouse.com/los-angeles/show/the-boy-and-the-heron-dubbed): Thu 12/14 (3:10pm), Fri 12/15 (10:45am), Sat 12/16 (2:00pm), Mon 12/18 (12:25pm, 7:10pm, 10:05pm), Tue 12/19 (10:45am), Wed 12/20 (10:45am, 12:20pm)
+
+    * [The Boy And The Heron Subtitled](https://drafthouse.com/los-angeles/show/the-boy-and-the-heron-subtitled): Thu 12/14 (5:30pm), Mon 12/18 (11:00am, 3:45pm, 10:30pm)
+
+    * [The Hunger Games The Ballad Of Songbirds Snakes](https://drafthouse.com/los-angeles/show/the-hunger-games-the-ballad-of-songbirds-snakes): Thu 12/14 (3:50pm)
+
+    * [The Night Of The Hunter](https://drafthouse.com/los-angeles/show/the-night-of-the-hunter): Sat 12/16 (5:25pm), Mon 12/18 (10:15pm)
+
+    * [Wonka](https://drafthouse.com/los-angeles/show/wonka): Thu 12/14 (4:20pm), Fri 12/15 (7:30pm), Sat 12/16 (7:30pm), Sun 12/17 (7:30pm), Mon 12/18 (1:20pm, 7:35pm), Tue 12/19 (1:15pm, 7:30pm), Wed 12/20 (1:15pm, 7:30pm)
+
 ### Mon 12/11 12:21am
 * New movies: Love Actually
 
