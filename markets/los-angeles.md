@@ -1,6 +1,20 @@
 # los-angeles
 
 ## Movie updates
+### Tue 12/12 2:15pm
+* New movies: Anyone But You, Raw Force, In the Mood for Love, Jawbreaker
+
+* New screenings: 
+    * [Anyone But You](https://drafthouse.com/los-angeles/show/anyone-but-you): Thu 12/21 (2:50pm, 6:00pm, 9:00pm), Fri 12/22 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 12/23 (12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
+    * [Queer Film Theory 101 In The Mood For Love](https://drafthouse.com/los-angeles/show/queer-film-theory-101-in-the-mood-for-love): Mon 2/26 (7:15pm)
+
+    * [Queer Film Theory 101 Jawbreaker](https://drafthouse.com/los-angeles/show/queer-film-theory-101-jawbreaker): Mon 1/29 (7:15pm)
+
+    * [Raw Force](https://drafthouse.com/los-angeles/show/raw-force): Fri 1/5 (4:35pm), Wed 1/10 (8:00pm)
+
+    * [Under The Skin](https://drafthouse.com/los-angeles/show/under-the-skin): Sat 1/6 (9:30pm)
+
 ### Mon 12/11 6:29pm
 * New movies: Maestro, RENAISSANCE: A FILM BY BEYONCE, Love Actually, The Boy and the Heron Dubbed, The Boy and the Heron Subtitled, The Boys in the Boat
 
