@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Tue 12/12 3:15pm
+* New movies: The Boys in the Boat, Stunt Rock, Christine 1983
+
+* New screenings: 
+    * [Christine 1983](https://drafthouse.com/los-angeles/show/christine-1983): Fri 1/26 (12:45pm), Tue 1/30 (8:00pm)
+
+    * [Stunt Rock](https://drafthouse.com/los-angeles/show/stunt-rock): Fri 1/19 (4:35pm), Wed 1/24 (8:00pm)
+
+    * [The Boys In The Boat](https://drafthouse.com/los-angeles/show/the-boys-in-the-boat): Sun 12/24 (1:00pm, 4:25pm, 7:45pm), Mon 12/25 (11:40am, 3:00pm, 6:25pm, 9:45pm), Tue 12/26 (11:40am, 3:00pm, 6:25pm, 9:45pm), Wed 12/27 (11:40am, 3:00pm, 6:25pm, 9:45pm)
+
 ### Tue 12/12 2:15pm
 * New movies: Anyone But You, Raw Force, In the Mood for Love, Jawbreaker
 
