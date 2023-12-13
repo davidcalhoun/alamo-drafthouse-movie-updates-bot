@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Wed 12/13 12:19am
+* New movies: Mean Girls 2024, Mean Girls 2024
+
+* New screenings: 
+    * [Mean Girls 2024](https://drafthouse.com/raleigh/show/mean-girls-2024): Thu 1/11 (4:00pm, 10:30pm), Fri 1/12 (12:30pm, 3:45pm, 10:15pm), Sat 1/13 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Sun 1/14 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Mon 1/15 (12:30pm, 3:45pm, 7:00pm, 10:15pm)
+
+    * [Movie Party Mean Girls 2024](https://drafthouse.com/raleigh/show/movie-party-mean-girls-2024): Thu 1/11 (7:15pm), Fri 1/12 (7:00pm)
+
 ### Tue 12/12 5:19pm
 * New movies: In the Mood for Love, Jawbreaker
 
