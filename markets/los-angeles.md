@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Tue 12/12 9:14pm
+* New movies: Mean Girls 2024, Mean Girls 2024, Mean Girls 2024, Mean Girls 2024
+
+* New screenings: 
+    * [Brunch Screenings Mean Girls 2024 Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-mean-girls-2024-brunch): Sat 1/13 (12:00pm), Sun 1/14 (12:00pm)
+
+    * [Mean Girls 2024](https://drafthouse.com/los-angeles/show/mean-girls-2024): Thu 1/11 (4:00pm, 7:15pm, 10:30pm), Fri 1/12 (12:00pm, 3:15pm, 9:45pm), Sat 1/13 (3:15pm, 9:45pm), Sun 1/14 (3:15pm, 6:30pm), Mon 1/15 (3:15pm, 6:30pm, 9:45pm), Tue 1/16 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Wed 1/17 (3:45pm, 7:15pm, 10:35pm)
+
+    * [Movie Party Mean Girls 2024](https://drafthouse.com/los-angeles/show/movie-party-mean-girls-2024): Fri 1/12 (6:30pm)
+
+    * [Sing Along Mean Girls 2024 Movie Party Sing Along](https://drafthouse.com/los-angeles/show/sing-along-mean-girls-2024-movie-party-sing-along): Sat 1/13 (6:30pm)
+
 ### Tue 12/12 3:15pm
 * New movies: The Boys in the Boat, Stunt Rock, Christine 1983
 
