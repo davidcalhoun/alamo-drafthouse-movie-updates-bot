@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 12/14 11:21am
+* New movies: Anyone But You
+
+* New screenings: 
+    * [Anyone But You](https://drafthouse.com/raleigh/show/anyone-but-you): Thu 12/21 (6:45pm), Fri 12/22 (6:30pm), Sat 12/23 (6:45pm)
+
 ### Wed 12/13 12:19am
 * New movies: Mean Girls 2024, Mean Girls 2024
 
