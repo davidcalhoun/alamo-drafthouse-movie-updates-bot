@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 12/13 6:27pm
+* New movies: Burn It Down, Go
+
+* New screenings: 
+    * [Burn It Down](https://drafthouse.com/los-angeles/show/burn-it-down): Fri 12/29 (4:35pm), Sat 12/30 (2:25pm), Sun 12/31 (2:00pm), Mon 1/1 (7:30pm), Tue 1/2 (11:00am), Wed 1/3 (4:35pm)
+
+    * [Go](https://drafthouse.com/los-angeles/show/go): Mon 1/1 (4:30pm)
+
 ### Tue 12/12 9:14pm
 * New movies: Mean Girls 2024, Mean Girls 2024, Mean Girls 2024, Mean Girls 2024
 
