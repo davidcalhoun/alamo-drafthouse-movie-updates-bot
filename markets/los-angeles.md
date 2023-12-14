@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 12/13 7:16pm
+* New movies: Coherence
+
+* New screenings: 
+    * [Fantastic Fest Presents Coherence W Live Q A](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-coherence-w-live-q-a): Sat 2/3 (7:15pm)
+
 ### Wed 12/13 6:27pm
 * New movies: Burn It Down, Go
 
