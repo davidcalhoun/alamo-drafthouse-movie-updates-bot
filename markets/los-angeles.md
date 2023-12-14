@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 12/14 3:16pm
+* New movies: All of Us Strangers
+
+* New screenings: 
+    * [All Of Us Strangers](https://drafthouse.com/los-angeles/show/all-of-us-strangers): Thu 1/4 (6:00pm, 9:00pm), Fri 1/5 (12:15pm, 3:30pm, 6:30pm, 10:30pm), Sat 1/6 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sun 1/7 (11:30am, 3:30pm, 6:30pm), Mon 1/8 (3:30pm, 6:30pm, 9:30pm), Tue 1/9 (12:30pm, 3:30pm, 6:30pm, 9:30pm)
+
+    * [Renaissance A Film By Beyonce](https://drafthouse.com/los-angeles/show/renaissance-a-film-by-beyonce): Thu 12/14 (7:15pm)
+
 ### Thu 12/14 12:17pm
 
 * New screenings: 
