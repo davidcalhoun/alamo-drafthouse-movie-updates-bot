@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 12/14 12:17pm
+
+* New screenings: 
+    * [Poor Things](https://drafthouse.com/los-angeles/show/poor-things): Fri 12/15 (9:50pm), Sat 12/16 (9:50pm), Sun 12/17 (9:50pm)
+
 ### Thu 12/14 11:12am
 * New movies: The Woman Chaser
 
