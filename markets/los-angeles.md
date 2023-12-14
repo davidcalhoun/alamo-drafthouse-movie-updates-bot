@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 12/14 11:12am
+* New movies: The Woman Chaser
+
+* New screenings: 
+    * [The Woman Chaser](https://drafthouse.com/los-angeles/show/the-woman-chaser): Tue 2/20 (7:15pm)
+
 ### Wed 12/13 7:16pm
 * New movies: Coherence
 
