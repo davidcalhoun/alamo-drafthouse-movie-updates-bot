@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 12/14 10:20pm
+* New movies: Man on the Moon
+
+* New screenings: 
+    * [Man On The Moon](https://drafthouse.com/raleigh/show/man-on-the-moon): Tue 2/6 (6:30pm)
+
 ### Thu 12/14 11:21am
 * New movies: Anyone But You
 
