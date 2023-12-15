@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Fri 12/15 2:15pm
+* New movies: The Book of Clarence, Beau Travail
+
+* New screenings: 
+    * [Beau Travail](https://drafthouse.com/raleigh/show/beau-travail): Sun 2/18 (2:30pm)
+
+    * [The Book Of Clarence](https://drafthouse.com/raleigh/show/the-book-of-clarence): Thu 1/11 (3:00pm, 6:15pm, 9:30pm), Fri 1/12 (6:45pm), Sat 1/13 (6:45pm), Sun 1/14 (6:45pm), Mon 1/15 (6:45pm)
+
 ### Fri 12/15 1:24pm
 * New movies: Burn It Down
 
