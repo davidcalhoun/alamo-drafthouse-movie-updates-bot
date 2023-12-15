@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Fri 12/15 4:16pm
+* New movies: Destroy All Neighbors, Rainer's Ungodly Camera: Three Short Films by Bertrand Mandico
+
+* New screenings: 
+    * [Destroy All Neighbors](https://drafthouse.com/raleigh/show/destroy-all-neighbors): Fri 1/12 (2:30pm), Mon 1/15 (10:35pm)
+
+    * [Rainers Ungodly Camera Three Short Films By Bertrand Mandico](https://drafthouse.com/raleigh/show/rainers-ungodly-camera-three-short-films-by-bertrand-mandico): Wed 1/24 (10:00pm)
+
 ### Fri 12/15 2:15pm
 * New movies: The Book of Clarence, Beau Travail
 
