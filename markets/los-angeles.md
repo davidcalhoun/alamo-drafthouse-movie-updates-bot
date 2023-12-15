@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 12/15 2:14pm
+
+* New screenings: 
+    * [Fantastic Fest Presents Coherence W Live Q A](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-coherence-w-live-q-a): Sat 2/3 (8:00pm)
+
 ### Fri 12/15 11:12am
 * New movies: Beau Travail
 
