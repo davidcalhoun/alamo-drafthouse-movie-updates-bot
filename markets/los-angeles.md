@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 12/15 11:12am
+* New movies: Beau Travail
+
+* New screenings: 
+    * [Beau Travail](https://drafthouse.com/los-angeles/show/beau-travail): Sun 2/18 (1:45pm)
+
 ### Thu 12/14 7:17pm
 * New movies: Man on the Moon
 
