@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 12/15 1:24pm
+* New movies: Burn It Down
+
+* New screenings: 
+    * [Burn It Down](https://drafthouse.com/raleigh/show/burn-it-down): Fri 12/29 (11:15am), Sat 12/30 (2:45pm), Sun 12/31 (2:15pm), Mon 1/1 (3:15pm), Tue 1/2 (4:30pm), Wed 1/3 (4:30pm)
+
 ### Thu 12/14 10:20pm
 * New movies: Man on the Moon
 
