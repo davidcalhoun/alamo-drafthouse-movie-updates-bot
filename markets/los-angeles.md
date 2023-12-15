@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 12/14 7:17pm
+* New movies: Man on the Moon
+
+* New screenings: 
+    * [Man On The Moon](https://drafthouse.com/los-angeles/show/man-on-the-moon): Sun 2/4 (2:15pm)
+
 ### Thu 12/14 3:16pm
 * New movies: All of Us Strangers
 
