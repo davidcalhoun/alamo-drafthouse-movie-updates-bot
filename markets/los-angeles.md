@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 12/18 5:20am
+* New movies: Night Swim
+
+* New screenings: 
+    * [Night Swim](https://drafthouse.com/los-angeles/show/night-swim): Thu 1/4 (5:00pm, 8:00pm, 11:00pm), Fri 1/5 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sat 1/6 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Mon 1/8 (4:00pm, 7:00pm, 10:00pm), Tue 1/9 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Wed 1/10 (1:00pm, 4:00pm, 7:00pm, 10:00pm)
+
 ### Fri 12/15 2:14pm
 
 * New screenings: 
