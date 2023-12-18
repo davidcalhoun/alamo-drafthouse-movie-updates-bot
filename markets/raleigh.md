@@ -1,6 +1,48 @@
 # raleigh
 
 ## Movie updates
+### Mon 12/18 5:19pm
+* New movies: The Boy and the Heron Subtitled
+
+* New screenings: 
+    * [Anyone But You](https://drafthouse.com/raleigh/show/anyone-but-you): Thu 12/21 (3:45pm, 9:35pm), Fri 12/22 (12:00pm, 3:15pm, 9:45pm), Sat 12/23 (12:50pm, 3:40pm, 10:00pm), Sun 12/24 (1:00pm, 4:30pm, 7:30pm), Mon 12/25 (12:55pm, 4:00pm, 7:10pm, 10:15pm), Tue 12/26 (12:05pm, 3:45pm, 6:55pm, 10:15pm), Wed 12/27 (11:40am, 3:00pm, 6:10pm, 9:15pm)
+
+    * [Aquaman And The Lost Kingdom](https://drafthouse.com/raleigh/show/aquaman-and-the-lost-kingdom): Thu 12/21 (4:20pm, 7:35pm, 10:50pm), Fri 12/22 (10:45am, 2:00pm, 5:15pm, 8:30pm), Sat 12/23 (11:00am, 2:15pm, 5:30pm, 8:45pm), Sun 12/24 (11:45am), Tue 12/26 (12:45pm, 4:15pm, 7:30pm, 10:55pm), Wed 12/27 (11:30am, 2:45pm, 6:30pm, 9:45pm)
+
+    * [Eileen](https://drafthouse.com/raleigh/show/eileen): Thu 12/21 (1:00pm, 5:15pm, 8:30pm, 11:30pm)
+
+    * [Ferrari](https://drafthouse.com/raleigh/show/ferrari): Sun 12/24 (3:15pm, 6:55pm)
+
+    * [Godzilla Minus One](https://drafthouse.com/raleigh/show/godzilla-minus-one): Thu 12/21 (12:00pm), Fri 12/22 (10:35am, 1:45pm), Sat 12/23 (2:35pm), Sun 12/24 (11:25am)
+
+    * [Its A Wonderful Life](https://drafthouse.com/raleigh/show/its-a-wonderful-life): Thu 12/21 (1:30pm), Sat 12/23 (11:15am), Wed 12/27 (11:15am)
+
+    * [Miami Vice 2006](https://drafthouse.com/raleigh/show/miami-vice-2006): Wed 12/27 (5:45pm)
+
+    * [Migration](https://drafthouse.com/raleigh/show/migration): Thu 12/21 (3:30pm, 6:15pm, 9:00pm), Fri 12/22 (12:30pm, 9:15pm), Sat 12/23 (12:15pm, 9:15pm), Sun 12/24 (12:55pm), Mon 12/25 (11:30am, 2:45pm, 5:45pm, 8:30pm, 11:15pm), Tue 12/26 (1:00pm, 3:40pm, 6:20pm, 9:00pm), Wed 12/27 (12:50pm, 4:00pm, 7:00pm, 9:45pm)
+
+    * [Napoleon](https://drafthouse.com/raleigh/show/napoleon): Thu 12/21 (11:45am)
+
+    * [Poor Things](https://drafthouse.com/raleigh/show/poor-things): Thu 12/21 (12:30pm, 1:45pm, 4:15pm, 7:00pm, 7:45pm, 11:10pm), Fri 12/22 (11:00am, 3:00pm, 6:45pm, 8:45pm, 10:10pm), Sat 12/23 (11:45am, 3:10pm, 5:45pm, 7:00pm, 10:45pm), Sun 12/24 (11:15am, 2:45pm, 6:25pm), Mon 12/25 (12:30pm, 3:55pm, 7:20pm, 10:50pm), Tue 12/26 (11:15am, 3:15pm, 7:15pm, 10:45pm), Wed 12/27 (11:45am, 3:45pm, 7:30pm, 11:00pm)
+
+    * [Saltburn](https://drafthouse.com/raleigh/show/saltburn): Thu 12/21 (10:30pm), Fri 12/22 (9:00pm), Sat 12/23 (9:25pm), Sun 12/24 (6:45pm)
+
+    * [The Boy And The Heron Dubbed](https://drafthouse.com/raleigh/show/the-boy-and-the-heron-dubbed): Thu 12/21 (11:35am, 12:50pm, 3:00pm, 6:30pm), Fri 12/22 (11:15am, 2:25pm, 5:35pm, 7:15pm), Sat 12/23 (12:45pm, 4:30pm, 8:00pm), Sun 12/24 (12:00pm, 3:25pm), Mon 12/25 (11:10am, 2:20pm, 6:20pm, 9:45pm), Tue 12/26 (11:10am, 2:20pm, 6:20pm, 9:00pm), Wed 12/27 (12:40pm, 4:00pm, 7:15pm)
+
+    * [The Boy And The Heron Subtitled](https://drafthouse.com/raleigh/show/the-boy-and-the-heron-subtitled): Thu 12/21 (10:00pm), Fri 12/22 (10:30pm), Sat 12/23 (11:15pm), Sun 12/24 (6:35pm), Wed 12/27 (10:30pm)
+
+    * [The Color Purple 2023](https://drafthouse.com/raleigh/show/the-color-purple-2023): Mon 12/25 (11:45am, 3:30pm, 5:30pm, 7:00pm, 9:00pm, 10:45pm), Tue 12/26 (12:30pm, 2:55pm, 4:00pm), Wed 12/27 (12:30pm, 4:15pm, 7:45pm, 11:10pm)
+
+    * [The Hunger Games The Ballad Of Songbirds Snakes](https://drafthouse.com/raleigh/show/the-hunger-games-the-ballad-of-songbirds-snakes): Thu 12/21 (3:15pm), Fri 12/22 (4:55pm), Sat 12/23 (3:50pm), Sun 12/24 (2:35pm)
+
+    * [The Iron Claw](https://drafthouse.com/raleigh/show/the-iron-claw): Thu 12/21 (4:45pm, 8:00pm, 10:30pm, 11:15pm), Fri 12/22 (12:15pm, 1:30pm, 3:45pm, 4:45pm, 8:00pm, 10:20pm, 11:15pm), Sat 12/23 (11:30am, 3:00pm, 4:00pm, 6:20pm, 9:35pm, 10:30pm), Sun 12/24 (11:35am, 12:45pm, 2:15pm, 4:00pm, 5:30pm), Mon 12/25 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Tue 12/26 (11:30am, 3:15pm, 7:00pm, 10:30pm), Wed 12/27 (1:00pm, 4:30pm, 8:00pm, 11:15pm)
+
+    * [The Night Of The Hunter](https://drafthouse.com/raleigh/show/the-night-of-the-hunter): Thu 12/21 (12:15pm)
+
+    * [Thief](https://drafthouse.com/raleigh/show/thief): Wed 12/27 (2:30pm)
+
+    * [Wonka](https://drafthouse.com/raleigh/show/wonka): Thu 12/21 (11:15am, 1:15pm, 2:30pm, 6:00pm, 9:30pm), Fri 12/22 (11:30am, 2:45pm, 6:00pm, 9:15pm), Sat 12/23 (12:30pm, 2:20pm, 6:00pm, 7:45pm, 9:00pm, 11:00pm), Sun 12/24 (12:30pm, 3:45pm, 6:50pm), Mon 12/25 (12:15pm, 3:20pm, 6:30pm, 9:35pm), Tue 12/26 (11:45am, 2:55pm, 6:10pm, 9:45pm), Wed 12/27 (12:00pm, 3:15pm, 6:20pm, 9:00pm)
+
 ### Mon 12/18 8:24am
 * New movies: Night Swim
 
