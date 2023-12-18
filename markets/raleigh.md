@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 12/18 8:24am
+* New movies: Night Swim
+
+* New screenings: 
+    * [Night Swim](https://drafthouse.com/raleigh/show/night-swim): Thu 1/4 (5:10pm, 8:00pm, 10:50pm), Fri 1/5 (7:45pm), Sat 1/6 (7:45pm), Sun 1/7 (7:45pm)
+
 ### Fri 12/15 4:16pm
 * New movies: Destroy All Neighbors, Rainer's Ungodly Camera: Three Short Films by Bertrand Mandico
 
