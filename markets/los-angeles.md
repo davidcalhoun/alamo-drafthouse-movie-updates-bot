@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Mon 12/18 5:11pm
+* New movies: The Woman Chaser
+
+* New screenings: 
+    * [Live Q A The Woman Chaser](https://drafthouse.com/los-angeles/show/live-q-a-the-woman-chaser): Fri 2/16 (8:00pm)
+
+    * [Sorcerer](https://drafthouse.com/los-angeles/show/sorcerer): Wed 1/3 (8:00pm)
+
 ### Mon 12/18 5:20am
 * New movies: Night Swim
 
