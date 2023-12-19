@@ -1,6 +1,35 @@
 # raleigh
 
 ## Movie updates
+### Tue 12/19 12:15pm
+
+* New screenings: 
+    * [A Town Called Panic Double Fun](https://drafthouse.com/raleigh/show/a-town-called-panic-double-fun): Wed 1/3 (2:00pm)
+
+    * [Anyone But You](https://drafthouse.com/raleigh/show/anyone-but-you): Sat 12/30 (12:45pm, 3:45pm, 6:15pm, 9:15pm), Sun 12/31 (11:40am, 2:45pm, 6:00pm), Mon 1/1 (12:55pm, 3:45pm, 6:45pm, 9:45pm), Tue 1/2 (12:45pm, 4:15pm, 7:30pm, 11:00pm), Wed 1/3 (1:00pm, 4:45pm, 8:00pm, 11:00pm)
+
+    * [Aquaman And The Lost Kingdom](https://drafthouse.com/raleigh/show/aquaman-and-the-lost-kingdom): Sat 12/30 (1:00pm, 4:15pm, 7:50pm, 11:05pm), Sun 12/31 (11:40am, 2:55pm, 6:30pm), Mon 1/1 (1:30pm, 4:45pm, 8:00pm, 11:15pm), Tue 1/2 (1:00pm, 4:45pm, 8:00pm, 11:15pm), Wed 1/3 (11:45am, 3:30pm, 6:45pm, 10:00pm)
+
+    * [Ferrari](https://drafthouse.com/raleigh/show/ferrari): Sat 12/30 (12:00pm, 3:30pm, 6:45pm, 7:15pm, 10:00pm, 10:45pm), Sun 12/31 (12:30pm, 3:45pm, 7:00pm), Mon 1/1 (12:15pm, 3:45pm, 7:00pm, 10:15pm), Tue 1/2 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Wed 1/3 (12:15pm, 3:45pm, 7:15pm, 10:45pm)
+
+    * [Go](https://drafthouse.com/raleigh/show/go): Wed 1/3 (10:45pm)
+
+    * [Migration](https://drafthouse.com/raleigh/show/migration): Sat 12/30 (12:15pm, 3:15pm, 6:10pm, 9:00pm), Sun 12/31 (12:15pm, 3:20pm, 6:10pm), Mon 1/1 (1:10pm, 4:00pm, 6:35pm, 9:30pm), Tue 1/2 (12:40pm, 3:15pm, 6:10pm, 9:00pm), Wed 1/3 (12:40pm, 3:20pm, 6:15pm, 9:00pm)
+
+    * [Poor Things](https://drafthouse.com/raleigh/show/poor-things): Sat 12/30 (11:30am, 3:00pm, 6:35pm, 10:15pm), Sun 12/31 (10:30am, 2:00pm, 6:00pm), Mon 1/1 (1:20pm, 5:00pm, 8:30pm, 9:00pm), Tue 1/2 (11:30am, 3:00pm, 6:25pm, 10:15pm), Wed 1/3 (11:15am, 3:00pm, 6:50pm, 10:25pm)
+
+    * [The Boy And The Heron Dubbed](https://drafthouse.com/raleigh/show/the-boy-and-the-heron-dubbed): Sat 12/30 (12:40pm, 4:00pm, 6:55pm), Sun 12/31 (11:45am, 3:10pm), Mon 1/1 (2:00pm, 5:25pm), Tue 1/2 (12:30pm, 4:00pm, 7:30pm), Wed 1/3 (12:50pm, 4:15pm, 7:45pm)
+
+    * [The Boy And The Heron Subtitled](https://drafthouse.com/raleigh/show/the-boy-and-the-heron-subtitled): Sat 12/30 (10:05pm), Sun 12/31 (6:30pm), Mon 1/1 (6:00pm, 9:15pm), Tue 1/2 (11:00pm), Wed 1/3 (11:00pm)
+
+    * [The Color Purple 2023](https://drafthouse.com/raleigh/show/the-color-purple-2023): Sat 12/30 (7:00pm, 10:30pm), Sun 12/31 (12:00pm, 3:30pm, 6:55pm), Mon 1/1 (12:45pm, 1:45pm, 4:15pm, 5:30pm, 7:45pm, 9:00pm), Tue 1/2 (11:00am, 12:00pm, 2:30pm, 3:30pm, 6:00pm, 7:00pm, 10:00pm, 10:30pm), Wed 1/3 (11:00am, 12:00pm, 2:30pm, 3:30pm, 6:00pm, 7:00pm, 10:30pm)
+
+    * [The Iron Claw](https://drafthouse.com/raleigh/show/the-iron-claw): Sat 12/30 (1:00pm, 4:30pm, 7:45pm, 11:15pm), Sun 12/31 (11:30am, 3:00pm, 6:20pm), Mon 1/1 (12:30pm, 4:25pm, 7:40pm, 11:00pm), Tue 1/2 (12:30pm, 1:10pm, 4:20pm, 7:45pm, 11:00pm), Wed 1/3 (12:30pm, 4:00pm, 7:20pm, 7:30pm, 11:00pm)
+
+    * [When Harry Met Sally](https://drafthouse.com/raleigh/show/when-harry-met-sally): Sun 12/31 (11:50am)
+
+    * [Wonka](https://drafthouse.com/raleigh/show/wonka): Sat 12/30 (11:45am, 3:15pm, 6:30pm, 9:45pm), Sun 12/31 (10:45am, 1:45pm, 5:00pm, 6:15pm), Mon 1/1 (12:15pm, 3:15pm, 6:15pm, 9:25pm), Tue 1/2 (12:15pm, 3:25pm, 6:30pm, 9:45pm), Wed 1/3 (11:30am, 2:45pm, 6:25pm, 9:45pm)
+
 ### Tue 12/19 11:21am
 * New movies: A Town Called Panic: Double Fun, When Harry Met Sally...
 
