@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 12/18 6:28pm
+
+* New screenings: 
+    * [Sorcerer](https://drafthouse.com/los-angeles/show/sorcerer): Sat 1/27 (9:15pm)
+
 ### Mon 12/18 5:11pm
 * New movies: The Woman Chaser
 
