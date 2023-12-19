@@ -1,6 +1,46 @@
 # los-angeles
 
 ## Movie updates
+### Mon 12/18 10:21pm
+* New movies: Carol
+
+* New screenings: 
+    * [American Fiction](https://drafthouse.com/los-angeles/show/american-fiction): Thu 12/21 (2:00pm, 6:20pm, 9:20pm), Fri 12/22 (1:30pm, 4:45pm, 8:00pm, 9:30pm), Sat 12/23 (11:00am, 2:10pm, 6:00pm, 9:00pm), Sun 12/24 (11:15am, 2:30pm, 6:00pm), Mon 12/25 (2:10pm, 5:25pm), Tue 12/26 (10:45am), Wed 12/27 (5:25pm)
+
+    * [Anyone But You](https://drafthouse.com/los-angeles/show/anyone-but-you): Fri 12/22 (12:00pm), Sat 12/23 (12:00pm), Sun 12/24 (12:00pm, 3:00pm, 6:00pm), Mon 12/25 (10:45am, 1:40pm, 4:35pm, 7:30pm, 10:45pm), Tue 12/26 (10:45am, 1:40pm, 4:35pm, 7:30pm, 10:45pm), Wed 12/27 (10:45am, 1:40pm, 4:35pm, 7:30pm, 10:45pm)
+
+    * [Aquaman And The Lost Kingdom](https://drafthouse.com/los-angeles/show/aquaman-and-the-lost-kingdom): Wed 12/27 (11:50am)
+
+    * [Brunch Screenings Its A Wonderful Life Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-its-a-wonderful-life-brunch): Sun 12/24 (12:15pm), Mon 12/25 (10:45am)
+
+    * [Carol](https://drafthouse.com/los-angeles/show/carol): Tue 12/26 (12:15pm), Wed 12/27 (2:10pm)
+
+    * [Eileen](https://drafthouse.com/los-angeles/show/eileen): Thu 12/21 (2:45pm, 10:55pm), Fri 12/22 (11:00am, 10:40pm), Sat 12/23 (12:25pm, 10:40pm)
+
+    * [Ferrari](https://drafthouse.com/los-angeles/show/ferrari): Mon 12/25 (7:25pm), Wed 12/27 (11:00am)
+
+    * [Godzilla Minus One](https://drafthouse.com/los-angeles/show/godzilla-minus-one): Thu 12/21 (4:15pm, 7:35pm), Fri 12/22 (4:00pm, 7:20pm), Sat 12/23 (4:00pm, 7:20pm)
+
+    * [Kids Camp The Grinch 2018](https://drafthouse.com/los-angeles/show/kids-camp-the-grinch-2018): Mon 12/25 (10:30am), Wed 12/27 (11:30am)
+
+    * [Maestro](https://drafthouse.com/los-angeles/show/maestro): Thu 12/21 (3:40pm)
+
+    * [Migration](https://drafthouse.com/los-angeles/show/migration): Mon 12/25 (10:40pm), Tue 12/26 (10:40pm), Wed 12/27 (11:30am, 10:40pm)
+
+    * [Poor Things](https://drafthouse.com/los-angeles/show/poor-things): Thu 12/21 (2:25pm, 5:45pm, 6:10pm, 8:45pm, 9:45pm), Fri 12/22 (12:15pm, 2:00pm, 5:40pm, 9:20pm, 10:15pm), Sat 12/23 (12:15pm, 5:20pm, 10:15pm), Sun 12/24 (5:40pm), Tue 12/26 (11:00am, 9:35pm), Wed 12/27 (11:00am)
+
+    * [The Boy And The Heron Dubbed](https://drafthouse.com/los-angeles/show/the-boy-and-the-heron-dubbed): Thu 12/21 (6:45pm, 9:00pm), Fri 12/22 (7:35pm, 10:50pm), Sat 12/23 (4:15pm, 10:50pm), Sun 12/24 (4:05pm, 8:00pm), Mon 12/25 (4:10pm, 10:50pm), Tue 12/26 (6:10pm), Wed 12/27 (12:15pm, 8:40pm)
+
+    * [The Boy And The Heron Subtitled](https://drafthouse.com/los-angeles/show/the-boy-and-the-heron-subtitled): Thu 12/21 (3:20pm), Fri 12/22 (12:50pm, 4:15pm), Sat 12/23 (12:50pm, 7:35pm), Sun 12/24 (12:45pm), Tue 12/26 (3:35pm), Wed 12/27 (3:40pm)
+
+    * [The Color Purple 2023](https://drafthouse.com/los-angeles/show/the-color-purple-2023): Mon 12/25 (8:40pm), Wed 12/27 (11:15am)
+
+    * [The Iron Claw](https://drafthouse.com/los-angeles/show/the-iron-claw): Thu 12/21 (5:15pm, 9:30pm, 10:30pm), Fri 12/22 (6:00pm), Sat 12/23 (6:45pm, 9:15pm)
+
+    * [Thief](https://drafthouse.com/los-angeles/show/thief): Tue 12/26 (10:20pm), Wed 12/27 (10:30pm)
+
+    * [Wonka](https://drafthouse.com/los-angeles/show/wonka): Thu 12/21 (3:10pm, 7:10pm, 10:20pm), Fri 12/22 (12:40pm, 4:00pm, 7:10pm, 10:25pm), Sat 12/23 (12:40pm, 4:00pm, 7:10pm, 10:25pm), Sun 12/24 (1:10pm, 3:50pm, 7:00pm), Mon 12/25 (12:30pm, 3:40pm, 6:50pm, 10:00pm), Tue 12/26 (12:30pm, 3:40pm, 6:50pm, 10:00pm), Wed 12/27 (12:30pm, 3:40pm, 6:50pm, 10:00pm)
+
 ### Mon 12/18 6:28pm
 
 * New screenings: 
