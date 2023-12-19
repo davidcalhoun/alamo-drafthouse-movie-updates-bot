@@ -1,6 +1,34 @@
 # raleigh
 
 ## Movie updates
+### Tue 12/19 11:21am
+* New movies: A Town Called Panic: Double Fun, When Harry Met Sally...
+
+* New screenings: 
+    * [A Town Called Panic Double Fun](https://drafthouse.com/raleigh/show/a-town-called-panic-double-fun): Fri 12/29 (4:45pm)
+
+    * [Anyone But You](https://drafthouse.com/raleigh/show/anyone-but-you): Thu 12/28 (11:40am, 2:45pm, 6:10pm, 9:15pm), Fri 12/29 (11:00am, 2:45pm, 6:15pm, 9:15pm)
+
+    * [Aquaman And The Lost Kingdom](https://drafthouse.com/raleigh/show/aquaman-and-the-lost-kingdom): Thu 12/28 (12:45pm, 4:15pm, 7:30pm, 11:05pm), Fri 12/29 (12:40pm, 4:10pm, 7:50pm, 11:05pm)
+
+    * [Ferrari](https://drafthouse.com/raleigh/show/ferrari): Thu 12/28 (1:15pm, 4:45pm, 8:00pm, 11:20pm), Fri 12/29 (12:15pm, 3:30pm, 6:45pm, 7:30pm, 10:00pm, 10:45pm)
+
+    * [Migration](https://drafthouse.com/raleigh/show/migration): Thu 12/28 (12:30pm, 3:15pm, 6:15pm, 9:00pm), Fri 12/29 (12:30pm, 3:15pm, 6:15pm, 9:00pm)
+
+    * [Poor Things](https://drafthouse.com/raleigh/show/poor-things): Thu 12/28 (11:30am, 3:00pm, 7:00pm, 10:45pm), Fri 12/29 (11:30am, 3:00pm, 6:25pm, 10:15pm)
+
+    * [The Boy And The Heron Dubbed](https://drafthouse.com/raleigh/show/the-boy-and-the-heron-dubbed): Thu 12/28 (12:40pm, 4:00pm, 7:10pm), Fri 12/29 (12:50pm, 4:00pm, 7:15pm)
+
+    * [The Boy And The Heron Subtitled](https://drafthouse.com/raleigh/show/the-boy-and-the-heron-subtitled): Thu 12/28 (10:30pm), Fri 12/29 (10:30pm)
+
+    * [The Color Purple 2023](https://drafthouse.com/raleigh/show/the-color-purple-2023): Thu 12/28 (12:10pm, 3:45pm, 7:20pm, 10:50pm), Fri 12/29 (12:00pm, 3:30pm, 7:00pm, 10:30pm)
+
+    * [The Iron Claw](https://drafthouse.com/raleigh/show/the-iron-claw): Thu 12/28 (1:00pm, 4:30pm, 7:45pm, 11:15pm), Fri 12/29 (1:00pm, 4:30pm, 7:45pm, 11:15pm)
+
+    * [When Harry Met Sally](https://drafthouse.com/raleigh/show/when-harry-met-sally): Fri 12/29 (1:50pm)
+
+    * [Wonka](https://drafthouse.com/raleigh/show/wonka): Thu 12/28 (12:00pm, 3:20pm, 6:30pm, 9:45pm), Fri 12/29 (12:00pm, 3:20pm, 6:30pm, 9:45pm)
+
 ### Mon 12/18 5:19pm
 * New movies: The Boy and the Heron Subtitled
 
