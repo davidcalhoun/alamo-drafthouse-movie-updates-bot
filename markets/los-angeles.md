@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 12/20 12:16pm
+* New movies: Destroy All Neighbors, Destroy All Neighbors
+
+* New screenings: 
+    * [Destroy All Neighbors](https://drafthouse.com/los-angeles/show/destroy-all-neighbors): Sun 1/14 (3:00pm), Mon 1/15 (12:00pm), Tue 1/16 (4:30pm), Wed 1/17 (5:00pm)
+
+    * [Live Q A Destroy All Neighbors](https://drafthouse.com/los-angeles/show/live-q-a-destroy-all-neighbors): Fri 1/12 (7:15pm), Sat 1/13 (7:15pm)
+
 ### Tue 12/19 7:13pm
 * New movies: Love Actually
 
