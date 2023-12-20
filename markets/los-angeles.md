@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 12/19 7:13pm
+* New movies: Love Actually
+
+* New screenings: 
+    * [Champagne Cinema Love Actually 2](https://drafthouse.com/los-angeles/show/champagne-cinema-love-actually-2): Tue 12/19 (8:00pm)
+
 ### Mon 12/18 10:21pm
 * New movies: Carol
 
