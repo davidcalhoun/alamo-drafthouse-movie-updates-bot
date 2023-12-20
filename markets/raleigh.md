@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Wed 12/20 6:19pm
+* New movies: The Zone of Interest
+
+* New screenings: 
+    * [The Iron Claw](https://drafthouse.com/raleigh/show/the-iron-claw): Sat 1/20 (7:30pm), Sun 1/21 (7:30pm)
+
+    * [The Zone Of Interest](https://drafthouse.com/raleigh/show/the-zone-of-interest): Fri 1/19 (7:30pm)
+
 ### Tue 12/19 12:15pm
 
 * New screenings: 
