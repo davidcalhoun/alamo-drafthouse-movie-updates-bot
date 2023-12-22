@@ -1,6 +1,31 @@
 # los-angeles
 
 ## Movie updates
+### Thu 12/21 6:26pm
+
+* New screenings: 
+    * [American Fiction](https://drafthouse.com/los-angeles/show/american-fiction): Thu 12/28 (4:00pm, 7:15pm, 10:25pm), Fri 12/29 (1:00pm, 4:10pm, 7:20pm, 10:30pm), Sat 12/30 (12:30pm, 3:50pm, 7:15pm), Sun 12/31 (12:45pm, 4:00pm, 7:20pm), Mon 1/1 (12:45pm, 4:00pm, 7:20pm, 10:30pm)
+
+    * [Anyone But You](https://drafthouse.com/los-angeles/show/anyone-but-you): Thu 12/28 (1:40pm, 4:35pm, 7:30pm, 10:45pm), Fri 12/29 (10:45am, 1:45pm, 4:40pm, 7:45pm, 10:45pm), Sat 12/30 (10:50am, 1:45pm, 4:45pm, 7:40pm, 10:45pm), Sun 12/31 (10:50am, 1:45pm, 4:40pm, 7:45pm), Mon 1/1 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:45pm)
+
+    * [Aquaman And The Lost Kingdom](https://drafthouse.com/los-angeles/show/aquaman-and-the-lost-kingdom): Thu 12/28 (3:15pm, 6:40pm, 10:10pm), Fri 12/29 (11:30am, 2:55pm, 6:20pm, 9:50pm), Sat 12/30 (11:30am, 2:55pm, 6:20pm, 9:50pm), Sun 12/31 (11:30am, 2:55pm, 6:20pm), Mon 1/1 (11:30am, 2:55pm, 6:20pm, 9:50pm)
+
+    * [Ferrari](https://drafthouse.com/los-angeles/show/ferrari): Thu 12/28 (2:35pm, 6:00pm, 9:25pm), Fri 12/29 (11:10am, 2:35pm, 6:00pm, 9:25pm), Sat 12/30 (11:50am, 3:15pm, 6:10pm, 9:40pm), Sun 12/31 (11:10am, 2:35pm, 6:00pm), Mon 1/1 (11:10am, 2:35pm, 6:00pm, 9:25pm)
+
+    * [Migration](https://drafthouse.com/los-angeles/show/migration): Thu 12/28 (2:15pm, 5:00pm, 7:45pm, 10:40pm), Fri 12/29 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Sat 12/30 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Sun 12/31 (11:15am, 2:00pm, 4:45pm, 7:30pm), Mon 1/1 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm)
+
+    * [Poor Things](https://drafthouse.com/los-angeles/show/poor-things): Thu 12/28 (2:40pm, 6:15pm, 9:50pm), Fri 12/29 (11:00am, 2:35pm, 6:10pm, 9:45pm), Sat 12/30 (12:00pm, 3:40pm, 7:00pm, 10:35pm), Sun 12/31 (11:00am, 2:35pm, 6:10pm), Mon 1/1 (11:00am, 2:35pm, 6:10pm, 9:45pm)
+
+    * [The Boy And The Heron Dubbed](https://drafthouse.com/los-angeles/show/the-boy-and-the-heron-dubbed): Sat 12/30 (10:30pm)
+
+    * [The Boys In The Boat](https://drafthouse.com/los-angeles/show/the-boys-in-the-boat): Thu 12/28 (3:00pm, 6:25pm, 9:45pm), Fri 12/29 (12:30pm, 3:50pm, 7:10pm, 10:30pm), Sat 12/30 (12:15pm, 3:35pm, 7:10pm, 10:30pm), Sun 12/31 (12:30pm, 3:50pm, 7:10pm), Mon 1/1 (12:30pm, 3:50pm, 7:10pm, 10:30pm)
+
+    * [The Color Purple 2023](https://drafthouse.com/los-angeles/show/the-color-purple-2023): Mon 1/1 (11:15am, 2:50pm, 6:30pm, 10:10pm)
+
+    * [The Iron Claw](https://drafthouse.com/los-angeles/show/the-iron-claw): Fri 12/29 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sat 12/30 (11:00am, 2:30pm, 6:00pm, 9:30pm), Sun 12/31 (12:00pm, 3:30pm, 7:00pm), Mon 1/1 (12:00pm, 3:30pm, 7:00pm, 10:30pm)
+
+    * [Wonka](https://drafthouse.com/los-angeles/show/wonka): Thu 12/28 (3:40pm, 6:50pm, 10:00pm), Fri 12/29 (12:15pm, 3:25pm, 6:45pm, 10:00pm), Sat 12/30 (11:40am, 3:00pm, 6:45pm, 10:00pm), Sun 12/31 (12:15pm, 3:25pm, 6:45pm), Mon 1/1 (12:15pm, 3:25pm, 6:50pm, 10:00pm)
+
 ### Wed 12/20 12:16pm
 * New movies: Destroy All Neighbors, Destroy All Neighbors
 
