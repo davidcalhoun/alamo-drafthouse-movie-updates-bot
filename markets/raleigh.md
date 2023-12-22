@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 12/22 1:23pm
+
+* New screenings: 
+    * [The Zone Of Interest](https://drafthouse.com/raleigh/show/the-zone-of-interest): Thu 1/18 (7:30pm)
+
 ### Thu 12/21 1:22pm
 * New movies: 2024 College Football Playoff National Championship
 
