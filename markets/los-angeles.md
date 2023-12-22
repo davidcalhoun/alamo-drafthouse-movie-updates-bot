@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 12/22 1:13pm
+* New movies: Rainer's Ungodly Camera: Three Short Films by Bertrand Mandico
+
+* New screenings: 
+    * [Rainers Ungodly Camera Three Short Films By Bertrand Mandico](https://drafthouse.com/los-angeles/show/rainers-ungodly-camera-three-short-films-by-bertrand-mandico): Wed 1/24 (10:40pm)
+
 ### Thu 12/21 6:26pm
 
 * New screenings: 
