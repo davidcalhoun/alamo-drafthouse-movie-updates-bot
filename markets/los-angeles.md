@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 12/26 1:13pm
+* New movies: Fallen Leaves
+
+
+
 ### Tue 12/26 9:13am
 * New movies: The Apartment, When Harry Met Sally...
 
