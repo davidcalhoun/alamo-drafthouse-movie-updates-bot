@@ -1,6 +1,54 @@
 # los-angeles
 
 ## Movie updates
+### Tue 12/26 9:13am
+* New movies: The Apartment, When Harry Met Sally...
+
+* New screenings: 
+    * [American Fiction](https://drafthouse.com/los-angeles/show/american-fiction): Thu 12/28 (12:45pm, 5:20pm), Fri 12/29 (5:45pm), Sat 12/30 (5:20pm, 10:45pm), Tue 1/2 (12:45pm, 4:00pm, 7:20pm, 10:30pm), Wed 1/3 (4:00pm, 7:20pm, 10:30pm)
+
+    * [Anyone But You](https://drafthouse.com/los-angeles/show/anyone-but-you): Thu 12/28 (10:45am), Tue 1/2 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:45pm), Wed 1/3 (2:00pm, 4:55pm, 7:50pm, 10:50pm)
+
+    * [Aquaman And The Lost Kingdom](https://drafthouse.com/los-angeles/show/aquaman-and-the-lost-kingdom): Thu 12/28 (11:50am), Tue 1/2 (11:30am, 2:55pm, 6:20pm, 9:50pm), Wed 1/3 (2:55pm, 6:20pm, 9:50pm)
+
+    * [Burn It Down](https://drafthouse.com/los-angeles/show/burn-it-down): Tue 1/2 (11:00am)
+
+    * [Carol](https://drafthouse.com/los-angeles/show/carol): Thu 12/28 (10:55am)
+
+    * [Ferrari](https://drafthouse.com/los-angeles/show/ferrari): Thu 12/28 (11:10am), Tue 1/2 (11:10am, 2:35pm, 6:00pm, 9:25pm), Wed 1/3 (2:35pm, 6:00pm, 9:25pm)
+
+    * [Go](https://drafthouse.com/los-angeles/show/go): Tue 1/2 (11:35am)
+
+    * [Miami Vice 2006](https://drafthouse.com/los-angeles/show/miami-vice-2006): Thu 12/28 (5:35pm)
+
+    * [Migration](https://drafthouse.com/los-angeles/show/migration): Thu 12/28 (11:30am), Tue 1/2 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Wed 1/3 (2:00pm, 4:45pm, 7:30pm, 10:15pm)
+
+    * [Phantom Thread](https://drafthouse.com/los-angeles/show/phantom-thread): Fri 12/29 (10:45am, 2:20pm), Sun 12/31 (5:00pm), Mon 1/1 (10:00pm), Tue 1/2 (5:15pm)
+
+    * [Poor Things](https://drafthouse.com/los-angeles/show/poor-things): Thu 12/28 (11:00am, 9:00pm), Fri 12/29 (8:25pm), Mon 1/1 (10:20pm), Tue 1/2 (11:00am, 2:35pm, 6:10pm, 8:40pm, 9:45pm), Wed 1/3 (2:35pm, 6:10pm, 9:00pm, 9:45pm)
+
+    * [Sorcerer](https://drafthouse.com/los-angeles/show/sorcerer): Tue 1/2 (2:25pm)
+
+    * [The Apartment](https://drafthouse.com/los-angeles/show/the-apartment): Tue 1/2 (5:40pm), Wed 1/3 (2:15pm)
+
+    * [The Apartment Brunch](https://drafthouse.com/los-angeles/show/the-apartment-brunch): Mon 1/1 (11:45am)
+
+    * [The Boy And The Heron Dubbed](https://drafthouse.com/los-angeles/show/the-boy-and-the-heron-dubbed): Thu 12/28 (10:45am, 8:35pm), Fri 12/29 (2:10pm), Sat 12/30 (7:25pm), Sun 12/31 (5:15pm), Mon 1/1 (3:15pm, 6:40pm), Tue 1/2 (9:00pm), Wed 1/3 (2:00pm)
+
+    * [The Boy And The Heron Subtitled](https://drafthouse.com/los-angeles/show/the-boy-and-the-heron-subtitled): Thu 12/28 (2:10pm), Fri 12/29 (9:00pm), Sat 12/30 (8:40pm), Sun 12/31 (1:45pm), Tue 1/2 (1:55pm), Wed 1/3 (5:40pm)
+
+    * [The Boys In The Boat](https://drafthouse.com/los-angeles/show/the-boys-in-the-boat): Thu 12/28 (11:40am), Tue 1/2 (12:30pm, 3:50pm, 7:10pm, 10:30pm), Wed 1/3 (3:50pm, 7:10pm, 10:30pm)
+
+    * [The Color Purple 2023](https://drafthouse.com/los-angeles/show/the-color-purple-2023): Thu 12/28 (11:15am), Tue 1/2 (11:15am, 2:50pm, 6:30pm, 10:10pm), Wed 1/3 (2:50pm, 6:30pm, 10:10pm)
+
+    * [The Iron Claw](https://drafthouse.com/los-angeles/show/the-iron-claw): Thu 12/28 (12:00pm), Tue 1/2 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Wed 1/3 (3:30pm, 7:00pm, 10:30pm)
+
+    * [Thief](https://drafthouse.com/los-angeles/show/thief): Thu 12/28 (2:00pm)
+
+    * [When Harry Met Sally](https://drafthouse.com/los-angeles/show/when-harry-met-sally): Fri 12/29 (11:30am)
+
+    * [Wonka](https://drafthouse.com/los-angeles/show/wonka): Thu 12/28 (12:30pm), Tue 1/2 (12:15pm, 3:25pm, 6:45pm, 10:00pm), Wed 1/3 (3:25pm, 6:45pm, 9:55pm)
+
 ### Fri 12/22 1:13pm
 * New movies: Rainer's Ungodly Camera: Three Short Films by Bertrand Mandico
 
