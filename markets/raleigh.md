@@ -1,6 +1,26 @@
 # raleigh
 
 ## Movie updates
+### Wed 12/27 2:15pm
+* New movies: American Fiction, Army of Darkness, Evil Dead II, The Evil Dead 1981, Kung Fu Hustle, Switchblade Sisters, They Came Together, I'M GONNA GIT YOU SUCKA
+
+* New screenings: 
+    * [American Fiction](https://drafthouse.com/raleigh/show/american-fiction): Thu 1/4 (4:00pm, 7:00pm, 10:00pm), Fri 1/5 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Sat 1/6 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Sun 1/7 (12:30pm, 3:45pm, 7:00pm, 10:15pm)
+
+    * [Terror Tuesday Army Of Darkness Terror Tuesday](https://drafthouse.com/raleigh/show/terror-tuesday-army-of-darkness-terror-tuesday): Tue 2/20 (9:30pm)
+
+    * [Terror Tuesday Evil Dead Ii](https://drafthouse.com/raleigh/show/terror-tuesday-evil-dead-ii): Tue 2/13 (9:30pm)
+
+    * [Terror Tuesday The Evil Dead 1981](https://drafthouse.com/raleigh/show/terror-tuesday-the-evil-dead-1981): Tue 2/6 (9:30pm)
+
+    * [Weird Wednesday Im Gonna Git You Sucka](https://drafthouse.com/raleigh/show/weird-wednesday-im-gonna-git-you-sucka): Wed 2/21 (9:30pm)
+
+    * [Weird Wednesday Kung Fu Hustle](https://drafthouse.com/raleigh/show/weird-wednesday-kung-fu-hustle): Wed 2/7 (9:30pm)
+
+    * [Weird Wednesday Switchblade Sisters](https://drafthouse.com/raleigh/show/weird-wednesday-switchblade-sisters): Wed 2/28 (9:30pm)
+
+    * [Weird Wednesday They Came Together](https://drafthouse.com/raleigh/show/weird-wednesday-they-came-together): Wed 2/14 (9:30pm)
+
 ### Fri 12/22 1:23pm
 
 * New screenings: 
