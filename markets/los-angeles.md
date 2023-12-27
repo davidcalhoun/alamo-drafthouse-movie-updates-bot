@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 12/27 7:15am
+* New movies: True Detective: Night Country
+
+* New screenings: 
+    * [Free Victory Screening True Detective Night Country](https://drafthouse.com/los-angeles/show/free-victory-screening-true-detective-night-country): Thu 1/11 (7:00pm)
+
 ### Tue 12/26 1:13pm
 * New movies: Fallen Leaves
 
