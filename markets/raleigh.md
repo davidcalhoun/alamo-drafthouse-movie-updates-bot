@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 12/28 1:23pm
+* New movies: She is Conann
+
+* New screenings: 
+    * [Fantastic Fest Presents She Is Conann Advance Screening](https://drafthouse.com/raleigh/show/fantastic-fest-presents-she-is-conann-advance-screening): Tue 1/30 (7:45pm)
+
 ### Thu 12/28 12:17pm
 * New movies: She is Conann
 
