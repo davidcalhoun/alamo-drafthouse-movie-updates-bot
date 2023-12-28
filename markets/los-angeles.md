@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 12/28 9:13am
+* New movies: She is Conann
+
+* New screenings: 
+    * [She Is Conann](https://drafthouse.com/los-angeles/show/she-is-conann): Fri 2/2 (10:15pm), Sat 2/3 (10:20pm), Sun 2/4 (9:10pm), Mon 2/5 (4:15pm), Tue 2/6 (10:20pm), Wed 2/7 (7:15pm)
+
 ### Wed 12/27 11:14pm
 
 * New screenings: 
