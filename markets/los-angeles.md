@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 12/27 7:16pm
+* New movies: One from the Heart: Reprise
+
+* New screenings: 
+    * [One From The Heart Reprise](https://drafthouse.com/los-angeles/show/one-from-the-heart-reprise): Fri 1/19 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sat 1/20 (11:00am, 1:45pm, 4:00pm, 6:45pm), Sun 1/21 (11:30am, 2:15pm, 5:00pm, 7:45pm), Mon 1/22 (5:00pm, 7:45pm, 10:30pm), Tue 1/23 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Wed 1/24 (2:15pm, 5:00pm, 7:45pm, 10:30pm)
+
 ### Wed 12/27 7:15am
 * New movies: True Detective: Night Country
 
