@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 12/27 11:14pm
+
+* New screenings: 
+    * [Fantastic Fest Presents Coherence W Live Q A](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-coherence-w-live-q-a): Sat 2/3 (9:30pm)
+
 ### Wed 12/27 7:16pm
 * New movies: One from the Heart: Reprise
 
