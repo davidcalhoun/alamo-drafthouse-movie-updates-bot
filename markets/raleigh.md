@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 12/28 12:17pm
+* New movies: She is Conann
+
+* New screenings: 
+    * [She Is Conann](https://drafthouse.com/raleigh/show/she-is-conann): Fri 2/2 (9:45pm), Sat 2/3 (9:45pm), Sun 2/4 (9:45pm), Mon 2/5 (9:45pm), Tue 2/6 (3:40pm), Wed 2/7 (3:40pm)
+
 ### Wed 12/27 2:15pm
 * New movies: American Fiction, Army of Darkness, Evil Dead II, The Evil Dead 1981, Kung Fu Hustle, Switchblade Sisters, They Came Together, I'M GONNA GIT YOU SUCKA
 
