@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 12/28 10:19am
+* New movies: She is Conann
+
+* New screenings: 
+    * [Fantastic Fest Presents She Is Conann Advance Screening](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-she-is-conann-advance-screening): Tue 1/30 (7:15pm)
+
 ### Thu 12/28 9:13am
 * New movies: She is Conann
 
