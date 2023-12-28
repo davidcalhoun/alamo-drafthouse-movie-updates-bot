@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 12/28 4:16pm
+* New movies: Origin
+
+* New screenings: 
+    * [Advance Screening Origin Early Access](https://drafthouse.com/raleigh/show/advance-screening-origin-early-access): Wed 1/17 (6:00pm)
+
 ### Thu 12/28 1:23pm
 * New movies: She is Conann
 
