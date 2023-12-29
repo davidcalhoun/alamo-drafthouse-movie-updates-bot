@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 12/29 4:16pm
+* New movies: Evil Dead 2013
+
+* New screenings: 
+    * [Terror Tuesday Evil Dead 2013](https://drafthouse.com/raleigh/show/terror-tuesday-evil-dead-2013): Tue 2/27 (9:30pm)
+
 ### Thu 12/28 11:22pm
 
 * New screenings: 
