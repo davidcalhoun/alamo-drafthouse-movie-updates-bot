@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 1/2 8:19am
+* New movies: The Zone of Interest
+
+* New screenings: 
+    * [Live Q A The Zone Of Interest](https://drafthouse.com/los-angeles/show/live-q-a-the-zone-of-interest): Mon 1/8 (5:30pm)
+
 ### Thu 12/28 10:19am
 * New movies: She is Conann
 
