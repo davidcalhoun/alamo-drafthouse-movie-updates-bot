@@ -1,6 +1,37 @@
 # raleigh
 
 ## Movie updates
+### Tue 1/2 6:18pm
+
+* New screenings: 
+    * [American Fiction](https://drafthouse.com/raleigh/show/american-fiction): Thu 1/4 (3:00pm, 6:00pm, 9:00pm), Fri 1/5 (2:30pm, 6:00pm), Sat 1/6 (2:55pm, 6:00pm), Sun 1/7 (6:00pm), Mon 1/8 (12:30pm, 2:45pm, 3:45pm, 6:00pm, 9:15pm), Tue 1/9 (11:30am, 2:45pm, 3:45pm, 6:00pm, 7:00pm, 10:30pm), Wed 1/10 (11:30am, 2:45pm, 3:45pm, 7:00pm, 10:30pm)
+
+    * [Anyone But You](https://drafthouse.com/raleigh/show/anyone-but-you): Thu 1/4 (12:00pm, 2:00pm), Fri 1/5 (11:30am), Sat 1/6 (9:15pm), Sun 1/7 (9:15pm), Mon 1/8 (11:30am), Tue 1/9 (12:30pm), Wed 1/10 (12:30pm)
+
+    * [Aquaman And The Lost Kingdom](https://drafthouse.com/raleigh/show/aquaman-and-the-lost-kingdom): Thu 1/4 (1:15pm, 4:30pm, 7:55pm, 11:10pm), Fri 1/5 (1:30pm, 4:45pm, 8:00pm, 11:15pm), Sat 1/6 (1:00pm, 4:45pm, 8:00pm, 11:15pm), Sun 1/7 (12:20pm, 3:45pm, 7:15pm, 10:30pm), Mon 1/8 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Tue 1/9 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Wed 1/10 (12:15pm, 3:30pm, 6:45pm, 10:00pm)
+
+    * [Ferrari](https://drafthouse.com/raleigh/show/ferrari): Thu 1/4 (12:45pm, 4:15pm, 7:30pm, 10:55pm), Fri 1/5 (12:00pm, 3:15pm, 6:50pm, 10:15pm), Sat 1/6 (12:45pm, 4:15pm, 7:30pm, 11:00pm), Sun 1/7 (1:00pm, 4:30pm, 8:00pm, 11:15pm), Mon 1/8 (12:45pm, 4:15pm, 7:45pm, 11:00pm), Tue 1/9 (12:50pm, 4:15pm, 7:45pm, 11:00pm), Wed 1/10 (12:50pm, 4:15pm, 7:45pm, 11:05pm)
+
+    * [Migration](https://drafthouse.com/raleigh/show/migration): Thu 1/4 (1:00pm, 3:45pm, 6:40pm, 9:15pm), Fri 1/5 (12:45pm, 3:30pm, 6:15pm, 9:00pm), Sat 1/6 (12:00pm, 3:10pm, 6:15pm, 9:00pm), Sun 1/7 (12:00pm, 3:15pm, 6:15pm, 9:00pm), Mon 1/8 (1:15pm, 3:50pm, 6:30pm, 9:15pm), Tue 1/9 (1:15pm, 3:50pm, 6:30pm, 9:05pm), Wed 1/10 (1:15pm, 3:50pm, 6:30pm, 9:05pm)
+
+    * [Night Swim](https://drafthouse.com/raleigh/show/night-swim): Fri 1/5 (1:15pm, 4:30pm, 10:45pm), Sat 1/6 (11:15am, 2:05pm, 4:55pm, 10:35pm), Sun 1/7 (12:45pm, 3:45pm, 10:45pm), Mon 1/8 (1:30pm, 4:30pm, 7:00pm, 10:00pm), Tue 1/9 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Wed 1/10 (1:30pm, 4:30pm, 7:35pm, 10:30pm)
+
+    * [Poor Things](https://drafthouse.com/raleigh/show/poor-things): Thu 1/4 (11:45am, 3:15pm, 6:40pm, 10:15pm), Fri 1/5 (12:40pm, 4:05pm, 7:30pm, 11:00pm), Sat 1/6 (11:50am, 3:20pm, 6:45pm, 10:15pm), Sun 1/7 (11:30am, 3:00pm, 6:45pm, 10:15pm), Mon 1/8 (11:45am, 3:15pm, 6:40pm, 10:15pm), Tue 1/9 (11:50am, 3:15pm, 6:50pm, 10:30pm), Wed 1/10 (11:50am, 3:15pm, 6:50pm, 10:20pm)
+
+    * [The Apartment](https://drafthouse.com/raleigh/show/the-apartment): Thu 1/4 (12:15pm)
+
+    * [The Boy And The Heron Dubbed](https://drafthouse.com/raleigh/show/the-boy-and-the-heron-dubbed): Thu 1/4 (11:30am, 2:45pm, 6:15pm), Fri 1/5 (12:15pm, 3:30pm, 6:40pm), Sat 1/6 (11:40am, 3:00pm, 6:25pm), Sun 1/7 (12:10pm, 3:40pm, 6:50pm), Mon 1/8 (1:00pm, 4:45pm, 8:00pm), Tue 1/9 (1:00pm, 4:45pm, 8:00pm), Wed 1/10 (1:00pm, 4:45pm, 8:05pm)
+
+    * [The Boy And The Heron Subtitled](https://drafthouse.com/raleigh/show/the-boy-and-the-heron-subtitled): Thu 1/4 (9:45pm), Fri 1/5 (9:50pm), Sat 1/6 (9:35pm), Sun 1/7 (10:00pm), Mon 1/8 (11:15pm), Tue 1/9 (11:15pm), Wed 1/10 (11:15pm)
+
+    * [The Color Purple 2023](https://drafthouse.com/raleigh/show/the-color-purple-2023): Thu 1/4 (12:35pm, 3:30pm, 7:15pm, 10:45pm), Fri 1/5 (12:15pm, 3:45pm, 7:15pm, 11:00pm), Sat 1/6 (11:30am, 3:30pm, 7:10pm, 10:45pm), Sun 1/7 (11:00am, 2:30pm, 6:30pm, 10:00pm), Mon 1/8 (12:00pm, 3:40pm, 7:10pm, 10:35pm), Tue 1/9 (12:00pm, 3:40pm, 7:10pm, 10:35pm), Wed 1/10 (12:00pm, 3:40pm, 7:10pm, 10:35pm)
+
+    * [The Iron Claw](https://drafthouse.com/raleigh/show/the-iron-claw): Thu 1/4 (1:05pm, 4:20pm, 7:40pm, 11:00pm), Fri 1/5 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Sat 1/6 (12:10pm, 4:00pm, 7:25pm, 10:45pm), Sun 1/7 (12:50pm, 4:30pm, 7:30pm, 11:00pm), Mon 1/8 (12:35pm, 4:00pm, 7:20pm, 10:45pm), Tue 1/9 (12:40pm, 4:00pm, 7:15pm, 10:45pm), Wed 1/10 (12:40pm, 4:00pm, 7:20pm, 10:45pm)
+
+    * [The Iron Giant](https://drafthouse.com/raleigh/show/the-iron-giant): Fri 1/5 (9:15pm)
+
+    * [Wonka](https://drafthouse.com/raleigh/show/wonka): Thu 1/4 (12:25pm, 3:30pm, 6:30pm, 9:30pm), Fri 1/5 (12:00pm, 3:00pm, 6:25pm, 9:30pm), Sat 1/6 (12:20pm, 3:35pm, 6:45pm, 9:45pm), Sun 1/7 (12:30pm, 3:40pm, 6:40pm, 9:45pm), Mon 1/8 (12:15pm, 3:15pm, 6:15pm, 9:30pm), Tue 1/9 (11:40am, 3:00pm, 6:15pm, 9:15pm), Wed 1/10 (11:40am, 3:00pm, 6:00pm, 9:20pm)
+
 ### Fri 12/29 4:16pm
 * New movies: Evil Dead 2013
 
