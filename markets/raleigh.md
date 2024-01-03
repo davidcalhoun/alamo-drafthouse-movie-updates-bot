@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Wed 1/3 5:19pm
+
+* New screenings: 
+    * [The Lord Of The Rings The Two Towers Extended Edition 2](https://drafthouse.com/raleigh/show/the-lord-of-the-rings-the-two-towers-extended-edition-2): Mon 1/15 (2:05pm)
+
 ### Tue 1/2 6:18pm
 
 * New screenings: 
