@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 1/3 11:12am
+
+* New screenings: 
+    * [Live Q A Destroy All Neighbors](https://drafthouse.com/los-angeles/show/live-q-a-destroy-all-neighbors): Sun 1/14 (7:15pm)
+
 ### Tue 1/2 8:19pm
 * New movies: Coup de Torchon
 
