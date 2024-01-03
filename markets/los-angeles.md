@@ -1,6 +1,52 @@
 # los-angeles
 
 ## Movie updates
+### Tue 1/2 8:19pm
+* New movies: Coup de Torchon
+
+* New screenings: 
+    * [All Of Us Strangers](https://drafthouse.com/los-angeles/show/all-of-us-strangers): Thu 1/4 (7:15pm, 10:15pm), Fri 1/5 (11:20am, 2:30pm, 7:15pm, 8:30pm), Sat 1/6 (11:00am, 2:30pm, 5:30pm, 8:30pm), Sun 1/7 (12:15pm, 2:45pm, 5:45pm), Mon 1/8 (2:45pm, 8:30pm), Tue 1/9 (11:30am, 2:30pm, 5:30pm), Wed 1/10 (3:30pm, 5:25pm, 6:00pm, 8:30pm, 10:20pm)
+
+    * [American Fiction](https://drafthouse.com/los-angeles/show/american-fiction): Thu 1/4 (4:10pm, 7:30pm, 10:45pm), Fri 1/5 (12:50pm, 4:10pm, 7:30pm, 10:40pm), Sat 1/6 (12:50pm, 4:10pm, 7:25pm, 10:35pm), Sun 1/7 (12:30pm, 4:15pm, 7:30pm), Mon 1/8 (4:05pm, 7:20pm, 10:30pm), Tue 1/9 (12:50pm, 4:10pm, 7:25pm, 10:35pm), Wed 1/10 (4:10pm, 7:20pm, 10:30pm)
+
+    * [Anyone But You](https://drafthouse.com/los-angeles/show/anyone-but-you): Thu 1/4 (3:25pm)
+
+    * [Aquaman And The Lost Kingdom](https://drafthouse.com/los-angeles/show/aquaman-and-the-lost-kingdom): Thu 1/4 (2:45pm)
+
+    * [Being John Malkovich](https://drafthouse.com/los-angeles/show/being-john-malkovich): Tue 1/9 (9:45pm), Wed 1/10 (2:50pm)
+
+    * [Burn It Down](https://drafthouse.com/los-angeles/show/burn-it-down): Thu 1/4 (2:15pm)
+
+    * [Coup De Torchon](https://drafthouse.com/los-angeles/show/coup-de-torchon): Fri 1/5 (2:20pm, 9:10pm), Sat 1/6 (11:00am, 10:50pm), Sun 1/7 (3:00pm, 8:00pm), Mon 1/8 (2:35pm, 10:15pm), Tue 1/9 (2:20pm, 9:10pm), Wed 1/10 (2:20pm, 9:10pm)
+
+    * [Fallen Leaves](https://drafthouse.com/los-angeles/show/fallen-leaves): Thu 1/4 (5:10pm, 7:45pm), Fri 1/5 (12:40pm), Sat 1/6 (10:40am, 2:00pm), Mon 1/8 (5:45pm), Tue 1/9 (8:30pm), Wed 1/10 (2:45pm)
+
+    * [Ferrari](https://drafthouse.com/los-angeles/show/ferrari): Thu 1/4 (3:15pm, 6:45pm, 10:15pm), Fri 1/5 (11:45am, 3:15pm, 6:45pm, 10:15pm), Sat 1/6 (11:45am, 3:15pm, 6:45pm, 10:15pm), Sun 1/7 (12:45pm, 3:20pm, 6:45pm), Mon 1/8 (3:10pm, 6:40pm, 10:10pm), Tue 1/9 (11:45am, 3:15pm, 6:45pm, 10:15pm), Wed 1/10 (3:20pm, 6:45pm, 10:10pm)
+
+    * [Migration](https://drafthouse.com/los-angeles/show/migration): Thu 1/4 (2:15pm)
+
+    * [Night Swim](https://drafthouse.com/los-angeles/show/night-swim): Thu 1/4 (6:20pm, 9:00pm, 10:10pm), Fri 1/5 (5:30pm, 9:30pm), Sat 1/6 (9:10pm), Sun 1/7 (12:00pm, 4:00pm, 7:00pm)
+
+    * [Poor Things](https://drafthouse.com/los-angeles/show/poor-things): Thu 1/4 (2:25pm, 6:30pm, 9:20pm), Fri 1/5 (11:10am, 2:45pm, 6:20pm, 9:55pm), Sat 1/6 (11:00am, 2:45pm, 6:20pm, 9:55pm), Sun 1/7 (11:10am, 2:25pm, 6:00pm), Mon 1/8 (2:40pm, 6:15pm, 9:50pm), Tue 1/9 (11:00am, 2:40pm, 6:15pm, 9:50pm), Wed 1/10 (2:40pm, 6:15pm, 9:50pm)
+
+    * [Run Lola Run](https://drafthouse.com/los-angeles/show/run-lola-run): Fri 1/5 (10:50pm), Sat 1/6 (2:10pm), Sun 1/7 (10:45am), Tue 1/9 (2:00pm), Wed 1/10 (10:40pm)
+
+    * [The Boy And The Heron Dubbed](https://drafthouse.com/los-angeles/show/the-boy-and-the-heron-dubbed): Thu 1/4 (2:30pm, 5:45pm, 10:20pm), Fri 1/5 (11:00am, 5:45pm), Sat 1/6 (11:10am, 2:20pm, 5:45pm), Sun 1/7 (11:00am, 6:20pm), Mon 1/8 (6:00pm, 9:20pm), Tue 1/9 (11:00am, 5:45pm), Wed 1/10 (5:45pm, 9:00pm)
+
+    * [The Boys In The Boat](https://drafthouse.com/los-angeles/show/the-boys-in-the-boat): Thu 1/4 (3:00pm)
+
+    * [The Color Purple 2023](https://drafthouse.com/los-angeles/show/the-color-purple-2023): Thu 1/4 (3:45pm, 6:10pm, 9:45pm), Fri 1/5 (11:00am, 2:35pm, 6:10pm, 9:45pm), Sat 1/6 (11:00am, 2:30pm, 6:00pm, 9:40pm), Sun 1/7 (11:10am, 2:45pm, 6:15pm), Mon 1/8 (2:30pm, 6:00pm, 9:35pm), Tue 1/9 (11:00am, 2:30pm, 6:00pm, 9:35pm), Wed 1/10 (2:30pm, 6:00pm, 9:35pm)
+
+    * [The Iron Claw](https://drafthouse.com/los-angeles/show/the-iron-claw): Thu 1/4 (3:35pm, 7:00pm, 10:25pm), Fri 1/5 (12:10pm, 3:35pm, 7:00pm, 10:25pm), Sat 1/6 (12:15pm, 3:45pm, 7:10pm, 10:35pm), Sun 1/7 (11:50am, 3:45pm, 7:20pm), Mon 1/8 (3:20pm, 6:50pm, 10:20pm), Tue 1/9 (12:10pm, 3:35pm, 7:00pm, 10:25pm), Wed 1/10 (3:35pm, 7:00pm, 10:25pm)
+
+    * [The Iron Giant](https://drafthouse.com/los-angeles/show/the-iron-giant): Sat 1/6 (11:25am), Tue 1/9 (11:15am)
+
+    * [The Lord Of The Rings The Fellowship Of The Ring Extended Edition](https://drafthouse.com/los-angeles/show/the-lord-of-the-rings-the-fellowship-of-the-ring-extended-edition): Fri 1/5 (11:45am), Sat 1/6 (4:50pm), Sun 1/7 (11:20am, 3:15pm), Tue 1/9 (12:15pm, 5:00pm), Wed 1/10 (3:15pm)
+
+    * [Under The Skin](https://drafthouse.com/los-angeles/show/under-the-skin): Tue 1/9 (4:45pm)
+
+    * [Wonka](https://drafthouse.com/los-angeles/show/wonka): Thu 1/4 (4:05pm, 7:20pm, 10:30pm), Fri 1/5 (1:15pm, 4:25pm, 7:40pm, 10:15pm), Sat 1/6 (1:15pm, 4:25pm, 7:40pm, 10:20pm), Sun 1/7 (1:15pm, 4:30pm, 7:45pm), Mon 1/8 (4:15pm, 7:30pm, 10:40pm), Tue 1/9 (1:15pm, 4:25pm, 7:40pm, 10:50pm), Wed 1/10 (4:15pm, 7:30pm, 10:35pm)
+
 ### Tue 1/2 8:19am
 * New movies: The Zone of Interest
 
