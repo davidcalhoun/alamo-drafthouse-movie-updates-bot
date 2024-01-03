@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 1/3 12:15pm
+* New movies: The Beekeeper
+
+* New screenings: 
+    * [All Of Us Strangers](https://drafthouse.com/los-angeles/show/all-of-us-strangers): Thu 1/11 (3:30pm, 6:30pm, 9:30pm), Fri 1/12 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sat 1/13 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sun 1/14 (12:15pm, 3:15pm, 6:15pm), Mon 1/15 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Wed 1/17 (3:10pm, 6:15pm, 9:15pm)
+
+    * [The Beekeeper](https://drafthouse.com/los-angeles/show/the-beekeeper): Thu 1/11 (2:50pm, 6:00pm, 9:10pm), Fri 1/12 (12:45pm, 3:50pm, 7:00pm, 10:10pm), Sat 1/13 (12:45pm, 3:50pm, 7:00pm, 10:10pm), Sun 1/14 (12:45pm, 3:50pm, 7:00pm), Mon 1/15 (12:45pm, 3:50pm, 7:00pm, 10:10pm), Wed 1/17 (3:25pm, 6:30pm, 9:35pm)
+
 ### Wed 1/3 11:12am
 
 * New screenings: 
