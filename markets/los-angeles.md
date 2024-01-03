@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Wed 1/3 1:13pm
+* New movies: The Book of Clarence, The Book of Clarence
+
+* New screenings: 
+    * [Brunch Screenings The Book Of Clarence Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-the-book-of-clarence-brunch): Sat 1/13 (11:10am), Sun 1/14 (11:10am)
+
+    * [Mean Girls 2024](https://drafthouse.com/los-angeles/show/mean-girls-2024): Mon 1/15 (12:00pm)
+
+    * [The Book Of Clarence](https://drafthouse.com/los-angeles/show/the-book-of-clarence): Thu 1/11 (3:20pm, 6:45pm, 10:10pm), Fri 1/12 (11:10am, 2:35pm, 6:00pm, 9:25pm), Sat 1/13 (2:35pm, 6:00pm, 9:25pm), Sun 1/14 (2:35pm, 6:00pm), Mon 1/15 (11:10am, 2:35pm, 6:00pm, 9:25pm), Tue 1/16 (11:10am, 2:35pm, 6:00pm, 9:25pm), Wed 1/17 (2:35pm, 6:00pm, 9:25pm)
+
 ### Wed 1/3 12:15pm
 * New movies: The Beekeeper
 
