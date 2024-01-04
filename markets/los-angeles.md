@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 1/3 5:11pm
+* New movies: Highlander II: The Quickening, Blonde Death
+
+* New screenings: 
+    * [Blonde Death](https://drafthouse.com/los-angeles/show/blonde-death): Wed 2/21 (8:00pm)
+
+    * [Highlander Ii The Quickening](https://drafthouse.com/los-angeles/show/highlander-ii-the-quickening): Wed 2/7 (8:00pm)
+
 ### Wed 1/3 1:13pm
 * New movies: The Book of Clarence, The Book of Clarence
 
