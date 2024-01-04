@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 1/3 6:27pm
+
+* New screenings: 
+    * [Highlander Ii The Quickening](https://drafthouse.com/los-angeles/show/highlander-ii-the-quickening): Fri 2/2 (3:15pm), Wed 2/7 (6:30pm)
+
 ### Wed 1/3 5:11pm
 * New movies: Highlander II: The Quickening, Blonde Death
 
