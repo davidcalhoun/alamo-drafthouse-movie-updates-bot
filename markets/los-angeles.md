@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 1/5 1:13pm
+* New movies: Weird Science
+
+* New screenings: 
+    * [Guest Selects Weird Science](https://drafthouse.com/los-angeles/show/guest-selects-weird-science): Sun 1/21 (10:45am)
+
 ### Fri 1/5 8:19am
 * New movies: I.S.S.
 
