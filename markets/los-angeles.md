@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 1/5 8:19am
+* New movies: I.S.S.
+
+* New screenings: 
+    * [I S S](https://drafthouse.com/los-angeles/show/i-s-s): Thu 1/18 (4:40pm, 7:30pm, 10:20pm), Fri 1/19 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Sat 1/20 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Sun 1/21 (11:00am, 1:50pm, 4:40pm, 7:30pm), Mon 1/22 (2:00pm, 4:45pm, 7:30pm, 10:20pm), Tue 1/23 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Wed 1/24 (2:00pm, 4:45pm, 7:30pm, 10:20pm)
+
 ### Wed 1/3 6:27pm
 
 * New screenings: 
