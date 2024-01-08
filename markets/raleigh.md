@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Mon 1/8 8:23am
+* New movies: Argylle, Argylle
+
+* New screenings: 
+    * [Argylle](https://drafthouse.com/raleigh/show/argylle): Thu 2/1 (10:30pm), Fri 2/2 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sat 2/3 (11:45am, 3:15pm, 6:45pm, 10:15pm), Sun 2/4 (12:00pm, 3:30pm, 7:00pm, 10:30pm)
+
+    * [Costume Screening Argylle Sweater Screening](https://drafthouse.com/raleigh/show/costume-screening-argylle-sweater-screening): Thu 2/1 (7:00pm)
+
 ### Fri 1/5 11:23am
 * New movies: I.S.S.
 
