@@ -1,6 +1,46 @@
 # raleigh
 
 ## Movie updates
+### Mon 1/8 4:16pm
+* New movies: The Beekeeper, The Iron Giant
+
+* New screenings: 
+    * [All About My Mother](https://drafthouse.com/raleigh/show/all-about-my-mother): Fri 1/12 (11:15am), Sat 1/13 (11:45pm), Mon 1/15 (11:15am)
+
+    * [American Fiction](https://drafthouse.com/raleigh/show/american-fiction): Thu 1/11 (11:45am, 2:45pm, 6:00pm, 9:15pm), Fri 1/12 (11:45am, 2:45pm, 5:15pm, 6:00pm, 9:15pm), Sat 1/13 (11:45am, 2:45pm, 5:15pm, 6:00pm, 9:15pm), Sun 1/14 (11:30am, 2:45pm, 6:00pm, 9:15pm), Mon 1/15 (11:30am, 2:45pm, 6:00pm, 9:15pm), Tue 1/16 (12:30pm, 3:45pm, 4:45pm, 7:15pm, 10:30pm), Wed 1/17 (12:30pm, 3:45pm, 7:15pm, 10:30pm)
+
+    * [Aquaman And The Lost Kingdom](https://drafthouse.com/raleigh/show/aquaman-and-the-lost-kingdom): Thu 1/11 (1:30pm, 4:45pm, 8:00pm, 11:20pm)
+
+    * [Brunch Screenings Election](https://drafthouse.com/raleigh/show/brunch-screenings-election): Sat 1/13 (11:30am)
+
+    * [Ferrari](https://drafthouse.com/raleigh/show/ferrari): Thu 1/11 (12:45pm)
+
+    * [Mean Girls 2024](https://drafthouse.com/raleigh/show/mean-girls-2024): Fri 1/12 (8:30pm), Sat 1/13 (8:30pm), Tue 1/16 (11:30am, 1:30pm, 2:45pm, 6:00pm, 11:00pm), Wed 1/17 (11:30am, 2:45pm, 6:45pm, 10:15pm)
+
+    * [Migration](https://drafthouse.com/raleigh/show/migration): Thu 1/11 (12:30pm)
+
+    * [Night Swim](https://drafthouse.com/raleigh/show/night-swim): Thu 1/11 (1:45pm, 5:00pm, 8:15pm, 11:10pm), Fri 1/12 (1:15pm, 4:30pm, 7:45pm, 10:45pm), Sat 1/13 (1:15pm, 4:30pm, 7:30pm, 10:45pm), Sun 1/14 (1:25pm, 4:30pm, 7:35pm, 10:45pm), Mon 1/15 (1:20pm, 4:30pm, 7:15pm, 10:05pm), Tue 1/16 (1:15pm, 4:10pm, 7:45pm, 9:35pm), Wed 1/17 (1:00pm, 4:10pm, 8:15pm, 9:30pm)
+
+    * [Poor Things](https://drafthouse.com/raleigh/show/poor-things): Thu 1/11 (11:45am, 3:15pm, 7:00pm, 10:30pm), Fri 1/12 (11:15am, 2:45pm, 6:15pm, 10:00pm), Sat 1/13 (11:15am, 2:45pm, 6:15pm, 10:00pm), Sun 1/14 (11:25am, 2:50pm, 6:15pm, 10:00pm), Mon 1/15 (11:20am, 2:45pm, 6:15pm, 10:00pm), Tue 1/16 (11:20am, 2:45pm, 6:15pm, 10:00pm), Wed 1/17 (11:20am, 2:55pm, 6:55pm, 10:00pm)
+
+    * [The Beekeeper](https://drafthouse.com/raleigh/show/the-beekeeper): Thu 1/11 (3:30pm, 6:45pm, 10:00pm), Fri 1/12 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Sat 1/13 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Sun 1/14 (12:45pm, 4:00pm, 7:25pm, 10:30pm), Mon 1/15 (12:45pm, 4:15pm, 7:25pm, 10:30pm), Tue 1/16 (12:45pm, 4:00pm, 7:25pm, 10:30pm), Wed 1/17 (12:45pm, 4:00pm, 8:00pm, 10:30pm)
+
+    * [The Book Of Clarence](https://drafthouse.com/raleigh/show/the-book-of-clarence): Fri 1/12 (11:45am, 3:10pm, 10:00pm), Sat 1/13 (11:45am, 3:10pm, 10:00pm), Sun 1/14 (12:15pm, 3:30pm, 10:00pm), Mon 1/15 (12:00pm, 3:15pm, 10:00pm), Tue 1/16 (12:15pm, 3:30pm, 6:45pm, 10:15pm), Wed 1/17 (12:15pm, 4:00pm, 7:30pm, 10:45pm)
+
+    * [The Boy And The Heron Dubbed](https://drafthouse.com/raleigh/show/the-boy-and-the-heron-dubbed): Thu 1/11 (1:00pm, 4:15pm, 7:45pm), Fri 1/12 (1:15pm, 8:15pm, 11:25pm), Sat 1/13 (1:15pm, 8:15pm, 11:25pm), Sun 1/14 (1:15pm, 8:15pm, 11:25pm), Mon 1/15 (1:10pm, 8:15pm, 11:25pm), Tue 1/16 (1:15pm, 8:15pm, 11:25pm), Wed 1/17 (1:10pm, 11:15pm)
+
+    * [The Boy And The Heron Subtitled](https://drafthouse.com/raleigh/show/the-boy-and-the-heron-subtitled): Thu 1/11 (11:00pm), Fri 1/12 (4:45pm), Sat 1/13 (4:50pm), Sun 1/14 (4:50pm), Mon 1/15 (4:50pm), Tue 1/16 (4:50pm), Wed 1/17 (4:45pm)
+
+    * [The Color Purple 2023](https://drafthouse.com/raleigh/show/the-color-purple-2023): Thu 1/11 (12:15pm, 3:45pm, 7:30pm, 11:00pm), Fri 1/12 (12:15pm, 4:00pm, 7:30pm, 11:00pm), Sat 1/13 (12:55pm, 4:20pm, 7:45pm, 11:15pm), Sun 1/14 (12:55pm, 4:20pm, 7:45pm, 11:10pm), Mon 1/15 (12:15pm, 4:00pm, 7:30pm, 10:55pm), Tue 1/16 (11:15am, 2:50pm, 6:15pm, 9:45pm), Wed 1/17 (11:10am, 11:55am, 2:35pm, 3:20pm, 6:20pm, 10:00pm)
+
+    * [The Iron Claw](https://drafthouse.com/raleigh/show/the-iron-claw): Thu 1/11 (1:15pm, 4:30pm, 8:00pm, 11:15pm), Fri 1/12 (1:00pm, 4:30pm, 8:00pm, 11:15pm), Sat 1/13 (1:00pm, 4:40pm, 8:00pm, 11:15pm), Sun 1/14 (1:00pm, 4:40pm, 8:00pm, 11:15pm), Mon 1/15 (1:00pm, 4:40pm, 8:00pm, 11:15pm), Tue 1/16 (1:00pm, 4:40pm, 8:00pm, 11:15pm), Wed 1/17 (1:00pm, 4:40pm, 11:00pm)
+
+    * [The Iron Giant](https://drafthouse.com/raleigh/show/the-iron-giant): Thu 1/11 (12:30pm)
+
+    * [The Lord Of The Rings The Two Towers Extended Edition 2](https://drafthouse.com/raleigh/show/the-lord-of-the-rings-the-two-towers-extended-edition-2): Sun 1/14 (7:15pm)
+
+    * [Wonka](https://drafthouse.com/raleigh/show/wonka): Thu 1/11 (12:00pm, 3:00pm, 6:30pm, 9:45pm), Fri 1/12 (12:00pm, 3:20pm, 6:30pm, 9:45pm), Sat 1/13 (12:00pm, 3:20pm, 6:30pm, 9:45pm), Sun 1/14 (12:00pm, 3:20pm, 6:30pm, 9:45pm), Mon 1/15 (12:00pm, 3:25pm, 6:30pm, 9:45pm), Tue 1/16 (12:00pm, 3:20pm, 6:30pm, 9:45pm), Wed 1/17 (12:00pm, 3:20pm, 6:35pm, 9:45pm)
+
 ### Mon 1/8 8:23am
 * New movies: Argylle, Argylle
 
