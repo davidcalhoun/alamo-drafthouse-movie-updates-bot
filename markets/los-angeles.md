@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 1/8 7:16am
+* New movies: The Zone of Interest
+
+* New screenings: 
+    * [The Zone Of Interest](https://drafthouse.com/los-angeles/show/the-zone-of-interest): Thu 1/11 (7:30pm, 10:30pm), Fri 1/12 (4:50pm, 7:50pm, 10:50pm), Sat 1/13 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:45pm), Sun 1/14 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:45pm), Mon 1/15 (11:00am, 1:55pm, 4:50pm, 7:45pm), Tue 1/16 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:45pm), Wed 1/17 (4:35pm, 7:35pm, 10:35pm), Thu 1/18 (3:45pm, 6:45pm, 9:45pm), Fri 1/19 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Sat 1/20 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Sun 1/21 (12:45pm, 3:45pm, 6:45pm), Mon 1/22 (3:45pm, 6:45pm, 9:45pm), Tue 1/23 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Wed 1/24 (3:45pm, 6:45pm, 9:45pm)
+
 ### Mon 1/8 5:19am
 * New movies: Argylle, Argylle, Argylle
 
