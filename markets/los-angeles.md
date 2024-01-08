@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Mon 1/8 5:19am
+* New movies: Argylle, Argylle, Argylle
+
+* New screenings: 
+    * [Argylle](https://drafthouse.com/los-angeles/show/argylle): Thu 2/1 (10:00pm), Fri 2/2 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sat 2/3 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sun 2/4 (12:00pm, 3:30pm, 7:00pm), Mon 2/5 (3:30pm, 7:00pm, 10:30pm), Tue 2/6 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Wed 2/7 (3:30pm, 7:00pm, 10:30pm), Thu 2/8 (3:30pm, 7:00pm, 10:30pm), Fri 2/9 (11:30am, 3:00pm, 6:30pm, 10:00pm), Sat 2/10 (3:00pm, 6:30pm, 10:00pm), Sun 2/11 (3:00pm, 6:30pm), Mon 2/12 (3:00pm, 6:30pm, 10:00pm), Tue 2/13 (11:30am, 3:00pm, 6:30pm, 10:00pm), Wed 2/14 (3:00pm, 6:30pm, 10:00pm)
+
+    * [Brunch Screenings Argylle Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-argylle-brunch): Sat 2/10 (11:30am), Sun 2/11 (11:30am)
+
+    * [Costume Screening Argylle Sweater Screening](https://drafthouse.com/los-angeles/show/costume-screening-argylle-sweater-screening): Thu 2/1 (6:30pm)
+
 ### Fri 1/5 1:13pm
 * New movies: Weird Science
 
