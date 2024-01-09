@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 1/8 5:12pm
+
+* New screenings: 
+    * [The Color Purple 2023](https://drafthouse.com/los-angeles/show/the-color-purple-2023): Wed 1/10 (9:35pm)
+
 ### Mon 1/8 7:16am
 * New movies: The Zone of Interest
 
