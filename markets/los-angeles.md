@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 1/8 6:29pm
+* New movies: Stop Making Sense
+
+* New screenings: 
+    * [Stop Making Sense](https://drafthouse.com/los-angeles/show/stop-making-sense): Sat 1/27 (10:45pm)
+
 ### Mon 1/8 5:12pm
 
 * New screenings: 
