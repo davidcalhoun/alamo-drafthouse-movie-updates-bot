@@ -1,6 +1,50 @@
 # los-angeles
 
 ## Movie updates
+### Mon 1/8 9:15pm
+* New movies: Happer's Comet
+
+* New screenings: 
+    * [All About My Mother](https://drafthouse.com/los-angeles/show/all-about-my-mother): Wed 1/17 (2:10pm)
+
+    * [All Of Us Strangers](https://drafthouse.com/los-angeles/show/all-of-us-strangers): Thu 1/11 (12:20pm), Sun 1/14 (9:15pm), Mon 1/15 (9:15pm), Tue 1/16 (12:15pm, 3:15pm, 6:15pm, 9:15pm)
+
+    * [American Fiction](https://drafthouse.com/los-angeles/show/american-fiction): Thu 1/11 (1:15pm, 4:30pm, 7:45pm, 10:50pm), Fri 1/12 (12:45pm, 4:00pm, 10:30pm), Sat 1/13 (1:00pm, 4:10pm, 7:25pm, 10:35pm), Sun 1/14 (1:00pm, 4:10pm, 7:25pm, 10:35pm), Mon 1/15 (1:00pm, 4:10pm, 7:25pm, 10:35pm), Tue 1/16 (1:00pm, 4:10pm, 7:25pm, 10:35pm), Wed 1/17 (4:10pm, 7:25pm, 10:45pm)
+
+    * [Coup De Torchon](https://drafthouse.com/los-angeles/show/coup-de-torchon): Thu 1/11 (11:30am)
+
+    * [Fallen Leaves](https://drafthouse.com/los-angeles/show/fallen-leaves): Thu 1/11 (4:20pm)
+
+    * [Ferrari](https://drafthouse.com/los-angeles/show/ferrari): Thu 1/11 (12:00pm)
+
+    * [Graveyard Shift Deep Blue Sea](https://drafthouse.com/los-angeles/show/graveyard-shift-deep-blue-sea): Wed 1/17 (10:45pm)
+
+    * [Live Q A Happers Comet](https://drafthouse.com/los-angeles/show/live-q-a-happers-comet): Thu 2/8 (7:15pm)
+
+    * [Mean Girls 2024](https://drafthouse.com/los-angeles/show/mean-girls-2024): Sun 1/14 (9:45pm), Mon 1/15 (9:45pm)
+
+    * [Night Swim](https://drafthouse.com/los-angeles/show/night-swim): Thu 1/11 (12:45pm, 3:40pm, 11:00pm), Fri 1/12 (11:00am, 2:00pm, 5:00pm, 8:00pm, 10:55pm), Sat 1/13 (11:00am, 2:00pm, 5:00pm, 8:00pm, 11:00pm), Sun 1/14 (11:00am, 2:00pm, 5:00pm, 8:00pm, 11:00pm), Mon 1/15 (11:00am, 2:00pm, 5:00pm, 8:00pm, 11:00pm), Tue 1/16 (11:00am, 2:00pm, 5:00pm, 8:00pm, 11:00pm), Wed 1/17 (4:00pm, 11:00pm)
+
+    * [Poor Things](https://drafthouse.com/los-angeles/show/poor-things): Thu 1/11 (12:30pm, 3:45pm, 6:45pm, 10:20pm), Fri 1/12 (12:30pm, 3:00pm, 6:45pm, 10:20pm), Sat 1/13 (11:25am, 3:00pm, 6:45pm, 10:20pm), Sun 1/14 (11:25am, 3:00pm, 6:45pm, 10:20pm), Mon 1/15 (11:25am, 3:00pm, 6:45pm, 10:20pm), Tue 1/16 (11:25am, 3:00pm, 6:45pm, 10:20pm), Wed 1/17 (3:10pm, 6:50pm, 10:25pm)
+
+    * [The Beekeeper](https://drafthouse.com/los-angeles/show/the-beekeeper): Sun 1/14 (10:05pm), Mon 1/15 (10:05pm), Tue 1/16 (12:45pm, 3:50pm, 7:00pm, 10:05pm)
+
+    * [The Book Of Clarence](https://drafthouse.com/los-angeles/show/the-book-of-clarence): Sun 1/14 (9:25pm), Mon 1/15 (9:25pm)
+
+    * [The Boy And The Heron Dubbed](https://drafthouse.com/los-angeles/show/the-boy-and-the-heron-dubbed): Thu 1/11 (11:45am, 12:00pm, 3:00pm, 3:25pm), Fri 1/12 (4:00pm), Sat 1/13 (3:00pm), Sun 1/14 (10:15pm), Mon 1/15 (1:00pm), Tue 1/16 (11:00am, 2:25pm), Wed 1/17 (10:30pm)
+
+    * [The Color Purple 2023](https://drafthouse.com/los-angeles/show/the-color-purple-2023): Thu 1/11 (12:10pm)
+
+    * [The Iron Claw](https://drafthouse.com/los-angeles/show/the-iron-claw): Thu 1/11 (12:30pm, 4:00pm), Fri 1/12 (11:20am, 2:45pm, 6:15pm, 9:40pm), Sat 1/13 (11:25am, 2:50pm, 6:15pm, 9:40pm), Sun 1/14 (11:25am, 2:50pm, 6:15pm, 9:40pm), Mon 1/15 (11:25am, 2:50pm, 6:15pm, 9:40pm), Tue 1/16 (11:25am, 2:50pm, 6:15pm, 9:40pm), Wed 1/17 (2:45pm, 6:15pm, 9:45pm)
+
+    * [The Lord Of The Rings The Fellowship Of The Ring Extended Edition](https://drafthouse.com/los-angeles/show/the-lord-of-the-rings-the-fellowship-of-the-ring-extended-edition): Thu 1/11 (11:30am)
+
+    * [The Lord Of The Rings The Two Towers Extended Edition 2](https://drafthouse.com/los-angeles/show/the-lord-of-the-rings-the-two-towers-extended-edition-2): Sat 1/13 (11:20am), Mon 1/15 (8:40pm), Tue 1/16 (11:30am, 8:45pm), Wed 1/17 (2:20pm)
+
+    * [The Zone Of Interest](https://drafthouse.com/los-angeles/show/the-zone-of-interest): Thu 1/11 (9:20pm), Fri 1/12 (11:50am, 1:00pm, 7:30pm, 10:15pm), Sat 1/13 (12:00pm, 6:35pm, 10:15pm), Sun 1/14 (11:45am, 8:45pm), Mon 1/15 (4:20pm, 5:45pm, 10:15pm, 10:45pm), Tue 1/16 (5:45pm, 10:15pm)
+
+    * [Wonka](https://drafthouse.com/los-angeles/show/wonka): Thu 1/11 (11:40am, 3:00pm, 6:15pm, 9:30pm), Fri 1/12 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Sat 1/13 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Sun 1/14 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Mon 1/15 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Tue 1/16 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Wed 1/17 (3:10pm, 6:30pm, 9:40pm)
+
 ### Mon 1/8 6:29pm
 * New movies: Stop Making Sense
 
