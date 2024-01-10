@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 1/10 1:12pm
+* New movies: Shredder Orpheus, M3gan
+
+* New screenings: 
+    * [M3gan](https://drafthouse.com/los-angeles/show/m3gan): Fri 2/9 (2:45pm), Wed 2/14 (7:45pm)
+
+    * [Shredder Orpheus](https://drafthouse.com/los-angeles/show/shredder-orpheus): Fri 2/23 (4:30pm), Wed 2/28 (8:00pm)
+
 ### Mon 1/8 9:15pm
 * New movies: Happer's Comet
 
