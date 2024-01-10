@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Wed 1/10 2:15pm
+
+* New screenings: 
+    * [The Iron Claw](https://drafthouse.com/los-angeles/show/the-iron-claw): Thu 1/11 (10:10pm)
+
+    * [The Zone Of Interest](https://drafthouse.com/los-angeles/show/the-zone-of-interest): Thu 1/11 (7:10pm)
+
 ### Wed 1/10 1:12pm
 * New movies: Shredder Orpheus, M3gan
 
