@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 1/11 5:13pm
+
+* New screenings: 
+    * [Fantastic Fest Presents Coherence W Live Q A](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-coherence-w-live-q-a): Sun 2/4 (4:10pm)
+
 ### Thu 1/11 3:16pm
 
 * New screenings: 
