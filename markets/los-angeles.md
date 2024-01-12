@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 1/12 3:14pm
+
+* New screenings: 
+    * [Movie Party The Twilight Saga Twilight](https://drafthouse.com/los-angeles/show/movie-party-the-twilight-saga-twilight): Sat 2/10 (9:45pm), Wed 2/14 (10:30pm)
+
 ### Thu 1/11 5:13pm
 
 * New screenings: 
