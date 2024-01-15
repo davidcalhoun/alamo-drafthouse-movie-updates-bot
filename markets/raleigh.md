@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 1/15 3:20pm
+* New movies: Weird Science
+
+* New screenings: 
+    * [Guest Selects Weird Science](https://drafthouse.com/raleigh/show/guest-selects-weird-science): Sun 1/21 (11:45am)
+
 ### Mon 1/8 4:16pm
 * New movies: The Beekeeper, The Iron Giant
 
