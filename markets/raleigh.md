@@ -1,6 +1,46 @@
 # raleigh
 
 ## Movie updates
+### Tue 1/16 4:17pm
+* New movies: All of Us Strangers
+
+* New screenings: 
+    * [All Of Us Strangers](https://drafthouse.com/raleigh/show/all-of-us-strangers): Thu 1/18 (5:30pm, 8:30pm, 11:30pm), Fri 1/19 (12:55pm, 3:50pm, 7:00pm, 10:00pm), Sat 1/20 (12:30pm, 3:20pm, 6:10pm, 9:15pm), Sun 1/21 (1:00pm, 4:25pm, 7:20pm, 10:15pm), Mon 1/22 (1:30pm, 4:35pm, 7:25pm, 10:15pm), Tue 1/23 (1:00pm, 4:15pm, 7:20pm, 10:15pm), Wed 1/24 (12:45pm, 3:35pm, 6:25pm, 10:25pm)
+
+    * [American Fiction](https://drafthouse.com/raleigh/show/american-fiction): Thu 1/18 (1:00pm, 4:10pm, 7:00pm, 10:00pm), Fri 1/19 (12:45pm, 4:15pm, 7:15pm, 10:15pm), Sat 1/20 (1:10pm, 4:15pm, 7:15pm, 10:15pm), Sun 1/21 (12:30pm, 4:00pm, 7:00pm, 10:30pm), Mon 1/22 (1:30pm, 4:45pm, 7:50pm, 11:00pm), Tue 1/23 (12:15pm, 4:00pm, 7:45pm, 10:45pm), Wed 1/24 (1:00pm, 4:15pm, 7:30pm, 10:45pm)
+
+    * [Blood Tea And Red String](https://drafthouse.com/raleigh/show/blood-tea-and-red-string): Thu 1/18 (12:40pm)
+
+    * [Galaxy Quest](https://drafthouse.com/raleigh/show/galaxy-quest): Sat 1/20 (11:15pm), Wed 1/24 (12:15pm)
+
+    * [I S S](https://drafthouse.com/raleigh/show/i-s-s): Fri 1/19 (1:15pm, 4:00pm, 9:45pm), Sat 1/20 (1:00pm, 3:45pm, 9:45pm), Sun 1/21 (12:45pm, 3:30pm, 9:35pm), Mon 1/22 (1:45pm, 4:30pm, 7:40pm, 10:30pm), Tue 1/23 (1:10pm, 4:15pm, 7:00pm, 9:40pm), Wed 1/24 (1:45pm, 5:00pm, 8:15pm, 10:55pm)
+
+    * [Mean Girls 2024](https://drafthouse.com/raleigh/show/mean-girls-2024): Thu 1/18 (12:15pm, 3:20pm, 6:15pm, 9:15pm), Fri 1/19 (11:45am, 2:45pm, 6:00pm, 9:00pm), Sat 1/20 (12:55pm, 3:55pm, 7:00pm, 10:00pm), Sun 1/21 (12:35pm, 3:45pm, 6:45pm, 9:45pm), Mon 1/22 (1:45pm, 5:00pm, 8:00pm, 10:55pm), Tue 1/23 (12:30pm, 3:45pm, 6:40pm, 9:35pm), Wed 1/24 (12:00pm, 3:15pm, 6:10pm, 9:15pm)
+
+    * [Night Swim](https://drafthouse.com/raleigh/show/night-swim): Thu 1/18 (1:10pm)
+
+    * [Origin](https://drafthouse.com/raleigh/show/origin): Thu 1/18 (6:35pm, 10:00pm), Fri 1/19 (11:30am, 3:00pm, 10:25pm), Sat 1/20 (11:30am, 3:05pm, 10:00pm), Sun 1/21 (11:30am, 3:00pm, 9:55pm), Mon 1/22 (12:15pm, 3:50pm, 7:15pm, 10:45pm), Tue 1/23 (11:20am, 2:50pm, 6:15pm, 9:45pm), Wed 1/24 (12:00pm, 3:30pm, 10:50pm)
+
+    * [Poor Things](https://drafthouse.com/raleigh/show/poor-things): Thu 1/18 (12:20pm, 3:50pm, 7:20pm, 10:45pm), Fri 1/19 (12:25pm, 3:50pm, 7:20pm, 11:00pm), Sat 1/20 (11:20am, 2:50pm, 6:20pm, 9:55pm), Sun 1/21 (12:00pm, 3:45pm, 7:10pm, 10:45pm), Mon 1/22 (12:30pm, 4:00pm, 7:30pm, 10:55pm), Tue 1/23 (11:30am, 2:55pm, 6:35pm, 10:00pm), Wed 1/24 (1:15pm, 3:00pm, 6:35pm)
+
+    * [Rainers Ungodly Camera Three Short Films By Bertrand Mandico](https://drafthouse.com/raleigh/show/rainers-ungodly-camera-three-short-films-by-bertrand-mandico): Sun 1/21 (11:25pm)
+
+    * [The Beekeeper](https://drafthouse.com/raleigh/show/the-beekeeper): Thu 1/18 (1:20pm, 4:20pm, 7:15pm, 10:30pm), Fri 1/19 (11:15am, 2:15pm, 5:15pm, 8:15pm, 11:30pm), Sat 1/20 (11:30am, 2:45pm, 5:45pm, 8:45pm, 11:40pm), Sun 1/21 (11:20am, 2:15pm, 5:30pm, 8:30pm, 11:40pm), Mon 1/22 (12:45pm, 3:40pm, 6:35pm, 9:00pm), Tue 1/23 (11:30am, 3:00pm, 6:50pm, 9:15pm), Wed 1/24 (1:30pm, 4:30pm, 7:45pm, 10:40pm)
+
+    * [The Book Of Clarence](https://drafthouse.com/raleigh/show/the-book-of-clarence): Thu 1/18 (12:00pm, 3:15pm, 6:30pm, 9:50pm), Fri 1/19 (12:15pm, 3:30pm, 6:50pm, 10:15pm), Sat 1/20 (12:45pm, 4:05pm, 8:00pm, 10:45pm), Sun 1/21 (1:00pm, 4:15pm, 8:05pm, 10:45pm), Mon 1/22 (11:45am, 3:00pm, 6:25pm, 10:00pm), Tue 1/23 (12:00pm, 3:40pm, 7:00pm, 10:15pm), Wed 1/24 (12:30pm, 3:45pm, 7:00pm, 10:15pm)
+
+    * [The Boy And The Heron Dubbed](https://drafthouse.com/raleigh/show/the-boy-and-the-heron-dubbed): Thu 1/18 (12:30pm, 3:40pm)
+
+    * [The Color Purple 2023](https://drafthouse.com/raleigh/show/the-color-purple-2023): Thu 1/18 (1:45pm, 3:10pm)
+
+    * [The Iron Claw](https://drafthouse.com/raleigh/show/the-iron-claw): Thu 1/18 (1:30pm, 4:45pm, 8:00pm, 11:15pm), Fri 1/19 (2:00pm), Tue 1/23 (12:45pm), Wed 1/24 (4:45pm)
+
+    * [The Limey](https://drafthouse.com/raleigh/show/the-limey): Sat 1/20 (12:10pm)
+
+    * [The Zone Of Interest](https://drafthouse.com/raleigh/show/the-zone-of-interest): Thu 1/18 (10:45pm), Fri 1/19 (1:15pm, 4:30pm, 5:30pm, 8:30pm, 10:55pm, 11:45pm), Sat 1/20 (1:20pm, 4:30pm, 5:05pm, 7:45pm, 10:50pm), Sun 1/21 (1:20pm, 4:35pm, 7:45pm, 10:55pm), Mon 1/22 (12:00pm, 3:15pm, 6:00pm, 9:15pm), Tue 1/23 (1:20pm, 4:00pm, 4:45pm, 8:00pm, 11:00pm), Wed 1/24 (11:45am, 2:45pm, 6:00pm, 8:00pm, 9:00pm)
+
+    * [Wonka](https://drafthouse.com/raleigh/show/wonka): Thu 1/18 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Fri 1/19 (12:00pm, 3:15pm, 6:15pm, 9:15pm), Sat 1/20 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sun 1/21 (11:45am, 2:45pm, 6:00pm, 9:00pm), Mon 1/22 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Tue 1/23 (11:45am, 2:45pm, 6:00pm, 9:00pm), Wed 1/24 (12:45pm, 3:45pm, 6:45pm, 9:45pm)
+
 ### Tue 1/16 11:26am
 
 * New screenings: 
