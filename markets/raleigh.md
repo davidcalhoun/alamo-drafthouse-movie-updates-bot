@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 1/16 11:26am
+
+* New screenings: 
+    * [The Iron Claw](https://drafthouse.com/raleigh/show/the-iron-claw): Sat 1/20 (7:30pm), Sun 1/21 (7:30pm)
+
 ### Mon 1/15 3:20pm
 * New movies: Weird Science
 
