@@ -1,6 +1,43 @@
 # los-angeles
 
 ## Movie updates
+### Tue 1/16 1:14pm
+
+* New screenings: 
+    * [All Of Us Strangers](https://drafthouse.com/los-angeles/show/all-of-us-strangers): Thu 1/18 (11:25am, 3:20pm, 6:25pm, 9:25pm), Fri 1/19 (11:20am, 3:20pm, 6:25pm, 9:25pm), Sat 1/20 (11:20am, 3:20pm, 6:20pm, 9:25pm), Sun 1/21 (11:20am, 3:20pm, 6:25pm), Mon 1/22 (3:15pm, 6:25pm, 9:30pm), Tue 1/23 (11:20am, 3:20pm, 6:25pm, 9:25pm), Wed 1/24 (3:20pm, 6:25pm, 9:25pm)
+
+    * [American Fiction](https://drafthouse.com/los-angeles/show/american-fiction): Thu 1/18 (12:20pm, 3:40pm, 7:00pm, 10:10pm), Fri 1/19 (12:20pm, 3:40pm, 7:00pm, 10:10pm), Sat 1/20 (12:20pm, 3:40pm, 7:00pm, 10:10pm), Sun 1/21 (12:20pm, 3:40pm, 7:00pm), Mon 1/22 (3:35pm, 6:55pm, 10:40pm), Tue 1/23 (12:20pm, 3:40pm, 7:00pm, 10:15pm), Wed 1/24 (3:40pm, 7:00pm, 10:15pm)
+
+    * [Audition](https://drafthouse.com/los-angeles/show/audition): Tue 1/23 (10:10pm)
+
+    * [Galaxy Quest](https://drafthouse.com/los-angeles/show/galaxy-quest): Tue 1/23 (11:00am)
+
+    * [Mean Girls 2024](https://drafthouse.com/los-angeles/show/mean-girls-2024): Thu 1/18 (12:00pm, 3:10pm, 7:20pm, 10:30pm), Fri 1/19 (12:50pm, 4:00pm, 7:10pm, 10:15pm), Sat 1/20 (12:50pm, 4:00pm, 7:10pm, 10:15pm), Sun 1/21 (1:00pm, 4:10pm, 7:20pm), Mon 1/22 (4:00pm, 7:10pm, 10:15pm), Tue 1/23 (12:50pm, 4:00pm, 7:10pm, 10:25pm), Wed 1/24 (4:15pm, 7:20pm, 10:25pm)
+
+    * [Night Swim](https://drafthouse.com/los-angeles/show/night-swim): Thu 1/18 (1:10pm)
+
+    * [One From The Heart Reprise](https://drafthouse.com/los-angeles/show/one-from-the-heart-reprise): Sat 1/20 (10:25pm), Mon 1/22 (2:15pm)
+
+    * [Origin](https://drafthouse.com/los-angeles/show/origin): Thu 1/18 (5:00pm, 8:45pm)
+
+    * [Poor Things](https://drafthouse.com/los-angeles/show/poor-things): Thu 1/18 (11:45am, 2:25pm, 6:00pm, 9:35pm), Fri 1/19 (11:45am, 2:20pm, 6:00pm, 9:35pm), Sat 1/20 (11:45am, 2:20pm, 6:00pm, 9:35pm), Sun 1/21 (11:45am, 2:20pm, 6:00pm), Mon 1/22 (2:25pm, 6:00pm, 9:45pm), Tue 1/23 (11:45am, 2:20pm, 6:00pm, 9:35pm), Wed 1/24 (2:20pm, 6:00pm, 9:40pm)
+
+    * [The Beekeeper](https://drafthouse.com/los-angeles/show/the-beekeeper): Thu 1/18 (12:50pm, 4:00pm, 7:10pm, 10:15pm), Fri 1/19 (12:35pm, 3:50pm, 7:00pm, 10:05pm), Sat 1/20 (12:35pm, 3:50pm, 7:20pm, 10:45pm), Sun 1/21 (12:35pm, 3:50pm, 7:00pm), Mon 1/22 (3:45pm, 7:00pm, 10:05pm), Tue 1/23 (12:35pm, 3:50pm, 7:00pm, 10:05pm), Wed 1/24 (4:00pm, 7:10pm, 10:15pm)
+
+    * [The Book Of Clarence](https://drafthouse.com/los-angeles/show/the-book-of-clarence): Thu 1/18 (11:15am, 2:40pm, 6:00pm, 9:20pm), Fri 1/19 (11:10am, 2:35pm, 6:00pm, 9:20pm), Sat 1/20 (11:10am, 2:35pm, 6:00pm, 9:20pm), Sun 1/21 (11:10am, 2:35pm, 6:00pm), Mon 1/22 (3:50pm, 7:20pm, 10:10pm), Tue 1/23 (11:10am, 2:35pm, 6:00pm, 9:20pm), Wed 1/24 (2:35pm, 6:00pm, 9:20pm)
+
+    * [The Boy And The Heron Dubbed](https://drafthouse.com/los-angeles/show/the-boy-and-the-heron-dubbed): Thu 1/18 (5:15pm), Fri 1/19 (10:20pm), Sun 1/21 (7:15pm), Mon 1/22 (2:35pm)
+
+    * [The Iron Claw](https://drafthouse.com/los-angeles/show/the-iron-claw): Thu 1/18 (11:30am, 3:00pm, 6:35pm, 10:00pm), Fri 1/19 (11:30am, 3:00pm, 6:35pm, 10:00pm), Sat 1/20 (11:30am, 3:00pm, 6:30pm, 10:00pm), Sun 1/21 (11:40am, 3:10pm, 6:35pm), Mon 1/22 (3:10pm, 6:35pm, 10:00pm), Tue 1/23 (11:30am, 3:00pm, 6:35pm, 10:00pm), Wed 1/24 (3:00pm, 6:35pm, 10:05pm)
+
+    * [The Lord Of The Rings The Return Of The King Extended Edition](https://drafthouse.com/los-angeles/show/the-lord-of-the-rings-the-return-of-the-king-extended-edition): Fri 1/19 (11:15am), Sat 1/20 (10:40am), Tue 1/23 (1:50pm), Wed 1/24 (2:30pm)
+
+    * [The Lord Of The Rings The Two Towers Extended Edition 2](https://drafthouse.com/los-angeles/show/the-lord-of-the-rings-the-two-towers-extended-edition-2): Thu 1/18 (12:00pm, 8:30pm)
+
+    * [The Zone Of Interest](https://drafthouse.com/los-angeles/show/the-zone-of-interest): Thu 1/18 (11:15am, 12:40pm, 2:15pm)
+
+    * [Wonka](https://drafthouse.com/los-angeles/show/wonka): Thu 1/18 (1:25pm, 4:10pm)
+
 ### Fri 1/12 3:14pm
 
 * New screenings: 
