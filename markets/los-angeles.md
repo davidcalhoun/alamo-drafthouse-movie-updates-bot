@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 1/16 10:21pm
+* New movies: Lovely, Dark, and Deep
+
+* New screenings: 
+    * [Blonde Death](https://drafthouse.com/los-angeles/show/blonde-death): Fri 2/16 (4:20pm)
+
+    * [Live Q A Lovely Dark And Deep](https://drafthouse.com/los-angeles/show/live-q-a-lovely-dark-and-deep): Sat 2/24 (8:00pm)
+
 ### Tue 1/16 1:14pm
 
 * New screenings: 
