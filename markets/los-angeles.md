@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 1/19 12:17pm
+* New movies: How to Have Sex
+
+* New screenings: 
+    * [Drafthouse Recommends How To Have Sex W Live Q A](https://drafthouse.com/los-angeles/show/drafthouse-recommends-how-to-have-sex-w-live-q-a): Mon 1/29 (7:30pm)
+
 ### Fri 1/19 6:15am
 * New movies: How to Have Sex
 
