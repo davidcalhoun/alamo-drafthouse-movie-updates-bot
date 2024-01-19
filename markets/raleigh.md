@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 1/19 1:25pm
+* New movies: How to Have Sex
+
+* New screenings: 
+    * [How To Have Sex](https://drafthouse.com/raleigh/show/how-to-have-sex): Thu 2/8 (5:00pm, 7:45pm, 10:30pm), Fri 2/9 (5:00pm, 7:45pm, 10:30pm), Sat 2/10 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sun 2/11 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm)
+
 ### Tue 1/16 4:17pm
 * New movies: All of Us Strangers
 
