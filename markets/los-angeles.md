@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 1/19 6:15am
+* New movies: How to Have Sex
+
+* New screenings: 
+    * [How To Have Sex](https://drafthouse.com/los-angeles/show/how-to-have-sex): Thu 2/1 (5:00pm, 7:45pm, 10:30pm), Fri 2/2 (12:30pm, 9:40pm), Sat 2/3 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Sun 2/4 (11:15am, 2:00pm, 4:45pm, 7:30pm), Mon 2/5 (4:45pm, 7:30pm, 10:15pm), Tue 2/6 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Wed 2/7 (3:45pm, 6:45pm, 9:15pm)
+
 ### Tue 1/16 10:21pm
 * New movies: Lovely, Dark, and Deep
 
