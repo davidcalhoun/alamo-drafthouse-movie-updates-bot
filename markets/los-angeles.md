@@ -1,6 +1,52 @@
 # los-angeles
 
 ## Movie updates
+### Mon 1/22 3:16pm
+* New movies: Godzilla Minus One Minus Color, Barbie, Oppenheimer, Anatomy of a Fall, The Holdovers
+
+* New screenings: 
+    * [All Of Us Strangers](https://drafthouse.com/los-angeles/show/all-of-us-strangers): Thu 1/25 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Fri 1/26 (11:15am, 3:00pm, 6:00pm, 9:00pm), Sat 1/27 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sun 1/28 (12:00pm, 3:00pm, 6:00pm), Mon 1/29 (3:00pm, 10:35pm), Tue 1/30 (12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
+    * [American Fiction](https://drafthouse.com/los-angeles/show/american-fiction): Thu 1/25 (12:10pm, 3:20pm, 6:35pm, 9:45pm), Fri 1/26 (12:10pm, 3:20pm, 6:35pm, 10:15pm), Sat 1/27 (12:10pm, 3:20pm, 6:35pm, 9:50pm), Sun 1/28 (12:10pm, 3:20pm, 6:35pm), Mon 1/29 (3:20pm, 6:40pm, 9:55pm), Tue 1/30 (12:15pm, 3:25pm, 6:35pm, 9:45pm)
+
+    * [Anatomy Of A Fall](https://drafthouse.com/los-angeles/show/anatomy-of-a-fall): Fri 1/26 (11:15am), Sat 1/27 (5:30pm), Sun 1/28 (11:15am), Tue 1/30 (4:15pm)
+
+    * [Audition](https://drafthouse.com/los-angeles/show/audition): Thu 1/25 (10:35pm)
+
+    * [Barbie](https://drafthouse.com/los-angeles/show/barbie): Fri 1/26 (5:45pm, 9:45pm), Sat 1/27 (2:25pm), Sun 1/28 (4:50pm, 7:15pm), Mon 1/29 (10:15pm), Tue 1/30 (10:15pm)
+
+    * [Godzilla Minus One Minus Color](https://drafthouse.com/los-angeles/show/godzilla-minus-one-minus-color): Thu 1/25 (4:00pm, 10:20pm), Fri 1/26 (3:35pm, 10:20pm), Sat 1/27 (3:35pm, 10:20pm), Sun 1/28 (3:35pm), Mon 1/29 (10:10pm), Tue 1/30 (12:10pm, 10:20pm)
+
+    * [I S S](https://drafthouse.com/los-angeles/show/i-s-s): Thu 1/25 (11:10am, 2:00pm, 4:50pm, 7:40pm, 10:35pm), Fri 1/26 (11:10am, 2:00pm, 4:50pm, 7:40pm, 10:35pm), Sat 1/27 (11:10am, 2:00pm, 4:50pm, 7:40pm, 10:35pm), Sun 1/28 (10:45am, 1:35pm, 4:25pm, 7:55pm), Mon 1/29 (3:35pm, 6:25pm, 10:20pm), Tue 1/30 (11:00am, 1:50pm, 4:45pm, 7:40pm, 10:35pm)
+
+    * [Mean Girls 2024](https://drafthouse.com/los-angeles/show/mean-girls-2024): Thu 1/25 (12:45pm, 3:45pm, 7:20pm, 10:25pm), Fri 1/26 (1:00pm, 4:15pm, 7:20pm, 10:25pm), Sat 1/27 (1:00pm, 4:15pm, 7:20pm, 10:25pm), Sun 1/28 (10:45am, 1:45pm, 4:50pm, 8:00pm), Mon 1/29 (4:15pm, 6:00pm, 9:00pm), Tue 1/30 (1:00pm, 4:15pm, 7:20pm, 10:25pm)
+
+    * [One From The Heart Reprise](https://drafthouse.com/los-angeles/show/one-from-the-heart-reprise): Thu 1/25 (1:00pm, 3:30pm, 7:30pm, 10:15pm), Fri 1/26 (1:00pm, 3:30pm, 7:30pm, 10:45pm), Sat 1/27 (1:00pm, 3:30pm, 7:30pm, 10:15pm), Sun 1/28 (1:00pm, 3:30pm, 7:25pm), Mon 1/29 (3:30pm, 7:20pm, 10:05pm), Tue 1/30 (1:00pm, 3:30pm, 7:30pm, 10:15pm)
+
+    * [Oppenheimer](https://drafthouse.com/los-angeles/show/oppenheimer): Fri 1/26 (8:50pm), Sat 1/27 (11:25am), Sun 1/28 (2:45pm), Mon 1/29 (3:00pm), Tue 1/30 (3:00pm)
+
+    * [Origin](https://drafthouse.com/los-angeles/show/origin): Thu 1/25 (11:45am, 3:45pm, 6:20pm, 10:00pm), Fri 1/26 (11:45am, 3:45pm, 6:20pm, 10:00pm), Sat 1/27 (11:45am, 3:45pm, 6:20pm, 10:00pm), Sun 1/28 (11:50am, 3:45pm, 6:20pm), Mon 1/29 (3:45pm, 6:15pm, 9:50pm), Tue 1/30 (11:45am, 3:45pm, 6:20pm, 9:55pm)
+
+    * [Poor Things](https://drafthouse.com/los-angeles/show/poor-things): Thu 1/25 (11:00am, 2:35pm, 6:10pm, 9:50pm), Fri 1/26 (11:00am, 2:35pm, 6:10pm, 9:50pm), Sat 1/27 (11:00am, 2:35pm, 6:10pm, 9:45pm), Sun 1/28 (11:00am, 2:35pm, 6:10pm), Mon 1/29 (3:20pm, 6:10pm, 10:10pm), Tue 1/30 (11:00am, 2:35pm, 6:10pm, 9:45pm)
+
+    * [The Beekeeper](https://drafthouse.com/los-angeles/show/the-beekeeper): Thu 1/25 (11:20am)
+
+    * [The Book Of Clarence](https://drafthouse.com/los-angeles/show/the-book-of-clarence): Thu 1/25 (12:20pm, 7:00pm), Fri 1/26 (12:10pm, 7:00pm), Sat 1/27 (12:10pm, 7:00pm), Sun 1/28 (12:10pm, 7:00pm), Mon 1/29 (3:35pm, 7:00pm), Tue 1/30 (3:35pm, 7:00pm)
+
+    * [The Boy And The Heron Dubbed](https://drafthouse.com/los-angeles/show/the-boy-and-the-heron-dubbed): Thu 1/25 (2:25pm, 5:45pm, 9:10pm)
+
+    * [The Holdovers](https://drafthouse.com/los-angeles/show/the-holdovers): Sat 1/27 (11:00am), Sun 1/28 (7:00pm), Mon 1/29 (2:45pm), Tue 1/30 (11:30am)
+
+    * [The Iron Claw](https://drafthouse.com/los-angeles/show/the-iron-claw): Thu 1/25 (11:40am, 3:10pm, 6:45pm, 10:10pm), Fri 1/26 (11:40am, 3:10pm, 6:45pm, 10:10pm), Sat 1/27 (11:40am, 3:10pm, 6:45pm, 10:10pm), Sun 1/28 (11:40am, 3:10pm, 6:45pm), Mon 1/29 (3:15pm, 6:45pm, 9:15pm), Tue 1/30 (11:40am, 3:10pm, 6:45pm, 10:10pm)
+
+    * [The Lord Of The Rings The Return Of The King Extended Edition](https://drafthouse.com/los-angeles/show/the-lord-of-the-rings-the-return-of-the-king-extended-edition): Thu 1/25 (11:50am, 5:15pm)
+
+    * [The Matrix](https://drafthouse.com/los-angeles/show/the-matrix): Fri 1/26 (2:15pm), Mon 1/29 (9:45pm)
+
+    * [The Talented Mr Ripley](https://drafthouse.com/los-angeles/show/the-talented-mr-ripley): Tue 1/30 (12:40pm)
+
+    * [The Zone Of Interest](https://drafthouse.com/los-angeles/show/the-zone-of-interest): Thu 1/25 (11:00am, 1:55pm, 4:50pm, 7:50pm, 10:50pm), Fri 1/26 (11:00am, 1:55pm, 4:50pm, 7:50pm, 10:50pm), Sat 1/27 (11:00am, 1:55pm, 4:50pm, 7:50pm, 10:50pm), Sun 1/28 (11:40am, 3:00pm, 6:00pm), Mon 1/29 (4:45pm, 7:40pm, 10:35pm), Tue 1/30 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:45pm)
+
 ### Fri 1/19 12:17pm
 * New movies: How to Have Sex
 
