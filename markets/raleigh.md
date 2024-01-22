@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 1/22 12:19pm
+
+* New screenings: 
+    * [Origin](https://drafthouse.com/raleigh/show/origin): Thu 1/25 (8:30pm)
+
 ### Sun 1/21 8:33pm
 * New movies: The Devil's Rejects
 
