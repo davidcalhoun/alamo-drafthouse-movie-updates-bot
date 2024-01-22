@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 1/22 4:17pm
+
+* New screenings: 
+    * [Origin](https://drafthouse.com/raleigh/show/origin): Sat 1/27 (7:00pm), Sun 1/28 (7:00pm)
+
 ### Mon 1/22 1:25pm
 
 * New screenings: 
