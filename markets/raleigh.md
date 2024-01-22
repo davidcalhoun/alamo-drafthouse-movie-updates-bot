@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Sun 1/21 8:33pm
+* New movies: The Devil's Rejects
+
+* New screenings: 
+    * [Terror Tuesday The Devils Rejects](https://drafthouse.com/raleigh/show/terror-tuesday-the-devils-rejects): Tue 1/23 (9:45pm)
+
 ### Fri 1/19 1:25pm
 * New movies: How to Have Sex
 
