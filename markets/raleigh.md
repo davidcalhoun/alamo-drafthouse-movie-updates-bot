@@ -1,6 +1,44 @@
 # raleigh
 
 ## Movie updates
+### Mon 1/22 8:25pm
+* New movies: Godzilla Minus One Minus Color, Barbie, Oppenheimer, The Lord of the Rings: The Return of the King: Extended Edition, Thanksgiving, The Holdovers
+
+* New screenings: 
+    * [All Of Us Strangers](https://drafthouse.com/raleigh/show/all-of-us-strangers): Thu 1/25 (1:00pm, 4:30pm, 7:45pm, 10:35pm), Fri 1/26 (1:30pm, 4:45pm, 8:00pm, 11:15pm), Sat 1/27 (1:30pm, 4:45pm, 8:00pm, 11:15pm), Sun 1/28 (1:15pm, 4:25pm, 7:45pm, 10:45pm), Mon 1/29 (1:30pm, 4:45pm, 7:45pm, 11:15pm), Tue 1/30 (1:30pm, 4:45pm, 8:15pm, 11:15pm)
+
+    * [American Fiction](https://drafthouse.com/raleigh/show/american-fiction): Thu 1/25 (1:15pm, 4:15pm, 7:25pm, 10:30pm), Fri 1/26 (1:15pm, 4:20pm, 7:45pm, 10:45pm), Sat 1/27 (1:15pm, 4:15pm, 7:45pm, 10:50pm), Sun 1/28 (12:30pm, 4:15pm, 7:30pm, 10:45pm), Mon 1/29 (1:15pm, 4:45pm, 8:00pm, 11:00pm), Tue 1/30 (1:15pm, 4:30pm, 8:00pm, 10:45pm)
+
+    * [Barbie](https://drafthouse.com/raleigh/show/barbie): Fri 1/26 (1:00pm, 7:30pm), Sat 1/27 (7:30pm), Sun 1/28 (7:15pm), Mon 1/29 (1:00pm, 7:35pm), Tue 1/30 (1:00pm)
+
+    * [Godzilla Minus One Minus Color](https://drafthouse.com/raleigh/show/godzilla-minus-one-minus-color): Thu 1/25 (7:15pm, 8:00pm, 10:45pm), Fri 1/26 (4:15pm, 8:00pm, 11:00pm), Sat 1/27 (8:15pm, 11:00pm), Sun 1/28 (6:45pm, 10:15pm), Mon 1/29 (4:00pm, 11:00pm), Tue 1/30 (11:00pm)
+
+    * [I S S](https://drafthouse.com/raleigh/show/i-s-s): Thu 1/25 (12:45pm, 6:30pm), Fri 1/26 (4:30pm, 7:15pm), Sat 1/27 (11:30am, 8:00pm), Sun 1/28 (4:00pm, 6:20pm), Mon 1/29 (4:35pm, 7:15pm), Tue 1/30 (4:35pm, 7:15pm)
+
+    * [Mean Girls 2024](https://drafthouse.com/raleigh/show/mean-girls-2024): Thu 1/25 (12:00pm, 3:00pm, 6:15pm, 9:30pm), Fri 1/26 (11:30am, 2:45pm, 6:00pm, 9:15pm), Sat 1/27 (11:40am, 2:45pm, 6:00pm, 9:15pm), Sun 1/28 (11:35am, 2:35pm, 6:00pm, 9:25pm), Mon 1/29 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Tue 1/30 (11:30am, 2:45pm, 6:00pm, 9:15pm)
+
+    * [Oppenheimer](https://drafthouse.com/raleigh/show/oppenheimer): Thu 1/25 (3:45pm), Fri 1/26 (3:45pm), Sat 1/27 (4:00pm), Sun 1/28 (3:10pm), Mon 1/29 (3:15pm), Tue 1/30 (3:45pm)
+
+    * [Origin](https://drafthouse.com/raleigh/show/origin): Thu 1/25 (1:30pm, 5:00pm, 11:10pm), Fri 1/26 (11:30am, 3:20pm, 10:30pm), Sat 1/27 (12:30pm, 4:05pm, 10:30pm), Sun 1/28 (12:00pm, 3:30pm, 10:30pm), Mon 1/29 (12:00pm, 3:25pm, 7:25pm, 10:30pm), Tue 1/30 (11:30am, 3:20pm, 7:00pm, 10:30pm)
+
+    * [Poor Things](https://drafthouse.com/raleigh/show/poor-things): Thu 1/25 (11:55am, 3:20pm, 6:45pm, 10:15pm), Fri 1/26 (11:45am, 3:10pm, 6:45pm, 10:15pm), Sat 1/27 (11:50am, 3:15pm, 6:45pm, 10:15pm), Sun 1/28 (11:15am, 2:45pm, 6:10pm, 9:35pm), Mon 1/29 (11:45am, 3:10pm, 6:45pm, 10:15pm), Tue 1/30 (11:45am, 3:10pm, 6:45pm, 10:15pm)
+
+    * [Thanksgiving](https://drafthouse.com/raleigh/show/thanksgiving): Thu 1/25 (3:35pm), Fri 1/26 (10:00pm), Sat 1/27 (10:40pm), Sun 1/28 (10:00pm), Mon 1/29 (10:00pm), Tue 1/30 (10:00pm)
+
+    * [The Beekeeper](https://drafthouse.com/raleigh/show/the-beekeeper): Thu 1/25 (1:30pm, 4:50pm, 8:15pm, 11:15pm), Fri 1/26 (1:25pm, 4:55pm, 8:15pm, 11:30pm), Sat 1/27 (1:25pm, 4:55pm, 8:15pm, 11:30pm), Sun 1/28 (1:00pm, 4:35pm, 8:15pm, 11:20pm), Mon 1/29 (1:30pm, 4:40pm, 8:15pm, 11:30pm), Tue 1/30 (1:45pm, 4:55pm, 8:30pm, 11:30pm)
+
+    * [The Book Of Clarence](https://drafthouse.com/raleigh/show/the-book-of-clarence): Thu 1/25 (12:30pm), Fri 1/26 (12:15pm), Sat 1/27 (12:25pm), Sun 1/28 (12:45pm), Mon 1/29 (12:00pm), Tue 1/30 (12:15pm)
+
+    * [The Holdovers](https://drafthouse.com/raleigh/show/the-holdovers): Thu 1/25 (9:15pm), Fri 1/26 (12:45pm), Sat 1/27 (12:45pm), Sun 1/28 (11:50am), Mon 1/29 (1:15pm), Tue 1/30 (1:15pm)
+
+    * [The Lord Of The Rings The Return Of The King Extended Edition](https://drafthouse.com/raleigh/show/the-lord-of-the-rings-the-return-of-the-king-extended-edition): Thu 1/25 (1:45pm)
+
+    * [The Matrix](https://drafthouse.com/raleigh/show/the-matrix): Fri 1/26 (11:15pm), Sun 1/28 (9:15pm), Mon 1/29 (11:15pm)
+
+    * [The Zone Of Interest](https://drafthouse.com/raleigh/show/the-zone-of-interest): Thu 1/25 (11:45am, 3:00pm, 6:00pm, 9:30pm), Fri 1/26 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sat 1/27 (12:15pm, 3:30pm, 6:30pm, 9:30pm), Sun 1/28 (11:25am, 2:00pm, 5:00pm, 8:00pm, 11:00pm), Mon 1/29 (12:20pm, 3:10pm, 6:00pm, 9:00pm), Tue 1/30 (12:30pm, 3:30pm, 6:30pm, 9:00pm)
+
+    * [Wonka](https://drafthouse.com/raleigh/show/wonka): Thu 1/25 (12:15pm, 4:00pm, 7:00pm, 10:00pm), Fri 1/26 (12:00pm, 3:00pm, 6:15pm, 9:45pm), Sat 1/27 (12:00pm, 3:00pm, 6:15pm, 9:45pm), Sun 1/28 (11:45am, 2:45pm, 6:30pm, 9:45pm), Mon 1/29 (12:15pm, 3:30pm, 6:30pm, 9:45pm), Tue 1/30 (12:00pm, 3:00pm, 6:15pm, 9:45pm)
+
 ### Mon 1/22 4:17pm
 
 * New screenings: 
