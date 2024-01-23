@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 1/22 6:31pm
+
+* New screenings: 
+    * [The Book Of Clarence](https://drafthouse.com/los-angeles/show/the-book-of-clarence): Thu 1/25 (2:25pm)
+
 ### Mon 1/22 3:16pm
 * New movies: Godzilla Minus One Minus Color, Barbie, Oppenheimer, Anatomy of a Fall, The Holdovers
 
