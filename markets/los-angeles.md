@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Wed 1/24 5:19am
+* New movies: Lisa Frankenstein, Lisa Frankenstein, Lisa Frankenstein, Lisa Frankenstein
+
+* New screenings: 
+    * [Brunch Screenings Lisa Frankenstein Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-lisa-frankenstein-brunch): Sat 2/10 (11:00am), Sun 2/11 (11:00am)
+
+    * [Costume Screening Lisa Frankenstein 80s Costume Party](https://drafthouse.com/los-angeles/show/costume-screening-lisa-frankenstein-80s-costume-party): Thu 2/8 (6:30pm), Sat 2/10 (7:40pm)
+
+    * [Lisa Frankenstein](https://drafthouse.com/los-angeles/show/lisa-frankenstein): Thu 2/8 (9:30pm), Fri 2/9 (12:30pm, 3:30pm), Sat 2/10 (1:50pm, 4:45pm, 10:35pm), Sun 2/11 (2:00pm, 5:00pm, 8:00pm), Mon 2/12 (4:50pm, 7:45pm, 10:40pm), Tue 2/13 (11:00am, 1:50pm, 4:45pm, 7:40pm, 10:35pm), Wed 2/14 (4:50pm, 7:45pm, 10:40pm), Thu 2/15 (4:50pm, 7:45pm, 10:40pm), Fri 2/16 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sat 2/17 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sun 2/18 (12:30pm, 3:30pm, 6:30pm), Mon 2/19 (3:30pm, 6:30pm, 9:30pm), Tue 2/20 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Wed 2/21 (3:30pm, 6:30pm, 9:30pm)
+
+    * [Live Q A Lisa Frankenstein](https://drafthouse.com/los-angeles/show/live-q-a-lisa-frankenstein): Fri 2/9 (6:30pm)
+
 ### Tue 1/23 10:21pm
 * New movies: Bob Marley: One Love
 
