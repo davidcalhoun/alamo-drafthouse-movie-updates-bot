@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Wed 1/24 12:17pm
+* New movies: The Sweet East
+
+* New screenings: 
+    * [Argylle](https://drafthouse.com/los-angeles/show/argylle): Mon 2/19 (3:15pm, 6:45pm, 10:15pm)
+
+    * [Blonde Death](https://drafthouse.com/los-angeles/show/blonde-death): Wed 2/21 (7:15pm)
+
+    * [Bob Marley One Love](https://drafthouse.com/los-angeles/show/bob-marley-one-love): Mon 2/19 (1:55pm)
+
+    * [The Sweet East](https://drafthouse.com/los-angeles/show/the-sweet-east): Thu 2/15 (7:15pm), Fri 2/16 (2:15pm), Sat 2/17 (4:15pm), Sun 2/18 (8:00pm), Mon 2/19 (6:15pm), Tue 2/20 (11:00am), Wed 2/21 (5:00pm)
+
 ### Wed 1/24 5:19am
 * New movies: Lisa Frankenstein, Lisa Frankenstein, Lisa Frankenstein, Lisa Frankenstein
 
