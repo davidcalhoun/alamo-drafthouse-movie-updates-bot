@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Wed 1/24 1:23pm
+
+* New screenings: 
+    * [Lisa Frankenstein](https://drafthouse.com/raleigh/show/lisa-frankenstein): Sun 2/11 (6:30pm, 9:30pm)
+
 ### Wed 1/24 12:19pm
 * New movies: Lisa Frankenstein, Lisa Frankenstein
 
