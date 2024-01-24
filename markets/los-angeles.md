@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 1/23 10:21pm
+* New movies: Bob Marley: One Love
+
+* New screenings: 
+    * [Bob Marley One Love](https://drafthouse.com/los-angeles/show/bob-marley-one-love): Wed 2/14 (7:00pm, 10:00pm), Thu 2/15 (4:00pm, 7:00pm, 10:00pm), Fri 2/16 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:40pm), Sat 2/17 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:40pm), Sun 2/18 (11:00am, 1:55pm, 4:50pm, 7:45pm), Mon 2/19 (4:50pm, 7:45pm, 10:40pm), Tue 2/20 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:40pm), Wed 2/21 (7:45pm)
+
 ### Mon 1/22 6:31pm
 
 * New screenings: 
