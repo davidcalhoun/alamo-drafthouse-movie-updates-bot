@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Wed 1/24 12:19pm
+* New movies: Lisa Frankenstein, Lisa Frankenstein
+
+* New screenings: 
+    * [Costume Screening Lisa Frankenstein 80s Costume Party](https://drafthouse.com/raleigh/show/costume-screening-lisa-frankenstein-80s-costume-party): Sat 2/10 (6:30pm)
+
+    * [Lisa Frankenstein](https://drafthouse.com/raleigh/show/lisa-frankenstein): Thu 2/8 (6:45pm, 9:30pm), Fri 2/9 (6:45pm, 9:45pm), Sat 2/10 (9:30pm)
+
 ### Mon 1/22 8:25pm
 * New movies: Godzilla Minus One Minus Color, Barbie, Oppenheimer, The Lord of the Rings: The Return of the King: Extended Edition, Thanksgiving, The Holdovers
 
