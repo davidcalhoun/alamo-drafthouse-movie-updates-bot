@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 1/25 6:19pm
+* New movies: The Sweet East
+
+* New screenings: 
+    * [The Sweet East](https://drafthouse.com/raleigh/show/the-sweet-east): Fri 2/16 (1:30pm), Sun 2/18 (11:30am), Mon 2/19 (7:15pm)
+
 ### Thu 1/25 12:19pm
 * New movies: Bob Marley: One Love
 
