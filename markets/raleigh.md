@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 1/25 12:19pm
+* New movies: Bob Marley: One Love
+
+* New screenings: 
+    * [Bob Marley One Love](https://drafthouse.com/raleigh/show/bob-marley-one-love): Wed 2/14 (6:15pm), Thu 2/15 (6:15pm), Fri 2/16 (7:30pm), Sat 2/17 (7:30pm), Sun 2/18 (7:30pm)
+
 ### Wed 1/24 1:23pm
 
 * New screenings: 
