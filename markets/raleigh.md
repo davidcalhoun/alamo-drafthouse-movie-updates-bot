@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Fri 1/26 3:18pm
+* New movies: American Pie, One from the Heart: Reprise
+
+* New screenings: 
+    * [American Pie](https://drafthouse.com/raleigh/show/american-pie): Mon 2/26 (10:00pm), Tue 2/27 (6:45pm)
+
+    * [Before Sunrise Before Sunset Double Feature](https://drafthouse.com/raleigh/show/before-sunrise-before-sunset-double-feature): Mon 2/12 (2:30pm)
+
+    * [One From The Heart Reprise](https://drafthouse.com/raleigh/show/one-from-the-heart-reprise): Sun 2/25 (2:45pm), Tue 2/27 (7:00pm)
+
 ### Fri 1/26 12:17pm
 * New movies: Dune: Part Two
 
