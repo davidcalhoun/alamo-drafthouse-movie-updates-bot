@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 1/26 9:12am
+* New movies: Dune: Part Two
+
+* New screenings: 
+    * [Dune Part Two](https://drafthouse.com/los-angeles/show/dune-part-two): Thu 2/29 (3:00pm, 6:00pm, 7:00pm, 10:00pm), Fri 3/1 (10:30am, 1:00pm, 2:30pm, 5:00pm, 6:30pm, 9:00pm, 10:30pm), Sat 3/2 (10:30am, 1:00pm, 2:30pm, 5:00pm, 6:30pm, 9:00pm, 10:30pm), Sun 3/3 (10:30am, 11:30am, 2:30pm, 3:30pm, 6:30pm, 7:30pm), Mon 3/4 (11:00am, 1:00pm, 3:00pm, 5:00pm, 7:00pm, 9:00pm), Tue 3/5 (11:00am, 1:00pm, 3:00pm, 5:00pm, 7:00pm, 9:00pm), Wed 3/6 (11:00am, 1:00pm, 3:00pm, 5:00pm, 7:00pm, 9:00pm), Thu 3/7 (11:00am, 1:00pm, 3:00pm, 5:00pm, 7:00pm, 9:00pm), Fri 3/8 (11:00am, 3:00pm, 7:00pm), Sat 3/9 (11:00am, 3:00pm, 7:00pm), Sun 3/10 (11:00am, 3:00pm, 7:00pm), Mon 3/11 (11:00am, 3:00pm, 7:00pm), Tue 3/12 (11:00am, 3:00pm, 7:00pm), Wed 3/13 (11:00am, 3:00pm, 7:00pm)
+
 ### Wed 1/24 12:17pm
 * New movies: The Sweet East
 
