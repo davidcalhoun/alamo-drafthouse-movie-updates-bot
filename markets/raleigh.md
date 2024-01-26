@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 1/26 12:17pm
+* New movies: Dune: Part Two
+
+* New screenings: 
+    * [Dune Part Two](https://drafthouse.com/raleigh/show/dune-part-two): Fri 3/1 (11:00am, 1:00pm, 3:00pm, 5:00pm, 7:00pm, 9:00pm), Sat 3/2 (11:00am, 1:00pm, 3:00pm, 5:00pm, 7:00pm, 9:00pm), Sun 3/3 (11:00am, 1:00pm, 3:00pm, 5:00pm, 7:00pm, 9:00pm), Mon 3/4 (11:00am, 1:00pm, 3:00pm, 5:00pm, 7:00pm, 9:00pm), Tue 3/5 (11:00am, 1:00pm, 3:00pm, 5:00pm, 7:00pm, 9:00pm), Wed 3/6 (11:00am, 1:00pm, 3:00pm, 5:00pm, 7:00pm, 9:00pm), Thu 3/7 (1:00pm, 5:00pm, 9:00pm), Fri 3/8 (11:00am, 3:00pm, 7:00pm), Sat 3/9 (11:00am, 3:00pm, 7:00pm), Sun 3/10 (11:00am, 3:00pm, 7:00pm), Mon 3/11 (11:00am, 3:00pm, 7:00pm), Tue 3/12 (11:00am, 3:00pm, 7:00pm), Wed 3/13 (11:00am, 3:00pm, 7:00pm)
+
 ### Thu 1/25 6:19pm
 * New movies: The Sweet East
 
