@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 1/29 3:19pm
+
+* New screenings: 
+    * [Madame Web](https://drafthouse.com/raleigh/show/madame-web): Wed 2/14 (7:15pm), Thu 2/15 (7:15pm)
+
 ### Mon 1/29 9:17am
 * New movies: Madame Web
 
