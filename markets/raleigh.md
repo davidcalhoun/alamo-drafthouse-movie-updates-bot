@@ -1,6 +1,64 @@
 # raleigh
 
 ## Movie updates
+### Mon 1/29 6:19pm
+* New movies: Anatomy of a Fall, The Boy and the Heron Dubbed, Past Lives, Corpse Bride, Notting Hill, The Talented Mr. Ripley
+
+* New screenings: 
+    * [All Of Us Strangers](https://drafthouse.com/raleigh/show/all-of-us-strangers): Thu 2/1 (1:00pm, 4:00pm, 7:20pm, 10:50pm), Fri 2/2 (12:30pm, 4:00pm, 7:15pm, 10:45pm), Sat 2/3 (1:00pm, 4:45pm, 8:15pm, 11:15pm), Sun 2/4 (12:15pm, 4:00pm, 7:30pm, 10:30pm), Mon 2/5 (12:30pm, 4:00pm, 7:15pm, 10:45pm), Tue 2/6 (12:30pm, 4:00pm, 7:15pm, 10:45pm), Wed 2/7 (12:50pm, 4:30pm, 8:00pm, 11:00pm)
+
+    * [American Fiction](https://drafthouse.com/raleigh/show/american-fiction): Thu 2/1 (1:15pm, 4:45pm, 8:00pm, 11:00pm), Fri 2/2 (1:00pm, 4:15pm, 7:30pm, 10:45pm), Sat 2/3 (12:00pm, 3:00pm, 6:30pm, 9:45pm), Sun 2/4 (12:40pm, 3:40pm, 7:10pm, 10:15pm), Mon 2/5 (12:45pm, 3:45pm, 7:15pm, 10:30pm), Tue 2/6 (12:45pm, 4:00pm, 7:15pm, 10:15pm), Wed 2/7 (1:00pm, 4:15pm, 7:15pm, 10:15pm)
+
+    * [Anatomy Of A Fall](https://drafthouse.com/raleigh/show/anatomy-of-a-fall): Fri 2/2 (11:15am), Sat 2/3 (11:15am), Mon 2/5 (12:00pm), Tue 2/6 (12:15pm), Wed 2/7 (11:50am)
+
+    * [Argylle](https://drafthouse.com/raleigh/show/argylle): Thu 2/1 (7:30pm, 11:00pm), Fri 2/2 (12:45pm, 4:30pm, 8:00pm), Sat 2/3 (5:45pm), Sun 2/4 (5:45pm), Mon 2/5 (11:00am, 12:45pm, 2:30pm, 4:15pm, 6:00pm, 9:30pm), Tue 2/6 (11:00am, 2:30pm, 6:00pm, 9:45pm), Wed 2/7 (11:00am, 12:15pm, 2:30pm, 6:00pm, 9:45pm)
+
+    * [Barbie](https://drafthouse.com/raleigh/show/barbie): Thu 2/1 (4:00pm)
+
+    * [Brunch Screenings Corpse Bride 2](https://drafthouse.com/raleigh/show/brunch-screenings-corpse-bride-2): Sun 2/4 (11:15am)
+
+    * [Brunch Screenings Notting Hill Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-notting-hill-brunch): Sat 2/3 (11:30am)
+
+    * [Corpse Bride](https://drafthouse.com/raleigh/show/corpse-bride): Sun 2/4 (3:50pm), Mon 2/5 (11:30am)
+
+    * [Eternal Sunshine Of The Spotless Mind](https://drafthouse.com/raleigh/show/eternal-sunshine-of-the-spotless-mind): Sat 2/3 (7:00pm), Sun 2/4 (6:30pm)
+
+    * [Godzilla Minus One Minus Color](https://drafthouse.com/raleigh/show/godzilla-minus-one-minus-color): Thu 2/1 (4:30pm, 7:45pm)
+
+    * [I S S](https://drafthouse.com/raleigh/show/i-s-s): Thu 2/1 (1:45pm), Fri 2/2 (11:30pm), Sat 2/3 (10:15pm), Sun 2/4 (10:15pm)
+
+    * [Malcolm X](https://drafthouse.com/raleigh/show/malcolm-x): Tue 2/6 (11:15am), Wed 2/7 (6:20pm)
+
+    * [Mean Girls 2024](https://drafthouse.com/raleigh/show/mean-girls-2024): Thu 2/1 (12:45pm, 3:45pm, 7:10pm, 10:30pm), Fri 2/2 (11:45am, 3:00pm, 6:45pm, 9:45pm), Sat 2/3 (12:30pm, 3:30pm, 6:00pm, 9:00pm), Sun 2/4 (12:30pm, 2:30pm, 6:00pm, 9:15pm), Mon 2/5 (11:30am, 3:00pm, 6:15pm, 9:45pm), Tue 2/6 (11:45am, 3:45pm, 6:40pm, 9:45pm), Wed 2/7 (11:45am, 3:45pm, 6:40pm, 9:45pm)
+
+    * [Notting Hill](https://drafthouse.com/raleigh/show/notting-hill): Tue 2/6 (11:10am)
+
+    * [Oppenheimer](https://drafthouse.com/raleigh/show/oppenheimer): Thu 2/1 (6:20pm), Fri 2/2 (2:50pm), Sun 2/4 (11:45am), Tue 2/6 (4:10pm)
+
+    * [Origin](https://drafthouse.com/raleigh/show/origin): Thu 2/1 (12:35pm), Fri 2/2 (2:10pm), Sat 2/3 (3:00pm), Sun 2/4 (2:15pm), Mon 2/5 (2:10pm), Tue 2/6 (2:20pm), Wed 2/7 (2:10pm)
+
+    * [Past Lives](https://drafthouse.com/raleigh/show/past-lives): Fri 2/2 (6:55pm), Sat 2/3 (2:50pm), Mon 2/5 (3:35pm), Tue 2/6 (8:15pm), Wed 2/7 (11:15am, 3:30pm)
+
+    * [Poor Things](https://drafthouse.com/raleigh/show/poor-things): Thu 2/1 (11:45am, 3:20pm, 6:45pm, 10:10pm), Fri 2/2 (11:15am, 2:40pm, 6:30pm, 10:00pm), Sat 2/3 (12:15pm, 3:45pm, 7:15pm, 11:00pm), Sun 2/4 (12:30pm, 4:00pm, 7:30pm, 11:00pm), Mon 2/5 (11:15am, 2:45pm, 6:45pm, 10:15pm), Tue 2/6 (11:20am, 3:15pm, 6:50pm, 10:15pm), Wed 2/7 (11:15am, 3:15pm, 6:50pm, 10:15pm)
+
+    * [Thanksgiving](https://drafthouse.com/raleigh/show/thanksgiving): Thu 2/1 (10:25pm)
+
+    * [The Beekeeper](https://drafthouse.com/raleigh/show/the-beekeeper): Thu 2/1 (1:30pm, 4:55pm, 8:30pm, 11:30pm), Fri 2/2 (1:00pm, 4:45pm, 7:45pm, 11:30pm), Sat 2/3 (12:25pm, 4:00pm, 7:30pm, 10:30pm), Sun 2/4 (12:50pm, 4:15pm, 7:45pm, 11:15pm), Mon 2/5 (1:00pm, 4:30pm, 8:00pm, 11:15pm), Tue 2/6 (1:00pm, 4:30pm, 8:00pm, 11:15pm), Wed 2/7 (12:00pm, 3:45pm, 7:30pm, 10:30pm)
+
+    * [The Book Of Clarence](https://drafthouse.com/raleigh/show/the-book-of-clarence): Thu 2/1 (11:45am, 3:00pm)
+
+    * [The Boy And The Heron Dubbed](https://drafthouse.com/raleigh/show/the-boy-and-the-heron-dubbed): Fri 2/2 (11:00am, 9:10pm), Sat 2/3 (10:00pm), Sun 2/4 (9:15pm), Mon 2/5 (7:45pm, 9:10pm), Tue 2/6 (9:10pm), Wed 2/7 (9:10pm)
+
+    * [The Holdovers](https://drafthouse.com/raleigh/show/the-holdovers): Thu 2/1 (4:10pm), Fri 2/2 (5:45pm), Sat 2/3 (6:30pm), Sun 2/4 (6:45pm), Mon 2/5 (5:45pm), Tue 2/6 (5:45pm), Wed 2/7 (5:45pm)
+
+    * [The Matrix](https://drafthouse.com/raleigh/show/the-matrix): Thu 2/1 (11:00pm)
+
+    * [The Talented Mr Ripley](https://drafthouse.com/raleigh/show/the-talented-mr-ripley): Thu 2/1 (12:45pm)
+
+    * [The Zone Of Interest](https://drafthouse.com/raleigh/show/the-zone-of-interest): Thu 2/1 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Fri 2/2 (11:00am, 2:30pm, 6:00pm, 9:00pm), Sat 2/3 (12:45pm, 4:30pm, 7:45pm, 10:45pm), Sun 2/4 (1:00pm, 4:30pm, 8:00pm, 11:30pm), Mon 2/5 (12:00pm, 3:30pm, 6:35pm, 10:45pm), Tue 2/6 (12:20pm, 3:30pm, 7:00pm, 10:45pm), Wed 2/7 (12:15pm, 3:20pm, 7:00pm, 10:45pm)
+
+    * [Wonka](https://drafthouse.com/raleigh/show/wonka): Thu 2/1 (12:25pm, 3:30pm, 6:30pm, 9:45pm), Fri 2/2 (12:15pm, 3:15pm, 6:15pm, 9:20pm), Sat 2/3 (11:15am, 2:45pm, 6:15pm, 9:20pm), Sun 2/4 (11:40am, 3:40pm, 6:15pm, 9:30pm), Mon 2/5 (12:15pm, 3:25pm, 6:25pm, 9:30pm), Tue 2/6 (12:00pm, 3:00pm, 6:15pm, 9:30pm), Wed 2/7 (12:00pm, 3:00pm, 6:10pm, 9:30pm)
+
 ### Mon 1/29 3:19pm
 
 * New screenings: 
