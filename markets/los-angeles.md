@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 1/29 6:13am
+* New movies: Madame Web
+
+* New screenings: 
+    * [Madame Web](https://drafthouse.com/los-angeles/show/madame-web): Wed 2/14 (6:45pm, 10:00pm), Thu 2/15 (3:30pm, 6:45pm, 10:00pm), Fri 2/16 (11:30am, 2:45pm, 6:00pm, 9:15pm), Sat 2/17 (11:30am, 2:45pm, 6:00pm, 9:15pm), Sun 2/18 (11:30am, 2:45pm, 6:00pm), Mon 2/19 (2:45pm, 6:00pm, 9:15pm), Tue 2/20 (11:30am, 2:45pm, 6:00pm, 9:15pm), Wed 2/21 (2:45pm, 6:00pm, 9:15pm)
+
 ### Fri 1/26 9:12am
 * New movies: Dune: Part Two
 
