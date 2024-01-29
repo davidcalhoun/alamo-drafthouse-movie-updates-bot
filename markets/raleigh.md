@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 1/29 9:17am
+* New movies: Madame Web
+
+* New screenings: 
+    * [Madame Web](https://drafthouse.com/raleigh/show/madame-web): Fri 2/16 (6:45pm), Sat 2/17 (6:45pm), Sun 2/18 (6:45pm)
+
 ### Fri 1/26 3:18pm
 * New movies: American Pie, One from the Heart: Reprise
 
