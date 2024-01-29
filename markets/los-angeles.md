@@ -1,6 +1,50 @@
 # los-angeles
 
 ## Movie updates
+### Mon 1/29 3:16pm
+* New movies: The Promised Land 2024, Sorcerer, Notting Hill
+
+* New screenings: 
+    * [All Of Us Strangers](https://drafthouse.com/los-angeles/show/all-of-us-strangers): Thu 2/1 (4:00pm, 7:20pm, 10:20pm), Fri 2/2 (12:40pm, 3:15pm, 7:10pm, 10:30pm), Sat 2/3 (12:30pm, 4:20pm, 7:20pm, 10:20pm), Sun 2/4 (12:10pm, 4:00pm, 7:45pm), Mon 2/5 (4:10pm, 7:10pm, 10:10pm), Tue 2/6 (12:40pm, 4:15pm, 7:20pm, 10:25pm), Wed 2/7 (4:15pm, 7:30pm, 10:30pm)
+
+    * [American Fiction](https://drafthouse.com/los-angeles/show/american-fiction): Thu 2/1 (3:30pm, 7:00pm, 10:10pm), Fri 2/2 (12:15pm, 3:30pm, 6:50pm, 10:00pm), Sat 2/3 (11:40am, 3:40pm, 6:50pm, 10:00pm), Sun 2/4 (12:25pm, 3:35pm, 6:45pm), Mon 2/5 (3:35pm, 6:45pm, 9:55pm), Tue 2/6 (1:00pm, 3:40pm, 6:50pm, 10:00pm), Wed 2/7 (4:15pm, 6:50pm, 10:00pm)
+
+    * [Argylle](https://drafthouse.com/los-angeles/show/argylle): Thu 2/1 (5:30pm, 9:00pm), Fri 2/2 (12:30pm, 2:00pm, 5:30pm, 9:15pm), Sat 2/3 (10:45am, 2:15pm, 5:45pm), Sun 2/4 (2:30pm, 6:00pm), Mon 2/5 (2:15pm, 5:45pm, 8:45pm), Tue 2/6 (11:00am, 2:15pm, 5:45pm, 9:00pm), Wed 2/7 (2:15pm, 5:45pm, 9:15pm)
+
+    * [Corpse Bride](https://drafthouse.com/los-angeles/show/corpse-bride): Sat 2/3 (2:05pm), Tue 2/6 (1:55pm), Wed 2/7 (10:15pm)
+
+    * [Eternal Sunshine Of The Spotless Mind](https://drafthouse.com/los-angeles/show/eternal-sunshine-of-the-spotless-mind): Mon 2/5 (9:15pm), Tue 2/6 (11:10am)
+
+    * [Godzilla Minus One Minus Color](https://drafthouse.com/los-angeles/show/godzilla-minus-one-minus-color): Thu 2/1 (3:00pm)
+
+    * [How To Have Sex](https://drafthouse.com/los-angeles/show/how-to-have-sex): Thu 2/1 (7:00pm, 9:45pm), Fri 2/2 (3:40pm, 6:30pm, 9:00pm), Sat 2/3 (11:00pm), Mon 2/5 (2:00pm)
+
+    * [I S S](https://drafthouse.com/los-angeles/show/i-s-s): Thu 2/1 (3:00pm)
+
+    * [Man On The Moon](https://drafthouse.com/los-angeles/show/man-on-the-moon): Fri 2/2 (4:00pm), Tue 2/6 (9:15pm), Wed 2/7 (3:20pm)
+
+    * [Mean Girls 2024](https://drafthouse.com/los-angeles/show/mean-girls-2024): Thu 2/1 (3:00pm, 6:20pm, 9:25pm), Fri 2/2 (1:15pm, 4:20pm, 7:30pm, 10:35pm), Sat 2/3 (12:10pm, 3:15pm, 6:25pm, 9:40pm), Sun 2/4 (11:25am, 3:10pm, 6:20pm), Mon 2/5 (3:10pm, 6:25pm, 9:35pm), Tue 2/6 (12:10pm, 3:15pm, 6:30pm, 9:40pm), Wed 2/7 (3:35pm, 7:20pm, 10:25pm)
+
+    * [Notting Hill](https://drafthouse.com/los-angeles/show/notting-hill): Mon 2/5 (2:00pm)
+
+    * [One From The Heart Reprise](https://drafthouse.com/los-angeles/show/one-from-the-heart-reprise): Thu 2/1 (2:45pm)
+
+    * [Origin](https://drafthouse.com/los-angeles/show/origin): Thu 2/1 (5:45pm), Fri 2/2 (12:00pm), Sat 2/3 (4:30pm), Sun 2/4 (12:30pm), Mon 2/5 (5:15pm), Tue 2/6 (5:30pm), Wed 2/7 (3:40pm)
+
+    * [Poor Things](https://drafthouse.com/los-angeles/show/poor-things): Thu 2/1 (3:00pm, 6:00pm, 9:35pm), Fri 2/2 (11:25am, 3:00pm, 6:40pm, 10:20pm), Sat 2/3 (11:20am, 3:00pm, 6:35pm, 10:10pm), Sun 2/4 (11:15am, 2:50pm, 6:30pm), Mon 2/5 (3:00pm, 6:35pm, 10:10pm), Tue 2/6 (11:25am, 3:00pm, 6:40pm, 10:15pm), Wed 2/7 (2:45pm, 6:20pm, 10:00pm)
+
+    * [She Is Conann](https://drafthouse.com/los-angeles/show/she-is-conann): Thu 2/1 (9:20pm), Fri 2/2 (11:00am, 7:20pm), Sat 2/3 (11:10am), Sun 2/4 (7:15pm), Mon 2/5 (9:45pm), Tue 2/6 (11:00am, 2:30pm, 4:20pm), Wed 2/7 (9:35pm)
+
+    * [Sorcerer](https://drafthouse.com/los-angeles/show/sorcerer): Thu 2/1 (2:45pm)
+
+    * [The Book Of Clarence](https://drafthouse.com/los-angeles/show/the-book-of-clarence): Thu 2/1 (3:40pm)
+
+    * [The Iron Claw](https://drafthouse.com/los-angeles/show/the-iron-claw): Thu 2/1 (3:50pm, 6:40pm, 10:05pm), Fri 2/2 (11:45am, 3:45pm, 6:15pm, 9:45pm), Sat 2/3 (12:50pm, 2:50pm, 10:00pm), Sun 2/4 (11:20am, 2:45pm, 6:10pm), Mon 2/5 (2:30pm, 6:00pm, 9:25pm), Tue 2/6 (11:10am, 2:35pm, 6:00pm, 9:25pm), Wed 2/7 (2:30pm, 6:00pm, 9:25pm)
+
+    * [The Promised Land 2024](https://drafthouse.com/los-angeles/show/the-promised-land-2024): Thu 2/1 (6:10pm, 9:30pm), Fri 2/2 (11:10am, 2:30pm, 6:00pm, 9:25pm), Sat 2/3 (11:20am, 2:40pm, 6:10pm, 9:30pm), Sun 2/4 (12:45pm, 4:15pm, 7:00pm), Mon 2/5 (2:45pm, 6:10pm, 9:30pm), Tue 2/6 (11:30am, 2:50pm, 6:15pm, 9:35pm), Wed 2/7 (2:50pm, 6:10pm, 9:30pm)
+
+    * [The Zone Of Interest](https://drafthouse.com/los-angeles/show/the-zone-of-interest): Thu 2/1 (4:30pm, 7:30pm, 10:25pm), Fri 2/2 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:45pm), Sat 2/3 (10:45am, 1:45pm, 4:50pm, 7:45pm, 10:45pm), Sun 2/4 (11:00am, 2:00pm, 5:00pm, 8:00pm), Mon 2/5 (2:00pm, 4:50pm, 7:45pm, 10:40pm), Tue 2/6 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:45pm), Wed 2/7 (2:00pm, 4:50pm, 7:45pm, 10:40pm)
+
 ### Mon 1/29 6:13am
 * New movies: Madame Web
 
