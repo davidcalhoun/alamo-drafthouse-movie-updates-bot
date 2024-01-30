@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 1/30 1:22pm
+* New movies: Perfect Days
+
+* New screenings: 
+    * [Perfect Days](https://drafthouse.com/raleigh/show/perfect-days): Thu 2/22 (6:00pm, 9:15pm), Fri 2/23 (7:15pm), Sat 2/24 (7:15pm), Sun 2/25 (7:15pm)
+
 ### Mon 1/29 6:19pm
 * New movies: Anatomy of a Fall, The Boy and the Heron Dubbed, Past Lives, Corpse Bride, Notting Hill, The Talented Mr. Ripley
 
