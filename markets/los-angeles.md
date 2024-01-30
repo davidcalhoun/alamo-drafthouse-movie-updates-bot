@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Tue 1/30 2:13pm
+* New movies: Perfect Days
+
+* New screenings: 
+    * [Argylle](https://drafthouse.com/los-angeles/show/argylle): Wed 2/14 (2:40pm)
+
+    * [Madame Web](https://drafthouse.com/los-angeles/show/madame-web): Wed 2/14 (3:30pm)
+
+    * [Perfect Days](https://drafthouse.com/los-angeles/show/perfect-days): Thu 2/22 (6:00pm, 9:20pm), Fri 2/23 (12:00pm, 3:20pm, 6:40pm, 10:00pm), Sat 2/24 (12:00pm, 3:20pm, 6:40pm, 10:00pm), Sun 2/25 (12:00pm, 3:20pm, 6:40pm), Mon 2/26 (3:20pm, 6:40pm, 10:00pm), Tue 2/27 (12:00pm, 3:20pm, 6:40pm, 10:00pm), Wed 2/28 (3:20pm, 6:40pm, 10:00pm)
+
 ### Mon 1/29 3:16pm
 * New movies: The Promised Land 2024, Sorcerer, Notting Hill
 
