@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 1/31 10:18am
+* New movies: Out of Darkness
+
+* New screenings: 
+    * [Out Of Darkness](https://drafthouse.com/raleigh/show/out-of-darkness): Thu 2/8 (7:00pm, 9:45pm), Fri 2/9 (7:00pm, 9:45pm), Sat 2/10 (7:00pm, 9:45pm), Sun 2/11 (7:00pm, 9:45pm)
+
 ### Tue 1/30 1:22pm
 * New movies: Perfect Days
 
