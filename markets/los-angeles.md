@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 1/31 7:15am
+* New movies: Out of Darkness
+
+* New screenings: 
+    * [Out Of Darkness](https://drafthouse.com/los-angeles/show/out-of-darkness): Thu 2/8 (7:45pm, 10:30pm), Fri 2/9 (11:15am, 2:00pm, 4:45pm, 7:30pm), Sat 2/10 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Sun 2/11 (11:15am, 2:00pm, 4:45pm, 7:30pm), Mon 2/12 (2:00pm, 4:45pm, 7:30pm, 10:15pm), Wed 2/14 (3:45pm, 6:15pm, 10:15pm)
+
 ### Tue 1/30 2:13pm
 * New movies: Perfect Days
 
