@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Thu 2/1 6:14am
+* New movies: The Taste of Things, The Taste of Things, The Taste of Things, The Taste of Things
+
+* New screenings: 
+    * [Advance Screening The Taste Of Things Early Access](https://drafthouse.com/los-angeles/show/advance-screening-the-taste-of-things-early-access): Thu 2/8 (6:45pm)
+
+    * [Brunch Screenings The Taste Of Things Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-the-taste-of-things-brunch): Sat 2/17 (11:15am), Sun 2/18 (11:15am)
+
+    * [Special Menu The Taste Of Things Feast](https://drafthouse.com/los-angeles/show/special-menu-the-taste-of-things-feast): Mon 2/12 (7:15pm)
+
+    * [The Taste Of Things](https://drafthouse.com/los-angeles/show/the-taste-of-things): Tue 2/13 (3:00pm, 6:30pm, 10:00pm), Wed 2/14 (2:30pm, 6:00pm, 9:30pm), Thu 2/15 (4:00pm, 6:15pm, 9:45pm), Fri 2/16 (11:15am, 2:45pm, 6:15pm, 9:45pm), Sat 2/17 (2:45pm, 6:15pm, 9:45pm), Sun 2/18 (2:45pm, 6:15pm)
+
 ### Wed 1/31 11:14pm
 
 * New screenings: 
