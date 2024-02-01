@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 2/1 3:18pm
+* New movies: She's All That
+
+* New screenings: 
+    * [Shes All That](https://drafthouse.com/raleigh/show/shes-all-that): Sun 2/11 (6:15pm)
+
 ### Thu 2/1 9:18am
 * New movies: The Taste of Things
 
