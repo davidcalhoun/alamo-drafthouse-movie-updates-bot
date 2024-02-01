@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 2/1 6:17pm
+* New movies: The Taste of Things
+
+* New screenings: 
+    * [Advance Screening The Taste Of Things Early Access](https://drafthouse.com/raleigh/show/advance-screening-the-taste-of-things-early-access): Thu 2/8 (7:15pm)
+
 ### Thu 2/1 3:18pm
 * New movies: She's All That
 
