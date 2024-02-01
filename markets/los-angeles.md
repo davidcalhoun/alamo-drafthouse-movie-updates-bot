@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 2/1 11:13am
+
+* New screenings: 
+    * [She Is Conann](https://drafthouse.com/los-angeles/show/she-is-conann): Fri 2/2 (10:30pm), Sat 2/3 (10:30pm), Sun 2/4 (6:10pm)
+
 ### Thu 2/1 6:14am
 * New movies: The Taste of Things, The Taste of Things, The Taste of Things, The Taste of Things
 
