@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 2/1 9:18am
+* New movies: The Taste of Things
+
+* New screenings: 
+    * [The Taste Of Things](https://drafthouse.com/raleigh/show/the-taste-of-things): Tue 2/13 (3:00pm, 6:30pm, 10:00pm), Wed 2/14 (6:45pm, 10:15pm), Thu 2/15 (6:45pm, 10:15pm)
+
 ### Wed 1/31 10:18am
 * New movies: Out of Darkness
 
