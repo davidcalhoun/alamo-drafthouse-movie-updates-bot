@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 2/2 6:13am
+* New movies: Demon Slayer: Kimetsu No Yaiba - To the Hashira Training Dubbed, Demon Slayer: Kimetsu No Yaiba - To the Hashira Training Subtitled
+
+* New screenings: 
+    * [Demon Slayer Kimetsu No Yaiba To The Hashira Training Dubbed](https://drafthouse.com/los-angeles/show/demon-slayer-kimetsu-no-yaiba-to-the-hashira-training-dubbed): Thu 2/22 (4:00pm, 10:00pm), Fri 2/23 (1:40pm, 7:30pm), Sat 2/24 (10:45am, 4:35pm, 10:25pm), Sun 2/25 (1:55pm, 7:45pm), Mon 2/26 (4:30pm, 10:30pm), Tue 2/27 (1:50pm, 7:30pm), Wed 2/28 (4:30pm, 10:30pm)
+
+    * [Demon Slayer Kimetsu No Yaiba To The Hashira Training Subtitled](https://drafthouse.com/los-angeles/show/demon-slayer-kimetsu-no-yaiba-to-the-hashira-training-subtitled): Thu 2/22 (7:00pm), Fri 2/23 (10:45am, 4:35pm, 10:25pm), Sat 2/24 (1:40pm, 7:30pm), Sun 2/25 (11:00am, 4:50pm), Mon 2/26 (7:30pm), Tue 2/27 (11:00am, 4:40pm, 10:30pm), Wed 2/28 (7:30pm)
+
 ### Thu 2/1 11:13am
 
 * New screenings: 
