@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Fri 2/2 9:17am
+* New movies: Demon Slayer: Kimetsu No Yaiba - To the Hashira Training Subtitled, Demon Slayer: Kimetsu No Yaiba - To the Hashira Training Dubbed
+
+* New screenings: 
+    * [Demon Slayer Kimetsu No Yaiba To The Hashira Training Dubbed](https://drafthouse.com/raleigh/show/demon-slayer-kimetsu-no-yaiba-to-the-hashira-training-dubbed): Thu 2/22 (7:00pm), Fri 2/23 (1:00pm, 7:00pm), Sat 2/24 (1:00pm, 7:00pm), Sun 2/25 (1:00pm, 7:00pm)
+
+    * [Demon Slayer Kimetsu No Yaiba To The Hashira Training Subtitled](https://drafthouse.com/raleigh/show/demon-slayer-kimetsu-no-yaiba-to-the-hashira-training-subtitled): Thu 2/22 (4:00pm, 10:00pm), Fri 2/23 (4:00pm, 10:00pm), Sat 2/24 (4:00pm, 10:00pm), Sun 2/25 (4:00pm, 10:00pm)
+
 ### Thu 2/1 6:17pm
 * New movies: The Taste of Things
 
