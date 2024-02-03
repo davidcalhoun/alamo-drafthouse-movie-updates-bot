@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Sat 2/3 9:16am
+* New movies: She's the Man
+
+* New screenings: 
+    * [Shes The Man](https://drafthouse.com/raleigh/show/shes-the-man): Tue 2/13 (6:45pm)
+
 ### Fri 2/2 9:17am
 * New movies: Demon Slayer: Kimetsu No Yaiba - To the Hashira Training Subtitled, Demon Slayer: Kimetsu No Yaiba - To the Hashira Training Dubbed
 
