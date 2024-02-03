@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 2/2 7:17pm
+
+* New screenings: 
+    * [Dune Part Two](https://drafthouse.com/los-angeles/show/dune-part-two): Thu 2/29 (5:00pm, 9:00pm), Fri 3/1 (11:30am, 3:30pm, 7:30pm), Sat 3/2 (11:30am, 3:30pm, 7:30pm), Sun 3/3 (11:00am, 3:00pm, 7:00pm)
+
 ### Fri 2/2 6:13am
 * New movies: Demon Slayer: Kimetsu No Yaiba - To the Hashira Training Dubbed, Demon Slayer: Kimetsu No Yaiba - To the Hashira Training Subtitled
 
