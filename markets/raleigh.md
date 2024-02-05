@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 2/5 8:19am
+* New movies: Drive-Away Dolls, Drive-Away Dolls
+
+* New screenings: 
+    * [Brunch Screenings Drive Away Dolls Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-drive-away-dolls-brunch): Thu 2/22 (5:00pm, 7:30pm, 10:00pm), Fri 2/23 (7:30pm), Sat 2/24 (7:30pm), Sun 2/25 (7:30pm)
+
 ### Sat 2/3 9:16am
 * New movies: She's the Man
 
