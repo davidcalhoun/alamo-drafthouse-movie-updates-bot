@@ -1,6 +1,62 @@
 # raleigh
 
 ## Movie updates
+### Mon 2/5 4:16pm
+* New movies: Dune 2021, The Best Man
+
+* New screenings: 
+    * [Amelie](https://drafthouse.com/raleigh/show/amelie): Fri 2/9 (5:40pm), Sat 2/10 (8:30pm)
+
+    * [American Fiction](https://drafthouse.com/raleigh/show/american-fiction): Thu 2/8 (12:15pm, 4:00pm, 8:00pm, 10:45pm), Fri 2/9 (11:15am, 3:00pm, 6:15pm, 9:30pm), Sat 2/10 (1:00pm, 4:15pm, 8:00pm, 11:15pm), Sun 2/11 (12:00pm, 3:00pm, 6:00pm, 9:45pm), Mon 2/12 (12:00pm, 3:00pm, 6:30pm, 9:45pm), Tue 2/13 (11:30am, 2:45pm, 6:30pm, 9:45pm)
+
+    * [Anatomy Of A Fall](https://drafthouse.com/raleigh/show/anatomy-of-a-fall): Thu 2/8 (1:00pm)
+
+    * [Argylle](https://drafthouse.com/raleigh/show/argylle): Thu 2/8 (11:30am, 1:15pm, 3:00pm, 6:30pm, 10:00pm), Fri 2/9 (11:00am, 2:30pm, 6:30pm, 10:00pm), Sat 2/10 (11:45am, 3:15pm, 7:15pm, 10:45pm), Sun 2/11 (11:15am, 2:45pm, 6:15pm, 9:45pm), Mon 2/12 (10:50am, 2:15pm, 6:00pm, 9:00pm), Tue 2/13 (11:00am, 2:30pm, 6:20pm, 10:00pm), Wed 2/14 (12:00pm, 3:45pm, 7:30pm, 11:00pm)
+
+    * [Before Sunrise Before Sunset Double Feature](https://drafthouse.com/raleigh/show/before-sunrise-before-sunset-double-feature): Fri 2/9 (8:45pm)
+
+    * [Bob Marley One Love](https://drafthouse.com/raleigh/show/bob-marley-one-love): Wed 2/14 (12:15pm, 3:15pm, 9:00pm)
+
+    * [Crouching Tiger Hidden Dragon](https://drafthouse.com/raleigh/show/crouching-tiger-hidden-dragon): Sun 2/11 (9:00pm)
+
+    * [How To Have Sex](https://drafthouse.com/raleigh/show/how-to-have-sex): Fri 2/9 (11:30am, 2:15pm), Mon 2/12 (11:15am, 2:15pm, 5:00pm, 8:00pm, 10:45pm), Tue 2/13 (11:00am, 2:30pm, 6:00pm, 10:15pm)
+
+    * [Lisa Frankenstein](https://drafthouse.com/raleigh/show/lisa-frankenstein): Fri 2/9 (12:30pm, 3:45pm), Sat 2/10 (12:30pm, 3:30pm), Sun 2/11 (12:20pm, 3:30pm), Mon 2/12 (1:00pm, 3:45pm, 10:15pm), Tue 2/13 (1:00pm, 4:30pm, 7:45pm, 10:30pm), Wed 2/14 (11:45am, 3:00pm, 6:00pm, 9:15pm)
+
+    * [Madame Web](https://drafthouse.com/raleigh/show/madame-web): Wed 2/14 (12:45pm, 4:00pm, 10:30pm)
+
+    * [Malcolm X](https://drafthouse.com/raleigh/show/malcolm-x): Thu 2/8 (12:00pm)
+
+    * [Mean Girls 2024](https://drafthouse.com/raleigh/show/mean-girls-2024): Thu 2/8 (11:45am, 2:50pm, 6:00pm, 9:00pm), Fri 2/9 (11:45am, 2:45pm, 6:00pm, 9:15pm), Sat 2/10 (12:15pm, 3:20pm, 6:20pm, 9:15pm), Sun 2/11 (12:15pm, 3:20pm, 6:25pm, 9:20pm), Mon 2/12 (11:45am, 3:30pm, 6:35pm, 10:15pm), Tue 2/13 (11:15am, 3:00pm, 6:10pm, 9:15pm)
+
+    * [Mississippi Masala](https://drafthouse.com/raleigh/show/mississippi-masala): Fri 2/9 (12:00pm), Sat 2/10 (5:15pm)
+
+    * [Origin](https://drafthouse.com/raleigh/show/origin): Thu 2/8 (3:35pm)
+
+    * [Out Of Darkness](https://drafthouse.com/raleigh/show/out-of-darkness): Fri 2/9 (12:45pm, 4:15pm), Sat 2/10 (12:30pm, 3:45pm), Sun 2/11 (12:00pm, 3:30pm), Mon 2/12 (12:45pm, 4:00pm, 7:30pm, 10:30pm), Tue 2/13 (12:15pm, 1:45pm, 4:25pm)
+
+    * [Past Lives](https://drafthouse.com/raleigh/show/past-lives): Thu 2/8 (12:45pm, 4:40pm)
+
+    * [Poor Things](https://drafthouse.com/raleigh/show/poor-things): Thu 2/8 (11:15am, 2:45pm, 6:10pm, 9:45pm), Fri 2/9 (12:15pm, 3:45pm, 7:15pm, 11:00pm), Sat 2/10 (11:15am, 2:45pm, 6:10pm, 10:00pm), Sun 2/11 (11:15am, 3:40pm, 7:10pm, 11:00pm), Mon 2/12 (12:30pm, 4:15pm, 7:45pm, 11:10pm), Tue 2/13 (12:30pm, 3:55pm, 7:20pm, 11:00pm)
+
+    * [Shes All That](https://drafthouse.com/raleigh/show/shes-all-that): Fri 2/9 (3:00pm)
+
+    * [Shes The Man](https://drafthouse.com/raleigh/show/shes-the-man): Mon 2/12 (12:00pm)
+
+    * [Special Event Dune 2021 Reissue](https://drafthouse.com/raleigh/show/special-event-dune-2021-reissue): Fri 2/9 (3:30pm, 7:30pm), Sat 2/10 (2:30pm, 6:45pm), Sun 2/11 (4:00pm, 8:00pm), Mon 2/12 (3:15pm, 7:15pm), Tue 2/13 (3:30pm, 7:30pm)
+
+    * [The Beekeeper](https://drafthouse.com/raleigh/show/the-beekeeper): Thu 2/8 (12:30pm, 4:30pm, 8:15pm, 11:15pm), Fri 2/9 (1:00pm, 4:50pm, 8:15pm, 11:15pm), Sat 2/10 (12:00pm, 3:45pm, 7:30pm, 11:00pm), Sun 2/11 (1:00pm, 4:45pm, 7:55pm, 11:00pm), Mon 2/12 (11:35am, 3:00pm, 6:45pm, 9:45pm), Tue 2/13 (12:00pm, 3:30pm, 7:00pm, 9:30pm)
+
+    * [The Best Man](https://drafthouse.com/raleigh/show/the-best-man): Mon 2/12 (5:55pm)
+
+    * [The Boy And The Heron Dubbed](https://drafthouse.com/raleigh/show/the-boy-and-the-heron-dubbed): Thu 2/8 (11:00pm)
+
+    * [The Holdovers](https://drafthouse.com/raleigh/show/the-holdovers): Thu 2/8 (4:30pm)
+
+    * [The Zone Of Interest](https://drafthouse.com/raleigh/show/the-zone-of-interest): Thu 2/8 (12:45pm, 3:50pm, 7:30pm, 10:30pm), Fri 2/9 (1:00pm, 4:40pm, 8:00pm, 11:00pm), Sat 2/10 (12:45pm, 4:45pm, 8:15pm, 11:05pm), Sun 2/11 (12:50pm, 4:15pm, 7:30pm, 10:45pm), Mon 2/12 (1:00pm, 4:30pm, 8:00pm, 11:00pm), Tue 2/13 (1:00pm, 4:45pm, 7:55pm, 10:45pm)
+
+    * [Wonka](https://drafthouse.com/raleigh/show/wonka): Thu 2/8 (12:15pm, 3:15pm, 6:20pm, 9:30pm), Fri 2/9 (12:30pm), Sat 2/10 (11:15am), Sun 2/11 (12:30pm), Mon 2/12 (12:15pm), Tue 2/13 (12:00pm)
+
 ### Mon 2/5 8:19am
 * New movies: Drive-Away Dolls, Drive-Away Dolls
 
