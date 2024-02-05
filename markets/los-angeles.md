@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Mon 2/5 5:16am
+* New movies: Drive-Away Dolls, Drive-Away Dolls
+
+* New screenings: 
+    * [Brunch Screenings Drive Away Dolls Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-drive-away-dolls-brunch): Thu 2/22 (5:00pm, 7:40pm, 10:20pm), Fri 2/23 (11:15am, 1:50pm, 4:25pm, 7:00pm, 9:40pm), Sat 2/24 (1:50pm, 4:25pm, 7:00pm, 9:40pm), Sun 2/25 (1:40pm, 4:20pm, 7:00pm), Mon 2/26 (4:15pm, 7:00pm, 9:40pm), Tue 2/27 (1:40pm, 4:20pm, 7:00pm, 9:40pm), Wed 2/28 (4:15pm, 7:00pm, 9:40pm)
+
+    * [Drive Away Dolls](https://drafthouse.com/los-angeles/show/drive-away-dolls): Sat 2/24 (11:15am), Sun 2/25 (11:00am), Tue 2/27 (11:00am)
+
 ### Fri 2/2 7:17pm
 
 * New screenings: 
