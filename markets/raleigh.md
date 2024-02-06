@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Tue 2/6 5:18pm
+
+* New screenings: 
+    * [Amelie](https://drafthouse.com/raleigh/show/amelie): Wed 2/14 (5:40pm)
+
+    * [Special Event Dune 2021 Reissue](https://drafthouse.com/raleigh/show/special-event-dune-2021-reissue): Sat 2/10 (8:45pm)
+
 ### Mon 2/5 4:16pm
 * New movies: Dune 2021, The Best Man
 
