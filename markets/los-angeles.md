@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 2/6 1:13pm
+* New movies: Stop Making Sense, Little Women 1994
+
+* New screenings: 
+    * [Little Women 1994](https://drafthouse.com/los-angeles/show/little-women-1994): Sun 3/3 (10:45am)
+
+    * [Stop Making Sense](https://drafthouse.com/los-angeles/show/stop-making-sense): Sat 3/30 (9:30pm), Sat 4/27 (9:30pm)
+
 ### Mon 2/5 9:14pm
 * New movies: Dune 2021, Twilight 2008
 
