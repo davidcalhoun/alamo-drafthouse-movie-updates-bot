@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Tue 2/6 2:13pm
+* New movies: 2024 Oscar Nominated Shorts: Live Action, 2024 Oscar Nominated Shorts: Animation
+
+* New screenings: 
+    * [2024 Oscar Nominated Shorts Animation](https://drafthouse.com/los-angeles/show/2024-oscar-nominated-shorts-animation): Thu 2/15 (9:30pm), Fri 2/16 (5:10pm, 7:45pm), Sat 2/17 (4:20pm, 10:30pm), Sun 2/18 (7:30pm), Mon 2/19 (4:20pm, 7:00pm), Tue 2/20 (4:20pm, 9:00pm), Wed 2/21 (7:00pm)
+
+    * [2024 Oscar Nominated Shorts Live Action](https://drafthouse.com/los-angeles/show/2024-oscar-nominated-shorts-live-action): Thu 2/15 (6:00pm), Fri 2/16 (1:00pm, 10:25pm), Sat 2/17 (12:45pm, 7:00pm), Sun 2/18 (12:30pm, 4:00pm), Mon 2/19 (9:40pm), Tue 2/20 (12:45pm, 5:20pm), Wed 2/21 (3:25pm, 9:40pm)
+
+    * [Amelie](https://drafthouse.com/los-angeles/show/amelie): Tue 2/20 (2:00pm)
+
 ### Tue 2/6 1:13pm
 * New movies: Stop Making Sense, Little Women 1994
 
