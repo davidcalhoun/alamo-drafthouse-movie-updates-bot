@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Wed 2/7 4:15pm
+
+* New screenings: 
+    * [Dune Part Two](https://drafthouse.com/raleigh/show/dune-part-two): Thu 2/29 (3:00pm, 5:00pm, 7:00pm, 9:00pm)
+
 ### Tue 2/6 5:18pm
 
 * New screenings: 
