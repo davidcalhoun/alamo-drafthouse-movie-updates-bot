@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 2/7 12:14pm
+
+* New screenings: 
+    * [Stop Making Sense](https://drafthouse.com/los-angeles/show/stop-making-sense): Sat 2/24 (9:10pm)
+
 ### Tue 2/6 2:13pm
 * New movies: 2024 Oscar Nominated Shorts: Live Action, 2024 Oscar Nominated Shorts: Animation
 
