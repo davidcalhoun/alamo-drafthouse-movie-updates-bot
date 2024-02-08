@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 2/8 3:16pm
+* New movies: Identikit aka The Driver's Seat
+
+* New screenings: 
+    * [The Drivers Seat](https://drafthouse.com/los-angeles/show/the-drivers-seat): Fri 3/1 (2:45pm)
+
 ### Thu 2/8 1:14pm
 * New movies: Dune 2021 Reissue
 
