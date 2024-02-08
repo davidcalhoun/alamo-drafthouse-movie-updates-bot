@@ -1,6 +1,22 @@
 # los-angeles
 
 ## Movie updates
+### Wed 2/7 5:06pm
+* New movies: On Cinema at the Cinema Special, Chungking Express, Michael Clayton, Orlando, The Invisible Fight, The Little Rascals
+
+* New screenings: 
+    * [Chungking Express](https://drafthouse.com/los-angeles/show/chungking-express): Tue 3/5 (7:15pm)
+
+    * [Michael Clayton](https://drafthouse.com/los-angeles/show/michael-clayton): Mon 3/4 (7:15pm)
+
+    * [On Cinema At The Cinema Special](https://drafthouse.com/los-angeles/show/on-cinema-at-the-cinema-special): Sun 3/10 (5:00pm)
+
+    * [Orlando](https://drafthouse.com/los-angeles/show/orlando): Sat 3/9 (2:40pm)
+
+    * [The Invisible Fight](https://drafthouse.com/los-angeles/show/the-invisible-fight): Tue 2/27 (8:00pm)
+
+    * [The Little Rascals](https://drafthouse.com/los-angeles/show/the-little-rascals): Sat 3/9 (12:00pm)
+
 ### Wed 2/7 12:14pm
 
 * New screenings: 
