@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Thu 2/8 4:16pm
+* New movies: Dune 2021 Reissue
+
+
+
 ### Wed 2/7 4:15pm
 
 * New screenings: 
