@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 2/8 1:14pm
+* New movies: Dune 2021 Reissue
+
+
+
 ### Wed 2/7 5:06pm
 * New movies: On Cinema at the Cinema Special, Chungking Express, Michael Clayton, Orlando, The Invisible Fight, The Little Rascals
 
