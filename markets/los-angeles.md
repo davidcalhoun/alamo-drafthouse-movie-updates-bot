@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 2/9 5:16am
+* New movies: Kung Fu Panda 4, Kung Fu Panda 4
+
+* New screenings: 
+    * [Family Party Kung Fu Panda 4](https://drafthouse.com/los-angeles/show/family-party-kung-fu-panda-4): Sat 3/9 (10:45am), Sun 3/10 (10:45am)
+
+    * [Kung Fu Panda 4](https://drafthouse.com/los-angeles/show/kung-fu-panda-4): Thu 3/7 (2:00pm, 4:45pm, 7:30pm, 10:15pm), Fri 3/8 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Sat 3/9 (1:50pm, 4:40pm, 7:30pm, 10:20pm), Sun 3/10 (1:50pm, 4:40pm, 7:30pm), Mon 3/11 (11:00am, 1:50pm, 4:40pm, 7:30pm), Tue 3/12 (11:00am, 1:50pm, 4:40pm, 7:30pm), Wed 3/13 (11:00am, 1:50pm, 4:40pm, 7:30pm)
+
 ### Thu 2/8 5:06pm
 * New movies: Scanners III: The Takeover, Sgt. Pepper's Lonely Hearts Club Band, Shivers, Pulp Fiction, The Apple, The Thing 1982, Nimona, The Crow 1994, The Mask 1994, Above the Rim, Interview with the Vampire, Crooklyn, Dawn of the Dead 1978, Dumb and Dumber, Escape from New York, Four Weddings and a Funeral, Mandy 2018, Suspiria 2018, Time Bandits, BONE TOMAHAWK, DEATH PROOF, USED CARS, CLERKS, FEAR AND LOATHING IN LAS VEGAS, In the Name of the Father, MALLRATS, Only Lovers Left Alive, PITCH BLACK, REALITY BITES, Selena, STAR TREK 2009, Selena
 
