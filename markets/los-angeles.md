@@ -1,6 +1,76 @@
 # los-angeles
 
 ## Movie updates
+### Thu 2/8 5:06pm
+* New movies: Scanners III: The Takeover, Sgt. Pepper's Lonely Hearts Club Band, Shivers, Pulp Fiction, The Apple, The Thing 1982, Nimona, The Crow 1994, The Mask 1994, Above the Rim, Interview with the Vampire, Crooklyn, Dawn of the Dead 1978, Dumb and Dumber, Escape from New York, Four Weddings and a Funeral, Mandy 2018, Suspiria 2018, Time Bandits, BONE TOMAHAWK, DEATH PROOF, USED CARS, CLERKS, FEAR AND LOATHING IN LAS VEGAS, In the Name of the Father, MALLRATS, Only Lovers Left Alive, PITCH BLACK, REALITY BITES, Selena, STAR TREK 2009, Selena
+
+* New screenings: 
+    * [Above The Rim](https://drafthouse.com/los-angeles/show/above-the-rim): Sat 3/16 (2:10pm)
+
+    * [Bone Tomahawk](https://drafthouse.com/los-angeles/show/bone-tomahawk): Sat 4/6 (6:00pm), Sun 4/7 (2:15pm)
+
+    * [Brunch Screenings Interview With The Vampire Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-interview-with-the-vampire-brunch): Sun 4/7 (11:00am)
+
+    * [Clerks](https://drafthouse.com/los-angeles/show/clerks): Sat 4/13 (2:15pm)
+
+    * [Crooklyn](https://drafthouse.com/los-angeles/show/crooklyn): Sat 3/16 (5:00pm)
+
+    * [Dawn Of The Dead 1978](https://drafthouse.com/los-angeles/show/dawn-of-the-dead-1978): Fri 4/12 (9:30pm)
+
+    * [Death Proof1](https://drafthouse.com/los-angeles/show/death-proof1): Fri 4/5 (9:20pm), Sat 4/6 (9:25pm)
+
+    * [Dumb And Dumber Movie Party](https://drafthouse.com/los-angeles/show/dumb-and-dumber-movie-party): Tue 4/9 (7:15pm)
+
+    * [Dune Part Two](https://drafthouse.com/los-angeles/show/dune-part-two): Tue 3/12 (9:00pm)
+
+    * [Escape From New York](https://drafthouse.com/los-angeles/show/escape-from-new-york): Sun 4/7 (8:00pm)
+
+    * [Fear And Loathing In Las Vegas](https://drafthouse.com/los-angeles/show/fear-and-loathing-in-las-vegas): Fri 4/19 (9:30pm)
+
+    * [Four Weddings And A Funeral](https://drafthouse.com/los-angeles/show/four-weddings-and-a-funeral): Sat 3/16 (11:00am)
+
+    * [In The Name Of The Father](https://drafthouse.com/los-angeles/show/in-the-name-of-the-father): Fri 3/15 (12:30pm)
+
+    * [Mallrats](https://drafthouse.com/los-angeles/show/mallrats): Sat 4/20 (11:15am)
+
+    * [Mandy](https://drafthouse.com/los-angeles/show/mandy): Tue 4/16 (8:00pm)
+
+    * [Movie Party Pulp Fiction](https://drafthouse.com/los-angeles/show/movie-party-pulp-fiction): Mon 3/11 (7:00pm)
+
+    * [Nimona](https://drafthouse.com/los-angeles/show/nimona): Tue 3/12 (6:00pm)
+
+    * [Only Lovers Left Alive](https://drafthouse.com/los-angeles/show/only-lovers-left-alive): Sun 3/24 (12:00pm)
+
+    * [Pitch Black](https://drafthouse.com/los-angeles/show/pitch-black): Mon 4/8 (10:10pm)
+
+    * [Queer Film Theory 101 The Crow 1994](https://drafthouse.com/los-angeles/show/queer-film-theory-101-the-crow-1994): Mon 3/25 (7:15pm)
+
+    * [Queer Film Theory 101 The Mask 1994](https://drafthouse.com/los-angeles/show/queer-film-theory-101-the-mask-1994): Tue 4/23 (7:15pm)
+
+    * [Reality Bites](https://drafthouse.com/los-angeles/show/reality-bites): Sat 3/23 (11:00am)
+
+    * [Scanners Iii The Takeover](https://drafthouse.com/los-angeles/show/scanners-iii-the-takeover): Fri 3/22 (4:20pm), Wed 3/27 (8:00pm)
+
+    * [Sgt Peppers Lonely Hearts Club Band](https://drafthouse.com/los-angeles/show/sgt-peppers-lonely-hearts-club-band): Fri 3/15 (4:00pm), Wed 3/20 (7:15pm)
+
+    * [Shivers](https://drafthouse.com/los-angeles/show/shivers): Fri 3/29 (4:30pm), Wed 4/3 (8:00pm)
+
+    * [Special Event Selena 25th Anniversary](https://drafthouse.com/los-angeles/show/special-event-selena-25th-anniversary): Sun 4/14 (2:10pm)
+
+    * [Star Trek 2009](https://drafthouse.com/los-angeles/show/star-trek-2009): Fri 4/5 (6:00pm)
+
+    * [Suspiria 2018](https://drafthouse.com/los-angeles/show/suspiria-2018): Tue 3/19 (6:30pm)
+
+    * [The Apple](https://drafthouse.com/los-angeles/show/the-apple): Fri 3/8 (4:30pm), Wed 3/13 (8:00pm)
+
+    * [The Drivers Seat](https://drafthouse.com/los-angeles/show/the-drivers-seat): Wed 3/6 (8:00pm)
+
+    * [The Thing](https://drafthouse.com/los-angeles/show/the-thing): Fri 4/5 (11:45am), Sun 4/7 (5:45pm)
+
+    * [Time Bandits](https://drafthouse.com/los-angeles/show/time-bandits): Sun 3/10 (11:15am)
+
+    * [Zzang Used Cars](https://drafthouse.com/los-angeles/show/zzang-used-cars): Fri 4/5 (2:50pm), Sat 4/6 (11:00am)
+
 ### Thu 2/8 3:16pm
 * New movies: Identikit aka The Driver's Seat
 
