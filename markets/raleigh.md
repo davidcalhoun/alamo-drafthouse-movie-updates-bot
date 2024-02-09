@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Fri 2/9 8:19am
+* New movies: Kung Fu Panda 4, Kung Fu Panda 4
+
+* New screenings: 
+    * [Family Party Kung Fu Panda 4](https://drafthouse.com/raleigh/show/family-party-kung-fu-panda-4): Sun 3/10 (12:30pm)
+
+    * [Kung Fu Panda 4](https://drafthouse.com/raleigh/show/kung-fu-panda-4): Thu 3/7 (3:15pm, 6:00pm), Fri 3/8 (12:45pm, 3:30pm, 6:15pm), Sat 3/9 (12:45pm, 3:30pm, 6:15pm), Sun 3/10 (3:30pm, 6:15pm)
+
 ### Thu 2/8 4:16pm
 * New movies: Dune 2021 Reissue
 
