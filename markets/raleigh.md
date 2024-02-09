@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 2/9 12:17pm
+
+* New screenings: 
+    * [Lisa Frankenstein](https://drafthouse.com/raleigh/show/lisa-frankenstein): Fri 2/9 (5:40pm)
+
 ### Fri 2/9 8:19am
 * New movies: Kung Fu Panda 4, Kung Fu Panda 4
 
