@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 2/9 1:13pm
+* New movies: Clifford 1994
+
+* New screenings: 
+    * [Clifford 1994](https://drafthouse.com/los-angeles/show/clifford-1994): Mon 4/1 (8:00pm)
+
 ### Fri 2/9 5:16am
 * New movies: Kung Fu Panda 4, Kung Fu Panda 4
 
