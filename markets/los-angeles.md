@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 2/9 5:05pm
+* New movies: Happy Gilmore, The Twilight Saga: New Moon
+
+* New screenings: 
+    * [Signature Programming Happy Gilmore](https://drafthouse.com/los-angeles/show/signature-programming-happy-gilmore): Sun 3/3 (5:45pm)
+
+    * [Signature Programming The Twilight Saga New Moon](https://drafthouse.com/los-angeles/show/signature-programming-the-twilight-saga-new-moon): Fri 3/15 (9:30pm), Sun 3/17 (11:00am)
+
 ### Fri 2/9 1:13pm
 * New movies: Clifford 1994
 
