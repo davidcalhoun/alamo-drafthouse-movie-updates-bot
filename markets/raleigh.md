@@ -1,6 +1,46 @@
 # raleigh
 
 ## Movie updates
+### Mon 2/12 5:19pm
+* New movies: 2024 Oscar Nominated Shorts: Animation, 2024 Oscar Nominated Shorts: Live Action, Dick
+
+* New screenings: 
+    * [2024 Oscar Nominated Shorts Animation](https://drafthouse.com/raleigh/show/2024-oscar-nominated-shorts-animation): Thu 2/15 (4:15pm, 10:45pm), Fri 2/16 (12:30pm, 6:30pm), Sat 2/17 (3:50pm, 10:20pm), Sun 2/18 (12:35pm, 6:30pm), Mon 2/19 (3:45pm, 9:45pm), Tue 2/20 (12:00pm, 6:15pm)
+
+    * [2024 Oscar Nominated Shorts Live Action](https://drafthouse.com/raleigh/show/2024-oscar-nominated-shorts-live-action): Thu 2/15 (12:30pm, 7:00pm), Fri 2/16 (3:00pm, 9:15pm), Sat 2/17 (12:15pm, 6:55pm), Sun 2/18 (3:00pm, 9:00pm), Mon 2/19 (12:15pm, 6:15pm), Tue 2/20 (2:30pm, 9:00pm)
+
+    * [Amelie](https://drafthouse.com/raleigh/show/amelie): Wed 2/14 (9:40pm), Thu 2/15 (8:00pm), Fri 2/16 (7:45pm), Sat 2/17 (6:30pm), Sun 2/18 (8:30pm), Tue 2/20 (1:10pm, 4:15pm)
+
+    * [American Fiction](https://drafthouse.com/raleigh/show/american-fiction): Wed 2/14 (12:00pm, 4:00pm, 7:45pm, 11:00pm), Thu 2/15 (1:15pm, 4:45pm, 7:45pm, 11:00pm), Fri 2/16 (12:45pm, 4:45pm, 8:00pm, 11:15pm), Sat 2/17 (12:45pm, 4:45pm, 8:00pm, 11:15pm), Sun 2/18 (12:45pm, 4:45pm, 8:00pm, 11:15pm), Mon 2/19 (12:45pm, 4:45pm, 8:00pm, 11:15pm), Tue 2/20 (12:45pm, 4:45pm, 8:00pm, 11:15pm)
+
+    * [Argylle](https://drafthouse.com/raleigh/show/argylle): Thu 2/15 (12:20pm, 3:45pm, 7:25pm, 10:50pm), Fri 2/16 (12:15pm, 4:00pm, 7:30pm, 11:00pm), Sat 2/17 (12:15pm, 4:00pm, 7:25pm, 11:05pm), Sun 2/18 (12:30pm, 4:00pm, 7:30pm, 11:00pm), Mon 2/19 (11:50am, 3:20pm, 7:20pm, 10:45pm), Tue 2/20 (11:30am, 3:20pm, 7:20pm, 9:30pm)
+
+    * [Bob Marley One Love](https://drafthouse.com/raleigh/show/bob-marley-one-love): Wed 2/14 (1:15pm, 4:45pm, 8:05pm, 11:00pm), Thu 2/15 (11:15am, 12:15pm, 2:15pm, 3:15pm, 5:15pm, 8:30pm, 9:30pm), Fri 2/16 (12:00pm, 1:00pm, 3:20pm, 4:15pm, 6:15pm, 9:30pm, 10:45pm), Sat 2/17 (11:30am, 1:00pm, 2:30pm, 4:15pm, 6:15pm, 9:30pm, 10:45pm), Sun 2/18 (11:50am, 1:45pm, 3:00pm, 4:30pm, 6:15pm, 9:30pm, 10:45pm), Mon 2/19 (12:00pm, 1:30pm, 3:20pm, 4:30pm, 6:30pm, 7:30pm, 9:30pm, 10:45pm), Tue 2/20 (11:15am, 12:30pm, 2:30pm, 3:45pm, 6:00pm, 7:00pm, 10:00pm)
+
+    * [Crouching Tiger Hidden Dragon](https://drafthouse.com/raleigh/show/crouching-tiger-hidden-dragon): Wed 2/14 (2:30pm)
+
+    * [Dick](https://drafthouse.com/raleigh/show/dick): Tue 2/20 (10:45pm)
+
+    * [How To Have Sex](https://drafthouse.com/raleigh/show/how-to-have-sex): Wed 2/14 (3:45pm), Thu 2/15 (2:55pm), Fri 2/16 (3:00pm), Sat 2/17 (3:15pm), Sun 2/18 (3:30pm), Mon 2/19 (2:30pm), Tue 2/20 (4:30pm)
+
+    * [Lisa Frankenstein](https://drafthouse.com/raleigh/show/lisa-frankenstein): Thu 2/15 (11:45am, 3:00pm, 6:00pm, 9:15pm), Fri 2/16 (11:45am, 2:45pm, 6:00pm, 9:00pm), Sat 2/17 (11:45am, 2:45pm, 6:00pm, 9:00pm), Sun 2/18 (11:40am, 2:45pm, 6:00pm, 9:00pm), Mon 2/19 (11:45am, 2:45pm, 6:00pm, 9:00pm), Tue 2/20 (12:15pm, 3:30pm, 6:30pm, 9:45pm)
+
+    * [Madame Web](https://drafthouse.com/raleigh/show/madame-web): Wed 2/14 (11:20am, 2:45pm), Thu 2/15 (12:45pm, 1:00pm, 3:00pm, 4:00pm, 6:00pm, 9:00pm, 10:30pm), Fri 2/16 (12:30pm, 1:45pm, 3:45pm, 5:00pm, 8:15pm, 10:00pm, 11:15pm), Sat 2/17 (12:30pm, 1:45pm, 3:30pm, 5:00pm, 8:15pm, 10:00pm, 11:15pm), Sun 2/18 (11:15am, 2:50pm, 5:00pm, 8:15pm, 10:00pm, 11:15pm), Mon 2/19 (11:30am, 1:00pm, 1:15pm, 3:00pm, 4:10pm, 4:15pm, 6:00pm, 9:45pm), Tue 2/20 (1:00pm, 2:00pm, 4:15pm, 5:15pm, 7:30pm, 8:15pm, 11:00pm, 11:30pm)
+
+    * [Mean Girls 2024](https://drafthouse.com/raleigh/show/mean-girls-2024): Wed 2/14 (12:30pm), Thu 2/15 (8:45pm), Fri 2/16 (8:45pm), Sat 2/17 (8:45pm), Sun 2/18 (9:15pm), Mon 2/19 (8:20pm), Tue 2/20 (7:10pm)
+
+    * [Out Of Darkness](https://drafthouse.com/raleigh/show/out-of-darkness): Wed 2/14 (1:15pm, 4:15pm, 7:05pm, 10:00pm), Thu 2/15 (11:45pm), Fri 2/16 (11:45pm), Sat 2/17 (11:40pm), Sun 2/18 (11:35pm), Mon 2/19 (11:15pm), Tue 2/20 (11:15am)
+
+    * [Poor Things](https://drafthouse.com/raleigh/show/poor-things): Wed 2/14 (9:50pm), Thu 2/15 (11:30am), Fri 2/16 (11:30am), Sat 2/17 (11:20am), Sun 2/18 (12:00pm), Mon 2/19 (11:00am), Tue 2/20 (12:45pm)
+
+    * [The Beekeeper](https://drafthouse.com/raleigh/show/the-beekeeper): Wed 2/14 (11:30am), Thu 2/15 (12:00pm)
+
+    * [The Sweet East](https://drafthouse.com/raleigh/show/the-sweet-east): Thu 2/15 (11:10pm), Fri 2/16 (10:50pm), Sat 2/17 (10:10pm), Mon 2/19 (10:15pm)
+
+    * [The Taste Of Things](https://drafthouse.com/raleigh/show/the-taste-of-things): Wed 2/14 (11:15am, 2:55pm), Thu 2/15 (11:15am, 3:00pm), Fri 2/16 (11:15am, 3:30pm, 7:15pm, 10:35pm), Sat 2/17 (11:15am, 3:15pm, 7:15pm, 10:35pm), Sun 2/18 (11:25am, 3:25pm, 7:15pm, 10:35pm), Mon 2/19 (11:15am, 3:30pm, 7:00pm, 10:20pm), Tue 2/20 (11:45am, 3:15pm, 6:55pm, 10:15pm)
+
+    * [The Zone Of Interest](https://drafthouse.com/raleigh/show/the-zone-of-interest): Wed 2/14 (6:55pm), Thu 2/15 (5:45pm), Fri 2/16 (5:45pm), Sat 2/17 (5:55pm), Sun 2/18 (6:25pm), Mon 2/19 (5:20pm), Tue 2/20 (10:30pm)
+
 ### Fri 2/9 12:17pm
 
 * New screenings: 
