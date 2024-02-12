@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 2/12 10:18am
+* New movies: The Taste of Things
+
+* New screenings: 
+    * [Special Menu The Taste Of Things Feast](https://drafthouse.com/los-angeles/show/special-menu-the-taste-of-things-feast): Tue 2/27 (6:30pm)
+
 ### Fri 2/9 5:05pm
 * New movies: Happy Gilmore, The Twilight Saga: New Moon
 
