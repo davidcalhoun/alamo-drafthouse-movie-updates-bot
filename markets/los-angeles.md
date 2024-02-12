@@ -1,6 +1,50 @@
 # los-angeles
 
 ## Movie updates
+### Mon 2/12 3:14pm
+* New movies: The Woman Chaser
+
+* New screenings: 
+    * [2024 Oscar Nominated Shorts Animation](https://drafthouse.com/los-angeles/show/2024-oscar-nominated-shorts-animation): Sun 2/18 (2:25pm, 10:45pm)
+
+    * [2024 Oscar Nominated Shorts Live Action](https://drafthouse.com/los-angeles/show/2024-oscar-nominated-shorts-live-action): Mon 2/19 (12:40pm)
+
+    * [All Of Us Strangers](https://drafthouse.com/los-angeles/show/all-of-us-strangers): Tue 2/13 (11:50am, 6:00pm)
+
+    * [Amelie](https://drafthouse.com/los-angeles/show/amelie): Thu 2/15 (10:15pm), Fri 2/16 (1:10pm, 4:40pm), Sat 2/17 (1:00pm), Sun 2/18 (11:10am), Mon 2/19 (3:00pm, 4:00pm), Tue 2/20 (4:00pm), Wed 2/21 (10:10pm)
+
+    * [American Fiction](https://drafthouse.com/los-angeles/show/american-fiction): Wed 2/14 (3:45pm), Thu 2/15 (3:20pm, 6:10pm), Fri 2/16 (11:50am, 6:00pm), Sat 2/17 (11:50am, 6:00pm), Sun 2/18 (11:20am, 8:00pm), Mon 2/19 (12:00pm, 6:00pm), Tue 2/20 (12:35pm, 6:00pm), Wed 2/21 (3:00pm, 6:10pm)
+
+    * [Argylle](https://drafthouse.com/los-angeles/show/argylle): Wed 2/14 (2:40pm), Thu 2/15 (3:45pm, 7:15pm, 10:10pm), Fri 2/16 (11:40am, 3:10pm, 6:45pm, 10:15pm), Sat 2/17 (11:40am, 3:10pm, 6:45pm, 10:15pm), Sun 2/18 (11:40am, 3:10pm, 6:50pm, 9:45pm), Mon 2/19 (11:40am, 6:50pm, 10:20pm), Tue 2/20 (11:40am, 3:10pm, 6:45pm, 10:15pm), Wed 2/21 (4:15pm, 7:30pm, 9:25pm)
+
+    * [Bob Marley One Love](https://drafthouse.com/los-angeles/show/bob-marley-one-love): Wed 2/14 (4:00pm, 7:35pm, 10:00pm), Thu 2/15 (3:10pm, 5:45pm, 8:45pm), Fri 2/16 (9:25pm), Sat 2/17 (7:15pm, 10:15pm), Sun 2/18 (5:00pm, 10:05pm, 10:25pm), Mon 2/19 (11:00am, 12:00pm, 9:20pm), Tue 2/20 (1:00pm, 10:00pm), Wed 2/21 (3:45pm, 9:20pm, 10:40pm)
+
+    * [How To Have Sex](https://drafthouse.com/los-angeles/show/how-to-have-sex): Thu 2/15 (3:00pm, 10:15pm), Fri 2/16 (3:00pm, 11:00pm), Sat 2/17 (3:00pm, 10:30pm), Sun 2/18 (2:30pm, 5:15pm, 11:00pm), Mon 2/19 (3:15pm, 10:10pm), Tue 2/20 (3:00pm, 10:35pm), Wed 2/21 (10:30pm)
+
+    * [Lisa Frankenstein](https://drafthouse.com/los-angeles/show/lisa-frankenstein): Sun 2/18 (9:25pm), Mon 2/19 (12:30pm)
+
+    * [Madame Web](https://drafthouse.com/los-angeles/show/madame-web): Sun 2/18 (9:10pm), Mon 2/19 (11:30am)
+
+    * [Mean Girls 2024](https://drafthouse.com/los-angeles/show/mean-girls-2024): Tue 2/13 (2:50pm, 9:00pm)
+
+    * [Out Of Darkness](https://drafthouse.com/los-angeles/show/out-of-darkness): Wed 2/14 (2:15pm, 6:15pm, 10:05pm), Thu 2/15 (10:45pm), Fri 2/16 (1:15pm, 4:00pm, 6:40pm, 10:30pm), Sat 2/17 (11:00am, 1:45pm, 4:30pm, 7:20pm, 10:00pm), Sun 2/18 (1:15pm, 4:00pm, 6:40pm, 10:20pm), Mon 2/19 (11:50am, 2:30pm, 5:15pm, 8:00pm, 10:40pm), Tue 2/20 (12:15pm, 4:30pm, 7:15pm, 10:00pm), Wed 2/21 (4:30pm, 7:15pm, 10:50pm)
+
+    * [Poor Things](https://drafthouse.com/los-angeles/show/poor-things): Tue 2/13 (7:00pm, 9:40pm), Wed 2/14 (2:25pm, 6:00pm, 9:40pm), Thu 2/15 (3:00pm, 6:40pm, 9:20pm), Fri 2/16 (12:15pm, 3:45pm, 7:00pm, 9:10pm), Sat 2/17 (12:15pm, 3:45pm, 7:00pm, 9:10pm), Sun 2/18 (12:15pm, 3:45pm, 7:00pm, 10:10pm), Mon 2/19 (12:50pm, 3:00pm, 6:40pm, 9:10pm), Tue 2/20 (12:15pm, 3:45pm, 7:00pm, 9:10pm), Wed 2/21 (3:50pm, 7:00pm, 10:00pm)
+
+    * [She Is Conann](https://drafthouse.com/los-angeles/show/she-is-conann): Tue 2/13 (10:25pm)
+
+    * [The Promised Land 2024](https://drafthouse.com/los-angeles/show/the-promised-land-2024): Tue 2/13 (7:10pm)
+
+    * [The Sweet East](https://drafthouse.com/los-angeles/show/the-sweet-east): Wed 2/21 (3:10pm)
+
+    * [The Taste Of Things](https://drafthouse.com/los-angeles/show/the-taste-of-things): Sun 2/18 (9:20pm), Mon 2/19 (11:10am, 2:45pm, 6:20pm, 9:50pm), Tue 2/20 (11:15am, 2:45pm, 6:15pm, 9:45pm), Wed 2/21 (4:15pm, 6:20pm, 9:50pm)
+
+    * [The Virgin Suicides](https://drafthouse.com/los-angeles/show/the-virgin-suicides): Mon 2/19 (10:05pm)
+
+    * [The Woman Chaser](https://drafthouse.com/los-angeles/show/the-woman-chaser): Tue 2/20 (7:15pm)
+
+    * [The Zone Of Interest](https://drafthouse.com/los-angeles/show/the-zone-of-interest): Tue 2/13 (6:40pm, 10:35pm), Wed 2/14 (1:45pm, 4:40pm, 7:00pm, 10:35pm), Thu 2/15 (3:00pm, 6:30pm, 9:25pm), Fri 2/16 (12:45pm, 4:00pm, 7:30pm, 10:35pm), Sat 2/17 (12:45pm, 4:00pm, 7:30pm, 10:35pm), Sun 2/18 (12:45pm, 4:00pm, 7:20pm, 10:35pm), Mon 2/19 (1:00pm, 4:30pm, 7:30pm, 10:30pm), Tue 2/20 (1:15pm, 4:00pm, 7:30pm, 10:35pm), Wed 2/21 (4:00pm, 7:30pm, 10:35pm)
+
 ### Mon 2/12 10:18am
 * New movies: The Taste of Things
 
