@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Tue 2/13 1:13pm
+* New movies: The Big Lebowski, Days of Heaven, Forrest Gump, Once Upon a Time in the West
+
+* New screenings: 
+    * [Days Of Heaven](https://drafthouse.com/los-angeles/show/days-of-heaven): Tue 4/2 (8:00pm)
+
+    * [Forrest Gump](https://drafthouse.com/los-angeles/show/forrest-gump): Fri 3/29 (12:45pm)
+
+    * [Movie Party The Big Lebowski](https://drafthouse.com/los-angeles/show/movie-party-the-big-lebowski): Sun 4/21 (4:20pm)
+
+    * [Once Upon A Time In The West](https://drafthouse.com/los-angeles/show/once-upon-a-time-in-the-west): Sun 3/31 (3:15pm)
+
 ### Tue 2/13 6:14am
 * New movies: Problemista, Problemista, Problemista
 
