@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Tue 2/13 6:14am
+* New movies: Problemista, Problemista, Problemista
+
+* New screenings: 
+    * [Brunch Screenings Problemista Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-problemista-brunch): Sat 3/9 (12:30pm), Sun 3/10 (10:45am)
+
+    * [Livestream Q A Problemista](https://drafthouse.com/los-angeles/show/livestream-q-a-problemista): Mon 2/26 (5:00pm)
+
+    * [Problemista](https://drafthouse.com/los-angeles/show/problemista): Thu 3/7 (6:30pm, 9:30pm), Fri 3/8 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sat 3/9 (3:30pm, 6:30pm, 9:30pm), Sun 3/10 (1:45pm, 4:45pm, 7:45pm), Mon 3/11 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Tue 3/12 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Wed 3/13 (12:30pm, 3:30pm, 6:30pm, 9:30pm)
+
 ### Tue 2/13 5:17am
 * New movies: Ricky Stanicky
 
