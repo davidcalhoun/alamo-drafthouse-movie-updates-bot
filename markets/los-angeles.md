@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 2/13 3:15pm
+* New movies: Dumb and Dumber
+
+
+
 ### Tue 2/13 2:16pm
 * New movies: 2D DUMB AND DUMBER
 
