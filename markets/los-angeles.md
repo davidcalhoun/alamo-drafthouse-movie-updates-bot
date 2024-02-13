@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 2/13 5:17am
+* New movies: Ricky Stanicky
+
+* New screenings: 
+    * [Free Victory Screening Ricky Stanicky](https://drafthouse.com/los-angeles/show/free-victory-screening-ricky-stanicky): Wed 2/28 (7:30pm)
+
 ### Mon 2/12 3:14pm
 * New movies: The Woman Chaser
 
