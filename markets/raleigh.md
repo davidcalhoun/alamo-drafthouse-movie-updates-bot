@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Tue 2/13 9:18am
+* New movies: Problemista, Problemista
+
+* New screenings: 
+    * [Livestream Q A Problemista](https://drafthouse.com/raleigh/show/livestream-q-a-problemista): Mon 2/26 (8:00pm)
+
+    * [Problemista](https://drafthouse.com/raleigh/show/problemista): Thu 3/21 (4:10pm, 7:00pm, 9:50pm), Fri 3/22 (7:00pm), Sat 3/23 (7:00pm), Sun 3/24 (7:00pm)
+
 ### Mon 2/12 5:19pm
 * New movies: 2024 Oscar Nominated Shorts: Animation, 2024 Oscar Nominated Shorts: Live Action, Dick
 
