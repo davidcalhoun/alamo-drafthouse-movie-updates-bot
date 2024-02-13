@@ -1,6 +1,39 @@
 # raleigh
 
 ## Movie updates
+### Tue 2/13 11:23am
+
+* New screenings: 
+    * [2024 Oscar Nominated Shorts Animation](https://drafthouse.com/raleigh/show/2024-oscar-nominated-shorts-animation): Wed 2/21 (12:00pm, 6:15pm)
+
+    * [2024 Oscar Nominated Shorts Live Action](https://drafthouse.com/raleigh/show/2024-oscar-nominated-shorts-live-action): Wed 2/21 (2:30pm, 9:00pm)
+
+    * [Amelie](https://drafthouse.com/raleigh/show/amelie): Wed 2/21 (1:00pm, 4:05pm)
+
+    * [American Fiction](https://drafthouse.com/raleigh/show/american-fiction): Wed 2/21 (12:45pm, 4:45pm, 8:00pm, 11:15pm)
+
+    * [Argylle](https://drafthouse.com/raleigh/show/argylle): Wed 2/21 (11:30am, 3:10pm, 7:10pm, 9:30pm)
+
+    * [Bob Marley One Love](https://drafthouse.com/raleigh/show/bob-marley-one-love): Wed 2/21 (11:15am, 12:30pm, 2:30pm, 3:45pm, 6:00pm, 7:00pm, 10:00pm)
+
+    * [Dick](https://drafthouse.com/raleigh/show/dick): Wed 2/21 (10:50pm)
+
+    * [How To Have Sex](https://drafthouse.com/raleigh/show/how-to-have-sex): Wed 2/21 (4:30pm)
+
+    * [Lisa Frankenstein](https://drafthouse.com/raleigh/show/lisa-frankenstein): Wed 2/21 (12:15pm, 3:30pm, 6:30pm, 9:45pm)
+
+    * [Madame Web](https://drafthouse.com/raleigh/show/madame-web): Wed 2/21 (1:00pm, 2:00pm, 4:15pm, 5:15pm, 7:30pm, 8:15pm, 11:00pm, 11:30pm)
+
+    * [Mean Girls 2024](https://drafthouse.com/raleigh/show/mean-girls-2024): Wed 2/21 (7:10pm)
+
+    * [Out Of Darkness](https://drafthouse.com/raleigh/show/out-of-darkness): Wed 2/21 (11:15am)
+
+    * [Poor Things](https://drafthouse.com/raleigh/show/poor-things): Wed 2/21 (12:45pm)
+
+    * [The Taste Of Things](https://drafthouse.com/raleigh/show/the-taste-of-things): Wed 2/21 (11:45am, 3:15pm, 6:55pm, 10:15pm)
+
+    * [The Zone Of Interest](https://drafthouse.com/raleigh/show/the-zone-of-interest): Wed 2/21 (10:30pm)
+
 ### Tue 2/13 9:18am
 * New movies: Problemista, Problemista
 
