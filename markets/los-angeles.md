@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 2/13 2:16pm
+* New movies: 2D DUMB AND DUMBER
+
+
+
 ### Tue 2/13 1:13pm
 * New movies: The Big Lebowski, Days of Heaven, Forrest Gump, Once Upon a Time in the West
 
