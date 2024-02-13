@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 2/13 3:21pm
+
+* New screenings: 
+    * [Problemista](https://drafthouse.com/raleigh/show/problemista): Fri 3/15 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sat 3/16 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sun 3/17 (1:00pm, 4:00pm, 7:00pm, 10:00pm)
+
 ### Tue 2/13 11:23am
 
 * New screenings: 
