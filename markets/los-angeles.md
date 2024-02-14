@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 2/13 5:07pm
+* New movies: Graveyard Shift: THE HOUSE OF THE DEVIL
+
+* New screenings: 
+    * [Graveyard Shift The House Of The Devil](https://drafthouse.com/los-angeles/show/graveyard-shift-the-house-of-the-devil): Tue 4/9 (8:00pm)
+
 ### Tue 2/13 3:15pm
 * New movies: Dumb and Dumber
 
