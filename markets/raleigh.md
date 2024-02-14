@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Wed 2/14 12:17pm
+* New movies: Pulp Fiction, Happy Gilmore, The Twilight Saga: New Moon
+
+* New screenings: 
+    * [Movie Party Pulp Fiction](https://drafthouse.com/raleigh/show/movie-party-pulp-fiction): Wed 3/13 (7:30pm)
+
+    * [Signature Programming Happy Gilmore](https://drafthouse.com/raleigh/show/signature-programming-happy-gilmore): Mon 3/4 (6:00pm)
+
+    * [Signature Programming The Twilight Saga New Moon](https://drafthouse.com/raleigh/show/signature-programming-the-twilight-saga-new-moon): Sun 3/17 (7:30pm)
+
 ### Tue 2/13 3:21pm
 
 * New screenings: 
