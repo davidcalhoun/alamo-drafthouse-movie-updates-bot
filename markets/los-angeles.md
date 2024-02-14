@@ -1,6 +1,15 @@
 # los-angeles
 
 ## Movie updates
+### Tue 2/13 6:20pm
+
+* New screenings: 
+    * [American Fiction](https://drafthouse.com/los-angeles/show/american-fiction): Tue 2/20 (11:45am, 7:30pm)
+
+    * [Poor Things](https://drafthouse.com/los-angeles/show/poor-things): Tue 2/20 (12:15pm, 3:45pm, 6:00pm)
+
+    * [The Zone Of Interest](https://drafthouse.com/los-angeles/show/the-zone-of-interest): Tue 2/20 (4:00pm, 10:10pm)
+
 ### Tue 2/13 5:07pm
 * New movies: Graveyard Shift: THE HOUSE OF THE DEVIL
 
