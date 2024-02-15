@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 2/15 9:14am
+* New movies: Three Colors: Blue
+
+* New screenings: 
+    * [Three Colors Blue](https://drafthouse.com/los-angeles/show/three-colors-blue): Sun 4/14 (11:15am)
+
 ### Thu 2/15 12:18am
 * New movies: Riddle of Fire
 
