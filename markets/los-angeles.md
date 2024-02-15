@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Thu 2/15 10:20am
+
+* New screenings: 
+    * [Amelie](https://drafthouse.com/los-angeles/show/amelie): Fri 2/16 (11:45am), Sat 2/17 (10:00pm), Sun 2/18 (8:00pm)
+
+    * [Existenz](https://drafthouse.com/los-angeles/show/existenz): Fri 2/16 (10:30pm)
+
 ### Thu 2/15 9:14am
 * New movies: Three Colors: Blue
 
