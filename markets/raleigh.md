@@ -1,6 +1,42 @@
 # raleigh
 
 ## Movie updates
+### Thu 2/15 10:18am
+* New movies: Stopmotion, Riddle of Fire, Michael Clayton, American Psycho, Carnival of Souls, Gremlins 2: The New Batch, Mirror Mirror 1990, Mac and Me, Samurai Cop, Little Women 1994, Brain Damage, The Invisible Fight, Possession 1981
+
+* New screenings: 
+    * [Cruel Intentions](https://drafthouse.com/raleigh/show/cruel-intentions): Sun 2/25 (5:30pm)
+
+    * [Fantastic Fest Presents Riddle Of Fire Advance Screening](https://drafthouse.com/raleigh/show/fantastic-fest-presents-riddle-of-fire-advance-screening): Wed 3/20 (7:30pm)
+
+    * [Little Women 1994](https://drafthouse.com/raleigh/show/little-women-1994): Sun 3/3 (11:15am)
+
+    * [Michael Clayton](https://drafthouse.com/raleigh/show/michael-clayton): Mon 3/4 (9:30pm), Tue 3/5 (5:45pm)
+
+    * [Movie Party Pulp Fiction](https://drafthouse.com/raleigh/show/movie-party-pulp-fiction): Sat 4/27 (9:30pm)
+
+    * [Stopmotion](https://drafthouse.com/raleigh/show/stopmotion): Fri 2/23 (3:00pm), Sat 2/24 (9:00pm), Sun 2/25 (8:15pm), Mon 2/26 (4:15pm), Tue 2/27 (9:45pm), Wed 2/28 (9:45pm)
+
+    * [Terror Tuesday American Psycho](https://drafthouse.com/raleigh/show/terror-tuesday-american-psycho): Tue 3/5 (9:00pm)
+
+    * [Terror Tuesday Brain Damage](https://drafthouse.com/raleigh/show/terror-tuesday-brain-damage): Tue 3/26 (9:00pm)
+
+    * [Terror Tuesday Carnival Of Souls](https://drafthouse.com/raleigh/show/terror-tuesday-carnival-of-souls): Tue 4/23 (9:00pm)
+
+    * [Terror Tuesday Gremlins 2 The New Batch](https://drafthouse.com/raleigh/show/terror-tuesday-gremlins-2-the-new-batch): Tue 4/9 (9:00pm)
+
+    * [Terror Tuesday Mirror Mirror 1990](https://drafthouse.com/raleigh/show/terror-tuesday-mirror-mirror-1990): Tue 4/30 (9:00pm)
+
+    * [Terror Tuesday Possession 1981](https://drafthouse.com/raleigh/show/terror-tuesday-possession-1981): Tue 3/12 (9:00pm)
+
+    * [The Invisible Fight](https://drafthouse.com/raleigh/show/the-invisible-fight): Fri 2/23 (5:45pm)
+
+    * [Twin Peaks Fire Walk With Me](https://drafthouse.com/raleigh/show/twin-peaks-fire-walk-with-me): Sat 2/24 (5:30pm)
+
+    * [Weird Wednesday Mac And Me](https://drafthouse.com/raleigh/show/weird-wednesday-mac-and-me): Wed 5/1 (9:00pm)
+
+    * [Weird Wednesday Samurai Cop](https://drafthouse.com/raleigh/show/weird-wednesday-samurai-cop): Wed 3/6 (9:00pm)
+
 ### Wed 2/14 12:17pm
 * New movies: Pulp Fiction, Happy Gilmore, The Twilight Saga: New Moon
 
