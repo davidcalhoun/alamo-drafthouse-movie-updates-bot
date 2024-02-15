@@ -1,6 +1,80 @@
 # raleigh
 
 ## Movie updates
+### Thu 2/15 11:23am
+* New movies: Dawn of the Dead 1978, Ennio, On Cinema at the Cinema Special, A/V Geeks Present: Those Excruciating 1980s, Blue Giant, The House of the Devil, Nimona, The Mask 1994, The Bird with the Crystal Plumage, Terminal USA + I Was a Teenage Serial Killer Double Feature, Above the Rim, Clerks, Clifford 1994, Crooklyn, Days of Heaven, Drunken Master II, Dumb and Dumber, Forrest Gump, Four Weddings and a Funeral, Interview with the Vampire, Mandy 2018, Once Upon a Time in the West, Only Lovers Left Alive, Orlando, Reality Bites, Star Trek 2009, Street Fighter, Suspiria 2018, The Good, the Bad and the Ugly, The Little Rascals, The Untouchables, Time Bandits, FEAR AND LOATHING IN LAS VEGAS, MALLRATS, THE SHAWSHANK REDEMPTION
+
+* New screenings: 
+    * [A V Geeks Present Those Excruciating 1980s](https://drafthouse.com/raleigh/show/a-v-geeks-present-those-excruciating-1980s): Tue 3/12 (7:15pm)
+
+    * [Above The Rim](https://drafthouse.com/raleigh/show/above-the-rim): Sun 3/17 (4:15pm)
+
+    * [Blue Giant](https://drafthouse.com/raleigh/show/blue-giant): Sat 4/13 (12:00pm)
+
+    * [Clerks](https://drafthouse.com/raleigh/show/clerks): Sun 4/14 (4:00pm)
+
+    * [Clifford 1994](https://drafthouse.com/raleigh/show/clifford-1994): Mon 4/1 (6:45pm)
+
+    * [Crooklyn](https://drafthouse.com/raleigh/show/crooklyn): Tue 3/19 (2:30pm)
+
+    * [Dawn Of The Dead 1978](https://drafthouse.com/raleigh/show/dawn-of-the-dead-1978): Fri 4/12 (9:30pm), Sat 4/13 (9:30pm)
+
+    * [Days Of Heaven](https://drafthouse.com/raleigh/show/days-of-heaven): Wed 4/3 (6:45pm)
+
+    * [Drunken Master Ii](https://drafthouse.com/raleigh/show/drunken-master-ii): Wed 4/24 (7:00pm)
+
+    * [Dumb And Dumber](https://drafthouse.com/raleigh/show/dumb-and-dumber): Tue 4/9 (6:30pm)
+
+    * [Ennio](https://drafthouse.com/raleigh/show/ennio): Fri 3/29 (4:00pm), Sat 3/30 (12:00pm)
+
+    * [Fear And Loathing In Las Vegas](https://drafthouse.com/raleigh/show/fear-and-loathing-in-las-vegas): Fri 4/19 (9:30pm)
+
+    * [Forrest Gump](https://drafthouse.com/raleigh/show/forrest-gump): Tue 4/2 (6:00pm)
+
+    * [Four Weddings And A Funeral](https://drafthouse.com/raleigh/show/four-weddings-and-a-funeral): Sat 3/16 (4:15pm)
+
+    * [Graveyard Shift The House Of The Devil](https://drafthouse.com/raleigh/show/graveyard-shift-the-house-of-the-devil): Mon 4/8 (8:00pm)
+
+    * [Interview With The Vampire The Vampire Chronicles](https://drafthouse.com/raleigh/show/interview-with-the-vampire-the-vampire-chronicles): Sat 4/6 (11:00am)
+
+    * [Mallrats](https://drafthouse.com/raleigh/show/mallrats): Sat 4/20 (1:15pm)
+
+    * [Mandy](https://drafthouse.com/raleigh/show/mandy): Thu 4/18 (4:20pm)
+
+    * [Nimona](https://drafthouse.com/raleigh/show/nimona): Mon 3/11 (6:45pm)
+
+    * [On Cinema At The Cinema Special](https://drafthouse.com/raleigh/show/on-cinema-at-the-cinema-special): Sun 3/10 (8:00pm)
+
+    * [Once Upon A Time In The West](https://drafthouse.com/raleigh/show/once-upon-a-time-in-the-west): Sat 3/30 (3:45pm)
+
+    * [Only Lovers Left Alive](https://drafthouse.com/raleigh/show/only-lovers-left-alive): Mon 3/25 (6:45pm)
+
+    * [Orlando](https://drafthouse.com/raleigh/show/orlando): Sat 3/9 (2:15pm)
+
+    * [Queer Film Theory 101 The Mask 1994](https://drafthouse.com/raleigh/show/queer-film-theory-101-the-mask-1994): Tue 4/23 (7:00pm)
+
+    * [Reality Bites](https://drafthouse.com/raleigh/show/reality-bites): Sat 3/23 (12:00pm)
+
+    * [Star Trek 2009](https://drafthouse.com/raleigh/show/star-trek-2009): Fri 4/5 (9:30pm)
+
+    * [Street Fighter](https://drafthouse.com/raleigh/show/street-fighter): Wed 3/27 (6:15pm)
+
+    * [Suspiria 2018](https://drafthouse.com/raleigh/show/suspiria-2018): Fri 3/15 (9:00pm)
+
+    * [Terror Tuesday The Bird With The Crystal Plumage](https://drafthouse.com/raleigh/show/terror-tuesday-the-bird-with-the-crystal-plumage): Tue 4/2 (9:00pm)
+
+    * [The Good The Bad And The Ugly](https://drafthouse.com/raleigh/show/the-good-the-bad-and-the-ugly): Sun 3/31 (11:00am)
+
+    * [The Little Rascals](https://drafthouse.com/raleigh/show/the-little-rascals): Sun 3/10 (11:15am)
+
+    * [The Shawshank Redemption](https://drafthouse.com/raleigh/show/the-shawshank-redemption): Sat 4/27 (11:00am)
+
+    * [The Untouchables](https://drafthouse.com/raleigh/show/the-untouchables): Sun 3/31 (3:15pm)
+
+    * [Time Bandits](https://drafthouse.com/raleigh/show/time-bandits): Sat 3/9 (11:15am)
+
+    * [Weird Wednesday Terminal Usa I Was A Teenage Serial Killer Double Feature](https://drafthouse.com/raleigh/show/weird-wednesday-terminal-usa-i-was-a-teenage-serial-killer-double-feature): Wed 4/3 (9:00pm)
+
 ### Thu 2/15 10:18am
 * New movies: Stopmotion, Riddle of Fire, Michael Clayton, American Psycho, Carnival of Souls, Gremlins 2: The New Batch, Mirror Mirror 1990, Mac and Me, Samurai Cop, Little Women 1994, Brain Damage, The Invisible Fight, Possession 1981
 
