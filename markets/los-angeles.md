@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 2/15 12:18am
+* New movies: Riddle of Fire
+
+* New screenings: 
+    * [Fantastic Fest Presents Riddle Of Fire Advance Screening W Live Q A](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-riddle-of-fire-advance-screening-w-live-q-a): Fri 3/22 (7:00pm)
+
 ### Wed 2/14 5:07pm
 * New movies: Blue Giant
 
