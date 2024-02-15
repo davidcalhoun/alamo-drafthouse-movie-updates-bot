@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 2/15 2:13pm
+* New movies: Riddle of Fire, Street Fighter
+
+* New screenings: 
+    * [Riddle Of Fire](https://drafthouse.com/los-angeles/show/riddle-of-fire): Sat 3/23 (2:00pm), Sun 3/24 (4:10pm), Mon 3/25 (4:00pm), Tue 3/26 (7:15pm), Wed 3/27 (5:00pm)
+
+    * [Street Fighter](https://drafthouse.com/los-angeles/show/street-fighter): Sun 3/24 (3:15pm)
+
 ### Thu 2/15 1:14pm
 * New movies: Invader 2024, Riddle of Fire, Death of a Cheerleader, Three Colors: White
 
