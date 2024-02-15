@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 2/15 6:18pm
+* New movies: Three Colors: Red
+
+* New screenings: 
+    * [Three Colors Red](https://drafthouse.com/raleigh/show/three-colors-red): Sun 4/28 (12:00pm)
+
 ### Thu 2/15 4:16pm
 * New movies: I Know Who Killed Me, Death of a Cheerleader, Three Colors: White
 
