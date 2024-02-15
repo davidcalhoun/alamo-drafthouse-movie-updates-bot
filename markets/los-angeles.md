@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 2/14 5:07pm
+* New movies: Blue Giant
+
+* New screenings: 
+    * [Blue Giant](https://drafthouse.com/los-angeles/show/blue-giant): Sat 4/13 (11:00am)
+
+    * [Signature Programming The Twilight Saga New Moon](https://drafthouse.com/los-angeles/show/signature-programming-the-twilight-saga-new-moon): Sat 3/16 (8:15pm), Sun 3/17 (2:30pm)
+
 ### Tue 2/13 6:20pm
 
 * New screenings: 
