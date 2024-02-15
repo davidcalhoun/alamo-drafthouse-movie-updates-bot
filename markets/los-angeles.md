@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 2/15 3:16pm
+* New movies: Three Colors: Red
+
+* New screenings: 
+    * [Three Colors Red](https://drafthouse.com/los-angeles/show/three-colors-red): Sun 4/28 (11:15am)
+
 ### Thu 2/15 2:13pm
 * New movies: Riddle of Fire, Street Fighter
 
