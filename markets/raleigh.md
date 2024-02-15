@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Thu 2/15 4:16pm
+* New movies: I Know Who Killed Me, Death of a Cheerleader, Three Colors: White
+
+* New screenings: 
+    * [Death Of A Cheerleader](https://drafthouse.com/raleigh/show/death-of-a-cheerleader): Sun 4/21 (7:30pm)
+
+    * [Three Colors White](https://drafthouse.com/raleigh/show/three-colors-white): Sun 4/21 (12:00pm)
+
+    * [Weird Wednesday I Know Who Killed Me](https://drafthouse.com/raleigh/show/weird-wednesday-i-know-who-killed-me): Wed 4/17 (9:00pm)
+
 ### Thu 2/15 12:18pm
 * New movies: Three Colors: Blue
 
