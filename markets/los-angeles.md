@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Thu 2/15 1:14pm
+* New movies: Invader 2024, Riddle of Fire, Death of a Cheerleader, Three Colors: White
+
+* New screenings: 
+    * [Death Of A Cheerleader](https://drafthouse.com/los-angeles/show/death-of-a-cheerleader): Sat 4/20 (7:15pm)
+
+    * [Fantastic Fest Presents Invader 2024 W Live Q A](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-invader-2024-w-live-q-a): Fri 3/15 (7:15pm), Sat 3/16 (7:15pm), Sun 3/17 (7:15pm)
+
+    * [Fantastic Fest Presents Riddle Of Fire Advance Screening](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-riddle-of-fire-advance-screening): Wed 3/20 (6:00pm)
+
+    * [Three Colors White](https://drafthouse.com/los-angeles/show/three-colors-white): Sun 4/21 (11:15am)
+
 ### Thu 2/15 10:20am
 
 * New screenings: 
