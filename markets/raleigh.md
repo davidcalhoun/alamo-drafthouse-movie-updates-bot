@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 2/15 12:18pm
+* New movies: Three Colors: Blue
+
+* New screenings: 
+    * [Three Colors Blue](https://drafthouse.com/raleigh/show/three-colors-blue): Tue 4/16 (6:45pm)
+
 ### Thu 2/15 11:23am
 * New movies: Dawn of the Dead 1978, Ennio, On Cinema at the Cinema Special, A/V Geeks Present: Those Excruciating 1980s, Blue Giant, The House of the Devil, Nimona, The Mask 1994, The Bird with the Crystal Plumage, Terminal USA + I Was a Teenage Serial Killer Double Feature, Above the Rim, Clerks, Clifford 1994, Crooklyn, Days of Heaven, Drunken Master II, Dumb and Dumber, Forrest Gump, Four Weddings and a Funeral, Interview with the Vampire, Mandy 2018, Once Upon a Time in the West, Only Lovers Left Alive, Orlando, Reality Bites, Star Trek 2009, Street Fighter, Suspiria 2018, The Good, the Bad and the Ugly, The Little Rascals, The Untouchables, Time Bandits, FEAR AND LOATHING IN LAS VEGAS, MALLRATS, THE SHAWSHANK REDEMPTION
 
