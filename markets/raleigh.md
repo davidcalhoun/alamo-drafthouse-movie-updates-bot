@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 2/16 12:16pm
+* New movies: Riddle of Fire
+
+* New screenings: 
+    * [Riddle Of Fire](https://drafthouse.com/raleigh/show/riddle-of-fire): Fri 3/22 (2:45pm), Sat 3/23 (2:45pm), Sun 3/24 (9:30pm), Mon 3/25 (3:45pm, 10:00pm), Tue 3/26 (6:45pm), Wed 3/27 (3:15pm)
+
 ### Fri 2/16 12:19am
 * New movies: Labyrinth, The Twilight Saga: Eclipse
 
