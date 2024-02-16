@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 2/15 9:15pm
+* New movies: Labyrinth, The Twilight Saga: Eclipse
+
+* New screenings: 
+    * [Signature Programming Labyrinth](https://drafthouse.com/los-angeles/show/signature-programming-labyrinth): Sun 4/14 (5:30pm)
+
+    * [Signature Programming The Twilight Saga Eclipse](https://drafthouse.com/los-angeles/show/signature-programming-the-twilight-saga-eclipse): Mon 4/8 (7:00pm)
+
 ### Thu 2/15 3:16pm
 * New movies: Three Colors: Red
 
