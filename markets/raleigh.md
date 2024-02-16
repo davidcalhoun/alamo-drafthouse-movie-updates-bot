@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Fri 2/16 12:19am
+* New movies: Labyrinth, The Twilight Saga: Eclipse
+
+* New screenings: 
+    * [Signature Programming Labyrinth](https://drafthouse.com/raleigh/show/signature-programming-labyrinth): Sun 4/14 (1:45pm)
+
+    * [Signature Programming The Twilight Saga Eclipse](https://drafthouse.com/raleigh/show/signature-programming-the-twilight-saga-eclipse): Sun 4/7 (4:30pm)
+
 ### Thu 2/15 6:18pm
 * New movies: Three Colors: Red
 
