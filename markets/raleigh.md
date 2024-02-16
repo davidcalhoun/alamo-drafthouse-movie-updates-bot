@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Fri 2/16 3:18pm
+* New movies: The Crow 1994, UNDER THE CHERRY MOON
+
+* New screenings: 
+    * [Graveyard Shift The Crow](https://drafthouse.com/raleigh/show/graveyard-shift-the-crow): Tue 3/26 (7:00pm)
+
+    * [Weird Wednesday Under The Cherry Moon](https://drafthouse.com/raleigh/show/weird-wednesday-under-the-cherry-moon): Wed 4/10 (9:00pm)
+
 ### Fri 2/16 12:16pm
 * New movies: Riddle of Fire
 
