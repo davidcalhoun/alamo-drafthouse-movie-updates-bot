@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 2/20 5:18pm
+
+* New screenings: 
+    * [Demon Slayer Kimetsu No Yaiba To The Hashira Training Subtitled](https://drafthouse.com/raleigh/show/demon-slayer-kimetsu-no-yaiba-to-the-hashira-training-subtitled): Tue 2/27 (12:15pm, 3:15pm)
+
 ### Tue 2/20 4:16pm
 
 * New screenings: 
