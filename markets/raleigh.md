@@ -1,6 +1,51 @@
 # raleigh
 
 ## Movie updates
+### Tue 2/20 4:16pm
+
+* New screenings: 
+    * [2024 Oscar Nominated Shorts Animation](https://drafthouse.com/raleigh/show/2024-oscar-nominated-shorts-animation): Thu 2/22 (4:10pm, 10:20pm), Fri 2/23 (11:45am, 6:15pm), Sat 2/24 (11:30am, 6:15pm), Sun 2/25 (11:40am, 6:15pm), Mon 2/26 (1:35pm, 7:45pm), Tue 2/27 (1:00pm, 8:00pm), Wed 2/28 (1:00pm, 8:00pm)
+
+    * [2024 Oscar Nominated Shorts Live Action](https://drafthouse.com/raleigh/show/2024-oscar-nominated-shorts-live-action): Thu 2/22 (12:20pm, 6:40pm), Fri 2/23 (2:45pm, 9:15pm), Sat 2/24 (2:30pm, 9:15pm), Sun 2/25 (2:30pm, 9:00pm), Mon 2/26 (4:15pm, 10:10pm), Tue 2/27 (4:15pm, 10:30pm), Wed 2/28 (4:15pm, 10:30pm)
+
+    * [American Fiction](https://drafthouse.com/raleigh/show/american-fiction): Thu 2/22 (12:30pm, 3:45pm, 6:50pm, 10:10pm), Fri 2/23 (1:15pm, 4:30pm, 8:00pm, 11:15pm), Sat 2/24 (12:30pm, 4:30pm, 8:00pm, 11:15pm), Sun 2/25 (12:30pm, 4:30pm, 8:00pm, 11:15pm), Mon 2/26 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Tue 2/27 (1:30pm, 4:35pm, 7:45pm, 11:00pm), Wed 2/28 (1:30pm, 4:35pm, 7:45pm, 11:00pm)
+
+    * [American Pie](https://drafthouse.com/raleigh/show/american-pie): Fri 2/23 (12:15pm)
+
+    * [Argylle](https://drafthouse.com/raleigh/show/argylle): Thu 2/22 (11:30am, 3:00pm, 6:30pm, 10:15pm), Fri 2/23 (12:30pm, 4:00pm, 7:40pm, 11:05pm), Sat 2/24 (12:30pm, 4:15pm, 7:40pm, 11:05pm), Sun 2/25 (12:30pm, 4:15pm, 7:40pm, 11:05pm), Mon 2/26 (12:15pm, 3:45pm, 7:20pm, 10:45pm), Tue 2/27 (12:15pm, 3:45pm, 7:15pm, 10:45pm), Wed 2/28 (12:15pm, 3:45pm, 7:15pm, 10:45pm)
+
+    * [Bob Marley One Love](https://drafthouse.com/raleigh/show/bob-marley-one-love): Thu 2/22 (12:10pm, 1:00pm, 3:15pm, 6:15pm, 9:15pm), Fri 2/23 (1:30pm, 5:15pm, 8:30pm, 11:30pm), Sat 2/24 (11:40am, 3:10pm, 6:30pm, 9:45pm), Sun 2/25 (12:15pm, 3:30pm, 6:30pm, 9:30pm), Mon 2/26 (11:45am, 3:00pm, 6:30pm, 9:30pm), Tue 2/27 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Wed 2/28 (12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
+    * [Cruel Intentions](https://drafthouse.com/raleigh/show/cruel-intentions): Sun 2/25 (11:15pm), Mon 2/26 (1:15pm), Tue 2/27 (1:15pm), Wed 2/28 (1:15pm)
+
+    * [Demon Slayer Kimetsu No Yaiba To The Hashira Training Dubbed](https://drafthouse.com/raleigh/show/demon-slayer-kimetsu-no-yaiba-to-the-hashira-training-dubbed): Thu 2/22 (4:30pm, 11:30pm), Mon 2/26 (1:45pm, 10:20pm), Tue 2/27 (12:45pm, 10:00pm), Wed 2/28 (12:30pm, 12:45pm)
+
+    * [Demon Slayer Kimetsu No Yaiba To The Hashira Training Subtitled](https://drafthouse.com/raleigh/show/demon-slayer-kimetsu-no-yaiba-to-the-hashira-training-subtitled): Fri 2/23 (1:30pm, 4:45pm), Sat 2/24 (4:30pm), Sun 2/25 (4:30pm), Mon 2/26 (11:45am, 2:45pm, 4:45pm), Tue 2/27 (3:35pm, 6:30pm), Wed 2/28 (3:35pm, 4:00pm, 6:30pm)
+
+    * [Drive Away Dolls](https://drafthouse.com/raleigh/show/drive-away-dolls): Fri 2/23 (11:50am, 2:30pm, 5:00pm, 10:15pm), Sat 2/24 (12:00pm, 2:30pm, 5:00pm, 10:15pm), Sun 2/25 (11:45am, 2:30pm, 5:00pm, 10:15pm), Mon 2/26 (12:45pm, 3:15pm, 6:00pm, 9:00pm), Tue 2/27 (1:45pm, 4:45pm, 7:30pm, 10:30pm), Wed 2/28 (1:45pm, 4:45pm, 7:35pm, 10:30pm)
+
+    * [How To Have Sex](https://drafthouse.com/raleigh/show/how-to-have-sex): Thu 2/22 (4:40pm)
+
+    * [Lisa Frankenstein](https://drafthouse.com/raleigh/show/lisa-frankenstein): Thu 2/22 (1:30pm, 4:50pm, 7:45pm, 10:40pm), Fri 2/23 (12:50pm, 3:45pm, 6:45pm, 10:00pm), Sat 2/24 (12:45pm, 3:50pm, 6:50pm, 10:00pm), Sun 2/25 (12:50pm, 3:45pm, 6:45pm, 9:45pm), Mon 2/26 (1:30pm, 4:55pm, 8:15pm, 11:00pm), Tue 2/27 (12:30pm, 12:30pm, 3:45pm, 9:25pm), Wed 2/28 (12:30pm, 3:45pm, 7:00pm, 10:00pm)
+
+    * [Madame Web](https://drafthouse.com/raleigh/show/madame-web): Thu 2/22 (11:30am, 1:45pm, 2:30pm, 7:15pm, 9:45pm), Fri 2/23 (12:00pm, 3:00pm, 6:00pm, 9:30pm), Sat 2/24 (11:15am, 2:45pm, 6:00pm, 9:30pm), Sun 2/25 (11:30am, 2:45pm, 6:00pm, 9:15pm), Mon 2/26 (1:00pm, 4:00pm, 7:15pm, 10:50pm), Tue 2/27 (12:00pm, 3:15pm, 6:15pm, 9:15pm), Wed 2/28 (12:00pm, 3:15pm, 6:15pm, 9:15pm)
+
+    * [Mean Girls 2024](https://drafthouse.com/raleigh/show/mean-girls-2024): Thu 2/22 (2:45pm)
+
+    * [One From The Heart Reprise](https://drafthouse.com/raleigh/show/one-from-the-heart-reprise): Tue 2/27 (4:15pm), Wed 2/28 (4:15pm)
+
+    * [Perfect Days](https://drafthouse.com/raleigh/show/perfect-days): Fri 2/23 (12:15pm, 3:30pm, 10:30pm), Sat 2/24 (11:50am, 3:30pm, 10:30pm), Sun 2/25 (12:00pm, 3:15pm, 10:30pm), Mon 2/26 (12:30pm, 4:00pm, 7:30pm, 10:45pm), Tue 2/27 (11:45am, 3:00pm, 6:30pm, 10:00pm), Wed 2/28 (11:45am, 3:00pm, 6:30pm, 10:00pm)
+
+    * [Poor Things](https://drafthouse.com/raleigh/show/poor-things): Thu 2/22 (1:15pm)
+
+    * [The Sweet East](https://drafthouse.com/raleigh/show/the-sweet-east): Thu 2/22 (11:45am), Sat 2/24 (12:50pm), Sun 2/25 (12:45pm)
+
+    * [The Taste Of Things](https://drafthouse.com/raleigh/show/the-taste-of-things): Thu 2/22 (12:45pm, 8:00pm), Fri 2/23 (7:45pm), Sat 2/24 (7:30pm), Sun 2/25 (7:20pm), Mon 2/26 (6:30pm), Tue 2/27 (6:30pm), Wed 2/28 (7:20pm)
+
+    * [The Zone Of Interest](https://drafthouse.com/raleigh/show/the-zone-of-interest): Thu 2/22 (10:45pm)
+
+    * [Twin Peaks Fire Walk With Me](https://drafthouse.com/raleigh/show/twin-peaks-fire-walk-with-me): Fri 2/23 (11:05pm), Sat 2/24 (11:05pm), Sun 2/25 (11:05pm), Mon 2/26 (10:00pm), Wed 2/28 (10:45pm)
+
 ### Fri 2/16 3:18pm
 * New movies: The Crow 1994, UNDER THE CHERRY MOON
 
