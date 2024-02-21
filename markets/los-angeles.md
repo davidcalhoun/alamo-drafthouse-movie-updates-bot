@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 2/20 9:15pm
+* New movies: Robot Dreams, The Untouchables
+
+* New screenings: 
+    * [The Best Of The Best Of The Best Robot Dreams Early Access](https://drafthouse.com/los-angeles/show/the-best-of-the-best-of-the-best-robot-dreams-early-access): Wed 3/6 (7:15pm)
+
+    * [The Untouchables](https://drafthouse.com/los-angeles/show/the-untouchables): Sat 3/30 (2:45pm)
+
 ### Tue 2/20 5:07pm
 * New movies: Stopmotion, Drive-Away Dolls
 
