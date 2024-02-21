@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 2/21 2:14pm
+* New movies: The Animal Kingdom
+
+* New screenings: 
+    * [The Animal Kingdom](https://drafthouse.com/raleigh/show/the-animal-kingdom): Sun 3/17 (12:45pm), Mon 3/18 (6:45pm)
+
 ### Wed 2/21 1:23pm
 * New movies: Cure
 
