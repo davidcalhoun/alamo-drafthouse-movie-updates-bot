@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Tue 2/20 11:21pm
+* New movies: Gummo, The Devil Conspiracy
+
+* New screenings: 
+    * [Weird Wednesday Gummo](https://drafthouse.com/raleigh/show/weird-wednesday-gummo): Wed 3/13 (9:00pm)
+
+    * [Weird Wednesday The Devil Conspiracy](https://drafthouse.com/raleigh/show/weird-wednesday-the-devil-conspiracy): Wed 3/27 (9:00pm)
+
 ### Tue 2/20 5:18pm
 
 * New screenings: 
