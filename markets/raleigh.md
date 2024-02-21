@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 2/21 12:19pm
+* New movies: Popeye
+
+* New screenings: 
+    * [Weird Wednesday Popeye](https://drafthouse.com/raleigh/show/weird-wednesday-popeye): Wed 4/24 (9:00pm)
+
 ### Wed 2/21 12:19am
 * New movies: The Rare Blue Apes of Cannibal Isle
 
