@@ -1,6 +1,58 @@
 # los-angeles
 
 ## Movie updates
+### Tue 2/20 5:07pm
+* New movies: Stopmotion, Drive-Away Dolls
+
+* New screenings: 
+    * [2024 Oscar Nominated Shorts Animation](https://drafthouse.com/los-angeles/show/2024-oscar-nominated-shorts-animation): Thu 2/22 (10:40pm), Fri 2/23 (1:00pm, 10:45pm), Sat 2/24 (11:35am, 7:15pm), Sun 2/25 (11:00am, 4:35pm), Mon 2/26 (2:00pm, 10:45pm), Tue 2/27 (3:50pm, 10:15pm), Wed 2/28 (10:45pm)
+
+    * [2024 Oscar Nominated Shorts Live Action](https://drafthouse.com/los-angeles/show/2024-oscar-nominated-shorts-live-action): Thu 2/22 (3:40pm, 7:10pm), Fri 2/23 (3:40pm, 7:10pm), Sat 2/24 (3:40pm, 10:00pm), Sun 2/25 (1:00pm, 7:15pm), Mon 2/26 (3:40pm, 7:10pm), Tue 2/27 (12:10pm, 6:00pm), Wed 2/28 (3:40pm, 7:10pm)
+
+    * [Amelie](https://drafthouse.com/los-angeles/show/amelie): Thu 2/22 (9:35pm), Fri 2/23 (1:15pm, 5:45pm), Sat 2/24 (12:20pm), Sun 2/25 (2:30pm), Mon 2/26 (5:45pm), Tue 2/27 (11:15am, 4:00pm), Wed 2/28 (10:00pm)
+
+    * [American Fiction](https://drafthouse.com/los-angeles/show/american-fiction): Thu 2/22 (3:10pm)
+
+    * [American Pie](https://drafthouse.com/los-angeles/show/american-pie): Sat 2/24 (2:10pm)
+
+    * [Argylle](https://drafthouse.com/los-angeles/show/argylle): Thu 2/22 (3:20pm)
+
+    * [Bob Marley One Love](https://drafthouse.com/los-angeles/show/bob-marley-one-love): Thu 2/22 (4:25pm, 7:30pm, 10:25pm), Fri 2/23 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:45pm), Sat 2/24 (10:45am, 1:40pm, 4:40pm, 7:40pm, 10:40pm), Sun 2/25 (11:30am, 1:35pm, 4:35pm, 7:35pm), Mon 2/26 (2:00pm, 4:35pm, 7:30pm, 10:30pm), Tue 2/27 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:40pm), Wed 2/28 (4:45pm, 7:45pm, 10:40pm)
+
+    * [Brunch Screenings Drive Away Dolls Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-drive-away-dolls-brunch): Sat 2/24 (12:35pm)
+
+    * [Cruel Intentions](https://drafthouse.com/los-angeles/show/cruel-intentions): Fri 2/23 (11:20am), Tue 2/27 (11:35am)
+
+    * [Demon Slayer Kimetsu No Yaiba To The Hashira Training Dubbed](https://drafthouse.com/los-angeles/show/demon-slayer-kimetsu-no-yaiba-to-the-hashira-training-dubbed): Mon 2/26 (4:15pm, 10:50pm), Tue 2/27 (1:50pm, 7:30pm)
+
+    * [Demon Slayer Kimetsu No Yaiba To The Hashira Training Subtitled](https://drafthouse.com/los-angeles/show/demon-slayer-kimetsu-no-yaiba-to-the-hashira-training-subtitled): Mon 2/26 (8:00pm), Tue 2/27 (11:00am, 4:40pm, 10:25pm)
+
+    * [Drive Away Dolls](https://drafthouse.com/los-angeles/show/drive-away-dolls): Thu 2/22 (6:50pm, 9:30pm), Fri 2/23 (11:45am, 5:20pm, 8:00pm), Sat 2/24 (5:15pm, 7:50pm), Sun 2/25 (2:40pm, 5:15pm), Mon 2/26 (5:10pm, 7:45pm), Tue 2/27 (12:10pm, 2:30pm, 5:45pm, 10:35pm)
+
+    * [Existenz](https://drafthouse.com/los-angeles/show/existenz): Thu 2/22 (10:40pm)
+
+    * [Lisa Frankenstein](https://drafthouse.com/los-angeles/show/lisa-frankenstein): Thu 2/22 (3:10pm, 6:20pm, 9:15pm), Fri 2/23 (12:20pm, 3:25pm, 6:20pm, 9:15pm), Sat 2/24 (11:25am, 3:25pm, 6:20pm, 9:15pm), Sun 2/25 (12:10pm, 3:20pm, 6:20pm), Mon 2/26 (3:25pm, 6:20pm, 9:15pm), Tue 2/27 (11:25am, 3:25pm, 6:20pm, 9:15pm), Wed 2/28 (3:00pm, 6:30pm, 9:25pm)
+
+    * [Madame Web](https://drafthouse.com/los-angeles/show/madame-web): Thu 2/22 (3:00pm, 6:30pm, 9:40pm), Fri 2/23 (12:10pm, 3:10pm, 6:30pm, 9:40pm), Sat 2/24 (12:10pm, 3:10pm, 6:30pm, 9:40pm), Sun 2/25 (11:20am, 3:00pm, 6:10pm), Mon 2/26 (3:10pm, 6:30pm, 9:40pm), Tue 2/27 (12:30pm, 3:40pm, 7:00pm, 10:10pm), Wed 2/28 (3:15pm, 6:50pm, 10:00pm)
+
+    * [Out Of Darkness](https://drafthouse.com/los-angeles/show/out-of-darkness): Thu 2/22 (3:20pm)
+
+    * [Perfect Days](https://drafthouse.com/los-angeles/show/perfect-days): Thu 2/22 (7:20pm), Fri 2/23 (7:15pm)
+
+    * [Poor Things](https://drafthouse.com/los-angeles/show/poor-things): Thu 2/22 (3:45pm, 6:10pm, 9:45pm), Fri 2/23 (11:00am, 2:35pm, 6:10pm, 9:45pm), Sat 2/24 (11:00am, 2:35pm, 6:10pm, 9:45pm), Sun 2/25 (11:15am, 2:50pm, 6:30pm), Mon 2/26 (2:35pm, 6:10pm, 9:45pm), Tue 2/27 (12:20pm, 2:35pm, 6:10pm, 9:45pm), Wed 2/28 (4:15pm, 6:10pm, 9:45pm)
+
+    * [Sleepy Hollow](https://drafthouse.com/los-angeles/show/sleepy-hollow): Sat 2/24 (5:00pm), Mon 2/26 (2:45pm), Wed 2/28 (3:10pm)
+
+    * [Stopmotion](https://drafthouse.com/los-angeles/show/stopmotion): Fri 2/23 (10:30pm), Sat 2/24 (11:00pm), Sun 2/25 (8:00pm), Mon 2/26 (10:25pm), Tue 2/27 (5:15pm), Wed 2/28 (10:45pm)
+
+    * [The Sweet East](https://drafthouse.com/los-angeles/show/the-sweet-east): Sun 2/25 (5:45pm)
+
+    * [The Taste Of Things](https://drafthouse.com/los-angeles/show/the-taste-of-things): Thu 2/22 (3:00pm, 6:00pm, 9:30pm), Fri 2/23 (11:00am, 2:30pm, 6:00pm, 9:30pm), Sat 2/24 (11:00am, 2:30pm, 6:00pm, 9:30pm), Sun 2/25 (11:50am, 2:30pm, 6:00pm), Mon 2/26 (2:30pm, 6:00pm, 9:30pm), Tue 2/27 (11:50am, 2:20pm, 9:30pm), Wed 2/28 (3:20pm, 6:00pm, 9:30pm)
+
+    * [The Zone Of Interest](https://drafthouse.com/los-angeles/show/the-zone-of-interest): Thu 2/22 (3:30pm, 6:30pm), Fri 2/23 (2:20pm, 10:35pm), Sat 2/24 (2:15pm, 10:30pm), Sun 2/25 (11:40am, 7:50pm), Mon 2/26 (2:10pm, 10:20pm), Tue 2/27 (2:45pm, 8:30pm), Wed 2/28 (4:30pm, 10:25pm)
+
+    * [Twin Peaks Fire Walk With Me](https://drafthouse.com/los-angeles/show/twin-peaks-fire-walk-with-me): Fri 2/23 (2:15pm), Sat 2/24 (5:40pm), Mon 2/26 (9:00pm), Wed 2/28 (3:45pm)
+
 ### Thu 2/15 9:15pm
 * New movies: Labyrinth, The Twilight Saga: Eclipse
 
