@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 2/21 1:23pm
+* New movies: Cure
+
+* New screenings: 
+    * [Terror Tuesday Cure](https://drafthouse.com/raleigh/show/terror-tuesday-cure): Tue 4/16 (9:00pm)
+
 ### Wed 2/21 12:19pm
 * New movies: Popeye
 
