@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 2/21 12:19am
+* New movies: The Rare Blue Apes of Cannibal Isle
+
+* New screenings: 
+    * [Weird Wednesday The Rare Blue Apes Of Cannibal Isle](https://drafthouse.com/raleigh/show/weird-wednesday-the-rare-blue-apes-of-cannibal-isle): Wed 3/20 (9:00pm)
+
 ### Tue 2/20 11:21pm
 * New movies: Gummo, The Devil Conspiracy
 
