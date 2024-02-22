@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Thu 2/22 12:19am
+* New movies: Imaginary
+
+* New screenings: 
+    * [Brunch Screenings Problemista Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-problemista-brunch): Sat 3/16 (12:30pm), Sun 3/17 (12:30pm)
+
+    * [Dune Part Two](https://drafthouse.com/los-angeles/show/dune-part-two): Thu 3/14 (3:00pm, 7:00pm)
+
+    * [Imaginary](https://drafthouse.com/los-angeles/show/imaginary): Thu 3/7 (6:15pm, 9:15pm), Fri 3/8 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sat 3/9 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sun 3/10 (12:15pm, 3:15pm, 6:15pm), Mon 3/11 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Tue 3/12 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Wed 3/13 (12:15pm, 3:15pm, 6:15pm, 9:15pm)
+
+    * [Problemista](https://drafthouse.com/los-angeles/show/problemista): Thu 3/14 (3:30pm, 6:30pm, 9:30pm), Fri 3/15 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sat 3/16 (3:30pm, 6:30pm, 9:30pm), Sun 3/17 (3:30pm, 6:30pm, 9:30pm)
+
 ### Wed 2/21 11:14pm
 
 * New screenings: 
