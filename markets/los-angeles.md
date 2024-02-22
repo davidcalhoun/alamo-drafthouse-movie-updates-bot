@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 2/21 11:14pm
+
+* New screenings: 
+    * [Dune Part Two](https://drafthouse.com/los-angeles/show/dune-part-two): Thu 2/29 (4:00pm, 8:00pm), Fri 3/1 (11:00am, 3:00pm, 7:00pm), Sat 3/2 (11:00am, 3:00pm, 7:00pm), Sun 3/3 (12:00pm, 4:00pm, 8:00pm), Fri 3/8 (1:00pm, 5:00pm, 9:00pm), Sat 3/9 (1:00pm, 5:00pm, 9:00pm), Sun 3/10 (10:30am, 2:30pm, 6:30pm), Mon 3/11 (12:00pm, 4:00pm, 8:00pm), Tue 3/12 (12:00pm, 4:00pm, 8:00pm), Wed 3/13 (12:00pm, 4:00pm, 8:00pm)
+
 ### Tue 2/20 9:15pm
 * New movies: Robot Dreams, The Untouchables
 
