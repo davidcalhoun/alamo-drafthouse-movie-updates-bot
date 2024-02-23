@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 2/22 6:20pm
+* New movies: The Animal Kingdom
+
+* New screenings: 
+    * [The Animal Kingdom](https://drafthouse.com/los-angeles/show/the-animal-kingdom): Thu 3/14 (7:15pm), Fri 3/15 (10:00pm), Sat 3/16 (3:45pm), Sun 3/17 (6:15pm), Mon 3/18 (3:45pm), Tue 3/19 (12:00pm), Wed 3/20 (9:10pm)
+
 ### Thu 2/22 12:19am
 * New movies: Imaginary
 
