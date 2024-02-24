@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 2/23 7:17pm
+* New movies: Ennio
+
+* New screenings: 
+    * [Ennio](https://drafthouse.com/los-angeles/show/ennio): Fri 3/29 (2:15pm), Sat 3/30 (11:00am), Sun 3/31 (11:25am)
+
 ### Thu 2/22 6:20pm
 * New movies: The Animal Kingdom
 
