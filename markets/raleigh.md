@@ -1,6 +1,48 @@
 # raleigh
 
 ## Movie updates
+### Mon 2/26 3:18pm
+* New movies: The Invisible Fight, The Sweet East
+
+* New screenings: 
+    * [2024 Oscar Nominated Shorts Animation](https://drafthouse.com/raleigh/show/2024-oscar-nominated-shorts-animation): Thu 2/29 (11:30am)
+
+    * [2024 Oscar Nominated Shorts Live Action](https://drafthouse.com/raleigh/show/2024-oscar-nominated-shorts-live-action): Thu 2/29 (2:00pm)
+
+    * [American Fiction](https://drafthouse.com/raleigh/show/american-fiction): Thu 2/29 (7:15pm), Fri 3/1 (7:30pm), Sat 3/2 (7:30pm), Sun 3/3 (7:30pm), Mon 3/4 (6:25pm), Tue 3/5 (9:30pm), Wed 3/6 (7:30pm)
+
+    * [American Pie](https://drafthouse.com/raleigh/show/american-pie): Thu 2/29 (12:30pm)
+
+    * [Argylle](https://drafthouse.com/raleigh/show/argylle): Thu 2/29 (11:00pm), Fri 3/1 (10:45pm), Sat 3/2 (10:45pm), Sun 3/3 (10:45pm), Wed 3/6 (10:45pm)
+
+    * [Bob Marley One Love](https://drafthouse.com/raleigh/show/bob-marley-one-love): Thu 2/29 (11:30am, 2:50pm, 6:30pm, 9:45pm), Fri 3/1 (12:00pm, 3:15pm, 6:15pm, 9:15pm), Sat 3/2 (12:00pm, 3:45pm, 6:45pm, 10:00pm), Sun 3/3 (12:00pm, 3:45pm, 6:45pm, 10:00pm), Mon 3/4 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Tue 3/5 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Wed 3/6 (12:15pm, 3:15pm, 6:15pm, 9:15pm)
+
+    * [Cruel Intentions](https://drafthouse.com/raleigh/show/cruel-intentions): Thu 2/29 (11:55am)
+
+    * [Demon Slayer Kimetsu No Yaiba To The Hashira Training Dubbed](https://drafthouse.com/raleigh/show/demon-slayer-kimetsu-no-yaiba-to-the-hashira-training-dubbed): Thu 2/29 (12:45pm, 4:00pm, 10:45pm), Fri 3/1 (2:45pm, 9:30pm), Sat 3/2 (2:45pm, 9:30pm), Sun 3/3 (2:45pm, 9:30pm), Mon 3/4 (3:15pm, 10:00pm), Tue 3/5 (3:15pm, 9:45pm), Wed 3/6 (3:15pm, 10:00pm)
+
+    * [Demon Slayer Kimetsu No Yaiba To The Hashira Training Subtitled](https://drafthouse.com/raleigh/show/demon-slayer-kimetsu-no-yaiba-to-the-hashira-training-subtitled): Thu 2/29 (7:45pm), Fri 3/1 (11:30am, 6:30pm), Sat 3/2 (11:15am, 6:30pm), Sun 3/3 (11:15am, 6:30pm), Mon 3/4 (11:30am, 6:45pm), Tue 3/5 (11:30am, 6:45pm), Wed 3/6 (11:15am, 6:30pm)
+
+    * [Drive Away Dolls](https://drafthouse.com/raleigh/show/drive-away-dolls): Thu 2/29 (1:30pm, 4:45pm, 7:30pm, 10:30pm), Fri 3/1 (11:30am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Sat 3/2 (11:30am, 3:30pm, 6:15pm, 9:15pm, 11:45pm), Sun 3/3 (11:30am, 2:30pm, 5:15pm, 8:15pm, 10:45pm), Mon 3/4 (11:30am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Tue 3/5 (11:30am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Wed 3/6 (11:30am, 2:30pm, 5:15pm, 8:00pm, 10:45pm)
+
+    * [Dune Part Two](https://drafthouse.com/raleigh/show/dune-part-two): Thu 2/29 (4:00pm, 5:30pm, 6:00pm, 8:00pm, 9:30pm, 10:00pm, 10:30pm), Fri 3/1 (12:00pm, 12:30pm, 1:30pm, 2:00pm, 4:00pm, 4:30pm, 5:30pm, 6:00pm, 8:00pm, 8:30pm, 9:30pm, 10:00pm), Sat 3/2 (12:00pm, 12:30pm, 1:30pm, 2:00pm, 4:00pm, 4:30pm, 5:30pm, 6:00pm, 8:00pm, 8:30pm, 9:30pm, 10:00pm, 11:00pm), Sun 3/3 (12:00pm, 12:30pm, 1:30pm, 2:00pm, 4:00pm, 4:30pm, 5:30pm, 6:00pm, 8:00pm, 8:30pm, 9:30pm, 10:00pm), Mon 3/4 (12:00pm, 12:30pm, 1:30pm, 2:00pm, 4:00pm, 4:30pm, 5:30pm, 8:00pm, 8:30pm, 8:35pm, 9:30pm), Tue 3/5 (12:00pm, 12:30pm, 1:30pm, 2:00pm, 4:00pm, 4:30pm, 5:30pm, 6:00pm, 8:00pm, 8:30pm, 10:00pm), Wed 3/6 (11:30am, 12:00pm, 12:30pm, 1:45pm, 3:30pm, 4:00pm, 4:30pm, 6:00pm, 8:00pm, 8:30pm, 10:00pm), Thu 3/7 (11:00am, 3:00pm, 7:00pm), Fri 3/8 (12:00pm, 4:00pm, 8:00pm), Sat 3/9 (12:00pm, 4:00pm, 8:00pm), Sun 3/10 (12:00pm, 4:00pm, 8:15pm), Mon 3/11 (12:00pm, 4:00pm, 8:00pm), Tue 3/12 (12:00pm, 4:00pm), Wed 3/13 (11:00am, 3:30pm)
+
+    * [Lisa Frankenstein](https://drafthouse.com/raleigh/show/lisa-frankenstein): Thu 2/29 (1:00pm), Fri 3/1 (12:45pm), Sat 3/2 (12:45pm), Sun 3/3 (12:45pm), Mon 3/4 (11:15am), Tue 3/5 (11:15am), Wed 3/6 (12:15pm)
+
+    * [Madame Web](https://drafthouse.com/raleigh/show/madame-web): Thu 2/29 (3:45pm), Fri 3/1 (4:15pm), Sat 3/2 (4:15pm), Sun 3/3 (4:15pm), Mon 3/4 (2:45pm), Tue 3/5 (2:15pm), Wed 3/6 (3:30pm)
+
+    * [One From The Heart Reprise](https://drafthouse.com/raleigh/show/one-from-the-heart-reprise): Thu 2/29 (3:20pm)
+
+    * [Perfect Days](https://drafthouse.com/raleigh/show/perfect-days): Thu 2/29 (12:15pm, 3:35pm, 6:45pm, 10:00pm), Fri 3/1 (12:30pm, 4:00pm, 7:15pm, 10:30pm), Sat 3/2 (12:30pm, 4:00pm, 7:15pm, 10:30pm), Sun 3/3 (12:30pm, 4:00pm, 7:15pm, 10:30pm), Mon 3/4 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Tue 3/5 (12:30pm, 4:00pm, 7:15pm, 10:30pm), Wed 3/6 (11:45am, 3:45pm, 7:15pm, 10:30pm)
+
+    * [Stopmotion](https://drafthouse.com/raleigh/show/stopmotion): Thu 2/29 (3:15pm)
+
+    * [The Invisible Fight](https://drafthouse.com/raleigh/show/the-invisible-fight): Thu 2/29 (1:45pm)
+
+    * [The Sweet East](https://drafthouse.com/raleigh/show/the-sweet-east): Thu 2/29 (11:45am)
+
+    * [The Taste Of Things](https://drafthouse.com/raleigh/show/the-taste-of-things): Thu 2/29 (12:30pm)
+
 ### Mon 2/26 2:14pm
 
 * New screenings: 
