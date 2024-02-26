@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 2/26 2:14pm
+
+* New screenings: 
+    * [Movie Party Pulp Fiction](https://drafthouse.com/raleigh/show/movie-party-pulp-fiction): Tue 4/30 (7:00pm)
+
 ### Wed 2/21 2:14pm
 * New movies: The Animal Kingdom
 
