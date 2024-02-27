@@ -1,6 +1,37 @@
 # los-angeles
 
 ## Movie updates
+### Mon 2/26 6:19pm
+
+* New screenings: 
+    * [2024 Oscar Nominated Shorts Animation](https://drafthouse.com/los-angeles/show/2024-oscar-nominated-shorts-animation): Thu 2/29 (1:45pm), Fri 3/1 (3:45pm), Sat 3/2 (4:30pm), Mon 3/4 (6:15pm), Tue 3/5 (6:15pm), Wed 3/6 (6:15pm)
+
+    * [2024 Oscar Nominated Shorts Live Action](https://drafthouse.com/los-angeles/show/2024-oscar-nominated-shorts-live-action): Thu 2/29 (6:15pm), Fri 3/1 (6:20pm), Sat 3/2 (6:10pm), Sun 3/3 (10:40am), Mon 3/4 (2:25pm), Tue 3/5 (2:25pm), Wed 3/6 (2:25pm)
+
+    * [Bob Marley One Love](https://drafthouse.com/los-angeles/show/bob-marley-one-love): Thu 2/29 (4:15pm, 7:15pm, 10:20pm), Fri 3/1 (10:45am, 1:45pm, 4:50pm, 7:45pm, 10:40pm), Sat 3/2 (10:45am, 1:45pm, 4:50pm, 7:45pm, 10:40pm), Sun 3/3 (12:00pm, 2:00pm, 4:45pm, 7:45pm), Mon 3/4 (11:00am, 1:00pm, 4:30pm, 7:30pm, 10:30pm), Tue 3/5 (11:00am, 1:00pm, 4:30pm, 7:30pm, 10:30pm), Wed 3/6 (11:00am, 1:15pm, 4:30pm, 7:30pm, 10:30pm)
+
+    * [Chungking Express](https://drafthouse.com/los-angeles/show/chungking-express): Mon 3/4 (11:40am), Wed 3/6 (4:20pm)
+
+    * [Demon Slayer Kimetsu No Yaiba To The Hashira Training Dubbed](https://drafthouse.com/los-angeles/show/demon-slayer-kimetsu-no-yaiba-to-the-hashira-training-dubbed): Thu 2/29 (3:00pm, 10:10pm), Fri 3/1 (11:35am, 6:10pm), Sat 3/2 (3:00pm, 10:00pm), Sun 3/3 (11:00am, 6:10pm), Mon 3/4 (11:45am, 6:30pm), Tue 3/5 (2:50pm, 9:40pm), Wed 3/6 (11:45am, 6:30pm)
+
+    * [Demon Slayer Kimetsu No Yaiba To The Hashira Training Subtitled](https://drafthouse.com/los-angeles/show/demon-slayer-kimetsu-no-yaiba-to-the-hashira-training-subtitled): Thu 2/29 (6:25pm), Fri 3/1 (3:00pm, 10:00pm), Sat 3/2 (11:40am, 6:20pm), Sun 3/3 (3:00pm), Mon 3/4 (2:50pm, 9:40pm), Tue 3/5 (11:45am, 6:30pm), Wed 3/6 (2:50pm, 9:40pm)
+
+    * [Drive Away Dolls](https://drafthouse.com/los-angeles/show/drive-away-dolls): Thu 2/29 (2:10pm, 4:50pm, 7:25pm), Fri 3/1 (11:15am, 2:00pm, 4:40pm, 7:15pm, 11:00pm), Sat 3/2 (11:15am, 2:00pm, 4:40pm, 7:20pm, 11:00pm), Sun 3/3 (11:10am, 2:00pm, 4:40pm, 7:15pm), Mon 3/4 (11:15am, 2:00pm, 4:40pm, 7:15pm, 9:50pm), Tue 3/5 (11:15am, 2:00pm, 4:40pm, 7:15pm, 9:50pm), Wed 3/6 (11:15am, 2:00pm, 4:40pm, 7:15pm, 9:50pm)
+
+    * [Dune Part Two](https://drafthouse.com/los-angeles/show/dune-part-two): Thu 2/29 (3:30pm, 5:30pm, 7:30pm, 9:15pm, 9:30pm, 9:45pm), Fri 3/1 (11:45am, 12:00pm, 4:00pm, 5:45pm, 8:00pm, 9:15pm, 9:45pm), Sat 3/2 (11:50am, 12:30pm, 2:10pm, 4:00pm, 8:00pm, 9:15pm, 9:40pm), Sun 3/3 (11:15am, 1:45pm, 2:15pm, 5:00pm, 6:00pm), Mon 3/4 (12:00pm, 12:30pm, 2:00pm, 3:45pm, 4:15pm, 6:00pm, 7:45pm, 8:15pm, 8:45pm, 10:00pm), Tue 3/5 (12:00pm, 12:30pm, 2:00pm, 3:45pm, 4:15pm, 6:00pm, 7:45pm, 8:15pm, 8:45pm, 10:00pm), Wed 3/6 (12:00pm, 12:30pm, 2:00pm, 3:45pm, 4:10pm, 6:00pm, 8:15pm, 8:45pm, 10:00pm)
+
+    * [Lisa Frankenstein](https://drafthouse.com/los-angeles/show/lisa-frankenstein): Thu 2/29 (2:00pm, 11:00pm), Fri 3/1 (11:50am, 9:50pm), Sat 3/2 (10:45pm), Sun 3/3 (1:50pm), Mon 3/4 (11:30am, 10:30pm), Tue 3/5 (11:30am, 10:15pm), Wed 3/6 (11:30am, 10:50pm)
+
+    * [Madame Web](https://drafthouse.com/los-angeles/show/madame-web): Thu 2/29 (2:25pm)
+
+    * [Michael Clayton](https://drafthouse.com/los-angeles/show/michael-clayton): Mon 3/4 (4:00pm), Tue 3/5 (4:00pm), Wed 3/6 (10:15pm)
+
+    * [Perfect Days](https://drafthouse.com/los-angeles/show/perfect-days): Thu 2/29 (3:20pm, 6:45pm, 10:15pm), Fri 3/1 (12:00pm, 3:20pm, 6:45pm, 10:05pm), Sat 3/2 (12:00pm, 3:15pm, 7:10pm, 10:30pm), Sun 3/3 (11:15am, 3:15pm, 6:45pm), Mon 3/4 (12:10pm, 3:30pm, 6:45pm, 10:10pm), Tue 3/5 (12:10pm, 3:30pm, 6:45pm, 10:10pm), Wed 3/6 (12:10pm, 3:30pm, 6:45pm, 10:10pm)
+
+    * [Poor Things](https://drafthouse.com/los-angeles/show/poor-things): Thu 2/29 (2:15pm, 6:00pm, 9:40pm), Fri 3/1 (11:25am, 2:35pm, 6:00pm, 9:40pm), Sat 3/2 (11:25am, 2:40pm, 6:00pm, 9:35pm), Sun 3/3 (10:30am, 2:35pm, 6:20pm), Mon 3/4 (12:10pm, 2:40pm, 6:00pm, 9:25pm), Tue 3/5 (12:00pm, 2:40pm, 6:00pm, 9:25pm), Wed 3/6 (12:10pm, 2:40pm, 6:00pm, 9:25pm)
+
+    * [The Taste Of Things](https://drafthouse.com/los-angeles/show/the-taste-of-things): Thu 2/29 (2:45pm), Sat 3/2 (10:45am), Tue 3/5 (11:20am), Wed 3/6 (11:20am)
+
 ### Fri 2/23 7:17pm
 * New movies: Ennio
 
