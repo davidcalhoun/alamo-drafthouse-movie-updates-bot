@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 2/27 6:21pm
+
+* New screenings: 
+    * [Dune Part Two](https://drafthouse.com/los-angeles/show/dune-part-two): Fri 3/15 (11:00am, 3:00pm, 7:00pm), Sat 3/16 (11:00am, 3:00pm, 7:00pm), Sun 3/17 (11:00am, 3:00pm, 7:00pm), Tue 3/19 (11:00am, 3:00pm, 7:00pm)
+
 ### Mon 2/26 6:19pm
 
 * New screenings: 
