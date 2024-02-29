@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 2/29 6:17am
+* New movies: Ghostbusters: Frozen Empire
+
+* New screenings: 
+    * [Ghostbusters Frozen Empire](https://drafthouse.com/los-angeles/show/ghostbusters-frozen-empire): Thu 3/21 (2:50pm, 6:00pm, 9:10pm), Fri 3/22 (11:45am, 2:50pm, 6:00pm, 9:10pm), Sat 3/23 (11:45am, 2:50pm, 6:00pm, 9:10pm), Sun 3/24 (11:00am, 2:00pm, 5:00pm), Mon 3/25 (6:00pm, 9:10pm), Tue 3/26 (11:45am, 2:50pm, 6:00pm, 9:10pm), Wed 3/27 (6:00pm, 9:10pm), Thu 3/28 (2:50pm, 6:00pm, 9:10pm), Fri 3/29 (12:20pm, 3:25pm, 6:30pm, 9:35pm), Tue 4/2 (12:20pm, 3:25pm, 6:30pm, 9:35pm), Wed 4/3 (6:30pm, 9:35pm)
+
 ### Thu 2/29 5:16am
 * New movies: Late Night with the Devil
 
