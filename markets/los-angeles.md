@@ -1,6 +1,24 @@
 # los-angeles
 
 ## Movie updates
+### Wed 2/28 5:51pm
+* New movies: Bone Tomahawk, Breakdown, Death Proof, The Thing 1982, Used Cars, Escape from New York, Star Trek 2009
+
+* New screenings: 
+    * [Bone Tomahawk](https://drafthouse.com/los-angeles/show/bone-tomahawk): Sat 4/6 (6:00pm), Sun 4/7 (2:15pm)
+
+    * [Breakdown](https://drafthouse.com/los-angeles/show/breakdown): Sat 4/6 (4:00pm), Wed 4/10 (8:00pm)
+
+    * [Death Proof](https://drafthouse.com/los-angeles/show/death-proof): Fri 4/5 (9:20pm), Sat 4/6 (9:25pm)
+
+    * [Escape From New York](https://drafthouse.com/los-angeles/show/escape-from-new-york): Sun 4/7 (8:00pm)
+
+    * [Star Trek 2009](https://drafthouse.com/los-angeles/show/star-trek-2009): Fri 4/5 (6:00pm)
+
+    * [The Thing](https://drafthouse.com/los-angeles/show/the-thing): Fri 4/5 (11:45am), Sun 4/7 (5:45pm)
+
+    * [Used Cars](https://drafthouse.com/los-angeles/show/used-cars): Fri 4/5 (2:50pm), Sat 4/6 (11:00am)
+
 ### Tue 2/27 6:21pm
 
 * New screenings: 
