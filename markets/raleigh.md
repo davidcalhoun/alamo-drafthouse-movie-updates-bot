@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 2/29 9:21am
+* New movies: Ghostbusters: Frozen Empire
+
+* New screenings: 
+    * [Ghostbusters Frozen Empire](https://drafthouse.com/raleigh/show/ghostbusters-frozen-empire): Thu 3/21 (3:45pm, 7:00pm, 10:15pm), Fri 3/22 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Sat 3/23 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Sun 3/24 (12:30pm, 3:45pm, 7:00pm, 10:15pm)
+
 ### Thu 2/29 8:19am
 * New movies: Late Night with the Devil
 
