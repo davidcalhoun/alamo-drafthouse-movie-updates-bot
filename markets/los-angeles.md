@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 2/29 5:16am
+* New movies: Late Night with the Devil
+
+* New screenings: 
+    * [Fantastic Fest Presents Late Night With The Devil W Livestream Q A](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-late-night-with-the-devil-w-livestream-q-a): Fri 3/15 (5:00pm)
+
 ### Wed 2/28 5:51pm
 * New movies: Bone Tomahawk, Breakdown, Death Proof, The Thing 1982, Used Cars, Escape from New York, Star Trek 2009
 
