@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 2/29 8:19am
+* New movies: Late Night with the Devil
+
+* New screenings: 
+    * [Fantastic Fest Presents Late Night With The Devil W Livestream Q A](https://drafthouse.com/raleigh/show/fantastic-fest-presents-late-night-with-the-devil-w-livestream-q-a): Fri 3/15 (8:00pm)
+
 ### Mon 2/26 3:18pm
 * New movies: The Invisible Fight, The Sweet East
 
