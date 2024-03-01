@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Fri 3/1 9:17am
+* New movies: Love Lies Bleeding, Love Lies Bleeding
+
+* New screenings: 
+    * [Livestream Q A Love Lies Bleeding](https://drafthouse.com/raleigh/show/livestream-q-a-love-lies-bleeding): Tue 3/12 (8:00pm)
+
+    * [Love Lies Bleeding](https://drafthouse.com/raleigh/show/love-lies-bleeding): Thu 3/14 (4:45pm, 7:45pm, 10:45pm), Fri 3/15 (7:45pm, 10:45pm), Sat 3/16 (7:45pm, 10:45pm)
+
 ### Thu 2/29 9:21am
 * New movies: Ghostbusters: Frozen Empire
 
