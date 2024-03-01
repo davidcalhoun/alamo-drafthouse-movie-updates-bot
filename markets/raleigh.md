@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 3/1 5:18pm
+* New movies: Irresistible
+
+* New screenings: 
+    * [Free Victory Screening Irresistible](https://drafthouse.com/raleigh/show/free-victory-screening-irresistible): Wed 3/27 (7:00pm)
+
 ### Fri 3/1 2:15pm
 * New movies: Kumiko: The Treasure Hunter
 
