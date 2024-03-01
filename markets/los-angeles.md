@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 3/1 6:13am
+* New movies: Love Lies Bleeding, Love Lies Bleeding
+
+* New screenings: 
+    * [Livestream Q A Love Lies Bleeding](https://drafthouse.com/los-angeles/show/livestream-q-a-love-lies-bleeding): Tue 3/12 (5:00pm)
+
+    * [Love Lies Bleeding](https://drafthouse.com/los-angeles/show/love-lies-bleeding): Thu 3/14 (4:30pm, 7:30pm, 10:30pm), Fri 3/15 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Sat 3/16 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Sun 3/17 (12:45pm, 3:45pm, 6:45pm), Tue 3/19 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Thu 3/21 (6:45pm), Fri 3/22 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Sat 3/23 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Sun 3/24 (12:45pm, 3:45pm, 6:45pm), Mon 3/25 (6:45pm, 9:45pm), Tue 3/26 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Wed 3/27 (6:45pm, 9:45pm)
+
 ### Thu 2/29 6:17am
 * New movies: Ghostbusters: Frozen Empire
 
