@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 3/1 2:15pm
+* New movies: Kumiko: The Treasure Hunter
+
+* New screenings: 
+    * [Kumiko The Treasure Hunter](https://drafthouse.com/raleigh/show/kumiko-the-treasure-hunter): Thu 3/28 (7:45pm)
+
 ### Fri 3/1 9:17am
 * New movies: Love Lies Bleeding, Love Lies Bleeding
 
