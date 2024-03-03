@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Sun 3/3 4:17am
+* New movies: Blade
+
+* New screenings: 
+    * [Terror Tuesday Blade](https://drafthouse.com/raleigh/show/terror-tuesday-blade): Tue 3/19 (9:00pm)
+
 ### Fri 3/1 5:18pm
 * New movies: Irresistible
 
