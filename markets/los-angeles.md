@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Sun 3/3 5:07pm
+* New movies: All You Need is Death
+
+* New screenings: 
+    * [Clifford 1994](https://drafthouse.com/los-angeles/show/clifford-1994): Fri 3/29 (9:15pm)
+
+    * [Live Q A All You Need Is Death](https://drafthouse.com/los-angeles/show/live-q-a-all-you-need-is-death): Thu 4/11 (7:00pm), Fri 4/12 (7:00pm)
+
 ### Fri 3/1 6:13am
 * New movies: Love Lies Bleeding, Love Lies Bleeding
 
