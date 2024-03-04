@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 3/4 9:17am
+* New movies: 3 Body Problem
+
+* New screenings: 
+    * [Free Victory Screening 3 Body Problem](https://drafthouse.com/raleigh/show/free-victory-screening-3-body-problem): Mon 3/18 (7:00pm)
+
 ### Sun 3/3 4:17am
 * New movies: Blade
 
