@@ -1,6 +1,32 @@
 # raleigh
 
 ## Movie updates
+### Mon 3/4 3:19pm
+* New movies: Imaginary
+
+* New screenings: 
+    * [American Fiction](https://drafthouse.com/raleigh/show/american-fiction): Thu 3/7 (2:45pm), Fri 3/8 (3:45pm), Sat 3/9 (4:00pm), Sun 3/10 (2:45pm), Mon 3/11 (2:45pm), Tue 3/12 (3:45pm), Wed 3/13 (3:45pm)
+
+    * [Argylle](https://drafthouse.com/raleigh/show/argylle): Thu 3/7 (11:15am)
+
+    * [Bob Marley One Love](https://drafthouse.com/raleigh/show/bob-marley-one-love): Thu 3/7 (12:15pm, 3:15pm, 6:45pm, 10:00pm), Fri 3/8 (12:15pm, 3:30pm, 6:30pm, 9:45pm), Sat 3/9 (12:00pm, 3:00pm, 5:30pm, 8:45pm, 10:00pm), Sun 3/10 (12:15pm, 3:15pm, 6:30pm, 9:30pm), Mon 3/11 (11:30am, 2:45pm, 6:00pm, 9:15pm), Tue 3/12 (12:15pm, 3:30pm, 6:30pm, 9:45pm), Wed 3/13 (12:15pm, 3:15pm, 6:30pm, 9:45pm)
+
+    * [Demon Slayer Kimetsu No Yaiba To The Hashira Training Subtitled](https://drafthouse.com/raleigh/show/demon-slayer-kimetsu-no-yaiba-to-the-hashira-training-subtitled): Thu 3/7 (9:15pm), Fri 3/8 (9:30pm), Sat 3/9 (10:30pm), Sun 3/10 (10:00pm), Mon 3/11 (9:45pm), Tue 3/12 (9:30pm), Wed 3/13 (9:30pm)
+
+    * [Drive Away Dolls](https://drafthouse.com/raleigh/show/drive-away-dolls): Thu 3/7 (1:00pm, 4:15pm, 7:45pm, 10:45pm), Fri 3/8 (1:00pm, 4:15pm, 7:15pm, 10:30pm), Sat 3/9 (1:00pm, 4:15pm, 7:15pm, 10:30pm), Sun 3/10 (1:00pm, 4:15pm, 7:15pm, 10:15pm), Mon 3/11 (1:00pm, 4:45pm, 7:45pm, 10:30pm), Tue 3/12 (1:00pm, 4:15pm, 7:30pm, 10:30pm), Wed 3/13 (1:00pm, 4:45pm, 7:30pm, 10:30pm)
+
+    * [Dune Part Two](https://drafthouse.com/raleigh/show/dune-part-two): Thu 3/7 (12:00pm, 12:30pm, 1:30pm, 4:00pm, 4:30pm, 5:30pm, 8:00pm, 8:30pm, 9:30pm), Fri 3/8 (11:30am, 12:45pm, 1:45pm, 3:30pm, 4:45pm, 5:45pm, 7:30pm, 8:45pm, 9:45pm), Sat 3/9 (11:30am, 1:10pm, 3:30pm, 5:00pm, 6:00pm, 7:30pm, 9:00pm), Sun 3/10 (12:40pm, 1:15pm, 3:40pm, 4:30pm, 5:30pm, 6:00pm, 8:30pm, 9:30pm), Mon 3/11 (12:30pm, 1:00pm, 1:30pm, 4:30pm, 5:00pm, 5:30pm, 8:30pm, 9:00pm, 9:30pm), Tue 3/12 (11:30am, 12:45pm, 1:45pm, 3:30pm, 4:45pm, 5:45pm, 7:45pm, 8:45pm, 9:45pm), Wed 3/13 (11:30am, 12:30pm, 1:45pm, 3:00pm, 3:30pm, 4:30pm, 5:45pm, 7:45pm, 8:45pm, 9:45pm), Thu 3/14 (12:45pm, 4:45pm, 8:45pm)
+
+    * [Imaginary](https://drafthouse.com/raleigh/show/imaginary): Thu 3/7 (6:15pm, 9:15pm), Fri 3/8 (11:15am, 2:30pm, 6:00pm, 9:15pm), Sat 3/9 (12:15pm, 3:30pm, 6:30pm, 9:30pm), Sun 3/10 (12:20pm, 3:45pm, 6:45pm, 9:45pm), Mon 3/11 (12:45pm, 3:45pm, 6:15pm, 9:45pm), Tue 3/12 (11:15am, 2:30pm, 6:00pm, 9:15pm), Wed 3/13 (11:15am, 2:30pm, 6:00pm, 9:15pm)
+
+    * [Kung Fu Panda 4](https://drafthouse.com/raleigh/show/kung-fu-panda-4): Thu 3/7 (2:00pm, 4:45pm, 6:30pm, 7:30pm, 9:30pm, 10:30pm), Fri 3/8 (12:05pm, 2:45pm, 5:30pm, 6:45pm, 8:30pm, 9:00pm), Sat 3/9 (11:45am, 2:30pm, 5:15pm, 7:45pm, 8:30pm, 9:15pm), Sun 3/10 (11:45am, 2:30pm, 5:15pm, 8:45pm, 9:15pm), Mon 3/11 (12:30pm, 2:00pm, 3:30pm, 4:45pm, 6:30pm, 7:30pm, 9:30pm, 10:30pm), Tue 3/12 (12:45pm, 1:45pm, 3:30pm, 4:30pm, 6:15pm, 6:45pm, 10:15pm), Wed 3/13 (12:00pm, 1:30pm, 2:45pm, 4:15pm, 5:30pm, 6:45pm, 8:15pm)
+
+    * [Lisa Frankenstein](https://drafthouse.com/raleigh/show/lisa-frankenstein): Thu 3/7 (11:30am)
+
+    * [Madame Web](https://drafthouse.com/raleigh/show/madame-web): Thu 3/7 (2:30pm)
+
+    * [Perfect Days](https://drafthouse.com/raleigh/show/perfect-days): Thu 3/7 (11:30am), Fri 3/8 (12:30pm), Sat 3/9 (12:30pm), Sun 3/10 (11:15am), Mon 3/11 (11:30am), Tue 3/12 (12:30pm), Wed 3/13 (12:25pm)
+
 ### Mon 3/4 2:15pm
 
 * New screenings: 
