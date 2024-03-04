@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 3/4 2:15pm
+
+* New screenings: 
+    * [Dune Part Two](https://drafthouse.com/raleigh/show/dune-part-two): Fri 3/15 (12:00pm, 4:00pm, 8:15pm), Sat 3/16 (11:45am, 4:00pm, 8:00pm), Sun 3/17 (11:00am, 3:30pm), Mon 3/18 (11:00am, 3:00pm, 8:00pm), Tue 3/19 (12:00pm, 4:00pm, 8:00pm), Wed 3/20 (12:00pm, 4:00pm, 8:00pm)
+
 ### Mon 3/4 9:17am
 * New movies: 3 Body Problem
 
