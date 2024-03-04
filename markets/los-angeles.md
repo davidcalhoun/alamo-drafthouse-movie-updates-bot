@@ -1,6 +1,36 @@
 # los-angeles
 
 ## Movie updates
+### Mon 3/4 3:16pm
+* New movies: The Primevals
+
+* New screenings: 
+    * [2024 Oscar Nominated Shorts Live Action](https://drafthouse.com/los-angeles/show/2024-oscar-nominated-shorts-live-action): Thu 3/7 (2:30pm)
+
+    * [Bob Marley One Love](https://drafthouse.com/los-angeles/show/bob-marley-one-love): Thu 3/7 (1:20pm, 4:20pm, 7:20pm, 10:20pm), Fri 3/8 (12:20pm, 4:15pm, 7:20pm, 10:15pm), Sat 3/9 (12:20pm, 4:15pm, 7:20pm, 10:15pm), Sun 3/10 (12:20pm, 4:20pm, 7:20pm), Mon 3/11 (12:20pm, 4:20pm, 7:20pm, 10:15pm), Tue 3/12 (12:20pm, 4:20pm, 7:20pm, 10:15pm), Wed 3/13 (12:20pm, 4:20pm, 7:20pm, 10:15pm)
+
+    * [Chungking Express](https://drafthouse.com/los-angeles/show/chungking-express): Thu 3/7 (1:15pm)
+
+    * [Demon Slayer Kimetsu No Yaiba To The Hashira Training Dubbed](https://drafthouse.com/los-angeles/show/demon-slayer-kimetsu-no-yaiba-to-the-hashira-training-dubbed): Thu 3/7 (1:00pm)
+
+    * [Drive Away Dolls](https://drafthouse.com/los-angeles/show/drive-away-dolls): Thu 3/7 (2:15pm, 5:00pm, 7:45pm, 11:00pm), Fri 3/8 (11:15am, 2:25pm, 5:00pm, 7:45pm, 11:00pm), Sat 3/9 (11:40am, 2:15pm, 5:00pm, 7:45pm, 11:00pm), Sun 3/10 (10:40am, 2:40pm, 5:20pm, 8:00pm), Mon 3/11 (11:50am, 2:30pm, 5:10pm, 7:45pm, 10:50pm), Tue 3/12 (11:00am, 2:35pm, 5:10pm, 7:45pm, 9:30pm), Wed 3/13 (11:00am, 2:35pm, 5:10pm, 7:45pm, 9:30pm)
+
+    * [Dune Part Two](https://drafthouse.com/los-angeles/show/dune-part-two): Thu 3/7 (2:00pm, 4:00pm, 6:00pm, 8:25pm, 9:15pm, 10:00pm), Fri 3/8 (12:00pm, 12:25pm, 2:00pm, 6:00pm, 8:20pm, 10:00pm), Sat 3/9 (12:00pm, 2:00pm, 5:30pm, 6:00pm, 8:10pm, 9:30pm, 10:00pm), Sun 3/10 (12:00pm, 1:35pm, 5:35pm, 6:00pm), Mon 3/11 (1:00pm, 2:40pm, 5:00pm, 6:40pm, 9:00pm, 10:00pm), Tue 3/12 (1:00pm, 1:35pm, 5:30pm), Wed 3/13 (1:00pm, 1:35pm, 5:30pm, 9:00pm)
+
+    * [Graveyard Shift The Primevals](https://drafthouse.com/los-angeles/show/graveyard-shift-the-primevals): Mon 3/11 (10:40pm)
+
+    * [Kung Fu Panda 4](https://drafthouse.com/los-angeles/show/kung-fu-panda-4): Thu 3/7 (5:40pm), Fri 3/8 (11:35am, 5:30pm, 6:45pm), Sat 3/9 (2:30pm, 5:15pm), Sun 3/10 (1:15pm), Mon 3/11 (10:20pm), Tue 3/12 (10:20pm), Wed 3/13 (5:10pm, 10:20pm)
+
+    * [Lisa Frankenstein](https://drafthouse.com/los-angeles/show/lisa-frankenstein): Thu 3/7 (2:45pm)
+
+    * [Orlando](https://drafthouse.com/los-angeles/show/orlando): Fri 3/8 (10:30pm), Sun 3/10 (10:50am), Mon 3/11 (11:25am), Tue 3/12 (11:40am), Wed 3/13 (11:45am, 6:15pm)
+
+    * [Perfect Days](https://drafthouse.com/los-angeles/show/perfect-days): Thu 3/7 (3:15pm, 6:45pm, 10:00pm), Fri 3/8 (12:50pm, 3:20pm, 7:20pm, 9:40pm), Sat 3/9 (12:50pm, 3:20pm, 6:45pm, 10:00pm), Sun 3/10 (12:45pm, 3:20pm, 6:45pm), Mon 3/11 (1:00pm, 3:20pm, 6:50pm, 10:05pm), Tue 3/12 (1:00pm, 3:20pm, 6:45pm, 10:00pm), Wed 3/13 (1:00pm, 3:20pm, 6:45pm, 10:00pm)
+
+    * [Poor Things](https://drafthouse.com/los-angeles/show/poor-things): Thu 3/7 (2:45pm), Fri 3/8 (1:50pm), Sat 3/9 (10:50am), Sun 3/10 (2:25pm), Mon 3/11 (2:20pm), Tue 3/12 (2:25pm, 8:15pm), Wed 3/13 (2:40pm)
+
+    * [Problemista](https://drafthouse.com/los-angeles/show/problemista): Thu 3/7 (4:10pm, 7:10pm, 8:00pm, 10:10pm, 11:00pm), Fri 3/8 (11:00am, 4:00pm, 7:10pm, 10:10pm, 10:35pm), Sat 3/9 (11:00am, 4:00pm, 7:10pm, 10:10pm, 10:30pm), Sun 3/10 (11:35am, 4:10pm, 7:10pm), Mon 3/11 (11:40am, 1:10pm, 4:10pm, 7:10pm, 10:10pm, 10:30pm), Tue 3/12 (11:30am, 1:10pm, 4:10pm, 7:10pm, 10:10pm, 10:30pm), Wed 3/13 (11:30am, 1:10pm, 4:10pm, 7:10pm, 10:10pm, 10:30pm)
+
 ### Sun 3/3 5:07pm
 * New movies: All You Need is Death
 
