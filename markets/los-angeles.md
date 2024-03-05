@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Mon 3/4 8:19pm
+* New movies: Pi 1998, Late Night with the Devil
+
+* New screenings: 
+    * [Late Night With The Devil](https://drafthouse.com/los-angeles/show/late-night-with-the-devil): Thu 3/21 (7:15pm), Fri 3/22 (9:30pm), Sat 3/23 (5:10pm), Sun 3/24 (6:15pm), Mon 3/25 (10:20pm), Tue 3/26 (10:25pm)
+
+    * [Pi 1998](https://drafthouse.com/los-angeles/show/pi-1998): Thu 3/14 (10:40pm)
+
 ### Mon 3/4 3:16pm
 * New movies: The Primevals
 
