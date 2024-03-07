@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 3/7 6:14am
+* New movies: Immaculate
+
+* New screenings: 
+    * [Immaculate](https://drafthouse.com/los-angeles/show/immaculate): Thu 3/21 (7:30pm, 10:15pm), Fri 3/22 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sat 3/23 (1:00pm, 3:50pm, 6:30pm, 9:00pm, 9:30pm), Sun 3/24 (11:30am, 2:15pm, 5:00pm, 7:45pm), Mon 3/25 (7:45pm, 10:30pm), Tue 3/26 (7:45pm, 10:30pm), Wed 3/27 (7:45pm, 10:30pm)
+
 ### Wed 3/6 9:12pm
 * New movies: The People's Joker
 
