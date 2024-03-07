@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Thu 3/7 5:18pm
+
+* New screenings: 
+    * [Drive Away Dolls](https://drafthouse.com/raleigh/show/drive-away-dolls): Sun 3/10 (7:30pm, 10:30pm)
+
 ### Mon 3/4 3:19pm
 * New movies: Imaginary
 
