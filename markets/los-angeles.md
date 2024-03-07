@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 3/7 3:17pm
+
+* New screenings: 
+    * [Graveyard Shift The Primevals](https://drafthouse.com/los-angeles/show/graveyard-shift-the-primevals): Mon 3/11 (10:00pm), Wed 3/13 (10:45pm)
+
 ### Thu 3/7 6:14am
 * New movies: Immaculate
 
