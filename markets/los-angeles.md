@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Wed 3/6 9:12pm
+* New movies: The People's Joker
+
+* New screenings: 
+    * [Signature Programming The Twilight Saga Eclipse](https://drafthouse.com/los-angeles/show/signature-programming-the-twilight-saga-eclipse): Sat 4/6 (8:15pm)
+
+    * [The Peoples Joker](https://drafthouse.com/los-angeles/show/the-peoples-joker): Thu 4/18 (7:15pm), Fri 4/19 (7:15pm), Sat 4/20 (10:00pm), Sun 4/21 (2:00pm), Mon 4/22 (9:15pm), Tue 4/23 (10:25pm), Wed 4/24 (7:15pm)
+
+    * [The Thing](https://drafthouse.com/los-angeles/show/the-thing): Sat 4/6 (5:00pm)
+
 ### Mon 3/4 8:19pm
 * New movies: Pi 1998, Late Night with the Devil
 
