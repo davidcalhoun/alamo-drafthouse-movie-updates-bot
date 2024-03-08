@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Thu 3/7 5:06pm
+* New movies: The American Society of Magical Negroes
+
+* New screenings: 
+    * [Dune Part Two](https://drafthouse.com/los-angeles/show/dune-part-two): Mon 3/18 (11:15am, 3:00pm, 7:00pm)
+
+    * [Love Lies Bleeding](https://drafthouse.com/los-angeles/show/love-lies-bleeding): Mon 3/18 (12:45pm, 3:45pm, 6:45pm)
+
+    * [Problemista](https://drafthouse.com/los-angeles/show/problemista): Mon 3/18 (3:30pm, 6:30pm, 9:30pm), Tue 3/19 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Wed 3/20 (12:30pm, 3:30pm, 6:30pm, 9:30pm)
+
+    * [The American Society Of Magical Negroes](https://drafthouse.com/los-angeles/show/the-american-society-of-magical-negroes): Thu 3/14 (5:00pm, 8:00pm, 11:00pm), Fri 3/15 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sun 3/17 (11:00am, 2:00pm, 5:00pm, 8:00pm), Mon 3/18 (12:00pm, 3:15pm, 6:15pm), Tue 3/19 (12:00pm, 3:15pm, 6:15pm)
+
 ### Thu 3/7 3:17pm
 
 * New screenings: 
