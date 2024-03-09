@@ -1,6 +1,17 @@
 # los-angeles
 
 ## Movie updates
+### Fri 3/8 6:17pm
+
+* New screenings: 
+    * [Fear And Loathing In Las Vegas](https://drafthouse.com/los-angeles/show/fear-and-loathing-in-las-vegas): Fri 4/19 (1:10pm)
+
+    * [Mallrats](https://drafthouse.com/los-angeles/show/mallrats): Fri 4/19 (4:25pm)
+
+    * [Movie Party The Big Lebowski](https://drafthouse.com/los-angeles/show/movie-party-the-big-lebowski): Sat 4/20 (9:30pm)
+
+    * [Selena](https://drafthouse.com/los-angeles/show/selena): Tue 4/16 (4:40pm)
+
 ### Thu 3/7 5:06pm
 * New movies: The American Society of Magical Negroes
 
