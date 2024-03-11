@@ -1,6 +1,44 @@
 # raleigh
 
 ## Movie updates
+### Mon 3/11 5:19pm
+* New movies: Arthur the King, The American Society of Magical Negroes, Poor Things, Oppenheimer
+
+* New screenings: 
+    * [American Fiction](https://drafthouse.com/raleigh/show/american-fiction): Thu 3/14 (12:30pm, 1:00pm)
+
+    * [Arthur The King](https://drafthouse.com/raleigh/show/arthur-the-king): Thu 3/14 (4:15pm, 7:25pm, 10:25pm), Fri 3/15 (11:15am, 2:45pm, 6:45pm, 10:00pm), Sat 3/16 (12:00pm, 3:00pm, 6:00pm, 9:15pm), Sun 3/17 (12:15pm, 3:45pm, 6:45pm, 9:45pm), Mon 3/18 (11:30am, 2:45pm, 6:15pm, 9:30pm), Tue 3/19 (11:30am, 2:45pm, 6:15pm, 9:30pm), Wed 3/20 (11:30am, 2:45pm, 6:45pm, 10:00pm)
+
+    * [Bob Marley One Love](https://drafthouse.com/raleigh/show/bob-marley-one-love): Thu 3/14 (12:15pm, 3:45pm, 7:30pm, 11:00pm), Fri 3/15 (11:30am, 2:30pm, 6:00pm, 10:30pm), Sat 3/16 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Sun 3/17 (11:45am, 3:15pm, 6:30pm, 9:30pm), Mon 3/18 (12:15pm, 3:15pm, 7:15pm, 10:15pm), Tue 3/19 (11:30am, 3:00pm, 7:00pm, 10:00pm), Wed 3/20 (11:45am, 3:45pm, 7:45pm, 11:00pm)
+
+    * [Crooklyn](https://drafthouse.com/raleigh/show/crooklyn): Mon 3/18 (8:15pm)
+
+    * [Demon Slayer Kimetsu No Yaiba To The Hashira Training Subtitled](https://drafthouse.com/raleigh/show/demon-slayer-kimetsu-no-yaiba-to-the-hashira-training-subtitled): Thu 3/14 (11:00am, 2:00pm)
+
+    * [Drive Away Dolls](https://drafthouse.com/raleigh/show/drive-away-dolls): Thu 3/14 (11:30am, 3:00pm, 6:25pm, 9:25pm), Fri 3/15 (4:30pm), Sat 3/16 (11:15am), Sun 3/17 (11:10am), Mon 3/18 (12:00pm), Tue 3/19 (12:00pm), Wed 3/20 (1:00pm)
+
+    * [Dune Part Two](https://drafthouse.com/raleigh/show/dune-part-two): Thu 3/14 (12:00pm, 2:00pm, 6:15pm, 10:15pm), Fri 3/15 (1:15pm, 5:30pm, 9:30pm), Sat 3/16 (6:15pm, 10:15pm), Sun 3/17 (6:00pm, 10:00pm), Mon 3/18 (1:30pm, 5:25pm, 9:15pm, 10:15pm), Tue 3/19 (1:00pm, 5:30pm, 9:30pm), Wed 3/20 (1:30pm, 5:30pm, 9:30pm)
+
+    * [Imaginary](https://drafthouse.com/raleigh/show/imaginary): Thu 3/14 (11:15am, 2:30pm, 6:00pm, 9:15pm), Fri 3/15 (11:00am, 1:50pm, 4:45pm, 7:15pm, 10:45pm), Sat 3/16 (12:30pm, 3:20pm, 7:20pm, 10:30pm), Sun 3/17 (11:45am, 3:10pm, 7:10pm, 10:30pm), Mon 3/18 (1:00pm, 4:30pm, 7:45pm, 11:00pm), Tue 3/19 (12:45pm, 4:30pm, 7:45pm, 10:45pm), Wed 3/20 (12:45pm, 4:15pm, 7:15pm, 10:15pm)
+
+    * [Kung Fu Panda 4](https://drafthouse.com/raleigh/show/kung-fu-panda-4): Thu 3/14 (11:45am, 1:20pm, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Fri 3/15 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sat 3/16 (12:20pm, 1:45pm, 3:30pm, 6:30pm, 8:45pm, 9:30pm), Sun 3/17 (12:15pm, 1:45pm, 3:00pm, 6:10pm, 9:15pm), Mon 3/18 (11:15am, 2:00pm, 5:00pm, 8:00pm, 10:45pm), Tue 3/19 (12:35pm, 3:15pm, 6:30pm, 9:15pm), Wed 3/20 (12:30pm, 3:10pm, 6:15pm, 9:15pm)
+
+    * [Love Lies Bleeding](https://drafthouse.com/raleigh/show/love-lies-bleeding): Thu 3/14 (6:45pm, 9:45pm), Fri 3/15 (11:10am, 2:00pm, 4:55pm), Sat 3/16 (11:00am, 2:00pm, 4:50pm), Sun 3/17 (11:20am, 2:10pm, 5:00pm, 8:00pm, 11:00pm), Mon 3/18 (11:30am, 3:30pm, 6:30pm, 10:00pm), Tue 3/19 (12:15pm, 3:45pm, 7:15pm, 10:15pm), Wed 3/20 (11:30am, 2:45pm, 6:30pm, 9:30pm)
+
+    * [Oppenheimer](https://drafthouse.com/raleigh/show/oppenheimer): Sat 3/16 (4:30pm), Sun 3/17 (4:30pm), Mon 3/18 (3:00pm), Wed 3/20 (3:30pm)
+
+    * [Perfect Days](https://drafthouse.com/raleigh/show/perfect-days): Thu 3/14 (3:30pm)
+
+    * [Poor Things](https://drafthouse.com/raleigh/show/poor-things): Fri 3/15 (1:00pm), Sun 3/17 (8:45pm), Tue 3/19 (5:55pm)
+
+    * [Problemista](https://drafthouse.com/raleigh/show/problemista): Thu 3/14 (4:00pm, 7:00pm, 9:50pm), Fri 3/15 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sat 3/16 (11:30am, 2:30pm, 5:30pm, 8:30pm), Sun 3/17 (11:30am, 2:30pm, 5:30pm, 8:30pm), Mon 3/18 (12:00pm, 2:00pm, 3:00pm, 5:00pm, 6:00pm, 9:00pm, 11:15pm), Tue 3/19 (11:00am, 1:30pm, 2:45pm, 5:00pm, 6:00pm, 8:15pm, 11:15pm), Wed 3/20 (11:00am, 12:00pm, 2:00pm, 3:00pm, 5:00pm, 6:00pm, 8:00pm, 10:50pm)
+
+    * [Suspiria 2018](https://drafthouse.com/raleigh/show/suspiria-2018): Tue 3/19 (10:00pm)
+
+    * [The American Society Of Magical Negroes](https://drafthouse.com/raleigh/show/the-american-society-of-magical-negroes): Thu 3/14 (5:00pm, 8:15pm, 11:15pm), Fri 3/15 (12:05pm, 3:45pm, 7:45pm, 11:00pm), Sat 3/16 (12:15pm, 3:45pm, 7:15pm, 10:30pm), Sun 3/17 (12:45pm, 4:15pm, 7:45pm, 10:45pm), Mon 3/18 (1:00pm, 4:30pm, 8:00pm, 11:00pm), Tue 3/19 (12:30pm, 4:00pm, 7:30pm, 10:30pm), Wed 3/20 (12:30pm, 4:00pm, 7:30pm, 10:30pm)
+
+    * [The Animal Kingdom](https://drafthouse.com/raleigh/show/the-animal-kingdom): Mon 3/18 (10:15pm)
+
 ### Mon 3/11 10:18am
 * New movies: Monkey Man
 
