@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 3/11 5:28am
+* New movies: Monkey Man
+
+* New screenings: 
+    * [Monkey Man](https://drafthouse.com/los-angeles/show/monkey-man): Thu 4/4 (7:00pm, 10:20pm), Fri 4/5 (12:20pm, 3:40pm, 7:00pm, 10:20pm), Sat 4/6 (12:40pm, 7:00pm, 10:20pm), Sun 4/7 (12:20pm, 3:40pm, 7:00pm), Mon 4/8 (6:45pm, 10:20pm), Tue 4/9 (12:20pm, 3:40pm, 7:00pm, 10:20pm), Wed 4/10 (7:00pm, 10:20pm)
+
 ### Fri 3/8 10:20pm
 
 * New screenings: 
