@@ -1,6 +1,58 @@
 # los-angeles
 
 ## Movie updates
+### Mon 3/11 4:16pm
+* New movies: Arthur the King, Invader 2024, The American Society of Magical Negroes, The Little Rascals, The Twilight Saga: New Moon, Time Bandits, Oppenheimer
+
+* New screenings: 
+    * [Above The Rim](https://drafthouse.com/los-angeles/show/above-the-rim): Sun 3/17 (11:25am), Tue 3/19 (7:20pm), Wed 3/20 (11:25am)
+
+    * [Arthur The King](https://drafthouse.com/los-angeles/show/arthur-the-king): Thu 3/14 (7:20pm, 10:20pm), Fri 3/15 (1:15pm, 4:20pm, 7:30pm, 10:30pm), Sat 3/16 (1:15pm, 4:25pm, 7:30pm, 10:30pm), Sun 3/17 (10:45am, 1:45pm, 4:45pm, 7:45pm), Mon 3/18 (1:15pm, 4:20pm, 7:30pm, 10:30pm), Tue 3/19 (1:15pm, 4:20pm, 7:30pm, 10:30pm), Wed 3/20 (1:15pm, 4:20pm, 7:30pm, 10:30pm)
+
+    * [Bob Marley One Love](https://drafthouse.com/los-angeles/show/bob-marley-one-love): Thu 3/14 (3:25pm)
+
+    * [Crooklyn](https://drafthouse.com/los-angeles/show/crooklyn): Sun 3/17 (4:00pm), Tue 3/19 (10:10pm)
+
+    * [Drive Away Dolls](https://drafthouse.com/los-angeles/show/drive-away-dolls): Thu 3/14 (3:40pm), Fri 3/15 (11:00pm), Sat 3/16 (12:00pm, 11:00pm), Mon 3/18 (10:25pm), Tue 3/19 (11:00pm), Wed 3/20 (10:45pm)
+
+    * [Dune Part Two](https://drafthouse.com/los-angeles/show/dune-part-two): Thu 3/14 (6:15pm, 8:25pm, 9:10pm), Fri 3/15 (1:00pm, 5:30pm, 6:00pm, 7:45pm, 10:00pm), Sat 3/16 (11:45am, 1:30pm, 5:30pm, 9:30pm, 10:00pm), Sun 3/17 (12:00pm, 2:15pm, 6:00pm), Mon 3/18 (1:30pm, 2:00pm, 6:00pm, 8:40pm, 9:15pm), Tue 3/19 (1:45pm, 2:30pm, 5:45pm, 9:45pm), Wed 3/20 (12:10pm, 1:45pm, 3:00pm, 5:45pm, 7:00pm, 9:15pm, 9:45pm)
+
+    * [Four Weddings And A Funeral](https://drafthouse.com/los-angeles/show/four-weddings-and-a-funeral): Mon 3/18 (12:35pm), Tue 3/19 (11:25am), Wed 3/20 (4:10pm)
+
+    * [Imaginary](https://drafthouse.com/los-angeles/show/imaginary): Thu 3/14 (3:00pm, 6:00pm, 9:00pm), Fri 3/15 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 3/16 (12:10pm, 3:10pm, 6:10pm, 9:10pm), Sun 3/17 (12:10pm, 3:10pm, 6:10pm), Mon 3/18 (12:10pm, 3:10pm, 6:10pm, 9:10pm), Tue 3/19 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Wed 3/20 (12:10pm, 3:10pm, 6:10pm, 9:10pm)
+
+    * [Invader 2024](https://drafthouse.com/los-angeles/show/invader-2024): Mon 3/18 (7:10pm), Tue 3/19 (11:20am, 10:20pm), Wed 3/20 (11:20am)
+
+    * [Kung Fu Panda 4](https://drafthouse.com/los-angeles/show/kung-fu-panda-4): Thu 3/14 (4:00pm, 6:45pm, 9:30pm), Fri 3/15 (11:40am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Sat 3/16 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sun 3/17 (11:15am, 2:00pm, 4:50pm, 7:35pm), Mon 3/18 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:35pm), Tue 3/19 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:35pm), Wed 3/20 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm)
+
+    * [Live Q A The American Society Of Magical Negroes](https://drafthouse.com/los-angeles/show/live-q-a-the-american-society-of-magical-negroes): Sat 3/16 (6:45pm)
+
+    * [Love Lies Bleeding](https://drafthouse.com/los-angeles/show/love-lies-bleeding): Thu 3/14 (5:30pm, 6:10pm, 10:15pm), Fri 3/15 (11:45am, 2:45pm, 5:45pm, 8:40pm), Sat 3/16 (11:50am, 2:45pm, 5:45pm, 8:40pm), Sun 3/17 (11:15am, 2:10pm, 5:05pm, 8:00pm), Mon 3/18 (11:50am, 2:50pm, 5:45pm, 9:45pm, 10:00pm), Tue 3/19 (11:45am, 2:40pm, 5:35pm, 8:30pm), Wed 3/20 (11:40am, 12:50pm, 2:35pm, 3:50pm, 5:30pm, 6:45pm, 8:25pm, 9:40pm)
+
+    * [Nimona](https://drafthouse.com/los-angeles/show/nimona): Thu 3/14 (3:15pm)
+
+    * [Oppenheimer](https://drafthouse.com/los-angeles/show/oppenheimer): Fri 3/15 (1:15pm), Sat 3/16 (6:00pm), Sun 3/17 (3:10pm), Mon 3/18 (11:20am), Tue 3/19 (7:10pm), Wed 3/20 (2:50pm)
+
+    * [Perfect Days](https://drafthouse.com/los-angeles/show/perfect-days): Thu 3/14 (4:00pm), Fri 3/15 (11:00am), Sat 3/16 (2:40pm), Sun 3/17 (11:50am), Mon 3/18 (7:15pm), Tue 3/19 (3:50pm), Wed 3/20 (11:30am)
+
+    * [Pi 1998](https://drafthouse.com/los-angeles/show/pi-1998): Thu 3/14 (11:00pm)
+
+    * [Poor Things](https://drafthouse.com/los-angeles/show/poor-things): Fri 3/15 (2:20pm), Sat 3/16 (10:20pm), Sun 3/17 (7:25pm), Mon 3/18 (3:35pm), Tue 3/19 (12:15pm), Wed 3/20 (7:10pm)
+
+    * [Problemista](https://drafthouse.com/los-angeles/show/problemista): Mon 3/18 (12:30pm)
+
+    * [Suspiria 2018](https://drafthouse.com/los-angeles/show/suspiria-2018): Mon 3/18 (5:30pm), Tue 3/19 (3:30pm), Wed 3/20 (2:15pm)
+
+    * [The American Society Of Magical Negroes](https://drafthouse.com/los-angeles/show/the-american-society-of-magical-negroes): Sat 3/16 (12:45pm, 3:50pm, 10:10pm), Mon 3/18 (11:00am, 9:20pm), Tue 3/19 (9:15pm), Wed 3/20 (12:15pm, 3:15pm, 6:15pm, 10:20pm)
+
+    * [The Animal Kingdom](https://drafthouse.com/los-angeles/show/the-animal-kingdom): Mon 3/18 (9:40pm)
+
+    * [The Little Rascals](https://drafthouse.com/los-angeles/show/the-little-rascals): Thu 3/14 (3:00pm)
+
+    * [The Twilight Saga New Moon](https://drafthouse.com/los-angeles/show/the-twilight-saga-new-moon): Wed 3/20 (11:40am)
+
+    * [Time Bandits](https://drafthouse.com/los-angeles/show/time-bandits): Thu 3/14 (4:00pm)
+
 ### Mon 3/11 5:28am
 * New movies: Monkey Man
 
