@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 3/11 10:18am
+* New movies: Monkey Man
+
+* New screenings: 
+    * [Monkey Man](https://drafthouse.com/raleigh/show/monkey-man): Thu 4/4 (5:00pm, 8:30pm), Fri 4/5 (11:00am, 2:30pm, 6:00pm, 9:30pm), Sat 4/6 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sun 4/7 (12:00pm, 3:30pm, 7:00pm, 10:30pm)
+
 ### Thu 3/7 5:18pm
 
 * New screenings: 
