@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 3/12 11:18am
+* New movies: The Fall Guy
+
+* New screenings: 
+    * [The Fall Guy](https://drafthouse.com/raleigh/show/the-fall-guy): Thu 5/2 (6:00pm, 9:30pm), Fri 5/3 (11:00am, 2:30pm, 6:00pm, 9:30pm), Sat 5/4 (11:00am, 2:30pm, 6:00pm, 9:30pm), Sun 5/5 (11:00am, 2:30pm, 6:00pm, 9:30pm)
+
 ### Mon 3/11 5:19pm
 * New movies: Arthur the King, The American Society of Magical Negroes, Poor Things, Oppenheimer
 
