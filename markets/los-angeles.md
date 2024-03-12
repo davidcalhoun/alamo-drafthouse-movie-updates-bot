@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 3/12 5:28am
+* New movies: The Fall Guy
+
+* New screenings: 
+    * [The Fall Guy](https://drafthouse.com/los-angeles/show/the-fall-guy): Thu 5/2 (7:00pm, 10:20pm), Fri 5/3 (12:20pm, 3:40pm, 7:00pm, 10:20pm), Sat 5/4 (12:20pm, 3:40pm, 7:00pm, 10:20pm), Sun 5/5 (12:20pm, 3:40pm, 7:00pm), Mon 5/6 (12:20pm, 3:40pm, 7:00pm, 10:20pm), Tue 5/7 (12:20pm, 3:40pm, 7:00pm, 10:20pm), Wed 5/8 (12:20pm, 3:40pm, 7:00pm, 10:20pm)
+
 ### Mon 3/11 4:16pm
 * New movies: Arthur the King, Invader 2024, The American Society of Magical Negroes, The Little Rascals, The Twilight Saga: New Moon, Time Bandits, Oppenheimer
 
