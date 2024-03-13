@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 3/12 6:08pm
+* New movies: Lousy Carter
+
+* New screenings: 
+    * [Lousy Carter](https://drafthouse.com/los-angeles/show/lousy-carter): Thu 3/28 (7:15pm, 9:45pm), Fri 3/29 (11:45am), Sun 3/31 (11:00am, 1:30pm, 7:15pm), Mon 4/1 (3:00pm, 5:30pm, 10:45pm), Tue 4/2 (1:00pm, 3:30pm, 6:00pm), Wed 4/3 (3:00pm, 5:30pm)
+
 ### Tue 3/12 5:28am
 * New movies: The Fall Guy
 
