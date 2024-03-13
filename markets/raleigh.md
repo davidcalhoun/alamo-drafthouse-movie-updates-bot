@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 3/13 3:15pm
+* New movies: Godzilla x Kong: The New Empire
+
+* New screenings: 
+    * [Godzilla X Kong The New Empire](https://drafthouse.com/raleigh/show/godzilla-x-kong-the-new-empire): Thu 3/28 (6:30pm, 9:45pm), Fri 3/29 (11:30am, 3:00pm, 6:30pm, 9:45pm), Sat 3/30 (11:30am, 3:00pm, 6:30pm, 9:45pm)
+
 ### Tue 3/12 11:18am
 * New movies: The Fall Guy
 
