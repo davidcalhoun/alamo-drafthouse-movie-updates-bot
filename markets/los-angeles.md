@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 3/14 12:16am
+
+* New screenings: 
+    * [Dawn Of The Dead 1978](https://drafthouse.com/los-angeles/show/dawn-of-the-dead-1978): Tue 4/16 (7:15pm)
+
 ### Wed 3/13 9:27am
 * New movies: Godzilla x Kong: The New Empire
 
