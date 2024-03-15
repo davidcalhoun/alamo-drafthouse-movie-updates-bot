@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 3/15 6:17am
+* New movies: DogMan 2024, DogMan 2024
+
+* New screenings: 
+    * [Dogman 2024](https://drafthouse.com/los-angeles/show/dogman-2024): Thu 3/28 (7:00pm, 10:10pm), Fri 3/29 (1:15pm, 4:20pm, 7:30pm, 10:35pm), Sat 3/30 (1:15pm, 4:20pm, 7:30pm, 10:35pm), Sun 3/31 (1:15pm, 4:20pm, 7:30pm), Mon 4/1 (7:30pm, 10:35pm), Tue 4/2 (7:30pm, 10:35pm), Wed 4/3 (7:30pm, 10:35pm)
+
+    * [Fantastic Fest Presents Dogman 2024 Free Advance Victory Screening](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-dogman-2024-free-advance-victory-screening): Mon 3/25 (7:00pm)
+
 ### Thu 3/14 12:16am
 
 * New screenings: 
