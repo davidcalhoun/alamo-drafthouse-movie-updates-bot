@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 3/15 6:05pm
+* New movies: Angst
+
+* New screenings: 
+    * [Angst](https://drafthouse.com/los-angeles/show/angst): Fri 4/19 (3:40pm), Wed 4/24 (8:00pm)
+
 ### Fri 3/15 6:17am
 * New movies: DogMan 2024, DogMan 2024
 
