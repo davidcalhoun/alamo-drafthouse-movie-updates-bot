@@ -1,6 +1,42 @@
 # raleigh
 
 ## Movie updates
+### Mon 3/18 4:19pm
+* New movies: Immaculate, Late Night with the Devil, The Crow 1994
+
+* New screenings: 
+    * [Arthur The King](https://drafthouse.com/raleigh/show/arthur-the-king): Thu 3/21 (11:00am, 2:30pm, 6:15pm, 9:30pm), Fri 3/22 (12:45pm, 4:00pm, 7:25pm, 10:30pm), Sat 3/23 (12:45pm, 4:00pm, 7:25pm, 10:30pm), Sun 3/24 (12:45pm, 4:00pm, 7:25pm, 10:30pm), Mon 3/25 (12:30pm, 4:00pm, 7:00pm, 10:30pm), Tue 3/26 (12:00pm, 3:30pm, 6:30pm, 9:30pm), Wed 3/27 (12:00pm, 3:30pm, 7:15pm, 10:15pm)
+
+    * [Bob Marley One Love](https://drafthouse.com/raleigh/show/bob-marley-one-love): Thu 3/21 (12:30pm, 4:00pm), Fri 3/22 (12:00pm), Sat 3/23 (1:30pm), Sun 3/24 (12:00pm), Mon 3/25 (11:45am), Tue 3/26 (3:00pm), Wed 3/27 (11:45am)
+
+    * [Dune Part Two](https://drafthouse.com/raleigh/show/dune-part-two): Thu 3/21 (11:00am, 2:00pm, 3:30pm, 7:15pm, 10:00pm), Fri 3/22 (11:00am, 3:15pm, 7:15pm, 9:15pm), Sat 3/23 (11:15am, 3:15pm, 7:15pm, 9:15pm), Sun 3/24 (11:00am, 3:15pm, 7:15pm, 9:15pm), Mon 3/25 (11:00am, 3:15pm, 7:15pm, 9:15pm), Tue 3/26 (11:00am, 3:15pm, 7:15pm, 9:15pm), Wed 3/27 (12:55pm, 2:40pm, 5:30pm, 9:30pm)
+
+    * [Ghostbusters Frozen Empire](https://drafthouse.com/raleigh/show/ghostbusters-frozen-empire): Thu 3/21 (5:30pm, 6:00pm, 8:30pm, 9:15pm), Fri 3/22 (11:30am, 1:30pm, 2:30pm, 6:00pm, 8:00pm), Sat 3/23 (11:30am, 2:45pm, 6:00pm, 8:00pm), Sun 3/24 (11:30am, 1:30pm, 2:45pm, 4:45pm, 6:00pm, 8:00pm), Mon 3/25 (11:30am, 12:10pm, 2:45pm, 4:05pm, 6:00pm, 7:30pm, 8:30pm, 10:30pm), Tue 3/26 (11:30am, 12:30pm, 1:30pm, 2:45pm, 3:45pm, 4:45pm, 5:45pm, 6:45pm, 9:45pm), Wed 3/27 (11:45am, 12:45pm, 2:45pm, 4:00pm, 6:00pm, 9:30pm)
+
+    * [Imaginary](https://drafthouse.com/raleigh/show/imaginary): Thu 3/21 (11:30am, 2:30pm), Fri 3/22 (11:15pm), Sat 3/23 (11:15pm), Sun 3/24 (11:15pm), Mon 3/25 (11:30pm), Tue 3/26 (11:45am), Wed 3/27 (12:15pm)
+
+    * [Immaculate](https://drafthouse.com/raleigh/show/immaculate): Thu 3/21 (7:45pm, 10:45pm), Fri 3/22 (11:15am, 2:15pm, 5:30pm, 8:30pm, 11:30pm), Sat 3/23 (11:00am, 2:15pm, 5:30pm, 8:30pm, 11:30pm), Sun 3/24 (11:15am, 2:15pm, 5:30pm, 8:30pm, 11:30pm), Mon 3/25 (11:15am, 2:15pm, 5:30pm, 8:15pm, 11:15pm), Tue 3/26 (11:15am, 2:15pm, 5:30pm, 8:30pm, 11:30pm), Wed 3/27 (11:00am, 2:00pm, 5:15pm, 8:15pm, 11:15pm)
+
+    * [Kung Fu Panda 4](https://drafthouse.com/raleigh/show/kung-fu-panda-4): Thu 3/21 (12:15pm, 3:10pm, 6:15pm, 9:00pm), Fri 3/22 (12:00pm, 3:00pm, 6:15pm, 9:00pm), Sat 3/23 (12:15pm, 3:00pm, 6:15pm, 9:00pm), Sun 3/24 (12:00pm, 3:00pm, 6:15pm, 9:00pm), Mon 3/25 (12:15pm, 3:00pm, 6:15pm, 9:00pm), Tue 3/26 (11:40am, 2:45pm, 6:00pm, 9:00pm), Wed 3/27 (12:45pm, 3:30pm, 6:35pm, 9:30pm)
+
+    * [Late Night With The Devil](https://drafthouse.com/raleigh/show/late-night-with-the-devil): Fri 3/22 (6:45pm, 9:45pm), Sat 3/23 (6:45pm, 9:45pm), Sun 3/24 (6:45pm), Mon 3/25 (6:00pm, 11:15pm), Tue 3/26 (6:15pm), Wed 3/27 (10:00pm)
+
+    * [Love Lies Bleeding](https://drafthouse.com/raleigh/show/love-lies-bleeding): Thu 3/21 (1:00pm, 4:45pm, 8:00pm, 11:30pm), Fri 3/22 (12:40pm, 3:30pm, 6:30pm, 9:45pm), Sat 3/23 (12:40pm, 3:30pm, 6:30pm, 9:45pm), Sun 3/24 (12:40pm, 3:30pm, 6:30pm, 9:45pm), Mon 3/25 (12:40pm, 3:30pm, 6:35pm, 9:45pm), Tue 3/26 (12:55pm, 4:15pm, 7:45pm, 10:45pm), Wed 3/27 (1:00pm, 4:15pm, 7:45pm, 10:45pm)
+
+    * [Only Lovers Left Alive](https://drafthouse.com/raleigh/show/only-lovers-left-alive): Sat 3/23 (4:45pm)
+
+    * [Oppenheimer](https://drafthouse.com/raleigh/show/oppenheimer): Thu 3/21 (12:55pm)
+
+    * [Problemista](https://drafthouse.com/raleigh/show/problemista): Thu 3/21 (11:45am, 12:45pm, 3:00pm, 6:30pm, 9:30pm), Fri 3/22 (11:45am, 3:00pm, 6:25pm, 9:30pm), Sat 3/23 (11:45am, 3:00pm, 6:25pm, 9:30pm), Sun 3/24 (11:45am, 2:55pm, 6:25pm, 9:30pm), Mon 3/25 (11:30am, 2:45pm, 6:30pm, 9:30pm), Tue 3/26 (1:00pm, 4:00pm, 8:00pm, 11:00pm), Wed 3/27 (1:00pm, 4:30pm, 8:00pm, 11:00pm)
+
+    * [Reality Bites](https://drafthouse.com/raleigh/show/reality-bites): Fri 3/22 (4:45pm), Sun 3/24 (3:10pm), Mon 3/25 (1:00pm)
+
+    * [Street Fighter](https://drafthouse.com/raleigh/show/street-fighter): Mon 3/25 (3:00pm), Wed 3/27 (10:45pm)
+
+    * [The American Society Of Magical Negroes](https://drafthouse.com/raleigh/show/the-american-society-of-magical-negroes): Thu 3/21 (11:30am, 3:30pm, 6:45pm, 10:00pm), Fri 3/22 (1:00pm, 4:30pm, 7:45pm, 10:45pm), Sat 3/23 (1:00pm, 4:30pm, 7:45pm, 10:45pm), Sun 3/24 (1:00pm, 4:30pm, 7:45pm, 10:45pm), Mon 3/25 (12:45pm, 4:30pm, 7:45pm, 10:45pm), Tue 3/26 (12:45pm, 4:30pm, 7:45pm, 10:35pm), Wed 3/27 (11:15am, 3:00pm, 6:15pm, 9:05pm)
+
+    * [The Crow](https://drafthouse.com/raleigh/show/the-crow): Fri 3/22 (11:15pm), Sat 3/23 (11:15pm), Sun 3/24 (11:15pm), Tue 3/26 (11:15pm)
+
 ### Wed 3/13 3:15pm
 * New movies: Godzilla x Kong: The New Empire
 
