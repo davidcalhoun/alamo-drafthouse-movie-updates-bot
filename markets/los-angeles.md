@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 3/18 1:19am
+
+* New screenings: 
+    * [Ghostbusters Frozen Empire](https://drafthouse.com/los-angeles/show/ghostbusters-frozen-empire): Sun 3/24 (8:00pm)
+
 ### Fri 3/15 6:05pm
 * New movies: Angst
 
