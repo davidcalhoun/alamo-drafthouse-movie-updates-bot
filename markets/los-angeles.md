@@ -1,6 +1,24 @@
 # los-angeles
 
 ## Movie updates
+### Mon 3/18 8:15am
+* New movies: Spider-Man 2, Spider-Man 3, Spider-Man: Far from Home - Extended Cut, Spider-Man: Homecoming, Spider-Man: No Way Home - Rerelease, The Amazing Spider-Man, The Amazing Spider-Man 2
+
+* New screenings: 
+    * [Spider Man 2](https://drafthouse.com/los-angeles/show/spider-man-2): Mon 4/22 (7:15pm)
+
+    * [Spider Man 3](https://drafthouse.com/los-angeles/show/spider-man-3): Mon 4/29 (7:15pm)
+
+    * [Spider Man Far From Home Extended Cut](https://drafthouse.com/los-angeles/show/spider-man-far-from-home-extended-cut): Mon 5/27 (7:15pm)
+
+    * [Spider Man Homecoming](https://drafthouse.com/los-angeles/show/spider-man-homecoming): Mon 5/20 (7:15pm)
+
+    * [Spider Man No Way Home Rerelease](https://drafthouse.com/los-angeles/show/spider-man-no-way-home-rerelease): Mon 6/3 (7:10pm)
+
+    * [The Amazing Spider Man](https://drafthouse.com/los-angeles/show/the-amazing-spider-man): Mon 5/6 (7:15pm)
+
+    * [The Amazing Spider Man 2](https://drafthouse.com/los-angeles/show/the-amazing-spider-man-2): Mon 5/13 (7:15pm)
+
 ### Mon 3/18 5:28am
 * New movies: Spider-Man
 
