@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 3/18 5:28am
+* New movies: Spider-Man
+
+* New screenings: 
+    * [Spider Man](https://drafthouse.com/los-angeles/show/spider-man): Mon 4/15 (12:45pm, 4:00pm, 7:15pm, 9:20pm)
+
 ### Mon 3/18 1:19am
 
 * New screenings: 
