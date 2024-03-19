@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 3/19 3:14pm
+* New movies: Lousy Carter
+
+* New screenings: 
+    * [Live Q A Lousy Carter](https://drafthouse.com/los-angeles/show/live-q-a-lousy-carter): Fri 3/29 (7:15pm)
+
+    * [Lousy Carter](https://drafthouse.com/los-angeles/show/lousy-carter): Fri 3/29 (10:10pm), Sat 3/30 (6:00pm, 8:30pm)
+
 ### Tue 3/19 7:14am
 * New movies: Sasquatch Sunset, Sasquatch Sunset
 
