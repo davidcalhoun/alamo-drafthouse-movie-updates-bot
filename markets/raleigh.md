@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 3/19 5:16pm
+* New movies: Sasquatch Sunset
+
+* New screenings: 
+    * [Sasquatch Sunset](https://drafthouse.com/raleigh/show/sasquatch-sunset): Thu 4/4 (7:00pm), Thu 4/18 (7:00pm, 9:45pm), Fri 4/19 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 4/20 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sun 4/21 (12:15pm, 3:15pm, 6:15pm, 9:15pm)
+
 ### Tue 3/19 10:18am
 * New movies: DogMan 2024
 
