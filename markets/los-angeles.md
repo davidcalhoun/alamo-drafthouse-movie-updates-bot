@@ -1,6 +1,44 @@
 # los-angeles
 
 ## Movie updates
+### Mon 3/18 11:19pm
+* New movies: The Boy and the Heron Dubbed
+
+* New screenings: 
+    * [Arthur The King](https://drafthouse.com/los-angeles/show/arthur-the-king): Thu 3/21 (5:00pm)
+
+    * [Dune Part Two](https://drafthouse.com/los-angeles/show/dune-part-two): Thu 3/21 (3:10pm, 3:40pm, 6:10pm, 7:45pm, 9:30pm), Fri 3/22 (11:25am, 12:30pm, 3:10pm, 4:10pm, 6:10pm, 8:15pm, 9:35pm), Sat 3/23 (11:25am, 12:15pm, 3:10pm, 4:00pm, 5:00pm, 6:10pm, 8:00pm, 9:30pm), Sun 3/24 (11:15am, 12:10pm, 2:40pm, 3:10pm, 6:20pm, 7:15pm), Mon 3/25 (11:30am, 12:30pm, 3:10pm, 4:10pm, 6:20pm, 8:10pm, 9:15pm), Wed 3/27 (11:30am, 12:10pm, 3:15pm, 4:15pm, 6:15pm, 8:15pm, 9:30pm)
+
+    * [Ghostbusters Frozen Empire](https://drafthouse.com/los-angeles/show/ghostbusters-frozen-empire): Thu 3/21 (3:15pm, 4:00pm, 6:20pm, 7:00pm, 10:10pm), Fri 3/22 (12:45pm, 3:50pm, 6:25pm, 10:30pm), Sat 3/23 (11:00am, 2:00pm, 7:45pm, 10:45pm), Sun 3/24 (11:40am, 1:20pm, 4:20pm, 7:25pm), Mon 3/25 (11:45am, 12:45pm, 2:50pm, 3:50pm, 6:10pm, 10:10pm), Wed 3/27 (11:45am, 1:15pm, 2:50pm, 3:50pm, 7:00pm, 10:10pm)
+
+    * [Imaginary](https://drafthouse.com/los-angeles/show/imaginary): Thu 3/21 (4:30pm)
+
+    * [Immaculate](https://drafthouse.com/los-angeles/show/immaculate): Thu 3/21 (8:00pm), Fri 3/22 (5:40pm, 8:25pm), Sat 3/23 (5:15pm), Sun 3/24 (7:00pm), Mon 3/25 (11:30am, 2:15pm, 5:00pm), Wed 3/27 (11:15am, 2:00pm, 4:45pm, 9:50pm)
+
+    * [Kung Fu Panda 4](https://drafthouse.com/los-angeles/show/kung-fu-panda-4): Thu 3/21 (3:25pm, 7:10pm, 10:10pm), Fri 3/22 (12:15pm, 3:25pm, 7:10pm, 10:10pm), Sat 3/23 (12:20pm, 3:25pm, 7:10pm, 10:10pm), Sun 3/24 (12:10pm, 3:45pm, 6:30pm), Mon 3/25 (12:15pm, 3:35pm, 7:10pm, 10:20pm), Wed 3/27 (12:25pm, 3:30pm, 7:20pm, 10:50pm)
+
+    * [Late Night With The Devil](https://drafthouse.com/los-angeles/show/late-night-with-the-devil): Thu 3/21 (9:25pm, 10:00pm, 10:45pm), Fri 3/22 (12:20pm, 3:00pm, 7:20pm, 10:00pm), Sat 3/23 (11:10am, 1:50pm, 2:35pm, 4:15pm, 8:00pm, 11:00pm), Sun 3/24 (10:45am, 1:45pm, 4:25pm, 7:45pm), Mon 3/25 (12:50pm, 3:30pm, 5:45pm, 8:25pm, 9:30pm), Wed 3/27 (11:45am, 2:25pm, 7:10pm, 10:20pm, 11:00pm)
+
+    * [Love Lies Bleeding](https://drafthouse.com/los-angeles/show/love-lies-bleeding): Thu 3/21 (3:45pm, 9:40pm), Fri 3/22 (12:00pm), Sat 3/23 (11:35am), Sun 3/24 (10:50am), Mon 3/25 (12:45pm, 3:45pm), Wed 3/27 (12:40pm, 3:40pm, 4:10pm)
+
+    * [Only Lovers Left Alive](https://drafthouse.com/los-angeles/show/only-lovers-left-alive): Wed 3/27 (12:30pm)
+
+    * [Problemista](https://drafthouse.com/los-angeles/show/problemista): Thu 3/21 (3:30pm, 6:30pm, 10:00pm), Fri 3/22 (12:30pm, 3:30pm, 6:35pm, 10:00pm), Sat 3/23 (12:30pm, 3:30pm, 6:30pm, 10:00pm), Sun 3/24 (12:45pm, 3:00pm, 6:00pm), Mon 3/25 (12:20pm, 3:20pm, 6:30pm, 10:00pm), Wed 3/27 (12:15pm, 3:20pm, 6:30pm, 10:05pm)
+
+    * [Queer Film Theory 101 The Crow 1994](https://drafthouse.com/los-angeles/show/queer-film-theory-101-the-crow-1994): Sat 3/23 (10:35pm)
+
+    * [Reality Bites](https://drafthouse.com/los-angeles/show/reality-bites): Fri 3/22 (1:25pm)
+
+    * [Riddle Of Fire](https://drafthouse.com/los-angeles/show/riddle-of-fire): Mon 3/25 (11:40am)
+
+    * [Special Event The Boy And The Heron Dubbed Rerelease](https://drafthouse.com/los-angeles/show/special-event-the-boy-and-the-heron-dubbed-rerelease): Fri 3/22 (3:00pm), Mon 3/25 (12:30pm), Wed 3/27 (12:45pm)
+
+    * [Street Fighter](https://drafthouse.com/los-angeles/show/street-fighter): Mon 3/25 (2:45pm)
+
+    * [The American Society Of Magical Negroes](https://drafthouse.com/los-angeles/show/the-american-society-of-magical-negroes): Thu 3/21 (4:30pm, 7:30pm, 10:30pm), Fri 3/22 (1:10pm, 4:30pm, 7:30pm, 10:30pm), Sat 3/23 (1:00pm, 4:30pm, 7:30pm, 10:30pm), Sun 3/24 (12:10pm, 3:20pm, 7:10pm), Mon 3/25 (1:10pm, 4:30pm, 7:30pm, 10:30pm), Wed 3/27 (1:30pm, 4:30pm, 7:30pm, 10:30pm)
+
+    * [The Animal Kingdom](https://drafthouse.com/los-angeles/show/the-animal-kingdom): Thu 3/21 (3:50pm)
+
 ### Mon 3/18 6:07pm
 * New movies: Pulp Fiction, The Greasy Strangler
 
