@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 3/19 7:14am
+* New movies: Sasquatch Sunset, Sasquatch Sunset
+
+* New screenings: 
+    * [Advance Screening Sasquatch Sunset](https://drafthouse.com/los-angeles/show/advance-screening-sasquatch-sunset): Thu 4/4 (7:15pm)
+
+    * [Sasquatch Sunset](https://drafthouse.com/los-angeles/show/sasquatch-sunset): Thu 4/18 (7:00pm, 9:45pm), Fri 4/19 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Sat 4/20 (10:45am, 1:20pm, 4:00pm, 6:45pm), Sun 4/21 (11:00am, 1:40pm, 5:00pm, 7:30pm), Mon 4/22 (7:30pm, 10:35pm), Tue 4/23 (7:30pm, 10:15pm), Wed 4/24 (7:30pm, 10:15pm)
+
 ### Mon 3/18 11:19pm
 * New movies: The Boy and the Heron Dubbed
 
