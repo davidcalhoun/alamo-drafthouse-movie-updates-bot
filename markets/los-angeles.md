@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Mon 3/18 6:07pm
+* New movies: Pulp Fiction, The Greasy Strangler
+
+* New screenings: 
+    * [Benefit Screening The Greasy Strangler](https://drafthouse.com/los-angeles/show/benefit-screening-the-greasy-strangler): Mon 4/8 (7:15pm)
+
+    * [Movie Party Pulp Fiction](https://drafthouse.com/los-angeles/show/movie-party-pulp-fiction): Wed 4/17 (6:00pm), Sat 4/27 (12:30pm)
+
+    * [Spider Man 2](https://drafthouse.com/los-angeles/show/spider-man-2): Mon 4/22 (12:40pm, 4:00pm, 10:15pm)
+
 ### Mon 3/18 8:15am
 * New movies: Spider-Man 2, Spider-Man 3, Spider-Man: Far from Home - Extended Cut, Spider-Man: Homecoming, Spider-Man: No Way Home - Rerelease, The Amazing Spider-Man, The Amazing Spider-Man 2
 
