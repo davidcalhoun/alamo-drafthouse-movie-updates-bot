@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 3/19 10:18am
+* New movies: DogMan 2024
+
+* New screenings: 
+    * [Dogman 2024](https://drafthouse.com/raleigh/show/dogman-2024): Thu 4/4 (6:30pm)
+
 ### Mon 3/18 4:19pm
 * New movies: Immaculate, Late Night with the Devil, The Crow 1994
 
