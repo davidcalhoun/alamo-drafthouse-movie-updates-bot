@@ -1,6 +1,33 @@
 # los-angeles
 
 ## Movie updates
+### Tue 3/19 6:06pm
+
+* New screenings: 
+    * [Dune Part Two](https://drafthouse.com/los-angeles/show/dune-part-two): Tue 3/26 (11:30am, 12:30pm, 3:10pm, 4:10pm, 6:15pm, 8:10pm, 9:00pm)
+
+    * [Ghostbusters Frozen Empire](https://drafthouse.com/los-angeles/show/ghostbusters-frozen-empire): Tue 3/26 (12:45pm, 2:50pm, 3:50pm, 7:00pm, 10:10pm)
+
+    * [Immaculate](https://drafthouse.com/los-angeles/show/immaculate): Tue 3/26 (11:30am, 2:15pm, 5:00pm)
+
+    * [Kung Fu Panda 4](https://drafthouse.com/los-angeles/show/kung-fu-panda-4): Tue 3/26 (12:15pm, 3:30pm, 7:10pm, 10:20pm)
+
+    * [Late Night With The Devil](https://drafthouse.com/los-angeles/show/late-night-with-the-devil): Tue 3/26 (11:25am, 2:00pm, 4:40pm, 5:45pm, 8:25pm, 9:30pm)
+
+    * [Love Lies Bleeding](https://drafthouse.com/los-angeles/show/love-lies-bleeding): Tue 3/26 (11:40am)
+
+    * [Only Lovers Left Alive](https://drafthouse.com/los-angeles/show/only-lovers-left-alive): Tue 3/26 (11:15am)
+
+    * [Problemista](https://drafthouse.com/los-angeles/show/problemista): Tue 3/26 (12:20pm, 3:20pm, 6:30pm, 10:00pm)
+
+    * [Riddle Of Fire](https://drafthouse.com/los-angeles/show/riddle-of-fire): Tue 3/26 (2:40pm)
+
+    * [Special Event The Boy And The Heron Dubbed Rerelease](https://drafthouse.com/los-angeles/show/special-event-the-boy-and-the-heron-dubbed-rerelease): Tue 3/26 (5:30pm)
+
+    * [Street Fighter](https://drafthouse.com/los-angeles/show/street-fighter): Tue 3/26 (2:35pm)
+
+    * [The American Society Of Magical Negroes](https://drafthouse.com/los-angeles/show/the-american-society-of-magical-negroes): Tue 3/26 (1:10pm, 4:30pm, 7:30pm, 10:30pm)
+
 ### Tue 3/19 3:14pm
 * New movies: Lousy Carter
 
