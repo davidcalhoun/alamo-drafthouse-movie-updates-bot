@@ -1,6 +1,20 @@
 # los-angeles
 
 ## Movie updates
+### Tue 3/19 7:20pm
+* New movies: Enter the Clones of Bruce, Challenge of the Tiger, Enter the Game of Death, Ninja Strikes Back
+
+* New screenings: 
+    * [Challenge Of The Tiger](https://drafthouse.com/los-angeles/show/challenge-of-the-tiger): Sat 4/13 (7:15pm)
+
+    * [Enter The Game Of Death](https://drafthouse.com/los-angeles/show/enter-the-game-of-death): Fri 4/12 (10:10pm)
+
+    * [Fantastic Fest Presents Enter The Clones Of Bruce W Live Q A](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-enter-the-clones-of-bruce-w-live-q-a): Fri 4/12 (7:45pm), Sat 4/13 (4:00pm), Sun 4/14 (12:00pm)
+
+    * [Lousy Carter](https://drafthouse.com/los-angeles/show/lousy-carter): Fri 3/29 (7:15pm)
+
+    * [Ninja Strikes Back](https://drafthouse.com/los-angeles/show/ninja-strikes-back): Sun 4/14 (3:15pm)
+
 ### Tue 3/19 6:06pm
 
 * New screenings: 
