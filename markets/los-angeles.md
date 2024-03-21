@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 3/20 8:17pm
+
+* New screenings: 
+    * [Godzilla X Kong The New Empire](https://drafthouse.com/los-angeles/show/godzilla-x-kong-the-new-empire): Wed 4/3 (12:50pm, 4:00pm, 10:10pm)
+
 ### Wed 3/20 7:22pm
 
 * New screenings: 
