@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 3/20 7:22pm
+
+* New screenings: 
+    * [Godzilla X Kong The New Empire](https://drafthouse.com/los-angeles/show/godzilla-x-kong-the-new-empire): Wed 4/3 (7:00pm)
+
 ### Tue 3/19 7:20pm
 * New movies: Enter the Clones of Bruce, Challenge of the Tiger, Enter the Game of Death, Ninja Strikes Back
 
