@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 3/20 9:19pm
+
+* New screenings: 
+    * [Lousy Carter](https://drafthouse.com/los-angeles/show/lousy-carter): Tue 4/2 (12:40pm, 3:10pm)
+
 ### Wed 3/20 8:17pm
 
 * New screenings: 
