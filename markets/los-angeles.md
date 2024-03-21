@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 3/21 9:21am
+
+* New screenings: 
+    * [Late Night With The Devil](https://drafthouse.com/los-angeles/show/late-night-with-the-devil): Thu 3/21 (7:30pm), Fri 3/22 (10:30pm), Sat 3/23 (5:15pm, 10:30pm, 10:45pm), Sun 3/24 (12:10pm)
+
 ### Wed 3/20 9:19pm
 
 * New screenings: 
