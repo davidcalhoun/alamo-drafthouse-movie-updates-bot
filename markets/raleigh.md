@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 3/22 1:17pm
+* New movies: Star Wars: The Phantom Menace - 25th Anniversary Re-release
+
+* New screenings: 
+    * [Star Wars The Phantom Menace 25th Anniversary Re Release](https://drafthouse.com/raleigh/show/star-wars-the-phantom-menace-25th-anniversary-re-release): Fri 5/3 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sat 5/4 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sun 5/5 (12:00pm, 3:30pm, 7:00pm, 10:30pm)
+
 ### Fri 3/22 11:17am
 * New movies: Civil War
 
