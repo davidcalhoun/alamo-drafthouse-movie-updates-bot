@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 3/22 6:16am
+* New movies: Civil War
+
+* New screenings: 
+    * [Civil War](https://drafthouse.com/los-angeles/show/civil-war): Thu 4/11 (4:10pm, 7:15pm, 10:20pm), Fri 4/12 (12:20pm, 3:25pm, 6:30pm, 9:35pm), Sat 4/13 (12:20pm, 3:25pm, 6:30pm, 9:35pm), Sun 4/14 (11:45am, 2:50pm, 6:00pm), Mon 4/15 (6:30pm, 9:35pm), Tue 4/16 (12:20pm, 3:25pm, 6:30pm, 9:35pm), Wed 4/17 (6:30pm, 9:35pm)
+
 ### Thu 3/21 11:19pm
 * New movies: Anatomia Extinction, I'm "George Lucas": A Connor Ratliff Story, Monty Python and the Holy Grail
 
