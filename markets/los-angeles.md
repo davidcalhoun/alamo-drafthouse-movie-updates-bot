@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 3/22 9:20am
+* New movies: Star Wars: The Phantom Menace - 25th Anniversary Re-release
+
+* New screenings: 
+    * [Star Wars The Phantom Menace 25th Anniversary Re Release](https://drafthouse.com/los-angeles/show/star-wars-the-phantom-menace-25th-anniversary-re-release): Fri 5/3 (11:15am, 2:45pm, 6:15pm, 9:45pm), Sat 5/4 (11:15am, 2:45pm, 6:15pm, 9:45pm), Sun 5/5 (11:15am, 2:45pm, 6:15pm), Mon 5/6 (6:15pm, 9:45pm), Tue 5/7 (11:15am, 2:45pm, 6:15pm, 9:45pm), Wed 5/8 (6:15pm, 9:45pm)
+
 ### Fri 3/22 6:16am
 * New movies: Civil War
 
