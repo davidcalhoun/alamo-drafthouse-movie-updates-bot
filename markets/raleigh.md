@@ -1,6 +1,34 @@
 # raleigh
 
 ## Movie updates
+### Fri 3/22 2:21pm
+* New movies: The Greasy Strangler, Spider-Man, Spider-Man 2, Spider-Man 3, In the Mouth of Madness, Spider-Man: Far from Home - Extended Cut, Spider-Man: Homecoming, Spider-Man: No Way Home - Rerelease, The Amazing Spider-Man, The Amazing Spider-Man 2
+
+* New screenings: 
+    * [Benefit Screening The Greasy Strangler](https://drafthouse.com/raleigh/show/benefit-screening-the-greasy-strangler): Wed 4/10 (7:00pm)
+
+    * [Dawn Of The Dead 1978](https://drafthouse.com/raleigh/show/dawn-of-the-dead-1978): Mon 4/15 (9:30pm), Wed 4/17 (7:00pm)
+
+    * [In The Mouth Of Madness](https://drafthouse.com/raleigh/show/in-the-mouth-of-madness): Thu 4/25 (6:00pm)
+
+    * [Signature Programming The Twilight Saga Eclipse](https://drafthouse.com/raleigh/show/signature-programming-the-twilight-saga-eclipse): Sun 4/7 (1:00pm)
+
+    * [Spider Man](https://drafthouse.com/raleigh/show/spider-man): Mon 4/15 (6:00pm)
+
+    * [Spider Man 2](https://drafthouse.com/raleigh/show/spider-man-2): Mon 4/22 (6:00pm)
+
+    * [Spider Man 3](https://drafthouse.com/raleigh/show/spider-man-3): Mon 4/29 (6:00pm)
+
+    * [Spider Man Far From Home Extended Cut](https://drafthouse.com/raleigh/show/spider-man-far-from-home-extended-cut): Mon 5/27 (6:00pm)
+
+    * [Spider Man Homecoming](https://drafthouse.com/raleigh/show/spider-man-homecoming): Mon 5/20 (6:00pm)
+
+    * [Spider Man No Way Home Rerelease](https://drafthouse.com/raleigh/show/spider-man-no-way-home-rerelease): Mon 6/3 (6:00pm)
+
+    * [The Amazing Spider Man](https://drafthouse.com/raleigh/show/the-amazing-spider-man): Mon 5/6 (6:00pm)
+
+    * [The Amazing Spider Man 2](https://drafthouse.com/raleigh/show/the-amazing-spider-man-2): Mon 5/13 (6:00pm)
+
 ### Fri 3/22 1:17pm
 * New movies: Star Wars: The Phantom Menace - 25th Anniversary Re-release
 
