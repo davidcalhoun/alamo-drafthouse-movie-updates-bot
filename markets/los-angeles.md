@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Thu 3/21 11:19pm
+* New movies: Anatomia Extinction, I'm "George Lucas": A Connor Ratliff Story, Monty Python and the Holy Grail
+
+* New screenings: 
+    * [Anatomia Extinction](https://drafthouse.com/los-angeles/show/anatomia-extinction): Fri 4/12 (4:50pm), Wed 4/17 (8:00pm)
+
+    * [Live Q A Im George Lucas A Connor Ratliff Story](https://drafthouse.com/los-angeles/show/live-q-a-im-george-lucas-a-connor-ratliff-story): Sat 4/20 (7:45pm)
+
+    * [Quote Along Monty Python And The Holy Grail](https://drafthouse.com/los-angeles/show/quote-along-monty-python-and-the-holy-grail): Tue 4/30 (7:00pm)
+
+    * [Sasquatch Sunset](https://drafthouse.com/los-angeles/show/sasquatch-sunset): Sat 4/20 (10:00pm)
+
 ### Thu 3/21 9:21am
 
 * New screenings: 
