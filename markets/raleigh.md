@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Fri 3/22 11:17am
+* New movies: Civil War
+
+* New screenings: 
+    * [Civil War](https://drafthouse.com/raleigh/show/civil-war): Thu 4/11 (4:00pm, 7:00pm, 10:00pm), Fri 4/12 (5:00pm, 8:00pm), Sat 4/13 (5:15pm, 8:15pm), Sun 4/14 (6:00pm, 9:00pm)
+
+    * [Late Night With The Devil](https://drafthouse.com/raleigh/show/late-night-with-the-devil): Fri 3/22 (10:30pm), Sat 3/23 (10:30pm), Sun 3/24 (9:30pm), Mon 3/25 (10:30pm)
+
+    * [Problemista](https://drafthouse.com/raleigh/show/problemista): Sun 3/24 (10:30pm)
+
 ### Tue 3/19 5:16pm
 * New movies: Sasquatch Sunset
 
