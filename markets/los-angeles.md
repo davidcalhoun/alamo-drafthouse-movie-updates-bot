@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 3/25 6:17am
+* New movies: Musica
+
+* New screenings: 
+    * [Free Victory Screening Musica](https://drafthouse.com/los-angeles/show/free-victory-screening-musica): Tue 4/2 (7:15pm)
+
 ### Fri 3/22 9:20am
 * New movies: Star Wars: The Phantom Menace - 25th Anniversary Re-release
 
