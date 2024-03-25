@@ -1,6 +1,51 @@
 # raleigh
 
 ## Movie updates
+### Mon 3/25 6:19pm
+
+* New screenings: 
+    * [Arthur The King](https://drafthouse.com/raleigh/show/arthur-the-king): Thu 3/28 (11:00am, 2:00pm, 5:30pm), Fri 3/29 (12:15pm), Sat 3/30 (3:10pm), Sun 3/31 (11:20am), Tue 4/2 (3:45pm), Wed 4/3 (1:00pm, 4:30pm, 8:00pm, 11:00pm)
+
+    * [Bob Marley One Love](https://drafthouse.com/raleigh/show/bob-marley-one-love): Thu 3/28 (12:30pm)
+
+    * [Clifford 1994](https://drafthouse.com/raleigh/show/clifford-1994): Fri 3/29 (3:45pm), Sat 3/30 (12:05pm), Sun 3/31 (6:30pm), Mon 4/1 (4:50pm), Tue 4/2 (4:40pm)
+
+    * [Days Of Heaven](https://drafthouse.com/raleigh/show/days-of-heaven): Fri 3/29 (10:45pm), Sat 3/30 (11:35pm), Sun 3/31 (10:15pm), Tue 4/2 (4:05pm)
+
+    * [Dune Part Two](https://drafthouse.com/raleigh/show/dune-part-two): Thu 3/28 (11:00am, 1:30pm, 3:00pm, 7:00pm, 10:00pm), Fri 3/29 (12:45pm, 2:00pm, 5:00pm, 6:45pm, 9:00pm), Sat 3/30 (11:00am, 3:00pm, 7:00pm, 9:00pm), Sun 3/31 (11:15am, 3:10pm, 7:00pm, 9:10pm), Mon 4/1 (11:00am, 3:10pm, 7:00pm, 9:30pm), Tue 4/2 (11:00am, 3:00pm, 7:45pm, 9:30pm), Wed 4/3 (11:00am, 3:00pm, 7:00pm, 9:15pm)
+
+    * [Ennio](https://drafthouse.com/raleigh/show/ennio): Tue 4/2 (1:00pm)
+
+    * [Forrest Gump](https://drafthouse.com/raleigh/show/forrest-gump): Sat 3/30 (3:30pm), Sun 3/31 (2:30pm), Mon 4/1 (12:00pm), Wed 4/3 (11:30am)
+
+    * [Ghostbusters Frozen Empire](https://drafthouse.com/raleigh/show/ghostbusters-frozen-empire): Thu 3/28 (12:00pm, 3:00pm, 6:30pm, 9:45pm), Fri 3/29 (11:15am, 2:30pm, 6:00pm, 9:15pm), Sat 3/30 (1:00pm, 4:30pm, 7:45pm, 11:15pm), Sun 3/31 (11:45am, 2:45pm, 6:20pm, 9:20pm), Mon 4/1 (11:45am, 2:45pm, 6:15pm, 9:20pm), Tue 4/2 (11:45am, 2:45pm, 6:30pm, 9:45pm), Wed 4/3 (11:45am, 2:45pm, 6:15pm, 9:30pm)
+
+    * [Godzilla X Kong The New Empire](https://drafthouse.com/raleigh/show/godzilla-x-kong-the-new-empire): Thu 3/28 (6:00pm, 9:00pm), Fri 3/29 (1:15pm, 4:15pm, 7:30pm, 10:30pm), Sat 3/30 (1:30pm, 5:00pm, 8:00pm, 11:00pm), Sun 3/31 (12:30pm, 1:30pm, 3:45pm, 5:00pm, 7:30pm, 8:00pm, 10:30pm, 11:15pm), Mon 4/1 (12:30pm, 1:30pm, 4:00pm, 5:00pm, 7:30pm, 8:00pm, 10:30pm, 11:00pm), Tue 4/2 (11:30am, 1:00pm, 2:30pm, 4:00pm, 5:30pm, 7:30pm, 10:30pm), Wed 4/3 (12:00pm, 12:30pm, 3:00pm, 4:00pm, 6:00pm, 7:30pm, 10:30pm)
+
+    * [Immaculate](https://drafthouse.com/raleigh/show/immaculate): Thu 3/28 (11:15am, 1:50pm, 4:30pm, 8:15pm, 11:00pm), Fri 3/29 (11:00am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Sat 3/30 (11:45am, 2:30pm, 5:30pm, 8:30pm, 11:05pm), Sun 3/31 (11:30am, 2:05pm, 4:45pm, 7:45pm, 10:30pm), Mon 4/1 (11:15am, 2:15pm, 5:15pm, 8:30pm, 11:30pm), Tue 4/2 (11:15am, 2:15pm, 5:15pm, 8:30pm, 11:30pm), Wed 4/3 (11:30am, 2:15pm, 5:15pm, 8:30pm, 11:30pm)
+
+    * [Kumiko The Treasure Hunter](https://drafthouse.com/raleigh/show/kumiko-the-treasure-hunter): Thu 3/28 (10:30pm)
+
+    * [Kung Fu Panda 4](https://drafthouse.com/raleigh/show/kung-fu-panda-4): Thu 3/28 (12:15pm, 3:30pm, 6:15pm, 9:30pm), Fri 3/29 (12:00pm, 3:00pm, 6:15pm, 9:15pm), Sat 3/30 (12:15pm, 3:20pm, 6:15pm, 9:00pm), Sun 3/31 (12:15pm, 3:15pm, 6:00pm, 9:00pm), Mon 4/1 (12:15pm, 3:15pm, 6:00pm, 9:00pm), Tue 4/2 (11:40am, 2:45pm, 6:15pm, 9:15pm), Wed 4/3 (12:15pm, 3:15pm, 6:20pm, 9:00pm)
+
+    * [Late Night With The Devil](https://drafthouse.com/raleigh/show/late-night-with-the-devil): Thu 3/28 (8:30pm, 11:00pm, 11:45pm), Fri 3/29 (7:15pm, 10:00pm), Sat 3/30 (6:45pm, 8:15pm, 10:50pm), Sun 3/31 (4:00pm, 7:15pm, 10:00pm, 11:00pm), Mon 4/1 (4:00pm, 7:15pm, 10:00pm, 11:00pm), Tue 4/2 (6:45pm, 9:30pm, 9:45pm), Wed 4/3 (4:00pm, 7:15pm, 10:30pm, 11:00pm)
+
+    * [Love Lies Bleeding](https://drafthouse.com/raleigh/show/love-lies-bleeding): Thu 3/28 (1:00pm, 4:30pm, 7:30pm, 10:30pm), Fri 3/29 (12:30pm, 4:15pm, 8:00pm, 11:15pm), Sat 3/30 (11:15am, 2:30pm, 6:00pm, 9:30pm), Sun 3/31 (1:00pm, 4:30pm, 7:40pm, 10:30pm), Mon 4/1 (12:30pm, 3:45pm, 7:45pm, 10:35pm), Tue 4/2 (12:30pm, 3:25pm, 7:15pm, 10:15pm), Wed 4/3 (12:30pm, 3:45pm, 7:45pm, 10:35pm)
+
+    * [Once Upon A Time In The West](https://drafthouse.com/raleigh/show/once-upon-a-time-in-the-west): Fri 3/29 (6:15pm), Sun 3/31 (6:10pm), Mon 4/1 (1:00pm), Tue 4/2 (12:00pm), Wed 4/3 (3:15pm)
+
+    * [Problemista](https://drafthouse.com/raleigh/show/problemista): Thu 3/28 (12:45pm, 4:45pm, 8:00pm, 11:15pm), Fri 3/29 (1:00pm, 4:15pm, 7:15pm, 10:15pm), Sat 3/30 (12:45pm, 4:15pm, 7:15pm, 10:15pm), Sun 3/31 (1:00pm, 3:50pm, 6:45pm, 10:00pm), Mon 4/1 (12:45pm, 3:35pm, 6:30pm, 9:45pm), Tue 4/2 (12:40pm, 3:35pm, 6:45pm, 10:00pm), Wed 4/3 (12:45pm, 3:35pm, 6:30pm, 9:30pm)
+
+    * [Riddle Of Fire](https://drafthouse.com/raleigh/show/riddle-of-fire): Thu 3/28 (3:30pm)
+
+    * [Street Fighter](https://drafthouse.com/raleigh/show/street-fighter): Thu 3/28 (7:15pm)
+
+    * [The American Society Of Magical Negroes](https://drafthouse.com/raleigh/show/the-american-society-of-magical-negroes): Thu 3/28 (11:30am, 2:25pm, 5:15pm), Fri 3/29 (12:55pm), Sat 3/30 (12:15pm), Sun 3/31 (12:45pm), Mon 4/1 (12:45pm), Tue 4/2 (12:45pm), Wed 4/3 (12:45pm)
+
+    * [The Good The Bad And The Ugly](https://drafthouse.com/raleigh/show/the-good-the-bad-and-the-ugly): Fri 3/29 (10:15pm), Sat 3/30 (7:30pm), Mon 4/1 (3:50pm)
+
+    * [The Untouchables](https://drafthouse.com/raleigh/show/the-untouchables): Sat 3/30 (11:15pm), Mon 4/1 (8:10pm, 11:15pm)
+
 ### Mon 3/25 12:24pm
 * New movies: Musica
 
