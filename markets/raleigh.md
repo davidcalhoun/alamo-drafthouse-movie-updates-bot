@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 3/25 12:24pm
+* New movies: Musica
+
+* New screenings: 
+    * [Free Victory Screening Musica](https://drafthouse.com/raleigh/show/free-victory-screening-musica): Tue 4/2 (7:00pm)
+
 ### Fri 3/22 2:21pm
 * New movies: The Greasy Strangler, Spider-Man, Spider-Man 2, Spider-Man 3, In the Mouth of Madness, Spider-Man: Far from Home - Extended Cut, Spider-Man: Homecoming, Spider-Man: No Way Home - Rerelease, The Amazing Spider-Man, The Amazing Spider-Man 2
 
