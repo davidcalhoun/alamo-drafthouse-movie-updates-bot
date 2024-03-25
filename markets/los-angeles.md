@@ -1,6 +1,45 @@
 # los-angeles
 
 ## Movie updates
+### Mon 3/25 3:15pm
+
+* New screenings: 
+    * [Clifford 1994](https://drafthouse.com/los-angeles/show/clifford-1994): Sun 3/31 (8:00pm), Tue 4/2 (10:35pm), Wed 4/3 (10:25pm)
+
+    * [Days Of Heaven](https://drafthouse.com/los-angeles/show/days-of-heaven): Mon 4/1 (6:10pm), Tue 4/2 (1:00pm)
+
+    * [Dogman 2024](https://drafthouse.com/los-angeles/show/dogman-2024): Thu 3/28 (5:00pm), Mon 4/1 (1:15pm, 4:20pm), Tue 4/2 (12:45pm, 3:50pm), Wed 4/3 (1:15pm, 4:20pm)
+
+    * [Dune Part Two](https://drafthouse.com/los-angeles/show/dune-part-two): Thu 3/28 (3:30pm, 6:00pm, 9:00pm), Fri 3/29 (11:10am, 2:15pm, 6:00pm, 9:00pm), Sat 3/30 (11:10am, 2:15pm, 6:00pm, 9:00pm), Sun 3/31 (11:10am, 2:10pm, 6:00pm), Mon 4/1 (11:10am, 2:15pm, 6:00pm, 9:00pm), Tue 4/2 (11:40am, 2:10pm, 6:00pm, 9:00pm), Wed 4/3 (11:10am, 2:15pm, 6:00pm, 9:00pm)
+
+    * [Ennio](https://drafthouse.com/los-angeles/show/ennio): Mon 4/1 (11:35am), Tue 4/2 (3:45pm)
+
+    * [Ghostbusters Frozen Empire](https://drafthouse.com/los-angeles/show/ghostbusters-frozen-empire): Mon 4/1 (12:20pm, 3:25pm), Wed 4/3 (12:20pm, 3:25pm, 10:40pm)
+
+    * [Godzilla X Kong The New Empire](https://drafthouse.com/los-angeles/show/godzilla-x-kong-the-new-empire): Thu 3/28 (5:30pm, 8:10pm, 8:40pm), Fri 3/29 (11:25am, 2:35pm, 5:45pm, 9:00pm), Sat 3/30 (11:25am, 2:35pm, 5:45pm, 9:00pm), Sun 3/31 (11:25am, 2:35pm, 5:45pm), Mon 4/1 (11:25am, 12:40pm, 2:35pm, 3:50pm, 5:45pm, 9:00pm), Tue 4/2 (12:00pm, 3:10pm, 9:00pm, 10:10pm), Wed 4/3 (11:25am, 2:35pm, 5:45pm, 9:00pm)
+
+    * [Immaculate](https://drafthouse.com/los-angeles/show/immaculate): Thu 3/28 (2:25pm, 5:15pm, 8:00pm, 10:45pm), Fri 3/29 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Sat 3/30 (11:40am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Sun 3/31 (11:45am, 2:30pm, 5:15pm, 8:00pm), Mon 4/1 (11:40am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Tue 4/2 (11:40am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Wed 4/3 (11:40am, 2:30pm, 5:15pm, 8:00pm, 10:45pm)
+
+    * [Kung Fu Panda 4](https://drafthouse.com/los-angeles/show/kung-fu-panda-4): Thu 3/28 (3:30pm, 6:15pm, 10:00pm), Fri 3/29 (11:25am, 3:10pm, 6:15pm, 10:00pm), Sat 3/30 (11:20am, 3:10pm, 6:15pm, 10:00pm), Sun 3/31 (11:20am, 3:10pm, 6:15pm), Mon 4/1 (11:20am, 3:10pm, 6:15pm, 10:00pm), Tue 4/2 (11:20am, 3:10pm, 6:10pm, 10:00pm), Wed 4/3 (11:20am, 3:10pm, 6:15pm, 10:00pm)
+
+    * [Late Night With The Devil](https://drafthouse.com/los-angeles/show/late-night-with-the-devil): Thu 3/28 (2:20pm, 5:00pm, 7:45pm, 9:50pm, 10:25pm), Fri 3/29 (11:40am, 2:20pm, 5:00pm, 7:45pm, 10:25pm), Sat 3/30 (11:35am, 2:20pm, 5:00pm, 7:45pm, 10:25pm), Sun 3/31 (11:35am, 2:20pm, 5:00pm, 7:45pm), Mon 4/1 (11:40am, 2:20pm, 5:00pm, 7:45pm, 10:25pm), Tue 4/2 (11:20am, 2:00pm, 4:45pm, 6:20pm, 10:15pm), Wed 4/3 (11:35am, 2:20pm, 5:00pm, 7:45pm, 9:35pm, 11:00pm)
+
+    * [Lousy Carter](https://drafthouse.com/los-angeles/show/lousy-carter): Fri 3/29 (9:45pm), Wed 4/3 (12:30pm)
+
+    * [Love Lies Bleeding](https://drafthouse.com/los-angeles/show/love-lies-bleeding): Thu 3/28 (4:00pm, 7:30pm, 10:30pm), Fri 3/29 (1:15pm, 4:15pm, 7:20pm, 10:20pm), Sat 3/30 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Sun 3/31 (1:15pm, 4:15pm, 7:15pm), Mon 4/1 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Tue 4/2 (12:10pm, 3:40pm, 6:40pm, 9:40pm), Wed 4/3 (12:35pm, 3:35pm, 6:40pm, 9:40pm)
+
+    * [Once Upon A Time In The West](https://drafthouse.com/los-angeles/show/once-upon-a-time-in-the-west): Sat 3/30 (5:30pm), Sun 3/31 (4:00pm), Wed 4/3 (11:45am)
+
+    * [Problemista](https://drafthouse.com/los-angeles/show/problemista): Thu 3/28 (2:20pm, 4:15pm, 6:45pm), Fri 3/29 (12:45pm, 3:45pm, 6:45pm), Sat 3/30 (12:45pm, 3:45pm, 6:45pm), Sun 3/31 (12:45pm, 3:45pm, 6:45pm), Mon 4/1 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Tue 4/2 (12:45pm, 3:45pm, 6:50pm, 9:50pm), Wed 4/3 (12:45pm, 3:50pm, 6:50pm, 9:50pm)
+
+    * [Riddle Of Fire](https://drafthouse.com/los-angeles/show/riddle-of-fire): Thu 3/28 (3:00pm), Sat 3/30 (2:25pm), Mon 4/1 (11:50am), Wed 4/3 (3:45pm)
+
+    * [Shivers](https://drafthouse.com/los-angeles/show/shivers): Mon 4/1 (3:25pm), Tue 4/2 (10:50pm)
+
+    * [The American Society Of Magical Negroes](https://drafthouse.com/los-angeles/show/the-american-society-of-magical-negroes): Thu 3/28 (2:30pm)
+
+    * [The Untouchables](https://drafthouse.com/los-angeles/show/the-untouchables): Fri 3/29 (6:00pm), Mon 4/1 (9:00pm)
+
 ### Mon 3/25 6:17am
 * New movies: Musica
 
