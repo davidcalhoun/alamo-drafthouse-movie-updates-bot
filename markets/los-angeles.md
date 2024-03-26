@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 3/26 6:17am
+* New movies: The First Omen, The First Omen
+
+* New screenings: 
+    * [Fantastic Fest Presents The First Omen W Live Q A](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-the-first-omen-w-live-q-a): Wed 4/3 (7:15pm)
+
+    * [The First Omen](https://drafthouse.com/los-angeles/show/the-first-omen): Thu 4/4 (7:30pm, 10:45pm), Fri 4/5 (1:00pm, 4:15pm, 7:30pm, 10:45pm), Sat 4/6 (1:00pm, 4:15pm, 7:30pm, 10:45pm), Sun 4/7 (1:00pm, 4:15pm, 7:30pm), Mon 4/8 (7:30pm, 10:45pm), Tue 4/9 (1:00pm, 4:15pm, 7:30pm, 10:45pm), Wed 4/10 (7:30pm, 10:45pm)
+
 ### Mon 3/25 6:07pm
 * New movies: Kim's Video
 
