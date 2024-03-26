@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 3/25 6:07pm
+* New movies: Kim's Video
+
+* New screenings: 
+    * [Kims Video](https://drafthouse.com/los-angeles/show/kims-video): Fri 4/5 (4:35pm, 7:15pm), Sat 4/6 (2:15pm), Sun 4/7 (2:40pm, 5:20pm), Mon 4/8 (4:35pm), Tue 4/9 (5:20pm), Wed 4/10 (4:20pm)
+
 ### Mon 3/25 3:15pm
 
 * New screenings: 
