@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 3/26 1:16pm
+* New movies: Lousy Carter
+
+* New screenings: 
+    * [Live Q A Lousy Carter](https://drafthouse.com/los-angeles/show/live-q-a-lousy-carter): Sat 3/30 (8:30pm)
+
 ### Tue 3/26 6:17am
 * New movies: The First Omen, The First Omen
 
