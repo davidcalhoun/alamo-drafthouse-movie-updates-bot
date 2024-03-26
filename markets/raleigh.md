@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 3/26 11:18am
+* New movies: The First Omen
+
+* New screenings: 
+    * [The First Omen](https://drafthouse.com/raleigh/show/the-first-omen): Thu 4/4 (7:30pm, 10:45pm), Fri 4/5 (7:15pm, 11:00pm), Sat 4/6 (6:00pm, 9:45pm), Sun 4/7 (8:00pm, 11:30pm)
+
 ### Mon 3/25 6:19pm
 
 * New screenings: 
