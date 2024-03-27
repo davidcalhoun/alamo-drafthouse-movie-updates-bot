@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Tue 3/26 11:19pm
+* New movies: I Saw the Devil, Enter the Clones of Bruce
+
+* New screenings: 
+    * [Dawn Of The Dead 1978](https://drafthouse.com/los-angeles/show/dawn-of-the-dead-1978): Sat 4/13 (10:00pm)
+
+    * [Enter The Clones Of Bruce](https://drafthouse.com/los-angeles/show/enter-the-clones-of-bruce): Fri 4/26 (4:20pm)
+
+    * [I Saw The Devil](https://drafthouse.com/los-angeles/show/i-saw-the-devil): Mon 5/27 (9:15pm)
+
 ### Tue 3/26 1:16pm
 * New movies: Lousy Carter
 
