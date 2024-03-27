@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 3/27 6:17am
+* New movies: Spy x Family: Code White Dubbed, Spy x Family: Code White Subtitled
+
+* New screenings: 
+    * [Spy X Family Code White Dubbed](https://drafthouse.com/los-angeles/show/spy-x-family-code-white-dubbed): Thu 4/18 (7:30pm, 10:35pm), Fri 4/19 (12:20pm, 6:30pm), Sat 4/20 (2:50pm, 9:10pm), Sun 4/21 (12:20pm, 6:30pm), Tue 4/23 (12:20pm, 6:30pm)
+
+    * [Spy X Family Code White Subtitled](https://drafthouse.com/los-angeles/show/spy-x-family-code-white-subtitled): Thu 4/18 (4:25pm), Fri 4/19 (3:25pm, 9:35pm), Sat 4/20 (11:45am, 6:00pm), Sun 4/21 (3:25pm), Tue 4/23 (3:25pm, 9:35pm)
+
 ### Wed 3/27 3:16am
 
 * New screenings: 
