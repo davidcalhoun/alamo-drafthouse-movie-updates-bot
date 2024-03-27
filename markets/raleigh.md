@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 3/27 5:15pm
+* New movies: Lousy Carter
+
+* New screenings: 
+    * [Lousy Carter](https://drafthouse.com/raleigh/show/lousy-carter): Sun 3/31 (1:00pm), Mon 4/1 (12:00pm)
+
 ### Tue 3/26 11:18am
 * New movies: The First Omen
 
