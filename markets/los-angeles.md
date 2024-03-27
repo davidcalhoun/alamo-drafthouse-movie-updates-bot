@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 3/27 12:13am
+* New movies: La Chimera
+
+* New screenings: 
+    * [La Chimera](https://drafthouse.com/los-angeles/show/la-chimera): Thu 4/4 (5:20pm)
+
+    * [Monkey Man](https://drafthouse.com/los-angeles/show/monkey-man): Thu 4/4 (5:45pm), Fri 4/5 (5:30pm), Sat 4/6 (5:30pm), Sun 4/7 (5:30pm)
+
 ### Tue 3/26 11:19pm
 * New movies: I Saw the Devil, Enter the Clones of Bruce
 
