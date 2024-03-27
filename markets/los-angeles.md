@@ -1,6 +1,15 @@
 # los-angeles
 
 ## Movie updates
+### Wed 3/27 1:20am
+
+* New screenings: 
+    * [Civil War](https://drafthouse.com/los-angeles/show/civil-war): Fri 4/12 (11:45am, 2:45pm, 5:45pm, 8:45pm), Sat 4/13 (11:45am, 2:45pm, 5:45pm, 8:45pm), Sun 4/14 (11:00am, 2:00pm, 5:00pm, 8:00pm)
+
+    * [La Chimera](https://drafthouse.com/los-angeles/show/la-chimera): Fri 4/5 (6:00pm), Sat 4/6 (6:00pm), Sun 4/7 (6:00pm)
+
+    * [Monkey Man](https://drafthouse.com/los-angeles/show/monkey-man): Mon 4/8 (12:20pm, 3:40pm), Fri 4/12 (11:30am, 2:45pm, 6:00pm, 9:15pm), Sat 4/13 (11:30am, 2:45pm, 6:00pm, 9:15pm), Sun 4/14 (12:15pm, 3:30pm, 6:45pm), Mon 4/15 (11:30am, 2:45pm, 6:00pm, 9:15pm), Tue 4/16 (11:30am, 2:45pm, 6:00pm, 9:15pm), Wed 4/17 (11:30am, 2:45pm, 6:00pm, 9:15pm)
+
 ### Wed 3/27 12:13am
 * New movies: La Chimera
 
