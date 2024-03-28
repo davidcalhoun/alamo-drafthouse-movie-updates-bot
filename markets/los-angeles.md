@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 3/28 4:15pm
+* New movies: Inherent Vice
+
+* New screenings: 
+    * [Alamo Dankhouse Inherent Vice Feast](https://drafthouse.com/los-angeles/show/alamo-dankhouse-inherent-vice-feast): Sat 4/20 (4:20pm)
+
 ### Thu 3/28 2:14pm
 * New movies: Housekeeping for Beginners
 
