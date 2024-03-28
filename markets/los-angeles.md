@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 3/28 11:19am
+
+* New screenings: 
+    * [Late Night With The Devil](https://drafthouse.com/los-angeles/show/late-night-with-the-devil): Thu 3/28 (4:00pm)
+
 ### Wed 3/27 6:17am
 * New movies: Spy x Family: Code White Dubbed, Spy x Family: Code White Subtitled
 
