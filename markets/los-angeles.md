@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 3/28 2:14pm
+* New movies: Housekeeping for Beginners
+
+* New screenings: 
+    * [Housekeeping For Beginners](https://drafthouse.com/los-angeles/show/housekeeping-for-beginners): Thu 4/11 (5:30pm), Fri 4/12 (6:00pm), Sat 4/13 (6:00pm), Sun 4/14 (6:15pm), Mon 4/15 (6:00pm), Tue 4/16 (6:00pm), Wed 4/17 (6:00pm)
+
+    * [La Chimera](https://drafthouse.com/los-angeles/show/la-chimera): Mon 4/8 (6:00pm), Tue 4/9 (6:00pm), Wed 4/10 (6:00pm)
+
 ### Thu 3/28 11:19am
 
 * New screenings: 
