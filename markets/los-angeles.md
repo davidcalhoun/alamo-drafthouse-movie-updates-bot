@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 3/29 9:20am
+
+* New screenings: 
+    * [Godzilla X Kong The New Empire](https://drafthouse.com/los-angeles/show/godzilla-x-kong-the-new-empire): Fri 3/29 (9:45pm), Sat 3/30 (9:45pm)
+
 ### Thu 3/28 4:15pm
 * New movies: Inherent Vice
 
