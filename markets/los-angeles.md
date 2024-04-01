@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 4/1 2:14pm
+
+* New screenings: 
+    * [Civil War](https://drafthouse.com/los-angeles/show/civil-war): Thu 4/11 (6:15pm, 9:20pm)
+
 ### Fri 3/29 9:20am
 
 * New screenings: 
