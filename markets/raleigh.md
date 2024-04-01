@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 4/1 3:15pm
+
+* New screenings: 
+    * [Mandy](https://drafthouse.com/raleigh/show/mandy): Thu 4/11 (4:30pm)
+
 ### Sun 3/31 9:25pm
 
 * New screenings: 
