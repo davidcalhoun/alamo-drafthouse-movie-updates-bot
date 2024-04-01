@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Sun 3/31 9:25pm
+
+* New screenings: 
+    * [Lousy Carter](https://drafthouse.com/raleigh/show/lousy-carter): Mon 4/1 (11:15pm)
+
 ### Wed 3/27 5:15pm
 * New movies: Lousy Carter
 
