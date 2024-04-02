@@ -1,6 +1,43 @@
 # los-angeles
 
 ## Movie updates
+### Mon 4/1 8:18pm
+
+* New screenings: 
+    * [Bone Tomahawk](https://drafthouse.com/los-angeles/show/bone-tomahawk): Mon 4/8 (3:15pm)
+
+    * [Dogman 2024](https://drafthouse.com/los-angeles/show/dogman-2024): Thu 4/4 (4:20pm), Fri 4/5 (11:50am, 10:00pm), Sat 4/6 (2:50pm), Sun 4/7 (11:30am), Mon 4/8 (10:00pm), Tue 4/9 (11:50am, 10:15pm), Wed 4/10 (11:50am, 9:50pm)
+
+    * [Dumb And Dumber](https://drafthouse.com/los-angeles/show/dumb-and-dumber): Tue 4/9 (2:20pm)
+
+    * [Dune Part Two](https://drafthouse.com/los-angeles/show/dune-part-two): Thu 4/4 (3:00pm, 6:15pm, 9:30pm), Fri 4/5 (12:30pm, 2:45pm, 6:15pm, 9:50pm), Sat 4/6 (11:00am, 2:45pm, 6:15pm, 9:50pm), Sun 4/7 (11:00am, 2:45pm, 6:15pm), Mon 4/8 (11:00am, 2:45pm, 6:15pm, 9:50pm), Tue 4/9 (12:10pm, 2:45pm, 6:15pm, 9:50pm), Wed 4/10 (12:45pm, 2:45pm, 6:10pm, 9:20pm)
+
+    * [Ghostbusters Frozen Empire](https://drafthouse.com/los-angeles/show/ghostbusters-frozen-empire): Thu 4/4 (3:30pm, 6:45pm, 10:10pm), Fri 4/5 (11:35am, 3:00pm, 6:45pm, 10:15pm), Sat 4/6 (11:35am, 3:00pm, 6:45pm, 10:15pm), Sun 4/7 (11:35am, 3:00pm, 6:45pm), Mon 4/8 (11:35am, 3:00pm, 6:45pm, 10:15pm), Tue 4/9 (11:35am, 3:00pm, 6:45pm, 10:15pm), Wed 4/10 (11:35am, 3:00pm, 6:45pm, 10:15pm)
+
+    * [Godzilla X Kong The New Empire](https://drafthouse.com/los-angeles/show/godzilla-x-kong-the-new-empire): Thu 4/4 (2:45pm, 3:20pm, 6:00pm, 9:10pm), Fri 4/5 (11:25am, 12:10pm, 2:35pm, 3:20pm, 5:45pm, 6:30pm, 9:00pm), Sat 4/6 (11:25am, 12:00pm, 2:35pm, 5:45pm, 6:30pm, 9:00pm), Sun 4/7 (11:25am, 12:10pm, 2:35pm, 3:20pm, 6:30pm), Mon 4/8 (11:25am, 12:10pm, 2:35pm, 3:20pm, 5:45pm, 6:30pm, 9:00pm, 9:40pm), Tue 4/9 (11:25am, 12:00pm, 2:35pm, 3:15pm, 5:45pm, 6:30pm, 9:00pm, 9:40pm), Wed 4/10 (11:25am, 12:10pm, 2:35pm, 3:20pm, 5:45pm, 6:30pm, 9:00pm, 9:40pm)
+
+    * [Immaculate](https://drafthouse.com/los-angeles/show/immaculate): Thu 4/4 (3:45pm, 9:50pm), Fri 4/5 (4:40pm, 10:25pm), Sat 4/6 (4:40pm, 10:25pm), Sun 4/7 (11:15am, 4:40pm), Mon 4/8 (11:15am, 4:40pm, 10:25pm), Tue 4/9 (4:40pm, 10:25pm), Wed 4/10 (4:40pm, 10:25pm)
+
+    * [Kims Video](https://drafthouse.com/los-angeles/show/kims-video): Thu 4/4 (7:45pm, 10:25pm), Sat 4/6 (11:15am), Mon 4/8 (11:00am), Tue 4/9 (11:40am), Wed 4/10 (12:20pm)
+
+    * [Kung Fu Panda 4](https://drafthouse.com/los-angeles/show/kung-fu-panda-4): Thu 4/4 (2:30pm)
+
+    * [La Chimera](https://drafthouse.com/los-angeles/show/la-chimera): Thu 4/4 (8:30pm), Fri 4/5 (11:10am, 2:35pm, 9:25pm), Sat 4/6 (11:10am, 2:35pm, 9:25pm), Sun 4/7 (11:10am, 2:35pm), Mon 4/8 (11:10am, 2:35pm, 9:25pm), Tue 4/9 (11:10am, 2:35pm, 9:25pm), Wed 4/10 (11:10am, 2:35pm, 9:25pm)
+
+    * [Late Night With The Devil](https://drafthouse.com/los-angeles/show/late-night-with-the-devil): Thu 4/4 (2:20pm, 5:20pm, 8:00pm, 10:40pm), Fri 4/5 (11:20am, 2:00pm, 5:00pm, 7:45pm, 10:25pm), Sat 4/6 (11:20am, 2:00pm, 5:00pm, 7:45pm, 10:25pm), Sun 4/7 (11:20am, 2:00pm, 5:00pm, 7:45pm), Mon 4/8 (11:20am, 2:00pm, 5:00pm, 7:45pm, 10:30pm), Tue 4/9 (11:20am, 2:00pm, 5:00pm, 7:45pm, 10:25pm), Wed 4/10 (11:20am, 2:00pm, 5:00pm, 7:45pm, 10:25pm)
+
+    * [Lousy Carter](https://drafthouse.com/los-angeles/show/lousy-carter): Thu 4/4 (2:40pm, 5:10pm)
+
+    * [Love Lies Bleeding](https://drafthouse.com/los-angeles/show/love-lies-bleeding): Thu 4/4 (4:15pm, 6:30pm), Fri 4/5 (2:00pm, 7:25pm), Sat 4/6 (2:00pm, 7:25pm), Sun 4/7 (2:00pm, 7:25pm), Mon 4/8 (2:00pm, 7:25pm), Tue 4/9 (2:00pm, 7:25pm), Wed 4/10 (2:00pm, 7:25pm)
+
+    * [Monkey Man](https://drafthouse.com/los-angeles/show/monkey-man): Thu 4/4 (6:30pm, 9:00pm, 9:45pm, 10:00pm), Fri 4/5 (11:00am, 2:15pm, 8:45pm, 9:40pm), Sat 4/6 (11:00am, 2:15pm, 3:10pm, 8:45pm, 9:40pm), Sun 4/7 (11:00am, 2:15pm, 5:45pm), Mon 4/8 (11:00am, 2:15pm, 5:30pm, 8:45pm), Tue 4/9 (11:00am, 2:15pm, 5:30pm, 8:45pm), Wed 4/10 (11:00am, 1:00pm, 2:15pm, 3:00pm, 4:45pm, 5:30pm, 8:45pm)
+
+    * [Problemista](https://drafthouse.com/los-angeles/show/problemista): Thu 4/4 (2:45pm, 3:15pm), Fri 4/5 (11:00am), Sat 4/6 (11:45am), Mon 4/8 (12:15pm), Tue 4/9 (11:00am, 4:10pm), Wed 4/10 (11:00am, 6:20pm)
+
+    * [The First Omen](https://drafthouse.com/los-angeles/show/the-first-omen): Mon 4/8 (1:00pm, 4:15pm), Wed 4/10 (1:00pm, 4:15pm)
+
+    * [The Thing](https://drafthouse.com/los-angeles/show/the-thing): Mon 4/8 (1:35pm)
+
 ### Mon 4/1 2:14pm
 
 * New screenings: 
