@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 4/3 12:14am
+* New movies: Infested
+
+* New screenings: 
+    * [Infested](https://drafthouse.com/los-angeles/show/infested): Fri 4/19 (10:05pm), Wed 4/24 (10:30pm)
+
+    * [Live Q A Im George Lucas A Connor Ratliff Story](https://drafthouse.com/los-angeles/show/live-q-a-im-george-lucas-a-connor-ratliff-story): Sun 4/21 (7:00pm)
+
 ### Tue 4/2 9:19pm
 * New movies: The Ministry of Ungentlemanly Warfare
 
