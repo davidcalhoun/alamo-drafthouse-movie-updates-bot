@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 4/3 1:18pm
+
+* New screenings: 
+    * [Monkey Man](https://drafthouse.com/los-angeles/show/monkey-man): Thu 4/4 (7:40pm, 10:40pm)
+
 ### Wed 4/3 12:14am
 * New movies: Infested
 
