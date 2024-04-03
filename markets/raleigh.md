@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 4/3 11:18am
+* New movies: The Ministry of Ungentlemanly Warfare
+
+* New screenings: 
+    * [Advance Screening The Ministry Of Ungentlemanly Warfare Early Access](https://drafthouse.com/raleigh/show/advance-screening-the-ministry-of-ungentlemanly-warfare-early-access): Sat 4/13 (7:00pm)
+
 ### Mon 4/1 4:21pm
 
 * New screenings: 
