@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 4/2 9:19pm
+* New movies: The Ministry of Ungentlemanly Warfare
+
+* New screenings: 
+    * [The Ministry Of Ungentlemanly Warfare](https://drafthouse.com/los-angeles/show/the-ministry-of-ungentlemanly-warfare): Thu 4/18 (6:00pm, 9:15pm), Fri 4/19 (11:45am, 3:25pm, 6:45pm, 9:00pm), Sat 4/20 (11:45am, 3:00pm, 6:30pm, 9:45pm), Sun 4/21 (11:30am, 2:45pm, 6:00pm), Mon 4/22 (11:45am, 3:25pm, 6:45pm, 9:00pm), Tue 4/23 (11:45am, 3:25pm, 6:45pm, 9:00pm), Wed 4/24 (11:45am, 3:25pm, 6:45pm, 9:00pm)
+
 ### Mon 4/1 8:18pm
 
 * New screenings: 
