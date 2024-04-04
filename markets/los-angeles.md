@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Thu 4/4 2:13pm
+
+* New screenings: 
+    * [Monkey Man](https://drafthouse.com/los-angeles/show/monkey-man): Sat 4/6 (11:50am)
+
+    * [The Thing](https://drafthouse.com/los-angeles/show/the-thing): Fri 4/5 (11:25am)
+
 ### Thu 4/4 5:29am
 * New movies: Abigail, Abigail
 
