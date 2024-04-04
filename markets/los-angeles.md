@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 4/4 5:29am
+* New movies: Abigail, Abigail
+
+* New screenings: 
+    * [Abigail](https://drafthouse.com/los-angeles/show/abigail): Thu 4/18 (10:00pm), Fri 4/19 (1:00pm, 4:00pm, 7:00pm, 10:10pm), Sat 4/20 (1:00pm, 4:00pm, 7:00pm, 10:10pm), Sun 4/21 (1:00pm, 4:00pm, 7:25pm), Mon 4/22 (1:00pm, 4:00pm, 10:10pm), Tue 4/23 (1:00pm, 4:00pm, 7:00pm, 10:10pm), Wed 4/24 (1:00pm, 4:00pm, 7:00pm, 10:10pm)
+
+    * [Live Q A Abigail](https://drafthouse.com/los-angeles/show/live-q-a-abigail): Thu 4/18 (6:30pm)
+
 ### Wed 4/3 1:18pm
 
 * New screenings: 
