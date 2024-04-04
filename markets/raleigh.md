@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 4/4 1:17pm
+* New movies: Abigail
+
+* New screenings: 
+    * [Abigail](https://drafthouse.com/raleigh/show/abigail): Thu 4/18 (5:00pm, 8:00pm, 11:00pm), Fri 4/19 (12:15pm, 3:30pm, 6:45pm, 9:45pm)
+
 ### Wed 4/3 12:23pm
 * New movies: The Ministry of Ungentlemanly Warfare
 
