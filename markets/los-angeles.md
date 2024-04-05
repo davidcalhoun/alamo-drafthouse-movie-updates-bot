@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 4/5 1:22am
+
+* New screenings: 
+    * [Live Q A Im George Lucas A Connor Ratliff Story](https://drafthouse.com/los-angeles/show/live-q-a-im-george-lucas-a-connor-ratliff-story): Sun 4/21 (4:10pm)
+
 ### Thu 4/4 2:13pm
 
 * New screenings: 
