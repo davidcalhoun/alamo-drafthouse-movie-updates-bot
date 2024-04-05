@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 4/5 5:28am
+* New movies: The Mummy 1999
+
+* New screenings: 
+    * [The Mummy 1999](https://drafthouse.com/los-angeles/show/the-mummy-1999): Fri 4/26 (6:00pm, 9:15pm), Sat 4/27 (3:00pm, 6:15pm), Sun 4/28 (4:00pm, 7:15pm), Mon 4/29 (2:45pm, 6:00pm), Tue 4/30 (4:00pm, 9:45pm), Wed 5/1 (2:45pm, 6:00pm), Thu 5/2 (2:45pm, 6:00pm)
+
 ### Fri 4/5 1:22am
 
 * New screenings: 
