@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Sat 4/6 8:16pm
+
+* New screenings: 
+    * [Monkey Man](https://drafthouse.com/los-angeles/show/monkey-man): Sun 4/7 (11:20am)
+
 ### Fri 4/5 5:28am
 * New movies: The Mummy 1999
 
