@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Mon 4/8 6:17am
+* New movies: Kingdom of the Planet of the Apes, Kingdom of the Planet of the Apes
+
+* New screenings: 
+    * [Brunch Screenings Kingdom Of The Planet Of The Apes Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-kingdom-of-the-planet-of-the-apes-brunch): Sat 5/11 (11:00am), Sun 5/12 (11:00am)
+
+    * [Kingdom Of The Planet Of The Apes](https://drafthouse.com/los-angeles/show/kingdom-of-the-planet-of-the-apes): Thu 5/9 (3:00pm, 6:45pm, 10:30pm), Fri 5/10 (11:00am, 2:45pm, 6:30pm), Sat 5/11 (2:45pm, 6:30pm, 10:15pm), Sun 5/12 (2:45pm, 6:30pm, 10:15pm), Mon 5/13 (11:00am, 2:45pm, 6:30pm, 10:15pm), Tue 5/14 (11:00am, 2:45pm, 6:30pm, 10:15pm), Wed 5/15 (11:00am, 2:45pm, 6:30pm, 10:15pm)
+
 ### Sat 4/6 8:16pm
 
 * New screenings: 
