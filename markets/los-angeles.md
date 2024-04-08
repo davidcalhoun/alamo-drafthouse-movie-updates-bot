@@ -1,6 +1,49 @@
 # los-angeles
 
 ## Movie updates
+### Mon 4/8 3:17pm
+
+* New screenings: 
+    * [Blue Giant](https://drafthouse.com/los-angeles/show/blue-giant): Fri 4/12 (12:00pm)
+
+    * [Civil War](https://drafthouse.com/los-angeles/show/civil-war): Thu 4/11 (5:00pm, 5:25pm, 8:40pm), Fri 4/12 (4:40pm, 10:10pm), Sat 4/13 (2:55pm, 9:15pm), Sun 4/14 (4:00pm), Mon 4/15 (11:45am, 12:20pm, 2:45pm, 3:25pm, 5:45pm, 8:45pm), Tue 4/16 (11:45am, 2:45pm, 5:45pm, 8:45pm), Wed 4/17 (11:45am, 12:20pm, 2:45pm, 3:25pm, 5:45pm, 8:45pm)
+
+    * [Clerks](https://drafthouse.com/los-angeles/show/clerks): Fri 4/12 (2:10pm), Sun 4/14 (8:25pm), Wed 4/17 (3:15pm)
+
+    * [Dawn Of The Dead 1978](https://drafthouse.com/los-angeles/show/dawn-of-the-dead-1978): Sat 4/13 (12:40pm, 5:00pm), Mon 4/15 (2:10pm, 5:30pm, 8:50pm), Tue 4/16 (2:15pm, 5:30pm, 8:50pm), Wed 4/17 (2:10pm, 5:30pm, 8:50pm)
+
+    * [Dogman 2024](https://drafthouse.com/los-angeles/show/dogman-2024): Thu 4/11 (3:50pm)
+
+    * [Dune Part Two](https://drafthouse.com/los-angeles/show/dune-part-two): Thu 4/11 (3:00pm, 6:00pm, 10:00pm), Fri 4/12 (1:15pm, 5:15pm, 9:15pm), Sat 4/13 (1:15pm, 5:15pm, 9:20pm), Sun 4/14 (11:35am, 2:30pm, 6:45pm), Mon 4/15 (1:15pm, 5:15pm, 9:15pm), Tue 4/16 (12:35pm, 5:15pm, 9:15pm), Wed 4/17 (1:15pm, 5:15pm, 9:15pm)
+
+    * [Ghostbusters Frozen Empire](https://drafthouse.com/los-angeles/show/ghostbusters-frozen-empire): Thu 4/11 (2:50pm)
+
+    * [Godzilla X Kong The New Empire](https://drafthouse.com/los-angeles/show/godzilla-x-kong-the-new-empire): Thu 4/11 (3:00pm, 6:45pm, 9:55pm), Fri 4/12 (12:25pm, 3:35pm, 6:45pm, 9:55pm), Sat 4/13 (12:25pm, 3:35pm, 6:45pm, 9:55pm), Sun 4/14 (11:25am, 3:35pm, 6:30pm), Mon 4/15 (12:25pm, 3:35pm, 6:45pm, 9:50pm), Tue 4/16 (12:30pm, 3:35pm, 6:45pm, 9:50pm), Wed 4/17 (12:30pm, 3:35pm, 6:45pm, 9:50pm)
+
+    * [Housekeeping For Beginners](https://drafthouse.com/los-angeles/show/housekeeping-for-beginners): Thu 4/11 (8:30pm), Fri 4/12 (12:00pm, 3:00pm, 9:00pm), Sat 4/13 (12:10pm, 3:10pm, 9:10pm), Sun 4/14 (12:15pm, 3:15pm), Mon 4/15 (12:00pm, 3:00pm, 9:00pm), Tue 4/16 (12:00pm, 3:00pm, 9:00pm), Wed 4/17 (12:00pm, 3:00pm, 9:00pm)
+
+    * [Immaculate](https://drafthouse.com/los-angeles/show/immaculate): Thu 4/11 (2:45pm)
+
+    * [Kims Video](https://drafthouse.com/los-angeles/show/kims-video): Thu 4/11 (2:45pm)
+
+    * [La Chimera](https://drafthouse.com/los-angeles/show/la-chimera): Thu 4/11 (4:00pm, 7:00pm, 10:25pm), Fri 4/12 (11:25am, 2:50pm, 6:15pm, 9:45pm), Sat 4/13 (11:25am, 2:50pm, 6:20pm, 9:45pm), Sun 4/14 (12:00pm, 3:25pm, 6:50pm), Mon 4/15 (11:25am, 2:50pm, 6:15pm, 9:45pm), Tue 4/16 (11:25am, 2:50pm, 6:15pm, 9:45pm), Wed 4/17 (11:25am, 2:50pm, 6:15pm, 9:45pm)
+
+    * [Late Night With The Devil](https://drafthouse.com/los-angeles/show/late-night-with-the-devil): Thu 4/11 (3:35pm, 6:00pm, 10:00pm), Fri 4/12 (11:20am, 2:00pm, 4:40pm, 7:20pm, 11:00pm), Sat 4/13 (11:20am, 2:00pm, 4:40pm, 7:20pm, 10:00pm), Sun 4/14 (11:15am, 2:00pm, 4:40pm, 7:20pm), Mon 4/15 (11:20am, 2:00pm, 4:40pm, 7:20pm, 10:30pm), Tue 4/16 (11:50am, 2:30pm, 4:40pm, 7:20pm, 10:35pm), Wed 4/17 (11:20am, 2:00pm, 4:40pm, 7:20pm, 10:00pm)
+
+    * [Love Lies Bleeding](https://drafthouse.com/los-angeles/show/love-lies-bleeding): Fri 4/12 (11:15am), Mon 4/15 (11:15am), Tue 4/16 (11:20am), Wed 4/17 (11:15am)
+
+    * [Mandy](https://drafthouse.com/los-angeles/show/mandy): Sat 4/13 (8:20pm), Tue 4/16 (1:20pm), Wed 4/17 (12:00pm)
+
+    * [Monkey Man](https://drafthouse.com/los-angeles/show/monkey-man): Thu 4/11 (3:15pm, 6:30pm, 9:45pm), Fri 4/12 (1:20pm, 6:10pm), Sat 4/13 (11:40am, 6:00pm), Sun 4/14 (12:45pm, 7:10pm)
+
+    * [Selena](https://drafthouse.com/los-angeles/show/selena): Mon 4/15 (6:00pm), Wed 4/17 (10:10pm)
+
+    * [Spider Man](https://drafthouse.com/los-angeles/show/spider-man): Mon 4/15 (11:20am, 2:35pm, 10:00pm), Tue 4/16 (12:45pm, 4:00pm, 10:00pm), Wed 4/17 (1:30pm, 4:45pm, 9:50pm)
+
+    * [The First Omen](https://drafthouse.com/los-angeles/show/the-first-omen): Thu 4/11 (3:30pm, 7:30pm, 10:45pm), Fri 4/12 (1:00pm, 4:15pm, 7:30pm, 10:45pm), Sat 4/13 (1:00pm, 4:15pm, 7:30pm, 10:45pm), Sun 4/14 (1:00pm, 4:15pm, 7:30pm), Mon 4/15 (1:00pm, 4:15pm, 7:30pm, 10:45pm), Tue 4/16 (1:00pm, 4:15pm, 7:30pm, 10:45pm), Wed 4/17 (1:00pm, 4:15pm, 7:30pm, 10:45pm)
+
+    * [Three Colors Blue](https://drafthouse.com/los-angeles/show/three-colors-blue): Fri 4/12 (3:15pm)
+
 ### Mon 4/8 6:17am
 * New movies: Kingdom of the Planet of the Apes, Kingdom of the Planet of the Apes
 
