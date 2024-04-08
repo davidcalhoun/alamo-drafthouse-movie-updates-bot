@@ -1,6 +1,52 @@
 # raleigh
 
 ## Movie updates
+### Mon 4/8 5:17pm
+* New movies: Labyrinth
+
+* New screenings: 
+    * [Blue Giant](https://drafthouse.com/raleigh/show/blue-giant): Fri 4/12 (12:25pm), Sun 4/14 (3:15pm), Mon 4/15 (4:30pm), Tue 4/16 (1:00pm), Wed 4/17 (1:00pm)
+
+    * [Civil War](https://drafthouse.com/raleigh/show/civil-war): Thu 4/11 (5:00pm, 8:00pm, 11:00pm), Fri 4/12 (11:00am, 12:00pm, 1:00pm, 2:00pm, 2:55pm, 4:00pm, 5:50pm, 7:00pm, 10:00pm, 11:00pm), Sat 4/13 (11:15am, 12:15pm, 1:15pm, 2:15pm, 3:15pm, 4:15pm, 6:15pm, 7:15pm, 9:15pm, 11:15pm), Sun 4/14 (11:30am, 1:30pm, 2:45pm, 4:30pm, 5:00pm, 7:30pm, 8:00pm, 10:30pm, 11:00pm), Mon 4/15 (12:00pm, 1:00pm, 2:00pm, 3:00pm, 4:00pm, 5:00pm, 7:00pm, 8:00pm, 10:00pm, 11:00pm), Tue 4/16 (12:00pm, 1:00pm, 1:30pm, 3:00pm, 4:00pm, 4:25pm, 6:00pm, 7:00pm, 9:15pm, 10:15pm), Wed 4/17 (12:00pm, 1:30pm, 2:00pm, 3:00pm, 4:30pm, 5:00pm, 7:30pm, 8:00pm, 10:30pm)
+
+    * [Clerks](https://drafthouse.com/raleigh/show/clerks): Fri 4/12 (4:25pm), Sun 4/14 (12:30pm), Mon 4/15 (1:00pm)
+
+    * [Dawn Of The Dead 1978](https://drafthouse.com/raleigh/show/dawn-of-the-dead-1978): Fri 4/12 (2:45pm, 7:30pm), Sat 4/13 (3:00pm, 7:30pm, 10:45pm), Sun 4/14 (7:00pm, 10:15pm), Mon 4/15 (8:15pm), Tue 4/16 (7:35pm, 10:30pm), Wed 4/17 (10:15pm)
+
+    * [Dogman 2024](https://drafthouse.com/raleigh/show/dogman-2024): Thu 4/11 (6:30pm, 9:30pm)
+
+    * [Drunken Master Ii](https://drafthouse.com/raleigh/show/drunken-master-ii): Sat 4/13 (3:45pm), Sun 4/14 (6:45pm), Mon 4/15 (6:35pm), Tue 4/16 (11:00pm), Wed 4/17 (10:00pm)
+
+    * [Dune Part Two](https://drafthouse.com/raleigh/show/dune-part-two): Thu 4/11 (11:30am, 3:45pm, 8:15pm), Fri 4/12 (12:45pm, 4:45pm, 8:45pm), Sat 4/13 (12:40pm, 4:30pm, 8:30pm), Sun 4/14 (11:45am, 3:45pm, 7:45pm), Mon 4/15 (11:30am, 3:30pm, 7:30pm), Tue 4/16 (11:30am, 3:30pm, 7:45pm), Wed 4/17 (11:30am, 3:30pm, 7:45pm)
+
+    * [Ghostbusters Frozen Empire](https://drafthouse.com/raleigh/show/ghostbusters-frozen-empire): Thu 4/11 (12:30pm, 3:30pm, 6:45pm, 9:45pm), Fri 4/12 (11:45am, 3:15pm, 6:15pm, 9:15pm), Sat 4/13 (11:40am, 3:30pm, 6:45pm, 10:15pm), Sun 4/14 (1:00pm, 4:15pm, 7:15pm, 10:30pm), Mon 4/15 (12:45pm, 4:15pm, 7:15pm, 10:15pm), Tue 4/16 (12:45pm, 3:45pm, 7:20pm, 9:45pm), Wed 4/17 (12:45pm, 3:45pm, 6:45pm, 9:45pm)
+
+    * [Godzilla X Kong The New Empire](https://drafthouse.com/raleigh/show/godzilla-x-kong-the-new-empire): Thu 4/11 (11:45am, 12:45pm, 3:15pm, 6:15pm, 9:15pm), Fri 4/12 (12:35pm, 3:35pm, 7:15pm, 10:15pm), Sat 4/13 (12:30pm, 4:00pm, 6:25pm, 10:15pm), Sun 4/14 (12:55pm, 3:45pm, 6:50pm, 10:00pm), Mon 4/15 (12:15pm, 3:45pm, 7:10pm, 10:30pm), Tue 4/16 (12:15pm, 3:45pm, 7:20pm, 10:30pm), Wed 4/17 (12:15pm, 3:45pm, 7:20pm, 10:30pm)
+
+    * [Immaculate](https://drafthouse.com/raleigh/show/immaculate): Thu 4/11 (10:45pm)
+
+    * [Interview With The Vampire The Vampire Chronicles](https://drafthouse.com/raleigh/show/interview-with-the-vampire-the-vampire-chronicles): Thu 4/11 (1:25pm, 7:30pm)
+
+    * [Kung Fu Panda 4](https://drafthouse.com/raleigh/show/kung-fu-panda-4): Thu 4/11 (12:00pm, 2:45pm, 6:00pm, 9:00pm), Fri 4/12 (11:25am, 3:00pm, 6:30pm, 9:45pm), Sat 4/13 (1:00pm, 4:45pm, 7:45pm, 10:45pm), Sun 4/14 (12:45pm, 3:30pm, 6:30pm, 9:20pm), Mon 4/15 (12:30pm, 3:15pm, 6:15pm, 9:05pm), Tue 4/16 (12:30pm, 3:15pm, 6:15pm, 9:05pm), Wed 4/17 (12:30pm, 3:15pm, 6:15pm, 9:15pm)
+
+    * [Labyrinth](https://drafthouse.com/raleigh/show/labyrinth): Sun 4/14 (12:00pm), Wed 4/17 (7:15pm)
+
+    * [Late Night With The Devil](https://drafthouse.com/raleigh/show/late-night-with-the-devil): Thu 4/11 (8:30pm, 11:30pm), Fri 4/12 (9:00pm), Sat 4/13 (9:45pm), Sun 4/14 (9:45pm), Mon 4/15 (11:45pm), Tue 4/16 (11:45pm), Wed 4/17 (11:00pm)
+
+    * [Love Lies Bleeding](https://drafthouse.com/raleigh/show/love-lies-bleeding): Thu 4/11 (4:20pm)
+
+    * [Mandy](https://drafthouse.com/raleigh/show/mandy): Fri 4/12 (11:35am), Tue 4/16 (11:15am)
+
+    * [Monkey Man](https://drafthouse.com/raleigh/show/monkey-man): Thu 4/11 (11:30am, 12:45pm, 1:30pm, 3:00pm, 4:10pm, 7:15pm, 10:30pm), Fri 4/12 (11:15am, 2:55pm, 6:05pm, 9:30pm), Sat 4/13 (11:00am, 2:30pm, 6:35pm, 9:45pm), Sun 4/14 (11:00am, 2:30pm, 6:05pm, 9:40pm), Mon 4/15 (11:00am, 2:30pm, 6:25pm, 9:30pm), Tue 4/16 (11:00am, 2:30pm, 6:15pm, 9:30pm), Wed 4/17 (11:00am, 2:30pm, 6:15pm, 9:30pm)
+
+    * [Problemista](https://drafthouse.com/raleigh/show/problemista): Thu 4/11 (1:00pm)
+
+    * [Spider Man](https://drafthouse.com/raleigh/show/spider-man): Mon 4/15 (12:20pm, 3:25pm, 9:05pm), Tue 4/16 (2:25pm, 5:30pm), Wed 4/17 (12:30pm, 3:55pm, 6:00pm)
+
+    * [The First Omen](https://drafthouse.com/raleigh/show/the-first-omen): Thu 4/11 (1:15pm, 4:45pm, 7:45pm, 11:15pm), Fri 4/12 (12:10pm, 3:15pm, 6:25pm, 10:30pm), Sat 4/13 (11:30am, 2:45pm, 6:00pm, 10:10pm), Sun 4/14 (11:45am, 3:00pm, 6:15pm, 9:30pm), Mon 4/15 (12:50pm, 4:30pm, 8:00pm, 11:15pm), Tue 4/16 (12:50pm, 4:35pm, 8:00pm, 11:15pm), Wed 4/17 (1:00pm, 4:30pm, 8:00pm, 11:15pm)
+
+    * [Three Colors Blue](https://drafthouse.com/raleigh/show/three-colors-blue): Fri 4/12 (10:45pm), Sat 4/13 (12:45pm), Tue 4/16 (4:45pm), Wed 4/17 (4:15pm)
+
 ### Mon 4/8 12:25pm
 * New movies: Kingdom of the Planet of the Apes
 
