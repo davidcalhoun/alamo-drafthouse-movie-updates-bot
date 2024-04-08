@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 4/8 12:25pm
+* New movies: Kingdom of the Planet of the Apes
+
+* New screenings: 
+    * [Kingdom Of The Planet Of The Apes](https://drafthouse.com/raleigh/show/kingdom-of-the-planet-of-the-apes): Thu 5/9 (3:00pm, 7:00pm, 10:45pm), Fri 5/10 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sat 5/11 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sun 5/12 (12:00pm, 3:30pm, 7:00pm, 10:30pm)
+
 ### Thu 4/4 1:17pm
 * New movies: Abigail
 
