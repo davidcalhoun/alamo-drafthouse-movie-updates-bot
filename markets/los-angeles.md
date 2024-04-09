@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Tue 4/9 12:16am
+* New movies: The Twilight Saga: Breaking Dawn - Part 1, The Twilight Saga: Breaking Dawn - Part 2, Uncle Buck
+
+* New screenings: 
+    * [Signature Programming The Twilight Saga Breaking Dawn Part 1](https://drafthouse.com/los-angeles/show/signature-programming-the-twilight-saga-breaking-dawn-part-1): Sat 5/4 (12:00pm), Sun 5/5 (12:00pm)
+
+    * [Signature Programming The Twilight Saga Breaking Dawn Part 2](https://drafthouse.com/los-angeles/show/signature-programming-the-twilight-saga-breaking-dawn-part-2): Sat 6/1 (11:45am), Sun 6/2 (11:45am)
+
+    * [Signature Programming Uncle Buck](https://drafthouse.com/los-angeles/show/signature-programming-uncle-buck): Sat 5/18 (11:45am), Sun 5/19 (12:00pm)
+
 ### Mon 4/8 7:22pm
 * New movies: Steel Magnolias, Pet Sematary 1989, Back to the Future Part II, Back to the Future Part III, Born on the Fourth of July, Field of Dreams, I Know What You Did Last Summer, Indiana Jones and the Last Crusade, License to Kill 1989, But I'm a Cheerleader, Tetsuo: The Iron Man, The Birdcage, The Wizard 1989, Vampire's Kiss, UHF, THE ADVENTURES OF PRISCILLA, QUEEN OF THE DESERT
 
