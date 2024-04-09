@@ -1,6 +1,23 @@
 # los-angeles
 
 ## Movie updates
+### Tue 4/9 2:14pm
+
+* New screenings: 
+    * [Dogman 2024](https://drafthouse.com/los-angeles/show/dogman-2024): Thu 4/11 (3:50pm)
+
+    * [Dune Part Two](https://drafthouse.com/los-angeles/show/dune-part-two): Thu 4/11 (4:00pm, 8:30pm)
+
+    * [Ghostbusters Frozen Empire](https://drafthouse.com/los-angeles/show/ghostbusters-frozen-empire): Thu 4/11 (3:45pm)
+
+    * [Immaculate](https://drafthouse.com/los-angeles/show/immaculate): Thu 4/11 (2:45pm)
+
+    * [Kims Video](https://drafthouse.com/los-angeles/show/kims-video): Thu 4/11 (2:45pm)
+
+    * [Late Night With The Devil](https://drafthouse.com/los-angeles/show/late-night-with-the-devil): Thu 4/11 (3:35pm, 6:00pm)
+
+    * [Monkey Man](https://drafthouse.com/los-angeles/show/monkey-man): Thu 4/11 (3:15pm)
+
 ### Tue 4/9 1:15pm
 
 * New screenings: 
