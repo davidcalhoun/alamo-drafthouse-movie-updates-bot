@@ -1,6 +1,52 @@
 # los-angeles
 
 ## Movie updates
+### Mon 4/8 6:09pm
+* New movies: Road House, The Wolf House, Back to the Future, Bill & Ted's Excellent Adventure, Bride of Re-Animator, Psycho 1960, Drugstore Cowboy, Miracle Mile, Santa Sangre, Serial Mom, sex, lies, and videotape, Sidewalk Stories, Mamma Mia!, The 'Burbs, Troop Beverly Hills, Free Time, The Coffee Table, Batman 1989
+
+* New screenings: 
+    * [Abigail](https://drafthouse.com/los-angeles/show/abigail): Mon 4/22 (6:30pm)
+
+    * [Back To The Future](https://drafthouse.com/los-angeles/show/back-to-the-future): Sun 5/26 (11:45am)
+
+    * [Batman](https://drafthouse.com/los-angeles/show/batman): Sat 5/18 (2:40pm)
+
+    * [Bill Teds Excellent Adventure](https://drafthouse.com/los-angeles/show/bill-teds-excellent-adventure): Sun 5/5 (3:15pm)
+
+    * [Bride Of Re Animator](https://drafthouse.com/los-angeles/show/bride-of-re-animator): Fri 5/24 (9:30pm)
+
+    * [Brunch Screenings Psycho 1960 Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-psycho-1960-brunch): Sat 5/11 (12:00pm)
+
+    * [Drugstore Cowboy](https://drafthouse.com/los-angeles/show/drugstore-cowboy): Sat 6/1 (3:00pm)
+
+    * [Free Time](https://drafthouse.com/los-angeles/show/free-time): Tue 5/7 (7:15pm)
+
+    * [Live Q A Im George Lucas A Connor Ratliff Story](https://drafthouse.com/los-angeles/show/live-q-a-im-george-lucas-a-connor-ratliff-story): Mon 4/22 (7:00pm)
+
+    * [Miracle Mile](https://drafthouse.com/los-angeles/show/miracle-mile): Sat 5/4 (3:15pm)
+
+    * [Queer Film Theory 101 Road House](https://drafthouse.com/los-angeles/show/queer-film-theory-101-road-house): Tue 5/28 (7:15pm)
+
+    * [Santa Sangre](https://drafthouse.com/los-angeles/show/santa-sangre): Sat 5/4 (9:30pm)
+
+    * [Serial Mom](https://drafthouse.com/los-angeles/show/serial-mom): Sat 5/11 (3:10pm)
+
+    * [Sex Lies And Videotape](https://drafthouse.com/los-angeles/show/sex-lies-and-videotape): Sun 5/19 (3:00pm)
+
+    * [Sidewalk Stories](https://drafthouse.com/los-angeles/show/sidewalk-stories): Sat 5/25 (12:00pm)
+
+    * [Special Event Mamma Mia Brunch](https://drafthouse.com/los-angeles/show/special-event-mamma-mia-brunch): Sun 5/12 (12:00pm)
+
+    * [Spider Man 3](https://drafthouse.com/los-angeles/show/spider-man-3): Mon 4/29 (3:40pm)
+
+    * [The Burbs](https://drafthouse.com/los-angeles/show/the-burbs): Fri 5/17 (9:30pm)
+
+    * [The Coffee Table](https://drafthouse.com/los-angeles/show/the-coffee-table): Fri 5/3 (9:30pm)
+
+    * [The Wolf House](https://drafthouse.com/los-angeles/show/the-wolf-house): Tue 5/21 (7:15pm)
+
+    * [Troop Beverly Hills](https://drafthouse.com/los-angeles/show/troop-beverly-hills): Sun 5/12 (3:00pm)
+
 ### Mon 4/8 3:17pm
 
 * New screenings: 
