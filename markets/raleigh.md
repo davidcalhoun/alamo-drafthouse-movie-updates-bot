@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 4/8 9:19pm
+* New movies: Friday 1995
+
+* New screenings: 
+    * [Friday 1995](https://drafthouse.com/raleigh/show/friday-1995): Sat 4/20 (4:20pm)
+
 ### Mon 4/8 5:17pm
 * New movies: Labyrinth
 
