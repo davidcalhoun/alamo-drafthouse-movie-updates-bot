@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 4/9 1:15pm
+
+* New screenings: 
+    * [Aggro Dr1ft](https://drafthouse.com/los-angeles/show/aggro-dr1ft): Fri 5/10 (8:15pm), Sat 5/11 (9:40pm), Sun 5/12 (8:30pm), Mon 5/13 (10:50pm)
+
 ### Tue 4/9 11:17am
 * New movies: Go Fish
 
