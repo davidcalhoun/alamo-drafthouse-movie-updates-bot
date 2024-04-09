@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 4/9 9:18am
+* New movies: Aggro Dr1ft
+
+* New screenings: 
+    * [Aggro Dr1ft](https://drafthouse.com/los-angeles/show/aggro-dr1ft): Tue 5/14 (9:40pm), Wed 5/15 (9:40pm)
+
 ### Tue 4/9 12:16am
 * New movies: The Twilight Saga: Breaking Dawn - Part 1, The Twilight Saga: Breaking Dawn - Part 2, Uncle Buck
 
