@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 4/9 12:22pm
+* New movies: Aggro Dr1ft
+
+* New screenings: 
+    * [Aggro Dr1ft](https://drafthouse.com/raleigh/show/aggro-dr1ft): Fri 5/10 (11:00pm), Sat 5/11 (11:00pm), Sun 5/12 (11:00pm), Mon 5/13 (11:00pm), Tue 5/14 (8:00pm), Wed 5/15 (8:00pm)
+
 ### Mon 4/8 9:19pm
 * New movies: Friday 1995
 
