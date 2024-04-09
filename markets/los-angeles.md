@@ -1,6 +1,42 @@
 # los-angeles
 
 ## Movie updates
+### Mon 4/8 7:22pm
+* New movies: Steel Magnolias, Pet Sematary 1989, Back to the Future Part II, Back to the Future Part III, Born on the Fourth of July, Field of Dreams, I Know What You Did Last Summer, Indiana Jones and the Last Crusade, License to Kill 1989, But I'm a Cheerleader, Tetsuo: The Iron Man, The Birdcage, The Wizard 1989, Vampire's Kiss, UHF, THE ADVENTURES OF PRISCILLA, QUEEN OF THE DESERT
+
+* New screenings: 
+    * [Back To The Future Part Ii](https://drafthouse.com/los-angeles/show/back-to-the-future-part-ii): Sun 6/2 (3:00pm)
+
+    * [Back To The Future Part Iii](https://drafthouse.com/los-angeles/show/back-to-the-future-part-iii): Tue 6/11 (7:15pm)
+
+    * [Born On The Fourth Of July](https://drafthouse.com/los-angeles/show/born-on-the-fourth-of-july): Sun 6/30 (11:00am)
+
+    * [Field Of Dreams](https://drafthouse.com/los-angeles/show/field-of-dreams): Sat 6/15 (3:00pm)
+
+    * [Graveyard Shift Pet Sematary](https://drafthouse.com/los-angeles/show/graveyard-shift-pet-sematary): Mon 6/17 (9:30pm)
+
+    * [I Know What You Did Last Summer](https://drafthouse.com/los-angeles/show/i-know-what-you-did-last-summer): Mon 7/1 (7:15pm)
+
+    * [Indiana Jones And The Last Crusade](https://drafthouse.com/los-angeles/show/indiana-jones-and-the-last-crusade): Sun 6/16 (11:30am)
+
+    * [License To Kill 1989](https://drafthouse.com/los-angeles/show/license-to-kill-1989): Sun 6/30 (2:35pm)
+
+    * [Movie Party Uhf](https://drafthouse.com/los-angeles/show/movie-party-uhf): Tue 6/25 (7:15pm)
+
+    * [Signature Programming But Im A Cheerleader Brunch](https://drafthouse.com/los-angeles/show/signature-programming-but-im-a-cheerleader-brunch): Sun 6/9 (12:10pm)
+
+    * [Signature Programming Steel Magnolias](https://drafthouse.com/los-angeles/show/signature-programming-steel-magnolias): Sun 6/9 (2:45pm)
+
+    * [Tetsuo The Iron Man](https://drafthouse.com/los-angeles/show/tetsuo-the-iron-man): Mon 6/3 (11:00pm)
+
+    * [The Adventures Of Priscilla Queen Of The Desert](https://drafthouse.com/los-angeles/show/the-adventures-of-priscilla-queen-of-the-desert): Sat 6/29 (12:25pm)
+
+    * [The Birdcage Brunch](https://drafthouse.com/los-angeles/show/the-birdcage-brunch): Sat 6/15 (11:50am)
+
+    * [The Wizard 1989](https://drafthouse.com/los-angeles/show/the-wizard-1989): Sat 6/22 (12:00pm)
+
+    * [Vampires Kiss](https://drafthouse.com/los-angeles/show/vampires-kiss): Fri 6/21 (9:30pm)
+
 ### Mon 4/8 6:09pm
 * New movies: Road House, The Wolf House, Back to the Future, Bill & Ted's Excellent Adventure, Bride of Re-Animator, Psycho 1960, Drugstore Cowboy, Miracle Mile, Santa Sangre, Serial Mom, sex, lies, and videotape, Sidewalk Stories, Mamma Mia!, The 'Burbs, Troop Beverly Hills, Free Time, The Coffee Table, Batman 1989
 
