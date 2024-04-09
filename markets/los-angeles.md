@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 4/9 11:17am
+* New movies: Go Fish
+
+* New screenings: 
+    * [Go Fish](https://drafthouse.com/los-angeles/show/go-fish): Sat 6/29 (3:25pm)
+
 ### Tue 4/9 9:18am
 * New movies: Aggro Dr1ft
 
