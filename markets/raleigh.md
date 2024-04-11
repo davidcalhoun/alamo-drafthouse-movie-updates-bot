@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 4/11 2:23pm
+* New movies: The People's Joker
+
+* New screenings: 
+    * [The Peoples Joker](https://drafthouse.com/raleigh/show/the-peoples-joker): Fri 4/19 (6:15pm), Sat 4/20 (6:15pm), Mon 4/22 (9:30pm), Tue 4/23 (4:00pm), Wed 4/24 (4:00pm)
+
 ### Tue 4/9 12:22pm
 * New movies: Aggro Dr1ft
 
