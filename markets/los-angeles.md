@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 4/11 3:17am
+* New movies: Femme
+
+* New screenings: 
+    * [Femme](https://drafthouse.com/los-angeles/show/femme): Sat 4/27 (10:30pm)
+
+    * [Three Colors Red](https://drafthouse.com/los-angeles/show/three-colors-red): Sat 4/27 (4:20pm)
+
 ### Tue 4/9 2:14pm
 
 * New screenings: 
