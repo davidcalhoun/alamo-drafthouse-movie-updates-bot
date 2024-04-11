@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 4/11 5:29am
+* New movies: Boy Kills World
+
+* New screenings: 
+    * [Boy Kills World](https://drafthouse.com/los-angeles/show/boy-kills-world): Thu 4/25 (7:00pm, 10:00pm), Fri 4/26 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Sat 4/27 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Sun 4/28 (11:00am, 2:00pm, 5:00pm, 8:00pm), Mon 4/29 (3:45pm, 6:45pm, 9:45pm), Tue 4/30 (12:45pm, 3:45pm, 6:45pm, 9:50pm), Wed 5/1 (3:45pm, 6:45pm, 9:45pm)
+
 ### Thu 4/11 3:17am
 * New movies: Femme
 
