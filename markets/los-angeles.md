@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Fri 4/12 1:20am
+* New movies: The Witch, Force Majeure, Talk to Me
+
+* New screenings: 
+    * [Force Majeure](https://drafthouse.com/los-angeles/show/force-majeure): Fri 5/10 (5:00pm), Wed 5/15 (8:00pm)
+
+    * [Talk To Me](https://drafthouse.com/los-angeles/show/talk-to-me): Fri 5/3 (4:25pm), Wed 5/8 (8:00pm)
+
+    * [The Witch](https://drafthouse.com/los-angeles/show/the-witch): Fri 4/26 (3:15pm), Wed 5/1 (8:00pm)
+
 ### Thu 4/11 5:29am
 * New movies: Boy Kills World
 
