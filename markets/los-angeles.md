@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 4/12 6:17am
+* New movies: Challengers
+
+* New screenings: 
+    * [Challengers](https://drafthouse.com/los-angeles/show/challengers): Thu 4/25 (4:00pm, 7:15pm, 10:35pm), Fri 4/26 (12:20pm, 3:40pm, 7:00pm, 10:20pm), Sat 4/27 (12:20pm, 3:40pm, 7:00pm, 10:20pm), Sun 4/28 (12:20pm, 3:40pm, 7:00pm), Mon 4/29 (3:40pm, 7:00pm, 10:20pm), Wed 5/1 (3:40pm, 7:00pm, 10:20pm)
+
 ### Fri 4/12 1:20am
 * New movies: The Witch, Force Majeure, Talk to Me
 
