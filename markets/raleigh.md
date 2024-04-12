@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 4/12 3:15pm
+
+* New screenings: 
+    * [Challengers](https://drafthouse.com/raleigh/show/challengers): Fri 4/26 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sun 4/28 (12:30pm, 4:00pm, 7:30pm, 10:45pm)
+
 ### Fri 4/12 10:18am
 * New movies: Challengers, Pulp Fiction, A/V Geeks Present: When Puppets Go Bad, The Twilight Saga: Breaking Dawn - Part 1, The Twilight Saga: Breaking Dawn - Part 2, Uncle Buck, The Kingdom of Var, I Saw the Devil, The Big Lebowski, Road House, The Wolf House, Back to the Future, Back to the Future Part II, Back to the Future Part III, Batman 1989, Bill & Ted's Excellent Adventure, Bride of Re-Animator, Psycho 1960, Drugstore Cowboy, Enter the Clones of Bruce, Femme, Miracle Mile, Monty Python and the Holy Grail, Santa Sangre, Serial Mom, sex, lies, and videotape, Sidewalk Stories, But I'm a Cheerleader, Tetsuo: The Iron Man, The 'Burbs, Troop Beverly Hills
 
