@@ -1,6 +1,76 @@
 # raleigh
 
 ## Movie updates
+### Fri 4/12 10:18am
+* New movies: Challengers, Pulp Fiction, A/V Geeks Present: When Puppets Go Bad, The Twilight Saga: Breaking Dawn - Part 1, The Twilight Saga: Breaking Dawn - Part 2, Uncle Buck, The Kingdom of Var, I Saw the Devil, The Big Lebowski, Road House, The Wolf House, Back to the Future, Back to the Future Part II, Back to the Future Part III, Batman 1989, Bill & Ted's Excellent Adventure, Bride of Re-Animator, Psycho 1960, Drugstore Cowboy, Enter the Clones of Bruce, Femme, Miracle Mile, Monty Python and the Holy Grail, Santa Sangre, Serial Mom, sex, lies, and videotape, Sidewalk Stories, But I'm a Cheerleader, Tetsuo: The Iron Man, The 'Burbs, Troop Beverly Hills
+
+* New screenings: 
+    * [A V Geeks Present When Puppets Go Bad](https://drafthouse.com/raleigh/show/a-v-geeks-present-when-puppets-go-bad): Tue 5/7 (6:30pm)
+
+    * [Back To The Future](https://drafthouse.com/raleigh/show/back-to-the-future): Sun 5/26 (3:30pm)
+
+    * [Back To The Future Part Ii](https://drafthouse.com/raleigh/show/back-to-the-future-part-ii): Sun 6/2 (3:30pm)
+
+    * [Back To The Future Part Iii](https://drafthouse.com/raleigh/show/back-to-the-future-part-iii): Mon 6/10 (6:30pm)
+
+    * [Batman](https://drafthouse.com/raleigh/show/batman): Wed 5/22 (6:00pm)
+
+    * [Bill Teds Excellent Adventure](https://drafthouse.com/raleigh/show/bill-teds-excellent-adventure): Sun 5/5 (3:00pm)
+
+    * [Bride Of Re Animator](https://drafthouse.com/raleigh/show/bride-of-re-animator): Tue 5/28 (6:30pm)
+
+    * [Brunch Screenings Psycho 1960 Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-psycho-1960-brunch): Sat 5/11 (11:30am)
+
+    * [Challengers](https://drafthouse.com/raleigh/show/challengers): Thu 4/25 (4:00pm, 7:30pm, 10:45pm), Sat 4/27 (11:30am, 2:45pm, 6:15pm, 9:45pm)
+
+    * [Drugstore Cowboy](https://drafthouse.com/raleigh/show/drugstore-cowboy): Sat 6/1 (12:45pm)
+
+    * [Enter The Clones Of Bruce](https://drafthouse.com/raleigh/show/enter-the-clones-of-bruce): Fri 4/26 (4:30pm)
+
+    * [Femme](https://drafthouse.com/raleigh/show/femme): Mon 4/29 (9:30pm)
+
+    * [I Saw The Devil](https://drafthouse.com/raleigh/show/i-saw-the-devil): Mon 5/27 (9:30pm)
+
+    * [In The Mouth Of Madness](https://drafthouse.com/raleigh/show/in-the-mouth-of-madness): Thu 4/25 (9:15pm)
+
+    * [Miracle Mile](https://drafthouse.com/raleigh/show/miracle-mile): Sat 5/4 (12:30pm)
+
+    * [Movie Party The Big Lebowski](https://drafthouse.com/raleigh/show/movie-party-the-big-lebowski): Thu 4/25 (7:00pm)
+
+    * [Pulp Fiction](https://drafthouse.com/raleigh/show/pulp-fiction): Wed 5/1 (2:30pm), Thu 5/2 (9:15pm)
+
+    * [Queer Film Theory 101 Road House](https://drafthouse.com/raleigh/show/queer-film-theory-101-road-house): Wed 5/29 (6:30pm)
+
+    * [Quote Along Monty Python And The Holy Grail](https://drafthouse.com/raleigh/show/quote-along-monty-python-and-the-holy-grail): Sun 4/28 (6:30pm)
+
+    * [Santa Sangre](https://drafthouse.com/raleigh/show/santa-sangre): Fri 5/3 (10:00pm)
+
+    * [Serial Mom](https://drafthouse.com/raleigh/show/serial-mom): Sat 5/11 (3:00pm)
+
+    * [Sex Lies And Videotape](https://drafthouse.com/raleigh/show/sex-lies-and-videotape): Sun 5/19 (3:30pm)
+
+    * [Sidewalk Stories](https://drafthouse.com/raleigh/show/sidewalk-stories): Sat 5/25 (4:00pm)
+
+    * [Signature Programming But Im A Cheerleader Brunch](https://drafthouse.com/raleigh/show/signature-programming-but-im-a-cheerleader-brunch): Sun 6/9 (11:45am)
+
+    * [Signature Programming The Twilight Saga Breaking Dawn Part 1](https://drafthouse.com/raleigh/show/signature-programming-the-twilight-saga-breaking-dawn-part-1): Sun 5/5 (11:30am)
+
+    * [Signature Programming The Twilight Saga Breaking Dawn Part 2](https://drafthouse.com/raleigh/show/signature-programming-the-twilight-saga-breaking-dawn-part-2): Sun 6/2 (12:00pm)
+
+    * [Signature Programming Uncle Buck](https://drafthouse.com/raleigh/show/signature-programming-uncle-buck): Sun 5/19 (12:00pm)
+
+    * [Spider Man 2](https://drafthouse.com/raleigh/show/spider-man-2): Fri 4/26 (6:00pm)
+
+    * [Tetsuo The Iron Man](https://drafthouse.com/raleigh/show/tetsuo-the-iron-man): Mon 6/3 (10:30pm)
+
+    * [The Burbs](https://drafthouse.com/raleigh/show/the-burbs): Fri 5/17 (9:30pm)
+
+    * [The Kingdom Of Var](https://drafthouse.com/raleigh/show/the-kingdom-of-var): Wed 5/1 (6:30pm)
+
+    * [The Wolf House](https://drafthouse.com/raleigh/show/the-wolf-house): Mon 5/20 (9:30pm)
+
+    * [Troop Beverly Hills](https://drafthouse.com/raleigh/show/troop-beverly-hills): Sun 5/12 (11:30am)
+
 ### Thu 4/11 2:23pm
 * New movies: The People's Joker
 
