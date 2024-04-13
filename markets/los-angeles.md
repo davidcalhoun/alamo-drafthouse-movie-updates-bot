@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Sat 4/13 5:24am
+* New movies: Opera, The Lighthouse, La Femme Nikita
+
+* New screenings: 
+    * [La Femme Nikita](https://drafthouse.com/los-angeles/show/la-femme-nikita): Tue 6/4 (8:00pm)
+
+    * [Opera](https://drafthouse.com/los-angeles/show/opera): Fri 5/31 (4:15pm), Wed 6/5 (8:00pm)
+
+    * [The Lighthouse](https://drafthouse.com/los-angeles/show/the-lighthouse): Fri 5/24 (4:15pm), Wed 5/29 (8:00pm)
+
 ### Fri 4/12 6:17am
 * New movies: Challengers
 
