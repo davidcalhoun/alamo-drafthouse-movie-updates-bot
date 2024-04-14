@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Sun 4/14 3:41am
+* New movies: GOODNIGHT MOMMY
+
+* New screenings: 
+    * [Goodnight Mommy](https://drafthouse.com/los-angeles/show/goodnight-mommy): Wed 5/22 (8:00pm)
+
 ### Sat 4/13 5:24am
 * New movies: Opera, The Lighthouse, La Femme Nikita
 
