@@ -1,6 +1,50 @@
 # raleigh
 
 ## Movie updates
+### Mon 4/15 4:18pm
+* New movies: Spy x Family: Code White Subtitled, Spy x Family: Code White Dubbed
+
+* New screenings: 
+    * [Abigail](https://drafthouse.com/raleigh/show/abigail): Sat 4/20 (12:15pm, 3:30pm, 6:45pm, 9:45pm), Sun 4/21 (12:30pm, 3:45pm, 7:00pm, 10:30pm), Mon 4/22 (12:15pm, 3:30pm, 6:45pm, 9:45pm), Tue 4/23 (12:15pm, 3:30pm, 6:45pm, 9:45pm), Wed 4/24 (12:15pm, 3:30pm, 6:45pm, 9:45pm)
+
+    * [Civil War](https://drafthouse.com/raleigh/show/civil-war): Thu 4/18 (12:00pm, 1:00pm, 3:00pm, 4:05pm, 6:40pm, 10:10pm), Fri 4/19 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sat 4/20 (11:00am, 2:00pm, 5:00pm, 8:00pm, 11:30pm), Sun 4/21 (11:15am, 2:15pm, 5:15pm, 8:15pm, 11:15pm), Mon 4/22 (11:00am, 2:30pm, 6:30pm, 10:15pm), Tue 4/23 (11:00am, 2:00pm, 5:00pm, 8:00pm, 11:00pm), Wed 4/24 (11:00am, 2:30pm, 6:00pm, 9:30pm)
+
+    * [Clerks](https://drafthouse.com/raleigh/show/clerks): Thu 4/18 (11:45am)
+
+    * [Dawn Of The Dead 1978](https://drafthouse.com/raleigh/show/dawn-of-the-dead-1978): Fri 4/19 (11:30am, 2:55pm), Mon 4/22 (12:30pm)
+
+    * [Death Of A Cheerleader](https://drafthouse.com/raleigh/show/death-of-a-cheerleader): Wed 4/24 (12:30pm)
+
+    * [Dune Part Two](https://drafthouse.com/raleigh/show/dune-part-two): Thu 4/18 (12:15pm, 4:30pm, 8:30pm), Fri 4/19 (12:45pm, 4:45pm, 8:45pm), Sat 4/20 (12:45pm, 4:45pm, 8:45pm), Sun 4/21 (12:45pm, 4:45pm, 8:45pm), Mon 4/22 (12:45pm, 4:45pm, 8:45pm), Tue 4/23 (12:45pm, 4:45pm, 8:45pm), Wed 4/24 (12:45pm, 4:45pm, 8:45pm)
+
+    * [Ghostbusters Frozen Empire](https://drafthouse.com/raleigh/show/ghostbusters-frozen-empire): Thu 4/18 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Fri 4/19 (11:45am, 3:45pm, 7:15pm, 10:15pm), Sat 4/20 (12:30pm, 4:30pm, 7:45pm, 10:45pm), Sun 4/21 (12:45pm, 4:00pm, 6:00pm, 9:00pm), Mon 4/22 (12:45pm, 4:30pm, 7:30pm, 10:30pm), Tue 4/23 (12:45pm, 4:30pm, 7:30pm, 10:30pm), Wed 4/24 (12:45pm, 4:30pm, 7:30pm, 10:30pm)
+
+    * [Godzilla X Kong The New Empire](https://drafthouse.com/raleigh/show/godzilla-x-kong-the-new-empire): Thu 4/18 (12:30pm, 3:45pm, 7:15pm, 10:30pm), Fri 4/19 (12:30pm, 4:30pm, 7:30pm, 10:45pm), Sat 4/20 (11:45am, 3:30pm, 7:00pm, 11:00pm), Sun 4/21 (1:00pm, 4:15pm, 7:15pm, 10:15pm), Mon 4/22 (12:30pm, 3:30pm, 7:10pm, 10:20pm), Tue 4/23 (12:00pm, 3:00pm, 6:00pm, 10:00pm), Wed 4/24 (12:00pm, 3:15pm, 6:30pm, 10:15pm)
+
+    * [Kung Fu Panda 4](https://drafthouse.com/raleigh/show/kung-fu-panda-4): Thu 4/18 (11:15am, 2:20pm, 6:20pm), Fri 4/19 (12:45pm, 3:30pm, 6:30pm), Sat 4/20 (11:30am, 3:15pm, 7:05pm), Sun 4/21 (11:30am, 3:30pm, 6:45pm), Mon 4/22 (11:30am, 2:45pm, 5:45pm), Tue 4/23 (11:30am, 2:45pm, 5:45pm), Wed 4/24 (11:30am, 2:45pm, 5:45pm)
+
+    * [Labyrinth](https://drafthouse.com/raleigh/show/labyrinth): Thu 4/18 (12:30pm)
+
+    * [Late Night With The Devil](https://drafthouse.com/raleigh/show/late-night-with-the-devil): Sat 4/20 (10:15pm), Sun 4/21 (10:45pm)
+
+    * [Mallrats](https://drafthouse.com/raleigh/show/mallrats): Tue 4/23 (12:30pm)
+
+    * [Monkey Man](https://drafthouse.com/raleigh/show/monkey-man): Thu 4/18 (12:15pm, 3:00pm, 7:30pm, 10:45pm), Fri 4/19 (11:45am, 3:45pm, 7:15pm, 10:30pm), Sat 4/20 (11:45am, 3:45pm, 7:15pm, 10:30pm), Sun 4/21 (11:45am, 3:00pm, 6:20pm, 10:00pm), Mon 4/22 (11:45am, 3:45pm, 7:15pm, 10:30pm), Tue 4/23 (11:45am, 3:45pm, 7:15pm, 10:30pm), Wed 4/24 (11:45am, 3:45pm, 7:15pm, 10:30pm)
+
+    * [Sasquatch Sunset](https://drafthouse.com/raleigh/show/sasquatch-sunset): Mon 4/22 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Tue 4/23 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Wed 4/24 (1:00pm, 4:00pm, 7:00pm, 10:00pm)
+
+    * [Spider Man](https://drafthouse.com/raleigh/show/spider-man): Thu 4/18 (11:15am, 2:30pm, 6:00pm, 9:05pm)
+
+    * [Spy X Family Code White Dubbed](https://drafthouse.com/raleigh/show/spy-x-family-code-white-dubbed): Thu 4/18 (7:15pm), Fri 4/19 (2:15pm, 8:15pm), Sat 4/20 (2:15pm, 8:15pm), Sun 4/21 (2:15pm, 8:15pm), Mon 4/22 (2:15pm, 8:15pm), Tue 4/23 (2:15pm, 8:15pm), Wed 4/24 (2:15pm, 8:15pm)
+
+    * [Spy X Family Code White Subtitled](https://drafthouse.com/raleigh/show/spy-x-family-code-white-subtitled): Thu 4/18 (4:00pm, 10:30pm), Fri 4/19 (11:15am, 5:15pm, 11:15pm), Sat 4/20 (11:15am, 5:15pm, 11:15pm), Sun 4/21 (11:15am, 5:15pm, 11:15pm), Mon 4/22 (11:15am, 5:15pm, 11:15pm), Tue 4/23 (11:15am, 5:15pm, 11:15pm), Wed 4/24 (11:15am, 5:15pm, 11:15pm)
+
+    * [The First Omen](https://drafthouse.com/raleigh/show/the-first-omen): Thu 4/18 (11:30am, 2:55pm, 9:30pm), Fri 4/19 (9:30pm), Sat 4/20 (9:30pm), Sun 4/21 (9:45pm), Mon 4/22 (9:15pm), Tue 4/23 (9:15pm), Wed 4/24 (9:15pm)
+
+    * [The Ministry Of Ungentlemanly Warfare](https://drafthouse.com/raleigh/show/the-ministry-of-ungentlemanly-warfare): Mon 4/22 (11:45am, 3:15pm, 6:20pm, 9:30pm), Tue 4/23 (11:45am, 3:15pm, 6:20pm, 9:30pm), Wed 4/24 (11:45am, 3:15pm, 6:20pm, 9:30pm)
+
+    * [The Peoples Joker](https://drafthouse.com/raleigh/show/the-peoples-joker): Sun 4/21 (2:35pm), Mon 4/22 (4:15pm)
+
 ### Mon 4/15 11:18am
 * New movies: THE HEARTBREAK KID 1972
 
