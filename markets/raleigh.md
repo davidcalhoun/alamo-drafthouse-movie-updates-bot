@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 4/15 11:18am
+* New movies: THE HEARTBREAK KID 1972
+
+* New screenings: 
+    * [The Heartbreak Kid 1972](https://drafthouse.com/raleigh/show/the-heartbreak-kid-1972): Sat 5/18 (11:30am)
+
 ### Fri 4/12 5:15pm
 
 * New screenings: 
