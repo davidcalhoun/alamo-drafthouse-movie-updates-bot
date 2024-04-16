@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 4/16 9:20am
+* New movies: THE ADVENTURES OF PRISCILLA, QUEEN OF THE DESERT
+
+* New screenings: 
+    * [The Adventures Of Priscilla Queen Of The Desert](https://drafthouse.com/los-angeles/show/the-adventures-of-priscilla-queen-of-the-desert): Sat 6/29 (12:25pm)
+
 ### Mon 4/15 6:08pm
 
 * New screenings: 
