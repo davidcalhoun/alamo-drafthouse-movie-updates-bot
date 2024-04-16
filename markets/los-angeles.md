@@ -1,6 +1,20 @@
 # los-angeles
 
 ## Movie updates
+### Tue 4/16 1:16pm
+* New movies: Tarot
+
+* New screenings: 
+    * [Abigail](https://drafthouse.com/los-angeles/show/abigail): Fri 4/26 (10:50am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Sat 4/27 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Sun 4/28 (10:45am, 1:45pm, 4:45pm, 7:45pm)
+
+    * [Back To The Future](https://drafthouse.com/los-angeles/show/back-to-the-future): Wed 5/29 (4:45pm)
+
+    * [Challengers](https://drafthouse.com/los-angeles/show/challengers): Thu 4/25 (5:40pm, 9:00pm), Fri 4/26 (11:00am, 2:20pm, 5:40pm, 9:00pm), Sat 4/27 (11:00am, 2:20pm, 5:40pm, 9:00pm), Sun 4/28 (11:00am, 2:20pm, 5:40pm), Thu 5/2 (3:20pm, 6:45pm, 10:10pm), Fri 5/3 (12:00pm, 3:20pm, 6:45pm, 10:10pm), Sat 5/4 (12:00pm, 3:20pm, 6:45pm, 10:10pm), Sun 5/5 (12:00pm, 3:20pm, 6:45pm), Mon 5/6 (12:00pm, 3:20pm, 6:45pm, 10:10pm), Tue 5/7 (12:00pm, 3:20pm, 6:45pm, 10:10pm), Wed 5/8 (12:00pm, 3:20pm, 6:45pm, 10:10pm)
+
+    * [Spider Man Far From Home Extended Cut](https://drafthouse.com/los-angeles/show/spider-man-far-from-home-extended-cut): Mon 5/27 (3:45pm)
+
+    * [Tarot](https://drafthouse.com/los-angeles/show/tarot): Thu 5/2 (4:30pm, 7:15pm, 10:00pm)
+
 ### Tue 4/16 9:20am
 * New movies: THE ADVENTURES OF PRISCILLA, QUEEN OF THE DESERT
 
