@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Tue 4/16 2:21pm
+* New movies: UHF, Steel Magnolias
+
+* New screenings: 
+    * [Movie Party Uhf](https://drafthouse.com/raleigh/show/movie-party-uhf): Fri 4/26 (7:30pm), Wed 6/26 (7:00pm)
+
+    * [Signature Programming Steel Magnolias](https://drafthouse.com/raleigh/show/signature-programming-steel-magnolias): Sun 6/9 (4:00pm)
+
+    * [Signature Programming The Twilight Saga Breaking Dawn Part 2](https://drafthouse.com/raleigh/show/signature-programming-the-twilight-saga-breaking-dawn-part-2): Wed 6/5 (7:00pm)
+
 ### Mon 4/15 4:18pm
 * New movies: Spy x Family: Code White Subtitled, Spy x Family: Code White Dubbed
 
