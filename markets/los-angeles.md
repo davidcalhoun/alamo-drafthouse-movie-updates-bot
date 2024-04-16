@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Tue 4/16 2:14pm
+* New movies: Do The Right Thing
+
+* New screenings: 
+    * [Do The Right Thing](https://drafthouse.com/los-angeles/show/do-the-right-thing): Wed 6/19 (4:00pm, 7:15pm)
+
+    * [Tarot](https://drafthouse.com/los-angeles/show/tarot): Fri 5/3 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sat 5/4 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sun 5/5 (11:30am, 2:15pm, 5:00pm, 7:45pm), Mon 5/6 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Tue 5/7 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Wed 5/8 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm)
+
+    * [The Fall Guy](https://drafthouse.com/los-angeles/show/the-fall-guy): Thu 5/9 (3:40pm, 7:00pm, 10:20pm), Fri 5/10 (12:20pm, 3:40pm, 7:00pm), Sat 5/11 (12:20pm, 3:40pm, 7:00pm, 10:20pm), Sun 5/12 (12:20pm, 3:40pm, 7:00pm), Mon 5/13 (12:20pm, 3:40pm, 7:00pm, 10:20pm), Tue 5/14 (12:20pm, 3:40pm, 7:00pm, 10:20pm), Wed 5/15 (12:20pm, 3:40pm, 7:00pm, 10:20pm)
+
 ### Tue 4/16 1:16pm
 * New movies: Tarot
 
