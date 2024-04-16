@@ -1,6 +1,47 @@
 # los-angeles
 
 ## Movie updates
+### Mon 4/15 6:08pm
+
+* New screenings: 
+    * [Abigail](https://drafthouse.com/los-angeles/show/abigail): Thu 4/18 (5:45pm, 9:30pm)
+
+    * [Civil War](https://drafthouse.com/los-angeles/show/civil-war): Thu 4/18 (2:45pm), Fri 4/19 (6:20pm), Sat 4/20 (4:10pm), Sun 4/21 (12:00pm), Wed 4/24 (4:10pm)
+
+    * [Clerks](https://drafthouse.com/los-angeles/show/clerks): Thu 4/18 (3:15pm)
+
+    * [Dune Part Two](https://drafthouse.com/los-angeles/show/dune-part-two): Thu 4/18 (3:20pm, 6:00pm, 8:45pm), Fri 4/19 (12:30pm, 4:30pm, 8:30pm), Sat 4/20 (12:30pm, 4:30pm, 8:30pm), Sun 4/21 (11:00am, 3:00pm, 7:00pm), Mon 4/22 (12:30pm, 4:30pm, 8:30pm), Tue 4/23 (12:30pm, 4:30pm, 8:30pm), Wed 4/24 (12:30pm, 4:30pm, 8:30pm)
+
+    * [Godzilla X Kong The New Empire](https://drafthouse.com/los-angeles/show/godzilla-x-kong-the-new-empire): Thu 4/18 (4:00pm, 7:10pm, 10:20pm), Fri 4/19 (11:25am, 2:45pm, 6:00pm, 9:10pm), Sat 4/20 (10:50am, 3:00pm, 6:10pm, 9:15pm), Sun 4/21 (11:20am, 2:50pm, 6:00pm), Mon 4/22 (11:20am, 2:55pm, 6:00pm, 9:10pm), Tue 4/23 (11:20am, 2:45pm, 6:00pm, 9:10pm), Wed 4/24 (12:20pm, 2:45pm, 6:00pm, 9:10pm)
+
+    * [Housekeeping For Beginners](https://drafthouse.com/los-angeles/show/housekeeping-for-beginners): Thu 4/18 (3:00pm), Fri 4/19 (12:40pm), Tue 4/23 (4:10pm)
+
+    * [Infested](https://drafthouse.com/los-angeles/show/infested): Wed 4/24 (11:00am)
+
+    * [La Chimera](https://drafthouse.com/los-angeles/show/la-chimera): Thu 4/18 (3:45pm), Fri 4/19 (11:20am), Sat 4/20 (11:35am), Sun 4/21 (11:25am), Mon 4/22 (11:25am), Tue 4/23 (11:30am), Wed 4/24 (11:00am)
+
+    * [Late Night With The Devil](https://drafthouse.com/los-angeles/show/late-night-with-the-devil): Thu 4/18 (3:50pm, 7:45pm, 10:25pm), Fri 4/19 (2:30pm, 5:10pm, 7:50pm, 10:35pm), Sat 4/20 (2:00pm, 4:50pm, 8:00pm, 10:40pm), Sun 4/21 (2:25pm, 5:10pm, 7:50pm), Mon 4/22 (2:25pm, 5:05pm, 7:45pm, 10:30pm), Tue 4/23 (2:25pm, 5:05pm, 7:45pm, 10:30pm), Wed 4/24 (2:25pm, 5:05pm, 7:45pm, 10:30pm)
+
+    * [Mallrats](https://drafthouse.com/los-angeles/show/mallrats): Sat 4/20 (1:25pm)
+
+    * [Monkey Man](https://drafthouse.com/los-angeles/show/monkey-man): Thu 4/18 (3:00pm, 6:15pm, 10:00pm), Fri 4/19 (11:30am, 2:50pm, 6:10pm, 9:25pm), Sat 4/20 (1:00pm, 4:35pm, 7:30pm, 10:45pm), Sun 4/21 (12:50pm, 3:00pm, 6:15pm), Mon 4/22 (12:00pm, 2:50pm, 6:15pm, 9:30pm), Tue 4/23 (11:25am, 2:55pm, 6:15pm, 9:30pm), Wed 4/24 (11:30am, 2:55pm, 6:15pm, 9:30pm)
+
+    * [Sasquatch Sunset](https://drafthouse.com/los-angeles/show/sasquatch-sunset): Mon 4/22 (11:15am, 2:00pm, 4:45pm), Tue 4/23 (11:15am, 2:00pm, 4:45pm), Wed 4/24 (11:15am, 2:00pm, 4:45pm)
+
+    * [Spider Man](https://drafthouse.com/los-angeles/show/spider-man): Thu 4/18 (3:35pm)
+
+    * [Spider Man 2](https://drafthouse.com/los-angeles/show/spider-man-2): Mon 4/22 (3:10pm), Tue 4/23 (12:50pm, 2:30pm, 5:45pm, 9:00pm), Wed 4/24 (12:50pm, 4:40pm, 10:10pm)
+
+    * [Spy X Family Code White Dubbed](https://drafthouse.com/los-angeles/show/spy-x-family-code-white-dubbed): Mon 4/22 (3:25pm, 9:35pm), Wed 4/24 (3:25pm, 9:35pm)
+
+    * [Spy X Family Code White Subtitled](https://drafthouse.com/los-angeles/show/spy-x-family-code-white-subtitled): Mon 4/22 (12:20pm, 6:30pm), Wed 4/24 (12:20pm, 6:30pm)
+
+    * [The First Omen](https://drafthouse.com/los-angeles/show/the-first-omen): Thu 4/18 (4:30pm, 7:20pm, 10:35pm), Fri 4/19 (12:40pm, 3:55pm, 7:10pm, 10:25pm), Sat 4/20 (12:35pm, 3:50pm, 7:10pm, 10:25pm), Sun 4/21 (12:15pm, 3:30pm, 6:45pm), Mon 4/22 (12:40pm, 3:55pm, 7:10pm, 10:25pm), Tue 4/23 (12:40pm, 3:55pm, 7:10pm, 10:25pm), Wed 4/24 (12:40pm, 3:55pm, 7:10pm, 10:25pm)
+
+    * [The Peoples Joker](https://drafthouse.com/los-angeles/show/the-peoples-joker): Thu 4/18 (10:10pm), Sat 4/20 (2:00pm), Mon 4/22 (12:20pm), Tue 4/23 (11:40am), Wed 4/24 (1:50pm)
+
+    * [Three Colors White](https://drafthouse.com/los-angeles/show/three-colors-white): Sat 4/20 (10:45am)
+
 ### Sun 4/14 3:41am
 * New movies: GOODNIGHT MOMMY
 
