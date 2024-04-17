@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Wed 4/17 7:20pm
+
+* New screenings: 
+    * [Star Wars The Phantom Menace 25th Anniversary Re Release](https://drafthouse.com/raleigh/show/star-wars-the-phantom-menace-25th-anniversary-re-release): Mon 5/6 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Tue 5/7 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Wed 5/8 (12:00pm, 3:30pm, 7:00pm, 10:30pm)
+
 ### Tue 4/16 2:21pm
 * New movies: UHF, Steel Magnolias
 
