@@ -1,6 +1,15 @@
 # los-angeles
 
 ## Movie updates
+### Thu 4/18 11:20am
+
+* New screenings: 
+    * [Abigail](https://drafthouse.com/los-angeles/show/abigail): Fri 4/19 (9:10pm), Sun 4/21 (7:05pm)
+
+    * [Civil War](https://drafthouse.com/los-angeles/show/civil-war): Sun 4/21 (7:15pm)
+
+    * [Fear And Loathing In Las Vegas](https://drafthouse.com/los-angeles/show/fear-and-loathing-in-las-vegas): Fri 4/19 (12:40pm), Sat 4/20 (10:45am)
+
 ### Tue 4/16 2:14pm
 * New movies: Do The Right Thing
 
