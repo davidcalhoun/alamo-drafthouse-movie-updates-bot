@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 4/17 9:19pm
+* New movies: The Cook, The Thief, His Wife, & Her Lover
+
+* New screenings: 
+    * [Weird Wednesday The Cook The Thief His Wife Her Lover](https://drafthouse.com/raleigh/show/weird-wednesday-the-cook-the-thief-his-wife-her-lover): Wed 5/22 (9:30pm)
+
 ### Wed 4/17 7:20pm
 
 * New screenings: 
