@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 4/19 5:29am
+* New movies: Society
+
+* New screenings: 
+    * [Live Q A Society](https://drafthouse.com/los-angeles/show/live-q-a-society): Sat 6/1 (7:15pm)
+
+    * [Signature Programming Steel Magnolias](https://drafthouse.com/los-angeles/show/signature-programming-steel-magnolias): Mon 6/10 (7:00pm), Tue 6/11 (6:00pm)
+
 ### Thu 4/18 11:20am
 
 * New screenings: 
