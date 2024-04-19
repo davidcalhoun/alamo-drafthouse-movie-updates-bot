@@ -1,6 +1,21 @@
 # raleigh
 
 ## Movie updates
+### Fri 4/19 12:25pm
+
+* New screenings: 
+    * [Dawn Of The Dead 1978](https://drafthouse.com/raleigh/show/dawn-of-the-dead-1978): Sat 4/20 (10:45pm), Sun 4/21 (8:45pm)
+
+    * [Drunken Master Ii](https://drafthouse.com/raleigh/show/drunken-master-ii): Sun 4/21 (9:00pm)
+
+    * [Kung Fu Panda 4](https://drafthouse.com/raleigh/show/kung-fu-panda-4): Sun 4/21 (4:00pm)
+
+    * [Mallrats](https://drafthouse.com/raleigh/show/mallrats): Sun 4/21 (6:00pm)
+
+    * [Queer Film Theory 101 The Mask 1994](https://drafthouse.com/raleigh/show/queer-film-theory-101-the-mask-1994): Sun 4/21 (6:45pm)
+
+    * [Spider Man 2](https://drafthouse.com/raleigh/show/spider-man-2): Mon 4/22 (9:15pm), Tue 4/23 (7:30pm), Wed 4/24 (8:45pm)
+
 ### Wed 4/17 9:19pm
 * New movies: The Cook, The Thief, His Wife, & Her Lover
 
