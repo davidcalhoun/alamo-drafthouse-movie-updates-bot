@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 4/22 9:19am
+* New movies: Mamma Mia!
+
+* New screenings: 
+    * [Moms Love Movies Mamma Mia Feast](https://drafthouse.com/los-angeles/show/moms-love-movies-mamma-mia-feast): Sun 5/12 (5:00pm)
+
 ### Mon 4/22 8:16am
 * New movies: Cruel Intentions
 
