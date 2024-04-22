@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 4/22 8:16am
+* New movies: Cruel Intentions
+
+* New screenings: 
+    * [Live Q A Cruel Intentions](https://drafthouse.com/los-angeles/show/live-q-a-cruel-intentions): Sat 5/11 (7:30pm)
+
 ### Mon 4/22 5:31am
 * New movies: Back to Black
 
