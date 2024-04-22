@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Mon 4/22 1:17pm
+
+* New screenings: 
+    * [The Amazing Spider Man](https://drafthouse.com/los-angeles/show/the-amazing-spider-man): Wed 5/8 (4:30pm)
+
+    * [The Fall Guy](https://drafthouse.com/los-angeles/show/the-fall-guy): Thu 5/2 (5:00pm, 8:20pm), Fri 5/3 (11:00am, 2:20pm, 5:40pm, 9:00pm), Sat 5/4 (11:00am, 2:20pm, 5:40pm, 9:00pm), Sun 5/5 (11:00am, 2:20pm, 5:40pm)
+
 ### Mon 4/22 9:19am
 * New movies: Mamma Mia!
 
