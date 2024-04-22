@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 4/22 10:19am
+* New movies: Back to Black
+
+* New screenings: 
+    * [Back To Black](https://drafthouse.com/raleigh/show/back-to-black): Thu 5/16 (7:15pm, 10:30pm), Fri 5/17 (12:15pm, 3:45pm, 7:15pm, 10:30pm), Sat 5/18 (12:15pm, 3:45pm, 7:15pm, 10:30pm), Sun 5/19 (12:15pm, 3:45pm, 7:15pm, 10:30pm)
+
 ### Fri 4/19 12:25pm
 
 * New screenings: 
