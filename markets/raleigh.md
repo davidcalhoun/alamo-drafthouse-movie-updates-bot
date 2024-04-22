@@ -1,6 +1,52 @@
 # raleigh
 
 ## Movie updates
+### Mon 4/22 4:19pm
+* New movies: Alien 45th Anniversary Re-Release, Do Not Expect Too Much From the End of the World, The Beast
+
+* New screenings: 
+    * [Abigail](https://drafthouse.com/raleigh/show/abigail): Thu 4/25 (12:00pm, 3:15pm, 6:20pm, 9:30pm), Fri 4/26 (11:15am, 2:15pm, 5:05pm, 8:00pm, 11:00pm), Sat 4/27 (11:15am, 2:05pm, 5:00pm, 8:00pm, 11:15pm), Sun 4/28 (11:20am, 2:10pm, 5:00pm, 8:15pm, 11:15pm), Mon 4/29 (11:15am, 2:05pm, 5:00pm, 8:00pm), Tue 4/30 (12:45pm, 3:35pm, 6:30pm, 9:30pm), Wed 5/1 (11:15am, 2:15pm, 5:05pm, 8:00pm, 11:00pm)
+
+    * [Alien 45th Anniversary Re Release](https://drafthouse.com/raleigh/show/alien-45th-anniversary-re-release): Fri 4/26 (11:00am, 2:30pm, 4:15pm, 6:45pm, 9:30pm), Sat 4/27 (12:30pm, 3:45pm, 6:30pm, 7:15pm, 10:30pm), Sun 4/28 (11:30am, 3:00pm, 6:00pm, 9:45pm), Mon 4/29 (12:15pm, 3:30pm, 7:00pm), Tue 4/30 (1:15pm, 2:30pm, 4:30pm, 5:45pm, 8:00pm), Wed 5/1 (12:30pm, 3:45pm, 7:15pm, 10:30pm)
+
+    * [Challengers](https://drafthouse.com/raleigh/show/challengers): Fri 4/26 (7:15pm), Sat 4/27 (7:15pm), Sun 4/28 (2:45pm, 7:15pm), Mon 4/29 (11:00am, 12:00pm, 2:15pm, 3:15pm, 6:30pm), Tue 4/30 (12:15pm, 2:15pm, 3:30pm, 6:00pm, 9:15pm), Wed 5/1 (11:00am, 2:15pm, 5:30pm, 6:35pm, 9:50pm)
+
+    * [Civil War](https://drafthouse.com/raleigh/show/civil-war): Thu 4/25 (11:30am, 2:45pm, 6:45pm, 10:00pm), Fri 4/26 (11:15am, 2:15pm, 5:15pm, 8:15pm, 11:15pm), Sat 4/27 (11:15am, 2:15pm, 5:15pm, 8:15pm, 11:15pm), Sun 4/28 (11:10am, 2:15pm, 5:15pm, 8:15pm, 11:15pm), Mon 4/29 (11:15am, 2:15pm, 5:15pm, 8:15pm), Tue 4/30 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Wed 5/1 (11:15am, 2:15pm, 5:15pm, 8:15pm, 11:15pm)
+
+    * [Do Not Expect Too Much From The End Of The World](https://drafthouse.com/raleigh/show/do-not-expect-too-much-from-the-end-of-the-world): Sun 4/28 (3:45pm), Mon 4/29 (4:30pm), Wed 5/1 (2:45pm)
+
+    * [Drunken Master Ii](https://drafthouse.com/raleigh/show/drunken-master-ii): Thu 4/25 (10:30pm)
+
+    * [Dune Part Two](https://drafthouse.com/raleigh/show/dune-part-two): Thu 4/25 (11:45am, 3:45pm), Fri 4/26 (12:00pm), Sat 4/27 (12:00pm), Sun 4/28 (12:00pm), Mon 4/29 (12:00pm), Tue 4/30 (12:00pm), Wed 5/1 (12:00pm)
+
+    * [Enter The Clones Of Bruce](https://drafthouse.com/raleigh/show/enter-the-clones-of-bruce): Fri 4/26 (10:00pm), Sat 4/27 (9:35pm), Mon 4/29 (11:00am), Wed 5/1 (11:45am)
+
+    * [Femme](https://drafthouse.com/raleigh/show/femme): Sat 4/27 (6:55pm), Sun 4/28 (8:00pm), Wed 5/1 (9:15pm)
+
+    * [Ghostbusters Frozen Empire](https://drafthouse.com/raleigh/show/ghostbusters-frozen-empire): Thu 4/25 (12:45pm, 4:15pm, 7:15pm, 10:15pm), Fri 4/26 (4:15pm), Sat 4/27 (4:15pm), Sun 4/28 (4:15pm), Mon 4/29 (4:15pm), Tue 4/30 (4:15pm), Wed 5/1 (4:15pm)
+
+    * [Godzilla X Kong The New Empire](https://drafthouse.com/raleigh/show/godzilla-x-kong-the-new-empire): Thu 4/25 (12:15pm, 3:15pm, 6:30pm, 9:45pm), Fri 4/26 (1:00pm, 3:45pm, 7:45pm, 10:45pm), Sat 4/27 (1:00pm, 3:30pm, 7:30pm, 10:45pm), Sun 4/28 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Mon 4/29 (11:45am, 3:00pm, 6:15pm), Tue 4/30 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Wed 5/1 (1:00pm, 4:45pm, 8:00pm, 11:15pm)
+
+    * [Kung Fu Panda 4](https://drafthouse.com/raleigh/show/kung-fu-panda-4): Thu 4/25 (1:15pm, 4:00pm)
+
+    * [Monkey Man](https://drafthouse.com/raleigh/show/monkey-man): Thu 4/25 (12:30pm, 4:15pm, 8:00pm, 11:15pm), Fri 4/26 (12:30pm, 10:30pm), Sat 4/27 (12:00pm, 10:30pm), Sun 4/28 (11:45am, 10:30pm), Mon 4/29 (7:15pm), Tue 4/30 (7:15pm, 10:30pm), Wed 5/1 (7:15pm, 10:30pm)
+
+    * [Queer Film Theory 101 The Mask 1994](https://drafthouse.com/raleigh/show/queer-film-theory-101-the-mask-1994): Thu 4/25 (12:45pm)
+
+    * [Sasquatch Sunset](https://drafthouse.com/raleigh/show/sasquatch-sunset): Thu 4/25 (1:00pm, 3:45pm, 7:35pm, 10:15pm), Fri 4/26 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sat 4/27 (12:30pm, 3:00pm, 6:00pm, 9:00pm), Sun 4/28 (12:45pm, 3:25pm, 6:00pm, 9:00pm), Mon 4/29 (12:25pm, 3:00pm, 6:00pm), Tue 4/30 (1:30pm, 4:15pm, 6:50pm, 9:45pm), Wed 5/1 (12:45pm, 3:20pm, 6:00pm, 9:00pm)
+
+    * [Spy X Family Code White Dubbed](https://drafthouse.com/raleigh/show/spy-x-family-code-white-dubbed): Thu 4/25 (4:30pm, 7:45pm, 10:45pm), Fri 4/26 (12:15pm, 3:45pm, 7:00pm), Sat 4/27 (12:15pm, 3:45pm, 7:00pm), Sun 4/28 (1:00pm, 4:30pm, 7:45pm), Mon 4/29 (1:00pm, 4:30pm, 7:45pm), Tue 4/30 (4:45pm, 7:45pm, 10:45pm), Wed 5/1 (12:15pm, 3:45pm, 7:00pm)
+
+    * [Spy X Family Code White Subtitled](https://drafthouse.com/raleigh/show/spy-x-family-code-white-subtitled): Thu 4/25 (1:00pm), Fri 4/26 (10:15pm), Sat 4/27 (10:15pm), Sun 4/28 (11:00pm), Tue 4/30 (1:45pm), Wed 5/1 (10:15pm)
+
+    * [The Beast](https://drafthouse.com/raleigh/show/the-beast): Fri 4/26 (10:15pm), Sat 4/27 (3:15pm), Sun 4/28 (9:15pm)
+
+    * [The Ministry Of Ungentlemanly Warfare](https://drafthouse.com/raleigh/show/the-ministry-of-ungentlemanly-warfare): Thu 4/25 (11:45am, 3:00pm, 6:10pm, 9:30pm), Fri 4/26 (11:30am, 3:00pm, 6:30pm, 9:45pm), Sat 4/27 (12:45pm, 4:00pm, 7:45pm, 11:00pm), Sun 4/28 (11:00am, 2:30pm, 6:15pm, 9:30pm), Mon 4/29 (11:30am, 2:45pm, 6:15pm), Tue 4/30 (12:30pm, 4:00pm, 7:30pm, 10:45pm), Wed 5/1 (11:30am, 3:00pm, 6:15pm, 9:30pm)
+
+    * [The Peoples Joker](https://drafthouse.com/raleigh/show/the-peoples-joker): Fri 4/26 (1:00pm), Sun 4/28 (10:45pm), Mon 4/29 (8:15pm), Wed 5/1 (12:00pm)
+
+    * [Three Colors Red](https://drafthouse.com/raleigh/show/three-colors-red): Mon 4/29 (1:45pm)
+
 ### Mon 4/22 10:19am
 * New movies: Back to Black
 
