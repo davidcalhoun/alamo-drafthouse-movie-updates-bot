@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 4/22 5:31am
+* New movies: Back to Black
+
+* New screenings: 
+    * [Back To Black](https://drafthouse.com/los-angeles/show/back-to-black): Thu 5/16 (6:30pm, 9:45pm), Fri 5/17 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Sat 5/18 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Sun 5/19 (12:00pm, 3:15pm, 6:30pm), Mon 5/20 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Tue 5/21 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Wed 5/22 (12:00pm, 3:15pm, 6:30pm, 9:45pm)
+
 ### Fri 4/19 5:29am
 * New movies: Society
 
