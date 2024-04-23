@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 4/23 12:24pm
+* New movies: Mamma Mia!
+
+* New screenings: 
+    * [Moms Love Movies Mamma Mia Feast](https://drafthouse.com/raleigh/show/moms-love-movies-mamma-mia-feast): Sun 5/12 (6:00pm)
+
 ### Mon 4/22 4:19pm
 * New movies: Alien 45th Anniversary Re-Release, Do Not Expect Too Much From the End of the World, The Beast
 
