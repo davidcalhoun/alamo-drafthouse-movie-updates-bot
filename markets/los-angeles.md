@@ -1,6 +1,54 @@
 # los-angeles
 
 ## Movie updates
+### Mon 4/22 6:10pm
+* New movies: Alien 45th Anniversary Re-Release, It's Such a Beautiful Day + ME, The Beast, Humane
+
+* New screenings: 
+    * [Abigail](https://drafthouse.com/los-angeles/show/abigail): Thu 4/25 (3:30pm, 6:25pm, 9:30pm), Mon 4/29 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:45pm), Tue 4/30 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:45pm), Wed 5/1 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:45pm)
+
+    * [Alien 45th Anniversary Re Release](https://drafthouse.com/los-angeles/show/alien-45th-anniversary-re-release): Fri 4/26 (12:45pm, 7:10pm), Sat 4/27 (12:45pm, 7:15pm), Sun 4/28 (12:45pm, 7:10pm), Mon 4/29 (12:45pm, 7:10pm), Tue 4/30 (12:45pm, 7:10pm), Wed 5/1 (12:50pm, 7:15pm)
+
+    * [Boy Kills World](https://drafthouse.com/los-angeles/show/boy-kills-world): Mon 4/29 (12:45pm), Wed 5/1 (12:45pm)
+
+    * [Challengers](https://drafthouse.com/los-angeles/show/challengers): Thu 4/25 (4:15pm, 6:00pm, 6:40pm, 8:30pm), Fri 4/26 (7:15pm), Sat 4/27 (7:10pm), Sun 4/28 (7:35pm), Mon 4/29 (11:00am, 12:20pm, 2:20pm, 5:40pm, 9:00pm), Tue 4/30 (11:00am, 12:15pm, 2:20pm, 3:40pm, 5:40pm, 7:15pm, 9:00pm, 9:40pm), Wed 5/1 (11:00am, 12:20pm, 2:20pm, 5:40pm, 9:00pm)
+
+    * [Civil War](https://drafthouse.com/los-angeles/show/civil-war): Thu 4/25 (3:40pm, 7:30pm, 10:00pm), Fri 4/26 (12:25pm, 3:25pm, 6:30pm, 9:35pm), Sat 4/27 (12:25pm, 3:25pm, 6:30pm, 9:35pm), Sun 4/28 (12:25pm, 3:25pm, 6:30pm), Mon 4/29 (12:25pm, 3:25pm, 6:30pm, 9:35pm), Tue 4/30 (12:20pm, 3:25pm, 6:30pm, 9:35pm), Wed 5/1 (12:25pm, 3:25pm, 6:30pm, 9:35pm)
+
+    * [Dune Part Two](https://drafthouse.com/los-angeles/show/dune-part-two): Thu 4/25 (3:00pm)
+
+    * [Femme](https://drafthouse.com/los-angeles/show/femme): Tue 4/30 (3:10pm)
+
+    * [Godzilla X Kong The New Empire](https://drafthouse.com/los-angeles/show/godzilla-x-kong-the-new-empire): Thu 4/25 (2:35pm)
+
+    * [Humane](https://drafthouse.com/los-angeles/show/humane): Sun 4/28 (4:45pm), Tue 4/30 (1:15pm)
+
+    * [Its Such A Beautiful Day Me](https://drafthouse.com/los-angeles/show/its-such-a-beautiful-day-me): Fri 5/31 (7:15pm), Sat 6/1 (10:25pm), Sun 6/2 (4:35pm), Mon 6/3 (4:30pm), Tue 6/4 (3:20pm), Wed 6/5 (5:20pm)
+
+    * [Late Night With The Devil](https://drafthouse.com/los-angeles/show/late-night-with-the-devil): Fri 4/26 (10:35pm), Sun 4/28 (2:10pm), Mon 4/29 (10:50pm), Wed 5/1 (11:00am, 10:45pm)
+
+    * [Monkey Man](https://drafthouse.com/los-angeles/show/monkey-man): Thu 4/25 (2:45pm, 6:00pm, 9:15pm), Fri 4/26 (11:30am, 2:45pm, 6:00pm, 9:15pm), Sat 4/27 (11:30am, 2:45pm, 6:00pm, 9:15pm), Sun 4/28 (12:15pm, 3:30pm, 6:45pm), Mon 4/29 (11:30am, 2:45pm, 6:00pm, 9:15pm), Tue 4/30 (11:30am, 2:45pm, 6:00pm, 9:15pm), Wed 5/1 (11:30am, 2:45pm, 6:00pm, 9:15pm)
+
+    * [Sasquatch Sunset](https://drafthouse.com/los-angeles/show/sasquatch-sunset): Thu 4/25 (2:40pm, 5:20pm, 8:00pm, 10:40pm), Fri 4/26 (12:00pm, 2:40pm, 5:20pm, 8:00pm, 10:40pm), Sat 4/27 (12:00pm, 2:40pm, 5:20pm, 8:00pm, 10:40pm), Sun 4/28 (12:00pm, 2:40pm, 5:20pm, 8:00pm), Mon 4/29 (12:00pm, 2:40pm, 5:20pm, 8:00pm, 10:40pm), Tue 4/30 (12:00pm, 2:40pm, 5:20pm, 8:00pm, 10:40pm), Wed 5/1 (12:00pm, 2:40pm, 5:20pm, 8:00pm, 10:40pm)
+
+    * [Spider Man 2](https://drafthouse.com/los-angeles/show/spider-man-2): Fri 4/26 (1:00pm)
+
+    * [Spider Man 3](https://drafthouse.com/los-angeles/show/spider-man-3): Mon 4/29 (12:00pm), Tue 4/30 (11:35am), Wed 5/1 (11:15am, 9:15pm)
+
+    * [Spy X Family Code White Dubbed](https://drafthouse.com/los-angeles/show/spy-x-family-code-white-dubbed): Thu 4/25 (3:10pm, 6:15pm), Fri 4/26 (1:00pm, 7:30pm), Sat 4/27 (4:00pm, 10:35pm), Sun 4/28 (1:00pm, 7:25pm), Mon 4/29 (4:00pm, 10:20pm), Tue 4/30 (1:15pm, 7:30pm), Wed 5/1 (4:10pm, 10:25pm)
+
+    * [Spy X Family Code White Subtitled](https://drafthouse.com/los-angeles/show/spy-x-family-code-white-subtitled): Thu 4/25 (9:15pm), Fri 4/26 (4:00pm, 10:25pm), Sat 4/27 (1:00pm, 7:30pm), Sun 4/28 (4:00pm), Mon 4/29 (1:10pm, 7:30pm), Tue 4/30 (4:00pm, 10:25pm), Wed 5/1 (1:15pm, 7:30pm)
+
+    * [The Beast](https://drafthouse.com/los-angeles/show/the-beast): Fri 4/26 (11:35am), Sat 4/27 (11:25am), Sun 4/28 (12:25pm), Mon 4/29 (9:15pm), Tue 4/30 (6:00pm), Wed 5/1 (4:25pm)
+
+    * [The First Omen](https://drafthouse.com/los-angeles/show/the-first-omen): Thu 4/25 (3:30pm, 10:00pm), Fri 4/26 (4:10pm, 10:30pm), Sat 4/27 (4:10pm, 10:30pm), Sun 4/28 (4:10pm), Mon 4/29 (4:15pm, 10:30pm), Tue 4/30 (4:15pm, 10:30pm), Wed 5/1 (4:20pm, 10:30pm)
+
+    * [The Ministry Of Ungentlemanly Warfare](https://drafthouse.com/los-angeles/show/the-ministry-of-ungentlemanly-warfare): Thu 4/25 (2:45pm, 6:45pm, 9:20pm), Fri 4/26 (11:45am, 3:00pm, 6:15pm, 9:30pm), Sat 4/27 (11:30am, 2:45pm, 6:00pm, 9:15pm), Sun 4/28 (11:45am, 3:00pm, 6:15pm), Mon 4/29 (11:40am, 3:00pm, 6:15pm, 9:25pm), Tue 4/30 (11:45am, 3:00pm, 6:15pm, 9:25pm), Wed 5/1 (11:45am, 3:00pm, 6:15pm, 9:25pm)
+
+    * [The Mummy 1999](https://drafthouse.com/los-angeles/show/the-mummy-1999): Thu 4/25 (5:15pm, 10:30pm)
+
+    * [The Peoples Joker](https://drafthouse.com/los-angeles/show/the-peoples-joker): Thu 4/25 (2:30pm), Mon 4/29 (11:50am), Tue 4/30 (10:35pm), Wed 5/1 (1:35pm)
+
 ### Mon 4/22 1:17pm
 
 * New screenings: 
