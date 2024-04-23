@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Tue 4/23 5:16pm
+* New movies: It's Such a Beautiful Day + ME, UHF
+
+* New screenings: 
+    * [Its Such A Beautiful Day Me](https://drafthouse.com/raleigh/show/its-such-a-beautiful-day-me): Fri 5/31 (8:00pm), Sat 6/1 (7:45pm), Sun 6/2 (6:30pm)
+
+    * [Uhf](https://drafthouse.com/raleigh/show/uhf): Fri 4/26 (7:30pm)
+
 ### Tue 4/23 12:24pm
 * New movies: Mamma Mia!
 
