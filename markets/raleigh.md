@@ -1,6 +1,32 @@
 # raleigh
 
 ## Movie updates
+### Tue 4/23 7:18pm
+* New movies: Field of Dreams, Indiana Jones and the Last Crusade, Carrie 1976, The Birdcage, Vampire's Kiss, Legend 1985, Son of the White Mare, Do The Right Thing, The Adventures of Priscilla, Queen of the Desert, The Wizard 1989, SHOWGIRLS
+
+* New screenings: 
+    * [Do The Right Thing](https://drafthouse.com/raleigh/show/do-the-right-thing): Wed 6/19 (7:00pm)
+
+    * [Field Of Dreams](https://drafthouse.com/raleigh/show/field-of-dreams): Sat 6/15 (2:30pm)
+
+    * [Indiana Jones And The Last Crusade](https://drafthouse.com/raleigh/show/indiana-jones-and-the-last-crusade): Sun 6/16 (11:00am)
+
+    * [Terror Tuesday Carrie](https://drafthouse.com/raleigh/show/terror-tuesday-carrie): Tue 5/7 (9:00pm)
+
+    * [The Adventures Of Priscilla Queen Of The Desert Brunch](https://drafthouse.com/raleigh/show/the-adventures-of-priscilla-queen-of-the-desert-brunch): Sat 6/29 (11:30am)
+
+    * [The Birdcage Brunch](https://drafthouse.com/raleigh/show/the-birdcage-brunch): Sat 6/15 (11:00am)
+
+    * [The Wizard 1989](https://drafthouse.com/raleigh/show/the-wizard-1989): Sat 6/22 (4:00pm)
+
+    * [Vampires Kiss](https://drafthouse.com/raleigh/show/vampires-kiss): Fri 6/21 (9:30pm)
+
+    * [Weird Wednesday Legend 1985](https://drafthouse.com/raleigh/show/weird-wednesday-legend-1985): Wed 5/8 (9:00pm)
+
+    * [Weird Wednesday Showgirls](https://drafthouse.com/raleigh/show/weird-wednesday-showgirls): Wed 5/15 (9:00pm)
+
+    * [Weird Wednesday Son Of The White Mare](https://drafthouse.com/raleigh/show/weird-wednesday-son-of-the-white-mare): Wed 5/29 (9:45pm)
+
 ### Tue 4/23 5:16pm
 * New movies: It's Such a Beautiful Day + ME, UHF
 
