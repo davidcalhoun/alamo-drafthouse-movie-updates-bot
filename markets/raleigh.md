@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Wed 4/24 1:19pm
+
+* New screenings: 
+    * [Signature Programming The Twilight Saga Breaking Dawn Part 2](https://drafthouse.com/raleigh/show/signature-programming-the-twilight-saga-breaking-dawn-part-2): Sun 6/2 (12:00pm)
+
 ### Wed 4/24 12:23pm
 
 * New screenings: 
