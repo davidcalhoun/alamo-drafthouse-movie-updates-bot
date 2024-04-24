@@ -1,6 +1,34 @@
 # raleigh
 
 ## Movie updates
+### Wed 4/24 11:21am
+* New movies: The Ring, Danger: Diabolik, Mystery Manga, Torque, Born on the Fourth of July, Go Fish, License to Kill 1989, Possession 1981, I Know What You Did Last Summer, Zombie, Weird Wednesday: HOWARD THE DUCK
+
+* New screenings: 
+    * [Born On The Fourth Of July](https://drafthouse.com/raleigh/show/born-on-the-fourth-of-july): Sun 6/30 (11:30am)
+
+    * [Do The Right Thing](https://drafthouse.com/raleigh/show/do-the-right-thing): Wed 6/19 (3:45pm)
+
+    * [Go Fish](https://drafthouse.com/raleigh/show/go-fish): Sat 6/29 (2:30pm)
+
+    * [License To Kill 1989](https://drafthouse.com/raleigh/show/license-to-kill-1989): Sun 6/30 (3:30pm)
+
+    * [Terror Tuesday I Know What You Did Last Summer](https://drafthouse.com/raleigh/show/terror-tuesday-i-know-what-you-did-last-summer): Tue 7/2 (9:30pm)
+
+    * [Terror Tuesday Possession 1981](https://drafthouse.com/raleigh/show/terror-tuesday-possession-1981): Tue 6/25 (9:30pm)
+
+    * [Terror Tuesday The Ring](https://drafthouse.com/raleigh/show/terror-tuesday-the-ring): Tue 6/18 (9:30pm)
+
+    * [Terror Tuesday Zombie](https://drafthouse.com/raleigh/show/terror-tuesday-zombie): Tue 6/4 (9:30pm)
+
+    * [Weird Wednesday Danger Diabolik](https://drafthouse.com/raleigh/show/weird-wednesday-danger-diabolik): Wed 6/5 (9:30pm)
+
+    * [Weird Wednesday Howard The Duck](https://drafthouse.com/raleigh/show/weird-wednesday-howard-the-duck): Wed 6/26 (10:00pm)
+
+    * [Weird Wednesday Mystery Manga](https://drafthouse.com/raleigh/show/weird-wednesday-mystery-manga): Wed 6/19 (9:30pm)
+
+    * [Weird Wednesday Torque](https://drafthouse.com/raleigh/show/weird-wednesday-torque): Wed 6/12 (9:30pm)
+
 ### Tue 4/23 9:22pm
 * New movies: Scream 2
 
