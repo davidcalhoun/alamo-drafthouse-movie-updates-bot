@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 4/24 3:15pm
+* New movies: Teen Witch
+
+* New screenings: 
+    * [Teen Witch](https://drafthouse.com/raleigh/show/teen-witch): Tue 6/11 (6:30pm)
+
 ### Wed 4/24 1:19pm
 
 * New screenings: 
