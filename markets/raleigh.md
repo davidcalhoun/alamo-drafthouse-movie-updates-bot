@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 4/23 9:22pm
+* New movies: Scream 2
+
+* New screenings: 
+    * [Terror Tuesday Scream 2](https://drafthouse.com/raleigh/show/terror-tuesday-scream-2): Tue 5/14 (9:00pm)
+
 ### Tue 4/23 7:18pm
 * New movies: Field of Dreams, Indiana Jones and the Last Crusade, Carrie 1976, The Birdcage, Vampire's Kiss, Legend 1985, Son of the White Mare, Do The Right Thing, The Adventures of Priscilla, Queen of the Desert, The Wizard 1989, SHOWGIRLS
 
