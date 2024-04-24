@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Wed 4/24 12:23pm
+
+* New screenings: 
+    * [Signature Programming Steel Magnolias](https://drafthouse.com/raleigh/show/signature-programming-steel-magnolias): Wed 6/12 (6:00pm)
+
 ### Wed 4/24 11:21am
 * New movies: The Ring, Danger: Diabolik, Mystery Manga, Torque, Born on the Fourth of July, Go Fish, License to Kill 1989, Possession 1981, I Know What You Did Last Summer, Zombie, Weird Wednesday: HOWARD THE DUCK
 
