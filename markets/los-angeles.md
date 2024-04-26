@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Fri 4/26 8:17am
+* New movies: Evil Does Not Exist
+
+* New screenings: 
+    * [Challengers](https://drafthouse.com/los-angeles/show/challengers): Sat 4/27 (8:00pm, 9:15pm)
+
+    * [Evil Does Not Exist](https://drafthouse.com/los-angeles/show/evil-does-not-exist): Thu 5/9 (5:00pm, 8:00pm), Fri 5/10 (11:00am, 1:55pm, 4:50pm, 7:45pm), Sat 5/11 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:40pm), Sun 5/12 (11:00am, 1:55pm, 4:50pm, 7:45pm)
+
+    * [Spider Man 3](https://drafthouse.com/los-angeles/show/spider-man-3): Mon 4/29 (8:00pm), Wed 5/1 (8:00pm)
+
 ### Mon 4/22 6:10pm
 * New movies: Alien 45th Anniversary Re-Release, It's Such a Beautiful Day + ME, The Beast, Humane
 
