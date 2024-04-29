@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 4/29 12:24pm
+* New movies: If
+
+* New screenings: 
+    * [If](https://drafthouse.com/raleigh/show/if): Thu 5/16 (6:00pm, 9:00pm), Fri 5/17 (1:00pm, 4:00pm, 7:00pm, 10:30pm), Sat 5/18 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sun 5/19 (1:00pm, 4:00pm, 7:00pm, 10:00pm)
+
 ### Mon 4/29 11:21am
 
 * New screenings: 
