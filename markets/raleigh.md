@@ -1,6 +1,44 @@
 # raleigh
 
 ## Movie updates
+### Mon 4/29 5:17pm
+* New movies: Tarot, The Shawshank Redemption, The Beast
+
+* New screenings: 
+    * [Abigail](https://drafthouse.com/raleigh/show/abigail): Thu 5/2 (11:15am, 2:05pm, 5:00pm, 8:00pm, 11:15pm), Fri 5/3 (11:15am, 2:15pm, 5:15pm, 8:15pm, 11:15pm), Sat 5/4 (11:15am, 2:15pm, 5:15pm, 8:15pm, 11:15pm), Sun 5/5 (11:15am, 2:15pm, 5:15pm, 8:15pm, 11:15pm), Mon 5/6 (11:15am, 2:15pm, 5:15pm, 8:15pm, 11:15pm), Tue 5/7 (12:15pm, 3:20pm, 7:15pm, 9:15pm), Wed 5/8 (2:15pm, 5:15pm, 8:15pm, 11:15pm)
+
+    * [Alien 45th Anniversary Re Release](https://drafthouse.com/raleigh/show/alien-45th-anniversary-re-release): Thu 5/2 (11:30am, 12:00pm, 3:00pm, 3:45pm, 7:00pm, 10:15pm)
+
+    * [Challengers](https://drafthouse.com/raleigh/show/challengers): Thu 5/2 (11:00am, 2:30pm, 6:30pm, 7:45pm, 10:00pm), Fri 5/3 (12:30pm, 3:50pm, 7:15pm, 7:45pm, 10:45pm), Sat 5/4 (12:15pm, 3:45pm, 7:15pm, 7:45pm, 10:45pm), Sun 5/5 (12:15pm, 3:45pm, 7:15pm, 7:45pm, 10:45pm), Mon 5/6 (12:30pm, 3:50pm, 7:15pm, 7:45pm, 10:45pm), Tue 5/7 (12:30pm, 3:50pm, 7:15pm, 7:45pm, 10:45pm), Wed 5/8 (3:00pm, 3:45pm, 7:15pm, 10:45pm)
+
+    * [Civil War](https://drafthouse.com/raleigh/show/civil-war): Thu 5/2 (11:15am, 2:15pm, 5:15pm, 8:15pm, 11:15pm), Fri 5/3 (12:15pm, 3:30pm, 6:45pm, 9:45pm), Sat 5/4 (11:45am, 2:40pm, 5:35pm, 8:30pm, 11:30pm), Sun 5/5 (11:45am, 3:15pm, 6:15pm, 9:15pm), Mon 5/6 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Tue 5/7 (12:15pm, 3:10pm, 6:15pm, 9:15pm), Wed 5/8 (2:45pm, 5:40pm, 8:35pm, 11:30pm)
+
+    * [Femme](https://drafthouse.com/raleigh/show/femme): Thu 5/2 (12:45pm)
+
+    * [Ghostbusters Frozen Empire](https://drafthouse.com/raleigh/show/ghostbusters-frozen-empire): Thu 5/2 (6:55pm)
+
+    * [Godzilla X Kong The New Empire](https://drafthouse.com/raleigh/show/godzilla-x-kong-the-new-empire): Thu 5/2 (1:00pm, 4:45pm, 11:15pm), Fri 5/3 (12:45pm, 4:15pm, 11:00pm), Sat 5/4 (12:45pm, 4:15pm, 11:00pm), Sun 5/5 (12:45pm, 4:15pm, 11:00pm), Mon 5/6 (12:45pm, 4:15pm, 11:00pm), Tue 5/7 (12:45pm, 4:15pm, 11:00pm), Wed 5/8 (2:45pm, 5:45pm)
+
+    * [Monkey Man](https://drafthouse.com/raleigh/show/monkey-man): Thu 5/2 (6:10pm, 10:15pm), Fri 5/3 (10:15pm), Sat 5/4 (10:15pm), Sun 5/5 (10:15pm), Mon 5/6 (10:15pm), Tue 5/7 (10:15pm), Wed 5/8 (9:15pm)
+
+    * [Sasquatch Sunset](https://drafthouse.com/raleigh/show/sasquatch-sunset): Thu 5/2 (12:30pm, 3:15pm, 6:20pm, 9:15pm)
+
+    * [Spy X Family Code White Dubbed](https://drafthouse.com/raleigh/show/spy-x-family-code-white-dubbed): Thu 5/2 (11:45am), Fri 5/3 (11:45am), Sat 5/4 (11:45am), Sun 5/5 (11:45am), Mon 5/6 (11:45am), Tue 5/7 (11:45am)
+
+    * [Star Wars The Phantom Menace 25th Anniversary Re Release](https://drafthouse.com/raleigh/show/star-wars-the-phantom-menace-25th-anniversary-re-release): Fri 5/3 (11:30am, 1:00pm, 3:00pm, 4:30pm, 6:30pm), Sat 5/4 (1:00pm, 3:00pm, 4:30pm, 6:30pm, 10:00pm), Sun 5/5 (1:00pm, 4:30pm, 5:35pm, 9:00pm), Mon 5/6 (11:30am, 1:00pm, 3:00pm, 4:30pm), Tue 5/7 (11:30am, 1:00pm, 3:00pm, 4:30pm, 8:00pm), Wed 5/8 (2:00pm, 3:00pm, 5:15pm)
+
+    * [Tarot](https://drafthouse.com/raleigh/show/tarot): Thu 5/2 (4:00pm, 6:45pm, 9:45pm), Fri 5/3 (11:15am, 2:00pm, 4:50pm, 7:30pm, 10:15pm), Sat 5/4 (11:15am, 2:00pm, 4:50pm, 7:30pm, 10:15pm), Sun 5/5 (11:15am, 2:00pm, 4:50pm, 7:30pm, 10:15pm), Mon 5/6 (11:15am, 2:00pm, 4:50pm, 7:30pm, 10:15pm), Tue 5/7 (11:15am, 2:00pm, 4:50pm, 7:30pm, 10:15pm), Wed 5/8 (2:15pm, 4:55pm, 7:30pm, 10:15pm)
+
+    * [The Beast](https://drafthouse.com/raleigh/show/the-beast): Thu 5/2 (2:40pm)
+
+    * [The Fall Guy](https://drafthouse.com/raleigh/show/the-fall-guy): Fri 5/3 (3:30pm, 7:05pm, 8:00pm, 11:15pm), Sat 5/4 (3:30pm, 7:05pm, 8:00pm, 11:15pm), Sun 5/5 (3:30pm, 7:05pm, 8:00pm, 11:15pm), Mon 5/6 (11:00am, 2:30pm, 3:30pm, 6:30pm, 7:05pm, 8:00pm, 9:30pm, 10:00pm, 11:15pm), Tue 5/7 (11:00am, 2:15pm, 3:30pm, 5:30pm, 6:35pm, 10:00pm), Wed 5/8 (2:30pm, 5:45pm, 6:30pm, 8:45pm, 9:45pm)
+
+    * [The Ministry Of Ungentlemanly Warfare](https://drafthouse.com/raleigh/show/the-ministry-of-ungentlemanly-warfare): Thu 5/2 (12:15pm, 3:45pm, 7:10pm, 10:30pm), Fri 5/3 (12:15pm, 3:40pm, 6:55pm, 10:00pm), Sat 5/4 (12:15pm, 3:40pm, 6:55pm, 10:00pm), Sun 5/5 (12:15pm, 3:40pm, 6:55pm, 10:00pm), Mon 5/6 (12:15pm, 3:40pm, 6:45pm, 10:00pm), Tue 5/7 (11:15am, 2:45pm, 6:00pm, 9:30pm), Wed 5/8 (2:00pm, 3:10pm, 6:15pm, 9:30pm)
+
+    * [The Peoples Joker](https://drafthouse.com/raleigh/show/the-peoples-joker): Thu 5/2 (3:55pm)
+
+    * [The Shawshank Redemption](https://drafthouse.com/raleigh/show/the-shawshank-redemption): Thu 5/2 (12:15pm)
+
 ### Mon 4/29 12:24pm
 * New movies: If
 
