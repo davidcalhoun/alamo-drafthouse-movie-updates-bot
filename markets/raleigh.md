@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 4/29 11:21am
+
+* New screenings: 
+    * [Femme](https://drafthouse.com/raleigh/show/femme): Mon 4/29 (8:35pm)
+
 ### Wed 4/24 3:15pm
 * New movies: Teen Witch
 
