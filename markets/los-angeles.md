@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Sun 4/28 9:19pm
+* New movies: If
+
+* New screenings: 
+    * [If](https://drafthouse.com/los-angeles/show/if): Thu 5/16 (6:00pm, 9:10pm), Fri 5/17 (12:35pm, 3:40pm, 6:45pm, 9:50pm), Sat 5/18 (12:35pm, 3:40pm, 6:45pm, 9:50pm), Sun 5/19 (11:00am, 2:00pm, 5:00pm, 8:00pm), Mon 5/20 (12:35pm, 3:40pm, 6:45pm, 9:50pm), Tue 5/21 (12:35pm, 3:40pm, 6:45pm, 9:50pm), Wed 5/22 (12:35pm, 3:40pm, 6:45pm, 9:50pm)
+
 ### Fri 4/26 8:17am
 * New movies: Evil Does Not Exist
 
