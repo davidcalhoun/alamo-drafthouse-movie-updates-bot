@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 4/29 4:15pm
+* New movies: Free Time
+
+* New screenings: 
+    * [Live Q A Free Time](https://drafthouse.com/los-angeles/show/live-q-a-free-time): Tue 5/7 (7:15pm)
+
 ### Sun 4/28 9:19pm
 * New movies: If
 
