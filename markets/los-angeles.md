@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 4/30 1:20am
+
+* New screenings: 
+    * [Back To The Future](https://drafthouse.com/los-angeles/show/back-to-the-future): Tue 5/28 (4:00pm)
+
 ### Mon 4/29 11:22pm
 * New movies: The Heartbreak Kid 1972
 
