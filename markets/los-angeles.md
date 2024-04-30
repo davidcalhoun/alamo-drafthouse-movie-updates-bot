@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Mon 4/29 10:14pm
+* New movies: The Feeling That the Time for Doing Something Has Passed, The Feeling That the Time for Doing Something Has Passed, The Last Stop in Yuma County
+
+* New screenings: 
+    * [Live Q A The Feeling That The Time For Doing Something Has Passed](https://drafthouse.com/los-angeles/show/live-q-a-the-feeling-that-the-time-for-doing-something-has-passed): Fri 5/10 (7:30pm), Sat 5/11 (7:00pm)
+
+    * [The Feeling That The Time For Doing Something Has Passed](https://drafthouse.com/los-angeles/show/the-feeling-that-the-time-for-doing-something-has-passed): Thu 5/9 (7:15pm), Mon 5/13 (4:40pm), Tue 5/14 (4:35pm), Wed 5/15 (12:40pm)
+
+    * [The Last Stop In Yuma County](https://drafthouse.com/los-angeles/show/the-last-stop-in-yuma-county): Fri 5/10 (2:20pm), Mon 5/13 (2:00pm), Tue 5/14 (7:15pm), Wed 5/15 (3:20pm)
+
 ### Mon 4/29 9:19pm
 * New movies: Teen Witch
 
