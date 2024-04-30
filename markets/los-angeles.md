@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 4/30 3:15pm
+* New movies: The Last Stop in Yuma County
+
+* New screenings: 
+    * [Fantastic Fest Presents The Last Stop In Yuma County W Live Q A](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-the-last-stop-in-yuma-county-w-live-q-a): Sat 5/11 (4:30pm), Sun 5/12 (7:00pm)
+
 ### Tue 4/30 1:16pm
 
 * New screenings: 
