@@ -1,6 +1,60 @@
 # los-angeles
 
 ## Movie updates
+### Mon 4/29 6:10pm
+* New movies: Stress Positions, Do Not Expect Too Much From the End of the World, Free Time
+
+* New screenings: 
+    * [Abigail](https://drafthouse.com/los-angeles/show/abigail): Thu 5/2 (4:45pm, 7:45pm, 10:40pm), Fri 5/3 (12:30pm, 4:10pm, 7:10pm, 10:15pm), Sat 5/4 (12:30pm, 4:10pm, 7:10pm, 10:15pm), Sun 5/5 (12:30pm, 4:10pm, 7:10pm), Mon 5/6 (12:30pm, 4:10pm, 7:10pm, 10:15pm), Tue 5/7 (12:30pm, 4:10pm, 7:10pm, 10:15pm), Wed 5/8 (12:30pm, 4:10pm, 7:10pm, 10:15pm)
+
+    * [Alien 45th Anniversary Re Release](https://drafthouse.com/los-angeles/show/alien-45th-anniversary-re-release): Thu 5/2 (3:45pm, 6:20pm, 9:45pm)
+
+    * [Bill Teds Excellent Adventure](https://drafthouse.com/los-angeles/show/bill-teds-excellent-adventure): Sat 5/4 (10:50am, 4:50pm), Mon 5/6 (11:45am), Wed 5/8 (3:15pm, 9:15pm)
+
+    * [Boy Kills World](https://drafthouse.com/los-angeles/show/boy-kills-world): Thu 5/2 (3:20pm, 9:15pm), Fri 5/3 (3:30pm, 9:50pm), Sat 5/4 (3:30pm, 9:50pm), Sun 5/5 (3:30pm, 8:00pm), Mon 5/6 (3:30pm, 9:50pm), Tue 5/7 (3:30pm, 9:50pm), Wed 5/8 (3:30pm, 9:50pm)
+
+    * [Challengers](https://drafthouse.com/los-angeles/show/challengers): Thu 5/2 (5:40pm), Fri 5/3 (12:45pm, 7:25pm), Sat 5/4 (12:45pm, 7:25pm), Sun 5/5 (12:50pm, 7:30pm), Mon 5/6 (12:45pm, 7:25pm), Tue 5/7 (12:45pm, 7:25pm), Wed 5/8 (12:45pm, 7:25pm)
+
+    * [Civil War](https://drafthouse.com/los-angeles/show/civil-war): Thu 5/2 (3:10pm, 6:10pm, 9:15pm), Fri 5/3 (11:00am, 3:00pm, 6:00pm, 9:00pm), Sat 5/4 (11:00am, 3:00pm, 6:00pm, 9:00pm), Sun 5/5 (11:00am, 3:00pm, 6:00pm), Mon 5/6 (11:00am, 3:00pm, 6:00pm, 9:00pm), Tue 5/7 (11:00am, 3:00pm, 6:00pm, 9:00pm), Wed 5/8 (11:00am, 3:00pm, 6:00pm, 9:00pm)
+
+    * [Do Not Expect Too Much From The End Of The World](https://drafthouse.com/los-angeles/show/do-not-expect-too-much-from-the-end-of-the-world): Fri 5/3 (2:10pm), Mon 5/6 (12:00pm)
+
+    * [Femme](https://drafthouse.com/los-angeles/show/femme): Fri 5/3 (11:00am), Mon 5/6 (10:45pm)
+
+    * [Free Time](https://drafthouse.com/los-angeles/show/free-time): Wed 5/8 (11:10am)
+
+    * [Humane](https://drafthouse.com/los-angeles/show/humane): Fri 5/3 (1:45pm), Tue 5/7 (10:05pm)
+
+    * [Miracle Mile](https://drafthouse.com/los-angeles/show/miracle-mile): Fri 5/3 (11:25am), Tue 5/7 (4:30pm)
+
+    * [Monkey Man](https://drafthouse.com/los-angeles/show/monkey-man): Thu 5/2 (4:10pm, 10:00pm), Fri 5/3 (4:10pm, 10:45pm), Sat 5/4 (4:10pm, 10:45pm), Sun 5/5 (4:15pm), Mon 5/6 (4:10pm, 10:45pm), Tue 5/7 (4:10pm, 10:45pm), Wed 5/8 (4:10pm, 10:45pm)
+
+    * [Santa Sangre](https://drafthouse.com/los-angeles/show/santa-sangre): Sat 5/4 (1:35pm), Sun 5/5 (6:00pm), Tue 5/7 (9:15pm)
+
+    * [Sasquatch Sunset](https://drafthouse.com/los-angeles/show/sasquatch-sunset): Thu 5/2 (3:00pm)
+
+    * [Spider Man 3](https://drafthouse.com/los-angeles/show/spider-man-3): Thu 5/2 (9:00pm)
+
+    * [Spy X Family Code White Dubbed](https://drafthouse.com/los-angeles/show/spy-x-family-code-white-dubbed): Thu 5/2 (2:40pm)
+
+    * [Star Wars The Phantom Menace 25th Anniversary Re Release](https://drafthouse.com/los-angeles/show/star-wars-the-phantom-menace-25th-anniversary-re-release): Fri 5/3 (12:40pm, 2:00pm, 5:25pm, 8:50pm), Sat 5/4 (12:40pm, 2:00pm, 5:25pm, 8:50pm), Sun 5/5 (12:40pm, 2:00pm, 5:25pm), Mon 5/6 (11:15am, 12:40pm, 2:00pm, 2:45pm, 5:25pm), Tue 5/7 (12:40pm, 2:00pm, 5:25pm), Wed 5/8 (11:15am, 12:40pm, 2:00pm, 2:45pm, 5:25pm)
+
+    * [Stress Positions](https://drafthouse.com/los-angeles/show/stress-positions): Fri 5/3 (10:50pm), Sat 5/4 (7:35pm), Sun 5/5 (5:15pm), Mon 5/6 (6:00pm), Tue 5/7 (3:10pm), Wed 5/8 (1:40pm)
+
+    * [The Amazing Spider Man](https://drafthouse.com/los-angeles/show/the-amazing-spider-man): Mon 5/6 (2:30pm, 8:50pm), Tue 5/7 (1:00pm, 8:50pm), Wed 5/8 (8:50pm)
+
+    * [The Beast](https://drafthouse.com/los-angeles/show/the-beast): Fri 5/3 (7:15pm), Mon 5/6 (8:45pm)
+
+    * [The Coffee Table](https://drafthouse.com/los-angeles/show/the-coffee-table): Wed 5/8 (10:50pm)
+
+    * [The Fall Guy](https://drafthouse.com/los-angeles/show/the-fall-guy): Thu 5/2 (5:40pm, 7:25pm, 9:00pm, 9:30pm), Fri 5/3 (6:10pm), Sat 5/4 (6:10pm), Mon 5/6 (11:00am, 2:20pm, 5:40pm, 9:00pm), Tue 5/7 (11:00am, 2:20pm, 5:40pm, 9:00pm), Wed 5/8 (11:00am, 2:20pm, 5:40pm, 9:00pm)
+
+    * [The Ministry Of Ungentlemanly Warfare](https://drafthouse.com/los-angeles/show/the-ministry-of-ungentlemanly-warfare): Thu 5/2 (3:20pm, 6:30pm), Fri 5/3 (11:45am, 6:30pm), Sat 5/4 (11:45am, 6:30pm), Sun 5/5 (11:45am, 6:30pm), Mon 5/6 (11:45am, 6:30pm), Tue 5/7 (11:45am, 6:30pm), Wed 5/8 (11:45am, 6:30pm)
+
+    * [The Mummy 1999](https://drafthouse.com/los-angeles/show/the-mummy-1999): Sun 5/5 (10:45am, 2:00pm), Mon 5/6 (4:00pm), Tue 5/7 (11:50am, 6:00pm), Wed 5/8 (12:00pm)
+
+    * [The Peoples Joker](https://drafthouse.com/los-angeles/show/the-peoples-joker): Sat 5/4 (10:20pm)
+
 ### Mon 4/29 4:15pm
 * New movies: Free Time
 
