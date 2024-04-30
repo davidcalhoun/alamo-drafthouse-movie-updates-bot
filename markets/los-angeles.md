@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 4/29 9:19pm
+* New movies: Teen Witch
+
+* New screenings: 
+    * [Teen Witch](https://drafthouse.com/los-angeles/show/teen-witch): Fri 6/7 (9:30pm)
+
 ### Mon 4/29 6:10pm
 * New movies: Stress Positions, Do Not Expect Too Much From the End of the World, Free Time
 
