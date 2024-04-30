@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Tue 4/30 3:14pm
+* New movies: The Last Stop in Yuma County, The Heartbreak Kid 1972
+
+* New screenings: 
+    * [The Heartbreak Kid 1972](https://drafthouse.com/raleigh/show/the-heartbreak-kid-1972): Sat 5/18 (11:30am)
+
+    * [The Last Stop In Yuma County](https://drafthouse.com/raleigh/show/the-last-stop-in-yuma-county): Fri 5/10 (8:15pm), Sat 5/11 (8:15pm), Sun 5/12 (8:30pm), Mon 5/13 (11:45am), Tue 5/14 (5:15pm), Wed 5/15 (5:15pm), Thu 5/16 (4:30pm)
+
 ### Mon 4/29 5:17pm
 * New movies: Tarot, The Shawshank Redemption, The Beast
 
