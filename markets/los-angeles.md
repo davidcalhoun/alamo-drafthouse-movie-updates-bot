@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 4/30 1:16pm
+
+* New screenings: 
+    * [Goodnight Mommy](https://drafthouse.com/los-angeles/show/goodnight-mommy): Fri 5/17 (3:10pm)
+
 ### Tue 4/30 1:20am
 
 * New screenings: 
