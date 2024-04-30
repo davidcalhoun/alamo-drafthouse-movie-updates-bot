@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Mon 4/29 11:22pm
+* New movies: The Heartbreak Kid 1972
+
+* New screenings: 
+    * [Its Such A Beautiful Day Me](https://drafthouse.com/los-angeles/show/its-such-a-beautiful-day-me): Thu 6/6 (3:20pm)
+
+    * [The Heartbreak Kid 1972](https://drafthouse.com/los-angeles/show/the-heartbreak-kid-1972): Fri 5/17 (1:00pm), Sat 5/18 (7:00pm), Sun 5/19 (7:00pm)
+
 ### Mon 4/29 10:14pm
 * New movies: The Feeling That the Time for Doing Something Has Passed, The Feeling That the Time for Doing Something Has Passed, The Last Stop in Yuma County
 
