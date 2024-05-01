@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 5/1 3:16pm
+
+* New screenings: 
+    * [Live Q A The Feeling That The Time For Doing Something Has Passed](https://drafthouse.com/los-angeles/show/live-q-a-the-feeling-that-the-time-for-doing-something-has-passed): Sun 5/12 (1:00pm)
+
 ### Tue 4/30 3:15pm
 * New movies: The Last Stop in Yuma County
 
