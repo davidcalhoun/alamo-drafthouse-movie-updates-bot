@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 5/1 3:17pm
+* New movies: The Lost Boys
+
+* New screenings: 
+    * [Terror Tuesday The Lost Boys](https://drafthouse.com/raleigh/show/terror-tuesday-the-lost-boys): Tue 6/11 (9:30pm)
+
 ### Tue 4/30 3:14pm
 * New movies: The Last Stop in Yuma County, The Heartbreak Kid 1972
 
