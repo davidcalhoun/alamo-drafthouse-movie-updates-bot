@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 5/2 1:19pm
+* New movies: The Strangers: Chapter 1
+
+* New screenings: 
+    * [The Strangers Chapter 1](https://drafthouse.com/raleigh/show/the-strangers-chapter-1): Thu 5/16 (8:00pm, 10:45pm), Fri 5/17 (11:15am, 2:15pm, 5:15pm, 8:00pm, 11:00pm), Sat 5/18 (11:15am, 2:15pm, 5:15pm, 8:00pm, 11:00pm), Sun 5/19 (11:15am, 2:15pm, 5:15pm, 8:00pm, 11:00pm)
+
 ### Wed 5/1 3:17pm
 * New movies: The Lost Boys
 
