@@ -1,6 +1,18 @@
 # raleigh
 
 ## Movie updates
+### Thu 5/2 2:25pm
+* New movies: Babes, The Garfield Movie 2024, Babes, Babes
+
+* New screenings: 
+    * [Advance Screening Babes Early Access Baby Day Screening](https://drafthouse.com/raleigh/show/advance-screening-babes-early-access-baby-day-screening): Tue 5/21 (11:00am)
+
+    * [Babes](https://drafthouse.com/raleigh/show/babes): Thu 5/23 (7:45pm, 10:45pm), Fri 5/24 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Sat 5/25 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Sun 5/26 (12:45pm, 3:45pm, 6:45pm, 9:45pm)
+
+    * [Livestream Q A Babes](https://drafthouse.com/raleigh/show/livestream-q-a-babes): Sun 5/12 (5:00pm)
+
+    * [The Garfield Movie 2024](https://drafthouse.com/raleigh/show/the-garfield-movie-2024): Thu 5/23 (8:00pm), Fri 5/24 (8:00pm), Sat 5/25 (8:00pm), Sun 5/26 (6:30pm)
+
 ### Thu 5/2 1:19pm
 * New movies: The Strangers: Chapter 1
 
