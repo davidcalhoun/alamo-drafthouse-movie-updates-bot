@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Thu 5/2 6:16am
+* New movies: Babes, Babes, Babes
+
+* New screenings: 
+    * [Advance Screening Babes Early Access Baby Day Screening](https://drafthouse.com/los-angeles/show/advance-screening-babes-early-access-baby-day-screening): Tue 5/21 (11:30am)
+
+    * [Babes](https://drafthouse.com/los-angeles/show/babes): Thu 5/23 (7:00pm, 10:00pm), Fri 5/24 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:40pm), Sat 5/25 (1:55pm, 4:50pm, 7:45pm, 10:40pm), Sun 5/26 (1:55pm, 4:50pm, 7:45pm, 10:40pm), Mon 5/27 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:40pm), Tue 5/28 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:40pm), Wed 5/29 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:40pm)
+
+    * [Brunch Screenings Babes Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-babes-brunch): Sat 5/25 (11:00am), Sun 5/26 (11:00am)
+
 ### Wed 5/1 3:16pm
 
 * New screenings: 
