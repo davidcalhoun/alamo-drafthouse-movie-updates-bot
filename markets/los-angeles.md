@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 5/2 3:15pm
+
+* New screenings: 
+    * [If](https://drafthouse.com/los-angeles/show/if): Fri 5/17 (3:55pm), Sat 5/18 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:40pm), Mon 5/20 (11:00am, 1:55pm, 4:50pm, 7:45pm), Wed 5/22 (11:00am, 1:55pm, 4:50pm, 7:45pm)
+
 ### Thu 5/2 6:16am
 * New movies: Babes, Babes, Babes
 
