@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Thu 5/2 5:17pm
+* New movies: Showgirls
+
+
+
 ### Thu 5/2 2:25pm
 * New movies: Babes, The Garfield Movie 2024, Babes, Babes
 
