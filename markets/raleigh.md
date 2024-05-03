@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 5/3 10:19am
+* New movies: I Saw the TV Glow
+
+* New screenings: 
+    * [I Saw The Tv Glow](https://drafthouse.com/raleigh/show/i-saw-the-tv-glow): Thu 5/16 (7:00pm), Fri 5/17 (6:00pm), Sat 5/18 (8:00pm), Sun 5/19 (8:00pm)
+
 ### Fri 5/3 9:22am
 * New movies: I Saw the TV Glow
 
