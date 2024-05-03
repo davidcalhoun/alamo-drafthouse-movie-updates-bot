@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 5/3 1:19am
+* New movies: Showgirls
+
+
+
 ### Thu 5/2 5:17pm
 * New movies: Showgirls
 
