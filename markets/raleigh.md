@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 5/3 9:22am
+* New movies: I Saw the TV Glow
+
+* New screenings: 
+    * [Fantastic Fest Presents I Saw The Tv Glow W Livestream Q A](https://drafthouse.com/raleigh/show/fantastic-fest-presents-i-saw-the-tv-glow-w-livestream-q-a): Wed 5/8 (9:00pm)
+
 ### Fri 5/3 1:19am
 * New movies: Showgirls
 
