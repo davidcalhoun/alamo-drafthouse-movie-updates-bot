@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Fri 5/3 6:18am
+* New movies: I Saw the TV Glow, Hit Man, I Saw the TV Glow, Hit Man
+
+* New screenings: 
+    * [Fantastic Fest Presents I Saw The Tv Glow W Livestream Q A](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-i-saw-the-tv-glow-w-livestream-q-a): Wed 5/8 (6:00pm)
+
+    * [Hit Man](https://drafthouse.com/los-angeles/show/hit-man): Thu 5/23 (7:15pm, 10:20pm), Fri 5/24 (12:20pm, 3:25pm, 6:30pm, 9:40pm), Sat 5/25 (12:20pm, 3:25pm, 6:30pm, 9:40pm), Sun 5/26 (12:20pm, 3:25pm, 6:30pm, 9:40pm), Mon 5/27 (12:20pm, 3:25pm, 6:30pm, 9:40pm), Tue 5/28 (12:20pm, 3:25pm, 6:30pm, 9:40pm), Wed 5/29 (12:20pm, 3:25pm, 6:30pm, 9:40pm)
+
+    * [I Saw The Tv Glow](https://drafthouse.com/los-angeles/show/i-saw-the-tv-glow): Thu 5/9 (4:30pm, 7:20pm, 10:10pm), Fri 5/10 (11:30am, 2:20pm, 5:10pm, 8:00pm), Sat 5/11 (11:30am, 2:20pm, 5:10pm, 8:00pm, 10:50pm), Sun 5/12 (11:20am, 2:10pm, 8:00pm), Mon 5/13 (11:30am, 2:20pm, 5:10pm, 8:00pm, 10:50pm), Tue 5/14 (11:30am, 2:20pm, 5:10pm, 8:00pm, 10:50pm), Wed 5/15 (11:30am, 2:20pm, 5:10pm, 8:00pm, 10:50pm)
+
+    * [Livestream Q A Hit Man](https://drafthouse.com/los-angeles/show/livestream-q-a-hit-man): Fri 5/17 (5:00pm)
+
 ### Thu 5/2 3:15pm
 
 * New screenings: 
