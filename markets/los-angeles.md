@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Sat 5/4 3:15am
+* New movies: Tie Me Up! Tie Me Down!
+
+* New screenings: 
+    * [Queer Film Theory 101 Tie Me Up Tie Me Down](https://drafthouse.com/los-angeles/show/queer-film-theory-101-tie-me-up-tie-me-down): Mon 6/24 (7:15pm)
+
 ### Fri 5/3 6:18am
 * New movies: I Saw the TV Glow, Hit Man, I Saw the TV Glow, Hit Man
 
