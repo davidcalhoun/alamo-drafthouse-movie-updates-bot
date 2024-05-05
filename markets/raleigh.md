@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Sun 5/5 3:16pm
+* New movies: Things 1989
+
+* New screenings: 
+    * [Terror Tuesday Things 1989](https://drafthouse.com/raleigh/show/terror-tuesday-things-1989): Tue 5/21 (9:00pm)
+
 ### Fri 5/3 10:19am
 * New movies: I Saw the TV Glow
 
