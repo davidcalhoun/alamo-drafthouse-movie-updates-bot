@@ -1,6 +1,41 @@
 # los-angeles
 
 ## Movie updates
+### Mon 5/6 4:15pm
+
+* New screenings: 
+    * [Abigail](https://drafthouse.com/los-angeles/show/abigail): Thu 5/9 (2:45pm), Fri 5/10 (4:30pm), Sat 5/11 (12:25pm), Sun 5/12 (11:25am), Mon 5/13 (6:10pm), Tue 5/14 (12:00pm), Wed 5/15 (5:00pm)
+
+    * [Aggro Dr1ft](https://drafthouse.com/los-angeles/show/aggro-dr1ft): Mon 5/13 (9:20pm), Tue 5/14 (9:20pm), Wed 5/15 (9:20pm, 11:10pm)
+
+    * [Boy Kills World](https://drafthouse.com/los-angeles/show/boy-kills-world): Thu 5/9 (3:15pm)
+
+    * [Challengers](https://drafthouse.com/los-angeles/show/challengers): Thu 5/9 (3:10pm, 6:30pm, 9:50pm), Fri 5/10 (11:25am, 2:50pm, 6:10pm), Sat 5/11 (12:10pm, 3:35pm, 6:10pm, 10:00pm), Sun 5/12 (12:00pm, 4:00pm, 7:20pm), Mon 5/13 (12:50pm, 4:10pm, 7:30pm, 9:15pm), Tue 5/14 (12:50pm, 4:10pm, 7:30pm, 10:00pm), Wed 5/15 (12:30pm, 3:50pm, 7:15pm, 10:35pm)
+
+    * [Civil War](https://drafthouse.com/los-angeles/show/civil-war): Thu 5/9 (2:30pm, 6:00pm, 9:00pm), Fri 5/10 (12:00pm, 3:00pm, 6:00pm), Sat 5/11 (12:00pm, 3:00pm, 6:00pm, 10:00pm), Sun 5/12 (12:00pm, 3:00pm, 6:00pm), Mon 5/13 (12:00pm, 3:00pm, 6:00pm, 9:50pm), Tue 5/14 (12:00pm, 3:00pm, 6:00pm, 9:50pm), Wed 5/15 (12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
+    * [Evil Does Not Exist](https://drafthouse.com/los-angeles/show/evil-does-not-exist): Thu 5/9 (10:00pm), Mon 5/13 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:40pm), Tue 5/14 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:40pm), Wed 5/15 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:40pm)
+
+    * [Humane](https://drafthouse.com/los-angeles/show/humane): Mon 5/13 (11:15am)
+
+    * [I Saw The Tv Glow](https://drafthouse.com/los-angeles/show/i-saw-the-tv-glow): Thu 5/9 (5:30pm, 6:15pm, 9:10pm, 11:00pm), Fri 5/10 (11:00am, 3:30pm, 6:20pm), Sat 5/11 (11:10am, 3:25pm, 6:20pm, 9:10pm), Sun 5/12 (3:25pm, 5:40pm, 6:15pm), Mon 5/13 (11:00am, 3:25pm, 6:20pm, 9:10pm), Tue 5/14 (11:10am, 3:25pm, 6:20pm, 9:10pm), Wed 5/15 (11:00am, 3:25pm, 6:15pm, 9:05pm)
+
+    * [Kingdom Of The Planet Of The Apes](https://drafthouse.com/los-angeles/show/kingdom-of-the-planet-of-the-apes): Thu 5/9 (3:35pm, 5:45pm, 8:20pm, 9:25pm), Fri 5/10 (11:50am, 2:00pm, 5:40pm), Sat 5/11 (12:50pm, 2:00pm, 5:40pm, 9:20pm), Sun 5/12 (12:10pm, 3:50pm, 7:30pm), Mon 5/13 (11:45am, 2:00pm, 5:40pm), Tue 5/14 (11:45am, 2:00pm, 5:40pm), Wed 5/15 (11:45am, 2:00pm, 5:40pm)
+
+    * [Serial Mom](https://drafthouse.com/los-angeles/show/serial-mom): Fri 5/10 (11:30am), Mon 5/13 (11:40am), Wed 5/15 (2:10pm)
+
+    * [Star Wars The Phantom Menace 25th Anniversary Re Release](https://drafthouse.com/los-angeles/show/star-wars-the-phantom-menace-25th-anniversary-re-release): Thu 5/9 (3:20pm, 6:50pm, 10:15pm), Fri 5/10 (11:45am, 3:15pm, 6:45pm), Sat 5/11 (11:45am, 3:15pm, 6:45pm, 10:10pm), Sun 5/12 (11:45am, 3:15pm, 6:45pm), Mon 5/13 (11:45am, 3:15pm, 6:45pm, 10:10pm), Tue 5/14 (11:45am, 3:15pm, 6:45pm, 10:10pm), Wed 5/15 (11:45am, 3:15pm, 6:45pm, 10:10pm)
+
+    * [Tarot](https://drafthouse.com/los-angeles/show/tarot): Thu 5/9 (2:30pm, 5:10pm, 7:45pm, 10:25pm), Fri 5/10 (11:10am, 1:50pm, 4:30pm, 7:15pm), Sat 5/11 (11:10am, 1:50pm, 4:30pm, 7:15pm, 10:40pm), Sun 5/12 (11:10am, 1:50pm, 4:30pm, 7:10pm), Mon 5/13 (11:05am, 1:45pm, 4:25pm, 7:10pm, 10:50pm), Tue 5/14 (11:00am, 1:40pm, 4:20pm, 7:10pm, 10:50pm), Wed 5/15 (11:20am, 2:05pm, 4:45pm, 7:30pm, 10:10pm)
+
+    * [The Amazing Spider Man 2](https://drafthouse.com/los-angeles/show/the-amazing-spider-man-2): Mon 5/13 (2:35pm), Tue 5/14 (1:00pm, 6:00pm), Wed 5/15 (6:00pm)
+
+    * [The Fall Guy](https://drafthouse.com/los-angeles/show/the-fall-guy): Fri 5/10 (1:10pm), Sat 5/11 (9:00pm), Sun 5/12 (2:25pm, 6:00pm), Mon 5/13 (9:00pm), Tue 5/14 (9:00pm)
+
+    * [The Ministry Of Ungentlemanly Warfare](https://drafthouse.com/los-angeles/show/the-ministry-of-ungentlemanly-warfare): Thu 5/9 (2:50pm)
+
+    * [Troop Beverly Hills](https://drafthouse.com/los-angeles/show/troop-beverly-hills): Tue 5/14 (3:00pm), Wed 5/15 (11:10am)
+
 ### Sat 5/4 3:15am
 * New movies: Tie Me Up! Tie Me Down!
 
