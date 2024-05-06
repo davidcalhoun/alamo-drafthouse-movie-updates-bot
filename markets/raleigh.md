@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Mon 5/6 12:27pm
+* New movies: Howard The Duck
+
+* New screenings: 
+    * [Its Such A Beautiful Day Me](https://drafthouse.com/raleigh/show/its-such-a-beautiful-day-me): Fri 5/31 (7:00pm), Mon 6/3 (3:00pm), Tue 6/4 (6:30pm), Wed 6/5 (4:00pm)
+
+    * [Weird Wednesday Howard The Duck](https://drafthouse.com/raleigh/show/weird-wednesday-howard-the-duck): Wed 6/26 (10:00pm)
+
 ### Sun 5/5 3:16pm
 * New movies: Things 1989
 
