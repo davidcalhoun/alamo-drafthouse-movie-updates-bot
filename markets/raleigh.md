@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 5/6 5:18pm
+* New movies: I'm "George Lucas": A Connor Ratliff Story
+
+* New screenings: 
+    * [Im George Lucas A Connor Ratliff Story](https://drafthouse.com/raleigh/show/im-george-lucas-a-connor-ratliff-story): Tue 5/21 (6:15pm)
+
 ### Mon 5/6 4:20pm
 * New movies: Psycho 1960, Bill & Ted's Excellent Adventure
 
