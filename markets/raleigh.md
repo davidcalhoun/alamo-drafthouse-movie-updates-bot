@@ -1,6 +1,46 @@
 # raleigh
 
 ## Movie updates
+### Mon 5/6 4:20pm
+* New movies: Psycho 1960, Bill & Ted's Excellent Adventure
+
+* New screenings: 
+    * [Abigail](https://drafthouse.com/raleigh/show/abigail): Thu 5/9 (11:15am, 2:15pm, 5:15pm, 7:20pm, 8:15pm, 11:15pm), Fri 5/10 (12:30pm, 3:25pm), Sat 5/11 (3:25pm), Sun 5/12 (3:25pm), Mon 5/13 (12:30pm, 3:25pm), Tue 5/14 (12:30pm), Wed 5/15 (12:30pm, 3:25pm)
+
+    * [Aggro Dr1ft](https://drafthouse.com/raleigh/show/aggro-dr1ft): Fri 5/10 (9:15pm, 11:45pm), Sat 5/11 (9:15pm, 11:45pm), Sun 5/12 (9:00pm, 11:45pm), Mon 5/13 (8:15pm, 9:15pm), Tue 5/14 (9:55pm, 11:30pm), Wed 5/15 (9:45pm)
+
+    * [Bill Teds Excellent Adventure](https://drafthouse.com/raleigh/show/bill-teds-excellent-adventure): Thu 5/9 (11:30pm)
+
+    * [Challengers](https://drafthouse.com/raleigh/show/challengers): Thu 5/9 (12:30pm, 3:45pm, 6:45pm, 7:30pm, 10:45pm), Fri 5/10 (12:45pm, 4:15pm, 7:45pm, 11:00pm), Sat 5/11 (12:45pm, 4:15pm, 7:45pm, 11:00pm), Sun 5/12 (12:45pm, 4:15pm, 7:45pm, 11:00pm), Mon 5/13 (12:45pm, 4:15pm, 7:45pm, 11:00pm), Tue 5/14 (12:45pm, 4:15pm, 7:45pm, 11:00pm), Wed 5/15 (12:45pm, 4:15pm, 7:45pm, 11:00pm)
+
+    * [Civil War](https://drafthouse.com/raleigh/show/civil-war): Thu 5/9 (12:15pm, 3:10pm, 6:15pm, 9:15pm), Fri 5/10 (11:15am, 2:30pm, 5:30pm, 8:30pm, 11:30pm), Sat 5/11 (11:15am, 2:30pm, 5:30pm, 8:30pm, 11:30pm), Sun 5/12 (11:15am, 2:30pm, 5:30pm, 8:30pm, 11:30pm), Mon 5/13 (11:15am, 2:30pm, 5:30pm, 8:30pm, 11:30pm), Tue 5/14 (11:15am, 2:15pm, 5:15pm, 8:15pm, 11:15pm), Wed 5/15 (11:15am, 2:15pm, 5:10pm, 8:30pm, 11:30pm)
+
+    * [Godzilla X Kong The New Empire](https://drafthouse.com/raleigh/show/godzilla-x-kong-the-new-empire): Thu 5/9 (12:15pm, 3:30pm, 10:15pm)
+
+    * [Kingdom Of The Planet Of The Apes](https://drafthouse.com/raleigh/show/kingdom-of-the-planet-of-the-apes): Fri 5/10 (11:00am, 2:30pm, 5:00pm, 6:00pm, 9:30pm), Sat 5/11 (11:00am, 2:30pm, 4:45pm, 6:00pm, 9:30pm), Sun 5/12 (1:30pm, 2:15pm, 8:00pm), Mon 5/13 (11:00am, 12:00pm, 2:30pm, 3:30pm, 7:00pm, 9:30pm, 10:30pm), Tue 5/14 (12:00pm, 2:00pm, 3:30pm, 5:00pm, 5:30pm, 7:00pm, 10:30pm), Wed 5/15 (12:00pm, 2:00pm, 3:30pm, 4:45pm, 7:00pm, 10:30pm)
+
+    * [Monkey Man](https://drafthouse.com/raleigh/show/monkey-man): Thu 5/9 (10:30pm)
+
+    * [Psycho 1960](https://drafthouse.com/raleigh/show/psycho-1960): Sat 5/11 (8:15pm), Sun 5/12 (12:30pm, 6:00pm), Mon 5/13 (11:15pm), Tue 5/14 (3:20pm, 8:30pm)
+
+    * [Serial Mom](https://drafthouse.com/raleigh/show/serial-mom): Fri 5/10 (8:45pm), Sat 5/11 (6:15pm)
+
+    * [Spy X Family Code White Dubbed](https://drafthouse.com/raleigh/show/spy-x-family-code-white-dubbed): Thu 5/9 (12:45pm)
+
+    * [Star Wars The Phantom Menace 25th Anniversary Re Release](https://drafthouse.com/raleigh/show/star-wars-the-phantom-menace-25th-anniversary-re-release): Thu 5/9 (11:00am, 1:00pm, 2:30pm, 4:30pm, 6:00pm, 8:00pm, 9:30pm), Fri 5/10 (11:45am, 3:15pm, 6:45pm, 10:15pm), Sat 5/11 (11:45am, 3:15pm, 6:45pm, 10:15pm), Sun 5/12 (11:45am, 3:15pm, 6:45pm, 10:15pm), Mon 5/13 (11:45am, 3:15pm, 6:45pm, 10:15pm), Tue 5/14 (11:45am, 3:15pm, 6:45pm, 10:15pm), Wed 5/15 (11:45am, 3:15pm, 6:45pm, 10:15pm)
+
+    * [Tarot](https://drafthouse.com/raleigh/show/tarot): Thu 5/9 (11:15am, 1:50pm, 4:30pm, 7:10pm, 9:45pm), Fri 5/10 (11:15am, 2:15pm, 5:15pm, 8:00pm, 10:45pm), Sat 5/11 (11:15am, 2:15pm, 5:15pm, 8:00pm, 10:45pm), Sun 5/12 (11:15am, 2:15pm, 5:15pm, 8:00pm, 10:45pm), Mon 5/13 (11:15am, 2:15pm, 5:15pm, 8:00pm, 10:45pm), Tue 5/14 (11:15am, 2:15pm, 5:15pm, 8:00pm, 10:45pm), Wed 5/15 (11:15am, 2:15pm, 5:20pm, 8:00pm, 10:45pm)
+
+    * [The Amazing Spider Man 2](https://drafthouse.com/raleigh/show/the-amazing-spider-man-2): Mon 5/13 (7:30pm), Tue 5/14 (6:15pm), Wed 5/15 (5:35pm, 6:15pm, 8:15pm)
+
+    * [The Fall Guy](https://drafthouse.com/raleigh/show/the-fall-guy): Thu 5/9 (11:50am, 1:30pm, 3:45pm, 4:45pm, 8:00pm, 11:15pm), Fri 5/10 (11:30am, 1:30pm, 3:00pm, 5:00pm, 6:30pm, 10:00pm), Sat 5/11 (1:00pm, 4:30pm, 6:30pm, 10:00pm), Sun 5/12 (1:00pm, 2:30pm, 4:30pm, 6:15pm, 9:00pm, 9:45pm), Mon 5/13 (11:30am, 1:30pm, 3:00pm, 5:00pm, 6:30pm, 10:00pm), Tue 5/14 (11:30am, 1:45pm, 3:00pm, 6:30pm, 10:00pm), Wed 5/15 (11:30am, 2:00pm, 3:00pm, 6:30pm, 10:00pm)
+
+    * [The Last Stop In Yuma County](https://drafthouse.com/raleigh/show/the-last-stop-in-yuma-county): Fri 5/10 (11:30am, 2:15pm), Sat 5/11 (11:30am, 2:15pm), Sun 5/12 (11:30am), Mon 5/13 (11:30am, 2:15pm, 4:50pm), Tue 5/14 (11:30am, 2:15pm, 10:30pm), Wed 5/15 (11:45am, 2:15pm, 10:30pm)
+
+    * [The Ministry Of Ungentlemanly Warfare](https://drafthouse.com/raleigh/show/the-ministry-of-ungentlemanly-warfare): Thu 5/9 (11:45am, 3:00pm, 6:30pm, 9:45pm), Fri 5/10 (12:15pm, 3:45pm, 7:15pm, 10:45pm), Sat 5/11 (12:15pm, 3:45pm, 7:15pm, 10:45pm), Sun 5/12 (12:15pm, 3:45pm, 7:15pm, 10:45pm), Mon 5/13 (12:15pm, 3:45pm, 7:15pm, 10:45pm), Tue 5/14 (12:15pm, 3:45pm, 7:15pm, 10:30pm), Wed 5/15 (12:15pm, 3:45pm, 7:15pm, 10:45pm)
+
+    * [Troop Beverly Hills](https://drafthouse.com/raleigh/show/troop-beverly-hills): Fri 5/10 (6:15pm), Sat 5/11 (12:30pm), Mon 5/13 (6:15pm), Tue 5/14 (11:00am), Wed 5/15 (11:00am)
+
 ### Mon 5/6 12:27pm
 * New movies: Howard The Duck
 
