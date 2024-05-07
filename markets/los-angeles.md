@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 5/7 12:22am
+* New movies: Ghost: Rite Here Rite Now
+
+* New screenings: 
+    * [Ghost Rite Here Rite Now](https://drafthouse.com/los-angeles/show/ghost-rite-here-rite-now): Thu 6/20 (7:15pm), Sat 6/22 (3:45pm)
+
 ### Mon 5/6 4:15pm
 
 * New screenings: 
