@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 5/7 3:15pm
+
+* New screenings: 
+    * [Aggro Dr1ft](https://drafthouse.com/los-angeles/show/aggro-dr1ft): Fri 5/17 (8:30pm), Sat 5/18 (10:00pm), Mon 5/20 (10:40pm), Tue 5/21 (9:45pm), Wed 5/22 (10:50pm)
+
 ### Tue 5/7 12:22am
 * New movies: Ghost: Rite Here Rite Now
 
