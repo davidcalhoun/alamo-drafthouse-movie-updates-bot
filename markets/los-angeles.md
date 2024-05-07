@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Tue 5/7 4:14pm
+
+* New screenings: 
+    * [Aggro Dr1ft](https://drafthouse.com/los-angeles/show/aggro-dr1ft): Sun 5/19 (8:30pm)
+
+    * [The Wolf House](https://drafthouse.com/los-angeles/show/the-wolf-house): Sun 5/19 (6:00pm)
+
 ### Tue 5/7 3:15pm
 
 * New screenings: 
