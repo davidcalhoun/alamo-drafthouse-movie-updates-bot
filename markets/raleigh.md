@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 5/7 1:18pm
+* New movies: Ghost: Rite Here Rite Now
+
+* New screenings: 
+    * [Ghost Rite Here Rite Now](https://drafthouse.com/raleigh/show/ghost-rite-here-rite-now): Thu 6/20 (7:30pm), Sat 6/22 (4:15pm), Sun 6/23 (12:45pm)
+
 ### Mon 5/6 5:18pm
 * New movies: I'm "George Lucas": A Connor Ratliff Story
 
