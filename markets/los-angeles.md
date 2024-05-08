@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 5/8 9:20am
+* New movies: Furiosa: A Mad Max Saga
+
+* New screenings: 
+    * [Furiosa A Mad Max Saga](https://drafthouse.com/los-angeles/show/furiosa-a-mad-max-saga): Thu 5/23 (3:00pm, 6:45pm, 10:30pm), Fri 5/24 (11:00am, 2:35pm, 6:15pm, 10:00pm), Sat 5/25 (10:45am, 2:30pm, 6:15pm, 10:00pm), Sun 5/26 (10:45am, 2:30pm, 6:15pm), Mon 5/27 (11:00am, 2:35pm, 6:15pm, 10:00pm), Tue 5/28 (11:00am, 2:35pm, 6:15pm, 10:00pm), Wed 5/29 (11:00am, 2:35pm, 6:15pm, 10:00pm), Thu 5/30 (2:40pm, 6:15pm, 10:00pm), Fri 5/31 (11:00am, 2:45pm, 6:30pm, 10:15pm), Sat 6/1 (11:00am, 2:45pm, 6:30pm, 10:15pm), Sun 6/2 (11:00am, 2:45pm, 6:30pm), Mon 6/3 (11:00am, 2:45pm, 6:30pm, 10:15pm), Tue 6/4 (11:00am, 2:45pm, 6:30pm, 10:15pm), Wed 6/5 (11:00am, 2:45pm, 6:30pm, 10:15pm)
+
 ### Tue 5/7 4:14pm
 
 * New screenings: 
