@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Wed 5/8 5:19pm
+
+* New screenings: 
+    * [Its Such A Beautiful Day Me](https://drafthouse.com/raleigh/show/its-such-a-beautiful-day-me): Fri 5/31 (5:30pm)
+
 ### Wed 5/8 12:25pm
 * New movies: Furiosa: A Mad Max Saga
 
