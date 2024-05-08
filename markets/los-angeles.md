@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 5/8 3:14pm
+* New movies: Gloria 1980, Hollywood 90028
+
+* New screenings: 
+    * [Gloria 1980](https://drafthouse.com/los-angeles/show/gloria-1980): Sat 6/8 (11:00am)
+
+    * [Hollywood 90028](https://drafthouse.com/los-angeles/show/hollywood-90028): Fri 6/14 (9:30pm)
+
 ### Wed 5/8 9:20am
 * New movies: Furiosa: A Mad Max Saga
 
