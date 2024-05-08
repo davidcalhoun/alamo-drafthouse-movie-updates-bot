@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 5/8 12:25pm
+* New movies: Furiosa: A Mad Max Saga
+
+* New screenings: 
+    * [Furiosa A Mad Max Saga](https://drafthouse.com/raleigh/show/furiosa-a-mad-max-saga): Thu 5/23 (3:00pm, 6:30pm, 10:00pm), Fri 5/24 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sat 5/25 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sun 5/26 (11:30am, 3:00pm, 7:00pm, 10:30pm), Mon 5/27 (7:00pm)
+
 ### Tue 5/7 1:18pm
 * New movies: Ghost: Rite Here Rite Now
 
