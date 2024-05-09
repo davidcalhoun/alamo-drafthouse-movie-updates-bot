@@ -1,6 +1,20 @@
 # los-angeles
 
 ## Movie updates
+### Wed 5/8 8:18pm
+* New movies: The Strangers: Chapter 1, The Garfield Movie 2024
+
+* New screenings: 
+    * [I Saw The Tv Glow](https://drafthouse.com/los-angeles/show/i-saw-the-tv-glow): Thu 5/16 (2:00pm, 4:50pm, 7:45pm, 10:35pm), Fri 5/17 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Sat 5/18 (10:45am, 1:35pm, 4:25pm, 7:15pm, 10:10pm), Sun 5/19 (10:45am, 1:35pm, 4:25pm, 7:15pm), Mon 5/20 (11:20am, 2:10pm, 5:00pm, 7:45pm, 10:35pm), Tue 5/21 (11:20am, 2:10pm, 5:00pm, 7:45pm, 10:35pm), Wed 5/22 (1:00pm, 3:50pm, 6:45pm, 9:35pm)
+
+    * [If](https://drafthouse.com/los-angeles/show/if): Mon 5/20 (9:40pm), Tue 5/21 (12:45pm, 6:45pm, 9:40pm), Wed 5/22 (10:40pm)
+
+    * [Kingdom Of The Planet Of The Apes](https://drafthouse.com/los-angeles/show/kingdom-of-the-planet-of-the-apes): Thu 5/16 (2:40pm, 6:15pm, 9:50pm), Fri 5/17 (11:00am, 2:35pm, 6:15pm, 9:50pm), Sat 5/18 (11:00am, 2:35pm, 6:15pm, 9:50pm), Sun 5/19 (11:00am, 2:35pm, 6:15pm), Mon 5/20 (11:00am, 2:35pm, 6:15pm, 9:50pm), Tue 5/21 (11:00am, 2:35pm, 6:15pm, 9:50pm), Wed 5/22 (11:00am, 2:35pm, 6:15pm, 9:50pm)
+
+    * [The Garfield Movie 2024](https://drafthouse.com/los-angeles/show/the-garfield-movie-2024): Thu 5/23 (7:45pm, 10:40pm), Fri 5/24 (6:00pm, 9:00pm), Sat 5/25 (6:00pm, 9:00pm), Sun 5/26 (6:00pm, 9:00pm), Mon 5/27 (12:15pm, 3:10pm, 6:00pm), Tue 5/28 (6:00pm, 9:00pm), Wed 5/29 (12:15pm, 3:10pm, 6:00pm)
+
+    * [The Strangers Chapter 1](https://drafthouse.com/los-angeles/show/the-strangers-chapter-1): Thu 5/16 (7:30pm, 10:10pm), Fri 5/17 (11:20am, 2:00pm, 4:35pm, 7:15pm, 10:00pm), Sat 5/18 (11:30am, 2:10pm, 4:50pm, 7:30pm, 10:15pm), Sun 5/19 (11:30am, 2:10pm, 4:50pm, 7:30pm), Mon 5/20 (11:40am, 2:15pm, 4:50pm, 7:30pm, 10:15pm), Tue 5/21 (11:40am, 2:15pm, 4:50pm, 7:30pm, 10:15pm), Wed 5/22 (11:30am, 2:10pm, 4:50pm, 7:30pm, 10:15pm)
+
 ### Wed 5/8 3:14pm
 * New movies: Gloria 1980, Hollywood 90028
 
