@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 5/10 1:18pm
+* New movies: In a Violent Nature
+
+* New screenings: 
+    * [In A Violent Nature](https://drafthouse.com/raleigh/show/in-a-violent-nature): Fri 5/31 (10:30pm), Sat 6/1 (10:30pm), Sun 6/2 (9:30pm)
+
 ### Wed 5/8 5:19pm
 
 * New screenings: 
