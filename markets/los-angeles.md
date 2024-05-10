@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 5/10 6:17am
+* New movies: Haikyu!! The Dumpster Battle Subtitled, Haikyu!! The Dumpster Battle Dubbed
+
+* New screenings: 
+    * [Haikyu The Dumpster Battle Dubbed](https://drafthouse.com/los-angeles/show/haikyu-the-dumpster-battle-dubbed): Thu 5/30 (5:10pm), Fri 5/31 (2:35pm, 10:20pm), Sat 6/1 (12:00pm, 5:10pm), Sun 6/2 (5:25pm), Mon 6/3 (11:10am, 7:45pm), Tue 6/4 (12:00pm, 10:20pm), Wed 6/5 (5:10pm, 7:45pm)
+
+    * [Haikyu The Dumpster Battle Subtitled](https://drafthouse.com/los-angeles/show/haikyu-the-dumpster-battle-subtitled): Thu 5/30 (7:45pm, 10:20pm), Fri 5/31 (11:00am, 5:10pm, 7:45pm), Sat 6/1 (2:35pm, 7:45pm, 10:20pm), Sun 6/2 (12:15pm, 2:50pm, 7:15pm), Mon 6/3 (2:35pm, 5:10pm, 10:20pm), Tue 6/4 (2:35pm, 5:10pm, 7:45pm), Wed 6/5 (12:00pm, 2:35pm, 10:20pm)
+
 ### Thu 5/9 8:17pm
 * New movies: Backspot
 
