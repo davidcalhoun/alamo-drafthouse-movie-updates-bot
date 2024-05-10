@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 5/10 4:15pm
+
+* New screenings: 
+    * [Furiosa A Mad Max Saga](https://drafthouse.com/los-angeles/show/furiosa-a-mad-max-saga): Thu 5/30 (2:35pm)
+
 ### Fri 5/10 10:14am
 * New movies: In a Violent Nature, In a Violent Nature
 
