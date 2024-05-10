@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Fri 5/10 2:25pm
+* New movies: Haikyu!! The Dumpster Battle Subtitled, Haikyu!! The Dumpster Battle Dubbed
+
+* New screenings: 
+    * [Haikyu The Dumpster Battle Dubbed](https://drafthouse.com/raleigh/show/haikyu-the-dumpster-battle-dubbed): Thu 5/30 (6:45pm), Fri 5/31 (2:30pm, 7:45pm), Sat 6/1 (2:30pm, 7:45pm), Sun 6/2 (2:30pm, 7:45pm)
+
+    * [Haikyu The Dumpster Battle Subtitled](https://drafthouse.com/raleigh/show/haikyu-the-dumpster-battle-subtitled): Thu 5/30 (4:00pm, 9:45pm), Fri 5/31 (11:45am, 5:00pm, 10:15pm), Sat 6/1 (11:45am, 5:00pm, 10:15pm), Sun 6/2 (11:45am, 5:00pm, 10:15pm)
+
 ### Fri 5/10 1:18pm
 * New movies: In a Violent Nature
 
