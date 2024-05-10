@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 5/10 10:14am
+* New movies: In a Violent Nature, In a Violent Nature
+
+* New screenings: 
+    * [Fantastic Fest Presents In A Violent Nature Early Access](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-in-a-violent-nature-early-access): Tue 5/28 (6:00pm)
+
+    * [In A Violent Nature](https://drafthouse.com/los-angeles/show/in-a-violent-nature): Fri 5/31 (10:00pm), Sun 6/2 (8:00pm), Tue 6/4 (11:00pm), Wed 6/5 (11:00pm)
+
 ### Fri 5/10 6:17am
 * New movies: Haikyu!! The Dumpster Battle Subtitled, Haikyu!! The Dumpster Battle Dubbed
 
