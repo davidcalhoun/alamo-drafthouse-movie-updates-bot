@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 5/9 8:17pm
+* New movies: Backspot
+
+* New screenings: 
+    * [Backspot](https://drafthouse.com/los-angeles/show/backspot): Fri 5/31 (1:35pm), Sat 6/1 (4:30pm), Sun 6/2 (6:00pm), Mon 6/3 (1:45pm), Tue 6/4 (6:00pm), Wed 6/5 (7:15pm)
+
 ### Wed 5/8 8:18pm
 * New movies: The Strangers: Chapter 1, The Garfield Movie 2024
 
