@@ -1,6 +1,54 @@
 # raleigh
 
 ## Movie updates
+### Mon 5/13 5:20pm
+* New movies: Uncle Buck
+
+* New screenings: 
+    * [Abigail](https://drafthouse.com/raleigh/show/abigail): Thu 5/16 (11:30am, 2:45pm)
+
+    * [Aggro Dr1ft](https://drafthouse.com/raleigh/show/aggro-dr1ft): Thu 5/16 (11:30pm)
+
+    * [Back To Black](https://drafthouse.com/raleigh/show/back-to-black): Mon 5/20 (12:15pm, 3:45pm, 7:15pm, 10:20pm), Tue 5/21 (12:15pm, 3:45pm, 7:15pm, 10:45pm), Wed 5/22 (12:15pm, 3:45pm, 7:15pm, 10:20pm)
+
+    * [Batman](https://drafthouse.com/raleigh/show/batman): Fri 5/17 (11:00pm), Sat 5/18 (3:15pm), Sun 5/19 (3:20pm), Mon 5/20 (3:20pm), Tue 5/21 (3:45pm)
+
+    * [Challengers](https://drafthouse.com/raleigh/show/challengers): Thu 5/16 (12:45pm, 4:15pm, 7:45pm, 11:00pm), Fri 5/17 (11:15am, 2:45pm, 6:15pm, 9:45pm), Sat 5/18 (12:45pm, 2:30pm, 6:15pm, 9:30pm), Sun 5/19 (11:15am, 2:45pm, 6:15pm, 9:45pm), Mon 5/20 (11:15am, 2:45pm, 6:15pm, 9:45pm), Tue 5/21 (11:15am, 2:45pm, 6:00pm, 9:30pm), Wed 5/22 (11:15am, 2:45pm, 6:15pm, 9:45pm)
+
+    * [Civil War](https://drafthouse.com/raleigh/show/civil-war): Thu 5/16 (11:15am, 2:15pm, 5:15pm, 8:30pm, 11:30pm), Fri 5/17 (11:00am, 2:00pm, 5:00pm, 8:00pm, 11:00pm), Sat 5/18 (12:30pm, 3:45pm, 6:45pm, 10:15pm), Sun 5/19 (1:00pm, 4:30pm, 8:00pm, 11:00pm), Mon 5/20 (1:00pm, 4:30pm, 8:00pm, 11:00pm), Tue 5/21 (1:00pm, 4:15pm, 7:15pm, 10:30pm), Wed 5/22 (1:00pm, 4:30pm, 8:00pm, 11:00pm)
+
+    * [I Saw The Tv Glow](https://drafthouse.com/raleigh/show/i-saw-the-tv-glow): Thu 5/16 (4:00pm, 10:00pm), Fri 5/17 (12:00pm, 3:00pm, 8:15pm, 10:00pm, 11:30pm), Sat 5/18 (11:00am, 2:00pm, 5:00pm, 6:00pm, 9:00pm, 10:45pm), Sun 5/19 (11:00am, 2:00pm, 5:00pm, 6:30pm, 9:00pm, 11:00pm), Mon 5/20 (12:00pm, 3:00pm, 6:30pm, 7:45pm, 9:00pm), Tue 5/21 (2:00pm, 5:00pm, 8:00pm, 10:45pm), Wed 5/22 (12:00pm, 3:00pm, 5:15pm, 8:15pm, 10:00pm)
+
+    * [If](https://drafthouse.com/raleigh/show/if): Fri 5/17 (11:30am, 2:30pm, 5:15pm), Sat 5/18 (12:00pm, 3:00pm, 6:30pm), Sun 5/19 (11:30am, 2:30pm, 6:00pm), Mon 5/20 (11:30am, 1:00pm, 2:30pm, 4:00pm, 6:00pm, 7:00pm, 10:00pm), Tue 5/21 (11:30am, 1:00pm, 2:30pm, 4:00pm, 5:15pm, 7:00pm, 8:00pm, 9:45pm), Wed 5/22 (11:30am, 1:00pm, 2:30pm, 4:00pm, 7:00pm, 10:30pm)
+
+    * [Kingdom Of The Planet Of The Apes](https://drafthouse.com/raleigh/show/kingdom-of-the-planet-of-the-apes): Thu 5/16 (11:00am, 12:00pm, 2:30pm, 6:30pm, 10:30pm), Fri 5/17 (11:00am, 1:30pm, 2:30pm, 3:45pm, 5:30pm, 6:30pm, 7:40pm, 9:00pm), Sat 5/18 (11:30am, 3:00pm, 4:00pm, 6:30pm, 7:45pm, 10:15pm), Sun 5/19 (12:30pm, 4:00pm, 6:30pm, 7:45pm, 9:30pm, 10:30pm), Mon 5/20 (12:30pm, 2:00pm, 4:15pm, 5:30pm, 9:15pm, 9:30pm), Tue 5/21 (11:30am, 1:30pm, 3:00pm, 6:30pm, 7:30pm, 10:15pm), Wed 5/22 (11:00am, 1:30pm, 2:30pm, 5:30pm, 6:30pm, 7:40pm, 9:00pm)
+
+    * [Psycho 1960](https://drafthouse.com/raleigh/show/psycho-1960): Thu 5/16 (1:00pm)
+
+    * [Sex Lies And Videotape](https://drafthouse.com/raleigh/show/sex-lies-and-videotape): Sat 5/18 (11:15pm), Sun 5/19 (11:15pm), Mon 5/20 (11:00am, 10:30pm)
+
+    * [Spider Man Homecoming](https://drafthouse.com/raleigh/show/spider-man-homecoming): Wed 5/22 (3:45pm)
+
+    * [Star Wars The Phantom Menace 25th Anniversary Re Release](https://drafthouse.com/raleigh/show/star-wars-the-phantom-menace-25th-anniversary-re-release): Thu 5/16 (11:45am, 3:15pm, 6:45pm, 10:15pm)
+
+    * [Tarot](https://drafthouse.com/raleigh/show/tarot): Thu 5/16 (12:30pm, 3:15pm, 6:00pm, 9:00pm), Tue 5/21 (11:15pm), Wed 5/22 (11:30pm)
+
+    * [The Burbs](https://drafthouse.com/raleigh/show/the-burbs): Sat 5/18 (9:45pm)
+
+    * [The Fall Guy](https://drafthouse.com/raleigh/show/the-fall-guy): Thu 5/16 (11:30am, 3:00pm, 6:15pm, 9:30pm), Fri 5/17 (12:45pm, 4:15pm, 7:30pm, 10:45pm), Sat 5/18 (12:45pm, 4:15pm, 7:30pm, 10:45pm), Sun 5/19 (12:45pm, 4:15pm, 7:30pm, 10:45pm), Mon 5/20 (12:45pm, 4:15pm, 7:30pm, 10:45pm), Tue 5/21 (12:45pm, 4:15pm, 7:30pm, 10:45pm), Wed 5/22 (12:45pm, 4:15pm, 7:30pm, 10:45pm)
+
+    * [The Last Stop In Yuma County](https://drafthouse.com/raleigh/show/the-last-stop-in-yuma-county): Thu 5/16 (1:00pm)
+
+    * [The Ministry Of Ungentlemanly Warfare](https://drafthouse.com/raleigh/show/the-ministry-of-ungentlemanly-warfare): Thu 5/16 (12:15pm, 3:30pm, 6:45pm, 10:15pm), Fri 5/17 (12:30pm), Sat 5/18 (11:45am), Sun 5/19 (12:15pm), Mon 5/20 (12:15pm), Tue 5/21 (12:30pm), Wed 5/22 (12:30pm)
+
+    * [The Strangers Chapter 1](https://drafthouse.com/raleigh/show/the-strangers-chapter-1): Fri 5/17 (11:15am, 2:15pm, 5:15pm, 11:15pm), Sat 5/18 (2:15pm, 5:15pm, 10:45pm), Sun 5/19 (11:15am, 2:15pm, 5:15pm, 10:35pm), Mon 5/20 (11:15am, 2:15pm, 5:15pm, 8:00pm, 10:35pm), Tue 5/21 (11:15am, 2:15pm, 5:15pm, 8:15pm, 11:00pm), Wed 5/22 (11:15am, 2:15pm, 5:15pm, 8:00pm, 11:15pm)
+
+    * [The Wolf House](https://drafthouse.com/raleigh/show/the-wolf-house): Tue 5/21 (11:00pm)
+
+    * [Troop Beverly Hills](https://drafthouse.com/raleigh/show/troop-beverly-hills): Thu 5/16 (4:30pm)
+
+    * [Uncle Buck](https://drafthouse.com/raleigh/show/uncle-buck): Wed 5/22 (11:00pm)
+
 ### Fri 5/10 2:25pm
 * New movies: Haikyu!! The Dumpster Battle Subtitled, Haikyu!! The Dumpster Battle Dubbed
 
