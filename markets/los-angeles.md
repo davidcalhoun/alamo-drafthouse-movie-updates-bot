@@ -1,6 +1,47 @@
 # los-angeles
 
 ## Movie updates
+### Mon 5/13 3:16pm
+
+* New screenings: 
+    * [Aggro Dr1ft](https://drafthouse.com/los-angeles/show/aggro-dr1ft): Thu 5/16 (9:40pm, 10:40pm)
+
+    * [Back To Black](https://drafthouse.com/los-angeles/show/back-to-black): Thu 5/16 (7:15pm)
+
+    * [Batman](https://drafthouse.com/los-angeles/show/batman): Fri 5/17 (1:40pm), Sat 5/18 (6:00pm), Sun 5/19 (3:40pm), Mon 5/20 (5:50pm), Tue 5/21 (4:00pm), Wed 5/22 (5:30pm)
+
+    * [Challengers](https://drafthouse.com/los-angeles/show/challengers): Thu 5/16 (3:25pm, 6:00pm, 9:20pm), Fri 5/17 (11:40am, 3:40pm, 6:00pm, 9:20pm), Sat 5/18 (11:40am, 3:30pm, 6:00pm, 9:20pm), Sun 5/19 (11:40am, 3:35pm, 6:00pm), Mon 5/20 (11:40am, 3:40pm, 6:00pm, 9:20pm), Tue 5/21 (11:40am, 3:40pm, 6:00pm, 9:20pm), Wed 5/22 (11:40am, 3:30pm, 6:00pm, 9:20pm)
+
+    * [Civil War](https://drafthouse.com/los-angeles/show/civil-war): Thu 5/16 (2:30pm, 10:15pm), Fri 5/17 (4:45pm, 10:40pm), Sat 5/18 (4:25pm, 10:25pm), Sun 5/19 (3:45pm), Mon 5/20 (4:25pm, 10:20pm), Tue 5/21 (4:25pm, 10:20pm), Wed 5/22 (4:15pm, 10:10pm)
+
+    * [Evil Does Not Exist](https://drafthouse.com/los-angeles/show/evil-does-not-exist): Thu 5/16 (3:00pm, 6:45pm, 10:30pm), Fri 5/17 (12:45pm, 3:00pm, 7:00pm, 10:00pm), Sat 5/18 (11:15am, 3:00pm, 7:25pm, 9:45pm), Sun 5/19 (12:40pm, 3:00pm, 7:00pm), Mon 5/20 (12:40pm, 3:00pm, 7:00pm, 10:00pm), Tue 5/21 (12:45pm, 3:00pm, 7:00pm, 10:00pm), Wed 5/22 (11:15am, 3:00pm, 7:15pm, 9:45pm)
+
+    * [If](https://drafthouse.com/los-angeles/show/if): Thu 5/16 (5:00pm, 7:20pm), Fri 5/17 (11:15am, 7:45pm), Sat 5/18 (12:35pm, 6:50pm), Sun 5/19 (12:45pm, 6:45pm), Mon 5/20 (11:00am, 7:25pm), Tue 5/21 (11:00am, 7:25pm), Wed 5/22 (12:30pm, 6:50pm)
+
+    * [Kingdom Of The Planet Of The Apes](https://drafthouse.com/los-angeles/show/kingdom-of-the-planet-of-the-apes): Thu 5/16 (4:00pm, 5:30pm, 9:10pm), Fri 5/17 (1:10pm, 2:10pm, 5:45pm, 9:20pm), Sat 5/18 (12:50pm, 2:10pm, 5:45pm, 9:20pm), Sun 5/19 (12:10pm, 2:10pm, 5:45pm), Mon 5/20 (12:50pm, 1:55pm, 5:30pm, 9:05pm), Tue 5/21 (12:50pm, 1:55pm, 5:30pm, 9:10pm), Wed 5/22 (12:40pm, 2:10pm, 5:45pm, 9:20pm)
+
+    * [Sex Lies And Videotape](https://drafthouse.com/los-angeles/show/sex-lies-and-videotape): Sat 5/18 (4:05pm), Sun 5/19 (11:15am), Mon 5/20 (11:10am), Tue 5/21 (9:15pm), Wed 5/22 (11:00am)
+
+    * [Spider Man Homecoming](https://drafthouse.com/los-angeles/show/spider-man-homecoming): Mon 5/20 (2:25pm, 9:10pm), Tue 5/21 (2:25pm, 5:50pm), Wed 5/22 (11:35am, 4:35pm)
+
+    * [Star Wars The Phantom Menace 25th Anniversary Re Release](https://drafthouse.com/los-angeles/show/star-wars-the-phantom-menace-25th-anniversary-re-release): Thu 5/16 (3:50pm)
+
+    * [Tarot](https://drafthouse.com/los-angeles/show/tarot): Thu 5/16 (3:50pm)
+
+    * [The Amazing Spider Man 2](https://drafthouse.com/los-angeles/show/the-amazing-spider-man-2): Thu 5/16 (3:45pm), Fri 5/17 (6:00pm)
+
+    * [The Burbs](https://drafthouse.com/los-angeles/show/the-burbs): Sat 5/18 (9:20pm), Tue 5/21 (1:00pm), Wed 5/22 (8:50pm)
+
+    * [The Fall Guy](https://drafthouse.com/los-angeles/show/the-fall-guy): Thu 5/16 (3:40pm, 7:00pm, 10:20pm), Fri 5/17 (12:20pm, 3:40pm, 7:00pm, 10:20pm), Sat 5/18 (12:10pm, 3:25pm, 6:40pm, 10:10pm), Sun 5/19 (12:15pm, 3:30pm, 6:50pm), Mon 5/20 (12:20pm, 3:40pm, 7:00pm, 10:20pm), Tue 5/21 (12:20pm, 3:40pm, 7:00pm, 10:20pm), Wed 5/22 (12:20pm, 3:40pm, 7:00pm, 10:20pm)
+
+    * [The Feeling That The Time For Doing Something Has Passed](https://drafthouse.com/los-angeles/show/the-feeling-that-the-time-for-doing-something-has-passed): Thu 5/16 (2:20pm), Sat 5/18 (10:45am), Mon 5/20 (4:35pm)
+
+    * [The Last Stop In Yuma County](https://drafthouse.com/los-angeles/show/the-last-stop-in-yuma-county): Thu 5/16 (3:15pm), Fri 5/17 (11:00am), Sat 5/18 (1:25pm), Mon 5/20 (2:00pm), Wed 5/22 (2:00pm)
+
+    * [The Strangers Chapter 1](https://drafthouse.com/los-angeles/show/the-strangers-chapter-1): Thu 5/16 (8:00pm)
+
+    * [The Wolf House](https://drafthouse.com/los-angeles/show/the-wolf-house): Mon 5/20 (11:50am), Wed 5/22 (3:00pm)
+
 ### Fri 5/10 4:15pm
 
 * New screenings: 
