@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Tue 5/14 11:23am
+* New movies: Inside Out 2, Inside Out 2
+
+* New screenings: 
+    * [Family Party Inside Out 2](https://drafthouse.com/raleigh/show/family-party-inside-out-2): Sun 6/16 (12:00pm)
+
+    * [Inside Out 2](https://drafthouse.com/raleigh/show/inside-out-2): Thu 6/13 (3:00pm, 6:30pm, 9:30pm), Fri 6/14 (5:30pm, 8:30pm), Sat 6/15 (6:00pm), Sun 6/16 (6:00pm)
+
 ### Mon 5/13 5:20pm
 * New movies: Uncle Buck
 
