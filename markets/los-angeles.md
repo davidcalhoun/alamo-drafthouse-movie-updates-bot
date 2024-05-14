@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 5/14 1:18pm
+* New movies: Aggro Dr1ft
+
+* New screenings: 
+    * [Live Q A Aggro Dr1ft](https://drafthouse.com/los-angeles/show/live-q-a-aggro-dr1ft): Fri 5/17 (8:30pm)
+
 ### Tue 5/14 6:18am
 * New movies: Inside Out 2
 
