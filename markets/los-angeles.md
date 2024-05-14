@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 5/14 6:18am
+* New movies: Inside Out 2
+
+* New screenings: 
+    * [Inside Out 2](https://drafthouse.com/los-angeles/show/inside-out-2): Thu 6/13 (3:00pm, 4:45pm, 5:45pm, 7:30pm, 8:30pm, 10:15pm), Fri 6/14 (11:15am, 12:15pm, 2:00pm, 3:00pm, 4:45pm, 5:45pm, 7:30pm, 8:30pm, 10:15pm), Sat 6/15 (11:15am, 12:15pm, 2:00pm, 3:00pm, 4:45pm, 5:45pm, 7:30pm, 8:30pm, 10:15pm), Sun 6/16 (10:45am, 11:45am, 1:30pm, 2:30pm, 4:15pm, 5:15pm, 7:00pm, 8:00pm), Mon 6/17 (11:00am, 1:45pm, 4:30pm, 7:15pm), Tue 6/18 (11:15am, 12:15pm, 2:00pm, 3:00pm, 4:45pm, 5:45pm, 7:30pm, 8:30pm, 10:15pm), Wed 6/19 (11:15am, 12:15pm, 2:00pm, 3:00pm, 4:45pm, 5:45pm, 7:30pm, 8:30pm, 10:15pm), Thu 6/20 (4:45pm, 7:30pm, 10:15pm), Fri 6/21 (11:15am, 4:45pm, 7:30pm, 10:15pm), Sat 6/22 (11:15am, 4:45pm, 7:30pm, 10:15pm), Sun 6/23 (11:15am, 4:45pm, 7:30pm), Mon 6/24 (11:15am, 4:45pm, 7:30pm, 10:15pm), Tue 6/25 (11:15am, 4:45pm, 7:30pm, 10:15pm)
+
 ### Mon 5/13 3:16pm
 
 * New screenings: 
