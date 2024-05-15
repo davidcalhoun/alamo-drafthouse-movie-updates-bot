@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 5/14 10:16pm
+* New movies: Easy Rider
+
+* New screenings: 
+    * [Easy Rider](https://drafthouse.com/los-angeles/show/easy-rider): Fri 6/28 (12:15pm), Tue 7/2 (7:15pm)
+
 ### Tue 5/14 1:18pm
 * New movies: Aggro Dr1ft
 
