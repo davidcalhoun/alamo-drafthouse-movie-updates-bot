@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 5/16 10:15am
+
+* New screenings: 
+    * [Kingdom Of The Planet Of The Apes](https://drafthouse.com/los-angeles/show/kingdom-of-the-planet-of-the-apes): Thu 5/16 (9:50pm)
+
 ### Thu 5/16 8:16am
 * New movies: Bad Boys: Ride or Die
 
