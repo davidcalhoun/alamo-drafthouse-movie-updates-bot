@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 5/16 11:20am
+* New movies: Bad Boys: Ride or Die
+
+* New screenings: 
+    * [Bad Boys Ride Or Die](https://drafthouse.com/raleigh/show/bad-boys-ride-or-die): Thu 6/6 (3:00pm, 6:00pm, 9:00pm), Fri 6/7 (5:00pm, 8:00pm, 11:00pm), Sat 6/8 (5:00pm, 8:00pm), Sun 6/9 (11:00am, 2:00pm, 5:00pm, 8:00pm, 11:00pm)
+
 ### Tue 5/14 5:17pm
 
 * New screenings: 
