@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 5/16 8:16am
+* New movies: Bad Boys: Ride or Die
+
+* New screenings: 
+    * [Bad Boys Ride Or Die](https://drafthouse.com/los-angeles/show/bad-boys-ride-or-die): Thu 6/6 (3:45pm, 7:15pm), Fri 6/7 (12:45pm, 3:50pm, 7:00pm, 10:10pm), Sat 6/8 (12:45pm, 3:50pm, 7:00pm, 10:10pm), Sun 6/9 (12:45pm, 3:50pm, 7:00pm), Mon 6/10 (12:45pm, 3:50pm, 7:15pm, 10:15pm), Tue 6/11 (12:45pm, 7:00pm, 10:10pm), Wed 6/12 (12:45pm, 3:50pm, 7:00pm, 10:10pm)
+
 ### Tue 5/14 10:16pm
 * New movies: Easy Rider
 
