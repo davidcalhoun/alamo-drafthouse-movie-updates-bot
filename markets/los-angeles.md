@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 5/17 6:12pm
+
+* New screenings: 
+    * [The Garfield Movie 2024](https://drafthouse.com/los-angeles/show/the-garfield-movie-2024): Thu 5/23 (2:00pm, 4:50pm), Fri 5/24 (12:15pm, 3:10pm), Sat 5/25 (12:15pm, 3:10pm), Sun 5/26 (12:15pm, 3:10pm), Mon 5/27 (9:00pm), Tue 5/28 (12:15pm, 3:10pm), Wed 5/29 (9:00pm)
+
 ### Thu 5/16 10:15am
 
 * New screenings: 
