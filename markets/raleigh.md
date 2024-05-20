@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 5/20 9:23am
+* New movies: Deadpool & Wolverine
+
+* New screenings: 
+    * [Deadpool And Wolverine](https://drafthouse.com/raleigh/show/deadpool-and-wolverine): Thu 7/25 (3:00pm, 3:30pm, 6:30pm, 7:00pm, 10:00pm, 10:30pm), Fri 7/26 (9:00am, 9:30am, 12:30pm, 1:00pm, 4:00pm, 4:30pm, 7:30pm, 8:00pm, 11:00pm, 11:30pm), Sat 7/27 (9:00am, 9:30am, 12:30pm, 1:00pm, 4:00pm, 4:30pm, 7:30pm, 8:00pm, 11:00pm, 11:30pm), Sun 7/28 (9:00am, 9:30am, 12:30pm, 1:00pm, 4:00pm, 4:30pm, 7:30pm, 8:00pm, 11:00pm, 11:30pm), Mon 7/29 (9:00am, 9:30am, 12:30pm, 1:00pm, 4:00pm, 4:30pm, 7:30pm, 8:00pm, 10:55pm, 11:30pm), Tue 7/30 (9:00am, 9:30am, 12:30pm, 1:00pm, 4:00pm, 4:30pm, 7:30pm, 8:00pm, 10:55pm, 11:30pm), Wed 7/31 (9:00am, 9:30am, 12:30pm, 1:00pm, 4:00pm, 4:30pm, 7:30pm, 8:00pm, 11:00pm, 11:30pm), Thu 8/1 (9:00am, 9:30am, 12:30pm, 1:00pm, 4:00pm, 4:30pm, 7:30pm, 8:00pm, 11:00pm, 11:30pm), Fri 8/2 (9:00am, 12:30pm, 1:00pm, 4:00pm, 4:30pm, 7:30pm, 8:00pm, 11:00pm, 11:30pm), Sat 8/3 (9:00am, 12:30pm, 1:00pm, 4:00pm, 4:30pm, 7:30pm, 8:00pm, 11:00pm, 11:30pm), Sun 8/4 (9:00am, 12:30pm, 1:00pm, 4:00pm, 4:30pm, 7:30pm, 8:00pm, 11:00pm, 11:30pm), Mon 8/5 (9:00am, 12:30pm, 1:00pm, 4:00pm, 4:30pm, 7:30pm, 8:00pm, 11:00pm, 11:30pm), Tue 8/6 (9:00am, 12:30pm, 1:00pm, 4:00pm, 4:30pm, 7:30pm, 8:00pm, 11:00pm, 11:30pm), Wed 8/7 (9:00am, 12:30pm, 1:00pm, 4:00pm, 4:30pm, 7:30pm, 8:00pm, 11:00pm, 11:30pm), Thu 8/8 (9:00am, 12:30pm, 1:00pm, 4:00pm, 4:30pm, 7:30pm, 8:00pm, 11:00pm, 11:30pm)
+
 ### Thu 5/16 11:20am
 * New movies: Bad Boys: Ride or Die
 
