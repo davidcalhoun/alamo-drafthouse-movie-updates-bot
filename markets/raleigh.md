@@ -1,6 +1,46 @@
 # raleigh
 
 ## Movie updates
+### Mon 5/20 3:15pm
+* New movies: In a Violent Nature, Hollywood 90028, Spider-Man: Across the Spider-Verse
+
+* New screenings: 
+    * [Babes](https://drafthouse.com/raleigh/show/babes): Mon 5/27 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Tue 5/28 (12:45pm, 3:45pm, 6:30pm, 9:45pm), Wed 5/29 (12:45pm, 3:45pm, 6:30pm, 9:45pm)
+
+    * [Back To Black](https://drafthouse.com/raleigh/show/back-to-black): Thu 5/23 (12:15pm, 3:45pm, 7:35pm, 10:45pm), Fri 5/24 (12:45pm, 4:15pm, 7:40pm, 11:00pm), Sat 5/25 (12:45pm, 4:15pm, 7:40pm, 11:00pm), Sun 5/26 (12:45pm, 4:15pm, 7:40pm, 11:00pm), Mon 5/27 (12:45pm, 4:15pm, 7:40pm, 11:00pm), Tue 5/28 (12:45pm, 4:15pm, 7:40pm, 11:00pm), Wed 5/29 (12:45pm, 4:15pm, 7:40pm, 11:00pm)
+
+    * [Batman](https://drafthouse.com/raleigh/show/batman): Thu 5/23 (1:00pm)
+
+    * [Challengers](https://drafthouse.com/raleigh/show/challengers): Thu 5/23 (11:15am, 2:45pm, 6:00pm, 9:15pm), Fri 5/24 (12:15pm), Sat 5/25 (12:15pm), Sun 5/26 (12:10pm), Mon 5/27 (12:15pm), Tue 5/28 (12:15pm), Wed 5/29 (12:15pm)
+
+    * [Civil War](https://drafthouse.com/raleigh/show/civil-war): Thu 5/23 (11:30pm), Fri 5/24 (9:15pm), Sat 5/25 (9:00pm), Sun 5/26 (9:30pm), Mon 5/27 (9:15pm), Tue 5/28 (10:00pm), Wed 5/29 (10:00pm)
+
+    * [Furiosa A Mad Max Saga](https://drafthouse.com/raleigh/show/furiosa-a-mad-max-saga): Thu 5/23 (4:30pm, 7:30pm, 8:00pm, 11:00pm), Fri 5/24 (11:00am, 11:30am, 2:30pm, 3:00pm, 6:00pm, 6:30pm, 9:30pm, 10:00pm), Sat 5/25 (11:00am, 11:30am, 2:30pm, 3:00pm, 6:00pm, 6:30pm, 9:30pm, 10:00pm), Sun 5/26 (11:00am, 12:00pm, 1:45pm, 2:45pm, 5:30pm, 6:00pm, 6:30pm, 9:15pm, 10:00pm), Mon 5/27 (11:00am, 11:30am, 12:00pm, 2:30pm, 3:00pm, 3:30pm, 6:30pm, 9:15pm, 10:30pm), Tue 5/28 (11:00am, 11:30am, 12:00pm, 2:30pm, 3:00pm, 3:30pm, 6:00pm, 6:30pm, 7:00pm, 9:30pm, 10:30pm), Wed 5/29 (11:00am, 11:30am, 12:00pm, 2:30pm, 3:00pm, 3:30pm, 6:00pm, 6:30pm, 7:00pm, 9:30pm, 10:30pm)
+
+    * [Hollywood 90028](https://drafthouse.com/raleigh/show/hollywood-90028): Fri 6/14 (9:45pm)
+
+    * [I Saw The Tv Glow](https://drafthouse.com/raleigh/show/i-saw-the-tv-glow): Thu 5/23 (12:00pm, 3:30pm, 6:15pm, 9:00pm), Fri 5/24 (11:15am, 2:00pm, 5:00pm, 8:00pm, 10:45pm), Sat 5/25 (1:00pm, 3:30pm, 6:45pm, 9:30pm), Sun 5/26 (11:15am, 2:00pm, 5:00pm, 8:00pm, 10:45pm), Mon 5/27 (11:15am, 2:00pm, 5:00pm, 8:00pm, 10:45pm), Tue 5/28 (11:15am, 2:00pm, 5:00pm, 8:00pm, 10:45pm), Wed 5/29 (11:15am, 2:00pm, 5:00pm, 8:00pm, 10:45pm)
+
+    * [If](https://drafthouse.com/raleigh/show/if): Thu 5/23 (11:00am, 1:15pm, 1:45pm, 4:00pm, 7:00pm, 10:00pm), Fri 5/24 (11:45am, 3:00pm, 3:30pm, 6:15pm, 9:00pm), Sat 5/25 (11:45am, 3:00pm, 6:15pm, 9:15pm), Sun 5/26 (11:45am, 2:30pm, 3:00pm, 6:15pm, 9:00pm), Mon 5/27 (11:45am, 3:00pm, 6:15pm, 9:00pm), Tue 5/28 (11:45am, 3:15pm, 6:15pm, 9:00pm), Wed 5/29 (11:45am, 3:15pm, 6:15pm, 9:00pm)
+
+    * [Kids Camp Spider Man Across The Spider Verse](https://drafthouse.com/raleigh/show/kids-camp-spider-man-across-the-spider-verse): Mon 6/10 (11:30am)
+
+    * [Kingdom Of The Planet Of The Apes](https://drafthouse.com/raleigh/show/kingdom-of-the-planet-of-the-apes): Thu 5/23 (11:30am, 3:15pm, 6:45pm, 10:15pm), Fri 5/24 (12:30pm, 4:00pm, 7:30pm, 11:00pm), Sat 5/25 (12:30pm, 4:00pm, 7:30pm, 11:00pm), Sun 5/26 (12:30pm, 4:00pm, 7:30pm, 11:00pm), Mon 5/27 (12:30pm, 4:00pm, 7:30pm, 11:00pm), Tue 5/28 (12:30pm, 4:00pm, 7:30pm, 11:00pm), Wed 5/29 (12:30pm, 4:00pm, 7:30pm, 11:00pm)
+
+    * [Sidewalk Stories](https://drafthouse.com/raleigh/show/sidewalk-stories): Tue 5/28 (3:30pm), Wed 5/29 (3:30pm)
+
+    * [Spider Man Homecoming](https://drafthouse.com/raleigh/show/spider-man-homecoming): Thu 5/23 (4:15pm)
+
+    * [Terror Tuesday In A Violent Nature](https://drafthouse.com/raleigh/show/terror-tuesday-in-a-violent-nature): Tue 5/28 (9:30pm)
+
+    * [The Fall Guy](https://drafthouse.com/raleigh/show/the-fall-guy): Thu 5/23 (1:00pm, 4:15pm)
+
+    * [The Garfield Movie 2024](https://drafthouse.com/raleigh/show/the-garfield-movie-2024): Thu 5/23 (5:00pm, 11:00pm), Fri 5/24 (11:30am, 2:30pm, 5:15pm, 6:15pm, 10:45pm), Sat 5/25 (11:30am, 2:30pm, 5:15pm, 6:15pm, 10:45pm), Sun 5/26 (11:00am, 9:30pm), Mon 5/27 (1:00pm, 3:30pm, 3:45pm, 6:15pm, 6:45pm, 10:00pm), Tue 5/28 (11:30am, 3:00pm, 6:15pm, 9:15pm), Wed 5/29 (1:00pm, 3:45pm, 6:15pm, 9:15pm)
+
+    * [The Ministry Of Ungentlemanly Warfare](https://drafthouse.com/raleigh/show/the-ministry-of-ungentlemanly-warfare): Thu 5/23 (12:15pm, 12:30pm)
+
+    * [The Strangers Chapter 1](https://drafthouse.com/raleigh/show/the-strangers-chapter-1): Thu 5/23 (11:15am, 2:15pm, 5:15pm, 8:30pm, 11:15pm), Fri 5/24 (11:45am, 2:45pm, 5:45pm, 8:30pm, 11:15pm), Sat 5/25 (11:45am, 2:45pm, 5:45pm, 8:30pm, 11:15pm), Sun 5/26 (11:45am, 3:25pm, 5:45pm, 8:30pm, 11:15pm), Mon 5/27 (11:45am, 2:45pm, 5:45pm, 8:30pm, 11:15pm), Tue 5/28 (11:45am, 2:45pm, 5:45pm, 8:30pm, 11:15pm), Wed 5/29 (11:45am, 2:45pm, 5:45pm, 8:30pm, 11:15pm)
+
 ### Mon 5/20 9:23am
 * New movies: Deadpool & Wolverine
 
