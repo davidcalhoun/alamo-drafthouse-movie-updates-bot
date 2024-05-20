@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 5/20 6:19am
+* New movies: Deadpool & Wolverine
+
+* New screenings: 
+    * [Deadpool And Wolverine](https://drafthouse.com/los-angeles/show/deadpool-and-wolverine): Thu 7/25 (3:00pm, 3:40pm, 4:20pm, 6:20pm, 7:00pm, 7:40pm, 9:40pm, 10:20pm, 11:00pm), Fri 7/26 (10:20am, 11:20am, 12:20pm, 1:40pm, 2:40pm, 3:40pm, 5:00pm, 6:00pm, 7:00pm, 8:20pm, 9:20pm, 10:20pm), Sat 7/27 (10:20am, 11:20am, 12:20pm, 1:40pm, 2:40pm, 3:40pm, 5:00pm, 6:00pm, 7:00pm, 8:20pm, 9:20pm, 10:20pm), Sun 7/28 (10:20am, 11:20am, 12:20pm, 1:40pm, 2:40pm, 3:40pm, 5:00pm, 6:00pm, 7:00pm, 8:20pm, 9:20pm, 10:20pm), Mon 7/29 (11:00am, 11:40am, 12:20pm, 2:20pm, 3:00pm, 3:40pm, 5:40pm, 6:20pm, 7:00pm, 9:00pm, 9:40pm, 10:20pm), Tue 7/30 (11:00am, 11:40am, 12:20pm, 2:20pm, 3:00pm, 3:40pm, 5:40pm, 6:20pm, 7:00pm, 9:00pm, 9:40pm, 10:20pm), Wed 7/31 (11:00am, 11:40am, 12:20pm, 2:20pm, 3:00pm, 3:40pm, 5:40pm, 6:20pm, 7:00pm, 9:00pm, 9:40pm, 10:20pm), Thu 8/1 (11:00am, 12:20pm, 2:20pm, 3:40pm, 5:40pm, 7:00pm, 9:00pm, 10:20pm), Fri 8/2 (11:00am, 12:20pm, 3:40pm, 5:40pm, 7:00pm, 9:00pm, 10:20pm), Sat 8/3 (11:00am, 12:20pm, 3:40pm, 5:40pm, 7:00pm, 9:00pm, 10:20pm), Sun 8/4 (11:00am, 12:20pm, 3:40pm, 5:40pm, 7:00pm, 9:00pm, 10:20pm), Mon 8/5 (11:00am, 12:20pm, 3:40pm, 5:40pm, 7:00pm, 9:00pm, 10:20pm), Tue 8/6 (11:00am, 12:20pm, 3:40pm, 5:40pm, 7:00pm, 9:00pm, 10:20pm), Wed 8/7 (11:00am, 12:20pm, 3:40pm, 5:40pm, 7:00pm, 9:00pm, 10:20pm)
+
 ### Fri 5/17 6:12pm
 
 * New screenings: 
