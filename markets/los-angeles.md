@@ -1,6 +1,33 @@
 # los-angeles
 
 ## Movie updates
+### Mon 5/20 2:14pm
+
+* New screenings: 
+    * [Babes](https://drafthouse.com/los-angeles/show/babes): Sun 5/26 (10:40pm)
+
+    * [Back To Black](https://drafthouse.com/los-angeles/show/back-to-black): Thu 5/23 (2:45pm, 6:45pm), Fri 5/24 (12:45pm, 2:45pm, 6:50pm), Sat 5/25 (12:45pm, 2:45pm, 6:50pm), Sun 5/26 (12:45pm, 2:45pm, 6:50pm), Mon 5/27 (12:45pm, 2:45pm, 6:50pm), Tue 5/28 (12:50pm, 2:45pm, 7:00pm, 9:35pm), Wed 5/29 (12:45pm, 2:45pm, 6:50pm, 9:35pm)
+
+    * [Challengers](https://drafthouse.com/los-angeles/show/challengers): Thu 5/23 (2:40pm, 6:00pm, 9:35pm), Fri 5/24 (12:00pm, 4:00pm, 6:10pm, 10:10pm), Sat 5/25 (12:40pm, 4:00pm, 7:15pm, 10:25pm), Sun 5/26 (12:40pm, 4:00pm, 7:15pm, 10:10pm), Mon 5/27 (11:20am, 2:40pm, 6:00pm, 10:10pm), Tue 5/28 (11:00am, 3:00pm, 6:25pm, 9:50pm), Wed 5/29 (12:30pm, 3:50pm, 7:10pm, 10:30pm)
+
+    * [Civil War](https://drafthouse.com/los-angeles/show/civil-war): Thu 5/23 (2:00pm)
+
+    * [Evil Does Not Exist](https://drafthouse.com/los-angeles/show/evil-does-not-exist): Thu 5/23 (4:00pm)
+
+    * [Furiosa A Mad Max Saga](https://drafthouse.com/los-angeles/show/furiosa-a-mad-max-saga): Thu 5/23 (3:30pm, 5:00pm, 8:40pm, 9:25pm), Fri 5/24 (12:35pm, 7:15pm), Sat 5/25 (1:25pm, 3:35pm, 5:40pm, 9:20pm), Sun 5/26 (1:20pm, 5:40pm, 9:20pm, 10:00pm), Mon 5/27 (1:00pm), Tue 5/28 (11:20am, 2:20pm, 8:45pm), Wed 5/29 (12:45pm, 10:15pm)
+
+    * [Hit Man](https://drafthouse.com/los-angeles/show/hit-man): Sun 5/26 (9:40pm), Tue 5/28 (12:20pm)
+
+    * [I Saw The Tv Glow](https://drafthouse.com/los-angeles/show/i-saw-the-tv-glow): Thu 5/23 (2:20pm, 5:10pm, 8:00pm, 10:50pm), Fri 5/24 (1:10pm, 3:20pm, 7:25pm, 10:55pm), Sat 5/25 (10:45am, 2:50pm, 6:40pm, 10:35pm), Sun 5/26 (10:50am, 1:40pm, 4:30pm, 7:25pm, 10:35pm), Mon 5/27 (12:50pm, 4:35pm, 7:25pm, 10:45pm), Tue 5/28 (1:10pm, 5:10pm, 8:00pm, 10:35pm), Wed 5/29 (11:00am, 1:50pm, 4:30pm, 7:25pm, 11:00pm)
+
+    * [If](https://drafthouse.com/los-angeles/show/if): Thu 5/23 (3:50pm, 6:20pm, 9:35pm), Fri 5/24 (12:00pm, 4:00pm, 6:40pm, 10:05pm), Sat 5/25 (12:00pm, 4:00pm, 7:25pm, 10:05pm), Sun 5/26 (12:00pm, 4:00pm, 6:40pm, 10:05pm), Mon 5/27 (12:00pm, 4:00pm, 6:40pm, 10:05pm), Tue 5/28 (12:10pm, 4:10pm, 6:45pm, 10:50pm), Wed 5/29 (12:00pm, 4:00pm, 6:40pm, 10:05pm)
+
+    * [Kingdom Of The Planet Of The Apes](https://drafthouse.com/los-angeles/show/kingdom-of-the-planet-of-the-apes): Thu 5/23 (2:45pm, 6:00pm, 9:20pm), Fri 5/24 (11:10am, 3:00pm, 6:00pm, 9:45pm), Sat 5/25 (11:10am, 3:00pm, 6:00pm, 9:25pm), Sun 5/26 (11:10am, 3:00pm, 6:00pm, 9:45pm), Mon 5/27 (11:10am, 3:00pm, 6:00pm, 9:40pm), Tue 5/28 (11:10am, 3:10pm, 6:00pm, 9:45pm), Wed 5/29 (11:10am, 3:00pm, 6:00pm, 9:45pm)
+
+    * [The Fall Guy](https://drafthouse.com/los-angeles/show/the-fall-guy): Thu 5/23 (3:00pm, 6:15pm, 10:00pm), Fri 5/24 (12:20pm, 3:40pm, 7:00pm, 10:20pm), Sat 5/25 (12:20pm, 3:40pm, 7:00pm, 10:20pm), Sun 5/26 (12:20pm, 3:40pm, 7:00pm, 10:20pm), Mon 5/27 (12:20pm, 3:40pm, 7:00pm, 10:20pm), Tue 5/28 (12:20pm, 3:40pm, 7:00pm, 10:20pm), Wed 5/29 (12:20pm, 3:40pm, 7:00pm, 10:20pm)
+
+    * [The Strangers Chapter 1](https://drafthouse.com/los-angeles/show/the-strangers-chapter-1): Thu 5/23 (2:00pm, 4:40pm, 7:30pm, 10:10pm), Fri 5/24 (11:35am, 2:15pm, 4:55pm, 7:35pm, 10:15pm), Sat 5/25 (1:00pm, 5:00pm, 7:35pm, 10:15pm), Sun 5/26 (10:45am, 3:00pm, 5:00pm, 7:35pm, 10:15pm), Mon 5/27 (11:35am, 2:15pm, 4:55pm, 7:35pm, 10:15pm), Tue 5/28 (11:45am, 2:25pm, 6:25pm, 10:15pm), Wed 5/29 (11:35am, 2:15pm, 4:55pm, 7:35pm, 10:15pm)
+
 ### Mon 5/20 6:19am
 * New movies: Deadpool & Wolverine
 
