@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Mon 5/20 4:20pm
+* New movies: Matilda
+
+* New screenings: 
+    * [Deadpool And Wolverine](https://drafthouse.com/raleigh/show/deadpool-and-wolverine): Mon 7/29 (9:30am), Mon 8/5 (9:30am)
+
+    * [Kids Camp Matilda](https://drafthouse.com/raleigh/show/kids-camp-matilda): Mon 8/12 (11:30am)
+
 ### Mon 5/20 3:15pm
 * New movies: In a Violent Nature, Hollywood 90028, Spider-Man: Across the Spider-Verse
 
