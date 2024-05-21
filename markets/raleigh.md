@@ -1,6 +1,34 @@
 # raleigh
 
 ## Movie updates
+### Tue 5/21 11:21am
+* New movies: Ghost in the Shell 2: Innocence Subtitled, An American Tail: Fievel Goes West, Despicable Me, E.T. the Extra-Terrestrial, Hotel Transylvania 3: Summer Vacation, Minions, Peter Pan 2003, Quest for Camelot, The Land Before Time, The Lorax 2012, The Muppets Take Manhattan
+
+* New screenings: 
+    * [Ghost In The Shell 2 Innocence Subtitled](https://drafthouse.com/raleigh/show/ghost-in-the-shell-2-innocence-subtitled): Sun 6/23 (2:30pm)
+
+    * [Kids Camp An American Tail Fievel Goes West](https://drafthouse.com/raleigh/show/kids-camp-an-american-tail-fievel-goes-west): Mon 7/1 (11:30am)
+
+    * [Kids Camp Despicable Me](https://drafthouse.com/raleigh/show/kids-camp-despicable-me): Mon 6/3 (11:30am)
+
+    * [Kids Camp E T The Extra Terrestrial](https://drafthouse.com/raleigh/show/kids-camp-e-t-the-extra-terrestrial): Mon 7/15 (11:30am)
+
+    * [Kids Camp Hotel Transylvania 3 Summer Vacation](https://drafthouse.com/raleigh/show/kids-camp-hotel-transylvania-3-summer-vacation): Mon 7/8 (11:30am)
+
+    * [Kids Camp Minions](https://drafthouse.com/raleigh/show/kids-camp-minions): Mon 6/24 (11:30am)
+
+    * [Kids Camp Peter Pan 2003](https://drafthouse.com/raleigh/show/kids-camp-peter-pan-2003): Mon 8/5 (10:00am)
+
+    * [Kids Camp Quest For Camelot](https://drafthouse.com/raleigh/show/kids-camp-quest-for-camelot): Fri 8/30 (11:30am)
+
+    * [Kids Camp Spider Man Across The Spider Verse](https://drafthouse.com/raleigh/show/kids-camp-spider-man-across-the-spider-verse): Mon 6/17 (11:30am)
+
+    * [Kids Camp The Land Before Time](https://drafthouse.com/raleigh/show/kids-camp-the-land-before-time): Mon 7/29 (10:00am)
+
+    * [Kids Camp The Lorax 2012](https://drafthouse.com/raleigh/show/kids-camp-the-lorax-2012): Mon 7/22 (11:30am)
+
+    * [Kids Camp The Muppets Take Manhattan](https://drafthouse.com/raleigh/show/kids-camp-the-muppets-take-manhattan): Mon 8/26 (11:30am)
+
 ### Mon 5/20 4:20pm
 * New movies: Matilda
 
