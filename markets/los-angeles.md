@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 5/21 7:29pm
+
+* New screenings: 
+    * [Back To Black](https://drafthouse.com/los-angeles/show/back-to-black): Fri 5/24 (6:45pm)
+
 ### Mon 5/20 2:14pm
 
 * New screenings: 
