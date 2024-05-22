@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 5/22 9:22am
+* New movies: The Watchers
+
+* New screenings: 
+    * [The Watchers](https://drafthouse.com/los-angeles/show/the-watchers): Thu 6/6 (4:35pm, 7:30pm, 10:25pm), Fri 6/7 (11:00am, 1:50pm, 4:45pm, 7:45pm, 10:40pm), Sat 6/8 (11:00am, 1:50pm, 4:45pm, 7:45pm, 10:40pm), Sun 6/9 (11:00am, 1:50pm, 4:45pm, 7:45pm), Mon 6/10 (11:00am, 1:50pm, 4:45pm, 7:45pm, 10:40pm), Tue 6/11 (11:00am, 1:50pm, 4:45pm, 7:45pm, 10:40pm), Wed 6/12 (11:00am, 1:50pm, 4:45pm, 7:45pm, 10:40pm)
+
 ### Tue 5/21 7:29pm
 
 * New screenings: 
