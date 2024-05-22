@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Wed 5/22 11:22am
+
+* New screenings: 
+    * [Its Such A Beautiful Day Me](https://drafthouse.com/raleigh/show/its-such-a-beautiful-day-me): Sat 6/1 (12:15pm, 2:45pm, 5:15pm)
+
 ### Tue 5/21 11:21am
 * New movies: Ghost in the Shell 2: Innocence Subtitled, An American Tail: Fievel Goes West, Despicable Me, E.T. the Extra-Terrestrial, Hotel Transylvania 3: Summer Vacation, Minions, Peter Pan 2003, Quest for Camelot, The Land Before Time, The Lorax 2012, The Muppets Take Manhattan
 
