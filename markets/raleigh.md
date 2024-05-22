@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 5/22 12:26pm
+* New movies: The Watchers
+
+* New screenings: 
+    * [The Watchers](https://drafthouse.com/raleigh/show/the-watchers): Thu 6/6 (3:30pm, 6:30pm, 9:30pm), Fri 6/7 (6:30pm, 9:30pm), Sat 6/8 (6:30pm, 9:30pm), Sun 6/9 (6:30pm, 9:30pm)
+
 ### Wed 5/22 11:22am
 
 * New screenings: 
