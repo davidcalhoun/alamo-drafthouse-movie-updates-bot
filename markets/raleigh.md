@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Wed 5/22 3:16pm
+* New movies: Backspot
+
+* New screenings: 
+    * [Backspot](https://drafthouse.com/raleigh/show/backspot): Sat 6/1 (4:45pm), Tue 6/4 (3:30pm)
+
+    * [If](https://drafthouse.com/raleigh/show/if): Tue 5/28 (6:15pm)
+
+    * [Its Such A Beautiful Day Me](https://drafthouse.com/raleigh/show/its-such-a-beautiful-day-me): Fri 5/31 (2:45pm)
+
 ### Wed 5/22 12:26pm
 * New movies: The Watchers
 
