@@ -1,6 +1,44 @@
 # los-angeles
 
 ## Movie updates
+### Thu 5/23 3:18am
+* New movies: Deep Red, Cora Bora, An American Tail: Fievel Goes West, Despicable Me, E.T. the Extra-Terrestrial, Hotel Transylvania 3: Summer Vacation, Matilda, Minions, Peter Pan 2003, Quest for Camelot, Spider-Man: Across the Spider-Verse, Spider-Man: Into the Spider-Verse, The Land Before Time, The Lorax 2012, The Muppets Take Manhattan, The Neverending Story, Wicked City
+
+* New screenings: 
+    * [Deep Red](https://drafthouse.com/los-angeles/show/deep-red): Fri 6/21 (4:00pm), Wed 6/26 (7:15pm)
+
+    * [Kids Camp An American Tail Fievel Goes West](https://drafthouse.com/los-angeles/show/kids-camp-an-american-tail-fievel-goes-west): Mon 7/1 (12:30pm)
+
+    * [Kids Camp Despicable Me](https://drafthouse.com/los-angeles/show/kids-camp-despicable-me): Mon 6/3 (11:00am)
+
+    * [Kids Camp E T The Extra Terrestrial](https://drafthouse.com/los-angeles/show/kids-camp-e-t-the-extra-terrestrial): Mon 7/15 (12:00pm)
+
+    * [Kids Camp Hotel Transylvania 3 Summer Vacation](https://drafthouse.com/los-angeles/show/kids-camp-hotel-transylvania-3-summer-vacation): Mon 7/8 (12:15pm)
+
+    * [Kids Camp Matilda](https://drafthouse.com/los-angeles/show/kids-camp-matilda): Mon 8/12 (12:15pm)
+
+    * [Kids Camp Minions](https://drafthouse.com/los-angeles/show/kids-camp-minions): Mon 6/24 (12:30pm)
+
+    * [Kids Camp Peter Pan 2003](https://drafthouse.com/los-angeles/show/kids-camp-peter-pan-2003): Mon 8/5 (12:00pm)
+
+    * [Kids Camp Quest For Camelot](https://drafthouse.com/los-angeles/show/kids-camp-quest-for-camelot): Fri 8/30 (12:30pm)
+
+    * [Kids Camp Spider Man Across The Spider Verse](https://drafthouse.com/los-angeles/show/kids-camp-spider-man-across-the-spider-verse): Mon 6/17 (11:00am)
+
+    * [Kids Camp Spider Man Into The Spider Verse](https://drafthouse.com/los-angeles/show/kids-camp-spider-man-into-the-spider-verse): Mon 6/10 (12:00pm)
+
+    * [Kids Camp The Land Before Time](https://drafthouse.com/los-angeles/show/kids-camp-the-land-before-time): Mon 7/29 (11:00am)
+
+    * [Kids Camp The Lorax 2012](https://drafthouse.com/los-angeles/show/kids-camp-the-lorax-2012): Mon 7/22 (12:30pm)
+
+    * [Kids Camp The Muppets Take Manhattan](https://drafthouse.com/los-angeles/show/kids-camp-the-muppets-take-manhattan): Mon 8/26 (12:15pm)
+
+    * [Kids Camp The Neverending Story](https://drafthouse.com/los-angeles/show/kids-camp-the-neverending-story): Mon 8/19 (12:00pm)
+
+    * [Live Q A Cora Bora](https://drafthouse.com/los-angeles/show/live-q-a-cora-bora): Tue 6/18 (7:15pm)
+
+    * [Wicked City](https://drafthouse.com/los-angeles/show/wicked-city): Fri 6/14 (4:40pm), Wed 6/19 (6:00pm)
+
 ### Wed 5/22 9:22am
 * New movies: The Watchers
 
