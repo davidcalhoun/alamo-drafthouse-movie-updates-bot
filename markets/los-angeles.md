@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 5/23 4:18pm
+
+* New screenings: 
+    * [Furiosa A Mad Max Saga](https://drafthouse.com/los-angeles/show/furiosa-a-mad-max-saga): Fri 5/24 (9:35pm), Sat 5/25 (9:35pm), Sun 5/26 (9:35pm), Mon 5/27 (9:35pm)
+
 ### Thu 5/23 3:18am
 * New movies: Deep Red, Cora Bora, An American Tail: Fievel Goes West, Despicable Me, E.T. the Extra-Terrestrial, Hotel Transylvania 3: Summer Vacation, Matilda, Minions, Peter Pan 2003, Quest for Camelot, Spider-Man: Across the Spider-Verse, Spider-Man: Into the Spider-Verse, The Land Before Time, The Lorax 2012, The Muppets Take Manhattan, The Neverending Story, Wicked City
 
