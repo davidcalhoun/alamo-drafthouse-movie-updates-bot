@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 5/24 3:15pm
+
+* New screenings: 
+    * [Back To Black](https://drafthouse.com/los-angeles/show/back-to-black): Fri 5/24 (6:45pm)
+
 ### Thu 5/23 11:23pm
 * New movies: Deadpool & Wolverine, Inside Out 2, IF, The Bikeriders, Steel Magnolias, The Twilight Saga: Breaking Dawn - Part 2, Cora Bora, Society, UHF, E.T. the Extra-Terrestrial, The Birdcage
 
