@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Thu 5/23 9:20pm
+* New movies: 2D DEADPOOL & WOLVERINE, 2D INSIDE OUT 2, IF, THE BIKERIDERS, 3D DEADPOOL & WOLVERINE, 3D INSIDE OUT 2, 3D THE GARFIELD MOVIE 2024, Open Caption: DEADPOOL & WOLVERINE, STEEL MAGNOLIAS, Open Caption: FURIOSA: A MAD MAX SAGA, Open Caption: INSIDE OUT 2, THE TWILIGHT SAGA: BREAKING DAWN - PART 2, UHF, Brunch Screenings: THE BIRDCAGE Brunch, CORA BORA with Live Q&A with Actor Meg Stalter, E.T. THE EXTRA-TERRESTRIAL, Open Caption: BABES, Open Caption: THE GARFIELD MOVIE 2024, Open Caption: THE WATCHERS, SOCIETY with Live Q&A with Director Brian Yuzna, THE BIKERIDERS with Livestream Q&A with Actor Jodie Comer, Actor Austin Butler
+
+* New screenings: 
+    * [2d Inside Out 2](https://drafthouse.com/los-angeles/show/2d-inside-out-2): Thu 6/20 (11:15am)
+
+    * [3d Inside Out 2](https://drafthouse.com/los-angeles/show/3d-inside-out-2): Thu 6/20 (2:00pm)
+
+    * [The Bikerider](https://drafthouse.com/los-angeles/show/the-bikerider): Thu 6/20 (3:20pm, 6:30pm, 9:40pm), Fri 6/21 (12:10pm, 3:20pm, 6:30pm, 9:40pm), Sat 6/22 (12:10pm, 3:20pm, 9:40pm), Sun 6/23 (12:10pm, 3:20pm, 6:30pm), Mon 6/24 (12:10pm, 3:20pm, 6:30pm, 9:40pm), Tue 6/25 (12:10pm, 3:20pm, 6:30pm, 9:40pm)
+
+    * [The Bikeriders With Livestream Qa With Actor Jodie Comer Actor Austin Butle](https://drafthouse.com/los-angeles/show/the-bikeriders-with-livestream-qa-with-actor-jodie-comer-actor-austin-butle): Wed 6/19 (5:00pm)
+
 ### Thu 5/23 4:18pm
 
 * New screenings: 
