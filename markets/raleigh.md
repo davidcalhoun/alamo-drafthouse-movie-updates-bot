@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 5/24 12:25am
+* New movies: 2D DEADPOOL & WOLVERINE, IF, 3D DEADPOOL & WOLVERINE, 2D INSIDE OUT 2, CIVIL WAR, 3D INSIDE OUT 2, STEEL MAGNOLIAS, THE TWILIGHT SAGA: BREAKING DAWN - PART 2, UHF, Brunch Screenings: THE ADVENTURES OF PRISCILLA, QUEEN OF THE DESERT Brunch, Brunch Screenings: THE BIRDCAGE Brunch, INSIDE OUT 2 Family Party, E.T. THE EXTRA-TERRESTRIAL
+
+
+
 ### Wed 5/22 3:16pm
 * New movies: Backspot
 
