@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 5/23 11:23pm
+* New movies: Deadpool & Wolverine, Inside Out 2, IF, The Bikeriders, Steel Magnolias, The Twilight Saga: Breaking Dawn - Part 2, Cora Bora, Society, UHF, E.T. the Extra-Terrestrial, The Birdcage
+
+
+
 ### Thu 5/23 9:20pm
 * New movies: 2D DEADPOOL & WOLVERINE, 2D INSIDE OUT 2, IF, THE BIKERIDERS, 3D DEADPOOL & WOLVERINE, 3D INSIDE OUT 2, 3D THE GARFIELD MOVIE 2024, Open Caption: DEADPOOL & WOLVERINE, STEEL MAGNOLIAS, Open Caption: FURIOSA: A MAD MAX SAGA, Open Caption: INSIDE OUT 2, THE TWILIGHT SAGA: BREAKING DAWN - PART 2, UHF, Brunch Screenings: THE BIRDCAGE Brunch, CORA BORA with Live Q&A with Actor Meg Stalter, E.T. THE EXTRA-TERRESTRIAL, Open Caption: BABES, Open Caption: THE GARFIELD MOVIE 2024, Open Caption: THE WATCHERS, SOCIETY with Live Q&A with Director Brian Yuzna, THE BIKERIDERS with Livestream Q&A with Actor Jodie Comer, Actor Austin Butler
 
