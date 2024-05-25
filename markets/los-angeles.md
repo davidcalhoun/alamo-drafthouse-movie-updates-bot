@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 5/24 9:18pm
+
+* New screenings: 
+    * [Fantastic Fest Presents In A Violent Nature Early Access](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-in-a-violent-nature-early-access): Tue 5/28 (9:35pm)
+
 ### Fri 5/24 3:15pm
 
 * New screenings: 
