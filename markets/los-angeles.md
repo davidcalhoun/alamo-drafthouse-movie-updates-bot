@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Sun 5/26 5:29am
+* New movies: The Bikeriders, The Bikeriders, The Bikeriders
+
+* New screenings: 
+    * [Livestream Q A The Bikeriders](https://drafthouse.com/los-angeles/show/livestream-q-a-the-bikeriders): Wed 6/19 (5:00pm)
+
+    * [Special Event The Bikeriders Motorcycle Club Screening](https://drafthouse.com/los-angeles/show/special-event-the-bikeriders-motorcycle-club-screening): Sat 6/22 (6:30pm)
+
+    * [The Bikeriders](https://drafthouse.com/los-angeles/show/the-bikeriders): Thu 6/20 (3:20pm, 6:30pm, 9:40pm), Fri 6/21 (12:10pm, 3:20pm, 6:30pm, 9:40pm), Sat 6/22 (12:10pm, 3:20pm, 9:40pm), Sun 6/23 (12:10pm, 3:20pm, 6:30pm), Mon 6/24 (12:10pm, 3:20pm, 6:30pm, 9:40pm), Tue 6/25 (12:10pm, 3:20pm, 6:30pm, 9:40pm)
+
 ### Fri 5/24 9:18pm
 
 * New screenings: 
