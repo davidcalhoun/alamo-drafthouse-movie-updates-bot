@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Sun 5/26 4:19pm
+
+* New screenings: 
+    * [Babes](https://drafthouse.com/raleigh/show/babes): Mon 5/27 (6:30pm)
+
 ### Sun 5/26 8:34am
 * New movies: The Bikeriders
 
