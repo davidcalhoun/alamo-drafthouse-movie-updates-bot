@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Sun 5/26 8:34am
+* New movies: The Bikeriders
+
+* New screenings: 
+    * [The Bikeriders](https://drafthouse.com/raleigh/show/the-bikeriders): Thu 6/20 (2:00pm, 5:05pm, 8:15pm, 11:15pm), Fri 6/21 (8:00pm, 11:00pm), Sat 6/22 (8:00pm), Sun 6/23 (8:00pm)
+
 ### Fri 5/24 8:37am
 * New movies: Deadpool & Wolverine, IF, Inside Out 2, Civil War, Steel Magnolias, The Twilight Saga: Breaking Dawn - Part 2, UHF, Inside Out 2, E.T. the Extra-Terrestrial, The Birdcage, The Adventures of Priscilla, Queen of the Desert
 
