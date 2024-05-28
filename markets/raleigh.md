@@ -1,6 +1,48 @@
 # raleigh
 
 ## Movie updates
+### Tue 5/28 3:16pm
+* New movies: Back to the Future
+
+* New screenings: 
+    * [Babes](https://drafthouse.com/raleigh/show/babes): Thu 5/30 (12:45pm, 3:45pm, 6:30pm, 9:45pm), Fri 5/31 (1:00pm, 3:45pm, 6:55pm, 9:45pm), Sat 6/1 (1:00pm, 3:45pm, 6:30pm, 9:40pm), Sun 6/2 (1:00pm, 3:45pm, 6:30pm, 9:45pm), Mon 6/3 (1:00pm, 3:45pm, 6:30pm, 9:45pm), Tue 6/4 (1:00pm, 3:45pm, 6:45pm, 9:45pm), Wed 6/5 (12:50pm, 3:35pm, 6:45pm, 9:45pm)
+
+    * [Back To Black](https://drafthouse.com/raleigh/show/back-to-black): Thu 5/30 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Fri 5/31 (11:00am), Sat 6/1 (11:00am), Sun 6/2 (12:15pm), Mon 6/3 (12:15pm), Tue 6/4 (12:15pm), Wed 6/5 (12:15pm)
+
+    * [Back To The Future](https://drafthouse.com/raleigh/show/back-to-the-future): Sun 6/2 (12:30pm)
+
+    * [Back To The Future Part Ii](https://drafthouse.com/raleigh/show/back-to-the-future-part-ii): Fri 5/31 (11:30am), Sat 6/1 (2:00pm), Mon 6/3 (3:45pm), Wed 6/5 (11:30am, 3:45pm)
+
+    * [Challengers](https://drafthouse.com/raleigh/show/challengers): Thu 5/30 (12:30pm)
+
+    * [Civil War](https://drafthouse.com/raleigh/show/civil-war): Thu 5/30 (10:00pm)
+
+    * [Drugstore Cowboy](https://drafthouse.com/raleigh/show/drugstore-cowboy): Mon 6/3 (2:30pm)
+
+    * [Furiosa A Mad Max Saga](https://drafthouse.com/raleigh/show/furiosa-a-mad-max-saga): Thu 5/30 (11:00am, 11:30am, 12:00pm, 2:30pm, 3:00pm, 3:30pm, 6:00pm, 6:30pm, 7:00pm, 9:30pm, 10:30pm), Fri 5/31 (11:00am, 12:00pm, 2:30pm, 3:30pm, 6:00pm, 6:30pm, 10:30pm), Sat 6/1 (11:50am, 2:30pm, 3:30pm, 6:00pm, 7:00pm, 9:30pm, 10:30pm), Sun 6/2 (11:00am, 2:30pm, 3:15pm, 6:00pm, 7:00pm, 9:30pm, 10:30pm), Mon 6/3 (11:00am, 12:00pm, 3:30pm, 7:00pm, 9:45pm, 10:30pm), Tue 6/4 (11:00am, 12:00pm, 2:30pm, 3:30pm, 6:00pm, 7:00pm, 9:30pm, 10:30pm), Wed 6/5 (11:00am, 12:00pm, 2:30pm, 6:00pm, 9:45pm, 10:30pm)
+
+    * [Haikyu The Dumpster Battle Dubbed](https://drafthouse.com/raleigh/show/haikyu-the-dumpster-battle-dubbed): Mon 6/3 (2:30pm, 7:30pm), Tue 6/4 (2:30pm, 7:45pm), Wed 6/5 (2:30pm, 7:45pm)
+
+    * [Haikyu The Dumpster Battle Subtitled](https://drafthouse.com/raleigh/show/haikyu-the-dumpster-battle-subtitled): Mon 6/3 (11:45am, 5:00pm, 10:15pm), Tue 6/4 (11:45am, 5:05pm, 10:15pm), Wed 6/5 (11:45am, 5:05pm, 10:15pm)
+
+    * [I Saw The Tv Glow](https://drafthouse.com/raleigh/show/i-saw-the-tv-glow): Thu 5/30 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Fri 5/31 (11:15am, 1:55pm, 4:35pm, 7:15pm, 10:30pm), Sat 6/1 (11:30am, 2:15pm, 5:15pm, 8:00pm, 10:45pm), Sun 6/2 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:30pm), Mon 6/3 (11:15am, 2:00pm, 4:45pm, 7:45pm, 10:30pm), Tue 6/4 (11:15am, 2:00pm, 4:45pm, 7:45pm, 10:30pm), Wed 6/5 (11:15am, 2:00pm, 4:45pm, 7:45pm, 10:30pm)
+
+    * [If](https://drafthouse.com/raleigh/show/if): Thu 5/30 (11:45am, 3:15pm, 6:15pm, 9:00pm), Fri 5/31 (12:05pm, 3:15pm, 6:15pm, 9:00pm), Sat 6/1 (11:45am, 3:00pm, 6:15pm, 9:15pm), Sun 6/2 (11:45am, 3:00pm, 6:05pm, 9:00pm), Mon 6/3 (12:15pm, 3:15pm, 6:15pm, 9:00pm), Tue 6/4 (12:15pm, 3:00pm, 6:10pm, 9:00pm), Wed 6/5 (12:15pm, 3:15pm, 6:05pm, 9:00pm)
+
+    * [In A Violent Nature](https://drafthouse.com/raleigh/show/in-a-violent-nature): Fri 5/31 (9:30pm), Sun 6/2 (6:45pm), Mon 6/3 (5:15pm, 7:50pm, 9:30pm), Tue 6/4 (6:45pm, 9:45pm), Wed 6/5 (6:45pm, 9:45pm)
+
+    * [Its Such A Beautiful Day Me](https://drafthouse.com/raleigh/show/its-such-a-beautiful-day-me): Fri 5/31 (3:00pm), Sat 6/1 (11:30am, 5:00pm, 7:30pm, 9:45pm), Sun 6/2 (3:50pm), Mon 6/3 (3:00pm, 6:45pm), Tue 6/4 (3:45pm), Wed 6/5 (6:30pm)
+
+    * [Kingdom Of The Planet Of The Apes](https://drafthouse.com/raleigh/show/kingdom-of-the-planet-of-the-apes): Thu 5/30 (12:30pm, 4:00pm, 7:30pm, 11:00pm), Fri 5/31 (12:30pm, 4:00pm, 7:30pm, 11:00pm), Sat 6/1 (12:30pm, 4:00pm, 7:30pm, 11:00pm), Sun 6/2 (11:30am, 3:30pm, 7:15pm, 10:45pm), Mon 6/3 (12:30pm, 4:00pm, 7:30pm, 11:00pm), Tue 6/4 (12:30pm, 4:00pm, 7:30pm, 11:00pm), Wed 6/5 (12:30pm, 4:00pm, 7:30pm, 11:00pm)
+
+    * [Spider Man No Way Home Rerelease](https://drafthouse.com/raleigh/show/spider-man-no-way-home-rerelease): Tue 6/4 (11:30am), Wed 6/5 (2:45pm)
+
+    * [Tetsuo The Iron Man](https://drafthouse.com/raleigh/show/tetsuo-the-iron-man): Sun 6/2 (9:45pm)
+
+    * [The Garfield Movie 2024](https://drafthouse.com/raleigh/show/the-garfield-movie-2024): Thu 5/30 (11:30am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Fri 5/31 (11:30am, 2:15pm, 5:05pm, 7:55pm, 10:45pm), Sat 6/1 (11:15am, 2:00pm, 4:45pm, 7:45pm, 10:30pm), Sun 6/2 (11:30am, 2:15pm, 5:15pm, 8:00pm, 10:45pm), Mon 6/3 (11:30am, 2:15pm, 5:15pm, 8:00pm, 10:45pm), Tue 6/4 (11:30am, 2:15pm, 5:15pm, 8:00pm, 10:45pm), Wed 6/5 (11:30am, 2:15pm, 5:15pm, 8:00pm, 10:45pm)
+
+    * [The Strangers Chapter 1](https://drafthouse.com/raleigh/show/the-strangers-chapter-1): Thu 5/30 (11:45am, 2:45pm, 5:30pm, 8:15pm, 11:00pm), Fri 5/31 (12:40pm, 3:15pm, 6:00pm, 8:45pm, 11:45pm), Sat 6/1 (11:00am, 1:45pm, 3:45pm, 6:45pm, 10:10pm), Sun 6/2 (12:45pm, 3:20pm, 6:15pm, 9:15pm), Mon 6/3 (12:45pm, 3:20pm, 6:15pm, 9:15pm), Tue 6/4 (12:45pm, 3:40pm, 6:15pm, 9:15pm), Wed 6/5 (12:45pm, 3:40pm, 6:15pm, 9:15pm)
+
 ### Sun 5/26 4:19pm
 
 * New screenings: 
