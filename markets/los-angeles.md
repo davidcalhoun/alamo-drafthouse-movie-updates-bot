@@ -1,6 +1,43 @@
 # los-angeles
 
 ## Movie updates
+### Tue 5/28 3:15pm
+
+* New screenings: 
+    * [Babes](https://drafthouse.com/los-angeles/show/babes): Thu 5/30 (3:20pm, 6:15pm, 9:10pm), Fri 5/31 (12:25pm, 3:20pm, 6:15pm, 9:10pm), Sat 6/1 (3:20pm, 6:15pm, 9:10pm), Sun 6/2 (3:20pm, 6:15pm), Mon 6/3 (12:25pm, 3:20pm, 6:15pm, 9:10pm), Tue 6/4 (12:25pm, 3:20pm, 6:15pm, 9:10pm), Wed 6/5 (12:25pm, 3:20pm, 6:15pm, 9:10pm)
+
+    * [Back To Black](https://drafthouse.com/los-angeles/show/back-to-black): Thu 5/30 (2:25pm)
+
+    * [Back To The Future Part Ii](https://drafthouse.com/los-angeles/show/back-to-the-future-part-ii): Tue 6/4 (12:20pm)
+
+    * [Brunch Screenings Babes Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-babes-brunch): Sat 6/1 (12:25pm), Sun 6/2 (12:25pm)
+
+    * [Challengers](https://drafthouse.com/los-angeles/show/challengers): Thu 5/30 (3:30pm, 6:50pm, 10:10pm), Fri 5/31 (12:10pm, 3:30pm, 6:50pm, 10:10pm), Sat 6/1 (12:10pm, 3:30pm, 6:50pm, 10:10pm), Sun 6/2 (12:00pm, 3:25pm, 6:50pm), Mon 6/3 (12:10pm, 3:30pm, 6:50pm, 10:10pm), Tue 6/4 (12:10pm, 3:30pm, 6:50pm, 10:10pm), Wed 6/5 (12:10pm, 3:30pm, 6:50pm, 10:10pm)
+
+    * [Drugstore Cowboy](https://drafthouse.com/los-angeles/show/drugstore-cowboy): Fri 5/31 (11:10am), Mon 6/3 (11:10am)
+
+    * [Furiosa A Mad Max Saga](https://drafthouse.com/los-angeles/show/furiosa-a-mad-max-saga): Thu 5/30 (3:15pm, 5:40pm, 9:20pm), Fri 5/31 (2:00pm, 5:40pm, 9:20pm), Sat 6/1 (12:50pm, 5:45pm), Sun 6/2 (12:50pm), Mon 6/3 (5:45pm), Tue 6/4 (4:20pm, 8:45pm), Wed 6/5 (1:40pm)
+
+    * [Hit Man](https://drafthouse.com/los-angeles/show/hit-man): Thu 5/30 (4:15pm, 7:20pm, 10:25pm), Fri 5/31 (12:50pm, 3:55pm, 7:00pm, 10:00pm), Sat 6/1 (12:45pm, 3:50pm, 7:00pm, 10:00pm), Sun 6/2 (12:45pm, 3:50pm, 7:00pm), Mon 6/3 (12:50pm, 3:55pm, 7:00pm, 10:00pm), Tue 6/4 (12:50pm, 3:55pm, 7:00pm, 10:00pm), Wed 6/5 (12:50pm, 3:55pm, 7:00pm, 10:00pm)
+
+    * [I Saw The Tv Glow](https://drafthouse.com/los-angeles/show/i-saw-the-tv-glow): Thu 5/30 (2:30pm, 5:15pm, 8:00pm, 10:45pm), Fri 5/31 (11:40am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Sat 6/1 (11:40am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Sun 6/2 (11:10am, 2:00pm, 4:45pm, 7:30pm), Mon 6/3 (11:40am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Tue 6/4 (11:40am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Wed 6/5 (11:40am, 2:30pm, 5:15pm, 8:00pm, 10:45pm)
+
+    * [If](https://drafthouse.com/los-angeles/show/if): Thu 5/30 (2:15pm)
+
+    * [In A Violent Nature](https://drafthouse.com/los-angeles/show/in-a-violent-nature): Thu 5/30 (9:40pm), Sat 6/1 (9:25pm), Mon 6/3 (9:25pm)
+
+    * [Its Such A Beautiful Day Me](https://drafthouse.com/los-angeles/show/its-such-a-beautiful-day-me): Thu 5/30 (7:00pm), Fri 5/31 (11:50am), Mon 6/3 (1:45pm), Wed 6/5 (11:00am, 7:15pm)
+
+    * [Kingdom Of The Planet Of The Apes](https://drafthouse.com/los-angeles/show/kingdom-of-the-planet-of-the-apes): Thu 5/30 (3:00pm, 6:00pm, 9:30pm), Fri 5/31 (11:30am, 3:00pm, 6:00pm, 9:30pm), Sat 6/1 (11:30am, 3:00pm, 6:00pm, 9:30pm), Sun 6/2 (11:30am, 3:00pm, 6:00pm), Mon 6/3 (11:30am, 3:00pm, 6:00pm, 9:30pm), Tue 6/4 (11:30am, 3:00pm, 6:00pm, 9:30pm), Wed 6/5 (11:30am, 3:00pm, 6:00pm, 9:30pm)
+
+    * [Spider Man No Way Home Rerelease](https://drafthouse.com/los-angeles/show/spider-man-no-way-home-rerelease): Mon 6/3 (2:00pm), Tue 6/4 (12:30pm), Wed 6/5 (3:25pm, 9:55pm)
+
+    * [The Fall Guy](https://drafthouse.com/los-angeles/show/the-fall-guy): Thu 5/30 (3:45pm, 7:10pm, 10:15pm), Fri 5/31 (12:25pm, 3:45pm, 7:10pm, 10:15pm), Sat 6/1 (12:25pm, 3:45pm, 7:10pm, 10:15pm), Sun 6/2 (12:25pm, 3:45pm, 7:10pm), Mon 6/3 (12:25pm, 3:45pm, 7:10pm, 10:15pm), Tue 6/4 (12:25pm, 3:45pm, 7:10pm, 10:15pm), Wed 6/5 (12:00pm, 3:50pm, 7:10pm, 10:15pm)
+
+    * [The Garfield Movie 2024](https://drafthouse.com/los-angeles/show/the-garfield-movie-2024): Thu 5/30 (3:10pm, 6:40pm, 9:40pm), Fri 5/31 (12:10pm, 3:10pm, 6:40pm, 9:40pm), Sat 6/1 (12:10pm, 3:10pm, 6:40pm, 9:40pm), Sun 6/2 (12:10pm, 3:10pm, 6:40pm), Mon 6/3 (12:10pm, 3:10pm, 6:40pm, 9:40pm), Tue 6/4 (12:10pm, 3:10pm, 6:40pm, 9:40pm), Wed 6/5 (12:10pm, 3:10pm, 6:40pm, 9:40pm)
+
+    * [The Strangers Chapter 1](https://drafthouse.com/los-angeles/show/the-strangers-chapter-1): Thu 5/30 (2:10pm, 4:50pm, 7:30pm, 10:30pm), Fri 5/31 (11:30am, 2:10pm, 4:50pm, 7:30pm, 10:30pm), Sat 6/1 (11:30am, 2:10pm, 4:50pm, 7:30pm, 10:30pm), Sun 6/2 (11:40am, 2:20pm, 5:00pm, 7:45pm), Mon 6/3 (11:30am, 2:10pm, 4:50pm, 7:30pm, 10:30pm), Tue 6/4 (11:30am, 2:10pm, 4:50pm, 7:30pm, 10:30pm), Wed 6/5 (11:30am, 2:10pm, 4:50pm, 7:30pm, 10:30pm)
+
 ### Sun 5/26 5:29am
 * New movies: The Bikeriders, The Bikeriders, The Bikeriders
 
