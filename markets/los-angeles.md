@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 5/29 1:18pm
+* New movies: Aggro Dr1ft
+
+* New screenings: 
+    * [Aggro Dr1ft](https://drafthouse.com/los-angeles/show/aggro-dr1ft): Thu 6/6 (9:15pm)
+
 ### Tue 5/28 3:15pm
 
 * New screenings: 
