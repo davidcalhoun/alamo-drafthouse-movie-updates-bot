@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 5/29 8:19pm
+* New movies: Trim Season
+
+* New screenings: 
+    * [Opera](https://drafthouse.com/los-angeles/show/opera): Wed 6/12 (7:15pm)
+
+    * [Trim Season](https://drafthouse.com/los-angeles/show/trim-season): Sun 6/9 (8:30pm), Mon 6/10 (10:20pm), Tue 6/11 (9:10pm), Wed 6/12 (10:15pm), Thu 6/13 (3:10pm)
+
 ### Wed 5/29 7:31pm
 * New movies: Jaws 1975, The Church
 
