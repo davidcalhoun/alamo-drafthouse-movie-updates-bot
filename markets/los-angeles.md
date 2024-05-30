@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 5/29 7:31pm
+* New movies: Jaws 1975, The Church
+
+* New screenings: 
+    * [Signature Programming Jaws 1975](https://drafthouse.com/los-angeles/show/signature-programming-jaws-1975): Wed 7/3 (7:15pm), Thu 7/4 (4:00pm)
+
+    * [The Church](https://drafthouse.com/los-angeles/show/the-church): Fri 6/7 (4:20pm), Wed 6/12 (7:15pm)
+
 ### Wed 5/29 6:14pm
 * New movies: Late Night with the Devil
 
