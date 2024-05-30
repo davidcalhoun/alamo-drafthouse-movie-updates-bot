@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 5/29 6:14pm
+* New movies: Late Night with the Devil
+
+* New screenings: 
+    * [Fantastic Fest Presents Late Night With The Devil W Pre Recorded Q A](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-late-night-with-the-devil-w-pre-recorded-q-a): Thu 6/6 (6:00pm)
+
 ### Wed 5/29 1:18pm
 * New movies: Aggro Dr1ft
 
