@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 5/30 2:27pm
+* New movies: A Quiet Place: Day One
+
+* New screenings: 
+    * [A Quiet Place Day One](https://drafthouse.com/raleigh/show/a-quiet-place-day-one): Thu 6/27 (3:00pm, 6:00pm, 9:00pm), Fri 6/28 (8:00pm, 11:00pm), Sat 6/29 (8:00pm, 11:00pm), Sun 6/30 (8:00pm, 11:00pm)
+
 ### Tue 5/28 3:16pm
 * New movies: Back to the Future
 
