@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 5/30 6:18am
+* New movies: A Quiet Place: Day One
+
+* New screenings: 
+    * [A Quiet Place Day One](https://drafthouse.com/los-angeles/show/a-quiet-place-day-one): Thu 6/27 (5:00pm, 7:45pm, 10:35pm), Fri 6/28 (11:10am, 2:00pm, 4:50pm, 7:45pm, 10:35pm), Sat 6/29 (11:10am, 2:00pm, 4:50pm, 7:45pm, 10:35pm), Sun 6/30 (11:10am, 2:00pm, 4:50pm, 7:45pm)
+
 ### Wed 5/29 8:19pm
 * New movies: Trim Season
 
