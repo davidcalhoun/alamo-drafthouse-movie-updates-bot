@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Thu 5/30 9:32pm
+
+* New screenings: 
+    * [Its Such A Beautiful Day Me](https://drafthouse.com/raleigh/show/its-such-a-beautiful-day-me): Fri 5/31 (7:00pm, 10:00pm)
+
 ### Thu 5/30 2:27pm
 * New movies: A Quiet Place: Day One
 
