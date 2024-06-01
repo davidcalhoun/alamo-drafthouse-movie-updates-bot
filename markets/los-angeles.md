@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Sat 6/1 2:16pm
+* New movies: Trim Season
+
+* New screenings: 
+    * [Live Q A Trim Season](https://drafthouse.com/los-angeles/show/live-q-a-trim-season): Fri 6/7 (7:15pm)
+
 ### Thu 5/30 6:18am
 * New movies: A Quiet Place: Day One
 
