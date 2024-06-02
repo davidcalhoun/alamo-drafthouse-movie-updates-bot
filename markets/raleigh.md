@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Sat 6/1 9:36pm
+* New movies: Wicked City
+
+
+
 ### Thu 5/30 9:32pm
 
 * New screenings: 
