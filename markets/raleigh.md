@@ -1,6 +1,41 @@
 # raleigh
 
 ## Movie updates
+### Mon 6/3 4:21pm
+
+* New screenings: 
+    * [Babes](https://drafthouse.com/raleigh/show/babes): Thu 6/6 (1:00pm, 3:45pm, 6:45pm, 9:45pm), Fri 6/7 (12:15pm), Sat 6/8 (12:15pm), Sun 6/9 (12:15pm), Mon 6/10 (12:15pm), Tue 6/11 (12:15pm), Wed 6/12 (12:15pm)
+
+    * [Back To Black](https://drafthouse.com/raleigh/show/back-to-black): Thu 6/6 (12:00pm)
+
+    * [Back To The Future Part Ii](https://drafthouse.com/raleigh/show/back-to-the-future-part-ii): Thu 6/6 (12:30pm, 3:05pm)
+
+    * [Bad Boys Ride Or Die](https://drafthouse.com/raleigh/show/bad-boys-ride-or-die): Fri 6/7 (11:00am, 12:00pm, 1:00pm, 2:00pm, 3:00pm, 4:00pm, 6:00pm, 7:00pm, 10:00pm), Sat 6/8 (11:00am, 12:00pm, 1:00pm, 2:00pm, 3:00pm, 4:00pm, 6:00pm, 6:30pm, 7:00pm, 9:00pm, 10:00pm, 11:00pm), Sun 6/9 (1:00pm, 3:00pm, 6:00pm, 6:45pm, 7:15pm, 9:00pm, 10:15pm), Mon 6/10 (11:00am, 1:00pm, 2:00pm, 2:45pm, 4:00pm, 5:00pm, 6:00pm, 7:00pm, 8:00pm, 9:00pm, 10:00pm, 11:00pm), Tue 6/11 (11:00am, 12:00pm, 1:00pm, 2:00pm, 3:00pm, 4:00pm, 5:00pm, 6:00pm, 6:45pm, 8:00pm, 9:00pm, 11:00pm), Wed 6/12 (11:00am, 12:00pm, 1:00pm, 2:00pm, 3:00pm, 4:00pm, 5:00pm, 6:15pm, 7:00pm, 8:00pm, 10:00pm, 11:15pm)
+
+    * [Fantastic Fest Presents Late Night With The Devil W Pre Recorded Q A](https://drafthouse.com/raleigh/show/fantastic-fest-presents-late-night-with-the-devil-w-pre-recorded-q-a): Fri 6/7 (6:00pm, 9:00pm)
+
+    * [Furiosa A Mad Max Saga](https://drafthouse.com/raleigh/show/furiosa-a-mad-max-saga): Thu 6/6 (11:00am, 12:00pm, 3:30pm, 7:00pm, 10:30pm), Fri 6/7 (11:30am, 3:15pm, 6:45pm, 10:30pm), Sat 6/8 (11:30am, 3:15pm, 6:45pm, 10:30pm), Sun 6/9 (11:30am, 3:15pm, 6:45pm, 10:30pm), Mon 6/10 (11:30am, 3:00pm, 6:45pm, 10:30pm), Tue 6/11 (11:30am, 3:15pm, 6:45pm, 10:30pm), Wed 6/12 (11:30am, 3:15pm, 6:45pm, 10:30pm)
+
+    * [Haikyu The Dumpster Battle Dubbed](https://drafthouse.com/raleigh/show/haikyu-the-dumpster-battle-dubbed): Thu 6/6 (2:30pm, 7:45pm), Fri 6/7 (2:45pm, 8:00pm), Sat 6/8 (2:45pm, 8:00pm), Sun 6/9 (2:45pm, 8:00pm), Mon 6/10 (2:45pm, 8:00pm), Tue 6/11 (2:45pm, 8:00pm), Wed 6/12 (2:45pm, 8:00pm)
+
+    * [Haikyu The Dumpster Battle Subtitled](https://drafthouse.com/raleigh/show/haikyu-the-dumpster-battle-subtitled): Thu 6/6 (11:45am, 5:05pm, 10:15pm), Fri 6/7 (12:15pm, 5:15pm, 10:45pm), Sat 6/8 (12:15pm, 5:15pm, 10:45pm), Sun 6/9 (12:15pm, 5:15pm, 10:45pm), Mon 6/10 (12:15pm, 5:15pm, 10:45pm), Tue 6/11 (12:15pm, 5:15pm, 10:45pm), Wed 6/12 (12:15pm, 5:15pm, 10:45pm)
+
+    * [I Saw The Tv Glow](https://drafthouse.com/raleigh/show/i-saw-the-tv-glow): Thu 6/6 (11:15am, 2:00pm, 4:45pm, 7:45pm, 10:30pm), Fri 6/7 (3:15pm), Sat 6/8 (3:15pm), Sun 6/9 (3:45pm), Mon 6/10 (3:15pm), Tue 6/11 (3:15pm), Wed 6/12 (3:15pm)
+
+    * [If](https://drafthouse.com/raleigh/show/if): Thu 6/6 (12:15pm, 3:15pm, 6:05pm, 9:00pm), Fri 6/7 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Sat 6/8 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Sun 6/9 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Mon 6/10 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Tue 6/11 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Wed 6/12 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm)
+
+    * [In A Violent Nature](https://drafthouse.com/raleigh/show/in-a-violent-nature): Fri 6/7 (12:45pm, 7:30pm, 10:30pm), Sat 6/8 (12:45pm, 7:30pm, 10:30pm), Sun 6/9 (12:45pm, 7:30pm, 10:30pm), Mon 6/10 (12:45pm, 7:30pm, 10:30pm), Tue 6/11 (12:45pm, 7:30pm, 10:30pm), Wed 6/12 (12:45pm, 7:30pm, 10:30pm)
+
+    * [Its Such A Beautiful Day Me](https://drafthouse.com/raleigh/show/its-such-a-beautiful-day-me): Fri 6/7 (4:15pm), Sat 6/8 (4:15pm), Sun 6/9 (4:15pm), Mon 6/10 (4:15pm), Tue 6/11 (4:15pm), Wed 6/12 (4:15pm)
+
+    * [Kingdom Of The Planet Of The Apes](https://drafthouse.com/raleigh/show/kingdom-of-the-planet-of-the-apes): Thu 6/6 (12:30pm, 4:00pm, 7:30pm, 11:00pm), Fri 6/7 (11:45am, 3:15pm, 6:45pm, 10:15pm), Sat 6/8 (11:45am, 3:15pm, 6:45pm, 10:15pm), Sun 6/9 (11:30am, 2:30pm, 6:00pm, 9:45pm), Mon 6/10 (11:45am, 3:15pm, 6:45pm, 10:15pm), Tue 6/11 (11:45am, 3:30pm, 7:00pm, 10:45pm), Wed 6/12 (11:45am, 3:15pm, 6:45pm, 10:15pm)
+
+    * [The Garfield Movie 2024](https://drafthouse.com/raleigh/show/the-garfield-movie-2024): Thu 6/6 (11:30am, 2:15pm, 5:15pm, 8:00pm, 10:45pm), Fri 6/7 (11:15am, 2:15pm, 5:15pm, 8:15pm, 11:00pm), Sat 6/8 (11:15am, 2:15pm, 5:15pm, 8:15pm, 11:00pm), Sun 6/9 (11:15am, 2:15pm, 5:15pm, 8:15pm, 11:00pm), Mon 6/10 (11:15am, 2:15pm, 5:15pm, 8:15pm, 11:00pm), Tue 6/11 (11:15am, 2:15pm, 5:15pm, 8:15pm, 11:00pm), Wed 6/12 (11:15am, 2:15pm, 5:15pm, 8:15pm, 11:00pm)
+
+    * [The Strangers Chapter 1](https://drafthouse.com/raleigh/show/the-strangers-chapter-1): Thu 6/6 (12:45pm, 3:40pm, 6:15pm, 9:15pm), Fri 6/7 (9:30pm), Sat 6/8 (9:30pm), Sun 6/9 (10:00pm), Mon 6/10 (9:15pm), Tue 6/11 (9:45pm), Wed 6/12 (9:30pm)
+
+    * [The Watchers](https://drafthouse.com/raleigh/show/the-watchers): Fri 6/7 (12:30pm, 3:30pm), Sat 6/8 (12:30pm, 3:30pm), Sun 6/9 (12:30pm, 3:30pm), Mon 6/10 (12:00pm, 3:30pm, 6:15pm, 9:45pm), Tue 6/11 (12:30pm, 3:45pm, 7:00pm, 10:00pm), Wed 6/12 (12:30pm, 3:30pm, 6:30pm, 10:00pm)
+
 ### Mon 6/3 3:17pm
 * New movies: Disco Boy, Crimes of Passion, Deadbeat at Dawn, Double Agent 73, THE EXORCIST III
 
