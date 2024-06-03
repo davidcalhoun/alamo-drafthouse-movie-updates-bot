@@ -1,6 +1,18 @@
 # raleigh
 
 ## Movie updates
+### Mon 6/3 12:25pm
+* New movies: Late Night with the Devil, Jaws 1975, MAXIMUM OVERDRIVE, BAD LIEUTENANT: PORT OF CALL NEW ORLEANS
+
+* New screenings: 
+    * [Fantastic Fest Presents Late Night With The Devil W Pre Recorded Q A](https://drafthouse.com/raleigh/show/fantastic-fest-presents-late-night-with-the-devil-w-pre-recorded-q-a): Thu 6/6 (6:30pm, 9:30pm)
+
+    * [Maximum Overdrive](https://drafthouse.com/raleigh/show/maximum-overdrive): Tue 7/9 (9:00pm)
+
+    * [Signature Programming Jaws 1975](https://drafthouse.com/raleigh/show/signature-programming-jaws-1975): Thu 7/4 (3:45pm)
+
+    * [Weird Wednesday Bad Lieutenant Port Of Call New Orleans](https://drafthouse.com/raleigh/show/weird-wednesday-bad-lieutenant-port-of-call-new-orleans): Wed 7/3 (9:00pm)
+
 ### Mon 6/3 11:22am
 * New movies: Easy Rider
 
