@@ -1,6 +1,20 @@
 # raleigh
 
 ## Movie updates
+### Mon 6/3 3:17pm
+* New movies: Disco Boy, Crimes of Passion, Deadbeat at Dawn, Double Agent 73, THE EXORCIST III
+
+* New screenings: 
+    * [Disco Boy](https://drafthouse.com/raleigh/show/disco-boy): Sun 7/14 (3:45pm)
+
+    * [Queer Film Theory 101 Crimes Of Passion](https://drafthouse.com/raleigh/show/queer-film-theory-101-crimes-of-passion): Mon 7/22 (6:30pm)
+
+    * [Terror Tuesday The Exorcist Iii](https://drafthouse.com/raleigh/show/terror-tuesday-the-exorcist-iii): Tue 7/16 (10:00pm)
+
+    * [Weird Wednesday Deadbeat At Dawn](https://drafthouse.com/raleigh/show/weird-wednesday-deadbeat-at-dawn): Wed 7/24 (10:00pm)
+
+    * [Weird Wednesday Double Agent 73](https://drafthouse.com/raleigh/show/weird-wednesday-double-agent-73): Wed 7/17 (10:00pm)
+
 ### Mon 6/3 12:25pm
 * New movies: Late Night with the Devil, Jaws 1975, MAXIMUM OVERDRIVE, BAD LIEUTENANT: PORT OF CALL NEW ORLEANS
 
