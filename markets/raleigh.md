@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 6/3 11:22am
+* New movies: Easy Rider
+
+* New screenings: 
+    * [Easy Rider](https://drafthouse.com/raleigh/show/easy-rider): Mon 7/1 (7:15pm)
+
 ### Sat 6/1 9:36pm
 * New movies: Wicked City
 
