@@ -1,6 +1,18 @@
 # raleigh
 
 ## Movie updates
+### Tue 6/4 2:26pm
+* New movies: Art College 1994, The Neverending Story, Harry Potter and the Chamber of Secrets, Harry Potter and the Sorcerer's Stone
+
+* New screenings: 
+    * [Art College 1994](https://drafthouse.com/raleigh/show/art-college-1994): Mon 8/5 (7:00pm)
+
+    * [Harry Potter And The Chamber Of Secrets](https://drafthouse.com/raleigh/show/harry-potter-and-the-chamber-of-secrets): Sun 8/25 (11:00am)
+
+    * [Harry Potter And The Sorcerers Stone](https://drafthouse.com/raleigh/show/harry-potter-and-the-sorcerers-stone): Sun 8/18 (11:30am)
+
+    * [Kids Camp The Neverending Story](https://drafthouse.com/raleigh/show/kids-camp-the-neverending-story): Mon 8/19 (11:30am)
+
 ### Tue 6/4 8:38am
 * New movies: X
 
