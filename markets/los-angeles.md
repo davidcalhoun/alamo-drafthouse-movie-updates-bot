@@ -1,6 +1,43 @@
 # los-angeles
 
 ## Movie updates
+### Mon 6/3 6:15pm
+
+* New screenings: 
+    * [Babes](https://drafthouse.com/los-angeles/show/babes): Thu 6/6 (3:00pm, 6:10pm, 9:40pm), Fri 6/7 (11:45am, 3:00pm, 6:15pm, 9:40pm), Sat 6/8 (11:50am, 3:00pm, 6:15pm, 9:40pm), Sun 6/9 (11:45am, 3:00pm, 6:15pm), Mon 6/10 (11:50am, 3:00pm, 6:15pm, 9:40pm), Tue 6/11 (11:50am, 3:00pm, 6:20pm, 9:40pm), Wed 6/12 (11:50am, 3:00pm, 6:15pm, 9:40pm)
+
+    * [Back To The Future Part Iii](https://drafthouse.com/los-angeles/show/back-to-the-future-part-iii): Fri 6/7 (1:00pm), Tue 6/11 (11:30am), Wed 6/12 (4:00pm)
+
+    * [Bad Boys Ride Or Die](https://drafthouse.com/los-angeles/show/bad-boys-ride-or-die): Thu 6/6 (5:45pm, 8:50pm), Fri 6/7 (11:35am, 2:40pm, 5:45pm, 8:50pm), Sat 6/8 (11:35am, 2:40pm, 5:45pm, 8:50pm), Sun 6/9 (11:35am, 2:40pm, 5:45pm), Mon 6/10 (11:35am, 2:40pm, 5:45pm), Tue 6/11 (11:30am, 2:35pm, 3:50pm, 5:45pm, 8:50pm), Wed 6/12 (11:35am, 2:40pm, 5:45pm, 8:50pm)
+
+    * [Challengers](https://drafthouse.com/los-angeles/show/challengers): Thu 6/6 (4:00pm, 6:45pm, 10:10pm), Fri 6/7 (12:00pm, 3:20pm, 6:50pm, 10:10pm), Sat 6/8 (12:00pm, 3:20pm, 6:45pm, 10:05pm), Sun 6/9 (12:00pm, 3:20pm, 6:45pm), Mon 6/10 (12:00pm, 3:20pm, 6:45pm, 10:05pm), Tue 6/11 (12:00pm, 3:20pm, 6:45pm, 10:05pm), Wed 6/12 (12:00pm, 3:20pm, 6:45pm, 10:05pm)
+
+    * [Furiosa A Mad Max Saga](https://drafthouse.com/los-angeles/show/furiosa-a-mad-max-saga): Thu 6/6 (3:15pm, 6:20pm, 10:00pm), Fri 6/7 (11:50am, 3:30pm, 6:00pm, 9:40pm), Sat 6/8 (11:50am, 3:30pm, 6:00pm, 8:20pm, 9:40pm), Sun 6/9 (11:50am, 3:35pm, 7:15pm), Mon 6/10 (11:50am, 3:30pm, 6:00pm, 9:40pm), Tue 6/11 (11:50am, 3:30pm, 6:10pm, 9:50pm), Wed 6/12 (11:50am, 3:30pm, 6:00pm, 9:40pm)
+
+    * [Gloria 1980](https://drafthouse.com/los-angeles/show/gloria-1980): Wed 6/12 (12:45pm)
+
+    * [Haikyu The Dumpster Battle Dubbed](https://drafthouse.com/los-angeles/show/haikyu-the-dumpster-battle-dubbed): Thu 6/6 (3:00pm, 10:30pm), Fri 6/7 (2:30pm, 10:00pm), Sat 6/8 (11:20am, 5:30pm), Sun 6/9 (5:25pm), Mon 6/10 (12:00pm, 7:30pm), Tue 6/11 (12:00pm, 10:00pm), Wed 6/12 (5:00pm, 7:30pm)
+
+    * [Haikyu The Dumpster Battle Subtitled](https://drafthouse.com/los-angeles/show/haikyu-the-dumpster-battle-subtitled): Thu 6/6 (5:30pm, 8:00pm), Fri 6/7 (12:00pm, 5:00pm, 7:30pm), Sat 6/8 (2:20pm, 8:00pm, 10:30pm), Sun 6/9 (12:15pm, 2:50pm, 8:00pm), Mon 6/10 (2:30pm, 5:00pm, 10:00pm), Tue 6/11 (2:30pm, 5:00pm, 7:30pm), Wed 6/12 (12:00pm, 2:30pm, 10:00pm)
+
+    * [Hit Man](https://drafthouse.com/los-angeles/show/hit-man): Thu 6/6 (3:30pm, 6:30pm, 9:35pm), Fri 6/7 (12:30pm, 3:30pm, 6:30pm, 9:35pm), Sat 6/8 (12:30pm, 3:30pm, 6:30pm, 9:35pm), Sun 6/9 (12:25pm, 3:25pm, 6:30pm), Mon 6/10 (12:30pm, 3:30pm, 6:30pm, 9:35pm), Tue 6/11 (12:30pm, 3:30pm, 6:30pm, 9:35pm), Wed 6/12 (12:30pm, 3:30pm, 6:30pm, 9:35pm)
+
+    * [I Saw The Tv Glow](https://drafthouse.com/los-angeles/show/i-saw-the-tv-glow): Thu 6/6 (3:35pm, 7:00pm, 9:45pm), Fri 6/7 (12:15pm, 3:10pm, 7:10pm, 10:00pm), Sat 6/8 (12:15pm, 3:10pm, 7:10pm, 10:00pm), Sun 6/9 (11:10am, 2:00pm, 4:45pm, 7:30pm), Mon 6/10 (12:15pm, 3:10pm, 7:10pm, 10:00pm), Tue 6/11 (12:20pm, 3:15pm, 7:10pm, 10:00pm), Wed 6/12 (12:15pm, 3:10pm, 7:10pm, 10:00pm)
+
+    * [In A Violent Nature](https://drafthouse.com/los-angeles/show/in-a-violent-nature): Thu 6/6 (10:45pm), Fri 6/7 (6:40pm, 10:25pm), Sat 6/8 (1:50pm, 7:20pm), Sun 6/9 (2:20pm, 6:00pm), Mon 6/10 (3:00pm, 5:45pm, 8:50pm), Tue 6/11 (1:50pm, 10:30pm), Wed 6/12 (6:25pm, 9:10pm)
+
+    * [Its Such A Beautiful Day Me](https://drafthouse.com/los-angeles/show/its-such-a-beautiful-day-me): Fri 6/7 (4:00pm), Sat 6/8 (4:35pm), Sun 6/9 (11:35am, 8:45pm), Mon 6/10 (4:30pm), Tue 6/11 (11:10am, 4:35pm), Wed 6/12 (3:45pm)
+
+    * [Kingdom Of The Planet Of The Apes](https://drafthouse.com/los-angeles/show/kingdom-of-the-planet-of-the-apes): Thu 6/6 (2:40pm, 6:00pm, 9:10pm), Fri 6/7 (11:25am, 2:35pm, 6:00pm, 9:10pm), Sat 6/8 (11:25am, 2:40pm, 6:00pm, 9:10pm), Sun 6/9 (11:25am, 2:35pm, 6:00pm), Mon 6/10 (11:25am, 2:40pm, 6:00pm, 9:10pm), Tue 6/11 (11:25am, 2:45pm, 6:00pm, 9:15pm), Wed 6/12 (11:25am, 2:40pm, 6:00pm, 9:10pm)
+
+    * [Signature Programming But Im A Cheerleader Brunch](https://drafthouse.com/los-angeles/show/signature-programming-but-im-a-cheerleader-brunch): Sat 6/8 (11:15am)
+
+    * [The Fall Guy](https://drafthouse.com/los-angeles/show/the-fall-guy): Thu 6/6 (3:25pm), Fri 6/7 (12:40pm), Sat 6/8 (5:00pm), Sun 6/9 (5:10pm), Mon 6/10 (1:10pm, 8:30pm), Tue 6/11 (2:40pm), Wed 6/12 (12:25pm)
+
+    * [The Garfield Movie 2024](https://drafthouse.com/los-angeles/show/the-garfield-movie-2024): Thu 6/6 (2:50pm)
+
+    * [Trim Season](https://drafthouse.com/los-angeles/show/trim-season): Sat 6/8 (10:10pm)
+
 ### Sat 6/1 2:16pm
 * New movies: Trim Season
 
