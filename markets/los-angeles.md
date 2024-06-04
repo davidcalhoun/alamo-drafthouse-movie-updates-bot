@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Tue 6/4 3:18am
+* New movies: Art College 1994, The Dragon Lives Again, Harry Potter and the Sorcerer's Stone
+
+* New screenings: 
+    * [Art College 1994](https://drafthouse.com/los-angeles/show/art-college-1994): Mon 8/5 (7:15pm)
+
+    * [Harry Potter And The Sorcerers Stone](https://drafthouse.com/los-angeles/show/harry-potter-and-the-sorcerers-stone): Sun 8/18 (12:15pm)
+
+    * [The Dragon Lives Again](https://drafthouse.com/los-angeles/show/the-dragon-lives-again): Fri 7/5 (4:10pm), Wed 7/10 (7:15pm)
+
 ### Mon 6/3 7:31pm
 * New movies: Crimes of Passion
 
