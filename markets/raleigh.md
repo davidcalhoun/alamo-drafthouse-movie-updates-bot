@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 6/4 8:38am
+* New movies: X
+
+* New screenings: 
+    * [Fan Event X Fan Event Featuring Maxxxine Sneak Peek](https://drafthouse.com/raleigh/show/fan-event-x-fan-event-featuring-maxxxine-sneak-peek): Tue 6/18 (7:30pm)
+
 ### Mon 6/3 4:21pm
 
 * New screenings: 
