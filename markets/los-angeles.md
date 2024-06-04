@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 6/4 4:15am
+* New movies: Harry Potter and the Chamber of Secrets
+
+* New screenings: 
+    * [Harry Potter And The Chamber Of Secrets](https://drafthouse.com/los-angeles/show/harry-potter-and-the-chamber-of-secrets): Sun 8/25 (12:30pm)
+
 ### Tue 6/4 3:18am
 * New movies: Art College 1994, The Dragon Lives Again, Harry Potter and the Sorcerer's Stone
 
