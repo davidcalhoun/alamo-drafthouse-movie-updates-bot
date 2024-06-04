@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 6/3 7:31pm
+* New movies: Crimes of Passion
+
+* New screenings: 
+    * [Queer Film Theory 101 Crimes Of Passion](https://drafthouse.com/los-angeles/show/queer-film-theory-101-crimes-of-passion): Mon 7/22 (7:15pm)
+
 ### Mon 6/3 6:15pm
 
 * New screenings: 
