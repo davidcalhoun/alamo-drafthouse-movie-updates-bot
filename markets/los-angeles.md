@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 6/4 6:19am
+* New movies: Robot Dreams
+
+* New screenings: 
+    * [Robot Dreams](https://drafthouse.com/los-angeles/show/robot-dreams): Thu 6/13 (7:00pm, 9:50pm), Fri 6/14 (12:45pm, 3:40pm, 6:30pm, 9:20pm), Sat 6/15 (12:45pm, 3:40pm, 6:30pm, 9:20pm), Sun 6/16 (11:10am, 2:00pm, 4:50pm, 7:45pm), Mon 6/17 (11:15am, 2:00pm, 4:50pm, 7:45pm), Wed 6/19 (12:45pm, 3:40pm, 6:30pm, 9:20pm)
+
 ### Tue 6/4 5:32am
 * New movies: X
 
