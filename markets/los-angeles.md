@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 6/4 5:32am
+* New movies: X
+
+* New screenings: 
+    * [Fan Event X Fan Event Featuring Maxxxine Sneak Peek](https://drafthouse.com/los-angeles/show/fan-event-x-fan-event-featuring-maxxxine-sneak-peek): Tue 6/18 (7:00pm)
+
 ### Tue 6/4 4:15am
 * New movies: Harry Potter and the Chamber of Secrets
 
