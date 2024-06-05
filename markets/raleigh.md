@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Wed 6/5 8:38am
+* New movies: Despicable Me 4, Despicable Me 4
+
+* New screenings: 
+    * [Despicable Me 4](https://drafthouse.com/raleigh/show/despicable-me-4): Wed 7/3 (10:30am, 1:15pm, 4:15pm, 7:15pm, 10:00pm), Thu 7/4 (7:00pm)
+
+    * [Family Party Despicable Me 4](https://drafthouse.com/raleigh/show/family-party-despicable-me-4): Sat 7/13 (11:00am)
+
 ### Tue 6/4 2:26pm
 * New movies: Art College 1994, The Neverending Story, Harry Potter and the Chamber of Secrets, Harry Potter and the Sorcerer's Stone
 
