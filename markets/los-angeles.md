@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 6/5 5:32am
+* New movies: Despicable Me 4, Despicable Me 4
+
+* New screenings: 
+    * [Despicable Me 4](https://drafthouse.com/los-angeles/show/despicable-me-4): Wed 7/3 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Thu 7/4 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Fri 7/5 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Sat 7/6 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Sun 7/7 (11:15am, 2:00pm, 4:45pm, 7:30pm), Mon 7/8 (11:15am, 2:00pm, 4:45pm, 7:30pm), Tue 7/9 (11:15am, 2:00pm, 4:45pm, 7:30pm), Wed 7/10 (11:15am, 2:00pm, 4:45pm, 7:30pm)
+
+    * [Family Party Despicable Me 4](https://drafthouse.com/los-angeles/show/family-party-despicable-me-4): Sat 7/13 (12:00pm)
+
 ### Tue 6/4 6:19am
 * New movies: Robot Dreams
 
