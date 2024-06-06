@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 6/6 8:38am
+* New movies: Twisters
+
+* New screenings: 
+    * [Twisters](https://drafthouse.com/raleigh/show/twisters): Thu 7/18 (2:30pm, 6:00pm, 9:30pm), Fri 7/19 (6:00pm, 9:30pm), Sat 7/20 (7:00pm, 10:30pm), Sun 7/21 (7:00pm, 10:30pm)
+
 ### Wed 6/5 8:38am
 * New movies: Despicable Me 4, Despicable Me 4
 
