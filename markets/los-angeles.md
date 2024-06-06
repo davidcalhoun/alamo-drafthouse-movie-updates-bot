@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 6/6 10:17am
+
+* New screenings: 
+    * [Bad Boys Ride Or Die](https://drafthouse.com/los-angeles/show/bad-boys-ride-or-die): Thu 6/6 (10:20pm)
+
 ### Thu 6/6 5:32am
 * New movies: Twisters, Twisters
 
