@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 6/5 7:31pm
+* New movies: I Used To Be Funny
+
+* New screenings: 
+    * [I Used To Be Funny](https://drafthouse.com/los-angeles/show/i-used-to-be-funny): Sat 6/15 (4:20pm)
+
+    * [Wicked City](https://drafthouse.com/los-angeles/show/wicked-city): Wed 6/19 (8:10pm)
+
 ### Wed 6/5 5:32am
 * New movies: Despicable Me 4, Despicable Me 4
 
