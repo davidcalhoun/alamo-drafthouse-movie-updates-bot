@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 6/6 5:32am
+* New movies: Twisters, Twisters
+
+* New screenings: 
+    * [Brunch Screenings Twisters Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-twisters-brunch): Sat 7/20 (12:30pm), Sun 7/21 (12:30pm)
+
+    * [Twisters](https://drafthouse.com/los-angeles/show/twisters): Thu 7/18 (2:45pm, 6:00pm, 9:15pm), Fri 7/19 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Sat 7/20 (3:45pm, 7:00pm, 10:15pm), Sun 7/21 (3:45pm, 7:00pm), Mon 7/22 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Tue 7/23 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Wed 7/24 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Thu 7/25 (2:45pm, 6:00pm, 9:15pm), Fri 7/26 (11:30am, 2:45pm, 6:00pm, 9:15pm), Sat 7/27 (11:30am, 2:45pm, 6:00pm, 9:15pm), Sun 7/28 (11:30am, 2:45pm, 6:00pm, 9:15pm), Mon 7/29 (11:30am, 2:45pm, 6:00pm, 9:15pm), Tue 7/30 (11:30am, 2:45pm, 6:00pm, 9:15pm), Wed 7/31 (11:30am, 2:45pm, 6:00pm, 9:15pm)
+
 ### Wed 6/5 7:31pm
 * New movies: I Used To Be Funny
 
