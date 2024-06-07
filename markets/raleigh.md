@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Fri 6/7 8:39am
+* New movies: Thelma 2024, Thelma 2024
+
+* New screenings: 
+    * [Special Event Thelma 2024 Needlepoint Kit Screening](https://drafthouse.com/raleigh/show/special-event-thelma-2024-needlepoint-kit-screening): Sat 6/22 (12:15pm)
+
+    * [Thelma 2024](https://drafthouse.com/raleigh/show/thelma-2024): Thu 6/20 (3:15pm, 6:15pm, 9:15pm), Fri 6/21 (5:45pm, 8:30pm, 11:30pm), Sat 6/22 (6:05pm, 8:45pm, 11:30pm), Sun 6/23 (6:05pm, 8:45pm, 11:30pm)
+
 ### Thu 6/6 10:36pm
 * New movies: Tie Me Up! Tie Me Down!, Possessor Uncut
 
