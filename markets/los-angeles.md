@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 6/7 5:34am
+* New movies: Thelma 2024
+
+* New screenings: 
+    * [Thelma 2024](https://drafthouse.com/los-angeles/show/thelma-2024): Thu 6/20 (4:00pm, 6:45pm, 9:30pm), Fri 6/21 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sat 6/22 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sun 6/23 (11:45am, 2:30pm, 5:15pm, 8:00pm), Mon 6/24 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Tue 6/25 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Wed 6/26 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm)
+
 ### Thu 6/6 10:17am
 
 * New screenings: 
