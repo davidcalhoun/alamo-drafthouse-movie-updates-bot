@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 6/7 8:19am
+* New movies: Federer: Twelve Final Days
+
+* New screenings: 
+    * [Federer Twelve Final Days](https://drafthouse.com/los-angeles/show/federer-twelve-final-days): Tue 6/18 (5:20pm)
+
 ### Fri 6/7 5:34am
 * New movies: Thelma 2024
 
