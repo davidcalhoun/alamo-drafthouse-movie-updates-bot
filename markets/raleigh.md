@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 6/7 11:23am
+* New movies: Federer: Twelve Final Days
+
+* New screenings: 
+    * [Federer Twelve Final Days](https://drafthouse.com/raleigh/show/federer-twelve-final-days): Tue 6/18 (6:15pm)
+
 ### Fri 6/7 8:39am
 * New movies: Thelma 2024, Thelma 2024
 
