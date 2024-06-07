@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Thu 6/6 10:36pm
+* New movies: Tie Me Up! Tie Me Down!, Possessor Uncut
+
+* New screenings: 
+    * [Queer Film Theory 101 Tie Me Up Tie Me Down](https://drafthouse.com/raleigh/show/queer-film-theory-101-tie-me-up-tie-me-down): Mon 6/24 (7:30pm)
+
+    * [Terror Tuesday Possessor Uncut W Brandon Cronenberg](https://drafthouse.com/raleigh/show/terror-tuesday-possessor-uncut-w-brandon-cronenberg): Tue 6/25 (9:30pm)
+
 ### Thu 6/6 8:38am
 * New movies: Twisters
 
