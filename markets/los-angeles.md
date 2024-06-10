@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 6/10 6:20am
+* New movies: Kinds of Kindness
+
+* New screenings: 
+    * [Kinds Of Kindness](https://drafthouse.com/los-angeles/show/kinds-of-kindness): Thu 6/27 (3:00pm, 6:50pm), Fri 6/28 (11:10am, 3:00pm, 6:50pm), Sat 6/29 (11:10am, 3:00pm, 6:50pm), Sun 6/30 (11:10am, 3:00pm, 6:50pm), Mon 7/1 (11:10am, 3:00pm, 6:50pm), Tue 7/2 (11:10am, 3:00pm, 6:50pm)
+
 ### Fri 6/7 8:19am
 * New movies: Federer: Twelve Final Days
 
