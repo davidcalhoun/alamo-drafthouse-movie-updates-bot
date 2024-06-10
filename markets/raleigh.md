@@ -1,6 +1,50 @@
 # raleigh
 
 ## Movie updates
+### Mon 6/10 5:20pm
+* New movies: The Birdcage
+
+* New screenings: 
+    * [Babes](https://drafthouse.com/raleigh/show/babes): Thu 6/13 (12:15pm)
+
+    * [Bad Boys Ride Or Die](https://drafthouse.com/raleigh/show/bad-boys-ride-or-die): Thu 6/13 (11:00am, 12:00pm, 2:00pm, 3:30pm, 5:00pm, 6:15pm, 8:00pm, 11:15pm), Fri 6/14 (11:00am, 2:00pm, 5:00pm, 7:00pm, 8:00pm, 10:00pm, 11:00pm), Sat 6/15 (11:45am, 2:00pm, 5:00pm, 7:00pm, 8:00pm, 10:00pm, 11:00pm), Sun 6/16 (1:00pm, 4:00pm, 6:30pm, 7:00pm, 9:30pm, 10:00pm), Mon 6/17 (11:00am, 2:00pm, 5:00pm, 6:30pm, 8:00pm, 9:30pm, 11:00pm), Tue 6/18 (11:00am, 2:00pm, 5:00pm, 7:00pm, 8:00pm, 10:00pm, 11:00pm), Wed 6/19 (11:00am, 2:00pm, 5:00pm, 6:00pm, 8:00pm, 9:15pm, 11:00pm)
+
+    * [Do The Right Thing](https://drafthouse.com/raleigh/show/do-the-right-thing): Sun 6/16 (2:30pm), Mon 6/17 (7:15pm), Wed 6/19 (10:15pm)
+
+    * [Field Of Dreams](https://drafthouse.com/raleigh/show/field-of-dreams): Wed 6/19 (11:30am)
+
+    * [Furiosa A Mad Max Saga](https://drafthouse.com/raleigh/show/furiosa-a-mad-max-saga): Thu 6/13 (11:30am, 3:15pm, 6:45pm, 10:30pm), Fri 6/14 (11:15am, 2:45pm, 6:45pm, 10:30pm), Sat 6/15 (11:20am, 3:15pm, 6:45pm, 10:15pm), Sun 6/16 (11:00am, 2:45pm, 6:15pm, 10:15pm), Mon 6/17 (11:15am, 2:45pm, 6:45pm, 10:15pm), Tue 6/18 (11:30am, 3:00pm, 6:45pm, 10:15pm), Wed 6/19 (11:15am, 2:45pm, 6:15pm, 9:45pm)
+
+    * [Haikyu The Dumpster Battle Dubbed](https://drafthouse.com/raleigh/show/haikyu-the-dumpster-battle-dubbed): Thu 6/13 (2:45pm, 8:00pm)
+
+    * [Haikyu The Dumpster Battle Subtitled](https://drafthouse.com/raleigh/show/haikyu-the-dumpster-battle-subtitled): Thu 6/13 (12:15pm, 5:15pm, 10:45pm)
+
+    * [Hollywood 90028](https://drafthouse.com/raleigh/show/hollywood-90028): Mon 6/17 (10:45pm)
+
+    * [I Saw The Tv Glow](https://drafthouse.com/raleigh/show/i-saw-the-tv-glow): Thu 6/13 (3:15pm)
+
+    * [If](https://drafthouse.com/raleigh/show/if): Thu 6/13 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Fri 6/14 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sat 6/15 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sun 6/16 (12:15pm, 3:15pm, 6:30pm, 9:30pm), Mon 6/17 (12:30pm, 3:15pm, 6:15pm, 9:15pm), Tue 6/18 (12:30pm, 3:15pm, 6:15pm, 9:15pm), Wed 6/19 (11:30am, 3:00pm, 6:00pm, 9:00pm)
+
+    * [In A Violent Nature](https://drafthouse.com/raleigh/show/in-a-violent-nature): Thu 6/13 (12:45pm, 7:00pm, 9:45pm), Sat 6/15 (9:30pm), Sun 6/16 (10:15pm), Mon 6/17 (10:30pm)
+
+    * [Indiana Jones And The Last Crusade](https://drafthouse.com/raleigh/show/indiana-jones-and-the-last-crusade): Fri 6/14 (11:45am), Sat 6/15 (3:15pm), Mon 6/17 (11:15am), Tue 6/18 (4:00pm)
+
+    * [Inside Out 2](https://drafthouse.com/raleigh/show/inside-out-2): Thu 6/13 (6:00pm, 9:15pm), Fri 6/14 (11:30am, 12:00pm, 1:15pm, 1:45pm, 3:00pm, 3:30pm, 4:00pm, 4:30pm, 6:00pm, 6:30pm, 7:30pm, 9:00pm, 9:30pm, 11:15pm), Sat 6/15 (12:00pm, 12:30pm, 1:30pm, 3:00pm, 3:30pm, 4:30pm, 5:30pm, 6:30pm, 7:30pm, 8:30pm, 9:00pm, 10:15pm, 11:15pm), Sun 6/16 (12:30pm, 1:30pm, 2:15pm, 3:30pm, 4:15pm, 5:00pm, 5:35pm, 7:00pm, 8:00pm, 8:30pm, 9:00pm), Mon 6/17 (12:00pm, 12:30pm, 1:30pm, 2:30pm, 3:00pm, 3:30pm, 3:30pm, 4:30pm, 5:15pm, 6:00pm, 6:30pm, 8:00pm, 9:00pm, 9:30pm), Tue 6/18 (12:00pm, 12:30pm, 1:00pm, 1:30pm, 2:30pm, 3:00pm, 3:30pm, 4:05pm, 5:30pm, 6:00pm, 8:30pm, 10:30pm), Wed 6/19 (12:00pm, 12:30pm, 1:00pm, 1:30pm, 2:20pm, 3:00pm, 3:30pm, 4:30pm, 5:15pm, 6:30pm, 7:30pm, 8:15pm, 10:30pm)
+
+    * [Its Such A Beautiful Day Me](https://drafthouse.com/raleigh/show/its-such-a-beautiful-day-me): Thu 6/13 (4:15pm)
+
+    * [Kingdom Of The Planet Of The Apes](https://drafthouse.com/raleigh/show/kingdom-of-the-planet-of-the-apes): Thu 6/13 (11:45am, 3:15pm, 6:45pm, 10:15pm), Fri 6/14 (11:00am, 2:45pm, 6:15pm, 10:15pm), Sat 6/15 (11:15am, 2:45pm, 6:15pm, 9:45pm), Sun 6/16 (11:15am, 2:45pm, 6:15pm, 9:45pm), Mon 6/17 (11:00am, 2:30pm, 6:15pm, 10:00pm), Tue 6/18 (11:00am, 2:45pm, 6:45pm, 9:15pm), Wed 6/19 (11:00am, 2:30pm, 6:15pm, 9:45pm)
+
+    * [The Birdcage](https://drafthouse.com/raleigh/show/the-birdcage): Tue 6/18 (11:30am, 10:15pm)
+
+    * [The Birdcage Brunch](https://drafthouse.com/raleigh/show/the-birdcage-brunch): Sun 6/16 (11:30am)
+
+    * [The Garfield Movie 2024](https://drafthouse.com/raleigh/show/the-garfield-movie-2024): Thu 6/13 (11:15am, 2:15pm, 5:15pm, 8:15pm, 11:00pm), Fri 6/14 (1:00pm, 4:15pm, 7:15pm, 10:00pm), Sat 6/15 (12:45pm, 4:00pm, 7:15pm, 10:00pm), Sun 6/16 (1:00pm, 4:00pm, 6:45pm, 9:30pm), Mon 6/17 (1:00pm, 4:00pm, 6:45pm, 9:30pm), Tue 6/18 (12:45pm, 3:45pm, 6:45pm, 9:30pm), Wed 6/19 (12:45pm, 4:00pm, 7:15pm, 10:00pm)
+
+    * [The Strangers Chapter 1](https://drafthouse.com/raleigh/show/the-strangers-chapter-1): Thu 6/13 (9:30pm)
+
+    * [The Watchers](https://drafthouse.com/raleigh/show/the-watchers): Thu 6/13 (11:45am, 2:00pm, 5:00pm, 7:45pm, 10:45pm), Fri 6/14 (1:00pm, 3:45pm, 6:30pm, 9:30pm), Sat 6/15 (1:00pm, 4:15pm, 7:45pm, 10:45pm), Sun 6/16 (12:45pm, 4:15pm, 7:15pm, 10:00pm), Mon 6/17 (1:00pm, 4:30pm, 7:45pm, 10:45pm), Tue 6/18 (12:45pm, 3:45pm, 6:30pm, 9:30pm), Wed 6/19 (12:45pm, 4:15pm, 7:15pm, 10:00pm)
+
 ### Mon 6/10 4:21pm
 * New movies: The Ultimate Willy Wonka Party, Surf II: The End of the Trilogy, Ginger Snaps
 
