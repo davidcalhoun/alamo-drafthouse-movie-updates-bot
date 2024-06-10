@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Mon 6/10 4:21pm
+* New movies: The Ultimate Willy Wonka Party, Surf II: The End of the Trilogy, Ginger Snaps
+
+* New screenings: 
+    * [Live Q A The Ultimate Willy Wonka Party](https://drafthouse.com/raleigh/show/live-q-a-the-ultimate-willy-wonka-party): Tue 9/10 (6:00pm)
+
+    * [Terror Tuesday Ginger Snaps](https://drafthouse.com/raleigh/show/terror-tuesday-ginger-snaps): Tue 8/27 (9:00pm)
+
+    * [Weird Wednesday Surf Ii The End Of The Trilogy](https://drafthouse.com/raleigh/show/weird-wednesday-surf-ii-the-end-of-the-trilogy): Wed 8/21 (9:00pm)
+
 ### Mon 6/10 3:16pm
 * New movies: Battle Royale 2000, Cabin Fever, Child's Play 2, Sleepaway Camp, The Conjuring, Gwendoline
 
