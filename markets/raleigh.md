@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Mon 6/10 12:26pm
+* New movies: Kinds of Kindness, Maximum Overdrive
+
+* New screenings: 
+    * [Kinds Of Kindness](https://drafthouse.com/raleigh/show/kinds-of-kindness): Thu 6/27 (3:00pm, 7:00pm, 10:00pm), Fri 6/28 (7:00pm), Sat 6/29 (6:00pm, 9:00pm), Sun 6/30 (7:00pm)
+
+    * [Terror Tuesday Maximum Overdrive](https://drafthouse.com/raleigh/show/terror-tuesday-maximum-overdrive): Tue 7/9 (9:00pm)
+
 ### Sun 6/9 10:37pm
 * New movies: Wake in Fright, Wake in Fright
 
