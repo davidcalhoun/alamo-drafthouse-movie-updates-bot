@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Sun 6/9 9:35pm
+* New movies: Exorcist III, The Lighthouse
+
+* New screenings: 
+    * [Weird Wednesday The Lighthouse](https://drafthouse.com/raleigh/show/weird-wednesday-the-lighthouse): Wed 7/10 (9:30pm)
+
 ### Fri 6/7 11:23am
 * New movies: Federer: Twelve Final Days
 
