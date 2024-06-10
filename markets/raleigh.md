@@ -1,6 +1,22 @@
 # raleigh
 
 ## Movie updates
+### Mon 6/10 3:16pm
+* New movies: Battle Royale 2000, Cabin Fever, Child's Play 2, Sleepaway Camp, The Conjuring, Gwendoline
+
+* New screenings: 
+    * [Terror Tuesday Battle Royale 2000](https://drafthouse.com/raleigh/show/terror-tuesday-battle-royale-2000): Tue 8/6 (9:00pm)
+
+    * [Terror Tuesday Cabin Fever](https://drafthouse.com/raleigh/show/terror-tuesday-cabin-fever): Tue 7/23 (9:00pm)
+
+    * [Terror Tuesday Childs Play 2](https://drafthouse.com/raleigh/show/terror-tuesday-childs-play-2): Tue 8/20 (9:00pm)
+
+    * [Terror Tuesday Sleepaway Camp](https://drafthouse.com/raleigh/show/terror-tuesday-sleepaway-camp): Tue 8/13 (9:00pm)
+
+    * [Terror Tuesday The Conjuring](https://drafthouse.com/raleigh/show/terror-tuesday-the-conjuring): Tue 7/30 (9:00pm)
+
+    * [Weird Wednesday Gwendoline](https://drafthouse.com/raleigh/show/weird-wednesday-gwendoline): Wed 8/14 (9:00pm)
+
 ### Mon 6/10 12:26pm
 * New movies: Kinds of Kindness, Maximum Overdrive
 
