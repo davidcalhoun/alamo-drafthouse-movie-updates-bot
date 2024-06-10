@@ -1,6 +1,52 @@
 # los-angeles
 
 ## Movie updates
+### Mon 6/10 4:17pm
+* New movies: Tuesday, The Birdcage, Indiana Jones and the Last Crusade
+
+* New screenings: 
+    * [Babes](https://drafthouse.com/los-angeles/show/babes): Thu 6/13 (4:00pm), Sun 6/16 (2:10pm), Wed 6/19 (1:00pm)
+
+    * [Bad Boys Ride Or Die](https://drafthouse.com/los-angeles/show/bad-boys-ride-or-die): Thu 6/13 (3:20pm, 7:20pm, 10:20pm), Fri 6/14 (11:45am, 2:50pm, 6:20pm, 10:00pm), Sat 6/15 (11:45am, 2:50pm, 7:00pm, 9:20pm, 10:00pm), Sun 6/16 (12:00pm, 3:00pm, 7:00pm), Mon 6/17 (11:50am, 2:50pm, 6:00pm), Tue 6/18 (12:10pm, 2:50pm, 6:00pm, 10:00pm), Wed 6/19 (12:00pm, 3:00pm, 7:00pm, 10:00pm)
+
+    * [Challengers](https://drafthouse.com/los-angeles/show/challengers): Thu 6/13 (3:45pm, 10:00pm), Fri 6/14 (3:40pm, 9:50pm), Sat 6/15 (3:45pm, 10:00pm), Sun 6/16 (3:50pm), Mon 6/17 (12:45pm, 4:10pm), Tue 6/18 (3:45pm, 10:00pm), Wed 6/19 (3:45pm, 10:00pm)
+
+    * [Do The Right Thing](https://drafthouse.com/los-angeles/show/do-the-right-thing): Fri 6/14 (1:25pm), Sat 6/15 (7:20pm), Sun 6/16 (2:45pm), Mon 6/17 (4:10pm, 7:00pm), Tue 6/18 (10:00pm), Wed 6/19 (1:30pm, 10:15pm)
+
+    * [Field Of Dreams](https://drafthouse.com/los-angeles/show/field-of-dreams): Tue 6/18 (12:30pm)
+
+    * [Furiosa A Mad Max Saga](https://drafthouse.com/los-angeles/show/furiosa-a-mad-max-saga): Thu 6/13 (3:40pm, 6:20pm, 10:00pm), Fri 6/14 (11:40am, 3:20pm, 6:00pm, 9:40pm), Sat 6/15 (11:40am, 3:20pm, 6:00pm, 9:40pm), Sun 6/16 (11:40am, 3:20pm, 6:00pm), Mon 6/17 (12:15pm, 3:25pm, 7:25pm), Tue 6/18 (11:10am, 3:15pm, 6:30pm, 9:00pm), Wed 6/19 (11:40am, 3:20pm, 6:00pm, 9:40pm)
+
+    * [Graveyard Shift Pet Sematary](https://drafthouse.com/los-angeles/show/graveyard-shift-pet-sematary): Tue 6/18 (10:20pm)
+
+    * [Haikyu The Dumpster Battle Subtitled](https://drafthouse.com/los-angeles/show/haikyu-the-dumpster-battle-subtitled): Thu 6/13 (4:25pm)
+
+    * [Hit Man](https://drafthouse.com/los-angeles/show/hit-man): Thu 6/13 (3:30pm, 6:40pm, 9:45pm), Fri 6/14 (12:25pm, 3:25pm, 6:40pm, 9:50pm), Sat 6/15 (12:30pm, 3:30pm, 6:40pm, 9:45pm), Sun 6/16 (12:35pm, 3:40pm, 6:45pm), Mon 6/17 (12:20pm, 3:20pm, 6:25pm), Tue 6/18 (12:35pm, 3:40pm, 6:45pm, 9:50pm), Wed 6/19 (12:30pm, 3:30pm, 6:40pm, 9:45pm)
+
+    * [I Saw The Tv Glow](https://drafthouse.com/los-angeles/show/i-saw-the-tv-glow): Thu 6/13 (5:00pm, 7:10pm, 9:40pm), Fri 6/14 (12:50pm, 4:00pm, 7:00pm, 9:35pm), Sat 6/15 (1:00pm, 4:00pm, 7:10pm, 9:35pm), Sun 6/16 (1:00pm, 2:10pm, 7:15pm, 7:45pm), Mon 6/17 (1:00pm, 3:50pm, 7:30pm), Tue 6/18 (1:00pm, 3:30pm, 7:10pm, 10:10pm), Wed 6/19 (1:00pm, 4:00pm, 7:10pm, 9:40pm)
+
+    * [I Used To Be Funny](https://drafthouse.com/los-angeles/show/i-used-to-be-funny): Fri 6/14 (12:35pm, 7:20pm), Sat 6/15 (10:35pm), Mon 6/17 (6:35pm), Tue 6/18 (3:30pm), Wed 6/19 (10:30pm)
+
+    * [In A Violent Nature](https://drafthouse.com/los-angeles/show/in-a-violent-nature): Thu 6/13 (10:35pm), Sun 6/16 (8:10pm), Tue 6/18 (10:45pm), Wed 6/19 (9:20pm)
+
+    * [Indiana Jones And The Last Crusade](https://drafthouse.com/los-angeles/show/indiana-jones-and-the-last-crusade): Sat 6/15 (9:00pm), Mon 6/17 (3:15pm), Tue 6/18 (1:00pm)
+
+    * [Indiana Jones And The Last Crusade Brunch](https://drafthouse.com/los-angeles/show/indiana-jones-and-the-last-crusade-brunch): Sat 6/15 (1:00pm)
+
+    * [Inside Out 2](https://drafthouse.com/los-angeles/show/inside-out-2): Thu 6/13 (6:00pm, 6:50pm, 8:45pm), Fri 6/14 (1:15pm, 3:35pm, 6:50pm, 7:10pm), Sat 6/15 (1:15pm, 6:10pm, 6:50pm), Sun 6/16 (11:25am, 5:00pm, 6:00pm), Mon 6/17 (2:30pm, 5:15pm, 6:40pm, 8:00pm), Tue 6/18 (12:45pm), Wed 6/19 (1:15pm, 6:50pm)
+
+    * [Kingdom Of The Planet Of The Apes](https://drafthouse.com/los-angeles/show/kingdom-of-the-planet-of-the-apes): Thu 6/13 (4:15pm)
+
+    * [Robot Dreams](https://drafthouse.com/los-angeles/show/robot-dreams): Thu 6/13 (7:45pm), Tue 6/18 (11:30am, 2:25pm, 4:20pm, 8:00pm)
+
+    * [The Birdcage](https://drafthouse.com/los-angeles/show/the-birdcage): Fri 6/14 (10:15pm), Sun 6/16 (5:00pm)
+
+    * [The Birdcage Brunch](https://drafthouse.com/los-angeles/show/the-birdcage-brunch): Sun 6/16 (11:00am)
+
+    * [The Watchers](https://drafthouse.com/los-angeles/show/the-watchers): Thu 6/13 (5:15pm, 8:00pm, 10:50pm), Fri 6/14 (11:00am, 1:50pm, 4:50pm, 7:45pm, 10:35pm), Sat 6/15 (11:00am, 1:50pm, 4:50pm, 7:45pm, 10:35pm), Sun 6/16 (10:45am, 1:40pm, 4:30pm, 7:25pm), Mon 6/17 (1:15pm, 3:55pm, 6:50pm), Tue 6/18 (11:00am, 1:50pm, 4:50pm, 7:45pm, 10:35pm), Wed 6/19 (1:50pm, 4:50pm, 7:45pm, 10:35pm)
+
+    * [Tuesday](https://drafthouse.com/los-angeles/show/tuesday): Thu 6/13 (7:45pm, 10:45pm), Fri 6/14 (12:10pm, 3:10pm, 6:10pm, 9:10pm), Sat 6/15 (12:10pm, 3:15pm, 6:20pm, 9:20pm), Sun 6/16 (12:15pm, 3:15pm, 6:15pm), Mon 6/17 (12:10pm, 3:10pm, 6:15pm), Tue 6/18 (12:00pm, 3:00pm, 6:15pm, 9:15pm), Wed 6/19 (12:15pm, 3:15pm, 6:15pm, 9:15pm)
+
 ### Mon 6/10 6:20am
 * New movies: Kinds of Kindness
 
