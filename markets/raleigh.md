@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Sun 6/9 10:37pm
+* New movies: Wake in Fright, Wake in Fright
+
+* New screenings: 
+    * [Weird Wednesday Wake In Fright](https://drafthouse.com/raleigh/show/weird-wednesday-wake-in-fright): Wed 7/31 (10:00pm)
+
 ### Sun 6/9 9:35pm
 * New movies: Exorcist III, The Lighthouse
 
