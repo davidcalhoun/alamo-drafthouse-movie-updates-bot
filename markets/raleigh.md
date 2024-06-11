@@ -1,6 +1,68 @@
 # raleigh
 
 ## Movie updates
+### Tue 6/11 11:22am
+* New movies: Nausicaa of the Valley of the Wind Subtitled, Hot Fuzz, Purple Rain, Grease, The Wizard of Oz 1939, Firestarter 1984, The Company of Wolves, Footloose 1984, Apollo 11, Beverly Hills Cop, Blood Simple., Body Double, Indiana Jones and the Temple of Doom, Cloak & Dagger 1984, Dune 1984, Gremlins, Love Streams, Red Dawn 1984, Repo Man, Starman, Stranger than Paradise, Streets of Fire, Streetwise, The Adventures of Buckaroo Banzai Across The 8th Dimension, The Cotton Club Encore, The Last Starfighter, The Toxic Avenger 1984, Top Secret!, Voyage of the Rock Aliens
+
+* New screenings: 
+    * [Apollo 11](https://drafthouse.com/raleigh/show/apollo-11): Sat 7/20 (12:30pm)
+
+    * [Beverly Hills Cop](https://drafthouse.com/raleigh/show/beverly-hills-cop): Wed 7/31 (7:00pm)
+
+    * [Blood Simple](https://drafthouse.com/raleigh/show/blood-simple): Mon 7/29 (7:00pm)
+
+    * [Body Double](https://drafthouse.com/raleigh/show/body-double): Wed 7/10 (6:30pm)
+
+    * [Brunch Screenings Indiana Jones And The Temple Of Doom Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-indiana-jones-and-the-temple-of-doom-brunch): Sun 8/11 (11:30am)
+
+    * [Cloak Dagger 1984](https://drafthouse.com/raleigh/show/cloak-dagger-1984): Sun 7/14 (1:00pm)
+
+    * [Dune 1984](https://drafthouse.com/raleigh/show/dune-1984): Fri 8/2 (10:00pm)
+
+    * [Graveyard Shift Firestarter 1984](https://drafthouse.com/raleigh/show/graveyard-shift-firestarter-1984): Mon 8/12 (6:30pm)
+
+    * [Graveyard Shift The Company Of Wolves](https://drafthouse.com/raleigh/show/graveyard-shift-the-company-of-wolves): Fri 7/5 (10:00pm)
+
+    * [Gremlins](https://drafthouse.com/raleigh/show/gremlins): Sat 7/13 (3:30pm)
+
+    * [Love Streams](https://drafthouse.com/raleigh/show/love-streams): Sat 7/6 (1:45pm)
+
+    * [Movie Party Hot Fuzz](https://drafthouse.com/raleigh/show/movie-party-hot-fuzz): Wed 8/21 (7:00pm)
+
+    * [Movie Party Purple Rain](https://drafthouse.com/raleigh/show/movie-party-purple-rain): Tue 7/16 (6:00pm)
+
+    * [Nausicaa Of The Valley Of The Wind Subtitled](https://drafthouse.com/raleigh/show/nausicaa-of-the-valley-of-the-wind-subtitled): Fri 7/12 (3:30pm), Mon 7/15 (6:30pm)
+
+    * [Queer Film Theory 101 Footloose 1984](https://drafthouse.com/raleigh/show/queer-film-theory-101-footloose-1984): Mon 8/19 (7:15pm)
+
+    * [Red Dawn 1984](https://drafthouse.com/raleigh/show/red-dawn-1984): Fri 7/5 (11:00am)
+
+    * [Repo Man](https://drafthouse.com/raleigh/show/repo-man): Sat 8/31 (3:30pm)
+
+    * [Signature Programming Grease](https://drafthouse.com/raleigh/show/signature-programming-grease): Sun 8/25 (3:15pm)
+
+    * [Starman](https://drafthouse.com/raleigh/show/starman): Wed 7/24 (6:30pm)
+
+    * [Stranger Than Paradise](https://drafthouse.com/raleigh/show/stranger-than-paradise): Sat 8/3 (11:00am)
+
+    * [Streets Of Fire](https://drafthouse.com/raleigh/show/streets-of-fire): Wed 8/14 (7:00pm)
+
+    * [Streetwise](https://drafthouse.com/raleigh/show/streetwise): Sat 8/24 (2:45pm)
+
+    * [The Adventures Of Buckaroo Banzai Across The 8th Dimension](https://drafthouse.com/raleigh/show/the-adventures-of-buckaroo-banzai-across-the-8th-dimension): Sun 7/21 (11:30am)
+
+    * [The Cotton Club Encore](https://drafthouse.com/raleigh/show/the-cotton-club-encore): Sat 8/10 (3:15pm)
+
+    * [The Last Starfighter](https://drafthouse.com/raleigh/show/the-last-starfighter): Wed 8/28 (6:30pm)
+
+    * [The Toxic Avenger](https://drafthouse.com/raleigh/show/the-toxic-avenger): Fri 8/23 (9:30pm)
+
+    * [The Wizard Of Oz Movie Party](https://drafthouse.com/raleigh/show/the-wizard-of-oz-movie-party): Sun 8/4 (11:00am)
+
+    * [Top Secret](https://drafthouse.com/raleigh/show/top-secret): Sun 7/7 (12:00pm)
+
+    * [Voyage Of The Rock Aliens](https://drafthouse.com/raleigh/show/voyage-of-the-rock-aliens): Sat 7/20 (3:05pm)
+
 ### Mon 6/10 5:20pm
 * New movies: The Birdcage
 
