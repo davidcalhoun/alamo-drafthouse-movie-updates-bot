@@ -1,6 +1,66 @@
 # los-angeles
 
 ## Movie updates
+### Tue 6/11 8:18am
+* New movies: Purple Rain, The Wizard of Oz 1939, Hot Fuzz, Grease, Firestarter 1984, The Company of Wolves, Nausicaa of the Valley of the Wind Subtitled, Footloose 1984, Apollo 11, Beverly Hills Cop, Blood Simple., Body Double, Indiana Jones and the Temple of Doom, Dune 1984, Gremlins, Love Streams, Red Dawn 1984, Repo Man, Starman, Stranger than Paradise, Streets of Fire, Streetwise, The Adventures of Buckaroo Banzai Across The 8th Dimension, The Cotton Club Encore, The Last Starfighter, The Toxic Avenger 1984, Top Secret!, Voyage of the Rock Aliens
+
+* New screenings: 
+    * [Apollo 11](https://drafthouse.com/los-angeles/show/apollo-11): Sat 7/20 (12:25pm)
+
+    * [Beverly Hills Cop](https://drafthouse.com/los-angeles/show/beverly-hills-cop): Tue 7/30 (7:15pm)
+
+    * [Blood Simple](https://drafthouse.com/los-angeles/show/blood-simple): Mon 7/29 (7:15pm)
+
+    * [Body Double](https://drafthouse.com/los-angeles/show/body-double): Mon 7/8 (7:15pm)
+
+    * [Brunch Screenings Indiana Jones And The Temple Of Doom Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-indiana-jones-and-the-temple-of-doom-brunch): Sun 8/11 (11:30am)
+
+    * [Dune 1984](https://drafthouse.com/los-angeles/show/dune-1984): Fri 8/2 (9:30pm)
+
+    * [Graveyard Shift Firestarter 1984](https://drafthouse.com/los-angeles/show/graveyard-shift-firestarter-1984): Mon 8/12 (7:15pm)
+
+    * [Graveyard Shift The Company Of Wolves](https://drafthouse.com/los-angeles/show/graveyard-shift-the-company-of-wolves): Fri 7/5 (9:15pm)
+
+    * [Gremlins](https://drafthouse.com/los-angeles/show/gremlins): Sat 7/13 (10:45am)
+
+    * [Love Streams](https://drafthouse.com/los-angeles/show/love-streams): Sat 7/6 (1:45pm)
+
+    * [Movie Party Hot Fuzz](https://drafthouse.com/los-angeles/show/movie-party-hot-fuzz): Fri 8/16 (9:30pm), Sun 8/18 (4:00pm), Tue 8/20 (7:15pm)
+
+    * [Movie Party Purple Rain](https://drafthouse.com/los-angeles/show/movie-party-purple-rain): Fri 7/12 (9:30pm), Sun 7/14 (11:30am, 7:00pm), Mon 7/15 (7:00pm), Wed 7/17 (7:00pm)
+
+    * [Nausicaa Of The Valley Of The Wind Subtitled](https://drafthouse.com/los-angeles/show/nausicaa-of-the-valley-of-the-wind-subtitled): Mon 7/15 (3:50pm)
+
+    * [Queer Film Theory 101 Footloose 1984](https://drafthouse.com/los-angeles/show/queer-film-theory-101-footloose-1984): Mon 8/19 (7:15pm)
+
+    * [Red Dawn 1984](https://drafthouse.com/los-angeles/show/red-dawn-1984): Sat 7/6 (10:45am)
+
+    * [Repo Man](https://drafthouse.com/los-angeles/show/repo-man): Fri 8/30 (10:15pm)
+
+    * [Signature Programming Grease](https://drafthouse.com/los-angeles/show/signature-programming-grease): Sat 8/24 (11:00am, 2:00pm), Mon 8/26 (7:15pm)
+
+    * [Starman](https://drafthouse.com/los-angeles/show/starman): Sun 7/21 (12:00pm)
+
+    * [Stranger Than Paradise](https://drafthouse.com/los-angeles/show/stranger-than-paradise): Sat 8/3 (5:00pm)
+
+    * [Streets Of Fire](https://drafthouse.com/los-angeles/show/streets-of-fire): Wed 8/14 (7:15pm)
+
+    * [Streetwise](https://drafthouse.com/los-angeles/show/streetwise): Sat 8/24 (5:00pm)
+
+    * [The Adventures Of Buckaroo Banzai Across The 8th Dimension](https://drafthouse.com/los-angeles/show/the-adventures-of-buckaroo-banzai-across-the-8th-dimension): Sun 7/21 (3:10pm)
+
+    * [The Cotton Club Encore](https://drafthouse.com/los-angeles/show/the-cotton-club-encore): Sat 8/10 (2:40pm)
+
+    * [The Last Starfighter](https://drafthouse.com/los-angeles/show/the-last-starfighter): Sun 8/25 (4:20pm)
+
+    * [The Toxic Avenger](https://drafthouse.com/los-angeles/show/the-toxic-avenger): Fri 8/23 (9:30pm)
+
+    * [The Wizard Of Oz Movie Party](https://drafthouse.com/los-angeles/show/the-wizard-of-oz-movie-party): Sat 8/3 (11:00am, 2:00pm), Sun 8/4 (11:00am, 2:00pm)
+
+    * [Top Secret](https://drafthouse.com/los-angeles/show/top-secret): Sun 7/7 (11:00am)
+
+    * [Voyage Of The Rock Aliens](https://drafthouse.com/los-angeles/show/voyage-of-the-rock-aliens): Sat 7/20 (3:10pm)
+
 ### Mon 6/10 4:17pm
 * New movies: Tuesday, The Birdcage, Indiana Jones and the Last Crusade
 
