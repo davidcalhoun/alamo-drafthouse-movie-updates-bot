@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 6/12 12:26pm
+* New movies: Horizon: An American Saga - Chapter 1
+
+* New screenings: 
+    * [Horizon An American Saga Chapter 1](https://drafthouse.com/raleigh/show/horizon-an-american-saga-chapter-1): Thu 6/27 (3:30pm, 7:45pm, 10:30pm), Fri 6/28 (7:45pm, 10:00pm), Sat 6/29 (7:30pm, 10:30pm), Sun 6/30 (7:30pm, 10:00pm)
+
 ### Wed 6/12 9:23am
 * New movies: UFC 303: McGregor vs. Chandler
 
