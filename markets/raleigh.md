@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 6/12 9:23am
+* New movies: UFC 303: McGregor vs. Chandler
+
+* New screenings: 
+    * [Ufc 303 Mcgregor Vs Chandler](https://drafthouse.com/raleigh/show/ufc-303-mcgregor-vs-chandler): Sat 6/29 (10:00pm)
+
 ### Tue 6/11 12:26pm
 
 * New screenings: 
