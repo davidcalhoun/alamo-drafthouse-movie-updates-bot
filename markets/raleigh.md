@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Wed 6/12 2:27pm
+* New movies: A/V Geeks Present: Shake Hands With Danger, Apocalypse Now: Final Cut, Hearts of Darkness: A Filmmaker's Apocalypse
+
+* New screenings: 
+    * [A V Geeks Present Shake Hands With Danger](https://drafthouse.com/raleigh/show/a-v-geeks-present-shake-hands-with-danger): Tue 7/23 (7:15pm)
+
+    * [Apocalypse Now Final Cut](https://drafthouse.com/raleigh/show/apocalypse-now-final-cut): Mon 9/2 (11:30am)
+
+    * [Hearts Of Darkness A Filmmakers Apocalypse](https://drafthouse.com/raleigh/show/hearts-of-darkness-a-filmmakers-apocalypse): Mon 9/2 (4:00pm)
+
 ### Wed 6/12 12:26pm
 * New movies: Horizon: An American Saga - Chapter 1
 
