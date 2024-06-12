@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 6/12 9:22am
+* New movies: Horizon: An American Saga - Chapter 1
+
+* New screenings: 
+    * [Horizon An American Saga Chapter 1](https://drafthouse.com/los-angeles/show/horizon-an-american-saga-chapter-1): Thu 6/27 (3:45pm, 8:00pm), Fri 6/28 (11:40am, 3:50pm, 8:00pm), Sat 6/29 (11:40am, 3:50pm, 8:00pm), Sun 6/30 (11:40am, 3:50pm), Mon 7/1 (11:40am, 3:50pm, 8:00pm), Tue 7/2 (11:40am, 3:50pm, 8:00pm)
+
 ### Tue 6/11 8:18am
 * New movies: Purple Rain, The Wizard of Oz 1939, Hot Fuzz, Grease, Firestarter 1984, The Company of Wolves, Nausicaa of the Valley of the Wind Subtitled, Footloose 1984, Apollo 11, Beverly Hills Cop, Blood Simple., Body Double, Indiana Jones and the Temple of Doom, Dune 1984, Gremlins, Love Streams, Red Dawn 1984, Repo Man, Starman, Stranger than Paradise, Streets of Fire, Streetwise, The Adventures of Buckaroo Banzai Across The 8th Dimension, The Cotton Club Encore, The Last Starfighter, The Toxic Avenger 1984, Top Secret!, Voyage of the Rock Aliens
 
