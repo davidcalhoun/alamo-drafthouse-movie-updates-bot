@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 6/13 12:27pm
+* New movies: Ghostlight
+
+* New screenings: 
+    * [Ghostlight](https://drafthouse.com/raleigh/show/ghostlight): Fri 6/21 (4:30pm, 7:30pm), Sat 6/22 (1:15pm), Sun 6/23 (11:30am), Mon 6/24 (4:15pm), Tue 6/25 (6:30pm), Wed 6/26 (4:00pm)
+
 ### Wed 6/12 2:27pm
 * New movies: A/V Geeks Present: Shake Hands With Danger, Apocalypse Now: Final Cut, Hearts of Darkness: A Filmmaker's Apocalypse
 
