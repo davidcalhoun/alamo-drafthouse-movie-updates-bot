@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Thu 6/13 6:21pm
+* New movies: MaXXXine, MaXXXine
+
+* New screenings: 
+    * [Advance Screening Maxxxine Early Access](https://drafthouse.com/raleigh/show/advance-screening-maxxxine-early-access): Wed 7/3 (7:00pm)
+
+    * [Maxxxine](https://drafthouse.com/raleigh/show/maxxxine): Fri 7/5 (6:00pm, 9:00pm), Sat 7/6 (6:00pm, 9:00pm), Sun 7/7 (6:00pm, 9:00pm)
+
 ### Thu 6/13 12:27pm
 * New movies: Ghostlight
 
