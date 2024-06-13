@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Thu 6/13 3:16pm
+* New movies: MaXXXine, MaXXXine, MaXXXine
+
+* New screenings: 
+    * [Advance Screening Maxxxine Early Access](https://drafthouse.com/los-angeles/show/advance-screening-maxxxine-early-access): Wed 7/3 (7:00pm)
+
+    * [Live Q A Maxxxine](https://drafthouse.com/los-angeles/show/live-q-a-maxxxine): Wed 6/26 (6:00pm)
+
+    * [Maxxxine](https://drafthouse.com/los-angeles/show/maxxxine): Fri 7/5 (10:30am, 1:25pm, 4:20pm, 7:15pm, 10:10pm), Sat 7/6 (10:30am, 1:25pm, 4:20pm, 7:15pm, 10:10pm), Sun 7/7 (10:30am, 1:25pm, 4:20pm, 7:15pm), Mon 7/8 (12:40pm, 3:35pm, 6:30pm, 9:25pm), Tue 7/9 (12:40pm, 3:35pm, 6:30pm, 9:25pm), Wed 7/10 (12:40pm, 3:35pm, 6:30pm, 9:25pm)
+
 ### Wed 6/12 9:22am
 * New movies: Horizon: An American Saga - Chapter 1
 
