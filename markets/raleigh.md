@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 6/14 7:20pm
+* New movies: SUBURBIA
+
+* New screenings: 
+    * [Weird Wednesday Suburbia](https://drafthouse.com/raleigh/show/weird-wednesday-suburbia): Wed 8/7 (9:00pm)
+
 ### Fri 6/14 12:25pm
 * New movies: UFC 303: Pereira vs. Prochazka 2
 
