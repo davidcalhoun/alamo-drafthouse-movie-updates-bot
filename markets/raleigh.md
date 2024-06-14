@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 6/14 12:25pm
+* New movies: UFC 303: Pereira vs. Prochazka 2
+
+
+
 ### Thu 6/13 6:21pm
 * New movies: MaXXXine, MaXXXine
 
