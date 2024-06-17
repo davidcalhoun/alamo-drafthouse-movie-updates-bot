@@ -1,6 +1,42 @@
 # raleigh
 
 ## Movie updates
+### Mon 6/17 4:18pm
+* New movies: Ghost in the Shell 2: Innocence Dubbed, UHF, Inside Out 2
+
+* New screenings: 
+    * [Bad Boys Ride Or Die](https://drafthouse.com/raleigh/show/bad-boys-ride-or-die): Thu 6/20 (1:00pm, 4:00pm, 7:00pm, 10:00pm, 11:15pm), Fri 6/21 (11:15am, 2:30pm, 6:00pm, 9:15pm), Sat 6/22 (11:15am, 2:45pm, 6:00pm, 9:15pm), Sun 6/23 (11:15am, 2:30pm, 6:00pm, 9:45pm), Mon 6/24 (11:15am, 2:30pm, 6:00pm, 9:45pm), Tue 6/25 (11:15am, 2:30pm, 6:00pm, 9:45pm), Wed 6/26 (11:15am, 2:30pm, 6:15pm, 9:45pm)
+
+    * [Family Party Inside Out 2](https://drafthouse.com/raleigh/show/family-party-inside-out-2): Sat 6/22 (12:00pm)
+
+    * [Field Of Dreams](https://drafthouse.com/raleigh/show/field-of-dreams): Thu 6/20 (12:15pm)
+
+    * [Furiosa A Mad Max Saga](https://drafthouse.com/raleigh/show/furiosa-a-mad-max-saga): Thu 6/20 (11:15am, 3:15pm, 7:15pm, 10:45pm)
+
+    * [Ghost In The Shell 2 Innocence Dubbed](https://drafthouse.com/raleigh/show/ghost-in-the-shell-2-innocence-dubbed): Mon 6/24 (9:15pm)
+
+    * [Ghost In The Shell 2 Innocence Subtitled](https://drafthouse.com/raleigh/show/ghost-in-the-shell-2-innocence-subtitled): Fri 6/21 (10:30pm), Sun 6/23 (6:30pm), Mon 6/24 (6:30pm), Wed 6/26 (6:30pm)
+
+    * [Ghost Rite Here Rite Now](https://drafthouse.com/raleigh/show/ghost-rite-here-rite-now): Thu 6/20 (7:00pm), Fri 6/21 (2:45pm), Sat 6/22 (7:45pm), Sun 6/23 (5:45pm), Tue 6/25 (5:00pm)
+
+    * [If](https://drafthouse.com/raleigh/show/if): Thu 6/20 (11:15am, 2:00pm, 4:45pm), Fri 6/21 (12:45pm, 4:15pm), Sat 6/22 (11:30am, 2:30pm), Sun 6/23 (11:30am, 2:30pm), Mon 6/24 (12:45pm, 3:00pm), Tue 6/25 (12:00pm, 3:00pm), Wed 6/26 (12:45pm, 4:00pm)
+
+    * [Inside Out 2](https://drafthouse.com/raleigh/show/inside-out-2): Thu 6/20 (11:00am, 12:00pm, 12:30pm, 2:00pm, 3:00pm, 3:30pm, 5:00pm, 6:00pm, 6:30pm, 8:00pm, 9:00pm, 9:30pm, 11:00pm), Fri 6/21 (11:00am, 12:00pm, 12:30pm, 1:00pm, 2:00pm, 3:00pm, 3:30pm, 4:00pm, 5:00pm, 6:00pm, 6:15pm, 6:30pm, 7:00pm, 8:00pm, 9:00pm, 9:30pm, 10:00pm, 11:00pm), Sat 6/22 (11:00am, 12:30pm, 1:00pm, 2:00pm, 3:00pm, 3:30pm, 5:00pm, 6:00pm, 6:30pm, 7:00pm, 8:00pm, 8:30pm, 9:00pm, 9:30pm, 10:00pm), Sun 6/23 (11:00am, 12:00pm, 1:00pm, 2:00pm, 3:00pm, 4:00pm, 5:00pm, 6:00pm, 7:00pm, 7:30pm, 8:00pm, 9:00pm, 9:30pm, 10:00pm, 10:30pm, 11:00pm), Mon 6/24 (11:00am, 12:00pm, 1:00pm, 2:00pm, 2:45pm, 3:30pm, 4:00pm, 5:00pm, 6:00pm, 7:00pm, 8:00pm, 9:00pm, 9:30pm, 10:00pm, 10:30pm, 11:00pm), Tue 6/25 (11:00am, 11:30am, 11:30am, 12:00pm, 1:00pm, 2:00pm, 3:00pm, 3:30pm, 4:00pm, 5:00pm, 6:00pm, 7:00pm, 8:00pm, 8:30pm, 9:00pm, 10:00pm, 10:30pm), Wed 6/26 (11:00am, 12:00pm, 12:30pm, 1:00pm, 2:00pm, 3:00pm, 3:30pm, 5:00pm, 6:00pm, 7:00pm, 7:30pm, 8:00pm, 9:00pm, 9:30pm, 10:00pm, 10:15pm, 11:00pm)
+
+    * [Kingdom Of The Planet Of The Apes](https://drafthouse.com/raleigh/show/kingdom-of-the-planet-of-the-apes): Thu 6/20 (11:00am, 2:30pm, 6:00pm, 9:45pm), Fri 6/21 (11:45am, 3:15pm, 6:45pm, 10:15pm), Sat 6/22 (11:45am, 3:15pm, 6:45pm, 10:15pm), Sun 6/23 (11:45am, 3:15pm, 6:45pm, 10:15pm), Mon 6/24 (11:45am, 3:15pm, 6:45pm, 10:15pm), Tue 6/25 (11:45am, 3:15pm, 6:45pm, 10:15pm), Wed 6/26 (11:45am, 3:15pm, 6:45pm, 10:15pm)
+
+    * [The Bikeriders](https://drafthouse.com/raleigh/show/the-bikeriders): Fri 6/21 (11:00am, 2:00pm, 5:00pm), Sat 6/22 (11:00am, 2:00pm, 5:00pm, 11:00pm), Sun 6/23 (11:00am, 2:00pm, 5:00pm, 9:15pm, 11:00pm), Mon 6/24 (11:00am, 2:00pm, 5:00pm, 6:15pm, 8:00pm, 11:00pm), Tue 6/25 (11:00am, 2:00pm, 5:00pm, 8:00pm, 11:00pm), Wed 6/26 (11:00am, 2:00pm, 5:00pm, 8:00pm, 11:00pm)
+
+    * [The Garfield Movie 2024](https://drafthouse.com/raleigh/show/the-garfield-movie-2024): Thu 6/20 (12:15pm, 3:00pm), Fri 6/21 (12:00pm), Sat 6/22 (5:30pm), Sun 6/23 (4:30pm), Mon 6/24 (12:30pm), Tue 6/25 (2:15pm), Wed 6/26 (4:30pm)
+
+    * [The Watchers](https://drafthouse.com/raleigh/show/the-watchers): Thu 6/20 (11:30am, 2:15pm, 5:15pm, 8:00pm, 11:00pm), Fri 6/21 (11:30am, 2:15pm, 5:15pm, 8:15pm, 11:15pm), Sat 6/22 (11:30am, 2:15pm, 5:15pm, 8:15pm, 11:15pm), Sun 6/23 (11:30am, 2:15pm, 5:15pm, 8:15pm, 11:15pm), Mon 6/24 (12:00pm, 3:00pm, 6:15pm, 9:15pm), Tue 6/25 (11:30am, 2:15pm, 5:15pm, 8:15pm, 11:15pm), Wed 6/26 (11:30am, 2:15pm, 5:15pm, 8:15pm, 11:15pm)
+
+    * [Thelma 2024](https://drafthouse.com/raleigh/show/thelma-2024): Fri 6/21 (12:15pm, 3:00pm), Sat 6/22 (3:15pm), Sun 6/23 (12:15pm, 3:15pm), Mon 6/24 (12:15pm, 3:15pm, 6:30pm, 9:30pm), Tue 6/25 (12:15pm, 3:30pm, 6:30pm, 9:30pm), Wed 6/26 (12:15pm, 3:15pm, 6:15pm, 9:15pm)
+
+    * [Uhf](https://drafthouse.com/raleigh/show/uhf): Wed 6/26 (1:15pm)
+
+    * [Vampires Kiss](https://drafthouse.com/raleigh/show/vampires-kiss): Sat 6/22 (11:00pm), Tue 6/25 (11:00pm)
+
 ### Mon 6/17 3:15pm
 * New movies: Fly Me to the Moon, Fly Me to the Moon
 
