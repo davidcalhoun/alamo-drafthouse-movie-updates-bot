@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Mon 6/17 3:15pm
+* New movies: Fly Me to the Moon, Fly Me to the Moon
+
+* New screenings: 
+    * [Advance Screening Fly Me To The Moon Early Access](https://drafthouse.com/raleigh/show/advance-screening-fly-me-to-the-moon-early-access): Fri 7/5 (7:15pm), Sat 7/6 (7:15pm)
+
+    * [Fly Me To The Moon](https://drafthouse.com/raleigh/show/fly-me-to-the-moon): Thu 7/11 (3:00pm, 6:15pm, 9:30pm), Fri 7/12 (8:15pm, 11:30pm), Sat 7/13 (8:15pm, 11:30pm), Sun 7/14 (8:15pm, 11:30pm)
+
 ### Fri 6/14 7:20pm
 * New movies: SUBURBIA
 
