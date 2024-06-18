@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 6/18 11:22am
+* New movies: UFC 303: PEREIRA VS. PROCHAZKA 2
+
+
+
 ### Mon 6/17 4:18pm
 * New movies: Ghost in the Shell 2: Innocence Dubbed, UHF, Inside Out 2
 
