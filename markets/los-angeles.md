@@ -1,6 +1,48 @@
 # los-angeles
 
 ## Movie updates
+### Mon 6/17 7:33pm
+* New movies: Ghostlight
+
+* New screenings: 
+    * [Bad Boys Ride Or Die](https://drafthouse.com/los-angeles/show/bad-boys-ride-or-die): Thu 6/20 (3:00pm, 7:00pm, 10:00pm), Fri 6/21 (12:15pm, 3:00pm, 7:00pm, 10:10pm), Sat 6/22 (12:15pm, 3:00pm, 7:00pm, 10:10pm), Sun 6/23 (12:15pm, 3:00pm, 7:00pm), Mon 6/24 (12:15pm, 3:00pm, 7:00pm, 10:00pm), Tue 6/25 (12:15pm, 3:00pm, 7:00pm, 10:00pm), Wed 6/26 (12:15pm, 3:00pm, 7:00pm, 10:00pm)
+
+    * [Deep Red](https://drafthouse.com/los-angeles/show/deep-red): Sat 6/22 (9:30pm), Tue 6/25 (8:45pm), Wed 6/26 (9:40pm)
+
+    * [Do The Right Thing](https://drafthouse.com/los-angeles/show/do-the-right-thing): Thu 6/20 (4:00pm, 9:15pm)
+
+    * [Furiosa A Mad Max Saga](https://drafthouse.com/los-angeles/show/furiosa-a-mad-max-saga): Thu 6/20 (3:20pm, 6:00pm, 9:40pm), Fri 6/21 (11:20am, 3:20pm, 6:10pm, 9:50pm), Sat 6/22 (11:25am, 3:20pm, 6:10pm, 9:50pm), Sun 6/23 (11:25am, 3:20pm, 6:10pm), Mon 6/24 (11:20am, 3:20pm, 6:10pm, 9:50pm), Tue 6/25 (11:25am, 3:20pm, 6:10pm, 9:50pm), Wed 6/26 (11:20am, 3:20pm, 6:10pm, 9:50pm)
+
+    * [Ghost Rite Here Rite Now](https://drafthouse.com/los-angeles/show/ghost-rite-here-rite-now): Fri 6/21 (12:00pm, 9:15pm), Sat 6/22 (9:15pm), Sun 6/23 (6:00pm), Mon 6/24 (9:15pm), Tue 6/25 (9:15pm), Wed 6/26 (9:15pm)
+
+    * [Ghostlight](https://drafthouse.com/los-angeles/show/ghostlight): Fri 6/21 (7:20pm), Sat 6/22 (12:40pm), Sun 6/23 (4:45pm), Mon 6/24 (1:10pm), Tue 6/25 (1:15pm), Wed 6/26 (1:15pm)
+
+    * [I Saw The Tv Glow](https://drafthouse.com/los-angeles/show/i-saw-the-tv-glow): Thu 6/20 (6:10pm), Fri 6/21 (12:20pm, 6:00pm), Sat 6/22 (12:20pm, 6:00pm), Sun 6/23 (7:45pm), Mon 6/24 (12:20pm, 6:00pm), Tue 6/25 (12:20pm, 6:00pm), Wed 6/26 (12:20pm, 6:00pm)
+
+    * [I Used To Be Funny](https://drafthouse.com/los-angeles/show/i-used-to-be-funny): Thu 6/20 (10:45pm), Sat 6/22 (7:20pm), Mon 6/24 (6:00pm, 10:20pm), Tue 6/25 (11:45am), Wed 6/26 (4:20pm)
+
+    * [Indiana Jones And The Last Crusade](https://drafthouse.com/los-angeles/show/indiana-jones-and-the-last-crusade): Thu 6/20 (4:30pm)
+
+    * [Inside Out 2](https://drafthouse.com/los-angeles/show/inside-out-2): Thu 6/20 (2:30pm, 4:00pm, 5:15pm, 6:45pm, 8:00pm, 9:30pm, 10:45pm), Fri 6/21 (11:45am, 1:15pm, 2:00pm, 2:30pm, 3:40pm, 4:00pm, 5:15pm, 6:30pm, 6:45pm, 8:00pm, 9:30pm, 10:45pm), Sat 6/22 (11:45am, 1:15pm, 2:00pm, 2:30pm, 3:00pm, 4:00pm, 5:15pm, 5:45pm, 6:45pm, 8:00pm, 8:30pm, 10:45pm), Sun 6/23 (11:40am, 12:20pm, 1:15pm, 2:00pm, 2:30pm, 3:00pm, 4:00pm, 5:20pm, 5:45pm, 6:45pm, 8:30pm), Mon 6/24 (11:45am, 1:15pm, 2:00pm, 2:30pm, 4:00pm, 5:15pm, 6:45pm, 8:00pm, 9:30pm, 10:45pm), Tue 6/25 (11:45am, 1:15pm, 2:00pm, 2:30pm, 4:00pm, 5:15pm, 6:45pm, 8:00pm, 9:30pm, 10:45pm), Wed 6/26 (11:10am, 11:45am, 1:15pm, 2:00pm, 2:30pm, 4:00pm, 4:45pm, 5:15pm, 6:45pm, 7:30pm, 8:00pm, 9:30pm, 10:15pm, 10:45pm)
+
+    * [Queer Film Theory 101 Tie Me Up Tie Me Down](https://drafthouse.com/los-angeles/show/queer-film-theory-101-tie-me-up-tie-me-down): Mon 6/24 (9:00pm), Tue 6/25 (5:40pm)
+
+    * [Robot Dreams](https://drafthouse.com/los-angeles/show/robot-dreams): Thu 6/20 (3:30pm, 6:20pm), Fri 6/21 (12:35pm, 3:30pm, 6:20pm), Sat 6/22 (12:35pm, 3:30pm, 6:20pm), Sun 6/23 (12:35pm, 3:30pm, 6:20pm), Mon 6/24 (12:35pm, 3:30pm, 6:20pm), Tue 6/25 (12:35pm, 3:30pm, 6:20pm), Wed 6/26 (12:35pm, 3:30pm, 6:20pm)
+
+    * [The Bikeriders](https://drafthouse.com/los-angeles/show/the-bikeriders): Thu 6/20 (4:15pm, 7:20pm, 10:25pm), Fri 6/21 (1:00pm, 4:05pm, 7:10pm, 10:15pm), Sat 6/22 (1:00pm, 4:05pm, 7:10pm, 10:15pm), Sun 6/23 (1:00pm, 4:05pm, 7:10pm), Mon 6/24 (1:00pm, 4:05pm, 7:10pm, 10:15pm), Tue 6/25 (1:00pm, 4:05pm, 7:10pm, 10:15pm), Wed 6/26 (12:10pm, 1:00pm, 3:20pm, 4:05pm, 6:30pm, 7:10pm, 10:15pm)
+
+    * [The Birdcage](https://drafthouse.com/los-angeles/show/the-birdcage): Thu 6/20 (10:30pm)
+
+    * [The Watchers](https://drafthouse.com/los-angeles/show/the-watchers): Thu 6/20 (3:15pm, 9:00pm), Fri 6/21 (3:10pm, 9:00pm), Sat 6/22 (3:10pm, 9:00pm), Sun 6/23 (3:10pm), Mon 6/24 (3:10pm, 9:00pm), Tue 6/25 (3:10pm, 9:00pm), Wed 6/26 (3:10pm, 9:00pm)
+
+    * [The Wizard 1989](https://drafthouse.com/los-angeles/show/the-wizard-1989): Sun 6/23 (11:00am), Mon 6/24 (3:10pm), Tue 6/25 (4:20pm)
+
+    * [Thelma 2024](https://drafthouse.com/los-angeles/show/thelma-2024): Thu 6/20 (7:45pm)
+
+    * [Tuesday](https://drafthouse.com/los-angeles/show/tuesday): Fri 6/21 (1:00pm), Sun 6/23 (1:50pm), Mon 6/24 (4:15pm), Tue 6/25 (2:40pm), Wed 6/26 (10:35pm)
+
+    * [Vampires Kiss](https://drafthouse.com/los-angeles/show/vampires-kiss): Fri 6/21 (10:25pm), Sat 6/22 (10:15pm), Sun 6/23 (8:10pm), Tue 6/25 (10:10pm)
+
 ### Thu 6/13 3:16pm
 * New movies: MaXXXine, MaXXXine, MaXXXine
 
