@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 6/18 9:34pm
+
+* New screenings: 
+    * [The Garfield Movie 2024](https://drafthouse.com/raleigh/show/the-garfield-movie-2024): Wed 6/19 (7:15pm, 10:00pm)
+
 ### Tue 6/18 11:22am
 * New movies: UFC 303: PEREIRA VS. PROCHAZKA 2
 
