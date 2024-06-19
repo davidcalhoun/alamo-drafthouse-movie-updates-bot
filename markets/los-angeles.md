@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 6/18 9:20pm
+* New movies: Fly Me to the Moon, Fly Me to the Moon
+
+* New screenings: 
+    * [Advance Screening Fly Me To The Moon Early Access](https://drafthouse.com/los-angeles/show/advance-screening-fly-me-to-the-moon-early-access): Fri 7/5 (7:00pm), Sat 7/6 (7:00pm)
+
+    * [Fly Me To The Moon](https://drafthouse.com/los-angeles/show/fly-me-to-the-moon): Thu 7/11 (3:00pm, 6:25pm, 9:50pm), Fri 7/12 (11:25am, 2:50pm, 6:15pm, 9:40pm), Sat 7/13 (11:25am, 2:50pm, 6:15pm, 9:40pm), Sun 7/14 (11:25am, 2:50pm, 6:15pm), Mon 7/15 (11:25am, 2:50pm, 6:15pm, 9:40pm), Tue 7/16 (11:25am, 2:50pm, 6:15pm, 9:40pm), Wed 7/17 (11:25am, 2:50pm, 6:15pm, 9:40pm)
+
 ### Mon 6/17 7:33pm
 * New movies: Ghostlight
 
