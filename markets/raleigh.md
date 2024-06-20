@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Thu 6/20 12:27pm
+
+* New screenings: 
+    * [Furiosa A Mad Max Saga](https://drafthouse.com/raleigh/show/furiosa-a-mad-max-saga): Fri 6/21 (1:45pm, 10:10pm, 11:00pm), Sat 6/22 (2:10pm), Sun 6/23 (12:15pm, 4:30pm), Mon 6/24 (11:15am, 2:45pm), Tue 6/25 (12:45pm, 4:30pm), Wed 6/26 (12:45pm, 4:30pm)
+
+    * [The Watchers](https://drafthouse.com/raleigh/show/the-watchers): Sat 6/22 (5:35pm)
+
 ### Thu 6/20 11:22am
 
 * New screenings: 
