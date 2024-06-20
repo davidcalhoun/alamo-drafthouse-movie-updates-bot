@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 6/20 10:37am
+* New movies: Longlegs
+
+* New screenings: 
+    * [Longlegs](https://drafthouse.com/raleigh/show/longlegs): Thu 7/11 (7:00pm, 10:00pm), Fri 7/12 (8:00pm, 11:00pm), Sat 7/13 (8:00pm, 11:00pm), Sun 7/14 (8:00pm, 11:00pm)
+
 ### Tue 6/18 9:34pm
 
 * New screenings: 
