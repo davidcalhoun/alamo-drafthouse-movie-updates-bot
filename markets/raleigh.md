@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 6/20 1:18pm
+* New movies: UFC 303: Pereira vs. Prochazka 2
+
+* New screenings: 
+    * [Ufc 303 Pereira Vs Prochazka 2](https://drafthouse.com/raleigh/show/ufc-303-pereira-vs-prochazka-2): Sat 6/29 (10:00pm)
+
 ### Thu 6/20 12:27pm
 
 * New screenings: 
