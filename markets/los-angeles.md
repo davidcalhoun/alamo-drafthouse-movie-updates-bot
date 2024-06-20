@@ -1,6 +1,28 @@
 # los-angeles
 
 ## Movie updates
+### Wed 6/19 6:14pm
+* New movies: Everything Is Terrible!: Kidz Klub!, The Legend of the Stardust Brothers, Disco Boy, Apocalypse Now: Final Cut, Beijing Watermelon, Cloak & Dagger 1984, Hearts of Darkness: A Filmmaker's Apocalypse, HEAVENLY BODIES
+
+* New screenings: 
+    * [Apocalypse Now Final Cut](https://drafthouse.com/los-angeles/show/apocalypse-now-final-cut): Mon 9/2 (11:45am)
+
+    * [Beijing Watermelon](https://drafthouse.com/los-angeles/show/beijing-watermelon): Sat 7/13 (6:00pm)
+
+    * [Cloak Dagger 1984](https://drafthouse.com/los-angeles/show/cloak-dagger-1984): Sat 7/13 (3:00pm)
+
+    * [Disco Boy](https://drafthouse.com/los-angeles/show/disco-boy): Sun 7/14 (2:30pm)
+
+    * [Everything Is Terrible Kidz Klub](https://drafthouse.com/los-angeles/show/everything-is-terrible-kidz-klub): Fri 7/19 (5:00pm), Wed 7/24 (7:15pm)
+
+    * [Hearts Of Darkness A Filmmakers Apocalypse](https://drafthouse.com/los-angeles/show/hearts-of-darkness-a-filmmakers-apocalypse): Mon 9/2 (4:25pm)
+
+    * [Heavenly Bodies](https://drafthouse.com/los-angeles/show/heavenly-bodies): Sat 8/31 (3:20pm)
+
+    * [Legend Of The Stardust Brothers](https://drafthouse.com/los-angeles/show/legend-of-the-stardust-brothers): Fri 7/12 (4:00pm), Wed 7/17 (6:00pm)
+
+    * [Queer Film Theory 101 Crimes Of Passion](https://drafthouse.com/los-angeles/show/queer-film-theory-101-crimes-of-passion): Mon 7/22 (10:25pm)
+
 ### Tue 6/18 9:20pm
 * New movies: Fly Me to the Moon, Fly Me to the Moon
 
