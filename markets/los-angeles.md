@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 6/20 6:19am
+* New movies: Longlegs
+
+* New screenings: 
+    * [Longlegs](https://drafthouse.com/los-angeles/show/longlegs): Thu 7/11 (7:15pm, 10:10pm), Fri 7/12 (11:10am, 2:00pm, 4:50pm, 7:45pm, 10:35pm), Sat 7/13 (2:00pm, 4:50pm, 7:45pm, 10:35pm), Sun 7/14 (11:10am, 2:00pm, 4:50pm, 7:45pm), Mon 7/15 (11:10am, 2:00pm, 4:50pm, 7:45pm, 10:35pm), Tue 7/16 (11:10am, 2:00pm, 4:50pm, 7:45pm, 10:35pm), Wed 7/17 (11:10am, 2:00pm, 4:50pm, 7:45pm, 10:35pm)
+
 ### Wed 6/19 6:14pm
 * New movies: Everything Is Terrible!: Kidz Klub!, The Legend of the Stardust Brothers, Disco Boy, Apocalypse Now: Final Cut, Beijing Watermelon, Cloak & Dagger 1984, Hearts of Darkness: A Filmmaker's Apocalypse, HEAVENLY BODIES
 
