@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Thu 6/20 11:22am
+
+* New screenings: 
+    * [Furiosa A Mad Max Saga](https://drafthouse.com/raleigh/show/furiosa-a-mad-max-saga): Fri 6/21 (11:15am), Sat 6/22 (8:30pm, 9:30pm), Sun 6/23 (9:30pm), Mon 6/24 (11:30am, 9:30pm), Tue 6/25 (8:30pm), Wed 6/26 (6:30pm, 10:30pm)
+
+    * [The Garfield Movie 2024](https://drafthouse.com/raleigh/show/the-garfield-movie-2024): Fri 6/21 (11:00pm)
+
 ### Thu 6/20 10:37am
 * New movies: Longlegs
 
