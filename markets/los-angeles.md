@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Thu 6/20 9:20pm
+* New movies: Harry Potter and the Prisoner of Azkaban, Heaven Adores You, One Cut of the Dead
+
+* New screenings: 
+    * [Live Q A Heaven Adores You](https://drafthouse.com/los-angeles/show/live-q-a-heaven-adores-you): Mon 8/5 (7:30pm)
+
+    * [Movie Party Hot Fuzz](https://drafthouse.com/los-angeles/show/movie-party-hot-fuzz): Sat 8/17 (7:15pm)
+
+    * [One Cut Of The Dead](https://drafthouse.com/los-angeles/show/one-cut-of-the-dead): Fri 7/26 (4:30pm), Wed 7/31 (7:15pm)
+
+    * [Signature Programming Harry Potter And The Prisoner Of Azkaban](https://drafthouse.com/los-angeles/show/signature-programming-harry-potter-and-the-prisoner-of-azkaban): Mon 9/2 (7:15pm), Tue 9/3 (6:00pm), Wed 9/4 (7:15pm)
+
 ### Thu 6/20 6:19am
 * New movies: Longlegs
 
