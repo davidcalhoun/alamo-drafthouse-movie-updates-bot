@@ -1,6 +1,23 @@
 # los-angeles
 
 ## Movie updates
+### Mon 6/24 12:17am
+
+* New screenings: 
+    * [A Quiet Place Day One](https://drafthouse.com/los-angeles/show/a-quiet-place-day-one): Fri 7/5 (11:30am, 2:15pm, 5:00pm, 7:50pm, 10:40pm), Sat 7/6 (11:30am, 2:15pm, 5:00pm, 7:50pm, 10:35pm), Sun 7/7 (11:00am, 1:45pm, 7:30pm), Mon 7/8 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Tue 7/9 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Wed 7/10 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm)
+
+    * [Despicable Me 4](https://drafthouse.com/los-angeles/show/despicable-me-4): Mon 7/8 (10:15pm)
+
+    * [Horizon An American Saga Chapter 1](https://drafthouse.com/los-angeles/show/horizon-an-american-saga-chapter-1): Fri 7/5 (11:40am, 3:50pm, 8:00pm), Sat 7/6 (11:40am, 3:50pm, 8:00pm), Sun 7/7 (11:40am, 3:50pm, 6:45pm), Mon 7/8 (11:40am, 3:50pm, 8:00pm), Tue 7/9 (11:40am, 3:50pm, 8:00pm), Wed 7/10 (11:40am, 3:50pm, 8:00pm)
+
+    * [Inside Out 2](https://drafthouse.com/los-angeles/show/inside-out-2): Fri 7/5 (10:30am, 1:15pm, 4:00pm, 6:45pm, 9:30pm), Sat 7/6 (10:30am, 1:15pm, 4:00pm, 6:45pm, 9:30pm), Sun 7/7 (10:30am, 1:15pm, 4:00pm, 8:00pm), Mon 7/8 (12:45pm, 3:30pm, 6:15pm, 9:00pm), Tue 7/9 (12:45pm, 3:30pm, 6:15pm, 9:00pm), Wed 7/10 (12:45pm, 3:30pm, 6:15pm, 9:00pm)
+
+    * [Kinds Of Kindness](https://drafthouse.com/los-angeles/show/kinds-of-kindness): Fri 7/5 (10:15am, 2:10pm, 6:00pm, 9:50pm), Sat 7/6 (10:15am, 2:10pm, 6:00pm, 9:50pm), Sun 7/7 (10:15am, 2:10pm, 6:00pm)
+
+    * [Maxxxine](https://drafthouse.com/los-angeles/show/maxxxine): Sun 7/7 (4:35pm)
+
+    * [The Bikeriders](https://drafthouse.com/los-angeles/show/the-bikeriders): Fri 7/5 (12:10pm, 3:20pm, 6:30pm, 9:40pm), Sat 7/6 (12:10pm, 3:20pm, 6:30pm, 9:40pm), Sun 7/7 (12:10pm, 3:20pm, 6:30pm), Mon 7/8 (12:30pm, 3:40pm, 6:45pm, 9:50pm), Tue 7/9 (12:30pm, 3:40pm, 6:45pm, 9:50pm), Wed 7/10 (12:30pm, 3:40pm, 6:45pm, 9:50pm)
+
 ### Thu 6/20 9:20pm
 * New movies: Harry Potter and the Prisoner of Azkaban, Heaven Adores You, One Cut of the Dead
 
