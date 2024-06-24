@@ -1,6 +1,44 @@
 # raleigh
 
 ## Movie updates
+### Mon 6/24 6:21pm
+* New movies: Blue Lock The Movie -Episode Nagi- Dubbed, Blue Lock The Movie -Episode Nagi- Subtitled
+
+* New screenings: 
+    * [A Quiet Place Day One](https://drafthouse.com/raleigh/show/a-quiet-place-day-one): Fri 6/28 (11:00am, 2:00pm, 3:30pm, 5:00pm, 6:30pm), Sat 6/29 (11:00am, 2:00pm, 3:30pm, 5:00pm, 6:15pm), Sun 6/30 (11:00am, 1:45pm, 3:15pm, 5:00pm, 8:30pm, 11:30pm), Mon 7/1 (11:00am, 2:00pm, 3:30pm, 5:00pm, 8:00pm, 11:00pm), Tue 7/2 (11:00am, 2:00pm, 3:30pm, 5:00pm, 6:30pm, 7:00pm, 8:00pm, 11:00pm)
+
+    * [Bad Boys Ride Or Die](https://drafthouse.com/raleigh/show/bad-boys-ride-or-die): Thu 6/27 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Fri 6/28 (12:30pm, 3:30pm, 6:30pm, 9:45pm), Sat 6/29 (12:30pm, 3:30pm, 6:30pm, 9:45pm), Sun 6/30 (1:00pm, 4:15pm, 7:15pm, 10:15pm), Mon 7/1 (1:00pm, 4:15pm, 7:15pm, 10:15pm), Tue 7/2 (1:00pm, 4:15pm, 7:15pm, 10:15pm)
+
+    * [Blue Lock The Movie Episode Nagi Dubbed](https://drafthouse.com/raleigh/show/blue-lock-the-movie-episode-nagi-dubbed): Fri 6/28 (12:15pm, 6:00pm, 11:30pm), Sat 6/29 (12:15pm, 5:45pm, 11:30pm), Sun 6/30 (12:15pm, 5:45pm, 11:30pm), Mon 7/1 (12:15pm, 6:00pm, 11:30pm), Tue 7/2 (12:15pm, 6:00pm, 11:30pm)
+
+    * [Blue Lock The Movie Episode Nagi Subtitled](https://drafthouse.com/raleigh/show/blue-lock-the-movie-episode-nagi-subtitled): Fri 6/28 (3:15pm, 8:45pm), Sat 6/29 (2:45pm, 8:30pm), Sun 6/30 (3:00pm, 8:45pm), Mon 7/1 (3:15pm, 8:45pm), Tue 7/2 (3:15pm, 8:45pm)
+
+    * [Furiosa A Mad Max Saga](https://drafthouse.com/raleigh/show/furiosa-a-mad-max-saga): Thu 6/27 (12:30pm, 4:00pm, 6:00pm, 9:45pm), Fri 6/28 (4:15pm), Sat 6/29 (4:15pm), Sun 6/30 (4:30pm), Mon 7/1 (4:15pm), Tue 7/2 (4:15pm)
+
+    * [Ghost Rite Here Rite Now](https://drafthouse.com/raleigh/show/ghost-rite-here-rite-now): Mon 7/1 (10:20pm)
+
+    * [Ghostlight](https://drafthouse.com/raleigh/show/ghostlight): Thu 6/27 (11:45am)
+
+    * [Horizon An American Saga Chapter 1](https://drafthouse.com/raleigh/show/horizon-an-american-saga-chapter-1): Fri 6/28 (11:15am, 3:45pm), Sat 6/29 (11:15am, 3:20pm), Sun 6/30 (11:15am, 3:20pm), Mon 7/1 (11:15am, 3:15pm, 6:15pm, 10:00pm), Tue 7/2 (11:15am, 3:20pm, 7:45pm)
+
+    * [If](https://drafthouse.com/raleigh/show/if): Thu 6/27 (1:30pm, 4:30pm)
+
+    * [Inside Out 2](https://drafthouse.com/raleigh/show/inside-out-2): Thu 6/27 (12:30pm, 1:00pm, 3:45pm, 6:30pm, 9:30pm, 10:45pm), Fri 6/28 (11:30am, 12:00pm, 1:00pm, 2:30pm, 4:00pm, 5:30pm, 6:45pm, 8:30pm, 9:30pm, 11:30pm), Sat 6/29 (12:00pm, 1:15pm, 4:00pm, 6:45pm, 9:30pm), Sun 6/30 (12:00pm, 1:15pm, 4:00pm, 6:45pm, 9:30pm), Mon 7/1 (12:00pm, 1:15pm, 2:30pm, 4:00pm, 5:30pm, 6:45pm, 7:45pm, 8:30pm, 9:30pm), Tue 7/2 (12:00pm, 12:30pm, 1:00pm, 3:30pm, 4:00pm, 6:30pm, 9:45pm)
+
+    * [Kinds Of Kindness](https://drafthouse.com/raleigh/show/kinds-of-kindness): Fri 6/28 (11:45am, 3:00pm, 7:30pm, 10:45pm), Sat 6/29 (11:45am, 3:00pm, 7:00pm, 7:15pm), Sun 6/30 (11:30am, 2:45pm, 6:00pm, 6:30pm, 10:15pm), Mon 7/1 (11:30am, 3:00pm, 7:00pm, 10:30pm), Tue 7/2 (11:45am, 3:00pm, 7:00pm, 7:30pm, 9:15pm)
+
+    * [Kingdom Of The Planet Of The Apes](https://drafthouse.com/raleigh/show/kingdom-of-the-planet-of-the-apes): Thu 6/27 (12:00pm, 3:30pm, 7:00pm), Fri 6/28 (12:45pm), Sat 6/29 (12:45pm), Sun 6/30 (12:45pm), Mon 7/1 (12:45pm), Tue 7/2 (12:45pm)
+
+    * [The Bikeriders](https://drafthouse.com/raleigh/show/the-bikeriders): Thu 6/27 (7:30pm, 10:30pm), Fri 6/28 (11:15am, 2:15pm, 5:15pm, 8:15pm, 11:15pm), Sat 6/29 (11:15am, 2:15pm, 5:15pm, 8:15pm, 11:15pm), Sun 6/30 (11:15am, 2:15pm, 5:15pm, 8:15pm, 11:15pm), Mon 7/1 (11:15am, 2:15pm, 5:15pm, 8:15pm, 11:15pm), Tue 7/2 (11:15am, 2:15pm, 5:15pm, 8:15pm, 11:15pm)
+
+    * [The Garfield Movie 2024](https://drafthouse.com/raleigh/show/the-garfield-movie-2024): Thu 6/27 (2:45pm)
+
+    * [The Watchers](https://drafthouse.com/raleigh/show/the-watchers): Thu 6/27 (7:15pm), Fri 6/28 (11:30pm), Sat 6/29 (10:45pm), Sun 6/30 (10:45pm), Mon 7/1 (10:45pm), Tue 7/2 (10:45pm)
+
+    * [Thelma 2024](https://drafthouse.com/raleigh/show/thelma-2024): Thu 6/27 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Fri 6/28 (11:05am, 1:45pm, 4:30pm, 8:00pm, 11:00pm), Sat 6/29 (11:05am, 1:45pm, 4:30pm, 7:45pm, 11:15pm), Sun 6/30 (11:05am, 2:00pm, 4:45pm, 7:45pm, 10:30pm), Mon 7/1 (11:05am, 2:00pm, 4:45pm, 8:00pm, 11:15pm), Tue 7/2 (11:00am, 2:00pm, 4:45pm, 8:00pm, 11:00pm)
+
+    * [Uhf](https://drafthouse.com/raleigh/show/uhf): Thu 6/27 (12:45pm)
+
 ### Thu 6/20 1:18pm
 * New movies: UFC 303: Pereira vs. Prochazka 2
 
