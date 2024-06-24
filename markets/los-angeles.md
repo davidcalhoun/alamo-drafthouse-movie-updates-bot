@@ -1,6 +1,15 @@
 # los-angeles
 
 ## Movie updates
+### Mon 6/24 11:23am
+
+* New screenings: 
+    * [A Quiet Place Day One](https://drafthouse.com/los-angeles/show/a-quiet-place-day-one): Sun 7/7 (5:15pm)
+
+    * [Kinds Of Kindness](https://drafthouse.com/los-angeles/show/kinds-of-kindness): Mon 7/8 (11:10am, 3:10pm, 6:00pm, 9:50pm), Tue 7/9 (11:10am, 3:10pm, 6:00pm, 9:50pm), Wed 7/10 (11:10am, 3:10pm, 6:00pm, 9:50pm)
+
+    * [Maxxxine](https://drafthouse.com/los-angeles/show/maxxxine): Fri 7/5 (11:45am, 2:45pm, 5:40pm, 8:40pm), Sat 7/6 (11:45am, 2:45pm, 5:40pm, 8:40pm), Sun 7/7 (11:25am, 2:20pm, 8:00pm), Mon 7/8 (12:15pm, 3:00pm, 7:00pm, 10:00pm), Tue 7/9 (12:15pm, 3:00pm, 7:00pm, 10:00pm), Wed 7/10 (12:15pm, 3:00pm, 7:00pm, 10:00pm)
+
 ### Mon 6/24 12:17am
 
 * New screenings: 
