@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 6/24 7:22pm
+
+* New screenings: 
+    * [Furiosa A Mad Max Saga](https://drafthouse.com/raleigh/show/furiosa-a-mad-max-saga): Tue 6/25 (2:30pm, 10:30pm)
+
 ### Mon 6/24 6:21pm
 * New movies: Blue Lock The Movie -Episode Nagi- Dubbed, Blue Lock The Movie -Episode Nagi- Subtitled
 
