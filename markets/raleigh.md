@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 6/25 12:24am
+
+* New screenings: 
+    * [Signature Programming Jaws 1975](https://drafthouse.com/raleigh/show/signature-programming-jaws-1975): Mon 7/1 (8:15pm)
+
 ### Mon 6/24 7:22pm
 
 * New screenings: 
