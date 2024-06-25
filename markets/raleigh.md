@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Tue 6/25 12:26pm
+* New movies: HEAVENLY BODIES
+
+* New screenings: 
+    * [Heavenly Bodies](https://drafthouse.com/raleigh/show/heavenly-bodies): Fri 8/30 (9:30pm)
+
+    * [Inside Out 2](https://drafthouse.com/raleigh/show/inside-out-2): Thu 6/27 (12:15pm)
+
 ### Tue 6/25 10:22am
 * New movies: Kill
 
