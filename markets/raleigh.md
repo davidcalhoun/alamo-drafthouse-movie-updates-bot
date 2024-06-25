@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 6/25 6:19pm
+
+* New screenings: 
+    * [Go Fish](https://drafthouse.com/raleigh/show/go-fish): Mon 7/1 (11:15pm)
+
 ### Tue 6/25 4:20pm
 
 * New screenings: 
