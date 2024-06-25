@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Tue 6/25 10:22am
+* New movies: Kill
+
+* New screenings: 
+    * [Blue Lock The Movie Episode Nagi Subtitled](https://drafthouse.com/raleigh/show/blue-lock-the-movie-episode-nagi-subtitled): Fri 6/28 (8:45pm)
+
+    * [Fantastic Fest Presents Kill Early Screening](https://drafthouse.com/raleigh/show/fantastic-fest-presents-kill-early-screening): Wed 7/3 (7:00pm)
+
+    * [Inside Out 2](https://drafthouse.com/raleigh/show/inside-out-2): Fri 6/28 (9:30pm)
+
 ### Tue 6/25 12:24am
 
 * New screenings: 
