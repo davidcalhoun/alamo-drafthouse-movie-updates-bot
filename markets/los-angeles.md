@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 6/25 6:19am
+* New movies: Kill, Kill
+
+* New screenings: 
+    * [Fantastic Fest Presents Kill Early Screening](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-kill-early-screening): Tue 7/2 (6:00pm)
+
+    * [Kill](https://drafthouse.com/los-angeles/show/kill): Wed 7/3 (7:30pm, 10:25pm), Thu 7/4 (11:00am, 1:50pm, 4:50pm, 7:45pm, 10:40pm), Fri 7/5 (11:00am, 1:50pm, 4:45pm, 7:40pm, 10:35pm), Sat 7/6 (11:00am, 1:50pm, 4:45pm, 7:40pm, 10:35pm), Sun 7/7 (11:00am, 1:50pm, 4:45pm, 7:40pm)
+
 ### Mon 6/24 6:16pm
 * New movies: Janet Planet
 
