@@ -1,6 +1,38 @@
 # los-angeles
 
 ## Movie updates
+### Mon 6/24 6:16pm
+* New movies: Janet Planet
+
+* New screenings: 
+    * [A Quiet Place Day One](https://drafthouse.com/los-angeles/show/a-quiet-place-day-one): Thu 6/27 (5:30pm, 7:20pm, 10:00pm, 10:10pm), Fri 6/28 (12:00pm, 4:10pm, 7:00pm, 9:50pm), Sat 6/29 (12:15pm, 4:10pm, 7:00pm, 9:50pm), Sun 6/30 (12:00pm, 4:10pm, 7:00pm), Mon 7/1 (11:10am, 12:00pm, 2:00pm, 4:10pm, 4:50pm, 7:00pm, 7:45pm, 9:50pm, 10:35pm), Tue 7/2 (11:10am, 12:00pm, 2:00pm, 4:10pm, 4:50pm, 7:00pm, 7:45pm, 9:50pm, 10:35pm)
+
+    * [Bad Boys Ride Or Die](https://drafthouse.com/los-angeles/show/bad-boys-ride-or-die): Thu 6/27 (4:20pm, 7:30pm, 10:30pm), Fri 6/28 (1:15pm, 4:20pm, 7:30pm, 10:30pm), Sat 6/29 (1:15pm, 4:20pm, 7:30pm, 10:30pm), Sun 6/30 (1:00pm, 4:25pm, 7:30pm), Mon 7/1 (1:15pm, 4:20pm, 7:30pm, 10:30pm), Tue 7/2 (1:15pm, 4:20pm, 7:30pm, 10:30pm)
+
+    * [Easy Rider](https://drafthouse.com/los-angeles/show/easy-rider): Mon 7/1 (2:50pm), Tue 7/2 (1:00pm)
+
+    * [Furiosa A Mad Max Saga](https://drafthouse.com/los-angeles/show/furiosa-a-mad-max-saga): Thu 6/27 (3:40pm), Fri 6/28 (3:40pm), Sat 6/29 (5:30pm), Sun 6/30 (5:45pm), Mon 7/1 (10:10pm), Tue 7/2 (9:35pm)
+
+    * [Ghost Rite Here Rite Now](https://drafthouse.com/los-angeles/show/ghost-rite-here-rite-now): Sat 6/29 (9:10pm), Mon 7/1 (12:45pm), Tue 7/2 (3:40pm)
+
+    * [Horizon An American Saga Chapter 1](https://drafthouse.com/los-angeles/show/horizon-an-american-saga-chapter-1): Sun 6/30 (6:40pm)
+
+    * [I Know What You Did Last Summer](https://drafthouse.com/los-angeles/show/i-know-what-you-did-last-summer): Mon 7/1 (9:35pm), Tue 7/2 (10:00pm)
+
+    * [Inside Out 2](https://drafthouse.com/los-angeles/show/inside-out-2): Thu 6/27 (2:45pm, 4:25pm, 6:00pm, 7:10pm, 9:45pm, 10:40pm), Fri 6/28 (11:00am, 12:50pm, 1:40pm, 3:10pm, 4:25pm, 6:00pm, 7:10pm, 9:35pm, 10:40pm), Sat 6/29 (11:00am, 12:00pm, 1:45pm, 2:45pm, 4:30pm, 6:00pm, 7:15pm, 9:35pm, 10:40pm), Sun 6/30 (11:00am, 12:35pm, 1:45pm, 3:25pm, 4:30pm, 6:15pm, 8:00pm), Mon 7/1 (11:00am, 1:45pm, 4:20pm, 4:30pm, 5:30pm, 7:15pm, 10:40pm), Tue 7/2 (11:00am, 12:25pm, 1:45pm, 3:10pm, 4:30pm, 7:15pm, 10:40pm)
+
+    * [Janet Planet](https://drafthouse.com/los-angeles/show/janet-planet): Thu 6/27 (7:00pm), Fri 6/28 (11:00am, 2:50pm, 6:00pm, 9:00pm), Sat 6/29 (11:00am, 3:10pm, 6:10pm, 9:10pm), Sun 6/30 (10:45am, 2:45pm, 6:00pm), Mon 7/1 (11:00am, 2:50pm, 6:00pm, 9:00pm), Tue 7/2 (11:00am, 2:50pm, 6:00pm, 9:10pm)
+
+    * [Kinds Of Kindness](https://drafthouse.com/los-angeles/show/kinds-of-kindness): Thu 6/27 (5:45pm, 8:20pm, 8:45pm, 9:35pm), Fri 6/28 (12:20pm, 1:55pm, 5:45pm, 7:20pm, 8:45pm, 10:00pm), Sat 6/29 (12:20pm, 1:55pm, 5:45pm, 8:45pm, 10:00pm), Sun 6/30 (12:30pm, 1:40pm, 5:30pm), Mon 7/1 (12:20pm, 1:55pm, 5:45pm, 8:15pm, 9:40pm), Tue 7/2 (12:20pm, 1:55pm, 5:45pm, 9:00pm, 9:40pm)
+
+    * [Robot Dreams](https://drafthouse.com/los-angeles/show/robot-dreams): Thu 6/27 (3:10pm, 4:10pm)
+
+    * [The Bikeriders](https://drafthouse.com/los-angeles/show/the-bikeriders): Thu 6/27 (3:20pm, 6:35pm, 10:00pm), Fri 6/28 (12:10pm, 3:20pm, 6:30pm, 9:40pm), Sat 6/29 (12:10pm, 3:20pm, 6:30pm, 9:40pm), Sun 6/30 (12:25pm, 3:30pm, 7:15pm), Mon 7/1 (12:10pm, 3:20pm, 6:30pm, 10:00pm), Tue 7/2 (12:10pm, 3:20pm, 6:30pm, 10:00pm)
+
+    * [The Watchers](https://drafthouse.com/los-angeles/show/the-watchers): Thu 6/27 (2:50pm)
+
+    * [Thelma 2024](https://drafthouse.com/los-angeles/show/thelma-2024): Thu 6/27 (3:30pm, 6:15pm, 9:00pm), Fri 6/28 (12:45pm, 3:30pm, 6:15pm, 9:00pm), Sat 6/29 (12:45pm, 3:30pm, 6:20pm, 9:10pm), Sun 6/30 (12:50pm, 3:40pm, 6:25pm), Mon 7/1 (12:45pm, 3:30pm, 6:15pm, 9:00pm), Tue 7/2 (12:45pm, 3:30pm, 6:15pm, 9:00pm)
+
 ### Mon 6/24 11:23am
 
 * New screenings: 
