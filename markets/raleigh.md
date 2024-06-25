@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 6/25 4:20pm
+
+* New screenings: 
+    * [Signature Programming Jaws 1975](https://drafthouse.com/raleigh/show/signature-programming-jaws-1975): Mon 7/1 (8:15pm)
+
 ### Tue 6/25 12:26pm
 * New movies: HEAVENLY BODIES
 
