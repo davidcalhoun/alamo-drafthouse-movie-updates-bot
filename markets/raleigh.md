@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Wed 6/26 2:27pm
+* New movies: Harry Potter and the Prisoner of Azkaban
+
+* New screenings: 
+    * [Hearts Of Darkness A Filmmakers Apocalypse](https://drafthouse.com/raleigh/show/hearts-of-darkness-a-filmmakers-apocalypse): Sun 9/1 (4:00pm)
+
+    * [Signature Programming Harry Potter And The Prisoner Of Azkaban](https://drafthouse.com/raleigh/show/signature-programming-harry-potter-and-the-prisoner-of-azkaban): Wed 9/4 (7:00pm)
+
 ### Tue 6/25 6:19pm
 
 * New screenings: 
