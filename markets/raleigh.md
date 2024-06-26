@@ -1,6 +1,17 @@
 # raleigh
 
 ## Movie updates
+### Wed 6/26 6:21pm
+
+* New screenings: 
+    * [A Quiet Place Day One](https://drafthouse.com/raleigh/show/a-quiet-place-day-one): Fri 6/28 (11:30pm)
+
+    * [Blue Lock The Movie Episode Nagi Dubbed](https://drafthouse.com/raleigh/show/blue-lock-the-movie-episode-nagi-dubbed): Thu 6/27 (8:00pm)
+
+    * [Blue Lock The Movie Episode Nagi Subtitled](https://drafthouse.com/raleigh/show/blue-lock-the-movie-episode-nagi-subtitled): Thu 6/27 (10:45pm)
+
+    * [The Bikeriders](https://drafthouse.com/raleigh/show/the-bikeriders): Thu 6/27 (1:45pm, 5:00pm)
+
 ### Wed 6/26 2:27pm
 * New movies: Harry Potter and the Prisoner of Azkaban
 
