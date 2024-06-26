@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 6/26 4:17pm
+
+* New screenings: 
+    * [Kids Camp The Lorax 2012](https://drafthouse.com/los-angeles/show/kids-camp-the-lorax-2012): Tue 7/23 (12:15pm)
+
 ### Tue 6/25 6:19am
 * New movies: Kill, Kill
 
