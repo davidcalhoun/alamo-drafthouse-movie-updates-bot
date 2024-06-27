@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Thu 6/27 10:20am
+
+* New screenings: 
+    * [Inside Out 2](https://drafthouse.com/raleigh/show/inside-out-2): Mon 7/1 (8:30pm)
+
 ### Wed 6/26 6:21pm
 
 * New screenings: 
