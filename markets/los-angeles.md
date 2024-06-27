@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 6/26 7:32pm
+* New movies: The Cult of AGFA Trailer Show, Horizon: An American Saga - Chapter 2
+
+* New screenings: 
+    * [Horizon An American Saga Chapter 2](https://drafthouse.com/los-angeles/show/horizon-an-american-saga-chapter-2): Thu 8/15 (8:00pm), Fri 8/16 (8:00pm)
+
+    * [The Cult Of Agfa Trailer Show](https://drafthouse.com/los-angeles/show/the-cult-of-agfa-trailer-show): Fri 8/2 (4:45pm), Wed 8/7 (7:15pm)
+
 ### Wed 6/26 4:17pm
 
 * New screenings: 
