@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 6/26 10:18pm
+* New movies: The Duel 2024
+
+* New screenings: 
+    * [The Duel 2024](https://drafthouse.com/los-angeles/show/the-duel-2024): Wed 7/31 (6:00pm)
+
 ### Wed 6/26 7:32pm
 * New movies: The Cult of AGFA Trailer Show, Horizon: An American Saga - Chapter 2
 
