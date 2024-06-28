@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 6/28 6:18am
+* New movies: Sing Sing
+
+* New screenings: 
+    * [Livestream Q A Sing Sing](https://drafthouse.com/los-angeles/show/livestream-q-a-sing-sing): Tue 7/9 (6:00pm)
+
 ### Wed 6/26 10:18pm
 * New movies: The Duel 2024
 
