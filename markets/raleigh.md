@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 6/28 9:21am
+* New movies: Sing Sing
+
+* New screenings: 
+    * [Livestream Q A Sing Sing](https://drafthouse.com/raleigh/show/livestream-q-a-sing-sing): Tue 7/9 (9:00pm)
+
 ### Thu 6/27 10:20am
 
 * New screenings: 
