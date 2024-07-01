@@ -1,6 +1,40 @@
 # raleigh
 
 ## Movie updates
+### Mon 7/1 6:21pm
+* New movies: Kill
+
+* New screenings: 
+    * [A Quiet Place Day One](https://drafthouse.com/raleigh/show/a-quiet-place-day-one): Wed 7/3 (10:00am, 11:00am, 1:00pm, 2:00pm, 4:00pm, 5:00pm, 6:00pm, 9:45pm, 10:30pm), Thu 7/4 (11:00am, 1:05pm, 2:00pm, 4:00pm, 5:00pm, 6:45pm, 7:45pm), Fri 7/5 (11:00am, 1:45pm, 4:45pm, 7:30pm, 10:30pm), Sat 7/6 (11:00am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Sun 7/7 (11:00am, 2:00pm, 4:45pm, 7:30pm, 10:45pm), Mon 7/8 (11:00am, 2:00pm, 4:45pm, 7:45pm, 10:30pm), Tue 7/9 (10:00am, 12:45pm, 3:30pm, 7:00pm, 11:15pm), Wed 7/10 (12:00pm, 1:00pm, 3:00pm, 6:00pm, 10:00pm)
+
+    * [Advance Screening Maxxxine Early Access](https://drafthouse.com/raleigh/show/advance-screening-maxxxine-early-access): Wed 7/3 (7:30pm)
+
+    * [Bad Boys Ride Or Die](https://drafthouse.com/raleigh/show/bad-boys-ride-or-die): Wed 7/3 (11:45am, 3:15pm, 6:15pm, 9:15pm), Thu 7/4 (10:45am, 1:45pm, 4:45pm, 7:45pm), Fri 7/5 (11:45am, 3:15pm, 6:15pm, 10:30pm), Sat 7/6 (11:30am, 2:45pm, 6:15pm, 10:30pm), Sun 7/7 (11:30am, 2:45pm, 6:15pm, 10:30pm), Mon 7/8 (11:45am, 3:15pm, 6:15pm, 10:30pm), Tue 7/9 (10:00am, 1:00pm, 4:00pm, 7:15pm, 10:15pm), Wed 7/10 (11:45am, 3:45pm, 7:15pm, 10:15pm)
+
+    * [Blue Lock The Movie Episode Nagi Dubbed](https://drafthouse.com/raleigh/show/blue-lock-the-movie-episode-nagi-dubbed): Wed 7/3 (11:15am), Thu 7/4 (11:15am), Fri 7/5 (11:45am), Sat 7/6 (11:45am), Sun 7/7 (11:45am), Mon 7/8 (11:45am), Tue 7/9 (11:15am), Wed 7/10 (12:00pm)
+
+    * [Despicable Me 4](https://drafthouse.com/raleigh/show/despicable-me-4): Wed 7/3 (2:15pm, 5:15pm, 8:00pm, 10:45pm), Thu 7/4 (10:30am, 2:15pm, 4:45pm, 5:15pm, 7:15pm), Fri 7/5 (10:30am, 11:30am, 1:15pm, 2:15pm, 2:45pm, 4:15pm, 5:00pm, 5:30pm, 7:00pm, 7:45pm, 9:15pm), Sat 7/6 (10:30am, 11:10am, 1:30pm, 4:15pm, 5:05pm, 7:00pm, 7:45pm, 9:15pm, 9:45pm), Sun 7/7 (10:30am, 1:30pm, 2:30pm, 4:15pm, 5:05pm, 5:30pm, 7:00pm, 7:45pm, 8:30pm, 9:15pm, 9:45pm), Mon 7/8 (10:30am, 1:30pm, 2:30pm, 4:30pm, 5:00pm, 5:30pm, 7:15pm, 8:15pm, 9:15pm), Tue 7/9 (10:30am, 12:30pm, 1:30pm, 3:05pm, 4:15pm, 5:00pm, 5:45pm, 6:15pm, 7:30pm, 8:30pm, 10:00pm), Wed 7/10 (10:30am, 12:45pm, 1:30pm, 3:30pm, 4:15pm, 6:15pm, 7:00pm, 9:30pm)
+
+    * [Furiosa A Mad Max Saga](https://drafthouse.com/raleigh/show/furiosa-a-mad-max-saga): Wed 7/3 (2:30pm)
+
+    * [Horizon An American Saga Chapter 1](https://drafthouse.com/raleigh/show/horizon-an-american-saga-chapter-1): Wed 7/3 (11:45am, 4:00pm, 8:30pm), Thu 7/4 (10:00am, 11:45am, 2:05pm, 6:15pm), Fri 7/5 (12:00pm, 4:00pm, 8:15pm), Sat 7/6 (12:00pm, 4:00pm, 8:15pm), Sun 7/7 (12:00pm, 4:00pm, 8:15pm), Mon 7/8 (12:00pm, 4:00pm, 8:15pm), Tue 7/9 (12:00pm, 4:00pm, 8:15pm), Wed 7/10 (11:45am, 4:00pm, 8:30pm)
+
+    * [Inside Out 2](https://drafthouse.com/raleigh/show/inside-out-2): Wed 7/3 (12:00pm, 3:00pm, 6:30pm, 9:15pm), Thu 7/4 (11:15am, 12:15pm, 2:00pm, 3:00pm, 6:00pm), Fri 7/5 (10:15am, 1:00pm, 3:45pm, 6:30pm, 9:30pm), Sat 7/6 (10:15am, 12:30pm, 1:00pm, 3:45pm, 6:30pm, 9:15pm), Sun 7/7 (10:15am, 11:15am, 1:00pm, 2:45pm, 3:45pm, 6:30pm, 9:15pm), Mon 7/8 (10:15am, 11:15am, 1:00pm, 2:05pm, 2:20pm, 3:45pm, 6:30pm, 8:00pm, 9:15pm), Tue 7/9 (10:15am, 11:30am, 1:00pm, 2:15pm, 2:20pm, 3:45pm, 6:30pm, 9:45pm), Wed 7/10 (10:00am, 12:15pm, 3:30pm, 4:00pm, 6:45pm, 9:45pm)
+
+    * [Kill](https://drafthouse.com/raleigh/show/kill): Wed 7/3 (8:15pm), Thu 7/4 (8:00pm), Fri 7/5 (11:00pm), Sat 7/6 (11:00pm), Sun 7/7 (10:00pm, 11:00pm), Mon 7/8 (11:15pm), Tue 7/9 (10:45pm), Wed 7/10 (10:15pm)
+
+    * [Kinds Of Kindness](https://drafthouse.com/raleigh/show/kinds-of-kindness): Wed 7/3 (10:00am, 1:45pm, 6:00pm, 9:45pm, 10:00pm), Thu 7/4 (10:45am, 2:45pm, 6:30pm), Fri 7/5 (10:00am, 2:00pm, 6:15pm, 10:15pm), Sat 7/6 (10:00am, 2:00pm, 6:15pm, 10:00pm), Sun 7/7 (10:00am, 2:00pm, 6:15pm, 10:00pm), Mon 7/8 (10:00am, 2:00pm, 6:15pm, 10:00pm), Tue 7/9 (10:30am, 2:00pm, 6:00pm, 10:15pm), Wed 7/10 (11:15am, 3:15pm, 7:15pm, 9:00pm)
+
+    * [Kingdom Of The Planet Of The Apes](https://drafthouse.com/raleigh/show/kingdom-of-the-planet-of-the-apes): Wed 7/3 (10:30am)
+
+    * [Maxxxine](https://drafthouse.com/raleigh/show/maxxxine): Fri 7/5 (12:00pm, 2:45pm, 5:15pm, 8:00pm, 11:00pm, 11:45pm), Sat 7/6 (12:00pm, 3:00pm, 5:15pm, 8:00pm, 8:30pm, 11:45pm), Sun 7/7 (12:00pm, 3:00pm, 5:15pm, 8:00pm, 11:45pm), Mon 7/8 (12:00pm, 3:00pm, 6:00pm, 8:00pm, 9:00pm, 11:45pm), Tue 7/9 (11:45am, 2:45pm, 6:00pm, 8:00pm, 10:00pm, 10:15pm), Wed 7/10 (11:00am, 2:00pm, 5:00pm, 6:30pm, 8:00pm, 10:30pm, 11:00pm)
+
+    * [Red Dawn 1984](https://drafthouse.com/raleigh/show/red-dawn-1984): Mon 7/8 (11:00pm)
+
+    * [The Bikeriders](https://drafthouse.com/raleigh/show/the-bikeriders): Wed 7/3 (10:15am, 1:15pm, 4:15pm), Thu 7/4 (10:15am, 1:15pm, 4:15pm), Fri 7/5 (2:15pm), Sat 7/6 (2:30pm), Sun 7/7 (2:15pm), Mon 7/8 (4:45pm), Tue 7/9 (5:00pm), Wed 7/10 (3:15pm)
+
+    * [Thelma 2024](https://drafthouse.com/raleigh/show/thelma-2024): Wed 7/3 (10:45am, 1:30pm, 4:15pm), Thu 7/4 (10:15am, 1:00pm, 3:45pm, 6:45pm), Fri 7/5 (10:45am, 1:45pm, 4:30pm, 8:15pm, 10:45pm), Sat 7/6 (10:45am, 1:45pm, 4:30pm, 5:30pm, 10:30pm), Sun 7/7 (10:45am, 1:45pm, 4:30pm, 7:15pm), Mon 7/8 (10:45am, 1:30pm, 4:30pm, 7:30pm, 10:15pm), Tue 7/9 (10:45am, 1:30pm, 4:30pm, 7:15pm), Wed 7/10 (10:45am, 1:30pm, 4:45pm, 7:45pm)
+
 ### Fri 6/28 9:21am
 * New movies: Sing Sing
 
