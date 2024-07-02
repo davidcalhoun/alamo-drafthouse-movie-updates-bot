@@ -1,6 +1,56 @@
 # los-angeles
 
 ## Movie updates
+### Mon 7/1 6:16pm
+* New movies: National Anthem, Jaws 1975
+
+* New screenings: 
+    * [A Quiet Place Day One](https://drafthouse.com/los-angeles/show/a-quiet-place-day-one): Wed 7/3 (10:00am, 11:30am, 12:50pm, 2:15pm, 2:50pm, 5:00pm, 5:40pm, 7:45pm, 10:30pm), Thu 7/4 (11:30am, 2:15pm, 4:10pm, 5:00pm, 7:00pm, 7:50pm, 10:00pm, 10:40pm)
+
+    * [Advance Screening Maxxxine Early Access](https://drafthouse.com/los-angeles/show/advance-screening-maxxxine-early-access): Wed 7/3 (8:10pm, 9:00pm, 10:00pm, 10:35pm)
+
+    * [Bad Boys Ride Or Die](https://drafthouse.com/los-angeles/show/bad-boys-ride-or-die): Wed 7/3 (12:10pm, 1:15pm)
+
+    * [Body Double](https://drafthouse.com/los-angeles/show/body-double): Tue 7/9 (4:10pm), Wed 7/10 (4:10pm)
+
+    * [Born On The Fourth Of July](https://drafthouse.com/los-angeles/show/born-on-the-fourth-of-july): Thu 7/4 (12:00pm)
+
+    * [Despicable Me 4](https://drafthouse.com/los-angeles/show/despicable-me-4): Wed 7/3 (10:00am, 12:45pm, 3:30pm, 6:15pm, 8:30pm), Thu 7/4 (10:00am, 12:45pm, 3:30pm, 6:15pm, 9:00pm), Fri 7/5 (10:00am, 12:45pm, 3:30pm, 6:15pm, 9:00pm), Sat 7/6 (10:00am, 12:45pm, 3:30pm, 6:15pm), Sun 7/7 (10:00am, 12:45pm, 3:30pm, 8:00pm), Mon 7/8 (12:00pm, 2:45pm, 5:30pm, 8:15pm), Tue 7/9 (11:15am, 12:00pm, 2:00pm, 2:45pm, 4:45pm, 5:30pm, 7:15pm, 8:15pm, 9:20pm), Wed 7/10 (12:00pm, 2:45pm, 5:30pm, 8:15pm, 10:15pm)
+
+    * [Easy Rider](https://drafthouse.com/los-angeles/show/easy-rider): Wed 7/3 (4:15pm), Thu 7/4 (10:15am)
+
+    * [Go Fish](https://drafthouse.com/los-angeles/show/go-fish): Wed 7/3 (4:40pm), Thu 7/4 (11:00pm)
+
+    * [Horizon An American Saga Chapter 1](https://drafthouse.com/los-angeles/show/horizon-an-american-saga-chapter-1): Wed 7/3 (11:40am, 3:50pm, 8:00pm), Thu 7/4 (11:40am, 3:50pm, 8:00pm)
+
+    * [I Know What You Did Last Summer](https://drafthouse.com/los-angeles/show/i-know-what-you-did-last-summer): Thu 7/4 (6:40pm, 10:35pm)
+
+    * [Inside Out 2](https://drafthouse.com/los-angeles/show/inside-out-2): Wed 7/3 (10:30am, 1:15pm, 4:00pm, 6:45pm, 9:50pm), Thu 7/4 (10:30am, 1:15pm, 4:00pm, 6:45pm, 9:30pm)
+
+    * [Janet Planet](https://drafthouse.com/los-angeles/show/janet-planet): Wed 7/3 (10:20am), Thu 7/4 (1:00pm), Fri 7/5 (12:15pm), Sun 7/7 (1:40pm), Mon 7/8 (2:30pm)
+
+    * [Jaws 1975](https://drafthouse.com/los-angeles/show/jaws-1975): Thu 7/4 (7:20pm)
+
+    * [Kill](https://drafthouse.com/los-angeles/show/kill): Mon 7/8 (12:10pm, 3:00pm, 6:00pm, 9:55pm), Tue 7/9 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Wed 7/10 (12:10pm, 3:00pm, 6:00pm, 9:55pm)
+
+    * [Kinds Of Kindness](https://drafthouse.com/los-angeles/show/kinds-of-kindness): Wed 7/3 (10:15am, 11:00am, 2:10pm, 3:40pm, 4:20pm, 6:00pm, 9:30pm), Thu 7/4 (10:15am, 11:20am, 2:10pm, 3:15pm, 6:00pm, 7:10pm, 9:35pm), Tue 7/9 (2:00pm)
+
+    * [License To Kill 1989](https://drafthouse.com/los-angeles/show/license-to-kill-1989): Wed 7/3 (1:15pm), Thu 7/4 (9:50pm)
+
+    * [Love Streams](https://drafthouse.com/los-angeles/show/love-streams): Tue 7/9 (12:40pm), Wed 7/10 (11:20am)
+
+    * [Maxxxine](https://drafthouse.com/los-angeles/show/maxxxine): Fri 7/5 (3:20pm, 6:20pm, 9:30pm, 10:15pm), Sat 7/6 (10:15am, 4:00pm, 8:00pm, 9:00pm, 10:25pm, 11:00pm), Sun 7/7 (10:00am, 3:45pm, 6:45pm, 7:40pm), Mon 7/8 (5:40pm, 8:40pm, 10:15pm), Tue 7/9 (11:00am, 2:50pm, 5:45pm, 8:40pm), Wed 7/10 (5:45pm, 8:45pm)
+
+    * [National Anthem](https://drafthouse.com/los-angeles/show/national-anthem): Thu 7/18 (5:00pm, 7:45pm, 10:35pm), Fri 7/19 (11:20am, 2:10pm, 5:00pm, 7:45pm, 10:35pm), Sat 7/20 (11:20am, 2:10pm, 5:00pm, 7:45pm, 10:35pm), Sun 7/21 (11:20am, 2:10pm, 5:00pm, 7:45pm), Tue 7/23 (11:20am, 2:10pm, 5:00pm, 7:45pm, 10:35pm), Wed 7/24 (11:20am, 2:10pm, 5:00pm, 7:45pm, 10:35pm)
+
+    * [The Adventures Of Priscilla Queen Of The Desert](https://drafthouse.com/los-angeles/show/the-adventures-of-priscilla-queen-of-the-desert): Thu 7/4 (3:40pm)
+
+    * [The Bikeriders](https://drafthouse.com/los-angeles/show/the-bikeriders): Wed 7/3 (10:10am, 3:15pm, 6:25pm, 9:35pm), Thu 7/4 (12:10pm, 3:20pm, 6:30pm, 9:40pm)
+
+    * [Thelma 2024](https://drafthouse.com/los-angeles/show/thelma-2024): Wed 7/3 (10:45am, 1:30pm), Thu 7/4 (10:40am, 1:25pm), Fri 7/5 (10:25am, 1:20pm), Sat 7/6 (1:10pm, 5:15pm), Sun 7/7 (12:55pm, 4:50pm), Mon 7/8 (11:00am, 4:25pm), Tue 7/9 (12:00pm, 10:00pm), Wed 7/10 (2:50pm, 10:10pm)
+
+    * [Top Secret](https://drafthouse.com/los-angeles/show/top-secret): Mon 7/8 (1:50pm), Wed 7/10 (11:00am, 1:35pm)
+
 ### Fri 6/28 6:18am
 * New movies: Sing Sing
 
