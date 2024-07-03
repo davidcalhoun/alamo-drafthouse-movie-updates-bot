@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 7/2 11:25pm
+* New movies: Dandelion, The People's Joker
+
+* New screenings: 
+    * [Dandelion](https://drafthouse.com/los-angeles/show/dandelion): Fri 7/12 (1:00pm), Sat 7/13 (4:10pm)
+
+    * [Fantastic Fest Presents The Peoples Joker Re Release](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-the-peoples-joker-re-release): Wed 7/24 (7:45pm)
+
 ### Mon 7/1 6:16pm
 * New movies: National Anthem, Jaws 1975
 
