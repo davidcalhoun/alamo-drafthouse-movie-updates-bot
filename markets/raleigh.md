@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Fri 7/5 12:25pm
+* New movies: Oddity, Sing-a-Long-a The Greatest Showman
+
+* New screenings: 
+    * [Oddity](https://drafthouse.com/raleigh/show/oddity): Fri 7/19 (10:15pm), Sat 7/20 (10:15pm)
+
+    * [Sing Along Sing A Long A The Greatest Showman](https://drafthouse.com/raleigh/show/sing-along-sing-a-long-a-the-greatest-showman): Sun 9/29 (11:00am)
+
 ### Thu 7/4 10:35pm
 * New movies: Dandelion
 
