@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 7/4 10:35pm
+* New movies: Dandelion
+
+* New screenings: 
+    * [Dandelion](https://drafthouse.com/raleigh/show/dandelion): Fri 7/12 (11:30am), Sat 7/13 (11:30am)
+
 ### Mon 7/1 6:21pm
 * New movies: Kill
 
