@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 7/4 7:34pm
+* New movies: Crumb Catcher, Sing-a-Long-a The Greatest Showman
+
+* New screenings: 
+    * [Crumb Catcher](https://drafthouse.com/los-angeles/show/crumb-catcher): Fri 7/19 (9:15pm), Sat 7/20 (10:10pm)
+
+    * [Sing Along Sing A Long A The Greatest Showman](https://drafthouse.com/los-angeles/show/sing-along-sing-a-long-a-the-greatest-showman): Sun 9/29 (5:00pm)
+
 ### Tue 7/2 11:25pm
 * New movies: Dandelion, The People's Joker
 
