@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Mon 7/8 12:17am
+* New movies: Oddity
+
+* New screenings: 
+    * [Oddity](https://drafthouse.com/los-angeles/show/oddity): Fri 7/19 (2:10pm), Sat 7/20 (7:20pm)
+
+    * [The Adventures Of Buckaroo Banzai Across The 8th Dimension](https://drafthouse.com/los-angeles/show/the-adventures-of-buckaroo-banzai-across-the-8th-dimension): Tue 7/23 (7:15pm)
+
 ### Thu 7/4 7:34pm
 * New movies: Crumb Catcher, Sing-a-Long-a The Greatest Showman
 
