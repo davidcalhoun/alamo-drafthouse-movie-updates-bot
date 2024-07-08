@@ -1,6 +1,46 @@
 # raleigh
 
 ## Movie updates
+### Mon 7/8 5:20pm
+* New movies: Touch
+
+* New screenings: 
+    * [A Quiet Place Day One](https://drafthouse.com/raleigh/show/a-quiet-place-day-one): Thu 7/11 (11:00am, 2:00pm, 5:00pm, 8:30pm, 11:00pm), Fri 7/12 (11:00am, 1:45pm, 4:30pm, 7:30pm, 10:30pm), Sat 7/13 (10:30am, 1:45pm, 4:30pm, 7:45pm, 10:30pm), Sun 7/14 (10:30am, 1:45pm, 4:30pm, 7:30pm, 10:30pm), Mon 7/15 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Tue 7/16 (10:45am, 1:30pm, 4:30pm, 7:30pm, 10:30pm), Wed 7/17 (10:45am, 1:30pm, 4:45pm, 7:45pm, 10:45pm)
+
+    * [Bad Boys Ride Or Die](https://drafthouse.com/raleigh/show/bad-boys-ride-or-die): Thu 7/11 (12:00pm, 3:30pm, 7:15pm, 10:15pm), Fri 7/12 (11:45am, 2:45pm, 6:45pm, 10:30pm), Sat 7/13 (11:00am, 2:45pm, 6:45pm, 9:45pm), Sun 7/14 (11:45am, 3:00pm, 6:45pm, 10:00pm), Mon 7/15 (11:45am, 2:45pm, 6:00pm, 9:30pm), Tue 7/16 (12:00pm, 3:15pm, 6:15pm, 10:15pm), Wed 7/17 (11:45am, 2:45pm, 6:15pm, 9:45pm)
+
+    * [Blue Lock The Movie Episode Nagi Dubbed](https://drafthouse.com/raleigh/show/blue-lock-the-movie-episode-nagi-dubbed): Thu 7/11 (11:15am)
+
+    * [Cloak Dagger 1984](https://drafthouse.com/raleigh/show/cloak-dagger-1984): Sun 7/14 (11:30pm)
+
+    * [Dandelion](https://drafthouse.com/raleigh/show/dandelion): Sun 7/14 (11:15pm), Mon 7/15 (2:00pm), Tue 7/16 (2:15pm), Wed 7/17 (2:30pm)
+
+    * [Despicable Me 4](https://drafthouse.com/raleigh/show/despicable-me-4): Thu 7/11 (10:15am, 12:00pm, 1:30pm, 2:45pm, 4:15pm, 5:00pm, 7:00pm, 7:45pm, 9:45pm), Fri 7/12 (10:45am, 1:45pm, 2:45pm, 4:45pm, 6:00pm, 6:30pm, 9:30pm), Sat 7/13 (10:45am, 1:45pm, 4:45pm, 6:00pm, 6:30pm, 9:30pm, 10:15pm), Sun 7/14 (10:30am, 11:30am, 1:15pm, 2:30pm, 4:00pm, 7:00pm, 8:30pm, 9:30pm), Mon 7/15 (10:30am, 1:15pm, 3:00pm, 4:15pm, 5:00pm, 6:45pm, 7:45pm, 10:00pm), Tue 7/16 (10:15am, 12:30pm, 1:15pm, 3:30pm, 4:15pm, 5:45pm, 6:45pm, 9:15pm), Wed 7/17 (10:00am, 12:45pm, 1:45pm, 3:30pm, 4:30pm, 6:00pm, 7:30pm, 9:00pm)
+
+    * [Fly Me To The Moon](https://drafthouse.com/raleigh/show/fly-me-to-the-moon): Fri 7/12 (10:00am, 1:15pm, 4:45pm), Sat 7/13 (10:15am, 1:30pm, 4:45pm), Sun 7/14 (10:15am, 1:30pm, 4:45pm), Mon 7/15 (10:15am, 2:00pm, 5:15pm, 8:30pm, 10:30pm), Tue 7/16 (10:15am, 1:30pm, 4:45pm, 8:15pm, 9:30pm), Wed 7/17 (10:15am, 2:00pm, 5:15pm, 8:30pm, 10:30pm)
+
+    * [Gremlins](https://drafthouse.com/raleigh/show/gremlins): Sat 7/13 (11:30pm)
+
+    * [Horizon An American Saga Chapter 1](https://drafthouse.com/raleigh/show/horizon-an-american-saga-chapter-1): Thu 7/11 (11:30am, 4:00pm), Fri 7/12 (11:00am), Sat 7/13 (11:15am), Sun 7/14 (11:15am), Mon 7/15 (11:15am), Tue 7/16 (11:15am), Wed 7/17 (11:15am)
+
+    * [Inside Out 2](https://drafthouse.com/raleigh/show/inside-out-2): Thu 7/11 (10:30am, 11:15am, 1:15pm, 4:00pm, 5:15pm, 6:45pm, 9:30pm), Fri 7/12 (10:30am, 1:30pm, 4:30pm, 6:15pm, 7:15pm, 9:00pm), Sat 7/13 (10:30am, 1:30pm, 4:30pm, 6:15pm, 7:15pm, 9:00pm), Sun 7/14 (10:15am, 2:00pm, 4:45pm, 6:30pm, 9:15pm), Mon 7/15 (10:30am, 1:30pm, 4:30pm, 7:30pm, 9:00pm), Tue 7/16 (10:30am, 1:30pm, 4:30pm, 7:30pm, 9:00pm), Wed 7/17 (10:45am, 1:30pm, 4:30pm, 7:15pm, 9:15pm)
+
+    * [Kill](https://drafthouse.com/raleigh/show/kill): Thu 7/11 (10:45pm)
+
+    * [Kinds Of Kindness](https://drafthouse.com/raleigh/show/kinds-of-kindness): Thu 7/11 (10:45am, 8:30pm), Fri 7/12 (10:15pm), Sat 7/13 (10:15pm), Sun 7/14 (9:45pm), Mon 7/15 (10:15pm), Tue 7/16 (10:00pm), Wed 7/17 (10:15pm)
+
+    * [Longlegs](https://drafthouse.com/raleigh/show/longlegs): Thu 7/11 (8:00pm), Fri 7/12 (11:00am, 2:15pm, 5:00pm, 7:30pm, 9:45pm), Sat 7/13 (2:15pm, 3:00pm, 5:00pm, 7:30pm), Sun 7/14 (11:00am, 2:15pm, 5:00pm, 5:30pm, 6:30pm, 7:30pm), Mon 7/15 (11:00am, 2:15pm, 5:00pm, 7:15pm, 8:00pm, 9:30pm, 11:00pm), Tue 7/16 (12:00pm, 3:00pm, 6:30pm, 7:15pm, 9:00pm), Wed 7/17 (11:00am, 2:15pm, 5:00pm, 6:30pm, 8:00pm, 11:00pm)
+
+    * [Maxxxine](https://drafthouse.com/raleigh/show/maxxxine): Thu 7/11 (10:00am, 1:00pm, 4:00pm, 5:30pm, 8:00pm, 11:00pm), Fri 7/12 (10:00am, 1:00pm, 4:00pm, 7:00pm, 10:00pm), Sat 7/13 (10:00am, 1:00pm, 4:00pm, 7:00pm, 10:00pm), Sun 7/14 (10:00am, 12:45pm, 4:00pm, 7:00pm, 10:15pm), Mon 7/15 (10:00am, 1:00pm, 4:00pm, 7:00pm, 10:00pm), Tue 7/16 (10:00am, 1:00pm, 4:00pm, 7:00pm, 9:30pm), Wed 7/17 (10:30am, 12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
+    * [Nausicaa Of The Valley Of The Wind Subtitled](https://drafthouse.com/raleigh/show/nausicaa-of-the-valley-of-the-wind-subtitled): Wed 7/17 (6:45pm)
+
+    * [The Bikeriders](https://drafthouse.com/raleigh/show/the-bikeriders): Thu 7/11 (2:00pm), Fri 7/12 (11:30am), Sat 7/13 (11:45am), Sun 7/14 (11:00am), Mon 7/15 (11:00am), Tue 7/16 (11:00am), Wed 7/17 (11:30am)
+
+    * [Thelma 2024](https://drafthouse.com/raleigh/show/thelma-2024): Thu 7/11 (11:45am, 2:15pm), Fri 7/12 (3:30pm), Sat 7/13 (3:30pm), Sun 7/14 (3:30pm), Mon 7/15 (3:45pm), Tue 7/16 (3:45pm), Wed 7/17 (3:45pm)
+
+    * [Touch](https://drafthouse.com/raleigh/show/touch): Thu 7/11 (2:30pm, 6:00pm, 9:15pm), Fri 7/12 (12:00pm, 3:15pm, 6:45pm, 10:00pm), Sat 7/13 (12:00pm, 3:15pm, 6:45pm, 10:15pm), Sun 7/14 (12:00pm, 3:30pm, 7:15pm, 10:45pm), Mon 7/15 (12:00pm, 3:30pm, 6:45pm, 10:30pm), Tue 7/16 (11:45am, 3:15pm, 6:45pm, 9:45pm), Wed 7/17 (11:30am, 2:45pm, 6:15pm, 9:45pm)
+
 ### Fri 7/5 12:25pm
 * New movies: Oddity, Sing-a-Long-a The Greatest Showman
 
