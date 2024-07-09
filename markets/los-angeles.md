@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 7/9 3:17pm
+* New movies: Crumb Catcher
+
+* New screenings: 
+    * [Fantastic Fest Presents Crumb Catcher](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-crumb-catcher): Tue 7/16 (7:00pm)
+
 ### Mon 7/8 1:19pm
 * New movies: Touch
 
