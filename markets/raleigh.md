@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 7/10 9:24am
+* New movies: Didi
+
+* New screenings: 
+    * [Didi](https://drafthouse.com/raleigh/show/didi): Thu 8/8 (3:00pm, 6:00pm, 9:00pm), Fri 8/9 (6:00pm, 9:00pm), Sat 8/10 (6:00pm, 9:00pm), Sun 8/11 (6:00pm, 9:00pm)
+
 ### Mon 7/8 5:20pm
 * New movies: Touch
 
