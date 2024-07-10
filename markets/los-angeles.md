@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 7/10 2:18am
+* New movies: The Conversation
+
+* New screenings: 
+    * [The Conversation](https://drafthouse.com/los-angeles/show/the-conversation): Fri 8/23 (7:15pm)
+
 ### Tue 7/9 3:17pm
 * New movies: Crumb Catcher
 
