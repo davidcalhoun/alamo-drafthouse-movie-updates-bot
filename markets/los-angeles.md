@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 7/10 7:16am
+* New movies: Didi
+
+* New screenings: 
+    * [Drafthouse Recommends Didi Early 2000s Dress Up Screening](https://drafthouse.com/los-angeles/show/drafthouse-recommends-didi-early-2000s-dress-up-screening): Sat 8/3 (2:15pm)
+
 ### Wed 7/10 6:20am
 * New movies: Didi, Didi
 
