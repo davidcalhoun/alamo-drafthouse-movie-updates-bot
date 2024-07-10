@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 7/10 6:20am
+* New movies: Didi, Didi
+
+* New screenings: 
+    * [Brunch Screenings Didi Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-didi-brunch): Sat 8/3 (11:30am), Sun 8/4 (11:30am), Sat 8/10 (11:30am), Sun 8/11 (11:30am)
+
+    * [Didi](https://drafthouse.com/los-angeles/show/didi): Thu 8/1 (2:15pm, 5:00pm, 7:45pm, 10:30pm), Fri 8/2 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sat 8/3 (5:00pm, 7:45pm, 10:30pm), Sun 8/4 (2:15pm, 5:00pm, 7:45pm), Mon 8/5 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Tue 8/6 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Wed 8/7 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Thu 8/8 (5:00pm, 7:45pm, 10:30pm), Fri 8/9 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sat 8/10 (2:15pm, 5:00pm, 7:45pm, 10:30pm), Sun 8/11 (2:15pm, 5:00pm, 7:45pm), Mon 8/12 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Tue 8/13 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Wed 8/14 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm)
+
 ### Wed 7/10 2:18am
 * New movies: The Conversation
 
