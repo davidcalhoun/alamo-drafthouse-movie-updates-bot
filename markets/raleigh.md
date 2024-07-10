@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 7/10 10:20am
+* New movies: Didi
+
+* New screenings: 
+    * [Drafthouse Recommends Didi Early 2000s Dress Up Screening](https://drafthouse.com/raleigh/show/drafthouse-recommends-didi-early-2000s-dress-up-screening): Sat 8/10 (3:00pm)
+
 ### Wed 7/10 9:24am
 * New movies: Didi
 
