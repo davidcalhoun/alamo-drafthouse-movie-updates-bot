@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 7/11 12:25pm
+* New movies: Alien: Romulus
+
+* New screenings: 
+    * [Alien Romulus](https://drafthouse.com/raleigh/show/alien-romulus): Fri 8/16 (6:00pm, 9:30pm), Sat 8/17 (6:00pm, 9:30pm), Sun 8/18 (6:00pm, 9:30pm)
+
 ### Wed 7/10 10:20am
 * New movies: Didi
 
