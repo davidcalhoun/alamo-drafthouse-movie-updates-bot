@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 7/11 7:22pm
+* New movies: Supergirl
+
+* New screenings: 
+    * [Weird Wednesday Supergirl](https://drafthouse.com/raleigh/show/weird-wednesday-supergirl): Wed 8/28 (9:00pm)
+
 ### Thu 7/11 12:25pm
 * New movies: Alien: Romulus
 
