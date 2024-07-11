@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 7/11 4:19pm
+* New movies: Crumb Catcher
+
+* New screenings: 
+    * [Fantastic Fest Presents Crumb Catcher W Live Q A](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-crumb-catcher-w-live-q-a): Wed 7/24 (9:30pm)
+
 ### Thu 7/11 9:21am
 * New movies: Alien: Romulus
 
