@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 7/12 5:34am
+* New movies: Kneecap, Kneecap
+
+* New screenings: 
+    * [Kneecap](https://drafthouse.com/los-angeles/show/kneecap): Thu 8/1 (7:15pm, 10:10pm), Fri 8/2 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 8/3 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sun 8/4 (12:00pm, 3:00pm, 6:00pm), Mon 8/5 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Tue 8/6 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Wed 8/7 (12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
+    * [Livestream Q A Kneecap](https://drafthouse.com/los-angeles/show/livestream-q-a-kneecap): Mon 7/29 (5:00pm)
+
 ### Thu 7/11 4:19pm
 * New movies: Crumb Catcher
 
