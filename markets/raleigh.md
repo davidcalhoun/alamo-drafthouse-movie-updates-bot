@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 7/12 4:21pm
+
+* New screenings: 
+    * [Despicable Me 4](https://drafthouse.com/raleigh/show/despicable-me-4): Fri 7/12 (10:00pm)
+
 ### Fri 7/12 8:39am
 * New movies: Kneecap
 
