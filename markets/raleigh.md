@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 7/12 8:39am
+* New movies: Kneecap
+
+* New screenings: 
+    * [Kneecap](https://drafthouse.com/raleigh/show/kneecap): Mon 7/29 (8:00pm)
+
 ### Thu 7/11 7:22pm
 * New movies: Supergirl
 
