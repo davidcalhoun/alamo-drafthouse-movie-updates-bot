@@ -1,6 +1,47 @@
 # los-angeles
 
 ## Movie updates
+### Mon 7/15 3:16pm
+
+* New screenings: 
+    * [A Quiet Place Day One](https://drafthouse.com/los-angeles/show/a-quiet-place-day-one): Thu 7/18 (4:00pm, 6:50pm, 9:40pm), Fri 7/19 (1:10pm, 4:00pm, 6:50pm, 9:40pm), Sat 7/20 (1:10pm, 4:00pm, 6:50pm, 9:40pm), Sun 7/21 (1:10pm, 4:00pm, 6:50pm), Mon 7/22 (1:00pm, 4:00pm, 6:45pm, 10:40pm), Tue 7/23 (1:10pm, 4:00pm, 6:50pm, 9:40pm), Wed 7/24 (1:10pm, 4:00pm, 6:50pm, 9:40pm)
+
+    * [Apollo 11](https://drafthouse.com/los-angeles/show/apollo-11): Tue 7/23 (4:30pm)
+
+    * [Crumb Catcher](https://drafthouse.com/los-angeles/show/crumb-catcher): Sun 7/21 (8:00pm), Mon 7/22 (10:45am), Tue 7/23 (3:00pm), Wed 7/24 (11:00am)
+
+    * [Dandelion](https://drafthouse.com/los-angeles/show/dandelion): Thu 7/18 (2:45pm)
+
+    * [Despicable Me 4](https://drafthouse.com/los-angeles/show/despicable-me-4): Thu 7/18 (3:35pm, 6:20pm, 9:05pm), Fri 7/19 (12:45pm, 3:30pm, 6:20pm, 9:05pm), Sat 7/20 (12:45pm, 3:30pm, 6:20pm, 9:05pm), Sun 7/21 (12:45pm, 3:30pm, 6:20pm), Mon 7/22 (12:45pm, 3:30pm, 6:20pm, 10:20pm), Tue 7/23 (12:45pm, 3:30pm, 6:20pm, 9:05pm), Wed 7/24 (12:45pm, 3:30pm, 6:20pm, 9:05pm)
+
+    * [Fly Me To The Moon](https://drafthouse.com/los-angeles/show/fly-me-to-the-moon): Thu 7/18 (3:10pm, 6:30pm, 9:50pm), Fri 7/19 (11:45am, 3:10pm, 6:30pm, 9:50pm), Sat 7/20 (11:45am, 3:10pm, 6:30pm, 9:50pm), Sun 7/21 (11:45am, 3:10pm, 6:30pm), Mon 7/22 (11:45am, 3:10pm, 6:30pm, 9:50pm), Tue 7/23 (11:45am, 3:10pm, 6:30pm, 9:50pm), Wed 7/24 (11:45am, 3:10pm, 6:30pm, 9:50pm)
+
+    * [Inside Out 2](https://drafthouse.com/los-angeles/show/inside-out-2): Thu 7/18 (2:15pm, 6:10pm, 9:00pm), Fri 7/19 (12:40pm, 3:25pm, 6:10pm, 9:00pm), Sat 7/20 (12:40pm, 3:25pm, 6:10pm, 9:00pm), Sun 7/21 (12:40pm, 3:25pm, 6:10pm), Mon 7/22 (12:40pm, 3:25pm, 6:10pm, 9:00pm), Tue 7/23 (12:40pm, 3:25pm, 6:10pm, 9:00pm), Wed 7/24 (12:40pm, 3:25pm, 6:10pm, 9:00pm)
+
+    * [Kinds Of Kindness](https://drafthouse.com/los-angeles/show/kinds-of-kindness): Thu 7/18 (3:15pm, 8:45pm), Fri 7/19 (11:15am, 7:15pm), Sat 7/20 (12:15pm), Sun 7/21 (6:00pm), Mon 7/22 (9:10pm), Tue 7/23 (6:00pm), Wed 7/24 (3:20pm)
+
+    * [Longlegs](https://drafthouse.com/los-angeles/show/longlegs): Thu 7/18 (2:00pm, 2:35pm, 4:45pm, 5:30pm, 7:30pm, 8:20pm, 10:20pm), Fri 7/19 (11:00am, 12:00pm, 1:50pm, 2:50pm, 4:40pm, 5:45pm, 7:30pm, 8:35pm, 10:20pm), Sat 7/20 (11:00am, 12:00pm, 1:50pm, 2:50pm, 4:40pm, 5:45pm, 7:30pm, 8:35pm, 10:20pm), Sun 7/21 (11:00am, 12:00pm, 1:50pm, 2:50pm, 4:40pm, 5:45pm, 7:30pm), Mon 7/22 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:20pm), Tue 7/23 (11:10am, 12:00pm, 1:55pm, 2:50pm, 4:40pm, 5:45pm, 7:30pm, 8:35pm, 10:20pm), Wed 7/24 (11:10am, 12:00pm, 1:55pm, 2:50pm, 4:40pm, 5:45pm, 7:30pm, 8:35pm, 10:20pm)
+
+    * [Maxxxine](https://drafthouse.com/los-angeles/show/maxxxine): Thu 7/18 (3:45pm, 6:40pm, 9:30pm), Fri 7/19 (1:00pm, 3:50pm, 6:40pm, 9:30pm), Sat 7/20 (1:00pm, 3:50pm, 6:40pm, 9:30pm), Sun 7/21 (1:00pm, 3:50pm, 6:40pm), Mon 7/22 (1:30pm, 4:25pm, 6:45pm, 10:15pm), Tue 7/23 (1:00pm, 3:50pm, 6:40pm, 9:30pm), Wed 7/24 (1:00pm, 3:50pm, 6:40pm, 9:30pm)
+
+    * [National Anthem](https://drafthouse.com/los-angeles/show/national-anthem): Mon 7/22 (11:20am, 2:10pm, 5:00pm, 7:45pm, 10:35pm)
+
+    * [Oddity](https://drafthouse.com/los-angeles/show/oddity): Sun 7/21 (5:15pm), Mon 7/22 (10:30pm), Tue 7/23 (10:10pm), Wed 7/24 (10:35pm)
+
+    * [Queer Film Theory 101 Crimes Of Passion](https://drafthouse.com/los-angeles/show/queer-film-theory-101-crimes-of-passion): Tue 7/23 (9:50pm)
+
+    * [Starman](https://drafthouse.com/los-angeles/show/starman): Fri 7/19 (11:00am), Wed 7/24 (12:15pm)
+
+    * [The Adventures Of Buckaroo Banzai Across The 8th Dimension](https://drafthouse.com/los-angeles/show/the-adventures-of-buckaroo-banzai-across-the-8th-dimension): Fri 7/19 (3:10pm), Sun 7/21 (11:10am)
+
+    * [The Bikeriders](https://drafthouse.com/los-angeles/show/the-bikeriders): Thu 7/18 (5:45pm)
+
+    * [Touch](https://drafthouse.com/los-angeles/show/touch): Thu 7/18 (3:00pm), Sun 7/21 (2:00pm), Tue 7/23 (1:20pm), Wed 7/24 (4:35pm)
+
+    * [Twisters](https://drafthouse.com/los-angeles/show/twisters): Thu 7/18 (2:00pm, 5:15pm, 7:10pm, 8:30pm, 10:25pm), Fri 7/19 (11:00am, 2:15pm, 5:30pm, 6:00pm, 8:45pm), Sat 7/20 (11:00am, 2:15pm, 4:10pm, 5:30pm, 6:00pm, 8:45pm, 9:15pm), Sun 7/21 (11:00am, 2:15pm, 5:30pm), Mon 7/22 (9:40pm), Tue 7/23 (11:15am, 2:20pm, 5:30pm, 8:45pm), Wed 7/24 (11:15am, 2:20pm, 5:30pm, 8:45pm)
+
+    * [Voyage Of The Rock Aliens](https://drafthouse.com/los-angeles/show/voyage-of-the-rock-aliens): Wed 7/24 (1:50pm)
+
 ### Fri 7/12 5:34am
 * New movies: Kneecap, Kneecap
 
