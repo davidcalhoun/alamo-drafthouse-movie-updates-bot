@@ -1,6 +1,45 @@
 # raleigh
 
 ## Movie updates
+### Mon 7/15 3:18pm
+
+* New screenings: 
+    * [A Quiet Place Day One](https://drafthouse.com/raleigh/show/a-quiet-place-day-one): Thu 7/18 (10:45am, 1:30pm, 4:30pm, 7:30pm, 10:45pm), Fri 7/19 (10:15am, 1:15pm, 4:15pm, 7:15pm, 10:45pm), Sat 7/20 (10:15am, 1:15pm, 4:15pm, 7:15pm, 10:45pm), Sun 7/21 (10:15am, 1:15pm, 4:15pm, 7:15pm, 10:45pm), Mon 7/22 (10:15am, 1:15pm, 4:15pm, 7:15pm, 10:45pm), Tue 7/23 (10:15am, 1:15pm, 4:15pm, 7:15pm, 10:45pm), Wed 7/24 (10:15am, 1:15pm, 4:15pm, 7:15pm, 10:45pm)
+
+    * [Apollo 11](https://drafthouse.com/raleigh/show/apollo-11): Tue 7/23 (4:30pm)
+
+    * [Bad Boys Ride Or Die](https://drafthouse.com/raleigh/show/bad-boys-ride-or-die): Thu 7/18 (11:45am, 3:00pm, 6:15pm, 10:00pm), Fri 7/19 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Sat 7/20 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Sun 7/21 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Mon 7/22 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Tue 7/23 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Wed 7/24 (12:00pm, 3:30pm, 7:30pm, 10:30pm)
+
+    * [Dandelion](https://drafthouse.com/raleigh/show/dandelion): Thu 7/18 (2:15pm)
+
+    * [Despicable Me 4](https://drafthouse.com/raleigh/show/despicable-me-4): Thu 7/18 (10:15am, 12:00pm, 1:15pm, 4:15pm, 7:15pm, 9:30pm), Fri 7/19 (11:00am, 2:00pm, 5:00pm, 7:45pm, 10:00pm), Sat 7/20 (11:00am, 2:00pm, 5:00pm, 6:30pm, 10:00pm), Sun 7/21 (11:15am, 2:15pm, 5:00pm, 7:45pm, 10:00pm), Mon 7/22 (11:15am, 2:00pm, 5:00pm, 7:45pm, 10:00pm), Tue 7/23 (11:15am, 2:00pm, 5:00pm, 7:45pm, 10:00pm), Wed 7/24 (11:15am, 2:00pm, 5:00pm, 7:45pm, 10:00pm)
+
+    * [Fly Me To The Moon](https://drafthouse.com/raleigh/show/fly-me-to-the-moon): Thu 7/18 (10:15am, 1:45pm, 5:15pm, 8:30pm, 10:15pm), Fri 7/19 (11:00am, 2:45pm, 6:30pm, 9:45pm), Sat 7/20 (12:00pm, 3:30pm, 6:45pm, 9:45pm), Sun 7/21 (10:00am, 1:30pm, 4:45pm, 8:00pm, 9:45pm), Mon 7/22 (10:00am, 1:30pm, 4:45pm, 8:00pm, 9:45pm), Tue 7/23 (10:00am, 1:30pm, 4:45pm, 8:00pm, 9:45pm), Wed 7/24 (10:00am, 1:30pm, 4:45pm, 8:00pm, 9:45pm)
+
+    * [Horizon An American Saga Chapter 1](https://drafthouse.com/raleigh/show/horizon-an-american-saga-chapter-1): Thu 7/18 (11:15am)
+
+    * [Inside Out 2](https://drafthouse.com/raleigh/show/inside-out-2): Thu 7/18 (10:45am, 1:30pm, 4:30pm, 7:30pm, 9:00pm), Fri 7/19 (10:00am, 1:00pm, 4:00pm, 6:45pm, 9:45pm), Sat 7/20 (10:00am, 1:00pm, 4:00pm, 6:45pm, 9:45pm), Sun 7/21 (10:15am, 1:00pm, 4:00pm, 6:45pm, 9:45pm), Mon 7/22 (10:15am, 1:00pm, 4:00pm, 6:45pm, 9:45pm), Tue 7/23 (10:15am, 1:00pm, 4:00pm, 6:45pm, 9:45pm), Wed 7/24 (10:15am, 1:00pm, 4:00pm, 6:45pm, 9:45pm)
+
+    * [Longlegs](https://drafthouse.com/raleigh/show/longlegs): Thu 7/18 (11:00am, 3:00pm, 5:30pm, 6:30pm, 10:00pm), Fri 7/19 (10:30am, 11:30am, 1:30pm, 3:00pm, 4:30pm, 6:30pm, 7:30pm, 9:15pm, 11:00pm), Sat 7/20 (11:30am, 3:00pm, 7:45pm, 8:30pm, 9:15pm, 11:15pm), Sun 7/21 (10:30am, 1:30pm, 4:30pm, 5:30pm, 7:30pm, 8:30pm, 11:00pm, 11:30pm), Mon 7/22 (11:30am, 2:30pm, 3:00pm, 5:30pm, 6:30pm, 8:30pm, 10:15pm, 11:15pm), Tue 7/23 (12:00pm, 3:00pm, 6:30pm, 9:30pm, 10:00pm), Wed 7/24 (11:30am, 12:30pm, 2:30pm, 3:15pm, 5:30pm, 6:30pm, 8:30pm, 11:15pm)
+
+    * [Maxxxine](https://drafthouse.com/raleigh/show/maxxxine): Thu 7/18 (10:00am, 1:00pm, 4:00pm, 7:00pm, 10:30pm), Fri 7/19 (11:15am, 2:15pm, 5:15pm, 8:15pm, 11:00pm), Sat 7/20 (11:15am, 2:15pm, 5:15pm, 8:15pm, 11:00pm), Sun 7/21 (11:15am, 2:15pm, 5:15pm, 8:15pm, 11:00pm), Mon 7/22 (11:15am, 2:15pm, 5:15pm, 8:15pm, 11:00pm), Tue 7/23 (11:15am, 2:15pm, 5:15pm, 8:15pm, 11:00pm), Wed 7/24 (11:15am, 2:15pm, 5:15pm, 8:15pm, 11:00pm)
+
+    * [Nausicaa Of The Valley Of The Wind Subtitled](https://drafthouse.com/raleigh/show/nausicaa-of-the-valley-of-the-wind-subtitled): Thu 7/18 (6:30pm)
+
+    * [Oddity](https://drafthouse.com/raleigh/show/oddity): Sun 7/21 (11:15pm), Mon 7/22 (11:15pm), Tue 7/23 (11:15pm), Wed 7/24 (11:15pm)
+
+    * [Starman](https://drafthouse.com/raleigh/show/starman): Tue 7/23 (6:30pm)
+
+    * [The Adventures Of Buckaroo Banzai Across The 8th Dimension](https://drafthouse.com/raleigh/show/the-adventures-of-buckaroo-banzai-across-the-8th-dimension): Sat 7/20 (5:40pm), Tue 7/23 (1:30pm)
+
+    * [The Bikeriders](https://drafthouse.com/raleigh/show/the-bikeriders): Thu 7/18 (11:00am)
+
+    * [Thelma 2024](https://drafthouse.com/raleigh/show/thelma-2024): Thu 7/18 (3:30pm)
+
+    * [Touch](https://drafthouse.com/raleigh/show/touch): Thu 7/18 (11:30am), Fri 7/19 (11:45am), Sat 7/20 (11:45am), Sun 7/21 (12:00pm), Mon 7/22 (11:45am), Tue 7/23 (11:45am), Wed 7/24 (11:45am)
+
+    * [Twisters](https://drafthouse.com/raleigh/show/twisters): Thu 7/18 (3:30pm, 6:45pm, 10:00pm), Fri 7/19 (11:00am, 12:00pm, 2:30pm, 3:00pm, 3:30pm, 6:30pm, 7:00pm, 10:30pm), Sat 7/20 (11:00am, 12:00pm, 2:30pm, 3:00pm, 3:30pm, 6:00pm, 6:30pm, 9:30pm), Sun 7/21 (11:00am, 12:00pm, 2:30pm, 3:00pm, 3:30pm, 4:00pm, 6:00pm, 6:30pm, 9:30pm), Mon 7/22 (11:00am, 12:00pm, 2:30pm, 3:00pm, 3:30pm, 6:00pm, 7:00pm, 9:30pm, 10:30pm), Tue 7/23 (11:00am, 12:15pm, 2:30pm, 3:00pm, 3:30pm, 6:00pm, 7:00pm, 10:30pm), Wed 7/24 (11:00am, 12:00pm, 2:30pm, 3:00pm, 3:30pm, 6:00pm, 7:00pm, 9:30pm, 10:30pm)
+
 ### Fri 7/12 4:21pm
 
 * New screenings: 
