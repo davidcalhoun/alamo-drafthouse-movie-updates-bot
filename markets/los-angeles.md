@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 7/16 9:20am
+* New movies: Trap, Trap
+
+* New screenings: 
+    * [Brunch Screenings Trap Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-trap-brunch): Sat 8/3 (10:45am), Sun 8/4 (10:45am)
+
+    * [Trap](https://drafthouse.com/los-angeles/show/trap): Thu 8/1 (4:40pm, 7:30pm, 10:25pm), Fri 8/2 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:25pm), Sat 8/3 (1:40pm, 4:35pm, 7:30pm, 10:25pm), Sun 8/4 (1:40pm, 4:35pm, 7:30pm), Mon 8/5 (11:00am, 1:50pm, 4:40pm), Tue 8/6 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:25pm), Wed 8/7 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:25pm)
+
 ### Mon 7/15 3:16pm
 
 * New screenings: 
