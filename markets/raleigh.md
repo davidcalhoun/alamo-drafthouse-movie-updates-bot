@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 7/16 9:19am
+
+* New screenings: 
+    * [Bad Boys Ride Or Die](https://drafthouse.com/raleigh/show/bad-boys-ride-or-die): Tue 7/16 (12:00pm, 3:15pm)
+
 ### Mon 7/15 3:18pm
 
 * New screenings: 
