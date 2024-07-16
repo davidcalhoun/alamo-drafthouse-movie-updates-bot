@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Tue 7/16 12:24pm
+* New movies: Trap, Kneecap
+
+* New screenings: 
+    * [Livestream Q A Kneecap](https://drafthouse.com/raleigh/show/livestream-q-a-kneecap): Mon 7/29 (8:00pm)
+
+    * [Trap](https://drafthouse.com/raleigh/show/trap): Thu 8/1 (3:00pm, 6:15pm, 9:15pm), Fri 8/2 (7:15pm, 10:15pm), Sat 8/3 (7:15pm, 10:15pm), Sun 8/4 (7:15pm, 10:15pm)
+
 ### Tue 7/16 9:19am
 
 * New screenings: 
