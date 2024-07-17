@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Wed 7/17 9:22am
+* New movies: It Ends With Us, Batman: Caped Crusader, It Ends With Us, It Ends With Us
+
+* New screenings: 
+    * [Advance Screening It Ends With Us Early Screening](https://drafthouse.com/los-angeles/show/advance-screening-it-ends-with-us-early-screening): Wed 8/7 (7:00pm)
+
+    * [Brunch Screenings It Ends With Us Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-it-ends-with-us-brunch): Sat 8/10 (12:00pm), Sun 8/11 (12:00pm)
+
+    * [Free Victory Screening Batman Caped Crusader](https://drafthouse.com/los-angeles/show/free-victory-screening-batman-caped-crusader): Wed 7/31 (7:30pm, 7:45pm)
+
+    * [It Ends With Us](https://drafthouse.com/los-angeles/show/it-ends-with-us): Thu 8/8 (3:20pm, 6:40pm, 10:00pm), Fri 8/9 (12:00pm, 3:20pm, 6:40pm, 10:00pm), Sat 8/10 (3:20pm, 6:40pm, 10:00pm), Sun 8/11 (3:20pm, 6:40pm), Mon 8/12 (12:00pm, 3:20pm, 6:40pm, 10:00pm), Tue 8/13 (12:00pm, 3:20pm, 6:40pm, 10:00pm), Wed 8/14 (12:00pm, 3:20pm, 6:40pm, 10:00pm)
+
 ### Tue 7/16 9:20am
 * New movies: Trap, Trap
 
