@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Wed 7/17 12:27pm
+* New movies: It Ends With Us, Batman: Caped Crusader, It Ends With Us
+
+* New screenings: 
+    * [Advance Screening It Ends With Us Early Screening](https://drafthouse.com/raleigh/show/advance-screening-it-ends-with-us-early-screening): Wed 8/7 (7:00pm)
+
+    * [Free Victory Screening Batman Caped Crusader](https://drafthouse.com/raleigh/show/free-victory-screening-batman-caped-crusader): Wed 7/31 (7:15pm)
+
+    * [It Ends With Us](https://drafthouse.com/raleigh/show/it-ends-with-us): Thu 8/8 (3:30pm, 7:00pm, 10:15pm), Fri 8/9 (6:15pm, 9:45pm), Sat 8/10 (6:15pm, 9:45pm), Sun 8/11 (6:15pm, 9:45pm)
+
 ### Tue 7/16 12:24pm
 * New movies: Trap, Kneecap
 
