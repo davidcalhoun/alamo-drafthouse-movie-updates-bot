@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 7/18 1:18pm
+* New movies: Heaven Adores You
+
+* New screenings: 
+    * [Heaven Adores You](https://drafthouse.com/los-angeles/show/heaven-adores-you): Mon 8/5 (10:40pm)
+
 ### Wed 7/17 9:22am
 * New movies: It Ends With Us, Batman: Caped Crusader, It Ends With Us, It Ends With Us
 
