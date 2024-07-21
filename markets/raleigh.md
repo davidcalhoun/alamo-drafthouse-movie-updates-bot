@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Sun 7/21 4:23pm
+
+* New screenings: 
+    * [Twisters](https://drafthouse.com/raleigh/show/twisters): Wed 7/24 (10:00pm)
+
 ### Wed 7/17 12:27pm
 * New movies: It Ends With Us, Batman: Caped Crusader, It Ends With Us
 
