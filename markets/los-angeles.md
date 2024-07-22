@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Mon 7/22 4:17pm
+* New movies: The Terminator 1984
+
+* New screenings: 
+    * [Sing Along Sing A Long A The Greatest Showman](https://drafthouse.com/los-angeles/show/sing-along-sing-a-long-a-the-greatest-showman): Sun 9/29 (11:00am, 2:00pm), Mon 9/30 (7:00pm), Tue 10/1 (7:00pm)
+
+    * [The Terminator 1984](https://drafthouse.com/los-angeles/show/the-terminator-1984): Sat 8/31 (7:15pm)
+
 ### Mon 7/22 3:16pm
 * New movies: Caligula: The Ultimate Cut
 
