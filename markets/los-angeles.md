@@ -1,6 +1,36 @@
 # los-angeles
 
 ## Movie updates
+### Mon 7/22 3:16pm
+* New movies: Caligula: The Ultimate Cut
+
+* New screenings: 
+    * [A Quiet Place Day One](https://drafthouse.com/los-angeles/show/a-quiet-place-day-one): Thu 7/25 (3:10pm, 9:20pm), Fri 7/26 (5:15pm, 8:00pm, 10:50pm), Sat 7/27 (5:15pm, 8:00pm, 10:50pm), Sun 7/28 (5:15pm, 8:00pm, 10:50pm), Mon 7/29 (5:15pm, 8:00pm, 10:50pm), Tue 7/30 (5:15pm, 8:00pm, 10:50pm), Wed 7/31 (5:15pm, 8:00pm, 10:50pm)
+
+    * [Beverly Hills Cop](https://drafthouse.com/los-angeles/show/beverly-hills-cop): Mon 7/29 (10:05pm), Wed 7/31 (10:00pm)
+
+    * [Blood Simple](https://drafthouse.com/los-angeles/show/blood-simple): Sat 7/27 (4:30pm), Mon 7/29 (10:45pm), Wed 7/31 (1:15pm, 9:10pm)
+
+    * [Deadpool And Wolverine](https://drafthouse.com/los-angeles/show/deadpool-and-wolverine): Thu 7/25 (3:20pm, 5:00pm, 5:25pm, 6:00pm, 6:40pm, 7:15pm, 8:20pm, 8:45pm, 9:25pm, 10:00pm), Fri 7/26 (10:45am, 11:00am, 11:40am, 12:00pm, 2:10pm, 3:00pm, 3:25pm, 6:25pm, 6:45pm, 7:20pm, 8:45pm, 9:00pm, 9:45pm, 10:05pm), Sat 7/27 (10:45am, 11:00am, 11:40am, 12:00pm, 2:10pm, 3:00pm, 3:25pm, 6:25pm, 6:45pm, 7:20pm, 8:45pm, 9:00pm, 9:45pm, 10:05pm), Sun 7/28 (10:45am, 11:00am, 11:40am, 12:00pm, 2:10pm, 3:00pm, 3:25pm, 6:25pm, 6:45pm, 7:20pm, 8:45pm, 9:00pm, 9:45pm, 10:05pm), Mon 7/29 (12:00pm, 12:45pm, 1:20pm, 3:20pm, 4:10pm, 6:40pm, 7:30pm, 8:20pm, 10:00pm), Tue 7/30 (12:00pm, 1:00pm, 3:20pm, 4:25pm, 6:45pm, 7:45pm, 10:00pm), Wed 7/31 (12:00pm, 1:00pm, 2:40pm, 3:20pm, 4:20pm, 9:30pm)
+
+    * [Despicable Me 4](https://drafthouse.com/los-angeles/show/despicable-me-4): Thu 7/25 (2:15pm)
+
+    * [Fantastic Fest Presents Caligula The Ultimate Cut W Live Q A](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-caligula-the-ultimate-cut-w-live-q-a): Thu 8/15 (6:00pm)
+
+    * [Inside Out 2](https://drafthouse.com/los-angeles/show/inside-out-2): Thu 7/25 (4:30pm, 7:15pm, 10:00pm), Fri 7/26 (11:00am, 1:45pm, 4:30pm, 7:15pm, 10:30pm), Sat 7/27 (11:00am, 1:45pm, 4:30pm, 7:15pm, 10:30pm), Sun 7/28 (11:00am, 1:45pm, 4:30pm, 7:15pm, 10:30pm), Mon 7/29 (12:40pm, 3:25pm, 6:10pm, 9:00pm), Tue 7/30 (12:40pm, 3:25pm, 6:10pm, 9:00pm), Wed 7/31 (12:40pm, 3:25pm, 6:10pm, 9:00pm)
+
+    * [Kids Camp The Land Before Time](https://drafthouse.com/los-angeles/show/kids-camp-the-land-before-time): Wed 7/31 (11:00am)
+
+    * [Longlegs](https://drafthouse.com/los-angeles/show/longlegs): Thu 7/25 (2:30pm, 5:15pm, 8:00pm, 10:45pm), Fri 7/26 (11:00am, 1:50pm, 4:45pm, 7:40pm, 10:40pm), Sat 7/27 (11:00am, 1:50pm, 4:45pm, 7:40pm, 10:40pm), Sun 7/28 (11:00am, 1:50pm, 4:45pm, 7:40pm, 10:40pm), Mon 7/29 (11:10am, 2:00pm, 4:45pm, 7:40pm, 10:30pm), Tue 7/30 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Wed 7/31 (11:00am, 1:50pm, 4:40pm, 7:20pm, 10:10pm)
+
+    * [Maxxxine](https://drafthouse.com/los-angeles/show/maxxxine): Thu 7/25 (3:30pm, 6:30pm, 10:30pm), Fri 7/26 (12:30pm, 3:20pm, 6:10pm, 10:00pm), Sat 7/27 (12:30pm, 3:20pm, 6:10pm, 10:00pm), Sun 7/28 (12:30pm, 3:20pm, 6:10pm, 10:00pm), Mon 7/29 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Tue 7/30 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Wed 7/31 (11:00am, 1:45pm, 4:30pm, 6:40pm, 10:10pm)
+
+    * [National Anthem](https://drafthouse.com/los-angeles/show/national-anthem): Thu 7/25 (2:35pm), Fri 7/26 (10:25am, 2:25pm), Sat 7/27 (10:25am, 2:25pm), Sun 7/28 (10:25am, 2:25pm), Mon 7/29 (11:45am, 2:30pm), Tue 7/30 (11:45am, 2:30pm), Wed 7/31 (11:45am, 2:30pm)
+
+    * [Oddity](https://drafthouse.com/los-angeles/show/oddity): Sun 7/28 (4:30pm), Tue 7/30 (4:25pm)
+
+    * [Twisters](https://drafthouse.com/los-angeles/show/twisters): Thu 7/25 (2:45pm, 4:00pm), Fri 7/26 (1:15pm, 5:30pm), Sat 7/27 (1:15pm, 5:30pm), Sun 7/28 (1:15pm, 5:30pm), Mon 7/29 (12:45pm, 4:00pm), Tue 7/30 (1:10pm, 10:10pm), Wed 7/31 (11:25am, 4:00pm, 9:55pm)
+
 ### Thu 7/18 1:18pm
 * New movies: Heaven Adores You
 
