@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Mon 7/22 9:20pm
+* New movies: Borderlands, Borderlands
+
+* New screenings: 
+    * [Borderlands](https://drafthouse.com/los-angeles/show/borderlands): Thu 8/8 (4:40pm, 7:30pm, 10:20pm), Fri 8/9 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Sat 8/10 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Sun 8/11 (11:00am, 1:50pm, 4:40pm, 7:30pm), Mon 8/12 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Tue 8/13 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Wed 8/14 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm)
+
+    * [Free Victory Screening Borderlands](https://drafthouse.com/los-angeles/show/free-victory-screening-borderlands): Wed 8/7 (7:15pm)
+
 ### Mon 7/22 4:17pm
 * New movies: The Terminator 1984
 
