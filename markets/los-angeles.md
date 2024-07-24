@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 7/24 3:16pm
+* New movies: Caligula: The Ultimate Cut
+
+* New screenings: 
+    * [Caligula The Ultimate Cut](https://drafthouse.com/los-angeles/show/caligula-the-ultimate-cut): Fri 8/16 (5:20pm), Sat 8/17 (3:00pm), Sun 8/18 (4:25pm)
+
 ### Tue 7/23 11:25pm
 * New movies: CatVideoFest 2024
 
