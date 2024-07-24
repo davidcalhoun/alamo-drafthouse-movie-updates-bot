@@ -1,6 +1,20 @@
 # los-angeles
 
 ## Movie updates
+### Tue 7/23 10:17pm
+* New movies: Sing Sing, Point Break 1991
+
+* New screenings: 
+    * [Beverly Hills Cop](https://drafthouse.com/los-angeles/show/beverly-hills-cop): Tue 7/30 (11:20am, 5:00pm)
+
+    * [Blood Simple](https://drafthouse.com/los-angeles/show/blood-simple): Tue 7/30 (2:15pm)
+
+    * [Deadpool And Wolverine](https://drafthouse.com/los-angeles/show/deadpool-and-wolverine): Tue 7/30 (8:00pm)
+
+    * [Point Break](https://drafthouse.com/los-angeles/show/point-break): Sun 9/1 (2:45pm)
+
+    * [Sing Sing](https://drafthouse.com/los-angeles/show/sing-sing): Thu 8/1 (3:45pm, 6:45pm, 9:45pm), Fri 8/2 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Sat 8/3 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Sun 8/4 (12:45pm, 3:45pm, 6:45pm), Mon 8/5 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Tue 8/6 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Wed 8/7 (12:45pm, 3:45pm, 6:45pm, 9:45pm)
+
 ### Mon 7/22 9:20pm
 * New movies: Borderlands, Borderlands
 
