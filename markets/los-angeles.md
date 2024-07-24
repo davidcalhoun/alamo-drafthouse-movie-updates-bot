@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 7/23 11:25pm
+* New movies: CatVideoFest 2024
+
+* New screenings: 
+    * [Catvideofest 2024](https://drafthouse.com/los-angeles/show/catvideofest-2024): Sat 8/17 (11:30am)
+
 ### Tue 7/23 10:17pm
 * New movies: Sing Sing, Point Break 1991
 
