@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 7/24 7:21pm
+* New movies: Borderlands
+
+* New screenings: 
+    * [Borderlands](https://drafthouse.com/raleigh/show/borderlands): Thu 8/8 (4:20pm, 7:15pm, 10:00pm), Fri 8/9 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Sat 8/10 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Sun 8/11 (2:30pm, 5:15pm, 8:00pm)
+
 ### Mon 7/22 5:20pm
 
 * New screenings: 
