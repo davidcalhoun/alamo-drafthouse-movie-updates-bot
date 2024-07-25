@@ -1,6 +1,20 @@
 # los-angeles
 
 ## Movie updates
+### Wed 7/24 6:18pm
+* New movies: Lady Snowblood, They Came Together, Hundreds of Beavers, SUPERSOUL BROTHER
+
+* New screenings: 
+    * [Caligula The Ultimate Cut](https://drafthouse.com/los-angeles/show/caligula-the-ultimate-cut): Mon 8/19 (3:10pm), Tue 8/20 (3:10pm), Wed 8/21 (3:10pm)
+
+    * [Hundreds Of Beavers](https://drafthouse.com/los-angeles/show/hundreds-of-beavers): Fri 9/13 (4:15pm), Wed 9/18 (7:15pm)
+
+    * [Lady Snowblood](https://drafthouse.com/los-angeles/show/lady-snowblood): Fri 8/30 (3:15pm), Wed 9/4 (7:45pm)
+
+    * [Supersoul Brother](https://drafthouse.com/los-angeles/show/supersoul-brother): Fri 8/23 (4:45pm), Wed 8/28 (7:15pm)
+
+    * [They Came Together](https://drafthouse.com/los-angeles/show/they-came-together): Fri 9/20 (4:40pm), Wed 9/25 (7:15pm)
+
 ### Wed 7/24 3:16pm
 * New movies: Caligula: The Ultimate Cut
 
