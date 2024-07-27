@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 7/26 6:17pm
+* New movies: The Other Laurens
+
+* New screenings: 
+    * [The Other Laurens](https://drafthouse.com/los-angeles/show/the-other-laurens): Fri 8/23 (10:25pm), Sat 8/24 (9:30pm)
+
 ### Wed 7/24 6:18pm
 * New movies: Lady Snowblood, They Came Together, Hundreds of Beavers, SUPERSOUL BROTHER
 
