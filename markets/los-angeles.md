@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 7/29 11:23am
+* New movies: THE ZODIAC KILLER
+
+* New screenings: 
+    * [The Zodiac Killer](https://drafthouse.com/los-angeles/show/the-zodiac-killer): Fri 8/9 (4:20pm), Wed 8/14 (8:00pm)
+
 ### Fri 7/26 6:17pm
 * New movies: The Other Laurens
 
