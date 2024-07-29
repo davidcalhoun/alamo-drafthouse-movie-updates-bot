@@ -1,6 +1,28 @@
 # raleigh
 
 ## Movie updates
+### Mon 7/29 5:21pm
+* New movies: Harold and the Purple Crayon
+
+* New screenings: 
+    * [Bad Boys Ride Or Die](https://drafthouse.com/raleigh/show/bad-boys-ride-or-die): Thu 8/1 (10:45am)
+
+    * [Deadpool And Wolverine](https://drafthouse.com/raleigh/show/deadpool-and-wolverine): Thu 8/1 (10:00am, 10:30am, 11:00am, 11:30am, 1:30pm, 2:00pm, 3:00pm, 5:00pm, 5:30pm, 6:30pm, 9:00pm, 10:00pm), Fri 8/2 (9:30am, 10:00am, 10:30am, 11:30am, 1:30pm, 2:00pm, 3:00pm, 5:00pm, 5:30pm, 6:30pm, 8:30pm, 9:00pm), Sat 8/3 (9:30am, 10:00am, 10:30am, 1:30pm, 2:00pm, 2:30pm, 5:00pm, 5:30pm, 6:00pm, 8:30pm, 9:30pm), Sun 8/4 (9:30am, 10:00am, 11:00am, 1:30pm, 2:00pm, 3:00pm, 5:00pm, 5:30pm, 8:30pm, 9:00pm, 10:30pm), Mon 8/5 (10:30am, 11:00am, 1:30pm, 2:00pm, 3:00pm, 5:00pm, 5:30pm, 8:30pm, 9:00pm, 10:00pm), Tue 8/6 (9:30am, 10:00am, 10:30am, 11:00am, 1:30pm, 2:00pm, 2:30pm, 5:00pm, 5:30pm, 6:00pm, 8:30pm, 9:30pm), Wed 8/7 (9:30am, 10:30am, 11:00am, 1:30pm, 2:00pm, 3:00pm, 5:00pm, 5:30pm, 8:30pm, 10:15pm)
+
+    * [Despicable Me 4](https://drafthouse.com/raleigh/show/despicable-me-4): Thu 8/1 (9:15am, 12:00pm, 3:15pm, 6:15pm, 9:45pm), Fri 8/2 (9:15am, 12:00pm, 3:15pm, 6:15pm, 9:30pm), Sat 8/3 (9:15am, 12:00pm, 3:15pm, 6:15pm, 9:30pm), Sun 8/4 (9:15am, 12:00pm, 3:15pm, 6:15pm, 9:30pm), Mon 8/5 (9:15am, 12:00pm, 3:15pm, 6:30pm, 9:30pm), Tue 8/6 (9:15am, 12:00pm, 3:15pm, 6:45pm, 9:45pm), Wed 8/7 (9:15am, 12:00pm, 3:15pm, 6:30pm, 9:30pm)
+
+    * [Harold And The Purple Crayon](https://drafthouse.com/raleigh/show/harold-and-the-purple-crayon): Thu 8/1 (2:15pm, 5:00pm, 8:00pm, 10:30pm), Fri 8/2 (9:00am, 12:15pm, 3:30pm, 6:30pm, 9:30pm), Sat 8/3 (9:00am, 12:15pm, 3:30pm, 6:45pm, 9:45pm), Sun 8/4 (9:00am, 12:15pm, 3:30pm, 6:30pm, 9:45pm), Mon 8/5 (9:00am, 12:15pm, 3:30pm, 6:45pm, 9:45pm), Tue 8/6 (9:00am, 12:15pm, 3:30pm, 6:30pm, 9:30pm), Wed 8/7 (9:00am, 12:15pm, 3:30pm, 6:45pm, 9:45pm)
+
+    * [Inside Out 2](https://drafthouse.com/raleigh/show/inside-out-2): Thu 8/1 (9:45am, 12:45pm, 3:45pm, 7:00pm, 10:15pm), Fri 8/2 (9:45am, 12:45pm, 3:45pm, 7:00pm, 10:15pm), Sat 8/3 (9:45am, 12:45pm, 3:45pm, 7:00pm, 10:00pm), Sun 8/4 (9:45am, 12:45pm, 3:45pm, 6:45pm, 10:00pm), Mon 8/5 (9:45am, 12:45pm, 3:45pm, 7:15pm, 10:00pm), Tue 8/6 (9:45am, 12:45pm, 3:45pm, 7:15pm, 10:15pm), Wed 8/7 (9:45am, 12:45pm, 3:45pm, 7:15pm, 10:00pm)
+
+    * [Kids Camp Peter Pan 2003](https://drafthouse.com/raleigh/show/kids-camp-peter-pan-2003): Wed 8/7 (10:00am)
+
+    * [Longlegs](https://drafthouse.com/raleigh/show/longlegs): Thu 8/1 (10:45am, 1:45pm, 4:45pm, 7:45pm, 11:45pm), Fri 8/2 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Sat 8/3 (11:00am, 2:00pm, 5:00pm, 8:00pm, 11:15pm), Sun 8/4 (10:30am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Mon 8/5 (10:30am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Tue 8/6 (10:30am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Wed 8/7 (10:30am, 1:45pm, 4:45pm, 7:45pm, 10:45pm)
+
+    * [Trap](https://drafthouse.com/raleigh/show/trap): Thu 8/1 (8:30pm, 10:45pm), Fri 8/2 (9:15am, 12:45pm, 3:45pm), Sat 8/3 (9:45am, 12:45pm, 4:15pm, 9:00pm), Sun 8/4 (10:15am, 1:15pm, 4:15pm), Mon 8/5 (10:15am, 1:15pm, 4:15pm, 7:15pm, 10:15pm), Tue 8/6 (10:30am, 1:45pm, 4:45pm, 7:45pm, 11:00pm), Wed 8/7 (10:15am, 1:15pm, 4:15pm, 7:15pm, 10:30pm)
+
+    * [Twisters](https://drafthouse.com/raleigh/show/twisters): Thu 8/1 (9:30am, 12:45pm, 4:00pm, 7:15pm, 11:15pm), Fri 8/2 (10:00am, 1:00pm, 4:15pm, 7:30pm, 10:45pm), Sat 8/3 (10:00am, 1:00pm, 4:15pm, 7:15pm, 10:30pm), Sun 8/4 (9:45am, 12:45pm, 4:00pm, 7:00pm, 11:00pm), Mon 8/5 (9:45am, 12:45pm, 4:00pm, 7:00pm, 10:30pm), Tue 8/6 (9:45am, 1:00pm, 4:00pm, 7:15pm, 10:30pm), Wed 8/7 (9:45am, 12:45pm, 4:00pm, 7:00pm, 10:30pm)
+
 ### Wed 7/24 7:21pm
 * New movies: Borderlands
 
