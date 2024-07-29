@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 7/29 12:14pm
+* New movies: Hey Folks! It's the Intermission Time Mixtape
+
+* New screenings: 
+    * [Hey Folks Its The Intermission Time Mixtape](https://drafthouse.com/los-angeles/show/hey-folks-its-the-intermission-time-mixtape): Fri 8/16 (4:45pm), Wed 8/21 (7:15pm)
+
 ### Mon 7/29 11:23am
 * New movies: THE ZODIAC KILLER
 
