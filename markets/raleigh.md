@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 7/30 4:19pm
+* New movies: Jackpot!
+
+* New screenings: 
+    * [Free Victory Screening Jackpot](https://drafthouse.com/raleigh/show/free-victory-screening-jackpot): Wed 8/14 (7:30pm)
+
 ### Mon 7/29 5:21pm
 * New movies: Harold and the Purple Crayon
 
