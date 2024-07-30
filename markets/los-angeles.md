@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 7/30 5:34am
+* New movies: Jackpot!
+
+* New screenings: 
+    * [Free Victory Screening Jackpot](https://drafthouse.com/los-angeles/show/free-victory-screening-jackpot): Wed 8/14 (7:00pm)
+
 ### Mon 7/29 6:19pm
 * New movies: Crumb Catcher
 
