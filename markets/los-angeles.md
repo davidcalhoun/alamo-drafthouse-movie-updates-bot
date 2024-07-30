@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 7/30 6:19am
+* New movies: Cuckoo
+
+* New screenings: 
+    * [Cuckoo](https://drafthouse.com/los-angeles/show/cuckoo): Thu 8/8 (7:15pm, 10:10pm), Fri 8/9 (10:45am, 1:35pm, 4:25pm, 7:15pm, 10:10pm), Sat 8/10 (10:45am, 1:35pm, 4:25pm, 7:15pm, 10:10pm), Sun 8/11 (10:45am, 1:35pm, 4:25pm, 7:15pm), Mon 8/12 (11:00am, 1:45pm, 4:30pm, 7:20pm, 10:10pm), Tue 8/13 (11:00am, 1:45pm, 4:30pm, 7:20pm, 10:10pm), Wed 8/14 (10:45am, 1:30pm, 4:15pm, 9:45pm)
+
 ### Tue 7/30 5:34am
 * New movies: Jackpot!
 
