@@ -1,6 +1,42 @@
 # los-angeles
 
 ## Movie updates
+### Mon 7/29 6:19pm
+* New movies: Crumb Catcher
+
+* New screenings: 
+    * [A Quiet Place Day One](https://drafthouse.com/los-angeles/show/a-quiet-place-day-one): Thu 8/1 (11:20am, 2:10pm)
+
+    * [Art College 1994](https://drafthouse.com/los-angeles/show/art-college-1994): Tue 8/6 (2:20pm), Wed 8/7 (12:50pm)
+
+    * [Blood Simple](https://drafthouse.com/los-angeles/show/blood-simple): Thu 8/1 (12:40pm)
+
+    * [Crumb Catcher](https://drafthouse.com/los-angeles/show/crumb-catcher): Mon 8/5 (10:25pm), Wed 8/7 (10:10pm)
+
+    * [Deadpool And Wolverine](https://drafthouse.com/los-angeles/show/deadpool-and-wolverine): Thu 8/1 (12:00pm, 12:40pm, 3:20pm, 5:00pm, 6:50pm, 8:20pm, 9:45pm), Fri 8/2 (11:30am, 11:50am, 1:25pm, 2:20pm, 2:50pm, 3:10pm, 6:10pm, 6:30pm, 7:15pm, 9:50pm), Sat 8/3 (11:50am, 2:20pm, 2:40pm, 3:10pm, 6:00pm, 6:30pm, 7:40pm, 9:20pm, 9:50pm), Sun 8/4 (11:30am, 2:20pm, 2:35pm, 2:50pm, 6:15pm, 8:00pm, 8:45pm, 9:00pm, 9:35pm, 9:50pm, 10:20pm), Mon 8/5 (11:40am, 1:00pm, 2:20pm, 3:00pm, 6:20pm, 9:40pm), Tue 8/6 (11:40am, 12:35pm, 2:20pm, 3:00pm, 6:20pm, 7:15pm, 8:25pm, 9:40pm), Wed 8/7 (11:40am, 1:50pm, 2:20pm, 3:00pm, 4:00pm, 6:20pm, 9:40pm)
+
+    * [Didi](https://drafthouse.com/los-angeles/show/didi): Thu 8/1 (3:15pm, 6:00pm, 8:45pm), Fri 8/2 (10:45am, 1:25pm, 4:05pm, 6:50pm, 9:30pm), Sat 8/3 (10:45am, 1:25pm, 4:05pm, 6:50pm, 9:30pm), Sun 8/4 (11:10am, 1:50pm, 4:30pm, 6:00pm, 9:45pm, 10:45pm), Mon 8/5 (12:45pm, 3:25pm, 6:10pm, 8:50pm), Tue 8/6 (12:45pm, 3:25pm, 6:10pm, 8:50pm), Wed 8/7 (12:45pm, 3:25pm, 6:10pm, 8:50pm)
+
+    * [Dune 1984](https://drafthouse.com/los-angeles/show/dune-1984): Mon 8/5 (3:10pm), Tue 8/6 (3:50pm)
+
+    * [Inside Out 2](https://drafthouse.com/los-angeles/show/inside-out-2): Thu 8/1 (1:00pm, 3:45pm)
+
+    * [Kids Camp Peter Pan 2003](https://drafthouse.com/los-angeles/show/kids-camp-peter-pan-2003): Tue 8/6 (11:20am)
+
+    * [Kneecap](https://drafthouse.com/los-angeles/show/kneecap): Sun 8/4 (9:00pm)
+
+    * [Longlegs](https://drafthouse.com/los-angeles/show/longlegs): Thu 8/1 (11:30am, 2:20pm, 5:10pm, 8:00pm, 10:50pm), Fri 8/2 (11:20am, 2:10pm, 5:10pm, 8:00pm, 10:50pm), Sat 8/3 (11:20am, 2:10pm, 5:10pm, 8:00pm, 10:50pm), Sun 8/4 (11:20am, 2:10pm, 5:10pm, 8:00pm, 10:50pm), Mon 8/5 (11:20am, 2:15pm, 5:10pm, 8:00pm, 10:50pm), Tue 8/6 (11:20am, 2:15pm, 5:10pm, 8:00pm, 10:50pm), Wed 8/7 (11:20am, 2:15pm, 5:10pm, 8:00pm, 10:50pm)
+
+    * [Maxxxine](https://drafthouse.com/los-angeles/show/maxxxine): Thu 8/1 (11:00am, 1:50pm), Fri 8/2 (10:35pm), Sat 8/3 (11:00pm), Sun 8/4 (5:00pm), Mon 8/5 (4:20pm), Tue 8/6 (5:30pm), Wed 8/7 (5:10pm, 10:30pm)
+
+    * [National Anthem](https://drafthouse.com/los-angeles/show/national-anthem): Thu 8/1 (12:30pm)
+
+    * [Stranger Than Paradise](https://drafthouse.com/los-angeles/show/stranger-than-paradise): Fri 8/2 (10:45am), Tue 8/6 (10:35pm), Wed 8/7 (11:10am)
+
+    * [Trap](https://drafthouse.com/los-angeles/show/trap): Thu 8/1 (7:10pm, 10:05pm), Sun 8/4 (10:25pm), Mon 8/5 (6:35pm, 9:30pm)
+
+    * [Twisters](https://drafthouse.com/los-angeles/show/twisters): Thu 8/1 (11:00am, 12:45pm, 4:00pm, 6:30pm, 10:10pm), Fri 8/2 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Sat 8/3 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Sun 8/4 (12:00pm, 3:15pm, 6:30pm, 10:30pm), Mon 8/5 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Tue 8/6 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Wed 8/7 (12:00pm, 3:15pm, 6:30pm, 9:45pm)
+
 ### Mon 7/29 12:14pm
 * New movies: Hey Folks! It's the Intermission Time Mixtape
 
