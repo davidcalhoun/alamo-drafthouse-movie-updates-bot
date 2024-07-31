@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Wed 7/31 1:18pm
+
+* New screenings: 
+    * [Alien Romulus](https://drafthouse.com/los-angeles/show/alien-romulus): Thu 8/15 (4:15pm, 7:30pm, 10:45pm), Thu 8/22 (3:45pm, 7:00pm, 10:15pm), Fri 8/23 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Sat 8/24 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Sun 8/25 (12:30pm, 3:45pm, 7:00pm), Mon 8/26 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Tue 8/27 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Wed 8/28 (12:30pm, 3:45pm, 7:00pm, 10:15pm)
+
+    * [Deadpool And Wolverine](https://drafthouse.com/los-angeles/show/deadpool-and-wolverine): Thu 8/8 (2:40pm, 6:00pm, 9:20pm), Fri 8/9 (11:20am, 2:40pm, 6:00pm, 9:20pm), Sat 8/10 (11:20am, 2:40pm, 6:00pm, 9:20pm), Sun 8/11 (11:20am, 2:40pm, 6:00pm), Mon 8/12 (11:20am, 2:40pm, 6:00pm, 9:20pm), Tue 8/13 (11:20am, 2:40pm, 6:00pm, 9:20pm), Wed 8/14 (11:20am, 2:40pm, 6:00pm, 9:20pm)
+
 ### Tue 7/30 6:19am
 * New movies: Cuckoo
 
