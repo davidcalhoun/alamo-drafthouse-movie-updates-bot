@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 7/30 9:15pm
+* New movies: Cuckoo
+
+* New screenings: 
+    * [Cuckoo](https://drafthouse.com/raleigh/show/cuckoo): Thu 8/8 (7:45pm, 10:45pm), Fri 8/9 (10:30am, 1:20pm, 4:10pm, 7:00pm, 9:50pm), Sat 8/10 (10:30am, 1:20pm, 4:10pm, 7:00pm, 9:50pm), Sun 8/11 (10:30am, 1:20pm, 4:10pm, 7:00pm, 9:50pm)
+
 ### Tue 7/30 4:19pm
 * New movies: Jackpot!
 
