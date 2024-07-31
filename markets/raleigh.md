@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Wed 7/31 12:26pm
+* New movies: Twilight of the Warriors: Walled In, Skincare
+
+* New screenings: 
+    * [Advance Screening Skincare](https://drafthouse.com/raleigh/show/advance-screening-skincare): Tue 8/13 (6:00pm)
+
+    * [Twilight Of The Warriors Walled In](https://drafthouse.com/raleigh/show/twilight-of-the-warriors-walled-in): Fri 8/9 (10:00pm), Sat 8/10 (11:45am), Sun 8/11 (2:15pm), Mon 8/12 (10:00pm), Tue 8/13 (11:30am)
+
 ### Tue 7/30 9:15pm
 * New movies: Cuckoo
 
