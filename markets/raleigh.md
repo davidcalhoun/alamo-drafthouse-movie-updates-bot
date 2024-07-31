@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Wed 7/31 2:27pm
+
+* New screenings: 
+    * [Skincare](https://drafthouse.com/raleigh/show/skincare): Sat 8/17 (4:15pm), Sun 8/18 (5:15pm), Mon 8/19 (10:15pm), Tue 8/20 (6:00pm), Wed 8/21 (4:00pm), Thu 8/22 (3:30pm)
+
 ### Wed 7/31 1:22pm
 * New movies: Point Break 1991, Basket Case, Bram Stoker's Dracula 1992, The Terminator 1984, Head, Caligula: The Ultimate Cut, Skincare, CatVideoFest 2024
 
