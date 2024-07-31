@@ -1,6 +1,32 @@
 # raleigh
 
 ## Movie updates
+### Wed 7/31 1:22pm
+* New movies: Point Break 1991, Basket Case, Bram Stoker's Dracula 1992, The Terminator 1984, Head, Caligula: The Ultimate Cut, Skincare, CatVideoFest 2024
+
+* New screenings: 
+    * [Caligula The Ultimate Cut](https://drafthouse.com/raleigh/show/caligula-the-ultimate-cut): Sat 8/24 (11:30am)
+
+    * [Catvideofest 2024](https://drafthouse.com/raleigh/show/catvideofest-2024): Sat 8/17 (11:30am)
+
+    * [Live Q A The Ultimate Willy Wonka Party](https://drafthouse.com/raleigh/show/live-q-a-the-ultimate-willy-wonka-party): Tue 9/10 (3:00pm)
+
+    * [Point Break](https://drafthouse.com/raleigh/show/point-break): Sun 9/1 (12:30pm)
+
+    * [Sing Along Sing A Long A The Greatest Showman](https://drafthouse.com/raleigh/show/sing-along-sing-a-long-a-the-greatest-showman): Sun 9/29 (2:00pm)
+
+    * [Skincare](https://drafthouse.com/raleigh/show/skincare): Tue 8/13 (7:00pm)
+
+    * [Terror Tuesday Basket Case](https://drafthouse.com/raleigh/show/terror-tuesday-basket-case): Tue 9/10 (9:00pm)
+
+    * [Terror Tuesday Bram Stokers Dracula](https://drafthouse.com/raleigh/show/terror-tuesday-bram-stokers-dracula): Tue 9/3 (9:00pm)
+
+    * [The Terminator 1984](https://drafthouse.com/raleigh/show/the-terminator-1984): Mon 9/2 (7:00pm)
+
+    * [Twilight Of The Warriors Walled In](https://drafthouse.com/raleigh/show/twilight-of-the-warriors-walled-in): Wed 8/14 (3:30pm), Thu 8/15 (3:30pm)
+
+    * [Weird Wednesday Head](https://drafthouse.com/raleigh/show/weird-wednesday-head): Wed 9/4 (9:00pm)
+
 ### Wed 7/31 12:26pm
 * New movies: Twilight of the Warriors: Walled In, Skincare
 
