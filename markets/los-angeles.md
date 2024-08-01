@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 8/1 2:18pm
+
+* New screenings: 
+    * [Fantastic Fest Presents Caligula The Ultimate Cut W Live Q A](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-caligula-the-ultimate-cut-w-live-q-a): Sat 8/17 (2:45pm)
+
 ### Wed 7/31 7:39pm
 * New movies: Skincare, Clue, Skincare, Naked Acts
 
