@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Wed 7/31 7:39pm
+* New movies: Skincare, Clue, Skincare, Naked Acts
+
+* New screenings: 
+    * [Advance Screening Skincare](https://drafthouse.com/los-angeles/show/advance-screening-skincare): Tue 8/13 (10:00pm)
+
+    * [Movie Party Clue](https://drafthouse.com/los-angeles/show/movie-party-clue): Mon 9/16 (7:00pm), Wed 9/18 (7:00pm)
+
+    * [Naked Acts](https://drafthouse.com/los-angeles/show/naked-acts): Sun 8/18 (7:15pm)
+
+    * [Skincare](https://drafthouse.com/los-angeles/show/skincare): Fri 8/16 (2:35pm), Sat 8/17 (10:25pm), Sun 8/18 (7:00pm), Mon 8/19 (12:25pm), Tue 8/20 (10:25pm), Wed 8/21 (9:40pm)
+
 ### Wed 7/31 1:18pm
 
 * New screenings: 
