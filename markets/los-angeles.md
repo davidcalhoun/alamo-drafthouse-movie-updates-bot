@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 8/2 1:19pm
+* New movies: Electric Lady Studios: A Jimi Hendrix Vision
+
+* New screenings: 
+    * [Electric Lady Studios A Jimi Hendrix Vision](https://drafthouse.com/los-angeles/show/electric-lady-studios-a-jimi-hendrix-vision): Tue 9/3 (7:15pm)
+
 ### Fri 8/2 12:14pm
 
 * New screenings: 
