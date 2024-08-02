@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 8/2 6:19am
+* New movies: LiSA: LiVE is SMiLE ALWAYS -LANDER-
+
+* New screenings: 
+    * [Lisa Live Is Smile Always Lander](https://drafthouse.com/los-angeles/show/lisa-live-is-smile-always-lander): Sat 8/17 (7:30pm), Sun 8/18 (11:20am), Wed 8/21 (6:00pm)
+
 ### Thu 8/1 10:18pm
 * New movies: Twilight of the Warriors: Walled In
 
