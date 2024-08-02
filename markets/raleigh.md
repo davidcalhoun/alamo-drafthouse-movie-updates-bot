@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 8/2 9:23am
+* New movies: LiSA: LiVE is SMiLE ALWAYS -LANDER-
+
+* New screenings: 
+    * [Lisa Live Is Smile Always Lander](https://drafthouse.com/raleigh/show/lisa-live-is-smile-always-lander): Sat 8/17 (7:00pm), Sun 8/18 (2:00pm)
+
 ### Wed 7/31 4:21pm
 
 * New screenings: 
