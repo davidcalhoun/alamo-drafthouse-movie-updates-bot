@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 8/1 10:18pm
+* New movies: Twilight of the Warriors: Walled In
+
+* New screenings: 
+    * [Twilight Of The Warriors Walled In](https://drafthouse.com/los-angeles/show/twilight-of-the-warriors-walled-in): Fri 8/9 (9:00pm), Sat 8/10 (10:30pm)
+
 ### Thu 8/1 2:18pm
 
 * New screenings: 
