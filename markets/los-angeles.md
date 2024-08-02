@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 8/2 12:14pm
+
+* New screenings: 
+    * [Alien Romulus](https://drafthouse.com/los-angeles/show/alien-romulus): Fri 8/16 (11:00am, 2:15pm, 5:30pm, 8:45pm), Sat 8/17 (11:00am, 2:15pm, 5:30pm, 8:45pm), Sun 8/18 (11:00am, 2:15pm, 5:30pm), Mon 8/19 (11:00am, 2:15pm, 5:30pm, 8:45pm), Tue 8/20 (11:00am, 2:15pm, 5:30pm, 8:45pm), Wed 8/21 (11:00am, 2:15pm, 5:30pm, 8:45pm)
+
 ### Fri 8/2 10:15am
 * New movies: Alien: Romulus
 
