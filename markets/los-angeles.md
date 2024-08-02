@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 8/2 10:15am
+* New movies: Alien: Romulus
+
+* New screenings: 
+    * [Free Victory Screening Alien Romulus](https://drafthouse.com/los-angeles/show/free-victory-screening-alien-romulus): Tue 8/13 (7:00pm, 7:15pm)
+
 ### Fri 8/2 6:19am
 * New movies: LiSA: LiVE is SMiLE ALWAYS -LANDER-
 
