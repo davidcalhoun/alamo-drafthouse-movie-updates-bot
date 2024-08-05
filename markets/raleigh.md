@@ -1,6 +1,35 @@
 # raleigh
 
 ## Movie updates
+### Mon 8/5 7:22pm
+
+* New screenings: 
+    * [Borderlands](https://drafthouse.com/raleigh/show/borderlands): Sun 8/11 (11:15am, 10:45pm), Mon 8/12 (12:15pm, 2:30pm, 3:15pm, 6:15pm, 9:45pm), Tue 8/13 (11:30am, 2:30pm, 5:30pm, 8:30pm, 11:30pm), Wed 8/14 (12:00pm, 3:00pm, 6:30pm, 9:30pm)
+
+    * [Cuckoo](https://drafthouse.com/raleigh/show/cuckoo): Mon 8/12 (11:00am, 2:00pm, 5:00pm, 8:00pm, 11:00pm), Tue 8/13 (11:00am, 2:00pm, 5:00pm, 8:00pm, 11:00pm), Wed 8/14 (1:00pm, 4:00pm, 6:00pm, 9:45pm)
+
+    * [Deadpool And Wolverine](https://drafthouse.com/raleigh/show/deadpool-and-wolverine): Thu 8/8 (9:30am, 10:00am, 11:00am, 11:30am, 12:00pm, 1:30pm, 2:30pm, 5:00pm, 6:15pm, 9:35pm, 10:30pm), Fri 8/9 (11:30am, 12:00pm, 1:35pm, 3:30pm, 4:00pm, 4:45pm, 6:45pm, 8:00pm, 10:30pm), Sat 8/10 (11:30am, 12:45pm, 3:30pm, 4:00pm, 6:45pm, 8:30pm, 10:15pm), Sun 8/11 (12:00pm, 12:45pm, 3:00pm, 4:00pm, 6:45pm, 8:30pm, 10:15pm), Mon 8/12 (11:45am, 2:30pm, 3:30pm, 5:15pm, 7:00pm, 10:15pm), Tue 8/13 (11:45am, 2:30pm, 3:00pm, 6:45pm, 9:30pm, 10:00pm), Wed 8/14 (11:30am, 1:15pm, 3:30pm, 4:30pm, 7:15pm, 9:15pm, 10:15pm)
+
+    * [Despicable Me 4](https://drafthouse.com/raleigh/show/despicable-me-4): Thu 8/8 (9:15am, 12:15pm, 3:25pm, 6:00pm, 9:00pm), Fri 8/9 (10:15am, 1:00pm, 3:45pm, 6:35pm), Sat 8/10 (10:15am, 1:00pm, 3:45pm, 6:30pm), Sun 8/11 (10:15am, 1:00pm, 3:45pm, 6:30pm), Mon 8/12 (11:00am, 1:45pm, 4:30pm, 7:30pm), Tue 8/13 (11:00am, 1:45pm, 4:30pm, 7:15pm), Wed 8/14 (11:15am, 2:00pm, 4:45pm, 7:30pm)
+
+    * [Didi](https://drafthouse.com/raleigh/show/didi): Fri 8/9 (12:15pm, 3:00pm), Sat 8/10 (12:15pm), Sun 8/11 (12:15pm, 3:30pm), Mon 8/12 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Tue 8/13 (12:00pm, 3:00pm, 6:30pm, 9:45pm), Wed 8/14 (11:00am, 1:35pm, 4:15pm, 6:30pm, 10:30pm)
+
+    * [Harold And The Purple Crayon](https://drafthouse.com/raleigh/show/harold-and-the-purple-crayon): Thu 8/8 (9:00am, 12:15pm, 3:30pm, 6:45pm, 9:30pm), Fri 8/9 (12:00pm, 3:15pm, 6:00pm), Sat 8/10 (12:00pm, 3:15pm, 6:00pm), Sun 8/11 (12:30pm, 3:15pm, 6:00pm), Mon 8/12 (1:00pm, 3:45pm, 6:15pm), Tue 8/13 (1:00pm, 3:45pm, 6:15pm), Wed 8/14 (1:00pm, 3:45pm, 6:45pm)
+
+    * [Inside Out 2](https://drafthouse.com/raleigh/show/inside-out-2): Thu 8/8 (9:45am, 12:45pm), Fri 8/9 (11:00am), Sat 8/10 (10:00am), Sun 8/11 (10:00am), Mon 8/12 (11:45am), Tue 8/13 (12:00pm), Wed 8/14 (12:15pm)
+
+    * [It Ends With Us](https://drafthouse.com/raleigh/show/it-ends-with-us): Thu 8/8 (3:00pm, 6:30pm, 9:45pm), Fri 8/9 (11:15am, 2:45pm, 7:30pm, 8:45pm), Sat 8/10 (11:15am, 2:45pm, 7:45pm, 8:45pm), Sun 8/11 (11:15am, 2:45pm, 7:45pm, 8:45pm), Mon 8/12 (12:30pm, 4:00pm, 7:15pm, 8:45pm, 10:30pm), Tue 8/13 (12:45pm, 4:00pm, 6:15pm, 7:15pm, 8:45pm, 10:30pm), Wed 8/14 (12:45pm, 4:00pm, 8:00pm, 10:45pm)
+
+    * [Longlegs](https://drafthouse.com/raleigh/show/longlegs): Fri 8/9 (10:45pm), Sat 8/10 (10:45pm), Sun 8/11 (11:00pm), Mon 8/12 (10:15pm), Tue 8/13 (10:15pm), Wed 8/14 (11:15pm)
+
+    * [Streets Of Fire](https://drafthouse.com/raleigh/show/streets-of-fire): Mon 8/12 (8:30pm)
+
+    * [Trap](https://drafthouse.com/raleigh/show/trap): Thu 8/8 (10:30am, 1:30pm, 4:45pm, 8:30pm, 11:15pm), Fri 8/9 (10:45am, 1:45pm, 4:30pm, 7:15pm, 9:15pm), Sat 8/10 (11:00am, 1:45pm, 4:45pm, 6:45pm, 9:30pm), Sun 8/11 (11:00am, 1:45pm, 4:45pm, 5:30pm, 8:15pm, 10:45pm), Mon 8/12 (1:00pm, 4:00pm, 6:45pm, 9:30pm), Tue 8/13 (12:15pm, 4:15pm, 7:30pm, 10:30pm), Wed 8/14 (12:30pm, 3:15pm, 7:15pm, 10:15pm)
+
+    * [Twilight Of The Warriors Walled In](https://drafthouse.com/raleigh/show/twilight-of-the-warriors-walled-in): Tue 8/13 (1:00pm), Wed 8/14 (3:30pm, 10:20pm)
+
+    * [Twisters](https://drafthouse.com/raleigh/show/twisters): Thu 8/8 (9:30am, 12:30pm, 4:00pm, 7:15pm, 10:30pm), Fri 8/9 (11:45am, 3:00pm, 6:15pm, 9:45pm), Sat 8/10 (10:45am, 2:00pm, 5:15pm, 7:30pm, 9:30pm), Sun 8/11 (10:45am, 2:00pm, 5:15pm, 7:30pm, 9:30pm), Mon 8/12 (11:15am, 2:30pm, 6:00pm, 9:15pm), Tue 8/13 (11:15am, 2:45pm, 6:00pm, 9:30pm), Wed 8/14 (11:30am, 2:45pm, 6:15pm, 9:45pm)
+
 ### Mon 8/5 5:23pm
 * New movies: Cockfighter, Clue, Electric Lady Studios: A Jimi Hendrix Vision, Harry Potter and the Goblet of Fire
 
