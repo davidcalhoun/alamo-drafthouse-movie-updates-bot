@@ -1,6 +1,18 @@
 # raleigh
 
 ## Movie updates
+### Mon 8/5 5:23pm
+* New movies: Cockfighter, Clue, Electric Lady Studios: A Jimi Hendrix Vision, Harry Potter and the Goblet of Fire
+
+* New screenings: 
+    * [Electric Lady Studios A Jimi Hendrix Vision](https://drafthouse.com/raleigh/show/electric-lady-studios-a-jimi-hendrix-vision): Tue 9/3 (7:45pm)
+
+    * [Harry Potter And The Goblet Of Fire](https://drafthouse.com/raleigh/show/harry-potter-and-the-goblet-of-fire): Wed 9/11 (6:00pm)
+
+    * [Live Q A Cockfighter](https://drafthouse.com/raleigh/show/live-q-a-cockfighter): Sun 9/15 (7:00pm)
+
+    * [Movie Party Clue](https://drafthouse.com/raleigh/show/movie-party-clue): Mon 9/16 (7:00pm)
+
 ### Mon 8/5 1:22pm
 
 * New screenings: 
