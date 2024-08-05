@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 8/5 12:26pm
+* New movies: Beetlejuice Beetlejuice
+
+* New screenings: 
+    * [Beetlejuice Beetlejuice](https://drafthouse.com/raleigh/show/beetlejuice-beetlejuice): Fri 9/6 (6:00pm, 9:00pm), Sat 9/7 (6:00pm, 9:00pm), Sun 9/8 (6:00pm, 9:00pm)
+
 ### Fri 8/2 9:23am
 * New movies: LiSA: LiVE is SMiLE ALWAYS -LANDER-
 
