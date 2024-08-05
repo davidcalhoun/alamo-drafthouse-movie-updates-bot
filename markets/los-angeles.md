@@ -1,6 +1,42 @@
 # los-angeles
 
 ## Movie updates
+### Mon 8/5 3:16pm
+* New movies: Indiana Jones and the Temple of Doom
+
+* New screenings: 
+    * [Brunch Screenings Indiana Jones And The Temple Of Doom Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-indiana-jones-and-the-temple-of-doom-brunch): Sat 8/10 (11:30am)
+
+    * [Cuckoo](https://drafthouse.com/los-angeles/show/cuckoo): Thu 8/8 (7:45pm, 10:35pm), Wed 8/14 (7:45pm)
+
+    * [Deadpool And Wolverine](https://drafthouse.com/los-angeles/show/deadpool-and-wolverine): Thu 8/8 (4:00pm, 5:20pm, 8:40pm), Fri 8/9 (11:00am, 1:00pm, 2:00pm, 5:15pm, 7:00pm, 8:30pm), Sat 8/10 (10:50am, 12:25pm, 2:10pm, 3:45pm, 5:30pm, 6:15pm, 7:00pm, 8:45pm), Sun 8/11 (10:50am, 12:50pm, 2:10pm, 5:30pm, 7:00pm), Mon 8/12 (11:00am, 12:40pm, 2:00pm, 4:00pm, 5:15pm, 8:30pm), Tue 8/13 (11:00am, 2:00pm, 5:15pm, 8:30pm), Wed 8/14 (12:40pm, 1:10pm, 4:00pm, 4:30pm, 10:40pm)
+
+    * [Didi](https://drafthouse.com/los-angeles/show/didi): Thu 8/8 (2:15pm), Fri 8/9 (11:15am), Mon 8/12 (11:15am), Tue 8/13 (11:15am), Wed 8/14 (11:30am)
+
+    * [Indiana Jones And The Temple Of Doom](https://drafthouse.com/los-angeles/show/indiana-jones-and-the-temple-of-doom): Fri 8/9 (10:15pm), Sun 8/11 (6:00pm), Tue 8/13 (10:15pm), Wed 8/14 (4:50pm)
+
+    * [It Ends With Us](https://drafthouse.com/los-angeles/show/it-ends-with-us): Thu 8/8 (4:20pm, 5:40pm, 9:00pm)
+
+    * [Kids Camp Matilda](https://drafthouse.com/los-angeles/show/kids-camp-matilda): Tue 8/13 (12:40pm)
+
+    * [Kneecap](https://drafthouse.com/los-angeles/show/kneecap): Thu 8/8 (2:25pm), Fri 8/9 (2:50pm), Sat 8/10 (9:35pm), Sun 8/11 (4:10pm), Mon 8/12 (3:00pm), Tue 8/13 (1:10pm), Wed 8/14 (10:35pm)
+
+    * [Longlegs](https://drafthouse.com/los-angeles/show/longlegs): Thu 8/8 (3:35pm, 6:30pm, 9:20pm), Fri 8/9 (12:40pm, 3:35pm, 6:30pm, 9:20pm), Sat 8/10 (12:40pm, 3:35pm, 6:30pm, 9:20pm), Sun 8/11 (12:40pm, 3:35pm, 6:30pm), Mon 8/12 (12:40pm, 3:35pm, 6:30pm, 9:20pm), Tue 8/13 (12:35pm, 3:30pm, 6:25pm, 9:20pm), Wed 8/14 (12:40pm, 3:35pm, 6:30pm, 9:20pm)
+
+    * [Maxxxine](https://drafthouse.com/los-angeles/show/maxxxine): Thu 8/8 (2:50pm)
+
+    * [Sing Sing](https://drafthouse.com/los-angeles/show/sing-sing): Thu 8/8 (3:50pm, 6:50pm, 9:50pm), Fri 8/9 (12:50pm, 3:50pm, 6:50pm, 9:50pm), Sat 8/10 (12:50pm, 3:50pm, 6:50pm, 9:50pm), Sun 8/11 (12:50pm, 3:50pm, 6:50pm), Mon 8/12 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Tue 8/13 (12:50pm, 3:50pm, 6:50pm, 9:50pm), Wed 8/14 (12:50pm, 3:50pm, 6:50pm, 9:50pm)
+
+    * [Streets Of Fire](https://drafthouse.com/los-angeles/show/streets-of-fire): Mon 8/12 (6:00pm), Wed 8/14 (10:50am)
+
+    * [The Cotton Club Encore](https://drafthouse.com/los-angeles/show/the-cotton-club-encore): Fri 8/9 (11:25am), Mon 8/12 (8:45pm), Tue 8/13 (3:30pm)
+
+    * [Trap](https://drafthouse.com/los-angeles/show/trap): Thu 8/8 (2:20pm, 5:10pm, 8:00pm, 10:50pm), Fri 8/9 (11:30am, 2:20pm, 5:10pm, 8:00pm, 10:50pm), Sat 8/10 (11:15am, 2:10pm, 5:05pm, 8:00pm, 10:50pm), Sun 8/11 (11:15am, 2:10pm, 5:05pm, 8:00pm), Mon 8/12 (11:15am, 2:10pm, 5:05pm, 8:00pm, 10:50pm), Tue 8/13 (11:15am, 2:10pm, 5:05pm, 8:00pm, 10:50pm), Wed 8/14 (12:20pm, 3:10pm, 6:00pm, 9:00pm)
+
+    * [Twilight Of The Warriors Walled In](https://drafthouse.com/los-angeles/show/twilight-of-the-warriors-walled-in): Fri 8/9 (5:45pm), Sun 8/11 (2:40pm), Mon 8/12 (10:20pm), Tue 8/13 (4:00pm), Wed 8/14 (1:35pm, 10:00pm)
+
+    * [Twisters](https://drafthouse.com/los-angeles/show/twisters): Thu 8/8 (3:00pm, 6:15pm, 9:30pm), Fri 8/9 (11:45am, 3:00pm, 6:15pm, 9:30pm), Sat 8/10 (11:45am, 3:00pm, 6:15pm, 9:30pm), Sun 8/11 (11:45am, 3:00pm, 6:15pm), Mon 8/12 (11:45am, 3:00pm, 6:15pm, 9:30pm), Tue 8/13 (11:45am, 3:00pm, 6:15pm, 9:30pm), Wed 8/14 (11:45am, 3:00pm, 6:15pm, 9:30pm)
+
 ### Mon 8/5 9:21am
 * New movies: Beetlejuice Beetlejuice, Over the Edge, Beetlejuice Beetlejuice, Beetlejuice Beetlejuice, Beetlejuice Beetlejuice
 
