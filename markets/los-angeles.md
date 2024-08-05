@@ -1,6 +1,20 @@
 # los-angeles
 
 ## Movie updates
+### Mon 8/5 9:21am
+* New movies: Beetlejuice Beetlejuice, Over the Edge, Beetlejuice Beetlejuice, Beetlejuice Beetlejuice, Beetlejuice Beetlejuice
+
+* New screenings: 
+    * [Beetlejuice Beetlejuice](https://drafthouse.com/los-angeles/show/beetlejuice-beetlejuice): Thu 9/5 (3:00pm, 4:00pm, 6:00pm, 7:00pm, 9:00pm, 10:00pm), Fri 9/6 (11:00am, 12:45pm, 1:50pm, 3:35pm, 4:45pm, 6:30pm, 7:40pm, 10:35pm), Sat 9/7 (12:45pm, 1:50pm, 3:35pm, 4:45pm, 6:30pm, 7:40pm, 10:35pm), Sun 9/8 (12:45pm, 1:50pm, 3:35pm, 4:45pm, 6:30pm, 7:40pm, 9:25pm, 10:35pm), Mon 9/9 (11:00am, 1:50pm, 4:45pm, 7:40pm, 10:35pm), Tue 9/10 (11:00am, 1:50pm, 4:45pm, 7:40pm, 10:35pm), Wed 9/11 (11:00am, 1:50pm, 4:45pm, 7:40pm, 10:35pm)
+
+    * [Brunch Screenings Beetlejuice Beetlejuice Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-beetlejuice-beetlejuice-brunch): Sat 9/7 (11:00am), Sun 9/8 (11:00am)
+
+    * [Movie Party Beetlejuice Beetlejuice](https://drafthouse.com/los-angeles/show/movie-party-beetlejuice-beetlejuice): Fri 9/6 (9:25pm)
+
+    * [Over The Edge](https://drafthouse.com/los-angeles/show/over-the-edge): Fri 9/6 (4:30pm), Wed 9/11 (7:15pm)
+
+    * [Special Event Beetlejuice Beetlejuice Dead Talk Screening](https://drafthouse.com/los-angeles/show/special-event-beetlejuice-beetlejuice-dead-talk-screening): Sat 9/7 (9:25pm)
+
 ### Fri 8/2 1:19pm
 * New movies: Electric Lady Studios: A Jimi Hendrix Vision
 
