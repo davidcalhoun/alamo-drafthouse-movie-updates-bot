@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 8/5 1:22pm
+
+* New screenings: 
+    * [Beetlejuice Beetlejuice](https://drafthouse.com/raleigh/show/beetlejuice-beetlejuice): Thu 9/5 (3:00pm, 6:00pm, 9:00pm), Fri 9/6 (12:00pm, 3:00pm), Sat 9/7 (12:00pm, 3:00pm), Sun 9/8 (12:00pm, 3:00pm)
+
 ### Mon 8/5 12:26pm
 * New movies: Beetlejuice Beetlejuice
 
