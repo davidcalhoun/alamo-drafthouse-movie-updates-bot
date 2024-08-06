@@ -1,6 +1,18 @@
 # raleigh
 
 ## Movie updates
+### Tue 8/6 10:21am
+* New movies: Ghostbusters 1984, A Girl Walks Home Alone at Night, Resident Evil
+
+* New screenings: 
+    * [Movie Party Clue](https://drafthouse.com/raleigh/show/movie-party-clue): Tue 9/24 (6:00pm)
+
+    * [Movie Party Ghostbusters 1984](https://drafthouse.com/raleigh/show/movie-party-ghostbusters-1984): Wed 10/23 (7:00pm)
+
+    * [Terror Tuesday A Girl Walks Home Alone At Night](https://drafthouse.com/raleigh/show/terror-tuesday-a-girl-walks-home-alone-at-night): Tue 9/24 (9:00pm)
+
+    * [Terror Tuesday Resident Evil](https://drafthouse.com/raleigh/show/terror-tuesday-resident-evil): Tue 9/17 (9:00pm)
+
 ### Mon 8/5 7:22pm
 
 * New screenings: 
