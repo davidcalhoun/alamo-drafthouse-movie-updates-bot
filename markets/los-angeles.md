@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 8/6 8:19am
+* New movies: USHER: Rendezvous in Paris
+
+* New screenings: 
+    * [Usher Rendezvous In Paris](https://drafthouse.com/los-angeles/show/usher-rendezvous-in-paris): Thu 9/12 (7:15pm), Sat 9/14 (3:20pm)
+
 ### Mon 8/5 7:36pm
 * New movies: Friday The 13th Part VI: Jason Lives, Harry Potter and the Goblet of Fire, Harry Potter and the Order of the Phoenix, Strangers Kiss
 
