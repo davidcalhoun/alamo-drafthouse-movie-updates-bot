@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 8/5 6:19pm
+* New movies: Batman Forever
+
+* New screenings: 
+    * [Signature Programming Batman Forever](https://drafthouse.com/los-angeles/show/signature-programming-batman-forever): Sat 9/21 (6:00pm)
+
 ### Mon 8/5 3:16pm
 * New movies: Indiana Jones and the Temple of Doom
 
