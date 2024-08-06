@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 8/6 11:23am
+* New movies: USHER: Rendezvous in Paris
+
+* New screenings: 
+    * [Usher Rendezvous In Paris](https://drafthouse.com/raleigh/show/usher-rendezvous-in-paris): Thu 9/12 (8:00pm), Sat 9/14 (2:30pm)
+
 ### Tue 8/6 10:21am
 * New movies: Ghostbusters 1984, A Girl Walks Home Alone at Night, Resident Evil
 
