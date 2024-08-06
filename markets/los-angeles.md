@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 8/6 1:16pm
+
+* New screenings: 
+    * [Movie Party Beetlejuice Beetlejuice](https://drafthouse.com/los-angeles/show/movie-party-beetlejuice-beetlejuice): Sun 9/8 (7:40pm)
+
 ### Tue 8/6 8:19am
 * New movies: USHER: Rendezvous in Paris
 
