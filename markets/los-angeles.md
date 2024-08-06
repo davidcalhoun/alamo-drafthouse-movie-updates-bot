@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Mon 8/5 7:36pm
+* New movies: Friday The 13th Part VI: Jason Lives, Harry Potter and the Goblet of Fire, Harry Potter and the Order of the Phoenix, Strangers Kiss
+
+* New screenings: 
+    * [Friday The 13th Part Vi Jason Lives](https://drafthouse.com/los-angeles/show/friday-the-13th-part-vi-jason-lives): Fri 9/13 (9:15pm)
+
+    * [Harry Potter And The Goblet Of Fire](https://drafthouse.com/los-angeles/show/harry-potter-and-the-goblet-of-fire): Sun 9/8 (11:15am)
+
+    * [Harry Potter And The Order Of The Phoenix](https://drafthouse.com/los-angeles/show/harry-potter-and-the-order-of-the-phoenix): Sun 9/15 (12:15pm)
+
+    * [Strangers Kiss](https://drafthouse.com/los-angeles/show/strangers-kiss): Sat 8/31 (4:30pm)
+
 ### Mon 8/5 6:19pm
 * New movies: Batman Forever
 
