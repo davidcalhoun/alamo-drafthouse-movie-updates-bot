@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Thu 8/8 3:18am
+* New movies: It Doesn't Get Any Better Than This, Harry Potter and the Half-Blood Prince, Hoop Dreams
+
+* New screenings: 
+    * [Harry Potter And The Half Blood Prince](https://drafthouse.com/los-angeles/show/harry-potter-and-the-half-blood-prince): Sun 9/22 (2:15pm)
+
+    * [Hoop Dreams](https://drafthouse.com/los-angeles/show/hoop-dreams): Sat 9/28 (12:00pm)
+
+    * [Live Q A It Doesnt Get Any Better Than This](https://drafthouse.com/los-angeles/show/live-q-a-it-doesnt-get-any-better-than-this): Fri 9/27 (9:30pm), Sat 9/28 (9:30pm)
+
 ### Tue 8/6 1:16pm
 
 * New screenings: 
