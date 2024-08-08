@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 8/8 2:29pm
+* New movies: Beetlejuice Beetlejuice
+
+* New screenings: 
+    * [Movie Party Beetlejuice Beetlejuice](https://drafthouse.com/raleigh/show/movie-party-beetlejuice-beetlejuice): Sat 9/7 (10:00pm)
+
 ### Tue 8/6 11:23am
 * New movies: USHER: Rendezvous in Paris
 
