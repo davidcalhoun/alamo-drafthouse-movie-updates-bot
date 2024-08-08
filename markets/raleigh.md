@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 8/8 7:21pm
+* New movies: The Brood
+
+* New screenings: 
+    * [Queer Film Theory 101 The Brood](https://drafthouse.com/raleigh/show/queer-film-theory-101-the-brood): Mon 10/21 (6:30pm)
+
 ### Thu 8/8 2:29pm
 * New movies: Beetlejuice Beetlejuice
 
