@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 8/9 9:24am
+* New movies: Blink Twice
+
+* New screenings: 
+    * [Blink Twice](https://drafthouse.com/raleigh/show/blink-twice): Thu 8/22 (4:00pm, 7:00pm, 10:00pm), Fri 8/23 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 8/24 (10:00am, 1:00pm, 4:00pm, 7:00pm, 10:00pm), Sun 8/25 (10:00am, 1:00pm, 4:00pm, 7:00pm, 10:00pm)
+
 ### Thu 8/8 7:21pm
 * New movies: The Brood
 
