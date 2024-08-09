@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 8/8 6:20pm
+* New movies: Heavenly Bodies, The Warriors
+
+* New screenings: 
+    * [Heavenly Bodies](https://drafthouse.com/los-angeles/show/heavenly-bodies): Sun 9/15 (7:15pm)
+
+    * [Queer Film Theory 101 The Warriors](https://drafthouse.com/los-angeles/show/queer-film-theory-101-the-warriors): Mon 9/23 (7:15pm)
+
 ### Thu 8/8 3:18am
 * New movies: It Doesn't Get Any Better Than This, Harry Potter and the Half-Blood Prince, Hoop Dreams
 
