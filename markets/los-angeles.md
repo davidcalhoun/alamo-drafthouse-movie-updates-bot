@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 8/9 1:19pm
+* New movies: Zombie
+
+* New screenings: 
+    * [Graveyard Shift Zombie](https://drafthouse.com/los-angeles/show/graveyard-shift-zombie): Mon 9/9 (7:15pm)
+
 ### Fri 8/9 11:24am
 * New movies: Mad Max, Stalker
 
