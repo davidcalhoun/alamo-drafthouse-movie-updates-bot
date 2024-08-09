@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 8/9 1:23am
+* New movies: Beetlejuice
+
+* New screenings: 
+    * [Movie Party Beetlejuice](https://drafthouse.com/los-angeles/show/movie-party-beetlejuice): Mon 10/14 (7:15pm), Tue 10/15 (7:15pm)
+
 ### Fri 8/9 12:16am
 * New movies: Harry Potter and the Deathly Hallows: Part 2
 
