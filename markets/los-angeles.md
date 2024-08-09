@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 8/9 3:18pm
+* New movies: Rango, The Deer Hunter
+
+* New screenings: 
+    * [Rango](https://drafthouse.com/los-angeles/show/rango): Mon 9/16 (12:15pm)
+
+    * [The Deer Hunter](https://drafthouse.com/los-angeles/show/the-deer-hunter): Sat 9/14 (11:10am)
+
 ### Fri 8/9 1:19pm
 * New movies: Zombie
 
