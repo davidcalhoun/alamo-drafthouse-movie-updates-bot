@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 8/9 12:16am
+* New movies: Harry Potter and the Deathly Hallows: Part 2
+
+* New screenings: 
+    * [Harry Potter And The Deathly Hallows Part 2](https://drafthouse.com/los-angeles/show/harry-potter-and-the-deathly-hallows-part-2): Wed 10/9 (6:00pm)
+
 ### Thu 8/8 6:20pm
 * New movies: Heavenly Bodies, The Warriors
 
