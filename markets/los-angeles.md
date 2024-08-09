@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 8/9 11:24am
+* New movies: Mad Max, Stalker
+
+* New screenings: 
+    * [Mad Max](https://drafthouse.com/los-angeles/show/mad-max): Tue 9/10 (7:15pm)
+
+    * [Stalker](https://drafthouse.com/los-angeles/show/stalker): Sat 9/7 (11:15am)
+
 ### Fri 8/9 5:34am
 * New movies: Blink Twice, Blink Twice, Blink Twice
 
