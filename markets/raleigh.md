@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Fri 8/9 2:29pm
+* New movies: Stalker, Blink Twice
+
+* New screenings: 
+    * [Advance Screening Blink Twice](https://drafthouse.com/raleigh/show/advance-screening-blink-twice): Wed 8/21 (6:00pm)
+
+    * [Stalker](https://drafthouse.com/raleigh/show/stalker): Sat 9/7 (11:00am)
+
 ### Fri 8/9 9:24am
 * New movies: Blink Twice
 
