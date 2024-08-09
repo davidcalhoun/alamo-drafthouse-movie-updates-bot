@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Fri 8/9 5:34am
+* New movies: Blink Twice, Blink Twice, Blink Twice
+
+* New screenings: 
+    * [Advance Screening Blink Twice](https://drafthouse.com/los-angeles/show/advance-screening-blink-twice): Wed 8/21 (7:30pm)
+
+    * [Blink Twice](https://drafthouse.com/los-angeles/show/blink-twice): Thu 8/22 (4:40pm, 7:30pm, 10:25pm), Fri 8/23 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:25pm), Sat 8/24 (1:50pm, 4:40pm, 7:30pm, 10:25pm), Sun 8/25 (1:50pm, 4:40pm, 7:30pm), Mon 8/26 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:25pm), Tue 8/27 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:25pm), Wed 8/28 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:25pm)
+
+    * [Brunch Screenings Blink Twice Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-blink-twice-brunch): Sat 8/24 (11:00am), Sun 8/25 (11:00am)
+
 ### Fri 8/9 1:23am
 * New movies: Beetlejuice
 
