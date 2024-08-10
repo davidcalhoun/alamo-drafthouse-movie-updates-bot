@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 8/9 11:26pm
+* New movies: THE SWEET EAST
+
+* New screenings: 
+    * [Weird Wednesday The Sweet East](https://drafthouse.com/raleigh/show/weird-wednesday-the-sweet-east): Wed 9/18 (9:00pm)
+
 ### Fri 8/9 2:29pm
 * New movies: Stalker, Blink Twice
 
