@@ -1,6 +1,39 @@
 # los-angeles
 
 ## Movie updates
+### Mon 8/12 3:17pm
+
+* New screenings: 
+    * [Advance Screening Blink Twice](https://drafthouse.com/los-angeles/show/advance-screening-blink-twice): Wed 8/21 (7:20pm)
+
+    * [Alien Romulus](https://drafthouse.com/los-angeles/show/alien-romulus): Thu 8/15 (4:45pm, 6:10pm, 9:25pm, 10:25pm), Fri 8/16 (11:25am, 1:35pm, 7:20pm, 9:50pm), Sat 8/17 (11:40am, 1:25pm, 4:30pm, 10:30pm), Mon 8/19 (6:00pm, 9:20pm), Tue 8/20 (12:00pm), Wed 8/21 (2:50pm, 8:50pm)
+
+    * [Borderlands](https://drafthouse.com/los-angeles/show/borderlands): Thu 8/15 (3:35pm, 6:30pm, 9:25pm), Fri 8/16 (11:10am, 2:00pm, 4:55pm, 7:45pm, 10:35pm), Sat 8/17 (11:10am, 2:00pm, 4:50pm, 7:40pm, 10:30pm), Sun 8/18 (11:10am, 2:00pm, 4:55pm, 7:45pm), Mon 8/19 (11:10am, 2:00pm, 4:55pm, 7:45pm, 10:35pm), Tue 8/20 (11:10am, 2:00pm, 4:55pm, 7:45pm, 10:35pm), Wed 8/21 (11:10am, 2:00pm, 4:55pm, 7:45pm, 10:35pm)
+
+    * [Catvideofest 2024](https://drafthouse.com/los-angeles/show/catvideofest-2024): Fri 8/16 (11:10am), Tue 8/20 (12:35pm), Wed 8/21 (12:30pm)
+
+    * [Cuckoo](https://drafthouse.com/los-angeles/show/cuckoo): Thu 8/15 (4:20pm, 7:15pm, 10:10pm), Fri 8/16 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:25pm), Sat 8/17 (10:45am, 1:35pm, 4:25pm, 7:15pm, 10:05pm), Sun 8/18 (11:00am, 1:50pm, 4:40pm, 7:30pm), Mon 8/19 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:25pm), Tue 8/20 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:25pm), Wed 8/21 (10:50am, 1:40pm, 4:30pm, 6:00pm, 9:30pm)
+
+    * [Deadpool And Wolverine](https://drafthouse.com/los-angeles/show/deadpool-and-wolverine): Thu 8/15 (3:00pm, 6:20pm, 9:40pm), Fri 8/16 (11:30am, 2:45pm, 6:00pm, 9:15pm), Sat 8/17 (11:30am, 2:45pm, 6:00pm, 9:15pm), Sun 8/18 (11:30am, 2:45pm, 6:00pm), Mon 8/19 (11:30am, 2:45pm, 6:00pm, 9:15pm), Tue 8/20 (11:30am, 2:45pm, 6:00pm, 9:15pm), Wed 8/21 (11:30am, 2:45pm, 6:00pm, 9:15pm)
+
+    * [Didi](https://drafthouse.com/los-angeles/show/didi): Thu 8/15 (3:50pm, 8:00pm, 10:50pm), Fri 8/16 (11:10am, 1:50pm, 4:30pm, 7:10pm, 10:30pm), Sat 8/17 (10:45am, 1:50pm, 4:45pm, 7:50pm, 10:45pm), Sun 8/18 (11:10am, 1:50pm, 4:35pm, 7:15pm), Mon 8/19 (11:10am, 1:50pm, 4:30pm, 7:10pm, 9:55pm), Tue 8/20 (11:10am, 1:50pm, 4:30pm, 7:10pm, 9:55pm), Wed 8/21 (11:00am, 1:40pm, 5:20pm, 8:00pm, 10:45pm)
+
+    * [It Ends With Us](https://drafthouse.com/los-angeles/show/it-ends-with-us): Thu 8/15 (3:25pm, 6:45pm, 10:05pm), Fri 8/16 (12:00pm, 3:20pm, 6:40pm, 10:00pm), Sat 8/17 (12:00pm, 3:20pm, 6:40pm, 10:00pm), Sun 8/18 (12:00pm, 3:20pm, 6:40pm), Mon 8/19 (12:00pm, 3:20pm, 6:40pm, 10:00pm), Tue 8/20 (12:00pm, 3:20pm, 6:40pm, 10:00pm), Wed 8/21 (12:00pm, 3:20pm, 6:40pm, 10:00pm)
+
+    * [Kids Camp The Neverending Story](https://drafthouse.com/los-angeles/show/kids-camp-the-neverending-story): Wed 8/21 (12:15pm)
+
+    * [Longlegs](https://drafthouse.com/los-angeles/show/longlegs): Thu 8/15 (10:30pm), Fri 8/16 (6:30pm, 9:20pm), Sat 8/17 (6:30pm, 9:20pm), Sun 8/18 (6:30pm), Mon 8/19 (6:30pm, 9:20pm), Tue 8/20 (6:30pm, 9:20pm), Wed 8/21 (6:30pm, 9:20pm)
+
+    * [Queer Film Theory 101 Footloose 1984](https://drafthouse.com/los-angeles/show/queer-film-theory-101-footloose-1984): Mon 8/19 (10:20pm)
+
+    * [Sing Sing](https://drafthouse.com/los-angeles/show/sing-sing): Thu 8/15 (3:10pm), Fri 8/16 (12:35pm, 3:30pm), Sat 8/17 (12:35pm, 3:30pm), Sun 8/18 (12:35pm, 3:30pm), Mon 8/19 (12:35pm, 3:30pm), Tue 8/20 (12:35pm, 3:30pm), Wed 8/21 (12:35pm, 3:30pm)
+
+    * [Trap](https://drafthouse.com/los-angeles/show/trap): Thu 8/15 (4:45pm, 7:40pm, 10:30pm), Fri 8/16 (11:30am, 2:20pm, 5:10pm, 8:00pm, 10:50pm), Sat 8/17 (11:30am, 2:20pm, 5:10pm, 8:00pm, 10:50pm), Sun 8/18 (11:30am, 2:20pm, 5:10pm, 8:00pm), Mon 8/19 (11:30am, 2:20pm, 5:10pm, 8:00pm, 10:50pm), Tue 8/20 (11:30am, 2:20pm, 5:10pm, 8:00pm, 10:50pm), Wed 8/21 (11:30am, 2:20pm, 5:10pm, 8:00pm, 10:50pm)
+
+    * [Twilight Of The Warriors Walled In](https://drafthouse.com/los-angeles/show/twilight-of-the-warriors-walled-in): Thu 8/15 (2:45pm), Mon 8/19 (2:50pm), Tue 8/20 (2:55pm, 9:30pm), Wed 8/21 (10:25pm)
+
+    * [Twisters](https://drafthouse.com/los-angeles/show/twisters): Thu 8/15 (2:45pm, 6:00pm, 9:15pm), Fri 8/16 (11:45am, 3:00pm, 6:15pm, 9:30pm), Sat 8/17 (11:45am, 3:00pm, 6:15pm, 9:30pm), Sun 8/18 (11:45am, 3:00pm, 6:15pm), Mon 8/19 (11:45am, 3:00pm, 6:15pm, 9:30pm), Tue 8/20 (12:00pm, 3:15pm, 6:15pm, 10:00pm), Wed 8/21 (11:45am, 3:00pm, 6:15pm, 10:20pm)
+
 ### Fri 8/9 3:18pm
 * New movies: Rango, The Deer Hunter
 
