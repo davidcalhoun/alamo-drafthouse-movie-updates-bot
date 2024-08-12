@@ -1,6 +1,18 @@
 # raleigh
 
 ## Movie updates
+### Mon 8/12 7:22pm
+* New movies: Blood for Dracula, Mad Max, The Deer Hunter
+
+* New screenings: 
+    * [Caligula The Ultimate Cut](https://drafthouse.com/raleigh/show/caligula-the-ultimate-cut): Mon 8/26 (6:45pm)
+
+    * [Mad Max](https://drafthouse.com/raleigh/show/mad-max): Mon 9/9 (6:30pm)
+
+    * [The Deer Hunter](https://drafthouse.com/raleigh/show/the-deer-hunter): Mon 9/9 (6:00pm)
+
+    * [Weird Wednesday Blood For Dracula](https://drafthouse.com/raleigh/show/weird-wednesday-blood-for-dracula): Wed 10/30 (9:00pm)
+
 ### Mon 8/12 6:22pm
 * New movies: Sing Sing
 
