@@ -1,6 +1,28 @@
 # raleigh
 
 ## Movie updates
+### Mon 8/12 4:22pm
+* New movies: A/V Geeks Present: Nightmares of a Clown, Maniac Cop, Seance 2000, The Hunger, The Masque of the Red Death, Death Proof, The Zodiac Killer, The Babadook, Harry Potter and the Deathly Hallows: Part 2
+
+* New screenings: 
+    * [A V Geeks Present Nightmares Of A Clown](https://drafthouse.com/raleigh/show/a-v-geeks-present-nightmares-of-a-clown): Wed 10/16 (6:30pm)
+
+    * [Fantastic Fest Presents The Babadook 10th Anniversary](https://drafthouse.com/raleigh/show/fantastic-fest-presents-the-babadook-10th-anniversary): Thu 9/19 (10:30pm)
+
+    * [Harry Potter And The Deathly Hallows Part 2](https://drafthouse.com/raleigh/show/harry-potter-and-the-deathly-hallows-part-2): Wed 10/9 (6:30pm)
+
+    * [Terror Tuesday Maniac Cop](https://drafthouse.com/raleigh/show/terror-tuesday-maniac-cop): Tue 10/8 (9:00pm)
+
+    * [Terror Tuesday Seance 2000](https://drafthouse.com/raleigh/show/terror-tuesday-seance-2000): Tue 10/29 (9:00pm)
+
+    * [Terror Tuesday The Hunger](https://drafthouse.com/raleigh/show/terror-tuesday-the-hunger): Tue 10/15 (9:00pm)
+
+    * [Terror Tuesday The Masque Of The Red Death](https://drafthouse.com/raleigh/show/terror-tuesday-the-masque-of-the-red-death): Tue 10/22 (9:00pm)
+
+    * [Weird Wednesday Death Proof](https://drafthouse.com/raleigh/show/weird-wednesday-death-proof): Wed 10/2 (9:00pm)
+
+    * [Weird Wednesday The Zodiac Killer 2](https://drafthouse.com/raleigh/show/weird-wednesday-the-zodiac-killer-2): Wed 10/9 (9:00pm)
+
 ### Mon 8/12 3:17pm
 * New movies: Batman Forever, The Warriors, The Gates of Hell, Hey Folks! It's the Intermission Time Mixtape, The Linguini Incident - Director's Cut, Batman: Mask of the Phantasm, Friday The 13th Part VI: Jason Lives, Harry Potter and the Deathly Hallows: Part 1, Harry Potter and the Half-Blood Prince, Harry Potter and the Order of the Phoenix, Hoop Dreams
 
