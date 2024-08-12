@@ -1,6 +1,34 @@
 # raleigh
 
 ## Movie updates
+### Mon 8/12 6:22pm
+* New movies: Sing Sing
+
+* New screenings: 
+    * [Alien Romulus](https://drafthouse.com/raleigh/show/alien-romulus): Thu 8/15 (7:30pm, 7:45pm, 8:30pm, 11:00pm), Fri 8/16 (12:00pm, 12:30pm, 3:30pm, 4:00pm, 5:00pm, 7:00pm, 7:30pm, 8:00pm, 10:30pm), Sat 8/17 (12:00pm, 3:30pm, 7:05pm, 8:00pm, 10:30pm, 11:00pm), Sun 8/18 (12:00pm, 3:30pm, 6:35pm, 7:00pm, 7:30pm, 9:45pm, 10:30pm), Mon 8/19 (11:00am, 12:00pm, 2:30pm, 3:30pm, 4:00pm, 5:00pm, 6:00pm, 7:00pm, 8:00pm, 9:30pm, 10:30pm), Tue 8/20 (11:00am, 12:00pm, 12:30pm, 2:30pm, 3:30pm, 4:00pm, 5:00pm, 7:00pm, 7:30pm, 8:00pm, 10:30pm), Wed 8/21 (11:00am, 12:00pm, 12:30pm, 2:30pm, 3:30pm, 5:00pm, 7:30pm, 8:00pm, 10:30pm)
+
+    * [Borderlands](https://drafthouse.com/raleigh/show/borderlands): Thu 8/15 (11:30am, 3:45pm, 7:45pm, 11:00pm), Fri 8/16 (11:15am, 2:15pm, 5:15pm, 8:15pm, 11:00pm), Sat 8/17 (11:15am, 2:15pm, 5:15pm, 8:15pm, 11:00pm), Sun 8/18 (11:00am, 1:45pm, 4:45pm, 7:45pm, 11:00pm), Mon 8/19 (11:15am, 2:15pm, 5:15pm, 8:15pm, 11:00pm), Tue 8/20 (11:15am, 2:15pm, 5:15pm, 8:15pm, 11:00pm), Wed 8/21 (11:15am, 2:15pm, 5:15pm, 8:15pm, 11:00pm)
+
+    * [Cuckoo](https://drafthouse.com/raleigh/show/cuckoo): Thu 8/15 (12:00pm, 2:45pm, 5:30pm, 7:00pm, 9:45pm), Fri 8/16 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sat 8/17 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sun 8/18 (11:45am, 3:45pm, 4:45pm, 8:00pm, 10:45pm), Mon 8/19 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Tue 8/20 (12:15pm, 3:15pm, 6:15pm, 10:15pm), Wed 8/21 (12:15pm, 3:15pm, 6:15pm, 10:15pm)
+
+    * [Deadpool And Wolverine](https://drafthouse.com/raleigh/show/deadpool-and-wolverine): Thu 8/15 (11:30am, 12:30pm, 1:00pm, 4:00pm, 4:30pm, 6:00pm, 9:30pm), Fri 8/16 (11:30am, 3:00pm, 6:30pm, 10:00pm), Sat 8/17 (12:30pm, 2:00pm, 4:00pm, 6:30pm, 10:00pm), Sun 8/18 (12:30pm, 3:00pm, 6:30pm, 10:00pm), Mon 8/19 (12:30pm, 3:00pm, 6:30pm, 10:00pm), Tue 8/20 (11:30am, 3:00pm, 6:30pm, 10:00pm), Wed 8/21 (11:30am, 3:00pm, 6:30pm, 10:00pm)
+
+    * [Despicable Me 4](https://drafthouse.com/raleigh/show/despicable-me-4): Thu 8/15 (11:00am, 1:45pm), Fri 8/16 (11:15am, 2:00pm), Sat 8/17 (11:15am, 2:00pm), Sun 8/18 (11:30am, 2:05pm), Mon 8/19 (11:15am, 2:00pm), Tue 8/20 (11:15am, 2:00pm), Wed 8/21 (11:15am, 2:00pm)
+
+    * [Didi](https://drafthouse.com/raleigh/show/didi): Thu 8/15 (11:15am, 2:00pm, 3:00pm, 6:15pm, 9:15pm), Fri 8/16 (12:15pm, 3:45pm, 7:15pm, 11:00pm), Sat 8/17 (11:00am, 1:30pm, 4:15pm, 6:45pm, 9:45pm), Sun 8/18 (11:15am, 2:15pm, 5:00pm, 8:00pm, 10:45pm), Mon 8/19 (12:45pm, 3:45pm, 6:30pm, 9:15pm), Tue 8/20 (12:15pm, 3:45pm, 7:15pm, 11:00pm), Wed 8/21 (12:15pm, 3:45pm, 7:15pm, 11:00pm)
+
+    * [Harold And The Purple Crayon](https://drafthouse.com/raleigh/show/harold-and-the-purple-crayon): Thu 8/15 (12:30pm, 1:15pm, 4:45pm)
+
+    * [It Ends With Us](https://drafthouse.com/raleigh/show/it-ends-with-us): Thu 8/15 (12:15pm, 3:30pm, 6:45pm, 10:15pm), Fri 8/16 (1:00pm, 4:15pm, 7:30pm, 10:15pm), Sat 8/17 (1:00pm, 4:45pm, 7:30pm, 10:15pm), Sun 8/18 (12:15pm, 3:20pm, 6:45pm, 10:15pm), Mon 8/19 (1:00pm, 4:15pm, 7:30pm, 10:15pm), Tue 8/20 (1:00pm, 4:15pm, 7:30pm, 9:15pm), Wed 8/21 (1:00pm, 4:15pm, 7:30pm, 9:15pm)
+
+    * [Sing Sing](https://drafthouse.com/raleigh/show/sing-sing): Thu 8/15 (4:30pm, 7:15pm, 10:30pm), Fri 8/16 (11:30am, 2:45pm, 6:15pm, 9:15pm), Sat 8/17 (11:30am, 2:45pm, 6:15pm, 9:15pm), Sun 8/18 (11:15am, 2:45pm, 6:15pm, 9:15pm), Mon 8/19 (1:00pm, 4:30pm, 7:45pm, 10:45pm), Tue 8/20 (11:30am, 2:45pm, 6:15pm, 9:15pm), Wed 8/21 (11:30am, 2:45pm, 6:15pm, 9:15pm)
+
+    * [Skincare](https://drafthouse.com/raleigh/show/skincare): Mon 8/19 (10:45pm), Tue 8/20 (10:45pm), Wed 8/21 (4:30pm, 10:45pm)
+
+    * [Trap](https://drafthouse.com/raleigh/show/trap): Thu 8/15 (11:00pm), Fri 8/16 (10:45pm), Sat 8/17 (11:15pm), Sun 8/18 (11:00pm), Mon 8/19 (11:00pm), Tue 8/20 (10:45pm), Wed 8/21 (10:45pm)
+
+    * [Twisters](https://drafthouse.com/raleigh/show/twisters): Thu 8/15 (11:45am, 3:15pm, 6:45pm, 10:15pm), Fri 8/16 (12:45pm, 4:00pm, 6:45pm, 10:00pm), Sat 8/17 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Sun 8/18 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Mon 8/19 (11:45am, 3:00pm, 6:15pm, 9:45pm), Tue 8/20 (12:45pm, 4:00pm, 6:35pm, 10:00pm), Wed 8/21 (1:00pm, 4:00pm, 6:35pm, 10:00pm)
+
 ### Mon 8/12 4:22pm
 * New movies: A/V Geeks Present: Nightmares of a Clown, Maniac Cop, Seance 2000, The Hunger, The Masque of the Red Death, Death Proof, The Zodiac Killer, The Babadook, Harry Potter and the Deathly Hallows: Part 2
 
