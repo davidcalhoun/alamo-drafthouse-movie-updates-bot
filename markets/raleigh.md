@@ -1,6 +1,32 @@
 # raleigh
 
 ## Movie updates
+### Mon 8/12 3:17pm
+* New movies: Batman Forever, The Warriors, The Gates of Hell, Hey Folks! It's the Intermission Time Mixtape, The Linguini Incident - Director's Cut, Batman: Mask of the Phantasm, Friday The 13th Part VI: Jason Lives, Harry Potter and the Deathly Hallows: Part 1, Harry Potter and the Half-Blood Prince, Harry Potter and the Order of the Phoenix, Hoop Dreams
+
+* New screenings: 
+    * [Batman Mask Of The Phantasm](https://drafthouse.com/raleigh/show/batman-mask-of-the-phantasm): Sat 9/21 (11:30am)
+
+    * [Friday The 13th Part Vi Jason Lives](https://drafthouse.com/raleigh/show/friday-the-13th-part-vi-jason-lives): Fri 9/13 (10:00pm)
+
+    * [Harry Potter And The Deathly Hallows Part 1](https://drafthouse.com/raleigh/show/harry-potter-and-the-deathly-hallows-part-1): Wed 10/2 (6:00pm)
+
+    * [Harry Potter And The Half Blood Prince](https://drafthouse.com/raleigh/show/harry-potter-and-the-half-blood-prince): Wed 9/25 (6:30pm)
+
+    * [Harry Potter And The Order Of The Phoenix](https://drafthouse.com/raleigh/show/harry-potter-and-the-order-of-the-phoenix): Sun 9/15 (12:00pm)
+
+    * [Hoop Dreams](https://drafthouse.com/raleigh/show/hoop-dreams): Sat 9/28 (11:30am)
+
+    * [Queer Film Theory 101 The Warriors](https://drafthouse.com/raleigh/show/queer-film-theory-101-the-warriors): Mon 9/23 (6:00pm)
+
+    * [Signature Programming Batman Forever](https://drafthouse.com/raleigh/show/signature-programming-batman-forever): Mon 9/23 (9:00pm)
+
+    * [Terror Tuesday The Gates Of Hell Aka City Of The Living Dead](https://drafthouse.com/raleigh/show/terror-tuesday-the-gates-of-hell-aka-city-of-the-living-dead): Tue 10/1 (9:00pm)
+
+    * [Weird Wednesday Hey Folks Its The Intermission Time Mixtape](https://drafthouse.com/raleigh/show/weird-wednesday-hey-folks-its-the-intermission-time-mixtape): Wed 9/25 (9:00pm)
+
+    * [Weird Wednesday The Linguini Incident Directors Cut](https://drafthouse.com/raleigh/show/weird-wednesday-the-linguini-incident-directors-cut): Wed 9/11 (9:00pm)
+
 ### Fri 8/9 11:26pm
 * New movies: THE SWEET EAST
 
