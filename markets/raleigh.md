@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 8/13 7:20pm
+* New movies: Cockfighter
+
+
+
 ### Mon 8/12 9:40pm
 * New movies: The Muppet Movie
 
