@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Mon 8/12 6:21pm
+* New movies: Star Trek: The Motion Picture - Director's Edition, The Muppet Movie
+
+* New screenings: 
+    * [Star Trek The Motion Picture Directors Edition](https://drafthouse.com/los-angeles/show/star-trek-the-motion-picture-directors-edition): Sun 9/15 (3:45pm)
+
+    * [The Muppet Movie](https://drafthouse.com/los-angeles/show/the-muppet-movie): Sun 9/22 (11:30am)
+
 ### Mon 8/12 3:17pm
 
 * New screenings: 
