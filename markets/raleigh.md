@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 8/12 9:40pm
+* New movies: The Muppet Movie
+
+* New screenings: 
+    * [The Muppet Movie](https://drafthouse.com/raleigh/show/the-muppet-movie): Sun 9/22 (11:30am)
+
 ### Mon 8/12 7:22pm
 * New movies: Blood for Dracula, Mad Max, The Deer Hunter
 
