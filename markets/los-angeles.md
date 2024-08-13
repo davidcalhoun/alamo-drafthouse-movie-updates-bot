@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Tue 8/13 2:20am
+* New movies: Ghostbusters 1984, The Brood, The Babadook
+
+* New screenings: 
+    * [Fantastic Fest Presents The Babadook 10th Anniversary](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-the-babadook-10th-anniversary): Thu 9/19 (7:15pm)
+
+    * [Movie Party Ghostbusters 1984](https://drafthouse.com/los-angeles/show/movie-party-ghostbusters-1984): Sun 10/20 (7:15pm)
+
+    * [Queer Film Theory 101 The Brood](https://drafthouse.com/los-angeles/show/queer-film-theory-101-the-brood): Mon 10/21 (7:15pm)
+
 ### Mon 8/12 6:21pm
 * New movies: Star Trek: The Motion Picture - Director's Edition, The Muppet Movie
 
