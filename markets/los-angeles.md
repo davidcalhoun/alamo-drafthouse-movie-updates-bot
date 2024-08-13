@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 8/13 6:21am
+* New movies: Strange Darling
+
+* New screenings: 
+    * [Strange Darling](https://drafthouse.com/los-angeles/show/strange-darling): Thu 8/22 (7:45pm), Fri 8/23 (6:45pm), Sat 8/24 (6:45pm)
+
 ### Tue 8/13 2:20am
 * New movies: Ghostbusters 1984, The Brood, The Babadook
 
