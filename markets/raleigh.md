@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 8/14 12:25am
+* New movies: The Crow 2024
+
+* New screenings: 
+    * [The Crow 2024](https://drafthouse.com/raleigh/show/the-crow-2024): Thu 8/22 (6:15pm, 9:15pm), Fri 8/23 (11:45am, 2:45pm, 6:15pm, 9:30pm), Sun 8/25 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm)
+
 ### Tue 8/13 7:20pm
 * New movies: Cockfighter
 
