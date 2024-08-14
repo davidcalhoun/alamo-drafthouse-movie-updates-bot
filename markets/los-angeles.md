@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 8/13 9:21pm
+* New movies: The Crow 2024
+
+* New screenings: 
+    * [The Crow 2024](https://drafthouse.com/los-angeles/show/the-crow-2024): Thu 8/22 (6:15pm, 9:15pm), Fri 8/23 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sat 8/24 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sun 8/25 (12:15pm, 3:15pm, 6:15pm), Mon 8/26 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Tue 8/27 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Wed 8/28 (12:15pm, 3:15pm, 6:15pm, 9:15pm)
+
 ### Tue 8/13 6:21am
 * New movies: Strange Darling
 
