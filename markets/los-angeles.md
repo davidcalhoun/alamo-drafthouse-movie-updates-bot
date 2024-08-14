@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 8/14 7:17am
+* New movies: Radio On
+
+* New screenings: 
+    * [Radio On](https://drafthouse.com/los-angeles/show/radio-on): Sat 9/7 (3:10pm)
+
 ### Wed 8/14 12:16am
 * New movies: Harry Potter and the Deathly Hallows: Part 1
 
