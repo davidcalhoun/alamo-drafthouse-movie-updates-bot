@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 8/14 12:16am
+* New movies: Harry Potter and the Deathly Hallows: Part 1
+
+* New screenings: 
+    * [Harry Potter And The Deathly Hallows Part 1](https://drafthouse.com/los-angeles/show/harry-potter-and-the-deathly-hallows-part-1): Wed 10/2 (6:00pm)
+
 ### Tue 8/13 9:21pm
 * New movies: The Crow 2024
 
