@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 8/15 12:26pm
+* New movies: Will & Harper
+
+* New screenings: 
+    * [Will And Harper](https://drafthouse.com/raleigh/show/will-and-harper): Thu 9/12 (7:00pm, 10:00pm), Fri 9/13 (1:00pm, 4:00pm, 7:00pm, 9:30pm), Sat 9/14 (11:00am, 2:00pm, 5:00pm, 8:00pm, 11:00pm), Sun 9/15 (11:00am, 2:00pm, 5:00pm, 8:00pm, 11:00pm)
+
 ### Wed 8/14 12:25am
 * New movies: The Crow 2024
 
