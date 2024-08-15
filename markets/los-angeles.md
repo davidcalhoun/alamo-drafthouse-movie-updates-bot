@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 8/15 12:13pm
+* New movies: Bad Lieutenant
+
+* New screenings: 
+    * [Bad Lieutenant](https://drafthouse.com/los-angeles/show/bad-lieutenant): Tue 9/24 (7:15pm)
+
 ### Thu 8/15 9:22am
 * New movies: Will & Harper
 
