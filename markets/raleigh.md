@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Thu 8/15 2:29pm
+
+* New screenings: 
+    * [Will And Harper](https://drafthouse.com/raleigh/show/will-and-harper): Sat 9/21 (6:00pm)
+
 ### Thu 8/15 12:26pm
 * New movies: Will & Harper
 
