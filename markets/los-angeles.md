@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 8/15 9:22am
+* New movies: Will & Harper
+
+* New screenings: 
+    * [Will And Harper](https://drafthouse.com/los-angeles/show/will-and-harper): Thu 9/12 (7:00pm), Fri 9/13 (6:30pm), Sat 9/14 (6:30pm), Sun 9/15 (6:30pm)
+
 ### Wed 8/14 7:17am
 * New movies: Radio On
 
