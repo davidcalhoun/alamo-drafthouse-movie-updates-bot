@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 8/15 3:16pm
+* New movies: The Jerk
+
+* New screenings: 
+    * [The Jerk](https://drafthouse.com/raleigh/show/the-jerk): Mon 9/30 (6:30pm)
+
 ### Thu 8/15 2:29pm
 
 * New screenings: 
