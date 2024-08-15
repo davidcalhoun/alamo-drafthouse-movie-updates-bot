@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 8/15 1:18pm
+* New movies: Being There
+
+* New screenings: 
+    * [Being There](https://drafthouse.com/los-angeles/show/being-there): Sat 9/28 (4:00pm)
+
 ### Thu 8/15 12:13pm
 * New movies: Bad Lieutenant
 
