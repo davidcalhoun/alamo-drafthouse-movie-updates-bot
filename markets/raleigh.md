@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 8/16 12:25am
+* New movies: Star Trek: The Motion Picture - Director's Edition
+
+* New screenings: 
+    * [Star Trek The Motion Picture Directors Edition](https://drafthouse.com/raleigh/show/star-trek-the-motion-picture-directors-edition): Tue 9/10 (7:00pm)
+
 ### Thu 8/15 9:38pm
 * New movies: Hardcore, The Visitor
 
