@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Thu 8/15 9:38pm
+* New movies: Hardcore, The Visitor
+
+* New screenings: 
+    * [Hardcore](https://drafthouse.com/raleigh/show/hardcore): Sun 10/6 (11:15am)
+
+    * [The Visitor](https://drafthouse.com/raleigh/show/the-visitor): Mon 10/7 (9:30pm)
+
 ### Thu 8/15 3:16pm
 * New movies: The Jerk
 
