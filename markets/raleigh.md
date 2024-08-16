@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 8/16 9:23am
+* New movies: Paul McCartney and Wings: One Hand Clapping
+
+* New screenings: 
+    * [Paul Mccartney And Wings One Hand Clapping](https://drafthouse.com/raleigh/show/paul-mccartney-and-wings-one-hand-clapping): Thu 9/26 (7:15pm), Fri 9/27 (3:00pm)
+
 ### Fri 8/16 12:25am
 * New movies: Star Trek: The Motion Picture - Director's Edition
 
