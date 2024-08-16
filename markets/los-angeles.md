@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 8/15 7:36pm
+
+* New screenings: 
+    * [Alien Romulus](https://drafthouse.com/los-angeles/show/alien-romulus): Thu 8/15 (10:30pm), Sun 8/18 (5:10pm)
+
 ### Thu 8/15 6:19pm
 * New movies: Hardcore, The Visitor
 
