@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 8/15 6:19pm
+* New movies: Hardcore, The Visitor
+
+* New screenings: 
+    * [Hardcore](https://drafthouse.com/los-angeles/show/hardcore): Sun 10/6 (4:15pm)
+
+    * [The Visitor](https://drafthouse.com/los-angeles/show/the-visitor): Tue 10/8 (7:15pm)
+
 ### Thu 8/15 1:18pm
 * New movies: Being There
 
