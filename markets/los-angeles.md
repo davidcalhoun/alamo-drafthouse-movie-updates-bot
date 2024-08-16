@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 8/16 12:15pm
+
+* New screenings: 
+    * [Beetlejuice Beetlejuice](https://drafthouse.com/los-angeles/show/beetlejuice-beetlejuice): Thu 9/5 (3:30pm, 6:30pm, 9:30pm), Fri 9/6 (11:45am, 2:45pm, 5:45pm, 8:45pm), Sat 9/7 (11:45am, 2:45pm, 5:45pm, 8:45pm), Sun 9/8 (11:30am, 2:20pm, 5:10pm, 8:00pm), Thu 9/12 (6:00pm), Fri 9/13 (11:00am, 1:50pm, 4:45pm, 7:40pm, 10:35pm), Sat 9/14 (11:00am, 1:50pm, 4:45pm, 7:40pm, 10:35pm), Sun 9/15 (11:00am, 1:50pm, 4:45pm, 7:40pm), Mon 9/16 (1:10pm, 4:00pm, 9:45pm), Tue 9/17 (11:00am, 1:50pm, 4:45pm, 7:40pm, 10:35pm), Wed 9/18 (1:10pm, 4:00pm, 6:00pm, 9:45pm)
+
 ### Thu 8/15 7:36pm
 
 * New screenings: 
