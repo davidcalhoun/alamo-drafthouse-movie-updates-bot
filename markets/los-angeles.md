@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 8/16 6:17pm
+* New movies: The Jerk
+
+* New screenings: 
+    * [The Jerk](https://drafthouse.com/los-angeles/show/the-jerk): Fri 9/27 (1:45pm)
+
 ### Fri 8/16 12:15pm
 
 * New screenings: 
