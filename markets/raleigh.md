@@ -1,6 +1,44 @@
 # raleigh
 
 ## Movie updates
+### Mon 8/19 5:22pm
+* New movies: Longlegs
+
+* New screenings: 
+    * [Alien Romulus](https://drafthouse.com/raleigh/show/alien-romulus): Thu 8/22 (11:00am, 12:00pm, 12:30pm, 2:30pm, 6:00pm, 6:30pm, 7:30pm, 9:00pm, 9:30pm), Fri 8/23 (11:00am, 11:30am, 12:30pm, 1:00pm, 2:00pm, 2:30pm, 3:30pm, 4:00pm, 5:00pm, 5:30pm, 6:30pm, 7:00pm, 8:00pm, 8:30pm, 10:00pm), Sat 8/24 (10:30am, 11:00am, 12:00pm, 2:30pm, 3:00pm, 3:30pm, 4:30pm, 6:30pm, 7:30pm, 9:30pm, 10:00pm), Sun 8/25 (10:30am, 11:00am, 12:00pm, 1:30pm, 2:00pm, 3:00pm, 4:30pm, 5:00pm, 6:05pm, 7:30pm, 8:00pm, 9:00pm, 9:00pm, 10:30pm), Mon 8/26 (11:00am, 12:30pm, 1:00pm, 2:00pm, 2:30pm, 3:30pm, 4:00pm, 5:00pm, 5:30pm, 7:00pm, 8:00pm, 8:30pm, 10:00pm, 11:00pm), Tue 8/27 (11:00am, 11:30am, 12:00pm, 12:30pm, 2:30pm, 3:00pm, 3:30pm, 3:30pm, 5:30pm, 6:00pm, 6:30pm, 8:30pm, 9:30pm), Wed 8/28 (11:00am, 11:30am, 12:30pm, 1:00pm, 2:00pm, 2:30pm, 3:30pm, 4:00pm, 5:00pm, 5:30pm, 7:00pm, 8:00pm, 8:30pm, 10:00pm)
+
+    * [Blink Twice](https://drafthouse.com/raleigh/show/blink-twice): Fri 8/23 (5:00pm, 7:45pm, 10:45pm), Sat 8/24 (5:30pm, 8:15pm, 11:00pm), Sun 8/25 (5:00pm, 6:15pm, 8:00pm, 11:00pm), Mon 8/26 (12:00pm, 3:00pm, 6:30pm, 9:30pm), Tue 8/27 (11:00am, 2:00pm, 5:00pm, 6:15pm, 8:00pm, 9:15pm, 10:45pm), Wed 8/28 (12:00pm, 3:00pm, 6:00pm, 9:30pm)
+
+    * [Borderlands](https://drafthouse.com/raleigh/show/borderlands): Thu 8/22 (12:15pm, 3:30pm), Fri 8/23 (11:00pm), Sat 8/24 (11:15pm), Sun 8/25 (11:15pm), Mon 8/26 (10:45pm), Tue 8/27 (10:45pm), Wed 8/28 (9:30pm)
+
+    * [Caligula The Ultimate Cut](https://drafthouse.com/raleigh/show/caligula-the-ultimate-cut): Fri 8/23 (6:45pm), Sat 8/24 (7:15pm), Sun 8/25 (7:15pm), Tue 8/27 (6:30pm), Wed 8/28 (6:45pm)
+
+    * [Cuckoo](https://drafthouse.com/raleigh/show/cuckoo): Thu 8/22 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Fri 8/23 (11:00pm), Sat 8/24 (9:00pm), Sun 8/25 (11:00pm), Mon 8/26 (6:00pm, 10:45pm), Tue 8/27 (10:30pm), Wed 8/28 (11:00pm)
+
+    * [Deadpool And Wolverine](https://drafthouse.com/raleigh/show/deadpool-and-wolverine): Thu 8/22 (11:30am, 2:45pm, 6:30pm, 10:00pm), Fri 8/23 (11:45am, 12:15pm, 3:00pm, 3:45pm, 6:15pm, 7:15pm, 9:30pm, 10:30pm), Sat 8/24 (10:45am, 11:45am, 2:00pm, 3:00pm, 5:15pm, 6:45pm, 8:30pm, 10:15pm), Sun 8/25 (10:45am, 11:45am, 2:00pm, 3:00pm, 5:15pm, 6:30pm, 8:30pm, 9:45pm), Mon 8/26 (11:45am, 12:45pm, 3:30pm, 4:00pm, 6:45pm, 7:30pm, 10:15pm), Tue 8/27 (11:45am, 12:45pm, 3:15pm, 4:00pm, 6:45pm, 7:30pm, 10:15pm), Wed 8/28 (11:15am, 12:15pm, 2:45pm, 3:45pm, 6:15pm, 7:15pm, 10:30pm)
+
+    * [Despicable Me 4](https://drafthouse.com/raleigh/show/despicable-me-4): Thu 8/22 (11:45am, 2:30pm)
+
+    * [Didi](https://drafthouse.com/raleigh/show/didi): Thu 8/22 (12:15pm, 3:15pm, 5:05pm, 7:45pm, 10:45pm), Fri 8/23 (12:45pm, 4:00pm), Sat 8/24 (10:15am, 1:30pm, 4:15pm), Sun 8/25 (10:15am, 1:30pm, 4:15pm), Mon 8/26 (11:15am, 2:00pm, 5:00pm), Tue 8/27 (11:15am, 1:50pm, 4:25pm), Wed 8/28 (12:45pm, 4:00pm)
+
+    * [Harry Potter And The Chamber Of Secrets](https://drafthouse.com/raleigh/show/harry-potter-and-the-chamber-of-secrets): Sat 8/24 (6:15pm), Mon 8/26 (7:45pm)
+
+    * [It Ends With Us](https://drafthouse.com/raleigh/show/it-ends-with-us): Thu 8/22 (1:00pm, 4:15pm, 7:30pm, 10:45pm), Fri 8/23 (11:15am, 3:00pm, 6:45pm, 10:15pm), Sat 8/24 (12:00pm, 3:45pm, 7:15pm, 10:30pm), Sun 8/25 (12:00pm, 3:30pm, 6:45pm, 10:00pm), Mon 8/26 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Tue 8/27 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Wed 8/28 (11:15am, 3:00pm, 6:45pm, 10:15pm)
+
+    * [Longlegs](https://drafthouse.com/raleigh/show/longlegs): Sat 8/24 (6:00pm), Mon 8/26 (9:00pm)
+
+    * [Sing Sing](https://drafthouse.com/raleigh/show/sing-sing): Thu 8/22 (11:15am, 2:15pm, 5:15pm, 8:15pm, 11:00pm), Fri 8/23 (11:00am, 2:00pm), Sat 8/24 (11:30am, 1:45pm, 10:30pm), Sun 8/25 (11:00am, 2:00pm), Mon 8/26 (12:15pm, 3:15pm), Tue 8/27 (12:15pm, 3:15pm), Wed 8/28 (11:00am, 2:00pm, 5:00pm, 8:00pm, 10:45pm)
+
+    * [The Crow 2024](https://drafthouse.com/raleigh/show/the-crow-2024): Sat 8/24 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Mon 8/26 (12:45pm, 4:15pm, 7:45pm, 10:45pm), Tue 8/27 (1:00pm, 4:15pm, 7:45pm, 11:00pm), Wed 8/28 (11:45am, 2:45pm, 6:15pm, 9:15pm)
+
+    * [The Last Starfighter](https://drafthouse.com/raleigh/show/the-last-starfighter): Tue 8/27 (7:00pm), Wed 8/28 (11:00pm)
+
+    * [The Toxic Avenger](https://drafthouse.com/raleigh/show/the-toxic-avenger): Tue 8/27 (10:15pm)
+
+    * [Trap](https://drafthouse.com/raleigh/show/trap): Thu 8/22 (10:30pm)
+
+    * [Twisters](https://drafthouse.com/raleigh/show/twisters): Thu 8/22 (1:00pm, 4:15pm, 6:15pm, 9:30pm)
+
 ### Fri 8/16 9:23am
 * New movies: Paul McCartney and Wings: One Hand Clapping
 
