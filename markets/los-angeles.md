@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Sun 8/18 9:20pm
+* New movies: Red Rooms, The Paragon
+
+* New screenings: 
+    * [Red Rooms](https://drafthouse.com/los-angeles/show/red-rooms): Fri 9/6 (7:15pm, 10:25pm), Sat 9/7 (6:00pm, 9:10pm), Sun 9/8 (4:10pm, 7:15pm)
+
+    * [The Paragon](https://drafthouse.com/los-angeles/show/the-paragon): Fri 9/6 (3:25pm), Sat 9/7 (4:40pm), Sun 9/8 (3:00pm)
+
 ### Fri 8/16 6:17pm
 * New movies: The Jerk
 
