@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 8/19 4:18pm
+* New movies: Sleepaway Camp
+
+* New screenings: 
+    * [Sleepaway Camp](https://drafthouse.com/los-angeles/show/sleepaway-camp): Mon 9/30 (7:15pm)
+
 ### Mon 8/19 2:19pm
 * New movies: Between the Temples
 
