@@ -1,6 +1,46 @@
 # los-angeles
 
 ## Movie updates
+### Mon 8/19 2:19pm
+* New movies: Between the Temples
+
+* New screenings: 
+    * [Alien Romulus](https://drafthouse.com/los-angeles/show/alien-romulus): Thu 8/22 (2:35pm, 5:45pm, 9:00pm), Fri 8/23 (11:25am, 2:35pm, 5:45pm), Sat 8/24 (11:25am, 2:35pm, 5:45pm, 9:00pm), Sun 8/25 (11:25am, 2:35pm, 5:45pm), Mon 8/26 (11:25am, 2:35pm, 5:45pm, 9:00pm), Tue 8/27 (11:25am, 2:35pm, 5:45pm, 9:00pm), Wed 8/28 (11:25am, 2:35pm, 5:45pm, 9:00pm)
+
+    * [Between The Temples](https://drafthouse.com/los-angeles/show/between-the-temples): Thu 8/22 (7:15pm), Fri 8/23 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Sat 8/24 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Sun 8/25 (12:45pm, 3:45pm, 6:45pm), Mon 8/26 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Tue 8/27 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Wed 8/28 (12:45pm, 3:45pm, 6:45pm, 9:45pm)
+
+    * [Blink Twice](https://drafthouse.com/los-angeles/show/blink-twice): Thu 8/22 (6:50pm, 9:45pm)
+
+    * [Borderlands](https://drafthouse.com/los-angeles/show/borderlands): Thu 8/22 (2:25pm)
+
+    * [Caligula The Ultimate Cut](https://drafthouse.com/los-angeles/show/caligula-the-ultimate-cut): Thu 8/22 (9:30pm), Tue 8/27 (5:30pm), Wed 8/28 (2:00pm)
+
+    * [Cuckoo](https://drafthouse.com/los-angeles/show/cuckoo): Thu 8/22 (3:50pm, 6:40pm, 10:15pm), Fri 8/23 (2:10pm, 5:00pm, 7:45pm, 10:35pm), Sat 8/24 (5:00pm, 7:50pm, 10:40pm), Sun 8/25 (2:10pm, 5:00pm, 7:45pm), Mon 8/26 (5:00pm, 7:45pm, 10:35pm), Tue 8/27 (2:10pm, 5:00pm, 7:45pm, 10:35pm), Wed 8/28 (2:10pm, 5:00pm, 7:45pm, 10:35pm)
+
+    * [Deadpool And Wolverine](https://drafthouse.com/los-angeles/show/deadpool-and-wolverine): Thu 8/22 (2:45pm, 6:00pm, 9:15pm), Fri 8/23 (11:30am, 2:45pm, 6:00pm, 9:15pm), Sat 8/24 (11:30am, 2:45pm, 6:00pm, 9:15pm), Sun 8/25 (11:30am, 2:45pm, 6:00pm), Mon 8/26 (11:30am, 2:45pm, 6:00pm, 9:15pm), Tue 8/27 (11:30am, 2:45pm, 6:00pm, 9:15pm), Wed 8/28 (11:30am, 2:45pm, 6:00pm, 9:15pm)
+
+    * [Didi](https://drafthouse.com/los-angeles/show/didi): Thu 8/22 (2:40pm, 5:20pm, 8:00pm, 10:40pm), Fri 8/23 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:40pm), Sat 8/24 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:40pm), Sun 8/25 (11:00am, 1:45pm, 4:30pm, 7:10pm), Mon 8/26 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:40pm), Tue 8/27 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:40pm), Wed 8/28 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:40pm)
+
+    * [Harry Potter And The Chamber Of Secrets](https://drafthouse.com/los-angeles/show/harry-potter-and-the-chamber-of-secrets): Mon 8/26 (3:00pm)
+
+    * [It Ends With Us](https://drafthouse.com/los-angeles/show/it-ends-with-us): Thu 8/22 (3:10pm, 6:30pm, 9:50pm), Fri 8/23 (11:50am, 3:10pm, 6:30pm, 9:50pm), Sat 8/24 (11:50am, 3:10pm, 6:30pm, 9:50pm), Sun 8/25 (11:50am, 3:10pm, 6:30pm), Mon 8/26 (11:50am, 3:10pm, 6:30pm, 9:50pm), Tue 8/27 (11:50am, 3:10pm, 6:30pm, 9:50pm), Wed 8/28 (11:50am, 3:10pm, 6:30pm, 9:50pm)
+
+    * [Longlegs](https://drafthouse.com/los-angeles/show/longlegs): Thu 8/22 (4:20pm), Fri 8/23 (11:20am), Sat 8/24 (11:20am, 2:10pm), Sun 8/25 (11:20am), Mon 8/26 (11:20am, 2:10pm), Tue 8/27 (11:20am), Wed 8/28 (11:20am)
+
+    * [Sing Sing](https://drafthouse.com/los-angeles/show/sing-sing): Thu 8/22 (3:50pm)
+
+    * [Skincare](https://drafthouse.com/los-angeles/show/skincare): Thu 8/22 (5:10pm), Fri 8/23 (11:00am), Tue 8/27 (9:35pm), Wed 8/28 (11:15am)
+
+    * [Strange Darling](https://drafthouse.com/los-angeles/show/strange-darling): Thu 8/22 (10:30pm), Fri 8/23 (1:15pm, 4:00pm, 9:00pm), Sat 8/24 (1:15pm, 4:00pm, 10:45pm), Sun 8/25 (11:45am, 2:30pm, 5:15pm, 8:00pm), Mon 8/26 (11:00am, 1:45pm, 4:30pm, 6:45pm, 10:20pm), Tue 8/27 (11:00am, 1:45pm, 4:30pm, 7:15pm, 10:00pm), Wed 8/28 (11:00am, 1:45pm, 4:30pm, 6:00pm, 9:45pm)
+
+    * [The Conversation](https://drafthouse.com/los-angeles/show/the-conversation): Sat 8/24 (7:40pm), Sun 8/25 (7:20pm), Mon 8/26 (9:30pm), Tue 8/27 (11:30am), Wed 8/28 (8:45pm)
+
+    * [The Other Laurens](https://drafthouse.com/los-angeles/show/the-other-laurens): Fri 8/23 (10:25pm)
+
+    * [Trap](https://drafthouse.com/los-angeles/show/trap): Thu 8/22 (3:20pm), Fri 8/23 (1:50pm), Tue 8/27 (2:35pm)
+
+    * [Twisters](https://drafthouse.com/los-angeles/show/twisters): Thu 8/22 (3:00pm, 6:10pm, 9:25pm), Fri 8/23 (11:45am, 3:00pm, 6:15pm, 9:30pm), Sat 8/24 (11:45am, 3:00pm, 6:15pm, 9:30pm), Sun 8/25 (11:45am, 3:00pm, 6:15pm), Mon 8/26 (11:45am, 3:00pm, 6:15pm, 9:30pm), Tue 8/27 (11:45am, 3:00pm, 6:15pm, 9:30pm), Wed 8/28 (11:45am, 3:00pm, 6:15pm, 9:30pm)
+
 ### Sun 8/18 9:20pm
 * New movies: Red Rooms, The Paragon
 
