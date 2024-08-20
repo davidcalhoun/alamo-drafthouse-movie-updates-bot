@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Tue 8/20 4:24pm
+* New movies: Beetlejuice, The Rocky Horror Picture Show, The Guest
+
+* New screenings: 
+    * [Movie Party Beetlejuice](https://drafthouse.com/raleigh/show/movie-party-beetlejuice): Tue 10/15 (6:00pm)
+
+    * [Movie Party The Rocky Horror Picture Show](https://drafthouse.com/raleigh/show/movie-party-the-rocky-horror-picture-show): Thu 10/31 (9:30pm)
+
+    * [The Guest](https://drafthouse.com/raleigh/show/the-guest): Mon 10/28 (6:45pm)
+
 ### Tue 8/20 3:17pm
 * New movies: Rango
 
