@@ -1,6 +1,32 @@
 # los-angeles
 
 ## Movie updates
+### Tue 8/20 8:19am
+* New movies: Phantasm, Lupin the 3rd: The Castle of Caliostro, A Nightmare on Elm Street 1984, Cat People 1942, Creature from the Black Lagoon, A Nightmare on Elm Street 3: Dream Warriors, Nosferatu the Vampyre, Real Life, The Curse of Frankenstein, The Shining, Wes Craven's New Nightmare
+
+* New screenings: 
+    * [A Nightmare On Elm Street](https://drafthouse.com/los-angeles/show/a-nightmare-on-elm-street): Mon 10/14 (10:00pm)
+
+    * [Cat People 1942](https://drafthouse.com/los-angeles/show/cat-people-1942): Sat 10/19 (3:40pm)
+
+    * [Creature From The Black Lagoon](https://drafthouse.com/los-angeles/show/creature-from-the-black-lagoon): Mon 10/28 (7:15pm)
+
+    * [Graveyard Shift Phantasm](https://drafthouse.com/los-angeles/show/graveyard-shift-phantasm): Mon 10/7 (7:15pm)
+
+    * [Lupin The 3rd The Castle Of Caliostro](https://drafthouse.com/los-angeles/show/lupin-the-3rd-the-castle-of-caliostro): Mon 10/14 (6:00pm)
+
+    * [Nightmare On Elm Street 3 Dream Warriors](https://drafthouse.com/los-angeles/show/nightmare-on-elm-street-3-dream-warriors): Tue 10/22 (7:15pm)
+
+    * [Nosferatu The Vampyre](https://drafthouse.com/los-angeles/show/nosferatu-the-vampyre): Sat 10/12 (3:00pm)
+
+    * [Real Life](https://drafthouse.com/los-angeles/show/real-life): Sun 10/13 (12:00pm)
+
+    * [The Curse Of Frankenstein](https://drafthouse.com/los-angeles/show/the-curse-of-frankenstein): Sat 10/12 (12:25pm)
+
+    * [The Shining](https://drafthouse.com/los-angeles/show/the-shining): Fri 10/18 (9:15pm)
+
+    * [Wes Cravens New Nightmare](https://drafthouse.com/los-angeles/show/wes-cravens-new-nightmare): Tue 10/29 (7:15pm)
+
 ### Mon 8/19 4:18pm
 * New movies: Sleepaway Camp
 
