@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 8/20 9:21am
+* New movies: Lupin the 3rd: The Castle of Cagliostro
+
+
+
 ### Tue 8/20 8:19am
 * New movies: Phantasm, Lupin the 3rd: The Castle of Caliostro, A Nightmare on Elm Street 1984, Cat People 1942, Creature from the Black Lagoon, A Nightmare on Elm Street 3: Dream Warriors, Nosferatu the Vampyre, Real Life, The Curse of Frankenstein, The Shining, Wes Craven's New Nightmare
 
