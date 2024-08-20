@@ -1,6 +1,38 @@
 # raleigh
 
 ## Movie updates
+### Tue 8/20 11:23am
+* New movies: Phantasm, Lupin the 3rd: The Castle of Caliostro, A Nightmare on Elm Street 1984, Casper, Cat People 1942, Creature from the Black Lagoon, Halloween 1978, A Nightmare on Elm Street 3: Dream Warriors, Nosferatu 1922, Nosferatu the Vampyre, Real Life, The Curse of Frankenstein, The Shining, Wes Craven's New Nightmare
+
+* New screenings: 
+    * [A Nightmare On Elm Street](https://drafthouse.com/raleigh/show/a-nightmare-on-elm-street): Mon 10/14 (9:30pm)
+
+    * [Casper](https://drafthouse.com/raleigh/show/casper): Sun 10/20 (11:30am)
+
+    * [Cat People 1942](https://drafthouse.com/raleigh/show/cat-people-1942): Sat 10/19 (11:30am)
+
+    * [Creature From The Black Lagoon](https://drafthouse.com/raleigh/show/creature-from-the-black-lagoon): Sun 10/27 (11:30am)
+
+    * [Graveyard Shift Phantasm](https://drafthouse.com/raleigh/show/graveyard-shift-phantasm): Mon 10/7 (6:30pm)
+
+    * [Halloween 1978](https://drafthouse.com/raleigh/show/halloween-1978): Thu 10/31 (6:30pm)
+
+    * [Lupin The 3rd The Castle Of Caliostro](https://drafthouse.com/raleigh/show/lupin-the-3rd-the-castle-of-caliostro): Mon 10/14 (6:30pm)
+
+    * [Nightmare On Elm Street 3 Dream Warriors](https://drafthouse.com/raleigh/show/nightmare-on-elm-street-3-dream-warriors): Mon 10/21 (9:30pm)
+
+    * [Nosferatu 1922](https://drafthouse.com/raleigh/show/nosferatu-1922): Sat 10/5 (11:15am)
+
+    * [Nosferatu The Vampyre](https://drafthouse.com/raleigh/show/nosferatu-the-vampyre): Fri 10/11 (9:30pm)
+
+    * [Real Life](https://drafthouse.com/raleigh/show/real-life): Sun 10/13 (11:30am)
+
+    * [The Curse Of Frankenstein](https://drafthouse.com/raleigh/show/the-curse-of-frankenstein): Sun 10/13 (2:30pm)
+
+    * [The Shining](https://drafthouse.com/raleigh/show/the-shining): Fri 10/18 (9:30pm)
+
+    * [Wes Cravens New Nightmare](https://drafthouse.com/raleigh/show/wes-cravens-new-nightmare): Mon 10/28 (9:45pm)
+
 ### Mon 8/19 5:22pm
 * New movies: Longlegs
 
