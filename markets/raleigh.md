@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 8/20 3:17pm
+* New movies: Rango
+
+* New screenings: 
+    * [Rango](https://drafthouse.com/raleigh/show/rango): Fri 9/13 (3:30pm)
+
 ### Tue 8/20 12:26pm
 * New movies: Lupin the 3rd: The Castle of Cagliostro
 
