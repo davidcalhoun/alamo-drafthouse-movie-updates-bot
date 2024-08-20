@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 8/20 12:26pm
+* New movies: Lupin the 3rd: The Castle of Cagliostro
+
+
+
 ### Tue 8/20 11:23am
 * New movies: Phantasm, Lupin the 3rd: The Castle of Caliostro, A Nightmare on Elm Street 1984, Casper, Cat People 1942, Creature from the Black Lagoon, Halloween 1978, A Nightmare on Elm Street 3: Dream Warriors, Nosferatu 1922, Nosferatu the Vampyre, Real Life, The Curse of Frankenstein, The Shining, Wes Craven's New Nightmare
 
