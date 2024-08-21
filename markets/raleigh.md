@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 8/21 11:22am
+* New movies: Jung Kook: I Am Still
+
+* New screenings: 
+    * [Jung Kook I Am Still](https://drafthouse.com/raleigh/show/jung-kook-i-am-still): Wed 9/18 (6:30pm), Thu 9/19 (7:30pm), Fri 9/20 (3:30pm), Sat 9/21 (2:30pm), Sun 9/22 (6:30pm), Fri 9/27 (9:30pm), Sat 9/28 (9:30pm), Sun 9/29 (6:30pm)
+
 ### Tue 8/20 4:24pm
 * New movies: Beetlejuice, The Rocky Horror Picture Show, The Guest
 
