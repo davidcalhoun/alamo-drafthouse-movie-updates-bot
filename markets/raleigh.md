@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Wed 8/21 6:20pm
+
+* New screenings: 
+    * [Beetlejuice Beetlejuice](https://drafthouse.com/raleigh/show/beetlejuice-beetlejuice): Thu 9/5 (4:00pm, 7:00pm, 10:00pm), Fri 9/6 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sat 9/7 (11:30am, 2:30pm, 5:30pm, 8:30pm), Sun 9/8 (8:30pm)
+
 ### Wed 8/21 11:22am
 * New movies: Jung Kook: I Am Still
 
