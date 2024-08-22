@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 8/22 1:22am
+* New movies: Morgiana
+
+* New screenings: 
+    * [Morgiana](https://drafthouse.com/los-angeles/show/morgiana): Fri 9/27 (4:30pm), Wed 10/2 (7:15pm)
+
 ### Wed 8/21 7:37pm
 * New movies: The Rocky Horror Picture Show, Casper, Halloween 1978, The Guest
 
