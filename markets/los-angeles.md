@@ -1,6 +1,20 @@
 # los-angeles
 
 ## Movie updates
+### Wed 8/21 7:37pm
+* New movies: The Rocky Horror Picture Show, Casper, Halloween 1978, The Guest
+
+* New screenings: 
+    * [Casper](https://drafthouse.com/los-angeles/show/casper): Sat 10/19 (12:45pm)
+
+    * [Halloween 1978](https://drafthouse.com/los-angeles/show/halloween-1978): Thu 10/31 (7:15pm)
+
+    * [Movie Party The Rocky Horror Picture Show](https://drafthouse.com/los-angeles/show/movie-party-the-rocky-horror-picture-show): Fri 10/25 (9:15pm), Thu 10/31 (9:15pm)
+
+    * [Signature Programming Batman Forever](https://drafthouse.com/los-angeles/show/signature-programming-batman-forever): Sat 9/21 (9:15pm)
+
+    * [The Guest](https://drafthouse.com/los-angeles/show/the-guest): Mon 10/28 (9:45pm)
+
 ### Tue 8/20 9:21am
 * New movies: Lupin the 3rd: The Castle of Cagliostro
 
