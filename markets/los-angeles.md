@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 8/23 5:34am
+* New movies: The Front Room
+
+* New screenings: 
+    * [The Front Room](https://drafthouse.com/los-angeles/show/the-front-room): Thu 9/5 (4:50pm, 7:45pm, 10:30pm), Fri 9/6 (11:30am, 2:20pm, 5:10pm, 8:00pm, 10:45pm), Sat 9/7 (11:30am, 2:20pm, 5:10pm, 8:00pm, 10:45pm), Sun 9/8 (11:00am, 1:50pm, 4:40pm, 7:30pm), Mon 9/9 (11:30am, 2:20pm, 5:10pm, 8:00pm, 10:45pm), Tue 9/10 (11:30am, 2:20pm, 5:10pm, 8:00pm, 10:45pm), Wed 9/11 (11:30am, 2:20pm, 5:10pm, 8:00pm, 10:45pm)
+
 ### Thu 8/22 6:20pm
 * New movies: AfrAId
 
