@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 8/22 6:20pm
+* New movies: AfrAId
+
+* New screenings: 
+    * [Afraid](https://drafthouse.com/los-angeles/show/afraid): Thu 8/29 (5:10pm, 7:45pm, 10:20pm), Fri 8/30 (12:00pm, 2:35pm, 5:10pm, 7:45pm, 10:20pm), Sat 8/31 (12:00pm, 2:35pm, 5:10pm, 7:45pm, 10:20pm), Sun 9/1 (12:00pm, 2:35pm, 5:10pm, 7:45pm), Mon 9/2 (12:00pm, 2:35pm, 5:10pm, 7:45pm, 10:20pm), Tue 9/3 (12:00pm, 2:35pm, 5:10pm, 7:45pm, 10:20pm), Wed 9/4 (11:00am, 1:35pm, 4:10pm, 6:45pm, 9:20pm)
+
 ### Thu 8/22 1:22am
 * New movies: Morgiana
 
