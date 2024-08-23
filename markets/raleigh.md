@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 8/23 8:40am
+* New movies: The Front Room
+
+* New screenings: 
+    * [The Front Room](https://drafthouse.com/raleigh/show/the-front-room): Thu 9/5 (4:15pm, 7:15pm, 10:15pm), Fri 9/6 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Sat 9/7 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Sun 9/8 (12:45pm, 3:45pm, 6:45pm, 9:45pm)
+
 ### Wed 8/21 6:20pm
 
 * New screenings: 
