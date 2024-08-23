@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 8/23 6:20am
+* New movies: My Old Ass, My Old Ass
+
+* New screenings: 
+    * [Livestream Q A My Old Ass](https://drafthouse.com/los-angeles/show/livestream-q-a-my-old-ass): Wed 9/11 (5:00pm)
+
+    * [My Old Ass](https://drafthouse.com/los-angeles/show/my-old-ass): Thu 9/19 (4:00pm, 6:40pm, 9:20pm), Fri 9/20 (11:00am, 1:40pm, 4:20pm, 7:00pm, 9:40pm), Sat 9/21 (11:00am, 1:40pm, 4:20pm, 7:00pm, 9:40pm), Sun 9/22 (11:00am, 1:40pm, 4:20pm, 7:00pm), Mon 9/23 (11:00am, 1:40pm, 4:20pm, 7:00pm, 9:40pm), Tue 9/24 (11:20am, 2:00pm), Wed 9/25 (11:00am, 1:40pm, 4:20pm, 7:00pm, 9:40pm)
+
 ### Fri 8/23 5:34am
 * New movies: The Front Room
 
