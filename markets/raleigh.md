@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 8/23 1:20pm
+* New movies: My Old Ass
+
+* New screenings: 
+    * [Livestream Q A My Old Ass](https://drafthouse.com/raleigh/show/livestream-q-a-my-old-ass): Wed 9/11 (8:00pm)
+
 ### Fri 8/23 8:40am
 * New movies: The Front Room
 
