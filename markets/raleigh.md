@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 8/26 12:28pm
+* New movies: HAXAN: WITCHCRAFT THROUGH THE AGES with Live Score
+
+* New screenings: 
+    * [Haxan Witchcraft Through The Ages With Live Score](https://drafthouse.com/raleigh/show/haxan-witchcraft-through-the-ages-with-live-score): Sun 9/8 (4:00pm)
+
 ### Mon 8/26 9:27am
 * New movies: Transformers One
 
