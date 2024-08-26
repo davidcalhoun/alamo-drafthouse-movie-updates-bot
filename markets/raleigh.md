@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 8/26 9:27am
+* New movies: Transformers One
+
+* New screenings: 
+    * [Transformers One](https://drafthouse.com/raleigh/show/transformers-one): Thu 9/19 (6:30pm, 9:15pm), Fri 9/20 (12:30pm, 2:30pm, 6:30pm, 9:30pm), Sat 9/21 (12:15pm, 3:15pm, 6:15pm, 9:30pm), Sun 9/22 (11:15am, 2:15pm, 3:00pm, 5:15pm, 8:15pm, 9:30pm)
+
 ### Fri 8/23 1:20pm
 * New movies: My Old Ass
 
