@@ -1,6 +1,48 @@
 # raleigh
 
 ## Movie updates
+### Mon 8/26 5:20pm
+* New movies: Good One, AfrAId, 1992, Twisters, Inside Out 2, Despicable Me 4, Harry Potter and the Prisoner of Azkaban
+
+* New screenings: 
+    * [1992](https://drafthouse.com/raleigh/show/1992): Thu 8/29 (6:15pm, 9:00pm), Fri 8/30 (12:30pm, 3:30pm, 6:15pm, 9:15pm), Sat 8/31 (12:30pm, 3:30pm, 6:15pm, 9:15pm), Sun 9/1 (12:30pm, 3:30pm, 6:15pm, 9:15pm), Mon 9/2 (12:45pm, 3:30pm, 6:15pm, 9:15pm), Tue 9/3 (11:30am, 2:15pm, 5:15pm, 8:00pm, 10:45pm), Wed 9/4 (12:30pm, 3:30pm, 6:15pm, 9:15pm)
+
+    * [Afraid](https://drafthouse.com/raleigh/show/afraid): Thu 8/29 (7:15pm, 10:00pm), Fri 8/30 (11:45am, 2:15pm, 5:15pm, 7:45pm, 10:15pm), Sat 8/31 (11:45am, 2:15pm, 5:15pm, 7:45pm, 10:15pm), Sun 9/1 (11:45am, 2:15pm, 5:15pm, 7:45pm, 10:15pm), Mon 9/2 (11:45am, 2:30pm, 5:00pm, 7:45pm, 10:15pm), Tue 9/3 (11:45am, 2:30pm, 5:00pm, 6:30pm, 10:15pm), Wed 9/4 (11:45am, 2:15pm, 5:15pm, 6:30pm, 7:45pm, 10:15pm)
+
+    * [Alien Romulus](https://drafthouse.com/raleigh/show/alien-romulus): Thu 8/29 (11:45am, 12:30pm, 1:00pm, 3:00pm, 3:30pm, 4:00pm, 6:30pm, 7:00pm, 9:30pm, 10:00pm), Fri 8/30 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 8/31 (11:00am, 12:00pm, 2:00pm, 3:00pm, 5:00pm, 6:00pm, 9:00pm, 11:00pm), Sun 9/1 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Mon 9/2 (1:00pm, 4:00pm, 6:00pm, 9:00pm, 10:00pm), Tue 9/3 (1:00pm, 4:00pm, 6:00pm, 7:00pm, 10:00pm), Wed 9/4 (12:00pm, 1:00pm, 3:00pm, 4:00pm, 6:00pm, 9:30pm)
+
+    * [Apocalypse Now Final Cut](https://drafthouse.com/raleigh/show/apocalypse-now-final-cut): Sat 8/31 (9:30pm)
+
+    * [Blink Twice](https://drafthouse.com/raleigh/show/blink-twice): Thu 8/29 (12:00pm, 1:00pm, 3:00pm, 4:00pm, 6:00pm, 7:45pm, 9:00pm, 10:45pm), Fri 8/30 (1:00pm, 2:00pm, 4:15pm, 5:00pm, 7:15pm, 8:00pm, 10:30pm, 11:00pm), Sat 8/31 (1:00pm, 4:15pm, 7:15pm, 9:30pm), Sun 9/1 (1:00pm, 4:15pm, 7:15pm, 9:30pm, 10:30pm), Mon 9/2 (1:00pm, 4:15pm, 7:15pm, 10:30pm), Tue 9/3 (1:00pm, 4:15pm, 7:15pm, 10:30pm), Wed 9/4 (1:00pm, 4:15pm, 7:15pm, 10:30pm)
+
+    * [Caligula The Ultimate Cut](https://drafthouse.com/raleigh/show/caligula-the-ultimate-cut): Thu 8/29 (6:45pm), Fri 8/30 (9:30pm), Sun 9/1 (9:30pm), Mon 9/2 (9:30pm), Wed 9/4 (9:30pm)
+
+    * [Deadpool And Wolverine](https://drafthouse.com/raleigh/show/deadpool-and-wolverine): Thu 8/29 (11:15am, 12:15pm, 2:45pm, 3:45pm, 7:15pm, 10:30pm), Fri 8/30 (11:15am, 2:30pm, 6:15pm, 9:30pm), Sat 8/31 (11:15am, 2:30pm, 6:15pm, 9:30pm), Sun 9/1 (11:15am, 2:30pm, 6:15pm, 9:30pm), Mon 9/2 (11:15am, 2:45pm, 6:15pm, 9:30pm), Tue 9/3 (11:15am, 2:45pm, 6:15pm, 9:30pm), Wed 9/4 (11:15am, 2:45pm, 6:15pm, 9:30pm)
+
+    * [Despicable Me 4](https://drafthouse.com/raleigh/show/despicable-me-4): Fri 8/30 (11:00am), Sat 8/31 (12:30pm), Sun 9/1 (11:00am), Mon 9/2 (12:00pm), Tue 9/3 (12:00pm, 12:30pm), Wed 9/4 (12:30pm)
+
+    * [Didi](https://drafthouse.com/raleigh/show/didi): Thu 8/29 (12:45pm, 4:15pm)
+
+    * [Good One](https://drafthouse.com/raleigh/show/good-one): Fri 8/30 (11:30am, 2:00pm, 4:30pm, 7:00pm), Sat 8/31 (11:30am, 2:00pm, 4:30pm, 7:00pm), Sun 9/1 (11:30am, 2:00pm, 4:30pm, 7:00pm), Mon 9/2 (11:30am, 2:00pm, 4:30pm, 7:00pm), Tue 9/3 (11:00am, 1:45pm, 4:15pm, 7:15pm), Wed 9/4 (11:30am, 2:00pm, 4:30pm, 7:00pm)
+
+    * [Harry Potter And The Prisoner Of Azkaban](https://drafthouse.com/raleigh/show/harry-potter-and-the-prisoner-of-azkaban): Mon 9/2 (4:30pm)
+
+    * [Inside Out 2](https://drafthouse.com/raleigh/show/inside-out-2): Fri 8/30 (2:30pm, 5:30pm), Sat 8/31 (6:30pm), Sun 9/1 (2:00pm, 5:00pm, 7:00pm), Mon 9/2 (3:00pm), Tue 9/3 (3:00pm, 3:30pm), Wed 9/4 (3:30pm)
+
+    * [It Ends With Us](https://drafthouse.com/raleigh/show/it-ends-with-us): Thu 8/29 (11:30am, 3:00pm, 6:45pm, 10:15pm), Fri 8/30 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Sat 8/31 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Sun 9/1 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Mon 9/2 (12:30pm, 3:45pm, 7:15pm, 10:30pm), Tue 9/3 (12:30pm, 3:40pm, 6:45pm, 10:30pm), Wed 9/4 (12:45pm, 4:00pm, 7:15pm, 10:30pm)
+
+    * [Point Break](https://drafthouse.com/raleigh/show/point-break): Fri 8/30 (8:30pm), Sun 9/1 (8:00pm), Mon 9/2 (11:00pm)
+
+    * [Repo Man](https://drafthouse.com/raleigh/show/repo-man): Tue 9/3 (9:45pm), Wed 9/4 (10:30pm)
+
+    * [Sing Sing](https://drafthouse.com/raleigh/show/sing-sing): Thu 8/29 (11:00am, 2:00pm, 4:50pm)
+
+    * [The Crow 2024](https://drafthouse.com/raleigh/show/the-crow-2024): Thu 8/29 (11:15am, 2:30pm, 6:00pm, 9:15pm), Fri 8/30 (12:15pm, 3:15pm, 6:45pm, 10:00pm), Sat 8/31 (12:15pm, 3:15pm, 6:45pm, 10:00pm), Sun 9/1 (12:15pm, 3:15pm, 6:45pm, 10:00pm), Mon 9/2 (12:15pm, 3:15pm, 6:45pm, 10:00pm), Tue 9/3 (12:15pm, 3:15pm, 6:45pm, 10:00pm), Wed 9/4 (12:15pm, 3:15pm, 6:45pm, 10:00pm)
+
+    * [The Terminator 1984](https://drafthouse.com/raleigh/show/the-terminator-1984): Sat 8/31 (8:00pm, 10:30pm), Mon 9/2 (8:00pm), Tue 9/3 (9:30pm)
+
+    * [Twisters](https://drafthouse.com/raleigh/show/twisters): Thu 8/29 (6:30pm, 9:30pm), Fri 8/30 (1:00pm, 4:15pm, 7:30pm, 10:35pm), Sat 8/31 (1:00pm, 4:15pm, 7:30pm, 10:35pm), Sun 9/1 (1:00pm, 4:15pm, 7:30pm, 10:35pm), Mon 9/2 (1:00pm, 4:15pm, 7:30pm, 10:35pm), Tue 9/3 (12:00pm, 3:15pm, 6:15pm, 9:30pm), Wed 9/4 (1:00pm, 4:15pm, 7:30pm, 10:35pm)
+
 ### Mon 8/26 1:21pm
 * New movies: Haxan: Witchcraft Through the Ages
 
