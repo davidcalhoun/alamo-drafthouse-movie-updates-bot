@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 8/26 6:23am
+* New movies: Transformers One
+
+* New screenings: 
+    * [Transformers One](https://drafthouse.com/los-angeles/show/transformers-one): Thu 9/19 (6:00pm, 9:00pm), Fri 9/20 (12:40pm, 3:35pm, 6:30pm, 9:25pm), Sat 9/21 (12:40pm, 3:35pm, 6:30pm, 9:25pm), Sun 9/22 (11:00am, 1:55pm, 4:50pm, 7:45pm), Mon 9/23 (12:40pm, 3:35pm, 6:30pm, 9:25pm), Tue 9/24 (12:40pm, 3:35pm, 6:30pm, 9:25pm), Wed 9/25 (12:40pm, 3:35pm, 6:30pm, 9:25pm)
+
 ### Fri 8/23 6:20am
 * New movies: My Old Ass, My Old Ass
 
