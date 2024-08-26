@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 8/26 1:21pm
+* New movies: Haxan: Witchcraft Through the Ages
+
+
+
 ### Mon 8/26 12:28pm
 * New movies: HAXAN: WITCHCRAFT THROUGH THE AGES with Live Score
 
