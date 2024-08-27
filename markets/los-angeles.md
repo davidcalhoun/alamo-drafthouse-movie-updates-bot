@@ -1,6 +1,56 @@
 # los-angeles
 
 ## Movie updates
+### Mon 8/26 7:38pm
+* New movies: 1992, Slingshot, Inside Out 2, Harry Potter and the Prisoner of Azkaban
+
+* New screenings: 
+    * [1992](https://drafthouse.com/los-angeles/show/1992): Thu 8/29 (8:00pm), Fri 8/30 (11:30am, 2:20pm, 5:10pm, 8:00pm, 10:45pm), Sat 8/31 (11:30am, 2:20pm, 5:10pm, 8:00pm, 10:45pm), Sun 9/1 (11:30am, 2:20pm, 5:10pm, 8:00pm, 10:45pm), Mon 9/2 (11:30am, 2:20pm, 5:10pm, 8:00pm, 10:45pm), Tue 9/3 (11:30am, 2:20pm, 5:10pm, 8:00pm, 10:45pm), Wed 9/4 (11:30am, 2:20pm, 5:10pm, 8:00pm, 10:45pm)
+
+    * [Afraid](https://drafthouse.com/los-angeles/show/afraid): Sun 9/1 (10:20pm)
+
+    * [Alien Romulus](https://drafthouse.com/los-angeles/show/alien-romulus): Thu 8/29 (3:30pm, 7:10pm, 10:25pm), Fri 8/30 (12:40pm, 3:50pm, 7:00pm, 10:15pm), Sat 8/31 (12:40pm, 3:50pm, 7:00pm, 10:15pm), Sun 9/1 (12:40pm, 3:50pm, 7:00pm, 10:15pm), Mon 9/2 (12:40pm, 3:50pm, 7:00pm, 10:15pm), Tue 9/3 (12:40pm, 3:50pm, 7:00pm, 10:15pm), Wed 9/4 (12:40pm, 3:50pm, 7:00pm, 10:15pm)
+
+    * [Apocalypse Now Final Cut](https://drafthouse.com/los-angeles/show/apocalypse-now-final-cut): Sat 8/31 (12:00pm), Tue 9/3 (11:10am), Wed 9/4 (2:40pm)
+
+    * [Between The Temples](https://drafthouse.com/los-angeles/show/between-the-temples): Thu 8/29 (3:40pm), Sat 8/31 (12:25pm), Mon 9/2 (4:15pm), Wed 9/4 (1:40pm)
+
+    * [Blink Twice](https://drafthouse.com/los-angeles/show/blink-twice): Thu 8/29 (3:40pm, 6:30pm, 9:25pm), Fri 8/30 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:25pm), Sat 8/31 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:25pm), Sun 9/1 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:25pm), Mon 9/2 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:25pm), Tue 9/3 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:25pm), Wed 9/4 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:25pm)
+
+    * [Caligula The Ultimate Cut](https://drafthouse.com/los-angeles/show/caligula-the-ultimate-cut): Thu 8/29 (9:30pm)
+
+    * [Cuckoo](https://drafthouse.com/los-angeles/show/cuckoo): Thu 8/29 (4:00pm, 6:40pm, 10:25pm), Fri 8/30 (6:50pm, 9:40pm), Sat 8/31 (6:50pm, 9:40pm), Sun 9/1 (6:50pm, 9:40pm), Mon 9/2 (6:50pm, 9:40pm), Tue 9/3 (6:50pm, 9:40pm), Wed 9/4 (7:30pm, 10:25pm)
+
+    * [Deadpool And Wolverine](https://drafthouse.com/los-angeles/show/deadpool-and-wolverine): Thu 8/29 (3:00pm, 6:20pm, 9:35pm), Fri 8/30 (11:40am, 3:00pm, 6:20pm, 9:35pm), Sat 8/31 (11:40am, 3:00pm, 6:20pm, 9:35pm), Sun 9/1 (11:40am, 3:00pm, 6:20pm, 9:35pm), Mon 9/2 (11:40am, 3:00pm, 6:20pm, 9:35pm), Tue 9/3 (11:40am, 3:00pm, 6:20pm, 9:35pm), Wed 9/4 (11:40am, 3:00pm, 6:15pm, 9:35pm)
+
+    * [Didi](https://drafthouse.com/los-angeles/show/didi): Thu 8/29 (4:40pm, 7:20pm, 10:00pm), Fri 8/30 (11:10am, 1:50pm, 4:30pm, 7:15pm, 10:00pm), Sat 8/31 (11:10am, 1:50pm, 4:30pm, 7:10pm, 9:50pm), Sun 9/1 (11:20am, 2:00pm, 4:40pm, 7:20pm, 10:00pm), Mon 9/2 (11:10am, 1:50pm, 4:30pm, 7:10pm, 9:50pm), Tue 9/3 (11:10am, 1:50pm, 4:30pm, 7:10pm, 9:50pm), Wed 9/4 (11:10am, 1:50pm, 4:30pm, 7:10pm, 9:50pm)
+
+    * [Harry Potter And The Prisoner Of Azkaban](https://drafthouse.com/los-angeles/show/harry-potter-and-the-prisoner-of-azkaban): Tue 9/3 (3:45pm)
+
+    * [Hearts Of Darkness A Filmmakers Apocalypse](https://drafthouse.com/los-angeles/show/hearts-of-darkness-a-filmmakers-apocalypse): Fri 8/30 (4:15pm), Sun 9/1 (7:10pm)
+
+    * [Inside Out 2](https://drafthouse.com/los-angeles/show/inside-out-2): Fri 8/30 (1:15pm, 4:00pm), Sat 8/31 (1:15pm, 4:00pm), Sun 9/1 (1:15pm, 4:00pm), Mon 9/2 (1:15pm, 4:00pm), Tue 9/3 (1:15pm, 4:00pm), Wed 9/4 (11:20am, 2:10pm, 4:50pm)
+
+    * [It Ends With Us](https://drafthouse.com/los-angeles/show/it-ends-with-us): Thu 8/29 (3:50pm, 4:10pm)
+
+    * [Longlegs](https://drafthouse.com/los-angeles/show/longlegs): Thu 8/29 (10:45pm)
+
+    * [Point Break](https://drafthouse.com/los-angeles/show/point-break): Fri 8/30 (9:10pm), Sat 8/31 (10:15pm), Mon 9/2 (9:00pm), Tue 9/3 (2:50pm), Wed 9/4 (10:30pm)
+
+    * [Repo Man](https://drafthouse.com/los-angeles/show/repo-man): Sat 8/31 (3:25pm), Sun 9/1 (10:50am, 10:00pm), Mon 9/2 (10:45pm), Wed 9/4 (11:00am)
+
+    * [Slingshot](https://drafthouse.com/los-angeles/show/slingshot): Thu 8/29 (7:30pm), Fri 8/30 (12:40pm, 3:35pm, 6:30pm, 9:25pm), Sat 8/31 (12:40pm, 3:35pm, 6:30pm, 9:25pm), Sun 9/1 (12:40pm, 3:35pm, 6:30pm, 9:25pm), Mon 9/2 (12:40pm, 3:35pm, 6:30pm, 9:25pm), Tue 9/3 (12:40pm, 3:35pm, 6:30pm, 9:25pm), Wed 9/4 (12:40pm, 3:35pm, 6:30pm, 9:25pm)
+
+    * [Strange Darling](https://drafthouse.com/los-angeles/show/strange-darling): Thu 8/29 (4:15pm, 7:00pm, 9:45pm), Fri 8/30 (1:10pm, 3:55pm, 6:40pm, 9:25pm), Sat 8/31 (1:10pm, 3:55pm, 6:40pm, 9:25pm), Sun 9/1 (1:10pm, 3:55pm, 6:40pm, 9:25pm), Mon 9/2 (1:10pm, 3:55pm, 6:40pm, 9:25pm), Tue 9/3 (1:10pm, 3:55pm, 6:40pm, 9:25pm), Wed 9/4 (1:10pm, 3:55pm, 6:40pm, 9:25pm)
+
+    * [The Conversation](https://drafthouse.com/los-angeles/show/the-conversation): Thu 8/29 (10:05pm), Fri 8/30 (6:00pm), Sun 9/1 (9:15pm), Wed 9/4 (9:30pm)
+
+    * [The Crow 2024](https://drafthouse.com/los-angeles/show/the-crow-2024): Thu 8/29 (3:00pm, 6:00pm, 9:00pm), Fri 8/30 (12:10pm, 3:10pm, 6:10pm, 9:10pm), Sat 8/31 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sun 9/1 (12:10pm, 3:10pm, 6:10pm, 9:10pm), Mon 9/2 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Tue 9/3 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Wed 9/4 (12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
+    * [The Terminator 1984](https://drafthouse.com/los-angeles/show/the-terminator-1984): Sun 9/1 (1:30pm), Mon 9/2 (2:45pm), Tue 9/3 (10:00pm)
+
+    * [Twisters](https://drafthouse.com/los-angeles/show/twisters): Thu 8/29 (4:45pm, 6:50pm, 10:25pm), Fri 8/30 (1:00pm, 7:00pm), Sat 8/31 (6:10pm, 9:25pm), Sun 9/1 (11:30am, 6:00pm), Mon 9/2 (11:30am, 5:45pm), Tue 9/3 (11:40am, 9:30pm), Wed 9/4 (11:25am, 4:35pm)
+
 ### Mon 8/26 6:23am
 * New movies: Transformers One
 
