@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 8/27 2:16pm
+* New movies: The Penguin
+
+* New screenings: 
+    * [Free Victory Screening The Penguin](https://drafthouse.com/los-angeles/show/free-victory-screening-the-penguin): Thu 9/12 (7:30pm)
+
 ### Mon 8/26 7:38pm
 * New movies: 1992, Slingshot, Inside Out 2, Harry Potter and the Prisoner of Azkaban
 
