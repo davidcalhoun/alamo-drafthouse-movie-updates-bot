@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 8/28 5:36am
+* New movies: The Penguin
+
+* New screenings: 
+    * [Free Victory Screening The Penguin](https://drafthouse.com/los-angeles/show/free-victory-screening-the-penguin): Thu 9/12 (7:30pm)
+
 ### Tue 8/27 6:22pm
 * New movies: Basket Case 2, Pearl, The Rage: Carrie 2, Child's Play 2, Deep in the Heart aka Handgun, Neige aka Snow, Clash of the Wolves 1925
 
