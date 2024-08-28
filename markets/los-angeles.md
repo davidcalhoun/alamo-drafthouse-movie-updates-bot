@@ -1,6 +1,24 @@
 # los-angeles
 
 ## Movie updates
+### Tue 8/27 6:22pm
+* New movies: Basket Case 2, Pearl, The Rage: Carrie 2, Child's Play 2, Deep in the Heart aka Handgun, Neige aka Snow, Clash of the Wolves 1925
+
+* New screenings: 
+    * [Basket Case 2](https://drafthouse.com/los-angeles/show/basket-case-2): Fri 10/25 (4:30pm), Wed 10/30 (7:15pm)
+
+    * [Childs Play 2](https://drafthouse.com/los-angeles/show/childs-play-2): Fri 10/18 (4:25pm)
+
+    * [Deep In The Heart Aka Handgun](https://drafthouse.com/los-angeles/show/deep-in-the-heart-aka-handgun): Sat 9/21 (12:10pm)
+
+    * [Neige Aka Snow](https://drafthouse.com/los-angeles/show/neige-aka-snow): Fri 9/20 (9:15pm)
+
+    * [Pearl](https://drafthouse.com/los-angeles/show/pearl): Fri 10/4 (4:20pm), Wed 10/9 (7:15pm)
+
+    * [Silent Movie Day Clash Of The Wolves](https://drafthouse.com/los-angeles/show/silent-movie-day-clash-of-the-wolves): Sun 9/29 (11:00am)
+
+    * [The Rage Carrie 2](https://drafthouse.com/los-angeles/show/the-rage-carrie-2): Wed 10/16 (7:00pm), Wed 10/23 (7:00pm)
+
 ### Tue 8/27 2:16pm
 * New movies: The Penguin
 
