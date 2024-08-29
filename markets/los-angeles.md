@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 8/29 12:17am
+
+* New screenings: 
+    * [Beetlejuice Beetlejuice](https://drafthouse.com/los-angeles/show/beetlejuice-beetlejuice): Thu 9/12 (4:35pm, 9:50pm)
+
 ### Wed 8/28 5:36am
 * New movies: The Penguin
 
