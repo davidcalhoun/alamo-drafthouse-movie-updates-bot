@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Thu 8/29 5:36am
+* New movies: Speak No Evil 2024, The Substance, The Substance
+
+* New screenings: 
+    * [Fantastic Fest Presents The Substance Advance Screening](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-the-substance-advance-screening): Wed 9/18 (7:30pm)
+
+    * [Speak No Evil 2024](https://drafthouse.com/los-angeles/show/speak-no-evil-2024): Thu 9/12 (3:30pm, 6:30pm, 9:30pm), Fri 9/13 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Sat 9/14 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Sun 9/15 (12:45pm, 3:45pm, 6:45pm), Mon 9/16 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:40pm), Tue 9/17 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Wed 9/18 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:40pm)
+
+    * [The Substance](https://drafthouse.com/los-angeles/show/the-substance): Thu 9/19 (6:15pm, 9:50pm), Fri 9/20 (11:00am, 2:40pm, 6:15pm, 9:50pm), Sat 9/21 (11:00am, 2:40pm, 6:15pm, 9:50pm), Sun 9/22 (12:15pm, 3:50pm, 7:30pm), Mon 9/23 (11:00am, 2:40pm, 6:15pm, 9:50pm), Tue 9/24 (11:00am, 2:40pm, 6:15pm, 9:50pm), Wed 9/25 (11:00am, 2:40pm, 6:15pm, 9:50pm)
+
 ### Thu 8/29 12:17am
 
 * New screenings: 
