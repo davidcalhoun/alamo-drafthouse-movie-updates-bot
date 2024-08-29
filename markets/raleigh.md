@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Thu 8/29 8:42am
+* New movies: The Substance, Speak No Evil 2024, The Substance
+
+* New screenings: 
+    * [Fantastic Fest Presents The Substance Advance Screening](https://drafthouse.com/raleigh/show/fantastic-fest-presents-the-substance-advance-screening): Wed 9/18 (7:15pm)
+
+    * [Speak No Evil 2024](https://drafthouse.com/raleigh/show/speak-no-evil-2024): Thu 9/12 (3:15pm, 6:15pm, 9:15pm), Fri 9/13 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sun 9/15 (12:15pm, 3:15pm, 6:15pm, 9:15pm)
+
+    * [The Substance](https://drafthouse.com/raleigh/show/the-substance): Thu 9/19 (6:15pm, 10:15pm), Fri 9/20 (11:15am, 2:45pm, 6:15pm, 9:45pm), Sat 9/21 (11:15am, 2:45pm, 6:15pm, 9:45pm), Sun 9/22 (11:15am, 2:45pm, 6:15pm, 9:45pm)
+
 ### Mon 8/26 5:20pm
 * New movies: Good One, AfrAId, 1992, Twisters, Inside Out 2, Despicable Me 4, Harry Potter and the Prisoner of Azkaban
 
