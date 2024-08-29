@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 8/29 10:16am
+* New movies: ¡CASA BONITA MI AMOR!
+
+* New screenings: 
+    * [Casa Bonita Mi Amor](https://drafthouse.com/los-angeles/show/casa-bonita-mi-amor): Fri 9/13 (12:40pm, 3:20pm, 7:20pm), Sat 9/14 (4:40pm, 7:20pm, 10:00pm), Sun 9/15 (2:40pm, 5:20pm, 8:00pm), Mon 9/16 (2:00pm, 4:40pm, 7:20pm), Tue 9/17 (2:00pm, 4:40pm, 7:20pm), Wed 9/18 (2:00pm, 4:35pm, 9:00pm), Thu 9/19 (2:40pm, 5:20pm, 8:00pm)
+
 ### Thu 8/29 5:36am
 * New movies: Speak No Evil 2024, The Substance, The Substance
 
