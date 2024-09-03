@@ -1,6 +1,49 @@
 # los-angeles
 
 ## Movie updates
+### Tue 9/3 3:18pm
+
+* New screenings: 
+    * [1992](https://drafthouse.com/los-angeles/show/1992): Thu 9/5 (2:00pm), Fri 9/6 (10:50am), Mon 9/9 (11:00am)
+
+    * [Afraid](https://drafthouse.com/los-angeles/show/afraid): Thu 9/5 (10:50pm), Fri 9/6 (10:00pm), Sat 9/7 (10:00pm), Sun 9/8 (8:30pm), Mon 9/9 (10:00pm), Tue 9/10 (10:00pm), Wed 9/11 (10:00pm)
+
+    * [Alien Romulus](https://drafthouse.com/los-angeles/show/alien-romulus): Thu 9/5 (3:25pm, 6:40pm, 9:50pm), Fri 9/6 (12:15pm, 3:25pm, 6:40pm, 9:50pm), Sat 9/7 (12:15pm, 3:25pm, 6:40pm, 9:50pm), Sun 9/8 (11:25am, 3:25pm, 6:40pm), Mon 9/9 (12:15pm, 3:25pm, 6:40pm, 9:50pm), Tue 9/10 (12:15pm, 3:25pm, 6:40pm, 9:50pm), Wed 9/11 (12:15pm, 3:25pm, 6:40pm, 9:50pm)
+
+    * [Beetlejuice Beetlejuice](https://drafthouse.com/los-angeles/show/beetlejuice-beetlejuice): Thu 9/5 (4:20pm, 5:00pm, 5:30pm, 7:20pm, 8:00pm, 8:30pm, 10:15pm), Fri 9/6 (12:25pm, 1:00pm, 1:35pm, 4:00pm, 6:00pm, 7:00pm, 9:00pm), Sat 9/7 (10:50am, 1:45pm, 4:00pm, 7:00pm, 7:15pm, 10:10pm), Sun 9/8 (2:30pm, 5:25pm, 5:35pm, 8:15pm), Mon 9/9 (12:00pm, 12:40pm, 1:00pm, 2:50pm, 3:35pm, 4:00pm, 5:45pm, 6:30pm, 7:00pm, 8:40pm, 9:25pm), Tue 9/10 (12:00pm, 12:40pm, 1:00pm, 2:50pm, 3:35pm, 4:00pm, 5:45pm, 6:30pm, 7:00pm, 8:40pm, 9:10pm, 9:25pm), Wed 9/11 (11:00am, 12:00pm, 12:45pm, 1:00pm, 1:50pm, 2:50pm, 3:35pm, 4:00pm, 5:45pm, 6:30pm, 7:00pm, 8:40pm, 9:25pm)
+
+    * [Blink Twice](https://drafthouse.com/los-angeles/show/blink-twice): Thu 9/5 (3:25pm, 6:20pm, 9:15pm), Fri 9/6 (12:35pm, 3:30pm, 6:20pm, 9:10pm), Sat 9/7 (12:35pm, 3:30pm, 6:20pm, 9:10pm), Sun 9/8 (12:35pm, 3:30pm, 6:20pm), Mon 9/9 (12:35pm, 3:30pm, 6:20pm, 9:10pm), Tue 9/10 (12:35pm, 3:30pm, 6:20pm, 9:10pm), Wed 9/11 (11:30am, 3:25pm, 6:15pm, 9:10pm)
+
+    * [Brunch Screenings Beetlejuice Beetlejuice Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-beetlejuice-beetlejuice-brunch): Sat 9/7 (1:00pm), Sun 9/8 (12:30pm)
+
+    * [Cuckoo](https://drafthouse.com/los-angeles/show/cuckoo): Tue 9/10 (3:10pm), Wed 9/11 (10:00pm)
+
+    * [Deadpool And Wolverine](https://drafthouse.com/los-angeles/show/deadpool-and-wolverine): Thu 9/5 (2:50pm, 6:10pm, 9:25pm), Fri 9/6 (11:40am, 2:55pm, 6:10pm, 9:25pm), Sat 9/7 (11:40am, 2:55pm, 6:10pm, 9:25pm), Sun 9/8 (11:40am, 2:55pm, 6:10pm), Mon 9/9 (11:35am, 2:50pm, 6:10pm, 9:25pm), Tue 9/10 (11:40am, 2:55pm, 6:10pm, 9:25pm), Wed 9/11 (11:25am, 2:45pm, 6:00pm, 9:20pm)
+
+    * [Didi](https://drafthouse.com/los-angeles/show/didi): Thu 9/5 (4:10pm, 6:50pm, 9:30pm), Fri 9/6 (10:50am, 1:30pm, 4:10pm, 6:50pm, 9:30pm), Sat 9/7 (10:50am, 1:30pm, 4:10pm, 6:50pm, 9:30pm), Sun 9/8 (10:50am, 1:30pm, 4:10pm, 6:50pm), Mon 9/9 (11:00am, 1:40pm, 4:25pm, 7:10pm, 9:50pm), Tue 9/10 (11:00am, 1:35pm, 4:10pm, 6:50pm, 9:30pm), Wed 9/11 (11:00am, 1:35pm, 4:10pm, 6:50pm, 9:30pm)
+
+    * [Graveyard Shift Zombie](https://drafthouse.com/los-angeles/show/graveyard-shift-zombie): Mon 9/9 (10:00pm), Tue 9/10 (10:00pm)
+
+    * [Harry Potter And The Goblet Of Fire](https://drafthouse.com/los-angeles/show/harry-potter-and-the-goblet-of-fire): Sun 9/8 (12:25pm), Mon 9/9 (11:10am), Wed 9/11 (11:40am)
+
+    * [Inside Out 2](https://drafthouse.com/los-angeles/show/inside-out-2): Thu 9/5 (2:00pm)
+
+    * [Mad Max](https://drafthouse.com/los-angeles/show/mad-max): Mon 9/9 (9:10pm)
+
+    * [Radio On](https://drafthouse.com/los-angeles/show/radio-on): Mon 9/9 (1:50pm)
+
+    * [Red Rooms](https://drafthouse.com/los-angeles/show/red-rooms): Mon 9/9 (2:55pm, 6:00pm), Tue 9/10 (4:10pm, 6:00pm), Wed 9/11 (4:10pm, 8:00pm)
+
+    * [Slingshot](https://drafthouse.com/los-angeles/show/slingshot): Thu 9/5 (2:00pm)
+
+    * [Stalker](https://drafthouse.com/los-angeles/show/stalker): Tue 9/10 (12:15pm), Wed 9/11 (12:20pm)
+
+    * [Strange Darling](https://drafthouse.com/los-angeles/show/strange-darling): Thu 9/5 (4:45pm, 7:30pm, 10:10pm), Fri 9/6 (11:20am, 2:00pm, 4:50pm, 7:30pm, 10:10pm), Sat 9/7 (11:20am, 2:00pm, 4:50pm, 7:30pm, 10:10pm), Sun 9/8 (11:15am, 2:00pm, 4:50pm, 7:30pm), Mon 9/9 (11:15am, 2:00pm, 4:50pm, 7:30pm, 10:10pm), Tue 9/10 (11:15am, 2:00pm, 4:50pm, 7:30pm, 10:10pm), Wed 9/11 (11:15am, 2:00pm, 4:50pm, 7:30pm, 10:10pm)
+
+    * [The Crow 2024](https://drafthouse.com/los-angeles/show/the-crow-2024): Thu 9/5 (2:30pm)
+
+    * [The Paragon](https://drafthouse.com/los-angeles/show/the-paragon): Mon 9/9 (4:40pm), Tue 9/10 (12:30pm), Wed 9/11 (2:25pm)
+
 ### Thu 8/29 10:16am
 * New movies: ¡CASA BONITA MI AMOR!
 
