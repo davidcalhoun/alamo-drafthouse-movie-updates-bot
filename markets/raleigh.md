@@ -1,6 +1,36 @@
 # raleigh
 
 ## Movie updates
+### Tue 9/3 6:23pm
+* New movies: Point Break 1991
+
+* New screenings: 
+    * [1992](https://drafthouse.com/raleigh/show/1992): Thu 9/5 (11:00am), Fri 9/6 (11:00am), Tue 9/10 (11:00am), Wed 9/11 (11:00am)
+
+    * [Afraid](https://drafthouse.com/raleigh/show/afraid): Thu 9/5 (11:00pm), Fri 9/6 (11:00pm), Sat 9/7 (10:45pm), Sun 9/8 (10:45pm), Mon 9/9 (10:45pm), Tue 9/10 (4:45pm), Wed 9/11 (4:45pm)
+
+    * [Alien Romulus](https://drafthouse.com/raleigh/show/alien-romulus): Thu 9/5 (12:00pm, 12:30pm, 1:00pm, 3:45pm, 7:30pm, 10:45pm), Fri 9/6 (12:15pm, 3:30pm, 7:15pm, 10:45pm), Sat 9/7 (11:45am, 2:45pm, 6:15pm, 9:15pm), Sun 9/8 (11:45am, 2:45pm, 6:15pm, 9:15pm), Mon 9/9 (11:30am, 2:45pm, 6:15pm, 9:30pm), Tue 9/10 (11:30am, 2:45pm, 6:15pm, 9:45pm), Wed 9/11 (11:30am, 2:45pm, 6:15pm, 9:45pm)
+
+    * [Beetlejuice Beetlejuice](https://drafthouse.com/raleigh/show/beetlejuice-beetlejuice): Thu 9/5 (3:30pm, 4:30pm, 5:00pm, 6:30pm, 7:30pm, 8:00pm, 9:30pm, 11:00pm), Fri 9/6 (11:00am, 12:30pm, 2:00pm, 3:30pm, 4:30pm, 5:00pm, 6:30pm, 7:30pm, 8:00pm, 9:30pm), Sat 9/7 (11:00am, 12:30pm, 1:45pm, 3:30pm, 4:00pm, 4:30pm, 6:30pm, 7:00pm, 7:30pm, 9:30pm, 11:15pm), Sun 9/8 (11:00am, 11:30am, 1:00pm, 1:30pm, 2:00pm, 2:30pm, 4:30pm, 5:00pm, 5:30pm, 7:00pm, 7:30pm, 8:00pm, 10:00pm, 11:15pm), Mon 9/9 (11:00am, 12:00pm, 12:30pm, 1:00pm, 1:30pm, 2:00pm, 3:00pm, 3:30pm, 4:00pm, 4:30pm, 5:00pm, 7:00pm, 7:30pm, 8:00pm, 9:30pm, 10:00pm, 10:30pm), Tue 9/10 (11:00am, 12:00pm, 12:30pm, 1:00pm, 2:00pm, 3:30pm, 4:00pm, 5:00pm, 6:30pm, 7:30pm, 8:00pm, 9:30pm, 10:30pm), Wed 9/11 (11:00am, 11:30am, 12:00pm, 12:30pm, 2:00pm, 2:30pm, 3:00pm, 3:30pm, 5:00pm, 5:45pm, 6:30pm, 7:30pm, 9:30pm, 10:00pm)
+
+    * [Blink Twice](https://drafthouse.com/raleigh/show/blink-twice): Thu 9/5 (12:45pm, 4:30pm, 7:45pm, 10:45pm), Fri 9/6 (1:00pm, 3:45pm, 6:30pm, 9:15pm), Sat 9/7 (1:00pm, 3:45pm, 6:45pm, 10:15pm), Sun 9/8 (1:00pm, 3:45pm, 6:45pm, 9:45pm), Mon 9/9 (12:00pm, 3:15pm, 6:45pm, 9:30pm), Tue 9/10 (12:00pm, 3:15pm, 6:45pm, 9:30pm), Wed 9/11 (12:00pm, 3:15pm, 6:45pm, 9:30pm)
+
+    * [Caligula The Ultimate Cut](https://drafthouse.com/raleigh/show/caligula-the-ultimate-cut): Thu 9/5 (11:45am)
+
+    * [Deadpool And Wolverine](https://drafthouse.com/raleigh/show/deadpool-and-wolverine): Thu 9/5 (11:30am, 2:45pm, 6:15pm, 9:30pm), Fri 9/6 (11:30am, 2:45pm, 6:15pm, 10:15pm), Sat 9/7 (12:30pm, 3:45pm, 7:15pm, 10:30pm), Sun 9/8 (12:30pm, 3:45pm, 7:15pm, 10:30pm), Mon 9/9 (11:45am, 3:45pm, 7:15pm, 10:30pm), Tue 9/10 (11:45am, 3:45pm, 7:15pm, 10:30pm), Wed 9/11 (11:45am, 3:45pm, 7:15pm, 10:30pm)
+
+    * [Good One](https://drafthouse.com/raleigh/show/good-one): Thu 9/5 (1:45pm), Fri 9/6 (1:45pm), Tue 9/10 (1:45pm), Wed 9/11 (1:45pm)
+
+    * [It Ends With Us](https://drafthouse.com/raleigh/show/it-ends-with-us): Thu 9/5 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Fri 9/6 (11:45am, 3:15pm, 6:45pm, 10:00pm), Sat 9/7 (12:15pm, 3:25pm, 7:15pm, 10:30pm), Sun 9/8 (12:15pm, 3:45pm, 7:15pm, 10:30pm), Mon 9/9 (12:15pm, 3:45pm, 7:15pm, 10:30pm), Tue 9/10 (12:15pm, 3:45pm, 7:15pm, 10:30pm), Wed 9/11 (12:15pm, 3:45pm, 7:15pm, 10:30pm)
+
+    * [Point Break](https://drafthouse.com/raleigh/show/point-break): Thu 9/5 (1:00pm)
+
+    * [The Crow 2024](https://drafthouse.com/raleigh/show/the-crow-2024): Thu 9/5 (12:45pm), Fri 9/6 (10:30pm), Tue 9/10 (10:45pm), Wed 9/11 (10:45pm)
+
+    * [The Front Room](https://drafthouse.com/raleigh/show/the-front-room): Mon 9/9 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Tue 9/10 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Wed 9/11 (12:45pm, 3:45pm, 6:45pm, 9:45pm)
+
+    * [Twisters](https://drafthouse.com/raleigh/show/twisters): Thu 9/5 (11:45am, 3:30pm, 6:45pm, 10:00pm), Fri 9/6 (12:45pm, 4:15pm, 7:45pm, 10:50pm), Sat 9/7 (11:15am, 2:45pm, 6:15pm, 9:45pm), Sun 9/8 (11:15am, 2:45pm, 6:15pm, 9:30pm), Mon 9/9 (11:15am, 2:45pm, 6:15pm, 9:45pm), Tue 9/10 (11:15am, 2:45pm, 6:15pm, 9:45pm), Wed 9/11 (11:15am, 2:45pm, 6:15pm, 9:45pm)
+
 ### Tue 9/3 5:21pm
 
 * New screenings: 
