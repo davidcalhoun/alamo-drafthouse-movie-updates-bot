@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 9/3 5:21pm
+
+* New screenings: 
+    * [Movie Party The Rocky Horror Picture Show](https://drafthouse.com/raleigh/show/movie-party-the-rocky-horror-picture-show): Tue 10/29 (6:00pm)
+
 ### Thu 8/29 8:42am
 * New movies: The Substance, Speak No Evil 2024, The Substance
 
