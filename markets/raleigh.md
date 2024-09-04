@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 9/4 2:27pm
+* New movies: Heavenly Bodies
+
+* New screenings: 
+    * [Heavenly Bodies](https://drafthouse.com/raleigh/show/heavenly-bodies): Mon 9/16 (9:45pm)
+
 ### Tue 9/3 9:43pm
 * New movies: Dark Angel: The Ascent, Doppelganger
 
