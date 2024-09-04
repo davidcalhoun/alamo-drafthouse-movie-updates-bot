@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Tue 9/3 9:43pm
+* New movies: Dark Angel: The Ascent, Doppelganger
+
+* New screenings: 
+    * [Weird Wednesday Dark Angel The Ascent](https://drafthouse.com/raleigh/show/weird-wednesday-dark-angel-the-ascent): Wed 10/23 (9:00pm)
+
+    * [Weird Wednesday Doppelganger](https://drafthouse.com/raleigh/show/weird-wednesday-doppelganger): Wed 10/16 (9:00pm)
+
 ### Tue 9/3 6:23pm
 * New movies: Point Break 1991
 
