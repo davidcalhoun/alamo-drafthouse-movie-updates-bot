@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 9/4 3:16pm
+
+* New screenings: 
+    * [The Rage Carrie 2](https://drafthouse.com/los-angeles/show/the-rage-carrie-2): Fri 10/11 (4:00pm)
+
 ### Wed 9/4 11:23am
 
 * New screenings: 
