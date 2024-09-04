@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 9/4 11:23am
+
+* New screenings: 
+    * [Inside Out 2](https://drafthouse.com/los-angeles/show/inside-out-2): Wed 9/4 (11:25am, 2:10pm)
+
 ### Tue 9/3 3:18pm
 
 * New screenings: 
