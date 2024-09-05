@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 9/5 5:37am
+* New movies: The Wild Robot
+
+* New screenings: 
+    * [The Wild Robot](https://drafthouse.com/los-angeles/show/the-wild-robot): Fri 9/27 (11:00am, 1:50pm, 4:45pm, 7:40pm, 10:35pm), Sat 9/28 (11:00am, 1:50pm, 4:45pm, 7:40pm, 10:35pm), Sun 9/29 (10:45am, 1:40pm, 4:40pm, 7:40pm), Mon 9/30 (11:00am, 1:50pm, 4:45pm, 7:40pm, 10:35pm), Tue 10/1 (11:00am, 1:50pm, 4:45pm, 7:40pm, 10:35pm), Wed 10/2 (11:00am, 1:50pm, 4:45pm, 7:40pm, 10:35pm)
+
 ### Wed 9/4 3:16pm
 
 * New screenings: 
