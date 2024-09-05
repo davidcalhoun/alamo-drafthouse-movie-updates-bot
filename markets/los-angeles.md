@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 9/5 8:19am
+* New movies: Shaun of the Dead
+
+* New screenings: 
+    * [Movie Party Shaun Of The Dead](https://drafthouse.com/los-angeles/show/movie-party-shaun-of-the-dead): Sun 10/13 (8:30pm), Wed 10/16 (6:00pm)
+
 ### Thu 9/5 5:37am
 * New movies: The Wild Robot
 
