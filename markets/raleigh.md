@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 9/5 8:44am
+* New movies: The Wild Robot
+
+* New screenings: 
+    * [The Wild Robot](https://drafthouse.com/raleigh/show/the-wild-robot): Thu 9/26 (3:30pm, 6:30pm, 9:30pm), Fri 9/27 (12:30pm, 3:30pm, 6:30pm), Sat 9/28 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sun 9/29 (12:30pm, 3:30pm, 6:30pm, 9:30pm)
+
 ### Wed 9/4 2:27pm
 * New movies: Heavenly Bodies
 
