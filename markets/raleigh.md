@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 9/5 11:23am
+* New movies: Shaun of the Dead
+
+* New screenings: 
+    * [Movie Party Shaun Of The Dead](https://drafthouse.com/raleigh/show/movie-party-shaun-of-the-dead): Sat 10/12 (10:00pm)
+
 ### Thu 9/5 8:44am
 * New movies: The Wild Robot
 
