@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 9/6 5:21pm
+* New movies: Look Into My Eyes
+
+* New screenings: 
+    * [Look Into My Eyes](https://drafthouse.com/raleigh/show/look-into-my-eyes): Tue 9/17 (6:00pm)
+
 ### Thu 9/5 11:23am
 * New movies: Shaun of the Dead
 
