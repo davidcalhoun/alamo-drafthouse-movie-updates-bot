@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 9/5 11:26pm
+
+* New screenings: 
+    * [Childs Play 2](https://drafthouse.com/los-angeles/show/childs-play-2): Wed 10/23 (7:00pm)
+
 ### Thu 9/5 8:19am
 * New movies: Shaun of the Dead
 
