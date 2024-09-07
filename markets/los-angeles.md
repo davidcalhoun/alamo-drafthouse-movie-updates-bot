@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Sat 9/7 12:18am
+* New movies: Nosferatu 1922
+
+* New screenings: 
+    * [Movie Party Ghostbusters 1984](https://drafthouse.com/los-angeles/show/movie-party-ghostbusters-1984): Sun 10/20 (1:40pm)
+
+    * [Nosferatu 1922](https://drafthouse.com/los-angeles/show/nosferatu-1922): Sat 10/5 (12:20pm)
+
 ### Thu 9/5 11:26pm
 
 * New screenings: 
