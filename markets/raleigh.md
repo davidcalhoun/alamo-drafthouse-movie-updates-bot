@@ -1,6 +1,52 @@
 # raleigh
 
 ## Movie updates
+### Mon 9/9 7:24pm
+* New movies: The Killer's Game, Dan Da Dan: First Encounter, Seeking Mavis Beacon, Clue, Clue
+
+* New screenings: 
+    * [1992](https://drafthouse.com/raleigh/show/1992): Thu 9/12 (1:45pm)
+
+    * [Afraid](https://drafthouse.com/raleigh/show/afraid): Thu 9/12 (4:30pm)
+
+    * [Alien Romulus](https://drafthouse.com/raleigh/show/alien-romulus): Thu 9/12 (11:30am, 2:45pm, 6:15pm, 9:45pm), Fri 9/13 (11:15am, 2:45pm, 6:15pm, 10:15pm), Sat 9/14 (11:15am, 2:45pm, 6:30pm, 10:00pm), Sun 9/15 (11:15am, 2:45pm, 6:00pm, 9:15pm), Mon 9/16 (12:00pm, 3:45pm, 7:15pm, 10:15pm), Tue 9/17 (12:00pm, 3:45pm, 7:15pm, 10:15pm), Wed 9/18 (11:15am, 2:45pm, 6:15pm, 9:30pm)
+
+    * [Beetlejuice Beetlejuice](https://drafthouse.com/raleigh/show/beetlejuice-beetlejuice): Thu 9/12 (11:00am, 12:00pm, 1:00pm, 1:30pm, 2:00pm, 3:00pm, 4:00pm, 4:30pm, 5:00pm, 6:00pm, 8:30pm, 9:00pm, 10:45pm), Fri 9/13 (11:00am, 11:30am, 12:00pm, 2:00pm, 2:30pm, 3:00pm, 5:00pm, 6:00pm, 8:00pm, 8:30pm, 9:00pm, 9:30pm), Sat 9/14 (12:00pm, 1:00pm, 3:00pm, 4:00pm, 5:30pm, 6:00pm, 7:00pm, 8:00pm, 8:30pm, 9:00pm, 9:30pm, 11:00pm), Sun 9/15 (11:00am, 1:30pm, 2:30pm, 3:30pm, 4:00pm, 4:30pm, 5:30pm, 6:30pm, 7:30pm, 8:30pm, 9:30pm, 10:30pm), Mon 9/16 (11:15am, 12:00pm, 1:00pm, 2:30pm, 3:00pm, 4:00pm, 5:30pm, 6:00pm, 6:30pm, 8:30pm, 9:00pm, 10:00pm), Tue 9/17 (11:15am, 12:00pm, 1:00pm, 2:30pm, 3:05pm, 3:30pm, 4:00pm, 5:30pm, 7:00pm, 8:30pm, 9:45pm, 10:00pm), Wed 9/18 (11:15am, 12:00pm, 1:00pm, 2:30pm, 3:00pm, 4:00pm, 5:30pm, 6:00pm, 7:00pm, 9:30pm, 10:00pm)
+
+    * [Blink Twice](https://drafthouse.com/raleigh/show/blink-twice): Thu 9/12 (11:45am, 4:30pm), Fri 9/13 (5:30pm), Sat 9/14 (4:15pm), Sun 9/15 (10:00pm), Mon 9/16 (3:30pm), Wed 9/18 (3:30pm)
+
+    * [Brunch Screenings Clue](https://drafthouse.com/raleigh/show/brunch-screenings-clue): Sat 9/14 (11:30am)
+
+    * [Clue](https://drafthouse.com/raleigh/show/clue): Sun 9/15 (12:30pm)
+
+    * [Dan Da Dan First Encounter](https://drafthouse.com/raleigh/show/dan-da-dan-first-encounter): Fri 9/13 (7:15pm), Sat 9/14 (4:30pm), Sun 9/15 (4:30pm), Mon 9/16 (10:00pm), Tue 9/17 (10:00pm), Wed 9/18 (10:45pm)
+
+    * [Deadpool And Wolverine](https://drafthouse.com/raleigh/show/deadpool-and-wolverine): Thu 9/12 (12:15pm, 3:45pm, 7:15pm, 10:30pm), Fri 9/13 (12:15pm, 3:45pm, 7:15pm, 10:30pm), Sat 9/14 (12:30pm, 3:45pm, 7:15pm, 10:45pm), Sun 9/15 (11:30am, 3:00pm, 6:15pm, 9:45pm), Mon 9/16 (12:30pm, 4:15pm, 7:30pm, 10:45pm), Tue 9/17 (12:30pm, 4:15pm, 6:30pm, 10:45pm), Wed 9/18 (12:30pm, 4:15pm, 7:30pm, 10:45pm)
+
+    * [Good One](https://drafthouse.com/raleigh/show/good-one): Thu 9/12 (11:15am)
+
+    * [Harry Potter And The Order Of The Phoenix](https://drafthouse.com/raleigh/show/harry-potter-and-the-order-of-the-phoenix): Tue 9/17 (11:30am)
+
+    * [It Ends With Us](https://drafthouse.com/raleigh/show/it-ends-with-us): Thu 9/12 (12:45pm, 4:00pm), Fri 9/13 (3:30pm), Sat 9/14 (1:00pm), Sun 9/15 (1:00pm), Mon 9/16 (11:45am), Tue 9/17 (11:45am), Wed 9/18 (11:45am)
+
+    * [Look Into My Eyes](https://drafthouse.com/raleigh/show/look-into-my-eyes): Mon 9/16 (11:30am), Wed 9/18 (11:30am)
+
+    * [Seeking Mavis Beacon](https://drafthouse.com/raleigh/show/seeking-mavis-beacon): Fri 9/13 (12:30pm, 6:30pm), Sat 9/14 (7:15pm), Sun 9/15 (7:15pm), Mon 9/16 (7:15pm), Tue 9/17 (3:30pm, 7:30pm), Wed 9/18 (3:30pm, 8:30pm)
+
+    * [Speak No Evil 2024](https://drafthouse.com/raleigh/show/speak-no-evil-2024): Sat 9/14 (11:15am, 2:45pm, 6:15pm, 9:15pm), Mon 9/16 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Tue 9/17 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Wed 9/18 (12:15pm, 3:15pm, 6:15pm, 9:15pm)
+
+    * [The Crow 2024](https://drafthouse.com/raleigh/show/the-crow-2024): Thu 9/12 (10:30pm)
+
+    * [The Deer Hunter](https://drafthouse.com/raleigh/show/the-deer-hunter): Thu 9/12 (12:30pm)
+
+    * [The Front Room](https://drafthouse.com/raleigh/show/the-front-room): Thu 9/12 (1:00pm, 3:45pm, 6:45pm, 9:45pm), Fri 9/13 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Sat 9/14 (12:15pm, 3:30pm, 6:45pm, 9:45pm), Sun 9/15 (11:45am, 3:45pm, 6:45pm, 9:45pm), Mon 9/16 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Tue 9/17 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Wed 9/18 (12:45pm, 3:45pm, 6:45pm, 9:45pm)
+
+    * [The Killers Game](https://drafthouse.com/raleigh/show/the-killers-game): Thu 9/12 (7:15pm, 10:15pm), Fri 9/13 (1:00pm, 4:30pm, 7:45pm, 10:45pm), Sat 9/14 (12:45pm, 4:45pm, 7:45pm, 10:45pm), Sun 9/15 (12:45pm, 4:30pm, 7:45pm, 10:45pm), Mon 9/16 (1:00pm, 4:30pm, 7:45pm, 10:45pm), Tue 9/17 (1:00pm, 4:30pm, 7:45pm, 10:45pm), Wed 9/18 (1:00pm, 4:30pm, 7:15pm, 10:45pm)
+
+    * [Twisters](https://drafthouse.com/raleigh/show/twisters): Thu 9/12 (7:45pm, 10:45pm), Fri 9/13 (11:45am), Sat 9/14 (10:15pm), Mon 9/16 (3:30pm), Tue 9/17 (6:30pm)
+
+    * [Will And Harper](https://drafthouse.com/raleigh/show/will-and-harper): Sat 9/14 (10:30pm), Sun 9/15 (10:15pm), Mon 9/16 (11:15am, 2:45pm, 6:15pm, 9:15pm), Tue 9/17 (11:15am, 2:45pm, 6:15pm, 9:15pm), Wed 9/18 (12:15pm, 3:45pm, 7:45pm, 10:15pm)
+
 ### Mon 9/9 1:22pm
 * New movies: Dismember the Alamo 2024
 
