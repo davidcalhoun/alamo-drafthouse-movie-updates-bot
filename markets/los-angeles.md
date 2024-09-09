@@ -1,6 +1,48 @@
 # los-angeles
 
 ## Movie updates
+### Mon 9/9 2:17pm
+* New movies: The Killer's Game, Clue, Beetlejuice Beetlejuice
+
+* New screenings: 
+    * [Alien Romulus](https://drafthouse.com/los-angeles/show/alien-romulus): Thu 9/12 (3:00pm, 6:10pm, 9:20pm), Fri 9/13 (11:25am, 2:35pm, 6:00pm, 9:00pm), Sat 9/14 (12:00pm, 3:10pm, 6:00pm, 9:10pm), Sun 9/15 (11:45am, 3:00pm, 6:10pm), Mon 9/16 (11:40am, 2:50pm, 6:00pm, 9:10pm), Tue 9/17 (11:50am, 3:00pm, 6:10pm, 9:20pm), Wed 9/18 (11:30am, 3:00pm, 6:10pm, 9:20pm)
+
+    * [Beetlejuice Beetlejuice](https://drafthouse.com/los-angeles/show/beetlejuice-beetlejuice): Thu 9/12 (1:40pm, 2:35pm, 3:45pm, 5:30pm, 6:40pm, 8:25pm, 9:00pm, 9:35pm), Fri 9/13 (11:40am, 12:20pm, 2:35pm, 3:15pm, 5:30pm, 6:10pm, 8:25pm, 9:10pm), Sat 9/14 (12:25pm, 2:35pm, 5:30pm, 6:00pm, 6:20pm, 8:25pm, 9:00pm, 9:20pm), Sun 9/15 (1:00pm, 2:50pm, 4:00pm, 5:45pm, 7:00pm), Mon 9/16 (11:00am, 11:45am, 1:50pm, 2:35pm, 4:40pm, 5:30pm, 6:40pm, 7:30pm, 8:25pm, 10:25pm), Tue 9/17 (11:45am, 12:15pm, 2:35pm, 3:10pm, 5:30pm, 6:00pm, 8:25pm, 9:00pm), Wed 9/18 (11:00am, 12:10pm, 1:50pm, 2:40pm, 4:40pm, 5:40pm, 8:40pm, 10:15pm)
+
+    * [Blink Twice](https://drafthouse.com/los-angeles/show/blink-twice): Thu 9/12 (2:00pm, 4:50pm, 7:45pm, 10:35pm), Fri 9/13 (12:40pm, 3:30pm, 6:20pm, 9:10pm), Sat 9/14 (11:25am, 3:20pm, 6:10pm, 9:10pm), Sun 9/15 (12:30pm, 3:25pm, 6:20pm), Mon 9/16 (12:30pm, 3:25pm, 6:15pm, 9:10pm), Tue 9/17 (12:30pm, 3:25pm, 6:20pm, 10:00pm), Wed 9/18 (12:30pm, 3:25pm, 6:20pm, 9:15pm)
+
+    * [Brunch Screenings Beetlejuice Beetlejuice Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-beetlejuice-beetlejuice-brunch): Sat 9/14 (11:40am), Sun 9/15 (11:50am)
+
+    * [Casa Bonita Mi Amor](https://drafthouse.com/los-angeles/show/casa-bonita-mi-amor): Sat 9/14 (11:00am), Wed 9/18 (11:50am)
+
+    * [Clue](https://drafthouse.com/los-angeles/show/clue): Mon 9/16 (11:15am), Tue 9/17 (11:15am)
+
+    * [Deadpool And Wolverine](https://drafthouse.com/los-angeles/show/deadpool-and-wolverine): Thu 9/12 (2:45pm)
+
+    * [Didi](https://drafthouse.com/los-angeles/show/didi): Thu 9/12 (1:45pm, 4:25pm, 7:10pm), Fri 9/13 (11:00am, 1:40pm, 7:10pm), Sat 9/14 (11:00am, 1:40pm, 7:10pm), Sun 9/15 (11:00am, 1:40pm, 7:10pm), Mon 9/16 (11:00am, 1:40pm, 7:10pm), Tue 9/17 (11:00am, 1:40pm, 7:10pm), Wed 9/18 (11:00am, 1:40pm, 7:10pm)
+
+    * [Friday The 13th Part Vi Jason Lives](https://drafthouse.com/los-angeles/show/friday-the-13th-part-vi-jason-lives): Fri 9/13 (10:00pm)
+
+    * [Harry Potter And The Order Of The Phoenix](https://drafthouse.com/los-angeles/show/harry-potter-and-the-order-of-the-phoenix): Sun 9/15 (11:10am), Tue 9/17 (4:25pm), Wed 9/18 (1:10pm)
+
+    * [Red Rooms](https://drafthouse.com/los-angeles/show/red-rooms): Thu 9/12 (4:10pm, 10:00pm), Fri 9/13 (5:45pm), Sat 9/14 (1:35pm), Mon 9/16 (10:00pm), Tue 9/17 (8:00pm)
+
+    * [Stalker](https://drafthouse.com/los-angeles/show/stalker): Thu 9/12 (3:10pm)
+
+    * [Star Trek The Motion Picture Directors Edition](https://drafthouse.com/los-angeles/show/star-trek-the-motion-picture-directors-edition): Mon 9/16 (3:10pm, 9:35pm), Tue 9/17 (9:15pm), Wed 9/18 (2:30pm)
+
+    * [Strange Darling](https://drafthouse.com/los-angeles/show/strange-darling): Thu 9/12 (2:25pm, 5:15pm, 8:00pm, 10:40pm), Fri 9/13 (11:15am, 2:00pm, 4:50pm, 7:30pm, 10:10pm), Sat 9/14 (11:15am, 2:00pm, 4:50pm, 7:30pm, 10:10pm), Sun 9/15 (11:15am, 2:00pm, 4:50pm, 7:35pm), Mon 9/16 (11:45am, 2:30pm, 5:20pm, 8:00pm, 10:40pm), Tue 9/17 (11:20am, 2:00pm, 4:50pm, 7:30pm, 10:10pm), Wed 9/18 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:40pm)
+
+    * [The Deer Hunter](https://drafthouse.com/los-angeles/show/the-deer-hunter): Fri 9/13 (12:00pm), Tue 9/17 (12:10pm)
+
+    * [The Front Room](https://drafthouse.com/los-angeles/show/the-front-room): Thu 9/12 (3:30pm, 9:55pm), Fri 9/13 (4:20pm, 9:50pm), Sat 9/14 (4:20pm, 9:50pm), Sun 9/15 (4:20pm), Mon 9/16 (4:20pm, 9:50pm), Tue 9/17 (4:20pm, 9:50pm), Wed 9/18 (4:20pm, 9:50pm)
+
+    * [The Killers Game](https://drafthouse.com/los-angeles/show/the-killers-game): Thu 9/12 (6:20pm, 9:15pm), Fri 9/13 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sat 9/14 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sun 9/15 (11:10am, 2:00pm, 4:55pm, 7:50pm), Mon 9/16 (12:50pm, 3:50pm, 6:50pm, 9:45pm), Tue 9/17 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Wed 9/18 (12:50pm, 3:45pm, 6:45pm, 9:40pm)
+
+    * [The Paragon](https://drafthouse.com/los-angeles/show/the-paragon): Thu 9/12 (1:40pm)
+
+    * [Will And Harper](https://drafthouse.com/los-angeles/show/will-and-harper): Thu 9/12 (10:10pm), Fri 9/13 (12:10pm, 3:20pm, 9:40pm), Sat 9/14 (12:10pm, 3:20pm, 9:40pm), Sun 9/15 (12:10pm, 3:20pm), Mon 9/16 (12:10pm, 3:20pm, 6:30pm, 9:40pm), Tue 9/17 (12:10pm, 3:20pm, 6:30pm, 9:40pm), Wed 9/18 (12:10pm, 3:20pm, 6:30pm, 9:40pm)
+
 ### Mon 9/9 10:17am
 * New movies: Dismember the Alamo 2024
 
