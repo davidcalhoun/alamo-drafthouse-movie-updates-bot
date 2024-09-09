@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 9/9 10:17am
+* New movies: Dismember the Alamo 2024
+
+* New screenings: 
+    * [Dismember The Alamo 2024](https://drafthouse.com/los-angeles/show/dismember-the-alamo-2024): Sat 10/26 (11:00am)
+
 ### Mon 9/9 6:25am
 * New movies: Joker: Folie A Deux, Joker: Folie A Deux
 
