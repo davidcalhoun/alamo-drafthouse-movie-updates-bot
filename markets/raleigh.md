@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 9/9 9:28am
+* New movies: Joker: Folie A Deux
+
+* New screenings: 
+    * [Joker Folie A Deux](https://drafthouse.com/raleigh/show/joker-folie-a-deux): Thu 10/3 (3:00pm, 4:00pm, 6:30pm, 7:30pm, 10:00pm, 11:00pm), Fri 10/4 (11:00am, 12:00pm, 2:30pm, 3:30pm, 6:00pm, 7:00pm, 9:30pm, 10:30pm), Sat 10/5 (10:30am, 11:30am, 2:00pm, 3:00pm, 5:30pm, 6:30pm, 9:00pm, 10:00pm), Sun 10/6 (10:30am, 11:30am, 2:00pm, 3:00pm, 5:30pm, 6:30pm, 9:00pm, 10:00pm)
+
 ### Fri 9/6 5:21pm
 * New movies: Look Into My Eyes
 
