@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Mon 9/9 6:25am
+* New movies: Joker: Folie A Deux, Joker: Folie A Deux
+
+* New screenings: 
+    * [Brunch Screenings Joker Folie A Deux Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-joker-folie-a-deux-brunch): Sat 10/5 (11:00am), Sun 10/6 (11:00am), Sat 10/12 (12:00pm)
+
+    * [Joker Folie A Deux](https://drafthouse.com/los-angeles/show/joker-folie-a-deux): Thu 10/3 (3:00pm, 3:30pm, 6:30pm, 7:00pm, 10:00pm, 10:30pm), Fri 10/4 (11:00am, 12:00pm, 2:30pm, 3:30pm, 6:00pm, 7:00pm, 9:30pm, 10:30pm), Sat 10/5 (12:00pm, 2:30pm, 3:30pm, 6:00pm, 7:00pm, 9:30pm, 10:30pm), Sun 10/6 (12:00pm, 2:30pm, 3:30pm, 6:00pm, 7:00pm), Mon 10/7 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Tue 10/8 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Wed 10/9 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Thu 10/10 (7:00pm, 10:30pm), Fri 10/11 (12:30pm, 3:45pm, 7:00pm, 10:30pm), Sat 10/12 (3:30pm, 7:00pm, 10:30pm), Sun 10/13 (12:00pm, 3:30pm, 7:00pm)
+
 ### Sat 9/7 12:18am
 * New movies: Nosferatu 1922
 
