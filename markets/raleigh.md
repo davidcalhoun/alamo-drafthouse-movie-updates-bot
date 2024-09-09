@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 9/9 1:22pm
+* New movies: Dismember the Alamo 2024
+
+* New screenings: 
+    * [Dismember The Alamo 2024](https://drafthouse.com/raleigh/show/dismember-the-alamo-2024): Sat 10/26 (12:00pm)
+
 ### Mon 9/9 9:28am
 * New movies: Joker: Folie A Deux
 
