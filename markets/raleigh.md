@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 9/10 11:23am
+* New movies: Tom Petty: Heartbreakers Beach Party
+
+* New screenings: 
+    * [Tom Petty Heartbreakers Beach Party](https://drafthouse.com/raleigh/show/tom-petty-heartbreakers-beach-party): Fri 9/20 (4:00pm)
+
 ### Tue 9/10 12:26am
 * New movies: Never Let Go 2024
 
