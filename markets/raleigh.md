@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 9/10 12:26am
+* New movies: Never Let Go 2024
+
+* New screenings: 
+    * [Never Let Go 2024](https://drafthouse.com/raleigh/show/never-let-go-2024): Thu 9/19 (7:15pm, 10:30pm), Fri 9/20 (1:00pm, 4:15pm, 7:15pm, 10:15pm), Sat 9/21 (1:00pm, 4:15pm, 7:15pm, 10:15pm), Sun 9/22 (1:00pm, 4:15pm, 7:15pm, 10:15pm)
+
 ### Mon 9/9 7:24pm
 * New movies: The Killer's Game, Dan Da Dan: First Encounter, Seeking Mavis Beacon, Clue, Clue
 
