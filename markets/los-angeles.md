@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 9/9 9:22pm
+* New movies: Never Let Go 2024
+
+* New screenings: 
+    * [Never Let Go 2024](https://drafthouse.com/los-angeles/show/never-let-go-2024): Thu 9/19 (7:30pm, 10:20pm), Fri 9/20 (11:10am, 2:00pm, 4:50pm, 7:45pm, 10:35pm), Sat 9/21 (11:10am, 2:00pm, 4:50pm, 7:45pm, 10:35pm), Sun 9/22 (11:30am, 2:20pm, 5:10pm, 8:00pm), Mon 9/23 (11:10am, 2:00pm, 4:50pm, 7:45pm, 10:35pm), Tue 9/24 (11:10am, 2:00pm, 4:50pm, 7:45pm, 10:35pm), Wed 9/25 (11:10am, 2:00pm, 4:50pm, 7:45pm, 10:35pm)
+
 ### Mon 9/9 2:17pm
 * New movies: The Killer's Game, Clue, Beetlejuice Beetlejuice
 
