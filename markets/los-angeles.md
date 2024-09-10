@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 9/10 8:19am
+* New movies: Tom Petty: Heartbreakers Beach Party
+
+* New screenings: 
+    * [Tom Petty Heartbreakers Beach Party](https://drafthouse.com/los-angeles/show/tom-petty-heartbreakers-beach-party): Thu 10/17 (7:15pm), Sun 10/20 (4:35pm)
+
 ### Mon 9/9 9:22pm
 * New movies: Never Let Go 2024
 
