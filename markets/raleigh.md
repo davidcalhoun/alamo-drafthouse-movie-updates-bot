@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Wed 9/11 2:30pm
+
+* New screenings: 
+    * [Harry Potter And The Goblet Of Fire](https://drafthouse.com/raleigh/show/harry-potter-and-the-goblet-of-fire): Thu 9/12 (7:15pm)
+
 ### Tue 9/10 11:23am
 * New movies: Tom Petty: Heartbreakers Beach Party
 
