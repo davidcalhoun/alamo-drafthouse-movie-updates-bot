@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 9/12 2:17pm
+
+* New screenings: 
+    * [The Fall1](https://drafthouse.com/los-angeles/show/the-fall1): Sun 10/20 (12:00pm)
+
 ### Thu 9/12 1:20pm
 * New movies: Frankie Freako, The Birthday, The Fall
 
