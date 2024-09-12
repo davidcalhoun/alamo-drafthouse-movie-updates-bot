@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Thu 9/12 4:24pm
+* New movies: The Birthday
+
+* New screenings: 
+    * [Movie Party Ghostbusters 1984](https://drafthouse.com/raleigh/show/movie-party-ghostbusters-1984): Sat 10/19 (2:30pm)
+
+    * [The Birthday](https://drafthouse.com/raleigh/show/the-birthday): Tue 10/1 (7:15pm)
+
 ### Thu 9/12 12:28am
 * New movies: Megalopolis
 
