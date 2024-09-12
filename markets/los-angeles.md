@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 9/11 9:23pm
+* New movies: Megalopolis
+
+* New screenings: 
+    * [Megalopolis](https://drafthouse.com/los-angeles/show/megalopolis): Thu 9/26 (6:30pm, 10:00pm), Fri 9/27 (11:30am, 3:00pm, 6:30pm, 10:00pm), Sat 9/28 (11:30am, 3:00pm, 6:30pm, 10:00pm), Sun 9/29 (11:30am, 3:00pm, 6:30pm), Mon 9/30 (12:00pm, 3:30pm, 6:30pm, 10:00pm), Tue 10/1 (12:00pm, 3:30pm, 6:30pm, 10:00pm), Wed 10/2 (11:30am, 3:00pm, 6:30pm, 10:00pm)
+
 ### Tue 9/10 8:19am
 * New movies: Tom Petty: Heartbreakers Beach Party
 
