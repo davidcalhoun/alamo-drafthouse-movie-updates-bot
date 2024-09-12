@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Thu 9/12 1:20pm
+* New movies: Frankie Freako, The Birthday, The Fall
+
+* New screenings: 
+    * [Frankie Freako](https://drafthouse.com/los-angeles/show/frankie-freako): Fri 10/4 (7:15pm), Sat 10/5 (3:00pm), Sun 10/6 (12:45pm)
+
+    * [The Birthday](https://drafthouse.com/los-angeles/show/the-birthday): Tue 10/1 (7:30pm)
+
+    * [The Fall1](https://drafthouse.com/los-angeles/show/the-fall1): Tue 10/15 (6:00pm), Sat 10/19 (4:10pm)
+
 ### Wed 9/11 9:23pm
 * New movies: Megalopolis
 
