@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 9/13 7:41pm
+* New movies: Will & Harper
+
+* New screenings: 
+    * [Fantastic Fest Presents Will Harper W Livestream Q A](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-will-harper-w-livestream-q-a): Sat 9/21 (3:00pm)
+
 ### Thu 9/12 2:17pm
 
 * New screenings: 
