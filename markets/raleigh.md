@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Sat 9/14 4:24pm
+* New movies: Will & Harper
+
+* New screenings: 
+    * [Fantastic Fest Presents Will Harper W Livestream Q A](https://drafthouse.com/raleigh/show/fantastic-fest-presents-will-harper-w-livestream-q-a): Sat 9/21 (6:00pm)
+
 ### Thu 9/12 4:24pm
 * New movies: The Birthday
 
