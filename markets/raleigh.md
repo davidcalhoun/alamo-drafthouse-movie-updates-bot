@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Mon 9/16 7:19pm
+
+* New screenings: 
+    * [Queer Film Theory 101 The Warriors](https://drafthouse.com/raleigh/show/queer-film-theory-101-the-warriors): Mon 9/23 (6:00pm)
+
+    * [Terror Tuesday Resident Evil](https://drafthouse.com/raleigh/show/terror-tuesday-resident-evil): Tue 9/17 (9:00pm)
+
 ### Mon 9/16 6:20pm
 * New movies: ¡Casa Bonita Mi Amor!
 
