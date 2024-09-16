@@ -1,6 +1,46 @@
 # raleigh
 
 ## Movie updates
+### Mon 9/16 6:20pm
+* New movies: ¡Casa Bonita Mi Amor!
+
+* New screenings: 
+    * [Alien Romulus](https://drafthouse.com/raleigh/show/alien-romulus): Thu 9/19 (12:15pm, 3:30pm), Fri 9/20 (10:15pm), Sat 9/21 (10:15pm), Sun 9/22 (10:15pm), Mon 9/23 (9:20pm), Tue 9/24 (10:30pm), Wed 9/25 (10:15pm)
+
+    * [Beetlejuice Beetlejuice](https://drafthouse.com/raleigh/show/beetlejuice-beetlejuice): Thu 9/19 (12:00pm, 1:00pm, 1:30pm, 3:00pm, 4:00pm, 7:00pm, 10:00pm), Fri 9/20 (11:00am, 1:00pm, 3:30pm, 4:00pm, 7:00pm, 10:00pm), Sat 9/21 (12:00pm, 1:00pm, 1:30pm, 3:00pm, 4:00pm, 7:00pm, 10:00pm), Sun 9/22 (1:15pm, 1:30pm, 4:00pm, 7:00pm, 10:00pm), Mon 9/23 (11:30am, 12:00pm, 3:00pm, 6:30pm, 9:30pm), Tue 9/24 (12:00pm, 1:30pm, 3:00pm, 7:00pm, 10:00pm), Wed 9/25 (1:00pm, 1:30pm, 4:00pm, 7:00pm, 10:00pm)
+
+    * [Blink Twice](https://drafthouse.com/raleigh/show/blink-twice): Thu 9/19 (3:15pm)
+
+    * [Casa Bonita Mi Amor](https://drafthouse.com/raleigh/show/casa-bonita-mi-amor): Fri 9/20 (2:00pm, 7:45pm), Sat 9/21 (4:30pm, 7:45pm), Sun 9/22 (4:30pm, 7:45pm), Mon 9/23 (2:30pm, 6:15pm), Tue 9/24 (4:30pm, 7:45pm), Wed 9/25 (4:30pm, 7:45pm)
+
+    * [Dan Da Dan First Encounter](https://drafthouse.com/raleigh/show/dan-da-dan-first-encounter): Fri 9/20 (11:30am), Mon 9/23 (1:00pm), Tue 9/24 (1:00pm), Wed 9/25 (11:30am)
+
+    * [Deadpool And Wolverine](https://drafthouse.com/raleigh/show/deadpool-and-wolverine): Thu 9/19 (11:15am, 2:30pm, 6:15pm, 9:30pm), Fri 9/20 (12:15pm, 3:45pm, 7:15pm, 10:30pm), Sat 9/21 (12:30pm, 3:45pm, 7:15pm, 10:30pm), Sun 9/22 (12:30pm, 3:45pm, 7:15pm, 10:30pm), Mon 9/23 (12:15pm, 3:30pm, 6:40pm, 10:00pm), Tue 9/24 (12:00pm, 3:30pm, 6:45pm, 10:00pm), Wed 9/25 (12:30pm, 3:45pm, 7:15pm, 10:30pm)
+
+    * [It Ends With Us](https://drafthouse.com/raleigh/show/it-ends-with-us): Thu 9/19 (2:00pm)
+
+    * [Look Into My Eyes](https://drafthouse.com/raleigh/show/look-into-my-eyes): Thu 9/19 (11:30am)
+
+    * [Never Let Go 2024](https://drafthouse.com/raleigh/show/never-let-go-2024): Fri 9/20 (1:00pm), Mon 9/23 (4:15pm, 7:15pm, 10:15pm), Tue 9/24 (1:15pm, 4:15pm, 7:30pm, 10:15pm), Wed 9/25 (1:15pm, 4:15pm, 7:15pm, 10:00pm)
+
+    * [Seeking Mavis Beacon](https://drafthouse.com/raleigh/show/seeking-mavis-beacon): Thu 9/19 (11:00am)
+
+    * [Speak No Evil 2024](https://drafthouse.com/raleigh/show/speak-no-evil-2024): Thu 9/19 (12:15pm, 3:30pm, 7:15pm, 10:30pm), Fri 9/20 (11:45am, 3:15pm, 6:15pm, 9:15pm), Sat 9/21 (11:45am, 2:45pm, 6:15pm, 9:15pm), Sun 9/22 (11:45am, 2:45pm, 6:15pm, 9:15pm), Mon 9/23 (11:30am, 2:45pm, 6:15pm, 9:10pm), Tue 9/24 (11:45am, 2:45pm, 6:15pm, 9:30pm), Wed 9/25 (11:45am, 2:45pm, 6:15pm, 9:15pm)
+
+    * [The Front Room](https://drafthouse.com/raleigh/show/the-front-room): Thu 9/19 (11:15am, 2:30pm), Sun 9/22 (11:00pm), Mon 9/23 (10:30pm), Tue 9/24 (10:45pm), Wed 9/25 (11:15pm)
+
+    * [The Killers Game](https://drafthouse.com/raleigh/show/the-killers-game): Thu 9/19 (12:45pm, 4:15pm, 7:45pm, 10:45pm), Fri 9/20 (12:45pm, 4:45pm, 6:45pm, 9:45pm), Sat 9/21 (12:45pm, 3:30pm, 6:45pm, 10:30pm), Sun 9/22 (12:45pm, 3:30pm, 6:45pm, 9:45pm), Mon 9/23 (12:30pm, 3:15pm, 6:30pm, 9:30pm), Tue 9/24 (12:45pm, 3:45pm, 7:15pm, 10:15pm), Wed 9/25 (12:45pm, 3:30pm, 6:45pm, 9:45pm)
+
+    * [The Muppet Movie](https://drafthouse.com/raleigh/show/the-muppet-movie): Wed 9/25 (5:30pm)
+
+    * [The Substance](https://drafthouse.com/raleigh/show/the-substance): Thu 9/19 (5:30pm, 9:00pm), Fri 9/20 (5:15pm, 8:45pm), Sat 9/21 (5:30pm, 7:00pm, 9:00pm), Sun 9/22 (9:30pm), Mon 9/23 (11:15am, 2:45pm, 3:45pm, 7:15pm, 9:45pm), Tue 9/24 (12:15pm, 3:15pm, 3:45pm, 7:15pm, 9:45pm), Wed 9/25 (11:15am, 1:45pm, 2:45pm, 6:15pm, 9:45pm, 10:15pm)
+
+    * [Tom Petty Heartbreakers Beach Party](https://drafthouse.com/raleigh/show/tom-petty-heartbreakers-beach-party): Thu 10/17 (7:30pm), Sun 10/20 (4:00pm)
+
+    * [Transformers One](https://drafthouse.com/raleigh/show/transformers-one): Thu 9/19 (6:00pm, 8:45pm), Fri 9/20 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 9/21 (9:15pm), Sun 9/22 (12:00pm, 3:15pm, 6:00pm, 9:00pm), Mon 9/23 (12:30pm, 1:00pm, 3:30pm, 4:00pm, 7:00pm, 10:00pm), Tue 9/24 (12:30pm, 1:00pm, 3:30pm, 4:00pm, 6:30pm, 9:30pm), Wed 9/25 (12:00pm, 12:30pm, 3:00pm, 3:30pm, 6:00pm, 9:00pm)
+
+    * [Will And Harper](https://drafthouse.com/raleigh/show/will-and-harper): Thu 9/19 (11:45am, 3:15pm, 6:45pm, 10:15pm), Fri 9/20 (12:00pm, 3:45pm, 7:30pm, 10:30pm), Sat 9/21 (12:30pm, 3:45pm, 9:45pm), Sun 9/22 (12:30pm, 3:45pm, 7:30pm, 10:30pm), Mon 9/23 (11:45am, 3:45pm, 7:30pm, 10:30pm), Tue 9/24 (11:15am, 2:30pm, 6:00pm, 9:45pm), Wed 9/25 (12:00pm, 3:45pm, 7:30pm, 10:30pm)
+
 ### Mon 9/16 2:31pm
 
 * New screenings: 
