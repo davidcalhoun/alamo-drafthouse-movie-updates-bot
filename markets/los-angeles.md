@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Mon 9/16 5:38am
+* New movies: Piece by Piece, Piece by Piece, Piece by Piece
+
+* New screenings: 
+    * [Brunch Screenings Piece By Piece Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-piece-by-piece-brunch): Sat 10/12 (11:15am), Sun 10/13 (11:15am)
+
+    * [Livestream Q A Piece By Piece](https://drafthouse.com/los-angeles/show/livestream-q-a-piece-by-piece): Tue 10/8 (6:30pm)
+
+    * [Piece By Piece](https://drafthouse.com/los-angeles/show/piece-by-piece): Thu 10/10 (4:45pm, 7:30pm, 10:15pm), Fri 10/11 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Sat 10/12 (2:00pm, 4:45pm, 7:30pm, 10:15pm), Sun 10/13 (2:00pm, 4:45pm, 7:30pm), Mon 10/14 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Tue 10/15 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Wed 10/16 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm)
+
 ### Fri 9/13 7:41pm
 * New movies: Will & Harper
 
