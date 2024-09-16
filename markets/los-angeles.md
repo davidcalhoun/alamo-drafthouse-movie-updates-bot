@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Mon 9/16 9:24am
+* New movies: Good Mythical Evening: Sexy, Scary, Stupid, Whitney Houston - The Concert for a New South Africa Durban
+
+* New screenings: 
+    * [Good Mythical Evening Sexy Scary Stupid](https://drafthouse.com/los-angeles/show/good-mythical-evening-sexy-scary-stupid): Fri 10/25 (6:15pm)
+
+    * [Whitney Houston The Concert For A New South Africa Durban](https://drafthouse.com/los-angeles/show/whitney-houston-the-concert-for-a-new-south-africa-durban): Wed 10/23 (7:15pm), Sun 10/27 (1:00pm)
+
 ### Mon 9/16 5:38am
 * New movies: Piece by Piece, Piece by Piece, Piece by Piece
 
