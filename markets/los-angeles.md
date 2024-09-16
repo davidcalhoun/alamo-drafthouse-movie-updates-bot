@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 9/16 4:16pm
+* New movies: THE FALL
+
+
+
 ### Mon 9/16 3:16pm
 * New movies: Wolfs
 
