@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 9/16 2:31pm
+
+* New screenings: 
+    * [Never Let Go 2024](https://drafthouse.com/raleigh/show/never-let-go-2024): Mon 9/23 (1:15pm)
+
 ### Mon 9/16 12:29pm
 * New movies: Good Mythical Evening: Sexy, Scary, Stupid, Whitney Houston - The Concert for a New South Africa Durban
 
