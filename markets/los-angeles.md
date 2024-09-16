@@ -1,6 +1,42 @@
 # los-angeles
 
 ## Movie updates
+### Mon 9/16 3:16pm
+* New movies: Wolfs
+
+* New screenings: 
+    * [Alien Romulus](https://drafthouse.com/los-angeles/show/alien-romulus): Thu 9/19 (4:10pm), Fri 9/20 (12:30pm), Sat 9/21 (11:10am), Sun 9/22 (1:50pm), Mon 9/23 (8:25pm), Tue 9/24 (10:00pm), Wed 9/25 (2:20pm)
+
+    * [Bad Lieutenant](https://drafthouse.com/los-angeles/show/bad-lieutenant): Sun 9/22 (8:15pm), Wed 9/25 (11:00am)
+
+    * [Beetlejuice Beetlejuice](https://drafthouse.com/los-angeles/show/beetlejuice-beetlejuice): Thu 9/19 (4:45pm, 7:00pm, 9:40pm, 10:00pm), Fri 9/20 (10:45am, 1:35pm, 4:30pm, 5:00pm, 7:30pm, 9:30pm, 10:25pm), Sat 9/21 (10:45am, 1:35pm, 4:30pm, 5:00pm, 7:30pm, 9:25pm, 10:25pm), Sun 9/22 (12:40pm, 3:35pm, 5:00pm, 6:30pm), Mon 9/23 (12:15pm, 3:10pm, 5:00pm, 6:00pm, 9:00pm, 9:25pm), Tue 9/24 (12:15pm, 3:10pm, 5:00pm, 6:00pm, 9:00pm, 9:30pm), Wed 9/25 (12:15pm, 3:10pm, 5:00pm, 6:00pm, 9:00pm, 9:30pm)
+
+    * [Blink Twice](https://drafthouse.com/los-angeles/show/blink-twice): Thu 9/19 (3:50pm), Fri 9/20 (3:50pm, 10:40pm), Sat 9/21 (3:50pm, 10:40pm), Sun 9/22 (3:50pm), Mon 9/23 (3:50pm, 10:35pm), Tue 9/24 (3:50pm, 10:35pm), Wed 9/25 (3:50pm, 10:35pm)
+
+    * [Casa Bonita Mi Amor](https://drafthouse.com/los-angeles/show/casa-bonita-mi-amor): Thu 9/19 (10:40pm), Fri 9/20 (2:00pm, 6:35pm), Sun 9/22 (5:35pm), Mon 9/23 (10:10pm), Tue 9/24 (11:10am, 1:50pm), Wed 9/25 (4:35pm)
+
+    * [Fantastic Fest Presents The Babadook 10th Anniversary](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-the-babadook-10th-anniversary): Thu 9/19 (10:15pm), Fri 9/20 (10:45pm), Sat 9/21 (9:45pm)
+
+    * [Harry Potter And The Half Blood Prince](https://drafthouse.com/los-angeles/show/harry-potter-and-the-half-blood-prince): Sat 9/21 (11:25am), Sun 9/22 (6:00pm), Mon 9/23 (3:30pm), Tue 9/24 (12:25pm)
+
+    * [My Old Ass](https://drafthouse.com/los-angeles/show/my-old-ass): Thu 9/19 (4:20pm, 7:45pm), Fri 9/20 (11:40am, 2:20pm, 8:00pm), Sat 9/21 (2:20pm, 8:00pm), Sun 9/22 (11:10am, 8:00pm), Mon 9/23 (11:40am, 2:20pm, 8:00pm), Tue 9/24 (11:40am, 2:20pm, 4:35pm, 8:00pm, 9:00pm), Wed 9/25 (11:35am, 2:20pm, 8:00pm)
+
+    * [Queer Film Theory 101 The Warriors](https://drafthouse.com/los-angeles/show/queer-film-theory-101-the-warriors): Mon 9/23 (5:30pm), Tue 9/24 (9:30pm), Wed 9/25 (9:50pm)
+
+    * [Speak No Evil 2024](https://drafthouse.com/los-angeles/show/speak-no-evil-2024): Thu 9/19 (3:30pm, 6:30pm, 10:25pm), Fri 9/20 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 9/21 (12:00pm, 3:00pm, 6:00pm, 9:30pm), Sun 9/22 (12:00pm, 3:00pm, 6:00pm), Mon 9/23 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Tue 9/24 (12:10pm, 3:10pm, 6:10pm, 9:10pm), Wed 9/25 (12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
+    * [Strange Darling](https://drafthouse.com/los-angeles/show/strange-darling): Thu 9/19 (3:10pm, 6:50pm), Fri 9/20 (1:00pm, 6:45pm), Sat 9/21 (1:00pm, 6:45pm), Sun 9/22 (1:00pm, 6:45pm), Mon 9/23 (1:00pm, 6:40pm), Tue 9/24 (1:00pm, 6:45pm), Wed 9/25 (11:30am, 6:45pm)
+
+    * [The Killers Game](https://drafthouse.com/los-angeles/show/the-killers-game): Thu 9/19 (2:40pm), Fri 9/20 (3:40pm), Sat 9/21 (3:10pm), Sun 9/22 (11:10am), Mon 9/23 (12:40pm), Tue 9/24 (4:05pm), Wed 9/25 (1:45pm, 5:30pm)
+
+    * [The Muppet Movie](https://drafthouse.com/los-angeles/show/the-muppet-movie): Fri 9/20 (11:15am), Mon 9/23 (11:15am), Wed 9/25 (11:30am)
+
+    * [The Substance](https://drafthouse.com/los-angeles/show/the-substance): Thu 9/19 (4:00pm, 8:45pm, 9:30pm), Fri 9/20 (2:10pm, 7:15pm, 8:50pm), Sat 9/21 (3:45pm, 9:00pm), Sun 9/22 (2:00pm, 2:35pm), Mon 9/23 (2:00pm, 2:10pm, 8:50pm), Tue 9/24 (2:10pm, 8:50pm), Wed 9/25 (2:15pm, 8:25pm, 8:50pm)
+
+    * [Will And Harper](https://drafthouse.com/los-angeles/show/will-and-harper): Thu 9/19 (3:00pm, 5:35pm), Fri 9/20 (11:00am, 5:45pm), Sat 9/21 (12:30pm, 6:30pm), Sun 9/22 (11:20am, 6:15pm), Mon 9/23 (11:00am, 5:45pm), Tue 9/24 (11:00am, 5:40pm), Wed 9/25 (12:40pm, 5:45pm)
+
+    * [Wolfs](https://drafthouse.com/los-angeles/show/wolfs): Thu 9/19 (4:10pm, 7:10pm, 10:10pm), Fri 9/20 (1:10pm, 4:10pm, 7:10pm, 10:10pm), Sat 9/21 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Sun 9/22 (1:10pm, 4:10pm, 7:10pm), Mon 9/23 (1:10pm, 4:10pm, 7:10pm, 10:10pm), Tue 9/24 (1:10pm, 4:10pm, 7:10pm, 10:10pm), Wed 9/25 (1:10pm, 4:10pm, 7:10pm, 10:10pm)
+
 ### Mon 9/16 9:24am
 * New movies: Good Mythical Evening: Sexy, Scary, Stupid, Whitney Houston - The Concert for a New South Africa Durban
 
