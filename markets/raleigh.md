@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Mon 9/16 8:47am
+* New movies: Piece by Piece, Piece by Piece
+
+* New screenings: 
+    * [Livestream Q A Piece By Piece](https://drafthouse.com/raleigh/show/livestream-q-a-piece-by-piece): Tue 10/8 (7:30pm)
+
+    * [Piece By Piece](https://drafthouse.com/raleigh/show/piece-by-piece): Thu 10/10 (3:30pm, 6:30pm, 9:30pm), Fri 10/11 (12:30pm, 3:30pm, 6:30pm, 10:15pm), Sat 10/12 (12:30pm, 3:30pm, 6:30pm, 9:15pm), Sun 10/13 (12:30pm, 3:30pm, 6:15pm, 9:15pm)
+
 ### Sat 9/14 4:24pm
 * New movies: Will & Harper
 
