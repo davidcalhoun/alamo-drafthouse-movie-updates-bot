@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 9/17 8:45am
+* New movies: Killer Heat
+
+* New screenings: 
+    * [Free Victory Screening Killer Heat](https://drafthouse.com/raleigh/show/free-victory-screening-killer-heat): Tue 9/24 (7:15pm)
+
 ### Mon 9/16 7:19pm
 
 * New screenings: 
