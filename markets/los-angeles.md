@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 9/17 5:37am
+* New movies: Killer Heat
+
+* New screenings: 
+    * [Free Victory Screening Killer Heat](https://drafthouse.com/los-angeles/show/free-victory-screening-killer-heat): Tue 9/24 (7:00pm)
+
 ### Mon 9/16 4:16pm
 * New movies: THE FALL
 
