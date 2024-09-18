@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 9/18 3:19pm
+* New movies: Zurawski v Texas
+
+* New screenings: 
+    * [Special Event Zurawski V Texas Complimentary Screening](https://drafthouse.com/raleigh/show/special-event-zurawski-v-texas-complimentary-screening): Wed 9/25 (7:30pm)
+
 ### Tue 9/17 8:45am
 * New movies: Killer Heat
 
