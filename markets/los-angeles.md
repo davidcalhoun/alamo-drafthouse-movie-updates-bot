@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 9/19 1:20pm
+
+* New screenings: 
+    * [The Wild Robot](https://drafthouse.com/los-angeles/show/the-wild-robot): Thu 9/26 (2:00pm, 4:50pm, 7:45pm, 10:40pm)
+
 ### Tue 9/17 5:37am
 * New movies: Killer Heat
 
