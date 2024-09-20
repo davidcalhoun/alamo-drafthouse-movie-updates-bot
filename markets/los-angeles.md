@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 9/20 4:18pm
+* New movies: Azrael
+
+* New screenings: 
+    * [Live Q A Azrael](https://drafthouse.com/los-angeles/show/live-q-a-azrael): Fri 9/27 (7:20pm), Sat 9/28 (7:20pm)
+
 ### Fri 9/20 7:18am
 * New movies: La Maquina
 
