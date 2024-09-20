@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 9/20 7:18am
+* New movies: La Maquina
+
+* New screenings: 
+    * [Free Victory Screening La Maquina](https://drafthouse.com/los-angeles/show/free-victory-screening-la-maquina): Wed 10/2 (6:30pm)
+
 ### Thu 9/19 1:20pm
 
 * New screenings: 
