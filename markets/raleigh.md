@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Sun 9/22 7:23pm
+
+* New screenings: 
+    * [Beetlejuice Beetlejuice](https://drafthouse.com/raleigh/show/beetlejuice-beetlejuice): Sun 9/22 (10:30pm)
+
 ### Sun 9/22 10:20am
 
 * New screenings: 
