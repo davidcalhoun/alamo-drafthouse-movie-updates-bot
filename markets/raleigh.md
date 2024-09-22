@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Sun 9/22 10:20am
+
+* New screenings: 
+    * [Beetlejuice Beetlejuice](https://drafthouse.com/raleigh/show/beetlejuice-beetlejuice): Sun 9/22 (12:30pm)
+
 ### Wed 9/18 3:19pm
 * New movies: Zurawski v Texas
 
