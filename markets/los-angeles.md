@@ -1,6 +1,46 @@
 # los-angeles
 
 ## Movie updates
+### Mon 9/23 1:22pm
+* New movies: Sleep, Azrael
+
+* New screenings: 
+    * [Azrael](https://drafthouse.com/los-angeles/show/azrael): Sun 9/29 (7:40pm), Mon 9/30 (9:50pm), Tue 10/1 (4:50pm, 10:20pm)
+
+    * [Beetlejuice Beetlejuice](https://drafthouse.com/los-angeles/show/beetlejuice-beetlejuice): Thu 9/26 (4:15pm, 7:15pm, 10:10pm), Fri 9/27 (10:45am, 1:40pm, 4:35pm, 7:30pm, 10:25pm), Sat 9/28 (10:45am, 1:40pm, 4:35pm, 7:30pm, 10:25pm), Sun 9/29 (10:45am, 1:40pm, 4:35pm, 8:00pm), Mon 9/30 (10:45am, 1:40pm, 4:35pm, 7:30pm, 10:25pm), Tue 10/1 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:40pm), Wed 10/2 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:25pm)
+
+    * [Being There](https://drafthouse.com/los-angeles/show/being-there): Mon 9/30 (3:10pm), Wed 10/2 (10:10pm)
+
+    * [Blink Twice](https://drafthouse.com/los-angeles/show/blink-twice): Thu 9/26 (4:30pm)
+
+    * [Casa Bonita Mi Amor](https://drafthouse.com/los-angeles/show/casa-bonita-mi-amor): Thu 9/26 (10:45pm)
+
+    * [Harry Potter And The Deathly Hallows Part 1](https://drafthouse.com/los-angeles/show/harry-potter-and-the-deathly-hallows-part-1): Mon 9/30 (11:35am), Tue 10/1 (1:15pm)
+
+    * [Hoop Dreams](https://drafthouse.com/los-angeles/show/hoop-dreams): Mon 9/30 (12:25pm), Wed 10/2 (12:30pm)
+
+    * [Megalopolis](https://drafthouse.com/los-angeles/show/megalopolis): Thu 9/26 (7:00pm, 9:00pm, 9:25pm), Fri 9/27 (12:15pm, 5:30pm, 9:00pm), Sat 9/28 (12:20pm, 5:30pm, 9:00pm), Sun 9/29 (4:10pm, 5:30pm), Mon 9/30 (5:30pm, 9:00pm), Tue 10/1 (5:40pm, 9:10pm), Wed 10/2 (8:35pm)
+
+    * [My Old Ass](https://drafthouse.com/los-angeles/show/my-old-ass): Thu 9/26 (3:50pm, 6:45pm, 10:30pm), Fri 9/27 (11:00am, 1:40pm, 4:20pm, 7:00pm, 9:45pm), Sat 9/28 (11:00am, 1:40pm, 4:20pm, 7:00pm, 9:45pm), Sun 9/29 (11:00am, 1:40pm, 4:20pm, 7:00pm), Mon 9/30 (11:00am, 1:40pm, 4:20pm, 7:00pm, 9:45pm), Tue 10/1 (11:20am, 2:00pm, 4:35pm, 7:15pm, 9:55pm), Wed 10/2 (11:00am, 1:40pm, 4:20pm, 7:00pm, 9:40pm)
+
+    * [Never Let Go 2024](https://drafthouse.com/los-angeles/show/never-let-go-2024): Thu 9/26 (5:10pm, 8:00pm, 10:45pm), Fri 9/27 (11:30am, 2:20pm, 5:10pm, 8:00pm, 10:45pm), Sat 9/28 (11:30am, 2:20pm, 5:10pm, 8:00pm, 10:45pm), Sun 9/29 (11:30am, 2:20pm, 5:10pm, 8:00pm), Mon 9/30 (11:30am, 2:20pm, 5:10pm, 8:00pm, 10:45pm), Tue 10/1 (11:30am, 2:20pm, 5:10pm, 8:00pm, 10:45pm), Wed 10/2 (11:30am, 2:20pm, 5:10pm, 8:00pm, 10:45pm)
+
+    * [Sleep](https://drafthouse.com/los-angeles/show/sleep): Fri 9/27 (11:00am, 10:15pm), Sat 9/28 (3:50pm), Sun 9/29 (1:25pm), Mon 9/30 (4:30pm, 10:00pm), Tue 10/1 (12:45pm), Wed 10/2 (12:15pm)
+
+    * [Speak No Evil 2024](https://drafthouse.com/los-angeles/show/speak-no-evil-2024): Thu 9/26 (3:40pm, 6:45pm, 9:45pm), Fri 9/27 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Sat 9/28 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Sun 9/29 (12:45pm, 3:45pm, 7:30pm), Mon 9/30 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Tue 10/1 (11:30am, 3:30pm, 6:00pm, 9:00pm), Wed 10/2 (12:00pm, 3:00pm, 6:20pm, 9:20pm)
+
+    * [Strange Darling](https://drafthouse.com/los-angeles/show/strange-darling): Thu 9/26 (3:30pm), Sat 9/28 (10:15pm), Wed 10/2 (10:15pm)
+
+    * [The Jerk](https://drafthouse.com/los-angeles/show/the-jerk): Tue 10/1 (10:00pm), Wed 10/2 (4:30pm)
+
+    * [The Substance](https://drafthouse.com/los-angeles/show/the-substance): Thu 9/26 (3:15pm, 6:15pm, 9:45pm), Fri 9/27 (11:10am, 2:40pm, 6:10pm, 9:40pm), Sat 9/28 (11:10am, 2:40pm, 6:10pm, 9:40pm), Sun 9/29 (11:10am, 2:40pm, 6:10pm), Mon 9/30 (11:10am, 2:40pm, 6:10pm, 9:40pm), Tue 10/1 (11:10am, 2:40pm, 6:10pm, 9:40pm), Wed 10/2 (11:15am, 2:45pm, 6:45pm, 9:50pm)
+
+    * [The Wild Robot](https://drafthouse.com/los-angeles/show/the-wild-robot): Thu 9/26 (4:10pm, 6:00pm), Fri 9/27 (11:45am, 2:40pm, 3:45pm, 6:40pm), Sat 9/28 (11:45am, 2:40pm, 6:40pm), Sun 9/29 (11:45am, 2:40pm, 6:45pm), Mon 9/30 (11:45am, 2:40pm), Tue 10/1 (12:00pm, 2:50pm), Wed 10/2 (1:00pm, 3:50pm)
+
+    * [Transformers One](https://drafthouse.com/los-angeles/show/transformers-one): Thu 9/26 (3:10pm, 6:00pm, 9:00pm), Fri 9/27 (12:15pm, 3:10pm, 6:00pm, 9:00pm), Sat 9/28 (12:15pm, 3:10pm, 6:00pm, 9:00pm), Sun 9/29 (12:15pm, 3:10pm, 6:00pm), Mon 9/30 (12:15pm, 3:10pm, 6:00pm, 9:00pm), Tue 10/1 (1:00pm, 3:55pm, 6:45pm, 9:40pm), Wed 10/2 (12:25pm, 3:20pm, 6:10pm, 9:00pm)
+
+    * [Wolfs](https://drafthouse.com/los-angeles/show/wolfs): Thu 9/26 (3:00pm, 4:25pm)
+
 ### Mon 9/23 5:38am
 * New movies: A Different Man
 
