@@ -1,6 +1,36 @@
 # raleigh
 
 ## Movie updates
+### Mon 9/23 6:24pm
+* New movies: My Old Ass, Azrael
+
+* New screenings: 
+    * [Azrael](https://drafthouse.com/raleigh/show/azrael): Thu 9/26 (10:30pm)
+
+    * [Beetlejuice Beetlejuice](https://drafthouse.com/raleigh/show/beetlejuice-beetlejuice): Thu 9/26 (12:00pm, 12:45pm, 1:30pm, 3:30pm, 3:30pm, 6:15pm, 9:15pm, 11:00pm)
+
+    * [Casa Bonita Mi Amor](https://drafthouse.com/raleigh/show/casa-bonita-mi-amor): Thu 9/26 (12:15pm, 3:15pm)
+
+    * [Deadpool And Wolverine](https://drafthouse.com/raleigh/show/deadpool-and-wolverine): Thu 9/26 (12:45pm, 4:00pm)
+
+    * [Harry Potter And The Half Blood Prince](https://drafthouse.com/raleigh/show/harry-potter-and-the-half-blood-prince): Thu 9/26 (7:00pm)
+
+    * [My Old Ass](https://drafthouse.com/raleigh/show/my-old-ass): Thu 9/26 (4:00pm, 7:15pm, 10:15pm)
+
+    * [Never Let Go 2024](https://drafthouse.com/raleigh/show/never-let-go-2024): Thu 9/26 (1:15pm, 4:30pm, 7:30pm, 10:15pm)
+
+    * [Speak No Evil 2024](https://drafthouse.com/raleigh/show/speak-no-evil-2024): Thu 9/26 (12:15pm, 3:15pm, 6:45pm, 9:45pm)
+
+    * [The Killers Game](https://drafthouse.com/raleigh/show/the-killers-game): Thu 9/26 (10:00pm)
+
+    * [The Substance](https://drafthouse.com/raleigh/show/the-substance): Thu 9/26 (11:15am, 2:45pm, 6:15pm, 9:45pm)
+
+    * [The Wild Robot](https://drafthouse.com/raleigh/show/the-wild-robot): Thu 9/26 (4:30pm, 7:30pm)
+
+    * [Transformers One](https://drafthouse.com/raleigh/show/transformers-one): Thu 9/26 (11:45am, 12:30pm, 2:45pm, 6:00pm, 9:00pm)
+
+    * [Will And Harper](https://drafthouse.com/raleigh/show/will-and-harper): Thu 9/26 (1:00pm)
+
 ### Mon 9/23 12:28pm
 
 * New screenings: 
