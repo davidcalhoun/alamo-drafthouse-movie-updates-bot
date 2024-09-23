@@ -1,6 +1,33 @@
 # raleigh
 
 ## Movie updates
+### Mon 9/23 7:22pm
+
+* New screenings: 
+    * [Azrael](https://drafthouse.com/raleigh/show/azrael): Fri 9/27 (10:15pm), Sat 9/28 (9:15pm), Sun 9/29 (10:15pm, 11:00pm), Mon 9/30 (10:00pm), Tue 10/1 (10:15pm), Wed 10/2 (10:45pm)
+
+    * [Beetlejuice Beetlejuice](https://drafthouse.com/raleigh/show/beetlejuice-beetlejuice): Fri 9/27 (12:30pm, 3:30pm, 6:45pm, 9:45pm), Sat 9/28 (12:00pm, 3:30pm, 7:00pm, 9:45pm), Sun 9/29 (12:15pm, 3:15pm, 6:45pm, 9:45pm), Mon 9/30 (12:15pm, 3:15pm, 6:45pm, 9:45pm), Tue 10/1 (11:45am, 3:15pm, 6:45pm, 9:45pm), Wed 10/2 (11:45am, 3:15pm, 7:15pm, 9:15pm)
+
+    * [Deadpool And Wolverine](https://drafthouse.com/raleigh/show/deadpool-and-wolverine): Fri 9/27 (12:45pm, 4:00pm), Sat 9/28 (3:00pm, 4:00pm), Sun 9/29 (11:00am, 2:15pm), Mon 9/30 (1:00pm, 2:00pm), Tue 10/1 (1:00pm, 4:00pm), Wed 10/2 (12:45pm, 4:00pm)
+
+    * [Megalopolis](https://drafthouse.com/raleigh/show/megalopolis): Fri 9/27 (7:15pm), Sat 9/28 (7:10pm), Sun 9/29 (6:00pm), Mon 9/30 (11:00am, 2:30pm, 5:30pm, 6:00pm, 9:30pm), Tue 10/1 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Wed 10/2 (11:00am, 2:30pm, 6:00pm, 9:30pm)
+
+    * [My Old Ass](https://drafthouse.com/raleigh/show/my-old-ass): Fri 9/27 (12:15pm, 3:00pm, 6:15pm, 7:15pm, 9:15pm), Sat 9/28 (1:00pm, 4:15pm, 6:15pm, 7:15pm, 10:15pm), Sun 9/29 (11:30am, 1:30pm, 3:00pm, 4:00pm, 6:15pm, 9:15pm), Mon 9/30 (12:00pm, 2:45pm, 4:45pm, 6:15pm, 7:15pm, 9:15pm, 10:15pm), Tue 10/1 (12:45pm, 3:45pm, 4:45pm, 6:15pm, 7:15pm, 9:15pm), Wed 10/2 (1:00pm, 3:00pm, 3:45pm, 5:30pm, 6:15pm, 8:00pm, 9:15pm)
+
+    * [Never Let Go 2024](https://drafthouse.com/raleigh/show/never-let-go-2024): Fri 9/27 (1:00pm, 4:30pm, 7:30pm, 10:15pm), Sat 9/28 (1:00pm, 4:30pm, 7:45pm, 10:45pm), Sun 9/29 (12:45pm, 4:15pm, 7:45pm, 10:45pm), Mon 9/30 (12:45pm, 4:15pm, 7:45pm, 10:45pm), Tue 10/1 (1:00pm, 4:15pm, 7:45pm, 10:45pm), Wed 10/2 (1:00pm, 4:30pm, 7:45pm, 10:30pm)
+
+    * [Speak No Evil 2024](https://drafthouse.com/raleigh/show/speak-no-evil-2024): Fri 9/27 (12:15pm, 3:15pm, 6:15pm, 9:10pm), Sat 9/28 (11:45am, 3:00pm, 6:15pm, 9:15pm), Sun 9/29 (11:45am, 3:30pm, 7:15pm, 10:25pm), Mon 9/30 (11:45am, 3:30pm, 7:15pm, 10:30pm), Tue 10/1 (12:15pm, 3:45pm, 7:15pm, 10:25pm), Wed 10/2 (12:15pm, 3:45pm, 6:15pm, 10:15pm)
+
+    * [The Killers Game](https://drafthouse.com/raleigh/show/the-killers-game): Fri 9/27 (10:45pm), Sat 9/28 (10:30pm), Sun 9/29 (10:00pm), Mon 9/30 (9:30pm), Tue 10/1 (10:00pm), Wed 10/2 (10:00pm)
+
+    * [The Substance](https://drafthouse.com/raleigh/show/the-substance): Fri 9/27 (11:30am, 3:15pm, 6:45pm, 10:15pm), Sat 9/28 (11:15am, 3:15pm, 6:45pm, 10:30pm), Sun 9/29 (12:00pm, 4:00pm, 6:45pm, 10:00pm), Mon 9/30 (11:30am, 3:15pm, 6:45pm, 10:15pm), Tue 10/1 (11:30am, 3:00pm, 6:45pm, 10:15pm), Wed 10/2 (11:30am, 3:15pm, 6:45pm, 10:15pm)
+
+    * [The Wild Robot](https://drafthouse.com/raleigh/show/the-wild-robot): Fri 9/27 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sat 9/28 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Sun 9/29 (5:00pm, 8:00pm), Mon 9/30 (12:30pm, 1:00pm, 3:30pm, 4:00pm, 7:00pm, 9:00pm), Tue 10/1 (11:30am, 12:30pm, 2:30pm, 3:15pm, 6:00pm, 6:30pm, 9:30pm), Wed 10/2 (12:30pm, 1:00pm, 3:30pm, 4:00pm, 6:20pm, 7:00pm, 10:00pm)
+
+    * [Transformers One](https://drafthouse.com/raleigh/show/transformers-one): Fri 9/27 (12:00pm, 4:00pm, 6:00pm, 9:00pm), Sat 9/28 (12:30pm, 3:45pm, 6:30pm, 9:30pm), Sun 9/29 (11:15am, 2:30pm, 6:15pm, 9:00pm), Mon 9/30 (11:15am, 2:30pm, 6:00pm, 9:00pm), Tue 10/1 (11:15am, 2:45pm, 6:15pm, 9:15pm), Wed 10/2 (11:15am, 2:45pm, 6:45pm, 9:30pm)
+
+    * [Will And Harper](https://drafthouse.com/raleigh/show/will-and-harper): Sat 9/28 (12:45pm), Mon 9/30 (11:00am), Tue 10/1 (12:45pm), Wed 10/2 (12:00pm)
+
 ### Mon 9/23 6:24pm
 * New movies: My Old Ass, Azrael
 
