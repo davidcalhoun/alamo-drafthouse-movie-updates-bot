@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 9/23 12:28pm
+
+* New screenings: 
+    * [Alien Romulus](https://drafthouse.com/raleigh/show/alien-romulus): Mon 9/23 (10:30pm)
+
 ### Sun 9/22 7:23pm
 
 * New screenings: 
