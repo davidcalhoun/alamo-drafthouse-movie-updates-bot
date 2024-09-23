@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 9/23 5:38am
+* New movies: A Different Man
+
+* New screenings: 
+    * [A Different Man](https://drafthouse.com/los-angeles/show/a-different-man): Thu 9/26 (7:30pm, 10:30pm), Fri 9/27 (12:20pm, 3:20pm, 6:20pm, 9:20pm), Sat 9/28 (12:20pm, 3:20pm, 6:20pm, 9:20pm), Sun 9/29 (12:20pm, 3:20pm, 6:20pm), Mon 9/30 (12:20pm, 3:20pm, 6:20pm, 9:20pm), Tue 10/1 (12:20pm, 3:20pm, 6:20pm, 9:20pm), Wed 10/2 (12:45pm, 3:45pm, 6:50pm, 9:55pm)
+
 ### Fri 9/20 4:18pm
 * New movies: Azrael
 
