@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 9/24 3:18pm
+* New movies: Plastic
+
+* New screenings: 
+    * [Frankie Freako](https://drafthouse.com/los-angeles/show/frankie-freako): Mon 10/7 (10:00pm), Tue 10/8 (10:15pm), Wed 10/9 (10:10pm)
+
+    * [Plastic](https://drafthouse.com/los-angeles/show/plastic): Sat 11/2 (3:00pm)
+
 ### Tue 9/24 2:17pm
 * New movies: The Taking of Deborah Logan
 
