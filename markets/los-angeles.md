@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 9/24 2:17pm
+* New movies: The Taking of Deborah Logan
+
+* New screenings: 
+    * [Live Q A The Taking Of Deborah Logan](https://drafthouse.com/los-angeles/show/live-q-a-the-taking-of-deborah-logan): Mon 10/21 (7:30pm)
+
 ### Mon 9/23 1:22pm
 * New movies: Sleep, Azrael
 
