@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 9/24 12:30pm
+
+* New screenings: 
+    * [The Killers Game](https://drafthouse.com/raleigh/show/the-killers-game): Tue 9/24 (12:30pm)
+
 ### Mon 9/23 7:22pm
 
 * New screenings: 
