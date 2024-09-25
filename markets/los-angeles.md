@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 9/24 6:37pm
+* New movies: The Devil's Bath
+
+* New screenings: 
+    * [The Devils Bath](https://drafthouse.com/los-angeles/show/the-devils-bath): Wed 11/13 (7:15pm)
+
 ### Tue 9/24 3:18pm
 * New movies: Plastic
 
