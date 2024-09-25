@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 9/25 6:27am
+* New movies: Saturday Night
+
+* New screenings: 
+    * [Saturday Night](https://drafthouse.com/los-angeles/show/saturday-night): Thu 10/3 (1:50pm, 4:45pm, 7:45pm, 10:40pm), Fri 10/4 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Sat 10/5 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Sun 10/6 (10:45am, 1:45pm, 4:45pm, 7:45pm), Mon 10/7 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:45pm), Tue 10/8 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:45pm), Wed 10/9 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:45pm)
+
 ### Tue 9/24 6:37pm
 * New movies: The Devil's Bath
 
