@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 9/25 4:18pm
+
+* New screenings: 
+    * [Harry Potter And The Deathly Hallows Part 1](https://drafthouse.com/los-angeles/show/harry-potter-and-the-deathly-hallows-part-1): Tue 10/1 (11:15am), Wed 10/2 (2:25pm)
+
 ### Wed 9/25 6:27am
 * New movies: Saturday Night
 
