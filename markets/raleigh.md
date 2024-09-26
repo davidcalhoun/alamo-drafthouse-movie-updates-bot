@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Thu 9/26 2:30pm
+
+* New screenings: 
+    * [Harry Potter And The Half Blood Prince](https://drafthouse.com/raleigh/show/harry-potter-and-the-half-blood-prince): Thu 10/3 (11:15am)
+
 ### Tue 9/24 12:30pm
 
 * New screenings: 
