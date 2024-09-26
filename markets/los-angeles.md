@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 9/26 3:18pm
+* New movies: The Apprentice
+
+* New screenings: 
+    * [The Apprentice](https://drafthouse.com/los-angeles/show/the-apprentice): Thu 10/10 (4:00pm, 7:15pm, 10:30pm), Fri 10/11 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Sat 10/12 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Sun 10/13 (12:15pm, 3:30pm, 6:45pm), Mon 10/14 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Tue 10/15 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Wed 10/16 (12:15pm, 3:30pm, 6:45pm, 10:00pm)
+
 ### Thu 9/26 1:20pm
 * New movies: Terrifier 3
 
