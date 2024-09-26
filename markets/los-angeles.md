@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 9/26 1:20pm
+* New movies: Terrifier 3
+
+* New screenings: 
+    * [Terrifier 3](https://drafthouse.com/los-angeles/show/terrifier-3): Thu 10/10 (8:00pm), Fri 10/11 (11:45am, 3:10pm, 6:30pm, 9:50pm), Sat 10/12 (11:45am, 3:10pm, 6:30pm, 9:50pm), Sun 10/13 (11:45am, 3:10pm, 6:30pm), Mon 10/14 (11:45am, 3:10pm, 6:30pm, 9:50pm), Tue 10/15 (11:45am, 3:10pm, 6:30pm, 9:50pm), Wed 10/16 (12:00pm, 3:25pm, 6:45pm, 10:05pm)
+
 ### Wed 9/25 4:18pm
 
 * New screenings: 
