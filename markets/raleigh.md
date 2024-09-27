@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Thu 9/26 9:49pm
+
+* New screenings: 
+    * [Transformers One](https://drafthouse.com/raleigh/show/transformers-one): Fri 9/27 (1:00pm)
+
 ### Thu 9/26 2:30pm
 
 * New screenings: 
