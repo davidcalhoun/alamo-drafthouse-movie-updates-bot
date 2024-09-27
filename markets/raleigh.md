@@ -1,6 +1,18 @@
 # raleigh
 
 ## Movie updates
+### Fri 9/27 3:19pm
+* New movies: Blink, Good Mythical Evening: Sexy, Scary, Stupid, We Live in Time, The Devil's Bath
+
+* New screenings: 
+    * [Blink](https://drafthouse.com/raleigh/show/blink): Thu 10/10 (4:45pm, 7:15pm, 9:45pm), Fri 10/11 (1:00pm, 3:45pm, 6:45pm, 9:15pm), Sat 10/12 (1:00pm, 3:45pm, 6:45pm, 9:15pm), Sun 10/13 (1:00pm, 3:45pm, 6:45pm, 9:15pm)
+
+    * [Good Mythical Evening Sexy Scary Stupid](https://drafthouse.com/raleigh/show/good-mythical-evening-sexy-scary-stupid): Fri 10/25 (9:15pm)
+
+    * [Livestream Q A We Live In Time](https://drafthouse.com/raleigh/show/livestream-q-a-we-live-in-time): Sat 10/5 (7:00pm)
+
+    * [The Devils Bath](https://drafthouse.com/raleigh/show/the-devils-bath): Wed 11/13 (7:15pm)
+
 ### Fri 9/27 10:24am
 
 * New screenings: 
