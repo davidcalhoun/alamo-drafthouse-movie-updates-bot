@@ -1,6 +1,15 @@
 # raleigh
 
 ## Movie updates
+### Fri 9/27 10:24am
+
+* New screenings: 
+    * [Megalopolis](https://drafthouse.com/raleigh/show/megalopolis): Fri 9/27 (7:15pm, 10:35pm)
+
+    * [Never Let Go 2024](https://drafthouse.com/raleigh/show/never-let-go-2024): Fri 9/27 (11:50am, 3:50pm)
+
+    * [Transformers One](https://drafthouse.com/raleigh/show/transformers-one): Fri 9/27 (3:15pm)
+
 ### Thu 9/26 9:49pm
 
 * New screenings: 
