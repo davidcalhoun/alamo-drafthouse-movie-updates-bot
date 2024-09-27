@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 9/27 1:21pm
+
+* New screenings: 
+    * [Being There](https://drafthouse.com/los-angeles/show/being-there): Tue 10/1 (3:00pm)
+
 ### Thu 9/26 3:18pm
 * New movies: The Apprentice
 
