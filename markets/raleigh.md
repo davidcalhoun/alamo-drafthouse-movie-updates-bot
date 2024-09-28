@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Sat 9/28 10:20am
+
+* New screenings: 
+    * [Megalopolis](https://drafthouse.com/raleigh/show/megalopolis): Sat 9/28 (10:30pm)
+
 ### Fri 9/27 9:48pm
 
 * New screenings: 
