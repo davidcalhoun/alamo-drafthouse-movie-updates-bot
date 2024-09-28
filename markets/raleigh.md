@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 9/27 9:48pm
+
+* New screenings: 
+    * [Speak No Evil 2024](https://drafthouse.com/raleigh/show/speak-no-evil-2024): Sat 9/28 (1:00pm)
+
 ### Fri 9/27 3:19pm
 * New movies: Blink, Good Mythical Evening: Sexy, Scary, Stupid, We Live in Time, The Devil's Bath
 
