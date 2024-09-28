@@ -1,6 +1,20 @@
 # los-angeles
 
 ## Movie updates
+### Sat 9/28 12:16am
+* New movies: Elf, Love Actually, Gremlins, The Polar Express, National Lampoon's Christmas Vacation
+
+* New screenings: 
+    * [Love Actually Brunch](https://drafthouse.com/los-angeles/show/love-actually-brunch): Sat 11/30 (11:00am)
+
+    * [Movie Party Elf](https://drafthouse.com/los-angeles/show/movie-party-elf): Sun 11/10 (11:00am), Tue 11/12 (6:00pm), Sun 11/17 (11:15am), Tue 11/19 (7:15pm), Mon 11/25 (6:00pm), Sun 12/1 (11:10am), Mon 12/2 (6:00pm)
+
+    * [Movie Party Gremlins](https://drafthouse.com/los-angeles/show/movie-party-gremlins): Sat 11/30 (5:30pm)
+
+    * [Movie Party National Lampoons Christmas Vacation](https://drafthouse.com/los-angeles/show/movie-party-national-lampoons-christmas-vacation): Tue 11/26 (7:15pm)
+
+    * [Movie Party The Polar Express](https://drafthouse.com/los-angeles/show/movie-party-the-polar-express): Sun 11/24 (10:45am)
+
 ### Fri 9/27 1:21pm
 
 * New screenings: 
