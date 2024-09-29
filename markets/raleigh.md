@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Sun 9/29 10:21am
+
+* New screenings: 
+    * [Deadpool And Wolverine](https://drafthouse.com/raleigh/show/deadpool-and-wolverine): Sun 9/29 (2:15pm)
+
+    * [Speak No Evil 2024](https://drafthouse.com/raleigh/show/speak-no-evil-2024): Sun 9/29 (11:45am, 3:30pm)
+
 ### Sat 9/28 10:20am
 
 * New screenings: 
