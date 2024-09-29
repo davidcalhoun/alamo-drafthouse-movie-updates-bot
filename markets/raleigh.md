@@ -1,6 +1,17 @@
 # raleigh
 
 ## Movie updates
+### Sun 9/29 3:17pm
+
+* New screenings: 
+    * [Azrael](https://drafthouse.com/raleigh/show/azrael): Mon 9/30 (10:00pm)
+
+    * [Deadpool And Wolverine](https://drafthouse.com/raleigh/show/deadpool-and-wolverine): Mon 9/30 (11:00am, 2:20pm)
+
+    * [Never Let Go 2024](https://drafthouse.com/raleigh/show/never-let-go-2024): Mon 9/30 (11:30am, 2:15pm, 3:15pm)
+
+    * [The Wild Robot](https://drafthouse.com/raleigh/show/the-wild-robot): Tue 10/1 (6:10pm)
+
 ### Sun 9/29 10:21am
 
 * New screenings: 
