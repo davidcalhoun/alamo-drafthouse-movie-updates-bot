@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 9/30 12:29am
+* New movies: Smile 2
+
+* New screenings: 
+    * [Smile 2](https://drafthouse.com/raleigh/show/smile-2): Thu 10/17 (7:00pm, 10:30pm), Fri 10/18 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sat 10/19 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sun 10/20 (12:00pm, 3:30pm, 7:00pm, 10:30pm)
+
 ### Sun 9/29 3:17pm
 
 * New screenings: 
