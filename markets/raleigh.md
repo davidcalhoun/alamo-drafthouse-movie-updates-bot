@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 9/30 12:30pm
+
+* New screenings: 
+    * [My Old Ass](https://drafthouse.com/raleigh/show/my-old-ass): Mon 9/30 (4:45pm, 7:15pm)
+
 ### Mon 9/30 12:29am
 * New movies: Smile 2
 
