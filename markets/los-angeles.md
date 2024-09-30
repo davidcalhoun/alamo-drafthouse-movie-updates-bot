@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Sun 9/29 9:24pm
+* New movies: Smile 2
+
+* New screenings: 
+    * [Smile 2](https://drafthouse.com/los-angeles/show/smile-2): Thu 10/17 (7:00pm, 10:25pm), Fri 10/18 (12:00pm, 3:20pm, 6:45pm, 10:10pm), Sat 10/19 (12:00pm, 3:20pm, 6:45pm, 10:10pm), Sun 10/20 (12:00pm, 3:20pm, 6:45pm), Mon 10/21 (12:00pm, 3:20pm, 6:45pm, 10:10pm), Tue 10/22 (12:00pm, 3:20pm, 6:45pm, 10:10pm), Wed 10/23 (12:00pm, 3:20pm, 6:45pm, 10:10pm)
+
 ### Sat 9/28 12:16am
 * New movies: Elf, Love Actually, Gremlins, The Polar Express, National Lampoon's Christmas Vacation
 
