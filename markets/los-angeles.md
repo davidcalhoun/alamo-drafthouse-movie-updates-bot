@@ -1,6 +1,48 @@
 # los-angeles
 
 ## Movie updates
+### Mon 9/30 4:20pm
+* New movies: Saturday Night, Things Will Be Different, In a Lonely Place
+
+* New screenings: 
+    * [A Different Man](https://drafthouse.com/los-angeles/show/a-different-man): Thu 10/3 (4:10pm, 7:15pm), Fri 10/4 (12:45pm, 6:45pm), Sat 10/5 (2:00pm, 5:00pm, 8:00pm), Sun 10/6 (6:45pm), Mon 10/7 (12:45pm, 6:45pm), Tue 10/8 (3:45pm, 6:45pm), Wed 10/9 (12:45pm, 6:45pm)
+
+    * [Azrael](https://drafthouse.com/los-angeles/show/azrael): Fri 10/4 (1:40pm), Wed 10/9 (11:10am)
+
+    * [Beetlejuice Beetlejuice](https://drafthouse.com/los-angeles/show/beetlejuice-beetlejuice): Thu 10/3 (3:10pm, 6:10pm, 10:15pm), Fri 10/4 (11:10am, 3:10pm, 6:10pm, 9:10pm), Sat 10/5 (11:10am, 3:10pm, 6:10pm, 9:40pm), Sun 10/6 (11:10am, 3:15pm, 6:10pm), Mon 10/7 (12:10pm, 3:15pm, 6:10pm, 10:00pm), Tue 10/8 (11:20am, 3:10pm, 6:10pm, 9:40pm), Wed 10/9 (11:10am, 3:10pm, 6:10pm, 9:10pm)
+
+    * [Brunch Screenings Joker Folie A Deux Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-joker-folie-a-deux-brunch): Sun 10/6 (10:30am)
+
+    * [Frankie Freako](https://drafthouse.com/los-angeles/show/frankie-freako): Sun 10/6 (10:45am)
+
+    * [Hardcore](https://drafthouse.com/los-angeles/show/hardcore): Mon 10/7 (1:20pm)
+
+    * [Harry Potter And The Deathly Hallows Part 2](https://drafthouse.com/los-angeles/show/harry-potter-and-the-deathly-hallows-part-2): Tue 10/8 (4:00pm)
+
+    * [Joker Folie A Deux](https://drafthouse.com/los-angeles/show/joker-folie-a-deux): Thu 10/3 (5:30pm, 6:45pm, 8:45pm, 9:00pm), Fri 10/4 (1:00pm, 2:00pm, 5:30pm, 9:00pm), Sat 10/5 (1:00pm, 2:00pm, 5:30pm, 8:45pm, 9:00pm), Sun 10/6 (2:00pm, 5:30pm), Mon 10/7 (11:10am, 1:00pm, 2:35pm, 3:00pm, 6:00pm, 9:00pm, 9:30pm), Tue 10/8 (11:10am, 1:00pm, 2:10pm, 2:35pm, 6:00pm, 9:00pm, 9:30pm), Wed 10/9 (1:00pm, 2:00pm, 2:30pm, 6:00pm, 8:30pm, 9:30pm)
+
+    * [Megalopolis](https://drafthouse.com/los-angeles/show/megalopolis): Thu 10/3 (2:30pm, 6:00pm, 9:30pm), Fri 10/4 (11:30am, 3:00pm, 6:30pm, 10:00pm), Sat 10/5 (11:30am, 3:00pm, 6:30pm, 10:00pm), Sun 10/6 (11:30am, 3:00pm, 6:30pm), Mon 10/7 (11:30am, 3:00pm, 6:30pm, 10:00pm), Tue 10/8 (11:30am, 3:00pm, 6:30pm, 10:00pm), Wed 10/9 (11:40am, 3:00pm, 6:30pm, 10:00pm)
+
+    * [My Old Ass](https://drafthouse.com/los-angeles/show/my-old-ass): Thu 10/3 (2:10pm, 4:50pm, 7:30pm, 10:10pm), Fri 10/4 (12:30pm, 4:30pm, 7:10pm, 9:50pm), Sat 10/5 (12:30pm, 4:30pm, 7:10pm, 9:50pm), Sun 10/6 (10:30am, 1:10pm, 5:00pm, 7:45pm), Mon 10/7 (12:35pm, 4:30pm, 7:10pm, 9:50pm), Tue 10/8 (12:30pm, 4:30pm, 7:10pm, 9:50pm), Wed 10/9 (11:50am, 4:30pm, 7:10pm, 9:50pm)
+
+    * [Nosferatu 1922](https://drafthouse.com/los-angeles/show/nosferatu-1922): Fri 10/4 (11:00am), Wed 10/9 (1:40pm)
+
+    * [Queer Film Theory 101 In A Lonely Place](https://drafthouse.com/los-angeles/show/queer-film-theory-101-in-a-lonely-place): Sun 11/17 (6:00pm)
+
+    * [Saturday Night](https://drafthouse.com/los-angeles/show/saturday-night): Thu 10/3 (2:00pm, 2:45pm, 4:50pm, 5:45pm, 7:45pm, 9:00pm, 10:40pm), Fri 10/4 (10:45am, 11:45am, 1:45pm, 2:45pm, 4:45pm, 5:45pm, 7:45pm, 8:45pm, 10:45pm), Sat 10/5 (10:45am, 12:45pm, 1:45pm, 3:45pm, 4:45pm, 5:40pm, 7:45pm, 9:10pm, 10:45pm), Sun 10/6 (10:45am, 12:15pm, 1:20pm, 1:45pm, 3:20pm, 4:45pm, 6:15pm, 7:45pm), Mon 10/7 (11:00am, 11:40am, 1:55pm, 2:40pm, 4:50pm, 5:45pm, 7:45pm, 8:45pm, 10:45pm), Tue 10/8 (11:00am, 12:30pm, 1:55pm, 3:30pm, 4:50pm, 5:40pm, 7:45pm, 8:40pm, 10:45pm), Wed 10/9 (11:00am, 12:00pm, 1:55pm, 3:00pm, 4:50pm, 5:30pm, 7:45pm, 9:20pm, 10:45pm)
+
+    * [Speak No Evil 2024](https://drafthouse.com/los-angeles/show/speak-no-evil-2024): Thu 10/3 (3:45pm, 10:15pm), Fri 10/4 (3:45pm, 9:45pm), Sat 10/5 (11:00am, 11:00pm), Sun 10/6 (3:45pm), Mon 10/7 (3:45pm, 9:45pm), Tue 10/8 (12:45pm, 9:45pm), Wed 10/9 (3:45pm, 9:45pm)
+
+    * [The Substance](https://drafthouse.com/los-angeles/show/the-substance): Thu 10/3 (2:45pm, 6:15pm, 9:45pm), Fri 10/4 (11:20am, 2:50pm, 6:20pm, 9:50pm), Sat 10/5 (11:20am, 2:50pm, 6:20pm, 9:50pm), Sun 10/6 (11:20am, 2:50pm, 6:20pm), Mon 10/7 (11:25am, 2:50pm, 6:20pm, 9:50pm), Tue 10/8 (11:25am, 2:50pm, 6:20pm, 9:50pm), Wed 10/9 (11:25am, 2:50pm, 6:20pm, 9:50pm)
+
+    * [The Visitor](https://drafthouse.com/los-angeles/show/the-visitor): Wed 10/9 (4:20pm)
+
+    * [The Wild Robot](https://drafthouse.com/los-angeles/show/the-wild-robot): Thu 10/3 (3:50pm, 6:45pm, 9:40pm), Fri 10/4 (10:45am, 1:35pm, 4:30pm, 7:30pm, 10:25pm), Sat 10/5 (10:45am, 1:35pm, 4:35pm, 7:25pm, 10:20pm), Sun 10/6 (10:45am, 1:35pm, 4:30pm, 7:30pm), Mon 10/7 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:25pm), Tue 10/8 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:25pm), Wed 10/9 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:25pm)
+
+    * [Things Will Be Different](https://drafthouse.com/los-angeles/show/things-will-be-different): Fri 10/4 (9:50pm), Sat 10/5 (6:45pm), Sun 10/6 (2:00pm), Mon 10/7 (4:20pm), Tue 10/8 (1:00pm), Wed 10/9 (12:10pm)
+
+    * [Transformers One](https://drafthouse.com/los-angeles/show/transformers-one): Thu 10/3 (2:35pm)
+
 ### Sun 9/29 9:24pm
 * New movies: Smile 2
 
