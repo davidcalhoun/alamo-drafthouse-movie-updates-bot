@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 10/1 2:19pm
+* New movies: Little Bites
+
+* New screenings: 
+    * [Fantastic Fest Presents Little Bites W Live Q A](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-little-bites-w-live-q-a): Sun 10/6 (7:15pm)
+
 ### Tue 10/1 6:27am
 * New movies: Venom: The Last Dance
 
