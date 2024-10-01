@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 10/1 6:27am
+* New movies: Venom: The Last Dance
+
+* New screenings: 
+    * [Venom The Last Dance](https://drafthouse.com/los-angeles/show/venom-the-last-dance): Thu 10/24 (4:50pm, 7:45pm, 10:45pm), Fri 10/25 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Sat 10/26 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Sun 10/27 (10:45am, 1:45pm, 4:45pm, 7:45pm), Mon 10/28 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:45pm), Tue 10/29 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:45pm), Wed 10/30 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:45pm)
+
 ### Mon 9/30 4:20pm
 * New movies: Saturday Night, Things Will Be Different, In a Lonely Place
 
