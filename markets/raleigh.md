@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Tue 10/1 9:30am
+* New movies: Venom: The Last Dance, Terrifier 3
+
+* New screenings: 
+    * [Terrifier 3](https://drafthouse.com/raleigh/show/terrifier-3): Thu 10/10 (8:00pm, 10:00pm), Fri 10/11 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Sat 10/12 (12:45pm, 4:00pm, 7:15pm, 10:30pm)
+
+    * [Venom The Last Dance](https://drafthouse.com/raleigh/show/venom-the-last-dance): Thu 10/24 (3:00pm, 6:00pm, 9:00pm), Fri 10/25 (12:00pm, 3:00pm, 6:00pm, 9:45pm), Sat 10/26 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sun 10/27 (12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
 ### Mon 9/30 5:22pm
 
 * New screenings: 
