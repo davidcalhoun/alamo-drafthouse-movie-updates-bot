@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Wed 10/2 12:30pm
+
+* New screenings: 
+    * [Joker Folie A Deux](https://drafthouse.com/raleigh/show/joker-folie-a-deux): Wed 10/9 (3:45pm)
+
 ### Tue 10/1 9:30am
 * New movies: Venom: The Last Dance, Terrifier 3
 
