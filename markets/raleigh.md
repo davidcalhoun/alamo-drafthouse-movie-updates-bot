@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Wed 10/2 5:24pm
+
+* New screenings: 
+    * [My Old Ass](https://drafthouse.com/raleigh/show/my-old-ass): Fri 10/4 (1:00pm, 3:30pm)
+
+    * [Transformers One](https://drafthouse.com/raleigh/show/transformers-one): Fri 10/4 (12:00pm)
+
 ### Wed 10/2 12:30pm
 
 * New screenings: 
