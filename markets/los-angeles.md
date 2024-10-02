@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/2 2:20pm
+* New movies: Saturday Night, Phase IV
+
+* New screenings: 
+    * [Live Q A Saturday Night](https://drafthouse.com/los-angeles/show/live-q-a-saturday-night): Fri 10/4 (7:45pm, 8:45pm)
+
+    * [Phase Iv](https://drafthouse.com/los-angeles/show/phase-iv): Fri 11/8 (4:40pm), Wed 11/13 (7:30pm)
+
 ### Wed 10/2 1:22pm
 * New movies: Blood Rage, Twittering Soul
 
