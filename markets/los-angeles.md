@@ -1,6 +1,30 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/2 4:19pm
+* New movies: The Conversation, Querelle, It's a Wonderful Life, Eyes Wide Shut, Paris, Texas, Phantom Thread, The Apartment, When Harry Met Sally...
+
+* New screenings: 
+    * [Brunch Screenings Its A Wonderful Life Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-its-a-wonderful-life-brunch): Tue 12/24 (10:45am)
+
+    * [Eyes Wide Shut](https://drafthouse.com/los-angeles/show/eyes-wide-shut): Tue 12/24 (2:10pm)
+
+    * [Movie Party Elf](https://drafthouse.com/los-angeles/show/movie-party-elf): Sun 12/15 (11:00am), Tue 12/17 (7:15pm), Sun 12/22 (11:00am), Mon 12/23 (4:15pm)
+
+    * [Movie Party National Lampoons Christmas Vacation](https://drafthouse.com/los-angeles/show/movie-party-national-lampoons-christmas-vacation): Sun 12/22 (2:00pm), Mon 12/23 (7:15pm)
+
+    * [Paris Texas](https://drafthouse.com/los-angeles/show/paris-texas): Sun 12/29 (11:20am)
+
+    * [Phantom Thread](https://drafthouse.com/los-angeles/show/phantom-thread): Wed 1/1 (11:40am)
+
+    * [Queer Film Theory 101 Querelle](https://drafthouse.com/los-angeles/show/queer-film-theory-101-querelle): Sun 12/15 (4:30pm)
+
+    * [The Apartment Brunch](https://drafthouse.com/los-angeles/show/the-apartment-brunch): Sat 12/28 (11:45am)
+
+    * [The Conversation](https://drafthouse.com/los-angeles/show/the-conversation): Mon 12/16 (7:15pm)
+
+    * [When Harry Met Sally](https://drafthouse.com/los-angeles/show/when-harry-met-sally): Mon 12/30 (6:00pm)
+
 ### Wed 10/2 2:20pm
 * New movies: Saturday Night, Phase IV
 
