@@ -1,6 +1,20 @@
 # raleigh
 
 ## Movie updates
+### Wed 10/2 6:24pm
+* New movies: Jung Kook: I Am Still – The Party Edition, Black Christmas 1974, Inside 2007, Trick 'r Treat, TRANCERS
+
+* New screenings: 
+    * [Jung Kook I Am Still](https://drafthouse.com/raleigh/show/jung-kook-i-am-still): Fri 10/11 (5:30pm), Sat 10/12 (1:00pm), Tue 11/5 (5:00pm)
+
+    * [Terror Tuesday Black Christmas](https://drafthouse.com/raleigh/show/terror-tuesday-black-christmas): Tue 12/3 (9:30pm)
+
+    * [Terror Tuesday Inside 2007](https://drafthouse.com/raleigh/show/terror-tuesday-inside-2007): Tue 12/10 (9:00pm)
+
+    * [Terror Tuesday Trick R Treat](https://drafthouse.com/raleigh/show/terror-tuesday-trick-r-treat): Tue 11/5 (9:00pm)
+
+    * [Trancers](https://drafthouse.com/raleigh/show/trancers): Wed 12/11 (9:00pm)
+
 ### Wed 10/2 5:24pm
 
 * New screenings: 
