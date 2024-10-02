@@ -1,6 +1,20 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/2 1:22pm
+* New movies: Blood Rage, Twittering Soul
+
+* New screenings: 
+    * [Blood Rage](https://drafthouse.com/los-angeles/show/blood-rage): Fri 11/15 (4:40pm), Wed 11/20 (7:15pm)
+
+    * [Movie Party Elf](https://drafthouse.com/los-angeles/show/movie-party-elf): Sun 12/8 (1:45pm), Mon 12/9 (7:15pm), Tue 12/10 (7:15pm)
+
+    * [Movie Party Gremlins](https://drafthouse.com/los-angeles/show/movie-party-gremlins): Wed 12/11 (7:15pm)
+
+    * [Movie Party National Lampoons Christmas Vacation](https://drafthouse.com/los-angeles/show/movie-party-national-lampoons-christmas-vacation): Wed 12/4 (7:15pm)
+
+    * [Twittering Soul](https://drafthouse.com/los-angeles/show/twittering-soul): Sat 11/9 (10:45am)
+
 ### Tue 10/1 2:19pm
 * New movies: Little Bites
 
