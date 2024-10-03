@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 10/3 9:29am
+* New movies: Saturday Night
+
+* New screenings: 
+    * [Saturday Night](https://drafthouse.com/raleigh/show/saturday-night): Thu 10/10 (3:00pm, 6:00pm, 9:00pm), Fri 10/11 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 10/12 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sun 10/13 (12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
 ### Wed 10/2 6:24pm
 * New movies: Jung Kook: I Am Still – The Party Edition, Black Christmas 1974, Inside 2007, Trick 'r Treat, TRANCERS
 
