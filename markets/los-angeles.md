@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 10/3 1:20pm
+
+* New screenings: 
+    * [Saturday Night](https://drafthouse.com/los-angeles/show/saturday-night): Fri 10/4 (10:00pm)
+
 ### Wed 10/2 4:19pm
 * New movies: The Conversation, Querelle, It's a Wonderful Life, Eyes Wide Shut, Paris, Texas, Phantom Thread, The Apartment, When Harry Met Sally...
 
