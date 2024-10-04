@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 10/4 7:22pm
+* New movies: Blood Feast
+
+* New screenings: 
+    * [Terror Tuesday Blood Feast](https://drafthouse.com/raleigh/show/terror-tuesday-blood-feast): Wed 11/27 (9:00pm)
+
 ### Thu 10/3 9:29am
 * New movies: Saturday Night
 
