@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 10/4 6:25am
+* New movies: Rumours
+
+* New screenings: 
+    * [Rumours](https://drafthouse.com/los-angeles/show/rumours): Thu 10/17 (5:00pm, 7:50pm, 10:45pm), Fri 10/18 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:40pm), Sat 10/19 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:40pm), Sun 10/20 (10:45am, 1:45pm, 4:45pm, 7:45pm), Mon 10/21 (12:40pm, 3:35pm, 6:30pm, 9:25pm), Tue 10/22 (12:40pm, 3:35pm, 6:30pm, 9:25pm), Wed 10/23 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:40pm)
+
 ### Thu 10/3 1:20pm
 
 * New screenings: 
