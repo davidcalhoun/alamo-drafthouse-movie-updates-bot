@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 10/4 9:25am
+* New movies: The Wait
+
+* New screenings: 
+    * [Fantastic Fest Presents The Wait](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-the-wait): Fri 10/11 (7:15pm)
+
 ### Fri 10/4 6:25am
 * New movies: Rumours
 
