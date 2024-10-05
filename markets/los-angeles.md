@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Fri 10/4 9:23pm
+* New movies: The Sugarland Express, Daddy's Head, The Holdovers
+
+* New screenings: 
+    * [Daddys Head](https://drafthouse.com/los-angeles/show/daddys-head): Fri 10/11 (10:25pm)
+
+    * [The Holdovers](https://drafthouse.com/los-angeles/show/the-holdovers): Wed 12/25 (11:00am)
+
+    * [The Sugarland Express](https://drafthouse.com/los-angeles/show/the-sugarland-express): Sun 12/8 (4:45pm, 7:45pm)
+
 ### Fri 10/4 9:25am
 * New movies: The Wait
 
