@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 10/7 4:26pm
+
+* New screenings: 
+    * [Jung Kook I Am Still](https://drafthouse.com/raleigh/show/jung-kook-i-am-still): Sun 10/13 (6:30pm)
+
 ### Fri 10/4 7:22pm
 * New movies: Blood Feast
 
