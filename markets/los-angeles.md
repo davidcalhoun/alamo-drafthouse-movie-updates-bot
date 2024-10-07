@@ -1,6 +1,37 @@
 # los-angeles
 
 ## Movie updates
+### Mon 10/7 1:22pm
+
+* New screenings: 
+    * [A Different Man](https://drafthouse.com/los-angeles/show/a-different-man): Thu 10/10 (3:00pm)
+
+    * [Beetlejuice Beetlejuice](https://drafthouse.com/los-angeles/show/beetlejuice-beetlejuice): Thu 10/10 (3:20pm, 7:20pm, 10:15pm)
+
+    * [Frankie Freako](https://drafthouse.com/los-angeles/show/frankie-freako): Thu 10/10 (2:25pm)
+
+    * [Joker Folie A Deux](https://drafthouse.com/los-angeles/show/joker-folie-a-deux): Thu 10/10 (2:30pm, 3:30pm, 5:45pm)
+
+    * [Lupin The 3rd The Castle Of Cagliostro](https://drafthouse.com/los-angeles/show/lupin-the-3rd-the-castle-of-cagliostro): Thu 10/10 (6:00pm)
+
+    * [Megalopolis](https://drafthouse.com/los-angeles/show/megalopolis): Thu 10/10 (3:50pm, 6:00pm, 9:30pm)
+
+    * [My Old Ass](https://drafthouse.com/los-angeles/show/my-old-ass): Thu 10/10 (2:00pm)
+
+    * [Piece By Piece](https://drafthouse.com/los-angeles/show/piece-by-piece): Thu 10/10 (2:00pm)
+
+    * [Saturday Night](https://drafthouse.com/los-angeles/show/saturday-night): Thu 10/10 (3:15pm, 4:45pm, 7:45pm, 10:45pm)
+
+    * [Speak No Evil 2024](https://drafthouse.com/los-angeles/show/speak-no-evil-2024): Thu 10/10 (5:00pm)
+
+    * [Terrifier 3](https://drafthouse.com/los-angeles/show/terrifier-3): Thu 10/10 (8:45pm, 9:15pm, 9:35pm)
+
+    * [The Apprentice](https://drafthouse.com/los-angeles/show/the-apprentice): Thu 10/10 (6:20pm)
+
+    * [The Substance](https://drafthouse.com/los-angeles/show/the-substance): Thu 10/10 (3:00pm, 6:30pm, 10:00pm)
+
+    * [The Wild Robot](https://drafthouse.com/los-angeles/show/the-wild-robot): Thu 10/10 (2:45pm, 6:10pm, 9:05pm)
+
 ### Fri 10/4 9:23pm
 * New movies: The Sugarland Express, Daddy's Head, The Holdovers
 
