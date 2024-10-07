@@ -1,6 +1,37 @@
 # los-angeles
 
 ## Movie updates
+### Mon 10/7 2:18pm
+
+* New screenings: 
+    * [A Different Man](https://drafthouse.com/los-angeles/show/a-different-man): Sat 10/12 (1:50pm), Mon 10/14 (3:00pm), Tue 10/15 (4:15pm)
+
+    * [A Nightmare On Elm Street](https://drafthouse.com/los-angeles/show/a-nightmare-on-elm-street): Sat 10/12 (10:15pm), Wed 10/16 (10:40pm)
+
+    * [Beetlejuice Beetlejuice](https://drafthouse.com/los-angeles/show/beetlejuice-beetlejuice): Fri 10/11 (10:45am, 1:35pm, 4:30pm, 7:20pm, 10:15pm), Sat 10/12 (11:00am, 2:55pm, 6:50pm, 9:20pm), Sun 10/13 (12:20pm, 2:50pm, 6:50pm), Mon 10/14 (10:50am, 1:40pm, 4:30pm, 7:20pm, 10:15pm), Tue 10/15 (10:50am, 1:40pm, 4:30pm, 7:20pm, 10:15pm), Wed 10/16 (10:50am, 1:40pm, 4:30pm, 10:30pm)
+
+    * [Frankie Freako](https://drafthouse.com/los-angeles/show/frankie-freako): Sat 10/12 (7:40pm), Sun 10/13 (2:30pm), Mon 10/14 (12:25pm), Wed 10/16 (1:30pm)
+
+    * [Joker Folie A Deux](https://drafthouse.com/los-angeles/show/joker-folie-a-deux): Fri 10/11 (12:00pm, 5:40pm), Sat 10/12 (11:15am, 5:45pm), Sun 10/13 (11:15am, 5:45pm), Mon 10/14 (11:00am, 12:00pm, 3:30pm, 5:30pm, 7:00pm, 10:30pm), Tue 10/15 (11:00am, 12:00pm, 3:30pm, 5:30pm, 7:00pm, 10:30pm), Wed 10/16 (11:00am, 12:10pm, 3:35pm, 5:40pm, 7:10pm, 10:00pm)
+
+    * [Lupin The 3rd The Castle Of Cagliostro](https://drafthouse.com/los-angeles/show/lupin-the-3rd-the-castle-of-cagliostro): Fri 10/11 (1:00pm), Mon 10/14 (11:10am)
+
+    * [Megalopolis](https://drafthouse.com/los-angeles/show/megalopolis): Fri 10/11 (11:00am, 2:30pm, 6:00pm, 9:30pm), Sat 10/12 (11:00am, 2:30pm, 6:00pm, 9:30pm), Sun 10/13 (11:00am, 2:30pm, 6:00pm), Mon 10/14 (11:45am, 2:30pm, 6:00pm, 9:30pm), Tue 10/15 (11:45am, 2:30pm, 6:00pm, 9:00pm), Wed 10/16 (12:45pm, 2:30pm, 6:00pm, 9:30pm)
+
+    * [My Old Ass](https://drafthouse.com/los-angeles/show/my-old-ass): Fri 10/11 (12:00pm, 2:45pm), Sat 10/12 (5:00pm), Sun 10/13 (2:50pm, 5:25pm), Mon 10/14 (2:00pm, 4:35pm), Tue 10/15 (10:50am, 1:30pm), Wed 10/16 (11:00am, 3:20pm)
+
+    * [Nosferatu The Vampyre](https://drafthouse.com/los-angeles/show/nosferatu-the-vampyre): Sun 10/13 (11:30am)
+
+    * [Saturday Night](https://drafthouse.com/los-angeles/show/saturday-night): Fri 10/11 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Sat 10/12 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Sun 10/13 (10:45am, 1:45pm, 4:45pm, 7:45pm), Mon 10/14 (10:50am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Tue 10/15 (10:50am, 1:50pm, 4:45pm, 7:45pm, 10:45pm), Wed 10/16 (10:50am, 1:50pm, 4:45pm, 7:45pm, 10:45pm)
+
+    * [Terrifier 3](https://drafthouse.com/los-angeles/show/terrifier-3): Fri 10/11 (2:15pm, 5:25pm, 8:45pm, 9:10pm), Sat 10/12 (2:45pm, 6:00pm, 9:25pm, 9:45pm), Sun 10/13 (2:45pm, 5:10pm, 8:00pm), Mon 10/14 (2:10pm, 8:45pm, 9:00pm), Tue 10/15 (2:10pm, 9:10pm, 9:30pm), Wed 10/16 (2:20pm, 9:10pm)
+
+    * [The Fall](https://drafthouse.com/los-angeles/show/the-fall): Tue 10/15 (11:40am, 2:50pm, 10:00pm), Wed 10/16 (12:10pm, 4:00pm, 8:50pm)
+
+    * [The Substance](https://drafthouse.com/los-angeles/show/the-substance): Fri 10/11 (11:10am, 2:40pm, 6:10pm, 9:40pm), Sat 10/12 (11:40am, 3:15pm, 6:10pm, 9:40pm), Sun 10/13 (11:10am, 3:20pm, 6:10pm), Mon 10/14 (11:20am, 2:50pm, 6:20pm, 9:50pm), Tue 10/15 (11:20am, 2:50pm, 6:20pm, 9:50pm), Wed 10/16 (11:30am, 3:00pm, 7:00pm, 9:25pm)
+
+    * [The Wild Robot](https://drafthouse.com/los-angeles/show/the-wild-robot): Fri 10/11 (11:25am, 3:30pm, 6:20pm, 9:15pm), Sat 10/12 (12:35pm, 3:25pm, 6:20pm, 9:15pm), Sun 10/13 (11:25am, 2:15pm, 5:10pm, 8:00pm), Mon 10/14 (11:15am, 3:15pm, 6:10pm, 9:05pm), Tue 10/15 (11:15am, 3:15pm, 6:10pm, 9:10pm), Wed 10/16 (11:25am, 4:10pm, 7:15pm, 10:10pm)
+
 ### Mon 10/7 1:22pm
 
 * New screenings: 
