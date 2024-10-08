@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 10/8 8:45am
+* New movies: Gladiator II
+
+* New screenings: 
+    * [Gladiator Ii](https://drafthouse.com/raleigh/show/gladiator-ii): Thu 11/21 (2:00pm, 6:00pm, 9:30pm), Fri 11/22 (11:00am, 3:00pm, 7:00pm, 10:45pm), Sat 11/23 (11:00am, 3:00pm, 7:00pm, 10:45pm), Sun 11/24 (11:00am, 3:00pm, 7:00pm, 10:45pm)
+
 ### Mon 10/7 5:22pm
 
 * New screenings: 
