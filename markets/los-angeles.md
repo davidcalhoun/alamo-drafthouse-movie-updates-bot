@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 10/8 5:37am
+* New movies: Gladiator II
+
+* New screenings: 
+    * [Gladiator Ii](https://drafthouse.com/los-angeles/show/gladiator-ii): Thu 11/21 (3:20pm, 7:00pm, 10:40pm), Fri 11/22 (11:40am, 3:20pm, 7:00pm, 10:40pm), Sat 11/23 (11:40am, 3:20pm, 7:00pm, 10:40pm), Sun 11/24 (11:40am, 3:20pm, 7:00pm), Mon 11/25 (11:40am, 3:20pm, 7:00pm, 10:40pm)
+
 ### Mon 10/7 2:18pm
 
 * New screenings: 
