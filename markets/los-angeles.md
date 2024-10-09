@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/9 1:21pm
+* New movies: Chinatown
+
+* New screenings: 
+    * [Chinatown](https://drafthouse.com/los-angeles/show/chinatown): Tue 11/19 (6:00pm)
+
 ### Wed 10/9 12:16pm
 * New movies: California Split, The Parallax View, They Live
 
