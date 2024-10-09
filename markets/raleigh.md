@@ -1,6 +1,22 @@
 # raleigh
 
 ## Movie updates
+### Wed 10/9 4:25pm
+* New movies: The Conversation, The Sugarland Express, Chinatown, Gremlins, National Lampoon's Christmas Vacation
+
+* New screenings: 
+    * [Chinatown](https://drafthouse.com/raleigh/show/chinatown): Fri 11/15 (6:30pm)
+
+    * [Movie Party Elf](https://drafthouse.com/raleigh/show/movie-party-elf): Wed 12/11 (6:00pm), Mon 12/16 (6:30pm), Tue 12/17 (6:00pm)
+
+    * [Movie Party Gremlins](https://drafthouse.com/raleigh/show/movie-party-gremlins): Wed 12/4 (6:00pm)
+
+    * [Movie Party National Lampoons Christmas Vacation](https://drafthouse.com/raleigh/show/movie-party-national-lampoons-christmas-vacation): Mon 12/2 (6:30pm)
+
+    * [The Conversation](https://drafthouse.com/raleigh/show/the-conversation): Sat 12/14 (11:15am)
+
+    * [The Sugarland Express](https://drafthouse.com/raleigh/show/the-sugarland-express): Sun 12/8 (4:15pm, 7:15pm)
+
 ### Wed 10/9 3:19pm
 * New movies: Elf, In a Lonely Place, Southbound, V/H/S/2, XX, Birth, Phase IV, California Split, The Polar Express
 
