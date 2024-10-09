@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Wed 10/9 8:46am
+* New movies: Wicked, We Live in Time, Wicked
+
+* New screenings: 
+    * [Movie Party Wicked](https://drafthouse.com/raleigh/show/movie-party-wicked): Sat 11/23 (6:00pm), Sun 11/24 (2:00pm)
+
+    * [We Live In Time](https://drafthouse.com/raleigh/show/we-live-in-time): Thu 10/17 (7:30pm, 10:30pm), Fri 10/18 (11:30am, 3:00pm, 6:30pm, 10:00pm), Sat 10/19 (11:30am, 3:00pm, 6:30pm, 9:30pm), Sun 10/20 (1:00pm, 3:00pm, 6:30pm, 9:30pm)
+
+    * [Wicked](https://drafthouse.com/raleigh/show/wicked): Thu 11/21 (3:00pm, 6:45pm, 10:30pm), Fri 11/22 (10:00am, 2:00pm, 6:00pm, 10:00pm), Sat 11/23 (10:00am, 2:00pm, 10:00pm), Sun 11/24 (10:00am, 6:00pm, 10:00pm)
+
 ### Tue 10/8 8:45am
 * New movies: Gladiator II
 
