@@ -1,6 +1,18 @@
 # raleigh
 
 ## Movie updates
+### Wed 10/9 2:31pm
+* New movies: The Time Masters, Breakfast of Champions, The Parallax View
+
+* New screenings: 
+    * [Breakfast Of Champions](https://drafthouse.com/raleigh/show/breakfast-of-champions): Sat 11/2 (3:45pm)
+
+    * [Joker Folie A Deux](https://drafthouse.com/raleigh/show/joker-folie-a-deux): Wed 10/9 (3:00pm)
+
+    * [The Parallax View](https://drafthouse.com/raleigh/show/the-parallax-view): Mon 11/4 (6:30pm)
+
+    * [Weird Wednesday The Time Masters](https://drafthouse.com/raleigh/show/weird-wednesday-the-time-masters): Wed 11/6 (9:00pm)
+
 ### Wed 10/9 8:46am
 * New movies: Wicked, We Live in Time, Wicked
 
