@@ -1,6 +1,20 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/9 5:38am
+* New movies: Wicked, We Live in Time, Wicked, Wicked, Wicked
+
+* New screenings: 
+    * [Advance Screening Wicked 3d Early Access Screenings](https://drafthouse.com/los-angeles/show/advance-screening-wicked-3d-early-access-screenings): Wed 11/20 (6:30pm)
+
+    * [Brunch Screenings Wicked Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-wicked-brunch): Sat 11/23 (10:40am), Sun 11/24 (11:00am)
+
+    * [Movie Party Wicked](https://drafthouse.com/los-angeles/show/movie-party-wicked): Fri 11/22 (6:30pm), Sat 11/23 (2:30pm)
+
+    * [We Live In Time](https://drafthouse.com/los-angeles/show/we-live-in-time): Thu 10/17 (7:30pm, 10:30pm), Fri 10/18 (10:40am, 1:30pm, 4:15pm, 7:00pm, 10:00pm), Sat 10/19 (1:35pm, 4:30pm, 7:30pm, 10:30pm), Sun 10/20 (11:00am, 2:00pm, 5:00pm, 8:00pm), Mon 10/21 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:45pm), Tue 10/22 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:45pm), Wed 10/23 (1:00pm, 4:00pm, 6:00pm, 9:40pm)
+
+    * [Wicked](https://drafthouse.com/los-angeles/show/wicked): Fri 11/22 (10:50am, 1:50pm, 2:40pm, 5:40pm, 9:30pm, 10:25pm), Sat 11/23 (1:50pm, 5:40pm, 6:30pm, 9:30pm, 10:25pm), Sun 11/24 (1:50pm, 2:45pm, 5:40pm, 6:30pm), Mon 11/25 (11:00am, 2:00pm, 2:45pm, 5:45pm, 6:30pm, 9:30pm, 10:20pm)
+
 ### Tue 10/8 5:37am
 * New movies: Gladiator II
 
