@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/9 12:16pm
+* New movies: California Split, The Parallax View, They Live
+
+* New screenings: 
+    * [California Split](https://drafthouse.com/los-angeles/show/california-split): Sat 11/9 (12:00pm)
+
+    * [The Parallax View](https://drafthouse.com/los-angeles/show/the-parallax-view): Sat 11/2 (12:00pm)
+
+    * [They Live](https://drafthouse.com/los-angeles/show/they-live): Tue 11/5 (7:30pm)
+
 ### Wed 10/9 5:38am
 * New movies: Wicked, We Live in Time, Wicked, Wicked, Wicked
 
