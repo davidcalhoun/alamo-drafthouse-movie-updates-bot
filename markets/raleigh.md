@@ -1,6 +1,28 @@
 # raleigh
 
 ## Movie updates
+### Wed 10/9 3:19pm
+* New movies: Elf, In a Lonely Place, Southbound, V/H/S/2, XX, Birth, Phase IV, California Split, The Polar Express
+
+* New screenings: 
+    * [California Split](https://drafthouse.com/raleigh/show/california-split): Tue 11/12 (6:00pm)
+
+    * [Movie Party Elf](https://drafthouse.com/raleigh/show/movie-party-elf): Wed 11/20 (6:30pm), Mon 11/25 (6:30pm), Sun 12/1 (11:30am)
+
+    * [Movie Party The Polar Express](https://drafthouse.com/raleigh/show/movie-party-the-polar-express): Mon 11/18 (6:30pm)
+
+    * [Queer Film Theory 101 In A Lonely Place](https://drafthouse.com/raleigh/show/queer-film-theory-101-in-a-lonely-place): Sat 11/16 (3:45pm)
+
+    * [Terror Tuesday Southbound](https://drafthouse.com/raleigh/show/terror-tuesday-southbound): Tue 11/19 (9:00pm)
+
+    * [Terror Tuesday V H S 2](https://drafthouse.com/raleigh/show/terror-tuesday-v-h-s-2): Tue 11/12 (9:00pm)
+
+    * [Terror Tuesday Xx](https://drafthouse.com/raleigh/show/terror-tuesday-xx): Tue 11/26 (9:00pm)
+
+    * [Weird Wednesday Birth](https://drafthouse.com/raleigh/show/weird-wednesday-birth): Wed 11/20 (9:00pm)
+
+    * [Weird Wednesday Phase Iv](https://drafthouse.com/raleigh/show/weird-wednesday-phase-iv): Wed 11/13 (9:00pm)
+
 ### Wed 10/9 2:31pm
 * New movies: The Time Masters, Breakfast of Champions, The Parallax View
 
