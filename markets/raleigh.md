@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Thu 10/10 4:25pm
+* New movies: Klaus, SPACE IS THE PLACE
+
+* New screenings: 
+    * [Klaus](https://drafthouse.com/raleigh/show/klaus): Mon 12/9 (6:15pm)
+
+    * [Weird Wednesday Space Is The Place](https://drafthouse.com/raleigh/show/weird-wednesday-space-is-the-place): Wed 12/18 (9:00pm)
+
 ### Thu 10/10 8:46am
 * New movies: Anora, Conclave
 
