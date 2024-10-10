@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Thu 10/10 8:46am
+* New movies: Anora, Conclave
+
+* New screenings: 
+    * [Anora](https://drafthouse.com/raleigh/show/anora): Thu 10/31 (7:00pm, 10:30pm), Fri 11/1 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sat 11/2 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sun 11/3 (12:00pm, 3:30pm, 7:00pm, 10:30pm)
+
+    * [Conclave](https://drafthouse.com/raleigh/show/conclave): Thu 10/24 (3:45pm, 6:45pm, 9:45pm), Fri 10/25 (12:30pm, 3:45pm, 6:45pm, 9:45pm), Sat 10/26 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Sun 10/27 (12:30pm, 3:45pm, 6:45pm, 9:45pm)
+
 ### Wed 10/9 4:25pm
 * New movies: The Conversation, The Sugarland Express, Chinatown, Gremlins, National Lampoon's Christmas Vacation
 
