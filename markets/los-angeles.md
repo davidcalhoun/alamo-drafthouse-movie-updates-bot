@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 10/10 5:38am
+* New movies: Anora, Conclave
+
+* New screenings: 
+    * [Anora](https://drafthouse.com/los-angeles/show/anora): Thu 10/24 (7:00pm, 10:30pm), Fri 10/25 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sat 10/26 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sun 10/27 (12:00pm, 3:30pm, 7:00pm), Mon 10/28 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Tue 10/29 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Wed 10/30 (12:00pm, 3:30pm, 7:00pm, 10:30pm)
+
+    * [Conclave](https://drafthouse.com/los-angeles/show/conclave): Thu 10/24 (3:20pm, 6:30pm, 9:40pm), Fri 10/25 (12:10pm, 3:20pm, 6:30pm, 9:40pm), Sat 10/26 (12:10pm, 3:20pm, 6:30pm, 9:40pm), Sun 10/27 (12:10pm, 3:20pm, 6:30pm), Mon 10/28 (12:10pm, 3:20pm, 6:30pm, 9:40pm), Tue 10/29 (12:10pm, 3:20pm, 6:30pm, 9:40pm), Wed 10/30 (12:10pm, 3:20pm, 6:30pm, 9:40pm)
+
 ### Wed 10/9 1:21pm
 * New movies: Chinatown
 
