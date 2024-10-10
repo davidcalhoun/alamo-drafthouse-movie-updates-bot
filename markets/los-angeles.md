@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 10/10 1:21pm
+
+* New screenings: 
+    * [Wicked](https://drafthouse.com/los-angeles/show/wicked): Thu 11/21 (2:00pm, 2:45pm, 5:45pm, 6:30pm, 9:30pm, 10:20pm)
+
 ### Thu 10/10 11:26am
 * New movies: The Great Gatsby 1974
 
