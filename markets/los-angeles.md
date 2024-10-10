@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 10/10 11:26am
+* New movies: The Great Gatsby 1974
+
+* New screenings: 
+    * [The Great Gatsby 1974](https://drafthouse.com/los-angeles/show/the-great-gatsby-1974): Sat 12/14 (11:10am)
+
 ### Thu 10/10 8:20am
 * New movies: Klaus
 
