@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 10/10 8:20am
+* New movies: Klaus
+
+* New screenings: 
+    * [Klaus](https://drafthouse.com/los-angeles/show/klaus): Sun 12/8 (11:00am)
+
 ### Thu 10/10 5:38am
 * New movies: Anora, Conclave
 
