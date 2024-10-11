@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 10/11 1:20pm
+* New movies: FLASH GORDON
+
+* New screenings: 
+    * [Flash Gordon](https://drafthouse.com/los-angeles/show/flash-gordon): Fri 11/29 (4:10pm), Wed 12/4 (7:45pm)
+
 ### Thu 10/10 1:21pm
 
 * New screenings: 
