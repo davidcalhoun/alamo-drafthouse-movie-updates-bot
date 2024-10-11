@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 10/11 2:22pm
+* New movies: Heavier Trip
+
+* New screenings: 
+    * [Heavier Trip](https://drafthouse.com/los-angeles/show/heavier-trip): Fri 11/29 (7:15pm), Sat 11/30 (8:30pm), Sun 12/1 (5:30pm)
+
 ### Fri 10/11 1:20pm
 * New movies: FLASH GORDON
 
