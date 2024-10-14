@@ -1,6 +1,42 @@
 # raleigh
 
 ## Movie updates
+### Mon 10/14 5:21pm
+* New movies: The Fall, Shaun of the Dead
+
+* New screenings: 
+    * [Beetlejuice Beetlejuice](https://drafthouse.com/raleigh/show/beetlejuice-beetlejuice): Thu 10/17 (12:45pm, 3:45pm, 6:30pm, 9:45pm), Fri 10/18 (12:30pm, 3:15pm, 6:00pm, 9:00pm), Sat 10/19 (12:30pm, 3:15pm, 6:00pm, 9:00pm), Sun 10/20 (12:30pm, 3:15pm, 6:00pm, 9:00pm), Mon 10/21 (11:45am, 2:45pm, 6:00pm, 9:00pm), Tue 10/22 (12:30pm, 3:15pm, 6:00pm, 9:00pm), Wed 10/23 (1:15pm, 4:30pm, 7:30pm, 10:30pm)
+
+    * [Blink](https://drafthouse.com/raleigh/show/blink): Thu 10/17 (11:45am)
+
+    * [Joker Folie A Deux](https://drafthouse.com/raleigh/show/joker-folie-a-deux): Thu 10/17 (12:45pm, 4:00pm), Fri 10/18 (11:15am, 2:45pm), Sat 10/19 (10:00pm), Sun 10/20 (10:00pm), Mon 10/21 (11:15am, 2:45pm), Tue 10/22 (11:15am, 2:45pm), Wed 10/23 (11:15am)
+
+    * [Megalopolis](https://drafthouse.com/raleigh/show/megalopolis): Thu 10/17 (4:00pm, 10:50pm), Fri 10/18 (10:50pm), Sat 10/19 (10:50pm), Sun 10/20 (10:50pm), Mon 10/21 (10:35pm), Tue 10/22 (10:35pm), Wed 10/23 (10:40pm)
+
+    * [My Old Ass](https://drafthouse.com/raleigh/show/my-old-ass): Thu 10/17 (2:15pm)
+
+    * [Piece By Piece](https://drafthouse.com/raleigh/show/piece-by-piece): Thu 10/17 (12:00pm, 3:15pm, 6:15pm, 9:00pm), Fri 10/18 (1:00pm, 4:15pm, 7:15pm, 10:00pm), Sat 10/19 (1:00pm, 4:15pm, 7:15pm, 10:00pm), Sun 10/20 (1:00pm, 4:15pm, 7:15pm, 10:00pm), Mon 10/21 (1:00pm, 4:15pm, 7:15pm, 10:00pm), Tue 10/22 (1:00pm, 4:15pm, 7:15pm, 10:00pm), Wed 10/23 (12:30pm, 3:30pm, 6:45pm, 9:30pm)
+
+    * [Saturday Night](https://drafthouse.com/raleigh/show/saturday-night): Thu 10/17 (12:30pm, 3:30pm, 6:45pm, 9:45pm), Fri 10/18 (12:45pm, 4:00pm, 7:15pm, 10:15pm), Sat 10/19 (12:45pm, 4:00pm, 7:15pm, 10:15pm), Sun 10/20 (12:45pm, 4:00pm, 7:15pm, 10:15pm), Mon 10/21 (12:45pm, 4:00pm, 7:45pm, 10:15pm), Tue 10/22 (12:30pm, 3:45pm, 7:45pm, 10:15pm), Wed 10/23 (12:45pm, 4:00pm, 7:15pm, 10:15pm)
+
+    * [Shaun Of The Dead](https://drafthouse.com/raleigh/show/shaun-of-the-dead): Thu 10/17 (1:00pm)
+
+    * [Smile 2](https://drafthouse.com/raleigh/show/smile-2): Thu 10/17 (8:00pm), Fri 10/18 (1:00pm, 4:30pm, 7:45pm), Sat 10/19 (1:00pm, 4:30pm, 7:45pm), Sun 10/20 (1:15pm, 4:30pm, 7:45pm), Mon 10/21 (12:30pm, 1:15pm, 3:45pm, 4:30pm, 7:00pm, 10:30pm), Tue 10/22 (11:30am, 1:00pm, 3:30pm, 7:00pm, 10:15pm), Wed 10/23 (11:15am, 1:15pm, 2:30pm, 4:30pm, 6:00pm, 9:30pm)
+
+    * [Terrifier 3](https://drafthouse.com/raleigh/show/terrifier-3): Thu 10/17 (1:15pm, 4:25pm, 7:45pm, 10:15pm), Fri 10/18 (11:45am, 3:15pm, 6:45pm, 9:15pm), Sat 10/19 (11:45am, 3:15pm, 6:15pm, 9:45pm), Sun 10/20 (11:45am, 3:15pm, 6:30pm, 9:45pm), Mon 10/21 (11:45am, 3:15pm, 6:45pm, 10:00pm), Tue 10/22 (11:30am, 3:15pm, 6:30pm, 9:45pm), Wed 10/23 (11:45am, 3:15pm, 6:45pm, 10:15pm)
+
+    * [The Fall](https://drafthouse.com/raleigh/show/the-fall): Thu 10/17 (4:45pm), Fri 10/18 (6:15pm), Sat 10/19 (6:45pm), Sun 10/20 (6:45pm), Mon 10/21 (7:15pm), Tue 10/22 (4:30pm, 6:15pm)
+
+    * [The Shining](https://drafthouse.com/raleigh/show/the-shining): Tue 10/22 (6:45pm)
+
+    * [The Substance](https://drafthouse.com/raleigh/show/the-substance): Thu 10/17 (11:45am, 3:30pm, 7:15pm, 10:35pm), Fri 10/18 (11:00am, 2:30pm, 6:15pm, 9:45pm), Sat 10/19 (11:00am, 2:30pm, 6:15pm, 9:45pm), Sun 10/20 (11:00am, 2:30pm, 6:15pm, 9:45pm), Mon 10/21 (11:00am, 2:30pm, 6:15pm, 9:45pm), Tue 10/22 (11:00am, 2:30pm, 6:15pm, 9:45pm), Wed 10/23 (11:30am, 2:30pm, 6:30pm, 10:00pm)
+
+    * [The Wild Robot](https://drafthouse.com/raleigh/show/the-wild-robot): Thu 10/17 (11:30am, 2:45pm, 6:00pm, 9:00pm), Fri 10/18 (12:15pm, 3:00pm, 6:00pm, 9:00pm), Sat 10/19 (12:15pm, 3:15pm, 6:00pm, 9:00pm), Sun 10/20 (12:15pm, 3:15pm, 6:00pm, 9:00pm), Mon 10/21 (12:15pm, 3:00pm, 6:00pm, 9:00pm), Tue 10/22 (12:15pm, 3:00pm, 6:00pm, 9:00pm), Wed 10/23 (12:15pm, 3:00pm, 6:15pm, 9:15pm)
+
+    * [Transformers One](https://drafthouse.com/raleigh/show/transformers-one): Thu 10/17 (12:30pm, 3:45pm)
+
+    * [We Live In Time](https://drafthouse.com/raleigh/show/we-live-in-time): Mon 10/21 (12:00pm, 3:15pm, 6:15pm, 9:15pm), Tue 10/22 (12:00pm, 3:00pm, 6:00pm, 9:15pm), Wed 10/23 (1:00pm, 4:00pm, 6:00pm, 10:00pm)
+
 ### Mon 10/14 2:31pm
 * New movies: It's a Wonderful Life, Eyes Wide Shut, Paris, Texas, Phantom Thread, The Apartment, When Harry Met Sally...
 
