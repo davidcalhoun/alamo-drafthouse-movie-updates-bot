@@ -1,6 +1,22 @@
 # raleigh
 
 ## Movie updates
+### Mon 10/14 2:31pm
+* New movies: It's a Wonderful Life, Eyes Wide Shut, Paris, Texas, Phantom Thread, The Apartment, When Harry Met Sally...
+
+* New screenings: 
+    * [Brunch Screenings Its A Wonderful Life Brunch](https://drafthouse.com/raleigh/show/brunch-screenings-its-a-wonderful-life-brunch): Tue 12/24 (11:00am)
+
+    * [Eyes Wide Shut](https://drafthouse.com/raleigh/show/eyes-wide-shut): Mon 12/23 (6:00pm)
+
+    * [Paris Texas](https://drafthouse.com/raleigh/show/paris-texas): Sat 12/28 (2:45pm)
+
+    * [Phantom Thread](https://drafthouse.com/raleigh/show/phantom-thread): Wed 1/1 (3:30pm)
+
+    * [The Apartment](https://drafthouse.com/raleigh/show/the-apartment): Tue 12/31 (11:30am)
+
+    * [When Harry Met Sally](https://drafthouse.com/raleigh/show/when-harry-met-sally): Tue 12/31 (2:30pm)
+
 ### Thu 10/10 4:25pm
 * New movies: Klaus, SPACE IS THE PLACE
 
