@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 10/14 8:20am
+
+* New screenings: 
+    * [We Live In Time](https://drafthouse.com/los-angeles/show/we-live-in-time): Sat 10/19 (10:40am)
+
 ### Fri 10/11 2:22pm
 * New movies: Heavier Trip
 
