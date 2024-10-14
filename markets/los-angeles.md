@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 10/14 9:24am
+* New movies: Breakfast of Champions
+
+* New screenings: 
+    * [Alamo Time Capsule 1999 Breakfast Of Champions W Live Q A](https://drafthouse.com/los-angeles/show/alamo-time-capsule-1999-breakfast-of-champions-w-live-q-a): Fri 11/15 (7:15pm)
+
 ### Mon 10/14 8:20am
 
 * New screenings: 
