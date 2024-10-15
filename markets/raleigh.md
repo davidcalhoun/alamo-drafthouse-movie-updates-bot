@@ -1,6 +1,30 @@
 # raleigh
 
 ## Movie updates
+### Tue 10/15 11:25am
+* New movies: Grave of the Fireflies Subtitled, Silent Night, Deadly Night, The Texas Chain Saw Massacre 1974, Blazing Saddles, Female Trouble, Foxy Brown, South Park: Bigger, Longer & Uncut, The Godfather Part II, The Great Dictator, A Woman Under the Influence
+
+* New screenings: 
+    * [A Woman Under The Influence](https://drafthouse.com/raleigh/show/a-woman-under-the-influence): Sun 11/17 (11:15am)
+
+    * [Blazing Saddles](https://drafthouse.com/raleigh/show/blazing-saddles): Sun 11/10 (11:15am)
+
+    * [Female Trouble](https://drafthouse.com/raleigh/show/female-trouble): Fri 12/6 (9:30pm)
+
+    * [Foxy Brown](https://drafthouse.com/raleigh/show/foxy-brown): Fri 11/29 (9:45pm)
+
+    * [Grave Of The Fireflies Subtitled](https://drafthouse.com/raleigh/show/grave-of-the-fireflies-subtitled): Mon 11/11 (6:15pm)
+
+    * [Graveyard Shift Silent Night Deadly Night](https://drafthouse.com/raleigh/show/graveyard-shift-silent-night-deadly-night): Mon 12/2 (9:30pm)
+
+    * [Graveyard Shift The Texas Chain Saw Massacre 1974](https://drafthouse.com/raleigh/show/graveyard-shift-the-texas-chain-saw-massacre-1974): Mon 11/4 (9:30pm)
+
+    * [South Park Bigger Longer Uncut](https://drafthouse.com/raleigh/show/south-park-bigger-longer-uncut): Mon 12/30 (9:30pm)
+
+    * [The Godfather Part Ii](https://drafthouse.com/raleigh/show/the-godfather-part-ii): Sat 11/16 (11:15am)
+
+    * [The Great Dictator](https://drafthouse.com/raleigh/show/the-great-dictator): Sun 11/3 (12:15pm)
+
 ### Mon 10/14 5:21pm
 * New movies: The Fall, Shaun of the Dead
 
