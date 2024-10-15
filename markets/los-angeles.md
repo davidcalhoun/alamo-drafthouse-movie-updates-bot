@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 10/15 4:20pm
+* New movies: Memoir of a Snail
+
+* New screenings: 
+    * [Fantastic Fest Presents Memoir Of A Snail Advance Screening](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-memoir-of-a-snail-advance-screening): Tue 10/22 (7:00pm)
+
 ### Tue 10/15 8:21am
 * New movies: Black Christmas 1974, Grave of the Fireflies Subtitled, Silent Night, Deadly Night, Querelle, Batman Returns, Blast of Silence, Blazing Saddles, Female Trouble, Foxy Brown, How the Grinch Stole Christmas, Murder on the Orient Express 1974, South Park: Bigger, Longer & Uncut, The Godfather Part II, The Great Dictator, The Longest Yard 1974, A Woman Under the Influence
 
