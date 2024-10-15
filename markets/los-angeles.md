@@ -1,6 +1,52 @@
 # los-angeles
 
 ## Movie updates
+### Mon 10/14 6:37pm
+* New movies: MadS, Joker: Folie A Deux
+
+* New screenings: 
+    * [Beetlejuice Beetlejuice](https://drafthouse.com/los-angeles/show/beetlejuice-beetlejuice): Fri 10/18 (1:20pm, 10:45pm), Sat 10/19 (1:15pm), Sun 10/20 (3:10pm), Mon 10/21 (11:00am, 4:35pm), Tue 10/22 (4:00pm), Wed 10/23 (1:20pm)
+
+    * [Brunch Screenings Joker Folie A Deux Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-joker-folie-a-deux-brunch): Sat 10/19 (11:00am), Sun 10/20 (11:00am)
+
+    * [Casper](https://drafthouse.com/los-angeles/show/casper): Fri 10/18 (12:20pm), Sun 10/20 (10:50am), Mon 10/21 (1:50pm)
+
+    * [Cat People 1942](https://drafthouse.com/los-angeles/show/cat-people-1942): Fri 10/18 (11:00am), Sat 10/19 (10:50am), Wed 10/23 (11:00am)
+
+    * [Joker Folie A Deux](https://drafthouse.com/los-angeles/show/joker-folie-a-deux): Thu 10/17 (2:40pm, 6:10pm, 9:40pm), Fri 10/18 (11:00am, 2:30pm, 6:00pm, 9:30pm), Sat 10/19 (2:30pm, 6:00pm, 9:30pm), Sun 10/20 (2:30pm, 6:00pm), Mon 10/21 (12:00pm, 3:30pm, 7:00pm, 10:25pm), Tue 10/22 (11:00am, 2:30pm, 6:00pm, 9:30pm), Wed 10/23 (11:00am, 2:30pm, 6:00pm, 9:30pm)
+
+    * [Lupin The 3rd The Castle Of Cagliostro](https://drafthouse.com/los-angeles/show/lupin-the-3rd-the-castle-of-cagliostro): Thu 10/17 (4:25pm)
+
+    * [Mads](https://drafthouse.com/los-angeles/show/mads): Tue 10/22 (10:00pm), Wed 10/23 (10:20pm)
+
+    * [Megalopolis](https://drafthouse.com/los-angeles/show/megalopolis): Thu 10/17 (3:30pm), Tue 10/22 (12:30pm), Wed 10/23 (11:20am)
+
+    * [My Old Ass](https://drafthouse.com/los-angeles/show/my-old-ass): Thu 10/17 (2:40pm, 5:20pm)
+
+    * [Nightmare On Elm Street 3 Dream Warriors](https://drafthouse.com/los-angeles/show/nightmare-on-elm-street-3-dream-warriors): Sat 10/19 (10:30pm)
+
+    * [Piece By Piece](https://drafthouse.com/los-angeles/show/piece-by-piece): Thu 10/17 (4:35pm, 7:20pm, 10:55pm), Fri 10/18 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Sat 10/19 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Sun 10/20 (11:15am, 2:00pm, 4:45pm, 7:30pm), Mon 10/21 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Tue 10/22 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Wed 10/23 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm)
+
+    * [Queer Film Theory 101 The Brood](https://drafthouse.com/los-angeles/show/queer-film-theory-101-the-brood): Mon 10/21 (10:30pm)
+
+    * [Saturday Night](https://drafthouse.com/los-angeles/show/saturday-night): Thu 10/17 (3:00pm, 6:00pm, 9:00pm), Fri 10/18 (12:10pm, 3:10pm, 6:10pm, 9:10pm), Sat 10/19 (12:10pm, 3:10pm, 6:10pm, 9:10pm), Sun 10/20 (12:10pm, 3:10pm, 6:10pm), Mon 10/21 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Tue 10/22 (12:10pm, 3:10pm, 6:10pm, 9:10pm), Wed 10/23 (12:20pm, 3:20pm, 6:20pm, 9:20pm)
+
+    * [Smile 2](https://drafthouse.com/los-angeles/show/smile-2): Thu 10/17 (9:35pm), Fri 10/18 (7:20pm), Sat 10/19 (9:00pm)
+
+    * [Terrifier 3](https://drafthouse.com/los-angeles/show/terrifier-3): Thu 10/17 (3:30pm, 6:45pm, 10:00pm), Fri 10/18 (12:40pm, 3:55pm, 7:10pm, 10:25pm), Sat 10/19 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Sun 10/20 (12:30pm, 3:45pm, 7:00pm), Mon 10/21 (12:40pm, 3:55pm, 7:10pm, 10:25pm), Tue 10/22 (12:35pm, 3:50pm, 7:10pm, 10:25pm), Wed 10/23 (12:35pm, 3:50pm, 7:10pm, 10:25pm)
+
+    * [The Apprentice](https://drafthouse.com/los-angeles/show/the-apprentice): Thu 10/17 (3:00pm, 6:20pm, 10:00pm), Fri 10/18 (11:35am, 3:10pm, 6:00pm, 9:25pm), Sat 10/19 (11:45am, 3:00pm, 6:20pm, 9:35pm), Sun 10/20 (11:45am, 3:00pm, 6:20pm), Mon 10/21 (11:30am, 2:45pm, 6:00pm, 9:15pm), Tue 10/22 (11:30am, 2:45pm, 6:00pm, 9:15pm), Wed 10/23 (11:50am, 3:00pm, 6:10pm, 9:25pm)
+
+    * [The Fall](https://drafthouse.com/los-angeles/show/the-fall): Thu 10/17 (4:20pm), Fri 10/18 (2:50pm), Sat 10/19 (7:20pm), Sun 10/20 (6:10pm), Mon 10/21 (1:00pm, 4:10pm), Tue 10/22 (1:00pm, 4:10pm), Wed 10/23 (2:50pm)
+
+    * [The Shining](https://drafthouse.com/los-angeles/show/the-shining): Mon 10/21 (10:10pm), Tue 10/22 (9:45pm)
+
+    * [The Substance](https://drafthouse.com/los-angeles/show/the-substance): Thu 10/17 (3:00pm, 6:30pm, 10:00pm), Fri 10/18 (11:30am, 3:00pm, 6:30pm, 10:00pm), Sat 10/19 (11:30am, 3:00pm, 6:30pm, 10:00pm), Sun 10/20 (11:30am, 3:00pm, 6:30pm), Mon 10/21 (11:20am, 2:50pm, 6:20pm, 9:50pm), Tue 10/22 (11:20am, 2:50pm, 6:20pm, 9:50pm), Wed 10/23 (11:30am, 3:00pm, 6:30pm, 10:00pm)
+
+    * [The Wild Robot](https://drafthouse.com/los-angeles/show/the-wild-robot): Thu 10/17 (3:20pm, 6:15pm, 10:10pm), Fri 10/18 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:25pm), Sat 10/19 (10:45am, 1:30pm, 4:20pm, 7:10pm, 10:00pm), Sun 10/20 (10:45am, 1:35pm, 4:20pm, 7:10pm), Mon 10/21 (12:30pm, 3:20pm, 6:10pm, 9:00pm), Tue 10/22 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Wed 10/23 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm)
+
+    * [We Live In Time](https://drafthouse.com/los-angeles/show/we-live-in-time): Thu 10/17 (8:00pm, 9:10pm), Fri 10/18 (6:25pm), Sat 10/19 (6:00pm)
+
 ### Mon 10/14 9:24am
 * New movies: Breakfast of Champions
 
