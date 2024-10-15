@@ -1,6 +1,42 @@
 # los-angeles
 
 ## Movie updates
+### Tue 10/15 8:21am
+* New movies: Black Christmas 1974, Grave of the Fireflies Subtitled, Silent Night, Deadly Night, Querelle, Batman Returns, Blast of Silence, Blazing Saddles, Female Trouble, Foxy Brown, How the Grinch Stole Christmas, Murder on the Orient Express 1974, South Park: Bigger, Longer & Uncut, The Godfather Part II, The Great Dictator, The Longest Yard 1974, A Woman Under the Influence
+
+* New screenings: 
+    * [A Woman Under The Influence](https://drafthouse.com/los-angeles/show/a-woman-under-the-influence): Sun 11/17 (2:15pm)
+
+    * [Batman Returns](https://drafthouse.com/los-angeles/show/batman-returns): Mon 12/9 (6:00pm)
+
+    * [Black Christmas](https://drafthouse.com/los-angeles/show/black-christmas): Fri 12/13 (4:25pm), Sat 12/14 (6:00pm), Wed 12/18 (7:15pm)
+
+    * [Blast Of Silence](https://drafthouse.com/los-angeles/show/blast-of-silence): Sun 12/15 (2:00pm)
+
+    * [Blazing Saddles](https://drafthouse.com/los-angeles/show/blazing-saddles): Mon 11/11 (3:15pm)
+
+    * [Female Trouble](https://drafthouse.com/los-angeles/show/female-trouble): Fri 12/6 (9:30pm)
+
+    * [Foxy Brown](https://drafthouse.com/los-angeles/show/foxy-brown): Fri 11/29 (10:00pm)
+
+    * [Grave Of The Fireflies Subtitled](https://drafthouse.com/los-angeles/show/grave-of-the-fireflies-subtitled): Mon 11/11 (6:00pm)
+
+    * [Graveyard Shift Silent Night Deadly Night](https://drafthouse.com/los-angeles/show/graveyard-shift-silent-night-deadly-night): Mon 12/2 (9:00pm)
+
+    * [How The Grinch Stole Christmas](https://drafthouse.com/los-angeles/show/how-the-grinch-stole-christmas): Sat 11/30 (2:30pm)
+
+    * [Murder On The Orient Express 1974](https://drafthouse.com/los-angeles/show/murder-on-the-orient-express-1974): Sun 12/1 (2:10pm)
+
+    * [Queer Film Theory 101 Querelle](https://drafthouse.com/los-angeles/show/queer-film-theory-101-querelle): Sun 12/15 (4:30pm)
+
+    * [South Park Bigger Longer Uncut](https://drafthouse.com/los-angeles/show/south-park-bigger-longer-uncut): Mon 12/30 (8:45pm)
+
+    * [The Godfather Part Ii](https://drafthouse.com/los-angeles/show/the-godfather-part-ii): Sat 11/16 (11:30am)
+
+    * [The Great Dictator](https://drafthouse.com/los-angeles/show/the-great-dictator): Sun 11/3 (11:45am)
+
+    * [The Longest Yard 1974](https://drafthouse.com/los-angeles/show/the-longest-yard-1974): Sat 12/14 (2:45pm)
+
 ### Mon 10/14 6:37pm
 * New movies: MadS, Joker: Folie A Deux
 
