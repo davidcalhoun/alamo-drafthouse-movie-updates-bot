@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Tue 10/15 9:51pm
+* New movies: Jaws: The Revenge, Blood Feast, Runaway Train
+
+* New screenings: 
+    * [Terror Tuesday Jaws The Revenge](https://drafthouse.com/raleigh/show/terror-tuesday-jaws-the-revenge): Tue 12/17 (9:00pm)
+
+    * [Weird Wednesday Runaway Train](https://drafthouse.com/raleigh/show/weird-wednesday-runaway-train): Wed 12/4 (9:00pm)
+
 ### Tue 10/15 11:25am
 * New movies: Grave of the Fireflies Subtitled, Silent Night, Deadly Night, The Texas Chain Saw Massacre 1974, Blazing Saddles, Female Trouble, Foxy Brown, South Park: Bigger, Longer & Uncut, The Godfather Part II, The Great Dictator, A Woman Under the Influence
 
