@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 10/15 7:53pm
+* New movies: The Birthday
+
+* New screenings: 
+    * [Live Qa The Birthday](https://drafthouse.com/los-angeles/show/live-qa-the-birthday): Fri 11/1 (7:30pm)
+
 ### Tue 10/15 4:20pm
 * New movies: Memoir of a Snail
 
