@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 10/16 8:47am
+* New movies: Longlegs
+
+* New screenings: 
+    * [Special Event Longlegs W Pre Taped Q A The Monkey First Look](https://drafthouse.com/raleigh/show/special-event-longlegs-w-pre-taped-q-a-the-monkey-first-look): Wed 10/23 (7:45pm), Thu 10/24 (10:45pm)
+
 ### Tue 10/15 9:51pm
 * New movies: Jaws: The Revenge, Blood Feast, Runaway Train
 
