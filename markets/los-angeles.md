@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/16 5:39am
+* New movies: Longlegs
+
+* New screenings: 
+    * [Special Event Longlegs W Pre Taped Q A The Monkey First Look](https://drafthouse.com/los-angeles/show/special-event-longlegs-w-pre-taped-q-a-the-monkey-first-look): Wed 10/23 (4:10pm, 9:00pm)
+
 ### Tue 10/15 7:53pm
 * New movies: The Birthday
 
