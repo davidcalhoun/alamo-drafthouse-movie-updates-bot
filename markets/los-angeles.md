@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/16 7:50pm
+
+* New screenings: 
+    * [Anora](https://drafthouse.com/los-angeles/show/anora): Thu 10/24 (6:00pm, 9:30pm), Fri 10/25 (10:45am, 2:15pm, 5:45pm, 9:15pm), Sat 10/26 (10:45am, 2:15pm, 5:45pm, 9:15pm), Sun 10/27 (10:45am, 2:15pm, 5:45pm), Mon 10/28 (11:00am, 2:20pm, 5:45pm, 9:15pm), Tue 10/29 (11:00am, 2:20pm, 5:45pm, 9:15pm), Wed 10/30 (11:00am, 2:20pm, 5:45pm, 9:15pm)
+
 ### Wed 10/16 6:36pm
 
 * New screenings: 
