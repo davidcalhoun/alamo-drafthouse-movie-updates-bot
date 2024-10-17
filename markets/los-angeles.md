@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Thu 10/17 4:19pm
+* New movies: Here, The Birthday
+
+* New screenings: 
+    * [Here](https://drafthouse.com/los-angeles/show/here): Thu 10/31 (4:50pm, 7:45pm, 10:40pm), Fri 11/1 (11:00am, 1:50pm, 4:45pm, 7:45pm, 10:40pm), Sat 11/2 (11:00am, 1:50pm, 4:45pm, 7:45pm, 10:40pm), Sun 11/3 (11:00am, 1:50pm, 4:45pm, 7:45pm)
+
+    * [Live Qa The Birthday](https://drafthouse.com/los-angeles/show/live-qa-the-birthday): Sat 11/2 (6:00pm)
+
+    * [The Birthday](https://drafthouse.com/los-angeles/show/the-birthday): Sun 11/3 (3:00pm)
+
 ### Wed 10/16 7:50pm
 
 * New screenings: 
