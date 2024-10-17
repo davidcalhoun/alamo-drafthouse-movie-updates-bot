@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/16 6:36pm
+
+* New screenings: 
+    * [Twittering Soul](https://drafthouse.com/los-angeles/show/twittering-soul): Sat 11/16 (10:45am)
+
 ### Wed 10/16 5:39am
 * New movies: Longlegs
 
