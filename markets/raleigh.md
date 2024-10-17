@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Wed 10/16 9:49pm
+* New movies: Trancers
+
+
+
 ### Wed 10/16 8:47am
 * New movies: Longlegs
 
