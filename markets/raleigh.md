@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 10/18 8:46am
+* New movies: Heretic
+
+* New screenings: 
+    * [Heretic](https://drafthouse.com/raleigh/show/heretic): Thu 11/7 (7:00pm, 10:00pm), Fri 11/8 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sat 11/9 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sun 11/10 (1:00pm, 4:00pm, 7:00pm, 10:00pm)
+
 ### Wed 10/16 9:49pm
 * New movies: Trancers
 
