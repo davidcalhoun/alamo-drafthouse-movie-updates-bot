@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 10/18 11:25am
+* New movies: Heretic
+
+* New screenings: 
+    * [Livestream Q A Heretic](https://drafthouse.com/raleigh/show/livestream-q-a-heretic): Wed 10/30 (8:00pm)
+
 ### Fri 10/18 8:46am
 * New movies: Heretic
 
