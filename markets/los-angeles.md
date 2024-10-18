@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 10/18 3:18pm
+
+* New screenings: 
+    * [Beetlejuice Beetlejuice](https://drafthouse.com/los-angeles/show/beetlejuice-beetlejuice): Tue 10/22 (4:00pm)
+
 ### Fri 10/18 5:38am
 * New movies: Heretic, Heretic
 
