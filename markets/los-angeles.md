@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 10/18 5:38am
+* New movies: Heretic, Heretic
+
+* New screenings: 
+    * [Heretic](https://drafthouse.com/los-angeles/show/heretic): Thu 11/7 (7:00pm, 10:00pm), Fri 11/8 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sat 11/9 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sun 11/10 (12:30pm, 3:30pm, 6:30pm), Mon 11/11 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Tue 11/12 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Wed 11/13 (12:30pm, 3:30pm, 6:30pm, 9:30pm)
+
+    * [Livestream Q A Heretic](https://drafthouse.com/los-angeles/show/livestream-q-a-heretic): Wed 10/30 (5:00pm)
+
 ### Thu 10/17 4:19pm
 * New movies: Here, The Birthday
 
