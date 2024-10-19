@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Sat 10/19 2:29pm
+* New movies: The Birthday
+
+* New screenings: 
+    * [Fantastic Fest Presents The Birthday W Pre Recorded Q A](https://drafthouse.com/raleigh/show/fantastic-fest-presents-the-birthday-w-pre-recorded-q-a): Fri 11/1 (10:15pm)
+
 ### Fri 10/18 11:25am
 * New movies: Heretic
 
