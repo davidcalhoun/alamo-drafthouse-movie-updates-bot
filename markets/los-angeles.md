@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 10/21 4:19pm
+* New movies: Dream Team
+
+* New screenings: 
+    * [Dream Team](https://drafthouse.com/los-angeles/show/dream-team): Fri 11/15 (10:35pm)
+
 ### Mon 10/21 3:18pm
 
 * New screenings: 
