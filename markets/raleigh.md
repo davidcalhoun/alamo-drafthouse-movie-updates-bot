@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 10/21 4:24pm
+
+* New screenings: 
+    * [A Real Pain](https://drafthouse.com/raleigh/show/a-real-pain): Thu 11/14 (3:30pm), Sat 11/16 (1:00pm, 3:45pm, 6:30pm, 9:00pm), Sun 11/17 (1:00pm, 3:45pm, 6:30pm, 9:00pm)
+
 ### Mon 10/21 3:18pm
 * New movies: Piece by Piece
 
