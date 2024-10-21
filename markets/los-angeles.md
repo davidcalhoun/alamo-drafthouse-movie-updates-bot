@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 10/21 9:24am
+* New movies: A Real Pain
+
+* New screenings: 
+    * [A Real Pain](https://drafthouse.com/los-angeles/show/a-real-pain): Thu 11/7 (4:00pm, 6:40pm, 9:20pm), Fri 11/8 (11:00am, 1:40pm, 4:20pm, 7:00pm, 9:40pm), Sat 11/9 (11:00am, 1:40pm, 4:20pm, 7:00pm, 9:40pm), Sun 11/10 (11:00am, 1:40pm, 4:20pm, 7:00pm), Mon 11/11 (11:00am, 1:40pm, 4:20pm, 7:00pm, 9:40pm), Tue 11/12 (11:00am, 1:40pm, 4:20pm, 7:00pm, 9:40pm), Wed 11/13 (11:00am, 1:40pm, 4:20pm, 7:00pm, 9:40pm)
+
 ### Fri 10/18 3:18pm
 
 * New screenings: 
