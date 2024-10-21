@@ -1,6 +1,41 @@
 # los-angeles
 
 ## Movie updates
+### Mon 10/21 3:18pm
+
+* New screenings: 
+    * [Anora](https://drafthouse.com/los-angeles/show/anora): Thu 10/24 (6:15pm, 8:25pm), Fri 10/25 (1:00pm), Sat 10/26 (11:40am, 6:15pm, 9:50pm), Sun 10/27 (11:30am, 4:10pm, 7:40pm), Mon 10/28 (12:50pm, 8:40pm)
+
+    * [Halloween 1978](https://drafthouse.com/los-angeles/show/halloween-1978): Tue 10/29 (2:45pm, 10:20pm), Wed 10/30 (4:30pm, 10:00pm)
+
+    * [Joker Folie A Deux](https://drafthouse.com/los-angeles/show/joker-folie-a-deux): Thu 10/24 (2:45pm)
+
+    * [Rumours](https://drafthouse.com/los-angeles/show/rumours): Thu 10/24 (3:40pm, 7:25pm, 10:20pm), Fri 10/25 (12:45pm, 3:30pm, 6:25pm, 10:00pm), Sat 10/26 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:40pm), Sun 10/27 (11:00am, 1:55pm, 4:50pm, 7:45pm), Mon 10/28 (12:50pm, 3:50pm, 7:25pm, 10:20pm), Tue 10/29 (12:50pm, 3:50pm, 7:25pm, 10:20pm), Wed 10/30 (12:50pm, 3:50pm, 7:25pm, 10:20pm)
+
+    * [Saturday Night](https://drafthouse.com/los-angeles/show/saturday-night): Thu 10/24 (2:30pm), Fri 10/25 (3:00pm, 9:15pm), Sat 10/26 (3:00pm, 9:15pm), Sun 10/27 (3:00pm), Mon 10/28 (3:00pm, 9:15pm), Tue 10/29 (3:00pm, 9:15pm), Wed 10/30 (3:00pm, 9:15pm)
+
+    * [Smile 2](https://drafthouse.com/los-angeles/show/smile-2): Thu 10/24 (4:00pm, 6:50pm, 10:10pm), Fri 10/25 (11:40am, 3:00pm, 6:45pm, 10:00pm), Sat 10/26 (12:10pm, 3:25pm, 6:45pm, 10:05pm), Sun 10/27 (12:10pm, 3:25pm, 6:45pm), Mon 10/28 (11:45am, 3:00pm, 6:15pm, 9:35pm), Tue 10/29 (11:45am, 3:00pm, 6:15pm, 9:35pm), Wed 10/30 (11:45am, 3:00pm, 6:15pm, 9:35pm)
+
+    * [Special Event Longlegs W Pre Taped Q A The Monkey First Look](https://drafthouse.com/los-angeles/show/special-event-longlegs-w-pre-taped-q-a-the-monkey-first-look): Fri 10/25 (3:40pm), Mon 10/28 (11:15am), Tue 10/29 (5:30pm), Wed 10/30 (1:50pm)
+
+    * [Terrifier 3](https://drafthouse.com/los-angeles/show/terrifier-3): Thu 10/24 (7:20pm, 10:35pm), Fri 10/25 (7:20pm, 10:35pm), Sat 10/26 (7:20pm, 10:35pm), Sun 10/27 (7:20pm), Mon 10/28 (7:10pm, 10:25pm), Tue 10/29 (7:20pm, 10:35pm), Wed 10/30 (7:20pm, 10:35pm)
+
+    * [The Apprentice](https://drafthouse.com/los-angeles/show/the-apprentice): Thu 10/24 (2:45pm, 6:00pm), Fri 10/25 (11:45am, 6:00pm), Sat 10/26 (11:45am, 6:00pm), Sun 10/27 (11:45am, 6:00pm), Mon 10/28 (11:45am, 6:00pm), Tue 10/29 (11:45am, 6:00pm), Wed 10/30 (11:45am, 6:00pm)
+
+    * [The Fall](https://drafthouse.com/los-angeles/show/the-fall): Thu 10/24 (2:50pm, 9:15pm), Mon 10/28 (5:30pm), Tue 10/29 (11:35am), Wed 10/30 (1:15pm)
+
+    * [The Guest](https://drafthouse.com/los-angeles/show/the-guest): Mon 10/28 (4:20pm), Tue 10/29 (4:20pm), Wed 10/30 (11:00am)
+
+    * [The Substance](https://drafthouse.com/los-angeles/show/the-substance): Thu 10/24 (3:50pm, 6:40pm, 10:10pm), Fri 10/25 (11:00am, 2:30pm, 6:00pm, 9:30pm), Sat 10/26 (11:00am, 2:30pm, 6:00pm, 9:30pm), Sun 10/27 (11:15am, 2:45pm, 6:15pm), Mon 10/28 (12:50pm, 3:45pm, 6:45pm, 10:15pm), Tue 10/29 (12:50pm, 3:45pm, 6:45pm, 10:15pm), Wed 10/30 (12:50pm, 3:45pm, 6:45pm, 10:15pm)
+
+    * [The Wild Robot](https://drafthouse.com/los-angeles/show/the-wild-robot): Thu 10/24 (4:00pm), Fri 10/25 (10:50am, 1:40pm, 4:30pm), Sat 10/26 (10:50am, 1:40pm, 4:30pm), Sun 10/27 (10:50am, 1:40pm, 4:30pm), Mon 10/28 (1:00pm, 4:25pm), Tue 10/29 (1:00pm, 4:25pm), Wed 10/30 (1:00pm, 4:25pm)
+
+    * [Venom The Last Dance](https://drafthouse.com/los-angeles/show/venom-the-last-dance): Thu 10/24 (2:00pm, 4:10pm, 5:30pm, 9:45pm), Fri 10/25 (7:10pm, 10:10pm), Sat 10/26 (3:10pm, 7:10pm, 10:10pm), Sun 10/27 (3:00pm, 6:00pm), Tue 10/29 (8:35pm), Wed 10/30 (8:25pm)
+
+    * [We Live In Time](https://drafthouse.com/los-angeles/show/we-live-in-time): Thu 10/24 (2:00pm, 5:00pm, 8:00pm, 10:50pm), Fri 10/25 (10:45am, 1:40pm, 4:35pm, 7:30pm, 10:30pm), Sat 10/26 (10:40am, 1:35pm, 4:30pm, 7:30pm, 10:30pm), Sun 10/27 (10:40am, 1:35pm, 4:30pm, 7:30pm), Mon 10/28 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:45pm), Tue 10/29 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:45pm), Wed 10/30 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:45pm)
+
+    * [Wes Cravens New Nightmare](https://drafthouse.com/los-angeles/show/wes-cravens-new-nightmare): Mon 10/28 (2:25pm), Tue 10/29 (1:15pm)
+
 ### Mon 10/21 11:27am
 * New movies: Mute Witness
 
