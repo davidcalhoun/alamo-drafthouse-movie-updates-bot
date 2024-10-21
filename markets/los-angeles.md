@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 10/21 11:27am
+* New movies: Mute Witness
+
+* New screenings: 
+    * [Mute Witness](https://drafthouse.com/los-angeles/show/mute-witness): Fri 11/1 (3:15pm), Wed 11/6 (7:30pm)
+
 ### Mon 10/21 9:24am
 * New movies: A Real Pain
 
