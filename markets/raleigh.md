@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 10/21 3:18pm
+* New movies: Piece by Piece
+
+* New screenings: 
+    * [Livestream Q A Piece By Piece](https://drafthouse.com/raleigh/show/livestream-q-a-piece-by-piece): Mon 10/28 (7:30pm)
+
 ### Mon 10/21 12:29pm
 * New movies: A Real Pain
 
