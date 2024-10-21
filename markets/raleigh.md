@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 10/21 12:29pm
+* New movies: A Real Pain
+
+* New screenings: 
+    * [A Real Pain](https://drafthouse.com/raleigh/show/a-real-pain): Thu 11/14 (6:30pm, 9:30pm), Fri 11/15 (6:15pm, 10:00pm)
+
 ### Sat 10/19 2:29pm
 * New movies: The Birthday
 
