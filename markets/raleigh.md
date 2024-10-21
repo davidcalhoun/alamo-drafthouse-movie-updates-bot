@@ -1,6 +1,46 @@
 # raleigh
 
 ## Movie updates
+### Mon 10/21 5:22pm
+* New movies: The Rocky Horror Picture Show
+
+* New screenings: 
+    * [Beetlejuice Beetlejuice](https://drafthouse.com/raleigh/show/beetlejuice-beetlejuice): Thu 10/24 (12:15pm), Fri 10/25 (12:15pm), Sat 10/26 (12:30pm), Sun 10/27 (1:15pm), Mon 10/28 (12:45pm), Tue 10/29 (1:00pm), Wed 10/30 (12:15pm)
+
+    * [Conclave](https://drafthouse.com/raleigh/show/conclave): Mon 10/28 (12:30pm, 3:45pm, 6:45pm, 9:45pm), Tue 10/29 (12:30pm, 3:45pm, 6:45pm, 10:00pm), Wed 10/30 (12:30pm, 3:45pm, 6:45pm, 9:45pm)
+
+    * [Joker Folie A Deux](https://drafthouse.com/raleigh/show/joker-folie-a-deux): Thu 10/24 (1:00pm)
+
+    * [Nightmare On Elm Street 3 Dream Warriors](https://drafthouse.com/raleigh/show/nightmare-on-elm-street-3-dream-warriors): Thu 10/24 (8:00pm, 11:15pm)
+
+    * [Piece By Piece](https://drafthouse.com/raleigh/show/piece-by-piece): Thu 10/24 (11:45am, 1:15pm), Fri 10/25 (11:45am), Sat 10/26 (11:45am), Sun 10/27 (11:45am), Mon 10/28 (11:45am), Tue 10/29 (11:45am), Wed 10/30 (12:00pm)
+
+    * [Saturday Night](https://drafthouse.com/raleigh/show/saturday-night): Thu 10/24 (2:30pm), Fri 10/25 (2:30pm), Sat 10/26 (2:30pm), Sun 10/27 (2:30pm), Mon 10/28 (3:45pm), Tue 10/29 (1:45pm), Wed 10/30 (4:30pm)
+
+    * [Smile 2](https://drafthouse.com/raleigh/show/smile-2): Thu 10/24 (12:00pm, 3:15pm, 6:25pm, 10:15pm), Fri 10/25 (11:30am, 2:45pm, 6:30pm, 9:45pm), Sat 10/26 (1:00pm, 4:15pm, 7:30pm, 9:45pm, 10:45pm), Sun 10/27 (12:45pm, 4:15pm, 5:30pm, 8:35pm, 10:45pm), Mon 10/28 (11:30am, 2:45pm, 6:30pm, 9:45pm), Tue 10/29 (12:00pm, 2:45pm, 6:30pm, 9:45pm), Wed 10/30 (11:30am, 2:40pm, 5:45pm, 7:30pm, 9:45pm)
+
+    * [Special Event Longlegs W Pre Taped Q A The Monkey First Look](https://drafthouse.com/raleigh/show/special-event-longlegs-w-pre-taped-q-a-the-monkey-first-look): Fri 10/25 (7:30pm), Sat 10/26 (7:15pm)
+
+    * [Terrifier 3](https://drafthouse.com/raleigh/show/terrifier-3): Thu 10/24 (1:15pm, 4:30pm, 7:45pm, 11:00pm), Fri 10/25 (12:45pm, 4:15pm, 10:30pm), Sat 10/26 (12:45pm, 4:10pm, 10:30pm), Sun 10/27 (11:30am, 2:45pm, 6:15pm, 9:30pm), Mon 10/28 (1:00pm, 4:15pm, 7:40pm, 10:45pm), Tue 10/29 (12:45pm, 3:50pm, 7:15pm, 10:30pm), Wed 10/30 (12:30pm, 4:15pm, 7:15pm, 10:30pm)
+
+    * [The Fall](https://drafthouse.com/raleigh/show/the-fall): Thu 10/24 (3:30pm), Fri 10/25 (3:00pm), Sat 10/26 (3:15pm), Sun 10/27 (4:15pm), Mon 10/28 (3:15pm), Tue 10/29 (3:15pm), Wed 10/30 (3:15pm)
+
+    * [The Guest](https://drafthouse.com/raleigh/show/the-guest): Sat 10/26 (8:45pm), Tue 10/29 (4:30pm)
+
+    * [The Rocky Horror Picture Show](https://drafthouse.com/raleigh/show/the-rocky-horror-picture-show): Wed 10/30 (10:45pm)
+
+    * [The Shining](https://drafthouse.com/raleigh/show/the-shining): Thu 10/24 (11:30am)
+
+    * [The Substance](https://drafthouse.com/raleigh/show/the-substance): Thu 10/24 (12:45pm, 4:15pm, 6:45pm), Fri 10/25 (6:15pm), Sat 10/26 (6:15pm), Sun 10/27 (7:15pm), Mon 10/28 (6:15pm), Tue 10/29 (6:15pm), Wed 10/30 (6:15pm)
+
+    * [The Wild Robot](https://drafthouse.com/raleigh/show/the-wild-robot): Thu 10/24 (12:15pm, 3:00pm, 6:15pm, 9:15pm), Fri 10/25 (12:00pm, 3:00pm, 6:15pm, 9:00pm), Sat 10/26 (11:45am, 3:00pm, 6:00pm, 8:45pm), Sun 10/27 (11:45am, 3:00pm, 6:00pm, 8:45pm), Mon 10/28 (12:00pm, 3:00pm, 6:15pm, 9:00pm), Tue 10/29 (11:45am, 3:00pm, 6:15pm, 9:00pm), Wed 10/30 (12:00pm, 3:00pm, 6:15pm, 9:00pm)
+
+    * [Venom The Last Dance](https://drafthouse.com/raleigh/show/venom-the-last-dance): Thu 10/24 (4:00pm, 5:30pm, 7:00pm, 8:30pm, 10:00pm), Fri 10/25 (11:15am, 1:00pm, 2:00pm, 4:00pm, 5:00pm, 5:30pm, 7:00pm, 8:00pm, 8:30pm, 10:15pm), Sat 10/26 (1:00pm, 4:00pm, 5:30pm, 7:00pm, 8:30pm, 10:00pm), Sun 10/27 (1:00pm, 4:00pm, 5:30pm, 6:30pm, 7:00pm, 8:30pm, 9:30pm, 10:00pm), Mon 10/28 (12:30pm, 1:00pm, 1:30pm, 2:30pm, 3:30pm, 4:30pm, 5:30pm, 7:00pm, 8:30pm, 9:45pm, 10:15pm, 10:30pm), Tue 10/29 (11:00am, 11:30am, 12:30pm, 2:30pm, 3:30pm, 4:00pm, 5:30pm, 7:00pm, 7:30pm, 8:30pm, 9:30pm, 10:00pm), Wed 10/30 (11:00am, 1:00pm, 1:30pm, 2:00pm, 3:00pm, 4:00pm, 5:00pm, 6:00pm, 7:00pm, 9:00pm, 10:00pm)
+
+    * [We Live In Time](https://drafthouse.com/raleigh/show/we-live-in-time): Thu 10/24 (1:00pm, 4:00pm, 7:15pm, 10:15pm), Fri 10/25 (12:45pm, 4:00pm, 7:15pm, 10:15pm), Sat 10/26 (11:30am, 2:45pm, 6:00pm, 9:00pm), Sun 10/27 (12:45pm, 3:45pm, 7:30pm, 10:30pm), Mon 10/28 (12:45pm, 4:00pm, 7:15pm, 10:15pm), Tue 10/29 (12:45pm, 4:00pm, 7:15pm, 10:15pm), Wed 10/30 (1:00pm, 4:15pm, 7:15pm, 10:15pm)
+
+    * [Wes Cravens New Nightmare](https://drafthouse.com/raleigh/show/wes-cravens-new-nightmare): Tue 10/29 (10:30pm)
+
 ### Mon 10/21 4:24pm
 
 * New screenings: 
