@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 10/22 4:24pm
+
+* New screenings: 
+    * [Venom The Last Dance](https://drafthouse.com/raleigh/show/venom-the-last-dance): Mon 10/28 (7:30pm)
+
 ### Mon 10/21 5:22pm
 * New movies: The Rocky Horror Picture Show
 
