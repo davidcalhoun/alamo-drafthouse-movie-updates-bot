@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/23 3:19pm
+* New movies: Meanwhile on Earth, Meanwhile on Earth, Godzilla Minus One Minus Color, Cries and Whispers
+
+* New screenings: 
+    * [Cries And Whispers](https://drafthouse.com/los-angeles/show/cries-and-whispers): Thu 1/2 (7:15pm)
+
+    * [Live Q A Meanwhile On Earth](https://drafthouse.com/los-angeles/show/live-q-a-meanwhile-on-earth): Fri 11/8 (7:15pm)
+
+    * [Meanwhile On Earth](https://drafthouse.com/los-angeles/show/meanwhile-on-earth): Fri 11/8 (3:15pm, 10:20pm), Sun 11/10 (5:00pm, 7:45pm)
+
+    * [Special Event Godzilla Minus One Minus Color Godzilla 70th Anniversary Re Release](https://drafthouse.com/los-angeles/show/special-event-godzilla-minus-one-minus-color-godzilla-70th-anniversary-re-release): Wed 11/6 (6:00pm)
+
 ### Mon 10/21 4:19pm
 * New movies: Dream Team
 
