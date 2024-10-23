@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Wed 10/23 1:24am
+
+* New screenings: 
+    * [Smile 2](https://drafthouse.com/raleigh/show/smile-2): Mon 10/28 (6:00pm)
+
+    * [Venom The Last Dance](https://drafthouse.com/raleigh/show/venom-the-last-dance): Mon 10/28 (6:30pm)
+
 ### Tue 10/22 4:24pm
 
 * New screenings: 
