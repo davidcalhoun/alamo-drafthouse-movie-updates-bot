@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Wed 10/23 7:23pm
+* New movies: Godzilla Minus One, Godzilla Minus One Minus Color, Cries and Whispers
+
+* New screenings: 
+    * [Cries And Whispers](https://drafthouse.com/raleigh/show/cries-and-whispers): Thu 1/2 (7:15pm)
+
+    * [Special Event Godzilla Minus One Godzilla 70th Anniversary Re Release](https://drafthouse.com/raleigh/show/special-event-godzilla-minus-one-godzilla-70th-anniversary-re-release): Tue 11/5 (5:30pm), Wed 11/6 (5:30pm)
+
+    * [Special Event Godzilla Minus One Minus Color Godzilla 70th Anniversary Re Release](https://drafthouse.com/raleigh/show/special-event-godzilla-minus-one-minus-color-godzilla-70th-anniversary-re-release): Sun 11/3 (6:30pm)
+
 ### Wed 10/23 1:24am
 
 * New screenings: 
