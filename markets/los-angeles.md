@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 10/24 12:16pm
+* New movies: Godzilla Minus One
+
+* New screenings: 
+    * [Special Event Godzilla Minus One Godzilla 70th Anniversary Re Release](https://drafthouse.com/los-angeles/show/special-event-godzilla-minus-one-godzilla-70th-anniversary-re-release): Sun 11/3 (6:15pm), Tue 11/5 (6:00pm)
+
 ### Thu 10/24 8:20am
 * New movies: Louder Than You Think
 
