@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/23 7:50pm
+
+* New screenings: 
+    * [Gladiator Ii](https://drafthouse.com/los-angeles/show/gladiator-ii): Tue 11/26 (11:20am, 3:00pm, 6:45pm), Wed 11/27 (11:40am, 3:20pm, 7:00pm), Thu 11/28 (11:40am, 3:20pm, 7:00pm), Fri 11/29 (11:40am, 3:20pm, 7:00pm), Sat 11/30 (11:40am, 3:20pm, 7:00pm), Sun 12/1 (11:40am, 3:20pm, 7:00pm)
+
+    * [Wicked](https://drafthouse.com/los-angeles/show/wicked): Tue 11/26 (10:45am, 11:50am, 2:30pm, 4:50pm, 6:15pm, 8:40pm, 10:00pm), Wed 11/27 (10:50am, 2:40pm, 6:30pm, 10:20pm), Thu 11/28 (10:50am, 2:40pm, 6:30pm, 10:20pm), Fri 11/29 (10:50am, 2:40pm, 6:30pm, 10:20pm), Sat 11/30 (10:50am, 2:40pm, 6:30pm, 10:20pm), Sun 12/1 (10:50am, 2:40pm, 6:30pm)
+
 ### Wed 10/23 6:36pm
 
 * New screenings: 
