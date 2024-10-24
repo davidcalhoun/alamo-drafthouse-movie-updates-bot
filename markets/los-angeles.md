@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 10/24 7:19am
+* New movies: Emilia Perez
+
+* New screenings: 
+    * [Emilia Perez](https://drafthouse.com/los-angeles/show/emilia-perez): Thu 10/31 (7:00pm, 10:25pm), Fri 11/1 (11:25am, 2:50pm, 6:15pm, 9:40pm), Sat 11/2 (11:25am, 2:50pm, 6:15pm, 9:40pm), Sun 11/3 (11:15am, 2:35pm, 6:00pm), Mon 11/4 (11:25am, 2:50pm, 6:15pm, 9:40pm), Tue 11/5 (11:25am, 2:50pm, 6:15pm, 9:40pm), Wed 11/6 (11:25am, 2:50pm, 6:15pm, 9:40pm)
+
 ### Wed 10/23 7:50pm
 
 * New screenings: 
