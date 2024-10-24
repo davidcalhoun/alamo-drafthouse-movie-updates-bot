@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/23 6:36pm
+
+* New screenings: 
+    * [Wicked](https://drafthouse.com/los-angeles/show/wicked): Fri 11/22 (10:00am), Sat 11/23 (10:00am), Sun 11/24 (10:00am)
+
 ### Wed 10/23 3:19pm
 * New movies: Meanwhile on Earth, Meanwhile on Earth, Godzilla Minus One Minus Color, Cries and Whispers
 
