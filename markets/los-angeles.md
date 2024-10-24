@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 10/24 8:20am
+* New movies: Louder Than You Think
+
+* New screenings: 
+    * [Louder Than You Think](https://drafthouse.com/los-angeles/show/louder-than-you-think): Mon 11/18 (7:15pm)
+
 ### Thu 10/24 7:19am
 * New movies: Emilia Perez
 
