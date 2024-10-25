@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 10/25 10:23am
+* New movies: Memoir of a Snail
+
+* New screenings: 
+    * [Memoir Of A Snail](https://drafthouse.com/raleigh/show/memoir-of-a-snail): Thu 11/7 (6:15pm), Fri 11/8 (6:15pm), Sat 11/9 (6:15pm), Sun 11/10 (6:15pm)
+
 ### Fri 10/25 8:46am
 * New movies: Red One
 
