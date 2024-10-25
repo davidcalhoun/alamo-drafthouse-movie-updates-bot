@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 10/24 9:25pm
+* New movies: Memoir of a Snail
+
+* New screenings: 
+    * [Memoir Of A Snail](https://drafthouse.com/los-angeles/show/memoir-of-a-snail): Thu 10/31 (4:45pm, 7:30pm, 10:15pm), Fri 11/1 (11:00am, 1:45pm, 4:30pm, 7:15pm, 10:00pm), Sat 11/2 (11:00am, 1:45pm, 4:30pm, 7:15pm, 10:00pm), Sun 11/3 (11:00am, 1:45pm, 4:30pm, 7:15pm), Mon 11/4 (11:00am, 1:45pm, 4:30pm, 7:15pm, 10:00pm), Tue 11/5 (11:00am, 1:45pm, 4:30pm, 7:15pm, 10:00pm), Wed 11/6 (11:00am, 1:45pm, 4:30pm, 7:15pm, 10:00pm)
+
 ### Thu 10/24 12:16pm
 * New movies: Godzilla Minus One
 
