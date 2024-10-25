@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 10/25 8:46am
+* New movies: Red One
+
+* New screenings: 
+    * [Red One](https://drafthouse.com/raleigh/show/red-one): Thu 11/14 (4:00pm, 7:00pm, 10:00pm), Fri 11/15 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 11/16 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sun 11/17 (12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
 ### Fri 10/25 3:22am
 
 * New screenings: 
