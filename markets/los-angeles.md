@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 10/25 5:38am
+* New movies: Red One
+
+* New screenings: 
+    * [Red One](https://drafthouse.com/los-angeles/show/red-one): Thu 11/14 (3:15pm, 6:30pm, 9:45pm), Fri 11/15 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Sat 11/16 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Sun 11/17 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Mon 11/18 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Tue 11/19 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Wed 11/20 (12:00pm, 3:15pm, 6:00pm, 9:15pm)
+
 ### Thu 10/24 9:25pm
 * New movies: Memoir of a Snail
 
