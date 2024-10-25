@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 10/25 3:22am
+
+* New screenings: 
+    * [The Guest](https://drafthouse.com/raleigh/show/the-guest): Tue 10/29 (4:45pm)
+
 ### Wed 10/23 7:23pm
 * New movies: Godzilla Minus One, Godzilla Minus One Minus Color, Cries and Whispers
 
