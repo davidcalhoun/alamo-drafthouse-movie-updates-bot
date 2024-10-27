@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Sun 10/27 4:19pm
+* New movies: The Devil's Bath
+
+* New screenings: 
+    * [Live Q A The Devils Bath](https://drafthouse.com/los-angeles/show/live-q-a-the-devils-bath): Wed 11/13 (7:15pm)
+
 ### Fri 10/25 5:38am
 * New movies: Red One
 
