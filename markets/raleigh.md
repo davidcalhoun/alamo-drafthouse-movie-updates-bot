@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Mon 10/28 9:31am
+* New movies: Moana 2, Moana 2
+
+* New screenings: 
+    * [Family Party Moana 2](https://drafthouse.com/raleigh/show/family-party-moana-2): Sat 11/30 (11:00am), Sun 12/1 (1:00pm)
+
+    * [Moana 2](https://drafthouse.com/raleigh/show/moana-2): Tue 11/26 (3:45pm, 6:30pm, 9:15pm), Wed 11/27 (10:30am, 1:10pm, 3:45pm, 6:30pm, 9:15pm), Thu 11/28 (10:30am, 1:10pm, 3:45pm, 6:30pm), Fri 11/29 (10:30am, 1:10pm, 3:45pm, 6:30pm, 9:15pm)
+
 ### Fri 10/25 10:23am
 * New movies: Memoir of a Snail
 
