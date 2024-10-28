@@ -1,6 +1,46 @@
 # raleigh
 
 ## Movie updates
+### Mon 10/28 5:22pm
+* New movies: Here, Emilia Perez, Longlegs
+
+* New screenings: 
+    * [Anora](https://drafthouse.com/raleigh/show/anora): Fri 11/1 (11:30am, 3:00pm, 6:30pm, 9:00pm, 10:00pm), Sat 11/2 (12:30pm, 4:00pm, 7:30pm, 9:00pm, 11:00pm), Sun 11/3 (11:30am, 3:00pm, 9:00pm, 10:00pm), Mon 11/4 (11:30am, 12:00pm, 3:00pm, 3:30pm, 7:00pm, 9:00pm, 10:30pm), Tue 11/5 (12:00pm, 2:00pm, 3:30pm, 7:00pm, 9:00pm, 10:30pm), Wed 11/6 (12:00pm, 2:00pm, 3:30pm, 7:00pm, 9:30pm, 10:30pm)
+
+    * [Conclave](https://drafthouse.com/raleigh/show/conclave): Thu 10/31 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Fri 11/1 (12:30pm, 3:45pm, 6:45pm, 9:45pm), Sat 11/2 (1:45pm, 4:45pm, 7:45pm, 10:45pm), Sun 11/3 (1:45pm, 4:45pm, 7:45pm, 10:45pm), Mon 11/4 (1:45pm, 4:45pm, 7:45pm, 10:45pm), Tue 11/5 (1:45pm, 4:45pm, 7:45pm, 10:45pm), Wed 11/6 (1:45pm, 4:45pm, 7:45pm, 10:45pm)
+
+    * [Emilia Perez](https://drafthouse.com/raleigh/show/emilia-perez): Thu 10/31 (7:15pm, 10:30pm), Fri 11/1 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Sat 11/2 (12:15pm, 4:00pm, 7:15pm, 10:30pm), Sun 11/3 (1:15pm, 3:15pm, 7:15pm, 10:30pm), Mon 11/4 (1:15pm, 3:30pm, 7:15pm, 10:30pm), Tue 11/5 (1:15pm, 3:30pm, 7:15pm, 10:30pm), Wed 11/6 (1:15pm, 3:30pm, 7:15pm, 10:30pm)
+
+    * [Here](https://drafthouse.com/raleigh/show/here): Thu 10/31 (3:45pm, 6:45pm, 9:45pm), Fri 11/1 (12:30pm, 2:50pm, 6:00pm, 9:00pm), Sat 11/2 (1:15pm, 2:55pm, 6:00pm, 9:00pm), Sun 11/3 (1:00pm, 2:55pm, 6:00pm, 9:00pm), Mon 11/4 (1:00pm, 2:55pm, 6:00pm, 9:00pm), Tue 11/5 (1:00pm, 2:55pm, 6:00pm, 9:00pm), Wed 11/6 (12:15pm, 3:00pm, 6:00pm, 9:00pm)
+
+    * [Piece By Piece](https://drafthouse.com/raleigh/show/piece-by-piece): Thu 10/31 (1:15pm)
+
+    * [Saturday Night](https://drafthouse.com/raleigh/show/saturday-night): Thu 10/31 (12:30pm)
+
+    * [Smile 2](https://drafthouse.com/raleigh/show/smile-2): Thu 10/31 (11:45am, 2:50pm, 6:00pm, 9:15pm), Fri 11/1 (11:45am, 3:15pm, 6:20pm, 9:30pm), Sat 11/2 (11:45am, 3:40pm, 6:45pm, 9:50pm), Sun 11/3 (11:45am, 3:40pm, 6:45pm, 10:00pm), Mon 11/4 (11:45am, 3:40pm, 6:45pm, 9:50pm), Tue 11/5 (11:45am, 3:40pm, 6:45pm, 9:50pm), Wed 11/6 (11:45am, 3:40pm, 6:45pm, 9:50pm)
+
+    * [Special Event Godzilla Minus One Godzilla 70th Anniversary Re Release](https://drafthouse.com/raleigh/show/special-event-godzilla-minus-one-godzilla-70th-anniversary-re-release): Thu 10/31 (6:15pm), Fri 11/1 (3:00pm), Sat 11/2 (6:30pm), Mon 11/4 (6:40pm), Tue 11/5 (6:40pm), Wed 11/6 (6:40pm)
+
+    * [Special Event Longlegs W Pre Taped Q A The Monkey First Look](https://drafthouse.com/raleigh/show/special-event-longlegs-w-pre-taped-q-a-the-monkey-first-look): Thu 10/31 (3:30pm)
+
+    * [Terrifier 3](https://drafthouse.com/raleigh/show/terrifier-3): Thu 10/31 (9:30pm), Sun 11/3 (6:30pm), Mon 11/4 (10:00pm), Tue 11/5 (10:00pm), Wed 11/6 (10:00pm)
+
+    * [The Fall](https://drafthouse.com/raleigh/show/the-fall): Thu 10/31 (12:45pm)
+
+    * [The Great Dictator](https://drafthouse.com/raleigh/show/the-great-dictator): Wed 11/6 (11:15pm)
+
+    * [The Guest](https://drafthouse.com/raleigh/show/the-guest): Thu 10/31 (12:15pm)
+
+    * [The Parallax View](https://drafthouse.com/raleigh/show/the-parallax-view): Tue 11/5 (11:20pm)
+
+    * [The Substance](https://drafthouse.com/raleigh/show/the-substance): Thu 10/31 (3:00pm, 4:00pm), Fri 11/1 (11:30am), Sat 11/2 (12:30pm), Sun 11/3 (9:45pm), Mon 11/4 (12:15pm), Tue 11/5 (12:15pm), Wed 11/6 (12:15pm)
+
+    * [The Wild Robot](https://drafthouse.com/raleigh/show/the-wild-robot): Thu 10/31 (12:00pm, 3:00pm, 6:15pm, 9:00pm), Fri 11/1 (12:45pm, 3:30pm, 6:15pm), Sat 11/2 (12:45pm, 3:30pm, 6:15pm), Sun 11/3 (12:45pm, 3:30pm, 6:15pm), Mon 11/4 (12:45pm, 3:30pm, 6:15pm), Tue 11/5 (12:45pm, 3:30pm, 6:15pm), Wed 11/6 (1:00pm, 4:00pm, 6:45pm)
+
+    * [Venom The Last Dance](https://drafthouse.com/raleigh/show/venom-the-last-dance): Thu 10/31 (1:00pm, 1:45pm, 4:00pm, 4:45pm, 7:45pm, 10:45pm), Fri 11/1 (1:30pm, 4:45pm, 7:45pm, 10:30pm), Sat 11/2 (1:45pm, 4:45pm, 7:45pm, 10:45pm), Sun 11/3 (12:45pm, 4:45pm, 7:45pm, 10:45pm), Mon 11/4 (12:45pm, 4:45pm, 7:45pm, 10:45pm), Tue 11/5 (12:45pm, 4:45pm, 7:45pm, 10:45pm), Wed 11/6 (12:45pm, 4:45pm, 7:45pm, 10:45pm)
+
+    * [We Live In Time](https://drafthouse.com/raleigh/show/we-live-in-time): Thu 10/31 (1:30pm, 4:30pm, 7:15pm, 10:15pm), Fri 11/1 (1:30pm, 4:30pm, 7:15pm, 10:15pm), Sat 11/2 (1:30pm, 4:30pm, 7:15pm, 10:15pm), Sun 11/3 (1:30pm, 4:30pm, 7:15pm, 10:15pm), Mon 11/4 (1:30pm, 4:30pm, 7:15pm, 10:15pm), Tue 11/5 (1:30pm, 4:30pm, 7:15pm, 10:15pm), Wed 11/6 (1:30pm, 4:30pm, 7:15pm, 10:15pm)
+
 ### Mon 10/28 10:24am
 * New movies: Laufey's A Night At The Symphony: Hollywood Bowl
 
