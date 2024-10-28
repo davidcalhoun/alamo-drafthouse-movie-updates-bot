@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 10/28 9:25am
+* New movies: The Birthday
+
+* New screenings: 
+    * [Live Intro The Birthday](https://drafthouse.com/los-angeles/show/live-intro-the-birthday): Sat 11/2 (9:30pm)
+
 ### Mon 10/28 7:19am
 * New movies: Laufey's A Night At The Symphony: Hollywood Bowl
 
