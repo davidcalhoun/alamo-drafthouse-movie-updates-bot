@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 10/28 10:24am
+* New movies: Laufey's A Night At The Symphony: Hollywood Bowl
+
+* New screenings: 
+    * [Laufeys A Night At The Symphony Hollywood Bowl](https://drafthouse.com/raleigh/show/laufeys-a-night-at-the-symphony-hollywood-bowl): Fri 12/6 (6:30pm), Sun 12/8 (3:30pm)
+
 ### Mon 10/28 9:31am
 * New movies: Moana 2, Moana 2
 
