@@ -1,6 +1,48 @@
 # los-angeles
 
 ## Movie updates
+### Mon 10/28 3:18pm
+* New movies: The Gutter, The Birthday
+
+* New screenings: 
+    * [Anora](https://drafthouse.com/los-angeles/show/anora): Thu 10/31 (2:45pm, 3:20pm, 6:10pm, 6:50pm, 9:40pm, 10:20pm), Fri 11/1 (12:00pm, 1:10pm, 3:30pm, 5:30pm, 6:00pm, 9:00pm, 10:25pm), Sat 11/2 (10:45am, 11:45am, 2:15pm, 3:15pm, 5:45pm, 6:45pm, 9:15pm, 10:20pm), Sun 11/3 (10:45am, 11:40am, 2:15pm, 3:15pm, 5:45pm, 6:45pm), Mon 11/4 (10:45am, 11:40am, 2:15pm, 3:15pm, 5:45pm, 6:45pm, 9:15pm, 10:20pm), Tue 11/5 (10:45am, 11:40am, 2:15pm, 3:15pm, 5:45pm, 6:45pm, 9:15pm, 10:20pm), Wed 11/6 (10:45am, 11:40am, 2:15pm, 3:15pm, 5:45pm, 6:45pm, 9:15pm, 10:20pm)
+
+    * [Conclave](https://drafthouse.com/los-angeles/show/conclave): Thu 10/31 (3:10pm, 6:20pm, 9:30pm), Fri 11/1 (12:45pm, 4:00pm, 7:10pm, 10:20pm), Sat 11/2 (12:40pm, 3:50pm, 7:00pm, 10:10pm), Sun 11/3 (12:40pm, 3:50pm, 7:00pm), Mon 11/4 (12:40pm, 3:50pm, 7:00pm, 10:10pm), Tue 11/5 (12:40pm, 3:50pm, 7:00pm, 10:10pm), Wed 11/6 (12:40pm, 3:50pm, 7:00pm, 10:10pm)
+
+    * [Halloween 1978](https://drafthouse.com/los-angeles/show/halloween-1978): Thu 10/31 (6:30pm, 10:00pm)
+
+    * [Here](https://drafthouse.com/los-angeles/show/here): Mon 11/4 (11:00am, 1:50pm, 4:45pm, 7:45pm, 10:40pm), Tue 11/5 (11:00am, 1:50pm, 4:45pm, 7:45pm, 10:40pm), Wed 11/6 (11:00am, 1:50pm, 4:45pm, 7:45pm, 10:40pm)
+
+    * [Plastic](https://drafthouse.com/los-angeles/show/plastic): Mon 11/4 (2:50pm), Wed 11/6 (4:35pm)
+
+    * [Rumours](https://drafthouse.com/los-angeles/show/rumours): Thu 10/31 (4:10pm)
+
+    * [Smile 2](https://drafthouse.com/los-angeles/show/smile-2): Thu 10/31 (3:20pm, 6:40pm, 10:00pm), Fri 11/1 (11:50am, 3:10pm, 6:30pm, 9:45pm), Sat 11/2 (11:50am, 3:10pm, 6:30pm, 9:45pm), Sun 11/3 (11:50am, 3:10pm, 6:30pm), Mon 11/4 (11:50am, 3:10pm, 6:30pm, 9:45pm), Tue 11/5 (11:50am, 3:10pm, 6:30pm, 9:45pm), Wed 11/6 (11:50am, 3:10pm, 6:30pm, 9:45pm)
+
+    * [Special Event Godzilla Minus One Godzilla 70th Anniversary Re Release](https://drafthouse.com/los-angeles/show/special-event-godzilla-minus-one-godzilla-70th-anniversary-re-release): Fri 11/1 (9:30pm), Sat 11/2 (7:25pm), Mon 11/4 (5:45pm, 8:45pm), Tue 11/5 (2:30pm), Wed 11/6 (11:45am, 9:30pm)
+
+    * [Special Event Godzilla Minus One Minus Color Godzilla 70th Anniversary Re Release](https://drafthouse.com/los-angeles/show/special-event-godzilla-minus-one-minus-color-godzilla-70th-anniversary-re-release): Fri 11/1 (11:45am), Tue 11/5 (9:30pm)
+
+    * [The Apprentice](https://drafthouse.com/los-angeles/show/the-apprentice): Thu 10/31 (4:00pm)
+
+    * [The Birthday](https://drafthouse.com/los-angeles/show/the-birthday): Mon 11/4 (11:30am), Tue 11/5 (4:20pm), Wed 11/6 (1:30pm)
+
+    * [The Fall](https://drafthouse.com/los-angeles/show/the-fall): Thu 10/31 (3:20pm)
+
+    * [The Great Dictator](https://drafthouse.com/los-angeles/show/the-great-dictator): Mon 11/4 (2:40pm), Tue 11/5 (1:00pm)
+
+    * [The Gutter](https://drafthouse.com/los-angeles/show/the-gutter): Fri 11/1 (11:00pm), Sat 11/2 (10:50pm), Sun 11/3 (7:25pm), Mon 11/4 (6:00pm), Tue 11/5 (11:45am), Wed 11/6 (10:45am)
+
+    * [The Parallax View](https://drafthouse.com/los-angeles/show/the-parallax-view): Mon 11/4 (12:00pm)
+
+    * [The Substance](https://drafthouse.com/los-angeles/show/the-substance): Thu 10/31 (3:00pm, 6:30pm, 10:00pm), Fri 11/1 (11:20am, 2:50pm, 6:20pm, 9:50pm), Sat 11/2 (11:20am, 2:50pm, 6:20pm, 9:50pm), Sun 11/3 (11:20am, 2:50pm, 6:20pm), Mon 11/4 (11:15am, 2:45pm, 6:20pm, 9:50pm), Tue 11/5 (11:20am, 2:50pm, 6:20pm, 9:50pm), Wed 11/6 (11:20am, 2:50pm, 6:20pm, 9:50pm)
+
+    * [They Live](https://drafthouse.com/los-angeles/show/they-live): Mon 11/4 (9:15pm), Tue 11/5 (10:15pm), Wed 11/6 (3:15pm, 10:15pm)
+
+    * [Venom The Last Dance](https://drafthouse.com/los-angeles/show/venom-the-last-dance): Thu 10/31 (4:25pm, 7:20pm, 10:20pm), Fri 11/1 (10:45am, 1:40pm, 4:35pm, 7:30pm, 10:30pm), Sat 11/2 (10:45am, 1:40pm, 4:35pm, 7:30pm, 10:30pm), Sun 11/3 (10:45am, 1:40pm, 4:35pm, 7:30pm), Mon 11/4 (10:45am, 1:40pm, 4:35pm, 7:30pm, 10:30pm), Tue 11/5 (10:45am, 1:40pm, 4:35pm, 7:30pm, 10:30pm), Wed 11/6 (10:45am, 1:40pm, 4:35pm, 7:30pm, 10:30pm)
+
+    * [We Live In Time](https://drafthouse.com/los-angeles/show/we-live-in-time): Thu 10/31 (3:00pm, 6:00pm, 9:00pm), Fri 11/1 (11:30am, 2:30pm, 4:40pm, 7:40pm, 10:40pm), Sat 11/2 (10:50am, 1:45pm, 4:40pm, 7:40pm, 10:40pm), Sun 11/3 (10:50am, 1:45pm, 4:40pm, 7:40pm), Mon 11/4 (11:00am, 1:50pm, 4:40pm, 7:40pm, 10:40pm), Tue 11/5 (11:00am, 1:50pm, 4:40pm, 7:40pm, 10:40pm), Wed 11/6 (11:00am, 1:50pm, 4:40pm, 7:40pm, 10:40pm)
+
 ### Mon 10/28 9:25am
 * New movies: The Birthday
 
