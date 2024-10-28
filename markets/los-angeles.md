@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Mon 10/28 6:28am
+* New movies: Moana 2, Moana 2
+
+* New screenings: 
+    * [Family Party Moana 2](https://drafthouse.com/los-angeles/show/family-party-moana-2): Sat 11/30 (10:30am), Sun 12/1 (1:20pm)
+
+    * [Moana 2](https://drafthouse.com/los-angeles/show/moana-2): Tue 11/26 (2:00pm, 3:40pm, 6:30pm, 9:20pm), Wed 11/27 (10:30am, 1:25pm, 4:20pm, 7:15pm, 10:10pm), Thu 11/28 (10:30am, 1:25pm, 4:20pm, 7:15pm, 10:10pm), Fri 11/29 (10:30am, 1:25pm, 4:20pm, 7:15pm, 10:10pm), Sat 11/30 (1:35pm, 4:25pm, 7:15pm, 10:10pm), Sun 12/1 (10:30am, 4:25pm, 7:15pm)
+
 ### Sun 10/27 4:19pm
 * New movies: The Devil's Bath
 
