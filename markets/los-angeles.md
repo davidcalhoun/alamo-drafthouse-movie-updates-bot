@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 10/28 7:19am
+* New movies: Laufey's A Night At The Symphony: Hollywood Bowl
+
+* New screenings: 
+    * [Laufeys A Night At The Symphony Hollywood Bowl](https://drafthouse.com/los-angeles/show/laufeys-a-night-at-the-symphony-hollywood-bowl): Fri 12/6 (7:15pm), Sun 12/8 (3:10pm)
+
 ### Mon 10/28 6:28am
 * New movies: Moana 2, Moana 2
 
