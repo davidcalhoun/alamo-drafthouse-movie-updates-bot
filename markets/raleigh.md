@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Tue 10/29 7:23pm
+
+* New screenings: 
+    * [Gladiator Ii](https://drafthouse.com/raleigh/show/gladiator-ii): Mon 11/25 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Tue 11/26 (11:30am, 3:15pm, 7:00pm, 10:30pm), Wed 11/27 (11:30am, 3:15pm, 7:00pm, 10:30pm), Thu 11/28 (11:30am, 3:15pm, 7:00pm), Fri 11/29 (11:30am, 3:15pm, 7:00pm, 10:30pm), Sat 11/30 (12:00pm, 3:30pm, 7:00pm, 10:30pm)
+
+    * [Wicked](https://drafthouse.com/raleigh/show/wicked): Mon 11/25 (10:30am, 2:15pm, 6:00pm, 9:45pm), Tue 11/26 (10:30am, 2:15pm, 6:00pm, 10:00pm), Wed 11/27 (10:00am, 2:15pm, 6:00pm, 10:00pm), Thu 11/28 (10:00am, 2:15pm, 6:00pm), Fri 11/29 (10:00am, 2:15pm, 6:00pm, 10:00pm), Sat 11/30 (11:30am, 2:15pm, 6:00pm, 10:00pm)
+
 ### Tue 10/29 11:26am
 * New movies: Singham Again, Dune: Prophecy
 
