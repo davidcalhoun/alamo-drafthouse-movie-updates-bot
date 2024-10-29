@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Tue 10/29 11:26am
+* New movies: Singham Again, Dune: Prophecy
+
+* New screenings: 
+    * [Free Victory Screening Dune Prophecy W Livestream Q A](https://drafthouse.com/raleigh/show/free-victory-screening-dune-prophecy-w-livestream-q-a): Thu 11/7 (8:00pm)
+
+    * [Singham Again](https://drafthouse.com/raleigh/show/singham-again): Fri 11/1 (6:30pm), Sat 11/2 (9:45pm), Sun 11/3 (3:45pm), Mon 11/4 (3:45pm), Tue 11/5 (3:45pm)
+
 ### Mon 10/28 5:22pm
 * New movies: Here, Emilia Perez, Longlegs
 
