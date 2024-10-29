@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 10/29 3:18pm
+
+* New screenings: 
+    * [A Real Pain](https://drafthouse.com/los-angeles/show/a-real-pain): Fri 11/8 (7:00am)
+
 ### Mon 10/28 3:18pm
 * New movies: The Gutter, The Birthday
 
