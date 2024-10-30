@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 10/29 6:37pm
+* New movies: Christmas Eve in Miller's Point
+
+* New screenings: 
+    * [Christmas Eve In Millers Point](https://drafthouse.com/los-angeles/show/christmas-eve-in-millers-point): Thu 11/7 (4:15pm, 7:15pm), Fri 11/8 (11:00am, 4:45pm, 10:30pm), Sat 11/9 (2:00pm, 7:45pm), Sun 11/10 (11:00am, 4:45pm), Mon 11/11 (2:00pm, 7:45pm), Tue 11/12 (11:00am, 4:45pm, 10:30pm), Wed 11/13 (2:00pm, 7:45pm)
+
+    * [Memoir Of A Snail](https://drafthouse.com/los-angeles/show/memoir-of-a-snail): Thu 11/7 (10:10pm), Fri 11/8 (2:00pm, 7:45pm), Sat 11/9 (11:15am, 5:00pm, 10:40pm), Sun 11/10 (2:00pm, 7:45pm), Mon 11/11 (11:15am, 5:00pm, 10:40pm), Tue 11/12 (2:00pm, 7:45pm), Wed 11/13 (11:15am, 5:00pm, 10:40pm)
+
 ### Tue 10/29 3:18pm
 
 * New screenings: 
