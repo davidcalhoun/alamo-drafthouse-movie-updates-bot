@@ -1,6 +1,15 @@
 # raleigh
 
 ## Movie updates
+### Wed 10/30 5:22pm
+
+* New screenings: 
+    * [Gladiator Ii](https://drafthouse.com/raleigh/show/gladiator-ii): Sun 12/1 (12:00pm, 1:35pm, 4:00pm, 7:30pm, 10:30pm)
+
+    * [Moana 2](https://drafthouse.com/raleigh/show/moana-2): Sun 12/1 (11:00am, 3:20pm, 6:00pm, 9:00pm)
+
+    * [Wicked](https://drafthouse.com/raleigh/show/wicked): Sun 12/1 (11:45am, 2:30pm, 6:15pm, 10:00pm)
+
 ### Tue 10/29 7:23pm
 
 * New screenings: 
