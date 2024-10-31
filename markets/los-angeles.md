@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/30 6:38pm
+
+* New screenings: 
+    * [Live Intro The Birthday](https://drafthouse.com/los-angeles/show/live-intro-the-birthday): Sun 11/3 (3:00pm)
+
 ### Tue 10/29 6:37pm
 * New movies: Christmas Eve in Miller's Point
 
