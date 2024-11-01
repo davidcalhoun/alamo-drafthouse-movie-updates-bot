@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 11/1 6:23pm
+* New movies: Godzilla Minus One - Godzilla 70th Anniversary Re-release
+
+
+
 ### Fri 11/1 12:28pm
 
 * New screenings: 
