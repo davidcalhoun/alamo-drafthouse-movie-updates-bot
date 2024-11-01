@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 11/1 5:37am
+* New movies: The World According to Allee Willis
+
+* New screenings: 
+    * [Live Q A The World According To Allee Willis](https://drafthouse.com/los-angeles/show/live-q-a-the-world-according-to-allee-willis): Mon 11/18 (7:00pm)
+
 ### Wed 10/30 6:38pm
 
 * New screenings: 
