@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 11/1 3:18pm
+* New movies: Godzilla Minus One - Godzilla 70th Anniversary Re-release
+
+
+
 ### Fri 11/1 5:37am
 * New movies: The World According to Allee Willis
 
