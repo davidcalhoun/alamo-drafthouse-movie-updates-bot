@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 11/1 12:28pm
+
+* New screenings: 
+    * [Wicked](https://drafthouse.com/raleigh/show/wicked): Fri 11/22 (10:30am, 2:30pm, 6:30pm, 10:30pm), Sat 11/23 (10:30am, 2:30pm, 6:30pm, 10:30pm), Sun 11/24 (10:30am, 2:30pm, 6:30pm, 10:30pm)
+
 ### Wed 10/30 5:22pm
 
 * New screenings: 
