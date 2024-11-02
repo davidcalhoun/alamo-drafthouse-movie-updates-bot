@@ -1,6 +1,24 @@
 # raleigh
 
 ## Movie updates
+### Sat 11/2 7:24pm
+* New movies: A Real Pain, Querelle, Carol
+
+* New screenings: 
+    * [Advance Screening A Real Pain Early Access](https://drafthouse.com/raleigh/show/advance-screening-a-real-pain-early-access): Mon 11/11 (7:00pm)
+
+    * [Carol](https://drafthouse.com/raleigh/show/carol): Wed 12/25 (2:15pm)
+
+    * [Movie Party Elf](https://drafthouse.com/raleigh/show/movie-party-elf): Sun 12/22 (11:30am), Mon 12/23 (2:30pm)
+
+    * [Movie Party Gremlins](https://drafthouse.com/raleigh/show/movie-party-gremlins): Sat 12/7 (2:30pm)
+
+    * [Movie Party National Lampoons Christmas Vacation](https://drafthouse.com/raleigh/show/movie-party-national-lampoons-christmas-vacation): Sat 12/21 (2:30pm)
+
+    * [Movie Party The Polar Express](https://drafthouse.com/raleigh/show/movie-party-the-polar-express): Sat 12/7 (11:30am)
+
+    * [Queer Film Theory 101 Querelle](https://drafthouse.com/raleigh/show/queer-film-theory-101-querelle): Sun 12/15 (12:15pm)
+
 ### Fri 11/1 6:23pm
 * New movies: Godzilla Minus One - Godzilla 70th Anniversary Re-release
 
