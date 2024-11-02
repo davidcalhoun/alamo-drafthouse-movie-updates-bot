@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Sat 11/2 11:24am
+
+* New screenings: 
+    * [Smile 2](https://drafthouse.com/los-angeles/show/smile-2): Sat 11/2 (11:50am)
+
 ### Fri 11/1 3:18pm
 * New movies: Godzilla Minus One - Godzilla 70th Anniversary Re-release
 
