@@ -1,6 +1,44 @@
 # los-angeles
 
 ## Movie updates
+### Mon 11/4 2:17pm
+* New movies: Blitz
+
+* New screenings: 
+    * [A Real Pain](https://drafthouse.com/los-angeles/show/a-real-pain): Thu 11/7 (7:45pm, 10:25pm), Fri 11/8 (12:00pm, 2:40pm, 5:20pm, 8:00pm, 10:40pm), Sat 11/9 (12:00pm, 2:40pm, 5:20pm, 8:00pm, 10:40pm), Sun 11/10 (12:00pm, 2:40pm, 5:20pm, 8:00pm), Mon 11/11 (12:00pm, 2:40pm, 5:20pm, 8:00pm, 10:40pm), Tue 11/12 (12:00pm, 2:40pm, 5:20pm, 8:00pm, 10:40pm), Wed 11/13 (12:00pm, 2:40pm, 5:20pm, 8:00pm, 10:40pm)
+
+    * [Anora](https://drafthouse.com/los-angeles/show/anora): Thu 11/7 (3:15pm, 6:45pm, 10:15pm), Fri 11/8 (11:45am, 3:15pm, 6:45pm, 10:15pm), Sat 11/9 (11:45am, 3:15pm, 6:45pm, 10:15pm), Sun 11/10 (11:45am, 3:15pm, 6:45pm), Mon 11/11 (11:45am, 3:15pm, 6:45pm, 10:15pm), Tue 11/12 (11:45am, 3:15pm, 6:45pm, 10:15pm), Wed 11/13 (11:45am, 3:15pm, 6:45pm, 10:15pm)
+
+    * [Blazing Saddles](https://drafthouse.com/los-angeles/show/blazing-saddles): Sat 11/9 (3:00pm), Mon 11/11 (10:45am), Tue 11/12 (11:45am), Wed 11/13 (11:10am)
+
+    * [Blitz](https://drafthouse.com/los-angeles/show/blitz): Thu 11/7 (4:10pm, 7:20pm), Fri 11/8 (12:00pm, 3:10pm, 6:20pm, 9:30pm), Sat 11/9 (12:00pm, 3:10pm, 6:20pm, 9:30pm), Sun 11/10 (12:00pm, 3:10pm, 6:20pm), Mon 11/11 (12:00pm, 3:10pm, 6:20pm, 9:30pm), Tue 11/12 (12:00pm, 3:10pm, 6:20pm, 9:30pm), Wed 11/13 (12:00pm, 3:10pm, 6:20pm, 9:30pm)
+
+    * [California Split](https://drafthouse.com/los-angeles/show/california-split): Wed 11/13 (1:00pm)
+
+    * [Conclave](https://drafthouse.com/los-angeles/show/conclave): Thu 11/7 (2:45pm, 6:00pm, 9:10pm), Fri 11/8 (11:40am, 2:50pm, 6:10pm, 9:20pm), Sat 11/9 (11:40am, 2:50pm, 6:10pm, 9:20pm), Sun 11/10 (11:40am, 2:50pm, 6:00pm), Mon 11/11 (11:40am, 2:50pm, 6:10pm, 9:20pm), Tue 11/12 (11:40am, 2:50pm, 6:10pm, 9:20pm), Wed 11/13 (11:40am, 2:50pm, 6:10pm, 9:20pm)
+
+    * [Emilia Perez](https://drafthouse.com/los-angeles/show/emilia-perez): Thu 11/7 (3:00pm), Fri 11/8 (12:20pm, 3:45pm), Sat 11/9 (1:05pm, 3:50pm), Sun 11/10 (12:25pm, 3:50pm), Mon 11/11 (12:25pm, 3:50pm), Tue 11/12 (12:25pm, 3:50pm), Wed 11/13 (12:20pm, 3:45pm)
+
+    * [Godzilla Minus One Godzilla 70th Anniversary Re Release](https://drafthouse.com/los-angeles/show/godzilla-minus-one-godzilla-70th-anniversary-re-release): Sat 11/9 (11:00am), Tue 11/12 (11:30am)
+
+    * [Grave Of The Fireflies Subtitled](https://drafthouse.com/los-angeles/show/grave-of-the-fireflies-subtitled): Mon 11/11 (8:40pm), Tue 11/12 (9:10pm)
+
+    * [Here](https://drafthouse.com/los-angeles/show/here): Thu 11/7 (3:10pm, 6:00pm, 9:00pm), Fri 11/8 (12:10pm, 3:00pm, 6:00pm, 9:00pm), Sat 11/9 (12:10pm, 3:00pm, 6:00pm, 9:00pm), Sun 11/10 (12:10pm, 3:00pm, 6:00pm), Mon 11/11 (12:10pm, 3:00pm, 6:00pm, 9:00pm), Tue 11/12 (12:10pm, 3:00pm, 6:00pm, 9:00pm), Wed 11/13 (12:10pm, 3:00pm, 6:00pm, 9:00pm)
+
+    * [Heretic](https://drafthouse.com/los-angeles/show/heretic): Thu 11/7 (7:30pm, 10:30pm), Fri 11/8 (10:45am, 1:40pm, 5:50pm), Sat 11/9 (5:10pm), Sun 11/10 (11:20am)
+
+    * [Meanwhile On Earth](https://drafthouse.com/los-angeles/show/meanwhile-on-earth): Sat 11/9 (2:30pm, 5:45pm, 8:25pm), Sun 11/10 (2:20pm), Mon 11/11 (1:30pm, 10:20pm), Tue 11/12 (3:00pm, 9:00pm), Wed 11/13 (1:55pm, 4:35pm)
+
+    * [Smile 2](https://drafthouse.com/los-angeles/show/smile-2): Thu 11/7 (3:40pm, 6:30pm, 10:30pm), Fri 11/8 (7:10pm, 10:25pm), Sat 11/9 (7:15pm, 10:35pm), Sun 11/10 (7:15pm), Mon 11/11 (7:15pm, 10:35pm), Tue 11/12 (7:15pm, 10:30pm), Wed 11/13 (7:10pm, 10:25pm)
+
+    * [The Gutter](https://drafthouse.com/los-angeles/show/the-gutter): Mon 11/11 (4:10pm), Wed 11/13 (10:45pm)
+
+    * [The Substance](https://drafthouse.com/los-angeles/show/the-substance): Thu 11/7 (4:15pm, 9:45pm), Fri 11/8 (11:45am, 8:50pm), Sat 11/9 (8:10pm), Sun 11/10 (2:00pm, 5:30pm), Mon 11/11 (11:45am, 6:50pm), Tue 11/12 (2:30pm, 5:40pm), Wed 11/13 (4:00pm, 10:10pm)
+
+    * [Venom The Last Dance](https://drafthouse.com/los-angeles/show/venom-the-last-dance): Thu 11/7 (3:25pm, 6:20pm, 9:20pm), Fri 11/8 (10:45am, 1:40pm, 4:35pm, 7:30pm, 10:30pm), Sat 11/9 (12:50pm, 4:30pm, 7:30pm, 10:30pm), Sun 11/10 (10:45am, 1:40pm, 4:35pm, 7:30pm), Mon 11/11 (10:45am, 1:40pm, 4:35pm, 7:30pm, 10:30pm), Tue 11/12 (10:45am, 1:40pm, 4:35pm, 7:30pm, 10:30pm), Wed 11/13 (10:45am, 1:40pm, 4:35pm, 7:30pm, 10:30pm)
+
+    * [We Live In Time](https://drafthouse.com/los-angeles/show/we-live-in-time): Thu 11/7 (4:40pm)
+
 ### Sat 11/2 11:24am
 
 * New screenings: 
