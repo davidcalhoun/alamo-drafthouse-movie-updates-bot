@@ -1,6 +1,44 @@
 # raleigh
 
 ## Movie updates
+### Mon 11/4 8:47pm
+* New movies: Blitz, Christmas Eve in Miller's Point, Elf
+
+* New screenings: 
+    * [Anora](https://drafthouse.com/raleigh/show/anora): Thu 11/7 (1:40pm, 3:00pm, 3:45pm, 6:30pm, 9:45pm), Fri 11/8 (11:00am, 11:30am, 2:30pm, 3:00pm, 6:00pm, 6:40pm, 9:30pm, 10:00pm), Sat 11/9 (11:00am, 11:30am, 2:30pm, 3:00pm, 6:00pm, 6:30pm, 9:30pm, 10:00pm), Sun 11/10 (11:00am, 11:30am, 2:30pm, 3:00pm, 6:00pm, 6:30pm, 9:30pm, 10:00pm), Mon 11/11 (11:15am, 11:45am, 2:45pm, 3:10pm, 6:00pm, 9:30pm, 9:45pm), Tue 11/12 (11:30am, 2:35pm, 3:00pm, 6:30pm, 10:00pm), Wed 11/13 (11:15am, 2:00pm, 2:45pm, 5:30pm, 6:00pm, 9:30pm)
+
+    * [Blazing Saddles](https://drafthouse.com/raleigh/show/blazing-saddles): Wed 11/13 (11:15am)
+
+    * [Blitz](https://drafthouse.com/raleigh/show/blitz): Fri 11/8 (12:15pm, 3:30pm, 6:45pm, 9:45pm), Sat 11/9 (12:15pm, 3:30pm, 6:45pm, 9:45pm), Sun 11/10 (12:15pm, 3:30pm, 6:45pm, 9:45pm), Mon 11/11 (12:45pm, 3:45pm, 6:45pm, 10:00pm), Tue 11/12 (12:15pm, 3:30pm, 6:45pm, 9:45pm), Wed 11/13 (12:15pm, 3:30pm, 6:45pm, 9:45pm)
+
+    * [Christmas Eve In Millers Point](https://drafthouse.com/raleigh/show/christmas-eve-in-millers-point): Thu 11/7 (6:30pm, 9:30pm), Fri 11/8 (3:15pm, 9:00pm), Sat 11/9 (3:15pm, 9:00pm), Sun 11/10 (3:15pm, 9:00pm), Mon 11/11 (12:45pm, 6:45pm), Tue 11/12 (12:30pm, 6:45pm), Wed 11/13 (12:45pm, 6:45pm)
+
+    * [Conclave](https://drafthouse.com/raleigh/show/conclave): Thu 11/7 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Fri 11/8 (12:45pm, 4:15pm, 7:15pm, 10:30pm), Sat 11/9 (12:45pm, 4:15pm, 7:15pm, 10:30pm), Sun 11/10 (12:45pm, 4:15pm, 7:15pm, 10:30pm), Mon 11/11 (12:45pm, 4:15pm, 7:15pm, 10:15pm), Tue 11/12 (12:45pm, 3:45pm, 7:00pm, 10:15pm), Wed 11/13 (12:45pm, 3:45pm, 7:30pm, 10:30pm)
+
+    * [Elf](https://drafthouse.com/raleigh/show/elf): Tue 11/12 (2:00pm)
+
+    * [Emilia Perez](https://drafthouse.com/raleigh/show/emilia-perez): Thu 11/7 (12:15pm)
+
+    * [Godzilla Minus One Godzilla 70th Anniversary Re Release](https://drafthouse.com/raleigh/show/godzilla-minus-one-godzilla-70th-anniversary-re-release): Thu 11/7 (2:45pm)
+
+    * [Here](https://drafthouse.com/raleigh/show/here): Thu 11/7 (1:15pm, 4:00pm, 6:45pm, 9:45pm), Fri 11/8 (11:45am, 2:45pm, 6:15pm, 9:15pm), Sat 11/9 (11:45am, 2:45pm, 6:15pm, 9:15pm), Sun 11/10 (11:45am, 2:45pm, 6:15pm, 9:15pm), Mon 11/11 (1:15pm, 4:00pm, 6:45pm, 9:30pm), Tue 11/12 (11:45am, 2:45pm, 6:15pm, 9:15pm), Wed 11/13 (11:45am, 2:45pm, 6:15pm, 9:15pm)
+
+    * [Heretic](https://drafthouse.com/raleigh/show/heretic): Thu 11/7 (7:15pm), Fri 11/8 (11:15am, 2:00pm, 10:45pm), Sat 11/9 (11:15am, 2:00pm, 10:45pm), Sun 11/10 (2:00pm, 10:45pm), Mon 11/11 (12:15pm, 1:00pm, 4:00pm, 6:30pm, 8:45pm, 9:45pm), Tue 11/12 (11:15am, 11:45am, 1:00pm, 4:15pm, 7:30pm, 10:30pm, 10:45pm), Wed 11/13 (1:00pm, 2:00pm, 4:00pm, 7:00pm, 10:00pm, 10:45pm)
+
+    * [Memoir Of A Snail](https://drafthouse.com/raleigh/show/memoir-of-a-snail): Thu 11/7 (9:00pm), Fri 11/8 (12:00pm), Sat 11/9 (12:00pm), Sun 11/10 (12:00pm), Mon 11/11 (3:45pm, 10:00pm), Tue 11/12 (3:30pm, 9:45pm), Wed 11/13 (3:45pm, 9:45pm)
+
+    * [Smile 2](https://drafthouse.com/raleigh/show/smile-2): Thu 11/7 (1:00pm, 4:15pm, 7:30pm, 11:00pm), Fri 11/8 (12:45pm, 4:15pm, 7:30pm, 10:45pm), Sat 11/9 (12:45pm, 4:15pm, 7:30pm, 10:45pm), Sun 11/10 (12:45pm, 4:15pm, 7:30pm, 10:45pm), Mon 11/11 (1:15pm, 4:30pm, 7:45pm, 10:50pm), Tue 11/12 (1:15pm, 4:30pm, 7:45pm, 10:50pm), Wed 11/13 (1:15pm, 4:30pm, 7:45pm, 10:50pm)
+
+    * [The Great Dictator](https://drafthouse.com/raleigh/show/the-great-dictator): Thu 11/7 (3:30pm)
+
+    * [The Parallax View](https://drafthouse.com/raleigh/show/the-parallax-view): Thu 11/7 (12:15pm)
+
+    * [The Wild Robot](https://drafthouse.com/raleigh/show/the-wild-robot): Thu 11/7 (12:30pm, 3:15pm, 6:00pm, 9:15pm), Fri 11/8 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 11/9 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sun 11/10 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Mon 11/11 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Tue 11/12 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Wed 11/13 (12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
+    * [Venom The Last Dance](https://drafthouse.com/raleigh/show/venom-the-last-dance): Thu 11/7 (12:45pm, 4:55pm, 7:45pm, 10:45pm), Fri 11/8 (1:00pm, 4:00pm, 7:15pm, 10:15pm), Sat 11/9 (1:00pm, 4:00pm, 7:15pm, 10:15pm), Sun 11/10 (1:00pm, 4:00pm, 7:15pm, 10:15pm), Mon 11/11 (12:15pm, 3:00pm, 6:15pm, 9:15pm), Tue 11/12 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Wed 11/13 (12:15pm, 3:00pm, 6:15pm, 9:15pm)
+
+    * [We Live In Time](https://drafthouse.com/raleigh/show/we-live-in-time): Thu 11/7 (1:45pm, 4:30pm, 10:15pm), Fri 11/8 (4:45pm, 7:45pm), Sat 11/9 (4:45pm, 7:45pm), Sun 11/10 (4:45pm, 7:45pm), Mon 11/11 (3:15pm), Tue 11/12 (4:45pm, 7:45pm), Wed 11/13 (4:45pm)
+
 ### Sat 11/2 7:24pm
 * New movies: A Real Pain, Querelle, Carol
 
