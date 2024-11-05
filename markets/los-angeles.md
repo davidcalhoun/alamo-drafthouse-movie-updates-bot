@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 11/5 11:14am
+
+* New screenings: 
+    * [We Live In Time](https://drafthouse.com/los-angeles/show/we-live-in-time): Fri 11/8 (12:15pm), Sat 11/9 (1:15pm), Sun 11/10 (5:30pm), Tue 11/12 (11:25am), Wed 11/13 (1:00pm)
+
 ### Mon 11/4 2:17pm
 * New movies: Blitz
 
