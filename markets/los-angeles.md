@@ -1,6 +1,20 @@
 # los-angeles
 
 ## Movie updates
+### Thu 11/7 5:35pm
+* New movies: Bring Me the Head of Alfredo Garcia, Heavy Trip, Breakfast of Champions, Violent Night
+
+* New screenings: 
+    * [Breakfast Of Champions](https://drafthouse.com/los-angeles/show/breakfast-of-champions): Sat 11/16 (6:00pm)
+
+    * [Bring Me The Head Of Alfredo Garcia](https://drafthouse.com/los-angeles/show/bring-me-the-head-of-alfredo-garcia): Tue 12/10 (6:00pm)
+
+    * [Dream Team](https://drafthouse.com/los-angeles/show/dream-team): Sat 11/16 (9:00pm), Sun 11/17 (4:30pm)
+
+    * [Heavy Trip](https://drafthouse.com/los-angeles/show/heavy-trip): Sat 11/16 (3:15pm)
+
+    * [Violent Night](https://drafthouse.com/los-angeles/show/violent-night): Fri 12/6 (4:10pm)
+
 ### Tue 11/5 11:14am
 
 * New screenings: 
