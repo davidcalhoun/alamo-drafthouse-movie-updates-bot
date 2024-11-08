@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 11/8 2:18pm
+
+* New screenings: 
+    * [Violent Night](https://drafthouse.com/los-angeles/show/violent-night): Wed 12/11 (7:30pm)
+
 ### Thu 11/7 5:35pm
 * New movies: Bring Me the Head of Alfredo Garcia, Heavy Trip, Breakfast of Champions, Violent Night
 
