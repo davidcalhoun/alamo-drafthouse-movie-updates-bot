@@ -1,6 +1,50 @@
 # raleigh
 
 ## Movie updates
+### Mon 11/11 3:24pm
+* New movies: Omar and Cedric: If This Ever Gets Weird
+
+* New screenings: 
+    * [A Real Pain](https://drafthouse.com/raleigh/show/a-real-pain): Thu 11/14 (4:45pm, 7:15pm), Fri 11/15 (12:15pm, 3:15pm, 7:15pm), Sat 11/16 (7:30pm, 9:30pm), Sun 11/17 (7:45pm), Mon 11/18 (12:15pm, 1:15pm, 3:15pm, 3:45pm, 6:15pm, 7:15pm, 9:30pm), Tue 11/19 (1:30pm, 4:00pm, 6:30pm, 7:30pm, 11:00pm), Wed 11/20 (1:30pm, 4:00pm, 7:30pm, 9:30pm)
+
+    * [A Woman Under The Influence](https://drafthouse.com/raleigh/show/a-woman-under-the-influence): Sat 11/16 (8:45pm)
+
+    * [Anora](https://drafthouse.com/raleigh/show/anora): Thu 11/14 (11:45am, 3:45pm, 7:15pm, 10:45pm), Fri 11/15 (12:15pm, 3:45pm, 7:15pm, 10:45pm), Sat 11/16 (12:00pm, 3:30pm, 7:10pm, 10:45pm), Sun 11/17 (12:15pm, 3:45pm, 7:10pm, 10:45pm), Mon 11/18 (12:15pm, 3:30pm, 7:15pm, 10:30pm), Tue 11/19 (1:15pm, 3:30pm, 7:15pm, 10:30pm), Wed 11/20 (1:15pm, 3:30pm, 7:15pm, 10:30pm)
+
+    * [Blazing Saddles](https://drafthouse.com/raleigh/show/blazing-saddles): Thu 11/14 (11:00pm)
+
+    * [Blitz](https://drafthouse.com/raleigh/show/blitz): Thu 11/14 (12:30pm, 2:00pm, 3:45pm)
+
+    * [Chinatown](https://drafthouse.com/raleigh/show/chinatown): Sat 11/16 (6:35pm), Sun 11/17 (4:30pm, 9:30pm), Mon 11/18 (10:00pm), Tue 11/19 (4:45pm), Wed 11/20 (4:45pm)
+
+    * [Christmas Eve In Millers Point](https://drafthouse.com/raleigh/show/christmas-eve-in-millers-point): Thu 11/14 (6:45pm, 9:45pm)
+
+    * [Conclave](https://drafthouse.com/raleigh/show/conclave): Thu 11/14 (1:15pm, 4:45pm, 7:45pm, 10:45pm), Fri 11/15 (1:45pm, 4:45pm), Sat 11/16 (12:15pm, 3:15pm), Sun 11/17 (12:15pm, 3:15pm), Mon 11/18 (1:45pm, 4:45pm), Tue 11/19 (11:45am, 3:15pm), Wed 11/20 (11:45am, 3:15pm)
+
+    * [Here](https://drafthouse.com/raleigh/show/here): Thu 11/14 (11:15am), Fri 11/15 (1:00pm), Sat 11/16 (1:15pm), Sun 11/17 (1:15pm), Mon 11/18 (1:00pm), Tue 11/19 (1:00pm), Wed 11/20 (1:00pm)
+
+    * [Heretic](https://drafthouse.com/raleigh/show/heretic): Thu 11/14 (12:00pm, 1:00pm, 3:00pm, 6:00pm, 9:00pm), Fri 11/15 (12:30pm, 1:00pm, 3:30pm, 4:00pm, 7:00pm, 10:00pm), Sat 11/16 (1:15pm, 4:15pm, 7:30pm, 9:15pm, 10:30pm), Sun 11/17 (1:15pm, 4:15pm, 7:30pm, 10:30pm), Mon 11/18 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Tue 11/19 (1:00pm, 4:15pm, 7:00pm, 10:00pm), Wed 11/20 (1:00pm, 4:15pm, 7:15pm, 9:45pm)
+
+    * [Memoir Of A Snail](https://drafthouse.com/raleigh/show/memoir-of-a-snail): Thu 11/14 (11:30am, 10:15pm), Fri 11/15 (8:45pm, 10:00pm, 11:00pm), Sat 11/16 (4:30pm, 10:15pm), Sun 11/17 (10:15pm), Mon 11/18 (11:00pm), Tue 11/19 (10:15pm, 10:45pm), Wed 11/20 (10:00pm, 11:00pm)
+
+    * [Omar And Cedric If This Ever Gets Weird](https://drafthouse.com/raleigh/show/omar-and-cedric-if-this-ever-gets-weird): Wed 11/20 (6:45pm, 10:00pm)
+
+    * [Queer Film Theory 101 In A Lonely Place](https://drafthouse.com/raleigh/show/queer-film-theory-101-in-a-lonely-place): Sun 11/17 (10:45pm)
+
+    * [Red One](https://drafthouse.com/raleigh/show/red-one): Thu 11/14 (5:00pm, 8:00pm), Fri 11/15 (12:45pm, 3:45pm, 6:45pm, 8:00pm, 9:45pm), Sat 11/16 (1:30pm, 4:30pm, 5:30pm, 7:30pm, 10:30pm), Sun 11/17 (1:30pm, 5:30pm, 7:15pm, 8:30pm), Mon 11/18 (12:00pm, 12:45pm, 3:00pm, 3:45pm, 6:00pm, 6:45pm, 8:00pm, 9:00pm, 9:45pm), Tue 11/19 (12:00pm, 1:45pm, 3:00pm, 3:45pm, 6:00pm, 6:45pm, 7:45pm, 8:00pm, 9:00pm, 9:45pm), Wed 11/20 (12:00pm, 1:45pm, 3:00pm, 3:45pm, 6:00pm, 8:00pm, 10:15pm)
+
+    * [Smile 2](https://drafthouse.com/raleigh/show/smile-2): Thu 11/14 (12:00pm, 3:05pm, 6:10pm, 9:15pm), Fri 11/15 (1:15pm, 4:30pm, 7:45pm, 10:50pm), Sat 11/16 (1:00pm, 4:15pm), Sun 11/17 (1:00pm, 4:15pm, 7:35pm, 10:40pm), Mon 11/18 (1:15pm, 4:30pm, 7:45pm, 10:50pm), Tue 11/19 (12:40pm, 4:30pm, 7:15pm, 10:30pm), Wed 11/20 (12:40pm, 4:30pm, 7:45pm, 10:50pm)
+
+    * [The Devils Bath](https://drafthouse.com/raleigh/show/the-devils-bath): Thu 11/14 (12:45pm)
+
+    * [The Godfather Part Ii](https://drafthouse.com/raleigh/show/the-godfather-part-ii): Sat 11/16 (9:45pm), Sun 11/17 (6:15pm), Mon 11/18 (8:45pm), Tue 11/19 (12:15pm), Wed 11/20 (12:15pm)
+
+    * [The Wild Robot](https://drafthouse.com/raleigh/show/the-wild-robot): Thu 11/14 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Fri 11/15 (12:00pm, 3:15pm, 6:15pm, 9:15pm), Sat 11/16 (12:15pm, 3:15pm, 6:10pm, 9:15pm), Sun 11/17 (11:15am, 3:15pm, 6:10pm, 9:15pm), Mon 11/18 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Tue 11/19 (11:45am, 3:00pm, 6:00pm, 9:00pm), Wed 11/20 (11:45am, 3:00pm, 6:00pm, 9:00pm)
+
+    * [Venom The Last Dance](https://drafthouse.com/raleigh/show/venom-the-last-dance): Thu 11/14 (1:15pm, 4:30pm, 7:30pm, 10:30pm), Fri 11/15 (1:15pm, 4:30pm, 7:30pm, 10:30pm), Sat 11/16 (11:45am, 2:30pm, 6:15pm, 10:15pm), Sun 11/17 (11:45am, 2:35pm, 6:35pm, 10:15pm), Mon 11/18 (1:30pm, 4:30pm, 7:30pm, 10:20pm), Tue 11/19 (12:45pm, 4:45pm, 6:15pm, 9:15pm), Wed 11/20 (12:45pm, 4:45pm, 6:15pm, 9:15pm)
+
+    * [We Live In Time](https://drafthouse.com/raleigh/show/we-live-in-time): Thu 11/14 (2:00pm), Fri 11/15 (4:15pm), Sat 11/16 (7:15pm), Sun 11/17 (4:30pm), Mon 11/18 (4:15pm), Tue 11/19 (4:15pm), Wed 11/20 (4:15pm)
+
 ### Mon 11/4 8:47pm
 * New movies: Blitz, Christmas Eve in Miller's Point, Elf
 
