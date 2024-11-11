@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 11/11 5:22pm
+* New movies: Daft Punk & Leiji Matsumoto: Interstella 5555
+
+* New screenings: 
+    * [Daft Punk Leiji Matsumoto Interstella 5555](https://drafthouse.com/raleigh/show/daft-punk-leiji-matsumoto-interstella-5555): Thu 12/12 (6:30pm)
+
 ### Mon 11/11 3:24pm
 * New movies: Omar and Cedric: If This Ever Gets Weird
 
