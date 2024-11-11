@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 11/11 1:17pm
+* New movies: Daft Punk & Leiji Matsumoto: Interstella 5555
+
+* New screenings: 
+    * [Daft Punk Leiji Matsumoto Interstella 5555](https://drafthouse.com/los-angeles/show/daft-punk-leiji-matsumoto-interstella-5555): Thu 12/12 (7:00pm)
+
 ### Fri 11/8 2:18pm
 
 * New screenings: 
