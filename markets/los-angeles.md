@@ -1,6 +1,60 @@
 # los-angeles
 
 ## Movie updates
+### Mon 11/11 5:26pm
+* New movies: Ghost Cat Anzu Subtitled, Ghost Cat Anzu Dubbed, Let's Start a Cult, A Real Pain
+
+* New screenings: 
+    * [A Real Pain](https://drafthouse.com/los-angeles/show/a-real-pain): Thu 11/14 (2:20pm, 5:00pm, 10:45pm), Fri 11/15 (11:45am, 2:25pm, 5:05pm, 7:45pm, 10:25pm), Sat 11/16 (11:40am, 2:20pm, 5:00pm, 7:45pm, 10:25pm), Sun 11/17 (11:45am, 2:25pm, 5:05pm, 7:45pm), Mon 11/18 (11:45am, 2:25pm, 5:05pm, 7:45pm, 10:25pm), Tue 11/19 (11:45am, 2:25pm, 5:05pm, 7:45pm, 10:25pm)
+
+    * [A Woman Under The Influence](https://drafthouse.com/los-angeles/show/a-woman-under-the-influence): Fri 11/15 (2:00pm), Sat 11/16 (11:15am)
+
+    * [Anora](https://drafthouse.com/los-angeles/show/anora): Thu 11/14 (2:30pm, 6:00pm, 9:30pm), Fri 11/15 (11:00am, 2:30pm, 6:00pm, 9:30pm), Sat 11/16 (11:00am, 2:30pm, 6:00pm, 9:30pm), Sun 11/17 (11:00am, 2:30pm, 6:00pm), Mon 11/18 (11:00am, 2:30pm, 6:00pm, 9:30pm), Tue 11/19 (11:00am, 2:30pm, 6:00pm, 9:30pm)
+
+    * [Blitz](https://drafthouse.com/los-angeles/show/blitz): Thu 11/14 (3:00pm, 6:10pm, 9:20pm), Fri 11/15 (11:45am, 3:00pm, 6:10pm), Sat 11/16 (12:00pm, 3:10pm, 6:20pm), Sun 11/17 (11:45am, 3:00pm, 6:10pm), Mon 11/18 (11:45am, 3:00pm, 6:10pm), Tue 11/19 (11:45am, 3:00pm, 6:10pm, 9:20pm)
+
+    * [Breakfast Of Champions](https://drafthouse.com/los-angeles/show/breakfast-of-champions): Mon 11/18 (4:15pm), Tue 11/19 (12:20pm)
+
+    * [Chinatown](https://drafthouse.com/los-angeles/show/chinatown): Mon 11/18 (12:50pm), Tue 11/19 (9:20pm)
+
+    * [Christmas Eve In Millers Point](https://drafthouse.com/los-angeles/show/christmas-eve-in-millers-point): Sat 11/16 (9:25pm), Mon 11/18 (9:20pm)
+
+    * [Conclave](https://drafthouse.com/los-angeles/show/conclave): Thu 11/14 (3:10pm, 6:20pm, 9:30pm), Fri 11/15 (12:00pm, 3:10pm, 6:20pm, 9:30pm), Sat 11/16 (12:00pm, 3:00pm, 6:40pm, 9:10pm), Sun 11/17 (12:00pm, 3:10pm, 6:20pm), Mon 11/18 (12:00pm, 3:10pm, 6:20pm, 9:30pm), Tue 11/19 (12:00pm, 3:10pm, 6:20pm, 9:30pm)
+
+    * [Dream Team](https://drafthouse.com/los-angeles/show/dream-team): Sat 11/16 (9:50pm), Mon 11/18 (10:10pm), Tue 11/19 (10:15pm)
+
+    * [Ghost Cat Anzu Dubbed](https://drafthouse.com/los-angeles/show/ghost-cat-anzu-dubbed): Fri 11/15 (11:15am, 4:45pm), Sat 11/16 (10:45am, 4:15pm), Sun 11/17 (11:15am, 4:45pm), Mon 11/18 (11:15am, 4:45pm), Tue 11/19 (11:15am, 4:45pm)
+
+    * [Ghost Cat Anzu Subtitled](https://drafthouse.com/los-angeles/show/ghost-cat-anzu-subtitled): Thu 11/14 (7:15pm, 10:00pm), Fri 11/15 (2:00pm, 7:30pm, 10:15pm), Sat 11/16 (1:30pm, 7:00pm, 9:45pm), Sun 11/17 (2:00pm, 7:30pm), Mon 11/18 (2:00pm, 7:30pm, 10:15pm), Tue 11/19 (2:00pm, 7:30pm, 10:15pm)
+
+    * [Grave Of The Fireflies Subtitled](https://drafthouse.com/los-angeles/show/grave-of-the-fireflies-subtitled): Thu 11/14 (10:30pm)
+
+    * [Here](https://drafthouse.com/los-angeles/show/here): Thu 11/14 (4:10pm)
+
+    * [Heretic](https://drafthouse.com/los-angeles/show/heretic): Thu 11/14 (4:00pm, 7:00pm, 7:45pm, 10:00pm, 10:00pm), Fri 11/15 (1:00pm, 4:00pm, 5:45pm, 7:00pm, 8:45pm, 10:00pm), Sat 11/16 (10:30am, 1:30pm, 4:30pm, 6:10pm, 7:30pm, 9:00pm, 10:30pm), Sun 11/17 (1:00pm, 4:00pm, 7:00pm), Mon 11/18 (11:30am, 1:00pm, 4:00pm, 7:00pm, 10:00pm), Tue 11/19 (1:00pm, 4:00pm, 7:00pm, 10:00pm)
+
+    * [Lets Start A Cult](https://drafthouse.com/los-angeles/show/lets-start-a-cult): Fri 11/15 (9:15pm), Sat 11/16 (4:00pm), Tue 11/19 (4:35pm)
+
+    * [Live Q A A Real Pain](https://drafthouse.com/los-angeles/show/live-q-a-a-real-pain): Thu 11/14 (7:00pm, 7:30pm)
+
+    * [Louder Than You Think](https://drafthouse.com/los-angeles/show/louder-than-you-think): Tue 11/19 (3:20pm)
+
+    * [Meanwhile On Earth](https://drafthouse.com/los-angeles/show/meanwhile-on-earth): Fri 11/15 (11:20am)
+
+    * [Memoir Of A Snail](https://drafthouse.com/los-angeles/show/memoir-of-a-snail): Thu 11/14 (2:45pm), Fri 11/15 (12:15pm, 3:00pm), Sat 11/16 (12:15pm, 3:00pm), Sun 11/17 (12:15pm, 3:00pm), Mon 11/18 (12:15pm, 3:00pm), Tue 11/19 (12:15pm, 3:00pm)
+
+    * [Queer Film Theory 101 In A Lonely Place](https://drafthouse.com/los-angeles/show/queer-film-theory-101-in-a-lonely-place): Sun 11/17 (7:15pm), Mon 11/18 (10:00pm)
+
+    * [Red One](https://drafthouse.com/los-angeles/show/red-one): Thu 11/14 (4:00pm), Fri 11/15 (11:00am, 2:15pm), Sat 11/16 (11:00am, 2:15pm), Sun 11/17 (11:00am, 2:15pm), Mon 11/18 (11:00am, 2:15pm), Tue 11/19 (11:00am, 2:15pm)
+
+    * [Smile 2](https://drafthouse.com/los-angeles/show/smile-2): Thu 11/14 (2:45pm, 6:00pm, 9:00pm), Fri 11/15 (5:30pm, 9:15pm), Sat 11/16 (5:30pm, 9:15pm), Sun 11/17 (5:30pm), Mon 11/18 (5:30pm, 9:15pm), Tue 11/19 (5:30pm, 9:15pm)
+
+    * [The Godfather Part Ii](https://drafthouse.com/los-angeles/show/the-godfather-part-ii): Fri 11/15 (12:10pm), Sun 11/17 (11:50am), Mon 11/18 (2:30pm), Tue 11/19 (12:00pm)
+
+    * [The Substance](https://drafthouse.com/los-angeles/show/the-substance): Thu 11/14 (4:00pm, 5:30pm, 9:15pm), Fri 11/15 (5:45pm, 8:45pm), Sat 11/16 (5:45pm, 8:45pm), Sun 11/17 (5:45pm), Mon 11/18 (5:45pm, 8:45pm), Tue 11/19 (5:45pm, 8:45pm)
+
+    * [Venom The Last Dance](https://drafthouse.com/los-angeles/show/venom-the-last-dance): Thu 11/14 (3:45pm, 6:45pm, 9:40pm), Fri 11/15 (12:45pm, 3:45pm, 6:45pm, 9:40pm), Sat 11/16 (12:45pm, 3:45pm, 6:50pm, 9:45pm), Sun 11/17 (12:45pm, 3:45pm, 6:45pm), Mon 11/18 (12:45pm, 3:45pm, 6:45pm, 9:40pm), Tue 11/19 (12:45pm, 3:45pm, 6:45pm, 9:40pm)
+
 ### Mon 11/11 1:17pm
 * New movies: Daft Punk & Leiji Matsumoto: Interstella 5555
 
