@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 11/12 9:23am
+* New movies: Nutcrackers
+
+* New screenings: 
+    * [Free Victory Screening Nutcrackers](https://drafthouse.com/raleigh/show/free-victory-screening-nutcrackers): Wed 11/20 (7:00pm)
+
 ### Mon 11/11 5:22pm
 * New movies: Daft Punk & Leiji Matsumoto: Interstella 5555
 
