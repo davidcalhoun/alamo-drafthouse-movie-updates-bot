@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 11/12 6:18am
+* New movies: Nutcrackers
+
+* New screenings: 
+    * [Free Victory Screening Nutcrackers](https://drafthouse.com/los-angeles/show/free-victory-screening-nutcrackers): Wed 11/20 (7:00pm)
+
 ### Mon 11/11 5:26pm
 * New movies: Ghost Cat Anzu Subtitled, Ghost Cat Anzu Dubbed, Let's Start a Cult, A Real Pain
 
