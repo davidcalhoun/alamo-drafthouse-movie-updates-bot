@@ -1,6 +1,47 @@
 # los-angeles
 
 ## Movie updates
+### Tue 11/12 12:20pm
+
+* New screenings: 
+    * [A Real Pain](https://drafthouse.com/los-angeles/show/a-real-pain): Wed 11/20 (11:30am, 2:35pm, 5:15pm, 8:00pm, 10:40pm)
+
+    * [A Woman Under The Influence](https://drafthouse.com/los-angeles/show/a-woman-under-the-influence): Wed 11/20 (2:10pm)
+
+    * [Anora](https://drafthouse.com/los-angeles/show/anora): Wed 11/20 (11:40am, 3:30pm, 6:00pm, 9:30pm)
+
+    * [Blitz](https://drafthouse.com/los-angeles/show/blitz): Wed 11/20 (11:50am, 3:00pm, 9:45pm)
+
+    * [Breakfast Of Champions](https://drafthouse.com/los-angeles/show/breakfast-of-champions): Wed 11/20 (1:15pm)
+
+    * [Chinatown](https://drafthouse.com/los-angeles/show/chinatown): Wed 11/20 (11:15am)
+
+    * [Conclave](https://drafthouse.com/los-angeles/show/conclave): Wed 11/20 (12:20pm, 4:15pm, 7:00pm, 9:40pm)
+
+    * [Dream Team](https://drafthouse.com/los-angeles/show/dream-team): Wed 11/20 (10:30pm)
+
+    * [Ghost Cat Anzu Dubbed](https://drafthouse.com/los-angeles/show/ghost-cat-anzu-dubbed): Wed 11/20 (11:00am, 5:00pm)
+
+    * [Ghost Cat Anzu Subtitled](https://drafthouse.com/los-angeles/show/ghost-cat-anzu-subtitled): Wed 11/20 (2:15pm, 7:45pm, 10:30pm)
+
+    * [Heretic](https://drafthouse.com/los-angeles/show/heretic): Wed 11/20 (12:40pm, 3:40pm, 6:40pm, 9:40pm)
+
+    * [Lets Start A Cult](https://drafthouse.com/los-angeles/show/lets-start-a-cult): Wed 11/20 (4:30pm)
+
+    * [Meanwhile On Earth](https://drafthouse.com/los-angeles/show/meanwhile-on-earth): Wed 11/20 (1:50pm)
+
+    * [Memoir Of A Snail](https://drafthouse.com/los-angeles/show/memoir-of-a-snail): Wed 11/20 (11:00am, 1:40pm, 4:20pm)
+
+    * [Queer Film Theory 101 In A Lonely Place](https://drafthouse.com/los-angeles/show/queer-film-theory-101-in-a-lonely-place): Wed 11/20 (9:50pm)
+
+    * [Red One](https://drafthouse.com/los-angeles/show/red-one): Wed 11/20 (11:00am, 11:45am, 3:15pm, 6:20pm, 10:20pm)
+
+    * [Smile 2](https://drafthouse.com/los-angeles/show/smile-2): Wed 11/20 (3:00pm, 10:10pm)
+
+    * [The Substance](https://drafthouse.com/los-angeles/show/the-substance): Wed 11/20 (6:10pm, 9:35pm)
+
+    * [Venom The Last Dance](https://drafthouse.com/los-angeles/show/venom-the-last-dance): Wed 11/20 (12:50pm, 3:50pm, 6:50pm, 9:45pm)
+
 ### Tue 11/12 6:18am
 * New movies: Nutcrackers
 
