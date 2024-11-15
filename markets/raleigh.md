@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Fri 11/15 8:30am
+* New movies: Y2K, Y2K
+
+* New screenings: 
+    * [Livestream Q A Y2k](https://drafthouse.com/raleigh/show/livestream-q-a-y2k): Tue 12/3 (8:30pm)
+
+    * [Y2k](https://drafthouse.com/raleigh/show/y2k): Thu 12/5 (7:30pm, 10:15pm), Fri 12/6 (6:45pm, 9:15pm), Sat 12/7 (5:30pm, 8:00pm, 10:30pm), Sun 12/8 (6:30pm, 9:00pm)
+
 ### Tue 11/12 9:23am
 * New movies: Nutcrackers
 
