@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 11/15 5:27am
+* New movies: Y2K, Y2K
+
+* New screenings: 
+    * [Live Q A Y2k](https://drafthouse.com/los-angeles/show/live-q-a-y2k): Tue 12/3 (5:30pm)
+
+    * [Y2k](https://drafthouse.com/los-angeles/show/y2k): Thu 12/5 (7:30pm, 10:15pm), Fri 12/6 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Sat 12/7 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Sun 12/8 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Mon 12/9 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Tue 12/10 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm)
+
 ### Thu 11/14 11:19pm
 
 * New screenings: 
