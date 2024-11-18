@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 11/18 6:19am
+* New movies: Mufasa: The Lion King
+
+* New screenings: 
+    * [Mufasa The Lion King](https://drafthouse.com/los-angeles/show/mufasa-the-lion-king): Thu 12/19 (3:00pm, 6:15pm, 9:25pm), Fri 12/20 (10:00am, 1:10pm, 4:20pm, 7:30pm, 10:40pm), Sat 12/21 (10:00am, 1:10pm, 4:20pm, 7:30pm, 10:40pm), Sun 12/22 (10:00am, 1:10pm, 4:20pm, 7:30pm), Mon 12/23 (10:00am, 1:10pm, 4:20pm, 7:30pm, 10:40pm), Tue 12/24 (10:00am, 1:10pm, 4:20pm, 7:30pm), Wed 12/25 (10:00am, 1:10pm, 4:20pm, 7:30pm, 10:40pm)
+
 ### Fri 11/15 5:27am
 * New movies: Y2K, Y2K
 
