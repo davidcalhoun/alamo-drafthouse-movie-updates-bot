@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 11/18 9:25am
+* New movies: Mufasa: The Lion King
+
+* New screenings: 
+    * [Mufasa The Lion King](https://drafthouse.com/raleigh/show/mufasa-the-lion-king): Thu 12/19 (2:30pm, 3:00pm, 5:30pm, 6:00pm, 8:30pm, 9:00pm), Fri 12/20 (10:00am, 10:30am, 1:00pm, 4:00pm, 7:00pm, 10:00pm), Sat 12/21 (11:30am, 1:00pm, 4:00pm, 7:00pm, 10:00pm), Sun 12/22 (10:00am, 1:00pm, 2:30pm, 4:00pm, 7:00pm, 10:00pm), Mon 12/23 (10:00am, 11:30am, 1:00pm, 4:00pm, 7:00pm, 10:00pm), Tue 12/24 (10:00am, 10:30am, 1:00pm, 4:00pm, 7:00pm), Wed 12/25 (10:00am, 1:00pm, 4:00pm, 7:00pm, 10:00pm), Thu 12/26 (10:00am, 1:00pm, 4:00pm, 7:00pm, 10:00pm), Fri 12/27 (10:00am, 1:00pm, 4:00pm, 7:00pm, 10:00pm), Sat 12/28 (10:00am, 1:00pm, 4:00pm, 7:00pm, 10:00pm), Sun 12/29 (10:00am, 1:00pm, 4:00pm, 7:00pm, 10:00pm), Mon 12/30 (10:00am, 1:00pm, 4:00pm, 7:00pm, 10:00pm), Tue 12/31 (10:00am, 1:00pm, 4:00pm, 7:00pm), Wed 1/1 (12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
 ### Fri 11/15 8:30am
 * New movies: Y2K, Y2K
 
