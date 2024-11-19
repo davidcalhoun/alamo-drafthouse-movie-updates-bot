@@ -1,6 +1,35 @@
 # los-angeles
 
 ## Movie updates
+### Mon 11/18 6:57pm
+
+* New screenings: 
+    * [A Real Pain](https://drafthouse.com/los-angeles/show/a-real-pain): Thu 11/21 (2:10pm, 4:50pm, 7:30pm, 10:15pm), Fri 11/22 (10:00am, 2:00pm, 4:40pm, 7:15pm, 10:00pm), Sat 11/23 (10:00am, 2:00pm, 4:40pm, 7:15pm, 10:00pm), Sun 11/24 (10:00am, 2:00pm, 4:35pm, 7:15pm, 10:00pm), Mon 11/25 (10:30am, 1:35pm, 5:00pm, 7:45pm, 10:30pm)
+
+    * [Anora](https://drafthouse.com/los-angeles/show/anora): Thu 11/21 (2:30pm, 6:00pm, 9:40pm), Fri 11/22 (11:45am, 3:15pm, 6:45pm, 10:15pm), Sat 11/23 (11:45am, 3:15pm, 6:45pm, 10:15pm), Sun 11/24 (11:45am, 3:15pm, 6:45pm, 10:15pm), Mon 11/25 (11:30am, 3:00pm, 6:40pm, 10:10pm)
+
+    * [Blitz](https://drafthouse.com/los-angeles/show/blitz): Thu 11/21 (2:20pm)
+
+    * [Brunch Screenings Wicked Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-wicked-brunch): Sat 11/23 (11:15am), Sun 11/24 (10:40am)
+
+    * [Conclave](https://drafthouse.com/los-angeles/show/conclave): Thu 11/21 (4:00pm, 7:15pm, 10:25pm), Fri 11/22 (10:25am, 1:35pm, 4:15pm, 7:30pm, 10:40pm), Sat 11/23 (10:25am, 1:35pm, 4:15pm, 7:30pm, 10:40pm), Sun 11/24 (10:25am, 1:35pm, 4:15pm, 7:30pm, 10:40pm), Mon 11/25 (10:25am, 1:45pm, 4:20pm, 7:30pm, 10:40pm)
+
+    * [Daft Punk Leiji Matsumoto Interstella 5555](https://drafthouse.com/los-angeles/show/daft-punk-leiji-matsumoto-interstella-5555): Thu 12/12 (7:30pm, 10:15pm), Sun 12/15 (7:40pm)
+
+    * [Gladiator Ii](https://drafthouse.com/los-angeles/show/gladiator-ii): Thu 11/21 (4:40pm, 5:00pm, 8:20pm, 8:40pm, 9:10pm), Fri 11/22 (10:15am, 10:30am, 12:35pm, 2:15pm, 5:00pm, 6:00pm, 8:40pm, 9:45pm), Sat 11/23 (10:15am, 10:30am, 12:35pm, 2:15pm, 5:00pm, 6:00pm, 8:40pm, 9:10pm, 9:45pm), Sun 11/24 (10:30am, 12:35pm, 1:30pm, 2:15pm, 5:05pm, 6:00pm, 8:45pm, 9:10pm, 9:45pm, 10:40pm), Mon 11/25 (10:45am, 1:10pm, 2:35pm, 4:50pm, 6:10pm, 8:30pm, 9:00pm, 9:50pm)
+
+    * [Heretic](https://drafthouse.com/los-angeles/show/heretic): Thu 11/21 (3:20pm, 6:20pm, 9:25pm), Fri 11/22 (10:10am, 2:15pm, 4:45pm, 7:50pm, 10:45pm), Sat 11/23 (10:10am, 2:15pm, 4:45pm, 7:50pm, 10:45pm), Sun 11/24 (10:45am, 2:20pm, 4:50pm, 7:50pm, 10:45pm), Mon 11/25 (12:00pm, 3:00pm, 7:00pm, 10:00pm)
+
+    * [Memoir Of A Snail](https://drafthouse.com/los-angeles/show/memoir-of-a-snail): Thu 11/21 (2:00pm)
+
+    * [Red One](https://drafthouse.com/los-angeles/show/red-one): Thu 11/21 (3:30pm, 6:45pm, 10:00pm), Fri 11/22 (11:00am, 3:00pm, 6:15pm, 9:30pm), Sat 11/23 (11:00am, 3:00pm, 6:15pm, 9:30pm), Sun 11/24 (11:10am, 2:35pm, 6:00pm, 9:20pm), Mon 11/25 (10:50am, 2:00pm, 6:00pm, 9:15pm)
+
+    * [The Substance](https://drafthouse.com/los-angeles/show/the-substance): Fri 11/22 (9:10pm), Mon 11/25 (10:20am)
+
+    * [Venom The Last Dance](https://drafthouse.com/los-angeles/show/venom-the-last-dance): Thu 11/21 (2:00pm)
+
+    * [Wicked](https://drafthouse.com/los-angeles/show/wicked): Thu 11/21 (2:25pm, 5:20pm, 6:10pm, 10:00pm), Fri 11/22 (11:15am, 12:00pm, 1:10pm, 3:50pm, 5:15pm, 7:40pm), Sat 11/23 (12:00pm, 1:10pm, 3:50pm, 5:15pm, 7:40pm), Sun 11/24 (12:00pm, 3:50pm, 5:15pm, 7:40pm, 9:30pm, 10:20pm), Mon 11/25 (10:10am, 10:40am, 11:30am, 2:20pm, 3:15pm, 5:15pm, 9:20pm)
+
 ### Mon 11/18 6:19am
 * New movies: Mufasa: The Lion King
 
