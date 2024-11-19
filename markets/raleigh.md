@@ -1,6 +1,33 @@
 # raleigh
 
 ## Movie updates
+### Mon 11/18 11:29pm
+
+* New screenings: 
+    * [A Real Pain](https://drafthouse.com/raleigh/show/a-real-pain): Thu 11/21 (2:30pm, 5:00pm, 7:45pm, 10:25pm)
+
+    * [Anora](https://drafthouse.com/raleigh/show/anora): Thu 11/21 (11:30am, 1:00pm)
+
+    * [Conclave](https://drafthouse.com/raleigh/show/conclave): Thu 11/21 (12:15pm)
+
+    * [Gladiator Ii](https://drafthouse.com/raleigh/show/gladiator-ii): Thu 11/21 (2:45pm, 3:30pm, 5:30pm, 6:30pm, 7:00pm, 9:00pm, 10:00pm, 10:45pm)
+
+    * [Here](https://drafthouse.com/raleigh/show/here): Thu 11/21 (12:30pm)
+
+    * [Heretic](https://drafthouse.com/raleigh/show/heretic): Thu 11/21 (11:00am, 3:15pm, 6:15pm, 9:15pm)
+
+    * [Red One](https://drafthouse.com/raleigh/show/red-one): Thu 11/21 (12:00pm, 1:15pm, 4:15pm, 7:15pm, 10:15pm)
+
+    * [The Godfather Part Ii](https://drafthouse.com/raleigh/show/the-godfather-part-ii): Thu 11/21 (11:15am)
+
+    * [The Wild Robot](https://drafthouse.com/raleigh/show/the-wild-robot): Thu 11/21 (11:15am, 2:30pm)
+
+    * [Venom The Last Dance](https://drafthouse.com/raleigh/show/venom-the-last-dance): Thu 11/21 (11:45am)
+
+    * [We Live In Time](https://drafthouse.com/raleigh/show/we-live-in-time): Thu 11/21 (11:30am)
+
+    * [Wicked](https://drafthouse.com/raleigh/show/wicked): Thu 11/21 (2:00pm, 4:00pm, 4:45pm, 5:45pm, 8:00pm, 8:30pm, 9:30pm)
+
 ### Mon 11/18 8:55pm
 
 * New screenings: 
