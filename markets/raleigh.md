@@ -1,6 +1,25 @@
 # raleigh
 
 ## Movie updates
+### Mon 11/18 8:55pm
+
+* New screenings: 
+    * [A Real Pain](https://drafthouse.com/raleigh/show/a-real-pain): Fri 11/22 (11:15am, 2:15pm, 4:45pm, 7:15pm, 9:45pm), Sat 11/23 (11:15am, 2:15pm, 4:45pm, 7:15pm, 9:45pm), Sun 11/24 (10:00am, 12:00pm, 3:00pm, 7:15pm, 9:45pm), Mon 11/25 (11:45am, 2:15pm, 4:45pm, 7:15pm, 9:45pm)
+
+    * [Anora](https://drafthouse.com/raleigh/show/anora): Sun 11/24 (10:15pm), Mon 11/25 (10:15pm)
+
+    * [Gladiator Ii](https://drafthouse.com/raleigh/show/gladiator-ii): Fri 11/22 (10:15am, 12:30pm, 1:45pm, 4:00pm, 5:30pm, 7:30pm, 9:00pm, 10:15pm), Sat 11/23 (10:15am, 12:30pm, 1:45pm, 4:00pm, 5:30pm, 7:30pm, 9:00pm, 10:15pm), Sun 11/24 (10:15am, 12:30pm, 1:45pm, 4:00pm, 5:30pm, 7:30pm, 9:00pm, 10:15pm), Mon 11/25 (10:15am, 11:30am, 1:45pm, 3:00pm, 5:00pm, 5:30pm, 6:30pm, 8:30pm, 9:00pm, 9:30pm)
+
+    * [Heretic](https://drafthouse.com/raleigh/show/heretic): Fri 11/22 (10:15am, 1:15pm, 4:15pm, 7:15pm, 11:00pm), Sat 11/23 (10:15am, 1:15pm, 4:15pm, 7:15pm, 11:00pm), Sun 11/24 (10:15am, 1:15pm, 4:15pm, 7:15pm, 11:00pm), Mon 11/25 (12:15pm, 1:30pm, 4:30pm, 7:15pm, 10:00pm)
+
+    * [Red One](https://drafthouse.com/raleigh/show/red-one): Fri 11/22 (11:30am, 2:45pm, 5:45pm, 7:30pm, 10:45pm), Sat 11/23 (11:30am, 2:45pm, 5:45pm, 7:30pm, 10:45pm), Sun 11/24 (11:30am, 2:45pm, 5:45pm, 7:35pm, 10:45pm), Mon 11/25 (10:30am, 3:15pm, 6:15pm, 9:15pm)
+
+    * [The Wild Robot](https://drafthouse.com/raleigh/show/the-wild-robot): Fri 11/22 (2:15pm), Mon 11/25 (10:45am, 2:15pm)
+
+    * [Venom The Last Dance](https://drafthouse.com/raleigh/show/venom-the-last-dance): Fri 11/22 (11:15am), Mon 11/25 (11:15am)
+
+    * [Wicked](https://drafthouse.com/raleigh/show/wicked): Fri 11/22 (11:30am, 12:00pm, 3:15pm, 3:45pm, 5:00pm, 7:00pm, 8:45pm, 9:15pm, 10:45pm), Sat 11/23 (11:30am, 12:00pm, 1:00pm, 3:15pm, 3:45pm, 4:45pm, 7:00pm, 8:30pm, 9:15pm, 10:45pm), Sun 11/24 (11:30am, 12:00pm, 1:00pm, 3:30pm, 3:45pm, 4:45pm, 8:30pm, 9:15pm), Mon 11/25 (11:00am, 11:30am, 1:30pm, 2:45pm, 3:15pm, 5:15pm, 7:00pm, 9:00pm, 10:45pm)
+
 ### Mon 11/18 9:25am
 * New movies: Mufasa: The Lion King
 
