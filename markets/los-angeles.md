@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 11/22 12:22pm
+
+* New screenings: 
+    * [Wicked](https://drafthouse.com/los-angeles/show/wicked): Fri 11/22 (10:40pm)
+
 ### Fri 11/22 11:16am
 
 * New screenings: 
