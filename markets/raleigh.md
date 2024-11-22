@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Thu 11/21 8:55pm
+* New movies: Batman Returns
+
+* New screenings: 
+    * [Batman Returns](https://drafthouse.com/raleigh/show/batman-returns): Mon 12/9 (9:15pm)
+
+    * [Daft Punk Leiji Matsumoto Interstella 5555](https://drafthouse.com/raleigh/show/daft-punk-leiji-matsumoto-interstella-5555): Fri 12/13 (6:30pm), Sat 12/14 (3:30pm), Sun 12/15 (3:30pm)
+
+    * [Mufasa The Lion King](https://drafthouse.com/raleigh/show/mufasa-the-lion-king): Fri 12/20 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Sat 12/21 (5:30pm, 8:30pm), Sun 12/22 (5:30pm, 8:30pm), Mon 12/23 (5:30pm, 8:30pm), Wed 12/25 (10:30am, 1:30pm, 4:30pm, 7:30pm, 10:30pm), Thu 12/26 (10:30am, 1:30pm, 4:30pm, 7:30pm, 10:30pm), Fri 12/27 (10:30am, 1:30pm, 4:30pm, 7:30pm, 10:45pm), Sat 12/28 (10:30am, 1:30pm, 4:30pm, 7:30pm, 10:30pm), Sun 12/29 (10:30am, 1:30pm, 4:30pm, 7:30pm, 10:30pm), Mon 12/30 (12:30pm, 3:30pm, 6:30pm)
+
 ### Mon 11/18 11:29pm
 
 * New screenings: 
