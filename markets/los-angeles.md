@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 11/22 6:53pm
+* New movies: Flow
+
+* New screenings: 
+    * [Flow](https://drafthouse.com/los-angeles/show/flow): Thu 12/5 (2:30pm, 5:10pm, 7:45pm), Fri 12/6 (11:00am, 1:35pm, 4:10pm, 6:45pm), Sat 12/7 (11:00am, 1:35pm, 4:10pm, 6:45pm), Sun 12/8 (11:00am, 1:35pm, 4:10pm, 6:45pm)
+
 ### Fri 11/22 12:22pm
 
 * New screenings: 
