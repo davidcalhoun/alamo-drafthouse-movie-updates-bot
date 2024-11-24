@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Sun 11/24 5:23am
+* New movies: Nosferatu 2024
+
+* New screenings: 
+    * [Special Event Nosferatu 2024 Beyond The Grave Screening](https://drafthouse.com/los-angeles/show/special-event-nosferatu-2024-beyond-the-grave-screening): Thu 12/26 (5:30pm, 9:00pm)
+
 ### Fri 11/22 6:53pm
 * New movies: Flow
 
