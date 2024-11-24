@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Sun 11/24 8:27am
+* New movies: Nosferatu 2024, Nosferatu 2024
+
+* New screenings: 
+    * [Nosferatu 2024](https://drafthouse.com/raleigh/show/nosferatu-2024): Wed 12/25 (11:30am, 2:45pm, 6:00pm, 9:15pm), Thu 12/26 (11:30am, 2:45pm, 6:00pm, 9:15pm), Fri 12/27 (11:30am, 2:45pm, 9:15pm), Sat 12/28 (11:30am, 2:45pm, 6:00pm, 9:15pm), Sun 12/29 (11:30am, 2:45pm, 6:00pm, 9:15pm), Mon 12/30 (11:30am, 2:45pm, 6:00pm, 9:15pm), Tue 12/31 (10:30am, 1:45pm, 5:00pm, 8:15pm), Wed 1/1 (1:00pm, 4:15pm, 7:30pm, 10:45pm)
+
+    * [Special Event Nosferatu 2024 Beyond The Grave Screening](https://drafthouse.com/raleigh/show/special-event-nosferatu-2024-beyond-the-grave-screening): Fri 12/27 (7:00pm)
+
 ### Thu 11/21 8:55pm
 * New movies: Batman Returns
 
