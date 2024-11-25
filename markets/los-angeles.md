@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Sun 11/24 10:30pm
+* New movies: Nosferatu 2024
+
+* New screenings: 
+    * [Nosferatu 2024](https://drafthouse.com/los-angeles/show/nosferatu-2024): Wed 12/25 (11:10am, 2:35pm, 6:00pm, 9:25pm), Thu 12/26 (11:10am, 2:35pm, 6:00pm, 9:25pm), Fri 12/27 (11:10am, 2:35pm, 6:00pm, 9:25pm), Sat 12/28 (11:10am, 2:35pm, 6:00pm, 9:25pm), Sun 12/29 (11:10am, 2:35pm, 6:00pm), Mon 12/30 (11:10am, 2:35pm, 6:00pm, 9:25pm), Tue 12/31 (11:10am, 2:35pm, 6:00pm), Wed 1/1 (11:10am, 2:35pm, 6:00pm, 9:25pm)
+
 ### Sun 11/24 5:23am
 * New movies: Nosferatu 2024
 
