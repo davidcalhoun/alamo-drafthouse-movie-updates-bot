@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 11/25 2:19pm
+* New movies: Guest Selects: CRIES AND WHISPERS
+
+
+
 ### Mon 11/25 9:25am
 * New movies: Sonic the Hedgehog 3
 
