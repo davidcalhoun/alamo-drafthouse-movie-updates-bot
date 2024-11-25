@@ -1,6 +1,28 @@
 # raleigh
 
 ## Movie updates
+### Mon 11/25 6:23pm
+* New movies: Gremlins, Silent Night, Deadly Night
+
+* New screenings: 
+    * [A Real Pain](https://drafthouse.com/raleigh/show/a-real-pain): Tue 11/26 (12:00pm), Wed 11/27 (12:00pm), Thu 11/28 (10:00am), Fri 11/29 (12:00pm), Sat 11/30 (10:15am), Sun 12/1 (10:30am), Mon 12/2 (10:15am), Tue 12/3 (10:45am), Wed 12/4 (10:30am)
+
+    * [Foxy Brown](https://drafthouse.com/raleigh/show/foxy-brown): Sat 11/30 (10:15pm), Mon 12/2 (10:15pm), Wed 12/4 (8:30pm)
+
+    * [Gladiator Ii](https://drafthouse.com/raleigh/show/gladiator-ii): Tue 11/26 (10:30am, 11:00am, 2:00pm, 5:30pm), Wed 11/27 (10:15am, 1:45pm, 5:30pm), Thu 11/28 (10:15am, 1:45pm, 2:30pm, 5:15pm, 6:15pm), Fri 11/29 (10:15am, 1:45pm, 2:45pm, 5:15pm, 6:15pm, 9:00pm), Sat 11/30 (10:00am, 1:30pm, 2:50pm, 5:00pm, 6:15pm, 8:30pm, 9:45pm), Sun 12/1 (1:00pm, 3:00pm, 5:15pm, 6:15pm, 9:45pm), Mon 12/2 (11:15am, 12:00pm, 12:45pm, 2:40pm, 3:30pm, 4:30pm, 6:15pm, 7:00pm, 8:00pm, 9:45pm, 10:30pm), Tue 12/3 (10:00am, 11:00am, 1:30pm, 2:30pm, 3:00pm, 5:00pm, 6:15pm, 9:45pm), Wed 12/4 (10:45am, 12:00pm, 1:15pm, 2:15pm, 3:45pm, 5:00pm, 5:45pm, 7:15pm, 9:15pm, 10:45pm)
+
+    * [Gremlins](https://drafthouse.com/raleigh/show/gremlins): Tue 12/3 (10:30pm), Wed 12/4 (10:30pm)
+
+    * [Heretic](https://drafthouse.com/raleigh/show/heretic): Tue 11/26 (11:15pm), Wed 11/27 (10:45pm), Thu 11/28 (10:30am), Fri 11/29 (11:00am, 1:15pm, 11:15pm), Sat 11/30 (1:15pm, 11:00pm), Sun 12/1 (11:00pm), Mon 12/2 (11:15pm), Tue 12/3 (11:15pm), Wed 12/4 (4:45pm, 11:00pm)
+
+    * [Moana 2](https://drafthouse.com/raleigh/show/moana-2): Tue 11/26 (2:30pm, 3:00pm, 5:15pm, 5:45pm, 8:00pm, 8:30pm), Wed 11/27 (11:15am, 11:45am, 2:00pm, 2:30pm, 3:00pm, 4:45pm, 5:15pm, 5:45pm, 7:30pm, 8:00pm, 8:30pm, 10:15pm), Thu 11/28 (11:15am, 12:15pm, 2:00pm, 3:00pm, 4:45pm, 5:45pm, 7:30pm), Fri 11/29 (12:15pm, 2:10pm, 3:00pm, 4:45pm, 5:45pm, 7:30pm, 8:30pm, 10:15pm), Sat 11/30 (11:15am, 12:15pm, 2:00pm, 2:30pm, 3:10pm, 4:45pm, 5:30pm, 6:30pm, 7:30pm, 8:15pm, 9:15pm), Sun 12/1 (10:00am, 12:15pm, 1:30pm, 3:30pm, 4:15pm, 6:30pm, 7:00pm, 9:30pm, 10:00pm), Mon 12/2 (10:30am, 11:30am, 12:15pm, 1:10pm, 2:05pm, 3:05pm, 3:45pm, 4:45pm, 5:45pm, 7:30pm, 8:30pm), Tue 12/3 (10:30am, 11:30am, 12:30pm, 1:15pm, 2:15pm, 3:15pm, 4:00pm, 5:00pm, 6:00pm, 6:45pm, 7:45pm, 9:00pm), Wed 12/4 (10:30am, 11:30am, 12:30pm, 1:05pm, 2:05pm, 3:15pm, 3:45pm, 6:45pm, 7:45pm, 9:30pm)
+
+    * [Red One](https://drafthouse.com/raleigh/show/red-one): Tue 11/26 (10:15am, 1:15pm, 4:15pm, 7:15pm, 10:15pm), Wed 11/27 (10:00am, 1:00pm, 4:15pm, 7:15pm, 10:15pm), Thu 11/28 (11:15am, 12:30pm, 3:30pm, 6:45pm), Fri 11/29 (10:00am, 4:15pm, 7:15pm, 10:15pm), Sat 11/30 (11:15am, 4:15pm, 7:15pm, 10:15pm), Sun 12/1 (10:15am, 1:15pm, 4:15pm, 7:15pm, 10:15pm), Mon 12/2 (10:00am, 1:05pm, 4:10pm, 7:15pm, 10:30pm), Tue 12/3 (12:00pm, 1:30pm, 4:45pm, 8:00pm, 10:15pm), Wed 12/4 (11:30am, 3:00pm, 6:15pm, 9:30pm)
+
+    * [Silent Night Deadly Night](https://drafthouse.com/raleigh/show/silent-night-deadly-night): Sun 12/1 (10:15pm)
+
+    * [Wicked](https://drafthouse.com/raleigh/show/wicked): Tue 11/26 (10:00am, 11:00am, 11:30am, 12:00pm, 1:00pm, 1:45pm, 2:45pm, 3:30pm, 5:00pm, 5:30pm, 6:45pm, 7:30pm, 9:00pm, 9:30pm, 10:30pm), Wed 11/27 (11:00am, 12:00pm, 12:45pm, 3:00pm, 4:00pm, 4:45pm, 6:45pm, 7:45pm, 8:45pm, 10:30pm), Thu 11/28 (11:00am, 11:45am, 1:30pm, 2:45pm, 3:30pm, 5:30pm, 6:45pm, 7:15pm), Fri 11/29 (10:45am, 12:00pm, 12:30pm, 2:45pm, 4:00pm, 4:30pm, 6:45pm, 7:45pm, 8:15pm, 10:30pm), Sat 11/30 (10:00am, 12:30pm, 12:30pm, 1:45pm, 4:15pm, 4:30pm, 5:30pm, 8:00pm, 8:15pm, 9:30pm), Sun 12/1 (10:45am, 1:30pm, 2:45pm, 4:30pm, 6:30pm, 8:15pm, 8:45pm, 9:45pm), Mon 12/2 (10:00am, 11:00am, 12:15pm, 1:15pm, 2:00pm, 2:45pm, 4:00pm, 5:00pm, 6:00pm, 6:45pm, 7:45pm, 9:00pm, 10:00pm, 10:30pm), Tue 12/3 (10:15am, 11:00am, 11:45am, 2:00pm, 3:00pm, 3:30pm, 4:15pm, 5:45pm, 7:00pm, 7:30pm, 8:00pm, 9:40pm, 10:45pm), Wed 12/4 (10:00am, 11:00am, 11:45am, 12:45pm, 1:45pm, 2:45pm, 3:30pm, 4:30pm, 5:30pm, 6:30pm, 7:15pm, 8:15pm, 9:15pm, 10:15pm)
+
 ### Mon 11/25 2:19pm
 * New movies: Guest Selects: CRIES AND WHISPERS
 
