@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 11/25 9:25am
+* New movies: Sonic the Hedgehog 3
+
+* New screenings: 
+    * [Sonic The Hedgehog 3](https://drafthouse.com/raleigh/show/sonic-the-hedgehog-3): Thu 12/19 (5:00pm, 7:00pm, 8:00pm, 10:00pm), Fri 12/20 (11:00am, 12:00pm, 2:00pm, 3:00pm, 5:00pm, 6:00pm, 8:00pm, 9:00pm), Sat 12/21 (11:00am, 12:00pm, 2:00pm, 3:00pm, 5:00pm, 6:00pm, 8:00pm, 9:00pm), Sun 12/22 (11:00am, 12:00pm, 2:00pm, 3:00pm, 5:00pm, 6:00pm, 8:00pm, 9:00pm), Mon 12/23 (11:00am, 12:00pm, 3:00pm, 5:45pm, 8:30pm, 9:45pm), Tue 12/24 (10:15am, 1:15pm, 2:10pm, 4:15pm, 5:00pm, 7:15pm, 7:45pm), Wed 12/25 (11:00am, 2:00pm, 4:45pm, 7:45pm, 10:30pm), Thu 12/26 (11:00am, 2:00pm, 4:45pm, 7:45pm, 10:30pm), Fri 12/27 (11:00am, 2:00pm, 4:45pm, 7:45pm, 10:30pm), Sun 12/29 (11:00am, 2:00pm, 4:45pm, 7:45pm, 10:30pm), Mon 12/30 (11:00am, 2:00pm, 4:45pm, 7:45pm, 10:30pm), Tue 12/31 (10:15am, 1:15pm, 4:15pm, 7:15pm), Wed 1/1 (12:15pm, 3:15pm, 6:15pm, 9:15pm)
+
 ### Sun 11/24 8:27am
 * New movies: Nosferatu 2024, Nosferatu 2024
 
