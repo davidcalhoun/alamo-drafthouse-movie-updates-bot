@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 11/25 11:16am
+* New movies: Guest Selects: CRIES AND WHISPERS
+
+
+
 ### Mon 11/25 9:18am
 
 * New screenings: 
