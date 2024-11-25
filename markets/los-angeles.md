@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Mon 11/25 6:19am
+* New movies: Sonic the Hedgehog 3, Sonic the Hedgehog 3
+
+* New screenings: 
+    * [Family Party Sonic The Hedgehog 3](https://drafthouse.com/los-angeles/show/family-party-sonic-the-hedgehog-3): Sat 12/21 (11:00am)
+
+    * [Sonic The Hedgehog 3](https://drafthouse.com/los-angeles/show/sonic-the-hedgehog-3): Thu 12/19 (6:45pm, 9:45pm), Fri 12/20 (9:45am, 12:45pm, 3:45pm, 6:45pm, 9:45pm), Sat 12/21 (9:45am, 12:45pm, 3:45pm, 6:45pm, 9:45pm), Sun 12/22 (9:45am, 12:45pm, 3:45pm, 6:45pm), Mon 12/23 (9:45am, 12:45pm, 3:45pm, 6:45pm, 9:45pm), Tue 12/24 (9:45am, 12:45pm, 3:45pm, 6:45pm), Wed 12/25 (9:45am, 12:45pm, 3:45pm, 6:45pm, 9:45pm), Fri 12/27 (10:30am, 1:30pm, 4:30pm, 7:30pm, 10:30pm), Sat 12/28 (10:30am, 1:30pm, 4:30pm, 7:30pm, 10:30pm), Sun 12/29 (10:30am, 1:30pm, 4:30pm, 7:30pm), Mon 12/30 (10:30am, 1:30pm, 4:30pm, 7:30pm, 10:30pm), Tue 12/31 (10:30am, 1:30pm, 4:30pm, 7:30pm), Wed 1/1 (1:30pm, 4:30pm, 7:30pm, 10:30pm)
+
 ### Sun 11/24 10:30pm
 * New movies: Nosferatu 2024
 
