@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 11/25 9:18am
+
+* New screenings: 
+    * [Flow](https://drafthouse.com/los-angeles/show/flow): Mon 12/9 (11:00am, 1:35pm, 4:10pm, 6:45pm), Tue 12/10 (11:00am, 1:35pm, 4:10pm, 6:45pm), Wed 12/11 (11:00am, 1:35pm, 4:10pm, 6:45pm)
+
 ### Mon 11/25 6:19am
 * New movies: Sonic the Hedgehog 3, Sonic the Hedgehog 3
 
