@@ -1,6 +1,40 @@
 # los-angeles
 
 ## Movie updates
+### Mon 11/25 5:42pm
+* New movies: You Are Not Me, The Substance
+
+* New screenings: 
+    * [A Real Pain](https://drafthouse.com/los-angeles/show/a-real-pain): Tue 11/26 (11:10am, 2:40pm, 5:20pm, 8:00pm, 10:40pm), Wed 11/27 (11:10am, 1:55pm, 7:45pm), Fri 11/29 (3:15pm, 5:10pm, 7:45pm), Sat 11/30 (3:15pm, 5:10pm, 10:50pm), Sun 12/1 (12:20pm, 2:30pm, 5:15pm), Mon 12/2 (12:30pm, 3:15pm, 10:40pm), Tue 12/3 (3:30pm, 10:40pm), Wed 12/4 (11:20am, 3:15pm, 5:15pm, 10:45pm)
+
+    * [Anora](https://drafthouse.com/los-angeles/show/anora): Tue 11/26 (11:00am, 2:30pm, 6:00pm, 10:05pm), Wed 11/27 (12:00pm, 2:50pm, 6:20pm, 9:50pm), Fri 11/29 (11:15am, 2:45pm, 6:15pm, 9:45pm), Sat 11/30 (11:15am, 2:45pm, 6:15pm, 9:45pm), Sun 12/1 (11:20am, 2:50pm, 6:20pm), Mon 12/2 (11:20am, 2:50pm, 6:20pm, 9:50pm), Tue 12/3 (11:15am, 2:45pm, 6:20pm, 9:50pm), Wed 12/4 (11:15am, 2:45pm, 6:20pm, 9:50pm)
+
+    * [Brunch Screenings Wicked Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-wicked-brunch): Sat 11/30 (12:00pm), Sun 12/1 (10:40am)
+
+    * [Conclave](https://drafthouse.com/los-angeles/show/conclave): Tue 11/26 (10:50am), Wed 11/27 (4:35pm, 10:30pm), Fri 11/29 (12:00pm, 10:30pm), Sat 11/30 (12:00pm, 7:45pm), Sun 12/1 (8:00pm), Mon 12/2 (5:10pm), Tue 12/3 (12:25pm, 5:10pm), Wed 12/4 (10:05pm)
+
+    * [Foxy Brown](https://drafthouse.com/los-angeles/show/foxy-brown): Sun 12/1 (8:15pm), Mon 12/2 (7:30pm), Wed 12/4 (4:30pm)
+
+    * [Gladiator Ii](https://drafthouse.com/los-angeles/show/gladiator-ii): Tue 11/26 (11:00am, 1:50pm, 5:30pm, 9:10pm, 10:25pm), Wed 11/27 (10:40am, 2:15pm, 6:00pm, 9:40pm, 10:40pm), Fri 11/29 (10:40am, 2:20pm, 6:00pm, 9:45pm, 10:40pm), Sat 11/30 (10:40am, 2:15pm, 6:00pm, 9:45pm, 10:40pm), Sun 12/1 (10:45am, 2:20pm, 6:10pm), Mon 12/2 (10:45am, 11:40am, 2:25pm, 3:20pm, 6:10pm, 7:00pm, 8:15pm, 9:50pm), Tue 12/3 (10:45am, 11:40am, 2:20pm, 3:20pm, 6:00pm, 7:00pm, 8:20pm, 9:40pm), Wed 12/4 (10:45am, 11:40am, 2:25pm, 3:20pm, 6:10pm, 7:00pm, 8:00pm, 9:50pm)
+
+    * [Graveyard Shift Silent Night Deadly Night](https://drafthouse.com/los-angeles/show/graveyard-shift-silent-night-deadly-night): Mon 12/2 (10:15pm), Tue 12/3 (7:30pm)
+
+    * [Heavier Trip](https://drafthouse.com/los-angeles/show/heavier-trip): Mon 12/2 (3:00pm), Tue 12/3 (10:25pm), Wed 12/4 (10:40pm)
+
+    * [Heretic](https://drafthouse.com/los-angeles/show/heretic): Tue 11/26 (12:00pm, 3:00pm, 6:00pm, 9:30pm), Wed 11/27 (10:45am, 1:40pm, 4:35pm, 7:30pm, 10:30pm), Fri 11/29 (11:10am, 2:10pm, 6:00pm, 9:00pm), Sat 11/30 (11:10am, 2:10pm, 6:00pm, 9:00pm), Sun 12/1 (12:00pm, 3:00pm, 6:00pm), Mon 12/2 (11:10am, 2:10pm, 6:00pm, 10:20pm), Tue 12/3 (11:10am, 2:10pm, 6:10pm, 9:10pm), Wed 12/4 (11:10am, 2:10pm, 6:00pm, 10:20pm)
+
+    * [Moana 2](https://drafthouse.com/los-angeles/show/moana-2): Tue 11/26 (2:15pm, 4:20pm, 5:00pm, 7:00pm, 7:45pm, 9:00pm, 9:50pm, 10:35pm), Wed 11/27 (11:00am, 11:25am, 12:40pm, 2:20pm, 3:30pm, 5:15pm, 6:20pm, 8:10pm, 9:10pm), Fri 11/29 (11:00am, 11:35am, 1:00pm, 1:50pm, 2:30pm, 5:25pm, 8:20pm), Sat 11/30 (11:00am, 11:30am, 2:25pm, 3:50pm, 5:20pm, 6:40pm, 8:15pm, 9:30pm), Sun 12/1 (11:00am, 11:15am, 2:10pm, 3:10pm, 5:00pm, 7:50pm), Mon 12/2 (10:40am, 11:00am, 11:35am, 12:10pm, 1:30pm, 2:30pm, 4:20pm, 5:30pm, 7:15pm, 8:25pm, 10:10pm), Tue 12/3 (10:40am, 11:00am, 12:10pm, 1:30pm, 3:00pm, 4:20pm, 6:00pm, 7:15pm, 8:50pm, 10:10pm), Wed 12/4 (10:40am, 11:00am, 11:35am, 12:25pm, 1:30pm, 2:00pm, 2:30pm, 4:20pm, 4:50pm, 5:30pm, 7:10pm, 8:25pm, 10:00pm)
+
+    * [Murder On The Orient Express 1974](https://drafthouse.com/los-angeles/show/murder-on-the-orient-express-1974): Mon 12/2 (4:10pm), Tue 12/3 (4:10pm)
+
+    * [Red One](https://drafthouse.com/los-angeles/show/red-one): Tue 11/26 (12:00pm, 4:00pm, 7:15pm, 10:30pm), Wed 11/27 (11:40am, 3:30pm, 6:45pm, 10:00pm), Fri 11/29 (10:35am)
+
+    * [The Substance](https://drafthouse.com/los-angeles/show/the-substance): Tue 11/26 (10:50am)
+
+    * [Wicked](https://drafthouse.com/los-angeles/show/wicked): Tue 11/26 (12:15pm, 12:30pm, 3:10pm), Wed 11/27 (12:10pm, 1:50pm, 4:00pm, 5:40pm, 8:00pm, 9:30pm), Fri 11/29 (12:25pm, 1:50pm, 4:00pm, 4:45pm, 5:45pm, 8:00pm, 8:40pm, 9:35pm), Sat 11/30 (12:20pm, 1:50pm, 4:10pm, 5:45pm, 8:00pm, 9:35pm), Sun 12/1 (11:50am, 1:50pm, 3:40pm, 5:45pm, 7:30pm), Mon 12/2 (10:50am, 12:00pm, 12:20pm, 1:50pm, 2:40pm, 3:50pm, 5:45pm, 6:30pm, 7:45pm, 9:00pm, 9:30pm), Tue 12/3 (10:50am, 12:00pm, 12:20pm, 1:50pm, 2:40pm, 3:50pm, 5:45pm, 6:30pm, 7:45pm, 9:30pm, 10:05pm), Wed 12/4 (10:50am, 11:50am, 12:40pm, 1:50pm, 2:40pm, 3:40pm, 5:45pm, 6:30pm, 7:35pm, 9:00pm, 9:35pm)
+
+    * [You Are Not Me](https://drafthouse.com/los-angeles/show/you-are-not-me): Fri 12/6 (9:20pm), Sat 12/7 (9:20pm)
+
 ### Mon 11/25 11:16am
 * New movies: Guest Selects: CRIES AND WHISPERS
 
