@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 11/26 10:29am
+* New movies: Y2K
+
+* New screenings: 
+    * [Live Intro Y2k](https://drafthouse.com/los-angeles/show/live-intro-y2k): Tue 12/3 (8:30pm)
+
 ### Mon 11/25 5:42pm
 * New movies: You Are Not Me, The Substance
 
