@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Tue 11/26 5:25pm
+* New movies: Flow
+
+* New screenings: 
+    * [Daft Punk Leiji Matsumoto Interstella 5555](https://drafthouse.com/raleigh/show/daft-punk-leiji-matsumoto-interstella-5555): Thu 12/12 (9:15pm)
+
+    * [Flow](https://drafthouse.com/raleigh/show/flow): Thu 12/5 (2:15pm, 4:45pm, 7:15pm, 9:45pm), Fri 12/6 (11:45am, 2:15pm, 4:45pm, 7:15pm, 9:45pm), Sat 12/7 (11:45am, 2:15pm, 4:45pm, 7:15pm, 9:45pm), Sun 12/8 (11:45am, 2:15pm, 4:45pm, 7:15pm, 9:45pm)
+
 ### Tue 11/26 4:23pm
 * New movies: Sonic the Hedgehog 3
 
