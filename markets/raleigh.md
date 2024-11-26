@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 11/26 4:23pm
+* New movies: Sonic the Hedgehog 3
+
+* New screenings: 
+    * [Family Party Sonic The Hedgehog 3](https://drafthouse.com/raleigh/show/family-party-sonic-the-hedgehog-3): Sat 12/21 (10:00am)
+
 ### Mon 11/25 6:23pm
 * New movies: Gremlins, Silent Night, Deadly Night
 
