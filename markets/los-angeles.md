@@ -1,6 +1,25 @@
 # los-angeles
 
 ## Movie updates
+### Wed 11/27 12:23pm
+
+* New screenings: 
+    * [A Real Pain](https://drafthouse.com/los-angeles/show/a-real-pain): Thu 11/28 (3:10pm, 5:10pm, 10:50pm)
+
+    * [Anora](https://drafthouse.com/los-angeles/show/anora): Thu 11/28 (11:15am, 2:50pm, 6:20pm, 9:50pm)
+
+    * [Conclave](https://drafthouse.com/los-angeles/show/conclave): Thu 11/28 (12:00pm, 7:45pm)
+
+    * [Gladiator Ii](https://drafthouse.com/los-angeles/show/gladiator-ii): Thu 11/28 (10:45am, 2:25pm, 6:10pm, 9:50pm, 10:35pm)
+
+    * [Heretic](https://drafthouse.com/los-angeles/show/heretic): Thu 11/28 (11:10am, 2:10pm, 6:00pm, 9:00pm)
+
+    * [Moana 2](https://drafthouse.com/los-angeles/show/moana-2): Thu 11/28 (11:00am, 11:35am, 1:00pm, 2:30pm, 3:50pm, 5:25pm, 6:45pm, 8:20pm, 9:40pm)
+
+    * [Red One](https://drafthouse.com/los-angeles/show/red-one): Thu 11/28 (12:15pm, 3:35pm, 6:50pm, 10:05pm)
+
+    * [Wicked](https://drafthouse.com/los-angeles/show/wicked): Thu 11/28 (12:20pm, 1:50pm, 4:10pm, 5:40pm, 8:00pm, 9:30pm)
+
 ### Tue 11/26 7:01pm
 * New movies: Violent Night
 
