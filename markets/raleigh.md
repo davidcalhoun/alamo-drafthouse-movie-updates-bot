@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 11/27 4:23pm
+* New movies: Queer
+
+* New screenings: 
+    * [Queer](https://drafthouse.com/raleigh/show/queer): Thu 12/5 (6:30pm, 10:00pm), Fri 12/6 (7:30pm, 10:45pm), Sat 12/7 (7:30pm, 10:45pm), Sun 12/8 (7:30pm, 10:45pm)
+
 ### Tue 11/26 5:25pm
 * New movies: Flow
 
