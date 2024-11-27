@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Wed 11/27 1:19pm
+
+* New screenings: 
+    * [Mufasa The Lion King](https://drafthouse.com/los-angeles/show/mufasa-the-lion-king): Wed 1/1 (12:10pm)
+
+    * [Sonic The Hedgehog 3](https://drafthouse.com/los-angeles/show/sonic-the-hedgehog-3): Wed 1/1 (10:30am)
+
 ### Wed 11/27 12:23pm
 
 * New screenings: 
