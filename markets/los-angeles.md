@@ -1,6 +1,20 @@
 # los-angeles
 
 ## Movie updates
+### Wed 11/27 9:20pm
+* New movies: VHYes, Are You There God? It's Me, Margaret., It Doesn't Get Any Better Than This, Mind Game, The Sacrifice
+
+* New screenings: 
+    * [Are You There God Its Me Margaret](https://drafthouse.com/los-angeles/show/are-you-there-god-its-me-margaret): Sat 1/18 (11:25am)
+
+    * [It Doesnt Get Any Better Than This](https://drafthouse.com/los-angeles/show/it-doesnt-get-any-better-than-this): Fri 1/10 (9:30pm)
+
+    * [Live Q A Vhyes](https://drafthouse.com/los-angeles/show/live-q-a-vhyes): Sat 1/25 (7:15pm)
+
+    * [Mind Game](https://drafthouse.com/los-angeles/show/mind-game): Mon 1/13 (7:15pm)
+
+    * [The Sacrifice](https://drafthouse.com/los-angeles/show/the-sacrifice): Sat 1/18 (2:25pm)
+
 ### Wed 11/27 1:19pm
 
 * New screenings: 
