@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Wed 11/27 10:30pm
+* New movies: The Lord of the Rings: The Fellowship of the Ring: Extended Edition, The Lord of the Rings: The Return of the King: Extended Edition, The Lord of the Rings: The Two Towers: Extended Edition
+
+* New screenings: 
+    * [The Lord Of The Rings The Fellowship Of The Ring Extended Edition](https://drafthouse.com/los-angeles/show/the-lord-of-the-rings-the-fellowship-of-the-ring-extended-edition): Sun 1/26 (11:10am)
+
+    * [The Lord Of The Rings The Return Of The King Extended Edition](https://drafthouse.com/los-angeles/show/the-lord-of-the-rings-the-return-of-the-king-extended-edition): Sun 2/9 (11:00am)
+
+    * [The Lord Of The Rings The Two Towers Extended Edition 2](https://drafthouse.com/los-angeles/show/the-lord-of-the-rings-the-two-towers-extended-edition-2): Sun 2/2 (11:15am)
+
 ### Wed 11/27 9:20pm
 * New movies: VHYes, Are You There God? It's Me, Margaret., It Doesn't Get Any Better Than This, Mind Game, The Sacrifice
 
