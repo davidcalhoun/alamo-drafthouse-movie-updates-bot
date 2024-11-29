@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 11/29 5:29am
+* New movies: Kraven the Hunter
+
+* New screenings: 
+    * [Kraven The Hunter](https://drafthouse.com/los-angeles/show/kraven-the-hunter): Thu 12/12 (2:40pm, 6:00pm, 9:20pm), Fri 12/13 (11:40am, 3:00pm, 6:15pm, 9:35pm), Sat 12/14 (11:40am, 3:00pm, 6:15pm, 9:35pm), Sun 12/15 (11:40am, 3:00pm, 6:15pm), Mon 12/16 (11:40am, 3:00pm, 6:15pm, 9:35pm), Tue 12/17 (11:40am, 3:00pm, 6:15pm, 9:35pm), Wed 12/18 (11:50am, 3:10pm, 6:30pm, 9:50pm)
+
 ### Wed 11/27 10:30pm
 * New movies: The Lord of the Rings: The Fellowship of the Ring: Extended Edition, The Lord of the Rings: The Return of the King: Extended Edition, The Lord of the Rings: The Two Towers: Extended Edition
 
