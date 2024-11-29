@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 11/29 8:32am
+* New movies: Kraven the Hunter
+
+* New screenings: 
+    * [Kraven The Hunter](https://drafthouse.com/raleigh/show/kraven-the-hunter): Fri 12/13 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Sat 12/14 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Sun 12/15 (12:30pm, 3:45pm, 7:00pm, 10:15pm)
+
 ### Wed 11/27 4:23pm
 * New movies: Queer
 
