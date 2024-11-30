@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 11/29 7:29pm
+
+* New screenings: 
+    * [Anora](https://drafthouse.com/los-angeles/show/anora): Sun 12/1 (11:20am)
+
 ### Fri 11/29 5:29am
 * New movies: Kraven the Hunter
 
