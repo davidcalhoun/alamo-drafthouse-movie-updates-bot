@@ -1,6 +1,52 @@
 # los-angeles
 
 ## Movie updates
+### Mon 12/2 3:22pm
+* New movies: Queer, Nightbitch, Lake George
+
+* New screenings: 
+    * [A Real Pain](https://drafthouse.com/los-angeles/show/a-real-pain): Thu 12/5 (2:50pm)
+
+    * [Anora](https://drafthouse.com/los-angeles/show/anora): Thu 12/5 (3:40pm, 5:30pm, 9:40pm), Fri 12/6 (11:30am, 8:30pm), Sat 12/7 (2:15pm, 8:30pm), Sun 12/8 (11:30am), Mon 12/9 (11:30am, 8:30pm), Tue 12/10 (11:30am, 8:30pm), Wed 12/11 (12:30pm, 10:00pm)
+
+    * [Batman Returns](https://drafthouse.com/los-angeles/show/batman-returns): Fri 12/6 (12:50pm), Sat 12/7 (3:45pm), Sun 12/8 (6:00pm), Mon 12/9 (12:00pm, 9:15pm), Tue 12/10 (1:00pm, 9:10pm), Wed 12/11 (12:00pm)
+
+    * [Conclave](https://drafthouse.com/los-angeles/show/conclave): Thu 12/5 (4:20pm)
+
+    * [Female Trouble](https://drafthouse.com/los-angeles/show/female-trouble): Fri 12/6 (10:10pm), Sat 12/7 (10:45pm), Mon 12/9 (10:15pm), Tue 12/10 (10:15pm), Wed 12/11 (10:55pm)
+
+    * [Flow](https://drafthouse.com/los-angeles/show/flow): Thu 12/5 (10:25pm)
+
+    * [Foxy Brown](https://drafthouse.com/los-angeles/show/foxy-brown): Thu 12/5 (3:00pm)
+
+    * [Gladiator Ii](https://drafthouse.com/los-angeles/show/gladiator-ii): Thu 12/5 (2:40pm, 6:20pm, 10:00pm), Fri 12/6 (11:00am, 2:35pm, 6:20pm, 10:00pm), Sat 12/7 (10:40am, 2:20pm, 6:00pm, 9:40pm), Sun 12/8 (11:00am, 2:35pm, 6:20pm), Mon 12/9 (11:00am, 2:35pm, 6:20pm, 10:00pm), Tue 12/10 (11:00am, 2:35pm, 6:20pm, 10:00pm), Wed 12/11 (12:15pm, 3:40pm, 7:00pm, 9:20pm)
+
+    * [Heavier Trip](https://drafthouse.com/los-angeles/show/heavier-trip): Thu 12/5 (4:15pm), Fri 12/6 (2:50pm), Mon 12/9 (3:15pm), Wed 12/11 (1:40pm)
+
+    * [Heretic](https://drafthouse.com/los-angeles/show/heretic): Thu 12/5 (2:30pm, 10:40pm), Fri 12/6 (4:00pm, 10:35pm), Sat 12/7 (4:00pm, 10:25pm), Sun 12/8 (4:00pm), Mon 12/9 (4:00pm, 10:35pm), Tue 12/10 (4:00pm, 10:35pm), Wed 12/11 (4:00pm, 10:40pm)
+
+    * [Klaus](https://drafthouse.com/los-angeles/show/klaus): Mon 12/9 (10:45am), Tue 12/10 (11:25am), Wed 12/11 (11:00am)
+
+    * [Lake George](https://drafthouse.com/los-angeles/show/lake-george): Fri 12/6 (11:50am), Sat 12/7 (3:10pm), Sun 12/8 (12:10pm), Mon 12/9 (1:30pm), Tue 12/10 (4:15pm), Wed 12/11 (4:20pm)
+
+    * [Laufeys A Night At The Symphony Hollywood Bowl](https://drafthouse.com/los-angeles/show/laufeys-a-night-at-the-symphony-hollywood-bowl): Sat 12/7 (8:40pm), Mon 12/9 (4:25pm), Wed 12/11 (3:20pm)
+
+    * [Moana 2](https://drafthouse.com/los-angeles/show/moana-2): Thu 12/5 (3:10pm, 3:40pm, 5:30pm, 6:45pm, 7:20pm, 9:35pm, 10:20pm), Fri 12/6 (10:45am, 12:20pm, 1:35pm, 3:40pm, 7:00pm, 10:25pm), Sat 12/7 (10:50am, 11:25am, 1:40pm, 2:50pm, 5:40pm, 7:10pm, 10:10pm), Sun 12/8 (10:45am, 12:20pm, 1:35pm, 3:40pm, 7:00pm), Mon 12/9 (10:45am, 12:20pm, 1:35pm, 3:40pm, 7:00pm, 10:25pm), Tue 12/10 (10:45am, 12:20pm, 1:35pm, 3:40pm, 7:00pm, 10:25pm), Wed 12/11 (10:45am, 11:10am, 1:35pm, 3:50pm, 6:15pm, 10:15pm)
+
+    * [Murder On The Orient Express 1974](https://drafthouse.com/los-angeles/show/murder-on-the-orient-express-1974): Thu 12/5 (5:45pm)
+
+    * [Nightbitch](https://drafthouse.com/los-angeles/show/nightbitch): Fri 12/6 (11:15am, 2:05pm, 4:55pm, 7:45pm, 10:40pm), Sat 12/7 (11:15am, 2:05pm, 4:55pm, 7:45pm, 10:35pm), Sun 12/8 (11:30am, 2:20pm, 5:10pm, 8:00pm), Mon 12/9 (11:15am, 2:05pm, 4:55pm, 7:45pm, 10:40pm), Tue 12/10 (11:15am, 2:05pm, 4:55pm, 7:45pm, 10:40pm), Wed 12/11 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:20pm)
+
+    * [Queer](https://drafthouse.com/los-angeles/show/queer): Thu 12/5 (6:00pm, 7:10pm, 9:25pm), Fri 12/6 (11:20am, 12:35pm, 2:45pm, 6:10pm, 7:10pm, 9:35pm), Sat 12/7 (11:35am, 3:00pm, 6:30pm, 7:00pm, 10:00pm), Sun 12/8 (11:20am, 12:35pm, 2:45pm, 6:10pm, 7:10pm), Mon 12/9 (11:20am, 12:35pm, 2:45pm, 6:10pm, 7:10pm, 9:35pm), Tue 12/10 (11:20am, 12:35pm, 2:45pm, 6:10pm, 7:10pm, 9:35pm), Wed 12/11 (11:25am, 12:20pm, 2:50pm, 6:30pm, 9:10pm)
+
+    * [The Sugarland Express](https://drafthouse.com/los-angeles/show/the-sugarland-express): Sun 12/8 (5:45pm)
+
+    * [Wicked](https://drafthouse.com/los-angeles/show/wicked): Thu 12/5 (2:50pm, 3:25pm, 6:30pm, 8:20pm, 9:00pm, 10:10pm), Fri 12/6 (11:40am, 3:10pm, 4:25pm, 5:35pm, 6:30pm, 8:15pm, 9:50pm), Sat 12/7 (12:10pm, 3:20pm, 4:30pm, 6:15pm, 7:00pm, 8:20pm, 10:00pm), Sun 12/8 (11:45am, 3:10pm, 4:25pm, 6:30pm), Mon 12/9 (11:45am, 3:10pm, 4:25pm, 6:30pm, 8:15pm, 9:50pm), Tue 12/10 (11:45am, 2:10pm, 3:10pm, 4:25pm, 6:30pm, 8:15pm, 9:50pm), Wed 12/11 (11:50am, 2:10pm, 4:25pm, 6:00pm, 8:15pm, 9:50pm)
+
+    * [Y2k](https://drafthouse.com/los-angeles/show/y2k): Thu 12/5 (7:00pm, 9:00pm), Fri 12/6 (3:00pm, 5:45pm), Sat 12/7 (5:50pm), Sun 12/8 (3:00pm), Mon 12/9 (3:00pm, 5:45pm), Tue 12/10 (3:00pm, 5:45pm), Wed 12/11 (11:30am, 2:15pm, 3:50pm, 5:00pm, 7:45pm, 10:45pm)
+
+    * [You Are Not Me](https://drafthouse.com/los-angeles/show/you-are-not-me): Sun 12/8 (8:15pm), Mon 12/9 (9:20pm), Tue 12/10 (9:20pm), Wed 12/11 (10:25pm)
+
 ### Fri 11/29 7:29pm
 
 * New screenings: 
