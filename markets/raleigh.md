@@ -1,6 +1,23 @@
 # raleigh
 
 ## Movie updates
+### Mon 12/2 6:25pm
+
+* New screenings: 
+    * [A Real Pain](https://drafthouse.com/raleigh/show/a-real-pain): Thu 12/5 (11:45am)
+
+    * [Gladiator Ii](https://drafthouse.com/raleigh/show/gladiator-ii): Thu 12/5 (10:45am, 11:45am, 2:15pm, 3:15pm, 5:45pm, 6:45pm, 10:15pm)
+
+    * [Heretic](https://drafthouse.com/raleigh/show/heretic): Thu 12/5 (10:15am, 1:15pm)
+
+    * [Moana 2](https://drafthouse.com/raleigh/show/moana-2): Thu 12/5 (10:00am, 10:30am, 11:30am, 12:00pm, 12:45pm, 1:30pm, 2:35pm, 3:30pm, 4:30pm, 5:15pm, 6:15pm, 8:00pm, 9:00pm, 10:45pm)
+
+    * [Queer](https://drafthouse.com/raleigh/show/queer): Thu 12/5 (4:15pm, 7:45pm, 9:15pm, 11:00pm)
+
+    * [Red One](https://drafthouse.com/raleigh/show/red-one): Thu 12/5 (11:15am, 2:45pm, 6:15pm, 9:15pm)
+
+    * [Wicked](https://drafthouse.com/raleigh/show/wicked): Thu 12/5 (10:15am, 11:00am, 2:00pm, 2:30pm, 3:00pm, 6:00pm, 7:00pm, 9:45pm, 10:45pm)
+
 ### Mon 12/2 11:32am
 * New movies: It Doesn't Get Any Better Than This, Mind Game, Drop Dead Fred
 
