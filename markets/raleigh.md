@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Mon 12/2 11:32am
+* New movies: It Doesn't Get Any Better Than This, Mind Game, Drop Dead Fred
+
+* New screenings: 
+    * [It Doesnt Get Any Better Than This](https://drafthouse.com/raleigh/show/it-doesnt-get-any-better-than-this): Fri 1/10 (9:45pm)
+
+    * [Mind Game](https://drafthouse.com/raleigh/show/mind-game): Mon 1/13 (6:30pm)
+
+    * [Weird Wednesday Drop Dead Fred](https://drafthouse.com/raleigh/show/weird-wednesday-drop-dead-fred): Wed 1/8 (9:30pm)
+
 ### Fri 11/29 8:32am
 * New movies: Kraven the Hunter
 
