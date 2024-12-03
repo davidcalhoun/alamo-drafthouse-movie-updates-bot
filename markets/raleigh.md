@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 12/3 11:33am
+* New movies: The Lord of the Rings: The War of Rohirrim
+
+* New screenings: 
+    * [The Lord Of The Rings The War Of Rohirrim](https://drafthouse.com/raleigh/show/the-lord-of-the-rings-the-war-of-rohirrim): Thu 12/12 (6:00pm, 9:30pm), Fri 12/13 (11:30am, 2:45pm, 6:00pm, 9:15pm), Sat 12/14 (11:30am, 2:45pm, 6:00pm, 9:15pm), Sun 12/15 (11:30am, 2:45pm, 6:00pm, 9:15pm)
+
 ### Mon 12/2 8:59pm
 
 * New screenings: 
