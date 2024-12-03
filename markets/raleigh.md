@@ -1,6 +1,27 @@
 # raleigh
 
 ## Movie updates
+### Mon 12/2 8:59pm
+
+* New screenings: 
+    * [Flow](https://drafthouse.com/raleigh/show/flow): Sat 12/7 (9:45pm), Mon 12/9 (11:45am, 2:15pm, 5:00pm, 7:45pm, 11:00pm), Tue 12/10 (11:45am, 2:15pm, 5:00pm, 7:45pm, 10:15pm), Wed 12/11 (11:45am, 2:15pm, 5:00pm, 7:45pm, 11:15pm)
+
+    * [Gladiator Ii](https://drafthouse.com/raleigh/show/gladiator-ii): Fri 12/6 (11:00am, 12:15pm, 3:15pm, 6:15pm, 8:00pm, 10:00pm), Sat 12/7 (12:00pm, 3:45pm, 5:15pm, 7:15pm, 8:45pm, 11:00pm), Sun 12/8 (12:00pm, 3:45pm, 7:30pm, 10:00pm, 11:00pm), Mon 12/9 (10:45am, 2:30pm, 4:00pm, 7:30pm, 8:30pm, 9:00pm), Tue 12/10 (10:45am, 12:45pm, 2:30pm, 4:30pm, 6:00pm, 8:00pm, 9:30pm), Wed 12/11 (10:45am, 12:45pm, 2:30pm, 4:30pm, 6:05pm, 8:15pm, 9:45pm)
+
+    * [Heretic](https://drafthouse.com/raleigh/show/heretic): Fri 12/6 (11:30pm), Sat 12/7 (11:15pm), Sun 12/8 (11:15pm), Mon 12/9 (11:30pm), Tue 12/10 (11:15pm), Wed 12/11 (11:15pm)
+
+    * [Klaus](https://drafthouse.com/raleigh/show/klaus): Wed 12/11 (8:00pm)
+
+    * [Moana 2](https://drafthouse.com/raleigh/show/moana-2): Fri 12/6 (10:00am, 11:15am, 12:45pm, 2:00pm, 2:45pm, 3:30pm, 5:00pm, 5:30pm, 6:15pm, 9:00pm), Sat 12/7 (10:00am, 10:45am, 12:45pm, 1:15pm, 3:30pm, 4:00pm, 5:15pm, 6:15pm, 6:45pm, 9:00pm, 9:45pm), Sun 12/8 (10:00am, 10:45am, 11:15am, 12:30pm, 2:00pm, 3:15pm, 5:15pm, 6:00pm, 7:45pm, 9:00pm, 10:30pm), Mon 12/9 (10:45am, 11:15am, 12:30pm, 2:15pm, 3:15pm, 5:15pm, 6:00pm, 9:00pm), Tue 12/10 (11:00am, 12:30pm, 2:15pm, 3:15pm, 5:15pm, 6:15pm, 9:15pm), Wed 12/11 (11:00am, 12:30pm, 2:15pm, 3:15pm, 5:15pm, 9:15pm)
+
+    * [Queer](https://drafthouse.com/raleigh/show/queer): Fri 12/6 (12:00pm, 2:45pm, 3:45pm, 8:15pm), Sat 12/7 (11:30am, 12:30pm, 4:00pm, 8:00pm), Sun 12/8 (10:45am, 12:45pm, 4:00pm, 8:00pm), Mon 12/9 (12:00pm, 12:45pm, 3:30pm, 5:30pm, 6:45pm, 8:45pm, 10:00pm), Tue 12/10 (11:30am, 1:00pm, 3:00pm, 6:45pm, 8:00pm, 8:15pm, 10:00pm), Wed 12/11 (12:00pm, 1:00pm, 3:30pm, 6:45pm, 8:00pm, 10:00pm)
+
+    * [Red One](https://drafthouse.com/raleigh/show/red-one): Fri 12/6 (12:00pm, 3:45pm, 7:15pm, 10:30pm), Sat 12/7 (11:45am, 3:10pm, 6:15pm, 9:15pm), Sun 12/8 (11:45am, 3:10pm, 6:15pm, 9:15pm), Mon 12/9 (11:45am, 3:15pm, 6:45pm, 9:45pm), Tue 12/10 (11:45am, 3:10pm, 6:15pm, 9:15pm), Wed 12/11 (11:45am, 3:00pm, 6:15pm, 9:15pm)
+
+    * [Wicked](https://drafthouse.com/raleigh/show/wicked): Fri 12/6 (10:30am, 11:00am, 11:30am, 2:15pm, 3:15pm, 6:00pm, 7:00pm, 9:45pm, 10:45pm), Sat 12/7 (10:30am, 11:00am, 1:30pm, 2:15pm, 3:00pm, 6:00pm, 7:00pm, 10:00pm, 10:45pm), Sun 12/8 (11:00am, 12:15pm, 1:30pm, 2:15pm, 3:00pm, 6:00pm, 7:00pm, 10:00pm, 10:45pm), Mon 12/9 (11:30am, 12:15pm, 1:45pm, 3:15pm, 4:00pm, 7:00pm, 7:45pm, 10:45pm), Tue 12/10 (11:30am, 12:00pm, 3:15pm, 3:45pm, 4:15pm, 7:00pm, 7:30pm, 10:40pm), Wed 12/11 (11:30am, 12:00pm, 3:15pm, 3:45pm, 4:15pm, 7:00pm, 7:30pm, 10:40pm)
+
+    * [Y2k](https://drafthouse.com/raleigh/show/y2k): Fri 12/6 (10:45am, 1:30pm, 4:00pm), Sat 12/7 (10:45am, 2:45pm), Sun 12/8 (10:30am, 1:00pm, 5:00pm), Mon 12/9 (11:00am, 1:30pm, 4:00pm, 6:30pm, 10:15pm), Tue 12/10 (10:45am, 1:30pm, 4:00pm, 6:30pm), Wed 12/11 (10:45am, 1:30pm, 4:00pm, 6:30pm, 10:15pm)
+
 ### Mon 12/2 6:25pm
 
 * New screenings: 
