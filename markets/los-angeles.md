@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 12/3 8:26am
+* New movies: The Lord of the Rings: The War of Rohirrim
+
+* New screenings: 
+    * [The Lord Of The Rings The War Of Rohirrim](https://drafthouse.com/los-angeles/show/the-lord-of-the-rings-the-war-of-rohirrim): Fri 12/13 (12:10pm, 3:35pm, 7:00pm, 10:25pm), Sat 12/14 (11:15am, 2:40pm), Sun 12/15 (12:10pm, 3:35pm, 7:00pm), Mon 12/16 (12:10pm, 3:35pm, 7:00pm, 10:25pm), Tue 12/17 (12:10pm, 3:35pm, 7:00pm, 10:25pm), Wed 12/18 (12:10pm, 3:35pm, 6:15pm, 10:10pm)
+
 ### Mon 12/2 3:22pm
 * New movies: Queer, Nightbitch, Lake George
 
