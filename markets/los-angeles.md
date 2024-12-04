@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 12/4 7:23am
+* New movies: Terrifier 3
+
+* New screenings: 
+    * [Special Event Terrifier 3 Christmas Event](https://drafthouse.com/los-angeles/show/special-event-terrifier-3-christmas-event): Tue 12/24 (6:00pm)
+
 ### Tue 12/3 8:26am
 * New movies: The Lord of the Rings: The War of Rohirrim
 
