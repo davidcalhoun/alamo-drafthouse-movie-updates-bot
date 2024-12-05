@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 12/5 7:23am
+* New movies: The End
+
+* New screenings: 
+    * [The End](https://drafthouse.com/los-angeles/show/the-end): Thu 12/12 (6:30pm, 10:10pm), Fri 12/13 (11:10am, 2:50pm, 6:30pm, 10:10pm), Sat 12/14 (11:40am, 3:20pm, 7:00pm, 10:40pm), Sun 12/15 (11:10am, 2:50pm, 6:30pm), Mon 12/16 (11:10am, 2:50pm, 6:30pm, 10:10pm), Tue 12/17 (11:10am, 2:50pm, 6:30pm, 10:10pm), Wed 12/18 (11:20am, 3:00pm, 6:45pm, 10:25pm)
+
 ### Wed 12/4 7:23am
 * New movies: Terrifier 3
 
