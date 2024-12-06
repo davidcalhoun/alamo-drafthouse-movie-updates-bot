@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 12/6 5:29am
+* New movies: Babygirl
+
+* New screenings: 
+    * [Babygirl](https://drafthouse.com/los-angeles/show/babygirl): Wed 12/25 (10:30am, 1:35pm, 4:40pm, 7:45pm, 10:45pm), Thu 12/26 (10:30am, 1:35pm, 4:40pm, 7:45pm, 10:45pm), Fri 12/27 (10:30am, 1:35pm, 4:40pm, 7:45pm, 10:45pm), Sat 12/28 (10:30am, 1:35pm, 4:40pm, 7:45pm, 10:45pm), Sun 12/29 (10:30am, 1:35pm, 4:40pm, 7:45pm), Mon 12/30 (10:30am, 1:35pm, 4:40pm, 7:45pm, 10:45pm), Tue 12/31 (10:30am, 1:35pm, 4:40pm, 7:45pm), Wed 1/1 (10:30am, 1:35pm, 4:40pm, 7:45pm)
+
 ### Thu 12/5 7:23am
 * New movies: The End
 
