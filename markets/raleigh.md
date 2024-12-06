@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Thu 12/5 10:05pm
+* New movies: Terrifier 3
+
+* New screenings: 
+    * [Kraven The Hunter](https://drafthouse.com/raleigh/show/kraven-the-hunter): Thu 12/12 (3:45pm, 7:00pm, 10:15pm)
+
+    * [Special Event Terrifier 3 Christmas Event](https://drafthouse.com/raleigh/show/special-event-terrifier-3-christmas-event): Tue 12/24 (6:30pm)
+
 ### Tue 12/3 11:33am
 * New movies: The Lord of the Rings: The War of Rohirrim
 
