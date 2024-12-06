@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 12/6 11:29am
+* New movies: Babygirl
+
+* New screenings: 
+    * [Advance Screening Babygirl](https://drafthouse.com/raleigh/show/advance-screening-babygirl): Wed 12/18 (7:00pm)
+
 ### Fri 12/6 8:32am
 * New movies: Babygirl
 
