@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 12/6 8:25am
+* New movies: Babygirl
+
+* New screenings: 
+    * [Advance Screening Babygirl](https://drafthouse.com/los-angeles/show/advance-screening-babygirl): Wed 12/18 (7:00pm)
+
 ### Fri 12/6 5:29am
 * New movies: Babygirl
 
