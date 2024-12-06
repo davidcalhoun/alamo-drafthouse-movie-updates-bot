@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 12/6 8:32am
+* New movies: Babygirl
+
+* New screenings: 
+    * [Babygirl](https://drafthouse.com/raleigh/show/babygirl): Wed 12/25 (10:30am, 1:30pm, 4:30pm, 7:30pm, 10:30pm), Thu 12/26 (10:30am, 1:30pm, 4:30pm, 7:30pm, 10:30pm), Fri 12/27 (11:15am, 1:30pm, 4:30pm, 7:30pm, 10:30pm), Sat 12/28 (10:30am, 1:30pm, 4:30pm, 7:30pm, 10:30pm), Sun 12/29 (10:30am, 1:30pm, 4:30pm, 7:30pm, 10:30pm), Mon 12/30 (6:30pm, 10:15pm)
+
 ### Thu 12/5 10:05pm
 * New movies: Terrifier 3
 
