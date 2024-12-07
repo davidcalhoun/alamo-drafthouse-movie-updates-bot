@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 12/6 5:43pm
+* New movies: The Legend of Billie Jean
+
+* New screenings: 
+    * [The Legend Of Billie Jean](https://drafthouse.com/los-angeles/show/the-legend-of-billie-jean): Wed 1/15 (7:15pm)
+
 ### Fri 12/6 8:25am
 * New movies: Babygirl
 
