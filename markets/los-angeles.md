@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Sun 12/8 2:18pm
+* New movies: Jaws: The Revenge
+
+* New screenings: 
+    * [Jaws The Revenge](https://drafthouse.com/los-angeles/show/jaws-the-revenge): Sat 12/14 (8:45pm)
+
 ### Sun 12/8 1:19am
 * New movies: Wicked
 
