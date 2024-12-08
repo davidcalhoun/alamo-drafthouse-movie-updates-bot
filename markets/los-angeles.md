@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Sun 12/8 1:19am
+* New movies: Wicked
+
+* New screenings: 
+    * [Special Event Wicked Broadway Belts](https://drafthouse.com/los-angeles/show/special-event-wicked-broadway-belts): Sun 12/15 (3:25pm)
+
 ### Fri 12/6 5:43pm
 * New movies: The Legend of Billie Jean
 
