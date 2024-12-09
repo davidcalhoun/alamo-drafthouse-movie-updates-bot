@@ -1,6 +1,50 @@
 # los-angeles
 
 ## Movie updates
+### Mon 12/9 3:20pm
+* New movies: Elf
+
+* New screenings: 
+    * [Anora](https://drafthouse.com/los-angeles/show/anora): Thu 12/12 (9:10pm), Fri 12/13 (9:10pm), Sat 12/14 (10:40pm), Sun 12/15 (4:30pm), Mon 12/16 (9:15pm), Tue 12/17 (9:50pm), Wed 12/18 (10:20pm)
+
+    * [Batman Returns](https://drafthouse.com/los-angeles/show/batman-returns): Thu 12/12 (4:15pm)
+
+    * [Black Christmas](https://drafthouse.com/los-angeles/show/black-christmas): Mon 12/16 (12:40pm, 10:45pm), Tue 12/17 (4:25pm, 10:15pm), Wed 12/18 (10:05pm)
+
+    * [Blast Of Silence](https://drafthouse.com/los-angeles/show/blast-of-silence): Mon 12/16 (4:15pm, 10:25pm), Tue 12/17 (2:00pm), Wed 12/18 (1:45pm)
+
+    * [Daft Punk Leiji Matsumoto Interstella 5555](https://drafthouse.com/los-angeles/show/daft-punk-leiji-matsumoto-interstella-5555): Thu 12/12 (10:30pm), Fri 12/13 (11:00am, 12:00pm, 2:45pm, 5:30pm, 8:15pm, 10:35pm, 11:00pm), Sat 12/14 (12:50pm, 3:40pm, 8:00pm, 9:50pm, 10:20pm, 10:45pm), Sun 12/15 (12:00pm, 2:45pm, 5:30pm, 8:15pm)
+
+    * [Elf](https://drafthouse.com/los-angeles/show/elf): Tue 12/17 (11:10am), Wed 12/18 (11:00am)
+
+    * [Flow](https://drafthouse.com/los-angeles/show/flow): Thu 12/12 (2:35pm, 5:10pm, 7:45pm), Fri 12/13 (12:00pm, 2:35pm, 5:10pm, 7:45pm), Sat 12/14 (12:00pm, 2:35pm, 5:10pm, 7:45pm), Sun 12/15 (12:00pm, 2:35pm, 5:10pm, 7:45pm), Mon 12/16 (11:35am, 2:10pm, 5:10pm, 6:30pm), Tue 12/17 (12:00pm, 2:35pm, 5:10pm, 7:45pm), Wed 12/18 (11:50am, 2:25pm, 5:00pm, 7:25pm)
+
+    * [Gladiator Ii](https://drafthouse.com/los-angeles/show/gladiator-ii): Thu 12/12 (3:00pm, 6:45pm, 10:15pm), Fri 12/13 (11:15am, 3:00pm, 6:45pm, 10:15pm), Sat 12/14 (11:30am, 3:10pm, 6:50pm, 10:10pm), Sun 12/15 (11:30am, 3:10pm, 6:50pm), Mon 12/16 (11:15am, 3:00pm, 6:40pm, 10:20pm), Tue 12/17 (11:15am, 3:00pm, 6:40pm, 10:15pm), Wed 12/18 (12:40pm, 4:20pm, 8:00pm, 10:00pm)
+
+    * [Kraven The Hunter](https://drafthouse.com/los-angeles/show/kraven-the-hunter): Wed 12/18 (12:30pm, 3:50pm, 7:10pm, 10:30pm)
+
+    * [Laufeys A Night At The Symphony Hollywood Bowl](https://drafthouse.com/los-angeles/show/laufeys-a-night-at-the-symphony-hollywood-bowl): Thu 12/12 (4:00pm)
+
+    * [Moana 2](https://drafthouse.com/los-angeles/show/moana-2): Thu 12/12 (3:40pm, 7:20pm, 10:20pm), Fri 12/13 (12:30pm, 3:40pm, 7:10pm, 10:20pm), Sat 12/14 (12:30pm, 3:50pm, 7:15pm, 10:30pm), Sun 12/15 (12:30pm, 3:45pm, 7:30pm), Mon 12/16 (12:30pm, 3:40pm, 7:10pm, 10:15pm), Tue 12/17 (11:50am, 3:35pm, 7:10pm, 10:20pm), Wed 12/18 (11:45am, 3:10pm, 6:30pm, 9:50pm)
+
+    * [Nightbitch](https://drafthouse.com/los-angeles/show/nightbitch): Thu 12/12 (2:30pm)
+
+    * [Queer](https://drafthouse.com/los-angeles/show/queer): Thu 12/12 (2:50pm, 6:15pm, 9:40pm), Fri 12/13 (11:00am, 2:30pm, 6:00pm, 9:25pm), Sat 12/14 (11:00am, 2:30pm, 6:00pm, 9:25pm), Sun 12/15 (11:00am, 2:30pm, 6:00pm), Mon 12/16 (11:00am, 2:30pm, 6:00pm, 9:25pm), Tue 12/17 (11:00am, 2:30pm, 6:00pm, 9:25pm), Wed 12/18 (11:00am, 2:30pm, 6:00pm, 9:25pm)
+
+    * [Queer Film Theory 101 Querelle](https://drafthouse.com/los-angeles/show/queer-film-theory-101-querelle): Mon 12/16 (10:30pm), Tue 12/17 (9:10pm), Wed 12/18 (9:40pm)
+
+    * [The Conversation](https://drafthouse.com/los-angeles/show/the-conversation): Mon 12/16 (1:10pm), Tue 12/17 (2:15pm, 10:30pm), Wed 12/18 (11:40am)
+
+    * [The Great Gatsby 1974](https://drafthouse.com/los-angeles/show/the-great-gatsby-1974): Mon 12/16 (3:30pm)
+
+    * [The Longest Yard 1974](https://drafthouse.com/los-angeles/show/the-longest-yard-1974): Tue 12/17 (11:00am), Wed 12/18 (4:10pm)
+
+    * [The Lord Of The Rings The War Of Rohirrim](https://drafthouse.com/los-angeles/show/the-lord-of-the-rings-the-war-of-rohirrim): Sat 12/14 (6:25pm, 9:45pm), Wed 12/18 (2:50pm)
+
+    * [Wicked](https://drafthouse.com/los-angeles/show/wicked): Thu 12/12 (2:35pm, 3:30pm, 5:20pm, 6:30pm, 10:10pm), Fri 12/13 (11:45am, 1:20pm, 3:20pm, 5:15pm, 6:30pm, 10:00pm), Sat 12/14 (11:50am, 12:15pm, 3:25pm, 4:10pm, 6:40pm, 10:10pm), Sun 12/15 (11:50am, 12:40pm, 6:40pm, 7:15pm), Mon 12/16 (11:50am, 1:30pm, 3:20pm, 5:25pm, 6:30pm, 10:00pm), Tue 12/17 (11:00am, 11:45am, 2:40pm, 3:15pm, 5:20pm, 6:30pm, 10:00pm), Wed 12/18 (11:15am, 12:00pm, 2:40pm, 3:50pm, 6:00pm, 9:25pm)
+
+    * [Y2k](https://drafthouse.com/los-angeles/show/y2k): Thu 12/12 (2:10pm, 4:50pm, 7:30pm, 10:25pm), Fri 12/13 (11:25am, 2:05pm, 4:45pm, 7:30pm, 10:20pm), Sat 12/14 (11:20am, 2:00pm, 4:45pm, 7:30pm, 10:30pm), Sun 12/15 (11:20am, 2:10pm, 4:50pm, 8:00pm), Mon 12/16 (11:45am, 2:25pm, 4:50pm, 7:45pm, 10:30pm), Tue 12/17 (11:25am, 2:05pm, 4:45pm, 7:30pm, 10:20pm), Wed 12/18 (11:25am, 2:05pm, 4:45pm, 7:40pm, 10:50pm)
+
 ### Mon 12/9 9:18am
 * New movies: A Complete Unknown, A Complete Unknown, A Complete Unknown
 
