@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Mon 12/9 9:18am
+* New movies: A Complete Unknown, A Complete Unknown, A Complete Unknown
+
+* New screenings: 
+    * [A Complete Unknown](https://drafthouse.com/los-angeles/show/a-complete-unknown): Tue 12/24 (3:00pm, 6:30pm), Wed 12/25 (11:30am, 3:00pm, 6:30pm, 10:00pm), Fri 12/27 (11:40am, 3:10pm, 6:45pm, 10:15pm), Sat 12/28 (3:10pm, 6:45pm, 10:15pm), Sun 12/29 (3:10pm, 6:45pm), Mon 12/30 (11:40am, 3:10pm, 6:45pm, 10:15pm), Tue 12/31 (11:40am, 3:10pm, 6:45pm), Wed 1/1 (11:40am, 3:10pm, 6:45pm, 10:15pm)
+
+    * [Brunch Screenings A Complete Unknown Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-a-complete-unknown-brunch): Sat 12/28 (11:40am), Sun 12/29 (11:40am)
+
+    * [Costume Screening A Complete Unknown Sneak Peek Dylan Dress Up Screening](https://drafthouse.com/los-angeles/show/costume-screening-a-complete-unknown-sneak-peek-dylan-dress-up-screening): Mon 12/16 (6:50pm)
+
+    * [The Lord Of The Rings The War Of Rohirrim](https://drafthouse.com/los-angeles/show/the-lord-of-the-rings-the-war-of-rohirrim): Thu 12/12 (3:45pm, 7:10pm, 10:35pm)
+
 ### Sun 12/8 2:18pm
 * New movies: Jaws: The Revenge
 
