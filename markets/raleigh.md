@@ -1,6 +1,37 @@
 # raleigh
 
 ## Movie updates
+### Tue 12/10 10:28am
+
+* New screenings: 
+    * [Daft Punk Leiji Matsumoto Interstella 5555](https://drafthouse.com/raleigh/show/daft-punk-leiji-matsumoto-interstella-5555): Thu 12/12 (8:00pm, 11:00pm), Fri 12/13 (2:15pm, 7:30pm, 9:30pm, 10:30pm), Sat 12/14 (6:45pm, 7:45pm, 9:30pm), Sun 12/15 (2:15pm, 6:45pm, 7:45pm, 9:30pm, 10:30pm)
+
+    * [Elf](https://drafthouse.com/raleigh/show/elf): Thu 12/12 (4:00pm), Fri 12/13 (12:15pm), Sat 12/14 (5:00pm)
+
+    * [Flow](https://drafthouse.com/raleigh/show/flow): Thu 12/12 (1:00pm, 3:30pm, 6:15pm, 9:00pm), Fri 12/13 (1:00pm, 4:00pm, 6:30pm, 9:00pm), Sat 12/14 (3:30pm, 6:20pm), Sun 12/15 (1:15pm, 4:00pm, 6:35pm, 9:15pm)
+
+    * [Gladiator Ii](https://drafthouse.com/raleigh/show/gladiator-ii): Thu 12/12 (11:45am, 1:15pm, 3:15pm, 7:15pm, 10:45pm), Fri 12/13 (11:30am, 3:30pm, 7:15pm, 10:45pm), Sat 12/14 (11:30am, 3:15pm, 7:20pm, 10:50pm), Sun 12/15 (11:30am, 3:20pm, 7:20pm, 10:50pm)
+
+    * [Klaus](https://drafthouse.com/raleigh/show/klaus): Thu 12/12 (5:00pm)
+
+    * [Kraven The Hunter](https://drafthouse.com/raleigh/show/kraven-the-hunter): Sun 12/15 (10:15pm)
+
+    * [Moana 2](https://drafthouse.com/raleigh/show/moana-2): Thu 12/12 (12:30pm, 1:30pm, 3:15pm, 4:30pm, 6:15pm, 9:00pm), Fri 12/13 (12:00pm, 3:15pm, 6:45pm, 9:45pm), Sat 12/14 (12:00pm, 3:00pm, 6:15pm, 9:00pm), Sun 12/15 (12:00pm, 3:00pm, 6:15pm, 9:00pm)
+
+    * [Queer](https://drafthouse.com/raleigh/show/queer): Thu 12/12 (11:45am, 3:30pm, 6:45pm, 10:00pm), Fri 12/13 (12:15pm, 4:15pm, 7:45pm, 11:00pm), Sat 12/14 (12:45pm, 4:00pm, 7:30pm, 10:45pm), Sun 12/15 (12:45pm, 4:00pm, 7:30pm, 10:45pm)
+
+    * [Queer Film Theory 101 Querelle](https://drafthouse.com/raleigh/show/queer-film-theory-101-querelle): Fri 12/13 (3:00pm), Sat 12/14 (10:30pm)
+
+    * [Red One](https://drafthouse.com/raleigh/show/red-one): Thu 12/12 (11:15am, 2:30pm, 6:00pm, 9:15pm), Fri 12/13 (11:15am), Sat 12/14 (1:00pm), Sun 12/15 (11:15am)
+
+    * [The Conversation](https://drafthouse.com/raleigh/show/the-conversation): Fri 12/13 (1:15pm), Sat 12/14 (9:00pm), Sun 12/15 (4:45pm)
+
+    * [The Lord Of The Rings The War Of Rohirrim](https://drafthouse.com/raleigh/show/the-lord-of-the-rings-the-war-of-rohirrim): Fri 12/13 (4:45pm, 8:00pm), Sat 12/14 (4:15pm, 8:00pm), Sun 12/15 (5:00pm, 8:15pm)
+
+    * [Wicked](https://drafthouse.com/raleigh/show/wicked): Thu 12/12 (11:00am, 12:00pm, 2:45pm, 6:45pm, 10:30pm), Fri 12/13 (11:15am, 3:00pm, 6:15pm, 10:00pm), Sat 12/14 (11:15am, 12:15pm, 1:15pm, 2:30pm, 6:30pm, 10:30pm), Sun 12/15 (11:45am, 1:00pm, 3:00pm, 6:30pm, 10:30pm)
+
+    * [Y2k](https://drafthouse.com/raleigh/show/y2k): Thu 12/12 (12:45pm, 3:30pm, 7:15pm, 9:45pm), Fri 12/13 (1:15pm, 4:30pm, 7:30pm, 10:15pm), Sat 12/14 (1:00pm, 4:30pm, 7:15pm, 10:00pm), Sun 12/15 (1:00pm, 4:15pm, 7:15pm, 10:00pm)
+
 ### Tue 12/10 9:26am
 * New movies: Elf
 
