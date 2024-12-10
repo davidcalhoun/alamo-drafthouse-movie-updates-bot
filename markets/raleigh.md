@@ -1,6 +1,34 @@
 # raleigh
 
 ## Movie updates
+### Tue 12/10 9:26am
+* New movies: Elf
+
+* New screenings: 
+    * [Elf](https://drafthouse.com/raleigh/show/elf): Mon 12/16 (3:45pm, 5:50pm)
+
+    * [Flow](https://drafthouse.com/raleigh/show/flow): Mon 12/16 (4:15pm, 7:20pm, 9:45pm), Tue 12/17 (1:30pm, 4:30pm, 7:15pm, 9:45pm), Wed 12/18 (1:30pm, 4:30pm, 7:15pm, 9:45pm)
+
+    * [Gladiator Ii](https://drafthouse.com/raleigh/show/gladiator-ii): Mon 12/16 (3:00pm, 6:20pm, 10:45pm), Tue 12/17 (11:30am, 2:45pm, 6:45pm, 10:15pm), Wed 12/18 (11:30am, 2:45pm, 6:45pm, 10:15pm)
+
+    * [Kraven The Hunter](https://drafthouse.com/raleigh/show/kraven-the-hunter): Mon 12/16 (3:45pm, 7:00pm, 10:15pm), Tue 12/17 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Wed 12/18 (12:15pm, 3:30pm, 5:30pm, 8:45pm, 10:00pm)
+
+    * [Moana 2](https://drafthouse.com/raleigh/show/moana-2): Mon 12/16 (3:00pm, 6:15pm, 9:00pm), Tue 12/17 (11:30am, 3:35pm, 6:15pm, 9:15pm), Wed 12/18 (12:30pm, 3:45pm, 6:30pm, 9:30pm)
+
+    * [Queer](https://drafthouse.com/raleigh/show/queer): Mon 12/16 (4:00pm, 7:30pm, 10:45pm), Tue 12/17 (12:15pm, 3:45pm, 7:00pm, 10:15pm), Wed 12/18 (12:15pm, 3:30pm, 6:45pm, 10:15pm)
+
+    * [Queer Film Theory 101 Querelle](https://drafthouse.com/raleigh/show/queer-film-theory-101-querelle): Mon 12/16 (10:00pm), Wed 12/18 (4:00pm)
+
+    * [Red One](https://drafthouse.com/raleigh/show/red-one): Mon 12/16 (2:45pm), Tue 12/17 (11:45am), Wed 12/18 (11:45am)
+
+    * [The Conversation](https://drafthouse.com/raleigh/show/the-conversation): Mon 12/16 (4:30pm), Tue 12/17 (8:45pm), Wed 12/18 (1:00pm)
+
+    * [The Lord Of The Rings The War Of Rohirrim](https://drafthouse.com/raleigh/show/the-lord-of-the-rings-the-war-of-rohirrim): Mon 12/16 (2:30pm, 6:00pm, 8:30pm, 9:30pm), Tue 12/17 (1:00pm, 2:00pm, 4:15pm, 5:15pm, 7:30pm, 8:30pm, 10:45pm), Wed 12/18 (1:15pm, 2:15pm, 4:30pm, 7:45pm, 11:00pm)
+
+    * [Wicked](https://drafthouse.com/raleigh/show/wicked): Mon 12/16 (2:45pm, 6:45pm, 7:45pm, 9:20pm), Tue 12/17 (12:00pm, 1:00pm, 2:15pm, 3:00pm, 4:45pm, 6:15pm, 10:00pm), Wed 12/18 (1:30pm, 3:00pm, 5:15pm, 6:15pm, 10:00pm)
+
+    * [Y2k](https://drafthouse.com/raleigh/show/y2k): Mon 12/16 (4:30pm, 7:15pm, 10:00pm), Tue 12/17 (1:30pm, 4:40pm, 7:15pm, 10:00pm), Wed 12/18 (1:30pm, 4:45pm, 7:30pm, 10:30pm)
+
 ### Fri 12/6 11:29am
 * New movies: Babygirl
 
