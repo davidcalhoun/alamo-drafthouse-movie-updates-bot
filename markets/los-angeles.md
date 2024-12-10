@@ -1,6 +1,50 @@
 # los-angeles
 
 ## Movie updates
+### Tue 12/10 8:27am
+* New movies: Hot Rod, Popstar: Never Stop Never Stopping, A Clockwork Orange, Are You There God? It's Me, Margaret., Furiosa: A Mad Max Saga, Mirror, Persona 1966, MacGruber, Mad Max: Fury Road, Mind Game, Possession 1981, Death Becomes Her, Seven Samurai, Speed Racer, The Perks of Being a Wallflower, To Kill a Mockingbird, The Lord of the Rings: The Fellowship of the Ring: Extended Edition, The Lord of the Rings: The Return of the King: Extended Edition, The Lord of the Rings: The Two Towers: Extended Edition, To Wong Foo, Thanks for Everything! Julie Newmar
+
+* New screenings: 
+    * [A Clockwork Orange](https://drafthouse.com/los-angeles/show/a-clockwork-orange): Tue 1/7 (7:15pm)
+
+    * [Are You There God Its Me Margaret](https://drafthouse.com/los-angeles/show/are-you-there-god-its-me-margaret): Sat 1/18 (11:25am)
+
+    * [Furiosa A Mad Max Saga](https://drafthouse.com/los-angeles/show/furiosa-a-mad-max-saga): Sat 1/11 (12:30pm)
+
+    * [Guest Selects Mirror](https://drafthouse.com/los-angeles/show/guest-selects-mirror): Sat 1/4 (1:35pm)
+
+    * [Guest Selects Persona 1966](https://drafthouse.com/los-angeles/show/guest-selects-persona-1966): Sat 1/4 (11:00am)
+
+    * [Macgruber](https://drafthouse.com/los-angeles/show/macgruber): Tue 1/28 (7:15pm)
+
+    * [Mad Max Fury Road](https://drafthouse.com/los-angeles/show/mad-max-fury-road): Sun 1/5 (11:45am)
+
+    * [Mind Game](https://drafthouse.com/los-angeles/show/mind-game): Mon 1/13 (7:15pm)
+
+    * [Movie Party Hot Rod](https://drafthouse.com/los-angeles/show/movie-party-hot-rod): Tue 1/14 (7:15pm)
+
+    * [Popstar Never Stop Never Stopping Sing Along Movie Party](https://drafthouse.com/los-angeles/show/popstar-never-stop-never-stopping-sing-along-movie-party): Tue 2/4 (7:15pm)
+
+    * [Possession 1981](https://drafthouse.com/los-angeles/show/possession-1981): Mon 1/6 (7:15pm)
+
+    * [Queer Film Theory 101 Death Becomes Her](https://drafthouse.com/los-angeles/show/queer-film-theory-101-death-becomes-her): Mon 1/20 (7:15pm)
+
+    * [Seven Samurai](https://drafthouse.com/los-angeles/show/seven-samurai): Sun 1/12 (11:40am)
+
+    * [Speed Racer](https://drafthouse.com/los-angeles/show/speed-racer): Fri 1/3 (9:30pm)
+
+    * [The Lord Of The Rings The Fellowship Of The Ring Extended Edition](https://drafthouse.com/los-angeles/show/the-lord-of-the-rings-the-fellowship-of-the-ring-extended-edition): Sun 1/26 (11:10am)
+
+    * [The Lord Of The Rings The Return Of The King Extended Edition](https://drafthouse.com/los-angeles/show/the-lord-of-the-rings-the-return-of-the-king-extended-edition): Sun 2/9 (11:00am)
+
+    * [The Lord Of The Rings The Two Towers Extended Edition 2](https://drafthouse.com/los-angeles/show/the-lord-of-the-rings-the-two-towers-extended-edition-2): Sun 2/2 (11:15am)
+
+    * [The Perks Of Being A Wallflower](https://drafthouse.com/los-angeles/show/the-perks-of-being-a-wallflower): Sun 1/12 (4:20pm)
+
+    * [To Kill A Mockingbird](https://drafthouse.com/los-angeles/show/to-kill-a-mockingbird): Sun 1/26 (3:50pm)
+
+    * [To Wong Foo Thanks For Everything Julie Newmar](https://drafthouse.com/los-angeles/show/to-wong-foo-thanks-for-everything-julie-newmar): Sun 1/19 (12:00pm)
+
 ### Tue 12/10 2:23am
 * New movies: DEADBEAT AT DAWN
 
