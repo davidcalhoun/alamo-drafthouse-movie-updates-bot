@@ -1,6 +1,24 @@
 # raleigh
 
 ## Movie updates
+### Tue 12/10 11:33am
+* New movies: Hot Rod, Persona 1966, Mad Max: Fury Road, Mind Game, Seven Samurai, Speed Racer, The Perks of Being a Wallflower
+
+* New screenings: 
+    * [Guest Selects Persona 1966](https://drafthouse.com/raleigh/show/guest-selects-persona-1966): Sat 1/4 (11:15am)
+
+    * [Mad Max Fury Road](https://drafthouse.com/raleigh/show/mad-max-fury-road): Mon 1/6 (6:30pm)
+
+    * [Mind Game](https://drafthouse.com/raleigh/show/mind-game): Mon 1/13 (6:30pm)
+
+    * [Movie Party Hot Rod](https://drafthouse.com/raleigh/show/movie-party-hot-rod): Tue 1/14 (6:30pm)
+
+    * [Seven Samurai](https://drafthouse.com/raleigh/show/seven-samurai): Sat 1/11 (11:30am)
+
+    * [Speed Racer](https://drafthouse.com/raleigh/show/speed-racer): Sun 1/5 (11:30am)
+
+    * [The Perks Of Being A Wallflower](https://drafthouse.com/raleigh/show/the-perks-of-being-a-wallflower): Sun 1/12 (11:30am)
+
 ### Tue 12/10 10:28am
 
 * New screenings: 
