@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 12/10 2:23am
+* New movies: DEADBEAT AT DAWN
+
+* New screenings: 
+    * [Deadbeat At Dawn2](https://drafthouse.com/los-angeles/show/deadbeat-at-dawn2): Wed 1/8 (7:15pm)
+
 ### Mon 12/9 3:20pm
 * New movies: Elf
 
