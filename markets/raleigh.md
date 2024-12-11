@@ -1,6 +1,20 @@
 # raleigh
 
 ## Movie updates
+### Wed 12/11 5:26pm
+* New movies: Popstar: Never Stop Never Stopping, MacGruber, Disembodied, The Lord of the Rings: The Return of the King: Extended Edition, The Lord of the Rings: The Two Towers: Extended Edition
+
+* New screenings: 
+    * [Macgruber](https://drafthouse.com/raleigh/show/macgruber): Tue 1/28 (6:30pm)
+
+    * [Popstar Never Stop Never Stopping Sing Along Movie Party](https://drafthouse.com/raleigh/show/popstar-never-stop-never-stopping-sing-along-movie-party): Tue 2/4 (6:30pm)
+
+    * [Terror Tuesday Disembodied](https://drafthouse.com/raleigh/show/terror-tuesday-disembodied): Tue 1/28 (9:15pm)
+
+    * [The Lord Of The Rings The Return Of The King Extended Edition](https://drafthouse.com/raleigh/show/the-lord-of-the-rings-the-return-of-the-king-extended-edition): Sun 2/9 (11:30am)
+
+    * [The Lord Of The Rings The Two Towers Extended Edition 2](https://drafthouse.com/raleigh/show/the-lord-of-the-rings-the-two-towers-extended-edition-2): Sun 2/2 (11:30am)
+
 ### Wed 12/11 4:23pm
 * New movies: Are You There God? It's Me, Margaret., Death Becomes Her, An American Werewolf In London, Green Room, The Sacrifice, To Kill a Mockingbird, Dinner in America, Intrepidos Punks, The Lord of the Rings: The Fellowship of the Ring: Extended Edition
 
