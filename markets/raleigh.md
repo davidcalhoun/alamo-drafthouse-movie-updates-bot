@@ -1,6 +1,28 @@
 # raleigh
 
 ## Movie updates
+### Wed 12/11 4:23pm
+* New movies: Are You There God? It's Me, Margaret., Death Becomes Her, An American Werewolf In London, Green Room, The Sacrifice, To Kill a Mockingbird, Dinner in America, Intrepidos Punks, The Lord of the Rings: The Fellowship of the Ring: Extended Edition
+
+* New screenings: 
+    * [Are You There God Its Me Margaret](https://drafthouse.com/raleigh/show/are-you-there-god-its-me-margaret): Sun 1/19 (11:30am)
+
+    * [Queer Film Theory 101 Death Becomes Her](https://drafthouse.com/raleigh/show/queer-film-theory-101-death-becomes-her): Mon 1/20 (6:30pm)
+
+    * [Terror Tuesday An American Werewolf In London](https://drafthouse.com/raleigh/show/terror-tuesday-an-american-werewolf-in-london): Tue 1/21 (9:00pm)
+
+    * [Terror Tuesday Green Room](https://drafthouse.com/raleigh/show/terror-tuesday-green-room): Tue 1/7 (10:00pm)
+
+    * [The Lord Of The Rings The Fellowship Of The Ring Extended Edition](https://drafthouse.com/raleigh/show/the-lord-of-the-rings-the-fellowship-of-the-ring-extended-edition): Sun 1/26 (11:30am)
+
+    * [The Sacrifice](https://drafthouse.com/raleigh/show/the-sacrifice): Wed 1/22 (6:30pm)
+
+    * [To Kill A Mockingbird](https://drafthouse.com/raleigh/show/to-kill-a-mockingbird): Mon 1/27 (6:30pm)
+
+    * [Weird Wednesday Dinner In America](https://drafthouse.com/raleigh/show/weird-wednesday-dinner-in-america): Wed 1/22 (10:00pm)
+
+    * [Weird Wednesday Intrepidos Punks](https://drafthouse.com/raleigh/show/weird-wednesday-intrepidos-punks): Wed 1/15 (9:30pm)
+
 ### Tue 12/10 11:33am
 * New movies: Hot Rod, Persona 1966, Mad Max: Fury Road, Mind Game, Seven Samurai, Speed Racer, The Perks of Being a Wallflower
 
