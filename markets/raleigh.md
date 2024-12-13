@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 12/13 9:25am
+* New movies: The Fire Inside
+
+* New screenings: 
+    * [The Fire Inside](https://drafthouse.com/raleigh/show/the-fire-inside): Tue 12/24 (3:15pm, 6:15pm), Wed 12/25 (10:00am, 12:50pm, 3:45pm, 6:45pm, 9:45pm), Thu 12/26 (10:00am, 12:50pm, 3:45pm, 6:45pm, 9:35pm), Fri 12/27 (10:00am, 12:50pm, 3:45pm, 6:45pm, 9:35pm), Sat 12/28 (10:00am, 12:50pm, 3:45pm, 6:45pm, 9:35pm), Sun 12/29 (10:00am, 12:50pm, 3:45pm, 6:45pm, 9:35pm)
+
 ### Wed 12/11 5:26pm
 * New movies: Popstar: Never Stop Never Stopping, MacGruber, Disembodied, The Lord of the Rings: The Return of the King: Extended Edition, The Lord of the Rings: The Two Towers: Extended Edition
 
