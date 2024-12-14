@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Sat 12/14 3:25pm
+* New movies: Bona
+
+* New screenings: 
+    * [Bona](https://drafthouse.com/raleigh/show/bona): Sat 1/25 (3:30pm)
+
 ### Fri 12/13 9:25am
 * New movies: The Fire Inside
 
