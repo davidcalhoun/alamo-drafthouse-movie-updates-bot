@@ -1,6 +1,31 @@
 # raleigh
 
 ## Movie updates
+### Mon 12/16 5:24pm
+
+* New screenings: 
+    * [Flow](https://drafthouse.com/raleigh/show/flow): Thu 12/19 (12:15pm, 1:15pm), Fri 12/20 (2:30pm), Sat 12/21 (2:30pm), Sun 12/22 (2:30pm), Mon 12/23 (2:30pm)
+
+    * [Gladiator Ii](https://drafthouse.com/raleigh/show/gladiator-ii): Thu 12/19 (11:30am, 3:15pm, 6:45pm, 10:30pm), Fri 12/20 (11:30am, 3:00pm, 6:30pm, 10:15pm), Sat 12/21 (10:30am, 2:15pm, 6:15pm, 9:45pm), Sun 12/22 (10:30am, 2:15pm, 6:15pm, 9:45pm), Mon 12/23 (10:30am, 2:15pm, 6:15pm, 9:45pm), Tue 12/24 (11:15am, 2:45pm)
+
+    * [Kraven The Hunter](https://drafthouse.com/raleigh/show/kraven-the-hunter): Thu 12/19 (1:00pm, 4:15pm, 7:30pm, 10:45pm), Fri 12/20 (11:00am, 3:00pm, 6:15pm, 10:45pm), Sat 12/21 (11:00am, 3:00pm, 6:15pm, 10:45pm), Sun 12/22 (11:00am, 3:00pm, 6:15pm, 10:45pm), Mon 12/23 (11:00am, 3:00pm, 6:15pm, 10:45pm), Tue 12/24 (12:00pm, 2:15pm)
+
+    * [Moana 2](https://drafthouse.com/raleigh/show/moana-2): Thu 12/19 (12:30pm, 3:30pm, 6:15pm, 9:15pm), Fri 12/20 (10:15am, 1:15pm, 4:15pm, 7:30pm, 9:30pm), Sat 12/21 (10:15am, 1:15pm, 4:15pm, 7:30pm, 9:30pm), Sun 12/22 (10:15am, 1:15pm, 4:15pm, 7:30pm, 9:30pm), Mon 12/23 (10:15am, 1:15pm, 4:15pm, 7:30pm, 9:30pm), Tue 12/24 (10:15am, 1:00pm, 3:45pm)
+
+    * [Mufasa The Lion King](https://drafthouse.com/raleigh/show/mufasa-the-lion-king): Thu 12/19 (4:00pm, 7:00pm), Fri 12/20 (1:30pm, 4:30pm, 5:15pm, 7:30pm, 8:15pm, 10:30pm), Sat 12/21 (5:15pm, 5:30pm, 8:15pm, 8:30pm), Sun 12/22 (5:15pm, 5:30pm, 8:15pm, 8:30pm), Mon 12/23 (5:15pm, 5:30pm, 8:15pm, 8:30pm), Tue 12/24 (10:30am, 11:45am)
+
+    * [Queer](https://drafthouse.com/raleigh/show/queer): Thu 12/19 (1:15pm, 2:15pm), Fri 12/20 (10:45am), Sat 12/21 (10:45am), Sun 12/22 (10:45am), Mon 12/23 (10:45am)
+
+    * [Red One](https://drafthouse.com/raleigh/show/red-one): Thu 12/19 (4:00pm)
+
+    * [Sonic The Hedgehog 3](https://drafthouse.com/raleigh/show/sonic-the-hedgehog-3): Thu 12/19 (5:45pm, 8:45pm), Fri 12/20 (12:00pm, 1:15pm, 3:00pm, 4:15pm, 6:00pm, 7:15pm, 9:00pm), Sat 12/21 (12:00pm, 1:15pm, 3:00pm, 4:15pm, 5:00pm, 6:00pm, 7:15pm, 9:00pm, 10:15pm), Sun 12/22 (12:00pm, 1:15pm, 3:00pm, 4:15pm, 6:00pm, 7:15pm, 9:00pm, 10:15pm), Mon 12/23 (11:00am, 1:15pm, 4:15pm, 5:45pm, 7:15pm, 8:30pm, 10:15pm), Tue 12/24 (10:15am, 12:15pm, 1:15pm, 4:15pm)
+
+    * [The Lord Of The Rings The War Of Rohirrim](https://drafthouse.com/raleigh/show/the-lord-of-the-rings-the-war-of-rohirrim): Thu 12/19 (12:30pm, 3:45pm, 7:15pm, 11:00pm), Fri 12/20 (11:45am, 3:45pm, 7:15pm, 10:30pm), Sat 12/21 (11:45am, 3:45pm, 7:15pm, 10:15pm), Sun 12/22 (11:45am, 3:45pm, 7:15pm, 10:15pm), Mon 12/23 (11:45am, 3:45pm, 7:15pm, 10:15pm), Tue 12/24 (11:00am, 2:45pm, 3:30pm)
+
+    * [Wicked](https://drafthouse.com/raleigh/show/wicked): Thu 12/19 (12:00pm, 2:45pm, 6:30pm, 10:15pm), Fri 12/20 (12:00pm, 2:15pm, 6:00pm, 9:45pm), Sat 12/21 (12:00pm, 2:15pm, 6:00pm, 9:45pm), Sun 12/22 (12:00pm, 2:15pm, 6:00pm, 9:45pm), Mon 12/23 (12:00pm, 2:15pm, 6:00pm, 9:45pm), Tue 12/24 (10:45am, 2:30pm)
+
+    * [Y2k](https://drafthouse.com/raleigh/show/y2k): Thu 12/19 (10:00pm), Fri 12/20 (10:00pm), Sat 12/21 (11:15pm), Sun 12/22 (11:15pm), Mon 12/23 (11:15pm)
+
 ### Mon 12/16 1:34pm
 * New movies: Basket Case 2
 
