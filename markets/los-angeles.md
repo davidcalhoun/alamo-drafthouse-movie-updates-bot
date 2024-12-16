@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 12/16 3:20pm
+* New movies: Popstar: Never Stop Never Stopping
+
+
+
 ### Wed 12/11 5:45pm
 
 * New screenings: 
