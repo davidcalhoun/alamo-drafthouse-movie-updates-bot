@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 12/16 1:34pm
+* New movies: Basket Case 2
+
+* New screenings: 
+    * [Terror Tuesday Basket Case 2](https://drafthouse.com/raleigh/show/terror-tuesday-basket-case-2): Tue 1/14 (9:30pm)
+
 ### Sat 12/14 3:25pm
 * New movies: Bona
 
