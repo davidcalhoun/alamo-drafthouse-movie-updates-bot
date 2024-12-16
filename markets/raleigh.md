@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 12/16 6:24pm
+* New movies: Popstar: Never Stop Never Stopping
+
+
+
 ### Mon 12/16 5:24pm
 
 * New screenings: 
