@@ -1,6 +1,48 @@
 # los-angeles
 
 ## Movie updates
+### Mon 12/16 5:44pm
+* New movies: National Lampoon's Christmas Vacation, It's a Wonderful Life, Wicked
+
+* New screenings: 
+    * [Anora](https://drafthouse.com/los-angeles/show/anora): Thu 12/19 (2:30pm, 10:20pm), Fri 12/20 (10:40am, 9:40pm), Sat 12/21 (10:40am, 9:40pm), Sun 12/22 (10:10am), Mon 12/23 (10:40am, 9:40pm), Tue 12/24 (11:30am)
+
+    * [Black Christmas](https://drafthouse.com/los-angeles/show/black-christmas): Thu 12/19 (10:45pm)
+
+    * [Brunch Screenings Its A Wonderful Life Brunch](https://drafthouse.com/los-angeles/show/brunch-screenings-its-a-wonderful-life-brunch): Sat 12/21 (10:15am), Sun 12/22 (10:15am)
+
+    * [Elf](https://drafthouse.com/los-angeles/show/elf): Fri 12/20 (2:10pm), Sat 12/21 (5:10pm), Sun 12/22 (7:40pm), Mon 12/23 (1:25pm)
+
+    * [Eyes Wide Shut](https://drafthouse.com/los-angeles/show/eyes-wide-shut): Fri 12/20 (1:40pm, 9:20pm), Sat 12/21 (5:35pm), Sun 12/22 (1:35pm), Mon 12/23 (8:15pm)
+
+    * [Flow](https://drafthouse.com/los-angeles/show/flow): Thu 12/19 (2:35pm, 5:10pm, 7:45pm), Fri 12/20 (11:25am, 2:00pm, 4:40pm, 7:15pm), Sat 12/21 (11:25am, 2:00pm, 4:40pm, 7:15pm), Sun 12/22 (11:25am, 2:00pm, 4:40pm, 7:15pm), Mon 12/23 (10:25am, 2:00pm, 4:40pm, 7:15pm), Tue 12/24 (10:15am)
+
+    * [Gladiator Ii](https://drafthouse.com/los-angeles/show/gladiator-ii): Thu 12/19 (2:30pm, 6:10pm, 9:50pm), Fri 12/20 (11:10am, 2:50pm, 6:30pm, 10:10pm), Sat 12/21 (11:10am, 2:50pm, 6:30pm, 10:10pm), Sun 12/22 (11:10am, 2:50pm, 6:30pm), Mon 12/23 (11:10am, 2:50pm, 6:30pm, 10:10pm)
+
+    * [Its A Wonderful Life](https://drafthouse.com/los-angeles/show/its-a-wonderful-life): Fri 12/20 (10:20am), Sat 12/21 (9:30pm), Mon 12/23 (4:50pm)
+
+    * [Kraven The Hunter](https://drafthouse.com/los-angeles/show/kraven-the-hunter): Thu 12/19 (4:10pm, 7:30pm, 10:20pm), Fri 12/20 (11:40am, 3:00pm, 6:20pm, 9:50pm), Sat 12/21 (11:40am, 3:00pm, 6:20pm, 9:50pm), Sun 12/22 (11:40am, 3:00pm, 6:20pm), Mon 12/23 (11:40am, 3:00pm, 6:20pm, 9:50pm)
+
+    * [Moana 2](https://drafthouse.com/los-angeles/show/moana-2): Thu 12/19 (3:50pm)
+
+    * [Mufasa The Lion King](https://drafthouse.com/los-angeles/show/mufasa-the-lion-king): Thu 12/19 (2:20pm, 5:30pm, 8:40pm), Fri 12/20 (2:10pm, 5:20pm, 8:00pm, 8:30pm), Sat 12/21 (2:10pm, 5:20pm, 8:30pm), Sun 12/22 (1:40pm, 4:50pm), Mon 12/23 (10:15am, 2:10pm, 5:20pm, 8:30pm, 10:00pm)
+
+    * [National Lampoons Christmas Vacation](https://drafthouse.com/los-angeles/show/national-lampoons-christmas-vacation): Fri 12/20 (11:20am), Sat 12/21 (2:20pm), Sun 12/22 (4:50pm), Mon 12/23 (10:00am)
+
+    * [Queer](https://drafthouse.com/los-angeles/show/queer): Thu 12/19 (3:00pm, 7:00pm, 10:30pm), Fri 12/20 (11:00am, 2:30pm, 6:00pm, 9:25pm), Sat 12/21 (11:00am, 2:30pm, 6:00pm, 9:25pm), Sun 12/22 (11:00am, 2:30pm, 6:00pm), Mon 12/23 (11:00am, 2:30pm, 6:00pm, 10:05pm)
+
+    * [Sonic The Hedgehog 3](https://drafthouse.com/los-angeles/show/sonic-the-hedgehog-3): Thu 12/19 (5:00pm, 6:00pm, 8:00pm, 9:00pm), Fri 12/20 (11:40am, 2:40pm, 5:00pm, 5:45pm), Sat 12/21 (11:40am, 2:40pm, 5:45pm), Sun 12/22 (11:45am, 2:45pm, 5:45pm), Mon 12/23 (11:00am, 11:40am, 2:40pm, 5:45pm, 8:45pm), Tue 12/24 (12:15pm)
+
+    * [Special Event Wicked Broadway Belts](https://drafthouse.com/los-angeles/show/special-event-wicked-broadway-belts): Sat 12/21 (1:35pm)
+
+    * [The Conversation](https://drafthouse.com/los-angeles/show/the-conversation): Thu 12/19 (2:40pm)
+
+    * [The Lord Of The Rings The War Of Rohirrim](https://drafthouse.com/los-angeles/show/the-lord-of-the-rings-the-war-of-rohirrim): Thu 12/19 (3:40pm, 7:10pm, 10:35pm), Fri 12/20 (12:00pm, 3:30pm, 7:00pm, 10:25pm), Sat 12/21 (12:00pm, 3:30pm, 7:00pm, 10:25pm), Sun 12/22 (12:00pm, 3:30pm, 7:00pm), Mon 12/23 (12:10pm, 3:35pm, 7:00pm, 10:25pm)
+
+    * [Wicked](https://drafthouse.com/los-angeles/show/wicked): Thu 12/19 (3:10pm, 5:45pm, 6:30pm, 9:35pm), Fri 12/20 (10:25am, 2:20pm, 5:30pm, 6:10pm, 10:00pm), Sat 12/21 (10:25am, 2:20pm, 6:10pm, 8:00pm, 10:00pm), Sun 12/22 (10:25am, 2:20pm, 5:30pm, 6:10pm), Mon 12/23 (10:25am, 1:00pm, 2:20pm, 6:10pm, 9:30pm), Tue 12/24 (11:45am, 3:15pm, 7:10pm), Wed 12/25 (10:25am, 2:15pm, 6:10pm, 10:00pm)
+
+    * [Y2k](https://drafthouse.com/los-angeles/show/y2k): Thu 12/19 (2:20pm, 11:00pm), Fri 12/20 (8:45pm), Sat 12/21 (8:45pm), Sun 12/22 (8:00pm), Mon 12/23 (10:40pm)
+
 ### Mon 12/16 3:20pm
 * New movies: Popstar: Never Stop Never Stopping
 
