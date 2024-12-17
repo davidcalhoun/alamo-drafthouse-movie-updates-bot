@@ -1,6 +1,46 @@
 # los-angeles
 
 ## Movie updates
+### Mon 12/16 9:20pm
+* New movies: Bona, The Apartment
+
+* New screenings: 
+    * [A Clockwork Orange](https://drafthouse.com/los-angeles/show/a-clockwork-orange): Wed 1/8 (3:45pm)
+
+    * [Bona](https://drafthouse.com/los-angeles/show/bona): Sat 1/25 (4:30pm)
+
+    * [Guest Selects Cries And Whispers](https://drafthouse.com/los-angeles/show/guest-selects-cries-and-whispers): Sat 12/28 (3:00pm)
+
+    * [Guest Selects Mirror](https://drafthouse.com/los-angeles/show/guest-selects-mirror): Sun 1/5 (3:00pm)
+
+    * [Guest Selects Persona 1966](https://drafthouse.com/los-angeles/show/guest-selects-persona-1966): Sat 1/4 (5:45pm)
+
+    * [Mad Max Fury Road](https://drafthouse.com/los-angeles/show/mad-max-fury-road): Mon 1/6 (4:00pm)
+
+    * [Mind Game](https://drafthouse.com/los-angeles/show/mind-game): Sat 1/11 (4:15pm)
+
+    * [Paris Texas](https://drafthouse.com/los-angeles/show/paris-texas): Sun 12/29 (1:45pm)
+
+    * [Phantom Thread](https://drafthouse.com/los-angeles/show/phantom-thread): Wed 1/1 (2:00pm)
+
+    * [Possession 1981](https://drafthouse.com/los-angeles/show/possession-1981): Fri 1/3 (7:15pm)
+
+    * [Queer Film Theory 101 Death Becomes Her](https://drafthouse.com/los-angeles/show/queer-film-theory-101-death-becomes-her): Thu 1/23 (9:35pm)
+
+    * [Seven Samurai](https://drafthouse.com/los-angeles/show/seven-samurai): Fri 1/10 (2:30pm)
+
+    * [The Apartment](https://drafthouse.com/los-angeles/show/the-apartment): Tue 12/31 (5:45pm)
+
+    * [The Lord Of The Rings The Fellowship Of The Ring Extended Edition](https://drafthouse.com/los-angeles/show/the-lord-of-the-rings-the-fellowship-of-the-ring-extended-edition): Fri 1/24 (2:30pm), Mon 1/27 (5:45pm)
+
+    * [The Lord Of The Rings The Return Of The King Extended Edition](https://drafthouse.com/los-angeles/show/the-lord-of-the-rings-the-return-of-the-king-extended-edition): Fri 2/7 (1:45pm)
+
+    * [The Lord Of The Rings The Two Towers Extended Edition 2](https://drafthouse.com/los-angeles/show/the-lord-of-the-rings-the-two-towers-extended-edition-2): Fri 1/31 (2:20pm)
+
+    * [The Sacrifice](https://drafthouse.com/los-angeles/show/the-sacrifice): Thu 1/23 (6:00pm)
+
+    * [When Harry Met Sally](https://drafthouse.com/los-angeles/show/when-harry-met-sally): Tue 12/31 (3:00pm)
+
 ### Mon 12/16 7:02pm
 
 * New screenings: 
