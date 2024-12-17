@@ -1,6 +1,17 @@
 # los-angeles
 
 ## Movie updates
+### Mon 12/16 7:02pm
+
+* New screenings: 
+    * [A Complete Unknown](https://drafthouse.com/los-angeles/show/a-complete-unknown): Thu 12/26 (11:40am, 3:10pm, 6:45pm, 10:15pm)
+
+    * [Mufasa The Lion King](https://drafthouse.com/los-angeles/show/mufasa-the-lion-king): Thu 12/26 (12:10pm, 3:20pm, 6:30pm, 9:40pm)
+
+    * [Nosferatu 2024](https://drafthouse.com/los-angeles/show/nosferatu-2024): Wed 12/25 (12:25pm, 3:50pm, 7:15pm, 10:40pm), Thu 12/26 (12:20pm, 3:45pm, 7:10pm, 10:35pm), Fri 12/27 (12:20pm, 3:45pm, 7:10pm, 10:35pm), Sat 12/28 (12:20pm, 3:45pm, 7:10pm, 10:35pm), Sun 12/29 (12:20pm, 3:45pm, 7:10pm), Mon 12/30 (12:20pm, 3:45pm, 7:10pm, 10:35pm), Tue 12/31 (10:00am, 1:10pm, 4:35pm, 8:00pm), Wed 1/1 (12:20pm, 3:45pm, 7:10pm)
+
+    * [Wicked](https://drafthouse.com/los-angeles/show/wicked): Thu 12/26 (10:25am, 2:20pm, 6:10pm, 10:00pm), Fri 12/27 (10:25am, 2:20pm, 6:10pm, 10:00pm), Sat 12/28 (10:25am, 2:20pm, 6:10pm, 10:00pm), Sun 12/29 (10:25am, 2:20pm, 6:10pm), Mon 12/30 (10:25am, 2:20pm, 6:15pm, 10:00pm), Tue 12/31 (10:25am, 2:20pm, 6:10pm), Wed 1/1 (10:25am, 2:20pm, 6:15pm)
+
 ### Mon 12/16 5:44pm
 * New movies: National Lampoon's Christmas Vacation, It's a Wonderful Life, Wicked
 
