@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 12/17 11:17am
+* New movies: Deadbeat at Dawn
+
+
+
 ### Mon 12/16 10:30pm
 * New movies: Pump Up the Volume
 
