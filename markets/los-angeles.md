@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 12/16 10:30pm
+* New movies: Pump Up the Volume
+
+* New screenings: 
+    * [Pump Up The Volume](https://drafthouse.com/los-angeles/show/pump-up-the-volume): Wed 1/22 (7:15pm)
+
 ### Mon 12/16 9:20pm
 * New movies: Bona, The Apartment
 
