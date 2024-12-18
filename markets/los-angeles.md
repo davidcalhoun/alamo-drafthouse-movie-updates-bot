@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 12/18 8:26am
+* New movies: Night Call
+
+* New screenings: 
+    * [Night Call](https://drafthouse.com/los-angeles/show/night-call): Fri 1/17 (7:15pm, 10:00pm), Sat 1/18 (6:00pm, 8:45pm), Sun 1/19 (5:15pm, 8:00pm)
+
 ### Tue 12/17 10:28pm
 * New movies: The Room Next Door, Citizen Kane
 
