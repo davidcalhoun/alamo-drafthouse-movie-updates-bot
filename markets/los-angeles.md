@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 12/17 10:28pm
+* New movies: The Room Next Door, Citizen Kane
+
+* New screenings: 
+    * [Citizen Kane](https://drafthouse.com/los-angeles/show/citizen-kane): Fri 1/17 (11:30am)
+
+    * [The Room Next Door](https://drafthouse.com/los-angeles/show/the-room-next-door): Thu 1/9 (7:00pm, 10:00pm), Fri 1/10 (12:40pm, 3:35pm, 6:30pm, 9:25pm), Sat 1/11 (12:40pm, 3:35pm, 6:30pm, 9:25pm), Sun 1/12 (11:00am, 1:55pm, 4:50pm, 7:45pm), Mon 1/13 (12:40pm, 3:35pm, 6:30pm, 9:25pm), Tue 1/14 (12:40pm, 3:35pm, 6:30pm, 9:25pm), Wed 1/15 (12:40pm, 3:35pm, 6:30pm, 9:25pm)
+
 ### Tue 12/17 5:41pm
 
 * New screenings: 
