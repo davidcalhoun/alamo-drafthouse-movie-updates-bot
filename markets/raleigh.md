@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 12/18 11:31am
+* New movies: Night Call
+
+* New screenings: 
+    * [Night Call](https://drafthouse.com/raleigh/show/night-call): Fri 1/17 (10:30pm), Sun 1/19 (2:30pm)
+
 ### Mon 12/16 6:24pm
 * New movies: Popstar: Never Stop Never Stopping
 
