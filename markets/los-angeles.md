@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 12/18 3:19pm
+* New movies: September 5
+
+* New screenings: 
+    * [September 5](https://drafthouse.com/los-angeles/show/september-5): Fri 1/3 (12:45pm, 3:30pm, 6:15pm, 9:00pm), Sat 1/4 (12:45pm, 3:30pm, 6:15pm, 9:00pm), Sun 1/5 (12:45pm, 3:30pm, 6:15pm), Mon 1/6 (12:45pm, 3:30pm, 6:15pm, 9:00pm), Tue 1/7 (12:45pm, 3:30pm, 6:15pm, 9:00pm), Wed 1/8 (12:45pm, 3:30pm, 6:15pm, 9:00pm)
+
 ### Wed 12/18 8:26am
 * New movies: Night Call
 
