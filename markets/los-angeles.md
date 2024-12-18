@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 12/17 5:41pm
+
+* New screenings: 
+    * [Sonic The Hedgehog 3](https://drafthouse.com/los-angeles/show/sonic-the-hedgehog-3): Thu 12/26 (10:30am, 1:30pm, 4:30pm, 7:30pm, 10:30pm)
+
 ### Tue 12/17 11:17am
 * New movies: Deadbeat at Dawn
 
