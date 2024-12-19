@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 12/18 7:30pm
+* New movies: Born Innocent: The Redd Kross Story, Dig! XX
+
+* New screenings: 
+    * [Dig Xx](https://drafthouse.com/los-angeles/show/dig-xx): Thu 1/30 (6:00pm)
+
+    * [Live Q A Born Innocent The Redd Kross Story](https://drafthouse.com/los-angeles/show/live-q-a-born-innocent-the-redd-kross-story): Thu 1/9 (7:30pm)
+
 ### Wed 12/18 3:19pm
 * New movies: September 5
 
