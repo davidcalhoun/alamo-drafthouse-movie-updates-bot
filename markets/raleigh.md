@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 12/19 12:25am
+* New movies: Den of Thieves 2: Pantera
+
+* New screenings: 
+    * [Den Of Thieves 2 Pantera](https://drafthouse.com/raleigh/show/den-of-thieves-2-pantera): Thu 1/9 (6:00pm, 9:30pm), Fri 1/10 (11:00am, 2:30pm, 6:00pm, 9:30pm), Sat 1/11 (11:00am, 2:30pm, 6:00pm, 9:30pm), Sun 1/12 (11:00am, 2:30pm, 6:00pm, 9:30pm)
+
 ### Wed 12/18 10:01pm
 * New movies: Dig! XX
 
