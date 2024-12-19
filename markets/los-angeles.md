@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 12/19 10:27am
+* New movies: Wicked
+
+* New screenings: 
+    * [Sing Along Wicked](https://drafthouse.com/los-angeles/show/sing-along-wicked): Wed 12/25 (2:25pm)
+
 ### Wed 12/18 9:19pm
 * New movies: Den of Thieves 2: Pantera
 
