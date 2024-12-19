@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 12/18 10:01pm
+* New movies: Dig! XX
+
+* New screenings: 
+    * [Dig Xx](https://drafthouse.com/raleigh/show/dig-xx): Mon 12/30 (6:30pm)
+
 ### Wed 12/18 11:31am
 * New movies: Night Call
 
