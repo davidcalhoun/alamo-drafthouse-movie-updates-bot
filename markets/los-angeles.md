@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 12/18 9:19pm
+* New movies: Den of Thieves 2: Pantera
+
+* New screenings: 
+    * [Den Of Thieves 2 Pantera](https://drafthouse.com/los-angeles/show/den-of-thieves-2-pantera): Thu 1/9 (6:00pm, 9:35pm), Fri 1/10 (11:35am, 3:10pm, 6:45pm, 10:20pm), Sat 1/11 (11:35am, 3:10pm, 6:45pm, 10:20pm), Sun 1/12 (11:15am, 2:50pm, 6:30pm), Mon 1/13 (11:35am, 3:10pm, 6:45pm, 10:20pm), Tue 1/14 (11:35am, 3:10pm, 6:45pm, 10:20pm), Wed 1/15 (11:35am, 3:10pm, 6:45pm, 10:20pm)
+
 ### Wed 12/18 7:30pm
 * New movies: Born Innocent: The Redd Kross Story, Dig! XX
 
