@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Fri 12/20 3:18pm
+* New movies: All We Imagine As Light, SE7EN
+
+* New screenings: 
+    * [All We Imagine As Light](https://drafthouse.com/los-angeles/show/all-we-imagine-as-light): Fri 1/3 (4:10pm), Sun 1/5 (11:00am), Mon 1/6 (2:45pm)
+
+    * [Live Q A Vhyes](https://drafthouse.com/los-angeles/show/live-q-a-vhyes): Sat 1/25 (10:00pm)
+
+    * [Popstar Never Stop Never Stopping Movie Party](https://drafthouse.com/los-angeles/show/popstar-never-stop-never-stopping-movie-party): Fri 1/31 (7:15pm), Mon 2/3 (7:15pm)
+
+    * [Se7en](https://drafthouse.com/los-angeles/show/se7en): Sat 2/1 (2:25pm)
+
 ### Fri 12/20 6:17am
 * New movies: Hard Truths
 
