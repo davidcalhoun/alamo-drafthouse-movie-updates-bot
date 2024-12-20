@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 12/20 6:21pm
+* New movies: The Brutalist
+
+* New screenings: 
+    * [The Brutalist](https://drafthouse.com/raleigh/show/the-brutalist): Thu 1/9 (7:00pm, 10:00pm), Fri 1/10 (8:30pm, 10:00pm), Sat 1/11 (8:30pm, 10:00pm), Sun 1/12 (8:30pm, 10:00pm)
+
 ### Fri 12/20 3:24pm
 * New movies: A Clockwork Orange, Citizen Kane, SE7EN
 
