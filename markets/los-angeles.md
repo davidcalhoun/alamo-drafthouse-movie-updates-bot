@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 12/20 6:17am
+* New movies: Hard Truths
+
+* New screenings: 
+    * [Hard Truths](https://drafthouse.com/los-angeles/show/hard-truths): Thu 1/9 (5:00pm, 7:45pm, 10:35pm), Fri 1/10 (4:55pm, 7:45pm, 10:35pm), Sat 1/11 (11:20am, 2:10pm, 4:55pm, 7:45pm, 10:35pm), Sun 1/12 (11:35am, 2:25pm, 5:10pm, 8:00pm), Mon 1/13 (11:20am, 2:10pm, 4:55pm, 7:45pm, 10:35pm), Tue 1/14 (11:20am, 2:10pm, 4:55pm, 7:45pm, 10:35pm), Wed 1/15 (11:20am, 2:10pm, 4:55pm, 7:45pm, 10:35pm)
+
 ### Thu 12/19 10:27am
 * New movies: Wicked
 
