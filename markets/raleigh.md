@@ -1,6 +1,20 @@
 # raleigh
 
 ## Movie updates
+### Fri 12/20 3:24pm
+* New movies: A Clockwork Orange, Citizen Kane, SE7EN
+
+* New screenings: 
+    * [A Clockwork Orange](https://drafthouse.com/raleigh/show/a-clockwork-orange): Tue 1/7 (6:30pm)
+
+    * [Citizen Kane](https://drafthouse.com/raleigh/show/citizen-kane): Sat 1/18 (11:30am)
+
+    * [Dig Xx](https://drafthouse.com/raleigh/show/dig-xx): Thu 1/30 (6:30pm)
+
+    * [Queer Film Theory 101 Death Becomes Her](https://drafthouse.com/raleigh/show/queer-film-theory-101-death-becomes-her): Tue 1/21 (6:20pm)
+
+    * [Se7en](https://drafthouse.com/raleigh/show/se7en): Fri 1/31 (9:30pm)
+
 ### Thu 12/19 12:25am
 * New movies: Den of Thieves 2: Pantera
 
