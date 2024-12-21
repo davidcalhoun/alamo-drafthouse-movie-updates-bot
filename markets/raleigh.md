@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Fri 12/20 8:47pm
+
+* New screenings: 
+    * [Carol](https://drafthouse.com/raleigh/show/carol): Sun 12/22 (8:30pm)
+
+    * [Eyes Wide Shut](https://drafthouse.com/raleigh/show/eyes-wide-shut): Sun 12/22 (9:00pm)
+
 ### Fri 12/20 6:21pm
 * New movies: The Brutalist
 
