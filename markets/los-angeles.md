@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Fri 12/20 5:34pm
+* New movies: Nickel Boys
+
+* New screenings: 
+    * [A Clockwork Orange](https://drafthouse.com/los-angeles/show/a-clockwork-orange): Wed 1/8 (6:00pm)
+
+    * [Nickel Boys](https://drafthouse.com/los-angeles/show/nickel-boys): Thu 1/2 (7:00pm), Fri 1/3 (11:30am, 3:00pm, 6:30pm), Sat 1/4 (11:30am, 3:00pm, 6:30pm), Sun 1/5 (12:00pm, 3:30pm, 7:00pm), Mon 1/6 (11:30am, 3:00pm, 6:30pm), Tue 1/7 (11:30am, 3:00pm, 6:30pm), Wed 1/8 (11:30am, 3:00pm, 6:30pm)
+
+    * [Nosferatu 2024](https://drafthouse.com/los-angeles/show/nosferatu-2024): Thu 1/2 (10:30pm), Fri 1/3 (10:00pm), Sat 1/4 (10:00pm), Mon 1/6 (10:00pm), Tue 1/7 (10:00pm), Wed 1/8 (10:00pm)
+
 ### Fri 12/20 3:18pm
 * New movies: All We Imagine As Light, SE7EN
 
