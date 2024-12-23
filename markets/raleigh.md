@@ -1,6 +1,24 @@
 # raleigh
 
 ## Movie updates
+### Mon 12/23 4:20pm
+* New movies: A Complete Unknown
+
+* New screenings: 
+    * [A Complete Unknown](https://drafthouse.com/raleigh/show/a-complete-unknown): Tue 12/24 (2:00pm, 5:30pm, 6:45pm), Wed 12/25 (11:45am, 3:05pm, 6:30pm, 10:15pm)
+
+    * [Gladiator Ii](https://drafthouse.com/raleigh/show/gladiator-ii): Tue 12/24 (6:00pm), Wed 12/25 (11:00am)
+
+    * [Moana 2](https://drafthouse.com/raleigh/show/moana-2): Tue 12/24 (6:30pm), Wed 12/25 (11:15am, 2:05pm, 5:00pm, 7:45pm, 10:30pm)
+
+    * [Mufasa The Lion King](https://drafthouse.com/raleigh/show/mufasa-the-lion-king): Wed 12/25 (5:30pm)
+
+    * [Nosferatu 2024](https://drafthouse.com/raleigh/show/nosferatu-2024): Wed 12/25 (12:45pm, 2:30pm, 3:30pm, 5:45pm, 6:45pm, 9:15pm, 10:15pm)
+
+    * [Sonic The Hedgehog 3](https://drafthouse.com/raleigh/show/sonic-the-hedgehog-3): Tue 12/24 (7:15pm)
+
+    * [Wicked](https://drafthouse.com/raleigh/show/wicked): Tue 12/24 (5:30pm, 6:15pm), Wed 12/25 (11:45am, 4:10pm, 8:00pm, 9:00pm)
+
 ### Mon 12/23 2:17pm
 
 * New screenings: 
