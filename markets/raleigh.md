@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Mon 12/23 1:31pm
+* New movies: Wicked
+
+* New screenings: 
+    * [Seven Samurai](https://drafthouse.com/raleigh/show/seven-samurai): Fri 1/10 (5:30pm)
+
+    * [Sing Along Wicked](https://drafthouse.com/raleigh/show/sing-along-wicked): Wed 12/25 (10:15am), Sun 12/29 (11:15am), Wed 1/1 (12:00pm)
+
 ### Fri 12/20 8:47pm
 
 * New screenings: 
