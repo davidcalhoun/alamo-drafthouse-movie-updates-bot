@@ -1,6 +1,46 @@
 # los-angeles
 
 ## Movie updates
+### Mon 12/23 1:17pm
+* New movies: The Fire Inside
+
+* New screenings: 
+    * [A Complete Unknown](https://drafthouse.com/los-angeles/show/a-complete-unknown): Tue 12/24 (4:10pm, 6:15pm, 7:30pm), Wed 12/25 (10:45am), Thu 12/26 (11:00am, 5:00pm, 8:50pm), Fri 12/27 (5:45pm), Sat 12/28 (10:50am, 8:50pm), Sun 12/29 (10:15am, 5:30pm), Mon 12/30 (5:30pm), Tue 12/31 (5:15pm), Wed 1/1 (5:45pm, 8:50pm)
+
+    * [Anora](https://drafthouse.com/los-angeles/show/anora): Mon 12/30 (9:20pm)
+
+    * [Babygirl](https://drafthouse.com/los-angeles/show/babygirl): Wed 12/25 (1:15pm), Thu 12/26 (2:40pm, 5:45pm), Fri 12/27 (2:40pm, 9:20pm), Sat 12/28 (5:45pm), Sun 12/29 (3:00pm), Mon 12/30 (2:50pm), Tue 12/31 (2:10pm), Wed 1/1 (9:15pm, 10:45pm)
+
+    * [Eyes Wide Shut](https://drafthouse.com/los-angeles/show/eyes-wide-shut): Tue 12/24 (3:30pm, 5:30pm), Wed 12/25 (10:00pm)
+
+    * [Flow](https://drafthouse.com/los-angeles/show/flow): Tue 12/24 (1:25pm, 5:10pm, 6:50pm), Wed 12/25 (9:50am, 4:20pm), Thu 12/26 (10:40am), Fri 12/27 (10:45am), Sat 12/28 (2:25pm), Sun 12/29 (10:45am, 5:00pm), Mon 12/30 (2:40pm), Tue 12/31 (11:15am), Wed 1/1 (2:25pm)
+
+    * [Gladiator Ii](https://drafthouse.com/los-angeles/show/gladiator-ii): Tue 12/24 (11:20am, 3:00pm, 6:40pm), Wed 12/25 (5:15pm), Thu 12/26 (1:15pm), Fri 12/27 (1:20pm), Sat 12/28 (9:20pm), Sun 12/29 (1:15pm), Mon 12/30 (11:00am, 1:50pm), Tue 12/31 (1:50pm), Wed 1/1 (9:20pm)
+
+    * [Kraven The Hunter](https://drafthouse.com/los-angeles/show/kraven-the-hunter): Tue 12/24 (12:00pm, 3:40pm, 7:00pm), Mon 12/30 (10:30am)
+
+    * [Mufasa The Lion King](https://drafthouse.com/los-angeles/show/mufasa-the-lion-king): Tue 12/24 (2:20pm), Wed 1/1 (10:25pm)
+
+    * [Nosferatu 2024](https://drafthouse.com/los-angeles/show/nosferatu-2024): Wed 12/25 (9:45am, 10:35am, 2:00pm, 5:25pm, 6:20pm, 8:50pm, 9:00pm, 9:45pm), Thu 12/26 (11:30am, 11:50am, 3:00pm, 8:30pm, 9:50pm, 10:10pm), Fri 12/27 (11:45am, 3:30pm, 5:00pm, 7:00pm, 8:25pm, 9:15pm, 10:00pm), Sat 12/28 (11:45am, 12:00pm, 3:35pm, 5:00pm, 7:00pm, 8:25pm, 10:00pm), Sun 12/29 (11:25am, 12:00pm, 3:35pm, 5:45pm, 7:00pm, 7:30pm), Mon 12/30 (11:45am, 12:00pm, 3:35pm, 5:15pm, 7:00pm, 8:40pm, 9:00pm, 10:10pm), Tue 12/31 (12:00pm, 2:50pm, 3:35pm, 5:30pm, 7:00pm), Wed 1/1 (10:35am, 11:45am, 12:00pm, 3:35pm, 5:00pm, 5:25pm, 7:00pm, 8:25pm, 9:25pm, 10:00pm, 10:35pm)
+
+    * [Paris Texas](https://drafthouse.com/los-angeles/show/paris-texas): Mon 12/30 (11:10am), Tue 12/31 (11:20am)
+
+    * [Phantom Thread](https://drafthouse.com/los-angeles/show/phantom-thread): Fri 12/27 (12:00pm), Wed 1/1 (11:00am)
+
+    * [Queer](https://drafthouse.com/los-angeles/show/queer): Tue 12/24 (11:15am, 2:45pm)
+
+    * [Sing Along Wicked](https://drafthouse.com/los-angeles/show/sing-along-wicked): Fri 12/27 (10:40am), Sat 12/28 (2:20pm), Sun 12/29 (10:25am), Mon 12/30 (2:20pm), Tue 12/31 (2:15pm)
+
+    * [Sonic The Hedgehog 3](https://drafthouse.com/los-angeles/show/sonic-the-hedgehog-3): Tue 12/24 (10:50am, 7:20pm), Wed 12/25 (9:45am), Wed 1/1 (10:30pm)
+
+    * [The Fire Inside](https://drafthouse.com/los-angeles/show/the-fire-inside): Tue 12/24 (7:50pm), Wed 12/25 (2:15pm, 7:00pm), Thu 12/26 (3:15pm, 6:20pm), Fri 12/27 (3:15pm, 6:20pm), Sat 12/28 (3:15pm, 6:20pm), Sun 12/29 (2:50pm, 6:10pm), Mon 12/30 (3:15pm, 6:20pm), Tue 12/31 (11:50am, 6:20pm), Wed 1/1 (3:15pm, 6:20pm)
+
+    * [The Lord Of The Rings The War Of Rohirrim](https://drafthouse.com/los-angeles/show/the-lord-of-the-rings-the-war-of-rohirrim): Tue 12/24 (10:00am, 1:50pm), Fri 12/27 (10:25pm), Tue 12/31 (10:40am)
+
+    * [When Harry Met Sally](https://drafthouse.com/los-angeles/show/when-harry-met-sally): Wed 1/1 (3:00pm)
+
+    * [Wicked](https://drafthouse.com/los-angeles/show/wicked): Tue 12/24 (10:30am), Wed 1/1 (9:40pm)
+
 ### Fri 12/20 5:34pm
 * New movies: Nickel Boys
 
