@@ -1,6 +1,15 @@
 # raleigh
 
 ## Movie updates
+### Mon 12/23 2:17pm
+
+* New screenings: 
+    * [The Lord Of The Rings The Fellowship Of The Ring Extended Edition](https://drafthouse.com/raleigh/show/the-lord-of-the-rings-the-fellowship-of-the-ring-extended-edition): Sat 1/25 (11:00am)
+
+    * [The Lord Of The Rings The Return Of The King Extended Edition](https://drafthouse.com/raleigh/show/the-lord-of-the-rings-the-return-of-the-king-extended-edition): Sat 2/8 (11:00am)
+
+    * [The Lord Of The Rings The Two Towers Extended Edition 2](https://drafthouse.com/raleigh/show/the-lord-of-the-rings-the-two-towers-extended-edition-2): Sat 2/1 (11:00am)
+
 ### Mon 12/23 1:31pm
 * New movies: Wicked
 
