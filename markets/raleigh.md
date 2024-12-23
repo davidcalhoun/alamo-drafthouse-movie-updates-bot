@@ -1,6 +1,33 @@
 # raleigh
 
 ## Movie updates
+### Mon 12/23 5:22pm
+
+* New screenings: 
+    * [A Complete Unknown](https://drafthouse.com/raleigh/show/a-complete-unknown): Thu 12/26 (11:45am, 3:05pm, 6:30pm, 10:15pm), Fri 12/27 (11:45am, 2:15pm, 5:30pm, 6:15pm, 8:00pm, 10:15pm), Sat 12/28 (11:45am, 3:05pm, 6:30pm, 10:00pm), Sun 12/29 (11:45am, 2:30pm, 3:05pm, 6:30pm, 10:00pm), Mon 12/30 (12:00pm, 2:30pm, 3:15pm, 6:45pm, 10:00pm), Tue 12/31 (11:00am, 2:30pm, 6:00pm), Wed 1/1 (11:15am, 3:15pm, 6:30pm, 9:45pm, 10:15pm)
+
+    * [Babygirl](https://drafthouse.com/raleigh/show/babygirl): Mon 12/30 (12:00pm, 12:30pm, 3:30pm, 10:30pm), Tue 12/31 (12:00pm, 3:15pm, 5:00pm, 8:00pm), Wed 1/1 (12:30pm, 6:45pm, 9:45pm)
+
+    * [Gladiator Ii](https://drafthouse.com/raleigh/show/gladiator-ii): Thu 12/26 (11:00am), Fri 12/27 (11:00am), Sat 12/28 (12:00pm), Sun 12/29 (11:00am), Mon 12/30 (11:00am), Tue 12/31 (10:45am), Wed 1/1 (11:30am)
+
+    * [Kraven The Hunter](https://drafthouse.com/raleigh/show/kraven-the-hunter): Mon 12/30 (9:30pm)
+
+    * [Moana 2](https://drafthouse.com/raleigh/show/moana-2): Thu 12/26 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Fri 12/27 (12:00pm, 3:15pm, 6:00pm, 9:00pm), Sat 12/28 (11:30am, 2:05pm, 5:00pm, 6:10pm, 9:00pm), Sun 12/29 (12:00pm, 2:00pm, 3:15pm, 6:00pm, 9:00pm), Mon 12/30 (11:15am, 2:00pm, 4:45pm, 7:30pm, 9:45pm), Tue 12/31 (11:00am, 1:45pm, 4:30pm, 7:15pm), Wed 1/1 (12:30pm, 3:15pm, 6:15pm, 9:00pm)
+
+    * [Mufasa The Lion King](https://drafthouse.com/raleigh/show/mufasa-the-lion-king): Thu 12/26 (2:00pm), Fri 12/27 (10:30am), Mon 12/30 (10:00am)
+
+    * [Nosferatu 2024](https://drafthouse.com/raleigh/show/nosferatu-2024): Thu 12/26 (12:00pm, 2:30pm, 3:30pm, 5:30pm, 5:45pm, 6:45pm, 9:20pm, 10:20pm), Fri 12/27 (11:30am, 12:15pm, 2:30pm, 2:45pm, 3:45pm, 7:15pm, 9:30pm, 10:30pm), Sat 12/28 (12:30pm, 3:45pm, 6:50pm, 7:20pm, 8:00pm, 10:15pm, 10:35pm, 11:15pm), Sun 12/29 (12:15pm, 3:45pm, 4:45pm, 5:45pm, 7:15pm, 8:15pm, 9:30pm, 10:45pm), Mon 12/30 (12:45pm, 4:15pm, 6:15pm, 7:45pm, 11:00pm), Tue 12/31 (11:45am, 2:15pm, 3:00pm, 5:45pm, 6:15pm, 7:15pm), Wed 1/1 (1:30pm, 2:30pm, 4:45pm, 6:30pm, 7:00pm, 8:00pm, 10:15pm, 11:15pm)
+
+    * [Sing Along Wicked](https://drafthouse.com/raleigh/show/sing-along-wicked): Sat 12/28 (10:30am)
+
+    * [Sonic The Hedgehog 3](https://drafthouse.com/raleigh/show/sonic-the-hedgehog-3): Sat 12/28 (11:00am, 2:00pm, 3:30pm, 4:45pm, 7:45pm, 10:30pm)
+
+    * [The Fire Inside](https://drafthouse.com/raleigh/show/the-fire-inside): Mon 12/30 (10:30am, 1:30pm, 4:30pm, 7:30pm, 10:45pm), Tue 12/31 (12:00pm, 3:15pm, 6:15pm), Wed 1/1 (1:00pm, 4:00pm, 7:15pm, 10:00pm)
+
+    * [The Lord Of The Rings The War Of Rohirrim](https://drafthouse.com/raleigh/show/the-lord-of-the-rings-the-war-of-rohirrim): Mon 12/30 (3:00pm), Wed 1/1 (3:45pm)
+
+    * [Wicked](https://drafthouse.com/raleigh/show/wicked): Thu 12/26 (10:15am, 12:30pm, 4:15pm, 8:00pm, 9:00pm), Fri 12/27 (10:45am, 2:45pm, 6:30pm, 9:15pm), Sat 12/28 (11:00am, 2:30pm, 6:20pm, 10:00pm), Sun 12/29 (10:15am, 3:00pm, 6:45pm, 10:30pm), Mon 12/30 (10:15am, 2:15pm, 6:00pm, 10:10pm), Tue 12/31 (10:15am, 2:00pm, 6:00pm), Wed 1/1 (11:15am, 2:55pm, 6:45pm, 10:30pm)
+
 ### Mon 12/23 4:20pm
 * New movies: A Complete Unknown
 
