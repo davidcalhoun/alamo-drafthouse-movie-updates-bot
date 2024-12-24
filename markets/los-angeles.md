@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Mon 12/23 9:18pm
+* New movies: One of Them Days
+
+* New screenings: 
+    * [One Of Them Days](https://drafthouse.com/los-angeles/show/one-of-them-days): Thu 1/16 (2:00pm, 4:45pm, 7:30pm, 10:20pm), Fri 1/17 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Sat 1/18 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Sun 1/19 (11:00am, 1:50pm, 4:40pm, 7:30pm), Mon 1/20 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Tue 1/21 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Wed 1/22 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm)
+
+    * [Queer Film Theory 101 Death Becomes Her](https://drafthouse.com/los-angeles/show/queer-film-theory-101-death-becomes-her): Mon 1/20 (10:10pm)
+
 ### Mon 12/23 1:17pm
 * New movies: The Fire Inside
 
