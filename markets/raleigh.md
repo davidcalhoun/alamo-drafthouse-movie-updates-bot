@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 12/27 6:21pm
+* New movies: One of Them Days
+
+* New screenings: 
+    * [One Of Them Days](https://drafthouse.com/raleigh/show/one-of-them-days): Thu 1/16 (3:30pm, 6:30pm, 9:30pm), Fri 1/17 (7:30pm, 10:15pm)
+
 ### Mon 12/23 5:22pm
 
 * New screenings: 
