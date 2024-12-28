@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Sat 12/28 9:20am
+
+* New screenings: 
+    * [Sonic The Hedgehog 3](https://drafthouse.com/raleigh/show/sonic-the-hedgehog-3): Mon 12/30 (6:30pm)
+
 ### Fri 12/27 6:21pm
 * New movies: One of Them Days
 
