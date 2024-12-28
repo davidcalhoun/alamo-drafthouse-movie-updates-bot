@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Sat 12/28 3:18pm
+* New movies: Hippo
+
+* New screenings: 
+    * [Live Q A Hippo](https://drafthouse.com/los-angeles/show/live-q-a-hippo): Thu 1/30 (7:15pm)
+
 ### Mon 12/23 9:18pm
 * New movies: One of Them Days
 
