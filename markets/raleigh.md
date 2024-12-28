@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Sat 12/28 4:19pm
+
+* New screenings: 
+    * [Dig Xx](https://drafthouse.com/raleigh/show/dig-xx): Mon 12/30 (6:30pm)
+
 ### Sat 12/28 9:20am
 
 * New screenings: 
