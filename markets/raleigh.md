@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 12/30 3:24pm
+* New movies: All We Imagine As Light
+
+* New screenings: 
+    * [All We Imagine As Light](https://drafthouse.com/raleigh/show/all-we-imagine-as-light): Fri 1/3 (7:30pm), Sat 1/4 (2:00pm), Sun 1/5 (3:00pm)
+
 ### Sat 12/28 4:19pm
 
 * New screenings: 
