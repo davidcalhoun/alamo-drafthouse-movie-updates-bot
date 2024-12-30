@@ -1,6 +1,48 @@
 # raleigh
 
 ## Movie updates
+### Mon 12/30 4:21pm
+* New movies: Paris, Texas
+
+* New screenings: 
+    * [A Clockwork Orange](https://drafthouse.com/raleigh/show/a-clockwork-orange): Fri 1/3 (1:30pm), Sat 1/4 (8:15pm), Wed 1/8 (2:45pm)
+
+    * [A Complete Unknown](https://drafthouse.com/raleigh/show/a-complete-unknown): Thu 1/2 (11:15am, 2:30pm, 6:00pm, 9:30pm), Fri 1/3 (11:30am, 2:45pm, 4:15pm, 6:00pm, 9:30pm), Sat 1/4 (11:30am, 2:45pm, 6:00pm, 9:30pm), Sun 1/5 (12:30pm, 4:00pm, 7:15pm, 10:30pm), Mon 1/6 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Tue 1/7 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Wed 1/8 (12:30pm, 3:45pm, 7:00pm, 10:15pm)
+
+    * [All We Imagine As Light](https://drafthouse.com/raleigh/show/all-we-imagine-as-light): Mon 1/6 (6:00pm), Tue 1/7 (2:45pm), Wed 1/8 (6:00pm)
+
+    * [Babygirl](https://drafthouse.com/raleigh/show/babygirl): Thu 1/2 (1:00pm, 4:00pm, 7:45pm, 10:00pm), Fri 1/3 (1:15pm, 4:45pm, 7:45pm, 11:00pm), Sat 1/4 (12:45pm, 4:00pm, 7:15pm, 10:15pm), Sun 1/5 (12:45pm, 4:00pm, 7:15pm, 10:15pm), Mon 1/6 (1:15pm, 4:25pm, 7:15pm, 10:15pm), Tue 1/7 (1:15pm, 4:25pm, 7:15pm, 10:15pm), Wed 1/8 (1:15pm, 4:25pm, 7:15pm, 10:15pm)
+
+    * [Gladiator Ii](https://drafthouse.com/raleigh/show/gladiator-ii): Thu 1/2 (12:45pm)
+
+    * [Guest Selects Cries And Whispers](https://drafthouse.com/raleigh/show/guest-selects-cries-and-whispers): Thu 1/2 (10:15pm)
+
+    * [Guest Selects Persona 1966](https://drafthouse.com/raleigh/show/guest-selects-persona-1966): Fri 1/3 (10:30pm), Sun 1/5 (6:00pm), Tue 1/7 (10:45pm)
+
+    * [Mad Max Fury Road](https://drafthouse.com/raleigh/show/mad-max-fury-road): Sat 1/4 (5:15pm), Sun 1/5 (8:30pm), Mon 1/6 (10:45pm), Tue 1/7 (11:45am), Wed 1/8 (10:45pm)
+
+    * [Moana 2](https://drafthouse.com/raleigh/show/moana-2): Thu 1/2 (12:30pm, 3:15pm, 6:15pm, 9:15pm), Fri 1/3 (12:45pm, 3:30pm, 6:15pm, 9:15pm), Sat 1/4 (12:15pm, 3:30pm, 6:15pm, 9:15pm), Sun 1/5 (12:30pm, 3:30pm, 6:15pm, 9:15pm), Mon 1/6 (1:30pm, 4:05pm, 6:45pm, 9:30pm), Tue 1/7 (1:30pm, 4:05pm, 6:45pm, 9:30pm), Wed 1/8 (12:15pm, 4:05pm, 6:45pm, 9:30pm)
+
+    * [Mufasa The Lion King](https://drafthouse.com/raleigh/show/mufasa-the-lion-king): Thu 1/2 (11:45am, 2:45pm, 6:00pm, 9:00pm), Fri 1/3 (11:45am, 2:45pm, 6:00pm, 9:00pm), Sat 1/4 (11:30am, 2:45pm, 6:00pm, 9:00pm), Sun 1/5 (11:30am, 2:45pm, 6:00pm, 9:00pm), Mon 1/6 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Tue 1/7 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Wed 1/8 (11:45am, 3:00pm, 6:15pm, 9:15pm)
+
+    * [Nosferatu 2024](https://drafthouse.com/raleigh/show/nosferatu-2024): Thu 1/2 (12:00pm, 12:30pm, 1:00pm, 3:15pm, 3:45pm, 4:15pm, 6:30pm, 7:00pm, 7:30pm, 9:45pm, 10:30pm, 11:00pm), Fri 1/3 (12:00pm, 12:30pm, 1:00pm, 3:15pm, 3:45pm, 4:15pm, 5:30pm, 6:30pm, 7:00pm, 7:30pm, 8:45pm, 9:45pm, 10:15pm, 10:45pm), Sat 1/4 (12:00pm, 12:30pm, 1:00pm, 3:15pm, 3:45pm, 4:15pm, 5:30pm, 6:30pm, 7:00pm, 7:30pm, 8:45pm, 9:45pm, 10:30pm, 11:00pm), Sun 1/5 (12:00pm, 1:00pm, 2:45pm, 3:15pm, 4:15pm, 5:30pm, 6:00pm, 6:30pm, 7:30pm, 8:45pm, 9:15pm, 9:45pm, 10:45pm), Mon 1/6 (11:45am, 1:00pm, 2:00pm, 3:00pm, 4:15pm, 5:15pm, 5:45pm, 7:30pm, 8:30pm, 9:00pm, 9:30pm), Tue 1/7 (11:45am, 1:00pm, 2:00pm, 3:00pm, 4:15pm, 5:15pm, 5:45pm, 7:30pm, 8:30pm, 9:00pm), Wed 1/8 (11:45am, 1:00pm, 2:00pm, 3:00pm, 4:15pm, 5:15pm, 5:45pm, 6:15pm, 7:30pm, 8:30pm, 9:00pm, 10:45pm)
+
+    * [Paris Texas](https://drafthouse.com/raleigh/show/paris-texas): Thu 1/2 (4:15pm)
+
+    * [Phantom Thread](https://drafthouse.com/raleigh/show/phantom-thread): Thu 1/2 (7:00pm)
+
+    * [Sing Along Wicked](https://drafthouse.com/raleigh/show/sing-along-wicked): Sun 1/5 (11:00am)
+
+    * [Sonic The Hedgehog 3](https://drafthouse.com/raleigh/show/sonic-the-hedgehog-3): Thu 1/2 (12:15pm, 3:30pm, 6:30pm, 9:15pm), Fri 1/3 (12:45pm, 3:30pm, 6:30pm, 9:15pm), Sat 1/4 (12:45pm, 3:30pm, 6:30pm, 9:15pm), Sun 1/5 (12:45pm, 3:30pm, 6:30pm, 9:30pm), Mon 1/6 (12:45pm, 3:30pm, 6:30pm, 9:30pm), Tue 1/7 (12:45pm, 3:30pm, 6:30pm, 9:30pm), Wed 1/8 (12:45pm, 3:30pm, 6:30pm, 9:00pm)
+
+    * [Speed Racer](https://drafthouse.com/raleigh/show/speed-racer): Tue 1/7 (5:45pm), Wed 1/8 (11:30am)
+
+    * [The Brutalist](https://drafthouse.com/raleigh/show/the-brutalist): Fri 1/10 (11:00am, 3:45pm), Sat 1/11 (12:00pm, 4:00pm, 5:00pm), Sun 1/12 (11:00am, 3:45pm)
+
+    * [The Fire Inside](https://drafthouse.com/raleigh/show/the-fire-inside): Thu 1/2 (1:15pm, 4:05pm), Fri 1/3 (11:45am, 2:30pm), Sat 1/4 (11:45am, 2:30pm), Sun 1/5 (11:45am, 2:30pm), Mon 1/6 (12:00pm, 2:45pm), Tue 1/7 (12:00pm, 2:45pm), Wed 1/8 (12:00pm, 2:45pm)
+
+    * [Wicked](https://drafthouse.com/raleigh/show/wicked): Thu 1/2 (11:30am, 3:05pm, 6:45pm, 10:30pm), Fri 1/3 (11:15am, 3:00pm, 6:45pm, 10:45pm), Sat 1/4 (11:45am, 3:00pm, 6:45pm, 10:30pm), Sun 1/5 (11:45am, 3:10pm, 6:45pm, 10:30pm), Mon 1/6 (12:00pm, 2:15pm, 3:45pm, 7:45pm, 9:00pm), Tue 1/7 (12:00pm, 3:45pm, 7:45pm, 9:00pm), Wed 1/8 (12:45pm, 3:15pm, 7:00pm, 9:15pm)
+
 ### Mon 12/30 3:24pm
 * New movies: All We Imagine As Light
 
