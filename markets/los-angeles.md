@@ -1,6 +1,49 @@
 # los-angeles
 
 ## Movie updates
+### Mon 12/30 3:18pm
+
+* New screenings: 
+    * [A Clockwork Orange](https://drafthouse.com/los-angeles/show/a-clockwork-orange): Fri 1/3 (6:00pm), Sun 1/5 (5:30pm), Mon 1/6 (5:50pm, 9:20pm), Tue 1/7 (12:30pm)
+
+    * [A Complete Unknown](https://drafthouse.com/los-angeles/show/a-complete-unknown): Thu 1/2 (3:10pm, 6:30pm, 10:00pm), Fri 1/3 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sat 1/4 (12:00pm, 3:30pm, 7:00pm, 10:35pm), Sun 1/5 (12:25pm, 4:10pm, 7:40pm), Mon 1/6 (11:50am, 3:25pm, 7:00pm, 10:30pm), Tue 1/7 (11:50am, 3:25pm, 7:00pm, 10:30pm), Wed 1/8 (11:50am, 3:25pm, 7:00pm, 10:30pm)
+
+    * [All We Imagine As Light](https://drafthouse.com/los-angeles/show/all-we-imagine-as-light): Sat 1/4 (2:35pm), Tue 1/7 (2:30pm), Wed 1/8 (11:40am)
+
+    * [Babygirl](https://drafthouse.com/los-angeles/show/babygirl): Thu 1/2 (4:25pm, 7:35pm, 10:40pm), Fri 1/3 (1:15pm, 4:25pm, 7:35pm, 10:40pm), Sat 1/4 (12:15pm, 4:25pm, 7:30pm, 10:40pm), Sun 1/5 (10:45am, 1:50pm, 4:55pm, 8:00pm), Mon 1/6 (1:15pm, 4:25pm, 7:35pm, 10:40pm), Tue 1/7 (1:15pm, 4:25pm, 7:35pm, 10:40pm), Wed 1/8 (1:15pm, 4:25pm, 7:35pm, 10:40pm)
+
+    * [Flow](https://drafthouse.com/los-angeles/show/flow): Thu 1/2 (2:45pm)
+
+    * [Guest Selects Cries And Whispers](https://drafthouse.com/los-angeles/show/guest-selects-cries-and-whispers): Thu 1/2 (3:00pm, 10:00pm)
+
+    * [Guest Selects Mirror](https://drafthouse.com/los-angeles/show/guest-selects-mirror): Fri 1/3 (1:10pm), Mon 1/6 (1:00pm)
+
+    * [Guest Selects Persona 1966](https://drafthouse.com/los-angeles/show/guest-selects-persona-1966): Sat 1/4 (10:45am, 4:45pm), Tue 1/7 (5:40pm)
+
+    * [Mad Max Fury Road](https://drafthouse.com/los-angeles/show/mad-max-fury-road): Fri 1/3 (10:30pm), Mon 1/6 (10:30pm), Tue 1/7 (11:15am, 10:45pm), Wed 1/8 (2:50pm, 9:45pm)
+
+    * [Mufasa The Lion King](https://drafthouse.com/los-angeles/show/mufasa-the-lion-king): Thu 1/2 (3:25pm, 6:45pm, 9:50pm), Fri 1/3 (12:25pm, 3:35pm, 6:45pm, 9:50pm), Sat 1/4 (1:15pm, 4:30pm, 7:20pm, 10:25pm), Sun 1/5 (12:00pm, 3:10pm, 6:00pm), Mon 1/6 (12:25pm, 3:40pm, 6:45pm, 9:50pm), Tue 1/7 (12:25pm, 3:40pm, 6:45pm, 9:50pm), Wed 1/8 (12:25pm, 3:40pm, 6:45pm, 9:50pm)
+
+    * [Nickel Boys](https://drafthouse.com/los-angeles/show/nickel-boys): Thu 1/2 (8:30pm, 9:35pm), Fri 1/3 (9:35pm), Sat 1/4 (9:35pm), Mon 1/6 (9:35pm), Tue 1/7 (9:35pm), Wed 1/8 (9:35pm)
+
+    * [Nosferatu 2024](https://drafthouse.com/los-angeles/show/nosferatu-2024): Thu 1/2 (2:45pm, 3:35pm, 4:00pm, 5:20pm, 6:10pm, 7:25pm, 8:45pm, 10:30pm, 10:45pm), Fri 1/3 (11:20am, 12:35pm, 2:00pm, 2:45pm, 4:00pm, 5:25pm, 6:10pm, 7:25pm, 8:50pm, 10:00pm, 10:45pm), Sat 1/4 (11:20am, 11:45am, 2:00pm, 2:45pm, 3:15pm, 5:25pm, 6:10pm, 6:45pm, 7:40pm, 8:20pm, 8:50pm, 10:00pm, 10:10pm), Sun 1/5 (11:20am, 12:35pm, 2:00pm, 2:45pm, 4:00pm, 5:30pm, 6:10pm, 7:20pm), Mon 1/6 (11:20am, 12:35pm, 2:00pm, 2:45pm, 4:00pm, 5:25pm, 6:10pm, 7:25pm, 8:50pm, 10:00pm, 10:45pm), Tue 1/7 (11:20am, 12:35pm, 2:00pm, 2:45pm, 4:00pm, 5:25pm, 6:10pm, 7:25pm, 8:50pm, 10:00pm, 10:45pm), Wed 1/8 (11:20am, 12:35pm, 2:00pm, 2:45pm, 4:00pm, 5:25pm, 6:10pm, 7:25pm, 8:50pm, 10:00pm, 10:45pm)
+
+    * [Possession 1981](https://drafthouse.com/los-angeles/show/possession-1981): Fri 1/3 (2:40pm), Sun 1/5 (2:10pm), Mon 1/6 (11:30am), Tue 1/7 (4:00pm), Wed 1/8 (9:30pm)
+
+    * [September 5](https://drafthouse.com/los-angeles/show/september-5): Thu 1/2 (5:00pm, 7:45pm, 10:30pm)
+
+    * [Sing Along Wicked](https://drafthouse.com/los-angeles/show/sing-along-wicked): Sat 1/4 (3:20pm), Sun 1/5 (3:20pm)
+
+    * [Sonic The Hedgehog 3](https://drafthouse.com/los-angeles/show/sonic-the-hedgehog-3): Thu 1/2 (3:00pm, 7:10pm, 10:15pm), Fri 1/3 (12:15pm, 3:00pm, 7:10pm, 10:10pm), Sat 1/4 (11:35am, 3:00pm, 7:10pm, 10:10pm), Sun 1/5 (12:15pm, 3:45pm, 7:10pm), Mon 1/6 (12:15pm, 3:00pm, 7:10pm, 10:10pm), Tue 1/7 (12:15pm, 3:00pm, 7:10pm, 10:10pm), Wed 1/8 (12:15pm, 3:00pm, 7:10pm, 10:10pm)
+
+    * [Speed Racer](https://drafthouse.com/los-angeles/show/speed-racer): Fri 1/3 (11:15am), Tue 1/7 (8:15pm), Wed 1/8 (12:15pm)
+
+    * [The Fire Inside](https://drafthouse.com/los-angeles/show/the-fire-inside): Thu 1/2 (4:15pm), Fri 1/3 (11:00am), Sat 1/4 (11:00am), Sun 1/5 (11:00am), Mon 1/6 (11:00am), Tue 1/7 (11:00am), Wed 1/8 (11:00am)
+
+    * [When Harry Met Sally](https://drafthouse.com/los-angeles/show/when-harry-met-sally): Thu 1/2 (5:45pm)
+
+    * [Wicked](https://drafthouse.com/los-angeles/show/wicked): Thu 1/2 (3:15pm, 6:00pm, 9:45pm), Fri 1/3 (11:10am, 3:15pm, 6:00pm, 9:45pm), Sat 1/4 (11:10am, 6:00pm, 9:45pm), Sun 1/5 (11:50am, 6:45pm), Mon 1/6 (11:10am, 3:15pm, 6:00pm, 9:45pm), Tue 1/7 (11:10am, 3:15pm, 6:00pm, 9:45pm), Wed 1/8 (11:10am, 3:15pm, 6:00pm, 9:45pm)
+
 ### Sat 12/28 3:18pm
 * New movies: Hippo
 
