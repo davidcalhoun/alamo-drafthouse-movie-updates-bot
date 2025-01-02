@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 1/2 6:17am
+* New movies: Better Man
+
+* New screenings: 
+    * [Better Man](https://drafthouse.com/los-angeles/show/better-man): Thu 1/9 (6:30pm, 9:50pm), Fri 1/10 (12:20pm, 3:40pm, 7:00pm, 10:20pm), Sat 1/11 (12:20pm, 3:40pm, 7:00pm, 10:20pm), Sun 1/12 (12:20pm, 3:40pm, 7:00pm), Mon 1/13 (12:20pm, 3:40pm, 7:00pm, 10:20pm), Tue 1/14 (12:20pm, 3:40pm, 7:00pm, 10:20pm), Wed 1/15 (12:20pm, 3:40pm, 7:00pm, 10:20pm)
+
 ### Mon 12/30 3:18pm
 
 * New screenings: 
