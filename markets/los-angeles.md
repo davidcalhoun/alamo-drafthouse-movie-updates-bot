@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 1/3 8:24am
+* New movies: Birdeater
+
+* New screenings: 
+    * [Birdeater](https://drafthouse.com/los-angeles/show/birdeater): Fri 1/10 (6:20pm), Sat 1/11 (9:30pm), Tue 1/14 (4:10pm)
+
 ### Fri 1/3 12:25am
 
 * New screenings: 
