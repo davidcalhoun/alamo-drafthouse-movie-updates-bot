@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 1/3 9:16am
+* New movies: Grand Theft Hamlet
+
+* New screenings: 
+    * [Grand Theft Hamlet](https://drafthouse.com/los-angeles/show/grand-theft-hamlet): Fri 1/17 (2:40pm), Sat 1/18 (4:30pm), Sun 1/19 (2:35pm)
+
 ### Fri 1/3 8:24am
 * New movies: Birdeater
 
