@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Fri 1/3 12:25am
+
+* New screenings: 
+    * [Pump Up The Volume](https://drafthouse.com/los-angeles/show/pump-up-the-volume): Wed 1/22 (10:10pm)
+
+    * [The Legend Of Billie Jean](https://drafthouse.com/los-angeles/show/the-legend-of-billie-jean): Wed 1/15 (10:10pm)
+
 ### Thu 1/2 6:17am
 * New movies: Better Man
 
