@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 1/3 11:28am
+* New movies: Birdeater
+
+* New screenings: 
+    * [Birdeater](https://drafthouse.com/raleigh/show/birdeater): Sat 1/11 (9:45pm), Mon 1/13 (9:30pm)
+
 ### Mon 12/30 4:21pm
 * New movies: Paris, Texas
 
