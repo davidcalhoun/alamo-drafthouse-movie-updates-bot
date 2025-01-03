@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 1/3 5:22pm
+* New movies: Grand Theft Hamlet
+
+* New screenings: 
+    * [Grand Theft Hamlet](https://drafthouse.com/raleigh/show/grand-theft-hamlet): Sat 1/18 (2:30pm)
+
 ### Fri 1/3 11:28am
 * New movies: Birdeater
 
