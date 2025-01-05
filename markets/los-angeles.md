@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Sat 1/4 6:55pm
+* New movies: Hippo
+
+* New screenings: 
+    * [Hippo](https://drafthouse.com/los-angeles/show/hippo): Fri 1/24 (7:10pm, 10:00pm)
+
 ### Fri 1/3 9:16am
 * New movies: Grand Theft Hamlet
 
