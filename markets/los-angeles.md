@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Sat 1/4 7:27pm
+
+* New screenings: 
+    * [The Lord Of The Rings The Fellowship Of The Ring Extended Edition](https://drafthouse.com/los-angeles/show/the-lord-of-the-rings-the-fellowship-of-the-ring-extended-edition): Mon 1/27 (1:00pm)
+
+    * [The Lord Of The Rings The Two Towers Extended Edition 2](https://drafthouse.com/los-angeles/show/the-lord-of-the-rings-the-two-towers-extended-edition-2): Mon 2/3 (2:20pm)
+
 ### Sat 1/4 6:55pm
 * New movies: Hippo
 
