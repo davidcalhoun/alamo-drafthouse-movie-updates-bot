@@ -1,6 +1,37 @@
 # raleigh
 
 ## Movie updates
+### Mon 1/6 6:22pm
+
+* New screenings: 
+    * [A Complete Unknown](https://drafthouse.com/raleigh/show/a-complete-unknown): Thu 1/9 (3:20pm, 6:45pm, 10:15pm), Fri 1/10 (11:30am, 3:00pm, 6:30pm, 10:15pm), Sat 1/11 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sun 1/12 (11:00am, 2:45pm, 6:30pm, 10:00pm), Mon 1/13 (2:45pm, 6:15pm, 10:00pm), Tue 1/14 (12:15pm, 3:45pm, 7:15pm, 10:45pm), Wed 1/15 (2:45pm, 6:15pm, 10:00pm)
+
+    * [All We Imagine As Light](https://drafthouse.com/raleigh/show/all-we-imagine-as-light): Thu 1/9 (5:00pm), Tue 1/14 (2:00pm), Wed 1/15 (2:00pm)
+
+    * [Babygirl](https://drafthouse.com/raleigh/show/babygirl): Thu 1/9 (4:15pm, 7:30pm, 10:45pm), Fri 1/10 (1:00pm, 4:30pm, 7:45pm, 10:45pm), Sat 1/11 (1:00pm, 4:30pm, 7:45pm, 10:45pm), Sun 1/12 (1:00pm, 4:30pm, 7:45pm, 10:45pm), Mon 1/13 (4:00pm, 7:15pm, 10:15pm), Tue 1/14 (1:30pm, 4:45pm, 7:45pm, 10:45pm), Wed 1/15 (4:00pm, 7:15pm, 10:15pm)
+
+    * [Den Of Thieves 2 Pantera](https://drafthouse.com/raleigh/show/den-of-thieves-2-pantera): Mon 1/13 (3:00pm, 7:00pm, 10:30pm), Tue 1/14 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Wed 1/15 (3:00pm, 7:00pm, 10:30pm)
+
+    * [Mad Max Fury Road](https://drafthouse.com/raleigh/show/mad-max-fury-road): Thu 1/9 (6:30pm)
+
+    * [Mind Game](https://drafthouse.com/raleigh/show/mind-game): Wed 1/15 (6:30pm)
+
+    * [Moana 2](https://drafthouse.com/raleigh/show/moana-2): Thu 1/9 (3:15pm, 6:00pm, 9:00pm), Fri 1/10 (12:00pm, 2:45pm, 6:00pm, 9:00pm), Sat 1/11 (12:45pm, 3:30pm, 6:30pm, 9:00pm), Sun 1/12 (11:30am, 2:45pm, 6:00pm, 9:00pm), Mon 1/13 (3:45pm, 6:30pm, 9:15pm), Tue 1/14 (1:15pm, 4:00pm, 6:35pm, 9:15pm), Wed 1/15 (3:45pm, 6:30pm, 9:15pm)
+
+    * [Mufasa The Lion King](https://drafthouse.com/raleigh/show/mufasa-the-lion-king): Thu 1/9 (3:45pm, 6:45pm, 9:45pm), Fri 1/10 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sat 1/11 (12:15pm, 3:15pm, 6:15pm, 9:30pm), Sun 1/12 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Mon 1/13 (3:00pm, 6:00pm, 9:00pm), Tue 1/14 (12:15pm, 3:15pm, 6:15pm, 9:30pm), Wed 1/15 (3:00pm, 6:00pm, 9:00pm)
+
+    * [Nosferatu 2024](https://drafthouse.com/raleigh/show/nosferatu-2024): Thu 1/9 (2:15pm, 3:30pm, 4:20pm, 7:45pm, 11:00pm), Fri 1/10 (12:30pm, 3:45pm, 7:15pm, 10:45pm), Sat 1/11 (1:00pm, 4:30pm, 7:45pm, 11:00pm), Sun 1/12 (1:00pm, 4:30pm, 7:45pm, 11:00pm), Mon 1/13 (3:45pm, 7:15pm, 10:45pm), Tue 1/14 (1:15pm, 4:30pm, 7:45pm, 11:00pm), Wed 1/15 (3:45pm, 7:15pm, 10:45pm)
+
+    * [Sonic The Hedgehog 3](https://drafthouse.com/raleigh/show/sonic-the-hedgehog-3): Thu 1/9 (3:15pm, 6:15pm, 9:15pm), Fri 1/10 (11:00am, 2:30pm, 6:00pm, 9:00pm), Sat 1/11 (12:30pm, 3:20pm, 6:15pm, 9:15pm), Sun 1/12 (12:30pm, 3:15pm, 6:15pm, 9:15pm), Mon 1/13 (3:15pm, 6:00pm, 9:00pm), Tue 1/14 (1:00pm, 4:00pm, 6:45pm, 9:45pm), Wed 1/15 (3:15pm, 6:00pm, 9:00pm)
+
+    * [Speed Racer](https://drafthouse.com/raleigh/show/speed-racer): Thu 1/9 (2:45pm)
+
+    * [The Brutalist](https://drafthouse.com/raleigh/show/the-brutalist): Thu 1/9 (8:00pm), Fri 1/10 (1:00pm, 5:00pm), Sat 1/11 (11:45am, 4:15pm), Sun 1/12 (12:30pm, 2:30pm, 5:00pm, 7:30pm, 9:35pm), Mon 1/13 (2:15pm, 3:30pm, 4:45pm, 8:00pm, 9:30pm), Tue 1/14 (1:00pm, 2:00pm, 5:00pm, 6:00pm, 9:45pm), Wed 1/15 (2:15pm, 3:30pm, 5:00pm, 8:00pm, 9:30pm)
+
+    * [The Fire Inside](https://drafthouse.com/raleigh/show/the-fire-inside): Thu 1/9 (2:15pm), Fri 1/10 (11:45am), Mon 1/13 (2:00pm)
+
+    * [Wicked](https://drafthouse.com/raleigh/show/wicked): Thu 1/9 (2:45pm, 6:30pm, 10:15pm), Fri 1/10 (12:45pm, 3:00pm, 6:45pm, 10:30pm), Sat 1/11 (11:15am, 3:00pm, 6:45pm, 10:30pm), Sun 1/12 (11:15am, 3:00pm, 6:45pm, 10:30pm), Mon 1/13 (2:30pm, 6:15pm, 10:00pm), Tue 1/14 (12:00pm, 3:45pm, 7:30pm, 10:30pm), Wed 1/15 (2:30pm, 6:15pm, 10:00pm)
+
 ### Mon 1/6 8:29am
 * New movies: Wolf Man 2025
 
