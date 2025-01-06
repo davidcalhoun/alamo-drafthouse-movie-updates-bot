@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 1/6 5:26am
+* New movies: Wolf Man 2025
+
+* New screenings: 
+    * [Wolf Man 2025](https://drafthouse.com/los-angeles/show/wolf-man-2025): Thu 1/16 (3:35pm, 6:30pm, 9:25pm), Fri 1/17 (12:40pm, 3:35pm, 6:30pm, 9:25pm), Sat 1/18 (12:40pm, 3:35pm, 6:30pm, 9:25pm), Sun 1/19 (12:40pm, 3:35pm, 6:30pm), Mon 1/20 (12:40pm, 3:35pm, 6:30pm, 9:25pm), Tue 1/21 (12:40pm, 3:35pm, 6:30pm, 9:25pm)
+
 ### Sat 1/4 7:27pm
 
 * New screenings: 
