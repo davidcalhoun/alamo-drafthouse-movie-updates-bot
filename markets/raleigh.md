@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 1/6 8:29am
+* New movies: Wolf Man 2025
+
+* New screenings: 
+    * [Wolf Man 2025](https://drafthouse.com/raleigh/show/wolf-man-2025): Thu 1/16 (4:00pm, 7:00pm, 10:00pm), Fri 1/17 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sat 1/18 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sun 1/19 (1:00pm, 4:00pm, 7:00pm, 10:00pm)
+
 ### Fri 1/3 5:22pm
 * New movies: Grand Theft Hamlet
 
