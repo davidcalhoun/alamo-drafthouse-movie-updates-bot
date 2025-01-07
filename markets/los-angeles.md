@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 1/7 1:18pm
+* New movies: Flow
+
+* New screenings: 
+    * [Flow](https://drafthouse.com/los-angeles/show/flow): Fri 1/10 (12:00pm), Mon 1/13 (4:40pm), Wed 1/15 (5:40pm)
+
 ### Mon 1/6 6:52pm
 * New movies: The Brutalist, Hot Rod
 
