@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 1/7 8:29am
+* New movies: Dog Man 2025
+
+* New screenings: 
+    * [Dog Man](https://drafthouse.com/raleigh/show/dog-man): Thu 1/30 (3:15pm, 6:15pm, 9:15pm), Fri 1/31 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sat 2/1 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sun 2/2 (12:15pm, 3:15pm, 6:15pm, 9:15pm)
+
 ### Mon 1/6 6:22pm
 
 * New screenings: 
