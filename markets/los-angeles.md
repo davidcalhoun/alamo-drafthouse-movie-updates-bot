@@ -1,6 +1,50 @@
 # los-angeles
 
 ## Movie updates
+### Mon 1/6 6:52pm
+* New movies: The Brutalist, Hot Rod
+
+* New screenings: 
+    * [A Clockwork Orange](https://drafthouse.com/los-angeles/show/a-clockwork-orange): Thu 1/9 (4:30pm)
+
+    * [A Complete Unknown](https://drafthouse.com/los-angeles/show/a-complete-unknown): Thu 1/9 (3:15pm, 6:30pm, 10:00pm), Fri 1/10 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sat 1/11 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sun 1/12 (12:00pm, 3:30pm, 7:00pm), Mon 1/13 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Tue 1/14 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Wed 1/15 (12:00pm, 3:30pm, 7:00pm, 10:30pm)
+
+    * [All We Imagine As Light](https://drafthouse.com/los-angeles/show/all-we-imagine-as-light): Sun 1/12 (11:25am), Mon 1/13 (5:35pm)
+
+    * [Babygirl](https://drafthouse.com/los-angeles/show/babygirl): Thu 1/9 (2:45pm, 6:25pm, 10:45pm), Fri 1/10 (1:00pm, 4:10pm, 7:15pm, 10:20pm), Sat 1/11 (1:00pm, 4:10pm, 7:20pm, 10:25pm), Sun 1/12 (12:00pm, 3:10pm, 6:20pm), Mon 1/13 (12:00pm, 3:10pm, 6:20pm, 9:25pm), Tue 1/14 (12:00pm, 3:10pm, 6:20pm, 9:25pm), Wed 1/15 (12:00pm, 3:10pm, 6:20pm, 9:25pm)
+
+    * [Furiosa A Mad Max Saga](https://drafthouse.com/los-angeles/show/furiosa-a-mad-max-saga): Fri 1/10 (11:00am), Tue 1/14 (10:00pm)
+
+    * [Hard Truths](https://drafthouse.com/los-angeles/show/hard-truths): Fri 1/10 (11:20am, 2:10pm)
+
+    * [Hot Rod](https://drafthouse.com/los-angeles/show/hot-rod): Fri 1/10 (3:45pm), Mon 1/13 (11:50am), Tue 1/14 (11:00am)
+
+    * [It Doesnt Get Any Better Than This](https://drafthouse.com/los-angeles/show/it-doesnt-get-any-better-than-this): Fri 1/10 (10:30pm), Sat 1/11 (11:50am), Mon 1/13 (10:10pm), Wed 1/15 (5:40pm)
+
+    * [Mind Game](https://drafthouse.com/los-angeles/show/mind-game): Sat 1/11 (6:35pm), Sun 1/12 (8:15pm), Tue 1/14 (9:10pm), Wed 1/15 (4:25pm)
+
+    * [Mufasa The Lion King](https://drafthouse.com/los-angeles/show/mufasa-the-lion-king): Thu 1/9 (3:50pm)
+
+    * [Nickel Boys](https://drafthouse.com/los-angeles/show/nickel-boys): Thu 1/9 (4:00pm, 6:45pm, 10:15pm), Fri 1/10 (11:10am, 2:40pm, 6:10pm, 9:40pm), Sat 1/11 (11:10am, 2:40pm, 6:10pm, 9:40pm), Sun 1/12 (11:00am, 2:30pm, 6:00pm), Mon 1/13 (11:10am, 2:40pm, 6:10pm, 9:40pm), Tue 1/14 (11:10am, 2:40pm, 6:10pm, 9:40pm), Wed 1/15 (11:10am, 2:40pm, 6:10pm, 9:40pm)
+
+    * [Nosferatu 2024](https://drafthouse.com/los-angeles/show/nosferatu-2024): Thu 1/9 (2:50pm, 3:45pm, 7:10pm, 10:25pm), Fri 1/10 (11:15am, 2:35pm, 6:00pm, 7:10pm, 9:20pm), Sat 1/11 (11:15am, 2:35pm, 6:00pm, 9:20pm), Sun 1/12 (10:40am, 2:40pm, 6:10pm, 7:15pm), Mon 1/13 (11:15am, 2:35pm, 6:00pm, 9:20pm), Tue 1/14 (11:10am, 2:35pm, 6:00pm, 9:20pm), Wed 1/15 (11:10am, 2:35pm, 6:00pm, 8:25pm, 9:20pm)
+
+    * [Possession 1981](https://drafthouse.com/los-angeles/show/possession-1981): Thu 1/9 (10:30pm)
+
+    * [September 5](https://drafthouse.com/los-angeles/show/september-5): Thu 1/9 (3:15pm, 6:15pm, 10:10pm), Fri 1/10 (11:30am, 2:20pm, 5:10pm, 8:00pm, 10:45pm), Sat 1/11 (11:30am, 2:20pm, 5:10pm, 8:00pm, 10:45pm), Sun 1/12 (11:00am, 1:45pm, 4:35pm, 7:25pm), Mon 1/13 (11:30am, 2:20pm, 5:10pm, 8:00pm, 10:45pm), Tue 1/14 (11:30am, 2:20pm, 5:10pm, 8:00pm, 10:45pm), Wed 1/15 (11:30am, 2:20pm, 5:10pm, 8:00pm, 10:45pm)
+
+    * [Seven Samurai](https://drafthouse.com/los-angeles/show/seven-samurai): Mon 1/13 (8:45pm), Tue 1/14 (4:30pm), Wed 1/15 (1:00pm)
+
+    * [Sonic The Hedgehog 3](https://drafthouse.com/los-angeles/show/sonic-the-hedgehog-3): Thu 1/9 (3:10pm)
+
+    * [Speed Racer](https://drafthouse.com/los-angeles/show/speed-racer): Thu 1/9 (3:00pm)
+
+    * [The Brutalist](https://drafthouse.com/los-angeles/show/the-brutalist): Thu 1/9 (6:00pm, 8:00pm, 9:00pm, 9:30pm), Fri 1/10 (11:00am, 11:30am, 2:45pm, 4:15pm, 7:30pm, 9:00pm), Sat 1/11 (11:00am, 11:40am, 2:45pm, 4:25pm, 7:10pm, 7:30pm, 9:10pm), Sun 1/12 (10:45am, 12:45pm, 2:00pm, 3:30pm, 5:30pm, 6:45pm), Mon 1/13 (11:00am, 11:35am, 12:50pm, 2:45pm, 3:45pm, 7:30pm, 8:30pm), Tue 1/14 (11:00am, 11:30am, 2:45pm, 3:45pm, 7:30pm, 8:30pm), Wed 1/15 (11:00am, 11:40am, 2:45pm, 3:45pm, 7:30pm, 8:30pm)
+
+    * [The Perks Of Being A Wallflower](https://drafthouse.com/los-angeles/show/the-perks-of-being-a-wallflower): Fri 1/10 (11:35am), Sat 1/11 (3:40pm), Mon 1/13 (4:20pm), Tue 1/14 (11:50am, 1:40pm), Wed 1/15 (11:45am)
+
+    * [Wicked](https://drafthouse.com/los-angeles/show/wicked): Thu 1/9 (2:35pm)
+
 ### Mon 1/6 5:26am
 * New movies: Wolf Man 2025
 
