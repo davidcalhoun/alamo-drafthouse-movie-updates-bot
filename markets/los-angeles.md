@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 1/8 9:16am
+* New movies: Companion, Companion
+
+* New screenings: 
+    * [Companion](https://drafthouse.com/los-angeles/show/companion): Thu 1/30 (4:40pm, 7:30pm, 10:20pm), Fri 1/31 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Sat 2/1 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Sun 2/2 (11:00am, 1:50pm, 4:40pm, 7:30pm), Mon 2/3 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Tue 2/4 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Wed 2/5 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm)
+
+    * [Fantastic Fest Presents Companion Advance Screening](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-companion-advance-screening): Tue 1/28 (7:00pm)
+
 ### Tue 1/7 1:18pm
 * New movies: Flow
 
