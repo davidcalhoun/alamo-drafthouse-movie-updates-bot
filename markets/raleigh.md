@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Wed 1/8 11:29am
+* New movies: Companion, Companion
+
+* New screenings: 
+    * [Companion](https://drafthouse.com/raleigh/show/companion): Thu 1/30 (4:00pm, 7:00pm, 10:00pm), Fri 1/31 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sat 2/1 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sun 2/2 (1:00pm, 4:00pm, 7:00pm, 10:00pm)
+
+    * [Fantastic Fest Presents Companion Advance Screening](https://drafthouse.com/raleigh/show/fantastic-fest-presents-companion-advance-screening): Tue 1/28 (7:00pm)
+
 ### Tue 1/7 8:29am
 * New movies: Dog Man 2025
 
