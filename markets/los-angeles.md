@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 1/8 2:18pm
+
+* New screenings: 
+    * [Grand Theft Hamlet](https://drafthouse.com/los-angeles/show/grand-theft-hamlet): Fri 1/17 (10:00pm)
+
 ### Wed 1/8 9:16am
 * New movies: Companion, Companion
 
