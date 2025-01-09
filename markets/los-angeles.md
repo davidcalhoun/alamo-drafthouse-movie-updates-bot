@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 1/9 6:17am
+* New movies: Presence
+
+* New screenings: 
+    * [Presence](https://drafthouse.com/los-angeles/show/presence): Thu 1/23 (7:45pm, 10:20pm), Fri 1/24 (12:00pm, 2:35pm, 5:10pm, 7:45pm, 10:20pm), Sat 1/25 (12:00pm, 2:35pm, 5:10pm, 7:45pm, 10:20pm), Sun 1/26 (12:00pm, 2:35pm, 5:10pm, 7:45pm), Mon 1/27 (12:00pm, 2:35pm, 5:10pm, 7:45pm, 10:20pm)
+
 ### Wed 1/8 2:18pm
 
 * New screenings: 
