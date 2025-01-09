@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 1/9 9:23am
+* New movies: Presence
+
+* New screenings: 
+    * [Presence](https://drafthouse.com/raleigh/show/presence): Thu 1/23 (7:00pm, 9:30pm), Fri 1/24 (1:00pm, 3:30pm, 6:15pm, 9:00pm), Sat 1/25 (6:15pm, 9:00pm), Sun 1/26 (1:00pm, 3:30pm, 6:15pm, 9:00pm)
+
 ### Wed 1/8 11:29am
 * New movies: Companion, Companion
 
