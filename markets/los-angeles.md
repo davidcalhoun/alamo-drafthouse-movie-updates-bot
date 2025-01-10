@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Thu 1/9 5:39pm
+* New movies: Presence
+
+* New screenings: 
+    * [All We Imagine As Light](https://drafthouse.com/los-angeles/show/all-we-imagine-as-light): Sun 1/19 (11:25am), Mon 1/20 (4:00pm)
+
+    * [Dig Xx](https://drafthouse.com/los-angeles/show/dig-xx): Thu 1/30 (9:40pm), Wed 2/5 (6:00pm)
+
+    * [Special Event Presence Dead Talk Screening](https://drafthouse.com/los-angeles/show/special-event-presence-dead-talk-screening): Sat 1/25 (4:00pm)
+
 ### Thu 1/9 6:17am
 * New movies: Presence
 
