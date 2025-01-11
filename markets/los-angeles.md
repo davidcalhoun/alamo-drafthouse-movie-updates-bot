@@ -1,6 +1,15 @@
 # los-angeles
 
 ## Movie updates
+### Fri 1/10 8:22pm
+
+* New screenings: 
+    * [Presence](https://drafthouse.com/los-angeles/show/presence): Tue 1/28 (11:15am, 1:50pm, 4:25pm)
+
+    * [The Lord Of The Rings The Fellowship Of The Ring Extended Edition](https://drafthouse.com/los-angeles/show/the-lord-of-the-rings-the-fellowship-of-the-ring-extended-edition): Sat 1/25 (11:45am), Sun 1/26 (5:45pm), Mon 1/27 (4:00pm), Tue 1/28 (11:10am)
+
+    * [To Kill A Mockingbird](https://drafthouse.com/los-angeles/show/to-kill-a-mockingbird): Tue 1/28 (3:50pm)
+
 ### Thu 1/9 5:39pm
 * New movies: Presence
 
