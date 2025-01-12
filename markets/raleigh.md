@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Sat 1/11 8:58pm
+* New movies: Flight Risk
+
+* New screenings: 
+    * [Flight Risk](https://drafthouse.com/raleigh/show/flight-risk): Thu 1/23 (7:30pm, 10:15pm), Fri 1/24 (1:45pm, 4:45pm, 7:30pm, 10:15pm), Sat 1/25 (12:45pm, 3:45pm, 6:45pm, 9:30pm)
+
 ### Thu 1/9 9:23am
 * New movies: Presence
 
