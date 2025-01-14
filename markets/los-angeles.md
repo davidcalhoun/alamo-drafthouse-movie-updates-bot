@@ -1,6 +1,54 @@
 # los-angeles
 
 ## Movie updates
+### Mon 1/13 5:25pm
+* New movies: The Substance, Anora, The Wild Robot
+
+* New screenings: 
+    * [A Complete Unknown](https://drafthouse.com/los-angeles/show/a-complete-unknown): Fri 1/17 (3:45pm), Sat 1/18 (3:40pm, 7:10pm), Sun 1/19 (3:45pm, 10:00pm), Mon 1/20 (3:45pm), Tue 1/21 (10:00pm), Wed 1/22 (3:45pm)
+
+    * [All We Imagine As Light](https://drafthouse.com/los-angeles/show/all-we-imagine-as-light): Fri 1/17 (5:20pm)
+
+    * [Anora](https://drafthouse.com/los-angeles/show/anora): Fri 1/17 (10:00pm), Mon 1/20 (10:00pm), Tue 1/21 (3:45pm), Wed 1/22 (10:00pm)
+
+    * [Babygirl](https://drafthouse.com/los-angeles/show/babygirl): Thu 1/16 (3:00pm, 6:00pm, 9:10pm), Fri 1/17 (11:45am, 2:50pm, 6:00pm, 9:10pm), Sat 1/18 (11:45am, 2:50pm, 6:00pm, 9:10pm), Sun 1/19 (11:45am, 2:50pm, 6:00pm, 9:10pm), Mon 1/20 (11:45am, 2:50pm, 6:00pm, 9:10pm), Tue 1/21 (11:45am, 2:50pm, 6:00pm, 9:10pm), Wed 1/22 (11:45am, 2:50pm, 6:00pm, 9:10pm)
+
+    * [Den Of Thieves 2 Pantera](https://drafthouse.com/los-angeles/show/den-of-thieves-2-pantera): Thu 1/16 (2:45pm, 6:20pm, 9:55pm), Fri 1/17 (11:25am, 3:00pm, 6:40pm, 10:15pm), Sat 1/18 (11:30am, 3:05pm, 6:40pm, 10:15pm), Sun 1/19 (11:30am, 3:05pm, 6:40pm, 10:15pm), Mon 1/20 (11:25am, 3:00pm, 6:40pm, 10:15pm), Tue 1/21 (11:30am, 3:05pm, 6:40pm, 10:15pm), Wed 1/22 (11:30am, 3:05pm, 6:40pm, 10:15pm)
+
+    * [Flow](https://drafthouse.com/los-angeles/show/flow): Thu 1/16 (3:20pm), Fri 1/17 (11:40am), Sat 1/18 (11:40am), Mon 1/20 (11:40am), Tue 1/21 (11:40am), Wed 1/22 (11:40am)
+
+    * [Grand Theft Hamlet](https://drafthouse.com/los-angeles/show/grand-theft-hamlet): Thu 1/16 (6:10pm, 9:00pm), Fri 1/17 (1:00pm, 7:20pm), Sat 1/18 (1:00pm, 7:20pm, 10:40pm), Sun 1/19 (1:00pm, 7:20pm, 10:45pm), Mon 1/20 (1:00pm, 5:30pm, 7:20pm), Tue 1/21 (7:20pm, 9:00pm), Wed 1/22 (11:10am, 1:00pm, 4:35pm, 7:20pm)
+
+    * [Hard Truths](https://drafthouse.com/los-angeles/show/hard-truths): Thu 1/16 (2:10pm, 4:55pm, 7:45pm, 10:35pm), Fri 1/17 (11:20am, 2:10pm, 4:55pm, 7:45pm, 10:35pm), Sat 1/18 (11:20am, 2:10pm, 4:55pm, 7:45pm, 10:30pm), Sun 1/19 (11:20am, 2:10pm, 4:55pm, 7:45pm, 10:35pm), Mon 1/20 (11:20am, 2:10pm, 4:55pm, 7:45pm, 10:35pm), Tue 1/21 (2:10pm, 4:55pm, 7:45pm, 10:35pm), Wed 1/22 (11:20am, 2:10pm, 4:55pm, 7:45pm, 10:35pm)
+
+    * [Nickel Boys](https://drafthouse.com/los-angeles/show/nickel-boys): Thu 1/16 (2:30pm), Sun 1/19 (3:20pm), Tue 1/21 (12:15pm)
+
+    * [Night Call](https://drafthouse.com/los-angeles/show/night-call): Mon 1/20 (2:45pm), Tue 1/21 (3:00pm), Wed 1/22 (1:50pm)
+
+    * [Nosferatu 2024](https://drafthouse.com/los-angeles/show/nosferatu-2024): Thu 1/16 (3:20pm, 6:45pm, 10:10pm), Fri 1/17 (12:00pm, 3:25pm, 6:50pm, 10:10pm), Sat 1/18 (12:00pm, 3:25pm, 6:50pm, 10:10pm), Sun 1/19 (12:20pm, 3:40pm, 7:00pm, 10:20pm), Mon 1/20 (12:00pm, 3:25pm, 6:50pm, 10:10pm), Tue 1/21 (12:00pm, 3:25pm, 6:50pm, 10:10pm), Wed 1/22 (12:00pm, 3:25pm, 6:50pm, 10:10pm)
+
+    * [One Of Them Days](https://drafthouse.com/los-angeles/show/one-of-them-days): Thu 1/16 (7:00pm, 9:50pm), Sun 1/19 (10:20pm)
+
+    * [Queer Film Theory 101 Death Becomes Her](https://drafthouse.com/los-angeles/show/queer-film-theory-101-death-becomes-her): Tue 1/21 (9:20pm)
+
+    * [September 5](https://drafthouse.com/los-angeles/show/september-5): Sun 1/19 (12:35pm), Tue 1/21 (11:20am)
+
+    * [Seven Samurai](https://drafthouse.com/los-angeles/show/seven-samurai): Thu 1/16 (2:30pm)
+
+    * [The Brutalist](https://drafthouse.com/los-angeles/show/the-brutalist): Thu 1/16 (2:15pm, 3:15pm, 5:00pm, 7:15pm, 8:00pm, 9:00pm), Fri 1/17 (11:15am, 11:40am, 2:15pm, 4:10pm, 7:00pm, 9:00pm), Sat 1/18 (11:15am, 11:45am, 2:15pm, 4:10pm, 7:00pm, 9:00pm), Sun 1/19 (11:20am, 4:10pm, 6:50pm, 9:00pm), Mon 1/20 (11:20am, 2:15pm, 4:10pm, 7:00pm, 8:15pm, 9:00pm), Tue 1/21 (11:20am, 2:15pm, 4:10pm, 7:00pm, 9:00pm), Wed 1/22 (11:20am, 2:15pm, 4:10pm, 7:00pm, 9:00pm)
+
+    * [The Room Next Door](https://drafthouse.com/los-angeles/show/the-room-next-door): Thu 1/16 (2:00pm, 6:00pm, 9:45pm), Fri 1/17 (12:25pm, 3:20pm, 6:15pm, 9:10pm), Sat 1/18 (12:25pm, 3:20pm, 6:15pm, 9:10pm), Sun 1/19 (12:25pm, 3:20pm, 6:15pm, 9:10pm), Mon 1/20 (12:25pm, 3:20pm, 6:15pm, 9:10pm), Tue 1/21 (12:25pm, 3:20pm, 6:15pm, 9:10pm), Wed 1/22 (12:25pm, 3:20pm, 6:15pm, 9:10pm)
+
+    * [The Sacrifice](https://drafthouse.com/los-angeles/show/the-sacrifice): Sun 1/19 (6:00pm), Mon 1/20 (12:20pm), Tue 1/21 (5:45pm), Wed 1/22 (9:20pm)
+
+    * [The Substance](https://drafthouse.com/los-angeles/show/the-substance): Sat 1/18 (10:00pm), Sun 1/19 (9:35pm), Tue 1/21 (11:25am, 5:25pm), Wed 1/22 (5:45pm)
+
+    * [The Wild Robot](https://drafthouse.com/los-angeles/show/the-wild-robot): Sun 1/19 (3:00pm), Mon 1/20 (11:50am), Tue 1/21 (11:35am), Wed 1/22 (11:50am)
+
+    * [To Wong Foo Thanks For Everything Julie Newmar](https://drafthouse.com/los-angeles/show/to-wong-foo-thanks-for-everything-julie-newmar): Tue 1/21 (2:25pm), Wed 1/22 (2:45pm)
+
+    * [Wolf Man 2025](https://drafthouse.com/los-angeles/show/wolf-man-2025): Sun 1/19 (9:25pm), Wed 1/22 (12:40pm, 3:35pm, 6:30pm, 9:25pm)
+
 ### Fri 1/10 8:22pm
 
 * New screenings: 
