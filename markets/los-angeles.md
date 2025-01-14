@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 1/14 1:18pm
+* New movies: Popstar: Never Stop Never Stopping
+
+
+
 ### Mon 1/13 5:25pm
 * New movies: The Substance, Anora, The Wild Robot
 
