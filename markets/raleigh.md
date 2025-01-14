@@ -1,6 +1,38 @@
 # raleigh
 
 ## Movie updates
+### Mon 1/13 8:45pm
+* New movies: Nickel Boys, It Doesn't Get Any Better Than This
+
+* New screenings: 
+    * [A Complete Unknown](https://drafthouse.com/raleigh/show/a-complete-unknown): Thu 1/16 (1:15pm), Fri 1/17 (1:15pm), Sat 1/18 (1:30pm), Sun 1/19 (1:00pm), Mon 1/20 (3:15pm), Tue 1/21 (1:15pm), Wed 1/22 (3:45pm)
+
+    * [Babygirl](https://drafthouse.com/raleigh/show/babygirl): Thu 1/16 (4:30pm, 7:30pm, 10:30pm), Fri 1/17 (4:30pm, 8:00pm, 11:00pm), Sat 1/18 (5:00pm, 8:00pm, 11:00pm), Sun 1/19 (4:30pm, 7:30pm, 10:45pm), Mon 1/20 (6:30pm, 9:30pm), Tue 1/21 (4:30pm, 8:00pm, 11:00pm), Wed 1/22 (7:15pm, 10:15pm)
+
+    * [Den Of Thieves 2 Pantera](https://drafthouse.com/raleigh/show/den-of-thieves-2-pantera): Thu 1/16 (2:30pm, 6:30pm, 10:00pm), Fri 1/17 (12:15pm, 3:45pm, 7:15pm, 10:45pm), Sat 1/18 (12:15pm, 3:45pm, 7:15pm, 10:45pm), Sun 1/19 (11:15am, 2:45pm, 6:15pm, 9:45pm), Mon 1/20 (2:45pm, 6:15pm, 9:45pm), Tue 1/21 (12:15pm, 3:45pm, 7:15pm, 10:45pm), Wed 1/22 (3:00pm, 6:45pm, 10:30pm)
+
+    * [Grand Theft Hamlet](https://drafthouse.com/raleigh/show/grand-theft-hamlet): Thu 1/16 (9:45pm), Fri 1/17 (7:45pm), Sat 1/18 (9:15pm), Sun 1/19 (8:00pm), Tue 1/21 (3:00pm)
+
+    * [It Doesnt Get Any Better Than This](https://drafthouse.com/raleigh/show/it-doesnt-get-any-better-than-this): Mon 1/20 (7:45pm)
+
+    * [Mufasa The Lion King](https://drafthouse.com/raleigh/show/mufasa-the-lion-king): Thu 1/16 (2:30pm, 6:15pm, 9:15pm), Fri 1/17 (11:45am, 2:45pm, 6:00pm, 9:00pm), Sat 1/18 (11:45am, 2:45pm, 6:00pm, 9:00pm), Sun 1/19 (11:45am, 2:45pm, 6:00pm, 9:00pm), Mon 1/20 (2:45pm, 6:15pm, 9:30pm), Tue 1/21 (11:45am, 2:45pm, 6:15pm, 9:15pm), Wed 1/22 (2:45pm, 6:15pm, 9:15pm)
+
+    * [Nickel Boys](https://drafthouse.com/raleigh/show/nickel-boys): Thu 1/16 (7:15pm, 10:45pm), Fri 1/17 (11:30am, 3:00pm, 6:30pm, 10:00pm), Sat 1/18 (11:45am, 3:05pm, 6:30pm, 10:00pm), Sun 1/19 (12:30pm, 3:45pm, 7:15pm, 10:30pm), Mon 1/20 (4:00pm, 7:30pm, 10:45pm), Tue 1/21 (11:40am, 3:00pm, 6:30pm, 10:15pm), Wed 1/22 (2:45pm, 6:15pm, 9:30pm)
+
+    * [Night Call](https://drafthouse.com/raleigh/show/night-call): Mon 1/20 (10:20pm)
+
+    * [Nosferatu 2024](https://drafthouse.com/raleigh/show/nosferatu-2024): Thu 1/16 (3:15pm, 7:15pm, 10:45pm), Fri 1/17 (12:45pm, 4:15pm, 7:30pm, 10:45pm), Sat 1/18 (1:15pm, 4:30pm, 7:45pm, 11:00pm), Sun 1/19 (12:45pm, 4:15pm, 7:30pm, 10:45pm), Mon 1/20 (3:45pm, 7:00pm, 10:30pm), Tue 1/21 (1:00pm, 4:15pm, 7:45pm, 10:30pm), Wed 1/22 (3:30pm, 6:45pm, 10:15pm)
+
+    * [One Of Them Days](https://drafthouse.com/raleigh/show/one-of-them-days): Fri 1/17 (1:30pm, 4:30pm), Sat 1/18 (1:30pm, 5:30pm, 8:30pm, 11:15pm), Sun 1/19 (1:15pm, 4:45pm, 6:30pm, 9:15pm), Mon 1/20 (3:30pm, 6:30pm, 10:00pm), Tue 1/21 (1:30pm, 4:15pm, 7:15pm, 10:00pm), Wed 1/22 (3:30pm, 6:30pm, 9:20pm)
+
+    * [Sonic The Hedgehog 3](https://drafthouse.com/raleigh/show/sonic-the-hedgehog-3): Thu 1/16 (2:15pm, 6:45pm, 9:30pm), Fri 1/17 (12:15pm, 3:45pm, 6:45pm, 9:45pm), Sat 1/18 (12:15pm, 3:45pm, 6:45pm, 9:45pm), Sun 1/19 (12:15pm, 3:45pm, 6:30pm, 9:30pm), Mon 1/20 (4:15pm, 7:15pm, 10:00pm), Tue 1/21 (12:15pm, 4:00pm, 6:45pm, 9:45pm), Wed 1/22 (3:45pm, 7:00pm, 9:45pm)
+
+    * [The Brutalist](https://drafthouse.com/raleigh/show/the-brutalist): Thu 1/16 (1:15pm, 1:45pm, 2:45pm, 5:15pm, 9:45pm), Fri 1/17 (12:00pm, 3:00pm, 4:45pm, 7:15pm, 9:30pm), Sat 1/18 (12:00pm, 4:15pm, 4:45pm, 7:15pm, 9:30pm), Sun 1/19 (12:00pm, 4:45pm, 7:30pm, 9:30pm), Mon 1/20 (2:15pm, 3:15pm, 7:00pm, 9:15pm), Tue 1/21 (12:00pm, 4:45pm, 6:00pm, 9:30pm), Wed 1/22 (4:00pm, 7:45pm, 9:00pm)
+
+    * [Wicked](https://drafthouse.com/raleigh/show/wicked): Thu 1/16 (3:00pm), Fri 1/17 (12:00pm, 3:15pm), Sat 1/18 (12:00pm, 3:15pm), Sun 1/19 (12:00pm, 3:30pm), Mon 1/20 (2:15pm), Tue 1/21 (12:00pm, 3:15pm), Wed 1/22 (2:30pm)
+
+    * [Wolf Man 2025](https://drafthouse.com/raleigh/show/wolf-man-2025): Thu 1/16 (11:00pm), Mon 1/20 (3:00pm, 6:00pm, 9:00pm), Tue 1/21 (12:45pm, 3:30pm, 7:00pm, 10:00pm), Wed 1/22 (3:00pm, 6:00pm, 9:00pm)
+
 ### Sat 1/11 8:58pm
 * New movies: Flight Risk
 
