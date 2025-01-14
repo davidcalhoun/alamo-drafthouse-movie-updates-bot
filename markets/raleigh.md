@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 1/14 4:21pm
+* New movies: Popstar: Never Stop Never Stopping
+
+
+
 ### Mon 1/13 8:45pm
 * New movies: Nickel Boys, It Doesn't Get Any Better Than This
 
