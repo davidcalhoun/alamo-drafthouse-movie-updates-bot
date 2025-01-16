@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 1/15 7:21pm
+* New movies: The Golden Child
+
+* New screenings: 
+    * [The Golden Child](https://drafthouse.com/los-angeles/show/the-golden-child): Fri 2/7 (7:10pm), Mon 2/10 (7:15pm)
+
 ### Tue 1/14 1:18pm
 * New movies: Popstar: Never Stop Never Stopping
 
