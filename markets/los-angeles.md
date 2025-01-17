@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 1/17 6:17am
+* New movies: Captain America: Brave New World
+
+* New screenings: 
+    * [Captain America Brave New World](https://drafthouse.com/los-angeles/show/captain-america-brave-new-world): Thu 2/13 (2:40pm, 6:00pm, 9:20pm), Fri 2/14 (11:50am, 3:10pm, 6:30pm, 9:50pm), Sat 2/15 (11:50am, 3:10pm, 6:30pm, 9:50pm), Sun 2/16 (11:50am, 3:10pm, 6:30pm), Mon 2/17 (11:50am, 3:10pm, 6:30pm, 9:50pm), Tue 2/18 (11:50am, 3:10pm), Wed 2/19 (11:50am, 3:10pm, 6:30pm, 9:50pm)
+
 ### Fri 1/17 12:23am
 * New movies: The Terminator, The Running Man 1987, Total Recall 1990, Friday the 13th Part III 3D
 
