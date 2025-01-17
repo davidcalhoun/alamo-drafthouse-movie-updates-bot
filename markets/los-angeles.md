@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Fri 1/17 12:23am
+* New movies: The Terminator, The Running Man 1987, Total Recall 1990, Friday the 13th Part III 3D
+
+* New screenings: 
+    * [Friday The 13th Part Iii 3d](https://drafthouse.com/los-angeles/show/friday-the-13th-part-iii-3d): Wed 2/5 (6:30pm)
+
+    * [The Running Man 1987](https://drafthouse.com/los-angeles/show/the-running-man-1987): Fri 3/7 (4:15pm), Wed 3/12 (7:20pm)
+
+    * [The Terminator 1984](https://drafthouse.com/los-angeles/show/the-terminator-1984): Fri 2/28 (4:15pm), Wed 3/5 (7:20pm)
+
+    * [Total Recall 1990](https://drafthouse.com/los-angeles/show/total-recall-1990): Fri 3/14 (4:10pm), Wed 3/19 (7:20pm)
+
 ### Wed 1/15 7:21pm
 * New movies: The Golden Child
 
