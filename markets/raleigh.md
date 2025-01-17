@@ -1,6 +1,28 @@
 # raleigh
 
 ## Movie updates
+### Fri 1/17 11:27am
+* New movies: A/V Geeks Present: The Night of Bad Decisions, Candyman 2021, Nope 2022, Demonlover, Dressed to Kill 1980, The Boy Next Door, The Golden Child, Nothing But Trouble 1991
+
+* New screenings: 
+    * [A V Geeks Present The Night Of Bad Decisions](https://drafthouse.com/raleigh/show/a-v-geeks-present-the-night-of-bad-decisions): Tue 2/25 (6:30pm)
+
+    * [Terror Tuesday Candyman 2021](https://drafthouse.com/raleigh/show/terror-tuesday-candyman-2021): Tue 2/25 (9:30pm)
+
+    * [Terror Tuesday Nope](https://drafthouse.com/raleigh/show/terror-tuesday-nope): Tue 2/18 (9:30pm)
+
+    * [The Golden Child](https://drafthouse.com/raleigh/show/the-golden-child): Mon 2/10 (6:30pm)
+
+    * [The Lord Of The Rings The Return Of The King Extended Edition](https://drafthouse.com/raleigh/show/the-lord-of-the-rings-the-return-of-the-king-extended-edition): Fri 2/7 (2:30pm)
+
+    * [Weird Wednesday Demonlover](https://drafthouse.com/raleigh/show/weird-wednesday-demonlover): Wed 2/26 (9:30pm)
+
+    * [Weird Wednesday Dressed To Kill 1980](https://drafthouse.com/raleigh/show/weird-wednesday-dressed-to-kill-1980): Wed 2/12 (9:30pm)
+
+    * [Weird Wednesday Nothing But Trouble](https://drafthouse.com/raleigh/show/weird-wednesday-nothing-but-trouble): Wed 3/5 (9:30pm)
+
+    * [Weird Wednesday The Boy Next Door](https://drafthouse.com/raleigh/show/weird-wednesday-the-boy-next-door): Wed 2/19 (9:30pm)
+
 ### Fri 1/17 10:23am
 * New movies: Crash 1996, GET OUT
 
