@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 1/17 9:21am
+* New movies: Captain America: Brave New World
+
+* New screenings: 
+    * [Captain America Brave New World](https://drafthouse.com/raleigh/show/captain-america-brave-new-world): Thu 2/13 (3:30pm, 6:30pm, 9:45pm), Fri 2/14 (12:30pm, 3:30pm, 6:35pm, 9:40pm), Sat 2/15 (12:30pm, 3:30pm, 6:35pm, 9:40pm), Sun 2/16 (12:30pm, 3:30pm, 6:35pm, 9:40pm)
+
 ### Tue 1/14 4:21pm
 * New movies: Popstar: Never Stop Never Stopping
 
