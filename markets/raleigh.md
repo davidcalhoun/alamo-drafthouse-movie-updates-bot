@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Fri 1/17 10:23am
+* New movies: Crash 1996, GET OUT
+
+* New screenings: 
+    * [Terror Tuesday Get Out](https://drafthouse.com/raleigh/show/terror-tuesday-get-out): Tue 2/4 (9:30pm)
+
+    * [Weird Wednesday Crash 1996](https://drafthouse.com/raleigh/show/weird-wednesday-crash-1996): Wed 2/5 (9:30pm)
+
 ### Fri 1/17 9:21am
 * New movies: Captain America: Brave New World
 
