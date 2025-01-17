@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Fri 1/17 1:30pm
+* New movies: Us 2019, Frankie Freako
+
+* New screenings: 
+    * [Terror Tuesday Us 2019](https://drafthouse.com/raleigh/show/terror-tuesday-us-2019): Tue 2/11 (9:30pm)
+
+    * [Weird Wednesday Frankie Freako](https://drafthouse.com/raleigh/show/weird-wednesday-frankie-freako): Wed 3/12 (9:30pm)
+
 ### Fri 1/17 11:27am
 * New movies: A/V Geeks Present: The Night of Bad Decisions, Candyman 2021, Nope 2022, Demonlover, Dressed to Kill 1980, The Boy Next Door, The Golden Child, Nothing But Trouble 1991
 
