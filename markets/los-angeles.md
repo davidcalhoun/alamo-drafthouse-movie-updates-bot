@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 1/17 9:17pm
+* New movies: FLASH GORDON
+
+* New screenings: 
+    * [Flash Gordon](https://drafthouse.com/los-angeles/show/flash-gordon): Fri 3/21 (4:15pm), Wed 3/26 (7:20pm)
+
 ### Fri 1/17 8:21pm
 * New movies: Dog Man 2025
 
