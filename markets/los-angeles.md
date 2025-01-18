@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 1/17 8:21pm
+* New movies: Dog Man 2025
+
+* New screenings: 
+    * [Dog Man](https://drafthouse.com/los-angeles/show/dog-man): Thu 1/30 (3:15pm, 6:00pm, 8:45pm), Fri 1/31 (12:30pm, 3:15pm, 6:00pm, 8:45pm), Sat 2/1 (12:30pm, 3:15pm, 6:00pm, 8:45pm), Sun 2/2 (12:30pm, 3:15pm, 6:00pm), Mon 2/3 (12:30pm, 3:15pm, 6:00pm, 8:45pm), Tue 2/4 (12:30pm, 3:15pm, 6:00pm, 8:45pm), Wed 2/5 (12:30pm, 3:15pm, 6:00pm, 8:45pm)
+
 ### Fri 1/17 6:17am
 * New movies: Captain America: Brave New World
 
