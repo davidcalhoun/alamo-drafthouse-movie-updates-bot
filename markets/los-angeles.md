@@ -1,6 +1,48 @@
 # los-angeles
 
 ## Movie updates
+### Mon 1/20 8:23am
+* New movies: Coming to America, Dolemite Is My Name, Scott Pilgrim vs. the World, Shrek, The Wedding Singer, The Phantom of the Opera 2004, Vertigo, Anomalisa, Ghost 1990, Titane, About Time 2013, Bones And All, Candyman 1992, Cry-Baby, Eternal Sunshine of the Spotless Mind, Parasite 2019, Snowpiercer, Spring, The Nutty Professor 1996
+
+* New screenings: 
+    * [About Time](https://drafthouse.com/los-angeles/show/about-time): Sat 2/8 (10:45am)
+
+    * [Anomalisa](https://drafthouse.com/los-angeles/show/anomalisa): Mon 2/10 (6:00pm)
+
+    * [Bones And All](https://drafthouse.com/los-angeles/show/bones-and-all): Sun 2/9 (4:25pm)
+
+    * [Candyman 1992](https://drafthouse.com/los-angeles/show/candyman-1992): Mon 2/3 (6:00pm)
+
+    * [Coming To America](https://drafthouse.com/los-angeles/show/coming-to-america): Sat 2/1 (5:45pm), Sun 2/2 (4:10pm)
+
+    * [Cry Baby](https://drafthouse.com/los-angeles/show/cry-baby): Sun 2/23 (4:40pm)
+
+    * [Dolemite Is My Name](https://drafthouse.com/los-angeles/show/dolemite-is-my-name): Fri 2/21 (4:10pm), Mon 2/24 (7:20pm)
+
+    * [Eternal Sunshine Of The Spotless Mind](https://drafthouse.com/los-angeles/show/eternal-sunshine-of-the-spotless-mind): Sat 2/1 (11:25am)
+
+    * [Movie Party Scott Pilgrim Vs The World](https://drafthouse.com/los-angeles/show/movie-party-scott-pilgrim-vs-the-world): Tue 2/11 (7:15pm)
+
+    * [Movie Party Shrek](https://drafthouse.com/los-angeles/show/movie-party-shrek): Tue 3/4 (7:20pm)
+
+    * [Movie Party The Wedding Singer](https://drafthouse.com/los-angeles/show/movie-party-the-wedding-singer): Mon 2/17 (7:20pm)
+
+    * [Parasite](https://drafthouse.com/los-angeles/show/parasite): Sat 3/1 (11:00am)
+
+    * [Queer Film Theory 101 Ghost 1990](https://drafthouse.com/los-angeles/show/queer-film-theory-101-ghost-1990): Sun 2/16 (4:00pm)
+
+    * [Snowpiercer](https://drafthouse.com/los-angeles/show/snowpiercer): Sat 3/1 (2:25pm)
+
+    * [Spring](https://drafthouse.com/los-angeles/show/spring): Sat 2/1 (9:00pm)
+
+    * [The Nutty Professor 1996](https://drafthouse.com/los-angeles/show/the-nutty-professor-1996): Wed 2/19 (7:20pm)
+
+    * [The Phantom Of The Opera 2004 Movie Party](https://drafthouse.com/los-angeles/show/the-phantom-of-the-opera-2004-movie-party): Tue 2/25 (7:20pm)
+
+    * [Titane](https://drafthouse.com/los-angeles/show/titane): Mon 3/3 (7:20pm)
+
+    * [Vertigo](https://drafthouse.com/los-angeles/show/vertigo): Fri 2/21 (12:45pm), Mon 2/24 (6:00pm)
+
 ### Fri 1/17 9:17pm
 * New movies: FLASH GORDON
 
