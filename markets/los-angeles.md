@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 1/20 9:16am
+* New movies: Gourmet Cinema: GROUNDHOG DAY Feast
+
+* New screenings: 
+    * [Gourmet Cinema Groundhog Day Feast](https://drafthouse.com/los-angeles/show/gourmet-cinema-groundhog-day-feast): Sun 2/2 (7:20pm)
+
 ### Mon 1/20 8:23am
 * New movies: Coming to America, Dolemite Is My Name, Scott Pilgrim vs. the World, Shrek, The Wedding Singer, The Phantom of the Opera 2004, Vertigo, Anomalisa, Ghost 1990, Titane, About Time 2013, Bones And All, Candyman 1992, Cry-Baby, Eternal Sunshine of the Spotless Mind, Parasite 2019, Snowpiercer, Spring, The Nutty Professor 1996
 
