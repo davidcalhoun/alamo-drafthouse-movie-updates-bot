@@ -1,6 +1,40 @@
 # raleigh
 
 ## Movie updates
+### Mon 1/20 11:28am
+* New movies: Scott Pilgrim vs. the World, Shrek, The Wedding Singer, The Phantom of the Opera 2004, Ghost 1990, Titane, About Time 2013, Candyman 1992, Coming to America, Cry-Baby, Dolemite Is My Name, Eternal Sunshine of the Spotless Mind, Parasite 2019, Snowpiercer, Vertigo
+
+* New screenings: 
+    * [About Time](https://drafthouse.com/raleigh/show/about-time): Sat 2/8 (4:30pm)
+
+    * [Candyman 1992](https://drafthouse.com/raleigh/show/candyman-1992): Mon 2/3 (6:30pm)
+
+    * [Coming To America](https://drafthouse.com/raleigh/show/coming-to-america): Thu 2/6 (6:30pm)
+
+    * [Cry Baby](https://drafthouse.com/raleigh/show/cry-baby): Sun 2/23 (3:30pm)
+
+    * [Dolemite Is My Name](https://drafthouse.com/raleigh/show/dolemite-is-my-name): Thu 2/27 (6:30pm)
+
+    * [Eternal Sunshine Of The Spotless Mind](https://drafthouse.com/raleigh/show/eternal-sunshine-of-the-spotless-mind): Wed 2/5 (6:30pm)
+
+    * [Movie Party Scott Pilgrim Vs The World](https://drafthouse.com/raleigh/show/movie-party-scott-pilgrim-vs-the-world): Tue 2/11 (6:30pm)
+
+    * [Movie Party Shrek](https://drafthouse.com/raleigh/show/movie-party-shrek): Sat 3/1 (11:30am)
+
+    * [Movie Party The Wedding Singer](https://drafthouse.com/raleigh/show/movie-party-the-wedding-singer): Wed 2/19 (6:30pm)
+
+    * [Parasite](https://drafthouse.com/raleigh/show/parasite): Sat 3/1 (2:30pm)
+
+    * [Queer Film Theory 101 Ghost 1990](https://drafthouse.com/raleigh/show/queer-film-theory-101-ghost-1990): Sun 2/16 (4:45pm)
+
+    * [Snowpiercer](https://drafthouse.com/raleigh/show/snowpiercer): Fri 2/28 (9:30pm)
+
+    * [The Phantom Of The Opera 2004 Movie Party](https://drafthouse.com/raleigh/show/the-phantom-of-the-opera-2004-movie-party): Mon 2/24 (6:30pm)
+
+    * [Titane](https://drafthouse.com/raleigh/show/titane): Mon 3/3 (6:30pm)
+
+    * [Vertigo](https://drafthouse.com/raleigh/show/vertigo): Sat 2/22 (11:30am)
+
 ### Fri 1/17 1:30pm
 * New movies: Us 2019, Frankie Freako
 
