@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 1/20 12:20pm
+* New movies: Gourmet Cinema: GROUNDHOG DAY Feast
+
+* New screenings: 
+    * [Gourmet Cinema Groundhog Day Feast](https://drafthouse.com/raleigh/show/gourmet-cinema-groundhog-day-feast): Sun 2/2 (4:30pm)
+
 ### Mon 1/20 11:28am
 * New movies: Scott Pilgrim vs. the World, Shrek, The Wedding Singer, The Phantom of the Opera 2004, Ghost 1990, Titane, About Time 2013, Candyman 1992, Coming to America, Cry-Baby, Dolemite Is My Name, Eternal Sunshine of the Spotless Mind, Parasite 2019, Snowpiercer, Vertigo
 
