@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Tue 1/21 3:17pm
+* New movies: Felidae, Halloween III: Season of the Witch, No Other Land
+
+* New screenings: 
+    * [Felidae](https://drafthouse.com/los-angeles/show/felidae): Wed 2/26 (7:20pm)
+
+    * [Halloween Iii Season Of The Witch](https://drafthouse.com/los-angeles/show/halloween-iii-season-of-the-witch): Wed 2/19 (7:20pm)
+
+    * [No Other Land](https://drafthouse.com/los-angeles/show/no-other-land): Sat 2/15 (3:00pm, 5:45pm)
+
 ### Tue 1/21 2:17pm
 * New movies: Flight Risk, The Seed of the Sacred Fig, I'm Still Here 2025, Wicked, All We Imagine As Light
 
