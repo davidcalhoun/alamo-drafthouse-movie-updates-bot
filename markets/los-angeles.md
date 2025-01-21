@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 1/21 6:18am
+* New movies: Invincible
+
+* New screenings: 
+    * [Free Victory Screening Invincible](https://drafthouse.com/los-angeles/show/free-victory-screening-invincible): Tue 2/4 (7:45pm)
+
 ### Mon 1/20 9:16am
 * New movies: Gourmet Cinema: GROUNDHOG DAY Feast
 
