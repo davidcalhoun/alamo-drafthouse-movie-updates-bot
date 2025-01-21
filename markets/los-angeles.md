@@ -1,6 +1,50 @@
 # los-angeles
 
 ## Movie updates
+### Tue 1/21 2:17pm
+* New movies: Flight Risk, The Seed of the Sacred Fig, I'm Still Here 2025, Wicked, All We Imagine As Light
+
+* New screenings: 
+    * [All We Imagine As Light](https://drafthouse.com/los-angeles/show/all-we-imagine-as-light): Sun 1/26 (11:50am), Tue 1/28 (2:45pm)
+
+    * [Babygirl](https://drafthouse.com/los-angeles/show/babygirl): Thu 1/23 (4:00pm, 10:25pm), Fri 1/24 (12:10pm, 6:30pm), Sat 1/25 (3:25pm, 9:30pm), Sun 1/26 (12:15pm, 6:30pm), Mon 1/27 (3:25pm, 9:25pm), Tue 1/28 (12:15pm, 6:30pm)
+
+    * [Bona](https://drafthouse.com/los-angeles/show/bona): Fri 1/24 (3:20pm), Sun 1/26 (3:00pm), Mon 1/27 (10:30pm)
+
+    * [Den Of Thieves 2 Pantera](https://drafthouse.com/los-angeles/show/den-of-thieves-2-pantera): Thu 1/23 (3:50pm)
+
+    * [Flight Risk](https://drafthouse.com/los-angeles/show/flight-risk): Thu 1/23 (7:30pm, 10:10pm), Fri 1/24 (11:30am, 2:10pm, 4:50pm, 7:30pm, 10:40pm), Sat 1/25 (11:30am, 2:10pm, 4:50pm, 7:30pm, 10:15pm), Sun 1/26 (11:30am, 2:10pm, 4:50pm, 7:30pm), Mon 1/27 (11:30am, 2:10pm, 4:50pm, 7:30pm, 10:10pm), Tue 1/28 (11:30am, 2:10pm, 4:50pm, 7:30pm, 10:15pm)
+
+    * [Grand Theft Hamlet](https://drafthouse.com/los-angeles/show/grand-theft-hamlet): Thu 1/23 (10:30pm), Fri 1/24 (11:50am, 6:00pm, 10:10pm), Sat 1/25 (11:00am, 2:50pm, 9:20pm), Sun 1/26 (2:50pm, 8:30pm), Mon 1/27 (2:50pm, 5:30pm, 8:10pm, 10:50pm), Tue 1/28 (2:50pm, 9:20pm)
+
+    * [Hard Truths](https://drafthouse.com/los-angeles/show/hard-truths): Sat 1/25 (1:35pm), Tue 1/28 (12:00pm)
+
+    * [Im Still Here 2025](https://drafthouse.com/los-angeles/show/im-still-here-2025): Thu 1/23 (7:00pm, 10:25pm), Fri 1/24 (11:40am, 3:10pm, 6:40pm, 10:10pm), Sat 1/25 (12:10pm, 3:35pm, 7:00pm, 10:25pm), Sun 1/26 (11:45am, 3:15pm), Mon 1/27 (11:45am, 3:10pm, 6:40pm, 10:10pm), Tue 1/28 (11:45am, 3:10pm, 6:40pm, 10:10pm)
+
+    * [Macgruber](https://drafthouse.com/los-angeles/show/macgruber): Sat 1/25 (10:30pm)
+
+    * [Nosferatu 2024](https://drafthouse.com/los-angeles/show/nosferatu-2024): Thu 1/23 (3:40pm, 7:10pm, 10:30pm), Fri 1/24 (12:20pm, 3:45pm, 7:10pm, 10:35pm), Sat 1/25 (12:35pm, 4:20pm, 6:40pm, 10:05pm), Sun 1/26 (12:10pm, 3:35pm, 7:00pm), Mon 1/27 (12:10pm, 3:35pm, 7:00pm, 10:20pm), Tue 1/28 (12:00pm, 3:25pm, 6:50pm, 10:15pm)
+
+    * [One Of Them Days](https://drafthouse.com/los-angeles/show/one-of-them-days): Thu 1/23 (3:20pm, 6:10pm, 9:00pm), Fri 1/24 (12:40pm, 3:15pm, 6:10pm, 9:00pm), Sat 1/25 (11:30am, 3:15pm, 6:10pm, 9:00pm), Sun 1/26 (12:45pm, 3:20pm, 6:10pm), Mon 1/27 (11:35am, 3:20pm, 6:10pm, 9:00pm), Tue 1/28 (12:45pm, 3:20pm, 6:10pm, 9:00pm)
+
+    * [Presence](https://drafthouse.com/los-angeles/show/presence): Tue 1/28 (6:00pm, 9:50pm)
+
+    * [The Brutalist](https://drafthouse.com/los-angeles/show/the-brutalist): Thu 1/23 (3:10pm, 8:00pm), Fri 1/24 (11:10am, 4:00pm, 8:50pm), Sat 1/25 (11:10am, 4:00pm, 8:45pm), Sun 1/26 (11:00am, 3:45pm, 5:30pm), Mon 1/27 (11:10am, 4:00pm, 8:45pm), Tue 1/28 (11:10am, 4:00pm, 8:45pm)
+
+    * [The Lord Of The Rings The Fellowship Of The Ring Extended Edition](https://drafthouse.com/los-angeles/show/the-lord-of-the-rings-the-fellowship-of-the-ring-extended-edition): Fri 1/24 (10:45am, 8:40pm), Sun 1/26 (6:45pm), Tue 1/28 (8:35pm)
+
+    * [The Room Next Door](https://drafthouse.com/los-angeles/show/the-room-next-door): Thu 1/23 (3:30pm, 6:30pm), Fri 1/24 (3:30pm, 9:35pm), Sat 1/25 (12:20pm, 6:30pm), Sun 1/26 (3:35pm), Mon 1/27 (12:20pm, 6:30pm), Tue 1/28 (3:35pm, 9:35pm)
+
+    * [The Sacrifice](https://drafthouse.com/los-angeles/show/the-sacrifice): Thu 1/23 (3:15pm)
+
+    * [The Seed Of The Sacred Fig](https://drafthouse.com/los-angeles/show/the-seed-of-the-sacred-fig): Thu 1/23 (4:10pm, 6:50pm, 9:25pm), Fri 1/24 (11:45am, 3:25pm, 7:00pm, 10:15pm), Sat 1/25 (11:45am, 2:20pm, 6:00pm, 9:35pm), Sun 1/26 (10:45am, 2:20pm, 6:00pm), Mon 1/27 (11:50am, 2:25pm, 6:00pm, 9:35pm), Tue 1/28 (11:00am, 2:40pm, 6:20pm, 10:00pm)
+
+    * [The Wild Robot](https://drafthouse.com/los-angeles/show/the-wild-robot): Thu 1/23 (3:00pm)
+
+    * [Wicked](https://drafthouse.com/los-angeles/show/wicked): Thu 1/23 (2:50pm, 6:40pm), Fri 1/24 (2:30pm, 6:20pm), Sat 1/25 (11:00am, 5:30pm), Sun 1/26 (11:00am), Mon 1/27 (11:00am), Tue 1/28 (11:00am, 5:30pm)
+
+    * [Wolf Man 2025](https://drafthouse.com/los-angeles/show/wolf-man-2025): Thu 1/23 (3:25pm, 6:20pm, 9:10pm), Fri 1/24 (11:15am, 2:10pm, 5:00pm, 8:00pm, 10:50pm), Sat 1/25 (11:15am, 2:10pm, 5:00pm, 8:00pm, 10:50pm), Sun 1/26 (10:45am, 1:40pm, 4:30pm, 7:25pm), Mon 1/27 (11:15am, 2:10pm, 5:00pm, 8:00pm, 10:50pm), Tue 1/28 (11:15am, 2:10pm, 5:00pm, 8:00pm, 10:50pm)
+
 ### Tue 1/21 6:18am
 * New movies: Invincible
 
