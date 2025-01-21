@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 1/21 3:24pm
+* New movies: The Nutty Professor 1996
+
+* New screenings: 
+    * [The Nutty Professor 1996](https://drafthouse.com/raleigh/show/the-nutty-professor-1996): Thu 2/20 (6:30pm)
+
 ### Mon 1/20 12:20pm
 * New movies: Gourmet Cinema: GROUNDHOG DAY Feast
 
