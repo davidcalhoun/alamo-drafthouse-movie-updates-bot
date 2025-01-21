@@ -1,6 +1,38 @@
 # raleigh
 
 ## Movie updates
+### Tue 1/21 6:21pm
+* New movies: Hard Truths
+
+* New screenings: 
+    * [Babygirl](https://drafthouse.com/raleigh/show/babygirl): Thu 1/23 (10:30pm), Fri 1/24 (10:45pm), Sat 1/25 (9:15pm), Sun 1/26 (8:30pm), Mon 1/27 (10:15pm), Tue 1/28 (9:30pm)
+
+    * [Den Of Thieves 2 Pantera](https://drafthouse.com/raleigh/show/den-of-thieves-2-pantera): Thu 1/23 (2:45pm, 6:15pm, 10:00pm), Fri 1/24 (12:15pm, 3:45pm, 7:15pm, 10:45pm), Sat 1/25 (11:15am, 2:45pm, 6:30pm, 10:00pm), Sun 1/26 (1:00pm, 2:30pm, 6:00pm, 9:30pm), Mon 1/27 (2:45pm, 6:15pm, 9:45pm), Tue 1/28 (12:15pm, 3:45pm, 7:15pm, 10:45pm)
+
+    * [Flight Risk](https://drafthouse.com/raleigh/show/flight-risk): Sat 1/25 (9:45pm), Sun 1/26 (12:45pm, 3:45pm, 6:30pm, 9:15pm), Mon 1/27 (4:45pm, 7:15pm, 10:00pm), Tue 1/28 (2:00pm, 4:30pm, 7:30pm, 10:15pm)
+
+    * [Grand Theft Hamlet](https://drafthouse.com/raleigh/show/grand-theft-hamlet): Thu 1/23 (8:00pm, 10:30pm), Fri 1/24 (7:45pm, 10:30pm), Sat 1/25 (6:15pm, 9:15pm), Sun 1/26 (7:30pm, 10:15pm), Mon 1/27 (8:15pm, 10:45pm), Tue 1/28 (8:00pm, 10:30pm)
+
+    * [Hard Truths](https://drafthouse.com/raleigh/show/hard-truths): Thu 1/23 (5:00pm), Fri 1/24 (4:30pm), Sat 1/25 (3:15pm), Sun 1/26 (4:30pm), Mon 1/27 (5:35pm), Tue 1/28 (5:00pm)
+
+    * [Mufasa The Lion King](https://drafthouse.com/raleigh/show/mufasa-the-lion-king): Thu 1/23 (3:00pm, 6:15pm, 9:15pm), Fri 1/24 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 1/25 (11:30am, 2:45pm, 6:00pm, 9:00pm), Sun 1/26 (11:45am, 2:45pm, 6:00pm, 9:00pm), Mon 1/27 (2:45pm, 6:00pm, 9:00pm), Tue 1/28 (12:15pm, 3:15pm, 6:15pm, 9:15pm)
+
+    * [Nickel Boys](https://drafthouse.com/raleigh/show/nickel-boys): Thu 1/23 (4:15pm), Fri 1/24 (12:45pm), Sat 1/25 (11:45am), Sun 1/26 (12:30pm), Mon 1/27 (2:15pm), Tue 1/28 (1:30pm)
+
+    * [Nosferatu 2024](https://drafthouse.com/raleigh/show/nosferatu-2024): Thu 1/23 (3:30pm, 6:45pm, 10:00pm), Fri 1/24 (12:30pm, 3:45pm, 7:15pm, 10:45pm), Sat 1/25 (12:00pm, 3:15pm, 7:00pm, 10:30pm), Sun 1/26 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Mon 1/27 (3:15pm, 6:45pm, 10:00pm), Tue 1/28 (12:45pm, 4:00pm, 7:15pm, 10:30pm)
+
+    * [One Of Them Days](https://drafthouse.com/raleigh/show/one-of-them-days): Thu 1/23 (3:15pm, 6:00pm, 9:00pm), Fri 1/24 (2:00pm, 4:45pm, 7:30pm, 10:15pm), Sat 1/25 (1:00pm, 4:15pm, 7:15pm, 10:15pm), Sun 1/26 (1:30pm, 4:30pm, 7:15pm, 10:00pm), Mon 1/27 (4:15pm, 7:00pm, 9:45pm), Tue 1/28 (12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
+    * [Presence](https://drafthouse.com/raleigh/show/presence): Sat 1/25 (12:15pm, 3:00pm), Mon 1/27 (3:15pm, 6:00pm, 9:00pm), Tue 1/28 (1:00pm, 4:00pm, 10:00pm)
+
+    * [Sonic The Hedgehog 3](https://drafthouse.com/raleigh/show/sonic-the-hedgehog-3): Thu 1/23 (4:15pm, 7:15pm, 10:15pm), Fri 1/24 (1:15pm, 4:05pm, 7:00pm, 10:00pm), Sat 1/25 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sun 1/26 (12:45pm, 3:45pm, 6:45pm, 9:35pm), Mon 1/27 (3:45pm, 6:30pm, 9:15pm), Tue 1/28 (1:15pm, 4:15pm, 7:00pm, 9:45pm)
+
+    * [The Brutalist](https://drafthouse.com/raleigh/show/the-brutalist): Thu 1/23 (2:15pm, 4:00pm, 9:10pm), Fri 1/24 (1:30pm, 4:30pm, 6:15pm, 9:15pm), Sat 1/25 (11:00am, 3:45pm, 8:30pm), Sun 1/26 (11:30am, 4:15pm, 9:00pm), Mon 1/27 (3:00pm, 5:00pm, 9:30pm), Tue 1/28 (2:00pm, 5:00pm, 6:45pm)
+
+    * [Wicked](https://drafthouse.com/raleigh/show/wicked): Thu 1/23 (2:30pm, 6:30pm), Fri 1/24 (12:45pm), Sat 1/25 (5:30pm), Sun 1/26 (4:45pm), Tue 1/28 (1:00pm)
+
+    * [Wolf Man 2025](https://drafthouse.com/raleigh/show/wolf-man-2025): Thu 1/23 (3:45pm, 6:30pm, 9:15pm), Fri 1/24 (1:15pm, 4:00pm, 6:45pm, 9:30pm), Sat 1/25 (11:45am, 2:30pm, 6:00pm, 9:30pm), Sun 1/26 (11:45am, 4:00pm, 6:45pm, 9:30pm), Mon 1/27 (3:45pm, 7:30pm, 10:15pm), Tue 1/28 (12:30pm, 3:30pm)
+
 ### Tue 1/21 3:24pm
 * New movies: The Nutty Professor 1996
 
