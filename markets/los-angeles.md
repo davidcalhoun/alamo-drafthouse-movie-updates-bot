@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 1/21 5:36pm
+* New movies: Detective Chinatown 1900
+
+* New screenings: 
+    * [Detective Chinatown 1900](https://drafthouse.com/los-angeles/show/detective-chinatown-1900): Thu 1/30 (6:30pm), Fri 1/31 (6:30pm), Sat 2/1 (6:30pm), Sun 2/2 (6:30pm), Mon 2/3 (6:30pm), Tue 2/4 (6:30pm), Wed 2/5 (6:15pm)
+
 ### Tue 1/21 3:17pm
 * New movies: Felidae, Halloween III: Season of the Witch, No Other Land
 
