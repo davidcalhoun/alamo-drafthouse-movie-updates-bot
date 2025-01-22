@@ -1,6 +1,25 @@
 # los-angeles
 
 ## Movie updates
+### Wed 1/22 1:14pm
+
+* New screenings: 
+    * [Grand Theft Hamlet](https://drafthouse.com/los-angeles/show/grand-theft-hamlet): Thu 1/23 (2:50pm)
+
+    * [Hard Truths](https://drafthouse.com/los-angeles/show/hard-truths): Fri 1/24 (11:40am)
+
+    * [Im Still Here 2025](https://drafthouse.com/los-angeles/show/im-still-here-2025): Sun 1/26 (7:10pm)
+
+    * [Macgruber](https://drafthouse.com/los-angeles/show/macgruber): Tue 1/28 (10:00pm)
+
+    * [Queer Film Theory 101 Death Becomes Her](https://drafthouse.com/los-angeles/show/queer-film-theory-101-death-becomes-her): Thu 1/23 (10:15pm)
+
+    * [The Brutalist](https://drafthouse.com/los-angeles/show/the-brutalist): Thu 1/23 (5:30pm)
+
+    * [The Lord Of The Rings The Fellowship Of The Ring Extended Edition](https://drafthouse.com/los-angeles/show/the-lord-of-the-rings-the-fellowship-of-the-ring-extended-edition): Mon 1/27 (11:20am, 8:40pm)
+
+    * [The Lord Of The Rings The Two Towers Extended Edition 2](https://drafthouse.com/los-angeles/show/the-lord-of-the-rings-the-two-towers-extended-edition-2): Fri 1/31 (10:45am), Sat 2/1 (10:45am, 3:40pm), Sun 2/2 (3:00pm), Tue 2/4 (2:20pm), Wed 2/5 (2:20pm)
+
 ### Tue 1/21 5:36pm
 * New movies: Detective Chinatown 1900
 
