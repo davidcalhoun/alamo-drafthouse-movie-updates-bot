@@ -1,6 +1,23 @@
 # los-angeles
 
 ## Movie updates
+### Thu 1/23 3:18pm
+
+* New screenings: 
+    * [Babygirl](https://drafthouse.com/los-angeles/show/babygirl): Sat 1/25 (2:50pm, 10:00pm)
+
+    * [Flight Risk](https://drafthouse.com/los-angeles/show/flight-risk): Sun 1/26 (11:30am, 3:00pm, 6:20pm), Mon 1/27 (11:30am, 2:10pm, 4:50pm, 7:30pm, 10:10pm), Tue 1/28 (12:00pm, 3:00pm, 6:45pm, 9:30pm)
+
+    * [Grand Theft Hamlet](https://drafthouse.com/los-angeles/show/grand-theft-hamlet): Fri 1/24 (11:00pm)
+
+    * [Presence](https://drafthouse.com/los-angeles/show/presence): Tue 1/28 (10:20pm)
+
+    * [The Room Next Door](https://drafthouse.com/los-angeles/show/the-room-next-door): Sat 1/25 (6:30pm), Tue 1/28 (9:35pm)
+
+    * [The Seed Of The Sacred Fig](https://drafthouse.com/los-angeles/show/the-seed-of-the-sacred-fig): Fri 1/24 (11:00am, 3:00pm, 7:00pm), Sat 1/25 (6:00pm), Sun 1/26 (10:45am, 6:00pm), Mon 1/27 (11:25am, 2:00pm, 6:00pm, 10:00pm), Tue 1/28 (11:00am, 2:40pm, 6:20pm, 10:15pm)
+
+    * [Wolf Man 2025](https://drafthouse.com/los-angeles/show/wolf-man-2025): Sat 1/25 (2:10pm, 5:00pm)
+
 ### Thu 1/23 2:17pm
 
 * New screenings: 
