@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 1/23 8:27am
+* New movies: Love Hurts
+
+* New screenings: 
+    * [Love Hurts](https://drafthouse.com/raleigh/show/love-hurts): Thu 2/6 (3:00pm, 6:00pm, 9:00pm), Fri 2/7 (6:00pm, 9:00pm), Sat 2/8 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sun 2/9 (12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
 ### Tue 1/21 6:21pm
 * New movies: Hard Truths
 
