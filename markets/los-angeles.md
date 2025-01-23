@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 1/23 5:24am
+* New movies: Love Hurts
+
+* New screenings: 
+    * [Love Hurts](https://drafthouse.com/los-angeles/show/love-hurts): Thu 2/6 (2:00pm, 4:35pm, 7:10pm, 9:45pm), Fri 2/7 (11:00am, 1:35pm, 4:10pm, 6:45pm, 9:20pm), Sat 2/8 (11:00am, 1:35pm, 4:10pm, 6:45pm, 9:20pm), Sun 2/9 (11:00am, 1:35pm, 4:10pm, 6:45pm), Mon 2/10 (11:00am, 1:35pm, 4:10pm, 6:45pm, 9:20pm), Tue 2/11 (11:00am, 1:35pm, 4:10pm, 6:45pm, 9:20pm), Wed 2/12 (11:00am, 1:35pm, 4:10pm, 6:45pm, 9:20pm)
+
 ### Wed 1/22 1:14pm
 
 * New screenings: 
