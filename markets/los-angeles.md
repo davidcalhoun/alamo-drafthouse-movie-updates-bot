@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 1/23 1:17pm
+* New movies: Rounding
+
+* New screenings: 
+    * [No Other Land](https://drafthouse.com/los-angeles/show/no-other-land): Fri 2/14 (3:15pm, 6:00pm), Sun 2/16 (5:45pm)
+
+    * [Rounding](https://drafthouse.com/los-angeles/show/rounding): Fri 2/14 (8:45pm), Sun 2/16 (8:30pm)
+
 ### Thu 1/23 5:24am
 * New movies: Love Hurts
 
