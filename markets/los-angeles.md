@@ -1,6 +1,15 @@
 # los-angeles
 
 ## Movie updates
+### Thu 1/23 2:17pm
+
+* New screenings: 
+    * [Babygirl](https://drafthouse.com/los-angeles/show/babygirl): Thu 1/23 (10:50pm)
+
+    * [The Brutalist](https://drafthouse.com/los-angeles/show/the-brutalist): Thu 1/23 (3:10pm)
+
+    * [The Seed Of The Sacred Fig](https://drafthouse.com/los-angeles/show/the-seed-of-the-sacred-fig): Thu 1/23 (4:10pm, 6:50pm, 9:25pm), Sat 1/25 (11:00am, 2:20pm, 9:35pm), Sun 1/26 (2:20pm)
+
 ### Thu 1/23 1:17pm
 * New movies: Rounding
 
