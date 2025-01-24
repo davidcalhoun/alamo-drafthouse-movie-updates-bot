@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 1/24 6:17am
+* New movies: Heart Eyes
+
+* New screenings: 
+    * [Heart Eyes](https://drafthouse.com/los-angeles/show/heart-eyes): Thu 2/6 (2:15pm, 5:00pm, 7:45pm, 10:30pm), Fri 2/7 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:20pm), Sat 2/8 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:20pm), Sun 2/9 (11:15am, 2:00pm, 4:45pm, 7:30pm), Mon 2/10 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:20pm), Tue 2/11 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:20pm), Wed 2/12 (12:40pm, 3:30pm, 6:20pm, 9:10pm)
+
 ### Fri 1/24 1:20am
 
 * New screenings: 
