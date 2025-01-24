@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 1/24 9:22am
+* New movies: Heart Eyes
+
+* New screenings: 
+    * [Heart Eyes](https://drafthouse.com/raleigh/show/heart-eyes): Thu 2/6 (4:00pm, 7:00pm), Fri 2/7 (7:00pm), Sat 2/8 (4:00pm, 7:00pm), Sun 2/9 (4:00pm, 7:00pm)
+
 ### Thu 1/23 8:27am
 * New movies: Love Hurts
 
