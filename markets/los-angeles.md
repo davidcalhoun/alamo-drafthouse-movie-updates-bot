@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 1/24 1:20am
+
+* New screenings: 
+    * [Snowpiercer](https://drafthouse.com/los-angeles/show/snowpiercer): Mon 3/3 (10:20pm)
+
 ### Thu 1/23 3:18pm
 
 * New screenings: 
