@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 1/24 10:24pm
+* New movies: Bridesmaids
+
+* New screenings: 
+    * [Bridesmaids](https://drafthouse.com/los-angeles/show/bridesmaids): Thu 2/13 (3:00pm)
+
 ### Fri 1/24 6:17am
 * New movies: Heart Eyes
 
