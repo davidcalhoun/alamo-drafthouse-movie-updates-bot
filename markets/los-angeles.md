@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 1/27 1:19pm
+* New movies: Species II
+
+* New screenings: 
+    * [Species Ii](https://drafthouse.com/los-angeles/show/species-ii): Wed 2/12 (7:15pm)
+
 ### Sun 1/26 7:21pm
 
 * New screenings: 
