@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Sun 1/26 7:21pm
+
+* New screenings: 
+    * [Friday The 13th Part Iii 3d](https://drafthouse.com/los-angeles/show/friday-the-13th-part-iii-3d): Wed 2/5 (9:20pm)
+
 ### Fri 1/24 10:24pm
 * New movies: Bridesmaids
 
