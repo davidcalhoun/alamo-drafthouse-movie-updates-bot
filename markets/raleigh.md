@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 1/28 12:20pm
+* New movies: Bridesmaids
+
+* New screenings: 
+    * [Bridesmaids](https://drafthouse.com/raleigh/show/bridesmaids): Thu 2/13 (7:30pm)
+
 ### Mon 1/27 8:46pm
 * New movies: Groundhog Day
 
