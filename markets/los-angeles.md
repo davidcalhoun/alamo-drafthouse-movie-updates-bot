@@ -1,6 +1,52 @@
 # los-angeles
 
 ## Movie updates
+### Mon 1/27 7:20pm
+* New movies: Dark Match, Popstar: Never Stop Never Stopping, Groundhog Day
+
+* New screenings: 
+    * [Babygirl](https://drafthouse.com/los-angeles/show/babygirl): Thu 1/30 (2:50pm)
+
+    * [Bona](https://drafthouse.com/los-angeles/show/bona): Thu 1/30 (10:30pm)
+
+    * [Companion](https://drafthouse.com/los-angeles/show/companion): Thu 1/30 (5:40pm, 9:15pm), Fri 1/31 (11:40am, 5:30pm), Sat 2/1 (11:40am, 5:30pm), Sun 2/2 (11:20am, 5:25pm), Mon 2/3 (12:40pm), Tue 2/4 (11:40am, 5:25pm, 10:15pm), Wed 2/5 (11:40am, 5:25pm)
+
+    * [Dark Match](https://drafthouse.com/los-angeles/show/dark-match): Fri 1/31 (3:40pm, 10:00pm), Wed 2/5 (9:40pm)
+
+    * [Detective Chinatown 1900](https://drafthouse.com/los-angeles/show/detective-chinatown-1900): Thu 1/30 (3:00pm), Fri 1/31 (3:00pm), Sat 2/1 (3:00pm), Sun 2/2 (3:00pm), Mon 2/3 (3:00pm), Tue 2/4 (3:00pm), Wed 2/5 (2:40pm)
+
+    * [Dig Xx](https://drafthouse.com/los-angeles/show/dig-xx): Mon 2/3 (8:50pm), Tue 2/4 (12:30pm)
+
+    * [Eternal Sunshine Of The Spotless Mind](https://drafthouse.com/los-angeles/show/eternal-sunshine-of-the-spotless-mind): Fri 1/31 (11:20am), Sun 2/2 (12:00pm), Mon 2/3 (11:20am), Tue 2/4 (11:20am), Wed 2/5 (12:00pm, 3:00pm)
+
+    * [Flight Risk](https://drafthouse.com/los-angeles/show/flight-risk): Thu 1/30 (3:30pm, 6:15pm, 10:00pm), Fri 1/31 (12:45pm, 3:30pm, 6:10pm, 9:00pm), Sat 2/1 (10:45am, 1:30pm, 4:15pm, 10:25pm), Sun 2/2 (11:40am, 3:30pm, 7:10pm), Mon 2/3 (12:20pm, 3:30pm, 6:15pm, 10:00pm), Tue 2/4 (12:45pm, 3:30pm, 6:15pm, 10:00pm), Wed 2/5 (12:45pm, 3:30pm, 6:20pm, 9:35pm)
+
+    * [Groundhog Day](https://drafthouse.com/los-angeles/show/groundhog-day): Sun 2/2 (8:10pm)
+
+    * [Im Still Here 2025](https://drafthouse.com/los-angeles/show/im-still-here-2025): Thu 1/30 (3:20pm, 6:45pm, 10:10pm), Fri 1/31 (11:45am, 3:10pm, 6:40pm, 10:10pm), Sat 2/1 (11:45am, 3:10pm, 6:45pm, 10:10pm), Sun 2/2 (11:45am, 3:10pm, 6:40pm), Mon 2/3 (11:45am, 3:10pm, 6:45pm, 9:45pm), Tue 2/4 (11:45am, 3:10pm, 6:45pm, 9:45pm), Wed 2/5 (11:40am, 3:10pm, 6:45pm, 10:10pm)
+
+    * [No Other Land](https://drafthouse.com/los-angeles/show/no-other-land): Fri 2/14 (12:30pm), Sat 2/15 (12:15pm), Sun 2/16 (12:00pm)
+
+    * [Nosferatu 2024](https://drafthouse.com/los-angeles/show/nosferatu-2024): Thu 1/30 (3:35pm, 7:00pm, 10:20pm), Fri 1/31 (12:00pm, 3:30pm, 7:00pm, 10:20pm), Sat 2/1 (12:10pm, 3:35pm, 7:00pm, 10:20pm), Sun 2/2 (11:25am, 2:50pm, 6:20pm), Mon 2/3 (12:10pm, 3:35pm, 7:00pm, 10:20pm), Tue 2/4 (12:10pm, 3:35pm, 7:00pm, 10:25pm), Wed 2/5 (12:10pm, 3:35pm, 7:00pm, 9:50pm)
+
+    * [One Of Them Days](https://drafthouse.com/los-angeles/show/one-of-them-days): Thu 1/30 (4:50pm, 7:40pm, 10:30pm), Fri 1/31 (11:10am, 2:00pm, 4:50pm, 7:45pm, 10:35pm), Sat 2/1 (11:10am, 2:00pm, 4:50pm, 7:45pm, 10:35pm), Sun 2/2 (10:45am, 1:30pm, 4:15pm, 7:00pm), Mon 2/3 (11:10am, 2:00pm, 4:50pm, 7:45pm, 10:35pm), Tue 2/4 (11:10am, 2:00pm, 4:50pm, 7:45pm, 10:35pm), Wed 2/5 (11:10am, 2:00pm, 4:50pm, 7:45pm, 10:35pm)
+
+    * [Popstar Never Stop Never Stopping](https://drafthouse.com/los-angeles/show/popstar-never-stop-never-stopping): Tue 2/4 (10:20pm), Wed 2/5 (11:40am)
+
+    * [Presence](https://drafthouse.com/los-angeles/show/presence): Thu 1/30 (2:45pm, 5:25pm, 8:00pm, 10:40pm), Fri 1/31 (11:25am, 2:00pm, 4:35pm, 7:10pm, 9:50pm), Sat 2/1 (11:25am, 2:00pm, 4:35pm, 7:10pm, 9:45pm), Sun 2/2 (12:10pm, 2:45pm, 5:10pm, 8:00pm), Mon 2/3 (11:25am, 2:00pm, 4:35pm, 7:10pm, 10:10pm), Tue 2/4 (11:25am, 2:00pm, 4:35pm, 7:10pm, 10:10pm), Wed 2/5 (12:00pm, 3:50pm, 7:15pm, 10:25pm)
+
+    * [Se7en](https://drafthouse.com/los-angeles/show/se7en): Fri 1/31 (6:20pm, 9:40pm), Sat 2/1 (10:00pm), Mon 2/3 (10:00pm), Tue 2/4 (4:10pm, 10:00pm)
+
+    * [The Brutalist](https://drafthouse.com/los-angeles/show/the-brutalist): Thu 1/30 (4:25pm, 8:30pm), Fri 1/31 (11:15am, 4:00pm, 8:20pm), Sat 2/1 (11:15am, 4:00pm, 8:20pm), Sun 2/2 (10:45am, 2:25pm, 6:10pm), Mon 2/3 (11:15am, 4:00pm, 8:45pm), Tue 2/4 (11:15am, 4:00pm, 8:15pm), Wed 2/5 (11:15am, 4:00pm, 8:15pm)
+
+    * [The Lord Of The Rings The Fellowship Of The Ring Extended Edition](https://drafthouse.com/los-angeles/show/the-lord-of-the-rings-the-fellowship-of-the-ring-extended-edition): Thu 1/30 (2:35pm)
+
+    * [The Lord Of The Rings The Two Towers Extended Edition 2](https://drafthouse.com/los-angeles/show/the-lord-of-the-rings-the-two-towers-extended-edition-2): Mon 2/3 (1:00pm)
+
+    * [The Seed Of The Sacred Fig](https://drafthouse.com/los-angeles/show/the-seed-of-the-sacred-fig): Thu 1/30 (9:00pm), Fri 1/31 (11:00am, 10:00pm), Sat 2/1 (11:00am, 8:35pm), Sun 2/2 (11:00am), Mon 2/3 (12:00pm, 9:00pm), Tue 2/4 (11:00am, 9:00pm), Wed 2/5 (11:50am, 9:00pm)
+
+    * [Wolf Man 2025](https://drafthouse.com/los-angeles/show/wolf-man-2025): Thu 1/30 (2:45pm), Fri 1/31 (2:30pm, 8:50pm), Sat 2/1 (2:30pm, 8:50pm), Sun 2/2 (2:10pm, 7:45pm), Mon 2/3 (4:00pm, 10:20pm), Tue 2/4 (2:30pm, 8:45pm), Wed 2/5 (2:30pm, 8:45pm)
+
 ### Mon 1/27 1:19pm
 * New movies: Species II
 
