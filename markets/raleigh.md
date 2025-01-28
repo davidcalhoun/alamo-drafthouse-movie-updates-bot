@@ -1,6 +1,44 @@
 # raleigh
 
 ## Movie updates
+### Mon 1/27 8:46pm
+* New movies: Groundhog Day
+
+* New screenings: 
+    * [Candyman 1992](https://drafthouse.com/raleigh/show/candyman-1992): Fri 1/31 (4:00pm), Sat 2/1 (4:00pm)
+
+    * [Coming To America](https://drafthouse.com/raleigh/show/coming-to-america): Fri 1/31 (12:15pm)
+
+    * [Companion](https://drafthouse.com/raleigh/show/companion): Mon 2/3 (4:00pm, 7:00pm, 10:00pm), Tue 2/4 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Wed 2/5 (4:00pm, 7:00pm, 10:00pm)
+
+    * [Den Of Thieves 2 Pantera](https://drafthouse.com/raleigh/show/den-of-thieves-2-pantera): Thu 1/30 (3:00pm, 6:30pm, 10:00pm), Fri 1/31 (7:00pm, 9:45pm), Sat 2/1 (3:00pm, 7:00pm, 9:15pm), Sun 2/2 (8:15pm, 9:30pm), Mon 2/3 (6:15pm, 10:15pm), Tue 2/4 (7:45pm, 9:15pm), Wed 2/5 (2:45pm, 6:15pm, 10:15pm)
+
+    * [Dog Man](https://drafthouse.com/raleigh/show/dog-man): Thu 1/30 (5:00pm), Fri 1/31 (2:30pm, 5:30pm, 8:15pm), Sat 2/1 (11:30am, 2:30pm, 5:30pm, 8:30pm), Sun 2/2 (2:00pm, 5:00pm, 8:00pm), Mon 2/3 (3:15pm, 5:00pm, 6:00pm, 8:00pm, 9:00pm), Tue 2/4 (12:15pm, 2:00pm, 3:00pm, 5:00pm, 6:00pm, 9:00pm), Wed 2/5 (3:00pm, 5:00pm, 6:00pm, 8:00pm, 9:00pm)
+
+    * [Eternal Sunshine Of The Spotless Mind](https://drafthouse.com/raleigh/show/eternal-sunshine-of-the-spotless-mind): Sat 2/1 (12:45pm), Mon 2/3 (2:30pm)
+
+    * [Flight Risk](https://drafthouse.com/raleigh/show/flight-risk): Thu 1/30 (4:30pm, 7:15pm, 9:45pm), Fri 1/31 (2:15pm, 4:50pm, 7:45pm, 10:30pm), Sat 2/1 (12:15pm, 4:15pm, 7:15pm, 10:30pm), Sun 2/2 (1:30pm, 4:15pm, 7:15pm, 9:45pm), Mon 2/3 (3:45pm, 6:15pm, 9:30pm), Tue 2/4 (2:15pm, 4:50pm, 7:30pm, 10:15pm), Wed 2/5 (3:45pm, 6:15pm, 9:30pm)
+
+    * [Groundhog Day](https://drafthouse.com/raleigh/show/groundhog-day): Tue 2/4 (2:15pm)
+
+    * [Mufasa The Lion King](https://drafthouse.com/raleigh/show/mufasa-the-lion-king): Thu 1/30 (2:30pm, 6:00pm, 10:30pm), Fri 1/31 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sat 2/1 (12:00pm, 6:30pm, 9:30pm), Sun 2/2 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Mon 2/3 (3:00pm, 6:00pm, 9:15pm), Tue 2/4 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Wed 2/5 (3:00pm, 6:00pm, 9:15pm)
+
+    * [Nosferatu 2024](https://drafthouse.com/raleigh/show/nosferatu-2024): Thu 1/30 (4:00pm, 7:15pm, 9:00pm), Fri 1/31 (1:00pm, 4:15pm, 7:30pm, 10:45pm), Sat 2/1 (12:45pm, 4:15pm, 7:30pm, 10:45pm), Sun 2/2 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Mon 2/3 (4:00pm, 7:15pm, 10:30pm), Tue 2/4 (1:00pm, 4:15pm, 7:30pm, 10:45pm), Wed 2/5 (4:00pm, 7:15pm, 10:30pm)
+
+    * [One Of Them Days](https://drafthouse.com/raleigh/show/one-of-them-days): Thu 1/30 (3:30pm, 8:00pm, 10:15pm), Fri 1/31 (2:00pm, 4:45pm, 6:30pm, 10:30pm), Sat 2/1 (1:00pm, 4:30pm, 6:00pm, 9:00pm), Sun 2/2 (1:00pm, 4:00pm, 6:45pm, 10:45pm), Mon 2/3 (4:45pm, 7:30pm, 9:45pm), Tue 2/4 (1:15pm, 5:45pm, 7:45pm, 11:00pm), Wed 2/5 (4:45pm, 7:30pm, 9:45pm)
+
+    * [Presence](https://drafthouse.com/raleigh/show/presence): Thu 1/30 (4:30pm, 7:00pm, 9:15pm), Fri 1/31 (1:15pm, 4:15pm, 7:15pm, 10:35pm), Sat 2/1 (11:15am, 3:30pm, 6:30pm, 9:45pm), Sun 2/2 (1:15pm, 3:45pm, 6:30pm, 9:15pm), Mon 2/3 (4:45pm, 7:30pm, 10:15pm), Tue 2/4 (1:15pm, 4:15pm, 6:45pm, 10:30pm), Wed 2/5 (4:45pm, 7:30pm, 10:15pm)
+
+    * [Se7en](https://drafthouse.com/raleigh/show/se7en): Sat 2/1 (7:30pm), Sun 2/2 (7:30pm), Mon 2/3 (3:00pm), Tue 2/4 (4:00pm), Wed 2/5 (3:15pm)
+
+    * [The Brutalist](https://drafthouse.com/raleigh/show/the-brutalist): Thu 1/30 (3:30pm, 8:15pm, 9:30pm), Fri 1/31 (1:15pm, 6:00pm, 8:00pm), Sat 2/1 (11:00am, 3:45pm, 8:15pm), Sun 2/2 (11:30am, 4:15pm, 8:45pm), Mon 2/3 (3:45pm, 8:30pm, 9:15pm), Tue 2/4 (1:30pm, 6:15pm, 8:30pm), Wed 2/5 (3:45pm, 8:30pm)
+
+    * [The Lord Of The Rings The Fellowship Of The Ring Extended Edition](https://drafthouse.com/raleigh/show/the-lord-of-the-rings-the-fellowship-of-the-ring-extended-edition): Fri 1/31 (2:00pm)
+
+    * [The Lord Of The Rings The Two Towers Extended Edition 2](https://drafthouse.com/raleigh/show/the-lord-of-the-rings-the-two-towers-extended-edition-2): Sun 2/2 (2:45pm), Tue 2/4 (1:30pm)
+
+    * [Wolf Man 2025](https://drafthouse.com/raleigh/show/wolf-man-2025): Thu 1/30 (10:45pm), Fri 1/31 (11:00pm), Sat 2/1 (10:45pm), Sun 2/2 (10:45pm), Mon 2/3 (10:45pm), Wed 2/5 (10:45pm)
+
 ### Fri 1/24 9:22am
 * New movies: Heart Eyes
 
