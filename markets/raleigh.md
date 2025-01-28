@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Tue 1/28 1:30pm
+* New movies: Luther: Never Too Much
+
+* New screenings: 
+    * [Captain America Brave New World](https://drafthouse.com/raleigh/show/captain-america-brave-new-world): Mon 2/17 (12:30pm, 3:30pm, 6:35pm, 9:40pm)
+
+    * [Luther Never Too Much](https://drafthouse.com/raleigh/show/luther-never-too-much): Wed 2/26 (6:30pm)
+
 ### Tue 1/28 12:20pm
 * New movies: Bridesmaids
 
