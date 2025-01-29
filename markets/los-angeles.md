@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 1/28 10:26pm
+
+* New screenings: 
+    * [The Lord Of The Rings The Return Of The King Extended Edition](https://drafthouse.com/los-angeles/show/the-lord-of-the-rings-the-return-of-the-king-extended-edition): Sat 2/8 (2:00pm)
+
 ### Tue 1/28 5:26pm
 
 * New screenings: 
