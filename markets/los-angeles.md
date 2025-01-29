@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 1/28 5:26pm
+
+* New screenings: 
+    * [Captain America Brave New World](https://drafthouse.com/los-angeles/show/captain-america-brave-new-world): Tue 2/18 (6:15pm, 9:10pm)
+
 ### Mon 1/27 7:20pm
 * New movies: Dark Match, Popstar: Never Stop Never Stopping, Groundhog Day
 
