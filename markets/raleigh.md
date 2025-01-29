@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 1/29 3:24pm
+* New movies: Becoming Led Zeppelin
+
+* New screenings: 
+    * [Becoming Led Zeppelin](https://drafthouse.com/raleigh/show/becoming-led-zeppelin): Fri 2/14 (8:00pm), Sun 2/16 (8:00pm), Mon 2/17 (8:00pm)
+
 ### Wed 1/29 12:21pm
 * New movies: Paddington in Peru
 
