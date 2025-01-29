@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 1/29 12:21pm
+* New movies: Paddington in Peru
+
+* New screenings: 
+    * [Family Party Paddington In Peru](https://drafthouse.com/raleigh/show/family-party-paddington-in-peru): Sat 2/15 (12:00pm)
+
 ### Wed 1/29 9:22am
 * New movies: Paddington in Peru, Paddington in Peru
 
