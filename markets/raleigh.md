@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Wed 1/29 9:22am
+* New movies: Paddington in Peru, Paddington in Peru
+
+* New screenings: 
+    * [Movie Party Paddington In Peru](https://drafthouse.com/raleigh/show/movie-party-paddington-in-peru): Sat 2/15 (12:00pm)
+
+    * [Paddington In Peru](https://drafthouse.com/raleigh/show/paddington-in-peru): Thu 2/13 (3:00pm, 6:00pm, 9:00pm), Fri 2/14 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 2/15 (3:00pm, 6:00pm, 9:00pm), Sun 2/16 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Mon 2/17 (12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
 ### Tue 1/28 1:30pm
 * New movies: Luther: Never Too Much
 
