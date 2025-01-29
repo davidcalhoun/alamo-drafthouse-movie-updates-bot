@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 1/29 1:17pm
+* New movies: Becoming Led Zeppelin
+
+* New screenings: 
+    * [Becoming Led Zeppelin](https://drafthouse.com/los-angeles/show/becoming-led-zeppelin): Fri 2/14 (5:30pm, 8:40pm), Sat 2/15 (5:30pm, 8:45pm), Sun 2/16 (5:30pm)
+
+    * [Captain America Brave New World](https://drafthouse.com/los-angeles/show/captain-america-brave-new-world): Thu 2/13 (4:00pm, 7:10pm, 10:20pm), Fri 2/14 (12:50pm, 4:00pm, 7:10pm, 10:20pm), Sat 2/15 (12:50pm, 4:00pm, 7:10pm, 10:20pm), Sun 2/16 (12:50pm, 4:00pm, 7:10pm)
+
 ### Wed 1/29 6:17am
 * New movies: Paddington in Peru, Paddington in Peru, Paddington in Peru
 
