@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Wed 1/29 6:17am
+* New movies: Paddington in Peru, Paddington in Peru, Paddington in Peru
+
+* New screenings: 
+    * [Family Party Paddington In Peru](https://drafthouse.com/los-angeles/show/family-party-paddington-in-peru): Sun 2/16 (12:45pm)
+
+    * [Movie Party Paddington In Peru](https://drafthouse.com/los-angeles/show/movie-party-paddington-in-peru): Sat 2/15 (8:30pm)
+
+    * [Paddington In Peru](https://drafthouse.com/los-angeles/show/paddington-in-peru): Thu 2/13 (3:20pm, 6:15pm, 9:10pm), Fri 2/14 (12:25pm, 3:20pm, 6:15pm, 9:10pm), Sat 2/15 (12:25pm, 3:20pm, 6:15pm, 9:10pm), Sun 2/16 (12:25pm, 3:20pm, 6:15pm), Mon 2/17 (12:25pm, 3:20pm, 6:15pm, 9:10pm), Tue 2/18 (12:25pm, 3:20pm, 6:00pm, 9:25pm), Wed 2/19 (12:25pm, 3:20pm, 6:15pm, 9:10pm)
+
 ### Tue 1/28 10:26pm
 
 * New screenings: 
