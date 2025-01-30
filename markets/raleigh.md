@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Thu 1/30 9:23am
+* New movies: The Monkey, The Monkey, The Monkey
+
+* New screenings: 
+    * [Livestream Q A The Monkey](https://drafthouse.com/raleigh/show/livestream-q-a-the-monkey): Mon 2/10 (9:00pm)
+
+    * [Psycho Cinema The Monkey](https://drafthouse.com/raleigh/show/psycho-cinema-the-monkey): Thu 2/20 (7:00pm, 10:00pm), Fri 2/21 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sat 2/22 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sun 2/23 (1:00pm, 4:00pm, 7:00pm, 10:00pm)
+
 ### Wed 1/29 3:24pm
 * New movies: Becoming Led Zeppelin
 
