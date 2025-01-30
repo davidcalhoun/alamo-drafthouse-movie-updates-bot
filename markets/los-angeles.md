@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 1/30 6:18am
+* New movies: The Monkey, The Monkey, The Monkey
+
+* New screenings: 
+    * [Livestream Q A The Monkey](https://drafthouse.com/los-angeles/show/livestream-q-a-the-monkey): Mon 2/10 (6:00pm)
+
+    * [Psycho Cinema The Monkey](https://drafthouse.com/los-angeles/show/psycho-cinema-the-monkey): Thu 2/20 (7:30pm, 10:20pm), Fri 2/21 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Sat 2/22 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Sun 2/23 (11:00am, 1:50pm, 4:40pm, 7:30pm), Mon 2/24 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm)
+
 ### Wed 1/29 1:17pm
 * New movies: Becoming Led Zeppelin
 
