@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 1/30 7:20am
+* New movies: Bring Them Down
+
+* New screenings: 
+    * [Bring Them Down](https://drafthouse.com/los-angeles/show/bring-them-down): Thu 2/6 (6:30pm, 9:25pm), Fri 2/7 (12:40pm, 3:35pm, 6:30pm, 9:25pm), Sat 2/8 (12:40pm, 3:35pm, 6:30pm, 9:25pm), Sun 2/9 (12:40pm, 3:35pm, 6:30pm), Mon 2/10 (12:40pm, 3:35pm, 6:30pm, 9:25pm), Tue 2/11 (12:40pm, 3:35pm, 6:30pm, 9:25pm), Wed 2/12 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:25pm)
+
 ### Thu 1/30 6:18am
 * New movies: The Monkey, The Monkey, The Monkey
 
