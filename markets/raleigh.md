@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Fri 1/31 10:27pm
+
+* New screenings: 
+    * [Dog Man](https://drafthouse.com/raleigh/show/dog-man): Sun 2/2 (7:15pm)
+
+    * [Se7en](https://drafthouse.com/raleigh/show/se7en): Sat 2/1 (9:15pm)
+
 ### Thu 1/30 9:23am
 * New movies: The Monkey, The Monkey, The Monkey
 
