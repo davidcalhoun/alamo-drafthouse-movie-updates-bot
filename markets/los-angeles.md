@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Sat 2/1 3:14am
+* New movies: Memoir of a Snail
+
+* New screenings: 
+    * [Livestream Q A Memoir Of A Snail W Pre Recorded Q A](https://drafthouse.com/los-angeles/show/livestream-q-a-memoir-of-a-snail-w-pre-recorded-q-a): Tue 2/11 (4:10pm)
+
 ### Thu 1/30 7:20am
 * New movies: Bring Them Down
 
