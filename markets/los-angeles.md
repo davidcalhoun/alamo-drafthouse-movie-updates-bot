@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 2/3 8:24am
+* New movies: Hans Zimmer & Friends: Diamonds in the Desert
+
+* New screenings: 
+    * [Hans Zimmer And Friends Diamonds In The Desert](https://drafthouse.com/los-angeles/show/hans-zimmer-and-friends-diamonds-in-the-desert): Wed 3/19 (6:30pm), Sun 3/23 (1:00pm)
+
 ### Sat 2/1 3:14am
 * New movies: Memoir of a Snail
 
