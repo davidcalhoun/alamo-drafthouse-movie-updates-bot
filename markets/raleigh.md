@@ -1,6 +1,41 @@
 # raleigh
 
 ## Movie updates
+### Mon 2/3 6:21pm
+
+* New screenings: 
+    * [About Time](https://drafthouse.com/raleigh/show/about-time): Fri 2/7 (10:15pm), Sat 2/8 (2:15pm), Sun 2/9 (2:00pm, 4:45pm), Mon 2/10 (3:30pm), Wed 2/12 (3:30pm)
+
+    * [Companion](https://drafthouse.com/raleigh/show/companion): Thu 2/6 (4:30pm, 7:15pm, 10:15pm), Fri 2/7 (2:00pm, 4:45pm, 7:30pm, 10:30pm), Sat 2/8 (12:30pm, 3:45pm, 6:30pm, 9:30pm), Sun 2/9 (12:30pm, 3:45pm, 6:30pm, 9:30pm), Mon 2/10 (3:15pm, 7:30pm, 10:30pm), Tue 2/11 (2:15pm, 5:00pm, 7:45pm, 10:25pm), Wed 2/12 (3:15pm, 7:30pm, 10:30pm)
+
+    * [Dog Man](https://drafthouse.com/raleigh/show/dog-man): Thu 2/6 (3:00pm, 5:00pm, 6:00pm, 8:00pm, 9:00pm), Fri 2/7 (12:30pm, 2:30pm, 3:30pm, 6:15pm, 9:00pm), Sat 2/8 (11:30am, 2:00pm, 3:15pm, 6:00pm, 9:00pm), Sun 2/9 (11:00am, 2:00pm, 3:15pm, 6:00pm, 9:00pm), Mon 2/10 (2:45pm, 4:30pm, 5:30pm, 6:00pm, 9:00pm), Tue 2/11 (12:15pm, 1:15pm, 3:00pm, 4:00pm, 6:00pm, 9:00pm), Wed 2/12 (2:45pm, 4:30pm, 5:25pm, 6:00pm, 9:00pm)
+
+    * [Eternal Sunshine Of The Spotless Mind](https://drafthouse.com/raleigh/show/eternal-sunshine-of-the-spotless-mind): Thu 2/6 (3:30pm), Sat 2/8 (10:15pm)
+
+    * [Flight Risk](https://drafthouse.com/raleigh/show/flight-risk): Thu 2/6 (4:00pm, 6:45pm, 9:30pm), Fri 2/7 (2:00pm, 4:45pm, 7:30pm, 10:15pm), Sat 2/8 (12:45pm, 4:45pm, 7:45pm, 10:30pm), Sun 2/9 (12:45pm, 4:45pm, 7:45pm, 10:30pm), Mon 2/10 (4:45pm, 7:30pm, 10:15pm), Tue 2/11 (1:00pm, 4:55pm, 7:45pm, 10:00pm), Wed 2/12 (4:45pm, 7:30pm, 10:15pm)
+
+    * [Heart Eyes](https://drafthouse.com/raleigh/show/heart-eyes): Thu 2/6 (10:00pm), Fri 2/7 (1:30pm, 4:15pm, 10:00pm), Sat 2/8 (1:00pm, 10:00pm), Sun 2/9 (1:00pm, 10:00pm), Mon 2/10 (4:00pm, 7:00pm, 10:00pm), Tue 2/11 (1:30pm, 4:15pm, 7:00pm, 9:45pm), Wed 2/12 (4:00pm, 7:00pm, 10:00pm)
+
+    * [Love Hurts](https://drafthouse.com/raleigh/show/love-hurts): Fri 2/7 (12:30pm, 3:15pm), Mon 2/10 (3:00pm, 6:00pm, 9:30pm), Tue 2/11 (12:30pm, 3:30pm, 6:00pm, 9:00pm), Wed 2/12 (3:00pm, 6:00pm, 9:00pm)
+
+    * [Mufasa The Lion King](https://drafthouse.com/raleigh/show/mufasa-the-lion-king): Thu 2/6 (3:15pm, 6:15pm, 9:15pm), Fri 2/7 (12:00pm, 3:00pm, 6:15pm, 9:15pm), Sat 2/8 (11:00am, 2:45pm, 6:15pm, 9:15pm), Sun 2/9 (11:00am, 2:45pm, 6:15pm, 9:15pm), Mon 2/10 (3:30pm, 6:30pm, 9:30pm), Tue 2/11 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Wed 2/12 (3:30pm, 6:30pm, 9:30pm)
+
+    * [Nosferatu 2024](https://drafthouse.com/raleigh/show/nosferatu-2024): Thu 2/6 (3:45pm, 7:15pm, 9:45pm), Fri 2/7 (12:15pm, 4:00pm, 7:15pm, 10:30pm), Sat 2/8 (11:45am, 3:15pm, 6:45pm, 10:00pm), Sun 2/9 (11:45am, 3:15pm, 6:45pm, 10:00pm), Mon 2/10 (2:45pm, 6:15pm, 9:30pm), Tue 2/11 (1:40pm, 3:30pm, 6:45pm, 9:30pm), Wed 2/12 (2:45pm, 6:15pm, 9:30pm)
+
+    * [One Of Them Days](https://drafthouse.com/raleigh/show/one-of-them-days): Thu 2/6 (4:45pm, 7:45pm, 10:30pm), Fri 2/7 (1:30pm, 4:15pm, 7:00pm, 9:45pm), Sat 2/8 (12:45pm, 4:15pm, 7:15pm, 10:15pm), Sun 2/9 (12:45pm, 4:15pm, 7:15pm, 10:15pm), Mon 2/10 (4:30pm, 7:15pm, 10:00pm), Tue 2/11 (2:00pm, 4:45pm, 7:30pm, 10:15pm), Wed 2/12 (4:30pm, 7:15pm, 10:00pm)
+
+    * [Presence](https://drafthouse.com/raleigh/show/presence): Thu 2/6 (4:15pm, 7:00pm, 10:45pm), Fri 2/7 (1:15pm, 3:45pm, 6:30pm, 9:30pm), Sat 2/8 (1:00pm, 3:45pm, 7:00pm, 9:30pm), Sun 2/9 (1:00pm, 3:45pm, 7:00pm, 9:30pm), Mon 2/10 (4:15pm, 7:00pm, 9:45pm), Tue 2/11 (1:15pm, 4:00pm, 6:30pm, 10:30pm), Wed 2/12 (4:15pm, 7:00pm, 9:45pm)
+
+    * [Se7en](https://drafthouse.com/raleigh/show/se7en): Thu 2/6 (9:30pm), Sun 2/9 (9:45pm)
+
+    * [The Brutalist](https://drafthouse.com/raleigh/show/the-brutalist): Fri 2/7 (5:15pm), Sat 2/8 (5:15pm), Sun 2/9 (5:00pm), Mon 2/10 (8:15pm), Tue 2/11 (6:45pm), Wed 2/12 (8:00pm)
+
+    * [The Golden Child](https://drafthouse.com/raleigh/show/the-golden-child): Wed 2/12 (6:30pm)
+
+    * [The Lord Of The Rings The Return Of The King Extended Edition](https://drafthouse.com/raleigh/show/the-lord-of-the-rings-the-return-of-the-king-extended-edition): Fri 2/7 (8:00pm), Sat 2/8 (7:30pm), Sun 2/9 (7:45pm), Tue 2/11 (1:00pm)
+
+    * [Wolf Man 2025](https://drafthouse.com/raleigh/show/wolf-man-2025): Thu 2/6 (10:45pm)
+
 ### Mon 2/3 5:22pm
 * New movies: No Other Land, Hans Zimmer & Friends: Diamonds in the Desert
 
