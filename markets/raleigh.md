@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Mon 2/3 5:22pm
+* New movies: No Other Land, Hans Zimmer & Friends: Diamonds in the Desert
+
+* New screenings: 
+    * [Hans Zimmer And Friends Diamonds In The Desert](https://drafthouse.com/raleigh/show/hans-zimmer-and-friends-diamonds-in-the-desert): Wed 3/19 (6:00pm), Sun 3/23 (3:30pm)
+
+    * [No Other Land](https://drafthouse.com/raleigh/show/no-other-land): Fri 2/21 (3:30pm, 6:30pm), Sat 2/22 (3:00pm, 5:45pm), Sun 2/23 (12:30pm, 6:30pm)
+
 ### Fri 1/31 10:27pm
 
 * New screenings: 
