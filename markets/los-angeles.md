@@ -1,6 +1,54 @@
 # los-angeles
 
 ## Movie updates
+### Mon 2/3 2:17pm
+* New movies: Scott Pilgrim vs. the World, Armand
+
+* New screenings: 
+    * [About Time](https://drafthouse.com/los-angeles/show/about-time): Mon 2/10 (12:35pm)
+
+    * [Anomalisa](https://drafthouse.com/los-angeles/show/anomalisa): Fri 2/7 (11:00am), Sun 2/9 (11:00am), Tue 2/11 (10:40pm)
+
+    * [Armand](https://drafthouse.com/los-angeles/show/armand): Wed 2/12 (8:00pm)
+
+    * [Bones And All](https://drafthouse.com/los-angeles/show/bones-and-all): Fri 2/7 (4:35pm), Sun 2/9 (7:10pm), Mon 2/10 (3:50pm)
+
+    * [Bring Them Down](https://drafthouse.com/los-angeles/show/bring-them-down): Mon 2/10 (12:00pm, 3:00pm), Wed 2/12 (7:30pm, 10:25pm)
+
+    * [Candyman 1992](https://drafthouse.com/los-angeles/show/candyman-1992): Thu 2/6 (10:00pm)
+
+    * [Companion](https://drafthouse.com/los-angeles/show/companion): Thu 2/6 (3:30pm, 6:20pm, 9:10pm), Fri 2/7 (10:45am, 1:30pm, 4:15pm, 8:00pm), Sat 2/8 (11:30am, 2:20pm, 5:10pm, 8:00pm, 10:45pm), Sun 2/9 (11:30am, 2:20pm, 5:10pm, 8:00pm), Mon 2/10 (12:20pm, 3:10pm, 7:25pm, 9:10pm), Tue 2/11 (11:30am, 2:20pm, 5:10pm, 8:00pm, 10:20pm), Wed 2/12 (11:00am, 1:45pm, 4:30pm, 6:00pm, 10:00pm)
+
+    * [Dog Man](https://drafthouse.com/los-angeles/show/dog-man): Thu 2/6 (3:10pm, 6:00pm, 8:45pm), Fri 2/7 (12:30pm, 3:15pm, 6:00pm, 8:45pm), Sat 2/8 (12:20pm, 3:10pm, 6:00pm, 8:45pm), Sun 2/9 (12:20pm, 3:10pm, 6:00pm), Mon 2/10 (12:00pm, 4:15pm, 6:20pm, 9:00pm), Tue 2/11 (12:20pm, 3:10pm, 6:00pm, 8:45pm), Wed 2/12 (12:25pm, 3:10pm, 6:00pm, 8:45pm)
+
+    * [Eternal Sunshine Of The Spotless Mind](https://drafthouse.com/los-angeles/show/eternal-sunshine-of-the-spotless-mind): Thu 2/6 (7:00pm), Tue 2/11 (10:20pm), Wed 2/12 (11:20am)
+
+    * [Flight Risk](https://drafthouse.com/los-angeles/show/flight-risk): Thu 2/6 (2:20pm)
+
+    * [Heart Eyes](https://drafthouse.com/los-angeles/show/heart-eyes): Mon 2/10 (10:40pm)
+
+    * [Im Still Here 2025](https://drafthouse.com/los-angeles/show/im-still-here-2025): Thu 2/6 (2:40pm, 6:10pm, 9:40pm), Fri 2/7 (11:10am, 2:35pm, 6:00pm, 9:30pm), Sat 2/8 (11:20am, 2:45pm, 6:10pm, 9:35pm), Sun 2/9 (11:10am, 2:40pm, 6:10pm), Mon 2/10 (12:10pm, 3:40pm, 7:10pm, 10:15pm), Tue 2/11 (11:20am, 2:45pm, 6:10pm, 9:35pm), Wed 2/12 (11:20am, 2:30pm, 9:00pm)
+
+    * [Love Hurts](https://drafthouse.com/los-angeles/show/love-hurts): Mon 2/10 (10:25pm)
+
+    * [Nosferatu 2024](https://drafthouse.com/los-angeles/show/nosferatu-2024): Thu 2/6 (3:25pm, 6:50pm, 10:10pm), Fri 2/7 (11:30am, 2:55pm, 6:20pm, 10:00pm), Sat 2/8 (12:10pm, 3:35pm, 7:00pm, 9:45pm), Sun 2/9 (12:10pm, 3:35pm, 7:00pm), Mon 2/10 (12:50pm, 2:50pm, 7:00pm, 9:20pm), Tue 2/11 (12:10pm, 3:35pm, 7:00pm, 9:45pm), Wed 2/12 (12:10pm, 3:35pm, 7:00pm, 9:10pm)
+
+    * [One Of Them Days](https://drafthouse.com/los-angeles/show/one-of-them-days): Thu 2/6 (3:50pm, 6:40pm, 9:30pm), Fri 2/7 (12:30pm, 3:20pm, 6:10pm, 9:00pm), Sat 2/8 (12:35pm, 3:25pm, 6:20pm, 9:10pm), Sun 2/9 (12:40pm, 3:30pm, 6:20pm), Mon 2/10 (12:30pm, 3:20pm, 6:10pm, 9:00pm), Tue 2/11 (12:40pm, 3:30pm, 6:20pm, 9:10pm), Wed 2/12 (12:30pm, 3:20pm, 6:10pm, 9:00pm)
+
+    * [Presence](https://drafthouse.com/los-angeles/show/presence): Thu 2/6 (2:50pm, 5:25pm, 8:00pm, 10:35pm), Fri 2/7 (11:35am, 2:10pm, 4:45pm, 7:20pm, 10:50pm), Sat 2/8 (11:25am, 2:00pm, 4:35pm, 7:10pm, 10:25pm), Sun 2/9 (11:35am, 2:10pm, 4:45pm, 7:20pm), Mon 2/10 (11:35am, 2:10pm, 4:50pm, 10:15pm), Tue 2/11 (11:25am, 2:00pm, 4:35pm, 7:10pm, 10:45pm), Wed 2/12 (1:10pm, 3:50pm, 6:30pm, 10:20pm)
+
+    * [Scott Pilgrim Vs The World](https://drafthouse.com/los-angeles/show/scott-pilgrim-vs-the-world): Fri 2/7 (9:45pm), Tue 2/11 (1:00pm), Wed 2/12 (5:00pm)
+
+    * [Se7en](https://drafthouse.com/los-angeles/show/se7en): Thu 2/6 (5:00pm), Fri 2/7 (10:00pm), Sat 2/8 (9:50pm), Sun 2/9 (7:45pm), Mon 2/10 (10:00pm), Wed 2/12 (8:45pm)
+
+    * [The Brutalist](https://drafthouse.com/los-angeles/show/the-brutalist): Thu 2/6 (2:45pm, 7:30pm), Fri 2/7 (11:00am, 3:45pm, 8:30pm), Sat 2/8 (11:00am, 3:45pm, 8:30pm), Sun 2/9 (1:00pm, 5:45pm), Mon 2/10 (11:00am, 3:45pm, 8:45pm), Tue 2/11 (11:00am, 3:45pm, 8:30pm), Wed 2/12 (12:15pm, 2:50pm, 7:40pm)
+
+    * [The Lord Of The Rings The Return Of The King Extended Edition](https://drafthouse.com/los-angeles/show/the-lord-of-the-rings-the-return-of-the-king-extended-edition): Fri 2/7 (11:10am), Sat 2/8 (11:00am, 4:25pm, 7:25pm), Sun 2/9 (1:45pm), Mon 2/10 (1:00pm, 8:30pm), Tue 2/11 (11:50am, 5:15pm), Wed 2/12 (12:00pm)
+
+    * [The Lord Of The Rings The Two Towers Extended Edition 2](https://drafthouse.com/los-angeles/show/the-lord-of-the-rings-the-two-towers-extended-edition-2): Thu 2/6 (2:00pm, 8:20pm)
+
+    * [Wolf Man 2025](https://drafthouse.com/los-angeles/show/wolf-man-2025): Thu 2/6 (3:35pm)
+
 ### Mon 2/3 8:24am
 * New movies: Hans Zimmer & Friends: Diamonds in the Desert
 
