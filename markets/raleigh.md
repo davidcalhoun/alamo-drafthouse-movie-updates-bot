@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 2/4 4:21pm
+
+* New screenings: 
+    * [Captain America Brave New World](https://drafthouse.com/raleigh/show/captain-america-brave-new-world): Thu 2/13 (4:00pm, 7:00pm, 10:15pm), Fri 2/14 (1:00pm, 4:00pm, 7:00pm, 10:15pm), Sat 2/15 (1:00pm, 4:00pm, 7:00pm, 10:15pm), Sun 2/16 (1:00pm, 4:00pm, 7:00pm, 10:15pm), Mon 2/17 (1:00pm, 4:00pm, 7:00pm, 10:00pm)
+
 ### Mon 2/3 6:21pm
 
 * New screenings: 
