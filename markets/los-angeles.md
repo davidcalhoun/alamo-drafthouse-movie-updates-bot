@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 2/4 8:25am
+* New movies: Love Hurts
+
+* New screenings: 
+    * [Live Q A Love Hurts](https://drafthouse.com/los-angeles/show/live-q-a-love-hurts): Fri 2/7 (7:00pm)
+
 ### Tue 2/4 7:21am
 * New movies: Hell or High Water
 
