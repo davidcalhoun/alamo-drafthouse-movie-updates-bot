@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 2/4 7:21am
+* New movies: Hell or High Water
+
+* New screenings: 
+    * [Free Victory Screening Hell Or High Water](https://drafthouse.com/los-angeles/show/free-victory-screening-hell-or-high-water): Tue 2/18 (6:30pm)
+
 ### Mon 2/3 2:17pm
 * New movies: Scott Pilgrim vs. the World, Armand
 
