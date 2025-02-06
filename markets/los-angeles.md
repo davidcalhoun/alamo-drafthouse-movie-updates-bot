@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Wed 2/5 7:22pm
+* New movies: The Nutty Professor 1996
+
+* New screenings: 
+    * [Companion](https://drafthouse.com/los-angeles/show/companion): Fri 2/7 (9:40pm)
+
+    * [Love Hurts](https://drafthouse.com/los-angeles/show/love-hurts): Fri 2/7 (7:00pm)
+
+    * [The Nutty Professor 1996](https://drafthouse.com/los-angeles/show/the-nutty-professor-1996): Wed 2/19 (7:45pm)
+
 ### Wed 2/5 6:48pm
 * New movies: Invader 2024
 
