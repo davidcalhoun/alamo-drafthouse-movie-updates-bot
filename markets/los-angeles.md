@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Wed 2/5 6:48pm
+* New movies: Invader 2024
+
+* New screenings: 
+    * [Armand](https://drafthouse.com/los-angeles/show/armand): Fri 2/14 (11:15am)
+
+    * [Halloween Iii Season Of The Witch](https://drafthouse.com/los-angeles/show/halloween-iii-season-of-the-witch): Wed 2/19 (10:15pm)
+
+    * [Invader 2024](https://drafthouse.com/los-angeles/show/invader-2024): Mon 2/24 (9:20pm)
+
 ### Tue 2/4 8:25am
 * New movies: Love Hurts
 
