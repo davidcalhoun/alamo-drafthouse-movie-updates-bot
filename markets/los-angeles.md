@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 2/7 1:20am
+* New movies: Last Breath
+
+* New screenings: 
+    * [Last Breath](https://drafthouse.com/los-angeles/show/last-breath): Thu 2/27 (2:15pm, 5:00pm, 7:45pm, 10:30pm), Fri 2/28 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sat 3/1 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sun 3/2 (11:30am, 2:15pm, 5:00pm, 7:45pm), Mon 3/3 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Tue 3/4 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Wed 3/5 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm)
+
 ### Fri 2/7 12:24am
 * New movies: On Cinema at the Cinema Special
 
