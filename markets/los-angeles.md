@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 2/7 12:24am
+* New movies: On Cinema at the Cinema Special
+
+* New screenings: 
+    * [On Cinema At The Cinema Special](https://drafthouse.com/los-angeles/show/on-cinema-at-the-cinema-special): Sun 3/2 (4:00pm)
+
 ### Wed 2/5 7:22pm
 * New movies: The Nutty Professor 1996
 
