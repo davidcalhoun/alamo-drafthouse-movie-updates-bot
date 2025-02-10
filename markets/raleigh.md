@@ -1,6 +1,18 @@
 # raleigh
 
 ## Movie updates
+### Mon 2/10 5:21pm
+* New movies: Last Breath, Armand, A Night To Dismember, BLADE II
+
+* New screenings: 
+    * [A Night To Dismember](https://drafthouse.com/raleigh/show/a-night-to-dismember): Tue 3/18 (9:30pm)
+
+    * [Armand](https://drafthouse.com/raleigh/show/armand): Fri 2/14 (12:45pm)
+
+    * [Last Breath](https://drafthouse.com/raleigh/show/last-breath): Thu 2/27 (3:30pm, 6:15pm, 9:00pm), Fri 2/28 (12:45pm, 3:30pm, 6:15pm, 9:00pm), Sat 3/1 (12:45pm, 3:30pm, 6:15pm, 9:00pm), Sun 3/2 (12:45pm, 3:30pm, 6:15pm, 9:00pm)
+
+    * [Terror Tuesday Blade Ii](https://drafthouse.com/raleigh/show/terror-tuesday-blade-ii): Tue 3/11 (9:30pm)
+
 ### Tue 2/4 4:21pm
 
 * New screenings: 
