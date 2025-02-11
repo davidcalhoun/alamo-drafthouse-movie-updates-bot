@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 2/11 2:18pm
+* New movies: Imagine Dragons: Live From the Hollywood Bowl with the LA Film Orchestra
+
+* New screenings: 
+    * [Imagine Dragons Live From The Hollywood Bowl With The La Film Orchestra](https://drafthouse.com/los-angeles/show/imagine-dragons-live-from-the-hollywood-bowl-with-the-la-film-orchestra): Wed 3/26 (6:00pm), Sat 3/29 (4:00pm)
+
 ### Mon 2/10 7:23pm
 * New movies: 2025 Oscar-Nominated Short Films: Animation, 2025 Oscar-Nominated Short Films: Live Action, The Wedding Singer
 
