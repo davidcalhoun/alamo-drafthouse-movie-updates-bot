@@ -1,6 +1,36 @@
 # raleigh
 
 ## Movie updates
+### Mon 2/10 8:48pm
+* New movies: Scott Pilgrim vs. the World, Imagine Dragons: Live From the Hollywood Bowl with the LA Film Orchestra, Godzilla vs. Megalon
+
+* New screenings: 
+    * [Becoming Led Zeppelin](https://drafthouse.com/raleigh/show/becoming-led-zeppelin): Sat 2/15 (8:00pm), Wed 2/19 (9:30pm)
+
+    * [Captain America Brave New World](https://drafthouse.com/raleigh/show/captain-america-brave-new-world): Thu 2/13 (4:30pm, 5:00pm, 10:45pm), Fri 2/14 (2:00pm, 2:30pm, 5:00pm, 5:30pm, 7:30pm, 8:00pm), Sat 2/15 (2:00pm, 2:30pm, 5:00pm, 5:30pm, 7:30pm, 8:00pm), Sun 2/16 (2:00pm, 2:30pm, 5:00pm, 5:30pm, 7:30pm, 8:00pm), Mon 2/17 (2:00pm, 2:30pm, 5:00pm, 5:30pm, 8:00pm), Tue 2/18 (12:30pm, 1:00pm, 2:00pm, 2:30pm, 3:30pm, 4:00pm, 5:00pm, 5:30pm, 6:30pm, 7:00pm, 10:00pm), Wed 2/19 (3:30pm, 4:00pm, 5:00pm, 5:30pm, 7:00pm, 8:00pm, 10:00pm)
+
+    * [Companion](https://drafthouse.com/raleigh/show/companion): Thu 2/13 (4:45pm, 7:45pm, 10:30pm), Fri 2/14 (2:00pm, 3:45pm, 6:45pm, 9:45pm), Sat 2/15 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Sun 2/16 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Mon 2/17 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Tue 2/18 (12:30pm, 3:45pm, 6:45pm, 9:45pm), Wed 2/19 (3:45pm, 6:45pm, 9:30pm)
+
+    * [Dog Man](https://drafthouse.com/raleigh/show/dog-man): Thu 2/13 (3:00pm, 6:00pm, 9:00pm), Fri 2/14 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 2/15 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sun 2/16 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Mon 2/17 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Tue 2/18 (12:00pm, 3:00pm, 6:15pm, 9:00pm), Wed 2/19 (3:00pm, 6:15pm, 9:00pm)
+
+    * [Heart Eyes](https://drafthouse.com/raleigh/show/heart-eyes): Thu 2/13 (3:15pm, 6:15pm, 9:15pm), Fri 2/14 (1:00pm, 3:45pm, 6:45pm, 9:45pm), Sat 2/15 (1:00pm, 3:45pm, 6:45pm, 9:45pm), Sun 2/16 (1:00pm, 3:45pm, 6:45pm, 9:45pm), Mon 2/17 (1:00pm, 3:45pm, 6:45pm, 9:45pm), Tue 2/18 (2:00pm, 3:15pm, 7:15pm, 9:45pm), Wed 2/19 (4:30pm, 7:30pm, 10:15pm)
+
+    * [Imagine Dragons Live From The Hollywood Bowl With The La Film Orchestra](https://drafthouse.com/raleigh/show/imagine-dragons-live-from-the-hollywood-bowl-with-the-la-film-orchestra): Wed 3/26 (6:30pm), Sat 3/29 (3:30pm)
+
+    * [Love Hurts](https://drafthouse.com/raleigh/show/love-hurts): Thu 2/13 (3:45pm, 6:45pm, 9:15pm), Fri 2/14 (1:45pm, 4:45pm, 7:45pm, 10:45pm), Sat 2/15 (1:45pm, 4:45pm, 7:45pm, 10:45pm), Sun 2/16 (1:45pm, 4:45pm, 7:45pm, 10:45pm), Mon 2/17 (1:45pm, 4:45pm, 7:45pm, 10:45pm), Tue 2/18 (1:30pm, 4:45pm, 8:00pm, 10:15pm), Wed 2/19 (4:45pm, 7:45pm, 10:15pm)
+
+    * [One Of Them Days](https://drafthouse.com/raleigh/show/one-of-them-days): Thu 2/13 (8:00pm, 10:45pm), Fri 2/14 (8:45pm, 10:30pm), Sat 2/15 (8:45pm, 10:30pm), Sun 2/16 (8:45pm, 10:30pm), Mon 2/17 (8:45pm, 10:30pm), Tue 2/18 (8:45pm, 10:30pm), Wed 2/19 (8:30pm, 10:00pm)
+
+    * [Paddington In Peru](https://drafthouse.com/raleigh/show/paddington-in-peru): Thu 2/13 (4:00pm, 5:45pm, 7:00pm, 8:30pm), Fri 2/14 (1:30pm, 4:30pm, 5:00pm), Sat 2/15 (1:30pm, 2:00pm, 4:30pm, 5:00pm), Sun 2/16 (1:30pm, 2:00pm, 4:30pm), Mon 2/17 (1:30pm, 2:00pm, 4:30pm, 5:00pm, 7:30pm), Tue 2/18 (12:00pm, 1:30pm, 3:00pm, 4:30pm, 5:00pm, 6:00pm, 7:30pm, 9:00pm), Wed 2/19 (3:00pm, 3:30pm, 4:00pm, 6:00pm, 6:30pm, 7:00pm, 9:00pm)
+
+    * [Presence](https://drafthouse.com/raleigh/show/presence): Thu 2/13 (11:15pm)
+
+    * [Queer Film Theory 101 Ghost 1990](https://drafthouse.com/raleigh/show/queer-film-theory-101-ghost-1990): Tue 2/18 (8:00pm)
+
+    * [Scott Pilgrim Vs The World](https://drafthouse.com/raleigh/show/scott-pilgrim-vs-the-world): Thu 2/13 (10:00pm)
+
+    * [Weird Wednesday Godzilla Vs Megalon 2](https://drafthouse.com/raleigh/show/weird-wednesday-godzilla-vs-megalon-2): Wed 3/19 (9:30pm)
+
 ### Mon 2/10 5:21pm
 * New movies: Last Breath, Armand, A Night To Dismember, BLADE II
 
