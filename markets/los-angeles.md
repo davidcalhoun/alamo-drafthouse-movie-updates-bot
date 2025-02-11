@@ -1,6 +1,48 @@
 # los-angeles
 
 ## Movie updates
+### Mon 2/10 7:23pm
+* New movies: 2025 Oscar-Nominated Short Films: Animation, 2025 Oscar-Nominated Short Films: Live Action, The Wedding Singer
+
+* New screenings: 
+    * [2025 Oscar Nominated Short Films Animation](https://drafthouse.com/los-angeles/show/2025-oscar-nominated-short-films-animation): Fri 2/14 (2:40pm), Sat 2/15 (11:40am), Sun 2/16 (2:40pm), Mon 2/17 (11:40am), Tue 2/18 (2:40pm), Wed 2/19 (11:45am)
+
+    * [2025 Oscar Nominated Short Films Live Action](https://drafthouse.com/los-angeles/show/2025-oscar-nominated-short-films-live-action): Fri 2/14 (11:40am), Sat 2/15 (2:25pm), Sun 2/16 (11:40am), Mon 2/17 (2:25pm), Tue 2/18 (11:40am), Wed 2/19 (2:30pm)
+
+    * [Armand](https://drafthouse.com/los-angeles/show/armand): Mon 2/17 (4:10pm), Wed 2/19 (4:10pm)
+
+    * [Becoming Led Zeppelin](https://drafthouse.com/los-angeles/show/becoming-led-zeppelin): Mon 2/17 (5:30pm, 8:45pm), Tue 2/18 (5:30pm, 8:45pm), Wed 2/19 (5:30pm, 8:45pm)
+
+    * [Bring Them Down](https://drafthouse.com/los-angeles/show/bring-them-down): Thu 2/13 (3:20pm), Fri 2/14 (2:15pm), Sat 2/15 (2:15pm), Sun 2/16 (2:15pm, 8:10pm), Mon 2/17 (2:15pm, 8:15pm), Tue 2/18 (2:15pm, 8:15pm), Wed 2/19 (2:20pm, 8:15pm)
+
+    * [Captain America Brave New World](https://drafthouse.com/los-angeles/show/captain-america-brave-new-world): Thu 2/13 (5:15pm, 9:40pm, 9:50pm, 10:40pm), Fri 2/14 (5:45pm, 8:15pm, 9:00pm), Sat 2/15 (6:00pm, 8:10pm, 9:10pm), Mon 2/17 (12:50pm, 4:00pm, 7:10pm, 9:45pm, 10:20pm), Tue 2/18 (12:30pm, 12:40pm, 3:50pm, 7:00pm, 9:10pm), Wed 2/19 (11:00am, 12:10pm, 3:50pm, 7:00pm, 10:10pm)
+
+    * [Companion](https://drafthouse.com/los-angeles/show/companion): Thu 2/13 (4:30pm, 7:20pm, 10:10pm), Fri 2/14 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Sat 2/15 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Sun 2/16 (11:00am, 1:50pm, 4:40pm, 7:30pm), Mon 2/17 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Tue 2/18 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Wed 2/19 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm)
+
+    * [Dog Man](https://drafthouse.com/los-angeles/show/dog-man): Thu 2/13 (2:25pm)
+
+    * [Heart Eyes](https://drafthouse.com/los-angeles/show/heart-eyes): Thu 2/13 (2:15pm, 5:00pm, 7:45pm, 10:35pm), Fri 2/14 (11:20am, 2:10pm, 5:00pm, 7:45pm, 10:30pm), Sat 2/15 (11:20am, 2:10pm, 5:00pm, 7:45pm, 10:30pm), Sun 2/16 (11:20am, 2:10pm, 5:00pm, 7:45pm), Mon 2/17 (11:20am, 2:10pm, 5:00pm, 7:45pm, 10:30pm), Tue 2/18 (11:20am, 2:10pm, 5:00pm, 7:45pm, 10:30pm), Wed 2/19 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm)
+
+    * [Love Hurts](https://drafthouse.com/los-angeles/show/love-hurts): Thu 2/13 (2:15pm, 4:45pm, 7:15pm, 10:25pm), Fri 2/14 (11:25am, 2:00pm, 4:40pm, 7:20pm, 10:00pm), Sat 2/15 (11:00am, 1:40pm, 4:20pm, 7:00pm, 9:35pm), Sun 2/16 (11:00am, 1:40pm, 4:20pm, 7:00pm), Mon 2/17 (11:25am, 2:00pm, 4:40pm, 7:20pm, 10:00pm), Tue 2/18 (11:25am, 2:00pm, 4:40pm, 7:20pm, 10:00pm), Wed 2/19 (11:40am, 2:00pm, 4:35pm, 7:10pm, 10:30pm)
+
+    * [No Other Land](https://drafthouse.com/los-angeles/show/no-other-land): Sat 2/15 (5:15pm), Sun 2/16 (2:50pm), Mon 2/17 (12:10pm, 3:00pm), Tue 2/18 (12:15pm, 3:40pm), Wed 2/19 (2:10pm, 5:00pm)
+
+    * [Nosferatu 2024](https://drafthouse.com/los-angeles/show/nosferatu-2024): Thu 2/13 (2:30pm)
+
+    * [One Of Them Days](https://drafthouse.com/los-angeles/show/one-of-them-days): Thu 2/13 (3:50pm, 6:45pm, 9:35pm), Fri 2/14 (1:00pm, 3:50pm, 6:40pm, 9:30pm), Sat 2/15 (1:00pm, 3:50pm, 6:40pm, 9:30pm), Sun 2/16 (1:00pm, 3:50pm, 6:40pm), Mon 2/17 (1:00pm, 3:50pm, 6:40pm, 9:30pm), Tue 2/18 (1:00pm, 3:50pm, 6:40pm, 9:30pm), Wed 2/19 (1:00pm, 3:50pm, 6:40pm, 9:30pm)
+
+    * [Paddington In Peru](https://drafthouse.com/los-angeles/show/paddington-in-peru): Thu 2/13 (8:30pm), Fri 2/14 (11:10am, 5:15pm), Sat 2/15 (11:10am, 3:00pm), Sun 2/16 (11:10am, 5:10pm, 7:20pm), Mon 2/17 (11:10am, 5:10pm), Tue 2/18 (11:10am, 3:00pm, 5:15pm), Wed 2/19 (11:00am, 5:15pm)
+
+    * [Presence](https://drafthouse.com/los-angeles/show/presence): Thu 2/13 (7:00pm, 10:30pm), Fri 2/14 (5:25pm, 8:00pm, 10:35pm), Sat 2/15 (5:25pm, 8:00pm, 10:40pm), Sun 2/16 (5:25pm, 8:00pm), Mon 2/17 (5:20pm, 8:00pm, 10:40pm), Tue 2/18 (5:25pm, 8:00pm, 10:40pm), Wed 2/19 (5:25pm, 8:00pm, 10:40pm)
+
+    * [Queer Film Theory 101 Ghost 1990](https://drafthouse.com/los-angeles/show/queer-film-theory-101-ghost-1990): Fri 2/14 (2:25pm), Mon 2/17 (5:45pm, 9:10pm), Tue 2/18 (9:00pm), Wed 2/19 (9:50pm)
+
+    * [Rounding](https://drafthouse.com/los-angeles/show/rounding): Mon 2/17 (10:15pm), Tue 2/18 (10:10pm)
+
+    * [The Brutalist](https://drafthouse.com/los-angeles/show/the-brutalist): Thu 2/13 (2:15pm), Fri 2/14 (12:40pm), Sat 2/15 (12:40pm), Sun 2/16 (12:40pm), Mon 2/17 (12:35pm), Tue 2/18 (12:40pm), Wed 2/19 (12:40pm)
+
+    * [The Wedding Singer](https://drafthouse.com/los-angeles/show/the-wedding-singer): Sat 2/15 (12:00pm), Mon 2/17 (1:10pm), Tue 2/18 (6:20pm), Wed 2/19 (1:15pm)
+
 ### Fri 2/7 1:20am
 * New movies: Last Breath
 
