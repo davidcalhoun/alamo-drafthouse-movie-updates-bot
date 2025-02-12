@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 2/12 12:25am
+* New movies: Universal Language
+
+* New screenings: 
+    * [Universal Language](https://drafthouse.com/los-angeles/show/universal-language): Fri 2/21 (12:00pm, 2:40pm, 7:20pm), Sat 2/22 (12:40pm, 3:20pm, 6:00pm), Sun 2/23 (12:40pm, 3:20pm, 6:00pm)
+
 ### Tue 2/11 2:18pm
 * New movies: Imagine Dragons: Live From the Hollywood Bowl with the LA Film Orchestra
 
