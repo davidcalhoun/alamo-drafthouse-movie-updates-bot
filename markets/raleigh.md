@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 2/12 2:21am
+* New movies: Blade II
+
+* New screenings: 
+    * [Terror Tuesday Blade Ii](https://drafthouse.com/raleigh/show/terror-tuesday-blade-ii): Tue 3/11 (9:30pm)
+
 ### Wed 2/12 1:32am
 * New movies: The Cell
 
