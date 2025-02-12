@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 2/12 1:32am
+* New movies: The Cell
+
+* New screenings: 
+    * [Terror Tuesday The Cell](https://drafthouse.com/raleigh/show/terror-tuesday-the-cell): Tue 3/25 (9:30pm)
+
 ### Tue 2/11 9:51pm
 * New movies: The Running Man 1987, It Follows
 
