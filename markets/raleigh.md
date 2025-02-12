@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Tue 2/11 9:51pm
+* New movies: The Running Man 1987, It Follows
+
+* New screenings: 
+    * [Terror Tuesday It Follows](https://drafthouse.com/raleigh/show/terror-tuesday-it-follows): Tue 4/1 (9:30pm)
+
+    * [Weird Wednesday The Running Man](https://drafthouse.com/raleigh/show/weird-wednesday-the-running-man): Wed 3/26 (9:00pm)
+
 ### Mon 2/10 8:48pm
 * New movies: Scott Pilgrim vs. the World, Imagine Dragons: Live From the Hollywood Bowl with the LA Film Orchestra, Godzilla vs. Megalon
 
