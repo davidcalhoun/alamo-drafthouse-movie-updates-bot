@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 2/14 12:20pm
+* New movies: Game Night
+
+* New screenings: 
+    * [Movie Party Game Night](https://drafthouse.com/los-angeles/show/movie-party-game-night): Tue 3/11 (7:20pm)
+
 ### Fri 2/14 1:20am
 * New movies: Interstellar, The Social Network
 
