@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 2/14 1:20am
+* New movies: Interstellar, The Social Network
+
+* New screenings: 
+    * [Interstellar](https://drafthouse.com/los-angeles/show/interstellar): Sun 3/2 (12:00pm)
+
+    * [The Social Network](https://drafthouse.com/los-angeles/show/the-social-network): Sat 2/22 (11:15am)
+
 ### Wed 2/12 12:25am
 * New movies: Universal Language
 
