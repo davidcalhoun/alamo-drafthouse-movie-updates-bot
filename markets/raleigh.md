@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 2/14 3:24pm
+* New movies: Game Night
+
+* New screenings: 
+    * [Movie Party Game Night](https://drafthouse.com/raleigh/show/movie-party-game-night): Tue 3/11 (6:30pm)
+
 ### Wed 2/12 2:21am
 * New movies: Blade II
 
