@@ -1,6 +1,42 @@
 # raleigh
 
 ## Movie updates
+### Mon 2/17 6:21pm
+* New movies: 2025 Oscar-Nominated Short Films: Animation, 2025 Oscar-Nominated Short Films: Live Action, The Wedding Singer
+
+* New screenings: 
+    * [2025 Oscar Nominated Short Films Animation](https://drafthouse.com/raleigh/show/2025-oscar-nominated-short-films-animation): Fri 2/21 (1:30pm), Sat 2/22 (1:30pm), Sun 2/23 (1:30pm), Mon 2/24 (7:30pm), Tue 2/25 (4:30pm), Wed 2/26 (7:30pm)
+
+    * [2025 Oscar Nominated Short Films Live Action](https://drafthouse.com/raleigh/show/2025-oscar-nominated-short-films-live-action): Fri 2/21 (4:30pm), Sat 2/22 (4:15pm), Sun 2/23 (4:30pm), Mon 2/24 (4:30pm), Tue 2/25 (1:30pm), Wed 2/26 (4:30pm)
+
+    * [Becoming Led Zeppelin](https://drafthouse.com/raleigh/show/becoming-led-zeppelin): Thu 2/20 (9:00pm), Fri 2/21 (9:30pm), Sat 2/22 (8:30pm), Sun 2/23 (9:30pm), Mon 2/24 (10:30pm)
+
+    * [Captain America Brave New World](https://drafthouse.com/raleigh/show/captain-america-brave-new-world): Thu 2/20 (3:00pm, 3:30pm, 4:00pm, 5:00pm, 6:00pm, 7:30pm, 8:00pm, 9:00pm), Fri 2/21 (12:00pm, 2:00pm, 3:00pm, 5:00pm, 6:00pm, 7:30pm, 9:00pm), Sat 2/22 (12:30pm, 2:00pm, 3:30pm, 5:00pm, 6:30pm, 7:15pm, 9:00pm, 9:30pm), Sun 2/23 (12:00pm, 2:00pm, 3:00pm, 5:00pm, 6:00pm, 7:30pm, 9:00pm), Mon 2/24 (3:00pm, 5:00pm, 6:00pm, 8:00pm, 8:35pm, 9:00pm), Tue 2/25 (12:00pm, 2:00pm, 3:00pm, 5:00pm, 6:15pm, 7:30pm, 8:00pm, 9:15pm), Wed 2/26 (3:00pm, 5:00pm, 6:00pm, 8:00pm, 8:35pm, 9:00pm)
+
+    * [Companion](https://drafthouse.com/raleigh/show/companion): Thu 2/20 (4:30pm, 7:15pm, 10:15pm), Fri 2/21 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sat 2/22 (12:30pm, 3:15pm, 6:15pm, 9:30pm), Sun 2/23 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Mon 2/24 (3:30pm, 6:30pm, 9:15pm), Tue 2/25 (12:30pm, 3:30pm, 6:30pm, 9:15pm), Wed 2/26 (3:30pm, 6:30pm, 9:15pm)
+
+    * [Cry Baby](https://drafthouse.com/raleigh/show/cry-baby): Fri 2/21 (4:30pm), Sun 2/23 (10:15pm), Mon 2/24 (10:15pm), Wed 2/26 (10:15pm)
+
+    * [Dog Man](https://drafthouse.com/raleigh/show/dog-man): Thu 2/20 (3:00pm, 6:00pm), Fri 2/21 (12:00pm, 3:15pm, 6:00pm), Sat 2/22 (12:00pm, 3:00pm, 6:00pm), Sun 2/23 (12:00pm, 3:15pm, 6:00pm), Mon 2/24 (3:00pm, 6:00pm), Tue 2/25 (12:00pm, 3:00pm, 6:00pm), Wed 2/26 (3:00pm, 6:00pm)
+
+    * [Heart Eyes](https://drafthouse.com/raleigh/show/heart-eyes): Thu 2/20 (4:45pm, 7:30pm, 10:30pm), Fri 2/21 (2:00pm, 4:45pm, 7:45pm, 10:30pm), Sat 2/22 (1:45pm, 4:30pm, 7:30pm, 10:15pm), Sun 2/23 (2:00pm, 4:45pm, 7:45pm, 10:30pm), Mon 2/24 (4:45pm, 7:45pm, 10:45pm), Tue 2/25 (2:00pm, 4:45pm, 7:45pm, 10:30pm), Wed 2/26 (4:45pm, 7:45pm, 10:45pm)
+
+    * [Love Hurts](https://drafthouse.com/raleigh/show/love-hurts): Thu 2/20 (3:45pm, 6:30pm, 9:15pm), Fri 2/21 (1:15pm, 4:15pm, 6:45pm, 9:15pm), Sat 2/22 (12:45pm, 3:30pm, 6:30pm, 9:15pm), Sun 2/23 (1:15pm, 4:15pm, 6:45pm, 9:15pm), Mon 2/24 (3:45pm, 6:45pm, 9:45pm), Tue 2/25 (1:15pm, 3:45pm, 6:45pm, 9:45pm), Wed 2/26 (3:45pm, 6:45pm, 9:45pm)
+
+    * [No Other Land](https://drafthouse.com/raleigh/show/no-other-land): Fri 2/21 (7:30pm), Sat 2/22 (4:30pm, 7:30pm), Sun 2/23 (4:30pm, 7:30pm), Mon 2/24 (3:15pm, 7:30pm, 10:15pm), Tue 2/25 (12:45pm, 3:30pm, 4:30pm, 7:30pm), Wed 2/26 (3:15pm, 7:30pm, 10:15pm)
+
+    * [One Of Them Days](https://drafthouse.com/raleigh/show/one-of-them-days): Thu 2/20 (4:30pm), Fri 2/21 (1:30pm), Sat 2/22 (1:30pm), Sun 2/23 (1:30pm), Mon 2/24 (4:30pm), Tue 2/25 (1:30pm), Wed 2/26 (4:30pm)
+
+    * [Paddington In Peru](https://drafthouse.com/raleigh/show/paddington-in-peru): Thu 2/20 (3:15pm, 5:30pm, 6:15pm, 9:15pm), Fri 2/21 (12:30pm, 3:15pm, 6:15pm, 9:15pm), Sat 2/22 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sun 2/23 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Mon 2/24 (3:30pm, 6:15pm, 9:15pm), Tue 2/25 (12:30pm, 3:15pm, 6:00pm, 9:00pm), Wed 2/26 (3:30pm, 6:15pm, 9:15pm)
+
+    * [Queer Film Theory 101 Ghost 1990](https://drafthouse.com/raleigh/show/queer-film-theory-101-ghost-1990): Thu 2/20 (8:15pm)
+
+    * [The Monkey](https://drafthouse.com/raleigh/show/the-monkey): Fri 2/21 (8:00pm), Sat 2/22 (8:00pm), Sun 2/23 (8:00pm), Mon 2/24 (4:00pm, 7:00pm, 10:00pm), Tue 2/25 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Wed 2/26 (4:00pm, 7:00pm, 10:00pm)
+
+    * [The Wedding Singer](https://drafthouse.com/raleigh/show/the-wedding-singer): Thu 2/20 (9:30pm)
+
+    * [Vertigo](https://drafthouse.com/raleigh/show/vertigo): Sat 2/22 (10:15pm), Sun 2/23 (8:45pm), Tue 2/25 (8:45pm)
+
 ### Mon 2/17 5:22pm
 * New movies: Interstellar, The Social Network
 
