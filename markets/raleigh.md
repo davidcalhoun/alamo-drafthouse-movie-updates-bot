@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Mon 2/17 5:22pm
+* New movies: Interstellar, The Social Network
+
+* New screenings: 
+    * [Interstellar](https://drafthouse.com/raleigh/show/interstellar): Sun 3/2 (12:30pm)
+
+    * [The Social Network](https://drafthouse.com/raleigh/show/the-social-network): Fri 2/21 (9:00pm)
+
+    * [Titane](https://drafthouse.com/raleigh/show/titane): Mon 3/3 (9:30pm)
+
 ### Fri 2/14 3:24pm
 * New movies: Game Night
 
