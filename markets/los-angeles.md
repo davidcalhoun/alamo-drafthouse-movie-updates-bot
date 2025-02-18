@@ -1,6 +1,50 @@
 # los-angeles
 
 ## Movie updates
+### Tue 2/18 1:20am
+* New movies: Cleaner 2025, Parthenope, Ne Zha 2
+
+* New screenings: 
+    * [2025 Oscar Nominated Short Films Animation](https://drafthouse.com/los-angeles/show/2025-oscar-nominated-short-films-animation): Sat 2/22 (10:35pm), Mon 2/24 (11:20am, 10:30pm)
+
+    * [2025 Oscar Nominated Short Films Live Action](https://drafthouse.com/los-angeles/show/2025-oscar-nominated-short-films-live-action): Fri 2/21 (8:10pm), Tue 2/25 (11:40am), Wed 2/26 (10:00pm)
+
+    * [Becoming Led Zeppelin](https://drafthouse.com/los-angeles/show/becoming-led-zeppelin): Tue 2/25 (2:35pm), Wed 2/26 (9:30pm)
+
+    * [Bring Them Down](https://drafthouse.com/los-angeles/show/bring-them-down): Thu 2/20 (3:30pm)
+
+    * [Captain America Brave New World](https://drafthouse.com/los-angeles/show/captain-america-brave-new-world): Thu 2/20 (2:25pm, 4:20pm, 5:35pm, 6:30pm, 9:40pm), Fri 2/21 (11:20am, 12:10pm, 2:30pm, 3:20pm, 6:30pm, 9:40pm), Sat 2/22 (11:20am, 12:10pm, 2:30pm, 3:20pm, 6:30pm, 9:40pm), Sun 2/23 (11:00am, 12:10pm, 2:30pm, 3:20pm, 6:30pm), Mon 2/24 (11:20am, 12:10pm, 2:30pm, 3:20pm, 6:30pm, 9:40pm), Tue 2/25 (11:30am, 12:10pm, 1:45pm, 3:20pm, 6:30pm, 9:40pm), Wed 2/26 (11:20am, 12:10pm, 2:30pm, 3:20pm, 6:30pm, 9:40pm)
+
+    * [Cleaner 2025](https://drafthouse.com/los-angeles/show/cleaner-2025): Thu 2/20 (7:15pm, 10:00pm), Fri 2/21 (2:10pm, 5:00pm, 7:45pm, 10:30pm), Sat 2/22 (2:10pm, 5:00pm, 7:45pm, 10:30pm), Sun 2/23 (11:45am, 2:10pm, 5:00pm, 7:45pm), Mon 2/24 (2:10pm, 5:00pm, 7:45pm, 10:30pm), Tue 2/25 (11:00am, 2:40pm, 5:00pm, 7:45pm, 10:25pm), Wed 2/26 (2:10pm, 5:00pm, 7:45pm, 10:30pm)
+
+    * [Companion](https://drafthouse.com/los-angeles/show/companion): Thu 2/20 (2:25pm, 5:15pm, 8:00pm, 10:45pm), Fri 2/21 (11:40am, 2:25pm, 5:15pm, 8:00pm, 10:45pm), Sat 2/22 (11:40am, 2:25pm, 5:15pm, 8:00pm, 10:45pm), Sun 2/23 (11:40am, 2:25pm, 5:15pm, 8:00pm), Mon 2/24 (11:40am, 2:25pm, 5:15pm, 8:00pm, 10:45pm), Tue 2/25 (1:00pm, 4:35pm, 7:40pm, 10:30pm), Wed 2/26 (11:40am, 2:25pm, 5:15pm, 8:00pm, 10:45pm)
+
+    * [Cry Baby](https://drafthouse.com/los-angeles/show/cry-baby): Sat 2/22 (8:00pm), Mon 2/24 (4:45pm), Wed 2/26 (11:00am, 4:15pm)
+
+    * [Heart Eyes](https://drafthouse.com/los-angeles/show/heart-eyes): Thu 2/20 (3:35pm, 6:20pm, 9:50pm), Fri 2/21 (12:40pm, 3:25pm, 6:10pm, 9:00pm), Sat 2/22 (12:40pm, 3:25pm, 6:10pm, 9:00pm), Sun 2/23 (12:40pm, 3:25pm, 6:10pm), Mon 2/24 (12:40pm, 3:25pm, 6:10pm, 9:00pm), Tue 2/25 (12:40pm, 3:25pm, 6:10pm, 9:00pm), Wed 2/26 (12:40pm, 3:25pm, 6:10pm, 9:00pm)
+
+    * [Love Hurts](https://drafthouse.com/los-angeles/show/love-hurts): Thu 2/20 (3:35pm), Fri 2/21 (11:35am), Sat 2/22 (11:35am), Mon 2/24 (11:35am), Wed 2/26 (11:35am)
+
+    * [Ne Zha 2](https://drafthouse.com/los-angeles/show/ne-zha-2): Thu 2/20 (3:25pm, 6:10pm), Fri 2/21 (11:10am, 2:45pm), Sat 2/22 (11:10am, 2:45pm), Sun 2/23 (11:10am, 2:45pm), Mon 2/24 (11:10am, 2:45pm), Tue 2/25 (11:10am, 2:45pm), Wed 2/26 (11:10am, 2:45pm)
+
+    * [No Other Land](https://drafthouse.com/los-angeles/show/no-other-land): Thu 2/20 (3:00pm, 5:45pm, 8:30pm), Fri 2/21 (5:25pm, 10:00pm), Sat 2/22 (2:30pm, 5:15pm), Sun 2/23 (11:10am, 1:55pm), Mon 2/24 (2:00pm), Tue 2/25 (11:10am, 8:30pm), Wed 2/26 (1:30pm, 4:30pm)
+
+    * [One Of Them Days](https://drafthouse.com/los-angeles/show/one-of-them-days): Thu 2/20 (3:50pm, 6:40pm, 9:30pm), Fri 2/21 (1:00pm, 3:50pm, 6:40pm, 9:30pm), Sat 2/22 (1:00pm, 3:50pm, 6:40pm, 9:30pm), Sun 2/23 (1:00pm, 3:50pm, 6:40pm), Mon 2/24 (1:00pm, 3:50pm, 6:40pm, 9:30pm), Tue 2/25 (1:10pm, 4:00pm, 6:45pm, 9:30pm), Wed 2/26 (1:00pm, 3:50pm, 6:40pm, 9:30pm)
+
+    * [Paddington In Peru](https://drafthouse.com/los-angeles/show/paddington-in-peru): Thu 2/20 (3:00pm, 4:15pm, 6:00pm, 9:00pm), Fri 2/21 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 2/22 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sun 2/23 (12:00pm, 3:00pm, 6:00pm), Mon 2/24 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Tue 2/25 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Wed 2/26 (12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
+    * [Parthenope](https://drafthouse.com/los-angeles/show/parthenope): Thu 2/20 (7:10pm), Fri 2/21 (12:10pm, 3:40pm, 7:10pm), Sat 2/22 (12:10pm, 3:40pm, 7:10pm), Sun 2/23 (12:10pm, 3:40pm, 7:10pm), Mon 2/24 (12:10pm, 3:40pm, 7:10pm), Tue 2/25 (12:10pm, 3:40pm, 7:10pm), Wed 2/26 (12:10pm, 3:40pm, 7:10pm)
+
+    * [The Brutalist](https://drafthouse.com/los-angeles/show/the-brutalist): Thu 2/20 (2:25pm)
+
+    * [The Monkey](https://drafthouse.com/los-angeles/show/the-monkey): Thu 2/20 (7:00pm, 8:45pm, 9:10pm, 9:45pm, 10:35pm), Fri 2/21 (5:40pm, 6:20pm, 8:30pm, 9:10pm, 10:35pm), Sat 2/22 (5:40pm, 6:20pm, 8:30pm, 9:10pm, 10:35pm), Sun 2/23 (5:40pm, 6:20pm), Mon 2/24 (5:40pm, 6:20pm, 8:30pm, 9:10pm, 10:35pm), Tue 2/25 (11:00am, 1:50pm, 4:40pm, 5:30pm, 6:20pm, 7:30pm, 8:20pm, 9:10pm, 10:20pm, 10:35pm), Wed 2/26 (11:00am, 1:50pm, 4:40pm, 5:40pm, 6:20pm, 7:30pm, 8:30pm, 9:10pm, 10:20pm, 10:35pm)
+
+    * [The Social Network](https://drafthouse.com/los-angeles/show/the-social-network): Sun 2/23 (7:15pm)
+
+    * [Universal Language](https://drafthouse.com/los-angeles/show/universal-language): Mon 2/24 (12:35pm, 3:15pm), Tue 2/25 (1:55pm, 5:45pm), Wed 2/26 (11:10am, 1:50pm, 6:50pm)
+
+    * [Vertigo](https://drafthouse.com/los-angeles/show/vertigo): Sat 2/22 (8:45pm)
+
 ### Fri 2/14 12:20pm
 * New movies: Game Night
 
