@@ -1,6 +1,46 @@
 # raleigh
 
 ## Movie updates
+### Tue 2/18 11:30am
+* New movies: Mickey 17, Blue Velvet, Inland Empire, Jumanji 1995, Mulholland Dr., Twin Peaks: Fire Walk with Me, Wild at Heart, Leprechaun, Marie Antoinette 2006, Charlie's Angels 2000, The Lady Eve, Tremors, Dune 1984, Eraserhead, Lost Highway, Play It As It Lays, The Elephant Man, What Ever Happened to Baby Jane?
+
+* New screenings: 
+    * [Blue Velvet](https://drafthouse.com/raleigh/show/blue-velvet): Sat 3/8 (6:30pm), Sun 3/9 (3:00pm)
+
+    * [Dune 1984](https://drafthouse.com/raleigh/show/dune-1984): Fri 4/4 (9:30pm)
+
+    * [Eraserhead](https://drafthouse.com/raleigh/show/eraserhead): Fri 3/7 (9:30pm)
+
+    * [Inland Empire](https://drafthouse.com/raleigh/show/inland-empire): Sat 3/29 (11:30am), Sun 3/30 (2:30pm)
+
+    * [Leprechaun](https://drafthouse.com/raleigh/show/leprechaun): Mon 3/17 (9:30pm)
+
+    * [Lost Highway](https://drafthouse.com/raleigh/show/lost-highway): Fri 3/21 (9:00pm)
+
+    * [Marie Antoinette](https://drafthouse.com/raleigh/show/marie-antoinette): Sun 3/23 (12:15pm)
+
+    * [Mickey 17](https://drafthouse.com/raleigh/show/mickey-17): Thu 3/6 (3:00pm, 6:30pm, 10:00pm), Fri 3/7 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sat 3/8 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sun 3/9 (12:00pm, 3:30pm, 7:00pm, 10:15pm)
+
+    * [Movie Party Jumanji 1995](https://drafthouse.com/raleigh/show/movie-party-jumanji-1995): Sun 3/16 (12:30pm)
+
+    * [Mulholland Drive](https://drafthouse.com/raleigh/show/mulholland-drive): Mon 3/31 (6:30pm, 10:00pm)
+
+    * [Play It As It Lays](https://drafthouse.com/raleigh/show/play-it-as-it-lays): Tue 4/1 (6:30pm)
+
+    * [Queer Film Theory 101 Charlies Angels 2000](https://drafthouse.com/raleigh/show/queer-film-theory-101-charlies-angels-2000): Mon 3/17 (6:30pm)
+
+    * [The Elephant Man](https://drafthouse.com/raleigh/show/the-elephant-man): Wed 4/2 (6:30pm)
+
+    * [The Lady Eve](https://drafthouse.com/raleigh/show/the-lady-eve): Sat 3/15 (11:30am)
+
+    * [Tremors](https://drafthouse.com/raleigh/show/tremors): Mon 4/7 (6:30pm)
+
+    * [Twin Peaks Fire Walk With Me](https://drafthouse.com/raleigh/show/twin-peaks-fire-walk-with-me): Fri 3/14 (9:30pm), Thu 3/20 (6:30pm)
+
+    * [What Ever Happened To Baby Jane](https://drafthouse.com/raleigh/show/what-ever-happened-to-baby-jane): Sun 3/9 (11:30am)
+
+    * [Wild At Heart](https://drafthouse.com/raleigh/show/wild-at-heart): Sun 3/16 (3:30pm), Thu 3/20 (9:45pm)
+
 ### Mon 2/17 8:48pm
 * New movies: Demons 1985
 
