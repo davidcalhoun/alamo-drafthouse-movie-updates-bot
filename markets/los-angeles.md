@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 2/18 9:17am
+* New movies: Mickey 17
+
+* New screenings: 
+    * [Mickey 17](https://drafthouse.com/los-angeles/show/mickey-17): Thu 3/6 (3:00pm, 6:30pm, 10:00pm), Fri 3/7 (11:30am, 3:00pm, 6:30pm, 10:00pm), Sat 3/8 (11:30am, 3:00pm, 6:30pm, 10:00pm), Sun 3/9 (11:30am, 3:00pm, 6:30pm), Mon 3/10 (6:30pm, 10:00pm), Tue 3/11 (6:30pm, 10:00pm)
+
 ### Tue 2/18 8:26am
 * New movies: Blue Velvet, Eraserhead, Inland Empire, Lost Highway, Mulholland Dr., Marie Antoinette 2006, Jumanji 1995, Twin Peaks: Fire Walk with Me, Girls Town, Leprechaun, Charlie's Angels 2000, The Lady Eve, The Watermelon Woman, Tremors, Dune 1984, The Elephant Man, What Ever Happened to Baby Jane?, Wild at Heart
 
