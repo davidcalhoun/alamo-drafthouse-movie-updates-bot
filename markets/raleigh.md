@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 2/17 8:48pm
+* New movies: Demons 1985
+
+* New screenings: 
+    * [Terror Tuesday Demons](https://drafthouse.com/raleigh/show/terror-tuesday-demons): Tue 4/8 (9:00pm)
+
 ### Mon 2/17 6:21pm
 * New movies: 2025 Oscar-Nominated Short Films: Animation, 2025 Oscar-Nominated Short Films: Live Action, The Wedding Singer
 
