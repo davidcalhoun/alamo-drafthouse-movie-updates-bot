@@ -1,6 +1,46 @@
 # los-angeles
 
 ## Movie updates
+### Tue 2/18 8:26am
+* New movies: Blue Velvet, Eraserhead, Inland Empire, Lost Highway, Mulholland Dr., Marie Antoinette 2006, Jumanji 1995, Twin Peaks: Fire Walk with Me, Girls Town, Leprechaun, Charlie's Angels 2000, The Lady Eve, The Watermelon Woman, Tremors, Dune 1984, The Elephant Man, What Ever Happened to Baby Jane?, Wild at Heart
+
+* New screenings: 
+    * [Blue Velvet](https://drafthouse.com/los-angeles/show/blue-velvet): Sat 3/8 (11:00am), Sun 3/9 (2:45pm), Mon 3/10 (6:00pm)
+
+    * [Dune 1984](https://drafthouse.com/los-angeles/show/dune-1984): Fri 4/4 (9:30pm)
+
+    * [Eraserhead](https://drafthouse.com/los-angeles/show/eraserhead): Fri 3/7 (7:20pm), Sat 3/8 (2:10pm), Mon 3/10 (9:10pm)
+
+    * [Girls Town](https://drafthouse.com/los-angeles/show/girls-town): Mon 3/24 (6:00pm)
+
+    * [Inland Empire](https://drafthouse.com/los-angeles/show/inland-empire): Fri 3/28 (9:00pm), Sat 3/29 (9:00pm), Sun 3/30 (11:00am)
+
+    * [Leprechaun](https://drafthouse.com/los-angeles/show/leprechaun): Mon 3/17 (10:15pm)
+
+    * [Lost Highway](https://drafthouse.com/los-angeles/show/lost-highway): Fri 3/21 (7:20pm), Mon 3/24 (8:40pm), Tue 3/25 (6:00pm)
+
+    * [Marie Antoinette](https://drafthouse.com/los-angeles/show/marie-antoinette): Sun 3/23 (4:50pm), Tue 3/25 (2:45pm)
+
+    * [Movie Party Jumanji 1995](https://drafthouse.com/los-angeles/show/movie-party-jumanji-1995): Tue 3/18 (7:20pm)
+
+    * [Mulholland Drive](https://drafthouse.com/los-angeles/show/mulholland-drive): Sat 3/29 (12:20pm), Mon 3/31 (9:15pm), Tue 4/1 (6:00pm)
+
+    * [Queer Film Theory 101 Charlies Angels 2000](https://drafthouse.com/los-angeles/show/queer-film-theory-101-charlies-angels-2000): Mon 3/17 (7:20pm)
+
+    * [The Elephant Man](https://drafthouse.com/los-angeles/show/the-elephant-man): Wed 4/2 (7:20pm)
+
+    * [The Lady Eve](https://drafthouse.com/los-angeles/show/the-lady-eve): Sat 3/15 (11:00am)
+
+    * [The Watermelon Woman](https://drafthouse.com/los-angeles/show/the-watermelon-woman): Sat 3/15 (1:50pm)
+
+    * [Tremors](https://drafthouse.com/los-angeles/show/tremors): Mon 4/7 (7:20pm)
+
+    * [Twin Peaks Fire Walk With Me](https://drafthouse.com/los-angeles/show/twin-peaks-fire-walk-with-me): Fri 3/14 (9:30pm), Sun 3/16 (11:20am)
+
+    * [What Ever Happened To Baby Jane](https://drafthouse.com/los-angeles/show/what-ever-happened-to-baby-jane): Sun 3/9 (11:20am)
+
+    * [Wild At Heart](https://drafthouse.com/los-angeles/show/wild-at-heart): Sun 3/16 (2:45pm)
+
 ### Tue 2/18 1:20am
 * New movies: Cleaner 2025, Parthenope, Ne Zha 2
 
