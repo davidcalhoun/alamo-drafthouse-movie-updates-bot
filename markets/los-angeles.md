@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Tue 2/18 6:50pm
+* New movies: The Rule of Jenny Pen, Mobile Suit Gundam GQuuuuuuX -Beginning-
+
+* New screenings: 
+    * [Mickey 17](https://drafthouse.com/los-angeles/show/mickey-17): Tue 3/11 (11:30am, 3:00pm)
+
+    * [Mobile Suit Gundam Gquuuuuux Beginning](https://drafthouse.com/los-angeles/show/mobile-suit-gundam-gquuuuuux-beginning): Thu 2/27 (4:40pm, 7:10pm), Fri 2/28 (7:10pm), Sat 3/1 (7:10pm), Sun 3/2 (7:10pm)
+
+    * [The Rule Of Jenny Pen](https://drafthouse.com/los-angeles/show/the-rule-of-jenny-pen): Fri 3/7 (7:45pm, 10:40pm), Sat 3/8 (7:45pm, 10:40pm), Sun 3/9 (7:45pm), Mon 3/10 (7:45pm), Tue 3/11 (7:45pm), Wed 3/12 (7:45pm)
+
 ### Tue 2/18 9:17am
 * New movies: Mickey 17
 
