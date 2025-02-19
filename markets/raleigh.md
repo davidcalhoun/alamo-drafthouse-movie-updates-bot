@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Wed 2/19 10:26am
+* New movies: Mobile Suit Gundam GQuuuuuuX -Beginning-, You're Next
+
+* New screenings: 
+    * [Mobile Suit Gundam Gquuuuuux Beginning](https://drafthouse.com/raleigh/show/mobile-suit-gundam-gquuuuuux-beginning): Thu 2/27 (7:15pm, 10:15pm), Fri 2/28 (7:15pm), Sat 3/1 (7:15pm), Sun 3/2 (7:15pm)
+
+    * [Parasite](https://drafthouse.com/raleigh/show/parasite): Tue 3/4 (5:30pm)
+
+    * [Terror Tuesday Youre Next](https://drafthouse.com/raleigh/show/terror-tuesday-youre-next): Tue 3/4 (9:00pm)
+
 ### Tue 2/18 11:30am
 * New movies: Mickey 17, Blue Velvet, Inland Empire, Jumanji 1995, Mulholland Dr., Twin Peaks: Fire Walk with Me, Wild at Heart, Leprechaun, Marie Antoinette 2006, Charlie's Angels 2000, The Lady Eve, Tremors, Dune 1984, Eraserhead, Lost Highway, Play It As It Lays, The Elephant Man, What Ever Happened to Baby Jane?
 
