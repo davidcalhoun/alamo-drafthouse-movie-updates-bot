@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 2/21 10:24am
+* New movies: Opus
+
+* New screenings: 
+    * [Opus](https://drafthouse.com/raleigh/show/opus): Thu 3/13 (7:00pm, 10:00pm), Fri 3/14 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sat 3/15 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sun 3/16 (1:00pm, 4:00pm, 7:00pm, 10:00pm)
+
 ### Wed 2/19 10:26am
 * New movies: Mobile Suit Gundam GQuuuuuuX -Beginning-, You're Next
 
