@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 2/20 10:27pm
+* New movies: Thank You Very Much, The Hunger Games
+
+* New screenings: 
+    * [Movie Party The Hunger Games](https://drafthouse.com/los-angeles/show/movie-party-the-hunger-games): Tue 4/8 (6:00pm)
+
+    * [Thank You Very Much](https://drafthouse.com/los-angeles/show/thank-you-very-much): Sat 3/29 (6:00pm), Sun 3/30 (3:10pm), Mon 3/31 (7:20pm), Tue 4/1 (4:25pm), Wed 4/2 (6:00pm), Thu 4/3 (4:30pm)
+
 ### Tue 2/18 6:50pm
 * New movies: The Rule of Jenny Pen, Mobile Suit Gundam GQuuuuuuX -Beginning-
 
