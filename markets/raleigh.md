@@ -1,6 +1,22 @@
 # raleigh
 
 ## Movie updates
+### Fri 2/21 1:31pm
+* New movies: Vampire Hunter D Subtitled, The Rule of Jenny Pen, The Hunger Games, Vampire Hunter D Dubbed, The Watermelon Woman
+
+* New screenings: 
+    * [Lost Highway](https://drafthouse.com/raleigh/show/lost-highway): Mon 3/24 (6:30pm)
+
+    * [Movie Party The Hunger Games](https://drafthouse.com/raleigh/show/movie-party-the-hunger-games): Sun 4/6 (12:30pm)
+
+    * [Special Event Vampire Hunter D Dubbed Axcn 40th Anniversary](https://drafthouse.com/raleigh/show/special-event-vampire-hunter-d-dubbed-axcn-40th-anniversary): Thu 4/10 (6:30pm)
+
+    * [Special Event Vampire Hunter D Subtitled Axcn 40th Anniversary](https://drafthouse.com/raleigh/show/special-event-vampire-hunter-d-subtitled-axcn-40th-anniversary): Wed 4/9 (7:30pm), Sun 4/13 (3:30pm)
+
+    * [The Rule Of Jenny Pen](https://drafthouse.com/raleigh/show/the-rule-of-jenny-pen): Fri 3/7 (6:30pm), Sun 3/9 (6:30pm), Mon 3/10 (6:30pm)
+
+    * [The Watermelon Woman](https://drafthouse.com/raleigh/show/the-watermelon-woman): Tue 3/18 (6:30pm)
+
 ### Fri 2/21 10:24am
 * New movies: Opus
 
