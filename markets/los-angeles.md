@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 2/21 7:20am
+* New movies: Opus
+
+* New screenings: 
+    * [Opus](https://drafthouse.com/los-angeles/show/opus): Thu 3/13 (4:00pm, 7:00pm), Fri 3/14 (12:40pm, 3:35pm, 6:30pm, 9:25pm), Sat 3/15 (12:40pm, 3:35pm, 6:30pm, 9:25pm), Sun 3/16 (12:40pm, 3:35pm, 6:30pm)
+
 ### Thu 2/20 10:27pm
 * New movies: Thank You Very Much, The Hunger Games
 
