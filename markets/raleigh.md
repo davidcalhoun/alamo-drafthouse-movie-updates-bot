@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 2/21 4:19pm
+* New movies: Godzilla vs. Megalon
+
+
+
 ### Fri 2/21 1:31pm
 * New movies: Vampire Hunter D Subtitled, The Rule of Jenny Pen, The Hunger Games, Vampire Hunter D Dubbed, The Watermelon Woman
 
