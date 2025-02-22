@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 2/21 8:24pm
+* New movies: Vampire Hunter D Subtitled, Vampire Hunter D Dubbed
+
+* New screenings: 
+    * [Special Event Vampire Hunter D Dubbed Axcn 40th Anniversary](https://drafthouse.com/los-angeles/show/special-event-vampire-hunter-d-dubbed-axcn-40th-anniversary): Thu 4/10 (7:00pm)
+
+    * [Special Event Vampire Hunter D Subtitled Axcn 40th Anniversary](https://drafthouse.com/los-angeles/show/special-event-vampire-hunter-d-subtitled-axcn-40th-anniversary): Wed 4/9 (7:00pm), Sun 4/13 (3:00pm)
+
 ### Fri 2/21 6:46pm
 
 * New screenings: 
