@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 2/21 6:46pm
+
+* New screenings: 
+    * [Mickey 17](https://drafthouse.com/los-angeles/show/mickey-17): Fri 3/14 (12:15pm, 2:45pm, 6:45pm, 9:15pm), Sat 3/15 (12:15pm, 2:45pm, 6:45pm, 9:15pm), Sun 3/16 (12:15pm, 2:45pm, 6:45pm), Mon 3/17 (12:15pm, 2:45pm, 6:45pm, 9:15pm), Tue 3/18 (12:15pm, 2:45pm, 6:45pm, 9:15pm), Wed 3/19 (12:15pm, 2:45pm, 6:45pm, 9:15pm)
+
 ### Fri 2/21 1:15pm
 
 * New screenings: 
