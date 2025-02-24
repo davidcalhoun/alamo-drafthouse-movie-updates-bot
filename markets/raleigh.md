@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Mon 2/24 12:24am
+* New movies: Novocaine 2025, Novocaine 2025
+
+* New screenings: 
+    * [Advance Screening Novocaine 2025 Advance Adrenaline Rush](https://drafthouse.com/raleigh/show/advance-screening-novocaine-2025-advance-adrenaline-rush): Sat 3/8 (8:00pm)
+
+    * [Novocaine 2025](https://drafthouse.com/raleigh/show/novocaine-2025): Thu 3/13 (6:00pm, 9:00pm), Fri 3/14 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 3/15 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sun 3/16 (12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
 ### Fri 2/21 4:19pm
 * New movies: Godzilla vs. Megalon
 
