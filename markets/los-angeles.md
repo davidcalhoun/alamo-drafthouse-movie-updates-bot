@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Sun 2/23 9:19pm
+* New movies: Novocaine 2025, Novocaine 2025
+
+* New screenings: 
+    * [Advance Screening Novocaine 2025 Advance Adrenaline Rush](https://drafthouse.com/los-angeles/show/advance-screening-novocaine-2025-advance-adrenaline-rush): Sat 3/8 (7:00pm)
+
+    * [Novocaine 2025](https://drafthouse.com/los-angeles/show/novocaine-2025): Thu 3/13 (4:30pm, 7:30pm, 10:30pm), Fri 3/14 (11:45am, 3:45pm, 6:15pm, 10:15pm), Sat 3/15 (11:45am, 3:45pm, 6:15pm, 10:15pm), Sun 3/16 (11:45am, 3:45pm, 6:15pm), Mon 3/17 (11:45am, 3:45pm, 6:15pm, 10:15pm), Tue 3/18 (11:45am, 3:45pm, 6:15pm, 10:15pm), Wed 3/19 (11:45am, 3:45pm, 6:15pm, 10:15pm)
+
 ### Fri 2/21 8:24pm
 * New movies: Vampire Hunter D Subtitled, Vampire Hunter D Dubbed
 
