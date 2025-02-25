@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 2/24 9:56pm
+
+* New screenings: 
+    * [Captain America Brave New World](https://drafthouse.com/raleigh/show/captain-america-brave-new-world): Fri 2/28 (12:00pm, 3:00pm, 6:00pm, 9:15pm), Sat 3/1 (12:00pm, 3:00pm, 6:00pm, 9:15pm), Sun 3/2 (12:00pm, 3:00pm, 6:00pm, 9:15pm), Mon 3/3 (3:00pm, 6:00pm, 9:00pm), Tue 3/4 (12:00pm, 3:00pm, 6:00pm, 9:15pm), Wed 3/5 (3:00pm, 6:00pm, 9:00pm)
+
 ### Mon 2/24 8:52pm
 * New movies: Universal Language, Shrek
 
