@@ -1,6 +1,50 @@
 # raleigh
 
 ## Movie updates
+### Mon 2/24 8:52pm
+* New movies: Universal Language, Shrek
+
+* New screenings: 
+    * [2025 Oscar Nominated Short Films Animation](https://drafthouse.com/raleigh/show/2025-oscar-nominated-short-films-animation): Thu 2/27 (6:15pm), Sat 3/1 (1:45pm, 4:45pm), Sun 3/2 (4:30pm), Mon 3/3 (3:15pm), Tue 3/4 (4:30pm), Wed 3/5 (3:15pm)
+
+    * [2025 Oscar Nominated Short Films Live Action](https://drafthouse.com/raleigh/show/2025-oscar-nominated-short-films-live-action): Thu 2/27 (3:15pm, 9:15pm), Fri 2/28 (1:15pm, 4:15pm), Sun 3/2 (1:45pm), Mon 3/3 (6:15pm), Tue 3/4 (1:45pm), Wed 3/5 (6:15pm)
+
+    * [Becoming Led Zeppelin](https://drafthouse.com/raleigh/show/becoming-led-zeppelin): Fri 2/28 (8:30pm), Sat 3/1 (9:00pm), Mon 3/3 (9:30pm), Tue 3/4 (9:15pm), Wed 3/5 (9:30pm)
+
+    * [Companion](https://drafthouse.com/raleigh/show/companion): Thu 2/27 (4:30pm, 7:30pm, 10:30pm), Fri 2/28 (12:30pm, 3:45pm, 6:30pm, 9:30pm), Sat 3/1 (12:45pm, 3:45pm, 6:45pm, 9:30pm), Sun 3/2 (12:45pm, 3:30pm, 6:15pm, 9:15pm), Mon 3/3 (3:45pm, 6:30pm, 9:45pm), Tue 3/4 (12:45pm, 3:30pm, 6:15pm, 9:15pm), Wed 3/5 (3:45pm, 6:30pm, 9:45pm)
+
+    * [Dog Man](https://drafthouse.com/raleigh/show/dog-man): Thu 2/27 (3:45pm, 6:45pm), Fri 2/28 (12:00pm, 3:00pm, 5:45pm), Sat 3/1 (12:00pm, 3:00pm, 6:00pm), Sun 3/2 (12:00pm, 3:00pm, 5:45pm), Mon 3/3 (3:00pm, 6:00pm), Tue 3/4 (12:00pm, 3:00pm, 5:45pm), Wed 3/5 (3:00pm, 6:00pm)
+
+    * [Heart Eyes](https://drafthouse.com/raleigh/show/heart-eyes): Thu 2/27 (4:15pm, 4:45pm, 7:30pm, 7:45pm, 10:30pm, 10:45pm), Fri 2/28 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Sat 3/1 (12:30pm, 3:30pm, 7:30pm, 10:30pm), Sun 3/2 (2:00pm, 4:45pm, 7:45pm, 10:30pm), Mon 3/3 (4:45pm, 7:45pm, 10:30pm), Tue 3/4 (2:00pm, 4:45pm, 7:45pm, 10:30pm), Wed 3/5 (4:45pm, 7:45pm, 10:30pm)
+
+    * [Interstellar](https://drafthouse.com/raleigh/show/interstellar): Fri 2/28 (2:00pm, 7:00pm)
+
+    * [Last Breath](https://drafthouse.com/raleigh/show/last-breath): Mon 3/3 (4:00pm, 6:45pm, 9:45pm), Tue 3/4 (12:45pm, 3:30pm, 6:15pm, 9:00pm), Wed 3/5 (4:00pm, 6:45pm, 9:45pm)
+
+    * [Love Hurts](https://drafthouse.com/raleigh/show/love-hurts): Thu 2/27 (9:45pm), Fri 2/28 (10:15pm), Sat 3/1 (10:15pm), Sun 3/2 (9:30pm), Mon 3/3 (9:15pm), Tue 3/4 (8:30pm), Wed 3/5 (9:15pm)
+
+    * [Luther Never Too Much](https://drafthouse.com/raleigh/show/luther-never-too-much): Thu 2/27 (9:30pm)
+
+    * [Mobile Suit Gundam Gquuuuuux Beginning](https://drafthouse.com/raleigh/show/mobile-suit-gundam-gquuuuuux-beginning): Thu 2/27 (4:50pm), Fri 2/28 (1:45pm, 4:15pm, 10:15pm), Sat 3/1 (1:45pm, 4:15pm, 10:15pm), Sun 3/2 (1:45pm, 4:45pm, 10:15pm), Mon 3/3 (4:45pm, 7:30pm, 10:15pm), Tue 3/4 (1:45pm, 4:45pm, 7:15pm, 10:15pm), Wed 3/5 (4:45pm, 7:30pm, 10:15pm)
+
+    * [No Other Land](https://drafthouse.com/raleigh/show/no-other-land): Fri 2/28 (1:30pm), Sat 3/1 (4:30pm), Sun 3/2 (4:10pm), Mon 3/3 (3:15pm), Tue 3/4 (1:30pm)
+
+    * [Paddington In Peru](https://drafthouse.com/raleigh/show/paddington-in-peru): Thu 2/27 (3:00pm, 6:00pm, 9:00pm), Fri 2/28 (12:30pm, 3:15pm, 6:00pm, 9:00pm), Sat 3/1 (1:00pm, 4:30pm, 6:15pm, 9:15pm), Sun 3/2 (1:00pm, 3:45pm, 6:30pm, 9:30pm), Mon 3/3 (3:45pm, 6:15pm, 9:15pm), Tue 3/4 (1:00pm, 3:45pm, 6:30pm, 9:30pm), Wed 3/5 (3:30pm, 6:15pm, 9:15pm)
+
+    * [Parasite](https://drafthouse.com/raleigh/show/parasite): Sat 3/1 (6:30pm), Sun 3/2 (7:15pm), Mon 3/3 (9:00pm)
+
+    * [Shrek](https://drafthouse.com/raleigh/show/shrek): Sun 3/2 (4:30pm), Tue 3/4 (2:00pm), Wed 3/5 (9:00pm)
+
+    * [Snowpiercer](https://drafthouse.com/raleigh/show/snowpiercer): Sat 3/1 (7:45pm), Sun 3/2 (7:30pm), Tue 3/4 (7:15pm)
+
+    * [The Monkey](https://drafthouse.com/raleigh/show/the-monkey): Thu 2/27 (4:00pm, 7:00pm, 10:00pm), Fri 2/28 (1:00pm, 4:00pm, 7:15pm, 10:30pm), Sat 3/1 (1:00pm, 4:00pm, 7:15pm, 10:30pm), Sun 3/2 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Mon 3/3 (4:00pm, 7:00pm, 10:00pm), Tue 3/4 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Wed 3/5 (4:00pm, 6:50pm, 10:00pm)
+
+    * [Titane](https://drafthouse.com/raleigh/show/titane): Fri 2/28 (6:30pm), Sat 3/1 (10:00pm), Sun 3/2 (8:30pm)
+
+    * [Universal Language](https://drafthouse.com/raleigh/show/universal-language): Fri 2/28 (4:45pm, 7:30pm), Sat 3/1 (1:30pm, 7:30pm), Sun 3/2 (1:30pm, 6:45pm), Mon 3/3 (4:15pm, 6:45pm), Tue 3/4 (4:15pm, 6:45pm), Wed 3/5 (4:15pm, 6:45pm)
+
+    * [Vertigo](https://drafthouse.com/raleigh/show/vertigo): Thu 2/27 (3:15pm)
+
 ### Mon 2/24 12:24am
 * New movies: Novocaine 2025, Novocaine 2025
 
