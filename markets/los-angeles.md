@@ -1,6 +1,50 @@
 # los-angeles
 
 ## Movie updates
+### Mon 2/24 5:39pm
+* New movies: Shrek
+
+* New screenings: 
+    * [Captain America Brave New World](https://drafthouse.com/los-angeles/show/captain-america-brave-new-world): Thu 2/27 (3:10pm, 6:20pm, 9:30pm), Fri 2/28 (12:10pm, 3:20pm, 6:30pm, 9:40pm), Sat 3/1 (12:10pm, 3:20pm, 6:30pm, 9:40pm), Sun 3/2 (12:00pm, 3:15pm, 6:30pm), Mon 3/3 (12:10pm, 3:20pm, 6:30pm, 9:40pm), Tue 3/4 (12:10pm, 3:20pm, 6:30pm, 9:40pm), Wed 3/5 (12:10pm, 3:20pm, 6:30pm, 9:40pm)
+
+    * [Cleaner 2025](https://drafthouse.com/los-angeles/show/cleaner-2025): Thu 2/27 (7:30pm), Fri 2/28 (11:45am), Sat 3/1 (10:10pm), Sun 3/2 (4:15pm), Mon 3/3 (11:45am), Tue 3/4 (2:30pm), Wed 3/5 (10:20pm)
+
+    * [Companion](https://drafthouse.com/los-angeles/show/companion): Thu 2/27 (3:00pm, 6:10pm, 9:00pm), Fri 2/28 (12:50pm, 3:35pm, 6:20pm, 9:10pm), Sat 3/1 (12:50pm, 3:35pm, 6:20pm, 9:10pm), Sun 3/2 (12:50pm, 3:35pm, 6:20pm), Mon 3/3 (12:50pm, 3:35pm, 6:20pm, 9:10pm), Tue 3/4 (12:50pm, 3:35pm, 6:20pm, 9:10pm), Wed 3/5 (12:50pm, 3:35pm, 6:20pm, 9:10pm)
+
+    * [Cry Baby](https://drafthouse.com/los-angeles/show/cry-baby): Thu 2/27 (9:50pm)
+
+    * [Heart Eyes](https://drafthouse.com/los-angeles/show/heart-eyes): Thu 2/27 (7:00pm, 9:50pm), Fri 2/28 (8:40pm), Sat 3/1 (8:35pm), Sun 3/2 (7:00pm), Mon 3/3 (8:40pm), Tue 3/4 (8:45pm), Wed 3/5 (8:40pm)
+
+    * [Interstellar](https://drafthouse.com/los-angeles/show/interstellar): Fri 2/28 (11:30am, 7:20pm), Sat 3/1 (11:50am, 6:10pm), Sun 3/2 (5:45pm), Mon 3/3 (1:20pm, 6:10pm), Tue 3/4 (1:10pm, 6:10pm), Wed 3/5 (3:20pm)
+
+    * [Last Breath](https://drafthouse.com/los-angeles/show/last-breath): Mon 3/3 (11:30am, 2:15pm), Tue 3/4 (11:30am, 2:15pm), Wed 3/5 (11:30am, 2:15pm)
+
+    * [Mobile Suit Gundam Gquuuuuux Beginning](https://drafthouse.com/los-angeles/show/mobile-suit-gundam-gquuuuuux-beginning): Thu 2/27 (9:45pm), Fri 2/28 (11:35am, 2:05pm, 4:40pm, 9:45pm), Sat 3/1 (11:35am, 2:05pm, 4:40pm, 9:45pm), Sun 3/2 (11:30am, 2:05pm, 4:40pm), Mon 3/3 (11:40am, 2:10pm, 4:40pm, 7:10pm, 9:45pm), Tue 3/4 (11:40am, 2:10pm, 4:40pm, 7:10pm, 9:45pm), Wed 3/5 (11:50am, 2:25pm, 5:00pm, 7:30pm, 10:00pm)
+
+    * [Ne Zha 2](https://drafthouse.com/los-angeles/show/ne-zha-2): Thu 2/27 (2:50pm)
+
+    * [No Other Land](https://drafthouse.com/los-angeles/show/no-other-land): Thu 2/27 (5:45pm, 10:15pm), Fri 2/28 (2:30pm, 5:45pm), Sat 3/1 (11:45am, 2:30pm), Sun 3/2 (11:50am, 3:25pm), Mon 3/3 (12:00pm, 8:00pm), Tue 3/4 (3:25pm, 10:10pm), Wed 3/5 (11:45am, 2:30pm)
+
+    * [One Of Them Days](https://drafthouse.com/los-angeles/show/one-of-them-days): Thu 2/27 (4:00pm, 6:45pm, 9:35pm), Fri 2/28 (1:10pm, 4:00pm, 6:50pm, 9:40pm), Sat 3/1 (1:10pm, 4:00pm, 6:50pm, 9:40pm), Sun 3/2 (1:10pm, 4:00pm, 6:45pm), Mon 3/3 (1:10pm, 4:00pm, 6:50pm, 9:40pm), Tue 3/4 (1:10pm, 4:00pm, 6:50pm, 9:40pm), Wed 3/5 (1:10pm, 4:00pm, 6:50pm, 9:40pm)
+
+    * [Paddington In Peru](https://drafthouse.com/los-angeles/show/paddington-in-peru): Thu 2/27 (3:10pm, 6:00pm, 9:00pm), Fri 2/28 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 3/1 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sun 3/2 (12:10pm, 3:05pm, 6:00pm), Mon 3/3 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Tue 3/4 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Wed 3/5 (12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
+    * [Parasite](https://drafthouse.com/los-angeles/show/parasite): Fri 2/28 (5:15pm, 9:15pm), Sat 3/1 (3:50pm), Sun 3/2 (11:00am, 6:10pm), Mon 3/3 (12:35pm, 5:15pm), Tue 3/4 (3:50pm, 5:20pm, 8:30pm), Wed 3/5 (1:15pm, 5:15pm)
+
+    * [Parthenope](https://drafthouse.com/los-angeles/show/parthenope): Thu 2/27 (3:30pm), Fri 2/28 (12:45pm), Sun 3/2 (12:45pm), Mon 3/3 (2:45pm), Wed 3/5 (2:40pm)
+
+    * [Shrek](https://drafthouse.com/los-angeles/show/shrek): Sat 3/1 (12:45pm, 7:20pm), Mon 3/3 (5:20pm), Tue 3/4 (12:40pm), Wed 3/5 (12:00pm)
+
+    * [Snowpiercer](https://drafthouse.com/los-angeles/show/snowpiercer): Fri 2/28 (11:20am), Sat 3/1 (5:15pm, 8:25pm), Sun 3/2 (2:25pm), Mon 3/3 (4:00pm), Tue 3/4 (12:30pm, 5:10pm), Wed 3/5 (4:40pm, 8:00pm)
+
+    * [The Monkey](https://drafthouse.com/los-angeles/show/the-monkey): Thu 2/27 (2:40pm, 4:30pm, 5:30pm, 7:20pm, 8:20pm, 10:10pm), Fri 2/28 (11:00am, 11:50am, 1:50pm, 2:40pm, 4:40pm, 5:30pm, 7:30pm, 8:20pm, 10:20pm), Sat 3/1 (11:00am, 11:45am, 1:50pm, 2:40pm, 4:40pm, 5:30pm, 7:30pm, 8:20pm, 10:20pm), Sun 3/2 (11:00am, 1:50pm, 2:40pm, 4:40pm, 5:30pm, 7:30pm), Mon 3/3 (11:50am, 1:45pm, 2:45pm, 4:35pm, 5:35pm, 7:30pm, 8:25pm, 10:20pm), Tue 3/4 (11:50am, 1:45pm, 2:40pm, 4:35pm, 5:30pm, 7:30pm, 8:20pm, 10:20pm), Wed 3/5 (11:50am, 1:30pm, 2:40pm, 4:20pm, 5:30pm, 7:10pm, 8:20pm, 10:00pm)
+
+    * [Titane](https://drafthouse.com/los-angeles/show/titane): Fri 2/28 (2:45pm, 6:10pm), Sat 3/1 (10:00pm), Mon 3/3 (10:10pm), Tue 3/4 (10:00pm), Wed 3/5 (8:50pm)
+
+    * [Universal Language](https://drafthouse.com/los-angeles/show/universal-language): Thu 2/27 (4:50pm, 8:30pm), Fri 2/28 (3:30pm, 8:30pm), Sat 3/1 (3:30pm, 5:45pm), Sun 3/2 (12:40pm), Mon 3/3 (2:30pm, 10:45pm), Tue 3/4 (11:50am), Wed 3/5 (12:40pm, 6:10pm)
+
+    * [Vertigo](https://drafthouse.com/los-angeles/show/vertigo): Thu 2/27 (6:30pm)
+
 ### Sun 2/23 9:19pm
 * New movies: Novocaine 2025, Novocaine 2025
 
