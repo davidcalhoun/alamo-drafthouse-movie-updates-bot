@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 2/26 5:26am
+* New movies: Black Bag
+
+* New screenings: 
+    * [Black Bag](https://drafthouse.com/los-angeles/show/black-bag): Thu 3/13 (3:45pm, 6:30pm, 9:15pm), Fri 3/14 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sat 3/15 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sun 3/16 (11:30am, 2:15pm, 5:00pm, 7:45pm), Mon 3/17 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Tue 3/18 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm)
+
 ### Mon 2/24 5:39pm
 * New movies: Shrek
 
