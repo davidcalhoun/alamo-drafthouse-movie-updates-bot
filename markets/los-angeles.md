@@ -1,6 +1,29 @@
 # los-angeles
 
 ## Movie updates
+### Wed 2/26 3:20pm
+
+* New screenings: 
+    * [Blue Velvet](https://drafthouse.com/los-angeles/show/blue-velvet): Sat 3/8 (10:00pm), Tue 3/11 (10:15pm)
+
+    * [Dune 1984](https://drafthouse.com/los-angeles/show/dune-1984): Mon 4/7 (10:10pm)
+
+    * [Eraserhead](https://drafthouse.com/los-angeles/show/eraserhead): Sun 3/9 (6:00pm)
+
+    * [Inland Empire](https://drafthouse.com/los-angeles/show/inland-empire): Mon 3/31 (3:10pm)
+
+    * [Lost Highway](https://drafthouse.com/los-angeles/show/lost-highway): Thu 3/27 (6:00pm, 9:25pm)
+
+    * [Mulholland Drive](https://drafthouse.com/los-angeles/show/mulholland-drive): Tue 4/1 (9:40pm)
+
+    * [The Elephant Man](https://drafthouse.com/los-angeles/show/the-elephant-man): Wed 4/2 (4:00pm, 10:35pm), Thu 4/3 (2:00pm)
+
+    * [The Running Man 1987](https://drafthouse.com/los-angeles/show/the-running-man-1987): Wed 3/12 (10:20pm)
+
+    * [Twin Peaks Fire Walk With Me](https://drafthouse.com/los-angeles/show/twin-peaks-fire-walk-with-me): Thu 3/20 (9:15pm)
+
+    * [Wild At Heart](https://drafthouse.com/los-angeles/show/wild-at-heart): Tue 3/18 (10:20pm), Thu 3/20 (6:00pm)
+
 ### Wed 2/26 5:26am
 * New movies: Black Bag
 
