@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 2/26 8:29am
+* New movies: Black Bag
+
+* New screenings: 
+    * [Black Bag](https://drafthouse.com/raleigh/show/black-bag): Thu 3/13 (3:15pm, 6:15pm, 9:15pm), Fri 3/14 (1:45pm, 4:45pm, 7:45pm, 10:45pm), Sat 3/15 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Sun 3/16 (1:30pm, 4:30pm, 7:30pm, 10:30pm)
+
 ### Tue 2/25 8:51pm
 
 * New screenings: 
