@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 2/27 12:22pm
+* New movies: A Minecraft Movie, A Minecraft Movie
+
+* New screenings: 
+    * [A Minecraft Movie](https://drafthouse.com/los-angeles/show/a-minecraft-movie): Thu 4/3 (3:00pm, 6:00pm, 9:00pm), Fri 4/4 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 4/5 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sun 4/6 (11:00am, 2:00pm, 5:00pm, 8:00pm)
+
+    * [Family Party A Minecraft Movie](https://drafthouse.com/los-angeles/show/family-party-a-minecraft-movie): Sat 4/5 (11:00am)
+
 ### Wed 2/26 3:20pm
 
 * New screenings: 
