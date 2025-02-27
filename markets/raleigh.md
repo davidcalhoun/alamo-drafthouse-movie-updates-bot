@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Wed 2/26 11:28pm
+* New movies: A Night to Dismember
+
+
+
 ### Wed 2/26 8:29am
 * New movies: Black Bag
 
