@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Thu 2/27 3:25pm
+* New movies: A Minecraft Movie, A Minecraft Movie
+
+* New screenings: 
+    * [A Minecraft Movie](https://drafthouse.com/raleigh/show/a-minecraft-movie): Thu 4/3 (3:30pm, 6:30pm, 9:30pm), Fri 4/4 (12:30pm, 3:30pm, 6:30pm, 9:00pm), Sat 4/5 (3:30pm, 6:30pm, 9:30pm), Sun 4/6 (12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
+    * [Family Party A Minecraft Movie](https://drafthouse.com/raleigh/show/family-party-a-minecraft-movie): Sat 4/5 (12:30pm)
+
 ### Wed 2/26 11:28pm
 * New movies: A Night to Dismember
 
