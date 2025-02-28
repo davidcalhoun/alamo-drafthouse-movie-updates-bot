@@ -1,6 +1,15 @@
 # raleigh
 
 ## Movie updates
+### Fri 2/28 4:21pm
+
+* New screenings: 
+    * [Eraserhead](https://drafthouse.com/raleigh/show/eraserhead): Mon 3/10 (9:30pm)
+
+    * [Inland Empire](https://drafthouse.com/raleigh/show/inland-empire): Fri 3/28 (2:30pm)
+
+    * [Wild At Heart](https://drafthouse.com/raleigh/show/wild-at-heart): Sat 3/15 (2:30pm)
+
 ### Thu 2/27 3:25pm
 * New movies: A Minecraft Movie, A Minecraft Movie
 
