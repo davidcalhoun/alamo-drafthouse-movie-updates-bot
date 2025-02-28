@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Fri 2/28 5:23pm
+
+* New screenings: 
+    * [Mulholland Drive](https://drafthouse.com/raleigh/show/mulholland-drive): Thu 4/3 (9:30pm)
+
+    * [The Elephant Man](https://drafthouse.com/raleigh/show/the-elephant-man): Thu 4/3 (6:15pm)
+
 ### Fri 2/28 4:21pm
 
 * New screenings: 
