@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 2/28 5:44pm
+* New movies: Jaws 1975
+
+* New screenings: 
+    * [Signature Programming Jaws 1975](https://drafthouse.com/los-angeles/show/signature-programming-jaws-1975): Mon 5/26 (4:00pm, 7:20pm)
+
 ### Thu 2/27 12:22pm
 * New movies: A Minecraft Movie, A Minecraft Movie
 
