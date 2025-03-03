@@ -1,6 +1,46 @@
 # raleigh
 
 ## Movie updates
+### Mon 3/3 6:22pm
+* New movies: Seven Veils, I'm Still Here 2025, Anora
+
+* New screenings: 
+    * [Anora](https://drafthouse.com/raleigh/show/anora): Fri 3/7 (6:15pm)
+
+    * [Blue Velvet](https://drafthouse.com/raleigh/show/blue-velvet): Fri 3/7 (12:00pm), Sun 3/9 (6:15pm), Mon 3/10 (3:15pm)
+
+    * [Captain America Brave New World](https://drafthouse.com/raleigh/show/captain-america-brave-new-world): Thu 3/6 (4:15pm, 7:15pm, 10:15pm), Fri 3/7 (12:30pm, 3:30pm, 6:45pm, 10:00pm), Sat 3/8 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Sun 3/9 (12:30pm, 3:45pm, 7:00pm, 10:00pm), Mon 3/10 (4:30pm, 7:45pm, 10:45pm), Tue 3/11 (12:30pm, 3:30pm, 7:00pm, 10:00pm), Wed 3/12 (4:30pm, 7:45pm, 10:45pm)
+
+    * [Companion](https://drafthouse.com/raleigh/show/companion): Thu 3/6 (9:30pm), Fri 3/7 (10:00pm), Sat 3/8 (10:00pm), Sun 3/9 (10:00pm), Mon 3/10 (9:15pm), Tue 3/11 (9:15pm), Wed 3/12 (9:15pm)
+
+    * [Dog Man](https://drafthouse.com/raleigh/show/dog-man): Thu 3/6 (3:45pm, 6:45pm), Fri 3/7 (1:00pm, 3:45pm), Sat 3/8 (1:00pm, 3:45pm), Sun 3/9 (1:00pm, 3:45pm), Mon 3/10 (3:30pm, 6:15pm), Tue 3/11 (1:00pm, 3:45pm, 6:30pm), Wed 3/12 (3:30pm, 6:15pm)
+
+    * [Eraserhead](https://drafthouse.com/raleigh/show/eraserhead): Sat 3/8 (12:30pm, 9:30pm), Wed 3/12 (3:30pm)
+
+    * [Heart Eyes](https://drafthouse.com/raleigh/show/heart-eyes): Fri 3/7 (9:45pm), Sat 3/8 (9:15pm), Sun 3/9 (9:30pm), Mon 3/10 (9:30pm), Tue 3/11 (10:00pm), Wed 3/12 (9:30pm)
+
+    * [Im Still Here 2025](https://drafthouse.com/raleigh/show/im-still-here-2025): Sat 3/8 (2:45pm), Sun 3/9 (2:45pm), Tue 3/11 (6:15pm)
+
+    * [Last Breath](https://drafthouse.com/raleigh/show/last-breath): Thu 3/6 (4:55pm, 7:45pm, 10:30pm), Fri 3/7 (2:00pm, 4:45pm, 7:45pm, 10:30pm), Sat 3/8 (2:00pm, 4:45pm, 7:30pm, 10:15pm), Sun 3/9 (2:00pm, 4:45pm, 7:30pm, 10:15pm), Mon 3/10 (4:45pm, 7:30pm, 10:15pm), Tue 3/11 (2:00pm, 4:45pm, 7:30pm, 10:15pm), Wed 3/12 (4:45pm, 7:30pm, 10:15pm)
+
+    * [Mickey 17](https://drafthouse.com/raleigh/show/mickey-17): Thu 3/6 (3:30pm, 4:00pm, 6:00pm, 7:00pm, 7:30pm, 9:30pm, 10:30pm), Fri 3/7 (1:00pm, 1:30pm, 4:30pm, 5:00pm, 6:30pm, 8:00pm, 8:30pm), Sat 3/8 (1:00pm, 1:30pm, 4:30pm, 5:00pm, 6:30pm, 8:30pm), Sun 3/9 (1:00pm, 1:30pm, 4:30pm, 5:00pm, 6:30pm, 8:00pm, 8:30pm, 9:30pm), Mon 3/10 (2:45pm, 3:45pm, 5:00pm, 6:00pm, 7:00pm, 8:30pm, 9:15pm, 10:15pm), Tue 3/11 (12:00pm, 1:00pm, 1:30pm, 2:30pm, 3:30pm, 4:30pm, 5:00pm, 7:00pm, 8:00pm, 8:30pm, 10:30pm), Wed 3/12 (2:45pm, 3:45pm, 5:00pm, 6:00pm, 7:00pm, 8:30pm, 9:15pm, 10:15pm)
+
+    * [Mobile Suit Gundam Gquuuuuux Beginning](https://drafthouse.com/raleigh/show/mobile-suit-gundam-gquuuuuux-beginning): Thu 3/6 (4:00pm), Fri 3/7 (12:15pm), Sat 3/8 (12:15pm), Sun 3/9 (12:15pm), Mon 3/10 (4:00pm), Tue 3/11 (12:15pm, 3:00pm), Wed 3/12 (4:00pm)
+
+    * [No Other Land](https://drafthouse.com/raleigh/show/no-other-land): Thu 3/6 (3:15pm), Fri 3/7 (3:00pm), Sat 3/8 (6:15pm), Mon 3/10 (6:45pm), Wed 3/12 (6:45pm)
+
+    * [Paddington In Peru](https://drafthouse.com/raleigh/show/paddington-in-peru): Thu 3/6 (3:00pm, 6:15pm, 9:15pm), Fri 3/7 (12:30pm, 3:15pm, 6:00pm, 9:00pm), Sat 3/8 (12:30pm, 3:15pm, 6:00pm, 9:00pm), Sun 3/9 (12:30pm, 3:15pm, 6:00pm, 9:00pm), Mon 3/10 (3:00pm, 6:00pm, 9:00pm), Tue 3/11 (12:30pm, 3:15pm, 6:00pm, 9:00pm), Wed 3/12 (3:00pm, 6:00pm, 9:00pm)
+
+    * [Parasite](https://drafthouse.com/raleigh/show/parasite): Thu 3/6 (6:30pm)
+
+    * [Seven Veils](https://drafthouse.com/raleigh/show/seven-veils): Thu 3/6 (4:30pm, 7:30pm, 10:30pm), Fri 3/7 (2:00pm, 4:45pm, 7:30pm, 10:15pm), Sat 3/8 (2:00pm, 4:45pm, 7:30pm, 10:15pm), Sun 3/9 (2:00pm, 4:45pm, 7:30pm, 10:15pm), Mon 3/10 (4:45pm, 7:30pm, 10:30pm), Tue 3/11 (2:00pm, 4:45pm, 7:30pm, 10:15pm), Wed 3/12 (4:45pm, 7:30pm, 10:30pm)
+
+    * [Snowpiercer](https://drafthouse.com/raleigh/show/snowpiercer): Thu 3/6 (9:45pm)
+
+    * [The Monkey](https://drafthouse.com/raleigh/show/the-monkey): Thu 3/6 (4:45pm, 7:45pm, 10:45pm), Fri 3/7 (1:30pm, 4:15pm, 7:15pm, 10:15pm), Sat 3/8 (12:00pm, 2:45pm, 6:00pm, 9:00pm), Sun 3/9 (12:00pm, 3:15pm, 6:00pm, 9:00pm), Mon 3/10 (3:45pm, 6:45pm, 9:45pm), Tue 3/11 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Wed 3/12 (3:45pm, 6:45pm, 9:45pm)
+
+    * [What Ever Happened To Baby Jane](https://drafthouse.com/raleigh/show/what-ever-happened-to-baby-jane): Fri 3/7 (3:00pm), Sat 3/8 (3:00pm), Wed 3/12 (6:15pm)
+
 ### Mon 3/3 5:24pm
 
 * New screenings: 
