@@ -1,6 +1,48 @@
 # los-angeles
 
 ## Movie updates
+### Mon 3/3 3:19pm
+* New movies: Seven Veils, Anora
+
+* New screenings: 
+    * [Anora](https://drafthouse.com/los-angeles/show/anora): Fri 3/7 (9:00pm), Sat 3/8 (11:45am), Sun 3/9 (1:00pm), Mon 3/10 (10:00pm), Tue 3/11 (9:00pm)
+
+    * [Blue Velvet](https://drafthouse.com/los-angeles/show/blue-velvet): Fri 3/7 (1:00pm), Sat 3/8 (12:50pm), Mon 3/10 (12:30pm), Tue 3/11 (2:50pm), Wed 3/12 (4:10pm)
+
+    * [Captain America Brave New World](https://drafthouse.com/los-angeles/show/captain-america-brave-new-world): Thu 3/6 (3:10pm, 6:50pm, 10:00pm), Fri 3/7 (12:45pm, 3:10pm, 6:45pm, 9:55pm), Sat 3/8 (12:45pm, 3:05pm, 6:40pm, 9:50pm), Sun 3/9 (12:45pm, 3:00pm, 6:40pm), Mon 3/10 (12:45pm, 3:10pm, 6:45pm, 9:55pm), Tue 3/11 (12:45pm, 3:10pm, 6:45pm, 9:55pm), Wed 3/12 (12:45pm, 3:10pm, 6:45pm, 9:55pm)
+
+    * [Cleaner 2025](https://drafthouse.com/los-angeles/show/cleaner-2025): Thu 3/6 (5:25pm)
+
+    * [Companion](https://drafthouse.com/los-angeles/show/companion): Thu 3/6 (6:00pm, 9:40pm), Fri 3/7 (6:10pm), Sat 3/8 (3:15pm), Sun 3/9 (7:15pm), Mon 3/10 (3:20pm, 6:10pm), Tue 3/11 (6:10pm), Wed 3/12 (12:30pm, 9:00pm)
+
+    * [Eraserhead](https://drafthouse.com/los-angeles/show/eraserhead): Fri 3/7 (10:45pm), Sat 3/8 (8:50pm), Sun 3/9 (1:40pm, 8:00pm), Mon 3/10 (7:20pm), Tue 3/11 (9:30pm), Wed 3/12 (9:45pm)
+
+    * [Interstellar](https://drafthouse.com/los-angeles/show/interstellar): Fri 3/7 (11:10am), Mon 3/10 (11:15am), Tue 3/11 (12:30pm), Wed 3/12 (5:40pm)
+
+    * [Last Breath](https://drafthouse.com/los-angeles/show/last-breath): Thu 3/6 (3:50pm, 6:20pm, 9:00pm), Fri 3/7 (12:20pm, 3:55pm, 6:20pm, 9:00pm), Sat 3/8 (12:20pm, 3:55pm, 6:15pm, 9:00pm), Sun 3/9 (12:15pm, 3:55pm, 6:10pm), Mon 3/10 (12:20pm, 3:55pm, 6:20pm, 9:00pm), Tue 3/11 (12:20pm, 3:55pm, 6:20pm, 9:00pm), Wed 3/12 (12:20pm, 3:55pm, 6:20pm, 9:00pm)
+
+    * [Mickey 17](https://drafthouse.com/los-angeles/show/mickey-17): Thu 3/6 (3:30pm, 4:30pm, 6:10pm, 7:00pm, 8:00pm, 8:15pm, 8:45pm, 9:15pm, 9:35pm, 10:30pm), Fri 3/7 (10:45am, 12:00pm, 1:20pm, 3:30pm, 4:50pm, 7:00pm, 8:20pm, 9:00pm, 10:30pm), Sat 3/8 (10:45am, 12:15pm, 1:00pm, 3:45pm, 4:30pm, 5:00pm, 7:15pm, 8:00pm, 8:30pm, 10:20pm), Sun 3/9 (10:45am, 12:00pm, 3:30pm, 4:30pm, 7:00pm), Mon 3/10 (11:00am, 11:30am, 12:00pm, 1:20pm, 2:15pm, 3:00pm, 3:30pm, 4:50pm, 5:45pm, 7:00pm, 8:20pm, 9:15pm, 10:30pm), Tue 3/11 (11:15am, 12:00pm, 1:20pm, 2:15pm, 3:30pm, 4:50pm, 5:45pm, 7:00pm, 8:20pm, 9:15pm, 10:30pm), Wed 3/12 (11:00am, 11:30am, 12:00pm, 1:20pm, 3:00pm, 3:30pm, 4:50pm, 6:30pm, 7:00pm, 8:20pm, 10:00pm, 10:30pm)
+
+    * [Mobile Suit Gundam Gquuuuuux Beginning](https://drafthouse.com/los-angeles/show/mobile-suit-gundam-gquuuuuux-beginning): Thu 3/6 (2:45pm), Fri 3/7 (12:15pm, 2:45pm, 5:15pm), Sat 3/8 (12:00pm, 2:35pm, 5:10pm), Sun 3/9 (11:45am, 2:20pm), Mon 3/10 (11:40am, 2:30pm, 5:10pm), Tue 3/11 (11:40am, 2:45pm, 5:15pm), Wed 3/12 (12:15pm, 2:45pm, 5:15pm)
+
+    * [No Other Land](https://drafthouse.com/los-angeles/show/no-other-land): Thu 3/6 (4:45pm), Fri 3/7 (3:10pm), Sat 3/8 (4:10pm), Sun 3/9 (11:00am), Mon 3/10 (3:15pm), Tue 3/11 (4:30pm), Wed 3/12 (11:30am)
+
+    * [One Of Them Days](https://drafthouse.com/los-angeles/show/one-of-them-days): Thu 3/6 (3:00pm), Fri 3/7 (12:30pm, 3:20pm), Sat 3/8 (6:00pm), Sun 3/9 (10:50am, 4:25pm), Mon 3/10 (12:30pm, 9:00pm), Tue 3/11 (12:30pm, 3:20pm), Wed 3/12 (3:20pm, 6:10pm)
+
+    * [Paddington In Peru](https://drafthouse.com/los-angeles/show/paddington-in-peru): Thu 3/6 (3:00pm)
+
+    * [Parasite](https://drafthouse.com/los-angeles/show/parasite): Sun 3/9 (5:15pm), Tue 3/11 (6:00pm), Wed 3/12 (2:15pm)
+
+    * [Seven Veils](https://drafthouse.com/los-angeles/show/seven-veils): Thu 3/6 (4:15pm, 6:40pm), Fri 3/7 (1:00pm, 4:00pm, 6:00pm, 10:00pm), Sat 3/8 (12:50pm, 3:50pm, 6:50pm, 9:50pm), Sun 3/9 (12:50pm, 3:50pm, 6:50pm), Mon 3/10 (1:10pm, 4:10pm, 7:10pm, 10:10pm), Tue 3/11 (1:10pm, 4:10pm, 7:10pm, 10:10pm), Wed 3/12 (1:10pm, 4:10pm, 7:10pm, 10:10pm)
+
+    * [The Monkey](https://drafthouse.com/los-angeles/show/the-monkey): Thu 3/6 (4:00pm, 7:15pm, 10:10pm), Fri 3/7 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Sat 3/8 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:45pm), Sun 3/9 (11:00am, 1:50pm, 4:40pm, 7:30pm), Mon 3/10 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:20pm), Tue 3/11 (11:10am, 2:00pm, 4:45pm, 7:30pm, 10:20pm), Wed 3/12 (11:10am, 2:00pm, 4:45pm, 7:30pm, 10:20pm)
+
+    * [The Rule Of Jenny Pen](https://drafthouse.com/los-angeles/show/the-rule-of-jenny-pen): Thu 3/6 (7:30pm, 10:25pm), Sun 3/9 (4:50pm), Mon 3/10 (10:40pm), Tue 3/11 (10:40pm), Wed 3/12 (10:40pm)
+
+    * [Universal Language](https://drafthouse.com/los-angeles/show/universal-language): Thu 3/6 (3:30pm)
+
+    * [What Ever Happened To Baby Jane](https://drafthouse.com/los-angeles/show/what-ever-happened-to-baby-jane): Sun 3/9 (1:45pm), Mon 3/10 (3:45pm), Tue 3/11 (11:25am), Wed 3/12 (12:40pm)
+
 ### Mon 3/3 6:19am
 * New movies: Pink Floyd at Pompeii - MCMLXXII
 
