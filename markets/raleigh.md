@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 3/3 5:24pm
+
+* New screenings: 
+    * [Blue Velvet](https://drafthouse.com/raleigh/show/blue-velvet): Thu 3/13 (6:30pm)
+
 ### Mon 3/3 9:25am
 * New movies: Pink Floyd at Pompeii - MCMLXXII
 
