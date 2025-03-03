@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 3/3 9:25am
+* New movies: Pink Floyd at Pompeii - MCMLXXII
+
+* New screenings: 
+    * [Pink Floyd At Pompeii Mcmlxxii](https://drafthouse.com/raleigh/show/pink-floyd-at-pompeii-mcmlxxii): Thu 4/24 (6:30pm), Sun 4/27 (3:30pm)
+
 ### Fri 2/28 5:23pm
 
 * New screenings: 
