@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 3/3 6:19am
+* New movies: Pink Floyd at Pompeii - MCMLXXII
+
+* New screenings: 
+    * [Pink Floyd At Pompeii Mcmlxxii](https://drafthouse.com/los-angeles/show/pink-floyd-at-pompeii-mcmlxxii): Thu 4/24 (7:20pm), Sun 4/27 (3:25pm)
+
 ### Fri 2/28 5:44pm
 * New movies: Jaws 1975
 
