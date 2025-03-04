@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 3/4 10:29am
+
+* New screenings: 
+    * [No Other Land](https://drafthouse.com/los-angeles/show/no-other-land): Wed 3/5 (4:20pm, 9:40pm), Thu 3/6 (3:25pm, 6:00pm)
+
 ### Tue 3/4 6:19am
 * New movies: Neil Young: Coastal
 
