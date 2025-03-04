@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 3/4 11:15am
+
+* New screenings: 
+    * [No Other Land](https://drafthouse.com/los-angeles/show/no-other-land): Tue 3/4 (5:30pm), Wed 3/5 (10:20pm)
+
 ### Tue 3/4 10:29am
 
 * New screenings: 
