@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 3/4 12:22pm
+
+* New screenings: 
+    * [No Other Land](https://drafthouse.com/raleigh/show/no-other-land): Tue 3/4 (5:45pm)
+
 ### Tue 3/4 11:31am
 
 * New screenings: 
