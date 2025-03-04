@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 3/4 11:31am
+
+* New screenings: 
+    * [No Other Land](https://drafthouse.com/raleigh/show/no-other-land): Wed 3/5 (4:45pm, 7:45pm)
+
 ### Tue 3/4 9:24am
 * New movies: Neil Young: Coastal
 
