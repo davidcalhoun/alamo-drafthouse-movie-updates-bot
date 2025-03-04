@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 3/3 5:40pm
+
+* New screenings: 
+    * [Mickey 17](https://drafthouse.com/los-angeles/show/mickey-17): Thu 3/13 (2:45pm, 6:15pm, 9:45pm)
+
 ### Mon 3/3 3:19pm
 * New movies: Seven Veils, Anora
 
