@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 3/4 9:24am
+* New movies: Neil Young: Coastal
+
+* New screenings: 
+    * [Neil Young Coastal](https://drafthouse.com/raleigh/show/neil-young-coastal): Thu 4/17 (7:00pm)
+
 ### Mon 3/3 6:22pm
 * New movies: Seven Veils, I'm Still Here 2025, Anora
 
