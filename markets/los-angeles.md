@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 3/5 9:18am
+* New movies: Jaws 1975
+
+* New screenings: 
+    * [Signature Programming Jaws 1975](https://drafthouse.com/los-angeles/show/signature-programming-jaws-1975): Mon 5/26 (4:00pm, 7:20pm)
+
 ### Tue 3/4 11:15am
 
 * New screenings: 
