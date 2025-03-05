@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 3/5 1:19pm
+* New movies: Thank You Very Much, Not Fade Away
+
+* New screenings: 
+    * [Live Q A Not Fade Away](https://drafthouse.com/los-angeles/show/live-q-a-not-fade-away): Sun 4/13 (1:00pm)
+
+    * [Live Q A Thank You Very Much](https://drafthouse.com/los-angeles/show/live-q-a-thank-you-very-much): Fri 3/28 (7:30pm)
+
 ### Wed 3/5 9:18am
 * New movies: Jaws 1975
 
