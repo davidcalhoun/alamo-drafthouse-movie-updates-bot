@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 3/6 7:22am
+* New movies: BABY INVASION
+
+* New screenings: 
+    * [Baby Invasion](https://drafthouse.com/los-angeles/show/baby-invasion): Fri 3/21 (10:45pm), Sat 3/22 (9:30pm), Sun 3/23 (8:00pm)
+
 ### Wed 3/5 1:19pm
 * New movies: Thank You Very Much, Not Fade Away
 
