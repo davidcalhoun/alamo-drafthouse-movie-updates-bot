@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 3/6 10:26am
+* New movies: BABY INVASION
+
+* New screenings: 
+    * [Baby Invasion](https://drafthouse.com/raleigh/show/baby-invasion): Fri 3/21 (9:30pm), Sat 3/22 (9:30pm), Sun 3/23 (9:30pm)
+
 ### Wed 3/5 12:23pm
 * New movies: Jaws 1975
 
