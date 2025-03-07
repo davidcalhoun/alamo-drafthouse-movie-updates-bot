@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Fri 3/7 12:21pm
+* New movies: Death of a Unicorn
+
+* New screenings: 
+    * [Advance Screening Death Of A Unicorn](https://drafthouse.com/raleigh/show/advance-screening-death-of-a-unicorn): Thu 3/27 (4:00pm)
+
+    * [Death Of A Unicorn](https://drafthouse.com/raleigh/show/death-of-a-unicorn): Fri 3/21 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sat 3/22 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sun 3/23 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Thu 3/27 (7:00pm, 10:00pm)
+
 ### Fri 3/7 9:24am
 * New movies: Death of a Unicorn
 
