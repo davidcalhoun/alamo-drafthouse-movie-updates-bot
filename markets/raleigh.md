@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 3/7 9:24am
+* New movies: Death of a Unicorn
+
+* New screenings: 
+    * [Advance Screening Death Of A Unicorn](https://drafthouse.com/raleigh/show/advance-screening-death-of-a-unicorn): Wed 3/26 (7:00pm)
+
 ### Thu 3/6 10:26am
 * New movies: BABY INVASION
 
