@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 3/7 6:18am
+* New movies: Death of a Unicorn, Death of a Unicorn
+
+* New screenings: 
+    * [Advance Screening Death Of A Unicorn](https://drafthouse.com/los-angeles/show/advance-screening-death-of-a-unicorn): Wed 3/26 (7:00pm)
+
+    * [Death Of A Unicorn](https://drafthouse.com/los-angeles/show/death-of-a-unicorn): Thu 3/27 (4:00pm, 7:00pm, 10:00pm), Fri 3/28 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Sat 3/29 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Sun 3/30 (11:00am, 2:00pm, 5:00pm, 8:00pm)
+
 ### Thu 3/6 7:22am
 * New movies: BABY INVASION
 
