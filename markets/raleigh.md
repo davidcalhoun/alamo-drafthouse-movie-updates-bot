@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 3/7 5:19pm
+
+* New screenings: 
+    * [Mickey 17](https://drafthouse.com/raleigh/show/mickey-17): Sat 3/8 (4:30pm)
+
 ### Fri 3/7 12:21pm
 * New movies: Death of a Unicorn
 
