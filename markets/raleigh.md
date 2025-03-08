@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 3/7 8:31pm
+
+* New screenings: 
+    * [Seven Veils](https://drafthouse.com/raleigh/show/seven-veils): Sat 3/8 (7:30pm)
+
 ### Fri 3/7 5:19pm
 
 * New screenings: 
