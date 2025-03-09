@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Sun 3/9 4:15pm
+* New movies: Borderline 2025
+
+* New screenings: 
+    * [Live Q A Borderline 2025](https://drafthouse.com/los-angeles/show/live-q-a-borderline-2025): Fri 3/14 (6:20pm), Sat 3/15 (7:20pm)
+
 ### Fri 3/7 6:18am
 * New movies: Death of a Unicorn, Death of a Unicorn
 
