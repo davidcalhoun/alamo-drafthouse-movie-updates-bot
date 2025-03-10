@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 3/10 10:25am
+* New movies: Snow White 2025
+
+* New screenings: 
+    * [Snow White 2025](https://drafthouse.com/raleigh/show/snow-white-2025): Thu 3/20 (3:00pm, 6:00pm, 9:00pm)
+
 ### Sun 3/9 5:19pm
 
 * New screenings: 
