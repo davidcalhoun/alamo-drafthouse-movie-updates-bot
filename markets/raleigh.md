@@ -1,6 +1,50 @@
 # raleigh
 
 ## Movie updates
+### Mon 3/10 6:24pm
+* New movies: The Actor, Anora, Jumanji 1995
+
+* New screenings: 
+    * [Anora](https://drafthouse.com/raleigh/show/anora): Thu 3/13 (3:30pm)
+
+    * [Black Bag](https://drafthouse.com/raleigh/show/black-bag): Mon 3/17 (4:30pm, 7:45pm, 10:30pm), Tue 3/18 (1:30pm, 4:30pm, 7:30pm, 10:15pm), Wed 3/19 (4:30pm, 7:45pm, 10:30pm)
+
+    * [Blue Velvet](https://drafthouse.com/raleigh/show/blue-velvet): Fri 3/14 (12:30pm)
+
+    * [Captain America Brave New World](https://drafthouse.com/raleigh/show/captain-america-brave-new-world): Thu 3/13 (3:15pm, 6:15pm, 9:15pm), Fri 3/14 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sat 3/15 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sun 3/16 (1:00pm, 4:00pm, 7:00pm, 10:15pm), Mon 3/17 (4:00pm, 7:00pm, 10:15pm), Tue 3/18 (1:00pm, 4:00pm, 7:00pm, 10:05pm), Wed 3/19 (4:00pm, 7:00pm, 10:15pm)
+
+    * [Eraserhead](https://drafthouse.com/raleigh/show/eraserhead): Thu 3/13 (9:45pm), Fri 3/14 (3:30pm), Tue 3/18 (3:30pm), Wed 3/19 (3:30pm)
+
+    * [Jumanji 1995](https://drafthouse.com/raleigh/show/jumanji-1995): Tue 3/18 (12:30pm)
+
+    * [Last Breath](https://drafthouse.com/raleigh/show/last-breath): Thu 3/13 (3:45pm, 6:45pm, 9:45pm), Fri 3/14 (2:00pm, 4:45pm, 7:45pm, 10:45pm), Sat 3/15 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Sun 3/16 (2:00pm, 4:45pm, 7:45pm, 10:45pm), Mon 3/17 (4:30pm, 7:45pm, 10:45pm), Tue 3/18 (2:00pm, 4:45pm, 7:45pm, 10:30pm), Wed 3/19 (4:30pm, 7:45pm, 10:45pm)
+
+    * [Leprechaun](https://drafthouse.com/raleigh/show/leprechaun): Sun 3/16 (9:30pm)
+
+    * [Mickey 17](https://drafthouse.com/raleigh/show/mickey-17): Thu 3/13 (2:40pm, 4:30pm, 6:45pm, 7:45pm, 8:15pm, 10:15pm), Fri 3/14 (1:30pm, 2:00pm, 5:00pm, 6:45pm, 8:30pm, 9:00pm, 10:15pm), Sat 3/15 (12:45pm, 2:00pm, 4:15pm, 6:15pm, 7:45pm, 9:00pm, 9:45pm), Sun 3/16 (1:30pm, 2:00pm, 5:00pm, 6:30pm, 8:30pm, 9:00pm, 10:00pm), Mon 3/17 (2:30pm, 4:15pm, 6:15pm, 7:35pm, 9:00pm, 9:45pm), Tue 3/18 (1:30pm, 2:00pm, 5:00pm, 5:30pm, 6:30pm, 8:30pm, 9:00pm, 9:50pm), Wed 3/19 (2:30pm, 4:15pm, 6:15pm, 7:35pm, 9:00pm, 9:45pm)
+
+    * [Mobile Suit Gundam Gquuuuuux Beginning](https://drafthouse.com/raleigh/show/mobile-suit-gundam-gquuuuuux-beginning): Thu 3/13 (4:15pm)
+
+    * [No Other Land](https://drafthouse.com/raleigh/show/no-other-land): Thu 3/13 (3:30pm), Fri 3/14 (5:45pm), Sat 3/15 (5:30pm), Sun 3/16 (5:45pm)
+
+    * [Novocaine 2025](https://drafthouse.com/raleigh/show/novocaine-2025): Mon 3/17 (3:00pm, 6:00pm, 9:00pm), Tue 3/18 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Wed 3/19 (4:00pm, 7:00pm, 10:00pm)
+
+    * [Opus](https://drafthouse.com/raleigh/show/opus): Thu 3/13 (4:00pm), Mon 3/17 (4:00pm, 6:00pm, 10:00pm), Tue 3/18 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Wed 3/19 (3:00pm, 6:00pm, 9:45pm)
+
+    * [Paddington In Peru](https://drafthouse.com/raleigh/show/paddington-in-peru): Thu 3/13 (4:45pm), Fri 3/14 (12:15pm, 3:15pm), Sat 3/15 (11:30am, 2:30pm), Sun 3/16 (12:15pm, 3:15pm), Mon 3/17 (2:45pm), Tue 3/18 (12:15pm, 3:15pm), Wed 3/19 (2:45pm)
+
+    * [Queer Film Theory 101 Charlies Angels 2000](https://drafthouse.com/raleigh/show/queer-film-theory-101-charlies-angels-2000): Sat 3/15 (5:45pm), Sun 3/16 (6:45pm), Wed 3/19 (6:30pm)
+
+    * [The Actor](https://drafthouse.com/raleigh/show/the-actor): Thu 3/13 (7:00pm, 10:00pm), Fri 3/14 (12:30pm, 3:30pm, 6:15pm, 9:15pm), Sat 3/15 (12:30pm, 3:30pm, 6:30pm, 9:15pm), Sun 3/16 (12:30pm, 3:30pm, 6:15pm, 9:15pm), Mon 3/17 (3:30pm, 6:30pm, 9:15pm), Tue 3/18 (12:30pm, 3:30pm, 6:15pm, 9:15pm), Wed 3/19 (3:30pm, 6:30pm, 9:15pm)
+
+    * [The Lady Eve](https://drafthouse.com/raleigh/show/the-lady-eve): Fri 3/14 (6:30pm)
+
+    * [The Monkey](https://drafthouse.com/raleigh/show/the-monkey): Thu 3/13 (4:15pm, 7:15pm, 10:15pm), Fri 3/14 (1:15pm, 4:15pm, 7:15pm, 10:30pm), Sat 3/15 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Sun 3/16 (1:15pm, 4:15pm, 7:15pm, 10:30pm), Mon 3/17 (4:15pm, 7:15pm, 10:30pm), Tue 3/18 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Wed 3/19 (4:15pm, 7:15pm, 10:30pm)
+
+    * [Twin Peaks Fire Walk With Me](https://drafthouse.com/raleigh/show/twin-peaks-fire-walk-with-me): Sat 3/15 (8:00pm)
+
+    * [Wild At Heart](https://drafthouse.com/raleigh/show/wild-at-heart): Mon 3/17 (3:00pm)
+
 ### Mon 3/10 11:26am
 * New movies: Snow White 2025, Mystery Machine 3/17/2025
 
