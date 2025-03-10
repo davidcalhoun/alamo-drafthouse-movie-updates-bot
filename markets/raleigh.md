@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Mon 3/10 11:26am
+* New movies: Snow White 2025, Mystery Machine 3/17/2025
+
+* New screenings: 
+    * [Family Party Snow White 2025](https://drafthouse.com/raleigh/show/family-party-snow-white-2025): Sat 3/22 (11:30am)
+
+    * [Mystery Machine 3 17 2025](https://drafthouse.com/raleigh/show/mystery-machine-3-17-2025): Mon 3/17 (7:00pm)
+
+    * [Snow White 2025](https://drafthouse.com/raleigh/show/snow-white-2025): Fri 3/21 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 3/22 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sun 3/23 (12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
 ### Mon 3/10 10:25am
 * New movies: Snow White 2025
 
