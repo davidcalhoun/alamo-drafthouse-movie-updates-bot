@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Mon 3/10 6:29am
+* New movies: Snow White 2025, Snow White 2025, Snow White 2025, Mystery Machine 3/17/2025
+
+* New screenings: 
+    * [Costume Screening Snow White 2025 Popcorn Princess Screening](https://drafthouse.com/los-angeles/show/costume-screening-snow-white-2025-popcorn-princess-screening): Sun 3/23 (12:00pm)
+
+    * [Family Party Snow White 2025](https://drafthouse.com/los-angeles/show/family-party-snow-white-2025): Sat 3/22 (11:00am)
+
+    * [Mystery Machine 3 17 2025](https://drafthouse.com/los-angeles/show/mystery-machine-3-17-2025): Mon 3/17 (7:00pm)
+
+    * [Snow White 2025](https://drafthouse.com/los-angeles/show/snow-white-2025): Thu 3/20 (3:15pm, 6:15pm, 9:15pm), Fri 3/21 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sat 3/22 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sun 3/23 (4:45pm, 7:45pm), Mon 3/24 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Tue 3/25 (12:15pm, 3:15pm, 6:15pm, 9:15pm)
+
 ### Sun 3/9 4:15pm
 * New movies: Borderline 2025
 
