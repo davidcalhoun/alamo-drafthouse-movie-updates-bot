@@ -1,6 +1,50 @@
 # los-angeles
 
 ## Movie updates
+### Mon 3/10 6:41pm
+* New movies: Borderline 2025, Jumanji 1995
+
+* New screenings: 
+    * [Anora](https://drafthouse.com/los-angeles/show/anora): Thu 3/13 (7:10pm, 8:45pm), Fri 3/14 (8:40pm), Sat 3/15 (5:45pm), Sun 3/16 (3:30pm), Mon 3/17 (1:00pm, 5:45pm), Tue 3/18 (2:30pm, 5:45pm), Wed 3/19 (12:00pm, 9:00pm)
+
+    * [Black Bag](https://drafthouse.com/los-angeles/show/black-bag): Wed 3/19 (11:25am, 2:10pm, 5:00pm, 7:45pm, 10:45pm)
+
+    * [Blue Velvet](https://drafthouse.com/los-angeles/show/blue-velvet): Thu 3/13 (4:00pm)
+
+    * [Borderline 2025](https://drafthouse.com/los-angeles/show/borderline-2025): Fri 3/14 (10:35pm), Sat 3/15 (10:30pm), Sun 3/16 (12:45pm, 7:00pm), Mon 3/17 (11:40am, 4:30pm), Tue 3/18 (11:25am, 9:00pm), Wed 3/19 (11:25am, 4:30pm)
+
+    * [Captain America Brave New World](https://drafthouse.com/los-angeles/show/captain-america-brave-new-world): Thu 3/13 (3:35pm, 6:00pm, 9:10pm), Fri 3/14 (12:00pm, 3:50pm, 6:00pm, 9:10pm), Sat 3/15 (12:00pm, 3:50pm, 6:00pm, 9:10pm), Sun 3/16 (12:00pm, 3:10pm, 6:20pm), Mon 3/17 (12:00pm, 3:20pm, 6:00pm, 9:10pm), Tue 3/18 (11:40am, 2:50pm, 6:30pm, 9:00pm), Wed 3/19 (12:00pm, 3:50pm, 6:00pm, 9:10pm)
+
+    * [Companion](https://drafthouse.com/los-angeles/show/companion): Thu 3/13 (3:15pm)
+
+    * [Eraserhead](https://drafthouse.com/los-angeles/show/eraserhead): Thu 3/13 (10:40pm)
+
+    * [Jumanji 1995](https://drafthouse.com/los-angeles/show/jumanji-1995): Tue 3/18 (11:35am), Wed 3/19 (3:30pm)
+
+    * [Last Breath](https://drafthouse.com/los-angeles/show/last-breath): Thu 3/13 (3:10pm, 6:45pm, 9:30pm), Fri 3/14 (1:00pm, 3:10pm, 7:00pm, 9:45pm), Sat 3/15 (1:00pm, 3:15pm, 7:00pm, 9:45pm), Sun 3/16 (11:45am, 2:30pm, 5:15pm, 8:00pm), Mon 3/17 (12:30pm, 3:10pm, 6:30pm, 9:15pm), Tue 3/18 (1:00pm, 3:45pm, 6:00pm, 9:40pm), Wed 3/19 (1:00pm, 3:15pm, 7:00pm, 10:25pm)
+
+    * [Mickey 17](https://drafthouse.com/los-angeles/show/mickey-17): Thu 3/13 (2:15pm, 5:10pm, 5:45pm, 8:40pm, 9:15pm), Fri 3/14 (11:15am, 1:20pm, 2:15pm, 4:50pm, 5:30pm, 8:20pm, 9:00pm), Sat 3/15 (11:15am, 1:20pm, 2:15pm, 4:50pm, 5:30pm, 8:20pm, 9:00pm), Sun 3/16 (11:10am, 12:15pm, 2:20pm, 3:45pm, 5:35pm, 7:15pm), Mon 3/17 (11:15am, 1:20pm, 2:15pm, 4:50pm, 5:30pm, 8:20pm, 9:00pm), Tue 3/18 (11:10am, 12:00pm, 2:15pm, 3:30pm, 5:30pm, 8:45pm, 9:50pm), Wed 3/19 (11:15am, 12:30pm, 2:15pm, 4:00pm, 5:30pm, 8:40pm, 9:45pm)
+
+    * [No Other Land](https://drafthouse.com/los-angeles/show/no-other-land): Thu 3/13 (3:00pm), Fri 3/14 (11:25am, 2:45pm), Sat 3/15 (11:25am, 2:45pm), Sun 3/16 (11:30am), Mon 3/17 (2:45pm), Tue 3/18 (9:20pm), Wed 3/19 (2:45pm, 10:20pm)
+
+    * [One Of Them Days](https://drafthouse.com/los-angeles/show/one-of-them-days): Thu 3/13 (2:20pm)
+
+    * [Opus](https://drafthouse.com/los-angeles/show/opus): Thu 3/13 (6:00pm, 9:00pm, 10:00pm), Mon 3/17 (1:00pm, 4:00pm, 6:00pm, 9:50pm), Tue 3/18 (12:20pm, 3:15pm, 6:00pm, 10:00pm), Wed 3/19 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:30pm)
+
+    * [Queer Film Theory 101 Charlies Angels 2000](https://drafthouse.com/los-angeles/show/queer-film-theory-101-charlies-angels-2000): Mon 3/17 (8:50pm), Tue 3/18 (4:20pm)
+
+    * [The Lady Eve](https://drafthouse.com/los-angeles/show/the-lady-eve): Fri 3/14 (3:25pm), Sat 3/15 (2:25pm)
+
+    * [The Monkey](https://drafthouse.com/los-angeles/show/the-monkey): Thu 3/13 (4:30pm, 7:20pm, 10:10pm), Fri 3/14 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Sat 3/15 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Sun 3/16 (11:00am, 1:50pm, 4:40pm, 7:30pm), Mon 3/17 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Tue 3/18 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Wed 3/19 (11:30am, 2:20pm, 5:10pm, 8:00pm, 10:30pm)
+
+    * [The Rule Of Jenny Pen](https://drafthouse.com/los-angeles/show/the-rule-of-jenny-pen): Thu 3/13 (5:45pm), Fri 3/14 (5:45pm), Sat 3/15 (9:20pm), Sun 3/16 (2:40pm), Mon 3/17 (9:20pm), Tue 3/18 (2:40pm), Wed 3/19 (5:45pm)
+
+    * [The Watermelon Woman](https://drafthouse.com/los-angeles/show/the-watermelon-woman): Sat 3/15 (4:35pm)
+
+    * [Twin Peaks Fire Walk With Me](https://drafthouse.com/los-angeles/show/twin-peaks-fire-walk-with-me): Fri 3/14 (12:00pm), Sat 3/15 (5:15pm, 8:45pm), Sun 3/16 (6:00pm), Mon 3/17 (2:30pm), Tue 3/18 (12:50pm)
+
+    * [Wild At Heart](https://drafthouse.com/los-angeles/show/wild-at-heart): Fri 3/14 (12:50pm, 7:15pm), Sat 3/15 (11:10am), Mon 3/17 (11:00am), Wed 3/19 (1:15pm)
+
 ### Mon 3/10 6:29am
 * New movies: Snow White 2025, Snow White 2025, Snow White 2025, Mystery Machine 3/17/2025
 
