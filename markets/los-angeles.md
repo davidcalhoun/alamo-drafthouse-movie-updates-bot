@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 3/11 7:20am
+* New movies: Holland
+
+* New screenings: 
+    * [Free Victory Screening Holland](https://drafthouse.com/los-angeles/show/free-victory-screening-holland): Tue 3/18 (7:00pm)
+
 ### Mon 3/10 6:41pm
 * New movies: Borderline 2025, Jumanji 1995
 
