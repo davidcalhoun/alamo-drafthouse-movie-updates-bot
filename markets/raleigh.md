@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 3/11 10:58pm
+* New movies: Snow White 2025
+
+* New screenings: 
+    * [Costume Screening Snow White 2025 Once Upon A Time Screening](https://drafthouse.com/raleigh/show/costume-screening-snow-white-2025-once-upon-a-time-screening): Fri 3/21 (6:30pm)
+
 ### Mon 3/10 6:24pm
 * New movies: The Actor, Anora, Jumanji 1995
 
