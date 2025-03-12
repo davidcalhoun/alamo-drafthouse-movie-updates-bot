@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 3/11 11:29pm
+
+* New screenings: 
+    * [Snow White 2025](https://drafthouse.com/los-angeles/show/snow-white-2025): Thu 3/27 (3:15pm, 6:15pm, 9:15pm)
+
 ### Tue 3/11 7:20am
 * New movies: Holland
 
