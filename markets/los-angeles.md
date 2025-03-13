@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 3/13 5:41am
+* New movies: Pride & Prejudice 2005, Pride & Prejudice 2005
+
+* New screenings: 
+    * [Movie Party Pride Prejudice 2005 20th Anniversary](https://drafthouse.com/los-angeles/show/movie-party-pride-prejudice-2005-20th-anniversary): Sat 4/19 (4:00pm), Tue 4/22 (7:20pm)
+
+    * [Special Event Pride Prejudice 2005 20th Anniversary](https://drafthouse.com/los-angeles/show/special-event-pride-prejudice-2005-20th-anniversary): Sat 4/19 (7:20pm), Tue 4/22 (4:00pm)
+
 ### Wed 3/12 6:42pm
 * New movies: Shrek, Eephus, Smiley Face
 
