@@ -1,6 +1,20 @@
 # los-angeles
 
 ## Movie updates
+### Wed 3/12 6:42pm
+* New movies: Shrek, Eephus, Smiley Face
+
+* New screenings: 
+    * [A Minecraft Movie](https://drafthouse.com/los-angeles/show/a-minecraft-movie): Mon 4/7 (12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
+    * [Eephus](https://drafthouse.com/los-angeles/show/eephus): Fri 3/21 (6:00pm), Sat 3/22 (6:00pm)
+
+    * [Lost Highway](https://drafthouse.com/los-angeles/show/lost-highway): Fri 3/21 (8:50pm)
+
+    * [Movie Party Shrek](https://drafthouse.com/los-angeles/show/movie-party-shrek): Sat 4/26 (11:15am)
+
+    * [Smiley Face](https://drafthouse.com/los-angeles/show/smiley-face): Sun 4/6 (1:30pm)
+
 ### Tue 3/11 11:29pm
 
 * New screenings: 
