@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 3/13 9:27am
+* New movies: The Alto Knights
+
+* New screenings: 
+    * [The Alto Knights](https://drafthouse.com/los-angeles/show/the-alto-knights): Thu 3/20 (3:45pm, 7:00pm, 10:15pm), Fri 3/21 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Sat 3/22 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Sun 3/23 (12:30pm, 3:45pm, 7:00pm), Mon 3/24 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Tue 3/25 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Wed 3/26 (11:45am, 3:00pm, 6:15pm, 9:30pm)
+
 ### Thu 3/13 5:41am
 * New movies: Pride & Prejudice 2005, Pride & Prejudice 2005
 
