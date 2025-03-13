@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 3/13 3:18pm
+* New movies: Secret Mall Apartment, Ash
+
+* New screenings: 
+    * [Ash](https://drafthouse.com/los-angeles/show/ash): Fri 3/21 (10:45pm), Sat 3/22 (8:50pm)
+
+    * [Secret Mall Apartment](https://drafthouse.com/los-angeles/show/secret-mall-apartment): Sat 4/5 (3:00pm, 5:45pm, 8:30pm), Sun 4/6 (2:30pm, 5:15pm, 8:00pm)
+
 ### Thu 3/13 2:19pm
 
 * New screenings: 
