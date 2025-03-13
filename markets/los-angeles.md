@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 3/13 2:19pm
+
+* New screenings: 
+    * [Twin Peaks Fire Walk With Me](https://drafthouse.com/los-angeles/show/twin-peaks-fire-walk-with-me): Thu 3/20 (10:15pm)
+
 ### Thu 3/13 9:27am
 * New movies: The Alto Knights
 
