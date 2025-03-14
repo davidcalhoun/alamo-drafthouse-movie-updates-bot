@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 3/14 5:24pm
+* New movies: A History of Violence
+
+* New screenings: 
+    * [Weird Wednesday A History Of Violence](https://drafthouse.com/raleigh/show/weird-wednesday-a-history-of-violence): Wed 4/2 (9:00pm)
+
 ### Fri 3/14 1:19pm
 * New movies: Pride & Prejudice 2005, Shrek, Pride & Prejudice 2005, Critters 2: The Main Course, The Brides of Dracula 1960, Cosmopolis, Eastern Promises, Maps to the Stars, Smiley Face, The Slumber Party Massacre
 
