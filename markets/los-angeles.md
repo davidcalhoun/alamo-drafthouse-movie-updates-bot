@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 3/14 6:26am
+* New movies: A Working Man
+
+* New screenings: 
+    * [A Working Man](https://drafthouse.com/los-angeles/show/a-working-man): Thu 3/27 (4:20pm, 7:30pm, 10:40pm), Fri 3/28 (12:50pm, 4:00pm, 7:10pm, 10:20pm), Sat 3/29 (12:50pm, 4:00pm, 7:10pm, 10:20pm), Sun 3/30 (12:50pm, 4:00pm, 7:10pm), Mon 3/31 (12:50pm, 4:00pm, 7:10pm, 10:20pm), Tue 4/1 (12:25pm, 3:35pm, 6:45pm, 10:00pm), Wed 4/2 (12:50pm, 4:00pm, 7:10pm, 10:20pm)
+
 ### Thu 3/13 3:18pm
 * New movies: Secret Mall Apartment, Ash
 
