@@ -1,6 +1,32 @@
 # raleigh
 
 ## Movie updates
+### Fri 3/14 1:19pm
+* New movies: Pride & Prejudice 2005, Shrek, Pride & Prejudice 2005, Critters 2: The Main Course, The Brides of Dracula 1960, Cosmopolis, Eastern Promises, Maps to the Stars, Smiley Face, The Slumber Party Massacre
+
+* New screenings: 
+    * [Death Of A Unicorn](https://drafthouse.com/raleigh/show/death-of-a-unicorn): Thu 3/27 (4:00pm)
+
+    * [Movie Party Pride Prejudice 2005 20th Anniversary](https://drafthouse.com/raleigh/show/movie-party-pride-prejudice-2005-20th-anniversary): Mon 4/21 (6:45pm)
+
+    * [Movie Party Shrek](https://drafthouse.com/raleigh/show/movie-party-shrek): Tue 4/29 (6:30pm)
+
+    * [Smiley Face](https://drafthouse.com/raleigh/show/smiley-face): Sat 4/5 (2:00pm)
+
+    * [Special Event Pride Prejudice 2005 20th Anniversary](https://drafthouse.com/raleigh/show/special-event-pride-prejudice-2005-20th-anniversary): Mon 4/21 (3:30pm)
+
+    * [Terror Tuesday Critters 2 The Main Course](https://drafthouse.com/raleigh/show/terror-tuesday-critters-2-the-main-course): Tue 4/22 (9:30pm)
+
+    * [Terror Tuesday Slumber Party Massacre](https://drafthouse.com/raleigh/show/terror-tuesday-slumber-party-massacre): Tue 4/15 (9:00pm)
+
+    * [Terror Tuesday The Brides Of Dracula 1960](https://drafthouse.com/raleigh/show/terror-tuesday-the-brides-of-dracula-1960): Tue 4/29 (9:30pm)
+
+    * [Weird Wednesday Cosmopolis](https://drafthouse.com/raleigh/show/weird-wednesday-cosmopolis): Wed 4/16 (9:30pm)
+
+    * [Weird Wednesday Eastern Promises](https://drafthouse.com/raleigh/show/weird-wednesday-eastern-promises): Wed 4/9 (9:00pm)
+
+    * [Weird Wednesday Maps To The Stars](https://drafthouse.com/raleigh/show/weird-wednesday-maps-to-the-stars): Wed 4/23 (9:30pm)
+
 ### Tue 3/11 10:58pm
 * New movies: Snow White 2025
 
