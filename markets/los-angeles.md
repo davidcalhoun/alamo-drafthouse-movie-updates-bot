@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 3/14 9:23pm
+* New movies: Terminator 2: Judgment Day
+
+* New screenings: 
+    * [Snow White 2025](https://drafthouse.com/los-angeles/show/snow-white-2025): Sun 3/23 (1:45pm)
+
+    * [Terminator 2 Judgment Day](https://drafthouse.com/los-angeles/show/terminator-2-judgment-day): Sat 3/22 (2:10pm)
+
 ### Fri 3/14 6:26am
 * New movies: A Working Man
 
