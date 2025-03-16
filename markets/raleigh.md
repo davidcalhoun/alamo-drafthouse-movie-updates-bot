@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Sat 3/15 10:02pm
+* New movies: A/V Geeks Present: How to Survive
+
+* New screenings: 
+    * [A V Geeks Present How To Survive](https://drafthouse.com/raleigh/show/a-v-geeks-present-how-to-survive): Tue 4/15 (7:00pm)
+
+    * [Movie Party Pride Prejudice 2005 20th Anniversary](https://drafthouse.com/raleigh/show/movie-party-pride-prejudice-2005-20th-anniversary): Sat 4/19 (3:30pm)
+
+    * [Special Event Pride Prejudice 2005 20th Anniversary](https://drafthouse.com/raleigh/show/special-event-pride-prejudice-2005-20th-anniversary): Sat 4/19 (11:30am)
+
 ### Fri 3/14 5:24pm
 * New movies: A History of Violence
 
