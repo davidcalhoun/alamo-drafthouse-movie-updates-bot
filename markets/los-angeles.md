@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 3/17 6:29am
+* New movies: The Amateur 2025
+
+* New screenings: 
+    * [The Amateur 2025](https://drafthouse.com/los-angeles/show/the-amateur-2025): Thu 4/10 (3:15pm, 6:30pm, 9:45pm), Fri 4/11 (11:45am, 3:00pm, 6:15pm, 9:30pm), Sat 4/12 (11:45am, 3:00pm, 6:15pm, 9:30pm), Sun 4/13 (11:45am, 3:00pm, 6:15pm), Mon 4/14 (11:45am, 3:00pm, 6:15pm, 9:30pm), Tue 4/15 (11:45am, 3:00pm, 6:15pm, 9:30pm), Wed 4/16 (11:45am, 3:00pm, 6:15pm, 9:30pm)
+
 ### Fri 3/14 9:23pm
 * New movies: Terminator 2: Judgment Day
 
