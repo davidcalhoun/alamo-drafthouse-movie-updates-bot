@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 3/18 5:41am
+* New movies: Hell of a Summer, Hell of a Summer
+
+* New screenings: 
+    * [Hell Of A Summer](https://drafthouse.com/los-angeles/show/hell-of-a-summer): Thu 4/3 (7:30pm, 10:10pm), Fri 4/4 (11:30am, 2:10pm, 4:50pm, 7:30pm, 10:10pm), Sat 4/5 (11:30am, 2:10pm, 4:50pm, 7:30pm, 10:10pm), Sun 4/6 (12:40pm, 3:20pm, 6:00pm), Mon 4/7 (11:30am, 2:10pm, 4:50pm, 7:30pm, 10:10pm), Tue 4/8 (11:30am, 2:10pm, 4:50pm, 7:30pm, 10:10pm), Wed 4/9 (11:30am, 2:10pm, 4:50pm, 7:30pm, 10:10pm)
+
+    * [Livestream Q A Hell Of A Summer](https://drafthouse.com/los-angeles/show/livestream-q-a-hell-of-a-summer): Tue 3/25 (6:00pm)
+
 ### Mon 3/17 6:42pm
 * New movies: Magazine Dreams, McVeigh
 
