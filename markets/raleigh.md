@@ -1,6 +1,28 @@
 # raleigh
 
 ## Movie updates
+### Tue 3/18 11:27am
+* New movies: Across the Universe, Creed, Heartworn Highways, Juliet of the Spirits, Dazed and Confused, Monty Python's Life of Brian, Suzume Subtitled, The Cartoons of Max Fleischer, Tommy Boy
+
+* New screenings: 
+    * [Creed](https://drafthouse.com/raleigh/show/creed): Wed 4/16 (6:00pm)
+
+    * [Dazed And Confused](https://drafthouse.com/raleigh/show/dazed-and-confused): Sat 4/12 (3:30pm)
+
+    * [Heartworn Highways](https://drafthouse.com/raleigh/show/heartworn-highways): Mon 4/28 (6:30pm)
+
+    * [Monty Pythons Life Of Brian](https://drafthouse.com/raleigh/show/monty-pythons-life-of-brian): Sun 4/20 (1:30pm)
+
+    * [Movie Party Across The Universe](https://drafthouse.com/raleigh/show/movie-party-across-the-universe): Sat 4/12 (12:00pm)
+
+    * [Queer Film Theory 101 Juliet Of The Spirits](https://drafthouse.com/raleigh/show/queer-film-theory-101-juliet-of-the-spirits): Tue 4/22 (6:30pm)
+
+    * [Suzume Subtitled](https://drafthouse.com/raleigh/show/suzume-subtitled): Mon 4/28 (7:15pm)
+
+    * [The Cartoons Of Max Fleischer](https://drafthouse.com/raleigh/show/the-cartoons-of-max-fleischer): Sun 4/27 (1:00pm)
+
+    * [Tommy Boy](https://drafthouse.com/raleigh/show/tommy-boy): Wed 4/23 (6:30pm)
+
 ### Tue 3/18 8:50am
 * New movies: Hell of a Summer, Hell of a Summer
 
