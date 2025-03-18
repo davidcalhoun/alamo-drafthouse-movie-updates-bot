@@ -1,6 +1,32 @@
 # los-angeles
 
 ## Movie updates
+### Tue 3/18 8:23am
+* New movies: Across the Universe, Dazed and Confused, Creed, Heartworn Highways, Noroi: The Curse, Juliet of the Spirits, Selena, Monty Python's Life of Brian, Suzume Subtitled, The Cartoons of Max Fleischer, Tommy Boy
+
+* New screenings: 
+    * [Creed](https://drafthouse.com/los-angeles/show/creed): Sun 4/13 (5:35pm)
+
+    * [Dazed And Confused](https://drafthouse.com/los-angeles/show/dazed-and-confused): Sat 4/12 (2:30pm), Thu 4/17 (4:00pm)
+
+    * [Heartworn Highways](https://drafthouse.com/los-angeles/show/heartworn-highways): Sun 4/27 (12:40pm)
+
+    * [Monty Pythons Life Of Brian](https://drafthouse.com/los-angeles/show/monty-pythons-life-of-brian): Sun 4/20 (12:00pm)
+
+    * [Movie Party Across The Universe](https://drafthouse.com/los-angeles/show/movie-party-across-the-universe): Sat 4/12 (11:00am), Tue 4/15 (7:20pm)
+
+    * [Noroi The Curse](https://drafthouse.com/los-angeles/show/noroi-the-curse): Wed 4/2 (7:30pm)
+
+    * [Queer Film Theory 101 Juliet Of The Spirits](https://drafthouse.com/los-angeles/show/queer-film-theory-101-juliet-of-the-spirits): Mon 4/21 (6:00pm)
+
+    * [Selena](https://drafthouse.com/los-angeles/show/selena): Wed 4/16 (7:20pm)
+
+    * [Suzume Subtitled](https://drafthouse.com/los-angeles/show/suzume-subtitled): Mon 4/28 (7:20pm)
+
+    * [The Cartoons Of Max Fleischer](https://drafthouse.com/los-angeles/show/the-cartoons-of-max-fleischer): Sat 4/26 (2:00pm)
+
+    * [Tommy Boy](https://drafthouse.com/los-angeles/show/tommy-boy): Sat 4/19 (1:10pm)
+
 ### Tue 3/18 6:29am
 * New movies: The Bondsman
 
