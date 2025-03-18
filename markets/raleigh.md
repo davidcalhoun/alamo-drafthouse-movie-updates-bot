@@ -1,6 +1,42 @@
 # raleigh
 
 ## Movie updates
+### Mon 3/17 11:02pm
+* New movies: The Alto Knights, Magazine Dreams, Ash
+
+* New screenings: 
+    * [Ash](https://drafthouse.com/raleigh/show/ash): Fri 3/21 (10:30pm), Sat 3/22 (10:30pm), Sun 3/23 (9:30pm, 10:50pm), Mon 3/24 (10:30pm), Tue 3/25 (9:30pm), Wed 3/26 (10:30pm)
+
+    * [Black Bag](https://drafthouse.com/raleigh/show/black-bag): Thu 3/20 (3:30pm, 6:30pm, 9:30pm), Fri 3/21 (12:00pm, 12:30pm, 3:30pm, 6:30pm, 9:30pm), Sat 3/22 (12:00pm, 12:30pm, 3:30pm, 6:30pm, 9:30pm), Sun 3/23 (12:00pm, 1:00pm, 4:05pm, 7:30pm, 10:30pm), Mon 3/24 (3:30pm, 6:30pm, 9:30pm), Tue 3/25 (12:30pm, 12:45pm, 3:30pm, 6:30pm, 9:30pm), Wed 3/26 (3:30pm, 6:30pm, 9:30pm)
+
+    * [Captain America Brave New World](https://drafthouse.com/raleigh/show/captain-america-brave-new-world): Thu 3/20 (4:00pm, 7:30pm, 10:45pm), Fri 3/21 (11:30am, 2:45pm, 6:00pm, 9:15pm), Sat 3/22 (11:30am, 2:45pm, 6:00pm, 9:15pm), Sun 3/23 (11:30am, 2:45pm, 6:00pm, 9:15pm), Mon 3/24 (2:45pm, 6:00pm, 9:15pm), Tue 3/25 (11:30am, 2:45pm, 6:00pm, 9:15pm), Wed 3/26 (2:45pm, 6:00pm, 9:15pm)
+
+    * [Last Breath](https://drafthouse.com/raleigh/show/last-breath): Thu 3/20 (5:30pm, 8:30pm)
+
+    * [Lost Highway](https://drafthouse.com/raleigh/show/lost-highway): Sat 3/22 (6:30pm), Tue 3/25 (2:35pm)
+
+    * [Magazine Dreams](https://drafthouse.com/raleigh/show/magazine-dreams): Thu 3/20 (4:15pm, 7:30pm, 10:45pm), Fri 3/21 (12:30pm, 3:45pm, 7:00pm, 10:20pm), Sat 3/22 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Sun 3/23 (11:25am, 2:40pm, 6:00pm, 9:25pm), Mon 3/24 (3:45pm, 7:00pm, 10:15pm), Tue 3/25 (11:30am, 2:45pm, 6:00pm, 9:15pm), Wed 3/26 (2:45pm, 6:00pm, 9:15pm)
+
+    * [Marie Antoinette](https://drafthouse.com/raleigh/show/marie-antoinette): Fri 3/21 (3:15pm), Sat 3/22 (3:15pm), Mon 3/24 (3:15pm), Tue 3/25 (11:20am)
+
+    * [Mickey 17](https://drafthouse.com/raleigh/show/mickey-17): Thu 3/20 (3:30pm, 7:00pm, 10:30pm), Fri 3/21 (1:30pm, 5:00pm, 6:00pm, 9:30pm), Sat 3/22 (12:00pm, 3:30pm, 6:00pm, 7:00pm, 10:30pm), Sun 3/23 (11:30am, 3:00pm, 6:30pm, 7:00pm, 10:00pm), Mon 3/24 (3:30pm, 6:00pm, 7:00pm, 10:30pm), Tue 3/25 (2:00pm, 5:30pm, 6:30pm), Wed 3/26 (3:05pm, 5:30pm, 7:00pm, 10:15pm)
+
+    * [Novocaine 2025](https://drafthouse.com/raleigh/show/novocaine-2025): Thu 3/20 (3:45pm, 7:00pm, 10:15pm), Fri 3/21 (1:00pm, 2:45pm, 4:00pm, 7:00pm, 10:00pm), Sat 3/22 (1:00pm, 2:45pm, 4:00pm, 7:00pm, 10:00pm), Sun 3/23 (1:30pm, 3:00pm, 4:30pm, 7:30pm, 10:30pm), Mon 3/24 (2:45pm, 4:00pm, 7:00pm, 10:00pm), Tue 3/25 (12:45pm, 3:30pm, 4:00pm, 7:00pm, 10:00pm), Wed 3/26 (3:30pm, 4:00pm, 7:00pm, 10:00pm)
+
+    * [Opus](https://drafthouse.com/raleigh/show/opus): Thu 3/20 (3:00pm, 6:00pm, 9:00pm), Fri 3/21 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Sat 3/22 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Sun 3/23 (1:00pm, 4:00pm, 7:00pm, 10:15pm), Mon 3/24 (4:30pm, 7:30pm, 10:30pm), Tue 3/25 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Wed 3/26 (4:30pm, 7:30pm, 10:30pm)
+
+    * [Paddington In Peru](https://drafthouse.com/raleigh/show/paddington-in-peru): Thu 3/20 (2:30pm)
+
+    * [Snow White 2025](https://drafthouse.com/raleigh/show/snow-white-2025): Fri 3/21 (1:30pm, 4:30pm, 7:30pm), Sat 3/22 (1:30pm, 4:30pm, 7:30pm), Sun 3/23 (12:30pm, 3:30pm, 6:30pm), Mon 3/24 (3:00pm, 4:30pm, 6:00pm, 7:30pm, 9:00pm), Tue 3/25 (12:30pm, 1:30pm, 3:30pm, 4:30pm, 6:30pm, 7:30pm, 10:30pm), Wed 3/26 (3:45pm, 4:30pm, 7:30pm, 10:00pm)
+
+    * [The Actor](https://drafthouse.com/raleigh/show/the-actor): Thu 3/20 (3:30pm)
+
+    * [The Alto Knights](https://drafthouse.com/raleigh/show/the-alto-knights): Thu 3/20 (3:00pm, 6:30pm, 10:00pm), Fri 3/21 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Sat 3/22 (1:00pm, 4:15pm, 7:30pm, 10:45pm), Sun 3/23 (1:00pm, 4:15pm, 7:30pm, 10:45pm), Mon 3/24 (4:15pm, 7:30pm, 10:45pm), Tue 3/25 (1:00pm, 4:15pm, 7:30pm, 10:45pm), Wed 3/26 (4:15pm, 7:30pm, 10:45pm)
+
+    * [The Monkey](https://drafthouse.com/raleigh/show/the-monkey): Thu 3/20 (3:00pm, 6:00pm, 9:00pm), Fri 3/21 (9:45pm), Sat 3/22 (9:30pm), Sun 3/23 (10:30pm), Mon 3/24 (9:30pm), Tue 3/25 (10:00pm), Wed 3/26 (10:30pm)
+
+    * [Twin Peaks Fire Walk With Me](https://drafthouse.com/raleigh/show/twin-peaks-fire-walk-with-me): Fri 3/21 (11:30am), Sat 3/22 (10:00pm), Sun 3/23 (7:15pm), Mon 3/24 (10:15pm), Tue 3/25 (6:00pm)
+
 ### Sat 3/15 10:02pm
 * New movies: A/V Geeks Present: How to Survive
 
