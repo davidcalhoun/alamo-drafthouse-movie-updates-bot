@@ -1,6 +1,52 @@
 # los-angeles
 
 ## Movie updates
+### Mon 3/17 6:42pm
+* New movies: Magazine Dreams, McVeigh
+
+* New screenings: 
+    * [Anora](https://drafthouse.com/los-angeles/show/anora): Sat 3/22 (1:10pm)
+
+    * [Ash](https://drafthouse.com/los-angeles/show/ash): Sun 3/23 (5:15pm), Mon 3/24 (8:35pm), Tue 3/25 (5:40pm, 8:30pm), Wed 3/26 (8:45pm)
+
+    * [Black Bag](https://drafthouse.com/los-angeles/show/black-bag): Thu 3/20 (5:00pm, 7:45pm, 10:35pm), Fri 3/21 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sat 3/22 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sun 3/23 (11:40am, 3:25pm, 6:15pm), Mon 3/24 (11:40am, 2:20pm, 5:00pm, 7:45pm, 10:30pm), Tue 3/25 (11:40am, 2:20pm, 5:00pm, 7:45pm, 10:30pm), Wed 3/26 (11:40am, 2:20pm, 5:00pm, 7:45pm, 10:30pm)
+
+    * [Borderline 2025](https://drafthouse.com/los-angeles/show/borderline-2025): Thu 3/20 (2:45pm), Fri 3/21 (5:45pm), Sat 3/22 (11:45am), Mon 3/24 (12:00pm)
+
+    * [Captain America Brave New World](https://drafthouse.com/los-angeles/show/captain-america-brave-new-world): Thu 3/20 (4:20pm)
+
+    * [Eephus](https://drafthouse.com/los-angeles/show/eephus): Fri 3/21 (3:00pm), Sat 3/22 (2:30pm), Sun 3/23 (2:25pm, 5:45pm), Mon 3/24 (7:20pm), Tue 3/25 (12:45pm), Wed 3/26 (4:30pm)
+
+    * [Girls Town](https://drafthouse.com/los-angeles/show/girls-town): Fri 3/21 (12:20pm), Sun 3/23 (8:00pm), Tue 3/25 (3:35pm), Wed 3/26 (11:50am)
+
+    * [Hans Zimmer And Friends Diamonds In The Desert](https://drafthouse.com/los-angeles/show/hans-zimmer-and-friends-diamonds-in-the-desert): Thu 3/20 (8:30pm)
+
+    * [Last Breath](https://drafthouse.com/los-angeles/show/last-breath): Thu 3/20 (3:15pm)
+
+    * [Lost Highway](https://drafthouse.com/los-angeles/show/lost-highway): Fri 3/21 (2:30pm), Sat 3/22 (2:30pm, 5:45pm, 8:30pm), Sun 3/23 (11:30am), Mon 3/24 (1:10pm, 1:45pm, 5:10pm), Tue 3/25 (2:10pm, 9:30pm), Wed 3/26 (1:50pm, 2:35pm, 5:20pm, 9:25pm)
+
+    * [Magazine Dreams](https://drafthouse.com/los-angeles/show/magazine-dreams): Thu 3/20 (4:00pm, 7:15pm, 10:30pm), Fri 3/21 (11:50am, 3:10pm, 6:25pm, 9:40pm), Sat 3/22 (11:50am, 3:10pm, 6:25pm, 9:40pm), Sun 3/23 (11:30am, 2:45pm, 6:00pm), Mon 3/24 (11:50am, 3:10pm, 6:25pm, 9:40pm), Tue 3/25 (11:50am, 3:10pm, 6:25pm, 9:45pm), Wed 3/26 (12:00pm, 3:15pm, 6:30pm, 9:45pm)
+
+    * [Marie Antoinette](https://drafthouse.com/los-angeles/show/marie-antoinette): Fri 3/21 (1:00pm, 8:30pm), Sat 3/22 (5:20pm, 9:10pm), Sun 3/23 (12:25pm), Mon 3/24 (2:45pm, 10:10pm), Tue 3/25 (9:15pm), Wed 3/26 (1:15pm)
+
+    * [Mcveigh](https://drafthouse.com/los-angeles/show/mcveigh): Fri 3/21 (11:40am), Sat 3/22 (11:40am), Sun 3/23 (3:05pm), Mon 3/24 (4:35pm), Tue 3/25 (12:00pm), Wed 3/26 (10:25pm)
+
+    * [Mickey 17](https://drafthouse.com/los-angeles/show/mickey-17): Thu 3/20 (3:10pm, 4:45pm, 6:30pm, 8:15pm, 9:45pm), Fri 3/21 (12:00pm, 1:15pm, 3:45pm, 4:45pm, 6:40pm, 8:15pm, 10:10pm), Sat 3/22 (12:00pm, 3:45pm, 4:40pm, 6:40pm, 8:10pm, 10:10pm), Sun 3/23 (11:50am, 1:00pm, 3:00pm, 3:50pm, 6:40pm, 7:20pm), Mon 3/24 (12:00pm, 1:15pm, 3:45pm, 4:45pm, 6:40pm, 8:15pm, 10:10pm), Tue 3/25 (12:00pm, 1:15pm, 3:45pm, 4:45pm, 6:40pm, 8:15pm, 10:10pm), Wed 3/26 (12:10pm, 1:15pm, 4:00pm, 4:45pm, 6:45pm, 8:15pm, 10:15pm)
+
+    * [No Other Land](https://drafthouse.com/los-angeles/show/no-other-land): Thu 3/20 (3:00pm, 5:45pm)
+
+    * [Novocaine 2025](https://drafthouse.com/los-angeles/show/novocaine-2025): Thu 3/20 (3:30pm, 6:45pm, 10:00pm), Fri 3/21 (12:40pm, 3:30pm, 7:10pm, 10:15pm), Sat 3/22 (12:40pm, 3:30pm, 7:10pm, 10:15pm), Sun 3/23 (12:40pm, 4:10pm, 7:30pm), Mon 3/24 (12:40pm, 3:30pm, 7:10pm, 10:15pm), Tue 3/25 (12:40pm, 3:30pm, 7:15pm, 10:15pm), Wed 3/26 (1:00pm, 3:40pm, 7:30pm, 10:30pm)
+
+    * [Opus](https://drafthouse.com/los-angeles/show/opus): Thu 3/20 (4:30pm, 7:20pm, 10:20pm), Fri 3/21 (1:00pm, 4:00pm, 6:50pm, 9:45pm), Sat 3/22 (1:00pm, 4:00pm, 6:50pm, 9:45pm), Sun 3/23 (1:15pm, 4:30pm, 7:10pm), Mon 3/24 (1:00pm, 4:00pm, 6:50pm, 9:45pm), Tue 3/25 (1:00pm, 4:00pm, 6:50pm, 9:50pm), Wed 3/26 (12:35pm, 3:30pm, 6:20pm, 9:15pm)
+
+    * [Snow White 2025](https://drafthouse.com/los-angeles/show/snow-white-2025): Thu 3/20 (7:30pm), Fri 3/21 (1:30pm, 4:30pm, 7:30pm), Sat 3/22 (1:30pm, 4:30pm, 7:30pm), Sun 3/23 (3:40pm, 6:30pm), Mon 3/24 (1:30pm, 4:30pm, 7:30pm), Tue 3/25 (12:15pm, 1:30pm, 3:10pm, 4:30pm, 7:30pm, 9:00pm), Wed 3/26 (12:50pm, 1:00pm, 3:50pm, 4:10pm, 7:10pm, 10:00pm)
+
+    * [The Monkey](https://drafthouse.com/los-angeles/show/the-monkey): Thu 3/20 (10:30pm), Fri 3/21 (10:30pm), Sat 3/22 (10:30pm), Sun 3/23 (8:00pm), Mon 3/24 (10:30pm), Tue 3/25 (10:30pm), Wed 3/26 (10:10pm)
+
+    * [Twin Peaks Fire Walk With Me](https://drafthouse.com/los-angeles/show/twin-peaks-fire-walk-with-me): Thu 3/20 (5:30pm)
+
+    * [Wild At Heart](https://drafthouse.com/los-angeles/show/wild-at-heart): Thu 3/20 (9:00pm)
+
 ### Mon 3/17 6:29am
 * New movies: The Amateur 2025
 
