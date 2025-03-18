@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 3/18 6:29am
+* New movies: The Bondsman
+
+* New screenings: 
+    * [Free Victory Screening The Bondsman](https://drafthouse.com/los-angeles/show/free-victory-screening-the-bondsman): Tue 4/1 (7:00pm)
+
 ### Tue 3/18 5:41am
 * New movies: Hell of a Summer, Hell of a Summer
 
