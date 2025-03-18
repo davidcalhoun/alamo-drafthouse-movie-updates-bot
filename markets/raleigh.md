@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Tue 3/18 8:50am
+* New movies: Hell of a Summer, Hell of a Summer
+
+* New screenings: 
+    * [Hell Of A Summer](https://drafthouse.com/raleigh/show/hell-of-a-summer): Thu 4/3 (7:15pm, 9:45pm), Fri 4/4 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sat 4/5 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sun 4/6 (1:00pm, 4:00pm, 7:00pm, 10:00pm)
+
+    * [Livestream Q A Hell Of A Summer](https://drafthouse.com/raleigh/show/livestream-q-a-hell-of-a-summer): Tue 3/25 (9:00pm)
+
 ### Mon 3/17 11:02pm
 * New movies: The Alto Knights, Magazine Dreams, Ash
 
