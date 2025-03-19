@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 3/19 8:50am
+* New movies: The Ballad of Wallis Island
+
+* New screenings: 
+    * [The Ballad Of Wallis Island](https://drafthouse.com/raleigh/show/the-ballad-of-wallis-island): Thu 4/10 (6:15pm, 9:15pm), Fri 4/11 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Sat 4/12 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Sun 4/13 (12:45pm, 3:45pm, 6:45pm, 9:45pm)
+
 ### Tue 3/18 11:27am
 * New movies: Across the Universe, Creed, Heartworn Highways, Juliet of the Spirits, Dazed and Confused, Monty Python's Life of Brian, Suzume Subtitled, The Cartoons of Max Fleischer, Tommy Boy
 
