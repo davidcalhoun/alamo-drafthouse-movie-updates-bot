@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 3/19 5:23pm
+* New movies: The Keep
+
+* New screenings: 
+    * [The Keep](https://drafthouse.com/raleigh/show/the-keep): Wed 4/30 (6:25pm)
+
 ### Wed 3/19 8:50am
 * New movies: The Ballad of Wallis Island
 
