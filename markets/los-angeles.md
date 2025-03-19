@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 3/19 5:41am
+* New movies: The Ballad of Wallis Island
+
+* New screenings: 
+    * [The Ballad Of Wallis Island](https://drafthouse.com/los-angeles/show/the-ballad-of-wallis-island): Thu 4/3 (3:40pm, 6:30pm, 9:20pm), Fri 4/4 (12:50pm, 3:40pm, 6:30pm, 9:20pm), Sat 4/5 (12:50pm, 3:40pm, 6:30pm, 9:20pm), Sun 4/6 (12:50pm, 3:40pm, 6:30pm), Mon 4/7 (12:50pm, 3:40pm, 6:30pm, 9:20pm), Tue 4/8 (12:50pm, 3:40pm, 6:30pm, 9:20pm), Wed 4/9 (12:50pm, 3:40pm, 6:30pm, 9:20pm)
+
 ### Tue 3/18 8:23am
 * New movies: Across the Universe, Dazed and Confused, Creed, Heartworn Highways, Noroi: The Curse, Juliet of the Spirits, Selena, Monty Python's Life of Brian, Suzume Subtitled, The Cartoons of Max Fleischer, Tommy Boy
 
