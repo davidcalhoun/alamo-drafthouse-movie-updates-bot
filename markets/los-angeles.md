@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Wed 3/19 6:41pm
+* New movies: Gazer, Secret Mall Apartment, Nashville
+
+* New screenings: 
+    * [Fantastic Fest Presents Gazer W Live Q A](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-gazer-w-live-q-a): Fri 4/11 (7:30pm), Sat 4/12 (7:30pm)
+
+    * [Live Q A Secret Mall Apartment](https://drafthouse.com/los-angeles/show/live-q-a-secret-mall-apartment): Thu 4/3 (7:20pm), Fri 4/4 (7:20pm)
+
+    * [Nashville](https://drafthouse.com/los-angeles/show/nashville): Sat 5/3 (3:30pm), Sun 5/4 (11:00am), Tue 5/6 (6:00pm)
+
+    * [Special Event Pride Prejudice 2005 20th Anniversary](https://drafthouse.com/los-angeles/show/special-event-pride-prejudice-2005-20th-anniversary): Fri 4/18 (4:00pm, 7:20pm)
+
 ### Wed 3/19 2:19pm
 * New movies: The Keep
 
