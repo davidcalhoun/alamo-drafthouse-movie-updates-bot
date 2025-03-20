@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 3/20 5:40am
+* New movies: The Woman in the Yard
+
+* New screenings: 
+    * [The Woman In The Yard](https://drafthouse.com/los-angeles/show/the-woman-in-the-yard): Thu 3/27 (5:00pm, 7:45pm, 10:25pm), Fri 3/28 (11:40am, 2:20pm, 5:00pm, 7:45pm, 10:25pm), Sat 3/29 (11:40am, 2:20pm, 5:00pm, 7:45pm, 10:25pm), Sun 3/30 (11:40am, 2:20pm, 5:00pm, 7:45pm), Mon 3/31 (4:20pm, 9:45pm), Tue 4/1 (5:00pm, 7:45pm, 10:25pm), Wed 4/2 (4:50pm, 9:50pm)
+
 ### Wed 3/19 6:41pm
 * New movies: Gazer, Secret Mall Apartment, Nashville
 
