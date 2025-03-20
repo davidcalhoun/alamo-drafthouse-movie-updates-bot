@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 3/20 8:49am
+* New movies: The Woman in the Yard
+
+* New screenings: 
+    * [The Woman In The Yard](https://drafthouse.com/raleigh/show/the-woman-in-the-yard): Thu 3/27 (3:45pm, 6:45pm, 9:45pm), Fri 3/28 (1:45pm, 4:30pm, 7:15pm, 10:15pm), Sat 3/29 (1:30pm, 4:30pm, 7:15pm, 10:00pm), Sun 3/30 (1:45pm, 4:45pm, 7:30pm, 10:15pm)
+
 ### Wed 3/19 5:23pm
 * New movies: The Keep
 
