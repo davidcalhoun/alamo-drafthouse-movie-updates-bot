@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Fri 3/21 6:24pm
+* New movies: Kaiju No. 8: Mission Recon Dubbed, Kaiju No. 8: Mission Recon Subtitled
+
+* New screenings: 
+    * [Kaiju No 8 Mission Recon Dubbed](https://drafthouse.com/raleigh/show/kaiju-no-8-mission-recon-dubbed): Sun 4/13 (12:00pm), Wed 4/16 (6:30pm)
+
+    * [Kaiju No 8 Mission Recon Subtitled](https://drafthouse.com/raleigh/show/kaiju-no-8-mission-recon-subtitled): Mon 4/14 (7:00pm)
+
 ### Thu 3/20 8:49am
 * New movies: The Woman in the Yard
 
