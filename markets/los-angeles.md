@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 3/21 7:19am
+* New movies: Mystery Machine 3/31/2025
+
+* New screenings: 
+    * [Mystery Machine 3 31 2025](https://drafthouse.com/los-angeles/show/mystery-machine-3-31-2025): Mon 3/31 (7:00pm)
+
 ### Thu 3/20 5:40am
 * New movies: The Woman in the Yard
 
