@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 3/21 6:40pm
+* New movies: Barry Lyndon
+
+* New screenings: 
+    * [Barry Lyndon](https://drafthouse.com/los-angeles/show/barry-lyndon): Sat 5/3 (11:15am)
+
 ### Fri 3/21 7:19am
 * New movies: Mystery Machine 3/31/2025
 
