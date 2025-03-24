@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 3/24 5:27am
+* New movies: Crimes of the Future 2022
+
+* New screenings: 
+    * [Weird Wednesday Crimes Of The Future](https://drafthouse.com/raleigh/show/weird-wednesday-crimes-of-the-future): Wed 4/30 (9:00pm)
+
 ### Fri 3/21 6:24pm
 * New movies: Kaiju No. 8: Mission Recon Dubbed, Kaiju No. 8: Mission Recon Subtitled
 
