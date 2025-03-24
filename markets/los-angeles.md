@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 3/24 6:30am
+* New movies: Warfare
+
+* New screenings: 
+    * [Warfare](https://drafthouse.com/los-angeles/show/warfare): Thu 4/10 (5:00pm, 7:45pm, 10:30pm), Fri 4/11 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sat 4/12 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sun 4/13 (11:30am, 2:15pm, 5:00pm, 7:45pm), Mon 4/14 (5:00pm, 7:45pm, 10:30pm), Tue 4/15 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Wed 4/16 (5:00pm, 7:45pm, 10:30pm)
+
 ### Fri 3/21 6:40pm
 * New movies: Barry Lyndon
 
