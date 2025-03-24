@@ -1,6 +1,46 @@
 # raleigh
 
 ## Movie updates
+### Mon 3/24 7:24pm
+* New movies: A Working Man, One of Them Days
+
+* New screenings: 
+    * [A Working Man](https://drafthouse.com/raleigh/show/a-working-man): Thu 3/27 (4:30pm, 7:30pm, 10:30pm), Fri 3/28 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sat 3/29 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sun 3/30 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Mon 3/31 (3:30pm, 6:45pm, 9:45pm), Tue 4/1 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Wed 4/2 (3:45pm, 6:45pm, 10:00pm)
+
+    * [Black Bag](https://drafthouse.com/raleigh/show/black-bag): Thu 3/27 (4:30pm, 7:30pm, 10:15pm), Fri 3/28 (1:45pm, 4:15pm, 7:15pm, 10:15pm), Sat 3/29 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Sun 3/30 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Mon 3/31 (4:15pm, 7:15pm, 9:50pm), Tue 4/1 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Wed 4/2 (4:15pm, 7:15pm, 10:15pm)
+
+    * [Captain America Brave New World](https://drafthouse.com/raleigh/show/captain-america-brave-new-world): Thu 3/27 (2:45pm, 6:00pm, 9:15pm), Fri 3/28 (12:30pm, 3:30pm, 6:30pm, 9:45pm), Sat 3/29 (12:15pm, 3:30pm, 6:30pm, 9:30pm), Sun 3/30 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Mon 3/31 (3:15pm, 6:15pm, 9:15pm), Tue 4/1 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Wed 4/2 (4:30pm, 7:30pm, 10:30pm)
+
+    * [Death Of A Unicorn](https://drafthouse.com/raleigh/show/death-of-a-unicorn): Fri 3/28 (6:15pm), Sat 3/29 (6:20pm), Mon 3/31 (4:00pm, 7:00pm, 10:00pm), Tue 4/1 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Wed 4/2 (4:00pm, 7:00pm, 10:00pm)
+
+    * [Eephus](https://drafthouse.com/raleigh/show/eephus): Mon 3/31 (3:30pm), Wed 4/2 (3:30pm)
+
+    * [Inland Empire](https://drafthouse.com/raleigh/show/inland-empire): Fri 3/28 (12:45pm), Sat 3/29 (12:30pm, 8:00pm), Sun 3/30 (12:30pm, 6:30pm), Mon 3/31 (6:15pm), Tue 4/1 (2:00pm, 2:30pm), Wed 4/2 (7:00pm)
+
+    * [Lost Highway](https://drafthouse.com/raleigh/show/lost-highway): Thu 3/27 (2:45pm)
+
+    * [Magazine Dreams](https://drafthouse.com/raleigh/show/magazine-dreams): Fri 3/28 (4:45pm), Sat 3/29 (4:45pm), Sun 3/30 (4:45pm), Mon 3/31 (3:30pm), Tue 4/1 (6:00pm), Wed 4/2 (3:30pm)
+
+    * [Marie Antoinette](https://drafthouse.com/raleigh/show/marie-antoinette): Thu 3/27 (6:15pm)
+
+    * [Mickey 17](https://drafthouse.com/raleigh/show/mickey-17): Thu 3/27 (4:00pm, 7:45pm, 9:40pm), Fri 3/28 (1:00pm, 4:15pm, 7:30pm, 9:30pm), Sat 3/29 (1:00pm, 4:15pm, 7:45pm, 9:45pm), Sun 3/30 (12:45pm, 4:15pm, 7:45pm, 9:30pm), Mon 3/31 (4:15pm, 7:30pm, 9:30pm), Tue 4/1 (12:45pm, 4:15pm, 7:30pm), Wed 4/2 (4:15pm, 7:45pm, 10:20pm)
+
+    * [Mulholland Drive](https://drafthouse.com/raleigh/show/mulholland-drive): Fri 3/28 (8:00pm, 9:15pm), Sat 3/29 (6:45pm, 9:15pm), Sun 3/30 (6:30pm, 8:00pm), Tue 4/1 (9:30pm), Wed 4/2 (6:45pm)
+
+    * [Novocaine 2025](https://drafthouse.com/raleigh/show/novocaine-2025): Thu 3/27 (3:30pm, 6:30pm, 9:35pm), Fri 3/28 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Sat 3/29 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Sun 3/30 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Mon 3/31 (4:30pm, 7:30pm, 10:30pm), Tue 4/1 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Wed 4/2 (3:15pm, 6:15pm, 9:15pm)
+
+    * [Opus](https://drafthouse.com/raleigh/show/opus): Thu 3/27 (3:45pm, 6:45pm, 9:45pm), Fri 3/28 (11:00pm), Sat 3/29 (11:05pm), Sun 3/30 (10:45pm), Mon 3/31 (10:15pm), Tue 4/1 (9:15pm), Wed 4/2 (11:00pm)
+
+    * [Snow White 2025](https://drafthouse.com/raleigh/show/snow-white-2025): Thu 3/27 (3:00pm, 6:00pm, 9:00pm), Fri 3/28 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 3/29 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sun 3/30 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Mon 3/31 (3:00pm, 6:00pm, 9:00pm), Tue 4/1 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Wed 4/2 (3:00pm, 6:00pm, 9:35pm)
+
+    * [Special Event One Of Them Days Laugh Along](https://drafthouse.com/raleigh/show/special-event-one-of-them-days-laugh-along): Fri 3/28 (3:15pm), Sat 3/29 (3:15pm), Sun 3/30 (3:30pm), Tue 4/1 (3:30pm)
+
+    * [The Alto Knights](https://drafthouse.com/raleigh/show/the-alto-knights): Thu 3/27 (3:00pm, 6:15pm, 9:25pm), Fri 3/28 (12:00pm), Sat 3/29 (12:00pm), Sun 3/30 (12:00pm), Mon 3/31 (3:00pm), Tue 4/1 (12:00pm), Wed 4/2 (3:45pm)
+
+    * [The Elephant Man](https://drafthouse.com/raleigh/show/the-elephant-man): Tue 4/1 (6:15pm)
+
+    * [The Woman In The Yard](https://drafthouse.com/raleigh/show/the-woman-in-the-yard): Mon 3/31 (4:45pm, 7:45pm, 10:15pm), Tue 4/1 (1:45pm, 4:30pm, 7:15pm, 10:00pm), Wed 4/2 (4:45pm, 7:30pm, 10:15pm)
+
 ### Mon 3/24 5:22pm
 * New movies: Mystery Machine 3/31/2025
 
