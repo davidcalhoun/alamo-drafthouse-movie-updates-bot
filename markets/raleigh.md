@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 3/24 9:33am
+* New movies: Warfare
+
+* New screenings: 
+    * [Warfare](https://drafthouse.com/raleigh/show/warfare): Thu 4/10 (4:00pm, 7:00pm, 10:00pm), Fri 4/11 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 4/12 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sun 4/13 (1:00pm, 4:00pm, 7:00pm, 10:00pm)
+
 ### Mon 3/24 5:27am
 * New movies: Crimes of the Future 2022
 
