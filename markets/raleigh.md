@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Mon 3/24 5:22pm
+* New movies: Mystery Machine 3/31/2025
+
+* New screenings: 
+    * [Eephus](https://drafthouse.com/raleigh/show/eephus): Sun 3/30 (11:45am)
+
+    * [Mystery Machine 3 31 2025](https://drafthouse.com/raleigh/show/mystery-machine-3-31-2025): Mon 3/31 (6:45pm)
+
 ### Mon 3/24 1:24pm
 * New movies: Eephus
 
