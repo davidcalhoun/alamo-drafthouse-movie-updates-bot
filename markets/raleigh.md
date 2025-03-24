@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 3/24 1:24pm
+* New movies: Eephus
+
+* New screenings: 
+    * [Eephus](https://drafthouse.com/raleigh/show/eephus): Fri 3/28 (6:30pm)
+
 ### Mon 3/24 9:33am
 * New movies: Warfare
 
