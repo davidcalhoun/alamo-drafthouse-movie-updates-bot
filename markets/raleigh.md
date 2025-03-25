@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Tue 3/25 10:26am
+* New movies: Drop, Bjork: Cornucopia
+
+* New screenings: 
+    * [Bjork Cornucopia](https://drafthouse.com/raleigh/show/bjork-cornucopia): Wed 5/7 (7:00pm)
+
+    * [Drop](https://drafthouse.com/raleigh/show/drop): Thu 4/10 (3:00pm, 6:00pm, 9:00pm), Fri 4/11 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sat 4/12 (2:00pm, 4:45pm, 7:45pm, 10:45pm), Sun 4/13 (2:00pm, 4:45pm, 7:45pm, 10:45pm)
+
 ### Mon 3/24 7:24pm
 * New movies: A Working Man, One of Them Days
 
