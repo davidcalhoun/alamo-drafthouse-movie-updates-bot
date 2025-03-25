@@ -1,6 +1,29 @@
 # los-angeles
 
 ## Movie updates
+### Mon 3/24 8:00pm
+
+* New screenings: 
+    * [Black Bag](https://drafthouse.com/los-angeles/show/black-bag): Thu 3/27 (5:15pm, 8:00pm, 10:45pm)
+
+    * [Death Of A Unicorn](https://drafthouse.com/los-angeles/show/death-of-a-unicorn): Thu 3/27 (5:40pm)
+
+    * [Eephus](https://drafthouse.com/los-angeles/show/eephus): Thu 3/27 (3:10pm)
+
+    * [Lost Highway](https://drafthouse.com/los-angeles/show/lost-highway): Thu 3/27 (8:40pm)
+
+    * [Magazine Dreams](https://drafthouse.com/los-angeles/show/magazine-dreams): Thu 3/27 (3:30pm, 7:10pm, 10:25pm)
+
+    * [Mcveigh](https://drafthouse.com/los-angeles/show/mcveigh): Thu 3/27 (3:00pm)
+
+    * [Mickey 17](https://drafthouse.com/los-angeles/show/mickey-17): Thu 3/27 (3:50pm, 6:30pm, 10:00pm)
+
+    * [Novocaine 2025](https://drafthouse.com/los-angeles/show/novocaine-2025): Thu 3/27 (4:10pm, 6:45pm, 9:45pm)
+
+    * [Opus](https://drafthouse.com/los-angeles/show/opus): Thu 3/27 (3:25pm, 6:20pm, 9:20pm)
+
+    * [The Alto Knights](https://drafthouse.com/los-angeles/show/the-alto-knights): Thu 3/27 (3:15pm, 7:20pm, 10:35pm)
+
 ### Mon 3/24 6:30am
 * New movies: Warfare
 
