@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Tue 3/25 4:27pm
+* New movies: Barry Lyndon, Nashville
+
+* New screenings: 
+    * [Barry Lyndon](https://drafthouse.com/raleigh/show/barry-lyndon): Sat 5/3 (11:30am)
+
+    * [Nashville](https://drafthouse.com/raleigh/show/nashville): Sun 5/4 (11:30am)
+
+    * [Special Event Pride Prejudice 2005 20th Anniversary](https://drafthouse.com/raleigh/show/special-event-pride-prejudice-2005-20th-anniversary): Fri 4/18 (2:30pm, 6:00pm)
+
 ### Tue 3/25 10:26am
 * New movies: Drop, Bjork: Cornucopia
 
