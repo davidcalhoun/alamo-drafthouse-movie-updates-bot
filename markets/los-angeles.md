@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 3/25 6:29am
+* New movies: Drop, Bjork: Cornucopia
+
+* New screenings: 
+    * [Bjork Cornucopia](https://drafthouse.com/los-angeles/show/bjork-cornucopia): Wed 5/7 (7:20pm)
+
+    * [Drop](https://drafthouse.com/los-angeles/show/drop): Thu 4/10 (4:30pm, 7:15pm, 10:00pm), Fri 4/11 (11:00am, 1:45pm, 4:30pm, 7:15pm, 10:00pm), Sat 4/12 (11:00am, 1:45pm, 4:30pm, 7:15pm, 10:00pm), Sun 4/13 (11:00am, 1:45pm, 4:30pm, 7:15pm)
+
 ### Mon 3/24 9:26pm
 * New movies: One of Them Days
 
