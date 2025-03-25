@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 3/25 4:19pm
+
+* New screenings: 
+    * [Noroi The Curse](https://drafthouse.com/los-angeles/show/noroi-the-curse): Mon 5/5 (9:45pm)
+
 ### Tue 3/25 6:29am
 * New movies: Drop, Bjork: Cornucopia
 
