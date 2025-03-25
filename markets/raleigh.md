@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 3/25 5:22pm
+* New movies: Noroi: The Curse
+
+* New screenings: 
+    * [Noroi The Curse](https://drafthouse.com/raleigh/show/noroi-the-curse): Mon 5/5 (9:30pm)
+
 ### Tue 3/25 4:27pm
 * New movies: Barry Lyndon, Nashville
 
