@@ -1,6 +1,38 @@
 # los-angeles
 
 ## Movie updates
+### Mon 3/24 9:26pm
+* New movies: One of Them Days
+
+* New screenings: 
+    * [Ash](https://drafthouse.com/los-angeles/show/ash): Fri 3/28 (10:40pm), Sat 3/29 (12:10pm), Sun 3/30 (6:45pm), Mon 3/31 (10:10pm), Tue 4/1 (10:20pm), Wed 4/2 (11:35am)
+
+    * [Black Bag](https://drafthouse.com/los-angeles/show/black-bag): Fri 3/28 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Sat 3/29 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Sun 3/30 (11:10am, 1:50pm, 4:35pm, 7:20pm), Mon 3/31 (2:15pm, 5:00pm, 7:45pm, 10:30pm), Tue 4/1 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Wed 4/2 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm)
+
+    * [Death Of A Unicorn](https://drafthouse.com/los-angeles/show/death-of-a-unicorn): Mon 3/31 (12:10pm, 3:40pm, 6:45pm, 9:45pm), Tue 4/1 (12:50pm, 3:50pm, 7:20pm, 9:50pm), Wed 4/2 (12:45pm, 3:45pm, 6:45pm, 9:45pm)
+
+    * [Eephus](https://drafthouse.com/los-angeles/show/eephus): Fri 3/28 (4:40pm), Sat 3/29 (3:00pm), Sun 3/30 (3:50pm), Mon 3/31 (12:00pm), Tue 4/1 (11:40am), Wed 4/2 (1:10pm)
+
+    * [Inland Empire](https://drafthouse.com/los-angeles/show/inland-empire): Fri 3/28 (1:10pm), Sat 3/29 (7:30pm), Sun 3/30 (5:40pm), Tue 4/1 (12:10pm), Wed 4/2 (8:50pm)
+
+    * [Magazine Dreams](https://drafthouse.com/los-angeles/show/magazine-dreams): Fri 3/28 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Sat 3/29 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Sun 3/30 (12:25pm, 3:40pm, 7:00pm), Mon 3/31 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Tue 4/1 (12:40pm, 3:55pm, 7:10pm, 10:25pm), Wed 4/2 (12:30pm, 3:45pm, 7:00pm, 10:15pm)
+
+    * [Mickey 17](https://drafthouse.com/los-angeles/show/mickey-17): Fri 3/28 (11:30am, 3:00pm, 6:00pm, 9:30pm), Sat 3/29 (11:30am, 3:00pm, 6:00pm, 9:30pm), Sun 3/30 (11:20am, 2:50pm, 6:00pm), Mon 3/31 (12:45pm, 2:50pm, 6:00pm, 9:30pm), Tue 4/1 (11:30am, 3:00pm, 6:00pm, 9:30pm), Wed 4/2 (11:30am, 3:00pm, 6:00pm, 9:30pm)
+
+    * [Mulholland Drive](https://drafthouse.com/los-angeles/show/mulholland-drive): Fri 3/28 (1:00pm, 5:20pm), Sun 3/30 (12:10pm), Mon 3/31 (12:00pm, 2:50pm), Tue 4/1 (2:25pm), Wed 4/2 (2:20pm)
+
+    * [Novocaine 2025](https://drafthouse.com/los-angeles/show/novocaine-2025): Fri 3/28 (11:50am, 2:50pm, 6:30pm, 9:35pm), Sat 3/29 (11:50am, 2:50pm, 6:30pm, 9:35pm), Sun 3/30 (11:35am, 2:35pm, 6:20pm), Mon 3/31 (12:00pm, 3:00pm, 6:15pm, 9:20pm), Tue 4/1 (11:50am, 2:50pm, 6:30pm, 10:40pm), Wed 4/2 (11:45am, 2:45pm, 9:35pm)
+
+    * [Opus](https://drafthouse.com/los-angeles/show/opus): Fri 3/28 (1:00pm, 3:15pm, 6:10pm), Sat 3/29 (1:00pm, 3:15pm, 6:10pm, 9:10pm), Sun 3/30 (12:20pm, 6:10pm), Mon 3/31 (4:40pm, 7:30pm, 10:25pm), Tue 4/1 (1:15pm, 3:15pm, 6:10pm, 9:10pm), Wed 4/2 (1:00pm, 4:40pm, 10:30pm)
+
+    * [Snow White 2025](https://drafthouse.com/los-angeles/show/snow-white-2025): Fri 3/28 (12:20pm, 3:20pm, 6:20pm, 9:20pm), Sat 3/29 (12:20pm, 3:20pm, 6:20pm, 9:20pm), Sun 3/30 (12:30pm, 3:30pm, 6:30pm), Mon 3/31 (12:15pm, 3:20pm, 6:20pm, 9:20pm), Tue 4/1 (12:15pm, 3:20pm, 6:20pm, 9:20pm), Wed 4/2 (12:20pm, 3:20pm, 6:30pm, 9:00pm)
+
+    * [Special Event One Of Them Days Laugh Along](https://drafthouse.com/los-angeles/show/special-event-one-of-them-days-laugh-along): Fri 3/28 (9:10pm), Sun 3/30 (3:20pm), Mon 3/31 (1:10pm), Wed 4/2 (7:40pm)
+
+    * [The Alto Knights](https://drafthouse.com/los-angeles/show/the-alto-knights): Fri 3/28 (12:00pm, 4:00pm, 7:20pm, 10:35pm), Sat 3/29 (12:00pm, 4:00pm, 7:20pm, 10:35pm), Sun 3/30 (1:00pm, 4:15pm, 7:30pm), Mon 3/31 (1:25pm, 4:05pm, 7:20pm, 10:30pm), Tue 4/1 (12:00pm, 4:10pm, 7:30pm, 9:40pm), Wed 4/2 (1:25pm, 4:00pm, 7:20pm, 10:35pm)
+
+    * [The Woman In The Yard](https://drafthouse.com/los-angeles/show/the-woman-in-the-yard): Mon 3/31 (12:10pm, 6:30pm), Tue 4/1 (11:30am, 2:15pm), Wed 4/2 (11:25am, 2:10pm, 6:20pm)
+
 ### Mon 3/24 8:00pm
 
 * New screenings: 
