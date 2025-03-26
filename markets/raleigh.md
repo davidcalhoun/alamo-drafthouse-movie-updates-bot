@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Wed 3/26 12:33pm
+* New movies: Sinners, Sinners
+
+* New screenings: 
+    * [Advance Screening Sinners Early Access](https://drafthouse.com/raleigh/show/advance-screening-sinners-early-access): Wed 4/16 (7:00pm)
+
+    * [Sinners](https://drafthouse.com/raleigh/show/sinners): Fri 4/18 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sat 4/19 (11:00am, 2:30pm, 6:00pm, 9:30pm), Sun 4/20 (11:00am, 2:30pm, 6:00pm, 9:30pm)
+
 ### Tue 3/25 5:22pm
 * New movies: Noroi: The Curse
 
