@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 3/26 9:28am
+* New movies: Sinners, Sinners
+
+* New screenings: 
+    * [Advance Screening Sinners Early Access](https://drafthouse.com/los-angeles/show/advance-screening-sinners-early-access): Wed 4/16 (7:00pm)
+
+    * [Sinners](https://drafthouse.com/los-angeles/show/sinners): Thu 4/17 (3:00pm, 6:30pm, 10:00pm), Fri 4/18 (11:30am, 3:00pm, 6:30pm, 10:00pm), Sat 4/19 (11:30am, 3:00pm, 6:30pm, 10:00pm), Sun 4/20 (11:30am, 3:00pm, 6:30pm), Mon 4/21 (11:30am, 3:00pm, 6:30pm, 10:00pm), Tue 4/22 (11:30am, 3:00pm, 6:30pm, 10:00pm)
+
 ### Tue 3/25 4:19pm
 
 * New screenings: 
