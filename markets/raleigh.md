@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Thu 3/27 12:29am
+* New movies: The Hunger Games: Catching Fire, Secret Mall Apartment
+
+* New screenings: 
+    * [Movie Party The Hunger Games Catching Fire](https://drafthouse.com/raleigh/show/movie-party-the-hunger-games-catching-fire): Mon 5/5 (6:00pm)
+
+    * [Secret Mall Apartment](https://drafthouse.com/raleigh/show/secret-mall-apartment): Fri 4/11 (6:30pm), Sat 4/12 (6:30pm)
+
 ### Wed 3/26 12:33pm
 * New movies: Sinners, Sinners
 
