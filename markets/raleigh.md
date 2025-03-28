@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 3/28 5:22pm
+* New movies: PRIDE & PREJUDICE 20TH ANNIVERSARY
+
+
+
 ### Thu 3/27 12:29am
 * New movies: The Hunger Games: Catching Fire, Secret Mall Apartment
 
