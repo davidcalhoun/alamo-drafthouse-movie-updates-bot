@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Fri 3/28 2:23am
+* New movies: The Hunger Games: Catching Fire, Female Trouble, The Mystery of Chess Boxing
+
+* New screenings: 
+    * [Female Trouble](https://drafthouse.com/los-angeles/show/female-trouble): Fri 4/18 (3:10pm), Wed 4/23 (7:20pm)
+
+    * [Movie Party The Hunger Games Catching Fire](https://drafthouse.com/los-angeles/show/movie-party-the-hunger-games-catching-fire): Sun 5/4 (3:40pm, 7:20pm)
+
+    * [The Mystery Of Chess Boxing](https://drafthouse.com/los-angeles/show/the-mystery-of-chess-boxing): Fri 5/2 (4:35pm), Wed 5/7 (7:45pm)
+
 ### Fri 3/28 1:27am
 * New movies: Mystery Machine 4/7/2025, AGUIRRE, THE WRATH OF GOD
 
