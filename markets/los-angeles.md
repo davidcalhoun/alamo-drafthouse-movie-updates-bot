@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Fri 3/28 1:27am
+* New movies: Mystery Machine 4/7/2025, AGUIRRE, THE WRATH OF GOD
+
+* New screenings: 
+    * [Aguirre The Wrath Of God](https://drafthouse.com/los-angeles/show/aguirre-the-wrath-of-god): Fri 4/4 (1:00pm), Wed 4/9 (8:00pm)
+
+    * [Mystery Machine 4 7 2025](https://drafthouse.com/los-angeles/show/mystery-machine-4-7-2025): Mon 4/7 (7:00pm)
+
+    * [Smiley Face](https://drafthouse.com/los-angeles/show/smiley-face): Sat 4/5 (1:50pm)
+
 ### Wed 3/26 9:28am
 * New movies: Sinners, Sinners
 
