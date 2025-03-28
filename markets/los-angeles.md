@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 3/28 3:19pm
+* New movies: Pride & Prejudice 20th Anniversary
+
+
+
 ### Fri 3/28 2:23am
 * New movies: The Hunger Games: Catching Fire, Female Trouble, The Mystery of Chess Boxing
 
