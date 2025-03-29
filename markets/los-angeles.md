@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Fri 3/28 9:25pm
+* New movies: On Swift Horses, Queens of Drama, The Encampments
+
+* New screenings: 
+    * [On Swift Horses](https://drafthouse.com/los-angeles/show/on-swift-horses): Thu 4/24 (3:30pm, 6:40pm, 9:50pm), Fri 4/25 (12:20pm, 3:30pm, 6:40pm, 9:50pm), Sat 4/26 (12:20pm, 3:30pm, 6:40pm, 9:50pm), Sun 4/27 (12:20pm, 3:30pm, 6:40pm, 9:50pm), Mon 4/28 (12:20pm, 3:30pm, 6:40pm, 9:50pm), Tue 4/29 (12:20pm, 3:30pm, 6:40pm, 9:50pm), Wed 4/30 (12:20pm, 3:30pm, 6:40pm, 9:50pm)
+
+    * [Queens Of Drama](https://drafthouse.com/los-angeles/show/queens-of-drama): Fri 4/25 (1:20pm), Sat 4/26 (7:20pm), Sun 4/27 (6:00pm), Tue 4/29 (10:00pm)
+
+    * [The Encampments](https://drafthouse.com/los-angeles/show/the-encampments): Fri 4/4 (7:00pm), Sun 4/6 (11:00am)
+
 ### Fri 3/28 3:19pm
 * New movies: Pride & Prejudice 20th Anniversary
 
