@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 3/31 3:20pm
+
+* New screenings: 
+    * [Dune 1984](https://drafthouse.com/los-angeles/show/dune-1984): Mon 4/7 (10:10pm)
+
 ### Fri 3/28 9:25pm
 * New movies: On Swift Horses, Queens of Drama, The Encampments
 
