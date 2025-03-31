@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 3/31 4:27pm
+* New movies: Mystery Machine 4/7/2025
+
+* New screenings: 
+    * [Mystery Machine 4 7 2025](https://drafthouse.com/raleigh/show/mystery-machine-4-7-2025): Mon 4/7 (7:15pm)
+
 ### Mon 3/31 2:34pm
 * New movies: The Amateur 2025
 
