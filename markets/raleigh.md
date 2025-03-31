@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 3/31 2:34pm
+* New movies: The Amateur 2025
+
+* New screenings: 
+    * [Advance Screening The Amateur 2025](https://drafthouse.com/raleigh/show/advance-screening-the-amateur-2025): Sat 4/5 (6:15pm)
+
 ### Fri 3/28 5:22pm
 * New movies: PRIDE & PREJUDICE 20TH ANNIVERSARY
 
