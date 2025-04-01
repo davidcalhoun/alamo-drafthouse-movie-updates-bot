@@ -1,6 +1,40 @@
 # raleigh
 
 ## Movie updates
+### Tue 4/1 10:26am
+* New movies: Princess Mononoke Subtitled, Princess Mononoke Dubbed, The Encampments
+
+* New screenings: 
+    * [A Minecraft Movie](https://drafthouse.com/raleigh/show/a-minecraft-movie): Thu 4/3 (3:00pm, 4:00pm, 6:00pm, 7:00pm), Fri 4/4 (12:00pm, 1:30pm, 2:00pm, 3:00pm, 4:30pm, 5:00pm, 6:00pm, 7:30pm, 8:00pm), Sat 4/5 (12:00pm, 2:30pm, 3:00pm, 4:30pm, 5:30pm, 6:00pm, 7:30pm, 8:30pm, 9:00pm), Sun 4/6 (12:45pm, 2:00pm, 3:30pm, 4:30pm, 5:00pm, 6:30pm, 7:30pm, 8:00pm, 10:15pm), Mon 4/7 (12:15pm, 12:30pm, 1:30pm, 3:15pm, 3:30pm, 4:30pm, 4:30pm, 6:00pm, 7:15pm), Tue 4/8 (3:00pm, 3:30pm, 5:00pm, 6:00pm, 6:30pm, 7:00pm, 8:00pm, 9:30pm, 9:45pm), Wed 4/9 (3:00pm, 3:30pm, 5:00pm, 6:30pm, 7:00pm, 8:00pm, 9:30pm, 9:45pm)
+
+    * [A Working Man](https://drafthouse.com/raleigh/show/a-working-man): Thu 4/3 (4:45pm, 7:45pm, 9:45pm), Fri 4/4 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Sat 4/5 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Sun 4/6 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Mon 4/7 (1:15pm, 4:15pm, 7:15pm), Tue 4/8 (3:30pm, 6:30pm, 9:30pm), Wed 4/9 (4:00pm, 7:15pm, 10:15pm)
+
+    * [Black Bag](https://drafthouse.com/raleigh/show/black-bag): Thu 4/3 (4:30pm), Fri 4/4 (12:15pm), Sat 4/5 (12:30pm), Sun 4/6 (12:15pm), Mon 4/7 (12:15pm), Tue 4/8 (4:15pm), Wed 4/9 (4:15pm)
+
+    * [Captain America Brave New World](https://drafthouse.com/raleigh/show/captain-america-brave-new-world): Thu 4/3 (10:00pm)
+
+    * [Death Of A Unicorn](https://drafthouse.com/raleigh/show/death-of-a-unicorn): Thu 4/3 (4:30pm, 7:30pm, 10:30pm), Fri 4/4 (1:00pm, 4:00pm, 7:15pm, 10:30pm), Sat 4/5 (1:00pm, 4:00pm, 7:15pm, 10:30pm), Sun 4/6 (1:00pm, 4:00pm, 7:15pm, 10:30pm), Mon 4/7 (12:45pm, 3:45pm, 6:45pm), Tue 4/8 (4:00pm, 7:30pm, 10:30pm), Wed 4/9 (3:45pm, 6:45pm, 9:45pm)
+
+    * [Eephus](https://drafthouse.com/raleigh/show/eephus): Thu 4/3 (3:15pm)
+
+    * [Hell Of A Summer](https://drafthouse.com/raleigh/show/hell-of-a-summer): Mon 4/7 (1:00pm, 4:00pm, 7:00pm), Tue 4/8 (4:45pm, 7:30pm, 10:00pm), Wed 4/9 (4:30pm, 7:30pm, 10:00pm)
+
+    * [Mickey 17](https://drafthouse.com/raleigh/show/mickey-17): Thu 4/3 (3:00pm, 6:30pm, 9:45pm), Fri 4/4 (12:30pm, 4:00pm, 7:30pm, 10:15pm), Sat 4/5 (12:15pm, 3:00pm, 9:30pm, 10:15pm), Sun 4/6 (12:30pm, 4:00pm, 7:30pm, 9:15pm), Mon 4/7 (12:30pm, 4:00pm, 7:30pm), Tue 4/8 (3:45pm, 7:15pm, 9:45pm), Wed 4/9 (4:45pm, 8:15pm, 10:00pm)
+
+    * [Mystery Machine 3 31 2025](https://drafthouse.com/raleigh/show/mystery-machine-3-31-2025): Thu 4/3 (4:00pm)
+
+    * [Novocaine 2025](https://drafthouse.com/raleigh/show/novocaine-2025): Thu 4/3 (10:00pm), Fri 4/4 (9:45pm), Sat 4/5 (9:45pm), Sun 4/6 (9:20pm), Mon 4/7 (1:30pm), Tue 4/8 (10:00pm), Wed 4/9 (9:30pm)
+
+    * [Princess Mononoke Dubbed](https://drafthouse.com/raleigh/show/princess-mononoke-dubbed): Sat 4/5 (3:45pm), Mon 4/7 (3:00pm), Tue 4/8 (3:00pm)
+
+    * [Princess Mononoke Subtitled](https://drafthouse.com/raleigh/show/princess-mononoke-subtitled): Fri 4/4 (6:30pm), Sun 4/6 (5:30pm), Tue 4/8 (6:45pm), Wed 4/9 (6:00pm)
+
+    * [Snow White 2025](https://drafthouse.com/raleigh/show/snow-white-2025): Thu 4/3 (3:45pm, 6:45pm, 9:30pm), Fri 4/4 (12:45pm, 3:15pm, 6:15pm, 9:15pm), Sat 4/5 (12:10pm, 3:00pm, 6:00pm, 9:00pm), Sun 4/6 (12:00pm, 3:15pm, 6:15pm, 9:00pm), Mon 4/7 (12:00pm, 3:15pm, 6:15pm), Tue 4/8 (3:15pm, 6:15pm, 9:15pm), Wed 4/9 (3:00pm, 6:15pm, 9:15pm)
+
+    * [The Encampments](https://drafthouse.com/raleigh/show/the-encampments): Fri 4/4 (3:45pm), Sat 4/5 (7:15pm), Sun 4/6 (3:00pm), Mon 4/7 (6:30pm), Wed 4/9 (3:30pm)
+
+    * [The Woman In The Yard](https://drafthouse.com/raleigh/show/the-woman-in-the-yard): Thu 4/3 (7:15pm, 10:45pm), Fri 4/4 (2:00pm, 4:45pm, 7:45pm, 10:45pm), Sat 4/5 (2:00pm, 4:45pm, 7:45pm, 10:45pm), Sun 4/6 (2:00pm, 4:45pm, 7:45pm, 10:45pm), Mon 4/7 (2:00pm, 4:45pm, 7:45pm), Tue 4/8 (4:30pm, 7:00pm, 10:45pm), Wed 4/9 (4:45pm, 6:00pm, 10:45pm)
+
 ### Mon 3/31 4:27pm
 * New movies: Mystery Machine 4/7/2025
 
