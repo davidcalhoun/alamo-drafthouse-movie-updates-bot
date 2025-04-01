@@ -1,6 +1,52 @@
 # los-angeles
 
 ## Movie updates
+### Mon 3/31 6:55pm
+* New movies: The Luckiest Man in America, The Hunger Games, Secret Mall Apartment
+
+* New screenings: 
+    * [A Minecraft Movie](https://drafthouse.com/los-angeles/show/a-minecraft-movie): Fri 4/4 (11:00am, 2:40pm), Sat 4/5 (11:00am, 2:35pm), Sun 4/6 (11:30am, 2:40pm), Mon 4/7 (11:00am, 1:50pm), Tue 4/8 (2:50pm, 3:15pm, 6:10pm, 9:00pm), Wed 4/9 (11:00am, 12:00pm, 2:35pm, 3:00pm, 6:00pm, 9:00pm)
+
+    * [A Working Man](https://drafthouse.com/los-angeles/show/a-working-man): Thu 4/3 (3:10pm, 6:20pm, 9:30pm), Fri 4/4 (11:50am, 3:00pm, 6:10pm, 9:20pm), Sat 4/5 (12:10pm, 2:50pm, 6:45pm, 10:00pm), Sun 4/6 (10:45am, 1:40pm, 4:30pm, 7:40pm), Mon 4/7 (11:35am, 2:50pm, 6:15pm), Tue 4/8 (4:00pm, 7:00pm, 10:10pm), Wed 4/9 (11:35am, 2:50pm, 6:10pm, 9:20pm)
+
+    * [Ash](https://drafthouse.com/los-angeles/show/ash): Thu 4/3 (5:35pm)
+
+    * [Black Bag](https://drafthouse.com/los-angeles/show/black-bag): Thu 4/3 (1:45pm, 5:15pm, 8:00pm, 10:45pm), Fri 4/4 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sat 4/5 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sun 4/6 (11:50am, 4:00pm, 6:20pm), Mon 4/7 (11:30am, 2:15pm, 5:00pm, 7:45pm), Tue 4/8 (5:00pm, 7:45pm, 10:30pm), Wed 4/9 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:45pm)
+
+    * [Death Of A Unicorn](https://drafthouse.com/los-angeles/show/death-of-a-unicorn): Thu 4/3 (4:00pm, 7:00pm, 10:00pm), Fri 4/4 (12:40pm, 3:45pm, 6:45pm, 9:45pm), Sat 4/5 (1:10pm, 4:10pm, 7:10pm, 10:10pm), Sun 4/6 (1:00pm, 4:00pm, 7:00pm), Mon 4/7 (12:40pm, 3:45pm, 6:45pm), Tue 4/8 (3:45pm, 6:45pm, 9:45pm), Wed 4/9 (12:40pm, 3:45pm, 6:45pm, 9:45pm)
+
+    * [Dune 1984](https://drafthouse.com/los-angeles/show/dune-1984): Fri 4/4 (3:50pm), Sat 4/5 (7:00pm), Mon 4/7 (3:30pm), Tue 4/8 (9:35pm), Wed 4/9 (9:35pm)
+
+    * [Hell Of A Summer](https://drafthouse.com/los-angeles/show/hell-of-a-summer): Thu 4/3 (8:20pm)
+
+    * [Live Intro Secret Mall Apartment](https://drafthouse.com/los-angeles/show/live-intro-secret-mall-apartment): Thu 4/3 (10:20pm)
+
+    * [Magazine Dreams](https://drafthouse.com/los-angeles/show/magazine-dreams): Thu 4/3 (2:50pm)
+
+    * [Mickey 17](https://drafthouse.com/los-angeles/show/mickey-17): Thu 4/3 (3:10pm, 6:40pm, 9:30pm), Fri 4/4 (12:45pm, 2:30pm, 6:00pm, 9:25pm), Sat 4/5 (11:20am, 3:20pm, 6:00pm, 9:25pm), Sun 4/6 (12:30pm, 2:50pm, 6:45pm), Mon 4/7 (11:20am, 2:45pm, 6:00pm), Tue 4/8 (3:25pm, 6:00pm, 9:25pm), Wed 4/9 (12:35pm, 2:45pm, 6:00pm, 9:25pm)
+
+    * [Novocaine 2025](https://drafthouse.com/los-angeles/show/novocaine-2025): Thu 4/3 (2:30pm)
+
+    * [Secret Mall Apartment](https://drafthouse.com/los-angeles/show/secret-mall-apartment): Fri 4/4 (4:15pm, 10:20pm), Mon 4/7 (11:15am, 4:35pm), Tue 4/8 (4:35pm, 10:10pm), Wed 4/9 (4:10pm, 10:30pm)
+
+    * [Smiley Face](https://drafthouse.com/los-angeles/show/smiley-face): Wed 4/9 (11:00am)
+
+    * [Snow White 2025](https://drafthouse.com/los-angeles/show/snow-white-2025): Thu 4/3 (2:15pm, 6:10pm, 9:10pm), Fri 4/4 (12:20pm, 3:20pm, 6:20pm, 9:20pm), Sat 4/5 (12:20pm, 3:20pm, 6:20pm, 9:20pm), Sun 4/6 (12:10pm, 3:10pm, 6:10pm), Mon 4/7 (12:20pm, 3:20pm, 6:20pm), Tue 4/8 (3:20pm, 6:20pm, 9:20pm), Wed 4/9 (12:20pm, 3:20pm, 6:20pm, 9:20pm)
+
+    * [The Alto Knights](https://drafthouse.com/los-angeles/show/the-alto-knights): Thu 4/3 (4:15pm)
+
+    * [The Elephant Man](https://drafthouse.com/los-angeles/show/the-elephant-man): Thu 4/3 (5:15pm, 8:30pm)
+
+    * [The Encampments](https://drafthouse.com/los-angeles/show/the-encampments): Fri 4/4 (12:00pm), Sat 4/5 (4:30pm), Sun 4/6 (8:15pm), Mon 4/7 (2:00pm), Tue 4/8 (3:30pm), Wed 4/9 (12:10pm)
+
+    * [The Hunger Games](https://drafthouse.com/los-angeles/show/the-hunger-games): Sun 4/6 (7:10pm), Mon 4/7 (12:00pm), Wed 4/9 (4:25pm)
+
+    * [The Luckiest Man In America](https://drafthouse.com/los-angeles/show/the-luckiest-man-in-america): Fri 4/4 (5:30pm, 8:15pm), Sat 4/5 (5:30pm, 8:15pm), Sun 4/6 (5:35pm), Mon 4/7 (5:45pm), Tue 4/8 (5:45pm, 8:30pm), Wed 4/9 (5:30pm, 8:15pm)
+
+    * [The Woman In The Yard](https://drafthouse.com/los-angeles/show/the-woman-in-the-yard): Thu 4/3 (4:10pm, 6:50pm, 10:10pm), Fri 4/4 (12:00pm, 1:50pm, 4:30pm, 7:10pm, 9:50pm), Sat 4/5 (11:50am, 1:50pm, 4:35pm, 7:20pm, 10:00pm), Sun 4/6 (11:00am, 1:50pm, 4:50pm, 7:30pm), Mon 4/7 (12:15pm, 3:00pm, 4:45pm, 7:25pm), Tue 4/8 (3:20pm, 7:10pm, 9:50pm), Wed 4/9 (11:50am, 1:50pm, 4:30pm, 7:15pm, 9:55pm)
+
+    * [Tremors](https://drafthouse.com/los-angeles/show/tremors): Sat 4/5 (10:30pm), Sun 4/6 (4:15pm), Tue 4/8 (7:20pm), Wed 4/9 (1:35pm)
+
 ### Mon 3/31 3:20pm
 
 * New screenings: 
