@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Wed 4/2 6:25pm
+
+* New screenings: 
+    * [Hell Of A Summer](https://drafthouse.com/raleigh/show/hell-of-a-summer): Thu 4/3 (8:00pm, 10:30pm)
+
 ### Wed 4/2 9:33am
 * New movies: Until Dawn
 
