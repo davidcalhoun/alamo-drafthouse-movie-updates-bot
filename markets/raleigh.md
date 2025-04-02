@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 4/2 9:33am
+* New movies: Until Dawn
+
+* New screenings: 
+    * [Until Dawn](https://drafthouse.com/raleigh/show/until-dawn): Fri 4/25 (2:00pm, 4:45pm, 7:30pm, 10:15pm), Sat 4/26 (2:00pm, 4:45pm, 7:30pm, 10:15pm), Sun 4/27 (2:00pm, 4:45pm, 7:30pm, 10:15pm)
+
 ### Tue 4/1 10:26am
 * New movies: Princess Mononoke Subtitled, Princess Mononoke Dubbed, The Encampments
 
