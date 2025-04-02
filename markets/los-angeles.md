@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 4/2 6:30am
+* New movies: Until Dawn
+
+* New screenings: 
+    * [Until Dawn](https://drafthouse.com/los-angeles/show/until-dawn): Thu 4/24 (5:00pm, 7:45pm, 10:30pm), Fri 4/25 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sat 4/26 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sun 4/27 (11:30am, 2:15pm, 5:00pm, 7:45pm), Mon 4/28 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Tue 4/29 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Wed 4/30 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm)
+
 ### Mon 3/31 6:55pm
 * New movies: The Luckiest Man in America, The Hunger Games, Secret Mall Apartment
 
