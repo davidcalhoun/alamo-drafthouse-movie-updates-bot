@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 4/3 2:22am
+* New movies: Gazer
+
+* New screenings: 
+    * [Gazer](https://drafthouse.com/los-angeles/show/gazer): Fri 4/11 (1:15pm, 4:25pm), Sat 4/12 (1:15pm, 4:25pm), Sun 4/13 (12:35pm, 3:40pm, 6:45pm), Mon 4/14 (12:35pm, 3:40pm, 6:45pm, 9:50pm), Tue 4/15 (12:35pm, 3:40pm, 6:45pm, 9:50pm)
+
 ### Wed 4/2 6:30am
 * New movies: Until Dawn
 
