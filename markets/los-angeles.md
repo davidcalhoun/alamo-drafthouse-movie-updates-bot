@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 4/3 7:20am
+* New movies: The Accountant 2
+
+* New screenings: 
+    * [The Accountant 2](https://drafthouse.com/los-angeles/show/the-accountant-2): Thu 4/24 (6:15pm, 9:30pm), Fri 4/25 (11:45am, 3:00pm, 6:15pm, 9:30pm), Sat 4/26 (11:45am, 3:00pm, 6:15pm, 9:30pm), Sun 4/27 (11:45am, 3:00pm, 6:15pm), Mon 4/28 (11:45am, 3:00pm, 6:15pm, 9:30pm), Tue 4/29 (11:45am, 3:00pm, 6:15pm, 9:30pm), Wed 4/30 (11:45am, 3:00pm, 6:15pm, 9:30pm)
+
 ### Thu 4/3 2:22am
 * New movies: Gazer
 
