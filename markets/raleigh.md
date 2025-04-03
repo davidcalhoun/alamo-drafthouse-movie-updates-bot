@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Thu 4/3 11:25am
+
+* New screenings: 
+    * [Captain America Brave New World](https://drafthouse.com/raleigh/show/captain-america-brave-new-world): Thu 4/3 (3:30pm)
+
+    * [The Woman In The Yard](https://drafthouse.com/raleigh/show/the-woman-in-the-yard): Thu 4/3 (4:45pm)
+
 ### Thu 4/3 10:26am
 * New movies: The Accountant 2
 
