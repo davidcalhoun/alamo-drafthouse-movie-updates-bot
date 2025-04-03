@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 4/3 10:26am
+* New movies: The Accountant 2
+
+* New screenings: 
+    * [The Accountant 2](https://drafthouse.com/raleigh/show/the-accountant-2): Thu 4/24 (7:00pm, 10:15pm), Fri 4/25 (12:30pm, 3:45pm, 7:00pm, 10:05pm), Sat 4/26 (12:00pm, 3:15pm, 6:30pm, 9:35pm), Sun 4/27 (12:00pm, 3:15pm, 6:30pm, 9:35pm)
+
 ### Wed 4/2 6:25pm
 
 * New screenings: 
