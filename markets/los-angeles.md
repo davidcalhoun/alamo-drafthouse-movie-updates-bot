@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Thu 4/3 6:43pm
+
+* New screenings: 
+    * [Dazed And Confused](https://drafthouse.com/los-angeles/show/dazed-and-confused): Sat 4/12 (5:20pm)
+
+    * [Fantastic Fest Presents Gazer W Live Q A](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-gazer-w-live-q-a): Fri 4/11 (8:15pm), Sat 4/12 (8:15pm)
+
 ### Thu 4/3 7:20am
 * New movies: The Accountant 2
 
