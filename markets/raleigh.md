@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Sat 4/5 4:24pm
+
+* New screenings: 
+    * [A Minecraft Movie](https://drafthouse.com/raleigh/show/a-minecraft-movie): Sun 4/6 (9:30pm)
+
 ### Fri 4/4 12:30pm
 
 * New screenings: 
