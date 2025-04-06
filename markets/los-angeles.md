@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Sat 4/5 6:49pm
+* New movies: The Deadly Spawn
+
+* New screenings: 
+    * [The Deadly Spawn](https://drafthouse.com/los-angeles/show/the-deadly-spawn): Wed 4/16 (7:30pm)
+
 ### Fri 4/4 1:27am
 
 * New screenings: 
