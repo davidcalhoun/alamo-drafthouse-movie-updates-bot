@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 4/7 9:34am
+* New movies: Thunderbolts*
+
+* New screenings: 
+    * [Thunderbolts](https://drafthouse.com/raleigh/show/thunderbolts): Thu 5/1 (2:45pm, 6:00pm, 9:15pm), Fri 5/2 (11:30am, 2:45pm, 6:00pm, 9:15pm), Sat 5/3 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Sun 5/4 (12:00pm, 3:15pm, 6:30pm, 9:45pm)
+
 ### Sat 4/5 4:24pm
 
 * New screenings: 
