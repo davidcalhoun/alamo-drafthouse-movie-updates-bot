@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 4/7 6:30am
+* New movies: Thunderbolts*
+
+* New screenings: 
+    * [Thunderbolts](https://drafthouse.com/los-angeles/show/thunderbolts): Thu 5/1 (2:50pm, 6:15pm, 9:40pm), Fri 5/2 (11:25am, 2:50pm, 6:15pm, 9:40pm), Sat 5/3 (11:25am, 2:50pm, 6:15pm, 9:40pm), Sun 5/4 (11:25am, 2:50pm, 6:15pm), Mon 5/5 (11:25am, 2:50pm, 6:15pm, 9:40pm), Tue 5/6 (11:25am, 2:50pm, 6:15pm, 9:40pm), Wed 5/7 (11:25am, 2:50pm, 6:15pm, 9:40pm)
+
 ### Sun 4/6 6:47pm
 * New movies: The Ugly Stepsister
 
