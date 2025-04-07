@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Sun 4/6 6:47pm
+* New movies: The Ugly Stepsister
+
+* New screenings: 
+    * [Advance Screening The Ugly Stepsister](https://drafthouse.com/los-angeles/show/advance-screening-the-ugly-stepsister): Mon 4/14 (7:20pm)
+
+    * [Warfare](https://drafthouse.com/los-angeles/show/warfare): Fri 4/11 (10:30pm)
+
 ### Sat 4/5 6:49pm
 * New movies: The Deadly Spawn
 
