@@ -1,6 +1,48 @@
 # los-angeles
 
 ## Movie updates
+### Mon 4/7 6:44pm
+* New movies: Across the Universe
+
+* New screenings: 
+    * [A Minecraft Movie](https://drafthouse.com/los-angeles/show/a-minecraft-movie): Thu 4/10 (3:20pm, 4:40pm, 6:15pm, 7:30pm, 9:10pm), Fri 4/11 (12:15pm, 12:45pm, 2:40pm, 3:40pm, 5:40pm, 6:30pm, 7:00pm, 9:20pm), Sat 4/12 (12:15pm, 12:45pm, 1:10pm, 2:40pm, 3:40pm, 5:45pm, 6:30pm, 6:45pm, 9:20pm), Sun 4/13 (11:00am, 12:45pm, 1:50pm, 3:40pm, 4:40pm, 6:30pm), Mon 4/14 (12:10pm, 12:45pm, 2:40pm, 3:40pm, 5:45pm, 6:30pm, 9:20pm), Tue 4/15 (11:30am, 12:10pm, 12:45pm, 2:40pm, 3:40pm, 4:30pm, 5:30pm, 6:30pm, 9:20pm), Wed 4/16 (12:15pm, 12:45pm, 3:10pm, 3:40pm, 6:30pm, 9:20pm)
+
+    * [A Working Man](https://drafthouse.com/los-angeles/show/a-working-man): Thu 4/10 (2:50pm, 6:00pm)
+
+    * [Across The Universe](https://drafthouse.com/los-angeles/show/across-the-universe): Fri 4/11 (12:50pm), Mon 4/14 (2:35pm), Tue 4/15 (1:00pm)
+
+    * [Black Bag](https://drafthouse.com/los-angeles/show/black-bag): Thu 4/10 (2:45pm, 9:00pm, 10:25pm), Fri 4/11 (8:35pm), Sat 4/12 (8:35pm), Sun 4/13 (7:30pm), Mon 4/14 (8:35pm), Tue 4/15 (8:20pm), Wed 4/16 (8:50pm)
+
+    * [Creed](https://drafthouse.com/los-angeles/show/creed): Mon 4/14 (11:10am)
+
+    * [Death Of A Unicorn](https://drafthouse.com/los-angeles/show/death-of-a-unicorn): Thu 4/10 (3:45pm, 6:45pm, 9:45pm), Fri 4/11 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sat 4/12 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sun 4/13 (1:00pm, 4:00pm, 7:00pm), Mon 4/14 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Tue 4/15 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Wed 4/16 (1:10pm, 4:10pm, 7:10pm, 10:10pm)
+
+    * [Drop](https://drafthouse.com/los-angeles/show/drop): Mon 4/14 (11:00am, 1:40pm, 4:25pm, 7:10pm, 10:00pm), Tue 4/15 (11:00am, 1:40pm, 4:25pm, 7:10pm, 9:55pm), Wed 4/16 (11:00am, 1:40pm, 4:20pm, 6:45pm, 10:30pm)
+
+    * [Dune 1984](https://drafthouse.com/los-angeles/show/dune-1984): Thu 4/10 (9:10pm)
+
+    * [Gazer](https://drafthouse.com/los-angeles/show/gazer): Fri 4/11 (9:50pm), Sat 4/12 (9:40pm), Wed 4/16 (1:15pm, 4:25pm, 6:00pm, 10:00pm)
+
+    * [Hell Of A Summer](https://drafthouse.com/los-angeles/show/hell-of-a-summer): Thu 4/10 (2:40pm, 5:20pm, 8:00pm, 10:40pm), Fri 4/11 (11:20am, 2:00pm, 4:45pm, 7:25pm, 10:10pm), Sat 4/12 (11:20am, 2:00pm, 4:45pm, 7:25pm, 10:10pm), Sun 4/13 (12:00pm, 2:40pm, 5:20pm, 8:00pm), Mon 4/14 (11:20am, 2:00pm, 4:45pm, 7:30pm, 10:10pm), Tue 4/15 (11:30am, 2:10pm, 4:50pm, 7:30pm, 10:10pm), Wed 4/16 (11:30am, 2:10pm, 4:50pm, 7:30pm, 10:10pm)
+
+    * [Mickey 17](https://drafthouse.com/los-angeles/show/mickey-17): Thu 4/10 (5:30pm), Fri 4/11 (11:15am, 5:30pm), Sat 4/12 (11:15am, 8:20pm), Sun 4/13 (2:20pm, 5:45pm), Mon 4/14 (11:15am, 5:30pm), Tue 4/15 (2:20pm, 8:15pm), Wed 4/16 (3:20pm, 5:45pm)
+
+    * [Secret Mall Apartment](https://drafthouse.com/los-angeles/show/secret-mall-apartment): Fri 4/11 (12:00pm, 2:45pm, 5:30pm), Sat 4/12 (4:00pm, 5:30pm, 10:55pm), Sun 4/13 (12:15pm, 4:25pm), Mon 4/14 (11:00am, 1:45pm, 4:30pm, 6:00pm), Tue 4/15 (3:00pm, 5:45pm, 10:45pm), Wed 4/16 (11:15am, 4:35pm, 10:40pm)
+
+    * [Selena](https://drafthouse.com/los-angeles/show/selena): Sun 4/13 (7:10pm), Mon 4/14 (8:45pm), Tue 4/15 (8:30pm), Wed 4/16 (11:50am, 9:15pm)
+
+    * [Special Event Vampire Hunter D Subtitled Axcn 40th Anniversary](https://drafthouse.com/los-angeles/show/special-event-vampire-hunter-d-subtitled-axcn-40th-anniversary): Fri 4/11 (4:20pm), Wed 4/16 (2:00pm)
+
+    * [The Amateur 2025](https://drafthouse.com/los-angeles/show/the-amateur-2025): Thu 4/10 (8:25pm)
+
+    * [The Ballad Of Wallis Island](https://drafthouse.com/los-angeles/show/the-ballad-of-wallis-island): Thu 4/10 (3:10pm, 6:00pm, 8:50pm), Fri 4/11 (12:20pm, 3:10pm, 6:00pm, 8:50pm), Sat 4/12 (12:20pm, 3:10pm, 6:00pm, 9:00pm), Sun 4/13 (12:20pm, 3:10pm, 6:00pm), Mon 4/14 (12:20pm, 3:10pm, 6:00pm, 9:00pm), Tue 4/15 (12:20pm, 3:10pm, 6:00pm, 9:00pm), Wed 4/16 (12:20pm, 3:10pm, 6:00pm, 9:10pm)
+
+    * [The Encampments](https://drafthouse.com/los-angeles/show/the-encampments): Thu 4/10 (4:25pm, 9:40pm), Fri 4/11 (3:10pm, 9:00pm), Sat 4/12 (3:10pm), Sun 4/13 (11:50am), Mon 4/14 (3:15pm, 8:50pm), Tue 4/15 (12:10pm, 5:45pm), Wed 4/16 (12:50pm, 3:10pm, 9:30pm)
+
+    * [The Woman In The Yard](https://drafthouse.com/los-angeles/show/the-woman-in-the-yard): Thu 4/10 (3:00pm, 5:45pm)
+
+    * [Warfare](https://drafthouse.com/los-angeles/show/warfare): Mon 4/14 (11:30am, 2:15pm), Tue 4/15 (10:30pm), Wed 4/16 (11:30am, 2:15pm)
+
 ### Mon 4/7 6:30am
 * New movies: Thunderbolts*
 
