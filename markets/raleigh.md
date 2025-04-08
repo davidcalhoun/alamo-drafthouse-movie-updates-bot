@@ -1,6 +1,40 @@
 # raleigh
 
 ## Movie updates
+### Tue 4/8 4:28pm
+* New movies: The Amateur 2025
+
+* New screenings: 
+    * [A Minecraft Movie](https://drafthouse.com/raleigh/show/a-minecraft-movie): Thu 4/10 (3:00pm, 3:30pm, 4:30pm, 6:00pm, 7:30pm, 9:00pm, 9:30pm, 10:30pm), Sat 4/12 (12:30pm, 1:30pm, 2:00pm, 3:15pm, 3:15pm, 4:30pm, 5:00pm, 5:30pm, 6:00pm, 6:15pm, 7:30pm, 8:30pm, 9:00pm, 9:00pm, 9:30pm), Sun 4/13 (1:30pm, 2:00pm, 2:30pm, 3:15pm, 4:30pm, 5:00pm, 5:00pm, 5:30pm, 6:00pm, 6:15pm, 7:30pm, 8:00pm, 9:00pm, 9:00pm), Mon 4/14 (3:00pm, 3:30pm, 4:00pm, 4:30pm, 5:00pm, 6:00pm, 6:30pm, 7:00pm, 9:15pm), Tue 4/15 (12:00pm, 12:30pm, 1:00pm, 1:30pm, 2:00pm, 3:00pm, 3:00pm, 3:30pm, 4:00pm, 4:30pm, 5:00pm, 5:45pm, 6:00pm, 6:30pm, 7:00pm, 8:00pm, 8:30pm, 9:15pm), Wed 4/16 (3:30pm, 3:30pm, 4:00pm, 4:30pm, 5:15pm, 6:15pm, 7:00pm, 9:00pm, 9:30pm, 10:30pm)
+
+    * [A Working Man](https://drafthouse.com/raleigh/show/a-working-man): Thu 4/10 (3:45pm, 6:45pm, 9:45pm)
+
+    * [Dazed And Confused](https://drafthouse.com/raleigh/show/dazed-and-confused): Sun 4/13 (4:15pm), Mon 4/14 (8:00pm), Tue 4/15 (4:00pm), Wed 4/16 (8:00pm, 9:45pm)
+
+    * [Death Of A Unicorn](https://drafthouse.com/raleigh/show/death-of-a-unicorn): Thu 4/10 (3:30pm, 6:45pm, 9:45pm), Sat 4/12 (7:45pm, 10:45pm), Sun 4/13 (7:45pm, 10:45pm), Mon 4/14 (4:15pm, 7:15pm, 10:15pm), Tue 4/15 (9:30pm), Wed 4/16 (4:15pm, 7:15pm, 10:15pm)
+
+    * [Drop](https://drafthouse.com/raleigh/show/drop): Mon 4/14 (4:30pm, 7:15pm, 10:15pm), Tue 4/15 (1:30pm, 4:15pm, 7:15pm, 10:00pm), Wed 4/16 (4:30pm, 7:15pm, 10:00pm)
+
+    * [Hell Of A Summer](https://drafthouse.com/raleigh/show/hell-of-a-summer): Thu 4/10 (4:30pm, 7:15pm, 10:00pm)
+
+    * [Mickey 17](https://drafthouse.com/raleigh/show/mickey-17): Mon 4/14 (9:45pm), Tue 4/15 (9:45pm)
+
+    * [Secret Mall Apartment](https://drafthouse.com/raleigh/show/secret-mall-apartment): Sat 4/12 (1:15pm), Sun 4/13 (1:15pm), Tue 4/15 (12:00pm)
+
+    * [Snow White 2025](https://drafthouse.com/raleigh/show/snow-white-2025): Sat 4/12 (12:15pm), Sun 4/13 (12:15pm), Mon 4/14 (4:00pm), Tue 4/15 (12:30pm), Wed 4/16 (4:00pm)
+
+    * [Special Event Vampire Hunter D Subtitled Axcn 40th Anniversary](https://drafthouse.com/raleigh/show/special-event-vampire-hunter-d-subtitled-axcn-40th-anniversary): Sat 4/12 (4:15pm), Sun 4/13 (8:30pm)
+
+    * [The Amateur 2025](https://drafthouse.com/raleigh/show/the-amateur-2025): Thu 4/10 (4:15pm, 7:30pm, 10:35pm), Sat 4/12 (1:30pm, 5:00pm, 8:15pm, 10:30pm), Sun 4/13 (1:00pm, 4:15pm, 7:30pm, 10:30pm), Mon 4/14 (3:00pm, 6:15pm, 8:45pm, 9:30pm), Tue 4/15 (12:15pm, 3:15pm, 6:15pm, 9:30pm), Wed 4/16 (3:00pm, 6:15pm, 9:45pm)
+
+    * [The Ballad Of Wallis Island](https://drafthouse.com/raleigh/show/the-ballad-of-wallis-island): Thu 4/10 (3:15pm), Mon 4/14 (4:45pm, 7:30pm, 10:30pm), Tue 4/15 (1:45pm, 4:30pm, 7:30pm, 10:15pm), Wed 4/16 (4:45pm, 7:30pm, 10:15pm)
+
+    * [The Encampments](https://drafthouse.com/raleigh/show/the-encampments): Thu 4/10 (4:45pm)
+
+    * [The Woman In The Yard](https://drafthouse.com/raleigh/show/the-woman-in-the-yard): Thu 4/10 (7:45pm, 10:45pm), Sat 4/12 (7:15pm, 10:15pm), Sun 4/13 (1:45pm, 7:15pm, 10:15pm), Mon 4/14 (7:45pm, 10:15pm), Tue 4/15 (7:45pm, 10:30pm), Wed 4/16 (7:30pm, 10:15pm)
+
+    * [Warfare](https://drafthouse.com/raleigh/show/warfare): Mon 4/14 (4:45pm, 7:30pm, 10:30pm), Tue 4/15 (2:00pm, 4:45pm, 7:30pm, 10:15pm), Wed 4/16 (3:00pm)
+
 ### Tue 4/8 2:34pm
 * New movies: The Ugly Stepsister
 
