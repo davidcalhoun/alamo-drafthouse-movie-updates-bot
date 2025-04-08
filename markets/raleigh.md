@@ -1,6 +1,27 @@
 # raleigh
 
 ## Movie updates
+### Tue 4/8 7:23pm
+
+* New screenings: 
+    * [A Minecraft Movie](https://drafthouse.com/raleigh/show/a-minecraft-movie): Fri 4/11 (12:30pm, 1:00pm, 1:30pm, 2:00pm, 2:30pm, 3:15pm, 3:30pm, 4:00pm, 4:15pm, 5:00pm, 5:30pm, 6:15pm, 7:00pm, 7:15pm, 8:30pm, 9:00pm, 10:00pm)
+
+    * [Dazed And Confused](https://drafthouse.com/raleigh/show/dazed-and-confused): Fri 4/11 (4:15pm)
+
+    * [Death Of A Unicorn](https://drafthouse.com/raleigh/show/death-of-a-unicorn): Fri 4/11 (7:45pm, 10:45pm)
+
+    * [Drop](https://drafthouse.com/raleigh/show/drop): Fri 4/11 (10:15pm)
+
+    * [Mickey 17](https://drafthouse.com/raleigh/show/mickey-17): Fri 4/11 (9:30pm)
+
+    * [Secret Mall Apartment](https://drafthouse.com/raleigh/show/secret-mall-apartment): Fri 4/11 (1:15pm)
+
+    * [Snow White 2025](https://drafthouse.com/raleigh/show/snow-white-2025): Fri 4/11 (12:15pm)
+
+    * [The Amateur 2025](https://drafthouse.com/raleigh/show/the-amateur-2025): Fri 4/11 (2:00pm, 5:15pm, 8:30pm, 10:00pm)
+
+    * [The Woman In The Yard](https://drafthouse.com/raleigh/show/the-woman-in-the-yard): Fri 4/11 (7:15pm, 10:15pm)
+
 ### Tue 4/8 4:28pm
 * New movies: The Amateur 2025
 
