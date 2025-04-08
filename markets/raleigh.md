@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 4/8 2:34pm
+* New movies: The Ugly Stepsister
+
+* New screenings: 
+    * [Advance Screening The Ugly Stepsister](https://drafthouse.com/raleigh/show/advance-screening-the-ugly-stepsister): Mon 4/14 (10:00pm)
+
 ### Mon 4/7 9:34am
 * New movies: Thunderbolts*
 
