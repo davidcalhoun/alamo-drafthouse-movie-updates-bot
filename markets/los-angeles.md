@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 4/9 6:31am
+* New movies: Cheech & Chong's Last Movie
+
+* New screenings: 
+    * [Advance Screening Cheech And Chongs Last Movie](https://drafthouse.com/los-angeles/show/advance-screening-cheech-and-chongs-last-movie): Sun 4/20 (4:20pm)
+
 ### Wed 4/9 3:25am
 * New movies: Annabelle: Halfway to Halloween, M3gan: Halfway to Halloween, Ma: Halfway to Halloween
 
