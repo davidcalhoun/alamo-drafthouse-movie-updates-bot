@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Wed 4/9 3:25am
+* New movies: Annabelle: Halfway to Halloween, M3gan: Halfway to Halloween, Ma: Halfway to Halloween
+
+* New screenings: 
+    * [Annabelle Halfway To Halloween](https://drafthouse.com/los-angeles/show/annabelle-halfway-to-halloween): Wed 5/7 (6:45pm, 10:30pm)
+
+    * [M3gan Halfway To Halloween](https://drafthouse.com/los-angeles/show/m3gan-halfway-to-halloween): Wed 4/30 (7:20pm, 10:20pm)
+
+    * [Ma Halfway To Halloween](https://drafthouse.com/los-angeles/show/ma-halfway-to-halloween): Wed 5/14 (7:20pm, 10:15pm)
+
 ### Mon 4/7 6:44pm
 * New movies: Across the Universe
 
