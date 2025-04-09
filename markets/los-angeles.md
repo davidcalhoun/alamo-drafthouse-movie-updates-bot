@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 4/9 11:29am
+* New movies: Happy Gilmore 2025 Event
+
+* New screenings: 
+    * [Happy Gilmore Re Release](https://drafthouse.com/los-angeles/show/happy-gilmore-re-release): Fri 4/25 (4:30pm, 7:15pm), Tue 4/29 (4:30pm, 7:15pm)
+
 ### Wed 4/9 6:31am
 * New movies: Cheech & Chong's Last Movie
 
