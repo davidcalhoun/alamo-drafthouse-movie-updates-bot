@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 4/9 9:35am
+* New movies: Cheech & Chong's Last Movie
+
+* New screenings: 
+    * [Advance Screening Cheech And Chongs Last Movie](https://drafthouse.com/raleigh/show/advance-screening-cheech-and-chongs-last-movie): Sun 4/20 (4:20pm)
+
 ### Tue 4/8 7:23pm
 
 * New screenings: 
