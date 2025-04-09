@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 4/9 2:35pm
+* New movies: Happy Gilmore 2025 Event
+
+* New screenings: 
+    * [Happy Gilmore Re Release](https://drafthouse.com/raleigh/show/happy-gilmore-re-release): Fri 4/25 (3:30pm, 6:30pm), Sat 4/26 (12:30pm, 3:30pm)
+
 ### Wed 4/9 9:35am
 * New movies: Cheech & Chong's Last Movie
 
