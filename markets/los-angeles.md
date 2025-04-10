@@ -1,6 +1,24 @@
 # los-angeles
 
 ## Movie updates
+### Thu 4/10 1:28am
+* New movies: Dog Day Afternoon, Mamma Mia!, Stand By Me 1986, COOLEY HIGH, HEREDITARY, JEANNE DIELMAN, 23 COMMERCE QUAY, 1080 BRUSSELS, THE HUNGER GAMES: MOCKINGJAY- PART 1
+
+* New screenings: 
+    * [Cooley High](https://drafthouse.com/los-angeles/show/cooley-high): Sat 5/17 (2:45pm)
+
+    * [Dog Day Afternoon](https://drafthouse.com/los-angeles/show/dog-day-afternoon): Sat 5/17 (11:30am)
+
+    * [Hereditary](https://drafthouse.com/los-angeles/show/hereditary): Sat 5/10 (4:00pm)
+
+    * [Jeanne Dielman 23 Commerce Quay 1080 Brussels](https://drafthouse.com/los-angeles/show/jeanne-dielman-23-commerce-quay-1080-brussels): Sat 5/10 (11:30am)
+
+    * [Mamma Mia](https://drafthouse.com/los-angeles/show/mamma-mia): Sun 5/11 (11:00am)
+
+    * [Mockingjay Part 1](https://drafthouse.com/los-angeles/show/mockingjay-part-1): Tue 6/3 (6:00pm)
+
+    * [Stand By Me 1986](https://drafthouse.com/los-angeles/show/stand-by-me-1986): Tue 6/3 (7:20pm)
+
 ### Wed 4/9 11:29am
 * New movies: Happy Gilmore 2025 Event
 
