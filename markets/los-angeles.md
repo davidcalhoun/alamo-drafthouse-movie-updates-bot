@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 4/10 6:45pm
+* New movies: Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles
+
+
+
 ### Thu 4/10 1:28am
 * New movies: Dog Day Afternoon, Mamma Mia!, Stand By Me 1986, COOLEY HIGH, HEREDITARY, JEANNE DIELMAN, 23 COMMERCE QUAY, 1080 BRUSSELS, THE HUNGER GAMES: MOCKINGJAY- PART 1
 
