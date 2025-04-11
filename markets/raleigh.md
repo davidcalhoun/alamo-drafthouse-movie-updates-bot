@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 4/11 10:25am
+* New movies: The Legend of Ochi
+
+* New screenings: 
+    * [The Legend Of Ochi](https://drafthouse.com/raleigh/show/the-legend-of-ochi): Thu 4/24 (3:00pm, 6:00pm, 9:00pm), Fri 4/25 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 4/26 (11:30am, 2:15pm, 6:05pm, 9:00pm), Sun 4/27 (1:30pm, 4:15pm, 6:00pm, 9:00pm)
+
 ### Wed 4/9 2:35pm
 * New movies: Happy Gilmore 2025 Event
 
