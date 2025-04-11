@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 4/11 2:22am
+* New movies: The Legend of Ochi
+
+* New screenings: 
+    * [The Legend Of Ochi](https://drafthouse.com/los-angeles/show/the-legend-of-ochi): Thu 4/24 (3:40pm, 6:30pm, 9:20pm), Fri 4/25 (12:50pm, 3:40pm, 6:30pm, 9:20pm), Sat 4/26 (12:50pm, 3:40pm, 6:30pm, 9:20pm), Sun 4/27 (12:50pm, 3:40pm, 6:30pm), Mon 4/28 (12:50pm, 3:40pm, 6:30pm, 9:20pm), Tue 4/29 (12:50pm, 3:40pm, 6:30pm, 9:20pm), Wed 4/30 (12:50pm, 3:40pm, 6:30pm, 9:20pm)
+
 ### Thu 4/10 6:45pm
 * New movies: Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles
 
