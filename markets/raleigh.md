@@ -1,6 +1,18 @@
 # raleigh
 
 ## Movie updates
+### Fri 4/11 6:26pm
+* New movies: Triple Fisher: The Lethal Lolitas of Long Island, Zenithal, Constantine, Popcorn
+
+* New screenings: 
+    * [Terror Tuesday Constantine 2](https://drafthouse.com/raleigh/show/terror-tuesday-constantine-2): Tue 5/20 (9:30pm)
+
+    * [Terror Tuesday Popcorn](https://drafthouse.com/raleigh/show/terror-tuesday-popcorn): Tue 5/13 (9:30pm)
+
+    * [Weird Wednesday Triple Fisher The Lethal Lolitas Of Long Island](https://drafthouse.com/raleigh/show/weird-wednesday-triple-fisher-the-lethal-lolitas-of-long-island): Wed 5/21 (9:30pm)
+
+    * [Zenithal](https://drafthouse.com/raleigh/show/zenithal): Mon 6/2 (9:30pm)
+
 ### Fri 4/11 10:25am
 * New movies: The Legend of Ochi
 
