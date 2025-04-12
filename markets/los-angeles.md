@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 4/11 6:42pm
+* New movies: The Hunger Games: Mockingjay - Part 1
+
+
+
 ### Fri 4/11 2:22am
 * New movies: The Legend of Ochi
 
