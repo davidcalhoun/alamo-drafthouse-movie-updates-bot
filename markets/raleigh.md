@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 4/11 9:56pm
+* New movies: The Hunger Games: Mockingjay - Part 1
+
+
+
 ### Fri 4/11 7:23pm
 * New movies: Happy Gilmore 2025 Event, Hereditary, Cooley High, Dog Day Afternoon, Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles, Mamma Mia!, Switchblade Sisters, Stand By Me 1986, THE HUNGER GAMES: MOCKINGJAY- PART 1
 
