@@ -1,6 +1,40 @@
 # raleigh
 
 ## Movie updates
+### Mon 4/14 6:25pm
+* New movies: The Encampments, The Ugly Stepsister, Hell of a Summer, THE DEADLY SPAWN
+
+* New screenings: 
+    * [A Minecraft Movie](https://drafthouse.com/raleigh/show/a-minecraft-movie): Thu 4/17 (3:00pm, 3:30pm, 4:00pm, 6:00pm, 6:30pm, 9:15pm), Fri 4/18 (12:45pm, 1:45pm, 3:30pm, 4:30pm, 6:15pm, 9:00pm), Sat 4/19 (12:30pm, 2:00pm, 3:15pm, 4:30pm, 6:15pm, 10:00pm), Sun 4/20 (12:30pm, 1:30pm, 3:15pm, 4:30pm, 6:00pm, 9:00pm), Mon 4/21 (2:15pm, 3:15pm, 4:15pm, 6:00pm, 7:00pm, 9:00pm), Tue 4/22 (12:30pm, 1:30pm, 3:15pm, 4:30pm, 6:15pm, 7:15pm, 9:00pm), Wed 4/23 (2:15pm, 3:15pm, 4:30pm, 6:15pm, 7:30pm, 9:00pm)
+
+    * [Dazed And Confused](https://drafthouse.com/raleigh/show/dazed-and-confused): Thu 4/17 (10:15pm)
+
+    * [Death Of A Unicorn](https://drafthouse.com/raleigh/show/death-of-a-unicorn): Thu 4/17 (10:30pm), Sat 4/19 (10:45pm), Wed 4/23 (8:15pm)
+
+    * [Drop](https://drafthouse.com/raleigh/show/drop): Thu 4/17 (3:45pm, 6:45pm, 9:30pm), Fri 4/18 (12:30pm, 3:15pm, 6:00pm, 9:00pm), Sat 4/19 (12:30pm, 3:30pm, 7:30pm, 9:15pm), Sun 4/20 (12:00pm, 3:15pm, 6:15pm, 9:00pm), Mon 4/21 (4:00pm, 6:45pm, 9:45pm), Tue 4/22 (12:00pm, 3:15pm, 6:15pm, 9:15pm), Wed 4/23 (3:30pm, 6:15pm, 9:00pm)
+
+    * [Hell Of A Summer](https://drafthouse.com/raleigh/show/hell-of-a-summer): Fri 4/18 (9:30pm), Mon 4/21 (9:15pm)
+
+    * [Pride Prejudice 20th Anniversary](https://drafthouse.com/raleigh/show/pride-prejudice-20th-anniversary): Fri 4/18 (1:00pm, 1:30pm, 2:45pm), Sat 4/19 (1:15pm, 6:00pm), Sun 4/20 (11:00am, 2:15pm, 5:30pm), Tue 4/22 (11:30am, 3:00pm), Wed 4/23 (3:00pm)
+
+    * [Secret Mall Apartment](https://drafthouse.com/raleigh/show/secret-mall-apartment): Thu 4/17 (4:15pm), Fri 4/18 (12:30pm), Mon 4/21 (2:45pm), Tue 4/22 (3:45pm), Wed 4/23 (3:00pm)
+
+    * [Sinners](https://drafthouse.com/raleigh/show/sinners): Thu 4/17 (3:00pm, 4:00pm, 5:00pm, 6:30pm, 7:00pm, 7:30pm, 8:30pm, 9:00pm, 10:00pm), Fri 4/18 (4:30pm, 5:00pm, 6:00pm, 7:15pm, 8:00pm, 8:30pm, 9:30pm), Sat 4/19 (12:00pm, 1:30pm, 3:00pm, 4:00pm, 5:00pm, 6:30pm, 7:00pm, 7:30pm, 8:30pm, 9:15pm, 10:30pm), Sun 4/20 (12:00pm, 12:45pm, 3:30pm, 4:10pm, 7:00pm, 7:15pm, 7:30pm, 7:30pm, 8:45pm, 10:30pm), Mon 4/21 (3:00pm, 4:00pm, 5:00pm, 5:30pm, 6:15pm, 7:15pm, 8:15pm, 9:30pm, 10:00pm, 10:30pm), Tue 4/22 (11:00am, 12:00pm, 2:00pm, 2:30pm, 3:30pm, 5:45pm, 6:00pm, 6:30pm, 7:00pm, 9:30pm, 10:00pm, 10:30pm), Wed 4/23 (2:30pm, 3:45pm, 5:00pm, 6:00pm, 7:00pm, 8:30pm, 9:15pm, 10:15pm)
+
+    * [Terror Tuesday The Deadly Spawn1](https://drafthouse.com/raleigh/show/terror-tuesday-the-deadly-spawn1): Tue 5/6 (9:00pm)
+
+    * [The Amateur 2025](https://drafthouse.com/raleigh/show/the-amateur-2025): Thu 4/17 (4:30pm, 7:45pm, 10:45pm), Fri 4/18 (12:00pm, 3:15pm, 6:45pm, 10:00pm), Sat 4/19 (2:45pm, 6:15pm, 9:30pm), Sun 4/20 (11:30am, 2:45pm, 6:15pm, 9:30pm), Mon 4/21 (3:45pm, 7:30pm, 10:45pm), Tue 4/22 (11:30am, 2:45pm, 6:00pm, 9:15pm), Wed 4/23 (4:00pm, 7:15pm, 10:45pm)
+
+    * [The Ballad Of Wallis Island](https://drafthouse.com/raleigh/show/the-ballad-of-wallis-island): Thu 4/17 (3:15pm, 6:15pm, 9:00pm), Fri 4/18 (2:00pm, 4:45pm, 7:30pm, 10:15pm), Sat 4/19 (12:45pm, 3:45pm, 6:45pm, 9:30pm), Sun 4/20 (12:30pm, 3:45pm, 6:30pm, 9:15pm), Mon 4/21 (3:15pm, 6:00pm, 9:00pm), Tue 4/22 (12:30pm, 3:45pm, 6:45pm, 9:30pm), Wed 4/23 (4:15pm, 7:30pm, 10:30pm)
+
+    * [The Encampments](https://drafthouse.com/raleigh/show/the-encampments): Tue 4/22 (1:00pm), Wed 4/23 (5:45pm)
+
+    * [The Ugly Stepsister](https://drafthouse.com/raleigh/show/the-ugly-stepsister): Fri 4/18 (10:45pm), Sat 4/19 (10:15pm), Sun 4/20 (10:30pm), Mon 4/21 (10:00pm), Tue 4/22 (10:00pm), Wed 4/23 (10:15pm)
+
+    * [The Woman In The Yard](https://drafthouse.com/raleigh/show/the-woman-in-the-yard): Thu 4/17 (10:50pm), Sun 4/20 (10:45pm), Tue 4/22 (10:15pm)
+
+    * [Warfare](https://drafthouse.com/raleigh/show/warfare): Thu 4/17 (4:45pm, 7:30pm, 10:30pm), Fri 4/18 (1:30pm, 4:15pm, 7:15pm, 10:00pm), Sat 4/19 (1:00pm, 4:45pm, 7:30pm, 10:15pm), Sun 4/20 (1:00pm, 4:00pm, 7:15pm, 10:15pm), Mon 4/21 (4:15pm, 7:15pm, 10:00pm), Tue 4/22 (1:00pm, 4:15pm, 7:30pm, 10:15pm), Wed 4/23 (4:00pm, 7:15pm, 10:00pm)
+
 ### Mon 4/14 9:34am
 * New movies: Star Wars: Episode III – Revenge of the Sith 20th Anniversary Re-Release
 
