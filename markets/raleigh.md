@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 4/14 9:34am
+* New movies: Star Wars: Episode III – Revenge of the Sith 20th Anniversary Re-Release
+
+* New screenings: 
+    * [Star Wars Episode Iii Revenge Of The Sith 20th Anniversary Re Release 2025](https://drafthouse.com/raleigh/show/star-wars-episode-iii-revenge-of-the-sith-20th-anniversary-re-release-2025): Thu 4/24 (3:30pm, 6:15pm, 9:30pm), Fri 4/25 (12:00pm, 3:30pm, 7:15pm, 9:30pm), Sat 4/26 (12:00pm, 3:30pm, 7:15pm, 8:45pm), Sun 4/27 (1:00pm, 4:30pm, 6:00pm, 9:30pm)
+
 ### Fri 4/11 9:56pm
 * New movies: The Hunger Games: Mockingjay - Part 1
 
