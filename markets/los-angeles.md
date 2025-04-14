@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 4/14 6:31am
+* New movies: Star Wars: Episode III – Revenge of the Sith 20th Anniversary Re-Release
+
+* New screenings: 
+    * [Star Wars Episode Iii Revenge Of The Sith 20th Anniversary Re Release 2025](https://drafthouse.com/los-angeles/show/star-wars-episode-iii-revenge-of-the-sith-20th-anniversary-re-release-2025): Thu 4/24 (3:00pm, 6:30pm, 10:00pm), Fri 4/25 (11:00am, 2:30pm, 6:00pm, 9:30pm), Sat 4/26 (11:00am, 2:30pm, 6:00pm, 9:30pm), Sun 4/27 (2:50pm, 6:20pm), Mon 4/28 (11:30am, 3:00pm, 6:30pm, 10:00pm)
+
 ### Fri 4/11 6:42pm
 * New movies: The Hunger Games: Mockingjay - Part 1
 
