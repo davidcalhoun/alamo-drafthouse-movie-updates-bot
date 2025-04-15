@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Tue 4/15 2:33pm
+
+* New screenings: 
+    * [Drop](https://drafthouse.com/raleigh/show/drop): Tue 4/22 (5:45pm)
+
+    * [The Amateur 2025](https://drafthouse.com/raleigh/show/the-amateur-2025): Sat 4/19 (11:30am)
+
 ### Tue 4/15 11:28am
 * New movies: Happy Gilmore 2025 Event, Hereditary, Mermaids, Stand By Me, Terminating Mystery Movie, Cooley High, Dog Day Afternoon, Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles, Mamma Mia!, Switchblade Sisters, The Hunger Games: Mockingjay - Part 1
 
