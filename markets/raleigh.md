@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 4/15 4:27pm
+* New movies: Female Perversions
+
+* New screenings: 
+    * [Weird Wednesday Female Perversions](https://drafthouse.com/raleigh/show/weird-wednesday-female-perversions): Wed 5/7 (9:00pm)
+
 ### Tue 4/15 2:33pm
 
 * New screenings: 
