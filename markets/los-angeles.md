@@ -1,6 +1,48 @@
 # los-angeles
 
 ## Movie updates
+### Tue 4/15 12:23am
+* New movies: The Ugly Stepsister, Zenithal
+
+* New screenings: 
+    * [A Minecraft Movie](https://drafthouse.com/los-angeles/show/a-minecraft-movie): Thu 4/17 (3:50pm, 6:45pm, 10:40pm), Fri 4/18 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Sat 4/19 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Sun 4/20 (11:00am, 1:50pm, 4:40pm, 7:30pm), Mon 4/21 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Tue 4/22 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:40pm), Wed 4/23 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm)
+
+    * [Dazed And Confused](https://drafthouse.com/los-angeles/show/dazed-and-confused): Thu 4/17 (2:50pm, 10:00pm), Sun 4/20 (5:30pm, 7:40pm)
+
+    * [Death Of A Unicorn](https://drafthouse.com/los-angeles/show/death-of-a-unicorn): Thu 4/17 (3:10pm, 6:10pm, 9:15pm), Fri 4/18 (2:30pm), Sat 4/19 (2:30pm), Sun 4/20 (2:30pm), Mon 4/21 (2:40pm), Tue 4/22 (2:40pm), Wed 4/23 (2:40pm)
+
+    * [Drop](https://drafthouse.com/los-angeles/show/drop): Thu 4/17 (2:20pm, 5:00pm, 7:45pm, 10:30pm), Fri 4/18 (11:40am, 2:25pm, 5:15pm, 8:00pm, 10:45pm), Sat 4/19 (11:40am, 2:25pm, 5:15pm, 8:00pm, 10:45pm), Sun 4/20 (11:00am, 2:15pm, 5:00pm, 7:50pm), Mon 4/21 (11:40am, 2:25pm, 5:15pm, 8:00pm, 10:45pm), Tue 4/22 (11:40am, 2:25pm, 5:15pm, 8:00pm, 10:45pm), Wed 4/23 (12:45pm, 2:30pm, 5:15pm, 8:00pm, 10:45pm)
+
+    * [Gazer](https://drafthouse.com/los-angeles/show/gazer): Thu 4/17 (2:50pm)
+
+    * [Hell Of A Summer](https://drafthouse.com/los-angeles/show/hell-of-a-summer): Thu 4/17 (2:20pm)
+
+    * [Monty Pythons Life Of Brian](https://drafthouse.com/los-angeles/show/monty-pythons-life-of-brian): Fri 4/18 (10:10pm), Mon 4/21 (3:10pm), Tue 4/22 (2:35pm), Wed 4/23 (4:25pm)
+
+    * [Pride Prejudice 20th Anniversary](https://drafthouse.com/los-angeles/show/pride-prejudice-20th-anniversary): Fri 4/18 (11:10am, 12:10pm, 3:30pm, 5:30pm, 6:00pm, 6:45pm, 8:50pm, 9:30pm), Sat 4/19 (11:10am, 11:50am, 12:10pm, 3:30pm, 5:30pm, 6:45pm, 8:50pm, 9:20pm, 10:10pm), Sun 4/20 (11:10am, 12:20pm, 1:00pm, 3:00pm, 3:40pm, 6:00pm, 7:00pm), Mon 4/21 (11:15am, 12:10pm, 1:00pm, 3:30pm, 4:20pm, 5:40pm, 6:45pm, 9:00pm, 9:35pm, 10:10pm), Tue 4/22 (11:15am, 12:10pm, 3:30pm, 5:40pm, 6:45pm, 9:00pm, 10:10pm, 10:20pm), Wed 4/23 (11:20am, 11:50am, 2:10pm, 3:30pm, 5:40pm, 6:45pm, 9:00pm, 9:20pm, 10:10pm)
+
+    * [Queer Film Theory 101 Juliet Of The Spirits](https://drafthouse.com/los-angeles/show/queer-film-theory-101-juliet-of-the-spirits): Tue 4/22 (8:20pm), Wed 4/23 (10:10pm)
+
+    * [Secret Mall Apartment](https://drafthouse.com/los-angeles/show/secret-mall-apartment): Thu 4/17 (9:00pm), Sat 4/19 (10:40pm), Mon 4/21 (10:40pm), Tue 4/22 (5:35pm), Wed 4/23 (1:45pm)
+
+    * [Selena](https://drafthouse.com/los-angeles/show/selena): Thu 4/17 (5:45pm, 9:30pm)
+
+    * [Sinners](https://drafthouse.com/los-angeles/show/sinners): Thu 4/17 (3:40pm, 5:00pm, 5:30pm, 6:00pm, 7:10pm, 8:30pm, 9:00pm, 9:35pm), Fri 4/18 (12:10pm, 12:40pm, 1:30pm, 2:50pm, 3:40pm, 5:00pm, 6:20pm, 7:10pm, 8:30pm, 9:20pm, 10:40pm), Sat 4/19 (12:10pm, 12:40pm, 1:30pm, 2:50pm, 3:40pm, 5:00pm, 6:20pm, 7:10pm, 8:30pm, 9:50pm, 10:40pm), Sun 4/20 (12:10pm, 12:30pm, 2:45pm, 3:40pm, 4:30pm, 6:15pm, 7:10pm, 8:00pm), Mon 4/21 (12:00pm, 12:45pm, 1:30pm, 2:50pm, 3:30pm, 5:00pm, 6:20pm, 7:00pm, 8:30pm, 9:50pm, 10:30pm), Tue 4/22 (11:00am, 12:00pm, 12:45pm, 1:30pm, 2:40pm, 3:30pm, 5:00pm, 6:10pm, 7:00pm, 8:30pm, 9:40pm, 10:30pm), Wed 4/23 (11:00am, 12:10pm, 12:35pm, 1:30pm, 2:50pm, 3:15pm, 3:40pm, 5:00pm, 5:30pm, 6:20pm, 7:10pm, 8:30pm, 9:50pm, 10:20pm, 10:40pm)
+
+    * [The Amateur 2025](https://drafthouse.com/los-angeles/show/the-amateur-2025): Thu 4/17 (3:00pm, 6:20pm, 9:40pm), Fri 4/18 (11:35am, 2:50pm, 6:10pm, 9:50pm), Sat 4/19 (11:25am, 2:45pm, 6:00pm, 9:10pm), Sun 4/20 (11:25am, 2:40pm, 6:20pm), Mon 4/21 (11:35am, 2:50pm, 6:10pm, 9:25pm), Tue 4/22 (11:45am, 3:00pm, 6:20pm, 9:35pm), Wed 4/23 (11:30am, 2:45pm, 6:00pm, 9:00pm)
+
+    * [The Ballad Of Wallis Island](https://drafthouse.com/los-angeles/show/the-ballad-of-wallis-island): Thu 4/17 (2:40pm)
+
+    * [The Encampments](https://drafthouse.com/los-angeles/show/the-encampments): Fri 4/18 (11:00am), Sat 4/19 (11:00am), Mon 4/21 (11:00am)
+
+    * [The Ugly Stepsister](https://drafthouse.com/los-angeles/show/the-ugly-stepsister): Fri 4/18 (1:00pm, 10:40pm), Sat 4/19 (3:10pm, 6:10pm), Sun 4/20 (11:15am, 1:40pm), Mon 4/21 (7:45pm), Tue 4/22 (1:00pm), Wed 4/23 (11:10am)
+
+    * [Tommy Boy](https://drafthouse.com/los-angeles/show/tommy-boy): Fri 4/18 (12:20pm), Mon 4/21 (12:20pm), Wed 4/23 (11:00am)
+
+    * [Warfare](https://drafthouse.com/los-angeles/show/warfare): Thu 4/17 (4:10pm, 7:00pm, 9:45pm), Fri 4/18 (12:00pm, 4:10pm, 7:00pm, 9:45pm), Sat 4/19 (12:00pm, 4:10pm, 7:00pm, 9:45pm), Sun 4/20 (12:00pm, 4:00pm, 6:45pm), Mon 4/21 (12:00pm, 4:20pm, 7:10pm, 9:55pm), Tue 4/22 (11:50am, 4:20pm, 7:10pm, 10:00pm), Wed 4/23 (12:00pm, 4:10pm, 7:00pm, 9:45pm)
+
+    * [Zenithal](https://drafthouse.com/los-angeles/show/zenithal): Mon 6/2 (9:15pm)
+
 ### Mon 4/14 6:31am
 * New movies: Star Wars: Episode III – Revenge of the Sith 20th Anniversary Re-Release
 
