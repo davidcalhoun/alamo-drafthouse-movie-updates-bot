@@ -1,6 +1,30 @@
 # los-angeles
 
 ## Movie updates
+### Tue 4/15 9:25am
+* New movies: Happy Gilmore 2025 Event, Hereditary, Mermaids, Stand By Me, Cooley High, Dog Day Afternoon, Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles, Mamma Mia!, Midnight Run, The Hunger Games: Mockingjay - Part 1
+
+* New screenings: 
+    * [Cooley High](https://drafthouse.com/los-angeles/show/cooley-high): Sat 5/17 (2:45pm)
+
+    * [Dog Day Afternoon](https://drafthouse.com/los-angeles/show/dog-day-afternoon): Sat 5/17 (11:30am)
+
+    * [Happy Gilmore Re Release](https://drafthouse.com/los-angeles/show/happy-gilmore-re-release): Fri 4/25 (4:30pm, 7:15pm), Tue 4/29 (4:30pm, 7:15pm)
+
+    * [Hereditary](https://drafthouse.com/los-angeles/show/hereditary): Sat 5/10 (4:00pm)
+
+    * [Jeanne Dielman 23 Quai Du Commerce 1080 Bruxelles](https://drafthouse.com/los-angeles/show/jeanne-dielman-23-quai-du-commerce-1080-bruxelles): Sat 5/10 (11:30am)
+
+    * [Mamma Mia](https://drafthouse.com/los-angeles/show/mamma-mia): Sun 5/11 (11:00am)
+
+    * [Midnight Run](https://drafthouse.com/los-angeles/show/midnight-run): Mon 6/2 (6:00pm)
+
+    * [Queer Film Theory 101 Mermaids](https://drafthouse.com/los-angeles/show/queer-film-theory-101-mermaids): Mon 5/19 (7:20pm)
+
+    * [Stand By Me 1986](https://drafthouse.com/los-angeles/show/stand-by-me-1986): Tue 6/3 (7:20pm)
+
+    * [The Hunger Games Mockingjay Part 1](https://drafthouse.com/los-angeles/show/the-hunger-games-mockingjay-part-1): Tue 6/3 (6:00pm)
+
 ### Tue 4/15 12:23am
 * New movies: The Ugly Stepsister, Zenithal
 
