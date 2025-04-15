@@ -1,6 +1,32 @@
 # raleigh
 
 ## Movie updates
+### Tue 4/15 11:28am
+* New movies: Happy Gilmore 2025 Event, Hereditary, Mermaids, Stand By Me, Terminating Mystery Movie, Cooley High, Dog Day Afternoon, Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles, Mamma Mia!, Switchblade Sisters, The Hunger Games: Mockingjay - Part 1
+
+* New screenings: 
+    * [Cooley High](https://drafthouse.com/raleigh/show/cooley-high): Sun 5/18 (12:00pm)
+
+    * [Dog Day Afternoon](https://drafthouse.com/raleigh/show/dog-day-afternoon): Sat 5/17 (12:00pm)
+
+    * [Happy Gilmore Re Release](https://drafthouse.com/raleigh/show/happy-gilmore-re-release): Fri 4/25 (3:30pm, 6:30pm), Sat 4/26 (12:30pm, 3:25pm)
+
+    * [Hereditary](https://drafthouse.com/raleigh/show/hereditary): Mon 5/12 (9:30pm)
+
+    * [Jeanne Dielman 23 Quai Du Commerce 1080 Bruxelles](https://drafthouse.com/raleigh/show/jeanne-dielman-23-quai-du-commerce-1080-bruxelles): Sat 5/10 (11:00am)
+
+    * [Mamma Mia](https://drafthouse.com/raleigh/show/mamma-mia): Sun 5/11 (12:30pm)
+
+    * [Queer Film Theory 101 Mermaids](https://drafthouse.com/raleigh/show/queer-film-theory-101-mermaids): Mon 5/19 (6:30pm)
+
+    * [Stand By Me 1986](https://drafthouse.com/raleigh/show/stand-by-me-1986): Wed 6/4 (6:30pm)
+
+    * [Switchblade Sisters](https://drafthouse.com/raleigh/show/switchblade-sisters): Mon 5/26 (9:45pm)
+
+    * [Terminating Mystery Movie](https://drafthouse.com/raleigh/show/terminating-mystery-movie): Wed 5/28 (6:30pm)
+
+    * [The Hunger Games Mockingjay Part 1](https://drafthouse.com/raleigh/show/the-hunger-games-mockingjay-part-1): Tue 6/3 (6:30pm)
+
 ### Mon 4/14 6:25pm
 * New movies: The Encampments, The Ugly Stepsister, Hell of a Summer, THE DEADLY SPAWN
 
