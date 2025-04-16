@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 4/16 4:19pm
+* New movies: Summer Wars Subtitled, Summer Wars Dubbed
+
+* New screenings: 
+    * [Special Event Summer Wars Dubbed In 4k](https://drafthouse.com/los-angeles/show/special-event-summer-wars-dubbed-in-4k): Mon 7/28 (7:20pm)
+
+    * [Special Event Summer Wars Subtitled In 4k](https://drafthouse.com/los-angeles/show/special-event-summer-wars-subtitled-in-4k): Sun 7/27 (2:00pm), Tue 7/29 (7:20pm)
+
 ### Wed 4/16 9:27am
 * New movies: Brokeback Mountain: 20th Anniversary, Hurry Up Tomorrow
 
