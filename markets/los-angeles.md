@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 4/16 6:30am
+* New movies: Wolf Children Subtitled, Wolf Children Dubbed
+
+* New screenings: 
+    * [Special Event Wolf Children Dubbed In 4k](https://drafthouse.com/los-angeles/show/special-event-wolf-children-dubbed-in-4k): Mon 5/12 (7:20pm)
+
+    * [Special Event Wolf Children Subtitled In 4k](https://drafthouse.com/los-angeles/show/special-event-wolf-children-subtitled-in-4k): Sun 5/11 (2:00pm), Tue 5/13 (7:20pm)
+
 ### Wed 4/16 4:18am
 * New movies: Crossroads 2002
 
