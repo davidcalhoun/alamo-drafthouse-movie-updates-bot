@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Wed 4/16 12:33pm
+* New movies: Hurry Up Tomorrow, Brokeback Mountain: 20th Anniversary, Hurry Up Tomorrow
+
+* New screenings: 
+    * [Brokeback Mountain 20th Anniversary](https://drafthouse.com/raleigh/show/brokeback-mountain-20th-anniversary): Sat 6/7 (2:30pm), Wed 6/11 (3:30pm, 6:45pm)
+
+    * [Fan Event Hurry Up Tomorrow](https://drafthouse.com/raleigh/show/fan-event-hurry-up-tomorrow): Wed 5/14 (7:00pm)
+
+    * [Hurry Up Tomorrow](https://drafthouse.com/raleigh/show/hurry-up-tomorrow): Thu 5/15 (6:00pm, 9:00pm), Fri 5/16 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 5/17 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sun 5/18 (1:00pm, 4:00pm, 7:00pm, 10:00pm)
+
 ### Wed 4/16 9:34am
 * New movies: Wolf Children Subtitled, Wolf Children Dubbed
 
