@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 4/16 4:18am
+* New movies: Crossroads 2002
+
+* New screenings: 
+    * [Movie Party Crossroads 2002](https://drafthouse.com/los-angeles/show/movie-party-crossroads-2002): Tue 5/20 (7:20pm)
+
 ### Tue 4/15 9:25am
 * New movies: Happy Gilmore 2025 Event, Hereditary, Mermaids, Stand By Me, Cooley High, Dog Day Afternoon, Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles, Mamma Mia!, Midnight Run, The Hunger Games: Mockingjay - Part 1
 
