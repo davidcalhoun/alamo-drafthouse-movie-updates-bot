@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 4/16 9:27am
+* New movies: Brokeback Mountain: 20th Anniversary, Hurry Up Tomorrow
+
+* New screenings: 
+    * [Brokeback Mountain 20th Anniversary](https://drafthouse.com/los-angeles/show/brokeback-mountain-20th-anniversary): Sat 6/7 (11:00am, 2:30pm), Wed 6/11 (2:30pm, 6:00pm)
+
+    * [Fan Event Hurry Up Tomorrow](https://drafthouse.com/los-angeles/show/fan-event-hurry-up-tomorrow): Wed 5/14 (7:00pm)
+
 ### Wed 4/16 6:30am
 * New movies: Wolf Children Subtitled, Wolf Children Dubbed
 
