@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Wed 4/16 9:34am
+* New movies: Wolf Children Subtitled, Wolf Children Dubbed
+
+* New screenings: 
+    * [Special Event Wolf Children Dubbed In 4k](https://drafthouse.com/raleigh/show/special-event-wolf-children-dubbed-in-4k): Mon 5/12 (6:30pm)
+
+    * [Special Event Wolf Children Subtitled In 4k](https://drafthouse.com/raleigh/show/special-event-wolf-children-subtitled-in-4k): Sun 5/11 (3:30pm), Tue 5/13 (6:30pm)
+
 ### Tue 4/15 4:27pm
 * New movies: Female Perversions
 
