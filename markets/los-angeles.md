@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 4/17 3:19pm
+* New movies: Dogma
+
+* New screenings: 
+    * [Special Event Dogma Resurrected 25th Anniversary](https://drafthouse.com/los-angeles/show/special-event-dogma-resurrected-25th-anniversary): Thu 6/5 (6:00pm, 9:40pm), Sun 6/8 (6:00pm, 9:40pm)
+
 ### Wed 4/16 4:19pm
 * New movies: Summer Wars Subtitled, Summer Wars Dubbed
 
