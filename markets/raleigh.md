@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Thu 4/17 7:24pm
+* New movies: The Vourdalak, The Mystery of Chess Boxing
+
+* New screenings: 
+    * [Terror Tuesday The Vourdalak](https://drafthouse.com/raleigh/show/terror-tuesday-the-vourdalak): Tue 5/27 (9:30pm)
+
+    * [Weird Wednesday The Mystery Of Chess Boxing](https://drafthouse.com/raleigh/show/weird-wednesday-the-mystery-of-chess-boxing): Wed 5/28 (9:30pm)
+
 ### Wed 4/16 12:33pm
 * New movies: Hurry Up Tomorrow, Brokeback Mountain: 20th Anniversary, Hurry Up Tomorrow
 
