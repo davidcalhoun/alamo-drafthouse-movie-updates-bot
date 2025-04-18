@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 4/18 12:16pm
+
+* New screenings: 
+    * [Sinners](https://drafthouse.com/los-angeles/show/sinners): Fri 4/18 (9:30pm), Sat 4/19 (11:40am, 10:10pm)
+
 ### Fri 4/18 8:21am
 * New movies: Hurry Up Tomorrow
 
