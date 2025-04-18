@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 4/18 8:49am
+* New movies: Friendship
+
+* New screenings: 
+    * [Friendship](https://drafthouse.com/raleigh/show/friendship): Thu 5/15 (4:00pm, 7:00pm, 10:00pm), Fri 5/16 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sat 5/17 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Sun 5/18 (12:30pm, 3:30pm, 6:30pm, 9:30pm)
+
 ### Thu 4/17 7:24pm
 * New movies: The Vourdalak, The Mystery of Chess Boxing
 
