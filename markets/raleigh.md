@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Fri 4/18 9:31am
+* New movies: Clown in a Cornfield, Friendship, Clown in a Cornfield
+
+* New screenings: 
+    * [Advance Screening Clown In A Cornfield Early Access](https://drafthouse.com/raleigh/show/advance-screening-clown-in-a-cornfield-early-access): Wed 5/7 (8:00pm)
+
+    * [Advance Screening Friendship Early Access Pre Recorded Q A](https://drafthouse.com/raleigh/show/advance-screening-friendship-early-access-pre-recorded-q-a): Mon 5/12 (7:00pm)
+
+    * [Clown In A Cornfield](https://drafthouse.com/raleigh/show/clown-in-a-cornfield): Thu 5/8 (4:15pm, 7:15pm, 10:15pm), Fri 5/9 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Sat 5/10 (1:00pm, 3:45pm, 6:30pm, 9:15pm), Sun 5/11 (1:00pm, 3:45pm, 6:30pm, 9:15pm)
+
 ### Fri 4/18 8:49am
 * New movies: Friendship
 
