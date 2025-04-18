@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 4/17 6:43pm
+* New movies: Brokeback Mountain: 20th Anniversary
+
+* New screenings: 
+    * [Brokeback Mountain 20th Anniversary](https://drafthouse.com/los-angeles/show/brokeback-mountain-20th-anniversary): Sun 6/22 (11:00am, 2:30pm), Tue 6/24 (2:30pm, 6:00pm)
+
 ### Thu 4/17 3:19pm
 * New movies: Dogma
 
