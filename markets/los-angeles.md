@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 4/18 8:21am
+* New movies: Hurry Up Tomorrow
+
+* New screenings: 
+    * [Hurry Up Tomorrow](https://drafthouse.com/los-angeles/show/hurry-up-tomorrow): Fri 5/16 (6:45pm)
+
 ### Thu 4/17 6:43pm
 * New movies: Brokeback Mountain: 20th Anniversary
 
