@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Sat 4/19 12:18am
+* New movies: Clown in a Cornfield
+
+* New screenings: 
+    * [Clown In A Cornfield](https://drafthouse.com/los-angeles/show/clown-in-a-cornfield): Thu 5/8 (5:00pm, 7:45pm, 10:30pm), Fri 5/9 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sat 5/10 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sun 5/11 (11:30am, 2:15pm, 5:00pm, 7:45pm), Mon 5/12 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Tue 5/13 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm)
+
+    * [Hurry Up Tomorrow](https://drafthouse.com/los-angeles/show/hurry-up-tomorrow): Thu 5/15 (6:45pm, 9:45pm), Fri 5/16 (12:45pm, 3:45pm, 9:45pm), Sat 5/17 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Sun 5/18 (12:45pm, 3:45pm, 6:45pm), Mon 5/19 (12:45pm, 3:45pm, 6:45pm), Tue 5/20 (12:45pm, 3:45pm, 6:45pm, 9:45pm)
+
 ### Fri 4/18 1:22pm
 
 * New screenings: 
