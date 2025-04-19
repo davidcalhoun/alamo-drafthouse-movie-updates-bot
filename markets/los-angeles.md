@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Sat 4/19 1:21pm
+
+* New screenings: 
+    * [Advance Screening Cheech And Chongs Last Movie](https://drafthouse.com/los-angeles/show/advance-screening-cheech-and-chongs-last-movie): Sun 4/20 (7:50pm)
+
 ### Sat 4/19 12:18am
 * New movies: Clown in a Cornfield
 
