@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Sun 4/20 3:21am
+
+* New screenings: 
+    * [Star Wars Episode Iii Revenge Of The Sith 20th Anniversary Re Release 2025](https://drafthouse.com/los-angeles/show/star-wars-episode-iii-revenge-of-the-sith-20th-anniversary-re-release-2025): Tue 4/29 (11:30am, 3:00pm, 10:00pm)
+
 ### Sat 4/19 1:21pm
 
 * New screenings: 
