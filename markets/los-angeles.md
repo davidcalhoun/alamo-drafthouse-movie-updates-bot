@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 4/21 3:20pm
+* New movies: Piranha 1978
+
+* New screenings: 
+    * [Piranha 1978](https://drafthouse.com/los-angeles/show/piranha-1978): Wed 4/30 (8:00pm)
+
 ### Sun 4/20 3:21am
 
 * New screenings: 
