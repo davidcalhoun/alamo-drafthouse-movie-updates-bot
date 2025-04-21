@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 4/21 4:27pm
+
+* New screenings: 
+    * [Until Dawn](https://drafthouse.com/raleigh/show/until-dawn): Thu 4/24 (7:00pm, 10:45pm)
+
 ### Fri 4/18 9:31am
 * New movies: Clown in a Cornfield, Friendship, Clown in a Cornfield
 
