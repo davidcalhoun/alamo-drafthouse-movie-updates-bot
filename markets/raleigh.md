@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Tue 4/22 11:27am
+
+* New screenings: 
+    * [Sinners](https://drafthouse.com/raleigh/show/sinners): Tue 4/22 (11:00am, 6:00pm, 6:30pm, 7:00pm, 9:30pm)
+
+    * [The Ballad Of Wallis Island](https://drafthouse.com/raleigh/show/the-ballad-of-wallis-island): Tue 4/22 (6:45pm)
+
 ### Tue 4/22 10:27am
 
 * New screenings: 
