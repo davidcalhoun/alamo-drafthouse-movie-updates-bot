@@ -1,6 +1,37 @@
 # raleigh
 
 ## Movie updates
+### Tue 4/22 10:27am
+
+* New screenings: 
+    * [A Minecraft Movie](https://drafthouse.com/raleigh/show/a-minecraft-movie): Thu 4/24 (3:30pm, 6:15pm, 9:15pm), Fri 4/25 (1:00pm, 3:45pm, 6:45pm, 9:00pm), Sat 4/26 (12:45pm, 3:30pm, 6:15pm, 9:15pm), Sun 4/27 (12:45pm, 3:45pm, 6:30pm, 9:00pm), Mon 4/28 (3:15pm, 6:15pm, 9:15pm), Tue 4/29 (12:00pm, 3:15pm, 6:15pm, 9:15pm), Wed 4/30 (3:15pm, 6:15pm, 9:15pm)
+
+    * [Drop](https://drafthouse.com/raleigh/show/drop): Thu 4/24 (3:15pm, 7:15pm, 10:00pm), Fri 4/25 (10:45pm), Sat 4/26 (10:45pm), Tue 4/29 (12:15pm)
+
+    * [Pink Floyd At Pompeii Mcmlxxii](https://drafthouse.com/raleigh/show/pink-floyd-at-pompeii-mcmlxxii): Fri 4/25 (9:45pm), Sun 4/27 (9:45pm)
+
+    * [Pride Prejudice 20th Anniversary](https://drafthouse.com/raleigh/show/pride-prejudice-20th-anniversary): Mon 4/28 (4:45pm), Wed 4/30 (4:45pm)
+
+    * [Secret Mall Apartment](https://drafthouse.com/raleigh/show/secret-mall-apartment): Thu 4/24 (4:15pm)
+
+    * [Sinners](https://drafthouse.com/raleigh/show/sinners): Thu 4/24 (2:15pm, 2:45pm, 3:15pm, 4:30pm, 5:30pm, 7:45pm, 8:45pm), Fri 4/25 (12:00pm, 1:00pm, 1:30pm, 2:00pm, 2:30pm, 3:00pm, 5:00pm, 5:30pm, 6:00pm, 8:30pm, 9:30pm, 9:45pm), Sat 4/26 (1:00pm, 1:30pm, 2:00pm, 4:15pm, 5:15pm, 5:30pm, 7:30pm, 8:30pm, 9:00pm), Sun 4/27 (12:30pm, 1:30pm, 2:00pm, 3:00pm, 4:45pm, 5:00pm, 6:15pm, 7:30pm, 8:15pm, 8:30pm, 9:15pm), Mon 4/28 (3:00pm, 3:30pm, 6:30pm, 7:00pm, 8:00pm, 9:45pm, 10:00pm, 10:30pm), Tue 4/29 (12:00pm, 1:15pm, 3:00pm, 3:30pm, 4:45pm, 6:30pm, 7:00pm, 8:15pm, 10:30pm), Wed 4/30 (3:00pm, 3:30pm, 6:30pm, 7:00pm, 8:00pm, 10:00pm, 10:30pm)
+
+    * [Star Wars Episode Iii Revenge Of The Sith 20th Anniversary Re Release 2025](https://drafthouse.com/raleigh/show/star-wars-episode-iii-revenge-of-the-sith-20th-anniversary-re-release-2025): Fri 4/25 (4:30pm, 6:15pm), Sat 4/26 (12:45pm, 2:30pm, 4:30pm, 6:00pm, 9:30pm), Sun 4/27 (1:15pm, 4:00pm, 5:30pm), Mon 4/28 (3:00pm, 3:45pm, 4:15pm, 6:15pm, 7:45pm, 9:05pm), Tue 4/29 (12:30pm, 1:00pm, 2:00pm, 3:00pm, 4:00pm, 4:30pm, 5:30pm, 7:30pm, 8:00pm, 9:00pm), Wed 4/30 (3:00pm, 3:45pm, 4:15pm, 6:15pm, 7:15pm, 7:45pm, 9:45pm)
+
+    * [Suzume Subtitled](https://drafthouse.com/raleigh/show/suzume-subtitled): Mon 4/28 (10:30pm)
+
+    * [The Accountant 2](https://drafthouse.com/raleigh/show/the-accountant-2): Mon 4/28 (2:30pm, 6:00pm, 9:30pm), Tue 4/29 (11:30am, 2:45pm, 6:00pm, 9:30pm), Wed 4/30 (2:30pm, 6:00pm, 9:30pm)
+
+    * [The Amateur 2025](https://drafthouse.com/raleigh/show/the-amateur-2025): Thu 4/24 (4:00pm, 7:15pm, 9:45pm), Fri 4/25 (8:00pm), Sat 4/26 (8:00pm), Sun 4/27 (8:00pm)
+
+    * [The Cartoons Of Max Fleischer](https://drafthouse.com/raleigh/show/the-cartoons-of-max-fleischer): Tue 4/29 (12:30pm)
+
+    * [The Legend Of Ochi](https://drafthouse.com/raleigh/show/the-legend-of-ochi): Mon 4/28 (4:15pm, 7:15pm, 10:00pm), Tue 4/29 (1:15pm, 4:15pm, 7:15pm, 10:00pm), Wed 4/30 (4:15pm, 7:15pm, 10:00pm)
+
+    * [Until Dawn](https://drafthouse.com/raleigh/show/until-dawn): Thu 4/24 (4:00pm, 9:45pm), Mon 4/28 (4:45pm, 7:30pm, 10:15pm), Tue 4/29 (1:30pm, 4:45pm, 7:30pm, 10:15pm), Wed 4/30 (4:45pm, 7:30pm, 10:15pm)
+
+    * [Warfare](https://drafthouse.com/raleigh/show/warfare): Thu 4/24 (10:30pm), Fri 4/25 (12:15pm), Sat 4/26 (11:45am), Sun 4/27 (12:15pm), Mon 4/28 (3:30pm), Tue 4/29 (10:05pm), Wed 4/30 (3:30pm, 10:45pm)
+
 ### Mon 4/21 4:27pm
 
 * New screenings: 
