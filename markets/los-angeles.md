@@ -1,6 +1,40 @@
 # los-angeles
 
 ## Movie updates
+### Mon 4/21 6:46pm
+* New movies: The Shrouds, Cheech & Chong's Last Movie
+
+* New screenings: 
+    * [A Minecraft Movie](https://drafthouse.com/los-angeles/show/a-minecraft-movie): Fri 4/25 (11:00am, 3:15pm, 6:10pm), Sat 4/26 (11:25am, 3:20pm, 6:10pm), Sun 4/27 (11:10am, 2:25pm, 5:10pm, 8:00pm), Mon 4/28 (11:00am, 1:50pm, 4:10pm, 7:00pm), Tue 4/29 (11:00am, 1:50pm, 4:10pm, 7:00pm), Wed 4/30 (1:10pm, 4:15pm, 7:10pm)
+
+    * [Cheech And Chongs Last Movie](https://drafthouse.com/los-angeles/show/cheech-and-chongs-last-movie): Fri 4/25 (11:20am, 9:00pm), Sat 4/26 (11:20am, 9:00pm), Sun 4/27 (2:35pm), Mon 4/28 (11:10am, 8:50pm), Tue 4/29 (11:10am, 8:50pm), Wed 4/30 (1:00pm, 8:50pm)
+
+    * [Drop](https://drafthouse.com/los-angeles/show/drop): Mon 4/28 (9:50pm), Tue 4/29 (9:50pm)
+
+    * [On Swift Horses](https://drafthouse.com/los-angeles/show/on-swift-horses): Sat 4/26 (7:00pm, 10:10pm), Wed 4/30 (10:45pm)
+
+    * [Pink Floyd At Pompeii Mcmlxxii](https://drafthouse.com/los-angeles/show/pink-floyd-at-pompeii-mcmlxxii): Sun 4/27 (11:00am), Mon 4/28 (11:00am, 1:35pm), Wed 4/30 (11:00am)
+
+    * [Pride Prejudice 20th Anniversary](https://drafthouse.com/los-angeles/show/pride-prejudice-20th-anniversary): Mon 4/28 (12:00pm), Wed 4/30 (4:00pm)
+
+    * [Sinners](https://drafthouse.com/los-angeles/show/sinners): Fri 4/25 (11:45am, 12:15pm, 1:50pm, 4:00pm, 4:30pm, 5:20pm, 7:00pm, 8:00pm, 9:00pm), Sat 4/26 (11:50am, 12:15pm, 1:50pm, 4:00pm, 4:30pm, 5:20pm, 6:40pm, 8:00pm, 9:00pm, 9:20pm), Sun 4/27 (11:00am, 2:00pm, 3:35pm, 4:00pm, 5:30pm, 7:00pm), Mon 4/28 (12:45pm, 3:20pm, 4:45pm, 5:15pm, 6:50pm, 8:15pm, 10:20pm), Tue 4/29 (11:45am, 1:00pm, 2:45pm, 4:45pm, 5:15pm, 8:15pm, 9:50pm), Wed 4/30 (11:20am, 12:30pm, 1:50pm, 4:00pm, 4:30pm, 5:15pm, 7:30pm, 9:00pm, 9:50pm)
+
+    * [Star Wars Episode Iii Revenge Of The Sith 20th Anniversary Re Release 2025](https://drafthouse.com/los-angeles/show/star-wars-episode-iii-revenge-of-the-sith-20th-anniversary-re-release-2025): Fri 4/25 (1:00pm, 8:45pm), Sat 4/26 (1:00pm, 8:45pm), Sun 4/27 (12:00pm, 7:20pm), Mon 4/28 (3:45pm, 8:40pm), Tue 4/29 (12:40pm, 6:30pm, 8:40pm), Wed 4/30 (11:30am, 3:00pm, 6:30pm, 8:40pm, 10:00pm)
+
+    * [The Accountant 2](https://drafthouse.com/los-angeles/show/the-accountant-2): Mon 4/28 (11:10am, 2:35pm, 6:00pm, 9:25pm), Tue 4/29 (11:10am, 2:35pm, 6:00pm, 9:25pm)
+
+    * [The Amateur 2025](https://drafthouse.com/los-angeles/show/the-amateur-2025): Fri 4/25 (2:30pm, 5:45pm), Sat 4/26 (2:30pm, 5:45pm), Sun 4/27 (11:20am, 5:45pm), Mon 4/28 (2:20pm, 5:35pm), Tue 4/29 (2:20pm, 5:35pm), Wed 4/30 (2:20pm, 5:35pm)
+
+    * [The Legend Of Ochi](https://drafthouse.com/los-angeles/show/the-legend-of-ochi): Sat 4/26 (10:30pm)
+
+    * [The Shrouds](https://drafthouse.com/los-angeles/show/the-shrouds): Fri 4/25 (12:45pm, 3:45pm, 7:30pm, 10:40pm), Sat 4/26 (12:45pm, 3:45pm, 7:30pm, 10:40pm), Sun 4/27 (12:50pm, 4:10pm, 7:30pm), Mon 4/28 (12:30pm, 4:15pm, 7:30pm, 10:40pm), Tue 4/29 (1:00pm, 4:15pm, 7:30pm, 10:40pm), Wed 4/30 (11:00am, 2:50pm, 6:00pm, 9:10pm)
+
+    * [The Ugly Stepsister](https://drafthouse.com/los-angeles/show/the-ugly-stepsister): Mon 4/28 (11:20am), Tue 4/29 (11:50am), Wed 4/30 (1:35pm)
+
+    * [Until Dawn](https://drafthouse.com/los-angeles/show/until-dawn): Sat 4/26 (10:40pm)
+
+    * [Warfare](https://drafthouse.com/los-angeles/show/warfare): Fri 4/25 (10:30pm), Sat 4/26 (10:15pm), Sun 4/27 (1:30pm), Mon 4/28 (2:30pm), Tue 4/29 (2:30pm), Wed 4/30 (11:35am)
+
 ### Mon 4/21 3:20pm
 * New movies: Piranha 1978
 
