@@ -1,6 +1,29 @@
 # los-angeles
 
 ## Movie updates
+### Tue 4/22 1:24pm
+
+* New screenings: 
+    * [A Minecraft Movie](https://drafthouse.com/los-angeles/show/a-minecraft-movie): Thu 4/24 (3:20pm, 6:10pm)
+
+    * [Death Of A Unicorn](https://drafthouse.com/los-angeles/show/death-of-a-unicorn): Thu 4/24 (2:10pm)
+
+    * [Drop](https://drafthouse.com/los-angeles/show/drop): Thu 4/24 (2:30pm)
+
+    * [Pink Floyd At Pompeii Mcmlxxii](https://drafthouse.com/los-angeles/show/pink-floyd-at-pompeii-mcmlxxii): Thu 4/24 (10:00pm)
+
+    * [Sinners](https://drafthouse.com/los-angeles/show/sinners): Thu 4/24 (2:40pm, 3:40pm, 5:20pm, 8:25pm, 9:00pm, 9:50pm)
+
+    * [Star Wars Episode Iii Revenge Of The Sith 20th Anniversary Re Release 2025](https://drafthouse.com/los-angeles/show/star-wars-episode-iii-revenge-of-the-sith-20th-anniversary-re-release-2025): Thu 4/24 (3:50pm, 8:45pm)
+
+    * [The Amateur 2025](https://drafthouse.com/los-angeles/show/the-amateur-2025): Thu 4/24 (2:45pm, 6:00pm, 9:15pm)
+
+    * [The Shrouds](https://drafthouse.com/los-angeles/show/the-shrouds): Thu 4/24 (5:10pm, 7:10pm, 10:20pm)
+
+    * [The Ugly Stepsister](https://drafthouse.com/los-angeles/show/the-ugly-stepsister): Thu 4/24 (3:00pm)
+
+    * [Warfare](https://drafthouse.com/los-angeles/show/warfare): Thu 4/24 (2:15pm)
+
 ### Mon 4/21 6:46pm
 * New movies: The Shrouds, Cheech & Chong's Last Movie
 
