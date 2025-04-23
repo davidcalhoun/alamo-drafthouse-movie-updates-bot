@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Wed 4/23 12:30am
+* New movies: Dogma
+
+* New screenings: 
+    * [Brokeback Mountain 20th Anniversary](https://drafthouse.com/raleigh/show/brokeback-mountain-20th-anniversary): Fri 6/20 (12:15pm, 3:45pm), Sun 6/22 (11:30am, 2:45pm)
+
+    * [Special Event Dogma Resurrected 25th Anniversary](https://drafthouse.com/raleigh/show/special-event-dogma-resurrected-25th-anniversary): Thu 6/5 (6:30pm, 10:15pm)
+
 ### Tue 4/22 11:27am
 
 * New screenings: 
