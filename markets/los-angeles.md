@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 4/23 1:24pm
+
+* New screenings: 
+    * [Bjork Cornucopia](https://drafthouse.com/los-angeles/show/bjork-cornucopia): Thu 5/8 (7:20pm)
+
 ### Tue 4/22 6:47pm
 * New movies: The Wiz 1978 Re-Release
 
