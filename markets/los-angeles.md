@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 4/22 6:47pm
+* New movies: The Wiz 1978 Re-Release
+
+* New screenings: 
+    * [The Wiz 1978 Re Release](https://drafthouse.com/los-angeles/show/the-wiz-1978-re-release): Fri 5/16 (11:10am, 2:35pm), Tue 5/20 (12:30pm, 4:00pm)
+
 ### Tue 4/22 1:24pm
 
 * New screenings: 
