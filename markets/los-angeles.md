@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 4/24 3:23am
+* New movies: Mystery Machine 5/5/2025
+
+* New screenings: 
+    * [Mystery Machine 5 5 2025](https://drafthouse.com/los-angeles/show/mystery-machine-5-5-2025): Mon 5/5 (7:20pm)
+
 ### Wed 4/23 6:47pm
 * New movies: Mission: Impossible - The Final Reckoning
 
