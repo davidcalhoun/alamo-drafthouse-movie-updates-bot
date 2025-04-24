@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 4/23 6:47pm
+* New movies: Mission: Impossible - The Final Reckoning
+
+* New screenings: 
+    * [Mission Impossible The Final Reckoning](https://drafthouse.com/los-angeles/show/mission-impossible-the-final-reckoning): Thu 5/22 (3:00pm, 7:00pm), Fri 5/23 (10:15am, 2:15pm, 6:15pm, 10:15pm), Sat 5/24 (10:15am, 2:15pm, 6:15pm, 10:15pm), Sun 5/25 (10:15am, 2:15pm, 6:15pm, 10:15pm), Mon 5/26 (10:15am, 2:15pm, 6:15pm, 10:15pm), Tue 5/27 (2:15pm, 6:15pm, 10:15pm)
+
 ### Wed 4/23 1:24pm
 
 * New screenings: 
