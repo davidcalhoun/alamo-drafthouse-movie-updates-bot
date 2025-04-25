@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 4/24 6:48pm
+* New movies: Sister Midnight, Sister Midnight
+
+* New screenings: 
+    * [Fantastic Fest Presents Sister Midnight W Live Q A](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-sister-midnight-w-live-q-a): Thu 5/22 (7:20pm), Fri 5/23 (6:30pm)
+
+    * [Sister Midnight](https://drafthouse.com/los-angeles/show/sister-midnight): Fri 5/23 (3:30pm), Sat 5/24 (3:30pm, 6:30pm), Mon 5/26 (3:30pm, 6:30pm)
+
 ### Thu 4/24 3:23am
 * New movies: Mystery Machine 5/5/2025
 
