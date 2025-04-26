@@ -1,6 +1,18 @@
 # raleigh
 
 ## Movie updates
+### Fri 4/25 9:58pm
+* New movies: Crossroads 2002, Mystery Machine 5/5/2025
+
+* New screenings: 
+    * [Bjork Cornucopia](https://drafthouse.com/raleigh/show/bjork-cornucopia): Thu 5/8 (6:30pm), Fri 5/9 (6:30pm)
+
+    * [Movie Party Crossroads 2002](https://drafthouse.com/raleigh/show/movie-party-crossroads-2002): Tue 5/20 (6:30pm)
+
+    * [Mystery Machine 5 5 2025](https://drafthouse.com/raleigh/show/mystery-machine-5-5-2025): Mon 5/5 (7:15pm)
+
+    * [Thunderbolts](https://drafthouse.com/raleigh/show/thunderbolts): Fri 5/2 (1:00pm, 4:15pm, 7:30pm, 10:45pm), Sat 5/3 (3:35pm, 7:00pm, 10:15pm), Sun 5/4 (3:30pm, 7:00pm, 10:15pm)
+
 ### Wed 4/23 12:30am
 * New movies: Dogma
 
