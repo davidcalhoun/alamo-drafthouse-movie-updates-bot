@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Sat 4/26 9:28am
+* New movies: The Wiz 1978 Re-Release
+
+* New screenings: 
+    * [The Wiz 1978 Re Release](https://drafthouse.com/raleigh/show/the-wiz-1978-re-release): Sat 5/17 (3:05pm, 7:00pm), Wed 5/21 (11:30am, 3:00pm)
+
 ### Fri 4/25 9:58pm
 * New movies: Crossroads 2002, Mystery Machine 5/5/2025
 
