@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Sat 4/26 6:25am
+* New movies: The Wiz 1978 Re-Release
+
+* New screenings: 
+    * [The Wiz 1978 Re Release](https://drafthouse.com/los-angeles/show/the-wiz-1978-re-release): Fri 5/16 (11:10am, 2:35pm), Tue 5/20 (12:30pm, 4:00pm)
+
 ### Thu 4/24 6:48pm
 * New movies: Sister Midnight, Sister Midnight
 
