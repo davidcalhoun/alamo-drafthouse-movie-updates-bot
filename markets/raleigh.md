@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Sun 4/27 12:29pm
+
+* New screenings: 
+    * [Thunderbolts](https://drafthouse.com/raleigh/show/thunderbolts): Thu 5/1 (3:45pm, 7:00pm, 10:15pm)
+
 ### Sat 4/26 9:28am
 * New movies: The Wiz 1978 Re-Release
 
