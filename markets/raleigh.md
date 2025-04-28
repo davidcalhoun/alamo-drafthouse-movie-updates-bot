@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Mon 4/28 9:03am
+* New movies: Mission: Impossible - The Final Reckoning, Shadow Force
+
+* New screenings: 
+    * [Mission Impossible The Final Reckoning](https://drafthouse.com/raleigh/show/mission-impossible-the-final-reckoning): Thu 5/22 (3:00pm, 7:00pm, 9:30pm), Fri 5/23 (12:00pm, 4:00pm, 8:00pm), Sat 5/24 (12:00pm, 4:00pm, 8:00pm), Sun 5/25 (12:00pm, 4:00pm, 8:00pm), Mon 5/26 (12:00pm, 4:00pm, 8:00pm)
+
+    * [Shadow Force](https://drafthouse.com/raleigh/show/shadow-force): Thu 5/8 (6:15pm, 9:15pm), Fri 5/9 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sat 5/10 (12:45pm, 3:30pm, 6:15pm, 9:15pm), Sun 5/11 (1:15pm, 4:00pm, 6:45pm, 9:45pm)
+
 ### Sun 4/27 12:29pm
 
 * New screenings: 
