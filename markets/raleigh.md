@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 4/28 1:23pm
+
+* New screenings: 
+    * [Special Event Dogma Resurrected 25th Anniversary](https://drafthouse.com/raleigh/show/special-event-dogma-resurrected-25th-anniversary): Sun 6/8 (6:30pm, 10:15pm)
+
 ### Mon 4/28 9:03am
 * New movies: Mission: Impossible - The Final Reckoning, Shadow Force
 
