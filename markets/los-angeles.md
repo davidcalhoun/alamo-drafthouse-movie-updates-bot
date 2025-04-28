@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 4/28 2:19pm
+* New movies: Piranha 1978
+
+* New screenings: 
+    * [Piranha 1978](https://drafthouse.com/los-angeles/show/piranha-1978): Wed 4/30 (8:00pm)
+
 ### Mon 4/28 6:41am
 * New movies: Mission: Impossible - The Final Reckoning
 
