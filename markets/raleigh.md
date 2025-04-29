@@ -1,6 +1,27 @@
 # raleigh
 
 ## Movie updates
+### Mon 4/28 10:03pm
+
+* New screenings: 
+    * [A Minecraft Movie](https://drafthouse.com/raleigh/show/a-minecraft-movie): Thu 5/1 (3:30pm, 6:15pm, 9:00pm), Fri 5/2 (1:00pm, 4:00pm, 6:45pm, 9:30pm), Sat 5/3 (12:45pm, 3:30pm, 6:15pm, 9:00pm), Sun 5/4 (12:45pm, 3:30pm, 6:15pm, 9:00pm), Mon 5/5 (4:00pm, 6:15pm, 9:00pm), Tue 5/6 (12:00pm, 3:00pm, 6:15pm, 9:00pm), Wed 5/7 (3:00pm, 6:00pm, 9:00pm)
+
+    * [Barry Lyndon](https://drafthouse.com/raleigh/show/barry-lyndon): Sun 5/4 (6:15pm), Mon 5/5 (6:45pm), Wed 5/7 (6:45pm)
+
+    * [Mission Impossible The Final Reckoning](https://drafthouse.com/raleigh/show/mission-impossible-the-final-reckoning): Tue 5/27 (12:00pm, 4:00pm, 8:00pm), Wed 5/28 (12:00pm, 4:00pm, 8:00pm), Thu 5/29 (12:00pm, 4:00pm, 8:00pm)
+
+    * [Nashville](https://drafthouse.com/raleigh/show/nashville): Tue 5/6 (6:00pm)
+
+    * [Sinners](https://drafthouse.com/raleigh/show/sinners): Thu 5/1 (3:00pm, 4:00pm, 6:30pm, 7:15pm, 7:30pm, 9:45pm, 10:30pm, 10:45pm), Fri 5/2 (11:45am, 2:00pm, 3:00pm, 5:30pm, 6:15pm, 6:30pm, 8:45pm, 9:30pm, 10:00pm), Sat 5/3 (11:45am, 2:00pm, 3:00pm, 5:30pm, 6:15pm, 6:30pm, 8:45pm, 9:30pm, 10:00pm), Sun 5/4 (11:45am, 2:00pm, 3:00pm, 5:30pm, 6:30pm, 8:45pm, 10:00pm, 10:20pm), Mon 5/5 (2:45pm, 3:00pm, 6:00pm, 9:30pm, 10:00pm), Tue 5/6 (11:15am, 1:00pm, 2:40pm, 4:40pm, 6:00pm, 8:00pm, 9:30pm), Wed 5/7 (4:00pm, 4:30pm, 7:15pm, 10:35pm)
+
+    * [The Accountant 2](https://drafthouse.com/raleigh/show/the-accountant-2): Thu 5/1 (3:00pm, 6:15pm, 9:30pm), Fri 5/2 (12:30pm, 3:45pm, 7:00pm, 10:30pm), Sat 5/3 (11:45am, 3:00pm, 6:30pm, 9:45pm), Sun 5/4 (11:45am, 3:00pm, 6:30pm, 9:45pm), Mon 5/5 (3:00pm, 6:15pm, 9:45pm), Tue 5/6 (12:45pm, 4:15pm, 7:30pm, 9:30pm), Wed 5/7 (3:00pm, 6:15pm, 9:30pm)
+
+    * [The Legend Of Ochi](https://drafthouse.com/raleigh/show/the-legend-of-ochi): Thu 5/1 (4:45pm), Fri 5/2 (12:50pm, 3:35pm), Sat 5/3 (12:45pm, 3:30pm), Sun 5/4 (12:45pm, 3:30pm), Mon 5/5 (4:00pm), Tue 5/6 (12:15pm, 3:00pm), Wed 5/7 (4:00pm)
+
+    * [Thunderbolts](https://drafthouse.com/raleigh/show/thunderbolts): Thu 5/1 (3:15pm, 4:15pm, 5:00pm, 6:30pm, 7:30pm, 8:15pm, 9:45pm, 10:45pm), Fri 5/2 (12:00pm, 12:30pm, 1:45pm, 3:15pm, 3:45pm, 5:00pm, 6:30pm, 7:00pm, 8:30pm, 9:45pm, 10:15pm), Sat 5/3 (11:30am, 1:00pm, 1:45pm, 2:45pm, 4:15pm, 5:00pm, 6:00pm, 7:30pm, 8:15pm, 9:15pm, 10:45pm), Sun 5/4 (11:30am, 1:00pm, 1:45pm, 2:45pm, 4:15pm, 5:00pm, 6:00pm, 7:30pm, 8:15pm, 9:15pm, 10:45pm), Mon 5/5 (2:30pm, 3:15pm, 3:45pm, 4:15pm, 5:00pm, 6:30pm, 7:00pm, 7:30pm, 8:15pm, 9:45pm, 10:15pm, 10:45pm), Tue 5/6 (11:15am, 11:45am, 12:15pm, 1:15pm, 2:15pm, 2:30pm, 3:00pm, 3:30pm, 4:30pm, 5:30pm, 5:45pm, 6:15pm, 6:45pm, 7:45pm, 8:45pm, 9:45pm, 10:00pm), Wed 5/7 (2:30pm, 3:15pm, 3:45pm, 4:15pm, 5:00pm, 5:45pm, 6:30pm, 7:30pm, 9:45pm, 10:15pm, 10:45pm)
+
+    * [Until Dawn](https://drafthouse.com/raleigh/show/until-dawn): Thu 5/1 (4:15pm, 7:15pm, 10:00pm), Fri 5/2 (1:30pm, 4:30pm, 7:15pm, 10:00pm), Sat 5/3 (1:30pm, 4:30pm, 7:15pm, 10:15pm), Sun 5/4 (1:30pm, 4:30pm, 7:15pm, 10:00pm), Mon 5/5 (4:30pm, 7:15pm, 10:15pm), Tue 5/6 (1:15pm, 4:00pm, 7:00pm, 10:00pm), Wed 5/7 (4:30pm, 7:15pm, 10:15pm)
+
 ### Mon 4/28 1:23pm
 
 * New screenings: 
