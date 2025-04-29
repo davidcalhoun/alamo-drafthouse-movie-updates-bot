@@ -1,6 +1,33 @@
 # los-angeles
 
 ## Movie updates
+### Mon 4/28 8:07pm
+
+* New screenings: 
+    * [A Minecraft Movie](https://drafthouse.com/los-angeles/show/a-minecraft-movie): Thu 5/1 (2:10pm)
+
+    * [Barry Lyndon](https://drafthouse.com/los-angeles/show/barry-lyndon): Fri 5/2 (12:15pm), Sun 5/4 (11:20am), Mon 5/5 (11:15am, 5:30pm), Tue 5/6 (1:20pm), Wed 5/7 (11:20am, 3:00pm)
+
+    * [Bjork Cornucopia](https://drafthouse.com/los-angeles/show/bjork-cornucopia): Wed 5/7 (7:00pm, 10:30pm)
+
+    * [Nashville](https://drafthouse.com/los-angeles/show/nashville): Fri 5/2 (2:15pm), Sat 5/3 (1:10pm), Sun 5/4 (3:00pm), Mon 5/5 (3:30pm, 10:10pm), Tue 5/6 (11:00am), Wed 5/7 (11:10am)
+
+    * [Noroi The Curse](https://drafthouse.com/los-angeles/show/noroi-the-curse): Fri 5/2 (9:15pm), Mon 5/5 (2:20pm), Tue 5/6 (2:50pm, 9:50pm), Wed 5/7 (3:35pm)
+
+    * [On Swift Horses](https://drafthouse.com/los-angeles/show/on-swift-horses): Thu 5/1 (2:50pm), Fri 5/2 (11:00am), Sat 5/3 (11:00am), Sun 5/4 (11:00am), Mon 5/5 (11:00am), Tue 5/6 (11:00am), Wed 5/7 (11:00am)
+
+    * [Sinners](https://drafthouse.com/los-angeles/show/sinners): Thu 5/1 (2:40pm, 3:25pm, 6:10pm, 7:00pm, 9:40pm, 10:30pm), Fri 5/2 (11:10am, 12:45pm, 2:40pm, 3:30pm, 6:10pm, 7:00pm, 9:40pm, 10:30pm), Sat 5/3 (11:00am, 12:40pm, 2:30pm, 3:30pm, 6:00pm, 7:00pm, 9:30pm, 10:30pm), Sun 5/4 (11:00am, 12:45pm, 2:30pm, 3:30pm, 6:10pm, 7:00pm), Mon 5/5 (11:00am, 12:45pm, 2:30pm, 3:25pm, 6:00pm, 7:00pm, 9:30pm, 10:30pm), Tue 5/6 (11:10am, 12:45pm, 2:40pm, 3:30pm, 6:10pm, 7:00pm, 9:40pm, 10:30pm), Wed 5/7 (11:00am, 12:45pm, 2:30pm, 3:35pm, 6:00pm, 9:30pm, 10:25pm)
+
+    * [The Accountant 2](https://drafthouse.com/los-angeles/show/the-accountant-2): Thu 5/1 (3:10pm, 6:40pm, 10:00pm), Fri 5/2 (11:50am, 3:15pm, 6:40pm, 10:00pm), Sat 5/3 (11:50am, 3:15pm, 6:40pm, 10:00pm), Sun 5/4 (11:50am, 3:15pm, 6:40pm), Mon 5/5 (11:50am, 3:15pm, 6:40pm, 10:00pm), Tue 5/6 (11:50am, 3:15pm, 6:40pm, 10:00pm), Wed 5/7 (11:50am, 3:15pm, 6:40pm, 10:00pm)
+
+    * [The Legend Of Ochi](https://drafthouse.com/los-angeles/show/the-legend-of-ochi): Thu 5/1 (3:45pm, 6:30pm, 9:20pm), Fri 5/2 (1:00pm, 3:45pm, 6:30pm, 10:50pm), Sat 5/3 (12:50pm, 3:40pm, 6:30pm, 10:50pm), Sun 5/4 (1:00pm, 3:45pm, 6:30pm), Mon 5/5 (1:00pm, 3:45pm, 6:30pm, 9:20pm), Tue 5/6 (1:00pm, 3:45pm, 6:30pm, 9:20pm), Wed 5/7 (1:00pm, 3:45pm, 6:30pm, 9:20pm)
+
+    * [The Shrouds](https://drafthouse.com/los-angeles/show/the-shrouds): Thu 5/1 (4:15pm, 7:30pm, 10:45pm), Fri 5/2 (12:20pm, 4:15pm, 7:30pm, 10:45pm), Sat 5/3 (12:20pm, 4:10pm, 7:20pm, 10:35pm), Sun 5/4 (12:20pm, 4:15pm, 7:30pm), Mon 5/5 (12:10pm, 4:15pm, 7:30pm, 10:45pm), Tue 5/6 (12:20pm, 4:15pm, 7:30pm, 10:45pm), Wed 5/7 (12:20pm, 4:15pm, 7:30pm, 10:45pm)
+
+    * [Thunderbolts](https://drafthouse.com/los-angeles/show/thunderbolts): Thu 5/1 (2:10pm, 3:30pm, 3:50pm, 5:00pm, 5:30pm, 6:00pm, 6:50pm, 7:10pm, 8:20pm, 8:50pm, 9:20pm, 10:15pm, 10:30pm), Fri 5/2 (11:00am, 12:10pm, 12:30pm, 2:10pm, 3:30pm, 3:50pm, 5:30pm, 6:00pm, 6:50pm, 7:10pm, 7:30pm, 8:50pm, 9:20pm, 10:15pm, 10:30pm), Sat 5/3 (12:10pm, 12:30pm, 2:10pm, 3:30pm, 3:50pm, 5:00pm, 5:30pm, 6:50pm, 7:10pm, 7:30pm, 8:20pm, 8:50pm, 9:20pm, 10:10pm, 10:30pm), Sun 5/4 (11:30am, 12:30pm, 2:10pm, 2:50pm, 3:50pm, 5:30pm, 6:00pm, 6:50pm, 7:10pm), Mon 5/5 (11:00am, 12:10pm, 12:30pm, 2:10pm, 3:30pm, 3:50pm, 5:30pm, 6:50pm, 7:10pm, 8:50pm, 10:15pm, 10:30pm), Tue 5/6 (12:10pm, 12:30pm, 2:10pm, 3:30pm, 3:50pm, 5:30pm, 6:50pm, 7:10pm, 8:50pm, 9:25pm, 10:15pm, 10:30pm), Wed 5/7 (12:20pm, 1:10pm, 2:10pm, 3:40pm, 4:25pm, 5:30pm, 7:10pm, 8:50pm, 9:45pm, 10:15pm)
+
+    * [Until Dawn](https://drafthouse.com/los-angeles/show/until-dawn): Thu 5/1 (2:00pm, 4:50pm, 7:45pm, 10:35pm), Fri 5/2 (11:10am, 2:00pm, 4:50pm, 7:45pm, 10:40pm), Sat 5/3 (11:10am, 2:00pm, 4:50pm, 7:45pm, 10:40pm), Sun 5/4 (11:10am, 2:00pm, 4:50pm, 7:45pm), Mon 5/5 (11:10am, 2:00pm, 4:50pm, 7:45pm, 10:40pm), Tue 5/6 (11:10am, 2:00pm, 4:50pm, 7:45pm, 10:40pm), Wed 5/7 (11:10am, 2:00pm, 4:50pm, 7:45pm, 10:40pm)
+
 ### Mon 4/28 2:19pm
 * New movies: Piranha 1978
 
