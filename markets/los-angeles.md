@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 4/30 6:30am
+* New movies: Demon Slayer The Movie: Mugen Train Dubbed, Demon Slayer The Movie: Mugen Train Subtitled
+
+* New screenings: 
+    * [Special Event Demon Slayer The Movie Mugen Train Dubbed Re Release](https://drafthouse.com/los-angeles/show/special-event-demon-slayer-the-movie-mugen-train-dubbed-re-release): Fri 5/16 (6:00pm), Sun 5/18 (3:00pm), Mon 5/19 (3:00pm)
+
+    * [Special Event Demon Slayer The Movie Mugen Train Subtitled Re Release](https://drafthouse.com/los-angeles/show/special-event-demon-slayer-the-movie-mugen-train-subtitled-re-release): Fri 5/16 (9:10pm), Sun 5/18 (6:10pm), Mon 5/19 (6:10pm)
+
 ### Wed 4/30 1:29am
 * New movies: Shadow Force
 
