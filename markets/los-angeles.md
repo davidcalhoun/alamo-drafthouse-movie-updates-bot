@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 4/30 9:27am
+* New movies: Final Destination Bloodlines
+
+* New screenings: 
+    * [Final Destination Bloodlines](https://drafthouse.com/los-angeles/show/final-destination-bloodlines): Thu 5/15 (3:30pm, 6:30pm, 9:30pm), Fri 5/16 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sat 5/17 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sun 5/18 (11:00am, 2:00pm, 5:00pm, 8:00pm), Mon 5/19 (12:30pm, 3:30pm, 6:30pm)
+
 ### Wed 4/30 6:30am
 * New movies: Demon Slayer The Movie: Mugen Train Dubbed, Demon Slayer The Movie: Mugen Train Subtitled
 
