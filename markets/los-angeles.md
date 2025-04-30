@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Wed 4/30 1:23pm
+* New movies: Tenebre, Tomie, Switchblade Sisters, The Timekeepers of Eternity
+
+* New screenings: 
+    * [Switchblade Sisters](https://drafthouse.com/los-angeles/show/switchblade-sisters): Wed 5/28 (9:40pm)
+
+    * [Tenebre](https://drafthouse.com/los-angeles/show/tenebre): Wed 6/4 (7:20pm)
+
+    * [The Timekeepers Of Eternity](https://drafthouse.com/los-angeles/show/the-timekeepers-of-eternity): Wed 5/28 (7:20pm)
+
+    * [Tomie](https://drafthouse.com/los-angeles/show/tomie): Wed 5/21 (7:20pm)
+
 ### Wed 4/30 9:27am
 * New movies: Final Destination Bloodlines
 
