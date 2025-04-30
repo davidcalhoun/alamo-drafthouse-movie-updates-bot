@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 4/30 2:19pm
+* New movies: Demons 1985
+
+* New screenings: 
+    * [Demons](https://drafthouse.com/los-angeles/show/demons): Wed 6/11 (7:15pm)
+
 ### Wed 4/30 1:23pm
 * New movies: Tenebre, Tomie, Switchblade Sisters, The Timekeepers of Eternity
 
