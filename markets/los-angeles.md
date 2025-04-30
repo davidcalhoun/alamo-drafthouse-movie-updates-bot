@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 4/30 1:29am
+* New movies: Shadow Force
+
+* New screenings: 
+    * [Shadow Force](https://drafthouse.com/los-angeles/show/shadow-force): Thu 5/8 (6:30pm, 9:25pm), Fri 5/9 (12:40pm, 3:35pm, 6:30pm, 9:25pm), Sat 5/10 (12:40pm, 3:35pm, 6:30pm, 9:25pm), Sun 5/11 (12:40pm, 3:35pm, 6:30pm), Mon 5/12 (12:40pm, 3:35pm, 6:30pm, 9:25pm), Tue 5/13 (12:40pm, 3:35pm, 6:30pm, 9:25pm), Wed 5/14 (12:40pm, 3:35pm, 6:30pm, 9:25pm)
+
 ### Mon 4/28 8:07pm
 
 * New screenings: 
