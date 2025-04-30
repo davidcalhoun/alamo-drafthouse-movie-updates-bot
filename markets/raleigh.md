@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 4/30 12:32pm
+* New movies: Final Destination Bloodlines
+
+* New screenings: 
+    * [Final Destination Bloodlines](https://drafthouse.com/raleigh/show/final-destination-bloodlines): Thu 5/15 (6:30pm, 9:30pm), Fri 5/16 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sat 5/17 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sun 5/18 (12:15pm, 3:00pm, 6:00pm, 9:00pm)
+
 ### Wed 4/30 9:34am
 * New movies: Demon Slayer The Movie: Mugen Train Subtitled, Demon Slayer The Movie: Mugen Train Dubbed
 
