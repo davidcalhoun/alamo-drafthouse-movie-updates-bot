@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 5/1 5:42am
+* New movies: How To Train Your Dragon 2025, How To Train Your Dragon 2025
+
+* New screenings: 
+    * [Advance Screening How To Train Your Dragon 2025 3d Early Access](https://drafthouse.com/los-angeles/show/advance-screening-how-to-train-your-dragon-2025-3d-early-access): Wed 6/11 (7:00pm)
+
+    * [How To Train Your Dragon 2025](https://drafthouse.com/los-angeles/show/how-to-train-your-dragon-2025): Thu 6/12 (2:40pm), Fri 6/13 (11:20am), Sat 6/14 (11:20am), Sun 6/15 (11:20am), Mon 6/16 (11:20am)
+
 ### Wed 4/30 6:57pm
 * New movies: Sew Torn, Sew Torn
 
