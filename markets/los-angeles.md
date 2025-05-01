@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 4/30 6:57pm
+* New movies: Sew Torn, Sew Torn
+
+* New screenings: 
+    * [Live Q A Sew Torn](https://drafthouse.com/los-angeles/show/live-q-a-sew-torn): Fri 5/9 (6:00pm), Sat 5/10 (6:00pm)
+
+    * [Sew Torn](https://drafthouse.com/los-angeles/show/sew-torn): Mon 5/12 (4:30pm)
+
 ### Wed 4/30 2:19pm
 * New movies: Demons 1985
 
