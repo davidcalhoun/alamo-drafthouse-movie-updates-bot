@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Thu 5/1 8:50am
+* New movies: How To Train Your Dragon 2025, How To Train Your Dragon 2025
+
+* New screenings: 
+    * [Advance Screening How To Train Your Dragon 2025 3d Early Access](https://drafthouse.com/raleigh/show/advance-screening-how-to-train-your-dragon-2025-3d-early-access): Wed 6/11 (6:30pm)
+
+    * [How To Train Your Dragon 2025](https://drafthouse.com/raleigh/show/how-to-train-your-dragon-2025): Thu 6/12 (2:30pm), Fri 6/13 (11:30am), Sat 6/14 (11:30am), Sun 6/15 (11:30am), Mon 6/16 (11:30am), Tue 6/17 (11:30am), Wed 6/18 (11:30am)
+
 ### Wed 4/30 12:32pm
 * New movies: Final Destination Bloodlines
 
