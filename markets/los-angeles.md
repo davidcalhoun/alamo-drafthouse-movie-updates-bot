@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 5/1 8:22am
+* New movies: The Karate Kid 1984, The Karate Kid 2010
+
+* New screenings: 
+    * [Special Event The Karate Kid 1984 Re Issue](https://drafthouse.com/los-angeles/show/special-event-the-karate-kid-1984-re-issue): Sat 5/10 (7:20pm)
+
+    * [Special Event The Karate Kid 2010 Re Issue](https://drafthouse.com/los-angeles/show/special-event-the-karate-kid-2010-re-issue): Sat 5/10 (2:25pm)
+
 ### Thu 5/1 5:42am
 * New movies: How To Train Your Dragon 2025, How To Train Your Dragon 2025
 
