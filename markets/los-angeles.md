@@ -1,6 +1,20 @@
 # los-angeles
 
 ## Movie updates
+### Fri 5/2 4:19pm
+* New movies: Fight or Flight, Mystery Machine 5/19/2025, UHF, Pavements
+
+* New screenings: 
+    * [Fight Or Flight](https://drafthouse.com/los-angeles/show/fight-or-flight): Thu 5/8 (4:40pm, 7:30pm, 10:20pm), Fri 5/9 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Sat 5/10 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Sun 5/11 (11:00am, 1:50pm, 4:40pm, 7:30pm), Mon 5/12 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Tue 5/13 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Wed 5/14 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm)
+
+    * [How To Train Your Dragon 2025](https://drafthouse.com/los-angeles/show/how-to-train-your-dragon-2025): Tue 6/17 (11:20am), Wed 6/18 (11:20am)
+
+    * [Mystery Machine 5 19 2025](https://drafthouse.com/los-angeles/show/mystery-machine-5-19-2025): Mon 5/19 (7:00pm)
+
+    * [Pavements](https://drafthouse.com/los-angeles/show/pavements): Fri 6/6 (6:00pm), Sun 6/8 (2:40pm)
+
+    * [Uhf](https://drafthouse.com/los-angeles/show/uhf): Wed 6/18 (7:20pm)
+
 ### Thu 5/1 8:22am
 * New movies: The Karate Kid 1984, The Karate Kid 2010
 
