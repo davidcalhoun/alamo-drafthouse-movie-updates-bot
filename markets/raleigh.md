@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 5/2 1:21am
+* New movies: The Karate Kid 1984
+
+* New screenings: 
+    * [Special Event The Karate Kid 1984 Re Issue](https://drafthouse.com/raleigh/show/special-event-the-karate-kid-1984-re-issue): Sat 5/10 (7:30pm), Tue 6/10 (6:30pm)
+
 ### Thu 5/1 11:26am
 * New movies: The Karate Kid 2010
 
