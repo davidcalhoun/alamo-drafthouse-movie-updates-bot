@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Sat 5/3 6:24pm
+
+* New screenings: 
+    * [Advance Screening Friendship Early Access Pre Recorded Q A](https://drafthouse.com/raleigh/show/advance-screening-friendship-early-access-pre-recorded-q-a): Mon 5/12 (8:00pm)
+
 ### Fri 5/2 1:21am
 * New movies: The Karate Kid 1984
 
