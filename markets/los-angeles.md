@@ -1,6 +1,15 @@
 # los-angeles
 
 ## Movie updates
+### Sun 5/4 2:18pm
+
+* New screenings: 
+    * [Bjork Cornucopia](https://drafthouse.com/los-angeles/show/bjork-cornucopia): Thu 5/8 (10:30pm)
+
+    * [Special Event Demon Slayer The Movie Mugen Train Dubbed Re Release](https://drafthouse.com/los-angeles/show/special-event-demon-slayer-the-movie-mugen-train-dubbed-re-release): Wed 5/14 (6:00pm)
+
+    * [Special Event Demon Slayer The Movie Mugen Train Subtitled Re Release](https://drafthouse.com/los-angeles/show/special-event-demon-slayer-the-movie-mugen-train-subtitled-re-release): Wed 5/14 (9:10pm)
+
 ### Sun 5/4 12:19am
 * New movies: The People Under the Stairs
 
