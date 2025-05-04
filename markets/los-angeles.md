@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Sun 5/4 12:19am
+* New movies: The People Under the Stairs
+
+* New screenings: 
+    * [The People Under The Stairs](https://drafthouse.com/los-angeles/show/the-people-under-the-stairs): Wed 6/25 (7:20pm)
+
 ### Fri 5/2 4:19pm
 * New movies: Fight or Flight, Mystery Machine 5/19/2025, UHF, Pavements
 
