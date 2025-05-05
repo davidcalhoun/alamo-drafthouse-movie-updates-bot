@@ -1,6 +1,18 @@
 # raleigh
 
 ## Movie updates
+### Mon 5/5 7:24pm
+* New movies: A/V Geeks Present: Oh, Canada!, Mystery Machine 5/19/2025, Sister Midnight, John Paizs' Crime Wave 1985
+
+* New screenings: 
+    * [A V Geeks Present Oh Canada](https://drafthouse.com/raleigh/show/a-v-geeks-present-oh-canada): Tue 6/17 (7:00pm)
+
+    * [Mystery Machine 5 19 2025](https://drafthouse.com/raleigh/show/mystery-machine-5-19-2025): Mon 5/19 (7:00pm)
+
+    * [Sister Midnight](https://drafthouse.com/raleigh/show/sister-midnight): Fri 5/30 (6:30pm), Sat 5/31 (12:15pm)
+
+    * [Weird Wednesday John Paizs Crime Wave 1985](https://drafthouse.com/raleigh/show/weird-wednesday-john-paizs-crime-wave-1985): Wed 5/14 (9:30pm)
+
 ### Sat 5/3 6:24pm
 
 * New screenings: 
