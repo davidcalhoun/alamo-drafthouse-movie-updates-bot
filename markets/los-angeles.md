@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Mon 5/5 1:24pm
+
+* New screenings: 
+    * [Fantastic Fest Presents Sister Midnight W Live Q A](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-sister-midnight-w-live-q-a): Sun 5/25 (12:15pm)
+
+    * [Sister Midnight](https://drafthouse.com/los-angeles/show/sister-midnight): Sun 5/25 (3:30pm, 6:30pm)
+
 ### Sun 5/4 2:18pm
 
 * New screenings: 
