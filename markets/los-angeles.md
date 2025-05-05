@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 5/5 4:20pm
+* New movies: Bring Her Back
+
+* New screenings: 
+    * [Free Victory Screening Bring Her Back W Livestream Q A](https://drafthouse.com/los-angeles/show/free-victory-screening-bring-her-back-w-livestream-q-a): Tue 5/6 (5:30pm)
+
 ### Mon 5/5 1:24pm
 
 * New screenings: 
