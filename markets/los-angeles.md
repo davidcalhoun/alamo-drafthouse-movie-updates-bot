@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 5/6 6:33am
+* New movies: Lilo & Stitch 2025
+
+* New screenings: 
+    * [Lilo And Stitch 2025](https://drafthouse.com/los-angeles/show/lilo-and-stitch-2025): Thu 5/22 (3:15pm, 6:15pm, 9:15pm), Fri 5/23 (10:30am, 11:15am, 1:30pm, 2:45pm, 4:30pm, 5:45pm, 7:30pm, 8:45pm), Sat 5/24 (10:30am, 11:15am, 1:30pm, 2:45pm, 4:30pm, 5:45pm, 7:30pm, 8:45pm), Sun 5/25 (10:30am, 11:15am, 1:30pm, 2:15pm, 4:30pm, 5:15pm, 7:30pm, 8:15pm), Mon 5/26 (10:30am, 11:15am, 1:30pm, 2:45pm, 4:30pm, 5:45pm, 7:30pm, 8:45pm), Tue 5/27 (11:15am, 3:00pm, 4:30pm, 6:00pm, 7:30pm, 9:00pm), Wed 5/28 (11:15am, 3:00pm, 4:30pm, 6:00pm, 7:30pm, 9:00pm), Thu 5/29 (11:30am, 3:00pm, 6:30pm, 10:00pm), Fri 5/30 (11:30am, 3:00pm, 6:30pm, 10:00pm), Sat 5/31 (11:30am, 3:00pm, 6:30pm, 10:00pm), Sun 6/1 (11:30am, 3:00pm, 6:30pm), Mon 6/2 (11:30am, 3:15pm, 6:30pm, 10:15pm), Tue 6/3 (11:30am, 3:15pm, 6:30pm, 10:15pm), Wed 6/4 (11:15am, 3:00pm, 6:15pm, 10:00pm)
+
 ### Mon 5/5 11:31pm
 
 * New screenings: 
