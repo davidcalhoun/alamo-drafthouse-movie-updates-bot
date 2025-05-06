@@ -1,6 +1,33 @@
 # raleigh
 
 ## Movie updates
+### Mon 5/5 10:04pm
+
+* New screenings: 
+    * [A Minecraft Movie](https://drafthouse.com/raleigh/show/a-minecraft-movie): Thu 5/8 (3:00pm, 6:00pm), Fri 5/9 (11:30am, 2:15pm, 6:00pm), Sat 5/10 (11:30am, 2:15pm, 6:15pm), Sun 5/11 (11:15am, 2:00pm, 6:15pm), Mon 5/12 (3:00pm, 5:45pm), Tue 5/13 (11:15am, 2:00pm, 6:15pm), Wed 5/14 (3:30pm, 6:30pm)
+
+    * [Clown In A Cornfield](https://drafthouse.com/raleigh/show/clown-in-a-cornfield): Mon 5/12 (10:15pm), Tue 5/13 (1:00pm, 3:45pm, 9:45pm), Wed 5/14 (3:45pm, 9:15pm)
+
+    * [Hereditary](https://drafthouse.com/raleigh/show/hereditary): Sat 5/10 (12:00pm), Sun 5/11 (11:30am, 10:00pm), Tue 5/13 (6:30pm)
+
+    * [Mamma Mia](https://drafthouse.com/raleigh/show/mamma-mia): Fri 5/9 (11:30am)
+
+    * [Noroi The Curse](https://drafthouse.com/raleigh/show/noroi-the-curse): Thu 5/8 (3:15pm)
+
+    * [Shadow Force](https://drafthouse.com/raleigh/show/shadow-force): Mon 5/12 (4:45pm, 7:30pm, 10:15pm), Tue 5/13 (1:15pm, 4:00pm, 6:45pm, 9:45pm), Wed 5/14 (4:45pm, 7:30pm, 10:15pm)
+
+    * [Sinners](https://drafthouse.com/raleigh/show/sinners): Thu 5/8 (2:45pm, 4:45pm, 6:00pm, 8:15pm, 8:45pm, 9:20pm), Fri 5/9 (12:00pm, 1:00pm, 3:30pm, 4:30pm, 5:00pm, 7:00pm, 8:00pm, 8:30pm, 10:30pm), Sat 5/10 (11:45am, 1:30pm, 3:15pm, 5:00pm, 5:15pm, 7:00pm, 8:30pm, 9:00pm, 10:15pm), Sun 5/11 (1:15pm, 2:15pm, 4:30pm, 5:30pm, 6:30pm, 7:45pm, 8:00pm, 9:00pm, 10:30pm), Mon 5/12 (2:45pm, 3:30pm, 4:45pm, 5:00pm, 6:45pm, 8:30pm, 8:30pm, 10:30pm), Tue 5/13 (11:45am, 1:15pm, 2:15pm, 3:00pm, 4:30pm, 5:30pm, 7:45pm, 8:00pm, 9:00pm, 10:30pm), Wed 5/14 (3:00pm, 4:45pm, 5:00pm, 6:00pm, 7:30pm, 8:00pm, 8:30pm, 10:30pm)
+
+    * [Special Event Wolf Children Dubbed In 4k](https://drafthouse.com/raleigh/show/special-event-wolf-children-dubbed-in-4k): Tue 5/13 (12:00pm)
+
+    * [The Accountant 2](https://drafthouse.com/raleigh/show/the-accountant-2): Thu 5/8 (4:00pm, 7:15pm, 10:30pm), Fri 5/9 (1:15pm, 4:30pm, 7:45pm, 9:45pm), Sat 5/10 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Sun 5/11 (12:15pm, 3:45pm, 7:00pm, 10:15pm), Mon 5/12 (4:00pm, 7:15pm, 10:30pm), Tue 5/13 (12:15pm, 3:45pm, 7:00pm, 10:15pm), Wed 5/14 (4:00pm, 7:15pm, 10:30pm)
+
+    * [The Legend Of Ochi](https://drafthouse.com/raleigh/show/the-legend-of-ochi): Thu 5/8 (3:30pm), Fri 5/9 (12:45pm), Sat 5/10 (11:15am), Sun 5/11 (11:15am), Mon 5/12 (3:30pm), Tue 5/13 (11:30am), Wed 5/14 (3:00pm)
+
+    * [Thunderbolts](https://drafthouse.com/raleigh/show/thunderbolts): Thu 5/8 (3:45pm, 4:45pm, 5:00pm, 7:00pm, 8:00pm, 8:30pm, 9:45pm, 10:15pm), Fri 5/9 (11:15am, 12:15pm, 2:00pm, 2:30pm, 3:15pm, 3:30pm, 5:15pm, 6:00pm, 6:45pm, 8:30pm, 9:15pm, 10:00pm), Sat 5/10 (11:00am, 12:15pm, 1:15pm, 2:15pm, 3:30pm, 4:30pm, 5:30pm, 7:15pm, 8:00pm, 9:00pm, 10:30pm, 10:45pm), Sun 5/11 (11:30am, 12:15pm, 12:30pm, 2:45pm, 3:30pm, 4:00pm, 6:00pm, 6:30pm, 7:00pm, 7:15pm, 9:15pm, 9:45pm, 10:15pm), Mon 5/12 (3:45pm, 4:00pm, 6:00pm, 7:15pm, 9:30pm, 10:00pm), Tue 5/13 (11:30am, 12:15pm, 12:45pm, 2:45pm, 3:15pm, 3:30pm, 4:00pm, 6:00pm, 7:00pm, 7:15pm, 9:15pm, 10:15pm), Wed 5/14 (3:45pm, 4:00pm, 6:15pm, 7:15pm, 9:30pm, 10:00pm)
+
+    * [Until Dawn](https://drafthouse.com/raleigh/show/until-dawn): Thu 5/8 (3:45pm, 6:30pm, 9:30pm), Fri 5/9 (2:45pm, 9:00pm), Sat 5/10 (3:15pm, 9:30pm), Sun 5/11 (3:00pm, 5:00pm, 9:30pm), Mon 5/12 (4:30pm, 7:30pm, 10:15pm), Tue 5/13 (5:00pm, 9:30pm), Wed 5/14 (4:30pm)
+
 ### Mon 5/5 7:24pm
 * New movies: A/V Geeks Present: Oh, Canada!, Mystery Machine 5/19/2025, Sister Midnight, John Paizs' Crime Wave 1985
 
