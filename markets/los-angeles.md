@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 5/5 11:31pm
+
+* New screenings: 
+    * [Mission Impossible The Final Reckoning](https://drafthouse.com/los-angeles/show/mission-impossible-the-final-reckoning): Thu 5/29 (11:00am, 2:30pm, 6:00pm, 9:30pm), Fri 5/30 (11:00am, 2:30pm, 6:00pm, 9:30pm), Sat 5/31 (11:00am, 2:30pm, 6:00pm, 9:30pm), Sun 6/1 (11:00am, 2:30pm, 6:00pm), Mon 6/2 (11:15am, 2:30pm, 6:15pm, 9:30pm), Tue 6/3 (11:15am, 2:30pm, 6:15pm, 9:30pm), Wed 6/4 (11:00am, 2:15pm, 6:00pm, 9:15pm)
+
 ### Mon 5/5 6:50pm
 * New movies: Magic Farm
 
