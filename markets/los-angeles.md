@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 5/6 1:24pm
+
+* New screenings: 
+    * [Family Party Lilo Stitch 2025](https://drafthouse.com/los-angeles/show/family-party-lilo-stitch-2025): Sun 5/25 (10:25am)
+
 ### Tue 5/6 12:17pm
 * New movies: Lilo & Stitch 2025
 
