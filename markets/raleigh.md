@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Tue 5/6 9:37am
+* New movies: Lilo & Stitch 2025, Lilo & Stitch 2025
+
+* New screenings: 
+    * [Family Party Lilo Stitch 2025](https://drafthouse.com/raleigh/show/family-party-lilo-stitch-2025): Sat 5/24 (12:30pm)
+
+    * [Lilo And Stitch 2025](https://drafthouse.com/raleigh/show/lilo-and-stitch-2025): Thu 5/22 (2:30pm, 3:30pm, 6:30pm, 9:30pm), Fri 5/23 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sat 5/24 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sun 5/25 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Mon 5/26 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Tue 5/27 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Wed 5/28 (1:00pm, 4:00pm, 7:00pm, 10:00pm)
+
 ### Mon 5/5 10:04pm
 
 * New screenings: 
