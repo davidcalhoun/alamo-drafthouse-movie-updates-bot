@@ -1,6 +1,46 @@
 # los-angeles
 
 ## Movie updates
+### Mon 5/5 6:50pm
+* New movies: Magic Farm
+
+* New screenings: 
+    * [Barry Lyndon](https://drafthouse.com/los-angeles/show/barry-lyndon): Thu 5/8 (4:15pm)
+
+    * [Bjork Cornucopia](https://drafthouse.com/los-angeles/show/bjork-cornucopia): Thu 5/8 (8:30pm), Fri 5/9 (4:10pm, 9:10pm), Sat 5/10 (9:10pm), Sun 5/11 (7:30pm)
+
+    * [Clown In A Cornfield](https://drafthouse.com/los-angeles/show/clown-in-a-cornfield): Thu 5/8 (10:30pm), Fri 5/9 (11:15am, 2:00pm, 4:50pm, 10:30pm), Sat 5/10 (11:15am, 2:00pm, 4:50pm, 10:40pm), Sun 5/11 (11:20am, 2:10pm, 5:00pm), Mon 5/12 (11:20am, 2:10pm, 5:00pm, 10:30pm), Tue 5/13 (11:20am, 2:10pm, 5:00pm, 10:30pm), Wed 5/14 (11:20am, 2:10pm, 5:00pm, 7:45pm, 10:30pm)
+
+    * [Fight Or Flight](https://drafthouse.com/los-angeles/show/fight-or-flight): Sun 5/11 (8:00pm), Wed 5/14 (11:00am, 1:50pm, 4:40pm)
+
+    * [Hereditary](https://drafthouse.com/los-angeles/show/hereditary): Fri 5/9 (11:10am, 10:15pm), Sat 5/10 (11:00am, 10:30pm), Sun 5/11 (6:00pm), Mon 5/12 (2:00pm, 10:30pm), Tue 5/13 (8:20pm)
+
+    * [Jeanne Dielman 23 Quai Du Commerce 1080 Bruxelles](https://drafthouse.com/los-angeles/show/jeanne-dielman-23-quai-du-commerce-1080-bruxelles): Fri 5/9 (11:40am), Sun 5/11 (11:10am), Mon 5/12 (12:00pm), Tue 5/13 (2:50pm), Wed 5/14 (11:45am)
+
+    * [Magic Farm](https://drafthouse.com/los-angeles/show/magic-farm): Thu 5/8 (8:00pm, 10:40pm), Fri 5/9 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Sat 5/10 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Sun 5/11 (11:45am, 2:30pm, 5:15pm, 8:00pm), Mon 5/12 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Tue 5/13 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Wed 5/14 (11:50am, 2:30pm, 5:15pm, 8:00pm, 10:45pm)
+
+    * [Mamma Mia](https://drafthouse.com/los-angeles/show/mamma-mia): Fri 5/9 (7:20pm), Sun 5/11 (3:05pm), Mon 5/12 (11:00am), Tue 5/13 (11:45am), Wed 5/14 (4:15pm)
+
+    * [Mission Impossible The Final Reckoning](https://drafthouse.com/los-angeles/show/mission-impossible-the-final-reckoning): Sun 5/25 (9:30pm), Mon 5/26 (9:30pm), Tue 5/27 (9:30pm), Wed 5/28 (11:30am, 12:30pm, 2:15pm, 6:15pm, 9:30pm, 10:15pm)
+
+    * [On Swift Horses](https://drafthouse.com/los-angeles/show/on-swift-horses): Thu 5/8 (3:20pm)
+
+    * [Sew Torn](https://drafthouse.com/los-angeles/show/sew-torn): Sun 5/11 (5:10pm), Tue 5/13 (10:30pm), Wed 5/14 (4:30pm)
+
+    * [Sinners](https://drafthouse.com/los-angeles/show/sinners): Thu 5/8 (3:50pm, 4:35pm, 6:15pm, 7:10pm, 9:45pm, 10:40pm), Fri 5/9 (11:20am, 12:10pm, 2:35pm, 2:50pm, 3:45pm, 6:15pm, 7:10pm, 9:45pm, 10:40pm), Sat 5/10 (11:15am, 12:10pm, 2:45pm, 3:45pm, 6:15pm, 7:10pm, 9:45pm, 10:40pm), Sun 5/11 (11:15am, 12:10pm, 2:45pm, 3:45pm, 6:15pm, 7:10pm), Mon 5/12 (11:15am, 12:10pm, 2:45pm, 3:45pm, 5:30pm, 6:15pm, 7:10pm, 9:00pm, 9:45pm, 10:40pm), Tue 5/13 (11:15am, 12:10pm, 2:45pm, 3:45pm, 4:50pm, 6:15pm, 7:10pm, 9:45pm, 10:40pm), Wed 5/14 (11:10am, 12:00pm, 2:35pm, 3:30pm, 6:15pm, 9:00pm, 10:10pm)
+
+    * [Sister Midnight](https://drafthouse.com/los-angeles/show/sister-midnight): Fri 5/23 (11:45am, 10:30pm), Sat 5/24 (11:45am, 10:30pm), Sun 5/25 (10:30pm), Mon 5/26 (11:45am, 10:30pm), Tue 5/27 (12:00pm, 3:30pm, 6:30pm, 10:30pm), Wed 5/28 (12:00pm, 3:30pm, 6:30pm, 10:30pm)
+
+    * [The Accountant 2](https://drafthouse.com/los-angeles/show/the-accountant-2): Thu 5/8 (3:25pm, 6:50pm, 10:10pm), Fri 5/9 (11:50am, 3:15pm, 6:40pm, 10:00pm), Sat 5/10 (11:50am, 3:15pm, 6:40pm, 10:00pm), Sun 5/11 (11:50am, 3:15pm, 6:40pm), Mon 5/12 (11:50am, 3:15pm, 6:40pm, 10:00pm), Tue 5/13 (11:50am, 3:15pm, 6:40pm, 10:00pm), Wed 5/14 (12:00pm, 3:25pm, 6:50pm, 10:10pm)
+
+    * [The Legend Of Ochi](https://drafthouse.com/los-angeles/show/the-legend-of-ochi): Thu 5/8 (3:00pm)
+
+    * [The Shrouds](https://drafthouse.com/los-angeles/show/the-shrouds): Thu 5/8 (4:00pm, 6:40pm, 9:50pm), Fri 5/9 (12:20pm, 3:30pm, 6:50pm, 10:00pm), Sat 5/10 (12:20pm, 3:30pm, 6:50pm, 10:00pm), Sun 5/11 (12:20pm, 3:30pm, 6:50pm), Mon 5/12 (12:20pm, 3:30pm, 6:50pm, 10:00pm), Tue 5/13 (12:20pm, 3:30pm, 6:50pm, 10:00pm), Wed 5/14 (12:10pm, 3:20pm, 6:40pm, 9:50pm)
+
+    * [Thunderbolts](https://drafthouse.com/los-angeles/show/thunderbolts): Thu 5/8 (3:00pm, 3:40pm, 5:45pm, 7:00pm, 9:00pm, 10:15pm), Fri 5/9 (11:00am, 12:25pm, 2:20pm, 3:45pm, 5:40pm, 7:00pm, 9:00pm, 10:20pm), Sat 5/10 (11:00am, 12:25pm, 2:20pm, 3:45pm, 5:40pm, 7:00pm, 9:00pm, 10:15pm), Sun 5/11 (11:00am, 11:50am, 2:20pm, 3:45pm, 5:40pm, 7:00pm), Mon 5/12 (11:00am, 12:25pm, 2:20pm, 3:45pm, 5:40pm, 7:00pm, 9:00pm, 10:20pm), Tue 5/13 (11:00am, 12:25pm, 1:30pm, 2:20pm, 3:45pm, 5:40pm, 7:00pm, 9:00pm, 10:20pm), Wed 5/14 (11:00am, 11:40am, 1:15pm, 2:20pm, 3:00pm, 5:40pm, 7:10pm, 9:45pm, 10:25pm)
+
+    * [Until Dawn](https://drafthouse.com/los-angeles/show/until-dawn): Thu 5/8 (3:50pm)
+
 ### Mon 5/5 4:20pm
 * New movies: Bring Her Back
 
