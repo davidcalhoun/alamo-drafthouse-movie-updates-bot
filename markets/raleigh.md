@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 5/7 9:37am
+* New movies: Talk to Me
+
+* New screenings: 
+    * [Special Event Talk To Me W Bring Her Back Sneak Peek](https://drafthouse.com/raleigh/show/special-event-talk-to-me-w-bring-her-back-sneak-peek): Tue 5/20 (7:00pm)
+
 ### Tue 5/6 9:37am
 * New movies: Lilo & Stitch 2025, Lilo & Stitch 2025
 
