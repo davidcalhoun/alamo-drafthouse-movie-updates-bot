@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Wed 5/7 3:21pm
+
+* New screenings: 
+    * [How To Train Your Dragon 2025](https://drafthouse.com/raleigh/show/how-to-train-your-dragon-2025): Thu 6/12 (3:00pm, 6:05pm, 9:15pm), Fri 6/13 (11:00am, 2:30pm, 6:00pm, 9:15pm), Sat 6/14 (2:30pm, 6:00pm, 9:15pm), Sun 6/15 (11:00am, 2:30pm, 6:00pm, 9:15pm), Mon 6/16 (11:00am, 2:30pm, 6:00pm, 9:15pm), Tue 6/17 (11:00am, 2:30pm, 6:00pm, 9:15pm), Wed 6/18 (11:00am, 2:30pm, 6:00pm, 9:15pm)
+
 ### Wed 5/7 11:29am
 
 * New screenings: 
