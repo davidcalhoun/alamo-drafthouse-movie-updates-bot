@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Wed 5/7 11:29am
+
+* New screenings: 
+    * [Bjork Cornucopia](https://drafthouse.com/raleigh/show/bjork-cornucopia): Wed 5/7 (8:15pm)
+
 ### Wed 5/7 9:37am
 * New movies: Talk to Me
 
