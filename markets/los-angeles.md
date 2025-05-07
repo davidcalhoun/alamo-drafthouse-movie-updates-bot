@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Wed 5/7 3:24am
+* New movies: The Surrender, Ado SPECIAL LIVE "Shinzou" in Cinema
+
+* New screenings: 
+    * [Ado Special Live Shinzou In Cinema](https://drafthouse.com/los-angeles/show/ado-special-live-shinzou-in-cinema): Wed 5/28 (7:10pm), Sat 5/31 (2:00pm)
+
+    * [Stand By Me 1986](https://drafthouse.com/los-angeles/show/stand-by-me-1986): Mon 6/2 (3:20pm)
+
+    * [The Surrender](https://drafthouse.com/los-angeles/show/the-surrender): Fri 5/16 (10:00pm), Sat 5/17 (9:00pm), Tue 5/20 (9:55pm)
+
 ### Tue 5/6 1:24pm
 
 * New screenings: 
