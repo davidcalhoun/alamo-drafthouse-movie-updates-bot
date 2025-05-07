@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 5/7 6:34am
+* New movies: Talk to Me
+
+* New screenings: 
+    * [Special Event Talk To Me W Bring Her Back Sneak Peek](https://drafthouse.com/los-angeles/show/special-event-talk-to-me-w-bring-her-back-sneak-peek): Tue 5/20 (7:00pm)
+
 ### Wed 5/7 3:24am
 * New movies: The Surrender, Ado SPECIAL LIVE "Shinzou" in Cinema
 
