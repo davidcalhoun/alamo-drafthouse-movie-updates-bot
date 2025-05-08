@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 5/8 2:20pm
+
+* New screenings: 
+    * [Until Dawn](https://drafthouse.com/los-angeles/show/until-dawn): Sat 5/10 (10:00pm), Mon 5/12 (10:00pm), Tue 5/13 (10:00pm), Wed 5/14 (9:50pm)
+
 ### Thu 5/8 1:24pm
 * New movies: How To Train Your Dragon 2025
 
