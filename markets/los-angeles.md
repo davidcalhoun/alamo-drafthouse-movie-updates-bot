@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 5/7 6:51pm
+
+* New screenings: 
+    * [Fan Event Hurry Up Tomorrow](https://drafthouse.com/los-angeles/show/fan-event-hurry-up-tomorrow): Wed 5/14 (7:15pm)
+
 ### Wed 5/7 6:34am
 * New movies: Talk to Me
 
