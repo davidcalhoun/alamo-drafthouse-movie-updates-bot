@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 5/8 1:24pm
+* New movies: How To Train Your Dragon 2025
+
+* New screenings: 
+    * [Family Party How To Train Your Dragon 2025](https://drafthouse.com/los-angeles/show/family-party-how-to-train-your-dragon-2025): Sat 6/14 (10:45am), Sun 6/15 (10:45am)
+
 ### Thu 5/8 5:45am
 
 * New screenings: 
