@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 5/7 10:22pm
+* New movies: Tornado
+
+* New screenings: 
+    * [Tornado](https://drafthouse.com/los-angeles/show/tornado): Fri 5/30 (4:40pm), Sat 5/31 (11:20am), Wed 6/4 (4:40pm)
+
 ### Wed 5/7 6:51pm
 
 * New screenings: 
