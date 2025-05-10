@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Sat 5/10 7:23pm
+* New movies: Jaws 1975
+
+* New screenings: 
+    * [Jaws 1975](https://drafthouse.com/raleigh/show/jaws-1975): Tue 5/27 (7:30pm)
+
 ### Thu 5/8 4:29pm
 * New movies: How To Train Your Dragon 2025
 
