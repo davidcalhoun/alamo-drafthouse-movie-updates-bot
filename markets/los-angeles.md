@@ -1,6 +1,15 @@
 # los-angeles
 
 ## Movie updates
+### Fri 5/9 6:46pm
+
+* New screenings: 
+    * [Brokeback Mountain 20th Anniversary](https://drafthouse.com/los-angeles/show/brokeback-mountain-20th-anniversary): Sat 6/21 (3:45pm, 7:15pm)
+
+    * [Pavements](https://drafthouse.com/los-angeles/show/pavements): Sat 6/7 (6:00pm), Mon 6/9 (4:00pm), Tue 6/10 (2:40pm), Wed 6/11 (10:00pm)
+
+    * [Special Event Dogma Resurrected 25th Anniversary](https://drafthouse.com/los-angeles/show/special-event-dogma-resurrected-25th-anniversary): Sat 6/7 (2:15pm), Tue 6/10 (6:00pm)
+
 ### Thu 5/8 2:20pm
 
 * New screenings: 
