@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Sat 5/10 10:16pm
+* New movies: Ron Delsener Presents
+
+* New screenings: 
+    * [Ron Delsener Presents](https://drafthouse.com/raleigh/show/ron-delsener-presents): Wed 6/18 (6:30pm)
+
 ### Sat 5/10 7:23pm
 * New movies: Jaws 1975
 
