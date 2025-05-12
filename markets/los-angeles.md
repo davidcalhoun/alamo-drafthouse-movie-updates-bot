@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 5/12 8:26am
+* New movies: 28 Days Later
+
+* New screenings: 
+    * [Special Event 28 Days Later Re Issue](https://drafthouse.com/los-angeles/show/special-event-28-days-later-re-issue): Wed 5/21 (7:00pm)
+
 ### Fri 5/9 6:46pm
 
 * New screenings: 
