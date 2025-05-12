@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 5/12 11:30am
+* New movies: 28 Days Later
+
+* New screenings: 
+    * [Special Event 28 Days Later Re Issue](https://drafthouse.com/raleigh/show/special-event-28-days-later-re-issue): Wed 5/21 (6:30pm)
+
 ### Sat 5/10 10:16pm
 * New movies: Ron Delsener Presents
 
