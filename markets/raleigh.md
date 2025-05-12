@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 5/12 5:24pm
+* New movies: Jaws 1975
+
+
+
 ### Mon 5/12 11:30am
 * New movies: 28 Days Later
 
