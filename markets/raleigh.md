@@ -1,6 +1,35 @@
 # raleigh
 
 ## Movie updates
+### Mon 5/12 6:26pm
+
+* New screenings: 
+    * [A Minecraft Movie](https://drafthouse.com/raleigh/show/a-minecraft-movie): Thu 5/15 (4:45pm), Fri 5/16 (1:15pm), Sat 5/17 (1:15pm), Sun 5/18 (1:15pm), Mon 5/19 (4:30pm), Tue 5/20 (12:45pm), Wed 5/21 (3:15pm)
+
+    * [Clown In A Cornfield](https://drafthouse.com/raleigh/show/clown-in-a-cornfield): Thu 5/15 (3:00pm), Fri 5/16 (9:30pm), Sat 5/17 (9:45pm), Sun 5/18 (9:00pm), Mon 5/19 (9:00pm), Tue 5/20 (9:00pm), Wed 5/21 (9:00pm)
+
+    * [Final Destination Bloodlines](https://drafthouse.com/raleigh/show/final-destination-bloodlines): Thu 5/15 (7:15pm, 10:15pm), Fri 5/16 (2:00pm, 5:00pm, 8:15pm), Sat 5/17 (2:15pm, 5:15pm, 8:15pm), Mon 5/19 (3:30pm, 7:45pm, 9:30pm), Tue 5/20 (12:30pm, 3:30pm, 7:30pm), Wed 5/21 (4:30pm, 7:30pm, 10:30pm)
+
+    * [Friendship](https://drafthouse.com/raleigh/show/friendship): Thu 5/15 (5:00pm, 6:00pm, 7:45pm, 8:00pm, 9:00pm, 9:30pm), Fri 5/16 (12:00pm, 12:30pm, 3:00pm, 3:30pm, 3:45pm, 6:00pm, 7:15pm, 9:00pm), Sat 5/17 (12:15pm, 3:15pm, 4:00pm, 6:00pm, 7:00pm, 9:00pm), Sun 5/18 (11:30am, 1:30pm, 2:30pm, 4:15pm, 4:30pm, 5:30pm, 7:15pm, 7:30pm, 8:15pm, 10:30pm), Mon 5/19 (3:00pm, 4:45pm, 6:00pm, 7:15pm, 9:00pm, 10:45pm), Tue 5/20 (12:15pm, 1:15pm, 1:45pm, 3:00pm, 4:00pm, 4:30pm, 5:15pm, 6:00pm, 6:30pm, 8:00pm, 9:00pm, 10:00pm), Wed 5/21 (3:00pm, 5:15pm, 6:00pm, 7:15pm, 7:45pm, 8:00pm, 9:00pm, 10:00pm)
+
+    * [Hurry Up Tomorrow](https://drafthouse.com/raleigh/show/hurry-up-tomorrow): Sat 5/17 (3:15pm, 6:15pm, 9:15pm), Mon 5/19 (4:00pm, 6:00pm, 10:00pm), Tue 5/20 (1:00pm, 4:15pm, 7:30pm, 10:30pm), Wed 5/21 (4:15pm, 7:15pm, 10:15pm)
+
+    * [Mission Impossible The Final Reckoning](https://drafthouse.com/raleigh/show/mission-impossible-the-final-reckoning): Thu 5/22 (5:30pm)
+
+    * [Shadow Force](https://drafthouse.com/raleigh/show/shadow-force): Thu 5/15 (3:45pm, 6:45pm, 10:30pm), Fri 5/16 (12:45pm, 4:30pm, 6:30pm, 10:15pm), Sat 5/17 (12:45pm, 3:45pm, 6:30pm, 9:30pm), Sun 5/18 (12:00pm, 2:45pm, 6:00pm, 10:15pm), Mon 5/19 (3:45pm, 6:30pm, 9:30pm), Tue 5/20 (12:00pm, 3:30pm, 6:00pm, 9:30pm), Wed 5/21 (4:30pm, 6:15pm, 10:30pm)
+
+    * [Sinners](https://drafthouse.com/raleigh/show/sinners): Thu 5/15 (4:00pm, 7:15pm, 10:30pm), Fri 5/16 (11:15am, 2:35pm, 6:15pm, 9:45pm), Sat 5/17 (11:15am, 2:45pm, 6:15pm, 9:35pm), Sun 5/18 (11:15am, 2:45pm, 6:15pm, 9:35pm), Mon 5/19 (2:30pm, 6:15pm, 9:45pm), Tue 5/20 (11:15am, 2:45pm, 6:15pm, 9:45pm), Wed 5/21 (2:30pm, 6:00pm, 9:30pm)
+
+    * [The Accountant 2](https://drafthouse.com/raleigh/show/the-accountant-2): Thu 5/15 (3:00pm, 6:15pm, 9:45pm), Fri 5/16 (11:45am, 3:15pm, 6:45pm, 10:00pm), Sat 5/17 (11:45am, 3:30pm, 6:45pm, 10:00pm), Sun 5/18 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Mon 5/19 (3:15pm, 6:45pm, 10:00pm), Tue 5/20 (12:00pm, 3:15pm, 6:45pm, 10:00pm), Wed 5/21 (3:30pm, 6:45pm, 10:15pm)
+
+    * [The Legend Of Ochi](https://drafthouse.com/raleigh/show/the-legend-of-ochi): Thu 5/15 (3:30pm, 4:30pm)
+
+    * [The Wiz 1978 Re Release](https://drafthouse.com/raleigh/show/the-wiz-1978-re-release): Wed 5/21 (4:00pm)
+
+    * [Thunderbolts](https://drafthouse.com/raleigh/show/thunderbolts): Thu 5/15 (2:45pm, 4:15pm, 7:30pm, 10:45pm), Fri 5/16 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Sat 5/17 (1:00pm, 4:15pm, 7:30pm, 10:45pm), Sun 5/18 (1:00pm, 4:15pm, 7:30pm, 10:45pm), Mon 5/19 (2:45pm, 4:30pm, 7:30pm, 10:15pm, 10:45pm), Tue 5/20 (1:00pm, 2:00pm, 2:45pm, 4:15pm, 7:15pm, 10:30pm, 10:30pm), Wed 5/21 (3:30pm, 6:45pm, 10:00pm)
+
+    * [Until Dawn](https://drafthouse.com/raleigh/show/until-dawn): Thu 5/15 (10:45pm), Sat 5/17 (10:15pm), Sun 5/18 (9:15pm), Mon 5/19 (3:30pm), Tue 5/20 (10:45pm), Wed 5/21 (10:45pm)
+
 ### Mon 5/12 5:24pm
 * New movies: Jaws 1975
 
