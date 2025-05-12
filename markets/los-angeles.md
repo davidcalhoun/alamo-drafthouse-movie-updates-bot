@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 5/12 2:20pm
+* New movies: Jaws 1975
+
+
+
 ### Mon 5/12 8:26am
 * New movies: 28 Days Later
 
