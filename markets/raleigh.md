@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 5/13 12:32am
+* New movies: Ballerina
+
+* New screenings: 
+    * [Ballerina](https://drafthouse.com/raleigh/show/ballerina): Thu 6/5 (6:00pm, 9:15pm), Fri 6/6 (11:30am, 2:45pm, 6:00pm, 9:15pm), Sat 6/7 (11:30am, 2:45pm, 6:00pm, 9:15pm), Sun 6/8 (11:30am, 2:45pm, 6:00pm, 9:15pm)
+
 ### Mon 5/12 6:26pm
 
 * New screenings: 
