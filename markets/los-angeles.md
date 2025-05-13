@@ -1,6 +1,48 @@
 # los-angeles
 
 ## Movie updates
+### Mon 5/12 6:52pm
+* New movies: Friendship, The Surrender
+
+* New screenings: 
+    * [Clown In A Cornfield](https://drafthouse.com/los-angeles/show/clown-in-a-cornfield): Thu 5/15 (11:30am, 2:20pm, 5:10pm, 8:00pm, 10:45pm), Fri 5/16 (11:20am, 2:10pm, 5:00pm, 7:45pm, 11:00pm), Sat 5/17 (11:20am, 2:10pm, 5:00pm, 7:45pm, 11:00pm), Sun 5/18 (11:20am, 2:10pm, 5:00pm, 7:45pm), Mon 5/19 (11:20am, 2:10pm, 5:00pm, 7:45pm, 10:30pm), Tue 5/20 (11:20am, 2:10pm, 5:00pm, 7:45pm, 11:00pm), Wed 5/21 (11:15am, 2:00pm, 4:45pm, 7:30pm, 11:00pm)
+
+    * [Cooley High](https://drafthouse.com/los-angeles/show/cooley-high): Sun 5/18 (5:15pm), Mon 5/19 (1:10pm), Tue 5/20 (11:45am)
+
+    * [Dog Day Afternoon](https://drafthouse.com/los-angeles/show/dog-day-afternoon): Fri 5/16 (1:00pm), Sat 5/17 (1:10pm, 5:45pm), Sun 5/18 (11:45am), Mon 5/19 (12:20pm), Tue 5/20 (3:40pm), Wed 5/21 (12:40pm)
+
+    * [Fight Or Flight](https://drafthouse.com/los-angeles/show/fight-or-flight): Thu 5/15 (4:20pm, 10:20pm), Fri 5/16 (3:15pm, 9:10pm), Sat 5/17 (3:15pm, 9:10pm), Sun 5/18 (3:15pm), Mon 5/19 (3:15pm, 10:00pm), Tue 5/20 (3:15pm, 9:20pm), Wed 5/21 (3:15pm, 9:20pm)
+
+    * [Final Destination Bloodlines](https://drafthouse.com/los-angeles/show/final-destination-bloodlines): Thu 5/15 (4:20pm, 4:45pm, 7:20pm, 7:45pm, 8:15pm, 10:45pm), Fri 5/16 (11:00am, 2:00pm, 5:00pm, 7:00pm, 8:00pm, 10:30pm), Sat 5/17 (11:00am, 2:00pm, 5:00pm, 7:15pm, 8:00pm, 10:15pm, 10:30pm), Sun 5/18 (10:45am, 1:45pm, 4:45pm, 7:45pm), Mon 5/19 (1:20pm, 4:20pm, 9:35pm, 10:30pm), Tue 5/20 (11:00am, 12:30pm, 2:00pm, 3:30pm, 5:00pm, 6:30pm, 8:00pm, 9:30pm, 10:30pm), Wed 5/21 (11:00am, 12:30pm, 2:00pm, 3:30pm, 5:00pm, 6:30pm, 8:00pm, 9:30pm, 10:15pm)
+
+    * [Friendship](https://drafthouse.com/los-angeles/show/friendship): Thu 5/15 (4:35pm, 5:40pm, 7:30pm, 8:30pm, 10:25pm), Fri 5/16 (11:00am, 12:00pm, 1:50pm, 2:50pm, 4:40pm, 5:40pm, 6:10pm, 7:30pm, 8:30pm, 10:20pm), Sat 5/17 (11:00am, 12:00pm, 1:50pm, 2:50pm, 4:40pm, 5:40pm, 6:10pm, 7:30pm, 8:30pm, 10:20pm), Sun 5/18 (10:45am, 12:45pm, 1:40pm, 3:40pm, 4:35pm, 6:10pm, 6:30pm, 7:30pm), Mon 5/19 (11:00am, 12:00pm, 1:50pm, 2:50pm, 4:40pm, 5:40pm, 7:30pm, 8:30pm, 10:20pm), Tue 5/20 (11:00am, 12:00pm, 1:50pm, 2:50pm, 4:40pm, 5:40pm, 7:30pm, 8:30pm, 10:20pm), Wed 5/21 (12:00pm, 1:15pm, 2:50pm, 4:10pm, 5:40pm, 7:45pm, 8:30pm, 10:10pm)
+
+    * [Hereditary](https://drafthouse.com/los-angeles/show/hereditary): Thu 5/15 (1:00pm)
+
+    * [Hurry Up Tomorrow](https://drafthouse.com/los-angeles/show/hurry-up-tomorrow): Mon 5/19 (9:40pm), Wed 5/21 (12:50pm, 3:45pm, 6:40pm, 10:35pm)
+
+    * [Jeanne Dielman 23 Quai Du Commerce 1080 Bruxelles](https://drafthouse.com/los-angeles/show/jeanne-dielman-23-quai-du-commerce-1080-bruxelles): Thu 5/15 (12:50pm)
+
+    * [Live Intro The Surrender](https://drafthouse.com/los-angeles/show/live-intro-the-surrender): Sat 5/17 (9:00pm)
+
+    * [Magic Farm](https://drafthouse.com/los-angeles/show/magic-farm): Thu 5/15 (12:35pm, 3:20pm), Fri 5/16 (11:15am), Sat 5/17 (11:15am), Sun 5/18 (11:00am), Mon 5/19 (3:40pm), Tue 5/20 (2:45pm), Wed 5/21 (2:45pm)
+
+    * [Queer Film Theory 101 Mermaids](https://drafthouse.com/los-angeles/show/queer-film-theory-101-mermaids): Mon 5/19 (9:25pm), Tue 5/20 (10:10pm), Wed 5/21 (4:35pm, 10:10pm)
+
+    * [Sew Torn](https://drafthouse.com/los-angeles/show/sew-torn): Thu 5/15 (5:25pm), Fri 5/16 (4:15pm), Sat 5/17 (4:25pm), Sun 5/18 (8:10pm), Mon 5/19 (4:10pm)
+
+    * [Shadow Force](https://drafthouse.com/los-angeles/show/shadow-force): Thu 5/15 (11:45am, 2:40pm, 10:20pm), Fri 5/16 (9:00pm), Sat 5/17 (9:00pm), Sun 5/18 (8:15pm), Mon 5/19 (9:50pm), Tue 5/20 (9:00pm), Wed 5/21 (9:00pm)
+
+    * [Sinners](https://drafthouse.com/los-angeles/show/sinners): Thu 5/15 (11:30am, 12:00pm, 1:15pm, 3:35pm, 7:00pm, 9:25pm, 10:30pm), Fri 5/16 (11:30am, 2:00pm, 3:40pm, 5:30pm, 7:10pm, 10:40pm), Sat 5/17 (11:30am, 2:00pm, 3:35pm, 5:30pm, 7:00pm, 10:30pm), Sun 5/18 (11:30am, 1:45pm, 3:50pm, 4:50pm, 7:15pm), Mon 5/19 (11:25am, 11:50am, 3:20pm, 6:50pm, 9:20pm, 10:20pm), Tue 5/20 (11:30am, 12:10pm, 3:20pm, 5:30pm, 6:50pm, 10:20pm), Wed 5/21 (11:30am, 1:00pm, 3:20pm, 5:30pm, 6:50pm, 9:35pm, 10:20pm)
+
+    * [The Accountant 2](https://drafthouse.com/los-angeles/show/the-accountant-2): Thu 5/15 (11:45am, 3:15pm, 6:00pm), Wed 5/21 (11:15am)
+
+    * [The Shrouds](https://drafthouse.com/los-angeles/show/the-shrouds): Thu 5/15 (1:10pm, 7:10pm), Fri 5/16 (12:10pm), Sat 5/17 (12:10pm), Sun 5/18 (12:10pm), Mon 5/19 (12:10pm, 6:10pm), Tue 5/20 (12:10pm, 6:10pm), Wed 5/21 (12:10pm, 6:10pm)
+
+    * [The Surrender](https://drafthouse.com/los-angeles/show/the-surrender): Fri 5/16 (10:00pm)
+
+    * [Thunderbolts](https://drafthouse.com/los-angeles/show/thunderbolts): Thu 5/15 (12:15pm, 1:15pm, 3:00pm, 6:20pm, 9:40pm), Fri 5/16 (12:20pm, 3:00pm, 6:20pm, 9:40pm), Sat 5/17 (12:15pm, 3:00pm, 6:20pm, 9:40pm), Sun 5/18 (12:30pm, 3:00pm, 6:20pm), Mon 5/19 (11:25am, 2:40pm, 6:00pm, 9:20pm), Tue 5/20 (12:00pm, 3:00pm, 6:20pm, 9:40pm), Wed 5/21 (12:00pm, 3:00pm, 4:00pm, 6:20pm, 9:40pm)
+
 ### Mon 5/12 2:20pm
 * New movies: Jaws 1975
 
