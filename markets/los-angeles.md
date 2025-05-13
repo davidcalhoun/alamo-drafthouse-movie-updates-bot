@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 5/12 9:27pm
+* New movies: Ballerina
+
+* New screenings: 
+    * [Ballerina](https://drafthouse.com/los-angeles/show/ballerina): Thu 6/5 (6:40pm, 10:00pm), Fri 6/6 (12:00pm, 3:20pm, 6:40pm, 10:00pm), Sat 6/7 (12:00pm, 3:20pm, 6:40pm, 10:00pm), Sun 6/8 (12:00pm, 3:20pm, 6:40pm, 10:00pm), Mon 6/9 (12:00pm, 3:20pm, 6:40pm), Tue 6/10 (12:00pm, 3:20pm, 6:40pm, 10:00pm), Wed 6/11 (12:00pm, 3:20pm, 6:40pm, 10:00pm)
+
 ### Mon 5/12 6:52pm
 * New movies: Friendship, The Surrender
 
