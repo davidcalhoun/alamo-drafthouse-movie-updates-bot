@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Wed 5/14 6:32am
+* New movies: Karate Kid: Legends, When Harry Met Sally..., You've Got Mail
+
+* New screenings: 
+    * [Guest Selects When Harry Met Sally](https://drafthouse.com/los-angeles/show/guest-selects-when-harry-met-sally): Sun 6/1 (11:00am), Tue 6/3 (4:30pm)
+
+    * [Guest Selects Youve Got Mail](https://drafthouse.com/los-angeles/show/guest-selects-youve-got-mail): Sat 6/7 (11:00am)
+
+    * [Karate Kid Legends](https://drafthouse.com/los-angeles/show/karate-kid-legends): Thu 5/29 (3:30pm, 6:15pm, 9:00pm), Fri 5/30 (12:45pm, 3:30pm, 6:15pm, 9:00pm), Sat 5/31 (12:45pm, 3:30pm, 6:15pm, 9:00pm), Sun 6/1 (12:45pm, 3:30pm, 6:15pm), Mon 6/2 (12:45pm, 3:30pm, 6:15pm, 9:00pm), Tue 6/3 (12:45pm, 3:30pm, 6:15pm, 9:00pm), Wed 6/4 (12:45pm, 3:30pm, 6:15pm, 9:00pm)
+
 ### Mon 5/12 9:27pm
 * New movies: Ballerina
 
