@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Wed 5/14 9:36am
+* New movies: Karate Kid: Legends, When Harry Met Sally..., You've Got Mail
+
+* New screenings: 
+    * [Guest Selects When Harry Met Sally](https://drafthouse.com/raleigh/show/guest-selects-when-harry-met-sally): Sun 6/1 (11:30am)
+
+    * [Guest Selects Youve Got Mail](https://drafthouse.com/raleigh/show/guest-selects-youve-got-mail): Sat 6/7 (12:00pm)
+
+    * [Karate Kid Legends](https://drafthouse.com/raleigh/show/karate-kid-legends): Thu 5/29 (3:30pm, 6:15pm, 9:15pm), Fri 5/30 (12:30pm, 3:15pm, 6:15pm, 9:15pm), Sat 5/31 (12:30pm, 3:15pm, 6:15pm, 9:15pm), Sun 6/1 (12:30pm, 3:15pm, 6:15pm, 9:15pm)
+
 ### Tue 5/13 12:32am
 * New movies: Ballerina
 
