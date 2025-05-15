@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 5/15 8:53am
+* New movies: Bring Her Back
+
+* New screenings: 
+    * [Bring Her Back](https://drafthouse.com/raleigh/show/bring-her-back): Thu 5/29 (4:30pm, 7:15pm, 10:15pm), Fri 5/30 (1:00pm, 4:15pm, 7:15pm, 10:15pm), Sat 5/31 (1:00pm, 4:15pm, 7:15pm, 10:15pm), Sun 6/1 (1:00pm, 4:15pm, 7:15pm, 10:15pm)
+
 ### Wed 5/14 9:36am
 * New movies: Karate Kid: Legends, When Harry Met Sally..., You've Got Mail
 
