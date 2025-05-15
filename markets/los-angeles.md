@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 5/15 5:46am
+* New movies: Bring Her Back
+
+* New screenings: 
+    * [Bring Her Back](https://drafthouse.com/los-angeles/show/bring-her-back): Thu 5/29 (6:45pm, 8:10pm), Fri 5/30 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:40pm), Sat 5/31 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:40pm), Tue 6/3 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:40pm), Wed 6/4 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:40pm)
+
 ### Wed 5/14 6:32am
 * New movies: Karate Kid: Legends, When Harry Met Sally..., You've Got Mail
 
