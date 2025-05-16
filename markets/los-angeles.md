@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 5/16 11:30am
+
+* New screenings: 
+    * [The Surrender](https://drafthouse.com/los-angeles/show/the-surrender): Sat 5/17 (9:00pm)
+
 ### Thu 5/15 5:46am
 * New movies: Bring Her Back
 
