@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 5/16 1:24pm
+
+* New screenings: 
+    * [Sinners](https://drafthouse.com/los-angeles/show/sinners): Wed 5/21 (11:10am)
+
 ### Fri 5/16 11:30am
 
 * New screenings: 
