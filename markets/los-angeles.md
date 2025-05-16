@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 5/16 4:20pm
+
+* New screenings: 
+    * [Bring Her Back](https://drafthouse.com/los-angeles/show/bring-her-back): Thu 5/29 (10:15pm)
+
 ### Fri 5/16 1:24pm
 
 * New screenings: 
