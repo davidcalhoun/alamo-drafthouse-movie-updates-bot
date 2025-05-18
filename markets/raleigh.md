@@ -1,6 +1,20 @@
 # raleigh
 
 ## Movie updates
+### Sat 5/17 10:18pm
+* New movies: Ron Delsener Presents, Carnival of Souls, The People Under the Stairs, Crank: High Voltage, THE APPLE
+
+* New screenings: 
+    * [Live Intro Ron Delsener Presents](https://drafthouse.com/raleigh/show/live-intro-ron-delsener-presents): Wed 6/18 (6:30pm)
+
+    * [Terror Tuesday Carnival Of Souls](https://drafthouse.com/raleigh/show/terror-tuesday-carnival-of-souls): Tue 6/17 (9:35pm)
+
+    * [Terror Tuesday The People Under The Stairs](https://drafthouse.com/raleigh/show/terror-tuesday-the-people-under-the-stairs): Tue 6/24 (9:30pm)
+
+    * [Weird Wednesday Crank High Voltage](https://drafthouse.com/raleigh/show/weird-wednesday-crank-high-voltage): Wed 6/25 (9:30pm)
+
+    * [Weird Wednesday The Apple](https://drafthouse.com/raleigh/show/weird-wednesday-the-apple): Wed 6/18 (9:30pm)
+
 ### Thu 5/15 8:53am
 * New movies: Bring Her Back
 
