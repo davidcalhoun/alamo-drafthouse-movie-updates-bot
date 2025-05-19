@@ -1,6 +1,25 @@
 # raleigh
 
 ## Movie updates
+### Mon 5/19 7:24pm
+
+* New screenings: 
+    * [Final Destination Bloodlines](https://drafthouse.com/raleigh/show/final-destination-bloodlines): Fri 5/23 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 5/24 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Sun 5/25 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Mon 5/26 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Tue 5/27 (1:30pm, 4:30pm, 8:00pm, 10:35pm), Wed 5/28 (1:30pm, 4:30pm, 7:30pm, 10:30pm)
+
+    * [Friendship](https://drafthouse.com/raleigh/show/friendship): Fri 5/23 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Sat 5/24 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sun 5/25 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Mon 5/26 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Tue 5/27 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Wed 5/28 (12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
+    * [Hurry Up Tomorrow](https://drafthouse.com/raleigh/show/hurry-up-tomorrow): Fri 5/23 (10:50pm), Mon 5/26 (10:50pm), Tue 5/27 (10:55pm), Wed 5/28 (10:50pm)
+
+    * [Lilo And Stitch 2025](https://drafthouse.com/raleigh/show/lilo-and-stitch-2025): Fri 5/23 (12:30pm, 2:00pm, 3:30pm, 5:00pm, 5:30pm, 6:30pm, 8:00pm, 8:30pm, 9:30pm), Sat 5/24 (11:45am, 2:00pm, 3:30pm, 5:00pm, 5:30pm, 6:30pm, 8:00pm, 8:30pm, 9:30pm), Sun 5/25 (11:45am, 12:30pm, 2:00pm, 3:30pm, 5:00pm, 5:30pm, 6:30pm, 8:00pm, 8:30pm, 9:30pm), Mon 5/26 (11:45am, 12:30pm, 2:00pm, 3:30pm, 5:00pm, 5:30pm, 8:00pm, 8:30pm), Tue 5/27 (11:45am, 12:30pm, 2:00pm, 3:30pm, 5:00pm, 5:30pm, 6:30pm, 8:30pm), Wed 5/28 (11:45am, 12:30pm, 2:00pm, 3:30pm, 5:00pm, 5:30pm, 8:00pm, 8:30pm)
+
+    * [Mission Impossible The Final Reckoning](https://drafthouse.com/raleigh/show/mission-impossible-the-final-reckoning): Fri 5/23 (1:00pm, 2:00pm, 5:00pm, 6:00pm, 9:00pm, 9:50pm), Sat 5/24 (1:00pm, 2:00pm, 5:00pm, 6:00pm, 9:00pm, 9:50pm), Sun 5/25 (1:00pm, 2:00pm, 5:00pm, 6:00pm, 9:00pm, 9:50pm), Mon 5/26 (1:00pm, 2:00pm, 5:00pm, 6:00pm, 9:00pm, 9:50pm), Tue 5/27 (1:00pm, 2:00pm, 5:00pm, 6:00pm, 9:00pm, 9:50pm), Wed 5/28 (1:00pm, 2:00pm, 5:00pm, 6:00pm, 9:15pm, 9:50pm)
+
+    * [Sinners](https://drafthouse.com/raleigh/show/sinners): Fri 5/23 (12:30pm, 3:45pm, 7:15pm, 10:45pm), Sat 5/24 (12:30pm, 3:45pm, 7:15pm, 10:45pm, 10:50pm), Sun 5/25 (12:30pm, 3:45pm, 7:15pm, 10:35pm, 10:50pm), Mon 5/26 (12:30pm, 3:45pm, 7:15pm, 10:35pm), Tue 5/27 (12:30pm, 3:45pm, 7:15pm, 10:35pm), Wed 5/28 (12:30pm, 3:45pm, 7:15pm, 10:35pm)
+
+    * [The Accountant 2](https://drafthouse.com/raleigh/show/the-accountant-2): Fri 5/23 (1:45pm)
+
+    * [Thunderbolts](https://drafthouse.com/raleigh/show/thunderbolts): Fri 5/23 (11:45am, 3:00pm, 6:15pm, 9:30pm), Sat 5/24 (1:45pm, 2:45pm, 6:15pm, 9:30pm), Sun 5/25 (1:45pm, 2:45pm, 6:15pm, 9:30pm), Mon 5/26 (1:45pm, 2:45pm, 6:15pm, 9:30pm), Tue 5/27 (1:45pm, 2:45pm, 6:15pm, 9:30pm), Wed 5/28 (1:45pm, 2:45pm, 6:15pm, 9:30pm)
+
 ### Mon 5/19 2:36pm
 * New movies: Ebony & Ivory, The Return of the Living Dead
 
