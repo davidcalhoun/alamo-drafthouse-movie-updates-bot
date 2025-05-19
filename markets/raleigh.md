@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 5/19 9:37am
+* New movies: Escape from the 21st Century
+
+* New screenings: 
+    * [Escape From The 21st Century](https://drafthouse.com/raleigh/show/escape-from-the-21st-century): Wed 7/9 (6:30pm)
+
 ### Mon 5/19 8:55am
 * New movies: The Phoenician Scheme, The Phoenician Scheme
 
