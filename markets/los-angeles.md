@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Mon 5/19 5:48am
+* New movies: The Phoenician Scheme, The Phoenician Scheme
+
+* New screenings: 
+    * [Livestream Q A The Phoenician Scheme](https://drafthouse.com/los-angeles/show/livestream-q-a-the-phoenician-scheme): Thu 5/29 (7:00pm)
+
+    * [The Phoenician Scheme](https://drafthouse.com/los-angeles/show/the-phoenician-scheme): Thu 6/5 (2:00pm, 4:50pm, 7:45pm, 10:35pm), Fri 6/6 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:25pm), Sat 6/7 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:25pm), Sun 6/8 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:25pm), Mon 6/9 (11:00am, 1:50pm, 4:40pm, 7:30pm)
+
 ### Fri 5/16 4:20pm
 
 * New screenings: 
