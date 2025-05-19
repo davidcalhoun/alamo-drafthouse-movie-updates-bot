@@ -1,6 +1,38 @@
 # los-angeles
 
 ## Movie updates
+### Mon 5/19 4:20pm
+* New movies: Jaws 1975
+
+* New screenings: 
+    * [Clown In A Cornfield](https://drafthouse.com/los-angeles/show/clown-in-a-cornfield): Thu 5/22 (11:45am)
+
+    * [Dog Day Afternoon](https://drafthouse.com/los-angeles/show/dog-day-afternoon): Thu 5/22 (12:45pm)
+
+    * [Fight Or Flight](https://drafthouse.com/los-angeles/show/fight-or-flight): Thu 5/22 (12:00pm)
+
+    * [Final Destination Bloodlines](https://drafthouse.com/los-angeles/show/final-destination-bloodlines): Thu 5/22 (12:40pm, 1:40pm, 4:40pm, 7:45pm, 11:00pm), Fri 5/23 (10:40am, 1:40pm, 4:40pm, 7:45pm, 9:40pm), Sat 5/24 (10:40am, 1:40pm, 4:40pm, 7:45pm, 9:40pm), Sun 5/25 (10:40am, 1:40pm, 4:40pm, 7:45pm, 9:40pm), Mon 5/26 (10:40am, 1:40pm, 4:40pm, 7:45pm, 9:40pm), Tue 5/27 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Wed 5/28 (12:35pm, 3:35pm, 6:40pm, 10:40pm)
+
+    * [Friendship](https://drafthouse.com/los-angeles/show/friendship): Thu 5/22 (12:10pm, 2:10pm, 4:40pm, 7:30pm, 10:20pm), Fri 5/23 (10:45am, 1:35pm, 4:25pm, 7:20pm, 10:10pm), Sat 5/24 (10:45am, 1:35pm, 4:25pm, 7:20pm, 10:10pm), Sun 5/25 (10:45am, 1:35pm, 4:25pm, 7:20pm, 10:10pm), Mon 5/26 (10:45am, 1:35pm, 4:25pm, 7:20pm, 10:10pm), Tue 5/27 (11:00am, 2:00pm, 4:50pm, 7:45pm, 10:35pm), Wed 5/28 (11:10am, 2:00pm, 4:50pm, 7:45pm, 10:35pm)
+
+    * [Hurry Up Tomorrow](https://drafthouse.com/los-angeles/show/hurry-up-tomorrow): Thu 5/22 (12:15pm, 10:45pm), Fri 5/23 (11:00pm), Sat 5/24 (11:00pm), Sun 5/25 (11:00pm), Mon 5/26 (11:00pm), Tue 5/27 (11:00pm), Wed 5/28 (11:00pm)
+
+    * [Jaws 1975](https://drafthouse.com/los-angeles/show/jaws-1975): Fri 5/23 (1:00pm), Sat 5/24 (10:30am, 9:15pm), Sun 5/25 (10:30am, 1:45pm), Mon 5/26 (12:40pm, 10:40pm), Wed 5/28 (4:00pm)
+
+    * [Lilo And Stitch 2025](https://drafthouse.com/los-angeles/show/lilo-and-stitch-2025): Thu 5/22 (3:40pm, 4:00pm, 6:40pm, 10:40pm), Fri 5/23 (12:40pm, 3:40pm, 6:40pm, 10:45pm), Sat 5/24 (12:40pm, 3:40pm, 6:40pm, 10:45pm), Sun 5/25 (12:40pm, 3:40pm, 6:40pm, 10:45pm), Mon 5/26 (12:40pm, 3:40pm, 6:40pm, 10:45pm), Tue 5/27 (12:40pm, 1:00pm, 3:40pm, 4:00pm, 6:40pm, 10:50pm), Wed 5/28 (12:10pm, 1:00pm, 4:00pm, 5:15pm, 7:30pm, 9:45pm)
+
+    * [Mission Impossible The Final Reckoning](https://drafthouse.com/los-angeles/show/mission-impossible-the-final-reckoning): Thu 5/22 (3:20pm, 4:30pm, 8:30pm, 9:45pm), Fri 5/23 (1:00pm, 4:15pm, 5:00pm, 8:15pm, 9:00pm), Sat 5/24 (12:15pm, 4:15pm, 5:15pm, 8:15pm), Sun 5/25 (12:00pm, 4:00pm, 5:00pm, 8:00pm, 9:00pm), Mon 5/26 (12:15pm, 4:15pm, 8:15pm), Tue 5/27 (11:20am, 12:45pm, 3:10pm, 4:45pm, 8:45pm, 9:45pm), Wed 5/28 (12:00pm, 1:15pm, 3:10pm, 7:00pm, 8:15pm)
+
+    * [Shadow Force](https://drafthouse.com/los-angeles/show/shadow-force): Thu 5/22 (12:25pm)
+
+    * [Sinners](https://drafthouse.com/los-angeles/show/sinners): Thu 5/22 (1:00pm, 1:10pm, 3:20pm, 6:50pm, 10:20pm), Fri 5/23 (11:50am, 3:20pm, 6:50pm, 10:20pm), Sat 5/24 (11:50am, 3:20pm, 6:50pm, 10:20pm), Sun 5/25 (11:50am, 3:20pm, 6:50pm, 10:20pm), Mon 5/26 (11:50am, 3:20pm, 6:50pm, 10:20pm), Tue 5/27 (11:40am, 3:20pm, 6:50pm, 10:20pm), Wed 5/28 (11:50am, 3:20pm, 6:50pm, 10:20pm)
+
+    * [Sister Midnight](https://drafthouse.com/los-angeles/show/sister-midnight): Thu 5/22 (10:30pm), Wed 5/28 (10:30pm)
+
+    * [The Shrouds](https://drafthouse.com/los-angeles/show/the-shrouds): Thu 5/22 (2:50pm)
+
+    * [Thunderbolts](https://drafthouse.com/los-angeles/show/thunderbolts): Thu 5/22 (12:00pm, 2:35pm, 6:00pm, 9:20pm), Fri 5/23 (11:20am, 2:40pm, 6:00pm, 9:20pm), Sat 5/24 (11:20am, 2:40pm, 6:00pm, 9:20pm), Sun 5/25 (11:20am, 2:40pm, 6:00pm, 9:20pm), Mon 5/26 (11:20am, 2:40pm, 6:00pm, 9:20pm), Tue 5/27 (11:30am, 2:50pm, 6:10pm, 9:30pm), Wed 5/28 (11:30am, 2:50pm, 6:10pm, 9:30pm)
+
 ### Mon 5/19 5:48am
 * New movies: The Phoenician Scheme, The Phoenician Scheme
 
