@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Mon 5/19 2:36pm
+* New movies: Ebony & Ivory, The Return of the Living Dead
+
+* New screenings: 
+    * [Ebony Ivory](https://drafthouse.com/raleigh/show/ebony-ivory): Fri 8/8 (9:30pm), Sat 8/9 (9:30pm)
+
+    * [Terror Tuesday The Return Of The Living Dead](https://drafthouse.com/raleigh/show/terror-tuesday-the-return-of-the-living-dead): Tue 6/3 (9:35pm)
+
 ### Mon 5/19 9:37am
 * New movies: Escape from the 21st Century
 
