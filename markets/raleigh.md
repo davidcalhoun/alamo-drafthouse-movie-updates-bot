@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Mon 5/19 8:55am
+* New movies: The Phoenician Scheme, The Phoenician Scheme
+
+* New screenings: 
+    * [Livestream Q A The Phoenician Scheme](https://drafthouse.com/raleigh/show/livestream-q-a-the-phoenician-scheme): Thu 5/29 (6:30pm)
+
+    * [The Phoenician Scheme](https://drafthouse.com/raleigh/show/the-phoenician-scheme): Thu 6/5 (4:00pm, 7:00pm, 10:00pm), Fri 6/6 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Sat 6/7 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Sun 6/8 (12:30pm, 3:45pm, 7:00pm, 10:15pm)
+
 ### Sat 5/17 10:18pm
 * New movies: Ron Delsener Presents, Carnival of Souls, The People Under the Stairs, Crank: High Voltage, THE APPLE
 
