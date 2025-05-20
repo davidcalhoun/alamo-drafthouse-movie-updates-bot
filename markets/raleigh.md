@@ -1,6 +1,25 @@
 # raleigh
 
 ## Movie updates
+### Mon 5/19 10:07pm
+
+* New screenings: 
+    * [Final Destination Bloodlines](https://drafthouse.com/raleigh/show/final-destination-bloodlines): Thu 5/22 (3:15pm, 6:15pm, 9:15pm)
+
+    * [Friendship](https://drafthouse.com/raleigh/show/friendship): Thu 5/22 (4:30pm, 7:30pm, 10:30pm)
+
+    * [Hurry Up Tomorrow](https://drafthouse.com/raleigh/show/hurry-up-tomorrow): Thu 5/22 (10:45pm)
+
+    * [Lilo And Stitch 2025](https://drafthouse.com/raleigh/show/lilo-and-stitch-2025): Thu 5/22 (4:15pm, 4:45pm, 7:15pm, 7:45pm)
+
+    * [Mission Impossible The Final Reckoning](https://drafthouse.com/raleigh/show/mission-impossible-the-final-reckoning): Thu 5/22 (3:30pm, 4:00pm, 7:30pm, 8:00pm)
+
+    * [Sinners](https://drafthouse.com/raleigh/show/sinners): Thu 5/22 (3:15pm, 6:30pm, 9:50pm)
+
+    * [The Accountant 2](https://drafthouse.com/raleigh/show/the-accountant-2): Thu 5/22 (10:15pm)
+
+    * [Thunderbolts](https://drafthouse.com/raleigh/show/thunderbolts): Thu 5/22 (2:30pm, 6:00pm, 9:15pm)
+
 ### Mon 5/19 7:24pm
 
 * New screenings: 
