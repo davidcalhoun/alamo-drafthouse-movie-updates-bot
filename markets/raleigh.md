@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 5/20 2:37am
+* New movies: School in the Crosshairs
+
+* New screenings: 
+    * [Weird Wednesday School In The Crosshairs](https://drafthouse.com/raleigh/show/weird-wednesday-school-in-the-crosshairs): Wed 6/11 (9:45pm)
+
 ### Mon 5/19 10:07pm
 
 * New screenings: 
