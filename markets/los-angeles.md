@@ -1,6 +1,32 @@
 # los-angeles
 
 ## Movie updates
+### Tue 5/20 8:25am
+* New movies: Legally Blonde 2: Red, White & Blonde, Midsommar, Bride of Chucky, Frankenhooker, Knife + Heart, Showgirls, The Hunger, Bound 1996, Pink Narcissus, The Birdcage, The Broken Hearts Club: A Romantic Comedy
+
+* New screenings: 
+    * [Bound](https://drafthouse.com/los-angeles/show/bound): Mon 6/23 (7:20pm)
+
+    * [Bride Of Chucky](https://drafthouse.com/los-angeles/show/bride-of-chucky): Tue 6/10 (9:40pm)
+
+    * [Frankenhooker](https://drafthouse.com/los-angeles/show/frankenhooker): Mon 6/30 (10:05pm)
+
+    * [Knife Heart](https://drafthouse.com/los-angeles/show/knife-heart): Mon 6/16 (9:45pm)
+
+    * [Movie Party Legally Blonde 2 Red White Blonde](https://drafthouse.com/los-angeles/show/movie-party-legally-blonde-2-red-white-blonde): Sun 6/29 (12:00pm, 2:45pm), Mon 6/30 (7:20pm), Tue 7/1 (7:20pm)
+
+    * [Movie Party Midsommar](https://drafthouse.com/los-angeles/show/movie-party-midsommar): Sat 6/21 (12:00pm)
+
+    * [Pink Narcissus](https://drafthouse.com/los-angeles/show/pink-narcissus): Mon 6/30 (9:30pm)
+
+    * [Queer Film Theory 101 Showgirls](https://drafthouse.com/los-angeles/show/queer-film-theory-101-showgirls): Mon 6/16 (6:15pm)
+
+    * [The Birdcage](https://drafthouse.com/los-angeles/show/the-birdcage): Sun 6/15 (11:50am)
+
+    * [The Broken Hearts Club A Romantic Comedy](https://drafthouse.com/los-angeles/show/the-broken-hearts-club-a-romantic-comedy): Tue 6/24 (7:20pm)
+
+    * [The Hunger](https://drafthouse.com/los-angeles/show/the-hunger): Mon 6/23 (9:15pm)
+
 ### Tue 5/20 6:34am
 * New movies: Miley Cyrus: Something Beautiful
 
