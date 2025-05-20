@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 5/20 5:48am
+* New movies: Jurassic World Rebirth
+
+* New screenings: 
+    * [Jurassic World Rebirth](https://drafthouse.com/los-angeles/show/jurassic-world-rebirth): Wed 7/2 (11:00am, 12:10pm, 2:20pm, 3:35pm, 5:45pm, 7:00pm, 9:10pm, 10:25pm), Thu 7/3 (11:00am, 12:10pm, 2:20pm, 3:35pm, 5:45pm, 7:00pm, 9:10pm, 10:25pm), Fri 7/4 (11:00am, 12:10pm, 2:20pm, 3:35pm, 5:45pm, 7:00pm), Sat 7/5 (11:00am, 12:10pm, 2:20pm, 3:35pm, 5:45pm, 7:00pm, 9:10pm, 10:25pm), Sun 7/6 (11:00am, 12:10pm, 2:20pm, 3:35pm, 5:45pm, 7:00pm), Mon 7/7 (11:00am, 12:10pm, 2:20pm, 3:35pm, 5:45pm, 7:00pm, 9:10pm, 10:25pm), Tue 7/8 (11:00am, 12:10pm, 2:20pm, 3:35pm, 5:45pm, 7:00pm, 9:10pm, 10:25pm), Wed 7/9 (11:00am, 12:10pm, 2:20pm, 3:35pm, 5:45pm, 7:00pm, 9:10pm, 10:25pm), Thu 7/10 (12:10pm, 3:35pm, 7:00pm, 10:25pm), Fri 7/11 (12:10pm, 3:35pm, 7:00pm, 10:25pm), Sat 7/12 (12:10pm, 3:35pm, 7:00pm, 10:25pm), Sun 7/13 (12:10pm, 3:35pm, 7:00pm), Mon 7/14 (12:10pm, 3:35pm, 7:00pm, 10:25pm), Tue 7/15 (12:10pm, 3:35pm, 7:00pm, 10:25pm), Wed 7/16 (12:10pm, 3:35pm, 7:00pm, 10:25pm)
+
 ### Mon 5/19 4:20pm
 * New movies: Jaws 1975
 
