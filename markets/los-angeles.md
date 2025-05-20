@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 5/20 6:34am
+* New movies: Miley Cyrus: Something Beautiful
+
+* New screenings: 
+    * [Special Event Miley Cyrus Something Beautiful Release Party](https://drafthouse.com/los-angeles/show/special-event-miley-cyrus-something-beautiful-release-party): Thu 6/12 (6:00pm)
+
 ### Tue 5/20 5:48am
 * New movies: Jurassic World Rebirth
 
