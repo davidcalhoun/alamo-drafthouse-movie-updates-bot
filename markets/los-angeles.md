@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 5/20 3:20pm
+
+* New screenings: 
+    * [Special Event 28 Days Later Re Issue](https://drafthouse.com/los-angeles/show/special-event-28-days-later-re-issue): Wed 5/21 (9:00pm)
+
 ### Tue 5/20 8:25am
 * New movies: Legally Blonde 2: Red, White & Blonde, Midsommar, Bride of Chucky, Frankenhooker, Knife + Heart, Showgirls, The Hunger, Bound 1996, Pink Narcissus, The Birdcage, The Broken Hearts Club: A Romantic Comedy
 
