@@ -1,6 +1,46 @@
 # raleigh
 
 ## Movie updates
+### Tue 5/20 11:29am
+* New movies: Hotel Transylvania, Minions: The Rise of Gru, Puss In Boots: The Last Wish, The Wild Robot, Lyle, Lyle, Crocodile, The Bad Guys, The Garfield Movie 2024, Legally Blonde 2: Red, White & Blonde, Midsommar, Bride of Chucky, Frankenhooker, Knife + Heart, Showgirls, The Hunger, Bound 1996, The Birdcage, The Broken Hearts Club: A Romantic Comedy, The Hunger Games: Mockingjay - Part 2
+
+* New screenings: 
+    * [Bound](https://drafthouse.com/raleigh/show/bound): Wed 6/25 (6:30pm)
+
+    * [Bride Of Chucky](https://drafthouse.com/raleigh/show/bride-of-chucky): Tue 6/10 (6:30pm)
+
+    * [Frankenhooker](https://drafthouse.com/raleigh/show/frankenhooker): Mon 6/30 (9:30pm)
+
+    * [Kids Camp Hotel Transylvania](https://drafthouse.com/raleigh/show/kids-camp-hotel-transylvania): Fri 6/27 (12:15pm), Mon 6/30 (12:15pm), Tue 7/1 (12:15pm), Wed 7/2 (11:45am)
+
+    * [Kids Camp Lyle Lyle Crocodile](https://drafthouse.com/raleigh/show/kids-camp-lyle-lyle-crocodile): Mon 6/23 (12:15pm), Tue 6/24 (12:15pm), Wed 6/25 (12:15pm)
+
+    * [Kids Camp Minions The Rise Of Gru](https://drafthouse.com/raleigh/show/kids-camp-minions-the-rise-of-gru): Fri 7/25 (11:45am), Mon 7/28 (12:15pm), Tue 7/29 (12:15pm), Wed 7/30 (12:15pm)
+
+    * [Kids Camp Puss In Boots The Last Wish](https://drafthouse.com/raleigh/show/kids-camp-puss-in-boots-the-last-wish): Fri 7/18 (11:45am), Mon 7/21 (12:15pm), Tue 7/22 (12:15pm), Wed 7/23 (12:15pm)
+
+    * [Kids Camp The Bad Guys](https://drafthouse.com/raleigh/show/kids-camp-the-bad-guys): Mon 7/7 (12:15pm), Tue 7/8 (12:15pm), Wed 7/9 (12:15pm)
+
+    * [Kids Camp The Garfield Movie 2024](https://drafthouse.com/raleigh/show/kids-camp-the-garfield-movie-2024): Mon 6/16 (12:30pm), Tue 6/17 (12:15pm), Wed 6/18 (12:15pm)
+
+    * [Kids Camp The Wild Robot](https://drafthouse.com/raleigh/show/kids-camp-the-wild-robot): Fri 7/11 (11:45am), Mon 7/14 (12:15pm), Tue 7/15 (12:15pm), Wed 7/16 (12:15pm)
+
+    * [Knife Heart](https://drafthouse.com/raleigh/show/knife-heart): Mon 6/16 (9:45pm)
+
+    * [Movie Party Legally Blonde 2 Red White Blonde](https://drafthouse.com/raleigh/show/movie-party-legally-blonde-2-red-white-blonde): Tue 7/1 (6:30pm)
+
+    * [Movie Party Midsommar](https://drafthouse.com/raleigh/show/movie-party-midsommar): Sat 6/21 (11:30am)
+
+    * [Queer Film Theory 101 Showgirls](https://drafthouse.com/raleigh/show/queer-film-theory-101-showgirls): Mon 6/16 (6:30pm)
+
+    * [The Birdcage](https://drafthouse.com/raleigh/show/the-birdcage): Sun 6/15 (3:00pm)
+
+    * [The Broken Hearts Club A Romantic Comedy](https://drafthouse.com/raleigh/show/the-broken-hearts-club-a-romantic-comedy): Tue 6/24 (6:30pm)
+
+    * [The Hunger](https://drafthouse.com/raleigh/show/the-hunger): Mon 6/23 (9:45pm)
+
+    * [The Hunger Games Mockingjay Part 2](https://drafthouse.com/raleigh/show/the-hunger-games-mockingjay-part-2): Sat 6/7 (3:15pm)
+
 ### Tue 5/20 8:55am
 * New movies: Jurassic World Rebirth
 
