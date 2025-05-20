@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Tue 5/20 6:30am
+* New movies: Unfriended: Dark Web, The Timekeepers of Eternity
+
+* New screenings: 
+    * [Terror Tuesday Unfriended Dark Web](https://drafthouse.com/raleigh/show/terror-tuesday-unfriended-dark-web): Tue 6/10 (9:15pm)
+
+    * [Weird Wednesday The Timekeepers Of Eternity](https://drafthouse.com/raleigh/show/weird-wednesday-the-timekeepers-of-eternity): Wed 6/4 (9:15pm)
+
 ### Tue 5/20 2:37am
 * New movies: School in the Crosshairs
 
