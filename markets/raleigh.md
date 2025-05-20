@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 5/20 8:55am
+* New movies: Jurassic World Rebirth
+
+* New screenings: 
+    * [Jurassic World Rebirth](https://drafthouse.com/raleigh/show/jurassic-world-rebirth): Wed 7/2 (11:15am, 2:45pm, 6:00pm, 9:15pm), Thu 7/3 (11:30am, 2:45pm, 6:00pm, 9:15pm), Fri 7/4 (11:30am, 2:45pm, 6:00pm), Sat 7/5 (9:45am, 1:00pm, 4:15pm, 7:30pm, 10:45pm), Sun 7/6 (9:45am, 1:00pm, 4:15pm, 7:30pm, 10:45pm), Mon 7/7 (11:30am, 2:45pm, 6:00pm, 9:15pm), Tue 7/8 (11:30am, 2:45pm, 6:00pm, 9:15pm), Wed 7/9 (11:30am, 2:45pm, 6:00pm, 9:15pm)
+
 ### Tue 5/20 6:30am
 * New movies: Unfriended: Dark Web, The Timekeepers of Eternity
 
