@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Wed 5/21 9:36am
+* New movies: Dangerous Animals, Dangerous Animals, THE LIFE OF CHUCK with Livestream Q&A
+
+* New screenings: 
+    * [Dangerous Animals](https://drafthouse.com/raleigh/show/dangerous-animals): Thu 6/5 (4:30pm, 7:30pm, 10:30pm), Fri 6/6 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Sat 6/7 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Sun 6/8 (1:30pm, 4:30pm, 7:30pm, 10:30pm)
+
+    * [Livestream Q A Dangerous Animals](https://drafthouse.com/raleigh/show/livestream-q-a-dangerous-animals): Mon 6/2 (8:00pm)
+
+    * [The Life Of Chuck With Livestream Qa](https://drafthouse.com/raleigh/show/the-life-of-chuck-with-livestream-qa): Sun 6/1 (6:00pm)
+
 ### Tue 5/20 11:29am
 * New movies: Hotel Transylvania, Minions: The Rise of Gru, Puss In Boots: The Last Wish, The Wild Robot, Lyle, Lyle, Crocodile, The Bad Guys, The Garfield Movie 2024, Legally Blonde 2: Red, White & Blonde, Midsommar, Bride of Chucky, Frankenhooker, Knife + Heart, Showgirls, The Hunger, Bound 1996, The Birdcage, The Broken Hearts Club: A Romantic Comedy, The Hunger Games: Mockingjay - Part 2
 
