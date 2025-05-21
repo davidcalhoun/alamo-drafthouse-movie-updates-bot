@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Wed 5/21 6:33am
+* New movies: Dangerous Animals, Dangerous Animals, THE LIFE OF CHUCK with Livestream Q&A
+
+* New screenings: 
+    * [Dangerous Animals](https://drafthouse.com/los-angeles/show/dangerous-animals): Thu 6/5 (4:10pm, 7:00pm, 9:50pm), Fri 6/6 (11:20am, 2:10pm, 5:00pm, 7:50pm, 10:40pm), Sat 6/7 (11:20am, 2:10pm, 5:00pm, 7:50pm, 10:40pm), Sun 6/8 (11:20am, 2:10pm, 5:00pm, 7:50pm, 10:40pm), Mon 6/9 (11:20am, 2:10pm, 5:00pm, 7:50pm), Tue 6/10 (11:20am, 2:10pm, 5:00pm, 7:50pm, 10:40pm), Wed 6/11 (11:20am, 2:10pm, 5:00pm, 7:50pm, 10:40pm)
+
+    * [Livestream Q A Dangerous Animals](https://drafthouse.com/los-angeles/show/livestream-q-a-dangerous-animals): Mon 6/2 (5:00pm)
+
+    * [The Life Of Chuck With Livestream Qa](https://drafthouse.com/los-angeles/show/the-life-of-chuck-with-livestream-qa): Sun 6/1 (3:00pm)
+
 ### Wed 5/21 5:47am
 * New movies: The Life of Chuck
 
