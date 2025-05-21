@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 5/21 10:28am
+* New movies: The Life of Chuck
+
+* New screenings: 
+    * [The Life Of Chuck](https://drafthouse.com/raleigh/show/the-life-of-chuck): Thu 6/12 (7:45pm), Fri 6/13 (7:30pm), Sat 6/14 (7:30pm), Sun 6/15 (7:30pm)
+
 ### Wed 5/21 9:36am
 * New movies: Dangerous Animals, Dangerous Animals, THE LIFE OF CHUCK with Livestream Q&A
 
