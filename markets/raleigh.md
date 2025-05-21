@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 5/21 12:34pm
+* New movies: F1 The Movie, The Life of Chuck
+
+* New screenings: 
+    * [F1 The Movie](https://drafthouse.com/raleigh/show/f1-the-movie): Thu 6/26 (7:00pm, 10:45pm), Fri 6/27 (11:30am, 3:15pm, 7:00pm, 10:45pm), Sat 6/28 (11:30am, 3:15pm, 7:00pm, 10:45pm), Sun 6/29 (11:30am, 3:15pm, 7:00pm, 10:45pm), Mon 6/30 (11:30am, 3:15pm, 7:00pm, 10:45pm), Tue 7/1 (11:30am, 3:15pm, 7:00pm, 10:45pm)
+
 ### Wed 5/21 10:28am
 * New movies: The Life of Chuck
 
