@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 5/21 9:29am
+* New movies: F1 The Movie, The Life of Chuck
+
+* New screenings: 
+    * [F1 The Movie](https://drafthouse.com/los-angeles/show/f1-the-movie): Thu 6/26 (3:00pm, 6:45pm, 10:30pm), Fri 6/27 (11:00am, 2:45pm, 6:30pm, 10:15pm), Sat 6/28 (11:00am, 2:45pm, 6:30pm, 10:15pm), Sun 6/29 (11:00am, 2:45pm, 6:30pm), Mon 6/30 (11:00am, 2:45pm, 6:30pm, 10:15pm), Tue 7/1 (11:00am, 2:45pm, 6:30pm, 10:15pm)
+
 ### Wed 5/21 6:33am
 * New movies: Dangerous Animals, Dangerous Animals, THE LIFE OF CHUCK with Livestream Q&A
 
