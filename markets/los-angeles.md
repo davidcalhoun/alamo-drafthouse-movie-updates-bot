@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 5/21 5:47am
+* New movies: The Life of Chuck
+
+* New screenings: 
+    * [The Life Of Chuck](https://drafthouse.com/los-angeles/show/the-life-of-chuck): Thu 6/12 (4:00pm, 7:10pm, 10:15pm), Fri 6/13 (1:00pm, 4:00pm, 7:10pm, 10:15pm), Sat 6/14 (1:00pm, 4:00pm, 7:10pm, 10:15pm), Sun 6/15 (1:00pm, 4:00pm, 7:10pm, 10:15pm), Mon 6/16 (1:00pm, 4:00pm, 7:10pm, 10:15pm), Tue 6/17 (1:00pm, 4:00pm, 7:10pm, 10:15pm), Wed 6/18 (1:00pm, 4:00pm, 7:10pm, 10:15pm)
+
 ### Tue 5/20 3:20pm
 
 * New screenings: 
