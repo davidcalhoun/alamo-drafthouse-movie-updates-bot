@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Thu 5/22 3:21pm
+
+* New screenings: 
+    * [Friendship](https://drafthouse.com/raleigh/show/friendship): Sat 5/24 (9:50pm), Sun 5/25 (9:50pm)
+
 ### Thu 5/22 10:27am
 * New movies: CatVideoFest 2025
 
