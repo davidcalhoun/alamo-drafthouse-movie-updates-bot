@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 5/22 7:22am
+* New movies: CatVideoFest 2025
+
+* New screenings: 
+    * [Catvideofest 2025](https://drafthouse.com/los-angeles/show/catvideofest-2025): Sat 8/2 (11:30am, 2:00pm), Sun 8/3 (11:30am, 2:00pm)
+
 ### Thu 5/22 3:24am
 * New movies: Ebony & Ivory
 
