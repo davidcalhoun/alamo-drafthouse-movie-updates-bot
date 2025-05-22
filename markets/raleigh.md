@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 5/22 10:27am
+* New movies: CatVideoFest 2025
+
+* New screenings: 
+    * [Catvideofest 2025](https://drafthouse.com/raleigh/show/catvideofest-2025): Sat 8/2 (11:30am), Sun 8/3 (11:30am)
+
 ### Wed 5/21 12:34pm
 * New movies: F1 The Movie, The Life of Chuck
 
