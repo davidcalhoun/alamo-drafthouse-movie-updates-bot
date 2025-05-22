@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 5/22 3:24am
+* New movies: Ebony & Ivory
+
+* New screenings: 
+    * [Ebony Ivory](https://drafthouse.com/los-angeles/show/ebony-ivory): Fri 8/8 (9:30pm), Sat 8/9 (9:30pm)
+
 ### Wed 5/21 9:29am
 * New movies: F1 The Movie, The Life of Chuck
 
