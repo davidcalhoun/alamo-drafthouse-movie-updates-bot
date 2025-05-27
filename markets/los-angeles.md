@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 5/27 6:34am
+* New movies: Elio
+
+* New screenings: 
+    * [Elio](https://drafthouse.com/los-angeles/show/elio): Thu 6/19 (3:20pm, 6:10pm, 9:00pm), Fri 6/20 (12:30pm, 3:20pm, 6:10pm, 9:00pm), Sat 6/21 (12:30pm, 3:20pm, 6:10pm, 9:00pm), Sun 6/22 (12:30pm, 3:20pm, 6:10pm), Mon 6/23 (12:30pm, 3:20pm, 6:10pm, 9:00pm), Tue 6/24 (12:30pm, 3:20pm, 6:10pm, 9:00pm), Wed 6/25 (12:30pm, 3:20pm, 6:10pm, 9:00pm)
+
 ### Thu 5/22 7:22am
 * New movies: CatVideoFest 2025
 
