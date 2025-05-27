@@ -1,6 +1,35 @@
 # los-angeles
 
 ## Movie updates
+### Tue 5/27 4:20pm
+
+* New screenings: 
+    * [Bring Her Back](https://drafthouse.com/los-angeles/show/bring-her-back): Thu 5/29 (12:15pm, 6:00pm, 9:40pm), Fri 5/30 (12:15pm, 6:10pm, 7:00pm, 10:20pm), Sat 5/31 (12:15pm, 7:00pm, 9:35pm), Sun 6/1 (12:00pm, 12:15pm, 1:50pm, 4:45pm, 6:20pm, 8:00pm), Mon 6/2 (11:00am, 12:15pm, 2:00pm, 7:00pm, 8:15pm, 10:20pm), Tue 6/3 (12:05pm), Wed 6/4 (12:15pm, 7:00pm)
+
+    * [Final Destination Bloodlines](https://drafthouse.com/los-angeles/show/final-destination-bloodlines): Thu 5/29 (12:25pm, 3:00pm, 7:10pm, 9:00pm), Fri 5/30 (1:00pm, 4:00pm, 7:10pm, 9:50pm), Sat 5/31 (1:00pm, 4:00pm, 7:10pm, 9:50pm), Sun 6/1 (1:00pm, 4:00pm, 7:10pm), Mon 6/2 (1:00pm, 4:00pm, 7:10pm, 9:50pm), Tue 6/3 (1:10pm, 4:10pm, 7:00pm, 10:10pm), Wed 6/4 (1:00pm, 4:00pm, 7:10pm, 9:50pm)
+
+    * [Friendship](https://drafthouse.com/los-angeles/show/friendship): Thu 5/29 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Fri 5/30 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Sat 5/31 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Sun 6/1 (11:10am, 2:00pm, 4:50pm, 7:40pm), Mon 6/2 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Tue 6/3 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Wed 6/4 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm)
+
+    * [Guest Selects When Harry Met Sally](https://drafthouse.com/los-angeles/show/guest-selects-when-harry-met-sally): Tue 6/3 (9:15pm), Wed 6/4 (12:30pm)
+
+    * [Jaws 1975](https://drafthouse.com/los-angeles/show/jaws-1975): Thu 5/29 (12:10pm)
+
+    * [Lilo And Stitch 2025](https://drafthouse.com/los-angeles/show/lilo-and-stitch-2025): Thu 5/29 (11:45am, 12:45pm, 2:45pm, 3:45pm, 4:00pm, 5:45pm, 8:45pm), Fri 5/30 (11:45am, 12:45pm, 1:40pm, 2:45pm, 3:45pm, 5:45pm, 8:45pm), Sat 5/31 (11:45am, 12:45pm, 2:45pm, 3:45pm, 5:45pm, 8:45pm), Sun 6/1 (11:45am, 12:45pm, 2:45pm, 3:45pm, 5:45pm), Mon 6/2 (11:45am, 12:45pm, 2:45pm, 3:45pm, 8:45pm), Tue 6/3 (11:45am, 12:45pm, 2:45pm, 3:45pm, 5:45pm, 8:45pm), Wed 6/4 (11:45am, 12:45pm, 1:40pm, 2:45pm, 3:45pm, 5:45pm, 8:45pm)
+
+    * [Midnight Run](https://drafthouse.com/los-angeles/show/midnight-run): Fri 5/30 (11:50am), Mon 6/2 (12:00pm), Tue 6/3 (11:45am, 10:00pm), Wed 6/4 (10:15pm)
+
+    * [Mission Impossible The Final Reckoning](https://drafthouse.com/los-angeles/show/mission-impossible-the-final-reckoning): Thu 5/29 (12:00pm, 12:30pm, 3:10pm, 4:30pm, 8:30pm), Fri 5/30 (12:30pm, 3:10pm, 4:30pm, 8:30pm, 9:10pm), Sat 5/31 (12:30pm, 3:10pm, 4:30pm, 5:30pm, 8:30pm, 9:10pm), Sun 6/1 (12:30pm, 3:10pm, 7:00pm, 7:30pm), Mon 6/2 (12:30pm, 3:10pm, 4:30pm, 8:30pm), Tue 6/3 (12:30pm, 3:00pm, 4:30pm, 8:30pm), Wed 6/4 (12:00pm, 3:10pm, 4:00pm, 10:00pm)
+
+    * [Sinners](https://drafthouse.com/los-angeles/show/sinners): Thu 5/29 (6:45pm, 10:15pm), Fri 5/30 (6:45pm, 10:15pm), Sat 5/31 (6:45pm, 10:15pm), Sun 6/1 (6:45pm), Mon 6/2 (6:45pm, 10:15pm), Tue 6/3 (6:45pm, 10:15pm), Wed 6/4 (6:45pm, 10:15pm)
+
+    * [Sister Midnight](https://drafthouse.com/los-angeles/show/sister-midnight): Thu 5/29 (11:15am, 2:15pm, 5:15pm, 10:10pm), Fri 5/30 (3:10pm, 7:20pm, 10:15pm), Sat 5/31 (3:10pm, 6:10pm, 10:15pm), Sun 6/1 (1:30pm, 4:30pm, 7:40pm), Mon 6/2 (4:20pm, 5:45pm, 10:10pm), Tue 6/3 (3:00pm, 7:10pm, 10:00pm), Wed 6/4 (3:20pm, 8:00pm, 10:15pm)
+
+    * [Stand By Me 1986](https://drafthouse.com/los-angeles/show/stand-by-me-1986): Fri 5/30 (11:00am), Sat 5/31 (12:30pm), Mon 6/2 (1:40pm), Tue 6/3 (11:10am), Wed 6/4 (11:00am)
+
+    * [Thunderbolts](https://drafthouse.com/los-angeles/show/thunderbolts): Thu 5/29 (11:40am, 3:25pm)
+
+    * [Tornado](https://drafthouse.com/los-angeles/show/tornado): Sun 6/1 (10:45am), Mon 6/2 (11:00am), Tue 6/3 (1:50pm)
+
 ### Tue 5/27 6:34am
 * New movies: Elio
 
