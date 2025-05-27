@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 5/27 9:37am
+* New movies: Elio
+
+* New screenings: 
+    * [Elio](https://drafthouse.com/raleigh/show/elio): Thu 6/19 (6:15pm), Fri 6/20 (6:15pm), Sat 6/21 (6:15pm), Sun 6/22 (6:15pm)
+
 ### Thu 5/22 3:21pm
 
 * New screenings: 
