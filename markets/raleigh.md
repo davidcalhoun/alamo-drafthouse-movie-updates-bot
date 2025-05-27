@@ -1,6 +1,29 @@
 # raleigh
 
 ## Movie updates
+### Tue 5/27 2:36pm
+
+* New screenings: 
+    * [Bring Her Back](https://drafthouse.com/raleigh/show/bring-her-back): Mon 6/2 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Tue 6/3 (1:00pm, 4:15pm, 7:15pm, 10:15pm), Wed 6/4 (1:00pm, 4:15pm, 7:15pm, 10:15pm)
+
+    * [Dangerous Animals](https://drafthouse.com/raleigh/show/dangerous-animals): Thu 6/5 (4:30pm, 10:30pm)
+
+    * [Final Destination Bloodlines](https://drafthouse.com/raleigh/show/final-destination-bloodlines): Thu 5/29 (1:15pm, 3:45pm, 6:45pm, 9:45pm), Fri 5/30 (1:30pm, 4:45pm, 7:45pm, 10:45pm), Sat 5/31 (1:30pm, 4:45pm, 7:45pm, 10:50pm), Sun 6/1 (1:30pm, 4:45pm, 7:45pm, 10:45pm), Mon 6/2 (1:30pm, 4:45pm, 7:45pm, 10:45pm), Tue 6/3 (1:30pm, 4:45pm, 7:45pm, 10:45pm), Wed 6/4 (1:30pm, 4:45pm, 7:45pm, 10:45pm)
+
+    * [Friendship](https://drafthouse.com/raleigh/show/friendship): Thu 5/29 (1:00pm, 4:15pm, 7:30pm, 10:30pm), Fri 5/30 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Sat 5/31 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Sun 6/1 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Mon 6/2 (12:30pm, 3:30pm, 6:30pm, 9:15pm), Tue 6/3 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Wed 6/4 (1:30pm, 4:30pm, 7:30pm, 10:30pm)
+
+    * [Karate Kid Legends](https://drafthouse.com/raleigh/show/karate-kid-legends): Mon 6/2 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Tue 6/3 (12:30pm, 3:15pm, 6:15pm, 9:15pm), Wed 6/4 (12:30pm, 3:15pm, 6:15pm, 9:15pm)
+
+    * [Lilo And Stitch 2025](https://drafthouse.com/raleigh/show/lilo-and-stitch-2025): Thu 5/29 (11:30am, 12:00pm, 12:30pm, 1:30pm, 3:00pm, 4:15pm, 6:00pm, 7:15pm, 9:00pm, 10:15pm), Fri 5/30 (11:30am, 12:30pm, 1:00pm, 2:30pm, 3:30pm, 4:00pm, 6:00pm, 7:00pm, 9:00pm, 9:30pm), Sat 5/31 (11:30am, 12:30pm, 1:15pm, 2:20pm, 3:30pm, 4:15pm, 5:15pm, 6:30pm, 7:15pm, 8:15pm, 9:30pm), Sun 6/1 (12:00pm, 12:30pm, 2:30pm, 3:00pm, 3:30pm, 5:30pm, 6:30pm, 8:30pm, 9:30pm), Mon 6/2 (12:00pm, 1:00pm, 2:00pm, 3:00pm, 3:50pm, 5:00pm, 6:00pm, 9:00pm), Tue 6/3 (11:30am, 12:00pm, 1:00pm, 2:30pm, 3:30pm, 4:00pm, 6:00pm, 7:00pm, 9:00pm), Wed 6/4 (11:30am, 12:00pm, 1:00pm, 2:30pm, 3:30pm, 4:00pm, 6:00pm, 7:00pm, 9:00pm)
+
+    * [Mission Impossible The Final Reckoning](https://drafthouse.com/raleigh/show/mission-impossible-the-final-reckoning): Thu 5/29 (11:15am, 2:00pm, 2:30pm, 6:00pm, 10:00pm), Fri 5/30 (12:00pm, 2:00pm, 4:00pm, 6:00pm, 8:00pm, 9:50pm), Sat 5/31 (1:00pm, 3:05pm, 5:00pm, 7:00pm, 9:00pm, 10:00pm), Sun 6/1 (1:00pm, 2:00pm, 5:00pm, 6:00pm, 9:00pm, 9:30pm), Mon 6/2 (12:15pm, 1:30pm, 4:15pm, 5:30pm, 8:15pm, 9:45pm), Tue 6/3 (12:30pm, 2:00pm, 4:30pm, 6:00pm, 8:30pm, 9:50pm), Wed 6/4 (12:30pm, 2:00pm, 4:30pm, 6:00pm, 8:30pm, 9:50pm)
+
+    * [Sinners](https://drafthouse.com/raleigh/show/sinners): Thu 5/29 (12:15pm, 3:30pm, 7:00pm, 10:30pm), Fri 5/30 (11:30am, 2:50pm, 6:15pm, 9:45pm), Sat 5/31 (11:30am, 2:50pm, 6:15pm, 9:35pm), Sun 6/1 (11:30am, 2:50pm, 6:15pm, 9:35pm), Mon 6/2 (11:30am, 2:50pm, 6:15pm, 9:35pm), Tue 6/3 (11:30am, 2:50pm, 6:15pm, 9:45pm), Wed 6/4 (11:30am, 2:50pm, 6:15pm, 9:45pm)
+
+    * [Sister Midnight](https://drafthouse.com/raleigh/show/sister-midnight): Fri 5/30 (10:00pm), Sat 5/31 (10:15pm), Sun 6/1 (10:00pm), Mon 6/2 (6:45pm), Tue 6/3 (10:15pm), Wed 6/4 (10:15pm)
+
+    * [Thunderbolts](https://drafthouse.com/raleigh/show/thunderbolts): Thu 5/29 (11:30am, 2:45pm, 6:15pm, 9:30pm), Fri 5/30 (12:00pm, 3:30pm, 6:45pm, 10:15pm), Sat 5/31 (12:00pm, 3:15pm, 6:45pm, 10:45pm), Sun 6/1 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Mon 6/2 (12:30pm, 4:00pm, 7:15pm, 10:30pm), Tue 6/3 (12:00pm, 3:30pm, 6:45pm, 10:00pm), Wed 6/4 (12:00pm, 3:30pm, 6:45pm, 10:00pm)
+
 ### Tue 5/27 9:37am
 * New movies: Elio
 
