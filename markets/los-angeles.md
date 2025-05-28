@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 5/28 3:20pm
+* New movies: Friday the 13th 1980
+
+* New screenings: 
+    * [Friday The 13th](https://drafthouse.com/los-angeles/show/friday-the-13th): Fri 6/13 (7:20pm, 10:10pm)
+
 ### Tue 5/27 4:20pm
 
 * New screenings: 
