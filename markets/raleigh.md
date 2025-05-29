@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Thu 5/29 5:24pm
+
+* New screenings: 
+    * [Bring Her Back](https://drafthouse.com/raleigh/show/bring-her-back): Sat 5/31 (9:30pm), Sun 6/1 (9:00pm)
+
+    * [Lilo And Stitch 2025](https://drafthouse.com/raleigh/show/lilo-and-stitch-2025): Sat 5/31 (10:00pm)
+
 ### Thu 5/29 11:28am
 
 * New screenings: 
