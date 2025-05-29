@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Thu 5/29 8:54am
+* New movies: M3GAN 2.0, M3GAN 2.0
+
+* New screenings: 
+    * [Costume Screening M3gan 2 0](https://drafthouse.com/raleigh/show/costume-screening-m3gan-2-0): Thu 6/26 (7:30pm)
+
+    * [M3gan 2 0](https://drafthouse.com/raleigh/show/m3gan-2-0): Fri 6/27 (7:30pm), Sat 6/28 (7:30pm), Sun 6/29 (7:30pm)
+
 ### Tue 5/27 2:36pm
 
 * New screenings: 
