@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Thu 5/29 11:28am
+
+* New screenings: 
+    * [Lilo And Stitch 2025](https://drafthouse.com/raleigh/show/lilo-and-stitch-2025): Thu 5/29 (9:45pm)
+
 ### Thu 5/29 9:35am
 * New movies: Escape from the 21st Century
 
