@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 5/29 5:46am
+* New movies: M3GAN 2.0, M3GAN 2.0
+
+* New screenings: 
+    * [Costume Screening M3gan 2 0](https://drafthouse.com/los-angeles/show/costume-screening-m3gan-2-0): Thu 6/26 (7:00pm)
+
+    * [M3gan 2 0](https://drafthouse.com/los-angeles/show/m3gan-2-0): Thu 6/26 (3:45pm, 10:15pm), Fri 6/27 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Sat 6/28 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Sun 6/29 (12:30pm, 3:45pm, 7:00pm), Mon 6/30 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Tue 7/1 (12:30pm, 3:45pm, 7:00pm, 10:15pm)
+
 ### Wed 5/28 3:20pm
 * New movies: Friday the 13th 1980
 
