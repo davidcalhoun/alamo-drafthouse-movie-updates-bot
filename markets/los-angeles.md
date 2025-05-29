@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 5/29 6:32am
+* New movies: Escape from the 21st Century
+
+* New screenings: 
+    * [Escape From The 21st Century](https://drafthouse.com/los-angeles/show/escape-from-the-21st-century): Mon 6/9 (7:20pm)
+
 ### Thu 5/29 5:46am
 * New movies: M3GAN 2.0, M3GAN 2.0
 
