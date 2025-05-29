@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 5/29 9:35am
+* New movies: Escape from the 21st Century
+
+* New screenings: 
+    * [Escape From The 21st Century](https://drafthouse.com/raleigh/show/escape-from-the-21st-century): Wed 7/9 (6:30pm, 9:30pm)
+
 ### Thu 5/29 8:54am
 * New movies: M3GAN 2.0, M3GAN 2.0
 
