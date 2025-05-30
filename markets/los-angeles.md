@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 5/30 5:46am
+* New movies: Materialists, Materialists
+
+* New screenings: 
+    * [Advance Screening Materialists](https://drafthouse.com/los-angeles/show/advance-screening-materialists): Mon 6/9 (7:00pm)
+
+    * [Materialists](https://drafthouse.com/los-angeles/show/materialists): Thu 6/12 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Fri 6/13 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sat 6/14 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sun 6/15 (12:15pm, 3:15pm, 6:15pm), Mon 6/16 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Tue 6/17 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Wed 6/18 (12:15pm, 3:15pm, 6:15pm, 9:15pm)
+
 ### Thu 5/29 6:32am
 * New movies: Escape from the 21st Century
 
