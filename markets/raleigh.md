@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Fri 5/30 8:54am
+* New movies: Materialists, Materialists
+
+* New screenings: 
+    * [Advance Screening Materialists](https://drafthouse.com/raleigh/show/advance-screening-materialists): Mon 6/9 (7:00pm)
+
+    * [Materialists](https://drafthouse.com/raleigh/show/materialists): Thu 6/12 (6:45pm), Fri 6/13 (6:45pm), Sat 6/14 (6:45pm), Sun 6/15 (6:45pm)
+
 ### Thu 5/29 5:24pm
 
 * New screenings: 
