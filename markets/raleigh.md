@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 5/30 10:04pm
+* New movies: Friday the 13th 1980
+
+* New screenings: 
+    * [Friday The 13th](https://drafthouse.com/raleigh/show/friday-the-13th): Fri 6/13 (9:45pm)
+
 ### Fri 5/30 8:54am
 * New movies: Materialists, Materialists
 
