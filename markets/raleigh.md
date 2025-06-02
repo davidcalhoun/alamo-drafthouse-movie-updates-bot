@@ -1,6 +1,50 @@
 # raleigh
 
 ## Movie updates
+### Mon 6/2 7:26pm
+* New movies: Dan Da Dan: Evil Eye Dubbed, Dan Da Dan: Evil Eye Subtitled
+
+* New screenings: 
+    * [Ballerina](https://drafthouse.com/raleigh/show/ballerina): Thu 6/5 (7:30pm), Fri 6/6 (6:45pm), Sat 6/7 (6:45pm), Mon 6/9 (11:45am, 3:00pm, 6:05pm, 9:15pm), Tue 6/10 (11:45am, 3:00pm, 6:05pm, 9:15pm), Wed 6/11 (11:45am, 3:00pm, 6:05pm, 9:15pm)
+
+    * [Bring Her Back](https://drafthouse.com/raleigh/show/bring-her-back): Thu 6/5 (2:00pm, 4:45pm, 7:45pm, 10:45pm), Fri 6/6 (1:15pm, 4:00pm, 6:45pm, 9:30pm), Sat 6/7 (1:15pm, 4:00pm, 6:45pm, 9:30pm), Sun 6/8 (1:15pm, 4:00pm, 6:45pm, 9:30pm), Mon 6/9 (1:45pm, 4:45pm, 7:30pm, 10:30pm), Tue 6/10 (12:45pm, 3:45pm, 6:45pm, 9:30pm), Wed 6/11 (1:45pm, 4:45pm, 7:30pm, 10:30pm)
+
+    * [Dan Da Dan Evil Eye Dubbed](https://drafthouse.com/raleigh/show/dan-da-dan-evil-eye-dubbed): Fri 6/6 (1:15pm, 7:45pm), Sat 6/7 (1:15pm, 7:45pm), Sun 6/8 (1:15pm, 7:45pm), Mon 6/9 (1:15pm, 7:30pm), Tue 6/10 (1:15pm, 7:45pm), Wed 6/11 (1:15pm, 7:15pm)
+
+    * [Dan Da Dan Evil Eye Subtitled](https://drafthouse.com/raleigh/show/dan-da-dan-evil-eye-subtitled): Fri 6/6 (4:45pm, 10:45pm), Sat 6/7 (5:00pm, 10:45pm), Sun 6/8 (5:00pm, 10:45pm), Mon 6/9 (4:45pm, 10:50pm), Tue 6/10 (4:45pm, 10:45pm), Wed 6/11 (4:30pm, 10:15pm)
+
+    * [Dangerous Animals](https://drafthouse.com/raleigh/show/dangerous-animals): Sat 6/7 (10:30pm), Sun 6/8 (10:30pm), Mon 6/9 (10:00pm), Tue 6/10 (10:45pm), Wed 6/11 (9:45pm)
+
+    * [Escape From The 21st Century](https://drafthouse.com/raleigh/show/escape-from-the-21st-century): Mon 6/9 (7:15pm)
+
+    * [Final Destination Bloodlines](https://drafthouse.com/raleigh/show/final-destination-bloodlines): Thu 6/5 (1:30pm, 4:30pm, 10:45pm), Fri 6/6 (1:30pm, 4:00pm), Sat 6/7 (9:45pm), Mon 6/9 (1:30pm, 4:00pm), Tue 6/10 (1:30pm, 4:00pm, 7:15pm), Wed 6/11 (1:30pm, 4:00pm, 7:00pm)
+
+    * [Friendship](https://drafthouse.com/raleigh/show/friendship): Thu 6/5 (1:15pm, 4:15pm), Fri 6/6 (3:45pm), Sat 6/7 (3:45pm), Sun 6/8 (3:45pm), Mon 6/9 (3:45pm), Tue 6/10 (3:45pm), Wed 6/11 (3:45pm)
+
+    * [How To Train Your Dragon 2025](https://drafthouse.com/raleigh/show/how-to-train-your-dragon-2025): Thu 6/12 (5:35pm, 8:45pm)
+
+    * [Karate Kid Legends](https://drafthouse.com/raleigh/show/karate-kid-legends): Thu 6/5 (12:15pm, 3:00pm, 6:15pm, 9:00pm), Fri 6/6 (12:15pm, 3:00pm, 6:00pm, 9:00pm), Sat 6/7 (12:15pm, 3:00pm, 6:00pm, 9:00pm), Sun 6/8 (12:15pm, 3:00pm, 6:00pm, 9:00pm), Mon 6/9 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Tue 6/10 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Wed 6/11 (12:45pm, 3:20pm, 6:00pm, 9:00pm)
+
+    * [Lilo And Stitch 2025](https://drafthouse.com/raleigh/show/lilo-and-stitch-2025): Thu 6/5 (12:15pm, 12:45pm, 1:00pm, 3:15pm, 6:15pm, 9:15pm), Fri 6/6 (12:30pm, 3:20pm, 6:15pm, 9:15pm), Sat 6/7 (12:30pm, 3:20pm, 6:15pm, 9:15pm), Sun 6/8 (12:30pm, 3:20pm, 6:15pm, 9:15pm), Mon 6/9 (12:30pm, 3:20pm, 6:15pm, 9:15pm), Tue 6/10 (12:30pm, 3:20pm, 6:15pm, 9:15pm), Wed 6/11 (12:30pm, 3:20pm, 6:15pm, 9:05pm)
+
+    * [Materialists](https://drafthouse.com/raleigh/show/materialists): Thu 6/12 (3:45pm, 9:45pm)
+
+    * [Mission Impossible The Final Reckoning](https://drafthouse.com/raleigh/show/mission-impossible-the-final-reckoning): Thu 6/5 (1:45pm, 2:40pm, 6:30pm, 10:20pm), Fri 6/6 (12:15pm, 4:15pm, 8:15pm, 10:15pm), Sat 6/7 (12:15pm, 4:15pm, 8:15pm, 10:15pm), Sun 6/8 (12:15pm, 4:15pm, 8:15pm, 10:15pm), Mon 6/9 (12:15pm, 4:15pm, 8:15pm, 10:05pm), Tue 6/10 (12:15pm, 4:15pm, 8:15pm, 10:15pm), Wed 6/11 (12:15pm, 4:15pm, 8:15pm, 9:50pm)
+
+    * [Sinners](https://drafthouse.com/raleigh/show/sinners): Thu 6/5 (10:00pm), Fri 6/6 (10:05pm), Sat 6/7 (10:05pm), Sun 6/8 (10:20pm), Mon 6/9 (6:30pm, 10:00pm), Tue 6/10 (6:45pm, 10:05pm), Wed 6/11 (6:30pm, 10:00pm)
+
+    * [Sister Midnight](https://drafthouse.com/raleigh/show/sister-midnight): Sat 6/7 (4:00pm), Sun 6/8 (4:00pm), Wed 6/11 (12:30pm)
+
+    * [Special Event Dogma Resurrected 25th Anniversary](https://drafthouse.com/raleigh/show/special-event-dogma-resurrected-25th-anniversary): Fri 6/6 (9:45pm), Sat 6/7 (1:30pm), Sun 6/8 (1:30pm, 6:45pm), Mon 6/9 (7:15pm), Tue 6/10 (7:15pm)
+
+    * [The Hunger Games Mockingjay Part 2](https://drafthouse.com/raleigh/show/the-hunger-games-mockingjay-part-2): Wed 6/11 (6:15pm)
+
+    * [The Life Of Chuck](https://drafthouse.com/raleigh/show/the-life-of-chuck): Thu 6/12 (4:45pm, 10:45pm)
+
+    * [The Phoenician Scheme](https://drafthouse.com/raleigh/show/the-phoenician-scheme): Thu 6/5 (2:30pm, 3:35pm, 5:30pm, 7:15pm, 8:30pm), Fri 6/6 (12:00pm, 1:00pm, 1:30pm, 3:15pm, 4:30pm, 6:30pm, 7:15pm, 10:30pm), Sat 6/7 (1:00pm, 1:30pm, 4:30pm, 6:35pm, 7:15pm), Sun 6/8 (12:00pm, 1:00pm, 1:30pm, 3:15pm, 4:30pm, 7:15pm), Mon 6/9 (12:30pm, 1:00pm, 1:00pm, 1:30pm, 3:30pm, 4:00pm, 4:30pm, 6:45pm, 9:45pm, 10:15pm), Tue 6/10 (12:30pm, 1:00pm, 1:00pm, 1:30pm, 3:30pm, 4:00pm, 4:30pm, 7:00pm, 10:15pm), Wed 6/11 (12:00pm, 1:00pm, 1:00pm, 3:00pm, 3:30pm, 4:00pm, 7:00pm, 10:15pm)
+
+    * [Thunderbolts](https://drafthouse.com/raleigh/show/thunderbolts): Thu 6/5 (1:15pm)
+
 ### Fri 5/30 10:04pm
 * New movies: Friday the 13th 1980
 
