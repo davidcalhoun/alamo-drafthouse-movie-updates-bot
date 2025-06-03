@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 6/3 9:39am
+* New movies: 28 Years Later
+
+* New screenings: 
+    * [28 Years Later](https://drafthouse.com/raleigh/show/28-years-later): Thu 6/19 (7:00pm), Fri 6/20 (6:00pm, 9:00pm), Sat 6/21 (7:30pm, 10:30pm), Sun 6/22 (7:30pm, 10:30pm)
+
 ### Mon 6/2 7:26pm
 * New movies: Dan Da Dan: Evil Eye Dubbed, Dan Da Dan: Evil Eye Subtitled
 
