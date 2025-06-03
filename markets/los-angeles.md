@@ -1,6 +1,42 @@
 # los-angeles
 
 ## Movie updates
+### Mon 6/2 8:17pm
+* New movies: The Hunger Games: Mockingjay - Part 2
+
+* New screenings: 
+    * [Ballerina](https://drafthouse.com/los-angeles/show/ballerina): Thu 6/5 (7:10pm), Fri 6/6 (12:50pm, 7:10pm), Sat 6/7 (12:50pm, 7:10pm), Sun 6/8 (12:50pm, 7:10pm), Mon 6/9 (12:50pm, 7:10pm), Tue 6/10 (12:50pm, 7:10pm), Wed 6/11 (12:50pm, 7:10pm)
+
+    * [Bride Of Chucky](https://drafthouse.com/los-angeles/show/bride-of-chucky): Sat 6/7 (10:10pm)
+
+    * [Bring Her Back](https://drafthouse.com/los-angeles/show/bring-her-back): Thu 6/5 (11:00am, 12:25pm, 1:50pm, 4:40pm, 7:30pm, 10:25pm), Fri 6/6 (1:15pm, 4:25pm, 7:00pm, 10:00pm), Sat 6/7 (1:15pm, 4:25pm, 7:00pm, 10:00pm), Sun 6/8 (1:15pm, 4:25pm, 7:00pm, 10:00pm), Mon 6/9 (1:00pm, 4:00pm, 7:00pm), Tue 6/10 (1:00pm, 4:00pm, 7:00pm, 10:40pm), Wed 6/11 (12:10pm, 4:15pm, 6:20pm, 10:15pm)
+
+    * [Final Destination Bloodlines](https://drafthouse.com/los-angeles/show/final-destination-bloodlines): Thu 6/5 (12:40pm, 1:10pm, 3:40pm, 4:10pm, 10:30pm), Fri 6/6 (4:10pm, 10:30pm), Sat 6/7 (4:10pm, 10:30pm), Sun 6/8 (4:10pm, 10:30pm), Mon 6/9 (4:10pm), Tue 6/10 (4:10pm, 10:30pm), Wed 6/11 (4:10pm, 10:30pm)
+
+    * [Friendship](https://drafthouse.com/los-angeles/show/friendship): Thu 6/5 (11:30am, 2:20pm, 5:10pm, 8:00pm, 10:50pm), Fri 6/6 (11:30am, 2:20pm, 5:10pm, 8:00pm, 10:50pm), Sat 6/7 (11:30am, 2:20pm, 5:10pm, 8:00pm, 10:50pm), Sun 6/8 (11:30am, 2:20pm, 5:10pm, 8:00pm, 10:50pm), Mon 6/9 (11:30am, 2:20pm, 5:10pm, 8:00pm), Tue 6/10 (11:30am, 2:20pm, 5:10pm, 8:00pm, 10:50pm), Wed 6/11 (11:30am, 2:20pm, 5:10pm, 8:00pm, 10:45pm)
+
+    * [Guest Selects Youve Got Mail](https://drafthouse.com/los-angeles/show/guest-selects-youve-got-mail): Tue 6/10 (12:20pm)
+
+    * [Karate Kid Legends](https://drafthouse.com/los-angeles/show/karate-kid-legends): Thu 6/5 (12:45pm, 3:30pm, 6:20pm, 10:15pm), Fri 6/6 (12:45pm, 3:30pm, 7:20pm, 9:10pm), Sat 6/7 (12:45pm, 3:30pm, 7:20pm, 9:10pm), Sun 6/8 (12:45pm, 3:30pm, 7:20pm, 9:10pm), Mon 6/9 (12:45pm, 3:30pm, 6:20pm), Tue 6/10 (12:45pm, 3:30pm, 6:20pm, 9:10pm), Wed 6/11 (12:40pm, 3:25pm, 6:10pm, 9:00pm)
+
+    * [Lilo And Stitch 2025](https://drafthouse.com/los-angeles/show/lilo-and-stitch-2025): Thu 6/5 (11:00am, 11:30am, 3:10pm, 6:30pm, 10:10pm), Fri 6/6 (11:30am, 3:10pm, 6:30pm, 10:10pm), Sat 6/7 (11:30am, 3:10pm, 6:30pm, 10:10pm), Sun 6/8 (11:30am, 3:10pm, 6:30pm, 10:10pm), Mon 6/9 (11:30am, 3:10pm, 6:30pm), Tue 6/10 (11:30am, 3:10pm, 6:30pm, 10:10pm), Wed 6/11 (11:30am, 3:00pm, 6:30pm, 10:00pm)
+
+    * [Mission Impossible The Final Reckoning](https://drafthouse.com/los-angeles/show/mission-impossible-the-final-reckoning): Thu 6/5 (11:10am, 12:10pm, 2:30pm, 6:10pm, 9:30pm), Fri 6/6 (11:10am, 2:30pm, 6:10pm, 9:30pm), Sat 6/7 (11:10am, 2:30pm, 6:10pm, 9:30pm), Sun 6/8 (11:10am, 2:30pm, 6:10pm, 9:30pm), Mon 6/9 (11:10am, 2:30pm, 6:10pm), Tue 6/10 (11:10am, 2:30pm, 6:10pm, 9:30pm), Wed 6/11 (11:00am, 2:30pm, 6:00pm, 9:30pm)
+
+    * [Pavements](https://drafthouse.com/los-angeles/show/pavements): Fri 6/6 (2:35pm), Sun 6/8 (11:15am), Mon 6/9 (12:40pm), Tue 6/10 (11:20am, 7:20pm), Wed 6/11 (3:05pm)
+
+    * [Sister Midnight](https://drafthouse.com/los-angeles/show/sister-midnight): Thu 6/5 (11:00am), Fri 6/6 (11:30am), Mon 6/9 (12:10pm), Wed 6/11 (1:15pm)
+
+    * [Special Event Dogma Resurrected 25th Anniversary](https://drafthouse.com/los-angeles/show/special-event-dogma-resurrected-25th-anniversary): Thu 6/5 (9:10pm), Fri 6/6 (12:40pm, 10:10pm), Sat 6/7 (12:40pm), Sun 6/8 (12:35pm), Mon 6/9 (3:10pm), Tue 6/10 (3:35pm), Wed 6/11 (11:45am)
+
+    * [Stand By Me 1986](https://drafthouse.com/los-angeles/show/stand-by-me-1986): Thu 6/5 (1:50pm)
+
+    * [The Hunger Games Mockingjay Part 2](https://drafthouse.com/los-angeles/show/the-hunger-games-mockingjay-part-2): Wed 6/11 (3:35pm)
+
+    * [The Phoenician Scheme](https://drafthouse.com/los-angeles/show/the-phoenician-scheme): Thu 6/5 (2:50pm, 4:30pm, 5:45pm, 7:20pm, 8:40pm), Fri 6/6 (11:50am, 2:45pm, 4:10pm, 5:40pm, 6:20pm, 8:30pm, 9:20pm), Sat 6/7 (11:50am, 2:45pm, 4:10pm, 5:00pm, 5:40pm, 6:20pm, 8:30pm, 9:20pm), Sun 6/8 (11:50am, 2:45pm, 4:10pm, 5:00pm, 5:40pm, 6:20pm, 8:30pm, 10:10pm), Mon 6/9 (11:50am, 2:45pm, 5:40pm), Tue 6/10 (11:00am, 11:50am, 1:50pm, 2:45pm, 4:40pm, 5:40pm, 7:30pm, 8:30pm, 10:00pm, 10:25pm), Wed 6/11 (11:00am, 11:50am, 1:50pm, 2:45pm, 4:40pm, 5:40pm, 7:30pm, 8:30pm, 9:15pm, 10:25pm)
+
+    * [Tornado](https://drafthouse.com/los-angeles/show/tornado): Thu 6/5 (12:00pm, 3:20pm)
+
 ### Fri 5/30 5:46am
 * New movies: Materialists, Materialists
 
