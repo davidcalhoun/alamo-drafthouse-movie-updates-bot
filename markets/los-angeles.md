@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 6/3 6:35am
+* New movies: 28 Years Later
+
+* New screenings: 
+    * [28 Years Later](https://drafthouse.com/los-angeles/show/28-years-later): Thu 6/19 (12:40pm, 3:50pm, 7:00pm, 10:10pm), Fri 6/20 (12:45pm, 3:50pm, 7:00pm, 10:20pm), Sat 6/21 (12:45pm, 3:50pm, 7:00pm, 10:10pm), Sun 6/22 (12:45pm, 3:50pm, 7:00pm), Mon 6/23 (12:45pm, 3:50pm, 7:00pm, 10:10pm), Tue 6/24 (12:45pm, 3:50pm, 7:00pm, 10:10pm), Wed 6/25 (12:45pm, 3:50pm, 7:00pm, 10:10pm)
+
 ### Mon 6/2 8:17pm
 * New movies: The Hunger Games: Mockingjay - Part 2
 
