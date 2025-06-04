@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 6/4 9:40am
+* New movies: The Fantastic Four: First Steps
+
+* New screenings: 
+    * [The Fantastic Four First Steps](https://drafthouse.com/raleigh/show/the-fantastic-four-first-steps): Fri 7/25 (9:45am, 1:00pm, 4:15pm, 7:30pm), Sat 7/26 (9:45am, 1:00pm, 4:15pm, 7:30pm, 10:45pm), Sun 7/27 (9:45am, 1:00pm, 4:15pm, 7:30pm, 10:45pm), Mon 7/28 (11:00am, 2:30pm, 6:00pm, 9:30pm), Wed 7/30 (11:00am, 2:30pm, 6:00pm, 9:30pm), Fri 8/1 (9:45am, 1:00pm, 4:15pm, 7:30pm, 10:45pm), Sat 8/2 (9:45am, 1:00pm, 4:15pm, 7:30pm, 10:45pm), Sun 8/3 (9:45am, 1:00pm, 4:15pm, 7:30pm, 10:45pm), Mon 8/4 (11:00am, 2:30pm, 6:00pm, 9:30pm), Wed 8/6 (11:00am, 2:30pm, 6:00pm, 9:30pm)
+
 ### Tue 6/3 9:39am
 * New movies: 28 Years Later
 
