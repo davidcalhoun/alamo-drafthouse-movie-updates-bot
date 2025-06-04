@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 6/4 7:25pm
+* New movies: Given the Double Album: Hiiragi mix & To The Sea
+
+* New screenings: 
+    * [Given The Double Album Hiiragi Mix To The Sea](https://drafthouse.com/raleigh/show/given-the-double-album-hiiragi-mix-to-the-sea): Mon 6/16 (7:30pm)
+
 ### Wed 6/4 1:26pm
 
 * New screenings: 
