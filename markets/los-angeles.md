@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 6/6 4:21pm
+* New movies: Given the Double Album: Hiiragi mix & To The Sea Subtitled
+
+* New screenings: 
+    * [Given The Double Album Hiiragi Mix To The Sea](https://drafthouse.com/los-angeles/show/given-the-double-album-hiiragi-mix-to-the-sea): Mon 6/16 (7:00pm)
+
+    * [Pink Narcissus](https://drafthouse.com/los-angeles/show/pink-narcissus): Fri 6/27 (9:30pm), Wed 7/2 (9:30pm)
+
 ### Fri 6/6 2:21pm
 * New movies: Materialists
 
