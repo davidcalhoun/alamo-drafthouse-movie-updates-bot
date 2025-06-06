@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 6/6 2:21pm
+* New movies: Materialists
+
+* New screenings: 
+    * [Advance Screening Materialists](https://drafthouse.com/los-angeles/show/advance-screening-materialists): Mon 6/9 (7:00pm)
+
 ### Wed 6/4 6:36am
 * New movies: The Fantastic Four: First Steps
 
