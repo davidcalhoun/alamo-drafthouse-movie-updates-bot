@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 6/6 12:34pm
+
+* New screenings: 
+    * [Ballerina](https://drafthouse.com/raleigh/show/ballerina): Fri 6/6 (10:30pm)
+
 ### Wed 6/4 7:25pm
 * New movies: Given the Double Album: Hiiragi mix & To The Sea
 
