@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 6/6 10:07pm
+
+* New screenings: 
+    * [28 Years Later](https://drafthouse.com/raleigh/show/28-years-later): Fri 6/20 (12:00pm, 3:00pm), Sat 6/21 (10:30am, 1:30pm, 4:30pm)
+
 ### Fri 6/6 5:24pm
 * New movies: Materialists
 
