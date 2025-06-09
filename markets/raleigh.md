@@ -1,6 +1,52 @@
 # raleigh
 
 ## Movie updates
+### Mon 6/9 7:25pm
+* New movies: Thunderbolts*
+
+* New screenings: 
+    * [28 Years Later](https://drafthouse.com/raleigh/show/28-years-later): Thu 6/19 (1:00pm, 4:00pm, 10:00pm)
+
+    * [Ballerina](https://drafthouse.com/raleigh/show/ballerina): Thu 6/12 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Fri 6/13 (12:15pm, 3:45pm, 7:15pm, 10:30pm), Sat 6/14 (12:15pm, 3:45pm, 7:15pm, 10:30pm), Sun 6/15 (12:15pm, 3:45pm, 7:15pm, 10:30pm), Mon 6/16 (12:15pm, 3:45pm, 7:15pm, 10:30pm), Tue 6/17 (12:00pm, 4:00pm, 7:15pm, 10:30pm), Wed 6/18 (12:00pm, 4:00pm, 7:15pm, 10:30pm)
+
+    * [Bring Her Back](https://drafthouse.com/raleigh/show/bring-her-back): Thu 6/12 (12:45pm, 10:45pm), Fri 6/13 (10:45pm), Sat 6/14 (10:45pm), Sun 6/15 (10:45pm), Mon 6/16 (10:45pm), Tue 6/17 (10:45pm), Wed 6/18 (10:45pm)
+
+    * [Dan Da Dan Evil Eye Dubbed](https://drafthouse.com/raleigh/show/dan-da-dan-evil-eye-dubbed): Thu 6/12 (2:15pm), Fri 6/13 (2:00pm)
+
+    * [Dan Da Dan Evil Eye Subtitled](https://drafthouse.com/raleigh/show/dan-da-dan-evil-eye-subtitled): Sun 6/15 (10:15pm)
+
+    * [Dangerous Animals](https://drafthouse.com/raleigh/show/dangerous-animals): Sat 6/14 (10:15pm)
+
+    * [Elio](https://drafthouse.com/raleigh/show/elio): Thu 6/19 (3:15pm, 9:15pm)
+
+    * [Final Destination Bloodlines](https://drafthouse.com/raleigh/show/final-destination-bloodlines): Thu 6/12 (1:45pm)
+
+    * [Friday The 13th](https://drafthouse.com/raleigh/show/friday-the-13th): Fri 6/13 (10:15pm), Mon 6/16 (10:15pm), Tue 6/17 (9:45pm)
+
+    * [How To Train Your Dragon 2025](https://drafthouse.com/raleigh/show/how-to-train-your-dragon-2025): Thu 6/12 (4:00pm, 5:00pm, 7:15pm), Fri 6/13 (3:00pm, 3:30pm, 5:00pm, 6:30pm, 7:00pm, 8:15pm), Sat 6/14 (3:00pm, 3:30pm, 5:00pm, 6:30pm, 7:00pm, 8:15pm, 9:45pm), Sun 6/15 (3:30pm, 5:00pm, 6:30pm, 7:00pm, 8:15pm), Mon 6/16 (3:00pm, 3:30pm, 4:45pm, 8:00pm), Tue 6/17 (3:15pm, 4:45pm, 6:30pm), Wed 6/18 (3:00pm, 3:15pm, 4:45pm, 6:30pm, 8:00pm)
+
+    * [Karate Kid Legends](https://drafthouse.com/raleigh/show/karate-kid-legends): Thu 6/12 (1:15pm), Fri 6/13 (11:15am), Sat 6/14 (11:15am), Sun 6/15 (11:15am), Mon 6/16 (2:00pm), Tue 6/17 (2:00pm), Wed 6/18 (2:00pm)
+
+    * [Lilo And Stitch 2025](https://drafthouse.com/raleigh/show/lilo-and-stitch-2025): Thu 6/12 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Fri 6/13 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 6/14 (12:00pm, 3:00pm, 6:00pm, 10:00pm), Sun 6/15 (12:00pm, 3:00pm, 6:00pm, 10:00pm), Mon 6/16 (11:15am, 3:15pm, 6:15pm, 9:15pm), Tue 6/17 (11:15am, 3:00pm, 6:00pm, 9:45pm), Wed 6/18 (11:15am, 3:00pm, 6:00pm, 9:00pm)
+
+    * [Materialists](https://drafthouse.com/raleigh/show/materialists): Thu 6/12 (4:30pm, 7:30pm, 8:15pm), Fri 6/13 (12:30pm, 1:30pm, 3:30pm, 4:30pm, 7:30pm, 10:00pm), Sat 6/14 (12:30pm, 1:30pm, 3:45pm, 4:30pm, 7:30pm, 9:00pm), Sun 6/15 (12:30pm, 1:30pm, 3:30pm, 4:30pm, 7:30pm, 9:00pm), Mon 6/16 (12:00pm, 1:30pm, 3:15pm, 4:30pm, 6:45pm, 7:30pm, 10:00pm), Tue 6/17 (12:00pm, 1:30pm, 3:15pm, 4:30pm, 6:45pm, 7:30pm, 9:00pm), Wed 6/18 (12:00pm, 1:30pm, 3:15pm, 4:30pm, 6:45pm, 7:30pm, 9:45pm)
+
+    * [Mission Impossible The Final Reckoning](https://drafthouse.com/raleigh/show/mission-impossible-the-final-reckoning): Thu 6/12 (2:00pm, 6:00pm, 9:50pm), Fri 6/13 (1:00pm, 2:00pm, 6:15pm, 10:05pm), Sat 6/14 (1:00pm, 2:00pm, 6:15pm, 10:05pm), Sun 6/15 (1:00pm, 2:00pm, 6:15pm, 10:05pm), Mon 6/16 (12:45pm, 2:10pm, 6:00pm, 9:50pm), Tue 6/17 (12:45pm, 2:10pm, 3:00pm, 6:15pm, 10:05pm), Wed 6/18 (12:45pm, 2:10pm, 6:15pm, 10:05pm)
+
+    * [Queer Film Theory 101 Showgirls](https://drafthouse.com/raleigh/show/queer-film-theory-101-showgirls): Sat 6/14 (1:30pm), Tue 6/17 (8:00pm)
+
+    * [Sister Midnight](https://drafthouse.com/raleigh/show/sister-midnight): Thu 6/12 (1:30pm)
+
+    * [Special Event Dogma Resurrected 25th Anniversary](https://drafthouse.com/raleigh/show/special-event-dogma-resurrected-25th-anniversary): Sun 6/15 (9:45pm), Wed 6/18 (9:45pm)
+
+    * [The Birdcage](https://drafthouse.com/raleigh/show/the-birdcage): Sun 6/15 (1:30pm)
+
+    * [The Life Of Chuck](https://drafthouse.com/raleigh/show/the-life-of-chuck): Fri 6/13 (1:00pm, 4:30pm, 10:30pm), Sat 6/14 (1:00pm, 4:30pm, 10:30pm), Sun 6/15 (1:00pm, 4:30pm, 10:30pm), Mon 6/16 (1:00pm, 4:15pm, 7:00pm, 11:05pm), Tue 6/17 (1:00pm, 4:15pm, 7:30pm, 10:30pm), Wed 6/18 (1:00pm, 4:15pm, 7:30pm, 10:30pm)
+
+    * [The Phoenician Scheme](https://drafthouse.com/raleigh/show/the-phoenician-scheme): Thu 6/12 (12:15pm, 1:15pm, 4:15pm, 7:15pm, 10:00pm), Fri 6/13 (12:45pm, 4:45pm, 7:45pm, 10:45pm), Sat 6/14 (12:45pm, 4:45pm, 7:45pm, 10:45pm), Sun 6/15 (12:45pm, 4:45pm, 7:45pm, 10:45pm), Mon 6/16 (1:00pm, 4:45pm, 7:45pm, 10:45pm), Tue 6/17 (1:00pm, 4:45pm, 7:45pm, 10:45pm), Wed 6/18 (1:00pm, 4:45pm, 7:45pm, 10:45pm)
+
+    * [Thunderbolts](https://drafthouse.com/raleigh/show/thunderbolts): Thu 6/12 (10:30pm)
+
 ### Fri 6/6 10:07pm
 
 * New screenings: 
