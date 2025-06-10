@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 6/10 9:39am
+* New movies: Roger Waters This is Not a Drill: Live From Prague - The Movie
+
+* New screenings: 
+    * [Roger Waters This Is Not A Drill Live From Prague The Movie](https://drafthouse.com/raleigh/show/roger-waters-this-is-not-a-drill-live-from-prague-the-movie): Wed 7/23 (7:15pm), Sun 7/27 (3:00pm)
+
 ### Mon 6/9 7:25pm
 * New movies: Thunderbolts*
 
