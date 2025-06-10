@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 6/10 11:32am
+
+* New screenings: 
+    * [Pavements](https://drafthouse.com/los-angeles/show/pavements): Sun 6/15 (6:40pm)
+
 ### Mon 6/9 8:20pm
 
 * New screenings: 
