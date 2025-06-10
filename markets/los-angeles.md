@@ -1,6 +1,43 @@
 # los-angeles
 
 ## Movie updates
+### Mon 6/9 8:20pm
+
+* New screenings: 
+    * [Ballerina](https://drafthouse.com/los-angeles/show/ballerina): Thu 6/12 (11:50am, 3:10pm, 6:30pm, 9:50pm), Fri 6/13 (12:00pm, 3:20pm, 6:40pm, 10:00pm), Sat 6/14 (12:00pm, 3:20pm, 6:40pm, 10:00pm), Sun 6/15 (12:20pm, 3:40pm, 7:00pm), Mon 6/16 (12:10pm, 3:20pm, 6:40pm, 10:00pm), Tue 6/17 (12:00pm, 3:20pm, 6:40pm, 10:00pm), Wed 6/18 (12:00pm, 3:20pm, 6:40pm, 10:00pm)
+
+    * [Bring Her Back](https://drafthouse.com/los-angeles/show/bring-her-back): Thu 6/12 (11:45am, 3:25pm, 6:40pm, 10:20pm), Fri 6/13 (11:50am, 3:35pm, 6:50pm, 10:30pm), Sat 6/14 (11:50am, 3:35pm, 6:50pm, 10:30pm), Sun 6/15 (11:50am, 3:35pm, 6:50pm), Mon 6/16 (11:50am, 3:35pm, 6:50pm, 10:30pm), Tue 6/17 (11:50am, 3:35pm, 6:50pm, 10:30pm), Wed 6/18 (11:50am, 3:35pm, 6:50pm, 10:30pm)
+
+    * [Dangerous Animals](https://drafthouse.com/los-angeles/show/dangerous-animals): Thu 6/12 (11:10am, 12:40pm, 10:05pm), Fri 6/13 (10:15pm), Sat 6/14 (10:15pm), Mon 6/16 (10:15pm), Tue 6/17 (10:15pm), Wed 6/18 (10:15pm)
+
+    * [Final Destination Bloodlines](https://drafthouse.com/los-angeles/show/final-destination-bloodlines): Thu 6/12 (11:30am)
+
+    * [Friday The 13th](https://drafthouse.com/los-angeles/show/friday-the-13th): Fri 6/13 (6:10pm, 9:00pm)
+
+    * [Friendship](https://drafthouse.com/los-angeles/show/friendship): Thu 6/12 (11:30am, 2:20pm, 5:10pm, 8:00pm, 10:45pm), Fri 6/13 (11:10am, 2:00pm, 4:50pm, 7:45pm, 10:35pm), Sat 6/14 (11:10am, 2:00pm, 4:50pm, 7:45pm, 10:35pm), Sun 6/15 (11:10am, 2:00pm, 4:50pm, 7:45pm), Mon 6/16 (11:10am, 2:00pm, 4:50pm, 7:45pm, 10:35pm), Tue 6/17 (11:10am, 2:00pm, 4:50pm, 7:45pm, 10:35pm), Wed 6/18 (11:10am, 2:00pm, 4:50pm, 7:45pm, 10:35pm)
+
+    * [How To Train Your Dragon 2025](https://drafthouse.com/los-angeles/show/how-to-train-your-dragon-2025): Thu 6/12 (2:00pm, 3:30pm, 6:50pm, 8:35pm), Fri 6/13 (12:30pm, 3:45pm, 7:00pm), Sat 6/14 (12:30pm, 3:45pm, 7:00pm), Sun 6/15 (12:45pm, 4:00pm, 7:20pm), Mon 6/16 (12:00pm, 12:30pm, 3:45pm, 7:00pm), Tue 6/17 (12:30pm, 3:45pm, 7:00pm), Wed 6/18 (12:30pm, 1:10pm, 3:45pm, 7:00pm)
+
+    * [Karate Kid Legends](https://drafthouse.com/los-angeles/show/karate-kid-legends): Thu 6/12 (1:15pm)
+
+    * [Knife Heart](https://drafthouse.com/los-angeles/show/knife-heart): Tue 6/17 (11:00am), Wed 6/18 (10:20pm)
+
+    * [Lilo And Stitch 2025](https://drafthouse.com/los-angeles/show/lilo-and-stitch-2025): Thu 6/12 (11:40am)
+
+    * [Materialists](https://drafthouse.com/los-angeles/show/materialists): Thu 6/12 (2:30pm, 5:30pm, 8:25pm), Fri 6/13 (11:20am, 2:30pm, 4:15pm), Sat 6/14 (11:20am, 2:30pm, 5:25pm, 7:20pm, 10:20pm), Sun 6/15 (11:20am, 2:30pm, 5:20pm), Mon 6/16 (11:20am, 2:30pm, 10:45pm), Tue 6/17 (11:20am, 2:30pm, 4:15pm, 7:20pm, 10:25pm), Wed 6/18 (11:20am, 2:30pm)
+
+    * [Mission Impossible The Final Reckoning](https://drafthouse.com/los-angeles/show/mission-impossible-the-final-reckoning): Thu 6/12 (11:20am, 2:40pm, 6:20pm, 9:35pm), Fri 6/13 (11:35am, 2:50pm, 6:30pm, 9:45pm), Sat 6/14 (11:35am, 2:50pm, 6:30pm, 9:45pm), Sun 6/15 (11:35am, 2:50pm, 6:30pm), Mon 6/16 (11:35am, 2:50pm, 6:30pm, 9:45pm), Tue 6/17 (11:35am, 2:50pm, 6:30pm, 9:45pm), Wed 6/18 (11:35am, 2:50pm, 6:30pm, 9:45pm)
+
+    * [Pavements](https://drafthouse.com/los-angeles/show/pavements): Thu 6/12 (11:00am), Fri 6/13 (2:50pm), Sat 6/14 (2:05pm), Mon 6/16 (11:15am), Tue 6/17 (1:55pm), Wed 6/18 (11:00am)
+
+    * [Queer Film Theory 101 Showgirls](https://drafthouse.com/los-angeles/show/queer-film-theory-101-showgirls): Sat 6/14 (3:50pm), Mon 6/16 (3:30pm), Tue 6/17 (5:15pm), Wed 6/18 (10:10pm)
+
+    * [Special Event Dogma Resurrected 25th Anniversary](https://drafthouse.com/los-angeles/show/special-event-dogma-resurrected-25th-anniversary): Thu 6/12 (2:20pm), Fri 6/13 (12:30pm), Sat 6/14 (12:10pm, 8:30pm), Sun 6/15 (3:00pm), Mon 6/16 (2:35pm), Tue 6/17 (12:30pm, 8:45pm), Wed 6/18 (2:20pm)
+
+    * [The Birdcage](https://drafthouse.com/los-angeles/show/the-birdcage): Fri 6/13 (11:40am), Sun 6/15 (2:10pm)
+
+    * [The Phoenician Scheme](https://drafthouse.com/los-angeles/show/the-phoenician-scheme): Thu 6/12 (11:00am, 1:50pm, 4:40pm, 5:40pm, 7:30pm, 8:45pm, 10:25pm), Fri 6/13 (11:00am, 1:50pm, 4:40pm, 5:40pm, 7:30pm, 8:35pm, 10:25pm), Sat 6/14 (11:00am, 1:50pm, 4:40pm, 5:40pm, 7:30pm, 8:35pm, 10:25pm), Sun 6/15 (11:00am, 1:50pm, 4:40pm, 5:40pm, 7:30pm, 8:35pm), Mon 6/16 (11:00am, 1:50pm, 4:40pm, 5:40pm, 7:30pm, 8:35pm, 10:25pm), Tue 6/17 (11:00am, 1:50pm, 4:40pm, 5:40pm, 7:30pm, 8:35pm, 10:25pm), Wed 6/18 (11:00am, 1:50pm, 4:25pm, 4:40pm, 5:40pm, 7:30pm, 8:35pm, 10:25pm)
+
 ### Fri 6/6 4:21pm
 * New movies: Given the Double Album: Hiiragi mix & To The Sea Subtitled
 
