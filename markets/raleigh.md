@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 6/11 12:34pm
+* New movies: Superman 2025
+
+* New screenings: 
+    * [Superman 2025](https://drafthouse.com/raleigh/show/superman-2025): Thu 7/10 (2:45pm, 6:00pm, 9:15pm), Fri 7/11 (9:45am, 1:00pm, 4:15pm, 7:30pm, 10:45pm), Sat 7/12 (9:45am, 1:00pm, 4:15pm, 7:30pm, 10:45pm), Sun 7/13 (9:45am, 1:00pm, 4:15pm, 7:30pm, 10:45pm), Mon 7/14 (11:00am, 2:30pm, 6:00pm, 9:15pm), Tue 7/15 (11:00am, 2:30pm, 6:00pm, 9:15pm), Wed 7/16 (11:00am, 2:30pm, 6:00pm, 9:15pm), Thu 7/17 (11:00am, 2:30pm, 6:00pm, 9:15pm), Fri 7/18 (9:45am, 1:00pm, 4:15pm, 7:30pm, 10:45pm), Sat 7/19 (9:45am, 1:00pm, 4:15pm, 7:30pm, 10:45pm), Sun 7/20 (9:45am, 1:00pm, 4:15pm, 7:30pm, 10:45pm), Mon 7/21 (11:00am, 2:30pm, 6:00pm, 9:15pm), Tue 7/22 (11:00am, 2:30pm, 6:00pm, 9:15pm), Wed 7/23 (11:00am, 2:30pm, 6:00pm, 9:15pm)
+
 ### Tue 6/10 9:39am
 * New movies: Roger Waters This is Not a Drill: Live From Prague - The Movie
 
