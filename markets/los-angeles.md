@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 6/11 9:29am
+* New movies: Superman 2025
+
+* New screenings: 
+    * [Superman 2025](https://drafthouse.com/los-angeles/show/superman-2025): Thu 7/10 (2:20pm, 3:50pm, 5:45pm, 7:15pm, 9:10pm, 10:40pm), Fri 7/11 (9:00am, 10:50am, 12:25pm, 2:15pm, 3:50pm, 5:45pm, 7:15pm, 9:10pm, 10:40pm), Sat 7/12 (9:00am, 10:50am, 12:25pm, 2:15pm, 3:50pm, 5:45pm, 7:15pm, 9:10pm, 10:40pm), Sun 7/13 (9:00am, 10:50am, 12:25pm, 2:15pm, 3:50pm, 5:45pm, 7:15pm), Mon 7/14 (11:10am, 12:20pm, 2:35pm, 3:45pm, 6:00pm, 7:10pm, 9:25pm, 10:35pm), Tue 7/15 (11:10am, 12:20pm, 2:35pm, 3:45pm, 6:00pm, 7:10pm, 9:25pm, 10:35pm), Wed 7/16 (11:10am, 12:20pm, 2:35pm, 3:45pm, 6:00pm, 7:10pm, 9:25pm, 10:35pm)
+
 ### Tue 6/10 11:32am
 
 * New screenings: 
