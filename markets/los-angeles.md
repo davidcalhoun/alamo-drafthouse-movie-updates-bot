@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Wed 6/11 3:21pm
+
+* New screenings: 
+    * [Materialists](https://drafthouse.com/los-angeles/show/materialists): Thu 6/12 (1:45pm)
+
+    * [The Phoenician Scheme](https://drafthouse.com/los-angeles/show/the-phoenician-scheme): Thu 6/12 (2:35pm)
+
 ### Wed 6/11 9:29am
 * New movies: Superman 2025
 
