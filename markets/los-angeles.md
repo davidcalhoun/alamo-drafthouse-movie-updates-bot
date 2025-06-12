@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 6/12 4:19am
+* New movies: Roger Waters This is Not a Drill: Live From Prague - The Movie
+
+* New screenings: 
+    * [Roger Waters This Is Not A Drill Live From Prague The Movie](https://drafthouse.com/los-angeles/show/roger-waters-this-is-not-a-drill-live-from-prague-the-movie): Wed 7/23 (7:20pm), Sun 7/27 (3:45pm)
+
 ### Wed 6/11 3:21pm
 
 * New screenings: 
