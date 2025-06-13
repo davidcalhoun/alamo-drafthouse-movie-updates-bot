@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 6/13 11:32am
+
+* New screenings: 
+    * [Materialists](https://drafthouse.com/los-angeles/show/materialists): Fri 6/13 (5:00pm, 5:35pm)
+
 ### Thu 6/12 4:19am
 * New movies: Roger Waters This is Not a Drill: Live From Prague - The Movie
 
