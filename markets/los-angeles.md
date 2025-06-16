@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Sun 6/15 6:58pm
+
+* New screenings: 
+    * [Materialists](https://drafthouse.com/los-angeles/show/materialists): Wed 6/18 (5:30pm)
+
 ### Fri 6/13 11:32am
 
 * New screenings: 
