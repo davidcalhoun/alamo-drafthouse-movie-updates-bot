@@ -1,6 +1,22 @@
 # los-angeles
 
 ## Movie updates
+### Mon 6/16 2:21pm
+* New movies: Clueless, Silent Night, Deadly Night Part 2, Tales from the Hood, Cemetery Man, Hot Spring Shark Attack, Phenomena
+
+* New screenings: 
+    * [Cemetery Man](https://drafthouse.com/los-angeles/show/cemetery-man): Wed 7/23 (7:00pm)
+
+    * [Hot Spring Shark Attack](https://drafthouse.com/los-angeles/show/hot-spring-shark-attack): Wed 7/9 (10:00pm)
+
+    * [Movie Party Clueless](https://drafthouse.com/los-angeles/show/movie-party-clueless): Mon 8/4 (6:30pm, 7:20pm)
+
+    * [Phenomena](https://drafthouse.com/los-angeles/show/phenomena): Wed 7/30 (7:20pm)
+
+    * [Silent Night Deadly Night Part 2](https://drafthouse.com/los-angeles/show/silent-night-deadly-night-part-2): Wed 7/9 (7:20pm)
+
+    * [Tales From The Hood](https://drafthouse.com/los-angeles/show/tales-from-the-hood): Fri 8/1 (9:30pm)
+
 ### Sun 6/15 6:58pm
 
 * New screenings: 
