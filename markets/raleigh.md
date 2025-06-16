@@ -1,6 +1,32 @@
 # raleigh
 
 ## Movie updates
+### Mon 6/16 7:25pm
+* New movies: Mystery Machine 6/23/2025
+
+* New screenings: 
+    * [28 Years Later](https://drafthouse.com/raleigh/show/28-years-later): Thu 6/19 (1:45pm, 2:45pm, 6:00pm, 6:30pm, 9:00pm, 9:30pm, 9:45pm), Fri 6/20 (10:30am, 1:30pm, 4:30pm, 5:30pm, 7:30pm, 8:30pm, 10:30pm), Sat 6/21 (12:00pm, 3:00pm, 3:30pm, 3:45pm, 6:00pm, 6:30pm, 9:00pm, 9:30pm, 9:45pm), Sun 6/22 (10:30am, 12:00pm, 1:30pm, 3:30pm, 3:45pm, 4:30pm, 6:00pm, 6:30pm, 9:00pm, 9:30pm, 9:45pm), Mon 6/23 (12:00pm, 1:30pm, 3:15pm, 4:30pm, 6:30pm, 7:30pm, 10:15pm, 10:45pm), Tue 6/24 (12:00pm, 1:30pm, 3:00pm, 4:30pm, 6:00pm, 7:30pm, 9:00pm, 10:45pm), Wed 6/25 (11:30am, 1:30pm, 2:30pm, 3:30pm, 4:30pm, 5:30pm, 7:30pm, 8:30pm, 10:45pm)
+
+    * [Ballerina](https://drafthouse.com/raleigh/show/ballerina): Thu 6/19 (11:45am, 4:30pm, 7:45pm, 10:30pm), Fri 6/20 (11:30am, 2:45pm, 6:30pm, 9:45pm), Sat 6/21 (12:00pm, 3:15pm, 6:30pm, 10:30pm), Sun 6/22 (12:00pm, 3:15pm, 6:30pm, 10:30pm), Mon 6/23 (1:00pm, 4:15pm, 7:30pm, 10:45pm), Tue 6/24 (1:00pm, 4:15pm, 7:30pm, 10:45pm), Wed 6/25 (1:00pm, 4:15pm, 7:30pm, 10:45pm)
+
+    * [Elio](https://drafthouse.com/raleigh/show/elio): Fri 6/20 (12:30pm, 3:30pm, 9:00pm), Sat 6/21 (12:15pm, 3:15pm, 9:15pm), Sun 6/22 (12:30pm, 3:15pm, 9:15pm), Mon 6/23 (12:30pm, 3:15pm, 6:00pm, 9:00pm), Tue 6/24 (12:15pm, 3:00pm, 6:00pm, 9:00pm), Wed 6/25 (12:30pm, 3:15pm, 6:00pm, 9:00pm)
+
+    * [How To Train Your Dragon 2025](https://drafthouse.com/raleigh/show/how-to-train-your-dragon-2025): Thu 6/19 (11:30am, 12:00pm, 1:15pm, 1:30pm, 3:00pm, 3:25pm, 4:45pm, 6:30pm, 8:00pm, 9:35pm), Fri 6/20 (11:00am, 1:15pm, 2:15pm, 2:45pm, 6:00pm, 9:15pm), Sat 6/21 (11:00am, 2:15pm, 7:05pm, 8:45pm, 10:15pm), Sun 6/22 (11:00am, 2:15pm, 7:05pm, 8:45pm, 10:15pm), Mon 6/23 (12:15pm, 12:45pm, 3:00pm, 3:45pm, 6:15pm, 9:30pm), Tue 6/24 (12:00pm, 12:45pm, 2:45pm, 3:15pm, 6:15pm, 9:30pm), Wed 6/25 (12:15pm, 12:30pm, 3:00pm, 6:15pm, 9:30pm)
+
+    * [Lilo And Stitch 2025](https://drafthouse.com/raleigh/show/lilo-and-stitch-2025): Thu 6/19 (12:00pm, 3:15pm, 6:05pm, 9:00pm), Fri 6/20 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sat 6/21 (11:45am, 2:45pm, 6:15pm, 9:30pm), Sun 6/22 (11:45am, 2:45pm, 6:15pm, 9:30pm), Mon 6/23 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Tue 6/24 (11:30am, 3:30pm, 6:45pm, 9:45pm), Wed 6/25 (12:00pm, 3:15pm, 6:15pm, 9:15pm)
+
+    * [M3gan 2 0](https://drafthouse.com/raleigh/show/m3gan-2-0): Thu 6/26 (10:30pm)
+
+    * [Materialists](https://drafthouse.com/raleigh/show/materialists): Thu 6/19 (1:00pm, 4:15pm, 7:15pm, 10:15pm), Fri 6/20 (11:00am, 2:00pm, 5:00pm, 7:15pm, 10:15pm), Sat 6/21 (12:30pm, 3:45pm, 7:00pm, 10:00pm), Sun 6/22 (12:30pm, 3:45pm, 7:00pm, 10:00pm), Mon 6/23 (1:15pm, 4:15pm, 7:15pm, 10:30pm), Tue 6/24 (1:15pm, 4:15pm, 7:15pm, 10:30pm), Wed 6/25 (1:15pm, 4:15pm, 7:15pm, 10:30pm)
+
+    * [Mission Impossible The Final Reckoning](https://drafthouse.com/raleigh/show/mission-impossible-the-final-reckoning): Fri 6/20 (11:15am, 3:30pm, 7:30pm), Sat 6/21 (11:00am, 3:00pm, 6:45pm), Sun 6/22 (11:00am, 3:00pm, 6:45pm), Mon 6/23 (11:45am, 3:45pm, 8:00pm), Tue 6/24 (11:45am, 3:45pm, 8:00pm), Wed 6/25 (11:45am, 3:45pm, 8:00pm)
+
+    * [Mystery Machine 6 23 2025](https://drafthouse.com/raleigh/show/mystery-machine-6-23-2025): Mon 6/23 (7:00pm)
+
+    * [The Life Of Chuck](https://drafthouse.com/raleigh/show/the-life-of-chuck): Thu 6/19 (12:15pm, 3:45pm, 6:45pm), Fri 6/20 (8:00pm), Sat 6/21 (12:30pm, 5:30pm), Sun 6/22 (12:30pm, 5:30pm), Mon 6/23 (4:00pm, 7:00pm, 10:15pm), Tue 6/24 (4:00pm, 7:00pm, 10:15pm), Wed 6/25 (4:00pm, 7:00pm, 10:00pm)
+
+    * [The Phoenician Scheme](https://drafthouse.com/raleigh/show/the-phoenician-scheme): Thu 6/19 (12:45pm, 4:45pm, 7:30pm, 10:55pm), Fri 6/20 (12:00pm, 4:30pm, 7:15pm, 10:00pm), Sat 6/21 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Sun 6/22 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Mon 6/23 (1:45pm, 4:45pm, 7:45pm, 10:30pm), Tue 6/24 (1:45pm, 4:45pm, 7:45pm, 10:30pm), Wed 6/25 (1:30pm, 4:45pm, 7:30pm, 10:15pm)
+
 ### Wed 6/11 12:34pm
 * New movies: Superman 2025
 
