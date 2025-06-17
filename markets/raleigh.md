@@ -1,6 +1,24 @@
 # raleigh
 
 ## Movie updates
+### Tue 6/17 2:38pm
+* New movies: Attack the Block, Io Island, House 1985, Back to the Beach, Russ Meyer's Up!, Dogtooth, Slither
+
+* New screenings: 
+    * [Attack The Block](https://drafthouse.com/raleigh/show/attack-the-block): Wed 7/9 (7:30pm)
+
+    * [Dogtooth](https://drafthouse.com/raleigh/show/dogtooth): Fri 7/18 (7:00pm)
+
+    * [Io Island](https://drafthouse.com/raleigh/show/io-island): Tue 7/15 (6:30pm)
+
+    * [Terror Tuesday House 1985](https://drafthouse.com/raleigh/show/terror-tuesday-house-1985): Tue 7/15 (9:45pm)
+
+    * [Terror Tuesday Slither](https://drafthouse.com/raleigh/show/terror-tuesday-slither): Tue 7/8 (9:45pm)
+
+    * [Weird Wednesday Back To The Beach](https://drafthouse.com/raleigh/show/weird-wednesday-back-to-the-beach): Wed 7/16 (9:45pm)
+
+    * [Weird Wednesday Russ Meyers Up](https://drafthouse.com/raleigh/show/weird-wednesday-russ-meyers-up): Wed 7/9 (10:15pm)
+
 ### Mon 6/16 7:25pm
 * New movies: Mystery Machine 6/23/2025
 
