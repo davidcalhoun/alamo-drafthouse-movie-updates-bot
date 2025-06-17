@@ -1,6 +1,46 @@
 # raleigh
 
 ## Movie updates
+### Tue 6/17 3:21pm
+* New movies: Harry Potter and the Chamber of Secrets, Harry Potter and the Prisoner of Azkaban, Harry Potter and the Sorcerer's Stone, Clueless, Summer Wars Subtitled, Harry Potter and the Goblet of Fire, The Birds, Pitch Black, The Crazy Family, The Rubber Gun, Vice Squad, Summer Wars Dubbed, Tales from the Hood, Harry Potter and the Deathly Hallows: Part 1, Harry Potter and the Deathly Hallows: Part 2, Harry Potter and the Half-Blood Prince, Harry Potter and the Order of the Phoenix
+
+* New screenings: 
+    * [Dogtooth](https://drafthouse.com/raleigh/show/dogtooth): Sat 7/19 (1:30pm)
+
+    * [Harry Potter And The Chamber Of Secrets](https://drafthouse.com/raleigh/show/harry-potter-and-the-chamber-of-secrets): Sun 8/10 (11:30am)
+
+    * [Harry Potter And The Deathly Hallows Part 1](https://drafthouse.com/raleigh/show/harry-potter-and-the-deathly-hallows-part-1): Sun 9/14 (11:30am)
+
+    * [Harry Potter And The Deathly Hallows Part 2](https://drafthouse.com/raleigh/show/harry-potter-and-the-deathly-hallows-part-2): Sun 9/21 (11:30am)
+
+    * [Harry Potter And The Goblet Of Fire](https://drafthouse.com/raleigh/show/harry-potter-and-the-goblet-of-fire): Sun 8/24 (11:30am)
+
+    * [Harry Potter And The Half Blood Prince](https://drafthouse.com/raleigh/show/harry-potter-and-the-half-blood-prince): Sun 9/7 (11:30am)
+
+    * [Harry Potter And The Order Of The Phoenix](https://drafthouse.com/raleigh/show/harry-potter-and-the-order-of-the-phoenix): Sun 8/31 (11:30am)
+
+    * [Harry Potter And The Prisoner Of Azkaban](https://drafthouse.com/raleigh/show/harry-potter-and-the-prisoner-of-azkaban): Sun 8/17 (11:30am)
+
+    * [Harry Potter And The Sorcerers Stone](https://drafthouse.com/raleigh/show/harry-potter-and-the-sorcerers-stone): Wed 8/6 (6:30pm)
+
+    * [Movie Party Clueless](https://drafthouse.com/raleigh/show/movie-party-clueless): Mon 8/4 (6:30pm)
+
+    * [Queer Film Theory 101 The Birds](https://drafthouse.com/raleigh/show/queer-film-theory-101-the-birds): Sat 7/19 (10:15am)
+
+    * [Special Event Summer Wars Dubbed In 4k](https://drafthouse.com/raleigh/show/special-event-summer-wars-dubbed-in-4k): Mon 7/28 (6:30pm)
+
+    * [Special Event Summer Wars Subtitled In 4k](https://drafthouse.com/raleigh/show/special-event-summer-wars-subtitled-in-4k): Sun 7/27 (11:45am), Tue 7/29 (6:30pm)
+
+    * [Tales From The Hood](https://drafthouse.com/raleigh/show/tales-from-the-hood): Fri 8/1 (10:15pm)
+
+    * [Terror Tuesday Pitch Black](https://drafthouse.com/raleigh/show/terror-tuesday-pitch-black): Tue 7/22 (9:45pm)
+
+    * [Weird Wednesday The Crazy Family](https://drafthouse.com/raleigh/show/weird-wednesday-the-crazy-family): Wed 7/23 (9:45pm)
+
+    * [Weird Wednesday The Rubber Gun](https://drafthouse.com/raleigh/show/weird-wednesday-the-rubber-gun): Wed 7/30 (9:45pm)
+
+    * [Weird Wednesday Vice Squad](https://drafthouse.com/raleigh/show/weird-wednesday-vice-squad): Wed 8/6 (10:15pm)
+
 ### Tue 6/17 2:38pm
 * New movies: Attack the Block, Io Island, House 1985, Back to the Beach, Russ Meyer's Up!, Dogtooth, Slither
 
