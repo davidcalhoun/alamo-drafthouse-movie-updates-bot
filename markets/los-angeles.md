@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 6/17 2:21pm
+* New movies: Ebony & Ivory
+
+* New screenings: 
+    * [Fantastic Fest Presents Ebony Ivory W Live Q A](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-ebony-ivory-w-live-q-a): Thu 8/7 (7:00pm), Fri 8/8 (6:30pm)
+
 ### Tue 6/17 1:25pm
 * New movies: Midsommar, Mystery Machine 6/23/2025
 
