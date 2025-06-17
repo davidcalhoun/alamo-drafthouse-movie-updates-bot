@@ -1,6 +1,32 @@
 # los-angeles
 
 ## Movie updates
+### Tue 6/17 8:26am
+* New movies: Harry Potter and the Chamber of Secrets, Harry Potter and the Prisoner of Azkaban, Harry Potter and the Sorcerer's Stone, Harry Potter and the Goblet of Fire, Io Island, The Birds, Harry Potter and the Deathly Hallows: Part 1, Harry Potter and the Deathly Hallows: Part 2, Harry Potter and the Half-Blood Prince, Harry Potter and the Order of the Phoenix, Attack the Block, Attack the Block
+
+* New screenings: 
+    * [Harry Potter And The Chamber Of Secrets](https://drafthouse.com/los-angeles/show/harry-potter-and-the-chamber-of-secrets): Sun 8/10 (12:00pm)
+
+    * [Harry Potter And The Deathly Hallows Part 1](https://drafthouse.com/los-angeles/show/harry-potter-and-the-deathly-hallows-part-1): Sun 9/14 (12:15pm)
+
+    * [Harry Potter And The Deathly Hallows Part 2](https://drafthouse.com/los-angeles/show/harry-potter-and-the-deathly-hallows-part-2): Sun 9/21 (12:30pm)
+
+    * [Harry Potter And The Goblet Of Fire](https://drafthouse.com/los-angeles/show/harry-potter-and-the-goblet-of-fire): Sun 8/24 (12:00pm)
+
+    * [Harry Potter And The Half Blood Prince](https://drafthouse.com/los-angeles/show/harry-potter-and-the-half-blood-prince): Sun 9/7 (12:15pm)
+
+    * [Harry Potter And The Order Of The Phoenix](https://drafthouse.com/los-angeles/show/harry-potter-and-the-order-of-the-phoenix): Sun 8/31 (12:30pm)
+
+    * [Harry Potter And The Prisoner Of Azkaban](https://drafthouse.com/los-angeles/show/harry-potter-and-the-prisoner-of-azkaban): Sun 8/17 (12:30pm)
+
+    * [Harry Potter And The Sorcerers Stone](https://drafthouse.com/los-angeles/show/harry-potter-and-the-sorcerers-stone): Tue 8/5 (6:00pm)
+
+    * [Io Island](https://drafthouse.com/los-angeles/show/io-island): Wed 7/16 (7:20pm)
+
+    * [Queer Film Theory 101 The Birds](https://drafthouse.com/los-angeles/show/queer-film-theory-101-the-birds): Sat 7/19 (12:00pm)
+
+    * [Still Awesome Attack The Block](https://drafthouse.com/los-angeles/show/still-awesome-attack-the-block): Mon 7/7 (7:20pm)
+
 ### Mon 6/16 2:21pm
 * New movies: Clueless, Silent Night, Deadly Night Part 2, Tales from the Hood, Cemetery Man, Hot Spring Shark Attack, Phenomena
 
