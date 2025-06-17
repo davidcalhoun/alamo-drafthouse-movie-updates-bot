@@ -1,6 +1,44 @@
 # los-angeles
 
 ## Movie updates
+### Tue 6/17 1:25pm
+* New movies: Midsommar, Mystery Machine 6/23/2025
+
+* New screenings: 
+    * [28 Years Later](https://drafthouse.com/los-angeles/show/28-years-later): Thu 6/19 (1:15pm, 2:10pm, 4:25pm, 5:15pm, 5:45pm, 7:30pm), Fri 6/20 (9:40am, 11:00am, 11:15am, 2:25pm, 4:30pm, 5:30pm, 7:35pm), Sat 6/21 (9:40am, 10:45am, 1:15pm, 2:20pm, 5:30pm), Sun 6/22 (9:40am, 10:45am, 2:25pm, 5:30pm), Mon 6/23 (11:20am, 2:25pm, 5:30pm), Tue 6/24 (11:20am, 2:25pm, 5:30pm), Wed 6/25 (11:20am, 2:25pm, 5:30pm)
+
+    * [Ballerina](https://drafthouse.com/los-angeles/show/ballerina): Thu 6/19 (11:00am, 11:50am, 3:10pm, 6:30pm), Fri 6/20 (10:30am, 11:50am, 3:10pm, 6:30pm), Sat 6/21 (11:00am, 11:50am, 3:10pm, 6:30pm), Sun 6/22 (10:00am, 11:50am, 3:10pm, 6:30pm), Mon 6/23 (11:50am, 3:10pm, 6:30pm), Tue 6/24 (11:50am, 3:10pm, 6:30pm), Wed 6/25 (11:50am, 3:10pm, 6:30pm)
+
+    * [Bound](https://drafthouse.com/los-angeles/show/bound): Fri 6/20 (10:20am), Sun 6/22 (1:15pm), Tue 6/24 (11:30am), Wed 6/25 (2:40pm)
+
+    * [Bring Her Back](https://drafthouse.com/los-angeles/show/bring-her-back): Thu 6/19 (6:50pm), Fri 6/20 (6:50pm), Sat 6/21 (6:50pm), Sun 6/22 (6:50pm), Mon 6/23 (6:50pm), Tue 6/24 (6:50pm), Wed 6/25 (6:50pm)
+
+    * [Brokeback Mountain 20th Anniversary](https://drafthouse.com/los-angeles/show/brokeback-mountain-20th-anniversary): Fri 6/20 (1:05pm), Sun 6/22 (6:00pm), Mon 6/23 (12:00pm, 2:45pm), Tue 6/24 (12:10pm), Wed 6/25 (11:10am, 3:50pm)
+
+    * [Elio](https://drafthouse.com/los-angeles/show/elio): Fri 6/20 (9:40am), Sat 6/21 (9:40am), Sun 6/22 (9:40am)
+
+    * [Friendship](https://drafthouse.com/los-angeles/show/friendship): Thu 6/19 (11:10am, 3:45pm), Fri 6/20 (9:30am, 3:45pm), Sat 6/21 (9:30am, 3:45pm), Sun 6/22 (9:30am, 3:45pm), Mon 6/23 (12:00pm, 3:50pm), Tue 6/24 (12:00pm, 3:50pm), Wed 6/25 (12:00pm, 3:50pm)
+
+    * [How To Train Your Dragon 2025](https://drafthouse.com/los-angeles/show/how-to-train-your-dragon-2025): Thu 6/19 (11:25am, 12:45pm, 2:45pm, 6:00pm), Fri 6/20 (9:50am, 12:25pm, 2:45pm, 6:00pm), Sat 6/21 (10:00am, 12:25pm, 2:45pm, 6:00pm), Sun 6/22 (10:10am, 12:25pm, 2:45pm, 6:00pm), Mon 6/23 (11:30am, 2:45pm, 6:00pm), Tue 6/24 (11:45am, 3:00pm, 6:20pm), Wed 6/25 (11:30am, 12:35pm, 2:45pm, 6:00pm)
+
+    * [Materialists](https://drafthouse.com/los-angeles/show/materialists): Thu 6/19 (12:10pm, 3:15pm, 6:20pm), Fri 6/20 (9:15am, 12:15pm, 3:15pm, 6:20pm), Sat 6/21 (9:15am, 12:15pm, 3:15pm, 6:20pm), Sun 6/22 (10:00am, 1:00pm, 4:10pm, 7:15pm), Mon 6/23 (11:40am, 1:00pm, 4:10pm, 7:15pm), Tue 6/24 (1:00pm, 4:10pm, 7:15pm), Wed 6/25 (12:15pm, 3:15pm, 6:20pm)
+
+    * [Midsommar](https://drafthouse.com/los-angeles/show/midsommar): Sat 6/21 (5:45pm), Sun 6/22 (10:40am, 4:15pm), Mon 6/23 (3:35pm), Tue 6/24 (3:35pm), Wed 6/25 (5:45pm)
+
+    * [Mission Impossible The Final Reckoning](https://drafthouse.com/los-angeles/show/mission-impossible-the-final-reckoning): Thu 6/19 (11:45am, 2:50pm, 6:40pm), Fri 6/20 (10:45am, 2:50pm, 6:40pm), Sat 6/21 (10:40am, 2:50pm, 6:40pm), Sun 6/22 (10:40am, 2:50pm, 6:40pm), Mon 6/23 (11:45am, 2:50pm, 6:40pm), Tue 6/24 (11:45am, 2:50pm, 6:40pm), Wed 6/25 (11:45am, 2:50pm, 6:40pm)
+
+    * [Mystery Machine 6 23 2025](https://drafthouse.com/los-angeles/show/mystery-machine-6-23-2025): Mon 6/23 (7:00pm)
+
+    * [Pavements](https://drafthouse.com/los-angeles/show/pavements): Thu 6/19 (11:30am)
+
+    * [Special Event Dogma Resurrected 25th Anniversary](https://drafthouse.com/los-angeles/show/special-event-dogma-resurrected-25th-anniversary): Thu 6/19 (2:00pm)
+
+    * [The Hunger](https://drafthouse.com/los-angeles/show/the-hunger): Sat 6/21 (9:15am), Sun 6/22 (7:50pm)
+
+    * [The Life Of Chuck](https://drafthouse.com/los-angeles/show/the-life-of-chuck): Thu 6/19 (12:20pm, 4:00pm, 7:10pm), Fri 6/20 (1:20pm, 4:20pm, 7:25pm), Sat 6/21 (11:30am, 2:40pm, 4:25pm, 7:30pm), Sun 6/22 (1:25pm, 4:25pm, 7:30pm), Mon 6/23 (12:45pm, 3:50pm, 6:10pm), Tue 6/24 (12:45pm, 3:50pm), Wed 6/25 (1:15pm, 4:20pm, 7:30pm)
+
+    * [The Phoenician Scheme](https://drafthouse.com/los-angeles/show/the-phoenician-scheme): Thu 6/19 (11:00am, 1:50pm, 4:45pm, 7:45pm), Fri 6/20 (9:15am, 12:00pm, 1:50pm, 4:50pm, 7:45pm), Sat 6/21 (9:15am, 12:00pm, 1:50pm, 4:45pm, 7:45pm), Sun 6/22 (9:15am, 12:00pm, 1:50pm, 4:45pm, 7:40pm), Mon 6/23 (11:00am, 1:50pm, 4:40pm, 7:30pm), Tue 6/24 (11:00am, 1:50pm, 4:40pm, 7:30pm), Wed 6/25 (11:10am, 2:00pm, 4:50pm, 7:45pm)
+
 ### Tue 6/17 8:26am
 * New movies: Harry Potter and the Chamber of Secrets, Harry Potter and the Prisoner of Azkaban, Harry Potter and the Sorcerer's Stone, Harry Potter and the Goblet of Fire, Io Island, The Birds, Harry Potter and the Deathly Hallows: Part 1, Harry Potter and the Deathly Hallows: Part 2, Harry Potter and the Half-Blood Prince, Harry Potter and the Order of the Phoenix, Attack the Block, Attack the Block
 
