@@ -1,6 +1,25 @@
 # los-angeles
 
 ## Movie updates
+### Tue 6/17 6:54pm
+
+* New screenings: 
+    * [28 Years Later](https://drafthouse.com/los-angeles/show/28-years-later): Thu 6/19 (8:20pm, 8:50pm, 9:50pm)
+
+    * [Ballerina](https://drafthouse.com/los-angeles/show/ballerina): Thu 6/19 (10:15pm)
+
+    * [Bring Her Back](https://drafthouse.com/los-angeles/show/bring-her-back): Thu 6/19 (10:45pm)
+
+    * [How To Train Your Dragon 2025](https://drafthouse.com/los-angeles/show/how-to-train-your-dragon-2025): Thu 6/19 (9:15pm)
+
+    * [Materialists](https://drafthouse.com/los-angeles/show/materialists): Thu 6/19 (9:30pm)
+
+    * [Mission Impossible The Final Reckoning](https://drafthouse.com/los-angeles/show/mission-impossible-the-final-reckoning): Thu 6/19 (9:45pm)
+
+    * [The Life Of Chuck](https://drafthouse.com/los-angeles/show/the-life-of-chuck): Thu 6/19 (10:35pm)
+
+    * [The Phoenician Scheme](https://drafthouse.com/los-angeles/show/the-phoenician-scheme): Thu 6/19 (10:35pm)
+
 ### Tue 6/17 2:21pm
 * New movies: Ebony & Ivory
 
