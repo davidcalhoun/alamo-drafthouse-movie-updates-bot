@@ -1,6 +1,27 @@
 # los-angeles
 
 ## Movie updates
+### Thu 6/19 11:31am
+
+* New screenings: 
+    * [28 Years Later](https://drafthouse.com/los-angeles/show/28-years-later): Fri 6/20 (8:35pm, 9:50pm), Sat 6/21 (8:35pm, 9:25pm)
+
+    * [Ballerina](https://drafthouse.com/los-angeles/show/ballerina): Fri 6/20 (9:00pm), Sat 6/21 (9:50pm)
+
+    * [Bring Her Back](https://drafthouse.com/los-angeles/show/bring-her-back): Fri 6/20 (10:40pm), Sat 6/21 (10:45pm)
+
+    * [How To Train Your Dragon 2025](https://drafthouse.com/los-angeles/show/how-to-train-your-dragon-2025): Fri 6/20 (9:15pm), Sat 6/21 (9:15pm)
+
+    * [Materialists](https://drafthouse.com/los-angeles/show/materialists): Fri 6/20 (9:25pm), Sat 6/21 (9:30pm)
+
+    * [Mission Impossible The Final Reckoning](https://drafthouse.com/los-angeles/show/mission-impossible-the-final-reckoning): Fri 6/20 (9:45pm), Sat 6/21 (9:45pm)
+
+    * [The Hunger](https://drafthouse.com/los-angeles/show/the-hunger): Fri 6/20 (10:30pm), Sat 6/21 (10:40pm)
+
+    * [The Life Of Chuck](https://drafthouse.com/los-angeles/show/the-life-of-chuck): Fri 6/20 (10:40pm), Sat 6/21 (10:35pm)
+
+    * [The Phoenician Scheme](https://drafthouse.com/los-angeles/show/the-phoenician-scheme): Fri 6/20 (10:35pm), Sat 6/21 (10:40pm)
+
 ### Tue 6/17 6:54pm
 
 * New screenings: 
