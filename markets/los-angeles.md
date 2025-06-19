@@ -1,6 +1,33 @@
 # los-angeles
 
 ## Movie updates
+### Thu 6/19 12:16pm
+
+* New screenings: 
+    * [28 Years Later](https://drafthouse.com/los-angeles/show/28-years-later): Mon 6/23 (8:35pm), Tue 6/24 (8:35pm), Wed 6/25 (8:35pm, 9:25pm)
+
+    * [Ballerina](https://drafthouse.com/los-angeles/show/ballerina): Mon 6/23 (9:50pm), Tue 6/24 (9:50pm), Wed 6/25 (9:50pm)
+
+    * [Bound](https://drafthouse.com/los-angeles/show/bound): Mon 6/23 (10:20pm)
+
+    * [Bring Her Back](https://drafthouse.com/los-angeles/show/bring-her-back): Mon 6/23 (10:40pm), Tue 6/24 (10:40pm), Wed 6/25 (10:45pm)
+
+    * [Brokeback Mountain 20th Anniversary](https://drafthouse.com/los-angeles/show/brokeback-mountain-20th-anniversary): Tue 6/24 (9:25pm)
+
+    * [How To Train Your Dragon 2025](https://drafthouse.com/los-angeles/show/how-to-train-your-dragon-2025): Mon 6/23 (9:20pm), Tue 6/24 (9:40pm), Wed 6/25 (9:15pm)
+
+    * [Materialists](https://drafthouse.com/los-angeles/show/materialists): Mon 6/23 (10:20pm), Tue 6/24 (10:20pm), Wed 6/25 (9:30pm)
+
+    * [Midsommar](https://drafthouse.com/los-angeles/show/midsommar): Wed 6/25 (10:15pm)
+
+    * [Mission Impossible The Final Reckoning](https://drafthouse.com/los-angeles/show/mission-impossible-the-final-reckoning): Mon 6/23 (9:45pm), Tue 6/24 (9:45pm), Wed 6/25 (9:45pm)
+
+    * [The Hunger](https://drafthouse.com/los-angeles/show/the-hunger): Tue 6/24 (10:10pm)
+
+    * [The Life Of Chuck](https://drafthouse.com/los-angeles/show/the-life-of-chuck): Mon 6/23 (10:30pm), Tue 6/24 (10:15pm), Wed 6/25 (10:35pm)
+
+    * [The Phoenician Scheme](https://drafthouse.com/los-angeles/show/the-phoenician-scheme): Mon 6/23 (10:25pm), Tue 6/24 (10:25pm), Wed 6/25 (10:40pm)
+
 ### Thu 6/19 11:31am
 
 * New screenings: 
