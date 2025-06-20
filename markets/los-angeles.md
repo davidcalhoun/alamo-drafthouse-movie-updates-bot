@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Thu 6/19 10:22pm
+* New movies: Hot Milk, Terminator: Dark Fate, On Swift Horses
+
+* New screenings: 
+    * [Hot Milk](https://drafthouse.com/los-angeles/show/hot-milk): Fri 6/27 (7:15pm), Sun 6/29 (11:15am), Tue 7/1 (7:15pm)
+
+    * [On Swift Horses](https://drafthouse.com/los-angeles/show/on-swift-horses): Sat 6/28 (12:00pm), Mon 6/30 (6:15pm)
+
+    * [Terminator Dark Fate](https://drafthouse.com/los-angeles/show/terminator-dark-fate): Wed 7/16 (6:15pm)
+
 ### Thu 6/19 12:16pm
 
 * New screenings: 
