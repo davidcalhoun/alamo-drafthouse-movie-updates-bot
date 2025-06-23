@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 6/23 9:40am
+* New movies: Smurfs 2025
+
+* New screenings: 
+    * [Smurfs 2025](https://drafthouse.com/raleigh/show/smurfs-2025): Fri 7/18 (6:00pm), Sat 7/19 (6:15pm), Sun 7/20 (6:15pm)
+
 ### Tue 6/17 3:21pm
 * New movies: Harry Potter and the Chamber of Secrets, Harry Potter and the Prisoner of Azkaban, Harry Potter and the Sorcerer's Stone, Clueless, Summer Wars Subtitled, Harry Potter and the Goblet of Fire, The Birds, Pitch Black, The Crazy Family, The Rubber Gun, Vice Squad, Summer Wars Dubbed, Tales from the Hood, Harry Potter and the Deathly Hallows: Part 1, Harry Potter and the Deathly Hallows: Part 2, Harry Potter and the Half-Blood Prince, Harry Potter and the Order of the Phoenix
 
