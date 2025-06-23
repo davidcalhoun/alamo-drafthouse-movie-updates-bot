@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 6/23 12:35pm
+
+* New screenings: 
+    * [Superman 2025](https://drafthouse.com/raleigh/show/superman-2025): Thu 7/10 (3:45pm, 7:00pm, 10:15pm), Fri 7/11 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Sat 7/12 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Sun 7/13 (12:00pm, 3:15pm, 6:30pm, 9:45pm)
+
 ### Mon 6/23 9:40am
 * New movies: Smurfs 2025
 
