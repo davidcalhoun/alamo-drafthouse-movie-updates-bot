@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 6/23 6:37am
+* New movies: Smurfs 2025
+
+* New screenings: 
+    * [Smurfs 2025](https://drafthouse.com/los-angeles/show/smurfs-2025): Fri 7/18 (10:45am, 1:30pm, 4:15pm, 7:00pm), Sat 7/19 (10:45am, 1:30pm, 4:15pm, 7:00pm), Sun 7/20 (10:45am, 1:30pm, 4:15pm, 7:00pm), Mon 7/21 (11:00am, 1:40pm, 4:20pm, 7:00pm), Tue 7/22 (11:00am, 1:40pm, 4:20pm, 7:00pm), Wed 7/23 (11:00am, 1:40pm, 4:20pm, 7:00pm)
+
 ### Thu 6/19 10:22pm
 * New movies: Hot Milk, Terminator: Dark Fate, On Swift Horses
 
