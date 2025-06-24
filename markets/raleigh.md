@@ -1,6 +1,33 @@
 # raleigh
 
 ## Movie updates
+### Tue 6/24 12:35pm
+
+* New screenings: 
+    * [28 Years Later](https://drafthouse.com/raleigh/show/28-years-later): Wed 7/2 (11:00am, 12:45pm, 3:45pm, 6:45pm, 9:30pm)
+
+    * [Ballerina](https://drafthouse.com/raleigh/show/ballerina): Wed 7/2 (10:00pm)
+
+    * [Elio](https://drafthouse.com/raleigh/show/elio): Wed 7/2 (1:00pm, 2:00pm, 6:15pm, 9:00pm)
+
+    * [F1 The Movie](https://drafthouse.com/raleigh/show/f1-the-movie): Wed 7/2 (12:00pm, 4:00pm, 7:45pm, 9:30pm, 10:15pm), Thu 7/3 (12:15pm, 4:00pm, 7:45pm, 9:30pm)
+
+    * [How To Train Your Dragon 2025](https://drafthouse.com/raleigh/show/how-to-train-your-dragon-2025): Wed 7/2 (12:15pm, 2:45pm, 4:00pm, 6:45pm)
+
+    * [Jurassic World Rebirth](https://drafthouse.com/raleigh/show/jurassic-world-rebirth): Wed 7/2 (12:30pm, 3:45pm, 7:00pm, 7:30pm, 10:15pm), Thu 7/3 (12:30pm, 3:45pm, 7:00pm, 10:15pm)
+
+    * [Kids Camp Hotel Transylvania](https://drafthouse.com/raleigh/show/kids-camp-hotel-transylvania): Wed 7/2 (11:45am)
+
+    * [Lilo And Stitch 2025](https://drafthouse.com/raleigh/show/lilo-and-stitch-2025): Wed 7/2 (12:30pm, 3:30pm, 6:30pm)
+
+    * [M3gan 2 0](https://drafthouse.com/raleigh/show/m3gan-2-0): Wed 7/2 (1:15pm, 4:30pm, 7:30pm, 10:45pm)
+
+    * [Materialists](https://drafthouse.com/raleigh/show/materialists): Wed 7/2 (11:30am, 3:30pm, 6:15pm, 10:00pm)
+
+    * [Mission Impossible The Final Reckoning](https://drafthouse.com/raleigh/show/mission-impossible-the-final-reckoning): Wed 7/2 (2:20pm)
+
+    * [The Phoenician Scheme](https://drafthouse.com/raleigh/show/the-phoenician-scheme): Wed 7/2 (4:45pm, 7:15pm, 10:45pm)
+
 ### Mon 6/23 10:17pm
 * New movies: Brokeback Mountain: 20th Anniversary
 
