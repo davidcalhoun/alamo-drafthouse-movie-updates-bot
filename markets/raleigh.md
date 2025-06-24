@@ -1,6 +1,36 @@
 # raleigh
 
 ## Movie updates
+### Mon 6/23 10:17pm
+* New movies: Brokeback Mountain: 20th Anniversary
+
+* New screenings: 
+    * [28 Years Later](https://drafthouse.com/raleigh/show/28-years-later): Wed 6/25 (1:30pm, 4:30pm, 7:30pm, 10:45pm), Thu 6/26 (11:45am, 12:00pm, 2:00pm, 2:45pm, 5:00pm, 6:45pm, 10:00pm), Fri 6/27 (11:00am, 12:45pm, 3:30pm, 4:00pm, 6:45pm, 7:15pm, 9:15pm, 9:30pm, 10:00pm), Sat 6/28 (11:00am, 12:45pm, 3:45pm, 4:00pm, 6:45pm, 7:15pm, 9:15pm, 9:30pm, 10:00pm), Sun 6/29 (11:00am, 12:45pm, 3:45pm, 6:45pm, 9:30pm, 10:00pm, 10:45pm), Mon 6/30 (11:00am, 12:45pm, 3:45pm, 6:45pm, 9:30pm, 10:00pm), Tue 7/1 (11:00am, 12:45pm, 3:45pm, 6:45pm, 9:30pm, 10:00pm)
+
+    * [Ballerina](https://drafthouse.com/raleigh/show/ballerina): Thu 6/26 (10:45pm), Fri 6/27 (10:30pm), Sat 6/28 (10:30pm), Sun 6/29 (7:15pm, 10:30pm), Mon 6/30 (7:15pm, 10:30pm), Tue 7/1 (7:15pm, 10:30pm)
+
+    * [Brokeback Mountain 20th Anniversary](https://drafthouse.com/raleigh/show/brokeback-mountain-20th-anniversary): Thu 6/26 (1:00pm), Mon 6/30 (8:00pm)
+
+    * [Elio](https://drafthouse.com/raleigh/show/elio): Thu 6/26 (12:45pm, 3:45pm, 6:30pm, 9:15pm), Fri 6/27 (11:00am, 2:00pm, 3:00pm, 6:15pm, 9:00pm), Sat 6/28 (11:00am, 2:00pm, 3:15pm, 6:15pm, 9:00pm), Sun 6/29 (11:00am, 2:00pm, 3:00pm, 6:15pm, 9:00pm), Mon 6/30 (11:00am, 2:00pm, 3:00pm, 6:15pm, 9:00pm), Tue 7/1 (12:00pm, 2:00pm, 3:00pm, 6:00pm, 9:00pm)
+
+    * [F1 The Movie](https://drafthouse.com/raleigh/show/f1-the-movie): Thu 6/26 (3:15pm, 4:45pm, 6:00pm, 8:00pm, 8:30pm, 9:45pm), Fri 6/27 (10:30am, 1:45pm, 2:15pm, 5:30pm, 6:00pm, 9:45pm), Sat 6/28 (10:30am, 1:45pm, 2:15pm, 5:30pm, 6:00pm, 9:45pm), Sun 6/29 (10:30am, 1:45pm, 2:15pm, 5:30pm, 6:00pm, 9:15pm, 9:45pm), Mon 6/30 (12:30pm, 2:00pm, 4:15pm, 5:45pm), Tue 7/1 (12:30pm, 2:45pm, 4:15pm, 9:15pm)
+
+    * [Frankenhooker](https://drafthouse.com/raleigh/show/frankenhooker): Tue 7/1 (8:00pm)
+
+    * [How To Train Your Dragon 2025](https://drafthouse.com/raleigh/show/how-to-train-your-dragon-2025): Thu 6/26 (11:45am, 3:00pm, 6:15pm, 9:30pm), Fri 6/27 (12:00pm, 3:00pm, 6:30pm, 9:30pm), Sat 6/28 (11:45am, 3:00pm, 6:45pm, 9:30pm), Sun 6/29 (11:30am, 12:00pm, 3:00pm, 6:30pm, 9:30pm), Mon 6/30 (12:00pm, 3:00pm, 4:00pm, 6:45pm, 9:30pm), Tue 7/1 (12:00pm, 2:30pm, 4:00pm, 6:45pm, 9:00pm)
+
+    * [Lilo And Stitch 2025](https://drafthouse.com/raleigh/show/lilo-and-stitch-2025): Thu 6/26 (1:00pm, 4:15pm, 7:30pm), Fri 6/27 (12:30pm, 3:15pm, 6:30pm), Sat 6/28 (12:15pm, 3:00pm, 6:30pm), Sun 6/29 (12:30pm, 3:15pm, 6:30pm), Mon 6/30 (12:30pm, 3:15pm, 6:30pm), Tue 7/1 (12:30pm, 3:15pm, 6:30pm)
+
+    * [M3gan 2 0](https://drafthouse.com/raleigh/show/m3gan-2-0): Thu 6/26 (4:30pm), Fri 6/27 (10:30am, 1:30pm, 4:30pm, 10:30pm), Sat 6/28 (10:30am, 1:30pm, 4:30pm, 10:30pm), Sun 6/29 (10:30am, 1:30pm, 4:30pm, 10:30pm), Mon 6/30 (1:00pm, 4:15pm, 7:30pm, 10:30pm), Tue 7/1 (1:00pm, 4:15pm, 7:30pm, 10:30pm)
+
+    * [Materialists](https://drafthouse.com/raleigh/show/materialists): Thu 6/26 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Fri 6/27 (12:00pm, 3:30pm, 6:15pm, 10:00pm), Sat 6/28 (12:00pm, 3:45pm, 6:15pm, 10:00pm), Sun 6/29 (12:00pm, 3:30pm, 6:15pm, 10:00pm), Mon 6/30 (12:00pm, 3:30pm, 6:15pm, 10:00pm), Tue 7/1 (11:30am, 3:30pm, 6:00pm, 10:00pm)
+
+    * [Mission Impossible The Final Reckoning](https://drafthouse.com/raleigh/show/mission-impossible-the-final-reckoning): Thu 6/26 (12:45pm), Fri 6/27 (11:15am), Sat 6/28 (11:30am), Sun 6/29 (11:45am), Mon 6/30 (11:45am), Tue 7/1 (11:45am)
+
+    * [The Life Of Chuck](https://drafthouse.com/raleigh/show/the-life-of-chuck): Thu 6/26 (12:00pm, 3:15pm), Fri 6/27 (3:10am), Sun 6/29 (4:00pm)
+
+    * [The Phoenician Scheme](https://drafthouse.com/raleigh/show/the-phoenician-scheme): Thu 6/26 (1:45pm, 4:45pm, 7:45pm, 10:30pm), Fri 6/27 (4:45pm, 7:45pm, 10:45pm), Sat 6/28 (4:45pm, 7:45pm, 10:45pm), Sun 6/29 (4:45pm, 7:45pm, 10:45pm), Mon 6/30 (4:45pm, 7:45pm, 10:45pm), Tue 7/1 (4:45pm, 7:45pm, 10:45pm)
+
 ### Mon 6/23 1:26pm
 
 * New screenings: 
