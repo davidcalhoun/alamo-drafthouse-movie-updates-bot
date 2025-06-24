@@ -1,6 +1,15 @@
 # raleigh
 
 ## Movie updates
+### Tue 6/24 2:38pm
+
+* New screenings: 
+    * [F1 The Movie](https://drafthouse.com/raleigh/show/f1-the-movie): Fri 7/4 (12:30pm, 2:30pm, 6:15pm), Sat 7/5 (11:00am, 1:15pm, 3:00pm, 6:45pm, 9:00pm), Sun 7/6 (11:00am, 1:15pm, 3:00pm, 6:45pm, 9:00pm)
+
+    * [Jurassic World Rebirth](https://drafthouse.com/raleigh/show/jurassic-world-rebirth): Fri 7/4 (12:30pm, 3:45pm, 7:00pm), Sun 7/6 (10:45am, 2:00pm, 5:15pm, 8:30pm)
+
+    * [M3gan 2 0](https://drafthouse.com/raleigh/show/m3gan-2-0): Fri 7/4 (12:15pm, 4:15pm, 7:20pm), Sat 7/5 (10:00am, 12:00pm, 3:15pm, 6:30pm, 10:30pm), Sun 7/6 (10:00am, 12:00pm, 3:15pm, 6:30pm, 10:30pm)
+
 ### Tue 6/24 12:35pm
 
 * New screenings: 
