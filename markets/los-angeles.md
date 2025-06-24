@@ -1,6 +1,46 @@
 # los-angeles
 
 ## Movie updates
+### Tue 6/24 4:20am
+* New movies: Ponyboi
+
+* New screenings: 
+    * [28 Years Later](https://drafthouse.com/los-angeles/show/28-years-later): Thu 6/26 (11:50am, 1:15pm, 2:30pm, 4:20pm, 5:40pm, 7:30pm, 8:45pm, 10:30pm), Fri 6/27 (10:25am, 11:25am, 1:30pm, 2:35pm, 4:35pm, 5:45pm, 6:25pm, 7:45pm, 8:50pm, 10:45pm), Sat 6/28 (10:25am, 11:45am, 1:30pm, 2:35pm, 4:35pm, 5:45pm, 6:00pm, 7:45pm, 8:50pm, 10:45pm), Sun 6/29 (10:25am, 11:50am, 1:30pm, 3:00pm, 4:35pm, 5:15pm, 6:10pm, 7:45pm), Mon 6/30 (11:00am, 11:25am, 1:50pm, 2:25pm, 3:10pm, 4:50pm, 5:30pm, 6:50pm, 7:45pm, 8:35pm, 10:50pm), Tue 7/1 (11:00am, 11:25am, 1:50pm, 2:25pm, 4:50pm, 5:30pm, 7:45pm, 8:35pm, 10:50pm)
+
+    * [Ballerina](https://drafthouse.com/los-angeles/show/ballerina): Thu 6/26 (11:10am, 3:10pm, 7:15pm, 10:35pm), Fri 6/27 (11:30am, 2:50pm, 6:10pm, 9:30pm), Sat 6/28 (11:15am, 2:50pm, 6:10pm, 9:30pm), Sun 6/29 (9:45am, 1:00pm, 4:15pm, 7:30pm), Mon 6/30 (12:00pm, 3:20pm, 6:40pm, 10:00pm), Tue 7/1 (12:10pm, 3:25pm, 6:45pm, 10:00pm)
+
+    * [Bound](https://drafthouse.com/los-angeles/show/bound): Thu 6/26 (3:00pm)
+
+    * [Bring Her Back](https://drafthouse.com/los-angeles/show/bring-her-back): Thu 6/26 (12:00pm)
+
+    * [Brokeback Mountain 20th Anniversary](https://drafthouse.com/los-angeles/show/brokeback-mountain-20th-anniversary): Thu 6/26 (12:10pm), Sat 6/28 (2:30pm), Mon 6/30 (1:00pm), Tue 7/1 (2:35pm)
+
+    * [Elio](https://drafthouse.com/los-angeles/show/elio): Thu 6/26 (12:30pm, 3:25pm, 6:15pm, 10:00pm), Fri 6/27 (9:25am, 12:35pm, 3:25pm, 6:15pm, 9:10pm), Sat 6/28 (9:25am, 12:40pm, 3:30pm, 6:20pm, 9:10pm), Sun 6/29 (9:25am, 12:40pm, 3:30pm, 6:20pm), Mon 6/30 (11:15am, 3:15pm, 6:10pm, 9:00pm), Tue 7/1 (11:15am, 3:15pm, 6:10pm, 9:00pm)
+
+    * [F1 The Movie](https://drafthouse.com/los-angeles/show/f1-the-movie): Thu 6/26 (4:40pm, 8:30pm, 9:20pm), Fri 6/27 (10:00am, 1:45pm, 5:30pm), Sat 6/28 (10:00am, 1:45pm, 5:30pm, 8:30pm), Sun 6/29 (10:00am, 1:45pm, 5:30pm, 6:00pm), Mon 6/30 (12:15pm, 2:00pm, 5:45pm), Tue 7/1 (12:40pm, 2:00pm, 5:45pm)
+
+    * [Frankenhooker](https://drafthouse.com/los-angeles/show/frankenhooker): Fri 6/27 (10:00pm), Sat 6/28 (9:10pm), Sun 6/29 (8:20pm)
+
+    * [Friendship](https://drafthouse.com/los-angeles/show/friendship): Thu 6/26 (12:15pm)
+
+    * [How To Train Your Dragon 2025](https://drafthouse.com/los-angeles/show/how-to-train-your-dragon-2025): Thu 6/26 (11:30am, 2:45pm, 6:00pm, 9:50pm), Fri 6/27 (9:20am, 12:15pm, 3:30pm, 6:45pm, 10:00pm), Sat 6/28 (9:25am, 12:15pm, 3:30pm, 6:45pm, 10:00pm), Sun 6/29 (9:25am, 12:15pm, 3:30pm, 6:45pm), Mon 6/30 (11:45am, 3:00pm, 6:20pm, 9:35pm), Tue 7/1 (11:45am, 3:00pm, 6:20pm, 9:35pm)
+
+    * [M3gan 2 0](https://drafthouse.com/los-angeles/show/m3gan-2-0): Thu 6/26 (9:10pm), Fri 6/27 (9:20am, 9:15pm), Sat 6/28 (9:20am, 9:15pm), Sun 6/29 (9:20am), Mon 6/30 (9:30pm), Tue 7/1 (9:30pm, 10:00pm)
+
+    * [Materialists](https://drafthouse.com/los-angeles/show/materialists): Thu 6/26 (1:25pm, 4:30pm, 7:40pm, 10:40pm), Fri 6/27 (10:10am, 11:15am, 1:15pm, 3:15pm, 4:25pm, 7:30pm, 10:30pm), Sat 6/28 (10:15am, 1:20pm, 2:10pm, 4:25pm, 5:20pm, 7:30pm, 10:30pm), Sun 6/29 (10:00am, 1:10pm, 4:15pm, 7:20pm), Mon 6/30 (12:10pm, 4:25pm, 7:30pm, 10:30pm), Tue 7/1 (11:25am, 12:10pm, 4:25pm, 6:00pm, 7:30pm, 10:30pm)
+
+    * [Midsommar](https://drafthouse.com/los-angeles/show/midsommar): Thu 6/26 (3:35pm)
+
+    * [Mission Impossible The Final Reckoning](https://drafthouse.com/los-angeles/show/mission-impossible-the-final-reckoning): Thu 6/26 (12:40pm), Fri 6/27 (11:10am), Sat 6/28 (10:10am), Sun 6/29 (2:00pm), Mon 6/30 (11:10am), Tue 7/1 (12:20pm, 9:10pm)
+
+    * [On Swift Horses](https://drafthouse.com/los-angeles/show/on-swift-horses): Fri 6/27 (1:10pm)
+
+    * [Ponyboi](https://drafthouse.com/los-angeles/show/ponyboi): Fri 6/27 (4:20pm), Mon 6/30 (4:00pm), Tue 7/1 (4:20pm)
+
+    * [The Life Of Chuck](https://drafthouse.com/los-angeles/show/the-life-of-chuck): Thu 6/26 (12:45pm)
+
+    * [The Phoenician Scheme](https://drafthouse.com/los-angeles/show/the-phoenician-scheme): Thu 6/26 (11:30am, 2:20pm, 5:10pm, 8:00pm, 10:50pm), Fri 6/27 (10:20am, 2:20pm, 5:10pm, 8:00pm, 10:50pm), Sat 6/28 (11:30am, 2:20pm, 5:10pm, 8:00pm, 10:50pm), Sun 6/29 (11:25am, 2:15pm, 5:10pm, 8:00pm), Mon 6/30 (11:00am, 2:00pm, 5:00pm, 8:00pm, 10:45pm), Tue 7/1 (11:00am, 2:00pm, 5:00pm, 8:00pm, 10:45pm)
+
 ### Mon 6/23 6:37am
 * New movies: Smurfs 2025
 
