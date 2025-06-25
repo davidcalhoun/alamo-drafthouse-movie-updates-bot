@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 6/25 1:26pm
+* New movies: Mystery Machine 7/7/2025
+
+* New screenings: 
+    * [Mystery Machine 7 7 2025](https://drafthouse.com/los-angeles/show/mystery-machine-7-7-2025): Mon 7/7 (7:00pm)
+
 ### Tue 6/24 4:20am
 * New movies: Ponyboi
 
