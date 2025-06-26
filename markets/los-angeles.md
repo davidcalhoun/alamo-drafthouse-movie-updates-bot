@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 6/26 6:34am
+* New movies: The Grateful Dead Movie 2025 Meet-Up
+
+* New screenings: 
+    * [The Grateful Dead Movie 2025 Meet Up](https://drafthouse.com/los-angeles/show/the-grateful-dead-movie-2025-meet-up): Thu 8/14 (6:00pm), Sat 8/16 (2:15pm)
+
 ### Wed 6/25 1:26pm
 * New movies: Mystery Machine 7/7/2025
 
