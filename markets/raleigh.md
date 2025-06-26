@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 6/26 9:38am
+* New movies: The Grateful Dead Movie 2025 Meet-Up
+
+* New screenings: 
+    * [The Grateful Dead Movie 2025 Meet Up](https://drafthouse.com/raleigh/show/the-grateful-dead-movie-2025-meet-up): Thu 8/14 (6:00pm), Sat 8/16 (2:30pm)
+
 ### Tue 6/24 2:38pm
 
 * New screenings: 
