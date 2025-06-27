@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 6/27 4:19am
+* New movies: Dogtooth
+
+* New screenings: 
+    * [Dogtooth](https://drafthouse.com/los-angeles/show/dogtooth): Fri 7/18 (6:00pm), Sat 7/19 (3:10pm), Sun 7/20 (12:15pm)
+
 ### Thu 6/26 6:34am
 * New movies: The Grateful Dead Movie 2025 Meet-Up
 
