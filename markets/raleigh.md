@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Sat 6/28 1:23pm
+
+* New screenings: 
+    * [Elio](https://drafthouse.com/raleigh/show/elio): Sat 6/28 (12:55pm)
+
 ### Thu 6/26 9:38am
 * New movies: The Grateful Dead Movie 2025 Meet-Up
 
