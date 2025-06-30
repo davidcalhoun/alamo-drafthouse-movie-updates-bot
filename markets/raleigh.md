@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Mon 6/30 2:37pm
+* New movies: Mystery Machine 7/7/2025, IN THE MOOD FOR LOVE 25th Anniversary
+
+* New screenings: 
+    * [In The Mood For Love 25th Anniversary](https://drafthouse.com/raleigh/show/in-the-mood-for-love-25th-anniversary): Fri 7/11 (7:00pm), Sat 7/12 (3:45pm), Sun 7/13 (10:45am)
+
+    * [Mystery Machine 7 7 2025](https://drafthouse.com/raleigh/show/mystery-machine-7-7-2025): Mon 7/7 (6:30pm)
+
 ### Mon 6/30 9:39am
 * New movies: I Know What You Did Last Summer 2025, BTS Army: Forever We Are Young
 
