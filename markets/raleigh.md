@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 6/30 3:21pm
+* New movies: In the Mood for Love
+
+
+
 ### Mon 6/30 2:37pm
 * New movies: Mystery Machine 7/7/2025, IN THE MOOD FOR LOVE 25th Anniversary
 
