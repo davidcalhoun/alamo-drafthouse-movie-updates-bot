@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Mon 6/30 9:39am
+* New movies: I Know What You Did Last Summer 2025, BTS Army: Forever We Are Young
+
+* New screenings: 
+    * [Bts Army Forever We Are Young](https://drafthouse.com/raleigh/show/bts-army-forever-we-are-young): Wed 7/30 (6:30pm), Sat 8/2 (5:00pm), Sun 8/3 (2:00pm)
+
+    * [I Know What You Did Last Summer 2025](https://drafthouse.com/raleigh/show/i-know-what-you-did-last-summer-2025): Thu 7/17 (7:30pm), Fri 7/18 (7:30pm), Sat 7/19 (7:15pm), Sun 7/20 (7:15pm)
+
 ### Sat 6/28 1:23pm
 
 * New screenings: 
