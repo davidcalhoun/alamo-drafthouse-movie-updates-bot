@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 6/30 6:35am
+* New movies: I Know What You Did Last Summer 2025
+
+* New screenings: 
+    * [I Know What You Did Last Summer 2025](https://drafthouse.com/los-angeles/show/i-know-what-you-did-last-summer-2025): Thu 7/17 (4:30pm, 7:30pm, 10:30pm), Fri 7/18 (10:30am, 1:30pm, 4:30pm, 7:30pm, 10:30pm), Sat 7/19 (10:30am, 1:30pm, 4:30pm, 7:30pm, 10:30pm), Sun 7/20 (10:30am, 1:30pm, 4:30pm, 7:30pm), Mon 7/21 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Tue 7/22 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Wed 7/23 (12:30pm, 3:30pm, 6:30pm, 9:30pm)
+
 ### Fri 6/27 4:19am
 * New movies: Dogtooth
 
