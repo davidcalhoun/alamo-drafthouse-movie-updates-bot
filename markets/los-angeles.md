@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 6/30 1:24pm
+
+* New screenings: 
+    * [Superman 2025](https://drafthouse.com/los-angeles/show/superman-2025): Thu 7/10 (3:00pm, 6:30pm, 10:00pm), Fri 7/11 (10:10am, 1:35pm, 5:00pm, 8:30pm), Sat 7/12 (10:10am, 1:35pm, 5:00pm, 8:30pm), Sun 7/13 (10:10am, 1:35pm, 5:00pm), Mon 7/14 (11:45am, 3:15pm, 6:45pm, 10:10pm), Tue 7/15 (11:45am, 3:15pm, 6:45pm, 10:10pm), Wed 7/16 (11:45am, 3:15pm, 6:45pm, 10:10pm)
+
 ### Mon 6/30 6:35am
 * New movies: I Know What You Did Last Summer 2025
 
