@@ -1,6 +1,32 @@
 # los-angeles
 
 ## Movie updates
+### Mon 6/30 3:22pm
+* New movies: The Life of Chuck
+
+* New screenings: 
+    * [28 Years Later](https://drafthouse.com/los-angeles/show/28-years-later): Wed 7/2 (12:00pm, 3:10pm, 6:20pm, 10:15pm)
+
+    * [Elio](https://drafthouse.com/los-angeles/show/elio): Wed 7/2 (11:15am, 3:20pm, 6:10pm, 10:10pm)
+
+    * [F1 The Movie](https://drafthouse.com/los-angeles/show/f1-the-movie): Wed 7/2 (11:00am, 12:30pm, 2:00pm, 2:45pm, 5:45pm, 6:30pm, 9:25pm)
+
+    * [How To Train Your Dragon 2025](https://drafthouse.com/los-angeles/show/how-to-train-your-dragon-2025): Wed 7/2 (11:25am, 2:40pm, 6:00pm, 9:15pm)
+
+    * [Jurassic World Rebirth](https://drafthouse.com/los-angeles/show/jurassic-world-rebirth): Wed 7/2 (3:50pm, 6:45pm, 9:00pm, 9:30pm)
+
+    * [M3gan 2 0](https://drafthouse.com/los-angeles/show/m3gan-2-0): Wed 7/2 (12:20pm, 3:30pm, 7:20pm, 10:30pm)
+
+    * [Materialists](https://drafthouse.com/los-angeles/show/materialists): Wed 7/2 (12:15pm, 4:15pm, 7:15pm, 10:20pm)
+
+    * [Mission Impossible The Final Reckoning](https://drafthouse.com/los-angeles/show/mission-impossible-the-final-reckoning): Wed 7/2 (5:25pm)
+
+    * [Pink Narcissus](https://drafthouse.com/los-angeles/show/pink-narcissus): Wed 7/2 (3:00pm)
+
+    * [The Life Of Chuck](https://drafthouse.com/los-angeles/show/the-life-of-chuck): Wed 7/2 (12:45pm)
+
+    * [The Phoenician Scheme](https://drafthouse.com/los-angeles/show/the-phoenician-scheme): Wed 7/2 (11:10am, 2:00pm, 4:50pm, 7:40pm, 10:35pm)
+
 ### Mon 6/30 1:24pm
 
 * New screenings: 
