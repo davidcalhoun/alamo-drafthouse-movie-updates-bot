@@ -1,6 +1,29 @@
 # raleigh
 
 ## Movie updates
+### Mon 6/30 5:25pm
+
+* New screenings: 
+    * [28 Years Later](https://drafthouse.com/raleigh/show/28-years-later): Thu 7/3 (11:00am, 12:45pm, 1:30pm, 4:30pm, 7:45pm, 9:30pm, 10:45pm), Fri 7/4 (12:15pm, 3:15pm, 6:15pm), Sat 7/5 (10:00am, 1:00pm, 4:15pm, 7:30pm, 10:30pm), Sun 7/6 (10:30am, 1:30pm, 4:30pm, 7:45pm, 10:45pm), Mon 7/7 (1:15pm, 4:30pm, 7:30pm, 10:30pm), Tue 7/8 (1:15pm, 4:15pm, 7:30pm, 10:30pm), Wed 7/9 (1:00pm, 4:00pm, 7:15pm, 10:20pm)
+
+    * [Attack The Block](https://drafthouse.com/raleigh/show/attack-the-block): Sun 7/6 (9:15pm)
+
+    * [Elio](https://drafthouse.com/raleigh/show/elio): Thu 7/3 (12:00pm, 2:00pm, 3:00pm, 6:00pm, 9:00pm), Fri 7/4 (11:00am, 12:00pm, 3:00pm, 6:00pm), Sat 7/5 (9:45am, 12:30pm, 3:15pm, 6:00pm, 9:00pm), Sun 7/6 (9:45am, 12:30pm, 3:15pm, 6:00pm, 9:00pm), Mon 7/7 (1:30pm, 3:15pm, 6:00pm, 9:00pm), Tue 7/8 (1:30pm, 3:15pm, 6:00pm, 9:00pm), Wed 7/9 (1:30pm, 3:00pm, 6:00pm, 9:00pm)
+
+    * [F1 The Movie](https://drafthouse.com/raleigh/show/f1-the-movie): Thu 7/3 (2:00pm, 5:45pm, 10:15pm), Fri 7/4 (11:30am, 1:45pm, 5:00pm, 5:30pm), Sat 7/5 (1:45pm, 5:00pm, 5:30pm, 8:45pm), Sun 7/6 (1:45pm, 5:00pm, 5:30pm, 5:30pm), Mon 7/7 (11:45am, 1:45pm, 3:30pm, 4:45pm, 5:30pm, 8:30pm, 9:30pm), Tue 7/8 (11:45am, 1:45pm, 3:30pm, 5:15pm, 5:30pm, 7:15pm, 9:15pm), Wed 7/9 (12:00pm, 1:30pm, 2:15pm, 3:45pm, 5:15pm, 6:00pm, 9:45pm)
+
+    * [How To Train Your Dragon 2025](https://drafthouse.com/raleigh/show/how-to-train-your-dragon-2025): Thu 7/3 (11:30am, 12:30pm, 3:45pm, 4:00pm, 7:00pm, 10:30pm), Fri 7/4 (11:15am, 3:30pm, 6:45pm), Sat 7/5 (10:45am, 2:00pm, 5:15pm, 8:30pm, 9:45pm), Sun 7/6 (10:45am, 2:00pm, 9:45pm), Mon 7/7 (12:00pm, 3:15pm, 7:15pm, 9:05pm), Tue 7/8 (12:00pm, 3:15pm, 6:30pm, 9:30pm), Wed 7/9 (11:45am, 3:15pm, 6:15pm, 9:00pm)
+
+    * [Jurassic World Rebirth](https://drafthouse.com/raleigh/show/jurassic-world-rebirth): Thu 7/3 (6:15pm, 7:30pm), Fri 7/4 (11:00am, 2:15pm, 5:30pm, 6:30pm), Sat 7/5 (10:45am, 12:00pm, 2:00pm, 3:30pm, 5:15pm, 7:00pm, 8:30pm, 9:15pm, 10:15pm), Sun 7/6 (12:00pm, 3:30pm, 7:00pm, 9:15pm, 10:15pm), Mon 7/7 (12:30pm, 3:45pm, 4:15pm, 5:30pm, 7:00pm, 7:45pm, 8:45pm, 10:15pm), Tue 7/8 (12:30pm, 3:45pm, 4:30pm, 5:30pm, 7:00pm, 7:45pm, 8:45pm, 10:15pm), Wed 7/9 (12:30pm, 3:45pm, 4:15pm, 7:00pm, 7:30pm, 10:15pm, 10:45pm)
+
+    * [Lilo And Stitch 2025](https://drafthouse.com/raleigh/show/lilo-and-stitch-2025): Thu 7/3 (3:15pm), Fri 7/4 (11:10am), Sat 7/5 (11:45am), Sun 7/6 (11:45am), Mon 7/7 (11:30am), Tue 7/8 (11:30am), Wed 7/9 (12:00pm)
+
+    * [M3gan 2 0](https://drafthouse.com/raleigh/show/m3gan-2-0): Thu 7/3 (1:15pm, 4:30pm, 7:30pm, 10:45pm), Sun 7/6 (8:45pm), Mon 7/7 (12:45pm, 4:00pm, 7:30pm, 10:45pm), Tue 7/8 (12:45pm, 4:00pm, 7:30pm, 10:45pm), Wed 7/9 (12:45pm, 4:00pm, 7:15pm, 9:30pm, 10:30pm)
+
+    * [Materialists](https://drafthouse.com/raleigh/show/materialists): Fri 7/4 (2:00pm), Sat 7/5 (2:35pm, 5:45pm), Sun 7/6 (2:35pm, 5:45pm), Mon 7/7 (2:30pm), Tue 7/8 (2:30pm), Wed 7/9 (3:15pm)
+
+    * [The Phoenician Scheme](https://drafthouse.com/raleigh/show/the-phoenician-scheme): Thu 7/3 (4:45pm, 7:15pm, 10:45pm), Fri 7/4 (3:30pm), Sat 7/5 (11:00am), Sun 7/6 (11:00am), Mon 7/7 (2:00pm), Tue 7/8 (2:15pm), Wed 7/9 (11:30am)
+
 ### Mon 6/30 3:21pm
 * New movies: In the Mood for Love
 
