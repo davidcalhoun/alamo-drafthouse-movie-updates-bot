@@ -1,6 +1,27 @@
 # los-angeles
 
 ## Movie updates
+### Mon 6/30 7:07pm
+
+* New screenings: 
+    * [28 Years Later](https://drafthouse.com/los-angeles/show/28-years-later): Thu 7/3 (11:30am, 3:40pm, 6:45pm, 7:20pm, 10:10pm), Fri 7/4 (10:15am, 11:40am, 1:20pm, 4:25pm, 6:00pm, 7:35pm), Sat 7/5 (10:15am, 1:20pm, 4:25pm, 6:00pm, 7:30pm, 10:30pm), Sun 7/6 (10:15am, 11:40am, 1:20pm, 4:25pm, 6:00pm, 7:30pm), Mon 7/7 (11:30am, 12:50pm, 3:40pm, 6:45pm, 9:10pm, 9:45pm), Tue 7/8 (11:30am, 1:00pm, 3:40pm, 6:45pm, 9:45pm, 10:25pm), Wed 7/9 (11:30am, 3:40pm, 6:45pm, 9:45pm)
+
+    * [Attack The Block](https://drafthouse.com/los-angeles/show/attack-the-block): Fri 7/4 (4:10pm), Sat 7/5 (4:10pm, 10:35pm), Sun 7/6 (4:10pm), Mon 7/7 (10:00pm), Tue 7/8 (7:45pm)
+
+    * [Ballerina](https://drafthouse.com/los-angeles/show/ballerina): Wed 7/2 (11:40am), Thu 7/3 (12:40pm, 4:00pm), Fri 7/4 (6:50pm), Sat 7/5 (11:30am), Sun 7/6 (12:50pm), Mon 7/7 (12:15pm), Tue 7/8 (7:10pm, 10:30pm), Wed 7/9 (12:40pm, 4:00pm)
+
+    * [Elio](https://drafthouse.com/los-angeles/show/elio): Thu 7/3 (12:30pm, 3:20pm, 6:10pm, 9:00pm), Fri 7/4 (9:25am, 12:25pm, 3:15pm, 6:10pm), Sat 7/5 (9:25am, 12:25pm, 3:15pm, 6:10pm, 9:00pm), Sun 7/6 (9:25am, 12:25pm, 3:15pm, 6:10pm), Mon 7/7 (12:30pm, 3:20pm, 6:10pm, 9:00pm), Tue 7/8 (12:30pm, 3:20pm, 6:10pm, 9:00pm), Wed 7/9 (12:30pm, 3:20pm, 6:10pm, 9:00pm)
+
+    * [F1 The Movie](https://drafthouse.com/los-angeles/show/f1-the-movie): Thu 7/3 (11:50am, 2:35pm, 5:00pm, 6:20pm, 9:45pm), Fri 7/4 (9:45am, 10:45am, 12:25pm, 2:30pm, 5:00pm, 6:20pm), Sat 7/5 (9:45am, 10:45am, 12:25pm, 2:30pm, 5:00pm, 6:20pm, 6:50pm, 9:10pm, 10:10pm), Sun 7/6 (9:40am, 10:45am, 2:30pm, 5:00pm, 6:20pm, 6:50pm), Mon 7/7 (11:50am, 2:35pm, 3:35pm, 5:00pm, 6:20pm, 10:10pm), Tue 7/8 (11:50am, 2:35pm, 4:00pm, 5:00pm, 6:20pm, 10:10pm), Wed 7/9 (11:50am, 12:30pm, 2:35pm, 5:00pm, 6:20pm, 10:10pm)
+
+    * [Jurassic World Rebirth](https://drafthouse.com/los-angeles/show/jurassic-world-rebirth): Thu 7/3 (11:35am, 1:30pm, 1:35pm, 3:00pm, 5:00pm, 6:30pm, 8:25pm, 8:45pm, 9:55pm), Fri 7/4 (9:15am, 10:10am, 12:35pm, 1:30pm, 4:00pm, 7:25pm), Sat 7/5 (9:15am, 10:10am, 12:35pm, 1:30pm, 4:00pm, 7:25pm, 8:45pm, 9:50pm), Sun 7/6 (9:15am, 10:10am, 12:35pm, 1:30pm, 4:00pm, 7:25pm), Mon 7/7 (11:40am, 1:30pm, 3:10pm, 6:30pm, 8:45pm, 10:00pm), Tue 7/8 (11:45am, 1:30pm, 3:10pm, 6:30pm, 8:45pm, 10:00pm), Wed 7/9 (11:45am, 1:30pm, 3:10pm, 6:30pm, 8:45pm, 9:50pm)
+
+    * [M3gan 2 0](https://drafthouse.com/los-angeles/show/m3gan-2-0): Thu 7/3 (1:00pm, 4:15pm, 7:30pm, 10:40pm), Fri 7/4 (9:15am, 12:15pm, 3:25pm, 6:40pm), Sat 7/5 (9:15am, 12:15pm, 3:25pm, 6:40pm, 10:45pm), Sun 7/6 (9:15am, 12:15pm, 3:25pm, 6:40pm), Mon 7/7 (1:00pm, 4:15pm, 7:30pm, 10:40pm), Tue 7/8 (1:00pm, 4:15pm, 7:30pm, 10:40pm), Wed 7/9 (1:00pm, 4:15pm, 7:30pm, 10:40pm)
+
+    * [Materialists](https://drafthouse.com/los-angeles/show/materialists): Thu 7/3 (11:40am, 2:50pm, 6:00pm, 9:10pm, 10:25pm), Fri 7/4 (9:25am, 10:20am, 1:40pm, 2:50pm, 4:40pm, 7:45pm), Sat 7/5 (9:25am, 10:20am, 1:40pm, 2:50pm, 4:40pm, 7:45pm, 10:45pm), Sun 7/6 (9:45am, 10:20am, 1:40pm, 2:50pm, 4:40pm, 7:45pm), Mon 7/7 (11:40am, 2:50pm, 4:00pm, 6:00pm, 9:45pm), Tue 7/8 (11:40am, 12:50pm, 2:50pm, 4:10pm, 6:00pm, 9:10pm), Wed 7/9 (11:40am, 2:50pm, 4:20pm, 6:00pm, 9:10pm)
+
+    * [The Phoenician Scheme](https://drafthouse.com/los-angeles/show/the-phoenician-scheme): Thu 7/3 (1:20pm, 4:15pm, 7:10pm, 10:00pm), Fri 7/4 (9:20am, 1:20pm, 4:15pm, 7:10pm), Sat 7/5 (9:20am, 1:20pm, 4:15pm, 7:10pm, 10:00pm), Sun 7/6 (9:20am, 1:20pm, 4:15pm, 7:10pm), Mon 7/7 (1:20pm, 4:15pm, 7:10pm, 10:00pm), Tue 7/8 (11:00am, 1:45pm, 4:30pm, 7:20pm, 10:10pm), Wed 7/9 (1:20pm, 4:15pm, 7:10pm, 10:00pm)
+
 ### Mon 6/30 3:22pm
 * New movies: The Life of Chuck
 
