@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 7/2 9:38am
+* New movies: Jaws 50th Anniversary
+
+* New screenings: 
+    * [Jaws 50th Anniversary](https://drafthouse.com/raleigh/show/jaws-50th-anniversary): Thu 8/28 (3:15pm, 6:30pm), Fri 8/29 (6:30pm), Sat 8/30 (3:00pm, 6:30pm), Sun 8/31 (3:00pm, 6:30pm)
+
 ### Wed 7/2 8:56am
 * New movies: Eddington, The Bad Guys 2, Eddington, No Country For Old Men, Unforgiven
 
