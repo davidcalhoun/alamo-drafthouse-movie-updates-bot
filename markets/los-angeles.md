@@ -1,6 +1,20 @@
 # los-angeles
 
 ## Movie updates
+### Wed 7/2 5:48am
+* New movies: The Bad Guys 2, Eddington, Eddington, No Country For Old Men, Unforgiven
+
+* New screenings: 
+    * [Advance Screening Eddington](https://drafthouse.com/los-angeles/show/advance-screening-eddington): Tue 7/15 (7:00pm)
+
+    * [Eddington](https://drafthouse.com/los-angeles/show/eddington): Thu 7/17 (4:00pm, 6:00pm, 9:40pm), Fri 7/18 (11:00am, 2:40pm, 6:20pm, 10:00pm), Sat 7/19 (11:00am, 2:40pm, 6:20pm, 10:00pm), Sun 7/20 (11:00am, 2:40pm, 6:20pm), Mon 7/21 (11:00am, 2:40pm, 6:20pm, 10:00pm), Tue 7/22 (11:00am, 2:40pm, 6:20pm, 10:00pm), Wed 7/23 (1:15pm, 3:20pm, 9:00pm)
+
+    * [Guest Selects No Country For Old Men](https://drafthouse.com/los-angeles/show/guest-selects-no-country-for-old-men): Mon 7/14 (5:45pm)
+
+    * [Guest Selects Unforgiven](https://drafthouse.com/los-angeles/show/guest-selects-unforgiven): Tue 7/15 (6:15pm)
+
+    * [The Bad Guys 2](https://drafthouse.com/los-angeles/show/the-bad-guys-2): Thu 7/31 (3:15pm, 6:15pm, 9:10pm), Fri 8/1 (10:00am, 12:55pm, 3:50pm, 6:45pm, 9:40pm), Sat 8/2 (10:00am, 12:55pm, 3:50pm, 6:45pm, 9:40pm), Sun 8/3 (10:00am, 12:55pm, 3:50pm, 6:45pm), Mon 8/4 (12:25pm, 3:20pm, 6:15pm, 9:10pm), Tue 8/5 (12:25pm, 3:20pm, 6:15pm, 9:10pm), Wed 8/6 (12:25pm, 3:20pm, 6:15pm, 9:10pm)
+
 ### Tue 7/1 6:55pm
 * New movies: Daniela Forever, Mystery Machine 7/21/2025, Sink Your Teeth: A Tokyo Ghoul Celebration
 
