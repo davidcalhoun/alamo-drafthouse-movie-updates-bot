@@ -1,6 +1,20 @@
 # raleigh
 
 ## Movie updates
+### Wed 7/2 8:56am
+* New movies: Eddington, The Bad Guys 2, Eddington, No Country For Old Men, Unforgiven
+
+* New screenings: 
+    * [Advance Screening Eddington](https://drafthouse.com/raleigh/show/advance-screening-eddington): Tue 7/15 (7:00pm)
+
+    * [Eddington](https://drafthouse.com/raleigh/show/eddington): Thu 7/17 (7:00pm), Fri 7/18 (6:30pm), Sat 7/19 (6:30pm), Sun 7/20 (6:30pm)
+
+    * [Guest Selects No Country For Old Men](https://drafthouse.com/raleigh/show/guest-selects-no-country-for-old-men): Mon 7/14 (6:30pm)
+
+    * [Guest Selects Unforgiven](https://drafthouse.com/raleigh/show/guest-selects-unforgiven): Wed 7/16 (6:30pm)
+
+    * [The Bad Guys 2](https://drafthouse.com/raleigh/show/the-bad-guys-2): Thu 7/31 (6:15pm), Fri 8/1 (6:15pm), Sat 8/2 (6:15pm), Sun 8/3 (6:15pm)
+
 ### Mon 6/30 5:25pm
 
 * New screenings: 
