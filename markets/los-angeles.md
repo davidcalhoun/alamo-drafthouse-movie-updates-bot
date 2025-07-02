@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 7/2 2:21pm
+
+* New screenings: 
+    * [Eddington](https://drafthouse.com/los-angeles/show/eddington): Wed 7/23 (11:00am, 2:40pm, 6:20pm, 10:00pm)
+
 ### Wed 7/2 6:34am
 * New movies: Jaws 50th Anniversary
 
