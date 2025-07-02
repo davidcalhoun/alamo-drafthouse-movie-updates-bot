@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Tue 7/1 6:55pm
+* New movies: Daniela Forever, Mystery Machine 7/21/2025, Sink Your Teeth: A Tokyo Ghoul Celebration
+
+* New screenings: 
+    * [Daniela Forever](https://drafthouse.com/los-angeles/show/daniela-forever): Fri 7/11 (6:00pm), Sat 7/12 (2:50pm), Sun 7/13 (10:40am)
+
+    * [Mystery Machine 7 21 2025](https://drafthouse.com/los-angeles/show/mystery-machine-7-21-2025): Mon 7/21 (7:20pm)
+
+    * [Sink Your Teeth A Tokyo Ghoul Celebration](https://drafthouse.com/los-angeles/show/sink-your-teeth-a-tokyo-ghoul-celebration): Mon 7/21 (6:00pm)
+
 ### Mon 6/30 7:07pm
 
 * New screenings: 
