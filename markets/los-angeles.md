@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 7/2 6:34am
+* New movies: Jaws 50th Anniversary
+
+* New screenings: 
+    * [Jaws 50th Anniversary](https://drafthouse.com/los-angeles/show/jaws-50th-anniversary): Thu 8/28 (4:00pm, 7:20pm), Fri 8/29 (6:00pm), Sat 8/30 (2:45pm, 6:00pm), Sun 8/31 (2:40pm, 6:00pm)
+
 ### Wed 7/2 5:48am
 * New movies: The Bad Guys 2, Eddington, Eddington, No Country For Old Men, Unforgiven
 
