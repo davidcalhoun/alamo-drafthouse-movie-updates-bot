@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Sun 7/6 2:35pm
+* New movies: Mystery Machine 7/21/2025
+
+* New screenings: 
+    * [Mystery Machine 7 21 2025](https://drafthouse.com/raleigh/show/mystery-machine-7-21-2025): Mon 7/21 (10:00pm)
+
+    * [Special Event In The Mood For Love 25th Anniversary](https://drafthouse.com/raleigh/show/special-event-in-the-mood-for-love-25th-anniversary): Fri 7/11 (4:00pm), Sat 7/12 (12:45pm), Sun 7/13 (1:45pm), Mon 7/14 (7:00pm), Tue 7/15 (7:30pm), Wed 7/16 (7:30pm)
+
 ### Wed 7/2 9:38am
 * New movies: Jaws 50th Anniversary
 
