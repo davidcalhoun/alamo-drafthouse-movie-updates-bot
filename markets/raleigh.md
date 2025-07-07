@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 7/7 11:28am
+* New movies: Sink Your Teeth: A Tokyo Ghoul Celebration
+
+* New screenings: 
+    * [Sink Your Teeth A Tokyo Ghoul Celebration](https://drafthouse.com/raleigh/show/sink-your-teeth-a-tokyo-ghoul-celebration): Mon 7/21 (6:30pm)
+
 ### Sun 7/6 2:35pm
 * New movies: Mystery Machine 7/21/2025
 
