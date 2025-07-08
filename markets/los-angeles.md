@@ -1,6 +1,38 @@
 # los-angeles
 
 ## Movie updates
+### Mon 7/7 6:56pm
+* New movies: Sorry, Baby
+
+* New screenings: 
+    * [28 Years Later](https://drafthouse.com/los-angeles/show/28-years-later): Thu 7/10 (11:25am, 1:10pm, 4:20pm, 7:30pm, 10:30pm), Fri 7/11 (10:15am, 1:20pm, 4:25pm, 7:30pm, 10:30pm), Sat 7/12 (10:15am, 1:20pm, 4:25pm, 7:30pm, 10:30pm), Sun 7/13 (10:15am, 1:20pm, 4:25pm, 7:30pm), Mon 7/14 (12:20pm, 4:20pm, 7:25pm, 10:25pm), Tue 7/15 (12:20pm, 4:20pm, 7:25pm, 9:45pm, 10:25pm), Wed 7/16 (1:10pm, 3:10pm, 4:15pm, 7:25pm, 9:35pm, 10:25pm)
+
+    * [Attack The Block](https://drafthouse.com/los-angeles/show/attack-the-block): Thu 7/10 (11:10am)
+
+    * [Ballerina](https://drafthouse.com/los-angeles/show/ballerina): Thu 7/10 (11:20am)
+
+    * [Daniela Forever](https://drafthouse.com/los-angeles/show/daniela-forever): Mon 7/14 (9:10pm), Tue 7/15 (12:25pm), Wed 7/16 (4:10pm)
+
+    * [Elio](https://drafthouse.com/los-angeles/show/elio): Thu 7/10 (11:10am)
+
+    * [F1 The Movie](https://drafthouse.com/los-angeles/show/f1-the-movie): Thu 7/10 (12:00pm, 2:30pm, 6:15pm, 10:00pm), Fri 7/11 (10:40am, 2:30pm, 6:15pm, 10:00pm), Sat 7/12 (10:40am, 2:30pm, 6:15pm, 10:00pm), Sun 7/13 (10:40am, 2:30pm, 5:25pm, 6:30pm), Mon 7/14 (12:35pm, 2:25pm, 5:15pm, 6:15pm, 10:00pm), Tue 7/15 (11:15am, 12:35pm, 2:25pm, 6:15pm, 10:00pm), Wed 7/16 (11:20am, 12:00pm, 3:45pm, 6:15pm, 10:00pm)
+
+    * [Guest Selects No Country For Old Men](https://drafthouse.com/los-angeles/show/guest-selects-no-country-for-old-men): Fri 7/11 (9:10pm), Mon 7/14 (9:00pm), Tue 7/15 (3:00pm)
+
+    * [Guest Selects Unforgiven](https://drafthouse.com/los-angeles/show/guest-selects-unforgiven): Fri 7/11 (11:10am), Sat 7/12 (1:00pm), Tue 7/15 (3:35pm), Wed 7/16 (12:40pm)
+
+    * [Jurassic World Rebirth](https://drafthouse.com/los-angeles/show/jurassic-world-rebirth): Thu 7/10 (11:00am, 1:20pm, 2:00pm, 5:25pm, 8:50pm), Fri 7/11 (9:35am, 10:30am, 2:00pm, 5:25pm, 8:50pm), Sat 7/12 (9:35am, 10:30am, 2:00pm, 5:25pm, 8:50pm), Sun 7/13 (10:30am, 11:20am, 2:00pm, 6:15pm), Mon 7/14 (11:00am, 2:10pm, 5:35pm, 9:00pm), Tue 7/15 (11:00am, 2:10pm, 5:35pm, 9:00pm), Wed 7/16 (11:20am, 2:50pm)
+
+    * [M3gan 2 0](https://drafthouse.com/los-angeles/show/m3gan-2-0): Thu 7/10 (11:45am, 1:50pm), Sat 7/12 (9:25pm), Sun 7/13 (2:45pm), Mon 7/14 (11:00am), Tue 7/15 (10:40pm), Wed 7/16 (10:25pm)
+
+    * [Materialists](https://drafthouse.com/los-angeles/show/materialists): Thu 7/10 (12:30pm, 6:30pm, 9:25pm), Fri 7/11 (9:30am, 3:25pm, 9:25pm), Sat 7/12 (9:15am, 12:25pm, 6:30pm), Sun 7/13 (9:30am, 1:45pm, 3:25pm), Mon 7/14 (11:15am, 3:25pm, 9:25pm), Tue 7/15 (11:00am, 6:30pm), Wed 7/16 (11:30am, 8:25pm)
+
+    * [Sorry Baby](https://drafthouse.com/los-angeles/show/sorry-baby): Thu 7/10 (4:45pm, 7:45pm, 10:45pm), Fri 7/11 (9:15am, 11:00am, 1:50pm, 4:45pm, 7:45pm, 10:40pm), Sat 7/12 (9:10am, 11:00am, 1:50pm, 4:45pm, 7:45pm, 10:40pm), Sun 7/13 (9:10am, 11:00am, 1:50pm, 4:45pm, 7:45pm), Mon 7/14 (11:00am, 1:50pm, 4:45pm, 7:40pm, 10:35pm), Tue 7/15 (11:00am, 1:50pm, 4:45pm, 7:40pm, 10:40pm), Wed 7/16 (11:00am, 1:50pm, 4:50pm, 7:45pm, 10:40pm)
+
+    * [Superman 2025](https://drafthouse.com/los-angeles/show/superman-2025): Thu 7/10 (2:35pm, 3:15pm, 5:00pm, 6:00pm, 6:45pm, 8:25pm, 10:10pm), Fri 7/11 (11:50am, 1:00pm, 2:40pm, 3:15pm, 4:30pm, 6:45pm, 8:00pm, 10:10pm), Sat 7/12 (11:25am, 11:50am, 3:15pm, 4:30pm, 6:00pm, 6:45pm, 8:00pm, 10:10pm), Sun 7/13 (11:50am, 3:15pm, 6:00pm, 6:45pm, 7:45pm), Mon 7/14 (11:50am, 3:15pm, 6:45pm, 10:10pm), Tue 7/15 (11:50am, 3:15pm, 6:45pm, 10:10pm), Wed 7/16 (11:50am, 3:20pm, 6:45pm, 10:10pm, 10:15pm)
+
+    * [The Phoenician Scheme](https://drafthouse.com/los-angeles/show/the-phoenician-scheme): Thu 7/10 (12:20pm, 3:40pm, 9:40pm), Fri 7/11 (9:00am, 12:35pm, 6:30pm), Sat 7/12 (9:00am, 3:35pm, 9:40pm), Sun 7/13 (9:00am, 12:35pm, 4:50pm, 8:25pm), Mon 7/14 (11:20am, 2:20pm, 6:30pm), Tue 7/15 (3:35pm, 9:40pm), Wed 7/16 (2:35pm, 5:30pm)
+
 ### Mon 7/7 8:24am
 * New movies: Sink Your Teeth: A Tokyo Ghoul Celebration
 
