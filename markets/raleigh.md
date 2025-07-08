@@ -1,6 +1,39 @@
 # raleigh
 
 ## Movie updates
+### Tue 7/8 10:28am
+
+* New screenings: 
+    * [28 Years Later](https://drafthouse.com/raleigh/show/28-years-later): Thu 7/10 (1:00pm, 4:00pm, 7:15pm, 10:30pm), Fri 7/11 (10:30am, 1:30pm, 4:30pm, 7:30pm, 10:30pm), Sat 7/12 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Sun 7/13 (9:45am, 1:00pm, 4:00pm, 7:15pm, 10:15pm), Mon 7/14 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Tue 7/15 (12:45pm, 4:00pm, 10:30pm), Wed 7/16 (12:45pm, 4:00pm, 7:15pm, 10:30pm)
+
+    * [Eddington](https://drafthouse.com/raleigh/show/eddington): Thu 7/17 (10:30pm)
+
+    * [Elio](https://drafthouse.com/raleigh/show/elio): Thu 7/10 (12:30pm, 3:30pm, 6:15pm, 9:00pm), Fri 7/11 (11:15am, 3:00pm, 6:15pm, 9:00pm), Sat 7/12 (10:00am, 12:45pm, 3:30pm, 6:15pm, 9:00pm), Sun 7/13 (10:00am, 12:45pm, 3:30pm, 6:15pm, 9:15pm), Mon 7/14 (11:15am, 3:30pm, 6:15pm, 9:00pm), Tue 7/15 (11:15am, 3:30pm, 6:15pm, 9:00pm), Wed 7/16 (11:15am, 3:30pm, 6:15pm, 9:00pm)
+
+    * [Escape From The 21st Century](https://drafthouse.com/raleigh/show/escape-from-the-21st-century): Thu 7/10 (12:30pm)
+
+    * [F1 The Movie](https://drafthouse.com/raleigh/show/f1-the-movie): Thu 7/10 (12:00pm, 2:30pm, 6:15pm, 10:00pm), Fri 7/11 (10:45am, 2:30pm, 6:15pm, 10:00pm), Sat 7/12 (10:15am, 2:00pm, 6:00pm, 10:00pm), Sun 7/13 (10:30am, 2:30pm, 6:15pm, 10:00pm), Mon 7/14 (11:30am, 2:00pm, 6:00pm, 9:45pm), Tue 7/15 (11:30am, 2:00pm, 6:00pm, 9:45pm), Wed 7/16 (11:30am, 2:00pm, 6:00pm, 9:45pm)
+
+    * [Guest Selects No Country For Old Men](https://drafthouse.com/raleigh/show/guest-selects-no-country-for-old-men): Tue 7/15 (8:00pm)
+
+    * [How To Train Your Dragon 2025](https://drafthouse.com/raleigh/show/how-to-train-your-dragon-2025): Thu 7/10 (12:00pm, 3:15pm, 6:45pm, 10:00pm), Fri 7/11 (10:45am, 2:00pm, 5:15pm, 6:00pm, 9:15pm), Sat 7/12 (10:45am, 2:00pm, 5:15pm, 6:00pm, 9:15pm), Sun 7/13 (10:45am, 2:00pm, 5:15pm, 6:00pm, 9:30pm), Mon 7/14 (12:00pm, 3:15pm, 6:45pm, 10:00pm), Tue 7/15 (12:00pm, 3:15pm, 6:45pm, 10:00pm), Wed 7/16 (12:00pm, 3:15pm, 6:45pm, 10:00pm)
+
+    * [I Know What You Did Last Summer 2025](https://drafthouse.com/raleigh/show/i-know-what-you-did-last-summer-2025): Thu 7/17 (4:30pm, 10:45pm)
+
+    * [Jurassic World Rebirth](https://drafthouse.com/raleigh/show/jurassic-world-rebirth): Thu 7/10 (11:30am, 12:45pm, 4:00pm, 7:15pm, 10:30pm), Fri 7/11 (10:00am, 1:15pm, 3:30pm, 4:30pm, 6:45pm, 8:30pm, 10:00pm), Sat 7/12 (10:00am, 1:15pm, 4:00pm, 4:30pm, 7:15pm, 8:30pm, 10:30pm), Sun 7/13 (11:00am, 12:00pm, 2:15pm, 3:15pm, 5:45pm, 6:45pm, 8:30pm, 9:00pm, 10:00pm), Mon 7/14 (12:30pm, 2:15pm, 3:45pm, 5:45pm, 8:00pm, 9:15pm), Tue 7/15 (12:30pm, 2:15pm, 3:45pm, 5:45pm, 9:15pm), Wed 7/16 (12:30pm, 2:15pm, 3:45pm, 5:45pm, 8:00pm, 9:15pm)
+
+    * [Lilo And Stitch 2025](https://drafthouse.com/raleigh/show/lilo-and-stitch-2025): Thu 7/10 (1:30pm)
+
+    * [M3gan 2 0](https://drafthouse.com/raleigh/show/m3gan-2-0): Thu 7/10 (10:55pm), Fri 7/11 (11:30am), Sat 7/12 (11:45am), Sun 7/13 (11:45am), Mon 7/14 (9:45pm), Tue 7/15 (9:45pm), Wed 7/16 (10:30pm)
+
+    * [Materialists](https://drafthouse.com/raleigh/show/materialists): Thu 7/10 (2:00pm), Fri 7/11 (12:30pm), Mon 7/14 (11:00am), Tue 7/15 (11:00am), Wed 7/16 (11:00am)
+
+    * [Special Event In The Mood For Love 25th Anniversary](https://drafthouse.com/raleigh/show/special-event-in-the-mood-for-love-25th-anniversary): Tue 7/15 (7:00pm)
+
+    * [Superman 2025](https://drafthouse.com/raleigh/show/superman-2025): Thu 7/10 (3:15pm, 4:15pm, 4:30pm, 5:00pm, 6:30pm, 7:30pm, 7:45pm, 8:15pm, 9:45pm, 10:45pm), Fri 7/11 (12:30pm, 2:00pm, 2:45pm, 5:15pm, 8:00pm, 8:30pm, 10:15pm), Sat 7/12 (11:00am, 2:15pm, 2:45pm, 5:30pm, 7:00pm, 8:00pm, 8:45pm, 10:15pm), Sun 7/13 (11:00am, 2:15pm, 2:45pm, 5:00pm, 5:30pm, 8:15pm, 8:45pm), Mon 7/14 (12:30pm, 1:00pm, 1:30pm, 3:15pm, 3:45pm, 4:15pm, 4:45pm, 7:00pm, 7:30pm, 9:45pm, 10:15pm, 10:45pm), Tue 7/15 (12:30pm, 1:30pm, 1:30pm, 3:15pm, 3:45pm, 4:45pm, 4:45pm, 8:00pm, 10:35pm), Wed 7/16 (12:30pm, 1:30pm, 1:30pm, 3:15pm, 3:45pm, 4:45pm, 4:45pm, 7:00pm, 8:00pm, 10:15pm)
+
+    * [The Phoenician Scheme](https://drafthouse.com/raleigh/show/the-phoenician-scheme): Thu 7/10 (1:30pm)
+
 ### Mon 7/7 11:28am
 * New movies: Sink Your Teeth: A Tokyo Ghoul Celebration
 
