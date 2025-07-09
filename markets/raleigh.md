@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 7/9 9:39am
+* New movies: Hell House LLC: Lineage
+
+* New screenings: 
+    * [Hell House Llc Lineage](https://drafthouse.com/raleigh/show/hell-house-llc-lineage): Fri 8/22 (9:30pm), Sat 8/23 (9:45pm)
+
 ### Wed 7/9 8:57am
 * New movies: Together 2025, Together 2025, Together 2025, Together 2025
 
