@@ -1,6 +1,20 @@
 # los-angeles
 
 ## Movie updates
+### Wed 7/9 5:49am
+* New movies: Together 2025, Together 2025, Together 2025, Together 2025, Together 2025
+
+* New screenings: 
+    * [Advance Screening Together 2025 Early Access](https://drafthouse.com/los-angeles/show/advance-screening-together-2025-early-access): Wed 7/23 (7:30pm)
+
+    * [Advance Screening Together 2025 Early Access Couples Screening](https://drafthouse.com/los-angeles/show/advance-screening-together-2025-early-access-couples-screening): Tue 7/22 (7:30pm)
+
+    * [Livestream Q A Together 2025](https://drafthouse.com/los-angeles/show/livestream-q-a-together-2025): Sun 7/20 (3:00pm)
+
+    * [Special Event Together 2025 Speed Dating Screening](https://drafthouse.com/los-angeles/show/special-event-together-2025-speed-dating-screening): Fri 8/1 (7:30pm)
+
+    * [Together 2025](https://drafthouse.com/los-angeles/show/together-2025): Tue 7/29 (7:45pm, 10:40pm), Wed 7/30 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:40pm), Thu 7/31 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:40pm), Fri 8/1 (10:25am, 1:20pm, 4:15pm), Sat 8/2 (10:25am, 1:20pm, 4:15pm, 7:10pm, 10:00pm), Sun 8/3 (10:25am, 1:20pm, 4:15pm, 7:10pm), Mon 8/4 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:35pm), Tue 8/5 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:35pm), Wed 8/6 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:35pm)
+
 ### Mon 7/7 6:56pm
 * New movies: Sorry, Baby
 
