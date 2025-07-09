@@ -1,6 +1,18 @@
 # raleigh
 
 ## Movie updates
+### Wed 7/9 8:57am
+* New movies: Together 2025, Together 2025, Together 2025, Together 2025
+
+* New screenings: 
+    * [Advance Screening Together 2025 Early Access](https://drafthouse.com/raleigh/show/advance-screening-together-2025-early-access): Wed 7/23 (7:00pm)
+
+    * [Advance Screening Together 2025 Early Access Couples Screening](https://drafthouse.com/raleigh/show/advance-screening-together-2025-early-access-couples-screening): Tue 7/22 (6:00pm)
+
+    * [Livestream Q A Together 2025](https://drafthouse.com/raleigh/show/livestream-q-a-together-2025): Sun 7/20 (6:00pm)
+
+    * [Together 2025](https://drafthouse.com/raleigh/show/together-2025): Tue 7/29 (7:15pm), Wed 7/30 (7:30pm), Thu 7/31 (7:15pm), Fri 8/1 (7:15pm), Sat 8/2 (7:15pm), Sun 8/3 (7:15pm)
+
 ### Tue 7/8 10:28am
 
 * New screenings: 
