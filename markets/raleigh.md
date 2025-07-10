@@ -1,6 +1,15 @@
 # raleigh
 
 ## Movie updates
+### Thu 7/10 6:27pm
+
+* New screenings: 
+    * [Guest Selects No Country For Old Men](https://drafthouse.com/raleigh/show/guest-selects-no-country-for-old-men): Fri 7/11 (9:00pm), Sun 7/13 (9:00pm)
+
+    * [Special Event In The Mood For Love 25th Anniversary](https://drafthouse.com/raleigh/show/special-event-in-the-mood-for-love-25th-anniversary): Fri 7/11 (5:15pm), Sun 7/13 (9:15pm)
+
+    * [Superman 2025](https://drafthouse.com/raleigh/show/superman-2025): Fri 7/11 (11:30am), Sat 7/12 (9:00pm)
+
 ### Wed 7/9 9:39am
 * New movies: Hell House LLC: Lineage
 
