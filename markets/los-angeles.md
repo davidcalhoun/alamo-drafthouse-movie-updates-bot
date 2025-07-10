@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Wed 7/9 6:58pm
+
+* New screenings: 
+    * [Eddington](https://drafthouse.com/los-angeles/show/eddington): Thu 7/17 (7:40pm)
+
+    * [I Know What You Did Last Summer 2025](https://drafthouse.com/los-angeles/show/i-know-what-you-did-last-summer-2025): Thu 7/17 (6:15pm)
+
 ### Wed 7/9 6:35am
 * New movies: Hell House LLC: Lineage
 
