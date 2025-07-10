@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Thu 7/10 3:22pm
+
+* New screenings: 
+    * [Eddington](https://drafthouse.com/los-angeles/show/eddington): Thu 7/17 (5:20pm, 9:00pm), Fri 7/18 (10:00am, 1:40pm, 5:20pm, 9:00pm), Sat 7/19 (10:00am, 1:40pm, 5:20pm, 9:00pm), Sun 7/20 (10:00am, 1:40pm, 5:20pm), Mon 7/21 (12:40pm, 5:00pm, 8:40pm), Tue 7/22 (12:40pm, 5:00pm, 8:40pm), Wed 7/23 (11:25am, 2:20pm)
+
+    * [Superman 2025](https://drafthouse.com/los-angeles/show/superman-2025): Fri 7/18 (12:00pm, 3:20pm, 6:40pm, 10:00pm), Sat 7/19 (12:00pm, 3:20pm, 6:40pm, 10:00pm), Sun 7/20 (12:00pm, 3:20pm, 6:40pm), Mon 7/21 (12:00pm, 3:20pm, 6:40pm, 10:00pm), Tue 7/22 (12:00pm, 3:20pm, 6:40pm, 10:00pm), Wed 7/23 (11:00am, 3:00pm, 6:20pm)
+
 ### Wed 7/9 6:58pm
 
 * New screenings: 
