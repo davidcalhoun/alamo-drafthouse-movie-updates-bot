@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 7/11 4:22pm
+* New movies: House on Eden
+
+* New screenings: 
+    * [House On Eden](https://drafthouse.com/los-angeles/show/house-on-eden): Mon 7/28 (10:25pm), Tue 7/29 (10:25pm)
+
+    * [The Fantastic Four First Steps](https://drafthouse.com/los-angeles/show/the-fantastic-four-first-steps): Thu 7/31 (12:45pm, 3:50pm, 6:00pm, 9:10pm)
+
 ### Fri 7/11 3:23pm
 
 * New screenings: 
