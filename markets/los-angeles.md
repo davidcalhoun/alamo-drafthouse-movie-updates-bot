@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 7/11 6:34am
+* New movies: Freakier Friday, Eli Roth Presents: Jimmy and Stiggs
+
+* New screenings: 
+    * [Eli Roth Presents Jimmy And Stiggs](https://drafthouse.com/los-angeles/show/eli-roth-presents-jimmy-and-stiggs): Fri 8/15 (9:30pm), Sat 8/16 (9:45pm), Sun 8/17 (9:30pm)
+
+    * [Freakier Friday](https://drafthouse.com/los-angeles/show/freakier-friday): Thu 8/7 (4:30pm, 7:30pm, 10:30pm), Fri 8/8 (10:30am, 1:30pm, 4:30pm, 7:30pm, 10:30pm), Sat 8/9 (10:30am, 1:30pm, 4:30pm, 7:30pm, 10:30pm), Sun 8/10 (10:30am, 1:30pm, 4:30pm, 7:30pm), Mon 8/11 (12:20pm, 3:20pm, 6:20pm, 9:20pm), Tue 8/12 (12:20pm, 3:20pm, 6:20pm, 9:20pm)
+
 ### Thu 7/10 4:22pm
 
 * New screenings: 
