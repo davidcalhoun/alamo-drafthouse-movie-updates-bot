@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 7/11 3:23pm
+
+* New screenings: 
+    * [The Fantastic Four First Steps](https://drafthouse.com/los-angeles/show/the-fantastic-four-first-steps): Fri 8/1 (12:40pm), Sat 8/2 (9:15am), Sun 8/3 (9:15am)
+
 ### Fri 7/11 6:34am
 * New movies: Freakier Friday, Eli Roth Presents: Jimmy and Stiggs
 
