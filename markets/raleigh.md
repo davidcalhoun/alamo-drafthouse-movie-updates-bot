@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Fri 7/11 9:38am
+* New movies: Freakier Friday, Eli Roth Presents: Jimmy and Stiggs
+
+* New screenings: 
+    * [Eli Roth Presents Jimmy And Stiggs](https://drafthouse.com/raleigh/show/eli-roth-presents-jimmy-and-stiggs): Fri 8/15 (9:30pm), Sun 8/17 (9:45pm)
+
+    * [Freakier Friday](https://drafthouse.com/raleigh/show/freakier-friday): Thu 8/7 (3:00pm, 6:00pm, 9:00pm), Fri 8/8 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 8/9 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sun 8/10 (12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
 ### Thu 7/10 6:27pm
 
 * New screenings: 
