@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 7/14 1:34am
+
+* New screenings: 
+    * [Superman 2025](https://drafthouse.com/los-angeles/show/superman-2025): Thu 7/24 (12:00pm, 3:20pm, 6:40pm, 10:00pm)
+
 ### Sun 7/13 9:44pm
 * New movies: The Naked Gun 2025
 
