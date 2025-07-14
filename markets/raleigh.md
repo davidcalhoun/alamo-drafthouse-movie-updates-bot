@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 7/14 12:06am
+* New movies: The Naked Gun 2025
+
+* New screenings: 
+    * [The Naked Gun 2025](https://drafthouse.com/raleigh/show/the-naked-gun-2025): Thu 7/31 (7:30pm), Fri 8/1 (8:00pm), Sat 8/2 (8:00pm), Sun 8/3 (8:00pm)
+
 ### Fri 7/11 9:38am
 * New movies: Freakier Friday, Eli Roth Presents: Jimmy and Stiggs
 
