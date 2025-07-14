@@ -1,6 +1,35 @@
 # los-angeles
 
 ## Movie updates
+### Mon 7/14 3:23pm
+
+* New screenings: 
+    * [28 Years Later](https://drafthouse.com/los-angeles/show/28-years-later): Thu 7/17 (11:50am, 10:45pm, 10:45pm), Fri 7/18 (10:45pm), Sat 7/19 (10:45pm), Mon 7/21 (10:45pm), Tue 7/22 (10:45pm), Wed 7/23 (9:40pm)
+
+    * [Dogtooth](https://drafthouse.com/los-angeles/show/dogtooth): Fri 7/18 (3:10pm), Sat 7/19 (10:15am), Mon 7/21 (3:10pm, 9:50pm), Tue 7/22 (4:45pm, 10:25pm), Wed 7/23 (4:35pm, 10:50pm)
+
+    * [Eddington](https://drafthouse.com/los-angeles/show/eddington): Thu 7/17 (6:50pm, 7:10pm), Fri 7/18 (11:30am, 1:10pm, 4:50pm, 7:10pm, 8:30pm, 9:40pm), Sat 7/19 (1:00pm, 4:45pm, 7:10pm, 8:30pm, 9:40pm), Sun 7/20 (2:10pm, 5:50pm, 7:20pm), Mon 7/21 (3:40pm, 7:10pm, 9:45pm), Tue 7/22 (4:25pm, 7:10pm, 8:00pm, 9:40pm), Wed 7/23 (3:20pm, 5:40pm, 9:15pm, 9:50pm)
+
+    * [F1 The Movie](https://drafthouse.com/los-angeles/show/f1-the-movie): Thu 7/17 (12:45pm, 3:15pm, 7:00pm, 9:35pm), Fri 7/18 (10:40am, 2:25pm, 6:10pm, 10:00pm), Sat 7/19 (10:40am, 2:25pm, 6:10pm, 10:00pm), Sun 7/20 (10:20am, 2:10pm, 6:00pm), Mon 7/21 (11:15am, 2:25pm, 6:10pm, 10:00pm), Tue 7/22 (11:35am, 2:45pm, 6:30pm, 10:15pm), Wed 7/23 (11:30am, 2:25pm, 6:10pm, 10:00pm)
+
+    * [I Know What You Did Last Summer 2025](https://drafthouse.com/los-angeles/show/i-know-what-you-did-last-summer-2025): Thu 7/17 (9:20pm)
+
+    * [Jurassic World Rebirth](https://drafthouse.com/los-angeles/show/jurassic-world-rebirth): Thu 7/17 (11:20am, 12:30pm, 1:50pm, 2:45pm, 6:10pm, 10:00pm), Fri 7/18 (11:40am, 3:05pm, 6:30pm, 9:55pm), Sat 7/19 (11:40am, 3:05pm, 6:30pm, 9:55pm), Sun 7/20 (11:40am, 3:05pm, 6:30pm), Mon 7/21 (11:45am, 3:00pm, 6:30pm, 9:55pm), Tue 7/22 (12:20pm, 2:30pm, 6:00pm, 9:25pm), Wed 7/23 (11:40am, 3:05pm, 6:30pm, 9:55pm)
+
+    * [M3gan 2 0](https://drafthouse.com/los-angeles/show/m3gan-2-0): Thu 7/17 (12:45pm)
+
+    * [Materialists](https://drafthouse.com/los-angeles/show/materialists): Thu 7/17 (12:10pm, 3:00pm)
+
+    * [Queer Film Theory 101 The Birds](https://drafthouse.com/los-angeles/show/queer-film-theory-101-the-birds): Sun 7/20 (11:00am), Mon 7/21 (11:15am), Tue 7/22 (1:40pm), Wed 7/23 (1:20pm)
+
+    * [Smurfs 2025](https://drafthouse.com/los-angeles/show/smurfs-2025): Fri 7/18 (10:25am), Sun 7/20 (10:00am, 7:00pm), Mon 7/21 (1:00pm), Tue 7/22 (11:00am), Wed 7/23 (11:45am)
+
+    * [Sorry Baby](https://drafthouse.com/los-angeles/show/sorry-baby): Thu 7/17 (11:00am, 1:50pm, 4:45pm, 7:40pm, 10:35pm), Fri 7/18 (11:00am, 1:50pm, 4:45pm, 7:45pm, 10:40pm), Sat 7/19 (1:50pm, 4:45pm, 7:45pm, 10:40pm), Sun 7/20 (1:50pm, 4:45pm, 7:45pm), Mon 7/21 (11:00am, 1:50pm, 4:45pm, 7:45pm, 10:40pm), Tue 7/22 (11:00am, 1:50pm, 4:45pm, 7:45pm, 10:40pm), Wed 7/23 (11:00am, 1:50pm, 4:45pm, 7:45pm, 10:40pm)
+
+    * [Superman 2025](https://drafthouse.com/los-angeles/show/superman-2025): Thu 7/17 (11:00am, 11:20am, 12:00pm, 12:30pm, 2:20pm, 2:40pm, 3:20pm, 3:50pm, 5:40pm, 6:40pm, 9:00pm, 10:30pm), Fri 7/18 (10:20am, 12:30pm, 1:40pm, 3:50pm, 5:00pm, 8:20pm, 8:45pm), Sat 7/19 (10:20am, 12:30pm, 1:40pm, 3:50pm, 5:00pm, 6:00pm, 8:20pm, 9:20pm), Sun 7/20 (10:00am, 12:40pm, 1:20pm, 4:00pm, 4:40pm, 6:15pm, 8:00pm), Mon 7/21 (11:00am, 12:30pm, 2:20pm, 3:50pm, 5:40pm, 9:00pm, 9:40pm), Tue 7/22 (11:00am, 12:30pm, 1:00pm, 2:20pm, 3:50pm, 5:40pm, 9:00pm), Wed 7/23 (11:00am, 12:40pm, 2:20pm, 4:00pm, 9:40pm, 10:00pm, 10:45pm)
+
+    * [The Phoenician Scheme](https://drafthouse.com/los-angeles/show/the-phoenician-scheme): Thu 7/17 (11:00am, 4:00pm), Sat 7/19 (11:00am), Sun 7/20 (11:00am)
+
 ### Mon 7/14 1:34am
 
 * New screenings: 
