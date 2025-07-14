@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Sun 7/13 9:44pm
+* New movies: The Naked Gun 2025
+
+* New screenings: 
+    * [The Naked Gun 2025](https://drafthouse.com/los-angeles/show/the-naked-gun-2025): Thu 7/31 (7:00pm, 9:35pm), Fri 8/1 (9:40am, 12:15pm, 2:50pm, 5:25pm, 7:20pm, 10:50pm), Sat 8/2 (9:25am, 12:00pm, 2:35pm, 5:10pm, 7:45pm, 10:20pm), Sun 8/3 (9:25am, 12:00pm, 2:35pm, 5:10pm, 7:45pm), Mon 8/4 (11:25am, 2:00pm, 4:35pm, 7:10pm, 9:45pm), Tue 8/5 (11:25am, 2:00pm, 4:35pm, 7:10pm, 9:45pm), Wed 8/6 (11:25am, 2:00pm, 4:35pm, 7:10pm, 9:45pm)
+
 ### Fri 7/11 4:22pm
 * New movies: House on Eden
 
