@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 7/15 11:30am
+* New movies: Yungblud. Are You Ready, Boy?
+
+* New screenings: 
+    * [Yungblud Are You Ready Boy](https://drafthouse.com/raleigh/show/yungblud-are-you-ready-boy): Wed 8/20 (6:30pm), Sun 8/24 (3:30pm)
+
 ### Mon 7/14 10:26pm
 
 * New screenings: 
