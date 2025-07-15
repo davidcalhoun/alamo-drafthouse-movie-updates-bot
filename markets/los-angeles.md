@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 7/15 3:23pm
+
+* New screenings: 
+    * [Sink Your Teeth A Tokyo Ghoul Celebration](https://drafthouse.com/los-angeles/show/sink-your-teeth-a-tokyo-ghoul-celebration): Mon 7/21 (9:40pm)
+
 ### Mon 7/14 3:23pm
 
 * New screenings: 
