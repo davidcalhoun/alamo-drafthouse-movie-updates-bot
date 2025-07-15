@@ -1,6 +1,35 @@
 # raleigh
 
 ## Movie updates
+### Mon 7/14 10:26pm
+
+* New screenings: 
+    * [28 Years Later](https://drafthouse.com/raleigh/show/28-years-later): Thu 7/17 (10:15pm, 10:30pm), Fri 7/18 (10:30pm), Sat 7/19 (10:30pm), Sun 7/20 (10:15pm), Mon 7/21 (9:45pm), Tue 7/22 (10:45pm), Wed 7/23 (10:45pm)
+
+    * [Dogtooth](https://drafthouse.com/raleigh/show/dogtooth): Sun 7/20 (9:00pm), Mon 7/21 (10:55pm), Tue 7/22 (10:15pm)
+
+    * [Eddington](https://drafthouse.com/raleigh/show/eddington): Thu 7/17 (6:15pm, 6:30pm, 10:00pm), Fri 7/18 (11:30am, 3:00pm, 3:30pm, 8:30pm, 10:00pm), Sat 7/19 (11:30am, 3:00pm, 4:45pm, 9:00pm, 10:00pm), Sun 7/20 (11:00am, 2:30pm, 3:00pm, 10:00pm), Mon 7/21 (12:00pm, 3:00pm, 3:30pm, 7:00pm, 10:30pm), Tue 7/22 (11:30am, 12:00pm, 3:00pm, 3:30pm, 7:00pm, 9:15pm), Wed 7/23 (12:00pm, 3:00pm, 3:30pm, 6:30pm, 10:00pm)
+
+    * [Elio](https://drafthouse.com/raleigh/show/elio): Thu 7/17 (11:30am), Fri 7/18 (10:00am), Sat 7/19 (10:00am), Sun 7/20 (10:00am), Mon 7/21 (12:45pm), Wed 7/23 (1:00pm)
+
+    * [F1 The Movie](https://drafthouse.com/raleigh/show/f1-the-movie): Thu 7/17 (11:00am, 2:20pm, 6:00pm, 9:45pm), Fri 7/18 (10:45am, 2:30pm, 6:15pm, 10:15pm), Sat 7/19 (10:45am, 2:20pm, 6:00pm, 9:45pm), Sun 7/20 (10:45am, 2:45pm, 6:45pm, 10:30pm), Mon 7/21 (11:00am, 2:40pm, 6:15pm, 9:50pm), Tue 7/22 (11:00am, 2:45pm, 6:30pm, 9:30pm), Wed 7/23 (11:45am, 3:40pm, 7:45pm, 10:00pm)
+
+    * [Guest Selects No Country For Old Men](https://drafthouse.com/raleigh/show/guest-selects-no-country-for-old-men): Thu 7/17 (11:45am)
+
+    * [How To Train Your Dragon 2025](https://drafthouse.com/raleigh/show/how-to-train-your-dragon-2025): Thu 7/17 (11:45am, 3:00pm, 6:15pm, 9:30pm), Fri 7/18 (11:30am, 2:45pm, 6:00pm, 9:15pm), Sat 7/19 (11:30am, 2:45pm, 6:00pm, 9:15pm), Sun 7/20 (11:30am, 2:45pm, 6:00pm, 9:15pm), Mon 7/21 (11:45am, 3:00pm, 6:15pm, 9:30pm), Tue 7/22 (11:30am, 2:45pm, 6:15pm, 9:15pm), Wed 7/23 (11:30am, 2:45pm, 6:15pm, 9:30pm)
+
+    * [I Know What You Did Last Summer 2025](https://drafthouse.com/raleigh/show/i-know-what-you-did-last-summer-2025): Fri 7/18 (10:30am, 1:30pm, 4:30pm, 10:30pm), Sat 7/19 (10:00am, 1:00pm, 4:00pm, 10:15pm), Sun 7/20 (10:00am, 1:00pm, 4:00pm, 9:15pm), Mon 7/21 (1:00pm, 4:15pm, 6:30pm, 10:45pm), Tue 7/22 (1:00pm, 4:30pm, 7:45pm, 10:45pm), Wed 7/23 (1:00pm, 4:15pm, 7:30pm, 10:30pm)
+
+    * [Jurassic World Rebirth](https://drafthouse.com/raleigh/show/jurassic-world-rebirth): Thu 7/17 (12:30pm, 2:15pm, 3:45pm, 5:45pm, 7:15pm, 9:00pm), Fri 7/18 (10:15am, 12:45pm, 4:00pm, 7:15pm, 9:00pm), Sat 7/19 (10:15am, 12:45pm, 4:00pm, 7:15pm, 9:00pm), Sun 7/20 (10:15am, 12:45pm, 4:00pm, 8:00pm, 9:00pm), Mon 7/21 (12:00pm, 3:30pm, 7:15pm, 10:30pm), Tue 7/22 (12:30pm, 4:00pm, 7:15pm, 10:30pm), Wed 7/23 (12:00pm, 3:45pm, 7:15pm, 10:15pm)
+
+    * [Queer Film Theory 101 The Birds](https://drafthouse.com/raleigh/show/queer-film-theory-101-the-birds): Mon 7/21 (11:30am)
+
+    * [Smurfs 2025](https://drafthouse.com/raleigh/show/smurfs-2025): Fri 7/18 (9:45am, 12:30pm, 3:15pm, 9:00pm), Sat 7/19 (9:45am, 12:30pm, 3:15pm, 8:30pm), Sun 7/20 (9:45am, 11:45am, 12:30pm, 3:15pm), Mon 7/21 (12:30pm, 3:15pm, 6:00pm, 9:00pm), Tue 7/22 (12:45pm, 3:30pm, 6:15pm, 9:00pm), Wed 7/23 (12:30pm, 3:15pm, 6:15pm, 9:00pm)
+
+    * [Special Event In The Mood For Love 25th Anniversary](https://drafthouse.com/raleigh/show/special-event-in-the-mood-for-love-25th-anniversary): Thu 7/17 (3:15pm), Fri 7/18 (10:45am), Wed 7/23 (1:30pm)
+
+    * [Superman 2025](https://drafthouse.com/raleigh/show/superman-2025): Thu 7/17 (11:30am, 12:00pm, 12:30pm, 1:00pm, 1:30pm, 3:00pm, 3:30pm, 3:45pm, 4:45pm, 7:00pm, 8:00pm, 10:15pm), Fri 7/18 (11:45am, 1:30pm, 2:00pm, 2:30pm, 4:45pm, 5:15pm, 5:45pm, 8:00pm, 9:45pm), Sat 7/19 (10:45am, 11:15am, 1:30pm, 2:00pm, 2:30pm, 4:45pm, 5:15pm, 5:45pm, 8:00pm, 8:30pm), Sun 7/20 (10:45am, 11:15am, 1:30pm, 2:00pm, 2:30pm, 4:45pm, 5:15pm, 5:45pm, 8:30pm), Mon 7/21 (1:00pm, 3:00pm, 3:30pm, 4:30pm, 6:45pm, 7:30pm, 7:45pm, 10:15pm), Tue 7/22 (11:00am, 12:30pm, 1:00pm, 2:30pm, 3:00pm, 3:45pm, 4:15pm, 6:00pm, 7:00pm, 7:30pm, 10:05pm, 10:30pm), Wed 7/23 (11:30am, 3:00pm, 3:30pm, 4:30pm, 6:30pm, 6:45pm, 10:30pm)
+
 ### Mon 7/14 12:06am
 * New movies: The Naked Gun 2025
 
