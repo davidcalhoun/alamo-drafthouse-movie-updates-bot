@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 7/15 7:01pm
+
+* New screenings: 
+    * [The Fantastic Four First Steps](https://drafthouse.com/los-angeles/show/the-fantastic-four-first-steps): Thu 7/24 (2:50pm, 4:20pm, 6:00pm, 7:30pm, 9:10pm), Fri 7/25 (12:15pm, 3:25pm, 6:30pm, 9:35pm), Sat 7/26 (12:15pm, 3:25pm, 6:30pm, 9:35pm), Sun 7/27 (12:15pm, 3:25pm, 6:30pm), Mon 7/28 (12:00pm, 3:10pm, 6:15pm, 9:20pm), Tue 7/29 (12:00pm, 3:10pm)
+
 ### Tue 7/15 3:23pm
 
 * New screenings: 
