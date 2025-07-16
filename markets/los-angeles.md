@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 7/16 3:23pm
+
+* New screenings: 
+    * [The Naked Gun 2025](https://drafthouse.com/los-angeles/show/the-naked-gun-2025): Thu 8/7 (12:35pm)
+
 ### Tue 7/15 7:01pm
 
 * New screenings: 
