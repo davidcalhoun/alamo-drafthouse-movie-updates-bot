@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 7/16 10:29am
+* New movies: Jeopardy! Interactive
+
+* New screenings: 
+    * [Jeopardy Interactive](https://drafthouse.com/raleigh/show/jeopardy-interactive): Wed 8/13 (7:00pm), Wed 8/27 (7:00pm), Wed 9/10 (7:00pm), Wed 9/24 (7:00pm)
+
 ### Tue 7/15 11:30am
 * New movies: Yungblud. Are You Ready, Boy?
 
