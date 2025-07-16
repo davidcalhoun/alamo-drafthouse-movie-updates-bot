@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 7/16 4:23pm
+* New movies: Jeopardy! Interactive
+
+* New screenings: 
+    * [Jeopardy Interactive](https://drafthouse.com/los-angeles/show/jeopardy-interactive): Wed 8/13 (7:00pm), Wed 8/27 (7:00pm)
+
 ### Wed 7/16 3:23pm
 
 * New screenings: 
