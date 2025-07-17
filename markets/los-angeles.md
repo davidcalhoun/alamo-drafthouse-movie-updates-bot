@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 7/17 4:23pm
+* New movies: Street Fighter
+
+* New screenings: 
+    * [Street Fighter](https://drafthouse.com/los-angeles/show/street-fighter): Wed 8/13 (7:30pm)
+
 ### Thu 7/17 3:23pm
 * New movies: Oh, Hi!
 
