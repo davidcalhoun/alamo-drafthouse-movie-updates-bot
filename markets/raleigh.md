@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 7/16 10:23pm
+* New movies: In My Skin
+
+* New screenings: 
+    * [Terror Tuesday In My Skin](https://drafthouse.com/raleigh/show/terror-tuesday-in-my-skin): Tue 7/29 (10:00pm)
+
 ### Wed 7/16 10:29am
 * New movies: Jeopardy! Interactive
 
