@@ -1,6 +1,20 @@
 # los-angeles
 
 ## Movie updates
+### Thu 7/17 8:27am
+* New movies: 13 Assassins, Lady Snowblood, Lone Wolf and Cub: Sword of Vengeance, Ran 1985, The Tale of Zatoichi
+
+* New screenings: 
+    * [13 Assassins](https://drafthouse.com/los-angeles/show/13-assassins): Sat 8/16 (10:40am)
+
+    * [Lady Snowblood](https://drafthouse.com/los-angeles/show/lady-snowblood): Sat 8/9 (12:30pm)
+
+    * [Lone Wolf And Cub Sword Of Vengeance](https://drafthouse.com/los-angeles/show/lone-wolf-and-cub-sword-of-vengeance): Sat 8/23 (11:00am)
+
+    * [Ran 1985](https://drafthouse.com/los-angeles/show/ran-1985): Sat 8/30 (10:45am)
+
+    * [The Tale Of Zatoichi](https://drafthouse.com/los-angeles/show/the-tale-of-zatoichi): Sat 8/2 (4:30pm)
+
 ### Wed 7/16 4:23pm
 * New movies: Jeopardy! Interactive
 
