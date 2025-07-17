@@ -1,6 +1,18 @@
 # raleigh
 
 ## Movie updates
+### Thu 7/17 11:31am
+* New movies: 13 Assassins, Lady Snowblood, Lone Wolf and Cub: Sword of Vengeance, The Tale of Zatoichi
+
+* New screenings: 
+    * [13 Assassins](https://drafthouse.com/raleigh/show/13-assassins): Sat 8/16 (11:00am)
+
+    * [Lady Snowblood](https://drafthouse.com/raleigh/show/lady-snowblood): Sat 8/9 (11:30am)
+
+    * [Lone Wolf And Cub Sword Of Vengeance](https://drafthouse.com/raleigh/show/lone-wolf-and-cub-sword-of-vengeance): Sat 8/23 (11:30am)
+
+    * [The Tale Of Zatoichi](https://drafthouse.com/raleigh/show/the-tale-of-zatoichi): Sat 8/2 (2:00pm)
+
 ### Wed 7/16 10:23pm
 * New movies: In My Skin
 
