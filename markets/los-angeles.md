@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 7/17 3:23pm
+* New movies: Oh, Hi!
+
+* New screenings: 
+    * [Oh Hi](https://drafthouse.com/los-angeles/show/oh-hi): Thu 7/24 (5:00pm, 7:45pm, 10:30pm), Fri 7/25 (9:30am, 1:30pm, 4:15pm, 7:00pm, 9:40pm), Sat 7/26 (9:30am, 1:30pm, 4:15pm, 7:00pm, 9:40pm), Sun 7/27 (9:30am, 1:30pm, 4:15pm, 7:00pm, 9:40pm), Mon 7/28 (11:25am, 2:10pm, 5:00pm, 7:45pm, 10:25pm)
+
+    * [The Fantastic Four First Steps](https://drafthouse.com/los-angeles/show/the-fantastic-four-first-steps): Fri 7/25 (10:20am), Sat 7/26 (10:20am), Sun 7/27 (10:20am, 9:35pm)
+
 ### Thu 7/17 8:27am
 * New movies: 13 Assassins, Lady Snowblood, Lone Wolf and Cub: Sword of Vengeance, Ran 1985, The Tale of Zatoichi
 
