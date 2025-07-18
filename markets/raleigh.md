@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 7/18 4:31pm
+
+* New screenings: 
+    * [Smurfs 2025](https://drafthouse.com/raleigh/show/smurfs-2025): Sat 7/19 (9:45am)
+
 ### Fri 7/18 9:00am
 * New movies: Nobody 2
 
