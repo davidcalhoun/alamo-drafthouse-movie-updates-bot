@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 7/18 5:52am
+* New movies: Nobody 2
+
+* New screenings: 
+    * [Nobody 2](https://drafthouse.com/los-angeles/show/nobody-2): Thu 8/14 (2:15pm, 5:00pm, 7:45pm, 10:30pm), Fri 8/15 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sat 8/16 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sun 8/17 (11:30am, 2:15pm, 5:00pm, 7:45pm), Mon 8/18 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Tue 8/19 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Wed 8/20 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm)
+
 ### Thu 7/17 7:03pm
 * New movies: In the Mood for Love, Popcorn, School in the Crosshairs, The Cell, The Changeling 1980, THE PEANUT BUTTER SOLUTION
 
