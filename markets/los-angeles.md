@@ -1,6 +1,26 @@
 # los-angeles
 
 ## Movie updates
+### Thu 7/17 7:03pm
+* New movies: In the Mood for Love, Popcorn, School in the Crosshairs, The Cell, The Changeling 1980, THE PEANUT BUTTER SOLUTION
+
+* New screenings: 
+    * [Jeopardy Interactive](https://drafthouse.com/los-angeles/show/jeopardy-interactive): Wed 9/10 (7:00pm)
+
+    * [Popcorn](https://drafthouse.com/los-angeles/show/popcorn): Wed 9/24 (7:20pm)
+
+    * [School In The Crosshairs](https://drafthouse.com/los-angeles/show/school-in-the-crosshairs): Wed 9/3 (7:20pm)
+
+    * [Special Event In The Mood For Love 25th Anniversary](https://drafthouse.com/los-angeles/show/special-event-in-the-mood-for-love-25th-anniversary): Sat 9/13 (4:20pm), Sun 9/14 (4:00pm), Tue 9/16 (7:20pm)
+
+    * [The Cell](https://drafthouse.com/los-angeles/show/the-cell): Wed 9/10 (7:30pm)
+
+    * [The Changeling 1980](https://drafthouse.com/los-angeles/show/the-changeling-1980): Wed 10/1 (7:20pm)
+
+    * [The Naked Gun 2025](https://drafthouse.com/los-angeles/show/the-naked-gun-2025): Wed 8/6 (11:25am, 2:00pm, 4:35pm, 10:30pm)
+
+    * [The Peanut Butter Solution](https://drafthouse.com/los-angeles/show/the-peanut-butter-solution): Wed 9/17 (7:20pm)
+
 ### Thu 7/17 4:23pm
 * New movies: Street Fighter
 
