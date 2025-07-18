@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 7/18 9:00am
+* New movies: Nobody 2
+
+* New screenings: 
+    * [Nobody 2](https://drafthouse.com/raleigh/show/nobody-2): Thu 8/14 (7:15pm), Fri 8/15 (7:15pm), Sat 8/16 (7:15pm), Sun 8/17 (7:15pm)
+
 ### Thu 7/17 11:31am
 * New movies: 13 Assassins, Lady Snowblood, Lone Wolf and Cub: Sword of Vengeance, The Tale of Zatoichi
 
