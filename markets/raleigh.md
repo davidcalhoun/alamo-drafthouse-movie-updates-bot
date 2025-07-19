@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Fri 7/18 10:19pm
+
+* New screenings: 
+    * [Eddington](https://drafthouse.com/raleigh/show/eddington): Mon 7/21 (9:00pm), Tue 7/22 (9:00pm)
+
+    * [Smurfs 2025](https://drafthouse.com/raleigh/show/smurfs-2025): Mon 7/21 (1:00pm), Tue 7/22 (12:30pm)
+
 ### Fri 7/18 6:28pm
 * New movies: Weapons, Weapons
 
