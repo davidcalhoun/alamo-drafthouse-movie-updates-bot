@@ -1,6 +1,22 @@
 # los-angeles
 
 ## Movie updates
+### Fri 7/18 6:58pm
+* New movies: Architecton, Oasis: Supersonic
+
+* New screenings: 
+    * [13 Assassins](https://drafthouse.com/los-angeles/show/13-assassins): Tue 8/19 (3:45pm), Wed 8/20 (9:50pm)
+
+    * [Architecton](https://drafthouse.com/los-angeles/show/architecton): Fri 8/1 (1:40pm), Sat 8/2 (10:00am), Tue 8/5 (11:00am)
+
+    * [Lady Snowblood](https://drafthouse.com/los-angeles/show/lady-snowblood): Sat 8/9 (9:40am), Mon 8/11 (10:10pm), Tue 8/12 (4:30pm)
+
+    * [Lone Wolf And Cub Sword Of Vengeance](https://drafthouse.com/los-angeles/show/lone-wolf-and-cub-sword-of-vengeance): Sun 8/24 (9:25am), Mon 8/25 (10:20pm), Tue 8/26 (4:45pm)
+
+    * [Oasis Supersonic](https://drafthouse.com/los-angeles/show/oasis-supersonic): Tue 9/2 (7:20pm)
+
+    * [The Tale Of Zatoichi](https://drafthouse.com/los-angeles/show/the-tale-of-zatoichi): Fri 8/1 (4:30pm), Tue 8/5 (1:45pm)
+
 ### Fri 7/18 5:52am
 * New movies: Nobody 2
 
