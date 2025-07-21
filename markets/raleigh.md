@@ -1,6 +1,22 @@
 # raleigh
 
 ## Movie updates
+### Mon 7/21 2:42pm
+* New movies: Teenage Mutant Ninja Turtles: Mutant Mayhem, Bloody Moon, Ghoulies II, NIGHT OF THE JUGGLER, PAPRIKA
+
+* New screenings: 
+    * [Kids Camp Teenage Mutant Ninja Turtles Mutant Mayhem](https://drafthouse.com/raleigh/show/kids-camp-teenage-mutant-ninja-turtles-mutant-mayhem): Fri 8/15 (11:45am), Tue 8/19 (11:45am)
+
+    * [Night Of The Juggler](https://drafthouse.com/raleigh/show/night-of-the-juggler): Wed 9/10 (9:30pm)
+
+    * [Special Event In The Mood For Love 25th Anniversary](https://drafthouse.com/raleigh/show/special-event-in-the-mood-for-love-25th-anniversary): Fri 9/12 (6:30pm), Mon 9/15 (6:30pm)
+
+    * [Terror Tuesday Bloody Moon](https://drafthouse.com/raleigh/show/terror-tuesday-bloody-moon): Tue 8/19 (9:30pm)
+
+    * [Terror Tuesday Ghoulies Ii](https://drafthouse.com/raleigh/show/terror-tuesday-ghoulies-ii): Tue 9/16 (9:30pm)
+
+    * [Weird Wednesday Paprika](https://drafthouse.com/raleigh/show/weird-wednesday-paprika): Wed 9/3 (9:30pm)
+
 ### Mon 7/21 1:29pm
 * New movies: Sonic the Hedgehog, The SpongeBob SquarePants Movie, The Cell
 
