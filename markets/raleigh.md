@@ -1,6 +1,29 @@
 # raleigh
 
 ## Movie updates
+### Mon 7/21 6:29pm
+
+* New screenings: 
+    * [Dogtooth](https://drafthouse.com/raleigh/show/dogtooth): Sun 7/27 (10:00pm), Mon 7/28 (10:30pm), Tue 7/29 (9:35pm), Wed 7/30 (10:30pm)
+
+    * [Eddington](https://drafthouse.com/raleigh/show/eddington): Thu 7/24 (11:00am, 11:30am, 1:15pm, 2:30pm, 3:15pm, 5:00pm, 7:15pm, 9:00pm), Fri 7/25 (10:55am, 12:15pm, 2:45pm, 3:45pm, 6:15pm, 7:15pm, 9:15pm), Sat 7/26 (11:00am, 12:15pm, 3:45pm, 6:30pm, 7:15pm, 9:15pm, 10:00pm), Sun 7/27 (11:00am, 2:30pm, 6:00pm, 6:30pm, 8:00pm, 9:15pm), Mon 7/28 (11:00am, 2:30pm, 3:00pm, 6:15pm, 9:30pm, 10:00pm), Tue 7/29 (12:15pm, 2:45pm, 3:45pm, 6:15pm, 8:15pm, 9:45pm), Wed 7/30 (12:15pm, 3:00pm, 3:45pm, 6:15pm, 8:00pm, 9:30pm)
+
+    * [F1 The Movie](https://drafthouse.com/raleigh/show/f1-the-movie): Thu 7/24 (12:00pm, 1:00pm), Sat 7/26 (10:45am), Tue 7/29 (1:00pm)
+
+    * [How To Train Your Dragon 2025](https://drafthouse.com/raleigh/show/how-to-train-your-dragon-2025): Thu 7/24 (11:00am, 2:15pm), Fri 7/25 (11:00am), Sun 7/27 (10:45am), Mon 7/28 (11:15am), Wed 7/30 (11:15am)
+
+    * [I Know What You Did Last Summer 2025](https://drafthouse.com/raleigh/show/i-know-what-you-did-last-summer-2025): Thu 7/24 (1:00pm, 4:15pm, 7:30pm, 10:30pm), Fri 7/25 (10:30am, 1:30pm, 4:30pm, 7:30pm, 10:30pm), Sat 7/26 (10:30am, 1:30pm, 4:30pm, 7:30pm, 10:30pm), Sun 7/27 (10:30am, 1:30pm, 4:30pm, 7:30pm, 10:30pm), Mon 7/28 (12:45pm, 3:45pm, 7:30pm, 9:45pm), Tue 7/29 (12:00pm, 3:15pm, 6:15pm, 9:15pm), Wed 7/30 (12:00pm, 3:30pm, 7:15pm, 9:00pm)
+
+    * [Jurassic World Rebirth](https://drafthouse.com/raleigh/show/jurassic-world-rebirth): Thu 7/24 (11:45am, 3:15pm, 6:45pm, 10:00pm), Fri 7/25 (9:00am, 12:15pm, 3:30pm, 6:45pm, 10:00pm), Sat 7/26 (9:00am, 12:15pm, 3:30pm, 6:45pm, 10:15pm), Sun 7/27 (9:00am, 12:15pm, 3:30pm, 6:45pm, 10:15pm), Mon 7/28 (11:45am, 3:15pm, 6:45pm, 10:00pm), Tue 7/29 (11:15am, 3:15pm, 6:45pm, 10:00pm), Wed 7/30 (11:45am, 3:15pm, 6:45pm, 10:00pm)
+
+    * [Smurfs 2025](https://drafthouse.com/raleigh/show/smurfs-2025): Thu 7/24 (12:30pm, 3:30pm, 4:00pm, 6:15pm), Fri 7/25 (10:15am, 11:15am, 1:00pm, 3:30pm, 6:15pm), Sat 7/26 (10:15am, 11:30am, 1:00pm, 3:30pm, 6:15pm), Sun 7/27 (9:30am, 11:30am, 12:30pm, 3:00pm, 6:30pm), Mon 7/28 (11:30am, 1:45pm, 2:15pm, 5:00pm, 7:15pm), Tue 7/29 (11:00am, 12:00pm, 1:45pm, 4:30pm, 7:00pm), Wed 7/30 (11:00am, 1:45pm, 1:45pm, 4:30pm, 6:15pm)
+
+    * [Superman 2025](https://drafthouse.com/raleigh/show/superman-2025): Thu 7/24 (11:15am, 12:15pm, 2:30pm, 6:00pm, 9:15pm, 10:45pm), Fri 7/25 (10:00am, 1:15pm, 2:15pm, 4:30pm, 5:30pm, 7:45pm, 9:45pm, 10:45pm), Sat 7/26 (10:00am, 11:45am, 1:15pm, 2:15pm, 3:15pm, 4:30pm, 5:45pm, 7:45pm, 9:00pm, 10:45pm), Sun 7/27 (10:00am, 12:00pm, 1:15pm, 2:15pm, 3:15pm, 4:30pm, 5:45pm, 7:45pm, 9:00pm, 9:30pm), Mon 7/28 (12:45pm, 2:45pm, 4:00pm, 4:45pm, 6:15pm, 7:15pm, 8:00pm, 9:30pm, 10:30pm), Tue 7/29 (12:45pm, 3:00pm, 4:00pm, 5:00pm, 7:15pm, 10:30pm), Wed 7/30 (12:45pm, 2:45pm, 4:00pm, 7:15pm, 9:45pm, 10:30pm)
+
+    * [The Fantastic Four First Steps](https://drafthouse.com/raleigh/show/the-fantastic-four-first-steps): Thu 7/24 (4:45pm, 5:30pm, 6:30pm, 7:45pm, 8:30pm, 9:00pm, 9:45pm, 10:45pm), Fri 7/25 (9:00am, 2:00pm, 2:45pm, 5:00pm, 6:00pm, 8:00pm, 9:00pm), Sat 7/26 (9:00am, 2:30pm, 2:45pm, 5:30pm, 6:00pm, 8:30pm, 9:00pm), Sun 7/27 (9:00am, 2:00pm, 5:00pm, 5:45pm, 8:45pm), Mon 7/28 (12:30pm, 1:00pm, 3:30pm, 4:00pm, 6:30pm, 7:00pm, 9:00pm, 10:15pm), Tue 7/29 (11:30am, 1:00pm, 3:00pm, 4:15pm, 6:30pm, 7:30pm, 10:00pm, 10:30pm), Wed 7/30 (12:30pm, 1:00pm, 3:00pm, 4:00pm, 4:45pm, 6:30pm, 7:00pm, 10:00pm)
+
+    * [Together 2025](https://drafthouse.com/raleigh/show/together-2025): Tue 7/29 (10:15pm), Wed 7/30 (10:15pm)
+
 ### Mon 7/21 2:42pm
 * New movies: Teenage Mutant Ninja Turtles: Mutant Mayhem, Bloody Moon, Ghoulies II, NIGHT OF THE JUGGLER, PAPRIKA
 
