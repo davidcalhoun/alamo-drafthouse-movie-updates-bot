@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 7/21 12:20pm
+* New movies: AJ Goes to the Dog Park
+
+* New screenings: 
+    * [Aj Goes To The Dog Park](https://drafthouse.com/los-angeles/show/aj-goes-to-the-dog-park): Fri 7/25 (4:45pm), Sat 7/26 (1:45pm), Sun 7/27 (11:30am), Mon 7/28 (4:45pm), Tue 7/29 (4:45pm), Wed 7/30 (3:30pm), Thu 7/31 (12:30pm)
+
 ### Fri 7/18 6:58pm
 * New movies: Architecton, Oasis: Supersonic
 
