@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Mon 7/21 1:29pm
+* New movies: Sonic the Hedgehog, The SpongeBob SquarePants Movie, The Cell
+
+* New screenings: 
+    * [Kids Camp Sonic The Hedgehog](https://drafthouse.com/raleigh/show/kids-camp-sonic-the-hedgehog): Fri 8/1 (10:45am), Mon 8/4 (12:00pm), Tue 8/5 (12:00pm)
+
+    * [Kids Camp The Spongebob Squarepants Movie](https://drafthouse.com/raleigh/show/kids-camp-the-spongebob-squarepants-movie): Fri 8/8 (11:45am), Mon 8/11 (11:45am), Tue 8/12 (11:45am)
+
+    * [Terror Tuesday The Cell](https://drafthouse.com/raleigh/show/terror-tuesday-the-cell): Tue 8/12 (9:30pm)
+
 ### Fri 7/18 10:19pm
 
 * New screenings: 
