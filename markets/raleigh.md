@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 7/22 12:03am
+* New movies: FRAILTY
+
+* New screenings: 
+    * [Terror Tuesday Frailty](https://drafthouse.com/raleigh/show/terror-tuesday-frailty): Tue 8/26 (9:30pm)
+
 ### Mon 7/21 6:29pm
 
 * New screenings: 
