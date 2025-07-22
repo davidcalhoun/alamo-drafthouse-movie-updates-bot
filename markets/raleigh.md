@@ -1,6 +1,30 @@
 # raleigh
 
 ## Movie updates
+### Tue 7/22 11:32am
+* New movies: Ghostbusters 1984, Party Girl 1995, All That Heaven Allows, Hackers, The Doom Generation, Casino, Clue, The Outsiders: The Complete Novel, The Original Kings of Comedy
+
+* New screenings: 
+    * [Casino](https://drafthouse.com/raleigh/show/casino): Mon 9/1 (6:00pm)
+
+    * [Clue](https://drafthouse.com/raleigh/show/clue): Mon 8/25 (6:30pm)
+
+    * [Movie Party Ghostbusters 1984](https://drafthouse.com/raleigh/show/movie-party-ghostbusters-1984): Tue 8/26 (6:30pm)
+
+    * [Movie Party The Outsiders The Complete Novel](https://drafthouse.com/raleigh/show/movie-party-the-outsiders-the-complete-novel): Mon 8/11 (6:45pm)
+
+    * [Party Girl](https://drafthouse.com/raleigh/show/party-girl): Tue 8/12 (6:45pm)
+
+    * [Queer Film Theory 101 All That Heaven Allows](https://drafthouse.com/raleigh/show/queer-film-theory-101-all-that-heaven-allows): Mon 9/22 (6:30pm)
+
+    * [Queer Film Theory 101 Hackers](https://drafthouse.com/raleigh/show/queer-film-theory-101-hackers): Wed 8/27 (6:15pm)
+
+    * [Superman 2025](https://drafthouse.com/raleigh/show/superman-2025): Fri 7/25 (9:00pm)
+
+    * [The Doom Generation](https://drafthouse.com/raleigh/show/the-doom-generation): Fri 8/22 (7:00pm)
+
+    * [The Original Kings Of Comedy](https://drafthouse.com/raleigh/show/the-original-kings-of-comedy): Tue 8/19 (3:30pm)
+
 ### Tue 7/22 7:25am
 * New movies: Night of the Juggler
 
