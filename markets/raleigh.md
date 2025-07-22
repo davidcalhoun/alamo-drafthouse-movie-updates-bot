@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 7/22 7:25am
+* New movies: Night of the Juggler
+
+
+
 ### Tue 7/22 4:39am
 * New movies: FOUR FLIES ON GREY VELVET, PSYCHO BEACH PARTY
 
