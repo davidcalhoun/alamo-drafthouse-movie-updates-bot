@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 7/22 11:35am
+* New movies: THE FANTASTIC GOLEM AFFAIRS
+
+* New screenings: 
+    * [The Fantastic Golem Affairs](https://drafthouse.com/los-angeles/show/the-fantastic-golem-affairs): Tue 8/26 (6:00pm)
+
 ### Tue 7/22 8:27am
 * New movies: Ghostbusters 1984, The Outsiders: The Complete Novel, Party Girl 1995, All That Heaven Allows, Hackers, The Doom Generation, Casino, Clue, The Original Kings of Comedy
 
