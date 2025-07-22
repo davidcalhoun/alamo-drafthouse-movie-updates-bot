@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 7/22 12:37pm
+* New movies: SPREE
+
+* New screenings: 
+    * [Terror Tuesday Spree](https://drafthouse.com/raleigh/show/terror-tuesday-spree): Tue 9/9 (9:30pm)
+
 ### Tue 7/22 11:32am
 * New movies: Ghostbusters 1984, Party Girl 1995, All That Heaven Allows, Hackers, The Doom Generation, Casino, Clue, The Outsiders: The Complete Novel, The Original Kings of Comedy
 
