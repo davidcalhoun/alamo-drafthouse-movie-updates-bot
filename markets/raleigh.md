@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Tue 7/22 4:39am
+* New movies: FOUR FLIES ON GREY VELVET, PSYCHO BEACH PARTY
+
+* New screenings: 
+    * [Terror Tuesday Four Flies On Grey Velvet](https://drafthouse.com/raleigh/show/terror-tuesday-four-flies-on-grey-velvet): Tue 9/30 (9:30pm)
+
+    * [Weird Wednesday Psycho Beach Party](https://drafthouse.com/raleigh/show/weird-wednesday-psycho-beach-party): Wed 8/20 (9:30pm)
+
 ### Tue 7/22 3:30am
 * New movies: DIRTY WORK, GOING DOWN, NOCTURAMA, POINT BLANK 1967
 
