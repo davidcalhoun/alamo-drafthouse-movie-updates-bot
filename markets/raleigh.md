@@ -1,6 +1,18 @@
 # raleigh
 
 ## Movie updates
+### Tue 7/22 3:30am
+* New movies: DIRTY WORK, GOING DOWN, NOCTURAMA, POINT BLANK 1967
+
+* New screenings: 
+    * [Weird Wednesday Dirty Work](https://drafthouse.com/raleigh/show/weird-wednesday-dirty-work): Wed 8/13 (9:30pm)
+
+    * [Weird Wednesday Going Down](https://drafthouse.com/raleigh/show/weird-wednesday-going-down): Wed 8/27 (9:30pm)
+
+    * [Weird Wednesday Nocturama](https://drafthouse.com/raleigh/show/weird-wednesday-nocturama): Wed 9/24 (9:30pm)
+
+    * [Weird Wednesday Point Blank 1967](https://drafthouse.com/raleigh/show/weird-wednesday-point-blank-1967): Wed 9/17 (9:30pm)
+
 ### Tue 7/22 12:47am
 * New movies: Raw 2016, Red Rooms
 
