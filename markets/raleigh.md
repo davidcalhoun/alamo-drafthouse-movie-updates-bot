@@ -1,6 +1,15 @@
 # raleigh
 
 ## Movie updates
+### Tue 7/22 4:31pm
+
+* New screenings: 
+    * [Smurfs 2025](https://drafthouse.com/raleigh/show/smurfs-2025): Sun 7/27 (12:30pm, 1:00pm, 3:00pm)
+
+    * [Superman 2025](https://drafthouse.com/raleigh/show/superman-2025): Sun 7/27 (9:15am)
+
+    * [The Fantastic Four First Steps](https://drafthouse.com/raleigh/show/the-fantastic-four-first-steps): Sun 7/27 (8:00pm)
+
 ### Tue 7/22 12:37pm
 * New movies: SPREE
 
