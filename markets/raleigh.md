@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Tue 7/22 12:47am
+* New movies: Raw 2016, Red Rooms
+
+* New screenings: 
+    * [Terror Tuesday Raw 2016](https://drafthouse.com/raleigh/show/terror-tuesday-raw-2016): Tue 9/2 (9:30pm)
+
+    * [Terror Tuesday Red Rooms](https://drafthouse.com/raleigh/show/terror-tuesday-red-rooms): Tue 9/23 (9:30pm)
+
 ### Tue 7/22 12:03am
 * New movies: FRAILTY
 
