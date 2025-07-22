@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 7/22 5:28pm
+
+* New screenings: 
+    * [Eddington](https://drafthouse.com/raleigh/show/eddington): Wed 7/23 (11:00am, 2:30pm, 6:00pm)
+
 ### Tue 7/22 4:31pm
 
 * New screenings: 
