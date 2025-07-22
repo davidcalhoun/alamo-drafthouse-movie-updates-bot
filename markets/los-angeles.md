@@ -1,6 +1,28 @@
 # los-angeles
 
 ## Movie updates
+### Tue 7/22 8:27am
+* New movies: Ghostbusters 1984, The Outsiders: The Complete Novel, Party Girl 1995, All That Heaven Allows, Hackers, The Doom Generation, Casino, Clue, The Original Kings of Comedy
+
+* New screenings: 
+    * [Casino](https://drafthouse.com/los-angeles/show/casino): Mon 9/1 (5:30pm)
+
+    * [Clue](https://drafthouse.com/los-angeles/show/clue): Sun 8/24 (3:50pm)
+
+    * [Movie Party Ghostbusters 1984](https://drafthouse.com/los-angeles/show/movie-party-ghostbusters-1984): Sat 8/23 (1:40pm), Tue 8/26 (7:20pm)
+
+    * [Movie Party The Outsiders The Complete Novel](https://drafthouse.com/los-angeles/show/movie-party-the-outsiders-the-complete-novel): Mon 8/11 (7:00pm, 7:30pm)
+
+    * [Party Girl](https://drafthouse.com/los-angeles/show/party-girl): Tue 8/12 (7:20pm)
+
+    * [Queer Film Theory 101 All That Heaven Allows](https://drafthouse.com/los-angeles/show/queer-film-theory-101-all-that-heaven-allows): Mon 9/22 (7:20pm)
+
+    * [Queer Film Theory 101 Hackers](https://drafthouse.com/los-angeles/show/queer-film-theory-101-hackers): Mon 8/25 (7:20pm)
+
+    * [The Doom Generation](https://drafthouse.com/los-angeles/show/the-doom-generation): Sun 8/24 (6:40pm)
+
+    * [The Original Kings Of Comedy](https://drafthouse.com/los-angeles/show/the-original-kings-of-comedy): Tue 8/19 (7:20pm)
+
 ### Tue 7/22 5:52am
 
 * New screenings: 
