@@ -1,6 +1,38 @@
 # los-angeles
 
 ## Movie updates
+### Mon 7/21 7:03pm
+* New movies: The Phoenician Scheme
+
+* New screenings: 
+    * [Aj Goes To The Dog Park](https://drafthouse.com/los-angeles/show/aj-goes-to-the-dog-park): Fri 7/25 (10:30pm), Sat 7/26 (10:30pm), Sun 7/27 (10:30pm)
+
+    * [Dogtooth](https://drafthouse.com/los-angeles/show/dogtooth): Thu 7/24 (11:15am), Fri 7/25 (10:50pm), Mon 7/28 (2:15pm), Tue 7/29 (11:00am, 10:10pm)
+
+    * [Eddington](https://drafthouse.com/los-angeles/show/eddington): Thu 7/24 (11:35am, 12:00pm, 8:45pm), Fri 7/25 (10:20am, 10:50am, 1:05pm, 2:30pm, 3:00pm, 6:10pm, 7:15pm, 8:15pm, 9:50pm), Sat 7/26 (10:20am, 10:50am, 2:30pm, 4:20pm, 6:10pm, 8:15pm, 10:00pm), Sun 7/27 (10:20am, 10:50am, 12:05pm, 2:30pm, 6:10pm, 8:15pm, 9:50pm), Mon 7/28 (11:00am, 1:00pm, 2:40pm, 6:20pm, 9:25pm, 10:00pm), Tue 7/29 (11:30am, 1:00pm, 2:40pm, 3:00pm, 6:20pm, 10:00pm), Wed 7/30 (11:30am, 12:20pm, 2:40pm, 6:20pm, 9:00pm, 10:00pm)
+
+    * [F1 The Movie](https://drafthouse.com/los-angeles/show/f1-the-movie): Thu 7/24 (1:10pm)
+
+    * [I Know What You Did Last Summer 2025](https://drafthouse.com/los-angeles/show/i-know-what-you-did-last-summer-2025): Thu 7/24 (1:25pm, 4:30pm, 7:30pm, 10:30pm), Fri 7/25 (10:30am, 1:30pm, 4:30pm, 7:30pm, 10:30pm), Sat 7/26 (10:30am, 1:30pm, 4:30pm, 7:30pm, 10:35pm), Sun 7/27 (10:30am, 1:30pm, 4:30pm, 7:30pm, 10:30pm), Mon 7/28 (12:40pm, 3:45pm, 6:45pm, 10:20pm), Tue 7/29 (12:00pm, 4:00pm, 6:45pm, 9:45pm), Wed 7/30 (12:45pm, 3:45pm, 6:45pm, 9:45pm)
+
+    * [Jurassic World Rebirth](https://drafthouse.com/los-angeles/show/jurassic-world-rebirth): Thu 7/24 (12:10pm, 2:35pm, 6:00pm, 9:25pm), Fri 7/25 (11:10am, 2:35pm, 6:00pm, 9:25pm), Sat 7/26 (11:20am, 3:10pm, 6:00pm, 9:25pm), Sun 7/27 (11:10am, 2:35pm, 6:00pm, 9:25pm), Mon 7/28 (11:10am, 2:35pm, 6:00pm, 9:45pm), Tue 7/29 (11:10am, 2:35pm, 6:00pm, 9:25pm), Wed 7/30 (11:10am, 2:35pm, 6:00pm, 9:25pm)
+
+    * [Oh Hi](https://drafthouse.com/los-angeles/show/oh-hi): Tue 7/29 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Wed 7/30 (11:40am, 2:25pm, 5:15pm, 8:00pm, 10:45pm)
+
+    * [Smurfs 2025](https://drafthouse.com/los-angeles/show/smurfs-2025): Thu 7/24 (11:50am, 3:35pm, 6:20pm, 9:00pm), Fri 7/25 (9:45am, 12:50pm, 3:35pm, 6:20pm), Sat 7/26 (9:45am, 12:50pm, 3:35pm, 6:20pm), Sun 7/27 (9:50am, 12:50pm, 3:35pm, 7:15pm), Mon 7/28 (11:20am, 2:00pm, 4:45pm, 7:30pm), Tue 7/29 (11:25am, 2:10pm, 4:50pm, 7:30pm), Wed 7/30 (11:30am, 2:10pm, 4:50pm, 7:30pm)
+
+    * [Sorry Baby](https://drafthouse.com/los-angeles/show/sorry-baby): Thu 7/24 (11:30am), Fri 7/25 (10:10am), Sat 7/26 (10:10pm), Sun 7/27 (9:40pm), Mon 7/28 (11:20am), Tue 7/29 (1:45pm)
+
+    * [Special Event Summer Wars Subtitled In 4k](https://drafthouse.com/los-angeles/show/special-event-summer-wars-subtitled-in-4k): Mon 7/28 (10:10pm), Tue 7/29 (10:10pm)
+
+    * [Superman 2025](https://drafthouse.com/los-angeles/show/superman-2025): Thu 7/24 (12:30pm, 1:00pm, 3:50pm, 7:10pm, 10:30pm), Fri 7/25 (9:30am, 11:40am, 12:30pm, 3:50pm, 7:10pm, 9:00pm), Sat 7/26 (9:30am, 10:25am, 11:45am, 12:30pm, 3:50pm, 6:45pm, 7:10pm, 9:45pm), Sun 7/27 (9:30am, 10:40am, 12:30pm, 3:50pm, 5:00pm, 6:20pm, 7:10pm, 8:25pm, 9:45pm), Mon 7/28 (11:50am, 12:50pm, 3:10pm, 5:00pm, 6:30pm, 8:20pm, 9:50pm), Tue 7/29 (11:20am, 12:40pm, 3:10pm, 6:30pm, 9:50pm), Wed 7/30 (11:20am, 12:10pm, 3:10pm, 4:00pm, 6:30pm, 9:50pm, 10:20pm)
+
+    * [The Fantastic Four First Steps](https://drafthouse.com/los-angeles/show/the-fantastic-four-first-steps): Thu 7/24 (2:25pm, 3:20pm, 5:40pm, 6:30pm, 9:40pm, 10:40pm), Fri 7/25 (2:00pm, 5:10pm, 6:45pm, 10:00pm), Sat 7/26 (2:00pm, 2:50pm, 5:10pm, 8:00pm, 9:10pm), Sun 7/27 (2:00pm, 5:10pm), Mon 7/28 (4:10pm, 7:15pm), Tue 7/29 (4:40pm, 6:15pm, 9:20pm), Wed 7/30 (12:00pm, 3:10pm, 6:15pm, 9:20pm)
+
+    * [The Phoenician Scheme](https://drafthouse.com/los-angeles/show/the-phoenician-scheme): Thu 7/24 (11:50am)
+
+    * [Together 2025](https://drafthouse.com/los-angeles/show/together-2025): Tue 7/29 (7:10pm), Wed 7/30 (6:00pm, 10:15pm)
+
 ### Mon 7/21 12:20pm
 * New movies: AJ Goes to the Dog Park
 
