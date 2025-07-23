@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Wed 7/23 12:37pm
+* New movies: Weapons, Weapons
+
+* New screenings: 
+    * [Advance Screening Weapons Early Access](https://drafthouse.com/raleigh/show/advance-screening-weapons-early-access): Wed 8/6 (7:00pm)
+
+    * [Weapons](https://drafthouse.com/raleigh/show/weapons): Thu 8/7 (3:45pm, 7:00pm, 10:15pm), Fri 8/8 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Sat 8/9 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Sun 8/10 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Mon 8/11 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Tue 8/12 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Wed 8/13 (1:00pm, 4:15pm, 7:30pm, 10:45pm)
+
 ### Tue 7/22 5:28pm
 
 * New screenings: 
