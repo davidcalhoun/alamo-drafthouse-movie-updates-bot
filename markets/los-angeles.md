@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 7/23 9:32am
+* New movies: Weapons, Weapons
+
+* New screenings: 
+    * [Advance Screening Weapons Early Access](https://drafthouse.com/los-angeles/show/advance-screening-weapons-early-access): Wed 8/6 (7:10pm)
+
+    * [Weapons](https://drafthouse.com/los-angeles/show/weapons): Thu 8/7 (3:10pm, 6:30pm, 9:50pm), Fri 8/8 (9:10am, 12:30pm, 3:50pm, 7:10pm, 10:30pm), Sat 8/9 (9:10am, 12:30pm, 3:50pm, 7:10pm, 10:30pm), Sun 8/10 (9:10am, 12:30pm, 3:50pm, 7:10pm), Mon 8/11 (12:30pm, 3:50pm, 7:10pm, 10:30pm), Tue 8/12 (12:30pm, 3:50pm, 7:10pm, 10:30pm), Wed 8/13 (12:30pm, 3:50pm, 7:10pm, 10:30pm)
+
 ### Tue 7/22 11:35am
 * New movies: THE FANTASTIC GOLEM AFFAIRS
 
