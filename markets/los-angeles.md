@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Thu 7/24 4:24pm
+* New movies: Lady Terminator, Winterbeast, Beyond Dream's Door
+
+* New screenings: 
+    * [Beyond Dreams Door 2](https://drafthouse.com/los-angeles/show/beyond-dreams-door-2): Wed 8/20 (7:20pm)
+
+    * [Lady Terminator](https://drafthouse.com/los-angeles/show/lady-terminator): Wed 8/6 (7:20pm)
+
+    * [Winterbeast](https://drafthouse.com/los-angeles/show/winterbeast): Wed 8/27 (7:45pm)
+
 ### Thu 7/24 9:29am
 
 * New screenings: 
