@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 7/24 9:29am
+
+* New screenings: 
+    * [The Fantastic Four First Steps](https://drafthouse.com/los-angeles/show/the-fantastic-four-first-steps): Fri 7/25 (9:50pm), Sat 7/26 (10:50am, 10:05pm), Sun 7/27 (8:25pm)
+
 ### Thu 7/24 8:24am
 * New movies: Descendent 2025, Descendent 2025
 
