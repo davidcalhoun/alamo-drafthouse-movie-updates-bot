@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 7/24 8:24am
+* New movies: Descendent 2025, Descendent 2025
+
+* New screenings: 
+    * [Descendent 2025](https://drafthouse.com/los-angeles/show/descendent-2025): Fri 8/8 (3:40pm)
+
+    * [Live Q A Descendent 2025](https://drafthouse.com/los-angeles/show/live-q-a-descendent-2025): Sat 8/9 (6:15pm)
+
 ### Wed 7/23 9:32am
 * New movies: Weapons, Weapons
 
