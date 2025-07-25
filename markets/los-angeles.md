@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 7/24 7:03pm
+* New movies: Beyond Dream's Door
+
+
+
 ### Thu 7/24 4:24pm
 * New movies: Lady Terminator, Winterbeast, Beyond Dream's Door
 
