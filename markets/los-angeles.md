@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 7/25 10:23am
+* New movies: Cloud
+
+* New screenings: 
+    * [Cloud](https://drafthouse.com/los-angeles/show/cloud): Fri 8/1 (4:10pm, 7:30pm), Sat 8/2 (4:10pm, 7:30pm), Sun 8/3 (4:10pm, 7:30pm), Mon 8/4 (4:10pm, 7:30pm), Tue 8/5 (4:10pm, 7:30pm), Wed 8/6 (4:10pm, 7:30pm)
+
 ### Thu 7/24 7:03pm
 * New movies: Beyond Dream's Door
 
