@@ -1,6 +1,18 @@
 # raleigh
 
 ## Movie updates
+### Sat 7/26 10:35pm
+* New movies: A/V Geeks Present: Kids vs. Kritters
+
+* New screenings: 
+    * [A V Geeks Present Kids Vs Kritters](https://drafthouse.com/raleigh/show/a-v-geeks-present-kids-vs-kritters): Tue 8/19 (7:00pm)
+
+    * [Catvideofest 2025](https://drafthouse.com/raleigh/show/catvideofest-2025): Mon 8/4 (2:45pm)
+
+    * [Kids Camp Teenage Mutant Ninja Turtles Mutant Mayhem](https://drafthouse.com/raleigh/show/kids-camp-teenage-mutant-ninja-turtles-mutant-mayhem): Mon 8/18 (12:00pm), Wed 8/20 (12:00pm)
+
+    * [Kids Camp The Spongebob Squarepants Movie](https://drafthouse.com/raleigh/show/kids-camp-the-spongebob-squarepants-movie): Wed 8/13 (12:00pm)
+
 ### Wed 7/23 12:37pm
 * New movies: Weapons, Weapons
 
