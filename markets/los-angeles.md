@@ -1,6 +1,40 @@
 # los-angeles
 
 ## Movie updates
+### Mon 7/28 3:25pm
+* New movies: Clueless
+
+* New screenings: 
+    * [Catvideofest 2025](https://drafthouse.com/los-angeles/show/catvideofest-2025): Sun 8/3 (9:15am), Mon 8/4 (11:10am), Tue 8/5 (3:30pm), Wed 8/6 (4:50pm)
+
+    * [Cloud](https://drafthouse.com/los-angeles/show/cloud): Fri 8/1 (9:45am, 1:00pm, 10:00pm), Sat 8/2 (9:45am, 12:10pm, 10:35pm), Sun 8/3 (9:45am, 1:00pm), Mon 8/4 (12:50pm, 10:10pm), Tue 8/5 (12:50pm, 9:45pm), Wed 8/6 (1:00pm, 10:00pm)
+
+    * [Clueless](https://drafthouse.com/los-angeles/show/clueless): Sun 8/3 (12:30pm), Mon 8/4 (3:40pm), Tue 8/5 (4:30pm), Wed 8/6 (11:10am)
+
+    * [Eddington](https://drafthouse.com/los-angeles/show/eddington): Thu 7/31 (11:00am, 2:40pm, 6:20pm), Fri 8/1 (11:00am, 2:40pm, 6:20pm, 10:00pm), Sat 8/2 (11:00am, 2:40pm, 6:20pm, 10:00pm), Sun 8/3 (10:35am, 2:50pm, 6:30pm), Mon 8/4 (11:00am, 2:40pm, 6:20pm, 9:20pm), Tue 8/5 (11:00am, 2:40pm, 6:20pm, 10:00pm), Wed 8/6 (11:50am, 2:20pm, 6:20pm, 10:00pm)
+
+    * [Harry Potter And The Sorcerers Stone](https://drafthouse.com/los-angeles/show/harry-potter-and-the-sorcerers-stone): Fri 8/1 (2:45pm), Sun 8/3 (2:25pm), Mon 8/4 (11:50am), Tue 8/5 (11:45am), Wed 8/6 (12:30pm)
+
+    * [I Know What You Did Last Summer 2025](https://drafthouse.com/los-angeles/show/i-know-what-you-did-last-summer-2025): Thu 7/31 (12:10pm, 3:00pm, 9:05pm), Fri 8/1 (8:50pm), Sat 8/2 (8:50pm), Mon 8/4 (8:45pm), Tue 8/5 (8:45pm), Wed 8/6 (9:20pm)
+
+    * [Oh Hi](https://drafthouse.com/los-angeles/show/oh-hi): Thu 7/31 (12:00pm, 2:50pm, 5:15pm, 8:00pm, 10:40pm), Fri 8/1 (10:10am, 2:00pm, 4:50pm, 7:45pm, 10:25pm), Sat 8/2 (10:10am, 2:00pm, 4:50pm, 7:45pm, 10:25pm), Sun 8/3 (10:10am, 2:00pm, 4:50pm, 7:45pm), Mon 8/4 (12:00pm, 2:50pm, 5:15pm, 8:00pm, 10:40pm), Tue 8/5 (12:00pm, 2:50pm, 5:15pm, 8:00pm, 10:40pm), Wed 8/6 (11:35am, 3:30pm, 5:15pm, 8:00pm, 10:40pm)
+
+    * [Special Event Summer Wars Dubbed In 4k](https://drafthouse.com/los-angeles/show/special-event-summer-wars-dubbed-in-4k): Thu 7/31 (6:00pm)
+
+    * [Superman 2025](https://drafthouse.com/los-angeles/show/superman-2025): Thu 7/31 (12:00pm, 1:15pm, 3:25pm, 4:40pm, 6:50pm, 10:10pm), Fri 8/1 (11:20am, 2:40pm, 6:00pm, 9:20pm), Sat 8/2 (11:20am, 2:40pm, 7:15pm, 9:00pm), Sun 8/3 (11:20am, 2:40pm, 6:00pm), Mon 8/4 (11:20am, 2:40pm, 6:00pm, 9:20pm), Tue 8/5 (11:20am, 2:40pm, 6:00pm, 9:20pm), Wed 8/6 (11:45am, 3:10pm, 6:00pm, 9:10pm)
+
+    * [Tales From The Hood](https://drafthouse.com/los-angeles/show/tales-from-the-hood): Fri 8/1 (10:45pm), Sat 8/2 (10:45pm), Mon 8/4 (1:40pm), Tue 8/5 (10:10pm), Wed 8/6 (2:00pm, 10:45pm)
+
+    * [The Bad Guys 2](https://drafthouse.com/los-angeles/show/the-bad-guys-2): Thu 7/31 (10:00pm), Sat 8/2 (9:15am), Sun 8/3 (9:35am)
+
+    * [The Fantastic Four First Steps](https://drafthouse.com/los-angeles/show/the-fantastic-four-first-steps): Thu 7/31 (11:00am, 11:40am, 1:00pm, 2:10pm, 2:50pm, 4:10pm, 5:40pm, 7:20pm, 10:25pm), Fri 8/1 (10:45am, 11:15am, 11:40am, 2:25pm, 3:25pm, 5:40pm, 6:30pm, 9:35pm), Sat 8/2 (10:45am, 11:15am, 1:00pm, 2:25pm, 3:25pm, 5:40pm, 6:30pm, 9:35pm), Sun 8/3 (10:50am, 11:15am, 11:40am, 2:15pm, 3:15pm, 5:30pm, 6:20pm), Mon 8/4 (11:00am, 12:10pm, 2:10pm, 3:20pm, 5:40pm, 6:30pm, 9:35pm), Tue 8/5 (11:00am, 12:15pm, 2:10pm, 3:25pm, 5:40pm, 6:30pm, 9:35pm), Wed 8/6 (11:00am, 1:20pm, 2:10pm, 4:30pm)
+
+    * [The Naked Gun 2025](https://drafthouse.com/los-angeles/show/the-naked-gun-2025): Thu 7/31 (8:00pm, 10:35pm), Sat 8/2 (6:25pm), Sun 8/3 (6:45pm), Mon 8/4 (10:45pm), Tue 8/5 (10:45pm), Wed 8/6 (6:30pm)
+
+    * [The Tale Of Zatoichi](https://drafthouse.com/los-angeles/show/the-tale-of-zatoichi): Fri 8/1 (10:50am), Sat 8/2 (12:45pm), Tue 8/5 (7:20pm), Wed 8/6 (4:15pm)
+
+    * [Together 2025](https://drafthouse.com/los-angeles/show/together-2025): Thu 7/31 (12:40pm, 3:35pm, 6:30pm, 8:50pm, 9:25pm), Fri 8/1 (12:25pm, 6:30pm, 7:10pm, 10:00pm), Sat 8/2 (3:30pm, 6:00pm, 8:50pm), Sun 8/3 (6:10pm), Mon 8/4 (9:10pm)
+
 ### Mon 7/28 6:41am
 * New movies: Mamoru Hosoda’s The Boy and The Beast Subtitled
 
