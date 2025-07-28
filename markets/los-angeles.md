@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 7/28 6:41am
+* New movies: Mamoru Hosoda’s The Boy and The Beast Subtitled
+
+* New screenings: 
+    * [Mamoru Hosodas The Boy And The Beast Subtitled](https://drafthouse.com/los-angeles/show/mamoru-hosodas-the-boy-and-the-beast-subtitled): Mon 8/18 (7:20pm)
+
 ### Fri 7/25 10:23am
 * New movies: Cloud
 
