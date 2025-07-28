@@ -1,6 +1,38 @@
 # raleigh
 
 ## Movie updates
+### Mon 7/28 5:26pm
+* New movies: Architecton
+
+* New screenings: 
+    * [Architecton](https://drafthouse.com/raleigh/show/architecton): Mon 8/4 (3:30pm)
+
+    * [Catvideofest 2025](https://drafthouse.com/raleigh/show/catvideofest-2025): Fri 8/1 (1:45pm), Sat 8/2 (2:15pm), Tue 8/5 (4:00pm)
+
+    * [Eddington](https://drafthouse.com/raleigh/show/eddington): Thu 7/31 (11:15am, 12:00pm, 2:45pm, 3:45pm, 6:15pm, 9:45pm), Fri 8/1 (11:00am, 12:15pm, 2:30pm, 6:15pm, 9:45pm), Sat 8/2 (10:45am, 2:15pm, 6:00pm, 9:30pm), Sun 8/3 (10:45am, 2:15pm, 6:00pm, 9:30pm), Mon 8/4 (11:45am, 3:15pm, 7:00pm, 10:00pm), Tue 8/5 (11:45am, 3:15pm, 7:00pm, 9:15pm), Wed 8/6 (11:45am, 3:15pm, 7:00pm, 10:00pm)
+
+    * [F1 The Movie](https://drafthouse.com/raleigh/show/f1-the-movie): Thu 7/31 (11:30am)
+
+    * [Harry Potter And The Sorcerers Stone](https://drafthouse.com/raleigh/show/harry-potter-and-the-sorcerers-stone): Fri 8/1 (4:30pm), Sun 8/3 (5:00pm), Wed 8/6 (1:30pm)
+
+    * [I Know What You Did Last Summer 2025](https://drafthouse.com/raleigh/show/i-know-what-you-did-last-summer-2025): Thu 7/31 (10:15pm), Fri 8/1 (9:00pm), Sat 8/2 (10:45pm), Sun 8/3 (9:00pm), Mon 8/4 (10:45pm), Tue 8/5 (10:45pm), Wed 8/6 (10:45pm)
+
+    * [Jurassic World Rebirth](https://drafthouse.com/raleigh/show/jurassic-world-rebirth): Thu 7/31 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Fri 8/1 (11:45am, 3:30pm, 6:45pm, 10:00pm), Sat 8/2 (11:45am, 3:15pm, 6:30pm, 9:45pm), Sun 8/3 (11:45am, 3:15pm, 6:30pm, 9:45pm), Mon 8/4 (12:30pm, 3:45pm, 6:45pm, 10:30pm), Tue 8/5 (12:30pm, 3:45pm, 6:45pm, 10:00pm), Wed 8/6 (12:30pm, 3:45pm, 6:45pm, 10:30pm)
+
+    * [Smurfs 2025](https://drafthouse.com/raleigh/show/smurfs-2025): Thu 7/31 (11:30am), Fri 8/1 (10:15am), Sat 8/2 (10:00am), Sun 8/3 (10:00am), Mon 8/4 (12:15pm), Tue 8/5 (12:15pm), Wed 8/6 (12:15pm)
+
+    * [Superman 2025](https://drafthouse.com/raleigh/show/superman-2025): Thu 7/31 (12:30pm, 3:45pm, 7:15pm, 10:30pm), Fri 8/1 (11:15am, 12:45pm, 4:00pm, 7:15pm, 10:30pm), Sat 8/2 (10:30am, 12:30pm, 3:45pm, 7:00pm, 10:15pm), Sun 8/3 (10:30am, 12:30pm, 3:45pm, 7:00pm, 10:15pm), Mon 8/4 (1:15pm, 2:45pm, 6:15pm, 9:30pm), Tue 8/5 (1:30pm, 2:45pm, 6:15pm, 9:30pm), Wed 8/6 (1:15pm, 3:00pm, 6:15pm, 9:30pm)
+
+    * [The Bad Guys 2](https://drafthouse.com/raleigh/show/the-bad-guys-2): Thu 7/31 (3:15pm, 9:00pm), Fri 8/1 (10:00am, 12:45pm, 3:30pm, 9:00pm), Sat 8/2 (10:00am, 12:45pm, 3:30pm, 9:15pm), Sun 8/3 (10:00am, 12:45pm, 3:30pm, 9:15pm), Mon 8/4 (12:15pm, 3:00pm, 6:00pm, 9:00pm), Tue 8/5 (12:00pm, 3:00pm, 6:30pm, 9:15pm), Wed 8/6 (12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
+    * [The Fantastic Four First Steps](https://drafthouse.com/raleigh/show/the-fantastic-four-first-steps): Thu 7/31 (12:30pm, 1:00pm, 1:30pm, 2:00pm, 3:30pm, 4:00pm, 4:30pm, 5:00pm, 6:30pm, 7:00pm, 7:30pm, 9:00pm, 10:30pm), Fri 8/1 (11:30am, 2:30pm, 3:00pm, 3:45pm, 5:30pm, 6:00pm, 7:00pm, 8:30pm), Sat 8/2 (11:00am, 12:00pm, 2:30pm, 3:00pm, 4:45pm, 5:30pm, 6:00pm, 8:45pm, 9:00pm), Sun 8/3 (11:30am, 12:00pm, 2:00pm, 2:30pm, 3:00pm, 5:00pm, 5:30pm, 6:00pm, 8:30pm, 9:00pm), Mon 8/4 (12:30pm, 1:00pm, 4:00pm, 4:30pm, 5:15pm, 7:00pm, 7:30pm, 8:30pm, 9:30pm, 10:00pm), Tue 8/5 (12:30pm, 1:00pm, 3:30pm, 4:00pm, 5:00pm, 6:30pm, 7:00pm, 8:00pm, 10:00pm), Wed 8/6 (12:30pm, 1:00pm, 4:00pm, 4:30pm, 5:15pm, 7:30pm, 8:30pm, 10:15pm)
+
+    * [The Naked Gun 2025](https://drafthouse.com/raleigh/show/the-naked-gun-2025): Thu 7/31 (10:00pm), Fri 8/1 (12:00pm, 2:45pm, 5:15pm, 10:30pm), Sat 8/2 (11:45am, 2:30pm, 5:15pm, 10:30pm), Sun 8/3 (11:45am, 2:30pm, 5:30pm, 10:45pm), Mon 8/4 (1:15pm, 4:15pm, 7:15pm, 9:45pm), Tue 8/5 (1:15pm, 4:15pm, 6:45pm, 9:45pm), Wed 8/6 (1:15pm, 4:15pm, 7:15pm, 9:45pm)
+
+    * [The Tale Of Zatoichi](https://drafthouse.com/raleigh/show/the-tale-of-zatoichi): Sat 8/2 (5:00pm), Wed 8/6 (3:30pm)
+
+    * [Together 2025](https://drafthouse.com/raleigh/show/together-2025): Thu 7/31 (1:00pm, 4:15pm, 8:00pm, 10:15pm), Fri 8/1 (11:00am, 1:45pm, 4:30pm, 8:00pm, 10:00pm), Sat 8/2 (10:45am, 1:30pm, 4:30pm, 7:45pm, 8:15pm, 10:00pm), Sun 8/3 (10:30am, 1:30pm, 4:30pm, 8:15pm, 10:00pm), Mon 8/4 (1:30pm, 4:30pm, 7:30pm, 10:15pm), Tue 8/5 (1:30pm, 4:30pm, 7:30pm, 10:15pm), Wed 8/6 (1:30pm, 4:30pm, 7:30pm, 10:15pm)
+
 ### Mon 7/28 10:32am
 * New movies: From Dusk Till Dawn
 
