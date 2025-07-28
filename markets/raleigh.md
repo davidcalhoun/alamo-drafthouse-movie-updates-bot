@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 7/28 10:32am
+* New movies: From Dusk Till Dawn
+
+* New screenings: 
+    * [Terror Tuesday From Dusk Til Dawn](https://drafthouse.com/raleigh/show/terror-tuesday-from-dusk-til-dawn): Tue 8/5 (9:30pm)
+
 ### Mon 7/28 9:01am
 * New movies: Mamoru Hosoda’s The Boy and The Beast Subtitled
 
