@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 7/28 9:01am
+* New movies: Mamoru Hosoda’s The Boy and The Beast Subtitled
+
+* New screenings: 
+    * [Mamoru Hosodas The Boy And The Beast Subtitled](https://drafthouse.com/raleigh/show/mamoru-hosodas-the-boy-and-the-beast-subtitled): Mon 8/18 (6:30pm)
+
 ### Sat 7/26 10:35pm
 * New movies: A/V Geeks Present: Kids vs. Kritters
 
