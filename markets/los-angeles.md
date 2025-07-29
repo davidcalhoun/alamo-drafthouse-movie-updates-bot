@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Mon 7/28 7:20pm
+* New movies: Shin Godzilla 4K Subtitled
+
+* New screenings: 
+    * [Fantastic Fest Presents Ebony Ivory W Live Q A](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-ebony-ivory-w-live-q-a): Sat 8/9 (9:30pm)
+
+    * [Shin Godzilla 4k](https://drafthouse.com/los-angeles/show/shin-godzilla-4k): Wed 8/13 (6:00pm, 9:10pm), Thu 8/14 (3:00pm, 6:15pm, 9:30pm), Fri 8/15 (11:45am, 3:00pm, 6:15pm, 9:30pm), Sat 8/16 (11:45am, 3:00pm, 6:15pm, 9:30pm), Sun 8/17 (11:45am, 3:00pm, 6:15pm, 9:30pm), Mon 8/18 (11:45am, 3:00pm, 6:15pm, 9:30pm), Tue 8/19 (11:45am, 3:00pm, 6:15pm, 9:30pm), Wed 8/20 (11:45am, 3:00pm, 6:15pm, 9:30pm)
+
 ### Mon 7/28 3:25pm
 * New movies: Clueless
 
