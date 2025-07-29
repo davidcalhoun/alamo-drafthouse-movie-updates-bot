@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 7/29 2:45pm
+
+* New screenings: 
+    * [Shin Godzilla 4k](https://drafthouse.com/raleigh/show/shin-godzilla-4k): Fri 8/15 (6:15pm), Sat 8/16 (6:15pm), Sun 8/17 (6:15pm)
+
 ### Tue 7/29 1:30pm
 * New movies: Shin Godzilla 4K Subtitled
 
