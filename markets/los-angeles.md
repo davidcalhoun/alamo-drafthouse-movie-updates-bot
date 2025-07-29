@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 7/29 5:53am
+* New movies: The 40-Year-Old Virgin: 20th Anniversary, Trainwreck: 10th Anniversary
+
+* New screenings: 
+    * [The 40 Year Old Virgin 20th Anniversary](https://drafthouse.com/los-angeles/show/the-40-year-old-virgin-20th-anniversary): Fri 8/22 (4:10pm), Sat 8/23 (2:50pm), Sun 8/24 (1:20pm)
+
+    * [Trainwreck 10th Anniversary](https://drafthouse.com/los-angeles/show/trainwreck-10th-anniversary): Sat 8/23 (11:30am), Sun 8/24 (10:00am)
+
 ### Mon 7/28 7:20pm
 * New movies: Shin Godzilla 4K Subtitled
 
