@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 7/31 3:27am
+* New movies: It's Never Over, Jeff Buckley
+
+* New screenings: 
+    * [Its Never Over Jeff Buckley](https://drafthouse.com/los-angeles/show/its-never-over-jeff-buckley): Fri 8/15 (2:30pm, 6:00pm), Sat 8/16 (3:45pm, 6:00pm)
+
 ### Tue 7/29 5:53am
 * New movies: The 40-Year-Old Virgin: 20th Anniversary, Trainwreck: 10th Anniversary
 
