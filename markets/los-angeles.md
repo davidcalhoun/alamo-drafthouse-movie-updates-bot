@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 7/31 2:23pm
+* New movies: A Nightmare on Elm Street 4: The Dream Master
+
+* New screenings: 
+    * [A Nightmare On Elm Street 4 The Dream Master](https://drafthouse.com/los-angeles/show/a-nightmare-on-elm-street-4-the-dream-master): Fri 9/12 (9:15pm), Sat 9/13 (10:20pm), Tue 9/16 (10:20pm)
+
+    * [Special Event In The Mood For Love 25th Anniversary](https://drafthouse.com/los-angeles/show/special-event-in-the-mood-for-love-25th-anniversary): Sat 9/13 (7:20pm), Tue 9/16 (1:20pm, 4:20pm)
+
 ### Thu 7/31 1:27pm
 * New movies: Solvent
 
