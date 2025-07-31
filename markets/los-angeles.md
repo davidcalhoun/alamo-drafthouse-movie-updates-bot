@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 7/31 4:23pm
+* New movies: The Girl Who Leapt Through Time Dubbed
+
+* New screenings: 
+    * [World Of Animation The Girl Who Leapt Through Time Dubbed In 4k](https://drafthouse.com/los-angeles/show/world-of-animation-the-girl-who-leapt-through-time-dubbed-in-4k): Mon 9/29 (7:20pm)
+
 ### Thu 7/31 3:24pm
 * New movies: The Girl Who Leapt Through Time Subtitled
 
