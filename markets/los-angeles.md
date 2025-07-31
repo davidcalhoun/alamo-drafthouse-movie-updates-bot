@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 7/31 1:27pm
+* New movies: Solvent
+
+* New screenings: 
+    * [Live Q A Solvent](https://drafthouse.com/los-angeles/show/live-q-a-solvent): Fri 8/22 (7:20pm)
+
 ### Thu 7/31 3:27am
 * New movies: It's Never Over, Jeff Buckley
 
