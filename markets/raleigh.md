@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 7/31 12:37pm
+* New movies: Ran 1985
+
+* New screenings: 
+    * [Ran 1985](https://drafthouse.com/raleigh/show/ran-1985): Sat 8/30 (11:15am)
+
 ### Tue 7/29 2:45pm
 
 * New screenings: 
