@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 7/31 3:24pm
+* New movies: The Girl Who Leapt Through Time Subtitled
+
+* New screenings: 
+    * [World Of Animation The Girl Who Leapt Through Time Subtitled In 4k](https://drafthouse.com/los-angeles/show/world-of-animation-the-girl-who-leapt-through-time-subtitled-in-4k): Sun 9/28 (3:10pm), Tue 9/30 (7:20pm)
+
 ### Thu 7/31 2:23pm
 * New movies: A Nightmare on Elm Street 4: The Dream Master
 
