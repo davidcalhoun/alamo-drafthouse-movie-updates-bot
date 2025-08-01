@@ -1,6 +1,20 @@
 # raleigh
 
 ## Movie updates
+### Fri 8/1 9:01am
+* New movies: Highest 2 Lowest, Inside Man, Malcolm X, Mo' Better Blues, Highest 2 Lowest
+
+* New screenings: 
+    * [Advance Screening Highest 2 Lowest Early Access](https://drafthouse.com/raleigh/show/advance-screening-highest-2-lowest-early-access): Tue 8/12 (7:45pm)
+
+    * [Highest 2 Lowest](https://drafthouse.com/raleigh/show/highest-2-lowest): Fri 8/15 (6:00pm), Sat 8/16 (6:30pm), Sun 8/17 (6:00pm)
+
+    * [Inside Man](https://drafthouse.com/raleigh/show/inside-man): Sun 8/10 (3:30pm)
+
+    * [Malcolm X](https://drafthouse.com/raleigh/show/malcolm-x): Fri 8/15 (5:00pm)
+
+    * [Mo Better Blues](https://drafthouse.com/raleigh/show/mo-better-blues): Sat 8/9 (2:15pm)
+
 ### Thu 7/31 12:37pm
 * New movies: Ran 1985
 
