@@ -1,6 +1,20 @@
 # los-angeles
 
 ## Movie updates
+### Fri 8/1 5:52am
+* New movies: Highest 2 Lowest, Inside Man, Malcolm X, Mo' Better Blues, Highest 2 Lowest
+
+* New screenings: 
+    * [Advance Screening Highest 2 Lowest Early Access](https://drafthouse.com/los-angeles/show/advance-screening-highest-2-lowest-early-access): Tue 8/12 (7:00pm)
+
+    * [Highest 2 Lowest](https://drafthouse.com/los-angeles/show/highest-2-lowest): Fri 8/15 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sat 8/16 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sun 8/17 (12:00pm, 3:30pm, 7:00pm), Mon 8/18 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Tue 8/19 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Wed 8/20 (12:00pm, 3:30pm, 7:00pm, 10:30pm)
+
+    * [Inside Man](https://drafthouse.com/los-angeles/show/inside-man): Sun 8/10 (4:00pm)
+
+    * [Malcolm X](https://drafthouse.com/los-angeles/show/malcolm-x): Fri 8/15 (5:30pm)
+
+    * [Mo Better Blues](https://drafthouse.com/los-angeles/show/mo-better-blues): Sat 8/9 (2:50pm)
+
 ### Thu 7/31 7:22pm
 * New movies: East of Wall
 
