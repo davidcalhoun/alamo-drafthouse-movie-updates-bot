@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 7/31 7:22pm
+* New movies: East of Wall
+
+* New screenings: 
+    * [East Of Wall](https://drafthouse.com/los-angeles/show/east-of-wall): Thu 8/14 (4:40pm, 7:30pm, 10:20pm), Fri 8/15 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Sat 8/16 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Sun 8/17 (11:00am, 1:50pm, 4:40pm, 7:30pm), Mon 8/18 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Tue 8/19 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Wed 8/20 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm)
+
 ### Thu 7/31 4:23pm
 * New movies: The Girl Who Leapt Through Time Dubbed
 
