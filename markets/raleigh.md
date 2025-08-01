@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 8/1 2:42pm
+
+* New screenings: 
+    * [Kids Camp Sonic The Hedgehog](https://drafthouse.com/raleigh/show/kids-camp-sonic-the-hedgehog): Wed 8/6 (12:30pm)
+
 ### Fri 8/1 9:01am
 * New movies: Highest 2 Lowest, Inside Man, Malcolm X, Mo' Better Blues, Highest 2 Lowest
 
