@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Fri 8/1 3:24pm
+* New movies: The Girl Who Leapt Through Time Subtitled, A Nightmare on Elm Street 4: The Dream Master, The Girl Who Leapt Through Time Dubbed
+
+* New screenings: 
+    * [A Nightmare On Elm Street 4 The Dream Master](https://drafthouse.com/raleigh/show/a-nightmare-on-elm-street-4-the-dream-master): Fri 9/12 (9:30pm)
+
+    * [World Of Animation The Girl Who Leapt Through Time Dubbed In 4k](https://drafthouse.com/raleigh/show/world-of-animation-the-girl-who-leapt-through-time-dubbed-in-4k): Mon 9/29 (6:30pm)
+
+    * [World Of Animation The Girl Who Leapt Through Time Subtitled In 4k](https://drafthouse.com/raleigh/show/world-of-animation-the-girl-who-leapt-through-time-subtitled-in-4k): Sun 9/28 (3:30pm), Tue 9/30 (6:30pm)
+
 ### Fri 8/1 2:42pm
 
 * New screenings: 
