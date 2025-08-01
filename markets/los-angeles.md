@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Fri 8/1 4:24pm
+
+* New screenings: 
+    * [Harry Potter And The Chamber Of Secrets](https://drafthouse.com/los-angeles/show/harry-potter-and-the-chamber-of-secrets): Sat 8/9 (11:00am), Wed 8/13 (1:00pm)
+
+    * [Weapons](https://drafthouse.com/los-angeles/show/weapons): Sun 8/10 (11:20am, 2:40pm, 6:00pm)
+
 ### Fri 8/1 2:23pm
 
 * New screenings: 
