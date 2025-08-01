@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 8/1 2:23pm
+
+* New screenings: 
+    * [Weapons](https://drafthouse.com/los-angeles/show/weapons): Thu 8/7 (4:00pm, 7:20pm, 10:40pm), Fri 8/8 (11:30am, 2:50pm, 6:10pm, 9:30pm), Sat 8/9 (11:30am, 2:50pm, 6:10pm, 9:30pm), Sun 8/10 (11:30am, 2:50pm, 6:10pm), Mon 8/11 (11:30am, 2:50pm, 6:10pm, 9:30pm), Tue 8/12 (11:30am, 2:50pm, 6:10pm, 9:30pm), Wed 8/13 (11:30am, 2:50pm, 6:10pm, 9:30pm), Thu 8/14 (3:20pm, 6:40pm, 10:00pm)
+
 ### Fri 8/1 5:52am
 * New movies: Highest 2 Lowest, Inside Man, Malcolm X, Mo' Better Blues, Highest 2 Lowest
 
