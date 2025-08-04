@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Mon 8/4 1:32pm
+* New movies: Pools
+
+* New screenings: 
+    * [Pools](https://drafthouse.com/raleigh/show/pools): Sat 9/6 (12:00pm), Sun 9/7 (3:30pm)
+
+    * [The Original Kings Of Comedy](https://drafthouse.com/raleigh/show/the-original-kings-of-comedy): Sat 8/16 (6:00pm)
+
 ### Fri 8/1 3:24pm
 * New movies: The Girl Who Leapt Through Time Subtitled, A Nightmare on Elm Street 4: The Dream Master, The Girl Who Leapt Through Time Dubbed
 
