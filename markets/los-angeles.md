@@ -1,6 +1,40 @@
 # los-angeles
 
 ## Movie updates
+### Mon 8/4 4:24pm
+* New movies: The Outsiders: The Complete Novel
+
+* New screenings: 
+    * [Cloud](https://drafthouse.com/los-angeles/show/cloud): Thu 8/7 (2:15pm), Fri 8/8 (2:15pm), Sat 8/9 (2:15pm), Sun 8/10 (2:15pm), Mon 8/11 (2:15pm, 8:50pm), Tue 8/12 (2:15pm, 8:50pm), Wed 8/13 (2:15pm, 8:50pm)
+
+    * [Descendent 2025](https://drafthouse.com/los-angeles/show/descendent-2025): Tue 8/12 (4:10pm), Wed 8/13 (4:10pm)
+
+    * [Ebony Ivory](https://drafthouse.com/los-angeles/show/ebony-ivory): Sun 8/10 (8:00pm), Mon 8/11 (10:35pm), Tue 8/12 (10:25pm), Wed 8/13 (10:40pm)
+
+    * [Eddington](https://drafthouse.com/los-angeles/show/eddington): Thu 8/7 (2:30pm, 6:10pm, 9:50pm), Fri 8/8 (11:00am, 2:40pm, 6:20pm, 10:00pm), Sat 8/9 (11:00am, 2:45pm, 6:30pm, 10:10pm), Sun 8/10 (11:00am, 2:40pm, 6:20pm), Mon 8/11 (11:10am, 2:50pm, 6:30pm, 10:10pm), Tue 8/12 (11:10am, 2:50pm, 6:30pm, 10:10pm), Wed 8/13 (11:10am, 2:50pm, 6:30pm, 10:10pm)
+
+    * [Freakier Friday](https://drafthouse.com/los-angeles/show/freakier-friday): Sun 8/10 (12:15pm), Wed 8/13 (12:20pm, 3:20pm, 6:20pm, 9:20pm)
+
+    * [Harry Potter And The Chamber Of Secrets](https://drafthouse.com/los-angeles/show/harry-potter-and-the-chamber-of-secrets): Fri 8/8 (11:45am), Mon 8/11 (12:15pm), Tue 8/12 (12:35pm)
+
+    * [Lady Snowblood](https://drafthouse.com/los-angeles/show/lady-snowblood): Fri 8/8 (1:00pm, 3:50pm), Sun 8/10 (9:25am), Mon 8/11 (11:00am), Tue 8/12 (10:05pm), Wed 8/13 (11:50am)
+
+    * [Oh Hi](https://drafthouse.com/los-angeles/show/oh-hi): Thu 8/7 (2:15pm), Fri 8/8 (10:10am), Sun 8/10 (9:15am), Mon 8/11 (1:45pm)
+
+    * [Superman 2025](https://drafthouse.com/los-angeles/show/superman-2025): Thu 8/7 (2:40pm, 6:00pm, 10:00pm), Fri 8/8 (9:20am, 12:40pm, 4:00pm, 7:20pm, 10:20pm), Sat 8/9 (9:20am, 12:40pm, 4:00pm, 7:20pm, 10:20pm), Sun 8/10 (9:40am, 1:00pm, 4:20pm, 7:40pm), Mon 8/11 (12:40pm, 4:00pm, 7:20pm, 10:15pm), Tue 8/12 (12:40pm, 4:00pm, 7:20pm, 10:15pm), Wed 8/13 (12:40pm, 4:00pm, 7:20pm, 10:25pm)
+
+    * [The Bad Guys 2](https://drafthouse.com/los-angeles/show/the-bad-guys-2): Thu 8/7 (3:25pm, 6:20pm, 9:15pm), Fri 8/8 (9:15am, 12:10pm, 3:05pm, 6:00pm, 9:00pm), Sat 8/9 (9:20am, 12:15pm, 3:15pm, 6:10pm, 9:10pm), Sun 8/10 (9:25am, 12:20pm, 3:15pm, 6:10pm), Mon 8/11 (12:20pm, 3:15pm, 6:10pm, 9:10pm), Tue 8/12 (12:20pm, 3:15pm, 6:10pm, 9:10pm), Wed 8/13 (12:20pm, 3:15pm, 6:10pm, 9:10pm)
+
+    * [The Fantastic Four First Steps](https://drafthouse.com/los-angeles/show/the-fantastic-four-first-steps): Thu 8/7 (3:40pm, 6:50pm, 10:00pm), Fri 8/8 (9:30am, 12:35pm, 3:40pm, 6:50pm, 10:00pm), Sat 8/9 (9:30am, 12:35pm, 3:40pm, 6:50pm, 10:00pm), Sun 8/10 (9:30am, 12:35pm, 3:40pm, 6:50pm), Mon 8/11 (12:30pm, 3:35pm, 6:40pm, 9:45pm), Tue 8/12 (12:30pm, 3:35pm, 6:40pm, 9:45pm), Wed 8/13 (12:30pm, 3:40pm, 6:45pm, 9:50pm)
+
+    * [The Naked Gun 2025](https://drafthouse.com/los-angeles/show/the-naked-gun-2025): Thu 8/7 (2:15pm, 5:25pm, 8:00pm, 10:35pm), Fri 8/8 (9:25am, 12:00pm, 2:35pm, 5:10pm, 7:45pm, 10:40pm), Sat 8/9 (9:25am, 12:00pm, 2:35pm, 5:10pm, 7:45pm, 10:40pm), Sun 8/10 (9:20am, 12:00pm, 2:35pm, 5:15pm, 7:50pm), Mon 8/11 (11:50am, 2:25pm, 5:00pm, 7:40pm, 10:40pm), Tue 8/12 (11:50am, 2:25pm, 5:00pm, 7:40pm, 10:40pm), Wed 8/13 (11:45am, 2:25pm, 4:50pm, 8:15pm, 10:50pm)
+
+    * [The Outsiders The Complete Novel](https://drafthouse.com/los-angeles/show/the-outsiders-the-complete-novel): Sun 8/10 (3:20pm), Mon 8/11 (4:30pm), Tue 8/12 (1:00pm)
+
+    * [Together 2025](https://drafthouse.com/los-angeles/show/together-2025): Thu 8/7 (2:30pm, 4:50pm, 7:45pm, 10:30pm), Fri 8/8 (11:15am, 2:10pm, 5:00pm, 8:00pm, 10:45pm), Sat 8/9 (11:10am, 2:10pm, 5:05pm, 8:00pm, 10:45pm), Sun 8/10 (11:10am, 2:10pm, 5:05pm, 7:20pm), Mon 8/11 (11:15am, 2:10pm, 5:05pm, 8:00pm, 10:45pm), Tue 8/12 (11:15am, 2:10pm, 5:05pm, 8:00pm, 10:45pm), Wed 8/13 (11:15am, 2:10pm, 5:05pm, 8:00pm, 10:45pm)
+
+    * [Weapons](https://drafthouse.com/los-angeles/show/weapons): Thu 8/7 (3:40pm, 5:00pm, 5:30pm, 8:20pm, 8:50pm, 9:20pm), Fri 8/8 (10:45am, 5:30pm, 6:40pm, 8:50pm, 10:00pm), Sat 8/9 (10:45am, 5:30pm, 6:45pm, 8:50pm, 10:00pm), Sun 8/10 (10:45am, 5:30pm, 6:30pm), Mon 8/11 (11:00am, 5:30pm), Tue 8/12 (11:00am, 5:30pm), Wed 8/13 (11:00am, 5:30pm)
+
 ### Fri 8/1 4:24pm
 
 * New screenings: 
