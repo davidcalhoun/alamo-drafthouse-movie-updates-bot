@@ -1,6 +1,48 @@
 # raleigh
 
 ## Movie updates
+### Mon 8/4 4:33pm
+* New movies: Cloud
+
+* New screenings: 
+    * [Catvideofest 2025](https://drafthouse.com/raleigh/show/catvideofest-2025): Thu 8/7 (11:45am)
+
+    * [Cloud](https://drafthouse.com/raleigh/show/cloud): Fri 8/8 (9:15pm), Sat 8/9 (10:15pm), Sun 8/10 (10:15pm), Mon 8/11 (10:45pm), Tue 8/12 (10:00pm), Wed 8/13 (10:45pm)
+
+    * [Ebony Ivory](https://drafthouse.com/raleigh/show/ebony-ivory): Tue 8/12 (8:15pm)
+
+    * [Eddington](https://drafthouse.com/raleigh/show/eddington): Thu 8/7 (11:15am, 2:45pm), Fri 8/8 (2:45pm, 5:30pm), Sat 8/9 (5:30pm), Sun 8/10 (1:30pm), Mon 8/11 (4:30pm), Tue 8/12 (4:30pm), Wed 8/13 (2:30pm)
+
+    * [Freakier Friday](https://drafthouse.com/raleigh/show/freakier-friday): Thu 8/7 (3:30pm, 6:30pm), Fri 8/8 (9:00am, 10:45am, 6:30pm), Sat 8/9 (9:00am, 10:30am, 4:15pm, 6:30pm), Sun 8/10 (9:00am, 10:30am, 4:15pm, 5:30pm, 6:30pm), Mon 8/11 (11:45am, 12:00pm, 3:00pm, 5:30pm, 6:00pm, 9:00pm), Tue 8/12 (12:15pm, 1:00pm, 1:45pm, 3:30pm, 4:45pm, 6:30pm, 9:30pm), Wed 8/13 (11:00am, 2:00pm, 5:00pm, 6:00pm, 9:00pm)
+
+    * [Harry Potter And The Chamber Of Secrets](https://drafthouse.com/raleigh/show/harry-potter-and-the-chamber-of-secrets): Wed 8/13 (1:30pm)
+
+    * [Inside Man](https://drafthouse.com/raleigh/show/inside-man): Tue 8/12 (5:30pm)
+
+    * [Jurassic World Rebirth](https://drafthouse.com/raleigh/show/jurassic-world-rebirth): Thu 8/7 (12:00pm), Fri 8/8 (2:15pm), Sat 8/9 (2:30pm), Sun 8/10 (2:15pm), Mon 8/11 (2:15pm), Tue 8/12 (2:15pm), Wed 8/13 (5:30pm)
+
+    * [Lady Snowblood](https://drafthouse.com/raleigh/show/lady-snowblood): Sat 8/9 (12:00pm), Sun 8/10 (11:45am), Mon 8/11 (8:15pm)
+
+    * [Mo Better Blues](https://drafthouse.com/raleigh/show/mo-better-blues): Mon 8/11 (7:30pm)
+
+    * [Nobody 2](https://drafthouse.com/raleigh/show/nobody-2): Thu 8/14 (9:45pm)
+
+    * [Shin Godzilla 4k](https://drafthouse.com/raleigh/show/shin-godzilla-4k): Wed 8/13 (10:15pm), Thu 8/14 (9:15pm)
+
+    * [Superman 2025](https://drafthouse.com/raleigh/show/superman-2025): Thu 8/7 (12:45pm, 3:00pm, 6:15pm, 9:45pm), Fri 8/8 (11:30am, 2:45pm, 6:15pm, 9:45pm), Sat 8/9 (11:00am, 2:45pm, 6:00pm, 9:15pm), Sun 8/10 (11:00am, 2:45pm, 6:00pm, 9:15pm), Mon 8/11 (1:00pm, 3:00pm, 6:15pm, 9:45pm), Tue 8/12 (12:45pm, 2:45pm, 6:00pm, 9:15pm), Wed 8/13 (1:00pm, 2:45pm, 6:30pm, 9:15pm)
+
+    * [The Bad Guys 2](https://drafthouse.com/raleigh/show/the-bad-guys-2): Thu 8/7 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Fri 8/8 (9:30am, 12:30pm, 3:15pm, 6:15pm, 9:15pm), Sat 8/9 (9:30am, 12:30pm, 3:15pm, 6:15pm, 9:00pm), Sun 8/10 (10:00am, 1:00pm, 3:45pm, 6:30pm, 9:15pm), Mon 8/11 (12:45pm, 3:45pm, 6:30pm, 9:15pm), Tue 8/12 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Wed 8/13 (11:45am, 3:00pm, 6:00pm, 9:00pm)
+
+    * [The Fantastic Four First Steps](https://drafthouse.com/raleigh/show/the-fantastic-four-first-steps): Thu 8/7 (11:15am, 12:00pm, 12:45pm, 1:00pm, 2:15pm, 4:00pm, 5:15pm, 7:15pm, 8:15pm, 10:30pm), Fri 8/8 (10:30am, 12:30pm, 1:30pm, 3:45pm, 4:45pm, 7:45pm, 10:00pm, 10:45pm), Sat 8/9 (9:00am, 10:00am, 12:15pm, 1:15pm, 3:15pm, 7:30pm, 9:45pm), Sun 8/10 (9:00am, 10:00am, 12:15pm, 1:15pm, 3:15pm, 7:30pm, 9:45pm), Mon 8/11 (12:15pm, 1:15pm, 3:15pm, 4:15pm, 6:30pm, 8:30pm, 9:30pm), Tue 8/12 (12:15pm, 1:15pm, 3:15pm, 4:15pm, 7:30pm, 9:00pm), Wed 8/13 (11:30am, 1:15pm, 3:15pm, 4:15pm, 7:15pm, 9:45pm)
+
+    * [The Naked Gun 2025](https://drafthouse.com/raleigh/show/the-naked-gun-2025): Thu 8/7 (12:15pm, 4:00pm, 6:45pm, 9:30pm), Fri 8/8 (10:30am, 1:15pm, 4:15pm, 7:00pm, 9:45pm), Sat 8/9 (10:30am, 1:30pm, 4:30pm, 7:15pm, 10:00pm), Sun 8/10 (10:30am, 1:30pm, 4:30pm, 7:15pm, 9:45pm), Mon 8/11 (1:15pm, 4:00pm, 7:00pm, 9:30pm), Tue 8/12 (12:00pm, 4:00pm, 6:30pm, 9:30pm), Wed 8/13 (12:30pm, 4:15pm, 6:15pm, 9:15pm)
+
+    * [The Tale Of Zatoichi](https://drafthouse.com/raleigh/show/the-tale-of-zatoichi): Thu 8/7 (9:30pm)
+
+    * [Together 2025](https://drafthouse.com/raleigh/show/together-2025): Thu 8/7 (1:15pm, 4:15pm, 7:30pm, 10:15pm), Fri 8/8 (11:00am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Sat 8/9 (11:00am, 2:00pm, 4:45pm, 7:30pm, 10:45pm), Sun 8/10 (11:00am, 2:00pm, 4:45pm, 7:30pm, 10:45pm), Mon 8/11 (1:45pm, 4:45pm, 7:45pm, 10:30pm), Tue 8/12 (1:30pm, 4:15pm, 7:00pm, 10:45pm), Wed 8/13 (12:45pm, 3:30pm, 6:15pm, 10:15pm)
+
+    * [Weapons](https://drafthouse.com/raleigh/show/weapons): Thu 8/7 (2:20pm, 5:30pm, 6:30pm, 8:45pm, 9:45pm), Fri 8/8 (9:30am, 11:30am, 2:00pm, 5:15pm, 6:45pm, 8:30pm), Sat 8/9 (9:30am, 1:30pm, 4:45pm, 8:00pm, 9:45pm), Sun 8/10 (9:30am, 5:00pm, 6:45pm, 8:15pm, 8:45pm, 10:00pm), Mon 8/11 (12:15pm, 3:30pm, 10:00pm), Wed 8/13 (12:00pm, 1:00pm, 3:45pm)
+
 ### Mon 8/4 1:32pm
 * New movies: Pools
 
