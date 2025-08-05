@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 8/5 4:24pm
+* New movies: David Gilmour Live at the Circus Maximus, Rome
+
+* New screenings: 
+    * [David Gilmour Live At The Circus Maximus Rome](https://drafthouse.com/los-angeles/show/david-gilmour-live-at-the-circus-maximus-rome): Wed 9/17 (7:00pm), Sun 9/21 (3:50pm)
+
 ### Tue 8/5 3:25pm
 * New movies: Strange Harvest
 
