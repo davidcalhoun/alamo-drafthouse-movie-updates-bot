@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Mon 8/4 10:32pm
+* New movies: Pools
+
+* New screenings: 
+    * [Pools](https://drafthouse.com/los-angeles/show/pools): Fri 9/5 (7:20pm), Sun 9/7 (3:15pm)
+
+    * [The Original Kings Of Comedy](https://drafthouse.com/los-angeles/show/the-original-kings-of-comedy): Sun 8/17 (6:25pm)
+
 ### Mon 8/4 4:24pm
 * New movies: The Outsiders: The Complete Novel
 
