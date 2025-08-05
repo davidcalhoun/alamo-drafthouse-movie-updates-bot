@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Tue 8/5 6:44am
+* New movies: Caught Stealing, Caught Stealing, After Hours
+
+* New screenings: 
+    * [Caught Stealing](https://drafthouse.com/los-angeles/show/caught-stealing): Thu 8/28 (4:45pm, 7:40pm, 10:35pm), Fri 8/29 (10:45am, 1:45pm, 4:45pm, 7:40pm, 10:40pm), Sat 8/30 (10:45am, 1:45pm, 4:45pm, 7:40pm, 10:40pm), Sun 8/31 (11:00am, 2:00pm, 5:00pm, 8:00pm), Mon 9/1 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:40pm), Tue 9/2 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:40pm), Wed 9/3 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:40pm)
+
+    * [Guest Selects After Hours](https://drafthouse.com/los-angeles/show/guest-selects-after-hours): Sat 8/30 (9:15pm)
+
+    * [Livestream Q A Caught Stealing](https://drafthouse.com/los-angeles/show/livestream-q-a-caught-stealing): Wed 8/13 (5:00pm)
+
 ### Mon 8/4 10:32pm
 * New movies: Pools
 
