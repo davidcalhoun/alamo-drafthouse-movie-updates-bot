@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 8/5 3:25pm
+* New movies: Strange Harvest
+
+* New screenings: 
+    * [Strange Harvest](https://drafthouse.com/los-angeles/show/strange-harvest): Mon 8/11 (10:10pm), Tue 8/12 (10:10pm), Wed 8/13 (10:10pm)
+
 ### Tue 8/5 6:44am
 * New movies: Caught Stealing, Caught Stealing, After Hours
 
