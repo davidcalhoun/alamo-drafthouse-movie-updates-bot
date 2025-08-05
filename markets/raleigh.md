@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Tue 8/5 9:03am
+* New movies: Caught Stealing, Caught Stealing, After Hours
+
+* New screenings: 
+    * [Caught Stealing](https://drafthouse.com/raleigh/show/caught-stealing): Thu 8/28 (7:00pm), Fri 8/29 (7:00pm), Sat 8/30 (7:00pm), Sun 8/31 (7:00pm)
+
+    * [Guest Selects After Hours](https://drafthouse.com/raleigh/show/guest-selects-after-hours): Sat 8/30 (9:45pm)
+
+    * [Livestream Q A Caught Stealing](https://drafthouse.com/raleigh/show/livestream-q-a-caught-stealing): Wed 8/13 (8:00pm)
+
 ### Mon 8/4 4:33pm
 * New movies: Cloud
 
