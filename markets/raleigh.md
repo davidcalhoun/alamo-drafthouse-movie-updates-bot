@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 8/7 9:03am
+* New movies: Ne Zha II Dubbed
+
+* New screenings: 
+    * [Ne Zha Ii Dubbed](https://drafthouse.com/raleigh/show/ne-zha-ii-dubbed): Thu 8/21 (4:00pm), Fri 8/22 (11:15am, 2:45pm), Sat 8/23 (11:00am, 2:30pm), Sun 8/24 (11:00am, 2:30pm)
+
 ### Tue 8/5 7:29pm
 * New movies: David Gilmour Live at the Circus Maximus, Rome
 
