@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 8/7 10:33am
+* New movies: Honey Don't!
+
+* New screenings: 
+    * [Livestream Q A Honey Dont](https://drafthouse.com/raleigh/show/livestream-q-a-honey-dont): Thu 8/14 (8:00pm)
+
 ### Thu 8/7 9:03am
 * New movies: Ne Zha II Dubbed
 
