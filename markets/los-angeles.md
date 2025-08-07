@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 8/7 6:42am
+* New movies: Ne Zha II Dubbed, Red Sonja
+
+* New screenings: 
+    * [Ne Zha Ii Dubbed](https://drafthouse.com/los-angeles/show/ne-zha-ii-dubbed): Thu 8/21 (6:10pm, 9:45pm), Fri 8/22 (11:00am, 2:35pm, 6:10pm, 9:45pm), Sat 8/23 (11:00am, 2:35pm, 6:00pm), Sun 8/24 (11:00am, 2:35pm, 6:10pm), Mon 8/25 (11:00am, 2:35pm, 6:10pm, 9:45pm), Tue 8/26 (11:00am, 2:35pm, 6:10pm, 9:45pm), Wed 8/27 (11:00am, 2:35pm, 6:10pm, 9:45pm)
+
+    * [Red Sonja](https://drafthouse.com/los-angeles/show/red-sonja): Wed 8/13 (10:10pm)
+
 ### Tue 8/5 4:24pm
 * New movies: David Gilmour Live at the Circus Maximus, Rome
 
