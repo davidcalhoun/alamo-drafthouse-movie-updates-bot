@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 8/7 7:27am
+* New movies: Honey Don't!
+
+* New screenings: 
+    * [Livestream Q A Honey Dont](https://drafthouse.com/los-angeles/show/livestream-q-a-honey-dont): Thu 8/14 (7:00pm)
+
 ### Thu 8/7 6:42am
 * New movies: Ne Zha II Dubbed, Red Sonja
 
