@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 8/8 1:26pm
+
+* New screenings: 
+    * [Weapons](https://drafthouse.com/los-angeles/show/weapons): Sat 8/9 (10:10pm)
+
 ### Fri 8/8 8:26am
 * New movies: A Nightmare on Elm Street 1984, A Nightmare on Elm Street 4: The Dream Master, A Nightmare on Elm Street 5: The Dream Child, A Nightmare on Elm Street 3: Dream Warriors, A Nightmare on Elm Street 2: Freddy's Revenge, Freddy's Dead: The Final Nightmare, Wes Craven's New Nightmare
 
