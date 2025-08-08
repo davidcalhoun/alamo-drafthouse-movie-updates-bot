@@ -1,6 +1,24 @@
 # raleigh
 
 ## Movie updates
+### Fri 8/8 11:32am
+* New movies: A Nightmare on Elm Street 1984, A Nightmare on Elm Street 2: Freddy's Revenge, A Nightmare on Elm Street 4: The Dream Master, A Nightmare on Elm Street 5: The Dream Child, Freddy's Dead: The Final Nightmare, A Nightmare on Elm Street 3: Dream Warriors, Wes Craven's New Nightmare
+
+* New screenings: 
+    * [A Nightmare On Elm Street](https://drafthouse.com/raleigh/show/a-nightmare-on-elm-street): Fri 8/29 (9:35pm), Mon 9/1 (10:00pm), Tue 9/2 (6:45pm)
+
+    * [A Nightmare On Elm Street 2 Freddys Revenge](https://drafthouse.com/raleigh/show/a-nightmare-on-elm-street-2-freddys-revenge): Fri 9/5 (9:30pm)
+
+    * [A Nightmare On Elm Street 4 The Dream Master](https://drafthouse.com/raleigh/show/a-nightmare-on-elm-street-4-the-dream-master): Fri 9/12 (9:30pm)
+
+    * [A Nightmare On Elm Street 5 The Dream Child](https://drafthouse.com/raleigh/show/a-nightmare-on-elm-street-5-the-dream-child): Sat 9/13 (9:30pm)
+
+    * [Freddys Dead The Final Nightmare](https://drafthouse.com/raleigh/show/freddys-dead-the-final-nightmare): Fri 9/19 (9:30pm)
+
+    * [Nightmare On Elm Street 3 Dream Warriors](https://drafthouse.com/raleigh/show/nightmare-on-elm-street-3-dream-warriors): Sat 9/6 (9:30pm)
+
+    * [Wes Cravens New Nightmare](https://drafthouse.com/raleigh/show/wes-cravens-new-nightmare): Sat 9/20 (9:30pm)
+
 ### Thu 8/7 10:33am
 * New movies: Honey Don't!
 
