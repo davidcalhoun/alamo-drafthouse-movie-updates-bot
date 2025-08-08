@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 8/8 5:53am
+* New movies: Lurker, Lurker
+
+* New screenings: 
+    * [Livestream Q A Lurker](https://drafthouse.com/los-angeles/show/livestream-q-a-lurker): Mon 8/18 (7:00pm)
+
+    * [Lurker](https://drafthouse.com/los-angeles/show/lurker): Thu 8/28 (4:40pm, 7:30pm, 10:20pm), Fri 8/29 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Sat 8/30 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Sun 8/31 (11:00am, 1:50pm, 4:40pm, 7:30pm), Mon 9/1 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Tue 9/2 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Wed 9/3 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm)
+
 ### Thu 8/7 7:06pm
 * New movies: Caught Stealing, Miss Valentine
 
