@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 8/8 2:39pm
+* New movies: Lurker
+
+* New screenings: 
+    * [Lurker](https://drafthouse.com/raleigh/show/lurker): Thu 9/4 (4:15pm, 7:15pm, 10:15pm), Fri 9/5 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Sat 9/6 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Sun 9/7 (1:15pm, 4:15pm, 7:15pm, 10:15pm)
+
 ### Fri 8/8 11:32am
 * New movies: A Nightmare on Elm Street 1984, A Nightmare on Elm Street 2: Freddy's Revenge, A Nightmare on Elm Street 4: The Dream Master, A Nightmare on Elm Street 5: The Dream Child, Freddy's Dead: The Final Nightmare, A Nightmare on Elm Street 3: Dream Warriors, Wes Craven's New Nightmare
 
