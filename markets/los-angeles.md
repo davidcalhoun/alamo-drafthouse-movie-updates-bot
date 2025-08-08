@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Thu 8/7 7:06pm
+* New movies: Caught Stealing, Miss Valentine
+
+* New screenings: 
+    * [Advance Screening Caught Stealing Special Sneak Preview](https://drafthouse.com/los-angeles/show/advance-screening-caught-stealing-special-sneak-preview): Sat 8/23 (7:20pm)
+
+    * [Live Q A Miss Valentine](https://drafthouse.com/los-angeles/show/live-q-a-miss-valentine): Mon 9/8 (7:20pm)
+
+    * [Lone Wolf And Cub Sword Of Vengeance](https://drafthouse.com/los-angeles/show/lone-wolf-and-cub-sword-of-vengeance): Sat 8/23 (4:40pm)
+
+    * [Pools](https://drafthouse.com/los-angeles/show/pools): Sat 9/6 (1:45pm)
+
 ### Thu 8/7 7:27am
 * New movies: Honey Don't!
 
