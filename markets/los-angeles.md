@@ -1,6 +1,24 @@
 # los-angeles
 
 ## Movie updates
+### Fri 8/8 8:26am
+* New movies: A Nightmare on Elm Street 1984, A Nightmare on Elm Street 4: The Dream Master, A Nightmare on Elm Street 5: The Dream Child, A Nightmare on Elm Street 3: Dream Warriors, A Nightmare on Elm Street 2: Freddy's Revenge, Freddy's Dead: The Final Nightmare, Wes Craven's New Nightmare
+
+* New screenings: 
+    * [A Nightmare On Elm Street](https://drafthouse.com/los-angeles/show/a-nightmare-on-elm-street): Fri 8/29 (9:15pm, 10:30pm), Sat 8/30 (10:10pm)
+
+    * [A Nightmare On Elm Street 2 Freddys Revenge](https://drafthouse.com/los-angeles/show/a-nightmare-on-elm-street-2-freddys-revenge): Fri 9/5 (9:15pm), Sat 9/6 (10:10pm)
+
+    * [A Nightmare On Elm Street 4 The Dream Master](https://drafthouse.com/los-angeles/show/a-nightmare-on-elm-street-4-the-dream-master): Fri 9/12 (9:15pm), Sat 9/13 (10:20pm), Tue 9/16 (10:20pm)
+
+    * [A Nightmare On Elm Street 5 The Dream Child](https://drafthouse.com/los-angeles/show/a-nightmare-on-elm-street-5-the-dream-child): Fri 9/12 (10:20pm), Sat 9/13 (9:15pm), Tue 9/16 (9:15pm)
+
+    * [Freddys Dead The Final Nightmare](https://drafthouse.com/los-angeles/show/freddys-dead-the-final-nightmare): Fri 9/19 (9:30pm), Tue 9/23 (10:25pm)
+
+    * [Nightmare On Elm Street 3 Dream Warriors](https://drafthouse.com/los-angeles/show/nightmare-on-elm-street-3-dream-warriors): Fri 9/5 (10:10pm), Sat 9/6 (9:15pm), Tue 9/9 (10:00pm)
+
+    * [Wes Cravens New Nightmare](https://drafthouse.com/los-angeles/show/wes-cravens-new-nightmare): Sat 9/20 (9:30pm), Tue 9/23 (7:20pm)
+
 ### Fri 8/8 5:53am
 * New movies: Lurker, Lurker
 
