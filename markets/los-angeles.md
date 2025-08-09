@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 8/8 6:55pm
+
+* New screenings: 
+    * [Ebony Ivory](https://drafthouse.com/los-angeles/show/ebony-ivory): Sat 8/9 (9:30pm)
+
 ### Fri 8/8 1:26pm
 
 * New screenings: 
