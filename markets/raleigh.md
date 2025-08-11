@@ -1,6 +1,37 @@
 # raleigh
 
 ## Movie updates
+### Mon 8/11 7:25pm
+
+* New screenings: 
+    * [13 Assassins](https://drafthouse.com/raleigh/show/13-assassins): Mon 8/18 (8:00pm)
+
+    * [Cloud](https://drafthouse.com/raleigh/show/cloud): Thu 8/14 (10:40pm)
+
+    * [Eddington](https://drafthouse.com/raleigh/show/eddington): Thu 8/14 (12:45pm)
+
+    * [Freakier Friday](https://drafthouse.com/raleigh/show/freakier-friday): Thu 8/14 (12:30pm, 3:45pm, 7:00pm, 10:00pm), Fri 8/15 (12:55pm, 3:50pm, 6:45pm, 9:45pm), Sat 8/16 (10:00am, 12:55pm, 3:50pm, 6:45pm, 9:45pm), Sun 8/17 (10:15am, 1:10pm, 4:05pm, 7:00pm, 10:00pm), Mon 8/18 (12:55pm, 3:50pm, 6:45pm, 9:55pm), Tue 8/19 (12:15pm, 3:10pm, 6:15pm, 9:15pm), Wed 8/20 (12:55pm, 3:50pm, 6:45pm, 9:55pm)
+
+    * [Highest 2 Lowest](https://drafthouse.com/raleigh/show/highest-2-lowest): Fri 8/15 (11:15am, 2:35pm, 7:30pm, 9:15pm), Sat 8/16 (10:45am, 11:45am, 3:10pm, 8:30pm, 9:45pm), Sun 8/17 (10:00am, 11:10am, 2:30pm, 9:15pm), Mon 8/18 (11:30am, 2:45pm, 6:00pm, 9:15pm), Tue 8/19 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Wed 8/20 (11:30am, 2:45pm, 6:00pm, 9:15pm)
+
+    * [Jurassic World Rebirth](https://drafthouse.com/raleigh/show/jurassic-world-rebirth): Thu 8/14 (4:15pm)
+
+    * [Nobody 2](https://drafthouse.com/raleigh/show/nobody-2): Thu 8/14 (2:15pm, 4:45pm), Fri 8/15 (11:45am, 2:15pm, 4:45pm, 10:00pm), Sat 8/16 (11:15am, 2:00pm, 4:35pm, 9:45pm), Sun 8/17 (11:15am, 2:00pm, 4:45pm, 9:45pm), Mon 8/18 (2:00pm, 4:45pm, 7:30pm, 10:05pm), Tue 8/19 (1:40pm, 4:30pm, 7:15pm, 10:00pm), Wed 8/20 (2:00pm, 4:45pm, 7:30pm, 10:05pm)
+
+    * [Shin Godzilla 4k](https://drafthouse.com/raleigh/show/shin-godzilla-4k): Thu 8/14 (12:05pm, 3:10pm), Fri 8/15 (12:00pm, 3:05pm, 9:15pm), Sat 8/16 (9:00am, 12:05pm, 3:10pm, 9:20pm), Sun 8/17 (9:00am, 12:05pm, 3:10pm, 9:25pm), Mon 8/18 (11:55am, 3:00pm, 6:10pm, 9:20pm), Tue 8/19 (11:30am, 2:45pm, 6:00pm, 9:05pm), Wed 8/20 (11:55am, 3:00pm, 6:15pm, 9:20pm)
+
+    * [Superman 2025](https://drafthouse.com/raleigh/show/superman-2025): Thu 8/14 (2:00pm, 3:00pm, 6:15pm, 9:30pm), Fri 8/15 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Sat 8/16 (9:45am, 1:00pm, 4:15pm, 7:30pm, 10:40pm), Sun 8/17 (9:45am, 1:00pm, 4:10pm, 7:30pm, 10:00pm), Mon 8/18 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Tue 8/19 (12:15pm, 2:40pm, 6:00pm, 9:15pm), Wed 8/20 (12:45pm, 4:00pm, 7:15pm, 10:30pm)
+
+    * [The Bad Guys 2](https://drafthouse.com/raleigh/show/the-bad-guys-2): Thu 8/14 (1:45pm, 4:30pm, 7:30pm), Fri 8/15 (1:30pm, 3:00pm, 6:00pm), Sat 8/16 (10:45am, 1:35pm, 4:25pm, 7:15pm), Sun 8/17 (10:45am, 1:30pm, 4:15pm, 7:15pm), Mon 8/18 (12:30pm, 3:00pm, 6:00pm), Tue 8/19 (12:40pm, 3:25pm, 6:15pm), Wed 8/20 (12:30pm, 3:30pm, 6:20pm)
+
+    * [The Fantastic Four First Steps](https://drafthouse.com/raleigh/show/the-fantastic-four-first-steps): Thu 8/14 (1:00pm, 4:15pm, 7:15pm, 10:15pm), Fri 8/15 (1:00pm, 4:15pm, 7:15pm, 10:15pm), Sat 8/16 (9:15am, 12:15pm, 3:15pm, 6:15pm, 9:15pm), Sun 8/17 (9:15am, 12:15pm, 3:15pm, 6:30pm, 9:30pm), Mon 8/18 (12:15pm, 3:15pm, 6:15pm, 9:35pm), Tue 8/19 (1:45pm, 4:45pm, 7:45pm, 9:00pm), Wed 8/20 (12:15pm, 3:00pm, 6:15pm, 9:25pm)
+
+    * [The Naked Gun 2025](https://drafthouse.com/raleigh/show/the-naked-gun-2025): Thu 8/14 (1:30pm, 4:00pm, 6:30pm, 9:00pm), Fri 8/15 (1:20pm, 3:50pm, 6:25pm, 9:00pm), Sat 8/16 (10:30am, 1:05pm, 3:35pm, 6:10pm, 9:00pm), Sun 8/17 (10:30am, 1:05pm, 3:35pm, 6:10pm, 9:00pm), Mon 8/18 (1:45pm, 4:15pm, 7:00pm, 9:35pm), Tue 8/19 (1:30pm, 4:00pm, 6:45pm, 9:30pm), Wed 8/20 (1:45pm, 4:15pm, 7:00pm, 9:45pm)
+
+    * [Together 2025](https://drafthouse.com/raleigh/show/together-2025): Thu 8/14 (10:30pm), Fri 8/15 (10:45pm), Sat 8/16 (10:00pm), Sun 8/17 (10:40pm), Mon 8/18 (9:15pm), Tue 8/19 (10:45pm), Wed 8/20 (9:15pm)
+
+    * [Weapons](https://drafthouse.com/raleigh/show/weapons): Thu 8/14 (11:30am, 1:30pm, 2:45pm, 4:45pm, 5:15pm, 7:30pm, 8:30pm, 9:35pm), Fri 8/15 (12:30pm, 1:10pm, 3:45pm, 4:20pm, 7:00pm, 8:45pm, 10:15pm), Sat 8/16 (9:45am, 1:00pm, 2:00pm, 4:15pm, 5:15pm, 7:30pm, 9:00pm, 10:40pm), Sun 8/17 (9:45am, 1:00pm, 1:30pm, 3:00pm, 4:15pm, 4:45pm, 6:30pm, 7:30pm, 8:00pm, 10:40pm), Mon 8/18 (12:35pm, 1:30pm, 3:15pm, 3:45pm, 4:45pm, 7:00pm, 9:00pm, 10:15pm), Tue 8/19 (1:00pm, 2:00pm, 4:15pm, 5:15pm, 7:30pm, 8:30pm, 10:40pm), Wed 8/20 (12:35pm, 1:25pm, 3:15pm, 3:45pm, 4:45pm, 7:00pm, 8:00pm, 10:15pm)
+
 ### Fri 8/8 2:39pm
 * New movies: Lurker
 
