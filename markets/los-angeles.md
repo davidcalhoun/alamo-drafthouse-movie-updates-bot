@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 8/12 4:22pm
+
+* New screenings: 
+    * [Live Q A Miss Valentine](https://drafthouse.com/los-angeles/show/live-q-a-miss-valentine): Mon 9/8 (7:45pm)
+
 ### Tue 8/12 9:30am
 * New movies: The Roses
 
