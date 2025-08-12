@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 8/12 6:36am
+* New movies: Honey Don't!
+
+* New screenings: 
+    * [Honey Dont](https://drafthouse.com/los-angeles/show/honey-dont): Thu 8/21 (2:15pm, 5:00pm, 7:40pm, 10:20pm), Fri 8/22 (11:40am, 2:20pm, 5:00pm, 7:40pm, 10:20pm), Sat 8/23 (11:40am, 2:20pm, 5:00pm, 7:40pm, 10:20pm), Sun 8/24 (11:40am, 2:20pm, 5:00pm, 7:40pm), Mon 8/25 (11:40am, 2:20pm, 5:00pm, 7:40pm, 10:20pm), Tue 8/26 (11:40am, 2:20pm, 5:00pm, 7:40pm, 10:20pm), Wed 8/27 (11:20am, 2:00pm, 4:40pm, 7:20pm, 10:00pm)
+
 ### Tue 8/12 5:49am
 * New movies: Carnal Knowledge, Get Out Your Handkerchiefs, The Climb
 
