@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 8/12 9:30am
+* New movies: The Roses
+
+* New screenings: 
+    * [The Roses](https://drafthouse.com/los-angeles/show/the-roses): Thu 8/28 (3:45pm, 6:40pm, 9:35pm), Fri 8/29 (12:50pm, 3:45pm, 6:40pm, 9:35pm), Sat 8/30 (12:50pm, 3:45pm, 6:40pm, 9:35pm), Sun 8/31 (12:50pm, 3:45pm, 6:40pm), Mon 9/1 (12:50pm, 3:45pm, 6:40pm, 9:35pm), Tue 9/2 (12:50pm, 3:45pm, 6:40pm, 9:35pm), Wed 9/3 (12:50pm, 3:45pm, 6:40pm, 9:35pm)
+
 ### Tue 8/12 6:36am
 * New movies: Honey Don't!
 
