@@ -1,6 +1,41 @@
 # los-angeles
 
 ## Movie updates
+### Mon 8/11 6:54pm
+
+* New screenings: 
+    * [13 Assassins](https://drafthouse.com/los-angeles/show/13-assassins): Sat 8/16 (9:50pm), Sun 8/17 (11:30am), Mon 8/18 (10:25pm), Tue 8/19 (12:10pm, 9:25pm)
+
+    * [Cloud](https://drafthouse.com/los-angeles/show/cloud): Thu 8/14 (2:50pm)
+
+    * [Eddington](https://drafthouse.com/los-angeles/show/eddington): Thu 8/14 (11:45am), Fri 8/15 (11:50am), Sat 8/16 (11:50am), Mon 8/18 (11:50am), Tue 8/19 (11:50am), Wed 8/20 (11:50am)
+
+    * [Freakier Friday](https://drafthouse.com/los-angeles/show/freakier-friday): Thu 8/14 (12:50pm, 3:50pm, 6:50pm, 9:50pm), Fri 8/15 (12:40pm, 3:40pm, 6:40pm, 10:10pm), Sat 8/16 (12:35pm, 3:40pm, 6:40pm, 9:45pm), Sun 8/17 (12:40pm, 3:40pm, 6:40pm), Mon 8/18 (12:40pm, 3:40pm, 6:40pm, 9:45pm), Tue 8/19 (12:40pm, 3:40pm, 6:40pm, 9:45pm), Wed 8/20 (12:40pm, 3:40pm, 6:40pm, 9:45pm)
+
+    * [Harry Potter And The Prisoner Of Azkaban](https://drafthouse.com/los-angeles/show/harry-potter-and-the-prisoner-of-azkaban): Fri 8/15 (2:00pm), Sat 8/16 (12:15pm), Mon 8/18 (12:10pm), Tue 8/19 (2:30pm), Wed 8/20 (3:45pm)
+
+    * [Highest 2 Lowest](https://drafthouse.com/los-angeles/show/highest-2-lowest): Fri 8/15 (11:20am, 9:45pm), Sat 8/16 (12:45pm, 4:10pm), Sun 8/17 (11:15am)
+
+    * [Its Never Over Jeff Buckley](https://drafthouse.com/los-angeles/show/its-never-over-jeff-buckley): Sun 8/17 (3:00pm, 7:30pm), Mon 8/18 (4:00pm), Tue 8/19 (11:00am, 6:00pm), Wed 8/20 (12:15pm, 5:30pm)
+
+    * [Lady Snowblood](https://drafthouse.com/los-angeles/show/lady-snowblood): Thu 8/14 (12:00pm, 4:20pm)
+
+    * [Malcolm X](https://drafthouse.com/los-angeles/show/malcolm-x): Mon 8/18 (11:25am), Wed 8/20 (12:50pm)
+
+    * [Shin Godzilla 4k](https://drafthouse.com/los-angeles/show/shin-godzilla-4k): Thu 8/14 (10:10pm)
+
+    * [Superman 2025](https://drafthouse.com/los-angeles/show/superman-2025): Thu 8/14 (1:00pm, 7:20pm), Fri 8/15 (12:35pm, 6:50pm), Sat 8/16 (6:50pm), Sun 8/17 (12:35pm, 6:50pm), Mon 8/18 (12:35pm, 6:50pm), Tue 8/19 (12:35pm, 6:50pm), Wed 8/20 (12:35pm, 6:50pm)
+
+    * [The Bad Guys 2](https://drafthouse.com/los-angeles/show/the-bad-guys-2): Thu 8/14 (11:25am)
+
+    * [The Fantastic Four First Steps](https://drafthouse.com/los-angeles/show/the-fantastic-four-first-steps): Thu 8/14 (11:50am, 3:20pm, 6:25pm, 9:35pm), Fri 8/15 (11:20am, 3:25pm, 6:30pm, 9:40pm), Sat 8/16 (11:20am, 3:25pm, 7:10pm, 10:20pm), Sun 8/17 (11:20am, 2:45pm, 6:00pm), Mon 8/18 (11:15am, 3:25pm, 6:30pm, 10:30pm), Tue 8/19 (11:15am, 3:25pm, 6:30pm, 10:25pm), Wed 8/20 (11:15am, 3:25pm, 6:30pm, 9:40pm)
+
+    * [The Naked Gun 2025](https://drafthouse.com/los-angeles/show/the-naked-gun-2025): Thu 8/14 (12:15pm, 2:50pm, 5:25pm, 8:00pm, 10:35pm), Fri 8/15 (11:25am, 2:50pm, 5:25pm, 8:00pm, 10:35pm), Sat 8/16 (12:15pm, 2:50pm, 5:25pm, 8:00pm, 10:35pm), Sun 8/17 (12:15pm, 2:50pm, 5:25pm, 8:00pm), Mon 8/18 (12:15pm, 2:50pm, 5:25pm, 8:00pm, 10:35pm), Tue 8/19 (12:15pm, 2:50pm, 5:25pm, 8:00pm, 10:35pm), Wed 8/20 (12:15pm, 2:50pm, 5:25pm, 8:00pm, 10:35pm)
+
+    * [Together 2025](https://drafthouse.com/los-angeles/show/together-2025): Thu 8/14 (11:30am, 4:25pm, 10:40pm), Fri 8/15 (4:00pm), Sat 8/16 (10:10pm), Sun 8/17 (4:00pm), Mon 8/18 (4:00pm, 10:10pm), Tue 8/19 (4:00pm, 10:10pm), Wed 8/20 (4:00pm, 10:10pm)
+
+    * [Weapons](https://drafthouse.com/los-angeles/show/weapons): Thu 8/14 (12:00pm, 12:20pm, 1:00pm, 1:20pm, 2:20pm, 3:40pm, 5:40pm, 7:10pm, 9:00pm, 9:45pm, 10:30pm), Fri 8/15 (11:10am, 12:30pm, 2:25pm, 3:50pm, 5:45pm, 7:10pm, 9:10pm, 10:10pm, 10:30pm), Sat 8/16 (12:40pm, 2:25pm, 4:00pm, 5:45pm, 6:30pm, 7:20pm, 9:10pm, 10:40pm), Sun 8/17 (12:30pm, 2:25pm, 3:50pm, 5:45pm, 7:10pm), Mon 8/18 (12:50pm, 2:20pm, 3:40pm, 4:10pm, 5:40pm, 7:30pm, 9:00pm, 9:40pm, 10:25pm), Tue 8/19 (12:30pm, 2:20pm, 3:50pm, 5:40pm, 7:10pm, 9:00pm, 9:40pm, 10:30pm), Wed 8/20 (12:30pm, 2:20pm, 3:50pm, 5:40pm, 7:10pm, 9:00pm, 9:25pm, 10:30pm)
+
 ### Fri 8/8 6:55pm
 
 * New screenings: 
