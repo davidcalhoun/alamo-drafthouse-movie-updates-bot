@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Tue 8/12 5:49am
+* New movies: Carnal Knowledge, Get Out Your Handkerchiefs, The Climb
+
+* New screenings: 
+    * [Guest Selects Carnal Knowledge](https://drafthouse.com/los-angeles/show/guest-selects-carnal-knowledge): Sat 8/30 (7:20pm)
+
+    * [Guest Selects Get Out Your Handkerchiefs](https://drafthouse.com/los-angeles/show/guest-selects-get-out-your-handkerchiefs): Sun 8/31 (4:00pm)
+
+    * [Guest Selects The Climb](https://drafthouse.com/los-angeles/show/guest-selects-the-climb): Sat 8/30 (4:30pm)
+
 ### Mon 8/11 6:54pm
 
 * New screenings: 
