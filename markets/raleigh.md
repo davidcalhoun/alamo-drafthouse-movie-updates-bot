@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 8/12 3:22pm
+* New movies: Caught Stealing
+
+* New screenings: 
+    * [Advance Screening Caught Stealing Special Sneak Preview](https://drafthouse.com/raleigh/show/advance-screening-caught-stealing-special-sneak-preview): Sat 8/23 (7:15pm)
+
 ### Tue 8/12 9:40am
 * New movies: Honey Don't!
 
