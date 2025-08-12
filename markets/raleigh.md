@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 8/12 6:27pm
+* New movies: Lurker
+
+* New screenings: 
+    * [Livestream Q A Lurker](https://drafthouse.com/raleigh/show/livestream-q-a-lurker): Mon 8/18 (7:00pm)
+
 ### Tue 8/12 3:22pm
 * New movies: Caught Stealing
 
