@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 8/12 9:40am
+* New movies: Honey Don't!
+
+* New screenings: 
+    * [Honey Dont](https://drafthouse.com/raleigh/show/honey-dont): Thu 8/21 (7:30pm), Fri 8/22 (7:15pm), Sat 8/23 (7:00pm), Sun 8/24 (7:00pm)
+
 ### Mon 8/11 7:25pm
 
 * New screenings: 
