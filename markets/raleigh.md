@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 8/13 11:27am
+* New movies: KPop Demon Hunters
+
+* New screenings: 
+    * [Movie Party Kpop Demon Hunters A Sing Along Event](https://drafthouse.com/raleigh/show/movie-party-kpop-demon-hunters-a-sing-along-event): Sat 8/23 (4:30pm, 7:30pm), Sun 8/24 (3:15pm, 6:15pm)
+
 ### Tue 8/12 6:27pm
 * New movies: Lurker
 
