@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 8/13 3:22pm
+* New movies: Megadoc
+
+* New screenings: 
+    * [Megadoc](https://drafthouse.com/los-angeles/show/megadoc): Fri 9/19 (6:30pm), Tue 9/23 (4:20pm)
+
 ### Wed 8/13 2:21pm
 * New movies: KPop Demon Hunters
 
