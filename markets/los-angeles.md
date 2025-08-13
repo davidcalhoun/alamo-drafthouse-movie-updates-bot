@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 8/12 6:56pm
+* New movies: The Student Nurses
+
+* New screenings: 
+    * [The Student Nurses](https://drafthouse.com/los-angeles/show/the-student-nurses): Sun 9/28 (12:30pm)
+
 ### Tue 8/12 4:22pm
 
 * New screenings: 
