@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 8/13 6:37am
+* New movies: KPop Demon Hunters
+
+* New screenings: 
+    * [Movie Party Kpop Demon Hunters A Sing Along Event](https://drafthouse.com/los-angeles/show/movie-party-kpop-demon-hunters-a-sing-along-event): Sat 8/23 (4:10pm, 7:00pm), Sun 8/24 (4:30pm, 7:20pm)
+
 ### Tue 8/12 6:56pm
 * New movies: The Student Nurses
 
