@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 8/13 2:21pm
+* New movies: KPop Demon Hunters
+
+* New screenings: 
+    * [Ne Zha Ii Dubbed](https://drafthouse.com/los-angeles/show/ne-zha-ii-dubbed): Sat 8/23 (9:50pm)
+
+    * [Sing Along Kpop Demon Hunters A Sing Along Event](https://drafthouse.com/los-angeles/show/sing-along-kpop-demon-hunters-a-sing-along-event): Sat 8/23 (10:40am, 1:25pm, 6:15pm, 9:00pm), Sun 8/24 (9:45am, 12:30pm, 6:15pm)
+
 ### Wed 8/13 6:37am
 * New movies: KPop Demon Hunters
 
