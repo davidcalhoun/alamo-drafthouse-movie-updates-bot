@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 8/13 4:21pm
+
+* New screenings: 
+    * [Sing Along Kpop Demon Hunters A Sing Along Event](https://drafthouse.com/los-angeles/show/sing-along-kpop-demon-hunters-a-sing-along-event): Sun 8/24 (3:15pm)
+
 ### Wed 8/13 3:22pm
 * New movies: Megadoc
 
