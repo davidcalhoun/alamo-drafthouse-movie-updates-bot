@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 8/14 6:57pm
+* New movies: The Conjuring: Last Rites
+
+* New screenings: 
+    * [The Conjuring Last Rites](https://drafthouse.com/los-angeles/show/the-conjuring-last-rites): Thu 9/4 (3:30pm, 7:00pm, 10:30pm), Fri 9/5 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sat 9/6 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sun 9/7 (12:00pm, 3:30pm, 7:00pm), Mon 9/8 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Tue 9/9 (11:45am, 3:15pm, 6:45pm, 10:15pm), Wed 9/10 (11:45am, 3:15pm, 6:45pm, 10:15pm), Thu 9/11 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Fri 9/12 (11:45am, 3:30pm, 7:00pm, 10:30pm), Sat 9/13 (11:45am, 3:30pm, 7:00pm, 10:30pm), Sun 9/14 (11:45am, 3:30pm, 7:00pm), Mon 9/15 (11:45am, 3:30pm, 7:00pm, 10:30pm), Tue 9/16 (11:45am, 3:30pm, 7:00pm, 10:30pm), Wed 9/17 (11:45am, 3:30pm, 7:00pm, 10:30pm)
+
 ### Thu 8/14 3:26am
 
 * New screenings: 
