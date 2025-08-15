@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 8/15 6:32am
+* New movies: Demon Slayer: Kimetsu No Yaiba Infinity Castle Subtitled, Demon Slayer: Kimetsu No Yaiba Infinity Castle Dubbed
+
+* New screenings: 
+    * [Demon Slayer Kimetsu No Yaiba Infinity Castle Dubbed](https://drafthouse.com/los-angeles/show/demon-slayer-kimetsu-no-yaiba-infinity-castle-dubbed): Thu 9/11 (10:00pm), Fri 9/12 (11:00am, 10:00pm), Sat 9/13 (11:00am, 10:00pm), Sun 9/14 (11:00am), Mon 9/15 (11:00am, 10:00pm), Tue 9/16 (11:00am, 10:00pm), Wed 9/17 (12:00pm)
+
+    * [Demon Slayer Kimetsu No Yaiba Infinity Castle Subtitled](https://drafthouse.com/los-angeles/show/demon-slayer-kimetsu-no-yaiba-infinity-castle-subtitled): Thu 9/11 (6:20pm), Fri 9/12 (2:40pm, 6:20pm), Sat 9/13 (2:40pm, 6:20pm), Sun 9/14 (2:40pm, 6:20pm), Mon 9/15 (2:40pm, 6:20pm), Tue 9/16 (2:40pm, 6:20pm), Wed 9/17 (3:40pm)
+
 ### Thu 8/14 6:57pm
 * New movies: The Conjuring: Last Rites
 
