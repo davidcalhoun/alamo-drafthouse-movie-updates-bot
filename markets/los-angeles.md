@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Sat 8/16 5:44am
+* New movies: The Breakfast Club: 40th Anniversary
+
+* New screenings: 
+    * [The Breakfast Club 40th Anniversary](https://drafthouse.com/los-angeles/show/the-breakfast-club-40th-anniversary): Sat 9/6 (4:30pm, 7:20pm), Tue 9/9 (1:40pm, 4:30pm)
+
 ### Fri 8/15 6:32am
 * New movies: Demon Slayer: Kimetsu No Yaiba Infinity Castle Subtitled, Demon Slayer: Kimetsu No Yaiba Infinity Castle Dubbed
 
