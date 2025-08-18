@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 8/18 11:31am
+* New movies: The Student Nurses
+
+* New screenings: 
+    * [The Student Nurses](https://drafthouse.com/raleigh/show/the-student-nurses): Sun 9/28 (12:45pm)
+
 ### Mon 8/18 10:30am
 * New movies: Megadoc
 
