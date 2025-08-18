@@ -1,6 +1,55 @@
 # los-angeles
 
 ## Movie updates
+### Mon 8/18 2:19pm
+
+* New screenings: 
+    * [13 Assassins](https://drafthouse.com/los-angeles/show/13-assassins): Thu 8/21 (8:15pm)
+
+    * [Clue](https://drafthouse.com/los-angeles/show/clue): Fri 8/22 (2:45pm), Mon 8/25 (12:40pm), Tue 8/26 (11:00am), Wed 8/27 (11:00am)
+
+    * [East Of Wall](https://drafthouse.com/los-angeles/show/east-of-wall): Thu 8/21 (11:40am, 3:40pm)
+
+    * [Freakier Friday](https://drafthouse.com/los-angeles/show/freakier-friday): Thu 8/21 (12:40pm, 3:40pm, 6:40pm, 9:45pm), Fri 8/22 (12:40pm, 3:40pm, 6:40pm, 9:45pm), Sat 8/23 (12:50pm, 3:50pm, 6:50pm, 9:55pm), Sun 8/24 (11:10am, 1:00pm, 4:10pm, 7:10pm), Mon 8/25 (12:40pm, 3:40pm, 6:40pm, 9:45pm), Tue 8/26 (12:40pm, 3:40pm, 6:40pm, 9:45pm), Wed 8/27 (12:40pm, 3:40pm, 6:40pm, 9:45pm)
+
+    * [Harry Potter And The Goblet Of Fire](https://drafthouse.com/los-angeles/show/harry-potter-and-the-goblet-of-fire): Fri 8/22 (5:30pm), Mon 8/25 (12:20pm), Tue 8/26 (2:10pm), Wed 8/27 (3:10pm)
+
+    * [Hell House Llc Lineage](https://drafthouse.com/los-angeles/show/hell-house-llc-lineage): Wed 8/27 (10:20pm)
+
+    * [Highest 2 Lowest](https://drafthouse.com/los-angeles/show/highest-2-lowest): Thu 8/21 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Fri 8/22 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sat 8/23 (11:50am, 3:15pm, 6:40pm, 10:10pm), Sun 8/24 (12:00pm, 3:30pm, 6:50pm), Mon 8/25 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Tue 8/26 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Wed 8/27 (12:00pm, 3:25pm, 6:50pm, 10:15pm)
+
+    * [Honey Dont](https://drafthouse.com/los-angeles/show/honey-dont): Thu 8/21 (6:00pm, 8:45pm)
+
+    * [Its Never Over Jeff Buckley](https://drafthouse.com/los-angeles/show/its-never-over-jeff-buckley): Thu 8/21 (4:50pm), Fri 8/22 (12:45pm), Mon 8/25 (9:00pm), Wed 8/27 (1:45pm)
+
+    * [Lone Wolf And Cub Sword Of Vengeance](https://drafthouse.com/los-angeles/show/lone-wolf-and-cub-sword-of-vengeance): Fri 8/22 (12:10pm), Tue 8/26 (11:30am)
+
+    * [Malcolm X](https://drafthouse.com/los-angeles/show/malcolm-x): Thu 8/21 (12:15pm)
+
+    * [Nobody 2](https://drafthouse.com/los-angeles/show/nobody-2): Thu 8/21 (11:50am, 2:35pm, 5:15pm, 8:00pm, 10:40pm), Fri 8/22 (12:00pm, 2:40pm, 5:20pm, 8:00pm, 10:40pm), Sat 8/23 (11:45am, 2:25pm, 5:10pm, 7:50pm, 10:35pm), Sun 8/24 (11:50am, 2:30pm, 5:15pm, 8:00pm), Mon 8/25 (12:00pm, 2:40pm, 5:20pm, 8:00pm, 10:40pm), Tue 8/26 (12:00pm, 2:40pm, 5:20pm, 8:00pm, 10:40pm), Wed 8/27 (12:00pm, 2:40pm, 5:20pm, 8:00pm, 10:40pm)
+
+    * [Queer Film Theory 101 Hackers](https://drafthouse.com/los-angeles/show/queer-film-theory-101-hackers): Mon 8/25 (6:00pm), Tue 8/26 (8:50pm), Wed 8/27 (10:10pm)
+
+    * [Shin Godzilla 4k](https://drafthouse.com/los-angeles/show/shin-godzilla-4k): Thu 8/21 (11:45am, 3:00pm, 6:30pm, 9:40pm), Fri 8/22 (11:50am, 3:00pm, 6:20pm, 9:30pm), Mon 8/25 (11:50am, 3:00pm, 6:20pm, 9:30pm), Tue 8/26 (11:50am, 3:00pm, 6:20pm, 9:30pm), Wed 8/27 (11:40am, 2:50pm, 6:00pm, 9:10pm)
+
+    * [Sing Along Kpop Demon Hunters A Sing Along Event](https://drafthouse.com/los-angeles/show/sing-along-kpop-demon-hunters-a-sing-along-event): Sat 8/23 (11:40am, 12:00pm, 2:25pm, 5:15pm, 8:00pm, 10:25pm, 10:45pm), Sun 8/24 (9:35am, 10:30am, 1:15pm, 4:00pm, 7:00pm)
+
+    * [Superman 2025](https://drafthouse.com/los-angeles/show/superman-2025): Thu 8/21 (12:20pm)
+
+    * [The 40 Year Old Virgin 20th Anniversary](https://drafthouse.com/los-angeles/show/the-40-year-old-virgin-20th-anniversary): Mon 8/25 (4:10pm), Tue 8/26 (1:40pm)
+
+    * [The Doom Generation](https://drafthouse.com/los-angeles/show/the-doom-generation): Fri 8/22 (10:25pm), Mon 8/25 (3:25pm), Wed 8/27 (5:10pm)
+
+    * [The Fantastic Four First Steps](https://drafthouse.com/los-angeles/show/the-fantastic-four-first-steps): Thu 8/21 (12:10pm, 3:15pm, 6:20pm, 9:25pm), Fri 8/22 (12:10pm, 3:15pm, 6:30pm, 9:40pm), Sat 8/23 (12:10pm, 3:20pm, 6:30pm, 9:40pm), Sun 8/24 (12:20pm, 3:25pm, 6:30pm), Mon 8/25 (12:10pm, 3:20pm, 6:30pm, 9:40pm), Tue 8/26 (12:10pm, 3:20pm, 6:30pm, 9:40pm), Wed 8/27 (12:10pm, 3:15pm, 6:30pm, 9:40pm)
+
+    * [The Naked Gun 2025](https://drafthouse.com/los-angeles/show/the-naked-gun-2025): Thu 8/21 (11:40am, 2:15pm, 4:50pm, 7:30pm, 10:10pm), Fri 8/22 (11:30am, 2:10pm, 4:50pm, 7:30pm, 10:10pm), Sat 8/23 (11:30am, 2:10pm, 4:50pm, 7:30pm, 10:10pm), Sun 8/24 (10:20am, 2:10pm, 4:50pm, 7:30pm), Mon 8/25 (11:30am, 2:10pm, 4:50pm, 7:30pm, 10:10pm), Tue 8/26 (11:30am, 2:10pm, 4:50pm, 7:30pm, 10:10pm), Wed 8/27 (11:30am, 2:10pm, 4:50pm, 7:30pm, 10:10pm)
+
+    * [Together 2025](https://drafthouse.com/los-angeles/show/together-2025): Thu 8/21 (11:20am)
+
+    * [Trainwreck 10th Anniversary](https://drafthouse.com/los-angeles/show/trainwreck-10th-anniversary): Wed 8/27 (11:50am)
+
+    * [Weapons](https://drafthouse.com/los-angeles/show/weapons): Thu 8/21 (11:25am, 12:30pm, 2:45pm, 3:50pm, 5:45pm, 7:10pm, 9:00pm, 10:30pm), Fri 8/22 (11:10am, 12:30pm, 2:30pm, 3:50pm, 5:45pm, 7:10pm, 9:10pm, 10:30pm), Sat 8/23 (12:30pm, 3:50pm, 7:10pm, 10:30pm), Sun 8/24 (11:20am, 2:45pm, 6:10pm), Mon 8/25 (11:10am, 12:30pm, 2:30pm, 3:50pm, 5:45pm, 7:10pm, 9:10pm, 10:30pm), Tue 8/26 (11:10am, 12:30pm, 2:30pm, 3:50pm, 5:45pm, 7:10pm, 9:10pm, 10:30pm), Wed 8/27 (11:10am, 12:30pm, 2:30pm, 3:50pm, 5:45pm, 7:10pm, 9:10pm, 10:30pm)
+
 ### Sat 8/16 5:44am
 * New movies: The Breakfast Club: 40th Anniversary
 
