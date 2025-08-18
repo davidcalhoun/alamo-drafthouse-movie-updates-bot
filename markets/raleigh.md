@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 8/18 9:41am
+
+* New screenings: 
+    * [Clue](https://drafthouse.com/raleigh/show/clue): Fri 8/22 (4:15pm)
+
 ### Fri 8/15 9:36am
 * New movies: Demon Slayer: Kimetsu No Yaiba Infinity Castle Dubbed, Demon Slayer: Kimetsu No Yaiba Infinity Castle Subtitled
 
