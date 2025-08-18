@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 8/18 10:30am
+* New movies: Megadoc
+
+* New screenings: 
+    * [Megadoc](https://drafthouse.com/raleigh/show/megadoc): Sat 9/20 (3:30pm)
+
 ### Mon 8/18 9:41am
 
 * New screenings: 
