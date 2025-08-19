@@ -1,6 +1,56 @@
 # raleigh
 
 ## Movie updates
+### Tue 8/19 9:35am
+* New movies: KPop Demon Hunters, Spinal Tap II: The End Continues, 13 Assassins, Harry Potter and the Prisoner of Azkaban, Spinal Tap II: The End Continues, This is Spinal Tap, How To Train Your Dragon 2025
+
+* New screenings: 
+    * [13 Assassins](https://drafthouse.com/raleigh/show/13-assassins): Thu 8/21 (5:15pm)
+
+    * [Clue](https://drafthouse.com/raleigh/show/clue): Fri 8/22 (6:30pm)
+
+    * [Freakier Friday](https://drafthouse.com/raleigh/show/freakier-friday): Thu 8/21 (12:25pm, 3:30pm, 6:40pm, 9:40pm), Fri 8/22 (12:45pm, 3:45pm, 6:45pm, 9:40pm), Sat 8/23 (9:45am, 12:45pm, 3:45pm, 6:45pm, 10:15pm), Sun 8/24 (10:00am, 1:00pm, 4:00pm, 7:00pm, 10:40pm), Mon 8/25 (12:45pm, 3:45pm, 6:45pm, 7:35pm, 9:45pm), Tue 8/26 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Wed 8/27 (1:20pm, 4:15pm, 6:25pm, 9:25pm)
+
+    * [Harry Potter And The Goblet Of Fire](https://drafthouse.com/raleigh/show/harry-potter-and-the-goblet-of-fire): Tue 8/26 (6:00pm)
+
+    * [Harry Potter And The Prisoner Of Azkaban](https://drafthouse.com/raleigh/show/harry-potter-and-the-prisoner-of-azkaban): Thu 8/21 (1:45pm)
+
+    * [Highest 2 Lowest](https://drafthouse.com/raleigh/show/highest-2-lowest): Thu 8/21 (12:15pm, 3:30pm, 6:45pm, 10:15pm), Fri 8/22 (1:15pm, 4:15pm, 7:30pm, 10:45pm), Sat 8/23 (12:45pm, 2:00pm, 4:00pm, 6:00pm, 10:05pm), Sun 8/24 (9:25am, 12:45pm, 4:05pm, 7:20pm, 10:00pm), Mon 8/25 (1:05pm, 4:30pm, 7:45pm, 9:25pm), Tue 8/26 (11:45am, 3:10pm, 6:45pm, 10:00pm), Wed 8/27 (12:15pm, 3:35pm, 7:30pm, 10:05pm)
+
+    * [Honey Dont](https://drafthouse.com/raleigh/show/honey-dont): Thu 8/21 (5:00pm, 6:30pm, 10:00pm), Fri 8/22 (1:45pm, 4:35pm, 10:00pm), Sat 8/23 (10:45am, 1:30pm, 4:15pm, 9:45pm), Sun 8/24 (11:15am, 1:50pm, 4:25pm, 9:35pm), Mon 8/25 (1:45pm, 4:15pm, 6:45pm, 9:00pm), Tue 8/26 (1:15pm, 3:50pm, 6:25pm, 9:10pm), Wed 8/27 (1:30pm, 4:00pm, 6:30pm, 9:05pm)
+
+    * [How To Train Your Dragon 2025](https://drafthouse.com/raleigh/show/how-to-train-your-dragon-2025): Fri 8/22 (2:45pm), Mon 8/25 (4:00pm), Tue 8/26 (3:30pm), Wed 8/27 (4:15pm)
+
+    * [Lone Wolf And Cub Sword Of Vengeance](https://drafthouse.com/raleigh/show/lone-wolf-and-cub-sword-of-vengeance): Fri 8/22 (9:45pm), Mon 8/25 (7:00pm), Wed 8/27 (6:00pm)
+
+    * [Movie Party Spinal Tap Ii The End Continues](https://drafthouse.com/raleigh/show/movie-party-spinal-tap-ii-the-end-continues): Thu 9/11 (7:00pm)
+
+    * [Movie Party This Is Spinal Tap](https://drafthouse.com/raleigh/show/movie-party-this-is-spinal-tap): Mon 9/8 (6:30pm)
+
+    * [Ne Zha Ii Dubbed](https://drafthouse.com/raleigh/show/ne-zha-ii-dubbed): Thu 8/21 (7:45pm, 9:00pm), Fri 8/22 (6:15pm), Sat 8/23 (6:00pm), Sun 8/24 (5:45pm), Mon 8/25 (12:25pm, 2:30pm, 6:00pm, 9:35pm), Tue 8/26 (12:15pm, 3:50pm, 7:15pm, 10:45pm), Wed 8/27 (11:15am, 2:45pm, 6:20pm, 9:55pm)
+
+    * [Nobody 2](https://drafthouse.com/raleigh/show/nobody-2): Thu 8/21 (1:15pm, 4:00pm, 6:15pm, 9:00pm), Fri 8/22 (11:30am, 2:00pm, 4:35pm, 7:15pm, 9:50pm), Sat 8/23 (10:45am, 12:45pm, 3:20pm, 7:20pm, 9:20pm), Sun 8/24 (10:35am, 1:10pm, 3:45pm, 6:25pm, 9:15pm), Mon 8/25 (12:30pm, 3:55pm, 10:30pm), Tue 8/26 (1:00pm, 2:00pm, 4:45pm, 7:15pm, 9:45pm), Wed 8/27 (11:35am, 2:15pm, 4:55pm, 7:35pm, 10:15pm)
+
+    * [Shin Godzilla 4k](https://drafthouse.com/raleigh/show/shin-godzilla-4k): Thu 8/21 (11:45am, 2:55pm, 6:00pm, 9:05pm), Fri 8/22 (12:15pm, 3:20pm, 9:45pm), Sat 8/23 (10:15pm), Mon 8/25 (12:45pm, 3:50pm, 10:15pm), Tue 8/26 (11:30am, 2:45pm, 10:00pm), Wed 8/27 (11:45am, 2:55pm, 9:15pm)
+
+    * [Sing Along Kpop Demon Hunters A Sing Along Event](https://drafthouse.com/raleigh/show/sing-along-kpop-demon-hunters-a-sing-along-event): Sat 8/23 (11:00am, 1:45pm, 5:15pm, 7:55pm, 9:30pm, 10:40pm), Sun 8/24 (9:55am, 12:35pm, 2:30pm, 7:30pm, 8:00pm, 9:00pm, 9:30pm, 10:15pm)
+
+    * [Spinal Tap Ii The End Continues](https://drafthouse.com/raleigh/show/spinal-tap-ii-the-end-continues): Fri 9/12 (7:15pm), Sat 9/13 (7:15pm), Sun 9/14 (7:15pm)
+
+    * [Superman 2025](https://drafthouse.com/raleigh/show/superman-2025): Thu 8/21 (2:40pm), Fri 8/22 (5:55pm), Sat 8/23 (4:05pm), Sun 8/24 (4:45pm), Mon 8/25 (5:45pm), Tue 8/26 (5:15pm), Wed 8/27 (3:10pm)
+
+    * [The Bad Guys 2](https://drafthouse.com/raleigh/show/the-bad-guys-2): Thu 8/21 (1:00pm, 2:15pm), Fri 8/22 (12:00pm, 1:30pm), Sat 8/23 (10:00am, 1:20pm), Sun 8/24 (11:15am, 2:00pm), Mon 8/25 (1:15pm, 3:00pm), Tue 8/26 (11:30am, 2:25pm), Wed 8/27 (12:20pm, 1:15pm)
+
+    * [The Fantastic Four First Steps](https://drafthouse.com/raleigh/show/the-fantastic-four-first-steps): Thu 8/21 (12:00pm, 3:00pm, 6:00pm, 9:15pm), Fri 8/22 (12:00pm, 3:15pm, 6:15pm, 9:15pm), Sat 8/23 (10:30am, 1:30pm, 4:30pm, 7:30pm, 10:30pm), Sun 8/24 (9:00am, 12:00pm, 3:00pm, 6:00pm, 9:00pm), Mon 8/25 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Tue 8/26 (1:30pm, 4:30pm, 7:30pm, 9:10pm), Wed 8/27 (12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
+    * [The Naked Gun 2025](https://drafthouse.com/raleigh/show/the-naked-gun-2025): Thu 8/21 (1:45pm, 4:30pm, 7:15pm, 9:50pm), Fri 8/22 (12:25pm, 3:00pm, 5:35pm, 8:10pm, 10:45pm), Sat 8/23 (10:15am, 1:00pm, 3:35pm, 6:15pm, 9:00pm), Sun 8/24 (11:45am, 2:20pm, 5:00pm, 7:45pm, 10:20pm), Mon 8/25 (2:25pm, 5:00pm, 7:15pm, 10:00pm), Tue 8/26 (1:10pm, 4:00pm, 6:35pm, 10:30pm), Wed 8/27 (1:00pm, 3:40pm, 7:15pm, 9:50pm)
+
+    * [The Original Kings Of Comedy](https://drafthouse.com/raleigh/show/the-original-kings-of-comedy): Thu 8/21 (8:30pm)
+
+    * [Together 2025](https://drafthouse.com/raleigh/show/together-2025): Fri 8/22 (9:05pm)
+
+    * [Weapons](https://drafthouse.com/raleigh/show/weapons): Thu 8/21 (12:40pm, 3:50pm, 7:00pm, 10:10pm), Fri 8/22 (1:00pm, 4:20pm, 7:30pm, 10:40pm), Sat 8/23 (9:30am, 12:00pm, 3:15pm, 6:30pm, 10:00pm), Sun 8/24 (9:15am, 12:30pm, 4:15pm, 6:35pm, 9:45pm), Mon 8/25 (1:30pm, 4:45pm, 8:00pm, 9:15pm), Tue 8/26 (12:40pm, 3:50pm, 7:00pm, 8:30pm, 10:15pm), Wed 8/27 (12:45pm, 4:00pm, 7:15pm, 10:25pm)
+
 ### Tue 8/19 8:53am
 * New movies: Downton Abbey: The Grand Finale, Downton Abbey: The Grand Finale
 
