@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 8/19 5:46am
+* New movies: Downton Abbey: The Grand Finale, Downton Abbey: The Grand Finale
+
+* New screenings: 
+    * [Downton Abbey The Grand Finale](https://drafthouse.com/los-angeles/show/downton-abbey-the-grand-finale): Thu 9/11 (3:15pm, 6:30pm, 9:45pm), Fri 9/12 (12:15pm, 3:15pm, 6:30pm, 9:45pm), Sat 9/13 (12:15pm, 3:15pm, 9:45pm), Sun 9/14 (12:30pm, 3:15pm, 6:30pm), Mon 9/15 (12:15pm, 3:15pm, 6:30pm, 9:45pm), Tue 9/16 (12:15pm, 3:15pm, 6:30pm, 9:45pm), Wed 9/17 (12:15pm, 3:15pm, 6:30pm, 9:45pm)
+
+    * [Downton Abbey The Grand Finale Fancy Dress Screening](https://drafthouse.com/los-angeles/show/downton-abbey-the-grand-finale-fancy-dress-screening): Sat 9/13 (6:30pm)
+
 ### Mon 8/18 2:19pm
 
 * New screenings: 
