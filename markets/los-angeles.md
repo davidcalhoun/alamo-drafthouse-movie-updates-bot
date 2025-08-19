@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 8/19 2:23pm
+* New movies: POOLS with Live Q&A with Director Sam Hayes
+
+* New screenings: 
+    * [Casino](https://drafthouse.com/los-angeles/show/casino): Tue 9/2 (2:50pm)
+
+    * [Pools With Live Qa With Director Sam Hayes](https://drafthouse.com/los-angeles/show/pools-with-live-qa-with-director-sam-hayes): Mon 9/1 (7:20pm), Tue 9/2 (7:00pm)
+
 ### Tue 8/19 6:32am
 * New movies: Spinal Tap II: The End Continues, Spinal Tap II: The End Continues, This is Spinal Tap
 
