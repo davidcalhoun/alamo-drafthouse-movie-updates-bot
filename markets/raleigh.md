@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Tue 8/19 8:53am
+* New movies: Downton Abbey: The Grand Finale, Downton Abbey: The Grand Finale
+
+* New screenings: 
+    * [Downton Abbey The Grand Finale](https://drafthouse.com/raleigh/show/downton-abbey-the-grand-finale): Thu 9/11 (3:00pm, 6:15pm, 9:25pm), Fri 9/12 (3:00pm, 6:15pm, 9:25pm), Sat 9/13 (3:00pm, 9:25pm), Sun 9/14 (3:00pm, 6:15pm, 9:25pm)
+
+    * [Downton Abbey The Grand Finale Fancy Dress Screening](https://drafthouse.com/raleigh/show/downton-abbey-the-grand-finale-fancy-dress-screening): Sat 9/13 (6:15pm)
+
 ### Mon 8/18 11:31am
 * New movies: The Student Nurses
 
