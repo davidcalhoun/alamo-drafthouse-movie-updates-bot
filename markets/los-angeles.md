@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Tue 8/19 6:32am
+* New movies: Spinal Tap II: The End Continues, Spinal Tap II: The End Continues, This is Spinal Tap
+
+* New screenings: 
+    * [Movie Party Spinal Tap Ii The End Continues](https://drafthouse.com/los-angeles/show/movie-party-spinal-tap-ii-the-end-continues): Thu 9/11 (7:20pm)
+
+    * [Movie Party This Is Spinal Tap](https://drafthouse.com/los-angeles/show/movie-party-this-is-spinal-tap): Tue 9/9 (7:20pm)
+
+    * [Spinal Tap Ii The End Continues](https://drafthouse.com/los-angeles/show/spinal-tap-ii-the-end-continues): Thu 9/11 (4:00pm, 6:40pm, 9:15pm), Fri 9/12 (11:45am, 2:20pm, 5:00pm, 7:40pm, 10:15pm), Sat 9/13 (11:45am, 2:20pm, 5:00pm, 7:40pm, 10:15pm), Sun 9/14 (11:45am, 2:20pm, 5:00pm, 7:40pm), Mon 9/15 (11:45am, 2:20pm, 5:00pm, 7:40pm, 10:15pm), Tue 9/16 (11:45am, 2:20pm, 5:00pm, 7:40pm, 10:15pm), Wed 9/17 (11:45am, 2:20pm, 5:00pm, 7:40pm, 10:15pm)
+
 ### Tue 8/19 5:46am
 * New movies: Downton Abbey: The Grand Finale, Downton Abbey: The Grand Finale
 
