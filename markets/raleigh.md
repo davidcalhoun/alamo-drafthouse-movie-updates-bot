@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 8/20 11:28am
+* New movies: Re-Animator
+
+* New screenings: 
+    * [Re Animator](https://drafthouse.com/raleigh/show/re-animator): Mon 9/29 (9:15pm)
+
 ### Wed 8/20 9:35am
 * New movies: Splitsville
 
