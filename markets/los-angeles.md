@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 8/20 6:32am
+* New movies: Splitsville
+
+* New screenings: 
+    * [Splitsville](https://drafthouse.com/los-angeles/show/splitsville): Thu 8/28 (7:00pm, 10:00pm), Fri 8/29 (12:30pm, 3:30pm, 6:30pm, 9:25pm), Sat 8/30 (12:30pm, 3:30pm, 6:30pm, 9:25pm), Sun 8/31 (12:30pm, 3:30pm, 6:30pm), Mon 9/1 (12:30pm, 3:30pm, 6:30pm, 9:25pm), Tue 9/2 (12:30pm, 3:30pm, 6:30pm, 9:25pm), Wed 9/3 (12:30pm, 3:30pm, 6:30pm, 9:25pm)
+
 ### Tue 8/19 6:49pm
 * New movies: Pools
 
