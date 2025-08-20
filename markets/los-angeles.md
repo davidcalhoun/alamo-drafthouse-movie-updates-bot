@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 8/20 8:24am
+* New movies: Re-Animator
+
+* New screenings: 
+    * [Re Animator](https://drafthouse.com/los-angeles/show/re-animator): Fri 9/26 (10:15pm)
+
 ### Wed 8/20 6:32am
 * New movies: Splitsville
 
