@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 8/19 6:49pm
+* New movies: Pools
+
+
+
 ### Tue 8/19 2:23pm
 * New movies: POOLS with Live Q&A with Director Sam Hayes
 
