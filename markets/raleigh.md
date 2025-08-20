@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 8/20 12:32pm
+* New movies: The Conjuring: Last Rites
+
+* New screenings: 
+    * [The Conjuring Last Rites](https://drafthouse.com/raleigh/show/the-conjuring-last-rites): Thu 9/4 (7:00pm), Fri 9/5 (7:00pm), Sat 9/6 (7:00pm), Sun 9/7 (7:00pm)
+
 ### Wed 8/20 11:28am
 * New movies: Re-Animator
 
