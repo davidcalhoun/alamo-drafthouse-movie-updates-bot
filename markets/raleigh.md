@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 8/20 9:35am
+* New movies: Splitsville
+
+* New screenings: 
+    * [Splitsville](https://drafthouse.com/raleigh/show/splitsville): Thu 9/4 (7:00pm), Fri 9/5 (6:15pm), Sat 9/6 (6:15pm), Sun 9/7 (6:15pm)
+
 ### Tue 8/19 9:35am
 * New movies: KPop Demon Hunters, Spinal Tap II: The End Continues, 13 Assassins, Harry Potter and the Prisoner of Azkaban, Spinal Tap II: The End Continues, This is Spinal Tap, How To Train Your Dragon 2025
 
