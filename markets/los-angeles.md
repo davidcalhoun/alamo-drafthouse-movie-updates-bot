@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 8/20 6:48pm
+
+* New screenings: 
+    * [Jeopardy Interactive](https://drafthouse.com/los-angeles/show/jeopardy-interactive): Wed 9/24 (7:00pm)
+
 ### Wed 8/20 9:27am
 * New movies: The Conjuring: Last Rites
 
