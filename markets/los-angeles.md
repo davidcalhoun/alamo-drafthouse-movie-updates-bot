@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 8/21 4:19am
+* New movies: Preparation for the Next Life, Preparation for the Next Life
+
+* New screenings: 
+    * [Free Victory Screening Preparation For The Next Life](https://drafthouse.com/los-angeles/show/free-victory-screening-preparation-for-the-next-life): Wed 9/3 (7:30pm)
+
+    * [Preparation For The Next Life](https://drafthouse.com/los-angeles/show/preparation-for-the-next-life): Thu 9/4 (7:10pm, 10:20pm), Fri 9/5 (12:50pm, 4:00pm, 7:10pm, 10:20pm), Sat 9/6 (12:50pm, 4:00pm, 7:10pm, 10:20pm), Sun 9/7 (12:50pm, 4:00pm, 7:10pm), Mon 9/8 (12:50pm, 4:00pm, 7:10pm, 10:20pm), Tue 9/9 (12:50pm, 4:00pm, 7:10pm, 10:20pm), Wed 9/10 (12:50pm, 4:00pm, 7:10pm, 10:20pm)
+
 ### Wed 8/20 6:48pm
 
 * New screenings: 
