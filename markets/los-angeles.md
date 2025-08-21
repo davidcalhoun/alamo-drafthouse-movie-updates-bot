@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 8/21 6:32am
+* New movies: A Big Bold Beautiful Journey
+
+* New screenings: 
+    * [A Big Bold Beautiful Journey](https://drafthouse.com/los-angeles/show/a-big-bold-beautiful-journey): Thu 9/18 (4:00pm, 7:00pm, 10:00pm), Fri 9/19 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Sat 9/20 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Sun 9/21 (12:45pm, 3:45pm, 6:45pm), Mon 9/22 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Tue 9/23 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Wed 9/24 (12:45pm, 3:45pm, 6:45pm, 9:45pm)
+
 ### Thu 8/21 4:19am
 * New movies: Preparation for the Next Life, Preparation for the Next Life
 
