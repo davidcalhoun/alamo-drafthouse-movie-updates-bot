@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Thu 8/21 7:22am
+* New movies: Preparation for the Next Life, Preparation for the Next Life
+
+* New screenings: 
+    * [Free Victory Screening Preparation For The Next Life](https://drafthouse.com/raleigh/show/free-victory-screening-preparation-for-the-next-life): Wed 9/3 (7:00pm)
+
+    * [Preparation For The Next Life](https://drafthouse.com/raleigh/show/preparation-for-the-next-life): Thu 9/4 (7:15pm), Fri 9/5 (7:45pm), Sun 9/7 (7:45pm)
+
 ### Wed 8/20 12:32pm
 * New movies: The Conjuring: Last Rites
 
