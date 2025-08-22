@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 8/22 7:21am
+* New movies: Mystery Machine 9/22/2025
+
+* New screenings: 
+    * [Mystery Machine 9 22 2025](https://drafthouse.com/los-angeles/show/mystery-machine-9-22-2025): Mon 9/22 (7:00pm)
+
 ### Thu 8/21 6:32am
 * New movies: A Big Bold Beautiful Journey
 
