@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 8/25 9:36am
+* New movies: Bring It On
+
+* New screenings: 
+    * [Special Event Bring It On 25th Anniversary](https://drafthouse.com/raleigh/show/special-event-bring-it-on-25th-anniversary): Fri 9/19 (6:30pm), Tue 9/23 (6:30pm), Wed 9/24 (4:00pm)
+
 ### Thu 8/21 7:22am
 * New movies: Preparation for the Next Life, Preparation for the Next Life
 
