@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 8/25 9:28am
+* New movies: Frailty
+
+* New screenings: 
+    * [Frailty](https://drafthouse.com/los-angeles/show/frailty): Tue 8/26 (10:20pm)
+
 ### Mon 8/25 6:32am
 * New movies: Bring It On
 
