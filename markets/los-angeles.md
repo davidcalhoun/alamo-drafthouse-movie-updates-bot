@@ -1,6 +1,44 @@
 # los-angeles
 
 ## Movie updates
+### Mon 8/25 4:20pm
+* New movies: The Toxic Avenger Unrated 2025
+
+* New screenings: 
+    * [A Nightmare On Elm Street](https://drafthouse.com/los-angeles/show/a-nightmare-on-elm-street): Mon 9/1 (11:00am), Tue 9/2 (10:35pm), Wed 9/3 (10:25pm)
+
+    * [Casino](https://drafthouse.com/los-angeles/show/casino): Fri 8/29 (3:10pm), Sat 8/30 (12:15pm), Mon 9/1 (11:15am), Tue 9/2 (11:40am), Wed 9/3 (3:10pm)
+
+    * [Caught Stealing](https://drafthouse.com/los-angeles/show/caught-stealing): Sun 8/31 (10:40pm)
+
+    * [Freakier Friday](https://drafthouse.com/los-angeles/show/freakier-friday): Fri 8/29 (12:10pm, 3:15pm, 6:20pm, 9:20pm), Sat 8/30 (12:10pm, 3:15pm, 6:20pm, 9:20pm), Sun 8/31 (12:10pm, 3:15pm, 6:20pm, 9:20pm), Mon 9/1 (12:00pm, 3:05pm, 6:10pm, 9:10pm), Tue 9/2 (12:10pm, 3:15pm, 6:20pm, 9:20pm), Wed 9/3 (12:10pm, 3:15pm, 6:20pm, 9:20pm)
+
+    * [Guest Selects After Hours](https://drafthouse.com/los-angeles/show/guest-selects-after-hours): Mon 9/1 (9:45pm)
+
+    * [Harry Potter And The Order Of The Phoenix](https://drafthouse.com/los-angeles/show/harry-potter-and-the-order-of-the-phoenix): Fri 8/29 (2:25pm), Tue 9/2 (3:50pm), Wed 9/3 (3:50pm)
+
+    * [Highest 2 Lowest](https://drafthouse.com/los-angeles/show/highest-2-lowest): Fri 8/29 (11:20am, 2:45pm, 6:10pm, 9:35pm), Sat 8/30 (11:20am, 2:45pm, 6:10pm, 9:35pm), Sun 8/31 (2:45pm, 6:10pm, 9:35pm), Mon 9/1 (11:00am, 6:00pm, 9:25pm), Tue 9/2 (2:35pm, 6:00pm, 9:25pm), Wed 9/3 (11:10am, 2:35pm, 6:00pm, 9:25pm)
+
+    * [Honey Dont](https://drafthouse.com/los-angeles/show/honey-dont): Fri 8/29 (12:00pm, 2:40pm, 5:20pm, 8:00pm, 10:40pm), Sat 8/30 (12:00pm, 2:40pm, 5:20pm, 8:00pm, 10:40pm), Sun 8/31 (12:00pm, 2:40pm, 5:20pm, 8:00pm, 10:55pm), Mon 9/1 (12:00pm, 2:40pm, 5:20pm, 8:00pm, 10:40pm), Tue 9/2 (12:00pm, 2:40pm, 5:20pm, 7:10pm, 10:35pm), Wed 9/3 (12:00pm, 2:40pm, 5:20pm, 8:00pm, 10:40pm)
+
+    * [Jaws 50th Anniversary](https://drafthouse.com/los-angeles/show/jaws-50th-anniversary): Fri 8/29 (11:10am, 12:40pm, 4:00pm, 7:20pm), Sat 8/30 (12:40pm, 4:00pm), Sun 8/31 (12:40pm, 4:00pm, 7:00pm, 10:15pm), Mon 9/1 (12:40pm, 4:00pm, 10:25pm), Tue 9/2 (12:40pm, 4:00pm, 10:10pm), Wed 9/3 (11:45am, 12:40pm, 4:00pm, 10:00pm)
+
+    * [Lurker](https://drafthouse.com/los-angeles/show/lurker): Sun 8/31 (10:20pm)
+
+    * [Ne Zha Ii Dubbed](https://drafthouse.com/los-angeles/show/ne-zha-ii-dubbed): Sun 8/31 (11:10am), Mon 9/1 (2:25pm), Tue 9/2 (11:00am)
+
+    * [Ran 1985](https://drafthouse.com/los-angeles/show/ran-1985): Fri 8/29 (11:20am), Sun 8/31 (9:15pm), Mon 9/1 (3:25pm), Wed 9/3 (12:00pm)
+
+    * [Splitsville](https://drafthouse.com/los-angeles/show/splitsville): Sun 8/31 (9:25pm)
+
+    * [The Naked Gun 2025](https://drafthouse.com/los-angeles/show/the-naked-gun-2025): Fri 8/29 (11:00am, 1:35pm, 4:10pm, 6:50pm, 9:25pm), Sat 8/30 (11:00am, 1:35pm, 4:10pm, 6:50pm, 9:25pm), Sun 8/31 (11:00am, 1:40pm, 4:15pm, 6:50pm, 9:25pm), Mon 9/1 (11:10am, 1:40pm, 4:15pm, 6:50pm, 9:25pm), Tue 9/2 (11:10am, 1:40pm, 4:15pm, 6:50pm, 9:25pm), Wed 9/3 (11:00am, 1:35pm, 4:10pm, 6:50pm, 9:25pm)
+
+    * [The Roses](https://drafthouse.com/los-angeles/show/the-roses): Sun 8/31 (10:30pm)
+
+    * [The Toxic Avenger Unrated 2025](https://drafthouse.com/los-angeles/show/the-toxic-avenger-unrated-2025): Fri 8/29 (7:10pm, 10:00pm), Sat 8/30 (7:10pm, 10:00pm), Sun 8/31 (7:20pm, 10:10pm), Mon 9/1 (7:10pm, 10:00pm), Tue 9/2 (9:50pm), Wed 9/3 (7:10pm, 10:00pm)
+
+    * [Weapons](https://drafthouse.com/los-angeles/show/weapons): Fri 8/29 (12:20pm, 3:40pm, 7:00pm, 10:20pm), Sat 8/30 (12:20pm, 3:40pm, 7:00pm, 10:20pm), Sun 8/31 (12:30pm, 3:50pm, 7:10pm, 9:40pm), Mon 9/1 (12:20pm, 3:40pm, 7:00pm, 10:20pm), Tue 9/2 (11:30am, 2:50pm, 6:10pm, 9:35pm), Wed 9/3 (11:30am, 2:50pm, 6:10pm, 9:35pm)
+
 ### Mon 8/25 9:28am
 * New movies: Frailty
 
