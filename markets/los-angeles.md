@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 8/25 6:32am
+* New movies: Bring It On
+
+* New screenings: 
+    * [Special Event Bring It On 25th Anniversary](https://drafthouse.com/los-angeles/show/special-event-bring-it-on-25th-anniversary): Fri 9/19 (3:35pm), Sat 9/20 (6:30pm), Tue 9/23 (6:00pm)
+
 ### Mon 8/25 1:32am
 * New movies: Shin Godzilla
 
