@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 8/25 1:32am
+* New movies: Shin Godzilla
+
+* New screenings: 
+    * [Special Event Shin Godzilla Orthochromatic](https://drafthouse.com/los-angeles/show/special-event-shin-godzilla-orthochromatic): Sun 8/31 (12:15pm)
+
 ### Fri 8/22 7:21am
 * New movies: Mystery Machine 9/22/2025
 
