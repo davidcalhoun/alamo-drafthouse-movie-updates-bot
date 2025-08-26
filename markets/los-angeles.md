@@ -1,6 +1,35 @@
 # los-angeles
 
 ## Movie updates
+### Mon 8/25 6:49pm
+
+* New screenings: 
+    * [Caught Stealing](https://drafthouse.com/los-angeles/show/caught-stealing): Thu 8/28 (7:10pm)
+
+    * [Clue](https://drafthouse.com/los-angeles/show/clue): Thu 8/28 (11:10am)
+
+    * [Freakier Friday](https://drafthouse.com/los-angeles/show/freakier-friday): Thu 8/28 (12:20pm, 3:20pm, 6:20pm, 9:20pm)
+
+    * [Highest 2 Lowest](https://drafthouse.com/los-angeles/show/highest-2-lowest): Thu 8/28 (1:15pm, 2:45pm, 6:10pm, 9:35pm)
+
+    * [Honey Dont](https://drafthouse.com/los-angeles/show/honey-dont): Thu 8/28 (12:00pm, 2:40pm, 5:20pm, 8:00pm, 10:40pm)
+
+    * [Its Never Over Jeff Buckley](https://drafthouse.com/los-angeles/show/its-never-over-jeff-buckley): Thu 8/28 (1:50pm)
+
+    * [Jaws 50th Anniversary](https://drafthouse.com/los-angeles/show/jaws-50th-anniversary): Thu 8/28 (5:15pm, 8:30pm, 9:25pm, 10:10pm)
+
+    * [Ne Zha Ii Dubbed](https://drafthouse.com/los-angeles/show/ne-zha-ii-dubbed): Thu 8/28 (12:00pm, 3:35pm)
+
+    * [Nobody 2](https://drafthouse.com/los-angeles/show/nobody-2): Thu 8/28 (12:10pm)
+
+    * [Shin Godzilla 4k](https://drafthouse.com/los-angeles/show/shin-godzilla-4k): Thu 8/28 (12:30pm, 3:45pm)
+
+    * [The Fantastic Four First Steps](https://drafthouse.com/los-angeles/show/the-fantastic-four-first-steps): Thu 8/28 (12:40pm)
+
+    * [The Naked Gun 2025](https://drafthouse.com/los-angeles/show/the-naked-gun-2025): Thu 8/28 (11:10am, 1:45pm, 4:15pm, 6:50pm, 10:35pm)
+
+    * [Weapons](https://drafthouse.com/los-angeles/show/weapons): Thu 8/28 (11:20am, 1:25pm, 2:40pm, 6:00pm, 9:20pm)
+
 ### Mon 8/25 4:20pm
 * New movies: The Toxic Avenger Unrated 2025
 
