@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 8/26 2:36pm
+
+* New screenings: 
+    * [The Fantastic Four First Steps](https://drafthouse.com/raleigh/show/the-fantastic-four-first-steps): Fri 8/29 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Sat 8/30 (1:15pm, 4:15pm, 7:15pm, 10:15pm)
+
 ### Mon 8/25 10:04pm
 * New movies: The Roses, The Toxic Avenger Unrated 2025, Lilo & Stitch 2025, The Fantastic Four: First Steps Spanish Dubbed, Shin Godzilla
 
