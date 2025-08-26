@@ -1,6 +1,58 @@
 # raleigh
 
 ## Movie updates
+### Mon 8/25 10:04pm
+* New movies: The Roses, The Toxic Avenger Unrated 2025, Lilo & Stitch 2025, The Fantastic Four: First Steps Spanish Dubbed, Shin Godzilla
+
+* New screenings: 
+    * [A Nightmare On Elm Street](https://drafthouse.com/raleigh/show/a-nightmare-on-elm-street): Fri 8/29 (2:00pm, 7:00pm), Sat 8/30 (9:15pm), Sun 8/31 (9:00pm), Tue 9/2 (3:45pm)
+
+    * [Casino](https://drafthouse.com/raleigh/show/casino): Sun 8/31 (12:00pm), Mon 9/1 (8:15pm), Tue 9/2 (8:00pm)
+
+    * [Caught Stealing](https://drafthouse.com/raleigh/show/caught-stealing): Thu 8/28 (4:00pm, 5:00pm, 8:00pm, 10:00pm), Fri 8/29 (1:00pm, 4:00pm, 5:30pm, 10:00pm), Sat 8/30 (1:15pm, 4:05pm, 10:00pm), Sun 8/31 (1:15pm, 4:00pm, 10:00pm), Mon 9/1 (12:30pm, 1:30pm, 3:30pm, 4:30pm, 6:30pm, 7:30pm, 10:30pm), Tue 9/2 (12:15pm, 1:15pm, 3:15pm, 4:15pm, 6:15pm, 7:15pm, 10:15pm), Wed 9/3 (1:00pm, 4:00pm, 5:30pm, 6:30pm, 10:00pm)
+
+    * [Freakier Friday](https://drafthouse.com/raleigh/show/freakier-friday): Thu 8/28 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Fri 8/29 (12:30pm, 3:20pm, 6:15pm, 9:15pm), Sat 8/30 (12:30pm, 3:20pm, 6:15pm, 9:30pm), Sun 8/31 (12:30pm, 3:20pm, 6:15pm, 9:15pm), Mon 9/1 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Tue 9/2 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Wed 9/3 (12:30pm, 3:20pm, 6:15pm, 9:15pm)
+
+    * [Harry Potter And The Order Of The Phoenix](https://drafthouse.com/raleigh/show/harry-potter-and-the-order-of-the-phoenix): Sat 8/30 (1:45pm), Wed 9/3 (4:30pm)
+
+    * [Highest 2 Lowest](https://drafthouse.com/raleigh/show/highest-2-lowest): Thu 8/28 (8:15pm), Fri 8/29 (1:30pm), Sat 8/30 (4:00pm), Sun 8/31 (8:00pm)
+
+    * [Honey Dont](https://drafthouse.com/raleigh/show/honey-dont): Thu 8/28 (2:15pm, 4:45pm, 7:30pm, 10:15pm), Fri 8/29 (2:00pm, 4:30pm, 7:15pm, 10:15pm), Sat 8/30 (12:15pm, 2:45pm, 5:15pm, 7:45pm, 10:15pm), Sun 8/31 (12:15pm, 2:45pm, 5:15pm, 7:45pm, 10:15pm), Mon 9/1 (2:00pm, 4:30pm, 7:15pm, 10:15pm), Tue 9/2 (1:45pm, 4:30pm, 7:00pm, 9:45pm), Wed 9/3 (2:00pm, 4:30pm, 7:15pm, 10:15pm)
+
+    * [Jaws 50th Anniversary](https://drafthouse.com/raleigh/show/jaws-50th-anniversary): Fri 8/29 (12:00pm, 3:15pm, 4:45pm, 8:30pm), Sat 8/30 (11:30am, 2:35pm, 6:00pm), Sun 8/31 (11:15am, 2:30pm, 6:00pm), Mon 9/1 (2:30pm, 5:00pm), Tue 9/2 (4:45pm), Wed 9/3 (12:00pm, 3:15pm, 8:00pm)
+
+    * [Lilo And Stitch 2025](https://drafthouse.com/raleigh/show/lilo-and-stitch-2025): Fri 8/29 (1:00pm, 4:00pm), Sat 8/30 (1:00pm), Sun 8/31 (1:45pm), Mon 9/1 (1:00pm, 4:00pm), Tue 9/2 (12:30pm, 3:45pm), Wed 9/3 (1:00pm, 4:00pm)
+
+    * [Ne Zha Ii Dubbed](https://drafthouse.com/raleigh/show/ne-zha-ii-dubbed): Thu 8/28 (1:00pm, 4:30pm), Sat 8/30 (2:35pm), Sun 8/31 (2:35pm), Mon 9/1 (1:15pm), Tue 9/2 (1:00pm), Wed 9/3 (1:30pm)
+
+    * [Nobody 2](https://drafthouse.com/raleigh/show/nobody-2): Thu 8/28 (1:45pm, 4:15pm, 7:00pm, 9:45pm), Fri 8/29 (12:30pm, 3:00pm), Sat 8/30 (11:45am), Sun 8/31 (9:15pm), Mon 9/1 (7:00pm, 9:30pm), Tue 9/2 (6:45pm, 9:15pm), Wed 9/3 (7:00pm, 9:30pm)
+
+    * [Preparation For The Next Life](https://drafthouse.com/raleigh/show/preparation-for-the-next-life): Thu 9/4 (10:15pm)
+
+    * [Ran 1985](https://drafthouse.com/raleigh/show/ran-1985): Fri 8/29 (8:00pm), Sat 8/30 (6:00pm), Wed 9/3 (12:45pm)
+
+    * [Shin Godzilla 4k](https://drafthouse.com/raleigh/show/shin-godzilla-4k): Thu 8/28 (12:45pm)
+
+    * [Special Event Shin Godzilla Orthochromatic](https://drafthouse.com/raleigh/show/special-event-shin-godzilla-orthochromatic): Sun 8/31 (6:00pm)
+
+    * [Superman 2025](https://drafthouse.com/raleigh/show/superman-2025): Thu 8/28 (12:00pm)
+
+    * [The Bad Guys 2](https://drafthouse.com/raleigh/show/the-bad-guys-2): Thu 8/28 (12:15pm)
+
+    * [The Conjuring Last Rites](https://drafthouse.com/raleigh/show/the-conjuring-last-rites): Thu 9/4 (3:30pm, 10:30pm)
+
+    * [The Fantastic Four First Steps](https://drafthouse.com/raleigh/show/the-fantastic-four-first-steps): Thu 8/28 (12:00pm, 3:00pm, 6:00pm, 9:15pm)
+
+    * [The Fantastic Four First Steps Spanish Dubbed](https://drafthouse.com/raleigh/show/the-fantastic-four-first-steps-spanish-dubbed): Fri 8/29 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Sat 8/30 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Sun 8/31 (1:00pm, 4:00pm, 7:15pm, 10:15pm), Mon 9/1 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Tue 9/2 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Wed 9/3 (1:15pm, 4:15pm, 7:15pm, 10:15pm)
+
+    * [The Naked Gun 2025](https://drafthouse.com/raleigh/show/the-naked-gun-2025): Thu 8/28 (2:00pm, 4:45pm, 7:30pm, 10:15pm), Fri 8/29 (4:45pm, 7:45pm, 10:30pm), Sat 8/30 (5:15pm, 8:00pm, 10:45pm), Sun 8/31 (4:15pm, 7:00pm, 9:30pm), Mon 9/1 (2:00pm, 4:45pm, 7:45pm, 10:30pm), Tue 9/2 (1:45pm, 4:30pm, 7:30pm, 10:15pm), Wed 9/3 (1:45pm, 4:45pm, 7:45pm, 10:30pm)
+
+    * [The Roses](https://drafthouse.com/raleigh/show/the-roses): Thu 8/28 (3:10pm, 6:00pm, 9:00pm), Fri 8/29 (12:15pm, 3:30pm, 6:15pm, 9:15pm), Sat 8/30 (12:45pm, 3:30pm, 6:15pm, 9:15pm), Sun 8/31 (11:45am, 12:45pm, 3:30pm, 6:15pm, 9:05pm), Mon 9/1 (12:30pm, 3:30pm, 6:15pm, 9:15pm), Tue 9/2 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Wed 9/3 (12:30pm, 3:30pm, 6:15pm, 9:15pm)
+
+    * [The Toxic Avenger Unrated 2025](https://drafthouse.com/raleigh/show/the-toxic-avenger-unrated-2025): Thu 8/28 (9:45pm), Fri 8/29 (9:45pm), Sat 8/30 (10:00pm, 10:30pm), Sun 8/31 (9:45pm), Mon 9/1 (9:30pm), Tue 9/2 (9:15pm), Wed 9/3 (8:30pm)
+
+    * [Weapons](https://drafthouse.com/raleigh/show/weapons): Thu 8/28 (12:45pm, 1:30pm, 4:00pm, 7:15pm, 10:30pm), Fri 8/29 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Sat 8/30 (12:00pm, 3:15pm, 6:30pm, 7:30pm, 9:45pm), Sun 8/31 (12:15pm, 3:30pm, 4:45pm, 6:45pm, 10:00pm), Mon 9/1 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Tue 9/2 (12:00pm, 12:30pm, 3:15pm, 6:30pm, 9:45pm), Wed 9/3 (12:15pm, 3:30pm, 6:45pm, 10:00pm)
+
 ### Mon 8/25 9:36am
 * New movies: Bring It On
 
