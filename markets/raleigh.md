@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 8/27 4:28pm
+* New movies: Day of the Dead 1985
+
+* New screenings: 
+    * [Special Event Day Of The Dead 1985 40th Anniversary](https://drafthouse.com/raleigh/show/special-event-day-of-the-dead-1985-40th-anniversary): Mon 10/27 (6:30pm)
+
 ### Wed 8/27 3:20pm
 * New movies: The Mummy 1999
 
