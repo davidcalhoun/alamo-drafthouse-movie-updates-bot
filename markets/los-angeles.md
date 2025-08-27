@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Tue 8/26 6:46pm
+* New movies: Predators 2025, The Mummy 1999, Day of the Dead 1985
+
+* New screenings: 
+    * [Live Q A Predators 2025](https://drafthouse.com/los-angeles/show/live-q-a-predators-2025): Thu 9/25 (7:00pm), Fri 9/26 (6:00pm)
+
+    * [Movie Party The Mummy 1999](https://drafthouse.com/los-angeles/show/movie-party-the-mummy-1999): Mon 10/13 (6:45pm, 7:20pm)
+
+    * [Special Event Day Of The Dead 1985 40th Anniversary](https://drafthouse.com/los-angeles/show/special-event-day-of-the-dead-1985-40th-anniversary): Tue 10/28 (7:20pm)
+
 ### Mon 8/25 6:49pm
 
 * New screenings: 
