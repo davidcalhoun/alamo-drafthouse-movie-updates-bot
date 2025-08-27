@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 8/27 3:20pm
+* New movies: The Mummy 1999
+
+* New screenings: 
+    * [Movie Party The Mummy 1999](https://drafthouse.com/raleigh/show/movie-party-the-mummy-1999): Mon 10/13 (6:30pm)
+
 ### Wed 8/27 2:34pm
 * New movies: The Long Walk 2025
 
