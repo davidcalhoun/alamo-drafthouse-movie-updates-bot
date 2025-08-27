@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 8/27 12:17pm
+* New movies: The Long Walk 2025
+
+* New screenings: 
+    * [The Long Walk 2025](https://drafthouse.com/los-angeles/show/the-long-walk-2025): Thu 9/11 (7:10pm, 10:10pm), Fri 9/12 (1:10pm, 4:10pm, 7:10pm, 10:10pm), Sat 9/13 (1:10pm, 4:10pm, 7:10pm, 10:10pm), Sun 9/14 (11:00am, 2:00pm, 5:00pm, 8:00pm), Mon 9/15 (1:10pm, 4:10pm, 7:10pm, 10:10pm), Tue 9/16 (1:10pm, 4:10pm, 7:10pm, 10:10pm), Wed 9/17 (12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
 ### Tue 8/26 6:46pm
 * New movies: Predators 2025, The Mummy 1999, Day of the Dead 1985
 
