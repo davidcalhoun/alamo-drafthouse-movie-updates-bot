@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 8/27 2:34pm
+* New movies: The Long Walk 2025
+
+* New screenings: 
+    * [The Long Walk 2025](https://drafthouse.com/raleigh/show/the-long-walk-2025): Thu 9/11 (7:15pm), Fri 9/12 (7:30pm), Sat 9/13 (7:30pm), Sun 9/14 (7:30pm)
+
 ### Tue 8/26 3:19pm
 
 * New screenings: 
