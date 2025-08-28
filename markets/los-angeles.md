@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 8/28 6:30am
+* New movies: Twinless, Twinless
+
+* New screenings: 
+    * [Free Victory Screening Twinless](https://drafthouse.com/los-angeles/show/free-victory-screening-twinless): Tue 9/2 (8:00pm)
+
+    * [Twinless](https://drafthouse.com/los-angeles/show/twinless): Thu 9/4 (5:00pm, 7:50pm, 10:40pm), Fri 9/5 (11:20am, 2:10pm, 5:00pm, 7:50pm, 10:40pm), Sat 9/6 (11:20am, 2:10pm, 5:00pm, 7:50pm, 10:40pm), Sun 9/7 (11:20am, 2:10pm, 5:00pm, 7:50pm), Mon 9/8 (11:20am, 2:10pm, 5:00pm, 7:50pm, 10:40pm), Tue 9/9 (11:20am, 2:10pm, 5:00pm, 7:50pm, 10:40pm), Wed 9/10 (11:20am, 2:10pm, 5:00pm, 7:50pm, 10:40pm)
+
 ### Thu 8/28 5:45am
 * New movies: Back to the Future: 40th Anniversary
 
