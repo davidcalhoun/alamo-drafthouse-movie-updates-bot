@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 8/28 8:53am
+* New movies: Back to the Future: 40th Anniversary
+
+* New screenings: 
+    * [Back To The Future 40th Anniversary](https://drafthouse.com/raleigh/show/back-to-the-future-40th-anniversary): Fri 10/31 (3:30pm), Sat 11/1 (11:30am), Sun 11/2 (11:30am, 2:30pm)
+
 ### Wed 8/27 4:28pm
 * New movies: Day of the Dead 1985
 
