@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 8/28 5:45am
+* New movies: Back to the Future: 40th Anniversary
+
+* New screenings: 
+    * [Back To The Future 40th Anniversary](https://drafthouse.com/los-angeles/show/back-to-the-future-40th-anniversary): Fri 10/31 (4:10pm), Sat 11/1 (11:00am), Sun 11/2 (2:50pm)
+
 ### Wed 8/27 12:17pm
 * New movies: The Long Walk 2025
 
