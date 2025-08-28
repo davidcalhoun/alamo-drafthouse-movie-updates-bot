@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Thu 8/28 3:19pm
+* New movies: Back to the Future: 40th Anniversary, Shall We Dance? 1996
+
+* New screenings: 
+    * [Megadoc](https://drafthouse.com/los-angeles/show/megadoc): Sun 9/21 (7:30pm)
+
+    * [Movie Party Back To The Future 40th Anniversary](https://drafthouse.com/los-angeles/show/movie-party-back-to-the-future-40th-anniversary): Sat 11/1 (2:10pm), Sun 11/2 (5:00pm)
+
+    * [Shall We Dance 1996](https://drafthouse.com/los-angeles/show/shall-we-dance-1996): Sun 9/14 (11:30am), Wed 9/17 (3:50pm)
+
 ### Thu 8/28 6:30am
 * New movies: Twinless, Twinless
 
