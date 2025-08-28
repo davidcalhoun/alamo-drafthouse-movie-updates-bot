@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 8/28 9:33am
+* New movies: Twinless
+
+* New screenings: 
+    * [Free Victory Screening Twinless](https://drafthouse.com/raleigh/show/free-victory-screening-twinless): Tue 9/2 (7:15pm)
+
 ### Thu 8/28 8:53am
 * New movies: Back to the Future: 40th Anniversary
 
