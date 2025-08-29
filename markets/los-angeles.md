@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 8/29 3:19pm
+
+* New screenings: 
+    * [The Conjuring Last Rites](https://drafthouse.com/los-angeles/show/the-conjuring-last-rites): Thu 9/4 (6:00pm, 9:30pm), Fri 9/5 (5:45pm), Sat 9/6 (5:45pm)
+
 ### Thu 8/28 3:19pm
 * New movies: Back to the Future: 40th Anniversary, Shall We Dance? 1996
 
