@@ -1,6 +1,60 @@
 # raleigh
 
 ## Movie updates
+### Tue 9/2 6:22pm
+* New movies: Highest 2 Lowest, After Hours
+
+* New screenings: 
+    * [A Nightmare On Elm Street](https://drafthouse.com/raleigh/show/a-nightmare-on-elm-street): Thu 9/4 (1:45pm)
+
+    * [A Nightmare On Elm Street 2 Freddys Revenge](https://drafthouse.com/raleigh/show/a-nightmare-on-elm-street-2-freddys-revenge): Fri 9/5 (10:45pm)
+
+    * [Caught Stealing](https://drafthouse.com/raleigh/show/caught-stealing): Thu 9/4 (12:45pm, 3:15pm, 6:15pm, 9:15pm), Fri 9/5 (1:45pm, 4:45pm, 7:45pm, 10:45pm), Sat 9/6 (12:30pm, 3:00pm, 6:15pm, 9:15pm), Sun 9/7 (12:30pm, 3:30pm, 6:45pm, 9:45pm), Mon 9/8 (1:45pm, 4:40pm, 7:30pm, 10:30pm), Tue 9/9 (1:30pm, 4:30pm, 7:45pm, 10:35pm), Wed 9/10 (12:15pm, 3:15pm, 6:30pm)
+
+    * [Freakier Friday](https://drafthouse.com/raleigh/show/freakier-friday): Thu 9/4 (11:30am, 2:30pm, 6:00pm, 9:00pm), Fri 9/5 (11:45am, 2:45pm, 6:00pm, 9:00pm), Sat 9/6 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Sun 9/7 (11:30am, 2:30pm, 6:00pm, 9:00pm), Mon 9/8 (11:45am, 2:45pm, 6:00pm, 9:00pm), Tue 9/9 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Wed 9/10 (11:45am, 2:45pm, 6:00pm, 9:00pm)
+
+    * [Guest Selects After Hours](https://drafthouse.com/raleigh/show/guest-selects-after-hours): Thu 9/4 (4:30pm)
+
+    * [Harry Potter And The Half Blood Prince](https://drafthouse.com/raleigh/show/harry-potter-and-the-half-blood-prince): Mon 9/8 (11:30am), Tue 9/9 (12:45pm)
+
+    * [Harry Potter And The Order Of The Phoenix](https://drafthouse.com/raleigh/show/harry-potter-and-the-order-of-the-phoenix): Thu 9/4 (3:45pm)
+
+    * [Highest 2 Lowest](https://drafthouse.com/raleigh/show/highest-2-lowest): Thu 9/4 (2:15pm), Fri 9/5 (1:30pm), Sat 9/6 (11:45am), Sun 9/7 (12:30pm), Mon 9/8 (12:15pm), Tue 9/9 (11:45am), Wed 9/10 (12:30pm)
+
+    * [Honey Dont](https://drafthouse.com/raleigh/show/honey-dont): Thu 9/4 (10:00pm), Fri 9/5 (9:50pm), Sun 9/7 (10:00pm), Mon 9/8 (9:50pm), Tue 9/9 (9:50pm), Wed 9/10 (4:30pm, 10:30pm)
+
+    * [Jaws 50th Anniversary](https://drafthouse.com/raleigh/show/jaws-50th-anniversary): Thu 9/4 (11:00am), Fri 9/5 (3:00pm), Sat 9/6 (1:00pm), Sun 9/7 (3:00pm), Tue 9/9 (3:05pm), Wed 9/10 (1:15pm)
+
+    * [Lilo And Stitch 2025](https://drafthouse.com/raleigh/show/lilo-and-stitch-2025): Thu 9/4 (12:45pm, 3:45pm)
+
+    * [Lurker](https://drafthouse.com/raleigh/show/lurker): Mon 9/8 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Tue 9/9 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Wed 9/10 (1:45pm, 4:45pm, 7:30pm, 10:30pm)
+
+    * [Ne Zha Ii Dubbed](https://drafthouse.com/raleigh/show/ne-zha-ii-dubbed): Thu 9/4 (11:45am)
+
+    * [Nightmare On Elm Street 3 Dream Warriors](https://drafthouse.com/raleigh/show/nightmare-on-elm-street-3-dream-warriors): Sun 9/7 (10:00pm), Mon 9/8 (10:00pm), Tue 9/9 (10:30pm), Wed 9/10 (9:45pm)
+
+    * [Preparation For The Next Life](https://drafthouse.com/raleigh/show/preparation-for-the-next-life): Fri 9/5 (4:45pm), Sat 9/6 (3:00pm, 6:30pm), Sun 9/7 (3:45pm, 6:45pm), Mon 9/8 (3:45pm, 6:45pm), Tue 9/9 (4:30pm, 7:30pm), Wed 9/10 (3:45pm, 6:45pm)
+
+    * [Ran 1985](https://drafthouse.com/raleigh/show/ran-1985): Thu 9/4 (11:45am, 12:30pm)
+
+    * [Spinal Tap Ii The End Continues](https://drafthouse.com/raleigh/show/spinal-tap-ii-the-end-continues): Thu 9/11 (3:30pm, 6:00pm, 9:00pm)
+
+    * [Splitsville](https://drafthouse.com/raleigh/show/splitsville): Thu 9/4 (10:00pm), Fri 9/5 (12:15pm, 3:15pm, 9:00pm), Sat 9/6 (12:15pm, 3:15pm, 9:15pm), Sun 9/7 (12:15pm, 3:15pm, 9:00pm), Mon 9/8 (12:30pm, 3:30pm, 6:15pm, 9:00pm), Tue 9/9 (12:00pm, 3:15pm, 6:00pm, 9:00pm), Wed 9/10 (12:15pm, 3:15pm, 6:00pm, 9:00pm)
+
+    * [The Conjuring Last Rites](https://drafthouse.com/raleigh/show/the-conjuring-last-rites): Thu 9/4 (5:30pm), Fri 9/5 (12:00pm, 3:30pm, 5:45pm, 6:30pm, 10:30pm), Sat 9/6 (12:00pm, 3:30pm, 4:30pm, 8:00pm, 10:30pm), Sun 9/7 (12:15pm, 3:45pm, 6:30pm, 8:00pm, 10:15pm), Mon 9/8 (12:15pm, 3:00pm, 3:45pm, 6:30pm, 7:00pm, 10:15pm), Tue 9/9 (11:30am, 2:45pm, 3:00pm, 6:00pm, 6:30pm, 9:15pm), Wed 9/10 (12:30pm, 3:30pm, 4:00pm, 7:00pm, 7:30pm, 10:00pm)
+
+    * [The Fantastic Four First Steps](https://drafthouse.com/raleigh/show/the-fantastic-four-first-steps): Thu 9/4 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Fri 9/5 (12:45pm, 4:00pm, 7:15pm, 10:15pm), Sat 9/6 (1:00pm, 4:15pm, 7:15pm, 10:15pm), Sun 9/7 (1:15pm, 4:15pm, 7:15pm, 10:30pm), Mon 9/8 (1:00pm, 4:15pm, 7:15pm, 10:15pm), Tue 9/9 (1:00pm, 4:15pm, 7:15pm, 10:15pm), Wed 9/10 (12:45pm, 4:15pm, 7:15pm, 10:15pm)
+
+    * [The Long Walk 2025](https://drafthouse.com/raleigh/show/the-long-walk-2025): Thu 9/11 (10:15pm)
+
+    * [The Naked Gun 2025](https://drafthouse.com/raleigh/show/the-naked-gun-2025): Thu 9/4 (7:30pm), Fri 9/5 (12:30pm), Sat 9/6 (3:15pm), Sun 9/7 (12:30pm), Mon 9/8 (12:30pm), Tue 9/9 (12:30pm), Wed 9/10 (1:00pm)
+
+    * [The Roses](https://drafthouse.com/raleigh/show/the-roses): Thu 9/4 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Fri 9/5 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sat 9/6 (1:15pm, 4:30pm, 7:45pm, 10:45pm), Sun 9/7 (12:00pm, 3:15pm, 6:15pm, 9:30pm), Mon 9/8 (12:00pm, 3:00pm, 6:15pm, 9:15pm), Tue 9/9 (12:15pm, 3:20pm, 6:15pm, 9:15pm), Wed 9/10 (12:00pm, 3:00pm, 6:15pm, 9:15pm)
+
+    * [The Toxic Avenger Unrated 2025](https://drafthouse.com/raleigh/show/the-toxic-avenger-unrated-2025): Thu 9/4 (9:00pm), Sat 9/6 (9:45pm), Mon 9/8 (9:15pm), Wed 9/10 (10:45pm)
+
+    * [Weapons](https://drafthouse.com/raleigh/show/weapons): Thu 9/4 (11:30am, 2:45pm, 6:00pm, 9:30pm), Fri 9/5 (11:30am, 2:45pm, 6:00pm, 9:15pm), Sat 9/6 (11:30am, 2:45pm, 6:00pm, 10:00pm), Sun 9/7 (1:30pm, 4:45pm, 6:30pm, 9:45pm), Mon 9/8 (11:15am, 2:45pm, 6:00pm, 9:30pm), Tue 9/9 (12:30pm, 3:45pm, 6:15pm, 10:00pm), Wed 9/10 (11:45am, 3:00pm, 6:30pm, 10:15pm)
+
 ### Tue 9/2 12:32pm
 * New movies: Play Dirty
 
