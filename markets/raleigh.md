@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 9/2 8:54am
+* New movies: Him
+
+* New screenings: 
+    * [Him](https://drafthouse.com/raleigh/show/him): Thu 9/18 (7:00pm), Fri 9/19 (7:00pm), Sat 9/20 (7:00pm), Sun 9/21 (7:00pm)
+
 ### Thu 8/28 9:33am
 * New movies: Twinless
 
