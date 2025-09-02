@@ -1,6 +1,56 @@
 # los-angeles
 
 ## Movie updates
+### Tue 9/2 3:18pm
+* New movies: Love, Brooklyn, Linda Linda Linda
+
+* New screenings: 
+    * [A Nightmare On Elm Street](https://drafthouse.com/los-angeles/show/a-nightmare-on-elm-street): Thu 9/4 (11:15am)
+
+    * [A Nightmare On Elm Street 2 Freddys Revenge](https://drafthouse.com/los-angeles/show/a-nightmare-on-elm-street-2-freddys-revenge): Tue 9/9 (10:40pm), Wed 9/10 (1:30pm)
+
+    * [Casino](https://drafthouse.com/los-angeles/show/casino): Thu 9/4 (12:25pm)
+
+    * [Caught Stealing](https://drafthouse.com/los-angeles/show/caught-stealing): Thu 9/4 (11:10am, 2:05pm, 4:35pm, 7:30pm, 10:25pm), Fri 9/5 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:40pm), Sat 9/6 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:40pm), Sun 9/7 (11:00am, 1:55pm, 4:50pm, 7:45pm), Mon 9/8 (1:00pm, 4:45pm, 7:30pm, 10:25pm), Tue 9/9 (12:00pm, 4:00pm, 7:30pm, 10:30pm), Wed 9/10 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:40pm)
+
+    * [Freakier Friday](https://drafthouse.com/los-angeles/show/freakier-friday): Thu 9/4 (12:10pm, 3:15pm)
+
+    * [Harry Potter And The Half Blood Prince](https://drafthouse.com/los-angeles/show/harry-potter-and-the-half-blood-prince): Sat 9/6 (11:35am), Mon 9/8 (1:00pm), Wed 9/10 (3:45pm)
+
+    * [Highest 2 Lowest](https://drafthouse.com/los-angeles/show/highest-2-lowest): Thu 9/4 (1:10pm, 2:45pm), Fri 9/5 (2:50pm), Sat 9/6 (2:50pm), Sun 9/7 (2:50pm), Mon 9/8 (2:50pm), Tue 9/9 (2:50pm), Wed 9/10 (2:30pm)
+
+    * [Honey Dont](https://drafthouse.com/los-angeles/show/honey-dont): Thu 9/4 (12:00pm, 4:40pm), Fri 9/5 (11:00am), Sat 9/6 (11:00am), Sun 9/7 (12:10pm), Mon 9/8 (12:10pm), Tue 9/9 (12:10pm), Wed 9/10 (11:45am)
+
+    * [Jaws 50th Anniversary](https://drafthouse.com/los-angeles/show/jaws-50th-anniversary): Fri 9/5 (11:10am), Sun 9/7 (12:00pm, 6:50pm), Mon 9/8 (1:15pm, 9:25pm), Wed 9/10 (12:30pm)
+
+    * [Linda Linda Linda](https://drafthouse.com/los-angeles/show/linda-linda-linda): Sat 9/20 (3:25pm), Mon 9/22 (4:15pm)
+
+    * [Love Brooklyn](https://drafthouse.com/los-angeles/show/love-brooklyn): Thu 9/4 (6:10pm), Fri 9/5 (12:20pm, 3:10pm, 6:00pm), Sat 9/6 (12:20pm, 3:10pm, 6:00pm), Sun 9/7 (11:00am, 1:45pm, 4:30pm), Mon 9/8 (3:10pm, 6:00pm), Tue 9/9 (2:00pm, 4:45pm, 6:20pm), Wed 9/10 (11:00am, 1:45pm, 4:30pm, 7:20pm)
+
+    * [Lurker](https://drafthouse.com/los-angeles/show/lurker): Thu 9/4 (12:35pm, 4:15pm, 6:20pm, 9:10pm), Fri 9/5 (12:30pm, 3:20pm, 6:10pm, 9:00pm), Sat 9/6 (11:30am, 3:20pm, 6:10pm, 9:00pm), Sun 9/7 (12:10pm, 3:00pm, 7:00pm), Mon 9/8 (12:25pm, 3:15pm, 6:10pm, 9:00pm), Tue 9/9 (12:40pm, 3:35pm, 6:30pm, 9:20pm), Wed 9/10 (12:40pm, 3:30pm, 6:20pm, 9:10pm)
+
+    * [Megadoc](https://drafthouse.com/los-angeles/show/megadoc): Sat 9/20 (12:25pm)
+
+    * [Nightmare On Elm Street 3 Dream Warriors](https://drafthouse.com/los-angeles/show/nightmare-on-elm-street-3-dream-warriors): Fri 9/5 (4:30pm), Mon 9/8 (10:20pm), Wed 9/10 (10:15pm)
+
+    * [Pools](https://drafthouse.com/los-angeles/show/pools): Mon 9/8 (4:30pm), Tue 9/9 (11:00am), Wed 9/10 (10:30pm)
+
+    * [Preparation For The Next Life](https://drafthouse.com/los-angeles/show/preparation-for-the-next-life): Mon 9/8 (10:20pm)
+
+    * [Ran 1985](https://drafthouse.com/los-angeles/show/ran-1985): Thu 9/4 (12:20pm)
+
+    * [Splitsville](https://drafthouse.com/los-angeles/show/splitsville): Thu 9/4 (12:40pm, 3:35pm, 6:30pm, 9:25pm), Fri 9/5 (12:40pm, 3:35pm, 6:30pm, 9:25pm), Sat 9/6 (12:40pm, 3:35pm, 6:30pm, 9:25pm), Sun 9/7 (12:40pm, 3:35pm, 6:30pm), Mon 9/8 (12:40pm, 3:35pm, 6:30pm, 10:45pm), Tue 9/9 (12:20pm, 3:15pm, 6:10pm, 9:10pm), Wed 9/10 (12:40pm, 3:35pm, 6:30pm, 9:25pm)
+
+    * [The Conjuring Last Rites](https://drafthouse.com/los-angeles/show/the-conjuring-last-rites): Thu 9/4 (5:00pm, 7:20pm, 8:30pm, 9:00pm, 10:00pm), Fri 9/5 (2:20pm, 6:20pm, 8:45pm, 9:45pm), Sat 9/6 (2:20pm, 6:20pm, 8:45pm, 9:45pm), Sun 9/7 (5:45pm, 6:00pm, 6:20pm), Mon 9/8 (4:00pm, 6:20pm, 8:45pm, 9:45pm, 10:30pm), Tue 9/9 (12:30pm, 5:45pm, 9:10pm, 10:00pm), Wed 9/10 (6:00pm, 9:10pm, 9:25pm)
+
+    * [The Naked Gun 2025](https://drafthouse.com/los-angeles/show/the-naked-gun-2025): Thu 9/4 (11:50am, 2:25pm), Fri 9/5 (12:15pm), Mon 9/8 (11:40am), Tue 9/9 (11:25am), Wed 9/10 (11:00am)
+
+    * [The Roses](https://drafthouse.com/los-angeles/show/the-roses): Thu 9/4 (1:00pm, 3:55pm, 6:50pm, 10:45pm), Fri 9/5 (1:00pm, 3:55pm, 6:50pm, 9:45pm), Sat 9/6 (1:00pm, 3:55pm, 6:50pm, 9:45pm), Sun 9/7 (12:50pm, 3:50pm, 7:20pm), Mon 9/8 (12:50pm, 3:50pm, 6:50pm, 9:45pm), Tue 9/9 (11:40am, 3:00pm, 6:00pm, 9:00pm), Wed 9/10 (12:15pm, 3:15pm, 6:10pm, 10:10pm)
+
+    * [Twinless](https://drafthouse.com/los-angeles/show/twinless): Mon 9/8 (10:40pm)
+
+    * [Weapons](https://drafthouse.com/los-angeles/show/weapons): Thu 9/4 (12:00pm, 3:20pm, 6:40pm, 9:45pm), Fri 9/5 (11:50am, 3:15pm, 6:40pm, 10:00pm), Sat 9/6 (11:50am, 3:15pm, 6:40pm, 10:00pm), Sun 9/7 (12:00pm, 3:20pm, 6:40pm), Mon 9/8 (12:00pm, 3:20pm, 6:40pm, 10:00pm), Tue 9/9 (12:00pm, 3:20pm, 6:40pm, 9:15pm), Wed 9/10 (12:00pm, 3:20pm, 6:40pm, 10:00pm)
+
 ### Tue 9/2 10:17am
 * New movies: Play Dirty
 
