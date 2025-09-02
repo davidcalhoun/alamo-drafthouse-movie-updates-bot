@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 9/2 10:17am
+* New movies: Play Dirty
+
+* New screenings: 
+    * [Free Victory Screening Play Dirty W Live Q A](https://drafthouse.com/los-angeles/show/free-victory-screening-play-dirty-w-live-q-a): Mon 9/15 (6:00pm)
+
 ### Tue 9/2 5:46am
 * New movies: Him
 
