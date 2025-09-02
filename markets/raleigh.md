@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 9/2 12:32pm
+* New movies: Play Dirty
+
+* New screenings: 
+    * [Free Victory Screening Play Dirty W Livestream Q A](https://drafthouse.com/raleigh/show/free-victory-screening-play-dirty-w-livestream-q-a): Mon 9/15 (9:00pm, 9:30pm)
+
 ### Tue 9/2 8:54am
 * New movies: Him
 
