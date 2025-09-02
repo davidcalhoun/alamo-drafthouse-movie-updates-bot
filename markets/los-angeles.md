@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 9/2 5:46am
+* New movies: Him
+
+* New screenings: 
+    * [Him](https://drafthouse.com/los-angeles/show/him): Thu 9/18 (2:00pm, 4:50pm, 7:40pm, 10:30pm), Fri 9/19 (11:10am, 2:00pm, 4:50pm, 7:40pm, 10:30pm), Sat 9/20 (11:10am, 2:00pm, 4:50pm, 7:40pm, 10:30pm), Sun 9/21 (11:10am, 2:00pm, 4:50pm, 7:40pm), Mon 9/22 (11:10am, 2:00pm, 4:50pm, 7:40pm, 10:30pm), Tue 9/23 (11:10am, 2:00pm, 4:50pm, 7:40pm, 10:30pm), Wed 9/24 (11:10am, 2:00pm, 4:50pm, 7:40pm, 10:30pm)
+
 ### Fri 8/29 3:19pm
 
 * New screenings: 
