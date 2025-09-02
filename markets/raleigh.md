@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 9/2 7:21pm
+* New movies: AngelHeaded Hipster: The Songs of Marc Bolan & T. Rex
+
+* New screenings: 
+    * [Angelheaded Hipster The Songs Of Marc Bolan T Rex](https://drafthouse.com/raleigh/show/angelheaded-hipster-the-songs-of-marc-bolan-t-rex): Fri 9/5 (2:30pm), Mon 9/8 (3:15pm)
+
 ### Tue 9/2 6:22pm
 * New movies: Highest 2 Lowest, After Hours
 
