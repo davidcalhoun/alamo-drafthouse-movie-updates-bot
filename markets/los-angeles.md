@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 9/2 4:17pm
+* New movies: The Balconettes
+
+* New screenings: 
+    * [The Balconettes](https://drafthouse.com/los-angeles/show/the-balconettes): Fri 9/5 (1:35pm), Sat 9/6 (12:00pm), Sun 9/7 (4:00pm), Mon 9/8 (12:15pm), Tue 9/9 (2:40pm), Wed 9/10 (4:05pm)
+
 ### Tue 9/2 3:18pm
 * New movies: Love, Brooklyn, Linda Linda Linda
 
