@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 9/3 1:27am
+
+* New screenings: 
+    * [Jeopardy Interactive](https://drafthouse.com/los-angeles/show/jeopardy-interactive): Wed 10/8 (7:00pm), Wed 10/22 (7:00pm), Wed 11/19 (7:00pm), Wed 12/10 (7:00pm)
+
 ### Tue 9/2 4:17pm
 * New movies: The Balconettes
 
