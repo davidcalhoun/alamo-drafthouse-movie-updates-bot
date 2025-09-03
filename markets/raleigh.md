@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 9/3 8:52am
+* New movies: Gabby's Dollhouse: The Movie
+
+* New screenings: 
+    * [Family Party Gabbys Dollhouse The Movie](https://drafthouse.com/raleigh/show/family-party-gabbys-dollhouse-the-movie): Sat 9/27 (11:00am), Sun 9/28 (11:45am)
+
 ### Tue 9/2 7:21pm
 * New movies: AngelHeaded Hipster: The Songs of Marc Bolan & T. Rex
 
