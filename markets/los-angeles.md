@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 9/3 6:40pm
+* New movies: Are We Good?, Are We Good?
+
+* New screenings: 
+    * [Are We Good](https://drafthouse.com/los-angeles/show/are-we-good): Fri 10/3 (11:00am, 1:50pm, 4:40pm), Sat 10/4 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Sun 10/5 (11:00am, 1:50pm, 4:40pm, 7:30pm), Mon 10/6 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Tue 10/7 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Wed 10/8 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm)
+
+    * [Live Q A Are We Good](https://drafthouse.com/los-angeles/show/live-q-a-are-we-good): Fri 10/3 (7:00pm)
+
 ### Wed 9/3 1:27am
 
 * New screenings: 
