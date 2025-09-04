@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 9/4 9:32am
+* New movies: Tron: Ares
+
+* New screenings: 
+    * [Tron Ares](https://drafthouse.com/raleigh/show/tron-ares): Thu 10/9 (6:00pm), Fri 10/10 (6:00pm), Sat 10/11 (6:30pm), Sun 10/12 (6:00pm)
+
 ### Wed 9/3 8:52am
 * New movies: Gabby's Dollhouse: The Movie
 
