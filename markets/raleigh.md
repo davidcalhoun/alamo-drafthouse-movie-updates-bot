@@ -1,6 +1,18 @@
 # raleigh
 
 ## Movie updates
+### Thu 9/4 11:26am
+* New movies: Predators 2025, Bride of Re-Animator
+
+* New screenings: 
+    * [Jeopardy Interactive](https://drafthouse.com/raleigh/show/jeopardy-interactive): Wed 10/8 (7:00pm)
+
+    * [Megadoc](https://drafthouse.com/raleigh/show/megadoc): Mon 9/22 (4:00pm)
+
+    * [Predators 2025](https://drafthouse.com/raleigh/show/predators-2025): Fri 10/3 (6:30pm), Sat 10/4 (6:30pm)
+
+    * [Terror Tuesday Bride Of Re Animator](https://drafthouse.com/raleigh/show/terror-tuesday-bride-of-re-animator): Tue 10/7 (9:30pm)
+
 ### Thu 9/4 9:32am
 * New movies: Tron: Ares
 
