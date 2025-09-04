@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 9/4 6:29am
+* New movies: Tron: Ares
+
+* New screenings: 
+    * [Tron Ares](https://drafthouse.com/los-angeles/show/tron-ares): Thu 10/9 (3:00pm, 6:15pm, 9:30pm), Fri 10/10 (11:45am, 3:00pm, 6:15pm, 9:30pm), Sat 10/11 (11:45am, 3:00pm, 6:15pm, 9:30pm), Sun 10/12 (11:45am, 3:00pm, 6:15pm), Mon 10/13 (11:45am, 3:00pm, 6:15pm, 9:30pm), Tue 10/14 (11:45am, 3:00pm, 6:15pm, 9:30pm), Wed 10/15 (11:45am, 3:00pm, 6:15pm, 9:30pm), Thu 10/16 (11:45am, 3:00pm, 6:15pm, 9:30pm)
+
 ### Wed 9/3 6:40pm
 * New movies: Are We Good?, Are We Good?
 
