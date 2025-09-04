@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 9/4 8:21am
+* New movies: Predators 2025
+
+* New screenings: 
+    * [Predators 2025](https://drafthouse.com/los-angeles/show/predators-2025): Fri 9/26 (12:30pm, 3:15pm, 9:10pm), Sat 9/27 (11:00am, 1:45pm, 4:30pm, 7:20pm, 10:10pm)
+
 ### Thu 9/4 6:29am
 * New movies: Tron: Ares
 
