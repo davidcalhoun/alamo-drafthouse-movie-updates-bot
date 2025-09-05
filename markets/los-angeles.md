@@ -1,6 +1,38 @@
 # los-angeles
 
 ## Movie updates
+### Fri 9/5 8:21am
+* New movies: Creepshow 1982, Scream 1996, Van Helsing, The Rocky Horror Picture Show, The Lost Boys, Night of the Living Dead 1990, 28 Days Later, Fleischer Halloween Party, Fright Night 1985, GoldenEye, Day of the Dead 1985, Lifeforce, The Craft, A Room with a View 1985
+
+* New screenings: 
+    * [28 Days Later](https://drafthouse.com/los-angeles/show/28-days-later): Sun 10/26 (1:30pm)
+
+    * [A Room With A View 1985](https://drafthouse.com/los-angeles/show/a-room-with-a-view-1985): Sat 9/27 (11:45am)
+
+    * [Fleischer Halloween Party](https://drafthouse.com/los-angeles/show/fleischer-halloween-party): Sun 10/26 (11:00am)
+
+    * [Fright Night](https://drafthouse.com/los-angeles/show/fright-night): Sun 10/19 (11:00am)
+
+    * [Goldeneye](https://drafthouse.com/los-angeles/show/goldeneye): Sat 10/4 (11:45am)
+
+    * [Movie Party Creepshow 1982](https://drafthouse.com/los-angeles/show/movie-party-creepshow-1982): Tue 10/21 (7:20pm)
+
+    * [Movie Party Scream 1996](https://drafthouse.com/los-angeles/show/movie-party-scream-1996): Tue 10/7 (7:20pm)
+
+    * [Movie Party Van Helsing](https://drafthouse.com/los-angeles/show/movie-party-van-helsing): Tue 9/30 (7:00pm)
+
+    * [Queer Film Theory 101 The Lost Boys](https://drafthouse.com/los-angeles/show/queer-film-theory-101-the-lost-boys): Mon 10/27 (7:20pm)
+
+    * [Special Event Day Of The Dead 1985 40th Anniversary](https://drafthouse.com/los-angeles/show/special-event-day-of-the-dead-1985-40th-anniversary): Tue 10/28 (7:20pm)
+
+    * [Special Event Lifeforce The International Cut](https://drafthouse.com/los-angeles/show/special-event-lifeforce-the-international-cut): Sun 10/12 (5:00pm)
+
+    * [Special Event Night Of The Living Dead 1990 Directors Cut](https://drafthouse.com/los-angeles/show/special-event-night-of-the-living-dead-1990-directors-cut): Fri 10/10 (7:20pm)
+
+    * [The Craft](https://drafthouse.com/los-angeles/show/the-craft): Sat 10/11 (11:00am)
+
+    * [The Rocky Horror Picture Show](https://drafthouse.com/los-angeles/show/the-rocky-horror-picture-show): Fri 10/17 (10:10pm), Fri 10/24 (9:30pm)
+
 ### Thu 9/4 8:21am
 * New movies: Predators 2025
 
