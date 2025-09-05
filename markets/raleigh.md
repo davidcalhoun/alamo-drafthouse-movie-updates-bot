@@ -1,6 +1,48 @@
 # raleigh
 
 ## Movie updates
+### Fri 9/5 11:26am
+* New movies: Back to the Future: 40th Anniversary, Creepshow 1982, Scream 1996, Van Helsing, The Rocky Horror Picture Show, The Lost Boys, Night of the Living Dead 1990, Dawn of the Dead 2004, The Beyond 1981, WWW.RACHELORMONT.COM, 28 Days Later, Fleischer Halloween Party, Fright Night 1985, GoldenEye, Day of the Dead 1985, Lifeforce, The Craft, A Room with a View 1985
+
+* New screenings: 
+    * [28 Days Later](https://drafthouse.com/raleigh/show/28-days-later): Wed 10/29 (6:30pm)
+
+    * [A Room With A View 1985](https://drafthouse.com/raleigh/show/a-room-with-a-view-1985): Sat 9/27 (11:30am)
+
+    * [Fleischer Halloween Party](https://drafthouse.com/raleigh/show/fleischer-halloween-party): Sun 10/26 (11:30am)
+
+    * [Fright Night](https://drafthouse.com/raleigh/show/fright-night): Sun 10/19 (12:30pm)
+
+    * [Goldeneye](https://drafthouse.com/raleigh/show/goldeneye): Wed 10/8 (3:45pm)
+
+    * [Jeopardy Interactive](https://drafthouse.com/raleigh/show/jeopardy-interactive): Wed 10/22 (7:00pm), Wed 11/19 (7:00pm), Wed 12/10 (7:00pm)
+
+    * [Movie Party Back To The Future 40th Anniversary](https://drafthouse.com/raleigh/show/movie-party-back-to-the-future-40th-anniversary): Sat 11/1 (2:30pm)
+
+    * [Movie Party Creepshow 1982](https://drafthouse.com/raleigh/show/movie-party-creepshow-1982): Tue 10/21 (6:30pm)
+
+    * [Movie Party Scream 1996](https://drafthouse.com/raleigh/show/movie-party-scream-1996): Tue 10/7 (6:30pm)
+
+    * [Movie Party Van Helsing](https://drafthouse.com/raleigh/show/movie-party-van-helsing): Wed 10/1 (6:30pm)
+
+    * [Queer Film Theory 101 The Lost Boys](https://drafthouse.com/raleigh/show/queer-film-theory-101-the-lost-boys): Sun 10/26 (2:00pm)
+
+    * [Special Event Day Of The Dead 1985 40th Anniversary](https://drafthouse.com/raleigh/show/special-event-day-of-the-dead-1985-40th-anniversary): Mon 10/27 (6:30pm)
+
+    * [Special Event Lifeforce The International Cut](https://drafthouse.com/raleigh/show/special-event-lifeforce-the-international-cut): Mon 10/13 (9:45pm)
+
+    * [Special Event Night Of The Living Dead 1990 Directors Cut](https://drafthouse.com/raleigh/show/special-event-night-of-the-living-dead-1990-directors-cut): Sat 10/11 (9:15pm)
+
+    * [Terror Tuesday Dawn Of The Dead 2004](https://drafthouse.com/raleigh/show/terror-tuesday-dawn-of-the-dead-2004): Tue 10/21 (9:30pm)
+
+    * [Terror Tuesday The Beyond Nyc](https://drafthouse.com/raleigh/show/terror-tuesday-the-beyond-nyc): Tue 10/28 (9:30pm)
+
+    * [The Craft](https://drafthouse.com/raleigh/show/the-craft): Sat 10/11 (11:30am)
+
+    * [The Rocky Horror Picture Show](https://drafthouse.com/raleigh/show/the-rocky-horror-picture-show): Fri 10/24 (9:00pm), Sat 10/25 (9:00pm)
+
+    * [Www Rachelormont Com](https://drafthouse.com/raleigh/show/www-rachelormont-com): Fri 10/17 (9:30pm), Mon 10/20 (9:30pm)
+
 ### Thu 9/4 11:26am
 * New movies: Predators 2025, Bride of Re-Animator
 
