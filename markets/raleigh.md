@@ -1,6 +1,22 @@
 # raleigh
 
 ## Movie updates
+### Mon 9/8 5:22pm
+* New movies: Ringu, Cruel Jaws, Seconds, Teknolust, The Erotic Rites of Frankenstein, The Shrouds
+
+* New screenings: 
+    * [Terror Tuesday Ringu](https://drafthouse.com/raleigh/show/terror-tuesday-ringu): Tue 11/4 (9:30pm)
+
+    * [Weird Wednesday Cruel Jaws](https://drafthouse.com/raleigh/show/weird-wednesday-cruel-jaws): Wed 10/22 (10:15pm)
+
+    * [Weird Wednesday Seconds](https://drafthouse.com/raleigh/show/weird-wednesday-seconds): Wed 10/8 (10:15pm)
+
+    * [Weird Wednesday Teknolust](https://drafthouse.com/raleigh/show/weird-wednesday-teknolust): Wed 10/15 (9:30pm)
+
+    * [Weird Wednesday The Erotic Rites Of Frankenstein](https://drafthouse.com/raleigh/show/weird-wednesday-the-erotic-rites-of-frankenstein): Wed 10/29 (9:30pm)
+
+    * [Weird Wednesday The Shrouds](https://drafthouse.com/raleigh/show/weird-wednesday-the-shrouds): Wed 10/1 (9:45pm)
+
 ### Sun 9/7 10:02pm
 * New movies: BABY BLOOD
 
