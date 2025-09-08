@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Sun 9/7 10:02pm
+* New movies: BABY BLOOD
+
+* New screenings: 
+    * [Terror Tuesday Baby Blood](https://drafthouse.com/raleigh/show/terror-tuesday-baby-blood): Tue 10/14 (9:30pm)
+
 ### Fri 9/5 11:26am
 * New movies: Back to the Future: 40th Anniversary, Creepshow 1982, Scream 1996, Van Helsing, The Rocky Horror Picture Show, The Lost Boys, Night of the Living Dead 1990, Dawn of the Dead 2004, The Beyond 1981, WWW.RACHELORMONT.COM, 28 Days Later, Fleischer Halloween Party, Fright Night 1985, GoldenEye, Day of the Dead 1985, Lifeforce, The Craft, A Room with a View 1985
 
