@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 9/9 11:28am
+* New movies: Dismember the Alamo 2025 - Raleigh
+
+* New screenings: 
+    * [Dismember The Alamo 2025 Raleigh](https://drafthouse.com/raleigh/show/dismember-the-alamo-2025-raleigh): Sat 10/18 (4:00pm)
+
 ### Mon 9/8 6:24pm
 * New movies: The Baltimorons
 
