@@ -1,6 +1,40 @@
 # los-angeles
 
 ## Movie updates
+### Mon 9/8 8:02pm
+* New movies: The Baltimorons
+
+* New screenings: 
+    * [A Nightmare On Elm Street 4 The Dream Master](https://drafthouse.com/los-angeles/show/a-nightmare-on-elm-street-4-the-dream-master): Wed 9/17 (10:40pm)
+
+    * [Caught Stealing](https://drafthouse.com/los-angeles/show/caught-stealing): Fri 9/12 (11:25am, 2:15pm, 5:10pm, 8:00pm, 10:50pm), Sat 9/13 (11:25am, 2:15pm, 5:10pm, 8:00pm, 10:50pm), Sun 9/14 (11:25am, 2:15pm, 5:10pm, 8:00pm), Mon 9/15 (11:25am, 2:15pm, 5:10pm, 8:00pm, 10:50pm), Tue 9/16 (11:25am, 2:15pm, 5:10pm, 8:00pm, 10:50pm), Wed 9/17 (11:25am, 2:15pm, 5:10pm, 8:00pm, 10:50pm)
+
+    * [Demon Slayer Kimetsu No Yaiba Infinity Castle Dubbed](https://drafthouse.com/los-angeles/show/demon-slayer-kimetsu-no-yaiba-infinity-castle-dubbed): Fri 9/12 (1:50pm, 5:30pm, 6:40pm), Sat 9/13 (1:50pm, 5:30pm), Sun 9/14 (1:45pm, 5:30pm, 7:00pm), Mon 9/15 (5:30pm), Tue 9/16 (5:30pm), Wed 9/17 (10:00pm)
+
+    * [Demon Slayer Kimetsu No Yaiba Infinity Castle Subtitled](https://drafthouse.com/los-angeles/show/demon-slayer-kimetsu-no-yaiba-infinity-castle-subtitled): Fri 9/12 (11:35am, 9:20pm), Sat 9/13 (11:35am, 9:20pm), Mon 9/15 (10:00pm), Tue 9/16 (9:20pm), Wed 9/17 (6:15pm, 9:10pm)
+
+    * [Harry Potter And The Deathly Hallows Part 1](https://drafthouse.com/los-angeles/show/harry-potter-and-the-deathly-hallows-part-1): Fri 9/12 (12:00pm), Tue 9/16 (11:30am), Wed 9/17 (12:10pm)
+
+    * [Love Brooklyn](https://drafthouse.com/los-angeles/show/love-brooklyn): Sat 9/13 (10:45am), Sun 9/14 (12:00pm), Tue 9/16 (3:00pm)
+
+    * [Lurker](https://drafthouse.com/los-angeles/show/lurker): Sat 9/13 (3:00pm), Tue 9/16 (12:10pm), Wed 9/17 (2:50pm)
+
+    * [Shall We Dance 1996](https://drafthouse.com/los-angeles/show/shall-we-dance-1996): Mon 9/15 (11:00am)
+
+    * [Special Event In The Mood For Love 25th Anniversary](https://drafthouse.com/los-angeles/show/special-event-in-the-mood-for-love-25th-anniversary): Fri 9/12 (3:40pm, 6:10pm), Sat 9/13 (12:00pm, 1:25pm, 6:10pm), Sun 9/14 (5:45pm), Mon 9/15 (2:30pm, 9:20pm), Tue 9/16 (3:10pm, 6:10pm), Wed 9/17 (1:00pm, 4:00pm, 10:10pm)
+
+    * [Splitsville](https://drafthouse.com/los-angeles/show/splitsville): Fri 9/12 (2:50pm), Sun 9/14 (2:50pm), Mon 9/15 (11:50am)
+
+    * [The Baltimorons](https://drafthouse.com/los-angeles/show/the-baltimorons): Fri 9/12 (11:00am, 3:20pm), Sat 9/13 (11:00am, 3:25pm), Sun 9/14 (11:00am, 3:00pm), Mon 9/15 (12:00pm, 2:45pm), Tue 9/16 (12:00pm, 2:45pm), Wed 9/17 (12:40pm, 3:30pm)
+
+    * [The Conjuring Last Rites](https://drafthouse.com/los-angeles/show/the-conjuring-last-rites): Sun 9/14 (5:45pm), Mon 9/15 (5:45pm, 9:15pm), Tue 9/16 (5:45pm, 9:15pm), Wed 9/17 (5:45pm, 10:00pm)
+
+    * [The Roses](https://drafthouse.com/los-angeles/show/the-roses): Fri 9/12 (11:50am), Mon 9/15 (2:45pm), Wed 9/17 (11:50am)
+
+    * [Twinless](https://drafthouse.com/los-angeles/show/twinless): Fri 9/12 (11:00am, 1:50pm, 4:40pm), Sat 9/13 (11:00am, 1:50pm, 4:40pm), Sun 9/14 (11:00am, 1:50pm, 4:40pm, 7:30pm), Mon 9/15 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Tue 9/16 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Wed 9/17 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm)
+
+    * [Weapons](https://drafthouse.com/los-angeles/show/weapons): Fri 9/12 (12:40pm, 4:00pm, 7:20pm, 10:40pm), Sat 9/13 (12:00pm, 3:20pm, 6:40pm, 10:00pm), Sun 9/14 (12:00pm, 3:20pm, 6:40pm), Mon 9/15 (12:00pm, 3:20pm, 6:40pm, 10:00pm), Tue 9/16 (12:00pm, 3:20pm, 6:40pm, 10:00pm), Wed 9/17 (12:00pm, 3:20pm, 6:40pm, 10:00pm)
+
 ### Fri 9/5 8:21am
 * New movies: Creepshow 1982, Scream 1996, Van Helsing, The Rocky Horror Picture Show, The Lost Boys, Night of the Living Dead 1990, 28 Days Later, Fleischer Halloween Party, Fright Night 1985, GoldenEye, Day of the Dead 1985, Lifeforce, The Craft, A Room with a View 1985
 
