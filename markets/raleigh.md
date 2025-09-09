@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 9/9 12:32pm
+* New movies: One Battle After Another
+
+* New screenings: 
+    * [One Battle After Another](https://drafthouse.com/raleigh/show/one-battle-after-another): Thu 9/25 (2:00pm, 6:00pm, 10:00pm), Fri 9/26 (11:00am, 2:45pm, 6:30pm, 10:15pm), Sat 9/27 (11:00am, 2:45pm, 6:30pm, 10:15pm), Sun 9/28 (11:00am, 2:45pm, 6:30pm, 10:15pm)
+
 ### Tue 9/9 11:28am
 * New movies: Dismember the Alamo 2025 - Raleigh
 
