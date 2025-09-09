@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 9/9 9:27am
+* New movies: One Battle After Another
+
+* New screenings: 
+    * [One Battle After Another](https://drafthouse.com/los-angeles/show/one-battle-after-another): Thu 9/25 (2:00pm, 2:30pm, 4:30pm, 6:30pm, 8:30pm, 10:25pm), Fri 9/26 (10:40am, 12:00pm, 2:35pm, 4:00pm, 6:30pm, 8:00pm, 10:25pm), Sat 9/27 (10:40am, 12:00pm, 2:35pm, 4:00pm, 6:30pm, 8:00pm, 10:25pm), Sun 9/28 (10:40am, 12:00pm, 2:35pm, 4:00pm, 6:30pm, 8:00pm), Mon 9/29 (11:40am, 12:00pm, 2:15pm, 3:50pm, 6:10pm, 7:45pm, 10:00pm), Tue 9/30 (11:40am, 12:00pm, 2:15pm, 3:50pm, 6:10pm, 10:00pm), Wed 10/1 (11:40am, 12:00pm, 2:15pm, 3:50pm, 6:10pm, 7:45pm, 10:00pm)
+
 ### Tue 9/9 8:24am
 * New movies: Dismember the Alamo 2025 - DTLA
 
