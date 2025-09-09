@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 9/9 8:24am
+* New movies: Dismember the Alamo 2025 - DTLA
+
+* New screenings: 
+    * [Dismember The Alamo 2025 Dtla](https://drafthouse.com/los-angeles/show/dismember-the-alamo-2025-dtla): Sat 10/25 (2:00pm)
+
 ### Mon 9/8 8:02pm
 * New movies: The Baltimorons
 
