@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 9/10 12:28am
+* New movies: The Strangers: Chapter 2
+
+* New screenings: 
+    * [The Strangers Chapter 2](https://drafthouse.com/raleigh/show/the-strangers-chapter-2): Thu 9/25 (7:15pm), Fri 9/26 (7:15pm), Sat 9/27 (7:15pm), Sun 9/28 (7:15pm)
+
 ### Tue 9/9 12:32pm
 * New movies: One Battle After Another
 
