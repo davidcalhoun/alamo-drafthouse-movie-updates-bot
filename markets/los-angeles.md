@@ -1,6 +1,39 @@
 # los-angeles
 
 ## Movie updates
+### Wed 9/10 2:22am
+
+* New screenings: 
+    * [Caught Stealing](https://drafthouse.com/los-angeles/show/caught-stealing): Thu 9/11 (11:25am, 2:15pm, 5:10pm, 8:00pm, 10:50pm)
+
+    * [Demon Slayer Kimetsu No Yaiba Infinity Castle Dubbed](https://drafthouse.com/los-angeles/show/demon-slayer-kimetsu-no-yaiba-infinity-castle-dubbed): Thu 9/11 (5:30pm, 8:00pm)
+
+    * [Demon Slayer Kimetsu No Yaiba Infinity Castle Subtitled](https://drafthouse.com/los-angeles/show/demon-slayer-kimetsu-no-yaiba-infinity-castle-subtitled): Thu 9/11 (4:10pm, 9:20pm)
+
+    * [Harry Potter And The Half Blood Prince](https://drafthouse.com/los-angeles/show/harry-potter-and-the-half-blood-prince): Thu 9/11 (12:25pm)
+
+    * [Highest 2 Lowest](https://drafthouse.com/los-angeles/show/highest-2-lowest): Thu 9/11 (12:35pm)
+
+    * [Honey Dont](https://drafthouse.com/los-angeles/show/honey-dont): Thu 9/11 (11:00am)
+
+    * [Love Brooklyn](https://drafthouse.com/los-angeles/show/love-brooklyn): Thu 9/11 (11:50am, 2:40pm)
+
+    * [Lurker](https://drafthouse.com/los-angeles/show/lurker): Thu 9/11 (1:40pm)
+
+    * [Preparation For The Next Life](https://drafthouse.com/los-angeles/show/preparation-for-the-next-life): Thu 9/11 (12:50pm, 4:00pm, 6:00pm, 9:10pm)
+
+    * [Splitsville](https://drafthouse.com/los-angeles/show/splitsville): Thu 9/11 (12:10pm, 3:05pm)
+
+    * [The Balconettes](https://drafthouse.com/los-angeles/show/the-balconettes): Thu 9/11 (4:25pm)
+
+    * [The Conjuring Last Rites](https://drafthouse.com/los-angeles/show/the-conjuring-last-rites): Thu 9/11 (11:15am, 2:45pm, 10:00pm)
+
+    * [The Roses](https://drafthouse.com/los-angeles/show/the-roses): Thu 9/11 (12:15pm)
+
+    * [Twinless](https://drafthouse.com/los-angeles/show/twinless): Thu 9/11 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm)
+
+    * [Weapons](https://drafthouse.com/los-angeles/show/weapons): Thu 9/11 (11:30am, 2:50pm, 6:10pm, 9:30pm)
+
 ### Tue 9/9 9:24pm
 * New movies: The Strangers: Chapter 2
 
