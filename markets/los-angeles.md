@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Wed 9/10 1:22pm
+
+* New screenings: 
+    * [The Conjuring Last Rites](https://drafthouse.com/los-angeles/show/the-conjuring-last-rites): Fri 9/12 (5:45pm, 9:15pm), Sat 9/13 (5:45pm, 9:15pm)
+
+    * [Twinless](https://drafthouse.com/los-angeles/show/twinless): Fri 9/12 (7:30pm, 10:20pm), Sat 9/13 (7:30pm, 10:20pm)
+
 ### Wed 9/10 12:16pm
 * New movies: Perfect Blue Subtitled, WWW.RACHELORMONT.COM
 
