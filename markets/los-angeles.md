@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 9/10 12:16pm
+* New movies: Perfect Blue Subtitled, WWW.RACHELORMONT.COM
+
+* New screenings: 
+    * [Special Event Perfect Blue Subtitled Remastered](https://drafthouse.com/los-angeles/show/special-event-perfect-blue-subtitled-remastered): Fri 10/3 (10:15pm), Sat 10/4 (10:20pm)
+
+    * [Www Rachelormont Com](https://drafthouse.com/los-angeles/show/www-rachelormont-com): Fri 10/17 (9:15pm), Sat 10/18 (10:10pm)
+
 ### Wed 9/10 2:22am
 
 * New screenings: 
