@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 9/9 9:24pm
+* New movies: The Strangers: Chapter 2
+
+* New screenings: 
+    * [The Strangers Chapter 2](https://drafthouse.com/los-angeles/show/the-strangers-chapter-2): Thu 9/25 (7:45pm, 10:35pm), Fri 9/26 (11:10am, 2:00pm, 4:50pm, 7:45pm, 10:35pm), Sat 9/27 (11:10am, 2:00pm, 4:50pm, 7:45pm, 10:35pm), Sun 9/28 (11:10am, 2:00pm, 4:50pm, 7:45pm), Mon 9/29 (11:25am, 3:35pm, 6:30pm, 9:20pm), Tue 9/30 (11:25am, 3:35pm, 6:30pm, 9:20pm), Wed 10/1 (11:25am, 3:35pm, 6:30pm, 9:20pm)
+
 ### Tue 9/9 9:27am
 * New movies: One Battle After Another
 
