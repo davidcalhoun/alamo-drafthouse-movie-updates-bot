@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 9/12 9:23am
+* New movies: BRING IT ON 25th Anniversary Live Q&A, BRING IT ON 25th Anniversary Livestream Q&A
+
+* New screenings: 
+    * [Bring It On 25th Anniversary Live Qa](https://drafthouse.com/los-angeles/show/bring-it-on-25th-anniversary-live-qa): Sun 9/21 (5:00pm)
+
+    * [Bring It On 25th Anniversary Livestream Qa](https://drafthouse.com/los-angeles/show/bring-it-on-25th-anniversary-livestream-qa): Sun 9/21 (5:00pm)
+
 ### Fri 9/12 3:22am
 
 * New screenings: 
