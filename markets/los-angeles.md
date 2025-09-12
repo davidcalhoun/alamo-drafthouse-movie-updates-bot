@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 9/12 3:22am
+
+* New screenings: 
+    * [Linda Linda Linda](https://drafthouse.com/los-angeles/show/linda-linda-linda): Fri 9/19 (12:30pm), Tue 9/23 (8:50pm)
+
 ### Wed 9/10 1:22pm
 
 * New screenings: 
