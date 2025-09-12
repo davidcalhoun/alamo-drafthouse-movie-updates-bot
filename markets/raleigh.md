@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 9/12 11:24am
+* New movies: BRING IT ON 25th Anniversary Livestream Q&A
+
+* New screenings: 
+    * [Bring It On 25th Anniversary Livestream Qa](https://drafthouse.com/raleigh/show/bring-it-on-25th-anniversary-livestream-qa): Sun 9/21 (8:00pm)
+
 ### Wed 9/10 12:28am
 * New movies: The Strangers: Chapter 2
 
