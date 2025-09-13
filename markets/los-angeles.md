@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Sat 9/13 2:18am
+
+* New screenings: 
+    * [Special Event Perfect Blue Subtitled Remastered](https://drafthouse.com/los-angeles/show/special-event-perfect-blue-subtitled-remastered): Sun 10/5 (8:00pm)
+
 ### Fri 9/12 9:23pm
 * New movies: Bring It On, Bring It On
 
