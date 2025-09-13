@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Sat 9/13 12:27am
+* New movies: Bring It On
+
+
+
 ### Fri 9/12 11:24am
 * New movies: BRING IT ON 25th Anniversary Livestream Q&A
 
