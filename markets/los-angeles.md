@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 9/12 9:23pm
+* New movies: Bring It On, Bring It On
+
+
+
 ### Fri 9/12 9:23am
 * New movies: BRING IT ON 25th Anniversary Live Q&A, BRING IT ON 25th Anniversary Livestream Q&A
 
