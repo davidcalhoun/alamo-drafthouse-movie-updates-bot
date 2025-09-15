@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 9/15 9:27am
+
+* New screenings: 
+    * [Livestream Q A Bring It On 25th Anniversary Livestream Q A](https://drafthouse.com/los-angeles/show/livestream-q-a-bring-it-on-25th-anniversary-livestream-q-a): Sun 9/21 (5:00pm)
+
 ### Mon 9/15 6:28am
 * New movies: Mitski: The Land
 
