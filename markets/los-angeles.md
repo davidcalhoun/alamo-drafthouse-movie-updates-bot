@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 9/15 6:28am
+* New movies: Mitski: The Land
+
+* New screenings: 
+    * [Mitski The Land](https://drafthouse.com/los-angeles/show/mitski-the-land): Wed 10/22 (6:00pm), Thu 10/23 (12:30pm)
+
 ### Mon 9/15 1:29am
 * New movies: The Lost Bus
 
