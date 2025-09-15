@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 9/15 9:31am
+* New movies: Mitski: The Land
+
+* New screenings: 
+    * [Mitski The Land](https://drafthouse.com/raleigh/show/mitski-the-land): Wed 10/22 (7:30pm), Thu 10/23 (12:00pm)
+
 ### Sat 9/13 12:27am
 * New movies: Bring It On
 
