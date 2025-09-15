@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 9/15 1:29am
+* New movies: The Lost Bus
+
+* New screenings: 
+    * [The Lost Bus](https://drafthouse.com/los-angeles/show/the-lost-bus): Fri 9/19 (11:30am, 2:50pm, 6:10pm, 9:30pm), Sat 9/20 (11:30am, 2:50pm, 6:10pm, 9:30pm), Sun 9/21 (11:30am, 2:50pm, 6:10pm), Mon 9/22 (11:30am, 2:50pm, 6:10pm, 9:30pm), Tue 9/23 (11:30am, 2:50pm, 6:10pm, 9:30pm), Wed 9/24 (11:30am, 2:50pm, 6:10pm, 9:30pm)
+
 ### Sat 9/13 2:18am
 
 * New screenings: 
