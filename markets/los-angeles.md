@@ -1,6 +1,58 @@
 # los-angeles
 
 ## Movie updates
+### Mon 9/15 7:57pm
+* New movies: The History of Sound, Adulthood
+
+* New screenings: 
+    * [A Nightmare On Elm Street 5 The Dream Child](https://drafthouse.com/los-angeles/show/a-nightmare-on-elm-street-5-the-dream-child): Thu 9/18 (10:20pm)
+
+    * [Adulthood](https://drafthouse.com/los-angeles/show/adulthood): Fri 9/19 (12:30pm), Sat 9/20 (12:30pm), Sun 9/21 (12:30pm), Mon 9/22 (12:30pm), Tue 9/23 (12:30pm), Wed 9/24 (12:30pm)
+
+    * [Caught Stealing](https://drafthouse.com/los-angeles/show/caught-stealing): Thu 9/18 (12:20pm, 3:20pm), Fri 9/19 (11:20am), Sat 9/20 (11:20am), Sun 9/21 (11:00am), Mon 9/22 (11:20am), Tue 9/23 (11:20am), Wed 9/24 (11:20am)
+
+    * [Demon Slayer Kimetsu No Yaiba Infinity Castle Dubbed](https://drafthouse.com/los-angeles/show/demon-slayer-kimetsu-no-yaiba-infinity-castle-dubbed): Thu 9/18 (11:00am, 8:20pm, 10:15pm), Fri 9/19 (12:00pm, 9:45pm), Sat 9/20 (11:00am, 10:15pm), Sun 9/21 (11:20am), Mon 9/22 (11:00am, 10:15pm), Tue 9/23 (11:00am, 10:15pm), Wed 9/24 (11:00am, 10:15pm)
+
+    * [Demon Slayer Kimetsu No Yaiba Infinity Castle Subtitled](https://drafthouse.com/los-angeles/show/demon-slayer-kimetsu-no-yaiba-infinity-castle-subtitled): Thu 9/18 (12:10pm, 2:45pm, 4:30pm, 6:30pm), Fri 9/19 (2:10pm, 6:00pm), Sat 9/20 (2:45pm, 6:30pm), Sun 9/21 (3:10pm, 7:00pm), Mon 9/22 (2:45pm, 6:30pm), Tue 9/23 (2:45pm, 6:30pm), Wed 9/24 (2:45pm, 6:30pm)
+
+    * [Downton Abbey The Grand Finale](https://drafthouse.com/los-angeles/show/downton-abbey-the-grand-finale): Thu 9/18 (11:30am, 2:45pm, 6:00pm, 9:15pm), Fri 9/19 (12:00pm, 3:50pm, 7:10pm, 10:25pm), Sat 9/20 (11:30am, 2:45pm, 6:00pm, 9:15pm), Sun 9/21 (11:30am, 2:45pm, 6:00pm), Mon 9/22 (11:30am, 2:45pm, 6:00pm, 9:15pm), Tue 9/23 (11:45am, 3:00pm, 6:15pm, 9:30pm), Wed 9/24 (11:30am, 2:45pm, 6:00pm, 9:15pm)
+
+    * [Harry Potter And The Deathly Hallows Part 1](https://drafthouse.com/los-angeles/show/harry-potter-and-the-deathly-hallows-part-1): Thu 9/18 (12:50pm)
+
+    * [Harry Potter And The Deathly Hallows Part 2](https://drafthouse.com/los-angeles/show/harry-potter-and-the-deathly-hallows-part-2): Mon 9/22 (3:35pm), Tue 9/23 (12:50pm), Wed 9/24 (3:30pm)
+
+    * [Him](https://drafthouse.com/los-angeles/show/him): Thu 9/18 (5:45pm, 6:10pm, 8:35pm, 9:00pm), Fri 9/19 (5:45pm, 8:35pm), Sat 9/20 (5:45pm, 8:35pm, 10:50pm), Mon 9/22 (5:45pm, 8:35pm), Tue 9/23 (5:45pm, 8:35pm), Wed 9/24 (5:45pm, 8:35pm)
+
+    * [Linda Linda Linda](https://drafthouse.com/los-angeles/show/linda-linda-linda): Sat 9/20 (11:45am), Wed 9/24 (4:15pm)
+
+    * [Lurker](https://drafthouse.com/los-angeles/show/lurker): Thu 9/18 (11:10am)
+
+    * [Megadoc](https://drafthouse.com/los-angeles/show/megadoc): Mon 9/22 (1:15pm), Wed 9/24 (10:00pm)
+
+    * [Queer Film Theory 101 All That Heaven Allows](https://drafthouse.com/los-angeles/show/queer-film-theory-101-all-that-heaven-allows): Fri 9/19 (9:45pm), Sun 9/21 (8:10pm), Mon 9/22 (10:00pm), Tue 9/23 (3:20pm), Wed 9/24 (12:45pm)
+
+    * [Shall We Dance 1996](https://drafthouse.com/los-angeles/show/shall-we-dance-1996): Thu 9/18 (12:00pm)
+
+    * [Special Event Bring It On 25th Anniversary](https://drafthouse.com/los-angeles/show/special-event-bring-it-on-25th-anniversary): Fri 9/19 (11:15am), Sat 9/20 (1:35pm), Tue 9/23 (12:30pm), Wed 9/24 (1:30pm)
+
+    * [Special Event In The Mood For Love 25th Anniversary](https://drafthouse.com/los-angeles/show/special-event-in-the-mood-for-love-25th-anniversary): Thu 9/18 (4:20pm, 7:20pm), Fri 9/19 (3:20pm), Sat 9/20 (3:20pm), Sun 9/21 (3:20pm), Mon 9/22 (3:20pm), Tue 9/23 (3:20pm), Wed 9/24 (3:20pm)
+
+    * [Spinal Tap Ii The End Continues](https://drafthouse.com/los-angeles/show/spinal-tap-ii-the-end-continues): Thu 9/18 (12:15pm, 2:50pm, 5:25pm, 8:00pm, 10:35pm), Fri 9/19 (12:15pm, 2:50pm, 5:25pm, 8:00pm, 10:35pm), Sat 9/20 (11:00am, 2:50pm, 5:25pm, 8:00pm, 10:35pm), Sun 9/21 (11:50am, 2:25pm, 5:20pm, 8:10pm), Mon 9/22 (12:15pm, 2:50pm, 5:25pm, 8:00pm, 10:35pm), Tue 9/23 (2:45pm, 5:25pm, 8:00pm, 10:35pm), Wed 9/24 (11:00am, 2:50pm, 5:25pm, 8:00pm, 10:35pm)
+
+    * [The Baltimorons](https://drafthouse.com/los-angeles/show/the-baltimorons): Thu 9/18 (3:25pm), Tue 9/23 (12:00pm)
+
+    * [The Conjuring Last Rites](https://drafthouse.com/los-angeles/show/the-conjuring-last-rites): Thu 9/18 (12:00pm, 3:30pm, 6:20pm, 10:20pm), Fri 9/19 (12:00pm, 3:30pm, 7:00pm, 10:25pm), Sat 9/20 (12:00pm, 3:30pm, 7:00pm, 10:25pm), Sun 9/21 (11:35am, 3:00pm, 6:30pm), Mon 9/22 (12:00pm, 3:30pm, 7:00pm, 10:25pm), Tue 9/23 (12:00pm, 3:30pm, 7:00pm, 10:25pm), Wed 9/24 (12:00pm, 3:30pm, 7:00pm, 10:25pm)
+
+    * [The History Of Sound](https://drafthouse.com/los-angeles/show/the-history-of-sound): Thu 9/18 (7:00pm, 9:45pm), Fri 9/19 (2:25pm, 6:20pm, 9:40pm), Sat 9/20 (2:20pm, 6:20pm, 9:40pm), Sun 9/21 (2:00pm, 6:20pm), Mon 9/22 (2:20pm, 6:20pm, 9:40pm), Tue 9/23 (2:20pm, 6:20pm, 9:40pm), Wed 9/24 (2:20pm, 6:20pm, 9:40pm)
+
+    * [The Long Walk 2025](https://drafthouse.com/los-angeles/show/the-long-walk-2025): Thu 9/18 (1:10pm, 4:10pm, 7:10pm, 10:10pm), Fri 9/19 (1:20pm, 4:20pm, 7:20pm, 10:20pm), Sat 9/20 (1:10pm, 4:10pm, 7:10pm, 10:10pm), Sun 9/21 (11:00am, 2:00pm, 7:50pm), Mon 9/22 (1:10pm, 4:10pm, 7:10pm, 10:10pm), Tue 9/23 (1:10pm, 4:10pm, 7:10pm, 10:10pm), Wed 9/24 (1:10pm, 4:10pm, 7:10pm, 10:10pm)
+
+    * [Twinless](https://drafthouse.com/los-angeles/show/twinless): Thu 9/18 (1:20pm), Fri 9/19 (3:15pm), Mon 9/22 (12:40pm), Wed 9/24 (12:00pm)
+
+    * [Weapons](https://drafthouse.com/los-angeles/show/weapons): Thu 9/18 (11:00am, 2:25pm)
+
+    * [Wes Cravens New Nightmare](https://drafthouse.com/los-angeles/show/wes-cravens-new-nightmare): Sat 9/20 (4:20pm, 10:30pm), Mon 9/22 (9:50pm), Wed 9/24 (10:10pm)
+
 ### Mon 9/15 9:27am
 
 * New screenings: 
