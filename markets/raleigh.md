@@ -1,6 +1,50 @@
 # raleigh
 
 ## Movie updates
+### Tue 9/16 9:33am
+* New movies: A Big Bold Beautiful Journey, The History of Sound, Mystery Machine 9/22/2025
+
+* New screenings: 
+    * [A Big Bold Beautiful Journey](https://drafthouse.com/raleigh/show/a-big-bold-beautiful-journey): Thu 9/18 (4:15pm, 7:30pm, 10:15pm), Fri 9/19 (12:00pm, 3:00pm, 6:00pm, 9:15pm), Sat 9/20 (11:45am, 3:00pm, 6:00pm, 9:15pm), Sun 9/21 (12:00pm, 3:00pm, 6:00pm, 9:15pm), Mon 9/22 (12:00pm, 3:15pm, 6:30pm, 9:30pm), Tue 9/23 (12:15pm, 3:30pm, 6:30pm, 9:45pm), Wed 9/24 (12:00pm, 3:00pm, 6:00pm, 10:45pm)
+
+    * [Caught Stealing](https://drafthouse.com/raleigh/show/caught-stealing): Fri 9/19 (2:15pm), Sat 9/20 (2:15pm), Sun 9/21 (2:15pm), Mon 9/22 (2:10pm), Tue 9/23 (2:10pm), Wed 9/24 (2:15pm)
+
+    * [Demon Slayer Kimetsu No Yaiba Infinity Castle Dubbed](https://drafthouse.com/raleigh/show/demon-slayer-kimetsu-no-yaiba-infinity-castle-dubbed): Thu 9/18 (12:15pm, 2:45pm, 6:00pm, 10:15pm), Fri 9/19 (11:30am, 2:30pm, 5:00pm, 9:00pm), Sat 9/20 (2:45pm, 5:00pm, 9:00pm), Sun 9/21 (2:30pm, 9:15pm), Mon 9/22 (11:30am, 5:00pm, 9:00pm), Tue 9/23 (2:30pm, 5:00pm, 9:00pm), Wed 9/24 (12:00pm, 2:30pm, 5:00pm, 9:00pm, 9:00pm)
+
+    * [Demon Slayer Kimetsu No Yaiba Infinity Castle Subtitled](https://drafthouse.com/raleigh/show/demon-slayer-kimetsu-no-yaiba-infinity-castle-subtitled): Thu 9/18 (11:00am, 2:15pm, 6:30pm, 9:45pm), Fri 9/19 (1:00pm, 3:15pm, 6:15pm), Sat 9/20 (1:00pm, 6:15pm), Sun 9/21 (1:00pm, 5:15pm, 6:15pm), Mon 9/22 (2:15pm, 3:15pm, 6:15pm), Tue 9/23 (1:30pm, 6:15pm, 8:45pm), Wed 9/24 (1:00pm, 6:15pm)
+
+    * [Downton Abbey The Grand Finale](https://drafthouse.com/raleigh/show/downton-abbey-the-grand-finale): Thu 9/18 (11:15am, 2:30pm, 6:00pm, 9:15pm), Fri 9/19 (11:45am, 2:50pm, 6:00pm, 9:15pm), Sat 9/20 (11:30am, 2:35pm, 6:00pm, 9:05pm), Sun 9/21 (11:45am, 2:50pm, 6:00pm, 9:05pm), Mon 9/22 (11:45am, 2:50pm, 6:00pm, 9:05pm), Tue 9/23 (11:45am, 3:00pm, 6:15pm, 9:45pm), Wed 9/24 (11:45am, 3:00pm, 6:15pm, 9:30pm)
+
+    * [Freakier Friday](https://drafthouse.com/raleigh/show/freakier-friday): Thu 9/18 (1:30pm)
+
+    * [Freddys Dead The Final Nightmare](https://drafthouse.com/raleigh/show/freddys-dead-the-final-nightmare): Mon 9/22 (9:30pm)
+
+    * [Harry Potter And The Deathly Hallows Part 2](https://drafthouse.com/raleigh/show/harry-potter-and-the-deathly-hallows-part-2): Sat 9/20 (12:30pm)
+
+    * [Him](https://drafthouse.com/raleigh/show/him): Thu 9/18 (4:00pm, 4:30pm, 5:30pm, 8:30pm, 10:00pm), Fri 9/19 (11:30am, 12:30pm, 3:30pm, 5:15pm, 8:00pm, 10:00pm, 10:45pm), Sat 9/20 (11:30am, 12:00pm, 1:30pm, 4:15pm, 5:15pm, 6:30pm, 8:00pm, 10:00pm, 10:45pm), Sun 9/21 (11:30am, 1:15pm, 4:00pm, 5:00pm, 6:30pm, 9:00pm, 9:45pm), Mon 9/22 (11:30am, 1:00pm, 3:45pm, 6:00pm, 8:45pm, 10:00pm), Tue 9/23 (11:30am, 12:30pm, 1:00pm, 3:15pm, 3:45pm, 6:00pm, 10:00pm), Wed 9/24 (11:30am, 12:30pm, 3:15pm, 5:15pm, 6:00pm, 8:00pm, 10:00pm)
+
+    * [Lurker](https://drafthouse.com/raleigh/show/lurker): Thu 9/18 (1:00pm, 10:30pm), Fri 9/19 (10:35pm), Sat 9/20 (10:35pm), Sun 9/21 (10:35pm), Mon 9/22 (10:45pm), Tue 9/23 (10:45pm), Wed 9/24 (10:35pm)
+
+    * [Mystery Machine 9 22 2025](https://drafthouse.com/raleigh/show/mystery-machine-9-22-2025): Mon 9/22 (7:00pm)
+
+    * [Special Event Bring It On 25th Anniversary](https://drafthouse.com/raleigh/show/special-event-bring-it-on-25th-anniversary): Fri 9/19 (7:00pm), Sat 9/20 (7:00pm), Sun 9/21 (12:30pm, 7:00pm), Mon 9/22 (12:45pm, 7:00pm)
+
+    * [Special Event In The Mood For Love 25th Anniversary](https://drafthouse.com/raleigh/show/special-event-in-the-mood-for-love-25th-anniversary): Thu 9/18 (11:15am)
+
+    * [Spinal Tap Ii The End Continues](https://drafthouse.com/raleigh/show/spinal-tap-ii-the-end-continues): Thu 9/18 (12:30pm, 3:00pm, 6:15pm, 9:00pm), Fri 9/19 (1:00pm, 4:30pm, 7:15pm, 9:45pm), Sat 9/20 (12:45pm, 4:30pm, 7:15pm, 10:15pm), Sun 9/21 (1:30pm, 4:30pm, 7:15pm, 10:15pm), Mon 9/22 (1:00pm, 3:45pm, 7:15pm, 9:45pm), Tue 9/23 (1:45pm, 4:15pm, 7:15pm, 10:00pm), Wed 9/24 (1:45pm, 4:15pm, 7:00pm, 9:45pm)
+
+    * [The Conjuring Last Rites](https://drafthouse.com/raleigh/show/the-conjuring-last-rites): Thu 9/18 (12:15pm, 3:40pm, 7:00pm, 10:30pm), Fri 9/19 (12:45pm, 4:00pm, 7:15pm, 10:00pm), Sat 9/20 (12:45pm, 4:00pm, 7:15pm, 10:00pm), Sun 9/21 (12:45pm, 4:00pm, 7:15pm, 10:00pm), Mon 9/22 (12:30pm, 4:00pm, 7:15pm, 10:15pm), Tue 9/23 (12:45pm, 4:00pm, 7:15pm, 10:15pm), Wed 9/24 (12:45pm, 4:00pm, 7:15pm, 10:00pm)
+
+    * [The History Of Sound](https://drafthouse.com/raleigh/show/the-history-of-sound): Thu 9/18 (7:15pm), Fri 9/19 (3:45pm), Sat 9/20 (3:45pm), Sun 9/21 (3:30pm), Mon 9/22 (3:30pm), Tue 9/23 (3:30pm), Wed 9/24 (3:45pm)
+
+    * [The Long Walk 2025](https://drafthouse.com/raleigh/show/the-long-walk-2025): Thu 9/18 (1:00pm, 4:15pm, 7:30pm, 10:30pm), Fri 9/19 (1:30pm, 4:00pm, 7:30pm, 10:30pm), Sat 9/20 (1:15pm, 3:15pm, 6:15pm, 9:15pm), Sun 9/21 (12:30pm, 3:45pm, 6:45pm, 10:00pm), Mon 9/22 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Tue 9/23 (1:00pm, 4:30pm, 7:30pm, 10:30pm), Wed 9/24 (1:00pm, 4:30pm, 7:30pm, 10:30pm)
+
+    * [The Roses](https://drafthouse.com/raleigh/show/the-roses): Fri 9/19 (11:45am), Sat 9/20 (12:00pm), Sun 9/21 (11:45am), Mon 9/22 (1:00pm), Tue 9/23 (11:45am), Wed 9/24 (11:45am)
+
+    * [The Strangers Chapter 2](https://drafthouse.com/raleigh/show/the-strangers-chapter-2): Thu 9/25 (10:15pm)
+
+    * [Weapons](https://drafthouse.com/raleigh/show/weapons): Thu 9/18 (11:45am, 3:15pm, 6:45pm, 10:00pm), Fri 9/19 (12:30pm, 9:45pm), Sat 9/20 (9:45pm), Sun 9/21 (9:45pm), Mon 9/22 (9:45pm), Tue 9/23 (12:00pm, 7:00pm, 10:15pm), Wed 9/24 (12:30pm, 7:00pm, 10:15pm)
+
 ### Mon 9/15 9:31am
 * New movies: Mitski: The Land
 
