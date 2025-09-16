@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 9/16 10:18am
+* New movies: Depeche Mode: M
+
+* New screenings: 
+    * [Depeche Mode M](https://drafthouse.com/los-angeles/show/depeche-mode-m): Tue 10/28 (7:00pm), Wed 10/29 (7:20pm), Thu 10/30 (7:20pm)
+
 ### Mon 9/15 7:57pm
 * New movies: The History of Sound, Adulthood
 
