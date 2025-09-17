@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 9/16 11:32pm
+* New movies: Perfect Blue Subtitled
+
+* New screenings: 
+    * [Special Event Perfect Blue Subtitled Remastered](https://drafthouse.com/raleigh/show/special-event-perfect-blue-subtitled-remastered): Fri 10/3 (9:45pm), Sun 10/5 (9:45pm)
+
 ### Tue 9/16 9:33am
 * New movies: A Big Bold Beautiful Journey, The History of Sound, Mystery Machine 9/22/2025
 
