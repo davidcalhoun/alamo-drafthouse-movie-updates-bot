@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Wed 9/17 10:25am
+* New movies: The Smashing Machine, Guest Selects: CLOSER, Guest Selects: WHO’S AFRAID OF VIRGINIA WOOLF?
+
+* New screenings: 
+    * [Guest Selects Closer](https://drafthouse.com/raleigh/show/guest-selects-closer): Mon 10/6 (6:30pm)
+
+    * [Guest Selects Whos Afraid Of Virginia Woolf](https://drafthouse.com/raleigh/show/guest-selects-whos-afraid-of-virginia-woolf): Sat 10/4 (3:15pm)
+
+    * [The Smashing Machine](https://drafthouse.com/raleigh/show/the-smashing-machine): Thu 10/2 (4:00pm, 7:15pm, 10:30pm), Fri 10/3 (11:30am, 2:45pm, 6:00pm, 9:15pm), Sat 10/4 (11:30am, 2:45pm, 6:00pm, 9:15pm), Sun 10/5 (11:30am, 2:45pm, 6:00pm, 9:15pm)
+
 ### Wed 9/17 9:32am
 * New movies: Good Boy
 
