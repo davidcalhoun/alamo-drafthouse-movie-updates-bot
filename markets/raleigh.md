@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 9/17 9:32am
+* New movies: Good Boy
+
+* New screenings: 
+    * [Good Boy](https://drafthouse.com/raleigh/show/good-boy): Thu 10/2 (10:00pm), Sat 10/4 (9:45pm)
+
 ### Tue 9/16 11:32pm
 * New movies: Perfect Blue Subtitled
 
