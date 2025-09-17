@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 9/17 6:29am
+* New movies: Good Boy, AFTER THE HUNT
+
+* New screenings: 
+    * [After The Hunt Prime Early Access Screening](https://drafthouse.com/los-angeles/show/after-the-hunt-prime-early-access-screening): Wed 10/15 (7:00pm)
+
+    * [Good Boy](https://drafthouse.com/los-angeles/show/good-boy): Fri 10/3 (9:00pm), Sat 10/4 (9:00pm), Mon 10/6 (9:00pm), Tue 10/7 (9:00pm), Wed 10/8 (9:00pm)
+
 ### Tue 9/16 6:41pm
 
 * New screenings: 
