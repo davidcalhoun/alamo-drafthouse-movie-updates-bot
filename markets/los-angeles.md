@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Wed 9/17 7:19am
+* New movies: The Smashing Machine, After the Hunt, Guest Selects: CLOSER, Guest Selects: WHO’S AFRAID OF VIRGINIA WOOLF?
+
+* New screenings: 
+    * [Guest Selects Closer](https://drafthouse.com/los-angeles/show/guest-selects-closer): Mon 10/6 (7:20pm)
+
+    * [Guest Selects Whos Afraid Of Virginia Woolf](https://drafthouse.com/los-angeles/show/guest-selects-whos-afraid-of-virginia-woolf): Sun 10/5 (11:30am)
+
+    * [The Smashing Machine](https://drafthouse.com/los-angeles/show/the-smashing-machine): Thu 10/2 (4:00pm, 7:15pm, 10:30pm), Fri 10/3 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Sat 10/4 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Sun 10/5 (12:15pm, 3:30pm, 6:45pm), Mon 10/6 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Tue 10/7 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Wed 10/8 (12:15pm, 3:30pm, 6:45pm, 10:00pm)
+
 ### Wed 9/17 6:29am
 * New movies: Good Boy, AFTER THE HUNT
 
