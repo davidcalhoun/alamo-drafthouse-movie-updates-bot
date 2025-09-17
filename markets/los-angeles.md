@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 9/16 6:41pm
+
+* New screenings: 
+    * [The Lost Bus](https://drafthouse.com/los-angeles/show/the-lost-bus): Thu 9/18 (11:00am, 4:30pm, 7:50pm)
+
 ### Tue 9/16 10:18am
 * New movies: Depeche Mode: M
 
