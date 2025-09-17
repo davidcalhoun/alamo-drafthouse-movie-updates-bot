@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Wed 9/17 3:17pm
+
+* New screenings: 
+    * [Are We Good](https://drafthouse.com/los-angeles/show/are-we-good): Fri 10/3 (10:45pm)
+
+    * [One Battle After Another](https://drafthouse.com/los-angeles/show/one-battle-after-another): Fri 10/3 (6:20pm)
+
 ### Wed 9/17 7:19am
 * New movies: The Smashing Machine, After the Hunt, Guest Selects: CLOSER, Guest Selects: WHO’S AFRAID OF VIRGINIA WOOLF?
 
