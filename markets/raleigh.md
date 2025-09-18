@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 9/18 8:52am
+* New movies: Anemone
+
+* New screenings: 
+    * [Anemone](https://drafthouse.com/raleigh/show/anemone): Fri 10/3 (7:15pm), Sat 10/4 (7:15pm), Sun 10/5 (7:15pm), Thu 10/9 (7:15pm)
+
 ### Wed 9/17 9:54pm
 * New movies: Good Boy
 
