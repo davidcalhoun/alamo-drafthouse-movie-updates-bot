@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 9/17 6:40pm
+* New movies: Good Boy
+
+* New screenings: 
+    * [Advance Screening Good Boy Early Access](https://drafthouse.com/los-angeles/show/advance-screening-good-boy-early-access): Wed 10/1 (7:00pm)
+
 ### Wed 9/17 3:17pm
 
 * New screenings: 
