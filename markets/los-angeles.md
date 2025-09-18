@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 9/18 5:44am
+* New movies: Anemone
+
+* New screenings: 
+    * [Anemone](https://drafthouse.com/los-angeles/show/anemone): Thu 10/2 (3:45pm, 7:00pm, 10:15pm), Fri 10/3 (11:45am, 3:00pm, 7:30pm, 10:15pm), Sat 10/4 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Sun 10/5 (12:30pm, 3:45pm, 7:00pm), Mon 10/6 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Tue 10/7 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Wed 10/8 (12:30pm, 3:45pm, 7:00pm, 10:15pm)
+
 ### Wed 9/17 6:40pm
 * New movies: Good Boy
 
