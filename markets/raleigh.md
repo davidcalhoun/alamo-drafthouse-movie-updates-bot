@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 9/17 9:54pm
+* New movies: Good Boy
+
+* New screenings: 
+    * [Advance Screening Good Boy Early Access](https://drafthouse.com/raleigh/show/advance-screening-good-boy-early-access): Wed 10/1 (7:30pm)
+
 ### Wed 9/17 10:25am
 * New movies: The Smashing Machine, Guest Selects: CLOSER, Guest Selects: WHO’S AFRAID OF VIRGINIA WOOLF?
 
