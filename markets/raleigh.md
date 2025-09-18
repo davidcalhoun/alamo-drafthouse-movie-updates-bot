@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 9/18 9:32am
+* New movies: After the Hunt
+
+* New screenings: 
+    * [After The Hunt](https://drafthouse.com/raleigh/show/after-the-hunt): Thu 10/16 (6:15pm), Fri 10/17 (6:15pm), Sat 10/18 (6:15pm), Sun 10/19 (6:15pm)
+
 ### Thu 9/18 8:52am
 * New movies: Anemone
 
