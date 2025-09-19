@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 9/19 2:34pm
+* New movies: TAYLOR SWIFT | THE OFFICIAL RELEASE PARTY OF A SHOWGIRL
+
+* New screenings: 
+    * [Taylor Swift The Official Release Party Of A Showgirl](https://drafthouse.com/raleigh/show/taylor-swift-the-official-release-party-of-a-showgirl): Fri 10/3 (3:30pm, 5:00pm, 7:45pm, 10:15pm), Sat 10/4 (9:45am, 12:15pm, 2:45pm, 5:15pm, 7:45pm, 10:15pm), Sun 10/5 (9:30am, 12:00pm, 2:30pm, 5:05pm, 7:45pm, 10:15pm)
+
 ### Thu 9/18 9:32am
 * New movies: After the Hunt
 
