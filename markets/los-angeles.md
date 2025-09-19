@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 9/19 11:29am
+* New movies: TAYLOR SWIFT | THE OFFICIAL RELEASE PARTY OF A SHOWGIRL
+
+* New screenings: 
+    * [Taylor Swift The Official Release Party Of A Showgirl](https://drafthouse.com/los-angeles/show/taylor-swift-the-official-release-party-of-a-showgirl): Fri 10/3 (12:00pm, 12:40pm, 1:40pm, 3:20pm, 4:20pm, 6:00pm, 6:30pm, 8:40pm, 10:10pm), Sat 10/4 (11:10am, 12:00pm, 1:50pm, 2:40pm, 4:30pm, 5:20pm, 7:10pm, 8:00pm, 9:50pm), Sun 10/5 (11:10am, 12:00pm, 1:50pm, 2:40pm, 4:30pm, 5:15pm, 6:00pm, 7:10pm, 8:35pm)
+
 ### Thu 9/18 6:29am
 * New movies: After the Hunt
 
