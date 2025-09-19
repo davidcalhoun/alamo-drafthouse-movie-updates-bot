@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 9/19 12:16pm
+
+* New screenings: 
+    * [One Battle After Another](https://drafthouse.com/los-angeles/show/one-battle-after-another): Thu 9/25 (6:00pm, 10:00pm)
+
 ### Fri 9/19 11:29am
 * New movies: TAYLOR SWIFT | THE OFFICIAL RELEASE PARTY OF A SHOWGIRL
 
