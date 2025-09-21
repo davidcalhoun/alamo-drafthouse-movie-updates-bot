@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Sun 9/21 6:23am
+* New movies: Deathstalker 2025, Deathstalker 2025
+
+* New screenings: 
+    * [Deathstalker 2025](https://drafthouse.com/los-angeles/show/deathstalker-2025): Fri 10/10 (10:00pm)
+
+    * [Fantastic Fest Presents Deathstalker 2025 W Live Q A](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-deathstalker-2025-w-live-q-a): Sat 10/11 (4:15pm, 7:30pm)
+
 ### Fri 9/19 12:16pm
 
 * New screenings: 
