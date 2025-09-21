@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Sun 9/21 9:26am
+* New movies: Deathstalker 2025
+
+* New screenings: 
+    * [Deathstalker 2025](https://drafthouse.com/raleigh/show/deathstalker-2025): Fri 10/10 (9:45pm)
+
 ### Fri 9/19 2:34pm
 * New movies: TAYLOR SWIFT | THE OFFICIAL RELEASE PARTY OF A SHOWGIRL
 
