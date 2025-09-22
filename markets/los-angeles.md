@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 9/22 3:24am
+* New movies: Good Mythical Evening: Sloshed in Space
+
+* New screenings: 
+    * [Good Mythical Evening Sloshed In Space](https://drafthouse.com/los-angeles/show/good-mythical-evening-sloshed-in-space): Thu 10/23 (6:45pm)
+
 ### Sun 9/21 6:23am
 * New movies: Deathstalker 2025, Deathstalker 2025
 
