@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 9/22 8:23am
+* New movies: Chain Reactions
+
+* New screenings: 
+    * [Chain Reactions](https://drafthouse.com/los-angeles/show/chain-reactions): Mon 10/6 (9:30pm)
+
 ### Mon 9/22 6:30am
 * New movies: Roofman
 
