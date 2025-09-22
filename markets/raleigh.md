@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 9/22 6:29am
+* New movies: Good Mythical Evening: Sloshed in Space
+
+* New screenings: 
+    * [Good Mythical Evening Sloshed In Space](https://drafthouse.com/raleigh/show/good-mythical-evening-sloshed-in-space): Thu 10/23 (9:45pm)
+
 ### Sun 9/21 9:26am
 * New movies: Deathstalker 2025
 
