@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 9/22 6:30am
+* New movies: Roofman
+
+* New screenings: 
+    * [Roofman](https://drafthouse.com/los-angeles/show/roofman): Thu 10/9 (7:00pm, 10:15pm), Fri 10/10 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Sat 10/11 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Sun 10/12 (12:30pm, 3:45pm, 7:00pm), Mon 10/13 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Tue 10/14 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Wed 10/15 (12:15pm, 3:30pm, 6:45pm, 10:00pm)
+
 ### Mon 9/22 3:24am
 * New movies: Good Mythical Evening: Sloshed in Space
 
