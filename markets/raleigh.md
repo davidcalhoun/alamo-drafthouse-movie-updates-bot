@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 9/22 11:27am
+* New movies: Chain Reactions
+
+* New screenings: 
+    * [Chain Reactions](https://drafthouse.com/raleigh/show/chain-reactions): Mon 10/6 (9:30pm)
+
 ### Mon 9/22 9:33am
 * New movies: Roofman
 
