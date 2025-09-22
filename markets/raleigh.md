@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 9/22 9:33am
+* New movies: Roofman
+
+* New screenings: 
+    * [Roofman](https://drafthouse.com/raleigh/show/roofman): Thu 10/9 (7:00pm), Fri 10/10 (7:15pm), Sat 10/11 (7:15pm), Sun 10/12 (7:15pm)
+
 ### Mon 9/22 6:29am
 * New movies: Good Mythical Evening: Sloshed in Space
 
