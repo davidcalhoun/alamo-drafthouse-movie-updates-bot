@@ -1,6 +1,54 @@
 # los-angeles
 
 ## Movie updates
+### Mon 9/22 8:31pm
+* New movies: Van Helsing
+
+* New screenings: 
+    * [A Big Bold Beautiful Journey](https://drafthouse.com/los-angeles/show/a-big-bold-beautiful-journey): Thu 9/25 (3:40pm, 6:40pm, 9:40pm), Fri 9/26 (12:40pm, 3:40pm, 6:40pm, 9:40pm), Sat 9/27 (12:40pm, 3:40pm, 6:40pm, 9:40pm), Sun 9/28 (12:40pm, 3:40pm, 6:40pm), Mon 9/29 (11:30am, 3:40pm, 6:40pm, 9:40pm), Tue 9/30 (11:30am, 3:40pm, 6:40pm, 9:40pm), Wed 10/1 (11:30am, 3:40pm, 6:40pm, 9:40pm)
+
+    * [A Room With A View 1985](https://drafthouse.com/los-angeles/show/a-room-with-a-view-1985): Sat 9/27 (2:50pm), Mon 9/29 (12:15pm), Tue 9/30 (1:00pm)
+
+    * [Caught Stealing](https://drafthouse.com/los-angeles/show/caught-stealing): Thu 9/25 (11:20am)
+
+    * [Demon Slayer Kimetsu No Yaiba Infinity Castle Dubbed](https://drafthouse.com/los-angeles/show/demon-slayer-kimetsu-no-yaiba-infinity-castle-dubbed): Thu 9/25 (11:50am, 10:00pm), Fri 9/26 (10:45am, 10:00pm), Sat 9/27 (10:45am, 10:00pm), Sun 9/28 (10:45am), Mon 9/29 (11:50am, 10:00pm), Tue 9/30 (11:50am, 10:00pm), Wed 10/1 (11:50am, 10:00pm)
+
+    * [Demon Slayer Kimetsu No Yaiba Infinity Castle Subtitled](https://drafthouse.com/los-angeles/show/demon-slayer-kimetsu-no-yaiba-infinity-castle-subtitled): Thu 9/25 (2:30pm, 6:15pm), Fri 9/26 (2:30pm, 6:15pm), Sat 9/27 (2:30pm, 6:15pm), Sun 9/28 (2:30pm, 6:15pm), Mon 9/29 (2:30pm, 6:15pm), Tue 9/30 (2:30pm, 6:20pm), Wed 10/1 (2:30pm, 6:15pm)
+
+    * [Downton Abbey The Grand Finale](https://drafthouse.com/los-angeles/show/downton-abbey-the-grand-finale): Thu 9/25 (11:00am, 2:15pm)
+
+    * [Him](https://drafthouse.com/los-angeles/show/him): Thu 9/25 (11:10am, 1:50pm, 4:40pm, 7:30pm, 11:00pm), Fri 9/26 (11:15am, 2:00pm, 4:45pm, 5:40pm, 7:30pm, 8:25pm, 10:15pm), Sat 9/27 (11:15am, 2:00pm, 4:45pm, 5:40pm, 7:30pm, 8:25pm, 10:15pm), Sun 9/28 (11:15am, 2:00pm, 4:45pm, 5:40pm, 7:30pm), Mon 9/29 (11:15am, 2:00pm, 4:45pm, 5:40pm, 7:30pm, 8:25pm, 10:50pm), Tue 9/30 (11:15am, 2:00pm, 4:45pm, 7:30pm, 8:45pm, 10:50pm), Wed 10/1 (11:15am, 2:00pm, 4:45pm, 7:30pm, 8:45pm, 10:50pm)
+
+    * [Linda Linda Linda](https://drafthouse.com/los-angeles/show/linda-linda-linda): Thu 9/25 (4:00pm)
+
+    * [Megadoc](https://drafthouse.com/los-angeles/show/megadoc): Thu 9/25 (11:00am)
+
+    * [One Battle After Another](https://drafthouse.com/los-angeles/show/one-battle-after-another): Thu 9/25 (3:15pm, 3:50pm, 5:30pm, 7:10pm, 9:25pm), Fri 9/26 (11:00am, 11:30am, 1:00pm, 3:00pm, 3:25pm, 5:00pm, 7:00pm, 9:00pm), Sat 9/27 (11:00am, 1:00pm, 3:00pm, 5:00pm, 7:00pm, 9:00pm), Sun 9/28 (11:00am, 1:30pm, 2:55pm, 5:30pm, 6:50pm), Mon 9/29 (11:00am, 1:00pm, 3:00pm, 5:00pm, 7:00pm, 9:00pm), Tue 9/30 (11:00am, 1:00pm, 3:00pm, 5:00pm, 7:00pm, 7:45pm, 9:00pm), Wed 10/1 (11:00am, 1:00pm, 3:00pm, 5:00pm, 7:00pm, 9:00pm)
+
+    * [Predators 2025](https://drafthouse.com/los-angeles/show/predators-2025): Thu 9/25 (10:10pm), Sun 9/28 (11:00am, 1:45pm, 4:30pm, 7:20pm), Mon 9/29 (11:00am, 1:45pm, 4:30pm, 6:15pm, 10:10pm), Tue 9/30 (11:15am, 2:00pm, 4:45pm, 6:00pm, 10:30pm), Wed 10/1 (11:00am, 1:40pm, 4:20pm, 6:00pm, 10:20pm)
+
+    * [Re Animator](https://drafthouse.com/los-angeles/show/re-animator): Fri 9/26 (7:20pm), Sat 9/27 (6:00pm, 9:00pm), Mon 9/29 (9:00pm), Wed 10/1 (9:25pm)
+
+    * [Spinal Tap Ii The End Continues](https://drafthouse.com/los-angeles/show/spinal-tap-ii-the-end-continues): Thu 9/25 (11:20am, 2:00pm)
+
+    * [The Baltimorons](https://drafthouse.com/los-angeles/show/the-baltimorons): Thu 9/25 (1:00pm)
+
+    * [The Conjuring Last Rites](https://drafthouse.com/los-angeles/show/the-conjuring-last-rites): Thu 9/25 (11:45am, 10:20pm), Fri 9/26 (10:50pm), Sat 9/27 (10:50pm), Mon 9/29 (10:15pm), Tue 9/30 (10:15pm), Wed 10/1 (10:15pm)
+
+    * [The History Of Sound](https://drafthouse.com/los-angeles/show/the-history-of-sound): Thu 9/25 (11:10am), Fri 9/26 (11:00am), Sat 9/27 (11:00am), Sun 9/28 (11:00am), Mon 9/29 (11:00am), Tue 9/30 (11:20am), Wed 10/1 (11:20am)
+
+    * [The Long Walk 2025](https://drafthouse.com/los-angeles/show/the-long-walk-2025): Thu 9/25 (12:50pm, 3:50pm, 6:50pm, 9:50pm), Fri 9/26 (12:50pm, 3:50pm, 6:50pm, 9:50pm), Sat 9/27 (12:50pm, 3:50pm, 6:50pm, 9:50pm), Sun 9/28 (12:50pm, 3:50pm, 6:50pm), Mon 9/29 (12:50pm, 3:50pm, 6:50pm, 9:50pm), Tue 9/30 (12:50pm, 3:50pm, 6:50pm, 9:50pm), Wed 10/1 (12:50pm, 3:50pm, 6:50pm, 9:50pm)
+
+    * [The Lost Bus](https://drafthouse.com/los-angeles/show/the-lost-bus): Thu 9/25 (11:00am, 2:20pm, 5:40pm, 9:00pm), Fri 9/26 (2:20pm), Sat 9/27 (2:20pm), Sun 9/28 (2:20pm), Mon 9/29 (2:20pm), Tue 9/30 (2:40pm), Wed 10/1 (2:40pm)
+
+    * [The Strangers Chapter 2](https://drafthouse.com/los-angeles/show/the-strangers-chapter-2): Sun 9/28 (11:10am, 2:00pm, 4:50pm, 7:45pm), Mon 9/29 (11:25am)
+
+    * [Van Helsing](https://drafthouse.com/los-angeles/show/van-helsing): Sun 9/28 (6:00pm), Tue 9/30 (10:20pm), Wed 10/1 (12:45pm)
+
+    * [Wes Cravens New Nightmare](https://drafthouse.com/los-angeles/show/wes-cravens-new-nightmare): Thu 9/25 (1:00pm)
+
+    * [World Of Animation The Girl Who Leapt Through Time Subtitled In 4k](https://drafthouse.com/los-angeles/show/world-of-animation-the-girl-who-leapt-through-time-subtitled-in-4k): Sun 9/28 (10:40am), Mon 9/29 (3:25pm), Tue 9/30 (4:10pm)
+
 ### Mon 9/22 8:23am
 * New movies: Chain Reactions
 
