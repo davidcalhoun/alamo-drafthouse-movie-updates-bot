@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 9/23 3:22am
+* New movies: Plastic Guns
+
+
+
 ### Mon 9/22 8:31pm
 * New movies: Van Helsing
 
