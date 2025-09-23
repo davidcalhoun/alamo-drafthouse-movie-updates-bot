@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 9/23 9:27am
+
+* New screenings: 
+    * [Megadoc](https://drafthouse.com/los-angeles/show/megadoc): Thu 9/25 (10:10pm)
+
 ### Tue 9/23 3:22am
 * New movies: Plastic Guns
 
