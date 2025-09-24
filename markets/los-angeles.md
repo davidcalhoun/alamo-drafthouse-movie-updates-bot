@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 9/24 1:24pm
+
+* New screenings: 
+    * [One Battle After Another](https://drafthouse.com/los-angeles/show/one-battle-after-another): Sun 9/28 (5:45pm)
+
 ### Wed 9/24 2:23am
 * New movies: Demons 2
 
