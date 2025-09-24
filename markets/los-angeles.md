@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 9/23 9:25pm
+* New movies: The Beyond 1981
+
+* New screenings: 
+    * [The Beyond](https://drafthouse.com/los-angeles/show/the-beyond): Wed 10/29 (7:00pm)
+
 ### Tue 9/23 9:27am
 
 * New screenings: 
