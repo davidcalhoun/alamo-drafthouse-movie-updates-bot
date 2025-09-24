@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 9/24 2:23am
+* New movies: Demons 2
+
+* New screenings: 
+    * [Demons 2](https://drafthouse.com/los-angeles/show/demons-2): Wed 10/22 (8:30pm)
+
 ### Tue 9/23 9:25pm
 * New movies: The Beyond 1981
 
