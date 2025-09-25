@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 9/25 10:18am
+* New movies: The Life of Chuck
+
+* New screenings: 
+    * [Special Event The Life Of Chuck Featuring Bonus Conversation](https://drafthouse.com/los-angeles/show/special-event-the-life-of-chuck-featuring-bonus-conversation): Wed 10/1 (4:10pm)
+
 ### Thu 9/25 2:23am
 * New movies: 100 Meters Subtitled, 100 Meters Dubbed
 
