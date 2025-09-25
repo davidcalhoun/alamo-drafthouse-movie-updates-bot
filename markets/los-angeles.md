@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 9/25 2:23am
+* New movies: 100 Meters Subtitled, 100 Meters Dubbed
+
+* New screenings: 
+    * [100 Meters Dubbed](https://drafthouse.com/los-angeles/show/100-meters-dubbed): Mon 10/13 (4:25pm)
+
+    * [100 Meters Subtitled](https://drafthouse.com/los-angeles/show/100-meters-subtitled): Sun 10/12 (2:00pm), Tue 10/14 (7:20pm)
+
 ### Wed 9/24 1:24pm
 
 * New screenings: 
