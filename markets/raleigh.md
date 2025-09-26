@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 9/26 9:32am
+* New movies: Mystery Machine 10/6/2025
+
+* New screenings: 
+    * [Mystery Machine 10 6 2025](https://drafthouse.com/raleigh/show/mystery-machine-10-6-2025): Mon 10/6 (7:00pm)
+
 ### Mon 9/22 6:24pm
 * New movies: Gabby's Dollhouse: The Movie, Harry Potter and the Deathly Hallows: Part 2
 
