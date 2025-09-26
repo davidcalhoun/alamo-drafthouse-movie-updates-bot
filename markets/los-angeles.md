@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 9/26 6:29am
+* New movies: Mystery Machine 10/6/2025
+
+* New screenings: 
+    * [Mystery Machine 10 6 2025](https://drafthouse.com/los-angeles/show/mystery-machine-10-6-2025): Mon 10/6 (7:00pm)
+
 ### Thu 9/25 10:18am
 * New movies: The Life of Chuck
 
