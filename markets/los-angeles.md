@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Fri 9/26 2:17pm
+* New movies: Springsteen: Deliver Me From Nowhere, Regretting You, After the Hunt
+
+* New screenings: 
+    * [Advance Screening After The Hunt Prime Early Access Screening](https://drafthouse.com/los-angeles/show/advance-screening-after-the-hunt-prime-early-access-screening): Wed 10/15 (7:00pm)
+
+    * [Regretting You](https://drafthouse.com/los-angeles/show/regretting-you): Thu 10/23 (6:00pm, 9:15pm), Fri 10/24 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Sat 10/25 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Sun 10/26 (12:00pm, 3:15pm, 6:30pm), Mon 10/27 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Tue 10/28 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Wed 10/29 (12:00pm, 3:15pm, 6:30pm, 9:45pm)
+
+    * [Springsteen Deliver Me From Nowhere](https://drafthouse.com/los-angeles/show/springsteen-deliver-me-from-nowhere): Thu 10/23 (3:50pm, 7:00pm, 10:10pm), Fri 10/24 (12:40pm, 3:50pm, 7:00pm, 10:10pm), Sat 10/25 (12:40pm, 3:50pm, 7:00pm, 10:10pm), Sun 10/26 (12:40pm, 3:50pm, 7:00pm), Mon 10/27 (12:40pm, 3:50pm, 7:00pm, 10:10pm), Tue 10/28 (11:40am, 2:50pm, 6:00pm, 9:10pm), Wed 10/29 (11:40am, 2:50pm, 6:00pm, 9:10pm)
+
 ### Fri 9/26 6:29am
 * New movies: Mystery Machine 10/6/2025
 
