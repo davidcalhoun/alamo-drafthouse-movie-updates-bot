@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 9/26 5:20pm
+* New movies: After the Hunt
+
+* New screenings: 
+    * [Advance Screening After The Hunt Prime Early Access Screening](https://drafthouse.com/raleigh/show/advance-screening-after-the-hunt-prime-early-access-screening): Wed 10/15 (7:00pm)
+
 ### Fri 9/26 9:32am
 * New movies: Mystery Machine 10/6/2025
 
