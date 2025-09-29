@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Mon 9/29 9:34am
+* New movies: Springsteen: Deliver Me From Nowhere, Regretting You
+
+* New screenings: 
+    * [Regretting You](https://drafthouse.com/raleigh/show/regretting-you): Thu 10/23 (9:00pm), Fri 10/24 (6:15pm), Sat 10/25 (6:15pm), Sun 10/26 (6:15pm)
+
+    * [Springsteen Deliver Me From Nowhere](https://drafthouse.com/raleigh/show/springsteen-deliver-me-from-nowhere): Thu 10/23 (6:00pm), Fri 10/24 (7:00pm), Sat 10/25 (7:00pm), Sun 10/26 (7:00pm)
+
 ### Fri 9/26 5:20pm
 * New movies: After the Hunt
 
