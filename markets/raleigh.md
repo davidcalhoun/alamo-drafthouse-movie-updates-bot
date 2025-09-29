@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 9/29 4:24pm
+* New movies: Heightened Scrutiny
+
+* New screenings: 
+    * [Heightened Scrutiny](https://drafthouse.com/raleigh/show/heightened-scrutiny): Thu 10/9 (6:30pm)
+
 ### Mon 9/29 9:34am
 * New movies: Springsteen: Deliver Me From Nowhere, Regretting You
 
