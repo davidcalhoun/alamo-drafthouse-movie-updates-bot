@@ -1,6 +1,58 @@
 # raleigh
 
 ## Movie updates
+### Mon 9/29 7:22pm
+* New movies: The Student Nurses, A Room with a View 1985
+
+* New screenings: 
+    * [A Big Bold Beautiful Journey](https://drafthouse.com/raleigh/show/a-big-bold-beautiful-journey): Thu 10/2 (1:00pm, 1:30pm)
+
+    * [A Room With A View 1985](https://drafthouse.com/raleigh/show/a-room-with-a-view-1985): Thu 10/2 (3:30pm)
+
+    * [Anemone](https://drafthouse.com/raleigh/show/anemone): Thu 10/2 (4:00pm, 7:15pm, 10:30pm), Fri 10/3 (12:30pm, 3:45pm, 10:30pm), Sat 10/4 (9:30am, 12:45pm, 4:00pm, 10:30pm), Sun 10/5 (9:45am, 12:55pm, 4:00pm, 10:30pm), Mon 10/6 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Tue 10/7 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Wed 10/8 (12:15pm, 3:30pm, 6:45pm, 9:55pm), Thu 10/9 (4:00pm, 10:30pm)
+
+    * [Demon Slayer Kimetsu No Yaiba Infinity Castle Dubbed](https://drafthouse.com/raleigh/show/demon-slayer-kimetsu-no-yaiba-infinity-castle-dubbed): Thu 10/2 (4:15pm), Fri 10/3 (10:00pm), Sun 10/5 (9:45pm)
+
+    * [Demon Slayer Kimetsu No Yaiba Infinity Castle Subtitled](https://drafthouse.com/raleigh/show/demon-slayer-kimetsu-no-yaiba-infinity-castle-subtitled): Thu 10/2 (12:30pm), Sat 10/4 (9:45pm), Mon 10/6 (10:00pm), Tue 10/7 (10:00pm), Wed 10/8 (10:00pm)
+
+    * [Downton Abbey The Grand Finale](https://drafthouse.com/raleigh/show/downton-abbey-the-grand-finale): Thu 10/2 (1:45pm, 5:00pm), Fri 10/3 (1:00pm), Sat 10/4 (10:30am), Sun 10/5 (10:30am), Mon 10/6 (1:30pm), Tue 10/7 (1:00pm), Wed 10/8 (1:00pm)
+
+    * [Gabbys Dollhouse The Movie](https://drafthouse.com/raleigh/show/gabbys-dollhouse-the-movie): Thu 10/2 (12:00pm, 3:00pm, 6:15pm, 9:00pm), Fri 10/3 (12:30pm, 3:15pm, 6:15pm), Sat 10/4 (9:30am, 12:15pm, 3:15pm, 6:15pm), Sun 10/5 (9:30am, 12:15pm, 3:00pm, 6:15pm), Mon 10/6 (12:45pm, 3:30pm, 6:15pm), Tue 10/7 (12:45pm, 3:30pm, 6:15pm), Wed 10/8 (12:45pm, 3:30pm, 6:15pm)
+
+    * [Goldeneye](https://drafthouse.com/raleigh/show/goldeneye): Mon 10/6 (3:15pm)
+
+    * [Good Boy](https://drafthouse.com/raleigh/show/good-boy): Fri 10/3 (9:15pm), Sun 10/5 (9:15pm), Mon 10/6 (10:45pm), Tue 10/7 (10:30pm), Wed 10/8 (10:30pm)
+
+    * [Guest Selects Closer](https://drafthouse.com/raleigh/show/guest-selects-closer): Wed 10/8 (10:45pm)
+
+    * [Guest Selects Whos Afraid Of Virginia Woolf](https://drafthouse.com/raleigh/show/guest-selects-whos-afraid-of-virginia-woolf): Mon 10/6 (4:45pm), Tue 10/7 (4:30pm), Wed 10/8 (4:30pm)
+
+    * [Him](https://drafthouse.com/raleigh/show/him): Fri 10/3 (9:00pm), Sat 10/4 (9:00pm), Sun 10/5 (9:00pm), Mon 10/6 (9:00pm), Tue 10/7 (9:00pm), Wed 10/8 (9:00pm)
+
+    * [One Battle After Another](https://drafthouse.com/raleigh/show/one-battle-after-another): Thu 10/2 (12:00pm, 1:30pm, 2:15pm, 5:15pm, 6:00pm, 8:00pm, 9:15pm, 9:45pm), Fri 10/3 (11:45am, 1:15pm, 1:15pm, 2:00pm, 3:30pm, 5:00pm, 7:15pm, 9:00pm), Sat 10/4 (10:00am, 11:15am, 1:00pm, 1:45pm, 3:00pm, 5:00pm, 6:45pm, 9:15pm), Sun 10/5 (10:00am, 11:15am, 1:00pm, 1:45pm, 3:15pm, 5:00pm, 7:00pm, 9:15pm), Mon 10/6 (11:45am, 1:45pm, 2:15pm, 2:45pm, 3:45pm, 5:30pm, 7:30pm, 9:30pm, 10:15pm), Tue 10/7 (11:45am, 1:45pm, 2:15pm, 2:45pm, 3:45pm, 5:30pm, 7:00pm, 7:30pm, 9:30pm), Wed 10/8 (11:45am, 12:00pm, 1:45pm, 2:45pm, 3:45pm, 5:30pm, 7:00pm, 7:30pm, 9:30pm)
+
+    * [Predators 2025](https://drafthouse.com/raleigh/show/predators-2025): Sun 10/5 (10:15am), Mon 10/6 (6:30pm), Tue 10/7 (6:30pm), Wed 10/8 (6:30pm)
+
+    * [Re Animator](https://drafthouse.com/raleigh/show/re-animator): Thu 10/2 (10:45pm)
+
+    * [Roofman](https://drafthouse.com/raleigh/show/roofman): Thu 10/9 (10:15pm)
+
+    * [Special Event Perfect Blue Subtitled Remastered](https://drafthouse.com/raleigh/show/special-event-perfect-blue-subtitled-remastered): Sat 10/4 (9:15pm), Mon 10/6 (8:00pm), Tue 10/7 (8:00pm), Wed 10/8 (12:15pm, 8:00pm)
+
+    * [Taylor Swift The Official Release Party Of A Showgirl](https://drafthouse.com/raleigh/show/taylor-swift-the-official-release-party-of-a-showgirl): Fri 10/3 (4:15pm, 5:45pm, 6:45pm, 8:15pm), Sat 10/4 (10:15am, 12:45pm, 1:45pm, 4:15pm, 5:30pm, 6:45pm, 8:00pm), Sun 10/5 (1:45pm, 3:45pm, 4:15pm, 5:30pm, 6:30pm, 6:45pm, 8:00pm)
+
+    * [The Conjuring Last Rites](https://drafthouse.com/raleigh/show/the-conjuring-last-rites): Thu 10/2 (3:15pm, 6:30pm)
+
+    * [The Long Walk 2025](https://drafthouse.com/raleigh/show/the-long-walk-2025): Thu 10/2 (12:15pm), Fri 10/3 (12:45pm, 4:00pm, 7:00pm, 10:45pm), Sat 10/4 (9:45am, 12:45pm, 3:45pm, 6:45pm, 10:30pm), Sun 10/5 (9:45am, 12:45pm, 3:45pm, 6:45pm, 10:30pm), Mon 10/6 (1:00pm, 4:00pm, 7:00pm, 9:15pm), Tue 10/7 (1:00pm, 4:00pm, 7:00pm, 9:15pm), Wed 10/8 (1:00pm, 4:00pm, 7:00pm, 9:15pm)
+
+    * [The Smashing Machine](https://drafthouse.com/raleigh/show/the-smashing-machine): Thu 10/2 (4:30pm, 6:45pm, 7:40pm, 8:15pm, 10:00pm), Fri 10/3 (12:15pm), Sun 10/5 (12:30pm), Mon 10/6 (11:30am, 12:00pm, 12:30pm, 3:45pm, 6:00pm, 9:15pm), Tue 10/7 (11:30am, 12:00pm, 12:30pm, 3:15pm, 3:45pm, 6:00pm, 9:15pm), Wed 10/8 (11:30am, 12:30pm, 2:45pm, 3:45pm, 6:00pm, 9:15pm)
+
+    * [The Strangers Chapter 2](https://drafthouse.com/raleigh/show/the-strangers-chapter-2): Thu 10/2 (2:00pm, 4:45pm, 7:30pm, 10:15pm), Fri 10/3 (1:30pm, 4:45pm, 7:45pm, 10:45pm), Sat 10/4 (11:30am, 2:15pm, 5:00pm, 8:00pm, 10:45pm), Sun 10/5 (11:30am, 2:15pm, 5:00pm, 8:00pm, 10:45pm), Mon 10/6 (1:30pm, 4:45pm, 7:45pm, 10:30pm), Tue 10/7 (1:30pm, 4:45pm, 7:45pm, 10:30pm), Wed 10/8 (1:35pm, 4:45pm, 7:45pm, 10:30pm)
+
+    * [The Student Nurses](https://drafthouse.com/raleigh/show/the-student-nurses): Thu 10/2 (12:45pm)
+
+    * [Tron Ares](https://drafthouse.com/raleigh/show/tron-ares): Thu 10/9 (2:45pm, 9:15pm)
+
 ### Mon 9/29 4:24pm
 * New movies: Heightened Scrutiny
 
