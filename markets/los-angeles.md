@@ -1,6 +1,40 @@
 # los-angeles
 
 ## Movie updates
+### Tue 9/30 8:19am
+* New movies: Private Event
+
+* New screenings: 
+    * [A Big Bold Beautiful Journey](https://drafthouse.com/los-angeles/show/a-big-bold-beautiful-journey): Thu 10/2 (11:00am)
+
+    * [Demon Slayer Kimetsu No Yaiba Infinity Castle Subtitled](https://drafthouse.com/los-angeles/show/demon-slayer-kimetsu-no-yaiba-infinity-castle-subtitled): Thu 10/2 (12:00pm, 2:00pm)
+
+    * [Good Boy](https://drafthouse.com/los-angeles/show/good-boy): Thu 10/2 (9:00pm)
+
+    * [Him](https://drafthouse.com/los-angeles/show/him): Thu 10/2 (11:15am, 2:00pm, 4:45pm, 7:30pm, 9:45pm, 10:40pm)
+
+    * [One Battle After Another](https://drafthouse.com/los-angeles/show/one-battle-after-another): Thu 10/2 (11:00am, 11:30am, 12:30pm, 2:55pm, 3:25pm, 4:25pm, 6:45pm, 7:15pm, 8:15pm, 9:00pm, 9:45pm)
+
+    * [Predators 2025](https://drafthouse.com/los-angeles/show/predators-2025): Thu 10/2 (11:30am, 2:15pm)
+
+    * [Private Event](https://drafthouse.com/los-angeles/show/private-event): Thu 10/2 (11:00am, 11:30am, 12:00pm, 12:30pm, 1:00pm, 1:30pm)
+
+    * [The Conjuring Last Rites](https://drafthouse.com/los-angeles/show/the-conjuring-last-rites): Thu 10/2 (10:15pm)
+
+    * [The History Of Sound](https://drafthouse.com/los-angeles/show/the-history-of-sound): Thu 10/2 (12:40pm)
+
+    * [The Long Walk 2025](https://drafthouse.com/los-angeles/show/the-long-walk-2025): Thu 10/2 (12:10pm, 3:10pm, 6:10pm, 9:10pm)
+
+    * [The Lost Bus](https://drafthouse.com/los-angeles/show/the-lost-bus): Thu 10/2 (11:50am)
+
+    * [The Smashing Machine](https://drafthouse.com/los-angeles/show/the-smashing-machine): Thu 10/2 (3:15pm, 5:00pm, 5:45pm, 6:30pm, 6:30pm, 8:15pm)
+
+    * [The Strangers Chapter 2](https://drafthouse.com/los-angeles/show/the-strangers-chapter-2): Thu 10/2 (3:00pm, 6:00pm)
+
+    * [Van Helsing](https://drafthouse.com/los-angeles/show/van-helsing): Thu 10/2 (3:10pm)
+
+    * [World Of Animation The Girl Who Leapt Through Time Subtitled In 4k](https://drafthouse.com/los-angeles/show/world-of-animation-the-girl-who-leapt-through-time-subtitled-in-4k): Thu 10/2 (12:20pm)
+
 ### Tue 9/30 7:20am
 
 * New screenings: 
