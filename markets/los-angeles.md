@@ -1,6 +1,35 @@
 # los-angeles
 
 ## Movie updates
+### Tue 9/30 7:20am
+
+* New screenings: 
+    * [Are We Good](https://drafthouse.com/los-angeles/show/are-we-good): Sat 10/4 (10:40pm)
+
+    * [Goldeneye](https://drafthouse.com/los-angeles/show/goldeneye): Mon 10/6 (12:35pm), Tue 10/7 (10:20pm), Wed 10/8 (12:30pm)
+
+    * [Good Boy](https://drafthouse.com/los-angeles/show/good-boy): Fri 10/3 (6:35pm), Sun 10/5 (7:35pm), Mon 10/6 (10:20pm), Wed 10/8 (8:00pm)
+
+    * [Guest Selects Closer](https://drafthouse.com/los-angeles/show/guest-selects-closer): Mon 10/6 (3:50pm), Wed 10/8 (10:25pm)
+
+    * [Guest Selects Whos Afraid Of Virginia Woolf](https://drafthouse.com/los-angeles/show/guest-selects-whos-afraid-of-virginia-woolf): Tue 10/7 (12:50pm), Wed 10/8 (10:10pm)
+
+    * [Him](https://drafthouse.com/los-angeles/show/him): Fri 10/3 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Sat 10/4 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Sun 10/5 (11:30am, 2:15pm, 5:00pm, 7:45pm), Mon 10/6 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Tue 10/7 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Wed 10/8 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm)
+
+    * [One Battle After Another](https://drafthouse.com/los-angeles/show/one-battle-after-another): Fri 10/3 (11:30am, 1:00pm, 2:40pm, 4:55pm, 8:45pm, 9:10pm), Sat 10/4 (10:45am, 1:00pm, 2:40pm, 4:55pm, 5:10pm, 6:30pm, 8:45pm, 9:40pm), Sun 10/5 (10:40am, 11:25am, 11:50am, 2:35pm, 3:20pm, 3:45pm, 6:25pm, 7:10pm), Mon 10/6 (11:10am, 12:15pm, 12:45pm, 2:25pm, 3:05pm, 4:10pm, 6:15pm, 8:00pm, 8:30pm, 9:30pm), Tue 10/7 (11:00am, 12:15pm, 1:50pm, 2:10pm, 2:45pm, 4:10pm, 6:00pm, 6:30pm, 8:00pm, 8:40pm, 9:20pm, 9:50pm), Wed 10/8 (11:00am, 12:15pm, 1:50pm, 2:10pm, 2:45pm, 4:10pm, 6:00pm, 6:30pm, 8:00pm, 9:20pm, 9:50pm)
+
+    * [Predators 2025](https://drafthouse.com/los-angeles/show/predators-2025): Fri 10/3 (11:20am), Sat 10/4 (3:00pm), Sun 10/5 (2:45pm), Mon 10/6 (11:40am), Tue 10/7 (11:25am, 12:50pm), Wed 10/8 (11:25am, 12:10pm)
+
+    * [Special Event Perfect Blue Subtitled Remastered](https://drafthouse.com/los-angeles/show/special-event-perfect-blue-subtitled-remastered): Fri 10/3 (11:00pm), Sat 10/4 (9:00pm, 10:20pm), Mon 10/6 (4:45pm, 6:50pm, 10:15pm), Tue 10/7 (3:35pm, 6:10pm, 10:20pm), Wed 10/8 (2:55pm, 5:30pm, 10:20pm)
+
+    * [Taylor Swift The Official Release Party Of A Showgirl](https://drafthouse.com/los-angeles/show/taylor-swift-the-official-release-party-of-a-showgirl): Fri 10/3 (12:15pm, 2:10pm, 2:55pm, 4:50pm, 5:35pm, 7:30pm, 8:15pm), Sat 10/4 (11:00am, 1:40pm, 4:20pm, 7:00pm), Sun 10/5 (5:25pm, 8:00pm)
+
+    * [The Long Walk 2025](https://drafthouse.com/los-angeles/show/the-long-walk-2025): Fri 10/3 (12:20pm, 6:10pm), Sat 10/4 (12:10pm, 6:00pm), Sun 10/5 (12:10pm, 6:00pm), Mon 10/6 (12:40pm, 6:30pm), Tue 10/7 (12:30pm, 6:20pm), Wed 10/8 (12:30pm, 6:20pm)
+
+    * [The Smashing Machine](https://drafthouse.com/los-angeles/show/the-smashing-machine): Fri 10/3 (3:25pm), Sat 10/4 (10:40am, 1:55pm, 5:45pm), Sun 10/5 (11:30am, 2:50pm), Mon 10/6 (11:15am, 2:00pm, 2:30pm, 5:15pm, 5:45pm), Tue 10/7 (11:15am, 2:30pm, 4:10pm, 5:45pm), Wed 10/8 (11:15am, 2:30pm, 3:50pm, 5:45pm)
+
+    * [The Strangers Chapter 2](https://drafthouse.com/los-angeles/show/the-strangers-chapter-2): Fri 10/3 (11:00am, 3:20pm, 9:10pm), Sat 10/4 (3:10pm, 9:00pm), Sun 10/5 (3:10pm), Mon 10/6 (11:10am, 3:40pm, 10:05pm), Tue 10/7 (11:00am, 3:30pm, 5:40pm, 8:30pm), Wed 10/8 (11:00am, 3:30pm, 5:40pm, 8:30pm)
+
 ### Fri 9/26 2:17pm
 * New movies: Springsteen: Deliver Me From Nowhere, Regretting You, After the Hunt
 
