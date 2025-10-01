@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/1 1:24pm
+
+* New screenings: 
+    * [Deathstalker 2025](https://drafthouse.com/los-angeles/show/deathstalker-2025): Sat 10/11 (4:15pm, 7:30pm)
+
 ### Wed 10/1 9:27am
 * New movies: F*** My Son!
 
