@@ -1,6 +1,22 @@
 # los-angeles
 
 ## Movie updates
+### Tue 9/30 9:25pm
+* New movies: Good Fortune, Black Phone 2, Guest Selects: A MATTER OF LIFE AND DEATH, Guest Selects: KILLER OF SHEEP, Guest Selects: LA HAINE, Guest Selects: SULLIVAN’S TRAVELS
+
+* New screenings: 
+    * [Black Phone 2](https://drafthouse.com/los-angeles/show/black-phone-2): Thu 10/16 (3:40pm, 6:45pm, 9:50pm), Fri 10/17 (12:35pm, 3:40pm, 6:45pm, 9:50pm), Sat 10/18 (12:35pm, 3:40pm, 6:45pm, 9:50pm), Sun 10/19 (12:35pm, 3:40pm, 6:45pm), Mon 10/20 (12:35pm, 3:40pm, 6:45pm, 9:50pm), Tue 10/21 (12:35pm, 3:40pm, 6:45pm, 9:50pm), Wed 10/22 (12:35pm, 3:40pm, 6:45pm, 9:50pm)
+
+    * [Good Fortune](https://drafthouse.com/los-angeles/show/good-fortune): Thu 10/16 (2:10pm, 5:00pm, 7:50pm, 10:40pm), Fri 10/17 (11:10am, 2:00pm, 4:50pm, 7:40pm, 10:30pm), Sat 10/18 (11:10am, 2:00pm, 4:50pm, 7:40pm, 10:30pm), Sun 10/19 (11:10am, 2:00pm, 4:50pm, 7:40pm), Mon 10/20 (11:10am, 2:00pm, 4:50pm, 7:40pm, 10:30pm), Tue 10/21 (11:10am, 2:00pm, 4:50pm, 7:40pm, 10:30pm), Wed 10/22 (11:10am, 2:00pm, 4:50pm, 7:40pm, 10:30pm)
+
+    * [Guest Selects A Matter Of Life And Death](https://drafthouse.com/los-angeles/show/guest-selects-a-matter-of-life-and-death): Sun 10/12 (1:45pm)
+
+    * [Guest Selects Killer Of Sheep](https://drafthouse.com/los-angeles/show/guest-selects-killer-of-sheep): Sat 10/11 (1:40pm)
+
+    * [Guest Selects La Haine](https://drafthouse.com/los-angeles/show/guest-selects-la-haine): Sun 10/12 (11:00am)
+
+    * [Guest Selects Sullivans Travels](https://drafthouse.com/los-angeles/show/guest-selects-sullivans-travels): Tue 10/14 (6:00pm)
+
 ### Tue 9/30 6:53pm
 * New movies: F*** My Son!
 
