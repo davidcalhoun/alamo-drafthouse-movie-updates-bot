@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/1 12:21am
+
+* New screenings: 
+    * [The Craft](https://drafthouse.com/los-angeles/show/the-craft): Fri 10/10 (4:30pm)
+
 ### Tue 9/30 11:33pm
 * New movies: Don't Torture a Duckling
 
