@@ -1,6 +1,20 @@
 # raleigh
 
 ## Movie updates
+### Wed 10/1 12:31am
+* New movies: Black Phone 2, Good Fortune, Guest Selects: A MATTER OF LIFE AND DEATH, Guest Selects: KILLER OF SHEEP, Guest Selects: SULLIVAN’S TRAVELS
+
+* New screenings: 
+    * [Black Phone 2](https://drafthouse.com/raleigh/show/black-phone-2): Thu 10/16 (7:00pm), Fri 10/17 (7:00pm), Sat 10/18 (7:00pm), Sun 10/19 (6:00pm)
+
+    * [Good Fortune](https://drafthouse.com/raleigh/show/good-fortune): Thu 10/16 (7:15pm), Fri 10/17 (7:15pm), Sat 10/18 (7:15pm), Sun 10/19 (7:15pm)
+
+    * [Guest Selects A Matter Of Life And Death](https://drafthouse.com/raleigh/show/guest-selects-a-matter-of-life-and-death): Tue 10/14 (6:30pm)
+
+    * [Guest Selects Killer Of Sheep](https://drafthouse.com/raleigh/show/guest-selects-killer-of-sheep): Fri 10/10 (4:00pm)
+
+    * [Guest Selects Sullivans Travels](https://drafthouse.com/raleigh/show/guest-selects-sullivans-travels): Sun 10/12 (12:00pm)
+
 ### Mon 9/29 7:22pm
 * New movies: The Student Nurses, A Room with a View 1985
 
