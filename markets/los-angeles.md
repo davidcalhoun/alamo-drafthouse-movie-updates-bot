@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 9/30 11:33pm
+* New movies: Don't Torture a Duckling
+
+* New screenings: 
+    * [Dont Torture A Duckling](https://drafthouse.com/los-angeles/show/dont-torture-a-duckling): Wed 10/15 (7:20pm)
+
 ### Tue 9/30 9:25pm
 * New movies: Good Fortune, Black Phone 2, Guest Selects: A MATTER OF LIFE AND DEATH, Guest Selects: KILLER OF SHEEP, Guest Selects: LA HAINE, Guest Selects: SULLIVAN’S TRAVELS
 
