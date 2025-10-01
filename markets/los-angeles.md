@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 9/30 6:53pm
+* New movies: F*** My Son!
+
+* New screenings: 
+    * [F My Son](https://drafthouse.com/los-angeles/show/f-my-son): Fri 10/24 (10:35pm), Sat 10/25 (10:35pm)
+
 ### Tue 9/30 8:19am
 * New movies: Private Event
 
