@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/1 9:27am
+* New movies: F*** My Son!
+
+* New screenings: 
+    * [Fantastic Fest Presents F My Son](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-f-my-son): Thu 10/23 (10:15pm), Fri 10/24 (7:30pm), Sat 10/25 (7:30pm)
+
 ### Wed 10/1 12:21am
 
 * New screenings: 
