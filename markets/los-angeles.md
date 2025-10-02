@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 10/2 11:30am
+* New movies: THE ICE TOWER
+
+* New screenings: 
+    * [The Ice Tower](https://drafthouse.com/los-angeles/show/the-ice-tower): Fri 10/10 (9:15pm), Sat 10/11 (10:20pm)
+
 ### Wed 10/1 1:24pm
 
 * New screenings: 
