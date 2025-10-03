@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 10/3 1:27am
+
+* New screenings: 
+    * [Taylor Swift The Official Release Party Of A Showgirl](https://drafthouse.com/los-angeles/show/taylor-swift-the-official-release-party-of-a-showgirl): Fri 10/3 (1:20pm, 4:00pm, 10:10pm)
+
 ### Thu 10/2 11:30am
 * New movies: THE ICE TOWER
 
