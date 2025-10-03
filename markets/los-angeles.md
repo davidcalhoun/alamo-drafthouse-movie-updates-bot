@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 10/3 6:27am
+* New movies: The Hand That Rocks the Cradle 2025
+
+* New screenings: 
+    * [Fantastic Fest Presents The Hand That Rocks The Cradle 2025 Free Victory Screening W Live Q A](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-the-hand-that-rocks-the-cradle-2025-free-victory-screening-w-live-q-a): Thu 10/16 (7:30pm)
+
 ### Fri 10/3 1:27am
 
 * New screenings: 
