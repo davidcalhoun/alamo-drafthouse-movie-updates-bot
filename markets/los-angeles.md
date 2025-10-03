@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 10/3 2:17pm
+
+* New screenings: 
+    * [Are We Good](https://drafthouse.com/los-angeles/show/are-we-good): Fri 10/3 (7:00pm)
+
 ### Fri 10/3 6:27am
 * New movies: The Hand That Rocks the Cradle 2025
 
