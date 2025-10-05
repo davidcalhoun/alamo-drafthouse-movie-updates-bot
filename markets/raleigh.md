@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Sun 10/5 10:21am
+* New movies: Frankenstein 2025
+
+* New screenings: 
+    * [Free Victory Screening Frankenstein 2025](https://drafthouse.com/raleigh/show/free-victory-screening-frankenstein-2025): Wed 10/15 (6:30pm)
+
 ### Wed 10/1 12:31am
 * New movies: Black Phone 2, Good Fortune, Guest Selects: A MATTER OF LIFE AND DEATH, Guest Selects: KILLER OF SHEEP, Guest Selects: SULLIVAN’S TRAVELS
 
