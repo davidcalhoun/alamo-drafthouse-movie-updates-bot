@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 10/6 7:21am
+* New movies: BUGONIA in 35mm, PERFECT BLUE SUBTITLED Remastered, Fantastic Fest Presents: F*** MY SON! with Live Q&A, ST. ELMO’S FIRE, BACK TO THE FUTURE: 40TH ANNIVERSARY, MARY J. BLIGE: FOR MY FANS, THE MUMMY 1999, WWW.RACHELORMONT.COM, BUGONIA with Livestream Q&A, CREEPSHOW 1982, Dark Visions: DAY OF THE DEAD 1985 40th Anniversary, Fantastic Fest Presents: THE HAND THAT ROCKS THE CRADLE 2025 Free Victory Screening w/Live Q&A, Killer Cuts: LIFEFORCE The International Cut, Killer Cuts: NIGHT OF THE LIVING DEAD 1990 Director’s Cut, Open Caption: BLACK PHONE 2, Open Caption: BUGONIA, Open Caption: GOOD FORTUNE, Open Caption: REGRETTING YOU, Open Caption: ROOFMAN, Open Caption: SPRINGSTEEN: DELIVER ME FROM NOWHERE, Open Caption: THE SMASHING MACHINE, Open Caption: TRON: ARES, SCREAM 1996, THE BEYOND 1981
+
+* New screenings: 
+    * [St. Elmos Fire](https://drafthouse.com/los-angeles/show/st.-elmos-fire): Sun 10/19 (2:00pm), Tue 10/21 (4:20pm), Wed 10/22 (4:00pm)
+
 ### Mon 10/6 6:30am
 * New movies: Bugonia, Mary J. Blige: For My Fans
 
