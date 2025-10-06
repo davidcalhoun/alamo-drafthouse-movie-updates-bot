@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 10/6 11:26am
+* New movies: Perfect Blue Subtitled, Frankenstein 2025, Bugonia, Back to the Future: 40th Anniversary, Creepshow 1982, Scream 1996, The Mummy 1999, St. Elmo's Fire, Mary J. Blige: For My Fans, Lifeforce, Night of the Living Dead 1990, WWW.RACHELORMONT.COM, Day of the Dead 1985
+
+
+
 ### Mon 10/6 10:27am
 * New movies: PERFECT BLUE SUBTITLED Remastered, ST. ELMO’S FIRE, MARY J. BLIGE: FOR MY FANS, WWW.RACHELORMONT.COM, BACK TO THE FUTURE: 40TH ANNIVERSARY, BUGONIA with Livestream Q&A, CREEPSHOW 1982, Dark Visions: FRANKENSTEIN 2025 Free Victory Screening, Dark Visions: DAY OF THE DEAD 1985 40th Anniversary, Killer Cuts: LIFEFORCE The International Cut, Killer Cuts: NIGHT OF THE LIVING DEAD 1990 Director’s Cut, SCREAM 1996, BRIDE OF RE-ANIMATOR, THE BEYOND 1981, THE MUMMY 1999
 
