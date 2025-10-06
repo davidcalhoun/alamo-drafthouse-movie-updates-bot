@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 10/6 6:30am
+* New movies: Bugonia, Mary J. Blige: For My Fans
+
+* New screenings: 
+    * [Mary J Blige For My Fans](https://drafthouse.com/los-angeles/show/mary-j-blige-for-my-fans): Wed 11/5 (6:00pm), Sat 11/8 (3:00pm)
+
 ### Mon 10/6 5:47am
 * New movies: Bugonia, BUGONIA with Livestream Q&A
 
