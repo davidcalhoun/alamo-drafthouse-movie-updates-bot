@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 10/6 8:54am
+* New movies: Bugonia
+
+* New screenings: 
+    * [Bugonia](https://drafthouse.com/raleigh/show/bugonia): Thu 10/30 (6:00pm), Fri 10/31 (6:00pm), Sat 11/1 (6:00pm), Sun 11/2 (6:00pm)
+
 ### Sun 10/5 10:21am
 * New movies: Frankenstein 2025
 
