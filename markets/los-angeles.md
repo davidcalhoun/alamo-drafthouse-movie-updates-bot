@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 10/6 9:27am
+* New movies: Perfect Blue Subtitled, F*** My Son!, Back to the Future: 40th Anniversary, The Mummy 1999, The Hand That Rocks the Cradle 2025, Bugonia, Creepshow 1982, Scream 1996, St. Elmo's Fire, Mary J. Blige: For My Fans, Lifeforce, Night of the Living Dead 1990, WWW.RACHELORMONT.COM, Day of the Dead 1985, The Beyond 1981
+
+
+
 ### Mon 10/6 7:21am
 * New movies: BUGONIA in 35mm, PERFECT BLUE SUBTITLED Remastered, Fantastic Fest Presents: F*** MY SON! with Live Q&A, ST. ELMO’S FIRE, BACK TO THE FUTURE: 40TH ANNIVERSARY, MARY J. BLIGE: FOR MY FANS, THE MUMMY 1999, WWW.RACHELORMONT.COM, BUGONIA with Livestream Q&A, CREEPSHOW 1982, Dark Visions: DAY OF THE DEAD 1985 40th Anniversary, Fantastic Fest Presents: THE HAND THAT ROCKS THE CRADLE 2025 Free Victory Screening w/Live Q&A, Killer Cuts: LIFEFORCE The International Cut, Killer Cuts: NIGHT OF THE LIVING DEAD 1990 Director’s Cut, Open Caption: BLACK PHONE 2, Open Caption: BUGONIA, Open Caption: GOOD FORTUNE, Open Caption: REGRETTING YOU, Open Caption: ROOFMAN, Open Caption: SPRINGSTEEN: DELIVER ME FROM NOWHERE, Open Caption: THE SMASHING MACHINE, Open Caption: TRON: ARES, SCREAM 1996, THE BEYOND 1981
 
