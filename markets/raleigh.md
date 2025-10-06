@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Mon 10/6 10:27am
+* New movies: PERFECT BLUE SUBTITLED Remastered, ST. ELMO’S FIRE, MARY J. BLIGE: FOR MY FANS, WWW.RACHELORMONT.COM, BACK TO THE FUTURE: 40TH ANNIVERSARY, BUGONIA with Livestream Q&A, CREEPSHOW 1982, Dark Visions: FRANKENSTEIN 2025 Free Victory Screening, Dark Visions: DAY OF THE DEAD 1985 40th Anniversary, Killer Cuts: LIFEFORCE The International Cut, Killer Cuts: NIGHT OF THE LIVING DEAD 1990 Director’s Cut, SCREAM 1996, BRIDE OF RE-ANIMATOR, THE BEYOND 1981, THE MUMMY 1999
+
+* New screenings: 
+    * [Bugonia With Livestream Qa](https://drafthouse.com/raleigh/show/bugonia-with-livestream-qa): Sun 10/19 (6:00pm)
+
+    * [St. Elmos Fire](https://drafthouse.com/raleigh/show/st.-elmos-fire): Sun 10/19 (3:30pm), Tue 10/21 (3:30pm), Wed 10/22 (4:00pm)
+
 ### Mon 10/6 9:34am
 * New movies: Mary J. Blige: For My Fans
 
