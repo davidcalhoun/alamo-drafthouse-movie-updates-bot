@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 10/6 9:34am
+* New movies: Mary J. Blige: For My Fans
+
+* New screenings: 
+    * [Mary J Blige For My Fans](https://drafthouse.com/raleigh/show/mary-j-blige-for-my-fans): Wed 11/5 (6:30pm), Sat 11/8 (3:30pm)
+
 ### Mon 10/6 8:54am
 * New movies: Bugonia
 
