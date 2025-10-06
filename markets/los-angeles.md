@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Mon 10/6 5:47am
+* New movies: Bugonia, BUGONIA with Livestream Q&A
+
+* New screenings: 
+    * [Bugonia](https://drafthouse.com/los-angeles/show/bugonia): Thu 10/23 (4:00pm, 7:10pm, 10:20pm), Fri 10/24 (12:50pm, 4:00pm, 7:10pm, 10:20pm), Sat 10/25 (12:50pm, 4:00pm, 7:10pm, 10:20pm), Sun 10/26 (12:50pm, 4:00pm, 7:10pm), Mon 10/27 (12:50pm, 4:00pm, 7:10pm, 10:20pm), Tue 10/28 (12:50pm, 4:00pm, 7:10pm, 10:20pm), Wed 10/29 (12:50pm, 4:00pm, 7:10pm, 10:20pm)
+
+    * [Bugonia With Livestream Qa](https://drafthouse.com/los-angeles/show/bugonia-with-livestream-qa): Sun 10/19 (3:00pm)
+
 ### Fri 10/3 2:17pm
 
 * New screenings: 
