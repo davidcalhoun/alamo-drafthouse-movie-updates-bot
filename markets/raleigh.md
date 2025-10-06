@@ -1,6 +1,54 @@
 # raleigh
 
 ## Movie updates
+### Mon 10/6 7:22pm
+* New movies: Orwell: 2+2=5, The Ice Tower, Demon Slayer: Kimetsu No Yaiba Infinity Castle Dubbed, THE MUMMY 1999
+
+* New screenings: 
+    * [Anemone](https://drafthouse.com/raleigh/show/anemone): Fri 10/10 (12:15pm), Sat 10/11 (11:15am), Sun 10/12 (12:00pm), Mon 10/13 (11:45am), Tue 10/14 (12:15pm), Wed 10/15 (12:00pm)
+
+    * [Deathstalker 2025](https://drafthouse.com/raleigh/show/deathstalker-2025): Sun 10/12 (8:00pm), Tue 10/14 (10:15pm)
+
+    * [Demon Slayer Kimetsu No Yaiba Infinity Castle Dubbed](https://drafthouse.com/raleigh/show/demon-slayer-kimetsu-no-yaiba-infinity-castle-dubbed): Thu 10/9 (9:45pm), Mon 10/13 (9:15pm), Wed 10/15 (9:00pm)
+
+    * [Demon Slayer Kimetsu No Yaiba Infinity Castle Subtitled](https://drafthouse.com/raleigh/show/demon-slayer-kimetsu-no-yaiba-infinity-castle-subtitled): Fri 10/10 (10:00pm), Tue 10/14 (9:15pm)
+
+    * [Downton Abbey The Grand Finale](https://drafthouse.com/raleigh/show/downton-abbey-the-grand-finale): Thu 10/9 (12:45pm)
+
+    * [Gabbys Dollhouse The Movie](https://drafthouse.com/raleigh/show/gabbys-dollhouse-the-movie): Thu 10/9 (1:30pm, 3:15pm, 6:15pm), Fri 10/10 (11:15am, 3:00pm, 6:15pm), Sat 10/11 (12:15pm, 3:15pm, 6:00pm), Sun 10/12 (12:45pm, 3:30pm, 6:15pm), Mon 10/13 (12:15pm, 3:15pm, 6:15pm), Tue 10/14 (12:00pm, 3:00pm, 6:15pm), Wed 10/15 (11:45am, 2:45pm, 6:00pm)
+
+    * [Goldeneye](https://drafthouse.com/raleigh/show/goldeneye): Thu 10/9 (12:15pm)
+
+    * [Good Boy](https://drafthouse.com/raleigh/show/good-boy): Thu 10/9 (2:15pm, 10:40pm), Fri 10/10 (11:15pm), Sat 10/11 (9:00pm), Sun 10/12 (10:45pm), Mon 10/13 (9:00pm), Tue 10/14 (10:30pm), Wed 10/15 (10:45pm)
+
+    * [Him](https://drafthouse.com/raleigh/show/him): Thu 10/9 (10:45pm), Fri 10/10 (9:00pm), Sat 10/11 (10:30pm), Sun 10/12 (10:15pm), Mon 10/13 (10:00pm), Tue 10/14 (9:45pm), Wed 10/15 (10:25pm)
+
+    * [One Battle After Another](https://drafthouse.com/raleigh/show/one-battle-after-another): Thu 10/9 (11:30am, 12:30pm, 3:15pm, 4:45pm, 7:00pm, 8:30pm, 9:00pm), Fri 10/10 (12:00pm, 3:45pm, 7:30pm, 9:30pm), Sat 10/11 (12:00pm, 12:00pm, 3:45pm, 3:45pm, 7:30pm, 9:45pm), Sun 10/12 (1:15pm, 2:30pm, 3:15pm, 6:30pm, 7:30pm, 9:30pm), Mon 10/13 (12:00pm, 3:45pm, 7:30pm, 9:30pm), Tue 10/14 (12:00pm, 3:45pm, 6:30pm, 7:30pm, 9:30pm), Wed 10/15 (11:30am, 3:15pm, 6:45pm, 10:00pm)
+
+    * [Orwell 2 2 5](https://drafthouse.com/raleigh/show/orwell-2-2-5): Thu 10/9 (7:30pm), Fri 10/10 (12:00pm, 3:00pm, 6:15pm), Sat 10/11 (12:15pm, 3:15pm, 6:00pm), Sun 10/12 (12:15pm, 3:15pm, 6:15pm), Mon 10/13 (12:00pm, 3:00pm, 6:15pm), Tue 10/14 (12:00pm, 3:00pm, 6:15pm), Wed 10/15 (12:30pm, 3:30pm, 6:45pm)
+
+    * [Predators 2025](https://drafthouse.com/raleigh/show/predators-2025): Thu 10/9 (4:15pm)
+
+    * [Roofman](https://drafthouse.com/raleigh/show/roofman): Fri 10/10 (12:45pm, 3:50pm, 10:30pm), Sat 10/11 (1:00pm, 4:10pm, 10:30pm), Sun 10/12 (12:45pm, 4:00pm, 10:30pm), Mon 10/13 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Tue 10/14 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Wed 10/15 (1:30pm, 4:40pm, 7:45pm, 10:30pm)
+
+    * [Special Event Night Of The Living Dead 1990 Directors Cut](https://drafthouse.com/raleigh/show/special-event-night-of-the-living-dead-1990-directors-cut): Fri 10/10 (1:15pm), Tue 10/14 (4:45pm), Wed 10/15 (7:45pm)
+
+    * [Special Event Perfect Blue Subtitled Remastered](https://drafthouse.com/raleigh/show/special-event-perfect-blue-subtitled-remastered): Thu 10/9 (9:00pm, 10:30pm), Fri 10/10 (3:30pm, 6:45pm), Sat 10/11 (6:15pm, 7:45pm), Sun 10/12 (9:00pm), Mon 10/13 (8:00pm), Tue 10/14 (7:30pm, 8:00pm), Wed 10/15 (8:00pm, 9:45pm)
+
+    * [The Craft](https://drafthouse.com/raleigh/show/the-craft): Thu 10/9 (4:00pm), Fri 10/10 (12:00pm), Sun 10/12 (2:15pm), Tue 10/14 (3:30pm), Wed 10/15 (4:45pm)
+
+    * [The Ice Tower](https://drafthouse.com/raleigh/show/the-ice-tower): Sat 10/11 (8:45pm), Tue 10/14 (1:30pm), Wed 10/15 (1:30pm)
+
+    * [The Long Walk 2025](https://drafthouse.com/raleigh/show/the-long-walk-2025): Thu 10/9 (12:00pm), Sat 10/11 (10:15pm), Sun 10/12 (7:15pm, 10:15pm), Mon 10/13 (4:45pm), Tue 10/14 (10:00pm), Wed 10/15 (10:30pm)
+
+    * [The Mummy 1999](https://drafthouse.com/raleigh/show/the-mummy-1999): Wed 10/15 (6:30pm)
+
+    * [The Smashing Machine](https://drafthouse.com/raleigh/show/the-smashing-machine): Thu 10/9 (11:30am, 12:00pm, 3:05pm, 6:15pm, 9:30pm), Fri 10/10 (11:30am, 2:45pm, 6:00pm, 9:15pm), Sat 10/11 (11:15am, 2:45pm, 6:30pm, 10:00pm), Sun 10/12 (12:30pm, 3:45pm, 7:00pm, 10:30pm), Mon 10/13 (11:30am, 2:45pm, 6:00pm, 9:15pm), Tue 10/14 (11:30am, 2:45pm, 6:00pm, 9:15pm), Wed 10/15 (11:45am, 3:00pm, 6:15pm, 9:45pm)
+
+    * [The Strangers Chapter 2](https://drafthouse.com/raleigh/show/the-strangers-chapter-2): Thu 10/9 (1:15pm, 4:30pm), Fri 10/10 (9:15pm), Sat 10/11 (11:30am), Mon 10/13 (1:00pm), Tue 10/14 (1:00pm), Wed 10/15 (12:45pm)
+
+    * [Tron Ares](https://drafthouse.com/raleigh/show/tron-ares): Thu 10/9 (2:00pm, 3:30pm, 5:00pm, 6:45pm, 8:00pm), Fri 10/10 (11:30am, 1:00pm, 1:30pm, 2:00pm, 2:45pm, 4:00pm, 4:45pm, 5:00pm, 6:30pm, 7:00pm, 7:45pm, 8:00pm, 9:00pm), Sat 10/11 (12:30pm, 1:00pm, 2:30pm, 3:00pm, 3:30pm, 4:00pm, 5:30pm, 7:00pm, 7:30pm, 8:30pm, 9:30pm), Sun 10/12 (11:30am, 1:00pm, 1:30pm, 3:00pm, 4:00pm, 4:30pm, 5:00pm, 9:15pm), Mon 10/13 (12:30pm, 1:30pm, 1:30pm, 2:00pm, 3:00pm, 3:30pm, 3:45pm, 6:00pm, 7:00pm, 10:15pm), Tue 10/14 (11:30am, 12:30pm, 2:00pm, 2:45pm, 3:30pm, 3:45pm, 5:00pm, 6:00pm, 6:45pm, 9:00pm), Wed 10/15 (12:00pm, 1:00pm, 2:00pm, 3:00pm, 3:15pm, 3:45pm, 4:15pm, 5:00pm, 6:00pm)
+
 ### Mon 10/6 11:26am
 * New movies: Perfect Blue Subtitled, Frankenstein 2025, Bugonia, Back to the Future: 40th Anniversary, Creepshow 1982, Scream 1996, The Mummy 1999, St. Elmo's Fire, Mary J. Blige: For My Fans, Lifeforce, Night of the Living Dead 1990, WWW.RACHELORMONT.COM, Day of the Dead 1985
 
