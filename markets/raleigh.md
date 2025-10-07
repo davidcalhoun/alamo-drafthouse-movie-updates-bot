@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 10/7 11:27am
+* New movies: The Return of Godzilla
+
+* New screenings: 
+    * [Return Of Godzilla](https://drafthouse.com/raleigh/show/return-of-godzilla): Mon 11/3 (6:30pm)
+
 ### Tue 10/7 10:28am
 * New movies: Frankenstein 2025
 
