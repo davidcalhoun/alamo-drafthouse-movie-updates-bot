@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 10/7 10:28am
+* New movies: Frankenstein 2025
+
+* New screenings: 
+    * [Free Victory Screening Frankenstein 2025](https://drafthouse.com/raleigh/show/free-victory-screening-frankenstein-2025): Wed 10/15 (7:30pm)
+
 ### Mon 10/6 7:22pm
 * New movies: Orwell: 2+2=5, The Ice Tower, Demon Slayer: Kimetsu No Yaiba Infinity Castle Dubbed, THE MUMMY 1999
 
