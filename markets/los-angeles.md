@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 10/7 1:23pm
+* New movies: The Return of Godzilla
+
+* New screenings: 
+    * [Return Of Godzilla](https://drafthouse.com/los-angeles/show/return-of-godzilla): Mon 11/3 (7:00pm)
+
 ### Tue 10/7 9:27am
 * New movies: Chainsaw Man - The Movie: Reze Arc Dubbed, Chainsaw Man - The Movie: Reze Arc Subtitled
 
