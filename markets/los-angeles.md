@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 10/7 6:31am
+* New movies: Shelby Oaks
+
+* New screenings: 
+    * [Shelby Oaks](https://drafthouse.com/los-angeles/show/shelby-oaks): Thu 10/23 (7:45pm, 10:40pm), Fri 10/24 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:40pm), Sat 10/25 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:40pm), Sun 10/26 (11:00am, 1:55pm, 4:50pm, 7:45pm), Mon 10/27 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:40pm), Tue 10/28 (2:00pm, 4:50pm, 7:45pm, 10:40pm), Wed 10/29 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:40pm)
+
 ### Mon 10/6 6:41pm
 * New movies: A House of Dynamite, DARK STAR, THE MUMMY 1999
 
