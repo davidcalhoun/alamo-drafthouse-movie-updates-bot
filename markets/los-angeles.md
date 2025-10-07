@@ -1,6 +1,54 @@
 # los-angeles
 
 ## Movie updates
+### Mon 10/6 6:41pm
+* New movies: A House of Dynamite, DARK STAR, THE MUMMY 1999
+
+* New screenings: 
+    * [100 Meters Dubbed](https://drafthouse.com/los-angeles/show/100-meters-dubbed): Tue 10/14 (3:05pm), Wed 10/15 (1:45pm)
+
+    * [A House Of Dynamite](https://drafthouse.com/los-angeles/show/a-house-of-dynamite): Fri 10/10 (11:00am, 3:20pm, 6:20pm, 9:20pm), Sat 10/11 (12:25pm, 3:25pm, 6:25pm, 9:25pm), Sun 10/12 (10:45am, 1:45pm, 4:45pm, 7:45pm), Mon 10/13 (12:25pm, 3:25pm, 6:25pm, 9:25pm), Tue 10/14 (12:20pm, 3:20pm, 6:20pm, 9:20pm), Wed 10/15 (12:25pm, 3:25pm, 6:25pm, 9:25pm)
+
+    * [Anemone](https://drafthouse.com/los-angeles/show/anemone): Thu 10/9 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Fri 10/10 (11:30am, 2:50pm, 6:10pm, 9:25pm), Sat 10/11 (11:30am, 2:45pm, 6:00pm, 9:15pm), Sun 10/12 (11:10am, 2:25pm, 5:40pm), Mon 10/13 (11:30am, 2:45pm, 6:00pm, 9:15pm), Tue 10/14 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Wed 10/15 (11:30am, 2:45pm, 6:00pm, 9:15pm)
+
+    * [Are We Good](https://drafthouse.com/los-angeles/show/are-we-good): Thu 10/9 (12:10pm, 1:10pm)
+
+    * [Dark Star1](https://drafthouse.com/los-angeles/show/dark-star1): Fri 10/10 (10:30pm), Mon 10/13 (10:50pm), Tue 10/14 (10:50pm), Wed 10/15 (1:50pm, 11:00pm)
+
+    * [Deathstalker 2025](https://drafthouse.com/los-angeles/show/deathstalker-2025): Fri 10/10 (1:45pm), Sat 10/11 (10:10pm), Sun 10/12 (8:00pm), Mon 10/13 (10:00pm), Tue 10/14 (8:45pm), Wed 10/15 (4:35pm, 10:15pm)
+
+    * [Goldeneye](https://drafthouse.com/los-angeles/show/goldeneye): Thu 10/9 (12:25pm)
+
+    * [Good Boy](https://drafthouse.com/los-angeles/show/good-boy): Thu 10/9 (11:20am, 1:45pm, 4:10pm, 6:35pm, 9:00pm), Fri 10/10 (11:20am, 1:45pm, 4:10pm, 6:35pm, 9:50pm), Sat 10/11 (11:20am, 1:45pm, 4:10pm, 6:35pm, 10:00pm), Sun 10/12 (11:00am, 1:25pm, 3:50pm, 7:50pm), Mon 10/13 (11:20am, 1:45pm, 4:10pm, 6:35pm, 10:30pm), Tue 10/14 (11:20am, 1:45pm, 4:10pm, 6:35pm, 10:15pm), Wed 10/15 (11:20am, 1:45pm, 4:10pm, 6:35pm, 10:45pm)
+
+    * [Guest Selects Closer](https://drafthouse.com/los-angeles/show/guest-selects-closer): Thu 10/9 (2:00pm)
+
+    * [Guest Selects Whos Afraid Of Virginia Woolf](https://drafthouse.com/los-angeles/show/guest-selects-whos-afraid-of-virginia-woolf): Thu 10/9 (5:00pm)
+
+    * [Him](https://drafthouse.com/los-angeles/show/him): Thu 10/9 (5:30pm, 8:15pm), Fri 10/10 (5:00pm, 7:45pm), Sat 10/11 (11:20am, 5:30pm, 8:15pm), Sun 10/12 (5:30pm, 8:10pm), Mon 10/13 (11:00am, 1:40pm, 5:30pm, 8:15pm), Tue 10/14 (5:30pm, 8:15pm), Wed 10/15 (5:15pm, 8:00pm)
+
+    * [One Battle After Another](https://drafthouse.com/los-angeles/show/one-battle-after-another): Thu 10/9 (11:45am, 1:00pm, 3:40pm, 5:00pm, 7:30pm, 9:00pm), Fri 10/10 (11:20am, 12:00pm, 2:10pm, 4:00pm, 6:00pm, 8:00pm, 9:00pm), Sat 10/11 (11:00am, 2:05pm, 2:55pm, 6:00pm, 6:45pm, 9:00pm), Sun 10/12 (11:15am, 12:00pm, 3:10pm, 4:00pm, 6:20pm, 7:00pm), Mon 10/13 (11:15am, 12:00pm, 3:10pm, 3:55pm, 7:00pm, 7:45pm, 9:00pm), Tue 10/14 (11:15am, 12:00pm, 3:10pm, 3:55pm, 7:00pm, 7:45pm, 9:00pm), Wed 10/15 (11:15am, 12:00pm, 3:15pm, 3:55pm, 7:10pm, 7:45pm, 9:00pm)
+
+    * [Predators 2025](https://drafthouse.com/los-angeles/show/predators-2025): Thu 10/9 (11:15am)
+
+    * [Roofman](https://drafthouse.com/los-angeles/show/roofman): Thu 10/9 (8:15pm)
+
+    * [Special Event Perfect Blue Subtitled Remastered](https://drafthouse.com/los-angeles/show/special-event-perfect-blue-subtitled-remastered): Thu 10/9 (4:10pm, 6:40pm, 11:00pm), Fri 10/10 (4:10pm, 6:40pm), Sat 10/11 (5:00pm, 10:35pm), Sun 10/12 (4:45pm), Mon 10/13 (11:25am, 1:55pm, 4:20pm), Tue 10/14 (11:50am, 2:20pm, 4:50pm), Wed 10/15 (4:15pm, 6:45pm)
+
+    * [The Craft](https://drafthouse.com/los-angeles/show/the-craft): Fri 10/10 (11:00am), Sun 10/12 (11:15am), Tue 10/14 (12:20pm), Wed 10/15 (11:00am)
+
+    * [The Ice Tower](https://drafthouse.com/los-angeles/show/the-ice-tower): Thu 10/9 (9:15pm), Wed 10/15 (9:20pm)
+
+    * [The Long Walk 2025](https://drafthouse.com/los-angeles/show/the-long-walk-2025): Thu 10/9 (11:30am, 2:30pm), Fri 10/10 (11:00am, 2:00pm), Sat 10/11 (11:30am, 2:30pm), Sun 10/12 (11:30am, 2:30pm), Mon 10/13 (11:30am, 2:30pm), Tue 10/14 (11:30am, 2:30pm), Wed 10/15 (11:10am, 2:15pm)
+
+    * [The Mummy 1999](https://drafthouse.com/los-angeles/show/the-mummy-1999): Thu 10/9 (1:00pm), Fri 10/10 (1:00pm), Sat 10/11 (10:45am, 1:50pm), Wed 10/15 (10:45am)
+
+    * [The Smashing Machine](https://drafthouse.com/los-angeles/show/the-smashing-machine): Thu 10/9 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Fri 10/10 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Sat 10/11 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Sun 10/12 (11:30am, 2:45pm, 6:00pm), Mon 10/13 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Tue 10/14 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Wed 10/15 (12:00pm, 3:15pm, 6:30pm, 9:45pm)
+
+    * [The Strangers Chapter 2](https://drafthouse.com/los-angeles/show/the-strangers-chapter-2): Thu 10/9 (11:10am)
+
+    * [Tron Ares](https://drafthouse.com/los-angeles/show/tron-ares): Thu 10/9 (2:00pm, 3:45pm, 4:00pm, 5:15pm, 7:10pm, 8:30pm, 10:20pm), Fri 10/10 (12:40pm, 3:50pm, 7:10pm, 10:20pm), Sat 10/11 (11:00am, 2:15pm, 5:30pm, 7:00pm, 8:45pm), Sun 10/12 (11:00am, 2:15pm, 5:30pm, 7:15pm), Mon 10/13 (11:00am, 2:15pm, 5:30pm, 8:45pm), Tue 10/14 (11:00am, 2:15pm, 5:30pm, 8:45pm), Wed 10/15 (12:30pm, 3:45pm, 10:30pm)
+
 ### Mon 10/6 9:27am
 * New movies: Perfect Blue Subtitled, F*** My Son!, Back to the Future: 40th Anniversary, The Mummy 1999, The Hand That Rocks the Cradle 2025, Bugonia, Creepshow 1982, Scream 1996, St. Elmo's Fire, Mary J. Blige: For My Fans, Lifeforce, Night of the Living Dead 1990, WWW.RACHELORMONT.COM, Day of the Dead 1985, The Beyond 1981
 
