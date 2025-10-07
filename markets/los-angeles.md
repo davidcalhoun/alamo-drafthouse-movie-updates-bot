@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 10/7 8:23am
+* New movies: The Return of Godzilla
+
+* New screenings: 
+    * [Return Of Godzilla](https://drafthouse.com/los-angeles/show/return-of-godzilla): Mon 11/3 (7:00pm)
+
 ### Tue 10/7 6:31am
 * New movies: Shelby Oaks
 
