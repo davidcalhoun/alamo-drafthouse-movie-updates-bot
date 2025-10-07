@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 10/7 9:27am
+* New movies: Chainsaw Man - The Movie: Reze Arc Dubbed, Chainsaw Man - The Movie: Reze Arc Subtitled
+
+* New screenings: 
+    * [Chainsaw Man The Movie Reze Arc Dubbed](https://drafthouse.com/los-angeles/show/chainsaw-man-the-movie-reze-arc-dubbed): Thu 10/23 (4:25pm, 10:10pm), Fri 10/24 (3:25pm, 9:10pm), Sat 10/25 (12:30pm, 6:20pm), Sun 10/26 (3:25pm), Mon 10/27 (12:30pm, 6:20pm), Tue 10/28 (3:25pm, 9:10pm), Wed 10/29 (12:30pm, 6:20pm)
+
+    * [Chainsaw Man The Movie Reze Arc Subtitled](https://drafthouse.com/los-angeles/show/chainsaw-man-the-movie-reze-arc-subtitled): Thu 10/23 (7:20pm), Fri 10/24 (12:30pm, 6:20pm), Sat 10/25 (3:25pm, 9:10pm), Sun 10/26 (12:30pm, 6:20pm), Mon 10/27 (3:25pm, 9:10pm), Tue 10/28 (6:20pm), Wed 10/29 (3:25pm, 9:10pm)
+
 ### Tue 10/7 8:23am
 * New movies: The Return of Godzilla
 
