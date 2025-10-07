@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Tue 10/7 4:27pm
+* New movies: Chainsaw Man - The Movie: Reze Arc Subtitled, Chainsaw Man - The Movie: Reze Arc Dubbed, Shelby Oaks
+
+* New screenings: 
+    * [Chainsaw Man The Movie Reze Arc Dubbed](https://drafthouse.com/raleigh/show/chainsaw-man-the-movie-reze-arc-dubbed): Thu 10/23 (4:00pm), Fri 10/24 (3:00pm), Sat 10/25 (3:00pm), Sun 10/26 (3:00pm)
+
+    * [Chainsaw Man The Movie Reze Arc Subtitled](https://drafthouse.com/raleigh/show/chainsaw-man-the-movie-reze-arc-subtitled): Thu 10/23 (7:00pm, 10:00pm), Fri 10/24 (12:00pm, 6:00pm, 9:30pm), Sat 10/25 (12:00pm, 6:00pm, 9:30pm), Sun 10/26 (12:00pm, 6:00pm, 9:00pm)
+
+    * [Shelby Oaks](https://drafthouse.com/raleigh/show/shelby-oaks): Thu 10/23 (6:15pm), Fri 10/24 (7:30pm), Sat 10/25 (7:30pm), Sun 10/26 (7:30pm)
+
 ### Tue 10/7 11:27am
 * New movies: The Return of Godzilla
 
