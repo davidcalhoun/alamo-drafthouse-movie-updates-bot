@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/8 3:22am
+
+* New screenings: 
+    * [Special Event Perfect Blue Subtitled Remastered](https://drafthouse.com/los-angeles/show/special-event-perfect-blue-subtitled-remastered): Wed 10/15 (1:50pm, 11:00pm)
+
 ### Wed 10/8 2:23am
 * New movies: DARK STAR
 
