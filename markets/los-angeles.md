@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/8 3:20pm
+
+* New screenings: 
+    * [Return Of Godzilla](https://drafthouse.com/los-angeles/show/return-of-godzilla): Mon 11/3 (7:30pm)
+
 ### Wed 10/8 5:46am
 * New movies: Wicked: For Good, Wicked: For Good, Wicked + Wicked: For Good Double Feature
 
