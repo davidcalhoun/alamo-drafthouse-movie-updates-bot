@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/8 2:23am
+* New movies: DARK STAR
+
+
+
 ### Wed 10/8 1:29am
 * New movies: Dark Star
 
