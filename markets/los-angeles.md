@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/8 5:46am
+* New movies: Wicked: For Good, Wicked: For Good, Wicked + Wicked: For Good Double Feature
+
+* New screenings: 
+    * [Movie Party Wicked For Good](https://drafthouse.com/los-angeles/show/movie-party-wicked-for-good): Fri 11/21 (6:45pm), Sat 11/22 (2:15pm)
+
+    * [Wicked For Good](https://drafthouse.com/los-angeles/show/wicked-for-good): Thu 11/20 (2:15pm, 3:15pm, 5:45pm, 6:45pm, 9:15pm, 10:15pm), Fri 11/21 (10:45am, 11:45am, 2:15pm, 3:15pm, 5:45pm, 9:15pm, 10:15pm), Sat 11/22 (10:45am, 11:45am, 3:15pm, 5:45pm, 6:45pm, 9:15pm, 10:15pm), Sun 11/23 (10:45am, 11:45am, 2:15pm, 3:15pm, 5:45pm, 6:45pm), Mon 11/24 (10:45am, 11:45am, 2:15pm, 3:15pm, 5:45pm, 6:45pm, 9:15pm, 10:15pm), Tue 11/25 (11:45am, 3:15pm, 6:45pm, 10:15pm), Wed 11/26 (11:45am, 3:15pm, 6:45pm, 10:15pm), Thu 11/27 (11:45am, 3:15pm, 6:45pm, 10:15pm), Fri 11/28 (11:45am, 3:15pm, 6:45pm, 10:15pm), Sat 11/29 (11:45am, 3:15pm, 6:45pm, 10:15pm), Sun 11/30 (11:45am, 3:15pm, 6:45pm, 10:15pm)
+
+    * [Wicked Wicked For Good Double Feature](https://drafthouse.com/los-angeles/show/wicked-wicked-for-good-double-feature): Thu 11/20 (11:00am)
+
 ### Wed 10/8 3:22am
 
 * New screenings: 
