@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 10/7 6:42pm
+* New movies: Dark Star
+
+
+
 ### Tue 10/7 1:23pm
 * New movies: The Return of Godzilla
 
