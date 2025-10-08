@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Wed 10/8 8:54am
+* New movies: Wicked: For Good, Wicked: For Good, Wicked + Wicked: For Good Double Feature
+
+* New screenings: 
+    * [Movie Party Wicked For Good](https://drafthouse.com/raleigh/show/movie-party-wicked-for-good): Sat 11/22 (3:30pm), Sun 11/23 (3:30pm)
+
+    * [Wicked For Good](https://drafthouse.com/raleigh/show/wicked-for-good): Thu 11/20 (2:30pm, 6:00pm, 9:30pm), Fri 11/21 (11:00am, 2:30pm, 6:00pm, 9:30pm), Sat 11/22 (11:00am, 2:30pm, 6:00pm, 9:30pm), Sun 11/23 (11:00am, 2:30pm, 6:00pm, 9:30pm), Mon 11/24 (11:00am, 2:30pm, 6:00pm, 9:30pm), Tue 11/25 (11:00am, 2:30pm, 6:00pm, 9:30pm), Wed 11/26 (11:00am, 2:30pm, 6:00pm, 9:30pm), Thu 11/27 (11:00am, 2:30pm, 6:00pm, 9:30pm), Sat 11/29 (11:00am, 2:30pm, 6:00pm, 9:30pm), Sun 11/30 (11:00am, 2:30pm, 6:00pm, 9:30pm)
+
+    * [Wicked Wicked For Good Double Feature](https://drafthouse.com/raleigh/show/wicked-wicked-for-good-double-feature): Thu 11/20 (11:00am)
+
 ### Tue 10/7 9:55pm
 * New movies: The Beyond 1981
 
