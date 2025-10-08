@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 10/7 9:55pm
+* New movies: The Beyond 1981
+
+
+
 ### Tue 10/7 4:27pm
 * New movies: Chainsaw Man - The Movie: Reze Arc Subtitled, Chainsaw Man - The Movie: Reze Arc Dubbed, Shelby Oaks
 
