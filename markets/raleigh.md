@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 10/9 7:22pm
+* New movies: Miss Kobayashi's Dragon Maid: A lonely dragon wants to be loved
+
+* New screenings: 
+    * [Miss Kobayashis Dragon Maid A Lonely Dragon Wants To Be Loved](https://drafthouse.com/raleigh/show/miss-kobayashis-dragon-maid-a-lonely-dragon-wants-to-be-loved): Mon 10/20 (6:30pm)
+
 ### Wed 10/8 8:54am
 * New movies: Wicked: For Good, Wicked: For Good, Wicked + Wicked: For Good Double Feature
 
