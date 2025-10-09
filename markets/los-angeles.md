@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/8 6:42pm
+* New movies: Miss Kobayashi's Dragon Maid: A lonely dragon wants to be loved
+
+* New screenings: 
+    * [Miss Kobayashis Dragon Maid A Lonely Dragon Wants To Be Loved](https://drafthouse.com/los-angeles/show/miss-kobayashis-dragon-maid-a-lonely-dragon-wants-to-be-loved): Mon 10/20 (7:20pm)
+
 ### Wed 10/8 3:20pm
 
 * New screenings: 
