@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 10/9 10:20pm
+* New movies: What Happened to Dorothy Bell?
+
+* New screenings: 
+    * [What Happened To Dorothy Bell](https://drafthouse.com/los-angeles/show/what-happened-to-dorothy-bell): Fri 10/10 (10:30pm), Tue 10/14 (10:50pm)
+
 ### Wed 10/8 6:42pm
 * New movies: Miss Kobayashi's Dragon Maid: A lonely dragon wants to be loved
 
