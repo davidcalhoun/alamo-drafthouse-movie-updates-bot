@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Sat 10/11 6:22pm
+
+* New screenings: 
+    * [Wicked For Good](https://drafthouse.com/raleigh/show/wicked-for-good): Fri 11/28 (11:00am, 2:30pm, 6:00pm, 9:30pm)
+
 ### Thu 10/9 7:22pm
 * New movies: Miss Kobayashi's Dragon Maid: A lonely dragon wants to be loved
 
