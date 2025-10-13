@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 10/13 3:19pm
+
+* New screenings: 
+    * [Wicked For Good](https://drafthouse.com/raleigh/show/wicked-for-good): Thu 11/20 (5:15pm, 8:35pm), Fri 11/21 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sat 11/22 (12:00pm, 7:00pm, 10:30pm), Sun 11/23 (12:00pm, 7:00pm, 10:30pm), Mon 11/24 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Tue 11/25 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Thu 11/27 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Fri 11/28 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sat 11/29 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sun 11/30 (12:00pm, 3:30pm, 7:00pm, 10:30pm)
+
 ### Mon 10/13 9:35am
 * New movies: Predator: Badlands
 
