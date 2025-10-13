@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 10/13 6:31am
+* New movies: Predator: Badlands
+
+* New screenings: 
+    * [Predator Badlands](https://drafthouse.com/los-angeles/show/predator-badlands): Thu 11/6 (3:15pm, 6:20pm, 9:25pm), Fri 11/7 (12:10pm, 3:15pm, 6:20pm, 9:25pm), Sat 11/8 (12:10pm, 3:15pm, 6:20pm, 9:25pm), Sun 11/9 (12:10pm, 3:15pm, 6:20pm), Mon 11/10 (12:10pm, 3:15pm, 6:20pm, 9:25pm), Tue 11/11 (12:10pm, 3:15pm, 6:20pm, 9:25pm), Wed 11/12 (12:10pm, 3:15pm, 6:20pm, 9:25pm)
+
 ### Thu 10/9 10:20pm
 * New movies: What Happened to Dorothy Bell?
 
