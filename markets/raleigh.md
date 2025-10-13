@@ -1,6 +1,64 @@
 # raleigh
 
 ## Movie updates
+### Mon 10/13 5:22pm
+* New movies: A House of Dynamite
+
+* New screenings: 
+    * [A House Of Dynamite](https://drafthouse.com/raleigh/show/a-house-of-dynamite): Fri 10/17 (4:30pm, 7:30pm), Sat 10/18 (4:30pm, 7:30pm), Sun 10/19 (4:30pm, 7:30pm), Mon 10/20 (4:30pm, 7:30pm), Tue 10/21 (4:30pm, 7:30pm), Wed 10/22 (4:30pm, 7:30pm)
+
+    * [After The Hunt](https://drafthouse.com/raleigh/show/after-the-hunt): Thu 10/16 (9:45pm), Fri 10/17 (11:30am, 2:50pm, 9:45pm), Sat 10/18 (11:15am, 2:45pm, 9:45pm), Sun 10/19 (11:15am, 2:45pm, 9:45pm), Mon 10/20 (12:00pm, 3:25pm, 6:45pm, 10:30pm), Tue 10/21 (12:00pm, 3:25pm, 6:45pm, 10:30pm), Wed 10/22 (11:45am, 3:15pm, 6:45pm, 10:30pm)
+
+    * [Anemone](https://drafthouse.com/raleigh/show/anemone): Thu 10/16 (4:00pm)
+
+    * [Black Phone 2](https://drafthouse.com/raleigh/show/black-phone-2): Thu 10/16 (5:00pm, 8:00pm, 10:00pm), Fri 10/17 (1:00pm, 2:30pm, 4:00pm, 5:30pm, 8:30pm, 10:00pm), Sat 10/18 (1:00pm, 2:30pm, 4:00pm, 5:30pm, 8:30pm, 10:00pm), Sun 10/19 (12:00pm, 2:15pm, 3:00pm, 5:15pm, 8:15pm, 9:00pm), Mon 10/20 (1:00pm, 2:30pm, 4:00pm, 5:30pm, 7:00pm, 8:30pm, 10:00pm), Tue 10/21 (1:00pm, 2:30pm, 4:00pm, 5:30pm, 7:00pm, 8:30pm, 10:00pm), Wed 10/22 (1:15pm, 3:30pm, 4:30pm, 6:30pm, 9:30pm, 10:00pm)
+
+    * [Deathstalker 2025](https://drafthouse.com/raleigh/show/deathstalker-2025): Thu 10/16 (1:00pm)
+
+    * [Demon Slayer Kimetsu No Yaiba Infinity Castle Dubbed](https://drafthouse.com/raleigh/show/demon-slayer-kimetsu-no-yaiba-infinity-castle-dubbed): Thu 10/16 (10:00pm)
+
+    * [Fright Night](https://drafthouse.com/raleigh/show/fright-night): Fri 10/17 (1:30pm), Sat 10/18 (1:30pm), Sun 10/19 (1:30pm), Mon 10/20 (11:30am), Tue 10/21 (12:30pm)
+
+    * [Gabbys Dollhouse The Movie](https://drafthouse.com/raleigh/show/gabbys-dollhouse-the-movie): Thu 10/16 (12:45pm, 3:30pm), Fri 10/17 (1:15pm, 4:15pm), Sat 10/18 (1:15pm, 4:15pm), Sun 10/19 (1:15pm, 4:15pm), Mon 10/20 (1:15pm, 4:15pm), Tue 10/21 (1:15pm, 4:15pm), Wed 10/22 (1:15pm, 4:15pm)
+
+    * [Good Boy](https://drafthouse.com/raleigh/show/good-boy): Fri 10/17 (12:00pm), Sat 10/18 (12:15pm), Sun 10/19 (11:45am), Mon 10/20 (12:15pm), Tue 10/21 (12:15pm), Wed 10/22 (12:45pm)
+
+    * [Good Fortune](https://drafthouse.com/raleigh/show/good-fortune): Thu 10/16 (6:30pm, 9:45pm, 10:15pm), Fri 10/17 (1:15pm, 4:15pm, 6:30pm, 10:15pm), Sat 10/18 (1:15pm, 4:15pm, 6:30pm, 10:15pm), Sun 10/19 (1:15pm, 4:15pm, 6:30pm, 10:15pm), Mon 10/20 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Tue 10/21 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Wed 10/22 (12:00pm, 2:45pm, 6:00pm, 9:00pm)
+
+    * [Guest Selects A Matter Of Life And Death](https://drafthouse.com/raleigh/show/guest-selects-a-matter-of-life-and-death): Thu 10/16 (11:45am)
+
+    * [Mitski The Land](https://drafthouse.com/raleigh/show/mitski-the-land): Wed 10/22 (7:00pm, 9:30pm)
+
+    * [One Battle After Another](https://drafthouse.com/raleigh/show/one-battle-after-another): Thu 10/16 (11:30am, 2:45pm, 3:15pm, 6:15pm, 9:15pm), Fri 10/17 (1:30pm, 2:30pm, 5:30pm, 6:15pm, 9:15pm), Sat 10/18 (12:15pm, 2:30pm, 6:15pm, 9:15pm), Sun 10/19 (2:30pm, 6:15pm, 9:15pm), Mon 10/20 (12:30pm, 2:30pm, 2:30pm, 6:15pm, 9:45pm), Tue 10/21 (12:30pm, 2:30pm, 6:15pm, 9:45pm), Wed 10/22 (12:30pm, 2:30pm, 6:15pm, 9:45pm)
+
+    * [Orwell 2 2 5](https://drafthouse.com/raleigh/show/orwell-2-2-5): Thu 10/16 (12:00pm, 3:00pm), Fri 10/17 (11:30am), Sat 10/18 (11:30am), Sun 10/19 (11:30am), Mon 10/20 (11:30am), Tue 10/21 (11:30am), Wed 10/22 (11:30am)
+
+    * [Roofman](https://drafthouse.com/raleigh/show/roofman): Thu 10/16 (1:15pm, 4:25pm, 7:30pm, 10:45pm), Fri 10/17 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Sat 10/18 (12:30pm, 3:45pm, 7:15pm, 10:30pm), Sun 10/19 (12:30pm, 3:45pm, 7:15pm, 10:30pm), Mon 10/20 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Tue 10/21 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Wed 10/22 (12:45pm, 4:00pm, 7:15pm, 10:30pm)
+
+    * [Shelby Oaks](https://drafthouse.com/raleigh/show/shelby-oaks): Thu 10/23 (9:00pm)
+
+    * [Special Event Night Of The Living Dead 1990 Directors Cut](https://drafthouse.com/raleigh/show/special-event-night-of-the-living-dead-1990-directors-cut): Thu 10/16 (10:45pm)
+
+    * [Special Event Perfect Blue Subtitled Remastered](https://drafthouse.com/raleigh/show/special-event-perfect-blue-subtitled-remastered): Thu 10/16 (7:15pm, 8:15pm)
+
+    * [Springsteen Deliver Me From Nowhere](https://drafthouse.com/raleigh/show/springsteen-deliver-me-from-nowhere): Thu 10/23 (2:45pm, 9:15pm)
+
+    * [The Craft](https://drafthouse.com/raleigh/show/the-craft): Thu 10/16 (2:15pm), Fri 10/17 (10:15pm), Sat 10/18 (7:00pm), Sun 10/19 (10:15pm), Mon 10/20 (10:15pm), Tue 10/21 (10:15pm)
+
+    * [The Ice Tower](https://drafthouse.com/raleigh/show/the-ice-tower): Thu 10/16 (11:15am)
+
+    * [The Long Walk 2025](https://drafthouse.com/raleigh/show/the-long-walk-2025): Thu 10/16 (10:15pm), Fri 10/17 (10:45pm), Sat 10/18 (10:45pm), Sun 10/19 (10:45pm), Mon 10/20 (10:45pm), Tue 10/21 (10:45pm), Wed 10/22 (10:45pm)
+
+    * [The Mummy 1999](https://drafthouse.com/raleigh/show/the-mummy-1999): Thu 10/16 (5:00pm), Fri 10/17 (7:00pm), Sat 10/18 (10:15pm), Sun 10/19 (7:00pm), Mon 10/20 (7:00pm), Tue 10/21 (7:00pm)
+
+    * [The Smashing Machine](https://drafthouse.com/raleigh/show/the-smashing-machine): Thu 10/16 (12:15pm, 3:45pm), Fri 10/17 (12:15pm, 3:20pm, 10:00pm), Sat 10/18 (12:00pm, 3:15pm, 10:00pm), Sun 10/19 (12:00pm, 3:15pm, 10:00pm), Mon 10/20 (12:15pm, 3:20pm, 6:30pm, 10:00pm), Tue 10/21 (12:15pm, 3:20pm, 6:30pm, 10:00pm), Wed 10/22 (12:15pm, 3:20pm, 6:30pm, 10:00pm)
+
+    * [The Strangers Chapter 2](https://drafthouse.com/raleigh/show/the-strangers-chapter-2): Thu 10/16 (2:00pm)
+
+    * [Tron Ares](https://drafthouse.com/raleigh/show/tron-ares): Thu 10/16 (12:00pm, 1:00pm, 3:00pm, 4:00pm, 6:00pm, 7:00pm, 9:00pm), Fri 10/17 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 10/18 (11:45am, 3:00pm, 6:00pm, 9:00pm), Sun 10/19 (11:15am, 2:30pm, 6:30pm, 9:30pm), Mon 10/20 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Tue 10/21 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Wed 10/22 (12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
+    * [Www Rachelormont Com](https://drafthouse.com/raleigh/show/www-rachelormont-com): Sun 10/19 (10:00pm), Wed 10/22 (1:30pm)
+
 ### Mon 10/13 3:19pm
 
 * New screenings: 
