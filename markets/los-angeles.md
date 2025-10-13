@@ -1,6 +1,54 @@
 # los-angeles
 
 ## Movie updates
+### Mon 10/13 4:18pm
+* New movies: If I Had Legs I'd Kick You, Corpse Bride, Killer of Sheep
+
+* New screenings: 
+    * [A House Of Dynamite](https://drafthouse.com/los-angeles/show/a-house-of-dynamite): Thu 10/16 (12:25pm, 3:25pm, 6:25pm, 9:25pm), Fri 10/17 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 10/18 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sun 10/19 (11:15am, 2:20pm, 5:20pm), Mon 10/20 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Tue 10/21 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Wed 10/22 (12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
+    * [After The Hunt](https://drafthouse.com/los-angeles/show/after-the-hunt): Thu 10/16 (4:00pm)
+
+    * [Anemone](https://drafthouse.com/los-angeles/show/anemone): Thu 10/16 (12:25pm, 3:40pm)
+
+    * [Black Phone 2](https://drafthouse.com/los-angeles/show/black-phone-2): Thu 10/16 (5:30pm, 8:40pm), Fri 10/17 (2:00pm, 6:15pm, 7:30pm), Sat 10/18 (5:20pm, 7:10pm, 8:30pm), Sun 10/19 (2:00pm, 5:00pm, 6:15pm, 7:30pm), Mon 10/20 (2:00pm, 5:50pm, 7:30pm, 9:00pm), Tue 10/21 (2:05pm, 4:30pm), Wed 10/22 (2:00pm)
+
+    * [Deathstalker 2025](https://drafthouse.com/los-angeles/show/deathstalker-2025): Thu 10/16 (1:15pm), Sat 10/18 (11:00am), Sun 10/19 (12:10pm)
+
+    * [Fright Night](https://drafthouse.com/los-angeles/show/fright-night): Fri 10/17 (12:50pm, 4:15pm), Sat 10/18 (11:15am, 4:15pm), Mon 10/20 (12:25pm), Tue 10/21 (1:30pm), Wed 10/22 (12:25pm)
+
+    * [Good Boy](https://drafthouse.com/los-angeles/show/good-boy): Thu 10/16 (11:30am, 2:00pm, 4:30pm, 10:50pm), Fri 10/17 (11:30am, 5:00pm, 10:30pm), Sat 10/18 (12:10pm, 6:50pm, 9:15pm), Sun 10/19 (11:30am, 5:00pm), Mon 10/20 (11:30am, 5:00pm, 10:35pm), Tue 10/21 (11:45am, 5:00pm), Wed 10/22 (11:30am, 5:00pm, 10:30pm)
+
+    * [Good Fortune](https://drafthouse.com/los-angeles/show/good-fortune): Thu 10/16 (6:00pm), Fri 10/17 (7:10pm)
+
+    * [Guest Selects Killer Of Sheep](https://drafthouse.com/los-angeles/show/guest-selects-killer-of-sheep): Thu 10/16 (11:30am)
+
+    * [Him](https://drafthouse.com/los-angeles/show/him): Thu 10/16 (1:00pm)
+
+    * [If I Had Legs Id Kick You](https://drafthouse.com/los-angeles/show/if-i-had-legs-id-kick-you): Thu 10/16 (7:00pm, 10:10pm), Fri 10/17 (1:10pm, 4:15pm, 7:20pm, 10:25pm), Sat 10/18 (1:00pm, 4:05pm, 7:10pm, 10:15pm), Sun 10/19 (12:20pm, 3:25pm, 6:30pm), Mon 10/20 (1:00pm, 4:05pm, 7:10pm, 10:15pm), Tue 10/21 (1:00pm, 4:05pm, 7:10pm, 10:15pm), Wed 10/22 (1:00pm, 4:05pm, 7:10pm, 10:15pm)
+
+    * [Mitski The Land](https://drafthouse.com/los-angeles/show/mitski-the-land): Wed 10/22 (10:10pm, 11:10pm)
+
+    * [One Battle After Another](https://drafthouse.com/los-angeles/show/one-battle-after-another): Thu 10/16 (11:15am, 3:15pm, 7:10pm, 9:00pm), Fri 10/17 (12:15pm, 2:35pm, 6:30pm, 10:15pm), Sat 10/18 (11:00am, 2:25pm, 6:15pm, 10:00pm), Sun 10/19 (11:10am, 2:55pm, 6:45pm), Mon 10/20 (11:10am, 3:00pm, 6:50pm, 10:40pm), Tue 10/21 (11:00am, 2:55pm, 6:45pm, 10:30pm), Wed 10/22 (11:00am, 2:55pm, 6:45pm, 10:30pm)
+
+    * [Roofman](https://drafthouse.com/los-angeles/show/roofman): Thu 10/16 (7:00pm, 10:15pm), Fri 10/17 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Sat 10/18 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Sun 10/19 (11:30am, 2:35pm, 6:00pm), Mon 10/20 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Tue 10/21 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Wed 10/22 (12:30pm, 3:45pm, 7:00pm, 10:15pm)
+
+    * [Special Event Corpse Bride 20th Anniversary](https://drafthouse.com/los-angeles/show/special-event-corpse-bride-20th-anniversary): Fri 10/17 (12:00pm), Mon 10/20 (11:40am), Tue 10/21 (11:15am)
+
+    * [Special Event Perfect Blue Subtitled Remastered](https://drafthouse.com/los-angeles/show/special-event-perfect-blue-subtitled-remastered): Thu 10/16 (11:40am, 3:00pm, 11:00pm), Fri 10/17 (3:45pm), Sat 10/18 (1:45pm), Sun 10/19 (8:00pm), Mon 10/20 (3:20pm, 4:50pm, 10:15pm), Tue 10/21 (1:50pm, 10:30pm), Wed 10/22 (1:30pm)
+
+    * [St Elmos Fire](https://drafthouse.com/los-angeles/show/st-elmos-fire): Sat 10/18 (2:15pm)
+
+    * [The Long Walk 2025](https://drafthouse.com/los-angeles/show/the-long-walk-2025): Thu 10/16 (11:50am, 2:50pm)
+
+    * [The Mummy 1999](https://drafthouse.com/los-angeles/show/the-mummy-1999): Thu 10/16 (11:50am)
+
+    * [The Smashing Machine](https://drafthouse.com/los-angeles/show/the-smashing-machine): Thu 10/16 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Fri 10/17 (11:45am, 3:00pm, 6:15pm, 9:30pm), Sat 10/18 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Sun 10/19 (11:30am, 2:45pm, 5:40pm), Mon 10/20 (11:45am, 3:00pm, 6:15pm, 9:30pm), Tue 10/21 (11:50am, 3:05pm, 6:20pm, 9:35pm), Wed 10/22 (12:00pm, 3:15pm, 7:15pm, 10:00pm)
+
+    * [Tron Ares](https://drafthouse.com/los-angeles/show/tron-ares): Fri 10/17 (11:50am, 3:00pm, 6:10pm, 9:20pm), Sat 10/18 (11:15am, 3:00pm, 6:10pm, 9:20pm), Sun 10/19 (11:50am, 3:00pm, 6:10pm), Mon 10/20 (12:10pm, 3:20pm, 6:30pm, 9:40pm), Tue 10/21 (11:50am, 3:00pm, 6:10pm, 9:20pm), Wed 10/22 (11:50am, 3:00pm, 6:10pm, 9:20pm)
+
+    * [Www Rachelormont Com](https://drafthouse.com/los-angeles/show/www-rachelormont-com): Mon 10/20 (2:15pm), Tue 10/21 (11:00am), Wed 10/22 (3:25pm)
+
 ### Mon 10/13 6:31am
 * New movies: Predator: Badlands
 
