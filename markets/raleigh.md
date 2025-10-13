@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 10/13 9:35am
+* New movies: Predator: Badlands
+
+* New screenings: 
+    * [Predator Badlands](https://drafthouse.com/raleigh/show/predator-badlands): Thu 11/6 (7:00pm), Fri 11/7 (7:00pm), Sat 11/8 (7:00pm), Sun 11/9 (7:00pm)
+
 ### Sat 10/11 6:22pm
 
 * New screenings: 
