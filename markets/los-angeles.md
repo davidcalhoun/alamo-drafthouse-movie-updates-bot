@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Tue 10/14 4:19pm
+* New movies: Rabbit Trap, The Workout, Chainsaws Were Singing
+
+* New screenings: 
+    * [Back To The Future 40th Anniversary](https://drafthouse.com/los-angeles/show/back-to-the-future-40th-anniversary): Sat 11/1 (5:20pm)
+
+    * [Chainsaws Were Singing](https://drafthouse.com/los-angeles/show/chainsaws-were-singing): Mon 11/10 (10:30pm)
+
+    * [Fantastic Fest Presents The Workout](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-the-workout): Thu 10/23 (7:30pm)
+
+    * [Live Q A Rabbit Trap](https://drafthouse.com/los-angeles/show/live-q-a-rabbit-trap): Mon 11/10 (7:30pm), Tue 11/11 (7:30pm)
+
 ### Mon 10/13 4:18pm
 * New movies: If I Had Legs I'd Kick You, Corpse Bride, Killer of Sheep
 
