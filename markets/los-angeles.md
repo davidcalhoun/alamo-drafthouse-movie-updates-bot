@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 10/14 6:46pm
+* New movies: Dead
+
+* New screenings: 
+    * [Dead](https://drafthouse.com/los-angeles/show/dead): Fri 11/14 (7:20pm), Sat 11/15 (7:20pm), Sun 11/16 (11:25am)
+
+    * [Wicked For Good](https://drafthouse.com/los-angeles/show/wicked-for-good): Thu 11/20 (4:00pm, 5:20pm, 8:45pm), Fri 11/21 (12:15pm, 3:45pm, 7:15pm), Sat 11/22 (12:15pm, 3:45pm, 7:15pm), Sun 11/23 (12:15pm, 3:45pm, 7:15pm)
+
 ### Tue 10/14 4:19pm
 * New movies: Rabbit Trap, The Workout, Chainsaws Were Singing
 
