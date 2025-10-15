@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/15 8:21am
+* New movies: Angel's Egg Dubbed, Angel's Egg Subtitled
+
+* New screenings: 
+    * [Angels Egg Dubbed](https://drafthouse.com/los-angeles/show/angels-egg-dubbed): Wed 11/19 (7:30pm), Thu 11/20 (9:50pm)
+
+    * [Angels Egg Subtitled](https://drafthouse.com/los-angeles/show/angels-egg-subtitled): Wed 11/19 (10:10pm), Thu 11/20 (7:30pm)
+
 ### Wed 10/15 5:48am
 * New movies: Wicked Re-Release
 
