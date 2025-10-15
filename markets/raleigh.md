@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 10/15 8:56am
+* New movies: Wicked Re-Release
+
+* New screenings: 
+    * [Wicked Re Release](https://drafthouse.com/raleigh/show/wicked-re-release): Fri 11/14 (11:00am, 2:45pm), Sat 11/15 (11:00am, 2:45pm), Sun 11/16 (11:00am, 2:45pm)
+
 ### Mon 10/13 5:22pm
 * New movies: A House of Dynamite
 
