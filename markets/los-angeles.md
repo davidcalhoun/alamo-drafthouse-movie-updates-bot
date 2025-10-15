@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/15 5:48am
+* New movies: Wicked Re-Release
+
+* New screenings: 
+    * [Wicked Re Release](https://drafthouse.com/los-angeles/show/wicked-re-release): Fri 11/14 (11:30am, 3:25pm), Sat 11/15 (11:30am, 3:25pm), Sun 11/16 (2:10pm, 6:00pm)
+
 ### Tue 10/14 6:46pm
 * New movies: Dead
 
