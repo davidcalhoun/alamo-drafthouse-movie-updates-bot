@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Thu 10/16 4:18am
+* New movies: Elf, National Lampoon's Christmas Vacation, BRAZIL: THE DIRECTOR’S CUT, LITTLE WOMEN 2019
+
+* New screenings: 
+    * [Brazil The Directors Cut](https://drafthouse.com/los-angeles/show/brazil-the-directors-cut): Mon 12/1 (9:30pm)
+
+    * [Little Women 2019](https://drafthouse.com/los-angeles/show/little-women-2019): Mon 12/1 (6:00pm)
+
+    * [Movie Party Elf](https://drafthouse.com/los-angeles/show/movie-party-elf): Sun 11/30 (12:00pm)
+
+    * [Movie Party National Lampoons Christmas Vacation](https://drafthouse.com/los-angeles/show/movie-party-national-lampoons-christmas-vacation): Wed 12/3 (7:20pm)
+
 ### Wed 10/15 8:21am
 * New movies: Angel's Egg Dubbed, Angel's Egg Subtitled
 
