@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 10/16 3:19pm
+* New movies: Frankenstein 2025
+
+* New screenings: 
+    * [Frankenstein 2025](https://drafthouse.com/raleigh/show/frankenstein-2025): Fri 10/31 (7:00pm), Sat 11/1 (7:00pm, 10:30pm), Sun 11/2 (7:00pm)
+
 ### Wed 10/15 8:56am
 * New movies: Wicked Re-Release
 
