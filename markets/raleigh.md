@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 10/17 2:34pm
+* New movies: The Descent
+
+* New screenings: 
+    * [Terror Tuesday The Descent](https://drafthouse.com/raleigh/show/terror-tuesday-the-descent): Tue 11/11 (9:30pm)
+
 ### Thu 10/16 3:19pm
 * New movies: Frankenstein 2025
 
