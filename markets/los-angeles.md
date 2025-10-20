@@ -1,6 +1,51 @@
 # los-angeles
 
 ## Movie updates
+### Mon 10/20 3:19pm
+
+* New screenings: 
+    * [28 Days Later](https://drafthouse.com/los-angeles/show/28-days-later): Sat 10/25 (11:00pm), Mon 10/27 (4:20pm), Tue 10/28 (4:00pm), Wed 10/29 (12:00pm)
+
+    * [A House Of Dynamite](https://drafthouse.com/los-angeles/show/a-house-of-dynamite): Thu 10/23 (12:45pm)
+
+    * [After The Hunt](https://drafthouse.com/los-angeles/show/after-the-hunt): Thu 10/23 (11:35am, 3:10pm, 6:45pm, 10:15pm), Fri 10/24 (12:00pm, 3:30pm, 6:00pm, 10:10pm), Sat 10/25 (11:40am, 3:10pm, 6:40pm, 10:10pm), Sun 10/26 (11:40am, 3:10pm, 6:40pm), Mon 10/27 (11:40am, 3:10pm, 6:40pm, 10:10pm), Tue 10/28 (3:15pm, 6:45pm, 10:15pm), Wed 10/29 (11:40am, 3:10pm, 6:45pm, 10:15pm)
+
+    * [Black Phone 2](https://drafthouse.com/los-angeles/show/black-phone-2): Thu 10/23 (11:00am, 2:50pm, 4:30pm, 6:00pm, 10:35pm), Fri 10/24 (11:00am, 2:05pm, 4:35pm, 7:40pm, 10:45pm), Sat 10/25 (12:25pm, 2:05pm, 4:35pm, 7:40pm, 10:45pm), Sun 10/26 (10:45am, 2:05pm, 4:35pm, 7:40pm), Mon 10/27 (11:00am, 2:05pm, 4:35pm, 7:40pm, 10:45pm), Tue 10/28 (2:00pm, 4:35pm, 7:35pm, 10:40pm), Wed 10/29 (11:00am, 2:05pm, 4:35pm, 7:35pm, 10:40pm)
+
+    * [Bugonia](https://drafthouse.com/los-angeles/show/bugonia): Thu 10/23 (2:00pm, 2:50pm, 3:30pm), Fri 10/24 (11:35am, 2:45pm), Sat 10/25 (11:00am, 2:45pm), Sun 10/26 (3:00pm, 4:40pm), Mon 10/27 (11:40am, 5:45pm)
+
+    * [Chainsaw Man The Movie Reze Arc Subtitled](https://drafthouse.com/los-angeles/show/chainsaw-man-the-movie-reze-arc-subtitled): Fri 10/24 (4:40pm)
+
+    * [F My Son](https://drafthouse.com/los-angeles/show/f-my-son): Sun 10/26 (7:50pm), Mon 10/27 (10:10pm), Tue 10/28 (9:50pm), Wed 10/29 (10:10pm)
+
+    * [Fantastic Fest Presents F My Son](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-f-my-son): Thu 10/23 (7:30pm), Fri 10/24 (7:00pm, 10:35pm), Sat 10/25 (10:35pm)
+
+    * [Fantastic Fest Presents The Workout](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-the-workout): Thu 10/23 (10:30pm)
+
+    * [Fleischer Halloween Party](https://drafthouse.com/los-angeles/show/fleischer-halloween-party): Fri 10/24 (11:15am), Sat 10/25 (11:30am), Mon 10/27 (1:50pm), Tue 10/28 (2:10pm), Wed 10/29 (4:55pm)
+
+    * [Good Boy](https://drafthouse.com/los-angeles/show/good-boy): Thu 10/23 (11:35am, 2:00pm)
+
+    * [Good Fortune](https://drafthouse.com/los-angeles/show/good-fortune): Thu 10/23 (11:00am, 1:45pm, 5:10pm, 8:00pm, 10:50pm), Fri 10/24 (10:50am, 1:45pm, 5:10pm, 8:00pm, 10:50pm), Sat 10/25 (10:50am, 1:45pm, 5:10pm, 8:00pm, 10:50pm), Sun 10/26 (11:15am, 1:50pm, 5:10pm, 8:00pm), Mon 10/27 (11:00am, 1:50pm, 5:10pm, 8:00pm, 10:50pm), Tue 10/28 (1:50pm, 5:10pm, 8:00pm, 10:50pm), Wed 10/29 (11:00am, 1:50pm, 5:10pm, 8:00pm, 10:50pm)
+
+    * [If I Had Legs Id Kick You](https://drafthouse.com/los-angeles/show/if-i-had-legs-id-kick-you): Thu 10/23 (11:45am, 3:00pm, 6:10pm, 9:15pm), Fri 10/24 (11:00am, 3:00pm, 6:10pm, 9:15pm), Sat 10/25 (11:40am, 3:00pm, 6:10pm, 9:15pm), Sun 10/26 (11:00am, 3:00pm, 6:10pm), Mon 10/27 (11:00am, 3:00pm, 6:10pm, 9:15pm), Tue 10/28 (3:00pm, 6:10pm, 9:15pm), Wed 10/29 (11:00am, 3:00pm, 6:10pm, 9:15pm)
+
+    * [One Battle After Another](https://drafthouse.com/los-angeles/show/one-battle-after-another): Thu 10/23 (11:10am, 3:20pm, 9:10pm), Fri 10/24 (11:10am, 2:10pm, 6:00pm, 9:50pm), Sat 10/25 (11:10am, 3:35pm, 6:00pm, 9:50pm), Sun 10/26 (11:10am, 2:10pm, 6:00pm), Mon 10/27 (11:10am, 2:10pm, 6:00pm, 9:50pm), Tue 10/28 (2:10pm, 6:00pm, 9:50pm), Wed 10/29 (12:20pm, 2:10pm, 6:00pm, 9:50pm)
+
+    * [Queer Film Theory 101 The Lost Boys](https://drafthouse.com/los-angeles/show/queer-film-theory-101-the-lost-boys): Mon 10/27 (9:00pm), Tue 10/28 (4:35pm), Wed 10/29 (2:10pm, 9:40pm)
+
+    * [Roofman](https://drafthouse.com/los-angeles/show/roofman): Thu 10/23 (11:30am)
+
+    * [Special Event Day Of The Dead 1985 40th Anniversary](https://drafthouse.com/los-angeles/show/special-event-day-of-the-dead-1985-40th-anniversary): Sun 10/26 (12:10pm), Mon 10/27 (11:00am, 2:50pm), Tue 10/28 (10:10pm), Wed 10/29 (11:20am, 4:10pm)
+
+    * [Special Event Perfect Blue Subtitled Remastered](https://drafthouse.com/los-angeles/show/special-event-perfect-blue-subtitled-remastered): Thu 10/23 (1:00pm)
+
+    * [The Rocky Horror Picture Show](https://drafthouse.com/los-angeles/show/the-rocky-horror-picture-show): Fri 10/24 (1:45pm)
+
+    * [The Smashing Machine](https://drafthouse.com/los-angeles/show/the-smashing-machine): Thu 10/23 (1:10pm, 4:30pm)
+
+    * [Tron Ares](https://drafthouse.com/los-angeles/show/tron-ares): Thu 10/23 (12:45pm)
+
 ### Thu 10/16 4:18am
 * New movies: Elf, National Lampoon's Christmas Vacation, BRAZIL: THE DIRECTOR’S CUT, LITTLE WOMEN 2019
 
