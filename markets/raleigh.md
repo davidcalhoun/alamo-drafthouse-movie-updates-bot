@@ -1,6 +1,52 @@
 # raleigh
 
 ## Movie updates
+### Mon 10/20 6:24pm
+* New movies: If I Had Legs I'd Kick You
+
+* New screenings: 
+    * [A House Of Dynamite](https://drafthouse.com/raleigh/show/a-house-of-dynamite): Thu 10/23 (3:15pm)
+
+    * [After The Hunt](https://drafthouse.com/raleigh/show/after-the-hunt): Thu 10/23 (1:30pm, 5:15pm, 7:15pm), Fri 10/24 (2:45pm, 6:15pm), Sat 10/25 (2:45pm, 6:15pm), Sun 10/26 (2:45pm, 6:15pm), Mon 10/27 (2:45pm, 6:15pm), Tue 10/28 (2:45pm, 6:15pm), Wed 10/29 (2:45pm, 6:15pm)
+
+    * [Black Phone 2](https://drafthouse.com/raleigh/show/black-phone-2): Thu 10/23 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Fri 10/24 (12:30pm, 3:30pm, 6:30pm, 10:15pm), Sat 10/25 (12:30pm, 3:30pm, 6:30pm, 10:15pm), Sun 10/26 (1:30pm, 4:45pm, 7:45pm, 10:15pm), Mon 10/27 (12:30pm, 3:30pm, 5:00pm, 8:00pm, 10:15pm), Tue 10/28 (12:30pm, 3:30pm, 6:30pm, 10:15pm), Wed 10/29 (12:30pm, 3:30pm, 5:00pm, 8:00pm, 10:15pm)
+
+    * [Chainsaw Man The Movie Reze Arc Dubbed](https://drafthouse.com/raleigh/show/chainsaw-man-the-movie-reze-arc-dubbed): Thu 10/23 (10:30pm), Fri 10/24 (8:00pm), Sat 10/25 (8:00pm), Sun 10/26 (8:00pm, 10:30pm), Mon 10/27 (3:00pm), Tue 10/28 (3:00pm), Wed 10/29 (3:00pm)
+
+    * [Chainsaw Man The Movie Reze Arc Subtitled](https://drafthouse.com/raleigh/show/chainsaw-man-the-movie-reze-arc-subtitled): Mon 10/27 (12:00pm, 6:00pm, 9:00pm), Tue 10/28 (12:00pm, 6:00pm, 9:00pm), Wed 10/29 (12:00pm, 6:00pm, 9:00pm)
+
+    * [Fleischer Halloween Party](https://drafthouse.com/raleigh/show/fleischer-halloween-party): Mon 10/27 (12:45pm), Tue 10/28 (5:15pm), Wed 10/29 (12:45pm)
+
+    * [Fright Night](https://drafthouse.com/raleigh/show/fright-night): Thu 10/23 (2:00pm)
+
+    * [Good Boy](https://drafthouse.com/raleigh/show/good-boy): Thu 10/23 (1:00pm)
+
+    * [Good Fortune](https://drafthouse.com/raleigh/show/good-fortune): Thu 10/23 (1:45pm, 4:45pm, 7:45pm, 10:00pm), Fri 10/24 (12:15pm, 4:15pm, 8:00pm, 10:45pm), Sat 10/25 (12:15pm, 4:15pm, 8:00pm, 10:45pm), Sun 10/26 (12:15pm, 4:15pm, 7:45pm, 10:45pm), Mon 10/27 (12:15pm, 4:30pm, 8:00pm, 10:45pm), Tue 10/28 (12:15pm, 4:15pm, 8:00pm, 10:45pm), Wed 10/29 (12:15pm, 4:15pm, 8:00pm, 10:45pm)
+
+    * [If I Had Legs Id Kick You](https://drafthouse.com/raleigh/show/if-i-had-legs-id-kick-you): Thu 10/23 (4:00pm, 6:45pm, 10:45pm), Fri 10/24 (1:15pm, 5:00pm, 7:15pm, 10:45pm), Sat 10/25 (1:15pm, 5:00pm, 7:15pm, 10:45pm), Sun 10/26 (1:15pm, 4:30pm, 7:15pm, 10:45pm), Mon 10/27 (1:30pm, 5:00pm, 7:15pm, 10:30pm), Tue 10/28 (1:15pm, 5:00pm, 7:15pm, 10:30pm), Wed 10/29 (1:15pm, 5:00pm, 7:15pm, 10:30pm)
+
+    * [Mitski The Land](https://drafthouse.com/raleigh/show/mitski-the-land): Thu 10/23 (5:00pm), Sun 10/26 (12:45pm), Tue 10/28 (8:00pm)
+
+    * [One Battle After Another](https://drafthouse.com/raleigh/show/one-battle-after-another): Thu 10/23 (12:15pm, 2:30pm, 6:15pm, 9:45pm), Fri 10/24 (1:15pm, 3:00pm, 6:45pm, 9:45pm), Sat 10/25 (1:15pm, 3:00pm, 6:45pm, 9:45pm), Sun 10/26 (1:00pm, 3:00pm, 6:45pm, 9:45pm), Mon 10/27 (1:15pm, 3:00pm, 6:45pm, 9:45pm), Tue 10/28 (1:15pm, 3:00pm, 6:45pm, 9:45pm), Wed 10/29 (1:15pm, 3:00pm, 6:45pm, 9:45pm)
+
+    * [Queer Film Theory 101 The Lost Boys](https://drafthouse.com/raleigh/show/queer-film-theory-101-the-lost-boys): Fri 10/24 (12:30pm), Sat 10/25 (12:30pm), Tue 10/28 (12:30pm)
+
+    * [Regretting You](https://drafthouse.com/raleigh/show/regretting-you): Fri 10/24 (11:45am, 3:15pm, 9:15pm), Sat 10/25 (11:45am, 3:15pm, 9:15pm), Sun 10/26 (11:45am, 3:15pm, 9:15pm), Mon 10/27 (11:45am, 3:20pm, 6:15pm, 9:15pm), Tue 10/28 (11:45am, 3:15pm, 6:15pm, 9:15pm), Wed 10/29 (11:45am, 3:20pm, 6:15pm, 9:15pm)
+
+    * [Roofman](https://drafthouse.com/raleigh/show/roofman): Thu 10/23 (12:45pm, 3:30pm, 7:30pm), Fri 10/24 (1:45pm), Sat 10/25 (1:45pm), Sun 10/26 (10:15pm), Mon 10/27 (1:45pm), Tue 10/28 (1:45pm), Wed 10/29 (1:45pm)
+
+    * [Shelby Oaks](https://drafthouse.com/raleigh/show/shelby-oaks): Fri 10/24 (1:45pm, 4:30pm, 10:15pm), Sat 10/25 (1:45pm, 4:30pm, 10:15pm), Sun 10/26 (1:30pm, 4:30pm, 10:45pm), Mon 10/27 (1:45pm, 4:30pm, 7:30pm, 10:15pm), Tue 10/28 (1:45pm, 4:30pm, 7:30pm, 10:15pm), Wed 10/29 (1:45pm, 4:30pm, 7:30pm, 10:15pm)
+
+    * [Special Event Day Of The Dead 1985 40th Anniversary](https://drafthouse.com/raleigh/show/special-event-day-of-the-dead-1985-40th-anniversary): Sun 10/26 (5:00pm), Mon 10/27 (9:30pm), Tue 10/28 (10:30pm)
+
+    * [Springsteen Deliver Me From Nowhere](https://drafthouse.com/raleigh/show/springsteen-deliver-me-from-nowhere): Fri 10/24 (1:00pm, 4:00pm, 5:00pm, 10:00pm), Sat 10/25 (1:00pm, 4:00pm, 5:00pm, 10:00pm), Sun 10/26 (1:00pm, 4:00pm, 10:00pm), Mon 10/27 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Tue 10/28 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Wed 10/29 (1:00pm, 4:00pm, 7:00pm, 10:00pm)
+
+    * [The Rocky Horror Picture Show](https://drafthouse.com/raleigh/show/the-rocky-horror-picture-show): Fri 10/24 (10:30pm), Sat 10/25 (10:30pm)
+
+    * [Tron Ares](https://drafthouse.com/raleigh/show/tron-ares): Thu 10/23 (11:45am, 3:00pm, 6:35pm, 10:35pm), Fri 10/24 (11:45am, 2:45pm, 6:00pm, 9:00pm), Sat 10/25 (11:45am, 2:45pm, 6:00pm, 9:00pm), Sun 10/26 (11:45am, 2:45pm, 6:00pm, 9:00pm), Mon 10/27 (11:45am, 2:45pm, 6:00pm, 9:00pm), Tue 10/28 (11:45am, 2:45pm, 6:00pm, 9:00pm), Wed 10/29 (11:45am, 2:45pm, 6:00pm, 9:00pm)
+
+    * [Www Rachelormont Com](https://drafthouse.com/raleigh/show/www-rachelormont-com): Thu 10/23 (12:45pm)
+
 ### Fri 10/17 2:34pm
 * New movies: The Descent
 
