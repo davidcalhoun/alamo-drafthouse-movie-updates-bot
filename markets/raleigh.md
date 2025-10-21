@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 10/21 5:24pm
+
+* New screenings: 
+    * [Dracula 2025](https://drafthouse.com/raleigh/show/dracula-2025): Thu 10/30 (6:30pm)
+
 ### Tue 10/21 12:33pm
 * New movies: Blood Rage, Who Killed Teddy Bear?
 
