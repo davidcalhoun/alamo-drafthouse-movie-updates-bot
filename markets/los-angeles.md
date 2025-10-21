@@ -1,6 +1,32 @@
 # los-angeles
 
 ## Movie updates
+### Tue 10/21 8:22am
+* New movies: Dracula 2025, The Lighthouse, Top Secret Mystery Movie, Choose Me, Branded to Kill, The Descent, Desperately Seeking Susan, Gumby 4K Restoration, Planes, Trains & Automobiles, The Goonies, To Live and Die in L.A.
+
+* New screenings: 
+    * [Agfadrome Top Secret Mystery Movie](https://drafthouse.com/los-angeles/show/agfadrome-top-secret-mystery-movie): Tue 11/18 (10:15pm)
+
+    * [Choose Me](https://drafthouse.com/los-angeles/show/choose-me): Sun 11/9 (7:20pm)
+
+    * [Desperately Seeking Susan](https://drafthouse.com/los-angeles/show/desperately-seeking-susan): Sun 11/9 (4:25pm)
+
+    * [Dracula 2025](https://drafthouse.com/los-angeles/show/dracula-2025): Fri 10/31 (9:00pm), Sat 11/1 (8:30pm)
+
+    * [Gumby](https://drafthouse.com/los-angeles/show/gumby): Sun 11/16 (11:00am)
+
+    * [Movie Party The Lighthouse](https://drafthouse.com/los-angeles/show/movie-party-the-lighthouse): Fri 11/14 (10:00pm)
+
+    * [Planes Trains Automobiles](https://drafthouse.com/los-angeles/show/planes-trains-automobiles): Tue 11/25 (7:20pm)
+
+    * [Queer Film Theory 101 Branded To Kill](https://drafthouse.com/los-angeles/show/queer-film-theory-101-branded-to-kill): Mon 11/24 (7:20pm)
+
+    * [The Descent](https://drafthouse.com/los-angeles/show/the-descent): Tue 11/11 (10:30pm)
+
+    * [The Goonies](https://drafthouse.com/los-angeles/show/the-goonies): Tue 11/4 (7:20pm)
+
+    * [To Live And Die In L A](https://drafthouse.com/los-angeles/show/to-live-and-die-in-l-a): Wed 11/12 (9:25pm)
+
 ### Tue 10/21 6:35am
 * New movies: Baahubali: The Epic
 
