@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 10/21 1:25pm
+
+* New screenings: 
+    * [Wicked For Good](https://drafthouse.com/los-angeles/show/wicked-for-good): Sun 11/23 (10:15pm)
+
 ### Tue 10/21 8:22am
 * New movies: Dracula 2025, The Lighthouse, Top Secret Mystery Movie, Choose Me, Branded to Kill, The Descent, Desperately Seeking Susan, Gumby 4K Restoration, Planes, Trains & Automobiles, The Goonies, To Live and Die in L.A.
 
