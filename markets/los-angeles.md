@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 10/21 2:19pm
+
+* New screenings: 
+    * [Wicked For Good](https://drafthouse.com/los-angeles/show/wicked-for-good): Sun 11/23 (11:45am, 3:15pm, 6:45pm)
+
 ### Tue 10/21 1:25pm
 
 * New screenings: 
