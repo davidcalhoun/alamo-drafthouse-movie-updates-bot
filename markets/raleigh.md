@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Tue 10/21 12:33pm
+* New movies: Blood Rage, Who Killed Teddy Bear?
+
+* New screenings: 
+    * [Terror Tuesday Blood Rage](https://drafthouse.com/raleigh/show/terror-tuesday-blood-rage): Tue 11/25 (9:05pm)
+
+    * [Weird Wednesday Who Killed Teddy Bear](https://drafthouse.com/raleigh/show/weird-wednesday-who-killed-teddy-bear): Wed 11/12 (9:30pm)
+
 ### Tue 10/21 11:26am
 * New movies: Dracula 2025, The Lighthouse, Top Secret Mystery Movie, Choose Me, Branded to Kill, Desperately Seeking Susan, Pee-Wee's Big Adventure, Planes, Trains & Automobiles, The Goonies, To Live and Die in L.A.
 
