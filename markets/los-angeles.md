@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 10/21 6:35am
+* New movies: Baahubali: The Epic
+
+* New screenings: 
+    * [Baahubali The Epic](https://drafthouse.com/los-angeles/show/baahubali-the-epic): Thu 10/30 (3:00pm, 8:00pm), Fri 10/31 (7:20pm), Sat 11/1 (8:00pm)
+
 ### Mon 10/20 3:19pm
 
 * New screenings: 
