@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Tue 10/21 3:18pm
+* New movies: Videoheaven, BLOOD RAGE, IN THE MOUTH OF MADNESS
+
+* New screenings: 
+    * [Blood Rage](https://drafthouse.com/los-angeles/show/blood-rage): Wed 11/26 (7:20pm)
+
+    * [In The Mouth Of Madness](https://drafthouse.com/los-angeles/show/in-the-mouth-of-madness): Wed 12/3 (7:00pm)
+
+    * [Videoheaven](https://drafthouse.com/los-angeles/show/videoheaven): Tue 11/11 (6:00pm)
+
 ### Tue 10/21 2:19pm
 
 * New screenings: 
