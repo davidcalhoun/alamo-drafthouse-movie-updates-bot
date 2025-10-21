@@ -1,6 +1,30 @@
 # raleigh
 
 ## Movie updates
+### Tue 10/21 11:26am
+* New movies: Dracula 2025, The Lighthouse, Top Secret Mystery Movie, Choose Me, Branded to Kill, Desperately Seeking Susan, Pee-Wee's Big Adventure, Planes, Trains & Automobiles, The Goonies, To Live and Die in L.A.
+
+* New screenings: 
+    * [Agfadrome Top Secret Mystery Movie](https://drafthouse.com/raleigh/show/agfadrome-top-secret-mystery-movie): Mon 11/17 (10:00pm)
+
+    * [Choose Me](https://drafthouse.com/raleigh/show/choose-me): Sun 11/9 (3:30pm)
+
+    * [Desperately Seeking Susan](https://drafthouse.com/raleigh/show/desperately-seeking-susan): Sun 11/9 (12:30pm)
+
+    * [Dracula 2025](https://drafthouse.com/raleigh/show/dracula-2025): Fri 10/31 (6:30pm), Mon 11/3 (6:00pm)
+
+    * [Movie Party The Lighthouse](https://drafthouse.com/raleigh/show/movie-party-the-lighthouse): Fri 11/14 (9:30pm)
+
+    * [Pee Wees Big Adventure](https://drafthouse.com/raleigh/show/pee-wees-big-adventure): Wed 11/5 (3:30pm)
+
+    * [Planes Trains Automobiles](https://drafthouse.com/raleigh/show/planes-trains-automobiles): Tue 11/25 (6:30pm)
+
+    * [Queer Film Theory 101 Branded To Kill](https://drafthouse.com/raleigh/show/queer-film-theory-101-branded-to-kill): Mon 11/24 (6:30pm)
+
+    * [The Goonies](https://drafthouse.com/raleigh/show/the-goonies): Tue 11/4 (3:30pm)
+
+    * [To Live And Die In L A](https://drafthouse.com/raleigh/show/to-live-and-die-in-l-a): Wed 11/12 (6:30pm)
+
 ### Mon 10/20 6:24pm
 * New movies: If I Had Legs I'd Kick You
 
