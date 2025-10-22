@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/22 2:26am
+
+* New screenings: 
+    * [Dracula 2025](https://drafthouse.com/los-angeles/show/dracula-2025): Thu 10/30 (3:20pm)
+
 ### Tue 10/21 3:18pm
 * New movies: Videoheaven, BLOOD RAGE, IN THE MOUTH OF MADNESS
 
