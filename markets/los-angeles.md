@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/22 4:18pm
+* New movies: Knives Out, Glass Onion: A Knives Out Mystery
+
+* New screenings: 
+    * [Frankenstein 2025](https://drafthouse.com/los-angeles/show/frankenstein-2025): Sat 11/1 (4:20pm)
+
+    * [Glass Onion Knives Out Mystery](https://drafthouse.com/los-angeles/show/glass-onion-knives-out-mystery): Mon 11/17 (6:00pm)
+
+    * [Knives Out](https://drafthouse.com/los-angeles/show/knives-out): Wed 11/12 (4:40pm, 6:00pm)
+
+    * [Sing Along Kpop Demon Hunters A Sing Along Event](https://drafthouse.com/los-angeles/show/sing-along-kpop-demon-hunters-a-sing-along-event): Sat 11/1 (1:30pm)
+
 ### Wed 10/22 3:17pm
 * New movies: KPop Demon Hunters
 
