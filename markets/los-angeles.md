@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/22 4:19am
+* New movies: Frankenstein 2025
+
+* New screenings: 
+    * [Frankenstein 2025](https://drafthouse.com/los-angeles/show/frankenstein-2025): Thu 10/30 (7:00pm, 10:10pm), Fri 10/31 (6:20pm), Sat 11/1 (6:20pm), Sun 11/2 (6:20pm), Tue 11/4 (6:00pm)
+
 ### Wed 10/22 2:26am
 
 * New screenings: 
