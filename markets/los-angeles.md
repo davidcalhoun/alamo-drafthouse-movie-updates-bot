@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/22 6:34am
+* New movies: Sentimental Value, Chicken Run: 25th Anniversary, Chicken Run: 25th Anniversary, Sentimental Value
+
+* New screenings: 
+    * [Advance Screening Sentimental Value Early Access](https://drafthouse.com/los-angeles/show/advance-screening-sentimental-value-early-access): Wed 11/5 (7:00pm)
+
+    * [Alamo Crafthouse Chicken Run 25th Anniversary](https://drafthouse.com/los-angeles/show/alamo-crafthouse-chicken-run-25th-anniversary): Sun 11/9 (11:00am)
+
+    * [Chicken Run 25th Anniversary](https://drafthouse.com/los-angeles/show/chicken-run-25th-anniversary): Sun 11/9 (1:45pm), Wed 11/12 (11:20am, 2:00pm)
+
+    * [Sentimental Value](https://drafthouse.com/los-angeles/show/sentimental-value): Thu 11/13 (7:00pm, 10:30pm), Fri 11/14 (11:30am, 3:00pm, 6:30pm, 10:00pm), Sat 11/15 (11:30am, 3:00pm, 6:30pm, 10:00pm), Sun 11/16 (11:30am, 3:00pm, 6:30pm), Mon 11/17 (11:30am, 3:00pm, 6:30pm, 10:00pm), Wed 11/19 (11:30am, 3:00pm, 6:30pm, 10:00pm)
+
 ### Wed 10/22 4:19am
 * New movies: Frankenstein 2025
 
