@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/22 3:17pm
+* New movies: KPop Demon Hunters
+
+* New screenings: 
+    * [Frankenstein 2025](https://drafthouse.com/los-angeles/show/frankenstein-2025): Fri 10/31 (10:00pm), Sat 11/1 (10:00pm)
+
+    * [Sing Along Kpop Demon Hunters A Sing Along Event](https://drafthouse.com/los-angeles/show/sing-along-kpop-demon-hunters-a-sing-along-event): Fri 10/31 (1:20pm)
+
 ### Wed 10/22 6:34am
 * New movies: Sentimental Value, Chicken Run: 25th Anniversary, Chicken Run: 25th Anniversary, Sentimental Value
 
