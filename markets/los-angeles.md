@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/22 8:05pm
+* New movies: It Was Just an Accident
+
+* New screenings: 
+    * [It Was Just An Accident](https://drafthouse.com/los-angeles/show/it-was-just-an-accident): Thu 10/30 (4:45pm, 7:45pm, 10:40pm), Fri 10/31 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:40pm), Sat 11/1 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:40pm), Sun 11/2 (11:00am, 1:55pm, 4:50pm, 7:45pm), Mon 11/3 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:40pm), Tue 11/4 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:40pm), Wed 11/5 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:40pm)
+
 ### Wed 10/22 4:18pm
 * New movies: Knives Out, Glass Onion: A Knives Out Mystery
 
