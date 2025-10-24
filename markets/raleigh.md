@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Fri 10/24 9:36am
+* New movies: Wake Up Dead Man: A Knives Out Mystery, Glass Onion: A Knives Out Mystery, Knives Out
+
+* New screenings: 
+    * [Glass Onion Knives Out Mystery](https://drafthouse.com/raleigh/show/glass-onion-knives-out-mystery): Mon 11/17 (6:30pm)
+
+    * [Knives Out](https://drafthouse.com/raleigh/show/knives-out): Sat 11/8 (12:00pm)
+
+    * [Livestream Q A Wake Up Dead Man A Knives Out Mystery](https://drafthouse.com/raleigh/show/livestream-q-a-wake-up-dead-man-a-knives-out-mystery): Sun 11/23 (7:00pm)
+
 ### Fri 10/24 3:24am
 * New movies: Addams Family Values, Jason X
 
