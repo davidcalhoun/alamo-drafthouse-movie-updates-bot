@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 10/24 6:32am
+* New movies: Wake Up Dead Man: A Knives Out Mystery
+
+* New screenings: 
+    * [Live Q A Wake Up Dead Man A Knives Out Mystery](https://drafthouse.com/los-angeles/show/live-q-a-wake-up-dead-man-a-knives-out-mystery): Sun 11/23 (4:00pm)
+
 ### Wed 10/22 8:05pm
 * New movies: It Was Just an Accident
 
