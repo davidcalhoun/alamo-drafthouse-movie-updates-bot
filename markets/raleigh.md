@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Fri 10/24 3:24am
+* New movies: Addams Family Values, Jason X
+
+* New screenings: 
+    * [Terror Tuesday Jason X](https://drafthouse.com/raleigh/show/terror-tuesday-jason-x): Tue 11/18 (9:30pm)
+
+    * [Weird Wednesday Addams Family Values](https://drafthouse.com/raleigh/show/weird-wednesday-addams-family-values): Wed 11/19 (10:15pm)
+
 ### Wed 10/22 6:21pm
 * New movies: Glass Onion: A Knives Out Mystery, Knives Out
 
