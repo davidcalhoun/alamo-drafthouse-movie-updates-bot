@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Sat 10/25 10:22am
+
+* New screenings: 
+    * [After The Hunt](https://drafthouse.com/raleigh/show/after-the-hunt): Sat 10/25 (6:15pm)
+
+    * [One Battle After Another](https://drafthouse.com/raleigh/show/one-battle-after-another): Sat 10/25 (1:15pm)
+
 ### Fri 10/24 9:36am
 * New movies: Wake Up Dead Man: A Knives Out Mystery, Glass Onion: A Knives Out Mystery, Knives Out
 
