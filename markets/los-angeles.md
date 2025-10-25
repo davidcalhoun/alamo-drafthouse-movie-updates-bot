@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 10/24 6:43pm
+
+* New screenings: 
+    * [Wicked For Good](https://drafthouse.com/los-angeles/show/wicked-for-good): Fri 11/21 (11:15am, 2:45pm, 6:15pm, 9:45pm), Sat 11/22 (11:15am, 2:45pm, 6:15pm, 9:45pm)
+
 ### Fri 10/24 6:32am
 * New movies: Wake Up Dead Man: A Knives Out Mystery
 
