@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Sat 10/25 2:33pm
+* New movies: Videoheaven, MULTIPLE MANIACS
+
+* New screenings: 
+    * [Videoheaven](https://drafthouse.com/raleigh/show/videoheaven): Tue 11/11 (6:15pm)
+
+    * [Weird Wednesday Multiple Maniacs](https://drafthouse.com/raleigh/show/weird-wednesday-multiple-maniacs): Wed 11/5 (9:30pm)
+
 ### Sat 10/25 10:22am
 
 * New screenings: 
