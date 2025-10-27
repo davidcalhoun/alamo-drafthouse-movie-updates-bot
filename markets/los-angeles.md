@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 10/27 10:19am
+
+* New screenings: 
+    * [Zootopia 2](https://drafthouse.com/los-angeles/show/zootopia-2): Fri 11/28 (9:00am), Sat 11/29 (9:00am), Sun 11/30 (9:00am)
+
 ### Mon 10/27 6:33am
 * New movies: The Running Man 2025, Zootopia 2
 
