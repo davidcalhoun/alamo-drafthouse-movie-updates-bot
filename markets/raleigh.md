@@ -1,6 +1,54 @@
 # raleigh
 
 ## Movie updates
+### Mon 10/27 4:27pm
+* New movies: It Was Just an Accident, KPop Demon Hunters
+
+* New screenings: 
+    * [28 Days Later](https://drafthouse.com/raleigh/show/28-days-later): Thu 10/30 (10:45pm)
+
+    * [After The Hunt](https://drafthouse.com/raleigh/show/after-the-hunt): Thu 10/30 (12:15pm), Mon 11/3 (2:45pm)
+
+    * [Back To The Future 40th Anniversary](https://drafthouse.com/raleigh/show/back-to-the-future-40th-anniversary): Thu 10/30 (5:00pm), Sun 11/2 (5:30pm), Tue 11/4 (12:00pm), Wed 11/5 (12:30pm)
+
+    * [Black Phone 2](https://drafthouse.com/raleigh/show/black-phone-2): Thu 10/30 (1:45pm, 3:30pm, 6:45pm, 10:30pm), Fri 10/31 (2:00pm, 5:00pm, 8:00pm, 10:45pm), Sat 11/1 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sun 11/2 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Mon 11/3 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Tue 11/4 (12:30pm, 3:45pm, 6:30pm, 10:00pm), Wed 11/5 (1:15pm, 4:15pm, 7:15pm, 10:30pm)
+
+    * [Bugonia](https://drafthouse.com/raleigh/show/bugonia): Thu 10/30 (3:00pm, 4:00pm, 7:15pm, 9:00pm, 10:15pm), Fri 10/31 (12:00pm, 3:00pm, 7:00pm, 9:00pm, 10:00pm), Sat 11/1 (12:00pm, 3:00pm, 5:30pm, 7:15pm, 8:30pm, 9:00pm), Sun 11/2 (12:00pm, 3:00pm, 7:15pm, 8:30pm, 9:00pm), Mon 11/3 (12:00pm, 1:30pm, 3:00pm, 4:30pm, 7:30pm, 10:00pm), Tue 11/4 (1:30pm, 3:00pm, 4:30pm, 7:30pm, 10:40pm), Wed 11/5 (12:00pm, 1:30pm, 3:00pm, 4:30pm, 7:30pm, 10:30pm)
+
+    * [Chainsaw Man The Movie Reze Arc Dubbed](https://drafthouse.com/raleigh/show/chainsaw-man-the-movie-reze-arc-dubbed): Thu 10/30 (3:45pm), Fri 10/31 (2:00pm), Sat 11/1 (2:00pm), Sun 11/2 (2:00pm), Mon 11/3 (2:00pm), Tue 11/4 (2:00pm), Wed 11/5 (2:00pm)
+
+    * [Chainsaw Man The Movie Reze Arc Subtitled](https://drafthouse.com/raleigh/show/chainsaw-man-the-movie-reze-arc-subtitled): Thu 10/30 (12:45pm, 7:00pm, 9:45pm), Fri 10/31 (5:00pm, 7:45pm, 10:30pm), Sat 11/1 (5:00pm, 7:45pm, 10:30pm), Sun 11/2 (5:00pm, 7:45pm, 10:30pm), Mon 11/3 (5:00pm, 7:45pm, 10:45pm), Tue 11/4 (5:00pm, 7:45pm, 10:45pm), Wed 11/5 (5:00pm, 7:45pm, 10:45pm)
+
+    * [Dracula 2025](https://drafthouse.com/raleigh/show/dracula-2025): Mon 11/3 (9:30pm), Tue 11/4 (9:00pm), Wed 11/5 (8:30pm, 9:15pm)
+
+    * [Fleischer Halloween Party](https://drafthouse.com/raleigh/show/fleischer-halloween-party): Thu 10/30 (3:45pm)
+
+    * [Frankenstein 2025](https://drafthouse.com/raleigh/show/frankenstein-2025): Thu 10/30 (7:00pm, 8:00pm, 9:45pm), Fri 10/31 (7:15pm, 10:30pm), Sat 11/1 (8:15pm), Sun 11/2 (8:00pm, 10:30pm), Mon 11/3 (7:00pm, 9:30pm), Tue 11/4 (6:15pm, 6:55pm, 9:30pm), Wed 11/5 (6:00pm, 9:45pm)
+
+    * [Good Fortune](https://drafthouse.com/raleigh/show/good-fortune): Thu 10/30 (12:00pm), Fri 10/31 (1:45pm), Sat 11/1 (1:45pm), Sun 11/2 (1:30pm), Mon 11/3 (1:45pm), Tue 11/4 (1:45pm), Wed 11/5 (1:45pm)
+
+    * [If I Had Legs Id Kick You](https://drafthouse.com/raleigh/show/if-i-had-legs-id-kick-you): Thu 10/30 (1:15pm, 4:15pm), Fri 10/31 (4:00pm, 10:45pm), Sat 11/1 (4:00pm, 10:15pm), Sun 11/2 (4:00pm, 10:15pm), Mon 11/3 (4:00pm), Tue 11/4 (4:00pm), Wed 11/5 (4:00pm, 10:00pm)
+
+    * [It Was Just An Accident](https://drafthouse.com/raleigh/show/it-was-just-an-accident): Thu 10/30 (4:45pm, 7:30pm, 10:30pm), Fri 10/31 (12:45pm, 3:30pm, 6:45pm, 9:30pm), Sat 11/1 (12:45pm, 3:30pm, 6:45pm, 9:30pm), Sun 11/2 (12:45pm, 3:30pm, 6:45pm, 9:30pm), Mon 11/3 (12:45pm, 3:45pm, 6:45pm, 10:30pm), Tue 11/4 (12:45pm, 3:15pm, 6:45pm, 10:30pm), Wed 11/5 (12:45pm, 3:45pm, 6:45pm, 9:30pm)
+
+    * [One Battle After Another](https://drafthouse.com/raleigh/show/one-battle-after-another): Thu 10/30 (1:15pm), Fri 10/31 (3:45pm), Sat 11/1 (4:30pm), Sun 11/2 (4:15pm), Mon 11/3 (4:45pm), Tue 11/4 (4:45pm), Wed 11/5 (4:45pm)
+
+    * [Regretting You](https://drafthouse.com/raleigh/show/regretting-you): Thu 10/30 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Fri 10/31 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sat 11/1 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sun 11/2 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Mon 11/3 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Tue 11/4 (12:00pm, 3:00pm, 6:00pm, 9:45pm), Wed 11/5 (12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
+    * [Return Of Godzilla](https://drafthouse.com/raleigh/show/return-of-godzilla): Mon 11/3 (8:30pm), Tue 11/4 (8:30pm), Wed 11/5 (7:00pm)
+
+    * [Roofman](https://drafthouse.com/raleigh/show/roofman): Thu 10/30 (1:30pm)
+
+    * [Shelby Oaks](https://drafthouse.com/raleigh/show/shelby-oaks): Thu 10/30 (12:45pm, 4:45pm, 7:30pm, 10:15pm), Fri 10/31 (1:00pm, 4:30pm, 7:30pm, 10:00pm), Sat 11/1 (1:30pm, 4:30pm, 7:30pm, 10:00pm), Sun 11/2 (1:30pm, 4:30pm, 7:30pm, 10:00pm), Mon 11/3 (2:00pm, 4:45pm, 7:30pm, 10:30pm), Tue 11/4 (2:00pm, 4:45pm, 7:30pm, 10:30pm), Wed 11/5 (2:00pm, 4:45pm, 7:30pm, 10:15pm)
+
+    * [Sing Along Kpop Demon Hunters A Sing Along Event](https://drafthouse.com/raleigh/show/sing-along-kpop-demon-hunters-a-sing-along-event): Fri 10/31 (1:30pm, 4:15pm), Sat 11/1 (1:00pm, 4:00pm), Sun 11/2 (1:00pm, 4:00pm)
+
+    * [Springsteen Deliver Me From Nowhere](https://drafthouse.com/raleigh/show/springsteen-deliver-me-from-nowhere): Thu 10/30 (12:00pm, 2:45pm, 6:00pm, 9:00pm), Fri 10/31 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 11/1 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sun 11/2 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Mon 11/3 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Tue 11/4 (12:45pm, 3:45pm, 6:45pm, 10:00pm), Wed 11/5 (12:15pm, 3:15pm, 6:15pm)
+
+    * [The Goonies](https://drafthouse.com/raleigh/show/the-goonies): Tue 11/4 (12:15pm)
+
+    * [Tron Ares](https://drafthouse.com/raleigh/show/tron-ares): Thu 10/30 (1:00pm), Fri 10/31 (1:00pm), Sat 11/1 (1:00pm), Sun 11/2 (1:00pm), Mon 11/3 (1:00pm), Tue 11/4 (1:00pm), Wed 11/5 (1:00pm)
+
 ### Mon 10/27 3:21pm
 * New movies: A/V Geeks Present: Don't Try This at Home!
 
