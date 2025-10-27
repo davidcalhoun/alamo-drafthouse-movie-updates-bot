@@ -1,6 +1,50 @@
 # los-angeles
 
 ## Movie updates
+### Mon 10/27 3:20pm
+* New movies: Pee-Wee's Big Adventure
+
+* New screenings: 
+    * [28 Days Later](https://drafthouse.com/los-angeles/show/28-days-later): Thu 10/30 (12:20pm)
+
+    * [After The Hunt](https://drafthouse.com/los-angeles/show/after-the-hunt): Thu 10/30 (11:40am), Mon 11/3 (4:00pm), Wed 11/5 (11:00am)
+
+    * [Back To The Future 40th Anniversary](https://drafthouse.com/los-angeles/show/back-to-the-future-40th-anniversary): Fri 10/31 (11:00am, 2:10pm), Mon 11/3 (11:50am), Tue 11/4 (2:50pm), Wed 11/5 (10:00pm)
+
+    * [Black Phone 2](https://drafthouse.com/los-angeles/show/black-phone-2): Thu 10/30 (11:00am, 2:05pm, 4:35pm, 7:35pm, 10:40pm), Fri 10/31 (11:45am, 3:40pm, 7:15pm, 10:25pm), Sat 11/1 (11:45am, 3:40pm, 7:15pm, 10:25pm), Sun 11/2 (11:45am, 3:40pm, 7:15pm), Mon 11/3 (11:45am, 3:40pm, 6:15pm, 9:25pm), Tue 11/4 (11:45am, 3:40pm, 7:15pm, 10:25pm), Wed 11/5 (11:50am, 3:40pm, 7:15pm, 10:25pm)
+
+    * [Bugonia](https://drafthouse.com/los-angeles/show/bugonia): Thu 10/30 (12:40pm, 3:50pm, 6:15pm, 10:40pm), Fri 10/31 (12:15pm, 2:50pm, 6:45pm, 10:15pm), Sat 11/1 (12:15pm, 2:50pm, 6:45pm, 10:15pm), Sun 11/2 (12:15pm, 2:50pm, 6:45pm), Mon 11/3 (12:20pm, 2:50pm, 6:45pm, 10:15pm), Tue 11/4 (12:15pm, 2:50pm, 6:45pm, 10:15pm), Wed 11/5 (12:15pm, 2:55pm, 6:45pm, 10:15pm)
+
+    * [Chainsaw Man The Movie Reze Arc Dubbed](https://drafthouse.com/los-angeles/show/chainsaw-man-the-movie-reze-arc-dubbed): Thu 10/30 (12:30pm, 6:20pm), Fri 10/31 (11:30am, 5:10pm, 8:00pm), Sat 11/1 (11:30am, 5:10pm, 8:00pm), Sun 11/2 (11:30am, 5:10pm, 8:00pm), Mon 11/3 (11:30am, 5:10pm, 8:00pm), Tue 11/4 (11:30am, 5:10pm, 8:00pm), Wed 11/5 (11:30am, 5:10pm, 8:00pm)
+
+    * [Chainsaw Man The Movie Reze Arc Subtitled](https://drafthouse.com/los-angeles/show/chainsaw-man-the-movie-reze-arc-subtitled): Thu 10/30 (3:25pm, 9:25pm), Fri 10/31 (2:20pm, 10:50pm), Sat 11/1 (2:20pm, 10:50pm), Sun 11/2 (2:20pm), Mon 11/3 (2:20pm, 10:50pm), Tue 11/4 (2:20pm, 10:50pm), Wed 11/5 (2:20pm, 10:25pm)
+
+    * [Dracula 2025](https://drafthouse.com/los-angeles/show/dracula-2025): Sun 11/2 (5:00pm), Mon 11/3 (3:00pm), Tue 11/4 (12:25pm), Wed 11/5 (3:15pm)
+
+    * [F My Son](https://drafthouse.com/los-angeles/show/f-my-son): Mon 11/3 (10:25pm), Tue 11/4 (10:25pm), Wed 11/5 (10:00pm)
+
+    * [Frankenstein 2025](https://drafthouse.com/los-angeles/show/frankenstein-2025): Thu 10/30 (9:10pm), Fri 10/31 (2:40pm, 5:15pm), Sat 11/1 (2:40pm), Sun 11/2 (2:40pm), Mon 11/3 (12:15pm, 2:40pm, 6:20pm, 10:00pm), Tue 11/4 (11:15am, 2:40pm, 9:50pm), Wed 11/5 (11:35am, 3:20pm, 6:20pm, 9:00pm)
+
+    * [Good Fortune](https://drafthouse.com/los-angeles/show/good-fortune): Thu 10/30 (11:00am, 1:50pm, 5:10pm, 8:00pm, 10:50pm), Fri 10/31 (11:10am, 2:05pm, 4:55pm, 7:45pm, 10:35pm), Sat 11/1 (11:10am, 2:05pm, 4:55pm, 7:45pm, 10:35pm), Sun 11/2 (11:10am, 2:05pm, 4:55pm, 7:45pm), Mon 11/3 (11:50am, 2:15pm, 5:00pm, 7:45pm, 10:35pm), Tue 11/4 (11:10am, 2:05pm, 4:55pm, 7:45pm, 10:35pm), Wed 11/5 (11:10am, 2:00pm, 4:50pm, 7:45pm, 10:35pm)
+
+    * [If I Had Legs Id Kick You](https://drafthouse.com/los-angeles/show/if-i-had-legs-id-kick-you): Thu 10/30 (11:50am, 3:10pm), Fri 10/31 (11:35am), Sat 11/1 (11:35am), Sun 11/2 (11:35am), Mon 11/3 (11:35am), Tue 11/4 (11:35am), Wed 11/5 (12:15pm)
+
+    * [One Battle After Another](https://drafthouse.com/los-angeles/show/one-battle-after-another): Thu 10/30 (12:50pm, 2:55pm, 5:50pm, 9:40pm), Fri 10/31 (11:50am, 3:25pm, 6:00pm, 9:50pm), Sat 11/1 (11:50am, 3:25pm, 6:00pm, 9:50pm), Sun 11/2 (11:50am, 3:25pm, 6:00pm), Mon 11/3 (11:50am, 2:40pm, 8:45pm), Tue 11/4 (11:50am, 3:25pm, 6:00pm, 9:50pm), Wed 11/5 (11:50am, 2:25pm, 3:25pm)
+
+    * [Pee Wees Big Adventure](https://drafthouse.com/los-angeles/show/pee-wees-big-adventure): Sun 11/2 (8:10pm), Wed 11/5 (10:50pm)
+
+    * [Regretting You](https://drafthouse.com/los-angeles/show/regretting-you): Thu 10/30 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Fri 10/31 (12:00pm, 3:10pm, 6:15pm, 9:20pm), Sat 11/1 (12:00pm, 3:10pm, 6:15pm, 9:20pm), Sun 11/2 (12:00pm, 3:10pm, 6:15pm), Mon 11/3 (12:00pm, 3:10pm, 6:15pm, 9:20pm), Tue 11/4 (12:00pm, 3:10pm, 6:15pm, 9:20pm), Wed 11/5 (12:00pm, 3:10pm, 6:15pm, 9:20pm)
+
+    * [Return Of Godzilla](https://drafthouse.com/los-angeles/show/return-of-godzilla): Mon 11/3 (10:00pm), Tue 11/4 (4:25pm, 9:45pm)
+
+    * [Shelby Oaks](https://drafthouse.com/los-angeles/show/shelby-oaks): Thu 10/30 (12:15pm, 3:05pm, 6:45pm, 9:30pm), Fri 10/31 (11:20am, 2:00pm, 4:45pm, 7:30pm, 9:50pm), Sat 11/1 (2:00pm, 4:45pm, 7:30pm, 9:50pm), Sun 11/2 (11:20am, 2:00pm, 4:45pm, 7:30pm), Mon 11/3 (11:30am, 3:30pm, 6:00pm, 9:50pm), Tue 11/4 (11:20am, 2:00pm, 4:45pm, 7:30pm, 9:50pm), Wed 11/5 (11:20am, 2:00pm, 4:45pm, 7:30pm, 9:50pm)
+
+    * [Sing Along Kpop Demon Hunters A Sing Along Event](https://drafthouse.com/los-angeles/show/sing-along-kpop-demon-hunters-a-sing-along-event): Sat 11/1 (10:45am, 11:20am), Sun 11/2 (11:00am)
+
+    * [Special Event Day Of The Dead 1985 40th Anniversary](https://drafthouse.com/los-angeles/show/special-event-day-of-the-dead-1985-40th-anniversary): Thu 10/30 (12:10pm)
+
+    * [Springsteen Deliver Me From Nowhere](https://drafthouse.com/los-angeles/show/springsteen-deliver-me-from-nowhere): Thu 10/30 (12:25pm, 3:35pm, 6:45pm, 9:55pm), Fri 10/31 (11:35am, 2:45pm, 6:00pm, 9:10pm), Sat 11/1 (11:35am, 2:45pm, 6:00pm, 9:10pm), Sun 11/2 (11:35am, 2:45pm, 6:00pm), Mon 11/3 (11:45am, 2:50pm, 6:00pm, 9:10pm), Tue 11/4 (11:35am, 2:45pm, 6:00pm, 9:10pm), Wed 11/5 (11:35am, 2:45pm, 6:00pm, 9:10pm)
+
 ### Mon 10/27 2:18pm
 * New movies: Heads or Fails
 
