@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 10/27 1:22pm
+* New movies: The McPherson Tape
+
+
+
 ### Mon 10/27 12:18pm
 * New movies: Wild Things @ DTLA: THE MCPHERSON TAPE with Live Q&A
 
