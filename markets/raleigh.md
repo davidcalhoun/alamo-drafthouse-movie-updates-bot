@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 10/27 3:21pm
+* New movies: A/V Geeks Present: Don't Try This at Home!
+
+* New screenings: 
+    * [A V Geeks Present Dont Try This At Home](https://drafthouse.com/raleigh/show/a-v-geeks-present-dont-try-this-at-home): Tue 11/18 (7:00pm)
+
 ### Mon 10/27 9:37am
 * New movies: The Running Man 2025, Zootopia 2
 
