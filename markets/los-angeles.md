@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 10/27 2:18pm
+* New movies: Heads or Fails
+
+* New screenings: 
+    * [Heads Or Fails](https://drafthouse.com/los-angeles/show/heads-or-fails): Mon 11/17 (9:30pm)
+
 ### Mon 10/27 1:22pm
 * New movies: The McPherson Tape
 
