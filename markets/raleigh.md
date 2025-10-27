@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 10/27 6:25pm
+* New movies: Urchin
+
+* New screenings: 
+    * [Urchin](https://drafthouse.com/raleigh/show/urchin): Fri 11/7 (3:30pm)
+
 ### Mon 10/27 4:27pm
 * New movies: It Was Just an Accident, KPop Demon Hunters
 
