@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 10/27 12:18pm
+* New movies: Wild Things @ DTLA: THE MCPHERSON TAPE with Live Q&A
+
+* New screenings: 
+    * [Wild Things Dtla The Mcpherson Tape With Live Qa](https://drafthouse.com/los-angeles/show/wild-things-dtla-the-mcpherson-tape-with-live-qa): Wed 11/5 (7:15pm)
+
 ### Mon 10/27 10:19am
 
 * New screenings: 
