@@ -1,6 +1,24 @@
 # los-angeles
 
 ## Movie updates
+### Mon 10/27 4:19pm
+* New movies: Keeper, Die My Love, Now You See Me: Now You Don't, Dr. Seuss' How the Grinch Stole Christmas 2000: 25th Anniversary, Dr. Seuss' How the Grinch Stole Christmas 2000: 25th Anniversary, Mystery Machine 11/10/2025, The Doors: When You're Strange
+
+* New screenings: 
+    * [Die My Love](https://drafthouse.com/los-angeles/show/die-my-love): Thu 11/6 (4:00pm, 7:10pm), Fri 11/7 (11:50am, 3:00pm, 6:10pm, 9:20pm), Sat 11/8 (3:00pm, 6:10pm, 9:20pm), Sun 11/9 (11:50am, 3:00pm, 6:10pm), Mon 11/10 (11:50am, 3:00pm, 6:10pm, 9:20pm), Tue 11/11 (11:50am, 3:00pm, 6:10pm, 9:20pm), Wed 11/12 (11:50am, 3:00pm, 6:10pm, 9:20pm)
+
+    * [Dr Seuss How The Grinch Stole Christmas 2000 25th Anniversary](https://drafthouse.com/los-angeles/show/dr-seuss-how-the-grinch-stole-christmas-2000-25th-anniversary): Sat 12/13 (6:00pm), Sun 12/14 (3:00pm)
+
+    * [Keeper](https://drafthouse.com/los-angeles/show/keeper): Thu 11/13 (7:30pm, 10:40pm), Fri 11/14 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Sat 11/15 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Sun 11/16 (11:00am, 1:50pm, 4:40pm, 7:30pm), Mon 11/17 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Tue 11/18 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Wed 11/19 (11:00am, 1:50pm, 4:40pm, 6:40pm, 9:30pm)
+
+    * [Movie Party Dr Seuss How The Grinch Stole Christmas 2000 25th Anniversary](https://drafthouse.com/los-angeles/show/movie-party-dr-seuss-how-the-grinch-stole-christmas-2000-25th-anniversary): Sat 12/13 (11:30am)
+
+    * [Mystery Machine 11 10 2025](https://drafthouse.com/los-angeles/show/mystery-machine-11-10-2025): Mon 11/10 (7:00pm)
+
+    * [Now You See Me Now You Dont](https://drafthouse.com/los-angeles/show/now-you-see-me-now-you-dont): Thu 11/13 (3:00pm, 6:10pm, 9:15pm), Fri 11/14 (12:30pm, 3:35pm, 6:40pm, 9:45pm), Sat 11/15 (12:30pm, 3:35pm, 6:40pm, 9:45pm), Sun 11/16 (10:45am, 1:50pm, 4:55pm, 8:00pm), Tue 11/18 (1:00pm, 4:10pm), Wed 11/19 (12:30pm, 3:35pm, 10:00pm)
+
+    * [The Doors When Youre Strange](https://drafthouse.com/los-angeles/show/the-doors-when-youre-strange): Thu 12/4 (7:20pm), Sat 12/6 (3:15pm)
+
 ### Mon 10/27 3:20pm
 * New movies: Pee-Wee's Big Adventure
 
