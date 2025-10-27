@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Mon 10/27 9:37am
+* New movies: The Running Man 2025, Zootopia 2
+
+* New screenings: 
+    * [The Running Man 2025](https://drafthouse.com/raleigh/show/the-running-man-2025): Thu 11/13 (7:00pm, 10:30pm), Fri 11/14 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sun 11/16 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Mon 11/17 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Tue 11/18 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Wed 11/19 (11:30am, 3:00pm, 6:30pm, 9:50pm)
+
+    * [Zootopia 2](https://drafthouse.com/raleigh/show/zootopia-2): Tue 11/25 (3:15pm, 6:15pm, 9:15pm), Wed 11/26 (12:15pm, 3:15pm, 6:15pm, 7:15pm, 9:15pm), Thu 11/27 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Fri 11/28 (12:15pm, 3:15pm, 6:15pm, 7:15pm, 9:15pm), Sat 11/29 (12:15pm, 3:15pm, 6:15pm, 7:15pm), Sun 11/30 (12:15pm, 3:15pm, 6:15pm, 7:15pm, 9:15pm)
+
 ### Sat 10/25 2:33pm
 * New movies: Videoheaven, MULTIPLE MANIACS
 
