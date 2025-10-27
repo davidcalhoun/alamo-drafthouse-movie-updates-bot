@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Mon 10/27 6:33am
+* New movies: The Running Man 2025, Zootopia 2
+
+* New screenings: 
+    * [The Running Man 2025](https://drafthouse.com/los-angeles/show/the-running-man-2025): Thu 11/13 (7:10pm, 10:20pm), Fri 11/14 (11:15am, 2:45pm, 6:15pm, 9:45pm), Sat 11/15 (11:15am, 2:45pm, 6:15pm, 9:45pm), Sun 11/16 (11:15am, 2:45pm, 6:15pm), Mon 11/17 (11:15am, 2:45pm, 6:15pm, 9:45pm), Tue 11/18 (11:15am, 2:45pm, 6:15pm, 9:45pm), Wed 11/19 (11:15am, 2:45pm, 6:15pm, 9:45pm)
+
+    * [Zootopia 2](https://drafthouse.com/los-angeles/show/zootopia-2): Tue 11/25 (3:00pm, 6:00pm, 9:00pm), Wed 11/26 (10:00am, 1:00pm, 4:00pm, 7:00pm, 9:15pm), Thu 11/27 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Fri 11/28 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 11/29 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sun 11/30 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Mon 12/1 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Tue 12/2 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Wed 12/3 (12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
 ### Sat 10/25 11:28am
 
 * New screenings: 
