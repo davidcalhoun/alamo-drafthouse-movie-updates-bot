@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 10/28 3:21pm
+
+* New screenings: 
+    * [Wicked For Good](https://drafthouse.com/raleigh/show/wicked-for-good): Wed 11/26 (9:15am, 12:35pm, 4:00pm, 7:25pm, 10:45pm), Thu 11/27 (10:00am)
+
 ### Tue 10/28 1:26pm
 
 * New screenings: 
