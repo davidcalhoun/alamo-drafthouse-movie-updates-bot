@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 10/28 1:26pm
+
+* New screenings: 
+    * [Wicked For Good](https://drafthouse.com/raleigh/show/wicked-for-good): Sat 11/22 (8:30am), Thu 11/27 (8:30am), Fri 11/28 (8:30am), Sat 11/29 (8:30am)
+
 ### Tue 10/28 12:36pm
 * New movies: The Doors: When You're Strange
 
