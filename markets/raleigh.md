@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 10/28 12:36pm
+* New movies: The Doors: When You're Strange
+
+* New screenings: 
+    * [The Doors When Youre Strange](https://drafthouse.com/raleigh/show/the-doors-when-youre-strange): Thu 12/4 (6:30pm), Sat 12/6 (2:30pm)
+
 ### Tue 10/28 9:36am
 * New movies: Don't Look Now, Die My Love
 
