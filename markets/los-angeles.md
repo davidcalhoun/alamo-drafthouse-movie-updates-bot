@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 10/28 6:32am
+* New movies: Don't Look Now
+
+* New screenings: 
+    * [Guest Selects Dont Look Now](https://drafthouse.com/los-angeles/show/guest-selects-dont-look-now): Sat 11/8 (9:30pm)
+
 ### Mon 10/27 4:19pm
 * New movies: Keeper, Die My Love, Now You See Me: Now You Don't, Dr. Seuss' How the Grinch Stole Christmas 2000: 25th Anniversary, Dr. Seuss' How the Grinch Stole Christmas 2000: 25th Anniversary, Mystery Machine 11/10/2025, The Doors: When You're Strange
 
