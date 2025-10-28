@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Tue 10/28 9:36am
+* New movies: Don't Look Now, Die My Love
+
+* New screenings: 
+    * [Guest Selects Dont Look Now](https://drafthouse.com/raleigh/show/guest-selects-dont-look-now): Fri 11/7 (9:30pm)
+
+    * [Livestream Q A Die My Love](https://drafthouse.com/raleigh/show/livestream-q-a-die-my-love): Thu 11/6 (7:00pm)
+
 ### Tue 10/28 8:55am
 * New movies: Dr. Seuss' How the Grinch Stole Christmas 2000: 25th Anniversary, Dr. Seuss' How the Grinch Stole Christmas 2000: 25th Anniversary
 
