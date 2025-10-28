@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Tue 10/28 8:55am
+* New movies: Dr. Seuss' How the Grinch Stole Christmas 2000: 25th Anniversary, Dr. Seuss' How the Grinch Stole Christmas 2000: 25th Anniversary
+
+* New screenings: 
+    * [Dr Seuss How The Grinch Stole Christmas 2000 25th Anniversary](https://drafthouse.com/raleigh/show/dr-seuss-how-the-grinch-stole-christmas-2000-25th-anniversary): Sun 12/14 (11:30am)
+
+    * [Movie Party Dr Seuss How The Grinch Stole Christmas 2000 25th Anniversary](https://drafthouse.com/raleigh/show/movie-party-dr-seuss-how-the-grinch-stole-christmas-2000-25th-anniversary): Sat 12/13 (11:30am)
+
 ### Mon 10/27 6:25pm
 * New movies: Urchin
 
