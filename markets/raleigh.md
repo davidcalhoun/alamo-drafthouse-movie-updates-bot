@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Wed 10/29 5:24pm
+* New movies: The Erotic Rites of Frankenstein
+
+
+
 ### Wed 10/29 11:30am
 * New movies: Mystery Machine 11/10/2025
 
