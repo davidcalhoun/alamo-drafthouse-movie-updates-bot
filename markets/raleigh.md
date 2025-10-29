@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Wed 10/29 11:30am
+* New movies: Mystery Machine 11/10/2025
+
+* New screenings: 
+    * [Mystery Machine 11 10 2025](https://drafthouse.com/raleigh/show/mystery-machine-11-10-2025): Mon 11/10 (6:30pm)
+
+    * [Wicked For Good](https://drafthouse.com/raleigh/show/wicked-for-good): Sun 11/30 (8:30am)
+
+    * [Zootopia 2](https://drafthouse.com/raleigh/show/zootopia-2): Wed 11/26 (9:00am), Fri 11/28 (9:15am), Sat 11/29 (9:15am, 9:15pm), Sun 11/30 (9:15am)
+
 ### Tue 10/28 3:21pm
 
 * New screenings: 
