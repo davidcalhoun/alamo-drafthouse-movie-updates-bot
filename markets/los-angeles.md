@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/29 5:49am
+* New movies: Little Amelie or the Character of Rain Dubbed
+
+* New screenings: 
+    * [Little Amelie Or The Character Of Rain Dubbed](https://drafthouse.com/los-angeles/show/little-amelie-or-the-character-of-rain-dubbed): Fri 11/7 (11:00am, 1:40pm), Sat 11/8 (11:00am, 1:40pm), Sun 11/9 (11:00am, 1:40pm), Mon 11/10 (11:00am, 1:40pm), Tue 11/11 (11:00am, 1:40pm), Wed 11/12 (11:00am, 1:40pm)
+
 ### Tue 10/28 9:29pm
 * New movies: Now You See Me: Now You Don't
 
