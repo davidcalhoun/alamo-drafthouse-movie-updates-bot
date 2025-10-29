@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/29 8:26am
+* New movies: Mystery Machine 11/10/2025
+
+* New screenings: 
+    * [Mystery Machine 11 10 2025](https://drafthouse.com/los-angeles/show/mystery-machine-11-10-2025): Mon 11/10 (7:00pm)
+
 ### Wed 10/29 5:49am
 * New movies: Little Amelie or the Character of Rain Dubbed
 
