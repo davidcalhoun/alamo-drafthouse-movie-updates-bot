@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 10/28 9:29pm
+* New movies: Now You See Me: Now You Don't
+
+* New screenings: 
+    * [Now You See Me Now You Dont](https://drafthouse.com/los-angeles/show/now-you-see-me-now-you-dont): Thu 11/13 (3:00pm, 6:10pm, 9:15pm), Fri 11/14 (12:30pm, 3:35pm, 6:40pm, 9:45pm), Sat 11/15 (12:30pm, 3:35pm, 6:40pm, 9:45pm), Sun 11/16 (10:45am, 1:50pm, 4:55pm, 8:00pm), Tue 11/18 (1:00pm, 4:10pm), Wed 11/19 (12:30pm, 3:35pm, 10:00pm)
+
 ### Tue 10/28 9:30am
 * New movies: The Doors: When You're Strange
 
