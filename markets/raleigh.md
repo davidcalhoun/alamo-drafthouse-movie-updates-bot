@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Thu 10/30 10:03pm
+* New movies: Desperado, Reflection in a Dead Diamond
+
+* New screenings: 
+    * [Desperado](https://drafthouse.com/raleigh/show/desperado): Mon 12/8 (6:30pm)
+
+    * [Reflection In A Dead Diamond](https://drafthouse.com/raleigh/show/reflection-in-a-dead-diamond): Mon 11/24 (9:00pm)
+
 ### Wed 10/29 5:24pm
 * New movies: The Erotic Rites of Frankenstein
 
