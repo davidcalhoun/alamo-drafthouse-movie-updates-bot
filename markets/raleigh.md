@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 10/31 12:33pm
+* New movies: Bat-Fam
+
+* New screenings: 
+    * [Free Victory Screening Bat Fam](https://drafthouse.com/raleigh/show/free-victory-screening-bat-fam): Sat 11/8 (11:00am)
+
 ### Thu 10/30 10:03pm
 * New movies: Desperado, Reflection in a Dead Diamond
 
