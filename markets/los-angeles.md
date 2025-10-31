@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 10/31 10:20am
+* New movies: In My Skin
+
+* New screenings: 
+    * [In My Skin](https://drafthouse.com/los-angeles/show/in-my-skin): Wed 11/12 (8:00pm)
+
 ### Fri 10/31 9:28am
 * New movies: Bat-Fam
 
