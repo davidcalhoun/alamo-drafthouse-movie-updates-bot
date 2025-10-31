@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 10/31 9:28am
+* New movies: Bat-Fam
+
+* New screenings: 
+    * [Free Victory Screening Bat Fam](https://drafthouse.com/los-angeles/show/free-victory-screening-bat-fam): Sat 11/8 (11:00am)
+
 ### Wed 10/29 8:26am
 * New movies: Mystery Machine 11/10/2025
 
