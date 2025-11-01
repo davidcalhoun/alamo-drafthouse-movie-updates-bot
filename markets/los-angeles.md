@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 10/31 8:14pm
+* New movies: Urchin
+
+* New screenings: 
+    * [Urchin](https://drafthouse.com/los-angeles/show/urchin): Sun 11/9 (11:30am)
+
 ### Fri 10/31 10:20am
 * New movies: In My Skin
 
