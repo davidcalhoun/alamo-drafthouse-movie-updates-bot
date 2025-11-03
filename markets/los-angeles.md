@@ -1,6 +1,62 @@
 # los-angeles
 
 ## Movie updates
+### Mon 11/3 3:20pm
+* New movies: Christy, Baahubali: The Epic, Rabbit Trap
+
+* New screenings: 
+    * [Baahubali The Epic](https://drafthouse.com/los-angeles/show/baahubali-the-epic): Thu 11/6 (11:45am)
+
+    * [Back To The Future 40th Anniversary](https://drafthouse.com/los-angeles/show/back-to-the-future-40th-anniversary): Sat 11/8 (10:30pm), Mon 11/10 (4:20pm), Tue 11/11 (2:50pm), Wed 11/12 (2:50pm)
+
+    * [Black Phone 2](https://drafthouse.com/los-angeles/show/black-phone-2): Thu 11/6 (1:00pm, 3:35pm, 7:30pm, 10:35pm), Fri 11/7 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Sat 11/8 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Sun 11/9 (10:45am, 1:45pm, 4:45pm, 7:45pm), Mon 11/10 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Tue 11/11 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Wed 11/12 (12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
+    * [Bugonia](https://drafthouse.com/los-angeles/show/bugonia): Thu 11/6 (12:55pm, 2:50pm, 6:00pm, 10:20pm), Fri 11/7 (1:00pm, 4:10pm, 7:15pm, 10:45pm), Sat 11/8 (11:50am, 3:20pm, 6:25pm, 10:00pm), Sun 11/9 (12:00pm, 3:10pm, 6:15pm), Mon 11/10 (12:50pm, 4:00pm, 7:15pm, 10:20pm), Tue 11/11 (1:15pm, 4:25pm, 7:30pm, 10:40pm), Wed 11/12 (12:30pm, 3:40pm, 6:45pm, 10:45pm)
+
+    * [Chainsaw Man The Movie Reze Arc Dubbed](https://drafthouse.com/los-angeles/show/chainsaw-man-the-movie-reze-arc-dubbed): Thu 11/6 (12:40pm, 7:25pm), Fri 11/7 (11:20am, 5:15pm, 10:45pm), Sat 11/8 (11:20am, 5:15pm, 10:45pm), Sun 11/9 (2:30pm, 8:00pm), Mon 11/10 (11:20am, 5:15pm, 10:45pm), Tue 11/11 (2:30pm, 8:00pm), Wed 11/12 (2:30pm, 8:00pm)
+
+    * [Chainsaw Man The Movie Reze Arc Subtitled](https://drafthouse.com/los-angeles/show/chainsaw-man-the-movie-reze-arc-subtitled): Thu 11/6 (3:20pm, 10:40pm), Fri 11/7 (2:30pm, 8:00pm), Sat 11/8 (2:30pm, 8:00pm), Sun 11/9 (11:20am, 5:15pm), Mon 11/10 (2:30pm, 8:00pm), Tue 11/11 (11:20am, 5:15pm, 10:45pm), Wed 11/12 (11:20am, 5:15pm, 10:45pm)
+
+    * [Choose Me](https://drafthouse.com/los-angeles/show/choose-me): Tue 11/11 (4:35pm)
+
+    * [Christy](https://drafthouse.com/los-angeles/show/christy): Thu 11/6 (4:00pm, 6:40pm, 10:00pm), Fri 11/7 (11:45am, 3:15pm, 6:45pm, 10:05pm), Sat 11/8 (12:30pm, 4:00pm, 6:00pm, 9:40pm), Sun 11/9 (12:30pm, 4:00pm, 7:30pm), Mon 11/10 (11:45am, 3:15pm, 6:40pm, 10:00pm), Tue 11/11 (12:00pm, 3:30pm, 7:00pm, 10:00pm), Wed 11/12 (12:30pm, 4:00pm, 7:25pm, 9:55pm)
+
+    * [Desperately Seeking Susan](https://drafthouse.com/los-angeles/show/desperately-seeking-susan): Fri 11/7 (4:35pm), Mon 11/10 (1:00pm)
+
+    * [Die My Love](https://drafthouse.com/los-angeles/show/die-my-love): Thu 11/6 (10:25pm), Fri 11/7 (7:00pm), Sat 11/8 (11:25am)
+
+    * [Dracula 2025](https://drafthouse.com/los-angeles/show/dracula-2025): Thu 11/6 (12:40pm)
+
+    * [F My Son](https://drafthouse.com/los-angeles/show/f-my-son): Sun 11/9 (8:10pm), Wed 11/12 (10:45pm)
+
+    * [Frankenstein 2025](https://drafthouse.com/los-angeles/show/frankenstein-2025): Thu 11/6 (12:00pm, 3:25pm, 7:00pm, 9:15pm), Fri 11/7 (11:15am, 3:00pm, 6:45pm, 9:15pm), Sat 11/8 (11:15am, 3:00pm, 6:45pm, 10:00pm), Sun 11/9 (11:45am, 3:30pm, 7:15pm), Mon 11/10 (12:15pm, 4:00pm, 7:45pm, 9:40pm), Tue 11/11 (12:15pm, 4:00pm, 7:45pm, 9:40pm), Wed 11/12 (12:15pm, 4:00pm, 7:45pm, 9:40pm)
+
+    * [Good Fortune](https://drafthouse.com/los-angeles/show/good-fortune): Thu 11/6 (4:45pm, 10:30pm), Fri 11/7 (10:10pm), Sat 11/8 (7:15pm), Sun 11/9 (7:00pm), Mon 11/10 (10:00pm), Tue 11/11 (10:20pm)
+
+    * [Guest Selects Dont Look Now](https://drafthouse.com/los-angeles/show/guest-selects-dont-look-now): Fri 11/7 (10:25pm), Wed 11/12 (11:45am)
+
+    * [It Was Just An Accident](https://drafthouse.com/los-angeles/show/it-was-just-an-accident): Thu 11/6 (1:00pm, 4:45pm, 7:40pm), Fri 11/7 (11:40am, 3:20pm, 6:15pm), Sat 11/8 (12:30pm, 4:15pm, 7:10pm), Sun 11/9 (11:40am, 3:40pm, 6:40pm), Mon 11/10 (11:40am, 3:40pm, 6:35pm), Tue 11/11 (11:40am, 3:35pm, 6:30pm), Wed 11/12 (11:40am, 3:50pm, 6:45pm)
+
+    * [Knives Out](https://drafthouse.com/los-angeles/show/knives-out): Fri 11/7 (1:15pm), Tue 11/11 (1:15pm)
+
+    * [Little Amelie Or The Character Of Rain Dubbed](https://drafthouse.com/los-angeles/show/little-amelie-or-the-character-of-rain-dubbed): Thu 11/6 (6:15pm), Fri 11/7 (4:20pm), Sat 11/8 (4:20pm, 7:00pm), Sun 11/9 (4:20pm), Mon 11/10 (4:20pm, 7:00pm), Tue 11/11 (4:20pm, 7:00pm), Wed 11/12 (4:20pm, 7:00pm)
+
+    * [One Battle After Another](https://drafthouse.com/los-angeles/show/one-battle-after-another): Thu 11/6 (11:35am, 4:10pm, 8:00pm, 9:00pm), Fri 11/7 (11:30am, 2:10pm, 6:00pm, 9:50pm), Sat 11/8 (12:15pm, 2:10pm, 6:00pm, 9:50pm), Sun 11/9 (11:50am, 2:10pm, 6:00pm), Mon 11/10 (11:50am, 2:10pm, 6:00pm, 9:50pm), Tue 11/11 (11:45am, 2:10pm, 6:00pm, 9:50pm), Wed 11/12 (12:00pm, 2:10pm, 6:00pm, 9:50pm)
+
+    * [Predator Badlands](https://drafthouse.com/los-angeles/show/predator-badlands): Thu 11/6 (3:45pm, 7:30pm, 10:30pm), Fri 11/7 (7:30pm), Sat 11/8 (7:30pm)
+
+    * [Rabbit Trap](https://drafthouse.com/los-angeles/show/rabbit-trap): Fri 11/7 (10:30pm), Sat 11/8 (9:20pm)
+
+    * [Regretting You](https://drafthouse.com/los-angeles/show/regretting-you): Thu 11/6 (12:10pm)
+
+    * [Shelby Oaks](https://drafthouse.com/los-angeles/show/shelby-oaks): Thu 11/6 (12:10pm, 10:15pm), Fri 11/7 (10:30pm), Sat 11/8 (10:30pm), Mon 11/10 (9:30pm), Tue 11/11 (9:25pm), Wed 11/12 (9:40pm)
+
+    * [Springsteen Deliver Me From Nowhere](https://drafthouse.com/los-angeles/show/springsteen-deliver-me-from-nowhere): Thu 11/6 (12:15pm)
+
+    * [The Descent](https://drafthouse.com/los-angeles/show/the-descent): Sun 11/9 (2:15pm), Mon 11/10 (1:30pm)
+
+    * [To Live And Die In L A](https://drafthouse.com/los-angeles/show/to-live-and-die-in-l-a): Sun 11/9 (5:00pm), Mon 11/10 (3:50pm), Tue 11/11 (11:40am)
+
 ### Mon 11/3 7:24am
 * New movies: Elf, National Lampoon's Christmas Vacation, Last Night to Login: OVERLORD 10th Anniversary Celebration Dubbed, BRAZIL: THE DIRECTOR’S CUT, LITTLE WOMEN 2019
 
