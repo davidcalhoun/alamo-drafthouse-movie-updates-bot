@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 11/3 5:32am
+* New movies: Rental Family
+
+* New screenings: 
+    * [Rental Family](https://drafthouse.com/los-angeles/show/rental-family): Thu 11/20 (2:00pm, 4:55pm, 7:50pm, 10:50pm), Fri 11/21 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Sat 11/22 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Sun 11/23 (10:45am, 1:45pm, 4:45pm, 7:45pm), Mon 11/24 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Tue 11/25 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Wed 11/26 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm)
+
 ### Fri 10/31 8:14pm
 * New movies: Urchin
 
