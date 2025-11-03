@@ -1,6 +1,20 @@
 # los-angeles
 
 ## Movie updates
+### Mon 11/3 7:24am
+* New movies: Elf, National Lampoon's Christmas Vacation, Last Night to Login: OVERLORD 10th Anniversary Celebration Dubbed, BRAZIL: THE DIRECTOR’S CUT, LITTLE WOMEN 2019
+
+* New screenings: 
+    * [Brazil The Directors Cut](https://drafthouse.com/los-angeles/show/brazil-the-directors-cut): Mon 12/1 (9:30pm)
+
+    * [Last Night To Login Overlord 10th Anniversary Celebration Dubbed](https://drafthouse.com/los-angeles/show/last-night-to-login-overlord-10th-anniversary-celebration-dubbed): Mon 11/17 (7:00pm)
+
+    * [Little Women 2019](https://drafthouse.com/los-angeles/show/little-women-2019): Mon 12/1 (6:00pm)
+
+    * [Movie Party Elf](https://drafthouse.com/los-angeles/show/movie-party-elf): Sun 11/30 (12:00pm)
+
+    * [Movie Party National Lampoons Christmas Vacation](https://drafthouse.com/los-angeles/show/movie-party-national-lampoons-christmas-vacation): Wed 12/3 (7:20pm)
+
 ### Mon 11/3 5:32am
 * New movies: Rental Family
 
