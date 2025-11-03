@@ -1,6 +1,46 @@
 # raleigh
 
 ## Movie updates
+### Mon 11/3 10:28am
+* New movies: Elf, National Lampoon's Christmas Vacation, The Polar Express, Batman Returns, Carol, Kiss Kiss Bang Bang, Last Night to Login: OVERLORD 10th Anniversary Celebration Dubbed, Lethal Weapon, Love Actually, Phantom Thread, The Apartment, The Night of the Hunter, When Harry Met Sally..., BRAZIL: THE DIRECTOR’S CUT, LITTLE WOMEN 2019, THE HOLIDAY
+
+* New screenings: 
+    * [Batman Returns](https://drafthouse.com/raleigh/show/batman-returns): Sun 12/21 (1:10pm)
+
+    * [Brazil The Directors Cut](https://drafthouse.com/raleigh/show/brazil-the-directors-cut): Mon 12/1 (9:45pm)
+
+    * [Carol](https://drafthouse.com/raleigh/show/carol): Fri 12/12 (6:30pm)
+
+    * [Kiss Kiss Bang Bang](https://drafthouse.com/raleigh/show/kiss-kiss-bang-bang): Sun 12/7 (2:45pm)
+
+    * [Last Night To Login Overlord 10th Anniversary Celebration Dubbed](https://drafthouse.com/raleigh/show/last-night-to-login-overlord-10th-anniversary-celebration-dubbed): Mon 11/17 (6:15pm)
+
+    * [Lethal Weapon](https://drafthouse.com/raleigh/show/lethal-weapon): Tue 12/2 (6:30pm)
+
+    * [Little Women 2019](https://drafthouse.com/raleigh/show/little-women-2019): Mon 12/1 (6:30pm)
+
+    * [Love Actually](https://drafthouse.com/raleigh/show/love-actually): Mon 12/15 (3:15pm)
+
+    * [Movie Party Elf](https://drafthouse.com/raleigh/show/movie-party-elf): Sun 11/30 (10:00am), Sat 12/6 (11:30am), Tue 12/16 (6:30pm), Sat 12/20 (10:30am)
+
+    * [Movie Party National Lampoons Christmas Vacation](https://drafthouse.com/raleigh/show/movie-party-national-lampoons-christmas-vacation): Wed 12/3 (6:30pm), Tue 12/9 (6:30pm), Wed 12/17 (6:30pm), Sun 12/21 (10:30am)
+
+    * [Movie Party The Polar Express](https://drafthouse.com/raleigh/show/movie-party-the-polar-express): Sun 12/14 (2:30pm)
+
+    * [Phantom Thread](https://drafthouse.com/raleigh/show/phantom-thread): Mon 12/29 (11:30am)
+
+    * [Rental Family](https://drafthouse.com/raleigh/show/rental-family): Thu 11/20 (3:15pm, 9:15pm), Fri 11/21 (11:45am, 3:00pm, 9:15pm), Sat 11/22 (11:45am, 3:00pm, 9:15pm), Sun 11/23 (12:30pm, 3:45pm, 10:00pm)
+
+    * [The Apartment](https://drafthouse.com/raleigh/show/the-apartment): Wed 12/31 (10:30am)
+
+    * [The Holiday](https://drafthouse.com/raleigh/show/the-holiday): Sun 12/7 (11:30am)
+
+    * [The Night Of The Hunter](https://drafthouse.com/raleigh/show/the-night-of-the-hunter): Sun 12/28 (10:30am)
+
+    * [The Running Man 2025](https://drafthouse.com/raleigh/show/the-running-man-2025): Sat 11/15 (12:00pm, 3:30pm, 7:00pm, 10:30pm)
+
+    * [When Harry Met Sally](https://drafthouse.com/raleigh/show/when-harry-met-sally): Sat 12/27 (10:30am)
+
 ### Mon 11/3 8:36am
 * New movies: Rental Family
 
