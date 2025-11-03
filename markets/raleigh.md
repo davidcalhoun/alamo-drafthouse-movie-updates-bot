@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 11/3 8:36am
+* New movies: Rental Family
+
+* New screenings: 
+    * [Rental Family](https://drafthouse.com/raleigh/show/rental-family): Thu 11/20 (6:15pm), Fri 11/21 (6:15pm), Sat 11/22 (6:15pm), Sun 11/23 (7:00pm)
+
 ### Fri 10/31 12:33pm
 * New movies: Bat-Fam
 
