@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 11/4 10:29am
+
+* New screenings: 
+    * [Regretting You](https://drafthouse.com/raleigh/show/regretting-you): Tue 11/4 (10:15pm)
+
 ### Tue 11/4 9:29am
 * New movies: Hamnet
 
