@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 11/4 11:33am
+* New movies: Rebecca: Becky G
+
+* New screenings: 
+    * [Rebecca Becky G](https://drafthouse.com/raleigh/show/rebecca-becky-g): Wed 12/10 (6:30pm), Sat 12/13 (2:30pm)
+
 ### Tue 11/4 10:29am
 
 * New screenings: 
