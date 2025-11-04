@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 11/4 6:23am
+* New movies: Hamnet
+
+* New screenings: 
+    * [Hamnet](https://drafthouse.com/los-angeles/show/hamnet): Wed 11/26 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Thu 11/27 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Fri 11/28 (9:15am, 12:30pm, 3:45pm, 7:00pm, 10:15pm), Sat 11/29 (9:15am, 12:30pm, 3:45pm, 7:00pm, 10:15pm), Sun 11/30 (9:15am, 12:30pm, 3:45pm, 7:00pm), Mon 12/1 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Tue 12/2 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Wed 12/3 (11:45am, 3:00pm, 6:15pm, 9:30pm)
+
 ### Tue 11/4 2:27am
 * New movies: The Polar Express, Batman Returns, Carol, Eyes Wide Shut, It's a Wonderful Life, Love Actually, Phantom Thread, Safe 1995
 
