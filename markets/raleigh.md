@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 11/4 4:24pm
+* New movies: Rebbeca: Becky G
+
+
+
 ### Tue 11/4 12:23pm
 * New movies: Eyes Wide Shut, It's a Wonderful Life
 
