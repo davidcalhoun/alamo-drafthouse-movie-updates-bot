@@ -1,6 +1,26 @@
 # los-angeles
 
 ## Movie updates
+### Mon 11/3 8:26pm
+* New movies: Desperado, Kiss Kiss Bang Bang, Lethal Weapon, Reflection in a Dead Diamond, THE HOLIDAY
+
+* New screenings: 
+    * [Dead](https://drafthouse.com/los-angeles/show/dead): Mon 11/17 (4:20pm), Tue 11/18 (9:25pm), Wed 11/19 (4:15pm)
+
+    * [Desperado](https://drafthouse.com/los-angeles/show/desperado): Sun 12/7 (3:10pm)
+
+    * [Gumby](https://drafthouse.com/los-angeles/show/gumby): Fri 11/14 (12:00pm)
+
+    * [Kiss Kiss Bang Bang](https://drafthouse.com/los-angeles/show/kiss-kiss-bang-bang): Mon 12/8 (7:20pm)
+
+    * [Lethal Weapon](https://drafthouse.com/los-angeles/show/lethal-weapon): Tue 12/2 (7:20pm)
+
+    * [Movie Party Elf](https://drafthouse.com/los-angeles/show/movie-party-elf): Sat 12/6 (11:00am)
+
+    * [Reflection In A Dead Diamond](https://drafthouse.com/los-angeles/show/reflection-in-a-dead-diamond): Mon 11/24 (10:00pm)
+
+    * [The Holiday](https://drafthouse.com/los-angeles/show/the-holiday): Sun 12/7 (11:45am)
+
 ### Mon 11/3 3:20pm
 * New movies: Christy, Baahubali: The Epic, Rabbit Trap
 
