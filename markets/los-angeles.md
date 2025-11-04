@@ -1,6 +1,30 @@
 # los-angeles
 
 ## Movie updates
+### Tue 11/4 2:27am
+* New movies: The Polar Express, Batman Returns, Carol, Eyes Wide Shut, It's a Wonderful Life, Love Actually, Phantom Thread, Safe 1995
+
+* New screenings: 
+    * [Batman Returns](https://drafthouse.com/los-angeles/show/batman-returns): Wed 12/24 (2:45pm)
+
+    * [Carol](https://drafthouse.com/los-angeles/show/carol): Fri 12/12 (7:20pm)
+
+    * [Eyes Wide Shut](https://drafthouse.com/los-angeles/show/eyes-wide-shut): Tue 12/23 (6:00pm)
+
+    * [Its A Wonderful Life](https://drafthouse.com/los-angeles/show/its-a-wonderful-life): Wed 12/24 (11:30am)
+
+    * [Love Actually](https://drafthouse.com/los-angeles/show/love-actually): Sat 12/13 (11:40am)
+
+    * [Movie Party Elf](https://drafthouse.com/los-angeles/show/movie-party-elf): Mon 12/15 (7:20pm), Wed 12/17 (7:20pm), Sat 12/20 (11:30am)
+
+    * [Movie Party National Lampoons Christmas Vacation](https://drafthouse.com/los-angeles/show/movie-party-national-lampoons-christmas-vacation): Sun 12/14 (12:10pm), Tue 12/16 (7:20pm), Sun 12/21 (11:30am)
+
+    * [Movie Party The Polar Express](https://drafthouse.com/los-angeles/show/movie-party-the-polar-express): Sun 12/14 (2:00pm)
+
+    * [Phantom Thread](https://drafthouse.com/los-angeles/show/phantom-thread): Sat 12/27 (11:30am)
+
+    * [Safe 1995](https://drafthouse.com/los-angeles/show/safe-1995): Sat 12/27 (2:50pm)
+
 ### Mon 11/3 8:26pm
 * New movies: Desperado, Kiss Kiss Bang Bang, Lethal Weapon, Reflection in a Dead Diamond, THE HOLIDAY
 
