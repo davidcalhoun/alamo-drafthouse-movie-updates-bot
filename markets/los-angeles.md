@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 11/4 8:27am
+* New movies: Rebecca: Becky G
+
+* New screenings: 
+    * [Rebecca Becky G](https://drafthouse.com/los-angeles/show/rebecca-becky-g): Wed 12/10 (6:00pm), Sat 12/13 (3:00pm)
+
 ### Tue 11/4 7:25am
 * New movies: The Mighty Nein
 
