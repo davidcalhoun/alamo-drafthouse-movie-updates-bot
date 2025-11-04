@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 11/4 9:29am
+* New movies: Hamnet
+
+* New screenings: 
+    * [Hamnet](https://drafthouse.com/raleigh/show/hamnet): Thu 12/4 (7:15pm), Fri 12/5 (7:15pm), Sat 12/6 (7:15pm), Sun 12/7 (7:15pm)
+
 ### Mon 11/3 9:04pm
 * New movies: Die My Love, Christy, Little Amelie or the Character of Rain Dubbed
 
