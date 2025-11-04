@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Tue 11/4 12:23pm
+* New movies: Eyes Wide Shut, It's a Wonderful Life
+
+* New screenings: 
+    * [Eyes Wide Shut](https://drafthouse.com/raleigh/show/eyes-wide-shut): Tue 12/23 (6:30pm)
+
+    * [Its A Wonderful Life](https://drafthouse.com/raleigh/show/its-a-wonderful-life): Wed 12/24 (10:30am)
+
 ### Tue 11/4 11:33am
 * New movies: Rebecca: Becky G
 
