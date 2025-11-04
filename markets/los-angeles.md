@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 11/4 7:25am
+* New movies: The Mighty Nein
+
+* New screenings: 
+    * [Free Victory Screening The Mighty Nein](https://drafthouse.com/los-angeles/show/free-victory-screening-the-mighty-nein): Tue 11/18 (7:00pm)
+
 ### Tue 11/4 6:23am
 * New movies: Hamnet
 
