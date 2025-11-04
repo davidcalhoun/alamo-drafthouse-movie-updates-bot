@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 11/4 1:20pm
+* New movies: Rebbeca: Becky G
+
+
+
 ### Tue 11/4 8:27am
 * New movies: Rebecca: Becky G
 
