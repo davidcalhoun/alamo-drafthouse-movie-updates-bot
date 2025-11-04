@@ -1,6 +1,48 @@
 # raleigh
 
 ## Movie updates
+### Mon 11/3 9:04pm
+* New movies: Die My Love, Christy, Little Amelie or the Character of Rain Dubbed
+
+* New screenings: 
+    * [Back To The Future 40th Anniversary](https://drafthouse.com/raleigh/show/back-to-the-future-40th-anniversary): Thu 11/6 (12:15pm), Sun 11/9 (6:15pm)
+
+    * [Black Phone 2](https://drafthouse.com/raleigh/show/black-phone-2): Thu 11/6 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Fri 11/7 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Sat 11/8 (1:00pm, 4:15pm, 7:15pm, 10:15pm), Sun 11/9 (1:30pm, 5:00pm, 7:15pm, 10:15pm), Mon 11/10 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Tue 11/11 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Wed 11/12 (1:15pm, 4:15pm, 7:15pm, 10:15pm)
+
+    * [Bugonia](https://drafthouse.com/raleigh/show/bugonia): Thu 11/6 (12:00pm, 3:00pm, 4:30pm, 6:00pm, 9:00pm), Fri 11/7 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 11/8 (1:45pm, 4:45pm, 7:45pm, 10:50pm), Sun 11/9 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Mon 11/10 (12:00pm, 3:00pm, 6:00pm, 9:45pm), Tue 11/11 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Wed 11/12 (12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
+    * [Chainsaw Man The Movie Reze Arc Dubbed](https://drafthouse.com/raleigh/show/chainsaw-man-the-movie-reze-arc-dubbed): Thu 11/6 (2:00pm), Fri 11/7 (8:00pm, 10:45pm), Sat 11/8 (7:30pm, 10:30pm), Sun 11/9 (8:00pm, 10:45pm), Mon 11/10 (8:00pm, 10:45pm), Tue 11/11 (8:00pm, 10:45pm), Wed 11/12 (8:00pm, 10:45pm)
+
+    * [Chainsaw Man The Movie Reze Arc Subtitled](https://drafthouse.com/raleigh/show/chainsaw-man-the-movie-reze-arc-subtitled): Thu 11/6 (5:00pm, 8:00pm, 10:45pm), Fri 11/7 (2:00pm, 5:00pm), Sat 11/8 (12:30pm, 4:45pm), Sun 11/9 (12:30pm, 4:30pm), Mon 11/10 (2:00pm, 5:00pm), Tue 11/11 (2:00pm, 5:00pm), Wed 11/12 (2:00pm, 5:00pm)
+
+    * [Christy](https://drafthouse.com/raleigh/show/christy): Thu 11/6 (6:30pm, 9:45pm), Fri 11/7 (12:15pm, 2:45pm, 6:15pm, 9:45pm), Sat 11/8 (1:30pm, 3:15pm, 6:30pm, 9:45pm), Sun 11/9 (1:45pm, 3:15pm, 6:30pm, 9:45pm), Mon 11/10 (12:15pm, 2:45pm, 6:15pm, 9:45pm), Tue 11/11 (12:15pm, 2:45pm, 6:00pm, 9:15pm), Wed 11/12 (12:15pm, 2:45pm, 6:15pm, 9:45pm)
+
+    * [Die My Love](https://drafthouse.com/raleigh/show/die-my-love): Thu 11/6 (4:15pm, 10:30pm), Fri 11/7 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Sat 11/8 (1:00pm, 4:15pm, 7:15pm, 10:30pm), Sun 11/9 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Mon 11/10 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Tue 11/11 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Wed 11/12 (1:15pm, 4:15pm, 7:15pm, 10:15pm)
+
+    * [Frankenstein 2025](https://drafthouse.com/raleigh/show/frankenstein-2025): Thu 11/6 (7:15pm, 10:00pm), Fri 11/7 (6:15pm, 9:45pm), Sat 11/8 (6:30pm, 10:15pm), Sun 11/9 (6:30pm), Mon 11/10 (6:15pm, 9:30pm), Tue 11/11 (6:15pm), Wed 11/12 (6:15pm)
+
+    * [Good Fortune](https://drafthouse.com/raleigh/show/good-fortune): Thu 11/6 (12:30pm, 1:45pm)
+
+    * [It Was Just An Accident](https://drafthouse.com/raleigh/show/it-was-just-an-accident): Thu 11/6 (1:00pm), Fri 11/7 (3:15pm), Sat 11/8 (5:00pm), Sun 11/9 (3:15pm, 10:15pm), Mon 11/10 (3:15pm), Tue 11/11 (3:15pm), Wed 11/12 (3:15pm)
+
+    * [Little Amelie Or The Character Of Rain Dubbed](https://drafthouse.com/raleigh/show/little-amelie-or-the-character-of-rain-dubbed): Thu 11/6 (7:30pm), Fri 11/7 (12:15pm, 12:45pm), Sat 11/8 (11:45am, 2:30pm), Sun 11/9 (12:45pm), Mon 11/10 (12:45pm, 3:30pm), Tue 11/11 (12:45pm, 3:30pm), Wed 11/12 (12:45pm, 3:30pm)
+
+    * [One Battle After Another](https://drafthouse.com/raleigh/show/one-battle-after-another): Thu 11/6 (3:15pm)
+
+    * [Pee Wees Big Adventure](https://drafthouse.com/raleigh/show/pee-wees-big-adventure): Thu 11/6 (12:30pm)
+
+    * [Predator Badlands](https://drafthouse.com/raleigh/show/predator-badlands): Thu 11/6 (4:00pm, 10:00pm), Fri 11/7 (1:00pm, 4:00pm, 6:30pm, 10:00pm), Sat 11/8 (12:45pm, 4:00pm, 9:55pm), Sun 11/9 (1:00pm, 4:00pm, 10:00pm), Mon 11/10 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Tue 11/11 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Wed 11/12 (1:00pm, 4:00pm, 7:00pm, 10:00pm)
+
+    * [Regretting You](https://drafthouse.com/raleigh/show/regretting-you): Thu 11/6 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Fri 11/7 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sat 11/8 (11:45am, 2:45pm, 6:15pm, 9:15pm), Sun 11/9 (12:15pm, 3:30pm, 6:30pm, 9:30pm), Mon 11/10 (12:15pm, 3:30pm, 6:30pm, 9:30pm), Tue 11/11 (12:15pm, 3:15pm, 6:30pm, 10:30pm), Wed 11/12 (12:15pm, 3:30pm, 6:30pm, 9:30pm)
+
+    * [Shelby Oaks](https://drafthouse.com/raleigh/show/shelby-oaks): Thu 11/6 (10:45pm), Sun 11/9 (9:30pm), Tue 11/11 (9:45pm), Wed 11/12 (9:45pm)
+
+    * [Springsteen Deliver Me From Nowhere](https://drafthouse.com/raleigh/show/springsteen-deliver-me-from-nowhere): Thu 11/6 (1:00pm, 3:15pm, 6:15pm, 9:15pm), Fri 11/7 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 11/8 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sun 11/9 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Mon 11/10 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Tue 11/11 (12:00pm, 3:00pm, 6:30pm, 9:30pm), Wed 11/12 (12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
+    * [To Live And Die In L A](https://drafthouse.com/raleigh/show/to-live-and-die-in-l-a): Sat 11/8 (8:00pm), Mon 11/10 (9:00pm)
+
+    * [Tron Ares](https://drafthouse.com/raleigh/show/tron-ares): Thu 11/6 (3:30pm)
+
 ### Mon 11/3 10:28am
 * New movies: Elf, National Lampoon's Christmas Vacation, The Polar Express, Batman Returns, Carol, Kiss Kiss Bang Bang, Last Night to Login: OVERLORD 10th Anniversary Celebration Dubbed, Lethal Weapon, Love Actually, Phantom Thread, The Apartment, The Night of the Hunter, When Harry Met Sally..., BRAZIL: THE DIRECTOR’S CUT, LITTLE WOMEN 2019, THE HOLIDAY
 
