@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Wed 11/5 8:38am
+* New movies: Five Nights at Freddy's 2, Sisu: Road to Revenge, Five Nights at Freddy's 2
+
+* New screenings: 
+    * [Five Nights At Freddys 2](https://drafthouse.com/raleigh/show/five-nights-at-freddys-2): Thu 12/4 (6:00pm), Fri 12/5 (6:00pm), Sat 12/6 (6:00pm), Sun 12/7 (6:00pm)
+
+    * [Movie Party Five Nights At Freddys 2](https://drafthouse.com/raleigh/show/movie-party-five-nights-at-freddys-2): Fri 12/5 (6:30pm)
+
+    * [Sisu Road To Revenge](https://drafthouse.com/raleigh/show/sisu-road-to-revenge): Thu 11/20 (7:15pm), Fri 11/21 (7:15pm), Sat 11/22 (7:15pm), Sun 11/23 (7:15pm)
+
 ### Tue 11/4 4:24pm
 * New movies: Rebbeca: Becky G
 
