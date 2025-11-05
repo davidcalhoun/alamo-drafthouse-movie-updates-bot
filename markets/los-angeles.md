@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Wed 11/5 5:33am
+* New movies: Five Nights at Freddy's 2, Sisu: Road to Revenge, Five Nights at Freddy's 2
+
+* New screenings: 
+    * [Five Nights At Freddys 2](https://drafthouse.com/los-angeles/show/five-nights-at-freddys-2): Thu 12/4 (2:00pm, 4:50pm, 7:45pm, 10:40pm), Fri 12/5 (10:45am, 1:40pm, 4:35pm, 10:30pm), Sat 12/6 (10:45am, 1:40pm, 4:35pm, 7:30pm, 10:25pm), Sun 12/7 (10:45am, 1:40pm, 4:35pm, 7:30pm), Mon 12/8 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:40pm), Tue 12/9 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:40pm), Wed 12/10 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:40pm)
+
+    * [Movie Party Five Nights At Freddys 2](https://drafthouse.com/los-angeles/show/movie-party-five-nights-at-freddys-2): Fri 12/5 (7:30pm)
+
+    * [Sisu Road To Revenge](https://drafthouse.com/los-angeles/show/sisu-road-to-revenge): Thu 11/20 (5:00pm, 7:45pm, 10:30pm), Fri 11/21 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sat 11/22 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sun 11/23 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Mon 11/24 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm)
+
 ### Tue 11/4 1:20pm
 * New movies: Rebbeca: Becky G
 
