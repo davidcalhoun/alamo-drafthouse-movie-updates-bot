@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 11/5 1:21pm
+* New movies: No Sleep Till
+
+* New screenings: 
+    * [Live Q A No Sleep Till](https://drafthouse.com/los-angeles/show/live-q-a-no-sleep-till): Mon 11/17 (7:45pm)
+
+    * [Movie Party Elf](https://drafthouse.com/los-angeles/show/movie-party-elf): Sat 12/6 (12:15pm), Sat 12/20 (12:00pm)
+
 ### Wed 11/5 5:33am
 * New movies: Five Nights at Freddy's 2, Sisu: Road to Revenge, Five Nights at Freddy's 2
 
