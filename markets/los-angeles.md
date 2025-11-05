@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Wed 11/5 2:21pm
+* New movies: WWW.RACHELORMONT.COM, The Apartment, The Night of the Hunter, When Harry Met Sally...
+
+* New screenings: 
+    * [The Apartment](https://drafthouse.com/los-angeles/show/the-apartment): Wed 12/31 (11:45am)
+
+    * [The Night Of The Hunter](https://drafthouse.com/los-angeles/show/the-night-of-the-hunter): Tue 12/30 (12:15pm)
+
+    * [When Harry Met Sally](https://drafthouse.com/los-angeles/show/when-harry-met-sally): Mon 12/29 (12:15pm)
+
+    * [Www Rachelormont Com](https://drafthouse.com/los-angeles/show/www-rachelormont-com): Fri 1/9 (9:45pm), Tue 1/13 (7:20pm)
+
 ### Wed 11/5 1:21pm
 * New movies: No Sleep Till
 
