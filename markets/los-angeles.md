@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 11/5 5:51pm
+
+* New screenings: 
+    * [Movie Party National Lampoons Christmas Vacation](https://drafthouse.com/los-angeles/show/movie-party-national-lampoons-christmas-vacation): Mon 12/8 (6:00pm)
+
 ### Wed 11/5 2:21pm
 * New movies: WWW.RACHELORMONT.COM, The Apartment, The Night of the Hunter, When Harry Met Sally...
 
