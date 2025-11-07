@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 11/6 10:16pm
+* New movies: Wake Up Dead Man: A Knives Out Mystery
+
+* New screenings: 
+    * [Wake Up Dead Man A Knives Out Mystery](https://drafthouse.com/raleigh/show/wake-up-dead-man-a-knives-out-mystery): Tue 11/25 (7:00pm, 10:30pm), Wed 11/26 (9:00am, 12:25pm, 3:50pm, 7:15pm, 10:40pm), Thu 11/27 (3:30pm, 7:15pm, 10:40pm), Sat 11/29 (9:00am, 12:25pm, 3:50pm, 7:15pm, 10:40pm), Sun 11/30 (9:00am, 12:25pm, 3:50pm, 7:15pm, 10:40pm)
+
 ### Wed 11/5 8:38am
 * New movies: Five Nights at Freddy's 2, Sisu: Road to Revenge, Five Nights at Freddy's 2
 
