@@ -1,6 +1,19 @@
 # raleigh
 
 ## Movie updates
+### Sat 11/8 10:24am
+
+* New screenings: 
+    * [Die My Love](https://drafthouse.com/raleigh/show/die-my-love): Sat 11/8 (9:30pm), Mon 11/10 (7:30pm), Tue 11/11 (10:30pm), Wed 11/12 (10:45pm)
+
+    * [Frankenstein 2025](https://drafthouse.com/raleigh/show/frankenstein-2025): Sat 11/8 (6:00pm), Sun 11/9 (7:15pm), Mon 11/10 (10:30pm), Tue 11/11 (4:00pm), Wed 11/12 (12:30pm, 4:00pm)
+
+    * [Knives Out](https://drafthouse.com/raleigh/show/knives-out): Sat 11/8 (2:45pm), Sun 11/9 (4:00pm), Mon 11/10 (1:00pm), Tue 11/11 (12:45pm), Wed 11/12 (7:30pm)
+
+    * [Predator Badlands](https://drafthouse.com/raleigh/show/predator-badlands): Sat 11/8 (11:30am), Sun 11/9 (1:00pm)
+
+    * [To Live And Die In L A](https://drafthouse.com/raleigh/show/to-live-and-die-in-l-a): Sun 11/9 (10:45pm), Mon 11/10 (4:30pm), Tue 11/11 (7:30pm)
+
 ### Thu 11/6 10:16pm
 * New movies: Wake Up Dead Man: A Knives Out Mystery
 
