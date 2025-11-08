@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 11/7 5:43pm
+* New movies: Man Finds Tape, Mistress Dispeller
+
+* New screenings: 
+    * [Live Q A Man Finds Tape](https://drafthouse.com/los-angeles/show/live-q-a-man-finds-tape): Fri 12/5 (7:20pm), Sat 12/6 (6:00pm)
+
+    * [Mistress Dispeller](https://drafthouse.com/los-angeles/show/mistress-dispeller): Sat 12/6 (6:00pm), Tue 12/9 (6:00pm)
+
 ### Wed 11/5 5:51pm
 
 * New screenings: 
