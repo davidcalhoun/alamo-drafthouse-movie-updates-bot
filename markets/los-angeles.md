@@ -1,6 +1,64 @@
 # los-angeles
 
 ## Movie updates
+### Mon 11/10 2:22pm
+* New movies: The Lighthouse
+
+* New screenings: 
+    * [Angels Egg Dubbed](https://drafthouse.com/los-angeles/show/angels-egg-dubbed): Wed 11/19 (10:15pm)
+
+    * [Angels Egg Subtitled](https://drafthouse.com/los-angeles/show/angels-egg-subtitled): Wed 11/19 (11:00pm)
+
+    * [Back To The Future 40th Anniversary](https://drafthouse.com/los-angeles/show/back-to-the-future-40th-anniversary): Thu 11/13 (3:20pm)
+
+    * [Black Phone 2](https://drafthouse.com/los-angeles/show/black-phone-2): Sat 11/15 (10:10pm), Mon 11/17 (10:45pm)
+
+    * [Bugonia](https://drafthouse.com/los-angeles/show/bugonia): Thu 11/13 (12:40pm, 3:50pm, 6:15pm, 10:15pm), Fri 11/14 (11:10am, 4:10pm, 7:15pm, 10:30pm), Sat 11/15 (11:10am, 4:10pm, 7:15pm, 10:35pm), Sun 11/16 (11:10am, 1:25pm, 4:30pm, 7:35pm), Mon 11/17 (1:00pm, 4:10pm, 7:15pm, 10:40pm), Tue 11/18 (11:10am, 12:50pm, 4:10pm, 7:15pm, 10:35pm), Wed 11/19 (1:00pm, 4:10pm, 7:15pm)
+
+    * [Chainsaw Man The Movie Reze Arc Dubbed](https://drafthouse.com/los-angeles/show/chainsaw-man-the-movie-reze-arc-dubbed): Thu 11/13 (12:45pm), Fri 11/14 (12:00pm), Sat 11/15 (12:00pm), Sun 11/16 (12:40pm), Mon 11/17 (12:00pm), Tue 11/18 (12:00pm), Wed 11/19 (12:00pm)
+
+    * [Chainsaw Man The Movie Reze Arc Subtitled](https://drafthouse.com/los-angeles/show/chainsaw-man-the-movie-reze-arc-subtitled): Thu 11/13 (3:40pm)
+
+    * [Chicken Run 25th Anniversary](https://drafthouse.com/los-angeles/show/chicken-run-25th-anniversary): Thu 11/13 (12:45pm)
+
+    * [Christy](https://drafthouse.com/los-angeles/show/christy): Thu 11/13 (11:40am)
+
+    * [Die My Love](https://drafthouse.com/los-angeles/show/die-my-love): Thu 11/13 (1:10pm, 4:20pm, 6:50pm, 10:00pm), Fri 11/14 (1:00pm, 4:35pm, 7:45pm, 10:50pm), Sat 11/15 (1:00pm, 4:35pm, 7:45pm, 10:50pm), Sun 11/16 (11:50am, 3:00pm, 6:50pm), Mon 11/17 (11:50am, 1:50pm, 3:15pm, 6:20pm, 10:20pm), Tue 11/18 (1:00pm, 4:35pm, 7:45pm, 10:50pm), Wed 11/19 (1:15pm, 3:15pm, 6:20pm, 10:20pm)
+
+    * [F My Son](https://drafthouse.com/los-angeles/show/f-my-son): Thu 11/13 (4:30pm)
+
+    * [Frankenstein 2025](https://drafthouse.com/los-angeles/show/frankenstein-2025): Thu 11/13 (3:00pm, 6:40pm, 10:15pm), Fri 11/14 (2:15pm, 6:00pm, 9:45pm), Sat 11/15 (2:15pm, 6:00pm, 9:45pm), Sun 11/16 (2:15pm, 6:00pm), Mon 11/17 (2:15pm, 6:00pm, 9:45pm), Tue 11/18 (2:15pm, 6:00pm, 9:45pm), Wed 11/19 (3:30pm, 6:00pm, 9:45pm)
+
+    * [Glass Onion Knives Out Mystery](https://drafthouse.com/los-angeles/show/glass-onion-knives-out-mystery): Sat 11/15 (10:25pm), Sun 11/16 (2:15pm), Wed 11/19 (12:00pm)
+
+    * [Good Fortune](https://drafthouse.com/los-angeles/show/good-fortune): Thu 11/13 (12:35pm, 3:25pm)
+
+    * [Gumby](https://drafthouse.com/los-angeles/show/gumby): Mon 11/17 (11:20am), Tue 11/18 (12:15pm), Wed 11/19 (11:10am)
+
+    * [It Was Just An Accident](https://drafthouse.com/los-angeles/show/it-was-just-an-accident): Thu 11/13 (12:10pm), Sun 11/16 (12:10pm), Mon 11/17 (11:00am)
+
+    * [Knives Out](https://drafthouse.com/los-angeles/show/knives-out): Thu 11/13 (3:10pm)
+
+    * [Little Amelie Or The Character Of Rain Dubbed](https://drafthouse.com/los-angeles/show/little-amelie-or-the-character-of-rain-dubbed): Thu 11/13 (12:20pm)
+
+    * [Now You See Me Now You Dont](https://drafthouse.com/los-angeles/show/now-you-see-me-now-you-dont): Mon 11/17 (12:30pm, 3:35pm, 6:40pm, 9:45pm), Tue 11/18 (6:40pm, 9:50pm), Wed 11/19 (7:10pm)
+
+    * [One Battle After Another](https://drafthouse.com/los-angeles/show/one-battle-after-another): Thu 11/13 (11:45am, 3:00pm, 6:20pm, 9:25pm), Fri 11/14 (12:45pm, 2:50pm, 6:40pm, 10:20pm), Sat 11/15 (12:45pm, 2:50pm, 6:45pm, 10:20pm), Sun 11/16 (3:00pm, 6:10pm), Mon 11/17 (11:25am, 2:50pm, 8:00pm, 9:30pm), Tue 11/18 (12:45pm, 2:50pm, 6:45pm, 9:30pm), Wed 11/19 (11:25am, 2:50pm, 6:40pm, 9:30pm)
+
+    * [Predator Badlands](https://drafthouse.com/los-angeles/show/predator-badlands): Thu 11/13 (1:45pm, 4:45pm, 7:45pm, 10:45pm), Fri 11/14 (11:00am, 2:00pm, 5:00pm, 8:00pm, 11:00pm), Sat 11/15 (11:00am, 2:00pm, 5:00pm, 8:00pm, 11:00pm), Sun 11/16 (10:45am, 1:45pm, 4:45pm, 7:45pm), Mon 11/17 (11:15am, 1:30pm, 3:00pm, 6:45pm, 9:45pm), Tue 11/18 (12:40pm, 3:40pm, 6:30pm, 9:45pm), Wed 11/19 (12:00pm, 3:00pm, 4:30pm, 8:00pm, 10:30pm)
+
+    * [Sentimental Value](https://drafthouse.com/los-angeles/show/sentimental-value): Fri 11/14 (12:15pm, 3:45pm, 7:15pm), Sat 11/15 (12:15pm, 3:45pm, 7:15pm), Sun 11/16 (3:30pm, 5:45pm), Tue 11/18 (11:30am, 12:00pm, 2:35pm, 3:00pm, 3:30pm, 6:00pm, 9:30pm)
+
+    * [Shelby Oaks](https://drafthouse.com/los-angeles/show/shelby-oaks): Thu 11/13 (1:45pm, 3:35pm)
+
+    * [The Lighthouse](https://drafthouse.com/los-angeles/show/the-lighthouse): Tue 11/18 (10:20pm)
+
+    * [The Running Man 2025](https://drafthouse.com/los-angeles/show/the-running-man-2025): Fri 11/14 (2:20pm, 5:40pm, 9:00pm, 10:45pm), Sat 11/15 (12:00pm, 3:30pm, 7:00pm, 10:45pm), Sun 11/16 (7:00pm), Wed 11/19 (1:30pm)
+
+    * [To Live And Die In L A](https://drafthouse.com/los-angeles/show/to-live-and-die-in-l-a): Thu 11/13 (12:00pm)
+
+    * [Wicked Re Release](https://drafthouse.com/los-angeles/show/wicked-re-release): Mon 11/17 (12:30pm), Tue 11/18 (4:00pm), Wed 11/19 (12:25pm)
+
 ### Fri 11/7 5:43pm
 * New movies: Man Finds Tape, Mistress Dispeller
 
