@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 11/11 10:29am
+* New movies: Dust Bunny
+
+* New screenings: 
+    * [Fantastic Fest Presents Dust Bunny W Livestream Q A](https://drafthouse.com/raleigh/show/fantastic-fest-presents-dust-bunny-w-livestream-q-a): Mon 11/17 (8:00pm)
+
 ### Tue 11/11 9:28am
 * New movies: Eternity
 
