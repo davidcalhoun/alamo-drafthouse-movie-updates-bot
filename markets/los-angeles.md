@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 11/11 2:22pm
+* New movies: Wake Up Dead Man: A Knives Out Mystery
+
+* New screenings: 
+    * [Wake Up Dead Man A Knives Out Mystery](https://drafthouse.com/los-angeles/show/wake-up-dead-man-a-knives-out-mystery): Tue 11/25 (7:00pm, 10:15pm), Wed 11/26 (11:00am, 2:40pm, 6:15pm, 9:50pm), Thu 11/27 (11:00am, 2:40pm, 6:15pm, 9:50pm), Fri 11/28 (11:00am, 2:40pm, 6:15pm, 9:50pm), Sat 11/29 (11:00am, 2:40pm, 6:15pm, 9:50pm), Sun 11/30 (11:00am, 2:40pm, 6:15pm), Mon 12/1 (11:00am, 2:40pm, 6:15pm, 9:50pm), Tue 12/2 (11:00am, 2:40pm, 6:15pm, 9:50pm), Wed 12/3 (11:00am, 2:40pm, 6:15pm, 9:50pm)
+
 ### Tue 11/11 7:25am
 * New movies: Dust Bunny
 
