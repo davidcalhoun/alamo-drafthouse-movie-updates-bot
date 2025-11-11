@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 11/11 6:24am
+* New movies: Eternity
+
+* New screenings: 
+    * [Eternity](https://drafthouse.com/los-angeles/show/eternity): Tue 11/25 (1:00pm, 4:05pm, 7:10pm, 10:15pm), Wed 11/26 (10:00am, 1:00pm, 4:05pm, 7:10pm, 10:15pm), Thu 11/27 (10:00am, 1:00pm, 4:05pm, 7:10pm, 10:15pm), Fri 11/28 (10:00am, 1:00pm, 4:05pm, 7:10pm, 10:15pm), Sat 11/29 (10:00am, 1:00pm, 4:05pm, 7:10pm, 10:15pm), Sun 11/30 (10:00am, 1:00pm, 4:05pm, 7:10pm), Mon 12/1 (1:00pm, 4:00pm, 7:10pm, 10:15pm), Tue 12/2 (1:00pm, 4:00pm, 7:10pm, 10:15pm), Wed 12/3 (1:00pm, 4:00pm, 7:10pm, 10:15pm)
+
 ### Mon 11/10 2:22pm
 * New movies: The Lighthouse
 
