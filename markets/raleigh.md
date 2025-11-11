@@ -1,6 +1,54 @@
 # raleigh
 
 ## Movie updates
+### Tue 11/11 11:35am
+* New movies: Keeper, Now You See Me: Now You Don't, Gumby 4K Restoration, The Lighthouse, Back to the Future: 40th Anniversary
+
+* New screenings: 
+    * [Back To The Future 40th Anniversary](https://drafthouse.com/raleigh/show/back-to-the-future-40th-anniversary): Thu 11/13 (12:30pm)
+
+    * [Black Phone 2](https://drafthouse.com/raleigh/show/black-phone-2): Thu 11/13 (10:50pm), Fri 11/14 (10:00pm), Mon 11/17 (9:45pm), Tue 11/18 (10:00pm), Wed 11/19 (10:00pm)
+
+    * [Bugonia](https://drafthouse.com/raleigh/show/bugonia): Thu 11/13 (2:00pm, 3:00pm, 5:00pm, 6:00pm, 9:00pm), Fri 11/14 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 11/15 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sun 11/16 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Mon 11/17 (1:00pm, 4:00pm, 7:15pm, 10:15pm), Tue 11/18 (12:30pm, 3:30pm, 6:30pm, 9:45pm), Wed 11/19 (11:45am, 3:00pm, 6:00pm, 9:00pm)
+
+    * [Chainsaw Man The Movie Reze Arc Dubbed](https://drafthouse.com/raleigh/show/chainsaw-man-the-movie-reze-arc-dubbed): Fri 11/14 (1:00pm, 5:00pm), Sat 11/15 (1:00pm, 5:00pm), Sun 11/16 (1:00pm, 5:00pm), Mon 11/17 (1:00pm, 5:00pm), Tue 11/18 (1:00pm, 5:00pm), Wed 11/19 (1:00pm, 5:00pm)
+
+    * [Chainsaw Man The Movie Reze Arc Subtitled](https://drafthouse.com/raleigh/show/chainsaw-man-the-movie-reze-arc-subtitled): Thu 11/13 (2:15pm, 5:15pm), Sat 11/15 (10:15pm), Sun 11/16 (10:15pm), Mon 11/17 (7:45pm, 10:30pm), Tue 11/18 (8:00pm, 10:45pm), Wed 11/19 (8:00pm, 10:30pm)
+
+    * [Die My Love](https://drafthouse.com/raleigh/show/die-my-love): Thu 11/13 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Fri 11/14 (11:45am, 2:45pm, 6:15pm, 9:15pm), Sat 11/15 (11:45am, 2:45pm, 6:15pm, 9:15pm), Sun 11/16 (11:45am, 2:45pm, 6:15pm, 9:15pm), Mon 11/17 (11:45am, 2:45pm, 6:15pm, 9:15pm), Tue 11/18 (11:45am, 2:45pm, 6:15pm, 9:15pm), Wed 11/19 (11:45am, 2:45pm, 6:15pm, 9:15pm)
+
+    * [Frankenstein 2025](https://drafthouse.com/raleigh/show/frankenstein-2025): Thu 11/13 (6:00pm, 9:30pm), Fri 11/14 (6:00pm, 8:00pm, 9:30pm), Sat 11/15 (1:30pm, 6:00pm, 8:00pm, 9:35pm), Sun 11/16 (1:30pm, 6:00pm, 8:00pm, 9:30pm), Mon 11/17 (6:00pm, 9:30pm), Tue 11/18 (6:00pm, 9:30pm), Wed 11/19 (6:00pm, 9:30pm)
+
+    * [Glass Onion Knives Out Mystery](https://drafthouse.com/raleigh/show/glass-onion-knives-out-mystery): Sat 11/15 (6:45pm), Sun 11/16 (6:45pm), Wed 11/19 (3:40pm)
+
+    * [Gumby](https://drafthouse.com/raleigh/show/gumby): Fri 11/14 (2:00pm), Mon 11/17 (4:15pm)
+
+    * [It Was Just An Accident](https://drafthouse.com/raleigh/show/it-was-just-an-accident): Thu 11/13 (1:30pm)
+
+    * [Keeper](https://drafthouse.com/raleigh/show/keeper): Thu 11/13 (7:30pm, 10:15pm), Fri 11/14 (12:45pm, 3:45pm, 7:00pm, 9:45pm), Sat 11/15 (12:30pm, 3:45pm, 7:00pm, 10:00pm), Sun 11/16 (12:30pm, 3:45pm, 7:00pm, 10:00pm), Mon 11/17 (12:15pm, 3:00pm, 9:45pm), Tue 11/18 (12:00pm, 3:15pm, 6:15pm, 9:00pm), Wed 11/19 (12:45pm, 3:30pm, 7:00pm, 9:45pm)
+
+    * [Knives Out](https://drafthouse.com/raleigh/show/knives-out): Thu 11/13 (4:15pm)
+
+    * [Little Amelie Or The Character Of Rain Dubbed](https://drafthouse.com/raleigh/show/little-amelie-or-the-character-of-rain-dubbed): Thu 11/13 (12:15pm)
+
+    * [Now You See Me Now You Dont](https://drafthouse.com/raleigh/show/now-you-see-me-now-you-dont): Thu 11/13 (2:45pm, 3:30pm, 6:30pm, 9:30pm), Fri 11/14 (12:45pm, 4:15pm, 6:30pm, 7:30pm, 10:30pm), Sat 11/15 (12:45pm, 4:15pm, 7:30pm, 10:30pm), Sun 11/16 (12:45pm, 4:15pm, 7:30pm, 10:30pm), Mon 11/17 (1:15pm, 4:30pm, 7:30pm, 10:30pm), Tue 11/18 (12:45pm, 4:15pm, 7:30pm, 10:30pm), Wed 11/19 (12:45pm, 4:30pm, 6:45pm, 7:30pm, 10:45pm)
+
+    * [Predator Badlands](https://drafthouse.com/raleigh/show/predator-badlands): Thu 11/13 (12:15pm, 1:00pm, 3:15pm, 4:00pm, 6:15pm, 9:15pm), Fri 11/14 (12:15pm, 4:00pm, 7:15pm, 10:15pm), Sat 11/15 (12:15pm, 3:05pm, 4:00pm, 7:15pm, 10:05pm), Sun 11/16 (12:15pm, 3:05pm, 4:00pm, 7:15pm, 10:05pm), Mon 11/17 (12:15pm, 2:00pm, 3:05pm, 4:00pm, 7:15pm, 10:15pm), Tue 11/18 (12:15pm, 2:00pm, 3:05pm, 4:00pm, 7:15pm, 10:15pm), Wed 11/19 (12:15pm, 2:00pm, 3:05pm, 4:00pm, 7:15pm, 10:15pm)
+
+    * [Regretting You](https://drafthouse.com/raleigh/show/regretting-you): Thu 11/13 (4:30pm), Fri 11/14 (3:45pm), Sat 11/15 (3:45pm), Sun 11/16 (3:45pm), Mon 11/17 (3:45pm), Tue 11/18 (3:45pm), Wed 11/19 (3:45pm)
+
+    * [Sisu Road To Revenge](https://drafthouse.com/raleigh/show/sisu-road-to-revenge): Thu 11/20 (4:45pm, 9:45pm)
+
+    * [Springsteen Deliver Me From Nowhere](https://drafthouse.com/raleigh/show/springsteen-deliver-me-from-nowhere): Thu 11/13 (1:30pm), Fri 11/14 (1:15pm), Sat 11/15 (1:15pm), Sun 11/16 (1:15pm), Mon 11/17 (12:45pm), Tue 11/18 (1:00pm), Wed 11/19 (1:15pm)
+
+    * [The Lighthouse](https://drafthouse.com/raleigh/show/the-lighthouse): Fri 11/14 (3:05pm), Mon 11/17 (6:45pm)
+
+    * [The Running Man 2025](https://drafthouse.com/raleigh/show/the-running-man-2025): Thu 11/13 (7:30pm, 8:00pm, 9:15pm), Fri 11/14 (1:00pm, 4:30pm, 6:45pm, 8:00pm), Sat 11/15 (1:00pm, 4:30pm, 6:30pm, 8:00pm, 9:45pm), Sun 11/16 (1:00pm, 4:30pm, 6:30pm, 8:00pm, 9:45pm), Mon 11/17 (1:30pm, 4:45pm), Tue 11/18 (12:00pm, 3:30pm, 6:45pm, 10:00pm), Wed 11/19 (12:30pm, 4:00pm, 7:30pm, 10:45pm)
+
+    * [To Live And Die In L A](https://drafthouse.com/raleigh/show/to-live-and-die-in-l-a): Thu 11/13 (3:00pm, 8:00pm)
+
+    * [Wicked Re Release](https://drafthouse.com/raleigh/show/wicked-re-release): Mon 11/17 (12:30pm), Tue 11/18 (1:30pm, 5:30pm), Wed 11/19 (12:00pm)
+
 ### Tue 11/11 10:29am
 * New movies: Dust Bunny
 
