@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 11/11 7:25am
+* New movies: Dust Bunny
+
+* New screenings: 
+    * [Fantastic Fest Presents Dust Bunny W Livestream Q A](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-dust-bunny-w-livestream-q-a): Mon 11/17 (5:00pm), Wed 11/19 (5:00pm)
+
 ### Tue 11/11 6:24am
 * New movies: Eternity
 
