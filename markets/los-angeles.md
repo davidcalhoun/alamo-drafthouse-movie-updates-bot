@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 11/11 5:51pm
+* New movies: Violent Night
+
+* New screenings: 
+    * [Violent Night W Live Q A](https://drafthouse.com/los-angeles/show/violent-night-w-live-q-a): Wed 12/10 (7:15pm)
+
 ### Tue 11/11 3:20pm
 
 * New screenings: 
