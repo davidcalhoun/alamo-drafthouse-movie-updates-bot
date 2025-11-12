@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 11/12 7:26am
+* New movies: Jujutsu Kaisen: Execution Dubbed, Jujutsu Kaisen: Execution Subtitled
+
+* New screenings: 
+    * [Jujutsu Kaisen Execution Dubbed](https://drafthouse.com/los-angeles/show/jujutsu-kaisen-execution-dubbed): Thu 12/4 (4:50pm, 10:10pm), Fri 12/5 (2:20pm, 7:45pm), Sat 12/6 (11:40am, 5:00pm, 10:25pm), Sun 12/7 (2:20pm, 7:45pm), Mon 12/8 (11:30am, 4:50pm, 10:10pm), Tue 12/9 (2:10pm, 7:30pm), Wed 12/10 (11:30am, 4:50pm, 10:10pm)
+
+    * [Jujutsu Kaisen Execution Subtitled](https://drafthouse.com/los-angeles/show/jujutsu-kaisen-execution-subtitled): Thu 12/4 (7:30pm), Fri 12/5 (11:40am, 5:00pm, 10:25pm), Sat 12/6 (2:20pm, 7:45pm), Sun 12/7 (11:40am, 5:00pm), Mon 12/8 (2:10pm, 7:30pm), Tue 12/9 (11:30am, 4:50pm, 10:10pm), Wed 12/10 (2:10pm, 7:30pm)
+
 ### Tue 11/11 5:51pm
 * New movies: Violent Night
 
