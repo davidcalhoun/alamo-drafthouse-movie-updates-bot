@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Wed 11/12 10:30am
+* New movies: Jujutsu Kaisen: Execution Subtitled, Jujutsu Kaisen: Execution Dubbed
+
+* New screenings: 
+    * [Jujutsu Kaisen Execution Dubbed](https://drafthouse.com/raleigh/show/jujutsu-kaisen-execution-dubbed): Thu 12/4 (5:00pm, 10:00pm)
+
+    * [Jujutsu Kaisen Execution Subtitled](https://drafthouse.com/raleigh/show/jujutsu-kaisen-execution-subtitled): Thu 12/4 (7:30pm), Fri 12/5 (7:30pm), Sat 12/6 (7:30pm), Sun 12/7 (7:30pm)
+
 ### Tue 11/11 11:35am
 * New movies: Keeper, Now You See Me: Now You Don't, Gumby 4K Restoration, The Lighthouse, Back to the Future: 40th Anniversary
 
