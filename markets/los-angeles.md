@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 11/12 7:16pm
+
+* New screenings: 
+    * [Glass Onion Knives Out Mystery](https://drafthouse.com/los-angeles/show/glass-onion-knives-out-mystery): Mon 11/17 (4:10pm)
+
 ### Wed 11/12 7:26am
 * New movies: Jujutsu Kaisen: Execution Dubbed, Jujutsu Kaisen: Execution Subtitled
 
