@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 11/13 1:20pm
+* New movies: Wild Things: VIOLENT NIGHT with Live Q&A
+
+* New screenings: 
+    * [Predator Badlands](https://drafthouse.com/los-angeles/show/predator-badlands): Wed 11/19 (5:00pm)
+
 ### Thu 11/13 12:26pm
 
 * New screenings: 
