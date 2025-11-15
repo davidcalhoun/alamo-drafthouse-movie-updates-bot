@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 11/14 7:09pm
+* New movies: Violent Night
+
+
+
 ### Thu 11/13 1:20pm
 * New movies: Wild Things: VIOLENT NIGHT with Live Q&A
 
