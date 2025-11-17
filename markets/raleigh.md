@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 11/17 9:29am
+* New movies: Avatar: Fire and Ash
+
+* New screenings: 
+    * [Avatar Fire And Ash](https://drafthouse.com/raleigh/show/avatar-fire-and-ash): Thu 12/18 (2:00pm, 4:30pm, 6:30pm, 9:00pm, 10:50pm), Fri 12/19 (9:00am, 10:00am, 1:30pm, 2:30pm, 6:00pm, 7:00pm, 10:20pm), Sat 12/20 (9:00am, 10:00am, 1:30pm, 2:30pm, 6:00pm, 7:00pm, 10:20pm), Sun 12/21 (9:00am, 10:00am, 1:30pm, 2:30pm, 6:00pm, 7:00pm, 10:20pm), Mon 12/22 (10:00am, 12:00pm, 2:30pm, 4:30pm, 7:00pm, 9:00pm), Tue 12/23 (10:00am, 12:00pm, 2:30pm, 4:30pm, 7:00pm, 9:00pm), Wed 12/24 (9:30am, 2:00pm, 6:30pm), Thu 12/25 (10:00am, 2:30pm, 7:00pm), Fri 12/26 (10:00am, 2:30pm, 7:00pm), Sat 12/27 (10:00am, 2:30pm, 7:00pm), Sun 12/28 (10:00am, 2:30pm, 7:00pm), Mon 12/29 (10:00am, 2:30pm, 7:00pm), Tue 12/30 (10:00am, 2:30pm, 7:00pm), Wed 12/31 (9:30am, 2:00pm, 6:30pm), Thu 1/1 (10:00am, 2:30pm, 7:00pm), Fri 1/2 (10:00am, 12:00pm, 2:30pm, 4:30pm, 7:00pm, 9:00pm), Sat 1/3 (10:00am, 12:00pm, 2:30pm, 4:30pm, 7:00pm, 9:00pm), Sun 1/4 (10:00am, 12:00pm, 2:30pm, 4:30pm, 7:00pm, 9:00pm)
+
 ### Wed 11/12 10:30am
 * New movies: Jujutsu Kaisen: Execution Subtitled, Jujutsu Kaisen: Execution Dubbed
 
