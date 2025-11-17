@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 11/17 6:23am
+* New movies: Avatar: Fire and Ash
+
+* New screenings: 
+    * [Avatar Fire And Ash](https://drafthouse.com/los-angeles/show/avatar-fire-and-ash): Thu 12/18 (2:00pm, 6:30pm, 11:00pm), Fri 12/19 (9:00am, 11:00am, 1:30pm, 3:30pm, 6:00pm, 8:00pm, 10:30pm), Sat 12/20 (9:00am, 11:00am, 1:30pm, 3:30pm, 6:00pm, 8:00pm, 10:30pm), Sun 12/21 (9:00am, 11:00am, 1:30pm, 3:30pm, 6:00pm, 8:00pm, 10:30pm), Mon 12/22 (9:00am, 11:00am, 1:30pm, 3:30pm, 6:00pm, 8:00pm, 10:30pm), Tue 12/23 (9:00am, 11:00am, 1:30pm, 3:30pm, 6:00pm, 8:00pm, 10:30pm), Wed 12/24 (9:00am, 10:00am, 1:30pm, 2:30pm, 6:00pm, 7:00pm), Thu 12/25 (9:00am, 11:00am, 1:30pm, 3:30pm, 6:00pm, 8:00pm, 10:30pm), Fri 12/26 (9:00am, 11:00am, 1:30pm, 3:30pm, 6:00pm, 8:00pm, 10:30pm), Sat 12/27 (9:00am, 11:00am, 1:30pm, 3:30pm, 6:00pm, 8:00pm, 10:30pm), Sun 12/28 (9:00am, 11:00am, 1:30pm, 3:30pm, 6:00pm, 8:00pm, 10:30pm), Mon 12/29 (9:00am, 11:00am, 1:30pm, 3:30pm, 6:00pm, 8:00pm, 10:30pm), Tue 12/30 (9:00am, 11:00am, 1:30pm, 3:30pm, 6:00pm, 8:00pm, 10:30pm), Wed 12/31 (9:00am, 11:00am, 1:30pm, 3:30pm, 6:00pm, 8:00pm), Thu 1/1 (9:00am, 11:00am, 1:30pm, 3:30pm, 6:00pm, 8:00pm, 10:30pm), Fri 1/2 (9:00am, 11:00am, 1:30pm, 3:30pm, 6:00pm, 8:00pm, 10:30pm), Sat 1/3 (9:00am, 11:00am, 1:30pm, 3:30pm, 6:00pm, 8:00pm, 10:30pm), Sun 1/4 (9:00am, 11:00am, 1:30pm, 3:30pm, 6:00pm, 8:00pm)
+
 ### Fri 11/14 7:09pm
 * New movies: Violent Night
 
