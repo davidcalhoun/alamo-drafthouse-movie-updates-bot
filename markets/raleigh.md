@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Mon 11/17 12:26pm
+* New movies: The Shrouds, AMERICAN PSYCHO
+
+* New screenings: 
+    * [Terror Tuesday American Psycho](https://drafthouse.com/raleigh/show/terror-tuesday-american-psycho): Tue 12/2 (9:30pm)
+
+    * [Weird Wednesday The Shrouds](https://drafthouse.com/raleigh/show/weird-wednesday-the-shrouds): Wed 12/3 (9:30pm)
+
 ### Mon 11/17 9:29am
 * New movies: Avatar: Fire and Ash
 
