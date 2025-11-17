@@ -1,6 +1,39 @@
 # los-angeles
 
 ## Movie updates
+### Mon 11/17 3:20pm
+
+* New screenings: 
+    * [Angels Egg Subtitled](https://drafthouse.com/los-angeles/show/angels-egg-subtitled): Mon 11/24 (10:50am), Tue 11/25 (10:45am), Wed 11/26 (10:00pm)
+
+    * [Bugonia](https://drafthouse.com/los-angeles/show/bugonia): Thu 11/20 (1:00pm, 4:10pm, 7:15pm, 10:20pm), Fri 11/21 (1:00pm, 4:10pm, 7:15pm, 10:20pm), Sat 11/22 (1:00pm, 4:10pm, 7:15pm, 10:20pm), Sun 11/23 (1:00pm, 4:10pm, 7:15pm, 10:20pm), Mon 11/24 (1:00pm, 4:10pm, 7:15pm, 10:20pm)
+
+    * [Chainsaw Man The Movie Reze Arc Dubbed](https://drafthouse.com/los-angeles/show/chainsaw-man-the-movie-reze-arc-dubbed): Thu 11/20 (11:15am)
+
+    * [Die My Love](https://drafthouse.com/los-angeles/show/die-my-love): Thu 11/20 (11:10am)
+
+    * [Frankenstein 2025](https://drafthouse.com/los-angeles/show/frankenstein-2025): Thu 11/20 (12:20pm)
+
+    * [Keeper](https://drafthouse.com/los-angeles/show/keeper): Thu 11/20 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Fri 11/21 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Sat 11/22 (4:40pm, 7:30pm, 10:20pm), Sun 11/23 (4:45pm, 7:30pm, 10:20pm), Mon 11/24 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm)
+
+    * [Now You See Me Now You Dont](https://drafthouse.com/los-angeles/show/now-you-see-me-now-you-dont): Thu 11/20 (11:50am, 2:55pm, 6:00pm, 9:05pm), Fri 11/21 (11:50am, 2:55pm, 6:00pm, 9:05pm), Sat 11/22 (11:50am, 2:55pm, 6:00pm, 9:05pm), Sun 11/23 (11:50am, 2:55pm, 6:00pm, 9:05pm), Mon 11/24 (11:50am, 2:55pm, 6:00pm, 9:05pm), Tue 11/25 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Wed 11/26 (12:15pm, 3:20pm, 6:25pm, 9:30pm)
+
+    * [One Battle After Another](https://drafthouse.com/los-angeles/show/one-battle-after-another): Thu 11/20 (11:20am, 1:00pm)
+
+    * [Planes Trains Automobiles](https://drafthouse.com/los-angeles/show/planes-trains-automobiles): Mon 11/24 (4:40pm)
+
+    * [Predator Badlands](https://drafthouse.com/los-angeles/show/predator-badlands): Thu 11/20 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Fri 11/21 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 11/22 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sun 11/23 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Mon 11/24 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Tue 11/25 (12:00pm, 3:30pm, 6:30pm, 9:30pm), Wed 11/26 (10:30am, 1:30pm, 4:25pm)
+
+    * [Rental Family](https://drafthouse.com/los-angeles/show/rental-family): Sun 11/23 (10:45pm)
+
+    * [Sentimental Value](https://drafthouse.com/los-angeles/show/sentimental-value): Thu 11/20 (11:30am, 3:00pm), Fri 11/21 (11:30am, 3:00pm, 6:30pm, 10:00pm), Sat 11/22 (11:30am, 3:00pm, 6:30pm, 10:00pm), Sun 11/23 (11:30am, 3:00pm, 6:30pm, 10:00pm), Mon 11/24 (11:30am, 3:00pm, 6:30pm, 10:00pm), Tue 11/25 (12:20pm, 3:50pm, 7:15pm, 10:40pm), Wed 11/26 (11:00am, 2:30pm, 6:00pm, 9:30pm)
+
+    * [Sisu Road To Revenge](https://drafthouse.com/los-angeles/show/sisu-road-to-revenge): Tue 11/25 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Wed 11/26 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm)
+
+    * [The Running Man 2025](https://drafthouse.com/los-angeles/show/the-running-man-2025): Thu 11/20 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Fri 11/21 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sat 11/22 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sun 11/23 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Mon 11/24 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Tue 11/25 (11:25am, 2:50pm, 6:15pm, 9:40pm), Wed 11/26 (11:00am, 2:30pm, 6:00pm, 9:30pm)
+
+    * [Wicked For Good](https://drafthouse.com/los-angeles/show/wicked-for-good): Thu 11/20 (6:20pm, 9:50pm), Fri 11/21 (10:45pm), Sat 11/22 (1:10pm, 10:45pm), Sun 11/23 (1:15pm, 9:15pm, 10:15pm, 10:45pm), Mon 11/24 (11:15am, 1:15pm, 2:45pm, 6:15pm, 9:45pm), Tue 11/25 (12:40pm, 3:50pm)
+
 ### Mon 11/17 12:26pm
 * New movies: Fureru Subtitled
 
