@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 11/17 12:26pm
+* New movies: Fureru Subtitled
+
+* New screenings: 
+    * [Fureru Subtitled](https://drafthouse.com/los-angeles/show/fureru-subtitled): Mon 12/1 (7:30pm)
+
 ### Mon 11/17 6:23am
 * New movies: Avatar: Fire and Ash
 
