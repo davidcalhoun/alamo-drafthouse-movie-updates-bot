@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 11/18 3:20pm
+
+* New screenings: 
+    * [100 Nights Of Hero](https://drafthouse.com/los-angeles/show/100-nights-of-hero): Sun 12/7 (6:00pm)
+
 ### Tue 11/18 2:22pm
 * New movies: It Was Just an Accident
 
