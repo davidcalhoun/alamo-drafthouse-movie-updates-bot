@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 11/18 5:27pm
+
+* New screenings: 
+    * [Wake Up Dead Man A Knives Out Mystery](https://drafthouse.com/raleigh/show/wake-up-dead-man-a-knives-out-mystery): Fri 11/28 (8:45am, 12:15pm, 3:45pm, 7:15pm, 10:45pm)
+
 ### Tue 11/18 10:31am
 * New movies: 100 Nights of Hero
 
