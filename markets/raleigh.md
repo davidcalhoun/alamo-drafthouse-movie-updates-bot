@@ -1,6 +1,44 @@
 # raleigh
 
 ## Movie updates
+### Mon 11/17 9:05pm
+* New movies: Black Christmas '74 + The Occupant of the Room
+
+* New screenings: 
+    * [Bugonia](https://drafthouse.com/raleigh/show/bugonia): Thu 11/20 (10:00pm), Fri 11/21 (9:00pm), Sat 11/22 (9:00pm), Sun 11/23 (9:00pm), Mon 11/24 (9:00pm)
+
+    * [Chainsaw Man The Movie Reze Arc Dubbed](https://drafthouse.com/raleigh/show/chainsaw-man-the-movie-reze-arc-dubbed): Thu 11/20 (11:00am)
+
+    * [Die My Love](https://drafthouse.com/raleigh/show/die-my-love): Thu 11/20 (12:30pm)
+
+    * [Frankenstein 2025](https://drafthouse.com/raleigh/show/frankenstein-2025): Thu 11/20 (11:45am)
+
+    * [Glass Onion Knives Out Mystery](https://drafthouse.com/raleigh/show/glass-onion-knives-out-mystery): Thu 11/20 (11:15am)
+
+    * [Gumby](https://drafthouse.com/raleigh/show/gumby): Thu 11/20 (12:00pm)
+
+    * [Keeper](https://drafthouse.com/raleigh/show/keeper): Thu 11/20 (9:00pm), Fri 11/21 (10:50pm), Sat 11/22 (10:50pm), Sun 11/23 (10:50pm), Mon 11/24 (10:50pm)
+
+    * [Now You See Me Now You Dont](https://drafthouse.com/raleigh/show/now-you-see-me-now-you-dont): Thu 11/20 (1:00pm, 4:15pm, 7:15pm, 10:15pm), Fri 11/21 (12:15pm, 2:45pm, 6:15pm, 9:15pm), Sat 11/22 (12:15pm, 2:45pm, 6:15pm, 9:15pm), Sun 11/23 (11:45am, 3:15pm, 6:15pm, 9:15pm), Mon 11/24 (12:45pm, 2:45pm, 6:15pm, 9:15pm)
+
+    * [Planes Trains Automobiles](https://drafthouse.com/raleigh/show/planes-trains-automobiles): Mon 11/24 (11:15am)
+
+    * [Predator Badlands](https://drafthouse.com/raleigh/show/predator-badlands): Thu 11/20 (1:00pm, 4:15pm, 7:30pm, 10:30pm), Fri 11/21 (12:45pm, 3:45pm, 7:15pm, 10:15pm), Sat 11/22 (12:45pm, 3:45pm, 7:15pm, 10:15pm), Sun 11/23 (1:00pm, 4:15pm, 7:15pm, 10:15pm), Mon 11/24 (12:45pm, 3:45pm, 7:15pm, 10:15pm)
+
+    * [Rental Family](https://drafthouse.com/raleigh/show/rental-family): Mon 11/24 (11:45am, 3:15pm, 6:15pm, 9:15pm)
+
+    * [Sisu Road To Revenge](https://drafthouse.com/raleigh/show/sisu-road-to-revenge): Fri 11/21 (12:00pm, 4:15pm, 9:45pm), Sat 11/22 (12:00pm, 4:30pm, 9:45pm), Sun 11/23 (12:15pm, 4:30pm, 9:45pm), Mon 11/24 (12:00pm, 4:00pm, 7:15pm, 9:45pm)
+
+    * [Springsteen Deliver Me From Nowhere](https://drafthouse.com/raleigh/show/springsteen-deliver-me-from-nowhere): Thu 11/20 (12:45pm)
+
+    * [Terror Tuesday Black Christmas 74 The Occupant Of The Room](https://drafthouse.com/raleigh/show/terror-tuesday-black-christmas-74-the-occupant-of-the-room): Tue 12/16 (9:30pm)
+
+    * [The Lighthouse](https://drafthouse.com/raleigh/show/the-lighthouse): Thu 11/20 (1:30pm)
+
+    * [The Running Man 2025](https://drafthouse.com/raleigh/show/the-running-man-2025): Thu 11/20 (11:30am, 2:45pm, 6:15pm, 9:45pm), Fri 11/21 (12:45pm, 4:30pm, 7:00pm, 10:15pm), Sat 11/22 (12:45pm, 4:30pm, 7:00pm, 10:15pm), Sun 11/23 (12:45pm, 4:30pm, 7:00pm, 10:15pm), Mon 11/24 (11:45am, 4:30pm, 6:45pm, 10:00pm)
+
+    * [Wicked For Good](https://drafthouse.com/raleigh/show/wicked-for-good): Thu 11/20 (2:00pm, 3:00pm, 3:30pm, 4:00pm, 5:30pm, 6:30pm, 7:00pm, 7:30pm, 10:30pm), Fri 11/21 (11:30am, 12:30pm, 1:00pm, 2:00pm, 3:00pm, 3:30pm, 4:00pm, 5:30pm, 6:30pm, 7:30pm, 8:00pm, 10:00pm), Sat 11/22 (11:30am, 12:30pm, 1:00pm, 2:00pm, 3:00pm, 3:30pm, 4:00pm, 5:30pm, 6:30pm, 7:30pm, 8:00pm, 10:00pm), Sun 11/23 (11:30am, 12:30pm, 1:00pm, 2:00pm, 3:00pm, 3:30pm, 4:00pm, 5:30pm, 7:30pm, 8:00pm, 10:00pm, 10:30pm), Mon 11/24 (11:30am, 12:30pm, 1:00pm, 2:00pm, 3:00pm, 3:15pm, 4:00pm, 5:30pm, 7:30pm, 8:00pm)
+
 ### Mon 11/17 12:26pm
 * New movies: The Shrouds, AMERICAN PSYCHO
 
