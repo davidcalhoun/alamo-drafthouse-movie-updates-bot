@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 11/17 5:50pm
+* New movies: Ghostkeeper + The Occupant of the Room
+
+* New screenings: 
+    * [Ghostkeeper The Occupant Of The Room](https://drafthouse.com/los-angeles/show/ghostkeeper-the-occupant-of-the-room): Mon 12/22 (4:15pm)
+
 ### Mon 11/17 3:20pm
 
 * New screenings: 
