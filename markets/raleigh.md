@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 11/18 10:31am
+* New movies: 100 Nights of Hero
+
+* New screenings: 
+    * [100 Nights Of Hero](https://drafthouse.com/raleigh/show/100-nights-of-hero): Fri 12/5 (9:30pm)
+
 ### Tue 11/18 3:36am
 * New movies: Matinee
 
