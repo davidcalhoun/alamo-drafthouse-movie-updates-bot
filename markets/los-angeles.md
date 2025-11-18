@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 11/18 2:22pm
+* New movies: It Was Just an Accident
+
+* New screenings: 
+    * [It Was Just An Accident](https://drafthouse.com/los-angeles/show/it-was-just-an-accident): Fri 11/21 (4:40pm), Sat 11/22 (10:20pm), Sun 11/23 (4:40pm), Mon 11/24 (1:50pm)
+
+    * [Mistress Dispeller](https://drafthouse.com/los-angeles/show/mistress-dispeller): Fri 12/5 (3:15pm)
+
 ### Tue 11/18 7:26am
 * New movies: Avatar: Fire and Ash, Sentimental Value, The Running Man 2025, Now You See Me: Now You Don't, Wake Up Dead Man: A Knives Out Mystery, Wicked: For Good, Keeper, Eternity, Zootopia 2, Predator: Badlands, Hamnet, Rental Family, Sisu: Road to Revenge, Five Nights at Freddy's 2, Bugonia, Elf, Angel's Egg Subtitled, Jujutsu Kaisen: Execution Dubbed, Jujutsu Kaisen: Execution Subtitled, National Lampoon's Christmas Vacation, One Battle After Another, Angel's Egg Dubbed, Die My Love, Frankenstein 2025, Dr. Seuss' How the Grinch Stole Christmas 2000: 25th Anniversary, Gumby 4K Restoration, Man Finds Tape, Wicked Re-Release, WWW.RACHELORMONT.COM, Wicked: For Good, Top Secret Mystery Movie, Chainsaw Man - The Movie: Reze Arc Dubbed, Dust Bunny, The Mighty Nein, Fureru Subtitled, Glass Onion: A Knives Out Mystery, Wake Up Dead Man: A Knives Out Mystery, Dr. Seuss' How the Grinch Stole Christmas 2000: 25th Anniversary, The Polar Express, Planes, Trains & Automobiles, Rebbeca: Becky G, The Doors: When You're Strange, The Lighthouse, Violent Night, Wicked + Wicked: For Good Double Feature, 100 Nights of Hero, Dead, Ghostkeeper + The Occupant of the Room, Five Nights at Freddy's 2, Branded to Kill, Batman Returns, Blood Rage, Brazil: The Director's Cut, Carol, Desperado, Eyes Wide Shut, It's a Wonderful Life, Kiss Kiss Bang Bang, Lethal Weapon, Little Women 2019, Love Actually, Reflection in a Dead Diamond, Safe 1995, The Apartment, The Night of the Hunter, When Harry Met Sally..., Mistress Dispeller, JEOPARDY! INTERACTIVE, IN THE MOUTH OF MADNESS, PHANTOM THREAD, THE HOLIDAY
 
