@@ -1,6 +1,152 @@
 # los-angeles
 
 ## Movie updates
+### Tue 11/18 7:26am
+* New movies: Avatar: Fire and Ash, Sentimental Value, The Running Man 2025, Now You See Me: Now You Don't, Wake Up Dead Man: A Knives Out Mystery, Wicked: For Good, Keeper, Eternity, Zootopia 2, Predator: Badlands, Hamnet, Rental Family, Sisu: Road to Revenge, Five Nights at Freddy's 2, Bugonia, Elf, Angel's Egg Subtitled, Jujutsu Kaisen: Execution Dubbed, Jujutsu Kaisen: Execution Subtitled, National Lampoon's Christmas Vacation, One Battle After Another, Angel's Egg Dubbed, Die My Love, Frankenstein 2025, Dr. Seuss' How the Grinch Stole Christmas 2000: 25th Anniversary, Gumby 4K Restoration, Man Finds Tape, Wicked Re-Release, WWW.RACHELORMONT.COM, Wicked: For Good, Top Secret Mystery Movie, Chainsaw Man - The Movie: Reze Arc Dubbed, Dust Bunny, The Mighty Nein, Fureru Subtitled, Glass Onion: A Knives Out Mystery, Wake Up Dead Man: A Knives Out Mystery, Dr. Seuss' How the Grinch Stole Christmas 2000: 25th Anniversary, The Polar Express, Planes, Trains & Automobiles, Rebbeca: Becky G, The Doors: When You're Strange, The Lighthouse, Violent Night, Wicked + Wicked: For Good Double Feature, 100 Nights of Hero, Dead, Ghostkeeper + The Occupant of the Room, Five Nights at Freddy's 2, Branded to Kill, Batman Returns, Blood Rage, Brazil: The Director's Cut, Carol, Desperado, Eyes Wide Shut, It's a Wonderful Life, Kiss Kiss Bang Bang, Lethal Weapon, Little Women 2019, Love Actually, Reflection in a Dead Diamond, Safe 1995, The Apartment, The Night of the Hunter, When Harry Met Sally..., Mistress Dispeller, JEOPARDY! INTERACTIVE, IN THE MOUTH OF MADNESS, PHANTOM THREAD, THE HOLIDAY
+
+* New screenings: 
+    * [100 Nights Of Hero](https://drafthouse.com/los-angeles/show/100-nights-of-hero): Wed 12/3 (10:10pm), Fri 12/5 (10:20pm)
+
+    * [Agfadrome Top Secret Mystery Movie](https://drafthouse.com/los-angeles/show/agfadrome-top-secret-mystery-movie): Tue 11/18 (10:15pm)
+
+    * [Angels Egg Dubbed](https://drafthouse.com/los-angeles/show/angels-egg-dubbed): Wed 11/19 (7:30pm, 10:15pm), Thu 11/20 (9:50pm)
+
+    * [Angels Egg Subtitled](https://drafthouse.com/los-angeles/show/angels-egg-subtitled): Wed 11/19 (10:10pm, 11:00pm), Thu 11/20 (7:30pm), Mon 11/24 (10:50am), Tue 11/25 (10:45am), Wed 11/26 (10:00pm)
+
+    * [Avatar Fire And Ash](https://drafthouse.com/los-angeles/show/avatar-fire-and-ash): Thu 12/18 (2:00pm, 6:30pm, 11:00pm), Fri 12/19 (9:00am, 11:00am, 1:30pm, 3:30pm, 6:00pm, 8:00pm, 10:30pm), Sat 12/20 (9:00am, 11:00am, 1:30pm, 3:30pm, 6:00pm, 8:00pm, 10:30pm), Sun 12/21 (9:00am, 11:00am, 1:30pm, 3:30pm, 6:00pm, 8:00pm, 10:30pm), Mon 12/22 (9:00am, 11:00am, 1:30pm, 3:30pm, 6:00pm, 8:00pm, 10:30pm), Tue 12/23 (9:00am, 11:00am, 1:30pm, 3:30pm, 6:00pm, 8:00pm, 10:30pm), Wed 12/24 (9:00am, 10:00am, 1:30pm, 2:30pm, 6:00pm, 7:00pm), Thu 12/25 (9:00am, 11:00am, 1:30pm, 3:30pm, 6:00pm, 8:00pm, 10:30pm), Fri 12/26 (9:00am, 11:00am, 1:30pm, 3:30pm, 6:00pm, 8:00pm, 10:30pm), Sat 12/27 (9:00am, 11:00am, 1:30pm, 3:30pm, 6:00pm, 8:00pm, 10:30pm), Sun 12/28 (9:00am, 11:00am, 1:30pm, 3:30pm, 6:00pm, 8:00pm, 10:30pm), Mon 12/29 (9:00am, 11:00am, 1:30pm, 3:30pm, 6:00pm, 8:00pm, 10:30pm), Tue 12/30 (9:00am, 11:00am, 1:30pm, 3:30pm, 6:00pm, 8:00pm, 10:30pm), Wed 12/31 (9:00am, 11:00am, 1:30pm, 3:30pm, 6:00pm, 8:00pm), Thu 1/1 (9:00am, 11:00am, 1:30pm, 3:30pm, 6:00pm, 8:00pm, 10:30pm), Fri 1/2 (9:00am, 11:00am, 1:30pm, 3:30pm, 6:00pm, 8:00pm, 10:30pm), Sat 1/3 (9:00am, 11:00am, 1:30pm, 3:30pm, 6:00pm, 8:00pm, 10:30pm), Sun 1/4 (9:00am, 11:00am, 1:30pm, 3:30pm, 6:00pm, 8:00pm)
+
+    * [Batman Returns](https://drafthouse.com/los-angeles/show/batman-returns): Wed 12/24 (2:45pm)
+
+    * [Blood Rage](https://drafthouse.com/los-angeles/show/blood-rage): Wed 11/26 (7:20pm)
+
+    * [Brazil The Directors Cut](https://drafthouse.com/los-angeles/show/brazil-the-directors-cut): Mon 12/1 (9:30pm)
+
+    * [Bugonia](https://drafthouse.com/los-angeles/show/bugonia): Tue 11/18 (11:10am, 12:50pm, 4:10pm, 7:15pm, 10:35pm), Wed 11/19 (1:00pm, 4:10pm, 7:15pm), Thu 11/20 (1:00pm, 4:10pm, 7:15pm, 10:20pm), Fri 11/21 (1:00pm, 4:10pm, 7:15pm, 10:20pm), Sat 11/22 (1:00pm, 4:10pm, 7:15pm, 10:20pm), Sun 11/23 (1:00pm, 4:10pm, 7:15pm, 10:20pm), Mon 11/24 (1:00pm, 4:10pm, 7:15pm, 10:20pm)
+
+    * [Carol](https://drafthouse.com/los-angeles/show/carol): Fri 12/12 (7:20pm)
+
+    * [Chainsaw Man The Movie Reze Arc Dubbed](https://drafthouse.com/los-angeles/show/chainsaw-man-the-movie-reze-arc-dubbed): Tue 11/18 (12:00pm), Wed 11/19 (12:00pm), Thu 11/20 (11:15am)
+
+    * [Dead](https://drafthouse.com/los-angeles/show/dead): Tue 11/18 (9:25pm), Wed 11/19 (4:15pm)
+
+    * [Desperado](https://drafthouse.com/los-angeles/show/desperado): Sun 12/7 (3:10pm)
+
+    * [Die My Love](https://drafthouse.com/los-angeles/show/die-my-love): Tue 11/18 (1:00pm, 4:35pm, 7:45pm, 10:50pm), Wed 11/19 (1:15pm, 3:15pm, 6:20pm, 10:20pm), Thu 11/20 (11:10am)
+
+    * [Dr Seuss How The Grinch Stole Christmas 2000 25th Anniversary](https://drafthouse.com/los-angeles/show/dr-seuss-how-the-grinch-stole-christmas-2000-25th-anniversary): Sat 12/13 (6:00pm), Sun 12/14 (3:00pm)
+
+    * [Eternity](https://drafthouse.com/los-angeles/show/eternity): Tue 11/25 (1:00pm, 4:05pm, 7:10pm, 10:35pm), Wed 11/26 (10:00am, 1:00pm, 4:05pm, 7:10pm, 10:15pm), Thu 11/27 (10:00am, 1:00pm, 4:05pm, 7:10pm, 10:15pm), Fri 11/28 (10:00am, 1:00pm, 4:05pm, 7:10pm, 10:15pm), Sat 11/29 (10:00am, 1:00pm, 4:05pm, 7:10pm, 10:15pm), Sun 11/30 (10:00am, 1:00pm, 4:05pm, 7:10pm), Mon 12/1 (1:00pm, 4:00pm, 7:10pm, 10:15pm), Tue 12/2 (1:00pm, 4:00pm, 7:10pm, 10:15pm), Wed 12/3 (1:00pm, 4:00pm, 7:10pm, 10:15pm)
+
+    * [Eyes Wide Shut](https://drafthouse.com/los-angeles/show/eyes-wide-shut): Tue 12/23 (6:00pm)
+
+    * [Fantastic Fest Presents Dust Bunny W Livestream Q A](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-dust-bunny-w-livestream-q-a): Wed 11/19 (5:00pm)
+
+    * [Five Nights At Freddys 2](https://drafthouse.com/los-angeles/show/five-nights-at-freddys-2): Thu 12/4 (2:00pm, 4:50pm, 7:45pm, 10:40pm), Fri 12/5 (10:45am, 1:40pm, 4:35pm, 10:30pm), Sat 12/6 (10:45am, 1:40pm, 4:35pm, 7:30pm, 10:25pm), Sun 12/7 (10:45am, 1:40pm, 4:35pm, 7:30pm), Mon 12/8 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:40pm), Tue 12/9 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:40pm), Wed 12/10 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:40pm)
+
+    * [Frankenstein 2025](https://drafthouse.com/los-angeles/show/frankenstein-2025): Tue 11/18 (2:15pm, 6:00pm, 9:45pm), Wed 11/19 (3:30pm, 6:00pm, 9:45pm), Thu 11/20 (12:20pm)
+
+    * [Free Victory Screening The Mighty Nein](https://drafthouse.com/los-angeles/show/free-victory-screening-the-mighty-nein): Tue 11/18 (7:00pm)
+
+    * [Fureru Subtitled](https://drafthouse.com/los-angeles/show/fureru-subtitled): Mon 12/1 (7:30pm)
+
+    * [Ghostkeeper The Occupant Of The Room](https://drafthouse.com/los-angeles/show/ghostkeeper-the-occupant-of-the-room): Mon 12/22 (4:15pm)
+
+    * [Glass Onion Knives Out Mystery](https://drafthouse.com/los-angeles/show/glass-onion-knives-out-mystery): Wed 11/19 (12:00pm)
+
+    * [Gumby](https://drafthouse.com/los-angeles/show/gumby): Tue 11/18 (12:15pm), Wed 11/19 (11:10am)
+
+    * [Hamnet](https://drafthouse.com/los-angeles/show/hamnet): Wed 11/26 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Thu 11/27 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Fri 11/28 (9:15am, 12:30pm, 3:45pm, 7:00pm, 10:15pm), Sat 11/29 (9:15am, 12:30pm, 3:45pm, 7:00pm, 10:15pm), Sun 11/30 (9:15am, 12:30pm, 3:45pm, 7:00pm), Mon 12/1 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Tue 12/2 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Wed 12/3 (11:45am, 3:00pm, 6:15pm, 9:30pm)
+
+    * [In The Mouth Of Madness](https://drafthouse.com/los-angeles/show/in-the-mouth-of-madness): Wed 12/3 (7:00pm)
+
+    * [Its A Wonderful Life](https://drafthouse.com/los-angeles/show/its-a-wonderful-life): Wed 12/24 (11:30am)
+
+    * [Jeopardy Interactive](https://drafthouse.com/los-angeles/show/jeopardy-interactive): Wed 11/19 (7:00pm), Wed 12/10 (7:00pm)
+
+    * [Jujutsu Kaisen Execution Dubbed](https://drafthouse.com/los-angeles/show/jujutsu-kaisen-execution-dubbed): Thu 12/4 (4:50pm, 10:10pm), Fri 12/5 (2:20pm, 7:45pm), Sat 12/6 (11:40am, 5:00pm, 10:25pm), Sun 12/7 (2:20pm, 7:45pm), Mon 12/8 (11:30am, 4:50pm, 10:10pm), Tue 12/9 (2:10pm, 7:30pm), Wed 12/10 (11:30am, 4:50pm, 10:10pm)
+
+    * [Jujutsu Kaisen Execution Subtitled](https://drafthouse.com/los-angeles/show/jujutsu-kaisen-execution-subtitled): Thu 12/4 (7:30pm), Fri 12/5 (11:40am, 5:00pm, 10:25pm), Sat 12/6 (2:20pm, 7:45pm), Sun 12/7 (11:40am, 5:00pm), Mon 12/8 (2:10pm, 7:30pm), Tue 12/9 (11:30am, 4:50pm, 10:10pm), Wed 12/10 (2:10pm, 7:30pm)
+
+    * [Keeper](https://drafthouse.com/los-angeles/show/keeper): Tue 11/18 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Wed 11/19 (11:00am, 1:50pm, 4:40pm, 6:40pm, 9:30pm), Thu 11/20 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Fri 11/21 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Sat 11/22 (4:40pm, 7:30pm, 10:20pm), Sun 11/23 (4:45pm, 7:30pm, 10:20pm), Mon 11/24 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm)
+
+    * [Kiss Kiss Bang Bang](https://drafthouse.com/los-angeles/show/kiss-kiss-bang-bang): Mon 12/8 (7:20pm)
+
+    * [Lethal Weapon](https://drafthouse.com/los-angeles/show/lethal-weapon): Tue 12/2 (7:20pm)
+
+    * [Little Women 2019](https://drafthouse.com/los-angeles/show/little-women-2019): Mon 12/1 (6:00pm)
+
+    * [Live Q A Man Finds Tape](https://drafthouse.com/los-angeles/show/live-q-a-man-finds-tape): Fri 12/5 (7:20pm), Sat 12/6 (6:00pm)
+
+    * [Live Q A Wake Up Dead Man A Knives Out Mystery](https://drafthouse.com/los-angeles/show/live-q-a-wake-up-dead-man-a-knives-out-mystery): Sun 11/23 (4:00pm)
+
+    * [Love Actually](https://drafthouse.com/los-angeles/show/love-actually): Sat 12/13 (11:40am)
+
+    * [Mistress Dispeller](https://drafthouse.com/los-angeles/show/mistress-dispeller): Sat 12/6 (2:00pm)
+
+    * [Movie Party Dr Seuss How The Grinch Stole Christmas 2000 25th Anniversary](https://drafthouse.com/los-angeles/show/movie-party-dr-seuss-how-the-grinch-stole-christmas-2000-25th-anniversary): Sat 12/13 (11:30am)
+
+    * [Movie Party Elf](https://drafthouse.com/los-angeles/show/movie-party-elf): Sun 11/30 (12:00pm), Sat 12/6 (11:00am, 12:15pm), Mon 12/15 (7:20pm), Wed 12/17 (7:20pm), Sat 12/20 (11:30am, 12:00pm)
+
+    * [Movie Party Five Nights At Freddys 2](https://drafthouse.com/los-angeles/show/movie-party-five-nights-at-freddys-2): Fri 12/5 (7:30pm)
+
+    * [Movie Party National Lampoons Christmas Vacation](https://drafthouse.com/los-angeles/show/movie-party-national-lampoons-christmas-vacation): Wed 12/3 (7:20pm), Mon 12/8 (6:00pm), Sun 12/14 (12:10pm), Tue 12/16 (7:20pm), Sun 12/21 (11:30am)
+
+    * [Movie Party The Polar Express](https://drafthouse.com/los-angeles/show/movie-party-the-polar-express): Sun 12/14 (2:00pm)
+
+    * [Movie Party Wicked For Good](https://drafthouse.com/los-angeles/show/movie-party-wicked-for-good): Fri 11/21 (6:45pm), Sat 11/22 (2:15pm)
+
+    * [Now You See Me Now You Dont](https://drafthouse.com/los-angeles/show/now-you-see-me-now-you-dont): Tue 11/18 (1:00pm, 4:10pm, 6:40pm, 9:50pm), Wed 11/19 (12:30pm, 3:35pm, 7:10pm, 10:00pm), Thu 11/20 (11:50am, 2:55pm, 6:00pm, 9:05pm), Fri 11/21 (11:50am, 2:55pm, 6:00pm, 9:05pm), Sat 11/22 (11:50am, 2:55pm, 6:00pm, 9:05pm), Sun 11/23 (11:50am, 2:55pm, 6:00pm, 9:05pm), Mon 11/24 (11:50am, 2:55pm, 6:00pm, 9:05pm), Tue 11/25 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Wed 11/26 (12:15pm, 3:20pm, 6:25pm, 9:30pm)
+
+    * [One Battle After Another](https://drafthouse.com/los-angeles/show/one-battle-after-another): Tue 11/18 (12:45pm, 2:50pm, 6:45pm, 9:30pm), Wed 11/19 (11:25am, 2:50pm, 6:40pm, 9:30pm), Thu 11/20 (11:20am, 1:00pm)
+
+    * [Phantom Thread](https://drafthouse.com/los-angeles/show/phantom-thread): Sat 12/27 (11:30am)
+
+    * [Planes Trains Automobiles](https://drafthouse.com/los-angeles/show/planes-trains-automobiles): Mon 11/24 (4:40pm), Tue 11/25 (7:20pm)
+
+    * [Predator Badlands](https://drafthouse.com/los-angeles/show/predator-badlands): Tue 11/18 (12:40pm, 3:40pm, 6:30pm, 9:45pm), Wed 11/19 (12:00pm, 3:00pm, 4:30pm, 8:00pm, 10:30pm), Thu 11/20 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Fri 11/21 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 11/22 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sun 11/23 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Mon 11/24 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Tue 11/25 (12:00pm, 3:30pm, 6:30pm, 9:30pm), Wed 11/26 (10:30am, 1:30pm, 4:25pm)
+
+    * [Queer Film Theory 101 Branded To Kill](https://drafthouse.com/los-angeles/show/queer-film-theory-101-branded-to-kill): Mon 11/24 (7:20pm)
+
+    * [Rebbeca Becky G](https://drafthouse.com/los-angeles/show/rebbeca-becky-g): Wed 12/10 (6:00pm), Sat 12/13 (3:00pm)
+
+    * [Reflection In A Dead Diamond](https://drafthouse.com/los-angeles/show/reflection-in-a-dead-diamond): Mon 11/24 (10:00pm)
+
+    * [Rental Family](https://drafthouse.com/los-angeles/show/rental-family): Thu 11/20 (2:00pm, 4:55pm, 7:50pm, 10:50pm), Fri 11/21 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Sat 11/22 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Sun 11/23 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Mon 11/24 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Tue 11/25 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Wed 11/26 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm)
+
+    * [Safe 1995](https://drafthouse.com/los-angeles/show/safe-1995): Sat 12/27 (2:50pm)
+
+    * [Sentimental Value](https://drafthouse.com/los-angeles/show/sentimental-value): Tue 11/18 (11:30am, 12:00pm, 2:35pm, 3:00pm, 3:30pm, 6:00pm, 9:30pm), Wed 11/19 (11:30am, 3:00pm, 6:30pm, 10:00pm), Thu 11/20 (11:30am, 3:00pm), Fri 11/21 (11:30am, 3:00pm, 6:30pm, 10:00pm), Sat 11/22 (11:30am, 3:00pm, 6:30pm, 10:00pm), Sun 11/23 (11:30am, 3:00pm, 6:30pm, 10:00pm), Mon 11/24 (11:30am, 3:00pm, 6:30pm, 10:00pm), Tue 11/25 (12:20pm, 3:50pm, 7:15pm, 10:40pm), Wed 11/26 (11:00am, 2:30pm, 6:00pm, 9:30pm)
+
+    * [Sisu Road To Revenge](https://drafthouse.com/los-angeles/show/sisu-road-to-revenge): Thu 11/20 (5:00pm, 7:45pm, 10:30pm), Fri 11/21 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sat 11/22 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sun 11/23 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Mon 11/24 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Tue 11/25 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Wed 11/26 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm)
+
+    * [The Apartment](https://drafthouse.com/los-angeles/show/the-apartment): Wed 12/31 (11:45am)
+
+    * [The Doors When Youre Strange](https://drafthouse.com/los-angeles/show/the-doors-when-youre-strange): Thu 12/4 (7:20pm), Sat 12/6 (3:15pm)
+
+    * [The Holiday](https://drafthouse.com/los-angeles/show/the-holiday): Sun 12/7 (11:45am)
+
+    * [The Lighthouse](https://drafthouse.com/los-angeles/show/the-lighthouse): Tue 11/18 (10:20pm)
+
+    * [The Night Of The Hunter](https://drafthouse.com/los-angeles/show/the-night-of-the-hunter): Tue 12/30 (12:15pm)
+
+    * [The Running Man 2025](https://drafthouse.com/los-angeles/show/the-running-man-2025): Tue 11/18 (11:15am, 2:45pm, 6:15pm, 9:45pm), Wed 11/19 (11:15am, 1:30pm, 2:45pm, 6:15pm, 9:45pm), Thu 11/20 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Fri 11/21 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sat 11/22 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sun 11/23 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Mon 11/24 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Tue 11/25 (11:25am, 2:50pm, 6:15pm, 9:40pm), Wed 11/26 (11:00am, 2:30pm, 6:00pm, 9:30pm)
+
+    * [Violent Night W Live Q A](https://drafthouse.com/los-angeles/show/violent-night-w-live-q-a): Wed 12/10 (7:15pm)
+
+    * [Wake Up Dead Man A Knives Out Mystery](https://drafthouse.com/los-angeles/show/wake-up-dead-man-a-knives-out-mystery): Tue 11/25 (7:00pm, 10:15pm), Wed 11/26 (11:00am, 2:40pm, 6:15pm, 9:50pm), Thu 11/27 (11:00am, 2:40pm, 6:15pm, 9:50pm), Fri 11/28 (11:00am, 2:40pm, 6:15pm, 9:50pm), Sat 11/29 (11:00am, 2:40pm, 6:15pm, 9:50pm), Sun 11/30 (11:00am, 2:40pm, 6:15pm), Mon 12/1 (11:00am, 2:40pm, 6:15pm, 9:50pm), Tue 12/2 (11:00am, 2:40pm, 6:15pm, 9:50pm), Wed 12/3 (11:00am, 2:40pm, 6:15pm, 9:50pm)
+
+    * [When Harry Met Sally](https://drafthouse.com/los-angeles/show/when-harry-met-sally): Mon 12/29 (12:15pm)
+
+    * [Wicked For Good](https://drafthouse.com/los-angeles/show/wicked-for-good): Thu 11/20 (2:15pm, 3:15pm, 4:00pm, 5:20pm, 5:45pm, 6:20pm, 6:45pm, 8:45pm, 9:15pm, 9:50pm, 10:15pm), Fri 11/21 (10:45am, 11:15am, 11:45am, 12:15pm, 2:15pm, 2:45pm, 3:15pm, 3:45pm, 5:45pm, 6:15pm, 7:15pm, 9:15pm, 9:45pm, 10:15pm, 10:45pm), Sat 11/22 (10:45am, 11:15am, 11:45am, 12:15pm, 1:10pm, 2:45pm, 3:15pm, 3:45pm, 5:45pm, 6:15pm, 6:45pm, 7:15pm, 9:15pm, 9:45pm, 10:15pm, 10:45pm), Sun 11/23 (10:45am, 11:45am, 12:15pm, 1:15pm, 2:15pm, 3:15pm, 3:45pm, 5:45pm, 6:45pm, 7:15pm, 9:15pm, 10:15pm, 10:45pm), Mon 11/24 (10:45am, 11:15am, 11:45am, 1:15pm, 2:15pm, 2:45pm, 3:15pm, 5:45pm, 6:15pm, 6:45pm, 9:15pm, 9:45pm, 10:15pm), Tue 11/25 (11:45am, 12:40pm, 3:15pm, 3:50pm, 6:45pm, 10:15pm), Wed 11/26 (10:45am, 11:45am, 2:15pm, 3:15pm, 5:45pm, 6:45pm, 10:00pm, 10:15pm), Thu 11/27 (11:45am, 3:15pm, 6:45pm, 10:15pm), Fri 11/28 (11:45am, 3:15pm, 6:45pm, 10:15pm), Sat 11/29 (11:45am, 3:15pm, 6:45pm, 10:15pm), Sun 11/30 (11:45am, 3:15pm, 6:45pm)
+
+    * [Wicked Re Release](https://drafthouse.com/los-angeles/show/wicked-re-release): Tue 11/18 (4:00pm), Wed 11/19 (12:25pm)
+
+    * [Wicked Wicked For Good Double Feature](https://drafthouse.com/los-angeles/show/wicked-wicked-for-good-double-feature): Thu 11/20 (11:00am)
+
+    * [Www Rachelormont Com](https://drafthouse.com/los-angeles/show/www-rachelormont-com): Fri 1/9 (9:45pm), Tue 1/13 (7:20pm)
+
+    * [Zootopia 2](https://drafthouse.com/los-angeles/show/zootopia-2): Tue 11/25 (3:00pm, 6:00pm, 9:00pm), Wed 11/26 (10:00am, 1:00pm, 4:00pm, 7:00pm, 9:15pm), Thu 11/27 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Fri 11/28 (9:00am, 12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 11/29 (9:00am, 12:00pm, 3:00pm, 6:00pm, 9:00pm), Sun 11/30 (9:00am, 12:00pm, 3:00pm, 6:00pm), Mon 12/1 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Tue 12/2 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Wed 12/3 (12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
 ### Tue 11/18 5:34am
 * New movies: The French Dispatch, Venom: Let There Be Carnage, Titane, No Time to Die, Lamb 2021, Dune 2021, Shang-Chi and the Legend of the Ten Rings, The Eyes of Tammy Faye, The Many Saints of Newark, Dear Evan Hansen, Halloween Kills, The Addams Family 2, The French Dispatch, Shaun of the Dead, The Craft, Beetlejuice, No Time to Die, A Clockwork Orange - 4k Restoration, Andrzej Zuławski’s Possession - 4K Restoration, Halloween 1978, Scream, The Addams Family 1991 - 30th Anniversary, The Thing 1982, The Doors: Live at The Bowl ’68 - Special Edition, The Exorcist, The Howling - 4K Restoration, The Lost Boys, The Shining, Willy Wonka and the Chocolate Factory, A NIGHTMARE ON ELM STREET, Phantasm - 4K Restoration
 
