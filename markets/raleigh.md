@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 11/18 3:36am
+* New movies: Matinee
+
+* New screenings: 
+    * [Weird Wednesday Matinee](https://drafthouse.com/raleigh/show/weird-wednesday-matinee): Wed 12/10 (10:15pm)
+
 ### Tue 11/18 12:28am
 * New movies: Maniac Cop 2
 
