@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 11/18 12:28am
+* New movies: Maniac Cop 2
+
+* New screenings: 
+    * [Terror Tuesday Maniac Cop 2](https://drafthouse.com/raleigh/show/terror-tuesday-maniac-cop-2): Tue 12/9 (9:30pm)
+
 ### Mon 11/17 9:05pm
 * New movies: Black Christmas '74 + The Occupant of the Room
 
