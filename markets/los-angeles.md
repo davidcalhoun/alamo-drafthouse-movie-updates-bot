@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 11/19 6:23am
+* New movies: No Other Choice, Sense and Sensibility
+
+* New screenings: 
+    * [Livestream Q A No Other Choice](https://drafthouse.com/los-angeles/show/livestream-q-a-no-other-choice): Wed 12/3 (6:00pm)
+
+    * [Special Event Sense And Sensibility 30th Anniversary](https://drafthouse.com/los-angeles/show/special-event-sense-and-sensibility-30th-anniversary): Sun 12/14 (6:00pm), Tue 12/16 (3:50pm), Wed 12/17 (3:50pm)
+
 ### Tue 11/18 9:23pm
 * New movies: The Housemaid 2025
 
