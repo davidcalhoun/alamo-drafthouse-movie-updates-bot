@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 11/18 9:23pm
+* New movies: The Housemaid 2025
+
+* New screenings: 
+    * [The Housemaid 2025](https://drafthouse.com/los-angeles/show/the-housemaid-2025): Thu 12/18 (2:40pm, 6:00pm, 9:20pm), Fri 12/19 (9:20am, 12:40pm, 4:00pm, 7:20pm, 10:40pm), Sat 12/20 (9:20am, 12:40pm, 4:00pm, 7:20pm, 10:40pm), Sun 12/21 (9:20am, 12:40pm, 4:00pm, 7:20pm, 10:40pm), Mon 12/22 (9:20am, 12:40pm, 4:00pm, 7:20pm, 10:40pm), Tue 12/23 (9:20am, 12:40pm, 4:00pm, 7:20pm, 10:40pm)
+
 ### Tue 11/18 3:20pm
 
 * New screenings: 
