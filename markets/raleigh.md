@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Wed 11/19 9:28am
+* New movies: No Other Choice, Sense and Sensibility
+
+* New screenings: 
+    * [Livestream Q A No Other Choice](https://drafthouse.com/raleigh/show/livestream-q-a-no-other-choice): Wed 12/3 (8:00pm)
+
+    * [Special Event Sense And Sensibility 30th Anniversary](https://drafthouse.com/raleigh/show/special-event-sense-and-sensibility-30th-anniversary): Tue 12/16 (3:00pm), Wed 12/17 (3:00pm)
+
 ### Wed 11/19 12:29am
 * New movies: The Housemaid 2025
 
