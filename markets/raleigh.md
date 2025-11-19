@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 11/19 12:29am
+* New movies: The Housemaid 2025
+
+* New screenings: 
+    * [The Housemaid 2025](https://drafthouse.com/raleigh/show/the-housemaid-2025): Thu 12/18 (3:00pm, 6:15pm, 9:30pm), Fri 12/19 (9:30am, 12:45pm, 4:00pm, 7:15pm, 10:30pm), Sat 12/20 (9:30am, 12:45pm, 4:00pm, 7:15pm, 10:45pm), Sun 12/21 (9:30am, 12:45pm, 4:00pm, 7:15pm, 10:45pm), Mon 12/22 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Tue 12/23 (12:00pm, 3:15pm, 6:30pm, 9:45pm)
+
 ### Tue 11/18 9:05pm
 
 * New screenings: 
