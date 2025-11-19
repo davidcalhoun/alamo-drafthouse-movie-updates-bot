@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 11/18 9:05pm
+
+* New screenings: 
+    * [Eternity](https://drafthouse.com/raleigh/show/eternity): Wed 11/26 (10:00am, 1:00pm, 4:00pm, 7:00pm, 10:00pm)
+
 ### Tue 11/18 5:27pm
 
 * New screenings: 
