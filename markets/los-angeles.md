@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 11/19 9:23pm
+* New movies: Kill Bill: The Whole Bloody Affair
+
+* New screenings: 
+    * [Kill Bill The Whole Bloody Affair](https://drafthouse.com/los-angeles/show/kill-bill-the-whole-bloody-affair): Thu 12/4 (1:00pm, 6:45pm), Fri 12/5 (7:00pm), Sat 12/6 (1:00pm, 6:45pm), Sun 12/7 (1:00pm, 6:45pm)
+
 ### Wed 11/19 6:23am
 * New movies: No Other Choice, Sense and Sensibility
 
