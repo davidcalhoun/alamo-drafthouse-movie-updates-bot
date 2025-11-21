@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 11/21 3:30pm
+
+* New screenings: 
+    * [Avatar Fire And Ash](https://drafthouse.com/raleigh/show/avatar-fire-and-ash): Fri 12/26 (2:30pm, 7:00pm), Sat 12/27 (2:30pm, 7:00pm), Sun 12/28 (2:30pm, 7:00pm), Mon 12/29 (2:30pm, 7:00pm), Tue 12/30 (2:30pm, 7:00pm), Wed 12/31 (2:00pm, 6:30pm)
+
 ### Wed 11/19 9:28am
 * New movies: No Other Choice, Sense and Sensibility
 
