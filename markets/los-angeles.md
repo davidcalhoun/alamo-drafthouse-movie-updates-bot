@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Thu 11/20 11:22pm
+* New movies: Zodiac Killer Project
+
+* New screenings: 
+    * [Kill Bill The Whole Bloody Affair](https://drafthouse.com/los-angeles/show/kill-bill-the-whole-bloody-affair): Fri 12/5 (11:15am)
+
+    * [Mistress Dispeller](https://drafthouse.com/los-angeles/show/mistress-dispeller): Tue 12/9 (3:10pm)
+
+    * [Zodiac Killer Project](https://drafthouse.com/los-angeles/show/zodiac-killer-project): Fri 12/5 (4:40pm), Sun 12/7 (11:30am)
+
 ### Wed 11/19 9:23pm
 * New movies: Kill Bill: The Whole Bloody Affair
 
