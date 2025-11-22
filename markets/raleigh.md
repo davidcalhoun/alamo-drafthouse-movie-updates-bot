@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 11/21 9:00pm
+* New movies: The Long Kiss Goodnight
+
+* New screenings: 
+    * [Queer Film Theory The Long Kiss Goodnight](https://drafthouse.com/raleigh/show/queer-film-theory-the-long-kiss-goodnight): Mon 12/22 (6:30pm)
+
 ### Fri 11/21 3:30pm
 
 * New screenings: 
