@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 11/21 5:46pm
+* New movies: The Long Kiss Goodnight
+
+* New screenings: 
+    * [Queer Film Theory The Long Kiss Goodnight](https://drafthouse.com/los-angeles/show/queer-film-theory-the-long-kiss-goodnight): Mon 12/22 (7:20pm)
+
 ### Thu 11/20 11:22pm
 * New movies: Zodiac Killer Project
 
