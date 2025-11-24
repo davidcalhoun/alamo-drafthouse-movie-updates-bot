@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Mon 11/24 1:22pm
+* New movies: The SpongeBob Movie: Search For SquarePants, The SpongeBob Movie: Search For SquarePants
+
+* New screenings: 
+    * [Movie Party The Spongebob Movie Search For Squarepants](https://drafthouse.com/los-angeles/show/movie-party-the-spongebob-movie-search-for-squarepants): Sat 12/20 (2:30pm)
+
+    * [Rental Family](https://drafthouse.com/los-angeles/show/rental-family): Tue 11/25 (1:45pm, 7:45pm, 10:45pm)
+
+    * [The Spongebob Movie Search For Squarepants](https://drafthouse.com/los-angeles/show/the-spongebob-movie-search-for-squarepants): Thu 12/18 (4:00pm, 6:45pm, 9:30pm), Fri 12/19 (10:15am, 1:00pm, 3:45pm, 6:30pm, 9:15pm), Sat 12/20 (10:15am, 1:00pm, 3:45pm, 6:30pm, 9:15pm), Sun 12/21 (10:15am, 1:00pm, 3:45pm, 6:30pm, 9:15pm), Mon 12/22 (10:15am, 1:00pm, 3:45pm, 6:30pm, 9:15pm), Tue 12/23 (10:15am, 1:00pm, 3:45pm, 6:30pm, 9:15pm), Wed 12/24 (10:15am, 1:00pm, 3:45pm, 6:30pm)
+
 ### Fri 11/21 5:46pm
 * New movies: The Long Kiss Goodnight
 
