@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Mon 11/24 9:29am
+* New movies: The SpongeBob Movie: Search For SquarePants, The SpongeBob Movie: Search For SquarePants
+
+* New screenings: 
+    * [Movie Party The Spongebob Movie Search For Squarepants](https://drafthouse.com/raleigh/show/movie-party-the-spongebob-movie-search-for-squarepants): Sat 12/20 (12:15pm)
+
+    * [The Spongebob Movie Search For Squarepants](https://drafthouse.com/raleigh/show/the-spongebob-movie-search-for-squarepants): Thu 12/18 (3:15pm, 6:15pm, 9:15pm), Fri 12/19 (9:30am, 12:15pm, 3:15pm, 6:15pm, 9:15pm), Sat 12/20 (9:30am, 3:15pm, 6:15pm, 9:15pm), Sun 12/21 (9:30am, 12:15pm, 3:15pm, 6:15pm, 9:15pm), Mon 12/22 (10:00am, 12:45pm, 3:30pm, 6:15pm, 9:00pm), Wed 12/24 (10:00am, 12:45pm, 3:30pm, 6:15pm), Thu 12/25 (10:00am, 12:45pm, 3:30pm, 6:15pm, 9:00pm)
+
 ### Fri 11/21 9:00pm
 * New movies: The Long Kiss Goodnight
 
