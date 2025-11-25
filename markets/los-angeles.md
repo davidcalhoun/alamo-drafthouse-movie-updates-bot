@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Tue 11/25 10:35am
+* New movies: Fate/strange Fake, Risky Business, Saturday Night Fever
+
+* New screenings: 
+    * [Free Victory Screening Fate Strange Fake](https://drafthouse.com/los-angeles/show/free-victory-screening-fate-strange-fake): Tue 12/9 (7:00pm, 7:00pm)
+
+    * [Guest Selects Risky Business](https://drafthouse.com/los-angeles/show/guest-selects-risky-business): Sat 12/6 (9:00pm)
+
+    * [Guest Selects Saturday Night Fever](https://drafthouse.com/los-angeles/show/guest-selects-saturday-night-fever): Tue 12/9 (7:15pm)
+
 ### Mon 11/24 5:52pm
 * New movies: Elf, National Lampoon's Christmas Vacation, Highest 2 Lowest, Influencers
 
