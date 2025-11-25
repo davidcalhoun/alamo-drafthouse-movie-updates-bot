@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Tue 11/25 12:27pm
+* New movies: Fate/strange Fake, Risky Business, Saturday Night Fever
+
+* New screenings: 
+    * [Free Victory Screening Fate Strange Fake](https://drafthouse.com/raleigh/show/free-victory-screening-fate-strange-fake): Tue 12/9 (7:00pm)
+
+    * [Guest Selects Risky Business](https://drafthouse.com/raleigh/show/guest-selects-risky-business): Sat 12/6 (10:45pm)
+
+    * [Guest Selects Saturday Night Fever](https://drafthouse.com/raleigh/show/guest-selects-saturday-night-fever): Tue 12/9 (6:15pm)
+
 ### Tue 11/25 12:29am
 * New movies: Don't Open Till Christmas
 
