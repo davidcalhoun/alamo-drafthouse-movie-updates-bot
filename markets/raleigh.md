@@ -1,6 +1,38 @@
 # raleigh
 
 ## Movie updates
+### Mon 11/24 9:06pm
+* New movies: Sentimental Value, Highest 2 Lowest, The Cure: The Show of a Lost World, Influencers
+
+* New screenings: 
+    * [Eternity](https://drafthouse.com/raleigh/show/eternity): Thu 11/27 (10:00am), Mon 12/1 (1:00pm, 4:15pm, 7:30pm, 10:30pm), Tue 12/2 (1:00pm, 4:15pm, 7:30pm, 10:30pm), Wed 12/3 (1:00pm, 4:15pm, 7:30pm, 10:30pm)
+
+    * [Influencers](https://drafthouse.com/raleigh/show/influencers): Mon 12/15 (9:45pm)
+
+    * [Now You See Me Now You Dont](https://drafthouse.com/raleigh/show/now-you-see-me-now-you-dont): Tue 11/25 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Wed 11/26 (10:15am, 1:15pm, 4:30pm, 7:30pm, 10:30pm), Thu 11/27 (12:00pm, 3:15pm, 6:15pm, 9:15pm), Fri 11/28 (10:30am, 1:30pm, 4:30pm, 7:30pm, 10:30pm), Sat 11/29 (10:30am, 1:30pm, 4:30pm, 7:30pm, 10:30pm), Sun 11/30 (10:30am, 1:30pm, 4:30pm, 7:30pm, 10:30pm), Mon 12/1 (11:30am, 2:45pm, 6:00pm, 9:00pm), Tue 12/2 (11:30am, 2:45pm, 6:00pm, 9:00pm), Wed 12/3 (11:30am, 2:45pm, 6:00pm, 9:00pm)
+
+    * [Planes Trains Automobiles](https://drafthouse.com/raleigh/show/planes-trains-automobiles): Tue 11/25 (12:30pm)
+
+    * [Predator Badlands](https://drafthouse.com/raleigh/show/predator-badlands): Tue 11/25 (12:45pm, 1:45pm, 7:45pm, 10:45pm), Wed 11/26 (6:30pm, 9:45pm), Thu 11/27 (6:30pm, 8:30pm, 9:45pm), Fri 11/28 (6:00pm, 9:00pm), Sat 11/29 (6:00pm, 9:00pm), Sun 11/30 (6:00pm, 9:00pm), Mon 12/1 (7:45pm, 10:45pm), Tue 12/2 (7:30pm, 10:30pm), Wed 12/3 (7:30pm, 10:30pm)
+
+    * [Rental Family](https://drafthouse.com/raleigh/show/rental-family): Tue 11/25 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Wed 11/26 (9:15am, 12:15pm, 3:15pm, 6:15pm, 9:15pm), Thu 11/27 (10:30am, 1:30pm, 4:30pm, 7:30pm, 10:30pm), Fri 11/28 (9:30am, 12:25pm, 3:20pm, 6:15pm, 9:15pm), Sat 11/29 (9:30am, 12:25pm, 3:20pm, 6:15pm, 9:15pm), Sun 11/30 (9:30am, 12:25pm, 3:20pm, 6:15pm, 9:15pm), Mon 12/1 (12:15pm, 3:15pm, 6:30pm, 9:30pm), Tue 12/2 (12:15pm, 3:15pm, 6:30pm, 9:30pm), Wed 12/3 (12:15pm, 3:15pm, 6:30pm, 9:30pm)
+
+    * [Sentimental Value](https://drafthouse.com/raleigh/show/sentimental-value): Wed 11/26 (11:00am, 2:30pm, 6:00pm, 9:30pm), Thu 11/27 (11:45am, 3:00pm, 6:00pm, 9:30pm), Fri 11/28 (8:30am, 11:45am, 3:00pm, 6:30pm, 9:45pm), Sat 11/29 (8:30am, 11:45am, 3:00pm, 6:30pm, 9:45pm), Sun 11/30 (8:30am, 11:45am, 3:00pm, 6:30pm, 9:45pm), Mon 12/1 (12:30pm, 3:45pm, 7:15pm, 10:45pm), Tue 12/2 (12:30pm, 3:45pm, 7:15pm, 10:45pm), Wed 12/3 (12:30pm, 3:45pm, 7:15pm, 10:45pm)
+
+    * [Sisu Road To Revenge](https://drafthouse.com/raleigh/show/sisu-road-to-revenge): Tue 11/25 (1:00pm, 4:00pm), Wed 11/26 (8:30pm), Thu 11/27 (10:30pm), Fri 11/28 (10:00pm), Sat 11/29 (10:00pm), Sun 11/30 (9:00am), Mon 12/1 (5:00pm), Tue 12/2 (4:45pm), Wed 12/3 (4:45pm)
+
+    * [Special Event Highest 2 Lowest Re Release](https://drafthouse.com/raleigh/show/special-event-highest-2-lowest-re-release): Sat 12/6 (6:15pm)
+
+    * [The Cure The Show Of A Lost World](https://drafthouse.com/raleigh/show/the-cure-the-show-of-a-lost-world): Thu 12/11 (6:00pm), Thu 12/18 (12:30pm)
+
+    * [The Running Man 2025](https://drafthouse.com/raleigh/show/the-running-man-2025): Tue 11/25 (1:00pm, 10:15pm), Wed 11/26 (10:15pm), Thu 11/27 (10:15pm), Fri 11/28 (10:15pm), Sat 11/29 (10:15pm), Sun 11/30 (10:15pm), Mon 12/1 (10:15pm), Tue 12/2 (10:15pm), Wed 12/3 (10:15pm)
+
+    * [Wake Up Dead Man A Knives Out Mystery](https://drafthouse.com/raleigh/show/wake-up-dead-man-a-knives-out-mystery): Tue 11/25 (7:30pm), Wed 11/26 (5:00pm), Thu 11/27 (11:30am, 5:00pm), Fri 11/28 (11:00am, 2:30pm), Sat 11/29 (11:00am, 2:30pm), Sun 11/30 (8:00pm), Mon 12/1 (11:00am, 2:30pm, 6:15pm, 9:45pm), Tue 12/2 (11:00am, 2:30pm, 6:15pm, 9:45pm), Wed 12/3 (11:00am, 2:30pm, 6:15pm, 9:45pm)
+
+    * [Wicked For Good](https://drafthouse.com/raleigh/show/wicked-for-good): Tue 11/25 (11:30am, 3:00pm, 4:00pm), Wed 11/26 (10:00am, 11:30am, 1:30pm, 3:00pm), Thu 11/27 (1:00pm, 1:30pm), Fri 11/28 (11:30am, 3:00pm, 6:30pm), Sat 11/29 (11:30am, 3:00pm, 6:30pm), Sun 11/30 (1:00pm, 4:30pm), Mon 12/1 (11:00am, 11:30am, 12:00pm, 2:30pm, 3:00pm, 3:30pm, 6:00pm, 7:00pm, 9:20pm, 10:30pm), Tue 12/2 (11:00am, 11:30am, 12:00pm, 2:30pm, 3:00pm, 3:30pm, 6:00pm, 7:00pm, 9:45pm, 10:30pm), Wed 12/3 (11:30am, 12:00pm, 2:00pm, 3:00pm, 3:30pm, 5:30pm, 7:00pm, 10:30pm)
+
+    * [Zootopia 2](https://drafthouse.com/raleigh/show/zootopia-2): Tue 11/25 (4:15pm, 4:45pm, 7:15pm), Wed 11/26 (10:15am, 1:15pm, 4:15pm), Thu 11/27 (11:30am, 2:30pm, 4:20pm, 7:15pm), Fri 11/28 (10:15am, 1:15pm, 4:15pm), Sat 11/29 (10:15am, 1:15pm, 4:15pm), Sun 11/30 (10:15am, 11:45am, 1:15pm, 3:00pm, 4:15pm), Mon 12/1 (12:00pm, 1:00pm, 2:00pm, 3:15pm, 4:00pm, 6:15pm, 7:15pm, 9:30pm), Tue 12/2 (12:00pm, 1:00pm, 1:35pm, 3:15pm, 4:00pm, 6:15pm, 7:15pm, 9:05pm), Wed 12/3 (11:00am, 12:00pm, 1:00pm, 1:30pm, 3:15pm, 4:00pm, 6:15pm, 7:15pm, 9:30pm)
+
 ### Mon 11/24 9:29am
 * New movies: The SpongeBob Movie: Search For SquarePants, The SpongeBob Movie: Search For SquarePants
 
