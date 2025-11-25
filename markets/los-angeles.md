@@ -1,6 +1,46 @@
 # los-angeles
 
 ## Movie updates
+### Mon 11/24 5:52pm
+* New movies: Elf, National Lampoon's Christmas Vacation, Highest 2 Lowest, Influencers
+
+* New screenings: 
+    * [Brazil The Directors Cut](https://drafthouse.com/los-angeles/show/brazil-the-directors-cut): Fri 11/28 (9:25pm), Mon 12/1 (9:30pm), Tue 12/2 (10:15pm), Wed 12/3 (9:25pm)
+
+    * [Bugonia](https://drafthouse.com/los-angeles/show/bugonia): Tue 11/25 (12:20pm), Wed 11/26 (12:30pm, 3:45pm, 7:00pm), Thu 11/27 (6:30pm, 10:45pm), Fri 11/28 (7:30pm, 10:35pm), Sat 11/29 (7:30pm, 10:35pm), Sun 11/30 (7:30pm), Mon 12/1 (7:30pm, 10:35pm), Tue 12/2 (7:30pm, 10:35pm), Wed 12/3 (7:30pm, 10:35pm)
+
+    * [Elf](https://drafthouse.com/los-angeles/show/elf): Fri 11/28 (9:00am), Sun 11/30 (9:00am), Mon 12/1 (11:45am)
+
+    * [Hamnet](https://drafthouse.com/los-angeles/show/hamnet): Wed 12/3 (6:15pm)
+
+    * [Influencers](https://drafthouse.com/los-angeles/show/influencers): Mon 12/15 (10:20pm)
+
+    * [Keeper](https://drafthouse.com/los-angeles/show/keeper): Tue 11/25 (1:05pm, 4:10pm, 10:00pm)
+
+    * [Lethal Weapon](https://drafthouse.com/los-angeles/show/lethal-weapon): Mon 12/1 (10:30pm), Tue 12/2 (9:30pm), Wed 12/3 (9:50pm)
+
+    * [Little Women 2019](https://drafthouse.com/los-angeles/show/little-women-2019): Sun 11/30 (9:00am), Tue 12/2 (4:30pm)
+
+    * [National Lampoons Christmas Vacation](https://drafthouse.com/los-angeles/show/national-lampoons-christmas-vacation): Sat 11/29 (9:00am, 10:45pm)
+
+    * [Planes Trains Automobiles](https://drafthouse.com/los-angeles/show/planes-trains-automobiles): Thu 11/27 (9:45pm)
+
+    * [Predator Badlands](https://drafthouse.com/los-angeles/show/predator-badlands): Thu 11/27 (12:30pm, 3:30pm), Fri 11/28 (1:30pm, 4:30pm), Sat 11/29 (1:30pm, 4:30pm), Sun 11/30 (9:00am, 1:30pm, 4:30pm), Mon 12/1 (1:30pm, 4:30pm), Tue 12/2 (1:30pm, 4:30pm), Wed 12/3 (1:30pm, 4:30pm)
+
+    * [Rental Family](https://drafthouse.com/los-angeles/show/rental-family): Wed 11/26 (10:45am, 1:45pm, 4:45pm, 10:45pm), Thu 11/27 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Fri 11/28 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Sat 11/29 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Sun 11/30 (10:45am, 1:45pm, 4:45pm, 7:45pm), Mon 12/1 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Tue 12/2 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Wed 12/3 (12:45pm, 3:45pm, 6:45pm, 9:45pm)
+
+    * [Sentimental Value](https://drafthouse.com/los-angeles/show/sentimental-value): Thu 11/27 (12:30pm, 4:00pm, 7:25pm), Fri 11/28 (11:10am, 2:35pm, 6:00pm), Sat 11/29 (11:10am, 2:35pm, 6:00pm), Sun 11/30 (11:10am, 2:35pm, 6:00pm), Mon 12/1 (12:15pm, 3:40pm, 7:00pm), Tue 12/2 (11:15am, 2:40pm, 6:00pm), Wed 12/3 (12:15pm, 3:40pm, 7:00pm)
+
+    * [Sisu Road To Revenge](https://drafthouse.com/los-angeles/show/sisu-road-to-revenge): Thu 11/27 (7:00pm, 10:50pm), Fri 11/28 (8:00pm, 10:40pm), Sat 11/29 (8:00pm, 9:25pm), Sun 11/30 (8:00pm), Mon 12/1 (6:45pm, 10:30pm), Tue 12/2 (7:15pm, 10:00pm), Wed 12/3 (6:45pm, 10:30pm)
+
+    * [Special Event Highest 2 Lowest Re Release](https://drafthouse.com/los-angeles/show/special-event-highest-2-lowest-re-release): Sat 12/6 (7:45pm)
+
+    * [Wake Up Dead Man A Knives Out Mystery](https://drafthouse.com/los-angeles/show/wake-up-dead-man-a-knives-out-mystery): Thu 11/27 (12:00pm, 3:35pm, 7:15pm, 9:35pm), Fri 11/28 (10:00am, 1:15pm, 1:40pm, 5:15pm, 8:15pm, 8:50pm), Sat 11/29 (10:00am, 1:15pm, 1:40pm, 5:15pm, 8:15pm, 8:50pm), Sun 11/30 (10:00am, 1:40pm, 4:00pm, 5:15pm), Mon 12/1 (12:20pm, 4:00pm), Tue 12/2 (1:00pm, 3:40pm), Wed 12/3 (12:15pm, 3:45pm)
+
+    * [Wicked For Good](https://drafthouse.com/los-angeles/show/wicked-for-good): Tue 11/25 (10:45am, 2:15pm, 5:45pm, 9:15pm), Thu 11/27 (10:45am, 11:15am, 2:15pm, 2:45pm, 5:45pm, 6:15pm, 9:15pm, 9:45pm), Fri 11/28 (9:45am, 10:45am, 2:15pm, 4:45pm, 5:45pm, 9:15pm), Sat 11/29 (9:45am, 2:15pm, 4:45pm, 5:45pm, 9:15pm), Sun 11/30 (10:30am, 12:30pm, 3:00pm, 6:30pm, 7:30pm), Mon 12/1 (11:30am, 1:00pm, 2:30pm, 3:00pm, 4:30pm, 6:30pm, 8:00pm, 10:00pm), Tue 12/2 (11:30am, 12:15pm, 1:00pm, 3:00pm, 4:30pm, 6:30pm, 8:00pm, 10:00pm), Wed 12/3 (11:00am, 12:00pm, 1:00pm, 2:30pm, 3:30pm, 4:30pm, 8:00pm, 9:35pm)
+
+    * [Zootopia 2](https://drafthouse.com/los-angeles/show/zootopia-2): Thu 11/27 (1:00pm, 4:00pm), Fri 11/28 (10:30am, 11:00am, 2:00pm, 5:00pm), Sat 11/29 (10:30am, 11:00am, 2:00pm, 5:00pm), Sun 11/30 (10:30am, 2:00pm, 5:00pm), Mon 12/1 (12:45pm, 3:45pm), Tue 12/2 (1:15pm, 4:15pm), Wed 12/3 (12:45pm, 3:45pm)
+
 ### Mon 11/24 1:22pm
 * New movies: The SpongeBob Movie: Search For SquarePants, The SpongeBob Movie: Search For SquarePants
 
