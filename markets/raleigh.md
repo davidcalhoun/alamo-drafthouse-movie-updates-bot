@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 11/25 12:29am
+* New movies: Don't Open Till Christmas
+
+* New screenings: 
+    * [Weird Wednesday Dont Open Till Christmas](https://drafthouse.com/raleigh/show/weird-wednesday-dont-open-till-christmas): Wed 12/17 (9:30pm)
+
 ### Mon 11/24 9:06pm
 * New movies: Sentimental Value, Highest 2 Lowest, The Cure: The Show of a Lost World, Influencers
 
