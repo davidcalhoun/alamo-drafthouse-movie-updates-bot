@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 11/25 10:36pm
+
+* New screenings: 
+    * [The Spongebob Movie Search For Squarepants](https://drafthouse.com/los-angeles/show/the-spongebob-movie-search-for-squarepants): Thu 12/25 (10:15am, 1:00pm, 3:45pm, 6:30pm, 9:15pm), Fri 12/26 (10:15am, 1:00pm, 3:45pm, 6:30pm, 9:15pm), Sat 12/27 (10:15am, 1:00pm, 3:45pm, 6:30pm, 9:15pm), Sun 12/28 (10:15am, 1:00pm, 3:45pm, 6:30pm, 9:15pm), Mon 12/29 (10:15am, 1:00pm, 3:45pm, 6:30pm, 9:15pm), Tue 12/30 (10:15am, 1:00pm, 3:45pm, 6:30pm, 9:15pm), Wed 12/31 (10:15am, 1:00pm, 3:45pm, 6:30pm), Thu 1/1 (10:15am, 1:00pm, 3:45pm, 6:30pm, 9:15pm)
+
 ### Tue 11/25 9:23pm
 * New movies: Mystery Machine 12/15/2025, Christmas Eve in Miller's Point
 
