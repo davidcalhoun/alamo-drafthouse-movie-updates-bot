@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 11/26 4:24pm
+* New movies: Mystery Machine 12/15/2025
+
+* New screenings: 
+    * [Mystery Machine 12 15 2025](https://drafthouse.com/raleigh/show/mystery-machine-12-15-2025): Mon 12/15 (6:15pm)
+
 ### Tue 11/25 12:27pm
 * New movies: Fate/strange Fake, Risky Business, Saturday Night Fever
 
