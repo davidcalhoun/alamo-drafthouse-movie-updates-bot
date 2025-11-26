@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Tue 11/25 11:22pm
+
+* New screenings: 
+    * [The Housemaid 2025](https://drafthouse.com/los-angeles/show/the-housemaid-2025): Tue 12/23 (4:00pm)
+
+    * [The Spongebob Movie Search For Squarepants](https://drafthouse.com/los-angeles/show/the-spongebob-movie-search-for-squarepants): Tue 12/23 (1:00pm)
+
 ### Tue 11/25 10:36pm
 
 * New screenings: 
