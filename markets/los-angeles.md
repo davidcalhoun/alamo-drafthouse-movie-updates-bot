@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Tue 11/25 9:23pm
+* New movies: Mystery Machine 12/15/2025, Christmas Eve in Miller's Point
+
+* New screenings: 
+    * [100 Nights Of Hero](https://drafthouse.com/los-angeles/show/100-nights-of-hero): Sat 12/6 (10:00pm), Mon 12/8 (4:30pm), Tue 12/9 (12:20pm), Wed 12/10 (10:00pm), Thu 12/11 (12:00pm)
+
+    * [Kill Bill The Whole Bloody Affair](https://drafthouse.com/los-angeles/show/kill-bill-the-whole-bloody-affair): Mon 12/8 (1:00pm, 6:45pm), Tue 12/9 (12:45pm, 6:45pm), Wed 12/10 (1:00pm, 6:45pm), Thu 12/11 (11:45am, 5:30pm)
+
+    * [Mystery Machine 12 15 2025](https://drafthouse.com/los-angeles/show/mystery-machine-12-15-2025): Mon 12/15 (7:00pm)
+
+    * [Special Event Christmas Eve In Millers Point](https://drafthouse.com/los-angeles/show/special-event-christmas-eve-in-millers-point): Wed 12/17 (6:00pm)
+
 ### Tue 11/25 7:17pm
 
 * New screenings: 
