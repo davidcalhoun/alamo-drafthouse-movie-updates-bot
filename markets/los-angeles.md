@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 11/25 7:17pm
+
+* New screenings: 
+    * [Wicked For Good](https://drafthouse.com/los-angeles/show/wicked-for-good): Sat 11/29 (10:45am)
+
 ### Tue 11/25 10:35am
 * New movies: Fate/strange Fake, Risky Business, Saturday Night Fever
 
