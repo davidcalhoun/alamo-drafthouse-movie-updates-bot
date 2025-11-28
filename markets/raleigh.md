@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Fri 11/28 9:28am
+* New movies: Anaconda 2025, Anaconda 2025
+
+* New screenings: 
+    * [Anaconda 2025](https://drafthouse.com/raleigh/show/anaconda-2025): Wed 12/24 (12:00pm, 3:00pm, 6:00pm), Thu 12/25 (11:00am, 1:45pm, 4:30pm, 7:15pm, 10:15pm), Fri 12/26 (11:00am, 1:45pm, 4:45pm, 10:15pm), Sat 12/27 (11:00am, 1:45pm, 4:45pm, 7:30pm, 10:15pm), Sun 12/28 (11:00am, 1:45pm, 4:45pm, 7:30pm, 10:15pm), Mon 12/29 (11:00am, 1:45pm, 4:45pm, 7:30pm, 10:15pm), Tue 12/30 (11:00am, 1:45pm, 4:45pm, 7:30pm, 10:15pm), Wed 12/31 (11:00am, 1:45pm, 4:45pm, 7:30pm), Thu 1/1 (11:00am, 1:45pm, 4:45pm, 7:30pm, 10:15pm)
+
+    * [Movie Party Anaconda 2025](https://drafthouse.com/raleigh/show/movie-party-anaconda-2025): Fri 12/26 (7:30pm)
+
 ### Wed 11/26 4:24pm
 * New movies: Mystery Machine 12/15/2025
 
