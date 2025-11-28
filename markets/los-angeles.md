@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 11/28 9:20am
+* New movies: Marty Supreme
+
+* New screenings: 
+    * [Marty Supreme](https://drafthouse.com/los-angeles/show/marty-supreme): Wed 12/24 (12:10pm, 3:50pm, 7:30pm), Thu 12/25 (11:15am, 3:00pm, 6:45pm, 10:30pm), Fri 12/26 (11:15am, 3:00pm, 6:45pm, 10:30pm), Sat 12/27 (11:15am, 3:00pm, 6:45pm, 10:30pm), Sun 12/28 (11:15am, 3:00pm, 6:45pm, 10:30pm), Mon 12/29 (11:15am, 3:00pm, 6:45pm, 10:30pm), Tue 12/30 (11:15am, 3:00pm, 6:45pm, 10:30pm), Wed 12/31 (9:30am, 1:15pm, 3:00pm, 6:45pm), Thu 1/1 (9:45am, 12:15pm, 4:25pm, 7:45pm, 10:20pm)
+
 ### Fri 11/28 6:23am
 * New movies: Anaconda 2025, Anaconda 2025
 
