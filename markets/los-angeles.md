@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 11/28 6:23am
+* New movies: Anaconda 2025, Anaconda 2025
+
+* New screenings: 
+    * [Anaconda 2025](https://drafthouse.com/los-angeles/show/anaconda-2025): Wed 12/24 (12:45pm, 3:30pm, 6:20pm), Thu 12/25 (10:45am, 1:40pm, 4:30pm, 7:20pm, 10:15pm), Fri 12/26 (10:45am, 1:40pm, 4:30pm, 10:15pm), Sat 12/27 (10:45am, 1:40pm, 4:30pm, 7:20pm, 10:15pm), Sun 12/28 (10:45am, 1:40pm, 4:30pm, 7:20pm, 10:15pm), Mon 12/29 (10:45am, 1:40pm, 4:30pm, 7:20pm, 10:15pm), Tue 12/30 (10:45am, 1:40pm, 4:30pm, 7:20pm, 10:15pm), Wed 12/31 (10:45am, 1:40pm, 4:30pm, 7:20pm), Thu 1/1 (10:00am, 1:30pm, 4:40pm, 7:30pm, 8:10pm, 11:00pm)
+
+    * [Movie Party Anaconda 2025](https://drafthouse.com/los-angeles/show/movie-party-anaconda-2025): Fri 12/26 (7:20pm)
+
 ### Tue 11/25 11:22pm
 
 * New screenings: 
