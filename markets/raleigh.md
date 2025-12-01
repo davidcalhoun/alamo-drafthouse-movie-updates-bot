@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 12/1 9:31am
+* New movies: Crunchyroll Anime Nights SNEAK PEEK
+
+* New screenings: 
+    * [Crunchyroll Anime Nights Sneak Peek](https://drafthouse.com/raleigh/show/crunchyroll-anime-nights-sneak-peek): Mon 12/15 (6:30pm)
+
 ### Fri 11/28 12:24pm
 * New movies: Marty Supreme
 
