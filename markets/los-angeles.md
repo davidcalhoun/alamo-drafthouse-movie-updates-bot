@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Mon 12/1 6:26am
+* New movies: Ella McCay, Crunchyroll Anime Nights SNEAK PEEK
+
+* New screenings: 
+    * [Crunchyroll Anime Nights Sneak Peek](https://drafthouse.com/los-angeles/show/crunchyroll-anime-nights-sneak-peek): Mon 12/15 (6:00pm)
+
+    * [Ella Mccay](https://drafthouse.com/los-angeles/show/ella-mccay): Thu 12/11 (3:00pm, 6:00pm, 9:00pm), Fri 12/12 (10:00am, 1:00pm, 4:00pm, 7:00pm, 10:00pm), Sat 12/13 (10:00am, 1:00pm, 4:00pm, 7:00pm, 10:00pm), Sun 12/14 (10:00am, 1:00pm, 4:00pm, 7:00pm, 10:00pm), Mon 12/15 (10:00am, 1:00pm, 4:00pm, 7:00pm, 10:00pm), Tue 12/16 (10:00am, 1:00pm, 4:00pm, 7:00pm, 10:00pm), Wed 12/17 (10:00am, 1:00pm, 4:00pm, 7:00pm, 10:00pm)
+
 ### Fri 11/28 9:20am
 * New movies: Marty Supreme
 
