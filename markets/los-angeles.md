@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 12/1 3:22pm
+
+* New screenings: 
+    * [Mistress Dispeller](https://drafthouse.com/los-angeles/show/mistress-dispeller): Tue 12/9 (6:00pm)
+
 ### Mon 12/1 6:26am
 * New movies: Ella McCay, Crunchyroll Anime Nights SNEAK PEEK
 
