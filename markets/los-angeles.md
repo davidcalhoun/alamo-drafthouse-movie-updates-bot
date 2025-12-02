@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 12/2 8:33am
+* New movies: Stranger Things 5: The Finale
+
+* New screenings: 
+    * [Stranger Things 5 The Finale](https://drafthouse.com/los-angeles/show/stranger-things-5-the-finale): Wed 12/31 (5:00pm), Thu 1/1 (4:00pm)
+
 ### Mon 12/1 7:21pm
 * New movies: Elf, National Lampoon's Christmas Vacation, Man Finds Tape
 
