@@ -1,6 +1,44 @@
 # raleigh
 
 ## Movie updates
+### Tue 12/2 8:41am
+* New movies: 100 Nights of Hero, Fate/strange Fake, Highest 2 Lowest, Risky Business, Saturday Night Fever, Five Nights at Freddy's 2, Maniac Cop 2, Kiss Kiss Bang Bang, JEOPARDY! INTERACTIVE, THE HOLIDAY
+
+* New screenings: 
+    * [100 Nights Of Hero](https://drafthouse.com/raleigh/show/100-nights-of-hero): Fri 12/5 (9:30pm)
+
+    * [Five Nights At Freddys 2](https://drafthouse.com/raleigh/show/five-nights-at-freddys-2): Fri 12/5 (6:00pm), Sat 12/6 (6:00pm), Sun 12/7 (6:00pm)
+
+    * [Free Victory Screening Fate Strange Fake](https://drafthouse.com/raleigh/show/free-victory-screening-fate-strange-fake): Tue 12/9 (7:00pm)
+
+    * [Guest Selects Risky Business](https://drafthouse.com/raleigh/show/guest-selects-risky-business): Sat 12/6 (10:45pm)
+
+    * [Guest Selects Saturday Night Fever](https://drafthouse.com/raleigh/show/guest-selects-saturday-night-fever): Tue 12/9 (6:15pm)
+
+    * [Hamnet](https://drafthouse.com/raleigh/show/hamnet): Fri 12/5 (7:15pm), Sat 12/6 (7:15pm), Sun 12/7 (12:45pm, 4:00pm, 7:15pm)
+
+    * [Jeopardy Interactive](https://drafthouse.com/raleigh/show/jeopardy-interactive): Wed 12/10 (7:00pm)
+
+    * [Jujutsu Kaisen Execution Subtitled](https://drafthouse.com/raleigh/show/jujutsu-kaisen-execution-subtitled): Fri 12/5 (7:30pm), Sat 12/6 (7:30pm), Sun 12/7 (7:30pm)
+
+    * [Kill Bill The Whole Bloody Affair](https://drafthouse.com/raleigh/show/kill-bill-the-whole-bloody-affair): Fri 12/5 (8:00pm), Sat 12/6 (1:00pm)
+
+    * [Kiss Kiss Bang Bang](https://drafthouse.com/raleigh/show/kiss-kiss-bang-bang): Sun 12/7 (2:45pm)
+
+    * [Movie Party Elf](https://drafthouse.com/raleigh/show/movie-party-elf): Sat 12/6 (11:30am)
+
+    * [Movie Party Five Nights At Freddys 2](https://drafthouse.com/raleigh/show/movie-party-five-nights-at-freddys-2): Fri 12/5 (6:30pm)
+
+    * [Movie Party National Lampoons Christmas Vacation](https://drafthouse.com/raleigh/show/movie-party-national-lampoons-christmas-vacation): Tue 12/9 (6:30pm)
+
+    * [Special Event Highest 2 Lowest Re Release](https://drafthouse.com/raleigh/show/special-event-highest-2-lowest-re-release): Sat 12/6 (6:15pm)
+
+    * [Terror Tuesday Maniac Cop 2](https://drafthouse.com/raleigh/show/terror-tuesday-maniac-cop-2): Tue 12/9 (9:30pm)
+
+    * [The Doors When Youre Strange](https://drafthouse.com/raleigh/show/the-doors-when-youre-strange): Sat 12/6 (2:30pm)
+
+    * [The Holiday](https://drafthouse.com/raleigh/show/the-holiday): Sun 12/7 (11:30am)
+
 ### Mon 12/1 9:09pm
 * New movies: Kill Bill: The Whole Bloody Affair
 
