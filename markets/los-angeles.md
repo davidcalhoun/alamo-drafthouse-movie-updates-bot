@@ -1,6 +1,54 @@
 # los-angeles
 
 ## Movie updates
+### Mon 12/1 7:21pm
+* New movies: Elf, National Lampoon's Christmas Vacation, Man Finds Tape
+
+* New screenings: 
+    * [Bugonia](https://drafthouse.com/los-angeles/show/bugonia): Thu 12/4 (1:00pm, 4:15pm)
+
+    * [Desperado](https://drafthouse.com/los-angeles/show/desperado): Sat 12/6 (11:30pm), Sun 12/7 (10:40pm), Mon 12/8 (9:30pm)
+
+    * [Elf](https://drafthouse.com/los-angeles/show/elf): Mon 12/8 (12:30pm), Wed 12/10 (3:15pm)
+
+    * [Eternity](https://drafthouse.com/los-angeles/show/eternity): Thu 12/4 (1:00pm, 4:00pm, 7:10pm, 10:15pm), Fri 12/5 (12:45pm, 3:45pm, 10:15pm), Sat 12/6 (11:00am, 2:00pm, 5:00pm, 8:00pm, 11:00pm), Sun 12/7 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:25pm), Mon 12/8 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Tue 12/9 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Wed 12/10 (12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
+    * [Five Nights At Freddys 2](https://drafthouse.com/los-angeles/show/five-nights-at-freddys-2): Fri 12/5 (9:00pm), Sat 12/6 (7:00pm), Sun 12/7 (10:25pm), Mon 12/8 (9:00pm), Wed 12/10 (4:00pm, 9:30pm)
+
+    * [Guest Selects Risky Business](https://drafthouse.com/los-angeles/show/guest-selects-risky-business): Mon 12/8 (10:45pm), Tue 12/9 (10:45pm)
+
+    * [Guest Selects Saturday Night Fever](https://drafthouse.com/los-angeles/show/guest-selects-saturday-night-fever): Sun 12/7 (10:45pm)
+
+    * [Hamnet](https://drafthouse.com/los-angeles/show/hamnet): Thu 12/4 (12:15pm, 3:25pm, 6:35pm, 9:45pm), Fri 12/5 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Sat 12/6 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Sun 12/7 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Mon 12/8 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Tue 12/9 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Wed 12/10 (11:30am, 2:45pm, 6:00pm, 9:15pm)
+
+    * [Jujutsu Kaisen Execution Subtitled](https://drafthouse.com/los-angeles/show/jujutsu-kaisen-execution-subtitled): Sun 12/7 (10:25pm)
+
+    * [Kill Bill The Whole Bloody Affair](https://drafthouse.com/los-angeles/show/kill-bill-the-whole-bloody-affair): Fri 12/5 (1:15pm), Sun 12/7 (2:15pm, 5:20pm), Mon 12/8 (3:45pm), Tue 12/9 (1:30pm), Wed 12/10 (3:45pm)
+
+    * [Kiss Kiss Bang Bang](https://drafthouse.com/los-angeles/show/kiss-kiss-bang-bang): Fri 12/5 (10:00pm), Sun 12/7 (10:35pm), Wed 12/10 (10:45pm)
+
+    * [Lethal Weapon](https://drafthouse.com/los-angeles/show/lethal-weapon): Thu 12/4 (10:10pm)
+
+    * [Man Finds Tape](https://drafthouse.com/los-angeles/show/man-finds-tape): Sun 12/7 (8:00pm), Tue 12/9 (10:30pm)
+
+    * [National Lampoons Christmas Vacation](https://drafthouse.com/los-angeles/show/national-lampoons-christmas-vacation): Wed 12/10 (1:15pm)
+
+    * [Predator Badlands](https://drafthouse.com/los-angeles/show/predator-badlands): Thu 12/4 (11:00am)
+
+    * [Rental Family](https://drafthouse.com/los-angeles/show/rental-family): Thu 12/4 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Fri 12/5 (12:15pm), Sat 12/6 (12:30pm), Sun 12/7 (11:00am), Mon 12/8 (12:45pm), Tue 12/9 (3:30pm), Wed 12/10 (12:45pm)
+
+    * [Sentimental Value](https://drafthouse.com/los-angeles/show/sentimental-value): Thu 12/4 (12:15pm, 3:40pm, 7:00pm), Fri 12/5 (10:30am), Sat 12/6 (3:35pm), Sun 12/7 (2:00pm), Mon 12/8 (1:00pm), Tue 12/9 (12:00pm), Wed 12/10 (11:45am)
+
+    * [Sisu Road To Revenge](https://drafthouse.com/los-angeles/show/sisu-road-to-revenge): Thu 12/4 (10:30pm)
+
+    * [Wake Up Dead Man A Knives Out Mystery](https://drafthouse.com/los-angeles/show/wake-up-dead-man-a-knives-out-mystery): Thu 12/4 (11:00am, 2:40pm, 6:20pm, 10:00pm), Fri 12/5 (11:00am, 2:40pm, 6:20pm, 8:45pm), Sat 12/6 (11:00am, 2:40pm, 6:20pm, 10:00pm), Sun 12/7 (11:40am, 3:15pm, 6:50pm, 9:00pm), Mon 12/8 (11:20am, 3:00pm, 6:40pm, 10:15pm), Tue 12/9 (11:30am, 3:10pm, 6:15pm, 8:45pm, 9:30pm), Wed 12/10 (11:10am, 2:45pm, 6:20pm, 9:50pm)
+
+    * [Wicked For Good](https://drafthouse.com/los-angeles/show/wicked-for-good): Thu 12/4 (11:00am, 11:45am, 1:15pm, 2:30pm, 3:15pm, 6:00pm, 6:45pm, 9:30pm, 10:15pm), Fri 12/5 (10:45am, 1:15pm, 2:00pm, 2:15pm, 6:45pm, 9:00pm, 9:30pm), Sat 12/6 (11:00am, 11:30am, 2:30pm, 3:00pm, 6:30pm, 8:00pm, 10:00pm, 10:45pm), Sun 12/7 (11:15am, 12:15pm, 2:45pm, 3:45pm, 6:15pm, 7:15pm, 8:50pm), Mon 12/8 (11:15am, 12:15pm, 2:45pm, 3:45pm, 6:15pm, 7:15pm, 9:45pm, 10:10pm), Tue 12/9 (11:15am, 12:15pm, 2:45pm, 3:45pm, 7:15pm, 9:30pm), Wed 12/10 (11:45am, 12:15pm, 3:15pm, 3:45pm, 7:15pm, 9:00pm, 9:45pm)
+
+    * [Zodiac Killer Project](https://drafthouse.com/los-angeles/show/zodiac-killer-project): Mon 12/8 (3:20pm), Tue 12/9 (9:50pm)
+
+    * [Zootopia 2](https://drafthouse.com/los-angeles/show/zootopia-2): Thu 12/4 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Fri 12/5 (11:15am, 2:15pm, 6:00pm, 9:15pm), Sat 12/6 (12:00pm, 3:00pm, 4:45pm, 7:45pm, 10:00pm), Sun 12/7 (12:00pm, 3:00pm, 6:00pm, 9:45pm), Mon 12/8 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Tue 12/9 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Wed 12/10 (1:15pm, 4:15pm, 6:45pm, 10:40pm)
+
 ### Mon 12/1 3:22pm
 
 * New screenings: 
