@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 12/2 11:39am
+* New movies: Stranger Things 5: The Finale
+
+* New screenings: 
+    * [Stranger Things 5 The Finale](https://drafthouse.com/raleigh/show/stranger-things-5-the-finale): Wed 12/31 (8:00pm), Thu 1/1 (3:00pm)
+
 ### Tue 12/2 10:33am
 * New movies: Desperado
 
