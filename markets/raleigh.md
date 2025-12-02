@@ -1,6 +1,42 @@
 # raleigh
 
 ## Movie updates
+### Tue 12/2 10:33am
+* New movies: Desperado
+
+* New screenings: 
+    * [100 Nights Of Hero](https://drafthouse.com/raleigh/show/100-nights-of-hero): Mon 12/8 (2:00pm), Wed 12/10 (6:45pm)
+
+    * [Desperado](https://drafthouse.com/raleigh/show/desperado): Mon 12/8 (6:30pm)
+
+    * [Eternity](https://drafthouse.com/raleigh/show/eternity): Fri 12/5 (12:15pm, 4:45pm, 7:45pm, 10:45pm), Sat 12/6 (12:30pm, 3:45pm, 7:45pm, 10:45pm), Sun 12/7 (12:15pm, 4:15pm, 6:30pm, 10:45pm), Mon 12/8 (12:15pm, 4:45pm, 7:45pm, 10:45pm), Tue 12/9 (12:15pm, 4:45pm, 7:45pm, 10:45pm), Wed 12/10 (12:15pm, 4:45pm, 7:45pm, 10:45pm)
+
+    * [Five Nights At Freddys 2](https://drafthouse.com/raleigh/show/five-nights-at-freddys-2): Fri 12/5 (12:00pm, 4:00pm, 10:15pm), Sat 12/6 (12:00pm, 3:30pm, 10:10pm), Sun 12/7 (11:45am, 3:45pm, 10:30pm), Mon 12/8 (12:00pm, 4:00pm, 10:15pm), Tue 12/9 (12:00pm, 4:00pm, 10:15pm), Wed 12/10 (12:00pm, 4:00pm, 10:15pm)
+
+    * [Guest Selects Saturday Night Fever](https://drafthouse.com/raleigh/show/guest-selects-saturday-night-fever): Mon 12/8 (6:15pm)
+
+    * [Hamnet](https://drafthouse.com/raleigh/show/hamnet): Fri 12/5 (12:45pm, 4:00pm, 10:30pm), Sat 12/6 (12:45pm, 4:00pm, 10:30pm), Sun 12/7 (10:30pm), Mon 12/8 (12:45pm, 4:00pm, 7:15pm, 10:00pm), Tue 12/9 (12:45pm, 4:00pm, 7:15pm, 10:00pm), Wed 12/10 (12:45pm, 4:00pm, 7:15pm, 9:45pm)
+
+    * [Jujutsu Kaisen Execution Dubbed](https://drafthouse.com/raleigh/show/jujutsu-kaisen-execution-dubbed): Fri 12/5 (11:45am, 5:00pm, 10:00pm), Sat 12/6 (11:45am, 4:45pm, 10:00pm), Sun 12/7 (11:45am, 4:45pm, 10:00pm), Mon 12/8 (11:45am, 5:00pm, 9:45pm), Tue 12/9 (11:45am, 5:00pm), Wed 12/10 (1:00pm, 6:15pm)
+
+    * [Jujutsu Kaisen Execution Subtitled](https://drafthouse.com/raleigh/show/jujutsu-kaisen-execution-subtitled): Fri 12/5 (2:30pm), Sat 12/6 (2:15pm), Sun 12/7 (2:15pm), Mon 12/8 (2:30pm, 7:30pm), Tue 12/9 (2:30pm, 7:30pm), Wed 12/10 (3:45pm)
+
+    * [Kill Bill The Whole Bloody Affair](https://drafthouse.com/raleigh/show/kill-bill-the-whole-bloody-affair): Fri 12/5 (12:00pm, 2:20pm), Sat 12/6 (5:05pm, 9:00pm), Sun 12/7 (1:00pm, 5:30pm, 7:00pm), Mon 12/8 (12:00pm, 2:20pm, 6:45pm, 8:00pm), Tue 12/9 (1:00pm, 2:00pm, 8:00pm), Wed 12/10 (1:00pm, 2:00pm, 8:00pm)
+
+    * [Now You See Me Now You Dont](https://drafthouse.com/raleigh/show/now-you-see-me-now-you-dont): Fri 12/5 (1:00pm, 4:15pm, 7:15pm, 10:30pm), Sat 12/6 (12:45pm, 4:45pm, 7:15pm, 10:30pm), Sun 12/7 (12:45pm, 4:30pm, 7:30pm, 10:15pm), Mon 12/8 (1:00pm, 4:15pm, 7:15pm, 10:30pm), Tue 12/9 (12:45pm, 4:15pm, 7:15pm, 10:30pm), Wed 12/10 (1:00pm, 4:15pm, 7:15pm, 9:30pm)
+
+    * [Rebbeca Becky G](https://drafthouse.com/raleigh/show/rebbeca-becky-g): Wed 12/10 (6:30pm)
+
+    * [Rental Family](https://drafthouse.com/raleigh/show/rental-family): Sun 12/7 (1:30pm), Wed 12/10 (1:45pm)
+
+    * [Sentimental Value](https://drafthouse.com/raleigh/show/sentimental-value): Fri 12/5 (3:15pm), Sat 12/6 (2:45pm), Sun 12/7 (3:15pm), Mon 12/8 (3:15pm), Tue 12/9 (3:15pm, 6:45pm), Wed 12/10 (3:15pm)
+
+    * [Wake Up Dead Man A Knives Out Mystery](https://drafthouse.com/raleigh/show/wake-up-dead-man-a-knives-out-mystery): Fri 12/5 (12:45pm, 2:45pm, 6:15pm, 9:45pm), Sat 12/6 (11:45am, 3:15pm, 6:45pm, 9:45pm), Sun 12/7 (12:30pm, 2:30pm, 6:00pm, 9:45pm), Mon 12/8 (12:45pm, 2:45pm, 9:30pm), Tue 12/9 (12:30pm, 2:45pm, 9:30pm), Wed 12/10 (12:45pm, 2:45pm, 9:00pm)
+
+    * [Wicked For Good](https://drafthouse.com/raleigh/show/wicked-for-good): Fri 12/5 (11:00am, 11:30am, 3:00pm, 6:30pm, 7:00pm, 9:00pm, 10:00pm), Sat 12/6 (11:00am, 2:30pm, 6:30pm, 7:00pm, 10:00pm, 10:30pm), Sun 12/7 (11:00am, 2:30pm, 6:45pm, 7:25pm, 9:00pm, 9:30pm), Mon 12/8 (11:00am, 11:30am, 3:00pm, 6:00pm, 7:00pm, 9:30pm, 10:30pm), Tue 12/9 (11:30am, 3:00pm, 7:00pm, 9:15pm, 10:00pm, 10:30pm), Wed 12/10 (11:00am, 2:30pm, 6:00pm, 7:00pm, 9:30pm, 10:30pm, 10:30pm)
+
+    * [Zootopia 2](https://drafthouse.com/raleigh/show/zootopia-2): Fri 12/5 (12:30pm, 1:45pm, 3:20pm, 6:15pm, 9:15pm), Sat 12/6 (12:30pm, 1:45pm, 3:20pm, 6:15pm, 9:15pm), Sun 12/7 (12:30pm, 3:25pm, 6:15pm, 9:15pm), Mon 12/8 (12:30pm, 3:20pm, 6:15pm, 9:05pm), Tue 12/9 (12:30pm, 1:45pm, 3:20pm, 6:15pm, 9:05pm), Wed 12/10 (12:15pm, 3:15pm, 6:15pm, 9:05pm)
+
 ### Tue 12/2 8:41am
 * New movies: 100 Nights of Hero, Fate/strange Fake, Highest 2 Lowest, Risky Business, Saturday Night Fever, Five Nights at Freddy's 2, Maniac Cop 2, Kiss Kiss Bang Bang, JEOPARDY! INTERACTIVE, THE HOLIDAY
 
