@@ -1,6 +1,30 @@
 # raleigh
 
 ## Movie updates
+### Mon 12/1 9:09pm
+* New movies: Kill Bill: The Whole Bloody Affair
+
+* New screenings: 
+    * [Eternity](https://drafthouse.com/raleigh/show/eternity): Thu 12/4 (11:45am, 3:45pm, 7:15pm, 10:15pm), Tue 12/9 (10:45pm), Wed 12/10 (10:45pm)
+
+    * [Five Nights At Freddys 2](https://drafthouse.com/raleigh/show/five-nights-at-freddys-2): Thu 12/4 (3:00pm, 9:45pm), Tue 12/9 (10:15pm), Wed 12/10 (10:15pm)
+
+    * [Hamnet](https://drafthouse.com/raleigh/show/hamnet): Thu 12/4 (4:00pm, 10:30pm)
+
+    * [Kill Bill The Whole Bloody Affair](https://drafthouse.com/raleigh/show/kill-bill-the-whole-bloody-affair): Thu 12/4 (7:00pm)
+
+    * [Now You See Me Now You Dont](https://drafthouse.com/raleigh/show/now-you-see-me-now-you-dont): Thu 12/4 (1:00pm, 4:45pm, 7:45pm, 10:45pm), Tue 12/9 (4:15pm, 7:15pm), Wed 12/10 (4:15pm, 7:15pm)
+
+    * [Rental Family](https://drafthouse.com/raleigh/show/rental-family): Thu 12/4 (12:30pm)
+
+    * [Sentimental Value](https://drafthouse.com/raleigh/show/sentimental-value): Thu 12/4 (4:00pm, 6:45pm)
+
+    * [Wake Up Dead Man A Knives Out Mystery](https://drafthouse.com/raleigh/show/wake-up-dead-man-a-knives-out-mystery): Thu 12/4 (11:00am, 2:30pm, 6:00pm, 9:30pm), Tue 12/9 (12:30pm), Wed 12/10 (12:45pm)
+
+    * [Wicked For Good](https://drafthouse.com/raleigh/show/wicked-for-good): Thu 12/4 (11:00am, 11:30am, 12:00pm, 1:30pm, 1:30pm, 2:30pm, 3:00pm, 3:30pm, 6:15pm, 9:00pm, 9:30pm, 10:00pm), Wed 12/10 (10:30pm, 10:30pm)
+
+    * [Zootopia 2](https://drafthouse.com/raleigh/show/zootopia-2): Thu 12/4 (12:30pm, 1:00pm, 3:20pm, 6:15pm, 9:15pm)
+
 ### Mon 12/1 3:28pm
 
 * New screenings: 
