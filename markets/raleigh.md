@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 12/3 8:01am
+* New movies: Song Sung Blue 2025
+
+* New screenings: 
+    * [Song Sung Blue 2025](https://drafthouse.com/raleigh/show/song-sung-blue-2025): Wed 12/24 (2:30pm, 6:00pm), Thu 12/25 (11:00am, 2:15pm, 6:00pm, 9:15pm), Fri 12/26 (11:00am, 2:15pm, 6:00pm, 9:15pm), Sat 12/27 (11:00am, 2:15pm, 6:00pm, 9:15pm), Sun 12/28 (11:00am, 2:15pm, 6:00pm, 9:15pm)
+
 ### Wed 12/3 3:38am
 * New movies: The Secret Agent
 
