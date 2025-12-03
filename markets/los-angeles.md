@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 12/3 5:38am
+* New movies: Song Sung Blue 2025
+
+* New screenings: 
+    * [Song Sung Blue 2025](https://drafthouse.com/los-angeles/show/song-sung-blue-2025): Wed 12/24 (3:20pm, 6:45pm), Thu 12/25 (9:20am, 12:45pm, 4:10pm, 7:35pm, 11:00pm), Fri 12/26 (9:20am, 12:45pm, 4:10pm, 7:35pm, 11:00pm), Sat 12/27 (9:20am, 12:45pm, 4:10pm, 7:35pm, 11:00pm), Sun 12/28 (9:20am, 12:45pm, 4:10pm, 7:35pm, 11:00pm), Mon 12/29 (9:20am, 12:45pm, 4:10pm, 7:35pm, 11:00pm), Tue 12/30 (9:20am, 12:45pm, 4:10pm, 7:35pm, 11:00pm), Wed 12/31 (9:20am, 12:45pm, 4:10pm, 7:35pm), Thu 1/1 (9:20am, 12:45pm, 4:10pm, 7:35pm, 11:00pm)
+
 ### Tue 12/2 10:36pm
 * New movies: The Secret Agent
 
