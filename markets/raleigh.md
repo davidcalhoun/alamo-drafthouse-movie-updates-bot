@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 12/3 3:38am
+* New movies: The Secret Agent
+
+* New screenings: 
+    * [The Secret Agent](https://drafthouse.com/raleigh/show/the-secret-agent): Thu 12/11 (7:00pm), Fri 12/12 (6:15pm), Sat 12/13 (6:15pm), Sun 12/14 (6:15pm)
+
 ### Wed 12/3 12:29am
 
 * New screenings: 
