@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 12/2 9:23pm
+
+* New screenings: 
+    * [Stranger Things 5 The Finale](https://drafthouse.com/los-angeles/show/stranger-things-5-the-finale): Thu 1/1 (7:15pm)
+
 ### Tue 12/2 8:33am
 * New movies: Stranger Things 5: The Finale
 
