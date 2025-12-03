@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 12/2 10:36pm
+* New movies: The Secret Agent
+
+* New screenings: 
+    * [The Secret Agent](https://drafthouse.com/los-angeles/show/the-secret-agent): Thu 12/11 (7:00pm, 9:20pm), Fri 12/12 (10:30am, 2:15pm, 6:00pm, 9:45pm), Sat 12/13 (10:30am, 2:15pm, 6:00pm, 9:45pm), Sun 12/14 (10:30am, 2:15pm, 6:00pm, 9:45pm)
+
 ### Tue 12/2 9:23pm
 
 * New screenings: 
