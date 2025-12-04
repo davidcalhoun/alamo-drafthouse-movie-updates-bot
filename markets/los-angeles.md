@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 12/4 2:21pm
+
+* New screenings: 
+    * [Stranger Things 5 The Finale](https://drafthouse.com/los-angeles/show/stranger-things-5-the-finale): Wed 12/31 (8:00pm)
+
 ### Thu 12/4 12:34am
 * New movies: The Cat, THE LIMEY
 
