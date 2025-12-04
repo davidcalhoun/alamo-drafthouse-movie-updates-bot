@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 12/3 10:36pm
+
+* New screenings: 
+    * [Stranger Things 5 The Finale](https://drafthouse.com/los-angeles/show/stranger-things-5-the-finale): Wed 12/31 (7:00pm)
+
 ### Wed 12/3 5:55pm
 * New movies: Twilight 2008, The Twilight Saga: Eclipse, The Twilight Saga: New Moon
 
