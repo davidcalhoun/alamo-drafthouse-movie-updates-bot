@@ -1,6 +1,20 @@
 # los-angeles
 
 ## Movie updates
+### Wed 12/3 11:24pm
+* New movies: Gremlins 2: The New Batch, The Twilight Saga: Breaking Dawn - Part 2, THE TWILIGHT SAGA: BREAKING DAWN - PART 1, THE WORST PERSON IN THE WORLD
+
+* New screenings: 
+    * [Stranger Things 5 The Finale](https://drafthouse.com/los-angeles/show/stranger-things-5-the-finale): Thu 1/1 (10:30pm)
+
+    * [The Twilight Saga Breaking Dawn Part 1](https://drafthouse.com/los-angeles/show/the-twilight-saga-breaking-dawn-part-1): Sun 1/25 (7:20pm), Mon 1/26 (7:20pm)
+
+    * [The Twilight Saga Breaking Dawn Part 2](https://drafthouse.com/los-angeles/show/the-twilight-saga-breaking-dawn-part-2): Fri 1/30 (7:20pm)
+
+    * [The Worst Person In The World](https://drafthouse.com/los-angeles/show/the-worst-person-in-the-world): Mon 2/2 (7:20pm)
+
+    * [Weird Wednesday Gremlins 2 The New Batch](https://drafthouse.com/los-angeles/show/weird-wednesday-gremlins-2-the-new-batch): Wed 1/21 (7:20pm)
+
 ### Wed 12/3 10:36pm
 
 * New screenings: 
