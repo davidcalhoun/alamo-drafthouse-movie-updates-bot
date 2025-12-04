@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Wed 12/3 9:09pm
+
+* New screenings: 
+    * [Stranger Things 5 The Finale](https://drafthouse.com/raleigh/show/stranger-things-5-the-finale): Thu 1/1 (9:45pm)
+
 ### Wed 12/3 8:01am
 * New movies: Song Sung Blue 2025
 
