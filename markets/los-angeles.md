@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Wed 12/3 5:55pm
+* New movies: Twilight 2008, The Twilight Saga: Eclipse, The Twilight Saga: New Moon
+
+* New screenings: 
+    * [Movie Party The Twilight Saga Twilight](https://drafthouse.com/los-angeles/show/movie-party-the-twilight-saga-twilight): Fri 1/2 (7:20pm), Mon 1/5 (7:20pm)
+
+    * [Signature Programming The Twilight Saga Eclipse](https://drafthouse.com/los-angeles/show/signature-programming-the-twilight-saga-eclipse): Fri 1/16 (7:20pm), Mon 1/19 (7:20pm)
+
+    * [Signature Programming The Twilight Saga New Moon](https://drafthouse.com/los-angeles/show/signature-programming-the-twilight-saga-new-moon): Fri 1/9 (6:00pm), Mon 1/12 (7:20pm)
+
 ### Wed 12/3 5:38am
 * New movies: Song Sung Blue 2025
 
