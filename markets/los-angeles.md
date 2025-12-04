@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 12/4 12:34am
+* New movies: The Cat, THE LIMEY
+
+* New screenings: 
+    * [Terror Tuesday The Cat](https://drafthouse.com/los-angeles/show/terror-tuesday-the-cat): Tue 1/13 (6:00pm)
+
+    * [The Limey](https://drafthouse.com/los-angeles/show/the-limey): Sun 1/4 (6:30pm)
+
 ### Wed 12/3 11:24pm
 * New movies: Gremlins 2: The New Batch, The Twilight Saga: Breaking Dawn - Part 2, THE TWILIGHT SAGA: BREAKING DAWN - PART 1, THE WORST PERSON IN THE WORLD
 
