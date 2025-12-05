@@ -1,6 +1,30 @@
 # raleigh
 
 ## Movie updates
+### Fri 12/5 4:25pm
+* New movies: Twilight 2008, THE TWILIGHT SAGA: BREAKING DAWN - PART 1, The Twilight Saga: Breaking Dawn - Part 2, The Twilight Saga: Eclipse, The Twilight Saga: New Moon, Gremlins 2: The New Batch, The Twilight Saga: Breaking Dawn - Part 2, The Twilight Saga: Eclipse, THE TWILIGHT SAGA: BREAKING DAWN - PART 1, TWILIGHT 2008
+
+* New screenings: 
+    * [Movie Party The Twilight Saga Twilight](https://drafthouse.com/raleigh/show/movie-party-the-twilight-saga-twilight): Wed 1/7 (6:00pm)
+
+    * [Signature Programming The Twilight Saga Breaking Dawn Part 1](https://drafthouse.com/raleigh/show/signature-programming-the-twilight-saga-breaking-dawn-part-1): Mon 1/26 (6:00pm)
+
+    * [Signature Programming The Twilight Saga Breaking Dawn Part 2](https://drafthouse.com/raleigh/show/signature-programming-the-twilight-saga-breaking-dawn-part-2): Tue 2/3 (7:00pm)
+
+    * [Signature Programming The Twilight Saga Eclipse](https://drafthouse.com/raleigh/show/signature-programming-the-twilight-saga-eclipse): Mon 1/19 (7:00pm)
+
+    * [Signature Programming The Twilight Saga New Moon](https://drafthouse.com/raleigh/show/signature-programming-the-twilight-saga-new-moon): Mon 1/12 (6:00pm)
+
+    * [The Twilight Saga Breaking Dawn Part 1](https://drafthouse.com/raleigh/show/the-twilight-saga-breaking-dawn-part-1): Tue 1/27 (3:00pm)
+
+    * [The Twilight Saga Breaking Dawn Part 2](https://drafthouse.com/raleigh/show/the-twilight-saga-breaking-dawn-part-2): Thu 2/5 (12:00pm)
+
+    * [The Twilight Saga Eclipse](https://drafthouse.com/raleigh/show/the-twilight-saga-eclipse): Tue 1/20 (4:00pm)
+
+    * [Twilight 2008](https://drafthouse.com/raleigh/show/twilight-2008): Mon 1/5 (3:00pm)
+
+    * [Weird Wednesday Gremlins 2 The New Batch](https://drafthouse.com/raleigh/show/weird-wednesday-gremlins-2-the-new-batch): Wed 1/21 (7:30pm)
+
 ### Fri 12/5 3:32pm
 * New movies: WWW.RACHELORMONT.COM, The Cat, The Twilight Saga: New Moon
 
