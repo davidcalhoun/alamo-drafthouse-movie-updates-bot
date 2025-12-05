@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 12/4 5:55pm
+* New movies: Dust Bunny, Dust Bunny
+
+* New screenings: 
+    * [Dust Bunny](https://drafthouse.com/los-angeles/show/dust-bunny): Thu 12/11 (6:45pm, 9:45pm), Fri 12/12 (10:15am, 1:15pm, 4:15pm, 7:15pm, 10:15pm), Sat 12/13 (10:15am, 1:15pm, 4:15pm, 7:15pm, 10:15pm), Sun 12/14 (10:30am, 1:30pm, 7:45pm, 10:45pm), Mon 12/15 (10:15am, 1:15pm, 4:15pm, 7:15pm, 10:15pm), Tue 12/16 (10:15am, 1:15pm, 4:15pm, 7:15pm, 10:15pm), Wed 12/17 (10:15am, 1:15pm, 4:15pm, 7:15pm, 10:15pm)
+
+    * [Fantastic Fest Presents Dust Bunny W Live Q A](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-dust-bunny-w-live-q-a): Sun 12/14 (4:30pm)
+
 ### Thu 12/4 2:21pm
 
 * New screenings: 
