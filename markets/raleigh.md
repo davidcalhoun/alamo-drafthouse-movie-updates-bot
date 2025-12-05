@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 12/5 2:24pm
+
+* New screenings: 
+    * [Avatar Fire And Ash](https://drafthouse.com/raleigh/show/avatar-fire-and-ash): Fri 1/2 (2:30pm, 7:00pm), Sat 1/3 (2:30pm, 7:00pm), Sun 1/4 (2:30pm, 7:00pm)
+
 ### Fri 12/5 11:36am
 * New movies: Megalopolis
 
