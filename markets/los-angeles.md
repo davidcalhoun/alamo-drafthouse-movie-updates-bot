@@ -1,6 +1,22 @@
 # los-angeles
 
 ## Movie updates
+### Fri 12/5 1:21pm
+* New movies: THE TWILIGHT SAGA: BREAKING DAWN - PART 1, The Twilight Saga: Breaking Dawn - Part 2, The Twilight Saga: Eclipse, The Twilight Saga: New Moon, TWILIGHT 2008
+
+* New screenings: 
+    * [Signature Programming The Twilight Saga Breaking Dawn Part 1](https://drafthouse.com/los-angeles/show/signature-programming-the-twilight-saga-breaking-dawn-part-1): Mon 1/26 (7:20pm)
+
+    * [Signature Programming The Twilight Saga Breaking Dawn Part 2](https://drafthouse.com/los-angeles/show/signature-programming-the-twilight-saga-breaking-dawn-part-2): Fri 1/30 (7:20pm)
+
+    * [The Twilight Saga Breaking Dawn Part 1](https://drafthouse.com/los-angeles/show/the-twilight-saga-breaking-dawn-part-1): Tue 1/27 (4:15pm)
+
+    * [The Twilight Saga Eclipse](https://drafthouse.com/los-angeles/show/the-twilight-saga-eclipse): Tue 1/20 (4:00pm)
+
+    * [The Twilight Saga New Moon](https://drafthouse.com/los-angeles/show/the-twilight-saga-new-moon): Tue 1/13 (4:00pm)
+
+    * [Twilight 2008](https://drafthouse.com/los-angeles/show/twilight-2008): Tue 1/6 (4:00pm)
+
 ### Fri 12/5 8:30am
 * New movies: Megalopolis
 
