@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 12/5 11:36am
+* New movies: Megalopolis
+
+* New screenings: 
+    * [Special Event Megalopolis New Years Day Celebration](https://drafthouse.com/raleigh/show/special-event-megalopolis-new-years-day-celebration): Thu 1/1 (11:00am)
+
 ### Wed 12/3 9:09pm
 
 * New screenings: 
