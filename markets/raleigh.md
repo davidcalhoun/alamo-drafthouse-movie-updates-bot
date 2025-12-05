@@ -1,6 +1,20 @@
 # raleigh
 
 ## Movie updates
+### Fri 12/5 3:32pm
+* New movies: WWW.RACHELORMONT.COM, The Cat, The Twilight Saga: New Moon
+
+* New screenings: 
+    * [Anaconda 2025](https://drafthouse.com/raleigh/show/anaconda-2025): Fri 1/2 (11:00am, 1:45pm, 4:45pm, 7:30pm, 10:15pm), Sat 1/3 (11:00am, 1:45pm, 4:45pm, 7:30pm, 10:15pm), Sun 1/4 (11:00am, 1:45pm, 4:45pm, 7:30pm, 10:15pm)
+
+    * [Terror Tuesday The Cat](https://drafthouse.com/raleigh/show/terror-tuesday-the-cat): Tue 1/13 (7:00pm)
+
+    * [The Spongebob Movie Search For Squarepants](https://drafthouse.com/raleigh/show/the-spongebob-movie-search-for-squarepants): Tue 12/23 (11:00am, 1:45pm, 4:30pm, 7:15pm, 10:00pm), Wed 12/24 (9:45am, 12:30pm, 3:15pm, 6:15pm), Fri 12/26 (10:30am, 1:15pm, 4:00pm, 6:55pm, 9:50pm), Sat 12/27 (10:30am, 1:15pm, 4:00pm, 6:55pm, 9:50pm), Sun 12/28 (10:30am, 1:15pm, 4:00pm, 6:55pm, 9:50pm), Mon 12/29 (10:30am, 1:15pm, 4:00pm, 6:55pm, 9:50pm), Tue 12/30 (11:00am, 1:45pm, 4:30pm, 7:15pm, 10:00pm), Wed 12/31 (10:20am, 1:05pm, 3:50pm, 6:45pm), Thu 1/1 (10:30am, 1:15pm, 4:00pm, 6:55pm, 9:50pm)
+
+    * [The Twilight Saga New Moon](https://drafthouse.com/raleigh/show/the-twilight-saga-new-moon): Wed 1/14 (3:30pm)
+
+    * [Www Rachelormont Com](https://drafthouse.com/raleigh/show/www-rachelormont-com): Fri 1/9 (9:45pm), Mon 1/12 (10:30pm)
+
 ### Fri 12/5 2:24pm
 
 * New screenings: 
