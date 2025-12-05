@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 12/5 8:30am
+* New movies: Megalopolis
+
+* New screenings: 
+    * [Special Event Megalopolis New Years Day Celebration](https://drafthouse.com/los-angeles/show/special-event-megalopolis-new-years-day-celebration): Thu 1/1 (12:45pm)
+
 ### Thu 12/4 5:55pm
 * New movies: Dust Bunny, Dust Bunny
 
