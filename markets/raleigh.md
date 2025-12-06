@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Sat 12/6 10:25am
+
+* New screenings: 
+    * [Weird Wednesday Gremlins 2 The New Batch](https://drafthouse.com/raleigh/show/weird-wednesday-gremlins-2-the-new-batch): Wed 1/21 (9:30pm)
+
 ### Fri 12/5 4:25pm
 * New movies: Twilight 2008, THE TWILIGHT SAGA: BREAKING DAWN - PART 1, The Twilight Saga: Breaking Dawn - Part 2, The Twilight Saga: Eclipse, The Twilight Saga: New Moon, Gremlins 2: The New Batch, The Twilight Saga: Breaking Dawn - Part 2, The Twilight Saga: Eclipse, THE TWILIGHT SAGA: BREAKING DAWN - PART 1, TWILIGHT 2008
 
