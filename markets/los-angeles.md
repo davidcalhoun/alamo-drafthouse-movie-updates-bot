@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 12/8 10:36am
+
+* New screenings: 
+    * [Stranger Things 5 The Finale](https://drafthouse.com/los-angeles/show/stranger-things-5-the-finale): Thu 1/1 (9:00am)
+
 ### Fri 12/5 2:22pm
 * New movies: The Twilight Saga: Breaking Dawn - Part 2
 
