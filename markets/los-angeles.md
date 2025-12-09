@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 12/9 12:26pm
+* New movies: Twilight 2008
+
+
+
 ### Tue 12/9 7:28am
 * New movies: Megadeth: Behind the Mask
 
