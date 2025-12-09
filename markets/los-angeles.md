@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 12/9 7:28am
+* New movies: Megadeth: Behind the Mask
+
+* New screenings: 
+    * [Megadeth Behind The Mask](https://drafthouse.com/los-angeles/show/megadeth-behind-the-mask): Thu 1/22 (7:20pm), Sat 1/24 (3:30pm)
+
 ### Mon 12/8 5:55pm
 * New movies: THE POLAR EXPRESS, THE HOLIDAY
 
