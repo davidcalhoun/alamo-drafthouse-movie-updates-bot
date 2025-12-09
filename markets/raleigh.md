@@ -1,6 +1,20 @@
 # raleigh
 
 ## Movie updates
+### Tue 12/9 4:25pm
+* New movies: A/V Geeks Present: Religious Films Gone Wild, The Plague, TENEBRE, WHITE OF THE EYE, Weird Wednesday: BIRDEMIC: SHOCK AND TERROR
+
+* New screenings: 
+    * [A V Geeks Present Religious Films Gone Wild](https://drafthouse.com/raleigh/show/a-v-geeks-present-religious-films-gone-wild): Tue 1/20 (7:15pm)
+
+    * [Fantastic Fest Presents The Plague Advance Screening](https://drafthouse.com/raleigh/show/fantastic-fest-presents-the-plague-advance-screening): Tue 12/30 (7:00pm)
+
+    * [Terror Tuesday Tenebre](https://drafthouse.com/raleigh/show/terror-tuesday-tenebre): Tue 1/6 (9:30pm)
+
+    * [Terror Tuesday White Of The Eye](https://drafthouse.com/raleigh/show/terror-tuesday-white-of-the-eye): Tue 1/20 (9:50pm)
+
+    * [Weird Wednesday Birdemic Shock And Terror](https://drafthouse.com/raleigh/show/weird-wednesday-birdemic-shock-and-terror): Wed 1/14 (9:30pm)
+
 ### Tue 12/9 3:28pm
 * New movies: Twilight 2008
 
