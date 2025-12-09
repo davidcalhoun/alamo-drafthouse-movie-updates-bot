@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 12/9 10:33am
+* New movies: Megadeth: Behind the Mask
+
+* New screenings: 
+    * [Megadeth Behind The Mask](https://drafthouse.com/raleigh/show/megadeth-behind-the-mask): Thu 1/22 (7:00pm), Sat 1/24 (4:15pm)
+
 ### Mon 12/8 10:54pm
 * New movies: Ella McCay
 
