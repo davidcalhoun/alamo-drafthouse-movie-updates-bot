@@ -1,6 +1,46 @@
 # raleigh
 
 ## Movie updates
+### Mon 12/8 10:54pm
+* New movies: Ella McCay
+
+* New screenings: 
+    * [100 Nights Of Hero](https://drafthouse.com/raleigh/show/100-nights-of-hero): Thu 12/11 (6:45pm)
+
+    * [Carol](https://drafthouse.com/raleigh/show/carol): Sun 12/14 (11:10am)
+
+    * [Dr Seuss How The Grinch Stole Christmas 2000 25th Anniversary](https://drafthouse.com/raleigh/show/dr-seuss-how-the-grinch-stole-christmas-2000-25th-anniversary): Fri 12/12 (3:00pm), Sat 12/13 (5:30pm, 8:30pm), Sun 12/14 (5:30pm, 8:30pm), Mon 12/15 (12:15pm, 9:30pm), Tue 12/16 (12:00pm, 6:30pm, 9:20pm), Wed 12/17 (11:45am)
+
+    * [Ella Mccay](https://drafthouse.com/raleigh/show/ella-mccay): Thu 12/11 (3:00pm, 6:00pm, 9:00pm), Fri 12/12 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sat 12/13 (12:30pm, 3:40pm, 6:45pm, 10:00pm), Sun 12/14 (12:30pm, 3:45pm, 6:45pm, 10:00pm), Mon 12/15 (1:30pm, 3:30pm, 7:15pm, 10:15pm), Tue 12/16 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Wed 12/17 (1:15pm, 4:15pm, 7:15pm, 10:15pm)
+
+    * [Eternity](https://drafthouse.com/raleigh/show/eternity): Thu 12/11 (3:45pm), Fri 12/12 (3:45pm), Sat 12/13 (3:30pm), Sun 12/14 (3:15pm), Mon 12/15 (3:15pm), Tue 12/16 (3:35pm)
+
+    * [Five Nights At Freddys 2](https://drafthouse.com/raleigh/show/five-nights-at-freddys-2): Thu 12/11 (1:45pm, 4:30pm, 7:15pm, 10:00pm), Fri 12/12 (12:45pm, 5:00pm, 7:45pm, 10:45pm), Sat 12/13 (1:15pm, 4:15pm, 7:30pm, 10:15pm), Sun 12/14 (1:15pm, 4:30pm, 7:30pm, 10:00pm), Mon 12/15 (1:00pm, 4:30pm, 7:30pm, 10:30pm), Tue 12/16 (12:45pm, 5:00pm, 7:45pm, 10:30pm), Wed 12/17 (12:15pm, 3:15pm, 7:30pm, 10:25pm)
+
+    * [Hamnet](https://drafthouse.com/raleigh/show/hamnet): Thu 12/11 (11:45am, 3:15pm, 6:30pm, 9:40pm), Fri 12/12 (1:00pm, 4:05pm, 7:15pm, 10:30pm), Sat 12/13 (11:45am, 3:05pm, 6:15pm, 9:45pm), Sun 12/14 (11:45am, 3:05pm, 6:15pm, 9:45pm), Mon 12/15 (12:45pm, 3:50pm, 7:00pm, 10:10pm), Tue 12/16 (12:00pm, 3:10pm, 6:15pm, 9:25pm), Wed 12/17 (11:30am, 2:45pm, 6:00pm, 9:15pm)
+
+    * [Jujutsu Kaisen Execution Dubbed](https://drafthouse.com/raleigh/show/jujutsu-kaisen-execution-dubbed): Thu 12/11 (4:15pm, 10:45pm), Fri 12/12 (4:45pm, 10:15pm), Sat 12/13 (4:10pm, 10:00pm), Sun 12/14 (10:00pm), Mon 12/15 (12:30pm, 10:15pm), Tue 12/16 (3:15pm, 10:00pm), Wed 12/17 (1:00pm, 10:15pm)
+
+    * [Jujutsu Kaisen Execution Subtitled](https://drafthouse.com/raleigh/show/jujutsu-kaisen-execution-subtitled): Thu 12/11 (1:45pm, 6:45pm), Fri 12/12 (12:45pm, 7:30pm), Sat 12/13 (1:00pm, 7:15pm), Sun 12/14 (4:45pm, 7:15pm), Mon 12/15 (3:30pm, 7:30pm), Tue 12/16 (11:45am, 7:30pm), Wed 12/17 (3:35pm, 7:30pm)
+
+    * [Kill Bill The Whole Bloody Affair](https://drafthouse.com/raleigh/show/kill-bill-the-whole-bloody-affair): Thu 12/11 (1:30pm, 7:30pm), Fri 12/12 (12:15pm, 6:00pm, 6:30pm), Sat 12/13 (1:45pm, 6:30pm, 7:30pm), Sun 12/14 (2:00pm, 8:00pm), Mon 12/15 (1:15pm, 7:00pm), Tue 12/16 (2:00pm, 8:00pm), Wed 12/17 (12:25pm, 6:00pm)
+
+    * [Kiss Kiss Bang Bang](https://drafthouse.com/raleigh/show/kiss-kiss-bang-bang): Thu 12/11 (12:15pm, 3:45pm)
+
+    * [Now You See Me Now You Dont](https://drafthouse.com/raleigh/show/now-you-see-me-now-you-dont): Thu 12/11 (12:45pm), Fri 12/12 (11:45am), Sat 12/13 (12:15pm), Sun 12/14 (12:15pm), Mon 12/15 (12:15pm), Tue 12/16 (11:45am)
+
+    * [Special Event Sense And Sensibility 30th Anniversary](https://drafthouse.com/raleigh/show/special-event-sense-and-sensibility-30th-anniversary): Sun 12/14 (6:30pm)
+
+    * [The Doors When Youre Strange](https://drafthouse.com/raleigh/show/the-doors-when-youre-strange): Thu 12/11 (12:45pm)
+
+    * [The Secret Agent](https://drafthouse.com/raleigh/show/the-secret-agent): Thu 12/11 (9:15pm), Fri 12/12 (1:00pm, 2:45pm, 9:30pm, 10:00pm), Sat 12/13 (12:15pm, 3:30pm, 9:45pm), Sun 12/14 (1:00pm, 2:15pm, 9:45pm), Mon 12/15 (11:30am, 3:00pm, 6:00pm, 9:45pm), Tue 12/16 (12:45pm, 2:30pm, 6:00pm, 9:45pm), Wed 12/17 (11:15am, 2:45pm, 6:15pm, 10:00pm)
+
+    * [Wake Up Dead Man A Knives Out Mystery](https://drafthouse.com/raleigh/show/wake-up-dead-man-a-knives-out-mystery): Thu 12/11 (12:00pm, 2:30pm, 3:30pm, 7:00pm, 9:20pm, 9:50pm, 10:30pm), Fri 12/12 (1:30pm, 2:45pm, 6:45pm, 10:15pm), Sat 12/13 (12:45pm, 4:00pm, 7:00pm, 10:30pm), Sun 12/14 (1:00pm, 4:00pm, 7:15pm, 10:20pm), Mon 12/15 (12:00pm, 4:00pm, 6:30pm, 10:00pm), Tue 12/16 (1:30pm, 2:40pm, 6:05pm, 9:35pm), Wed 12/17 (12:30pm, 4:00pm, 6:15pm, 9:45pm)
+
+    * [Wicked For Good](https://drafthouse.com/raleigh/show/wicked-for-good): Thu 12/11 (11:30am, 3:00pm, 6:30pm, 10:00pm), Fri 12/12 (11:30am, 12:00pm, 3:30pm, 7:00pm, 10:20pm), Sat 12/13 (11:00am, 2:30pm, 6:00pm, 9:20pm), Sun 12/14 (12:00pm, 3:30pm, 7:00pm, 10:20pm), Mon 12/15 (11:15am, 2:35pm, 6:00pm, 9:20pm), Tue 12/16 (12:15pm, 3:40pm, 7:00pm, 10:20pm), Wed 12/17 (12:00pm, 3:30pm, 7:00pm, 10:30pm)
+
+    * [Zootopia 2](https://drafthouse.com/raleigh/show/zootopia-2): Thu 12/11 (12:15pm, 3:15pm, 6:15pm, 9:05pm), Fri 12/12 (11:45am, 3:15pm, 6:45pm, 9:45pm), Sat 12/13 (12:30pm, 3:20pm, 6:40pm, 9:30pm), Sun 12/14 (12:30pm, 3:25pm, 6:00pm, 9:00pm), Mon 12/15 (1:30pm, 4:25pm, 6:45pm, 9:35pm), Tue 12/16 (12:15pm, 4:30pm, 6:15pm, 9:05pm), Wed 12/17 (1:30pm, 4:30pm, 6:45pm, 9:45pm)
+
 ### Sat 12/6 10:25am
 
 * New screenings: 
