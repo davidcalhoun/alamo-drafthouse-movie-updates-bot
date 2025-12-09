@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 12/9 3:28pm
+* New movies: Twilight 2008
+
+
+
 ### Tue 12/9 10:33am
 * New movies: Megadeth: Behind the Mask
 
