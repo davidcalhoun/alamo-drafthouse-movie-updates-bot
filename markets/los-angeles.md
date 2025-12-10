@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 12/10 5:39am
+* New movies: No Other Choice
+
+* New screenings: 
+    * [No Other Choice](https://drafthouse.com/los-angeles/show/no-other-choice): Thu 1/1 (3:00pm, 6:30pm, 10:00pm), Fri 1/2 (11:15am, 2:45pm, 6:15pm, 9:45pm), Sat 1/3 (11:15am, 2:45pm, 6:15pm, 9:45pm), Sun 1/4 (11:15am, 2:45pm, 6:15pm, 9:45pm), Mon 1/5 (11:15am, 2:45pm, 6:15pm, 9:45pm), Tue 1/6 (11:15am, 2:45pm, 6:15pm, 9:45pm), Wed 1/7 (11:15am, 2:45pm, 6:15pm, 9:45pm)
+
 ### Tue 12/9 12:26pm
 * New movies: Twilight 2008
 
