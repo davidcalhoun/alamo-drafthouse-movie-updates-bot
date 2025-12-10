@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 12/10 8:01am
+* New movies: No Other Choice
+
+* New screenings: 
+    * [No Other Choice](https://drafthouse.com/raleigh/show/no-other-choice): Thu 1/8 (3:00pm, 6:30pm, 10:00pm), Fri 1/9 (6:30pm), Sat 1/10 (6:00pm), Sun 1/11 (6:00pm)
+
 ### Tue 12/9 9:17pm
 
 * New screenings: 
