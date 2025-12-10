@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Tue 12/9 9:17pm
+
+* New screenings: 
+    * [Dr Seuss How The Grinch Stole Christmas 2000 25th Anniversary](https://drafthouse.com/raleigh/show/dr-seuss-how-the-grinch-stole-christmas-2000-25th-anniversary): Wed 12/17 (5:00pm, 8:00pm)
+
+    * [Eternity](https://drafthouse.com/raleigh/show/eternity): Wed 12/17 (2:00pm)
+
 ### Tue 12/9 4:25pm
 * New movies: A/V Geeks Present: Religious Films Gone Wild, The Plague, TENEBRE, WHITE OF THE EYE, Weird Wednesday: BIRDEMIC: SHOCK AND TERROR
 
