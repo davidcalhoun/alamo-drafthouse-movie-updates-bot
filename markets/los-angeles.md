@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Thu 12/11 2:24pm
+* New movies: The Plague, SAMURAI COP
+
+* New screenings: 
+    * [Fantastic Fest Presents The Plague Advance Screening](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-the-plague-advance-screening): Tue 12/30 (7:20pm)
+
+    * [Special Event Megalopolis New Years Day Celebration](https://drafthouse.com/los-angeles/show/special-event-megalopolis-new-years-day-celebration): Thu 1/1 (2:50pm)
+
+    * [Weird Wednesday Samurai Cop](https://drafthouse.com/los-angeles/show/weird-wednesday-samurai-cop): Wed 1/7 (7:20pm)
+
 ### Wed 12/10 5:39am
 * New movies: No Other Choice
 
