@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 12/11 11:41am
+* New movies: An Evening with Martin Starr
+
+* New screenings: 
+    * [An Evening With Martin Starr](https://drafthouse.com/raleigh/show/an-evening-with-martin-starr): Sat 1/3 (7:00pm)
+
 ### Wed 12/10 8:01am
 * New movies: No Other Choice
 
