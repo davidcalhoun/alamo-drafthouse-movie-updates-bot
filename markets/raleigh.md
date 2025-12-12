@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 12/12 2:23pm
+
+* New screenings: 
+    * [The Voice Of Hind Rajab](https://drafthouse.com/raleigh/show/the-voice-of-hind-rajab): Sat 1/31 (4:15pm)
+
 ### Fri 12/12 1:42pm
 * New movies: The Voice of Hind Rajab
 
