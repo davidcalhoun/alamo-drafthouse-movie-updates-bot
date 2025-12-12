@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 12/12 12:27pm
+* New movies: The Voice of Hind Rajab
+
+* New screenings: 
+    * [The Voice Of Hind Rajab](https://drafthouse.com/los-angeles/show/the-voice-of-hind-rajab): Fri 1/23 (4:40pm, 7:20pm), Sat 1/24 (4:00pm, 6:45pm), Sun 1/25 (7:00pm)
+
 ### Thu 12/11 2:24pm
 * New movies: The Plague, SAMURAI COP
 
