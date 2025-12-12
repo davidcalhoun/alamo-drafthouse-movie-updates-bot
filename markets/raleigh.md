@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Fri 12/12 1:42pm
+* New movies: The Voice of Hind Rajab
+
+* New screenings: 
+    * [Avatar Fire And Ash](https://drafthouse.com/raleigh/show/avatar-fire-and-ash): Sat 1/3 (4:30pm)
+
+    * [The Voice Of Hind Rajab](https://drafthouse.com/raleigh/show/the-voice-of-hind-rajab): Fri 1/30 (4:30pm, 7:00pm)
+
 ### Thu 12/11 11:41am
 * New movies: An Evening with Martin Starr
 
