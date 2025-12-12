@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 12/12 1:21pm
+* New movies: Iron Lung
+
+* New screenings: 
+    * [Iron Lung](https://drafthouse.com/los-angeles/show/iron-lung): Thu 1/29 (6:30pm, 9:50pm), Fri 1/30 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Sat 1/31 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Sun 2/1 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Mon 2/2 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Tue 2/3 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Wed 2/4 (12:45pm, 4:00pm, 7:15pm, 10:30pm)
+
 ### Fri 12/12 12:27pm
 * New movies: The Voice of Hind Rajab
 
