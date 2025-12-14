@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Sun 12/14 1:23am
+* New movies: Hard Boiled - Hong Kong Cinema Classics
+
+* New screenings: 
+    * [Hard Boiled Hong Kong Cinema Classics](https://drafthouse.com/los-angeles/show/hard-boiled-hong-kong-cinema-classics): Sun 1/25 (12:20pm, 3:50pm), Mon 1/26 (9:30pm), Tue 1/27 (9:30pm)
+
+    * [Signature Programming The Twilight Saga Breaking Dawn Part 1](https://drafthouse.com/los-angeles/show/signature-programming-the-twilight-saga-breaking-dawn-part-1): Sun 1/25 (7:20pm)
+
 ### Fri 12/12 1:21pm
 * New movies: Iron Lung
 
