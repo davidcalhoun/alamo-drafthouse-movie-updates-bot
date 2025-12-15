@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 12/15 12:28pm
+* New movies: Twin Peaks
+
+* New screenings: 
+    * [Greetings From Twin Peaks Twin Peaks Episodes 1 3](https://drafthouse.com/los-angeles/show/greetings-from-twin-peaks-twin-peaks-episodes-1-3): Sat 1/3 (12:10pm)
+
 ### Mon 12/15 10:37am
 * New movies: LUPIN THE IIIRD: The Movie - The Immortal Bloodline Subtitled, LUPIN THE IIIRD: The Movie - The Immortal Bloodline Dubbed
 
