@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Mon 12/15 3:23pm
+* New movies: My Own Private Idaho, Twin Peaks, Twin Peaks
+
+* New screenings: 
+    * [Greetings From Twin Peaks Twin Peaks Episodes 10 13](https://drafthouse.com/los-angeles/show/greetings-from-twin-peaks-twin-peaks-episodes-10-13): Sat 1/24 (11:40am)
+
+    * [Greetings From Twin Peaks Twin Peaks Episodes 14 17](https://drafthouse.com/los-angeles/show/greetings-from-twin-peaks-twin-peaks-episodes-14-17): Sat 1/31 (11:15am)
+
+    * [Queer Film Theory 101 My Own Private Idaho](https://drafthouse.com/los-angeles/show/queer-film-theory-101-my-own-private-idaho): Tue 1/27 (7:20pm)
+
 ### Mon 12/15 1:24pm
 * New movies: Twin Peaks, Twin Peaks
 
