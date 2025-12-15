@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Mon 12/15 1:24pm
+* New movies: Twin Peaks, Twin Peaks
+
+* New screenings: 
+    * [Greetings From Twin Peaks Twin Peaks Episode 7 9](https://drafthouse.com/los-angeles/show/greetings-from-twin-peaks-twin-peaks-episode-7-9): Sat 1/17 (11:40am)
+
+    * [Greetings From Twin Peaks Twin Peaks Episodes 4 6](https://drafthouse.com/los-angeles/show/greetings-from-twin-peaks-twin-peaks-episodes-4-6): Sat 1/10 (11:30am)
+
 ### Mon 12/15 12:28pm
 * New movies: Twin Peaks
 
