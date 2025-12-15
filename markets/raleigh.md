@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 12/15 3:33pm
+* New movies: Twin Peaks
+
+* New screenings: 
+    * [Greetings From Twin Peaks Twin Peaks Episodes 1 3](https://drafthouse.com/raleigh/show/greetings-from-twin-peaks-twin-peaks-episodes-1-3): Sat 1/3 (3:15pm)
+
 ### Mon 12/15 11:42am
 * New movies: Steel Magnolias, 9 to 5, Army of Darkness, Blood for Dracula, Christiane F., Darkman, Drag Me to Hell, Evil Dead II, Merry Christmas Mr. Lawrence, Moonage Daydream, Real Genius, Reds, Reservoir Dogs, The Best Little Whorehouse in Texas, The Man Who Fell to Earth, The Quick and the Dead 1995, Three Days of the Condor
 
