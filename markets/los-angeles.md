@@ -1,6 +1,44 @@
 # los-angeles
 
 ## Movie updates
+### Mon 12/15 8:36am
+* New movies: Steel Magnolias, Reds, 9 to 5, Army of Darkness, Blood for Dracula, Christiane F., Darkman, Drag Me to Hell, Evil Dead II, Merry Christmas Mr. Lawrence, Moonage Daydream, Real Genius, Reservoir Dogs, The Best Little Whorehouse in Texas, The Man Who Fell to Earth, The Quick and the Dead 1995, Three Days of the Condor
+
+* New screenings: 
+    * [9 To 5](https://drafthouse.com/los-angeles/show/9-to-5): Sun 1/18 (6:20pm)
+
+    * [Army Of Darkness](https://drafthouse.com/los-angeles/show/army-of-darkness): Tue 1/6 (7:20pm)
+
+    * [Blood For Dracula](https://drafthouse.com/los-angeles/show/blood-for-dracula): Fri 1/30 (9:45pm)
+
+    * [Christiane F](https://drafthouse.com/los-angeles/show/christiane-f): Sun 1/25 (12:00pm)
+
+    * [Darkman](https://drafthouse.com/los-angeles/show/darkman): Sun 1/11 (3:30pm)
+
+    * [Drag Me To Hell](https://drafthouse.com/los-angeles/show/drag-me-to-hell): Sat 1/24 (9:30pm)
+
+    * [Evil Dead Ii](https://drafthouse.com/los-angeles/show/evil-dead-ii): Sat 1/3 (7:20pm)
+
+    * [Merry Christmas Mr Lawrence](https://drafthouse.com/los-angeles/show/merry-christmas-mr-lawrence): Sun 2/1 (12:00pm)
+
+    * [Moonage Daydream](https://drafthouse.com/los-angeles/show/moonage-daydream): Sun 1/11 (12:00pm)
+
+    * [Real Genius](https://drafthouse.com/los-angeles/show/real-genius): Sun 1/4 (3:30pm)
+
+    * [Reds](https://drafthouse.com/los-angeles/show/reds): Sat 1/3 (10:30am), Sat 1/24 (11:00am)
+
+    * [Reservoir Dogs](https://drafthouse.com/los-angeles/show/reservoir-dogs): Sat 1/3 (4:30pm)
+
+    * [Signature Programming Steel Magnolias](https://drafthouse.com/los-angeles/show/signature-programming-steel-magnolias): Sat 1/17 (4:00pm), Sun 1/18 (12:00pm)
+
+    * [The Best Little Whorehouse In Texas](https://drafthouse.com/los-angeles/show/the-best-little-whorehouse-in-texas): Sun 1/18 (3:15pm)
+
+    * [The Man Who Fell To Earth](https://drafthouse.com/los-angeles/show/the-man-who-fell-to-earth): Fri 1/2 (9:30pm)
+
+    * [The Quick And The Dead 1995](https://drafthouse.com/los-angeles/show/the-quick-and-the-dead-1995): Tue 1/20 (7:20pm)
+
+    * [Three Days Of The Condor](https://drafthouse.com/los-angeles/show/three-days-of-the-condor): Sat 1/10 (3:00pm)
+
 ### Sun 12/14 1:23am
 * New movies: Hard Boiled - Hong Kong Cinema Classics
 
