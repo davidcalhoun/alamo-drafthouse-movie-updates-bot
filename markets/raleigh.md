@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Mon 12/15 6:27pm
+* New movies: My Own Private Idaho, Twin Peaks, Twin Peaks
+
+* New screenings: 
+    * [Greetings From Twin Peaks Twin Peaks Episodes 10 13](https://drafthouse.com/raleigh/show/greetings-from-twin-peaks-twin-peaks-episodes-10-13): Sat 1/24 (12:00pm)
+
+    * [Greetings From Twin Peaks Twin Peaks Episodes 14 17](https://drafthouse.com/raleigh/show/greetings-from-twin-peaks-twin-peaks-episodes-14-17): Sat 1/31 (12:00pm)
+
+    * [Queer Film Theory 101 My Own Private Idaho](https://drafthouse.com/raleigh/show/queer-film-theory-101-my-own-private-idaho): Tue 1/27 (6:15pm)
+
 ### Mon 12/15 4:28pm
 * New movies: Twin Peaks, Twin Peaks
 
