@@ -1,6 +1,44 @@
 # raleigh
 
 ## Movie updates
+### Mon 12/15 11:42am
+* New movies: Steel Magnolias, 9 to 5, Army of Darkness, Blood for Dracula, Christiane F., Darkman, Drag Me to Hell, Evil Dead II, Merry Christmas Mr. Lawrence, Moonage Daydream, Real Genius, Reds, Reservoir Dogs, The Best Little Whorehouse in Texas, The Man Who Fell to Earth, The Quick and the Dead 1995, Three Days of the Condor
+
+* New screenings: 
+    * [9 To 5](https://drafthouse.com/raleigh/show/9-to-5): Fri 1/16 (7:00pm)
+
+    * [Army Of Darkness](https://drafthouse.com/raleigh/show/army-of-darkness): Tue 1/6 (7:00pm)
+
+    * [Blood For Dracula](https://drafthouse.com/raleigh/show/blood-for-dracula): Fri 1/30 (9:45pm)
+
+    * [Christiane F](https://drafthouse.com/raleigh/show/christiane-f): Sun 1/25 (3:30pm)
+
+    * [Darkman](https://drafthouse.com/raleigh/show/darkman): Sun 1/11 (3:30pm)
+
+    * [Drag Me To Hell](https://drafthouse.com/raleigh/show/drag-me-to-hell): Fri 1/23 (10:00pm)
+
+    * [Evil Dead Ii](https://drafthouse.com/raleigh/show/evil-dead-ii): Sun 1/4 (3:15pm)
+
+    * [Merry Christmas Mr Lawrence](https://drafthouse.com/raleigh/show/merry-christmas-mr-lawrence): Mon 2/2 (7:00pm)
+
+    * [Moonage Daydream](https://drafthouse.com/raleigh/show/moonage-daydream): Sun 1/11 (12:00pm)
+
+    * [Real Genius](https://drafthouse.com/raleigh/show/real-genius): Sun 1/4 (12:15pm)
+
+    * [Reds](https://drafthouse.com/raleigh/show/reds): Sun 1/25 (11:00am)
+
+    * [Reservoir Dogs](https://drafthouse.com/raleigh/show/reservoir-dogs): Sat 1/3 (2:45pm)
+
+    * [Signature Programming Steel Magnolias](https://drafthouse.com/raleigh/show/signature-programming-steel-magnolias): Sun 1/18 (11:45am)
+
+    * [The Best Little Whorehouse In Texas](https://drafthouse.com/raleigh/show/the-best-little-whorehouse-in-texas): Sun 1/18 (3:00pm)
+
+    * [The Man Who Fell To Earth](https://drafthouse.com/raleigh/show/the-man-who-fell-to-earth): Fri 1/2 (9:30pm)
+
+    * [The Quick And The Dead 1995](https://drafthouse.com/raleigh/show/the-quick-and-the-dead-1995): Fri 1/16 (10:00pm)
+
+    * [Three Days Of The Condor](https://drafthouse.com/raleigh/show/three-days-of-the-condor): Sat 1/10 (3:30pm)
+
 ### Fri 12/12 2:23pm
 
 * New screenings: 
