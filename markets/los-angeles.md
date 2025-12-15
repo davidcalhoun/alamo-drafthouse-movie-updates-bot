@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Mon 12/15 10:37am
+* New movies: LUPIN THE IIIRD: The Movie - The Immortal Bloodline Subtitled, LUPIN THE IIIRD: The Movie - The Immortal Bloodline Dubbed
+
+* New screenings: 
+    * [Lupin The Iiird The Movie The Immortal Bloodline Dubbed](https://drafthouse.com/los-angeles/show/lupin-the-iiird-the-movie-the-immortal-bloodline-dubbed): Mon 1/5 (7:45pm)
+
+    * [Lupin The Iiird The Movie The Immortal Bloodline Subtitled](https://drafthouse.com/los-angeles/show/lupin-the-iiird-the-movie-the-immortal-bloodline-subtitled): Sun 1/4 (4:00pm), Tue 1/6 (4:45pm)
+
 ### Mon 12/15 8:36am
 * New movies: Steel Magnolias, Reds, 9 to 5, Army of Darkness, Blood for Dracula, Christiane F., Darkman, Drag Me to Hell, Evil Dead II, Merry Christmas Mr. Lawrence, Moonage Daydream, Real Genius, Reservoir Dogs, The Best Little Whorehouse in Texas, The Man Who Fell to Earth, The Quick and the Dead 1995, Three Days of the Condor
 
