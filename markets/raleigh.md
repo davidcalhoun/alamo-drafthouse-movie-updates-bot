@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Mon 12/15 4:28pm
+* New movies: Twin Peaks, Twin Peaks
+
+* New screenings: 
+    * [Greetings From Twin Peaks Twin Peaks Episode 7 9](https://drafthouse.com/raleigh/show/greetings-from-twin-peaks-twin-peaks-episode-7-9): Sat 1/17 (12:00pm)
+
+    * [Greetings From Twin Peaks Twin Peaks Episodes 4 6](https://drafthouse.com/raleigh/show/greetings-from-twin-peaks-twin-peaks-episodes-4-6): Sat 1/10 (12:00pm)
+
 ### Mon 12/15 3:33pm
 * New movies: Twin Peaks
 
