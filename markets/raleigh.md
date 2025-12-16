@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Tue 12/16 11:40am
+* New movies: Iron Lung, Godfrey: Rebel with a Cause
+
+* New screenings: 
+    * [Godfrey Rebel With A Cause](https://drafthouse.com/raleigh/show/godfrey-rebel-with-a-cause): Wed 1/14 (8:00pm)
+
+    * [Iron Lung](https://drafthouse.com/raleigh/show/iron-lung): Thu 1/29 (6:00pm, 9:15pm)
+
 ### Tue 12/16 9:34am
 * New movies: We Bury the Dead
 
