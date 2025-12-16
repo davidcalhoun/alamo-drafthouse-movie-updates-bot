@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 12/16 1:44pm
+* New movies: JEOPARDY! INTERACTIVE
+
+* New screenings: 
+    * [Jeopardy Interactive](https://drafthouse.com/raleigh/show/jeopardy-interactive): Wed 1/14 (7:00pm), Wed 1/21 (7:00pm), Wed 1/28 (7:00pm)
+
 ### Tue 12/16 11:40am
 * New movies: Iron Lung, Godfrey: Rebel with a Cause
 
