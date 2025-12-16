@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 12/16 4:28pm
+* New movies: The Girl Who Leapt Through Time 1983
+
+* New screenings: 
+    * [Weird Wednesday The Girl Who Leapt Through Time 1983](https://drafthouse.com/raleigh/show/weird-wednesday-the-girl-who-leapt-through-time-1983): Wed 1/7 (9:30pm)
+
 ### Tue 12/16 1:44pm
 * New movies: JEOPARDY! INTERACTIVE
 
