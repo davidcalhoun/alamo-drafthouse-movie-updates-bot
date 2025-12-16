@@ -1,6 +1,51 @@
 # los-angeles
 
 ## Movie updates
+### Mon 12/15 5:58pm
+
+* New screenings: 
+    * [100 Nights Of Hero](https://drafthouse.com/los-angeles/show/100-nights-of-hero): Thu 12/18 (11:00pm)
+
+    * [Avatar Fire And Ash](https://drafthouse.com/los-angeles/show/avatar-fire-and-ash): Thu 12/18 (3:30pm, 4:15pm, 4:30pm, 5:00pm, 7:00pm, 8:00pm, 9:00pm, 9:30pm, 10:00pm), Fri 12/19 (10:00am, 2:30pm, 5:00pm, 7:00pm, 7:30pm), Sat 12/20 (10:00am, 2:30pm, 5:00pm, 7:00pm, 8:20pm), Sun 12/21 (10:00am, 2:30pm, 7:00pm), Mon 12/22 (10:00am, 11:45am, 2:30pm, 7:00pm), Tue 12/23 (10:00am, 2:30pm, 7:00pm)
+
+    * [Batman Returns](https://drafthouse.com/los-angeles/show/batman-returns): Fri 12/19 (4:15pm), Sun 12/21 (11:45am), Tue 12/23 (2:45pm)
+
+    * [Dr Seuss How The Grinch Stole Christmas 2000 25th Anniversary](https://drafthouse.com/los-angeles/show/dr-seuss-how-the-grinch-stole-christmas-2000-25th-anniversary): Thu 12/18 (10:50am), Fri 12/19 (1:20pm), Sat 12/20 (5:25pm), Sun 12/21 (2:20pm)
+
+    * [Dust Bunny](https://drafthouse.com/los-angeles/show/dust-bunny): Thu 12/18 (10:15am, 1:15pm), Fri 12/19 (9:30pm), Sat 12/20 (9:30pm), Sun 12/21 (7:50pm), Mon 12/22 (11:00pm), Tue 12/23 (8:00pm, 11:00pm)
+
+    * [Elf](https://drafthouse.com/los-angeles/show/elf): Fri 12/19 (10:35am), Sun 12/21 (5:15pm), Tue 12/23 (11:15am)
+
+    * [Ella Mccay](https://drafthouse.com/los-angeles/show/ella-mccay): Thu 12/18 (10:30am, 1:30pm), Fri 12/19 (11:00am), Sat 12/20 (9:00am), Sun 12/21 (9:15am), Mon 12/22 (12:00pm), Tue 12/23 (12:00pm)
+
+    * [Eternity](https://drafthouse.com/los-angeles/show/eternity): Thu 12/18 (11:00am), Sun 12/21 (4:50pm), Mon 12/22 (8:00pm)
+
+    * [Eyes Wide Shut](https://drafthouse.com/los-angeles/show/eyes-wide-shut): Mon 12/22 (10:30pm), Tue 12/23 (11:00am)
+
+    * [Five Nights At Freddys 2](https://drafthouse.com/los-angeles/show/five-nights-at-freddys-2): Thu 12/18 (10:15am, 1:10pm, 9:45pm), Fri 12/19 (9:30pm), Sat 12/20 (9:30pm), Sun 12/21 (8:00pm), Mon 12/22 (9:30pm), Tue 12/23 (9:30pm)
+
+    * [Hamnet](https://drafthouse.com/los-angeles/show/hamnet): Thu 12/18 (10:40am, 1:50pm), Fri 12/19 (10:40am, 1:50pm), Sat 12/20 (10:40am, 1:50pm), Sun 12/21 (10:30am, 1:40pm), Mon 12/22 (10:30am, 1:40pm, 4:50pm), Tue 12/23 (10:30am, 1:40pm, 4:50pm)
+
+    * [Its A Wonderful Life](https://drafthouse.com/los-angeles/show/its-a-wonderful-life): Fri 12/19 (11:30am), Sat 12/20 (10:45am), Mon 12/22 (10:45am)
+
+    * [Jujutsu Kaisen Execution Dubbed](https://drafthouse.com/los-angeles/show/jujutsu-kaisen-execution-dubbed): Thu 12/18 (10:15am)
+
+    * [Jujutsu Kaisen Execution Subtitled](https://drafthouse.com/los-angeles/show/jujutsu-kaisen-execution-subtitled): Thu 12/18 (12:55pm)
+
+    * [Kill Bill The Whole Bloody Affair](https://drafthouse.com/los-angeles/show/kill-bill-the-whole-bloody-affair): Thu 12/18 (1:45pm, 7:30pm), Fri 12/19 (2:00pm, 7:45pm), Sat 12/20 (2:00pm, 7:45pm), Sun 12/21 (12:15pm, 6:00pm), Mon 12/22 (2:00pm, 7:45pm), Tue 12/23 (2:00pm, 7:45pm)
+
+    * [Mistress Dispeller](https://drafthouse.com/los-angeles/show/mistress-dispeller): Thu 12/18 (12:00pm)
+
+    * [Queer Film Theory The Long Kiss Goodnight](https://drafthouse.com/los-angeles/show/queer-film-theory-the-long-kiss-goodnight): Fri 12/19 (11:30pm), Sat 12/20 (11:30pm), Mon 12/22 (11:30pm), Tue 12/23 (9:45pm, 11:30pm)
+
+    * [The Secret Agent](https://drafthouse.com/los-angeles/show/the-secret-agent): Thu 12/18 (10:45am, 2:30pm, 6:15pm, 8:45pm), Fri 12/19 (11:15am, 3:00pm, 6:45pm, 10:30pm), Sat 12/20 (11:15am, 3:00pm, 6:45pm, 10:30pm), Sun 12/21 (11:15am, 3:00pm, 6:45pm), Mon 12/22 (11:15am, 3:00pm, 6:45pm, 10:30pm), Tue 12/23 (11:15am, 3:00pm, 6:45pm, 10:30pm)
+
+    * [Wake Up Dead Man A Knives Out Mystery](https://drafthouse.com/los-angeles/show/wake-up-dead-man-a-knives-out-mystery): Thu 12/18 (11:50am, 3:25pm), Fri 12/19 (2:45pm, 6:15pm, 9:45pm), Sat 12/20 (3:00pm, 6:30pm, 10:00pm), Sun 12/21 (3:00pm, 6:30pm), Mon 12/22 (3:00pm, 6:30pm, 10:00pm), Tue 12/23 (3:00pm, 6:30pm, 10:00pm)
+
+    * [Wicked For Good](https://drafthouse.com/los-angeles/show/wicked-for-good): Thu 12/18 (11:15am, 2:45pm, 6:15pm), Fri 12/19 (11:00am, 2:30pm, 6:00pm), Sat 12/20 (11:00am, 2:30pm, 6:00pm), Sun 12/21 (11:15am, 2:45pm, 6:15pm), Mon 12/22 (11:00am, 2:30pm, 6:00pm), Tue 12/23 (11:00am, 2:30pm, 6:00pm)
+
+    * [Zootopia 2](https://drafthouse.com/los-angeles/show/zootopia-2): Thu 12/18 (11:00am, 2:00pm, 5:00pm, 8:00pm), Fri 12/19 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sat 12/20 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sun 12/21 (10:15am, 1:15pm, 4:15pm, 7:15pm), Mon 12/22 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Tue 12/23 (12:15pm, 3:15pm, 6:15pm, 9:15pm)
+
 ### Mon 12/15 3:23pm
 * New movies: My Own Private Idaho, Twin Peaks, Twin Peaks
 
