@@ -1,6 +1,35 @@
 # raleigh
 
 ## Movie updates
+### Mon 12/15 9:20pm
+
+* New screenings: 
+    * [Avatar Fire And Ash](https://drafthouse.com/raleigh/show/avatar-fire-and-ash): Thu 12/18 (2:30pm, 7:00pm, 8:00pm), Fri 12/19 (11:00am, 11:45am, 3:30pm, 4:05pm, 8:00pm, 8:30pm), Sat 12/20 (11:00am, 1:00pm, 3:30pm, 5:20pm, 6:30pm, 8:00pm), Sun 12/21 (11:00am, 3:30pm, 4:20pm, 6:30pm, 8:00pm, 8:45pm), Mon 12/22 (11:00am, 2:00pm, 3:30pm, 8:00pm), Tue 12/23 (11:30am, 2:00pm, 4:00pm, 8:30pm)
+
+    * [Batman Returns](https://drafthouse.com/raleigh/show/batman-returns): Tue 12/23 (6:00pm)
+
+    * [Dr Seuss How The Grinch Stole Christmas 2000 25th Anniversary](https://drafthouse.com/raleigh/show/dr-seuss-how-the-grinch-stole-christmas-2000-25th-anniversary): Thu 12/18 (5:10pm), Sat 12/20 (1:20pm), Sun 12/21 (1:15pm), Mon 12/22 (1:30pm), Tue 12/23 (11:00am, 4:40pm)
+
+    * [Ella Mccay](https://drafthouse.com/raleigh/show/ella-mccay): Thu 12/18 (2:10pm), Fri 12/19 (10:00am), Sat 12/20 (10:00am), Sun 12/21 (10:15am), Mon 12/22 (10:30am), Tue 12/23 (10:00am)
+
+    * [Eyes Wide Shut](https://drafthouse.com/raleigh/show/eyes-wide-shut): Sat 12/20 (9:45pm), Mon 12/22 (7:30pm), Tue 12/23 (9:15pm)
+
+    * [Five Nights At Freddys 2](https://drafthouse.com/raleigh/show/five-nights-at-freddys-2): Thu 12/18 (1:30pm, 4:15pm, 7:15pm, 10:05pm), Fri 12/19 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:15pm), Sat 12/20 (11:15am, 2:00pm, 4:55pm, 7:45pm, 10:30pm), Sun 12/21 (11:15am, 2:00pm, 4:45pm, 7:35pm, 10:25pm), Mon 12/22 (12:15pm, 3:00pm, 6:00pm, 9:15pm), Tue 12/23 (10:45am, 1:35pm, 4:25pm, 7:15pm, 10:05pm)
+
+    * [Hamnet](https://drafthouse.com/raleigh/show/hamnet): Thu 12/18 (1:15pm), Fri 12/19 (9:55pm), Sat 12/20 (10:00pm), Mon 12/22 (10:45am)
+
+    * [Its A Wonderful Life](https://drafthouse.com/raleigh/show/its-a-wonderful-life): Fri 12/19 (1:00pm)
+
+    * [Kill Bill The Whole Bloody Affair](https://drafthouse.com/raleigh/show/kill-bill-the-whole-bloody-affair): Thu 12/18 (8:00pm), Fri 12/19 (4:15pm), Sat 12/20 (4:10pm), Sun 12/21 (4:10pm), Mon 12/22 (4:15pm), Tue 12/23 (7:30pm)
+
+    * [The Secret Agent](https://drafthouse.com/raleigh/show/the-secret-agent): Thu 12/18 (2:15pm, 6:00pm, 9:45pm), Fri 12/19 (10:45am, 2:30pm, 6:15pm, 10:00pm), Sat 12/20 (11:00am, 2:45pm), Sun 12/21 (10:45am, 2:30pm), Mon 12/22 (11:45am, 3:45pm, 9:35pm), Tue 12/23 (10:15am, 2:15pm)
+
+    * [Wake Up Dead Man A Knives Out Mystery](https://drafthouse.com/raleigh/show/wake-up-dead-man-a-knives-out-mystery): Thu 12/18 (2:45pm, 4:30pm), Mon 12/22 (10:00pm), Tue 12/23 (1:00pm)
+
+    * [Wicked For Good](https://drafthouse.com/raleigh/show/wicked-for-good): Thu 12/18 (12:00pm, 3:30pm, 7:00pm, 10:20pm), Fri 12/19 (9:00am, 12:25pm, 3:50pm, 7:15pm, 10:35pm), Sat 12/20 (11:15am, 3:50pm, 7:15pm, 9:00pm), Sun 12/21 (9:00am, 12:25pm, 4:15pm, 7:35pm), Mon 12/22 (11:15am, 2:35pm, 4:15pm, 7:35pm), Tue 12/23 (11:15am, 2:45pm, 6:00pm, 9:30pm)
+
+    * [Zootopia 2](https://drafthouse.com/raleigh/show/zootopia-2): Thu 12/18 (12:55pm, 3:50pm, 6:45pm, 9:35pm), Fri 12/19 (9:40am, 12:30pm, 3:30pm, 6:30pm, 9:20pm), Sat 12/20 (10:10am, 1:00pm, 3:00pm, 6:00pm, 10:35pm), Sun 12/21 (10:30am, 1:25pm, 3:50pm, 6:40pm, 9:30pm), Mon 12/22 (10:30am, 1:25pm, 6:00pm, 9:15pm), Tue 12/23 (12:15pm, 3:05pm, 6:15pm, 9:30pm)
+
 ### Mon 12/15 6:27pm
 * New movies: My Own Private Idaho, Twin Peaks, Twin Peaks
 
