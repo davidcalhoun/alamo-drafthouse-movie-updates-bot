@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 12/16 6:28am
+* New movies: We Bury the Dead
+
+* New screenings: 
+    * [Advance Screening We Bury The Dead](https://drafthouse.com/los-angeles/show/advance-screening-we-bury-the-dead): Mon 12/29 (7:00pm)
+
 ### Mon 12/15 5:58pm
 
 * New screenings: 
