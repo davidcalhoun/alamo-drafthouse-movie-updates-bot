@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Wed 12/17 9:09pm
+* New movies: The Plague
+
+* New screenings: 
+    * [The Plague](https://drafthouse.com/raleigh/show/the-plague): Thu 1/1 (6:15pm), Fri 1/2 (6:15pm), Sat 1/3 (6:15pm), Sun 1/4 (6:15pm)
+
+    * [The Secret Agent](https://drafthouse.com/raleigh/show/the-secret-agent): Sun 12/21 (8:45pm)
+
 ### Tue 12/16 4:28pm
 * New movies: The Girl Who Leapt Through Time 1983
 
