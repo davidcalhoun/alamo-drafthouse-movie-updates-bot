@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 12/18 10:36am
+
+* New screenings: 
+    * [Marty Supreme](https://drafthouse.com/los-angeles/show/marty-supreme): Wed 12/24 (1:40pm, 5:20pm, 6:00pm), Thu 12/25 (12:00pm, 3:45pm, 7:30pm, 11:15pm), Fri 12/26 (12:00pm, 3:45pm, 7:30pm, 11:15pm), Sat 12/27 (12:00pm, 3:45pm, 7:30pm, 11:15pm), Sun 12/28 (12:00pm, 3:45pm, 7:30pm, 11:15pm), Mon 12/29 (12:30pm, 4:15pm, 7:30pm, 11:15pm), Tue 12/30 (12:00pm, 3:45pm, 7:45pm, 11:30pm)
+
 ### Tue 12/16 6:28am
 * New movies: We Bury the Dead
 
