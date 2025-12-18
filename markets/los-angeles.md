@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 12/18 11:19am
+
+* New screenings: 
+    * [Special Event Megalopolis New Years Day Celebration](https://drafthouse.com/los-angeles/show/special-event-megalopolis-new-years-day-celebration): Thu 1/1 (7:30pm)
+
 ### Thu 12/18 10:36am
 
 * New screenings: 
