@@ -1,6 +1,28 @@
 # los-angeles
 
 ## Movie updates
+### Thu 12/18 12:24pm
+* New movies: The Testament of Ann Lee, The Plague, Megalopolis, Night Stage, Godfrey: Rebel with a Cause, JEOPARDY! INTERACTIVE, AATMA, CHOPPING MALL, FRIDAY THE 13TH PART 2
+
+* New screenings: 
+    * [Godfrey Rebel With A Cause](https://drafthouse.com/los-angeles/show/godfrey-rebel-with-a-cause): Wed 1/14 (8:00pm)
+
+    * [Jeopardy Interactive](https://drafthouse.com/los-angeles/show/jeopardy-interactive): Wed 1/7 (7:00pm), Wed 1/14 (7:00pm), Wed 1/21 (7:00pm)
+
+    * [Night Stage](https://drafthouse.com/los-angeles/show/night-stage): Fri 1/16 (9:30pm), Wed 1/21 (4:15pm)
+
+    * [Special Event Megalopolis New Years Day Celebration](https://drafthouse.com/los-angeles/show/special-event-megalopolis-new-years-day-celebration): Thu 1/1 (10:15pm)
+
+    * [Terror Tuesday Aatma](https://drafthouse.com/los-angeles/show/terror-tuesday-aatma): Tue 1/27 (7:00pm)
+
+    * [Terror Tuesday Chopping Mall](https://drafthouse.com/los-angeles/show/terror-tuesday-chopping-mall): Tue 1/20 (6:30pm)
+
+    * [Terror Tuesday Friday The 13th Part 21](https://drafthouse.com/los-angeles/show/terror-tuesday-friday-the-13th-part-21): Tue 1/6 (7:35pm)
+
+    * [The Plague](https://drafthouse.com/los-angeles/show/the-plague): Thu 1/1 (4:00pm, 6:45pm, 9:30pm), Fri 1/2 (10:45am, 1:35pm, 4:25pm, 7:15pm, 10:05pm), Sat 1/3 (10:45am, 1:35pm, 4:25pm, 7:15pm, 10:05pm), Sun 1/4 (11:00am, 1:50pm, 4:40pm, 7:30pm)
+
+    * [The Testament Of Ann Lee](https://drafthouse.com/los-angeles/show/the-testament-of-ann-lee): Thu 1/15 (3:15pm, 6:45pm, 10:15pm), Fri 1/16 (11:30am, 3:00pm, 6:30pm, 10:00pm), Sat 1/17 (11:30am, 3:00pm, 6:30pm, 10:00pm), Sun 1/18 (11:30am, 3:00pm, 6:30pm), Mon 1/19 (11:30am, 3:00pm, 6:30pm, 10:00pm), Tue 1/20 (11:30am, 3:00pm, 6:30pm, 10:00pm), Wed 1/21 (11:30am, 3:00pm, 6:30pm, 10:00pm)
+
 ### Thu 12/18 11:19am
 
 * New screenings: 
