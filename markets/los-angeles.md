@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 12/18 2:23pm
+* New movies: THE WORST PERSON IN THE WORLD
+
+* New screenings: 
+    * [The Worst Person In The World](https://drafthouse.com/los-angeles/show/the-worst-person-in-the-world): Mon 2/2 (7:20pm)
+
 ### Thu 12/18 12:24pm
 * New movies: The Testament of Ann Lee, The Plague, Megalopolis, Night Stage, Godfrey: Rebel with a Cause, JEOPARDY! INTERACTIVE, AATMA, CHOPPING MALL, FRIDAY THE 13TH PART 2
 
