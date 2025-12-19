@@ -1,6 +1,18 @@
 # raleigh
 
 ## Movie updates
+### Thu 12/18 9:18pm
+* New movies: Crunchyroll Anime Nights Sneak Peek 3/16/2026, Fruits Basket -prelude- Dubbed, Zombie Land Saga: Yumeginga Paradise Dubbed
+
+* New screenings: 
+    * [Crunchyroll Anime Nights Sneak Peek 3 16 2026](https://drafthouse.com/raleigh/show/crunchyroll-anime-nights-sneak-peek-3-16-2026): Mon 3/16 (7:00pm)
+
+    * [Fruits Basket Prelude Dubbed](https://drafthouse.com/raleigh/show/fruits-basket-prelude-dubbed): Mon 2/16 (7:00pm)
+
+    * [The Housemaid 2025](https://drafthouse.com/raleigh/show/the-housemaid-2025): Sun 12/21 (5:00pm, 8:15pm)
+
+    * [Zombie Land Saga Yumeginga Paradise Dubbed](https://drafthouse.com/raleigh/show/zombie-land-saga-yumeginga-paradise-dubbed): Sat 1/17 (7:00pm)
+
 ### Wed 12/17 9:09pm
 * New movies: The Plague
 
