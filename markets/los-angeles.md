@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Thu 12/18 5:57pm
+* New movies: Crunchyroll Anime Nights Sneak Peek 3/16/2026, Fruits Basket -prelude- Dubbed, Zombie Land Saga: Yumeginga Paradise Dubbed
+
+* New screenings: 
+    * [Crunchyroll Anime Nights Sneak Peek 3 16 2026](https://drafthouse.com/los-angeles/show/crunchyroll-anime-nights-sneak-peek-3-16-2026): Mon 3/16 (7:20pm)
+
+    * [Fruits Basket Prelude Dubbed](https://drafthouse.com/los-angeles/show/fruits-basket-prelude-dubbed): Mon 2/16 (6:00pm)
+
+    * [Zombie Land Saga Yumeginga Paradise Dubbed](https://drafthouse.com/los-angeles/show/zombie-land-saga-yumeginga-paradise-dubbed): Mon 1/19 (6:00pm)
+
 ### Thu 12/18 2:23pm
 * New movies: THE WORST PERSON IN THE WORLD
 
