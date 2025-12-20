@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Sat 12/20 3:28pm
+* New movies: THE WORST PERSON IN THE WORLD
+
+* New screenings: 
+    * [9 To 5](https://drafthouse.com/raleigh/show/9-to-5): Mon 1/19 (4:00pm)
+
+    * [The Worst Person In The World](https://drafthouse.com/raleigh/show/the-worst-person-in-the-world): Sun 2/1 (12:00pm)
+
 ### Thu 12/18 9:18pm
 * New movies: Crunchyroll Anime Nights Sneak Peek 3/16/2026, Fruits Basket -prelude- Dubbed, Zombie Land Saga: Yumeginga Paradise Dubbed
 
