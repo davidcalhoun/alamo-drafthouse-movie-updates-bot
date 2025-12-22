@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 12/22 5:29pm
+
+* New screenings: 
+    * [Avatar Fire And Ash](https://drafthouse.com/raleigh/show/avatar-fire-and-ash): Fri 12/26 (2:00pm, 6:30pm)
+
 ### Mon 12/22 12:27pm
 * New movies: Safe 1995
 
