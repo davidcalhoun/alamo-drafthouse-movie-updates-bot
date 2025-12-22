@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 12/22 12:27pm
+* New movies: Safe 1995
+
+* New screenings: 
+    * [Safe 1995](https://drafthouse.com/raleigh/show/safe-1995): Tue 12/30 (12:00pm)
+
 ### Sat 12/20 3:28pm
 * New movies: THE WORST PERSON IN THE WORLD
 
