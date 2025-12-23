@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 12/23 4:26pm
+* New movies: We Bury the Dead
+
+* New screenings: 
+    * [We Bury The Dead](https://drafthouse.com/raleigh/show/we-bury-the-dead): Fri 1/2 (7:45pm), Sat 1/3 (7:45pm), Sun 1/4 (7:45pm)
+
 ### Tue 12/23 11:37am
 
 * New screenings: 
