@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 12/23 1:22pm
+* New movies: We Bury the Dead
+
+* New screenings: 
+    * [We Bury The Dead](https://drafthouse.com/los-angeles/show/we-bury-the-dead): Thu 1/1 (6:00pm), Sat 1/3 (7:30pm), Sun 1/4 (8:00pm), Mon 1/5 (7:30pm), Tue 1/6 (7:30pm), Wed 1/7 (7:30pm)
+
 ### Tue 12/23 7:26am
 * New movies: Dead Man's Wire
 
