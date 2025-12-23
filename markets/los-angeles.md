@@ -1,6 +1,47 @@
 # los-angeles
 
 ## Movie updates
+### Mon 12/22 5:59pm
+
+* New screenings: 
+    * [Avatar Fire And Ash](https://drafthouse.com/los-angeles/show/avatar-fire-and-ash): Mon 12/29 (3:00pm), Tue 12/30 (3:00pm)
+
+    * [Dr Seuss How The Grinch Stole Christmas 2000 25th Anniversary](https://drafthouse.com/los-angeles/show/dr-seuss-how-the-grinch-stole-christmas-2000-25th-anniversary): Wed 12/24 (9:50am), Thu 12/25 (10:00am)
+
+    * [Dust Bunny](https://drafthouse.com/los-angeles/show/dust-bunny): Wed 12/24 (6:15pm)
+
+    * [Ella Mccay](https://drafthouse.com/los-angeles/show/ella-mccay): Wed 12/24 (9:10am)
+
+    * [Five Nights At Freddys 2](https://drafthouse.com/los-angeles/show/five-nights-at-freddys-2): Wed 12/24 (7:45pm)
+
+    * [Hamnet](https://drafthouse.com/los-angeles/show/hamnet): Wed 12/24 (9:00am, 12:10pm)
+
+    * [Kill Bill The Whole Bloody Affair](https://drafthouse.com/los-angeles/show/kill-bill-the-whole-bloody-affair): Wed 12/24 (5:30pm), Thu 12/25 (6:30pm), Fri 12/26 (6:30pm), Sat 12/27 (7:00pm), Sun 12/28 (6:45pm), Mon 12/29 (7:00pm), Tue 12/30 (7:00pm), Wed 12/31 (5:30pm)
+
+    * [Marty Supreme](https://drafthouse.com/los-angeles/show/marty-supreme): Thu 12/25 (10:15am, 1:00pm, 2:00pm, 4:45pm, 5:45pm, 6:15pm, 8:30pm, 9:30pm, 10:00pm), Fri 12/26 (10:30am, 1:15pm, 2:15pm, 4:30pm, 5:00pm, 6:00pm, 8:15pm, 9:45pm), Sat 12/27 (10:30am, 1:30pm, 2:15pm, 5:15pm, 6:00pm, 9:00pm, 9:45pm), Sun 12/28 (12:00pm, 2:00pm, 3:45pm, 5:45pm, 7:30pm), Mon 12/29 (10:15am, 2:00pm, 5:30pm, 8:30pm, 9:30pm), Tue 12/30 (10:00am, 1:45pm, 5:30pm, 8:35pm, 9:15pm), Wed 12/31 (10:40am, 11:40am, 2:20pm, 3:20pm, 6:00pm)
+
+    * [Phantom Thread](https://drafthouse.com/los-angeles/show/phantom-thread): Sat 12/27 (6:00pm), Sun 12/28 (12:35pm)
+
+    * [Safe 1995](https://drafthouse.com/los-angeles/show/safe-1995): Sun 12/28 (4:00pm)
+
+    * [Stranger Things 5 The Finale](https://drafthouse.com/los-angeles/show/stranger-things-5-the-finale): Wed 12/31 (6:30pm)
+
+    * [The Apartment](https://drafthouse.com/los-angeles/show/the-apartment): Fri 12/26 (10:00am), Mon 12/29 (2:30pm), Tue 12/30 (5:15pm)
+
+    * [The Housemaid 2025](https://drafthouse.com/los-angeles/show/the-housemaid-2025): Wed 12/24 (11:15am, 2:35pm, 6:00pm), Thu 12/25 (9:30am, 12:50pm, 4:10pm, 7:30pm, 10:50pm), Fri 12/26 (9:15am, 12:35pm, 3:55pm, 7:15pm, 10:35pm), Sat 12/27 (9:15am, 12:35pm, 3:55pm, 7:15pm, 10:35pm), Sun 12/28 (9:15am, 12:35pm, 3:55pm, 7:15pm), Mon 12/29 (9:15am, 12:35pm, 3:55pm, 7:15pm, 10:35pm), Tue 12/30 (9:15am, 12:35pm, 3:55pm, 7:15pm, 10:35pm), Wed 12/31 (9:15am, 12:35pm, 3:55pm, 7:15pm)
+
+    * [The Night Of The Hunter](https://drafthouse.com/los-angeles/show/the-night-of-the-hunter): Fri 12/26 (1:45pm), Mon 12/29 (11:45am), Tue 12/30 (2:30pm)
+
+    * [The Secret Agent](https://drafthouse.com/los-angeles/show/the-secret-agent): Wed 12/24 (9:50am), Thu 12/25 (10:45am, 2:40pm), Fri 12/26 (10:45am, 2:40pm), Sat 12/27 (11:15am, 3:10pm), Sun 12/28 (11:00am, 2:55pm), Mon 12/29 (11:15am, 3:10pm), Tue 12/30 (11:15am, 3:10pm), Wed 12/31 (9:45am, 1:40pm)
+
+    * [Wake Up Dead Man A Knives Out Mystery](https://drafthouse.com/los-angeles/show/wake-up-dead-man-a-knives-out-mystery): Wed 12/24 (10:30am, 2:00pm)
+
+    * [When Harry Met Sally](https://drafthouse.com/los-angeles/show/when-harry-met-sally): Fri 12/26 (11:00am), Sat 12/27 (10:45am), Sun 12/28 (7:15pm), Mon 12/29 (5:45pm), Tue 12/30 (11:45am), Wed 12/31 (12:20pm)
+
+    * [Wicked For Good](https://drafthouse.com/los-angeles/show/wicked-for-good): Wed 12/24 (11:15am, 2:45pm), Thu 12/25 (11:15am, 2:45pm), Fri 12/26 (8:45pm), Sat 12/27 (9:20pm), Sun 12/28 (10:30am), Mon 12/29 (9:00pm), Tue 12/30 (10:15pm), Wed 12/31 (3:00pm)
+
+    * [Zootopia 2](https://drafthouse.com/los-angeles/show/zootopia-2): Wed 12/24 (10:45am, 1:45pm, 4:45pm)
+
 ### Thu 12/18 5:57pm
 * New movies: Crunchyroll Anime Nights Sneak Peek 3/16/2026, Fruits Basket -prelude- Dubbed, Zombie Land Saga: Yumeginga Paradise Dubbed
 
