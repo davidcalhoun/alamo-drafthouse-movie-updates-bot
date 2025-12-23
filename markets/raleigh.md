@@ -1,6 +1,29 @@
 # raleigh
 
 ## Movie updates
+### Mon 12/22 11:03pm
+
+* New screenings: 
+    * [Avatar Fire And Ash](https://drafthouse.com/raleigh/show/avatar-fire-and-ash): Wed 12/24 (11:30am, 1:00pm, 4:00pm, 5:30pm), Thu 12/25 (12:00pm, 1:00pm, 2:00pm, 8:00pm, 9:00pm), Fri 12/26 (12:00pm, 4:30pm, 9:00pm), Sat 12/27 (12:00pm, 4:30pm, 9:00pm), Sun 12/28 (1:05pm, 4:30pm, 5:30pm, 9:00pm), Mon 12/29 (1:35pm, 2:45pm, 6:30pm, 9:15pm), Tue 12/30 (12:30pm, 5:00pm, 6:00pm, 9:30pm, 9:45pm), Wed 12/31 (12:30pm, 1:40pm, 5:00pm, 6:05pm)
+
+    * [Eyes Wide Shut](https://drafthouse.com/raleigh/show/eyes-wide-shut): Wed 12/24 (10:45am)
+
+    * [Five Nights At Freddys 2](https://drafthouse.com/raleigh/show/five-nights-at-freddys-2): Wed 12/24 (10:15am), Thu 12/25 (10:05pm), Fri 12/26 (10:55pm), Sat 12/27 (9:15pm), Sun 12/28 (9:55pm), Mon 12/29 (9:35pm, 10:55pm), Tue 12/30 (10:30pm), Wed 12/31 (2:45pm)
+
+    * [Marty Supreme](https://drafthouse.com/raleigh/show/marty-supreme): Wed 12/24 (1:45pm, 3:30pm, 5:15pm, 7:15pm), Thu 12/25 (1:30pm, 4:30pm, 5:00pm, 5:30pm, 6:30pm, 8:30pm), Fri 12/26 (11:15am, 12:30pm, 3:30pm, 4:15pm, 7:00pm, 8:00pm, 10:30pm), Sat 12/27 (1:00pm, 1:30pm, 3:30pm, 4:30pm, 5:15pm, 7:00pm, 8:00pm, 9:45pm), Sun 12/28 (12:00pm, 1:30pm, 3:45pm, 5:00pm, 8:30pm), Mon 12/29 (12:45pm, 2:05pm, 4:15pm, 5:40pm, 8:00pm), Tue 12/30 (1:15pm, 2:15pm, 3:30pm, 4:45pm, 8:15pm), Wed 12/31 (12:45pm, 4:30pm, 5:35pm)
+
+    * [Song Sung Blue 2025](https://drafthouse.com/raleigh/show/song-sung-blue-2025): Mon 12/29 (12:15pm, 3:45pm, 6:00pm, 9:15pm), Tue 12/30 (12:15pm, 3:30pm, 6:45pm, 10:15pm), Wed 12/31 (11:15am, 2:45pm, 6:00pm)
+
+    * [The Housemaid 2025](https://drafthouse.com/raleigh/show/the-housemaid-2025): Wed 12/24 (10:15am, 12:50pm, 4:20pm, 7:35pm), Thu 12/25 (12:15pm, 2:45pm, 6:00pm, 9:15pm), Fri 12/26 (10:45am, 2:45pm, 6:15pm, 9:30pm), Sat 12/27 (12:15pm, 3:15pm, 6:30pm, 10:30pm), Sun 12/28 (11:20am, 2:35pm, 6:00pm, 9:30pm), Mon 12/29 (12:00pm, 3:15pm, 7:10pm, 10:30pm), Tue 12/30 (11:30am, 3:00pm, 6:30pm, 10:00pm), Wed 12/31 (11:45am, 3:00pm, 6:15pm)
+
+    * [The Night Of The Hunter](https://drafthouse.com/raleigh/show/the-night-of-the-hunter): Mon 12/29 (11:00am), Tue 12/30 (10:30am)
+
+    * [When Harry Met Sally](https://drafthouse.com/raleigh/show/when-harry-met-sally): Wed 12/31 (10:00am)
+
+    * [Wicked For Good](https://drafthouse.com/raleigh/show/wicked-for-good): Wed 12/24 (11:45am), Thu 12/25 (10:30am), Fri 12/26 (12:00pm), Sat 12/27 (11:35am), Sun 12/28 (11:50am), Mon 12/29 (10:35am), Tue 12/30 (10:40am), Wed 12/31 (11:20am)
+
+    * [Zootopia 2](https://drafthouse.com/raleigh/show/zootopia-2): Wed 12/24 (10:00am, 1:30pm, 4:05pm, 6:55pm), Thu 12/25 (11:55am, 3:45pm, 6:45pm, 9:40pm), Fri 12/26 (12:15pm, 3:10pm, 6:00pm, 9:00pm), Sat 12/27 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sun 12/28 (10:40am, 1:30pm, 3:15pm, 6:15pm, 9:15pm), Mon 12/29 (12:15pm, 3:05pm, 6:00pm, 9:00pm), Tue 12/30 (12:15pm, 3:10pm, 6:15pm, 9:05pm), Wed 12/31 (10:00am, 1:00pm, 3:50pm, 6:45pm)
+
 ### Mon 12/22 6:27pm
 
 * New screenings: 
