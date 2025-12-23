@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 12/23 7:26am
+* New movies: Dead Man's Wire
+
+* New screenings: 
+    * [Live Q A Dead Mans Wire](https://drafthouse.com/los-angeles/show/live-q-a-dead-mans-wire): Tue 1/6 (6:00pm)
+
 ### Mon 12/22 5:59pm
 
 * New screenings: 
