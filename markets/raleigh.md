@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 12/23 11:37am
+
+* New screenings: 
+    * [Livestream Q A Dead Mans Wire](https://drafthouse.com/raleigh/show/livestream-q-a-dead-mans-wire): Tue 1/6 (9:00pm)
+
 ### Tue 12/23 10:30am
 * New movies: Dead Man's Wire
 
