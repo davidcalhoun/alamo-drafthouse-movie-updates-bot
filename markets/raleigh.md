@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 12/24 3:31pm
+* New movies: Mystery Machine 1/5/2026
+
+* New screenings: 
+    * [Mystery Machine 1 5 2026](https://drafthouse.com/raleigh/show/mystery-machine-1-5-2026): Mon 1/5 (7:30pm)
+
 ### Tue 12/23 4:26pm
 * New movies: We Bury the Dead
 
