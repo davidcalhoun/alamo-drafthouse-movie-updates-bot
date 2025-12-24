@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 12/24 4:25pm
+* New movies: What Ever Happened to Baby Jane? 1991
+
+* New screenings: 
+    * [What Ever Happened To Baby Jane 1991](https://drafthouse.com/raleigh/show/what-ever-happened-to-baby-jane-1991): Mon 2/2 (10:15pm)
+
 ### Wed 12/24 3:31pm
 * New movies: Mystery Machine 1/5/2026
 
