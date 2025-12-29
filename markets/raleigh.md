@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Mon 12/29 9:31am
+* New movies: Primate, Is This Thing On?
+
+* New screenings: 
+    * [Is This Thing On](https://drafthouse.com/raleigh/show/is-this-thing-on): Thu 1/8 (6:15pm), Fri 1/9 (6:15pm), Sat 1/10 (6:15pm), Sun 1/11 (6:45pm)
+
+    * [Primate](https://drafthouse.com/raleigh/show/primate): Thu 1/8 (7:00pm), Fri 1/9 (6:45pm), Sat 1/10 (7:15pm), Sun 1/11 (7:15pm)
+
 ### Wed 12/24 4:25pm
 * New movies: What Ever Happened to Baby Jane? 1991
 
