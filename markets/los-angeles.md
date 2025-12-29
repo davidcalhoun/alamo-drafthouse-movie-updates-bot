@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 12/29 10:35am
+* New movies: Night Patrol
+
+* New screenings: 
+    * [Fantastic Fest Presents Night Patrol Advance Screening](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-night-patrol-advance-screening): Wed 1/7 (8:00pm)
+
 ### Mon 12/29 9:21am
 * New movies: Mystery Machine 1/5/2026
 
