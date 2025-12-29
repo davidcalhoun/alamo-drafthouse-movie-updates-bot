@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 12/29 6:27pm
+
+* New screenings: 
+    * [Avatar Fire And Ash](https://drafthouse.com/raleigh/show/avatar-fire-and-ash): Sun 1/4 (5:50pm)
+
 ### Mon 12/29 5:28pm
 
 * New screenings: 
