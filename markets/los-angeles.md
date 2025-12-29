@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Mon 12/29 2:23pm
+* New movies: What Ever Happened to Baby Jane? 1991, FRANKENHOOKER
+
+* New screenings: 
+    * [Frankenhooker](https://drafthouse.com/los-angeles/show/frankenhooker): Tue 2/3 (7:00pm)
+
+    * [Stranger Things 5 The Finale](https://drafthouse.com/los-angeles/show/stranger-things-5-the-finale): Wed 12/31 (8:00pm)
+
+    * [What Ever Happened To Baby Jane 1991](https://drafthouse.com/los-angeles/show/what-ever-happened-to-baby-jane-1991): Sat 1/31 (10:15pm)
+
 ### Mon 12/29 10:35am
 * New movies: Night Patrol
 
