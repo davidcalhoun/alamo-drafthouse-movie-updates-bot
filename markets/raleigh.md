@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 12/29 5:28pm
+
+* New screenings: 
+    * [Avatar Fire And Ash](https://drafthouse.com/raleigh/show/avatar-fire-and-ash): Fri 1/2 (4:30pm)
+
 ### Mon 12/29 9:31am
 * New movies: Primate, Is This Thing On?
 
