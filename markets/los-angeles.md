@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 12/29 9:21am
+* New movies: Mystery Machine 1/5/2026
+
+* New screenings: 
+    * [Mystery Machine 1 5 2026](https://drafthouse.com/los-angeles/show/mystery-machine-1-5-2026): Mon 1/5 (7:00pm)
+
 ### Mon 12/29 6:25am
 * New movies: Primate, Is This Thing On?
 
