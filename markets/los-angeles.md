@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Mon 12/29 6:25am
+* New movies: Primate, Is This Thing On?
+
+* New screenings: 
+    * [Is This Thing On](https://drafthouse.com/los-angeles/show/is-this-thing-on): Thu 1/8 (3:30pm, 6:45pm), Fri 1/9 (3:30pm, 6:45pm), Sat 1/10 (3:30pm, 6:45pm), Sun 1/11 (3:30pm, 6:45pm)
+
+    * [Primate](https://drafthouse.com/los-angeles/show/primate): Thu 1/8 (7:00pm), Fri 1/9 (5:00pm, 7:45pm), Sat 1/10 (5:00pm, 7:45pm), Sun 1/11 (5:00pm, 7:45pm)
+
 ### Tue 12/23 1:22pm
 * New movies: We Bury the Dead
 
