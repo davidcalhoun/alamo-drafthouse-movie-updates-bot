@@ -1,6 +1,39 @@
 # raleigh
 
 ## Movie updates
+### Tue 12/30 9:30am
+
+* New screenings: 
+    * [Anaconda 2025](https://drafthouse.com/raleigh/show/anaconda-2025): Sun 1/4 (10:15pm), Mon 1/5 (11:15am, 1:55pm, 4:35pm, 7:15pm, 10:00pm), Tue 1/6 (1:15pm, 4:15pm, 7:15pm, 10:10pm), Wed 1/7 (1:00pm, 3:55pm, 6:45pm, 9:35pm)
+
+    * [Avatar Fire And Ash](https://drafthouse.com/raleigh/show/avatar-fire-and-ash): Thu 1/1 (5:00pm), Sat 1/3 (7:00pm), Mon 1/5 (11:35am, 4:00pm, 7:00pm, 8:30pm), Tue 1/6 (11:00am, 3:30pm, 4:00pm, 8:00pm), Wed 1/7 (11:00am, 4:00pm, 8:00pm, 8:30pm)
+
+    * [Five Nights At Freddys 2](https://drafthouse.com/raleigh/show/five-nights-at-freddys-2): Mon 1/5 (10:25pm)
+
+    * [Greetings From Twin Peaks Twin Peaks Episodes 1 3](https://drafthouse.com/raleigh/show/greetings-from-twin-peaks-twin-peaks-episodes-1-3): Fri 1/2 (12:00pm), Sat 1/3 (10:45am)
+
+    * [Marty Supreme](https://drafthouse.com/raleigh/show/marty-supreme): Thu 1/1 (1:30pm, 2:15pm, 9:10pm), Fri 1/2 (12:30pm, 4:15pm, 8:00pm), Sun 1/4 (1:30pm, 5:00pm, 8:30pm, 10:00pm), Mon 1/5 (11:00am, 2:30pm, 3:25pm, 6:00pm, 9:30pm), Tue 1/6 (11:30am, 2:00pm, 3:00pm, 5:30pm, 6:15pm, 8:30pm, 9:45pm), Wed 1/7 (12:00pm, 2:25pm, 3:30pm, 4:30pm, 7:00pm, 10:30pm)
+
+    * [Song Sung Blue 2025](https://drafthouse.com/raleigh/show/song-sung-blue-2025): Thu 1/1 (11:45am, 3:00pm, 6:00pm, 9:15pm), Fri 1/2 (11:45am, 3:00pm, 6:30pm, 9:45pm), Sat 1/3 (11:15am, 2:35pm, 6:30pm, 9:10pm), Sun 1/4 (11:20am, 3:20pm, 6:35pm, 9:50pm), Mon 1/5 (12:55pm, 3:05pm, 6:20pm, 9:40pm), Tue 1/6 (11:15am, 2:35pm), Wed 1/7 (11:30am, 3:00pm, 6:30pm, 9:45pm)
+
+    * [Special Event Megalopolis New Years Day Celebration](https://drafthouse.com/raleigh/show/special-event-megalopolis-new-years-day-celebration): Thu 1/1 (3:15pm)
+
+    * [Stranger Things 5 The Finale](https://drafthouse.com/raleigh/show/stranger-things-5-the-finale): Thu 1/1 (12:00pm)
+
+    * [The Apartment](https://drafthouse.com/raleigh/show/the-apartment): Thu 1/1 (10:45am)
+
+    * [The Housemaid 2025](https://drafthouse.com/raleigh/show/the-housemaid-2025): Thu 1/1 (11:30am, 2:45pm, 6:00pm, 9:55pm), Fri 1/2 (11:00am, 2:45pm, 6:00pm, 9:00pm), Sat 1/3 (11:00am, 2:45pm, 6:00pm, 9:00pm), Sun 1/4 (12:00pm, 2:45pm, 6:00pm, 9:15pm), Mon 1/5 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Tue 1/6 (12:00pm, 3:55pm, 6:00pm, 9:15pm), Wed 1/7 (11:45am, 3:00pm, 6:30pm, 9:00pm)
+
+    * [The Plague](https://drafthouse.com/raleigh/show/the-plague): Thu 1/1 (9:00pm), Fri 1/2 (12:15pm, 3:15pm, 9:15pm), Sat 1/3 (12:00pm, 3:30pm, 9:15pm), Sun 1/4 (12:10pm, 3:15pm, 9:00pm), Mon 1/5 (1:00pm, 3:45pm, 6:30pm, 9:15pm), Tue 1/6 (1:00pm, 4:00pm, 6:45pm, 10:00pm), Wed 1/7 (1:00pm, 3:45pm, 6:15pm, 9:45pm)
+
+    * [The Spongebob Movie Search For Squarepants](https://drafthouse.com/raleigh/show/the-spongebob-movie-search-for-squarepants): Fri 1/2 (10:40am, 1:20pm, 4:00pm, 6:45pm, 9:00pm), Sat 1/3 (10:30am, 1:30pm, 5:25pm, 8:05pm, 9:00pm), Sun 1/4 (11:35am, 2:15pm, 5:00pm, 7:40pm, 10:25pm), Mon 1/5 (12:20pm, 4:10pm, 6:50pm, 9:30pm), Tue 1/6 (1:00pm, 3:45pm, 6:30pm, 9:15pm), Wed 1/7 (1:15pm, 4:15pm, 7:15pm, 10:00pm)
+
+    * [We Bury The Dead](https://drafthouse.com/raleigh/show/we-bury-the-dead): Thu 1/1 (6:45pm, 9:30pm), Fri 1/2 (11:50am, 2:15pm, 5:00pm, 10:30pm), Sat 1/3 (12:45pm, 2:15pm, 5:00pm, 10:30pm), Sun 1/4 (11:45am, 2:20pm, 5:00pm, 10:30pm), Mon 1/5 (11:20am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Tue 1/6 (1:15pm, 3:15pm, 7:15pm, 10:15pm), Wed 1/7 (11:30am, 2:05pm, 4:45pm, 7:30pm, 10:05pm)
+
+    * [Wicked For Good](https://drafthouse.com/raleigh/show/wicked-for-good): Sat 1/3 (11:55am), Sun 1/4 (11:00am), Mon 1/5 (12:00pm), Tue 1/6 (12:20pm), Wed 1/7 (12:45pm)
+
+    * [Zootopia 2](https://drafthouse.com/raleigh/show/zootopia-2): Thu 1/1 (12:15pm, 3:30pm, 6:20pm, 9:15pm), Fri 1/2 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sat 1/3 (11:35am, 3:20pm, 6:00pm, 9:45pm), Sun 1/4 (10:35am, 2:35pm, 6:00pm, 9:00pm), Mon 1/5 (12:00pm, 2:45pm, 6:00pm, 9:00pm), Tue 1/6 (12:10pm, 3:05pm, 6:00pm, 9:00pm), Wed 1/7 (12:20pm, 3:15pm, 6:15pm, 9:10pm)
+
 ### Mon 12/29 6:27pm
 
 * New screenings: 
