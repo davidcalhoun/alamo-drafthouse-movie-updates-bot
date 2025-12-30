@@ -1,6 +1,45 @@
 # los-angeles
 
 ## Movie updates
+### Mon 12/29 8:41pm
+
+* New screenings: 
+    * [Anaconda 2025](https://drafthouse.com/los-angeles/show/anaconda-2025): Fri 1/2 (10:45am, 1:40pm, 4:30pm, 7:20pm, 10:15pm), Sat 1/3 (10:45am, 1:40pm, 4:30pm, 7:20pm, 10:15pm), Sun 1/4 (10:45am, 1:40pm, 4:30pm, 7:20pm), Mon 1/5 (10:45am, 1:40pm, 4:30pm, 7:20pm, 10:15pm), Tue 1/6 (10:45am, 1:40pm, 4:30pm, 7:20pm, 10:15pm), Wed 1/7 (10:45am, 1:40pm, 4:30pm, 7:20pm, 10:15pm)
+
+    * [Army Of Darkness](https://drafthouse.com/los-angeles/show/army-of-darkness): Mon 1/5 (4:45pm), Wed 1/7 (10:15pm)
+
+    * [Avatar Fire And Ash](https://drafthouse.com/los-angeles/show/avatar-fire-and-ash): Fri 1/2 (9:45pm), Sat 1/3 (10:00pm), Sun 1/4 (12:10pm), Mon 1/5 (10:00am, 2:30pm, 9:45pm), Tue 1/6 (10:45am, 3:15pm, 7:45pm), Wed 1/7 (10:45am, 3:15pm, 7:45pm)
+
+    * [Evil Dead Ii](https://drafthouse.com/los-angeles/show/evil-dead-ii): Fri 1/2 (11:30pm), Mon 1/5 (10:40pm), Tue 1/6 (10:15pm), Wed 1/7 (11:00pm)
+
+    * [Greetings From Twin Peaks Twin Peaks Episodes 1 3](https://drafthouse.com/los-angeles/show/greetings-from-twin-peaks-twin-peaks-episodes-1-3): Fri 1/2 (11:15am), Sat 1/3 (8:00pm), Sun 1/4 (11:45am), Mon 1/5 (12:20pm)
+
+    * [Kill Bill The Whole Bloody Affair](https://drafthouse.com/los-angeles/show/kill-bill-the-whole-bloody-affair): Thu 1/1 (1:45pm)
+
+    * [Marty Supreme](https://drafthouse.com/los-angeles/show/marty-supreme): Thu 1/1 (11:15am), Fri 1/2 (10:00am, 11:30am, 12:20pm, 1:45pm, 3:15pm, 5:30pm, 7:00pm, 9:15pm, 10:45pm), Sat 1/3 (10:00am, 11:15am, 12:45pm, 1:45pm, 3:00pm, 5:30pm, 6:45pm, 9:15pm, 10:30pm), Sun 1/4 (10:00am, 11:00am, 1:45pm, 2:45pm, 5:30pm, 6:45pm), Mon 1/5 (11:00am, 11:15am, 2:45pm, 3:00pm, 6:45pm, 9:15pm, 10:00pm, 10:30pm), Tue 1/6 (10:00am, 12:30pm, 1:45pm, 4:15pm, 5:30pm, 8:00pm, 9:15pm), Wed 1/7 (10:00am, 11:00am, 12:00pm, 1:45pm, 2:45pm, 3:40pm, 5:30pm, 6:30pm, 9:15pm, 10:15pm)
+
+    * [No Other Choice](https://drafthouse.com/los-angeles/show/no-other-choice): Fri 1/2 (12:20pm, 3:50pm, 8:00pm, 10:40pm), Sat 1/3 (12:00pm, 3:00pm, 6:30pm, 10:00pm, 10:30pm), Sun 1/4 (12:00pm, 12:00pm, 3:30pm, 7:00pm), Mon 1/5 (12:15pm, 12:45pm, 4:15pm, 10:30pm), Tue 1/6 (12:30pm, 1:15pm, 10:00pm), Wed 1/7 (10:00am, 1:20pm, 4:40pm, 10:00pm)
+
+    * [Reservoir Dogs](https://drafthouse.com/los-angeles/show/reservoir-dogs): Fri 1/2 (9:30pm), Sat 1/3 (9:30pm), Wed 1/7 (4:15pm)
+
+    * [Song Sung Blue 2025](https://drafthouse.com/los-angeles/show/song-sung-blue-2025): Fri 1/2 (11:00am, 2:30pm, 6:00pm), Sat 1/3 (11:45am, 6:00pm), Sun 1/4 (11:45am, 6:00pm), Mon 1/5 (11:00am, 2:30pm, 6:00pm, 9:30pm), Tue 1/6 (11:00am, 2:30pm, 8:45pm), Wed 1/7 (11:00am, 2:30pm, 8:45pm)
+
+    * [Special Event Megalopolis New Years Day Celebration](https://drafthouse.com/los-angeles/show/special-event-megalopolis-new-years-day-celebration): Thu 1/1 (12:15pm, 9:15pm)
+
+    * [Stranger Things 5 The Finale](https://drafthouse.com/los-angeles/show/stranger-things-5-the-finale): Thu 1/1 (10:30am, 11:45am, 8:45pm, 11:00pm)
+
+    * [The Housemaid 2025](https://drafthouse.com/los-angeles/show/the-housemaid-2025): Fri 1/2 (9:15am, 12:35pm, 3:55pm, 7:15pm, 10:35pm), Sat 1/3 (9:15am, 12:35pm, 3:55pm, 7:15pm, 10:35pm), Sun 1/4 (9:15am, 12:35pm, 3:55pm, 7:15pm), Mon 1/5 (12:15pm, 3:40pm, 7:00pm, 10:20pm), Tue 1/6 (12:15pm, 3:40pm, 7:00pm, 10:20pm), Wed 1/7 (12:15pm, 3:40pm, 7:00pm, 10:20pm)
+
+    * [The Plague](https://drafthouse.com/los-angeles/show/the-plague): Mon 1/5 (4:25pm, 7:15pm, 10:05pm), Tue 1/6 (7:15pm, 10:05pm), Wed 1/7 (7:15pm, 10:05pm)
+
+    * [The Secret Agent](https://drafthouse.com/los-angeles/show/the-secret-agent): Thu 1/1 (10:15am, 2:10pm)
+
+    * [The Spongebob Movie Search For Squarepants](https://drafthouse.com/los-angeles/show/the-spongebob-movie-search-for-squarepants): Fri 1/2 (11:00am, 1:45pm, 4:00pm, 6:45pm), Sat 1/3 (10:00am, 11:15am, 3:15pm, 7:15pm), Sun 1/4 (9:30am, 10:45am, 3:10pm, 6:30pm), Mon 1/5 (11:00am, 1:45pm, 3:45pm, 6:30pm), Tue 1/6 (11:00am, 1:45pm, 4:30pm, 6:00pm), Wed 1/7 (11:00am, 1:45pm, 4:30pm, 6:00pm)
+
+    * [Twilight](https://drafthouse.com/los-angeles/show/twilight): Wed 1/7 (1:00pm)
+
+    * [We Bury The Dead](https://drafthouse.com/los-angeles/show/we-bury-the-dead): Thu 1/1 (11:15pm), Fri 1/2 (10:45am, 1:30pm, 4:15pm, 7:00pm, 10:30pm), Sat 1/3 (2:00pm, 4:45pm, 10:15pm), Sun 1/4 (1:30pm, 4:15pm), Mon 1/5 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Tue 1/6 (11:15am, 2:00pm, 4:45pm, 10:15pm), Wed 1/7 (11:15am, 2:00pm, 4:45pm, 10:15pm)
+
 ### Mon 12/29 5:59pm
 * New movies: The Chronology of Water
 
