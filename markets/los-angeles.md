@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 12/30 8:32am
+* New movies: The Night Manager
+
+* New screenings: 
+    * [Free Victory Screening The Night Manager](https://drafthouse.com/los-angeles/show/free-victory-screening-the-night-manager): Mon 1/5 (7:00pm)
+
 ### Mon 12/29 8:41pm
 
 * New screenings: 
