@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 12/29 5:59pm
+* New movies: The Chronology of Water
+
+* New screenings: 
+    * [The Chronology Of Water](https://drafthouse.com/los-angeles/show/the-chronology-of-water): Fri 1/9 (4:00pm, 7:15pm, 10:30pm), Sat 1/10 (4:00pm, 7:15pm, 10:30pm), Sun 1/11 (4:00pm, 7:15pm)
+
 ### Mon 12/29 2:23pm
 * New movies: What Ever Happened to Baby Jane? 1991, FRANKENHOOKER
 
