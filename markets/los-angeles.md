@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Tue 12/30 6:00pm
+
+* New screenings: 
+    * [Song Sung Blue 2025](https://drafthouse.com/los-angeles/show/song-sung-blue-2025): Fri 1/2 (9:30pm), Sat 1/3 (2:30pm, 9:15pm), Sun 1/4 (2:30pm), Tue 1/6 (6:00pm), Wed 1/7 (6:00pm)
+
+    * [The Secret Agent](https://drafthouse.com/los-angeles/show/the-secret-agent): Sun 1/4 (11:40am), Mon 1/5 (12:00pm)
+
 ### Tue 12/30 8:32am
 * New movies: The Night Manager
 
