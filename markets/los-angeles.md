@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 1/2 9:21am
+* New movies: 28 Years Later: The Bone Temple
+
+* New screenings: 
+    * [Livestream Q A 28 Years Later The Bone Temple](https://drafthouse.com/los-angeles/show/livestream-q-a-28-years-later-the-bone-temple): Thu 1/8 (5:00pm)
+
 ### Fri 1/2 7:26am
 * New movies: Night Patrol
 
