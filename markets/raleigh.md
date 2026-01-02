@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 1/2 10:30am
+* New movies: Night Patrol
+
+* New screenings: 
+    * [Night Patrol](https://drafthouse.com/raleigh/show/night-patrol): Sat 1/17 (9:45pm), Sun 1/18 (9:45pm)
+
 ### Fri 1/2 9:30am
 * New movies: 28 Years Later: The Bone Temple, Mercy, 28 Years Later: The Bone Temple
 
