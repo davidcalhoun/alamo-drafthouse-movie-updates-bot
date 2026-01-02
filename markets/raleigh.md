@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Fri 1/2 9:30am
+* New movies: 28 Years Later: The Bone Temple, Mercy, 28 Years Later: The Bone Temple
+
+* New screenings: 
+    * [28 Years Later The Bone Temple](https://drafthouse.com/raleigh/show/28-years-later-the-bone-temple): Thu 1/15 (7:00pm, 10:00pm), Fri 1/16 (6:00pm, 9:00pm), Sat 1/17 (6:00pm, 9:00pm), Sun 1/18 (7:00pm, 10:00pm)
+
+    * [Livestream Q A 28 Years Later The Bone Temple](https://drafthouse.com/raleigh/show/livestream-q-a-28-years-later-the-bone-temple): Thu 1/8 (8:00pm)
+
+    * [Mercy](https://drafthouse.com/raleigh/show/mercy): Thu 1/22 (3:45pm, 7:15pm), Fri 1/23 (4:00pm, 7:15pm), Sat 1/24 (7:15pm, 10:30pm), Sun 1/25 (7:15pm, 10:30pm)
+
 ### Tue 12/30 11:03pm
 
 * New screenings: 
