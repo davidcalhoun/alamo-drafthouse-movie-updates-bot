@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 1/2 10:35am
+* New movies: 28 Years Later: The Bone Temple, Mercy
+
+* New screenings: 
+    * [28 Years Later The Bone Temple](https://drafthouse.com/los-angeles/show/28-years-later-the-bone-temple): Thu 1/15 (5:00pm, 8:00pm, 11:00pm), Fri 1/16 (7:45pm, 10:45pm), Sat 1/17 (7:45pm, 10:45pm), Sun 1/18 (4:45pm, 7:45pm)
+
+    * [Mercy](https://drafthouse.com/los-angeles/show/mercy): Thu 1/22 (5:00pm, 7:45pm), Fri 1/23 (5:00pm, 7:45pm), Sat 1/24 (5:00pm, 7:45pm), Sun 1/25 (5:00pm, 7:45pm)
+
 ### Fri 1/2 9:21am
 * New movies: 28 Years Later: The Bone Temple
 
