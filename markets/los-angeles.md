@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 1/2 7:26am
+* New movies: Night Patrol
+
+* New screenings: 
+    * [Night Patrol](https://drafthouse.com/los-angeles/show/night-patrol): Fri 1/16 (10:40pm), Mon 1/19 (9:15pm)
+
 ### Tue 12/30 6:00pm
 
 * New screenings: 
