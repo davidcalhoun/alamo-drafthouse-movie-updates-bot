@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Mon 1/5 2:26pm
+* New movies: Send Help, Dead Man's Wire
+
+* New screenings: 
+    * [Dead Mans Wire](https://drafthouse.com/raleigh/show/dead-mans-wire): Thu 1/15 (7:15pm), Fri 1/16 (6:45pm), Sat 1/17 (7:15pm), Sun 1/18 (7:15pm)
+
+    * [Send Help](https://drafthouse.com/raleigh/show/send-help): Thu 1/29 (7:00pm, 10:00pm), Fri 1/30 (6:00pm, 9:00pm), Sat 1/31 (6:00pm, 9:00pm), Sun 2/1 (6:30pm, 9:30pm)
+
 ### Fri 1/2 10:30am
 * New movies: Night Patrol
 
