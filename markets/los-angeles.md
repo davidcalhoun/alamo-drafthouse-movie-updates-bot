@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Mon 1/5 1:25pm
+
+* New screenings: 
+    * [28 Years Later The Bone Temple](https://drafthouse.com/los-angeles/show/28-years-later-the-bone-temple): Fri 1/16 (4:45pm), Sat 1/17 (4:45pm)
+
+    * [The Voice Of Hind Rajab](https://drafthouse.com/los-angeles/show/the-voice-of-hind-rajab): Mon 1/12 (7:00pm)
+
 ### Fri 1/2 10:35am
 * New movies: 28 Years Later: The Bone Temple, Mercy
 
