@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 1/6 11:40am
+* New movies: Dead Man's Wire
+
+* New screenings: 
+    * [Dead Mans Wire](https://drafthouse.com/raleigh/show/dead-mans-wire): Thu 1/15 (7:15pm), Fri 1/16 (6:45pm), Sat 1/17 (7:15pm), Sun 1/18 (7:15pm)
+
 ### Tue 1/6 10:32am
 * New movies: Send Help
 
