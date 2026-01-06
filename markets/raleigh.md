@@ -1,6 +1,34 @@
 # raleigh
 
 ## Movie updates
+### Mon 1/5 9:22pm
+* New movies: Greenland 2: Migration
+
+* New screenings: 
+    * [Anaconda 2025](https://drafthouse.com/raleigh/show/anaconda-2025): Thu 1/8 (3:25pm, 6:15pm, 9:15pm), Fri 1/9 (1:00pm, 3:50pm, 6:45pm, 9:30pm), Sat 1/10 (12:45pm, 3:45pm, 6:30pm, 9:30pm), Sun 1/11 (12:45pm, 3:45pm, 6:30pm), Mon 1/12 (4:45pm, 7:35pm, 10:40pm), Tue 1/13 (1:10pm, 4:00pm, 6:45pm), Wed 1/14 (4:00pm, 6:45pm, 9:35pm)
+
+    * [Avatar Fire And Ash](https://drafthouse.com/raleigh/show/avatar-fire-and-ash): Thu 1/8 (4:00pm, 8:30pm), Fri 1/9 (12:45pm, 5:15pm, 9:45pm), Sat 1/10 (12:45pm, 5:15pm, 9:45pm), Sun 1/11 (12:15pm, 5:00pm), Mon 1/12 (4:20pm, 8:45pm), Tue 1/13 (1:00pm, 5:30pm), Wed 1/14 (3:00pm, 7:45pm)
+
+    * [Greenland 2 Migration](https://drafthouse.com/raleigh/show/greenland-2-migration): Thu 1/8 (2:15pm, 5:00pm, 7:45pm, 10:30pm), Fri 1/9 (1:25pm, 4:10pm, 7:00pm, 10:35pm), Sat 1/10 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Sun 1/11 (1:15pm, 4:15pm, 7:15pm), Mon 1/12 (3:45pm, 6:45pm, 9:30pm), Tue 1/13 (1:30pm, 4:30pm, 7:30pm), Wed 1/14 (4:25pm, 7:15pm, 10:00pm)
+
+    * [Is This Thing On](https://drafthouse.com/raleigh/show/is-this-thing-on): Thu 1/8 (3:50pm, 9:25pm), Fri 1/9 (1:00pm, 3:00pm, 9:30pm), Sat 1/10 (12:20pm, 3:00pm, 9:25pm), Sun 1/11 (12:45pm, 4:00pm), Mon 1/12 (3:15pm, 6:45pm, 10:00pm), Tue 1/13 (11:40am, 3:00pm, 6:15pm), Wed 1/14 (3:15pm, 6:45pm, 10:00pm)
+
+    * [Marty Supreme](https://drafthouse.com/raleigh/show/marty-supreme): Thu 1/8 (2:30pm, 6:00pm, 9:35pm), Fri 1/9 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sat 1/10 (11:30am, 3:30pm, 6:45pm, 10:15pm), Sun 1/11 (11:30am, 3:15pm, 6:15pm), Mon 1/12 (3:30pm, 6:30pm, 9:35pm), Tue 1/13 (12:15pm, 3:45pm, 6:45pm), Wed 1/14 (2:45pm, 6:15pm, 9:45pm)
+
+    * [No Other Choice](https://drafthouse.com/raleigh/show/no-other-choice): Thu 1/8 (4:30pm), Fri 1/9 (12:30pm, 3:00pm, 3:50pm, 7:15pm, 10:00pm), Sat 1/10 (11:00am, 2:30pm, 7:00pm, 9:30pm, 10:30pm), Sun 1/11 (11:00am, 2:30pm, 7:00pm), Mon 1/12 (2:30pm, 4:00pm, 7:20pm, 9:45pm), Tue 1/13 (11:15am, 12:00pm, 2:40pm, 3:30pm, 6:00pm), Wed 1/14 (2:30pm, 6:05pm, 10:05pm)
+
+    * [Primate](https://drafthouse.com/raleigh/show/primate): Thu 1/8 (9:45pm), Fri 1/9 (12:20pm, 4:10pm, 9:20pm), Sat 1/10 (1:15pm, 4:00pm, 10:00pm), Sun 1/11 (1:00pm, 3:40pm), Mon 1/12 (3:45pm, 7:00pm, 10:15pm), Tue 1/13 (1:20pm, 4:00pm, 7:30pm), Wed 1/14 (4:45pm, 7:30pm, 10:15pm)
+
+    * [The Housemaid 2025](https://drafthouse.com/raleigh/show/the-housemaid-2025): Thu 1/8 (3:45pm, 7:00pm, 10:15pm), Fri 1/9 (12:00pm, 3:15pm, 6:30pm, 10:00pm), Sat 1/10 (11:20am, 2:45pm, 6:00pm, 9:15pm), Sun 1/11 (11:30am, 2:45pm, 6:00pm), Mon 1/12 (2:45pm, 6:00pm, 9:15pm), Tue 1/13 (11:45am, 3:15pm, 6:00pm), Wed 1/14 (2:45pm, 6:00pm, 9:15pm)
+
+    * [The Plague](https://drafthouse.com/raleigh/show/the-plague): Thu 1/8 (10:35pm), Fri 1/9 (10:10pm), Sat 1/10 (9:45pm), Mon 1/12 (9:45pm), Wed 1/14 (10:20pm)
+
+    * [The Spongebob Movie Search For Squarepants](https://drafthouse.com/raleigh/show/the-spongebob-movie-search-for-squarepants): Thu 1/8 (2:30pm, 3:30pm, 5:15pm), Fri 1/9 (2:00pm, 4:45pm), Sat 1/10 (1:00pm, 4:00pm), Sun 1/11 (1:00pm, 4:00pm), Mon 1/12 (4:15pm), Tue 1/13 (12:30pm, 4:15pm), Wed 1/14 (2:30pm)
+
+    * [We Bury The Dead](https://drafthouse.com/raleigh/show/we-bury-the-dead): Thu 1/8 (8:00pm), Fri 1/9 (7:30pm), Sat 1/10 (6:45pm), Sun 1/11 (6:45pm), Mon 1/12 (7:00pm), Tue 1/13 (7:15pm), Wed 1/14 (5:20pm)
+
+    * [Zootopia 2](https://drafthouse.com/raleigh/show/zootopia-2): Thu 1/8 (3:00pm, 6:00pm, 9:00pm), Fri 1/9 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sat 1/10 (12:15pm, 3:15pm, 6:15pm, 9:20pm), Sun 1/11 (12:15pm, 3:15pm, 6:15pm), Mon 1/12 (3:00pm, 6:00pm, 9:00pm), Tue 1/13 (1:00pm, 3:00pm, 6:30pm), Wed 1/14 (3:30pm, 6:30pm, 9:25pm)
+
 ### Mon 1/5 2:26pm
 * New movies: Send Help, Dead Man's Wire
 
