@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 1/6 10:32am
+* New movies: Send Help
+
+* New screenings: 
+    * [Send Help](https://drafthouse.com/raleigh/show/send-help): Thu 1/29 (7:00pm, 10:00pm), Fri 1/30 (6:00pm, 9:00pm), Sat 1/31 (6:00pm, 9:00pm), Sun 2/1 (6:30pm, 9:30pm)
+
 ### Mon 1/5 9:22pm
 * New movies: Greenland 2: Migration
 
