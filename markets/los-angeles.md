@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 1/6 7:27am
+* New movies: Send Help, Send Help
+
+* New screenings: 
+    * [Advance Screening Send Help Survivor Experience](https://drafthouse.com/los-angeles/show/advance-screening-send-help-survivor-experience): Sat 1/24 (5:00pm)
+
+    * [Send Help](https://drafthouse.com/los-angeles/show/send-help): Thu 1/29 (4:45pm, 7:45pm), Fri 1/30 (4:45pm, 7:45pm), Sat 1/31 (4:45pm, 7:45pm), Sun 2/1 (4:45pm, 7:45pm)
+
 ### Mon 1/5 6:01pm
 * New movies: Father Mother Sister Brother, Twin Peaks, Real Genius, The Secret Agent
 
