@@ -1,6 +1,50 @@
 # los-angeles
 
 ## Movie updates
+### Mon 1/5 6:01pm
+* New movies: Father Mother Sister Brother, Twin Peaks, Real Genius, The Secret Agent
+
+* New screenings: 
+    * [Anaconda 2025](https://drafthouse.com/los-angeles/show/anaconda-2025): Thu 1/8 (11:15am, 2:05pm, 4:55pm, 7:45pm, 11:15pm), Fri 1/9 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Sat 1/10 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Sun 1/11 (11:15am, 2:00pm, 3:30pm, 7:30pm), Mon 1/12 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Tue 1/13 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Wed 1/14 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm)
+
+    * [Avatar Fire And Ash](https://drafthouse.com/los-angeles/show/avatar-fire-and-ash): Thu 1/8 (11:00am, 3:30pm, 8:00pm), Fri 1/9 (11:00am, 3:30pm, 8:00pm), Sat 1/10 (11:00am, 3:30pm, 8:00pm), Sun 1/11 (11:00am, 3:00pm, 6:15pm), Mon 1/12 (11:00am, 3:30pm, 8:00pm), Tue 1/13 (11:00am, 3:30pm, 8:00pm), Wed 1/14 (11:00am, 3:30pm, 8:00pm)
+
+    * [Darkman](https://drafthouse.com/los-angeles/show/darkman): Mon 1/12 (10:45pm), Tue 1/13 (9:50pm)
+
+    * [Father Mother Sister Brother](https://drafthouse.com/los-angeles/show/father-mother-sister-brother): Fri 1/9 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 1/10 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sun 1/11 (1:15pm, 4:15pm, 7:15pm), Mon 1/12 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Tue 1/13 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Wed 1/14 (12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
+    * [Greetings From Twin Peaks Twin Peaks Episodes 1 3](https://drafthouse.com/los-angeles/show/greetings-from-twin-peaks-twin-peaks-episodes-1-3): Thu 1/8 (12:00pm)
+
+    * [Greetings From Twin Peaks Twin Peaks Episodes 4 6](https://drafthouse.com/los-angeles/show/greetings-from-twin-peaks-twin-peaks-episodes-4-6): Fri 1/9 (2:30pm), Sat 1/10 (6:00pm), Sun 1/11 (11:30am), Mon 1/12 (1:00pm), Wed 1/14 (3:30pm)
+
+    * [Is This Thing On](https://drafthouse.com/los-angeles/show/is-this-thing-on): Thu 1/8 (10:00pm), Fri 1/9 (12:15pm, 10:00pm), Sat 1/10 (12:15pm, 10:00pm), Sun 1/11 (12:15pm), Mon 1/12 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Tue 1/13 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Wed 1/14 (12:15pm, 3:30pm, 6:45pm, 10:00pm)
+
+    * [Marty Supreme](https://drafthouse.com/los-angeles/show/marty-supreme): Thu 1/8 (11:00am, 12:00pm, 2:45pm, 3:45pm, 6:30pm, 7:30pm, 8:30pm, 10:15pm, 10:35pm), Fri 1/9 (11:00am, 12:00pm, 2:45pm, 3:35pm, 6:00pm, 6:30pm, 10:15pm), Sat 1/10 (11:00am, 12:00pm, 2:45pm, 6:30pm, 7:00pm, 10:15pm), Sun 1/11 (11:00am, 12:00pm, 2:45pm, 6:30pm, 7:00pm), Mon 1/12 (11:00am, 12:00pm, 2:45pm, 3:35pm, 4:15pm, 6:30pm, 9:40pm, 10:15pm), Tue 1/13 (11:00am, 12:00pm, 2:45pm, 6:30pm, 7:00pm, 10:15pm), Wed 1/14 (12:00pm, 12:30pm, 4:15pm, 7:00pm, 10:20pm)
+
+    * [Moonage Daydream](https://drafthouse.com/los-angeles/show/moonage-daydream): Tue 1/13 (11:45am)
+
+    * [No Other Choice](https://drafthouse.com/los-angeles/show/no-other-choice): Thu 1/8 (11:30am, 1:00pm, 3:00pm, 5:00pm, 6:30pm, 8:45pm, 10:00pm), Fri 1/9 (11:15am, 11:45am, 2:45pm, 6:15pm, 7:10pm, 9:45pm, 10:35pm), Sat 1/10 (11:15am, 12:00pm, 2:45pm, 3:35pm, 6:15pm, 9:00pm, 9:45pm, 10:35pm), Sun 1/11 (11:15am, 2:45pm, 3:35pm, 6:15pm, 7:30pm), Mon 1/12 (12:00pm, 3:30pm, 7:10pm, 8:00pm, 10:35pm), Tue 1/13 (11:15am, 12:30pm, 2:45pm, 3:35pm, 6:15pm, 9:45pm, 10:35pm), Wed 1/14 (11:15am, 12:45pm, 2:45pm, 3:35pm, 6:15pm, 9:45pm, 10:35pm)
+
+    * [Primate](https://drafthouse.com/los-angeles/show/primate): Thu 1/8 (9:45pm), Fri 1/9 (11:30am, 2:15pm, 10:30pm), Sat 1/10 (11:30am, 2:15pm, 10:30pm), Sun 1/11 (11:30am, 2:15pm), Mon 1/12 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Tue 1/13 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Wed 1/14 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm)
+
+    * [Real Genius](https://drafthouse.com/los-angeles/show/real-genius): Thu 1/8 (4:30pm)
+
+    * [Song Sung Blue 2025](https://drafthouse.com/los-angeles/show/song-sung-blue-2025): Thu 1/8 (12:00pm)
+
+    * [The Chronology Of Water](https://drafthouse.com/los-angeles/show/the-chronology-of-water): Fri 1/9 (12:45pm), Sat 1/10 (12:45pm), Sun 1/11 (12:45pm), Mon 1/12 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Tue 1/13 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Wed 1/14 (12:45pm, 4:00pm, 7:15pm, 10:30pm)
+
+    * [The Housemaid 2025](https://drafthouse.com/los-angeles/show/the-housemaid-2025): Thu 1/8 (12:15pm, 3:40pm, 7:00pm, 10:20pm), Fri 1/9 (11:45am, 3:00pm, 6:15pm, 9:30pm), Sat 1/10 (11:45am, 3:00pm, 6:15pm, 9:30pm), Sun 1/11 (11:45am, 3:00pm, 6:15pm), Mon 1/12 (11:45am, 3:00pm, 6:15pm, 9:30pm), Tue 1/13 (11:45am, 3:00pm, 6:15pm, 9:30pm), Wed 1/14 (11:45am, 3:00pm, 6:15pm, 9:30pm)
+
+    * [The Plague](https://drafthouse.com/los-angeles/show/the-plague): Thu 1/8 (1:15pm, 4:10pm, 7:30pm, 10:20pm), Sat 1/10 (6:15pm), Sun 1/11 (4:45pm), Tue 1/13 (3:15pm), Wed 1/14 (10:00pm)
+
+    * [The Secret Agent](https://drafthouse.com/los-angeles/show/the-secret-agent): Thu 1/8 (1:15pm)
+
+    * [The Twilight Saga New Moon](https://drafthouse.com/los-angeles/show/the-twilight-saga-new-moon): Wed 1/14 (12:10pm)
+
+    * [Three Days Of The Condor](https://drafthouse.com/los-angeles/show/three-days-of-the-condor): Fri 1/9 (11:30am), Mon 1/12 (1:15pm), Wed 1/14 (4:15pm)
+
+    * [We Bury The Dead](https://drafthouse.com/los-angeles/show/we-bury-the-dead): Thu 1/8 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Fri 1/9 (3:15pm, 9:30pm), Sat 1/10 (3:30pm, 9:30pm), Sun 1/11 (6:15pm), Mon 1/12 (4:30pm), Tue 1/13 (8:40pm), Wed 1/14 (10:30pm)
+
 ### Mon 1/5 1:25pm
 
 * New screenings: 
