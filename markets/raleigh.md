@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 1/7 9:33am
+* New movies: Stray Kids : The dominATE Experience
+
+* New screenings: 
+    * [Stray Kids The Dominate Experience](https://drafthouse.com/raleigh/show/stray-kids-the-dominate-experience): Fri 2/6 (6:00pm), Sat 2/7 (6:30pm), Mon 2/9 (6:30pm)
+
 ### Tue 1/6 11:40am
 * New movies: Dead Man's Wire
 
