@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 1/7 6:28am
+* New movies: STRAY KIDS : THE DOMINATE EXPERIENCE
+
+* New screenings: 
+    * [Stray Kids The Dominate Experience](https://drafthouse.com/los-angeles/show/stray-kids-the-dominate-experience): Fri 2/6 (6:00pm), Sat 2/7 (3:30pm), Mon 2/9 (7:20pm)
+
 ### Wed 1/7 5:41am
 * New movies: Clika
 
