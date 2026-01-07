@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 1/7 5:41am
+* New movies: Clika
+
+* New screenings: 
+    * [Clika](https://drafthouse.com/los-angeles/show/clika): Thu 1/22 (4:15pm, 6:45pm), Fri 1/23 (4:15pm, 6:45pm), Sat 1/24 (4:15pm, 6:45pm), Sun 1/25 (4:15pm, 6:45pm)
+
 ### Tue 1/6 8:34am
 * New movies: Dead Man's Wire
 
