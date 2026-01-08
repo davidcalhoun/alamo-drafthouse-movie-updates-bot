@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 1/8 2:25pm
+* New movies: F*** My Son!
+
+* New screenings: 
+    * [F My Son](https://drafthouse.com/los-angeles/show/f-my-son): Sat 1/31 (10:00pm)
+
 ### Wed 1/7 6:28am
 * New movies: STRAY KIDS : THE DOMINATE EXPERIENCE
 
