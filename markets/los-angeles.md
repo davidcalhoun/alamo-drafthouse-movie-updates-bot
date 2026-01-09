@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 1/9 8:33am
+* New movies: Opening Night
+
+* New screenings: 
+    * [Guest Selects Opening Night](https://drafthouse.com/los-angeles/show/guest-selects-opening-night): Wed 1/28 (6:00pm)
+
 ### Fri 1/9 6:28am
 * New movies: Ciao! Manhattan, Josie and the Pussycats, This is Spinal Tap
 
