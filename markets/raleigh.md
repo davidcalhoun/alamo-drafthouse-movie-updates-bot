@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 1/9 10:33am
+* New movies: Opening Night
+
+* New screenings: 
+    * [Guest Selects Opening Night](https://drafthouse.com/raleigh/show/guest-selects-opening-night): Fri 1/23 (6:45pm)
+
 ### Fri 1/9 9:33am
 * New movies: Ciao! Manhattan, Josie and the Pussycats, This is Spinal Tap
 
