@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Fri 1/9 9:33am
+* New movies: Ciao! Manhattan, Josie and the Pussycats, This is Spinal Tap
+
+* New screenings: 
+    * [Guest Selects Ciao Manhattan](https://drafthouse.com/raleigh/show/guest-selects-ciao-manhattan): Tue 2/10 (7:00pm)
+
+    * [Guest Selects Josie And The Pussycats](https://drafthouse.com/raleigh/show/guest-selects-josie-and-the-pussycats): Wed 2/4 (7:00pm)
+
+    * [Guest Selects This Is Spinal Tap](https://drafthouse.com/raleigh/show/guest-selects-this-is-spinal-tap): Fri 1/16 (7:15pm)
+
 ### Wed 1/7 9:33am
 * New movies: Stray Kids : The dominATE Experience
 
