@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 1/9 11:39am
+* New movies: F*** My Son!
+
+* New screenings: 
+    * [F My Son](https://drafthouse.com/raleigh/show/f-my-son): Sat 1/31 (10:00pm)
+
 ### Fri 1/9 10:33am
 * New movies: Opening Night
 
