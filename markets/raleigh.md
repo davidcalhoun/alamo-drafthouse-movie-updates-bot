@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 1/9 4:29pm
+* New movies: The Moment
+
+* New screenings: 
+    * [The Moment](https://drafthouse.com/raleigh/show/the-moment): Thu 2/5 (7:00pm), Fri 2/6 (6:30pm), Sat 2/7 (7:00pm), Sun 2/8 (6:00pm)
+
 ### Fri 1/9 11:39am
 * New movies: F*** My Son!
 
