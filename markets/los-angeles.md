@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Fri 1/9 6:28am
+* New movies: Ciao! Manhattan, Josie and the Pussycats, This is Spinal Tap
+
+* New screenings: 
+    * [Guest Selects Ciao Manhattan](https://drafthouse.com/los-angeles/show/guest-selects-ciao-manhattan): Fri 2/6 (7:20pm)
+
+    * [Guest Selects Josie And The Pussycats](https://drafthouse.com/los-angeles/show/guest-selects-josie-and-the-pussycats): Sun 2/1 (11:30am)
+
+    * [Guest Selects This Is Spinal Tap](https://drafthouse.com/los-angeles/show/guest-selects-this-is-spinal-tap): Fri 1/16 (6:45pm)
+
 ### Thu 1/8 2:25pm
 * New movies: F*** My Son!
 
