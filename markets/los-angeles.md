@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Sat 1/10 12:31am
+* New movies: Funeral Parade of Roses
+
+* New screenings: 
+    * [Weird Wednesday Funeral Parade Of Roses](https://drafthouse.com/los-angeles/show/weird-wednesday-funeral-parade-of-roses): Wed 1/14 (7:20pm)
+
 ### Fri 1/9 8:33am
 * New movies: Opening Night
 
