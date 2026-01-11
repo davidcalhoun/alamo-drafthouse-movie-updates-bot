@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Sat 1/10 9:28pm
+* New movies: Fruits Basket -prelude- Dubbed
+
+* New screenings: 
+    * [Fruits Basket Prelude Dubbed](https://drafthouse.com/los-angeles/show/fruits-basket-prelude-dubbed): Mon 2/16 (6:00pm)
+
 ### Sat 1/10 12:31am
 * New movies: Funeral Parade of Roses
 
