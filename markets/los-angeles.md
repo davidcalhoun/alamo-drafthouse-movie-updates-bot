@@ -1,6 +1,58 @@
 # los-angeles
 
 ## Movie updates
+### Mon 1/12 3:19pm
+* New movies: All You Need Is Kill Dubbed, All You Need Is Kill Subtitled, Steel Magnolias
+
+* New screenings: 
+    * [28 Years Later The Bone Temple](https://drafthouse.com/los-angeles/show/28-years-later-the-bone-temple): Thu 1/15 (2:00pm, 2:45pm, 5:45pm, 7:00pm, 8:45pm, 9:00pm, 10:00pm), Fri 1/16 (10:45am, 1:20pm, 1:45pm, 3:45pm, 3:45pm, 4:20pm, 6:45pm, 9:45pm), Sat 1/17 (12:00pm, 1:45pm, 3:00pm, 3:45pm, 3:45pm, 6:00pm, 6:45pm, 6:45pm, 7:15pm, 9:45pm, 9:45pm), Sun 1/18 (10:45am, 11:45am, 1:45pm, 2:45pm, 3:45pm, 3:45pm, 5:45pm, 6:45pm, 6:45pm), Mon 1/19 (12:00pm, 1:45pm, 3:00pm, 3:45pm, 3:45pm, 4:45pm, 6:45pm, 6:45pm, 7:45pm, 9:45pm, 9:45pm, 10:45pm), Tue 1/20 (1:00pm, 1:45pm, 3:45pm, 4:00pm, 4:45pm, 6:45pm, 7:00pm, 7:45pm, 9:45pm, 10:00pm, 10:45pm), Wed 1/21 (11:45am, 1:45pm, 3:45pm, 3:45pm, 4:45pm, 6:45pm, 6:45pm, 7:45pm, 9:45pm, 9:45pm, 10:45pm)
+
+    * [All You Need Is Kill Dubbed](https://drafthouse.com/los-angeles/show/all-you-need-is-kill-dubbed): Fri 1/16 (7:00pm), Sat 1/17 (9:40pm), Sun 1/18 (7:00pm), Mon 1/19 (9:40pm), Tue 1/20 (7:00pm), Wed 1/21 (9:40pm)
+
+    * [All You Need Is Kill Subtitled](https://drafthouse.com/los-angeles/show/all-you-need-is-kill-subtitled): Fri 1/16 (9:40pm), Sat 1/17 (7:00pm), Mon 1/19 (7:00pm), Tue 1/20 (9:40pm), Wed 1/21 (7:00pm)
+
+    * [Anaconda 2025](https://drafthouse.com/los-angeles/show/anaconda-2025): Thu 1/15 (11:55am), Fri 1/16 (1:00pm), Sat 1/17 (11:00am), Sun 1/18 (1:00pm), Mon 1/19 (1:00pm), Tue 1/20 (1:00pm), Wed 1/21 (1:00pm)
+
+    * [Avatar Fire And Ash](https://drafthouse.com/los-angeles/show/avatar-fire-and-ash): Thu 1/15 (12:00pm, 4:30pm)
+
+    * [Dead Mans Wire](https://drafthouse.com/los-angeles/show/dead-mans-wire): Thu 1/15 (10:15pm), Fri 1/16 (1:15pm, 10:15pm), Sat 1/17 (1:15pm, 10:15pm), Sun 1/18 (1:15pm), Mon 1/19 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Tue 1/20 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Wed 1/21 (1:15pm, 4:15pm, 7:15pm, 10:15pm)
+
+    * [Father Mother Sister Brother](https://drafthouse.com/los-angeles/show/father-mother-sister-brother): Thu 1/15 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Fri 1/16 (12:45pm), Sat 1/17 (12:45pm), Sun 1/18 (12:45pm), Mon 1/19 (12:45pm), Tue 1/20 (1:00pm), Wed 1/21 (12:45pm)
+
+    * [Greetings From Twin Peaks Twin Peaks Episode 7 9](https://drafthouse.com/los-angeles/show/greetings-from-twin-peaks-twin-peaks-episode-7-9): Sat 1/17 (11:15am, 9:00pm), Mon 1/19 (12:00pm), Tue 1/20 (9:00pm), Wed 1/21 (2:40pm)
+
+    * [Guest Selects This Is Spinal Tap](https://drafthouse.com/los-angeles/show/guest-selects-this-is-spinal-tap): Tue 1/20 (10:20pm), Wed 1/21 (10:15pm)
+
+    * [Is This Thing On](https://drafthouse.com/los-angeles/show/is-this-thing-on): Thu 1/15 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Fri 1/16 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Sat 1/17 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Sun 1/18 (12:15pm, 3:30pm, 6:45pm), Mon 1/19 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Tue 1/20 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Wed 1/21 (1:00pm, 4:15pm, 7:30pm, 10:45pm)
+
+    * [Marty Supreme](https://drafthouse.com/los-angeles/show/marty-supreme): Thu 1/15 (11:00am, 12:00pm, 2:45pm, 6:30pm, 10:15pm), Fri 1/16 (11:00am, 2:45pm, 6:30pm, 10:15pm), Sat 1/17 (11:00am, 2:45pm, 6:30pm, 10:00pm), Sun 1/18 (11:00am, 2:45pm, 6:30pm), Mon 1/19 (11:00am, 2:45pm, 6:30pm, 10:00pm), Tue 1/20 (11:15am, 3:00pm, 6:45pm, 10:00pm), Wed 1/21 (11:00am, 2:45pm, 6:30pm, 10:00pm)
+
+    * [Moonage Daydream](https://drafthouse.com/los-angeles/show/moonage-daydream): Thu 1/15 (3:45pm)
+
+    * [Night Patrol](https://drafthouse.com/los-angeles/show/night-patrol): Sat 1/17 (10:15pm), Wed 1/21 (10:00pm)
+
+    * [No Other Choice](https://drafthouse.com/los-angeles/show/no-other-choice): Thu 1/15 (11:00am, 12:15pm, 12:45pm, 2:30pm, 3:35pm, 6:00pm, 9:30pm), Fri 1/16 (11:15am, 2:45pm, 6:15pm, 9:45pm), Sat 1/17 (11:15am, 2:45pm, 6:15pm, 9:45pm), Sun 1/18 (11:15am, 2:45pm, 6:15pm), Mon 1/19 (11:15am, 2:45pm, 6:15pm, 9:45pm), Tue 1/20 (11:15am, 2:45pm, 6:15pm, 9:45pm), Wed 1/21 (11:15am, 2:45pm, 6:15pm, 9:45pm)
+
+    * [Primate](https://drafthouse.com/los-angeles/show/primate): Thu 1/15 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Fri 1/16 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Sat 1/17 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Sun 1/18 (11:45am, 2:30pm, 5:15pm, 8:00pm), Mon 1/19 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Tue 1/20 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Wed 1/21 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm)
+
+    * [Steel Magnolias](https://drafthouse.com/los-angeles/show/steel-magnolias): Fri 1/16 (12:40pm), Tue 1/20 (12:15pm)
+
+    * [The Best Little Whorehouse In Texas](https://drafthouse.com/los-angeles/show/the-best-little-whorehouse-in-texas): Fri 1/16 (3:45pm), Tue 1/20 (3:20pm)
+
+    * [The Chronology Of Water](https://drafthouse.com/los-angeles/show/the-chronology-of-water): Fri 1/16 (12:30pm, 3:45pm), Sat 1/17 (12:30pm, 3:45pm), Sun 1/18 (12:30pm, 3:45pm), Mon 1/19 (12:30pm, 3:45pm), Tue 1/20 (12:30pm, 3:45pm), Wed 1/21 (12:30pm, 3:45pm)
+
+    * [The Housemaid 2025](https://drafthouse.com/los-angeles/show/the-housemaid-2025): Thu 1/15 (12:00pm)
+
+    * [The Plague](https://drafthouse.com/los-angeles/show/the-plague): Thu 1/15 (10:00pm)
+
+    * [The Quick And The Dead 1995](https://drafthouse.com/los-angeles/show/the-quick-and-the-dead-1995): Mon 1/19 (10:45pm)
+
+    * [The Testament Of Ann Lee](https://drafthouse.com/los-angeles/show/the-testament-of-ann-lee): Mon 1/19 (10:15pm), Tue 1/20 (10:30pm), Wed 1/21 (10:15pm)
+
+    * [The Twilight Saga Eclipse](https://drafthouse.com/los-angeles/show/the-twilight-saga-eclipse): Wed 1/21 (1:00pm)
+
+    * [We Bury The Dead](https://drafthouse.com/los-angeles/show/we-bury-the-dead): Thu 1/15 (7:15pm)
+
 ### Mon 1/12 9:26am
 * New movies: Chase Atlantic: Lost in Heaven
 
