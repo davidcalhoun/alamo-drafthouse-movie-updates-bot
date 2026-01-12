@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 1/12 9:26am
+* New movies: Chase Atlantic: Lost in Heaven
+
+* New screenings: 
+    * [Chase Atlantic Lost In Heaven](https://drafthouse.com/los-angeles/show/chase-atlantic-lost-in-heaven): Wed 2/18 (7:30pm), Sat 2/21 (3:30pm)
+
 ### Sat 1/10 9:28pm
 * New movies: Fruits Basket -prelude- Dubbed
 
