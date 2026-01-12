@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 1/12 12:32pm
+* New movies: Chase Atlantic: Lost in Heaven
+
+* New screenings: 
+    * [Chase Atlantic Lost In Heaven](https://drafthouse.com/raleigh/show/chase-atlantic-lost-in-heaven): Wed 2/18 (6:30pm), Sat 2/21 (3:00pm)
+
 ### Fri 1/9 4:29pm
 * New movies: The Moment
 
