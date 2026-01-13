@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 1/13 10:35am
+
+* New screenings: 
+    * [Zombie Land Saga Yumeginga Paradise Dubbed](https://drafthouse.com/raleigh/show/zombie-land-saga-yumeginga-paradise-dubbed): Mon 1/19 (7:00pm)
+
 ### Mon 1/12 9:21pm
 * New movies: All You Need Is Kill Subtitled, All You Need Is Kill Dubbed
 
