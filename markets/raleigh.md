@@ -1,6 +1,38 @@
 # raleigh
 
 ## Movie updates
+### Mon 1/12 9:21pm
+* New movies: All You Need Is Kill Subtitled, All You Need Is Kill Dubbed
+
+* New screenings: 
+    * [28 Years Later The Bone Temple](https://drafthouse.com/raleigh/show/28-years-later-the-bone-temple): Thu 1/15 (4:00pm), Fri 1/16 (12:00pm, 3:00pm, 4:15pm), Sat 1/17 (11:45am, 2:45pm), Sun 1/18 (1:00pm, 4:00pm), Mon 1/19 (12:00pm, 3:00pm, 6:00pm), Tue 1/20 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Wed 1/21 (3:30pm, 4:00pm, 6:30pm, 10:10pm)
+
+    * [9 To 5](https://drafthouse.com/raleigh/show/9-to-5): Mon 1/19 (1:00pm)
+
+    * [All You Need Is Kill Dubbed](https://drafthouse.com/raleigh/show/all-you-need-is-kill-dubbed): Thu 1/15 (10:20pm), Fri 1/16 (9:45pm), Sat 1/17 (9:50pm), Sun 1/18 (10:35pm), Tue 1/20 (10:05pm), Wed 1/21 (10:30pm)
+
+    * [All You Need Is Kill Subtitled](https://drafthouse.com/raleigh/show/all-you-need-is-kill-subtitled): Thu 1/15 (7:45pm), Fri 1/16 (6:45pm), Sat 1/17 (7:15pm), Sun 1/18 (8:00pm), Mon 1/19 (7:45pm), Tue 1/20 (7:30pm), Wed 1/21 (7:55pm)
+
+    * [Anaconda 2025](https://drafthouse.com/raleigh/show/anaconda-2025): Thu 1/15 (2:00pm), Fri 1/16 (1:00pm), Sat 1/17 (1:25pm), Sun 1/18 (12:00pm), Mon 1/19 (2:00pm), Tue 1/20 (1:30pm), Wed 1/21 (2:10pm)
+
+    * [Avatar Fire And Ash](https://drafthouse.com/raleigh/show/avatar-fire-and-ash): Thu 1/15 (4:15pm, 8:00pm, 9:00pm), Fri 1/16 (11:00am, 3:20pm, 7:45pm), Sat 1/17 (11:10am, 2:30pm, 6:15pm), Sun 1/18 (12:35pm, 4:10pm, 8:30pm), Mon 1/19 (1:45pm, 6:15pm), Tue 1/20 (11:45am, 4:10pm, 8:30pm), Wed 1/21 (3:00pm, 7:30pm)
+
+    * [Dead Mans Wire](https://drafthouse.com/raleigh/show/dead-mans-wire): Thu 1/15 (4:15pm, 10:05pm), Fri 1/16 (11:45am, 3:35pm, 9:35pm), Sat 1/17 (12:30pm, 4:25pm, 10:05pm), Sun 1/18 (1:30pm, 4:25pm, 10:15pm), Mon 1/19 (12:45pm, 3:40pm, 6:30pm), Tue 1/20 (1:45pm, 4:40pm, 7:30pm, 10:20pm), Wed 1/21 (4:25pm, 6:45pm, 9:35pm)
+
+    * [Greenland 2 Migration](https://drafthouse.com/raleigh/show/greenland-2-migration): Thu 1/15 (3:15pm, 6:15pm, 9:00pm), Fri 1/16 (12:30pm, 4:30pm, 7:15pm, 10:00pm), Sat 1/17 (12:15pm, 4:00pm, 6:30pm, 9:15pm), Sun 1/18 (1:10pm, 3:55pm, 6:45pm, 9:35pm), Mon 1/19 (1:15pm, 4:00pm, 7:00pm), Tue 1/20 (1:05pm, 3:50pm, 6:45pm, 9:30pm), Wed 1/21 (3:55pm, 6:45pm, 9:40pm)
+
+    * [Is This Thing On](https://drafthouse.com/raleigh/show/is-this-thing-on): Thu 1/15 (4:40pm, 9:30pm), Fri 1/16 (3:40pm, 9:10pm), Sat 1/17 (4:10pm, 10:35pm), Sun 1/18 (4:55pm, 9:00pm), Mon 1/19 (4:40pm), Tue 1/20 (4:25pm, 9:15pm), Wed 1/21 (4:50pm, 9:10pm)
+
+    * [Marty Supreme](https://drafthouse.com/raleigh/show/marty-supreme): Thu 1/15 (3:15pm, 6:45pm, 10:15pm), Fri 1/16 (12:30pm, 2:35pm, 6:15pm, 9:15pm), Sat 1/17 (12:55pm, 3:15pm, 7:10pm, 10:00pm), Sun 1/18 (12:20pm, 2:40pm, 6:15pm, 9:00pm), Mon 1/19 (12:30pm, 4:15pm, 7:45pm), Tue 1/20 (12:00pm, 2:25pm, 6:00pm, 9:35pm), Wed 1/21 (3:10pm, 6:15pm, 9:45pm)
+
+    * [No Other Choice](https://drafthouse.com/raleigh/show/no-other-choice): Thu 1/15 (2:30pm, 4:40pm, 6:00pm, 9:30pm), Fri 1/16 (12:15pm, 12:45pm, 3:40pm, 7:00pm, 10:20pm), Sat 1/17 (12:15pm, 3:40pm, 7:00pm, 10:20pm), Sun 1/18 (2:00pm, 5:30pm, 6:00pm, 9:30pm), Mon 1/19 (1:15pm, 4:40pm, 8:00pm), Tue 1/20 (11:30am, 12:35pm, 3:00pm, 6:45pm, 10:10pm), Wed 1/21 (2:35pm, 6:00pm, 9:20pm)
+
+    * [Primate](https://drafthouse.com/raleigh/show/primate): Thu 1/15 (3:30pm, 6:15pm, 9:00pm), Fri 1/16 (1:00pm, 4:00pm, 6:30pm, 9:45pm), Sat 1/17 (12:40pm, 3:25pm, 6:45pm, 10:15pm), Sun 1/18 (1:00pm, 3:45pm, 6:30pm, 9:15pm), Mon 1/19 (1:45pm, 4:30pm, 7:15pm), Tue 1/20 (11:45am, 3:40pm, 6:25pm, 9:00pm), Wed 1/21 (3:40pm, 7:15pm, 9:55pm)
+
+    * [The Housemaid 2025](https://drafthouse.com/raleigh/show/the-housemaid-2025): Thu 1/15 (2:45pm, 6:00pm, 9:15pm), Fri 1/16 (1:15pm, 2:40pm, 6:30pm, 9:25pm), Sat 1/17 (12:45pm, 3:00pm, 6:45pm, 10:00pm), Sun 1/18 (12:05pm, 3:20pm, 6:35pm, 9:50pm), Mon 1/19 (1:00pm, 4:15pm, 7:30pm), Tue 1/20 (12:05pm, 3:45pm, 7:00pm, 10:15pm), Wed 1/21 (2:45pm, 6:00pm, 9:20pm)
+
+    * [Zootopia 2](https://drafthouse.com/raleigh/show/zootopia-2): Thu 1/15 (3:35pm, 6:30pm), Fri 1/16 (11:45am, 3:30pm, 6:15pm), Sat 1/17 (11:25am, 3:30pm, 4:15pm), Sun 1/18 (11:50am, 3:00pm, 6:00pm), Mon 1/19 (12:30pm, 3:30pm, 6:30pm), Tue 1/20 (12:50pm, 3:20pm, 6:15pm), Wed 1/21 (3:15pm, 6:15pm)
+
 ### Mon 1/12 12:32pm
 * New movies: Chase Atlantic: Lost in Heaven
 
