@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Mon 1/12 5:59pm
+* New movies: Dead Man's Wire
+
+* New screenings: 
+    * [28 Years Later The Bone Temple](https://drafthouse.com/los-angeles/show/28-years-later-the-bone-temple): Fri 1/16 (10:15pm)
+
+    * [Live Q A Dead Mans Wire](https://drafthouse.com/los-angeles/show/live-q-a-dead-mans-wire): Fri 1/16 (6:45pm)
+
 ### Mon 1/12 3:19pm
 * New movies: All You Need Is Kill Dubbed, All You Need Is Kill Subtitled, Steel Magnolias
 
