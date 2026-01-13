@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 1/13 1:43pm
+* New movies: Arco
+
+* New screenings: 
+    * [Arco](https://drafthouse.com/raleigh/show/arco): Thu 1/29 (6:45pm), Fri 1/30 (6:45pm), Sat 1/31 (6:45pm), Sun 2/1 (6:45pm)
+
 ### Tue 1/13 11:43am
 * New movies: Twenty One Pilots: More Than We Ever Imagined
 
