@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 1/13 8:36am
+* New movies: Twenty One Pilots: More Than We Ever Imagined
+
+* New screenings: 
+    * [Twenty One Pilots More Than We Ever Imagined](https://drafthouse.com/los-angeles/show/twenty-one-pilots-more-than-we-ever-imagined): Thu 2/26 (7:20pm), Fri 2/27 (7:20pm), Sat 2/28 (6:30pm)
+
 ### Mon 1/12 5:59pm
 * New movies: Dead Man's Wire
 
