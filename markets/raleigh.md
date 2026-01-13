@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 1/13 2:27pm
+* New movies: Pearl
+
+* New screenings: 
+    * [Terror Tuesday Pearl](https://drafthouse.com/raleigh/show/terror-tuesday-pearl): Tue 1/27 (9:30pm)
+
 ### Tue 1/13 1:43pm
 * New movies: Arco
 
