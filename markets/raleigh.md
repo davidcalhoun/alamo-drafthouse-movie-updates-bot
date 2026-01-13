@@ -1,6 +1,26 @@
 # raleigh
 
 ## Movie updates
+### Tue 1/13 11:43am
+* New movies: Twenty One Pilots: More Than We Ever Imagined
+
+* New screenings: 
+    * [Avatar Fire And Ash](https://drafthouse.com/raleigh/show/avatar-fire-and-ash): Mon 1/19 (6:15pm)
+
+    * [Dead Mans Wire](https://drafthouse.com/raleigh/show/dead-mans-wire): Mon 1/19 (6:30pm)
+
+    * [Marty Supreme](https://drafthouse.com/raleigh/show/marty-supreme): Mon 1/19 (7:45pm)
+
+    * [Primate](https://drafthouse.com/raleigh/show/primate): Mon 1/19 (7:15pm)
+
+    * [The Housemaid 2025](https://drafthouse.com/raleigh/show/the-housemaid-2025): Mon 1/19 (7:30pm)
+
+    * [The Voice Of Hind Rajab](https://drafthouse.com/raleigh/show/the-voice-of-hind-rajab): Sat 1/31 (7:00pm), Sun 2/1 (3:30pm, 6:00pm)
+
+    * [Twenty One Pilots More Than We Ever Imagined](https://drafthouse.com/raleigh/show/twenty-one-pilots-more-than-we-ever-imagined): Thu 2/26 (7:00pm), Fri 2/27 (6:30pm), Sat 2/28 (6:45pm)
+
+    * [Zootopia 2](https://drafthouse.com/raleigh/show/zootopia-2): Mon 1/19 (6:30pm)
+
 ### Tue 1/13 10:35am
 
 * New screenings: 
