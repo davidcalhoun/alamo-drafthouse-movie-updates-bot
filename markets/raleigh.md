@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Wed 1/14 10:33am
+* New movies: Wuthering Heights 2026, Wuthering Heights 2026, Wuthering Heights 2026
+
+* New screenings: 
+    * [Alamo Drafthouse Movie Book Club Wuthering Heights 2026](https://drafthouse.com/raleigh/show/alamo-drafthouse-movie-book-club-wuthering-heights-2026): Sat 2/21 (12:00pm)
+
+    * [Costume Screening Wuthering Heights 2026](https://drafthouse.com/raleigh/show/costume-screening-wuthering-heights-2026): Thu 2/12 (7:00pm)
+
+    * [Wuthering Heights 2026](https://drafthouse.com/raleigh/show/wuthering-heights-2026): Thu 2/12 (3:35pm), Fri 2/13 (11:15am, 2:35pm, 6:00pm, 9:20pm), Sat 2/14 (11:15am, 2:35pm, 6:00pm, 9:20pm), Sun 2/15 (11:15am, 2:35pm, 6:00pm)
+
 ### Tue 1/13 2:27pm
 * New movies: Pearl
 
