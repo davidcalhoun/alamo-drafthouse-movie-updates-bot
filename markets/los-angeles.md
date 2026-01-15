@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Thu 1/15 11:27am
+* New movies: Arco, Shelter 2026, Whistle, Whistle
+
+* New screenings: 
+    * [Arco](https://drafthouse.com/los-angeles/show/arco): Fri 1/30 (4:20pm, 7:00pm), Sat 1/31 (4:50pm, 7:30pm), Sun 2/1 (5:20pm, 8:00pm)
+
+    * [Fantastic Fest Presents Whistle Advance Screening](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-whistle-advance-screening): Wed 1/28 (9:30pm)
+
+    * [Shelter 2026](https://drafthouse.com/los-angeles/show/shelter-2026): Thu 1/29 (7:00pm), Fri 1/30 (3:30pm, 6:30pm), Sat 1/31 (3:30pm, 6:30pm), Sun 2/1 (3:30pm, 6:30pm)
+
+    * [Whistle](https://drafthouse.com/los-angeles/show/whistle): Sat 2/7 (9:45pm), Sun 2/8 (7:15pm), Mon 2/9 (9:15pm)
+
 ### Wed 1/14 8:36am
 * New movies: Wuthering Heights 2026, Wuthering Heights 2026, Wuthering Heights 2026
 
