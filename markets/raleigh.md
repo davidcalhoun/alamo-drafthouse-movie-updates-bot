@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 1/15 10:35am
+* New movies: Shelter 2026
+
+* New screenings: 
+    * [Shelter 2026](https://drafthouse.com/raleigh/show/shelter-2026): Thu 1/29 (7:30pm), Fri 1/30 (7:30pm), Sat 1/31 (7:30pm), Sun 2/1 (7:15pm)
+
 ### Thu 1/15 5:35am
 * New movies: Patty Hearst
 
