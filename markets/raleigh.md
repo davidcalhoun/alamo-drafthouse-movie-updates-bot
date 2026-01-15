@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 1/15 5:35am
+* New movies: Patty Hearst
+
+* New screenings: 
+    * [Weird Wednesday Patty Hearst](https://drafthouse.com/raleigh/show/weird-wednesday-patty-hearst): Wed 1/28 (10:15pm)
+
 ### Wed 1/14 10:33am
 * New movies: Wuthering Heights 2026, Wuthering Heights 2026, Wuthering Heights 2026
 
