@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 1/15 12:30pm
+* New movies: OBEX, TALES FROM THE CRYPT: DEMON KNIGHT
+
+* New screenings: 
+    * [Obex](https://drafthouse.com/los-angeles/show/obex): Sat 2/7 (10:15pm), Wed 2/11 (10:00pm)
+
+    * [Terror Tuesday Tales From The Crypt Demon Knight](https://drafthouse.com/los-angeles/show/terror-tuesday-tales-from-the-crypt-demon-knight): Tue 2/10 (9:30pm)
+
 ### Thu 1/15 11:27am
 * New movies: Arco, Shelter 2026, Whistle, Whistle
 
