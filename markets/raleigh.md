@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 1/16 12:32pm
+* New movies: Honey Bunch
+
+* New screenings: 
+    * [Honey Bunch](https://drafthouse.com/raleigh/show/honey-bunch): Mon 1/26 (8:00pm)
+
 ### Thu 1/15 10:35am
 * New movies: Shelter 2026
 
