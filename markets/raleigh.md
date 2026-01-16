@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 1/16 3:30pm
+
+* New screenings: 
+    * [28 Years Later The Bone Temple](https://drafthouse.com/raleigh/show/28-years-later-the-bone-temple): Sat 1/17 (7:00pm)
+
 ### Fri 1/16 12:32pm
 * New movies: Honey Bunch
 
