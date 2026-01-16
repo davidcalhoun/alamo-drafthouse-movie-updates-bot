@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 1/16 9:27am
+* New movies: Honey Bunch
+
+* New screenings: 
+    * [Honey Bunch](https://drafthouse.com/los-angeles/show/honey-bunch): Mon 1/26 (10:30pm)
+
 ### Thu 1/15 12:30pm
 * New movies: OBEX, TALES FROM THE CRYPT: DEMON KNIGHT
 
