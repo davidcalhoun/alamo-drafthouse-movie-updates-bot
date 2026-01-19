@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 1/19 2:25pm
+* New movies: 9 to 5
+
+* New screenings: 
+    * [9 To 5](https://drafthouse.com/los-angeles/show/9-to-5): Mon 1/19 (4:15pm)
+
 ### Fri 1/16 9:27am
 * New movies: Honey Bunch
 
