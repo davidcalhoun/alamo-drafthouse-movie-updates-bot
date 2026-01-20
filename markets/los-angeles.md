@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 1/20 9:33am
+* New movies: AURORA: What Happened to the Earth?
+
+* New screenings: 
+    * [Aurora What Happened To The Earth](https://drafthouse.com/los-angeles/show/aurora-what-happened-to-the-earth): Wed 3/4 (7:20pm), Sat 3/7 (3:30pm)
+
 ### Tue 1/20 5:50am
 * New movies: The Moment
 
