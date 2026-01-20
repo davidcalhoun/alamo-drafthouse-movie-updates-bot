@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 1/20 4:29pm
+* New movies: Dracula 2026
+
+* New screenings: 
+    * [Advance Screening Dracula 2026 Early Access](https://drafthouse.com/raleigh/show/advance-screening-dracula-2026-early-access): Wed 2/4 (6:00pm)
+
 ### Tue 1/20 12:38pm
 * New movies: AURORA: What Happened to the Earth?
 
