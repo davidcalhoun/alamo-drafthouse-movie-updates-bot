@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 1/20 5:50am
+* New movies: The Moment
+
+* New screenings: 
+    * [Livestream Q A The Moment](https://drafthouse.com/los-angeles/show/livestream-q-a-the-moment): Tue 2/3 (6:00pm)
+
 ### Mon 1/19 2:25pm
 * New movies: 9 to 5
 
