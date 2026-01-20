@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 1/20 9:40am
+* New movies: The Moment
+
+* New screenings: 
+    * [Livestream Q A The Moment](https://drafthouse.com/raleigh/show/livestream-q-a-the-moment): Tue 2/3 (9:00pm)
+
 ### Fri 1/16 3:30pm
 
 * New screenings: 
