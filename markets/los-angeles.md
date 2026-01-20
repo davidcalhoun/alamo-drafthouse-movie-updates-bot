@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 1/20 1:25pm
+* New movies: Dracula 2026
+
+* New screenings: 
+    * [Advance Screening Dracula 2026 Early Access](https://drafthouse.com/los-angeles/show/advance-screening-dracula-2026-early-access): Wed 2/4 (7:00pm)
+
 ### Tue 1/20 9:33am
 * New movies: AURORA: What Happened to the Earth?
 
