@@ -1,6 +1,42 @@
 # raleigh
 
 ## Movie updates
+### Tue 1/20 6:31pm
+* New movies: The Testament of Ann Lee, One Battle After Another, Sentimental Value, Wicked: For Good, Hamnet, SINNERS
+
+* New screenings: 
+    * [28 Years Later The Bone Temple](https://drafthouse.com/raleigh/show/28-years-later-the-bone-temple): Thu 1/22 (4:00pm, 6:45pm, 9:45pm, 10:15pm), Fri 1/23 (12:15pm, 3:45pm, 7:00pm, 10:00pm), Sat 1/24 (12:30pm, 3:45pm, 7:00pm, 10:00pm), Sun 1/25 (12:30pm, 3:45pm, 6:50pm), Mon 1/26 (3:45pm, 6:50pm, 10:00pm), Tue 1/27 (12:30pm, 3:45pm, 6:45pm, 9:45pm), Wed 1/28 (3:45pm, 6:45pm, 9:45pm)
+
+    * [Avatar Fire And Ash](https://drafthouse.com/raleigh/show/avatar-fire-and-ash): Thu 1/22 (3:15pm, 7:45pm), Fri 1/23 (11:00am, 3:30pm, 8:00pm), Sat 1/24 (11:00am, 3:30pm, 8:00pm), Sun 1/25 (12:00pm, 4:30pm), Mon 1/26 (3:30pm, 7:50pm), Tue 1/27 (11:00am, 3:30pm, 8:00pm), Wed 1/28 (3:30pm, 8:00pm)
+
+    * [Dead Mans Wire](https://drafthouse.com/raleigh/show/dead-mans-wire): Thu 1/22 (4:15pm, 7:15pm, 10:30pm), Fri 1/23 (12:30pm, 4:30pm, 7:30pm, 10:30pm), Sat 1/24 (1:00pm, 4:30pm, 7:30pm, 10:30pm), Sun 1/25 (1:00pm, 4:45pm, 7:30pm), Mon 1/26 (4:30pm, 7:30pm, 10:30pm), Tue 1/27 (1:00pm, 4:30pm, 7:30pm, 10:30pm), Wed 1/28 (4:30pm, 7:30pm, 10:30pm)
+
+    * [Greenland 2 Migration](https://drafthouse.com/raleigh/show/greenland-2-migration): Fri 1/23 (11:30am), Sat 1/24 (11:30am), Sun 1/25 (2:30pm), Mon 1/26 (11:00pm)
+
+    * [Hamnet](https://drafthouse.com/raleigh/show/hamnet): Fri 1/23 (12:45pm), Tue 1/27 (12:00pm)
+
+    * [Marty Supreme](https://drafthouse.com/raleigh/show/marty-supreme): Thu 1/22 (2:45pm, 5:30pm, 6:45pm, 10:00pm), Fri 1/23 (12:45pm, 2:45pm, 6:30pm, 10:15pm), Sat 1/24 (12:45pm, 2:45pm, 6:30pm, 10:15pm), Sun 1/25 (12:45pm, 2:45pm, 6:30pm), Mon 1/26 (2:45pm, 6:30pm, 10:15pm), Tue 1/27 (12:45pm, 2:45pm, 7:00pm, 10:15pm), Wed 1/28 (2:45pm, 7:00pm, 10:15pm)
+
+    * [Mercy](https://drafthouse.com/raleigh/show/mercy): Thu 1/22 (10:15pm), Fri 1/23 (12:00pm, 10:00pm), Sat 1/24 (12:15pm, 4:00pm, 10:15pm), Sun 1/25 (12:15pm, 4:00pm), Mon 1/26 (4:45pm, 7:15pm, 10:30pm), Tue 1/27 (12:00pm, 4:00pm, 7:15pm, 10:15pm), Wed 1/28 (4:00pm, 7:15pm, 10:00pm)
+
+    * [No Other Choice](https://drafthouse.com/raleigh/show/no-other-choice): Thu 1/22 (2:30pm, 3:30pm, 6:00pm, 9:30pm), Fri 1/23 (11:00am, 2:30pm, 6:00pm, 9:30pm), Sat 1/24 (11:00am, 2:30pm, 6:00pm, 9:30pm), Sun 1/25 (11:15am, 2:40pm, 6:00pm), Mon 1/26 (2:40pm, 7:00pm, 9:30pm), Tue 1/27 (11:15am, 2:40pm, 6:00pm, 9:20pm), Wed 1/28 (2:40pm, 6:00pm, 9:20pm)
+
+    * [One Battle After Another](https://drafthouse.com/raleigh/show/one-battle-after-another): Fri 1/23 (5:30pm), Sat 1/24 (5:30pm), Mon 1/26 (3:00pm), Tue 1/27 (5:30pm), Wed 1/28 (5:30pm)
+
+    * [Primate](https://drafthouse.com/raleigh/show/primate): Thu 1/22 (3:30pm, 6:15pm, 9:00pm), Fri 1/23 (11:15am, 3:15pm, 6:05pm, 9:00pm), Sat 1/24 (11:45am, 3:15pm, 6:15pm, 9:00pm), Sun 1/25 (11:45am, 3:15pm, 6:00pm), Mon 1/26 (3:15pm, 6:00pm, 9:00pm), Tue 1/27 (11:45am, 3:15pm, 6:00pm, 9:00pm), Wed 1/28 (3:15pm, 6:15pm, 9:00pm)
+
+    * [Sinners](https://drafthouse.com/raleigh/show/sinners): Fri 1/23 (9:15pm), Sat 1/24 (9:15pm), Sun 1/25 (7:00pm), Mon 1/26 (10:00pm), Tue 1/27 (9:15pm), Wed 1/28 (9:15pm)
+
+    * [Special Event Sentimental Value W Pre Recorded Q A](https://drafthouse.com/raleigh/show/special-event-sentimental-value-w-pre-recorded-q-a): Sun 1/25 (5:30pm)
+
+    * [The Housemaid 2025](https://drafthouse.com/raleigh/show/the-housemaid-2025): Thu 1/22 (3:00pm, 6:15pm, 10:00pm), Fri 1/23 (11:45am, 3:00pm, 6:15pm, 9:45pm), Sat 1/24 (11:30am, 3:00pm, 6:15pm, 9:45pm), Sun 1/25 (11:30am, 3:00pm, 6:15pm), Mon 1/26 (3:00pm, 6:15pm, 9:45pm), Tue 1/27 (11:30am, 3:15pm, 6:30pm, 10:00pm), Wed 1/28 (3:15pm, 6:30pm, 10:00pm)
+
+    * [The Testament Of Ann Lee](https://drafthouse.com/raleigh/show/the-testament-of-ann-lee): Thu 1/22 (3:00pm, 6:30pm, 10:00pm), Fri 1/23 (11:15am, 2:45pm, 6:15pm, 9:45pm), Sat 1/24 (11:15am, 2:45pm, 6:15pm, 9:45pm), Sun 1/25 (11:15am, 2:45pm, 6:15pm), Mon 1/26 (2:45pm, 6:15pm, 9:45pm), Tue 1/27 (11:15am, 2:45pm, 6:15pm, 9:45pm), Wed 1/28 (2:45pm, 6:15pm, 9:45pm)
+
+    * [Wicked For Good](https://drafthouse.com/raleigh/show/wicked-for-good): Fri 1/23 (3:20pm), Sat 1/24 (7:25pm), Wed 1/28 (3:00pm)
+
+    * [Zootopia 2](https://drafthouse.com/raleigh/show/zootopia-2): Thu 1/22 (2:30pm, 9:15pm), Fri 1/23 (2:30pm), Sat 1/24 (2:30pm), Sun 1/25 (11:30am), Mon 1/26 (4:00pm), Tue 1/27 (11:30am, 2:30pm), Wed 1/28 (2:30pm)
+
 ### Tue 1/20 4:29pm
 * New movies: Dracula 2026
 
