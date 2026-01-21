@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 1/21 1:31pm
+
+* New screenings: 
+    * [Wuthering Heights 2026](https://drafthouse.com/los-angeles/show/wuthering-heights-2026): Thu 2/12 (4:15pm), Fri 2/13 (11:00am, 2:30pm, 6:00pm, 9:30pm), Sat 2/14 (11:00am, 2:30pm, 6:00pm, 9:30pm), Sun 2/15 (11:00am, 2:30pm, 6:00pm)
+
 ### Tue 1/20 6:05pm
 * New movies: One Battle After Another, Hamnet, Sentimental Value, Frankenstein 2025, Wicked: For Good, Sentimental Value, Return to Silent Hill, SINNERS
 
