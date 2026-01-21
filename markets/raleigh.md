@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Wed 1/21 9:40am
+* New movies: Goat, Goat
+
+* New screenings: 
+    * [Family Party Goat](https://drafthouse.com/raleigh/show/family-party-goat): Sun 2/15 (12:30pm)
+
+    * [Goat](https://drafthouse.com/raleigh/show/goat): Thu 2/12 (3:15pm, 6:00pm), Fri 2/13 (3:30pm, 6:15pm), Sat 2/14 (3:30pm, 6:15pm), Sun 2/15 (3:30pm, 6:15pm)
+
 ### Tue 1/20 6:31pm
 * New movies: The Testament of Ann Lee, One Battle After Another, Sentimental Value, Wicked: For Good, Hamnet, SINNERS
 
