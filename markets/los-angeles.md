@@ -1,6 +1,74 @@
 # los-angeles
 
 ## Movie updates
+### Tue 1/20 6:05pm
+* New movies: One Battle After Another, Hamnet, Sentimental Value, Frankenstein 2025, Wicked: For Good, Sentimental Value, Return to Silent Hill, SINNERS
+
+* New screenings: 
+    * [28 Years Later The Bone Temple](https://drafthouse.com/los-angeles/show/28-years-later-the-bone-temple): Thu 1/22 (1:00pm, 2:00pm, 2:00pm, 4:00pm, 7:00pm, 10:00pm, 10:15pm), Fri 1/23 (12:45pm, 3:45pm, 6:45pm, 7:30pm, 9:45pm, 10:30pm), Sat 1/24 (11:00am, 2:00pm, 6:00pm, 9:00pm, 10:00pm), Sun 1/25 (12:45pm, 3:45pm, 6:45pm, 7:30pm), Mon 1/26 (3:45pm, 6:45pm, 9:45pm, 10:30pm), Tue 1/27 (12:45pm, 3:45pm, 6:45pm, 7:30pm, 9:45pm, 10:30pm), Wed 1/28 (12:45pm, 3:45pm, 6:45pm, 7:30pm, 9:45pm, 10:30pm)
+
+    * [All You Need Is Kill Dubbed](https://drafthouse.com/los-angeles/show/all-you-need-is-kill-dubbed): Thu 1/22 (9:40pm), Fri 1/23 (1:40pm), Mon 1/26 (2:35pm)
+
+    * [All You Need Is Kill Subtitled](https://drafthouse.com/los-angeles/show/all-you-need-is-kill-subtitled): Thu 1/22 (7:00pm)
+
+    * [Anaconda 2025](https://drafthouse.com/los-angeles/show/anaconda-2025): Thu 1/22 (11:15am)
+
+    * [Christiane F](https://drafthouse.com/los-angeles/show/christiane-f): Tue 1/27 (12:45pm)
+
+    * [Clika](https://drafthouse.com/los-angeles/show/clika): Thu 1/22 (9:15pm), Fri 1/23 (12:30pm, 9:15pm), Sat 1/24 (11:30am, 2:00pm, 9:30pm), Sun 1/25 (11:15am, 1:45pm), Mon 1/26 (4:30pm, 7:00pm, 9:15pm), Tue 1/27 (11:30am, 2:00pm, 4:30pm, 7:00pm, 10:00pm), Wed 1/28 (11:30am, 2:00pm, 4:30pm, 7:00pm, 9:30pm)
+
+    * [Dead Mans Wire](https://drafthouse.com/los-angeles/show/dead-mans-wire): Thu 1/22 (11:00am, 2:10pm), Fri 1/23 (1:15pm), Sat 1/24 (9:45pm), Mon 1/26 (7:30pm), Tue 1/27 (1:15pm), Wed 1/28 (4:30pm)
+
+    * [Drag Me To Hell](https://drafthouse.com/los-angeles/show/drag-me-to-hell): Fri 1/23 (10:00pm)
+
+    * [Father Mother Sister Brother](https://drafthouse.com/los-angeles/show/father-mother-sister-brother): Thu 1/22 (11:00am)
+
+    * [Frankenstein 2025](https://drafthouse.com/los-angeles/show/frankenstein-2025): Fri 1/23 (11:40am), Sat 1/24 (11:30am), Tue 1/27 (11:20am), Wed 1/28 (11:40am)
+
+    * [Greetings From Twin Peaks Twin Peaks Episode 7 9](https://drafthouse.com/los-angeles/show/greetings-from-twin-peaks-twin-peaks-episode-7-9): Thu 1/22 (12:15pm)
+
+    * [Greetings From Twin Peaks Twin Peaks Episodes 10 13](https://drafthouse.com/los-angeles/show/greetings-from-twin-peaks-twin-peaks-episodes-10-13): Fri 1/23 (9:00pm), Tue 1/27 (11:45am), Wed 1/28 (11:00am)
+
+    * [Guest Selects Opening Night](https://drafthouse.com/los-angeles/show/guest-selects-opening-night): Fri 1/23 (1:00pm)
+
+    * [Guest Selects This Is Spinal Tap](https://drafthouse.com/los-angeles/show/guest-selects-this-is-spinal-tap): Thu 1/22 (4:40pm)
+
+    * [Hamnet](https://drafthouse.com/los-angeles/show/hamnet): Sat 1/24 (12:30pm), Sun 1/25 (3:00pm), Mon 1/26 (7:30pm), Tue 1/27 (4:00pm), Wed 1/28 (10:20pm)
+
+    * [Is This Thing On](https://drafthouse.com/los-angeles/show/is-this-thing-on): Thu 1/22 (11:00am, 1:50pm), Fri 1/23 (4:15pm), Sat 1/24 (6:30pm), Sun 1/25 (4:15pm), Mon 1/26 (4:15pm), Tue 1/27 (4:15pm), Wed 1/28 (1:15pm)
+
+    * [Marty Supreme](https://drafthouse.com/los-angeles/show/marty-supreme): Thu 1/22 (11:15am, 3:00pm, 6:45pm, 10:15pm), Fri 1/23 (11:00am, 2:45pm, 6:30pm, 10:15pm), Sat 1/24 (11:00am, 2:45pm, 6:30pm, 10:15pm), Sun 1/25 (11:30am, 3:15pm, 7:00pm), Mon 1/26 (2:45pm, 6:30pm, 10:15pm), Tue 1/27 (11:00am, 2:45pm, 6:30pm, 10:15pm), Wed 1/28 (11:00am, 2:45pm, 6:30pm, 10:15pm)
+
+    * [Mercy](https://drafthouse.com/los-angeles/show/mercy): Thu 1/22 (10:30pm), Fri 1/23 (11:30am, 2:15pm, 10:30pm), Sat 1/24 (11:30am, 2:15pm, 10:30pm), Sun 1/25 (11:30am, 2:15pm), Mon 1/26 (2:15pm, 5:00pm, 7:45pm, 10:30pm), Tue 1/27 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Wed 1/28 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm)
+
+    * [No Other Choice](https://drafthouse.com/los-angeles/show/no-other-choice): Thu 1/22 (11:30am, 3:00pm, 6:30pm, 10:00pm), Fri 1/23 (11:15am, 2:45pm, 6:15pm, 9:45pm), Sat 1/24 (11:15am, 2:45pm, 6:15pm, 9:45pm), Sun 1/25 (11:00am, 2:30pm, 6:00pm), Mon 1/26 (2:45pm, 6:15pm, 9:45pm), Tue 1/27 (11:15am, 2:45pm, 6:15pm, 9:45pm), Wed 1/28 (11:15am, 2:45pm, 6:15pm, 9:45pm)
+
+    * [One Battle After Another](https://drafthouse.com/los-angeles/show/one-battle-after-another): Fri 1/23 (3:20pm), Sat 1/24 (6:45pm), Sun 1/25 (2:50pm), Mon 1/26 (3:20pm), Tue 1/27 (3:00pm), Wed 1/28 (3:20pm)
+
+    * [Primate](https://drafthouse.com/los-angeles/show/primate): Thu 1/22 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Fri 1/23 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Sat 1/24 (12:30pm, 3:15pm, 5:15pm, 8:00pm, 10:45pm), Sun 1/25 (11:15am, 2:00pm, 4:45pm, 7:30pm), Mon 1/26 (5:15pm, 8:00pm, 10:45pm), Tue 1/27 (2:30pm, 5:15pm, 8:00pm, 10:45pm), Wed 1/28 (2:30pm, 5:15pm, 8:00pm, 10:45pm)
+
+    * [Queer Film Theory 101 My Own Private Idaho](https://drafthouse.com/los-angeles/show/queer-film-theory-101-my-own-private-idaho): Fri 1/23 (3:00pm), Wed 1/28 (3:30pm)
+
+    * [Reds](https://drafthouse.com/los-angeles/show/reds): Wed 1/28 (11:00am)
+
+    * [Return To Silent Hill](https://drafthouse.com/los-angeles/show/return-to-silent-hill): Fri 1/23 (7:30pm, 10:25pm), Sat 1/24 (7:15pm, 10:15pm), Sun 1/25 (6:15pm), Mon 1/26 (7:15pm, 10:45pm), Tue 1/27 (7:15pm, 10:15pm), Wed 1/28 (7:25pm, 10:45pm)
+
+    * [Sentimental Value](https://drafthouse.com/los-angeles/show/sentimental-value): Fri 1/23 (12:30pm), Sat 1/24 (3:50pm), Mon 1/26 (4:00pm), Tue 1/27 (12:30pm), Wed 1/28 (12:30pm)
+
+    * [Sinners](https://drafthouse.com/los-angeles/show/sinners): Fri 1/23 (7:15pm), Sat 1/24 (3:15pm), Sun 1/25 (6:45pm), Mon 1/26 (10:15pm), Tue 1/27 (9:45pm), Wed 1/28 (7:15pm)
+
+    * [Special Event Sentimental Value W Pre Recorded Q A](https://drafthouse.com/los-angeles/show/special-event-sentimental-value-w-pre-recorded-q-a): Sun 1/25 (3:20pm)
+
+    * [The Chronology Of Water](https://drafthouse.com/los-angeles/show/the-chronology-of-water): Thu 1/22 (12:30pm, 3:45pm)
+
+    * [The Testament Of Ann Lee](https://drafthouse.com/los-angeles/show/the-testament-of-ann-lee): Thu 1/22 (11:45am, 3:15pm, 6:45pm, 10:30pm), Fri 1/23 (11:30am, 3:00pm, 6:30pm, 10:00pm), Sat 1/24 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sun 1/25 (11:30am, 3:00pm, 6:30pm), Mon 1/26 (3:00pm, 6:30pm, 10:00pm), Tue 1/27 (11:30am, 3:00pm, 6:30pm, 10:00pm), Wed 1/28 (11:30am, 3:00pm, 6:30pm, 10:00pm)
+
+    * [The Twilight Saga Eclipse](https://drafthouse.com/los-angeles/show/the-twilight-saga-eclipse): Thu 1/22 (1:00pm)
+
+    * [The Voice Of Hind Rajab](https://drafthouse.com/los-angeles/show/the-voice-of-hind-rajab): Fri 1/23 (6:15pm), Sun 1/25 (12:10pm), Mon 1/26 (3:45pm, 6:30pm), Tue 1/27 (4:15pm, 7:00pm, 10:30pm), Wed 1/28 (3:25pm, 6:45pm, 9:45pm)
+
+    * [Wicked For Good](https://drafthouse.com/los-angeles/show/wicked-for-good): Fri 1/23 (4:00pm), Sun 1/25 (11:30am), Mon 1/26 (4:00pm), Wed 1/28 (4:00pm)
+
 ### Tue 1/20 1:25pm
 * New movies: Dracula 2026
 
