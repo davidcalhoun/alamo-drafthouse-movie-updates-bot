@@ -1,6 +1,18 @@
 # raleigh
 
 ## Movie updates
+### Fri 1/23 11:41am
+* New movies: Longlegs, The Cabin in the Woods, The Ring 2002, The Thing 1982
+
+* New screenings: 
+    * [Free Victory Screening Longlegs](https://drafthouse.com/raleigh/show/free-victory-screening-longlegs): Fri 2/27 (9:45pm)
+
+    * [Free Victory Screening The Cabin In The Woods](https://drafthouse.com/raleigh/show/free-victory-screening-the-cabin-in-the-woods): Fri 2/20 (9:30pm)
+
+    * [Free Victory Screening The Ring 2002](https://drafthouse.com/raleigh/show/free-victory-screening-the-ring-2002): Thu 2/12 (9:45pm)
+
+    * [Free Victory Screening The Thing 1982](https://drafthouse.com/raleigh/show/free-victory-screening-the-thing-1982): Fri 2/6 (9:45pm)
+
 ### Fri 1/23 8:50am
 * New movies: The Moment
 
