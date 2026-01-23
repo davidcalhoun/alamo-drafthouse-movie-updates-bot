@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Fri 1/23 2:21pm
+* New movies: Dracula 2026, A Better Tomorrow - Hong Kong Cinema Classics
+
+* New screenings: 
+    * [A Better Tomorrow Hong Kong Cinema Classics](https://drafthouse.com/los-angeles/show/a-better-tomorrow-hong-kong-cinema-classics): Sun 3/1 (4:30pm, 7:30pm), Mon 3/2 (6:30pm)
+
+    * [Chase Atlantic Lost In Heaven](https://drafthouse.com/los-angeles/show/chase-atlantic-lost-in-heaven): Sun 2/22 (7:30pm)
+
+    * [Dracula 2026](https://drafthouse.com/los-angeles/show/dracula-2026): Thu 2/5 (7:15pm, 10:30pm), Fri 2/6 (4:00pm, 7:15pm), Sat 2/7 (4:00pm, 7:15pm), Sun 2/8 (3:45pm, 7:00pm)
+
 ### Fri 1/23 8:35am
 * New movies: Longlegs, The Cabin in the Woods, The Ring 2002, The Thing 1982
 
