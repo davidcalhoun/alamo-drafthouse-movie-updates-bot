@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 1/23 1:48pm
+* New movies: Crime 101
+
+* New screenings: 
+    * [Crime 101](https://drafthouse.com/raleigh/show/crime-101): Thu 2/12 (6:45pm), Fri 2/13 (6:30pm), Sat 2/14 (6:30pm), Sun 2/15 (6:45pm)
+
 ### Fri 1/23 11:41am
 * New movies: Longlegs, The Cabin in the Woods, The Ring 2002, The Thing 1982
 
