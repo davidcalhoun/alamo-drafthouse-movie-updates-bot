@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 1/23 8:50am
+* New movies: The Moment
+
+* New screenings: 
+    * [The Moment](https://drafthouse.com/raleigh/show/the-moment): Thu 2/5 (7:00pm), Fri 2/6 (6:30pm), Sat 2/7 (7:00pm), Sun 2/8 (6:00pm)
+
 ### Wed 1/21 9:40am
 * New movies: Goat, Goat
 
