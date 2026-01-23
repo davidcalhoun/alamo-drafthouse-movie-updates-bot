@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Fri 1/23 8:35am
+* New movies: Longlegs, The Cabin in the Woods, The Ring 2002, The Thing 1982
+
+* New screenings: 
+    * [Free Victory Screening Longlegs](https://drafthouse.com/los-angeles/show/free-victory-screening-longlegs): Fri 2/27 (9:45pm)
+
+    * [Free Victory Screening The Cabin In The Woods](https://drafthouse.com/los-angeles/show/free-victory-screening-the-cabin-in-the-woods): Fri 2/20 (9:30pm)
+
+    * [Free Victory Screening The Ring 2002](https://drafthouse.com/los-angeles/show/free-victory-screening-the-ring-2002): Fri 2/13 (9:45pm)
+
+    * [Free Victory Screening The Thing 1982](https://drafthouse.com/los-angeles/show/free-victory-screening-the-thing-1982): Fri 2/6 (9:40pm)
+
 ### Wed 1/21 1:31pm
 
 * New screenings: 
