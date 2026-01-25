@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Sat 1/24 9:30pm
+* New movies: IN COLD LIGHT
+
+* New screenings: 
+    * [In Cold Light](https://drafthouse.com/los-angeles/show/in-cold-light): Sun 1/25 (1:30pm), Mon 1/26 (2:30pm), Tue 1/27 (11:45am), Wed 1/28 (11:45am)
+
 ### Fri 1/23 2:21pm
 * New movies: Dracula 2026, A Better Tomorrow - Hong Kong Cinema Classics
 
