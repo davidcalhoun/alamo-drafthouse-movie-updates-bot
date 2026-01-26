@@ -1,6 +1,38 @@
 # raleigh
 
 ## Movie updates
+### Mon 1/26 12:39am
+* New movies: The Phantom of the Opera 2004, 13 Going on 30, My Best Friend's Wedding, Brief Encounter 1945, Girlhood, Millennium Mambo, Harold and Maude, Twin Peaks, Twin Peaks: The Return, If Beale Street Could Talk, Interview with the Vampire, Saving Face, Titanic 1997, Twin Peaks: Fire Walk with Me
+
+* New screenings: 
+    * [Alamo Crafthouse The Phantom Of The Opera 2004](https://drafthouse.com/raleigh/show/alamo-crafthouse-the-phantom-of-the-opera-2004): Sun 2/8 (12:00pm)
+
+    * [Brief Encounter](https://drafthouse.com/raleigh/show/brief-encounter): Thu 2/12 (4:00pm)
+
+    * [Girlhood](https://drafthouse.com/raleigh/show/girlhood): Mon 2/16 (4:30pm)
+
+    * [Greetings From Twin Peaks Twin Peaks Episodes 28 30](https://drafthouse.com/raleigh/show/greetings-from-twin-peaks-twin-peaks-episodes-28-30): Sat 2/7 (12:00pm)
+
+    * [Greetings From Twin Peaks Twin Peaks The Return Parts 1 3](https://drafthouse.com/raleigh/show/greetings-from-twin-peaks-twin-peaks-the-return-parts-1-3): Sat 2/21 (11:00am)
+
+    * [If Beale Street Could Talk](https://drafthouse.com/raleigh/show/if-beale-street-could-talk): Thu 2/19 (4:00pm)
+
+    * [Interview With The Vampire The Vampire Chronicles](https://drafthouse.com/raleigh/show/interview-with-the-vampire-the-vampire-chronicles): Sat 2/28 (3:30pm)
+
+    * [Millennium Mambo](https://drafthouse.com/raleigh/show/millennium-mambo): Sun 2/22 (3:30pm)
+
+    * [Movie Party 13 Going On 30](https://drafthouse.com/raleigh/show/movie-party-13-going-on-30): Tue 2/17 (6:30pm)
+
+    * [Movie Party My Best Friends Wedding](https://drafthouse.com/raleigh/show/movie-party-my-best-friends-wedding): Sun 2/8 (3:30pm)
+
+    * [Queer Film Theory 101 Harold And Maude](https://drafthouse.com/raleigh/show/queer-film-theory-101-harold-and-maude): Mon 2/23 (6:30pm)
+
+    * [Saving Face](https://drafthouse.com/raleigh/show/saving-face): Wed 2/25 (4:15pm)
+
+    * [Titanic 1997](https://drafthouse.com/raleigh/show/titanic-1997): Sun 2/22 (11:00am)
+
+    * [Twin Peaks Fire Walk With Me](https://drafthouse.com/raleigh/show/twin-peaks-fire-walk-with-me): Sat 2/14 (9:45pm)
+
 ### Fri 1/23 1:48pm
 * New movies: Crime 101
 
