@@ -1,6 +1,46 @@
 # raleigh
 
 ## Movie updates
+### Mon 1/26 5:32pm
+* New movies: SECRETARY
+
+* New screenings: 
+    * [28 Years Later The Bone Temple](https://drafthouse.com/raleigh/show/28-years-later-the-bone-temple): Thu 1/29 (4:45pm, 7:45pm, 11:00pm), Fri 1/30 (1:00pm, 4:15pm, 7:45pm, 10:45pm), Sat 1/31 (1:00pm, 4:15pm, 7:45pm, 10:45pm), Sun 2/1 (1:00pm, 4:15pm, 7:30pm), Mon 2/2 (4:15pm, 7:30pm, 10:45pm), Tue 2/3 (12:45pm, 4:15pm, 7:30pm, 10:45pm), Wed 2/4 (4:15pm, 7:30pm, 10:45pm)
+
+    * [Arco](https://drafthouse.com/raleigh/show/arco): Thu 1/29 (4:15pm, 9:30pm), Fri 1/30 (1:00pm, 3:45pm, 9:30pm), Sat 1/31 (1:00pm, 3:45pm, 9:30pm), Sun 2/1 (1:00pm, 3:45pm), Mon 2/2 (4:00pm, 6:45pm, 9:30pm), Tue 2/3 (1:15pm, 4:00pm, 6:45pm, 9:15pm), Wed 2/4 (5:00pm, 7:45pm, 10:30pm)
+
+    * [Greetings From Twin Peaks Twin Peaks Episodes 28 30](https://drafthouse.com/raleigh/show/greetings-from-twin-peaks-twin-peaks-episodes-28-30): Fri 1/30 (7:00pm)
+
+    * [Iron Lung](https://drafthouse.com/raleigh/show/iron-lung): Thu 1/29 (10:30pm), Fri 1/30 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Sat 1/31 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Sun 2/1 (12:45pm, 4:00pm, 7:15pm), Mon 2/2 (3:45pm, 7:15pm, 10:30pm), Tue 2/3 (12:00pm, 1:00pm, 3:15pm), Wed 2/4 (10:00pm)
+
+    * [Marty Supreme](https://drafthouse.com/raleigh/show/marty-supreme): Thu 1/29 (3:15pm, 7:00pm, 10:00pm), Fri 1/30 (11:45am, 3:15pm, 6:45pm, 10:15pm), Sat 1/31 (11:45am, 3:15pm, 6:45pm, 10:15pm), Sun 2/1 (11:45am, 3:15pm, 6:45pm), Mon 2/2 (3:15pm, 6:45pm, 10:15pm), Tue 2/3 (11:15am, 3:00pm, 6:45pm, 10:15pm), Wed 2/4 (3:15pm, 6:45pm, 10:15pm)
+
+    * [Mercy](https://drafthouse.com/raleigh/show/mercy): Thu 1/29 (3:30pm, 6:15pm, 9:00pm), Fri 1/30 (12:30pm, 3:15pm, 6:15pm, 9:15pm), Sat 1/31 (12:30pm, 3:15pm, 6:15pm, 9:45pm), Sun 2/1 (12:30pm, 3:15pm, 6:15pm), Mon 2/2 (3:15pm, 6:15pm, 9:15pm), Tue 2/3 (12:15pm, 3:00pm, 6:00pm, 10:00pm), Wed 2/4 (3:15pm, 6:15pm, 9:00pm)
+
+    * [No Other Choice](https://drafthouse.com/raleigh/show/no-other-choice): Thu 1/29 (3:45pm, 7:15pm, 10:45pm), Fri 1/30 (3:30pm, 10:45pm), Sat 1/31 (3:35pm, 7:00pm), Sun 2/1 (12:00pm, 3:30pm, 7:00pm), Mon 2/2 (7:00pm, 10:45pm), Tue 2/3 (11:45am, 3:30pm, 7:00pm, 10:30pm), Wed 2/4 (3:45pm, 7:15pm, 10:45pm)
+
+    * [Primate](https://drafthouse.com/raleigh/show/primate): Thu 1/29 (3:00pm)
+
+    * [Send Help](https://drafthouse.com/raleigh/show/send-help): Thu 1/29 (4:00pm, 7:15pm), Fri 1/30 (12:00pm, 1:30pm, 3:00pm), Sat 1/31 (11:45am, 3:00pm), Sun 2/1 (11:45am, 3:00pm), Mon 2/2 (3:00pm, 6:00pm, 9:00pm), Tue 2/3 (12:30pm, 3:45pm, 6:30pm, 10:15pm), Wed 2/4 (3:00pm, 6:30pm, 9:15pm)
+
+    * [Shelter 2026](https://drafthouse.com/raleigh/show/shelter-2026): Thu 1/29 (4:30pm, 10:30pm), Fri 1/30 (1:15pm, 4:30pm, 10:15pm), Sat 1/31 (1:15pm, 4:30pm, 10:20pm), Sun 2/1 (1:15pm, 4:15pm), Mon 2/2 (3:30pm, 6:35pm, 10:00pm), Tue 2/3 (11:45am, 2:45pm, 6:15pm, 9:45pm), Wed 2/4 (4:00pm, 7:15pm, 10:15pm)
+
+    * [Sinners](https://drafthouse.com/raleigh/show/sinners): Sat 1/31 (9:15pm)
+
+    * [The Housemaid 2025](https://drafthouse.com/raleigh/show/the-housemaid-2025): Thu 1/29 (3:15pm, 6:30pm, 10:15pm), Fri 1/30 (11:30am, 2:45pm, 6:30pm, 10:00pm), Sat 1/31 (11:30am, 2:45pm, 6:30pm, 10:30pm), Sun 2/1 (11:30am, 2:45pm, 6:30pm), Mon 2/2 (2:45pm, 6:30pm, 10:00pm), Tue 2/3 (11:30am, 2:45pm, 6:00pm, 9:15pm), Wed 2/4 (2:45pm, 6:00pm, 9:35pm)
+
+    * [The Moment](https://drafthouse.com/raleigh/show/the-moment): Thu 2/5 (4:00pm, 10:00pm), Fri 2/6 (12:30pm, 3:30pm, 9:30pm), Sat 2/7 (1:00pm, 4:00pm, 10:00pm), Sun 2/8 (11:45am, 3:00pm)
+
+    * [The Testament Of Ann Lee](https://drafthouse.com/raleigh/show/the-testament-of-ann-lee): Thu 1/29 (2:45pm, 6:15pm, 9:45pm), Fri 1/30 (11:15am, 2:45pm, 6:15pm, 9:45pm), Sat 1/31 (11:15am, 2:45pm, 6:15pm, 10:00pm), Sun 2/1 (11:15am, 2:45pm, 6:15pm), Mon 2/2 (2:45pm, 6:15pm, 9:45pm), Tue 2/3 (11:00am, 2:30pm, 6:15pm, 9:45pm), Wed 2/4 (2:45pm, 6:15pm, 9:45pm)
+
+    * [The Voice Of Hind Rajab](https://drafthouse.com/raleigh/show/the-voice-of-hind-rajab): Thu 1/29 (4:45pm), Mon 2/2 (4:30pm), Tue 2/3 (4:45pm, 7:15pm), Wed 2/4 (3:30pm, 4:30pm)
+
+    * [The Worst Person In The World](https://drafthouse.com/raleigh/show/the-worst-person-in-the-world): Sat 1/31 (12:15pm)
+
+    * [Weird Wednesday Secretary](https://drafthouse.com/raleigh/show/weird-wednesday-secretary): Wed 2/4 (9:30pm)
+
+    * [Zootopia 2](https://drafthouse.com/raleigh/show/zootopia-2): Fri 1/30 (12:00pm), Mon 2/2 (3:35pm)
+
 ### Mon 1/26 12:39am
 * New movies: The Phantom of the Opera 2004, 13 Going on 30, My Best Friend's Wedding, Brief Encounter 1945, Girlhood, Millennium Mambo, Harold and Maude, Twin Peaks, Twin Peaks: The Return, If Beale Street Could Talk, Interview with the Vampire, Saving Face, Titanic 1997, Twin Peaks: Fire Walk with Me
 
