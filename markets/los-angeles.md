@@ -1,6 +1,40 @@
 # los-angeles
 
 ## Movie updates
+### Sun 1/25 9:34pm
+* New movies: The Phantom of the Opera 2004, 13 Going on 30, My Best Friend's Wedding, The Substance, Brief Encounter 1945, Girlhood, Millennium Mambo, Twin Peaks, Twin Peaks: The Return, Twin Peaks: The Return, If Beale Street Could Talk, Interview with the Vampire, Saving Face, Titanic 1997, Twin Peaks: Fire Walk with Me
+
+* New screenings: 
+    * [Alamo Crafthouse The Phantom Of The Opera 2004](https://drafthouse.com/los-angeles/show/alamo-crafthouse-the-phantom-of-the-opera-2004): Sun 2/8 (11:45am)
+
+    * [Brief Encounter](https://drafthouse.com/los-angeles/show/brief-encounter): Sat 2/7 (7:00pm)
+
+    * [Girlhood](https://drafthouse.com/los-angeles/show/girlhood): Thu 2/19 (3:15pm)
+
+    * [Greetings From Twin Peaks Twin Peaks Episodes 28 30](https://drafthouse.com/los-angeles/show/greetings-from-twin-peaks-twin-peaks-episodes-28-30): Sat 2/7 (11:45am)
+
+    * [Greetings From Twin Peaks Twin Peaks The Return Parts 1 3](https://drafthouse.com/los-angeles/show/greetings-from-twin-peaks-twin-peaks-the-return-parts-1-3): Sat 2/21 (11:15am)
+
+    * [Greetings From Twin Peaks Twin Peaks The Return Parts 4 6](https://drafthouse.com/los-angeles/show/greetings-from-twin-peaks-twin-peaks-the-return-parts-4-6): Sat 2/28 (12:00pm)
+
+    * [If Beale Street Could Talk](https://drafthouse.com/los-angeles/show/if-beale-street-could-talk): Thu 2/19 (12:00pm)
+
+    * [Interview With The Vampire The Vampire Chronicles](https://drafthouse.com/los-angeles/show/interview-with-the-vampire-the-vampire-chronicles): Sat 2/28 (3:15pm)
+
+    * [Millennium Mambo](https://drafthouse.com/los-angeles/show/millennium-mambo): Sun 2/22 (6:00pm)
+
+    * [Movie Party 13 Going On 30](https://drafthouse.com/los-angeles/show/movie-party-13-going-on-30): Sun 2/15 (12:00pm)
+
+    * [Movie Party My Best Friends Wedding](https://drafthouse.com/los-angeles/show/movie-party-my-best-friends-wedding): Sun 2/8 (4:15pm)
+
+    * [Movie Party The Substance](https://drafthouse.com/los-angeles/show/movie-party-the-substance): Sat 2/21 (6:40pm)
+
+    * [Saving Face](https://drafthouse.com/los-angeles/show/saving-face): Sun 2/22 (3:20pm)
+
+    * [Titanic 1997](https://drafthouse.com/los-angeles/show/titanic-1997): Sun 2/22 (11:00am)
+
+    * [Twin Peaks Fire Walk With Me](https://drafthouse.com/los-angeles/show/twin-peaks-fire-walk-with-me): Thu 2/19 (9:15pm)
+
 ### Sat 1/24 9:30pm
 * New movies: IN COLD LIGHT
 
