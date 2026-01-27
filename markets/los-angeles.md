@@ -1,6 +1,41 @@
 # los-angeles
 
 ## Movie updates
+### Mon 1/26 8:09pm
+
+* New screenings: 
+    * [28 Years Later The Bone Temple](https://drafthouse.com/los-angeles/show/28-years-later-the-bone-temple): Mon 2/2 (1:00pm, 4:00pm, 7:00pm, 10:00pm)
+
+    * [Arco](https://drafthouse.com/los-angeles/show/arco): Mon 2/2 (11:30am, 2:10pm, 4:50pm, 7:30pm, 10:10pm)
+
+    * [Clika](https://drafthouse.com/los-angeles/show/clika): Mon 2/2 (12:40pm)
+
+    * [Greetings From Twin Peaks Twin Peaks Episodes 14 17](https://drafthouse.com/los-angeles/show/greetings-from-twin-peaks-twin-peaks-episodes-14-17): Mon 2/2 (12:00pm)
+
+    * [Hard Boiled Hong Kong Cinema Classics](https://drafthouse.com/los-angeles/show/hard-boiled-hong-kong-cinema-classics): Mon 2/2 (1:30pm)
+
+    * [Islands](https://drafthouse.com/los-angeles/show/islands): Mon 2/2 (1:00pm, 4:15pm, 7:30pm, 10:45pm)
+
+    * [Marty Supreme](https://drafthouse.com/los-angeles/show/marty-supreme): Mon 2/2 (11:00am, 2:45pm, 6:30pm, 10:15pm)
+
+    * [Mercy](https://drafthouse.com/los-angeles/show/mercy): Mon 2/2 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm)
+
+    * [No Other Choice](https://drafthouse.com/los-angeles/show/no-other-choice): Mon 2/2 (11:00am, 2:30pm, 6:00pm, 9:30pm)
+
+    * [Primate](https://drafthouse.com/los-angeles/show/primate): Mon 2/2 (10:45pm)
+
+    * [Send Help](https://drafthouse.com/los-angeles/show/send-help): Mon 2/2 (12:15pm, 3:15pm, 6:15pm, 9:15pm)
+
+    * [Shelter 2026](https://drafthouse.com/los-angeles/show/shelter-2026): Mon 2/2 (12:30pm, 3:30pm, 6:30pm, 9:30pm)
+
+    * [The Testament Of Ann Lee](https://drafthouse.com/los-angeles/show/the-testament-of-ann-lee): Mon 2/2 (3:15pm, 6:45pm, 10:15pm)
+
+    * [The Twilight Saga Breaking Dawn Part 2](https://drafthouse.com/los-angeles/show/the-twilight-saga-breaking-dawn-part-2): Mon 2/2 (4:20pm)
+
+    * [The Voice Of Hind Rajab](https://drafthouse.com/los-angeles/show/the-voice-of-hind-rajab): Mon 2/2 (5:00pm, 7:45pm)
+
+    * [What Ever Happened To Baby Jane 1991](https://drafthouse.com/los-angeles/show/what-ever-happened-to-baby-jane-1991): Mon 2/2 (10:30pm)
+
 ### Mon 1/26 6:09pm
 * New movies: Islands, Send Help, Identikit aka The Driver's Seat
 
