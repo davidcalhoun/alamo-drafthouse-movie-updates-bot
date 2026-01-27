@@ -1,6 +1,74 @@
 # los-angeles
 
 ## Movie updates
+### Mon 1/26 6:09pm
+* New movies: Islands, Send Help, Identikit aka The Driver's Seat
+
+* New screenings: 
+    * [28 Years Later The Bone Temple](https://drafthouse.com/los-angeles/show/28-years-later-the-bone-temple): Thu 1/29 (12:30pm, 1:45pm, 3:30pm, 7:30pm, 10:30pm), Fri 1/30 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sat 1/31 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sun 2/1 (1:00pm, 4:00pm, 7:00pm), Tue 2/3 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Wed 2/4 (1:00pm, 4:00pm, 7:00pm, 10:00pm)
+
+    * [Arco](https://drafthouse.com/los-angeles/show/arco): Thu 1/29 (4:30pm, 7:15pm, 10:00pm), Fri 1/30 (11:00am, 1:40pm, 9:40pm), Sat 1/31 (11:30am, 2:10pm, 10:10pm), Sun 2/1 (12:00pm, 2:40pm), Tue 2/3 (11:30am, 2:10pm, 4:50pm, 7:30pm, 10:10pm), Wed 2/4 (11:30am, 2:10pm, 4:50pm, 7:30pm, 10:10pm)
+
+    * [Clika](https://drafthouse.com/los-angeles/show/clika): Thu 1/29 (12:30pm), Fri 1/30 (12:40pm), Sat 1/31 (12:40pm), Sun 2/1 (12:40pm), Tue 2/3 (12:25pm), Wed 2/4 (12:40pm)
+
+    * [Dead Mans Wire](https://drafthouse.com/los-angeles/show/dead-mans-wire): Thu 1/29 (4:30pm)
+
+    * [F My Son](https://drafthouse.com/los-angeles/show/f-my-son): Fri 1/30 (10:30pm)
+
+    * [Frankenhooker](https://drafthouse.com/los-angeles/show/frankenhooker): Tue 2/3 (10:45pm)
+
+    * [Frankenstein 2025](https://drafthouse.com/los-angeles/show/frankenstein-2025): Thu 1/29 (11:40am)
+
+    * [Greetings From Twin Peaks Twin Peaks Episodes 10 13](https://drafthouse.com/los-angeles/show/greetings-from-twin-peaks-twin-peaks-episodes-10-13): Thu 1/29 (12:20pm)
+
+    * [Greetings From Twin Peaks Twin Peaks Episodes 14 17](https://drafthouse.com/los-angeles/show/greetings-from-twin-peaks-twin-peaks-episodes-14-17): Fri 1/30 (11:45am), Sat 1/31 (12:15pm), Sun 2/1 (2:25pm), Tue 2/3 (3:00pm)
+
+    * [Guest Selects Josie And The Pussycats](https://drafthouse.com/los-angeles/show/guest-selects-josie-and-the-pussycats): Fri 1/30 (12:45pm), Sat 1/31 (7:15pm), Tue 2/3 (12:00pm)
+
+    * [Hamnet](https://drafthouse.com/los-angeles/show/hamnet): Thu 1/29 (10:00pm)
+
+    * [Hard Boiled Hong Kong Cinema Classics](https://drafthouse.com/los-angeles/show/hard-boiled-hong-kong-cinema-classics): Fri 1/30 (3:45pm), Sat 1/31 (10:15pm), Wed 2/4 (1:00pm)
+
+    * [Is This Thing On](https://drafthouse.com/los-angeles/show/is-this-thing-on): Thu 1/29 (1:15pm)
+
+    * [Islands](https://drafthouse.com/los-angeles/show/islands): Fri 1/30 (1:00pm, 4:15pm, 7:30pm, 10:45pm), Sat 1/31 (1:00pm, 4:15pm, 7:30pm, 10:45pm), Sun 2/1 (1:00pm, 4:15pm, 7:30pm), Tue 2/3 (1:00pm, 4:15pm, 7:30pm), Wed 2/4 (1:00pm, 4:15pm, 7:30pm, 10:45pm)
+
+    * [Live Q A Send Help](https://drafthouse.com/los-angeles/show/live-q-a-send-help): Sat 1/31 (6:45pm)
+
+    * [Marty Supreme](https://drafthouse.com/los-angeles/show/marty-supreme): Thu 1/29 (11:15am, 3:00pm, 6:45pm, 10:00pm), Fri 1/30 (11:00am, 2:45pm, 6:30pm, 10:15pm), Sat 1/31 (11:00am, 2:45pm, 6:30pm, 10:15pm), Sun 2/1 (11:00am, 2:45pm, 6:30pm), Tue 2/3 (11:00am, 2:45pm, 6:30pm, 10:15pm), Wed 2/4 (11:45am, 3:30pm, 6:45pm, 10:15pm)
+
+    * [Mercy](https://drafthouse.com/los-angeles/show/mercy): Thu 1/29 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Fri 1/30 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Sat 1/31 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Sun 2/1 (11:45am, 2:30pm, 5:15pm, 8:00pm), Tue 2/3 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Wed 2/4 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm)
+
+    * [Merry Christmas Mr Lawrence](https://drafthouse.com/los-angeles/show/merry-christmas-mr-lawrence): Wed 2/4 (12:30pm)
+
+    * [No Other Choice](https://drafthouse.com/los-angeles/show/no-other-choice): Thu 1/29 (11:15am, 2:45pm, 6:15pm, 9:45pm), Fri 1/30 (11:00am, 2:30pm, 6:00pm, 9:30pm), Sat 1/31 (11:00am, 2:30pm, 6:00pm, 9:30pm), Sun 2/1 (11:00am, 2:30pm, 6:00pm), Tue 2/3 (11:00am, 2:30pm, 6:00pm, 9:30pm), Wed 2/4 (11:00am, 2:30pm, 6:00pm, 9:30pm)
+
+    * [One Battle After Another](https://drafthouse.com/los-angeles/show/one-battle-after-another): Thu 1/29 (3:20pm)
+
+    * [Primate](https://drafthouse.com/los-angeles/show/primate): Thu 1/29 (11:00am, 1:45pm), Tue 2/3 (10:30pm)
+
+    * [Queer Film Theory 101 My Own Private Idaho](https://drafthouse.com/los-angeles/show/queer-film-theory-101-my-own-private-idaho): Thu 1/29 (1:00pm)
+
+    * [Return To Silent Hill](https://drafthouse.com/los-angeles/show/return-to-silent-hill): Thu 1/29 (7:00pm, 10:45pm)
+
+    * [Send Help](https://drafthouse.com/los-angeles/show/send-help): Thu 1/29 (10:15pm, 10:45pm), Fri 1/30 (10:45am, 1:45pm, 10:45pm), Sat 1/31 (10:45am, 1:45pm, 10:45pm), Sun 2/1 (10:45am, 1:45pm), Tue 2/3 (11:30am, 2:30pm, 6:30pm, 9:00pm), Wed 2/4 (12:15pm, 3:15pm, 6:15pm, 9:15pm)
+
+    * [Sentimental Value](https://drafthouse.com/los-angeles/show/sentimental-value): Thu 1/29 (12:00pm)
+
+    * [Shelter 2026](https://drafthouse.com/los-angeles/show/shelter-2026): Thu 1/29 (4:00pm, 10:30pm), Fri 1/30 (12:30pm, 9:30pm), Sat 1/31 (12:30pm, 9:30pm), Sun 2/1 (12:30pm), Tue 2/3 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Wed 2/4 (12:30pm, 3:30pm, 6:30pm, 9:30pm)
+
+    * [Sinners](https://drafthouse.com/los-angeles/show/sinners): Thu 1/29 (7:15pm)
+
+    * [The Testament Of Ann Lee](https://drafthouse.com/los-angeles/show/the-testament-of-ann-lee): Thu 1/29 (3:00pm, 6:30pm, 10:00pm), Fri 1/30 (3:15pm, 6:45pm, 10:15pm), Sat 1/31 (3:15pm), Sun 2/1 (3:15pm, 6:45pm), Tue 2/3 (3:00pm, 9:30pm), Wed 2/4 (3:15pm, 10:30pm)
+
+    * [The Voice Of Hind Rajab](https://drafthouse.com/los-angeles/show/the-voice-of-hind-rajab): Thu 1/29 (4:45pm, 7:30pm), Fri 1/30 (4:15pm, 7:00pm), Sat 1/31 (4:35pm, 7:20pm), Sun 2/1 (3:15pm, 6:00pm), Tue 2/3 (4:20pm, 9:35pm), Wed 2/4 (3:45pm, 10:30pm)
+
+    * [The Worst Person In The World](https://drafthouse.com/los-angeles/show/the-worst-person-in-the-world): Sat 1/31 (3:45pm), Sun 2/1 (6:45pm), Tue 2/3 (1:00pm)
+
+    * [Weird Wednesday Identikit Aka The Drivers Seat](https://drafthouse.com/los-angeles/show/weird-wednesday-identikit-aka-the-drivers-seat): Wed 2/4 (7:35pm)
+
+    * [Wicked For Good](https://drafthouse.com/los-angeles/show/wicked-for-good): Thu 1/29 (3:30pm)
+
 ### Sun 1/25 9:34pm
 * New movies: The Phantom of the Opera 2004, 13 Going on 30, My Best Friend's Wedding, The Substance, Brief Encounter 1945, Girlhood, Millennium Mambo, Twin Peaks, Twin Peaks: The Return, Twin Peaks: The Return, If Beale Street Could Talk, Interview with the Vampire, Saving Face, Titanic 1997, Twin Peaks: Fire Walk with Me
 
