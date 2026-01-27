@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 1/26 9:31pm
+* New movies: Student Bodies
+
+* New screenings: 
+    * [Terror Tuesday Student Bodies](https://drafthouse.com/raleigh/show/terror-tuesday-student-bodies): Tue 2/3 (9:30pm)
+
 ### Mon 1/26 5:32pm
 * New movies: SECRETARY
 
