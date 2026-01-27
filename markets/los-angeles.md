@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 1/27 6:34am
+* New movies: Good Luck, Have Fun, Don't Die
+
+* New screenings: 
+    * [Good Luck Have Fun Dont Die](https://drafthouse.com/los-angeles/show/good-luck-have-fun-dont-die): Fri 2/13 (3:15pm, 6:45pm), Sat 2/14 (3:15pm, 6:45pm), Sun 2/15 (3:15pm, 6:45pm)
+
 ### Mon 1/26 8:09pm
 
 * New screenings: 
