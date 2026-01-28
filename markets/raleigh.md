@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 1/28 3:42pm
+* New movies: The Moment
+
+* New screenings: 
+    * [The Moment](https://drafthouse.com/raleigh/show/the-moment): Thu 2/5 (4:00pm, 7:00pm, 10:00pm), Fri 2/6 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sat 2/7 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sun 2/8 (11:45am, 3:00pm, 6:00pm)
+
 ### Wed 1/28 9:40am
 * New movies: Hoppers
 
