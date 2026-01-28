@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 1/28 9:40am
+* New movies: Hoppers
+
+* New screenings: 
+    * [Hoppers](https://drafthouse.com/raleigh/show/hoppers): Thu 3/5 (6:00pm), Fri 3/6 (6:00pm), Sat 3/7 (6:00pm), Sun 3/8 (6:00pm)
+
 ### Tue 1/27 9:27pm
 * New movies: Anything That Moves
 
