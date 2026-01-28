@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 1/27 9:27pm
+* New movies: Anything That Moves
+
+* New screenings: 
+    * [Weird Wednesday Anything That Moves](https://drafthouse.com/raleigh/show/weird-wednesday-anything-that-moves): Wed 2/11 (9:30pm)
+
 ### Mon 1/26 9:31pm
 * New movies: Student Bodies
 
