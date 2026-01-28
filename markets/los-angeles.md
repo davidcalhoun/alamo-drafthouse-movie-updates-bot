@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 1/28 6:35am
+* New movies: Hoppers
+
+* New screenings: 
+    * [Hoppers](https://drafthouse.com/los-angeles/show/hoppers): Fri 3/6 (12:45pm, 3:45pm, 6:45pm), Sat 3/7 (12:45pm, 3:45pm, 6:45pm), Sun 3/8 (12:45pm, 3:45pm, 6:45pm)
+
 ### Tue 1/27 6:34am
 * New movies: Good Luck, Have Fun, Don't Die
 
