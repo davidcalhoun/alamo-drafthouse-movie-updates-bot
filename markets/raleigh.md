@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Thu 1/29 12:47pm
+
+* New screenings: 
+    * [The Moment](https://drafthouse.com/raleigh/show/the-moment): Mon 2/9 (4:15pm, 7:15pm, 10:30pm), Tue 2/10 (12:30pm, 3:45pm, 6:30pm, 9:45pm), Wed 2/11 (3:30pm, 6:30pm)
+
 ### Thu 1/29 9:49am
 * New movies: Nirvanna The Band The Show The Movie, Nirvanna The Band The Show The Movie
 
