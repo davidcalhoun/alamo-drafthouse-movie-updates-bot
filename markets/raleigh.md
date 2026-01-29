@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Thu 1/29 9:49am
+* New movies: Nirvanna The Band The Show The Movie, Nirvanna The Band The Show The Movie
+
+* New screenings: 
+    * [Livestream Q A Nirvanna The Band The Show The Movie](https://drafthouse.com/raleigh/show/livestream-q-a-nirvanna-the-band-the-show-the-movie): Wed 2/11 (8:00pm)
+
+    * [Nirvanna The Band The Show The Movie](https://drafthouse.com/raleigh/show/nirvanna-the-band-the-show-the-movie): Thu 2/12 (7:30pm), Fri 2/13 (7:30pm), Sat 2/14 (7:30pm), Sun 2/15 (7:30pm)
+
 ### Thu 1/29 12:52am
 * New movies: The Strangers: Chapter 3
 
