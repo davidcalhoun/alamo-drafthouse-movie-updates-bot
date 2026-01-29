@@ -1,6 +1,18 @@
 # raleigh
 
 ## Movie updates
+### Thu 1/29 2:35pm
+* New movies: The Substance, Nadja, Tales From The Crypt: Demon Knight, Twin Peaks: The Return
+
+* New screenings: 
+    * [Greetings From Twin Peaks Twin Peaks The Return Parts 7 9](https://drafthouse.com/raleigh/show/greetings-from-twin-peaks-twin-peaks-the-return-parts-7-9): Sat 3/7 (11:30am)
+
+    * [Movie Party The Substance](https://drafthouse.com/raleigh/show/movie-party-the-substance): Fri 2/20 (6:00pm)
+
+    * [Terror Tuesday Nadja](https://drafthouse.com/raleigh/show/terror-tuesday-nadja): Tue 2/17 (9:30pm)
+
+    * [Terror Tuesday Tales From The Crypt Demon Knight](https://drafthouse.com/raleigh/show/terror-tuesday-tales-from-the-crypt-demon-knight): Tue 2/10 (9:30pm)
+
 ### Thu 1/29 1:59pm
 
 * New screenings: 
