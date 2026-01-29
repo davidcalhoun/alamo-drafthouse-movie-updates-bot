@@ -1,6 +1,38 @@
 # los-angeles
 
 ## Movie updates
+### Thu 1/29 12:35pm
+* New movies: The Moment, By Design, By Design, Mystery Machine 2/9/2026, Nirvanna The Band The Show, Idiotka, Dance Freak, Twin Peaks: The Return, Twin Peaks: The Return, Twin Peaks: The Return, Twin Peaks: The Return, JEOPARDY! INTERACTIVE, TICKLED
+
+* New screenings: 
+    * [By Design](https://drafthouse.com/los-angeles/show/by-design): Sat 2/14 (7:45pm, 10:30pm), Sun 2/15 (4:45pm, 7:30pm)
+
+    * [Greetings From Twin Peaks Twin Peaks The Return Parts 10 12](https://drafthouse.com/los-angeles/show/greetings-from-twin-peaks-twin-peaks-the-return-parts-10-12): Sat 3/14 (12:00pm)
+
+    * [Greetings From Twin Peaks Twin Peaks The Return Parts 13 15](https://drafthouse.com/los-angeles/show/greetings-from-twin-peaks-twin-peaks-the-return-parts-13-15): Sat 3/21 (12:00pm)
+
+    * [Greetings From Twin Peaks Twin Peaks The Return Parts 16 18](https://drafthouse.com/los-angeles/show/greetings-from-twin-peaks-twin-peaks-the-return-parts-16-18): Sat 3/28 (12:00pm)
+
+    * [Greetings From Twin Peaks Twin Peaks The Return Parts 7 9](https://drafthouse.com/los-angeles/show/greetings-from-twin-peaks-twin-peaks-the-return-parts-7-9): Sat 3/7 (12:00pm)
+
+    * [Idiotka](https://drafthouse.com/los-angeles/show/idiotka): Fri 3/6 (7:20pm), Tue 3/10 (7:20pm)
+
+    * [Jeopardy Interactive](https://drafthouse.com/los-angeles/show/jeopardy-interactive): Wed 2/11 (7:00pm), Wed 2/25 (7:00pm), Wed 3/11 (7:00pm), Wed 3/25 (7:00pm)
+
+    * [Live Q A By Design](https://drafthouse.com/los-angeles/show/live-q-a-by-design): Fri 2/13 (7:45pm)
+
+    * [Mystery Machine 2 9 2026](https://drafthouse.com/los-angeles/show/mystery-machine-2-9-2026): Mon 2/9 (6:30pm)
+
+    * [Special Event Nirvanna The Band The Show Greatest Hits](https://drafthouse.com/los-angeles/show/special-event-nirvanna-the-band-the-show-greatest-hits): Sat 2/7 (10:00pm)
+
+    * [Terror Tuesday Tales From The Crypt Demon Knight](https://drafthouse.com/los-angeles/show/terror-tuesday-tales-from-the-crypt-demon-knight): Tue 2/10 (7:30pm)
+
+    * [The Moment](https://drafthouse.com/los-angeles/show/the-moment): Thu 2/5 (4:00pm, 7:00pm, 10:00pm), Fri 2/6 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sat 2/7 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sun 2/8 (12:45pm, 3:45pm, 6:45pm), Mon 2/9 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Tue 2/10 (12:00pm, 3:00pm, 6:45pm, 9:45pm), Wed 2/11 (12:30pm, 3:30pm, 6:30pm, 9:30pm)
+
+    * [Weird Wednesday Dance Freak](https://drafthouse.com/los-angeles/show/weird-wednesday-dance-freak): Wed 2/18 (9:30pm)
+
+    * [Weird Wednesday Tickled](https://drafthouse.com/los-angeles/show/weird-wednesday-tickled): Wed 2/11 (7:30pm)
+
 ### Thu 1/29 10:53am
 * New movies: Nirvanna The Band The Show The Movie, Crime 101
 
