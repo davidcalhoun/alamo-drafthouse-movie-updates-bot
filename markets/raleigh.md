@@ -1,6 +1,28 @@
 # raleigh
 
 ## Movie updates
+### Thu 1/29 3:40pm
+* New movies: A Better Tomorrow - Hong Kong Cinema Classics, Repo Man, Dance Freak, Twin Peaks: The Return, Twin Peaks: The Return, Twin Peaks: The Return, JEOPARDY! INTERACTIVE, JU-ON: THE GRUDGE 2002, FEAR 1996
+
+* New screenings: 
+    * [A Better Tomorrow Hong Kong Cinema Classics](https://drafthouse.com/raleigh/show/a-better-tomorrow-hong-kong-cinema-classics): Sun 3/1 (12:00pm, 3:00pm), Tue 3/3 (7:00pm)
+
+    * [Greetings From Twin Peaks Twin Peaks The Return Parts 10 12](https://drafthouse.com/raleigh/show/greetings-from-twin-peaks-twin-peaks-the-return-parts-10-12): Sat 3/14 (12:00pm)
+
+    * [Greetings From Twin Peaks Twin Peaks The Return Parts 13 15](https://drafthouse.com/raleigh/show/greetings-from-twin-peaks-twin-peaks-the-return-parts-13-15): Sat 3/21 (12:00pm)
+
+    * [Greetings From Twin Peaks Twin Peaks The Return Parts 16 18](https://drafthouse.com/raleigh/show/greetings-from-twin-peaks-twin-peaks-the-return-parts-16-18): Sat 3/28 (12:00pm)
+
+    * [Guest Selects Repo Man](https://drafthouse.com/raleigh/show/guest-selects-repo-man): Sat 2/7 (10:30pm)
+
+    * [Jeopardy Interactive](https://drafthouse.com/raleigh/show/jeopardy-interactive): Wed 3/11 (7:00pm), Wed 3/25 (7:00pm)
+
+    * [Terror Tuesday Ju On The Grudge 2002](https://drafthouse.com/raleigh/show/terror-tuesday-ju-on-the-grudge-2002): Tue 2/24 (9:30pm)
+
+    * [Weird Wednesday Dance Freak](https://drafthouse.com/raleigh/show/weird-wednesday-dance-freak): Wed 2/18 (9:30pm)
+
+    * [Weird Wednesday Fear 1996](https://drafthouse.com/raleigh/show/weird-wednesday-fear-1996): Wed 2/25 (9:30pm)
+
 ### Thu 1/29 2:35pm
 * New movies: The Substance, Nadja, Tales From The Crypt: Demon Knight, Twin Peaks: The Return
 
