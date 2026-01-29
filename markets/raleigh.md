@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Thu 1/29 1:59pm
+
+* New screenings: 
+    * [The Moment](https://drafthouse.com/raleigh/show/the-moment): Wed 2/11 (4:15pm, 7:00pm, 10:00pm)
+
 ### Thu 1/29 12:47pm
 
 * New screenings: 
