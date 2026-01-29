@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 1/29 6:34pm
+* New movies: Mystery Machine 2/9/2026
+
+* New screenings: 
+    * [Mystery Machine 2 9 2026](https://drafthouse.com/raleigh/show/mystery-machine-2-9-2026): Mon 2/9 (7:00pm)
+
 ### Thu 1/29 3:40pm
 * New movies: A Better Tomorrow - Hong Kong Cinema Classics, Repo Man, Dance Freak, Twin Peaks: The Return, Twin Peaks: The Return, Twin Peaks: The Return, JEOPARDY! INTERACTIVE, JU-ON: THE GRUDGE 2002, FEAR 1996
 
