@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 1/29 12:52am
+* New movies: The Strangers: Chapter 3
+
+* New screenings: 
+    * [The Strangers Chapter 3](https://drafthouse.com/raleigh/show/the-strangers-chapter-3): Thu 2/5 (6:00pm), Fri 2/6 (7:00pm), Sat 2/7 (6:45pm), Sun 2/8 (6:45pm), Mon 2/9 (6:45pm), Tue 2/10 (6:45pm), Wed 2/11 (6:45pm)
+
 ### Wed 1/28 3:42pm
 * New movies: The Moment
 
