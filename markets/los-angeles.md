@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 1/29 6:40am
+* New movies: Nirvanna The Band The Show The Movie, Nirvanna The Band The Show The Movie
+
+* New screenings: 
+    * [Livestream Q A Nirvanna The Band The Show The Movie](https://drafthouse.com/los-angeles/show/livestream-q-a-nirvanna-the-band-the-show-the-movie): Wed 2/11 (5:00pm)
+
+    * [Special Event Nirvanna The Band The Show The Movie Fedora Screening](https://drafthouse.com/los-angeles/show/special-event-nirvanna-the-band-the-show-the-movie-fedora-screening): Fri 2/13 (7:30pm)
+
 ### Wed 1/28 6:35am
 * New movies: Hoppers
 
