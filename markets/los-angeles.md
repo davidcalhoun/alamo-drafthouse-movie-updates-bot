@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 1/30 9:37am
+* New movies: The Mist
+
+* New screenings: 
+    * [Free Victory Screening The Mist](https://drafthouse.com/los-angeles/show/free-victory-screening-the-mist): Fri 2/13 (7:15pm)
+
 ### Thu 1/29 12:35pm
 * New movies: The Moment, By Design, By Design, Mystery Machine 2/9/2026, Nirvanna The Band The Show, Idiotka, Dance Freak, Twin Peaks: The Return, Twin Peaks: The Return, Twin Peaks: The Return, Twin Peaks: The Return, JEOPARDY! INTERACTIVE, TICKLED
 
