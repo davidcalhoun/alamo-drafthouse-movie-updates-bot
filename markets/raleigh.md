@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 1/30 12:43pm
+* New movies: The Mist
+
+* New screenings: 
+    * [Free Victory Screening The Mist](https://drafthouse.com/raleigh/show/free-victory-screening-the-mist): Fri 2/13 (7:00pm)
+
 ### Thu 1/29 6:34pm
 * New movies: Mystery Machine 2/9/2026
 
