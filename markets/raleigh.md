@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 1/30 3:40pm
+
+* New screenings: 
+    * [Wuthering Heights 2026](https://drafthouse.com/raleigh/show/wuthering-heights-2026): Fri 2/13 (11:15am, 12:15pm, 2:35pm, 3:35pm, 6:00pm, 9:20pm, 10:15pm), Sat 2/14 (12:15pm, 3:35pm, 7:00pm, 10:20pm), Sun 2/15 (12:15pm, 3:35pm, 7:00pm, 9:20pm, 10:20pm), Mon 2/16 (11:15am, 12:15pm, 2:35pm, 3:35pm, 6:00pm, 7:00pm), Tue 2/17 (11:15am, 12:15pm, 2:35pm, 3:35pm, 6:00pm, 7:00pm, 9:20pm, 10:20pm), Wed 2/18 (2:30pm, 3:30pm, 6:00pm, 7:00pm, 9:20pm, 10:20pm)
+
 ### Fri 1/30 12:43pm
 * New movies: The Mist
 
