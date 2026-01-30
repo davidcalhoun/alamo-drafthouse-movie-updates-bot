@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Fri 1/30 10:50am
+
+* New screenings: 
+    * [Guest Selects Ciao Manhattan](https://drafthouse.com/los-angeles/show/guest-selects-ciao-manhattan): Mon 2/9 (3:45pm)
+
+    * [Jeopardy Interactive](https://drafthouse.com/los-angeles/show/jeopardy-interactive): Wed 3/4 (7:00pm), Wed 3/18 (7:00pm)
+
 ### Fri 1/30 9:37am
 * New movies: The Mist
 
