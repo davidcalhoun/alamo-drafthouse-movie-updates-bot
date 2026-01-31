@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Sat 1/31 11:40am
+
+* New screenings: 
+    * [Greetings From Twin Peaks Twin Peaks Episodes 28 30](https://drafthouse.com/raleigh/show/greetings-from-twin-peaks-twin-peaks-episodes-28-30): Tue 2/10 (3:00pm)
+
 ### Fri 1/30 3:40pm
 
 * New screenings: 
