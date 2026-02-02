@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 2/2 8:47am
+* New movies: I Live Here Now
+
+* New screenings: 
+    * [Special Event I Live Here Now Twin Peaks Day Sneak Preview](https://drafthouse.com/los-angeles/show/special-event-i-live-here-now-twin-peaks-day-sneak-preview): Tue 2/24 (9:45pm)
+
 ### Fri 1/30 10:50am
 
 * New screenings: 
