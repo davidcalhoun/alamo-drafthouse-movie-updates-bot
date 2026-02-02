@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 2/2 11:54am
+* New movies: Paul McCartney: Man on the Run
+
+* New screenings: 
+    * [Paul Mccartney Man On The Run](https://drafthouse.com/raleigh/show/paul-mccartney-man-on-the-run): Thu 2/19 (7:00pm)
+
 ### Sat 1/31 11:40am
 
 * New screenings: 
