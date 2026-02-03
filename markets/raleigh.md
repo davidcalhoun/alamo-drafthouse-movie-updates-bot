@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 2/3 9:54am
+* New movies: EPiC: Elvis Presley in Concert
+
+* New screenings: 
+    * [Epic Elvis Presley In Concert](https://drafthouse.com/raleigh/show/epic-elvis-presley-in-concert): Thu 2/26 (7:45pm), Fri 2/27 (6:45pm), Sat 2/28 (7:15pm), Sun 3/1 (6:45pm)
+
 ### Mon 2/2 11:54pm
 * New movies: Dracula 2026, Twin Peaks
 
