@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 2/3 3:31pm
+* New movies: Operation Taco Gary's
+
+* New screenings: 
+    * [Operation Taco Garys](https://drafthouse.com/los-angeles/show/operation-taco-garys): Sat 2/28 (9:45pm), Tue 3/3 (7:20pm)
+
 ### Tue 2/3 6:48am
 * New movies: EPiC: Elvis Presley in Concert, EPiC: Elvis Presley in Concert
 
