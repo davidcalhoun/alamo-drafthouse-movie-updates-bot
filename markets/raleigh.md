@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Mon 2/2 9:51pm
+* New movies: BLKNWS: Terms & Conditions, That Time I Got Reincarnated As a Slime The Movie: Scarlet Bond Subtitled, Wetiko
+
+* New screenings: 
+    * [Blknws Terms Conditions](https://drafthouse.com/raleigh/show/blknws-terms-conditions): Fri 2/20 (3:00pm), Sat 2/21 (12:30pm), Sun 2/22 (6:00pm), Mon 2/23 (3:30pm), Tue 2/24 (4:00pm), Wed 2/25 (1:00pm), Thu 2/26 (2:00pm)
+
+    * [That Time I Got Reincarnated As A Slime The Movie Scarlet Bond Subtitled](https://drafthouse.com/raleigh/show/that-time-i-got-reincarnated-as-a-slime-the-movie-scarlet-bond-subtitled): Mon 4/20 (7:00pm)
+
+    * [Wetiko](https://drafthouse.com/raleigh/show/wetiko): Mon 3/2 (8:00pm)
+
 ### Mon 2/2 11:54am
 * New movies: Paul McCartney: Man on the Run
 
