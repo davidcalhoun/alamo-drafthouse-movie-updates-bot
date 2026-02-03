@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 2/3 6:48am
+* New movies: EPiC: Elvis Presley in Concert, EPiC: Elvis Presley in Concert
+
+* New screenings: 
+    * [Epic Elvis Presley In Concert](https://drafthouse.com/los-angeles/show/epic-elvis-presley-in-concert): Thu 2/26 (7:45pm), Fri 2/27 (4:30pm, 7:15pm), Sat 2/28 (4:30pm, 7:15pm), Sun 3/1 (1:45pm, 4:30pm)
+
+    * [Special Event Epic Elvis Presley In Concert Dance Along](https://drafthouse.com/los-angeles/show/special-event-epic-elvis-presley-in-concert-dance-along): Tue 2/24 (7:20pm)
+
 ### Mon 2/2 3:32pm
 * New movies: The Strangers: Chapter 3, Repo Man, The Voice of Hind Rajab, Wetiko, The Phantom of the Opera 2004, That Time I Got Reincarnated As a Slime The Movie: Scarlet Bond Subtitled, Paul McCartney: Man on the Run, Wetiko
 
