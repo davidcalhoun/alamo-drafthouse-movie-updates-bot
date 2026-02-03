@@ -1,6 +1,46 @@
 # raleigh
 
 ## Movie updates
+### Mon 2/2 11:54pm
+* New movies: Dracula 2026, Twin Peaks
+
+* New screenings: 
+    * [28 Years Later The Bone Temple](https://drafthouse.com/raleigh/show/28-years-later-the-bone-temple): Thu 2/5 (9:15pm), Fri 2/6 (10:35pm), Sat 2/7 (9:00pm), Sun 2/8 (6:30pm), Mon 2/9 (10:10pm), Tue 2/10 (10:30pm)
+
+    * [Arco](https://drafthouse.com/raleigh/show/arco): Thu 2/5 (2:15pm, 5:00pm, 7:30pm, 10:45pm), Fri 2/6 (1:55pm, 4:05pm, 7:30pm, 10:00pm), Sat 2/7 (1:15pm, 5:00pm, 6:45pm, 10:35pm), Sun 2/8 (12:50pm, 4:35pm, 6:30pm), Mon 2/9 (5:00pm, 7:45pm, 10:20pm), Tue 2/10 (2:15pm, 4:55pm, 7:30pm, 10:00pm), Wed 2/11 (4:00pm, 6:45pm, 9:30pm)
+
+    * [Dracula 2026](https://drafthouse.com/raleigh/show/dracula-2026): Thu 2/5 (12:55pm, 4:05pm, 7:15pm, 9:20pm, 10:10pm), Fri 2/6 (12:45pm, 4:00pm, 7:15pm, 10:00pm), Sat 2/7 (11:45am, 3:00pm, 6:15pm, 9:35pm), Sun 2/8 (1:10pm, 3:00pm, 6:15pm), Mon 2/9 (2:45pm, 7:15pm, 9:00pm), Tue 2/10 (12:45pm, 2:45pm, 6:00pm, 9:10pm), Wed 2/11 (2:50pm, 6:00pm, 9:15pm)
+
+    * [Greetings From Twin Peaks Twin Peaks Episodes 14 17](https://drafthouse.com/raleigh/show/greetings-from-twin-peaks-twin-peaks-episodes-14-17): Thu 2/5 (3:10pm)
+
+    * [Guest Selects Josie And The Pussycats](https://drafthouse.com/raleigh/show/guest-selects-josie-and-the-pussycats): Thu 2/5 (1:15pm)
+
+    * [Guest Selects Repo Man](https://drafthouse.com/raleigh/show/guest-selects-repo-man): Sat 2/7 (3:30pm)
+
+    * [Iron Lung](https://drafthouse.com/raleigh/show/iron-lung): Thu 2/5 (3:00pm, 6:15pm), Fri 2/6 (7:00pm), Sat 2/7 (6:15pm), Sun 2/8 (6:15pm), Mon 2/9 (6:00pm), Tue 2/10 (7:15pm), Wed 2/11 (6:00pm, 9:45pm)
+
+    * [Marty Supreme](https://drafthouse.com/raleigh/show/marty-supreme): Thu 2/5 (12:00pm, 3:45pm, 7:15pm, 9:30pm), Fri 2/6 (1:00pm, 2:30pm, 6:00pm, 9:35pm), Sat 2/7 (12:40pm, 2:30pm, 6:00pm, 9:40pm), Sun 2/8 (11:30am, 3:15pm, 7:00pm), Mon 2/9 (2:45pm, 6:15pm, 9:50pm), Tue 2/10 (2:25pm, 3:00pm, 6:45pm, 9:00pm), Wed 2/11 (2:45pm, 6:15pm, 9:15pm)
+
+    * [Mercy](https://drafthouse.com/raleigh/show/mercy): Thu 2/5 (10:25pm), Fri 2/6 (10:15pm), Sat 2/7 (10:20pm), Sun 2/8 (4:40pm), Mon 2/9 (9:15pm), Tue 2/10 (10:30pm), Wed 2/11 (10:00pm)
+
+    * [No Other Choice](https://drafthouse.com/raleigh/show/no-other-choice): Thu 2/5 (3:00pm)
+
+    * [Send Help](https://drafthouse.com/raleigh/show/send-help): Thu 2/5 (12:15pm, 3:15pm, 6:30pm, 9:30pm), Fri 2/6 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sat 2/7 (12:45pm, 3:45pm, 7:15pm, 9:25pm), Sun 2/8 (12:35pm, 3:40pm, 7:15pm), Mon 2/9 (3:45pm, 6:00pm, 9:25pm), Tue 2/10 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Wed 2/11 (3:45pm, 7:15pm, 9:45pm)
+
+    * [Shelter 2026](https://drafthouse.com/raleigh/show/shelter-2026): Thu 2/5 (12:30pm, 3:30pm, 6:25pm, 9:45pm), Fri 2/6 (1:35pm, 4:35pm, 6:45pm, 9:40pm), Sat 2/7 (2:00pm, 3:50pm, 7:45pm, 9:15pm), Sun 2/8 (1:40pm, 3:30pm, 7:15pm), Mon 2/9 (3:55pm, 6:45pm, 9:40pm), Tue 2/10 (12:45pm, 3:40pm, 6:30pm, 9:20pm), Wed 2/11 (4:10pm, 7:00pm, 10:00pm)
+
+    * [Stray Kids The Dominate Experience](https://drafthouse.com/raleigh/show/stray-kids-the-dominate-experience): Fri 2/6 (2:25pm), Mon 2/9 (3:00pm)
+
+    * [The Housemaid 2025](https://drafthouse.com/raleigh/show/the-housemaid-2025): Thu 2/5 (12:15pm, 3:30pm), Fri 2/6 (1:00pm), Sat 2/7 (4:15pm), Sun 2/8 (1:15pm), Mon 2/9 (10:05pm), Tue 2/10 (10:15pm), Wed 2/11 (5:45pm)
+
+    * [The Moment](https://drafthouse.com/raleigh/show/the-moment): Thu 2/5 (6:15pm, 6:45pm, 7:30pm), Fri 2/6 (4:15pm, 4:40pm, 7:15pm, 7:30pm, 10:15pm), Sat 2/7 (12:20pm, 3:10pm, 6:00pm, 7:30pm, 9:30pm), Sun 2/8 (1:00pm, 4:00pm, 7:00pm, 7:30pm), Mon 2/9 (4:00pm, 7:00pm, 10:00pm), Tue 2/10 (1:30pm, 4:30pm, 6:00pm, 7:30pm, 9:45pm), Wed 2/11 (5:00pm, 9:00pm)
+
+    * [The Strangers Chapter 3](https://drafthouse.com/raleigh/show/the-strangers-chapter-3): Thu 2/5 (9:00pm), Fri 2/6 (1:20pm, 4:10pm, 10:25pm), Sat 2/7 (1:55pm, 4:35pm, 10:15pm), Sun 2/8 (12:20pm, 4:20pm), Mon 2/9 (4:35pm, 10:30pm), Tue 2/10 (12:20pm, 4:00pm, 9:45pm), Wed 2/11 (4:25pm, 10:15pm)
+
+    * [The Testament Of Ann Lee](https://drafthouse.com/raleigh/show/the-testament-of-ann-lee): Thu 2/5 (2:40pm), Fri 2/6 (12:45pm), Sat 2/7 (12:25pm), Sun 2/8 (12:25pm), Mon 2/9 (3:40pm), Tue 2/10 (1:25pm), Wed 2/11 (2:25pm)
+
+    * [The Voice Of Hind Rajab](https://drafthouse.com/raleigh/show/the-voice-of-hind-rajab): Thu 2/5 (12:30pm), Fri 2/6 (4:30pm), Sat 2/7 (3:45pm), Sun 2/8 (3:45pm), Mon 2/9 (3:20pm), Tue 2/10 (4:45pm), Wed 2/11 (3:20pm)
+
 ### Mon 2/2 9:51pm
 * New movies: BLKNWS: Terms & Conditions, That Time I Got Reincarnated As a Slime The Movie: Scarlet Bond Subtitled, Wetiko
 
