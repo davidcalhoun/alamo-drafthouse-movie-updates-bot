@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 2/3 6:36pm
+* New movies: Operation Taco Gary's
+
+* New screenings: 
+    * [Operation Taco Garys](https://drafthouse.com/raleigh/show/operation-taco-garys): Sat 2/28 (9:45pm), Tue 3/3 (4:30pm)
+
 ### Tue 2/3 9:54am
 * New movies: EPiC: Elvis Presley in Concert
 
