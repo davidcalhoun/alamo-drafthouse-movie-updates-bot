@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 2/4 6:42am
+* New movies: Kokuho
+
+* New screenings: 
+    * [Kokuho](https://drafthouse.com/los-angeles/show/kokuho): Fri 2/20 (12:00pm, 4:00pm, 8:00pm), Sat 2/21 (12:00pm, 4:00pm, 8:00pm), Sun 2/22 (11:00am, 3:00pm, 7:00pm)
+
 ### Tue 2/3 3:31pm
 * New movies: Operation Taco Gary's
 
