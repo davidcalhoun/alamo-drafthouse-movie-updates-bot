@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Wed 2/4 10:53am
+* New movies: How to Make a Killing, Mystery Machine 2/16/2026
+
+* New screenings: 
+    * [How To Make A Killing](https://drafthouse.com/raleigh/show/how-to-make-a-killing): Thu 2/19 (7:30pm), Fri 2/20 (7:00pm), Sat 2/21 (6:30pm), Sun 2/22 (7:00pm)
+
+    * [Mystery Machine 2 16 2026](https://drafthouse.com/raleigh/show/mystery-machine-2-16-2026): Mon 2/16 (7:30pm)
+
 ### Tue 2/3 6:36pm
 * New movies: Operation Taco Gary's
 
