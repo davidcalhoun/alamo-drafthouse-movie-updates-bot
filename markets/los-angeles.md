@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 2/4 7:48am
+* New movies: How to Make a Killing, Mystery Machine 2/16/2026
+
+* New screenings: 
+    * [How To Make A Killing](https://drafthouse.com/los-angeles/show/how-to-make-a-killing): Thu 2/19 (7:00pm), Fri 2/20 (4:15pm, 7:15pm), Sat 2/21 (4:00pm, 7:00pm), Sun 2/22 (4:00pm, 7:00pm)
+
+    * [Mystery Machine 2 16 2026](https://drafthouse.com/los-angeles/show/mystery-machine-2-16-2026): Mon 2/16 (7:00pm)
+
 ### Wed 2/4 6:42am
 * New movies: Kokuho
 
