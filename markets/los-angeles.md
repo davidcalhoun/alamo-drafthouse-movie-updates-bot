@@ -1,6 +1,17 @@
 # los-angeles
 
 ## Movie updates
+### Thu 2/5 9:51am
+
+* New screenings: 
+    * [Crime 101](https://drafthouse.com/los-angeles/show/crime-101): Fri 2/13 (12:15pm, 10:45pm), Sat 2/14 (12:15pm, 10:45pm), Sun 2/15 (12:15pm, 10:45pm), Mon 2/16 (12:15pm)
+
+    * [Good Luck Have Fun Dont Die](https://drafthouse.com/los-angeles/show/good-luck-have-fun-dont-die): Fri 2/13 (11:45am, 10:15pm), Sat 2/14 (11:45am, 10:15pm), Sun 2/15 (11:45am, 10:15pm), Mon 2/16 (11:45am)
+
+    * [Nirvanna The Band The Show The Movie](https://drafthouse.com/los-angeles/show/nirvanna-the-band-the-show-the-movie): Fri 2/13 (11:00am, 1:50pm), Sat 2/14 (11:00am, 1:50pm), Sun 2/15 (11:00am, 1:50pm, 10:20pm), Mon 2/16 (11:00am, 1:50pm)
+
+    * [Wuthering Heights 2026](https://drafthouse.com/los-angeles/show/wuthering-heights-2026): Sun 2/15 (9:30pm, 10:30pm), Mon 2/16 (11:00am, 12:00pm)
+
 ### Wed 2/4 7:48am
 * New movies: How to Make a Killing, Mystery Machine 2/16/2026
 
