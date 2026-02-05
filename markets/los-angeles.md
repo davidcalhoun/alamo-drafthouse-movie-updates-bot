@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 2/5 3:27pm
+
+* New screenings: 
+    * [Wuthering Heights 2026](https://drafthouse.com/los-angeles/show/wuthering-heights-2026): Sat 2/14 (11:30am, 3:00pm, 6:30pm), Sun 2/15 (11:30am, 3:00pm, 6:30pm), Mon 2/16 (12:30pm, 4:00pm, 7:30pm)
+
 ### Thu 2/5 9:51am
 
 * New screenings: 
