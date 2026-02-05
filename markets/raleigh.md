@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Thu 2/5 2:00pm
+* New movies: On Cinema at the Cinema Special
+
+* New screenings: 
+    * [Jeopardy Interactive](https://drafthouse.com/raleigh/show/jeopardy-interactive): Wed 2/11 (7:00pm), Wed 2/18 (7:00pm), Wed 2/25 (7:00pm), Wed 3/4 (7:00pm), Wed 3/18 (7:00pm)
+
+    * [On Cinema At The Cinema Special](https://drafthouse.com/raleigh/show/on-cinema-at-the-cinema-special): Sun 3/15 (7:00pm)
+
 ### Wed 2/4 10:53am
 * New movies: How to Make a Killing, Mystery Machine 2/16/2026
 
