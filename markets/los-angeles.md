@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 2/6 8:51am
+* New movies: The Whitest Kids U' Know's Mars
+
+* New screenings: 
+    * [Live Q A The Whitest Kids U Knows Mars](https://drafthouse.com/los-angeles/show/live-q-a-the-whitest-kids-u-knows-mars): Fri 2/20 (7:00pm, 7:30pm)
+
 ### Thu 2/5 6:30pm
 * New movies: Phantom of the Mall: Eric's Revenge, Bushido
 
