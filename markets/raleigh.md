@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Fri 2/6 5:36pm
+
+* New screenings: 
+    * [Titanic 1997](https://drafthouse.com/raleigh/show/titanic-1997): Tue 2/24 (11:00am)
+
+    * [Twin Peaks Fire Walk With Me](https://drafthouse.com/raleigh/show/twin-peaks-fire-walk-with-me): Wed 2/18 (3:00pm)
+
 ### Fri 2/6 12:51pm
 
 * New screenings: 
