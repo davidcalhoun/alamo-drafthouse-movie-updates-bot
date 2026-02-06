@@ -1,6 +1,20 @@
 # los-angeles
 
 ## Movie updates
+### Thu 2/5 6:30pm
+* New movies: Phantom of the Mall: Eric's Revenge, Bushido
+
+* New screenings: 
+    * [Bushido](https://drafthouse.com/los-angeles/show/bushido): Sat 3/14 (4:15pm)
+
+    * [Terror Tuesday Phantom Of The Mall Erics Revenge](https://drafthouse.com/los-angeles/show/terror-tuesday-phantom-of-the-mall-erics-revenge): Tue 2/24 (7:00pm)
+
+    * [Titanic 1997](https://drafthouse.com/los-angeles/show/titanic-1997): Mon 2/23 (11:00am)
+
+    * [Twin Peaks Fire Walk With Me](https://drafthouse.com/los-angeles/show/twin-peaks-fire-walk-with-me): Sun 2/15 (10:15pm)
+
+    * [Wuthering Heights 2026](https://drafthouse.com/los-angeles/show/wuthering-heights-2026): Thu 2/12 (4:00pm, 7:30pm), Fri 2/13 (12:45pm, 4:15pm, 6:15pm)
+
 ### Thu 2/5 3:27pm
 
 * New screenings: 
