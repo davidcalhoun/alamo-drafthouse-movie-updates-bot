@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Fri 2/6 12:51pm
+
+* New screenings: 
+    * [Goat](https://drafthouse.com/raleigh/show/goat): Sun 2/15 (9:00pm)
+
+    * [Nirvanna The Band The Show The Movie](https://drafthouse.com/raleigh/show/nirvanna-the-band-the-show-the-movie): Sun 2/15 (10:35pm)
+
 ### Thu 2/5 2:00pm
 * New movies: On Cinema at the Cinema Special
 
