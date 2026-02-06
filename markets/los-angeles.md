@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 2/6 2:29pm
+* New movies: Goat, On Cinema at the Cinema Special
+
+* New screenings: 
+    * [Goat](https://drafthouse.com/los-angeles/show/goat): Thu 2/12 (4:50pm, 7:40pm, 10:30pm), Fri 2/13 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Sat 2/14 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Sun 2/15 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Mon 2/16 (11:00am, 1:50pm, 4:40pm, 7:30pm)
+
+    * [On Cinema At The Cinema Special](https://drafthouse.com/los-angeles/show/on-cinema-at-the-cinema-special): Sun 3/15 (4:00pm)
+
 ### Fri 2/6 8:51am
 * New movies: The Whitest Kids U' Know's Mars
 
