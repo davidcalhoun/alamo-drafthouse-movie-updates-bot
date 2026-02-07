@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Sat 2/7 12:34pm
+* New movies: Andre is an Idiot
+
+* New screenings: 
+    * [Andre Is An Idiot](https://drafthouse.com/raleigh/show/andre-is-an-idiot): Fri 3/27 (6:15pm)
+
 ### Fri 2/6 5:36pm
 
 * New screenings: 
