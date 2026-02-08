@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Sun 2/8 12:37am
+* New movies: Mystery Machine 3/9/2026
+
+* New screenings: 
+    * [Mystery Machine 3 9 2026](https://drafthouse.com/los-angeles/show/mystery-machine-3-9-2026): Mon 3/9 (7:00pm)
+
 ### Fri 2/6 2:29pm
 * New movies: Goat, On Cinema at the Cinema Special
 
