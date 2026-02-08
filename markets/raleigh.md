@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Sun 2/8 1:50pm
+
+* New screenings: 
+    * [Wuthering Heights 2026](https://drafthouse.com/raleigh/show/wuthering-heights-2026): Thu 2/12 (9:00pm)
+
 ### Sat 2/7 12:34pm
 * New movies: Andre is an Idiot
 
