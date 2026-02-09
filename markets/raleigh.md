@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 2/9 12:13pm
+* New movies: Bring Me the Horizon - L.I.V.E. in Sao Paulo Live Immersive Virtual Experiment
+
+* New screenings: 
+    * [Bring Me The Horizon L I V E In Sao Paulo Live Immersive Virtual Experiment](https://drafthouse.com/raleigh/show/bring-me-the-horizon-l-i-v-e-in-sao-paulo-live-immersive-virtual-experiment): Wed 3/25 (7:15pm), Sat 3/28 (4:15pm)
+
 ### Mon 2/9 10:01am
 * New movies: Scream 7
 
