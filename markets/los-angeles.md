@@ -1,6 +1,68 @@
 # los-angeles
 
 ## Movie updates
+### Mon 2/9 3:40pm
+* New movies: The Voice of Hind Rajab, 13 Going on 30, WUTHERING HEIGHTS 2026 Free Victory Screening, BY DESIGN Free Victory Screening, CRIME 101 Free Victory Screening, DRACULA 2026 Free Victory Screening, NIRVANNA THE BAND THE SHOW THE MOVIE, GOAT Free Victory Screening, GOOD LUCK, HAVE FUN, DON’T DIE Free Victory Screening, SEND HELP Free Victory Screening, THE MOMENT Free Victory Screening, THE VOICE OF HIND RAJAB Free Victory Screening
+
+* New screenings: 
+    * [13 Going On 30](https://drafthouse.com/los-angeles/show/13-going-on-30): Sat 2/14 (2:15pm)
+
+    * [28 Years Later The Bone Temple](https://drafthouse.com/los-angeles/show/28-years-later-the-bone-temple): Thu 2/12 (1:15pm, 4:20pm), Sun 2/15 (10:00pm)
+
+    * [Arco](https://drafthouse.com/los-angeles/show/arco): Thu 2/12 (11:15am), Sun 2/15 (1:20pm)
+
+    * [Brief Encounter](https://drafthouse.com/los-angeles/show/brief-encounter): Thu 2/12 (3:45pm)
+
+    * [By Design](https://drafthouse.com/los-angeles/show/by-design): Fri 2/13 (4:15pm, 10:45pm), Sat 2/14 (5:00pm), Sun 2/15 (9:15pm), Mon 2/16 (12:30pm, 3:15pm, 7:15pm)
+
+    * [By Design Free Victory Screening](https://drafthouse.com/los-angeles/show/by-design-free-victory-screening): Wed 2/18 (7:00pm, 9:45pm)
+
+    * [Crime 101 Free Victory Screening](https://drafthouse.com/los-angeles/show/crime-101-free-victory-screening): Wed 2/18 (6:45pm, 10:15pm)
+
+    * [Dracula 2026](https://drafthouse.com/los-angeles/show/dracula-2026): Thu 2/12 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Fri 2/13 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Sat 2/14 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Sun 2/15 (4:00pm, 7:15pm, 10:30pm), Mon 2/16 (12:45pm, 4:00pm)
+
+    * [Dracula 2026 Free Victory Screening](https://drafthouse.com/los-angeles/show/dracula-2026-free-victory-screening): Wed 2/18 (7:15pm, 10:30pm)
+
+    * [Drafthouse Recommends Nirvanna The Band The Show The Movie Free Victory Scr](https://drafthouse.com/los-angeles/show/drafthouse-recommends-nirvanna-the-band-the-show-the-movie-free-victory-scr): Wed 2/18 (8:00pm, 10:45pm)
+
+    * [Goat](https://drafthouse.com/los-angeles/show/goat): Thu 2/12 (2:00pm)
+
+    * [Goat Free Victory Screening](https://drafthouse.com/los-angeles/show/goat-free-victory-screening): Wed 2/18 (6:00pm, 8:50pm)
+
+    * [Good Luck Have Fun Dont Die Free Victory Screening](https://drafthouse.com/los-angeles/show/good-luck-have-fun-dont-die-free-victory-screening): Wed 2/18 (6:30pm, 10:00pm)
+
+    * [Greetings From Twin Peaks Twin Peaks Episodes 28 30](https://drafthouse.com/los-angeles/show/greetings-from-twin-peaks-twin-peaks-episodes-28-30): Thu 2/12 (11:30am)
+
+    * [Iron Lung](https://drafthouse.com/los-angeles/show/iron-lung): Thu 2/12 (11:45am)
+
+    * [Islands](https://drafthouse.com/los-angeles/show/islands): Thu 2/12 (12:00pm)
+
+    * [Marty Supreme](https://drafthouse.com/los-angeles/show/marty-supreme): Thu 2/12 (11:45am, 12:30pm), Fri 2/13 (12:30pm), Sun 2/15 (12:30pm)
+
+    * [No Other Choice](https://drafthouse.com/los-angeles/show/no-other-choice): Thu 2/12 (12:30pm)
+
+    * [Send Help](https://drafthouse.com/los-angeles/show/send-help): Thu 2/12 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Fri 2/13 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sat 2/14 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sun 2/15 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Mon 2/16 (12:15pm, 3:15pm, 6:15pm)
+
+    * [Send Help Free Victory Screening](https://drafthouse.com/los-angeles/show/send-help-free-victory-screening): Wed 2/18 (6:15pm, 9:15pm)
+
+    * [Shelter 2026](https://drafthouse.com/los-angeles/show/shelter-2026): Thu 2/12 (3:00pm)
+
+    * [Special Event Nirvanna The Band The Show Greatest Hits](https://drafthouse.com/los-angeles/show/special-event-nirvanna-the-band-the-show-greatest-hits): Thu 2/12 (1:00pm)
+
+    * [The Moment](https://drafthouse.com/los-angeles/show/the-moment): Thu 2/12 (12:45pm, 3:45pm, 6:45pm, 11:00pm), Fri 2/13 (4:15pm, 7:15pm, 10:15pm), Sat 2/14 (11:20am, 4:15pm, 7:15pm, 10:15pm), Sun 2/15 (4:15pm, 7:15pm, 10:15pm), Mon 2/16 (1:15pm, 4:15pm, 7:15pm)
+
+    * [The Moment Free Victory Screening](https://drafthouse.com/los-angeles/show/the-moment-free-victory-screening): Wed 2/18 (7:30pm, 10:30pm)
+
+    * [The Voice Of Hind Rajab](https://drafthouse.com/los-angeles/show/the-voice-of-hind-rajab): Thu 2/12 (3:15pm), Sun 2/15 (3:00pm), Mon 2/16 (12:45pm)
+
+    * [The Voice Of Hind Rajab Free Victory Screening](https://drafthouse.com/los-angeles/show/the-voice-of-hind-rajab-free-victory-screening): Wed 2/18 (10:45pm)
+
+    * [Twin Peaks Fire Walk With Me](https://drafthouse.com/los-angeles/show/twin-peaks-fire-walk-with-me): Mon 2/16 (3:30pm)
+
+    * [Wuthering Heights 2026](https://drafthouse.com/los-angeles/show/wuthering-heights-2026): Thu 2/12 (3:00pm, 6:00pm, 6:30pm, 9:30pm, 9:45pm, 10:00pm), Fri 2/13 (11:15am, 12:45pm, 2:45pm, 10:30pm), Sat 2/14 (12:45pm, 1:00pm, 4:30pm, 8:00pm, 10:00pm, 11:30pm), Sun 2/15 (1:15pm, 5:45pm)
+
+    * [Wuthering Heights 2026 Free Victory Screening](https://drafthouse.com/los-angeles/show/wuthering-heights-2026-free-victory-screening): Wed 2/18 (6:00pm, 6:30pm, 7:00pm, 7:15pm, 9:30pm, 10:00pm, 10:30pm)
+
 ### Mon 2/9 1:42pm
 * New movies: Andre is an Idiot
 
