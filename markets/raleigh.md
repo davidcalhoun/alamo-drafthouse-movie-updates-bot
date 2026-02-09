@@ -1,6 +1,35 @@
 # raleigh
 
 ## Movie updates
+### Mon 2/9 6:48pm
+
+* New screenings: 
+    * [Crime 101](https://drafthouse.com/raleigh/show/crime-101): Thu 2/12 (4:00pm, 9:45pm)
+
+    * [Dracula 2026](https://drafthouse.com/raleigh/show/dracula-2026): Thu 2/12 (9:20pm)
+
+    * [Goat](https://drafthouse.com/raleigh/show/goat): Thu 2/12 (9:15pm)
+
+    * [Iron Lung](https://drafthouse.com/raleigh/show/iron-lung): Thu 2/12 (3:30pm)
+
+    * [Marty Supreme](https://drafthouse.com/raleigh/show/marty-supreme): Thu 2/12 (4:45pm)
+
+    * [Nirvanna The Band The Show The Movie](https://drafthouse.com/raleigh/show/nirvanna-the-band-the-show-the-movie): Thu 2/12 (10:30pm)
+
+    * [Paul Mccartney Man On The Run](https://drafthouse.com/raleigh/show/paul-mccartney-man-on-the-run): Sun 2/22 (6:15pm)
+
+    * [Send Help](https://drafthouse.com/raleigh/show/send-help): Thu 2/12 (3:40pm, 6:40pm, 10:15pm)
+
+    * [Shelter 2026](https://drafthouse.com/raleigh/show/shelter-2026): Thu 2/12 (3:10pm)
+
+    * [The Housemaid 2025](https://drafthouse.com/raleigh/show/the-housemaid-2025): Thu 2/12 (6:20pm)
+
+    * [The Moment](https://drafthouse.com/raleigh/show/the-moment): Thu 2/12 (4:30pm, 7:15pm, 10:15pm)
+
+    * [The Strangers Chapter 3](https://drafthouse.com/raleigh/show/the-strangers-chapter-3): Thu 2/12 (10:30pm)
+
+    * [Wuthering Heights 2026](https://drafthouse.com/raleigh/show/wuthering-heights-2026): Thu 2/12 (3:00pm, 5:30pm, 6:00pm, 6:30pm, 8:30pm, 9:35pm)
+
 ### Mon 2/9 4:50pm
 
 * New screenings: 
