@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 2/9 1:42pm
+* New movies: Andre is an Idiot
+
+* New screenings: 
+    * [Andre Is An Idiot](https://drafthouse.com/los-angeles/show/andre-is-an-idiot): Fri 3/20 (6:30pm), Sat 3/21 (6:30pm), Sun 3/22 (6:30pm)
+
 ### Mon 2/9 9:06am
 * New movies: Bring Me the Horizon - L.I.V.E. in Sao Paulo Live Immersive Virtual Experiment
 
