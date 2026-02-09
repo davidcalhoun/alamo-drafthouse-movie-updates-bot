@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 2/9 9:06am
+* New movies: Bring Me the Horizon - L.I.V.E. in Sao Paulo Live Immersive Virtual Experiment
+
+* New screenings: 
+    * [Bring Me The Horizon L I V E In Sao Paulo Live Immersive Virtual Experiment](https://drafthouse.com/los-angeles/show/bring-me-the-horizon-l-i-v-e-in-sao-paulo-live-immersive-virtual-experiment): Wed 3/25 (7:20pm), Sat 3/28 (4:15pm)
+
 ### Mon 2/9 6:55am
 * New movies: Scream 7
 
