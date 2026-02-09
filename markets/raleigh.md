@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 2/9 4:50pm
+
+* New screenings: 
+    * [The Moment](https://drafthouse.com/raleigh/show/the-moment): Wed 2/11 (3:30pm)
+
 ### Mon 2/9 12:13pm
 * New movies: Bring Me the Horizon - L.I.V.E. in Sao Paulo Live Immersive Virtual Experiment
 
