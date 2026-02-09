@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 2/9 10:01am
+* New movies: Scream 7
+
+* New screenings: 
+    * [Scream 7](https://drafthouse.com/raleigh/show/scream-7): Thu 2/26 (6:30pm), Fri 2/27 (7:00pm, 10:00pm), Sat 2/28 (7:30pm, 10:30pm), Sun 3/1 (7:30pm, 10:30pm)
+
 ### Sun 2/8 1:50pm
 
 * New screenings: 
