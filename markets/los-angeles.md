@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 2/9 6:55am
+* New movies: Scream 7
+
+* New screenings: 
+    * [Scream 7](https://drafthouse.com/los-angeles/show/scream-7): Thu 2/26 (6:30pm, 9:30pm), Fri 2/27 (3:45pm, 6:45pm), Sat 2/28 (4:15pm, 7:15pm), Sun 3/1 (4:15pm, 7:15pm)
+
 ### Sun 2/8 12:37am
 * New movies: Mystery Machine 3/9/2026
 
