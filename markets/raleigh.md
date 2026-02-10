@@ -1,6 +1,34 @@
 # raleigh
 
 ## Movie updates
+### Mon 2/9 10:21pm
+* New movies: Twin Peaks: The Return
+
+* New screenings: 
+    * [Arco](https://drafthouse.com/raleigh/show/arco): Fri 2/13 (12:20pm)
+
+    * [Crime 101](https://drafthouse.com/raleigh/show/crime-101): Fri 2/13 (12:00pm, 4:00pm, 10:00pm), Sat 2/14 (12:00pm, 4:00pm, 10:00pm), Sun 2/15 (12:00pm, 4:00pm, 10:15pm), Mon 2/16 (11:30am, 3:00pm, 6:45pm), Tue 2/17 (1:00pm, 2:45pm, 6:45pm, 10:00pm), Wed 2/18 (2:45pm, 6:00pm, 9:00pm)
+
+    * [Dracula 2026](https://drafthouse.com/raleigh/show/dracula-2026): Fri 2/13 (9:00pm), Sat 2/14 (9:00pm), Sun 2/15 (9:00pm), Mon 2/16 (12:30pm), Tue 2/17 (9:00pm), Wed 2/18 (9:00pm)
+
+    * [Goat](https://drafthouse.com/raleigh/show/goat): Fri 2/13 (1:15pm, 9:00pm), Sat 2/14 (1:15pm, 9:00pm), Mon 2/16 (12:30pm, 3:15pm, 6:00pm), Tue 2/17 (12:00pm, 4:00pm, 6:15pm, 9:00pm), Wed 2/18 (4:00pm, 6:30pm, 9:15pm)
+
+    * [Marty Supreme](https://drafthouse.com/raleigh/show/marty-supreme): Fri 2/13 (1:00pm), Sat 2/14 (12:15pm), Sun 2/15 (1:00pm), Mon 2/16 (12:00pm), Tue 2/17 (11:40am), Wed 2/18 (2:15pm)
+
+    * [Nirvanna The Band The Show The Movie](https://drafthouse.com/raleigh/show/nirvanna-the-band-the-show-the-movie): Fri 2/13 (1:00pm, 3:45pm, 10:30pm), Sat 2/14 (1:00pm, 3:45pm, 10:30pm), Sun 2/15 (1:15pm, 3:45pm), Mon 2/16 (1:15pm, 4:00pm, 6:30pm), Tue 2/17 (1:15pm, 4:30pm, 7:15pm, 10:10pm), Wed 2/18 (3:45pm, 6:15pm, 9:15pm)
+
+    * [Send Help](https://drafthouse.com/raleigh/show/send-help): Fri 2/13 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Sat 2/14 (12:30pm, 3:30pm, 6:30pm, 9:35pm), Sun 2/15 (12:15pm, 3:15pm, 6:15pm, 9:30pm), Mon 2/16 (12:45pm, 3:45pm, 6:45pm), Tue 2/17 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Wed 2/18 (3:30pm, 6:45pm, 9:45pm)
+
+    * [Stray Kids The Dominate Experience](https://drafthouse.com/raleigh/show/stray-kids-the-dominate-experience): Tue 2/17 (3:00pm)
+
+    * [The Moment](https://drafthouse.com/raleigh/show/the-moment): Fri 2/13 (1:30pm, 4:15pm, 7:00pm, 10:00pm), Sat 2/14 (1:25pm, 4:15pm, 7:00pm, 10:00pm), Sun 2/15 (1:30pm, 4:15pm, 7:00pm, 10:00pm), Mon 2/16 (1:25pm, 3:30pm, 6:15pm), Tue 2/17 (12:45pm, 3:30pm, 6:15pm, 9:15pm), Wed 2/18 (4:15pm, 7:15pm, 10:15pm)
+
+    * [The Strangers Chapter 3](https://drafthouse.com/raleigh/show/the-strangers-chapter-3): Fri 2/13 (9:35pm), Sat 2/14 (10:40pm), Sun 2/15 (10:40pm), Mon 2/16 (4:15pm), Tue 2/17 (9:50pm), Wed 2/18 (10:05pm)
+
+    * [Twin Peaks Fire Walk With Me](https://drafthouse.com/raleigh/show/twin-peaks-fire-walk-with-me): Mon 2/16 (7:20pm)
+
+    * [Wuthering Heights 2026](https://drafthouse.com/raleigh/show/wuthering-heights-2026): Fri 2/13 (1:40pm, 2:00pm, 2:50pm, 4:30pm, 5:00pm, 5:30pm, 6:15pm, 8:00pm, 8:30pm), Sat 2/14 (11:40am, 1:40pm, 2:00pm, 3:00pm, 4:00pm, 5:00pm, 5:30pm, 6:25pm, 7:20pm, 8:30pm), Sun 2/15 (11:40am, 12:40pm, 2:00pm, 3:00pm, 4:00pm, 4:30pm, 5:30pm, 6:30pm, 7:20pm, 8:00pm, 9:50pm), Mon 2/16 (11:45am, 1:00pm, 3:05pm, 4:00pm, 6:30pm), Tue 2/17 (11:40am, 1:00pm, 2:15pm, 3:10pm, 4:30pm, 5:40pm, 6:30pm, 8:00pm), Wed 2/18 (2:00pm, 5:00pm, 5:30pm, 8:30pm)
+
 ### Mon 2/9 6:48pm
 
 * New screenings: 
