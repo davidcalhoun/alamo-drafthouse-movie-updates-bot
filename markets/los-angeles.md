@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 2/10 7:02am
+* New movies: Psycho Killer
+
+* New screenings: 
+    * [Live Q A Psycho Killer](https://drafthouse.com/los-angeles/show/live-q-a-psycho-killer): Thu 2/19 (6:00pm)
+
 ### Mon 2/9 6:46pm
 * New movies: Wuthering Heights 2026, By Design, Crime 101, Dracula 2026, Goat, Good Luck, Have Fun, Don't Die, Nirvanna The Band The Show The Movie, Send Help, The Moment, Twin Peaks: The Return, Twin Peaks: The Return, The Voice of Hind Rajab
 
