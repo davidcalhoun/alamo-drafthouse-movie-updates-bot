@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 2/9 6:46pm
+* New movies: Wuthering Heights 2026, By Design, Crime 101, Dracula 2026, Goat, Good Luck, Have Fun, Don't Die, Nirvanna The Band The Show The Movie, Send Help, The Moment, Twin Peaks: The Return, Twin Peaks: The Return, The Voice of Hind Rajab
+
+
+
 ### Mon 2/9 3:40pm
 * New movies: The Voice of Hind Rajab, 13 Going on 30, WUTHERING HEIGHTS 2026 Free Victory Screening, BY DESIGN Free Victory Screening, CRIME 101 Free Victory Screening, DRACULA 2026 Free Victory Screening, NIRVANNA THE BAND THE SHOW THE MOVIE, GOAT Free Victory Screening, GOOD LUCK, HAVE FUN, DON’T DIE Free Victory Screening, SEND HELP Free Victory Screening, THE MOMENT Free Victory Screening, THE VOICE OF HIND RAJAB Free Victory Screening
 
