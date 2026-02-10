@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Tue 2/10 10:10am
+* New movies: Psycho Killer, Psycho Killer, Twin Peaks: The Return
+
+* New screenings: 
+    * [Greetings From Twin Peaks Twin Peaks The Return Parts 5 6](https://drafthouse.com/raleigh/show/greetings-from-twin-peaks-twin-peaks-the-return-parts-5-6): Sat 2/28 (12:15pm)
+
+    * [Livestream Q A Psycho Killer](https://drafthouse.com/raleigh/show/livestream-q-a-psycho-killer): Thu 2/19 (9:00pm)
+
+    * [Psycho Killer](https://drafthouse.com/raleigh/show/psycho-killer): Thu 2/19 (6:15pm), Fri 2/20 (7:15pm), Sat 2/21 (7:15pm), Sun 2/22 (6:45pm)
+
 ### Mon 2/9 10:21pm
 * New movies: Twin Peaks: The Return
 
