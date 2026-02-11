@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 2/10 6:44pm
+* New movies: Micro Budget
+
+* New screenings: 
+    * [Live Q A Micro Budget](https://drafthouse.com/los-angeles/show/live-q-a-micro-budget): Sat 2/28 (7:00pm)
+
 ### Tue 2/10 7:02am
 * New movies: Psycho Killer
 
