@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 2/12 2:35pm
+* New movies: Harold and Maude
+
+* New screenings: 
+    * [Queer Film Theory 101 Harold And Maude](https://drafthouse.com/los-angeles/show/queer-film-theory-101-harold-and-maude): Mon 2/23 (7:20pm)
+
 ### Thu 2/12 12:38pm
 * New movies: BLKNWS: Terms & Conditions
 
