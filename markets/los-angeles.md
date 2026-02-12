@@ -1,6 +1,26 @@
 # los-angeles
 
 ## Movie updates
+### Thu 2/12 3:33pm
+* New movies: Dead Lover, The Substance, MAXIMUM OVERDRIVE, THE UGLY STEPSISTER
+
+* New screenings: 
+    * [Greetings From Twin Peaks Twin Peaks The Return Parts 1 4](https://drafthouse.com/los-angeles/show/greetings-from-twin-peaks-twin-peaks-the-return-parts-1-4): Wed 2/25 (2:45pm)
+
+    * [Interview With The Vampire The Vampire Chronicles](https://drafthouse.com/los-angeles/show/interview-with-the-vampire-the-vampire-chronicles): Wed 3/4 (3:45pm)
+
+    * [Millennium Mambo](https://drafthouse.com/los-angeles/show/millennium-mambo): Mon 2/23 (3:25pm)
+
+    * [Paul Mccartney Man On The Run](https://drafthouse.com/los-angeles/show/paul-mccartney-man-on-the-run): Sun 2/22 (1:10pm)
+
+    * [Terror Tuesday Maximum Overdrive](https://drafthouse.com/los-angeles/show/terror-tuesday-maximum-overdrive): Tue 3/10 (7:45pm)
+
+    * [The Substance](https://drafthouse.com/los-angeles/show/the-substance): Mon 2/23 (10:00pm)
+
+    * [The Ugly Stepsister](https://drafthouse.com/los-angeles/show/the-ugly-stepsister): Fri 2/27 (10:30pm)
+
+    * [Weird Wednesday Dead Lover](https://drafthouse.com/los-angeles/show/weird-wednesday-dead-lover): Wed 3/18 (6:30pm)
+
 ### Thu 2/12 2:35pm
 * New movies: Harold and Maude
 
