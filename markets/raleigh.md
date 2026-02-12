@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 2/12 3:45pm
+* New movies: Dead Lover
+
+* New screenings: 
+    * [Weird Wednesday Dead Lover](https://drafthouse.com/raleigh/show/weird-wednesday-dead-lover): Wed 3/18 (8:00pm)
+
 ### Thu 2/12 11:01am
 * New movies: The Napa Boys
 
