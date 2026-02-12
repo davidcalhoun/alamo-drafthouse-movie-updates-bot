@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Thu 2/12 5:40pm
+
+* New screenings: 
+    * [Interview With The Vampire The Vampire Chronicles](https://drafthouse.com/raleigh/show/interview-with-the-vampire-the-vampire-chronicles): Mon 3/2 (4:45pm)
+
 ### Thu 2/12 3:45pm
 * New movies: Dead Lover
 
