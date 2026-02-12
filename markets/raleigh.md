@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 2/12 11:01am
+* New movies: The Napa Boys
+
+* New screenings: 
+    * [The Napa Boys](https://drafthouse.com/raleigh/show/the-napa-boys): Fri 3/13 (9:30pm)
+
 ### Tue 2/10 10:10am
 * New movies: Psycho Killer, Psycho Killer, Twin Peaks: The Return
 
