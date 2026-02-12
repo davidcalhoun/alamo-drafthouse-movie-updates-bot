@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 2/12 12:38pm
+* New movies: BLKNWS: Terms & Conditions
+
+* New screenings: 
+    * [Blknws Terms Conditions](https://drafthouse.com/los-angeles/show/blknws-terms-conditions): Fri 2/20 (4:30pm), Sat 2/21 (12:30pm), Sun 2/22 (4:30pm)
+
 ### Tue 2/10 6:44pm
 * New movies: Micro Budget
 
