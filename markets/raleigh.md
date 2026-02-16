@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 2/16 6:37pm
+* New movies: Mystery Voyage
+
+* New screenings: 
+    * [Mystery Voyage](https://drafthouse.com/raleigh/show/mystery-voyage): Tue 3/24 (7:00pm)
+
 ### Mon 2/16 11:56am
 * New movies: THE LORD OF THE RINGS: THE FELLOWSHIP OF THE RING: EXTENDED EDITION, THE LORD OF THE RINGS: THE RETURN OF THE KING: EXTENDED EDITION, THE LORD OF THE RINGS: THE TWO TOWERS: EXTENDED EDITION
 
