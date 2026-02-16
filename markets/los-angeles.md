@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 2/16 3:33pm
+* New movies: Mystery Voyage
+
+* New screenings: 
+    * [Mystery Voyage](https://drafthouse.com/los-angeles/show/mystery-voyage): Tue 3/24 (7:00pm)
+
 ### Mon 2/16 8:51am
 * New movies: THE LORD OF THE RINGS: THE FELLOWSHIP OF THE RING: EXTENDED EDITION, THE LORD OF THE RINGS: THE RETURN OF THE KING: EXTENDED EDITION, THE LORD OF THE RINGS: THE TWO TOWERS: EXTENDED EDITION
 
