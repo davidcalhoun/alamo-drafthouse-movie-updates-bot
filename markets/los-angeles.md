@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Mon 2/16 8:51am
+* New movies: THE LORD OF THE RINGS: THE FELLOWSHIP OF THE RING: EXTENDED EDITION, THE LORD OF THE RINGS: THE RETURN OF THE KING: EXTENDED EDITION, THE LORD OF THE RINGS: THE TWO TOWERS: EXTENDED EDITION
+
+* New screenings: 
+    * [Lord Of The Rings The Fellowship Of The Ring Extended Edition](https://drafthouse.com/los-angeles/show/lord-of-the-rings-the-fellowship-of-the-ring-extended-edition): Sun 3/8 (11:00am)
+
+    * [Lord Of The Rings The Return Of The King Extended Edition](https://drafthouse.com/los-angeles/show/lord-of-the-rings-the-return-of-the-king-extended-edition): Sun 3/22 (11:00am)
+
+    * [The Lord Of The Rings The Two Towers Extended Edition1](https://drafthouse.com/los-angeles/show/the-lord-of-the-rings-the-two-towers-extended-edition1): Sun 3/15 (11:00am)
+
 ### Thu 2/12 3:33pm
 * New movies: Dead Lover, The Substance, MAXIMUM OVERDRIVE, THE UGLY STEPSISTER
 
