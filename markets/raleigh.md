@@ -1,6 +1,38 @@
 # raleigh
 
 ## Movie updates
+### Tue 2/17 4:43pm
+* New movies: Pillion, Good Luck, Have Fun, Don't Die
+
+* New screenings: 
+    * [Chase Atlantic Lost In Heaven](https://drafthouse.com/raleigh/show/chase-atlantic-lost-in-heaven): Sun 2/22 (4:00pm)
+
+    * [Crime 101](https://drafthouse.com/raleigh/show/crime-101): Thu 2/19 (2:35pm, 6:00pm, 9:30pm), Fri 2/20 (11:15am, 2:45pm, 6:15pm, 9:15pm), Sat 2/21 (12:00pm, 3:00pm, 6:05pm, 9:10pm), Sun 2/22 (1:00pm, 3:00pm, 7:00pm, 10:05pm), Mon 2/23 (1:15pm, 2:50pm, 7:00pm, 9:10pm), Tue 2/24 (11:50am, 3:15pm, 7:00pm, 9:30pm), Wed 2/25 (1:20pm, 2:35pm, 7:00pm, 10:10pm)
+
+    * [Dracula 2026](https://drafthouse.com/raleigh/show/dracula-2026): Thu 2/19 (10:35pm), Sat 2/21 (10:05pm), Mon 2/23 (10:25pm)
+
+    * [Goat](https://drafthouse.com/raleigh/show/goat): Thu 2/19 (3:40pm, 6:30pm, 9:15pm), Fri 2/20 (1:20pm, 4:25pm, 6:55pm, 10:30pm), Sat 2/21 (1:10pm, 4:45pm, 6:25pm, 9:30pm), Sun 2/22 (12:40pm, 4:15pm, 6:45pm, 9:35pm), Mon 2/23 (1:30pm, 4:15pm, 6:25pm, 10:15pm), Tue 2/24 (1:15pm, 4:30pm, 6:40pm, 10:05pm), Wed 2/25 (1:40pm, 3:55pm, 6:50pm, 9:35pm)
+
+    * [Good Luck Have Fun Dont Die](https://drafthouse.com/raleigh/show/good-luck-have-fun-dont-die): Thu 2/19 (3:55pm, 7:15pm, 10:05pm), Fri 2/20 (12:45pm, 3:10pm, 7:10pm, 9:45pm), Sat 2/21 (1:25pm, 3:30pm, 6:45pm, 9:50pm), Sun 2/22 (11:40am, 3:25pm, 6:30pm, 9:50pm), Mon 2/23 (11:30am, 3:55pm, 6:15pm, 9:45pm), Tue 2/24 (1:30pm, 2:35pm, 6:00pm, 9:20pm), Wed 2/25 (12:20pm, 3:40pm, 6:00pm, 9:20pm)
+
+    * [How To Make A Killing](https://drafthouse.com/raleigh/show/how-to-make-a-killing): Thu 2/19 (4:35pm, 10:20pm), Fri 2/20 (1:10pm, 4:25pm, 10:00pm), Sat 2/21 (12:55pm, 4:15pm, 9:20pm), Sun 2/22 (12:50pm, 3:45pm, 9:55pm), Mon 2/23 (2:10pm, 4:25pm, 7:40pm, 10:30pm), Tue 2/24 (1:40pm, 4:00pm, 7:30pm, 10:25pm), Wed 2/25 (12:20pm, 3:10pm, 6:00pm, 9:15pm)
+
+    * [Marty Supreme](https://drafthouse.com/raleigh/show/marty-supreme): Fri 2/20 (11:35am), Wed 2/25 (11:55am)
+
+    * [Nirvanna The Band The Show The Movie](https://drafthouse.com/raleigh/show/nirvanna-the-band-the-show-the-movie): Thu 2/19 (4:15pm, 7:10pm, 10:00pm), Fri 2/20 (12:15pm, 4:10pm, 6:30pm, 10:00pm), Sat 2/21 (12:15pm, 4:00pm, 7:30pm, 10:20pm), Sun 2/22 (1:30pm, 4:30pm, 7:15pm, 10:25pm), Mon 2/23 (12:45pm, 4:40pm, 7:30pm, 10:40pm), Tue 2/24 (1:40pm, 4:50pm, 7:15pm, 10:25pm), Wed 2/25 (4:25pm, 7:15pm, 10:30pm)
+
+    * [Pillion](https://drafthouse.com/raleigh/show/pillion): Thu 2/19 (4:30pm, 7:30pm, 10:30pm), Fri 2/20 (12:00pm, 1:00pm, 4:00pm, 6:30pm, 9:30pm, 10:20pm), Sat 2/21 (11:15am, 2:05pm, 4:30pm, 7:00pm, 7:35pm, 10:35pm), Sun 2/22 (1:25pm, 4:20pm, 7:15pm, 9:40pm, 10:10pm), Mon 2/23 (1:00pm, 3:30pm, 4:00pm, 7:00pm, 9:15pm, 10:10pm), Tue 2/24 (1:15pm, 3:45pm, 4:15pm, 7:15pm, 10:10pm), Wed 2/25 (1:40pm, 4:35pm, 7:30pm, 10:30pm)
+
+    * [Psycho Killer](https://drafthouse.com/raleigh/show/psycho-killer): Thu 2/19 (3:45pm, 9:30pm), Fri 2/20 (12:45pm, 3:30pm, 10:15pm), Sat 2/21 (12:15pm, 3:45pm, 10:00pm), Sun 2/22 (12:35pm, 3:15pm, 9:25pm), Mon 2/23 (1:45pm, 5:00pm, 7:15pm, 9:55pm), Tue 2/24 (12:40pm, 3:20pm, 7:00pm, 9:45pm), Wed 2/25 (1:00pm, 3:30pm, 6:45pm, 10:15pm)
+
+    * [Queer Film Theory 101 Harold And Maude](https://drafthouse.com/raleigh/show/queer-film-theory-101-harold-and-maude): Tue 2/24 (6:45pm)
+
+    * [Send Help](https://drafthouse.com/raleigh/show/send-help): Thu 2/19 (3:15pm, 6:30pm, 9:00pm), Fri 2/20 (1:25pm, 4:00pm, 6:15pm, 9:15pm), Sat 2/21 (1:15pm, 2:55pm, 6:00pm, 9:00pm), Sun 2/22 (12:15pm, 3:15pm, 6:15pm, 9:20pm), Mon 2/23 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Tue 2/24 (1:00pm, 4:30pm, 6:00pm, 9:00pm), Wed 2/25 (1:15pm, 3:45pm, 6:15pm, 9:00pm)
+
+    * [The Moment](https://drafthouse.com/raleigh/show/the-moment): Sun 2/22 (1:15pm), Mon 2/23 (1:00pm)
+
+    * [Wuthering Heights 2026](https://drafthouse.com/raleigh/show/wuthering-heights-2026): Thu 2/19 (2:20pm, 3:20pm, 5:40pm, 6:45pm, 10:15pm), Fri 2/20 (11:15am, 2:35pm, 3:00pm, 6:00pm, 7:00pm, 9:45pm), Sat 2/21 (3:30pm, 5:00pm, 7:00pm, 8:30pm, 10:20pm), Sun 2/22 (11:15am, 2:40pm, 6:00pm, 9:00pm, 9:20pm), Mon 2/23 (11:15am, 12:00pm, 2:35pm, 6:00pm, 7:15pm, 9:30pm), Tue 2/24 (11:30am, 2:50pm, 6:15pm, 7:35pm, 9:45pm), Wed 2/25 (11:35am, 3:00pm, 5:00pm, 6:30pm, 8:30pm, 9:55pm)
+
 ### Tue 2/17 2:09pm
 * New movies: Bad Santa, Britannia Hospital, Perfect Days, Sweet Charity, Daisies
 
