@@ -1,6 +1,42 @@
 # los-angeles
 
 ## Movie updates
+### Tue 2/17 3:33pm
+* New movies: Wuthering Heights 2026, Good Luck, Have Fun, Don't Die, Nirvanna The Band The Show The Movie, Pillion, Psycho Killer, Crime 101, Goat, Send Help, Dracula 2026, The Moment, By Design, The Voice of Hind Rajab
+
+* New screenings: 
+    * [By Design](https://drafthouse.com/los-angeles/show/by-design): Tue 2/24 (10:15pm), Wed 2/25 (3:45pm)
+
+    * [Crime 101](https://drafthouse.com/los-angeles/show/crime-101): Thu 2/19 (11:15am, 2:45pm, 6:30pm, 10:15pm), Fri 2/20 (1:15pm, 2:30pm, 6:00pm, 10:00pm), Sat 2/21 (11:15am, 2:45pm, 6:15pm, 9:45pm), Sun 2/22 (11:15am, 2:45pm, 6:30pm), Mon 2/23 (11:15am, 2:45pm, 6:45pm, 9:15pm), Tue 2/24 (11:15am, 2:45pm, 6:45pm, 9:15pm), Wed 2/25 (11:15am, 2:45pm, 6:45pm, 9:15pm)
+
+    * [Dracula 2026](https://drafthouse.com/los-angeles/show/dracula-2026): Thu 2/19 (11:45am), Fri 2/20 (10:00pm), Sat 2/21 (10:00pm)
+
+    * [Goat](https://drafthouse.com/los-angeles/show/goat): Thu 2/19 (12:20pm, 3:30pm, 6:30pm, 10:15pm), Fri 2/20 (11:45am, 3:00pm, 6:00pm, 9:00pm), Sat 2/21 (12:15pm, 3:00pm, 6:00pm, 10:00pm), Sun 2/22 (12:00pm, 3:00pm, 6:00pm), Mon 2/23 (11:30am, 4:15pm, 6:15pm, 9:05pm), Tue 2/24 (11:00am, 3:00pm, 6:15pm, 9:45pm), Wed 2/25 (1:00pm, 3:00pm, 6:15pm, 9:45pm)
+
+    * [Good Luck Have Fun Dont Die](https://drafthouse.com/los-angeles/show/good-luck-have-fun-dont-die): Thu 2/19 (11:30am, 3:05pm, 6:45pm, 10:00pm), Fri 2/20 (11:30am, 3:00pm, 6:30pm, 9:15pm), Sat 2/21 (11:30am, 3:00pm, 6:45pm, 9:15pm), Sun 2/22 (11:45am, 3:15pm, 6:45pm), Mon 2/23 (11:30am, 3:00pm, 6:30pm, 9:15pm), Tue 2/24 (11:45am, 3:00pm, 6:30pm, 9:00pm), Wed 2/25 (11:45am, 3:00pm, 6:30pm, 9:00pm)
+
+    * [Greetings From Twin Peaks Twin Peaks The Return Parts 1 4](https://drafthouse.com/los-angeles/show/greetings-from-twin-peaks-twin-peaks-the-return-parts-1-4): Mon 2/23 (8:00pm), Tue 2/24 (1:45pm)
+
+    * [How To Make A Killing](https://drafthouse.com/los-angeles/show/how-to-make-a-killing): Thu 2/19 (4:00pm, 10:30pm), Fri 2/20 (1:15pm, 10:30pm), Sat 2/21 (1:00pm, 9:45pm), Sun 2/22 (1:00pm), Mon 2/23 (1:00pm, 4:00pm, 7:00pm, 10:15pm), Tue 2/24 (1:00pm, 4:00pm, 7:00pm, 10:15pm), Wed 2/25 (1:00pm, 4:00pm, 7:15pm, 10:15pm)
+
+    * [Kokuho](https://drafthouse.com/los-angeles/show/kokuho): Thu 2/19 (6:15pm, 9:30pm), Mon 2/23 (12:00pm, 4:00pm), Tue 2/24 (12:00pm, 4:00pm, 8:00pm), Wed 2/25 (12:00pm, 4:00pm, 8:15pm)
+
+    * [Nirvanna The Band The Show The Movie](https://drafthouse.com/los-angeles/show/nirvanna-the-band-the-show-the-movie): Thu 2/19 (12:30pm, 3:45pm, 7:00pm, 9:45pm), Fri 2/20 (12:30pm, 3:30pm, 6:15pm, 9:45pm), Sat 2/21 (12:15pm, 3:15pm, 6:15pm, 10:30pm), Sun 2/22 (12:30pm, 3:30pm), Mon 2/23 (12:30pm, 3:30pm, 6:15pm, 9:45pm), Tue 2/24 (12:30pm, 3:30pm, 6:15pm, 10:00pm), Wed 2/25 (12:30pm, 3:30pm, 6:15pm, 10:00pm)
+
+    * [Pillion](https://drafthouse.com/los-angeles/show/pillion): Thu 2/19 (4:30pm, 7:30pm, 10:30pm), Fri 2/20 (1:00pm, 4:15pm, 7:15pm, 10:15pm), Sat 2/21 (1:00pm, 4:15pm, 7:15pm, 10:15pm), Sun 2/22 (12:45pm, 4:00pm, 7:15pm), Mon 2/23 (1:15pm, 4:15pm, 7:30pm, 10:30pm), Tue 2/24 (1:15pm, 4:15pm, 7:30pm, 10:30pm), Wed 2/25 (1:15pm, 4:15pm, 7:30pm, 10:30pm)
+
+    * [Psycho Killer](https://drafthouse.com/los-angeles/show/psycho-killer): Thu 2/19 (10:00pm), Fri 2/20 (1:30pm, 5:00pm, 6:45pm, 10:30pm), Sat 2/21 (12:30pm, 4:30pm, 7:30pm, 10:30pm), Sun 2/22 (1:15pm, 4:15pm, 7:15pm), Mon 2/23 (12:15pm, 3:00pm, 6:00pm, 9:00pm), Tue 2/24 (12:15pm, 3:15pm, 6:00pm, 9:00pm), Wed 2/25 (12:15pm, 3:15pm, 6:00pm, 9:00pm, 10:15pm)
+
+    * [Send Help](https://drafthouse.com/los-angeles/show/send-help): Thu 2/19 (12:45pm, 4:15pm, 6:45pm, 10:45pm), Fri 2/20 (12:45pm, 3:45pm, 7:45pm, 9:45pm), Sat 2/21 (12:45pm, 3:45pm, 7:00pm, 10:15pm), Sun 2/22 (12:15pm, 3:45pm, 6:15pm), Mon 2/23 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Tue 2/24 (12:45pm, 3:45pm, 6:45pm, 10:00pm), Wed 2/25 (12:45pm, 3:45pm, 7:00pm, 10:00pm)
+
+    * [The Moment](https://drafthouse.com/los-angeles/show/the-moment): Thu 2/19 (11:30am), Fri 2/20 (12:15pm), Mon 2/23 (1:15pm)
+
+    * [The Voice Of Hind Rajab](https://drafthouse.com/los-angeles/show/the-voice-of-hind-rajab): Tue 2/24 (12:15pm), Wed 2/25 (11:45am)
+
+    * [Titanic 1997](https://drafthouse.com/los-angeles/show/titanic-1997): Tue 2/24 (3:00pm)
+
+    * [Wuthering Heights 2026](https://drafthouse.com/los-angeles/show/wuthering-heights-2026): Thu 2/19 (11:00am, 12:30pm, 1:00pm, 2:15pm, 2:30pm, 3:15pm, 5:45pm, 6:15pm, 9:45pm), Fri 2/20 (11:15am, 11:30am, 2:45pm, 3:15pm, 6:30pm, 9:30pm), Sat 2/21 (2:30pm, 3:15pm, 6:00pm, 6:30pm, 9:00pm, 9:30pm), Sun 2/22 (11:15am, 2:45pm, 6:15pm), Mon 2/23 (11:00am, 2:15pm, 2:30pm, 5:45pm, 6:00pm, 9:30pm, 10:00pm), Tue 2/24 (11:00am, 11:30am, 2:30pm, 6:00pm, 9:30pm), Wed 2/25 (11:00am, 11:30am, 2:30pm, 6:00pm, 9:30pm, 9:45pm)
+
 ### Tue 2/17 9:02am
 * New movies: Perfect Days, Daisies
 
