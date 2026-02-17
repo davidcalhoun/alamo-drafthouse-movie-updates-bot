@@ -1,6 +1,18 @@
 # raleigh
 
 ## Movie updates
+### Tue 2/17 11:00am
+* New movies: Guest Selects: BAD SANTA Free Victory Screening, Guest Selects: BRITANNIA HOSPITAL Free Victory Screening, Guest Selects: PERFECT DAYS Free Victory Screening, Guest Selects: SWEET CHARITY Free Victory Screening
+
+* New screenings: 
+    * [Guest Selects Bad Santa Free Victory Screening](https://drafthouse.com/raleigh/show/guest-selects-bad-santa-free-victory-screening): Thu 3/12 (7:00pm)
+
+    * [Guest Selects Britannia Hospital Free Victory Screening](https://drafthouse.com/raleigh/show/guest-selects-britannia-hospital-free-victory-screening): Thu 3/19 (7:00pm)
+
+    * [Guest Selects Perfect Days Free Victory Screening](https://drafthouse.com/raleigh/show/guest-selects-perfect-days-free-victory-screening): Thu 2/26 (7:00pm)
+
+    * [Guest Selects Sweet Charity Free Victory Screening](https://drafthouse.com/raleigh/show/guest-selects-sweet-charity-free-victory-screening): Thu 3/5 (7:00pm)
+
 ### Mon 2/16 6:37pm
 * New movies: Mystery Voyage
 
