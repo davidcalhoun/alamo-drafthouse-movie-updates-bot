@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 2/17 9:02am
+* New movies: Perfect Days, Daisies
+
+* New screenings: 
+    * [Guest Selects Perfect Days](https://drafthouse.com/los-angeles/show/guest-selects-perfect-days): Thu 2/26 (7:00pm)
+
+    * [Queer Film Theory 101 Daisies](https://drafthouse.com/los-angeles/show/queer-film-theory-101-daisies): Mon 3/23 (7:20pm)
+
 ### Mon 2/16 3:33pm
 * New movies: Mystery Voyage
 
