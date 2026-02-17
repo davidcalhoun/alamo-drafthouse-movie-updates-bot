@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 2/17 2:09pm
+* New movies: Bad Santa, Britannia Hospital, Perfect Days, Sweet Charity, Daisies
+
+* New screenings: 
+    * [Queer Film Theory 101 Daisies](https://drafthouse.com/raleigh/show/queer-film-theory-101-daisies): Mon 3/23 (7:00pm)
+
 ### Tue 2/17 11:00am
 * New movies: Guest Selects: BAD SANTA Free Victory Screening, Guest Selects: BRITANNIA HOSPITAL Free Victory Screening, Guest Selects: PERFECT DAYS Free Victory Screening, Guest Selects: SWEET CHARITY Free Victory Screening
 
