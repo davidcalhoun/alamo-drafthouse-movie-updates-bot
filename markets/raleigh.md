@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 2/18 12:13pm
+* New movies: Melancholia
+
+* New screenings: 
+    * [Sad Girl Cinema Club Melancholia](https://drafthouse.com/raleigh/show/sad-girl-cinema-club-melancholia): Sat 3/21 (4:15pm)
+
 ### Tue 2/17 4:43pm
 * New movies: Pillion, Good Luck, Have Fun, Don't Die
 
