@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 2/18 9:08am
+* New movies: Melancholia
+
+* New screenings: 
+    * [Sad Girl Cinema Club Melancholia](https://drafthouse.com/los-angeles/show/sad-girl-cinema-club-melancholia): Mon 3/23 (6:00pm)
+
 ### Tue 2/17 3:33pm
 * New movies: Wuthering Heights 2026, Good Luck, Have Fun, Don't Die, Nirvanna The Band The Show The Movie, Pillion, Psycho Killer, Crime 101, Goat, Send Help, Dracula 2026, The Moment, By Design, The Voice of Hind Rajab
 
