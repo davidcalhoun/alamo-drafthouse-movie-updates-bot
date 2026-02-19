@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Thu 2/19 12:57pm
+* New movies: Jurassic Park, The Lost World: Jurassic Park
+
+* New screenings: 
+    * [Movie Party Jurassic Park](https://drafthouse.com/raleigh/show/movie-party-jurassic-park): Sun 3/8 (2:30pm)
+
+    * [Movie Party The Lost World Jurassic Park](https://drafthouse.com/raleigh/show/movie-party-the-lost-world-jurassic-park): Tue 3/17 (7:00pm)
+
 ### Thu 2/19 12:04pm
 * New movies: The Bride! 2026
 
