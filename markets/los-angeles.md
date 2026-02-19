@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Thu 2/19 2:35pm
+* New movies: Britannia Hospital, Sweet Charity
+
+* New screenings: 
+    * [Bushido](https://drafthouse.com/los-angeles/show/bushido): Mon 3/16 (6:30pm)
+
+    * [Guest Selects Britannia Hospital](https://drafthouse.com/los-angeles/show/guest-selects-britannia-hospital): Thu 3/26 (7:00pm)
+
+    * [Guest Selects Sweet Charity](https://drafthouse.com/los-angeles/show/guest-selects-sweet-charity): Thu 3/5 (7:00pm)
+
 ### Thu 2/19 1:37pm
 * New movies: Bad Santa, Redux Redux, Dolly
 
