@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 2/19 5:42pm
+* New movies: Maximum Overdrive
+
+* New screenings: 
+    * [Terror Tuesday Maximum Overdrive](https://drafthouse.com/raleigh/show/terror-tuesday-maximum-overdrive): Tue 3/17 (9:30pm)
+
 ### Thu 2/19 12:57pm
 * New movies: Jurassic Park, The Lost World: Jurassic Park
 
