@@ -1,6 +1,18 @@
 # raleigh
 
 ## Movie updates
+### Thu 2/19 9:57am
+* New movies: Dolly, The Mummy Returns: 25th Anniversary, The Mummy Returns: 25th Anniversary, Dolly
+
+* New screenings: 
+    * [Dolly](https://drafthouse.com/raleigh/show/dolly): Thu 3/5 (9:30pm), Fri 3/6 (9:30pm), Sat 3/7 (9:30pm)
+
+    * [Fantastic Fest Presents Dolly Early Access](https://drafthouse.com/raleigh/show/fantastic-fest-presents-dolly-early-access): Tue 3/3 (8:00pm)
+
+    * [Movie Party The Mummy Returns 25th Anniversary](https://drafthouse.com/raleigh/show/movie-party-the-mummy-returns-25th-anniversary): Fri 3/27 (7:00pm)
+
+    * [The Mummy Returns 25th Anniversary](https://drafthouse.com/raleigh/show/the-mummy-returns-25th-anniversary): Fri 3/27 (3:30pm), Mon 3/30 (3:30pm, 7:00pm)
+
 ### Wed 2/18 12:13pm
 * New movies: Melancholia
 
