@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 2/19 6:52am
+* New movies: The Mummy Returns: 25th Anniversary, The Mummy Returns: 25th Anniversary
+
+* New screenings: 
+    * [Movie Party The Mummy Returns 25th Anniversary](https://drafthouse.com/los-angeles/show/movie-party-the-mummy-returns-25th-anniversary): Fri 3/27 (7:20pm), Mon 3/30 (7:20pm)
+
+    * [The Mummy Returns 25th Anniversary](https://drafthouse.com/los-angeles/show/the-mummy-returns-25th-anniversary): Fri 3/27 (4:00pm), Mon 3/30 (4:00pm)
+
 ### Wed 2/18 9:08am
 * New movies: Melancholia
 
