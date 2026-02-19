@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 2/19 10:56am
+* New movies: Jurassic Park, The Lost World: Jurassic Park
+
+* New screenings: 
+    * [Movie Party Jurassic Park](https://drafthouse.com/los-angeles/show/movie-party-jurassic-park): Sun 3/8 (3:40pm), Mon 3/9 (6:30pm)
+
+    * [Movie Party The Lost World Jurassic Park](https://drafthouse.com/los-angeles/show/movie-party-the-lost-world-jurassic-park): Fri 3/13 (7:20pm), Tue 3/17 (7:20pm)
+
 ### Thu 2/19 6:52am
 * New movies: The Mummy Returns: 25th Anniversary, The Mummy Returns: 25th Anniversary
 
