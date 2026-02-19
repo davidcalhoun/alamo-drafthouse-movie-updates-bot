@@ -1,6 +1,20 @@
 # los-angeles
 
 ## Movie updates
+### Thu 2/19 1:37pm
+* New movies: Bad Santa, Redux Redux, Dolly
+
+* New screenings: 
+    * [Bushido](https://drafthouse.com/los-angeles/show/bushido): Fri 3/13 (4:00pm)
+
+    * [Fantastic Fest Presents Dolly Early Access](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-dolly-early-access): Tue 3/3 (8:00pm)
+
+    * [Guest Selects Bad Santa](https://drafthouse.com/los-angeles/show/guest-selects-bad-santa): Thu 3/12 (7:00pm)
+
+    * [Live Q A Micro Budget](https://drafthouse.com/los-angeles/show/live-q-a-micro-budget): Sat 2/28 (10:00pm)
+
+    * [Live Q A Redux Redux](https://drafthouse.com/los-angeles/show/live-q-a-redux-redux): Sat 3/7 (7:30pm)
+
 ### Thu 2/19 10:56am
 * New movies: Jurassic Park, The Lost World: Jurassic Park
 
