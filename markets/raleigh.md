@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 2/19 12:04pm
+* New movies: The Bride! 2026
+
+* New screenings: 
+    * [The Bride 2026](https://drafthouse.com/raleigh/show/the-bride-2026): Thu 3/5 (7:15pm, 10:30pm), Fri 3/6 (7:00pm, 10:15pm), Sat 3/7 (7:00pm, 10:15pm)
+
 ### Thu 2/19 9:57am
 * New movies: Dolly, The Mummy Returns: 25th Anniversary, The Mummy Returns: 25th Anniversary, Dolly
 
