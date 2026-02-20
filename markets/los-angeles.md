@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 2/20 8:45am
+* New movies: Project Hail Mary
+
+* New screenings: 
+    * [Project Hail Mary](https://drafthouse.com/los-angeles/show/project-hail-mary): Thu 3/19 (2:45pm, 6:30pm, 10:15pm), Fri 3/20 (11:15am, 3:00pm, 6:45pm, 10:30pm), Sat 3/21 (11:00am, 2:45pm, 6:30pm, 10:15pm), Sun 3/22 (11:15am, 3:00pm, 6:45pm), Mon 3/23 (2:45pm, 6:30pm), Tue 3/24 (2:45pm, 6:30pm), Wed 3/25 (2:45pm, 6:30pm)
+
 ### Fri 2/20 7:40am
 * New movies: Rooster
 
