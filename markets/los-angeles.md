@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 2/20 1:29pm
+
+* New screenings: 
+    * [Blknws Terms Conditions](https://drafthouse.com/los-angeles/show/blknws-terms-conditions): Mon 2/23 (1:00pm), Tue 2/24 (11:30am), Wed 2/25 (9:00pm)
+
 ### Fri 2/20 8:45am
 * New movies: Project Hail Mary
 
