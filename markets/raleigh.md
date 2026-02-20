@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Fri 2/20 11:52am
+* New movies: Project Hail Mary, Project Hail Mary
+
+* New screenings: 
+    * [Alamo Drafthouse Movie Book Club Project Hail Mary](https://drafthouse.com/raleigh/show/alamo-drafthouse-movie-book-club-project-hail-mary): Sat 3/21 (2:45pm)
+
+    * [Project Hail Mary](https://drafthouse.com/raleigh/show/project-hail-mary): Thu 3/19 (2:15pm, 6:00pm, 9:45pm), Fri 3/20 (11:00am, 2:45pm, 6:30pm, 10:15pm), Sat 3/21 (11:00am, 6:30pm, 10:15pm), Sun 3/22 (11:45am, 3:30pm, 7:15pm), Mon 3/23 (2:15pm, 6:00pm), Tue 3/24 (11:00am, 2:45pm, 6:30pm), Wed 3/25 (2:45pm, 6:30pm)
+
 ### Thu 2/19 5:42pm
 * New movies: Maximum Overdrive
 
