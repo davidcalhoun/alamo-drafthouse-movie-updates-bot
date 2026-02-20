@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 2/20 7:40am
+* New movies: Rooster
+
+* New screenings: 
+    * [Free Victory Screening Rooster](https://drafthouse.com/los-angeles/show/free-victory-screening-rooster): Wed 3/4 (7:30pm)
+
 ### Thu 2/19 2:35pm
 * New movies: Britannia Hospital, Sweet Charity
 
