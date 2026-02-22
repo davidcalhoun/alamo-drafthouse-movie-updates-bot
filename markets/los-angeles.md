@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Sun 2/22 1:28pm
+* New movies: The Bride! 2026
+
+* New screenings: 
+    * [The Bride 2026](https://drafthouse.com/los-angeles/show/the-bride-2026): Thu 3/5 (4:00pm, 7:15pm), Fri 3/6 (3:45pm, 7:00pm), Sat 3/7 (3:45pm, 7:00pm), Sun 3/8 (3:15pm, 6:30pm)
+
 ### Sun 2/22 12:32pm
 * New movies: Dolly
 
