@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Sat 2/21 8:52pm
+* New movies: Project Hail Mary
+
+* New screenings: 
+    * [Alamo Drafthouse Movie Book Club Project Hail Mary](https://drafthouse.com/los-angeles/show/alamo-drafthouse-movie-book-club-project-hail-mary): Sat 3/21 (2:00pm)
+
 ### Fri 2/20 1:29pm
 
 * New screenings: 
