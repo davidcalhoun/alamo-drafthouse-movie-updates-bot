@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Sun 2/22 12:32pm
+* New movies: Dolly
+
+* New screenings: 
+    * [Dolly](https://drafthouse.com/los-angeles/show/dolly): Sat 3/7 (10:45pm)
+
 ### Sat 2/21 8:52pm
 * New movies: Project Hail Mary
 
