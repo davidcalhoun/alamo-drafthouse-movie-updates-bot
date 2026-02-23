@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Mon 2/23 12:49pm
+* New movies: Jurassic Park III
+
+* New screenings: 
+    * [A Better Tomorrow Hong Kong Cinema Classics](https://drafthouse.com/los-angeles/show/a-better-tomorrow-hong-kong-cinema-classics): Wed 3/4 (10:00pm)
+
+    * [Greetings From Twin Peaks Twin Peaks The Return Parts 5 6](https://drafthouse.com/los-angeles/show/greetings-from-twin-peaks-twin-peaks-the-return-parts-5-6): Fri 2/27 (4:00pm), Tue 3/3 (4:00pm)
+
+    * [Interview With The Vampire The Vampire Chronicles](https://drafthouse.com/los-angeles/show/interview-with-the-vampire-the-vampire-chronicles): Fri 2/27 (12:45pm), Tue 3/3 (10:00pm)
+
+    * [Movie Party Jurassic Park Iii](https://drafthouse.com/los-angeles/show/movie-party-jurassic-park-iii): Fri 3/13 (10:00pm)
+
 ### Mon 2/23 6:51am
 * New movies: Ready or Not 2: Here I Come, Ready or Not 2: Here I Come
 
