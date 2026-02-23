@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 2/23 5:14am
+* New movies: Reminders of Him
+
+* New screenings: 
+    * [Reminders Of Him](https://drafthouse.com/los-angeles/show/reminders-of-him): Thu 3/12 (3:20pm, 6:30pm), Fri 3/13 (3:35pm, 6:40pm), Sat 3/14 (3:35pm, 6:40pm), Sun 3/15 (3:35pm, 6:40pm)
+
 ### Sun 2/22 1:28pm
 * New movies: The Bride! 2026
 
