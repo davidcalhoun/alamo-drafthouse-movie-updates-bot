@@ -1,6 +1,18 @@
 # raleigh
 
 ## Movie updates
+### Mon 2/23 3:55pm
+* New movies: The Ultimate Willy Wonka Party, Jurassic Park III, Thirst
+
+* New screenings: 
+    * [Live Q A The Ultimate Willy Wonka Party](https://drafthouse.com/raleigh/show/live-q-a-the-ultimate-willy-wonka-party): Wed 3/11 (7:30pm)
+
+    * [Movie Party Jurassic Park Iii](https://drafthouse.com/raleigh/show/movie-party-jurassic-park-iii): Sun 3/15 (4:00pm)
+
+    * [Terror Tuesday Thirst](https://drafthouse.com/raleigh/show/terror-tuesday-thirst): Tue 3/3 (10:15pm)
+
+    * [The Napa Boys](https://drafthouse.com/raleigh/show/the-napa-boys): Tue 3/17 (7:15pm)
+
 ### Mon 2/23 8:24am
 * New movies: Reminders of Him
 
