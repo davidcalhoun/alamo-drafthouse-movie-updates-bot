@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Mon 2/23 6:51am
+* New movies: Ready or Not 2: Here I Come, Ready or Not 2: Here I Come
+
+* New screenings: 
+    * [Costume Screening Ready Or Not 2 Here I Come Bloody Wedding Dress Contest](https://drafthouse.com/los-angeles/show/costume-screening-ready-or-not-2-here-i-come-bloody-wedding-dress-contest): Fri 3/20 (7:00pm)
+
+    * [Ready Or Not 2 Here I Come](https://drafthouse.com/los-angeles/show/ready-or-not-2-here-i-come): Thu 3/19 (4:00pm), Fri 3/20 (4:00pm)
+
 ### Mon 2/23 5:14am
 * New movies: Reminders of Him
 
