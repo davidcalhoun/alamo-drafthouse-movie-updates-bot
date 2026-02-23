@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 2/23 8:24am
+* New movies: Reminders of Him
+
+* New screenings: 
+    * [Reminders Of Him](https://drafthouse.com/raleigh/show/reminders-of-him): Thu 3/12 (6:00pm), Fri 3/13 (6:15pm), Sat 3/14 (6:15pm), Sun 3/15 (7:15pm)
+
 ### Fri 2/20 11:52am
 * New movies: Project Hail Mary, Project Hail Mary
 
