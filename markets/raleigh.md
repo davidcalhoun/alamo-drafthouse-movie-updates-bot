@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 2/24 10:00am
+
+* New screenings: 
+    * [Live Q A The Ultimate Willy Wonka Party](https://drafthouse.com/raleigh/show/live-q-a-the-ultimate-willy-wonka-party): Tue 3/10 (7:30pm)
+
 ### Mon 2/23 9:52pm
 * New movies: Sirat, The Red Spectacles
 
