@@ -1,6 +1,36 @@
 # raleigh
 
 ## Movie updates
+### Mon 2/23 9:52pm
+* New movies: Sirat, The Red Spectacles
+
+* New screenings: 
+    * [Blknws Terms Conditions](https://drafthouse.com/raleigh/show/blknws-terms-conditions): Fri 2/27 (2:00pm), Sat 2/28 (11:45am), Sun 3/1 (1:35pm), Mon 3/2 (2:30pm), Tue 3/3 (4:00pm), Wed 3/4 (1:50pm)
+
+    * [Epic Elvis Presley In Concert](https://drafthouse.com/raleigh/show/epic-elvis-presley-in-concert): Thu 2/26 (5:00pm, 10:45pm), Fri 2/27 (12:45pm, 4:30pm, 9:35pm), Sat 2/28 (12:30pm, 4:00pm, 10:15pm), Sun 3/1 (12:15pm, 4:30pm, 9:30pm), Mon 3/2 (1:00pm, 3:30pm, 7:15pm, 10:00pm), Tue 3/3 (12:45pm, 3:20pm, 7:15pm, 10:00pm), Wed 3/4 (1:35pm, 3:30pm, 6:15pm, 9:45pm)
+
+    * [Goat](https://drafthouse.com/raleigh/show/goat): Thu 2/26 (3:15pm, 6:00pm, 9:00pm), Fri 2/27 (12:45pm, 3:30pm, 6:30pm, 9:15pm), Sat 2/28 (12:35pm, 3:30pm, 6:00pm, 9:00pm), Sun 3/1 (12:30pm, 3:05pm, 6:30pm, 9:15pm), Mon 3/2 (12:45pm, 3:30pm, 6:30pm, 9:15pm), Tue 3/3 (12:45pm, 3:30pm, 6:15pm, 9:15pm), Wed 3/4 (12:00pm, 3:10pm, 6:15pm, 9:10pm)
+
+    * [Good Luck Have Fun Dont Die](https://drafthouse.com/raleigh/show/good-luck-have-fun-dont-die): Thu 2/26 (2:35pm, 3:40pm), Fri 2/27 (2:55pm, 6:15pm), Sat 2/28 (3:05pm, 6:25pm), Sun 3/1 (3:40pm, 6:15pm), Mon 3/2 (2:55pm, 6:15pm), Tue 3/3 (3:05pm, 9:50pm), Wed 3/4 (2:50pm, 9:50pm)
+
+    * [How To Make A Killing](https://drafthouse.com/raleigh/show/how-to-make-a-killing): Thu 2/26 (3:50pm, 6:45pm, 9:40pm), Fri 2/27 (1:30pm, 4:20pm, 7:15pm, 10:15pm), Sat 2/28 (1:00pm, 3:55pm, 6:45pm, 9:35pm), Sun 3/1 (12:50pm, 3:15pm, 7:15pm, 10:05pm), Mon 3/2 (1:30pm, 4:20pm, 7:15pm, 10:15pm), Tue 3/3 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Wed 3/4 (12:15pm, 4:15pm, 7:30pm, 10:20pm)
+
+    * [Nirvanna The Band The Show The Movie](https://drafthouse.com/raleigh/show/nirvanna-the-band-the-show-the-movie): Thu 2/26 (2:10pm), Fri 2/27 (12:10pm), Sat 2/28 (12:15pm), Sun 3/1 (12:15pm), Mon 3/2 (12:10pm), Tue 3/3 (12:20pm), Wed 3/4 (1:15pm)
+
+    * [Pillion](https://drafthouse.com/raleigh/show/pillion): Thu 2/26 (3:15pm, 6:15pm, 9:15pm), Fri 2/27 (1:30pm, 3:40pm, 7:20pm, 10:20pm), Sat 2/28 (1:00pm, 4:20pm, 6:15pm, 9:15pm), Sun 3/1 (1:35pm, 3:50pm, 6:15pm, 9:15pm), Mon 3/2 (1:25pm, 4:20pm, 6:15pm, 9:15pm), Tue 3/3 (12:15pm, 4:15pm, 6:15pm, 9:15pm), Wed 3/4 (12:30pm, 3:50pm, 7:30pm, 9:00pm)
+
+    * [Psycho Killer](https://drafthouse.com/raleigh/show/psycho-killer): Thu 2/26 (2:40pm, 5:20pm), Fri 2/27 (11:20am), Sat 2/28 (10:20pm), Sun 3/1 (4:35pm), Mon 3/2 (11:50am), Tue 3/3 (1:15pm), Wed 3/4 (4:50pm)
+
+    * [Scream 7](https://drafthouse.com/raleigh/show/scream-7): Thu 2/26 (8:00pm, 9:30pm, 10:30pm), Fri 2/27 (12:30pm, 1:00pm, 3:30pm, 4:00pm, 5:00pm, 8:00pm, 9:45pm), Sat 2/28 (1:30pm, 2:45pm, 4:30pm, 6:15pm, 9:50pm), Sun 3/1 (12:30pm, 3:30pm, 6:00pm, 7:00pm, 9:00pm, 9:35pm, 10:00pm), Mon 3/2 (1:00pm, 1:45pm, 4:00pm, 5:30pm, 7:00pm, 8:30pm, 9:45pm, 10:00pm, 10:35pm), Tue 3/3 (11:30am, 2:00pm, 5:00pm, 6:00pm, 7:00pm, 9:00pm, 10:00pm), Wed 3/4 (1:00pm, 1:30pm, 4:00pm, 4:30pm, 6:00pm, 7:30pm, 9:00pm, 10:30pm)
+
+    * [Send Help](https://drafthouse.com/raleigh/show/send-help): Thu 2/26 (4:15pm, 7:15pm, 10:15pm), Fri 2/27 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 2/28 (1:20pm, 4:20pm, 7:20pm, 9:15pm), Sun 3/1 (12:00pm, 3:30pm, 6:00pm, 9:00pm), Mon 3/2 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Tue 3/3 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Wed 3/4 (12:30pm, 3:30pm, 6:30pm, 9:30pm)
+
+    * [Sirat](https://drafthouse.com/raleigh/show/sirat): Thu 2/26 (5:00pm, 6:00pm, 9:00pm), Fri 2/27 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sat 2/28 (1:20pm, 3:15pm, 7:00pm, 10:00pm), Sun 3/1 (12:50pm, 3:15pm, 7:15pm, 10:15pm), Mon 3/2 (12:30pm, 3:45pm, 6:45pm, 9:45pm), Tue 3/3 (1:15pm, 3:35pm, 6:35pm, 9:35pm), Wed 3/4 (12:45pm, 4:25pm, 6:45pm, 10:30pm)
+
+    * [Weird Wednesday The Red Spectacles](https://drafthouse.com/raleigh/show/weird-wednesday-the-red-spectacles): Wed 3/4 (10:15pm)
+
+    * [Wuthering Heights 2026](https://drafthouse.com/raleigh/show/wuthering-heights-2026): Thu 2/26 (3:00pm, 3:30pm, 8:00pm, 10:05pm), Fri 2/27 (11:15am, 2:35pm, 6:00pm, 9:25pm), Sat 2/28 (11:15am, 2:35pm, 6:00pm, 9:30pm), Sun 3/1 (12:50pm, 4:10pm, 6:30pm, 10:00pm), Mon 3/2 (11:20am, 2:40pm, 6:00pm, 9:30pm), Tue 3/3 (1:00pm, 2:30pm, 6:30pm, 10:30pm), Wed 3/4 (11:20am, 2:40pm, 6:00pm, 9:30pm)
+
 ### Mon 2/23 3:55pm
 * New movies: The Ultimate Willy Wonka Party, Jurassic Park III, Thirst
 
