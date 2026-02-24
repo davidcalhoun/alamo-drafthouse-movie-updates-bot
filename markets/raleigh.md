@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Tue 2/24 3:48pm
+* New movies: Dolly, Saw II
+
+* New screenings: 
+    * [Terror Tuesday Dolly In 35mm](https://drafthouse.com/raleigh/show/terror-tuesday-dolly-in-35mm): Tue 3/31 (7:00pm)
+
+    * [Terror Tuesday Saw Ii](https://drafthouse.com/raleigh/show/terror-tuesday-saw-ii): Tue 3/24 (9:30pm)
+
 ### Tue 2/24 10:00am
 
 * New screenings: 
