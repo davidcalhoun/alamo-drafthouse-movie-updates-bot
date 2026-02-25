@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 2/25 10:00am
+* New movies: Peaky Blinders: The Immortal Man
+
+* New screenings: 
+    * [Peaky Blinders The Immortal Man](https://drafthouse.com/los-angeles/show/peaky-blinders-the-immortal-man): Fri 3/6 (4:10pm, 7:20pm), Sat 3/7 (4:10pm, 7:20pm), Sun 3/8 (4:10pm, 7:00pm)
+
 ### Tue 2/24 8:55pm
 * New movies: Corey Feldman Vs. the World
 
