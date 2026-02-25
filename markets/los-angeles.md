@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 2/24 8:55pm
+* New movies: Corey Feldman Vs. the World
+
+* New screenings: 
+    * [Live Q A Corey Feldman Vs The World](https://drafthouse.com/los-angeles/show/live-q-a-corey-feldman-vs-the-world): Fri 3/6 (7:00pm, 10:00pm)
+
 ### Mon 2/23 6:33pm
 * New movies: Sirat, Chase Atlantic: Lost in Heaven, Micro Budget
 
