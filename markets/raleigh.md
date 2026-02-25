@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 2/24 9:53pm
+* New movies: Crumb
+
+* New screenings: 
+    * [Weird Wednesday Crumb](https://drafthouse.com/raleigh/show/weird-wednesday-crumb): Wed 3/25 (10:15pm)
+
 ### Tue 2/24 3:48pm
 * New movies: Dolly, Saw II
 
