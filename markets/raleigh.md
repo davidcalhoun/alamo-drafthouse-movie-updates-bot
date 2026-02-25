@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 2/25 10:00am
+* New movies: Undertone
+
+* New screenings: 
+    * [Undertone](https://drafthouse.com/raleigh/show/undertone): Thu 3/12 (6:35pm, 9:15pm), Fri 3/13 (7:00pm, 9:45pm), Sat 3/14 (7:00pm, 9:45pm), Sun 3/15 (7:30pm, 10:05pm)
+
 ### Tue 2/24 9:53pm
 * New movies: Crumb
 
