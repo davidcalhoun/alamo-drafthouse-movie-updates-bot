@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Wed 2/25 9:48pm
+* New movies: Jurassic Park
+
+* New screenings: 
+    * [Greetings From Twin Peaks Twin Peaks The Return Parts 7 9](https://drafthouse.com/raleigh/show/greetings-from-twin-peaks-twin-peaks-the-return-parts-7-9): Fri 3/6 (2:45pm)
+
+    * [Jurassic Park](https://drafthouse.com/raleigh/show/jurassic-park): Fri 3/6 (11:30am)
+
+    * [Lord Of The Rings The Fellowship Of The Ring Extended Edition](https://drafthouse.com/raleigh/show/lord-of-the-rings-the-fellowship-of-the-ring-extended-edition): Sat 3/7 (6:15pm)
+
 ### Wed 2/25 10:00am
 * New movies: Undertone
 
