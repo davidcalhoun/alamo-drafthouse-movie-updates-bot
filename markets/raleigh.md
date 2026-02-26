@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 2/26 2:04pm
+* New movies: Ready or Not 2: Here I Come
+
+* New screenings: 
+    * [Ready Or Not 2 Here I Come](https://drafthouse.com/raleigh/show/ready-or-not-2-here-i-come): Thu 3/19 (7:30pm, 10:25pm), Fri 3/20 (7:30pm, 10:30pm), Sat 3/21 (7:30pm, 10:30pm), Sun 3/22 (8:00pm)
+
 ### Wed 2/25 9:48pm
 * New movies: Jurassic Park
 
