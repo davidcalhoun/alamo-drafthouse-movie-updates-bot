@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 2/26 9:46pm
+* New movies: The Sacrament
+
+* New screenings: 
+    * [Terror Tuesday The Sacrament](https://drafthouse.com/raleigh/show/terror-tuesday-the-sacrament): Tue 3/31 (9:30pm)
+
 ### Thu 2/26 2:04pm
 * New movies: Ready or Not 2: Here I Come
 
