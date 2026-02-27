@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 2/27 10:51am
+* New movies: Undertone
+
+* New screenings: 
+    * [Undertone](https://drafthouse.com/los-angeles/show/undertone): Thu 3/12 (4:30pm, 7:15pm), Fri 3/13 (4:30pm, 7:15pm), Sat 3/14 (4:30pm, 7:15pm), Sun 3/15 (4:30pm, 7:15pm)
+
 ### Fri 2/27 9:39am
 * New movies: Jurassic Park, The Whitest Kids U' Know's Mars
 
