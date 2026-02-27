@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 2/27 1:32pm
+* New movies: Stand By Me
+
+* New screenings: 
+    * [Stand By Me 1986](https://drafthouse.com/los-angeles/show/stand-by-me-1986): Fri 3/27 (6:45pm), Sat 3/28 (7:20pm), Tue 3/31 (3:00pm)
+
 ### Fri 2/27 10:51am
 * New movies: Undertone
 
