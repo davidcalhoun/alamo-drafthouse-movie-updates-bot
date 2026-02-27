@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Fri 2/27 9:39am
+* New movies: Jurassic Park, The Whitest Kids U' Know's Mars
+
+* New screenings: 
+    * [Greetings From Twin Peaks Twin Peaks The Return Parts 7 9](https://drafthouse.com/los-angeles/show/greetings-from-twin-peaks-twin-peaks-the-return-parts-7-9): Sun 3/8 (6:15pm), Wed 3/11 (2:45pm)
+
+    * [Jurassic Park](https://drafthouse.com/los-angeles/show/jurassic-park): Fri 3/6 (4:00pm), Sat 3/7 (4:10pm)
+
+    * [Lord Of The Rings The Fellowship Of The Ring Extended Edition](https://drafthouse.com/los-angeles/show/lord-of-the-rings-the-fellowship-of-the-ring-extended-edition): Fri 3/6 (11:20am), Mon 3/9 (2:20pm)
+
+    * [The Whitest Kids U Knows Mars](https://drafthouse.com/los-angeles/show/the-whitest-kids-u-knows-mars): Sat 3/14 (10:00pm), Mon 3/16 (4:00pm)
+
 ### Wed 2/25 10:00am
 * New movies: Peaky Blinders: The Immortal Man
 
