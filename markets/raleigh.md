@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Fri 2/27 9:35pm
+* New movies: Stand By Me, The Lord of the Rings Extended Edition Trilogy Marathon
+
+* New screenings: 
+    * [Lord Of The Rings Extended Edition Trilogy Marathon](https://drafthouse.com/raleigh/show/lord-of-the-rings-extended-edition-trilogy-marathon): Sun 3/29 (11:00am)
+
+    * [Stand By Me 1986](https://drafthouse.com/raleigh/show/stand-by-me-1986): Sat 3/28 (7:15pm)
+
 ### Thu 2/26 9:46pm
 * New movies: The Sacrament
 
