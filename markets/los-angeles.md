@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 3/2 3:30pm
+* New movies: Fist of Legend
+
+* New screenings: 
+    * [Weird Wednesday Fist Of Legend](https://drafthouse.com/los-angeles/show/weird-wednesday-fist-of-legend): Wed 3/11 (9:30pm)
+
 ### Mon 3/2 2:31pm
 * New movies: A Poet, Demon Slayer: Kimetsu No Yaiba Infinity Castle Dubbed, Demon Slayer: Kimetsu No Yaiba Infinity Castle Subtitled, The Lord of the Rings: The Fellowship of the Ring: Extended Edition, Idiotka, Marty Supreme, The Lord of the Rings: The Return of the King: Extended Edition, The Lord of the Rings: The Two Towers: Extended Edition
 
