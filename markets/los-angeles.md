@@ -1,6 +1,64 @@
 # los-angeles
 
 ## Movie updates
+### Mon 3/2 2:31pm
+* New movies: A Poet, Demon Slayer: Kimetsu No Yaiba Infinity Castle Dubbed, Demon Slayer: Kimetsu No Yaiba Infinity Castle Subtitled, The Lord of the Rings: The Fellowship of the Ring: Extended Edition, Idiotka, Marty Supreme, The Lord of the Rings: The Return of the King: Extended Edition, The Lord of the Rings: The Two Towers: Extended Edition
+
+* New screenings: 
+    * [A Poet](https://drafthouse.com/los-angeles/show/a-poet): Sun 3/8 (12:20pm), Mon 3/9 (3:15pm)
+
+    * [Blknws Terms Conditions](https://drafthouse.com/los-angeles/show/blknws-terms-conditions): Thu 3/5 (1:40pm)
+
+    * [Demon Slayer Kimetsu No Yaiba Infinity Castle Dubbed](https://drafthouse.com/los-angeles/show/demon-slayer-kimetsu-no-yaiba-infinity-castle-dubbed): Fri 3/6 (12:45pm), Sat 3/7 (6:30pm), Sun 3/8 (12:45pm), Mon 3/9 (11:45am), Tue 3/10 (12:15pm), Wed 3/11 (12:15pm)
+
+    * [Demon Slayer Kimetsu No Yaiba Infinity Castle Subtitled](https://drafthouse.com/los-angeles/show/demon-slayer-kimetsu-no-yaiba-infinity-castle-subtitled): Fri 3/6 (6:30pm), Sat 3/7 (12:15pm), Sun 3/8 (7:00pm), Mon 3/9 (6:30pm), Tue 3/10 (6:30pm), Wed 3/11 (6:30pm)
+
+    * [Dolly](https://drafthouse.com/los-angeles/show/dolly): Fri 3/6 (4:30pm, 10:15pm), Sat 3/7 (4:00pm), Sun 3/8 (4:30pm), Mon 3/9 (2:45pm, 10:15pm), Tue 3/10 (4:00pm, 10:35pm), Wed 3/11 (4:00pm, 10:15pm)
+
+    * [Epic Elvis Presley In Concert](https://drafthouse.com/los-angeles/show/epic-elvis-presley-in-concert): Thu 3/5 (12:45pm, 4:45pm), Fri 3/6 (12:15pm, 4:15pm), Sat 3/7 (12:15pm, 4:15pm), Sun 3/8 (12:15pm, 4:00pm), Mon 3/9 (12:30pm, 4:15pm), Tue 3/10 (12:15pm, 4:15pm), Wed 3/11 (12:15pm, 4:15pm)
+
+    * [Good Luck Have Fun Dont Die](https://drafthouse.com/los-angeles/show/good-luck-have-fun-dont-die): Thu 3/5 (11:30am, 3:00pm, 6:30pm, 9:45pm), Fri 3/6 (3:00pm, 6:30pm, 10:00pm), Sat 3/7 (3:00pm, 6:30pm, 10:00pm), Sun 3/8 (3:00pm, 6:30pm), Mon 3/9 (3:15pm, 6:45pm, 10:15pm), Tue 3/10 (3:00pm, 6:30pm, 10:00pm), Wed 3/11 (3:00pm, 6:30pm, 10:00pm)
+
+    * [Greetings From Twin Peaks Twin Peaks The Return Parts 5 6](https://drafthouse.com/los-angeles/show/greetings-from-twin-peaks-twin-peaks-the-return-parts-5-6): Thu 3/5 (12:20pm)
+
+    * [Greetings From Twin Peaks Twin Peaks The Return Parts 7 9](https://drafthouse.com/los-angeles/show/greetings-from-twin-peaks-twin-peaks-the-return-parts-7-9): Tue 3/10 (3:00pm)
+
+    * [Hoppers](https://drafthouse.com/los-angeles/show/hoppers): Thu 3/5 (3:30pm, 6:30pm, 9:30pm), Fri 3/6 (9:45pm), Sat 3/7 (9:45pm), Mon 3/9 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Tue 3/10 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Wed 3/11 (12:45pm, 3:45pm, 6:45pm, 9:45pm)
+
+    * [How To Make A Killing](https://drafthouse.com/los-angeles/show/how-to-make-a-killing): Thu 3/5 (11:00am, 1:50pm, 4:45pm, 7:40pm, 10:45pm), Sat 3/7 (10:15pm), Wed 3/11 (10:00pm)
+
+    * [Idiotka](https://drafthouse.com/los-angeles/show/idiotka): Mon 3/9 (10:30pm)
+
+    * [Interview With The Vampire The Vampire Chronicles](https://drafthouse.com/los-angeles/show/interview-with-the-vampire-the-vampire-chronicles): Thu 3/5 (3:45pm)
+
+    * [Jurassic Park](https://drafthouse.com/los-angeles/show/jurassic-park): Fri 3/6 (10:15pm), Tue 3/10 (1:15pm, 10:15pm), Wed 3/11 (6:15pm)
+
+    * [Kokuho](https://drafthouse.com/los-angeles/show/kokuho): Thu 3/5 (11:15am)
+
+    * [Live Q A Idiotka](https://drafthouse.com/los-angeles/show/live-q-a-idiotka): Sat 3/7 (6:15pm)
+
+    * [Marty Supreme](https://drafthouse.com/los-angeles/show/marty-supreme): Sun 3/8 (2:30pm), Mon 3/9 (3:35pm)
+
+    * [Micro Budget](https://drafthouse.com/los-angeles/show/micro-budget): Thu 3/5 (11:00pm)
+
+    * [Nirvanna The Band The Show The Movie](https://drafthouse.com/los-angeles/show/nirvanna-the-band-the-show-the-movie): Thu 3/5 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Fri 3/6 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Sat 3/7 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Sun 3/8 (3:30pm, 6:15pm), Mon 3/9 (11:30am, 5:15pm, 8:00pm, 10:45pm), Tue 3/10 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Wed 3/11 (12:00pm, 2:30pm, 5:15pm, 8:00pm, 10:45pm)
+
+    * [Peaky Blinders The Immortal Man](https://drafthouse.com/los-angeles/show/peaky-blinders-the-immortal-man): Fri 3/6 (1:00pm, 10:30pm), Sat 3/7 (1:00pm, 10:30pm), Sun 3/8 (1:00pm), Mon 3/9 (12:10pm, 3:20pm, 7:20pm, 10:00pm), Tue 3/10 (1:00pm, 4:10pm, 7:20pm, 10:30pm), Wed 3/11 (1:00pm, 4:10pm, 7:20pm, 10:30pm)
+
+    * [Pillion](https://drafthouse.com/los-angeles/show/pillion): Thu 3/5 (1:00pm, 4:00pm, 7:00pm, 10:30pm), Fri 3/6 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Sat 3/7 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Sun 3/8 (12:00pm, 3:00pm, 6:00pm), Mon 3/9 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Tue 3/10 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Wed 3/11 (1:15pm, 4:15pm, 7:15pm, 10:15pm)
+
+    * [Scream 7](https://drafthouse.com/los-angeles/show/scream-7): Thu 3/5 (12:45pm, 3:15pm, 3:45pm, 6:45pm, 9:45pm), Fri 3/6 (12:00pm, 3:00pm, 6:00pm, 9:00pm, 10:15pm), Sat 3/7 (12:00pm, 3:00pm, 6:00pm, 9:00pm, 10:15pm), Sun 3/8 (1:15pm, 4:15pm, 7:15pm), Mon 3/9 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Tue 3/10 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Wed 3/11 (12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
+    * [Send Help](https://drafthouse.com/los-angeles/show/send-help): Thu 3/5 (1:00pm)
+
+    * [Sirat](https://drafthouse.com/los-angeles/show/sirat): Thu 3/5 (12:45pm, 3:45pm, 6:45pm, 10:00pm), Fri 3/6 (1:15pm, 7:00pm, 10:00pm), Sat 3/7 (1:15pm, 7:00pm, 10:00pm), Sun 3/8 (1:00pm, 6:45pm), Mon 3/9 (1:15pm, 7:00pm, 10:00pm), Tue 3/10 (1:15pm, 7:00pm, 10:00pm), Wed 3/11 (1:15pm, 7:00pm, 10:00pm)
+
+    * [The Bride 2026](https://drafthouse.com/los-angeles/show/the-bride-2026): Thu 3/5 (6:15pm, 7:30pm, 9:30pm, 10:00pm, 10:30pm), Fri 3/6 (12:00pm, 12:30pm, 3:15pm, 10:00pm), Sat 3/7 (12:15pm, 12:30pm, 9:15pm), Sun 3/8 (11:15am, 12:00pm, 7:15pm), Mon 3/9 (12:30pm, 3:45pm, 7:00pm, 9:45pm, 10:15pm), Tue 3/10 (11:45am, 12:30pm, 3:45pm, 4:30pm, 7:00pm, 10:00pm, 10:15pm), Wed 3/11 (11:15am, 12:30pm, 3:45pm, 7:00pm, 10:15pm)
+
+    * [The Lord Of The Rings The Fellowship Of The Ring Extended Edition](https://drafthouse.com/los-angeles/show/the-lord-of-the-rings-the-fellowship-of-the-ring-extended-edition): Wed 3/11 (1:30pm)
+
+    * [Wuthering Heights 2026](https://drafthouse.com/los-angeles/show/wuthering-heights-2026): Thu 3/5 (11:00am, 2:30pm, 6:00pm, 9:30pm), Fri 3/6 (11:00am, 2:30pm, 6:00pm, 9:30pm), Sat 3/7 (11:00am, 2:30pm, 6:00pm, 9:30pm), Sun 3/8 (12:30pm, 4:00pm, 7:30pm), Mon 3/9 (11:00am, 2:30pm, 6:00pm, 9:30pm), Tue 3/10 (11:00am, 2:30pm, 6:00pm, 9:30pm), Wed 3/11 (11:00am, 2:30pm, 6:00pm, 9:30pm)
+
 ### Mon 3/2 6:47am
 * New movies: The Breadwinner 2026
 
