@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 3/2 3:56am
+* New movies: Numbskull Revolution
+
+* New screenings: 
+    * [Weird Wednesday Numbskull Revolution](https://drafthouse.com/raleigh/show/weird-wednesday-numbskull-revolution): Wed 3/11 (10:15pm)
+
 ### Fri 2/27 9:35pm
 * New movies: Stand By Me, The Lord of the Rings Extended Edition Trilogy Marathon
 
