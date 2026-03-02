@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 3/2 6:47am
+* New movies: The Breadwinner 2026
+
+* New screenings: 
+    * [The Breadwinner 2026](https://drafthouse.com/los-angeles/show/the-breadwinner-2026): Thu 5/28 (7:15pm), Fri 5/29 (7:15pm), Sat 5/30 (7:15pm), Sun 5/31 (7:15pm)
+
 ### Fri 2/27 1:32pm
 * New movies: Stand By Me
 
