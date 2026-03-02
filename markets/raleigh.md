@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 3/2 9:53am
+* New movies: The Breadwinner 2026
+
+* New screenings: 
+    * [The Breadwinner 2026](https://drafthouse.com/raleigh/show/the-breadwinner-2026): Thu 5/28 (6:45pm), Fri 5/29 (6:45pm), Sat 5/30 (6:45pm), Sun 5/31 (6:45pm)
+
 ### Mon 3/2 3:56am
 * New movies: Numbskull Revolution
 
