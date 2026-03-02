@@ -1,6 +1,54 @@
 # raleigh
 
 ## Movie updates
+### Mon 3/2 5:37pm
+* New movies: Peaky Blinders: The Immortal Man, Marty Supreme, Goat, Good Luck, Have Fun, Don't Die, Hoppers, Pillion, Send Help, Sirat, The Bride! 2026, Wuthering Heights 2026, Idiotka, The Lord of the Rings: The Fellowship of the Ring: Extended Edition, The Lord of the Rings: The Return of the King: Extended Edition, The Lord of the Rings: The Two Towers: Extended Edition
+
+* New screenings: 
+    * [Epic Elvis Presley In Concert](https://drafthouse.com/raleigh/show/epic-elvis-presley-in-concert): Thu 3/5 (4:00pm), Fri 3/6 (1:20pm), Sat 3/7 (3:20pm), Sun 3/8 (3:25pm)
+
+    * [Free Victory Screening Goat](https://drafthouse.com/raleigh/show/free-victory-screening-goat): Tue 3/10 (6:00pm)
+
+    * [Free Victory Screening Good Luck Have Fun Dont Die](https://drafthouse.com/raleigh/show/free-victory-screening-good-luck-have-fun-dont-die): Tue 3/10 (7:15pm)
+
+    * [Free Victory Screening Hoppers](https://drafthouse.com/raleigh/show/free-victory-screening-hoppers): Tue 3/10 (6:00pm)
+
+    * [Free Victory Screening Pillion](https://drafthouse.com/raleigh/show/free-victory-screening-pillion): Tue 3/10 (6:15pm)
+
+    * [Free Victory Screening Send Help](https://drafthouse.com/raleigh/show/free-victory-screening-send-help): Tue 3/10 (6:30pm)
+
+    * [Free Victory Screening Sirat](https://drafthouse.com/raleigh/show/free-victory-screening-sirat): Tue 3/10 (6:45pm)
+
+    * [Free Victory Screening The Bride 2026](https://drafthouse.com/raleigh/show/free-victory-screening-the-bride-2026): Tue 3/10 (7:00pm)
+
+    * [Free Victory Screening Wuthering Heights 2026](https://drafthouse.com/raleigh/show/free-victory-screening-wuthering-heights-2026): Tue 3/10 (6:15pm)
+
+    * [Goat](https://drafthouse.com/raleigh/show/goat): Thu 3/5 (3:20pm, 6:15pm, 9:15pm), Fri 3/6 (1:35pm, 3:30pm, 6:15pm, 9:10pm), Sat 3/7 (12:45pm, 4:00pm, 6:30pm, 9:40pm), Sun 3/8 (12:30pm, 4:00pm, 6:20pm), Wed 3/11 (1:15pm, 3:45pm, 6:30pm, 9:15pm)
+
+    * [Good Luck Have Fun Dont Die](https://drafthouse.com/raleigh/show/good-luck-have-fun-dont-die): Thu 3/5 (6:45pm), Fri 3/6 (7:00pm), Sat 3/7 (6:15pm), Sun 3/8 (6:10pm), Wed 3/11 (7:15pm)
+
+    * [Hoppers](https://drafthouse.com/raleigh/show/hoppers): Thu 3/5 (3:00pm, 3:45pm, 4:40pm, 9:00pm), Fri 3/6 (12:15pm, 3:00pm, 9:00pm), Sat 3/7 (12:00pm, 3:00pm, 9:00pm), Sun 3/8 (11:30am, 3:30pm), Wed 3/11 (12:15pm, 12:30pm, 3:30pm, 6:30pm, 9:30pm)
+
+    * [How To Make A Killing](https://drafthouse.com/raleigh/show/how-to-make-a-killing): Thu 3/5 (3:00pm), Fri 3/6 (4:05pm, 10:25pm), Sun 3/8 (12:20pm), Wed 3/11 (4:20pm)
+
+    * [Idiotka](https://drafthouse.com/raleigh/show/idiotka): Sat 3/7 (10:45pm), Wed 3/11 (10:30pm)
+
+    * [Marty Supreme](https://drafthouse.com/raleigh/show/marty-supreme): Sat 3/7 (11:45am), Sun 3/8 (3:45pm), Wed 3/11 (12:40pm, 3:20pm)
+
+    * [Peaky Blinders The Immortal Man](https://drafthouse.com/raleigh/show/peaky-blinders-the-immortal-man): Fri 3/6 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 3/7 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sun 3/8 (12:00pm, 3:00pm, 6:00pm), Tue 3/10 (6:30pm), Wed 3/11 (12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
+    * [Pillion](https://drafthouse.com/raleigh/show/pillion): Thu 3/5 (3:35pm, 6:30pm, 9:30pm), Fri 3/6 (12:35pm, 4:20pm, 7:15pm, 10:10pm), Sat 3/7 (1:00pm, 3:30pm, 6:45pm, 9:30pm), Sun 3/8 (1:00pm, 3:15pm, 6:45pm), Wed 3/11 (12:50pm, 4:00pm, 6:50pm, 9:50pm)
+
+    * [Scream 7](https://drafthouse.com/raleigh/show/scream-7): Thu 3/5 (4:30pm, 7:30pm, 10:30pm), Fri 3/6 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Sat 3/7 (12:15pm, 4:15pm, 7:15pm, 10:20pm), Sun 3/8 (1:45pm, 4:45pm), Tue 3/10 (7:15pm), Wed 3/11 (1:30pm, 4:30pm, 7:30pm, 10:35pm)
+
+    * [Send Help](https://drafthouse.com/raleigh/show/send-help): Thu 3/5 (3:30pm, 6:30pm, 10:05pm), Fri 3/6 (1:00pm, 3:15pm, 7:30pm, 10:30pm), Sat 3/7 (1:40pm, 4:35pm, 7:30pm, 10:30pm), Sun 3/8 (1:15pm, 3:20pm, 7:30pm), Wed 3/11 (12:00pm, 3:05pm, 6:00pm, 9:45pm)
+
+    * [Sirat](https://drafthouse.com/raleigh/show/sirat): Thu 3/5 (6:00pm, 9:00pm), Fri 3/6 (12:45pm, 3:45pm, 6:45pm, 9:50pm), Sat 3/7 (1:15pm, 4:20pm, 7:20pm, 10:20pm), Sun 3/8 (1:30pm, 4:30pm, 7:30pm), Wed 3/11 (12:15pm, 3:15pm, 6:15pm, 9:30pm)
+
+    * [The Bride 2026](https://drafthouse.com/raleigh/show/the-bride-2026): Thu 3/5 (4:00pm, 7:45pm), Fri 3/6 (11:45am, 3:20pm, 6:30pm), Sat 3/7 (12:30pm, 3:45pm), Sun 3/8 (12:15pm, 6:30pm, 7:20pm), Wed 3/11 (12:45pm, 4:10pm, 7:20pm, 10:30pm)
+
+    * [Wuthering Heights 2026](https://drafthouse.com/raleigh/show/wuthering-heights-2026): Thu 3/5 (2:45pm, 6:15pm, 9:45pm), Fri 3/6 (11:55am, 4:00pm, 6:10pm, 9:50pm), Sat 3/7 (12:55pm, 3:15pm, 6:35pm, 9:55pm), Sun 3/8 (12:00pm, 4:10pm, 6:15pm), Wed 3/11 (11:30am, 2:55pm, 6:15pm, 9:00pm)
+
 ### Mon 3/2 9:53am
 * New movies: The Breadwinner 2026
 
