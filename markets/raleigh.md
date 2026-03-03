@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 3/3 3:41pm
+
+* New screenings: 
+    * [Stand By Me 1986](https://drafthouse.com/raleigh/show/stand-by-me-1986): Wed 4/1 (3:00pm)
+
 ### Mon 3/2 5:37pm
 * New movies: Peaky Blinders: The Immortal Man, Marty Supreme, Goat, Good Luck, Have Fun, Don't Die, Hoppers, Pillion, Send Help, Sirat, The Bride! 2026, Wuthering Heights 2026, Idiotka, The Lord of the Rings: The Fellowship of the Ring: Extended Edition, The Lord of the Rings: The Return of the King: Extended Edition, The Lord of the Rings: The Two Towers: Extended Edition
 
