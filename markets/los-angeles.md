@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 3/2 6:34pm
+* New movies: The Visitor
+
+* New screenings: 
+    * [Weird Wednesday The Visitor](https://drafthouse.com/los-angeles/show/weird-wednesday-the-visitor): Wed 3/25 (10:00pm)
+
 ### Mon 3/2 3:30pm
 * New movies: Fist of Legend
 
