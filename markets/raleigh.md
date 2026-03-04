@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 3/4 3:41pm
+* New movies: Slanted
+
+* New screenings: 
+    * [Slanted](https://drafthouse.com/raleigh/show/slanted): Thu 3/12 (6:45pm), Fri 3/13 (7:15pm), Sat 3/14 (7:15pm), Sun 3/15 (6:45pm)
+
 ### Tue 3/3 3:41pm
 
 * New screenings: 
