@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 3/4 12:36pm
+* New movies: Slanted
+
+* New screenings: 
+    * [Slanted](https://drafthouse.com/los-angeles/show/slanted): Thu 3/12 (6:15pm, 9:15pm), Fri 3/13 (3:15pm, 6:15pm), Sat 3/14 (2:45pm), Sun 3/15 (3:45pm, 6:45pm)
+
 ### Tue 3/3 12:36pm
 * New movies: Our Hero, Balthazar
 
