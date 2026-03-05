@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 3/5 3:48pm
+* New movies: Peaky Blinders: The Immortal Man
+
+* New screenings: 
+    * [Free Victory Screening Peaky Blinders The Immortal Man](https://drafthouse.com/raleigh/show/free-victory-screening-peaky-blinders-the-immortal-man): Tue 3/10 (7:15pm)
+
 ### Wed 3/4 3:41pm
 * New movies: Slanted
 
