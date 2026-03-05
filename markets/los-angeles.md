@@ -1,6 +1,15 @@
 # los-angeles
 
 ## Movie updates
+### Thu 3/5 2:36pm
+
+* New screenings: 
+    * [Bushido](https://drafthouse.com/los-angeles/show/bushido): Tue 3/17 (4:00pm), Wed 3/18 (9:10pm)
+
+    * [Greetings From Twin Peaks Twin Peaks The Return Parts 10 12](https://drafthouse.com/los-angeles/show/greetings-from-twin-peaks-twin-peaks-the-return-parts-10-12): Fri 3/13 (11:45am), Wed 3/18 (2:45pm)
+
+    * [The Lord Of The Rings The Two Towers Extended Edition 2](https://drafthouse.com/los-angeles/show/the-lord-of-the-rings-the-two-towers-extended-edition-2): Sat 3/14 (7:40pm), Mon 3/16 (11:00am)
+
 ### Wed 3/4 12:36pm
 * New movies: Slanted
 
