@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Thu 3/5 6:28pm
+* New movies: Touch Me, I Live Here Now, Touch Me
+
+* New screenings: 
+    * [I Live Here Now](https://drafthouse.com/los-angeles/show/i-live-here-now): Tue 3/17 (7:30pm)
+
+    * [Live Q A Touch Me](https://drafthouse.com/los-angeles/show/live-q-a-touch-me): Sat 3/28 (6:30pm)
+
+    * [Project Hail Mary](https://drafthouse.com/los-angeles/show/project-hail-mary): Thu 3/19 (3:15pm, 7:00pm, 10:45pm), Fri 3/20 (12:00pm, 3:45pm, 7:00pm, 10:45pm), Sat 3/21 (11:30am, 3:15pm, 7:00pm, 10:45pm), Sun 3/22 (12:00pm, 3:45pm, 7:30pm), Mon 3/23 (11:30am, 3:15pm, 7:00pm, 10:45pm), Tue 3/24 (11:30am, 3:15pm, 7:00pm, 10:45pm), Wed 3/25 (11:30am, 3:15pm, 7:00pm, 10:45pm)
+
+    * [Touch Me](https://drafthouse.com/los-angeles/show/touch-me): Fri 3/27 (10:45pm)
+
 ### Thu 3/5 2:36pm
 
 * New screenings: 
