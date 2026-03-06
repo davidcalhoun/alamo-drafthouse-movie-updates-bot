@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Fri 3/6 9:48am
+* New movies: Attack on Titan: THE LAST ATTACK Subtitled
+
+* New screenings: 
+    * [Attack On Titan The Movie The Last Attack Subtitled](https://drafthouse.com/raleigh/show/attack-on-titan-the-movie-the-last-attack-subtitled): Mon 5/18 (7:00pm)
+
+    * [Scream 7](https://drafthouse.com/raleigh/show/scream-7): Sun 3/8 (7:45pm)
+
 ### Thu 3/5 9:45pm
 
 * New screenings: 
