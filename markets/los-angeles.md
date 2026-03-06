@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 3/6 6:40am
+* New movies: Attack on Titan: THE LAST ATTACK Subtitled
+
+* New screenings: 
+    * [Attack On Titan The Movie The Last Attack Subtitled](https://drafthouse.com/los-angeles/show/attack-on-titan-the-movie-the-last-attack-subtitled): Mon 5/18 (7:20pm)
+
 ### Thu 3/5 6:28pm
 * New movies: Touch Me, I Live Here Now, Touch Me
 
