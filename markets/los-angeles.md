@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 3/6 12:36pm
+* New movies: First Date 2026
+
+* New screenings: 
+    * [First Date 2026](https://drafthouse.com/los-angeles/show/first-date-2026): Wed 3/25 (7:00pm), Wed 4/1 (7:00pm), Sun 4/12 (7:00pm)
+
 ### Fri 3/6 6:40am
 * New movies: Attack on Titan: THE LAST ATTACK Subtitled
 
