@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Fri 3/6 5:38pm
+
+* New screenings: 
+    * [Greetings From Twin Peaks Twin Peaks The Return Parts 10 12](https://drafthouse.com/raleigh/show/greetings-from-twin-peaks-twin-peaks-the-return-parts-10-12): Tue 3/17 (2:45pm)
+
+    * [The Lord Of The Rings The Two Towers Extended Edition 2](https://drafthouse.com/raleigh/show/the-lord-of-the-rings-the-two-towers-extended-edition-2): Wed 3/18 (2:40pm)
+
 ### Fri 3/6 9:48am
 * New movies: Attack on Titan: THE LAST ATTACK Subtitled
 
