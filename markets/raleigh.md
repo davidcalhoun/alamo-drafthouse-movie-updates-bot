@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Thu 3/5 9:45pm
+
+* New screenings: 
+    * [Peaky Blinders The Immortal Man](https://drafthouse.com/raleigh/show/peaky-blinders-the-immortal-man): Fri 3/6 (9:50pm), Sat 3/7 (7:30pm, 10:30pm), Sun 3/8 (7:30pm)
+
 ### Thu 3/5 3:48pm
 * New movies: Peaky Blinders: The Immortal Man
 
