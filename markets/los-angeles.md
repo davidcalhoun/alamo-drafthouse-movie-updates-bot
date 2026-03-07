@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 3/6 6:22pm
+* New movies: Marc by Sofia
+
+* New screenings: 
+    * [Marc By Sofia](https://drafthouse.com/los-angeles/show/marc-by-sofia): Fri 3/27 (11:00am, 1:45pm, 4:30pm, 7:15pm, 10:00pm), Sat 3/28 (11:00am, 1:45pm, 4:30pm, 7:15pm, 10:00pm), Sun 3/29 (11:00am, 1:45pm, 4:30pm, 7:15pm), Mon 3/30 (11:00am, 1:45pm, 4:30pm, 7:15pm, 10:00pm), Tue 3/31 (11:00am, 1:45pm, 4:30pm, 7:15pm, 10:00pm), Wed 4/1 (11:00am, 1:45pm, 4:30pm, 7:15pm, 10:00pm)
+
 ### Fri 3/6 12:36pm
 * New movies: First Date 2026
 
