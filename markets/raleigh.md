@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 3/9 9:23am
+* New movies: The AI Doc: Or How I Became an Apocaloptimist
+
+* New screenings: 
+    * [The Ai Doc Or How I Became An Apocaloptimist](https://drafthouse.com/raleigh/show/the-ai-doc-or-how-i-became-an-apocaloptimist): Thu 3/26 (6:45pm), Fri 3/27 (6:45pm), Sat 3/28 (6:45pm), Sun 3/29 (6:40pm)
+
 ### Fri 3/6 5:38pm
 
 * New screenings: 
