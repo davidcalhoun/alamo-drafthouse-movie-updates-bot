@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 3/9 6:12am
+* New movies: The AI Doc: Or How I Became an Apocaloptimist
+
+* New screenings: 
+    * [The Ai Doc Or How I Became An Apocaloptimist](https://drafthouse.com/los-angeles/show/the-ai-doc-or-how-i-became-an-apocaloptimist): Thu 3/26 (3:15pm, 6:15pm), Fri 3/27 (3:00pm, 6:00pm), Sat 3/28 (3:00pm, 6:00pm), Sun 3/29 (3:00pm, 6:00pm)
+
 ### Fri 3/6 6:22pm
 * New movies: Marc by Sofia
 
