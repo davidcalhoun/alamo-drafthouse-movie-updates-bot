@@ -1,6 +1,52 @@
 # los-angeles
 
 ## Movie updates
+### Mon 3/9 3:33pm
+* New movies: The Super Mario Galaxy Movie, The Super Mario Galaxy Movie
+
+* New screenings: 
+    * [Demon Slayer Kimetsu No Yaiba Infinity Castle Dubbed](https://drafthouse.com/los-angeles/show/demon-slayer-kimetsu-no-yaiba-infinity-castle-dubbed): Thu 3/12 (12:45pm)
+
+    * [Demon Slayer Kimetsu No Yaiba Infinity Castle Subtitled](https://drafthouse.com/los-angeles/show/demon-slayer-kimetsu-no-yaiba-infinity-castle-subtitled): Thu 3/12 (6:00pm)
+
+    * [Dolly](https://drafthouse.com/los-angeles/show/dolly): Thu 3/12 (3:45pm, 10:00pm)
+
+    * [Epic Elvis Presley In Concert](https://drafthouse.com/los-angeles/show/epic-elvis-presley-in-concert): Thu 3/12 (12:30pm, 4:15pm)
+
+    * [Family Party The Super Mario Galaxy Movie](https://drafthouse.com/los-angeles/show/family-party-the-super-mario-galaxy-movie): Sat 4/4 (11:00am)
+
+    * [Good Luck Have Fun Dont Die](https://drafthouse.com/los-angeles/show/good-luck-have-fun-dont-die): Thu 3/12 (9:30pm)
+
+    * [Greetings From Twin Peaks Twin Peaks The Return Parts 7 9](https://drafthouse.com/los-angeles/show/greetings-from-twin-peaks-twin-peaks-the-return-parts-7-9): Thu 3/12 (2:45pm)
+
+    * [Hoppers](https://drafthouse.com/los-angeles/show/hoppers): Thu 3/12 (12:15pm, 12:45pm, 3:15pm, 6:15pm, 9:15pm)
+
+    * [Idiotka](https://drafthouse.com/los-angeles/show/idiotka): Thu 3/12 (9:45pm)
+
+    * [Jurassic Park](https://drafthouse.com/los-angeles/show/jurassic-park): Thu 3/12 (11:30am)
+
+    * [Nirvanna The Band The Show The Movie](https://drafthouse.com/los-angeles/show/nirvanna-the-band-the-show-the-movie): Thu 3/12 (1:00pm, 6:45pm)
+
+    * [Peaky Blinders The Immortal Man](https://drafthouse.com/los-angeles/show/peaky-blinders-the-immortal-man): Thu 3/12 (1:15pm, 4:20pm, 7:25pm, 10:30pm)
+
+    * [Pillion](https://drafthouse.com/los-angeles/show/pillion): Thu 3/12 (3:45pm)
+
+    * [Reminders Of Him](https://drafthouse.com/los-angeles/show/reminders-of-him): Thu 3/12 (9:40pm)
+
+    * [Scream 7](https://drafthouse.com/los-angeles/show/scream-7): Thu 3/12 (12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
+    * [Sirat](https://drafthouse.com/los-angeles/show/sirat): Thu 3/12 (1:15pm, 7:00pm, 10:00pm)
+
+    * [The Bride 2026](https://drafthouse.com/los-angeles/show/the-bride-2026): Thu 3/12 (12:30pm, 3:45pm, 7:00pm, 10:15pm)
+
+    * [The Lord Of The Rings The Fellowship Of The Ring Extended Edition](https://drafthouse.com/los-angeles/show/the-lord-of-the-rings-the-fellowship-of-the-ring-extended-edition): Thu 3/12 (1:20pm)
+
+    * [The Super Mario Galaxy Movie](https://drafthouse.com/los-angeles/show/the-super-mario-galaxy-movie): Wed 4/1 (10:30am, 11:30am, 1:15pm, 2:15pm, 4:00pm, 5:00pm, 6:45pm, 7:45pm, 9:30pm), Thu 4/2 (10:30am, 11:30am, 1:15pm, 2:15pm, 4:00pm, 5:00pm, 6:45pm, 7:45pm, 9:30pm), Fri 4/3 (10:30am, 11:30am, 1:15pm, 2:15pm, 4:00pm, 5:00pm, 6:45pm, 7:45pm, 9:30pm), Sat 4/4 (10:30am, 1:15pm, 1:45pm, 4:00pm, 4:30pm, 6:45pm, 7:15pm, 9:30pm), Sun 4/5 (10:30am, 11:30am, 1:15pm, 2:15pm, 4:00pm, 5:00pm, 6:45pm, 7:45pm), Mon 4/6 (11:00am, 1:45pm, 4:30pm, 7:15pm, 10:00pm), Tue 4/7 (11:00am, 1:45pm, 4:30pm, 7:15pm, 10:00pm), Wed 4/8 (11:00am, 1:45pm, 4:30pm, 7:15pm, 10:00pm), Thu 4/9 (11:00am, 1:45pm, 4:30pm, 7:15pm, 10:00pm), Fri 4/10 (11:00am, 1:45pm, 4:30pm, 7:15pm, 10:00pm), Sat 4/11 (11:00am, 1:45pm, 4:30pm, 7:15pm, 10:00pm), Sun 4/12 (11:00am, 1:45pm, 4:30pm, 7:15pm)
+
+    * [Undertone](https://drafthouse.com/los-angeles/show/undertone): Thu 3/12 (10:00pm)
+
+    * [Wuthering Heights 2026](https://drafthouse.com/los-angeles/show/wuthering-heights-2026): Thu 3/12 (11:00am, 2:30pm, 6:00pm, 9:30pm)
+
 ### Mon 3/9 6:12am
 * New movies: The AI Doc: Or How I Became an Apocaloptimist
 
