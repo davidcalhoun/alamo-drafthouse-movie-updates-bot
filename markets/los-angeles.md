@@ -1,6 +1,52 @@
 # los-angeles
 
 ## Movie updates
+### Mon 3/9 4:32pm
+* New movies: The Napa Boys, The Lost World: Jurassic Park, Jurassic Park III, Sleepaway Camp, PI 1998, THE DESCENT
+
+* New screenings: 
+    * [Dolly](https://drafthouse.com/los-angeles/show/dolly): Fri 3/13 (10:45pm), Sun 3/15 (5:00pm), Mon 3/16 (11:00pm), Tue 3/17 (10:45pm)
+
+    * [Good Luck Have Fun Dont Die](https://drafthouse.com/los-angeles/show/good-luck-have-fun-dont-die): Fri 3/13 (9:45pm), Sat 3/14 (7:10pm), Sun 3/15 (3:00pm), Mon 3/16 (4:00pm), Tue 3/17 (3:30pm), Wed 3/18 (4:00pm)
+
+    * [Hoppers](https://drafthouse.com/los-angeles/show/hoppers): Fri 3/13 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Sat 3/14 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Sun 3/15 (11:00am, 2:00pm, 4:00pm, 7:00pm), Mon 3/16 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Tue 3/17 (10:45am, 1:30pm, 4:30pm, 7:00pm, 10:15pm), Wed 3/18 (12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
+    * [Jurassic Park Iii](https://drafthouse.com/los-angeles/show/jurassic-park-iii): Sat 3/14 (1:45pm), Tue 3/17 (1:15pm)
+
+    * [Nirvanna The Band The Show The Movie](https://drafthouse.com/los-angeles/show/nirvanna-the-band-the-show-the-movie): Fri 3/13 (1:15pm, 7:00pm), Sat 3/14 (11:00am, 4:20pm, 10:40pm), Sun 3/15 (12:15pm), Mon 3/16 (1:10pm, 7:30pm), Tue 3/17 (12:40pm, 4:15pm), Wed 3/18 (1:10pm, 7:30pm)
+
+    * [Peaky Blinders The Immortal Man](https://drafthouse.com/los-angeles/show/peaky-blinders-the-immortal-man): Fri 3/13 (1:00pm, 4:10pm, 7:20pm, 10:30pm), Sat 3/14 (12:15pm, 3:25pm, 10:30pm), Sun 3/15 (1:00pm, 4:10pm, 7:15pm), Mon 3/16 (1:00pm, 4:10pm, 7:20pm, 10:30pm), Tue 3/17 (1:00pm, 4:10pm, 7:20pm, 10:30pm), Wed 3/18 (12:15pm, 3:25pm, 10:25pm)
+
+    * [Pi 1998](https://drafthouse.com/los-angeles/show/pi-1998): Sat 3/14 (4:35pm)
+
+    * [Pillion](https://drafthouse.com/los-angeles/show/pillion): Fri 3/13 (4:00pm), Sat 3/14 (1:15pm), Sun 3/15 (6:30pm), Mon 3/16 (10:20pm), Tue 3/17 (10:00pm), Wed 3/18 (10:20pm)
+
+    * [Reminders Of Him](https://drafthouse.com/los-angeles/show/reminders-of-him): Fri 3/13 (12:30pm, 9:45pm), Sat 3/14 (12:30pm, 9:45pm), Sun 3/15 (12:00pm), Mon 3/16 (12:30pm, 3:35pm, 6:40pm, 9:45pm), Tue 3/17 (12:30pm, 3:35pm, 6:40pm, 9:45pm), Wed 3/18 (12:30pm, 3:35pm, 6:40pm, 9:45pm)
+
+    * [Scream 7](https://drafthouse.com/los-angeles/show/scream-7): Fri 3/13 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Sat 3/14 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sun 3/15 (12:15pm, 3:15pm, 6:00pm), Mon 3/16 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Tue 3/17 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Wed 3/18 (12:30pm, 3:30pm, 6:30pm, 9:30pm)
+
+    * [Sirat](https://drafthouse.com/los-angeles/show/sirat): Fri 3/13 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sat 3/14 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sun 3/15 (1:00pm, 4:00pm, 7:00pm), Mon 3/16 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Tue 3/17 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Wed 3/18 (1:00pm, 4:00pm, 7:00pm, 10:00pm)
+
+    * [Slanted](https://drafthouse.com/los-angeles/show/slanted): Fri 3/13 (12:15pm, 9:15pm), Sat 3/14 (11:45am, 9:15pm), Sun 3/15 (12:45pm), Mon 3/16 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Tue 3/17 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Wed 3/18 (1:15pm, 4:15pm, 7:15pm, 10:15pm)
+
+    * [Terror Tuesday Sleepaway Camp](https://drafthouse.com/los-angeles/show/terror-tuesday-sleepaway-camp): Tue 3/17 (7:00pm)
+
+    * [Terror Tuesday The Descent](https://drafthouse.com/los-angeles/show/terror-tuesday-the-descent): Tue 3/31 (7:30pm)
+
+    * [The Bride 2026](https://drafthouse.com/los-angeles/show/the-bride-2026): Fri 3/13 (11:45am, 3:00pm, 6:15pm, 9:30pm), Sat 3/14 (11:45am, 3:00pm, 6:15pm, 9:30pm), Sun 3/15 (11:30am, 2:45pm, 6:15pm), Mon 3/16 (12:45pm, 3:00pm, 6:15pm, 9:30pm), Tue 3/17 (11:45am, 3:00pm, 6:15pm, 9:30pm), Wed 3/18 (12:15pm, 3:30pm, 6:45pm, 10:00pm)
+
+    * [The Lord Of The Rings The Two Towers Extended Edition 2](https://drafthouse.com/los-angeles/show/the-lord-of-the-rings-the-two-towers-extended-edition-2): Wed 3/18 (1:30pm)
+
+    * [The Lost World Jurassic Park](https://drafthouse.com/los-angeles/show/the-lost-world-jurassic-park): Fri 3/13 (1:15pm), Sun 3/15 (12:30pm), Mon 3/16 (4:00pm)
+
+    * [The Napa Boys](https://drafthouse.com/los-angeles/show/the-napa-boys): Fri 3/13 (7:15pm), Sat 3/14 (7:15pm), Sun 3/15 (7:30pm), Mon 3/16 (9:45pm), Tue 3/17 (9:40pm), Wed 3/18 (10:00pm)
+
+    * [The Whitest Kids U Knows Mars](https://drafthouse.com/los-angeles/show/the-whitest-kids-u-knows-mars): Fri 3/13 (4:35pm), Tue 3/17 (1:40pm), Wed 3/18 (12:00pm)
+
+    * [Undertone](https://drafthouse.com/los-angeles/show/undertone): Fri 3/13 (11:00am, 1:45pm, 6:00pm, 10:00pm), Sat 3/14 (11:00am, 1:45pm, 6:00pm, 10:00pm), Sun 3/15 (12:45pm, 3:30pm), Mon 3/16 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Tue 3/17 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Wed 3/18 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm)
+
+    * [Wuthering Heights 2026](https://drafthouse.com/los-angeles/show/wuthering-heights-2026): Fri 3/13 (11:00am, 2:30pm, 8:45pm), Sat 3/14 (11:00am, 2:30pm, 8:45pm), Sun 3/15 (11:00am, 2:30pm, 6:00pm), Mon 3/16 (11:00am, 2:30pm, 6:00pm, 9:30pm), Tue 3/17 (11:00am, 2:30pm, 6:00pm, 9:30pm), Wed 3/18 (11:00am, 2:30pm, 6:00pm, 9:30pm)
+
 ### Mon 3/9 3:33pm
 * New movies: The Super Mario Galaxy Movie, The Super Mario Galaxy Movie
 
