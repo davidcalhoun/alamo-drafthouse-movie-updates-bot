@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Mon 3/9 6:38pm
+* New movies: The Super Mario Galaxy Movie, The Super Mario Galaxy Movie
+
+* New screenings: 
+    * [Family Party The Super Mario Galaxy Movie](https://drafthouse.com/raleigh/show/family-party-the-super-mario-galaxy-movie): Sat 4/4 (11:00am)
+
+    * [The Super Mario Galaxy Movie](https://drafthouse.com/raleigh/show/the-super-mario-galaxy-movie): Wed 4/1 (12:30pm, 1:30pm, 3:15pm, 4:15pm, 6:00pm, 7:00pm, 8:45pm, 9:45pm), Thu 4/2 (12:30pm, 1:30pm, 3:15pm, 4:15pm, 6:00pm, 7:00pm, 8:45pm, 9:45pm), Fri 4/3 (10:00am, 10:45am, 12:40pm, 1:30pm, 3:20pm, 4:15pm, 6:00pm, 7:00pm, 8:45pm, 9:45pm), Sat 4/4 (10:00am, 12:40pm, 2:00pm, 3:20pm, 4:45pm, 6:00pm, 7:30pm, 8:45pm, 10:15pm), Sun 4/5 (10:00am, 11:00am, 12:40pm, 1:40pm, 3:20pm, 4:20pm, 6:00pm, 7:00pm, 8:45pm, 9:45pm), Mon 4/6 (12:30pm, 3:15pm, 6:00pm, 8:45pm), Tue 4/7 (12:30pm, 3:15pm, 6:00pm, 8:45pm), Wed 4/8 (12:30pm, 3:15pm, 6:00pm, 8:45pm), Thu 4/9 (12:30pm, 3:15pm, 6:00pm, 8:45pm), Fri 4/10 (10:30am, 1:15pm, 4:00pm, 6:45pm), Sat 4/11 (10:00am, 12:40pm, 3:20pm, 6:00pm, 8:45pm), Sun 4/12 (10:00am, 12:40pm, 3:20pm, 6:00pm, 8:45pm)
+
 ### Mon 3/9 9:23am
 * New movies: The AI Doc: Or How I Became an Apocaloptimist
 
