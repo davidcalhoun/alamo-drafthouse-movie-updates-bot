@@ -1,6 +1,38 @@
 # raleigh
 
 ## Movie updates
+### Tue 3/10 12:07pm
+* New movies: PI 1998
+
+* New screenings: 
+    * [Good Luck Have Fun Dont Die](https://drafthouse.com/raleigh/show/good-luck-have-fun-dont-die): Thu 3/12 (10:15pm), Fri 3/13 (10:35pm), Sat 3/14 (9:35pm), Mon 3/16 (10:35pm), Tue 3/17 (10:05pm), Wed 3/18 (10:30pm)
+
+    * [Hoppers](https://drafthouse.com/raleigh/show/hoppers): Thu 3/12 (1:30pm, 2:35pm, 3:45pm, 4:30pm, 5:45pm, 7:30pm, 10:30pm), Fri 3/13 (11:40am, 12:10pm, 1:15pm, 3:00pm, 3:35pm, 6:00pm, 9:00pm), Sat 3/14 (11:00am, 1:35pm, 3:00pm, 4:40pm, 6:00pm, 9:00pm), Sun 3/15 (11:35am, 12:00pm, 3:00pm, 3:45pm, 6:00pm, 9:00pm), Mon 3/16 (12:00pm, 12:50pm, 3:00pm, 4:25pm, 6:00pm, 9:00pm), Tue 3/17 (11:40am, 12:40pm, 1:25pm, 3:30pm, 4:15pm, 6:30pm), Wed 3/18 (11:40am, 12:30pm, 1:00pm, 3:00pm, 3:30pm, 6:30pm, 9:30pm)
+
+    * [Peaky Blinders The Immortal Man](https://drafthouse.com/raleigh/show/peaky-blinders-the-immortal-man): Thu 3/12 (3:00pm, 7:00pm, 10:00pm), Fri 3/13 (12:00pm, 3:00pm, 7:30pm, 10:20pm), Sat 3/14 (11:45am, 4:10pm, 7:30pm, 10:00pm), Sun 3/15 (1:15pm, 4:15pm, 6:45pm, 9:45pm), Mon 3/16 (12:30pm, 2:55pm, 6:45pm, 10:20pm), Tue 3/17 (11:45am, 4:00pm, 6:30pm, 9:55pm), Wed 3/18 (12:30pm, 3:25pm, 7:00pm, 10:00pm)
+
+    * [Pi 1998](https://drafthouse.com/raleigh/show/pi-1998): Sat 3/14 (3:15pm)
+
+    * [Pillion](https://drafthouse.com/raleigh/show/pillion): Thu 3/12 (1:00pm), Fri 3/13 (1:30pm), Sat 3/14 (12:30pm), Sun 3/15 (1:00pm), Mon 3/16 (12:15pm), Tue 3/17 (12:45pm), Wed 3/18 (12:00pm)
+
+    * [Reminders Of Him](https://drafthouse.com/raleigh/show/reminders-of-him): Thu 3/12 (3:00pm, 9:00pm), Fri 3/13 (12:30pm, 3:45pm, 9:15pm), Sat 3/14 (12:15pm, 3:15pm, 9:15pm), Sun 3/15 (1:25pm, 3:45pm, 10:15pm), Mon 3/16 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Tue 3/17 (12:00pm, 3:45pm, 6:15pm, 9:15pm), Wed 3/18 (12:15pm, 3:15pm, 6:15pm, 9:15pm)
+
+    * [Scream 7](https://drafthouse.com/raleigh/show/scream-7): Thu 3/12 (1:15pm, 4:15pm, 7:15pm, 10:25pm), Fri 3/13 (12:45pm, 3:50pm, 6:45pm, 9:55pm), Sat 3/14 (12:00pm, 3:25pm, 6:00pm, 10:30pm), Sun 3/15 (12:00pm, 3:00pm, 7:15pm, 10:15pm), Mon 3/16 (12:45pm, 3:45pm, 7:15pm, 9:40pm), Tue 3/17 (1:00pm, 3:25pm, 7:00pm, 9:40pm), Wed 3/18 (12:45pm, 3:45pm, 6:45pm, 9:50pm)
+
+    * [Send Help](https://drafthouse.com/raleigh/show/send-help): Thu 3/12 (9:00pm), Fri 3/13 (10:00pm), Sat 3/14 (9:20pm), Sun 3/15 (9:00pm), Mon 3/16 (9:00pm), Tue 3/17 (9:30pm), Wed 3/18 (9:20pm)
+
+    * [Sirat](https://drafthouse.com/raleigh/show/sirat): Thu 3/12 (4:00pm), Fri 3/13 (4:35pm), Sun 3/15 (4:00pm), Mon 3/16 (3:15pm), Tue 3/17 (3:45pm), Wed 3/18 (4:00pm)
+
+    * [Slanted](https://drafthouse.com/raleigh/show/slanted): Thu 3/12 (4:00pm, 9:35pm), Fri 3/13 (1:00pm, 3:30pm, 10:15pm), Sat 3/14 (12:40pm, 4:30pm, 10:10pm), Sun 3/15 (1:00pm, 4:30pm, 9:35pm), Mon 3/16 (12:30pm, 4:30pm, 7:15pm, 10:15pm), Tue 3/17 (1:00pm, 4:30pm, 7:15pm, 10:15pm), Wed 3/18 (12:00pm, 4:00pm, 6:00pm, 9:00pm)
+
+    * [The Bride 2026](https://drafthouse.com/raleigh/show/the-bride-2026): Thu 3/12 (12:45pm, 3:15pm, 6:45pm, 10:20pm), Fri 3/13 (12:45pm, 4:00pm, 6:45pm, 10:35pm), Sat 3/14 (1:15pm, 3:25pm, 6:35pm, 9:55pm), Sun 3/15 (12:20pm, 3:30pm, 7:00pm, 10:30pm), Mon 3/16 (1:20pm, 3:35pm, 6:45pm, 9:55pm), Tue 3/17 (1:20pm, 3:05pm, 6:45pm, 9:55pm), Wed 3/18 (12:50pm, 2:50pm, 6:45pm, 9:55pm)
+
+    * [The Napa Boys](https://drafthouse.com/raleigh/show/the-napa-boys): Sat 3/14 (7:15pm), Mon 3/16 (6:15pm), Wed 3/18 (10:25pm)
+
+    * [Undertone](https://drafthouse.com/raleigh/show/undertone): Thu 3/12 (4:00pm, 10:00pm), Fri 3/13 (11:15am, 1:50pm, 2:30pm, 4:25pm, 5:20pm, 6:30pm, 7:45pm, 8:00pm), Sat 3/14 (12:25pm, 1:50pm, 4:05pm, 4:25pm, 6:30pm, 6:45pm, 9:30pm), Sun 3/15 (1:10pm, 4:30pm, 6:15pm), Mon 3/16 (2:15pm, 3:50pm, 4:50pm, 6:30pm, 7:30pm, 9:30pm, 10:15pm), Tue 3/17 (1:55pm, 4:50pm, 6:45pm, 7:30pm, 10:15pm), Wed 3/18 (1:50pm, 4:25pm, 6:20pm, 7:30pm, 10:10pm)
+
+    * [Wuthering Heights 2026](https://drafthouse.com/raleigh/show/wuthering-heights-2026): Thu 3/12 (3:25pm, 6:00pm, 9:35pm), Fri 3/13 (12:15pm, 4:10pm, 6:00pm, 9:05pm), Sat 3/14 (12:50pm, 2:45pm, 6:15pm, 9:05pm), Sun 3/15 (12:20pm, 2:35pm, 6:00pm, 9:20pm), Mon 3/16 (1:05pm, 3:30pm, 6:00pm, 9:20pm), Tue 3/17 (12:00pm, 2:40pm, 6:00pm, 9:20pm), Wed 3/18 (1:20pm, 4:40pm, 6:00pm, 9:00pm)
+
 ### Mon 3/9 6:38pm
 * New movies: The Super Mario Galaxy Movie, The Super Mario Galaxy Movie
 
