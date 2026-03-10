@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 3/10 1:54pm
+* New movies: Anaconda 2025
+
+* New screenings: 
+    * [Anaconda 2025](https://drafthouse.com/raleigh/show/anaconda-2025): Fri 3/13 (1:10pm)
+
 ### Tue 3/10 12:07pm
 * New movies: PI 1998
 
