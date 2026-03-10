@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 3/10 3:33pm
+
+* New screenings: 
+    * [Live Q A Our Hero Balthazar](https://drafthouse.com/los-angeles/show/live-q-a-our-hero-balthazar): Sat 4/4 (7:45pm), Sun 4/5 (7:45pm)
+
 ### Tue 3/10 12:39pm
 * New movies: Our Hero, Balthazar
 
