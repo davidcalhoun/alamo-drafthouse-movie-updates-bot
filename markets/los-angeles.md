@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 3/10 10:50am
+* New movies: The Serpent's Skin
+
+* New screenings: 
+    * [Live Qa The Serpents Skin](https://drafthouse.com/los-angeles/show/live-qa-the-serpents-skin): Fri 4/3 (7:00pm)
+
 ### Mon 3/9 4:32pm
 * New movies: The Napa Boys, The Lost World: Jurassic Park, Jurassic Park III, Sleepaway Camp, PI 1998, THE DESCENT
 
