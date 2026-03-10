@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 3/10 12:39pm
+* New movies: Our Hero, Balthazar
+
+* New screenings: 
+    * [Our Hero Balthazar](https://drafthouse.com/los-angeles/show/our-hero-balthazar): Fri 4/3 (11:00am, 1:40pm, 4:20pm, 7:00pm, 10:00pm), Sat 4/4 (11:00am, 1:40pm, 4:20pm, 10:00pm), Sun 4/5 (11:00am, 1:40pm, 4:20pm), Mon 4/6 (11:20am, 2:00pm, 4:40pm, 7:20pm, 10:00pm), Tue 4/7 (11:20am, 2:00pm, 4:40pm, 7:20pm, 10:00pm), Wed 4/8 (11:20am, 2:00pm, 4:40pm, 7:20pm, 10:00pm)
+
 ### Tue 3/10 10:50am
 * New movies: The Serpent's Skin
 
