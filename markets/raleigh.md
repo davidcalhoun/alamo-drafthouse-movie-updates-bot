@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Wed 3/11 3:04pm
+
+* New screenings: 
+    * [Project Hail Mary](https://drafthouse.com/raleigh/show/project-hail-mary): Thu 3/19 (3:30pm, 7:15pm, 10:20pm), Fri 3/20 (11:50am, 3:30pm, 7:15pm), Sat 3/21 (11:30am, 3:30pm)
+
 ### Wed 3/11 1:55pm
 * New movies: Terror of Mechagodzilla
 
