@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 3/11 7:50am
+* New movies: Terror of Mechagodzilla
+
+* New screenings: 
+    * [Terror Of Mechagodzilla](https://drafthouse.com/los-angeles/show/terror-of-mechagodzilla): Sun 4/26 (12:45pm, 3:25pm)
+
 ### Tue 3/10 3:33pm
 
 * New screenings: 
