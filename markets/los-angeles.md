@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 3/11 9:56am
+* New movies: They Will Kill You, They Will Kill You
+
+* New screenings: 
+    * [Fan Event They Will Kill You](https://drafthouse.com/los-angeles/show/fan-event-they-will-kill-you): Fri 3/27 (7:45pm)
+
+    * [They Will Kill You](https://drafthouse.com/los-angeles/show/they-will-kill-you): Thu 3/26 (5:00pm, 7:45pm, 10:30pm), Fri 3/27 (5:00pm, 10:30pm), Sat 3/28 (5:00pm, 7:45pm, 10:30pm), Sun 3/29 (5:00pm, 7:45pm)
+
 ### Wed 3/11 7:50am
 * New movies: Terror of Mechagodzilla
 
