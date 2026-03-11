@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 3/11 1:02pm
+* New movies: They Will Kill You
+
+* New screenings: 
+    * [They Will Kill You](https://drafthouse.com/raleigh/show/they-will-kill-you): Thu 3/26 (7:00pm, 9:45pm), Fri 3/27 (7:30pm, 10:15pm), Sat 3/28 (7:45pm, 10:30pm), Sun 3/29 (6:15pm, 9:00pm)
+
 ### Tue 3/10 1:54pm
 * New movies: Anaconda 2025
 
