@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 3/11 1:55pm
+* New movies: Terror of Mechagodzilla
+
+* New screenings: 
+    * [Terror Of Mechagodzilla](https://drafthouse.com/raleigh/show/terror-of-mechagodzilla): Sun 4/26 (12:00pm)
+
 ### Wed 3/11 1:02pm
 * New movies: They Will Kill You
 
