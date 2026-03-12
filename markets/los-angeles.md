@@ -1,6 +1,17 @@
 # los-angeles
 
 ## Movie updates
+### Wed 3/11 9:49pm
+
+* New screenings: 
+    * [Greetings From Twin Peaks Twin Peaks The Return Parts 13 15](https://drafthouse.com/los-angeles/show/greetings-from-twin-peaks-twin-peaks-the-return-parts-13-15): Fri 3/20 (2:45pm), Sun 3/22 (12:15pm), Tue 3/24 (9:50pm), Wed 3/25 (12:10pm)
+
+    * [Queer Film Theory 101 Daisies](https://drafthouse.com/los-angeles/show/queer-film-theory-101-daisies): Tue 3/24 (10:20pm), Wed 3/25 (4:25pm)
+
+    * [Sad Girl Cinema Club Melancholia](https://drafthouse.com/los-angeles/show/sad-girl-cinema-club-melancholia): Fri 3/20 (6:00pm), Sun 3/22 (4:30pm), Mon 3/23 (9:30pm)
+
+    * [The Lord Of The Rings The Return Of The King Extended Edition](https://drafthouse.com/los-angeles/show/the-lord-of-the-rings-the-return-of-the-king-extended-edition): Sat 3/21 (8:00pm), Mon 3/23 (12:30pm)
+
 ### Wed 3/11 7:31pm
 * New movies: Mystery Machine 3/23/2026
 
