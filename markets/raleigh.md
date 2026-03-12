@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Thu 3/12 10:59am
+* New movies: Mystery Machine 3/23/2026, Mermaid 2026
+
+* New screenings: 
+    * [Advance Screening Mermaid 2026 Sneak Preview](https://drafthouse.com/raleigh/show/advance-screening-mermaid-2026-sneak-preview): Wed 4/8 (7:00pm)
+
+    * [Mystery Machine 3 23 2026](https://drafthouse.com/raleigh/show/mystery-machine-3-23-2026): Mon 3/23 (7:15pm)
+
 ### Thu 3/12 9:21am
 * New movies: The Devil Wears Prada 2, The Devil Wears Prada 2
 
