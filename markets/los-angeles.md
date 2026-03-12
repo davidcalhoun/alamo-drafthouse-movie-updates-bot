@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 3/12 6:10am
+* New movies: The Devil Wears Prada 2, The Devil Wears Prada 2
+
+* New screenings: 
+    * [Costume Screening The Devil Wears Prada 2](https://drafthouse.com/los-angeles/show/costume-screening-the-devil-wears-prada-2): Thu 4/30 (7:00pm)
+
+    * [The Devil Wears Prada 2](https://drafthouse.com/los-angeles/show/the-devil-wears-prada-2): Thu 4/30 (3:00pm, 3:45pm, 6:15pm, 9:30pm, 10:20pm), Fri 5/1 (12:00pm, 12:45pm, 3:15pm, 4:00pm, 6:30pm, 7:15pm, 9:45pm, 10:30pm), Sat 5/2 (12:00pm, 12:45pm, 3:15pm, 4:00pm, 6:30pm, 7:15pm, 9:45pm, 10:30pm), Sun 5/3 (12:00pm, 12:45pm, 3:15pm, 4:00pm, 6:30pm, 7:15pm), Mon 5/4 (12:00pm, 12:45pm, 3:15pm, 4:00pm, 6:30pm, 7:15pm, 9:45pm, 10:30pm), Tue 5/5 (12:00pm, 12:45pm, 3:15pm, 4:00pm, 6:30pm, 7:15pm, 9:45pm, 10:30pm), Wed 5/6 (12:00pm, 12:45pm, 3:15pm, 4:00pm, 6:30pm, 7:15pm, 9:45pm, 10:30pm)
+
 ### Wed 3/11 9:49pm
 
 * New screenings: 
