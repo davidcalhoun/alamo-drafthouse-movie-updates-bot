@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 3/11 7:31pm
+* New movies: Mystery Machine 3/23/2026
+
+* New screenings: 
+    * [Mystery Machine 3 23 2026](https://drafthouse.com/los-angeles/show/mystery-machine-3-23-2026): Mon 3/23 (7:30pm)
+
 ### Wed 3/11 9:56am
 * New movies: They Will Kill You, They Will Kill You
 
