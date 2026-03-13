@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 3/13 7:47am
+* New movies: Forbidden Fruits, Forbidden Fruits
+
+* New screenings: 
+    * [Costume Screening Forbidden Fruits Early Access Witchy Screening](https://drafthouse.com/los-angeles/show/costume-screening-forbidden-fruits-early-access-witchy-screening): Wed 3/25 (7:30pm)
+
+    * [Forbidden Fruits](https://drafthouse.com/los-angeles/show/forbidden-fruits): Fri 3/27 (7:00pm, 10:00pm), Sat 3/28 (7:00pm, 10:00pm), Sun 3/29 (4:00pm, 7:00pm)
+
 ### Thu 3/12 6:10am
 * New movies: The Devil Wears Prada 2, The Devil Wears Prada 2
 
