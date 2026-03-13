@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 3/13 11:49am
+* New movies: Andre is an Idiot
+
+* New screenings: 
+    * [Live Q A Andre Is An Idiot](https://drafthouse.com/los-angeles/show/live-q-a-andre-is-an-idiot): Fri 3/20 (6:30pm)
+
 ### Fri 3/13 7:47am
 * New movies: Forbidden Fruits, Forbidden Fruits
 
