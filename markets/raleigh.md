@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Fri 3/13 10:53am
+* New movies: Forbidden Fruits, Forbidden Fruits
+
+* New screenings: 
+    * [Costume Screening Forbidden Fruits Early Access Witchy Screening](https://drafthouse.com/raleigh/show/costume-screening-forbidden-fruits-early-access-witchy-screening): Wed 3/25 (7:30pm)
+
+    * [Forbidden Fruits](https://drafthouse.com/raleigh/show/forbidden-fruits): Thu 3/26 (9:00pm), Fri 3/27 (10:00pm), Sat 3/28 (9:00pm), Sun 3/29 (10:00pm)
+
 ### Thu 3/12 10:59am
 * New movies: Mystery Machine 3/23/2026, Mermaid 2026
 
