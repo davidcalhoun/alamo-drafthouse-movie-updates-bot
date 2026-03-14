@@ -1,6 +1,15 @@
 # raleigh
 
 ## Movie updates
+### Sat 3/14 12:49am
+
+* New screenings: 
+    * [Greetings From Twin Peaks Twin Peaks The Return Parts 13 15](https://drafthouse.com/raleigh/show/greetings-from-twin-peaks-twin-peaks-the-return-parts-13-15): Mon 3/23 (2:45pm)
+
+    * [Sad Girl Cinema Club Melancholia](https://drafthouse.com/raleigh/show/sad-girl-cinema-club-melancholia): Fri 3/20 (11:10am), Wed 3/25 (3:30pm)
+
+    * [The Lord Of The Rings The Return Of The King Extended Edition](https://drafthouse.com/raleigh/show/the-lord-of-the-rings-the-return-of-the-king-extended-edition): Fri 3/20 (2:30pm), Tue 3/24 (1:30pm)
+
 ### Fri 3/13 10:53am
 * New movies: Forbidden Fruits, Forbidden Fruits
 
