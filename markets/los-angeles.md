@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Sat 3/14 7:48pm
+* New movies: Mermaid 2026, The Killer - Hong Kong Cinema Classics
+
+* New screenings: 
+    * [Jeopardy Interactive](https://drafthouse.com/los-angeles/show/jeopardy-interactive): Wed 4/29 (7:00pm)
+
+    * [Live Q A Mermaid 2026](https://drafthouse.com/los-angeles/show/live-q-a-mermaid-2026): Wed 4/8 (7:00pm)
+
+    * [Terror Of Mechagodzilla](https://drafthouse.com/los-angeles/show/terror-of-mechagodzilla): Sun 4/26 (6:00pm)
+
+    * [The Killer Hong Kong Cinema Classics](https://drafthouse.com/los-angeles/show/the-killer-hong-kong-cinema-classics): Sun 4/5 (4:30pm), Mon 4/6 (6:30pm), Tue 4/7 (7:00pm)
+
 ### Fri 3/13 11:49am
 * New movies: Andre is an Idiot
 
