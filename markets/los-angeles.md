@@ -1,6 +1,32 @@
 # los-angeles
 
 ## Movie updates
+### Mon 3/16 2:43pm
+* New movies: Celine and Julie Go Boating, Romancing in Thin Air, Evilspeak, It Doesn't Get Any Better Than This, City Wide Fever, City on Fire 1987, Ghost World, Police Story, The Master 2012, Tomorrow Never Dies, GINGER SNAPS
+
+* New screenings: 
+    * [City On Fire 1987](https://drafthouse.com/los-angeles/show/city-on-fire-1987): Thu 4/9 (7:20pm)
+
+    * [Ghost World](https://drafthouse.com/los-angeles/show/ghost-world): Fri 4/10 (9:45pm)
+
+    * [Police Story](https://drafthouse.com/los-angeles/show/police-story): Thu 4/16 (7:00pm)
+
+    * [Queer Film Theory 101 Celine And Julie Go Boating](https://drafthouse.com/los-angeles/show/queer-film-theory-101-celine-and-julie-go-boating): Mon 4/27 (6:15pm)
+
+    * [Sad Girl Cinema Club Romancing In Thin Air](https://drafthouse.com/los-angeles/show/sad-girl-cinema-club-romancing-in-thin-air): Sat 4/18 (4:00pm)
+
+    * [Terror Tuesday Evilspeak](https://drafthouse.com/los-angeles/show/terror-tuesday-evilspeak): Tue 4/21 (7:00pm)
+
+    * [Terror Tuesday Ginger Snaps](https://drafthouse.com/los-angeles/show/terror-tuesday-ginger-snaps): Tue 4/28 (7:30pm)
+
+    * [Terror Tuesday It Doesnt Get Any Better Than This](https://drafthouse.com/los-angeles/show/terror-tuesday-it-doesnt-get-any-better-than-this): Tue 4/14 (7:30pm)
+
+    * [The Master 2012](https://drafthouse.com/los-angeles/show/the-master-2012): Sat 4/18 (12:30pm)
+
+    * [Tomorrow Never Dies](https://drafthouse.com/los-angeles/show/tomorrow-never-dies): Thu 4/30 (7:20pm)
+
+    * [Weird Wednesday City Wide Fever](https://drafthouse.com/los-angeles/show/weird-wednesday-city-wide-fever): Wed 4/15 (7:00pm)
+
 ### Mon 3/16 1:41pm
 * New movies: One Battle After Another, Sinners
 
