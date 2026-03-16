@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Mon 3/16 11:00am
+* New movies: The Best of Betty Boop
+
+* New screenings: 
+    * [Ready Or Not 2 Here I Come](https://drafthouse.com/los-angeles/show/ready-or-not-2-here-i-come): Sat 3/21 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sun 3/22 (1:00pm, 4:00pm, 7:00pm)
+
+    * [The Best Of Betty Boop](https://drafthouse.com/los-angeles/show/the-best-of-betty-boop): Mon 4/6 (7:00pm)
+
 ### Mon 3/16 8:03am
 * New movies: Miss Congeniality, The Big Lebowski, Pride & Prejudice 2005, Iron Maiden: Burning Ambition, Face/Off, Something Wild
 
