@@ -1,6 +1,36 @@
 # raleigh
 
 ## Movie updates
+### Mon 3/16 4:51pm
+* New movies: One Battle After Another, Sinners
+
+* New screenings: 
+    * [Hoppers](https://drafthouse.com/raleigh/show/hoppers): Thu 3/19 (12:35pm, 3:25pm, 6:15pm, 9:15pm), Fri 3/20 (11:15am, 3:15pm, 6:15pm, 9:15pm), Sat 3/21 (11:40am, 3:00pm, 6:15pm, 9:15pm), Sun 3/22 (11:20am, 3:15pm, 6:00pm, 9:00pm), Mon 3/23 (1:00pm, 4:00pm, 6:00pm, 9:45pm), Tue 3/24 (12:15pm, 3:15pm, 6:05pm, 9:15pm), Wed 3/25 (1:00pm, 3:20pm, 6:15pm, 9:15pm)
+
+    * [One Battle After Another](https://drafthouse.com/raleigh/show/one-battle-after-another): Fri 3/20 (1:00pm), Sat 3/21 (11:15am), Sun 3/22 (12:00pm), Mon 3/23 (12:00pm), Tue 3/24 (12:30pm), Wed 3/25 (12:30pm)
+
+    * [Peaky Blinders The Immortal Man](https://drafthouse.com/raleigh/show/peaky-blinders-the-immortal-man): Thu 3/19 (12:30pm)
+
+    * [Project Hail Mary](https://drafthouse.com/raleigh/show/project-hail-mary): Thu 3/19 (2:45pm, 3:00pm, 4:20pm, 6:30pm, 7:00pm, 8:00pm), Fri 3/20 (11:30am, 12:20pm, 2:20pm, 5:00pm, 6:00pm, 8:00pm, 9:00pm), Sat 3/21 (12:00pm, 2:30pm, 3:50pm, 6:00pm, 7:00pm, 7:15pm, 7:30pm, 8:00pm), Sun 3/22 (11:15am, 12:30pm, 2:15pm, 2:45pm, 4:15pm, 4:40pm, 6:00pm, 6:15pm, 6:45pm, 8:00pm, 8:30pm, 9:45pm), Mon 3/23 (12:30pm, 2:45pm, 4:15pm, 6:30pm, 7:00pm, 8:00pm, 9:00pm, 9:45pm), Tue 3/24 (12:00pm, 1:40pm, 3:45pm, 4:15pm, 5:20pm, 7:30pm, 8:00pm, 9:00pm, 9:45pm), Wed 3/25 (11:00am, 11:45am, 2:20pm, 3:40pm, 4:15pm, 6:00pm, 8:00pm, 9:45pm, 10:10pm)
+
+    * [Ready Or Not 2 Here I Come](https://drafthouse.com/raleigh/show/ready-or-not-2-here-i-come): Thu 3/19 (2:00pm, 3:55pm), Fri 3/20 (1:15pm, 4:20pm), Sat 3/21 (1:15pm, 4:30pm), Sun 3/22 (1:15pm, 4:20pm, 10:25pm), Mon 3/23 (1:40pm, 4:35pm, 7:30pm, 10:25pm), Tue 3/24 (1:00pm, 4:15pm, 7:15pm, 10:10pm), Wed 3/25 (12:15pm, 3:15pm, 6:15pm, 9:15pm)
+
+    * [Reminders Of Him](https://drafthouse.com/raleigh/show/reminders-of-him): Thu 3/19 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Fri 3/20 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sat 3/21 (1:00pm, 3:15pm, 6:15pm, 9:15pm), Sun 3/22 (1:00pm, 3:15pm, 6:15pm, 9:15pm), Mon 3/23 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Tue 3/24 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Wed 3/25 (12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
+    * [Scream 7](https://drafthouse.com/raleigh/show/scream-7): Thu 3/19 (12:50pm, 4:00pm, 7:15pm, 10:15pm), Fri 3/20 (12:45pm, 4:00pm, 7:00pm, 10:00pm), Sat 3/21 (1:00pm, 4:05pm, 6:45pm, 9:50pm), Sun 3/22 (12:15pm, 3:00pm, 7:15pm, 10:15pm), Mon 3/23 (12:45pm, 3:45pm, 6:45pm, 10:00pm), Tue 3/24 (1:00pm, 4:00pm, 7:00pm), Wed 3/25 (12:45pm, 3:45pm, 6:45pm, 10:00pm)
+
+    * [Sinners](https://drafthouse.com/raleigh/show/sinners): Fri 3/20 (9:40pm), Sat 3/21 (9:40pm), Sun 3/22 (9:55pm), Mon 3/23 (10:40pm), Tue 3/24 (10:00pm), Wed 3/25 (10:35pm)
+
+    * [Slanted](https://drafthouse.com/raleigh/show/slanted): Thu 3/19 (10:40pm), Fri 3/20 (10:30pm), Sat 3/21 (10:40pm), Sun 3/22 (10:30pm), Mon 3/23 (10:15pm), Tue 3/24 (9:30pm), Wed 3/25 (10:15pm)
+
+    * [The Bride 2026](https://drafthouse.com/raleigh/show/the-bride-2026): Thu 3/19 (1:10pm), Fri 3/20 (7:15pm), Sat 3/21 (3:35pm), Sun 3/22 (11:35am), Mon 3/23 (2:30pm), Tue 3/24 (6:15pm), Wed 3/25 (4:00pm)
+
+    * [The Napa Boys](https://drafthouse.com/raleigh/show/the-napa-boys): Mon 3/23 (9:30pm), Tue 3/24 (3:30pm), Wed 3/25 (12:45pm)
+
+    * [Undertone](https://drafthouse.com/raleigh/show/undertone): Thu 3/19 (1:20pm, 4:55pm, 6:45pm, 9:25pm), Fri 3/20 (1:00pm, 4:00pm, 6:45pm, 9:30pm), Sat 3/21 (12:30pm, 4:00pm, 6:45pm, 9:30pm), Sun 3/22 (12:30pm, 4:00pm, 6:45pm, 9:30pm), Mon 3/23 (1:25pm, 4:20pm, 7:15pm, 10:00pm), Tue 3/24 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Wed 3/25 (1:15pm, 4:00pm, 6:45pm, 9:30pm)
+
+    * [Wuthering Heights 2026](https://drafthouse.com/raleigh/show/wuthering-heights-2026): Thu 3/19 (3:40pm), Fri 3/20 (3:45pm), Sat 3/21 (12:15pm), Sun 3/22 (3:45pm), Mon 3/23 (3:45pm), Tue 3/24 (12:00pm), Wed 3/25 (12:00pm)
+
 ### Mon 3/16 11:10am
 * New movies: Iron Maiden: Burning Ambition
 
