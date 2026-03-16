@@ -1,6 +1,66 @@
 # los-angeles
 
 ## Movie updates
+### Mon 3/16 1:41pm
+* New movies: One Battle After Another, Sinners
+
+* New screenings: 
+    * [Andre Is An Idiot](https://drafthouse.com/los-angeles/show/andre-is-an-idiot): Fri 3/20 (3:45pm), Sat 3/21 (3:45pm), Sun 3/22 (3:45pm), Mon 3/23 (4:00pm, 6:45pm), Tue 3/24 (4:00pm, 6:45pm), Wed 3/25 (4:00pm, 6:45pm)
+
+    * [Bushido](https://drafthouse.com/los-angeles/show/bushido): Thu 3/19 (2:45pm)
+
+    * [Dolly](https://drafthouse.com/los-angeles/show/dolly): Thu 3/19 (9:45pm)
+
+    * [Good Luck Have Fun Dont Die](https://drafthouse.com/los-angeles/show/good-luck-have-fun-dont-die): Thu 3/19 (6:15pm)
+
+    * [Greetings From Twin Peaks Twin Peaks The Return Parts 10 12](https://drafthouse.com/los-angeles/show/greetings-from-twin-peaks-twin-peaks-the-return-parts-10-12): Thu 3/19 (4:30pm)
+
+    * [Greetings From Twin Peaks Twin Peaks The Return Parts 13 15](https://drafthouse.com/los-angeles/show/greetings-from-twin-peaks-twin-peaks-the-return-parts-13-15): Mon 3/23 (3:00pm)
+
+    * [Hoppers](https://drafthouse.com/los-angeles/show/hoppers): Thu 3/19 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Fri 3/20 (12:45pm, 3:00pm, 3:45pm, 7:30pm, 10:30pm), Sat 3/21 (11:00am, 12:15pm, 3:45pm, 6:45pm, 9:45pm), Sun 3/22 (10:30am, 1:30pm, 4:30pm, 7:30pm), Mon 3/23 (11:00am, 1:50pm, 4:40pm, 6:45pm, 10:00pm), Tue 3/24 (11:00am, 1:50pm, 4:40pm, 6:45pm, 9:35pm), Wed 3/25 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm)
+
+    * [Movie Party Pride Prejudice 2005](https://drafthouse.com/los-angeles/show/movie-party-pride-prejudice-2005): Mon 4/13 (6:45pm)
+
+    * [Nirvanna The Band The Show The Movie](https://drafthouse.com/los-angeles/show/nirvanna-the-band-the-show-the-movie): Thu 3/19 (9:45pm), Fri 3/20 (9:30pm), Sat 3/21 (9:15pm), Mon 3/23 (9:30pm), Tue 3/24 (11:15pm), Wed 3/25 (10:30pm)
+
+    * [One Battle After Another](https://drafthouse.com/los-angeles/show/one-battle-after-another): Fri 3/20 (6:45pm), Sat 3/21 (3:15pm), Tue 3/24 (3:00pm)
+
+    * [Peaky Blinders The Immortal Man](https://drafthouse.com/los-angeles/show/peaky-blinders-the-immortal-man): Thu 3/19 (12:15pm)
+
+    * [Pillion](https://drafthouse.com/los-angeles/show/pillion): Thu 3/19 (11:45am)
+
+    * [Project Hail Mary](https://drafthouse.com/los-angeles/show/project-hail-mary): Thu 3/19 (3:00pm, 6:00pm, 6:45pm, 8:00pm, 8:45pm, 10:30pm), Fri 3/20 (11:00am, 2:45pm, 6:30pm, 9:30pm, 10:15pm), Sat 3/21 (12:00pm, 4:15pm, 6:00pm, 9:45pm), Sun 3/22 (10:30am, 2:15pm, 6:00pm), Mon 3/23 (11:00am, 11:15am, 3:00pm, 9:45pm, 10:15pm), Tue 3/24 (11:00am, 11:15am, 3:00pm, 7:30pm, 9:30pm, 10:15pm), Wed 3/25 (11:00am, 12:00pm, 3:45pm, 9:30pm, 10:15pm)
+
+    * [Queer Film Theory 101 Daisies](https://drafthouse.com/los-angeles/show/queer-film-theory-101-daisies): Fri 3/20 (12:15pm)
+
+    * [Ready Or Not 2 Here I Come](https://drafthouse.com/los-angeles/show/ready-or-not-2-here-i-come): Thu 3/19 (7:00pm, 10:00pm), Fri 3/20 (1:00pm, 10:00pm), Mon 3/23 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Tue 3/24 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Wed 3/25 (1:00pm, 4:00pm, 6:15pm, 9:30pm)
+
+    * [Reminders Of Him](https://drafthouse.com/los-angeles/show/reminders-of-him): Thu 3/19 (12:30pm, 3:35pm, 6:40pm, 9:45pm), Fri 3/20 (12:30pm, 3:35pm, 6:40pm, 9:45pm), Sat 3/21 (12:30pm, 3:35pm, 6:40pm, 9:45pm), Sun 3/22 (12:30pm, 3:35pm, 6:40pm), Mon 3/23 (12:30pm, 3:35pm, 6:40pm, 9:45pm), Tue 3/24 (12:30pm, 3:35pm, 6:40pm, 9:45pm), Wed 3/25 (12:30pm, 3:35pm, 6:40pm, 9:45pm)
+
+    * [Sad Girl Cinema Club Melancholia](https://drafthouse.com/los-angeles/show/sad-girl-cinema-club-melancholia): Tue 3/24 (11:30am)
+
+    * [Scream 7](https://drafthouse.com/los-angeles/show/scream-7): Thu 3/19 (1:00pm, 1:30pm)
+
+    * [Sinners](https://drafthouse.com/los-angeles/show/sinners): Fri 3/20 (10:45pm), Sat 3/21 (7:15pm), Tue 3/24 (4:00pm)
+
+    * [Sirat](https://drafthouse.com/los-angeles/show/sirat): Thu 3/19 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Fri 3/20 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sat 3/21 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sun 3/22 (12:15pm, 3:15pm, 6:15pm), Mon 3/23 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Tue 3/24 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Wed 3/25 (1:00pm, 4:00pm, 7:00pm, 10:00pm)
+
+    * [Slanted](https://drafthouse.com/los-angeles/show/slanted): Thu 3/19 (12:15pm, 3:15pm), Fri 3/20 (12:45pm), Sat 3/21 (12:45pm), Sun 3/22 (12:45pm), Mon 3/23 (1:00pm), Tue 3/24 (1:00pm), Wed 3/25 (1:00pm)
+
+    * [The Bride 2026](https://drafthouse.com/los-angeles/show/the-bride-2026): Fri 3/20 (11:45am, 3:00pm, 6:15pm, 9:30pm), Sat 3/21 (11:45am, 3:00pm, 6:15pm, 9:30pm), Sun 3/22 (11:30am, 2:45pm, 6:00pm), Mon 3/23 (11:45am, 3:00pm, 6:15pm, 9:30pm), Tue 3/24 (11:45am, 3:00pm, 6:15pm, 9:30pm), Wed 3/25 (11:45am, 3:00pm, 9:15pm)
+
+    * [The Lord Of The Rings The Return Of The King Extended Edition](https://drafthouse.com/los-angeles/show/the-lord-of-the-rings-the-return-of-the-king-extended-edition): Sun 3/22 (4:30pm), Wed 3/25 (1:45pm)
+
+    * [The Lord Of The Rings The Two Towers Extended Edition 2](https://drafthouse.com/los-angeles/show/the-lord-of-the-rings-the-two-towers-extended-edition-2): Thu 3/19 (12:15pm)
+
+    * [The Napa Boys](https://drafthouse.com/los-angeles/show/the-napa-boys): Thu 3/19 (5:15pm), Fri 3/20 (12:15pm), Sat 3/21 (10:45pm), Sun 3/22 (8:00pm), Mon 3/23 (10:15pm), Tue 3/24 (1:15pm), Wed 3/25 (10:30pm)
+
+    * [The Whitest Kids U Knows Mars](https://drafthouse.com/los-angeles/show/the-whitest-kids-u-knows-mars): Thu 3/19 (12:15pm)
+
+    * [Undertone](https://drafthouse.com/los-angeles/show/undertone): Thu 3/19 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Fri 3/20 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Sat 3/21 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Sun 3/22 (11:30am, 2:15pm, 5:00pm, 7:45pm), Mon 3/23 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Tue 3/24 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Wed 3/25 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm)
+
+    * [Wuthering Heights 2026](https://drafthouse.com/los-angeles/show/wuthering-heights-2026): Thu 3/19 (11:30am)
+
 ### Mon 3/16 11:00am
 * New movies: The Best of Betty Boop
 
