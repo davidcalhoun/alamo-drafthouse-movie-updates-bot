@@ -1,6 +1,22 @@
 # los-angeles
 
 ## Movie updates
+### Mon 3/16 8:03am
+* New movies: Miss Congeniality, The Big Lebowski, Pride & Prejudice 2005, Iron Maiden: Burning Ambition, Face/Off, Something Wild
+
+* New screenings: 
+    * [Face Off](https://drafthouse.com/los-angeles/show/face-off): Thu 4/23 (7:15pm)
+
+    * [Iron Maiden Burning Ambition](https://drafthouse.com/los-angeles/show/iron-maiden-burning-ambition): Thu 5/7 (7:20pm), Sat 5/9 (4:00pm)
+
+    * [Movie Party Miss Congeniality](https://drafthouse.com/los-angeles/show/movie-party-miss-congeniality): Sat 4/25 (11:50am, 3:00pm)
+
+    * [Movie Party Pride Prejudice 2005](https://drafthouse.com/los-angeles/show/movie-party-pride-prejudice-2005): Mon 4/13 (7:15pm)
+
+    * [Movie Party The Big Lebowski](https://drafthouse.com/los-angeles/show/movie-party-the-big-lebowski): Mon 4/20 (4:20pm, 7:35pm)
+
+    * [Something Wild](https://drafthouse.com/los-angeles/show/something-wild): Sat 4/11 (12:20pm)
+
 ### Sat 3/14 7:48pm
 * New movies: Mermaid 2026, The Killer - Hong Kong Cinema Classics
 
