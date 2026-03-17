@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 3/17 4:36pm
+
+* New screenings: 
+    * [Touch Me](https://drafthouse.com/los-angeles/show/touch-me): Fri 3/27 (1:10pm)
+
 ### Tue 3/17 3:37pm
 
 * New screenings: 
