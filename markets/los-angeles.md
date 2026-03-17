@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 3/17 3:37pm
+
+* New screenings: 
+    * [Terror Tuesday The Descent](https://drafthouse.com/los-angeles/show/terror-tuesday-the-descent): Tue 3/31 (10:00pm)
+
 ### Tue 3/17 6:20am
 * New movies: Alpha 2026
 
