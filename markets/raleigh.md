@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 3/16 10:49pm
+* New movies: Paying For It
+
+* New screenings: 
+    * [Paying For It](https://drafthouse.com/raleigh/show/paying-for-it): Mon 3/23 (12:15pm)
+
 ### Mon 3/16 4:51pm
 * New movies: One Battle After Another, Sinners
 
