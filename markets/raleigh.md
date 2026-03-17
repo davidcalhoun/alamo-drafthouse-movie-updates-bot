@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Tue 3/17 5:48pm
+* New movies: Tomorrow Never Dies
+
+* New screenings: 
+    * [Jeopardy Interactive](https://drafthouse.com/raleigh/show/jeopardy-interactive): Wed 4/29 (7:00pm)
+
+    * [Tomorrow Never Dies](https://drafthouse.com/raleigh/show/tomorrow-never-dies): Thu 4/30 (7:00pm)
+
 ### Tue 3/17 4:50pm
 * New movies: A/V Geeks Present: Wait...Is That?!, Miss Congeniality, Pride & Prejudice 2005, The Big Lebowski, The Killer - Hong Kong Cinema Classics, Celine and Julie Go Boating, Romancing in Thin Air, It Doesn't Get Any Better Than This, The Best of Betty Boop, City Wide Fever, City on Fire 1987, Face/Off, Ghost World, Police Story, The Master 2012, FUNNY GAMES 1997
 
