@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 3/17 6:20am
+* New movies: Alpha 2026
+
+* New screenings: 
+    * [Alpha 2026](https://drafthouse.com/los-angeles/show/alpha-2026): Thu 3/26 (7:00pm, 10:15pm), Fri 3/27 (3:15pm, 6:30pm), Sat 3/28 (3:15pm, 6:30pm), Sun 3/29 (3:15pm, 6:30pm)
+
 ### Mon 3/16 2:43pm
 * New movies: Celine and Julie Go Boating, Romancing in Thin Air, Evilspeak, It Doesn't Get Any Better Than This, City Wide Fever, City on Fire 1987, Ghost World, Police Story, The Master 2012, Tomorrow Never Dies, GINGER SNAPS
 
