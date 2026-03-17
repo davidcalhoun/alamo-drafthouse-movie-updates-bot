@@ -1,6 +1,44 @@
 # raleigh
 
 ## Movie updates
+### Tue 3/17 4:50pm
+* New movies: A/V Geeks Present: Wait...Is That?!, Miss Congeniality, Pride & Prejudice 2005, The Big Lebowski, The Killer - Hong Kong Cinema Classics, Celine and Julie Go Boating, Romancing in Thin Air, It Doesn't Get Any Better Than This, The Best of Betty Boop, City Wide Fever, City on Fire 1987, Face/Off, Ghost World, Police Story, The Master 2012, FUNNY GAMES 1997
+
+* New screenings: 
+    * [A V Geeks Present Wait Is That](https://drafthouse.com/raleigh/show/a-v-geeks-present-wait-is-that): Tue 4/14 (6:30pm)
+
+    * [City On Fire 1987](https://drafthouse.com/raleigh/show/city-on-fire-1987): Thu 4/9 (6:30pm)
+
+    * [Face Off](https://drafthouse.com/raleigh/show/face-off): Thu 4/23 (6:30pm)
+
+    * [Ghost World](https://drafthouse.com/raleigh/show/ghost-world): Fri 4/10 (9:45pm)
+
+    * [Movie Party Miss Congeniality](https://drafthouse.com/raleigh/show/movie-party-miss-congeniality): Sat 4/25 (3:00pm)
+
+    * [Movie Party Pride Prejudice 2005](https://drafthouse.com/raleigh/show/movie-party-pride-prejudice-2005): Mon 4/13 (7:00pm)
+
+    * [Movie Party The Big Lebowski](https://drafthouse.com/raleigh/show/movie-party-the-big-lebowski): Mon 4/20 (7:00pm)
+
+    * [Paying For It](https://drafthouse.com/raleigh/show/paying-for-it): Thu 3/26 (7:15pm)
+
+    * [Police Story](https://drafthouse.com/raleigh/show/police-story): Thu 4/16 (7:00pm)
+
+    * [Queer Film Theory 101 Celine And Julie Go Boating](https://drafthouse.com/raleigh/show/queer-film-theory-101-celine-and-julie-go-boating): Mon 4/27 (6:30pm)
+
+    * [Sad Girl Cinema Club Romancing In Thin Air](https://drafthouse.com/raleigh/show/sad-girl-cinema-club-romancing-in-thin-air): Sat 4/18 (4:00pm)
+
+    * [Terror Tuesday Funny Games 1997](https://drafthouse.com/raleigh/show/terror-tuesday-funny-games-1997): Tue 4/21 (9:30pm)
+
+    * [Terror Tuesday It Doesnt Get Any Better Than This](https://drafthouse.com/raleigh/show/terror-tuesday-it-doesnt-get-any-better-than-this): Tue 4/14 (9:15pm)
+
+    * [The Best Of Betty Boop](https://drafthouse.com/raleigh/show/the-best-of-betty-boop): Mon 4/6 (7:00pm)
+
+    * [The Killer Hong Kong Cinema Classics](https://drafthouse.com/raleigh/show/the-killer-hong-kong-cinema-classics): Sun 4/5 (4:00pm), Mon 4/6 (6:30pm), Tue 4/7 (6:30pm)
+
+    * [The Master 2012](https://drafthouse.com/raleigh/show/the-master-2012): Sat 4/18 (12:30pm)
+
+    * [Weird Wednesday City Wide Fever](https://drafthouse.com/raleigh/show/weird-wednesday-city-wide-fever): Wed 4/15 (7:30pm)
+
 ### Tue 3/17 3:15pm
 * New movies: The Drama
 
