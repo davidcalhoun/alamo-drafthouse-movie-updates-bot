@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 3/17 9:44am
+* New movies: You, Me & Tuscany
+
+* New screenings: 
+    * [You Me Tuscany](https://drafthouse.com/raleigh/show/you-me-tuscany): Thu 4/9 (7:15pm), Fri 4/10 (7:15pm), Sat 4/11 (7:15pm), Sun 4/12 (7:15pm)
+
 ### Mon 3/16 10:49pm
 * New movies: Paying For It
 
