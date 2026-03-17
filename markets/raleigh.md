@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 3/17 3:15pm
+* New movies: The Drama
+
+* New screenings: 
+    * [The Drama](https://drafthouse.com/raleigh/show/the-drama): Thu 4/2 (7:15pm), Fri 4/3 (6:15pm), Sat 4/4 (6:15pm), Sun 4/5 (6:15pm)
+
 ### Tue 3/17 9:44am
 * New movies: You, Me & Tuscany
 
