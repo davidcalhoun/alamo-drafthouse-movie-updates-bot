@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 3/18 9:46am
+* New movies: COOL AS ICE
+
+* New screenings: 
+    * [Weird Wednesday Cool As Ice](https://drafthouse.com/raleigh/show/weird-wednesday-cool-as-ice): Wed 4/22 (9:30pm)
+
 ### Tue 3/17 5:48pm
 * New movies: Tomorrow Never Dies
 
