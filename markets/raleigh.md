@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 3/18 11:15am
+* New movies: Power to the People: John & Yoko Live in NYC
+
+* New screenings: 
+    * [Power To The People John Yoko Live In Nyc](https://drafthouse.com/raleigh/show/power-to-the-people-john-yoko-live-in-nyc): Wed 4/29 (7:30pm), Sun 5/3 (1:00pm)
+
 ### Wed 3/18 9:46am
 * New movies: COOL AS ICE
 
