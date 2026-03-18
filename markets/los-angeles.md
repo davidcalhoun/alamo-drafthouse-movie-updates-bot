@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 3/18 8:06am
+* New movies: Power to the People: John & Yoko Live in NYC
+
+* New screenings: 
+    * [Power To The People John Yoko Live In Nyc](https://drafthouse.com/los-angeles/show/power-to-the-people-john-yoko-live-in-nyc): Wed 4/29 (7:15pm), Sun 5/3 (12:30pm)
+
 ### Wed 3/18 2:59am
 
 * New screenings: 
