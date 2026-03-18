@@ -1,6 +1,15 @@
 # los-angeles
 
 ## Movie updates
+### Wed 3/18 2:59am
+
+* New screenings: 
+    * [Greetings From Twin Peaks Twin Peaks The Return Parts 16 18](https://drafthouse.com/los-angeles/show/greetings-from-twin-peaks-twin-peaks-the-return-parts-16-18): Fri 3/27 (2:30pm), Sun 3/29 (11:15am), Tue 3/31 (5:45pm)
+
+    * [Stand By Me 1986](https://drafthouse.com/los-angeles/show/stand-by-me-1986): Fri 3/27 (11:45am), Tue 3/31 (10:20pm)
+
+    * [The Mummy Returns 25th Anniversary](https://drafthouse.com/los-angeles/show/the-mummy-returns-25th-anniversary): Sat 3/28 (9:45pm), Sun 3/29 (3:25pm)
+
 ### Tue 3/17 4:36pm
 
 * New screenings: 
