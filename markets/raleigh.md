@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 3/18 4:50pm
+* New movies: Mind Game
+
+* New screenings: 
+    * [Weird Wednesday Mind Game](https://drafthouse.com/raleigh/show/weird-wednesday-mind-game): Wed 4/8 (9:30pm)
+
 ### Wed 3/18 11:15am
 * New movies: Power to the People: John & Yoko Live in NYC
 
