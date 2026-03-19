@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 3/19 12:49pm
+* New movies: The Drama
+
+* New screenings: 
+    * [The Drama](https://drafthouse.com/los-angeles/show/the-drama): Thu 4/2 (4:00pm, 7:00pm), Fri 4/3 (4:45pm, 7:45pm), Sat 4/4 (4:45pm, 7:45pm), Sun 4/5 (4:45pm, 7:45pm)
+
 ### Wed 3/18 8:06am
 * New movies: Power to the People: John & Yoko Live in NYC
 
