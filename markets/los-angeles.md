@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 3/19 4:33pm
+* New movies: Mermaid 2026
+
+* New screenings: 
+    * [Advance Screening Mermaid 2026 Sneak Preview](https://drafthouse.com/los-angeles/show/advance-screening-mermaid-2026-sneak-preview): Wed 4/8 (10:15pm)
+
 ### Thu 3/19 12:49pm
 * New movies: The Drama
 
