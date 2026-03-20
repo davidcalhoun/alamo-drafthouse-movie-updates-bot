@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 3/19 10:48pm
+* New movies: The Serpent's Skin
+
+* New screenings: 
+    * [The Serpents Skin](https://drafthouse.com/raleigh/show/the-serpents-skin): Sat 4/11 (9:45pm)
+
 ### Thu 3/19 4:50pm
 * New movies: The Drama
 
