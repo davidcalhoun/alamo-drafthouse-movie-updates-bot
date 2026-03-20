@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Fri 3/20 12:56pm
+* New movies: Girl Internet Show: A Kati Kelli Mixtape
+
+* New screenings: 
+    * [Family Party The Super Mario Galaxy Movie](https://drafthouse.com/raleigh/show/family-party-the-super-mario-galaxy-movie): Sat 4/11 (11:00am)
+
+    * [Girl Internet Show A Kati Kelli Mixtape](https://drafthouse.com/raleigh/show/girl-internet-show-a-kati-kelli-mixtape): Sat 4/25 (9:45pm)
+
 ### Fri 3/20 11:52am
 * New movies: Boys Go to Jupiter, $positions, Reveries: The Mind Prison, F**k My Son! + Dance Freak
 
