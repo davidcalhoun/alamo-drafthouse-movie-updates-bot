@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 3/19 7:30pm
+* New movies: The Serpent's Skin
+
+* New screenings: 
+    * [The Serpents Skin](https://drafthouse.com/los-angeles/show/the-serpents-skin): Fri 4/3 (9:45pm), Sat 4/4 (5:15pm), Sun 4/5 (4:45pm), Mon 4/6 (8:00pm), Tue 4/7 (10:10pm), Wed 4/8 (4:20pm), Sat 4/11 (9:45pm)
+
 ### Thu 3/19 4:33pm
 * New movies: Mermaid 2026
 
