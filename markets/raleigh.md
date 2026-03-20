@@ -1,6 +1,18 @@
 # raleigh
 
 ## Movie updates
+### Fri 3/20 11:52am
+* New movies: Boys Go to Jupiter, $positions, Reveries: The Mind Prison, F**k My Son! + Dance Freak
+
+* New screenings: 
+    * [Boys Go To Jupiter](https://drafthouse.com/raleigh/show/boys-go-to-jupiter): Tue 4/28 (7:15pm)
+
+    * [Positions](https://drafthouse.com/raleigh/show/positions): Wed 4/22 (7:15pm)
+
+    * [Reveries The Mind Prison](https://drafthouse.com/raleigh/show/reveries-the-mind-prison): Fri 4/24 (9:45pm)
+
+    * [Special Event F K My Son Dance Freak Double Feature](https://drafthouse.com/raleigh/show/special-event-f-k-my-son-dance-freak-double-feature): Tue 4/21 (7:00pm)
+
 ### Thu 3/19 10:48pm
 * New movies: The Serpent's Skin
 
