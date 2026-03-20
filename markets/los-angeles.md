@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 3/20 9:50am
+* New movies: Girl Internet Show: A Kati Kelli Mixtape
+
+* New screenings: 
+    * [Girl Internet Show A Kati Kelli Mixtape](https://drafthouse.com/los-angeles/show/girl-internet-show-a-kati-kelli-mixtape): Sat 4/25 (9:45pm)
+
 ### Fri 3/20 8:48am
 * New movies: $positions, Boys Go to Jupiter, Reveries: The Mind Prison, F**k My Son! + Dance Freak
 
