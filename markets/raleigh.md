@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 3/20 7:37pm
+* New movies: Hush 2016
+
+* New screenings: 
+    * [Terror Tuesday Hush 2016 The Shush Cut](https://drafthouse.com/raleigh/show/terror-tuesday-hush-2016-the-shush-cut): Tue 4/7 (9:30pm)
+
 ### Fri 3/20 12:56pm
 * New movies: Girl Internet Show: A Kati Kelli Mixtape
 
