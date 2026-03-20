@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Fri 3/20 8:48am
+* New movies: $positions, Boys Go to Jupiter, Reveries: The Mind Prison, F**k My Son! + Dance Freak
+
+* New screenings: 
+    * [Boys Go To Jupiter](https://drafthouse.com/los-angeles/show/boys-go-to-jupiter): Tue 4/28 (7:00pm)
+
+    * [Positions](https://drafthouse.com/los-angeles/show/positions): Fri 4/3 (10:30pm), Sat 4/4 (10:00pm), Sun 4/5 (7:20pm), Mon 4/6 (9:45pm), Tue 4/7 (10:15pm), Wed 4/8 (1:30pm), Thu 4/9 (4:30pm), Fri 4/10 (7:00pm), Sat 4/11 (10:00pm), Mon 4/13 (3:45pm), Tue 4/14 (3:45pm), Wed 4/15 (3:45pm), Thu 4/16 (3:45pm), Wed 4/22 (7:00pm)
+
+    * [Reveries The Mind Prison](https://drafthouse.com/los-angeles/show/reveries-the-mind-prison): Fri 4/24 (9:45pm)
+
+    * [Special Event F K My Son Dance Freak Double Feature](https://drafthouse.com/los-angeles/show/special-event-f-k-my-son-dance-freak-double-feature): Tue 4/21 (7:20pm)
+
 ### Thu 3/19 7:30pm
 * New movies: The Serpent's Skin
 
