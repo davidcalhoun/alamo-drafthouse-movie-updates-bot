@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 3/20 10:42pm
+* New movies: Castration Movie Anthology i. traps
+
+* New screenings: 
+    * [Castration Movie Anthology I Traps](https://drafthouse.com/raleigh/show/castration-movie-anthology-i-traps): Tue 4/7 (6:00pm)
+
 ### Fri 3/20 7:37pm
 * New movies: Hush 2016
 
