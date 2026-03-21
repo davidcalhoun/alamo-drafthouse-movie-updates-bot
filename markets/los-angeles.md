@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Fri 3/20 7:24pm
+* New movies: High Plains Drifter, The Getaway 1972, Castration Movie Anthology i. traps
+
+* New screenings: 
+    * [Castration Movie Anthology I Traps](https://drafthouse.com/los-angeles/show/castration-movie-anthology-i-traps): Tue 4/7 (6:15pm)
+
+    * [Guest Selects High Plains Drifter](https://drafthouse.com/los-angeles/show/guest-selects-high-plains-drifter): Tue 4/14 (7:00pm)
+
+    * [Guest Selects The Getaway 1972](https://drafthouse.com/los-angeles/show/guest-selects-the-getaway-1972): Sun 4/12 (4:00pm)
+
 ### Fri 3/20 9:50am
 * New movies: Girl Internet Show: A Kati Kelli Mixtape
 
