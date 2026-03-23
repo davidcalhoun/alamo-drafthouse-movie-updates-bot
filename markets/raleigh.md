@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Sun 3/22 11:17pm
+* New movies: The Driller Killer, The Coca-Cola Kid, Riverbend
+
+* New screenings: 
+    * [Terror Tuesday The Driller Killer](https://drafthouse.com/raleigh/show/terror-tuesday-the-driller-killer): Tue 4/28 (9:30pm)
+
+    * [Weird Wednesday Riverbend](https://drafthouse.com/raleigh/show/weird-wednesday-riverbend): Wed 4/29 (9:30pm)
+
+    * [Weird Wednesday The Coca Cola Kid](https://drafthouse.com/raleigh/show/weird-wednesday-the-coca-cola-kid): Wed 4/1 (9:30pm)
+
 ### Fri 3/20 10:42pm
 * New movies: Castration Movie Anthology i. traps
 
