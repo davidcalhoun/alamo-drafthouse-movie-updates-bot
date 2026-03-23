@@ -1,6 +1,51 @@
 # los-angeles
 
 ## Movie updates
+### Mon 3/23 2:40pm
+
+* New screenings: 
+    * [Alpha 2026](https://drafthouse.com/los-angeles/show/alpha-2026): Fri 3/27 (12:00pm, 9:45pm), Sat 3/28 (12:00pm, 9:45pm), Sun 3/29 (12:00pm), Mon 3/30 (12:15pm, 3:30pm, 6:45pm, 10:00pm)
+
+    * [Andre Is An Idiot](https://drafthouse.com/los-angeles/show/andre-is-an-idiot): Thu 3/26 (4:00pm, 6:45pm), Fri 3/27 (10:45pm), Sat 3/28 (4:40pm), Sun 3/29 (2:30pm), Mon 3/30 (2:45pm)
+
+    * [Forbidden Fruits](https://drafthouse.com/los-angeles/show/forbidden-fruits): Thu 3/26 (6:00pm, 9:00pm), Fri 3/27 (4:00pm), Sat 3/28 (4:00pm), Mon 3/30 (4:00pm, 7:00pm, 10:00pm)
+
+    * [Greetings From Twin Peaks Twin Peaks The Return Parts 13 15](https://drafthouse.com/los-angeles/show/greetings-from-twin-peaks-twin-peaks-the-return-parts-13-15): Thu 3/26 (12:10pm)
+
+    * [Greetings From Twin Peaks Twin Peaks The Return Parts 16 18](https://drafthouse.com/los-angeles/show/greetings-from-twin-peaks-twin-peaks-the-return-parts-16-18): Sat 3/28 (12:30pm), Mon 3/30 (11:00am, 5:30pm)
+
+    * [Hoppers](https://drafthouse.com/los-angeles/show/hoppers): Thu 3/26 (11:30am, 12:30pm, 3:30pm, 6:30pm, 9:30pm), Fri 3/27 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Sat 3/28 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Sun 3/29 (12:45pm, 3:45pm, 6:45pm), Mon 3/30 (12:45pm, 3:45pm, 6:45pm, 9:45pm)
+
+    * [Marc By Sofia](https://drafthouse.com/los-angeles/show/marc-by-sofia): Thu 3/26 (4:30pm, 7:15pm, 10:00pm)
+
+    * [Nirvanna The Band The Show The Movie](https://drafthouse.com/los-angeles/show/nirvanna-the-band-the-show-the-movie): Thu 3/26 (10:30pm)
+
+    * [Project Hail Mary](https://drafthouse.com/los-angeles/show/project-hail-mary): Thu 3/26 (11:00am, 1:15pm, 2:45pm, 3:15pm, 6:30pm, 7:00pm, 9:30pm, 10:15pm), Fri 3/27 (11:00am, 11:30am, 2:45pm, 3:15pm, 6:30pm, 7:00pm, 9:30pm, 10:15pm), Sat 3/28 (11:00am, 11:15am, 2:45pm, 3:00pm, 6:45pm, 7:15pm, 10:00pm, 10:30pm), Sun 3/29 (11:30am, 12:00pm, 3:15pm, 3:45pm, 5:10pm, 6:45pm, 7:00pm, 7:30pm), Mon 3/30 (11:00am, 12:15pm, 2:45pm, 3:15pm, 6:30pm, 7:00pm, 9:45pm, 10:15pm)
+
+    * [Queer Film Theory 101 Daisies](https://drafthouse.com/los-angeles/show/queer-film-theory-101-daisies): Thu 3/26 (4:25pm)
+
+    * [Ready Or Not 2 Here I Come](https://drafthouse.com/los-angeles/show/ready-or-not-2-here-i-come): Thu 3/26 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Fri 3/27 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sat 3/28 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sun 3/29 (1:00pm, 4:00pm, 7:00pm), Mon 3/30 (1:15pm, 4:15pm, 7:15pm, 10:15pm)
+
+    * [Reminders Of Him](https://drafthouse.com/los-angeles/show/reminders-of-him): Thu 3/26 (12:45pm)
+
+    * [Sad Girl Cinema Club Melancholia](https://drafthouse.com/los-angeles/show/sad-girl-cinema-club-melancholia): Thu 3/26 (2:30pm)
+
+    * [Sirat](https://drafthouse.com/los-angeles/show/sirat): Thu 3/26 (1:15pm), Fri 3/27 (1:00pm), Sat 3/28 (1:00pm), Sun 3/29 (1:00pm), Mon 3/30 (1:00pm)
+
+    * [Slanted](https://drafthouse.com/los-angeles/show/slanted): Thu 3/26 (12:15pm)
+
+    * [The Ai Doc Or How I Became An Apocaloptimist](https://drafthouse.com/los-angeles/show/the-ai-doc-or-how-i-became-an-apocaloptimist): Thu 3/26 (9:15pm), Fri 3/27 (12:00pm, 9:00pm), Sat 3/28 (12:00pm, 9:00pm), Sun 3/29 (12:00pm), Mon 3/30 (12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
+    * [The Bride 2026](https://drafthouse.com/los-angeles/show/the-bride-2026): Thu 3/26 (12:00pm)
+
+    * [The Lord Of The Rings The Return Of The King Extended Edition](https://drafthouse.com/los-angeles/show/the-lord-of-the-rings-the-return-of-the-king-extended-edition): Thu 3/26 (1:30pm)
+
+    * [The Napa Boys](https://drafthouse.com/los-angeles/show/the-napa-boys): Thu 3/26 (10:45pm), Sat 3/28 (11:00pm), Sun 3/29 (11:45am), Mon 3/30 (10:45pm)
+
+    * [They Will Kill You](https://drafthouse.com/los-angeles/show/they-will-kill-you): Fri 3/27 (11:30am, 2:15pm), Sat 3/28 (11:30am, 2:15pm), Sun 3/29 (11:30am, 2:15pm), Mon 3/30 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm)
+
+    * [Undertone](https://drafthouse.com/los-angeles/show/undertone): Thu 3/26 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Fri 3/27 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sat 3/28 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sun 3/29 (11:30am, 2:15pm, 5:00pm, 7:45pm), Mon 3/30 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm)
+
 ### Fri 3/20 7:24pm
 * New movies: High Plains Drifter, The Getaway 1972, Castration Movie Anthology i. traps
 
