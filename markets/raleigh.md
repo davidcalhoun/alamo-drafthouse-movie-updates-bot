@@ -1,6 +1,34 @@
 # raleigh
 
 ## Movie updates
+### Mon 3/23 6:44pm
+* New movies: Alpha 2026
+
+* New screenings: 
+    * [Alpha 2026](https://drafthouse.com/raleigh/show/alpha-2026): Thu 3/26 (7:00pm, 10:15pm), Fri 3/27 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Sat 3/28 (11:50am, 3:45pm, 7:00pm, 10:25pm), Sun 3/29 (11:20am, 2:35pm, 6:00pm, 9:25pm), Mon 3/30 (12:00pm, 3:20pm, 6:45pm, 9:05pm)
+
+    * [Andre Is An Idiot](https://drafthouse.com/raleigh/show/andre-is-an-idiot): Thu 3/26 (7:20pm), Sat 3/28 (7:30pm), Sun 3/29 (6:30pm), Mon 3/30 (6:45pm)
+
+    * [Forbidden Fruits](https://drafthouse.com/raleigh/show/forbidden-fruits): Thu 3/26 (6:15pm), Fri 3/27 (7:15pm), Sat 3/28 (6:00pm), Sun 3/29 (7:00pm), Mon 3/30 (6:20pm, 9:20pm)
+
+    * [Hoppers](https://drafthouse.com/raleigh/show/hoppers): Thu 3/26 (4:00pm, 6:15pm, 9:15pm), Fri 3/27 (12:15pm, 3:05pm, 6:00pm, 10:00pm), Sat 3/28 (12:10pm, 3:05pm, 6:00pm, 9:45pm), Sun 3/29 (12:15pm, 3:10pm, 6:15pm), Mon 3/30 (12:10pm, 3:00pm, 6:15pm)
+
+    * [Project Hail Mary](https://drafthouse.com/raleigh/show/project-hail-mary): Thu 3/26 (2:15pm, 2:35pm, 3:20pm, 3:35pm, 4:20pm, 6:00pm, 8:00pm, 9:00pm, 9:40pm), Fri 3/27 (11:30am, 12:10pm, 12:55pm, 2:45pm, 3:50pm, 4:35pm, 7:00pm, 8:15pm, 9:00pm, 10:15pm), Sat 3/28 (11:00am, 11:40am, 12:25pm, 2:40pm, 3:35pm, 4:05pm, 6:30pm, 8:00pm, 9:00pm, 9:50pm), Sun 3/29 (12:00pm, 2:35pm, 3:15pm, 3:45pm, 6:00pm, 7:30pm, 9:15pm, 9:45pm), Mon 3/30 (12:40pm, 2:20pm, 2:40pm, 4:20pm, 6:00pm, 8:00pm, 9:40pm)
+
+    * [Ready Or Not 2 Here I Come](https://drafthouse.com/raleigh/show/ready-or-not-2-here-i-come): Thu 3/26 (3:15pm, 6:30pm, 9:25pm), Fri 3/27 (1:40pm, 4:50pm, 7:45pm, 10:45pm), Sat 3/28 (12:40pm, 3:20pm, 6:15pm, 9:10pm), Sun 3/29 (1:10pm, 4:20pm, 7:15pm, 10:15pm), Mon 3/30 (1:15pm, 4:20pm, 7:15pm, 10:10pm)
+
+    * [Reminders Of Him](https://drafthouse.com/raleigh/show/reminders-of-him): Thu 3/26 (3:00pm, 6:00pm, 9:45pm), Fri 3/27 (12:45pm, 3:45pm, 6:45pm, 10:40pm), Sat 3/28 (12:25pm, 3:35pm, 6:45pm), Sun 3/29 (12:30pm, 3:50pm, 7:00pm, 10:00pm), Mon 3/30 (12:30pm, 3:45pm, 7:00pm, 10:00pm)
+
+    * [Scream 7](https://drafthouse.com/raleigh/show/scream-7): Thu 3/26 (10:00pm), Fri 3/27 (9:00pm), Sat 3/28 (10:15pm), Sun 3/29 (9:15pm), Mon 3/30 (9:00pm)
+
+    * [The Ai Doc Or How I Became An Apocaloptimist](https://drafthouse.com/raleigh/show/the-ai-doc-or-how-i-became-an-apocaloptimist): Thu 3/26 (3:50pm, 9:35pm), Fri 3/27 (1:10pm, 3:15pm, 9:35pm), Sat 3/28 (12:45pm, 3:45pm, 9:35pm), Sun 3/29 (12:50pm, 3:45pm, 9:30pm), Mon 3/30 (12:20pm, 3:10pm, 6:10pm, 9:30pm)
+
+    * [The Napa Boys](https://drafthouse.com/raleigh/show/the-napa-boys): Mon 3/30 (12:40pm, 10:15pm)
+
+    * [They Will Kill You](https://drafthouse.com/raleigh/show/they-will-kill-you): Thu 3/26 (3:45pm), Fri 3/27 (1:00pm, 4:00pm), Sat 3/28 (11:30am, 2:20pm, 5:10pm), Sun 3/29 (11:45am, 12:45pm, 3:30pm), Mon 3/30 (2:10pm, 4:55pm, 7:40pm, 10:25pm)
+
+    * [Undertone](https://drafthouse.com/raleigh/show/undertone): Thu 3/26 (2:00pm, 4:40pm), Fri 3/27 (12:35pm, 4:25pm), Sat 3/28 (1:10pm, 3:20pm), Sun 3/29 (12:25pm), Mon 3/30 (1:25pm, 4:05pm)
+
 ### Sun 3/22 11:17pm
 * New movies: The Driller Killer, The Coca-Cola Kid, Riverbend
 
