@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 3/24 9:10am
+* New movies: Faces of Death 2026, Faces of Death 2026
+
+* New screenings: 
+    * [Advance Screening Faces Of Death 2026 Early Access](https://drafthouse.com/los-angeles/show/advance-screening-faces-of-death-2026-early-access): Wed 4/8 (8:00pm)
+
+    * [Faces Of Death 2026](https://drafthouse.com/los-angeles/show/faces-of-death-2026): Thu 4/9 (8:00pm, 10:45pm), Fri 4/10 (8:00pm, 10:45pm), Sat 4/11 (8:00pm, 10:45pm), Sun 4/12 (8:00pm, 10:45pm), Mon 4/13 (8:00pm, 10:45pm), Tue 4/14 (8:00pm, 10:45pm), Wed 4/15 (8:00pm, 10:45pm)
+
 ### Mon 3/23 9:57pm
 * New movies: Freddy's Dead: The Final Nightmare, Green Room, Nightcrawler, Communion
 
