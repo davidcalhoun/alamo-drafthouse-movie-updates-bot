@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 3/24 10:57am
+* New movies: TETSUO: THE IRON MAN
+
+* New screenings: 
+    * [Terror Tuesday Tetsuo The Iron Man](https://drafthouse.com/los-angeles/show/terror-tuesday-tetsuo-the-iron-man): Tue 4/7 (7:45pm)
+
 ### Tue 3/24 9:10am
 * New movies: Faces of Death 2026, Faces of Death 2026
 
