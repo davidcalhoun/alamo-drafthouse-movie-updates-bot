@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Tue 3/24 11:11am
+
+* New screenings: 
+    * [Hoppers](https://drafthouse.com/raleigh/show/hoppers): Wed 3/25 (9:15pm)
+
+    * [Scream 7](https://drafthouse.com/raleigh/show/scream-7): Wed 3/25 (10:00pm)
+
 ### Mon 3/23 6:44pm
 * New movies: Alpha 2026
 
