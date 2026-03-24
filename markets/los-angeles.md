@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Mon 3/23 9:57pm
+* New movies: Freddy's Dead: The Final Nightmare, Green Room, Nightcrawler, Communion
+
+* New screenings: 
+    * [Weird Wednesday Communion](https://drafthouse.com/los-angeles/show/weird-wednesday-communion): Wed 4/22 (7:30pm)
+
+    * [Weird Wednesday Freddys Dead The Final Nightmare](https://drafthouse.com/los-angeles/show/weird-wednesday-freddys-dead-the-final-nightmare): Wed 4/8 (7:45pm)
+
+    * [Weird Wednesday Green Room](https://drafthouse.com/los-angeles/show/weird-wednesday-green-room): Wed 4/29 (7:45pm)
+
+    * [Weird Wednesday Nightcrawler](https://drafthouse.com/los-angeles/show/weird-wednesday-nightcrawler): Wed 4/1 (7:30pm)
+
 ### Mon 3/23 2:40pm
 
 * New screenings: 
