@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Wed 3/25 11:12am
+* New movies: High Plains Drifter
+
+* New screenings: 
+    * [Guest Selects High Plains Drifter](https://drafthouse.com/raleigh/show/guest-selects-high-plains-drifter): Tue 4/14 (6:45pm)
+
+    * [Terror Of Mechagodzilla](https://drafthouse.com/raleigh/show/terror-of-mechagodzilla): Sat 4/25 (12:00pm)
+
 ### Wed 3/25 9:42am
 * New movies: The Getaway 1972, Faces of Death 2026
 
