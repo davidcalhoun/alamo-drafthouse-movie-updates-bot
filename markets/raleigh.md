@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Wed 3/25 9:42am
+* New movies: The Getaway 1972, Faces of Death 2026
+
+* New screenings: 
+    * [Advance Screening Faces Of Death 2026 Early Access](https://drafthouse.com/raleigh/show/advance-screening-faces-of-death-2026-early-access): Wed 4/8 (6:45pm)
+
+    * [Andre Is An Idiot](https://drafthouse.com/raleigh/show/andre-is-an-idiot): Tue 3/31 (6:45pm), Wed 4/1 (6:15pm), Thu 4/2 (6:15pm)
+
+    * [Guest Selects The Getaway 1972](https://drafthouse.com/raleigh/show/guest-selects-the-getaway-1972): Sun 4/12 (4:00pm)
+
 ### Tue 3/24 11:11am
 
 * New screenings: 
