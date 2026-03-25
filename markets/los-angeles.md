@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 3/25 6:20am
+* New movies: Outcome
+
+* New screenings: 
+    * [Outcome](https://drafthouse.com/los-angeles/show/outcome): Fri 4/10 (5:20pm, 7:40pm, 10:00pm), Sat 4/11 (6:00pm, 8:20pm, 10:40pm), Sun 4/12 (5:20pm, 7:40pm, 10:00pm), Mon 4/13 (5:20pm, 7:40pm, 10:00pm), Tue 4/14 (5:20pm, 7:40pm, 10:00pm), Wed 4/15 (5:20pm, 7:40pm, 10:00pm), Thu 4/16 (5:20pm, 7:40pm, 10:00pm)
+
 ### Tue 3/24 10:57am
 * New movies: TETSUO: THE IRON MAN
 
