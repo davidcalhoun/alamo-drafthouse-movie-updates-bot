@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 3/25 10:09pm
+* New movies: Michael 2026
+
+* New screenings: 
+    * [Michael 2026](https://drafthouse.com/los-angeles/show/michael-2026): Thu 4/23 (12:00pm, 3:20pm, 6:40pm, 10:00pm), Fri 4/24 (12:00pm, 3:20pm, 6:40pm, 10:00pm), Sat 4/25 (11:20am, 2:40pm, 7:15pm, 10:00pm), Sun 4/26 (12:00pm, 3:20pm, 6:40pm), Mon 4/27 (12:00pm, 3:20pm, 6:40pm, 10:00pm), Tue 4/28 (12:00pm, 3:20pm, 6:40pm, 10:00pm), Wed 4/29 (11:50am, 3:10pm, 6:45pm, 10:00pm)
+
 ### Wed 3/25 6:20am
 * New movies: Outcome
 
