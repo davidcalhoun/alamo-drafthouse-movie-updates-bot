@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 3/26 1:44am
+* New movies: Michael 2026
+
+* New screenings: 
+    * [Michael 2026](https://drafthouse.com/raleigh/show/michael-2026): Thu 4/23 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Fri 4/24 (11:30am, 2:45pm, 6:00pm, 9:15pm), Sat 4/25 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Sun 4/26 (12:30pm, 3:45pm, 7:00pm, 10:15pm)
+
 ### Wed 3/25 11:12am
 * New movies: High Plains Drifter
 
