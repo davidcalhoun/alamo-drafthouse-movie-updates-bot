@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 3/27 6:15am
+* New movies: Bridesmaids: 15th Anniversary, Bridesmaids: 15th Anniversary
+
+* New screenings: 
+    * [Bridesmaids 15th Anniversary](https://drafthouse.com/los-angeles/show/bridesmaids-15th-anniversary): Sun 4/19 (12:15pm), Wed 4/22 (4:15pm, 7:15pm)
+
+    * [Live Q A Bridesmaids 15th Anniversary](https://drafthouse.com/los-angeles/show/live-q-a-bridesmaids-15th-anniversary): Sun 4/19 (4:00pm)
+
 ### Wed 3/25 10:09pm
 * New movies: Michael 2026
 
