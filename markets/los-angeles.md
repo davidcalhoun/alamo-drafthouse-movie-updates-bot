@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 3/27 7:54am
+* New movies: Jerry Maguire
+
+* New screenings: 
+    * [Special Event Jerry Maguire 30th Anniversary](https://drafthouse.com/los-angeles/show/special-event-jerry-maguire-30th-anniversary): Sun 4/12 (3:30pm), Tue 4/14 (4:00pm), Wed 4/15 (7:15pm)
+
 ### Fri 3/27 6:15am
 * New movies: Bridesmaids: 15th Anniversary, Bridesmaids: 15th Anniversary
 
