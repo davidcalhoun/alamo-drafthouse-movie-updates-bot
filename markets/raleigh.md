@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 3/27 11:01am
+* New movies: Jerry Maguire
+
+* New screenings: 
+    * [Special Event Jerry Maguire 30th Anniversary](https://drafthouse.com/raleigh/show/special-event-jerry-maguire-30th-anniversary): Sun 4/12 (4:15pm), Tue 4/14 (4:00pm), Wed 4/15 (6:45pm)
+
 ### Thu 3/26 1:44am
 * New movies: Michael 2026
 
