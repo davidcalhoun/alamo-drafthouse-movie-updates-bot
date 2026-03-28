@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Sat 3/28 11:39am
+* New movies: Bridesmaids: 15th Anniversary, Bridesmaids: 15th Anniversary
+
+* New screenings: 
+    * [Bridesmaids 15th Anniversary](https://drafthouse.com/raleigh/show/bridesmaids-15th-anniversary): Sun 4/19 (3:30pm), Wed 4/22 (4:00pm, 7:30pm)
+
+    * [Movie Party Bridesmaids 15th Anniversary](https://drafthouse.com/raleigh/show/movie-party-bridesmaids-15th-anniversary): Sun 4/19 (12:00pm)
+
 ### Fri 3/27 11:01am
 * New movies: Jerry Maguire
 
