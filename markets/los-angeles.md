@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 3/30 10:55am
+* New movies: The School Duel
+
+* New screenings: 
+    * [The School Duel](https://drafthouse.com/los-angeles/show/the-school-duel): Fri 5/1 (10:00pm), Sat 5/2 (10:00pm), Sun 5/3 (3:30pm), Mon 5/4 (3:30pm), Tue 5/5 (3:30pm), Wed 5/6 (7:30pm), Thu 5/7 (4:40pm)
+
 ### Fri 3/27 7:54am
 * New movies: Jerry Maguire
 
