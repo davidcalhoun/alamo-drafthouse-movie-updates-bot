@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 3/31 8:05am
+* New movies: Exit 8, The Pitt
+
+* New screenings: 
+    * [Exit 8](https://drafthouse.com/los-angeles/show/exit-8): Thu 4/9 (7:00pm, 9:45pm), Fri 4/10 (4:30pm, 7:15pm), Sat 4/11 (4:30pm, 7:15pm), Sun 4/12 (4:30pm, 7:15pm)
+
+    * [Free Victory Screening The Pitt](https://drafthouse.com/los-angeles/show/free-victory-screening-the-pitt): Mon 4/13 (7:00pm)
+
 ### Mon 3/30 7:45pm
 
 * New screenings: 
