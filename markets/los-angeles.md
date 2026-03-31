@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 3/31 10:57am
+* New movies: Hamlet 2026
+
+* New screenings: 
+    * [Hamlet 2026](https://drafthouse.com/los-angeles/show/hamlet-2026): Thu 4/9 (6:30pm), Fri 4/10 (6:15pm), Sat 4/11 (6:15pm), Sun 4/12 (7:20pm)
+
 ### Tue 3/31 8:05am
 * New movies: Exit 8, The Pitt
 
