@@ -1,6 +1,37 @@
 # los-angeles
 
 ## Movie updates
+### Mon 3/30 7:45pm
+
+* New screenings: 
+    * [Alpha 2026](https://drafthouse.com/los-angeles/show/alpha-2026): Tue 3/31 (11:30am, 2:45pm, 6:00pm, 9:15pm)
+
+    * [Forbidden Fruits](https://drafthouse.com/los-angeles/show/forbidden-fruits): Tue 3/31 (4:00pm, 7:00pm, 10:00pm), Wed 4/1 (7:00pm, 10:00pm), Thu 4/2 (6:00pm, 9:00pm), Fri 4/3 (6:00pm, 9:00pm), Sat 4/4 (6:00pm, 9:00pm), Sun 4/5 (6:00pm, 9:00pm), Mon 4/6 (6:00pm, 9:00pm), Tue 4/7 (6:00pm, 9:00pm), Wed 4/8 (5:30pm, 8:30pm)
+
+    * [Hoppers](https://drafthouse.com/los-angeles/show/hoppers): Tue 3/31 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Wed 4/1 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Thu 4/2 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Fri 4/3 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 4/4 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sun 4/5 (11:00am, 1:50pm, 3:40pm, 7:30pm, 10:30pm), Mon 4/6 (11:20am, 1:45pm, 5:00pm, 7:00pm, 10:30pm), Tue 4/7 (10:45am, 1:45pm, 4:45pm, 7:00pm), Wed 4/8 (10:45am, 1:45pm, 5:00pm, 7:00pm)
+
+    * [Marc By Sofia](https://drafthouse.com/los-angeles/show/marc-by-sofia): Thu 4/2 (10:30am, 1:10pm, 3:50pm), Fri 4/3 (10:30am, 1:10pm, 3:50pm), Sat 4/4 (10:30am, 1:10pm, 3:50pm), Sun 4/5 (10:20am, 10:45am, 1:00pm), Mon 4/6 (1:30pm, 4:15pm), Tue 4/7 (1:30pm, 4:15pm), Wed 4/8 (1:30pm, 4:15pm)
+
+    * [Our Hero Balthazar](https://drafthouse.com/los-angeles/show/our-hero-balthazar): Thu 4/2 (11:00am, 1:40pm, 4:20pm, 7:00pm, 9:45pm), Sun 4/5 (10:00pm)
+
+    * [Project Hail Mary](https://drafthouse.com/los-angeles/show/project-hail-mary): Tue 3/31 (11:00am, 11:15am, 12:00pm, 12:30pm, 2:45pm, 3:45pm, 4:15pm, 6:30pm, 8:00pm, 10:15pm), Wed 4/1 (11:30am, 12:30pm, 3:15pm, 4:15pm, 7:00pm, 8:00pm, 10:45pm), Thu 4/2 (11:00am, 12:00pm, 12:30pm, 2:45pm, 3:15pm, 4:15pm, 6:30pm, 7:00pm, 8:00pm, 9:15pm), Fri 4/3 (11:00am, 12:30pm, 2:45pm, 3:15pm, 4:15pm, 6:30pm, 8:00pm, 9:15pm), Sat 4/4 (11:00am, 12:30pm, 1:25pm, 2:45pm, 4:15pm, 6:30pm, 8:00pm, 9:15pm), Sun 4/5 (11:00am, 12:30pm, 2:45pm, 4:15pm, 6:30pm, 8:00pm, 9:15pm), Mon 4/6 (11:00am, 12:30pm, 2:45pm, 3:15pm, 4:15pm, 6:30pm, 8:00pm, 9:15pm), Tue 4/7 (11:00am, 12:30pm, 2:30pm, 2:45pm, 4:15pm, 6:30pm, 8:00pm, 9:15pm), Wed 4/8 (11:00am, 12:30pm, 2:45pm, 4:00pm, 4:15pm, 6:30pm, 8:00pm, 9:15pm)
+
+    * [Ready Or Not 2 Here I Come](https://drafthouse.com/los-angeles/show/ready-or-not-2-here-i-come): Tue 3/31 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Wed 4/1 (10:50am, 1:45pm, 4:40pm, 10:40pm), Thu 4/2 (6:30pm, 9:30pm), Fri 4/3 (6:30pm, 9:30pm), Sat 4/4 (6:30pm, 9:30pm), Sun 4/5 (6:30pm, 9:30pm), Mon 4/6 (10:00pm), Tue 4/7 (10:00pm), Wed 4/8 (10:00pm)
+
+    * [Sirat](https://drafthouse.com/los-angeles/show/sirat): Tue 3/31 (1:00pm)
+
+    * [The Ai Doc Or How I Became An Apocaloptimist](https://drafthouse.com/los-angeles/show/the-ai-doc-or-how-i-became-an-apocaloptimist): Tue 3/31 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Wed 4/1 (6:00pm, 9:00pm), Thu 4/2 (12:15pm), Fri 4/3 (12:15pm), Sat 4/4 (10:30am), Sun 4/5 (1:30pm), Mon 4/6 (12:15pm), Tue 4/7 (11:40am), Wed 4/8 (1:00pm)
+
+    * [The Drama](https://drafthouse.com/los-angeles/show/the-drama): Thu 4/2 (6:15pm, 10:00pm), Fri 4/3 (10:45am, 12:15pm, 1:45pm, 3:15pm, 6:15pm, 10:45pm), Sat 4/4 (10:45am, 12:15pm, 1:45pm, 3:15pm, 6:15pm, 10:45pm), Sun 4/5 (10:45am, 12:15pm, 1:45pm, 3:15pm, 6:15pm, 10:45pm), Mon 4/6 (10:30am, 12:15pm, 12:45pm, 3:15pm, 3:45pm, 6:15pm, 6:45pm, 9:45pm), Tue 4/7 (10:30am, 12:15pm, 12:45pm, 3:15pm, 3:45pm, 6:15pm, 6:45pm, 9:45pm), Wed 4/8 (10:30am, 12:15pm, 12:45pm, 3:15pm, 3:45pm, 6:15pm, 6:45pm, 9:45pm)
+
+    * [The Serpents Skin](https://drafthouse.com/los-angeles/show/the-serpents-skin): Thu 4/2 (10:45pm), Mon 4/6 (9:45pm)
+
+    * [The Super Mario Galaxy Movie](https://drafthouse.com/los-angeles/show/the-super-mario-galaxy-movie): Wed 4/1 (10:35am, 10:45am, 11:00am, 12:30pm, 1:20pm, 1:30pm, 1:45pm, 3:15pm, 4:05pm, 4:15pm, 4:30pm, 7:15pm, 9:30pm, 10:00pm), Thu 4/2 (12:30pm, 12:45pm, 3:15pm, 3:30pm, 10:30pm), Fri 4/3 (12:30pm, 3:15pm, 10:30pm), Sat 4/4 (12:30pm, 3:15pm, 10:00pm), Sun 4/5 (12:30pm, 3:15pm, 9:30pm, 10:30pm), Mon 4/6 (12:30pm, 1:00pm, 3:15pm, 3:45pm, 9:45pm), Tue 4/7 (10:45am, 12:30pm, 1:30pm, 3:15pm, 4:15pm, 10:15pm), Wed 4/8 (10:45am, 12:00pm, 1:30pm, 2:45pm)
+
+    * [They Will Kill You](https://drafthouse.com/los-angeles/show/they-will-kill-you): Tue 3/31 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Wed 4/1 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Thu 4/2 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Fri 4/3 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Sat 4/4 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Sun 4/5 (10:45am, 1:30pm, 4:15pm, 7:00pm, 9:45pm), Mon 4/6 (11:00am, 2:15pm, 4:45pm, 7:30pm, 10:15pm), Tue 4/7 (11:15am, 2:00pm, 4:50pm, 7:30pm, 10:15pm), Wed 4/8 (11:30am, 2:15pm, 4:45pm, 7:25pm, 10:10pm)
+
+    * [Undertone](https://drafthouse.com/los-angeles/show/undertone): Tue 3/31 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Thu 4/2 (10:15pm), Fri 4/3 (10:15pm), Sat 4/4 (10:15pm), Sun 4/5 (10:15pm), Mon 4/6 (10:15pm), Tue 4/7 (10:15pm), Wed 4/8 (10:15pm)
+
 ### Mon 3/30 10:55am
 * New movies: The School Duel
 
