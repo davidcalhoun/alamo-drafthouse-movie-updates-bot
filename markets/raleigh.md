@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Tue 3/31 11:13am
+* New movies: Backrooms, Exit 8, The Pitt
+
+* New screenings: 
+    * [Backrooms](https://drafthouse.com/raleigh/show/backrooms): Thu 5/28 (6:15pm), Fri 5/29 (6:15pm), Sat 5/30 (6:15pm), Sun 5/31 (6:15pm)
+
+    * [Exit 8](https://drafthouse.com/raleigh/show/exit-8): Thu 4/9 (7:30pm), Fri 4/10 (7:30pm), Sat 4/11 (7:30pm), Sun 4/12 (7:40pm)
+
+    * [Free Victory Screening The Pitt](https://drafthouse.com/raleigh/show/free-victory-screening-the-pitt): Mon 4/13 (7:30pm)
+
 ### Mon 3/30 11:22pm
 
 * New screenings: 
