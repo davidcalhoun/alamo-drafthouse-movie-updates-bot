@@ -1,6 +1,33 @@
 # raleigh
 
 ## Movie updates
+### Mon 3/30 11:22pm
+
+* New screenings: 
+    * [Alpha 2026](https://drafthouse.com/raleigh/show/alpha-2026): Tue 3/31 (11:40am, 3:30pm, 6:45pm)
+
+    * [Forbidden Fruits](https://drafthouse.com/raleigh/show/forbidden-fruits): Tue 3/31 (6:00pm, 9:00pm), Wed 4/1 (7:00pm, 10:00pm), Thu 4/2 (10:00pm), Fri 4/3 (10:20pm), Sat 4/4 (10:05pm), Sun 4/5 (10:05pm), Tue 4/7 (9:05pm), Wed 4/8 (9:45pm)
+
+    * [Hoppers](https://drafthouse.com/raleigh/show/hoppers): Tue 3/31 (12:40pm, 3:20pm, 6:15pm, 9:15pm), Wed 4/1 (12:00pm, 3:15pm, 6:15pm, 9:15pm), Thu 4/2 (12:45pm, 3:55pm, 6:45pm, 9:40pm), Fri 4/3 (11:45am, 3:00pm, 6:15pm, 9:25pm), Sat 4/4 (10:15am, 1:05pm, 3:55pm, 6:45pm, 9:35pm), Sun 4/5 (10:15am, 1:05pm, 3:55pm, 6:45pm, 9:35pm), Tue 4/7 (1:00pm, 3:50pm, 6:45pm, 9:35pm), Wed 4/8 (12:45pm, 3:40pm, 6:30pm, 9:20pm)
+
+    * [Project Hail Mary](https://drafthouse.com/raleigh/show/project-hail-mary): Tue 3/31 (11:30am, 12:40pm, 1:00pm, 1:40pm, 3:10pm, 4:20pm, 4:40pm, 5:20pm, 8:00pm, 8:30pm, 9:00pm), Wed 4/1 (12:20pm, 1:45pm, 4:00pm, 8:00pm, 9:00pm), Thu 4/2 (11:45am, 12:45pm, 2:40pm, 3:30pm, 6:20pm, 8:15pm, 9:05pm), Fri 4/3 (10:45am, 11:00am, 2:35pm, 2:50pm, 6:30pm, 8:00pm, 10:00pm), Sat 4/4 (11:00am, 11:15am, 2:40pm, 3:00pm, 7:00pm, 7:45pm, 9:05pm), Sun 4/5 (10:45am, 11:45am, 2:30pm, 3:30pm, 6:30pm, 8:15pm, 9:05pm), Tue 4/7 (11:30am, 12:15pm, 3:25pm, 4:15pm, 7:00pm, 8:00pm, 9:45pm), Wed 4/8 (12:15pm, 2:30pm, 3:55pm, 6:30pm, 7:15pm, 9:00pm)
+
+    * [Ready Or Not 2 Here I Come](https://drafthouse.com/raleigh/show/ready-or-not-2-here-i-come): Tue 3/31 (12:15pm, 4:20pm, 7:15pm, 10:10pm), Wed 4/1 (1:15pm, 4:20pm, 7:15pm, 10:15pm), Thu 4/2 (10:30pm), Fri 4/3 (10:30pm), Sat 4/4 (10:40pm), Sun 4/5 (10:15pm), Tue 4/7 (10:00pm), Wed 4/8 (10:35pm)
+
+    * [Reminders Of Him](https://drafthouse.com/raleigh/show/reminders-of-him): Tue 3/31 (1:15pm, 3:00pm), Wed 4/1 (3:50pm), Thu 4/2 (3:00pm), Fri 4/3 (1:40pm), Sun 4/5 (4:15pm)
+
+    * [Scream 7](https://drafthouse.com/raleigh/show/scream-7): Tue 3/31 (9:30pm)
+
+    * [The Ai Doc Or How I Became An Apocaloptimist](https://drafthouse.com/raleigh/show/the-ai-doc-or-how-i-became-an-apocaloptimist): Tue 3/31 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Wed 4/1 (1:00pm), Thu 4/2 (12:10pm), Fri 4/3 (10:55am), Sat 4/4 (10:45am), Sun 4/5 (10:30am), Tue 4/7 (1:15pm), Wed 4/8 (1:30pm)
+
+    * [The Drama](https://drafthouse.com/raleigh/show/the-drama): Thu 4/2 (4:25pm, 6:15pm, 7:30pm, 10:15pm), Fri 4/3 (12:15pm, 3:20pm, 6:30pm, 7:30pm, 9:05pm), Sat 4/4 (12:15pm, 3:15pm, 6:30pm, 7:15pm, 9:20pm, 9:35pm), Sun 4/5 (12:15pm, 1:20pm, 3:15pm, 7:15pm, 7:30pm, 9:55pm, 10:20pm), Tue 4/7 (11:45am, 12:45pm, 2:50pm, 3:55pm, 6:15pm, 6:45pm, 7:10pm, 10:00pm), Wed 4/8 (12:55pm, 3:00pm, 3:45pm, 6:00pm, 6:45pm, 7:35pm, 9:50pm, 10:15pm)
+
+    * [The Super Mario Galaxy Movie](https://drafthouse.com/raleigh/show/the-super-mario-galaxy-movie): Wed 4/1 (1:00pm, 2:00pm, 3:45pm, 5:00pm, 5:25pm, 6:30pm, 7:45pm, 8:15pm), Thu 4/2 (11:30am, 12:00pm, 1:00pm, 2:15pm, 2:45pm, 3:45pm, 5:00pm, 5:30pm, 6:30pm, 7:45pm, 9:25pm, 10:30pm), Fri 4/3 (11:30am, 11:45am, 12:00pm, 2:15pm, 2:25pm, 2:45pm, 4:45pm, 5:00pm, 5:15pm, 5:30pm, 7:45pm, 8:15pm, 9:05pm), Sat 4/4 (10:30am, 11:30am, 11:45am, 1:15pm, 1:40pm, 2:15pm, 2:35pm, 4:00pm, 4:30pm, 5:00pm, 5:15pm, 6:40pm, 8:00pm), Sun 4/5 (10:30am, 12:00pm, 12:50pm, 1:15pm, 2:45pm, 3:45pm, 5:30pm, 6:35pm, 7:30pm, 9:20pm), Tue 4/7 (11:00am, 11:20am, 1:00pm, 1:45pm, 3:40pm, 4:15pm, 4:30pm, 4:45pm, 7:15pm), Wed 4/8 (1:00pm, 1:30pm, 2:15pm, 3:45pm, 4:15pm, 4:30pm, 5:00pm, 7:45pm, 10:30pm)
+
+    * [They Will Kill You](https://drafthouse.com/raleigh/show/they-will-kill-you): Tue 3/31 (1:15pm, 4:00pm, 7:15pm, 10:00pm), Wed 4/1 (1:45pm, 4:30pm, 7:15pm, 10:00pm), Thu 4/2 (1:00pm, 3:45pm, 6:30pm, 9:15pm), Fri 4/3 (11:15am, 2:00pm, 4:40pm, 7:20pm, 10:15pm), Sat 4/4 (11:40am, 2:25pm, 5:05pm, 7:45pm, 10:25pm), Sun 4/5 (11:15am, 1:55pm, 4:35pm, 7:15pm, 10:10pm), Tue 4/7 (12:45pm, 2:05pm, 3:35pm, 7:30pm, 10:15pm), Wed 4/8 (1:50pm, 4:35pm, 7:15pm, 10:00pm)
+
+    * [Undertone](https://drafthouse.com/raleigh/show/undertone): Tue 3/31 (1:55pm, 4:35pm)
+
 ### Sat 3/28 11:39am
 * New movies: Bridesmaids: 15th Anniversary, Bridesmaids: 15th Anniversary
 
