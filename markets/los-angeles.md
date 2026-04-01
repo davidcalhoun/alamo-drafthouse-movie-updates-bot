@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 4/1 6:43am
+* New movies: Shrek: 25th Anniversary, Shrek: 25th Anniversary
+
+* New screenings: 
+    * [Movie Party Shrek 25th Anniversary](https://drafthouse.com/los-angeles/show/movie-party-shrek-25th-anniversary): Sun 5/17 (12:30pm, 3:15pm), Mon 5/18 (6:30pm)
+
+    * [Shrek 25th Anniversary](https://drafthouse.com/los-angeles/show/shrek-25th-anniversary): Fri 5/15 (4:00pm), Sat 5/16 (12:30pm), Tue 5/19 (4:00pm), Wed 5/20 (7:00pm), Thu 5/21 (4:00pm)
+
 ### Tue 3/31 8:15pm
 * New movies: Backrooms
 
