@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 4/1 9:59am
+* New movies: Lee Cronin's The Mummy
+
+* New screenings: 
+    * [Lee Cronins The Mummy](https://drafthouse.com/los-angeles/show/lee-cronins-the-mummy): Thu 4/16 (3:30pm, 7:15pm, 10:00pm), Fri 4/17 (3:40pm, 7:00pm, 10:20pm), Sat 4/18 (3:40pm, 7:00pm, 10:20pm), Sun 4/19 (3:40pm, 7:00pm)
+
 ### Wed 4/1 6:43am
 * New movies: Shrek: 25th Anniversary, Shrek: 25th Anniversary
 
