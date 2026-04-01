@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 3/31 8:15pm
+* New movies: Backrooms
+
+* New screenings: 
+    * [Backrooms](https://drafthouse.com/los-angeles/show/backrooms): Thu 5/28 (7:30pm), Fri 5/29 (7:30pm), Sat 5/30 (7:30pm), Sun 5/31 (7:30pm)
+
 ### Tue 3/31 10:57am
 * New movies: Hamlet 2026
 
