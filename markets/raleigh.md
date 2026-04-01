@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 4/1 1:06pm
+* New movies: Lee Cronin's The Mummy
+
+* New screenings: 
+    * [Lee Cronins The Mummy](https://drafthouse.com/raleigh/show/lee-cronins-the-mummy): Thu 4/16 (6:00pm, 9:20pm), Fri 4/17 (6:00pm, 9:20pm), Sat 4/18 (6:00pm, 9:20pm), Sun 4/19 (6:00pm, 9:20pm)
+
 ### Wed 4/1 9:57am
 * New movies: Shrek: 25th Anniversary, Shrek: 25th Anniversary
 
