@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Wed 4/1 9:57am
+* New movies: Shrek: 25th Anniversary, Shrek: 25th Anniversary
+
+* New screenings: 
+    * [Movie Party Shrek 25th Anniversary](https://drafthouse.com/raleigh/show/movie-party-shrek-25th-anniversary): Sat 5/16 (12:30pm), Wed 5/20 (6:00pm)
+
+    * [Shrek 25th Anniversary](https://drafthouse.com/raleigh/show/shrek-25th-anniversary): Fri 5/15 (4:00pm), Sun 5/17 (12:30pm), Mon 5/18 (7:00pm), Tue 5/19 (4:00pm), Thu 5/21 (4:00pm)
+
 ### Tue 3/31 11:13am
 * New movies: Backrooms, Exit 8, The Pitt
 
