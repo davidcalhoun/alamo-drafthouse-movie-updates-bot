@@ -1,6 +1,32 @@
 # raleigh
 
 ## Movie updates
+### Thu 4/2 11:08am
+* New movies: Over Your Dead Body 2026, Over Your Dead Body 2026
+
+* New screenings: 
+    * [Advance Screening Over Your Dead Body 2026](https://drafthouse.com/raleigh/show/advance-screening-over-your-dead-body-2026): Wed 4/15 (6:30pm)
+
+    * [Forbidden Fruits](https://drafthouse.com/raleigh/show/forbidden-fruits): Mon 4/6 (10:00pm)
+
+    * [Hoppers](https://drafthouse.com/raleigh/show/hoppers): Mon 4/6 (1:00pm, 3:55pm, 6:45pm, 9:45pm)
+
+    * [Over Your Dead Body 2026](https://drafthouse.com/raleigh/show/over-your-dead-body-2026): Thu 4/23 (7:30pm), Fri 4/24 (7:30pm), Sat 4/25 (7:30pm), Sun 4/26 (7:30pm)
+
+    * [Project Hail Mary](https://drafthouse.com/raleigh/show/project-hail-mary): Mon 4/6 (12:00pm, 12:15pm, 4:00pm, 4:10pm, 6:00pm, 8:00pm, 9:05pm)
+
+    * [Ready Or Not 2 Here I Come](https://drafthouse.com/raleigh/show/ready-or-not-2-here-i-come): Mon 4/6 (9:40pm)
+
+    * [Reminders Of Him](https://drafthouse.com/raleigh/show/reminders-of-him): Mon 4/6 (3:45pm)
+
+    * [The Ai Doc Or How I Became An Apocaloptimist](https://drafthouse.com/raleigh/show/the-ai-doc-or-how-i-became-an-apocaloptimist): Mon 4/6 (12:45pm)
+
+    * [The Drama](https://drafthouse.com/raleigh/show/the-drama): Mon 4/6 (12:15pm, 3:15pm, 6:15pm, 7:00pm, 8:00pm, 9:40pm)
+
+    * [The Super Mario Galaxy Movie](https://drafthouse.com/raleigh/show/the-super-mario-galaxy-movie): Mon 4/6 (12:00pm, 1:00pm, 1:30pm, 3:00pm, 3:30pm, 3:45pm, 4:15pm, 6:30pm, 9:15pm, 9:30pm)
+
+    * [They Will Kill You](https://drafthouse.com/raleigh/show/they-will-kill-you): Mon 4/6 (1:55pm, 4:35pm, 7:15pm, 10:00pm)
+
 ### Wed 4/1 1:06pm
 * New movies: Lee Cronin's The Mummy
 
