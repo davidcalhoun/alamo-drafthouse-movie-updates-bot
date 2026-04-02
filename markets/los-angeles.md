@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 4/1 7:41pm
+* New movies: Freddy's Dead: The Final Nightmare
+
+
+
 ### Wed 4/1 9:59am
 * New movies: Lee Cronin's The Mummy
 
