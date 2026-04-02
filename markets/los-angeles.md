@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 4/2 6:23am
+* New movies: I Swear
+
+* New screenings: 
+    * [I Swear](https://drafthouse.com/los-angeles/show/i-swear): Thu 4/16 (6:45pm), Fri 4/17 (7:15pm), Sat 4/18 (7:15pm), Sun 4/19 (7:15pm)
+
 ### Wed 4/1 7:41pm
 * New movies: Freddy's Dead: The Final Nightmare
 
