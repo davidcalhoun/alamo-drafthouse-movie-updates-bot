@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Thu 4/2 8:00am
+* New movies: Over Your Dead Body 2026, Erupcja, Over Your Dead Body 2026
+
+* New screenings: 
+    * [Advance Screening Over Your Dead Body 2026](https://drafthouse.com/los-angeles/show/advance-screening-over-your-dead-body-2026): Wed 4/15 (7:30pm)
+
+    * [Erupcja](https://drafthouse.com/los-angeles/show/erupcja): Thu 4/30 (5:10pm, 7:30pm, 9:55pm), Fri 5/1 (5:10pm, 7:30pm, 9:55pm), Sat 5/2 (5:10pm, 7:30pm, 9:55pm), Sun 5/3 (2:45pm, 5:05pm, 7:30pm)
+
+    * [Over Your Dead Body 2026](https://drafthouse.com/los-angeles/show/over-your-dead-body-2026): Thu 4/23 (4:00pm, 7:00pm, 10:00pm), Fri 4/24 (4:00pm, 7:00pm, 10:00pm), Sat 4/25 (4:00pm, 7:00pm, 10:00pm), Sun 4/26 (4:00pm, 7:00pm)
+
 ### Thu 4/2 6:23am
 * New movies: I Swear
 
