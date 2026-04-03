@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 4/3 4:38pm
+* New movies: The Super Mario Galaxy Movie, The Super Mario Galaxy Movie
+
+* New screenings: 
+    * [Cereal Party The Super Mario Galaxy Movie Cereal Pajama Party](https://drafthouse.com/los-angeles/show/cereal-party-the-super-mario-galaxy-movie-cereal-pajama-party): Wed 4/8 (8:00pm)
+
 ### Thu 4/2 8:00am
 * New movies: Over Your Dead Body 2026, Erupcja, Over Your Dead Body 2026
 
