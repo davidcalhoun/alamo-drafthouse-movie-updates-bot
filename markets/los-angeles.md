@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 4/6 1:40pm
+* New movies: Chime + Serpent's Path Double Feature
+
+* New screenings: 
+    * [Chime Serpents Path Double Feature](https://drafthouse.com/los-angeles/show/chime-serpents-path-double-feature): Thu 4/16 (3:45pm)
+
 ### Mon 4/6 4:01am
 
 * New screenings: 
