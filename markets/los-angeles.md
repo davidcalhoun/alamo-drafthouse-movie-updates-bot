@@ -1,6 +1,15 @@
 # los-angeles
 
 ## Movie updates
+### Mon 4/6 4:01am
+
+* New screenings: 
+    * [Ghost World](https://drafthouse.com/los-angeles/show/ghost-world): Tue 4/14 (2:15pm), Wed 4/15 (2:15pm)
+
+    * [Guest Selects High Plains Drifter](https://drafthouse.com/los-angeles/show/guest-selects-high-plains-drifter): Fri 4/10 (2:20pm), Wed 4/15 (11:15am)
+
+    * [Police Story](https://drafthouse.com/los-angeles/show/police-story): Sat 4/11 (3:15pm), Mon 4/13 (2:30pm)
+
 ### Fri 4/3 4:38pm
 * New movies: The Super Mario Galaxy Movie, The Super Mario Galaxy Movie
 
