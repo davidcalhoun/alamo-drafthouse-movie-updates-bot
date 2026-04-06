@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Mon 4/6 7:05am
+* New movies: Pride & Prejudice 2005
+
+* New screenings: 
+    * [Guest Selects High Plains Drifter](https://drafthouse.com/raleigh/show/guest-selects-high-plains-drifter): Sun 4/12 (1:15pm)
+
+    * [Pride And Prejudice](https://drafthouse.com/raleigh/show/pride-and-prejudice): Sat 4/11 (3:00pm)
+
 ### Thu 4/2 11:08am
 * New movies: Over Your Dead Body 2026, Over Your Dead Body 2026
 
