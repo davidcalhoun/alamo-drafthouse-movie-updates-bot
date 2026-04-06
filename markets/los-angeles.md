@@ -1,6 +1,38 @@
 # los-angeles
 
 ## Movie updates
+### Mon 4/6 4:40pm
+* New movies: You, Me & Tuscany, Dance Freak, Mystery Machine  5/11/2026
+
+* New screenings: 
+    * [Chime Serpents Path Double Feature](https://drafthouse.com/los-angeles/show/chime-serpents-path-double-feature): Fri 4/10 (6:00pm), Sat 4/11 (3:30pm), Sun 4/12 (6:30pm), Mon 4/13 (10:10pm), Tue 4/14 (10:00pm), Wed 4/15 (9:30pm)
+
+    * [Exit 8](https://drafthouse.com/los-angeles/show/exit-8): Fri 4/10 (1:45pm, 10:45pm), Sat 4/11 (1:40pm, 3:30pm, 10:45pm), Sun 4/12 (12:40pm, 10:00pm), Mon 4/13 (3:30pm, 6:15pm, 9:00pm), Tue 4/14 (6:30pm, 9:15pm), Wed 4/15 (4:40pm, 10:45pm)
+
+    * [Ghost World](https://drafthouse.com/los-angeles/show/ghost-world): Mon 4/13 (12:20pm)
+
+    * [Guest Selects High Plains Drifter](https://drafthouse.com/los-angeles/show/guest-selects-high-plains-drifter): Sun 4/12 (11:15am)
+
+    * [Hamlet 2026](https://drafthouse.com/los-angeles/show/hamlet-2026): Fri 4/10 (12:15pm, 3:15pm, 9:20pm), Sat 4/11 (12:15pm, 3:15pm, 10:30pm), Sun 4/12 (12:30pm, 2:15pm, 5:00pm, 10:20pm), Mon 4/13 (1:00pm, 4:00pm, 7:30pm, 10:00pm), Tue 4/14 (1:00pm, 4:00pm, 6:00pm, 9:00pm), Wed 4/15 (1:15pm, 4:15pm, 6:00pm, 9:00pm)
+
+    * [Live Q A Dance Freak](https://drafthouse.com/los-angeles/show/live-q-a-dance-freak): Fri 4/17 (7:15pm)
+
+    * [Mystery Machine 5 11 2026](https://drafthouse.com/los-angeles/show/mystery-machine-5-11-2026): Mon 5/11 (7:00pm)
+
+    * [Our Hero Balthazar](https://drafthouse.com/los-angeles/show/our-hero-balthazar): Fri 4/10 (5:00pm, 7:40pm, 10:20pm), Sat 4/11 (11:00am, 12:50pm), Sun 4/12 (4:50pm, 7:30pm, 10:10pm), Mon 4/13 (4:50pm, 10:40pm), Tue 4/14 (5:00pm, 7:40pm, 10:20pm), Wed 4/15 (5:00pm, 7:40pm, 10:20pm)
+
+    * [Project Hail Mary](https://drafthouse.com/los-angeles/show/project-hail-mary): Fri 4/10 (11:30am, 12:15pm, 1:20pm, 3:15pm, 7:00pm, 9:15pm), Sat 4/11 (12:35pm, 3:00pm, 4:20pm, 8:00pm, 9:15pm), Sun 4/12 (11:00am, 12:45pm, 1:00pm, 2:45pm, 8:00pm, 9:15pm), Mon 4/13 (11:30am, 12:00pm, 1:00pm, 3:15pm, 7:00pm, 9:45pm), Tue 4/14 (11:30am, 12:15pm, 1:15pm, 3:15pm, 7:00pm, 9:20pm), Wed 4/15 (11:15am, 1:00pm, 1:15pm, 3:00pm, 6:15pm, 9:20pm)
+
+    * [Something Wild](https://drafthouse.com/los-angeles/show/something-wild): Fri 4/10 (11:20am), Mon 4/13 (11:30am), Wed 4/15 (1:15pm)
+
+    * [The Drama](https://drafthouse.com/los-angeles/show/the-drama): Fri 4/10 (10:45am, 12:00pm, 12:30pm, 1:00pm, 3:00pm, 3:30pm, 4:00pm, 6:30pm, 10:00pm), Sat 4/11 (12:00pm, 12:30pm, 1:00pm, 4:00pm, 6:45pm, 10:15pm), Sun 4/12 (12:15pm, 1:00pm, 2:00pm, 3:15pm, 6:15pm, 9:50pm), Mon 4/13 (12:00pm, 12:30pm, 1:00pm, 3:00pm, 4:00pm, 6:00pm, 9:00pm), Tue 4/14 (12:00pm, 12:45pm, 1:00pm, 3:00pm, 4:00pm, 7:00pm, 10:00pm), Wed 4/15 (12:00pm, 12:15pm, 12:30pm, 3:00pm, 3:15pm, 6:45pm, 9:45pm)
+
+    * [The Super Mario Galaxy Movie](https://drafthouse.com/los-angeles/show/the-super-mario-galaxy-movie): Fri 4/10 (11:45am, 2:30pm, 5:15pm), Sat 4/11 (11:45am, 12:45pm, 2:30pm, 5:15pm), Sun 4/12 (11:45am, 2:30pm, 5:15pm, 10:00pm), Mon 4/13 (11:00am, 11:45am, 1:45pm, 2:30pm, 4:30pm, 5:15pm, 7:15pm, 10:30pm), Tue 4/14 (11:00am, 11:45am, 12:45pm, 1:45pm, 2:30pm, 4:30pm, 5:15pm, 7:15pm, 10:00pm), Wed 4/15 (11:00am, 11:45am, 1:45pm, 2:30pm, 4:30pm, 5:15pm, 7:15pm, 10:00pm)
+
+    * [They Will Kill You](https://drafthouse.com/los-angeles/show/they-will-kill-you): Sun 4/12 (9:30pm), Mon 4/13 (10:40pm), Tue 4/14 (10:40pm), Wed 4/15 (10:00pm)
+
+    * [You Me Tuscany](https://drafthouse.com/los-angeles/show/you-me-tuscany): Fri 4/10 (12:40pm, 3:35pm, 6:30pm, 9:25pm), Sat 4/11 (12:40pm, 3:35pm, 6:30pm, 9:25pm), Sun 4/12 (12:40pm, 3:35pm, 6:30pm, 9:25pm), Mon 4/13 (12:40pm, 3:35pm, 6:30pm, 9:25pm), Tue 4/14 (12:40pm, 3:35pm, 6:30pm, 10:15pm), Wed 4/15 (12:40pm, 3:35pm, 6:30pm, 10:20pm)
+
 ### Mon 4/6 3:40pm
 
 * New screenings: 
