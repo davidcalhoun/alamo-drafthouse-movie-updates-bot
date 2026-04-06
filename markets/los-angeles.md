@@ -1,6 +1,31 @@
 # los-angeles
 
 ## Movie updates
+### Mon 4/6 3:40pm
+
+* New screenings: 
+    * [Forbidden Fruits](https://drafthouse.com/los-angeles/show/forbidden-fruits): Thu 4/9 (10:15pm)
+
+    * [Hamlet 2026](https://drafthouse.com/los-angeles/show/hamlet-2026): Thu 4/9 (9:30pm)
+
+    * [Hoppers](https://drafthouse.com/los-angeles/show/hoppers): Thu 4/9 (1:00pm, 4:00pm)
+
+    * [Marc By Sofia](https://drafthouse.com/los-angeles/show/marc-by-sofia): Thu 4/9 (11:00am, 1:40pm)
+
+    * [Our Hero Balthazar](https://drafthouse.com/los-angeles/show/our-hero-balthazar): Thu 4/9 (11:00am, 2:10pm, 4:50pm, 7:30pm, 10:45pm)
+
+    * [Project Hail Mary](https://drafthouse.com/los-angeles/show/project-hail-mary): Thu 4/9 (12:00pm, 12:30pm, 2:15pm, 3:15pm, 4:15pm, 6:00pm, 7:00pm, 8:00pm, 9:45pm)
+
+    * [Ready Or Not 2 Here I Come](https://drafthouse.com/los-angeles/show/ready-or-not-2-here-i-come): Thu 4/9 (4:20pm, 10:20pm)
+
+    * [The Ai Doc Or How I Became An Apocaloptimist](https://drafthouse.com/los-angeles/show/the-ai-doc-or-how-i-became-an-apocaloptimist): Thu 4/9 (11:15am)
+
+    * [The Drama](https://drafthouse.com/los-angeles/show/the-drama): Thu 4/9 (11:15am, 12:15pm, 1:45pm, 3:45pm, 4:45pm, 6:45pm, 7:45pm, 9:45pm)
+
+    * [The Super Mario Galaxy Movie](https://drafthouse.com/los-angeles/show/the-super-mario-galaxy-movie): Thu 4/9 (11:45am, 2:30pm, 5:15pm)
+
+    * [They Will Kill You](https://drafthouse.com/los-angeles/show/they-will-kill-you): Thu 4/9 (1:00pm, 3:45pm, 10:45pm)
+
 ### Mon 4/6 1:40pm
 * New movies: Chime + Serpent's Path Double Feature
 
