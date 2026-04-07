@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Tue 4/7 12:16pm
+
+* New screenings: 
+    * [Project Hail Mary](https://drafthouse.com/los-angeles/show/project-hail-mary): Thu 4/9 (3:45pm)
+
+    * [The Drama](https://drafthouse.com/los-angeles/show/the-drama): Thu 4/9 (12:45pm, 7:30pm, 10:30pm)
+
 ### Tue 4/7 6:25am
 * New movies: Lorne
 
