@@ -1,6 +1,36 @@
 # raleigh
 
 ## Movie updates
+### Mon 4/6 11:23pm
+* New movies: Faces of Death 2026, Something Wild
+
+* New screenings: 
+    * [Exit 8](https://drafthouse.com/raleigh/show/exit-8): Thu 4/9 (7:15pm, 10:15pm), Fri 4/10 (11:15am, 2:00pm, 4:45pm, 7:45pm, 10:15pm), Sat 4/11 (11:15am, 2:00pm, 4:45pm, 7:00pm, 10:15pm), Sun 4/12 (12:00pm, 4:00pm, 9:30pm, 10:30pm), Mon 4/13 (11:00am, 2:00pm, 5:00pm, 8:00pm, 10:30pm), Tue 4/14 (1:15pm, 4:00pm, 7:30pm, 9:45pm), Wed 4/15 (1:45pm, 4:45pm, 7:45pm, 9:45pm, 10:30pm)
+
+    * [Faces Of Death 2026](https://drafthouse.com/raleigh/show/faces-of-death-2026): Thu 4/9 (9:15pm), Fri 4/10 (10:30pm), Sun 4/12 (10:30pm), Mon 4/13 (9:30pm), Tue 4/14 (10:15pm), Wed 4/15 (10:15pm)
+
+    * [Ghost World](https://drafthouse.com/raleigh/show/ghost-world): Mon 4/13 (6:30pm), Tue 4/14 (8:00pm)
+
+    * [Guest Selects High Plains Drifter](https://drafthouse.com/raleigh/show/guest-selects-high-plains-drifter): Fri 4/10 (9:15pm)
+
+    * [Hoppers](https://drafthouse.com/raleigh/show/hoppers): Thu 4/9 (12:00pm, 3:15pm, 6:15pm, 9:15pm), Fri 4/10 (12:15pm, 3:05pm, 6:15pm), Sat 4/11 (12:15pm, 3:15pm, 6:15pm), Sun 4/12 (12:00pm, 3:15pm, 6:15pm), Mon 4/13 (12:30pm, 3:30pm, 6:30pm), Tue 4/14 (12:15pm, 3:15pm, 6:15pm), Wed 4/15 (11:45am, 3:00pm, 6:00pm, 9:00pm)
+
+    * [Police Story](https://drafthouse.com/raleigh/show/police-story): Sat 4/11 (9:15pm), Mon 4/13 (9:30pm)
+
+    * [Project Hail Mary](https://drafthouse.com/raleigh/show/project-hail-mary): Thu 4/9 (12:00pm, 2:30pm, 4:00pm, 7:45pm, 9:00pm), Fri 4/10 (10:45am, 2:15pm, 2:30pm, 6:00pm, 6:30pm, 9:00pm), Sat 4/11 (10:45am, 2:00pm, 2:30pm, 6:30pm, 9:00pm), Sun 4/12 (12:00pm, 2:00pm, 2:30pm, 6:30pm, 9:00pm), Mon 4/13 (1:00pm, 2:30pm, 6:00pm, 9:15pm), Tue 4/14 (1:00pm, 2:30pm, 6:00pm, 9:15pm), Wed 4/15 (1:00pm, 1:45pm, 5:30pm, 6:00pm, 9:15pm)
+
+    * [Reminders Of Him](https://drafthouse.com/raleigh/show/reminders-of-him): Thu 4/9 (4:15pm)
+
+    * [Something Wild](https://drafthouse.com/raleigh/show/something-wild): Sat 4/11 (12:00pm), Tue 4/14 (9:30pm)
+
+    * [The Drama](https://drafthouse.com/raleigh/show/the-drama): Thu 4/9 (12:45pm, 3:45pm, 5:45pm, 6:45pm, 9:45pm), Fri 4/10 (11:15am, 12:45pm, 3:45pm, 6:00pm, 7:00pm, 10:15pm), Sat 4/11 (11:00am, 12:45pm, 3:45pm, 5:45pm, 6:45pm, 8:30pm, 10:00pm), Sun 4/12 (11:00am, 12:45pm, 3:45pm, 5:45pm, 6:45pm, 7:30pm, 9:45pm), Mon 4/13 (12:00pm, 12:45pm, 3:00pm, 4:00pm, 6:15pm, 7:15pm, 10:15pm), Tue 4/14 (11:45am, 12:45pm, 3:00pm, 4:00pm, 6:15pm, 7:00pm, 10:00pm), Wed 4/15 (11:45am, 12:45pm, 2:45pm, 4:00pm, 7:45pm)
+
+    * [The Super Mario Galaxy Movie](https://drafthouse.com/raleigh/show/the-super-mario-galaxy-movie): Thu 4/9 (11:30am, 11:45am, 1:00pm, 1:45pm, 2:00pm, 2:30pm, 2:45pm, 3:45pm, 4:30pm, 5:15pm, 6:15pm, 8:00pm, 9:30pm, 10:00pm), Fri 4/10 (11:00am, 11:30am, 11:45am, 12:30pm, 1:45pm, 2:15pm, 2:45pm, 3:15pm, 4:45pm, 5:00pm, 5:30pm, 7:45pm, 8:30pm), Sat 4/11 (12:00pm, 1:00pm, 2:15pm, 2:45pm, 4:00pm, 5:00pm, 5:30pm, 6:30pm, 8:00pm, 9:30pm), Sun 4/12 (10:30am, 11:30am, 11:30am, 1:00pm, 2:15pm, 2:45pm, 5:30pm, 5:30pm, 6:45pm, 8:15pm, 8:30pm, 9:45pm), Mon 4/13 (11:00am, 11:30am, 12:00pm, 12:30pm, 1:30pm, 2:00pm, 3:00pm, 3:30pm, 4:15pm, 4:45pm, 5:00pm, 6:00pm, 8:00pm, 9:00pm, 9:45pm), Tue 4/14 (11:00am, 11:30am, 12:00pm, 1:15pm, 2:00pm, 2:00pm, 2:45pm, 3:45pm, 5:00pm, 5:00pm, 6:00pm, 8:00pm, 9:00pm), Wed 4/15 (11:30am, 12:30pm, 1:15pm, 1:30pm, 2:30pm, 3:30pm, 4:00pm, 4:30pm, 5:00pm, 6:00pm, 7:00pm, 9:00pm, 9:30pm, 10:00pm)
+
+    * [They Will Kill You](https://drafthouse.com/raleigh/show/they-will-kill-you): Thu 4/9 (1:15pm, 4:45pm), Fri 4/10 (10:15pm), Sat 4/11 (10:15pm), Sun 4/12 (10:15pm), Mon 4/13 (9:45pm), Tue 4/14 (9:45pm), Wed 4/15 (10:15pm)
+
+    * [You Me Tuscany](https://drafthouse.com/raleigh/show/you-me-tuscany): Thu 4/9 (10:00pm), Fri 4/10 (10:30am, 1:30pm, 4:15pm, 10:00pm), Sat 4/11 (10:15am, 1:15pm, 4:15pm, 10:00pm), Sun 4/12 (10:00am, 1:00pm, 3:45pm, 10:00pm), Mon 4/13 (1:00pm, 4:30pm, 7:30pm, 10:15pm), Tue 4/14 (1:00pm, 4:45pm, 7:45pm, 10:30pm), Wed 4/15 (12:45pm, 3:45pm, 7:00pm, 9:45pm)
+
 ### Mon 4/6 7:05am
 * New movies: Pride & Prejudice 2005
 
