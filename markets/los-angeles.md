@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 4/7 6:25am
+* New movies: Lorne
+
+* New screenings: 
+    * [Lorne](https://drafthouse.com/los-angeles/show/lorne): Thu 4/16 (7:45pm), Fri 4/17 (4:45pm, 7:45pm), Sat 4/18 (4:45pm, 7:45pm), Sun 4/19 (4:45pm, 7:45pm)
+
 ### Mon 4/6 10:13pm
 * New movies: Fight Club 4K Remaster
 
