@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 4/6 10:13pm
+* New movies: Fight Club 4K Remaster
+
+* New screenings: 
+    * [Fight Club 4k Remaster](https://drafthouse.com/los-angeles/show/fight-club-4k-remaster): Wed 4/22 (8:00pm)
+
 ### Mon 4/6 4:40pm
 * New movies: You, Me & Tuscany, Dance Freak, Mystery Machine  5/11/2026
 
