@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 4/7 3:41pm
+
+* New screenings: 
+    * [The Drama](https://drafthouse.com/los-angeles/show/the-drama): Fri 4/10 (9:30pm)
+
 ### Tue 4/7 12:16pm
 
 * New screenings: 
