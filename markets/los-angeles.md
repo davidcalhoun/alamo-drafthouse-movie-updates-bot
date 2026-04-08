@@ -1,6 +1,15 @@
 # los-angeles
 
 ## Movie updates
+### Wed 4/8 1:50pm
+
+* New screenings: 
+    * [Face Off](https://drafthouse.com/los-angeles/show/face-off): Fri 4/17 (6:00pm), Sun 4/19 (3:30pm), Tue 4/21 (3:30pm), Wed 4/22 (9:45pm)
+
+    * [Special Event F K My Son Dance Freak Double Feature](https://drafthouse.com/los-angeles/show/special-event-f-k-my-son-dance-freak-double-feature): Fri 4/17 (9:30pm)
+
+    * [The Master 2012](https://drafthouse.com/los-angeles/show/the-master-2012): Fri 4/17 (2:30pm), Mon 4/20 (3:45pm), Wed 4/22 (12:45pm)
+
 ### Wed 4/8 6:26am
 * New movies: Normal
 
