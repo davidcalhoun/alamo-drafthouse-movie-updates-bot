@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 4/8 6:26am
+* New movies: Normal
+
+* New screenings: 
+    * [Normal](https://drafthouse.com/los-angeles/show/normal): Thu 4/16 (8:00pm), Fri 4/17 (4:00pm, 6:45pm), Sat 4/18 (4:00pm, 6:45pm), Sun 4/19 (4:00pm, 6:45pm)
+
 ### Tue 4/7 3:41pm
 
 * New screenings: 
