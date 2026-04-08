@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 4/8 9:56am
+* New movies: Normal
+
+* New screenings: 
+    * [Normal](https://drafthouse.com/raleigh/show/normal): Thu 4/16 (7:40pm), Fri 4/17 (7:15pm), Sat 4/18 (7:15pm), Sun 4/19 (7:30pm)
+
 ### Mon 4/6 11:23pm
 * New movies: Faces of Death 2026, Something Wild
 
