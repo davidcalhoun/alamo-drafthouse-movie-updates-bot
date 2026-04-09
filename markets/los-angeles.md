@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 4/9 10:11am
+* New movies: Mortal Kombat II
+
+* New screenings: 
+    * [Mortal Kombat Ii](https://drafthouse.com/los-angeles/show/mortal-kombat-ii): Thu 5/7 (7:00pm, 10:15pm), Fri 5/8 (7:00pm, 10:15pm), Sat 5/9 (7:00pm, 10:15pm), Sun 5/10 (7:15pm)
+
 ### Thu 4/9 6:50am
 * New movies: Mother Mary
 
