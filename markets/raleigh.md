@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Thu 4/9 5:52pm
+* New movies: Mortal Kombat II, Mystery Machine  5/11/2026
+
+* New screenings: 
+    * [Mortal Kombat Ii](https://drafthouse.com/raleigh/show/mortal-kombat-ii): Thu 5/7 (7:30pm), Fri 5/8 (7:30pm), Sat 5/9 (7:30pm), Sun 5/10 (7:30pm)
+
+    * [Mystery Machine 5 11 2026](https://drafthouse.com/raleigh/show/mystery-machine-5-11-2026): Mon 5/11 (7:15pm)
+
 ### Thu 4/9 3:20pm
 
 * New screenings: 
