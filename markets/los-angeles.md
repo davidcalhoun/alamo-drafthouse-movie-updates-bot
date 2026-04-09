@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 4/9 6:50am
+* New movies: Mother Mary
+
+* New screenings: 
+    * [Mother Mary](https://drafthouse.com/los-angeles/show/mother-mary): Thu 4/23 (7:30pm), Fri 4/24 (3:15pm, 6:15pm), Sat 4/25 (3:15pm, 6:15pm), Sun 4/26 (3:15pm, 6:15pm)
+
 ### Wed 4/8 1:50pm
 
 * New screenings: 
