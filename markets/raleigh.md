@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Thu 4/9 3:20pm
+
+* New screenings: 
+    * [The Devil Wears Prada 2](https://drafthouse.com/raleigh/show/the-devil-wears-prada-2): Fri 5/1 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Sat 5/2 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Sun 5/3 (12:30pm, 3:45pm, 7:00pm, 10:15pm)
+
 ### Wed 4/8 9:56am
 * New movies: Normal
 
