@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 4/9 4:39pm
+
+* New screenings: 
+    * [The Breadwinner 2026](https://drafthouse.com/los-angeles/show/the-breadwinner-2026): Fri 5/29 (11:00am, 1:45pm, 4:30pm, 10:00pm), Sat 5/30 (11:00am, 1:45pm, 4:30pm, 10:00pm), Sun 5/31 (11:00am, 1:45pm, 4:30pm)
+
 ### Thu 4/9 10:11am
 * New movies: Mortal Kombat II
 
