@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Fri 4/10 2:04am
+
+* New screenings: 
+    * [Face Off](https://drafthouse.com/raleigh/show/face-off): Mon 4/20 (10:15pm)
+
+    * [The Master 2012](https://drafthouse.com/raleigh/show/the-master-2012): Fri 4/17 (12:00pm), Wed 4/22 (12:30pm)
+
 ### Thu 4/9 5:52pm
 * New movies: Mortal Kombat II, Mystery Machine  5/11/2026
 
