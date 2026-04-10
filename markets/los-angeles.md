@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Fri 4/10 7:51am
+* New movies: In a Lonely Place, Kiss Me Deadly, Sweet Smell of Success, The Third Man
+
+* New screenings: 
+    * [In A Lonely Place](https://drafthouse.com/los-angeles/show/in-a-lonely-place): Mon 4/27 (6:00pm)
+
+    * [Kiss Me Deadly](https://drafthouse.com/los-angeles/show/kiss-me-deadly): Mon 5/18 (7:00pm)
+
+    * [Sweet Smell Of Success](https://drafthouse.com/los-angeles/show/sweet-smell-of-success): Mon 5/4 (7:00pm)
+
+    * [The Third Man](https://drafthouse.com/los-angeles/show/the-third-man): Mon 5/11 (6:30pm)
+
 ### Thu 4/9 4:39pm
 
 * New screenings: 
