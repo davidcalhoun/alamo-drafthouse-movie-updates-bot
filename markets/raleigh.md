@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Fri 4/10 1:54pm
+* New movies: Kiss Me Deadly
+
+* New screenings: 
+    * [In A Lonely Place](https://drafthouse.com/raleigh/show/in-a-lonely-place): Mon 4/27 (7:30pm)
+
+    * [Kiss Me Deadly](https://drafthouse.com/raleigh/show/kiss-me-deadly): Mon 5/18 (7:30pm)
+
+    * [The Third Man](https://drafthouse.com/raleigh/show/the-third-man): Mon 5/11 (7:30pm)
+
 ### Fri 4/10 10:58am
 * New movies: In a Lonely Place, Sweet Smell of Success, The Third Man
 
