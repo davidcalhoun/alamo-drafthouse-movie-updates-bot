@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Fri 4/10 10:58am
+* New movies: In a Lonely Place, Sweet Smell of Success, The Third Man
+
+* New screenings: 
+    * [In A Lonely Place](https://drafthouse.com/raleigh/show/in-a-lonely-place): Wed 5/27 (7:30pm)
+
+    * [Sweet Smell Of Success](https://drafthouse.com/raleigh/show/sweet-smell-of-success): Mon 5/4 (7:00pm)
+
+    * [The Third Man](https://drafthouse.com/raleigh/show/the-third-man): Wed 5/13 (4:30pm)
+
 ### Fri 4/10 2:04am
 
 * New screenings: 
