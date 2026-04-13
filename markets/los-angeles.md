@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 4/13 4:49pm
+* New movies: Marama
+
+* New screenings: 
+    * [Marama](https://drafthouse.com/los-angeles/show/marama): Tue 5/5 (6:15pm)
+
 ### Mon 4/13 3:49pm
 * New movies: The Christophers, A Little Something Extra, The Big Lebowski, Hello Mary Lou: Prom Night II, By Design, MAMMA MIA Movie Party
 
