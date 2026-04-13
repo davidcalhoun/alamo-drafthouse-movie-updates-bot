@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 4/13 12:18pm
+* New movies: Ferris Bueller's Day Off
+
+* New screenings: 
+    * [Ferris Buellers Day Off](https://drafthouse.com/los-angeles/show/ferris-buellers-day-off): Fri 4/17 (4:20pm)
+
 ### Fri 4/10 7:51am
 * New movies: In a Lonely Place, Kiss Me Deadly, Sweet Smell of Success, The Third Man
 
