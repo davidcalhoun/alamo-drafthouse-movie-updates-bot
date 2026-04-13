@@ -1,6 +1,29 @@
 # los-angeles
 
 ## Movie updates
+### Mon 4/13 2:53pm
+
+* New screenings: 
+    * [Exit 8](https://drafthouse.com/los-angeles/show/exit-8): Thu 4/16 (1:00pm, 3:50pm, 6:40pm, 9:30pm)
+
+    * [Faces Of Death 2026](https://drafthouse.com/los-angeles/show/faces-of-death-2026): Thu 4/16 (10:30pm)
+
+    * [Hamlet 2026](https://drafthouse.com/los-angeles/show/hamlet-2026): Thu 4/16 (12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
+    * [Lorne](https://drafthouse.com/los-angeles/show/lorne): Thu 4/16 (4:45pm, 10:40pm)
+
+    * [Normal](https://drafthouse.com/los-angeles/show/normal): Thu 4/16 (5:15pm, 10:45pm)
+
+    * [Our Hero Balthazar](https://drafthouse.com/los-angeles/show/our-hero-balthazar): Thu 4/16 (11:10am, 1:50pm)
+
+    * [Project Hail Mary](https://drafthouse.com/los-angeles/show/project-hail-mary): Thu 4/16 (11:00am, 12:15pm, 1:30pm, 2:45pm, 6:45pm, 9:30pm)
+
+    * [The Drama](https://drafthouse.com/los-angeles/show/the-drama): Thu 4/16 (11:15am, 12:30pm, 2:15pm, 6:30pm, 10:40pm)
+
+    * [The Super Mario Galaxy Movie](https://drafthouse.com/los-angeles/show/the-super-mario-galaxy-movie): Thu 4/16 (11:00am, 12:45pm, 1:50pm, 4:30pm, 7:15pm, 10:00pm)
+
+    * [You Me Tuscany](https://drafthouse.com/los-angeles/show/you-me-tuscany): Thu 4/16 (12:45pm, 3:40pm, 6:35pm, 9:25pm)
+
 ### Mon 4/13 1:58pm
 
 * New screenings: 
