@@ -1,6 +1,52 @@
 # los-angeles
 
 ## Movie updates
+### Mon 4/13 3:49pm
+* New movies: The Christophers, A Little Something Extra, The Big Lebowski, Hello Mary Lou: Prom Night II, By Design, MAMMA MIA Movie Party
+
+* New screenings: 
+    * [A Little Something Extra](https://drafthouse.com/los-angeles/show/a-little-something-extra): Fri 4/17 (12:25pm, 3:20pm), Sat 4/18 (12:25pm, 3:20pm), Sun 4/19 (12:25pm, 3:20pm), Mon 4/20 (12:45pm, 3:20pm), Tue 4/21 (12:25pm, 3:20pm), Wed 4/22 (12:25pm, 3:20pm)
+
+    * [Exit 8](https://drafthouse.com/los-angeles/show/exit-8): Fri 4/17 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sat 4/18 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sun 4/19 (11:30am, 2:15pm, 5:00pm, 7:45pm), Mon 4/20 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Tue 4/21 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Wed 4/22 (11:30am, 2:15pm, 5:00pm, 10:45pm)
+
+    * [Face Off](https://drafthouse.com/los-angeles/show/face-off): Sat 4/18 (9:30pm)
+
+    * [Faces Of Death 2026](https://drafthouse.com/los-angeles/show/faces-of-death-2026): Fri 4/17 (10:00pm), Sat 4/18 (10:00pm), Sun 4/19 (12:00pm), Mon 4/20 (10:00pm), Tue 4/21 (10:00pm), Wed 4/22 (10:30pm)
+
+    * [Hamlet 2026](https://drafthouse.com/los-angeles/show/hamlet-2026): Fri 4/17 (6:15pm, 9:15pm), Sat 4/18 (6:15pm, 9:15pm), Sun 4/19 (6:15pm), Mon 4/20 (6:15pm, 9:15pm), Tue 4/21 (6:15pm, 9:15pm), Wed 4/22 (6:15pm, 9:15pm)
+
+    * [Lee Cronins The Mummy](https://drafthouse.com/los-angeles/show/lee-cronins-the-mummy): Fri 4/17 (12:15pm), Sat 4/18 (12:15pm), Sun 4/19 (12:15pm), Mon 4/20 (11:45am, 3:10pm, 6:30pm, 9:50pm), Tue 4/21 (12:00pm, 3:20pm, 6:40pm, 10:00pm), Wed 4/22 (12:25pm, 3:50pm, 6:30pm, 9:50pm)
+
+    * [Lorne](https://drafthouse.com/los-angeles/show/lorne): Fri 4/17 (11:30am, 1:45pm, 10:45pm), Sat 4/18 (11:15am, 1:45pm, 9:45pm), Sun 4/19 (11:00am, 2:00pm), Mon 4/20 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Tue 4/21 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Wed 4/22 (12:15pm, 3:15pm, 6:15pm, 10:00pm)
+
+    * [Mamma Mia Movie Party](https://drafthouse.com/los-angeles/show/mamma-mia-movie-party): Sun 5/10 (12:00pm)
+
+    * [Normal](https://drafthouse.com/los-angeles/show/normal): Fri 4/17 (1:15pm, 9:30pm), Sat 4/18 (1:15pm, 10:40pm), Sun 4/19 (1:15pm), Mon 4/20 (1:15pm, 4:00pm, 6:45pm, 9:30pm), Tue 4/21 (1:15pm, 4:00pm, 6:45pm, 9:30pm), Wed 4/22 (1:15pm, 4:00pm, 6:45pm, 9:30pm)
+
+    * [Positions](https://drafthouse.com/los-angeles/show/positions): Fri 4/17 (10:15pm), Mon 4/20 (10:30pm), Tue 4/21 (12:45pm)
+
+    * [Project Hail Mary](https://drafthouse.com/los-angeles/show/project-hail-mary): Fri 4/17 (11:00am, 2:45pm, 6:30pm, 9:00pm), Sat 4/18 (11:00am, 2:45pm, 6:30pm, 9:00pm), Sun 4/19 (11:00am, 2:45pm, 6:00pm, 6:30pm), Mon 4/20 (11:00am, 2:45pm, 6:30pm, 9:00pm), Tue 4/21 (11:00am, 2:45pm, 6:30pm, 9:00pm), Wed 4/22 (11:00am, 2:45pm, 9:15pm)
+
+    * [Sad Girl Cinema Club Romancing In Thin Air](https://drafthouse.com/los-angeles/show/sad-girl-cinema-club-romancing-in-thin-air): Fri 4/17 (1:10pm), Tue 4/21 (12:30pm), Wed 4/22 (12:35pm)
+
+    * [Special Event F K My Son Dance Freak Double Feature](https://drafthouse.com/los-angeles/show/special-event-f-k-my-son-dance-freak-double-feature): Sat 4/18 (2:10pm)
+
+    * [Terror Tuesday Hello Mary Lou Prom Night Ii](https://drafthouse.com/los-angeles/show/terror-tuesday-hello-mary-lou-prom-night-ii): Tue 5/12 (7:30pm)
+
+    * [The Big Lebowski](https://drafthouse.com/los-angeles/show/the-big-lebowski): Fri 4/17 (9:30pm), Mon 4/20 (1:00pm), Tue 4/21 (9:50pm), Wed 4/22 (3:50pm)
+
+    * [The Christophers](https://drafthouse.com/los-angeles/show/the-christophers): Fri 4/17 (11:00am, 1:45pm, 4:30pm, 7:15pm), Sat 4/18 (11:00am, 1:45pm, 4:30pm, 7:15pm), Sun 4/19 (11:15am, 2:00pm, 4:45pm, 7:30pm), Mon 4/20 (11:00am, 1:45pm, 4:30pm, 7:15pm), Tue 4/21 (11:00am, 1:45pm, 4:30pm, 7:15pm), Wed 4/22 (11:00am, 1:45pm, 4:30pm, 7:15pm)
+
+    * [The Drama](https://drafthouse.com/los-angeles/show/the-drama): Fri 4/17 (12:00pm, 3:00pm, 6:00pm, 10:15pm), Sat 4/18 (12:00pm, 3:00pm, 6:00pm, 6:45pm, 10:15pm), Sun 4/19 (12:45pm, 2:50pm, 7:00pm, 8:15pm), Mon 4/20 (12:00pm, 3:00pm, 6:00pm, 10:15pm), Tue 4/21 (12:00pm, 3:00pm, 6:00pm, 10:15pm), Wed 4/22 (11:30am, 2:30pm, 7:45pm, 10:30pm)
+
+    * [The Master 2012](https://drafthouse.com/los-angeles/show/the-master-2012): Sat 4/18 (7:15pm), Tue 4/21 (3:45pm)
+
+    * [The Super Mario Galaxy Movie](https://drafthouse.com/los-angeles/show/the-super-mario-galaxy-movie): Fri 4/17 (11:00am, 1:45pm, 4:30pm, 7:15pm, 10:00pm), Sat 4/18 (11:00am, 1:45pm, 4:30pm, 7:15pm, 10:00pm), Sun 4/19 (11:15am, 2:00pm, 4:45pm, 7:30pm), Mon 4/20 (11:00am, 1:45pm, 4:30pm, 7:15pm, 10:00pm), Tue 4/21 (1:00pm, 3:45pm, 9:30pm), Wed 4/22 (11:45am, 2:30pm, 5:15pm, 7:25pm, 10:30pm)
+
+    * [Weird Wednesday By Design](https://drafthouse.com/los-angeles/show/weird-wednesday-by-design): Wed 5/20 (7:30pm)
+
+    * [You Me Tuscany](https://drafthouse.com/los-angeles/show/you-me-tuscany): Fri 4/17 (1:40pm, 4:30pm, 7:20pm, 10:10pm), Sat 4/18 (1:40pm, 4:30pm, 7:20pm, 10:10pm), Sun 4/19 (1:00pm, 4:00pm, 7:00pm), Mon 4/20 (1:40pm, 4:30pm, 7:20pm, 10:10pm), Tue 4/21 (1:40pm, 4:30pm, 7:20pm, 10:10pm), Wed 4/22 (1:40pm, 4:30pm, 7:20pm, 10:15pm)
+
 ### Mon 4/13 2:53pm
 
 * New screenings: 
