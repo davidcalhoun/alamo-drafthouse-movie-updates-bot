@@ -1,6 +1,42 @@
 # raleigh
 
 ## Movie updates
+### Mon 4/13 7:53pm
+* New movies: Lorne, The Big Lebowski, Ferris Bueller's Day Off
+
+* New screenings: 
+    * [Exit 8](https://drafthouse.com/raleigh/show/exit-8): Thu 4/16 (5:00pm, 7:45pm, 10:30pm), Fri 4/17 (4:45pm, 7:45pm, 10:30pm), Sat 4/18 (4:45pm, 7:45pm, 10:30pm), Sun 4/19 (4:45pm, 7:45pm, 10:40pm), Mon 4/20 (4:45pm, 7:45pm, 10:40pm), Tue 4/21 (4:45pm, 7:45pm, 10:40pm), Wed 4/22 (4:45pm, 7:45pm, 10:30pm)
+
+    * [Face Off](https://drafthouse.com/raleigh/show/face-off): Tue 4/21 (3:35pm)
+
+    * [Ferris Buellers Day Off](https://drafthouse.com/raleigh/show/ferris-buellers-day-off): Fri 4/17 (8:00pm)
+
+    * [Guest Selects High Plains Drifter](https://drafthouse.com/raleigh/show/guest-selects-high-plains-drifter): Thu 4/16 (11:15am)
+
+    * [Guest Selects The Getaway 1972](https://drafthouse.com/raleigh/show/guest-selects-the-getaway-1972): Thu 4/16 (1:30pm)
+
+    * [Hoppers](https://drafthouse.com/raleigh/show/hoppers): Thu 4/16 (12:00pm), Fri 4/17 (11:45am), Sat 4/18 (11:45am), Sun 4/19 (12:00pm), Mon 4/20 (11:45am), Tue 4/21 (11:45am), Wed 4/22 (11:45am)
+
+    * [Lee Cronins The Mummy](https://drafthouse.com/raleigh/show/lee-cronins-the-mummy): Fri 4/17 (11:15am, 2:40pm), Sat 4/18 (11:15am, 2:40pm), Sun 4/19 (11:00am, 2:30pm), Mon 4/20 (11:15am, 2:35pm, 6:00pm, 9:30pm), Tue 4/21 (11:15am, 2:35pm, 6:00pm, 9:20pm), Wed 4/22 (11:30am, 3:00pm, 6:30pm, 10:00pm)
+
+    * [Lorne](https://drafthouse.com/raleigh/show/lorne): Thu 4/16 (3:00pm, 6:00pm, 9:00pm), Fri 4/17 (12:15pm, 3:15pm, 6:30pm, 9:30pm), Sat 4/18 (12:15pm, 3:15pm, 6:15pm, 9:30pm), Sun 4/19 (11:30am, 3:00pm, 6:15pm, 9:00pm), Mon 4/20 (12:30pm, 3:45pm, 6:30pm, 9:15pm), Tue 4/21 (12:30pm, 3:45pm, 6:45pm, 9:45pm), Wed 4/22 (1:00pm, 3:45pm, 6:45pm, 9:30pm)
+
+    * [Normal](https://drafthouse.com/raleigh/show/normal): Thu 4/16 (5:00pm, 10:15pm), Fri 4/17 (1:00pm, 4:15pm, 10:00pm), Sat 4/18 (1:00pm, 4:15pm, 10:00pm), Sun 4/19 (1:00pm, 4:30pm, 10:15pm), Mon 4/20 (1:15pm, 4:45pm, 7:45pm, 10:15pm), Tue 4/21 (1:15pm, 4:45pm, 7:45pm, 10:15pm), Wed 4/22 (1:30pm, 4:45pm, 7:45pm, 10:15pm)
+
+    * [Project Hail Mary](https://drafthouse.com/raleigh/show/project-hail-mary): Thu 4/16 (11:00am, 12:30pm, 2:15pm, 2:45pm, 6:15pm, 10:00pm), Fri 4/17 (11:00am, 12:30pm, 3:00pm, 4:20pm, 7:00pm, 9:15pm), Sat 4/18 (11:30am, 12:30pm, 4:00pm, 7:00pm, 7:30pm, 9:00pm), Sun 4/19 (12:30pm, 2:15pm, 6:00pm, 7:00pm, 9:45pm), Mon 4/20 (11:15am, 11:30am, 3:00pm, 3:15pm, 6:15pm, 10:15pm), Tue 4/21 (12:00pm, 2:15pm, 4:00pm, 5:30pm, 7:45pm, 9:15pm), Wed 4/22 (11:30am, 3:15pm, 6:15pm, 9:00pm)
+
+    * [Sad Girl Cinema Club Romancing In Thin Air](https://drafthouse.com/raleigh/show/sad-girl-cinema-club-romancing-in-thin-air): Mon 4/20 (10:00pm)
+
+    * [The Big Lebowski](https://drafthouse.com/raleigh/show/the-big-lebowski): Tue 4/21 (12:30pm)
+
+    * [The Drama](https://drafthouse.com/raleigh/show/the-drama): Thu 4/16 (1:00pm, 3:55pm, 6:45pm, 9:45pm), Fri 4/17 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Sat 4/18 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Sun 4/19 (12:45pm, 3:45pm, 6:45pm, 9:35pm), Mon 4/20 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Tue 4/21 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Wed 4/22 (12:35pm, 3:35pm, 6:30pm, 9:45pm)
+
+    * [The Super Mario Galaxy Movie](https://drafthouse.com/raleigh/show/the-super-mario-galaxy-movie): Thu 4/16 (11:45am, 1:00pm, 2:30pm, 2:45pm, 3:15pm, 4:00pm, 5:15pm, 5:45pm, 6:30pm, 8:00pm, 8:45pm, 9:30pm, 10:00pm), Fri 4/17 (11:00am, 1:45pm, 2:00pm, 2:45pm, 3:30pm, 4:45pm, 6:00pm, 6:30pm, 7:30pm, 9:00pm, 10:15pm), Sat 4/18 (11:00am, 1:45pm, 2:00pm, 2:45pm, 3:15pm, 4:45pm, 6:00pm, 6:30pm, 8:00pm, 9:00pm), Sun 4/19 (11:00am, 12:30pm, 1:45pm, 2:00pm, 3:15pm, 3:45pm, 4:45pm, 6:15pm, 7:30pm, 9:00pm, 10:15pm, 10:30pm), Mon 4/20 (12:00pm, 1:30pm, 1:45pm, 2:45pm, 3:15pm, 4:15pm, 6:00pm, 7:30pm, 9:00pm, 10:30pm), Tue 4/21 (11:00am, 12:00pm, 1:45pm, 2:45pm, 3:00pm, 6:30pm, 9:00pm), Wed 4/22 (12:00pm, 1:00pm, 1:45pm, 2:45pm, 3:15pm, 3:45pm, 6:00pm, 6:45pm, 9:00pm, 10:15pm)
+
+    * [They Will Kill You](https://drafthouse.com/raleigh/show/they-will-kill-you): Thu 4/16 (12:15pm, 2:00pm)
+
+    * [You Me Tuscany](https://drafthouse.com/raleigh/show/you-me-tuscany): Thu 4/16 (11:30am, 4:15pm, 7:15pm, 10:15pm), Fri 4/17 (1:00pm, 4:30pm, 7:30pm, 10:30pm), Sat 4/18 (1:00pm, 4:15pm, 7:15pm, 10:15pm), Sun 4/19 (11:15am, 4:15pm, 7:15pm, 10:30pm), Mon 4/20 (1:15pm, 4:15pm, 7:15pm, 10:00pm), Tue 4/21 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Wed 4/22 (12:00pm, 3:00pm, 6:00pm, 10:00pm)
+
 ### Fri 4/10 1:54pm
 * New movies: Kiss Me Deadly
 
