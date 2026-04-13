@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 4/13 1:58pm
+
+* New screenings: 
+    * [I Swear](https://drafthouse.com/los-angeles/show/i-swear): Thu 4/23 (6:45pm), Fri 4/24 (7:15pm), Sat 4/25 (7:15pm), Sun 4/26 (7:15pm)
+
 ### Mon 4/13 12:18pm
 * New movies: Ferris Bueller's Day Off
 
