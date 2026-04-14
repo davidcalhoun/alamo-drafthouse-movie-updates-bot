@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 4/14 11:20am
+* New movies: Godzilla vs. Hedorah
+
+* New screenings: 
+    * [Godzilla Vs Hedorah](https://drafthouse.com/raleigh/show/godzilla-vs-hedorah): Sat 5/30 (4:00pm), Sun 5/31 (4:00pm)
+
 ### Mon 4/13 7:53pm
 * New movies: Lorne, The Big Lebowski, Ferris Bueller's Day Off
 
