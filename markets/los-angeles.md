@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 4/14 10:14am
+* New movies: Wayne's World
+
+* New screenings: 
+    * [Free Victory Screening Waynes World](https://drafthouse.com/los-angeles/show/free-victory-screening-waynes-world): Wed 4/29 (7:00pm)
+
 ### Tue 4/14 6:54am
 * New movies: Godzilla vs. Hedorah
 
