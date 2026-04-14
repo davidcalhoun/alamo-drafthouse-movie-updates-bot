@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 4/14 6:54am
+* New movies: Godzilla vs. Hedorah
+
+* New screenings: 
+    * [Godzilla Vs Hedorah](https://drafthouse.com/los-angeles/show/godzilla-vs-hedorah): Sun 5/31 (4:00pm)
+
 ### Mon 4/13 4:49pm
 * New movies: Marama
 
