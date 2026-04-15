@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Wed 4/15 11:13am
+* New movies: Hokum, The Sheep Detectives, Hokum
+
+* New screenings: 
+    * [Advance Screening Hokum](https://drafthouse.com/raleigh/show/advance-screening-hokum): Tue 4/21 (6:00pm)
+
+    * [Hokum](https://drafthouse.com/raleigh/show/hokum): Thu 4/30 (7:15pm, 10:15pm), Fri 5/1 (7:15pm, 10:15pm), Sat 5/2 (7:15pm, 10:15pm), Sun 5/3 (7:15pm, 10:15pm)
+
+    * [The Sheep Detectives](https://drafthouse.com/raleigh/show/the-sheep-detectives): Thu 5/7 (6:15pm), Fri 5/8 (6:15pm), Sat 5/9 (6:15pm), Sun 5/10 (6:15pm)
+
 ### Tue 4/14 11:20am
 * New movies: Godzilla vs. Hedorah
 
