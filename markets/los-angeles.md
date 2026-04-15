@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 4/15 8:08am
+* New movies: Hokum, Hokum
+
+* New screenings: 
+    * [Advance Screening Hokum](https://drafthouse.com/los-angeles/show/advance-screening-hokum): Tue 4/21 (6:30pm)
+
+    * [Hokum](https://drafthouse.com/los-angeles/show/hokum): Thu 4/30 (7:15pm, 10:15pm), Fri 5/1 (7:00pm, 10:00pm), Sat 5/2 (7:00pm, 10:00pm), Sun 5/3 (7:00pm)
+
 ### Tue 4/14 10:27pm
 
 * New screenings: 
