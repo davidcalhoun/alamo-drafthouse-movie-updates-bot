@@ -1,6 +1,15 @@
 # los-angeles
 
 ## Movie updates
+### Tue 4/14 10:27pm
+
+* New screenings: 
+    * [Queer Film Theory 101 Celine And Julie Go Boating](https://drafthouse.com/los-angeles/show/queer-film-theory-101-celine-and-julie-go-boating): Tue 4/28 (3:00pm)
+
+    * [Terror Of Mechagodzilla](https://drafthouse.com/los-angeles/show/terror-of-mechagodzilla): Fri 4/24 (3:50pm), Sat 4/25 (11:00am, 1:30pm, 4:00pm), Sun 4/26 (8:35pm), Mon 4/27 (3:40pm), Wed 4/29 (4:25pm)
+
+    * [Tomorrow Never Dies](https://drafthouse.com/los-angeles/show/tomorrow-never-dies): Fri 4/24 (6:30pm), Mon 4/27 (8:45pm)
+
 ### Tue 4/14 10:14am
 * New movies: Wayne's World
 
