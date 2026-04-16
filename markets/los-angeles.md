@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 4/16 1:53pm
+* New movies: Death Becomes Her
+
+* New screenings: 
+    * [Movie Party Death Becomes Her](https://drafthouse.com/los-angeles/show/movie-party-death-becomes-her): Wed 6/3 (7:15pm)
+
 ### Thu 4/16 12:21pm
 * New movies: Mamma Mia!
 
