@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 4/16 6:56am
+* New movies: Billie Eilish - Hit Me Hard and Soft: The Tour Live in 3D
+
+* New screenings: 
+    * [Billie Eilish Hit Me Hard And Soft The Tour Live In 3d](https://drafthouse.com/los-angeles/show/billie-eilish-hit-me-hard-and-soft-the-tour-live-in-3d): Thu 5/7 (7:15pm), Fri 5/8 (7:15pm), Sat 5/9 (7:15pm), Sun 5/10 (7:15pm)
+
 ### Wed 4/15 8:08am
 * New movies: Hokum, Hokum
 
