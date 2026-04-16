@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 4/16 10:08am
+* New movies: Billie Eilish - Hit Me Hard and Soft: The Tour Live in 3D
+
+* New screenings: 
+    * [Billie Eilish Hit Me Hard And Soft The Tour Live In 3d](https://drafthouse.com/raleigh/show/billie-eilish-hit-me-hard-and-soft-the-tour-live-in-3d): Thu 5/7 (6:30pm), Fri 5/8 (6:30pm), Sat 5/9 (6:30pm), Sun 5/10 (6:30pm)
+
 ### Wed 4/15 11:13am
 * New movies: Hokum, The Sheep Detectives, Hokum
 
