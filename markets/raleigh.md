@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Thu 4/16 7:52pm
+
+* New screenings: 
+    * [The Super Mario Galaxy Movie](https://drafthouse.com/raleigh/show/the-super-mario-galaxy-movie): Sun 4/19 (6:30pm)
+
 ### Thu 4/16 10:08am
 * New movies: Billie Eilish - Hit Me Hard and Soft: The Tour Live in 3D
 
