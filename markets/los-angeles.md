@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 4/16 12:21pm
+* New movies: Mamma Mia!
+
+
+
 ### Thu 4/16 6:56am
 * New movies: Billie Eilish - Hit Me Hard and Soft: The Tour Live in 3D
 
