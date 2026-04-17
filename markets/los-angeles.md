@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 4/17 7:59am
+* New movies: Trainspotting
+
+* New screenings: 
+    * [Special Event Trainspotting 30th Anniversary](https://drafthouse.com/los-angeles/show/special-event-trainspotting-30th-anniversary): Thu 6/4 (7:15pm, 10:00pm), Sun 6/7 (4:00pm, 6:45pm)
+
 ### Fri 4/17 6:39am
 * New movies: Star Wars: The Mandalorian and Grogu
 
