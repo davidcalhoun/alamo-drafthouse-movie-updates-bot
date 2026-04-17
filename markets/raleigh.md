@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 4/17 9:51am
+* New movies: Star Wars: The Mandalorian and Grogu
+
+* New screenings: 
+    * [Star Wars The Mandalorian And Grogu](https://drafthouse.com/raleigh/show/star-wars-the-mandalorian-and-grogu): Thu 5/21 (2:30pm, 6:00pm, 9:30pm), Fri 5/22 (9:00am, 12:20pm, 3:45pm, 7:05pm, 10:30pm), Sat 5/23 (9:00am, 12:25pm, 3:45pm, 7:05pm, 10:30pm), Sun 5/24 (9:00am, 12:20pm, 3:45pm, 7:05pm, 10:30pm), Mon 5/25 (9:35am, 12:55pm, 4:15pm, 7:35pm, 10:20pm), Tue 5/26 (2:30pm, 6:00pm, 9:30pm), Wed 5/27 (11:00am, 2:30pm, 6:00pm, 9:30pm), Thu 5/28 (11:00am, 2:30pm, 6:00pm, 9:30pm)
+
 ### Thu 4/16 7:52pm
 
 * New screenings: 
