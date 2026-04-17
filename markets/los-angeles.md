@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 4/17 2:48pm
+* New movies: Blue Heron
+
+* New screenings: 
+    * [Blue Heron](https://drafthouse.com/los-angeles/show/blue-heron): Fri 4/24 (4:45pm, 7:30pm), Sat 4/25 (4:45pm, 7:30pm), Sun 4/26 (4:45pm, 7:30pm), Mon 4/27 (4:45pm, 7:30pm), Tue 4/28 (4:45pm, 7:30pm), Wed 4/29 (4:45pm, 7:30pm)
+
 ### Fri 4/17 7:59am
 * New movies: Trainspotting
 
