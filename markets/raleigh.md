@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 4/17 11:05am
+* New movies: Trainspotting
+
+* New screenings: 
+    * [Special Event Trainspotting 30th Anniversary](https://drafthouse.com/raleigh/show/special-event-trainspotting-30th-anniversary): Thu 6/4 (6:30pm, 9:30pm), Sun 6/7 (3:30pm, 6:30pm)
+
 ### Fri 4/17 9:51am
 * New movies: Star Wars: The Mandalorian and Grogu
 
