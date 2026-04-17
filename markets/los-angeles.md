@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 4/17 6:39am
+* New movies: Star Wars: The Mandalorian and Grogu
+
+* New screenings: 
+    * [Star Wars The Mandalorian And Grogu](https://drafthouse.com/los-angeles/show/star-wars-the-mandalorian-and-grogu): Thu 5/21 (3:00pm, 6:30pm, 10:00pm), Fri 5/22 (11:30am, 3:00pm, 6:30pm, 10:00pm), Sat 5/23 (10:00am, 12:00pm, 3:30pm, 7:00pm, 10:30pm), Sun 5/24 (10:00am, 12:00pm, 3:30pm, 7:00pm, 10:30pm), Mon 5/25 (11:00am, 2:30pm, 6:00pm, 9:30pm), Tue 5/26 (11:30am, 3:00pm, 6:30pm, 10:00pm), Wed 5/27 (11:30am, 3:00pm, 6:30pm, 10:00pm)
+
 ### Thu 4/16 1:53pm
 * New movies: Death Becomes Her
 
