@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 4/17 5:54pm
+
+* New screenings: 
+    * [Terror Of Mechagodzilla](https://drafthouse.com/raleigh/show/terror-of-mechagodzilla): Fri 4/24 (1:45pm, 4:25pm), Sun 4/26 (2:35pm), Wed 4/29 (4:25pm)
+
 ### Fri 4/17 11:05am
 * New movies: Trainspotting
 
