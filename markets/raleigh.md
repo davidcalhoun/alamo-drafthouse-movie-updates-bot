@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Sat 4/18 3:03pm
+* New movies: Death Becomes Her, By Design
+
+* New screenings: 
+    * [Movie Party Death Becomes Her](https://drafthouse.com/raleigh/show/movie-party-death-becomes-her): Wed 6/3 (7:00pm)
+
+    * [Steal This Story Please](https://drafthouse.com/raleigh/show/steal-this-story-please): Sat 5/16 (3:00pm, 7:00pm), Sun 5/17 (3:15pm, 6:00pm)
+
+    * [Weird Wednesday By Design](https://drafthouse.com/raleigh/show/weird-wednesday-by-design): Wed 5/20 (8:00pm)
+
 ### Sat 4/18 1:47pm
 * New movies: Mamma Mia!, Hello Mary Lou: Prom Night II, Steal This Story, Please!
 
