@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Sat 4/18 5:46pm
+* New movies: Marama
+
+* New screenings: 
+    * [Marama](https://drafthouse.com/raleigh/show/marama): Tue 5/5 (6:30pm)
+
 ### Sat 4/18 3:03pm
 * New movies: Death Becomes Her, By Design
 
