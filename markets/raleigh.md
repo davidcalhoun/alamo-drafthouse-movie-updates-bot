@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Sat 4/18 1:47pm
+* New movies: Mamma Mia!, Hello Mary Lou: Prom Night II, Steal This Story, Please!
+
+* New screenings: 
+    * [Movie Party Mamma Mia](https://drafthouse.com/raleigh/show/movie-party-mamma-mia): Sun 5/10 (12:00pm)
+
+    * [Steal This Story Please](https://drafthouse.com/raleigh/show/steal-this-story-please): Fri 5/15 (7:00pm)
+
+    * [Terror Tuesday Hello Mary Lou Prom Night Ii](https://drafthouse.com/raleigh/show/terror-tuesday-hello-mary-lou-prom-night-ii): Tue 5/12 (9:30pm)
+
 ### Fri 4/17 5:54pm
 
 * New screenings: 
