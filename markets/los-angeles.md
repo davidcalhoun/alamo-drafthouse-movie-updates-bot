@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 4/20 12:12pm
+* New movies: The School Duel
+
+* New screenings: 
+    * [Live Q A The School Duel](https://drafthouse.com/los-angeles/show/live-q-a-the-school-duel): Fri 5/1 (10:00pm)
+
 ### Mon 4/20 8:18am
 * New movies: The Handmaiden, Mystery Voyage, Funeral Parade of Roses, Frances Ha, Adaptation., Mission: Impossible, Serial Mom, The Bridges of Madison County, Carrie 1976, Carrie 1976
 
