@@ -1,6 +1,36 @@
 # raleigh
 
 ## Movie updates
+### Mon 4/20 4:57pm
+* New movies: Mother Mary
+
+* New screenings: 
+    * [Exit 8](https://drafthouse.com/raleigh/show/exit-8): Thu 4/23 (9:00pm), Fri 4/24 (10:15pm), Sat 4/25 (10:30pm), Sun 4/26 (10:40pm), Mon 4/27 (10:00pm), Tue 4/28 (9:15pm), Wed 4/29 (9:00pm)
+
+    * [Lee Cronins The Mummy](https://drafthouse.com/raleigh/show/lee-cronins-the-mummy): Thu 4/23 (11:30am, 2:50pm, 6:15pm, 9:35pm), Fri 4/24 (12:30pm, 3:55pm, 7:15pm, 10:35pm), Sat 4/25 (12:30pm, 3:55pm, 7:15pm, 10:35pm), Sun 4/26 (11:45am, 3:45pm, 7:15pm, 10:15pm), Mon 4/27 (12:00pm, 3:35pm, 7:00pm, 10:30pm), Tue 4/28 (11:15am, 2:45pm, 6:15pm, 9:45pm), Wed 4/29 (12:15pm, 3:40pm, 7:00pm, 10:30pm)
+
+    * [Lorne](https://drafthouse.com/raleigh/show/lorne): Thu 4/23 (12:00pm)
+
+    * [Michael 2026](https://drafthouse.com/raleigh/show/michael-2026): Thu 4/23 (12:00pm, 2:45pm, 3:15pm, 4:15pm, 6:00pm, 6:30pm, 9:45pm), Fri 4/24 (12:00pm, 12:30pm, 3:15pm, 3:45pm, 4:15pm, 6:30pm, 7:00pm, 10:30pm), Sat 4/25 (11:00am, 1:30pm, 2:15pm, 2:35pm, 5:30pm, 6:00pm, 6:30pm, 8:45pm, 9:15pm), Sun 4/26 (11:30am, 2:45pm, 3:00pm, 4:15pm, 6:00pm, 6:30pm, 9:15pm), Mon 4/27 (12:00pm, 12:30pm, 1:00pm, 2:00pm, 3:15pm, 4:15pm, 4:15pm, 5:15pm, 7:35pm, 8:30pm, 9:45pm), Tue 4/28 (12:00pm, 12:30pm, 1:00pm, 3:15pm, 3:45pm, 4:15pm, 4:15pm, 6:00pm, 6:30pm, 9:45pm, 10:15pm), Wed 4/29 (11:15am, 12:45pm, 1:15pm, 2:30pm, 3:00pm, 4:00pm, 4:15pm, 6:00pm, 7:30pm, 9:15pm, 10:15pm)
+
+    * [Mother Mary](https://drafthouse.com/raleigh/show/mother-mary): Thu 4/23 (4:00pm, 7:15pm, 10:15pm), Fri 4/24 (12:45pm, 3:45pm, 4:35pm, 7:00pm, 7:45pm, 10:15pm), Sat 4/25 (12:45pm, 3:45pm, 6:45pm, 10:45pm), Sun 4/26 (12:15pm, 3:30pm, 5:15pm, 6:15pm, 8:15pm, 9:15pm), Mon 4/27 (12:45pm, 3:45pm, 3:45pm, 6:45pm, 10:00pm), Tue 4/28 (12:45pm, 2:45pm, 4:00pm, 7:00pm, 10:45pm), Wed 4/29 (12:30pm, 1:30pm, 3:30pm, 6:30pm, 10:30pm)
+
+    * [Normal](https://drafthouse.com/raleigh/show/normal): Thu 4/23 (1:00pm, 3:30pm, 6:00pm, 9:15pm), Fri 4/24 (1:00pm, 4:15pm, 7:30pm, 10:40pm), Sat 4/25 (12:45pm, 4:45pm, 7:45pm, 10:30pm), Sun 4/26 (1:30pm, 5:00pm, 7:35pm, 10:40pm), Mon 4/27 (1:30pm, 4:30pm, 7:15pm), Tue 4/28 (12:15pm, 12:45pm, 3:15pm, 6:30pm), Wed 4/29 (11:45am, 2:45pm, 6:00pm)
+
+    * [Over Your Dead Body 2026](https://drafthouse.com/raleigh/show/over-your-dead-body-2026): Thu 4/23 (10:30pm), Fri 4/24 (10:20pm), Sat 4/25 (4:30pm), Sun 4/26 (10:30pm), Mon 4/27 (6:50pm, 10:15pm), Tue 4/28 (7:30pm, 10:30pm), Wed 4/29 (6:15pm, 10:00pm)
+
+    * [Project Hail Mary](https://drafthouse.com/raleigh/show/project-hail-mary): Thu 4/23 (11:30am, 2:45pm, 3:15pm, 7:00pm, 9:50pm), Fri 4/24 (11:30am, 2:45pm, 6:30pm, 10:00pm), Sat 4/25 (11:15am, 3:15pm, 7:00pm, 9:45pm), Sun 4/26 (1:15pm, 3:15pm, 7:00pm, 9:45pm), Mon 4/27 (11:15am, 2:15pm, 6:15pm, 9:45pm), Tue 4/28 (11:00am, 3:00pm, 7:00pm, 10:00pm), Wed 4/29 (11:45am, 2:45pm, 6:30pm, 9:30pm)
+
+    * [Terror Of Mechagodzilla](https://drafthouse.com/raleigh/show/terror-of-mechagodzilla): Fri 4/24 (11:00am)
+
+    * [The Drama](https://drafthouse.com/raleigh/show/the-drama): Thu 4/23 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Fri 4/24 (11:45am, 3:00pm, 6:15pm, 9:30pm), Sat 4/25 (11:45am, 3:00pm, 6:00pm, 9:15pm), Sun 4/26 (11:30am, 2:45pm, 6:00pm, 9:00pm), Mon 4/27 (11:45am, 2:45pm, 6:00pm, 9:00pm), Tue 4/28 (11:30am, 2:30pm, 6:00pm, 9:00pm), Wed 4/29 (11:30am, 4:25pm, 7:15pm, 10:15pm)
+
+    * [The Master 2012](https://drafthouse.com/raleigh/show/the-master-2012): Thu 4/23 (12:00pm)
+
+    * [The Super Mario Galaxy Movie](https://drafthouse.com/raleigh/show/the-super-mario-galaxy-movie): Thu 4/23 (12:00pm, 12:30pm, 3:30pm, 6:15pm, 9:00pm), Fri 4/24 (12:00pm, 3:15pm, 6:00pm, 9:00pm), Sat 4/25 (12:15pm, 3:30pm, 6:15pm, 9:00pm), Sun 4/26 (12:00pm, 12:30pm, 3:30pm, 6:15pm, 9:00pm), Mon 4/27 (11:30am, 3:00pm, 6:00pm, 9:00pm), Tue 4/28 (12:15pm, 3:30pm, 6:15pm, 9:00pm), Wed 4/29 (12:00pm, 3:30pm, 6:15pm, 9:00pm)
+
+    * [You Me Tuscany](https://drafthouse.com/raleigh/show/you-me-tuscany): Thu 4/23 (1:00pm), Fri 4/24 (1:00pm), Sat 4/25 (1:30pm), Sun 4/26 (1:00pm), Mon 4/27 (1:00pm), Tue 4/28 (1:15pm), Wed 4/29 (1:15pm)
+
 ### Mon 4/20 11:38am
 * New movies: The Handmaiden, Mystery Voyage, Frances Ha, Sorry to Bother You, Adaptation., Mission: Impossible, Serial Mom, The Bridges of Madison County, Carrie 1976, Carrie 1976
 
