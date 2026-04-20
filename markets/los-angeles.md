@@ -1,6 +1,28 @@
 # los-angeles
 
 ## Movie updates
+### Mon 4/20 8:18am
+* New movies: The Handmaiden, Mystery Voyage, Funeral Parade of Roses, Frances Ha, Adaptation., Mission: Impossible, Serial Mom, The Bridges of Madison County, Carrie 1976, Carrie 1976
+
+* New screenings: 
+    * [Adaptation](https://drafthouse.com/los-angeles/show/adaptation): Sat 5/23 (3:00pm)
+
+    * [Agfadrome Mystery Voyage May 2026](https://drafthouse.com/los-angeles/show/agfadrome-mystery-voyage-may-2026): Mon 6/1 (10:15pm)
+
+    * [Alamo Drafthouse Movie Book Club The Handmaiden](https://drafthouse.com/los-angeles/show/alamo-drafthouse-movie-book-club-the-handmaiden): Sat 5/30 (3:00pm)
+
+    * [Mission Impossible](https://drafthouse.com/los-angeles/show/mission-impossible): Mon 6/1 (7:15pm)
+
+    * [Psycho Cinema Carrie 1976](https://drafthouse.com/los-angeles/show/psycho-cinema-carrie-1976): Sun 5/24 (4:00pm)
+
+    * [Queer Film Theory 101 Funeral Parade Of Roses](https://drafthouse.com/los-angeles/show/queer-film-theory-101-funeral-parade-of-roses): Mon 5/25 (7:15pm)
+
+    * [Sad Girl Cinema Club Frances Ha](https://drafthouse.com/los-angeles/show/sad-girl-cinema-club-frances-ha): Sun 5/31 (6:40pm)
+
+    * [Serial Mom](https://drafthouse.com/los-angeles/show/serial-mom): Sat 5/9 (12:00pm)
+
+    * [The Bridges Of Madison County](https://drafthouse.com/los-angeles/show/the-bridges-of-madison-county): Sat 5/16 (3:15pm)
+
 ### Fri 4/17 2:48pm
 * New movies: Blue Heron
 
