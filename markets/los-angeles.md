@@ -1,6 +1,58 @@
 # los-angeles
 
 ## Movie updates
+### Mon 4/20 3:50pm
+* New movies: Everyone Is Lying to You for Money, Strange Journey: The Story of Rocky Horror
+
+* New screenings: 
+    * [A Little Something Extra](https://drafthouse.com/los-angeles/show/a-little-something-extra): Thu 4/23 (12:45pm, 3:45pm)
+
+    * [Blue Heron](https://drafthouse.com/los-angeles/show/blue-heron): Fri 4/24 (11:15am, 2:00pm), Sat 4/25 (11:15am, 2:00pm), Sun 4/26 (11:15am, 2:00pm), Mon 4/27 (11:15am, 2:00pm), Tue 4/28 (11:15am, 2:00pm), Wed 4/29 (11:15am, 2:00pm)
+
+    * [Everyone Is Lying To You For Money](https://drafthouse.com/los-angeles/show/everyone-is-lying-to-you-for-money): Fri 4/24 (9:15pm), Sat 4/25 (9:15pm), Sun 4/26 (3:30pm), Mon 4/27 (9:15pm), Tue 4/28 (9:15pm), Wed 4/29 (9:15pm)
+
+    * [Exit 8](https://drafthouse.com/los-angeles/show/exit-8): Thu 4/23 (1:30pm, 10:45pm), Fri 4/24 (10:40pm), Sat 4/25 (10:00pm), Mon 4/27 (10:45pm), Tue 4/28 (10:30pm), Wed 4/29 (10:45pm)
+
+    * [Fight Club 4k Remaster](https://drafthouse.com/los-angeles/show/fight-club-4k-remaster): Thu 4/23 (3:45pm), Fri 4/24 (12:15pm), Tue 4/28 (12:45pm), Wed 4/29 (10:00pm)
+
+    * [Hamlet 2026](https://drafthouse.com/los-angeles/show/hamlet-2026): Thu 4/23 (7:00pm, 10:30pm)
+
+    * [I Swear](https://drafthouse.com/los-angeles/show/i-swear): Thu 4/23 (10:00pm), Fri 4/24 (12:45pm, 4:00pm, 10:00pm), Sat 4/25 (12:45pm, 4:00pm, 10:30pm), Sun 4/26 (12:45pm, 4:00pm), Mon 4/27 (12:45pm, 4:00pm, 7:15pm, 10:15pm), Tue 4/28 (12:45pm, 4:00pm, 7:15pm, 10:00pm), Wed 4/29 (12:45pm, 4:00pm, 7:15pm, 10:15pm)
+
+    * [Lee Cronins The Mummy](https://drafthouse.com/los-angeles/show/lee-cronins-the-mummy): Thu 4/23 (11:15am, 2:45pm, 6:15pm, 10:00pm), Fri 4/24 (11:45am, 3:15pm, 6:45pm, 10:15pm), Sat 4/25 (11:45am, 3:15pm, 6:45pm, 10:15pm), Sun 4/26 (11:45am, 3:15pm, 6:45pm), Mon 4/27 (11:45am, 3:15pm, 6:45pm, 10:15pm), Tue 4/28 (11:45am, 3:15pm, 6:45pm, 10:15pm), Wed 4/29 (11:45am, 3:15pm, 6:45pm, 10:15pm)
+
+    * [Lorne](https://drafthouse.com/los-angeles/show/lorne): Thu 4/23 (12:45pm, 4:00pm), Fri 4/24 (12:45pm), Mon 4/27 (12:45pm), Wed 4/29 (12:15pm)
+
+    * [Michael 2026](https://drafthouse.com/los-angeles/show/michael-2026): Thu 4/23 (4:20pm, 7:45pm), Fri 4/24 (7:15pm), Sat 4/25 (6:30pm), Sun 4/26 (2:35pm)
+
+    * [Mother Mary](https://drafthouse.com/los-angeles/show/mother-mary): Thu 4/23 (4:30pm, 9:45pm), Fri 4/24 (12:15pm, 10:30pm), Sat 4/25 (12:15pm, 10:30pm), Sun 4/26 (12:15pm), Mon 4/27 (12:15pm, 3:15pm, 6:15pm, 10:30pm), Tue 4/28 (12:15pm, 3:15pm, 6:15pm, 9:45pm), Wed 4/29 (12:15pm, 3:15pm, 6:15pm, 9:45pm)
+
+    * [Normal](https://drafthouse.com/los-angeles/show/normal): Thu 4/23 (6:30pm, 9:15pm), Fri 4/24 (3:45pm, 6:30pm), Sat 4/25 (1:00pm, 3:45pm, 6:30pm), Sun 4/26 (12:45pm, 6:15pm), Mon 4/27 (3:45pm, 6:30pm), Tue 4/28 (3:45pm, 6:30pm), Wed 4/29 (1:00pm, 3:45pm, 6:30pm)
+
+    * [Over Your Dead Body 2026](https://drafthouse.com/los-angeles/show/over-your-dead-body-2026): Mon 4/27 (7:00pm, 10:00pm), Tue 4/28 (7:00pm, 10:00pm), Wed 4/29 (7:00pm, 10:00pm)
+
+    * [Project Hail Mary](https://drafthouse.com/los-angeles/show/project-hail-mary): Thu 4/23 (12:00pm, 3:45pm, 6:00pm, 8:45pm), Fri 4/24 (11:30am, 3:15pm, 6:45pm, 9:15pm), Sat 4/25 (11:45am, 3:30pm, 6:15pm, 9:15pm), Sun 4/26 (11:30am, 3:15pm, 7:00pm), Mon 4/27 (11:45am, 3:30pm, 6:45pm, 9:15pm), Tue 4/28 (11:30am, 3:15pm, 8:00pm, 9:15pm), Wed 4/29 (11:15am, 3:00pm, 9:15pm)
+
+    * [Queer Film Theory 101 Celine And Julie Go Boating](https://drafthouse.com/los-angeles/show/queer-film-theory-101-celine-and-julie-go-boating): Sun 4/26 (11:00am), Wed 4/29 (3:15pm)
+
+    * [Strange Journey The Story Of Rocky Horror](https://drafthouse.com/los-angeles/show/strange-journey-the-story-of-rocky-horror): Fri 4/24 (10:30pm), Sat 4/25 (10:15pm), Mon 4/27 (10:30pm), Tue 4/28 (10:30pm), Wed 4/29 (10:30pm)
+
+    * [Terror Of Mechagodzilla](https://drafthouse.com/los-angeles/show/terror-of-mechagodzilla): Fri 4/24 (1:30pm), Tue 4/28 (1:15pm)
+
+    * [The Big Lebowski](https://drafthouse.com/los-angeles/show/the-big-lebowski): Thu 4/23 (1:15pm)
+
+    * [The Christophers](https://drafthouse.com/los-angeles/show/the-christophers): Thu 4/23 (1:00pm), Fri 4/24 (1:00pm, 10:00pm), Sat 4/25 (1:00pm, 7:00pm), Sun 4/26 (1:00pm), Mon 4/27 (1:00pm, 4:00pm), Tue 4/28 (1:00pm, 4:00pm), Wed 4/29 (1:00pm, 4:00pm)
+
+    * [The Drama](https://drafthouse.com/los-angeles/show/the-drama): Thu 4/23 (12:00pm, 3:00pm, 7:30pm, 10:30pm), Fri 4/24 (12:45pm, 3:45pm, 7:00pm, 10:15pm), Sat 4/25 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Sun 4/26 (11:30am, 3:30pm, 6:30pm), Mon 4/27 (12:45pm, 3:45pm, 7:15pm, 10:15pm), Tue 4/28 (12:45pm, 4:00pm, 7:00pm, 10:15pm), Wed 4/29 (1:15pm, 4:15pm, 10:15pm)
+
+    * [The Master 2012](https://drafthouse.com/los-angeles/show/the-master-2012): Thu 4/23 (12:15pm)
+
+    * [The Super Mario Galaxy Movie](https://drafthouse.com/los-angeles/show/the-super-mario-galaxy-movie): Thu 4/23 (12:30pm, 3:15pm, 6:00pm, 9:45pm), Fri 4/24 (12:30pm, 3:15pm, 6:00pm, 8:45pm), Sat 4/25 (12:30pm, 3:15pm, 6:00pm, 8:45pm), Sun 4/26 (12:30pm, 3:15pm, 6:00pm), Mon 4/27 (12:15pm, 3:15pm, 6:00pm, 8:45pm), Tue 4/28 (12:30pm, 3:15pm, 6:00pm, 8:45pm), Wed 4/29 (12:30pm, 3:15pm, 6:00pm, 8:45pm)
+
+    * [Tomorrow Never Dies](https://drafthouse.com/los-angeles/show/tomorrow-never-dies): Tue 4/28 (11:45am)
+
+    * [You Me Tuscany](https://drafthouse.com/los-angeles/show/you-me-tuscany): Thu 4/23 (1:00pm, 3:40pm), Fri 4/24 (4:15pm), Mon 4/27 (3:00pm), Wed 4/29 (1:30pm)
+
 ### Mon 4/20 12:12pm
 * New movies: The School Duel
 
