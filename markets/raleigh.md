@@ -1,6 +1,28 @@
 # raleigh
 
 ## Movie updates
+### Mon 4/20 11:38am
+* New movies: The Handmaiden, Mystery Voyage, Frances Ha, Sorry to Bother You, Adaptation., Mission: Impossible, Serial Mom, The Bridges of Madison County, Carrie 1976, Carrie 1976
+
+* New screenings: 
+    * [Adaptation](https://drafthouse.com/raleigh/show/adaptation): Sat 5/23 (3:15pm)
+
+    * [Agfadrome Mystery Voyage May 2026](https://drafthouse.com/raleigh/show/agfadrome-mystery-voyage-may-2026): Mon 6/1 (10:00pm)
+
+    * [Alamo Drafthouse Movie Book Club The Handmaiden](https://drafthouse.com/raleigh/show/alamo-drafthouse-movie-book-club-the-handmaiden): Sat 5/30 (2:15pm)
+
+    * [Mission Impossible](https://drafthouse.com/raleigh/show/mission-impossible): Mon 6/1 (7:00pm)
+
+    * [Psycho Cinema Carrie 1976](https://drafthouse.com/raleigh/show/psycho-cinema-carrie-1976): Sun 5/24 (3:15pm)
+
+    * [Sad Girl Cinema Club Frances Ha](https://drafthouse.com/raleigh/show/sad-girl-cinema-club-frances-ha): Sun 5/31 (7:00pm)
+
+    * [Serial Mom](https://drafthouse.com/raleigh/show/serial-mom): Sat 5/9 (1:00pm)
+
+    * [Sorry To Bother You](https://drafthouse.com/raleigh/show/sorry-to-bother-you): Fri 5/15 (10:00pm)
+
+    * [The Bridges Of Madison County](https://drafthouse.com/raleigh/show/the-bridges-of-madison-county): Sat 5/16 (3:30pm)
+
 ### Sat 4/18 5:46pm
 * New movies: Marama
 
