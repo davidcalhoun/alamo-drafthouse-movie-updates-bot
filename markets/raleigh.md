@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 4/21 11:22am
+
+* New screenings: 
+    * [Project Hail Mary](https://drafthouse.com/raleigh/show/project-hail-mary): Wed 4/22 (2:30pm)
+
 ### Mon 4/20 4:57pm
 * New movies: Mother Mary
 
