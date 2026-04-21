@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 4/21 12:18pm
+* New movies: Buffet Infinity
+
+* New screenings: 
+    * [Buffet Infinity](https://drafthouse.com/los-angeles/show/buffet-infinity): Sat 4/25 (8:45pm)
+
+    * [Live Q A The School Duel](https://drafthouse.com/los-angeles/show/live-q-a-the-school-duel): Sat 5/2 (7:00pm)
+
 ### Mon 4/20 3:50pm
 * New movies: Everyone Is Lying to You for Money, Strange Journey: The Story of Rocky Horror
 
