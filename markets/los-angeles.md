@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 4/22 6:52am
+* New movies: Is God Is
+
+* New screenings: 
+    * [Livestream Q A Is God Is](https://drafthouse.com/los-angeles/show/livestream-q-a-is-god-is): Tue 4/28 (5:00pm)
+
 ### Tue 4/21 12:18pm
 * New movies: Buffet Infinity
 
