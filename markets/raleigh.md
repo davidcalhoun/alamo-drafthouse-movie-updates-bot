@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Wed 4/22 1:10pm
+
+* New screenings: 
+    * [Exit 8](https://drafthouse.com/raleigh/show/exit-8): Wed 4/22 (5:00pm)
+
 ### Wed 4/22 10:02am
 * New movies: Is God Is
 
