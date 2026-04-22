@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 4/22 10:02am
+* New movies: Is God Is
+
+* New screenings: 
+    * [Livestream Q A Is God Is](https://drafthouse.com/raleigh/show/livestream-q-a-is-god-is): Tue 4/28 (8:00pm)
+
 ### Tue 4/21 11:22am
 
 * New screenings: 
