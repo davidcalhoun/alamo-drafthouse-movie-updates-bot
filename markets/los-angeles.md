@@ -1,6 +1,34 @@
 # los-angeles
 
 ## Movie updates
+### Thu 4/23 12:17pm
+* New movies: Mortal Kombat II, Holy Motors, Mishima: A Life in Four Chapters, Playtime, Sorry to Bother You, Dressed to Kill 1980, Nesting, Sisters 1973, AGUIRRE, THE WRATH OF GOD, DON'T GO IN THE HOUSE, TICKS
+
+* New screenings: 
+    * [Aguirre The Wrath Of God](https://drafthouse.com/los-angeles/show/aguirre-the-wrath-of-god): Wed 6/3 (7:00pm)
+
+    * [Dressed To Kill 1980](https://drafthouse.com/los-angeles/show/dressed-to-kill-1980): Fri 6/12 (9:45pm)
+
+    * [Fan Event Mortal Kombat Ii Mothers Day Fan Screening](https://drafthouse.com/los-angeles/show/fan-event-mortal-kombat-ii-mothers-day-fan-screening): Sun 5/10 (3:00pm)
+
+    * [Guest Selects Holy Motors](https://drafthouse.com/los-angeles/show/guest-selects-holy-motors): Sat 5/9 (2:45pm)
+
+    * [Guest Selects Mishima A Life In Four Chapters](https://drafthouse.com/los-angeles/show/guest-selects-mishima-a-life-in-four-chapters): Sun 5/3 (4:00pm)
+
+    * [Guest Selects Playtime](https://drafthouse.com/los-angeles/show/guest-selects-playtime): Sat 5/2 (3:40pm)
+
+    * [Jeopardy Interactive](https://drafthouse.com/los-angeles/show/jeopardy-interactive): Wed 5/27 (7:00pm)
+
+    * [Nesting](https://drafthouse.com/los-angeles/show/nesting): Tue 5/26 (7:00pm)
+
+    * [Sisters 1973](https://drafthouse.com/los-angeles/show/sisters-1973): Sat 6/6 (9:45pm)
+
+    * [Sorry To Bother You](https://drafthouse.com/los-angeles/show/sorry-to-bother-you): Sat 5/16 (12:00pm)
+
+    * [Terror Tuesday Dont Go In The House](https://drafthouse.com/los-angeles/show/terror-tuesday-dont-go-in-the-house): Tue 5/5 (7:30pm)
+
+    * [Terror Tuesday Ticks](https://drafthouse.com/los-angeles/show/terror-tuesday-ticks): Tue 6/2 (7:30pm)
+
 ### Wed 4/22 6:52am
 * New movies: Is God Is
 
