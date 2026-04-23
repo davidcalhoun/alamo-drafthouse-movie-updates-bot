@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 4/23 3:51pm
+
+* New screenings: 
+    * [The Devil Wears Prada 2](https://drafthouse.com/los-angeles/show/the-devil-wears-prada-2): Sun 5/3 (6:15pm, 7:30pm)
+
 ### Thu 4/23 2:51pm
 * New movies: The Suckling, White of the Eye
 
