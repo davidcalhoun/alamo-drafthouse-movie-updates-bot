@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 4/23 1:56pm
+* New movies: Blow Out, Body Double
+
+* New screenings: 
+    * [Blow Out](https://drafthouse.com/los-angeles/show/blow-out): Wed 7/1 (7:00pm)
+
+    * [Body Double](https://drafthouse.com/los-angeles/show/body-double): Sat 6/20 (9:45pm)
+
 ### Thu 4/23 12:17pm
 * New movies: Mortal Kombat II, Holy Motors, Mishima: A Life in Four Chapters, Playtime, Sorry to Bother You, Dressed to Kill 1980, Nesting, Sisters 1973, AGUIRRE, THE WRATH OF GOD, DON'T GO IN THE HOUSE, TICKS
 
