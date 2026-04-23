@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Thu 4/23 2:51pm
+* New movies: The Suckling, White of the Eye
+
+* New screenings: 
+    * [Terror Tuesday The Suckling](https://drafthouse.com/los-angeles/show/terror-tuesday-the-suckling): Tue 5/19 (7:30pm)
+
+    * [Terror Tuesday White Of The Eye](https://drafthouse.com/los-angeles/show/terror-tuesday-white-of-the-eye): Tue 5/26 (7:30pm)
+
+    * [The Devil Wears Prada 2](https://drafthouse.com/los-angeles/show/the-devil-wears-prada-2): Thu 4/30 (4:15pm, 7:30pm), Fri 5/1 (2:45pm), Sat 5/2 (11:15am, 2:30pm, 5:45pm, 9:00pm)
+
 ### Thu 4/23 1:56pm
 * New movies: Blow Out, Body Double
 
