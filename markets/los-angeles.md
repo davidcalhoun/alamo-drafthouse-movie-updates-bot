@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 4/24 10:01am
+* New movies: A nous la liberte, Sudden Fury
+
+* New screenings: 
+    * [A Nous La Liberte](https://drafthouse.com/los-angeles/show/a-nous-la-liberte): Fri 5/8 (4:45pm, 5:00pm)
+
+    * [Sudden Fury](https://drafthouse.com/los-angeles/show/sudden-fury): Fri 5/8 (2:00pm, 2:15pm)
+
 ### Thu 4/23 3:51pm
 
 * New screenings: 
