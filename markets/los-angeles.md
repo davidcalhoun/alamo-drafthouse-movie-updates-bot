@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 4/24 11:59am
+* New movies: RZA's One Spoon of Chocolate
+
+* New screenings: 
+    * [Rzas One Spoon Of Chocolate](https://drafthouse.com/los-angeles/show/rzas-one-spoon-of-chocolate): Fri 5/1 (7:40pm, 10:45pm), Sat 5/2 (7:40pm, 10:45pm), Sun 5/3 (7:40pm), Mon 5/4 (7:40pm, 10:45pm), Tue 5/5 (7:40pm, 10:45pm), Wed 5/6 (7:40pm, 10:45pm)
+
 ### Fri 4/24 10:01am
 * New movies: A nous la liberte, Sudden Fury
 
