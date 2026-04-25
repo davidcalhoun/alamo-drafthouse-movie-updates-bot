@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 4/24 10:16pm
+
+* New screenings: 
+    * [Michael 2026](https://drafthouse.com/los-angeles/show/michael-2026): Sun 4/26 (6:00pm)
+
 ### Fri 4/24 7:49pm
 
 * New screenings: 
