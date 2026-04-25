@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 4/24 11:26pm
+* New movies: RZA's One Spoon of Chocolate
+
+* New screenings: 
+    * [Rzas One Spoon Of Chocolate](https://drafthouse.com/raleigh/show/rzas-one-spoon-of-chocolate): Thu 4/30 (7:15pm, 10:15pm), Fri 5/1 (6:45pm, 9:45pm), Sat 5/2 (6:45pm, 9:45pm), Sun 5/3 (6:45pm, 9:45pm)
+
 ### Wed 4/22 1:10pm
 
 * New screenings: 
