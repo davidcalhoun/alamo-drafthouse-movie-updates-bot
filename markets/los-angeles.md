@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 4/24 7:49pm
+
+* New screenings: 
+    * [Michael 2026](https://drafthouse.com/los-angeles/show/michael-2026): Sat 4/25 (10:15pm)
+
 ### Fri 4/24 11:59am
 * New movies: RZA's One Spoon of Chocolate
 
