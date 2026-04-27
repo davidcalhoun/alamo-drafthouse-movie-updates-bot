@@ -1,6 +1,43 @@
 # raleigh
 
 ## Movie updates
+### Mon 4/27 7:01pm
+
+* New screenings: 
+    * [Guest Selects Mishima A Life In Four Chapters](https://drafthouse.com/raleigh/show/guest-selects-mishima-a-life-in-four-chapters): Wed 5/6 (3:00pm)
+
+    * [Hokum](https://drafthouse.com/raleigh/show/hokum): Fri 5/1 (1:00pm, 4:15pm), Sat 5/2 (1:00pm, 4:00pm), Sun 5/3 (1:00pm, 4:00pm), Mon 5/4 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Tue 5/5 (1:00pm, 4:15pm, 7:15pm, 10:15pm), Wed 5/6 (1:00pm, 4:00pm, 7:15pm, 10:15pm)
+
+    * [Lee Cronins The Mummy](https://drafthouse.com/raleigh/show/lee-cronins-the-mummy): Thu 4/30 (9:45pm), Tue 5/5 (10:15pm)
+
+    * [Marama](https://drafthouse.com/raleigh/show/marama): Mon 5/4 (3:00pm)
+
+    * [Michael 2026](https://drafthouse.com/raleigh/show/michael-2026): Thu 4/30 (11:00am, 11:15am, 12:00pm, 12:30pm, 1:00pm, 2:15pm, 3:15pm, 3:45pm, 4:15pm, 6:30pm, 7:30pm, 10:30pm), Fri 5/1 (11:00am, 11:45am, 12:30pm, 2:15pm, 3:00pm, 4:00pm, 5:45pm, 6:30pm, 9:45pm), Sat 5/2 (11:00am, 11:45am, 12:30pm, 2:15pm, 3:00pm, 3:45pm, 5:45pm, 6:30pm, 9:45pm), Sun 5/3 (11:00am, 11:45am, 12:30pm, 2:15pm, 3:00pm, 3:45pm, 5:45pm, 6:30pm, 9:45pm), Mon 5/4 (11:00am, 11:45am, 12:00pm, 12:30pm, 2:15pm, 3:00pm, 3:45pm, 5:45pm, 6:30pm, 9:45pm), Tue 5/5 (11:00am, 11:45am, 12:30pm, 2:15pm, 3:00pm, 3:15pm, 3:45pm, 5:30pm, 6:30pm, 9:45pm), Wed 5/6 (11:00am, 11:45am, 12:30pm, 2:15pm, 3:00pm, 3:45pm, 5:45pm, 6:30pm, 9:45pm)
+
+    * [Mortal Kombat Ii](https://drafthouse.com/raleigh/show/mortal-kombat-ii): Thu 5/7 (4:30pm, 10:30pm)
+
+    * [Mother Mary](https://drafthouse.com/raleigh/show/mother-mary): Thu 4/30 (12:00pm), Fri 5/1 (9:30pm), Sat 5/2 (10:30pm), Sun 5/3 (10:30pm), Tue 5/5 (12:45pm, 4:00pm, 7:15pm, 9:45pm)
+
+    * [Normal](https://drafthouse.com/raleigh/show/normal): Thu 4/30 (1:25pm, 4:40pm), Fri 5/1 (3:15pm)
+
+    * [Over Your Dead Body 2026](https://drafthouse.com/raleigh/show/over-your-dead-body-2026): Thu 4/30 (10:40pm), Fri 5/1 (10:45pm), Sat 5/2 (10:45pm), Sun 5/3 (10:30pm), Mon 5/4 (10:30pm), Tue 5/5 (10:30pm), Wed 5/6 (10:30pm)
+
+    * [Project Hail Mary](https://drafthouse.com/raleigh/show/project-hail-mary): Thu 4/30 (1:00pm, 2:30pm, 6:15pm, 10:00pm), Fri 5/1 (11:15am, 3:00pm, 6:15pm, 10:00pm), Sat 5/2 (11:15am, 3:00pm, 6:15pm, 9:30pm), Sun 5/3 (11:15am, 3:00pm, 6:15pm, 9:30pm), Mon 5/4 (11:00am, 2:45pm, 6:00pm, 9:30pm), Tue 5/5 (11:00am, 2:45pm, 6:00pm, 9:15pm), Wed 5/6 (11:00am, 2:20pm, 6:15pm, 9:30pm)
+
+    * [Rzas One Spoon Of Chocolate](https://drafthouse.com/raleigh/show/rzas-one-spoon-of-chocolate): Mon 5/4 (6:30pm, 9:30pm), Tue 5/5 (7:00pm, 10:00pm), Wed 5/6 (6:00pm, 9:00pm)
+
+    * [Sweet Smell Of Success](https://drafthouse.com/raleigh/show/sweet-smell-of-success): Tue 5/5 (3:00pm)
+
+    * [Terror Of Mechagodzilla](https://drafthouse.com/raleigh/show/terror-of-mechagodzilla): Thu 4/30 (12:45pm)
+
+    * [The Devil Wears Prada 2](https://drafthouse.com/raleigh/show/the-devil-wears-prada-2): Thu 4/30 (3:00pm, 3:45pm, 4:00pm, 5:30pm, 6:05pm, 7:00pm, 8:45pm, 9:30pm, 10:30pm), Fri 5/1 (12:00pm, 1:00pm, 2:00pm, 4:10pm, 5:15pm, 7:15pm, 7:30pm, 8:30pm, 10:30pm), Sat 5/2 (12:00pm, 1:00pm, 2:00pm, 3:05pm, 4:05pm, 5:15pm, 7:15pm, 7:30pm, 8:30pm, 10:00pm), Sun 5/3 (12:00pm, 1:00pm, 3:10pm, 4:10pm, 6:30pm, 7:00pm, 7:15pm, 9:45pm, 10:00pm), Mon 5/4 (12:30pm, 1:00pm, 3:30pm, 3:45pm, 4:15pm, 7:00pm, 7:15pm, 7:30pm, 9:45pm, 10:00pm, 10:15pm), Tue 5/5 (11:45am, 12:00pm, 1:00pm, 4:15pm, 7:00pm, 7:30pm), Wed 5/6 (11:45am, 12:30pm, 1:00pm, 3:15pm, 3:45pm, 4:10pm, 6:30pm, 7:00pm, 7:00pm, 7:15pm, 10:00pm, 10:15pm, 10:30pm)
+
+    * [The Drama](https://drafthouse.com/raleigh/show/the-drama): Thu 4/30 (11:30am), Fri 5/1 (11:00am), Sat 5/2 (11:00am), Mon 5/4 (11:45am), Wed 5/6 (11:25am)
+
+    * [The Sheep Detectives](https://drafthouse.com/raleigh/show/the-sheep-detectives): Thu 5/7 (3:00pm, 9:15pm)
+
+    * [The Super Mario Galaxy Movie](https://drafthouse.com/raleigh/show/the-super-mario-galaxy-movie): Thu 4/30 (11:45am, 3:00pm, 6:15pm, 9:00pm), Fri 5/1 (12:45pm, 3:30pm, 6:15pm, 9:00pm), Sat 5/2 (12:45pm, 3:30pm, 6:15pm, 9:00pm), Sun 5/3 (12:45pm, 3:30pm, 6:15pm, 9:00pm), Mon 5/4 (12:45pm, 3:30pm, 6:15pm, 9:00pm), Tue 5/5 (12:45pm, 3:30pm, 6:15pm, 9:00pm), Wed 5/6 (12:45pm, 3:30pm, 6:15pm, 9:00pm)
+
 ### Mon 4/27 4:14pm
 * New movies: Funeral Parade of Roses, Sisters 1973
 
