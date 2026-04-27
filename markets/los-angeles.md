@@ -1,6 +1,56 @@
 # los-angeles
 
 ## Movie updates
+### Mon 4/27 3:55pm
+* New movies: Deep Water 2026, That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea Dubbed, That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea Subtitled
+
+* New screenings: 
+    * [Blue Heron](https://drafthouse.com/los-angeles/show/blue-heron): Thu 4/30 (12:45pm, 3:30pm, 6:15pm), Fri 5/1 (12:00pm, 3:30pm, 10:45pm), Sat 5/2 (12:00pm, 3:30pm, 10:45pm), Sun 5/3 (12:00pm, 3:30pm), Mon 5/4 (12:00pm, 3:30pm, 9:35pm), Tue 5/5 (12:00pm, 3:30pm, 8:45pm), Wed 5/6 (12:00pm, 3:30pm, 10:30pm)
+
+    * [Deep Water 2026](https://drafthouse.com/los-angeles/show/deep-water-2026): Fri 5/1 (9:50pm), Sat 5/2 (9:50pm), Sun 5/3 (8:00pm), Mon 5/4 (9:50pm), Tue 5/5 (9:50pm), Wed 5/6 (9:50pm)
+
+    * [Erupcja](https://drafthouse.com/los-angeles/show/erupcja): Fri 5/1 (2:45pm), Sat 5/2 (2:45pm), Mon 5/4 (2:45pm, 5:10pm, 7:30pm), Tue 5/5 (2:45pm, 5:10pm, 7:30pm), Wed 5/6 (2:45pm, 5:10pm, 7:30pm)
+
+    * [Guest Selects Mishima A Life In Four Chapters](https://drafthouse.com/los-angeles/show/guest-selects-mishima-a-life-in-four-chapters): Tue 5/5 (10:15pm)
+
+    * [Guest Selects Playtime](https://drafthouse.com/los-angeles/show/guest-selects-playtime): Mon 5/4 (4:15pm), Wed 5/6 (4:10pm)
+
+    * [Hokum](https://drafthouse.com/los-angeles/show/hokum): Fri 5/1 (1:00pm, 4:00pm, 10:40pm), Sat 5/2 (1:00pm, 4:00pm, 10:40pm), Sun 5/3 (1:00pm, 4:00pm, 10:00pm), Mon 5/4 (1:00pm, 4:00pm, 7:00pm, 10:00pm, 10:40pm), Tue 5/5 (1:00pm, 4:00pm, 7:00pm, 10:00pm, 10:40pm), Wed 5/6 (1:00pm, 4:00pm, 7:00pm, 10:00pm, 10:40pm)
+
+    * [I Swear](https://drafthouse.com/los-angeles/show/i-swear): Thu 4/30 (11:45am)
+
+    * [Lee Cronins The Mummy](https://drafthouse.com/los-angeles/show/lee-cronins-the-mummy): Thu 4/30 (12:15pm, 3:45pm)
+
+    * [Lorne](https://drafthouse.com/los-angeles/show/lorne): Thu 4/30 (12:20pm)
+
+    * [Marama](https://drafthouse.com/los-angeles/show/marama): Wed 5/6 (1:30pm)
+
+    * [Michael 2026](https://drafthouse.com/los-angeles/show/michael-2026): Thu 4/30 (12:15pm, 3:20pm, 6:40pm, 10:00pm), Fri 5/1 (11:50am, 12:45pm, 3:20pm, 4:15pm, 6:45pm, 10:10pm), Sat 5/2 (11:50am, 3:20pm, 6:45pm, 10:10pm), Sun 5/3 (11:45am, 12:30pm, 3:15pm, 6:40pm, 9:30pm), Mon 5/4 (11:50am, 12:45pm, 3:20pm, 6:15pm, 6:45pm, 10:10pm), Tue 5/5 (11:50am, 12:40pm, 3:20pm, 4:00pm, 6:45pm, 10:10pm), Wed 5/6 (12:20pm, 3:45pm, 7:10pm, 9:45pm)
+
+    * [Mother Mary](https://drafthouse.com/los-angeles/show/mother-mary): Thu 4/30 (12:00pm, 3:00pm, 6:00pm), Fri 5/1 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Sat 5/2 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Sun 5/3 (12:00pm, 3:00pm, 6:00pm, 10:00pm), Mon 5/4 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Tue 5/5 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Wed 5/6 (12:45pm, 3:45pm, 6:45pm, 9:45pm)
+
+    * [Normal](https://drafthouse.com/los-angeles/show/normal): Thu 4/30 (11:00am, 1:45pm), Fri 5/1 (12:00pm), Sat 5/2 (12:45pm), Mon 5/4 (12:45pm)
+
+    * [Over Your Dead Body 2026](https://drafthouse.com/los-angeles/show/over-your-dead-body-2026): Thu 4/30 (4:30pm, 10:30pm), Mon 5/4 (9:45pm), Tue 5/5 (12:30pm), Wed 5/6 (10:15pm)
+
+    * [Project Hail Mary](https://drafthouse.com/los-angeles/show/project-hail-mary): Thu 4/30 (11:30am, 3:15pm, 7:00pm, 9:00pm), Fri 5/1 (11:30am, 3:15pm, 7:00pm, 9:15pm), Sat 5/2 (11:30am, 3:15pm, 7:00pm, 9:15pm), Sun 5/3 (11:30am, 3:15pm, 7:00pm, 9:15pm), Mon 5/4 (11:30am, 3:15pm, 7:00pm, 9:15pm), Tue 5/5 (11:30am, 3:15pm, 7:00pm, 9:15pm), Wed 5/6 (11:30am, 3:15pm, 7:00pm, 9:15pm)
+
+    * [Terror Of Mechagodzilla](https://drafthouse.com/los-angeles/show/terror-of-mechagodzilla): Thu 4/30 (10:45pm)
+
+    * [That Time I Got Reincarnated As A Slime The Movie Tears Of The Azure Sea Dubbed](https://drafthouse.com/los-angeles/show/that-time-i-got-reincarnated-as-a-slime-the-movie-tears-of-the-azure-sea-dubbed): Fri 5/1 (12:30pm), Sat 5/2 (12:30pm), Sun 5/3 (12:30pm), Mon 5/4 (12:30pm), Tue 5/5 (12:30pm), Wed 5/6 (12:30pm)
+
+    * [That Time I Got Reincarnated As A Slime The Movie Tears Of The Azure Sea Subtitled](https://drafthouse.com/los-angeles/show/that-time-i-got-reincarnated-as-a-slime-the-movie-tears-of-the-azure-sea-subtitled): Fri 5/1 (6:15pm), Sat 5/2 (6:15pm), Sun 5/3 (6:15pm), Mon 5/4 (6:15pm), Tue 5/5 (6:15pm), Wed 5/6 (6:15pm)
+
+    * [The Christophers](https://drafthouse.com/los-angeles/show/the-christophers): Thu 4/30 (11:15am, 2:15pm)
+
+    * [The Devil Wears Prada 2](https://drafthouse.com/los-angeles/show/the-devil-wears-prada-2): Thu 4/30 (9:00pm), Fri 5/1 (1:00pm, 4:15pm, 7:30pm, 10:00pm), Sat 5/2 (1:00pm, 4:15pm, 7:30pm), Sun 5/3 (10:30am, 1:45pm, 5:00pm, 9:45pm), Mon 5/4 (11:30am, 2:45pm, 6:00pm, 9:15pm), Tue 5/5 (11:30am, 2:45pm, 6:00pm, 9:15pm), Wed 5/6 (1:15pm, 4:30pm)
+
+    * [The Drama](https://drafthouse.com/los-angeles/show/the-drama): Thu 4/30 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Fri 5/1 (11:30am, 2:30pm), Sat 5/2 (10:40am, 1:40pm, 4:40pm), Sun 5/3 (11:00am, 2:00pm, 5:00pm), Mon 5/4 (1:00pm, 4:00pm), Tue 5/5 (1:15pm, 4:30pm), Wed 5/6 (1:00pm, 4:00pm)
+
+    * [The Super Mario Galaxy Movie](https://drafthouse.com/los-angeles/show/the-super-mario-galaxy-movie): Thu 4/30 (12:30pm, 3:15pm, 6:00pm)
+
+    * [You Me Tuscany](https://drafthouse.com/los-angeles/show/you-me-tuscany): Thu 4/30 (1:15pm)
+
 ### Fri 4/24 10:16pm
 
 * New screenings: 
