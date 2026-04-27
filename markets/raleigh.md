@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Mon 4/27 4:14pm
+* New movies: Funeral Parade of Roses, Sisters 1973
+
+* New screenings: 
+    * [Jeopardy Interactive](https://drafthouse.com/raleigh/show/jeopardy-interactive): Wed 5/27 (7:00pm)
+
+    * [Queer Film Theory 101 Funeral Parade Of Roses](https://drafthouse.com/raleigh/show/queer-film-theory-101-funeral-parade-of-roses): Wed 5/27 (6:30pm)
+
+    * [Sisters 1973](https://drafthouse.com/raleigh/show/sisters-1973): Sat 6/6 (10:30pm)
+
 ### Mon 4/27 10:20am
 * New movies: The Lure, Throw Down, Holy Motors, Mishima: A Life in Four Chapters, Nesting, THE RAGE: CARRIE 2
 
