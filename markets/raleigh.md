@@ -1,6 +1,22 @@
 # raleigh
 
 ## Movie updates
+### Mon 4/27 10:20am
+* New movies: The Lure, Throw Down, Holy Motors, Mishima: A Life in Four Chapters, Nesting, THE RAGE: CARRIE 2
+
+* New screenings: 
+    * [Guest Selects Holy Motors](https://drafthouse.com/raleigh/show/guest-selects-holy-motors): Fri 5/8 (10:15pm)
+
+    * [Guest Selects Mishima A Life In Four Chapters](https://drafthouse.com/raleigh/show/guest-selects-mishima-a-life-in-four-chapters): Sun 5/3 (3:20pm)
+
+    * [Nesting](https://drafthouse.com/raleigh/show/nesting): Tue 5/26 (6:30pm)
+
+    * [Terror Tuesday The Rage Carrie 2](https://drafthouse.com/raleigh/show/terror-tuesday-the-rage-carrie-2): Tue 5/5 (9:30pm)
+
+    * [Weird Wednesday The Lure](https://drafthouse.com/raleigh/show/weird-wednesday-the-lure): Wed 5/6 (9:30pm)
+
+    * [Weird Wednesday Throw Down](https://drafthouse.com/raleigh/show/weird-wednesday-throw-down): Wed 5/13 (10:00pm)
+
 ### Fri 4/24 11:26pm
 * New movies: RZA's One Spoon of Chocolate
 
