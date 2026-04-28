@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 4/28 10:35am
+* New movies: I Love Boosters
+
+* New screenings: 
+    * [I Love Boosters](https://drafthouse.com/raleigh/show/i-love-boosters): Thu 5/21 (7:30pm), Fri 5/22 (7:30pm), Sat 5/23 (7:30pm), Sun 5/24 (7:30pm), Mon 5/25 (7:30pm)
+
 ### Mon 4/27 11:57pm
 * New movies: Strange Darling
 
