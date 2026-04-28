@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 4/28 4:23pm
+
+* New screenings: 
+    * [The Devil Wears Prada 2](https://drafthouse.com/raleigh/show/the-devil-wears-prada-2): Tue 5/5 (1:30pm, 4:45pm, 8:00pm)
+
 ### Tue 4/28 12:59pm
 * New movies: I Love Boosters
 
