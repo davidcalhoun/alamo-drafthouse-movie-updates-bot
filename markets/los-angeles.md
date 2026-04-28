@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 4/28 7:21am
+* New movies: I Love Boosters
+
+* New screenings: 
+    * [I Love Boosters](https://drafthouse.com/los-angeles/show/i-love-boosters): Thu 5/21 (7:00pm), Fri 5/22 (4:45pm, 7:45pm, 10:45pm), Sat 5/23 (4:45pm, 7:45pm, 10:45pm), Sun 5/24 (4:45pm, 7:45pm, 10:45pm), Mon 5/25 (4:45pm, 7:45pm, 10:45pm)
+
 ### Mon 4/27 3:55pm
 * New movies: Deep Water 2026, That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea Dubbed, That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea Subtitled
 
