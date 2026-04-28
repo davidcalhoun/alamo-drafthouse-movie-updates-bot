@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 4/28 9:55am
+* New movies: I Love Boosters, I Love Boosters
+
+* New screenings: 
+    * [Livestream Q A I Love Boosters](https://drafthouse.com/los-angeles/show/livestream-q-a-i-love-boosters): Tue 5/19 (5:30pm)
+
+    * [Special Event I Love Boosters Fashion Forward Filanthropy Screening](https://drafthouse.com/los-angeles/show/special-event-i-love-boosters-fashion-forward-filanthropy-screening): Fri 5/22 (7:00pm)
+
 ### Tue 4/28 7:21am
 * New movies: I Love Boosters
 
