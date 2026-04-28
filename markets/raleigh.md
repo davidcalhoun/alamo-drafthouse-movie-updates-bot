@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 4/28 12:59pm
+* New movies: I Love Boosters
+
+* New screenings: 
+    * [Livestream Q A I Love Boosters](https://drafthouse.com/raleigh/show/livestream-q-a-i-love-boosters): Tue 5/19 (8:30pm)
+
 ### Tue 4/28 10:35am
 * New movies: I Love Boosters
 
