@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 4/28 4:57pm
+
+* New screenings: 
+    * [Backrooms](https://drafthouse.com/los-angeles/show/backrooms): Fri 5/29 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Sat 5/30 (10:00am, 1:00pm, 4:00pm, 7:00pm, 10:00pm), Sun 5/31 (10:00am, 1:00pm, 4:00pm, 7:00pm), Mon 6/1 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Tue 6/2 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Wed 6/3 (12:00pm, 3:00pm, 7:30pm, 10:00pm)
+
 ### Tue 4/28 9:55am
 * New movies: I Love Boosters, I Love Boosters
 
