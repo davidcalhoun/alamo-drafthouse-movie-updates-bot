@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 4/27 11:57pm
+* New movies: Strange Darling
+
+* New screenings: 
+    * [Terror Tuesday Strange Darling](https://drafthouse.com/raleigh/show/terror-tuesday-strange-darling): Tue 5/19 (9:30pm)
+
 ### Mon 4/27 7:01pm
 
 * New screenings: 
