@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Wed 4/29 10:23am
+* New movies: Obsession 2026, Obsession 2026, Obsession 2026
+
+* New screenings: 
+    * [Livestream Q A Obsession 2026](https://drafthouse.com/raleigh/show/livestream-q-a-obsession-2026): Wed 5/6 (9:00pm)
+
+    * [Movie Party Obsession 2026 One Wish Movie Party](https://drafthouse.com/raleigh/show/movie-party-obsession-2026-one-wish-movie-party): Thu 5/14 (7:00pm)
+
+    * [Obsession 2026](https://drafthouse.com/raleigh/show/obsession-2026): Fri 5/15 (6:00pm), Sat 5/16 (6:00pm), Sun 5/17 (7:00pm)
+
 ### Tue 4/28 4:23pm
 
 * New screenings: 
