@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Wed 4/29 3:02pm
+
+* New screenings: 
+    * [That Time I Got Reincarnated As A Slime The Movie Tears Of The Azure Sea Subtitled](https://drafthouse.com/los-angeles/show/that-time-i-got-reincarnated-as-a-slime-the-movie-tears-of-the-azure-sea-subtitled): Fri 5/1 (6:15pm)
+
+    * [The Devil Wears Prada 2](https://drafthouse.com/los-angeles/show/the-devil-wears-prada-2): Thu 4/30 (8:15pm), Fri 5/1 (3:30pm, 10:45pm), Sat 5/2 (6:05pm), Sun 5/3 (8:15pm)
+
 ### Wed 4/29 7:07am
 * New movies: Obsession 2026, In The Grey, Obsession 2026, Obsession 2026
 
