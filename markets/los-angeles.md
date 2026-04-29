@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Wed 4/29 7:07am
+* New movies: Obsession 2026, In The Grey, Obsession 2026, Obsession 2026
+
+* New screenings: 
+    * [In The Grey](https://drafthouse.com/los-angeles/show/in-the-grey): Thu 5/14 (4:10pm, 7:00pm), Fri 5/15 (4:50pm, 7:40pm), Sat 5/16 (4:50pm, 7:40pm), Sun 5/17 (4:50pm, 7:40pm)
+
+    * [Live Q A Obsession 2026](https://drafthouse.com/los-angeles/show/live-q-a-obsession-2026): Wed 5/6 (6:00pm)
+
+    * [Movie Party Obsession 2026 One Wish Movie Party](https://drafthouse.com/los-angeles/show/movie-party-obsession-2026-one-wish-movie-party): Thu 5/14 (7:00pm), Fri 5/15 (7:30pm)
+
+    * [Obsession 2026](https://drafthouse.com/los-angeles/show/obsession-2026): Thu 5/14 (4:30pm, 7:30pm, 10:30pm), Fri 5/15 (4:00pm, 7:00pm, 10:00pm), Sat 5/16 (4:00pm, 7:00pm, 10:00pm), Sun 5/17 (4:00pm, 7:00pm)
+
 ### Tue 4/28 4:57pm
 
 * New screenings: 
