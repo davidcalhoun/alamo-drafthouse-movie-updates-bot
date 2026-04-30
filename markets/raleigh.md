@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Thu 4/30 4:14pm
+
+* New screenings: 
+    * [Obsession 2026](https://drafthouse.com/raleigh/show/obsession-2026): Fri 5/15 (9:00pm), Sat 5/16 (9:00pm), Sun 5/17 (10:00pm)
+
 ### Wed 4/29 10:23am
 * New movies: Obsession 2026, Obsession 2026, Obsession 2026
 
