@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Thu 4/30 6:03pm
+
+* New screenings: 
+    * [Backrooms](https://drafthouse.com/raleigh/show/backrooms): Thu 5/28 (9:15pm)
+
 ### Thu 4/30 4:14pm
 
 * New screenings: 
