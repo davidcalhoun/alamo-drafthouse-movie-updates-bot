@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Fri 5/1 8:59am
+* New movies: Is God Is, Saccharine, The Python Hunt
+
+* New screenings: 
+    * [Is God Is](https://drafthouse.com/los-angeles/show/is-god-is): Fri 5/15 (5:15pm, 8:00pm, 10:45pm), Sat 5/16 (5:15pm, 8:00pm, 10:45pm), Sun 5/17 (5:15pm, 8:00pm)
+
+    * [Live Q A Saccharine](https://drafthouse.com/los-angeles/show/live-q-a-saccharine): Fri 5/22 (7:00pm)
+
+    * [The Python Hunt](https://drafthouse.com/los-angeles/show/the-python-hunt): Tue 6/2 (7:00pm)
+
 ### Wed 4/29 3:02pm
 
 * New screenings: 
