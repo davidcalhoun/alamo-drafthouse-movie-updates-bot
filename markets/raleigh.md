@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 5/1 9:47am
+* New movies: Is God Is
+
+* New screenings: 
+    * [Is God Is](https://drafthouse.com/raleigh/show/is-god-is): Thu 5/14 (6:00pm), Fri 5/15 (6:30pm), Sat 5/16 (6:30pm), Sun 5/17 (6:30pm)
+
 ### Thu 4/30 7:03pm
 
 * New screenings: 
