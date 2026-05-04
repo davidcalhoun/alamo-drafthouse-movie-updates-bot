@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Mon 5/4 6:10pm
+* New movies: Beach Blanket Bingo, Dressed to Kill 1980, The Python Hunt
+
+* New screenings: 
+    * [Dressed To Kill 1980](https://drafthouse.com/raleigh/show/dressed-to-kill-1980): Fri 6/12 (10:00pm)
+
+    * [The Python Hunt](https://drafthouse.com/raleigh/show/the-python-hunt): Tue 6/2 (7:15pm)
+
+    * [Weird Wednesday Beach Blanket Bingo](https://drafthouse.com/raleigh/show/weird-wednesday-beach-blanket-bingo): Wed 5/27 (9:30pm)
+
 ### Fri 5/1 9:47am
 * New movies: Is God Is
 
