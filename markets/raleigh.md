@@ -1,6 +1,34 @@
 # raleigh
 
 ## Movie updates
+### Mon 5/4 8:01pm
+* New movies: Billie Eilish - Hit Me Hard and Soft: The Tour
+
+* New screenings: 
+    * [Billie Eilish Hit Me Hard And Soft The Tour](https://drafthouse.com/raleigh/show/billie-eilish-hit-me-hard-and-soft-the-tour): Thu 5/7 (3:30pm), Fri 5/8 (3:15pm, 10:30pm), Sat 5/9 (3:00pm, 10:30pm), Sun 5/10 (3:15pm, 9:30pm), Mon 5/11 (12:15pm, 9:30pm), Tue 5/12 (12:00pm, 9:15pm), Wed 5/13 (12:30pm, 10:35pm)
+
+    * [Billie Eilish Hit Me Hard And Soft The Tour Live In 3d](https://drafthouse.com/raleigh/show/billie-eilish-hit-me-hard-and-soft-the-tour-live-in-3d): Thu 5/7 (9:30pm), Fri 5/8 (12:15pm), Sat 5/9 (12:30pm), Sun 5/10 (12:30pm), Mon 5/11 (3:30pm, 6:30pm), Tue 5/12 (3:15pm, 6:30pm), Wed 5/13 (3:45pm, 7:00pm)
+
+    * [Guest Selects Mishima A Life In Four Chapters](https://drafthouse.com/raleigh/show/guest-selects-mishima-a-life-in-four-chapters): Thu 5/7 (1:15pm)
+
+    * [Hokum](https://drafthouse.com/raleigh/show/hokum): Thu 5/7 (12:45pm, 3:45pm, 6:45pm, 10:15pm), Fri 5/8 (1:00pm, 4:00pm, 7:15pm, 10:15pm), Sat 5/9 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Sun 5/10 (1:00pm, 4:15pm, 7:15pm, 10:15pm), Mon 5/11 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Tue 5/12 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Wed 5/13 (1:30pm, 4:45pm, 7:45pm, 10:40pm)
+
+    * [Michael 2026](https://drafthouse.com/raleigh/show/michael-2026): Thu 5/7 (12:30pm, 1:45pm, 3:45pm, 5:00pm, 7:15pm, 8:15pm, 10:30pm), Fri 5/8 (11:15am, 12:30pm, 2:30pm, 7:15pm, 9:45pm), Sat 5/9 (12:45pm, 1:15pm, 4:00pm, 7:15pm, 10:00pm), Sun 5/10 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Mon 5/11 (12:15pm, 1:15pm, 3:30pm, 4:30pm, 7:45pm, 10:15pm), Tue 5/12 (12:15pm, 1:15pm, 3:30pm, 4:30pm, 7:15pm, 7:45pm, 10:30pm), Wed 5/13 (12:15pm, 1:15pm, 3:30pm, 4:30pm, 7:15pm, 7:45pm, 10:30pm)
+
+    * [Mortal Kombat Ii](https://drafthouse.com/raleigh/show/mortal-kombat-ii): Thu 5/7 (4:00pm, 10:00pm), Fri 5/8 (11:45am, 3:00pm, 4:15pm, 6:00pm, 9:00pm, 10:30pm), Sat 5/9 (11:15am, 4:30pm, 7:00pm, 9:30pm), Sun 5/10 (11:15am, 3:00pm, 4:30pm, 6:00pm, 9:00pm), Mon 5/11 (11:15am, 12:30pm, 3:45pm, 7:00pm, 10:05pm), Tue 5/12 (11:15am, 12:30pm, 3:45pm, 7:00pm, 10:05pm), Wed 5/13 (11:30am, 3:00pm, 6:00pm, 9:05pm)
+
+    * [Obsession 2026](https://drafthouse.com/raleigh/show/obsession-2026): Thu 5/14 (4:00pm, 10:00pm)
+
+    * [Project Hail Mary](https://drafthouse.com/raleigh/show/project-hail-mary): Thu 5/7 (11:45am, 2:15pm, 6:00pm, 9:45pm), Fri 5/8 (12:30pm, 2:30pm, 6:15pm, 10:00pm), Sat 5/9 (12:30pm, 2:15pm, 6:15pm, 10:00pm), Sun 5/10 (12:45pm, 2:15pm, 6:15pm, 10:00pm), Mon 5/11 (12:45pm, 2:15pm, 6:00pm, 9:45pm), Tue 5/12 (12:45pm, 2:15pm, 6:00pm, 9:45pm), Wed 5/13 (12:45pm, 2:45pm, 6:30pm, 10:15pm)
+
+    * [Rzas One Spoon Of Chocolate](https://drafthouse.com/raleigh/show/rzas-one-spoon-of-chocolate): Thu 5/7 (10:45pm), Sat 5/9 (10:30pm), Sun 5/10 (10:30pm), Mon 5/11 (10:30pm), Tue 5/12 (10:35pm), Wed 5/13 (10:05pm)
+
+    * [The Devil Wears Prada 2](https://drafthouse.com/raleigh/show/the-devil-wears-prada-2): Thu 5/7 (11:30am, 11:45am, 12:30pm, 1:00pm, 2:45pm, 4:15pm, 6:00pm, 7:30pm, 9:15pm), Fri 5/8 (11:15am, 11:30am, 12:45pm, 2:45pm, 3:55pm, 6:00pm, 6:30pm, 7:00pm, 10:05pm), Sat 5/9 (11:15am, 12:15pm, 2:30pm, 3:30pm, 4:30pm, 6:00pm, 7:00pm, 7:45pm, 9:05pm, 10:15pm), Sun 5/10 (11:15am, 1:00pm, 1:30pm, 2:30pm, 4:05pm, 4:35pm, 6:00pm, 7:10pm, 7:45pm, 8:45pm, 10:15pm), Mon 5/11 (11:30am, 12:30pm, 2:45pm, 3:45pm, 4:25pm, 6:00pm, 7:00pm, 9:05pm, 10:05pm), Tue 5/12 (11:30am, 12:30pm, 2:45pm, 3:45pm, 4:25pm, 6:00pm, 7:00pm, 7:30pm, 9:05pm, 10:05pm), Wed 5/13 (11:30am, 11:45am, 12:30pm, 2:45pm, 3:45pm, 7:00pm, 7:30pm, 9:30pm)
+
+    * [The Sheep Detectives](https://drafthouse.com/raleigh/show/the-sheep-detectives): Fri 5/8 (12:15pm, 3:30pm, 4:00pm, 9:15pm), Sat 5/9 (11:45am, 3:30pm, 9:15pm), Sun 5/10 (12:15pm, 3:30pm, 9:15pm), Mon 5/11 (12:00pm, 3:00pm, 6:15pm, 9:15pm), Tue 5/12 (12:00pm, 3:00pm, 6:15pm), Wed 5/13 (12:00pm, 3:00pm, 6:15pm, 9:15pm)
+
+    * [The Super Mario Galaxy Movie](https://drafthouse.com/raleigh/show/the-super-mario-galaxy-movie): Thu 5/7 (12:00pm, 3:15pm, 6:30pm, 9:30pm), Fri 5/8 (1:15pm, 4:30pm, 7:30pm, 9:30pm), Sat 5/9 (1:00pm, 3:45pm, 6:45pm, 9:30pm), Sun 5/10 (11:45am, 2:45pm, 6:00pm, 9:05pm), Mon 5/11 (1:00pm, 4:00pm, 6:45pm, 9:30pm), Tue 5/12 (1:00pm, 4:15pm, 6:45pm, 9:30pm), Wed 5/13 (1:00pm, 4:15pm, 6:45pm, 9:30pm)
+
 ### Mon 5/4 6:10pm
 * New movies: Beach Blanket Bingo, Dressed to Kill 1980, The Python Hunt
 

@@ -1,60 +1,6 @@
 # los-angeles
 
 ## Movie updates
-### Mon 5/4 5:01pm
-* New movies: The Sheep Detectives, Billie Eilish - Hit Me Hard and Soft: The Tour, Mamma Mia!, Top Gun: Maverick, Top Gun 40th Anniversary
-
-* New screenings: 
-    * [Billie Eilish Hit Me Hard And Soft The Tour](https://drafthouse.com/los-angeles/show/billie-eilish-hit-me-hard-and-soft-the-tour): Thu 5/7 (10:30pm), Fri 5/8 (4:00pm, 10:30pm), Sat 5/9 (4:00pm, 10:30pm), Sun 5/10 (4:00pm, 10:00pm), Mon 5/11 (4:00pm, 10:30pm), Tue 5/12 (4:00pm, 10:30pm), Wed 5/13 (4:00pm, 10:30pm)
-
-    * [Billie Eilish Hit Me Hard And Soft The Tour Live In 3d](https://drafthouse.com/los-angeles/show/billie-eilish-hit-me-hard-and-soft-the-tour-live-in-3d): Fri 5/8 (12:45pm), Sat 5/9 (12:45pm), Sun 5/10 (12:45pm), Mon 5/11 (12:45pm, 7:15pm), Tue 5/12 (12:45pm, 7:15pm), Wed 5/13 (12:45pm, 7:15pm)
-
-    * [Blue Heron](https://drafthouse.com/los-angeles/show/blue-heron): Thu 5/7 (11:30am, 3:30pm, 10:15pm)
-
-    * [Erupcja](https://drafthouse.com/los-angeles/show/erupcja): Thu 5/7 (2:15pm, 4:45pm), Fri 5/8 (11:30am, 7:15pm, 10:45pm), Sat 5/9 (7:00pm), Tue 5/12 (6:00pm), Wed 5/13 (8:00pm)
-
-    * [Guest Selects Holy Motors](https://drafthouse.com/los-angeles/show/guest-selects-holy-motors): Mon 5/11 (12:45pm), Wed 5/13 (4:00pm)
-
-    * [Hokum](https://drafthouse.com/los-angeles/show/hokum): Thu 5/7 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Fri 5/8 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sat 5/9 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sun 5/10 (1:00pm, 4:00pm, 7:00pm, 9:30pm), Mon 5/11 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Tue 5/12 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Wed 5/13 (1:00pm, 4:00pm, 7:00pm, 10:00pm)
-
-    * [Iron Maiden Burning Ambition](https://drafthouse.com/los-angeles/show/iron-maiden-burning-ambition): Wed 5/13 (10:40pm)
-
-    * [Mamma Mia](https://drafthouse.com/los-angeles/show/mamma-mia): Sun 5/10 (3:00pm), Mon 5/11 (12:15pm), Tue 5/12 (1:15pm), Wed 5/13 (1:00pm)
-
-    * [Michael 2026](https://drafthouse.com/los-angeles/show/michael-2026): Thu 5/7 (11:45am, 3:15pm, 6:45pm, 10:15pm), Fri 5/8 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Sat 5/9 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Sun 5/10 (12:15pm, 3:30pm, 6:45pm, 9:15pm), Mon 5/11 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Tue 5/12 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Wed 5/13 (12:15pm, 3:30pm, 6:45pm, 10:00pm)
-
-    * [Mortal Kombat Ii](https://drafthouse.com/los-angeles/show/mortal-kombat-ii): Thu 5/7 (3:45pm, 8:30pm), Fri 5/8 (12:30pm, 3:45pm, 7:30pm, 9:45pm), Sat 5/9 (12:45pm, 3:45pm, 6:00pm, 9:15pm, 9:45pm), Sun 5/10 (12:45pm, 4:00pm, 6:00pm, 8:45pm), Mon 5/11 (12:30pm, 3:15pm, 3:45pm, 7:00pm, 9:45pm, 10:15pm), Tue 5/12 (11:45am, 12:30pm, 3:45pm, 7:00pm, 8:30pm, 9:45pm, 10:15pm), Wed 5/13 (1:00pm, 4:15pm, 7:30pm, 10:30pm)
-
-    * [Mother Mary](https://drafthouse.com/los-angeles/show/mother-mary): Thu 5/7 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Fri 5/8 (11:45am, 2:45pm), Sat 5/9 (11:45am, 2:45pm), Sun 5/10 (6:00pm), Mon 5/11 (11:45am, 2:45pm), Tue 5/12 (11:45am), Wed 5/13 (11:45am)
-
-    * [Normal](https://drafthouse.com/los-angeles/show/normal): Thu 5/7 (1:00pm)
-
-    * [Over Your Dead Body 2026](https://drafthouse.com/los-angeles/show/over-your-dead-body-2026): Thu 5/7 (1:30pm)
-
-    * [Project Hail Mary](https://drafthouse.com/los-angeles/show/project-hail-mary): Thu 5/7 (11:30am, 3:15pm, 7:00pm, 9:15pm), Fri 5/8 (11:00am, 2:45pm, 6:30pm, 8:45pm), Sat 5/9 (11:00am, 2:45pm, 6:30pm, 8:45pm), Sun 5/10 (12:15pm, 4:00pm, 7:45pm, 9:15pm), Mon 5/11 (12:15pm, 4:00pm, 7:45pm, 8:45pm), Tue 5/12 (12:15pm, 4:00pm, 7:45pm, 8:45pm), Wed 5/13 (12:15pm, 4:00pm, 7:45pm, 8:45pm)
-
-    * [Rzas One Spoon Of Chocolate](https://drafthouse.com/los-angeles/show/rzas-one-spoon-of-chocolate): Thu 5/7 (10:45pm), Fri 5/8 (10:15pm), Sat 5/9 (10:15pm), Mon 5/11 (10:00pm), Tue 5/12 (10:15pm), Wed 5/13 (10:15pm)
-
-    * [Serial Mom](https://drafthouse.com/los-angeles/show/serial-mom): Sun 5/10 (12:15pm)
-
-    * [Special Event Trainspotting 30th Anniversary](https://drafthouse.com/los-angeles/show/special-event-trainspotting-30th-anniversary): Fri 6/5 (4:15pm, 7:00pm), Sat 6/6 (7:00pm), Mon 6/8 (4:00pm), Tue 6/9 (4:00pm), Wed 6/10 (4:00pm), Thu 6/11 (4:00pm)
-
-    * [That Time I Got Reincarnated As A Slime The Movie Tears Of The Azure Sea Dubbed](https://drafthouse.com/los-angeles/show/that-time-i-got-reincarnated-as-a-slime-the-movie-tears-of-the-azure-sea-dubbed): Thu 5/7 (12:30pm), Fri 5/8 (11:15am), Sun 5/10 (12:00pm), Mon 5/11 (4:00pm), Tue 5/12 (3:00pm, 5:45pm), Wed 5/13 (2:45pm)
-
-    * [That Time I Got Reincarnated As A Slime The Movie Tears Of The Azure Sea Subtitled](https://drafthouse.com/los-angeles/show/that-time-i-got-reincarnated-as-a-slime-the-movie-tears-of-the-azure-sea-subtitled): Thu 5/7 (6:15pm)
-
-    * [The Devil Wears Prada 2](https://drafthouse.com/los-angeles/show/the-devil-wears-prada-2): Thu 5/7 (11:30am, 12:00pm, 12:45pm, 2:45pm, 4:00pm, 5:15pm, 6:00pm, 7:15pm, 9:15pm, 10:30pm), Fri 5/8 (11:30am, 12:00pm, 12:45pm, 2:45pm, 3:15pm, 4:00pm, 6:00pm, 6:30pm, 7:15pm, 9:15pm, 9:45pm, 10:30pm), Sat 5/9 (11:30am, 12:00pm, 12:30pm, 12:45pm, 2:45pm, 3:15pm, 4:00pm, 6:00pm, 6:30pm, 7:15pm, 9:15pm, 9:30pm, 10:30pm), Sun 5/10 (11:00am, 11:45am, 12:30pm, 2:15pm, 3:45pm, 5:30pm, 6:00pm, 6:15pm, 7:00pm, 9:00pm), Mon 5/11 (11:30am, 12:00pm, 12:45pm, 2:45pm, 3:15pm, 4:00pm, 6:00pm, 6:30pm, 7:15pm, 9:15pm, 9:30pm, 10:30pm), Tue 5/12 (11:30am, 12:00pm, 12:45pm, 2:45pm, 3:15pm, 4:00pm, 4:15pm, 6:00pm, 6:30pm, 7:15pm, 9:15pm, 10:30pm), Wed 5/13 (11:30am, 12:45pm, 1:45pm, 2:45pm, 4:00pm, 6:00pm, 7:15pm, 9:15pm, 10:30pm)
-
-    * [The Drama](https://drafthouse.com/los-angeles/show/the-drama): Thu 5/7 (11:15am, 2:15pm), Fri 5/8 (5:45pm), Sat 5/9 (5:45pm), Sun 5/10 (3:00pm), Mon 5/11 (5:45pm), Tue 5/12 (2:45pm), Wed 5/13 (5:45pm)
-
-    * [The Sheep Detectives](https://drafthouse.com/los-angeles/show/the-sheep-detectives): Thu 5/7 (3:15pm, 6:15pm, 9:15pm), Fri 5/8 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sat 5/9 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sun 5/10 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Mon 5/11 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Tue 5/12 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Wed 5/13 (12:15pm, 3:15pm, 6:15pm, 9:15pm)
-
-    * [The Third Man](https://drafthouse.com/los-angeles/show/the-third-man): Sun 5/10 (3:00pm), Wed 5/13 (5:00pm)
-
-    * [Top Gun 40th Anniversary](https://drafthouse.com/los-angeles/show/top-gun-40th-anniversary): Wed 5/13 (12:00pm, 6:45pm)
-
-    * [Top Gun Maverick](https://drafthouse.com/los-angeles/show/top-gun-maverick): Wed 5/13 (3:15pm, 10:00pm)
-
 ### Fri 5/1 8:59am
 * New movies: Is God Is, Saccharine, The Python Hunt
 
