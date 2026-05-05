@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 5/5 2:18pm
+* New movies: Mortal Kombat II
+
+* New screenings: 
+    * [Fan Event Mortal Kombat Ii Mothers Day Fan Screening](https://drafthouse.com/raleigh/show/fan-event-mortal-kombat-ii-mothers-day-fan-screening): Sun 5/10 (4:30pm)
+
 ### Tue 5/5 10:17am
 * New movies: Passenger
 
