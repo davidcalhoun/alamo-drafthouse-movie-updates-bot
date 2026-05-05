@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 5/5 10:26am
+
+* New screenings: 
+    * [Backrooms](https://drafthouse.com/los-angeles/show/backrooms): Thu 5/28 (6:00pm)
+
 ### Mon 5/4 8:28pm
 * New movies: The Sheep Detectives, Billie Eilish - Hit Me Hard and Soft: The Tour, Mamma Mia!, Top Gun: Maverick, Top Gun 40th Anniversary
 
