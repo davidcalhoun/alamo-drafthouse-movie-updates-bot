@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 5/5 10:17am
+* New movies: Passenger
+
+* New screenings: 
+    * [Passenger](https://drafthouse.com/raleigh/show/passenger): Thu 5/21 (6:30pm, 9:05pm), Fri 5/22 (6:30pm, 9:05pm), Sat 5/23 (6:30pm, 9:05pm), Sun 5/24 (6:30pm, 9:05pm)
+
 ### Mon 5/4 8:01pm
 * New movies: Billie Eilish - Hit Me Hard and Soft: The Tour
 
