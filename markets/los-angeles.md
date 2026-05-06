@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 5/6 2:59pm
+* New movies: AMERICAN RICKSHAW
+
+* New screenings: 
+    * [Weird Wednesday American Rickshaw](https://drafthouse.com/los-angeles/show/weird-wednesday-american-rickshaw): Wed 5/6 (7:00pm)
+
 ### Wed 5/6 1:25pm
 * New movies: A Blind Bargain 2026
 
