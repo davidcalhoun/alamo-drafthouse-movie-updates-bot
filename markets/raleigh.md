@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 5/6 12:49pm
+* New movies: All Gates Open: In Search of Absolute Elsewhere
+
+* New screenings: 
+    * [Livestream Q A All Gates Open In Search Of Absolute Elsewhere](https://drafthouse.com/raleigh/show/livestream-q-a-all-gates-open-in-search-of-absolute-elsewhere): Wed 5/20 (9:00pm)
+
 ### Wed 5/6 10:37am
 * New movies: Crunchyroll Anime Nights Sneak Peek 6/15/2026
 
