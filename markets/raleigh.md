@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 5/6 10:37am
+* New movies: Crunchyroll Anime Nights Sneak Peek 6/15/2026
+
+* New screenings: 
+    * [Crunchyroll Anime Nights Sneak Peek 6 15 2026](https://drafthouse.com/raleigh/show/crunchyroll-anime-nights-sneak-peek-6-15-2026): Mon 6/15 (7:15pm)
+
 ### Tue 5/5 2:18pm
 * New movies: Mortal Kombat II
 
