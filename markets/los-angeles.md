@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 5/6 1:25pm
+* New movies: A Blind Bargain 2026
+
+
+
 ### Wed 5/6 9:44am
 * New movies: All Gates Open: In Search of Absolute Elsewhere
 
