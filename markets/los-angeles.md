@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 5/7 1:16pm
+* New movies: Crunchyroll Anime Nights Sneak Peek 6/15/2026
+
+* New screenings: 
+    * [Crunchyroll Anime Nights Sneak Peek 6 15 2026](https://drafthouse.com/los-angeles/show/crunchyroll-anime-nights-sneak-peek-6-15-2026): Mon 6/15 (7:15pm)
+
 ### Thu 5/7 11:27am
 * New movies: Blind Cop 2
 
