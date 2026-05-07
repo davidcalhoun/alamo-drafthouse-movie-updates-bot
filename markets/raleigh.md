@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Thu 5/7 12:58pm
+
+* New screenings: 
+    * [Passenger](https://drafthouse.com/raleigh/show/passenger): Mon 5/25 (7:00pm, 9:45pm)
+
 ### Wed 5/6 12:49pm
 * New movies: All Gates Open: In Search of Absolute Elsewhere
 
