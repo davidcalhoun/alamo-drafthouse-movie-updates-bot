@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 5/7 11:27am
+* New movies: Blind Cop 2
+
+* New screenings: 
+    * [Live Q A Blind Cop 2](https://drafthouse.com/los-angeles/show/live-q-a-blind-cop-2): Sun 5/17 (4:00pm), Mon 5/18 (8:00pm)
+
 ### Wed 5/6 2:59pm
 * New movies: AMERICAN RICKSHAW
 
