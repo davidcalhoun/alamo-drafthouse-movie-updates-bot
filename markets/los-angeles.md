@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Fri 5/8 8:25am
+* New movies: Masters of the Universe 2026, Masters of the Universe 2026, "Spider-Noir"
+
+* New screenings: 
+    * [Cereal Party Masters Of The Universe 2026](https://drafthouse.com/los-angeles/show/cereal-party-masters-of-the-universe-2026): Sat 6/6 (12:00pm)
+
+    * [Free Victory Screening Spider Noir W Live Q A](https://drafthouse.com/los-angeles/show/free-victory-screening-spider-noir-w-live-q-a): Mon 5/25 (7:00pm)
+
+    * [Masters Of The Universe 2026](https://drafthouse.com/los-angeles/show/masters-of-the-universe-2026): Thu 6/4 (3:30pm, 7:00pm), Fri 6/5 (3:30pm, 7:00pm), Sat 6/6 (3:30pm, 7:00pm), Sun 6/7 (3:30pm, 7:00pm)
+
 ### Thu 5/7 1:16pm
 * New movies: Crunchyroll Anime Nights Sneak Peek 6/15/2026
 
