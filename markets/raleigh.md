@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 5/8 2:16pm
+* New movies: Tinsman Road
+
+* New screenings: 
+    * [Terror Tuesday Tinsman Road](https://drafthouse.com/raleigh/show/terror-tuesday-tinsman-road): Tue 5/26 (9:30pm)
+
 ### Fri 5/8 12:22pm
 * New movies: Masters of the Universe 2026, Masters of the Universe 2026, "Spider-Noir"
 
