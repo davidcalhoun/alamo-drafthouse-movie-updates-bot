@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 5/8 2:05pm
+* New movies: Clockwatchers
+
+* New screenings: 
+    * [Weird Wednesday Clockwatchers](https://drafthouse.com/los-angeles/show/weird-wednesday-clockwatchers): Wed 5/13 (7:20pm)
+
 ### Fri 5/8 8:25am
 * New movies: Masters of the Universe 2026, Masters of the Universe 2026, "Spider-Noir"
 
