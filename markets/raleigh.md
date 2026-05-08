@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Fri 5/8 12:22pm
+* New movies: Masters of the Universe 2026, Masters of the Universe 2026, "Spider-Noir"
+
+* New screenings: 
+    * [Cereal Party Masters Of The Universe 2026](https://drafthouse.com/raleigh/show/cereal-party-masters-of-the-universe-2026): Sat 6/6 (11:00am)
+
+    * [Free Victory Screening Spider Noir](https://drafthouse.com/raleigh/show/free-victory-screening-spider-noir): Mon 5/25 (6:30pm)
+
+    * [Masters Of The Universe 2026](https://drafthouse.com/raleigh/show/masters-of-the-universe-2026): Thu 6/4 (2:30pm, 6:00pm, 10:00pm), Fri 6/5 (11:30am, 3:00pm, 6:30pm, 10:00pm), Sat 6/6 (2:30pm, 6:00pm, 9:30pm), Sun 6/7 (11:00am, 2:30pm, 6:00pm, 9:30pm)
+
 ### Thu 5/7 12:58pm
 
 * New screenings: 
