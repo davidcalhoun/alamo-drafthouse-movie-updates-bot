@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Sat 5/9 11:02am
+* New movies: Blow Out, Body Double
+
+* New screenings: 
+    * [Blow Out](https://drafthouse.com/raleigh/show/blow-out): Wed 7/1 (6:30pm)
+
+    * [Body Double](https://drafthouse.com/raleigh/show/body-double): Sat 6/20 (10:00pm)
+
 ### Fri 5/8 2:16pm
 * New movies: Tinsman Road
 
