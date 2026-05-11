@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 5/11 8:19am
+* New movies: Grey Gardens 1975
+
+* New screenings: 
+    * [Weird Wednesday Grey Gardens 1975](https://drafthouse.com/los-angeles/show/weird-wednesday-grey-gardens-1975): Wed 5/27 (7:30pm)
+
 ### Fri 5/8 2:05pm
 * New movies: Clockwatchers
 
