@@ -1,6 +1,46 @@
 # los-angeles
 
 ## Movie updates
+### Mon 5/11 2:19pm
+* New movies: Top Gun: Maverick, Serial Mom, Top Gun 40th Anniversary
+
+* New screenings: 
+    * [Billie Eilish Hit Me Hard And Soft The Tour](https://drafthouse.com/los-angeles/show/billie-eilish-hit-me-hard-and-soft-the-tour): Thu 5/14 (12:50pm, 10:30pm)
+
+    * [Erupcja](https://drafthouse.com/los-angeles/show/erupcja): Thu 5/14 (3:30pm)
+
+    * [Guest Selects Holy Motors](https://drafthouse.com/los-angeles/show/guest-selects-holy-motors): Thu 5/14 (3:45pm)
+
+    * [Hokum](https://drafthouse.com/los-angeles/show/hokum): Thu 5/14 (1:00pm, 4:00pm, 7:00pm, 10:00pm)
+
+    * [In The Grey](https://drafthouse.com/los-angeles/show/in-the-grey): Thu 5/14 (9:50pm)
+
+    * [Is God Is](https://drafthouse.com/los-angeles/show/is-god-is): Thu 5/14 (5:00pm, 7:45pm, 10:30pm)
+
+    * [Mamma Mia](https://drafthouse.com/los-angeles/show/mamma-mia): Thu 5/14 (12:30pm)
+
+    * [Michael 2026](https://drafthouse.com/los-angeles/show/michael-2026): Thu 5/14 (12:15pm, 3:30pm, 6:45pm, 10:00pm)
+
+    * [Mortal Kombat Ii](https://drafthouse.com/los-angeles/show/mortal-kombat-ii): Thu 5/14 (12:00pm, 3:15pm, 6:30pm, 9:45pm)
+
+    * [Mother Mary](https://drafthouse.com/los-angeles/show/mother-mary): Thu 5/14 (1:15pm)
+
+    * [Project Hail Mary](https://drafthouse.com/los-angeles/show/project-hail-mary): Thu 5/14 (12:30pm, 4:15pm, 8:00pm, 9:00pm)
+
+    * [Rzas One Spoon Of Chocolate](https://drafthouse.com/los-angeles/show/rzas-one-spoon-of-chocolate): Thu 5/14 (10:15pm)
+
+    * [Serial Mom](https://drafthouse.com/los-angeles/show/serial-mom): Thu 5/14 (1:00pm)
+
+    * [The Devil Wears Prada 2](https://drafthouse.com/los-angeles/show/the-devil-wears-prada-2): Thu 5/14 (11:45am, 1:15pm, 1:45pm, 3:00pm, 6:15pm, 9:30pm)
+
+    * [The Drama](https://drafthouse.com/los-angeles/show/the-drama): Thu 5/14 (6:00pm)
+
+    * [The Sheep Detectives](https://drafthouse.com/los-angeles/show/the-sheep-detectives): Thu 5/14 (12:15pm, 3:15pm, 6:15pm, 9:15pm)
+
+    * [Top Gun 40th Anniversary](https://drafthouse.com/los-angeles/show/top-gun-40th-anniversary): Thu 5/14 (4:00pm)
+
+    * [Top Gun Maverick](https://drafthouse.com/los-angeles/show/top-gun-maverick): Thu 5/14 (7:00pm)
+
 ### Mon 5/11 8:19am
 * New movies: Grey Gardens 1975
 
