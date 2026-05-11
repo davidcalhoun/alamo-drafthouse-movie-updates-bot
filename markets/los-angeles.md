@@ -1,6 +1,41 @@
 # los-angeles
 
 ## Movie updates
+### Mon 5/11 3:57pm
+
+* New screenings: 
+    * [Billie Eilish Hit Me Hard And Soft The Tour](https://drafthouse.com/los-angeles/show/billie-eilish-hit-me-hard-and-soft-the-tour): Fri 5/15 (12:50pm, 10:30pm), Sat 5/16 (12:50pm, 10:30pm), Sun 5/17 (12:50pm, 10:30pm), Mon 5/18 (12:50pm, 10:30pm), Tue 5/19 (12:50pm, 10:30pm), Wed 5/20 (12:50pm, 10:30pm)
+
+    * [Hokum](https://drafthouse.com/los-angeles/show/hokum): Fri 5/15 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sat 5/16 (10:00am, 1:00pm, 4:00pm, 7:00pm, 10:00pm), Sun 5/17 (10:00am, 1:00pm, 4:00pm, 7:00pm, 10:00pm), Mon 5/18 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Tue 5/19 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Wed 5/20 (1:00pm, 4:00pm, 7:00pm, 10:00pm)
+
+    * [In The Grey](https://drafthouse.com/los-angeles/show/in-the-grey): Fri 5/15 (11:10am, 2:00pm, 10:30pm), Sat 5/16 (11:10am, 2:00pm, 10:30pm), Sun 5/17 (11:10am, 2:00pm, 10:30pm), Mon 5/18 (11:45am, 2:30pm, 5:15pm, 6:15pm, 9:15pm), Tue 5/19 (11:10am, 2:00pm, 4:50pm, 7:40pm, 10:30pm), Wed 5/20 (11:10am, 2:00pm, 4:50pm, 7:40pm, 10:30pm)
+
+    * [Is God Is](https://drafthouse.com/los-angeles/show/is-god-is): Fri 5/15 (11:45am, 2:30pm), Sat 5/16 (11:45am, 2:30pm), Sun 5/17 (11:45am, 2:30pm, 10:45pm), Mon 5/18 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Tue 5/19 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Wed 5/20 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm)
+
+    * [Michael 2026](https://drafthouse.com/los-angeles/show/michael-2026): Fri 5/15 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Sat 5/16 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Sun 5/17 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Mon 5/18 (11:45am, 3:00pm, 9:00pm), Tue 5/19 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Wed 5/20 (12:15pm, 3:30pm, 6:45pm, 10:00pm)
+
+    * [Mortal Kombat Ii](https://drafthouse.com/los-angeles/show/mortal-kombat-ii): Fri 5/15 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Sat 5/16 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Sun 5/17 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Mon 5/18 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Tue 5/19 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Wed 5/20 (12:00pm, 3:15pm, 6:30pm, 9:45pm)
+
+    * [Obsession 2026](https://drafthouse.com/los-angeles/show/obsession-2026): Fri 5/15 (1:00pm, 4:30pm, 6:45pm, 9:45pm, 10:30pm), Sat 5/16 (10:00am, 1:00pm, 3:00pm, 6:00pm, 6:45pm, 9:45pm), Sun 5/17 (10:00am, 1:00pm, 6:00pm, 9:00pm, 10:00pm), Mon 5/18 (12:15pm, 12:45pm, 3:45pm, 4:15pm, 6:45pm, 9:45pm), Tue 5/19 (11:30am, 1:30pm, 2:30pm, 4:30pm, 6:45pm, 8:45pm, 10:15pm), Wed 5/20 (11:30am, 2:30pm, 4:30pm, 7:15pm, 8:30pm, 9:45pm)
+
+    * [Project Hail Mary](https://drafthouse.com/los-angeles/show/project-hail-mary): Fri 5/15 (11:00am, 2:45pm, 6:30pm, 9:15pm), Sat 5/16 (10:30am, 2:15pm, 6:00pm, 9:15pm), Sun 5/17 (10:30am, 2:15pm, 6:00pm, 9:15pm), Mon 5/18 (11:45am, 3:30pm, 9:00pm), Tue 5/19 (11:00am, 2:45pm, 6:30pm, 9:15pm), Wed 5/20 (11:45am, 3:30pm, 9:15pm)
+
+    * [Shrek 25th Anniversary](https://drafthouse.com/los-angeles/show/shrek-25th-anniversary): Sun 5/17 (1:15pm)
+
+    * [Sorry To Bother You](https://drafthouse.com/los-angeles/show/sorry-to-bother-you): Fri 5/15 (1:30pm), Tue 5/19 (1:00pm), Wed 5/20 (12:45pm)
+
+    * [The Bridges Of Madison County](https://drafthouse.com/los-angeles/show/the-bridges-of-madison-county): Fri 5/15 (12:30pm), Mon 5/18 (12:45pm), Wed 5/20 (1:00pm)
+
+    * [The Devil Wears Prada 2](https://drafthouse.com/los-angeles/show/the-devil-wears-prada-2): Fri 5/15 (11:30am, 2:45pm, 6:00pm, 9:15pm), Sat 5/16 (11:45am, 3:00pm, 6:15pm, 9:30pm), Sun 5/17 (11:30am, 2:45pm, 6:00pm, 7:00pm, 9:15pm), Mon 5/18 (12:30pm, 3:15pm, 3:45pm, 7:15pm, 10:00pm), Tue 5/19 (11:30am, 2:45pm, 6:00pm, 9:15pm), Wed 5/20 (11:30am, 2:45pm, 3:45pm, 6:00pm, 9:15pm, 10:15pm)
+
+    * [The Drama](https://drafthouse.com/los-angeles/show/the-drama): Sat 5/16 (9:00pm), Tue 5/19 (9:45pm)
+
+    * [The Sheep Detectives](https://drafthouse.com/los-angeles/show/the-sheep-detectives): Fri 5/15 (12:15pm, 3:15pm, 6:15pm, 10:15pm), Sat 5/16 (12:15pm, 3:15pm, 6:15pm, 9:45pm), Sun 5/17 (12:15pm, 3:15pm, 6:15pm, 9:45pm), Mon 5/18 (12:00pm, 3:00pm, 6:00pm, 10:30pm), Tue 5/19 (12:15pm, 3:15pm, 6:15pm, 10:15pm), Wed 5/20 (12:15pm, 3:15pm, 6:15pm, 10:15pm)
+
+    * [Top Gun 40th Anniversary](https://drafthouse.com/los-angeles/show/top-gun-40th-anniversary): Fri 5/15 (7:30pm), Sat 5/16 (4:00pm), Sun 5/17 (7:30pm), Mon 5/18 (4:00pm), Tue 5/19 (7:30pm), Wed 5/20 (4:00pm)
+
+    * [Top Gun Maverick](https://drafthouse.com/los-angeles/show/top-gun-maverick): Fri 5/15 (4:00pm), Sat 5/16 (7:00pm), Sun 5/17 (4:00pm), Mon 5/18 (7:00pm), Tue 5/19 (4:00pm), Wed 5/20 (7:00pm)
+
 ### Mon 5/11 2:19pm
 * New movies: Top Gun: Maverick, Serial Mom, Top Gun 40th Anniversary
 
