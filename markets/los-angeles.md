@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Mon 5/11 5:00pm
+
+* New screenings: 
+    * [Attack On Titan The Movie The Last Attack Subtitled](https://drafthouse.com/los-angeles/show/attack-on-titan-the-movie-the-last-attack-subtitled): Mon 5/18 (9:00pm)
+
+    * [Shrek 25th Anniversary](https://drafthouse.com/los-angeles/show/shrek-25th-anniversary): Sat 5/16 (3:15pm), Sun 5/17 (6:00pm)
+
 ### Mon 5/11 3:57pm
 
 * New screenings: 
