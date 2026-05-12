@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 5/12 4:03pm
+
+* New screenings: 
+    * [Shrek 25th Anniversary](https://drafthouse.com/raleigh/show/shrek-25th-anniversary): Sat 5/16 (11:30am)
+
 ### Tue 5/12 1:18pm
 
 * New screenings: 
