@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Mon 5/11 8:38pm
+
+* New screenings: 
+    * [Top Gun 40th Anniversary](https://drafthouse.com/los-angeles/show/top-gun-40th-anniversary): Wed 5/13 (12:00pm, 6:45pm)
+
+    * [Top Gun Maverick](https://drafthouse.com/los-angeles/show/top-gun-maverick): Wed 5/13 (3:15pm, 10:00pm)
+
 ### Mon 5/11 5:00pm
 
 * New screenings: 
