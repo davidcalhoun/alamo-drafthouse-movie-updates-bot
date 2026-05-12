@@ -1,6 +1,46 @@
 # raleigh
 
 ## Movie updates
+### Mon 5/11 8:05pm
+* New movies: In The Grey
+
+* New screenings: 
+    * [Attack On Titan The Movie The Last Attack Subtitled](https://drafthouse.com/raleigh/show/attack-on-titan-the-movie-the-last-attack-subtitled): Mon 5/18 (9:35pm)
+
+    * [Billie Eilish Hit Me Hard And Soft The Tour](https://drafthouse.com/raleigh/show/billie-eilish-hit-me-hard-and-soft-the-tour): Thu 5/14 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Fri 5/15 (1:15pm, 4:15pm, 6:45pm, 9:45pm), Sat 5/16 (12:45pm, 3:45pm, 7:45pm, 10:45pm), Sun 5/17 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Mon 5/18 (12:30pm, 3:30pm, 10:40pm), Tue 5/19 (12:45pm, 4:00pm, 7:15pm), Wed 5/20 (1:30pm, 4:00pm, 10:35pm)
+
+    * [Hokum](https://drafthouse.com/raleigh/show/hokum): Thu 5/14 (1:15pm, 4:45pm, 7:45pm, 10:40pm), Fri 5/15 (10:00pm), Sat 5/16 (7:00pm, 10:00pm), Sun 5/17 (7:30pm, 10:30pm), Mon 5/18 (10:15pm), Tue 5/19 (7:00pm, 10:00pm), Wed 5/20 (7:00pm, 10:15pm)
+
+    * [I Love Boosters](https://drafthouse.com/raleigh/show/i-love-boosters): Thu 5/21 (10:30pm)
+
+    * [In The Grey](https://drafthouse.com/raleigh/show/in-the-grey): Thu 5/14 (7:45pm, 10:45pm), Fri 5/15 (1:00pm, 4:50pm, 7:45pm, 10:45pm), Sat 5/16 (1:00pm, 4:55pm, 7:45pm, 10:45pm), Sun 5/17 (1:30pm, 4:30pm, 7:15pm, 10:15pm), Mon 5/18 (1:30pm, 4:30pm, 7:45pm, 10:30pm), Tue 5/19 (1:15pm, 4:45pm, 7:30pm, 10:15pm), Wed 5/20 (1:00pm, 5:00pm, 7:45pm, 10:45pm)
+
+    * [Iron Maiden Burning Ambition](https://drafthouse.com/raleigh/show/iron-maiden-burning-ambition): Thu 5/14 (11:30am, 10:00pm)
+
+    * [Is God Is](https://drafthouse.com/raleigh/show/is-god-is): Thu 5/14 (9:00pm), Fri 5/15 (12:30pm, 3:30pm, 9:15pm), Sat 5/16 (1:30pm, 4:45pm, 9:15pm), Sun 5/17 (12:00pm, 3:00pm, 9:15pm), Mon 5/18 (1:00pm, 1:00pm, 4:15pm, 4:15pm, 7:15pm, 10:30pm), Tue 5/19 (12:15pm, 3:15pm, 6:30pm, 9:15pm), Wed 5/20 (12:00pm, 3:15pm, 6:30pm, 9:15pm)
+
+    * [Michael 2026](https://drafthouse.com/raleigh/show/michael-2026): Thu 5/14 (12:00pm, 12:30pm, 1:30pm, 3:15pm, 3:45pm, 4:30pm, 6:45pm, 7:00pm, 10:15pm), Fri 5/15 (11:45am, 3:00pm, 7:15pm, 10:30pm), Sat 5/16 (11:30am, 3:00pm, 6:45pm, 10:15pm), Sun 5/17 (11:30am, 2:45pm, 6:00pm, 9:30pm), Mon 5/18 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Tue 5/19 (11:45am, 3:15pm, 6:30pm, 9:45pm), Wed 5/20 (11:45am, 3:15pm, 6:45pm, 10:00pm)
+
+    * [Mortal Kombat Ii](https://drafthouse.com/raleigh/show/mortal-kombat-ii): Thu 5/14 (12:00pm, 3:15pm, 6:30pm, 9:30pm), Fri 5/15 (1:30pm, 4:45pm, 7:45pm, 10:45pm), Sat 5/16 (1:00pm, 4:15pm, 7:30pm, 10:30pm), Sun 5/17 (1:00pm, 4:15pm, 7:45pm, 10:45pm), Mon 5/18 (1:30pm, 4:45pm, 7:45pm, 10:45pm), Tue 5/19 (1:15pm, 4:30pm, 7:45pm, 10:45pm), Wed 5/20 (1:30pm, 4:30pm, 7:30pm, 10:30pm)
+
+    * [Movie Party Shrek 25th Anniversary](https://drafthouse.com/raleigh/show/movie-party-shrek-25th-anniversary): Sat 5/16 (11:30am)
+
+    * [Obsession 2026](https://drafthouse.com/raleigh/show/obsession-2026): Fri 5/15 (11:30am, 2:45pm, 7:00pm), Sat 5/16 (11:45am, 2:45pm, 10:00pm), Sun 5/17 (12:00pm, 4:00pm), Mon 5/18 (11:30am, 2:45pm, 6:00pm, 9:00pm), Tue 5/19 (12:30pm, 3:30pm, 6:30pm, 10:35pm), Wed 5/20 (12:45pm, 4:00pm, 7:00pm, 10:00pm)
+
+    * [Passenger](https://drafthouse.com/raleigh/show/passenger): Thu 5/21 (3:30pm)
+
+    * [Project Hail Mary](https://drafthouse.com/raleigh/show/project-hail-mary): Thu 5/14 (12:15pm, 2:15pm, 6:00pm, 9:45pm), Fri 5/15 (12:00pm, 2:15pm, 6:00pm, 9:45pm), Sat 5/16 (1:15pm, 2:15pm, 6:00pm, 9:50pm), Sun 5/17 (12:15pm, 2:20pm, 6:00pm, 9:45pm), Mon 5/18 (12:00pm, 2:15pm, 6:00pm, 9:45pm), Tue 5/19 (1:30pm, 2:15pm, 6:00pm, 9:45pm), Wed 5/20 (12:15pm, 2:15pm, 6:00pm, 9:45pm)
+
+    * [Shrek 25th Anniversary](https://drafthouse.com/raleigh/show/shrek-25th-anniversary): Sun 5/17 (1:45pm), Tue 5/19 (5:30pm)
+
+    * [Star Wars The Mandalorian And Grogu](https://drafthouse.com/raleigh/show/star-wars-the-mandalorian-and-grogu): Thu 5/21 (7:00pm)
+
+    * [The Devil Wears Prada 2](https://drafthouse.com/raleigh/show/the-devil-wears-prada-2): Thu 5/14 (1:00pm, 2:45pm, 4:15pm, 7:30pm, 10:45pm), Fri 5/15 (1:00pm, 3:45pm, 4:15pm, 7:30pm, 10:45pm), Sat 5/16 (12:00pm, 4:00pm, 7:15pm, 10:30pm), Sun 5/17 (1:15pm, 4:15pm, 4:25pm, 7:30pm, 8:45pm, 10:45pm), Mon 5/18 (12:45pm, 3:45pm, 3:55pm, 6:30pm, 10:00pm), Tue 5/19 (1:00pm, 1:30pm, 3:45pm, 4:15pm, 7:30pm, 10:30pm), Wed 5/20 (11:30am, 1:15pm, 2:45pm, 3:45pm, 4:45pm, 7:15pm, 10:30pm)
+
+    * [The Sheep Detectives](https://drafthouse.com/raleigh/show/the-sheep-detectives): Thu 5/14 (11:45am, 2:45pm, 6:15pm, 9:15pm), Fri 5/15 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sat 5/16 (12:00pm, 3:15pm, 6:15pm, 9:15pm), Sun 5/17 (11:30am, 3:15pm, 6:15pm, 9:15pm), Mon 5/18 (11:45am, 3:00pm, 6:15pm, 9:15pm), Tue 5/19 (11:30am, 2:45pm, 6:00pm, 9:00pm), Wed 5/20 (12:00pm, 3:00pm, 6:15pm, 9:15pm)
+
+    * [The Super Mario Galaxy Movie](https://drafthouse.com/raleigh/show/the-super-mario-galaxy-movie): Fri 5/15 (1:45pm)
+
 ### Sat 5/9 11:02am
 * New movies: Blow Out, Body Double
 
