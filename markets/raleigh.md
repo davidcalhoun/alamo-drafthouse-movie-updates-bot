@@ -1,6 +1,17 @@
 # raleigh
 
 ## Movie updates
+### Tue 5/12 1:18pm
+
+* New screenings: 
+    * [Attack On Titan The Movie The Last Attack Subtitled](https://drafthouse.com/raleigh/show/attack-on-titan-the-movie-the-last-attack-subtitled): Tue 5/19 (9:15pm), Wed 5/20 (9:15pm)
+
+    * [Is God Is](https://drafthouse.com/raleigh/show/is-god-is): Tue 5/19 (10:00pm), Wed 5/20 (10:15pm)
+
+    * [The Devil Wears Prada 2](https://drafthouse.com/raleigh/show/the-devil-wears-prada-2): Thu 5/14 (10:00pm)
+
+    * [The Super Mario Galaxy Movie](https://drafthouse.com/raleigh/show/the-super-mario-galaxy-movie): Thu 5/14 (11:45am)
+
 ### Mon 5/11 8:05pm
 * New movies: In The Grey
 
