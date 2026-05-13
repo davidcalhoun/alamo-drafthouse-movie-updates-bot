@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 5/13 6:16am
+* New movies: Pressure 2026, Pressure 2026
+
+* New screenings: 
+    * [Advance Screening Pressure 2026 Memorial Day Early Access](https://drafthouse.com/los-angeles/show/advance-screening-pressure-2026-memorial-day-early-access): Mon 5/25 (2:00pm)
+
+    * [Pressure 2026](https://drafthouse.com/los-angeles/show/pressure-2026): Thu 5/28 (5:00pm, 7:45pm), Fri 5/29 (5:00pm, 7:45pm), Sat 5/30 (5:00pm, 7:45pm), Sun 5/31 (5:00pm, 7:45pm)
+
 ### Mon 5/11 8:38pm
 
 * New screenings: 
