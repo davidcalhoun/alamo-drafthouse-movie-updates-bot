@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 5/13 9:22am
+* New movies: Cape Fear 1991
+
+* New screenings: 
+    * [Free Victory Screening Cape Fear 1991](https://drafthouse.com/los-angeles/show/free-victory-screening-cape-fear-1991): Wed 5/27 (7:00pm)
+
 ### Wed 5/13 6:16am
 * New movies: Pressure 2026, Pressure 2026
 
