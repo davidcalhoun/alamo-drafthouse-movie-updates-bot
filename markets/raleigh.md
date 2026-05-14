@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 5/14 5:17pm
+* New movies: The Devil Queen
+
+* New screenings: 
+    * [Weird Wednesday The Devil Queen](https://drafthouse.com/raleigh/show/weird-wednesday-the-devil-queen): Wed 6/17 (9:30pm)
+
 ### Thu 5/14 3:57pm
 * New movies: Chime + Serpent's Path Double Feature
 
