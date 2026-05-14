@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 5/14 11:25am
+* New movies: But I'm a Cheerleader
+
+* New screenings: 
+    * [Movie Party But Im A Cheerleader](https://drafthouse.com/raleigh/show/movie-party-but-im-a-cheerleader): Thu 6/18 (7:00pm)
+
 ### Tue 5/12 4:03pm
 
 * New screenings: 
