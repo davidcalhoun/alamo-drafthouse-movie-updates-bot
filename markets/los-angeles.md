@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Thu 5/14 12:50pm
+* New movies: Passenger, But I'm a Cheerleader, Chime + Serpent's Path Double Feature, Saccharine
+
+* New screenings: 
+    * [Movie Party But Im A Cheerleader](https://drafthouse.com/los-angeles/show/movie-party-but-im-a-cheerleader): Sun 6/14 (2:45pm), Thu 6/18 (7:00pm)
+
+    * [Passenger](https://drafthouse.com/los-angeles/show/passenger): Thu 5/21 (7:30pm), Fri 5/22 (7:30pm, 10:15pm), Sat 5/23 (7:30pm, 10:15pm), Sun 5/24 (7:30pm, 10:15pm)
+
+    * [Saccharine](https://drafthouse.com/los-angeles/show/saccharine): Sat 5/23 (10:00pm)
+
+    * [Terror Tuesday Chime Serpents Path Double Feature](https://drafthouse.com/los-angeles/show/terror-tuesday-chime-serpents-path-double-feature): Tue 6/9 (7:20pm)
+
 ### Thu 5/14 10:55am
 * New movies: Godzilla vs. Biollante
 
