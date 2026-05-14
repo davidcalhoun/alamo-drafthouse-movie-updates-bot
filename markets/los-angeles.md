@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 5/14 10:55am
+* New movies: Godzilla vs. Biollante
+
+* New screenings: 
+    * [Godzilla Vs Biollante](https://drafthouse.com/los-angeles/show/godzilla-vs-biollante): Sun 6/28 (12:30pm)
+
 ### Wed 5/13 9:22am
 * New movies: Cape Fear 1991
 
