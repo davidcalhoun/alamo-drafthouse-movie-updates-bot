@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 5/14 2:13pm
+* New movies: The Devil Queen
+
+* New screenings: 
+    * [Saccharine](https://drafthouse.com/los-angeles/show/saccharine): Sun 5/24 (10:00pm)
+
+    * [Weird Wednesday The Devil Queen](https://drafthouse.com/los-angeles/show/weird-wednesday-the-devil-queen): Wed 6/17 (7:20pm)
+
 ### Thu 5/14 12:50pm
 * New movies: Passenger, But I'm a Cheerleader, Chime + Serpent's Path Double Feature, Saccharine
 
