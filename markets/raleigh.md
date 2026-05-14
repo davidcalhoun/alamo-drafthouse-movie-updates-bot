@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 5/14 3:57pm
+* New movies: Chime + Serpent's Path Double Feature
+
+* New screenings: 
+    * [Terror Tuesday Chime Serpents Path Double Feature](https://drafthouse.com/raleigh/show/terror-tuesday-chime-serpents-path-double-feature): Tue 6/9 (9:30pm)
+
 ### Thu 5/14 11:25am
 * New movies: But I'm a Cheerleader
 
