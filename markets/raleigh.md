@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 5/15 12:56pm
+* New movies: Office Romance
+
+* New screenings: 
+    * [Free Victory Screening Office Romance](https://drafthouse.com/raleigh/show/free-victory-screening-office-romance): Tue 6/2 (7:00pm)
+
 ### Thu 5/14 5:17pm
 * New movies: The Devil Queen
 
