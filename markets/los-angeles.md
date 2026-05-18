@@ -1,6 +1,68 @@
 # los-angeles
 
 ## Movie updates
+### Mon 5/18 3:05pm
+* New movies: Flow, Guillermo del Toro's Pinocchio, KPop Demon Hunters, Arco, Matilda, Paddington 2, Cave of Forgotten Dreams, I Am Not Your Negro, Marcel the Shell with Shoes On, Where is the Friend's House?
+
+* New screenings: 
+    * [Adaptation](https://drafthouse.com/los-angeles/show/adaptation): Tue 5/26 (4:00pm)
+
+    * [Billie Eilish Hit Me Hard And Soft The Tour](https://drafthouse.com/los-angeles/show/billie-eilish-hit-me-hard-and-soft-the-tour): Thu 5/21 (11:00am)
+
+    * [Carrie](https://drafthouse.com/los-angeles/show/carrie): Tue 5/26 (10:00pm)
+
+    * [Cave Of Forgotten Dreams](https://drafthouse.com/los-angeles/show/cave-of-forgotten-dreams): Sun 6/7 (1:15pm)
+
+    * [Hokum](https://drafthouse.com/los-angeles/show/hokum): Thu 5/21 (1:00pm, 4:00pm, 7:00pm), Fri 5/22 (3:00pm, 10:30pm), Sat 5/23 (3:00pm, 9:00pm), Sun 5/24 (3:00pm, 9:00pm), Mon 5/25 (3:00pm, 9:00pm), Tue 5/26 (3:00pm, 9:00pm), Wed 5/27 (3:30pm, 10:10pm)
+
+    * [I Am Not Your Negro](https://drafthouse.com/los-angeles/show/i-am-not-your-negro): Fri 6/19 (4:00pm)
+
+    * [I Love Boosters](https://drafthouse.com/los-angeles/show/i-love-boosters): Thu 5/21 (8:00pm), Fri 5/22 (10:00am, 10:45am, 12:00pm, 1:00pm, 1:45pm, 4:00pm, 6:00pm, 10:15pm), Sat 5/23 (10:45am, 12:00pm, 1:45pm, 3:30pm, 6:00pm), Sun 5/24 (10:00am, 10:45am, 12:00pm, 1:00pm, 1:45pm, 4:00pm, 6:00pm, 7:00pm), Mon 5/25 (10:45am, 11:00am, 12:00pm, 1:45pm, 6:00pm, 10:15pm), Tue 5/26 (11:30am, 12:00pm, 2:30pm, 4:30pm, 5:30pm, 6:00pm, 8:30pm), Wed 5/27 (11:45am, 12:30pm, 12:30pm, 2:45pm, 5:45pm, 6:00pm, 8:45pm, 10:00pm)
+
+    * [In The Grey](https://drafthouse.com/los-angeles/show/in-the-grey): Thu 5/21 (1:15pm, 4:10pm), Sat 5/23 (9:00pm), Mon 5/25 (5:00pm)
+
+    * [Is God Is](https://drafthouse.com/los-angeles/show/is-god-is): Thu 5/21 (11:45am, 2:30pm, 5:15pm, 8:00pm), Fri 5/22 (10:30am, 1:15pm, 4:00pm, 6:45pm, 9:30pm), Sat 5/23 (10:30am, 1:15pm, 4:00pm, 6:45pm, 9:30pm), Sun 5/24 (10:30am, 1:15pm, 4:00pm, 6:45pm, 9:30pm), Mon 5/25 (10:30am, 1:15pm, 4:00pm, 6:45pm, 9:30pm), Tue 5/26 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Wed 5/27 (11:00am, 1:45pm, 4:30pm, 7:15pm, 10:00pm)
+
+    * [Kids Camp Arco](https://drafthouse.com/los-angeles/show/kids-camp-arco): Fri 7/24 (12:30pm), Mon 7/27 (4:00pm), Tue 7/28 (4:00pm)
+
+    * [Kids Camp Flow](https://drafthouse.com/los-angeles/show/kids-camp-flow): Fri 7/17 (12:30pm), Mon 7/20 (4:00pm), Tue 7/21 (4:00pm), Wed 7/22 (4:00pm)
+
+    * [Kids Camp Guillermo Del Toros Pinocchio](https://drafthouse.com/los-angeles/show/kids-camp-guillermo-del-toros-pinocchio): Fri 6/26 (12:30pm), Mon 6/29 (4:00pm), Tue 6/30 (4:00pm), Wed 7/1 (4:00pm)
+
+    * [Kids Camp Kpop Demon Hunters](https://drafthouse.com/los-angeles/show/kids-camp-kpop-demon-hunters): Mon 6/15 (12:45pm), Tue 6/16 (12:45pm), Wed 6/17 (4:00pm), Thu 6/18 (4:00pm)
+
+    * [Kids Camp Marcel The Shell With Shoes On](https://drafthouse.com/los-angeles/show/kids-camp-marcel-the-shell-with-shoes-on): Fri 8/7 (12:30pm)
+
+    * [Kids Camp Matilda](https://drafthouse.com/los-angeles/show/kids-camp-matilda): Mon 6/8 (1:15pm), Tue 6/9 (1:15pm), Wed 6/10 (1:15pm)
+
+    * [Kids Camp Paddington 2](https://drafthouse.com/los-angeles/show/kids-camp-paddington-2): Mon 8/3 (12:30pm), Tue 8/4 (12:30pm), Wed 8/5 (12:30pm)
+
+    * [Kids Camp Where Is The Friends House](https://drafthouse.com/los-angeles/show/kids-camp-where-is-the-friends-house): Fri 8/21 (12:30pm)
+
+    * [Michael 2026](https://drafthouse.com/los-angeles/show/michael-2026): Thu 5/21 (12:45pm)
+
+    * [Mortal Kombat Ii](https://drafthouse.com/los-angeles/show/mortal-kombat-ii): Thu 5/21 (12:00pm, 3:15pm, 6:30pm), Fri 5/22 (11:45am, 3:00pm, 6:15pm, 9:30pm), Sat 5/23 (11:45am, 3:00pm, 6:15pm, 9:30pm), Sun 5/24 (11:45am, 3:00pm, 6:15pm, 9:30pm), Mon 5/25 (11:45am, 3:00pm, 6:15pm, 9:30pm), Tue 5/26 (11:45am, 3:00pm, 6:15pm, 9:30pm), Wed 5/27 (11:45am, 3:00pm, 6:15pm, 9:30pm)
+
+    * [Obsession 2026](https://drafthouse.com/los-angeles/show/obsession-2026): Thu 5/21 (11:00am, 2:00pm, 5:00pm, 8:00pm), Fri 5/22 (10:15am, 12:30pm, 1:15pm, 4:15pm, 7:15pm, 10:15pm), Sat 5/23 (10:15am, 12:30pm, 1:15pm, 4:15pm, 6:00pm, 7:15pm, 10:15pm), Sun 5/24 (10:15am, 1:15pm, 4:15pm, 6:45pm, 7:15pm, 9:45pm, 10:15pm), Mon 5/25 (10:15am, 12:45pm, 1:15pm, 4:15pm, 7:15pm, 10:15pm), Tue 5/26 (11:00am, 2:00pm, 5:00pm, 8:00pm, 10:30pm), Wed 5/27 (12:00pm, 1:45pm, 3:00pm, 4:45pm, 7:45pm, 10:00pm, 10:45pm)
+
+    * [Passenger](https://drafthouse.com/los-angeles/show/passenger): Thu 5/21 (2:00pm, 4:45pm), Fri 5/22 (11:15am, 2:00pm, 4:45pm), Sat 5/23 (11:15am, 2:00pm, 4:45pm), Sun 5/24 (11:15am, 2:00pm, 4:45pm), Mon 5/25 (12:30pm, 3:15pm, 4:45pm, 7:30pm, 10:15pm), Tue 5/26 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Wed 5/27 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm)
+
+    * [Project Hail Mary](https://drafthouse.com/los-angeles/show/project-hail-mary): Thu 5/21 (11:15am, 12:15pm)
+
+    * [Queer Film Theory 101 Funeral Parade Of Roses](https://drafthouse.com/los-angeles/show/queer-film-theory-101-funeral-parade-of-roses): Tue 5/26 (1:00pm)
+
+    * [Saccharine](https://drafthouse.com/los-angeles/show/saccharine): Wed 5/27 (9:00pm)
+
+    * [Star Wars The Mandalorian And Grogu](https://drafthouse.com/los-angeles/show/star-wars-the-mandalorian-and-grogu): Thu 5/21 (4:00pm, 6:45pm, 7:30pm), Fri 5/22 (10:00am, 1:20pm, 3:30pm, 4:40pm, 8:00pm, 9:00pm), Sat 5/23 (11:30am, 1:20pm, 4:40pm, 6:30pm, 8:00pm), Sun 5/24 (12:30pm, 1:20pm, 4:40pm, 8:00pm), Mon 5/25 (10:00am, 1:20pm, 3:45pm, 7:45pm, 10:00pm), Tue 5/26 (11:00am, 1:00pm, 2:20pm, 5:40pm, 9:00pm), Wed 5/27 (12:45pm, 3:30pm, 4:10pm)
+
+    * [The Devil Wears Prada 2](https://drafthouse.com/los-angeles/show/the-devil-wears-prada-2): Thu 5/21 (11:30am, 2:45pm, 6:00pm), Fri 5/22 (11:30am, 2:45pm, 6:00pm, 9:15pm), Sat 5/23 (11:30am, 2:45pm, 6:00pm, 9:15pm), Sun 5/24 (11:30am, 2:45pm, 6:00pm, 9:15pm), Mon 5/25 (11:30am, 2:45pm, 6:00pm, 9:15pm), Tue 5/26 (11:30am, 2:45pm, 6:00pm, 9:15pm), Wed 5/27 (11:30am, 2:45pm, 6:00pm, 9:15pm)
+
+    * [The Sheep Detectives](https://drafthouse.com/los-angeles/show/the-sheep-detectives): Thu 5/21 (12:15pm, 3:15pm, 6:15pm), Fri 5/22 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sat 5/23 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sun 5/24 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Mon 5/25 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Tue 5/26 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Wed 5/27 (12:15pm, 3:15pm, 6:15pm, 9:15pm)
+
+    * [Top Gun 40th Anniversary](https://drafthouse.com/los-angeles/show/top-gun-40th-anniversary): Thu 5/21 (1:30pm)
+
+    * [Top Gun Maverick](https://drafthouse.com/los-angeles/show/top-gun-maverick): Thu 5/21 (4:30pm)
+
 ### Mon 5/18 1:26pm
 * New movies: Showgirls
 
