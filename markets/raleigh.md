@@ -1,6 +1,38 @@
 # raleigh
 
 ## Movie updates
+### Mon 5/18 6:08pm
+* New movies: Steal This Story, Please!
+
+* New screenings: 
+    * [Attack On Titan The Movie The Last Attack Subtitled](https://drafthouse.com/raleigh/show/attack-on-titan-the-movie-the-last-attack-subtitled): Thu 5/21 (12:30pm)
+
+    * [I Love Boosters](https://drafthouse.com/raleigh/show/i-love-boosters): Fri 5/22 (10:00am, 1:15pm, 4:30pm, 10:30pm), Sat 5/23 (10:00am, 1:15pm, 4:30pm, 10:30pm), Sun 5/24 (10:00am, 1:15pm, 4:30pm, 10:30pm), Mon 5/25 (10:00am, 1:15pm, 4:30pm, 10:30pm), Tue 5/26 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Wed 5/27 (1:00pm, 4:00pm, 7:00pm, 9:30pm, 10:00pm)
+
+    * [In The Grey](https://drafthouse.com/raleigh/show/in-the-grey): Thu 5/21 (1:00pm)
+
+    * [Is God Is](https://drafthouse.com/raleigh/show/is-god-is): Thu 5/21 (1:30pm, 4:15pm, 7:00pm, 9:45pm), Fri 5/22 (7:45pm, 10:30pm), Sat 5/23 (7:45pm, 10:30pm), Sun 5/24 (7:45pm, 10:30pm), Mon 5/25 (7:45pm, 10:30pm), Tue 5/26 (7:45pm, 10:45pm), Wed 5/27 (10:45pm)
+
+    * [Michael 2026](https://drafthouse.com/raleigh/show/michael-2026): Thu 5/21 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Fri 5/22 (11:00am, 11:45am, 3:05pm, 6:15pm, 9:30pm), Sat 5/23 (9:30am, 11:30am, 2:45pm, 6:15pm, 9:30pm), Sun 5/24 (9:30am, 11:30am, 2:45pm, 6:15pm, 9:30pm), Mon 5/25 (11:00am, 11:30am, 2:45pm, 6:15pm, 9:30pm), Tue 5/26 (11:30am, 2:45pm, 6:15pm, 9:45pm), Wed 5/27 (11:30am, 2:45pm, 6:15pm, 9:45pm)
+
+    * [Mortal Kombat Ii](https://drafthouse.com/raleigh/show/mortal-kombat-ii): Thu 5/21 (1:45pm, 4:45pm, 7:45pm, 10:45pm), Fri 5/22 (10:00am, 1:15pm, 4:15pm, 7:15pm, 10:15pm), Sat 5/23 (10:00am, 1:00pm, 4:00pm, 7:15pm, 10:15pm), Sun 5/24 (10:00am, 1:00pm, 4:00pm, 7:15pm, 10:15pm), Mon 5/25 (10:00am, 1:00pm, 4:00pm, 7:15pm, 10:15pm), Tue 5/26 (12:45pm, 4:15pm, 7:15pm, 10:30pm), Wed 5/27 (12:45pm, 4:15pm, 7:15pm, 10:30pm)
+
+    * [Obsession 2026](https://drafthouse.com/raleigh/show/obsession-2026): Thu 5/21 (11:45am, 3:00pm, 6:00pm, 9:30pm), Fri 5/22 (11:00am, 12:00pm, 3:30pm, 7:00pm, 10:00pm), Sat 5/23 (11:00am, 1:00pm, 4:00pm, 7:00pm, 10:00pm), Sun 5/24 (11:00am, 1:00pm, 4:00pm, 7:00pm, 10:00pm), Mon 5/25 (11:45am, 2:45pm, 6:00pm, 9:15pm), Tue 5/26 (1:30pm, 4:45pm, 7:45pm, 10:45pm), Wed 5/27 (1:30pm, 4:45pm, 7:45pm, 10:45pm)
+
+    * [Passenger](https://drafthouse.com/raleigh/show/passenger): Fri 5/22 (11:30am, 2:15pm, 5:00pm), Sat 5/23 (11:30am, 2:15pm, 5:00pm), Sun 5/24 (11:30am, 2:15pm, 5:00pm), Mon 5/25 (11:00am, 2:00pm, 4:00pm), Tue 5/26 (1:00pm, 4:15pm, 7:30pm, 10:15pm), Wed 5/27 (1:00pm, 3:45pm, 7:45pm)
+
+    * [Project Hail Mary](https://drafthouse.com/raleigh/show/project-hail-mary): Thu 5/21 (3:45pm)
+
+    * [Shrek 25th Anniversary](https://drafthouse.com/raleigh/show/shrek-25th-anniversary): Thu 5/21 (11:45am)
+
+    * [Star Wars The Mandalorian And Grogu](https://drafthouse.com/raleigh/show/star-wars-the-mandalorian-and-grogu): Thu 5/21 (4:30pm, 8:00pm, 10:30pm), Fri 5/22 (2:00pm, 2:35pm, 3:05pm, 6:00pm, 8:00pm, 9:30pm), Sat 5/23 (11:00am, 12:00pm, 2:15pm, 2:30pm, 6:00pm, 8:00pm, 9:30pm), Sun 5/24 (11:00am, 11:45am, 2:15pm, 2:30pm, 6:00pm, 8:00pm, 9:30pm), Mon 5/25 (9:30am, 11:30am, 12:30pm, 2:30pm, 3:00pm, 5:00pm, 8:30pm, 9:00pm), Tue 5/26 (11:00am, 11:15am, 11:30am, 12:00pm, 2:40pm, 3:00pm, 3:30pm, 7:00pm, 10:30pm), Wed 5/27 (11:30am, 12:00pm, 12:30pm, 2:45pm, 3:30pm, 4:00pm, 10:30pm)
+
+    * [Steal This Story Please](https://drafthouse.com/raleigh/show/steal-this-story-please): Thu 5/21 (12:15pm)
+
+    * [The Devil Wears Prada 2](https://drafthouse.com/raleigh/show/the-devil-wears-prada-2): Thu 5/21 (12:30pm, 12:45pm, 3:35pm, 6:45pm, 10:00pm), Fri 5/22 (9:15am, 12:30pm, 3:35pm, 6:45pm, 10:00pm), Sat 5/23 (9:15am, 12:30pm, 3:35pm, 6:45pm, 10:00pm), Sun 5/24 (9:15am, 12:30pm, 3:35pm, 6:45pm, 10:00pm), Mon 5/25 (9:15am, 12:30pm, 3:35pm, 6:45pm, 10:00pm), Tue 5/26 (12:00pm, 3:30pm, 6:45pm, 10:15pm), Wed 5/27 (12:00pm, 3:30pm, 6:45pm, 10:15pm)
+
+    * [The Sheep Detectives](https://drafthouse.com/raleigh/show/the-sheep-detectives): Thu 5/21 (12:00pm, 3:15pm, 6:15pm, 9:15pm), Fri 5/22 (10:45am, 1:45pm, 4:45pm, 6:00pm, 9:00pm), Sat 5/23 (10:30am, 1:45pm, 4:45pm, 6:00pm, 9:00pm), Sun 5/24 (10:30am, 1:45pm, 4:45pm, 6:00pm, 9:00pm), Mon 5/25 (10:30am, 1:45pm, 4:45pm, 6:00pm, 9:00pm), Tue 5/26 (1:30pm, 4:45pm, 6:00pm, 9:00pm), Wed 5/27 (1:30pm, 4:45pm, 6:00pm, 9:00pm)
+
 ### Mon 5/18 4:40pm
 * New movies: The Terminator
 
