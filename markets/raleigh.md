@@ -1,6 +1,20 @@
 # raleigh
 
 ## Movie updates
+### Mon 5/18 12:30pm
+* New movies: Scary Movie 2026, Boogie Nights, Aftersun, Body Blow, Scary Movie 2026
+
+* New screenings: 
+    * [Aftersun](https://drafthouse.com/raleigh/show/aftersun): Sun 6/21 (11:00am)
+
+    * [Body Blow](https://drafthouse.com/raleigh/show/body-blow): Mon 6/29 (10:00pm)
+
+    * [Boogie Nights](https://drafthouse.com/raleigh/show/boogie-nights): Sat 6/13 (9:00pm), Sun 6/14 (6:00pm)
+
+    * [Fan Event Scary Movie 2026](https://drafthouse.com/raleigh/show/fan-event-scary-movie-2026): Thu 6/4 (7:00pm)
+
+    * [Scary Movie 2026](https://drafthouse.com/raleigh/show/scary-movie-2026): Thu 6/4 (4:00pm, 10:15pm), Fri 6/5 (10:45am, 1:45pm, 4:30pm, 7:30pm, 10:30pm), Sat 6/6 (10:00am, 1:15pm, 4:15pm, 7:30pm, 10:00pm), Sun 6/7 (10:00am, 1:00pm, 4:00pm, 7:00pm, 10:15pm)
+
 ### Fri 5/15 12:56pm
 * New movies: Office Romance
 
