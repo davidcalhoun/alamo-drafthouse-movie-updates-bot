@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 5/18 1:26pm
+* New movies: Showgirls
+
+* New screenings: 
+    * [Movie Party Showgirls](https://drafthouse.com/los-angeles/show/movie-party-showgirls): Mon 6/8 (7:00pm)
+
 ### Mon 5/18 9:27am
 * New movies: Scary Movie 2026, Boogie Nights, Camp, Aftersun, Body Blow, Scary Movie 2026
 
