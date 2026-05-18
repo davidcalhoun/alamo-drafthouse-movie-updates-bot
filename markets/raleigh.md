@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 5/18 4:40pm
+* New movies: The Terminator
+
+* New screenings: 
+    * [Terror Tuesday The Terminator 1984](https://drafthouse.com/raleigh/show/terror-tuesday-the-terminator-1984): Tue 6/2 (9:00pm)
+
 ### Mon 5/18 2:56pm
 * New movies: Office Romance
 
