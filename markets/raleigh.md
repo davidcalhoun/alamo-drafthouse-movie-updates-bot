@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 5/18 2:56pm
+* New movies: Office Romance
+
+* New screenings: 
+    * [Free Victory Screening Office Romance](https://drafthouse.com/raleigh/show/free-victory-screening-office-romance): Tue 6/2 (7:00pm)
+
 ### Mon 5/18 12:30pm
 * New movies: Scary Movie 2026, Boogie Nights, Aftersun, Body Blow, Scary Movie 2026
 
