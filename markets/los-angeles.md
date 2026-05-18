@@ -1,6 +1,22 @@
 # los-angeles
 
 ## Movie updates
+### Mon 5/18 9:27am
+* New movies: Scary Movie 2026, Boogie Nights, Camp, Aftersun, Body Blow, Scary Movie 2026
+
+* New screenings: 
+    * [Aftersun](https://drafthouse.com/los-angeles/show/aftersun): Sun 6/21 (11:00am)
+
+    * [Body Blow](https://drafthouse.com/los-angeles/show/body-blow): Mon 6/29 (7:00pm)
+
+    * [Boogie Nights](https://drafthouse.com/los-angeles/show/boogie-nights): Sat 6/13 (9:45pm), Sun 6/14 (5:30pm)
+
+    * [Camp](https://drafthouse.com/los-angeles/show/camp): Fri 6/26 (9:45pm), Thu 7/2 (4:00pm)
+
+    * [Fan Event Scary Movie 2026](https://drafthouse.com/los-angeles/show/fan-event-scary-movie-2026): Thu 6/4 (7:00pm)
+
+    * [Scary Movie 2026](https://drafthouse.com/los-angeles/show/scary-movie-2026): Thu 6/4 (2:00pm, 4:45pm, 7:30pm, 10:15pm), Fri 6/5 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Sat 6/6 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Sun 6/7 (11:15am, 2:00pm, 4:45pm, 7:30pm)
+
 ### Thu 5/14 2:13pm
 * New movies: The Devil Queen
 
