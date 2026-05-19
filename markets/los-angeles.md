@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 5/18 8:57pm
+* New movies: Persona 1966
+
+* New screenings: 
+    * [Sad Girl Cinema Club Persona 1966](https://drafthouse.com/los-angeles/show/sad-girl-cinema-club-persona-1966): Sun 6/14 (12:00pm)
+
 ### Mon 5/18 3:05pm
 * New movies: Flow, Guillermo del Toro's Pinocchio, KPop Demon Hunters, Arco, Matilda, Paddington 2, Cave of Forgotten Dreams, I Am Not Your Negro, Marcel the Shell with Shoes On, Where is the Friend's House?
 
