@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 5/19 8:47am
+* New movies: Stop! That! Train!
+
+* New screenings: 
+    * [Stop That Train](https://drafthouse.com/raleigh/show/stop-that-train): Thu 6/11 (7:30pm), Fri 6/12 (6:15pm), Sat 6/13 (7:30pm), Sun 6/14 (7:30pm)
+
 ### Tue 5/19 1:08am
 * New movies: Persona 1966
 
