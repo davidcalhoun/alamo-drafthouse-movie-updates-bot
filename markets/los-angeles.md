@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 5/19 8:32am
+* New movies: Tuner, Stop! That! Train!
+
+* New screenings: 
+    * [Stop That Train](https://drafthouse.com/los-angeles/show/stop-that-train): Thu 6/11 (4:30pm, 7:15pm), Fri 6/12 (4:30pm, 7:15pm), Sat 6/13 (4:30pm, 7:15pm), Sun 6/14 (4:30pm, 7:15pm)
+
+    * [Tuner](https://drafthouse.com/los-angeles/show/tuner): Thu 5/28 (6:30pm), Fri 5/29 (3:30pm, 6:30pm), Sat 5/30 (3:30pm, 6:30pm), Sun 5/31 (3:30pm, 6:30pm)
+
 ### Mon 5/18 8:57pm
 * New movies: Persona 1966
 
