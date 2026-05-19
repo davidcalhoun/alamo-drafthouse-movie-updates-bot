@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 5/19 1:08am
+* New movies: Persona 1966
+
+* New screenings: 
+    * [Sad Girl Cinema Club Persona 1966](https://drafthouse.com/raleigh/show/sad-girl-cinema-club-persona-1966): Sun 6/14 (12:15pm)
+
 ### Mon 5/18 6:08pm
 * New movies: Steal This Story, Please!
 
