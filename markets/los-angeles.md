@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 5/19 10:07pm
+* New movies: Mystery Machine 6/1/2026, Crimes of Passion
+
+* New screenings: 
+    * [Mystery Machine 6 1 2026](https://drafthouse.com/los-angeles/show/mystery-machine-6-1-2026): Mon 6/1 (7:00pm)
+
+    * [Weird Wednesday Crimes Of Passion](https://drafthouse.com/los-angeles/show/weird-wednesday-crimes-of-passion): Wed 6/10 (7:25pm)
+
 ### Tue 5/19 8:32am
 * New movies: Tuner, Stop! That! Train!
 
