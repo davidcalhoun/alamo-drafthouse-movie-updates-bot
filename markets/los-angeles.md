@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 5/20 9:27am
+* New movies: Sony State of Play
+
+* New screenings: 
+    * [Free Fan Event Sony State Of Play](https://drafthouse.com/los-angeles/show/free-fan-event-sony-state-of-play): Tue 6/2 (2:00pm)
+
 ### Tue 5/19 10:07pm
 * New movies: Mystery Machine 6/1/2026, Crimes of Passion
 
