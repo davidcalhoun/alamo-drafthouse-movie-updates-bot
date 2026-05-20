@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 5/20 11:49am
+* New movies: Sony State of Play
+
+* New screenings: 
+    * [Free Fan Event Sony State Of Play](https://drafthouse.com/raleigh/show/free-fan-event-sony-state-of-play): Tue 6/2 (5:00pm)
+
 ### Tue 5/19 8:47am
 * New movies: Stop! That! Train!
 
