@@ -1,6 +1,32 @@
 # raleigh
 
 ## Movie updates
+### Thu 5/21 3:05pm
+* New movies: Flow, Arco, Paddington 2, Carlito's Way, Casualties of War, Marcel the Shell with Shoes On, Where is the Friend's House?, Snake Eyes, The Untouchables, Stolen Kingdom
+
+* New screenings: 
+    * [Carlitos Way](https://drafthouse.com/raleigh/show/carlitos-way): Wed 7/15 (6:30pm)
+
+    * [Casualties Of War](https://drafthouse.com/raleigh/show/casualties-of-war): Wed 7/29 (6:30pm)
+
+    * [Jeopardy Interactive](https://drafthouse.com/raleigh/show/jeopardy-interactive): Wed 7/29 (7:00pm)
+
+    * [Kids Camp Arco](https://drafthouse.com/raleigh/show/kids-camp-arco): Fri 7/24 (11:15am), Mon 7/27 (3:45pm), Tue 7/28 (3:45pm)
+
+    * [Kids Camp Flow](https://drafthouse.com/raleigh/show/kids-camp-flow): Fri 7/17 (11:15am), Mon 7/20 (3:45pm), Tue 7/21 (3:45pm), Wed 7/22 (3:45pm)
+
+    * [Kids Camp Marcel The Shell With Shoes On](https://drafthouse.com/raleigh/show/kids-camp-marcel-the-shell-with-shoes-on): Fri 8/7 (11:30am)
+
+    * [Kids Camp Paddington 2](https://drafthouse.com/raleigh/show/kids-camp-paddington-2): Mon 8/3 (11:15am), Tue 8/4 (11:15am), Wed 8/5 (11:15am)
+
+    * [Kids Camp Where Is The Friends House](https://drafthouse.com/raleigh/show/kids-camp-where-is-the-friends-house): Fri 8/21 (11:15am)
+
+    * [Snake Eyes](https://drafthouse.com/raleigh/show/snake-eyes): Tue 7/28 (7:00pm)
+
+    * [Stolen Kingdom](https://drafthouse.com/raleigh/show/stolen-kingdom): Sat 6/6 (4:45pm)
+
+    * [The Untouchables](https://drafthouse.com/raleigh/show/the-untouchables): Wed 8/5 (6:00pm)
+
 ### Thu 5/21 12:20pm
 * New movies: Power Ballad, Guillermo del Toro's Pinocchio, KPop Demon Hunters, Matilda, Camp, Showgirls, Mystery Machine 6/1/2026, Johnny Guitar, Howard The Duck, Cave of Forgotten Dreams, I Am Not Your Negro, Scarface 1983
 
