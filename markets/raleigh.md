@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 5/21 1:14am
+* New movies: Amores Perros
+
+* New screenings: 
+    * [Special Event Amores Perros 25th Anniversary](https://drafthouse.com/raleigh/show/special-event-amores-perros-25th-anniversary): Sun 6/14 (3:00pm), Tue 6/16 (5:45pm)
+
 ### Wed 5/20 11:49am
 * New movies: Sony State of Play
 
