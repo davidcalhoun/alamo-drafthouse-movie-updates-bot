@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 5/20 9:07pm
+* New movies: Amores Perros
+
+* New screenings: 
+    * [Special Event Amores Perros 25th Anniversary](https://drafthouse.com/los-angeles/show/special-event-amores-perros-25th-anniversary): Sat 6/13 (4:00pm), Tue 6/16 (3:45pm)
+
 ### Wed 5/20 9:27am
 * New movies: Sony State of Play
 
