@@ -1,6 +1,38 @@
 # raleigh
 
 ## Movie updates
+### Thu 5/21 12:20pm
+* New movies: Power Ballad, Guillermo del Toro's Pinocchio, KPop Demon Hunters, Matilda, Camp, Showgirls, Mystery Machine 6/1/2026, Johnny Guitar, Howard The Duck, Cave of Forgotten Dreams, I Am Not Your Negro, Scarface 1983
+
+* New screenings: 
+    * [Camp](https://drafthouse.com/raleigh/show/camp): Fri 6/26 (9:15pm), Mon 7/6 (4:15pm)
+
+    * [Cave Of Forgotten Dreams](https://drafthouse.com/raleigh/show/cave-of-forgotten-dreams): Sat 6/6 (3:45pm)
+
+    * [I Am Not Your Negro](https://drafthouse.com/raleigh/show/i-am-not-your-negro): Fri 6/19 (4:00pm)
+
+    * [Jeopardy Interactive](https://drafthouse.com/raleigh/show/jeopardy-interactive): Wed 6/24 (7:00pm)
+
+    * [Kids Camp Guillermo Del Toros Pinocchio](https://drafthouse.com/raleigh/show/kids-camp-guillermo-del-toros-pinocchio): Fri 6/26 (11:00am), Mon 6/29 (11:30am), Tue 6/30 (3:30pm), Wed 7/1 (3:30pm)
+
+    * [Kids Camp Kpop Demon Hunters](https://drafthouse.com/raleigh/show/kids-camp-kpop-demon-hunters): Mon 6/15 (3:00pm), Tue 6/16 (3:00pm), Wed 6/17 (3:00pm), Thu 6/18 (4:00pm)
+
+    * [Kids Camp Matilda](https://drafthouse.com/raleigh/show/kids-camp-matilda): Fri 6/5 (11:00am), Mon 6/8 (4:15pm), Wed 6/10 (4:15pm)
+
+    * [Movie Party Showgirls](https://drafthouse.com/raleigh/show/movie-party-showgirls): Thu 6/11 (7:00pm)
+
+    * [Mystery Machine 6 1 2026](https://drafthouse.com/raleigh/show/mystery-machine-6-1-2026): Mon 6/1 (6:00pm)
+
+    * [Power Ballad](https://drafthouse.com/raleigh/show/power-ballad): Thu 6/4 (4:30pm, 7:30pm), Fri 6/5 (3:15pm, 6:00pm), Sat 6/6 (3:45pm, 6:30pm), Sun 6/7 (4:45pm, 7:30pm)
+
+    * [Queer Film Theory 101 Johnny Guitar](https://drafthouse.com/raleigh/show/queer-film-theory-101-johnny-guitar): Mon 6/22 (7:00pm)
+
+    * [Scarface 1983](https://drafthouse.com/raleigh/show/scarface-1983): Mon 7/6 (6:30pm)
+
+    * [Special Event Trainspotting 30th Anniversary](https://drafthouse.com/raleigh/show/special-event-trainspotting-30th-anniversary): Tue 6/9 (6:00pm), Thu 6/11 (4:00pm)
+
+    * [Weird Wednesday Howard The Duck](https://drafthouse.com/raleigh/show/weird-wednesday-howard-the-duck): Wed 7/1 (9:30pm)
+
 ### Thu 5/21 1:14am
 * New movies: Amores Perros
 
