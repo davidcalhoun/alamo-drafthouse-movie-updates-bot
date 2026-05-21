@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 5/21 1:51pm
+* New movies: Power Ballad
+
+* New screenings: 
+    * [Power Ballad](https://drafthouse.com/los-angeles/show/power-ballad): Thu 6/4 (4:00pm, 6:45pm), Fri 6/5 (5:15pm, 8:00pm), Sat 6/6 (5:15pm, 8:00pm), Sun 6/7 (5:15pm, 8:00pm)
+
 ### Wed 5/20 9:07pm
 * New movies: Amores Perros
 
