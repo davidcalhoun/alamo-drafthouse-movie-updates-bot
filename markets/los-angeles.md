@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 5/22 7:46am
+* New movies: Godzilla vs. Biollante
+
+* New screenings: 
+    * [Godzilla Vs Biollante](https://drafthouse.com/los-angeles/show/godzilla-vs-biollante): Sun 6/28 (12:30pm)
+
 ### Thu 5/21 5:06pm
 
 * New screenings: 
