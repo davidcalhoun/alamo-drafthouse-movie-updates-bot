@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 5/22 11:51am
+* New movies: Godzilla vs. Biollante
+
+* New screenings: 
+    * [Godzilla Vs Biollante](https://drafthouse.com/raleigh/show/godzilla-vs-biollante): Sun 6/28 (11:30am)
+
 ### Thu 5/21 3:05pm
 * New movies: Flow, Arco, Paddington 2, Carlito's Way, Casualties of War, Marcel the Shell with Shoes On, Where is the Friend's House?, Snake Eyes, The Untouchables, Stolen Kingdom
 
