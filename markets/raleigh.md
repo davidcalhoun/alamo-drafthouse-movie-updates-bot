@@ -1,6 +1,22 @@
 # raleigh
 
 ## Movie updates
+### Fri 5/22 1:58pm
+* New movies: Cannibal Holocaust, Nowhere, Raiders of the Lost Ark, Gregg Allman: The Music of my Soul, TERROR TUESDAY: OFFICE KILLER
+
+* New screenings: 
+    * [Drafthouse Of Horrors Cannibal Holocaust](https://drafthouse.com/raleigh/show/drafthouse-of-horrors-cannibal-holocaust): Tue 6/30 (9:30pm)
+
+    * [Gregg Allman The Music Of My Soul](https://drafthouse.com/raleigh/show/gregg-allman-the-music-of-my-soul): Wed 6/17 (6:00pm)
+
+    * [Jeopardy Interactive](https://drafthouse.com/raleigh/show/jeopardy-interactive): Wed 8/26 (7:00pm)
+
+    * [Raiders Of The Lost Ark](https://drafthouse.com/raleigh/show/raiders-of-the-lost-ark): Sun 6/21 (10:15am)
+
+    * [Terror Tuesday Office Killer](https://drafthouse.com/raleigh/show/terror-tuesday-office-killer): Tue 6/16 (9:00pm)
+
+    * [Weird Wednesday Nowhere](https://drafthouse.com/raleigh/show/weird-wednesday-nowhere): Wed 6/24 (10:30pm)
+
 ### Fri 5/22 11:51am
 * New movies: Godzilla vs. Biollante
 
