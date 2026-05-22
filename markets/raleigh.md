@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 5/22 4:00pm
+* New movies: Hoagie
+
+* New screenings: 
+    * [Weird Wednesday Hoagie](https://drafthouse.com/raleigh/show/weird-wednesday-hoagie): Wed 6/3 (9:30pm)
+
 ### Fri 5/22 1:58pm
 * New movies: Cannibal Holocaust, Nowhere, Raiders of the Lost Ark, Gregg Allman: The Music of my Soul, TERROR TUESDAY: OFFICE KILLER
 
