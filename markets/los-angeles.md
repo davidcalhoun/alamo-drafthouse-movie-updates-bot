@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Thu 5/21 5:06pm
+
+* New screenings: 
+    * [Star Wars The Mandalorian And Grogu](https://drafthouse.com/los-angeles/show/star-wars-the-mandalorian-and-grogu): Sun 5/24 (12:00pm)
+
+    * [The Devil Wears Prada 2](https://drafthouse.com/los-angeles/show/the-devil-wears-prada-2): Sun 5/24 (2:45pm)
+
 ### Thu 5/21 1:51pm
 * New movies: Power Ballad
 
