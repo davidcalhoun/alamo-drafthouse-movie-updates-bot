@@ -1,6 +1,34 @@
 # los-angeles
 
 ## Movie updates
+### Fri 5/22 12:52pm
+* New movies: Find Your Friends, Johnny Guitar, A Lizard in a Woman's Skin, Fade to Black 1980, The House with Laughing Windows, Carlito's Way, Casualties of War, Raiders of the Lost Ark, Scarface 1983, Snake Eyes, The Untouchables
+
+* New screenings: 
+    * [Carlitos Way](https://drafthouse.com/los-angeles/show/carlitos-way): Mon 7/13 (7:20pm)
+
+    * [Casualties Of War](https://drafthouse.com/los-angeles/show/casualties-of-war): Mon 7/27 (7:20pm)
+
+    * [Find Your Friends](https://drafthouse.com/los-angeles/show/find-your-friends): Fri 6/5 (6:30pm), Sat 6/6 (10:00pm)
+
+    * [Jeopardy Interactive](https://drafthouse.com/los-angeles/show/jeopardy-interactive): Wed 6/24 (7:00pm), Wed 7/29 (7:00pm), Wed 8/26 (7:00pm)
+
+    * [Queer Film Theory 101 Johnny Guitar](https://drafthouse.com/los-angeles/show/queer-film-theory-101-johnny-guitar): Mon 6/22 (7:20pm)
+
+    * [Raiders Of The Lost Ark](https://drafthouse.com/los-angeles/show/raiders-of-the-lost-ark): Sun 6/21 (2:00pm)
+
+    * [Scarface 1983](https://drafthouse.com/los-angeles/show/scarface-1983): Mon 7/6 (7:20pm)
+
+    * [Snake Eyes](https://drafthouse.com/los-angeles/show/snake-eyes): Sun 7/26 (4:15pm)
+
+    * [Terror Tuesday A Lizard In A Womans Skin](https://drafthouse.com/los-angeles/show/terror-tuesday-a-lizard-in-a-womans-skin): Tue 6/30 (7:00pm)
+
+    * [Terror Tuesday Fade To Black 1980](https://drafthouse.com/los-angeles/show/terror-tuesday-fade-to-black-1980): Tue 6/16 (7:30pm)
+
+    * [Terror Tuesday The House With Laughing Windows](https://drafthouse.com/los-angeles/show/terror-tuesday-the-house-with-laughing-windows): Tue 6/23 (7:30pm)
+
+    * [The Untouchables](https://drafthouse.com/los-angeles/show/the-untouchables): Mon 8/3 (7:00pm)
+
 ### Fri 5/22 7:46am
 * New movies: Godzilla vs. Biollante
 
