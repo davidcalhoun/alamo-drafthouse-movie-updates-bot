@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 5/25 8:53am
+* New movies: Six: The Musical Live!
+
+* New screenings: 
+    * [Six The Musical Live](https://drafthouse.com/los-angeles/show/six-the-musical-live): Sun 8/16 (12:30pm), Wed 8/19 (7:00pm)
+
 ### Fri 5/22 12:52pm
 * New movies: Find Your Friends, Johnny Guitar, A Lizard in a Woman's Skin, Fade to Black 1980, The House with Laughing Windows, Carlito's Way, Casualties of War, Raiders of the Lost Ark, Scarface 1983, Snake Eyes, The Untouchables
 
