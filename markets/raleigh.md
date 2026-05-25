@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 5/25 10:14am
+* New movies: Six: The Musical Live!
+
+* New screenings: 
+    * [Six The Musical Live](https://drafthouse.com/raleigh/show/six-the-musical-live): Sun 8/16 (12:00pm), Wed 8/19 (7:00pm)
+
 ### Fri 5/22 4:00pm
 * New movies: Hoagie
 
