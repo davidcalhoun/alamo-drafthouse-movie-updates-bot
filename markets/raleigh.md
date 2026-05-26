@@ -1,6 +1,36 @@
 # raleigh
 
 ## Movie updates
+### Tue 5/26 5:54pm
+* New movies: Adaptation., Carrie 1976
+
+* New screenings: 
+    * [Adaptation](https://drafthouse.com/raleigh/show/adaptation): Thu 5/28 (2:45pm)
+
+    * [Backrooms](https://drafthouse.com/raleigh/show/backrooms): Thu 5/28 (4:00pm, 7:00pm, 10:00pm, 10:30pm), Fri 5/29 (1:30pm, 4:30pm, 7:30pm, 9:30pm, 10:30pm), Sat 5/30 (11:00am, 7:30pm, 9:30pm, 10:30pm), Sun 5/31 (1:00pm, 7:30pm, 9:30pm, 10:30pm), Mon 6/1 (11:30am, 1:00pm, 3:00pm, 3:30pm, 7:15pm, 9:30pm, 10:45pm), Tue 6/2 (12:30pm, 1:00pm, 3:30pm, 4:00pm, 6:00pm, 10:45pm), Wed 6/3 (12:00pm, 1:00pm, 3:30pm, 4:00pm, 6:30pm, 9:00pm, 10:00pm)
+
+    * [Carrie](https://drafthouse.com/raleigh/show/carrie): Thu 5/28 (1:00pm)
+
+    * [I Love Boosters](https://drafthouse.com/raleigh/show/i-love-boosters): Thu 5/28 (12:15pm, 3:30pm, 6:45pm, 9:45pm), Fri 5/29 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Sat 5/30 (1:30pm, 4:30pm, 7:45pm, 10:45pm), Sun 5/31 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Mon 6/1 (12:15pm, 3:15pm, 6:15pm, 9:30pm), Tue 6/2 (12:15pm, 3:15pm, 6:15pm, 9:30pm), Wed 6/3 (12:15pm, 3:30pm, 6:45pm, 10:00pm)
+
+    * [Is God Is](https://drafthouse.com/raleigh/show/is-god-is): Thu 5/28 (9:15pm), Fri 5/29 (9:30pm), Sat 5/30 (10:00pm), Sun 5/31 (9:45pm), Mon 6/1 (10:00pm), Tue 6/2 (10:00pm), Wed 6/3 (10:30pm)
+
+    * [Michael 2026](https://drafthouse.com/raleigh/show/michael-2026): Thu 5/28 (11:15am, 3:45pm, 7:15pm, 10:25pm), Fri 5/29 (12:00pm, 3:45pm, 7:15pm, 10:40pm), Sat 5/30 (11:45am, 3:30pm), Sun 5/31 (11:30am, 2:45pm, 7:15pm, 10:40pm), Mon 6/1 (12:30pm, 3:45pm, 7:15pm, 10:30pm), Tue 6/2 (12:00pm, 3:45pm, 7:15pm, 10:30pm), Wed 6/3 (12:30pm, 3:45pm, 7:15pm, 9:30pm)
+
+    * [Obsession 2026](https://drafthouse.com/raleigh/show/obsession-2026): Thu 5/28 (1:30pm, 4:15pm, 7:15pm, 9:30pm), Fri 5/29 (1:30pm, 4:00pm, 7:00pm, 9:15pm), Sat 5/30 (1:00pm, 4:00pm, 7:00pm, 9:00pm), Sun 5/31 (1:00pm, 4:00pm, 7:00pm, 9:15pm), Mon 6/1 (1:00pm, 4:00pm, 7:00pm, 9:00pm), Tue 6/2 (1:00pm, 4:15pm, 7:30pm, 9:15pm, 10:00pm), Wed 6/3 (11:45am, 3:15pm, 6:30pm, 9:15pm)
+
+    * [Passenger](https://drafthouse.com/raleigh/show/passenger): Thu 5/28 (1:15pm, 4:45pm, 7:45pm, 10:45pm), Fri 5/29 (1:15pm, 4:45pm, 7:45pm, 10:30pm), Sat 5/30 (1:15pm, 3:15pm, 6:30pm, 9:15pm), Sun 5/31 (1:30pm, 4:30pm, 7:45pm, 10:30pm), Mon 6/1 (1:30pm, 4:30pm, 7:30pm, 10:15pm), Tue 6/2 (1:15pm, 4:00pm, 6:45pm, 9:45pm), Wed 6/3 (1:30pm, 4:30pm, 7:30pm, 10:30pm)
+
+    * [Power Ballad](https://drafthouse.com/raleigh/show/power-ballad): Thu 6/4 (10:30pm)
+
+    * [Star Wars The Mandalorian And Grogu](https://drafthouse.com/raleigh/show/star-wars-the-mandalorian-and-grogu): Thu 5/28 (11:30am, 12:00pm, 3:00pm, 6:30pm), Fri 5/29 (11:00am, 11:30am, 2:30pm, 3:00pm, 6:00pm, 6:30pm, 10:00pm), Sat 5/30 (12:00pm, 3:30pm, 6:00pm, 6:30pm, 10:00pm), Sun 5/31 (11:00am, 12:00pm, 2:30pm, 3:30pm, 6:00pm, 10:00pm), Mon 6/1 (11:30am, 12:00pm, 3:00pm, 4:00pm, 7:30pm, 10:30pm), Tue 6/2 (11:00am, 1:30pm, 2:30pm, 6:30pm, 9:45pm), Wed 6/3 (11:00am, 11:30am, 2:15pm, 3:00pm, 5:45pm, 6:15pm, 9:00pm)
+
+    * [The Breadwinner 2026](https://drafthouse.com/raleigh/show/the-breadwinner-2026): Thu 5/28 (12:30pm, 3:30pm, 10:30pm), Fri 5/29 (1:00pm, 4:00pm, 10:00pm), Sat 5/30 (1:00pm, 3:45pm, 9:45pm), Sun 5/31 (12:30pm, 3:45pm, 10:00pm), Mon 6/1 (11:45am, 2:45pm, 6:00pm, 9:00pm), Tue 6/2 (11:30am, 2:30pm, 6:00pm, 9:00pm), Wed 6/3 (11:45am, 2:45pm, 6:00pm, 9:45pm)
+
+    * [The Devil Wears Prada 2](https://drafthouse.com/raleigh/show/the-devil-wears-prada-2): Thu 5/28 (12:30pm, 3:45pm, 7:00pm, 10:05pm), Fri 5/29 (12:15pm, 3:30pm, 7:15pm, 10:20pm), Sat 5/30 (11:30am, 3:00pm, 6:45pm, 10:15pm), Sun 5/31 (12:00pm, 3:30pm, 7:15pm, 10:20pm), Mon 6/1 (12:00pm, 3:30pm, 10:20pm), Tue 6/2 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Wed 6/3 (12:30pm, 3:45pm, 7:00pm, 10:15pm)
+
+    * [The Sheep Detectives](https://drafthouse.com/raleigh/show/the-sheep-detectives): Thu 5/28 (11:30am, 2:45pm, 6:15pm), Fri 5/29 (11:45am, 3:00pm, 6:15pm), Sat 5/30 (11:00am, 2:30pm, 6:00pm), Sun 5/31 (11:45am, 3:00pm, 6:15pm), Mon 6/1 (11:45am, 3:00pm, 6:30pm), Tue 6/2 (11:45am, 3:00pm, 6:00pm), Wed 6/3 (11:30am, 2:30pm, 6:00pm)
+
 ### Tue 5/26 12:49pm
 * New movies: Toy Story 5, Girls Like Girls, Toy Story 5, Girls Like Girls
 
