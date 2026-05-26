@@ -1,6 +1,45 @@
 # los-angeles
 
 ## Movie updates
+### Tue 5/26 3:22pm
+
+* New screenings: 
+    * [Adaptation](https://drafthouse.com/los-angeles/show/adaptation): Thu 5/28 (1:30pm)
+
+    * [Backrooms](https://drafthouse.com/los-angeles/show/backrooms): Thu 5/28 (4:30pm, 7:15pm, 9:00pm, 10:15pm, 10:30pm), Fri 5/29 (10:30am, 1:30pm, 4:30pm, 9:00pm, 10:30pm), Sat 5/30 (12:00pm, 1:45pm, 6:40pm, 9:00pm, 10:30pm), Sun 5/31 (10:15am, 4:30pm, 9:00pm, 10:00pm, 10:30pm), Mon 6/1 (1:30pm, 9:00pm), Tue 6/2 (1:00pm, 4:00pm, 9:00pm), Wed 6/3 (1:30pm, 10:30pm)
+
+    * [Godzilla Vs Hedorah](https://drafthouse.com/los-angeles/show/godzilla-vs-hedorah): Sun 5/31 (9:20pm), Mon 6/1 (4:20pm)
+
+    * [Hokum](https://drafthouse.com/los-angeles/show/hokum): Thu 5/28 (3:30pm), Tue 6/2 (9:40pm), Wed 6/3 (10:15pm)
+
+    * [I Love Boosters](https://drafthouse.com/los-angeles/show/i-love-boosters): Thu 5/28 (11:15am, 12:00pm, 12:30pm, 3:00pm, 6:00pm, 9:00pm), Fri 5/29 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Sat 5/30 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Sun 5/31 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Mon 6/1 (11:00am, 2:00pm, 5:00pm, 8:00pm, 10:15pm), Tue 6/2 (11:00am, 2:00pm, 5:00pm, 8:00pm, 10:15pm), Wed 6/3 (11:00am, 2:00pm, 5:00pm, 8:00pm, 10:15pm)
+
+    * [Is God Is](https://drafthouse.com/los-angeles/show/is-god-is): Thu 5/28 (11:00am, 1:45pm, 4:30pm), Fri 5/29 (8:00pm), Sat 5/30 (4:45pm), Sun 5/31 (1:15pm), Mon 6/1 (4:30pm), Tue 6/2 (4:30pm), Wed 6/3 (4:30pm)
+
+    * [Mission Impossible](https://drafthouse.com/los-angeles/show/mission-impossible): Wed 6/3 (1:30pm)
+
+    * [Mortal Kombat Ii](https://drafthouse.com/los-angeles/show/mortal-kombat-ii): Thu 5/28 (11:45am, 3:00pm)
+
+    * [Obsession 2026](https://drafthouse.com/los-angeles/show/obsession-2026): Thu 5/28 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Fri 5/29 (10:15am, 11:00am, 1:15pm, 2:00pm, 4:15pm, 5:00pm, 7:15pm, 10:15pm, 10:30pm), Sat 5/30 (10:15am, 10:45am, 1:15pm, 4:15pm, 7:15pm, 9:40pm, 10:15pm), Sun 5/31 (10:15am, 10:45am, 1:15pm, 4:15pm, 7:15pm, 10:15pm), Mon 6/1 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Tue 6/2 (11:00am, 1:00pm, 4:00pm, 7:00pm, 10:00pm), Wed 6/3 (1:00pm, 4:00pm, 4:30pm, 7:00pm, 10:00pm)
+
+    * [Passenger](https://drafthouse.com/los-angeles/show/passenger): Thu 5/28 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Fri 5/29 (10:15am, 1:00pm, 3:45pm, 6:30pm, 9:15pm), Sat 5/30 (10:15am, 1:00pm, 3:45pm, 6:30pm, 9:15pm), Sun 5/31 (10:15am, 1:00pm, 3:45pm, 6:30pm, 9:15pm), Mon 6/1 (12:30pm, 3:15pm, 6:00pm, 8:45pm), Tue 6/2 (12:30pm, 3:15pm, 6:00pm, 8:45pm), Wed 6/3 (12:30pm, 3:15pm, 6:00pm, 8:45pm)
+
+    * [Pressure 2026](https://drafthouse.com/los-angeles/show/pressure-2026): Thu 5/28 (2:15pm, 10:30pm), Fri 5/29 (11:30am, 2:15pm, 10:45pm), Sat 5/30 (11:30am, 2:15pm, 10:30pm), Sun 5/31 (11:30am, 2:15pm, 10:30pm), Mon 6/1 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Tue 6/2 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Wed 6/3 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm)
+
+    * [Sad Girl Cinema Club Frances Ha](https://drafthouse.com/los-angeles/show/sad-girl-cinema-club-frances-ha): Sun 5/31 (1:45pm)
+
+    * [Star Wars The Mandalorian And Grogu](https://drafthouse.com/los-angeles/show/star-wars-the-mandalorian-and-grogu): Thu 5/28 (11:00am, 1:00pm, 2:30pm, 6:15pm, 9:45pm), Fri 5/29 (11:15am, 2:45pm, 6:15pm, 9:45pm), Sat 5/30 (11:15am, 2:45pm, 6:15pm, 9:45pm), Sun 5/31 (11:15am, 2:45pm, 6:15pm, 9:45pm), Mon 6/1 (11:45am, 3:15pm, 6:45pm, 10:00pm), Tue 6/2 (11:45am, 3:15pm, 6:45pm, 10:00pm), Wed 6/3 (11:45am, 3:15pm, 6:45pm, 9:45pm)
+
+    * [The Breadwinner 2026](https://drafthouse.com/los-angeles/show/the-breadwinner-2026): Thu 5/28 (4:30pm, 10:00pm), Fri 5/29 (11:00am, 1:45pm, 4:30pm, 10:00pm), Sat 5/30 (11:00am, 1:45pm, 4:30pm, 10:00pm), Sun 5/31 (11:00am, 1:45pm, 4:30pm, 10:00pm), Mon 6/1 (11:00am, 1:45pm, 4:30pm, 7:15pm, 10:00pm), Tue 6/2 (11:00am, 1:45pm, 4:30pm, 7:15pm, 10:00pm), Wed 6/3 (11:00am, 1:45pm, 4:30pm, 7:15pm, 10:00pm)
+
+    * [The Devil Wears Prada 2](https://drafthouse.com/los-angeles/show/the-devil-wears-prada-2): Thu 5/28 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Fri 5/29 (11:45am, 3:00pm, 6:15pm, 9:30pm), Sat 5/30 (11:45am, 3:00pm, 6:15pm, 9:30pm), Sun 5/31 (11:45am, 3:00pm, 6:15pm, 9:30pm), Mon 6/1 (11:45am, 3:00pm, 6:15pm, 9:30pm), Tue 6/2 (11:45am, 3:00pm, 6:15pm, 9:30pm), Wed 6/3 (11:45am, 3:00pm, 6:15pm, 9:30pm)
+
+    * [The Python Hunt](https://drafthouse.com/los-angeles/show/the-python-hunt): Mon 6/1 (1:40pm)
+
+    * [The Sheep Detectives](https://drafthouse.com/los-angeles/show/the-sheep-detectives): Thu 5/28 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Fri 5/29 (12:00pm, 3:00pm, 6:00pm), Sat 5/30 (12:00pm, 3:00pm, 6:00pm), Sun 5/31 (12:00pm, 3:00pm, 6:00pm), Mon 6/1 (12:00pm, 3:00pm, 6:00pm), Tue 6/2 (12:00pm, 3:00pm, 6:00pm), Wed 6/3 (1:00pm, 4:00pm)
+
+    * [Tuner](https://drafthouse.com/los-angeles/show/tuner): Thu 5/28 (9:30pm), Fri 5/29 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sat 5/30 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sun 5/31 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Mon 6/1 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Tue 6/2 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Wed 6/3 (12:30pm, 3:30pm, 6:30pm, 9:30pm)
+
 ### Tue 5/26 11:29am
 * New movies: Toy Story 5, Toy Story 5
 
