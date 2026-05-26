@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 5/26 11:29am
+* New movies: Toy Story 5, Toy Story 5
+
+* New screenings: 
+    * [Alamo Crafthouse Toy Story 5](https://drafthouse.com/los-angeles/show/alamo-crafthouse-toy-story-5): Sat 6/20 (10:00am)
+
+    * [Toy Story 5](https://drafthouse.com/los-angeles/show/toy-story-5): Thu 6/18 (3:00pm, 6:00pm, 9:00pm), Fri 6/19 (10:00am, 12:50pm, 3:40pm, 6:30pm, 9:20pm), Sat 6/20 (1:00pm, 3:50pm, 6:40pm, 9:30pm), Sun 6/21 (10:00am, 12:50pm, 3:40pm, 6:30pm, 9:20pm), Mon 6/22 (10:00am, 12:50pm, 3:40pm, 6:30pm, 9:20pm), Tue 6/23 (10:00am, 12:50pm, 3:40pm, 6:30pm, 9:20pm), Wed 6/24 (10:00am, 12:50pm, 3:40pm, 6:30pm, 9:20pm)
+
 ### Tue 5/26 8:47am
 * New movies: Girls Like Girls, Girls Like Girls
 
