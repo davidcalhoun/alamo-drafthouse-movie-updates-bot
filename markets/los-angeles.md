@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 5/26 8:47am
+* New movies: Girls Like Girls, Girls Like Girls
+
+* New screenings: 
+    * [Girls Like Girls](https://drafthouse.com/los-angeles/show/girls-like-girls): Thu 6/18 (4:45pm, 7:30pm), Fri 6/19 (4:30pm, 7:15pm), Sat 6/20 (4:30pm, 7:15pm), Sun 6/21 (4:30pm, 7:15pm)
+
+    * [Livestream Q A Girls Like Girls](https://drafthouse.com/los-angeles/show/livestream-q-a-girls-like-girls): Mon 6/8 (5:00pm)
+
 ### Mon 5/25 8:53am
 * New movies: Six: The Musical Live!
 
