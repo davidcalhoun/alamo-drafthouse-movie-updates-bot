@@ -1,6 +1,18 @@
 # raleigh
 
 ## Movie updates
+### Tue 5/26 12:49pm
+* New movies: Toy Story 5, Girls Like Girls, Toy Story 5, Girls Like Girls
+
+* New screenings: 
+    * [Alamo Crafthouse Toy Story 5](https://drafthouse.com/raleigh/show/alamo-crafthouse-toy-story-5): Sat 6/20 (9:15am)
+
+    * [Girls Like Girls](https://drafthouse.com/raleigh/show/girls-like-girls): Thu 6/18 (7:30pm), Fri 6/19 (7:30pm), Sat 6/20 (7:30pm), Sun 6/21 (7:30pm)
+
+    * [Livestream Q A Girls Like Girls](https://drafthouse.com/raleigh/show/livestream-q-a-girls-like-girls): Mon 6/8 (8:00pm)
+
+    * [Toy Story 5](https://drafthouse.com/raleigh/show/toy-story-5): Thu 6/18 (3:00pm, 6:00pm, 9:00pm), Fri 6/19 (9:15am, 12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 6/20 (12:05pm, 3:00pm, 6:00pm, 9:00pm), Sun 6/21 (9:15am, 12:00pm, 3:00pm, 6:00pm, 9:00pm), Mon 6/22 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Tue 6/23 (9:15am, 12:00pm, 3:00pm, 6:00pm, 9:30pm), Wed 6/24 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Thu 6/25 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Fri 6/26 (9:15am, 12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 6/27 (9:15am, 12:00pm, 3:00pm, 6:00pm, 9:00pm), Sun 6/28 (9:30am, 12:15pm, 3:05pm, 6:00pm, 9:00pm)
+
 ### Mon 5/25 10:14am
 * New movies: Six: The Musical Live!
 
