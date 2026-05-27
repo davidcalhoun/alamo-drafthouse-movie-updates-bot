@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 5/27 5:54am
+* New movies: Disclosure Day
+
+* New screenings: 
+    * [Disclosure Day](https://drafthouse.com/los-angeles/show/disclosure-day): Thu 6/11 (3:15pm, 6:45pm, 10:15pm), Fri 6/12 (11:45am, 3:15pm, 6:45pm, 10:15pm), Sat 6/13 (11:45am, 3:15pm, 6:45pm, 10:15pm), Sun 6/14 (12:00pm, 3:30pm, 6:45pm)
+
 ### Tue 5/26 3:22pm
 
 * New screenings: 
