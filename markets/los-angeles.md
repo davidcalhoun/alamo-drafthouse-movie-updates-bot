@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 5/27 2:59pm
+* New movies: Lifeforce
+
+* New screenings: 
+    * [Weird Wednesday Lifeforce](https://drafthouse.com/los-angeles/show/weird-wednesday-lifeforce): Wed 6/24 (7:30pm)
+
 ### Wed 5/27 5:54am
 * New movies: Disclosure Day
 
