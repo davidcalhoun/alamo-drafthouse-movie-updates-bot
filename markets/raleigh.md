@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 5/27 8:27am
+* New movies: Disclosure Day
+
+* New screenings: 
+    * [Disclosure Day](https://drafthouse.com/raleigh/show/disclosure-day): Thu 6/11 (2:30pm, 6:00pm, 9:30pm), Fri 6/12 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sat 6/13 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sun 6/14 (12:00pm, 3:30pm, 7:00pm, 10:30pm)
+
 ### Tue 5/26 5:54pm
 * New movies: Adaptation., Carrie 1976
 
