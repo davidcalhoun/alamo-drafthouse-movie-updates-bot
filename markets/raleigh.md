@@ -1,6 +1,20 @@
 # raleigh
 
 ## Movie updates
+### Wed 5/27 3:29pm
+* New movies: Six: The Musical Live!, Howling II: Your Sister is a Werewolf, Talladega Nights: The Ballad of Ricky Bobby
+
+* New screenings: 
+    * [Backrooms](https://drafthouse.com/raleigh/show/backrooms): Mon 6/1 (6:30pm)
+
+    * [Michael 2026](https://drafthouse.com/raleigh/show/michael-2026): Sat 5/30 (7:00pm)
+
+    * [Sing Along Six The Musical Live](https://drafthouse.com/raleigh/show/sing-along-six-the-musical-live): Sat 8/15 (4:00pm)
+
+    * [Special Event Talladega Nights The Ballad Of Ricky Bobby 20th Anniversary Re Release](https://drafthouse.com/raleigh/show/special-event-talladega-nights-the-ballad-of-ricky-bobby-20th-anniversary-re-release): Sun 6/28 (7:00pm)
+
+    * [Terror Tuesday Howling Ii Your Sister Is A Werewolf](https://drafthouse.com/raleigh/show/terror-tuesday-howling-ii-your-sister-is-a-werewolf): Tue 6/23 (9:00pm)
+
 ### Wed 5/27 8:27am
 * New movies: Disclosure Day
 
