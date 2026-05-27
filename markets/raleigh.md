@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 5/27 6:03pm
+* New movies: Tango & Cash
+
+* New screenings: 
+    * [Weird Wednesday Tango Cash](https://drafthouse.com/raleigh/show/weird-wednesday-tango-cash): Wed 6/10 (9:00pm)
+
 ### Wed 5/27 3:29pm
 * New movies: Six: The Musical Live!, Howling II: Your Sister is a Werewolf, Talladega Nights: The Ballad of Ricky Bobby
 
