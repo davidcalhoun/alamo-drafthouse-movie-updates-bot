@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Fri 5/29 11:36am
+
+* New screenings: 
+    * [Backrooms](https://drafthouse.com/los-angeles/show/backrooms): Sat 5/30 (9:30pm), Sun 5/31 (9:30pm)
+
+    * [Tuner](https://drafthouse.com/los-angeles/show/tuner): Fri 5/29 (9:30pm), Sat 5/30 (9:30pm), Sun 5/31 (9:30pm)
+
 ### Fri 5/29 8:48am
 
 * New screenings: 
