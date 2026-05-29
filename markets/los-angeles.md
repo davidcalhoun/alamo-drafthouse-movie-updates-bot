@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 5/29 2:08pm
+* New movies: Talladega Nights: The Ballad of Ricky Bobby
+
+* New screenings: 
+    * [Special Event Talladega Nights The Ballad Of Ricky Bobby 20th Anniversary Re Release](https://drafthouse.com/los-angeles/show/special-event-talladega-nights-the-ballad-of-ricky-bobby-20th-anniversary-re-release): Sun 6/28 (7:00pm)
+
 ### Fri 5/29 11:36am
 
 * New screenings: 
