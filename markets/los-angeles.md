@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 5/29 8:48am
+
+* New screenings: 
+    * [Backrooms](https://drafthouse.com/los-angeles/show/backrooms): Fri 5/29 (9:30pm)
+
 ### Wed 5/27 2:59pm
 * New movies: Lifeforce
 
