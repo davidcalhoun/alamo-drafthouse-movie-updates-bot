@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Sat 5/30 10:44am
+
+* New screenings: 
+    * [Michael 2026](https://drafthouse.com/raleigh/show/michael-2026): Sat 5/30 (10:30pm)
+
 ### Wed 5/27 6:03pm
 * New movies: Tango & Cash
 
