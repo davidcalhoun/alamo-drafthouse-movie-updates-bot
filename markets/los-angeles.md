@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Sat 5/30 2:02pm
+* New movies: Six: The Musical Live!, CatVideoFest 2026
+
+* New screenings: 
+    * [Catvideofest 2026](https://drafthouse.com/los-angeles/show/catvideofest-2026): Sat 8/8 (12:00pm)
+
+    * [Kids Camp Matilda](https://drafthouse.com/los-angeles/show/kids-camp-matilda): Fri 6/5 (11:45am)
+
+    * [Sing Along Six The Musical Live](https://drafthouse.com/los-angeles/show/sing-along-six-the-musical-live): Sat 8/15 (4:00pm)
+
+    * [Special Event Trainspotting 30th Anniversary](https://drafthouse.com/los-angeles/show/special-event-trainspotting-30th-anniversary): Thu 6/11 (6:45pm)
+
 ### Fri 5/29 2:08pm
 * New movies: Talladega Nights: The Ballad of Ricky Bobby
 
