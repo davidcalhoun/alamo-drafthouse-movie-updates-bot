@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 6/1 4:37pm
+* New movies: First Date 2026
+
+* New screenings: 
+    * [Special Event First Date 2026 Whispers Double Feature](https://drafthouse.com/los-angeles/show/special-event-first-date-2026-whispers-double-feature): Wed 6/10 (7:00pm)
+
 ### Mon 6/1 2:36pm
 * New movies: Chime + Serpent's Path Double Feature, Frances Ha, Showgirls
 
