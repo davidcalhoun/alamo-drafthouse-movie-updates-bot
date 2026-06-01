@@ -1,6 +1,52 @@
 # los-angeles
 
 ## Movie updates
+### Mon 6/1 2:36pm
+* New movies: Chime + Serpent's Path Double Feature, Frances Ha, Showgirls
+
+* New screenings: 
+    * [Backrooms](https://drafthouse.com/los-angeles/show/backrooms): Thu 6/4 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Fri 6/5 (1:15pm, 4:15pm, 6:15pm, 9:15pm, 9:45pm), Sat 6/6 (10:45am, 1:45pm, 3:45pm, 4:45pm, 5:30pm, 7:45pm, 10:45pm), Sun 6/7 (10:45am, 1:45pm, 3:30pm, 4:45pm, 5:30pm, 7:45pm, 9:30pm, 10:30pm), Mon 6/8 (12:30pm, 1:30pm, 3:30pm, 5:30pm, 6:30pm, 9:30pm), Tue 6/9 (12:30pm, 3:30pm, 4:15pm, 5:30pm, 6:30pm, 9:30pm), Wed 6/10 (12:30pm, 1:30pm, 3:30pm, 5:30pm, 6:30pm, 10:15pm)
+
+    * [Chime Serpents Path Double Feature](https://drafthouse.com/los-angeles/show/chime-serpents-path-double-feature): Fri 6/5 (3:00pm), Wed 6/10 (10:15pm)
+
+    * [Godzilla Vs Hedorah](https://drafthouse.com/los-angeles/show/godzilla-vs-hedorah): Thu 6/4 (1:00pm)
+
+    * [I Love Boosters](https://drafthouse.com/los-angeles/show/i-love-boosters): Thu 6/4 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Fri 6/5 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 6/6 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sun 6/7 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Mon 6/8 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Tue 6/9 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Wed 6/10 (12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
+    * [Is God Is](https://drafthouse.com/los-angeles/show/is-god-is): Thu 6/4 (4:15pm), Sat 6/6 (4:15pm), Mon 6/8 (9:45pm), Tue 6/9 (6:45pm)
+
+    * [Kids Camp Matilda](https://drafthouse.com/los-angeles/show/kids-camp-matilda): Sat 6/6 (1:30pm), Sun 6/7 (10:30am)
+
+    * [Masters Of The Universe 2026](https://drafthouse.com/los-angeles/show/masters-of-the-universe-2026): Thu 6/4 (10:30pm), Fri 6/5 (12:00pm, 10:30pm), Sat 6/6 (10:30pm), Sun 6/7 (12:00pm, 9:30pm), Mon 6/8 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Tue 6/9 (12:45pm, 3:15pm, 6:45pm, 10:15pm), Wed 6/10 (12:00pm, 3:30pm, 6:45pm, 10:00pm)
+
+    * [Mission Impossible](https://drafthouse.com/los-angeles/show/mission-impossible): Thu 6/4 (1:30pm)
+
+    * [Obsession 2026](https://drafthouse.com/los-angeles/show/obsession-2026): Thu 6/4 (1:00pm, 4:00pm, 4:45pm, 7:45pm, 10:00pm), Fri 6/5 (12:45pm, 3:45pm, 6:45pm, 9:15pm, 9:45pm), Sat 6/6 (10:30am, 12:45pm, 1:30pm, 4:30pm, 6:45pm, 7:30pm, 10:30pm), Sun 6/7 (10:30am, 12:30pm, 1:30pm, 4:30pm, 6:30pm, 7:30pm, 10:15pm, 10:30pm), Mon 6/8 (1:00pm, 4:00pm, 6:45pm, 8:00pm, 10:30pm), Tue 6/9 (12:15pm, 1:15pm, 4:15pm, 7:15pm, 9:30pm, 10:15pm), Wed 6/10 (1:00pm, 4:00pm, 4:30pm, 7:00pm, 10:00pm)
+
+    * [Passenger](https://drafthouse.com/los-angeles/show/passenger): Thu 6/4 (1:15pm)
+
+    * [Power Ballad](https://drafthouse.com/los-angeles/show/power-ballad): Thu 6/4 (9:30pm), Fri 6/5 (11:45am, 2:30pm, 10:45pm), Sat 6/6 (11:45am, 2:30pm, 10:45pm), Sun 6/7 (11:45am, 2:30pm, 10:45pm), Mon 6/8 (11:00am, 11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Tue 6/9 (11:00am, 11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Wed 6/10 (11:00am, 11:45am, 2:30pm, 5:15pm, 8:00pm, 10:30pm)
+
+    * [Pressure 2026](https://drafthouse.com/los-angeles/show/pressure-2026): Thu 6/4 (1:15pm, 4:00pm, 6:45pm, 9:30pm), Fri 6/5 (1:45pm, 4:30pm, 7:15pm, 10:00pm), Sat 6/6 (1:15pm, 4:00pm, 6:45pm, 9:30pm), Sun 6/7 (1:15pm, 4:00pm, 6:45pm, 9:30pm), Mon 6/8 (1:45pm, 4:30pm, 7:15pm, 10:00pm), Tue 6/9 (1:45pm, 4:30pm, 7:15pm, 10:00pm), Wed 6/10 (1:45pm, 4:30pm, 7:15pm, 10:00pm)
+
+    * [Sad Girl Cinema Club Frances Ha](https://drafthouse.com/los-angeles/show/sad-girl-cinema-club-frances-ha): Thu 6/4 (1:30pm)
+
+    * [Scary Movie 2026](https://drafthouse.com/los-angeles/show/scary-movie-2026): Thu 6/4 (6:15pm, 9:00pm, 10:45pm), Fri 6/5 (1:15pm, 6:15pm, 9:00pm), Sat 6/6 (6:15pm, 8:30pm, 9:00pm), Sun 6/7 (6:15pm, 8:30pm, 9:00pm, 10:45pm), Mon 6/8 (11:15am, 2:00pm, 4:45pm, 6:15pm, 7:30pm, 8:30pm, 9:00pm, 10:15pm), Tue 6/9 (11:15am, 2:00pm, 4:45pm, 6:15pm, 7:30pm, 8:30pm, 9:00pm, 10:15pm), Wed 6/10 (11:15am, 2:00pm, 4:45pm, 6:15pm, 7:30pm, 8:30pm, 9:00pm, 10:45pm)
+
+    * [Showgirls](https://drafthouse.com/los-angeles/show/showgirls): Wed 6/10 (9:30pm)
+
+    * [Special Event Trainspotting 30th Anniversary](https://drafthouse.com/los-angeles/show/special-event-trainspotting-30th-anniversary): Thu 6/4 (4:30pm), Tue 6/9 (10:45pm)
+
+    * [Star Wars The Mandalorian And Grogu](https://drafthouse.com/los-angeles/show/star-wars-the-mandalorian-and-grogu): Thu 6/4 (11:15am, 2:45pm, 6:15pm, 9:45pm), Fri 6/5 (11:15am, 2:45pm, 6:15pm, 9:45pm), Sat 6/6 (11:15am, 2:45pm, 6:15pm, 9:45pm), Sun 6/7 (11:15am, 2:45pm, 6:15pm, 9:45pm), Mon 6/8 (11:15am, 2:45pm, 6:15pm, 9:45pm), Tue 6/9 (11:15am, 2:45pm, 6:15pm, 9:45pm), Wed 6/10 (11:15am, 2:45pm, 6:15pm, 9:45pm)
+
+    * [The Breadwinner 2026](https://drafthouse.com/los-angeles/show/the-breadwinner-2026): Thu 6/4 (11:00am), Fri 6/5 (11:00am), Sat 6/6 (10:30am), Sun 6/7 (10:30am), Mon 6/8 (11:45am), Tue 6/9 (11:45am), Wed 6/10 (11:45am)
+
+    * [The Devil Wears Prada 2](https://drafthouse.com/los-angeles/show/the-devil-wears-prada-2): Thu 6/4 (3:00pm), Fri 6/5 (3:00pm), Sat 6/6 (3:00pm), Sun 6/7 (3:00pm), Mon 6/8 (3:00pm), Tue 6/9 (3:00pm), Wed 6/10 (3:00pm)
+
+    * [The Sheep Detectives](https://drafthouse.com/los-angeles/show/the-sheep-detectives): Thu 6/4 (11:00am, 1:45pm), Fri 6/5 (12:15pm), Sat 6/6 (11:30am), Sun 6/7 (11:30am), Mon 6/8 (2:30pm), Tue 6/9 (2:30pm), Wed 6/10 (2:30pm)
+
+    * [Tuner](https://drafthouse.com/los-angeles/show/tuner): Thu 6/4 (12:00pm), Fri 6/5 (12:00pm, 3:15pm), Sat 6/6 (12:00pm, 2:30pm), Sun 6/7 (12:00pm, 2:30pm), Mon 6/8 (12:00pm), Tue 6/9 (12:00pm), Wed 6/10 (12:00pm)
+
 ### Mon 6/1 10:48am
 * New movies: Minions & Monsters, Minions & Monsters
 
