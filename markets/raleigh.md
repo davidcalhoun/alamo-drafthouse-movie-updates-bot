@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Mon 6/1 2:12pm
+* New movies: Minions & Monsters, Minions & Monsters, CatVideoFest 2026
+
+* New screenings: 
+    * [Catvideofest 2026](https://drafthouse.com/raleigh/show/catvideofest-2026): Sat 8/8 (11:00am)
+
+    * [Family Party Minions Monsters](https://drafthouse.com/raleigh/show/family-party-minions-monsters): Mon 7/6 (6:00pm)
+
+    * [Minions And Monsters](https://drafthouse.com/raleigh/show/minions-and-monsters): Wed 7/1 (9:15am, 12:00pm, 3:00pm, 6:00pm, 9:00pm), Thu 7/2 (9:15am, 12:00pm, 3:00pm, 6:00pm, 9:00pm), Fri 7/3 (9:15am, 12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 7/4 (9:15am, 12:00pm, 3:00pm, 6:00pm, 9:00pm), Sun 7/5 (9:15am, 12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
 ### Sat 5/30 10:44am
 
 * New screenings: 
