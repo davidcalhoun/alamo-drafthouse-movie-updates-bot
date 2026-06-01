@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Mon 6/1 10:48am
+* New movies: Minions & Monsters, Minions & Monsters
+
+* New screenings: 
+    * [Family Party Minions Monsters](https://drafthouse.com/los-angeles/show/family-party-minions-monsters): Mon 7/6 (6:00pm)
+
+    * [Minions And Monsters](https://drafthouse.com/los-angeles/show/minions-and-monsters): Wed 7/1 (10:15am, 1:00pm, 3:45pm, 6:30pm, 9:15pm), Thu 7/2 (10:15am, 1:00pm, 3:45pm, 6:30pm, 9:15pm), Fri 7/3 (10:15am, 1:00pm, 3:45pm, 6:30pm, 9:15pm), Sat 7/4 (10:15am, 1:00pm, 3:45pm, 6:30pm, 9:15pm), Sun 7/5 (10:15am, 1:00pm, 3:45pm, 6:30pm, 9:15pm), Mon 7/6 (10:15am, 1:00pm, 3:45pm, 6:30pm, 9:15pm), Tue 7/7 (10:15am, 1:00pm, 3:45pm, 6:30pm, 9:15pm), Wed 7/8 (10:15am, 1:00pm, 3:45pm, 6:30pm, 9:15pm)
+
 ### Sat 5/30 2:02pm
 * New movies: Six: The Musical Live!, CatVideoFest 2026
 
