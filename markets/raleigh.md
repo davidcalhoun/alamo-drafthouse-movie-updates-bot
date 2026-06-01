@@ -1,6 +1,40 @@
 # raleigh
 
 ## Movie updates
+### Mon 6/1 6:13pm
+* New movies: The Handmaiden
+
+* New screenings: 
+    * [Alamo Drafthouse Movie Book Club The Handmaiden](https://drafthouse.com/raleigh/show/alamo-drafthouse-movie-book-club-the-handmaiden): Thu 6/4 (12:45pm)
+
+    * [Backrooms](https://drafthouse.com/raleigh/show/backrooms): Thu 6/4 (1:00pm, 1:45pm, 3:30pm, 4:45pm, 6:00pm, 7:45pm, 9:15pm, 10:45pm), Fri 6/5 (10:45am, 1:45pm, 2:30pm, 4:45pm, 6:00pm, 7:45pm, 9:00pm, 10:30pm, 10:45pm), Sat 6/6 (10:45am, 1:45pm, 3:15pm, 6:15pm, 7:15pm, 9:30pm, 10:15pm), Sun 6/7 (10:00am, 1:00pm, 4:00pm, 6:15pm, 7:00pm, 9:00pm, 9:30pm, 10:00pm), Mon 6/8 (1:30pm, 4:30pm, 6:15pm, 7:30pm, 9:15pm, 9:45pm, 10:30pm), Tue 6/9 (1:30pm, 4:45pm, 6:30pm, 7:45pm, 9:30pm, 10:45pm), Wed 6/10 (12:15pm, 3:45pm, 6:15pm, 6:30pm, 7:00pm, 10:15pm)
+
+    * [Fan Event Scary Movie 2026](https://drafthouse.com/raleigh/show/fan-event-scary-movie-2026): Thu 6/4 (7:45pm, 10:30pm)
+
+    * [I Love Boosters](https://drafthouse.com/raleigh/show/i-love-boosters): Thu 6/4 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Fri 6/5 (7:15pm, 10:45pm), Sat 6/6 (7:15pm, 10:45pm), Sun 6/7 (7:15pm, 10:45pm), Mon 6/8 (6:00pm, 10:40pm), Tue 6/9 (7:15pm, 10:40pm), Wed 6/10 (7:15pm, 10:15pm)
+
+    * [Masters Of The Universe 2026](https://drafthouse.com/raleigh/show/masters-of-the-universe-2026): Sat 6/6 (1:00pm), Mon 6/8 (11:00am, 11:30am, 2:30pm, 6:00pm, 9:30pm), Tue 6/9 (11:00am, 2:30pm, 3:00pm, 7:00pm, 9:00pm), Wed 6/10 (12:30pm, 4:00pm, 7:30pm, 9:15pm)
+
+    * [Michael 2026](https://drafthouse.com/raleigh/show/michael-2026): Thu 6/4 (11:45am, 3:00pm, 6:15pm, 9:30pm), Fri 6/5 (1:00pm, 3:30pm, 6:45pm, 10:15pm), Sat 6/6 (11:45am, 3:30pm, 7:00pm, 10:30pm), Sun 6/7 (1:00pm, 3:30pm, 6:45pm, 10:00pm), Mon 6/8 (12:00pm, 3:30pm, 6:45pm, 10:15pm), Tue 6/9 (12:45pm, 3:30pm, 6:45pm, 10:00pm), Wed 6/10 (11:45am, 3:15pm, 6:45pm, 9:45pm)
+
+    * [Obsession 2026](https://drafthouse.com/raleigh/show/obsession-2026): Thu 6/4 (1:15pm, 4:15pm, 7:15pm, 10:45pm), Fri 6/5 (1:15pm, 2:45pm, 4:45pm, 7:45pm, 9:15pm), Sat 6/6 (11:30am, 2:45pm, 4:45pm, 7:45pm, 9:15pm), Sun 6/7 (12:00pm, 1:45pm, 3:00pm, 4:45pm, 6:00pm, 7:45pm, 9:15pm), Mon 6/8 (1:30pm, 4:45pm, 7:15pm, 7:45pm, 9:00pm), Tue 6/9 (11:30am, 1:45pm, 2:45pm, 4:45pm, 7:45pm, 9:15pm), Wed 6/10 (1:45pm, 3:30pm, 4:00pm, 4:45pm, 7:45pm, 9:00pm)
+
+    * [Power Ballad](https://drafthouse.com/raleigh/show/power-ballad): Thu 6/4 (4:30pm), Fri 6/5 (12:15pm, 10:00pm), Sat 6/6 (10:15am, 1:00pm, 10:15pm), Sun 6/7 (11:15am, 2:00pm, 10:15pm), Mon 6/8 (1:15pm, 4:15pm, 7:00pm, 10:00pm), Tue 6/9 (12:15pm, 3:15pm, 6:15pm, 10:15pm), Wed 6/10 (11:45am, 2:45pm, 6:00pm, 10:00pm)
+
+    * [Scary Movie 2026](https://drafthouse.com/raleigh/show/scary-movie-2026): Fri 6/5 (6:30pm, 9:00pm), Sat 6/6 (6:30pm, 7:00pm, 9:15pm), Mon 6/8 (1:15pm, 2:30pm, 4:00pm, 5:15pm, 7:00pm, 9:45pm), Tue 6/9 (1:00pm, 4:00pm, 6:00pm, 6:30pm, 9:00pm, 10:30pm), Wed 6/10 (12:00pm, 3:00pm, 6:00pm, 7:00pm, 9:30pm, 10:45pm)
+
+    * [Special Event Trainspotting 30th Anniversary](https://drafthouse.com/raleigh/show/special-event-trainspotting-30th-anniversary): Wed 6/10 (12:45pm)
+
+    * [Star Wars The Mandalorian And Grogu](https://drafthouse.com/raleigh/show/star-wars-the-mandalorian-and-grogu): Thu 6/4 (11:15am, 11:30am, 2:45pm, 6:15pm, 9:45pm), Fri 6/5 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Sat 6/6 (12:30pm, 3:00pm, 6:15pm, 9:30pm), Sun 6/7 (11:00am, 2:30pm, 4:30pm, 7:45pm, 10:15pm), Mon 6/8 (12:00pm, 3:15pm, 6:30pm, 10:00pm), Tue 6/9 (12:30pm, 3:45pm, 7:00pm, 10:30pm), Wed 6/10 (11:30am, 3:00pm, 6:15pm, 9:45pm)
+
+    * [Stop That Train](https://drafthouse.com/raleigh/show/stop-that-train): Thu 6/11 (10:15pm)
+
+    * [The Breadwinner 2026](https://drafthouse.com/raleigh/show/the-breadwinner-2026): Thu 6/4 (1:45pm, 4:45pm), Fri 6/5 (12:30pm, 4:15pm), Sat 6/6 (12:30pm, 4:30pm), Sun 6/7 (12:30pm, 4:15pm), Mon 6/8 (12:30pm, 3:15pm), Tue 6/9 (12:15pm, 4:15pm), Wed 6/10 (12:45pm, 3:30pm)
+
+    * [The Devil Wears Prada 2](https://drafthouse.com/raleigh/show/the-devil-wears-prada-2): Mon 6/1 (7:15pm), Thu 6/4 (11:30am, 2:45pm), Fri 6/5 (12:00pm, 3:15pm), Sat 6/6 (10:15am, 1:30pm), Sun 6/7 (10:30am), Mon 6/8 (12:45pm, 3:00pm), Tue 6/9 (12:00pm, 3:15pm), Wed 6/10 (1:00pm)
+
+    * [The Sheep Detectives](https://drafthouse.com/raleigh/show/the-sheep-detectives): Thu 6/4 (12:30pm), Fri 6/5 (11:30am), Sat 6/6 (12:00pm), Sun 6/7 (12:30pm), Mon 6/8 (11:30am), Tue 6/9 (12:00pm), Wed 6/10 (12:30pm)
+
 ### Mon 6/1 2:12pm
 * New movies: Minions & Monsters, Minions & Monsters, CatVideoFest 2026
 
