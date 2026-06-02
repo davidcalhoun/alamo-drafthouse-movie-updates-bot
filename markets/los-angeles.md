@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 6/2 11:07am
+* New movies: Jinsei, Aguirre, the Wrath of God
+
+* New screenings: 
+    * [Jinsei](https://drafthouse.com/los-angeles/show/jinsei): Thu 6/11 (7:00pm), Fri 6/12 (4:45pm, 7:00pm), Sat 6/13 (4:15pm, 7:00pm), Sun 6/14 (4:15pm, 7:00pm), Mon 6/15 (3:30pm, 6:15pm), Tue 6/16 (3:30pm, 6:15pm), Wed 6/17 (4:30pm), Thu 6/18 (4:15pm, 6:45pm)
+
+    * [Weird Wednesday Aguirre The Wrath Of God](https://drafthouse.com/los-angeles/show/weird-wednesday-aguirre-the-wrath-of-god): Wed 6/3 (7:00pm)
+
 ### Tue 6/2 7:06am
 * New movies: Leviticus, Leviticus
 
