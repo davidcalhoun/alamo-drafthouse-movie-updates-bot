@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 6/2 7:06am
+* New movies: Leviticus, Leviticus
+
+* New screenings: 
+    * [Fan Event Leviticus Desire Fan Screening](https://drafthouse.com/los-angeles/show/fan-event-leviticus-desire-fan-screening): Wed 6/17 (7:00pm)
+
+    * [Leviticus](https://drafthouse.com/los-angeles/show/leviticus): Thu 6/18 (7:00pm, 9:45pm), Fri 6/19 (4:15pm, 7:00pm, 9:45pm), Sat 6/20 (4:15pm, 7:00pm, 9:45pm), Sun 6/21 (4:15pm, 7:00pm, 9:45pm)
+
 ### Mon 6/1 4:37pm
 * New movies: First Date 2026
 
