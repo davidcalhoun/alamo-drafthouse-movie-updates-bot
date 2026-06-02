@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 6/2 10:59am
+* New movies: Leviticus
+
+* New screenings: 
+    * [Leviticus](https://drafthouse.com/raleigh/show/leviticus): Thu 6/18 (7:00pm), Fri 6/19 (7:45pm), Sat 6/20 (7:45pm), Sun 6/21 (7:45pm)
+
 ### Mon 6/1 6:13pm
 * New movies: The Handmaiden
 
