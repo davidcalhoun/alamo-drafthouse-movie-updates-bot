@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 6/3 2:52pm
+* New movies: Supergirl 2026
+
+* New screenings: 
+    * [Supergirl 2026](https://drafthouse.com/raleigh/show/supergirl-2026): Thu 6/25 (4:00pm, 7:00pm, 10:00pm), Fri 6/26 (10:00am, 1:00pm, 4:00pm, 7:00pm, 10:00pm), Sat 6/27 (10:00am, 1:00pm, 4:00pm, 7:00pm, 10:00pm), Sun 6/28 (10:00am, 1:00pm, 4:00pm, 6:30pm, 10:00pm)
+
 ### Wed 6/3 10:51am
 * New movies: The Death of Robin Hood, Field of Dreams
 
