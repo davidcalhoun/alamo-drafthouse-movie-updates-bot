@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Wed 6/3 10:51am
+* New movies: The Death of Robin Hood, Field of Dreams
+
+* New screenings: 
+    * [Free Victory Screening Field Of Dreams His Own Way The Eddie Russell Story](https://drafthouse.com/raleigh/show/free-victory-screening-field-of-dreams-his-own-way-the-eddie-russell-story): Tue 6/23 (7:00pm)
+
+    * [The Death Of Robin Hood](https://drafthouse.com/raleigh/show/the-death-of-robin-hood): Thu 6/18 (6:15pm), Fri 6/19 (6:45pm), Sat 6/20 (6:45pm), Sun 6/21 (6:45pm)
+
 ### Tue 6/2 10:59am
 * New movies: Leviticus
 
