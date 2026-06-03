@@ -1,6 +1,22 @@
 # raleigh
 
 ## Movie updates
+### Wed 6/3 5:57pm
+* New movies: A/V Geeks Present: Your Job Wants to Kill You, Bob & Carol & Ted & Alice, Force Majeure, Le Bonheur, The Graduate, State of Firsts
+
+* New screenings: 
+    * [A V Geeks Present Your Job Wants To Kill You](https://drafthouse.com/raleigh/show/a-v-geeks-present-your-job-wants-to-kill-you): Tue 6/30 (6:30pm)
+
+    * [Guest Selects Bob Carol Ted Alice](https://drafthouse.com/raleigh/show/guest-selects-bob-carol-ted-alice): Sat 6/20 (3:30pm)
+
+    * [Guest Selects Force Majeure](https://drafthouse.com/raleigh/show/guest-selects-force-majeure): Fri 6/19 (7:00pm)
+
+    * [Guest Selects Le Bonheur](https://drafthouse.com/raleigh/show/guest-selects-le-bonheur): Sat 6/13 (2:00pm)
+
+    * [Guest Selects The Graduate](https://drafthouse.com/raleigh/show/guest-selects-the-graduate): Sat 6/13 (11:00am)
+
+    * [State Of Firsts](https://drafthouse.com/raleigh/show/state-of-firsts): Sun 7/5 (10:15am)
+
 ### Wed 6/3 2:52pm
 * New movies: Supergirl 2026
 
