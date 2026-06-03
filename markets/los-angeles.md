@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 6/3 7:44am
+* New movies: The Death of Robin Hood, Field of Dreams
+
+* New screenings: 
+    * [Free Victory Screening Field Of Dreams His Own Way The Eddie Russell Story](https://drafthouse.com/los-angeles/show/free-victory-screening-field-of-dreams-his-own-way-the-eddie-russell-story): Tue 6/23 (7:00pm)
+
+    * [The Death Of Robin Hood](https://drafthouse.com/los-angeles/show/the-death-of-robin-hood): Thu 6/18 (4:00pm, 7:15pm), Fri 6/19 (4:25pm, 7:35pm), Sat 6/20 (4:25pm, 7:35pm), Sun 6/21 (4:25pm, 7:35pm)
+
 ### Tue 6/2 11:07am
 * New movies: Jinsei, Aguirre, the Wrath of God
 
