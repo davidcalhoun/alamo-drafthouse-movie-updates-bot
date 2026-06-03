@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 6/3 11:47am
+* New movies: Supergirl 2026
+
+* New screenings: 
+    * [Supergirl 2026](https://drafthouse.com/los-angeles/show/supergirl-2026): Thu 6/25 (4:00pm, 7:00pm, 10:00pm), Fri 6/26 (10:15am, 1:15pm, 4:15pm, 7:15pm, 10:15pm), Sat 6/27 (10:15am, 1:15pm, 4:15pm, 7:15pm, 10:15pm), Sun 6/28 (10:15am, 1:15pm, 4:15pm, 7:15pm, 10:15pm)
+
 ### Wed 6/3 7:44am
 * New movies: The Death of Robin Hood, Field of Dreams
 
