@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Sat 6/6 2:07pm
+* New movies: Bob & Carol & Ted & Alice, Force Majeure, Le Bonheur, The Graduate
+
+* New screenings: 
+    * [Guest Selects Bob Carol Ted Alice](https://drafthouse.com/los-angeles/show/guest-selects-bob-carol-ted-alice): Sat 6/20 (4:00pm)
+
+    * [Guest Selects Force Majeure](https://drafthouse.com/los-angeles/show/guest-selects-force-majeure): Fri 6/19 (6:45pm)
+
+    * [Guest Selects Le Bonheur](https://drafthouse.com/los-angeles/show/guest-selects-le-bonheur): Mon 6/15 (4:30pm)
+
+    * [Guest Selects The Graduate](https://drafthouse.com/los-angeles/show/guest-selects-the-graduate): Sat 6/13 (1:00pm)
+
 ### Sat 6/6 12:37pm
 * New movies: Maddie's Secret, Mystery Machine 6/29/2026
 
