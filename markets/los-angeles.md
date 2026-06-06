@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Sat 6/6 12:37pm
+* New movies: Maddie's Secret, Mystery Machine 6/29/2026
+
+* New screenings: 
+    * [Maddies Secret](https://drafthouse.com/los-angeles/show/maddies-secret): Thu 6/25 (4:00pm, 6:45pm), Fri 6/26 (4:45pm, 7:30pm), Sat 6/27 (11:15am, 4:45pm, 7:30pm), Sun 6/28 (4:45pm, 7:30pm)
+
+    * [Mystery Machine 6 29 2026](https://drafthouse.com/los-angeles/show/mystery-machine-6-29-2026): Mon 6/29 (7:20pm)
+
+    * [Special Event First Date 2026 Whispers Double Feature](https://drafthouse.com/los-angeles/show/special-event-first-date-2026-whispers-double-feature): Tue 6/23 (7:00pm)
+
 ### Thu 6/4 11:21am
 * New movies: The Odyssey
 
