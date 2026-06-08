@@ -1,6 +1,58 @@
 # los-angeles
 
 ## Movie updates
+### Mon 6/8 3:40pm
+* New movies: The Furious, But I'm a Cheerleader
+
+* New screenings: 
+    * [Backrooms](https://drafthouse.com/los-angeles/show/backrooms): Thu 6/11 (12:15pm, 3:30pm, 6:30pm, 9:30pm), Fri 6/12 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Sat 6/13 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Sun 6/14 (11:00am, 2:00pm, 5:00pm, 8:00pm, 9:30pm), Mon 6/15 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Tue 6/16 (10:45am, 1:45pm, 4:45pm, 7:15pm, 10:45pm), Wed 6/17 (10:45am, 1:45pm, 4:45pm, 7:15pm, 10:45pm)
+
+    * [Boogie Nights](https://drafthouse.com/los-angeles/show/boogie-nights): Fri 6/12 (3:15pm), Sat 6/13 (12:20pm), Sun 6/14 (12:30pm), Mon 6/15 (9:00pm), Tue 6/16 (12:00pm, 9:00pm), Wed 6/17 (6:45pm)
+
+    * [But Im A Cheerleader](https://drafthouse.com/los-angeles/show/but-im-a-cheerleader): Wed 6/17 (10:30pm)
+
+    * [Disclosure Day](https://drafthouse.com/los-angeles/show/disclosure-day): Thu 6/11 (4:15pm, 7:45pm, 9:30pm), Fri 6/12 (12:15pm, 3:45pm, 7:15pm, 9:30pm), Sat 6/13 (12:15pm, 3:45pm, 7:15pm, 9:30pm), Sun 6/14 (11:00am, 2:30pm, 6:00pm, 9:15pm, 9:45pm), Mon 6/15 (11:15am, 12:15pm, 2:45pm, 3:45pm, 6:15pm, 7:15pm, 9:30pm, 9:45pm), Tue 6/16 (12:00pm, 12:15pm, 3:30pm, 3:45pm, 6:45pm, 7:15pm, 9:30pm, 10:00pm), Wed 6/17 (12:00pm, 12:15pm, 3:30pm, 3:45pm, 6:45pm, 7:15pm, 9:30pm, 10:00pm)
+
+    * [Dressed To Kill 1980](https://drafthouse.com/los-angeles/show/dressed-to-kill-1980): Sun 6/14 (9:45pm), Tue 6/16 (10:15pm), Wed 6/17 (10:15pm)
+
+    * [Guest Selects The Graduate](https://drafthouse.com/los-angeles/show/guest-selects-the-graduate): Mon 6/15 (10:00pm)
+
+    * [I Love Boosters](https://drafthouse.com/los-angeles/show/i-love-boosters): Thu 6/11 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Fri 6/12 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sat 6/13 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sun 6/14 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Mon 6/15 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Tue 6/16 (12:30pm, 3:30pm, 6:30pm, 10:30pm), Wed 6/17 (12:30pm, 3:30pm, 6:30pm, 10:30pm)
+
+    * [Is God Is](https://drafthouse.com/los-angeles/show/is-god-is): Thu 6/11 (9:45pm)
+
+    * [Kids Camp Kpop Demon Hunters](https://drafthouse.com/los-angeles/show/kids-camp-kpop-demon-hunters): Mon 6/15 (1:45pm), Wed 6/17 (1:45pm)
+
+    * [Masters Of The Universe 2026](https://drafthouse.com/los-angeles/show/masters-of-the-universe-2026): Thu 6/11 (12:00pm, 3:30pm, 6:30pm, 10:00pm), Fri 6/12 (11:15am, 2:45pm, 6:15pm, 9:45pm), Sat 6/13 (11:15am, 2:45pm, 6:15pm, 9:45pm), Sun 6/14 (11:15am, 2:45pm, 6:15pm, 9:45pm), Mon 6/15 (11:15am, 2:45pm, 6:15pm, 9:45pm), Tue 6/16 (11:15am, 2:45pm, 6:15pm, 9:45pm), Wed 6/17 (11:15am, 2:45pm, 6:15pm, 9:45pm)
+
+    * [Obsession 2026](https://drafthouse.com/los-angeles/show/obsession-2026): Thu 6/11 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Fri 6/12 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 6/13 (10:15am, 1:15pm, 4:15pm, 7:15pm, 10:15pm), Sun 6/14 (10:30am, 1:30pm, 3:45pm, 7:30pm, 10:15pm), Mon 6/15 (10:30am, 1:30pm, 4:30pm, 7:30pm, 10:30pm), Tue 6/16 (10:30am, 1:30pm, 4:45pm, 7:45pm, 10:15pm), Wed 6/17 (10:30am, 1:30pm, 4:45pm, 7:45pm, 10:15pm)
+
+    * [Power Ballad](https://drafthouse.com/los-angeles/show/power-ballad): Thu 6/11 (11:00am, 1:45pm), Fri 6/12 (11:00am, 1:45pm), Sat 6/13 (11:00am, 1:45pm), Sun 6/14 (11:00am, 1:45pm), Mon 6/15 (10:45am, 1:30pm), Tue 6/16 (10:45am, 1:30pm), Wed 6/17 (10:45am, 1:30pm)
+
+    * [Pressure 2026](https://drafthouse.com/los-angeles/show/pressure-2026): Thu 6/11 (3:45pm)
+
+    * [Sad Girl Cinema Club Persona 1966](https://drafthouse.com/los-angeles/show/sad-girl-cinema-club-persona-1966): Fri 6/12 (12:30pm), Wed 6/17 (11:00am)
+
+    * [Scary Movie 2026](https://drafthouse.com/los-angeles/show/scary-movie-2026): Thu 6/11 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Fri 6/12 (10:30am, 1:15pm, 4:00pm, 6:45pm, 10:00pm), Sat 6/13 (10:30am, 1:15pm, 4:00pm, 6:45pm, 10:00pm), Sun 6/14 (10:15am, 1:00pm, 4:30pm, 7:15pm, 10:00pm), Mon 6/15 (10:30am, 1:15pm, 4:00pm, 6:45pm, 10:00pm), Tue 6/16 (10:30am, 1:15pm, 4:00pm, 7:45pm, 10:00pm), Wed 6/17 (10:30am, 1:15pm, 4:00pm, 7:45pm, 10:00pm)
+
+    * [Special Event Amores Perros 25th Anniversary](https://drafthouse.com/los-angeles/show/special-event-amores-perros-25th-anniversary): Fri 6/12 (1:00pm), Sat 6/13 (7:45pm), Wed 6/17 (12:15pm)
+
+    * [Special Event Trainspotting 30th Anniversary](https://drafthouse.com/los-angeles/show/special-event-trainspotting-30th-anniversary): Thu 6/11 (1:45pm)
+
+    * [Star Wars The Mandalorian And Grogu](https://drafthouse.com/los-angeles/show/star-wars-the-mandalorian-and-grogu): Thu 6/11 (11:15am, 2:45pm, 6:15pm, 9:45pm), Fri 6/12 (11:30am, 3:00pm, 6:30pm, 10:00pm), Sat 6/13 (11:30am, 3:00pm, 6:30pm, 10:00pm), Sun 6/14 (11:30am, 3:00pm, 6:30pm, 10:00pm), Mon 6/15 (11:30am, 3:00pm, 6:30pm, 10:00pm), Tue 6/16 (11:30am, 3:00pm, 6:30pm, 10:00pm), Wed 6/17 (11:30am, 3:00pm, 6:30pm, 10:00pm)
+
+    * [Stop That Train](https://drafthouse.com/los-angeles/show/stop-that-train): Thu 6/11 (10:00pm), Fri 6/12 (11:00am, 1:45pm, 10:45pm), Sat 6/13 (11:00am, 1:45pm, 10:45pm), Sun 6/14 (11:00am, 1:45pm, 10:00pm), Mon 6/15 (11:00am, 1:45pm, 4:30pm, 7:15pm, 10:45pm), Tue 6/16 (11:15am, 2:00pm, 4:30pm, 7:15pm, 10:45pm), Wed 6/17 (11:15am, 2:00pm, 4:30pm, 7:15pm, 10:45pm)
+
+    * [The Breadwinner 2026](https://drafthouse.com/los-angeles/show/the-breadwinner-2026): Thu 6/11 (1:00pm)
+
+    * [The Devil Wears Prada 2](https://drafthouse.com/los-angeles/show/the-devil-wears-prada-2): Thu 6/11 (12:20pm)
+
+    * [The Furious](https://drafthouse.com/los-angeles/show/the-furious): Thu 6/11 (4:30pm, 7:30pm, 10:30pm), Fri 6/12 (4:30pm, 7:30pm, 10:30pm), Sat 6/13 (4:30pm, 7:30pm, 10:30pm), Sun 6/14 (4:30pm, 10:30pm), Mon 6/15 (4:15pm, 7:15pm, 10:15pm), Tue 6/16 (4:15pm, 10:15pm), Wed 6/17 (4:15pm, 10:15pm)
+
+    * [The Sheep Detectives](https://drafthouse.com/los-angeles/show/the-sheep-detectives): Thu 6/11 (1:15pm)
+
+    * [Tuner](https://drafthouse.com/los-angeles/show/tuner): Thu 6/11 (1:00pm)
+
 ### Mon 6/8 7:12am
 * New movies: jackass: best and last, jackass: best and last
 
