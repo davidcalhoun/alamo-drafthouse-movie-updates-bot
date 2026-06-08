@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Mon 6/8 7:12am
+* New movies: jackass: best and last, jackass: best and last
+
+* New screenings: 
+    * [Fan Event Jackass Best And Last](https://drafthouse.com/los-angeles/show/fan-event-jackass-best-and-last): Thu 6/25 (7:00pm)
+
+    * [Jackass Best And Last](https://drafthouse.com/los-angeles/show/jackass-best-and-last): Thu 6/25 (4:15pm), Fri 6/26 (5:00pm, 7:45pm), Sat 6/27 (5:00pm, 7:45pm), Sun 6/28 (5:00pm, 7:45pm)
+
 ### Sat 6/6 2:07pm
 * New movies: Bob & Carol & Ted & Alice, Force Majeure, Le Bonheur, The Graduate
 
