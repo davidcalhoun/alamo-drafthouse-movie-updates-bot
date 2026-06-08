@@ -1,6 +1,18 @@
 # raleigh
 
 ## Movie updates
+### Mon 6/8 12:11pm
+* New movies: Maddie's Secret, jackass: best and last, jackass: best and last, jackass: best and last
+
+* New screenings: 
+    * [Cereal Party Jackass Best And Last](https://drafthouse.com/raleigh/show/cereal-party-jackass-best-and-last): Sat 6/27 (10:30pm)
+
+    * [Fan Event Jackass Best And Last](https://drafthouse.com/raleigh/show/fan-event-jackass-best-and-last): Thu 6/25 (7:00pm)
+
+    * [Jackass Best And Last](https://drafthouse.com/raleigh/show/jackass-best-and-last): Fri 6/26 (7:30pm, 10:30pm), Sat 6/27 (7:30pm), Sun 6/28 (7:30pm, 10:30pm)
+
+    * [Maddies Secret](https://drafthouse.com/raleigh/show/maddies-secret): Thu 7/2 (7:30pm, 10:15pm), Fri 7/3 (7:30pm, 10:15pm), Sat 7/4 (7:30pm, 10:15pm), Sun 7/5 (7:30pm, 10:15pm)
+
 ### Wed 6/3 5:57pm
 * New movies: A/V Geeks Present: Your Job Wants to Kill You, Bob & Carol & Ted & Alice, Force Majeure, Le Bonheur, The Graduate, State of Firsts
 
