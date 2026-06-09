@@ -1,6 +1,42 @@
 # raleigh
 
 ## Movie updates
+### Tue 6/9 8:11am
+* New movies: The Furious, Cave of Forgotten Dreams
+
+* New screenings: 
+    * [Backrooms](https://drafthouse.com/raleigh/show/backrooms): Thu 6/11 (12:00pm, 1:30pm, 4:30pm, 7:45pm, 10:45pm), Fri 6/12 (10:30am, 1:30pm, 4:30pm, 7:30pm, 9:30pm, 10:15pm), Sat 6/13 (10:30am, 1:30pm, 4:45pm, 7:45pm, 10:45pm), Sun 6/14 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Mon 6/15 (1:30pm, 4:30pm, 7:30pm, 10:15pm, 10:45pm), Tue 6/16 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Wed 6/17 (1:30pm, 4:30pm, 7:30pm, 10:30pm)
+
+    * [Boogie Nights](https://drafthouse.com/raleigh/show/boogie-nights): Mon 6/15 (6:15pm), Tue 6/16 (6:15pm)
+
+    * [Cave Of Forgotten Dreams](https://drafthouse.com/raleigh/show/cave-of-forgotten-dreams): Thu 6/11 (2:00pm)
+
+    * [Disclosure Day](https://drafthouse.com/raleigh/show/disclosure-day): Thu 6/11 (3:00pm, 6:30pm, 10:30pm), Fri 6/12 (11:00am, 11:30am, 2:30pm, 3:00pm, 6:00pm, 6:30pm), Sat 6/13 (2:30pm, 5:15pm, 6:00pm, 6:30pm), Sun 6/14 (11:00am, 2:30pm, 9:45pm), Mon 6/15 (11:00am, 11:30am, 12:00pm, 3:00pm, 3:30pm, 6:00pm, 7:00pm, 9:30pm), Tue 6/16 (11:15am, 12:00pm, 12:15pm, 2:15pm, 3:30pm, 7:00pm, 10:30pm), Wed 6/17 (11:00am, 12:00pm, 2:00pm, 3:30pm, 5:30pm, 6:15pm, 7:00pm, 8:45pm)
+
+    * [Girls Like Girls](https://drafthouse.com/raleigh/show/girls-like-girls): Thu 6/18 (4:45pm, 10:15pm)
+
+    * [I Love Boosters](https://drafthouse.com/raleigh/show/i-love-boosters): Thu 6/11 (10:00pm), Fri 6/12 (10:30pm), Sat 6/13 (9:30pm), Sun 6/14 (10:05pm), Mon 6/15 (10:00pm), Tue 6/16 (9:45pm), Wed 6/17 (10:30pm)
+
+    * [Leviticus](https://drafthouse.com/raleigh/show/leviticus): Thu 6/18 (9:45pm)
+
+    * [Masters Of The Universe 2026](https://drafthouse.com/raleigh/show/masters-of-the-universe-2026): Thu 6/11 (11:00am, 12:30pm, 2:30pm, 6:00pm, 9:30pm), Fri 6/12 (11:00am, 2:30pm, 6:00pm, 9:30pm), Sat 6/13 (10:45am, 2:30pm, 6:00pm, 9:30pm), Sun 6/14 (11:30am, 3:00pm, 6:30pm, 10:00pm), Mon 6/15 (12:30pm, 4:15pm, 6:30pm, 10:00pm), Tue 6/16 (12:30pm, 4:15pm, 6:30pm, 10:00pm), Wed 6/17 (11:00am, 2:30pm, 6:00pm, 9:30pm)
+
+    * [Michael 2026](https://drafthouse.com/raleigh/show/michael-2026): Thu 6/11 (12:00pm, 3:30pm), Fri 6/12 (12:30pm, 3:45pm), Sat 6/13 (11:45am, 3:15pm), Sun 6/14 (11:45am, 3:00pm), Mon 6/15 (11:15am, 2:30pm), Tue 6/16 (11:00am, 2:30pm), Wed 6/17 (11:15am, 2:30pm)
+
+    * [Obsession 2026](https://drafthouse.com/raleigh/show/obsession-2026): Thu 6/11 (12:45pm, 3:45pm, 7:15pm, 9:20pm, 10:30pm), Fri 6/12 (12:45pm, 3:45pm, 6:45pm, 7:00pm, 9:45pm), Sat 6/13 (11:30am, 12:45pm, 3:45pm, 6:45pm, 9:45pm), Sun 6/14 (12:45pm, 3:45pm, 6:45pm, 7:00pm, 9:45pm), Mon 6/15 (12:45pm, 3:45pm, 6:45pm, 9:45pm, 10:30pm), Tue 6/16 (12:45pm, 3:45pm, 6:45pm, 9:45pm, 10:00pm), Wed 6/17 (12:30pm, 3:45pm, 6:45pm, 9:45pm)
+
+    * [Power Ballad](https://drafthouse.com/raleigh/show/power-ballad): Thu 6/11 (1:30pm, 4:45pm), Fri 6/12 (10:30am, 1:15pm), Sat 6/13 (10:30am, 1:15pm), Sun 6/14 (10:30am, 1:15pm), Mon 6/15 (11:45am, 2:45pm), Tue 6/16 (12:15pm, 3:15pm), Wed 6/17 (1:00pm, 4:15pm)
+
+    * [Scary Movie 2026](https://drafthouse.com/raleigh/show/scary-movie-2026): Thu 6/11 (11:45am, 1:00pm, 4:15pm, 7:00pm, 10:00pm), Fri 6/12 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:45pm), Sat 6/13 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:00pm, 10:45pm), Sun 6/14 (11:30am, 2:15pm, 5:00pm, 7:45pm, 9:00pm, 10:45pm), Mon 6/15 (1:00pm, 3:45pm, 7:45pm, 10:45pm), Tue 6/16 (11:30am, 3:45pm, 7:45pm, 10:45pm), Wed 6/17 (1:30pm, 4:45pm, 7:45pm, 10:00pm, 10:45pm)
+
+    * [Star Wars The Mandalorian And Grogu](https://drafthouse.com/raleigh/show/star-wars-the-mandalorian-and-grogu): Thu 6/11 (11:30am, 2:45pm, 6:15pm, 9:45pm), Fri 6/12 (11:45am, 3:00pm, 6:15pm, 10:05pm), Sat 6/13 (11:45am, 3:00pm, 6:15pm, 10:05pm), Sun 6/14 (11:15am, 2:45pm, 6:15pm, 9:30pm), Mon 6/15 (11:00am, 2:30pm, 6:00pm, 9:15pm), Tue 6/16 (11:00am, 2:45pm, 6:00pm, 9:15pm), Wed 6/17 (11:30am, 3:00pm, 6:15pm, 9:45pm)
+
+    * [Stop That Train](https://drafthouse.com/raleigh/show/stop-that-train): Thu 6/11 (4:45pm, 6:45pm), Fri 6/12 (10:15am, 12:50pm, 3:30pm, 9:00pm), Sat 6/13 (10:45am, 1:45pm, 4:30pm, 10:15pm), Sun 6/14 (11:00am, 1:45pm, 4:30pm, 6:15pm, 10:15pm), Mon 6/15 (12:45pm, 4:00pm, 7:00pm, 9:45pm), Tue 6/16 (1:00pm, 4:00pm, 7:00pm, 9:45pm), Wed 6/17 (12:45pm, 4:00pm, 7:00pm, 9:45pm)
+
+    * [The Death Of Robin Hood](https://drafthouse.com/raleigh/show/the-death-of-robin-hood): Thu 6/18 (9:45pm)
+
+    * [The Furious](https://drafthouse.com/raleigh/show/the-furious): Thu 6/11 (7:45pm, 10:45pm), Fri 6/12 (4:00pm, 7:15pm, 10:20pm), Sat 6/13 (4:00pm, 7:15pm, 10:20pm), Sun 6/14 (4:00pm, 7:15pm, 10:15pm), Mon 6/15 (6:15pm, 9:30pm), Tue 6/16 (6:15pm, 9:30pm), Wed 6/17 (7:15pm, 10:15pm)
+
 ### Mon 6/8 12:11pm
 * New movies: Maddie's Secret, jackass: best and last, jackass: best and last, jackass: best and last
 
