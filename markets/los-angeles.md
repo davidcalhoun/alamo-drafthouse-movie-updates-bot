@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 6/9 9:04am
+* New movies: The Invite
+
+* New screenings: 
+    * [Advance Screening The Invite](https://drafthouse.com/los-angeles/show/advance-screening-the-invite): Tue 6/16 (7:00pm)
+
 ### Mon 6/8 3:40pm
 * New movies: The Furious, But I'm a Cheerleader
 
