@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 6/9 3:23pm
+* New movies: First Date 2026
+
+* New screenings: 
+    * [Special Event First Date 2026 Whispers Double Feature](https://drafthouse.com/raleigh/show/special-event-first-date-2026-whispers-double-feature): Wed 7/22 (7:00pm)
+
 ### Tue 6/9 12:09pm
 * New movies: The Odyssey, The Invite
 
