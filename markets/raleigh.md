@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Tue 6/9 12:09pm
+* New movies: The Odyssey, The Invite
+
+* New screenings: 
+    * [Advance Screening The Invite](https://drafthouse.com/raleigh/show/advance-screening-the-invite): Tue 6/16 (6:00pm)
+
+    * [The Odyssey](https://drafthouse.com/raleigh/show/the-odyssey): Thu 7/16 (2:00pm, 6:00pm, 10:00pm), Fri 7/17 (10:00am, 2:00pm, 6:00pm, 10:00pm), Sat 7/18 (10:00am, 2:00pm, 6:00pm, 10:00pm), Sun 7/19 (10:00am, 2:00pm, 6:00pm, 10:00pm), Mon 7/20 (10:00am, 2:00pm, 6:00pm, 10:00pm), Tue 7/21 (10:00am, 2:00pm, 6:00pm, 10:00pm), Wed 7/22 (10:00am, 2:00pm, 6:00pm, 10:00pm), Thu 7/23 (10:00am, 2:00pm, 6:00pm, 10:00pm), Fri 7/24 (10:00am, 2:00pm, 6:00pm, 10:00pm), Sat 7/25 (10:00am, 2:00pm, 6:00pm, 10:00pm), Sun 7/26 (10:00am, 2:00pm, 6:00pm, 10:00pm), Mon 7/27 (10:00am, 2:00pm, 6:00pm, 10:00pm), Tue 7/28 (10:00am, 2:00pm, 6:00pm, 10:00pm), Wed 7/29 (11:30am, 3:30pm)
+
 ### Tue 6/9 8:11am
 * New movies: The Furious, Cave of Forgotten Dreams
 
