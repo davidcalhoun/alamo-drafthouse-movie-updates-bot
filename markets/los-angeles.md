@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 6/10 11:04am
+* New movies: Moana 2026
+
+* New screenings: 
+    * [Moana 2026](https://drafthouse.com/los-angeles/show/moana-2026): Thu 7/9 (3:30pm, 6:30pm, 9:30pm), Fri 7/10 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sat 7/11 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sun 7/12 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Mon 7/13 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Tue 7/14 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Wed 7/15 (12:30pm, 3:30pm, 6:30pm, 9:30pm)
+
 ### Tue 6/9 9:04am
 * New movies: The Invite
 
