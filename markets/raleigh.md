@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Wed 6/10 3:41pm
+
+* New screenings: 
+    * [Hadestown The Musical](https://drafthouse.com/raleigh/show/hadestown-the-musical): Fri 7/24 (3:30pm, 7:00pm), Sat 7/25 (3:30pm, 7:00pm), Sun 7/26 (3:30pm, 7:00pm), Mon 7/27 (12:00pm, 7:00pm)
+
 ### Wed 6/10 12:40pm
 * New movies: Moana 2026, Mystery Machine 6/29/2026, Hadestown: The Musical, The American Astronaut
 
