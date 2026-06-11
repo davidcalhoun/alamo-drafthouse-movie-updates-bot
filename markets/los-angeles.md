@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Thu 6/11 7:39am
+* New movies: Gail Daughtry and the Celebrity Sex Pass, The Fast and the Furious: 25th Anniversary, The Fast and the Furious: 25th Anniversary
+
+* New screenings: 
+    * [Gail Daughtry And The Celebrity Sex Pass](https://drafthouse.com/los-angeles/show/gail-daughtry-and-the-celebrity-sex-pass): Thu 7/9 (4:30pm, 7:15pm), Fri 7/10 (4:30pm, 7:15pm), Sat 7/11 (4:30pm, 7:15pm), Sun 7/12 (4:30pm, 7:15pm)
+
+    * [Movie Party The Fast And The Furious 25th Anniversary](https://drafthouse.com/los-angeles/show/movie-party-the-fast-and-the-furious-25th-anniversary): Sun 8/23 (4:00pm)
+
+    * [The Fast And The Furious 25th Anniversary](https://drafthouse.com/los-angeles/show/the-fast-and-the-furious-25th-anniversary): Fri 8/21 (7:00pm), Sat 8/22 (1:15pm), Sun 8/23 (1:00pm), Mon 8/24 (7:00pm), Tue 8/25 (4:30pm), Wed 8/26 (4:00pm), Thu 8/27 (6:45pm)
+
 ### Wed 6/10 10:52pm
 
 * New screenings: 
