@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Thu 6/11 5:26pm
+
+* New screenings: 
+    * [Michael 2026](https://drafthouse.com/raleigh/show/michael-2026): Fri 6/12 (12:30pm)
+
 ### Thu 6/11 10:48am
 * New movies: Gail Daughtry and the Celebrity Sex Pass, The Fast and the Furious: 25th Anniversary, Gail Daughtry and the Celebrity Sex Pass, The Fast and the Furious: 25th Anniversary
 
