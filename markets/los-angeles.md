@@ -1,6 +1,15 @@
 # los-angeles
 
 ## Movie updates
+### Wed 6/10 10:52pm
+
+* New screenings: 
+    * [Aftersun](https://drafthouse.com/los-angeles/show/aftersun): Wed 6/24 (4:35pm)
+
+    * [Body Double](https://drafthouse.com/los-angeles/show/body-double): Sun 6/21 (8:20pm), Tue 6/23 (4:25pm)
+
+    * [Raiders Of The Lost Ark](https://drafthouse.com/los-angeles/show/raiders-of-the-lost-ark): Sat 6/20 (12:50pm), Sun 6/21 (5:10pm), Mon 6/22 (4:15pm)
+
 ### Wed 6/10 11:04am
 * New movies: Moana 2026
 
