@@ -1,6 +1,18 @@
 # raleigh
 
 ## Movie updates
+### Thu 6/11 10:48am
+* New movies: Gail Daughtry and the Celebrity Sex Pass, The Fast and the Furious: 25th Anniversary, Gail Daughtry and the Celebrity Sex Pass, The Fast and the Furious: 25th Anniversary
+
+* New screenings: 
+    * [Gail Daughtry And The Celebrity Sex Pass](https://drafthouse.com/raleigh/show/gail-daughtry-and-the-celebrity-sex-pass): Thu 7/9 (4:45pm, 7:30pm), Fri 7/10 (4:30pm, 7:15pm), Sat 7/11 (4:30pm, 7:15pm), Sun 7/12 (4:30pm, 7:15pm)
+
+    * [Livestream Q A Gail Daughtry And The Celebrity Sex Pass](https://drafthouse.com/raleigh/show/livestream-q-a-gail-daughtry-and-the-celebrity-sex-pass): Tue 6/30 (9:00pm)
+
+    * [Movie Party The Fast And The Furious 25th Anniversary](https://drafthouse.com/raleigh/show/movie-party-the-fast-and-the-furious-25th-anniversary): Sun 8/23 (3:00pm)
+
+    * [The Fast And The Furious 25th Anniversary](https://drafthouse.com/raleigh/show/the-fast-and-the-furious-25th-anniversary): Fri 8/21 (7:00pm), Sat 8/22 (4:00pm), Sun 8/23 (12:00pm), Mon 8/24 (7:00pm), Tue 8/25 (7:00pm), Wed 8/26 (4:30pm, 7:30pm)
+
 ### Wed 6/10 3:41pm
 
 * New screenings: 
