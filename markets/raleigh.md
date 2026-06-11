@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Thu 6/11 7:45pm
+
+* New screenings: 
+    * [Raiders Of The Lost Ark](https://drafthouse.com/raleigh/show/raiders-of-the-lost-ark): Fri 6/19 (10:15pm), Mon 6/22 (3:30pm)
+
 ### Thu 6/11 5:26pm
 
 * New screenings: 
