@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 6/11 11:17am
+* New movies: The Odyssey, Gail Daughtry and the Celebrity Sex Pass
+
+* New screenings: 
+    * [Gourmet Cinema The Odyssey Feast Of The Gods Screening](https://drafthouse.com/los-angeles/show/gourmet-cinema-the-odyssey-feast-of-the-gods-screening): Wed 7/22 (6:45pm)
+
+    * [Live Q A Gail Daughtry And The Celebrity Sex Pass](https://drafthouse.com/los-angeles/show/live-q-a-gail-daughtry-and-the-celebrity-sex-pass): Tue 6/30 (6:00pm)
+
 ### Thu 6/11 7:39am
 * New movies: Gail Daughtry and the Celebrity Sex Pass, The Fast and the Furious: 25th Anniversary, The Fast and the Furious: 25th Anniversary
 
