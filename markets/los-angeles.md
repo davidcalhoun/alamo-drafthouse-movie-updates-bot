@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Fri 6/12 4:20pm
+* New movies: Female Trouble, Imitation of Life 1959, The Brady Bunch Movie, Vengeance is Mine 1984
+
+* New screenings: 
+    * [Guest Selects Female Trouble](https://drafthouse.com/los-angeles/show/guest-selects-female-trouble): Fri 6/19 (10:00pm)
+
+    * [Guest Selects Imitation Of Life 1959](https://drafthouse.com/los-angeles/show/guest-selects-imitation-of-life-1959): Mon 6/22 (1:00pm)
+
+    * [Guest Selects The Brady Bunch Movie](https://drafthouse.com/los-angeles/show/guest-selects-the-brady-bunch-movie): Mon 6/29 (1:15pm)
+
+    * [Guest Selects Vengeance Is Mine 1984](https://drafthouse.com/los-angeles/show/guest-selects-vengeance-is-mine-1984): Wed 7/1 (12:45pm)
+
 ### Fri 6/12 9:21am
 * New movies: Maddie's Secret
 
