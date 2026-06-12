@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 6/12 9:21am
+* New movies: Maddie's Secret
+
+* New screenings: 
+    * [Livestream Q A Maddies Secret](https://drafthouse.com/los-angeles/show/livestream-q-a-maddies-secret): Wed 6/24 (6:00pm)
+
 ### Thu 6/11 11:17am
 * New movies: The Odyssey, Gail Daughtry and the Celebrity Sex Pass
 
