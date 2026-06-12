@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 6/12 9:34am
+* New movies: Maddie's Secret
+
+* New screenings: 
+    * [Livestream Q A Maddies Secret](https://drafthouse.com/raleigh/show/livestream-q-a-maddies-secret): Wed 6/24 (9:00pm)
+
 ### Thu 6/11 7:45pm
 
 * New screenings: 
