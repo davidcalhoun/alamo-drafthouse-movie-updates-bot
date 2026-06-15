@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 6/15 4:48pm
+* New movies: Tiny Furniture
+
+* New screenings: 
+    * [Sad Girl Cinema Club Tiny Furniture](https://drafthouse.com/los-angeles/show/sad-girl-cinema-club-tiny-furniture): Mon 7/20 (1:00pm)
+
 ### Mon 6/15 2:45pm
 * New movies: The Phantom of the Opera 2004, Elf, Jurassic Park, The Substance, Mystery Voyage, Orlando, Rashomon, Buffet Infinity, Excalibur, The Thing Called Love
 
