@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Mon 6/15 7:54pm
+* New movies: The Phantom of the Opera 2004, Tiny Furniture
+
+* New screenings: 
+    * [Alamo Crafthouse The Phantom Of The Opera 2004](https://drafthouse.com/raleigh/show/alamo-crafthouse-the-phantom-of-the-opera-2004): Tue 7/21 (7:00pm)
+
+    * [Sad Girl Cinema Club Tiny Furniture](https://drafthouse.com/raleigh/show/sad-girl-cinema-club-tiny-furniture): Wed 7/22 (12:00pm)
+
 ### Mon 6/15 1:58pm
 * New movies: 13 Going on 30, Elf, Jurassic Park, Mystery Voyage, Female Trouble, Imitation of Life 1959, The Brady Bunch Movie, Rashomon, The Faculty, Buffet Infinity, Baahubali: The Epic, Excalibur, Lawrence of Arabia, Once Upon a Time in China, The Thing Called Love, ORLANDO
 
