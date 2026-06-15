@@ -1,6 +1,74 @@
 # los-angeles
 
 ## Movie updates
+### Mon 6/15 2:45pm
+* New movies: The Phantom of the Opera 2004, Elf, Jurassic Park, The Substance, Mystery Voyage, Orlando, Rashomon, Buffet Infinity, Excalibur, The Thing Called Love
+
+* New screenings: 
+    * [Agfadrome Mystery Voyage July 2026](https://drafthouse.com/los-angeles/show/agfadrome-mystery-voyage-july-2026): Mon 7/27 (10:30pm)
+
+    * [Alamo Crafthouse The Phantom Of The Opera 2004](https://drafthouse.com/los-angeles/show/alamo-crafthouse-the-phantom-of-the-opera-2004): Tue 7/21 (7:00pm)
+
+    * [Backrooms](https://drafthouse.com/los-angeles/show/backrooms): Thu 6/18 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Fri 6/19 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Sat 6/20 (10:45am, 1:45pm, 3:40pm, 7:45pm, 10:45pm), Sun 6/21 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Mon 6/22 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Tue 6/23 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Wed 6/24 (10:45am, 1:45pm, 4:45pm, 7:45pm)
+
+    * [Body Double](https://drafthouse.com/los-angeles/show/body-double): Sat 6/20 (10:00pm), Tue 6/23 (10:30pm)
+
+    * [Boogie Nights](https://drafthouse.com/los-angeles/show/boogie-nights): Thu 6/18 (12:15pm)
+
+    * [But Im A Cheerleader](https://drafthouse.com/los-angeles/show/but-im-a-cheerleader): Thu 6/18 (10:30pm)
+
+    * [Disclosure Day](https://drafthouse.com/los-angeles/show/disclosure-day): Thu 6/18 (12:00pm, 12:45pm, 3:30pm, 7:00pm, 9:30pm), Fri 6/19 (11:15am, 2:45pm, 6:15pm, 9:30pm), Sat 6/20 (11:15am, 2:45pm, 6:15pm, 9:30pm), Sun 6/21 (11:15am, 2:45pm, 6:15pm, 9:30pm), Mon 6/22 (11:15am, 2:45pm, 6:15pm, 10:00pm), Tue 6/23 (12:00pm, 3:30pm, 6:15pm, 10:00pm), Wed 6/24 (11:00am, 2:30pm, 6:15pm)
+
+    * [Excalibur](https://drafthouse.com/los-angeles/show/excalibur): Mon 7/13 (3:45pm)
+
+    * [Girls Like Girls](https://drafthouse.com/los-angeles/show/girls-like-girls): Thu 6/18 (2:00pm, 10:30pm), Fri 6/19 (11:00am, 1:45pm, 10:45pm), Sat 6/20 (11:00am, 1:45pm, 10:45pm), Sun 6/21 (11:00am, 1:45pm, 10:45pm), Mon 6/22 (11:00am, 1:45pm, 4:30pm, 7:15pm, 10:00pm), Tue 6/23 (10:45am, 1:30pm, 4:15pm, 6:45pm, 10:00pm), Wed 6/24 (11:00am, 1:45pm, 4:30pm, 7:15pm)
+
+    * [Guest Selects The Graduate](https://drafthouse.com/los-angeles/show/guest-selects-the-graduate): Thu 6/18 (12:45pm)
+
+    * [I Am Not Your Negro](https://drafthouse.com/los-angeles/show/i-am-not-your-negro): Mon 6/22 (5:00pm)
+
+    * [I Love Boosters](https://drafthouse.com/los-angeles/show/i-love-boosters): Thu 6/18 (9:45pm), Fri 6/19 (4:30pm), Sat 6/20 (7:00pm), Sun 6/21 (9:45pm), Mon 6/22 (10:30pm), Tue 6/23 (10:15pm), Wed 6/24 (4:00pm)
+
+    * [Leviticus](https://drafthouse.com/los-angeles/show/leviticus): Fri 6/19 (10:45am, 1:30pm), Sat 6/20 (10:45am, 1:30pm), Sun 6/21 (10:45am, 1:30pm), Mon 6/22 (11:25am, 2:00pm, 4:35pm, 7:10pm, 9:45pm), Tue 6/23 (11:25am, 2:00pm, 4:35pm, 7:10pm, 9:45pm), Wed 6/24 (11:25am, 2:00pm, 4:35pm, 7:10pm)
+
+    * [Masters Of The Universe 2026](https://drafthouse.com/los-angeles/show/masters-of-the-universe-2026): Thu 6/18 (12:00pm, 3:30pm)
+
+    * [Movie Party Elf](https://drafthouse.com/los-angeles/show/movie-party-elf): Tue 7/28 (6:45pm)
+
+    * [Movie Party Jurassic Park](https://drafthouse.com/los-angeles/show/movie-party-jurassic-park): Tue 7/14 (7:00pm)
+
+    * [Movie Party The Substance](https://drafthouse.com/los-angeles/show/movie-party-the-substance): Mon 7/20 (7:30pm)
+
+    * [Obsession 2026](https://drafthouse.com/los-angeles/show/obsession-2026): Thu 6/18 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Fri 6/19 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 6/20 (12:00pm, 3:00pm, 6:00pm, 6:45pm, 9:00pm), Sun 6/21 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Mon 6/22 (12:00pm, 3:00pm, 6:00pm, 7:45pm, 9:00pm), Tue 6/23 (12:15pm, 3:15pm, 7:45pm, 10:15pm), Wed 6/24 (12:15pm, 1:00pm, 3:15pm, 7:45pm)
+
+    * [Queer Film Theory 101 Johnny Guitar](https://drafthouse.com/los-angeles/show/queer-film-theory-101-johnny-guitar): Tue 6/23 (3:35pm)
+
+    * [Queer Film Theory 101 Orlando](https://drafthouse.com/los-angeles/show/queer-film-theory-101-orlando): Wed 7/22 (1:00pm)
+
+    * [Raiders Of The Lost Ark](https://drafthouse.com/los-angeles/show/raiders-of-the-lost-ark): Fri 6/19 (12:50pm), Tue 6/23 (12:30pm)
+
+    * [Rashomon](https://drafthouse.com/los-angeles/show/rashomon): Sun 7/26 (12:30pm)
+
+    * [Sad Girl Cinema Club Persona 1966](https://drafthouse.com/los-angeles/show/sad-girl-cinema-club-persona-1966): Thu 6/18 (11:15am)
+
+    * [Scary Movie 2026](https://drafthouse.com/los-angeles/show/scary-movie-2026): Thu 6/18 (1:00pm, 3:45pm, 6:30pm, 9:15pm), Fri 6/19 (10:30am, 1:15pm, 4:00pm, 6:45pm, 10:00pm), Sat 6/20 (10:30am, 1:15pm, 4:00pm, 6:45pm, 10:00pm), Sun 6/21 (10:30am, 1:15pm, 4:00pm, 6:45pm, 10:00pm), Mon 6/22 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Tue 6/23 (11:30am, 2:15pm, 5:00pm, 10:45pm), Wed 6/24 (11:30am, 2:15pm, 5:00pm)
+
+    * [Special Event Amores Perros 25th Anniversary](https://drafthouse.com/los-angeles/show/special-event-amores-perros-25th-anniversary): Thu 6/18 (12:15pm)
+
+    * [Star Wars The Mandalorian And Grogu](https://drafthouse.com/los-angeles/show/star-wars-the-mandalorian-and-grogu): Thu 6/18 (11:30am)
+
+    * [Stop That Train](https://drafthouse.com/los-angeles/show/stop-that-train): Thu 6/18 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Fri 6/19 (11:00am, 1:45pm, 4:30pm, 7:15pm, 9:45pm), Sat 6/20 (11:00am, 1:45pm, 4:30pm, 7:15pm, 9:45pm), Sun 6/21 (11:00am, 1:45pm, 4:30pm, 7:15pm, 9:45pm), Mon 6/22 (11:00am, 1:45pm, 4:30pm, 7:15pm, 9:45pm), Tue 6/23 (11:00am, 1:45pm, 4:30pm, 7:15pm, 9:45pm), Wed 6/24 (11:00am, 1:45pm, 4:30pm, 7:15pm)
+
+    * [The Death Of Robin Hood](https://drafthouse.com/los-angeles/show/the-death-of-robin-hood): Thu 6/18 (10:15pm), Fri 6/19 (10:00am, 1:15pm, 10:00pm), Sat 6/20 (10:00am, 1:15pm, 10:00pm), Sun 6/21 (10:00am, 1:15pm, 10:00pm), Mon 6/22 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Tue 6/23 (12:15pm, 3:30pm, 6:45pm, 9:30pm), Wed 6/24 (12:15pm, 3:30pm, 6:45pm)
+
+    * [The Furious](https://drafthouse.com/los-angeles/show/the-furious): Thu 6/18 (9:45pm), Fri 6/19 (9:00pm), Sat 6/20 (9:00pm), Sun 6/21 (9:00pm), Mon 6/22 (9:00pm), Tue 6/23 (9:00pm)
+
+    * [The Thing Called Love](https://drafthouse.com/los-angeles/show/the-thing-called-love): Wed 7/29 (3:50pm)
+
+    * [Toy Story 5](https://drafthouse.com/los-angeles/show/toy-story-5): Thu 6/18 (3:45pm, 6:45pm), Fri 6/19 (10:50am, 12:00pm, 1:40pm, 3:00pm, 6:00pm), Sat 6/20 (10:00am, 12:00pm, 12:45pm, 3:00pm, 4:50pm, 6:00pm), Sun 6/21 (12:00pm, 1:10pm, 3:00pm, 4:00pm, 6:00pm, 6:50pm), Mon 6/22 (11:00am, 12:00pm, 2:00pm, 3:00pm, 6:00pm), Tue 6/23 (10:45am, 12:00pm, 1:35pm, 3:00pm, 6:00pm), Wed 6/24 (11:00am, 12:00pm, 1:50pm, 3:00pm, 6:00pm)
+
+    * [Weird Wednesday Buffet Infinity Man Eating P Y Double Feature](https://drafthouse.com/los-angeles/show/weird-wednesday-buffet-infinity-man-eating-p-y-double-feature): Wed 7/15 (7:30pm)
+
 ### Fri 6/12 4:20pm
 * New movies: Female Trouble, Imitation of Life 1959, The Brady Bunch Movie, Vengeance is Mine 1984
 
