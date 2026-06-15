@@ -1,6 +1,42 @@
 # raleigh
 
 ## Movie updates
+### Mon 6/15 1:58pm
+* New movies: 13 Going on 30, Elf, Jurassic Park, Mystery Voyage, Female Trouble, Imitation of Life 1959, The Brady Bunch Movie, Rashomon, The Faculty, Buffet Infinity, Baahubali: The Epic, Excalibur, Lawrence of Arabia, Once Upon a Time in China, The Thing Called Love, ORLANDO
+
+* New screenings: 
+    * [Agfadrome Mystery Voyage July 2026](https://drafthouse.com/raleigh/show/agfadrome-mystery-voyage-july-2026): Mon 7/27 (10:30pm)
+
+    * [Baahubali The Epic](https://drafthouse.com/raleigh/show/baahubali-the-epic): Mon 7/13 (2:30pm)
+
+    * [Excalibur](https://drafthouse.com/raleigh/show/excalibur): Tue 7/14 (7:00pm)
+
+    * [Guest Selects Female Trouble](https://drafthouse.com/raleigh/show/guest-selects-female-trouble): Fri 6/19 (10:05pm)
+
+    * [Guest Selects Imitation Of Life 1959](https://drafthouse.com/raleigh/show/guest-selects-imitation-of-life-1959): Wed 6/24 (7:15pm)
+
+    * [Guest Selects The Brady Bunch Movie](https://drafthouse.com/raleigh/show/guest-selects-the-brady-bunch-movie): Wed 7/1 (10:15am)
+
+    * [Lawrence Of Arabia](https://drafthouse.com/raleigh/show/lawrence-of-arabia): Sat 7/4 (11:00am)
+
+    * [Movie Party 13 Going On 30](https://drafthouse.com/raleigh/show/movie-party-13-going-on-30): Mon 7/20 (6:30pm)
+
+    * [Movie Party Elf](https://drafthouse.com/raleigh/show/movie-party-elf): Mon 7/27 (6:30pm)
+
+    * [Movie Party Jurassic Park](https://drafthouse.com/raleigh/show/movie-party-jurassic-park): Mon 7/13 (7:30pm)
+
+    * [Once Upon A Time In China](https://drafthouse.com/raleigh/show/once-upon-a-time-in-china): Sun 7/5 (4:00pm)
+
+    * [Orlando](https://drafthouse.com/raleigh/show/orlando): Mon 7/20 (12:00pm)
+
+    * [Rashomon](https://drafthouse.com/raleigh/show/rashomon): Sun 7/26 (12:30pm)
+
+    * [Terror Tuesday The Faculty](https://drafthouse.com/raleigh/show/terror-tuesday-the-faculty): Tue 7/14 (10:30pm)
+
+    * [The Thing Called Love](https://drafthouse.com/raleigh/show/the-thing-called-love): Wed 7/29 (4:00pm)
+
+    * [Weird Wednesday Buffet Infinity Man Eating P Y Double Feature](https://drafthouse.com/raleigh/show/weird-wednesday-buffet-infinity-man-eating-p-y-double-feature): Wed 7/15 (10:00pm)
+
 ### Fri 6/12 9:34am
 * New movies: Maddie's Secret
 
