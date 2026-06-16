@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 6/16 12:39pm
+
+* New screenings: 
+    * [Raiders Of The Lost Ark](https://drafthouse.com/los-angeles/show/raiders-of-the-lost-ark): Mon 6/22 (10:45pm)
+
 ### Mon 6/15 4:48pm
 * New movies: Tiny Furniture
 
