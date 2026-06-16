@@ -1,6 +1,38 @@
 # raleigh
 
 ## Movie updates
+### Tue 6/16 1:23am
+* New movies: Imitation of Life 1959
+
+* New screenings: 
+    * [Backrooms](https://drafthouse.com/raleigh/show/backrooms): Thu 6/18 (1:00pm, 4:30pm, 7:30pm, 10:30pm), Fri 6/19 (10:00am, 1:00pm, 3:30pm, 6:30pm, 9:45pm), Sat 6/20 (10:00am, 1:15pm, 4:15pm, 7:30pm, 10:45pm), Sun 6/21 (10:00am, 1:15pm, 4:15pm, 7:30pm, 10:45pm), Mon 6/22 (12:00pm, 3:00pm, 6:00pm, 10:00pm), Tue 6/23 (10:00am, 1:00pm, 4:00pm, 7:00pm, 10:00pm), Wed 6/24 (11:45am, 3:00pm, 7:15pm, 10:15pm)
+
+    * [Disclosure Day](https://drafthouse.com/raleigh/show/disclosure-day): Thu 6/18 (11:30am, 12:00pm, 12:30pm, 3:45pm, 7:15pm, 10:00pm), Fri 6/19 (10:45am, 2:15pm, 6:00pm, 9:45pm), Sat 6/20 (10:45am, 2:15pm, 6:00pm, 9:45pm), Sun 6/21 (10:45am, 2:30pm, 6:00pm, 9:30pm), Mon 6/22 (11:15am, 2:45pm, 6:15pm, 9:45pm), Tue 6/23 (11:15am, 2:45pm, 6:15pm, 9:45pm), Wed 6/24 (12:15pm, 3:45pm, 6:00pm, 9:45pm)
+
+    * [Girls Like Girls](https://drafthouse.com/raleigh/show/girls-like-girls): Fri 6/19 (11:15am, 2:00pm, 4:45pm, 9:30pm), Sat 6/20 (11:15am, 2:00pm, 4:45pm, 10:15pm), Sun 6/21 (10:00am, 1:15pm, 4:30pm, 10:15pm), Mon 6/22 (1:45pm, 4:30pm, 7:30pm, 10:15pm), Tue 6/23 (11:00am, 1:45pm, 4:30pm, 7:30pm, 10:15pm), Wed 6/24 (1:30pm, 4:30pm, 7:30pm, 10:15pm)
+
+    * [Guest Selects Imitation Of Life 1959](https://drafthouse.com/raleigh/show/guest-selects-imitation-of-life-1959): Wed 6/24 (5:30pm)
+
+    * [Leviticus](https://drafthouse.com/raleigh/show/leviticus): Thu 6/18 (4:15pm), Fri 6/19 (5:00pm, 9:40pm), Sat 6/20 (5:00pm, 9:45pm), Sun 6/21 (5:00pm, 9:45pm), Mon 6/22 (4:35pm, 7:15pm, 9:45pm), Tue 6/23 (4:30pm, 7:15pm, 9:30pm), Wed 6/24 (4:15pm, 7:00pm, 9:45pm)
+
+    * [Masters Of The Universe 2026](https://drafthouse.com/raleigh/show/masters-of-the-universe-2026): Thu 6/18 (11:15am, 2:45pm, 6:15pm, 10:00pm), Fri 6/19 (11:15am, 2:45pm, 6:15pm, 10:15pm), Sat 6/20 (11:15am, 2:45pm, 6:15pm, 10:00pm), Sun 6/21 (11:15am, 2:45pm, 6:15pm, 10:00pm), Mon 6/22 (11:15am, 2:45pm, 6:15pm, 10:15pm), Tue 6/23 (11:00am, 2:30pm, 6:45pm, 10:15pm), Wed 6/24 (11:15am, 2:45pm, 6:15pm, 10:00pm)
+
+    * [Obsession 2026](https://drafthouse.com/raleigh/show/obsession-2026): Thu 6/18 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Fri 6/19 (9:15am, 12:15pm, 3:15pm, 6:15pm, 9:15pm), Sat 6/20 (9:45am, 12:00pm, 4:00pm, 7:15pm, 10:30pm), Sun 6/21 (9:15am, 12:15pm, 3:15pm, 6:15pm, 9:15pm), Mon 6/22 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Tue 6/23 (10:00am, 1:15pm, 4:15pm, 7:15pm, 10:30pm), Wed 6/24 (12:15pm, 3:30pm, 6:30pm, 9:30pm)
+
+    * [Power Ballad](https://drafthouse.com/raleigh/show/power-ballad): Thu 6/18 (1:00pm)
+
+    * [Scary Movie 2026](https://drafthouse.com/raleigh/show/scary-movie-2026): Thu 6/18 (1:45pm, 4:45pm, 7:45pm, 10:45pm), Fri 6/19 (10:15am, 1:15pm, 4:15pm, 7:15pm, 10:00pm), Sat 6/20 (10:15am, 1:00pm, 4:00pm, 7:15pm, 10:15pm), Sun 6/21 (10:15am, 1:00pm, 4:00pm, 7:15pm, 10:15pm), Mon 6/22 (1:45pm, 5:00pm, 8:00pm, 10:45pm), Tue 6/23 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:45pm), Wed 6/24 (1:00pm, 4:45pm, 7:45pm, 10:45pm)
+
+    * [Star Wars The Mandalorian And Grogu](https://drafthouse.com/raleigh/show/star-wars-the-mandalorian-and-grogu): Thu 6/18 (11:30am, 1:30pm), Fri 6/19 (3:45pm), Sat 6/20 (9:30pm), Sun 6/21 (8:00pm), Mon 6/22 (9:30pm), Tue 6/23 (10:00pm), Wed 6/24 (12:30pm)
+
+    * [Stop That Train](https://drafthouse.com/raleigh/show/stop-that-train): Thu 6/18 (1:30pm, 3:00pm), Fri 6/19 (11:00am, 2:00pm), Sat 6/20 (11:00am, 2:00pm), Sun 6/21 (11:00am, 2:00pm), Mon 6/22 (2:00pm), Tue 6/23 (10:15am, 1:30pm), Wed 6/24 (12:30pm)
+
+    * [The Death Of Robin Hood](https://drafthouse.com/raleigh/show/the-death-of-robin-hood): Fri 6/19 (11:45am, 3:15pm, 10:30pm), Sat 6/20 (11:45am, 3:15pm, 10:30pm), Sun 6/21 (11:45am, 3:15pm, 10:30pm), Mon 6/22 (12:15pm, 3:30pm, 6:45pm, 9:45pm), Tue 6/23 (11:45am, 3:15pm, 6:15pm, 9:45pm), Wed 6/24 (1:30pm, 3:15pm, 6:45pm, 9:45pm)
+
+    * [The Furious](https://drafthouse.com/raleigh/show/the-furious): Thu 6/18 (10:45pm), Sun 6/21 (10:30pm), Mon 6/22 (9:00pm)
+
+    * [Toy Story 5](https://drafthouse.com/raleigh/show/toy-story-5): Thu 6/18 (3:30pm, 6:30pm, 9:30pm), Fri 6/19 (9:45am, 10:15am, 12:30pm, 1:00pm, 7:00pm), Sat 6/20 (10:15am, 12:35pm, 1:05pm, 6:30pm, 7:00pm), Sun 6/21 (1:30pm, 2:00pm, 4:30pm, 5:00pm, 7:30pm), Mon 6/22 (12:30pm, 1:00pm, 4:00pm, 6:30pm), Tue 6/23 (9:45am, 10:15am, 12:30pm, 1:05pm, 3:30pm, 4:00pm, 6:30pm), Wed 6/24 (11:30am, 2:30pm, 4:00pm)
+
 ### Mon 6/15 7:54pm
 * New movies: The Phantom of the Opera 2004, Tiny Furniture
 
