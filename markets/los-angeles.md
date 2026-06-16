@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 6/16 3:15pm
+* New movies: I Shot Andy Warhol
+
+* New screenings: 
+    * [I Shot Andy Warhol](https://drafthouse.com/los-angeles/show/i-shot-andy-warhol): Sun 7/5 (4:00pm)
+
 ### Tue 6/16 12:39pm
 
 * New screenings: 
