@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 6/17 8:42am
+* New movies: Spider-Man: Brand New Day
+
+* New screenings: 
+    * [Spider Man Brand New Day](https://drafthouse.com/los-angeles/show/spider-man-brand-new-day): Thu 7/30 (2:45pm, 6:15pm, 9:45pm), Fri 7/31 (12:00pm, 2:45pm, 3:30pm, 6:15pm, 7:00pm, 9:45pm, 10:30pm), Sat 8/1 (12:00pm, 2:45pm, 3:30pm, 6:15pm, 7:00pm, 9:45pm, 10:30pm), Sun 8/2 (12:00pm, 2:45pm, 3:30pm, 6:15pm, 7:00pm, 9:45pm, 10:30pm), Mon 8/3 (12:00pm, 2:45pm, 3:30pm, 6:15pm, 7:00pm, 9:45pm, 10:30pm), Tue 8/4 (12:00pm, 2:45pm, 3:30pm, 6:15pm, 7:00pm, 9:45pm, 10:30pm), Wed 8/5 (12:00pm, 2:45pm, 3:30pm, 6:15pm, 7:00pm, 9:45pm, 10:30pm), Thu 8/6 (12:00pm, 2:45pm, 3:30pm, 6:15pm, 7:00pm, 9:45pm, 10:30pm), Fri 8/7 (2:45pm, 6:15pm, 9:45pm), Sat 8/8 (2:45pm, 6:15pm, 9:45pm), Sun 8/9 (1:15pm, 7:00pm, 9:00pm), Mon 8/10 (2:45pm, 6:15pm, 9:45pm)
+
 ### Tue 6/16 3:15pm
 * New movies: I Shot Andy Warhol
 
