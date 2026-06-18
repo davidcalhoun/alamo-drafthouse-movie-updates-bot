@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Wed 6/17 9:21pm
+
+* New screenings: 
+    * [Blow Out](https://drafthouse.com/los-angeles/show/blow-out): Sun 6/28 (3:30pm), Mon 6/29 (9:50pm), Tue 6/30 (10:00pm)
+
+    * [Godzilla Vs Biollante](https://drafthouse.com/los-angeles/show/godzilla-vs-biollante): Fri 6/26 (3:35pm), Sat 6/27 (10:30am, 1:25pm), Tue 6/30 (4:00pm), Wed 7/1 (10:00pm)
+
 ### Wed 6/17 8:42am
 * New movies: Spider-Man: Brand New Day
 
