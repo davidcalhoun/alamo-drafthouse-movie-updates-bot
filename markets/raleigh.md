@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Thu 6/18 7:53pm
+
+* New screenings: 
+    * [Godzilla Vs Biollante](https://drafthouse.com/raleigh/show/godzilla-vs-biollante): Mon 6/29 (4:00pm)
+
 ### Wed 6/17 9:50am
 * New movies: Spider-Man: Brand New Day
 
