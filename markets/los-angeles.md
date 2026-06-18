@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 6/18 1:29pm
+* New movies: Mob Psycho 100 Anniversary Celebration
+
+* New screenings: 
+    * [Mob Psycho 100](https://drafthouse.com/los-angeles/show/mob-psycho-100): Mon 7/20 (6:45pm)
+
 ### Wed 6/17 9:21pm
 
 * New screenings: 
