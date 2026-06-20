@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Sat 6/20 3:12pm
+* New movies: Silent Hill
+
+* New screenings: 
+    * [Weird Wednesday Silent Hill](https://drafthouse.com/los-angeles/show/weird-wednesday-silent-hill): Wed 7/1 (7:30pm)
+
 ### Thu 6/18 1:29pm
 * New movies: Mob Psycho 100 Anniversary Celebration
 
