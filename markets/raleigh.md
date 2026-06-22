@@ -1,6 +1,18 @@
 # raleigh
 
 ## Movie updates
+### Mon 6/22 1:44pm
+* New movies: Mob Psycho 100 Anniversary Celebration, Coneheads, I Shot Andy Warhol, WHAM! 10 Days in China
+
+* New screenings: 
+    * [I Shot Andy Warhol](https://drafthouse.com/raleigh/show/i-shot-andy-warhol): Fri 7/3 (9:30pm)
+
+    * [Mob Psycho 100](https://drafthouse.com/raleigh/show/mob-psycho-100): Mon 7/20 (7:00pm)
+
+    * [Weird Wednesday Coneheads](https://drafthouse.com/raleigh/show/weird-wednesday-coneheads): Wed 7/8 (9:30pm)
+
+    * [Wham 10 Days In China](https://drafthouse.com/raleigh/show/wham-10-days-in-china): Tue 7/28 (7:00pm)
+
 ### Thu 6/18 7:53pm
 
 * New screenings: 
