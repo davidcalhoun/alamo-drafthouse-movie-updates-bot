@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 6/22 7:38pm
+
+* New screenings: 
+    * [Jackass Best And Last](https://drafthouse.com/raleigh/show/jackass-best-and-last): Sat 6/27 (10:15pm)
+
 ### Mon 6/22 5:08pm
 
 * New screenings: 
