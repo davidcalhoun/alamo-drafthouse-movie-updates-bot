@@ -1,6 +1,51 @@
 # los-angeles
 
 ## Movie updates
+### Mon 6/22 12:33pm
+
+* New screenings: 
+    * [Backrooms](https://drafthouse.com/los-angeles/show/backrooms): Thu 6/25 (1:15pm, 4:15pm, 7:15pm, 9:45pm), Fri 6/26 (12:15pm, 3:15pm, 6:15pm, 9:30pm), Sat 6/27 (12:15pm, 3:15pm, 6:15pm, 9:30pm), Sun 6/28 (12:15pm, 3:15pm, 6:15pm, 9:30pm), Mon 6/29 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Tue 6/30 (12:15pm, 3:15pm, 6:15pm, 9:30pm)
+
+    * [Body Blow](https://drafthouse.com/los-angeles/show/body-blow): Fri 6/26 (1:30pm)
+
+    * [Camp](https://drafthouse.com/los-angeles/show/camp): Sat 6/27 (10:00pm)
+
+    * [Disclosure Day](https://drafthouse.com/los-angeles/show/disclosure-day): Thu 6/25 (11:15am, 2:45pm, 6:15pm, 9:45pm), Fri 6/26 (11:00am, 2:30pm, 6:00pm, 9:15pm), Sat 6/27 (11:00am, 2:30pm, 6:00pm, 9:15pm), Sun 6/28 (11:00am, 2:30pm, 6:00pm, 9:15pm), Mon 6/29 (11:00am, 2:30pm, 6:00pm, 9:30pm), Tue 6/30 (11:00am, 2:30pm, 6:00pm, 9:15pm)
+
+    * [Fan Event Jackass Best And Last](https://drafthouse.com/los-angeles/show/fan-event-jackass-best-and-last): Thu 6/25 (6:00pm)
+
+    * [Girls Like Girls](https://drafthouse.com/los-angeles/show/girls-like-girls): Thu 6/25 (12:45pm, 3:30pm, 6:15pm, 9:30pm), Fri 6/26 (12:45pm, 3:30pm, 6:15pm, 9:30pm), Sat 6/27 (12:45pm, 3:30pm, 6:15pm, 9:30pm), Sun 6/28 (12:45pm, 3:30pm, 6:15pm, 9:30pm), Mon 6/29 (12:45pm, 3:30pm, 6:15pm, 9:30pm), Tue 6/30 (12:45pm, 3:30pm, 6:15pm, 9:30pm)
+
+    * [Godzilla Vs Biollante](https://drafthouse.com/los-angeles/show/godzilla-vs-biollante): Fri 6/26 (10:30am), Sat 6/27 (4:20pm), Sun 6/28 (4:00pm, 10:00pm), Mon 6/29 (1:30pm)
+
+    * [Guest Selects The Brady Bunch Movie](https://drafthouse.com/los-angeles/show/guest-selects-the-brady-bunch-movie): Sun 6/28 (1:15pm)
+
+    * [Guest Selects Vengeance Is Mine 1984](https://drafthouse.com/los-angeles/show/guest-selects-vengeance-is-mine-1984): Sat 6/27 (12:30pm)
+
+    * [I Love Boosters](https://drafthouse.com/los-angeles/show/i-love-boosters): Thu 6/25 (10:00pm)
+
+    * [Jackass Best And Last](https://drafthouse.com/los-angeles/show/jackass-best-and-last): Thu 6/25 (9:45pm), Fri 6/26 (11:30am, 2:15pm, 10:30pm), Sat 6/27 (11:30am, 2:15pm, 7:15pm, 10:30pm), Sun 6/28 (11:30am, 2:15pm, 10:30pm), Mon 6/29 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Tue 6/30 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm)
+
+    * [Leviticus](https://drafthouse.com/los-angeles/show/leviticus): Thu 6/25 (11:25am, 2:00pm, 4:35pm, 7:10pm, 10:15pm), Fri 6/26 (11:00am, 1:35pm, 4:10pm, 6:45pm, 9:20pm), Sat 6/27 (11:00am, 1:35pm, 4:10pm, 6:45pm, 9:20pm), Sun 6/28 (11:00am, 1:35pm, 4:10pm, 6:45pm, 9:20pm), Mon 6/29 (11:00am, 1:35pm, 4:10pm, 6:45pm, 9:20pm), Tue 6/30 (11:00am, 1:35pm, 4:10pm, 6:45pm, 9:20pm)
+
+    * [Maddies Secret](https://drafthouse.com/los-angeles/show/maddies-secret): Thu 6/25 (7:15pm, 9:30pm), Fri 6/26 (11:15am, 2:00pm, 7:00pm, 10:15pm), Sat 6/27 (2:00pm, 3:45pm, 6:30pm, 10:15pm), Sun 6/28 (11:15am, 2:00pm, 6:30pm, 10:15pm), Mon 6/29 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Tue 6/30 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm)
+
+    * [Obsession 2026](https://drafthouse.com/los-angeles/show/obsession-2026): Thu 6/25 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Fri 6/26 (10:30am, 1:30pm, 4:30pm, 7:30pm, 10:30pm), Sat 6/27 (10:30am, 1:30pm, 4:30pm, 7:30pm, 10:30pm), Sun 6/28 (10:30am, 1:30pm, 4:30pm, 7:30pm, 10:30pm), Mon 6/29 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Tue 6/30 (10:30am, 1:30pm, 4:30pm, 7:30pm, 10:30pm)
+
+    * [Queer Film Theory 101 Johnny Guitar](https://drafthouse.com/los-angeles/show/queer-film-theory-101-johnny-guitar): Thu 6/25 (1:20pm)
+
+    * [Raiders Of The Lost Ark](https://drafthouse.com/los-angeles/show/raiders-of-the-lost-ark): Thu 6/25 (12:00pm)
+
+    * [Scary Movie 2026](https://drafthouse.com/los-angeles/show/scary-movie-2026): Thu 6/25 (1:30pm)
+
+    * [Stop That Train](https://drafthouse.com/los-angeles/show/stop-that-train): Thu 6/25 (1:15pm, 4:30pm), Fri 6/26 (4:15pm), Sat 6/27 (9:15pm), Sun 6/28 (9:15pm), Mon 6/29 (4:30pm), Tue 6/30 (10:15am)
+
+    * [Supergirl 2026](https://drafthouse.com/los-angeles/show/supergirl-2026): Thu 6/25 (3:00pm, 8:45pm), Mon 6/29 (11:00am, 2:00pm, 5:00pm, 8:00pm, 10:00pm), Tue 6/30 (10:15am, 1:15pm, 4:15pm, 7:15pm, 10:15pm)
+
+    * [The Death Of Robin Hood](https://drafthouse.com/los-angeles/show/the-death-of-robin-hood): Thu 6/25 (11:45am, 3:00pm, 6:15pm, 9:00pm), Fri 6/26 (11:45am, 3:00pm, 6:15pm, 9:00pm), Sat 6/27 (11:45am, 3:00pm, 6:15pm, 9:00pm), Sun 6/28 (11:45am, 3:00pm, 6:15pm, 9:00pm), Mon 6/29 (11:45am, 3:00pm, 6:15pm, 9:00pm), Tue 6/30 (11:45am, 3:00pm, 6:15pm, 9:00pm)
+
+    * [Toy Story 5](https://drafthouse.com/los-angeles/show/toy-story-5): Thu 6/25 (12:30pm, 1:10pm, 3:20pm, 6:10pm, 9:00pm), Fri 6/26 (10:20am, 1:10pm, 4:00pm, 6:50pm, 9:40pm), Sat 6/27 (10:20am, 1:10pm, 4:00pm, 6:50pm, 9:40pm), Sun 6/28 (10:20am, 1:10pm, 4:00pm, 6:50pm, 9:40pm), Mon 6/29 (12:30pm, 3:20pm, 6:10pm, 9:00pm), Tue 6/30 (10:20am, 1:10pm, 4:00pm, 6:50pm, 9:40pm)
+
 ### Sat 6/20 3:12pm
 * New movies: Silent Hill
 
