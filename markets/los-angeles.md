@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Mon 6/22 3:06pm
+
+* New screenings: 
+    * [I Love Boosters](https://drafthouse.com/los-angeles/show/i-love-boosters): Fri 6/26 (11:00am), Sun 6/28 (12:00pm)
+
+    * [Leviticus](https://drafthouse.com/los-angeles/show/leviticus): Fri 6/26 (9:45pm)
+
 ### Mon 6/22 12:33pm
 
 * New screenings: 
