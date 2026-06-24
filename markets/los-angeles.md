@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 6/24 1:49pm
+* New movies: Evil Dead Burn, Evil Dead Burn
+
+* New screenings: 
+    * [Evil Dead Burn](https://drafthouse.com/los-angeles/show/evil-dead-burn): Thu 7/9 (4:00pm, 7:00pm, 10:00pm), Fri 7/10 (4:45pm, 7:45pm, 10:45pm), Sat 7/11 (4:45pm, 7:45pm, 10:45pm), Sun 7/12 (4:45pm, 7:45pm, 10:45pm)
+
+    * [Fantastic Fest Presents Evil Dead Burn Early Access](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-evil-dead-burn-early-access): Wed 7/8 (7:00pm)
+
 ### Wed 6/24 12:49am
 
 * New screenings: 
