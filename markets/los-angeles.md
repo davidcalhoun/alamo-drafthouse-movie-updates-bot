@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 6/24 12:49am
+
+* New screenings: 
+    * [Scarface 1983](https://drafthouse.com/los-angeles/show/scarface-1983): Fri 7/3 (2:00pm), Sun 7/5 (12:00pm), Tue 7/7 (3:20pm)
+
 ### Mon 6/22 3:06pm
 
 * New screenings: 
