@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Wed 6/24 3:59pm
+* New movies: Evil Dead Burn, Evil Dead Burn
+
+* New screenings: 
+    * [Evil Dead Burn](https://drafthouse.com/raleigh/show/evil-dead-burn): Thu 7/9 (7:00pm, 10:00pm), Fri 7/10 (7:30pm, 10:30pm), Sat 7/11 (7:30pm, 10:30pm), Sun 7/12 (7:30pm, 10:30pm)
+
+    * [Fantastic Fest Presents Evil Dead Burn Early Access](https://drafthouse.com/raleigh/show/fantastic-fest-presents-evil-dead-burn-early-access): Wed 7/8 (7:00pm)
+
 ### Mon 6/22 7:38pm
 
 * New screenings: 
