@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Thu 6/25 4:17pm
+* New movies: Eyes Without A Face, The Silence of the Lambs, Macho Dancer
+
+* New screenings: 
+    * [Macho Dancer](https://drafthouse.com/raleigh/show/macho-dancer): Sat 7/25 (11:00am)
+
+    * [Terror Tuesday Eyes Without A Face](https://drafthouse.com/raleigh/show/terror-tuesday-eyes-without-a-face): Tue 7/21 (9:30pm)
+
+    * [Terror Tuesday The Silence Of The Lambs](https://drafthouse.com/raleigh/show/terror-tuesday-the-silence-of-the-lambs): Tue 7/7 (9:30pm)
+
 ### Thu 6/25 1:19pm
 
 * New screenings: 
