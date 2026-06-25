@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Thu 6/25 1:19pm
+
+* New screenings: 
+    * [Spider Man Brand New Day](https://drafthouse.com/raleigh/show/spider-man-brand-new-day): Tue 8/4 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Fri 8/7 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sat 8/8 (12:00pm, 3:30pm, 7:00pm, 10:30pm), Sun 8/9 (12:00pm, 3:30pm, 7:00pm, 10:30pm)
+
+    * [The Odyssey](https://drafthouse.com/raleigh/show/the-odyssey): Fri 7/17 (9:00am, 1:00pm, 5:00pm, 9:00pm), Sat 7/18 (9:00am, 1:00pm, 5:00pm, 9:00pm), Sun 7/19 (9:00am, 1:00pm, 5:00pm, 9:00pm)
+
 ### Thu 6/25 7:46am
 * New movies: The Invite
 
