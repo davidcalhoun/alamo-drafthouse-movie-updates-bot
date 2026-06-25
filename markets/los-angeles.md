@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 6/25 2:29am
+* New movies: The Invite
+
+* New screenings: 
+    * [The Invite](https://drafthouse.com/los-angeles/show/the-invite): Thu 7/9 (4:15pm, 7:15pm), Fri 7/10 (4:30pm, 7:30pm), Sat 7/11 (4:30pm, 7:30pm), Sun 7/12 (4:30pm, 7:30pm)
+
 ### Wed 6/24 1:49pm
 * New movies: Evil Dead Burn, Evil Dead Burn
 
