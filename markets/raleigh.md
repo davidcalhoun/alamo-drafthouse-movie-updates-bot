@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Fri 6/26 8:19am
+* New movies: Wet Hot American Summer: 25th Anniversary, Wet Hot American Summer: 25th Anniversary
+
+* New screenings: 
+    * [Special Event Wet Hot American Summer 25th Anniversary Party](https://drafthouse.com/raleigh/show/special-event-wet-hot-american-summer-25th-anniversary-party): Mon 8/17 (7:00pm)
+
+    * [Wet Hot American Summer 25th Anniversary](https://drafthouse.com/raleigh/show/wet-hot-american-summer-25th-anniversary): Sat 8/15 (1:00pm), Mon 8/17 (4:00pm), Wed 8/19 (4:00pm)
+
 ### Thu 6/25 4:17pm
 * New movies: Eyes Without A Face, The Silence of the Lambs, Macho Dancer
 
