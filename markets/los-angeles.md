@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Thu 6/25 10:10pm
+* New movies: Slumber Party Massacre II, eXistenZ, Macho Dancer
+
+* New screenings: 
+    * [Macho Dancer](https://drafthouse.com/los-angeles/show/macho-dancer): Sat 7/25 (9:15pm)
+
+    * [Terror Tuesday Slumber Party Massacre Ii](https://drafthouse.com/los-angeles/show/terror-tuesday-slumber-party-massacre-ii): Tue 7/14 (7:30pm)
+
+    * [Weird Wednesday Existenz](https://drafthouse.com/los-angeles/show/weird-wednesday-existenz): Wed 7/29 (7:30pm)
+
 ### Thu 6/25 2:29am
 * New movies: The Invite
 
