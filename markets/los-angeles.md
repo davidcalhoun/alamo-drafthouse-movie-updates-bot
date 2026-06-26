@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 6/26 10:51am
+* New movies: Friday Night Lights TV
+
+* New screenings: 
+    * [Free Victory Screening Friday Night Lights Tv 20th Anniversary Roadshow W Live Q A](https://drafthouse.com/los-angeles/show/free-victory-screening-friday-night-lights-tv-20th-anniversary-roadshow-w-live-q-a): Tue 7/21 (7:00pm)
+
 ### Fri 6/26 5:13am
 * New movies: Wet Hot American Summer: 25th Anniversary, Wet Hot American Summer: 25th Anniversary
 
