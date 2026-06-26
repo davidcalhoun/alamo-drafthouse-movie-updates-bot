@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 6/26 5:13am
+* New movies: Wet Hot American Summer: 25th Anniversary, Wet Hot American Summer: 25th Anniversary
+
+* New screenings: 
+    * [Special Event Wet Hot American Summer 25th Anniversary Party](https://drafthouse.com/los-angeles/show/special-event-wet-hot-american-summer-25th-anniversary-party): Mon 8/17 (7:00pm)
+
+    * [Wet Hot American Summer 25th Anniversary](https://drafthouse.com/los-angeles/show/wet-hot-american-summer-25th-anniversary): Sat 8/15 (1:15pm), Mon 8/17 (4:15pm), Wed 8/19 (4:15pm)
+
 ### Thu 6/25 10:10pm
 * New movies: Slumber Party Massacre II, eXistenZ, Macho Dancer
 
