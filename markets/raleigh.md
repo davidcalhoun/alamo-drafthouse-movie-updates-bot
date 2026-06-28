@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Sun 6/28 2:12pm
+* New movies: Communion
+
+* New screenings: 
+    * [Weird Wednesday Communion](https://drafthouse.com/raleigh/show/weird-wednesday-communion): Wed 7/22 (9:30pm)
+
 ### Fri 6/26 8:19am
 * New movies: Wet Hot American Summer: 25th Anniversary, Wet Hot American Summer: 25th Anniversary
 
