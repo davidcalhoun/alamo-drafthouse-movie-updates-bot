@@ -1,6 +1,58 @@
 # los-angeles
 
 ## Movie updates
+### Mon 6/29 1:49pm
+* New movies: Backrooms, Rose of Nevada, Pet Sematary Two, The Conjuring 2, Einsturzende Neubauten: Liebeslieder, Full Contact 1992, Your Letter
+
+* New screenings: 
+    * [Backrooms](https://drafthouse.com/los-angeles/show/backrooms): Wed 7/1 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Thu 7/2 (12:30pm, 3:30pm, 6:30pm, 9:45pm)
+
+    * [Blow Out](https://drafthouse.com/los-angeles/show/blow-out): Thu 7/2 (7:00pm)
+
+    * [Disclosure Day](https://drafthouse.com/los-angeles/show/disclosure-day): Wed 7/1 (11:00am, 2:30pm, 6:00pm, 9:30pm), Thu 7/2 (11:15am, 2:45pm, 6:15pm, 9:30pm), Fri 7/3 (11:45am, 3:15pm, 6:45pm, 9:30pm), Sat 7/4 (11:15am, 2:45pm, 6:15pm, 9:15pm), Sun 7/5 (11:30am, 3:00pm, 6:30pm, 9:30pm), Mon 7/6 (11:30am, 3:00pm, 6:30pm, 9:30pm), Tue 7/7 (11:30am, 3:00pm, 6:30pm, 9:30pm), Wed 7/8 (11:30am, 3:00pm, 6:30pm, 9:30pm)
+
+    * [Girls Like Girls](https://drafthouse.com/los-angeles/show/girls-like-girls): Wed 7/1 (12:45pm, 3:30pm, 6:15pm, 10:45pm), Thu 7/2 (11:15am, 2:00pm, 4:45pm)
+
+    * [Godzilla Vs Biollante](https://drafthouse.com/los-angeles/show/godzilla-vs-biollante): Thu 7/2 (1:00pm)
+
+    * [I Love Boosters](https://drafthouse.com/los-angeles/show/i-love-boosters): Fri 7/3 (6:00pm), Wed 7/8 (10:00pm)
+
+    * [I Shot Andy Warhol](https://drafthouse.com/los-angeles/show/i-shot-andy-warhol): Sat 7/4 (2:00pm)
+
+    * [Jackass Best And Last](https://drafthouse.com/los-angeles/show/jackass-best-and-last): Wed 7/1 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Thu 7/2 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Fri 7/3 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Sat 7/4 (11:00am, 1:45pm, 4:30pm, 7:15pm, 8:15pm), Sun 7/5 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Mon 7/6 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Tue 7/7 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Wed 7/8 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm)
+
+    * [Leviticus](https://drafthouse.com/los-angeles/show/leviticus): Wed 7/1 (11:00am, 1:35pm, 4:10pm, 6:45pm, 9:20pm), Thu 7/2 (11:00am, 1:35pm, 4:10pm, 6:45pm, 10:35pm), Fri 7/3 (11:30am, 2:05pm, 4:40pm, 7:15pm, 9:50pm), Sat 7/4 (11:15am, 1:50pm, 4:25pm, 7:00pm, 9:35pm), Sun 7/5 (11:25am, 2:00pm, 4:35pm, 7:10pm, 9:45pm), Mon 7/6 (11:25am, 2:00pm, 4:35pm, 7:10pm, 9:45pm), Tue 7/7 (11:25am, 2:00pm, 4:35pm, 7:10pm, 9:45pm), Wed 7/8 (11:25am, 2:00pm, 4:35pm, 7:10pm, 9:45pm)
+
+    * [Maddies Secret](https://drafthouse.com/los-angeles/show/maddies-secret): Wed 7/1 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Thu 7/2 (11:00am, 1:45pm, 4:30pm, 6:45pm, 7:15pm, 10:00pm), Fri 7/3 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sat 7/4 (11:00am, 1:45pm, 4:30pm, 7:15pm, 10:00pm), Sun 7/5 (11:15am, 2:00pm, 4:45pm, 7:30pm, 7:45pm, 10:15pm), Mon 7/6 (11:15am, 2:00pm, 3:15pm, 4:45pm, 7:30pm, 10:15pm), Tue 7/7 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Wed 7/8 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm)
+
+    * [Minions And Monsters](https://drafthouse.com/los-angeles/show/minions-and-monsters): Fri 7/3 (11:15am, 11:45am, 2:30pm, 5:15pm), Sat 7/4 (11:15am, 12:00pm, 2:45pm, 5:30pm), Sun 7/5 (11:30am, 2:15pm, 5:00pm), Mon 7/6 (11:00am, 12:30pm, 1:45pm, 4:30pm), Tue 7/7 (12:00pm, 2:45pm, 5:30pm), Wed 7/8 (11:00am, 1:45pm, 4:30pm)
+
+    * [Obsession 2026](https://drafthouse.com/los-angeles/show/obsession-2026): Wed 7/1 (10:30am, 1:30pm, 4:30pm, 7:15pm, 10:15pm), Thu 7/2 (11:00am, 2:00pm, 5:00pm, 8:00pm, 10:00pm), Fri 7/3 (11:00am, 2:00pm, 5:00pm, 8:00pm, 9:00pm), Sat 7/4 (10:45am, 1:45pm, 4:45pm, 7:45pm, 9:00pm), Sun 7/5 (11:00am, 2:00pm, 5:00pm, 7:00pm, 8:00pm, 10:00pm), Mon 7/6 (11:00am, 2:00pm, 5:00pm, 8:00pm, 9:00pm), Tue 7/7 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Wed 7/8 (12:45pm, 3:45pm, 8:00pm, 9:45pm)
+
+    * [Rose Of Nevada](https://drafthouse.com/los-angeles/show/rose-of-nevada): Thu 7/2 (7:30pm, 9:20pm), Fri 7/3 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 7/4 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sun 7/5 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Mon 7/6 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Tue 7/7 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Wed 7/8 (12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
+    * [Scarface 1983](https://drafthouse.com/los-angeles/show/scarface-1983): Sat 7/4 (5:00pm), Wed 7/8 (12:45pm)
+
+    * [Special Event Backrooms Everything Must Go Edition](https://drafthouse.com/los-angeles/show/special-event-backrooms-everything-must-go-edition): Fri 7/3 (11:45am, 3:00pm, 6:15pm, 8:00pm, 10:15pm), Sat 7/4 (11:30am, 2:45pm, 6:00pm, 9:45pm), Sun 7/5 (11:45am, 3:00pm, 6:15pm, 10:00pm), Mon 7/6 (11:45am, 3:00pm, 6:15pm, 10:00pm), Tue 7/7 (11:45am, 3:00pm, 6:15pm, 8:15pm, 10:00pm), Wed 7/8 (11:45am, 3:00pm, 4:45pm, 6:15pm, 10:00pm)
+
+    * [Stop That Train](https://drafthouse.com/los-angeles/show/stop-that-train): Thu 7/2 (9:30pm)
+
+    * [Supergirl 2026](https://drafthouse.com/los-angeles/show/supergirl-2026): Wed 7/1 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Thu 7/2 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Fri 7/3 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sat 7/4 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sun 7/5 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Mon 7/6 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Tue 7/7 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Wed 7/8 (12:45pm, 3:45pm, 6:45pm, 9:45pm)
+
+    * [Terror Tuesday Pet Sematary Two](https://drafthouse.com/los-angeles/show/terror-tuesday-pet-sematary-two): Tue 7/7 (7:30pm)
+
+    * [Terror Tuesday The Conjuring 2](https://drafthouse.com/los-angeles/show/terror-tuesday-the-conjuring-2): Tue 7/21 (6:30pm)
+
+    * [The Death Of Robin Hood](https://drafthouse.com/los-angeles/show/the-death-of-robin-hood): Wed 7/1 (12:30pm, 3:45pm, 9:00pm), Thu 7/2 (12:15pm, 3:30pm)
+
+    * [Toy Story 5](https://drafthouse.com/los-angeles/show/toy-story-5): Wed 7/1 (12:20pm, 3:10pm, 6:00pm, 8:50pm), Thu 7/2 (10:20am, 1:10pm, 4:00pm, 6:50pm, 9:40pm), Fri 7/3 (10:20am, 1:10pm, 4:00pm, 6:50pm, 9:40pm), Sat 7/4 (10:20am, 1:10pm, 4:00pm, 6:50pm, 9:40pm), Sun 7/5 (10:20am, 1:10pm, 4:00pm, 6:50pm, 9:40pm), Mon 7/6 (10:20am, 1:10pm, 4:00pm, 6:50pm, 9:40pm), Tue 7/7 (10:20am, 12:30pm, 1:10pm, 4:00pm, 6:50pm, 9:40pm), Wed 7/8 (10:20am, 1:10pm, 4:00pm, 6:50pm, 9:40pm)
+
+    * [Weird Wednesday Einsturzende Neubauten Liebeslieder](https://drafthouse.com/los-angeles/show/weird-wednesday-einsturzende-neubauten-liebeslieder): Wed 7/22 (6:45pm)
+
+    * [Weird Wednesday Full Contact](https://drafthouse.com/los-angeles/show/weird-wednesday-full-contact): Wed 7/8 (7:10pm)
+
+    * [Your Letter](https://drafthouse.com/los-angeles/show/your-letter): Mon 8/17 (7:30pm)
+
 ### Fri 6/26 10:51am
 * New movies: Friday Night Lights TV
 
