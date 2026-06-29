@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 6/29 4:52pm
+* New movies: The Silence of the Lambs
+
+
+
 ### Sun 6/28 2:12pm
 * New movies: Communion
 
