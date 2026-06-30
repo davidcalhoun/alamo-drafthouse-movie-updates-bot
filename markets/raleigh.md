@@ -1,6 +1,34 @@
 # raleigh
 
 ## Movie updates
+### Mon 6/29 8:14pm
+* New movies: Backrooms
+
+* New screenings: 
+    * [Disclosure Day](https://drafthouse.com/raleigh/show/disclosure-day): Fri 7/3 (11:45am, 12:30pm, 3:15pm, 6:45pm, 10:15pm), Sat 7/4 (11:45am, 12:30pm, 3:15pm, 6:45pm, 10:15pm), Sun 7/5 (11:45am, 12:30pm, 3:15pm, 6:45pm, 10:15pm), Mon 7/6 (11:45am, 12:30pm, 3:15pm, 6:45pm, 10:15pm), Tue 7/7 (11:45am, 12:30pm, 3:15pm, 6:45pm, 10:30pm), Wed 7/8 (11:30am, 12:30pm, 3:00pm, 6:45pm, 10:15pm)
+
+    * [Girls Like Girls](https://drafthouse.com/raleigh/show/girls-like-girls): Fri 7/3 (10:00am), Sat 7/4 (10:00am), Sun 7/5 (10:00am), Mon 7/6 (9:30am), Tue 7/7 (10:00am)
+
+    * [Jackass Best And Last](https://drafthouse.com/raleigh/show/jackass-best-and-last): Fri 7/3 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Sat 7/4 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Sun 7/5 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Mon 7/6 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Tue 7/7 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Wed 7/8 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm)
+
+    * [Maddies Secret](https://drafthouse.com/raleigh/show/maddies-secret): Fri 7/3 (11:00am, 1:45pm, 4:45pm, 7:45pm, 8:00pm, 10:45pm), Sat 7/4 (10:45am, 1:45pm, 4:45pm, 8:00pm, 10:45pm), Sun 7/5 (10:45am, 1:30pm, 4:15pm), Mon 7/6 (10:45am, 1:30pm, 4:15pm, 7:00pm, 9:45pm), Tue 7/7 (10:45am, 1:30pm, 4:15pm, 7:00pm, 9:45pm), Wed 7/8 (11:15am, 2:00pm, 4:45pm, 7:30pm, 8:00pm, 10:30pm)
+
+    * [Masters Of The Universe 2026](https://drafthouse.com/raleigh/show/masters-of-the-universe-2026): Fri 7/3 (4:00pm), Sat 7/4 (4:00pm), Sun 7/5 (4:30pm), Mon 7/6 (4:00pm), Tue 7/7 (4:00pm), Wed 7/8 (4:00pm)
+
+    * [Minions And Monsters](https://drafthouse.com/raleigh/show/minions-and-monsters): Fri 7/3 (9:45am, 11:15am, 6:30pm), Sat 7/4 (9:45am, 10:00am, 12:45pm, 3:30pm, 6:30pm, 9:30pm), Sun 7/5 (9:45am, 9:45am, 1:00pm, 3:30pm, 6:30pm, 9:30pm), Mon 7/6 (9:45am, 10:15am, 12:30pm, 1:00pm, 3:15pm, 3:45pm, 9:00pm), Tue 7/7 (9:45am, 11:45am, 12:30pm, 3:15pm, 6:00pm, 6:30pm, 9:00pm), Wed 7/8 (9:45am, 10:15am, 10:45am, 1:00pm, 1:30pm, 3:45pm, 4:15pm, 6:30pm, 9:30pm)
+
+    * [Obsession 2026](https://drafthouse.com/raleigh/show/obsession-2026): Fri 7/3 (10:15am, 1:15pm, 4:15pm, 7:15pm, 10:30pm), Sat 7/4 (10:15am, 1:15pm, 4:15pm, 7:15pm, 10:30pm), Sun 7/5 (10:15am, 1:15pm, 4:15pm, 7:15pm, 10:30pm), Mon 7/6 (10:45am, 1:45pm, 4:45pm, 7:15pm, 10:15pm), Tue 7/7 (10:15am, 1:15pm, 4:15pm, 7:15pm, 10:45pm), Wed 7/8 (10:15am, 1:15pm, 4:15pm, 7:15pm, 10:45pm)
+
+    * [Once Upon A Time In China](https://drafthouse.com/raleigh/show/once-upon-a-time-in-china): Tue 7/7 (10:30pm)
+
+    * [Scarface 1983](https://drafthouse.com/raleigh/show/scarface-1983): Fri 7/3 (2:15pm), Mon 7/6 (7:45pm), Tue 7/7 (2:30pm)
+
+    * [Special Event Backrooms Everything Must Go Edition](https://drafthouse.com/raleigh/show/special-event-backrooms-everything-must-go-edition): Fri 7/3 (9:15pm), Sat 7/4 (7:30pm, 9:15pm), Sun 7/5 (8:00pm, 9:15pm), Mon 7/6 (7:30pm, 9:15pm), Tue 7/7 (7:30pm, 9:15pm), Wed 7/8 (7:30pm, 9:15pm, 10:30pm)
+
+    * [Supergirl 2026](https://drafthouse.com/raleigh/show/supergirl-2026): Fri 7/3 (9:15am, 12:15pm, 3:15pm, 6:15pm, 10:00pm), Sat 7/4 (9:15am, 12:15pm, 3:15pm, 6:15pm, 10:00pm), Sun 7/5 (9:15am, 12:15pm, 3:15pm, 6:15pm, 10:30pm), Mon 7/6 (9:15am, 12:10pm, 1:15pm, 3:05pm, 6:15pm, 10:15pm), Tue 7/7 (9:15am, 12:15pm, 3:15pm, 6:15pm, 10:15pm), Wed 7/8 (9:15am, 12:15pm, 3:15pm, 6:15pm, 9:15pm)
+
+    * [Toy Story 5](https://drafthouse.com/raleigh/show/toy-story-5): Fri 7/3 (10:15am, 11:00am, 12:45pm, 1:00pm, 2:00pm, 3:30pm, 4:00pm, 5:00pm, 6:15pm, 7:00pm, 9:15pm), Sat 7/4 (11:00am, 12:45pm, 2:00pm, 3:30pm, 4:00pm, 5:00pm, 6:15pm, 7:00pm, 9:15pm), Sun 7/5 (10:15am, 12:30pm, 12:45pm, 1:00pm, 3:30pm, 4:00pm, 6:15pm, 7:00pm, 7:30pm, 9:15pm, 10:00pm), Mon 7/6 (9:45am, 11:15am, 12:30pm, 2:00pm, 3:30pm, 4:45pm, 6:15pm, 7:30pm, 9:15pm), Tue 7/7 (10:15am, 11:00am, 12:45pm, 1:00pm, 2:00pm, 3:30pm, 4:30pm, 5:00pm, 6:15pm, 7:30pm, 8:00pm, 9:15pm), Wed 7/8 (9:45am, 11:00am, 12:00pm, 12:30pm, 2:00pm, 3:15pm, 3:15pm, 5:00pm, 6:00pm, 6:15pm, 9:00pm)
+
 ### Mon 6/29 4:52pm
 * New movies: The Silence of the Lambs
 
