@@ -1,6 +1,33 @@
 # raleigh
 
 ## Movie updates
+### Tue 6/30 11:36am
+
+* New screenings: 
+    * [Backrooms](https://drafthouse.com/raleigh/show/backrooms): Wed 7/1 (7:45pm, 10:45pm), Thu 7/2 (7:45pm, 10:45pm)
+
+    * [Disclosure Day](https://drafthouse.com/raleigh/show/disclosure-day): Wed 7/1 (11:45am, 12:30pm, 3:15pm, 6:45pm, 10:15pm), Thu 7/2 (11:45am, 12:30pm, 3:15pm, 6:45pm, 10:15pm)
+
+    * [Girls Like Girls](https://drafthouse.com/raleigh/show/girls-like-girls): Wed 7/1 (10:00am), Thu 7/2 (10:00am)
+
+    * [Jackass Best And Last](https://drafthouse.com/raleigh/show/jackass-best-and-last): Wed 7/1 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm), Thu 7/2 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm)
+
+    * [Leviticus](https://drafthouse.com/raleigh/show/leviticus): Wed 7/1 (10:00pm)
+
+    * [Maddies Secret](https://drafthouse.com/raleigh/show/maddies-secret): Thu 7/2 (4:45pm, 8:00pm, 9:00pm)
+
+    * [Masters Of The Universe 2026](https://drafthouse.com/raleigh/show/masters-of-the-universe-2026): Wed 7/1 (4:00pm), Thu 7/2 (4:00pm)
+
+    * [Minions And Monsters](https://drafthouse.com/raleigh/show/minions-and-monsters): Wed 7/1 (9:45am, 10:45am, 1:45pm, 4:45pm, 7:30pm), Thu 7/2 (9:45am, 10:00am, 11:00am, 12:45pm, 2:00pm, 3:45pm, 6:30pm, 9:30pm)
+
+    * [Obsession 2026](https://drafthouse.com/raleigh/show/obsession-2026): Wed 7/1 (10:15am, 1:15pm, 4:15pm, 7:15pm, 10:30pm), Thu 7/2 (10:15am, 1:15pm, 4:15pm, 7:15pm, 10:30pm)
+
+    * [Scary Movie 2026](https://drafthouse.com/raleigh/show/scary-movie-2026): Wed 7/1 (10:15pm)
+
+    * [Supergirl 2026](https://drafthouse.com/raleigh/show/supergirl-2026): Wed 7/1 (9:15am, 11:00am, 12:15pm, 2:00pm, 3:15pm, 5:00pm, 6:15pm, 8:00pm, 9:15pm), Thu 7/2 (9:15am, 12:15pm, 3:15pm, 6:15pm, 10:00pm)
+
+    * [Toy Story 5](https://drafthouse.com/raleigh/show/toy-story-5): Wed 7/1 (9:45am, 12:45pm, 1:00pm, 3:30pm, 4:00pm, 6:15pm, 7:00pm, 9:45pm), Thu 7/2 (10:30am, 11:00am, 12:45pm, 1:15pm, 2:00pm, 3:30pm, 4:15pm, 5:00pm, 6:15pm, 7:00pm, 9:15pm)
+
 ### Mon 6/29 8:14pm
 * New movies: Backrooms
 
