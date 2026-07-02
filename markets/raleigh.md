@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Thu 7/2 2:41pm
+* New movies: Divine Hammer, The Borrower 1991
+
+* New screenings: 
+    * [Terror Tuesday Divine Hammer](https://drafthouse.com/raleigh/show/terror-tuesday-divine-hammer): Tue 7/28 (9:30pm)
+
+    * [Weird Wednesday The Borrower 1991](https://drafthouse.com/raleigh/show/weird-wednesday-the-borrower-1991): Wed 7/29 (9:30pm)
+
 ### Thu 7/2 12:57pm
 * New movies: Super Troopers 3, Super Troopers 3, Your Letter
 
