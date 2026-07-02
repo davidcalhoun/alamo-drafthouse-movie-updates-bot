@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Thu 7/2 12:57pm
+* New movies: Super Troopers 3, Super Troopers 3, Your Letter
+
+* New screenings: 
+    * [Fan Event Super Troopers 3 Special Broken Lizard Fan Event](https://drafthouse.com/raleigh/show/fan-event-super-troopers-3-special-broken-lizard-fan-event): Thu 8/6 (9:00pm)
+
+    * [Super Troopers 3](https://drafthouse.com/raleigh/show/super-troopers-3): Thu 8/6 (7:00pm), Fri 8/7 (7:00pm, 10:00pm), Sat 8/8 (7:00pm, 10:00pm), Sun 8/9 (7:00pm, 10:00pm)
+
+    * [Your Letter](https://drafthouse.com/raleigh/show/your-letter): Mon 8/17 (7:15pm)
+
 ### Tue 6/30 11:36am
 
 * New screenings: 
