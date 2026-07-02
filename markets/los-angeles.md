@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 7/2 10:52am
+* New movies: Super Troopers 3, Super Troopers 3
+
+* New screenings: 
+    * [Cereal Party Super Troopers 3](https://drafthouse.com/los-angeles/show/cereal-party-super-troopers-3): Sat 8/8 (9:15pm)
+
+    * [Super Troopers 3](https://drafthouse.com/los-angeles/show/super-troopers-3): Thu 8/6 (3:45pm, 6:45pm), Fri 8/7 (3:15pm, 6:15pm), Sat 8/8 (3:15pm, 6:15pm), Sun 8/9 (3:15pm, 6:15pm)
+
 ### Mon 6/29 1:49pm
 * New movies: Backrooms, Rose of Nevada, Pet Sematary Two, The Conjuring 2, Einsturzende Neubauten: Liebeslieder, Full Contact 1992, Your Letter
 
