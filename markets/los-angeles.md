@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Thu 7/2 8:38pm
+* New movies: Halloween II 1981, Spider-Man: Brand New Day
+
+* New screenings: 
+    * [Advance Screening Spider Man Brand New Day Amazon Prime Early Access Screening](https://drafthouse.com/los-angeles/show/advance-screening-spider-man-brand-new-day-amazon-prime-early-access-screening): Thu 7/30 (12:00pm, 3:30pm, 7:00pm, 10:30pm)
+
+    * [Spider Man Brand New Day](https://drafthouse.com/los-angeles/show/spider-man-brand-new-day): Thu 7/30 (3:00pm, 6:30pm, 10:00pm), Fri 7/31 (11:30am, 3:00pm, 6:30pm, 10:00pm), Sat 8/1 (11:30am, 3:00pm, 6:30pm, 10:00pm), Sun 8/2 (11:30am, 3:00pm, 6:30pm, 10:00pm)
+
+    * [Terror Tuesday Halloween Ii 1981](https://drafthouse.com/los-angeles/show/terror-tuesday-halloween-ii-1981): Tue 7/28 (7:30pm)
+
 ### Thu 7/2 10:52am
 * New movies: Super Troopers 3, Super Troopers 3
 
