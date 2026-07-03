@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 7/3 10:27am
+* New movies: The Silence of the Lambs
+
+* New screenings: 
+    * [Terror Tuesday The Silence Of The Lambs](https://drafthouse.com/raleigh/show/terror-tuesday-the-silence-of-the-lambs): Tue 7/7 (9:30pm)
+
 ### Thu 7/2 2:41pm
 * New movies: Divine Hammer, The Borrower 1991
 
