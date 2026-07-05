@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Sun 7/5 4:11pm
+
+* New screenings: 
+    * [Spider Man Brand New Day](https://drafthouse.com/los-angeles/show/spider-man-brand-new-day): Thu 7/30 (12:00pm, 3:30pm, 7:00pm, 10:30pm)
+
 ### Thu 7/2 8:38pm
 * New movies: Halloween II 1981, Spider-Man: Brand New Day
 
