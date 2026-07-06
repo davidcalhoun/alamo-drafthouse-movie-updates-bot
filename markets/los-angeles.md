@@ -1,6 +1,46 @@
 # los-angeles
 
 ## Movie updates
+### Mon 7/6 1:53pm
+* New movies: Night Nurse 2026
+
+* New screenings: 
+    * [Carlitos Way](https://drafthouse.com/los-angeles/show/carlitos-way): Sat 7/11 (3:15pm), Sun 7/12 (12:30pm), Tue 7/14 (4:00pm), Wed 7/15 (6:00pm)
+
+    * [Disclosure Day](https://drafthouse.com/los-angeles/show/disclosure-day): Thu 7/9 (11:30am, 3:00pm, 6:30pm, 9:30pm), Fri 7/10 (11:45am, 3:15pm, 6:45pm, 9:30pm), Sat 7/11 (11:45am, 3:15pm, 6:45pm, 9:30pm), Sun 7/12 (11:45am, 3:15pm, 6:45pm, 9:30pm), Mon 7/13 (11:45am, 3:15pm, 6:45pm, 9:30pm), Tue 7/14 (11:45am, 3:15pm, 6:45pm, 9:30pm), Wed 7/15 (12:00pm, 3:30pm, 7:00pm, 9:30pm)
+
+    * [Evil Dead Burn](https://drafthouse.com/los-angeles/show/evil-dead-burn): Thu 7/9 (5:15pm, 8:15pm), Fri 7/10 (10:45am, 1:45pm), Sat 7/11 (10:45am, 1:45pm), Sun 7/12 (10:45am, 1:45pm, 10:15pm), Mon 7/13 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Tue 7/14 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Wed 7/15 (1:15pm, 4:15pm, 7:15pm, 10:15pm)
+
+    * [Excalibur](https://drafthouse.com/los-angeles/show/excalibur): Fri 7/10 (12:30pm), Tue 7/14 (3:30pm), Wed 7/15 (2:30pm)
+
+    * [Gail Daughtry And The Celebrity Sex Pass](https://drafthouse.com/los-angeles/show/gail-daughtry-and-the-celebrity-sex-pass): Thu 7/9 (10:00pm), Fri 7/10 (11:00am, 1:45pm, 10:00pm), Sat 7/11 (11:00am, 1:45pm, 10:00pm), Sun 7/12 (11:00am, 1:45pm, 10:00pm), Mon 7/13 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Tue 7/14 (11:00am, 1:45pm, 4:30pm, 7:15pm, 10:00pm), Wed 7/15 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm)
+
+    * [I Shot Andy Warhol](https://drafthouse.com/los-angeles/show/i-shot-andy-warhol): Thu 7/9 (1:35pm)
+
+    * [Jackass Best And Last](https://drafthouse.com/los-angeles/show/jackass-best-and-last): Thu 7/9 (10:30am, 1:15pm)
+
+    * [Leviticus](https://drafthouse.com/los-angeles/show/leviticus): Thu 7/9 (11:00am, 1:40pm), Fri 7/10 (5:15pm), Sat 7/11 (10:45pm), Sun 7/12 (10:00pm), Mon 7/13 (2:45pm), Tue 7/14 (10:30pm), Wed 7/15 (10:30pm)
+
+    * [Maddies Secret](https://drafthouse.com/los-angeles/show/maddies-secret): Thu 7/9 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Fri 7/10 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Sat 7/11 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Sun 7/12 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Mon 7/13 (11:00am, 1:45pm, 4:30pm, 7:15pm, 10:00pm), Tue 7/14 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Wed 7/15 (11:00am, 1:45pm, 4:30pm, 7:15pm, 10:00pm)
+
+    * [Minions And Monsters](https://drafthouse.com/los-angeles/show/minions-and-monsters): Thu 7/9 (11:30am, 12:30pm, 3:15pm, 6:00pm, 8:45pm), Fri 7/10 (10:30am, 1:15pm, 4:00pm, 6:45pm, 9:30pm), Sat 7/11 (10:30am, 1:15pm, 4:00pm, 6:45pm, 9:30pm), Sun 7/12 (10:30am, 1:15pm, 4:00pm, 6:45pm, 9:30pm), Mon 7/13 (12:00pm, 12:45pm, 3:30pm, 6:15pm, 9:00pm), Tue 7/14 (10:30am, 1:15pm, 4:00pm, 6:45pm, 9:30pm), Wed 7/15 (11:00am, 12:45pm, 3:30pm, 6:15pm, 9:00pm)
+
+    * [Night Nurse 2026](https://drafthouse.com/los-angeles/show/night-nurse-2026): Fri 7/10 (7:00pm), Sat 7/11 (1:40pm), Sun 7/12 (7:30pm), Mon 7/13 (1:00pm), Tue 7/14 (12:45pm), Wed 7/15 (4:45pm)
+
+    * [Obsession 2026](https://drafthouse.com/los-angeles/show/obsession-2026): Thu 7/9 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Fri 7/10 (11:00am, 2:00pm, 5:00pm, 8:00pm, 9:45pm), Sat 7/11 (11:00am, 2:00pm, 5:00pm, 8:00pm, 10:00pm), Sun 7/12 (11:00am, 2:00pm, 5:00pm, 8:00pm), Mon 7/13 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Tue 7/14 (11:00am, 2:00pm, 5:00pm, 8:00pm, 10:00pm), Wed 7/15 (12:30pm, 3:30pm, 6:30pm, 9:30pm)
+
+    * [Rose Of Nevada](https://drafthouse.com/los-angeles/show/rose-of-nevada): Thu 7/9 (12:30pm, 2:15pm), Fri 7/10 (4:00pm), Sat 7/11 (7:40pm), Sun 7/12 (4:00pm), Mon 7/13 (5:30pm), Tue 7/14 (1:00pm), Wed 7/15 (1:45pm)
+
+    * [Scarface 1983](https://drafthouse.com/los-angeles/show/scarface-1983): Thu 7/9 (4:30pm)
+
+    * [Special Event Backrooms Everything Must Go Edition](https://drafthouse.com/los-angeles/show/special-event-backrooms-everything-must-go-edition): Thu 7/9 (11:45am, 3:00pm, 6:15pm, 10:00pm), Fri 7/10 (11:45am, 3:00pm, 6:15pm, 10:15pm), Sat 7/11 (11:45am, 3:00pm, 6:15pm, 10:15pm), Sun 7/12 (11:45am, 3:00pm, 6:15pm, 10:15pm), Mon 7/13 (11:45am, 3:00pm, 6:15pm, 10:15pm), Tue 7/14 (11:45am, 3:00pm, 6:15pm, 10:15pm), Wed 7/15 (11:45am, 3:00pm, 6:15pm, 9:40pm)
+
+    * [Supergirl 2026](https://drafthouse.com/los-angeles/show/supergirl-2026): Thu 7/9 (10:30am, 1:30pm)
+
+    * [The Invite](https://drafthouse.com/los-angeles/show/the-invite): Thu 7/9 (8:30pm, 10:15pm), Fri 7/10 (10:30am, 11:15am, 1:30pm, 2:15pm, 8:00pm, 10:30pm), Sat 7/11 (10:30am, 1:30pm, 10:30pm), Sun 7/12 (10:30am, 1:30pm, 10:30pm), Mon 7/13 (12:15pm, 3:15pm, 6:15pm, 8:30pm, 9:15pm), Tue 7/14 (10:30am, 1:30pm, 4:30pm, 7:30pm, 10:30pm), Wed 7/15 (12:15pm, 3:15pm, 6:15pm, 9:15pm, 10:30pm)
+
+    * [Toy Story 5](https://drafthouse.com/los-angeles/show/toy-story-5): Thu 7/9 (10:45am, 12:50pm, 3:40pm, 6:30pm, 9:20pm), Fri 7/10 (10:00am, 12:50pm, 3:40pm, 6:30pm, 9:20pm), Sat 7/11 (10:00am, 10:45am, 12:50pm, 3:40pm, 6:30pm, 9:20pm), Sun 7/12 (10:00am, 10:50am, 12:50pm, 1:40pm, 3:40pm, 6:30pm, 9:20pm), Mon 7/13 (12:20pm, 3:10pm, 6:00pm, 8:50pm), Tue 7/14 (10:00am, 12:50pm, 3:40pm, 6:30pm, 9:20pm), Wed 7/15 (11:30am, 12:50pm, 3:40pm, 6:30pm, 9:20pm)
+
 ### Sun 7/5 4:11pm
 
 * New screenings: 
