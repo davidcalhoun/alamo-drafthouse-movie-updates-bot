@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 7/6 9:55pm
+* New movies: Mori Calliope 2nd Concert 'Grimoire'
+
+* New screenings: 
+    * [Mori Calliope 2nd Concert Grimoire](https://drafthouse.com/los-angeles/show/mori-calliope-2nd-concert-grimoire): Sat 7/11 (4:30pm, 7:00pm), Sun 7/12 (4:30pm, 7:00pm)
+
 ### Mon 7/6 5:11pm
 * New movies: CatVideoFest 2026
 
