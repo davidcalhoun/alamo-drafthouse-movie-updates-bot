@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 7/7 7:44am
+* New movies: Mothra vs. Godzilla
+
+* New screenings: 
+    * [Mothra Vs Godzilla](https://drafthouse.com/los-angeles/show/mothra-vs-godzilla): Sun 8/30 (4:00pm)
+
 ### Mon 7/6 9:55pm
 * New movies: Mori Calliope 2nd Concert 'Grimoire'
 
