@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 7/6 8:15pm
+* New movies: CatVideoFest 2026
+
+* New screenings: 
+    * [Alamo Crafthouse Catvideofest 2026](https://drafthouse.com/raleigh/show/alamo-crafthouse-catvideofest-2026): Sun 8/9 (11:00am)
+
 ### Mon 7/6 6:20pm
 * New movies: Night Nurse 2026
 
