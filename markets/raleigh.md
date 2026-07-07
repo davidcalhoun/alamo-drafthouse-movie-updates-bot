@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 7/7 11:09am
+* New movies: Mothra vs. Godzilla
+
+* New screenings: 
+    * [Mothra Vs Godzilla](https://drafthouse.com/raleigh/show/mothra-vs-godzilla): Sun 8/30 (11:30am)
+
 ### Mon 7/6 8:15pm
 * New movies: CatVideoFest 2026
 
