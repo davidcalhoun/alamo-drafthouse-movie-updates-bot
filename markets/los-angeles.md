@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 7/6 5:11pm
+* New movies: CatVideoFest 2026
+
+* New screenings: 
+    * [Alamo Crafthouse Catvideofest 2026](https://drafthouse.com/los-angeles/show/alamo-crafthouse-catvideofest-2026): Sun 8/9 (12:00pm)
+
 ### Mon 7/6 1:53pm
 * New movies: Night Nurse 2026
 
