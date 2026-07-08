@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 7/8 10:40am
+* New movies: NOFX: 40 Years of Fuckin' Up
+
+* New screenings: 
+    * [Nofx 40 Years Of Fuckin Up](https://drafthouse.com/los-angeles/show/nofx-40-years-of-fuckin-up): Sat 7/25 (9:00pm)
+
 ### Tue 7/7 7:44am
 * New movies: Mothra vs. Godzilla
 
