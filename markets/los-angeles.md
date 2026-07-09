@@ -1,6 +1,20 @@
 # los-angeles
 
 ## Movie updates
+### Thu 7/9 4:14pm
+* New movies: Motor City
+
+* New screenings: 
+    * [Advance Screening Motor City Early Access](https://drafthouse.com/los-angeles/show/advance-screening-motor-city-early-access): Tue 7/21 (10:00pm)
+
+    * [American Pachuco The Legend Of Luis Valdez](https://drafthouse.com/los-angeles/show/american-pachuco-the-legend-of-luis-valdez): Mon 7/27 (1:15pm), Tue 7/28 (1:15pm), Wed 7/29 (1:00pm)
+
+    * [Live Q A American Pachuco The Legend Of Luis Valdez](https://drafthouse.com/los-angeles/show/live-q-a-american-pachuco-the-legend-of-luis-valdez): Sun 7/26 (1:00pm)
+
+    * [Mothra Vs Godzilla](https://drafthouse.com/los-angeles/show/mothra-vs-godzilla): Tue 9/1 (7:00pm)
+
+    * [Nofx 40 Years Of Fuckin Up](https://drafthouse.com/los-angeles/show/nofx-40-years-of-fuckin-up): Sat 8/29 (9:00pm)
+
 ### Thu 7/9 2:25pm
 * New movies: American Pachuco: The Legend of Luis Valdez, American Pachuco: The Legend of Luis Valdez
 
