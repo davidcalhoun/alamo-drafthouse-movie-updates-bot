@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Thu 7/9 2:04pm
+
+* New screenings: 
+    * [Mothra Vs Godzilla](https://drafthouse.com/raleigh/show/mothra-vs-godzilla): Tue 9/1 (7:00pm)
+
 ### Wed 7/8 1:47pm
 * New movies: NOFX: 40 Years of Fuckin' Up
 
