@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Thu 7/9 2:25pm
+* New movies: American Pachuco: The Legend of Luis Valdez, American Pachuco: The Legend of Luis Valdez
+
+* New screenings: 
+    * [American Pachuco The Legend Of Luis Valdez](https://drafthouse.com/los-angeles/show/american-pachuco-the-legend-of-luis-valdez): Sat 7/25 (3:15pm)
+
+    * [Live Q A American Pachuco The Legend Of Luis Valdez](https://drafthouse.com/los-angeles/show/live-q-a-american-pachuco-the-legend-of-luis-valdez): Fri 7/24 (4:00pm)
+
+    * [The Odyssey](https://drafthouse.com/los-angeles/show/the-odyssey): Thu 7/16 (2:30pm, 3:00pm, 6:30pm, 7:00pm), Fri 7/17 (10:30am, 11:00am, 2:30pm, 3:00pm, 6:30pm, 7:00pm), Sat 7/18 (10:30am, 11:00am, 2:30pm, 3:00pm, 6:30pm, 7:00pm), Sun 7/19 (10:30am, 11:00am, 2:30pm, 3:00pm, 6:30pm, 7:00pm), Mon 7/20 (10:30am, 11:00am, 2:30pm, 3:00pm, 6:30pm, 7:00pm), Tue 7/21 (10:30am, 11:00am, 2:30pm, 3:00pm, 6:30pm, 7:00pm, 9:45pm), Wed 7/22 (10:30am, 11:00am, 2:30pm, 3:00pm, 6:30pm, 7:00pm)
+
 ### Wed 7/8 10:40am
 * New movies: NOFX: 40 Years of Fuckin' Up
 
