@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 7/13 12:26pm
+* New movies: The Neon Demon
+
+* New screenings: 
+    * [The Neon Demon](https://drafthouse.com/los-angeles/show/the-neon-demon): Tue 7/21 (12:45pm)
+
 ### Thu 7/9 4:14pm
 * New movies: Motor City
 
