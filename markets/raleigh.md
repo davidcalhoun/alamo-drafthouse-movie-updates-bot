@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 7/13 1:19pm
+* New movies: KATSEYE: Wild Hearts
+
+* New screenings: 
+    * [Katseye Wild Hearts](https://drafthouse.com/raleigh/show/katseye-wild-hearts): Wed 8/12 (6:30pm), Sat 8/15 (12:00pm)
+
 ### Thu 7/9 2:04pm
 
 * New screenings: 
