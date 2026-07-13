@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 7/13 3:40pm
+
+* New screenings: 
+    * [Moana 2026](https://drafthouse.com/raleigh/show/moana-2026): Thu 7/16 (1:00pm, 4:00pm)
+
 ### Mon 7/13 1:19pm
 * New movies: KATSEYE: Wild Hearts
 
