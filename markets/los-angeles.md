@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 7/13 3:57pm
+* New movies: The Samurai and the Prisoner
+
+* New screenings: 
+    * [The Samurai And The Prisoner](https://drafthouse.com/los-angeles/show/the-samurai-and-the-prisoner): Fri 8/7 (2:45pm, 6:30pm), Sat 8/8 (2:45pm, 6:30pm), Sun 8/9 (2:45pm, 6:30pm), Mon 8/10 (2:45pm, 6:30pm), Tue 8/11 (2:45pm, 6:30pm), Wed 8/12 (2:45pm, 6:30pm)
+
 ### Mon 7/13 1:59pm
 
 * New screenings: 
