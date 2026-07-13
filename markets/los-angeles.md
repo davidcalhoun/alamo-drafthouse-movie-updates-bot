@@ -1,6 +1,47 @@
 # los-angeles
 
 ## Movie updates
+### Mon 7/13 1:59pm
+
+* New screenings: 
+    * [Carlitos Way](https://drafthouse.com/los-angeles/show/carlitos-way): Thu 7/16 (6:00pm)
+
+    * [Disclosure Day](https://drafthouse.com/los-angeles/show/disclosure-day): Thu 7/16 (12:15pm, 3:45pm, 7:15pm, 9:30pm), Fri 7/17 (11:00am, 2:30pm, 6:00pm, 9:30pm), Sat 7/18 (11:00am, 2:30pm, 6:00pm, 9:30pm), Sun 7/19 (11:00am, 2:30pm, 6:00pm, 9:30pm), Mon 7/20 (11:00am, 2:30pm, 6:00pm, 10:00pm), Tue 7/21 (12:00pm, 3:30pm, 6:15pm, 9:45pm), Wed 7/22 (11:00am, 2:30pm, 6:00pm, 9:30pm)
+
+    * [Evil Dead Burn](https://drafthouse.com/los-angeles/show/evil-dead-burn): Thu 7/16 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Fri 7/17 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Sat 7/18 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Sun 7/19 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Mon 7/20 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Tue 7/21 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Wed 7/22 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm)
+
+    * [Excalibur](https://drafthouse.com/los-angeles/show/excalibur): Thu 7/16 (2:30pm)
+
+    * [Gail Daughtry And The Celebrity Sex Pass](https://drafthouse.com/los-angeles/show/gail-daughtry-and-the-celebrity-sex-pass): Thu 7/16 (12:30pm), Fri 7/17 (12:30pm), Sat 7/18 (12:30pm), Sun 7/19 (12:30pm), Mon 7/20 (12:30pm), Tue 7/21 (12:30pm), Wed 7/22 (12:30pm)
+
+    * [Leviticus](https://drafthouse.com/los-angeles/show/leviticus): Thu 7/16 (11:30am)
+
+    * [Maddies Secret](https://drafthouse.com/los-angeles/show/maddies-secret): Thu 7/16 (1:00pm, 10:30pm), Fri 7/17 (1:00pm, 10:30pm), Sat 7/18 (1:00pm, 10:30pm), Sun 7/19 (12:45pm, 10:30pm), Mon 7/20 (12:45pm, 10:30pm), Tue 7/21 (12:45pm, 10:45pm), Wed 7/22 (12:45pm, 10:30pm)
+
+    * [Minions And Monsters](https://drafthouse.com/los-angeles/show/minions-and-monsters): Thu 7/16 (1:15pm, 4:00pm, 6:45pm, 9:30pm), Fri 7/17 (10:30am, 1:15pm, 4:00pm, 6:45pm, 9:30pm), Sat 7/18 (10:30am, 1:15pm, 4:00pm, 6:45pm, 9:30pm), Sun 7/19 (10:30am, 1:15pm, 4:00pm, 6:45pm, 9:30pm), Mon 7/20 (10:30am, 1:15pm, 4:00pm, 6:45pm, 9:30pm), Tue 7/21 (10:30am, 1:15pm, 4:00pm, 6:45pm, 9:30pm), Wed 7/22 (10:30am, 1:15pm, 4:00pm, 6:45pm, 9:30pm)
+
+    * [Moana 2026](https://drafthouse.com/los-angeles/show/moana-2026): Thu 7/16 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Fri 7/17 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 7/18 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sun 7/19 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Mon 7/20 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Tue 7/21 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Wed 7/22 (12:15pm, 3:15pm, 6:15pm, 9:15pm)
+
+    * [Night Nurse 2026](https://drafthouse.com/los-angeles/show/night-nurse-2026): Thu 7/16 (11:45am), Sat 7/18 (10:00pm), Sun 7/19 (9:45pm)
+
+    * [Obsession 2026](https://drafthouse.com/los-angeles/show/obsession-2026): Thu 7/16 (3:15pm, 6:15pm, 9:15pm), Fri 7/17 (3:15pm, 6:15pm, 9:15pm), Sat 7/18 (3:15pm, 6:15pm, 9:15pm), Sun 7/19 (3:15pm, 6:15pm, 9:15pm), Mon 7/20 (3:15pm, 6:15pm, 9:15pm), Tue 7/21 (3:15pm, 10:30pm), Wed 7/22 (3:15pm, 6:15pm, 9:15pm)
+
+    * [Queer Film Theory 101 Orlando](https://drafthouse.com/los-angeles/show/queer-film-theory-101-orlando): Fri 7/17 (9:15pm), Sat 7/18 (1:00pm), Sun 7/19 (3:45pm), Tue 7/21 (4:15pm)
+
+    * [Rose Of Nevada](https://drafthouse.com/los-angeles/show/rose-of-nevada): Thu 7/16 (2:15pm)
+
+    * [Sad Girl Cinema Club Tiny Furniture](https://drafthouse.com/los-angeles/show/sad-girl-cinema-club-tiny-furniture): Fri 7/17 (3:00pm), Sat 7/18 (3:45pm), Sun 7/19 (12:45pm), Tue 7/21 (1:15pm), Wed 7/22 (12:30pm)
+
+    * [Special Event Backrooms Everything Must Go Edition](https://drafthouse.com/los-angeles/show/special-event-backrooms-everything-must-go-edition): Fri 7/17 (6:00pm), Sat 7/18 (6:45pm), Sun 7/19 (6:30pm), Mon 7/20 (4:15pm), Wed 7/22 (3:30pm)
+
+    * [The Invite](https://drafthouse.com/los-angeles/show/the-invite): Thu 7/16 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Fri 7/17 (10:30am, 1:30pm, 4:30pm, 7:30pm, 10:30pm), Sat 7/18 (10:30am, 1:30pm, 4:30pm, 7:30pm, 10:30pm), Sun 7/19 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Mon 7/20 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Tue 7/21 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Wed 7/22 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm)
+
+    * [The Neon Demon](https://drafthouse.com/los-angeles/show/the-neon-demon): Mon 7/20 (1:10pm)
+
+    * [The Odyssey](https://drafthouse.com/los-angeles/show/the-odyssey): Thu 7/16 (3:45pm, 5:15pm, 7:45pm, 9:15pm), Fri 7/17 (1:15pm, 3:45pm, 5:15pm, 7:45pm, 9:15pm), Sat 7/18 (1:15pm, 3:45pm, 5:15pm, 7:45pm, 9:15pm), Sun 7/19 (1:15pm, 3:30pm, 5:15pm, 7:30pm, 9:15pm), Mon 7/20 (3:30pm, 7:30pm, 9:30pm), Tue 7/21 (3:30pm, 7:30pm), Wed 7/22 (3:30pm, 7:30pm, 9:30pm)
+
+    * [Toy Story 5](https://drafthouse.com/los-angeles/show/toy-story-5): Thu 7/16 (12:10pm)
+
 ### Mon 7/13 12:26pm
 * New movies: The Neon Demon
 
