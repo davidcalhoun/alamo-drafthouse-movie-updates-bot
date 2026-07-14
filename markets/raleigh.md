@@ -1,6 +1,32 @@
 # raleigh
 
 ## Movie updates
+### Mon 7/13 11:21pm
+* New movies: The Neon Demon
+
+* New screenings: 
+    * [Disclosure Day](https://drafthouse.com/raleigh/show/disclosure-day): Fri 7/17 (1:45pm), Sat 7/18 (11:30am), Sun 7/19 (11:30am), Mon 7/20 (12:00pm), Tue 7/21 (12:00pm), Wed 7/22 (11:30am)
+
+    * [Evil Dead Burn](https://drafthouse.com/raleigh/show/evil-dead-burn): Fri 7/17 (10:15am, 1:30pm, 4:30pm, 7:30pm, 10:45pm), Sat 7/18 (10:15am, 1:30pm, 4:30pm, 7:30pm, 10:45pm), Sun 7/19 (10:15am, 1:30pm, 4:30pm, 7:30pm, 10:45pm), Mon 7/20 (10:20am, 1:30pm, 4:30pm, 7:30pm, 10:45pm), Tue 7/21 (10:15am, 1:15pm, 4:30pm, 7:30pm, 10:45pm), Wed 7/22 (10:20am, 1:30pm, 4:30pm, 7:30pm, 10:45pm)
+
+    * [Gail Daughtry And The Celebrity Sex Pass](https://drafthouse.com/raleigh/show/gail-daughtry-and-the-celebrity-sex-pass): Fri 7/17 (10:35am), Sat 7/18 (10:30am), Sun 7/19 (10:30am), Mon 7/20 (10:30am), Tue 7/21 (10:30am), Wed 7/22 (10:45am)
+
+    * [Minions And Monsters](https://drafthouse.com/raleigh/show/minions-and-monsters): Fri 7/17 (10:15am, 1:00pm, 3:35pm, 6:15pm, 9:00pm), Sat 7/18 (10:15am, 1:00pm, 3:35pm, 6:15pm, 9:00pm), Sun 7/19 (10:15am, 1:00pm, 3:35pm, 6:15pm, 9:00pm), Mon 7/20 (10:15am, 1:00pm, 3:35pm, 6:15pm, 9:00pm), Tue 7/21 (10:15am, 1:00pm, 3:35pm, 6:15pm, 9:00pm), Wed 7/22 (10:15am, 1:00pm, 3:35pm, 6:15pm, 9:00pm)
+
+    * [Moana 2026](https://drafthouse.com/raleigh/show/moana-2026): Fri 7/17 (9:15am, 12:15pm, 3:15pm, 6:15pm, 9:15pm), Sat 7/18 (9:15am, 12:15pm, 3:15pm, 6:15pm, 9:15pm), Sun 7/19 (9:15am, 12:15pm, 3:15pm, 6:15pm, 9:15pm), Mon 7/20 (11:30am, 12:15pm, 3:15pm, 6:15pm, 9:15pm), Tue 7/21 (10:30am, 12:15pm, 3:15pm, 6:15pm, 9:15pm), Wed 7/22 (10:30am, 12:15pm, 3:15pm, 6:15pm, 9:15pm)
+
+    * [Obsession 2026](https://drafthouse.com/raleigh/show/obsession-2026): Fri 7/17 (10:30pm), Sat 7/18 (10:30pm), Sun 7/19 (10:30pm), Mon 7/20 (9:30pm), Tue 7/21 (9:30pm), Wed 7/22 (9:30pm)
+
+    * [Supergirl 2026](https://drafthouse.com/raleigh/show/supergirl-2026): Fri 7/17 (1:20pm), Sat 7/18 (1:15pm), Sun 7/19 (1:15pm), Mon 7/20 (1:15pm), Tue 7/21 (1:15pm), Wed 7/22 (12:30pm)
+
+    * [The Invite](https://drafthouse.com/raleigh/show/the-invite): Fri 7/17 (9:30am, 12:45pm, 4:00pm, 7:00pm, 10:15pm), Sat 7/18 (9:30am, 12:45pm, 4:00pm, 7:00pm, 10:15pm), Sun 7/19 (9:30am, 12:45pm, 4:00pm, 7:00pm, 10:15pm), Mon 7/20 (10:00am, 1:00pm, 4:00pm, 7:15pm, 10:15pm), Tue 7/21 (10:00am, 1:00pm, 4:00pm, 7:15pm, 10:15pm), Wed 7/22 (10:00am, 1:00pm, 4:00pm, 10:00pm)
+
+    * [The Neon Demon](https://drafthouse.com/raleigh/show/the-neon-demon): Mon 7/20 (10:30pm)
+
+    * [The Odyssey](https://drafthouse.com/raleigh/show/the-odyssey): Fri 7/17 (10:30am, 11:30am, 2:30pm, 3:30pm, 4:15pm, 5:30pm, 6:30pm, 7:30pm, 8:30pm, 9:30pm), Sat 7/18 (9:30am, 10:30am, 1:30pm, 2:30pm, 3:00pm, 4:15pm, 5:30pm, 6:30pm, 7:00pm, 8:30pm, 9:30pm), Sun 7/19 (9:30am, 10:30am, 1:30pm, 2:30pm, 3:00pm, 4:15pm, 5:30pm, 6:30pm, 7:00pm, 8:30pm, 9:30pm), Mon 7/20 (1:30pm, 2:30pm, 3:00pm, 4:30pm, 5:30pm, 6:30pm, 8:30pm, 9:30pm, 10:30pm), Tue 7/21 (11:00am, 1:30pm, 1:30pm, 3:00pm, 4:30pm, 5:30pm, 5:30pm, 6:30pm, 8:30pm, 10:30pm, 10:35pm), Wed 7/22 (1:30pm, 1:30pm, 3:00pm, 3:00pm, 5:30pm, 5:30pm, 6:30pm, 7:00pm, 7:30pm, 10:30pm)
+
+    * [Toy Story 5](https://drafthouse.com/raleigh/show/toy-story-5): Fri 7/17 (9:45am, 12:45pm, 3:45pm, 6:45pm, 9:45pm), Sat 7/18 (9:45am, 12:45pm, 3:45pm, 6:45pm, 9:45pm), Sun 7/19 (9:45am, 12:45pm, 3:45pm, 6:45pm, 9:45pm), Mon 7/20 (10:30am, 1:15pm, 4:15pm, 7:00pm, 9:45pm), Tue 7/21 (10:30am, 1:15pm, 4:15pm, 7:00pm, 9:45pm), Wed 7/22 (10:30am, 1:15pm, 4:15pm, 7:00pm, 9:45pm)
+
 ### Mon 7/13 3:40pm
 
 * New screenings: 
