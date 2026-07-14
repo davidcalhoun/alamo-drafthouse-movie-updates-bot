@@ -1,6 +1,36 @@
 # raleigh
 
 ## Movie updates
+### Tue 7/14 1:23pm
+* New movies: Backrooms, Jurassic Park
+
+* New screenings: 
+    * [Disclosure Day](https://drafthouse.com/raleigh/show/disclosure-day): Thu 7/16 (2:30pm)
+
+    * [Evil Dead Burn](https://drafthouse.com/raleigh/show/evil-dead-burn): Thu 7/16 (10:15am, 1:30pm, 4:30pm, 7:30pm, 10:15pm)
+
+    * [Gail Daughtry And The Celebrity Sex Pass](https://drafthouse.com/raleigh/show/gail-daughtry-and-the-celebrity-sex-pass): Thu 7/16 (10:30am)
+
+    * [Jurassic Park](https://drafthouse.com/raleigh/show/jurassic-park): Thu 7/16 (11:45am)
+
+    * [Maddies Secret](https://drafthouse.com/raleigh/show/maddies-secret): Thu 7/16 (11:30am)
+
+    * [Minions And Monsters](https://drafthouse.com/raleigh/show/minions-and-monsters): Thu 7/16 (10:15am, 12:45pm, 3:30pm, 6:30pm, 9:30pm)
+
+    * [Moana 2026](https://drafthouse.com/raleigh/show/moana-2026): Thu 7/16 (10:00am, 11:00am)
+
+    * [Obsession 2026](https://drafthouse.com/raleigh/show/obsession-2026): Thu 7/16 (10:45pm)
+
+    * [Special Event Backrooms Everything Must Go Edition](https://drafthouse.com/raleigh/show/special-event-backrooms-everything-must-go-edition): Thu 7/16 (10:45pm)
+
+    * [Supergirl 2026](https://drafthouse.com/raleigh/show/supergirl-2026): Thu 7/16 (11:30am, 12:30pm, 1:15pm)
+
+    * [The Invite](https://drafthouse.com/raleigh/show/the-invite): Thu 7/16 (11:00am, 2:00pm, 3:45pm, 7:00pm, 10:15pm)
+
+    * [The Odyssey](https://drafthouse.com/raleigh/show/the-odyssey): Thu 7/16 (2:30pm, 3:00pm, 4:15pm, 5:00pm, 6:30pm, 7:00pm, 8:30pm, 10:30pm)
+
+    * [Toy Story 5](https://drafthouse.com/raleigh/show/toy-story-5): Thu 7/16 (10:00am, 12:45pm, 3:30pm, 6:15pm, 9:15pm)
+
 ### Tue 7/14 11:39am
 
 * New screenings: 
