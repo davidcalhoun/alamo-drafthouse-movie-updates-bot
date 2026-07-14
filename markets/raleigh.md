@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 7/14 11:39am
+
+* New screenings: 
+    * [Spider Man Brand New Day](https://drafthouse.com/raleigh/show/spider-man-brand-new-day): Thu 7/30 (12:00pm, 12:30pm, 4:00pm, 7:30pm), Fri 7/31 (11:30am, 3:00pm, 6:30pm, 10:00pm), Sat 8/1 (11:30am, 3:00pm, 6:30pm, 10:00pm), Sun 8/2 (11:30am, 3:00pm, 6:30pm, 10:00pm)
+
 ### Tue 7/14 10:04am
 * New movies: Her Private Hell
 
