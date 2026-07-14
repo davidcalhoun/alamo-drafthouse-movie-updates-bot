@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 7/14 10:04am
+* New movies: Her Private Hell
+
+* New screenings: 
+    * [Her Private Hell](https://drafthouse.com/raleigh/show/her-private-hell): Thu 7/23 (7:15pm, 10:15pm), Fri 7/24 (7:15pm, 10:15pm), Sat 7/25 (7:15pm, 10:15pm), Sun 7/26 (7:15pm, 10:15pm)
+
 ### Mon 7/13 11:21pm
 * New movies: The Neon Demon
 
