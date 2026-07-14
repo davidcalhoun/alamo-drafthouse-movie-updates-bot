@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 7/14 1:14pm
+
+* New screenings: 
+    * [Spider Man Brand New Day](https://drafthouse.com/los-angeles/show/spider-man-brand-new-day): Thu 7/30 (12:30pm, 4:00pm, 7:30pm), Fri 7/31 (11:00am, 2:30pm, 6:00pm, 9:30pm), Sat 8/1 (11:00am, 2:30pm, 6:00pm, 9:30pm), Sun 8/2 (11:00am, 2:30pm, 6:00pm, 9:30pm), Mon 8/3 (11:30am, 3:00pm, 6:30pm, 10:00pm), Tue 8/4 (11:30am, 3:00pm, 6:30pm, 10:00pm), Wed 8/5 (11:30am, 3:00pm, 6:30pm, 10:00pm)
+
 ### Tue 7/14 7:55am
 * New movies: Her Private Hell
 
