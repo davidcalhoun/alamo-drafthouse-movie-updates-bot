@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 7/14 7:55am
+* New movies: Her Private Hell
+
+* New screenings: 
+    * [Her Private Hell](https://drafthouse.com/los-angeles/show/her-private-hell): Thu 7/23 (7:00pm), Fri 7/24 (4:30pm, 7:30pm), Sat 7/25 (4:30pm, 7:30pm), Sun 7/26 (4:30pm, 7:30pm)
+
 ### Mon 7/13 3:57pm
 * New movies: The Samurai and the Prisoner
 
