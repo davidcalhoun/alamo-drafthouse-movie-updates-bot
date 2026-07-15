@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 7/15 10:01am
+* New movies: Sheep in the Box
+
+* New screenings: 
+    * [Sheep In The Box](https://drafthouse.com/raleigh/show/sheep-in-the-box): Thu 8/6 (6:45pm, 10:00pm), Fri 8/7 (6:15pm, 9:30pm), Sat 8/8 (6:15pm, 9:30pm), Sun 8/9 (6:15pm, 9:45pm)
+
 ### Tue 7/14 1:23pm
 * New movies: Backrooms, Jurassic Park
 
