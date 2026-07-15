@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 7/15 5:17am
+* New movies: Sheep in the Box
+
+* New screenings: 
+    * [Sheep In The Box](https://drafthouse.com/los-angeles/show/sheep-in-the-box): Thu 7/30 (6:00pm), Fri 7/31 (3:45pm, 7:00pm), Sat 8/1 (3:45pm, 7:00pm), Sun 8/2 (3:45pm, 7:00pm)
+
 ### Tue 7/14 1:14pm
 
 * New screenings: 
