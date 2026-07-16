@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 7/16 3:10pm
+
+* New screenings: 
+    * [Michael Manns Manhunter The Final Cut](https://drafthouse.com/los-angeles/show/michael-manns-manhunter-the-final-cut): Fri 7/24 (12:30pm, 6:00pm), Sat 7/25 (12:30pm, 6:00pm), Sun 7/26 (12:30pm, 6:00pm), Mon 7/27 (12:30pm), Tue 7/28 (12:30pm), Wed 7/29 (12:30pm)
+
 ### Wed 7/15 3:04pm
 * New movies: Michael Mann's Manhunter: The Final Cut
 
