@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 7/17 5:12am
+* New movies: I Want Your Sex
+
+* New screenings: 
+    * [I Want Your Sex](https://drafthouse.com/los-angeles/show/i-want-your-sex): Thu 7/30 (5:00pm, 7:35pm), Fri 7/31 (4:50pm, 7:25pm), Sat 8/1 (4:50pm, 7:25pm), Sun 8/2 (4:50pm, 7:25pm)
+
 ### Thu 7/16 5:01pm
 * New movies: Mysterious Skin 4K Restoration, I Saw the TV Glow, Blow Out, Carrie 1976, Moonrise Kingdom, Phantom of the Paradise, Raising Cain, WE'RE ALL GOING TO THE WORLD'S FAIR
 
