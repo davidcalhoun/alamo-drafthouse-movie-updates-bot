@@ -1,6 +1,26 @@
 # los-angeles
 
 ## Movie updates
+### Thu 7/16 5:01pm
+* New movies: Mysterious Skin 4K Restoration, I Saw the TV Glow, Blow Out, Carrie 1976, Moonrise Kingdom, Phantom of the Paradise, Raising Cain, WE'RE ALL GOING TO THE WORLD'S FAIR
+
+* New screenings: 
+    * [Blow Out](https://drafthouse.com/los-angeles/show/blow-out): Fri 8/21 (10:00pm)
+
+    * [Carrie](https://drafthouse.com/los-angeles/show/carrie): Mon 8/24 (4:15pm)
+
+    * [I Saw The Tv Glow](https://drafthouse.com/los-angeles/show/i-saw-the-tv-glow): Sun 8/2 (4:30pm)
+
+    * [Kids Camp Moonrise Kingdom](https://drafthouse.com/los-angeles/show/kids-camp-moonrise-kingdom): Fri 8/28 (12:30pm)
+
+    * [Live Q A Mysterious Skin](https://drafthouse.com/los-angeles/show/live-q-a-mysterious-skin): Fri 8/21 (6:00pm), Sat 8/22 (6:30pm)
+
+    * [Phantom Of The Paradise](https://drafthouse.com/los-angeles/show/phantom-of-the-paradise): Thu 8/20 (7:20pm)
+
+    * [Raising Cain](https://drafthouse.com/los-angeles/show/raising-cain): Mon 8/10 (7:15pm)
+
+    * [Were All Going To The Worlds Fair](https://drafthouse.com/los-angeles/show/were-all-going-to-the-worlds-fair): Tue 8/4 (3:30pm)
+
 ### Thu 7/16 3:10pm
 
 * New screenings: 
