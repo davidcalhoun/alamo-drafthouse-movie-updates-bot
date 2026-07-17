@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Fri 7/17 2:12pm
+* New movies: I Saw the TV Glow, Raising Cain
+
+* New screenings: 
+    * [I Saw The Tv Glow](https://drafthouse.com/raleigh/show/i-saw-the-tv-glow): Sun 8/2 (4:30pm), Mon 8/3 (7:30pm)
+
+    * [Raising Cain](https://drafthouse.com/raleigh/show/raising-cain): Sat 8/8 (9:15pm)
+
+    * [The Odyssey](https://drafthouse.com/raleigh/show/the-odyssey): Sat 7/18 (11:00am)
+
 ### Fri 7/17 10:49am
 
 * New screenings: 
