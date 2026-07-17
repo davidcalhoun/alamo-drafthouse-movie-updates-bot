@@ -1,6 +1,20 @@
 # raleigh
 
 ## Movie updates
+### Fri 7/17 4:11pm
+* New movies: Blow Out, Carrie 1976, Moonrise Kingdom, Phantom of the Paradise
+
+* New screenings: 
+    * [Blow Out](https://drafthouse.com/raleigh/show/blow-out): Fri 8/21 (9:30pm)
+
+    * [Carrie](https://drafthouse.com/raleigh/show/carrie): Mon 8/24 (9:30pm)
+
+    * [Kids Camp Moonrise Kingdom](https://drafthouse.com/raleigh/show/kids-camp-moonrise-kingdom): Fri 8/28 (11:30am)
+
+    * [Phantom Of The Paradise](https://drafthouse.com/raleigh/show/phantom-of-the-paradise): Thu 8/20 (7:00pm)
+
+    * [The Neon Demon](https://drafthouse.com/raleigh/show/the-neon-demon): Tue 7/21 (10:30am)
+
 ### Fri 7/17 2:12pm
 * New movies: I Saw the TV Glow, Raising Cain
 
