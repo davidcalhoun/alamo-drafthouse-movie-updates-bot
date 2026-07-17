@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 7/17 10:49am
+
+* New screenings: 
+    * [The Odyssey](https://drafthouse.com/raleigh/show/the-odyssey): Sun 7/19 (11:00am)
+
 ### Wed 7/15 10:01am
 * New movies: Sheep in the Box
 
