@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Fri 7/17 11:19pm
+* New movies: Pure Scum, De Palma
+
+* New screenings: 
+    * [De Palma](https://drafthouse.com/raleigh/show/de-palma): Sat 8/22 (9:30pm)
+
+    * [Weird Wednesday Pure Scum](https://drafthouse.com/raleigh/show/weird-wednesday-pure-scum): Wed 8/19 (9:45pm)
+
 ### Fri 7/17 4:11pm
 * New movies: Blow Out, Carrie 1976, Moonrise Kingdom, Phantom of the Paradise
 
