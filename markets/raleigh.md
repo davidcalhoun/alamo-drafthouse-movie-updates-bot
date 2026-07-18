@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Sat 7/18 3:16pm
+* New movies: Orlando, Full Contact 1992, TERROR TUESDAY: BRIDE OF CHUCKY
+
+* New screenings: 
+    * [Queer Film Theory 101 Orlando](https://drafthouse.com/raleigh/show/queer-film-theory-101-orlando): Mon 7/20 (12:00pm)
+
+    * [Terror Tuesday Bride Of Chucky](https://drafthouse.com/raleigh/show/terror-tuesday-bride-of-chucky): Tue 8/25 (9:30pm)
+
+    * [Weird Wednesday Full Contact](https://drafthouse.com/raleigh/show/weird-wednesday-full-contact): Wed 8/12 (9:00pm)
+
 ### Fri 7/17 11:19pm
 * New movies: Pure Scum, De Palma
 
