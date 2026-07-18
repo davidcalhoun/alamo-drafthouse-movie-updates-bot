@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 7/17 7:47pm
+* New movies: De Palma, WEIRD WEDNESDAY: PURE SCUM
+
+* New screenings: 
+    * [De Palma](https://drafthouse.com/los-angeles/show/de-palma): Sat 8/22 (10:00pm)
+
+    * [Weird Wednesday Pure Scum](https://drafthouse.com/los-angeles/show/weird-wednesday-pure-scum): Wed 8/19 (6:30pm)
+
 ### Fri 7/17 5:12am
 * New movies: I Want Your Sex
 
