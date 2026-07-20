@@ -1,6 +1,20 @@
 # los-angeles
 
 ## Movie updates
+### Mon 7/20 8:52am
+* New movies: The Outsiders: The Complete Novel, A New Leaf, Mikey and Nicky, The Piano, Michael Mann's Manhunter: The Final Cut
+
+* New screenings: 
+    * [A New Leaf](https://drafthouse.com/los-angeles/show/a-new-leaf): Wed 8/19 (1:15pm)
+
+    * [Mikey And Nicky](https://drafthouse.com/los-angeles/show/mikey-and-nicky): Wed 8/12 (4:30pm)
+
+    * [Movie Party The Outsiders The Complete Novel](https://drafthouse.com/los-angeles/show/movie-party-the-outsiders-the-complete-novel): Sun 8/30 (12:45pm), Wed 9/2 (7:30pm)
+
+    * [Sad Girl Cinema Club The Piano](https://drafthouse.com/los-angeles/show/sad-girl-cinema-club-the-piano): Sun 8/16 (3:15pm)
+
+    * [Terror Tuesday Michael Manns Manhunter The Final Cut](https://drafthouse.com/los-angeles/show/terror-tuesday-michael-manns-manhunter-the-final-cut): Tue 8/11 (7:30pm)
+
 ### Fri 7/17 7:47pm
 * New movies: De Palma, WEIRD WEDNESDAY: PURE SCUM
 
