@@ -1,6 +1,26 @@
 # raleigh
 
 ## Movie updates
+### Mon 7/20 12:39pm
+* New movies: The Outsiders: The Complete Novel, A New Leaf, Mikey and Nicky, Little Shop of Horrors 1986, The Piano, Michael Mann's Manhunter: The Final Cut, Mysterious Skin 4K Restoration, Boyhood
+
+* New screenings: 
+    * [A New Leaf](https://drafthouse.com/raleigh/show/a-new-leaf): Tue 8/18 (6:30pm)
+
+    * [Mikey And Nicky](https://drafthouse.com/raleigh/show/mikey-and-nicky): Sun 8/9 (1:30pm)
+
+    * [Movie Party The Outsiders The Complete Novel](https://drafthouse.com/raleigh/show/movie-party-the-outsiders-the-complete-novel): Wed 9/2 (7:00pm)
+
+    * [Mysterious Skin](https://drafthouse.com/raleigh/show/mysterious-skin): Fri 8/14 (9:30pm)
+
+    * [Queer Film Theory 101 Little Shop Of Horrors 1986](https://drafthouse.com/raleigh/show/queer-film-theory-101-little-shop-of-horrors-1986): Mon 8/31 (6:30pm)
+
+    * [Sad Girl Cinema Club The Piano](https://drafthouse.com/raleigh/show/sad-girl-cinema-club-the-piano): Sun 8/16 (2:45pm)
+
+    * [Special Event Boyhood W Pre Recorded Q A](https://drafthouse.com/raleigh/show/special-event-boyhood-w-pre-recorded-q-a): Tue 8/4 (3:00pm)
+
+    * [Terror Tuesday Michael Manns Manhunter The Final Cut](https://drafthouse.com/raleigh/show/terror-tuesday-michael-manns-manhunter-the-final-cut): Tue 8/11 (9:30pm)
+
 ### Sat 7/18 3:16pm
 * New movies: Orlando, Full Contact 1992, TERROR TUESDAY: BRIDE OF CHUCKY
 
