@@ -1,6 +1,56 @@
 # los-angeles
 
 ## Movie updates
+### Mon 7/20 4:05pm
+* New movies: Motor City, Mystery Machine 7/27/2026
+
+* New screenings: 
+    * [Casualties Of War](https://drafthouse.com/los-angeles/show/casualties-of-war): Sat 7/25 (12:15pm), Wed 7/29 (10:15pm)
+
+    * [Disclosure Day](https://drafthouse.com/los-angeles/show/disclosure-day): Thu 7/23 (11:45am, 3:15pm, 6:45pm), Fri 7/24 (7:00pm), Sun 7/26 (7:00pm), Tue 7/28 (1:10pm), Wed 7/29 (4:00pm)
+
+    * [Evil Dead Burn](https://drafthouse.com/los-angeles/show/evil-dead-burn): Thu 7/23 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Fri 7/24 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Sat 7/25 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Sun 7/26 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Mon 7/27 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Tue 7/28 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Wed 7/29 (1:00pm, 4:00pm, 7:00pm, 10:00pm)
+
+    * [Gail Daughtry And The Celebrity Sex Pass](https://drafthouse.com/los-angeles/show/gail-daughtry-and-the-celebrity-sex-pass): Thu 7/23 (12:30pm)
+
+    * [Her Private Hell](https://drafthouse.com/los-angeles/show/her-private-hell): Thu 7/23 (10:00pm), Fri 7/24 (12:00pm, 3:00pm, 10:30pm), Sat 7/25 (10:30am, 1:30pm, 10:30pm), Sun 7/26 (12:00pm, 3:00pm, 10:30pm), Mon 7/27 (10:30am, 1:30pm, 4:30pm, 7:30pm, 10:30pm), Tue 7/28 (10:30am, 1:30pm, 4:30pm, 7:30pm, 10:30pm), Wed 7/29 (12:00pm, 3:00pm, 6:00pm, 10:00pm)
+
+    * [Kids Camp Arco](https://drafthouse.com/los-angeles/show/kids-camp-arco): Sun 7/26 (10:30am)
+
+    * [Macho Dancer](https://drafthouse.com/los-angeles/show/macho-dancer): Fri 7/24 (10:30pm), Mon 7/27 (9:45pm)
+
+    * [Maddies Secret](https://drafthouse.com/los-angeles/show/maddies-secret): Thu 7/23 (12:45pm, 10:30pm)
+
+    * [Michael Manns Manhunter The Final Cut](https://drafthouse.com/los-angeles/show/michael-manns-manhunter-the-final-cut): Sat 7/25 (10:45pm), Sun 7/26 (10:30pm)
+
+    * [Minions And Monsters](https://drafthouse.com/los-angeles/show/minions-and-monsters): Thu 7/23 (10:30am, 1:15pm, 4:00pm, 6:45pm, 9:30pm), Fri 7/24 (10:30am, 1:15pm, 4:00pm, 6:45pm, 9:30pm), Sat 7/25 (10:30am, 1:15pm, 4:00pm, 6:45pm, 9:30pm), Sun 7/26 (10:30am, 1:15pm, 4:00pm, 6:45pm, 9:30pm), Mon 7/27 (10:30am, 1:15pm, 4:00pm, 6:45pm, 9:30pm), Tue 7/28 (10:30am, 1:15pm, 4:00pm, 6:45pm, 9:30pm), Wed 7/29 (1:15pm, 4:00pm, 6:45pm, 9:30pm)
+
+    * [Moana 2026](https://drafthouse.com/los-angeles/show/moana-2026): Thu 7/23 (1:15pm, 4:15pm)
+
+    * [Motor City](https://drafthouse.com/los-angeles/show/motor-city): Thu 7/23 (6:00pm, 10:45pm), Fri 7/24 (12:15pm, 6:15pm), Sat 7/25 (12:15pm, 6:15pm), Sun 7/26 (12:15pm, 6:15pm), Mon 7/27 (12:15pm, 6:15pm), Tue 7/28 (12:15pm, 6:15pm), Wed 7/29 (12:15pm, 6:15pm)
+
+    * [Mystery Machine 7 27 2026](https://drafthouse.com/los-angeles/show/mystery-machine-7-27-2026): Mon 7/27 (6:45pm)
+
+    * [Obsession 2026](https://drafthouse.com/los-angeles/show/obsession-2026): Thu 7/23 (3:15pm, 6:15pm, 9:15pm), Fri 7/24 (3:15pm, 9:15pm), Sat 7/25 (3:15pm, 9:15pm), Sun 7/26 (3:15pm, 9:15pm), Mon 7/27 (3:15pm, 9:15pm), Tue 7/28 (3:15pm, 10:10pm), Wed 7/29 (3:15pm, 9:15pm)
+
+    * [Queer Film Theory 101 Orlando](https://drafthouse.com/los-angeles/show/queer-film-theory-101-orlando): Thu 7/23 (3:10pm)
+
+    * [Rashomon](https://drafthouse.com/los-angeles/show/rashomon): Tue 7/28 (10:30am), Wed 7/29 (1:15pm)
+
+    * [Sad Girl Cinema Club Tiny Furniture](https://drafthouse.com/los-angeles/show/sad-girl-cinema-club-tiny-furniture): Thu 7/23 (12:15pm)
+
+    * [Snake Eyes](https://drafthouse.com/los-angeles/show/snake-eyes): Sat 7/25 (3:15pm), Mon 7/27 (1:15pm), Tue 7/28 (4:45pm)
+
+    * [Special Event Backrooms Everything Must Go Edition](https://drafthouse.com/los-angeles/show/special-event-backrooms-everything-must-go-edition): Thu 7/23 (7:15pm), Sat 7/25 (6:00pm), Mon 7/27 (4:00pm), Tue 7/28 (9:45pm)
+
+    * [The Invite](https://drafthouse.com/los-angeles/show/the-invite): Thu 7/23 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:15pm), Fri 7/24 (10:30am, 1:30pm, 4:30pm, 7:30pm, 10:30pm), Sat 7/25 (10:30am, 1:30pm, 4:30pm, 7:30pm, 10:30pm), Sun 7/26 (10:30am, 1:30pm, 4:30pm, 7:30pm, 10:30pm), Mon 7/27 (10:30am, 1:30pm, 4:30pm, 7:30pm, 10:30pm), Tue 7/28 (10:15am, 1:15pm, 4:15pm, 7:15pm, 10:15pm), Wed 7/29 (12:30pm, 3:30pm, 6:30pm, 10:45pm)
+
+    * [The Neon Demon](https://drafthouse.com/los-angeles/show/the-neon-demon): Thu 7/23 (10:30pm)
+
+    * [The Odyssey](https://drafthouse.com/los-angeles/show/the-odyssey): Thu 7/23 (10:30am, 11:00am, 12:00pm, 2:30pm, 3:00pm, 3:30pm, 4:00pm, 6:30pm, 7:30pm, 8:00pm, 9:00pm), Fri 7/24 (11:30am, 12:00pm, 12:30pm, 3:00pm, 3:30pm, 4:00pm, 7:00pm, 7:30pm, 8:00pm, 9:15pm), Sat 7/25 (10:45am, 11:15am, 12:00pm, 1:00pm, 2:45pm, 4:00pm, 5:00pm, 6:45pm, 8:00pm, 9:15pm), Sun 7/26 (11:00am, 12:00pm, 12:30pm, 3:00pm, 3:15pm, 4:00pm, 7:00pm, 7:15pm, 8:00pm, 9:15pm), Mon 7/27 (11:00am, 11:30am, 12:00pm, 3:00pm, 3:30pm, 4:00pm, 7:00pm, 7:30pm, 8:00pm), Tue 7/28 (11:00am, 11:30am, 12:00pm, 3:00pm, 3:30pm, 4:00pm, 7:30pm, 8:00pm, 9:15pm), Wed 7/29 (11:00am, 11:15am, 11:30am, 12:00pm, 3:00pm, 3:15pm, 3:30pm, 4:00pm, 7:00pm, 7:30pm, 8:00pm, 9:00pm, 9:30pm)
+
+    * [The Thing Called Love](https://drafthouse.com/los-angeles/show/the-thing-called-love): Fri 7/24 (12:45pm)
+
 ### Mon 7/20 8:52am
 * New movies: The Outsiders: The Complete Novel, A New Leaf, Mikey and Nicky, The Piano, Michael Mann's Manhunter: The Final Cut
 
