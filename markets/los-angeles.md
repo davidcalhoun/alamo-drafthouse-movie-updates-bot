@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 7/21 4:56pm
+* New movies: Butthole Surfers: The Hole Truth and Nothing Butt
+
+* New screenings: 
+    * [Live Q A Butthole Surfers The Hole Truth And Nothing Butt](https://drafthouse.com/los-angeles/show/live-q-a-butthole-surfers-the-hole-truth-and-nothing-butt): Fri 8/28 (7:00pm)
+
 ### Tue 7/21 12:35pm
 * New movies: Butthole Surfers: The Hole Truth and Nothing Butt, Butthole Surfers: The Hole Truth and Nothing Butt, Grateful Dead Meet-Up at the Movies 2026
 
