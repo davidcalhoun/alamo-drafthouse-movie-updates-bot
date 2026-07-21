@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Mon 7/20 5:04pm
+* New movies: Little Shop of Horrors 1986, TERROR TUESDAY: RINGU - 4K RESTORATION, WEIRD WEDNESDAY: RADIOACTIVE DREAMS
+
+* New screenings: 
+    * [Queer Film Theory 101 Little Shop Of Horrors 1986](https://drafthouse.com/los-angeles/show/queer-film-theory-101-little-shop-of-horrors-1986): Mon 8/31 (7:00pm)
+
+    * [Terror Tuesday Ringu](https://drafthouse.com/los-angeles/show/terror-tuesday-ringu): Tue 8/18 (7:30pm)
+
+    * [Weird Wednesday Radioactive Dreams](https://drafthouse.com/los-angeles/show/weird-wednesday-radioactive-dreams): Wed 8/26 (7:30pm)
+
 ### Mon 7/20 4:05pm
 * New movies: Motor City, Mystery Machine 7/27/2026
 
