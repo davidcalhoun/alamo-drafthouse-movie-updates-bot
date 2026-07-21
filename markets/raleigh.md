@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 7/20 8:04pm
+* New movies: Paw Patrol: The Dino Movie
+
+* New screenings: 
+    * [Paw Patrol The Dino Movie](https://drafthouse.com/raleigh/show/paw-patrol-the-dino-movie): Thu 8/13 (2:00pm, 4:45pm, 7:30pm), Fri 8/14 (10:00am, 12:45pm, 3:30pm, 6:15pm), Sat 8/15 (10:00am, 12:45pm, 3:30pm, 6:15pm), Sun 8/16 (10:00am, 12:45pm, 3:30pm, 6:15pm)
+
 ### Mon 7/20 12:39pm
 * New movies: The Outsiders: The Complete Novel, A New Leaf, Mikey and Nicky, Little Shop of Horrors 1986, The Piano, Michael Mann's Manhunter: The Final Cut, Mysterious Skin 4K Restoration, Boyhood
 
