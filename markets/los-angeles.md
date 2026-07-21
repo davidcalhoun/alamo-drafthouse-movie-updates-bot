@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 7/21 8:45am
+* New movies: Teenage Sex and Death at Camp Miasma
+
+* New screenings: 
+    * [Drafthouse Recommends Teenage Sex And Death At Camp Miasma W Livestream Q A](https://drafthouse.com/los-angeles/show/drafthouse-recommends-teenage-sex-and-death-at-camp-miasma-w-livestream-q-a): Mon 8/3 (6:00pm)
+
 ### Tue 7/21 7:00am
 * New movies: GHOST: 2 Big To Rig
 
