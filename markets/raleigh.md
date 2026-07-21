@@ -1,6 +1,34 @@
 # raleigh
 
 ## Movie updates
+### Tue 7/21 7:53am
+* New movies: Motor City, Mystery Machine 7/27/2026, Orlando
+
+* New screenings: 
+    * [Evil Dead Burn](https://drafthouse.com/raleigh/show/evil-dead-burn): Thu 7/23 (10:15am, 1:15pm, 4:15pm, 7:30pm, 10:45pm), Fri 7/24 (9:45pm), Sat 7/25 (10:15pm), Sun 7/26 (10:15pm), Mon 7/27 (10:45pm), Tue 7/28 (10:45pm), Wed 7/29 (9:45pm)
+
+    * [Her Private Hell](https://drafthouse.com/raleigh/show/her-private-hell): Fri 7/24 (10:15am, 1:15pm, 4:15pm), Sat 7/25 (10:45am, 1:45pm, 4:45pm), Sun 7/26 (12:30pm, 4:00pm), Mon 7/27 (12:30pm, 4:15pm, 7:15pm, 10:15pm), Tue 7/28 (10:30am, 1:30pm, 4:30pm, 7:30pm, 10:30pm), Wed 7/29 (12:15pm, 4:00pm, 7:15pm, 10:15pm)
+
+    * [Kids Camp Arco](https://drafthouse.com/raleigh/show/kids-camp-arco): Tue 7/28 (4:15pm)
+
+    * [Minions And Monsters](https://drafthouse.com/raleigh/show/minions-and-monsters): Thu 7/23 (10:30am, 1:15pm, 3:30pm, 6:45pm, 9:30pm), Fri 7/24 (12:00pm, 4:00pm, 6:45pm, 9:30pm), Sat 7/25 (9:45am, 12:30pm, 3:30pm, 6:15pm, 9:00pm), Sun 7/26 (11:45am, 3:00pm, 6:15pm, 9:00pm), Mon 7/27 (12:45pm, 3:30pm, 6:15pm, 9:00pm), Tue 7/28 (10:00am, 12:45pm, 3:30pm, 6:15pm, 9:00pm), Wed 7/29 (12:00pm, 3:00pm, 6:15pm, 9:00pm)
+
+    * [Moana 2026](https://drafthouse.com/raleigh/show/moana-2026): Thu 7/23 (11:45am, 12:15pm, 3:15pm, 6:15pm, 9:15pm), Fri 7/24 (10:30am, 12:15pm, 3:15pm, 6:15pm, 9:15pm), Sat 7/25 (9:45am, 12:15pm, 3:15pm, 6:15pm, 9:15pm), Sun 7/26 (11:45am, 2:45pm, 6:00pm, 9:20pm), Mon 7/27 (11:15am, 2:30pm, 6:00pm, 9:00pm), Tue 7/28 (11:45am, 2:45pm, 6:00pm, 9:00pm), Wed 7/29 (11:30am, 2:45pm, 6:00pm, 9:00pm)
+
+    * [Motor City](https://drafthouse.com/raleigh/show/motor-city): Thu 7/23 (4:00pm), Fri 7/24 (2:15pm), Sat 7/25 (7:30pm), Sun 7/26 (7:30pm), Mon 7/27 (3:45pm, 7:45pm), Tue 7/28 (5:45pm), Wed 7/29 (3:15pm)
+
+    * [Mystery Machine 7 27 2026](https://drafthouse.com/raleigh/show/mystery-machine-7-27-2026): Mon 7/27 (6:45pm)
+
+    * [Obsession 2026](https://drafthouse.com/raleigh/show/obsession-2026): Thu 7/23 (10:15pm), Fri 7/24 (10:45pm), Sat 7/25 (10:30pm), Sun 7/26 (10:45pm), Mon 7/27 (9:45pm), Tue 7/28 (9:45pm), Wed 7/29 (10:00pm)
+
+    * [Queer Film Theory 101 Orlando](https://drafthouse.com/raleigh/show/queer-film-theory-101-orlando): Thu 7/23 (10:15am)
+
+    * [The Invite](https://drafthouse.com/raleigh/show/the-invite): Thu 7/23 (11:00am, 1:55pm, 4:50pm, 7:45pm, 10:45pm), Fri 7/24 (10:45am, 1:45pm, 4:45pm, 7:45pm, 10:45pm), Sat 7/25 (10:15am, 1:30pm, 4:30pm, 7:30pm, 10:30pm), Sun 7/26 (12:45pm, 3:45pm, 7:00pm, 10:30pm), Mon 7/27 (11:45am, 4:30pm, 7:45pm, 10:45pm), Tue 7/28 (10:45am, 2:00pm, 4:50pm, 7:45pm, 10:45pm), Wed 7/29 (12:30pm, 4:30pm, 7:45pm, 10:45pm)
+
+    * [The Odyssey](https://drafthouse.com/raleigh/show/the-odyssey): Thu 7/23 (10:30am, 11:30am, 11:30am, 1:00pm, 2:30pm, 3:00pm, 5:00pm, 6:15pm, 6:30pm, 9:00pm, 10:30pm), Fri 7/24 (11:00am, 11:30am, 12:00pm, 1:30pm, 2:35pm, 3:00pm, 5:00pm, 5:30pm, 6:30pm, 7:00pm, 9:00pm, 10:30pm), Sat 7/25 (11:00am, 11:30am, 12:00pm, 1:00pm, 2:15pm, 3:00pm, 4:00pm, 5:00pm, 6:30pm, 8:00pm, 10:30pm), Sun 7/26 (10:30am, 11:00am, 11:30am, 1:00pm, 2:30pm, 3:00pm, 3:30pm, 5:00pm, 6:30pm, 7:30pm, 9:00pm, 10:30pm), Mon 7/27 (10:30am, 11:30am, 12:00pm, 12:30pm, 2:30pm, 3:00pm, 3:30pm, 7:30pm, 9:30pm), Tue 7/28 (9:45am, 10:30am, 11:00am, 12:15pm, 1:00pm, 1:45pm, 2:45pm, 3:00pm, 5:15pm, 6:45pm, 8:30pm, 9:35pm), Wed 7/29 (10:00am, 10:30am, 11:00am, 12:00pm, 1:30pm, 2:00pm, 2:30pm, 5:30pm, 6:00pm, 6:30pm, 10:05pm, 10:30pm)
+
+    * [Toy Story 5](https://drafthouse.com/raleigh/show/toy-story-5): Thu 7/23 (11:00am, 1:45pm, 4:30pm, 7:15pm, 10:00pm), Fri 7/24 (11:00am, 1:45pm, 4:30pm, 7:15pm, 10:00pm), Sat 7/25 (10:30am, 1:30pm, 4:30pm, 7:15pm, 10:00pm), Sun 7/26 (12:30pm, 3:45pm, 6:30pm, 9:30pm), Mon 7/27 (12:30pm, 4:00pm, 6:45pm, 9:30pm), Tue 7/28 (12:30pm, 3:30pm, 6:30pm, 9:15pm), Wed 7/29 (12:30pm, 3:30pm, 6:15pm, 9:15pm)
+
 ### Mon 7/20 8:04pm
 * New movies: Paw Patrol: The Dino Movie
 
