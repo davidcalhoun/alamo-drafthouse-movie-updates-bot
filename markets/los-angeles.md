@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Tue 7/21 12:35pm
+* New movies: Butthole Surfers: The Hole Truth and Nothing Butt, Butthole Surfers: The Hole Truth and Nothing Butt, Grateful Dead Meet-Up at the Movies 2026
+
+* New screenings: 
+    * [Butthole Surfers The Hole Truth And Nothing Butt](https://drafthouse.com/los-angeles/show/butthole-surfers-the-hole-truth-and-nothing-butt): Sat 8/29 (1:00pm), Sun 8/30 (6:45pm), Mon 8/31 (4:00pm), Tue 9/1 (4:00pm), Wed 9/2 (4:30pm)
+
+    * [Grateful Dead Meet Up At The Movies 2026](https://drafthouse.com/los-angeles/show/grateful-dead-meet-up-at-the-movies-2026): Sat 8/8 (3:00pm), Mon 8/10 (7:45pm)
+
+    * [Livestream Q A Butthole Surfers The Hole Truth And Nothing Butt](https://drafthouse.com/los-angeles/show/livestream-q-a-butthole-surfers-the-hole-truth-and-nothing-butt): Mon 8/24 (5:30pm)
+
 ### Tue 7/21 8:45am
 * New movies: Teenage Sex and Death at Camp Miasma
 
