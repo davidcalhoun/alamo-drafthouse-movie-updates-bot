@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 7/21 7:00am
+* New movies: GHOST: 2 Big To Rig
+
+* New screenings: 
+    * [Ghost 2 Big To Rig](https://drafthouse.com/los-angeles/show/ghost-2-big-to-rig): Wed 8/26 (10:00pm), Thu 8/27 (9:45pm), Sat 8/29 (4:00pm)
+
 ### Mon 7/20 5:04pm
 * New movies: Little Shop of Horrors 1986, TERROR TUESDAY: RINGU - 4K RESTORATION, WEIRD WEDNESDAY: RADIOACTIVE DREAMS
 
