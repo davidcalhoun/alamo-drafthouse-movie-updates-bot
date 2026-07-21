@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Tue 7/21 2:20pm
+* New movies: Butthole Surfers: The Hole Truth and Nothing Butt, Butthole Surfers: The Hole Truth and Nothing Butt
+
+* New screenings: 
+    * [Butthole Surfers The Hole Truth And Nothing Butt](https://drafthouse.com/raleigh/show/butthole-surfers-the-hole-truth-and-nothing-butt): Sat 8/29 (3:30pm), Mon 8/31 (3:30pm)
+
+    * [Livestream Q A Butthole Surfers The Hole Truth And Nothing Butt](https://drafthouse.com/raleigh/show/livestream-q-a-butthole-surfers-the-hole-truth-and-nothing-butt): Mon 8/24 (8:30pm)
+
 ### Tue 7/21 7:53am
 * New movies: Motor City, Mystery Machine 7/27/2026, Orlando
 
