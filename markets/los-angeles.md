@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 7/22 7:03am
+* New movies: The End of Oak Street
+
+* New screenings: 
+    * [The End Of Oak Street](https://drafthouse.com/los-angeles/show/the-end-of-oak-street): Thu 8/13 (6:45pm, 9:30pm), Fri 8/14 (4:45pm, 7:30pm), Sat 8/15 (4:45pm, 7:30pm), Sun 8/16 (4:45pm, 7:30pm)
+
 ### Wed 7/22 1:33am
 
 * New screenings: 
