@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Wed 7/22 10:16am
+* New movies: The End of Oak Street, Teenage Sex and Death at Camp Miasma
+
+* New screenings: 
+    * [Drafthouse Recommends Teenage Sex And Death At Camp Miasma W Livestream Q A](https://drafthouse.com/raleigh/show/drafthouse-recommends-teenage-sex-and-death-at-camp-miasma-w-livestream-q-a): Mon 8/3 (9:00pm)
+
+    * [The End Of Oak Street](https://drafthouse.com/raleigh/show/the-end-of-oak-street): Thu 8/13 (7:00pm, 10:00pm), Fri 8/14 (7:00pm, 10:00pm), Sat 8/15 (7:00pm, 10:00pm), Sun 8/16 (7:00pm, 10:00pm)
+
 ### Tue 7/21 2:20pm
 * New movies: Butthole Surfers: The Hole Truth and Nothing Butt, Butthole Surfers: The Hole Truth and Nothing Butt
 
