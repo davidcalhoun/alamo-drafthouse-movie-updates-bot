@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 7/22 1:33am
+
+* New screenings: 
+    * [Evil Dead Burn](https://drafthouse.com/los-angeles/show/evil-dead-burn): Sat 7/25 (1:45pm, 4:45pm), Sun 7/26 (1:45pm, 4:45pm), Mon 7/27 (1:45pm, 4:45pm), Tue 7/28 (1:45pm, 4:45pm), Wed 7/29 (4:00pm, 7:00pm)
+
 ### Tue 7/21 10:52pm
 
 * New screenings: 
