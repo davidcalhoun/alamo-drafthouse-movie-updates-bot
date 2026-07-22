@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 7/22 2:12pm
+
+* New screenings: 
+    * [Live Q A American Pachuco The Legend Of Luis Valdez](https://drafthouse.com/los-angeles/show/live-q-a-american-pachuco-the-legend-of-luis-valdez): Fri 7/24 (4:45pm)
+
 ### Wed 7/22 7:03am
 * New movies: The End of Oak Street
 
