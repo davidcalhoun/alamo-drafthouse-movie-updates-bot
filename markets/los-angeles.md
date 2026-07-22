@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 7/21 10:52pm
+
+* New screenings: 
+    * [Evil Dead Burn](https://drafthouse.com/los-angeles/show/evil-dead-burn): Fri 7/24 (1:00pm)
+
 ### Tue 7/21 4:56pm
 * New movies: Butthole Surfers: The Hole Truth and Nothing Butt
 
