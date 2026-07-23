@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Thu 7/23 8:44am
+
+* New screenings: 
+    * [Spider Man Brand New Day](https://drafthouse.com/raleigh/show/spider-man-brand-new-day): Fri 7/31 (8:30am), Sat 8/1 (8:30am), Sun 8/2 (8:30am)
+
 ### Wed 7/22 10:16am
 * New movies: The End of Oak Street, Teenage Sex and Death at Camp Miasma
 
