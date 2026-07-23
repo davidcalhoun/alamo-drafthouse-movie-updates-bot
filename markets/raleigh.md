@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 7/23 11:18am
+* New movies: Tony
+
+* New screenings: 
+    * [Advance Screening Tony](https://drafthouse.com/raleigh/show/advance-screening-tony): Tue 8/11 (7:30pm)
+
 ### Thu 7/23 8:44am
 
 * New screenings: 
