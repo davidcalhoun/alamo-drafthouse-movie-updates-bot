@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Fri 7/24 12:22am
+* New movies: A/V Geeks Go Old School, We're All Going to the World's Fair
+
+* New screenings: 
+    * [A V Geeks Go Old School](https://drafthouse.com/raleigh/show/a-v-geeks-go-old-school): Tue 9/8 (7:00pm)
+
+    * [Were All Going To The Worlds Fair](https://drafthouse.com/raleigh/show/were-all-going-to-the-worlds-fair): Tue 8/4 (7:30pm)
+
 ### Thu 7/23 11:18am
 * New movies: Tony
 
