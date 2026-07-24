@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 7/24 3:37am
+* New movies: A Bay of Blood
+
+* New screenings: 
+    * [Terror Tuesday A Bay Of Blood](https://drafthouse.com/raleigh/show/terror-tuesday-a-bay-of-blood): Tue 8/18 (9:30pm)
+
 ### Fri 7/24 12:22am
 * New movies: A/V Geeks Go Old School, We're All Going to the World's Fair
 
