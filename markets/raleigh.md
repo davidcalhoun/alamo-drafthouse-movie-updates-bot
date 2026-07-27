@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 7/27 1:49pm
+
+* New screenings: 
+    * [Your Letter](https://drafthouse.com/raleigh/show/your-letter): Mon 8/17 (12:35pm)
+
 ### Fri 7/24 3:37am
 * New movies: A Bay of Blood
 
