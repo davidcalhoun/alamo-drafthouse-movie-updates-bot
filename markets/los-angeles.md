@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 7/27 10:00am
+
+* New screenings: 
+    * [The Odyssey](https://drafthouse.com/los-angeles/show/the-odyssey): Thu 7/30 (10:45am)
+
 ### Fri 7/24 9:13pm
 
 * New screenings: 
