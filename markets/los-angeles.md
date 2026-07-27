@@ -1,6 +1,37 @@
 # los-angeles
 
 ## Movie updates
+### Mon 7/27 3:10pm
+
+* New screenings: 
+    * [American Pachuco The Legend Of Luis Valdez](https://drafthouse.com/los-angeles/show/american-pachuco-the-legend-of-luis-valdez): Thu 7/30 (11:15am), Fri 7/31 (5:15pm), Sat 8/1 (5:45pm), Sun 8/2 (7:25pm), Mon 8/3 (9:15pm), Tue 8/4 (4:45pm), Wed 8/5 (6:30pm)
+
+    * [Evil Dead Burn](https://drafthouse.com/los-angeles/show/evil-dead-burn): Thu 7/30 (11:15am, 2:15pm)
+
+    * [Her Private Hell](https://drafthouse.com/los-angeles/show/her-private-hell): Thu 7/30 (12:00pm, 3:00pm), Fri 7/31 (12:45pm, 10:15pm), Sat 8/1 (12:45pm, 10:15pm), Sun 8/2 (12:45pm, 10:15pm), Mon 8/3 (12:45pm, 10:15pm), Tue 8/4 (12:45pm, 10:15pm), Wed 8/5 (12:45pm, 10:15pm)
+
+    * [I Saw The Tv Glow](https://drafthouse.com/los-angeles/show/i-saw-the-tv-glow): Tue 8/4 (5:15pm)
+
+    * [I Want Your Sex](https://drafthouse.com/los-angeles/show/i-want-your-sex): Thu 7/30 (10:10pm), Fri 7/31 (2:15pm), Sat 8/1 (2:15pm), Sun 8/2 (2:15pm), Mon 8/3 (2:15pm, 4:50pm, 7:25pm), Tue 8/4 (2:15pm, 4:50pm, 7:25pm), Wed 8/5 (2:15pm, 4:50pm, 7:25pm)
+
+    * [Michael Manns Manhunter The Final Cut](https://drafthouse.com/los-angeles/show/michael-manns-manhunter-the-final-cut): Thu 7/30 (12:30pm), Fri 7/31 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Sat 8/1 (9:45am, 1:00pm, 4:15pm, 7:30pm, 10:45pm), Sun 8/2 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Mon 8/3 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Tue 8/4 (12:45pm, 4:00pm, 7:15pm, 10:30pm), Wed 8/5 (12:45pm, 4:00pm, 7:15pm, 10:30pm)
+
+    * [Minions And Monsters](https://drafthouse.com/los-angeles/show/minions-and-monsters): Thu 7/30 (11:35am), Fri 7/31 (11:30am), Sat 8/1 (11:30am), Sun 8/2 (11:30am), Mon 8/3 (11:30am), Tue 8/4 (11:30am), Wed 8/5 (11:30am)
+
+    * [Motor City](https://drafthouse.com/los-angeles/show/motor-city): Sun 8/2 (10:10pm), Tue 8/4 (10:15pm)
+
+    * [Rashomon](https://drafthouse.com/los-angeles/show/rashomon): Thu 7/30 (10:50am)
+
+    * [Sheep In The Box](https://drafthouse.com/los-angeles/show/sheep-in-the-box): Thu 7/30 (9:15pm), Mon 8/3 (3:45pm, 7:00pm), Tue 8/4 (3:45pm, 7:00pm), Wed 8/5 (3:45pm, 7:00pm)
+
+    * [Spider Man Brand New Day](https://drafthouse.com/los-angeles/show/spider-man-brand-new-day): Thu 7/30 (1:30pm, 2:00pm, 2:15pm, 5:15pm, 5:30pm, 5:45pm, 9:00pm, 9:15pm), Fri 7/31 (9:45am, 10:15am, 10:45am, 1:45pm, 2:15pm, 2:30pm, 5:45pm, 8:00pm, 9:00pm, 9:15pm, 10:00pm), Sat 8/1 (9:15am, 9:45am, 10:45am, 12:45pm, 2:15pm, 4:00pm, 4:15pm, 8:30pm, 9:00pm), Sun 8/2 (9:15am, 9:30am, 9:45am, 1:00pm, 4:15pm, 6:45pm, 9:00pm, 10:15pm), Mon 8/3 (10:45am, 11:00am, 11:15am, 2:15pm, 2:30pm, 3:15pm, 4:15pm, 5:45pm, 9:00pm, 9:15pm, 10:15pm), Tue 8/4 (9:45am, 10:15am, 11:15am, 1:15pm, 1:45pm, 4:15pm, 6:00pm, 8:00pm, 9:00pm, 9:30pm), Wed 8/5 (11:15am, 12:30pm, 1:00pm, 4:00pm, 4:15pm, 4:30pm, 8:00pm, 9:00pm, 9:15pm, 10:30pm)
+
+    * [The Invite](https://drafthouse.com/los-angeles/show/the-invite): Thu 7/30 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Fri 7/31 (12:00pm, 3:00pm, 6:00pm, 10:00pm), Sat 8/1 (12:00pm, 3:00pm, 6:00pm, 10:00pm), Sun 8/2 (12:00pm, 3:00pm, 6:00pm, 10:00pm), Mon 8/3 (12:00pm, 3:00pm, 6:00pm, 10:00pm), Tue 8/4 (12:00pm, 3:00pm, 6:00pm, 10:00pm), Wed 8/5 (12:00pm, 3:00pm, 6:00pm, 10:00pm)
+
+    * [The Odyssey](https://drafthouse.com/los-angeles/show/the-odyssey): Thu 7/30 (11:00am, 12:00pm, 4:00pm, 8:00pm, 8:45pm), Fri 7/31 (10:30am, 10:45am, 1:15pm, 5:15pm, 6:00pm, 9:15pm), Sat 8/1 (10:45am, 12:00pm, 1:15pm, 5:15pm, 7:30pm, 9:15pm), Sun 8/2 (10:45am, 12:15pm, 1:15pm, 5:15pm, 7:45pm, 9:15pm), Mon 8/3 (12:15pm, 1:15pm, 5:15pm, 7:45pm, 9:15pm), Tue 8/4 (12:15pm, 1:15pm, 5:15pm, 7:45pm, 9:15pm), Wed 8/5 (12:15pm, 1:15pm, 5:15pm, 7:45pm, 9:15pm)
+
+    * [The Untouchables](https://drafthouse.com/los-angeles/show/the-untouchables): Sun 8/2 (12:15pm), Wed 8/5 (3:20pm)
+
 ### Mon 7/27 10:00am
 
 * New screenings: 
