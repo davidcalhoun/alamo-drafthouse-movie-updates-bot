@@ -1,20 +1,6 @@
 # los-angeles
 
 ## Movie updates
-### Mon 7/27 8:25pm
-* New movies: Evil Ed, Cherry 2000, Mad Max Beyond Thunderdome, Waterworld, The Blackening
-
-* New screenings: 
-    * [Terror Tuesday Evil Ed](https://drafthouse.com/los-angeles/show/terror-tuesday-evil-ed): Tue 8/4 (7:30pm)
-
-    * [Terror Tuesday The Blackening](https://drafthouse.com/los-angeles/show/terror-tuesday-the-blackening): Tue 8/25 (7:00pm)
-
-    * [Weird Wednesday Cherry 2000](https://drafthouse.com/los-angeles/show/weird-wednesday-cherry-2000): Wed 8/19 (9:15pm)
-
-    * [Weird Wednesday Mad Max Beyond Thunderdome](https://drafthouse.com/los-angeles/show/weird-wednesday-mad-max-beyond-thunderdome): Wed 8/12 (7:30pm)
-
-    * [Weird Wednesday Waterworld](https://drafthouse.com/los-angeles/show/weird-wednesday-waterworld): Wed 8/5 (7:30pm)
-
 ### Mon 7/27 5:04pm
 
 * New screenings: 

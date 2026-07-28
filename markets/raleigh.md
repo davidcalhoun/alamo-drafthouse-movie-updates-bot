@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 7/27 11:25pm
+* New movies: Hell's Highway: The True Story of Highway Safety Films
+
+* New screenings: 
+    * [Weird Wednesday Hells Highway](https://drafthouse.com/raleigh/show/weird-wednesday-hells-highway): Wed 8/5 (10:00pm)
+
 ### Mon 7/27 1:49pm
 
 * New screenings: 
