@@ -1,6 +1,34 @@
 # raleigh
 
 ## Movie updates
+### Tue 7/28 8:03am
+* New movies: One Night Only, Teenage Sex and Death at Camp Miasma, Hadestown: The Musical, One Night Only
+
+* New screenings: 
+    * [Hadestown The Musical](https://drafthouse.com/raleigh/show/hadestown-the-musical): Tue 8/4 (7:45pm), Wed 8/5 (7:45pm)
+
+    * [Her Private Hell](https://drafthouse.com/raleigh/show/her-private-hell): Thu 7/30 (10:35pm), Sat 8/1 (9:15pm), Wed 8/5 (10:30pm)
+
+    * [I Saw The Tv Glow](https://drafthouse.com/raleigh/show/i-saw-the-tv-glow): Wed 8/5 (7:30pm)
+
+    * [Livestream Q A One Night Only](https://drafthouse.com/raleigh/show/livestream-q-a-one-night-only): Sun 8/2 (6:30pm)
+
+    * [Minions And Monsters](https://drafthouse.com/raleigh/show/minions-and-monsters): Thu 7/30 (10:15am, 12:45pm, 4:45pm), Fri 7/31 (9:00am, 11:45am, 2:45pm, 5:30pm), Sat 8/1 (8:45am, 11:30am, 2:10pm, 4:45pm), Sun 8/2 (10:45am, 1:45pm, 4:45pm), Mon 8/3 (10:00am, 1:00pm, 4:15pm), Tue 8/4 (10:45am, 1:45pm, 4:45pm), Wed 8/5 (10:45am, 1:45pm, 4:45pm)
+
+    * [Moana 2026](https://drafthouse.com/raleigh/show/moana-2026): Thu 7/30 (11:00am), Fri 7/31 (9:30am, 12:45pm), Sat 8/1 (9:45am), Sun 8/2 (12:45pm), Mon 8/3 (10:15am, 1:30pm), Tue 8/4 (3:30pm), Wed 8/5 (3:15pm)
+
+    * [One Night Only](https://drafthouse.com/raleigh/show/one-night-only): Thu 8/6 (3:45pm, 6:30pm, 9:30pm), Fri 8/7 (11:00am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Sat 8/8 (11:00am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Sun 8/9 (11:00am, 2:00pm, 4:45pm, 7:30pm, 10:15pm)
+
+    * [Spider Man Brand New Day](https://drafthouse.com/raleigh/show/spider-man-brand-new-day): Thu 7/30 (12:15pm, 1:00pm, 2:00pm, 3:00pm, 3:15pm, 3:45pm, 5:30pm, 5:45pm, 6:30pm, 6:45pm, 7:15pm, 9:00pm, 9:15pm, 10:00pm, 10:45pm), Fri 7/31 (8:00am, 9:30am, 10:00am, 10:30am, 1:00pm, 1:30pm, 2:00pm, 3:30pm, 4:00pm, 4:30pm, 5:00pm, 5:30pm, 7:00pm, 7:30pm, 8:00pm, 8:30pm, 9:00pm, 10:35pm), Sat 8/1 (8:00am, 9:30am, 10:00am, 10:30am, 1:00pm, 1:30pm, 2:00pm, 2:45pm, 4:00pm, 4:30pm, 5:00pm, 5:30pm, 6:15pm, 7:30pm, 8:00pm, 8:30pm, 9:00pm, 9:45pm), Sun 8/2 (8:00am, 9:00am, 10:00am, 10:30am, 12:30pm, 1:30pm, 2:00pm, 2:45pm, 4:00pm, 5:00pm, 5:30pm, 6:15pm, 7:30pm, 7:30pm, 8:30pm, 9:00pm, 9:45pm), Mon 8/3 (10:00am, 10:30am, 11:30am, 12:30pm, 1:30pm, 2:00pm, 3:00pm, 4:00pm, 4:30pm, 5:00pm, 5:30pm, 5:45pm, 6:30pm, 7:30pm, 8:00pm, 8:30pm, 9:15pm, 10:00pm), Tue 8/4 (10:30am, 11:30am, 12:30pm, 1:00pm, 2:00pm, 4:00pm, 4:30pm, 5:30pm, 6:30pm, 6:45pm, 7:30pm, 8:00pm, 9:00pm, 10:00pm, 10:45pm), Wed 8/5 (10:00am, 11:30am, 12:30pm, 1:00pm, 1:30pm, 3:00pm, 4:00pm, 4:30pm, 5:00pm, 6:30pm, 6:30pm, 6:45pm, 7:30pm, 8:00pm, 8:30pm, 10:00pm, 10:15pm), Thu 8/6 (5:30pm)
+
+    * [Teenage Sex And Death At Camp Miasma](https://drafthouse.com/raleigh/show/teenage-sex-and-death-at-camp-miasma): Thu 8/13 (6:30pm), Fri 8/14 (6:00pm), Sat 8/15 (6:00pm), Sun 8/16 (6:00pm)
+
+    * [The Invite](https://drafthouse.com/raleigh/show/the-invite): Thu 7/30 (11:30am), Sat 8/1 (1:00pm), Sun 8/2 (9:45am), Mon 8/3 (10:15pm), Tue 8/4 (12:15pm), Wed 8/5 (12:15pm)
+
+    * [The Odyssey](https://drafthouse.com/raleigh/show/the-odyssey): Thu 7/30 (10:00am, 10:30am, 10:45am, 2:00pm, 2:30pm, 6:00pm, 6:30pm, 7:45pm, 10:00pm, 10:15pm), Fri 7/31 (8:45am, 10:15am, 1:00pm, 2:15pm, 5:15pm, 6:15pm, 8:15pm, 9:15pm, 10:15pm), Sat 8/1 (9:15am, 10:15am, 1:15pm, 2:15pm, 5:15pm, 6:15pm, 8:00pm, 10:15pm), Sun 8/2 (9:15am, 9:30am, 1:15pm, 1:45pm, 5:15pm, 7:45pm, 9:15pm, 9:30pm), Mon 8/3 (11:00am, 2:15pm, 3:15pm, 6:15pm, 7:15pm, 10:15pm), Tue 8/4 (11:00am, 2:15pm, 3:15pm, 6:15pm, 7:15pm, 10:15pm), Wed 8/5 (11:00am, 2:15pm, 3:15pm, 6:15pm, 10:15pm)
+
+    * [Toy Story 5](https://drafthouse.com/raleigh/show/toy-story-5): Thu 7/30 (12:00pm, 2:45pm), Fri 7/31 (9:45am, 12:30pm), Sat 8/1 (9:00am, 12:00pm), Sun 8/2 (9:00am, 12:00pm), Mon 8/3 (12:00pm, 3:00pm), Tue 8/4 (12:00pm, 3:15pm), Wed 8/5 (12:45pm, 3:45pm)
+
 ### Mon 7/27 11:25pm
 * New movies: Hell's Highway: The True Story of Highway Safety Films
 
