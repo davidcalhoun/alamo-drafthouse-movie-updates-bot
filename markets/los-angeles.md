@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Tue 7/28 7:17am
+* New movies: Teenage Sex and Death at Camp Miasma, One Night Only, One Night Only
+
+* New screenings: 
+    * [Livestream Q A One Night Only](https://drafthouse.com/los-angeles/show/livestream-q-a-one-night-only): Sun 8/2 (3:30pm)
+
+    * [One Night Only](https://drafthouse.com/los-angeles/show/one-night-only): Thu 8/6 (4:50pm, 7:40pm), Fri 8/7 (5:00pm, 7:50pm), Sat 8/8 (4:40pm, 7:30pm), Sun 8/9 (5:00pm, 7:50pm)
+
+    * [Teenage Sex And Death At Camp Miasma](https://drafthouse.com/los-angeles/show/teenage-sex-and-death-at-camp-miasma): Thu 8/13 (7:00pm, 10:00pm), Fri 8/14 (4:00pm, 7:00pm, 10:00pm), Sat 8/15 (4:00pm, 7:00pm, 10:00pm), Sun 8/16 (4:00pm, 7:00pm, 10:00pm)
+
 ### Mon 7/27 11:29pm
 * New movies: Evil Ed, Cherry 2000, Mad Max Beyond Thunderdome, Waterworld, The Blackening
 
