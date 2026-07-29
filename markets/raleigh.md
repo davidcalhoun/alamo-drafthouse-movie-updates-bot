@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Wed 7/29 11:14am
+* New movies: The Rivals of Amziah King, The Rivals of Amziah King
+
+* New screenings: 
+    * [Special Event The Rivals Of Amziah King Cocktail Party](https://drafthouse.com/raleigh/show/special-event-the-rivals-of-amziah-king-cocktail-party): Sun 8/16 (7:30pm)
+
+    * [The Rivals Of Amziah King](https://drafthouse.com/raleigh/show/the-rivals-of-amziah-king): Thu 8/13 (6:00pm), Fri 8/14 (7:15pm), Sat 8/15 (7:15pm)
+
 ### Tue 7/28 11:31pm
 * New movies: Malignant
 
