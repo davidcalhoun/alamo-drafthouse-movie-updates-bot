@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 7/29 9:23am
+* New movies: Ernie & Emma, Ernie & Emma
+
+* New screenings: 
+    * [Ernie Emma](https://drafthouse.com/los-angeles/show/ernie-emma): Sat 9/5 (4:00pm), Sun 9/6 (4:00pm), Mon 9/7 (4:00pm), Tue 9/8 (4:00pm), Wed 9/9 (4:00pm), Thu 9/10 (4:00pm)
+
+    * [Live Q A Ernie Emma](https://drafthouse.com/los-angeles/show/live-q-a-ernie-emma): Fri 9/4 (7:00pm, 9:45pm)
+
 ### Wed 7/29 7:18am
 * New movies: The Rivals of Amziah King, The Rivals of Amziah King
 
