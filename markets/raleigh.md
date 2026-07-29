@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 7/28 11:31pm
+* New movies: Malignant
+
+* New screenings: 
+    * [Terror Tuesday Malignant](https://drafthouse.com/raleigh/show/terror-tuesday-malignant): Tue 8/4 (10:00pm)
+
 ### Tue 7/28 8:03am
 * New movies: One Night Only, Teenage Sex and Death at Camp Miasma, Hadestown: The Musical, One Night Only
 
