@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 7/29 7:18am
+* New movies: The Rivals of Amziah King, The Rivals of Amziah King
+
+* New screenings: 
+    * [Special Event The Rivals Of Amziah King Cocktail Party](https://drafthouse.com/los-angeles/show/special-event-the-rivals-of-amziah-king-cocktail-party): Sun 8/16 (6:00pm)
+
+    * [The Rivals Of Amziah King](https://drafthouse.com/los-angeles/show/the-rivals-of-amziah-king): Thu 8/13 (6:00pm), Fri 8/14 (3:15pm, 6:30pm), Sat 8/15 (3:15pm, 6:30pm), Sun 8/16 (2:45pm)
+
 ### Tue 7/28 7:17am
 * New movies: Teenage Sex and Death at Camp Miasma, One Night Only, One Night Only
 
