@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Wed 7/29 1:22pm
+* New movies: Ernie & Emma, Ernie & Emma
+
+* New screenings: 
+    * [Ernie Emma](https://drafthouse.com/raleigh/show/ernie-emma): Sun 9/27 (4:45pm), Mon 9/28 (4:45pm), Tue 9/29 (4:45pm), Wed 9/30 (4:45pm), Thu 10/1 (4:45pm)
+
+    * [Live Q A Ernie Emma](https://drafthouse.com/raleigh/show/live-q-a-ernie-emma): Sat 9/26 (7:00pm)
+
 ### Wed 7/29 11:14am
 * New movies: The Rivals of Amziah King, The Rivals of Amziah King
 
