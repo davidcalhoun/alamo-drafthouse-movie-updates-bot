@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Wed 7/29 7:06pm
+
+* New screenings: 
+    * [Spider Man Brand New Day](https://drafthouse.com/raleigh/show/spider-man-brand-new-day): Fri 7/31 (9:00am, 4:15pm), Sat 8/1 (8:30am, 4:15pm), Sun 8/2 (8:30am, 4:15pm)
+
 ### Wed 7/29 1:22pm
 * New movies: Ernie & Emma, Ernie & Emma
 
