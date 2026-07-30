@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Thu 7/30 6:14pm
+
+* New screenings: 
+    * [Spider Man Brand New Day](https://drafthouse.com/raleigh/show/spider-man-brand-new-day): Fri 7/31 (11:00pm), Sat 8/1 (11:00pm), Sun 8/2 (11:00pm)
+
 ### Thu 7/30 2:24pm
 * New movies: Mystery Machine 8/10/2026
 
