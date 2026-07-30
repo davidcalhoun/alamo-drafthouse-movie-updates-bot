@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 7/29 5:05pm
+
+* New screenings: 
+    * [Spider Man Brand New Day](https://drafthouse.com/los-angeles/show/spider-man-brand-new-day): Thu 7/30 (12:00pm, 1:45pm), Fri 7/31 (11:30am), Sat 8/1 (10:00pm), Sun 8/2 (10:45am)
+
 ### Wed 7/29 9:23am
 * New movies: Ernie & Emma, Ernie & Emma
 
