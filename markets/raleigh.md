@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Thu 7/30 2:24pm
+* New movies: Mystery Machine 8/10/2026
+
+* New screenings: 
+    * [Jeopardy Interactive](https://drafthouse.com/raleigh/show/jeopardy-interactive): Wed 9/30 (7:00pm)
+
+    * [Mystery Machine 8 10 2026](https://drafthouse.com/raleigh/show/mystery-machine-8-10-2026): Mon 8/10 (7:15pm)
+
 ### Wed 7/29 7:06pm
 
 * New screenings: 
