@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 7/31 1:21pm
+
+* New screenings: 
+    * [Spider Man Brand New Day](https://drafthouse.com/los-angeles/show/spider-man-brand-new-day): Sun 8/9 (5:15pm)
+
 ### Wed 7/29 5:05pm
 
 * New screenings: 
