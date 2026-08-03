@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Mon 8/3 12:42pm
+* New movies: Mystery Machine 8/10/2026, Practical Magic
+
+* New screenings: 
+    * [Mystery Machine 8 10 2026](https://drafthouse.com/los-angeles/show/mystery-machine-8-10-2026): Mon 8/10 (7:00pm)
+
+    * [Special Event Practical Magic Reissue](https://drafthouse.com/los-angeles/show/special-event-practical-magic-reissue): Tue 8/11 (7:00pm)
+
 ### Fri 7/31 1:21pm
 
 * New screenings: 
