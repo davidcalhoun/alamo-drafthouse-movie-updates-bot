@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 8/3 1:59pm
+
+* New screenings: 
+    * [Live Q A Ernie Emma](https://drafthouse.com/raleigh/show/live-q-a-ernie-emma): Sat 9/26 (10:00pm)
+
 ### Thu 7/30 6:14pm
 
 * New screenings: 
