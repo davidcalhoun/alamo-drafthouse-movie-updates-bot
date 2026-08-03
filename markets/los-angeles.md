@@ -1,6 +1,41 @@
 # los-angeles
 
 ## Movie updates
+### Mon 8/3 4:04pm
+
+* New screenings: 
+    * [American Pachuco The Legend Of Luis Valdez](https://drafthouse.com/los-angeles/show/american-pachuco-the-legend-of-luis-valdez): Sun 8/9 (9:00pm), Wed 8/12 (1:45pm)
+
+    * [Catvideofest 2026](https://drafthouse.com/los-angeles/show/catvideofest-2026): Fri 8/7 (11:00am, 11:15am), Sat 8/8 (11:15am, 11:30am), Sun 8/9 (11:15am, 2:45pm), Mon 8/10 (11:15am), Tue 8/11 (10:30am, 11:15am), Wed 8/12 (11:15am)
+
+    * [Her Private Hell](https://drafthouse.com/los-angeles/show/her-private-hell): Thu 8/6 (10:30pm)
+
+    * [I Want Your Sex](https://drafthouse.com/los-angeles/show/i-want-your-sex): Thu 8/6 (5:35pm, 8:10pm, 10:45pm), Fri 8/7 (7:30pm, 10:10pm), Sat 8/8 (7:45pm, 10:25pm), Sun 8/9 (7:45pm, 10:25pm), Mon 8/10 (7:45pm, 10:25pm), Tue 8/11 (7:45pm, 10:25pm), Wed 8/12 (7:45pm, 10:25pm)
+
+    * [Kids Camp Marcel The Shell With Shoes On](https://drafthouse.com/los-angeles/show/kids-camp-marcel-the-shell-with-shoes-on): Mon 8/10 (1:30pm), Wed 8/12 (11:00am)
+
+    * [Michael Manns Manhunter The Final Cut](https://drafthouse.com/los-angeles/show/michael-manns-manhunter-the-final-cut): Thu 8/6 (12:00pm, 3:15pm), Fri 8/7 (3:15pm), Sat 8/8 (7:00pm), Sun 8/9 (5:30pm), Mon 8/10 (4:30pm), Tue 8/11 (1:00pm), Wed 8/12 (10:00pm)
+
+    * [Mikey And Nicky](https://drafthouse.com/los-angeles/show/mikey-and-nicky): Mon 8/10 (4:15pm)
+
+    * [One Night Only](https://drafthouse.com/los-angeles/show/one-night-only): Thu 8/6 (2:00pm, 10:30pm), Fri 8/7 (11:20am, 2:10pm, 10:40pm), Sat 8/8 (11:00am, 1:50pm, 10:20pm), Sun 8/9 (11:20am, 2:10pm, 10:40pm), Mon 8/10 (11:20am, 2:10pm, 5:00pm, 7:50pm, 10:40pm), Tue 8/11 (11:20am, 2:10pm, 5:00pm, 7:50pm, 10:40pm), Wed 8/12 (11:20am, 2:10pm, 5:00pm, 7:50pm, 10:40pm)
+
+    * [Raising Cain](https://drafthouse.com/los-angeles/show/raising-cain): Sat 8/8 (10:15pm), Tue 8/11 (10:45pm), Wed 8/12 (10:30pm)
+
+    * [Sheep In The Box](https://drafthouse.com/los-angeles/show/sheep-in-the-box): Thu 8/6 (12:30pm), Sat 8/8 (6:00pm), Tue 8/11 (4:15pm)
+
+    * [Spider Man Brand New Day](https://drafthouse.com/los-angeles/show/spider-man-brand-new-day): Thu 8/6 (12:15pm, 12:30pm, 1:00pm, 1:30pm, 3:45pm, 4:00pm, 4:15pm, 4:30pm, 5:00pm, 6:30pm, 7:30pm, 8:00pm, 8:30pm, 10:00pm), Fri 8/7 (10:15am, 10:45am, 11:15am, 12:00pm, 12:30pm, 1:45pm, 2:15pm, 3:30pm, 4:00pm, 5:15pm, 5:45pm, 5:45pm, 6:30pm, 7:00pm, 7:30pm, 8:45pm, 9:15pm, 10:00pm, 10:30pm), Sat 8/8 (9:45am, 10:15am, 10:45am, 11:15am, 12:30pm, 1:15pm, 2:15pm, 4:00pm, 4:45pm, 5:45pm, 5:45pm, 7:30pm, 8:15pm, 9:15pm, 10:15pm), Sun 8/9 (9:45am, 10:15am, 10:45am, 11:15am, 12:00pm, 2:15pm, 2:45pm, 3:30pm, 5:45pm, 5:45pm, 6:15pm, 8:45pm, 9:15pm, 9:45pm, 10:30pm), Mon 8/10 (10:00am, 10:45am, 11:15am, 12:00pm, 12:30pm, 1:00pm, 2:15pm, 3:30pm, 4:00pm, 5:30pm, 5:45pm, 7:30pm, 9:15pm, 9:30pm, 10:00pm), Tue 8/11 (10:00am, 10:45am, 11:00am, 11:30am, 12:00pm, 12:45pm, 2:15pm, 2:30pm, 3:00pm, 3:30pm, 4:15pm, 5:30pm, 5:45pm, 6:00pm, 6:30pm, 7:45pm, 9:15pm, 9:30pm, 10:00pm, 10:00pm), Wed 8/12 (10:00am, 10:45am, 11:15am, 11:30am, 11:45am, 12:00pm, 2:15pm, 2:45pm, 3:00pm, 3:15pm, 3:30pm, 5:30pm, 5:45pm, 6:15pm, 6:30pm, 6:45pm, 7:00pm, 9:15pm, 9:45pm, 10:15pm, 10:30pm)
+
+    * [Super Troopers 3](https://drafthouse.com/los-angeles/show/super-troopers-3): Thu 8/6 (9:45pm), Fri 8/7 (12:15pm, 9:15pm), Sat 8/8 (12:15pm), Sun 8/9 (12:15pm, 9:15pm), Mon 8/10 (12:30pm, 3:30pm, 6:30pm, 10:00pm), Tue 8/11 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Wed 8/12 (12:45pm, 3:45pm, 6:45pm, 9:45pm)
+
+    * [The Invite](https://drafthouse.com/los-angeles/show/the-invite): Thu 8/6 (11:45am, 2:40pm), Fri 8/7 (1:30pm, 4:30pm), Sat 8/8 (1:45pm, 4:45pm), Sun 8/9 (1:45pm, 4:45pm), Mon 8/10 (1:45pm, 4:45pm), Tue 8/11 (1:45pm, 4:45pm), Wed 8/12 (1:45pm, 4:45pm)
+
+    * [The Odyssey](https://drafthouse.com/los-angeles/show/the-odyssey): Thu 8/6 (12:15pm, 1:15pm, 5:15pm, 7:45pm, 9:15pm), Fri 8/7 (11:00am, 1:45pm, 3:00pm, 7:00pm, 9:15pm), Sat 8/8 (11:00am, 1:45pm, 3:00pm, 7:00pm, 9:15pm), Sun 8/9 (11:00am, 1:45pm, 3:00pm, 7:00pm, 9:15pm), Mon 8/10 (11:30am, 1:30pm, 3:30pm, 7:30pm, 9:00pm), Tue 8/11 (11:30am, 1:30pm, 3:30pm, 7:30pm, 9:00pm), Wed 8/12 (11:30am, 1:30pm, 3:30pm, 7:30pm, 9:00pm)
+
+    * [The Samurai And The Prisoner](https://drafthouse.com/los-angeles/show/the-samurai-and-the-prisoner): Fri 8/7 (11:00am, 10:15pm), Sat 8/8 (11:00am, 9:15pm), Sun 8/9 (11:00am, 5:15pm, 10:15pm), Mon 8/10 (11:00am, 10:15pm), Tue 8/11 (11:00am, 10:15pm), Wed 8/12 (11:00am, 10:15pm)
+
+    * [The Untouchables](https://drafthouse.com/los-angeles/show/the-untouchables): Thu 8/6 (7:15pm)
+
 ### Mon 8/3 2:06pm
 * New movies: Finding Emily
 
