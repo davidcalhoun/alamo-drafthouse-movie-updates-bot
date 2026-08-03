@@ -1,6 +1,24 @@
 # raleigh
 
 ## Movie updates
+### Mon 8/3 5:13pm
+* New movies: Marcel the Shell with Shoes On, Raising Cain, CatVideoFest 2026
+
+* New screenings: 
+    * [Catvideofest 2026](https://drafthouse.com/raleigh/show/catvideofest-2026): Sat 8/8 (11:00am)
+
+    * [Kids Camp Marcel The Shell With Shoes On](https://drafthouse.com/raleigh/show/kids-camp-marcel-the-shell-with-shoes-on): Fri 8/7 (11:30am)
+
+    * [One Night Only](https://drafthouse.com/raleigh/show/one-night-only): Fri 8/7 (11:00am, 2:00pm, 7:30pm)
+
+    * [Raising Cain](https://drafthouse.com/raleigh/show/raising-cain): Sat 8/8 (9:15pm)
+
+    * [Sheep In The Box](https://drafthouse.com/raleigh/show/sheep-in-the-box): Fri 8/7 (6:15pm, 9:30pm)
+
+    * [Spider Man Brand New Day](https://drafthouse.com/raleigh/show/spider-man-brand-new-day): Fri 8/7 (10:30am, 12:00pm, 2:15pm, 3:30pm, 6:00pm, 7:00pm, 9:45pm, 10:30pm), Sat 8/8 (10:30am, 12:00pm, 2:15pm, 3:30pm, 6:00pm, 7:00pm, 9:45pm, 10:30pm)
+
+    * [Super Troopers 3](https://drafthouse.com/raleigh/show/super-troopers-3): Fri 8/7 (7:00pm, 10:00pm), Sat 8/8 (7:00pm, 10:00pm)
+
 ### Mon 8/3 1:59pm
 
 * New screenings: 
