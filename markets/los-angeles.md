@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 8/3 2:06pm
+* New movies: Finding Emily
+
+* New screenings: 
+    * [Finding Emily Live Q A](https://drafthouse.com/los-angeles/show/finding-emily-live-q-a): Tue 8/18 (6:00pm)
+
 ### Mon 8/3 12:42pm
 * New movies: Mystery Machine 8/10/2026, Practical Magic
 
