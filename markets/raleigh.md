@@ -1,6 +1,38 @@
 # raleigh
 
 ## Movie updates
+### Mon 8/3 7:12pm
+* New movies: The Samurai and the Prisoner, Practical Magic
+
+* New screenings: 
+    * [Catvideofest 2026](https://drafthouse.com/raleigh/show/catvideofest-2026): Sat 8/8 (12:00pm), Sun 8/9 (12:00pm)
+
+    * [Minions And Monsters](https://drafthouse.com/raleigh/show/minions-and-monsters): Thu 8/6 (11:00am), Fri 8/7 (10:30am), Sat 8/8 (10:30am), Sun 8/9 (10:30am), Mon 8/10 (10:30am), Tue 8/11 (10:00am), Wed 8/12 (10:00am)
+
+    * [Moana 2026](https://drafthouse.com/raleigh/show/moana-2026): Thu 8/6 (10:00am)
+
+    * [One Night Only](https://drafthouse.com/raleigh/show/one-night-only): Mon 8/10 (11:30am, 2:15pm, 5:00pm, 8:00pm, 10:45pm), Tue 8/11 (11:30am, 2:15pm, 5:15pm, 8:00pm, 10:45pm), Wed 8/12 (11:15am, 2:15pm, 5:15pm, 8:00pm, 10:45pm)
+
+    * [Sheep In The Box](https://drafthouse.com/raleigh/show/sheep-in-the-box): Sun 8/9 (11:00pm), Mon 8/10 (6:00pm, 10:00pm), Tue 8/11 (6:00pm, 10:00pm), Wed 8/12 (6:00pm, 10:00pm)
+
+    * [Special Event Practical Magic Reissue](https://drafthouse.com/raleigh/show/special-event-practical-magic-reissue): Tue 8/11 (6:45pm), Wed 8/12 (6:45pm)
+
+    * [Spider Man Brand New Day](https://drafthouse.com/raleigh/show/spider-man-brand-new-day): Thu 8/6 (10:00am, 10:30am, 11:30am, 11:45am, 1:00pm, 1:30pm, 1:30pm, 3:00pm, 3:15pm, 4:30pm, 5:00pm, 6:30pm, 8:00pm, 8:30pm, 10:00pm), Fri 8/7 (8:30am, 9:00am, 9:30am, 10:00am, 12:30pm, 1:00pm, 1:30pm, 2:45pm, 4:00pm, 4:30pm, 5:00pm, 6:30pm, 7:30pm, 8:00pm, 8:30pm, 10:00pm, 11:00pm), Sat 8/8 (8:30am, 9:00am, 9:30am, 10:00am, 12:30pm, 1:00pm, 1:30pm, 1:45pm, 4:00pm, 4:30pm, 5:00pm, 5:30pm, 7:30pm, 8:00pm, 8:30pm, 11:00pm), Sun 8/9 (8:30am, 9:00am, 9:30am, 10:00am, 12:30pm, 1:00pm, 2:00pm, 4:00pm, 4:30pm, 4:30pm, 5:30pm, 7:30pm, 8:00pm, 8:30pm, 9:00pm, 9:45pm), Mon 8/10 (10:00am, 10:30am, 11:00am, 11:30am, 12:00pm, 1:30pm, 2:00pm, 2:30pm, 3:00pm, 3:30pm, 5:00pm, 5:30pm, 6:00pm, 6:30pm, 8:30pm, 9:00pm, 9:15pm, 9:30pm, 10:00pm), Tue 8/11 (10:00am, 10:30am, 11:00am, 11:30am, 12:30pm, 1:30pm, 2:00pm, 2:30pm, 3:00pm, 4:00pm, 5:00pm, 5:30pm, 6:00pm, 6:30pm, 8:30pm, 9:00pm, 9:15pm, 10:30pm), Wed 8/12 (10:00am, 10:30am, 11:00am, 11:30am, 11:30am, 1:30pm, 2:00pm, 2:30pm, 3:00pm, 3:00pm, 5:00pm, 5:30pm, 6:00pm, 6:30pm, 8:30pm, 9:00pm, 9:15pm, 9:30pm)
+
+    * [Super Troopers 3](https://drafthouse.com/raleigh/show/super-troopers-3): Thu 8/6 (2:00pm, 4:30pm, 9:45pm), Fri 8/7 (9:45am, 12:45pm, 3:45pm), Sat 8/8 (9:45am, 12:45pm, 3:45pm), Sun 8/9 (9:45am, 12:45pm, 4:00pm), Mon 8/10 (10:15am, 1:15pm, 4:15pm, 7:00pm, 10:15pm), Tue 8/11 (10:15am, 1:15pm, 4:15pm, 7:15pm, 10:15pm), Wed 8/12 (10:15am, 1:15pm, 4:15pm, 7:15pm, 10:15pm)
+
+    * [Teenage Sex And Death At Camp Miasma](https://drafthouse.com/raleigh/show/teenage-sex-and-death-at-camp-miasma): Thu 8/13 (9:30pm)
+
+    * [The End Of Oak Street](https://drafthouse.com/raleigh/show/the-end-of-oak-street): Thu 8/13 (4:00pm)
+
+    * [The Odyssey](https://drafthouse.com/raleigh/show/the-odyssey): Thu 8/6 (10:30am, 11:30am, 2:00pm, 2:45pm, 6:00pm, 6:45pm, 10:00pm, 10:45pm), Fri 8/7 (10:00am, 1:15pm, 2:15pm, 5:15pm, 6:15pm, 9:15pm, 10:15pm), Sat 8/8 (10:00am, 1:15pm, 2:15pm, 5:15pm, 6:15pm, 9:30pm, 10:35pm), Sun 8/9 (10:00am, 1:15pm, 2:15pm, 5:15pm, 6:15pm, 9:30pm, 10:15pm), Mon 8/10 (10:00am, 1:15pm, 2:00pm, 5:15pm, 6:15pm, 9:15pm, 10:15pm), Tue 8/11 (10:45am, 1:00pm, 2:45pm, 5:00pm, 9:00pm, 9:45pm), Wed 8/12 (10:30am, 1:00pm, 2:45pm, 5:00pm, 9:15pm, 9:45pm)
+
+    * [The Rivals Of Amziah King](https://drafthouse.com/raleigh/show/the-rivals-of-amziah-king): Thu 8/13 (9:15pm)
+
+    * [The Samurai And The Prisoner](https://drafthouse.com/raleigh/show/the-samurai-and-the-prisoner): Fri 8/7 (2:30pm), Sat 8/8 (2:30pm), Sun 8/9 (2:30pm), Mon 8/10 (2:15pm), Tue 8/11 (2:15pm), Wed 8/12 (2:15pm)
+
+    * [Toy Story 5](https://drafthouse.com/raleigh/show/toy-story-5): Thu 8/6 (10:45am), Fri 8/7 (11:30am), Mon 8/10 (11:15am), Tue 8/11 (11:15am), Wed 8/12 (11:15am)
+
 ### Mon 8/3 5:13pm
 * New movies: Marcel the Shell with Shoes On, Raising Cain, CatVideoFest 2026
 
