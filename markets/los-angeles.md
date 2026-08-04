@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 8/4 6:04am
+* New movies: Finding Emily, The Dog Stars
+
+* New screenings: 
+    * [Finding Emily](https://drafthouse.com/los-angeles/show/finding-emily): Thu 8/27 (3:15pm, 6:15pm), Fri 8/28 (4:15pm, 7:15pm), Sat 8/29 (4:15pm, 7:15pm), Sun 8/30 (4:15pm, 7:15pm)
+
+    * [The Dog Stars](https://drafthouse.com/los-angeles/show/the-dog-stars): Thu 8/27 (3:30pm, 6:45pm), Fri 8/28 (3:30pm, 6:45pm), Sat 8/29 (3:30pm, 6:45pm), Sun 8/30 (3:30pm, 6:45pm)
+
 ### Mon 8/3 4:04pm
 
 * New screenings: 
