@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 8/4 10:50am
+* New movies: The Wrong Girls, The Magic Faraway Tree
+
+* New screenings: 
+    * [Advance Screening The Magic Faraway Tree](https://drafthouse.com/los-angeles/show/advance-screening-the-magic-faraway-tree): Wed 8/19 (7:15pm)
+
+    * [The Wrong Girls](https://drafthouse.com/los-angeles/show/the-wrong-girls): Thu 8/13 (4:20pm, 7:10pm, 10:00pm), Fri 8/14 (7:10pm, 10:00pm), Sat 8/15 (7:10pm, 10:00pm), Sun 8/16 (7:10pm, 10:00pm)
+
 ### Tue 8/4 6:04am
 * New movies: Finding Emily, The Dog Stars
 
