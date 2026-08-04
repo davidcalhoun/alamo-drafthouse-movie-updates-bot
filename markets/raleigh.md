@@ -1,6 +1,22 @@
 # raleigh
 
 ## Movie updates
+### Tue 8/4 11:30am
+* New movies: The Dog Stars, The Dog Stars, The Wrong Girls, The Magic Faraway Tree
+
+* New screenings: 
+    * [Advance Screening The Dog Stars](https://drafthouse.com/raleigh/show/advance-screening-the-dog-stars): Wed 8/26 (6:30pm)
+
+    * [Advance Screening The Magic Faraway Tree](https://drafthouse.com/raleigh/show/advance-screening-the-magic-faraway-tree): Wed 8/19 (7:00pm)
+
+    * [Teenage Sex And Death At Camp Miasma](https://drafthouse.com/raleigh/show/teenage-sex-and-death-at-camp-miasma): Fri 8/14 (9:00pm), Sat 8/15 (9:00pm)
+
+    * [The Dog Stars](https://drafthouse.com/raleigh/show/the-dog-stars): Thu 8/27 (7:00pm, 10:00pm), Sun 8/30 (7:00pm, 10:00pm), Mon 8/31 (7:00pm, 10:00pm), Tue 9/1 (6:00pm, 9:00pm), Wed 9/2 (6:00pm, 9:00pm)
+
+    * [The Rivals Of Amziah King](https://drafthouse.com/raleigh/show/the-rivals-of-amziah-king): Sat 8/15 (10:30pm)
+
+    * [The Wrong Girls Best Buds Screening](https://drafthouse.com/raleigh/show/the-wrong-girls-best-buds-screening): Sat 8/29 (4:20pm)
+
 ### Mon 8/3 7:12pm
 * New movies: The Samurai and the Prisoner, Practical Magic
 

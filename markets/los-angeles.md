@@ -1,12 +1,6 @@
 # los-angeles
 
 ## Movie updates
-### Tue 8/4 8:30am
-* New movies: The Magic Faraway Tree
-
-* New screenings: 
-    * [Advance Screening The Magic Faraway Tree](https://drafthouse.com/los-angeles/show/advance-screening-the-magic-faraway-tree): Wed 8/19 (7:15pm)
-
 ### Tue 8/4 6:04am
 * New movies: Finding Emily, The Dog Stars
 
