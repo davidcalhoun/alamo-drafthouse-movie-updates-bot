@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 8/5 8:16am
+* New movies: Insidious: Out of the Further
+
+* New screenings: 
+    * [Insidious Out Of The Further](https://drafthouse.com/los-angeles/show/insidious-out-of-the-further): Thu 8/20 (4:00pm, 7:00pm, 10:00pm), Fri 8/21 (4:00pm, 7:00pm, 10:00pm), Sat 8/22 (4:00pm, 7:00pm, 10:00pm), Sun 8/23 (4:00pm, 7:00pm, 10:00pm)
+
 ### Tue 8/4 10:50am
 * New movies: The Wrong Girls, The Magic Faraway Tree
 
