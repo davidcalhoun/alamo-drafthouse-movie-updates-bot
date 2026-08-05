@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 8/5 10:42am
+* New movies: The Wrong Girls
+
+* New screenings: 
+    * [Live Q A The Wrong Girls](https://drafthouse.com/los-angeles/show/live-q-a-the-wrong-girls): Sat 8/15 (8:30pm)
+
 ### Wed 8/5 8:16am
 * New movies: Insidious: Out of the Further
 
