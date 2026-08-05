@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 8/5 10:27am
+* New movies: Mutiny
+
+* New screenings: 
+    * [Mutiny](https://drafthouse.com/raleigh/show/mutiny): Thu 8/20 (7:30pm), Fri 8/21 (7:30pm), Sat 8/22 (7:30pm), Sun 8/23 (7:30pm)
+
 ### Tue 8/4 11:30am
 * New movies: The Dog Stars, The Dog Stars, The Wrong Girls, The Magic Faraway Tree
 
