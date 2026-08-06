@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 8/6 5:45am
+* New movies: Tony
+
+* New screenings: 
+    * [Tony](https://drafthouse.com/raleigh/show/tony): Thu 8/20 (6:30pm, 9:30pm), Fri 8/21 (6:00pm, 9:00pm), Sat 8/22 (6:00pm, 9:00pm), Sun 8/23 (7:00pm, 10:00pm)
+
 ### Wed 8/5 10:27am
 * New movies: Mutiny
 
