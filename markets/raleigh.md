@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Thu 8/6 11:21am
+
+* New screenings: 
+    * [The Odyssey](https://drafthouse.com/raleigh/show/the-odyssey): Thu 8/6 (9:45pm)
+
 ### Thu 8/6 5:45am
 * New movies: Tony
 
