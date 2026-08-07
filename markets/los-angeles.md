@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 8/7 10:50am
+* New movies: The Nutty Professor 1996, Gail Daughtry and the Celebrity Sex Pass
+
+* New screenings: 
+    * [Gail Daughtry And The Celebrity Sex Pass](https://drafthouse.com/los-angeles/show/gail-daughtry-and-the-celebrity-sex-pass): Sat 8/15 (10:15pm)
+
+    * [Special Event The Nutty Professor 1996 30th Anniversary](https://drafthouse.com/los-angeles/show/special-event-the-nutty-professor-1996-30th-anniversary): Sun 9/6 (12:00pm)
+
 ### Thu 8/6 5:41pm
 * New movies: LIVE SCORE: NOSFERATU 1922 - WITH THE INVINCIBLE CZARS
 
