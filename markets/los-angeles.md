@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Fri 8/7 12:01pm
+* New movies: The Twilight Saga: New Moon, Twilight 2008
+
+* New screenings: 
+    * [Special Event The Nutty Professor 1996 30th Anniversary](https://drafthouse.com/los-angeles/show/special-event-the-nutty-professor-1996-30th-anniversary): Wed 9/9 (4:15pm)
+
+    * [The Twilight Saga The Twilight Saga New Moon Fan Screening](https://drafthouse.com/los-angeles/show/the-twilight-saga-the-twilight-saga-new-moon-fan-screening): Sun 9/20 (7:00pm)
+
+    * [The Twilight Saga Twilight 2008 Fan Event](https://drafthouse.com/los-angeles/show/the-twilight-saga-twilight-2008-fan-event): Sun 9/13 (7:00pm)
+
 ### Fri 8/7 10:50am
 * New movies: The Nutty Professor 1996, Gail Daughtry and the Celebrity Sex Pass
 
