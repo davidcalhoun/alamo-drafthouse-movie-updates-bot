@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 8/6 5:41pm
+* New movies: LIVE SCORE: NOSFERATU 1922 - WITH THE INVINCIBLE CZARS
+
+* New screenings: 
+    * [Live Score Nosferatu 1922 W Invincibles Czars](https://drafthouse.com/los-angeles/show/live-score-nosferatu-1922-w-invincibles-czars): Mon 8/31 (10:15pm)
+
 ### Wed 8/5 10:42am
 * New movies: The Wrong Girls
 
