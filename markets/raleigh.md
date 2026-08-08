@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Fri 8/7 10:09pm
+* New movies: The Twilight Saga: New Moon, Twilight 2008
+
+* New screenings: 
+    * [The Twilight Saga The Twilight Saga New Moon Fan Screening](https://drafthouse.com/raleigh/show/the-twilight-saga-the-twilight-saga-new-moon-fan-screening): Fri 9/18 (7:15pm)
+
+    * [The Twilight Saga Twilight 2008 Fan Event](https://drafthouse.com/raleigh/show/the-twilight-saga-twilight-2008-fan-event): Sun 9/13 (7:15pm)
+
 ### Thu 8/6 11:21am
 
 * New screenings: 
