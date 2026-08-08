@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Sat 8/8 2:51pm
+* New movies: Michael Mann's Manhunter: The Final Cut, The Nutty Professor 1996, Gail Daughtry and the Celebrity Sex Pass
+
+* New screenings: 
+    * [Gail Daughtry And The Celebrity Sex Pass](https://drafthouse.com/raleigh/show/gail-daughtry-and-the-celebrity-sex-pass): Sat 8/15 (9:15pm)
+
+    * [Michael Manns Manhunter The Final Cut](https://drafthouse.com/raleigh/show/michael-manns-manhunter-the-final-cut): Fri 8/14 (6:15pm), Sun 8/16 (6:30pm)
+
+    * [Special Event The Nutty Professor 1996 30th Anniversary](https://drafthouse.com/raleigh/show/special-event-the-nutty-professor-1996-30th-anniversary): Sun 9/6 (12:00pm), Wed 9/9 (3:00pm)
+
 ### Fri 8/7 10:09pm
 * New movies: The Twilight Saga: New Moon, Twilight 2008
 
