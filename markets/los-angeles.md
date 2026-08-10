@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 8/10 8:01am
+* New movies: LINKIN PARK: UNSHATTER
+
+* New screenings: 
+    * [Linkin Park Unshatter](https://drafthouse.com/los-angeles/show/linkin-park-unshatter): Wed 9/30 (7:30pm), Fri 10/2 (4:00pm)
+
 ### Sun 8/9 10:39pm
 * New movies: Faust 1926
 
