@@ -1,6 +1,48 @@
 # raleigh
 
 ## Movie updates
+### Mon 8/10 7:43pm
+* New movies: Spider-Man: Brand New Day, CatVideoFest 2026, Mikey and Nicky, Marcel the Shell with Shoes On
+
+* New screenings: 
+    * [Catvideofest 2026](https://drafthouse.com/raleigh/show/catvideofest-2026): Thu 8/13 (12:45pm)
+
+    * [Hdr By Barco Spider Man Brand New Day](https://drafthouse.com/raleigh/show/hdr-by-barco-spider-man-brand-new-day): Fri 8/14 (12:15pm, 3:45pm, 7:15pm, 10:45pm), Sat 8/15 (11:30am, 3:30pm, 7:15pm, 10:45pm), Sun 8/16 (10:45am, 2:15pm, 6:00pm, 9:30pm), Mon 8/17 (11:00am, 2:30pm, 6:00pm, 9:30pm), Tue 8/18 (10:30am, 2:15pm, 6:00pm, 9:45pm), Wed 8/19 (11:00am, 2:30pm, 6:00pm, 9:30pm)
+
+    * [Katseye Wild Hearts](https://drafthouse.com/raleigh/show/katseye-wild-hearts): Thu 8/13 (7:15pm)
+
+    * [Kids Camp Marcel The Shell With Shoes On](https://drafthouse.com/raleigh/show/kids-camp-marcel-the-shell-with-shoes-on): Thu 8/13 (11:15am)
+
+    * [Michael Manns Manhunter The Final Cut](https://drafthouse.com/raleigh/show/michael-manns-manhunter-the-final-cut): Sat 8/15 (6:00pm), Sun 8/16 (8:45pm)
+
+    * [Mikey And Nicky](https://drafthouse.com/raleigh/show/mikey-and-nicky): Thu 8/13 (3:00pm)
+
+    * [Mutiny](https://drafthouse.com/raleigh/show/mutiny): Thu 8/20 (10:15pm)
+
+    * [Mysterious Skin](https://drafthouse.com/raleigh/show/mysterious-skin): Mon 8/17 (9:00pm)
+
+    * [One Night Only](https://drafthouse.com/raleigh/show/one-night-only): Thu 8/13 (10:15am, 1:15pm, 4:15pm, 7:15pm, 10:30pm), Fri 8/14 (10:15am, 1:15pm, 4:00pm, 6:45pm, 9:45pm), Sat 8/15 (10:00am, 12:45pm, 3:45pm, 6:45pm, 11:00pm), Sun 8/16 (10:15am, 1:15pm, 4:00pm, 6:45pm), Mon 8/17 (10:15am, 1:15pm, 4:00pm, 6:45pm, 9:45pm), Tue 8/18 (10:15am, 1:15pm, 4:00pm, 6:45pm, 9:45pm), Wed 8/19 (10:15am, 1:00pm, 3:45pm, 6:30pm, 9:15pm)
+
+    * [Paw Patrol The Dino Movie](https://drafthouse.com/raleigh/show/paw-patrol-the-dino-movie): Mon 8/17 (10:00am, 12:45pm, 3:30pm, 6:15pm), Tue 8/18 (10:30am, 1:15pm, 4:00pm, 6:45pm), Wed 8/19 (10:00am, 12:35pm, 3:15pm, 6:00pm)
+
+    * [Six The Musical Live](https://drafthouse.com/raleigh/show/six-the-musical-live): Thu 8/13 (3:15pm)
+
+    * [Spider Man Brand New Day](https://drafthouse.com/raleigh/show/spider-man-brand-new-day): Thu 8/13 (11:00am, 11:30am, 12:00pm, 12:30pm, 2:30pm, 3:15pm, 3:30pm, 6:15pm, 6:45pm, 9:45pm, 10:00pm, 10:15pm), Fri 8/14 (11:00am, 11:30am, 2:30pm, 2:45pm, 3:00pm, 7:30pm, 9:00pm, 9:15pm), Sat 8/15 (2:30pm, 2:45pm, 6:45pm, 7:30pm, 9:00pm, 10:15pm), Sun 8/16 (11:45am, 1:30pm, 3:15pm, 5:00pm, 7:00pm, 8:30pm, 10:30pm), Mon 8/17 (10:30am, 12:00pm, 12:30pm, 2:00pm, 3:30pm, 5:30pm, 10:00pm), Tue 8/18 (12:00pm, 2:45pm, 3:30pm, 6:30pm, 7:00pm, 10:00pm), Wed 8/19 (11:30am, 12:00pm, 12:30pm, 3:00pm, 3:45pm, 7:30pm, 10:00pm)
+
+    * [Super Troopers 3](https://drafthouse.com/raleigh/show/super-troopers-3): Thu 8/13 (10:45am, 1:45pm, 4:45pm), Fri 8/14 (11:30am, 2:15pm, 5:00pm), Sat 8/15 (11:30am, 2:15pm, 5:00pm), Sun 8/16 (11:45am, 2:30pm, 5:15pm, 10:15pm), Mon 8/17 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:45pm), Tue 8/18 (11:15am, 2:00pm, 5:00pm, 7:45pm, 10:35pm), Wed 8/19 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:45pm)
+
+    * [Teenage Sex And Death At Camp Miasma](https://drafthouse.com/raleigh/show/teenage-sex-and-death-at-camp-miasma): Thu 8/13 (7:45pm, 10:45pm), Fri 8/14 (10:30am, 1:30pm, 4:30pm, 6:30pm, 7:45pm, 10:45pm, 11:00pm), Sat 8/15 (10:30am, 1:30pm, 4:30pm, 7:45pm, 10:15pm, 10:45pm), Sun 8/16 (11:00am, 3:00pm, 8:00pm, 9:00pm, 9:40pm), Mon 8/17 (10:15am, 1:15pm, 4:15pm, 7:15pm, 9:15pm, 10:15pm), Tue 8/18 (10:00am, 11:45am, 1:00pm, 3:00pm, 4:15pm, 7:15pm, 9:15pm, 10:45pm), Wed 8/19 (10:30am, 1:30pm, 4:30pm, 7:30pm, 9:00pm, 10:30pm)
+
+    * [The End Of Oak Street](https://drafthouse.com/raleigh/show/the-end-of-oak-street): Fri 8/14 (10:45am, 1:30pm, 4:15pm), Sat 8/15 (10:15am, 1:15pm, 4:15pm), Sun 8/16 (10:15am, 12:45pm, 3:45pm), Mon 8/17 (10:45am, 1:30pm, 4:15pm, 7:00pm, 10:00pm), Tue 8/18 (10:45am, 1:30pm, 4:15pm, 7:00pm, 10:00pm), Wed 8/19 (10:30am, 1:30pm, 4:15pm, 7:15pm, 10:30pm)
+
+    * [The Odyssey](https://drafthouse.com/raleigh/show/the-odyssey): Thu 8/13 (10:00am, 11:00am, 2:00pm, 6:00pm, 10:00pm), Fri 8/14 (10:00am, 2:00pm, 6:00pm, 10:15pm), Sat 8/15 (10:45am, 2:00pm, 6:15pm, 9:45pm), Sun 8/16 (11:00am, 2:00pm, 6:15pm, 9:45pm), Mon 8/17 (10:00am, 2:00pm, 6:15pm, 10:15pm), Tue 8/18 (10:00am, 2:00pm, 6:00pm, 10:15pm), Wed 8/19 (10:00am, 2:00pm, 6:15pm, 10:15pm)
+
+    * [The Rivals Of Amziah King](https://drafthouse.com/raleigh/show/the-rivals-of-amziah-king): Thu 8/13 (10:30pm), Fri 8/14 (11:15am, 12:15pm, 3:45pm, 10:30pm), Sat 8/15 (10:30am, 12:15pm, 3:45pm), Sun 8/16 (10:00am, 1:00pm, 4:15pm, 10:45pm), Mon 8/17 (11:15am, 2:30pm, 6:00pm, 9:30pm), Tue 8/18 (11:30am, 11:30am, 2:45pm, 6:00pm, 10:00pm), Wed 8/19 (12:15pm, 3:30pm, 6:45pm, 10:00pm)
+
+    * [Wet Hot American Summer 25th Anniversary](https://drafthouse.com/raleigh/show/wet-hot-american-summer-25th-anniversary): Tue 8/18 (10:30pm)
+
+    * [Your Letter](https://drafthouse.com/raleigh/show/your-letter): Mon 8/17 (10:30pm)
+
 ### Mon 8/10 11:08am
 * New movies: LINKIN PARK: UNSHATTER
 
