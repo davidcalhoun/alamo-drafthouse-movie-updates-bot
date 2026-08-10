@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 8/10 11:08am
+* New movies: LINKIN PARK: UNSHATTER
+
+* New screenings: 
+    * [Linkin Park Unshatter](https://drafthouse.com/raleigh/show/linkin-park-unshatter): Wed 9/30 (6:30pm), Fri 10/2 (4:00pm)
+
 ### Sat 8/8 2:51pm
 * New movies: Michael Mann's Manhunter: The Final Cut, The Nutty Professor 1996, Gail Daughtry and the Celebrity Sex Pass
 
