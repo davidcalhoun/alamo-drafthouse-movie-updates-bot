@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Sun 8/9 10:39pm
+* New movies: Faust 1926
+
+* New screenings: 
+    * [Live Score Faust 1926 W Invincible Czars](https://drafthouse.com/los-angeles/show/live-score-faust-1926-w-invincible-czars): Mon 8/31 (7:00pm)
+
 ### Fri 8/7 12:01pm
 * New movies: The Twilight Saga: New Moon, Twilight 2008
 
