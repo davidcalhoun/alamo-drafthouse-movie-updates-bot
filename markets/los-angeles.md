@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 8/11 10:02am
+* New movies: Destroy All Monsters
+
+* New screenings: 
+    * [Destroy All Monsters](https://drafthouse.com/los-angeles/show/destroy-all-monsters): Sun 9/27 (12:00pm)
+
 ### Mon 8/10 6:59pm
 
 * New screenings: 
