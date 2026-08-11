@@ -1,6 +1,33 @@
 # los-angeles
 
 ## Movie updates
+### Mon 8/10 6:59pm
+
+* New screenings: 
+    * [I Want Your Sex](https://drafthouse.com/los-angeles/show/i-want-your-sex): Thu 8/13 (2:45pm), Fri 8/14 (2:45pm), Sat 8/15 (2:30pm), Sun 8/16 (2:30pm), Mon 8/17 (1:45pm), Tue 8/18 (2:00pm), Wed 8/19 (1:00pm)
+
+    * [Michael Manns Manhunter The Final Cut](https://drafthouse.com/los-angeles/show/michael-manns-manhunter-the-final-cut): Thu 8/13 (4:45pm), Fri 8/14 (4:45pm), Sat 8/15 (6:45pm), Sun 8/16 (6:30pm), Tue 8/18 (2:45pm), Wed 8/19 (10:00pm)
+
+    * [One Night Only](https://drafthouse.com/los-angeles/show/one-night-only): Thu 8/13 (10:30am, 1:30pm, 4:30pm, 7:30pm, 10:30pm), Fri 8/14 (10:30am, 1:30pm, 4:30pm, 7:45pm, 10:45pm), Sat 8/15 (10:30am, 1:30pm, 4:30pm, 7:45pm, 10:45pm), Sun 8/16 (10:30am, 1:15pm, 4:30pm, 7:45pm, 10:45pm), Mon 8/17 (10:30am, 1:15pm, 4:30pm, 7:45pm, 10:45pm), Tue 8/18 (10:30am, 1:15pm, 4:30pm, 7:45pm, 10:45pm), Wed 8/19 (10:30am, 1:30pm, 4:45pm, 7:45pm, 10:45pm)
+
+    * [Spider Man Brand New Day](https://drafthouse.com/los-angeles/show/spider-man-brand-new-day): Thu 8/13 (10:15am, 10:45am, 11:00am, 11:15am, 1:45pm, 2:15pm, 2:30pm, 2:45pm, 5:15pm, 6:30pm, 9:00pm, 10:15pm), Fri 8/14 (10:15am, 11:00am, 1:45pm, 2:30pm, 5:15pm, 6:00pm, 8:15pm, 9:30pm, 10:00pm), Sat 8/15 (10:15am, 11:00am, 1:45pm, 2:30pm, 5:15pm, 6:00pm, 9:30pm, 10:00pm), Sun 8/16 (10:15am, 10:45am, 1:45pm, 2:15pm, 5:15pm, 6:15pm, 8:15pm, 9:45pm, 10:15pm), Mon 8/17 (10:15am, 11:00am, 1:45pm, 2:30pm, 5:15pm, 6:00pm, 9:30pm, 10:00pm), Tue 8/18 (10:15am, 11:00am, 1:45pm, 2:30pm, 5:15pm, 6:00pm, 9:15pm, 9:30pm), Wed 8/19 (10:15am, 11:00am, 1:45pm, 2:30pm, 5:15pm, 6:00pm, 9:30pm, 10:00pm)
+
+    * [Super Troopers 3](https://drafthouse.com/los-angeles/show/super-troopers-3): Thu 8/13 (12:15pm), Fri 8/14 (10:30pm), Sat 8/15 (10:30pm), Sun 8/16 (10:30pm), Mon 8/17 (10:30pm), Tue 8/18 (10:30pm), Wed 8/19 (10:30pm)
+
+    * [Teenage Sex And Death At Camp Miasma](https://drafthouse.com/los-angeles/show/teenage-sex-and-death-at-camp-miasma): Thu 8/13 (5:45pm, 6:45pm, 8:00pm, 8:15pm, 8:45pm, 9:45pm), Fri 8/14 (10:00am, 11:45am, 1:00pm, 2:45pm, 5:45pm, 8:00pm, 8:45pm), Sat 8/15 (10:00am, 11:45am, 1:00pm, 2:45pm, 5:45pm, 8:45pm), Sun 8/16 (10:00am, 11:45am, 1:00pm, 2:45pm, 5:45pm, 8:45pm, 9:30pm), Mon 8/17 (10:00am, 11:45am, 1:00pm, 2:45pm, 4:00pm, 5:45pm, 7:00pm, 8:45pm, 9:45pm, 10:00pm), Tue 8/18 (10:00am, 11:30am, 11:45am, 1:00pm, 2:30pm, 4:00pm, 7:00pm, 10:00pm, 10:45pm), Wed 8/19 (12:15pm, 12:30pm, 3:15pm, 3:30pm, 6:45pm, 9:15pm, 9:45pm)
+
+    * [The End Of Oak Street](https://drafthouse.com/los-angeles/show/the-end-of-oak-street): Thu 8/13 (4:00pm), Fri 8/14 (11:15am, 2:00pm, 10:30pm), Sat 8/15 (11:15am, 2:00pm, 10:30pm), Sun 8/16 (11:15am, 2:00pm, 10:15pm), Mon 8/17 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Tue 8/18 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Wed 8/19 (11:00am, 1:45pm, 4:30pm, 6:30pm, 10:25pm)
+
+    * [The Invite](https://drafthouse.com/los-angeles/show/the-invite): Thu 8/13 (11:45am), Fri 8/14 (11:30am), Sat 8/15 (11:30am), Sun 8/16 (11:30am), Mon 8/17 (10:45am), Tue 8/18 (10:45am), Wed 8/19 (10:00am)
+
+    * [The Odyssey](https://drafthouse.com/los-angeles/show/the-odyssey): Thu 8/13 (10:00am, 11:00am, 12:00pm, 12:30pm, 2:00pm, 3:00pm, 6:00pm, 10:00pm), Fri 8/14 (10:00am, 12:30pm, 2:00pm, 6:00pm, 9:00pm), Sat 8/15 (10:00am, 2:00pm, 6:00pm, 9:00pm), Sun 8/16 (10:00am, 2:00pm, 6:00pm, 9:00pm), Mon 8/17 (10:00am, 12:15pm, 2:00pm, 6:00pm, 9:00pm), Tue 8/18 (10:00am, 2:00pm, 6:15pm, 9:00pm), Wed 8/19 (10:00am, 2:00pm, 6:00pm, 9:00pm)
+
+    * [The Rivals Of Amziah King](https://drafthouse.com/los-angeles/show/the-rivals-of-amziah-king): Thu 8/13 (9:15pm), Fri 8/14 (12:00pm, 9:45pm), Sat 8/15 (12:00pm, 9:45pm), Sun 8/16 (11:00am, 9:15pm), Mon 8/17 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Tue 8/18 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Wed 8/19 (11:45am, 3:00pm, 6:15pm, 9:30pm)
+
+    * [The Samurai And The Prisoner](https://drafthouse.com/los-angeles/show/the-samurai-and-the-prisoner): Thu 8/13 (11:30am, 3:00pm), Fri 8/14 (11:15am, 3:00pm, 6:45pm), Sat 8/15 (11:15am, 3:00pm, 6:45pm), Sun 8/16 (11:15am, 3:00pm, 6:45pm), Mon 8/17 (11:15am, 3:00pm, 6:45pm), Tue 8/18 (11:15am, 3:00pm, 6:45pm), Wed 8/19 (11:15am, 3:00pm, 7:00pm)
+
+    * [The Wrong Girls](https://drafthouse.com/los-angeles/show/the-wrong-girls): Thu 8/13 (5:30pm), Fri 8/14 (10:45am, 1:30pm, 4:15pm, 5:30pm), Sat 8/15 (10:45am, 1:30pm, 4:15pm, 5:15pm), Sun 8/16 (10:45am, 1:30pm, 4:15pm, 5:30pm), Mon 8/17 (10:45am, 1:30pm, 4:15pm, 4:45pm, 7:15pm, 10:15pm), Tue 8/18 (10:45am, 1:30pm, 4:15pm, 4:45pm, 7:15pm, 10:15pm), Wed 8/19 (10:15am, 10:45am, 1:30pm, 3:45pm, 4:15pm, 7:30pm, 10:15pm)
+
 ### Mon 8/10 8:01am
 * New movies: LINKIN PARK: UNSHATTER
 
