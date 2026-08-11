@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 8/11 1:06pm
+* New movies: Destroy All Monsters
+
+* New screenings: 
+    * [Destroy All Monsters](https://drafthouse.com/raleigh/show/destroy-all-monsters): Sun 9/27 (11:30am)
+
 ### Mon 8/10 7:43pm
 * New movies: Spider-Man: Brand New Day, CatVideoFest 2026, Mikey and Nicky, Marcel the Shell with Shoes On
 
