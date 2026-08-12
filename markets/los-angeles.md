@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 8/12 9:00am
+* New movies: Practical Magic 2, Practical Magic 2
+
+* New screenings: 
+    * [Dress Up Screening Practical Magic 2 Midnight Margarita Dress Up Screening](https://drafthouse.com/los-angeles/show/dress-up-screening-practical-magic-2-midnight-margarita-dress-up-screening): Sat 9/12 (10:00pm)
+
+    * [Practical Magic 2](https://drafthouse.com/los-angeles/show/practical-magic-2): Thu 9/10 (3:00pm, 6:00pm), Fri 9/11 (10:00am, 1:00pm, 4:00pm, 7:00pm), Sat 9/12 (10:00am, 1:00pm, 4:00pm, 7:00pm), Sun 9/13 (10:00am, 1:00pm, 4:00pm, 7:00pm)
+
 ### Tue 8/11 10:02am
 * New movies: Destroy All Monsters
 
