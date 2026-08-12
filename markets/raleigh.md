@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Wed 8/12 12:05pm
+* New movies: Practical Magic 2, Practical Magic 2
+
+* New screenings: 
+    * [Dress Up Screening Practical Magic 2 Midnight Margarita Dress Up Screening](https://drafthouse.com/raleigh/show/dress-up-screening-practical-magic-2-midnight-margarita-dress-up-screening): Sat 9/12 (9:00pm)
+
+    * [Practical Magic 2](https://drafthouse.com/raleigh/show/practical-magic-2): Thu 9/10 (6:00pm), Fri 9/11 (6:00pm, 9:00pm), Sat 9/12 (6:00pm), Sun 9/13 (6:30pm, 9:30pm)
+
 ### Tue 8/11 1:06pm
 * New movies: Destroy All Monsters
 
