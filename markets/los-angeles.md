@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 8/13 2:50pm
+
+* New screenings: 
+    * [The Samurai And The Prisoner](https://drafthouse.com/los-angeles/show/the-samurai-and-the-prisoner): Tue 8/18 (11:15am, 3:00pm)
+
 ### Wed 8/12 9:00am
 * New movies: Practical Magic 2, Practical Magic 2
 
