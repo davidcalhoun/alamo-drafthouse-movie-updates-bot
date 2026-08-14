@@ -1,6 +1,20 @@
 # raleigh
 
 ## Movie updates
+### Fri 8/14 5:33pm
+* New movies: The 5,000 Fingers of Dr. T., Nightborn, TERROR TUESDAY: THE DEAD NEXT DOOR, TERROR TUESDAY: THE SECT - 4K RESTORATION
+
+* New screenings: 
+    * [Linkin Park Unshatter](https://drafthouse.com/raleigh/show/linkin-park-unshatter): Sat 10/3 (4:00pm)
+
+    * [Nightborn](https://drafthouse.com/raleigh/show/nightborn): Tue 8/25 (7:15pm)
+
+    * [Terror Tuesday The Dead Next Door](https://drafthouse.com/raleigh/show/terror-tuesday-the-dead-next-door): Tue 9/8 (9:30pm)
+
+    * [Terror Tuesday The Sect 4k Restoration](https://drafthouse.com/raleigh/show/terror-tuesday-the-sect-4k-restoration): Tue 9/29 (9:30pm)
+
+    * [Weird Wednesday The 5 000 Fingers Of Dr T](https://drafthouse.com/raleigh/show/weird-wednesday-the-5-000-fingers-of-dr-t): Wed 9/23 (9:30pm)
+
 ### Fri 8/14 3:51pm
 * New movies: Amyl and The Sniffers Present Truth or Consequence
 
