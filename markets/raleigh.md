@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 8/13 10:35pm
+* New movies: Avengers: Doomsday
+
+* New screenings: 
+    * [Avengers Doomsday](https://drafthouse.com/raleigh/show/avengers-doomsday): Fri 12/18 (10:20am, 6:00pm), Sat 12/19 (2:00pm, 9:40pm), Sun 12/20 (10:20am, 6:00pm), Mon 12/21 (2:00pm, 9:40pm), Tue 12/22 (10:20am, 6:00pm), Wed 12/23 (2:00pm, 9:40pm)
+
 ### Wed 8/12 12:05pm
 * New movies: Practical Magic 2, Practical Magic 2
 
