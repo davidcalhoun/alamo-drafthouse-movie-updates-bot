@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 8/14 1:01pm
+
+* New screenings: 
+    * [Avengers Doomsday](https://drafthouse.com/raleigh/show/avengers-doomsday): Thu 12/17 (2:00pm, 6:00pm, 10:00pm)
+
 ### Fri 8/14 11:58am
 * New movies: Insidious: Out of the Further, eXistenZ, TERROR TUESDAY: SHIVERS
 
