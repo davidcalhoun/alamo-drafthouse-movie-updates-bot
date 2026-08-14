@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 8/14 4:24pm
+* New movies: The Dog Stars
+
+* New screenings: 
+    * [Advance Screening The Dog Stars](https://drafthouse.com/los-angeles/show/advance-screening-the-dog-stars): Wed 8/26 (6:30pm)
+
 ### Fri 8/14 9:56am
 * New movies: Avengers: Doomsday
 
