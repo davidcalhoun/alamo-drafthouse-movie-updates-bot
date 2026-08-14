@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 8/14 3:51pm
+* New movies: Amyl and The Sniffers Present Truth or Consequence
+
+* New screenings: 
+    * [Amyl And The Sniffers Present Truth Or Consequence](https://drafthouse.com/raleigh/show/amyl-and-the-sniffers-present-truth-or-consequence): Thu 8/27 (6:30pm)
+
 ### Fri 8/14 1:01pm
 
 * New screenings: 
