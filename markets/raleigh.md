@@ -1,6 +1,18 @@
 # raleigh
 
 ## Movie updates
+### Fri 8/14 11:58am
+* New movies: Insidious: Out of the Further, eXistenZ, TERROR TUESDAY: SHIVERS
+
+* New screenings: 
+    * [Avengers Doomsday](https://drafthouse.com/raleigh/show/avengers-doomsday): Thu 12/17 (3:00pm, 7:00pm, 11:00pm), Fri 12/18 (7:25am, 11:50am, 3:00pm, 7:00pm, 11:00pm), Sat 12/19 (7:25am, 11:50am, 3:00pm, 7:00pm, 11:00pm), Sun 12/20 (7:25am, 11:50am, 3:00pm, 7:00pm, 11:00pm), Fri 12/25 (8:30am, 12:30pm, 4:30pm, 8:30pm), Sat 12/26 (8:30am, 12:30pm, 4:30pm, 8:30pm), Sun 12/27 (9:00am, 1:00pm, 5:00pm, 9:00pm), Mon 12/28 (9:30am, 1:30pm, 5:30pm, 9:30pm)
+
+    * [Insidious Out Of The Further](https://drafthouse.com/raleigh/show/insidious-out-of-the-further): Thu 8/20 (3:00pm, 6:00pm, 9:00pm), Fri 8/21 (6:30pm, 10:00pm), Sat 8/22 (7:00pm, 10:00pm)
+
+    * [Terror Tuesday Shivers](https://drafthouse.com/raleigh/show/terror-tuesday-shivers): Tue 9/1 (9:30pm)
+
+    * [Weird Wednesday Existenz](https://drafthouse.com/raleigh/show/weird-wednesday-existenz): Wed 9/2 (9:30pm)
+
 ### Thu 8/13 10:35pm
 * New movies: Avengers: Doomsday
 
