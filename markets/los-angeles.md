@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 8/14 9:56am
+* New movies: Avengers: Doomsday
+
+* New screenings: 
+    * [Avengers Doomsday](https://drafthouse.com/los-angeles/show/avengers-doomsday): Thu 12/17 (2:00pm, 3:00pm, 6:00pm, 7:00pm, 10:00pm, 11:00pm), Fri 12/18 (7:00am, 8:00am, 11:00am, 12:00pm, 3:00pm, 4:00pm, 7:00pm, 8:00pm, 11:00pm), Sat 12/19 (7:00am, 8:00am, 11:00am, 12:00pm, 3:00pm, 4:00pm, 7:00pm, 8:00pm, 11:00pm), Sun 12/20 (7:00am, 8:00am, 11:00am, 12:00pm, 3:00pm, 4:00pm, 7:00pm, 8:00pm, 11:00pm)
+
 ### Thu 8/13 2:50pm
 
 * New screenings: 
