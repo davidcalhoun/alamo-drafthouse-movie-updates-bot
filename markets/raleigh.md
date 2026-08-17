@@ -1,6 +1,28 @@
 # raleigh
 
 ## Movie updates
+### Mon 8/17 12:37pm
+* New movies: Nacho Libre, The Birdcage, First Blood, Star Trek II: The Wrath of Khan, Star Trek III: The Search for Spock, Star Trek IV: The Voyage Home, Star Trek: The Motion Picture - Director's Edition, Star Trek: The Genesis Trilogy, TERROR TUESDAY: ANGEL HEART
+
+* New screenings: 
+    * [First Blood](https://drafthouse.com/raleigh/show/first-blood): Sat 9/12 (3:45pm)
+
+    * [Movie Party Nacho Libre](https://drafthouse.com/raleigh/show/movie-party-nacho-libre): Thu 10/1 (6:00pm)
+
+    * [Queer Film Theory 101 The Birdcage](https://drafthouse.com/raleigh/show/queer-film-theory-101-the-birdcage): Mon 9/28 (7:00pm)
+
+    * [Special Event Star Trek Ii The Wrath Of Khan Space Seed](https://drafthouse.com/raleigh/show/special-event-star-trek-ii-the-wrath-of-khan-space-seed): Sat 9/5 (2:30pm)
+
+    * [Special Event Star Trek Iii The Search For Spock Amok Time](https://drafthouse.com/raleigh/show/special-event-star-trek-iii-the-search-for-spock-amok-time): Sun 9/6 (2:30pm)
+
+    * [Special Event Star Trek Iv The Voyage Home The City On The Edge Of Forever](https://drafthouse.com/raleigh/show/special-event-star-trek-iv-the-voyage-home-the-city-on-the-edge-of-forever): Mon 9/7 (3:00pm)
+
+    * [Special Event Star Trek The Motion Picture Directors Edition The Changeling](https://drafthouse.com/raleigh/show/special-event-star-trek-the-motion-picture-directors-edition-the-changeling): Fri 9/4 (2:00pm)
+
+    * [Star Trek The Genesis Trilogy](https://drafthouse.com/raleigh/show/star-trek-the-genesis-trilogy): Tue 9/8 (12:00pm)
+
+    * [Terror Tuesday Angel Heart](https://drafthouse.com/raleigh/show/terror-tuesday-angel-heart): Tue 9/15 (9:30pm)
+
 ### Mon 8/17 12:51am
 * New movies: By Any Means
 
