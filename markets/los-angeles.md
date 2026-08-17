@@ -1,6 +1,56 @@
 # los-angeles
 
 ## Movie updates
+### Mon 8/17 3:27pm
+* New movies: Tony, The Piano
+
+* New screenings: 
+    * [A New Leaf](https://drafthouse.com/los-angeles/show/a-new-leaf): Thu 8/20 (1:40pm)
+
+    * [Blow Out](https://drafthouse.com/los-angeles/show/blow-out): Sat 8/22 (10:15pm), Sun 8/23 (10:15pm), Tue 8/25 (1:30pm)
+
+    * [Carrie](https://drafthouse.com/los-angeles/show/carrie): Sat 8/22 (1:30pm), Sun 8/23 (6:30pm), Tue 8/25 (10:45am, 9:45pm)
+
+    * [De Palma](https://drafthouse.com/los-angeles/show/de-palma): Sun 8/23 (3:30pm), Mon 8/24 (3:00pm), Tue 8/25 (10:15pm)
+
+    * [I Want Your Sex](https://drafthouse.com/los-angeles/show/i-want-your-sex): Thu 8/20 (1:15pm)
+
+    * [Insidious Out Of The Further](https://drafthouse.com/los-angeles/show/insidious-out-of-the-further): Fri 8/21 (10:00am, 1:00pm), Sat 8/22 (10:00am, 1:00pm), Sun 8/23 (10:00am, 1:00pm), Mon 8/24 (11:00am, 2:00pm, 5:00pm, 8:00pm, 10:00pm), Tue 8/25 (10:00am, 1:00pm, 4:00pm, 7:00pm, 10:00pm), Wed 8/26 (11:00am, 2:00pm, 5:00pm, 8:00pm, 10:35pm)
+
+    * [Kids Camp Where Is The Friends House](https://drafthouse.com/los-angeles/show/kids-camp-where-is-the-friends-house): Sun 8/23 (10:15am), Tue 8/25 (10:30am), Wed 8/26 (1:30pm)
+
+    * [Michael Manns Manhunter The Final Cut](https://drafthouse.com/los-angeles/show/michael-manns-manhunter-the-final-cut): Thu 8/20 (9:30pm), Fri 8/21 (8:45pm), Sat 8/22 (10:00am), Sun 8/23 (9:15pm), Mon 8/24 (11:45am), Tue 8/25 (9:15pm), Wed 8/26 (10:00pm)
+
+    * [Nightborn](https://drafthouse.com/los-angeles/show/nightborn): Fri 8/21 (6:00pm), Sat 8/22 (4:15pm), Sun 8/23 (9:15pm)
+
+    * [One Night Only](https://drafthouse.com/los-angeles/show/one-night-only): Thu 8/20 (10:45am, 1:45pm), Fri 8/21 (4:00pm), Sat 8/22 (10:30am), Sun 8/23 (12:45pm), Tue 8/25 (4:00pm), Wed 8/26 (3:30pm)
+
+    * [Sad Girl Cinema Club The Piano](https://drafthouse.com/los-angeles/show/sad-girl-cinema-club-the-piano): Thu 8/20 (10:30am)
+
+    * [Six The Musical Live](https://drafthouse.com/los-angeles/show/six-the-musical-live): Thu 8/20 (4:30pm)
+
+    * [Spider Man Brand New Day](https://drafthouse.com/los-angeles/show/spider-man-brand-new-day): Thu 8/20 (10:15am, 11:00am, 1:45pm, 2:30pm, 5:15pm, 6:00pm, 9:30pm, 10:00pm), Fri 8/21 (11:00am, 2:30pm, 6:00pm, 6:45pm, 9:30pm, 10:00pm), Sat 8/22 (11:00am, 2:30pm, 6:00pm, 6:45pm, 9:15pm, 10:00pm), Sun 8/23 (11:00am, 2:30pm, 6:00pm, 6:45pm, 9:15pm, 10:00pm), Mon 8/24 (12:40pm, 4:10pm, 6:30pm, 7:40pm, 9:15pm, 9:45pm), Tue 8/25 (11:00am, 2:30pm, 6:00pm, 6:45pm, 9:30pm, 10:00pm), Wed 8/26 (12:00pm, 3:30pm, 7:00pm, 9:15pm, 9:45pm)
+
+    * [Super Troopers 3](https://drafthouse.com/los-angeles/show/super-troopers-3): Thu 8/20 (9:45pm)
+
+    * [Teenage Sex And Death At Camp Miasma](https://drafthouse.com/los-angeles/show/teenage-sex-and-death-at-camp-miasma): Thu 8/20 (10:00am, 10:45am, 1:00pm, 1:45pm, 4:45pm, 6:45pm, 7:45pm, 9:15pm, 10:45pm), Fri 8/21 (10:30am, 1:30pm, 3:00pm, 4:30pm, 6:00pm, 7:30pm, 9:00pm, 10:30pm), Sat 8/22 (10:30am, 1:30pm, 3:00pm, 4:30pm, 6:00pm, 7:30pm, 9:00pm, 10:30pm), Sun 8/23 (10:45am, 1:45pm, 3:15pm, 4:45pm, 6:15pm, 7:45pm, 10:45pm), Mon 8/24 (10:45am, 1:45pm, 3:15pm, 4:45pm, 6:15pm, 7:45pm, 10:00pm, 10:15pm), Tue 8/25 (10:45am, 1:45pm, 3:15pm, 4:45pm, 6:15pm, 7:45pm, 10:45pm), Wed 8/26 (10:45am, 1:45pm, 3:15pm, 4:45pm, 6:15pm, 7:45pm, 10:30pm)
+
+    * [The End Of Oak Street](https://drafthouse.com/los-angeles/show/the-end-of-oak-street): Thu 8/20 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Fri 8/21 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sat 8/22 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sun 8/23 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Mon 8/24 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:45pm), Tue 8/25 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Wed 8/26 (11:30am, 2:15pm, 5:00pm, 7:40pm, 10:45pm)
+
+    * [The Fast And The Furious 25th Anniversary](https://drafthouse.com/los-angeles/show/the-fast-and-the-furious-25th-anniversary): Fri 8/21 (1:10pm, 3:00pm), Sat 8/22 (7:00pm), Sun 8/23 (7:15pm), Tue 8/25 (1:00pm)
+
+    * [The Invite](https://drafthouse.com/los-angeles/show/the-invite): Thu 8/20 (10:15am)
+
+    * [The Odyssey](https://drafthouse.com/los-angeles/show/the-odyssey): Thu 8/20 (10:00am, 2:00pm, 6:00pm, 9:00pm), Fri 8/21 (10:15am, 2:15pm, 6:15pm, 9:45pm), Sat 8/22 (10:15am, 2:15pm, 6:15pm, 9:45pm), Sun 8/23 (10:15am, 2:15pm, 6:15pm, 9:45pm), Mon 8/24 (12:15pm, 2:00pm, 6:00pm, 9:00pm), Tue 8/25 (10:15am, 2:15pm, 6:15pm, 9:45pm), Wed 8/26 (11:35am, 2:00pm, 9:00pm)
+
+    * [The Rivals Of Amziah King](https://drafthouse.com/los-angeles/show/the-rivals-of-amziah-king): Thu 8/20 (11:45am, 3:00pm, 6:15pm), Fri 8/21 (12:15pm, 3:30pm), Sat 8/22 (12:15pm, 3:30pm), Sun 8/23 (12:15pm, 3:30pm), Mon 8/24 (12:00pm, 3:15pm), Tue 8/25 (12:15pm, 3:30pm), Wed 8/26 (11:45am, 3:00pm)
+
+    * [The Samurai And The Prisoner](https://drafthouse.com/los-angeles/show/the-samurai-and-the-prisoner): Thu 8/20 (11:15am, 3:00pm), Fri 8/21 (11:15am), Sat 8/22 (11:15am), Sun 8/23 (11:30am), Mon 8/24 (11:30am), Tue 8/25 (11:30am), Wed 8/26 (11:30am)
+
+    * [The Wrong Girls](https://drafthouse.com/los-angeles/show/the-wrong-girls): Thu 8/20 (10:15am, 1:00pm, 3:45pm, 6:30pm, 10:00pm), Fri 8/21 (10:45am, 1:30pm, 4:20pm, 7:15pm, 10:15pm), Sat 8/22 (10:45am, 1:30pm, 4:20pm, 7:15pm, 10:15pm), Sun 8/23 (10:45am, 1:30pm, 4:20pm, 7:15pm, 10:15pm), Mon 8/24 (11:15am, 1:30pm, 4:20pm, 7:15pm, 10:00pm), Tue 8/25 (10:45am, 1:30pm, 4:20pm, 7:15pm, 10:15pm), Wed 8/26 (11:15am, 1:30pm, 4:20pm, 7:15pm, 10:45pm)
+
+    * [Tony](https://drafthouse.com/los-angeles/show/tony): Thu 8/20 (4:00pm, 4:45pm, 7:00pm, 7:45pm, 10:00pm, 10:45pm), Fri 8/21 (10:20am, 12:00pm, 12:40pm, 3:00pm, 3:35pm, 6:30pm, 9:30pm, 10:45pm), Sat 8/22 (11:00am, 12:25pm, 3:20pm, 4:15pm, 5:35pm, 6:15pm, 7:15pm, 8:35pm, 10:45pm), Sun 8/23 (10:10am, 11:00am, 12:15pm, 1:50pm, 3:15pm, 4:40pm, 6:15pm, 7:30pm, 10:20pm, 10:45pm), Mon 8/24 (11:45am, 1:00pm, 2:35pm, 3:55pm, 6:00pm, 6:50pm, 8:40pm, 10:45pm), Tue 8/25 (11:00am, 12:40pm, 1:50pm, 3:35pm, 4:40pm, 6:30pm, 7:30pm, 10:20pm, 10:45pm), Wed 8/26 (11:00am, 1:00pm, 1:50pm, 3:55pm, 4:40pm, 6:00pm, 6:50pm, 9:45pm, 10:20pm)
+
 ### Mon 8/17 11:43am
 * New movies: Amyl and The Sniffers Present Truth or Consequence, Nightborn
 
