@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 8/17 12:51am
+* New movies: By Any Means
+
+* New screenings: 
+    * [By Any Means](https://drafthouse.com/raleigh/show/by-any-means): Thu 9/3 (7:30pm, 10:30pm), Fri 9/4 (7:30pm, 10:30pm), Sat 9/5 (7:30pm, 10:30pm), Sun 9/6 (7:30pm, 10:30pm)
+
 ### Fri 8/14 5:33pm
 * New movies: The 5,000 Fingers of Dr. T., Nightborn, TERROR TUESDAY: THE DEAD NEXT DOOR, TERROR TUESDAY: THE SECT - 4K RESTORATION
 
