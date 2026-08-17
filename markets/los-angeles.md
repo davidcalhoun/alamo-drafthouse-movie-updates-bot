@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Mon 8/17 11:43am
+* New movies: Amyl and The Sniffers Present Truth or Consequence, Nightborn
+
+* New screenings: 
+    * [Amyl And The Sniffers Present Truth Or Consequence](https://drafthouse.com/los-angeles/show/amyl-and-the-sniffers-present-truth-or-consequence): Thu 8/27 (7:15pm)
+
+    * [Nightborn](https://drafthouse.com/los-angeles/show/nightborn): Tue 8/25 (7:30pm)
+
 ### Sun 8/16 9:46pm
 * New movies: By Any Means
 
