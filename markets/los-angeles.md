@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Sun 8/16 9:46pm
+* New movies: By Any Means
+
+* New screenings: 
+    * [By Any Means](https://drafthouse.com/los-angeles/show/by-any-means): Thu 9/3 (3:00pm, 6:00pm), Fri 9/4 (3:00pm, 6:00pm), Sat 9/5 (4:00pm, 7:00pm), Sun 9/6 (4:00pm, 7:00pm)
+
 ### Fri 8/14 4:24pm
 * New movies: The Dog Stars
 
