@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 8/18 10:29am
+* New movies: It Ends
+
+* New screenings: 
+    * [It Ends](https://drafthouse.com/los-angeles/show/it-ends): Thu 8/27 (7:00pm, 9:45pm), Fri 8/28 (7:30pm, 10:15pm)
+
 ### Tue 8/18 9:34am
 
 * New screenings: 
