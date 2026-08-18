@@ -1,6 +1,18 @@
 # raleigh
 
 ## Movie updates
+### Tue 8/18 2:49pm
+* New movies: Breaking Bad Day, Sherman's March, Remake
+
+* New screenings: 
+    * [Free Victory Screening Breaking Bad Day Free Tv Party Screening](https://drafthouse.com/raleigh/show/free-victory-screening-breaking-bad-day-free-tv-party-screening): Mon 9/7 (7:00pm)
+
+    * [Remake](https://drafthouse.com/raleigh/show/remake): Sat 8/22 (11:00am)
+
+    * [Shermans March](https://drafthouse.com/raleigh/show/shermans-march): Fri 8/21 (7:00pm), Sun 8/23 (2:30pm)
+
+    * [Spider Man Brand New Day](https://drafthouse.com/raleigh/show/spider-man-brand-new-day): Sat 8/22 (2:00pm)
+
 ### Tue 8/18 12:40pm
 * New movies: Dune: Part Three
 
