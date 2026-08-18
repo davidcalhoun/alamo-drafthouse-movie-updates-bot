@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 8/18 1:27pm
+* New movies: Star Trek: The Motion Picture - Director's Edition
+
+* New screenings: 
+    * [Special Event Star Trek The Motion Picture Directors Edition The Changeling](https://drafthouse.com/los-angeles/show/special-event-star-trek-the-motion-picture-directors-edition-the-changeling): Fri 9/4 (2:30pm)
+
 ### Tue 8/18 11:41am
 * New movies: Breaking Bad Day
 
