@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 8/18 12:40pm
+* New movies: Dune: Part Three
+
+* New screenings: 
+    * [Advance Screening Dune Part Three Hdr By Barco Insider Screening](https://drafthouse.com/raleigh/show/advance-screening-dune-part-three-hdr-by-barco-insider-screening): Tue 12/15 (6:00pm), Fri 12/18 (2:20pm, 10:00pm), Sat 12/19 (10:20am, 6:00pm), Sun 12/20 (2:20pm, 10:00pm), Mon 12/21 (10:20am, 6:00pm), Tue 12/22 (2:20pm, 10:00pm), Wed 12/23 (10:20am, 6:00pm)
+
 ### Tue 8/18 9:01am
 
 * New screenings: 
