@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 8/18 3:33pm
+
+* New screenings: 
+    * [Remake](https://drafthouse.com/raleigh/show/remake): Mon 8/24 (5:30pm)
+
 ### Tue 8/18 2:49pm
 * New movies: Breaking Bad Day, Sherman's March, Remake
 
