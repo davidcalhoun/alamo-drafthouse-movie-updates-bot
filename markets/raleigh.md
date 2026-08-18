@@ -1,6 +1,26 @@
 # raleigh
 
 ## Movie updates
+### Tue 8/18 7:29pm
+* New movies: Spy Kids, My Sassy Girl, Basic Instinct, Deathgasm 2: Goremageddon, The Doors, Rose of Nevada
+
+* New screenings: 
+    * [Basic Instinct](https://drafthouse.com/raleigh/show/basic-instinct): Sat 9/19 (3:00pm)
+
+    * [Deathgasm 2 Goremageddon](https://drafthouse.com/raleigh/show/deathgasm-2-goremageddon): Tue 9/29 (6:30pm)
+
+    * [Movie Party Spy Kids](https://drafthouse.com/raleigh/show/movie-party-spy-kids): Wed 9/23 (6:00pm)
+
+    * [Remake](https://drafthouse.com/raleigh/show/remake): Wed 8/26 (3:15pm)
+
+    * [Rose Of Nevada](https://drafthouse.com/raleigh/show/rose-of-nevada): Thu 8/27 (10:15pm)
+
+    * [Sad Girl Cinema Club My Sassy Girl](https://drafthouse.com/raleigh/show/sad-girl-cinema-club-my-sassy-girl): Sun 9/20 (3:00pm)
+
+    * [Shermans March](https://drafthouse.com/raleigh/show/shermans-march): Tue 8/25 (3:45pm)
+
+    * [The Doors](https://drafthouse.com/raleigh/show/the-doors): Mon 9/14 (7:00pm)
+
 ### Tue 8/18 3:33pm
 
 * New screenings: 
