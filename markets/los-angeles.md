@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 8/18 2:27pm
+* New movies: Star Trek II: The Wrath of Khan
+
+* New screenings: 
+    * [Special Event Star Trek Ii The Wrath Of Khan Space Seed](https://drafthouse.com/los-angeles/show/special-event-star-trek-ii-the-wrath-of-khan-space-seed): Sat 9/5 (3:45pm)
+
 ### Tue 8/18 1:27pm
 * New movies: Star Trek: The Motion Picture - Director's Edition
 
