@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 8/18 11:41am
+* New movies: Breaking Bad Day
+
+* New screenings: 
+    * [Free Victory Screening Breaking Bad Day Free Tv Party Screening](https://drafthouse.com/los-angeles/show/free-victory-screening-breaking-bad-day-free-tv-party-screening): Mon 9/7 (7:00pm)
+
 ### Tue 8/18 10:29am
 * New movies: It Ends
 
