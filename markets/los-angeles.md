@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 8/18 8:34am
+* New movies: Buddy 2026
+
+* New screenings: 
+    * [Buddy 2026](https://drafthouse.com/los-angeles/show/buddy-2026): Thu 8/27 (7:30pm, 10:15pm), Fri 8/28 (7:45pm, 10:30pm), Sat 8/29 (7:45pm, 10:30pm), Sun 8/30 (7:45pm, 10:30pm)
+
 ### Mon 8/17 3:27pm
 * New movies: Tony, The Piano
 
