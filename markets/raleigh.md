@@ -1,6 +1,31 @@
 # raleigh
 
 ## Movie updates
+### Tue 8/18 9:01am
+
+* New screenings: 
+    * [Hdr By Barco Spider Man Brand New Day](https://drafthouse.com/raleigh/show/hdr-by-barco-spider-man-brand-new-day): Thu 8/20 (11:00am, 2:30pm), Fri 8/21 (12:00pm, 3:30pm), Sat 8/22 (12:30pm), Sun 8/23 (6:05pm), Mon 8/24 (12:00pm, 3:30pm, 10:05pm), Tue 8/25 (11:05am, 2:35pm, 6:05pm, 9:50pm), Wed 8/26 (1:00pm)
+
+    * [Insidious Out Of The Further](https://drafthouse.com/raleigh/show/insidious-out-of-the-further): Thu 8/20 (4:00pm, 10:45pm), Fri 8/21 (10:30am, 1:05pm, 4:00pm, 7:05pm), Sat 8/22 (11:20am, 12:50pm, 4:05pm), Sun 8/23 (10:20am, 1:20pm, 4:20pm, 7:20pm, 9:35pm), Mon 8/24 (11:15am, 1:20pm, 4:20pm, 7:20pm), Tue 8/25 (10:20am, 1:20pm, 4:20pm, 7:20pm), Wed 8/26 (12:50pm, 3:40pm)
+
+    * [Mutiny](https://drafthouse.com/raleigh/show/mutiny): Fri 8/21 (11:15am, 2:05pm, 4:50pm, 10:05pm), Sat 8/22 (11:15am, 2:05pm, 4:50pm, 10:35pm), Sun 8/23 (11:20am, 2:05pm, 4:50pm, 10:30pm), Mon 8/24 (10:00am, 1:05pm, 3:50pm, 6:50pm, 10:50pm), Tue 8/25 (11:20am, 2:05pm, 4:50pm, 7:35pm, 10:30pm), Wed 8/26 (11:20am, 2:05pm, 4:50pm, 7:35pm, 10:35pm)
+
+    * [Paw Patrol The Dino Movie](https://drafthouse.com/raleigh/show/paw-patrol-the-dino-movie): Thu 8/20 (10:00am, 1:00pm, 3:45pm, 6:45pm), Fri 8/21 (10:00am, 1:30pm, 3:45pm, 5:20pm), Sat 8/22 (10:00am, 1:35pm, 2:35pm, 5:20pm), Sun 8/23 (12:35pm, 1:35pm, 3:35pm, 5:20pm), Mon 8/24 (11:50am, 1:35pm, 4:05pm, 5:20pm), Tue 8/25 (12:20pm, 1:20pm, 5:20pm), Wed 8/26 (10:20am, 12:05pm, 12:30pm, 1:35pm, 5:20pm)
+
+    * [Spider Man Brand New Day](https://drafthouse.com/raleigh/show/spider-man-brand-new-day): Thu 8/20 (10:30am, 11:30am, 12:30pm, 2:00pm, 3:00pm, 6:00pm, 10:00pm), Fri 8/21 (6:35pm, 10:20pm), Sat 8/22 (11:00am, 5:35pm, 6:35pm, 7:05pm, 10:20pm), Sun 8/23 (11:20am, 2:50pm, 6:35pm, 9:50pm), Mon 8/24 (11:20am, 2:50pm, 6:35pm), Tue 8/25 (12:05pm, 3:05pm, 3:50pm), Wed 8/26 (11:20am, 2:50pm, 3:00pm, 6:50pm, 10:10pm)
+
+    * [Teenage Sex And Death At Camp Miasma](https://drafthouse.com/raleigh/show/teenage-sex-and-death-at-camp-miasma): Thu 8/20 (10:00am, 10:45am, 1:15pm, 1:45pm, 4:15pm, 4:45pm, 7:45pm, 9:30pm, 10:45pm), Fri 8/21 (12:30pm, 1:35pm, 4:30pm, 7:50pm, 10:50pm), Sat 8/22 (10:30am, 1:35pm, 4:35pm, 7:50pm, 10:50pm), Sun 8/23 (10:50am, 1:50pm, 5:05pm, 6:35pm, 8:05pm, 10:05pm), Mon 8/24 (10:45am, 1:50pm, 4:50pm, 7:50pm, 10:20pm), Tue 8/25 (10:50am, 1:50pm, 5:05pm, 8:05pm, 10:20pm), Wed 8/26 (10:35am, 1:35pm, 4:35pm, 7:50pm, 9:35pm, 10:50pm)
+
+    * [The Dog Stars](https://drafthouse.com/raleigh/show/the-dog-stars): Thu 8/27 (4:00pm)
+
+    * [The End Of Oak Street](https://drafthouse.com/raleigh/show/the-end-of-oak-street): Thu 8/20 (11:15am, 2:00pm, 5:00pm, 8:00pm, 11:00pm), Fri 8/21 (10:30am, 2:35pm, 3:30pm, 7:35pm, 10:35pm), Sat 8/22 (10:50am, 2:35pm, 3:35pm, 7:35pm, 10:35pm), Sun 8/23 (10:50am, 2:35pm, 3:35pm, 7:35pm, 10:35pm), Mon 8/24 (10:50am, 2:35pm, 3:35pm, 7:35pm, 10:35pm), Tue 8/25 (10:05am, 2:35pm, 3:35pm, 7:35pm, 10:05pm), Wed 8/26 (10:50am, 2:35pm, 3:35pm, 7:35pm, 10:35pm)
+
+    * [The Odyssey](https://drafthouse.com/raleigh/show/the-odyssey): Thu 8/20 (10:15am, 2:15pm, 6:15pm, 9:30pm), Fri 8/21 (11:30am, 2:15pm, 6:20pm, 10:20pm), Sat 8/22 (10:35am, 2:20pm, 6:20pm, 10:20pm), Sun 8/23 (10:35am, 6:20pm, 10:20pm), Mon 8/24 (11:45am, 6:20pm, 9:50pm), Tue 8/25 (10:35am, 6:20pm, 10:20pm), Wed 8/26 (6:20pm, 10:20pm)
+
+    * [The Rivals Of Amziah King](https://drafthouse.com/raleigh/show/the-rivals-of-amziah-king): Thu 8/20 (12:15pm, 3:30pm, 7:15pm, 10:30pm), Fri 8/21 (11:00am, 4:15pm, 8:05pm, 10:20pm), Sat 8/22 (12:05pm, 4:20pm, 8:05pm, 10:20pm), Sun 8/23 (12:05pm, 4:20pm, 8:05pm, 10:20pm), Mon 8/24 (12:05pm, 4:20pm, 8:05pm, 10:20pm), Tue 8/25 (12:05pm, 4:00pm, 8:05pm, 10:20pm), Wed 8/26 (12:05pm, 4:20pm, 8:05pm, 10:20pm)
+
+    * [Tony](https://drafthouse.com/raleigh/show/tony): Fri 8/21 (12:15pm, 3:05pm), Sat 8/22 (11:30am, 2:45pm), Sun 8/23 (10:05am, 1:05pm, 4:05pm), Mon 8/24 (10:15am, 2:20pm, 5:35pm, 6:35pm, 10:20pm), Tue 8/25 (10:05am, 1:05pm, 4:05pm, 6:35pm, 10:05pm), Wed 8/26 (10:05am, 1:05pm, 4:05pm, 6:35pm, 9:50pm)
+
 ### Mon 8/17 12:37pm
 * New movies: Nacho Libre, The Birdcage, First Blood, Star Trek II: The Wrath of Khan, Star Trek III: The Search for Spock, Star Trek IV: The Voyage Home, Star Trek: The Motion Picture - Director's Edition, Star Trek: The Genesis Trilogy, TERROR TUESDAY: ANGEL HEART
 
