@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Wed 8/19 3:46am
+* New movies: Electra Glide in Blue, Pulp: What Do You Do for an Encore?, Toxic: A Fairy Tale for Grown-Ups
+
+* New screenings: 
+    * [Pulp What Do You Do For An Encore](https://drafthouse.com/raleigh/show/pulp-what-do-you-do-for-an-encore): Thu 9/24 (7:00pm)
+
+    * [Toxic A Fairy Tale For Grown Ups](https://drafthouse.com/raleigh/show/toxic-a-fairy-tale-for-grown-ups): Wed 8/26 (10:15am)
+
+    * [Weird Wednesday Electra Glide In Blue](https://drafthouse.com/raleigh/show/weird-wednesday-electra-glide-in-blue): Wed 8/26 (10:30pm)
+
 ### Tue 8/18 9:45pm
 * New movies: Castration Movie Anthology ii. the best of both worlds
 
