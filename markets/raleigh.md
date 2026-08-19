@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 8/19 2:46pm
+* New movies: Crunchyroll Anime Night Sneak Peek 9/21/2026
+
+* New screenings: 
+    * [Crunchyroll Anime Night Sneak Peek 9 21 2026](https://drafthouse.com/raleigh/show/crunchyroll-anime-night-sneak-peek-9-21-2026): Mon 9/21 (7:30pm)
+
 ### Wed 8/19 12:39pm
 * New movies: Mystery Voyage
 
