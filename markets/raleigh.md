@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 8/18 9:45pm
+* New movies: Castration Movie Anthology ii. the best of both worlds
+
+* New screenings: 
+    * [Weird Wednesday Castration Movie Anthology Ii The Best Of Both Worlds](https://drafthouse.com/raleigh/show/weird-wednesday-castration-movie-anthology-ii-the-best-of-both-worlds): Wed 9/16 (6:00pm)
+
 ### Tue 8/18 7:29pm
 * New movies: Spy Kids, My Sassy Girl, Basic Instinct, Deathgasm 2: Goremageddon, The Doors, Rose of Nevada
 
