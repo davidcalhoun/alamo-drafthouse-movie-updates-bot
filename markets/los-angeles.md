@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 8/19 7:36am
+* New movies: Onslaught, Pulp: What Do You Do for an Encore?
+
+* New screenings: 
+    * [Onslaught](https://drafthouse.com/los-angeles/show/onslaught): Thu 9/3 (4:00pm, 6:45pm), Fri 9/4 (5:00pm, 7:45pm), Sat 9/5 (5:00pm, 7:45pm), Sun 9/6 (5:00pm, 7:45pm)
+
+    * [Pulp What Do You Do For An Encore](https://drafthouse.com/los-angeles/show/pulp-what-do-you-do-for-an-encore): Thu 9/24 (7:00pm)
+
 ### Wed 8/19 12:40am
 * New movies: Toxic: A Fairy Tale for Grown-Ups
 
