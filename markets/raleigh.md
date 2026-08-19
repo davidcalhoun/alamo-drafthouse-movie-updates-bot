@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 8/19 10:43am
+* New movies: Onslaught
+
+* New screenings: 
+    * [Onslaught](https://drafthouse.com/raleigh/show/onslaught): Thu 9/3 (7:00pm, 10:00pm), Fri 9/4 (7:00pm, 10:00pm), Sat 9/5 (7:00pm, 10:00pm), Sun 9/6 (7:00pm, 10:00pm)
+
 ### Wed 8/19 3:46am
 * New movies: Electra Glide in Blue, Pulp: What Do You Do for an Encore?, Toxic: A Fairy Tale for Grown-Ups
 
