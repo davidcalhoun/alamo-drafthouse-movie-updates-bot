@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 8/19 11:39am
+* New movies: Crunchyroll Anime Night Sneak Peek 9/21/2026
+
+* New screenings: 
+    * [Crunchyroll Anime Night Sneak Peek 9 21 2026](https://drafthouse.com/los-angeles/show/crunchyroll-anime-night-sneak-peek-9-21-2026): Mon 9/21 (7:00pm)
+
 ### Wed 8/19 7:36am
 * New movies: Onslaught, Pulp: What Do You Do for an Encore?
 
