@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 8/19 12:40am
+* New movies: Toxic: A Fairy Tale for Grown-Ups
+
+* New screenings: 
+    * [Toxic A Fairy Tale For Grown Ups](https://drafthouse.com/los-angeles/show/toxic-a-fairy-tale-for-grown-ups): Wed 8/26 (6:30pm)
+
 ### Tue 8/18 2:27pm
 * New movies: Star Trek II: The Wrath of Khan
 
