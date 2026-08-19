@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 8/19 12:39pm
+* New movies: Mystery Voyage
+
+* New screenings: 
+    * [Agfadrome Mystery Voyage September 2026](https://drafthouse.com/raleigh/show/agfadrome-mystery-voyage-september-2026): Fri 9/25 (9:30pm)
+
 ### Wed 8/19 10:43am
 * New movies: Onslaught
 
