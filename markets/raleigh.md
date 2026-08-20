@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 8/20 3:37pm
+* New movies: Dune: Part Three
+
+* New screenings: 
+    * [Dune Part Three](https://drafthouse.com/raleigh/show/dune-part-three): Tue 12/22 (10:00pm), Wed 12/23 (6:00pm)
+
 ### Thu 8/20 9:03am
 * New movies: Hope 2026
 
