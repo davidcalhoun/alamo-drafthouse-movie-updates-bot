@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Thu 8/20 5:35pm
+* New movies: Akira Subtitled in 4K, Akira Dubbed in 4K, Idiots
+
+* New screenings: 
+    * [Akira 4k Subtitled](https://drafthouse.com/raleigh/show/akira-4k-subtitled): Sat 8/29 (9:15pm), Sun 8/30 (6:00pm), Thu 9/3 (6:00pm)
+
+    * [Akira Dubbed In 4k](https://drafthouse.com/raleigh/show/akira-dubbed-in-4k): Sat 8/29 (6:00pm), Sun 8/30 (9:15pm), Thu 9/3 (9:15pm)
+
+    * [Idiots](https://drafthouse.com/raleigh/show/idiots): Thu 8/27 (10:15pm), Fri 8/28 (10:15pm), Sat 8/29 (10:15pm), Sun 8/30 (10:15pm)
+
 ### Thu 8/20 3:37pm
 * New movies: Dune: Part Three
 
