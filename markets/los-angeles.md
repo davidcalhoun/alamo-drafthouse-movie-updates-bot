@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 8/20 6:49am
+* New movies: Akira Subtitled in 4K, Akira Dubbed in 4K
+
+* New screenings: 
+    * [Akira 4k Subtitled](https://drafthouse.com/los-angeles/show/akira-4k-subtitled): Thu 9/3 (7:00pm), Fri 9/4 (3:45pm, 10:15pm), Sat 9/5 (12:15pm, 6:45pm), Sun 9/6 (3:30pm, 10:00pm)
+
+    * [Akira Dubbed In 4k](https://drafthouse.com/los-angeles/show/akira-dubbed-in-4k): Thu 9/3 (10:15pm), Fri 9/4 (12:30pm, 7:00pm), Sat 9/5 (3:30pm, 10:00pm), Sun 9/6 (12:15pm, 6:45pm)
+
 ### Thu 8/20 5:55am
 * New movies: Hope 2026
 
