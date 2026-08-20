@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 8/20 5:55am
+* New movies: Hope 2026
+
+* New screenings: 
+    * [Hope 2026](https://drafthouse.com/los-angeles/show/hope-2026): Wed 9/9 (6:00pm), Thu 9/10 (2:15pm, 6:00pm), Fri 9/11 (2:15pm, 6:00pm)
+
 ### Wed 8/19 6:24pm
 * New movies: Idiots, Deathgasm 2: Goremageddon, Star Trek III: The Search for Spock
 
