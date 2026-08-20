@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Wed 8/19 6:24pm
+* New movies: Idiots, Deathgasm 2: Goremageddon, Star Trek III: The Search for Spock
+
+* New screenings: 
+    * [Deathgasm 2 Goremageddon](https://drafthouse.com/los-angeles/show/deathgasm-2-goremageddon): Tue 9/29 (7:20pm)
+
+    * [Idiots](https://drafthouse.com/los-angeles/show/idiots): Thu 8/27 (10:00pm), Fri 8/28 (9:45pm)
+
+    * [Special Event Star Trek Iii The Search For Spock Amok Time](https://drafthouse.com/los-angeles/show/special-event-star-trek-iii-the-search-for-spock-amok-time): Sun 9/6 (2:45pm)
+
 ### Wed 8/19 11:39am
 * New movies: Crunchyroll Anime Night Sneak Peek 9/21/2026
 
