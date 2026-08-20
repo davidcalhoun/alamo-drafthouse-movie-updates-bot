@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 8/20 9:03am
+* New movies: Hope 2026
+
+* New screenings: 
+    * [Hope 2026](https://drafthouse.com/raleigh/show/hope-2026): Wed 9/9 (6:00pm, 10:00pm), Thu 9/10 (7:00pm, 9:00pm), Fri 9/11 (7:00pm, 10:45pm), Sat 9/12 (7:00pm, 10:45pm), Sun 9/13 (6:00pm, 10:00pm)
+
 ### Wed 8/19 2:46pm
 * New movies: Crunchyroll Anime Night Sneak Peek 9/21/2026
 
