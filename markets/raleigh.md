@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 8/21 9:52am
+
+* New screenings: 
+    * [Dune Part Three](https://drafthouse.com/raleigh/show/dune-part-three): Fri 12/18 (2:20pm), Sun 12/20 (2:20pm), Mon 12/21 (10:20am), Tue 12/22 (2:20pm)
+
 ### Fri 8/21 9:02am
 
 * New screenings: 
