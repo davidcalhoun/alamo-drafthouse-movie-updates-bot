@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Fri 8/21 10:31am
+
+* New screenings: 
+    * [Teenage Sex And Death At Camp Miasma](https://drafthouse.com/los-angeles/show/teenage-sex-and-death-at-camp-miasma): Wed 8/26 (3:00pm)
+
+    * [The Odyssey](https://drafthouse.com/los-angeles/show/the-odyssey): Wed 8/26 (6:00pm)
+
 ### Thu 8/20 6:49am
 * New movies: Akira Subtitled in 4K, Akira Dubbed in 4K
 
