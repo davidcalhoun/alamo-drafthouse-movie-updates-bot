@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Fri 8/21 6:33pm
+* New movies: Practical Magic 2, Practical Magic 2
+
+* New screenings: 
+    * [Dress Up Screening Practical Magic 2 Midnight Margarita Dress Up Screening](https://drafthouse.com/raleigh/show/dress-up-screening-practical-magic-2-midnight-margarita-dress-up-screening): Sat 9/12 (9:15pm)
+
+    * [Dune Part Three](https://drafthouse.com/raleigh/show/dune-part-three): Fri 12/18 (10:00pm), Sat 12/19 (10:20am, 6:00pm), Sun 12/20 (10:00pm), Mon 12/21 (6:00pm), Wed 12/23 (6:00pm)
+
+    * [Practical Magic 2](https://drafthouse.com/raleigh/show/practical-magic-2): Thu 9/10 (6:00pm), Fri 9/11 (6:00pm, 9:15pm), Sat 9/12 (6:00pm), Sun 9/13 (6:30pm, 9:45pm)
+
 ### Fri 8/21 4:33pm
 
 * New screenings: 
