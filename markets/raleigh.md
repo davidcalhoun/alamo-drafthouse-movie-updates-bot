@@ -1,6 +1,18 @@
 # raleigh
 
 ## Movie updates
+### Fri 8/21 3:31pm
+* New movies: Dire Duplicity, TERROR TUESDAY: THE SECT
+
+* New screenings: 
+    * [Dire Duplicity](https://drafthouse.com/raleigh/show/dire-duplicity): Sat 9/5 (9:30pm), Thu 9/10 (7:30pm)
+
+    * [Paw Patrol The Dino Movie](https://drafthouse.com/raleigh/show/paw-patrol-the-dino-movie): Sat 8/22 (10:15am, 4:30pm), Sun 8/23 (10:15am), Mon 8/24 (11:00am, 6:00pm)
+
+    * [Spider Man Brand New Day](https://drafthouse.com/raleigh/show/spider-man-brand-new-day): Sat 8/22 (1:00pm, 10:15pm), Sun 8/23 (12:50pm, 10:15pm), Mon 8/24 (2:00pm, 8:30pm), Tue 8/25 (11:30am, 9:30pm)
+
+    * [Tony](https://drafthouse.com/raleigh/show/tony): Sat 8/22 (7:15pm), Sun 8/23 (4:25pm, 7:15pm), Tue 8/25 (3:00pm, 6:30pm)
+
 ### Fri 8/21 9:52am
 
 * New screenings: 
