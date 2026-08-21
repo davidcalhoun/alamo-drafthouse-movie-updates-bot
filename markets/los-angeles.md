@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 8/21 4:26pm
+* New movies: Star Trek IV: The Voyage Home, Star Trek: The Genesis Trilogy
+
+* New screenings: 
+    * [Special Event Star Trek Iv The Voyage Home The City On The Edge Of Forever](https://drafthouse.com/los-angeles/show/special-event-star-trek-iv-the-voyage-home-the-city-on-the-edge-of-forever): Mon 9/7 (3:00pm)
+
+    * [Star Trek The Genesis Trilogy](https://drafthouse.com/los-angeles/show/star-trek-the-genesis-trilogy): Tue 9/8 (12:00pm)
+
 ### Fri 8/21 3:27pm
 * New movies: Practical Magic 2, Practical Magic 2
 
