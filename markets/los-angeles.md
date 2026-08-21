@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 8/21 12:27pm
+* New movies: Dire Duplicity
+
+* New screenings: 
+    * [Dire Duplicity](https://drafthouse.com/los-angeles/show/dire-duplicity): Sat 9/5 (10:45pm)
+
 ### Fri 8/21 10:31am
 
 * New screenings: 
