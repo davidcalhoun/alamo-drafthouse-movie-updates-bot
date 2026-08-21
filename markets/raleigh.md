@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 8/21 4:33pm
+
+* New screenings: 
+    * [Spider Man Brand New Day](https://drafthouse.com/raleigh/show/spider-man-brand-new-day): Fri 8/21 (8:30pm)
+
 ### Fri 8/21 3:31pm
 * New movies: Dire Duplicity, TERROR TUESDAY: THE SECT
 
