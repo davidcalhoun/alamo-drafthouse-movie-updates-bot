@@ -1,6 +1,42 @@
 # los-angeles
 
 ## Movie updates
+### Fri 8/21 6:23pm
+* New movies: Nacho Libre, Spy Kids, Mystery Voyage, Chronovisor, The Birdcage, My Sassy Girl, Angel Heart, Castration Movie Anthology ii. the best of both worlds, Basic Instinct, First Blood, The Doors
+
+* New screenings: 
+    * [Agfadrome Mystery Voyage September 2026](https://drafthouse.com/los-angeles/show/agfadrome-mystery-voyage-september-2026): Fri 9/25 (9:45pm)
+
+    * [Basic Instinct](https://drafthouse.com/los-angeles/show/basic-instinct): Sat 9/19 (4:00pm)
+
+    * [Chronovisor](https://drafthouse.com/los-angeles/show/chronovisor): Tue 9/22 (7:00pm)
+
+    * [Destroy All Monsters](https://drafthouse.com/los-angeles/show/destroy-all-monsters): Sun 9/27 (2:45pm), Tue 9/29 (3:30pm)
+
+    * [Dire Duplicity](https://drafthouse.com/los-angeles/show/dire-duplicity): Thu 9/10 (6:45pm)
+
+    * [First Blood](https://drafthouse.com/los-angeles/show/first-blood): Sat 9/12 (4:00pm)
+
+    * [Live Q A Ernie Emma](https://drafthouse.com/los-angeles/show/live-q-a-ernie-emma): Fri 9/4 (7:30pm, 10:15pm)
+
+    * [Movie Party Nacho Libre](https://drafthouse.com/los-angeles/show/movie-party-nacho-libre): Sat 9/26 (4:00pm)
+
+    * [Movie Party Spy Kids](https://drafthouse.com/los-angeles/show/movie-party-spy-kids): Wed 9/23 (7:00pm)
+
+    * [Queer Film Theory 101 The Birdcage](https://drafthouse.com/los-angeles/show/queer-film-theory-101-the-birdcage): Mon 9/28 (7:15pm)
+
+    * [Sad Girl Cinema Club My Sassy Girl](https://drafthouse.com/los-angeles/show/sad-girl-cinema-club-my-sassy-girl): Sun 9/20 (12:00pm)
+
+    * [Terror Tuesday Angel Heart](https://drafthouse.com/los-angeles/show/terror-tuesday-angel-heart): Tue 9/15 (7:15pm)
+
+    * [The Doors](https://drafthouse.com/los-angeles/show/the-doors): Mon 9/14 (7:00pm)
+
+    * [The Twilight Saga The Twilight Saga New Moon Fan Screening](https://drafthouse.com/los-angeles/show/the-twilight-saga-the-twilight-saga-new-moon-fan-screening): Sun 9/20 (3:30pm)
+
+    * [The Twilight Saga Twilight 2008 Fan Event](https://drafthouse.com/los-angeles/show/the-twilight-saga-twilight-2008-fan-event): Sun 9/13 (3:45pm)
+
+    * [Weird Wednesday Castration Movie Anthology Ii The Best Of Both Worlds](https://drafthouse.com/los-angeles/show/weird-wednesday-castration-movie-anthology-ii-the-best-of-both-worlds): Wed 9/16 (6:00pm)
+
 ### Fri 8/21 4:26pm
 * New movies: Star Trek IV: The Voyage Home, Star Trek: The Genesis Trilogy
 
