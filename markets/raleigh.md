@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Fri 8/21 9:43pm
+* New movies: Chronovisor, Jacob's Ladder 1990
+
+* New screenings: 
+    * [Chronovisor](https://drafthouse.com/raleigh/show/chronovisor): Tue 9/22 (7:15pm)
+
+    * [Terror Tuesday Jacobs Ladder 1990](https://drafthouse.com/raleigh/show/terror-tuesday-jacobs-ladder-1990): Tue 9/22 (9:30pm)
+
 ### Fri 8/21 6:33pm
 * New movies: Practical Magic 2, Practical Magic 2
 
