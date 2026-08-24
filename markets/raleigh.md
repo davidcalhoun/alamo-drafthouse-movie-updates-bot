@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 8/24 11:48am
+* New movies: Queen Budapest
+
+* New screenings: 
+    * [Queen Budapest](https://drafthouse.com/raleigh/show/queen-budapest): Wed 10/7 (6:30pm), Sat 10/10 (3:30pm)
+
 ### Mon 8/24 10:51am
 
 * New screenings: 
