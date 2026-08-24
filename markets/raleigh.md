@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 8/24 12:48pm
+
+* New screenings: 
+    * [The Dog Stars](https://drafthouse.com/raleigh/show/the-dog-stars): Thu 8/27 (4:00pm, 7:00pm)
+
 ### Mon 8/24 11:48am
 * New movies: Queen Budapest
 
