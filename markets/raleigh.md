@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Mon 8/24 7:28pm
+* New movies: A Chinese Ghost Story, His Motorbike, Her Island
+
+* New screenings: 
+    * [Weird Wednesday A Chinese Ghost Story](https://drafthouse.com/raleigh/show/weird-wednesday-a-chinese-ghost-story): Wed 9/9 (9:30pm)
+
+    * [Weird Wednesday His Motorbike Her Island](https://drafthouse.com/raleigh/show/weird-wednesday-his-motorbike-her-island): Wed 9/30 (9:30pm)
+
 ### Mon 8/24 12:48pm
 
 * New screenings: 
