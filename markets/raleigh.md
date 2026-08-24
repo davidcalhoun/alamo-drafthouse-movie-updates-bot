@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 8/24 10:51am
+
+* New screenings: 
+    * [The Dog Stars](https://drafthouse.com/raleigh/show/the-dog-stars): Fri 8/28 (7:00pm, 10:00pm), Sat 8/29 (7:00pm, 10:00pm), Sun 8/30 (7:00pm)
+
 ### Fri 8/21 9:43pm
 * New movies: Chronovisor, Jacob's Ladder 1990
 
