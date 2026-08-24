@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Mon 8/24 4:24pm
+
+* New screenings: 
+    * [The Twilight Saga Twilight 2008 Fan Event](https://drafthouse.com/los-angeles/show/the-twilight-saga-twilight-2008-fan-event): Sat 9/12 (12:45pm)
+
 ### Mon 8/24 2:32pm
 
 * New screenings: 
