@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 8/24 8:41am
+* New movies: Queen Budapest
+
+* New screenings: 
+    * [Queen Budapest](https://drafthouse.com/los-angeles/show/queen-budapest): Wed 10/7 (7:30pm), Sat 10/10 (2:00pm)
+
 ### Fri 8/21 6:23pm
 * New movies: Nacho Libre, Spy Kids, Mystery Voyage, Chronovisor, The Birdcage, My Sassy Girl, Angel Heart, Castration Movie Anthology ii. the best of both worlds, Basic Instinct, First Blood, The Doors
 
