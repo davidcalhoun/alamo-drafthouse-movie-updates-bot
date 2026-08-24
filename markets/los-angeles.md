@@ -1,6 +1,53 @@
 # los-angeles
 
 ## Movie updates
+### Mon 8/24 2:32pm
+
+* New screenings: 
+    * [Amyl And The Sniffers Present Truth Or Consequence](https://drafthouse.com/los-angeles/show/amyl-and-the-sniffers-present-truth-or-consequence): Sat 8/29 (7:00pm), Sun 8/30 (4:00pm)
+
+    * [Buddy 2026](https://drafthouse.com/los-angeles/show/buddy-2026): Thu 8/27 (4:45pm), Fri 8/28 (11:30am, 2:15pm, 5:00pm), Sat 8/29 (11:30am, 2:15pm, 5:00pm), Sun 8/30 (11:30am, 2:15pm, 5:00pm), Mon 8/31 (11:30am, 2:15pm, 5:00pm), Tue 9/1 (11:30am, 2:15pm, 5:00pm), Wed 9/2 (11:30am, 2:15pm, 5:00pm)
+
+    * [Butthole Surfers The Hole Truth And Nothing Butt](https://drafthouse.com/los-angeles/show/butthole-surfers-the-hole-truth-and-nothing-butt): Fri 8/28 (4:00pm), Sat 8/29 (6:00pm), Sun 8/30 (9:45pm), Mon 8/31 (2:30pm), Tue 9/1 (7:00pm)
+
+    * [Finding Emily](https://drafthouse.com/los-angeles/show/finding-emily): Thu 8/27 (9:15pm), Fri 8/28 (11:45am, 1:15pm, 10:15pm), Sat 8/29 (11:00am, 1:20pm, 10:15pm), Sun 8/30 (10:15am, 1:15pm, 10:15pm), Mon 8/31 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Tue 9/1 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Wed 9/2 (12:30pm, 3:30pm, 6:30pm, 9:30pm)
+
+    * [Idiots](https://drafthouse.com/los-angeles/show/idiots): Fri 8/28 (7:00pm), Sat 8/29 (10:30pm), Sun 8/30 (7:30pm, 10:15pm), Mon 8/31 (10:00pm), Tue 9/1 (7:15pm, 10:00pm), Wed 9/2 (7:15pm, 10:00pm)
+
+    * [Insidious Out Of The Further](https://drafthouse.com/los-angeles/show/insidious-out-of-the-further): Thu 8/27 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Fri 8/28 (11:00am, 2:00pm, 5:00pm, 8:00pm, 10:00pm), Sat 8/29 (11:00am, 2:00pm, 5:00pm, 8:00pm, 9:45pm), Sun 8/30 (11:00am, 2:00pm, 5:00pm, 8:00pm, 9:30pm), Mon 8/31 (11:00am, 2:00pm, 5:00pm, 8:00pm, 9:45pm), Tue 9/1 (11:00am, 2:00pm, 5:00pm, 8:00pm, 9:45pm), Wed 9/2 (12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
+    * [It Ends](https://drafthouse.com/los-angeles/show/it-ends): Fri 8/28 (11:15am, 2:00pm, 4:45pm), Sat 8/29 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Sun 8/30 (11:15am, 2:00pm, 5:00pm, 7:45pm, 10:30pm), Mon 8/31 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Tue 9/1 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Wed 9/2 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:10pm)
+
+    * [Kids Camp Moonrise Kingdom](https://drafthouse.com/los-angeles/show/kids-camp-moonrise-kingdom): Mon 8/31 (11:45am), Wed 9/2 (1:45pm)
+
+    * [Michael Manns Manhunter The Final Cut](https://drafthouse.com/los-angeles/show/michael-manns-manhunter-the-final-cut): Thu 8/27 (3:30pm), Fri 8/28 (3:45pm), Tue 9/1 (3:45pm)
+
+    * [Mothra Vs Godzilla](https://drafthouse.com/los-angeles/show/mothra-vs-godzilla): Sun 8/30 (6:45pm), Mon 8/31 (1:15pm), Tue 9/1 (1:00pm), Wed 9/2 (1:45pm, 4:30pm, 10:15pm)
+
+    * [One Night Only](https://drafthouse.com/los-angeles/show/one-night-only): Thu 8/27 (12:30pm)
+
+    * [Queer Film Theory 101 Little Shop Of Horrors 1986](https://drafthouse.com/los-angeles/show/queer-film-theory-101-little-shop-of-horrors-1986): Fri 8/28 (10:15pm), Sat 8/29 (12:00pm), Tue 9/1 (1:15pm, 10:00pm), Wed 9/2 (7:30pm)
+
+    * [Spider Man Brand New Day](https://drafthouse.com/los-angeles/show/spider-man-brand-new-day): Thu 8/27 (11:00am, 2:30pm, 6:00pm, 9:45pm), Fri 8/28 (12:30pm, 2:45pm, 6:15pm, 9:45pm), Sat 8/29 (11:15am, 2:45pm, 6:15pm, 9:45pm), Sun 8/30 (11:15am, 2:45pm, 6:15pm, 9:45pm), Mon 8/31 (11:15am, 2:45pm, 6:15pm, 9:45pm), Tue 9/1 (11:15am, 2:45pm, 6:15pm, 9:45pm), Wed 9/2 (11:00am, 2:30pm, 6:00pm, 9:30pm)
+
+    * [Teenage Sex And Death At Camp Miasma](https://drafthouse.com/los-angeles/show/teenage-sex-and-death-at-camp-miasma): Thu 8/27 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Fri 8/28 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sat 8/29 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sun 8/30 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Mon 8/31 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Tue 9/1 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Wed 9/2 (12:30pm, 3:30pm, 6:30pm, 9:30pm)
+
+    * [The Dog Stars](https://drafthouse.com/los-angeles/show/the-dog-stars): Thu 8/27 (10:00pm), Fri 8/28 (12:15pm, 10:00pm), Sat 8/29 (12:15pm, 10:00pm), Sun 8/30 (12:15pm, 10:00pm), Mon 8/31 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Tue 9/1 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Wed 9/2 (12:15pm, 3:30pm, 6:45pm, 10:00pm)
+
+    * [The End Of Oak Street](https://drafthouse.com/los-angeles/show/the-end-of-oak-street): Thu 8/27 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:40pm), Fri 8/28 (1:00pm, 3:45pm, 6:30pm, 9:15pm), Sat 8/29 (10:40am, 1:00pm, 3:45pm, 6:30pm, 9:15pm), Sun 8/30 (10:15am, 1:00pm, 3:45pm, 6:30pm, 9:15pm), Mon 8/31 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Tue 9/1 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Wed 9/2 (11:00am, 1:45pm, 4:30pm, 7:15pm, 10:00pm)
+
+    * [The Fast And The Furious 25th Anniversary](https://drafthouse.com/los-angeles/show/the-fast-and-the-furious-25th-anniversary): Thu 8/27 (12:00pm)
+
+    * [The Odyssey](https://drafthouse.com/los-angeles/show/the-odyssey): Thu 8/27 (12:45pm, 3:00pm)
+
+    * [The Rivals Of Amziah King](https://drafthouse.com/los-angeles/show/the-rivals-of-amziah-king): Thu 8/27 (12:00pm)
+
+    * [The Samurai And The Prisoner](https://drafthouse.com/los-angeles/show/the-samurai-and-the-prisoner): Thu 8/27 (11:45am)
+
+    * [The Wrong Girls](https://drafthouse.com/los-angeles/show/the-wrong-girls): Thu 8/27 (1:30pm, 4:20pm), Fri 8/28 (1:00pm, 3:15pm), Sat 8/29 (2:00pm, 4:50pm, 7:40pm), Sun 8/30 (10:30am, 1:15pm, 4:45pm), Mon 8/31 (1:30pm, 4:20pm, 7:10pm), Tue 9/1 (1:30pm, 4:20pm), Wed 9/2 (1:30pm, 4:20pm)
+
+    * [Tony](https://drafthouse.com/los-angeles/show/tony): Thu 8/27 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Fri 8/28 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 8/29 (1:00pm, 3:00pm, 4:00pm, 7:00pm, 10:00pm), Sun 8/30 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Mon 8/31 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Tue 9/1 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Wed 9/2 (12:45pm, 3:45pm, 6:45pm, 9:45pm)
+
 ### Mon 8/24 8:41am
 * New movies: Queen Budapest
 
