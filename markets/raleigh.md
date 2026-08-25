@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Tue 8/25 6:35pm
+
+* New screenings: 
+    * [Paw Patrol The Dino Movie](https://drafthouse.com/raleigh/show/paw-patrol-the-dino-movie): Wed 8/26 (11:00am, 6:00pm)
+
+    * [Spider Man Brand New Day](https://drafthouse.com/raleigh/show/spider-man-brand-new-day): Wed 8/26 (2:00pm, 8:30pm)
+
 ### Tue 8/25 1:38pm
 * New movies: Boorman and the Devil
 
