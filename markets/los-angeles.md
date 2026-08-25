@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 8/25 10:34am
+* New movies: BOORMAN AND THE DEVIL
+
+* New screenings: 
+    * [Boorman And The Devil](https://drafthouse.com/los-angeles/show/boorman-and-the-devil): Sat 9/5 (1:00pm), Tue 9/8 (7:00pm)
+
 ### Mon 8/24 4:24pm
 
 * New screenings: 
