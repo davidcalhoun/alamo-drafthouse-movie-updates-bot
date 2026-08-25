@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 8/25 1:38pm
+* New movies: Boorman and the Devil
+
+* New screenings: 
+    * [Boorman And The Devil](https://drafthouse.com/raleigh/show/boorman-and-the-devil): Sat 9/5 (11:15am), Tue 9/8 (7:15pm)
+
 ### Tue 8/25 11:52am
 
 * New screenings: 
