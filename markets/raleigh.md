@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 8/25 11:52am
+
+* New screenings: 
+    * [The Dog Stars](https://drafthouse.com/raleigh/show/the-dog-stars): Thu 8/27 (10:00pm), Mon 8/31 (7:00pm), Tue 9/1 (6:00pm, 9:00pm), Wed 9/2 (6:00pm)
+
 ### Tue 8/25 12:47am
 
 * New screenings: 
