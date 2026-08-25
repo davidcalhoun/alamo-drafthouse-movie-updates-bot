@@ -1,6 +1,34 @@
 # raleigh
 
 ## Movie updates
+### Mon 8/24 11:06pm
+* New movies: Coyote Vs. ACME
+
+* New screenings: 
+    * [Coyote Vs Acme](https://drafthouse.com/raleigh/show/coyote-vs-acme): Thu 8/27 (12:15pm, 3:15pm, 6:15pm, 9:15pm)
+
+    * [Hdr By Barco Spider Man Brand New Day](https://drafthouse.com/raleigh/show/hdr-by-barco-spider-man-brand-new-day): Thu 8/27 (12:30pm)
+
+    * [Idiots](https://drafthouse.com/raleigh/show/idiots): Thu 8/27 (7:30pm)
+
+    * [Insidious Out Of The Further](https://drafthouse.com/raleigh/show/insidious-out-of-the-further): Thu 8/27 (11:00am, 1:50pm, 4:45pm, 7:45pm, 10:45pm)
+
+    * [Mutiny](https://drafthouse.com/raleigh/show/mutiny): Thu 8/27 (11:00am, 2:00pm, 5:00pm, 7:45pm, 10:30pm)
+
+    * [Paw Patrol The Dino Movie](https://drafthouse.com/raleigh/show/paw-patrol-the-dino-movie): Thu 8/27 (10:00am, 12:45pm, 1:45pm, 3:15pm, 6:00pm)
+
+    * [Remake](https://drafthouse.com/raleigh/show/remake): Thu 8/27 (4:30pm)
+
+    * [Spider Man Brand New Day](https://drafthouse.com/raleigh/show/spider-man-brand-new-day): Thu 8/27 (11:30am, 2:30pm, 3:00pm, 6:45pm, 9:30pm)
+
+    * [Teenage Sex And Death At Camp Miasma](https://drafthouse.com/raleigh/show/teenage-sex-and-death-at-camp-miasma): Thu 8/27 (9:00pm)
+
+    * [The End Of Oak Street](https://drafthouse.com/raleigh/show/the-end-of-oak-street): Thu 8/27 (10:45am, 1:30pm, 4:15pm, 7:15pm, 10:05pm)
+
+    * [The Odyssey](https://drafthouse.com/raleigh/show/the-odyssey): Thu 8/27 (10:15am, 2:15pm, 6:15pm, 10:30pm)
+
+    * [Tony](https://drafthouse.com/raleigh/show/tony): Thu 8/27 (11:30am, 12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
 ### Mon 8/24 7:28pm
 * New movies: A Chinese Ghost Story, His Motorbike, Her Island
 
