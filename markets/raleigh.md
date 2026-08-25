@@ -1,6 +1,33 @@
 # raleigh
 
 ## Movie updates
+### Tue 8/25 12:47am
+
+* New screenings: 
+    * [Coyote Vs Acme](https://drafthouse.com/raleigh/show/coyote-vs-acme): Fri 8/28 (12:30pm, 3:30pm, 5:45pm, 6:15pm, 9:15pm), Sat 8/29 (10:30am, 12:15pm, 3:15pm, 6:15pm, 9:15pm), Sun 8/30 (10:00am, 12:45pm, 3:30pm, 6:15pm, 9:15pm), Mon 8/31 (12:30pm, 1:30pm, 3:30pm, 6:15pm, 9:15pm), Tue 9/1 (12:45pm, 1:45pm, 3:30pm, 6:15pm, 9:15pm), Wed 9/2 (12:30pm, 1:45pm, 3:30pm, 6:15pm, 9:15pm)
+
+    * [Idiots](https://drafthouse.com/raleigh/show/idiots): Fri 8/28 (7:30pm), Sat 8/29 (7:30pm), Sun 8/30 (7:30pm), Mon 8/31 (7:30pm, 10:15pm), Tue 9/1 (7:30pm, 10:15pm), Wed 9/2 (7:30pm, 10:15pm)
+
+    * [Insidious Out Of The Further](https://drafthouse.com/raleigh/show/insidious-out-of-the-further): Fri 8/28 (11:30am, 2:25pm, 5:15pm, 8:10pm, 11:00pm), Sat 8/29 (11:00am, 2:00pm, 5:00pm, 8:00pm, 11:00pm), Sun 8/30 (11:00am, 2:00pm, 5:00pm, 8:00pm, 11:00pm), Mon 8/31 (12:15pm, 12:45pm, 3:45pm, 6:45pm, 9:45pm), Tue 9/1 (10:45am, 1:30pm, 4:15pm, 7:15pm, 10:45pm), Wed 9/2 (10:45am, 1:30pm, 4:15pm, 7:15pm, 10:45pm)
+
+    * [Mothra Vs Godzilla](https://drafthouse.com/raleigh/show/mothra-vs-godzilla): Tue 9/1 (4:30pm, 10:15pm), Wed 9/2 (4:30pm)
+
+    * [Mutiny](https://drafthouse.com/raleigh/show/mutiny): Fri 8/28 (11:00am, 2:00pm, 4:45pm, 7:45pm, 10:45pm), Sat 8/29 (10:45am, 1:30pm, 5:30pm, 7:15pm, 10:00pm), Sun 8/30 (12:00pm, 2:45pm, 4:30pm, 7:15pm, 10:00pm), Mon 8/31 (11:15am, 2:00pm, 4:45pm, 7:45pm, 10:45pm), Tue 9/1 (11:00am, 11:45am, 2:45pm, 6:15pm, 9:45pm), Wed 9/2 (11:00am, 12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
+    * [Paw Patrol The Dino Movie](https://drafthouse.com/raleigh/show/paw-patrol-the-dino-movie): Fri 8/28 (10:30am, 12:00pm, 1:15pm, 3:00pm, 6:00pm), Sat 8/29 (11:30am, 12:00pm, 1:15pm, 2:45pm, 6:00pm), Sun 8/30 (11:00am, 1:45pm, 4:45pm, 5:30pm, 6:00pm), Mon 8/31 (12:30pm, 3:15pm, 4:30pm, 6:15pm), Tue 9/1 (12:30pm, 1:15pm, 3:15pm, 3:45pm), Wed 9/2 (12:30pm, 1:15pm, 3:15pm, 3:45pm, 6:15pm)
+
+    * [Spider Man Brand New Day](https://drafthouse.com/raleigh/show/spider-man-brand-new-day): Fri 8/28 (10:30am, 2:00pm, 2:30pm, 6:30pm, 8:30pm, 10:30pm), Sat 8/29 (11:30am, 2:30pm, 6:30pm, 8:30pm, 10:30pm), Sun 8/30 (11:00am, 2:30pm, 5:30pm, 9:00pm, 9:30pm), Mon 8/31 (11:00am, 2:30pm, 6:00pm, 9:30pm), Tue 9/1 (11:00am, 2:45pm, 6:30pm, 10:00pm), Wed 9/2 (11:00am, 2:30pm, 6:30pm, 10:00pm)
+
+    * [Teenage Sex And Death At Camp Miasma](https://drafthouse.com/raleigh/show/teenage-sex-and-death-at-camp-miasma): Fri 8/28 (9:00pm), Sat 8/29 (9:00pm), Sun 8/30 (8:15pm), Mon 8/31 (9:00pm), Tue 9/1 (9:00pm), Wed 9/2 (9:00pm)
+
+    * [The Dog Stars](https://drafthouse.com/raleigh/show/the-dog-stars): Fri 8/28 (10:00am, 1:00pm, 4:00pm), Sat 8/29 (10:00am, 1:00pm, 4:00pm), Sun 8/30 (10:00am, 1:00pm, 4:00pm, 10:00pm), Mon 8/31 (1:00pm, 4:00pm, 10:00pm), Tue 9/1 (12:00pm, 3:00pm), Wed 9/2 (12:00pm, 3:00pm, 9:00pm)
+
+    * [The End Of Oak Street](https://drafthouse.com/raleigh/show/the-end-of-oak-street): Fri 8/28 (11:00am, 1:45pm, 4:45pm, 7:45pm, 10:30pm), Sat 8/29 (10:30am, 1:30pm, 4:30pm, 7:15pm, 10:30pm), Sun 8/30 (10:30am, 1:30pm, 4:30pm, 7:15pm, 10:30pm), Mon 8/31 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Tue 9/1 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Wed 9/2 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm)
+
+    * [The Odyssey](https://drafthouse.com/raleigh/show/the-odyssey): Fri 8/28 (10:15am, 2:15pm, 6:15pm, 10:15pm), Sat 8/29 (10:15am, 2:15pm, 6:15pm, 10:15pm), Sun 8/30 (10:15am, 2:15pm, 6:15pm, 10:15pm), Mon 8/31 (11:15am, 3:15pm, 7:15pm, 9:30pm), Tue 9/1 (10:30am, 2:30pm, 6:45pm), Wed 9/2 (10:30am, 2:45pm, 6:45pm, 10:15pm)
+
+    * [Tony](https://drafthouse.com/raleigh/show/tony): Fri 8/28 (12:00pm, 3:00pm, 4:15pm, 6:00pm, 9:00pm), Sat 8/29 (12:00pm, 3:00pm, 4:00pm, 6:00pm, 9:00pm), Sun 8/30 (10:30am, 2:30pm, 6:00pm, 9:00pm), Mon 8/31 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Tue 9/1 (1:00pm, 4:00pm, 6:30pm, 10:00pm), Wed 9/2 (1:00pm, 4:00pm, 6:30pm, 10:05pm)
+
 ### Mon 8/24 11:06pm
 * New movies: Coyote Vs. ACME
 
