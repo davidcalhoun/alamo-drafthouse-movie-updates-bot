@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 8/26 2:46pm
+* New movies: The Fog 1980
+
+* New screenings: 
+    * [Guest Selects The Fog 1980](https://drafthouse.com/los-angeles/show/guest-selects-the-fog-1980): Sat 9/5 (10:00pm)
+
 ### Wed 8/26 5:58am
 * New movies: The Uprising
 
