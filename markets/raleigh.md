@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 8/26 7:20pm
+* New movies: The Fog 1980
+
+* New screenings: 
+    * [Guest Selects The Fog 1980](https://drafthouse.com/raleigh/show/guest-selects-the-fog-1980): Fri 9/4 (9:30pm)
+
 ### Wed 8/26 3:12pm
 * New movies: Akira Subtitled in 4K, Akira Dubbed in 4K
 
