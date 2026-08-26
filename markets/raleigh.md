@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Wed 8/26 3:12pm
+* New movies: Akira Subtitled in 4K, Akira Dubbed in 4K
+
+* New screenings: 
+    * [Akira 4k Subtitled](https://drafthouse.com/raleigh/show/akira-4k-subtitled): Sat 9/5 (9:15pm), Sun 9/6 (6:00pm), Thu 9/10 (6:00pm)
+
+    * [Akira Dubbed In 4k](https://drafthouse.com/raleigh/show/akira-dubbed-in-4k): Sat 9/5 (6:00pm), Sun 9/6 (9:15pm), Thu 9/10 (9:15pm)
+
 ### Wed 8/26 9:08am
 * New movies: The Uprising
 
