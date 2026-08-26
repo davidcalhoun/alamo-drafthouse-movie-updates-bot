@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 8/26 9:08am
+* New movies: The Uprising
+
+* New screenings: 
+    * [The Uprising](https://drafthouse.com/raleigh/show/the-uprising): Thu 9/10 (7:15pm, 10:30pm), Fri 9/11 (7:15pm, 10:30pm), Sat 9/12 (7:15pm, 10:30pm), Sun 9/13 (7:15pm, 10:30pm)
+
 ### Tue 8/25 6:35pm
 
 * New screenings: 
