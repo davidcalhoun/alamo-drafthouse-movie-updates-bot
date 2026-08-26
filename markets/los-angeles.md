@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 8/26 5:58am
+* New movies: The Uprising
+
+* New screenings: 
+    * [The Uprising](https://drafthouse.com/los-angeles/show/the-uprising): Thu 9/10 (3:45pm, 7:00pm), Fri 9/11 (3:30pm, 6:45pm), Sat 9/12 (3:30pm, 6:45pm), Sun 9/13 (3:30pm, 6:45pm)
+
 ### Tue 8/25 10:34am
 * New movies: BOORMAN AND THE DEVIL
 
