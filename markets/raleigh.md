@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 8/27 4:18pm
+* New movies: Avengers Endgame: Encore
+
+* New screenings: 
+    * [Avengers Endgame Encore](https://drafthouse.com/raleigh/show/avengers-endgame-encore): Thu 9/24 (5:00pm), Fri 9/25 (5:00pm), Sat 9/26 (5:00pm), Sun 9/27 (5:00pm)
+
 ### Wed 8/26 7:20pm
 * New movies: The Fog 1980
 
