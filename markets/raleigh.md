@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 8/31 9:30am
+* New movies: Heart of the Beast
+
+* New screenings: 
+    * [Heart Of The Beast](https://drafthouse.com/raleigh/show/heart-of-the-beast): Thu 9/24 (2:00pm), Fri 9/25 (2:00pm), Sat 9/26 (2:00pm), Sun 9/27 (2:00pm)
+
 ### Thu 8/27 4:18pm
 * New movies: Avengers Endgame: Encore
 
