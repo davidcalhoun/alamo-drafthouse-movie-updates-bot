@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 8/31 4:08pm
+* New movies: Star Trek: The Motion Picture - Director's Edition
+
+* New screenings: 
+    * [Star Trek Day Star Trek The Motion Picture Directors Edition](https://drafthouse.com/los-angeles/show/star-trek-day-star-trek-the-motion-picture-directors-edition): Tue 9/8 (6:45pm)
+
 ### Wed 8/26 2:46pm
 * New movies: The Fog 1980
 
