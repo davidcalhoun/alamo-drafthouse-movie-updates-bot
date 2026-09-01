@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 9/1 10:44am
+* New movies: Resident Evil 2026
+
+* New screenings: 
+    * [Resident Evil 2026](https://drafthouse.com/raleigh/show/resident-evil-2026): Thu 9/17 (4:00pm, 7:00pm, 10:00pm), Fri 9/18 (11:00am, 2:00pm, 5:15pm, 8:15pm, 11:00pm), Sat 9/19 (11:00am, 2:00pm, 5:00pm, 8:00pm, 10:45pm), Sun 9/20 (11:45am, 2:30pm, 5:15pm, 8:00pm, 10:45pm)
+
 ### Tue 9/1 12:54am
 * New movies: Akira Dubbed in 4K
 
