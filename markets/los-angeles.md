@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 9/1 11:15am
+* New movies: The Weight, Dismember the Alamo 2026 - DTLA
+
+* New screenings: 
+    * [Dismember The Alamo 2026 Dtla](https://drafthouse.com/los-angeles/show/dismember-the-alamo-2026-dtla): Sat 10/17 (3:00pm)
+
+    * [Livestream Q A The Weight](https://drafthouse.com/los-angeles/show/livestream-q-a-the-weight): Thu 9/17 (6:00pm)
+
 ### Tue 9/1 7:37am
 * New movies: Resident Evil 2026
 
