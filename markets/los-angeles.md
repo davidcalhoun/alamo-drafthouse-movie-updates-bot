@@ -1,6 +1,54 @@
 # los-angeles
 
 ## Movie updates
+### Mon 8/31 9:20pm
+* New movies: Coyote Vs. ACME, Akira Dubbed in 4K, Curtains
+
+* New screenings: 
+    * [Akira Dubbed In 4k W Pre Recorded Q A](https://drafthouse.com/los-angeles/show/akira-dubbed-in-4k-w-pre-recorded-q-a): Thu 9/3 (3:30pm), Mon 9/7 (2:45pm, 9:45pm), Tue 9/8 (11:15am, 6:15pm), Wed 9/9 (2:45pm, 9:45pm)
+
+    * [Buddy 2026](https://drafthouse.com/los-angeles/show/buddy-2026): Thu 9/3 (12:00pm, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Fri 9/4 (1:00pm, 3:45pm, 6:30pm, 9:15pm), Sat 9/5 (10:45am, 1:30pm, 4:15pm, 7:00pm, 9:45pm), Sun 9/6 (10:45am, 1:30pm, 4:15pm, 7:00pm, 9:45pm), Mon 9/7 (2:00pm, 4:45pm, 7:30pm, 10:15pm), Tue 9/8 (10:45am, 1:30pm, 4:15pm, 7:00pm, 9:45pm), Wed 9/9 (2:00pm, 4:45pm, 7:30pm, 10:15pm)
+
+    * [Butthole Surfers The Hole Truth And Nothing Butt](https://drafthouse.com/los-angeles/show/butthole-surfers-the-hole-truth-and-nothing-butt): Thu 9/3 (6:00pm), Fri 9/4 (1:30pm), Sat 9/5 (12:45pm, 6:45pm), Sun 9/6 (1:00pm, 6:45pm, 9:45pm), Mon 9/7 (7:00pm, 10:00pm), Tue 9/8 (1:45pm, 10:15pm), Wed 9/9 (9:30pm)
+
+    * [By Any Means](https://drafthouse.com/los-angeles/show/by-any-means): Thu 9/3 (9:00pm), Fri 9/4 (12:00pm, 9:00pm), Sat 9/5 (10:00am, 1:00pm, 10:00pm), Sun 9/6 (10:00am, 1:00pm, 10:00pm), Mon 9/7 (12:00pm, 12:00pm, 3:00pm, 6:00pm, 9:00pm), Tue 9/8 (10:00am, 1:00pm, 4:00pm, 7:00pm, 10:00pm), Wed 9/9 (12:15pm, 3:15pm, 6:15pm, 9:15pm)
+
+    * [Coyote Vs Acme](https://drafthouse.com/los-angeles/show/coyote-vs-acme): Thu 9/3 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Fri 9/4 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 9/5 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sun 9/6 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Mon 9/7 (10:00am, 1:00pm, 4:00pm, 6:45pm, 9:30pm), Tue 9/8 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Wed 9/9 (12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
+    * [Finding Emily](https://drafthouse.com/los-angeles/show/finding-emily): Thu 9/3 (12:00pm), Fri 9/4 (11:30am), Sat 9/5 (10:30am), Sun 9/6 (10:30am), Mon 9/7 (10:30am), Tue 9/8 (10:45am), Wed 9/9 (11:20am)
+
+    * [Guest Selects The Fog 1980](https://drafthouse.com/los-angeles/show/guest-selects-the-fog-1980): Sun 9/6 (9:15pm)
+
+    * [Hope 2026](https://drafthouse.com/los-angeles/show/hope-2026): Wed 9/9 (2:15pm, 9:45pm)
+
+    * [Idiots](https://drafthouse.com/los-angeles/show/idiots): Thu 9/3 (9:15pm)
+
+    * [Insidious Out Of The Further](https://drafthouse.com/los-angeles/show/insidious-out-of-the-further): Thu 9/3 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Fri 9/4 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Sat 9/5 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sun 9/6 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Mon 9/7 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Tue 9/8 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Wed 9/9 (1:00pm, 3:15pm, 6:45pm, 9:45pm)
+
+    * [It Ends](https://drafthouse.com/los-angeles/show/it-ends): Sat 9/5 (10:30am), Sun 9/6 (6:30pm), Mon 9/7 (1:30pm), Wed 9/9 (1:45pm)
+
+    * [Kids Camp Moonrise Kingdom](https://drafthouse.com/los-angeles/show/kids-camp-moonrise-kingdom): Thu 9/3 (1:00pm)
+
+    * [Michael Manns Manhunter The Final Cut](https://drafthouse.com/los-angeles/show/michael-manns-manhunter-the-final-cut): Thu 9/3 (2:45pm)
+
+    * [Mothra Vs Godzilla](https://drafthouse.com/los-angeles/show/mothra-vs-godzilla): Thu 9/3 (3:45pm, 6:30pm)
+
+    * [Onslaught](https://drafthouse.com/los-angeles/show/onslaught): Thu 9/3 (9:30pm), Fri 9/4 (11:30am, 2:15pm, 10:30pm), Sat 9/5 (11:30am, 2:15pm, 10:30pm), Sun 9/6 (11:30am, 2:15pm, 10:30pm), Mon 9/7 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Tue 9/8 (10:30am, 1:15pm, 4:00pm, 6:15pm), Wed 9/9 (1:15pm, 4:00pm, 6:45pm, 9:30pm)
+
+    * [Spider Man Brand New Day](https://drafthouse.com/los-angeles/show/spider-man-brand-new-day): Thu 9/3 (12:45pm, 4:15pm, 7:45pm, 9:00pm), Fri 9/4 (11:00am, 2:30pm, 6:00pm, 9:30pm), Sat 9/5 (11:00am, 2:30pm, 6:00pm, 9:30pm), Sun 9/6 (11:00am, 2:30pm, 6:00pm, 9:30pm), Mon 9/7 (11:00am, 2:30pm, 6:00pm, 9:30pm), Tue 9/8 (11:00am, 2:30pm, 6:00pm, 9:30pm), Wed 9/9 (11:00am, 2:30pm, 6:00pm, 9:30pm)
+
+    * [Teenage Sex And Death At Camp Miasma](https://drafthouse.com/los-angeles/show/teenage-sex-and-death-at-camp-miasma): Thu 9/3 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Fri 9/4 (10:15am, 1:15pm, 4:15pm, 7:15pm, 10:15pm), Sat 9/5 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Sun 9/6 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Mon 9/7 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Tue 9/8 (1:45pm, 4:45pm, 7:45pm, 10:00pm), Wed 9/9 (1:30pm, 4:30pm, 7:30pm, 10:30pm)
+
+    * [Terror Tuesday Curtains](https://drafthouse.com/los-angeles/show/terror-tuesday-curtains): Tue 9/8 (7:30pm)
+
+    * [The Dog Stars](https://drafthouse.com/los-angeles/show/the-dog-stars): Thu 9/3 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Fri 9/4 (12:45pm, 4:00pm, 7:15pm, 9:15pm), Sat 9/5 (12:45pm, 4:00pm, 7:15pm, 9:15pm), Sun 9/6 (12:45pm, 4:00pm, 7:15pm, 9:15pm), Mon 9/7 (12:45pm, 4:00pm, 7:15pm, 9:15pm), Tue 9/8 (12:45pm, 4:00pm, 7:15pm, 9:00pm), Wed 9/9 (12:45pm, 4:00pm, 7:15pm, 9:15pm)
+
+    * [The End Of Oak Street](https://drafthouse.com/los-angeles/show/the-end-of-oak-street): Thu 9/3 (1:15pm)
+
+    * [The Wrong Girls](https://drafthouse.com/los-angeles/show/the-wrong-girls): Thu 9/3 (12:45pm), Fri 9/4 (10:15am), Mon 9/7 (11:15am), Wed 9/9 (11:15am)
+
+    * [Tony](https://drafthouse.com/los-angeles/show/tony): Thu 9/3 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Fri 9/4 (12:15pm, 3:15pm, 6:15pm, 10:30pm), Sat 9/5 (12:15pm, 3:15pm, 6:15pm, 10:30pm), Sun 9/6 (12:15pm, 3:15pm, 6:15pm, 10:30pm), Mon 9/7 (12:15pm, 3:15pm, 6:15pm, 10:30pm), Tue 9/8 (12:15pm, 3:15pm, 10:30pm), Wed 9/9 (12:15pm, 6:15pm, 10:30pm)
+
 ### Mon 8/31 4:08pm
 * New movies: Star Trek: The Motion Picture - Director's Edition
 
