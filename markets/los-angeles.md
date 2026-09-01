@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 9/1 7:37am
+* New movies: Resident Evil 2026
+
+* New screenings: 
+    * [Resident Evil 2026](https://drafthouse.com/los-angeles/show/resident-evil-2026): Thu 9/17 (7:00pm, 9:45pm), Fri 9/18 (4:15pm, 7:00pm, 9:45pm), Sat 9/19 (4:15pm, 7:00pm, 9:45pm), Sun 9/20 (4:15pm, 7:00pm, 9:45pm), Wed 9/23 (7:00pm, 9:45pm), Thu 9/24 (7:00pm, 9:45pm), Fri 9/25 (7:00pm, 9:45pm), Sat 9/26 (7:00pm, 9:45pm), Sun 9/27 (7:00pm, 9:45pm)
+
 ### Mon 8/31 9:20pm
 * New movies: Coyote Vs. ACME, Akira Dubbed in 4K, Curtains
 
