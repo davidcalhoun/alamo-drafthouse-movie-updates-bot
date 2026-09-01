@@ -1,6 +1,42 @@
 # raleigh
 
 ## Movie updates
+### Tue 9/1 12:54am
+* New movies: Akira Dubbed in 4K
+
+* New screenings: 
+    * [Akira 4k Subtitled](https://drafthouse.com/raleigh/show/akira-4k-subtitled): Thu 9/3 (2:00pm, 3:45pm, 7:00pm, 9:00pm)
+
+    * [Akira Dubbed In 4k](https://drafthouse.com/raleigh/show/akira-dubbed-in-4k): Thu 9/3 (5:30pm, 10:15pm), Sun 9/6 (2:45pm)
+
+    * [Akira Dubbed In 4k W Pre Recorded Q A](https://drafthouse.com/raleigh/show/akira-dubbed-in-4k-w-pre-recorded-q-a): Fri 9/4 (2:30pm, 9:40pm), Sat 9/5 (11:00am), Mon 9/7 (2:50pm, 10:40pm), Tue 9/8 (2:30pm, 9:40pm)
+
+    * [Butthole Surfers The Hole Truth And Nothing Butt](https://drafthouse.com/raleigh/show/butthole-surfers-the-hole-truth-and-nothing-butt): Thu 9/3 (11:00am, 1:30pm), Sun 9/6 (10:15pm), Mon 9/7 (12:00pm)
+
+    * [By Any Means](https://drafthouse.com/raleigh/show/by-any-means): Thu 9/3 (4:30pm), Fri 9/4 (10:15am, 1:30pm, 4:30pm), Sat 9/5 (10:30am, 1:30pm, 4:30pm), Sun 9/6 (10:30am, 1:30pm, 4:30pm), Mon 9/7 (11:15am, 2:30pm, 6:00pm, 9:00pm), Tue 9/8 (12:30pm, 3:30pm, 6:30pm, 10:00pm)
+
+    * [Coyote Vs Acme](https://drafthouse.com/raleigh/show/coyote-vs-acme): Thu 9/3 (6:30pm, 9:30pm), Fri 9/4 (10:00am, 1:00pm, 4:00pm, 6:45pm, 9:45pm), Sat 9/5 (10:00am, 1:00pm, 4:00pm, 6:45pm, 9:45pm), Sun 9/6 (10:00am, 1:00pm, 4:00pm, 6:45pm, 9:45pm), Mon 9/7 (1:30pm, 4:30pm, 6:30pm, 9:15pm), Tue 9/8 (1:15pm, 4:00pm, 6:45pm, 9:45pm)
+
+    * [Insidious Out Of The Further](https://drafthouse.com/raleigh/show/insidious-out-of-the-further): Thu 9/3 (1:30pm, 4:45pm, 8:00pm, 11:00pm), Fri 9/4 (10:45am, 1:45pm, 4:45pm, 7:45pm, 11:00pm), Sat 9/5 (10:15am, 1:15pm, 4:30pm, 7:45pm, 10:45pm), Sun 9/6 (10:15am, 1:30pm, 4:30pm, 7:45pm, 10:45pm), Mon 9/7 (1:00pm, 4:00pm, 7:00pm, 10:15pm), Tue 9/8 (12:00pm, 3:15pm, 6:45pm, 9:45pm)
+
+    * [Mothra Vs Godzilla](https://drafthouse.com/raleigh/show/mothra-vs-godzilla): Thu 9/3 (3:30pm)
+
+    * [Onslaught](https://drafthouse.com/raleigh/show/onslaught): Fri 9/4 (10:30am, 1:15pm, 4:00pm), Sat 9/5 (10:30am, 1:15pm, 4:00pm), Sun 9/6 (10:30am, 1:15pm, 4:00pm), Mon 9/7 (12:30pm, 3:15pm, 3:15pm, 6:00pm, 9:00pm), Tue 9/8 (12:30pm, 3:30pm, 6:30pm, 9:15pm)
+
+    * [Paw Patrol The Dino Movie](https://drafthouse.com/raleigh/show/paw-patrol-the-dino-movie): Thu 9/3 (11:15am, 12:30pm, 3:00pm), Fri 9/4 (12:00pm), Sat 9/5 (12:00pm), Sun 9/6 (11:30am), Mon 9/7 (12:30pm), Tue 9/8 (1:30pm)
+
+    * [Queer Film Theory 101 Little Shop Of Horrors 1986](https://drafthouse.com/raleigh/show/queer-film-theory-101-little-shop-of-horrors-1986): Thu 9/3 (1:00pm)
+
+    * [Spider Man Brand New Day](https://drafthouse.com/raleigh/show/spider-man-brand-new-day): Thu 9/3 (11:45am, 3:15pm, 6:45pm, 10:30pm), Fri 9/4 (11:45am, 3:15pm, 6:45pm, 10:30pm), Sat 9/5 (11:00am, 2:30pm, 6:45pm, 10:30pm), Sun 9/6 (11:00am, 2:30pm, 6:45pm, 10:30pm), Mon 9/7 (12:00pm, 6:30pm, 10:00pm), Tue 9/8 (11:00am, 2:45pm, 6:15pm, 10:00pm)
+
+    * [The Dog Stars](https://drafthouse.com/raleigh/show/the-dog-stars): Thu 9/3 (1:00pm, 4:00pm, 6:00pm, 9:15pm), Fri 9/4 (11:30am, 2:45pm, 6:00pm, 6:30pm, 9:15pm), Sat 9/5 (11:45am, 2:45pm, 6:00pm, 6:30pm, 9:00pm), Sun 9/6 (11:45am, 2:45pm, 6:00pm, 6:30pm, 9:00pm), Mon 9/7 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Tue 9/8 (1:15pm, 4:45pm, 7:45pm, 10:45pm)
+
+    * [The End Of Oak Street](https://drafthouse.com/raleigh/show/the-end-of-oak-street): Thu 9/3 (1:15pm, 4:15pm, 7:45pm, 10:45pm), Fri 9/4 (2:30pm, 5:15pm, 8:00pm, 10:45pm), Sat 9/5 (2:15pm, 5:15pm, 8:00pm, 11:00pm), Sun 9/6 (2:00pm, 5:15pm, 8:00pm, 11:00pm), Mon 9/7 (3:30pm, 6:15pm, 9:15pm), Tue 9/8 (4:20pm, 10:15pm)
+
+    * [The Odyssey](https://drafthouse.com/raleigh/show/the-odyssey): Thu 9/3 (11:30am, 2:00pm, 6:15pm, 10:15pm), Fri 9/4 (10:00am, 2:15pm, 6:15pm, 10:15pm), Sat 9/5 (10:00am, 2:15pm, 6:15pm, 10:15pm), Sun 9/6 (10:00am, 2:15pm, 6:15pm, 9:30pm), Mon 9/7 (11:30am, 3:45pm, 7:45pm, 9:45pm), Tue 9/8 (12:30pm, 5:00pm, 9:00pm)
+
+    * [Tony](https://drafthouse.com/raleigh/show/tony): Thu 9/3 (12:00pm, 3:00pm, 6:00pm, 9:15pm), Fri 9/4 (10:45am, 12:00pm, 3:00pm, 6:15pm, 9:15pm), Sat 9/5 (11:45am, 3:00pm, 6:15pm, 9:05pm), Sun 9/6 (12:00pm, 3:00pm, 6:15pm, 9:05pm), Mon 9/7 (11:45am, 2:45pm, 6:15pm, 9:15pm), Tue 9/8 (1:30pm, 4:45pm, 7:45pm, 10:35pm)
+
 ### Mon 8/31 9:30am
 * New movies: Heart of the Beast
 
