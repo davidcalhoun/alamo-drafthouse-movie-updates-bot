@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Tue 9/1 2:21pm
+* New movies: The Weight, Dismember the Alamo 2026 - Raleigh
+
+* New screenings: 
+    * [Dismember The Alamo 2026 Raleigh](https://drafthouse.com/raleigh/show/dismember-the-alamo-2026-raleigh): Sat 10/17 (3:00pm)
+
+    * [Livestream Q A The Weight](https://drafthouse.com/raleigh/show/livestream-q-a-the-weight): Thu 9/17 (9:00pm)
+
+    * [The End Of Oak Street](https://drafthouse.com/raleigh/show/the-end-of-oak-street): Mon 9/7 (2:30pm)
+
 ### Tue 9/1 10:44am
 * New movies: Resident Evil 2026
 
