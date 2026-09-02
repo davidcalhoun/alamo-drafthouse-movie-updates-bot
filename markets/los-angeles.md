@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 9/1 8:43pm
+* New movies: The Sun Never Sets
+
+* New screenings: 
+    * [The Sun Never Sets](https://drafthouse.com/los-angeles/show/the-sun-never-sets): Sat 9/5 (7:50pm), Mon 9/7 (9:45pm), Tue 9/8 (10:45am)
+
 ### Tue 9/1 11:15am
 * New movies: The Weight, Dismember the Alamo 2026 - DTLA
 
