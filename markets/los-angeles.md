@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 9/2 8:42pm
+* New movies: Akira Subtitled in 4K, Mystery Machine 9/14/2026
+
+* New screenings: 
+    * [Akira Subtitled In 4k W Pre Recorded Q A](https://drafthouse.com/los-angeles/show/akira-subtitled-in-4k-w-pre-recorded-q-a): Mon 9/7 (11:15am, 6:15pm), Tue 9/8 (2:45pm, 9:45pm), Wed 9/9 (11:15am, 6:15pm)
+
+    * [Mystery Machine 9 14 2026](https://drafthouse.com/los-angeles/show/mystery-machine-9-14-2026): Mon 9/14 (7:20pm)
+
 ### Tue 9/1 8:43pm
 * New movies: The Sun Never Sets
 
