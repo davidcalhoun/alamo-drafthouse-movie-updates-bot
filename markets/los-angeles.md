@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 9/3 6:23am
+* New movies: Primetime, Terminator 2: Judgment Day
+
+* New screenings: 
+    * [Primetime](https://drafthouse.com/los-angeles/show/primetime): Thu 9/24 (4:15pm, 7:15pm), Fri 9/25 (4:15pm, 7:15pm), Sat 9/26 (4:15pm, 7:15pm), Sun 9/27 (4:15pm, 7:15pm)
+
+    * [Terminator 2 Judgment Day](https://drafthouse.com/los-angeles/show/terminator-2-judgment-day): Thu 10/1 (6:00pm)
+
 ### Wed 9/2 8:42pm
 * New movies: Akira Subtitled in 4K, Mystery Machine 9/14/2026
 
