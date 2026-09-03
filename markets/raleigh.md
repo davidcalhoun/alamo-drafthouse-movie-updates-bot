@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Thu 9/3 10:23am
+* New movies: Primetime, Terminator 2: Judgment Day
+
+* New screenings: 
+    * [Primetime](https://drafthouse.com/raleigh/show/primetime): Thu 9/24 (6:00pm, 10:00pm), Fri 9/25 (7:00pm, 10:00pm), Sat 9/26 (7:30pm, 10:30pm), Sun 9/27 (7:00pm, 10:00pm)
+
+    * [Terminator 2 Judgment Day](https://drafthouse.com/raleigh/show/terminator-2-judgment-day): Thu 10/1 (6:30pm)
+
 ### Thu 9/3 12:13am
 * New movies: Akira Subtitled in 4K
 
