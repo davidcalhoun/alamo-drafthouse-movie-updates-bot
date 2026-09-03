@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 9/3 12:13am
+* New movies: Akira Subtitled in 4K
+
+* New screenings: 
+    * [Akira Subtitled In 4k W Pre Recorded Q A](https://drafthouse.com/raleigh/show/akira-subtitled-in-4k-w-pre-recorded-q-a): Fri 9/4 (11:00am, 6:00pm), Sat 9/5 (2:25pm), Sun 9/6 (11:00am), Mon 9/7 (11:30am, 7:15pm), Tue 9/8 (11:00am, 6:00pm)
+
 ### Tue 9/1 2:21pm
 * New movies: The Weight, Dismember the Alamo 2026 - Raleigh
 
