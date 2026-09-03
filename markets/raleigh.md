@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Thu 9/3 5:39pm
+* New movies: Mystery Machine 9/21/2026, GHOST IN THE SHELL SUBTITLED, THE TEXAS CHAIN SAW MASSACRE 1974
+
+* New screenings: 
+    * [Ghost In The Shell Subtitled](https://drafthouse.com/raleigh/show/ghost-in-the-shell-subtitled): Sat 9/19 (12:30pm)
+
+    * [Mystery Machine 9 21 2026](https://drafthouse.com/raleigh/show/mystery-machine-9-21-2026): Mon 9/14 (7:00pm)
+
+    * [The Texas Chainsaw Massacre 1974](https://drafthouse.com/raleigh/show/the-texas-chainsaw-massacre-1974): Tue 10/13 (7:00pm)
+
 ### Thu 9/3 10:23am
 * New movies: Primetime, Terminator 2: Judgment Day
 
