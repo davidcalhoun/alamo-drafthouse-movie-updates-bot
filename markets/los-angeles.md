@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 9/4 7:52am
+* New movies: Verity, Verity
+
+* New screenings: 
+    * [Advance Screening Verity Early Access Girls Night Out](https://drafthouse.com/los-angeles/show/advance-screening-verity-early-access-girls-night-out): Wed 9/30 (7:15pm)
+
+    * [Verity](https://drafthouse.com/los-angeles/show/verity): Fri 10/2 (3:30pm, 6:45pm), Sat 10/3 (6:00pm), Sun 10/4 (2:45pm, 6:00pm)
+
 ### Thu 9/3 6:23am
 * New movies: Primetime, Terminator 2: Judgment Day
 
