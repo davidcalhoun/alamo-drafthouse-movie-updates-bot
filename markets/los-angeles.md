@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 9/4 2:18pm
+* New movies: TERROR TUESDAY: ALLIGATOR
+
+* New screenings: 
+    * [Terror Tuesday Alligator](https://drafthouse.com/los-angeles/show/terror-tuesday-alligator): Tue 9/22 (7:30pm)
+
 ### Fri 9/4 7:52am
 * New movies: Verity, Verity
 
