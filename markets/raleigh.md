@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Fri 9/4 10:12am
+* New movies: Verity, Verity, Verity
+
+* New screenings: 
+    * [Advance Screening Verity Hdr Early Access Girls Night Out](https://drafthouse.com/raleigh/show/advance-screening-verity-hdr-early-access-girls-night-out): Wed 9/30 (7:30pm)
+
+    * [Alamo Drafthouse Movie Book Club Verity](https://drafthouse.com/raleigh/show/alamo-drafthouse-movie-book-club-verity): Sat 10/3 (3:30pm)
+
+    * [Verity](https://drafthouse.com/raleigh/show/verity): Thu 10/1 (4:00pm, 7:00pm), Fri 10/2 (12:00pm, 3:00pm, 6:00pm), Sat 10/3 (12:00pm, 3:00pm, 6:00pm), Sun 10/4 (12:00pm, 3:00pm, 6:00pm)
+
 ### Thu 9/3 5:39pm
 * New movies: Mystery Machine 9/21/2026, GHOST IN THE SHELL SUBTITLED, THE TEXAS CHAIN SAW MASSACRE 1974
 
