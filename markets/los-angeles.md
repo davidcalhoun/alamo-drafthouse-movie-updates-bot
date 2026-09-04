@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 9/4 4:49pm
+* New movies: Verity, Mystery Machine 9/21/2026
+
+* New screenings: 
+    * [Alamo Drafthouse Movie Book Club Verity](https://drafthouse.com/los-angeles/show/alamo-drafthouse-movie-book-club-verity): Sat 10/3 (2:00pm)
+
+    * [Mystery Machine 9 21 2026](https://drafthouse.com/los-angeles/show/mystery-machine-9-21-2026): Mon 9/21 (7:15pm)
+
 ### Fri 9/4 2:18pm
 * New movies: TERROR TUESDAY: ALLIGATOR
 
