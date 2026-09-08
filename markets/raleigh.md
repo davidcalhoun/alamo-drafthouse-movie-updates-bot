@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Tue 9/8 10:22am
+* New movies: Forgotten Island, Forgotten Island
+
+* New screenings: 
+    * [Family Party Forgotten Island](https://drafthouse.com/raleigh/show/family-party-forgotten-island): Sat 9/26 (4:00pm)
+
+    * [Forgotten Island](https://drafthouse.com/raleigh/show/forgotten-island): Fri 9/25 (11:00am), Sat 9/26 (11:00am), Sun 9/27 (11:00am)
+
 ### Fri 9/4 10:12am
 * New movies: Verity, Verity, Verity
 
