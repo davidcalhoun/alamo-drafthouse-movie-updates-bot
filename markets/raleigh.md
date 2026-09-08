@@ -1,6 +1,20 @@
 # raleigh
 
 ## Movie updates
+### Tue 9/8 5:45pm
+* New movies: Mystery Machine 9/14/2026, American Doctor, Barrio Triste, NOFX: 40 Years of Fuckin' Up
+
+* New screenings: 
+    * [Barrio Triste](https://drafthouse.com/raleigh/show/barrio-triste): Sat 9/12 (9:45pm)
+
+    * [Live Qa American Doctor](https://drafthouse.com/raleigh/show/live-qa-american-doctor): Sat 9/12 (11:00am)
+
+    * [Mystery Machine 9 14 2026](https://drafthouse.com/raleigh/show/mystery-machine-9-14-2026): Mon 9/14 (7:00pm)
+
+    * [Mystery Machine 9 21 2026](https://drafthouse.com/raleigh/show/mystery-machine-9-21-2026): Mon 9/21 (7:15pm)
+
+    * [Nofx 40 Years Of Fuckin Up](https://drafthouse.com/raleigh/show/nofx-40-years-of-fuckin-up): Sat 9/26 (9:00pm)
+
 ### Tue 9/8 10:22am
 * New movies: Forgotten Island, Forgotten Island
 
