@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 9/8 4:56pm
+* New movies: The Scout
+
+* New screenings: 
+    * [Live Q A The Scout](https://drafthouse.com/los-angeles/show/live-q-a-the-scout): Thu 10/1 (7:45pm), Fri 10/2 (7:00pm), Sat 10/3 (7:00pm)
+
 ### Tue 9/8 2:41pm
 * New movies: Barrio Triste
 
