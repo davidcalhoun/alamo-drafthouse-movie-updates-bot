@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 9/8 8:01am
+* New movies: Forgotten Island, Forgotten Island
+
+* New screenings: 
+    * [Family Party Forgotten Island](https://drafthouse.com/los-angeles/show/family-party-forgotten-island): Sat 9/26 (11:00am)
+
+    * [Forgotten Island](https://drafthouse.com/los-angeles/show/forgotten-island): Thu 9/24 (3:00pm, 6:00pm), Fri 9/25 (12:00pm, 3:00pm, 6:00pm), Sat 9/26 (3:00pm, 6:00pm), Sun 9/27 (12:00pm, 3:00pm, 6:00pm)
+
 ### Fri 9/4 4:49pm
 * New movies: Verity, Mystery Machine 9/21/2026
 
