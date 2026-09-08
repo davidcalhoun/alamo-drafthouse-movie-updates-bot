@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Tue 9/8 11:23am
+* New movies: Mystery Machine 9/14/2026, Wolf Guy, American Doctor, Dreams in Nightmares
+
+* New screenings: 
+    * [American Doctor](https://drafthouse.com/los-angeles/show/american-doctor): Sun 9/13 (1:00pm)
+
+    * [Dreams In Nightmares](https://drafthouse.com/los-angeles/show/dreams-in-nightmares): Wed 9/16 (7:15pm)
+
+    * [Mystery Machine 9 14 2026](https://drafthouse.com/los-angeles/show/mystery-machine-9-14-2026): Mon 9/14 (7:20pm)
+
+    * [Weird Wednesday Wolf Guy](https://drafthouse.com/los-angeles/show/weird-wednesday-wolf-guy): Wed 9/9 (7:00pm)
+
 ### Tue 9/8 8:01am
 * New movies: Forgotten Island, Forgotten Island
 
