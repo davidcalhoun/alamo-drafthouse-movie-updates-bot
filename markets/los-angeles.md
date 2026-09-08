@@ -1,6 +1,52 @@
 # los-angeles
 
 ## Movie updates
+### Tue 9/8 2:41pm
+* New movies: Barrio Triste
+
+* New screenings: 
+    * [Akira Dubbed In 4k W Pre Recorded Q A](https://drafthouse.com/los-angeles/show/akira-dubbed-in-4k-w-pre-recorded-q-a): Thu 9/10 (11:15am, 6:15pm), Fri 9/11 (11:30am, 6:30pm), Sat 9/12 (3:00pm, 10:00pm), Sun 9/13 (11:30am, 6:30pm), Mon 9/14 (3:00pm, 10:00pm), Tue 9/15 (11:30am, 6:30pm), Wed 9/16 (3:00pm, 10:00pm)
+
+    * [Akira Subtitled In 4k W Pre Recorded Q A](https://drafthouse.com/los-angeles/show/akira-subtitled-in-4k-w-pre-recorded-q-a): Thu 9/10 (2:45pm, 9:45pm), Fri 9/11 (3:00pm, 10:00pm), Sat 9/12 (11:30am, 6:30pm), Sun 9/13 (3:00pm, 10:00pm), Mon 9/14 (11:30am, 6:30pm), Tue 9/15 (3:00pm, 10:00pm), Wed 9/16 (11:30am, 6:30pm)
+
+    * [American Doctor](https://drafthouse.com/los-angeles/show/american-doctor): Wed 9/16 (12:15pm)
+
+    * [Barrio Triste](https://drafthouse.com/los-angeles/show/barrio-triste): Fri 9/11 (12:45pm), Sat 9/12 (9:45pm), Mon 9/14 (1:00pm), Tue 9/15 (10:15pm), Wed 9/16 (10:30pm)
+
+    * [Buddy 2026](https://drafthouse.com/los-angeles/show/buddy-2026): Thu 9/10 (2:15pm, 5:00pm, 7:45pm, 10:30pm), Fri 9/11 (2:15pm, 5:00pm, 7:45pm, 10:30pm), Sat 9/12 (2:15pm, 5:00pm, 7:45pm, 10:30pm), Sun 9/13 (2:15pm, 5:00pm, 7:45pm, 10:30pm), Mon 9/14 (2:15pm, 5:00pm, 7:45pm, 10:30pm), Tue 9/15 (2:15pm, 5:00pm, 7:45pm, 10:30pm), Wed 9/16 (2:15pm, 5:00pm, 7:45pm, 10:30pm)
+
+    * [Butthole Surfers The Hole Truth And Nothing Butt](https://drafthouse.com/los-angeles/show/butthole-surfers-the-hole-truth-and-nothing-butt): Thu 9/10 (10:15pm)
+
+    * [By Any Means](https://drafthouse.com/los-angeles/show/by-any-means): Thu 9/10 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Fri 9/11 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Sat 9/12 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Sun 9/13 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Mon 9/14 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Tue 9/15 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Wed 9/16 (12:45pm, 3:45pm, 6:45pm, 9:45pm)
+
+    * [Coyote Vs Acme](https://drafthouse.com/los-angeles/show/coyote-vs-acme): Thu 9/10 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Fri 9/11 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 9/12 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sun 9/13 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Mon 9/14 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Tue 9/15 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Wed 9/16 (12:15pm, 3:15pm, 6:15pm, 10:15pm)
+
+    * [Dreams In Nightmares](https://drafthouse.com/los-angeles/show/dreams-in-nightmares): Mon 9/14 (3:40pm)
+
+    * [Finding Emily](https://drafthouse.com/los-angeles/show/finding-emily): Thu 9/10 (12:30pm)
+
+    * [First Blood](https://drafthouse.com/los-angeles/show/first-blood): Fri 9/11 (12:30pm), Sun 9/13 (9:45pm), Mon 9/14 (10:15pm), Tue 9/15 (12:15pm), Wed 9/16 (4:30pm)
+
+    * [Hope 2026](https://drafthouse.com/los-angeles/show/hope-2026): Thu 9/10 (12:00pm, 3:30pm, 9:45pm), Fri 9/11 (10:30am, 3:30pm, 7:15pm, 9:45pm), Sat 9/12 (10:30am, 2:15pm, 6:00pm, 6:45pm, 9:45pm), Sun 9/13 (10:30am, 2:15pm, 6:00pm, 9:45pm), Mon 9/14 (12:30pm, 2:15pm, 6:00pm, 9:45pm), Tue 9/15 (10:30am, 12:30pm, 2:15pm, 6:00pm, 9:45pm), Wed 9/16 (12:45pm, 2:15pm, 6:00pm, 9:45pm)
+
+    * [Insidious Out Of The Further](https://drafthouse.com/los-angeles/show/insidious-out-of-the-further): Thu 9/10 (1:00pm)
+
+    * [Onslaught](https://drafthouse.com/los-angeles/show/onslaught): Thu 9/10 (1:15pm, 4:00pm, 6:45pm, 9:30pm), Fri 9/11 (10:45am, 1:30pm, 4:15pm, 7:00pm, 10:00pm), Sat 9/12 (10:45am, 1:30pm, 4:15pm, 7:00pm, 10:00pm), Sun 9/13 (10:45am, 1:30pm, 4:15pm, 7:00pm, 10:00pm), Mon 9/14 (1:00pm, 3:45pm, 6:30pm, 10:00pm), Tue 9/15 (10:45am, 1:30pm, 4:15pm, 7:00pm, 10:00pm), Wed 9/16 (1:00pm, 3:45pm, 6:30pm, 10:00pm)
+
+    * [Practical Magic 2](https://drafthouse.com/los-angeles/show/practical-magic-2): Thu 9/10 (7:15pm, 9:30pm), Fri 9/11 (3:15pm, 6:30pm, 10:15pm), Sat 9/12 (12:00pm, 3:15pm, 6:30pm), Sun 9/13 (12:00pm, 3:15pm, 6:30pm, 10:15pm), Mon 9/14 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Tue 9/15 (10:30am, 1:40pm, 3:00pm, 4:50pm, 6:15pm, 8:00pm, 9:30pm), Wed 9/16 (12:30pm, 3:45pm, 7:00pm, 9:15pm)
+
+    * [Spider Man Brand New Day](https://drafthouse.com/los-angeles/show/spider-man-brand-new-day): Thu 9/10 (11:00am, 2:30pm, 6:00pm, 9:30pm), Fri 9/11 (11:15am, 2:45pm, 6:15pm, 9:45pm), Sat 9/12 (11:15am, 2:45pm, 6:15pm, 9:45pm), Sun 9/13 (11:15am, 2:45pm, 6:15pm, 9:45pm), Mon 9/14 (11:15am, 2:45pm, 6:15pm, 9:45pm), Tue 9/15 (11:15am, 2:45pm, 6:15pm, 9:45pm), Wed 9/16 (11:15am, 2:45pm, 6:15pm, 9:45pm)
+
+    * [Teenage Sex And Death At Camp Miasma](https://drafthouse.com/los-angeles/show/teenage-sex-and-death-at-camp-miasma): Thu 9/10 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Fri 9/11 (10:15am, 4:15pm, 7:15pm, 10:40pm), Sat 9/12 (10:15am, 1:15pm, 4:15pm, 7:15pm, 10:15pm), Sun 9/13 (10:15am, 1:15pm, 4:15pm, 7:15pm, 10:40pm), Mon 9/14 (1:20pm, 7:15pm, 10:15pm), Tue 9/15 (10:15am, 1:15pm, 4:15pm, 7:15pm, 10:15pm), Wed 9/16 (1:15pm, 4:15pm, 7:15pm, 10:15pm)
+
+    * [The Dog Stars](https://drafthouse.com/los-angeles/show/the-dog-stars): Thu 9/10 (11:45am)
+
+    * [The Sun Never Sets](https://drafthouse.com/los-angeles/show/the-sun-never-sets): Fri 9/11 (1:20pm), Mon 9/14 (4:20pm)
+
+    * [The Uprising](https://drafthouse.com/los-angeles/show/the-uprising): Thu 9/10 (9:30pm), Fri 9/11 (12:15pm, 9:45pm), Sat 9/12 (12:15pm, 9:45pm), Sun 9/13 (12:15pm, 9:45pm), Mon 9/14 (12:15pm, 3:30pm, 6:45pm, 9:15pm), Tue 9/15 (12:15pm, 3:30pm, 6:45pm, 9:45pm), Wed 9/16 (12:15pm, 3:30pm, 6:45pm, 9:15pm)
+
+    * [Tony](https://drafthouse.com/los-angeles/show/tony): Thu 9/10 (11:15am, 10:30pm), Fri 9/11 (11:15am, 9:45pm), Sat 9/12 (11:15am, 10:30pm), Sun 9/13 (11:15am, 10:10pm), Mon 9/14 (11:15am, 4:15pm, 10:30pm), Tue 9/15 (11:15am, 4:15pm), Wed 9/16 (11:15am, 3:00pm)
+
 ### Tue 9/8 11:23am
 * New movies: Mystery Machine 9/14/2026, Wolf Guy, American Doctor, Dreams in Nightmares
 
