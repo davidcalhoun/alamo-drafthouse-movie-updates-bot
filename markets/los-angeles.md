@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 9/9 6:34am
+* New movies: If I Go Will They Miss Me
+
+* New screenings: 
+    * [If I Go Will They Miss Me](https://drafthouse.com/los-angeles/show/if-i-go-will-they-miss-me): Fri 9/18 (4:00pm, 6:45pm), Sat 9/19 (3:45pm, 6:30pm), Sun 9/20 (3:45pm, 6:30pm)
+
 ### Tue 9/8 4:56pm
 * New movies: The Scout
 
