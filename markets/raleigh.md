@@ -1,6 +1,42 @@
 # raleigh
 
 ## Movie updates
+### Wed 9/9 5:37pm
+* New movies: Repo! The Genetic Opera, Der Fan, Daughters of Darkness, A Tale of Two Sisters, Ginger Snaps, Manos: The Hands of Fate, Beetlejuice, Blue Velvet, Halloween 1978, Showgirls, The Craft, Trick or Treat 1986, TERROR TUESDAY: CEMETERY MAN - 4K RESTORATION, TERROR TUESDAY: SPOOKIES, WEIRD WEDNESDAY: SPIDER BABY
+
+* New screenings: 
+    * [Beetlejuice](https://drafthouse.com/raleigh/show/beetlejuice): Thu 10/8 (7:00pm)
+
+    * [Blue Velvet](https://drafthouse.com/raleigh/show/blue-velvet): Sun 10/4 (12:30pm)
+
+    * [Halloween 1978](https://drafthouse.com/raleigh/show/halloween-1978): Sat 10/31 (3:15pm)
+
+    * [Movie Party Repo The Genetic Opera](https://drafthouse.com/raleigh/show/movie-party-repo-the-genetic-opera): Mon 10/12 (6:30pm)
+
+    * [Nofx 40 Years Of Fuckin Up](https://drafthouse.com/raleigh/show/nofx-40-years-of-fuckin-up): Sat 10/24 (9:30pm)
+
+    * [Queer Film Theory 101 Daughters Of Darkness](https://drafthouse.com/raleigh/show/queer-film-theory-101-daughters-of-darkness): Mon 10/26 (7:00pm)
+
+    * [Sad Girl Cinema Club A Tale Of Two Sisters](https://drafthouse.com/raleigh/show/sad-girl-cinema-club-a-tale-of-two-sisters): Wed 10/21 (7:00pm)
+
+    * [Showgirls](https://drafthouse.com/raleigh/show/showgirls): Sun 10/11 (11:30am)
+
+    * [Terror Tuesday Cemetery Man](https://drafthouse.com/raleigh/show/terror-tuesday-cemetery-man): Tue 10/27 (9:30pm)
+
+    * [Terror Tuesday Der Fan](https://drafthouse.com/raleigh/show/terror-tuesday-der-fan): Tue 10/6 (9:30pm)
+
+    * [Terror Tuesday Ginger Snaps](https://drafthouse.com/raleigh/show/terror-tuesday-ginger-snaps): Tue 10/13 (10:00pm)
+
+    * [Terror Tuesday Spookies](https://drafthouse.com/raleigh/show/terror-tuesday-spookies): Tue 10/20 (9:45pm)
+
+    * [The Craft](https://drafthouse.com/raleigh/show/the-craft): Thu 10/22 (7:00pm)
+
+    * [Trick Or Treat 1986](https://drafthouse.com/raleigh/show/trick-or-treat-1986): Sat 10/31 (9:30pm)
+
+    * [Weird Wednesday Manos The Hands Of Fate](https://drafthouse.com/raleigh/show/weird-wednesday-manos-the-hands-of-fate): Wed 10/28 (9:30pm)
+
+    * [Weird Wednesday Spider Baby](https://drafthouse.com/raleigh/show/weird-wednesday-spider-baby): Wed 10/7 (9:30pm)
+
 ### Wed 9/9 2:29pm
 * New movies: Akira Subtitled in 4K, Butthole Surfers: The Hole Truth and Nothing Butt, American Doctor, The Texas Chain Saw Massacre 1974, Dreams in Nightmares
 
