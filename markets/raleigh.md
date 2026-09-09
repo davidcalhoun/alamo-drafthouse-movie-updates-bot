@@ -1,6 +1,48 @@
 # raleigh
 
 ## Movie updates
+### Wed 9/9 2:29pm
+* New movies: Akira Subtitled in 4K, Butthole Surfers: The Hole Truth and Nothing Butt, American Doctor, The Texas Chain Saw Massacre 1974, Dreams in Nightmares
+
+* New screenings: 
+    * [Akira Dubbed In 4k W Pre Recorded Q A](https://drafthouse.com/raleigh/show/akira-dubbed-in-4k-w-pre-recorded-q-a): Thu 9/10 (2:30pm), Fri 9/11 (11:45am, 6:45pm), Sat 9/12 (11:45am, 6:45pm), Sun 9/13 (11:45am, 6:45pm), Mon 9/14 (11:00am, 6:15pm), Tue 9/15 (11:45am, 6:45pm), Wed 9/16 (12:00pm, 7:00pm)
+
+    * [Akira Subtitled In 4k W Pre Recorded Q A](https://drafthouse.com/raleigh/show/akira-subtitled-in-4k-w-pre-recorded-q-a): Thu 9/10 (11:00am), Fri 9/11 (3:15pm, 10:15pm), Sat 9/12 (3:15pm, 10:15pm), Sun 9/13 (3:15pm, 10:15pm), Mon 9/14 (2:45pm, 9:45pm), Tue 9/15 (3:15pm, 10:15pm), Wed 9/16 (3:30pm, 10:30pm)
+
+    * [Butthole Surfers The Hole Truth And Nothing Butt](https://drafthouse.com/raleigh/show/butthole-surfers-the-hole-truth-and-nothing-butt): Thu 9/10 (1:00pm)
+
+    * [By Any Means](https://drafthouse.com/raleigh/show/by-any-means): Thu 9/10 (1:30pm, 4:45pm, 7:45pm, 10:15pm), Fri 9/11 (1:45pm, 4:45pm, 7:45pm, 10:45pm), Sat 9/12 (1:45pm, 4:45pm, 7:45pm, 10:45pm), Sun 9/13 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Mon 9/14 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Tue 9/15 (1:45pm, 4:45pm, 7:45pm, 10:45pm), Wed 9/16 (1:15pm, 4:15pm, 7:15pm, 10:15pm)
+
+    * [Coyote Vs Acme](https://drafthouse.com/raleigh/show/coyote-vs-acme): Thu 9/10 (1:30pm, 4:30pm, 6:30pm, 9:30pm), Fri 9/11 (12:45pm, 3:40pm, 6:30pm, 9:30pm), Sat 9/12 (1:00pm, 4:00pm, 6:30pm, 9:30pm), Sun 9/13 (11:00am, 3:30pm, 7:30pm, 9:00pm), Mon 9/14 (11:15am, 3:30pm, 7:30pm, 9:00pm), Tue 9/15 (12:45pm, 3:40pm, 6:30pm, 10:30pm), Wed 9/16 (12:15pm, 3:10pm, 6:15pm, 9:15pm)
+
+    * [Dreams In Nightmares](https://drafthouse.com/raleigh/show/dreams-in-nightmares): Wed 9/16 (5:30pm)
+
+    * [Hope 2026](https://drafthouse.com/raleigh/show/hope-2026): Thu 9/10 (11:30am, 2:15pm, 3:15pm, 6:30pm), Fri 9/11 (11:30am, 1:15pm, 3:15pm, 5:00pm, 8:30pm, 9:00pm), Sat 9/12 (11:30am, 3:15pm, 5:15pm, 8:00pm), Sun 9/13 (11:30am, 1:30pm, 2:00pm, 5:15pm, 7:30pm), Mon 9/14 (11:30am, 1:30pm, 2:15pm, 5:15pm, 6:00pm, 10:00pm), Tue 9/15 (11:30am, 1:30pm, 3:15pm, 5:15pm, 7:00pm, 10:45pm), Wed 9/16 (11:00am, 1:30pm, 2:45pm, 6:30pm, 10:15pm)
+
+    * [Insidious Out Of The Further](https://drafthouse.com/raleigh/show/insidious-out-of-the-further): Thu 9/10 (10:15pm), Fri 9/11 (2:35pm), Sat 9/12 (2:00pm, 10:30pm), Sun 9/13 (10:40pm), Mon 9/14 (10:45pm), Tue 9/15 (11:00pm), Wed 9/16 (10:45pm)
+
+    * [Live Qa American Doctor](https://drafthouse.com/raleigh/show/live-qa-american-doctor): Sat 9/12 (1:30pm)
+
+    * [Onslaught](https://drafthouse.com/raleigh/show/onslaught): Thu 9/10 (11:30am, 12:30pm), Fri 9/11 (12:00pm), Sat 9/12 (11:15am), Sun 9/13 (1:00pm), Mon 9/14 (8:00pm), Tue 9/15 (8:00pm), Wed 9/16 (8:00pm)
+
+    * [Paw Patrol The Dino Movie](https://drafthouse.com/raleigh/show/paw-patrol-the-dino-movie): Thu 9/10 (12:00pm)
+
+    * [Practical Magic 2](https://drafthouse.com/raleigh/show/practical-magic-2): Thu 9/10 (2:45pm, 3:15pm, 4:00pm, 7:15pm, 10:45pm), Fri 9/11 (11:00am, 12:15pm, 2:30pm, 4:00pm, 7:15pm, 10:30pm), Sat 9/12 (11:00am, 2:15pm, 7:15pm), Sun 9/13 (12:45pm, 1:00pm, 4:00pm, 4:15pm, 10:30pm), Mon 9/14 (12:30pm, 1:00pm, 3:45pm, 4:15pm, 6:30pm, 9:45pm, 10:30pm), Tue 9/15 (11:00am, 12:15pm, 2:30pm, 4:00pm, 6:00pm, 7:15pm, 9:15pm), Wed 9/16 (11:30am, 1:00pm, 2:45pm, 4:15pm, 7:30pm, 10:45pm)
+
+    * [Spider Man Brand New Day](https://drafthouse.com/raleigh/show/spider-man-brand-new-day): Thu 9/10 (11:00am, 2:45pm, 6:15pm, 9:45pm), Fri 9/11 (11:00am, 2:45pm, 6:15pm, 9:45pm), Sat 9/12 (11:00am, 2:45pm, 6:15pm, 9:00pm), Sun 9/13 (11:15am, 2:45pm, 6:15pm, 9:45pm), Mon 9/14 (11:00am, 2:45pm, 6:15pm, 9:45pm), Tue 9/15 (11:00am, 2:45pm, 6:15pm, 9:45pm), Wed 9/16 (11:15am, 2:45pm, 6:15pm, 9:45pm)
+
+    * [The Dog Stars](https://drafthouse.com/raleigh/show/the-dog-stars): Thu 9/10 (10:30pm), Mon 9/14 (10:20pm), Tue 9/15 (9:00pm), Wed 9/16 (9:00pm)
+
+    * [The End Of Oak Street](https://drafthouse.com/raleigh/show/the-end-of-oak-street): Thu 9/10 (10:45pm)
+
+    * [The Odyssey](https://drafthouse.com/raleigh/show/the-odyssey): Thu 9/10 (12:00pm, 4:15pm, 8:15pm), Fri 9/11 (2:00pm, 6:00pm, 10:00pm), Sat 9/12 (1:45pm, 6:00pm, 10:00pm), Sun 9/13 (2:00pm, 6:00pm, 10:00pm), Mon 9/14 (1:00pm, 2:00pm, 6:00pm, 10:00pm), Tue 9/15 (1:00pm, 2:00pm, 6:00pm, 10:00pm), Wed 9/16 (1:00pm, 2:00pm, 6:00pm, 10:00pm)
+
+    * [The Texas Chainsaw Massacre 1974](https://drafthouse.com/raleigh/show/the-texas-chainsaw-massacre-1974): Tue 10/13 (7:00pm)
+
+    * [The Uprising](https://drafthouse.com/raleigh/show/the-uprising): Thu 9/10 (4:00pm), Fri 9/11 (12:30pm, 4:00pm), Sat 9/12 (12:30pm, 4:00pm), Sun 9/13 (12:30pm, 4:00pm), Mon 9/14 (12:15pm, 3:45pm, 10:15pm), Tue 9/15 (12:30pm, 4:00pm, 7:15pm, 10:30pm), Wed 9/16 (12:30pm, 4:00pm, 7:15pm, 10:30pm)
+
+    * [Tony](https://drafthouse.com/raleigh/show/tony): Thu 9/10 (1:00pm), Fri 9/11 (5:30pm), Sat 9/12 (5:00pm), Sun 9/13 (4:15pm), Mon 9/14 (5:00pm), Tue 9/15 (5:00pm), Wed 9/16 (5:00pm)
+
 ### Wed 9/9 12:30am
 * New movies: Paw Patrol: The Dino Movie
 
