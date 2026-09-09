@@ -1,6 +1,38 @@
 # raleigh
 
 ## Movie updates
+### Wed 9/9 12:30am
+* New movies: Paw Patrol: The Dino Movie
+
+* New screenings: 
+    * [Akira 4k Subtitled](https://drafthouse.com/raleigh/show/akira-4k-subtitled): Wed 9/9 (2:45pm)
+
+    * [Akira Dubbed In 4k](https://drafthouse.com/raleigh/show/akira-dubbed-in-4k): Wed 9/9 (11:30am)
+
+    * [Akira Dubbed In 4k W Pre Recorded Q A](https://drafthouse.com/raleigh/show/akira-dubbed-in-4k-w-pre-recorded-q-a): Wed 9/9 (6:15pm)
+
+    * [By Any Means](https://drafthouse.com/raleigh/show/by-any-means): Wed 9/9 (1:30pm, 4:30pm, 7:30pm)
+
+    * [Coyote Vs Acme](https://drafthouse.com/raleigh/show/coyote-vs-acme): Wed 9/9 (12:00pm, 4:00pm, 6:00pm)
+
+    * [Hope 2026](https://drafthouse.com/raleigh/show/hope-2026): Wed 9/9 (2:15pm)
+
+    * [Insidious Out Of The Further](https://drafthouse.com/raleigh/show/insidious-out-of-the-further): Wed 9/9 (1:30pm, 4:45pm, 7:45pm)
+
+    * [Onslaught](https://drafthouse.com/raleigh/show/onslaught): Wed 9/9 (11:30am, 1:30pm, 5:00pm, 6:45pm)
+
+    * [Paw Patrol The Dino Movie](https://drafthouse.com/raleigh/show/paw-patrol-the-dino-movie): Wed 9/9 (1:00pm)
+
+    * [Spider Man Brand New Day](https://drafthouse.com/raleigh/show/spider-man-brand-new-day): Wed 9/9 (12:00pm, 3:30pm, 7:00pm)
+
+    * [The Dog Stars](https://drafthouse.com/raleigh/show/the-dog-stars): Wed 9/9 (11:00am, 4:30pm, 7:30pm)
+
+    * [The End Of Oak Street](https://drafthouse.com/raleigh/show/the-end-of-oak-street): Wed 9/9 (3:45pm, 6:30pm)
+
+    * [The Odyssey](https://drafthouse.com/raleigh/show/the-odyssey): Wed 9/9 (12:30pm, 2:00pm, 6:15pm)
+
+    * [Tony](https://drafthouse.com/raleigh/show/tony): Wed 9/9 (11:00am, 2:00pm)
+
 ### Tue 9/8 5:45pm
 * New movies: Mystery Machine 9/14/2026, American Doctor, Barrio Triste, NOFX: 40 Years of Fuckin' Up
 
