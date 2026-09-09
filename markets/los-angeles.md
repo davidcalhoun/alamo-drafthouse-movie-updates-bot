@@ -1,6 +1,42 @@
 # los-angeles
 
 ## Movie updates
+### Wed 9/9 1:42pm
+* New movies: Blue Velvet, Showgirls, Repo! The Genetic Opera, A Bay of Blood, Centipede Horror, Daughters of Darkness, A Tale of Two Sisters, Ginger Snaps, Manos: The Hands of Fate, Beetlejuice, Halloween 1978, The Craft, The Texas Chain Saw Massacre 1974, Trick or Treat 1986, NOFX: 40 Years of Fuckin' Up, TERROR TUESDAY: SLITHER
+
+* New screenings: 
+    * [Alamo Drafthouse Movie Book Club Blue Velvet](https://drafthouse.com/los-angeles/show/alamo-drafthouse-movie-book-club-blue-velvet): Sun 10/4 (12:00pm)
+
+    * [Alamo Drafthouse Movie Book Club Showgirls](https://drafthouse.com/los-angeles/show/alamo-drafthouse-movie-book-club-showgirls): Sun 10/11 (12:15pm)
+
+    * [Beetlejuice](https://drafthouse.com/los-angeles/show/beetlejuice): Thu 10/8 (7:00pm)
+
+    * [Halloween 1978](https://drafthouse.com/los-angeles/show/halloween-1978): Sat 10/31 (4:00pm)
+
+    * [Movie Party Repo The Genetic Opera](https://drafthouse.com/los-angeles/show/movie-party-repo-the-genetic-opera): Mon 10/12 (7:25pm)
+
+    * [Nofx 40 Years Of Fuckin Up](https://drafthouse.com/los-angeles/show/nofx-40-years-of-fuckin-up): Sat 9/26 (9:45pm), Sat 10/24 (9:45pm)
+
+    * [Queer Film Theory 101 Daughters Of Darkness](https://drafthouse.com/los-angeles/show/queer-film-theory-101-daughters-of-darkness): Mon 10/26 (7:20pm)
+
+    * [Sad Girl Cinema Club A Tale Of Two Sisters](https://drafthouse.com/los-angeles/show/sad-girl-cinema-club-a-tale-of-two-sisters): Sun 10/18 (12:00pm)
+
+    * [Terror Tuesday A Bay Of Blood](https://drafthouse.com/los-angeles/show/terror-tuesday-a-bay-of-blood): Tue 10/6 (7:30pm)
+
+    * [Terror Tuesday Centipede Horror](https://drafthouse.com/los-angeles/show/terror-tuesday-centipede-horror): Tue 10/27 (7:30pm)
+
+    * [Terror Tuesday Ginger Snaps](https://drafthouse.com/los-angeles/show/terror-tuesday-ginger-snaps): Tue 10/13 (7:30pm)
+
+    * [Terror Tuesday Slither](https://drafthouse.com/los-angeles/show/terror-tuesday-slither): Tue 9/29 (7:45pm)
+
+    * [The Craft](https://drafthouse.com/los-angeles/show/the-craft): Sat 10/17 (12:00pm)
+
+    * [The Texas Chainsaw Massacre 1974](https://drafthouse.com/los-angeles/show/the-texas-chainsaw-massacre-1974): Sun 10/11 (7:20pm)
+
+    * [Trick Or Treat 1986](https://drafthouse.com/los-angeles/show/trick-or-treat-1986): Sat 10/31 (9:15pm)
+
+    * [Weird Wednesday Manos The Hands Of Fate](https://drafthouse.com/los-angeles/show/weird-wednesday-manos-the-hands-of-fate): Wed 10/21 (7:20pm)
+
 ### Wed 9/9 6:34am
 * New movies: If I Go Will They Miss Me
 
