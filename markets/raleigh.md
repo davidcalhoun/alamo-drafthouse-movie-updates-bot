@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 9/9 8:04pm
+* New movies: WELCOME SPACE BROTHERS
+
+* New screenings: 
+    * [Welcome Space Brothers](https://drafthouse.com/raleigh/show/welcome-space-brothers): Sun 9/20 (12:15pm)
+
 ### Wed 9/9 5:37pm
 * New movies: Repo! The Genetic Opera, Der Fan, Daughters of Darkness, A Tale of Two Sisters, Ginger Snaps, Manos: The Hands of Fate, Beetlejuice, Blue Velvet, Halloween 1978, Showgirls, The Craft, Trick or Treat 1986, TERROR TUESDAY: CEMETERY MAN - 4K RESTORATION, TERROR TUESDAY: SPOOKIES, WEIRD WEDNESDAY: SPIDER BABY
 
