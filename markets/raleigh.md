@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 9/10 12:31am
+* New movies: Ghost Dog: The Way of the Samurai
+
+* New screenings: 
+    * [Guest Selects Ghost Dog The Way Of The Samurai](https://drafthouse.com/raleigh/show/guest-selects-ghost-dog-the-way-of-the-samurai): Thu 9/24 (7:30pm)
+
 ### Wed 9/9 8:04pm
 * New movies: WELCOME SPACE BROTHERS
 
