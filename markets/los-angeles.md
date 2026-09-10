@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 9/10 7:55am
+* New movies: Ha-Chan, Shake Your Booty!
+
+* New screenings: 
+    * [Ha Chan Shake Your Booty](https://drafthouse.com/los-angeles/show/ha-chan-shake-your-booty): Thu 9/24 (3:30pm, 6:45pm), Fri 9/25 (3:30pm, 6:45pm), Sat 9/26 (3:30pm, 6:45pm), Sun 9/27 (3:30pm, 6:45pm)
+
 ### Wed 9/9 10:42pm
 * New movies: Ghost Dog: The Way of the Samurai
 
