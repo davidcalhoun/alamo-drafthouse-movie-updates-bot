@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 9/10 10:16am
+* New movies: Your Mother Your Mother Your Mother
+
+* New screenings: 
+    * [Special Event Your Mother Your Mother Your Mother Pre Recorded Q A And Performance](https://drafthouse.com/raleigh/show/special-event-your-mother-your-mother-your-mother-pre-recorded-q-a-and-performance): Sun 9/27 (7:00pm)
+
 ### Thu 9/10 12:31am
 * New movies: Ghost Dog: The Way of the Samurai
 
