@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 9/9 5:58pm
+* New movies: Welcome Space Brothers
+
+* New screenings: 
+    * [Welcome Space Brothers](https://drafthouse.com/los-angeles/show/welcome-space-brothers): Mon 9/21 (7:30pm), Tue 9/22 (4:15pm)
+
 ### Wed 9/9 1:42pm
 * New movies: Blue Velvet, Showgirls, Repo! The Genetic Opera, A Bay of Blood, Centipede Horror, Daughters of Darkness, A Tale of Two Sisters, Ginger Snaps, Manos: The Hands of Fate, Beetlejuice, Halloween 1978, The Craft, The Texas Chain Saw Massacre 1974, Trick or Treat 1986, NOFX: 40 Years of Fuckin' Up, TERROR TUESDAY: SLITHER
 
