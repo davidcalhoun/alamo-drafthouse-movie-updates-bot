@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 9/9 10:42pm
+* New movies: Ghost Dog: The Way of the Samurai
+
+* New screenings: 
+    * [Guest Selects Ghost Dog The Way Of The Samurai](https://drafthouse.com/los-angeles/show/guest-selects-ghost-dog-the-way-of-the-samurai): Thu 9/24 (7:30pm)
+
 ### Wed 9/9 5:58pm
 * New movies: Welcome Space Brothers
 
