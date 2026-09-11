@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 9/11 4:04pm
+
+* New screenings: 
+    * [Resident Evil 2026](https://drafthouse.com/los-angeles/show/resident-evil-2026): Thu 9/17 (4:15pm), Fri 9/18 (11:15am, 1:30pm), Sat 9/19 (10:45am, 1:30pm), Sun 9/20 (10:45am, 1:30pm)
+
 ### Fri 9/11 1:42pm
 * New movies: Ghost in the Shell Dubbed, His Motorbike, Her Island, The Challenge of the Lady Ninja, Casino Royale 2006
 
