@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 9/11 5:39pm
+* New movies: Ghost in the Shell Dubbed
+
+* New screenings: 
+    * [Ghost In The Shell Dubbed](https://drafthouse.com/raleigh/show/ghost-in-the-shell-dubbed): Mon 9/21 (12:30pm)
+
 ### Fri 9/11 2:22pm
 * New movies: Hellbound: Hellraiser II, Hellraiser 1987
 
