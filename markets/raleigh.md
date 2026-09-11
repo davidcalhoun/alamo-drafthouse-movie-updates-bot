@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Fri 9/11 2:22pm
+* New movies: Hellbound: Hellraiser II, Hellraiser 1987
+
+* New screenings: 
+    * [Hellbound Hellraiser Ii](https://drafthouse.com/raleigh/show/hellbound-hellraiser-ii): Fri 10/16 (7:00pm)
+
+    * [Hellraiser](https://drafthouse.com/raleigh/show/hellraiser): Fri 10/9 (7:00pm)
+
 ### Thu 9/10 10:16am
 * New movies: Your Mother Your Mother Your Mother
 
