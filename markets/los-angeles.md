@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Fri 9/11 1:42pm
+* New movies: Ghost in the Shell Dubbed, His Motorbike, Her Island, The Challenge of the Lady Ninja, Casino Royale 2006
+
+* New screenings: 
+    * [Casino Royale](https://drafthouse.com/los-angeles/show/casino-royale): Mon 10/5 (7:00pm)
+
+    * [Ghost In The Shell Dubbed](https://drafthouse.com/los-angeles/show/ghost-in-the-shell-dubbed): Fri 9/18 (10:00pm), Sat 9/19 (1:20pm), Mon 9/21 (4:30pm)
+
+    * [Weird Wednesday Challenge Of The Lady Ninja](https://drafthouse.com/los-angeles/show/weird-wednesday-challenge-of-the-lady-ninja): Wed 9/30 (7:45pm)
+
+    * [Weird Wednesday His Motorbike Her Island](https://drafthouse.com/los-angeles/show/weird-wednesday-his-motorbike-her-island): Wed 9/23 (7:30pm)
+
 ### Fri 9/11 10:37am
 * New movies: Hellbound: Hellraiser II, Hellraiser 1987, Your Mother Your Mother Your Mother
 
