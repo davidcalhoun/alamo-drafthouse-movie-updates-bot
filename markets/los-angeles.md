@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Fri 9/11 10:37am
+* New movies: Hellbound: Hellraiser II, Hellraiser 1987, Your Mother Your Mother Your Mother
+
+* New screenings: 
+    * [Hellbound Hellraiser Ii](https://drafthouse.com/los-angeles/show/hellbound-hellraiser-ii): Fri 10/16 (7:00pm, 9:45pm)
+
+    * [Hellraiser](https://drafthouse.com/los-angeles/show/hellraiser): Fri 10/9 (7:00pm, 9:45pm)
+
+    * [Special Event Your Mother Your Mother Your Mother Pre Recorded Q A And Performance](https://drafthouse.com/los-angeles/show/special-event-your-mother-your-mother-your-mother-pre-recorded-q-a-and-performance): Sun 9/27 (7:00pm)
+
 ### Thu 9/10 7:55am
 * New movies: Ha-Chan, Shake Your Booty!
 
