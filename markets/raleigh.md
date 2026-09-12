@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Sat 9/12 12:57pm
+
+* New screenings: 
+    * [Weird Wednesday Spider Baby](https://drafthouse.com/raleigh/show/weird-wednesday-spider-baby): Wed 10/7 (9:30pm)
+
 ### Sat 9/12 10:00am
 
 * New screenings: 
