@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Sat 9/12 10:00am
+
+* New screenings: 
+    * [Hope 2026](https://drafthouse.com/raleigh/show/hope-2026): Sat 9/12 (1:15pm)
+
 ### Fri 9/11 5:39pm
 * New movies: Ghost in the Shell Dubbed
 
