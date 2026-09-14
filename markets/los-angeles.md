@@ -1,6 +1,58 @@
 # los-angeles
 
 ## Movie updates
+### Mon 9/14 3:21pm
+* New movies: The Weight, The Musical
+
+* New screenings: 
+    * [Akira Dubbed In 4k W Pre Recorded Q A](https://drafthouse.com/los-angeles/show/akira-dubbed-in-4k-w-pre-recorded-q-a): Thu 9/17 (3:00pm, 10:00pm), Fri 9/18 (9:00pm), Sat 9/19 (9:00pm), Sun 9/20 (9:00pm), Mon 9/21 (9:00pm), Tue 9/22 (9:00pm), Wed 9/23 (9:00pm)
+
+    * [Akira Subtitled In 4k W Pre Recorded Q A](https://drafthouse.com/los-angeles/show/akira-subtitled-in-4k-w-pre-recorded-q-a): Thu 9/17 (11:30am, 6:30pm), Fri 9/18 (12:30pm), Sat 9/19 (12:30pm), Sun 9/20 (12:30pm), Mon 9/21 (12:30pm), Tue 9/22 (12:30pm), Wed 9/23 (12:30pm)
+
+    * [Basic Instinct](https://drafthouse.com/los-angeles/show/basic-instinct): Fri 9/18 (6:45pm), Sun 9/20 (12:15pm), Mon 9/21 (3:45pm), Tue 9/22 (1:00pm), Wed 9/23 (1:00pm)
+
+    * [Buddy 2026](https://drafthouse.com/los-angeles/show/buddy-2026): Thu 9/17 (1:30pm, 4:15pm, 7:00pm, 9:45pm), Fri 9/18 (12:15pm, 6:00pm), Sat 9/19 (12:15pm, 6:00pm), Sun 9/20 (12:15pm, 6:00pm), Mon 9/21 (12:15pm, 6:00pm), Tue 9/22 (12:15pm, 6:00pm), Wed 9/23 (12:15pm, 6:00pm)
+
+    * [By Any Means](https://drafthouse.com/los-angeles/show/by-any-means): Thu 9/17 (12:30pm, 3:30pm)
+
+    * [Chronovisor](https://drafthouse.com/los-angeles/show/chronovisor): Fri 9/18 (12:45pm), Sat 9/19 (10:00pm), Sun 9/20 (3:15pm), Mon 9/21 (1:45pm), Wed 9/23 (4:15pm)
+
+    * [Coyote Vs Acme](https://drafthouse.com/los-angeles/show/coyote-vs-acme): Thu 9/17 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Fri 9/18 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 9/19 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sun 9/20 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Mon 9/21 (12:15pm, 3:15pm, 6:15pm, 10:10pm), Tue 9/22 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Wed 9/23 (12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
+    * [First Blood](https://drafthouse.com/los-angeles/show/first-blood): Thu 9/17 (3:15pm)
+
+    * [Ghost In The Shell Dubbed](https://drafthouse.com/los-angeles/show/ghost-in-the-shell-dubbed): Sun 9/20 (10:25pm), Tue 9/22 (10:15pm)
+
+    * [Guest Selects Ghost Dog The Way Of The Samurai](https://drafthouse.com/los-angeles/show/guest-selects-ghost-dog-the-way-of-the-samurai): Fri 9/18 (3:30pm)
+
+    * [Hope 2026](https://drafthouse.com/los-angeles/show/hope-2026): Thu 9/17 (12:15pm, 4:00pm, 7:45pm, 9:15pm), Fri 9/18 (11:15am, 3:00pm, 6:45pm, 9:00pm), Sat 9/19 (11:15am, 3:00pm, 6:45pm, 9:00pm), Sun 9/20 (11:15am, 3:00pm, 6:45pm, 8:45pm), Mon 9/21 (11:15am, 3:00pm, 6:45pm, 9:15pm), Tue 9/22 (11:15am, 3:00pm, 6:45pm, 9:45pm), Wed 9/23 (11:15am, 3:00pm, 6:45pm, 9:45pm)
+
+    * [If I Go Will They Miss Me](https://drafthouse.com/los-angeles/show/if-i-go-will-they-miss-me): Fri 9/18 (1:15pm, 9:30pm), Sat 9/19 (1:00pm, 10:30pm), Sun 9/20 (1:00pm), Mon 9/21 (11:15am, 2:00pm, 4:45pm, 10:15pm), Tue 9/22 (1:00pm, 3:45pm, 6:30pm, 9:15pm), Wed 9/23 (1:00pm, 3:45pm, 6:30pm)
+
+    * [Onslaught](https://drafthouse.com/los-angeles/show/onslaught): Thu 9/17 (11:00am, 1:45pm, 4:30pm), Sun 9/20 (9:15pm), Wed 9/23 (9:15pm)
+
+    * [Practical Magic 2](https://drafthouse.com/los-angeles/show/practical-magic-2): Thu 9/17 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Fri 9/18 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Sat 9/19 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Sun 9/20 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Mon 9/21 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Tue 9/22 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Wed 9/23 (12:15pm, 3:30pm, 6:45pm, 10:00pm)
+
+    * [Resident Evil 2026](https://drafthouse.com/los-angeles/show/resident-evil-2026): Thu 9/17 (2:00pm, 4:45pm, 6:30pm, 7:30pm, 9:15pm, 10:15pm), Fri 9/18 (2:00pm, 3:30pm, 4:45pm, 6:15pm, 7:30pm, 10:15pm, 10:30pm), Sat 9/19 (12:00pm, 12:30pm, 2:45pm, 5:30pm, 6:15pm, 7:15pm, 8:15pm, 10:30pm), Sun 9/20 (12:45pm, 3:30pm, 6:00pm, 6:15pm, 9:00pm, 10:30pm), Mon 9/21 (11:15am, 1:00pm, 2:00pm, 3:45pm, 4:45pm, 6:30pm, 7:30pm, 9:15pm, 10:15pm, 10:30pm), Tue 9/22 (12:00pm, 1:30pm, 2:45pm, 4:15pm, 4:45pm, 5:30pm, 7:00pm, 8:15pm, 9:45pm, 10:30pm), Wed 9/23 (12:00pm, 1:30pm, 2:45pm, 4:15pm, 5:30pm, 8:15pm, 10:30pm)
+
+    * [Sad Girl Cinema Club My Sassy Girl](https://drafthouse.com/los-angeles/show/sad-girl-cinema-club-my-sassy-girl): Fri 9/18 (12:15pm), Mon 9/21 (12:30pm), Tue 9/22 (1:30pm)
+
+    * [Spider Man Brand New Day](https://drafthouse.com/los-angeles/show/spider-man-brand-new-day): Thu 9/17 (12:45pm)
+
+    * [Teenage Sex And Death At Camp Miasma](https://drafthouse.com/los-angeles/show/teenage-sex-and-death-at-camp-miasma): Thu 9/17 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Fri 9/18 (3:00pm, 8:45pm), Sat 9/19 (3:00pm, 8:45pm), Sun 9/20 (3:00pm, 8:45pm), Mon 9/21 (3:00pm, 8:45pm), Tue 9/22 (3:00pm, 8:45pm), Wed 9/23 (3:00pm, 8:45pm)
+
+    * [The Doors](https://drafthouse.com/los-angeles/show/the-doors): Thu 9/17 (11:45am)
+
+    * [The Musical](https://drafthouse.com/los-angeles/show/the-musical): Fri 9/18 (4:00pm, 6:30pm), Sat 9/19 (4:00pm, 6:30pm), Sun 9/20 (4:00pm, 6:30pm), Mon 9/21 (4:00pm, 6:30pm), Tue 9/22 (4:00pm, 6:30pm), Wed 9/23 (4:00pm, 6:30pm)
+
+    * [The Uprising](https://drafthouse.com/los-angeles/show/the-uprising): Thu 9/17 (11:45am, 3:00pm, 6:15pm, 9:30pm), Fri 9/18 (11:45am, 3:00pm, 6:15pm, 9:30pm), Sat 9/19 (11:45am, 3:00pm, 6:15pm, 9:30pm), Sun 9/20 (11:45am, 3:00pm, 6:15pm, 9:30pm), Mon 9/21 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Tue 9/22 (11:45am, 3:00pm, 6:15pm, 9:30pm), Wed 9/23 (11:45am, 3:00pm, 6:15pm, 9:30pm)
+
+    * [The Weight](https://drafthouse.com/los-angeles/show/the-weight): Thu 9/17 (7:15pm, 10:15pm), Fri 9/18 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Sat 9/19 (12:30pm, 3:15pm, 7:30pm, 9:15pm), Sun 9/20 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Mon 9/21 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Tue 9/22 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Wed 9/23 (1:15pm, 4:15pm, 7:15pm, 10:15pm)
+
+    * [Tony](https://drafthouse.com/los-angeles/show/tony): Thu 9/17 (11:00am)
+
+    * [Welcome Space Brothers](https://drafthouse.com/los-angeles/show/welcome-space-brothers): Wed 9/23 (10:10pm)
+
 ### Fri 9/11 4:04pm
 
 * New screenings: 
