@@ -1,6 +1,34 @@
 # raleigh
 
 ## Movie updates
+### Mon 9/14 6:25pm
+* New movies: If I Go Will They Miss Me
+
+* New screenings: 
+    * [Akira Dubbed In 4k W Pre Recorded Q A](https://drafthouse.com/raleigh/show/akira-dubbed-in-4k-w-pre-recorded-q-a): Thu 9/17 (11:30am)
+
+    * [Akira Subtitled In 4k W Pre Recorded Q A](https://drafthouse.com/raleigh/show/akira-subtitled-in-4k-w-pre-recorded-q-a): Thu 9/17 (1:00pm)
+
+    * [By Any Means](https://drafthouse.com/raleigh/show/by-any-means): Thu 9/17 (12:30pm, 3:30pm)
+
+    * [Coyote Vs Acme](https://drafthouse.com/raleigh/show/coyote-vs-acme): Thu 9/17 (12:00pm, 3:15pm, 6:15pm, 9:15pm)
+
+    * [Dreams In Nightmares](https://drafthouse.com/raleigh/show/dreams-in-nightmares): Thu 9/17 (3:00pm)
+
+    * [Hope 2026](https://drafthouse.com/raleigh/show/hope-2026): Thu 9/17 (11:00am, 12:00pm, 2:45pm, 6:45pm, 10:30pm)
+
+    * [If I Go Will They Miss Me](https://drafthouse.com/raleigh/show/if-i-go-will-they-miss-me): Thu 9/17 (7:15pm, 9:45pm)
+
+    * [Practical Magic 2](https://drafthouse.com/raleigh/show/practical-magic-2): Thu 9/17 (11:30am, 1:00pm, 4:15pm, 7:30pm, 10:15pm)
+
+    * [Resident Evil 2026](https://drafthouse.com/raleigh/show/resident-evil-2026): Thu 9/17 (3:00pm, 4:30pm, 6:00pm, 6:30pm, 7:30pm, 9:30pm, 10:45pm)
+
+    * [Spider Man Brand New Day](https://drafthouse.com/raleigh/show/spider-man-brand-new-day): Thu 9/17 (11:00am, 2:30pm, 6:00pm, 9:30pm)
+
+    * [The Odyssey](https://drafthouse.com/raleigh/show/the-odyssey): Thu 9/17 (1:30pm, 5:30pm, 9:25pm)
+
+    * [The Uprising](https://drafthouse.com/raleigh/show/the-uprising): Thu 9/17 (12:30pm, 3:45pm, 6:30pm, 10:30pm)
+
 ### Mon 9/14 2:31pm
 * New movies: Casino Royale 2006, GODZILLA VS. MECHAGODZILLA
 
