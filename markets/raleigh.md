@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Mon 9/14 2:31pm
+* New movies: Casino Royale 2006, GODZILLA VS. MECHAGODZILLA
+
+* New screenings: 
+    * [Casino Royale](https://drafthouse.com/raleigh/show/casino-royale): Mon 10/5 (7:00pm)
+
+    * [Godzilla Vs Mechagodzilla](https://drafthouse.com/raleigh/show/godzilla-vs-mechagodzilla): Sun 11/1 (11:30am)
+
 ### Sat 9/12 12:57pm
 
 * New screenings: 
