@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 9/15 12:26am
+* New movies: Good Sport
+
+* New screenings: 
+    * [Live Q A Good Sport](https://drafthouse.com/los-angeles/show/live-q-a-good-sport): Tue 9/29 (8:00pm)
+
 ### Mon 9/14 6:16pm
 * New movies: GODZILLA VS. MECHAGODZILLA
 
