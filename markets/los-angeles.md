@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 9/15 6:18am
+* New movies: Other Mommy, Other Mommy
+
+* New screenings: 
+    * [Fan Event Other Mommy Fan Event Screening](https://drafthouse.com/los-angeles/show/fan-event-other-mommy-fan-event-screening): Thu 10/8 (7:15pm)
+
+    * [Other Mommy](https://drafthouse.com/los-angeles/show/other-mommy): Thu 10/8 (4:30pm, 10:00pm), Fri 10/9 (4:45pm, 7:30pm, 10:15pm), Sat 10/10 (4:45pm, 7:30pm, 10:15pm), Sun 10/11 (4:45pm, 7:30pm, 10:15pm)
+
 ### Tue 9/15 12:26am
 * New movies: Good Sport
 
