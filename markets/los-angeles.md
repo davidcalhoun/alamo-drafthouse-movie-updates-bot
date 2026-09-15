@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 9/14 6:16pm
+* New movies: GODZILLA VS. MECHAGODZILLA
+
+* New screenings: 
+    * [Godzilla Vs Mechagodzilla](https://drafthouse.com/los-angeles/show/godzilla-vs-mechagodzilla): Sun 11/1 (12:00pm)
+
 ### Mon 9/14 3:21pm
 * New movies: The Weight, The Musical
 
