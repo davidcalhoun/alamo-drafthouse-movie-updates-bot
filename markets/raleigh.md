@@ -1,6 +1,33 @@
 # raleigh
 
 ## Movie updates
+### Tue 9/15 2:06pm
+
+* New screenings: 
+    * [By Any Means](https://drafthouse.com/raleigh/show/by-any-means): Fri 9/18 (1:30pm), Sat 9/19 (11:30am), Sun 9/20 (11:30am), Mon 9/21 (12:00pm), Tue 9/22 (12:00pm), Wed 9/23 (11:30am)
+
+    * [Coyote Vs Acme](https://drafthouse.com/raleigh/show/coyote-vs-acme): Fri 9/18 (1:30pm, 4:45pm, 7:45pm, 10:45pm), Sat 9/19 (1:30pm, 4:45pm, 7:45pm, 10:45pm), Sun 9/20 (1:30pm, 4:45pm, 7:45pm, 10:45pm), Mon 9/21 (1:30pm, 4:45pm, 7:45pm, 10:45pm), Tue 9/22 (1:30pm, 4:45pm, 7:45pm, 10:45pm), Wed 9/23 (1:30pm, 4:45pm, 7:45pm, 10:45pm)
+
+    * [Forgotten Island](https://drafthouse.com/raleigh/show/forgotten-island): Thu 9/24 (3:00pm)
+
+    * [Ghost In The Shell Dubbed](https://drafthouse.com/raleigh/show/ghost-in-the-shell-dubbed): Tue 9/22 (12:30pm)
+
+    * [Hope 2026](https://drafthouse.com/raleigh/show/hope-2026): Fri 9/18 (11:00am, 2:45pm, 6:30pm, 10:15pm), Sat 9/19 (11:00am, 2:45pm, 6:45pm, 10:30pm), Sun 9/20 (11:00am, 2:45pm, 6:45pm, 10:30pm), Mon 9/21 (1:00pm, 3:30pm, 6:00pm, 9:45pm), Tue 9/22 (1:00pm, 2:15pm, 6:00pm, 9:45pm), Wed 9/23 (1:00pm, 3:30pm, 6:00pm, 9:45pm)
+
+    * [If I Go Will They Miss Me](https://drafthouse.com/raleigh/show/if-i-go-will-they-miss-me): Fri 9/18 (3:30pm, 6:15pm), Sat 9/19 (3:30pm, 6:15pm), Sun 9/20 (3:30pm, 6:15pm), Mon 9/21 (3:30pm, 6:15pm), Tue 9/22 (3:30pm, 6:15pm), Wed 9/23 (3:30pm, 6:15pm)
+
+    * [Practical Magic 2](https://drafthouse.com/raleigh/show/practical-magic-2): Fri 9/18 (11:45am, 3:00pm, 6:15pm, 9:45pm), Sat 9/19 (1:30pm, 2:30pm, 6:00pm, 9:45pm), Sun 9/20 (1:30pm, 2:30pm, 6:00pm, 9:45pm), Mon 9/21 (11:00am, 3:00pm, 6:30pm, 9:45pm), Tue 9/22 (11:00am, 3:00pm, 6:30pm, 9:45pm), Wed 9/23 (11:00am, 2:45pm, 6:30pm, 9:45pm)
+
+    * [Primetime](https://drafthouse.com/raleigh/show/primetime): Thu 9/24 (4:00pm)
+
+    * [Resident Evil 2026](https://drafthouse.com/raleigh/show/resident-evil-2026): Fri 9/18 (11:30am, 12:30pm, 1:00pm, 3:45pm, 4:15pm, 4:30pm, 6:45pm, 7:30pm, 9:00pm, 9:30pm, 10:15pm, 10:30pm), Sat 9/19 (11:30am, 1:00pm, 4:00pm, 4:30pm, 6:30pm, 7:00pm, 7:30pm, 9:00pm, 9:30pm, 10:00pm, 10:15pm), Sun 9/20 (11:00am, 1:00pm, 4:00pm, 4:30pm, 6:30pm, 7:00pm, 7:30pm, 9:00pm, 9:30pm, 10:00pm, 10:15pm), Mon 9/21 (11:00am, 12:00pm, 1:30pm, 2:30pm, 3:00pm, 4:15pm, 4:30pm, 6:00pm, 7:00pm, 9:00pm, 9:45pm, 10:00pm, 10:30pm, 10:45pm), Tue 9/22 (11:00am, 12:00pm, 1:30pm, 3:00pm, 3:30pm, 4:15pm, 4:30pm, 6:00pm, 6:30pm, 7:00pm, 9:00pm, 9:45pm, 10:00pm, 10:45pm), Wed 9/23 (11:00am, 12:00pm, 12:30pm, 1:00pm, 2:30pm, 3:00pm, 4:00pm, 5:00pm, 6:45pm, 7:30pm, 8:00pm, 9:00pm, 9:45pm, 10:30pm, 10:45pm), Thu 9/24 (6:30pm, 9:30pm)
+
+    * [Spider Man Brand New Day](https://drafthouse.com/raleigh/show/spider-man-brand-new-day): Fri 9/18 (12:00pm, 2:30pm, 6:00pm, 9:45pm), Sat 9/19 (12:00pm, 2:30pm, 6:00pm, 9:45pm), Sun 9/20 (12:00pm, 2:00pm, 6:00pm, 9:45pm), Mon 9/21 (11:30am, 2:00pm, 6:00pm, 9:15pm), Tue 9/22 (11:30am, 2:00pm, 6:00pm, 9:15pm), Wed 9/23 (12:00pm, 2:00pm, 6:00pm, 9:15pm)
+
+    * [The Odyssey](https://drafthouse.com/raleigh/show/the-odyssey): Fri 9/18 (1:00pm, 5:00pm, 9:15pm), Sat 9/19 (1:00pm, 5:00pm, 9:15pm), Sun 9/20 (1:00pm, 5:00pm, 9:15pm), Mon 9/21 (1:00pm, 5:00pm, 9:15pm), Tue 9/22 (1:00pm, 5:00pm, 9:15pm), Wed 9/23 (12:30pm, 4:30pm, 8:30pm)
+
+    * [The Uprising](https://drafthouse.com/raleigh/show/the-uprising): Fri 9/18 (12:30pm, 4:00pm, 7:15pm, 10:30pm), Sat 9/19 (12:30pm, 4:00pm, 7:15pm, 10:30pm), Sun 9/20 (12:30pm, 4:00pm, 7:15pm, 10:30pm), Mon 9/21 (12:30pm, 4:00pm, 7:30pm, 10:15pm), Tue 9/22 (12:30pm, 4:00pm, 7:30pm, 10:15pm), Wed 9/23 (12:00pm, 3:30pm, 7:15pm, 10:40pm)
+
 ### Tue 9/15 9:25am
 * New movies: Other Mommy, Other Mommy
 
