@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Tue 9/15 9:25am
+* New movies: Other Mommy, Other Mommy
+
+* New screenings: 
+    * [Fan Event Other Mommy Hdr By Barco Fan Event Screening](https://drafthouse.com/raleigh/show/fan-event-other-mommy-hdr-by-barco-fan-event-screening): Thu 10/8 (6:00pm)
+
+    * [Other Mommy](https://drafthouse.com/raleigh/show/other-mommy): Thu 10/8 (9:00pm), Fri 10/9 (6:00pm, 9:00pm), Sat 10/10 (7:00pm, 10:00pm), Sun 10/11 (7:00pm, 10:00pm)
+
 ### Mon 9/14 6:25pm
 * New movies: If I Go Will They Miss Me
 
