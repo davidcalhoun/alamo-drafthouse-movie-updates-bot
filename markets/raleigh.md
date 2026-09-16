@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Wed 9/16 12:43pm
+* New movies: Yuri!!! on Ice Subtitled, Godzilla vs. Megalon
+
+* New screenings: 
+    * [Crunchyroll Anime Nights Yuri On Ice Subtitled 10th Anniversary](https://drafthouse.com/raleigh/show/crunchyroll-anime-nights-yuri-on-ice-subtitled-10th-anniversary): Mon 10/19 (7:30pm)
+
+    * [Godzilla Vs Megalon](https://drafthouse.com/raleigh/show/godzilla-vs-megalon): Sun 10/25 (11:30am)
+
 ### Tue 9/15 2:06pm
 
 * New screenings: 
