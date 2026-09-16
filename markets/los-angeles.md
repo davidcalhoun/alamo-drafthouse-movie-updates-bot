@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 9/16 7:42am
+* New movies: Yuri!!! on Ice Subtitled
+
+* New screenings: 
+    * [Crunchyroll Anime Nights Yuri On Ice Subtitled 10th Anniversary](https://drafthouse.com/los-angeles/show/crunchyroll-anime-nights-yuri-on-ice-subtitled-10th-anniversary): Mon 10/19 (7:20pm)
+
 ### Tue 9/15 6:18am
 * New movies: Other Mommy, Other Mommy
 
