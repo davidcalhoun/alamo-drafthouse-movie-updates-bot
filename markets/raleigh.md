@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 9/16 3:59pm
+* New movies: Cameron Winter at Carnegie Hall
+
+* New screenings: 
+    * [Cameron Winter At Carnegie Hall](https://drafthouse.com/raleigh/show/cameron-winter-at-carnegie-hall): Thu 1/28 (7:00pm)
+
 ### Wed 9/16 12:43pm
 * New movies: Yuri!!! on Ice Subtitled, Godzilla vs. Megalon
 
