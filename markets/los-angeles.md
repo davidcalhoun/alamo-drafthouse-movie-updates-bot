@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 9/16 11:45am
+* New movies: Godzilla vs. Megalon, Cameron Winter at Carnegie Hall
+
+* New screenings: 
+    * [Cameron Winter At Carnegie Hall](https://drafthouse.com/los-angeles/show/cameron-winter-at-carnegie-hall): Thu 1/28 (7:00pm)
+
+    * [Godzilla Vs Megalon](https://drafthouse.com/los-angeles/show/godzilla-vs-megalon): Sun 10/25 (11:00am)
+
 ### Wed 9/16 7:42am
 * New movies: Yuri!!! on Ice Subtitled
 
