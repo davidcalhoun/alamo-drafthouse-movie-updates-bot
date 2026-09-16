@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 9/16 2:57pm
+* New movies: Ken Russell's The Devils
+
+* New screenings: 
+    * [Ken Russells The Devils](https://drafthouse.com/los-angeles/show/ken-russells-the-devils): Thu 10/15 (7:00pm), Fri 10/16 (4:15pm, 7:15pm), Sat 10/17 (4:15pm, 7:15pm), Sun 10/18 (4:15pm, 7:15pm)
+
 ### Wed 9/16 11:45am
 * New movies: Godzilla vs. Megalon, Cameron Winter at Carnegie Hall
 
