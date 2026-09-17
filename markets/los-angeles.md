@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 9/16 10:53pm
+* New movies: The History of Concrete
+
+* New screenings: 
+    * [The History Of Concrete](https://drafthouse.com/los-angeles/show/the-history-of-concrete): Sat 10/3 (7:15pm), Tue 10/6 (7:00pm)
+
 ### Wed 9/16 2:57pm
 * New movies: Ken Russell's The Devils
 
