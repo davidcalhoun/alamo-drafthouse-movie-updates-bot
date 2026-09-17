@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 9/17 3:49pm
+* New movies: Ghost in the Cell
+
+* New screenings: 
+    * [Ghost In The Cell](https://drafthouse.com/los-angeles/show/ghost-in-the-cell): Sat 10/3 (10:15pm), Sun 10/4 (4:00pm), Mon 10/5 (7:15pm)
+
 ### Wed 9/16 10:53pm
 * New movies: The History of Concrete
 
