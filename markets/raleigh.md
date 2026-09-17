@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 9/17 6:04pm
+* New movies: Ghost in the Cell
+
+* New screenings: 
+    * [Ghost In The Cell](https://drafthouse.com/raleigh/show/ghost-in-the-cell): Sat 10/3 (10:00pm), Sun 10/4 (3:35pm), Wed 10/7 (6:00pm)
+
 ### Wed 9/16 3:59pm
 * New movies: Cameron Winter at Carnegie Hall
 
