@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 9/18 9:59am
+* New movies: Your Mother Your Mother Your Mother
+
+* New screenings: 
+    * [Your Mother Your Mother Your Mother](https://drafthouse.com/los-angeles/show/your-mother-your-mother-your-mother): Thu 10/8 (6:00pm), Fri 10/9 (3:00pm, 4:00pm, 6:00pm, 7:00pm), Sat 10/10 (3:00pm, 4:00pm, 6:00pm, 7:00pm), Sun 10/11 (3:00pm, 4:00pm, 6:00pm, 7:00pm)
+
 ### Thu 9/17 3:49pm
 * New movies: Ghost in the Cell
 
