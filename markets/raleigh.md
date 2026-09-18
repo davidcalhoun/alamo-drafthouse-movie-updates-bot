@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Fri 9/18 1:47am
+* New movies: Dire Duplicity, The History of Concrete, Union County
+
+* New screenings: 
+    * [Dire Duplicity](https://drafthouse.com/raleigh/show/dire-duplicity): Fri 9/25 (6:30pm)
+
+    * [The History Of Concrete](https://drafthouse.com/raleigh/show/the-history-of-concrete): Sat 10/3 (7:15pm), Tue 10/6 (7:15pm)
+
+    * [Union County](https://drafthouse.com/raleigh/show/union-county): Tue 10/6 (3:30pm), Wed 10/7 (3:30pm)
+
 ### Thu 9/17 6:04pm
 * New movies: Ghost in the Cell
 
