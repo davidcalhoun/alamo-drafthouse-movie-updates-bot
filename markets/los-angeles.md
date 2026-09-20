@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Sun 9/20 4:58pm
+* New movies: The Cycle
+
+* New screenings: 
+    * [The Cycle](https://drafthouse.com/los-angeles/show/the-cycle): Tue 10/20 (7:00pm)
+
 ### Fri 9/18 9:59am
 * New movies: Your Mother Your Mother Your Mother
 
