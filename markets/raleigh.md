@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Sun 9/20 8:07pm
+* New movies: The Cycle
+
+* New screenings: 
+    * [The Cycle](https://drafthouse.com/raleigh/show/the-cycle): Tue 10/20 (7:00pm)
+
 ### Fri 9/18 1:47am
 * New movies: Dire Duplicity, The History of Concrete, Union County
 
