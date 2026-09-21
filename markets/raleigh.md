@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Mon 9/21 3:17pm
+* New movies: Littermates, Rammstein - Live in Mexico City
+
+* New screenings: 
+    * [Fantastic Fest Presents Littermates Advance Screening](https://drafthouse.com/raleigh/show/fantastic-fest-presents-littermates-advance-screening): Mon 10/26 (8:00pm)
+
+    * [Rammstein Live In Mexico City](https://drafthouse.com/raleigh/show/rammstein-live-in-mexico-city): Wed 11/4 (6:30pm), Sun 11/8 (3:30pm)
+
 ### Mon 9/21 9:55am
 * New movies: Street Fighter 2026, The Social Reckoning
 
