@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Mon 9/21 9:55am
+* New movies: Street Fighter 2026, The Social Reckoning
+
+* New screenings: 
+    * [Street Fighter 2026](https://drafthouse.com/raleigh/show/street-fighter-2026): Thu 10/15 (3:00pm, 6:00pm, 9:00pm), Fri 10/16 (3:00pm, 6:00pm, 9:00pm), Sat 10/17 (7:00pm, 10:00pm), Sun 10/18 (3:00pm, 6:00pm, 9:00pm)
+
+    * [The Social Reckoning](https://drafthouse.com/raleigh/show/the-social-reckoning): Thu 10/8 (7:30pm, 10:30pm), Fri 10/9 (7:30pm, 10:30pm), Sat 10/10 (7:30pm, 10:30pm), Sun 10/11 (7:30pm, 10:30pm)
+
 ### Sun 9/20 8:07pm
 * New movies: The Cycle
 
