@@ -1,6 +1,24 @@
 # los-angeles
 
 ## Movie updates
+### Mon 9/21 9:52am
+* New movies: Street Fighter 2026, The Social Reckoning, Dire Duplicity, Littermates
+
+* New screenings: 
+    * [Destroy All Monsters](https://drafthouse.com/los-angeles/show/destroy-all-monsters): Fri 9/25 (4:15pm)
+
+    * [Dire Duplicity](https://drafthouse.com/los-angeles/show/dire-duplicity): Fri 9/25 (7:00pm), Mon 9/28 (6:15pm)
+
+    * [Fantastic Fest Presents Littermates Advance Screening](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-littermates-advance-screening): Mon 10/26 (7:00pm)
+
+    * [Queer Film Theory 101 The Birdcage](https://drafthouse.com/los-angeles/show/queer-film-theory-101-the-birdcage): Wed 9/30 (10:10pm)
+
+    * [Street Fighter 2026](https://drafthouse.com/los-angeles/show/street-fighter-2026): Thu 10/15 (3:00pm, 6:15pm), Fri 10/16 (3:30pm, 6:45pm), Sat 10/17 (3:30pm, 6:45pm), Sun 10/18 (3:30pm, 6:45pm)
+
+    * [Terminator 2 Judgment Day](https://drafthouse.com/los-angeles/show/terminator-2-judgment-day): Tue 9/29 (10:15pm)
+
+    * [The Social Reckoning](https://drafthouse.com/los-angeles/show/the-social-reckoning): Thu 10/8 (4:00pm, 7:00pm), Fri 10/9 (4:15pm, 7:15pm), Sat 10/10 (3:45pm, 6:45pm), Sun 10/11 (3:45pm, 6:45pm)
+
 ### Sun 9/20 4:58pm
 * New movies: The Cycle
 
