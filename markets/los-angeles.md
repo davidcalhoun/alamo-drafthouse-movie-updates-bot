@@ -1,6 +1,54 @@
 # los-angeles
 
 ## Movie updates
+### Mon 9/21 1:53pm
+* New movies: Avengers Endgame: Encore, Heart of the Beast, The Stunt Driver, Nacho Libre, American Doctor
+
+* New screenings: 
+    * [Akira Dubbed In 4k W Pre Recorded Q A](https://drafthouse.com/los-angeles/show/akira-dubbed-in-4k-w-pre-recorded-q-a): Thu 9/24 (4:15pm)
+
+    * [American Doctor](https://drafthouse.com/los-angeles/show/american-doctor): Mon 9/28 (1:45pm), Tue 9/29 (5:00pm)
+
+    * [Avengers Endgame Encore](https://drafthouse.com/los-angeles/show/avengers-endgame-encore): Thu 9/24 (2:00pm, 6:15pm, 9:00pm), Fri 9/25 (11:00am, 3:15pm, 7:30pm, 9:00pm), Sat 9/26 (11:00am, 3:15pm, 7:30pm, 9:00pm), Sun 9/27 (11:00am, 3:15pm, 7:30pm, 8:45pm), Mon 9/28 (11:00am, 3:15pm, 7:30pm, 9:00pm), Tue 9/29 (11:00am, 3:15pm, 7:30pm, 9:00pm), Wed 9/30 (11:15am, 3:30pm, 7:45pm, 9:00pm)
+
+    * [Buddy 2026](https://drafthouse.com/los-angeles/show/buddy-2026): Thu 9/24 (1:15pm)
+
+    * [Coyote Vs Acme](https://drafthouse.com/los-angeles/show/coyote-vs-acme): Thu 9/24 (1:15pm)
+
+    * [Deathgasm 2 Goremageddon](https://drafthouse.com/los-angeles/show/deathgasm-2-goremageddon): Fri 9/25 (3:15pm), Mon 9/28 (12:30pm), Wed 9/30 (4:30pm)
+
+    * [Destroy All Monsters](https://drafthouse.com/los-angeles/show/destroy-all-monsters): Sat 9/26 (1:15pm, 7:00pm), Mon 9/28 (3:30pm)
+
+    * [Forgotten Island](https://drafthouse.com/los-angeles/show/forgotten-island): Thu 9/24 (9:00pm), Fri 9/25 (9:00pm), Sat 9/26 (9:00pm), Sun 9/27 (9:00pm), Mon 9/28 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Tue 9/29 (11:00am, 2:00pm, 5:00pm, 6:45pm, 10:45pm), Wed 9/30 (1:15pm, 4:15pm, 10:20pm)
+
+    * [Ha Chan Shake Your Booty](https://drafthouse.com/los-angeles/show/ha-chan-shake-your-booty): Thu 9/24 (10:00pm), Fri 9/25 (12:15pm, 10:00pm), Sat 9/26 (12:15pm, 10:00pm), Sun 9/27 (12:15pm, 10:00pm), Mon 9/28 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Tue 9/29 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Wed 9/30 (12:45pm, 4:00pm, 10:15pm)
+
+    * [Heart Of The Beast](https://drafthouse.com/los-angeles/show/heart-of-the-beast): Thu 9/24 (2:00pm, 4:50pm, 7:40pm, 10:30pm), Fri 9/25 (11:10am, 2:00pm, 4:50pm, 7:40pm, 10:30pm), Sat 9/26 (11:10am, 2:00pm, 4:50pm, 7:40pm, 10:30pm), Sun 9/27 (11:10am, 2:00pm, 4:50pm, 7:40pm, 10:30pm), Mon 9/28 (11:10am, 2:00pm, 4:50pm, 7:40pm, 10:30pm), Tue 9/29 (11:10am, 2:00pm, 4:50pm, 7:40pm, 10:30pm), Wed 9/30 (11:10am, 2:00pm, 4:50pm, 7:40pm, 10:30pm)
+
+    * [Hope 2026](https://drafthouse.com/los-angeles/show/hope-2026): Thu 9/24 (2:15pm, 6:00pm, 9:45pm), Fri 9/25 (11:15am, 3:00pm, 6:45pm, 9:30pm), Sat 9/26 (11:15am, 3:00pm, 6:45pm, 9:30pm), Sun 9/27 (11:15am, 3:00pm, 6:45pm, 9:30pm), Mon 9/28 (11:15am, 3:00pm, 6:45pm, 9:30pm), Tue 9/29 (11:15am, 3:00pm, 9:30pm), Wed 9/30 (11:30am, 3:15pm, 9:30pm)
+
+    * [If I Go Will They Miss Me](https://drafthouse.com/los-angeles/show/if-i-go-will-they-miss-me): Thu 9/24 (1:30pm, 3:30pm, 6:15pm), Fri 9/25 (1:00pm, 7:15pm), Sat 9/26 (4:30pm, 7:15pm), Sun 9/27 (11:00am, 1:45pm, 4:30pm, 7:15pm), Mon 9/28 (4:30pm, 7:15pm), Tue 9/29 (11:00am, 1:45pm, 4:30pm, 7:15pm), Wed 9/30 (11:00am, 1:45pm, 4:30pm, 7:15pm)
+
+    * [Nacho Libre](https://drafthouse.com/los-angeles/show/nacho-libre): Sat 9/26 (12:15pm), Mon 9/28 (1:00pm), Tue 9/29 (4:30pm), Wed 9/30 (1:45pm)
+
+    * [Practical Magic 2](https://drafthouse.com/los-angeles/show/practical-magic-2): Thu 9/24 (4:00pm), Fri 9/25 (12:45pm, 3:45pm), Sat 9/26 (1:00pm, 5:30pm), Sun 9/27 (11:30am, 10:15pm), Mon 9/28 (3:45pm), Tue 9/29 (1:30pm), Wed 9/30 (12:45pm)
+
+    * [Primetime](https://drafthouse.com/los-angeles/show/primetime): Thu 9/24 (6:30pm, 7:45pm, 10:15pm, 10:30pm), Fri 9/25 (12:45pm, 1:15pm, 6:30pm, 10:00pm, 10:15pm), Sat 9/26 (12:45pm, 1:15pm, 6:30pm, 10:00pm, 10:15pm), Sun 9/27 (12:45pm, 1:15pm, 5:45pm, 6:30pm, 10:00pm, 10:15pm), Mon 9/28 (12:45pm, 1:15pm, 4:15pm, 6:30pm, 7:15pm, 10:00pm, 10:15pm), Tue 9/29 (12:45pm, 1:15pm, 4:15pm, 6:30pm, 7:15pm, 10:00pm, 10:15pm), Wed 9/30 (12:45pm, 1:45pm, 4:45pm, 6:30pm, 7:15pm, 10:00pm, 10:25pm)
+
+    * [Queer Film Theory 101 The Birdcage](https://drafthouse.com/los-angeles/show/queer-film-theory-101-the-birdcage): Fri 9/25 (12:00pm), Sat 9/26 (2:15pm), Tue 9/29 (1:15pm)
+
+    * [Resident Evil 2026](https://drafthouse.com/los-angeles/show/resident-evil-2026): Thu 9/24 (1:30pm, 3:45pm, 4:15pm, 9:30pm, 10:45pm), Fri 9/25 (1:30pm, 3:45pm, 4:15pm, 10:30pm), Sat 9/26 (1:30pm, 3:45pm, 4:15pm, 10:30pm), Sun 9/27 (1:30pm, 3:45pm, 4:15pm, 10:30pm), Mon 9/28 (1:30pm, 3:45pm, 4:15pm, 7:00pm, 9:45pm, 10:30pm), Tue 9/29 (12:45pm, 3:45pm, 6:15pm, 9:45pm, 10:30pm), Wed 9/30 (12:45pm, 3:30pm, 3:45pm, 6:15pm, 10:30pm)
+
+    * [Teenage Sex And Death At Camp Miasma](https://drafthouse.com/los-angeles/show/teenage-sex-and-death-at-camp-miasma): Thu 9/24 (4:00pm)
+
+    * [The History Of Concrete](https://drafthouse.com/los-angeles/show/the-history-of-concrete): Fri 9/25 (12:15pm, 3:15pm, 6:15pm), Sat 9/26 (12:15pm, 3:15pm, 6:15pm), Sun 9/27 (12:15pm, 3:15pm, 6:15pm), Mon 9/28 (12:15pm, 3:15pm, 6:15pm), Tue 9/29 (12:15pm, 3:15pm, 6:15pm), Wed 9/30 (12:15pm, 3:15pm, 6:15pm)
+
+    * [The Musical](https://drafthouse.com/los-angeles/show/the-musical): Thu 9/24 (1:30pm)
+
+    * [The Stunt Driver](https://drafthouse.com/los-angeles/show/the-stunt-driver): Fri 9/25 (6:15pm), Sun 9/27 (3:00pm), Mon 9/28 (10:30pm), Wed 9/30 (4:15pm)
+
+    * [The Weight](https://drafthouse.com/los-angeles/show/the-weight): Thu 9/24 (9:45pm), Fri 9/25 (9:15pm), Sat 9/26 (9:15pm), Sun 9/27 (9:15pm), Mon 9/28 (9:15pm), Tue 9/29 (9:15pm), Wed 9/30 (9:15pm)
+
 ### Mon 9/21 9:52am
 * New movies: Street Fighter 2026, The Social Reckoning, Dire Duplicity, Littermates
 
