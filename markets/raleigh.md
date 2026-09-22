@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Tue 9/22 2:44pm
+* New movies: Digger, Digger
+
+* New screenings: 
+    * [Digger](https://drafthouse.com/raleigh/show/digger): Thu 10/1 (2:45pm, 6:15pm), Fri 10/2 (4:10pm), Sat 10/3 (3:00pm, 7:00pm), Sun 10/4 (4:10pm, 7:30pm)
+
+    * [Fan Event Digger](https://drafthouse.com/raleigh/show/fan-event-digger): Fri 10/2 (7:30pm)
+
 ### Mon 9/21 3:17pm
 * New movies: Littermates, Rammstein - Live in Mexico City
 
