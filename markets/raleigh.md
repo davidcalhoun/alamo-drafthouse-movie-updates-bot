@@ -1,6 +1,50 @@
 # raleigh
 
 ## Movie updates
+### Tue 9/22 5:58pm
+* New movies: Ha-Chan, Shake Your Booty!, American Doctor, Basic Instinct, Ghost in the Shell Subtitled, Ozzy & Black Sabbath: Back to the Beginning, THE TWILIGHT SAGA: NEW MOON
+
+* New screenings: 
+    * [American Doctor](https://drafthouse.com/raleigh/show/american-doctor): Thu 9/24 (4:30pm), Sun 9/27 (11:45am), Tue 9/29 (2:00pm), Wed 9/30 (4:15pm)
+
+    * [Avengers Endgame Encore](https://drafthouse.com/raleigh/show/avengers-endgame-encore): Thu 9/24 (9:00pm), Fri 9/25 (12:30pm, 1:30pm, 2:15pm, 8:15pm, 9:45pm), Sat 9/26 (12:00pm, 12:30pm, 1:45pm, 6:00pm, 9:45pm), Sun 9/27 (12:30pm, 1:45pm, 6:15pm, 9:00pm), Mon 9/28 (12:30pm, 1:30pm, 5:00pm, 8:00pm, 9:00pm), Tue 9/29 (12:00pm, 5:00pm, 7:30pm, 9:00pm), Wed 9/30 (12:30pm, 2:00pm, 3:00pm, 5:30pm, 9:00pm)
+
+    * [Basic Instinct](https://drafthouse.com/raleigh/show/basic-instinct): Thu 9/24 (11:30am)
+
+    * [By Any Means](https://drafthouse.com/raleigh/show/by-any-means): Thu 9/24 (1:30pm), Fri 9/25 (11:30am), Sat 9/26 (11:00am), Sun 9/27 (11:00am), Mon 9/28 (11:00am), Tue 9/29 (12:30pm), Wed 9/30 (1:30pm)
+
+    * [Coyote Vs Acme](https://drafthouse.com/raleigh/show/coyote-vs-acme): Thu 9/24 (12:00pm), Fri 9/25 (12:30pm), Sat 9/26 (1:30pm), Sun 9/27 (1:30pm), Mon 9/28 (12:00pm), Tue 9/29 (11:30am), Wed 9/30 (2:00pm)
+
+    * [Digger](https://drafthouse.com/raleigh/show/digger): Thu 10/1 (9:45pm)
+
+    * [Forgotten Island](https://drafthouse.com/raleigh/show/forgotten-island): Thu 9/24 (3:00pm, 6:15pm, 9:15pm), Fri 9/25 (2:45pm, 6:45pm, 9:00pm), Sat 9/26 (2:45pm, 6:45pm, 9:00pm), Sun 9/27 (2:30pm, 6:30pm, 9:15pm), Mon 9/28 (11:00am, 2:30pm, 6:45pm, 9:00pm), Tue 9/29 (11:00am, 2:45pm, 6:45pm, 9:00pm), Wed 9/30 (11:30am, 2:45pm, 6:00pm, 9:00pm)
+
+    * [Ghost In The Shell Subtitled](https://drafthouse.com/raleigh/show/ghost-in-the-shell-subtitled): Thu 9/24 (12:30pm)
+
+    * [Ha Chan Shake Your Booty](https://drafthouse.com/raleigh/show/ha-chan-shake-your-booty): Thu 9/24 (4:00pm, 7:15pm, 10:30pm), Fri 9/25 (11:30am, 4:00pm, 7:15pm, 10:45pm), Sat 9/26 (1:00pm, 4:05pm, 7:15pm), Sun 9/27 (12:30pm, 3:45pm, 6:00pm, 9:45pm), Mon 9/28 (12:30pm, 4:00pm, 7:15pm, 10:45pm), Tue 9/29 (1:00pm, 4:05pm, 7:15pm, 10:30pm), Wed 9/30 (12:30pm, 3:35pm, 6:45pm, 10:00pm)
+
+    * [Heart Of The Beast](https://drafthouse.com/raleigh/show/heart-of-the-beast): Thu 9/24 (3:15pm, 6:00pm, 9:00pm), Fri 9/25 (12:00pm, 6:00pm, 9:45pm), Sat 9/26 (11:30am, 6:00pm, 10:30pm), Sun 9/27 (11:30am, 6:00pm, 10:15pm), Mon 9/28 (11:30am, 2:00pm, 6:00pm, 9:45pm), Tue 9/29 (12:00pm, 2:00pm, 6:00pm, 9:45pm), Wed 9/30 (12:00pm, 3:45pm, 6:30pm, 9:30pm)
+
+    * [Hope 2026](https://drafthouse.com/raleigh/show/hope-2026): Thu 9/24 (2:45pm, 9:30pm), Fri 9/25 (10:15pm), Sat 9/26 (10:15pm), Sun 9/27 (9:05pm), Mon 9/28 (8:15pm), Tue 9/29 (9:00pm), Wed 9/30 (9:45pm)
+
+    * [If I Go Will They Miss Me](https://drafthouse.com/raleigh/show/if-i-go-will-they-miss-me): Sun 9/27 (10:45pm)
+
+    * [Ozzy Black Sabbath Back To The Beginning](https://drafthouse.com/raleigh/show/ozzy-black-sabbath-back-to-the-beginning): Wed 10/28 (6:00pm), Thu 10/29 (7:30pm)
+
+    * [Practical Magic 2](https://drafthouse.com/raleigh/show/practical-magic-2): Thu 9/24 (11:00am, 2:15pm, 6:15pm, 9:45pm), Fri 9/25 (12:00pm, 3:30pm, 6:45pm, 10:45pm), Sat 9/26 (11:30am, 3:00pm, 6:30pm, 9:45pm), Sun 9/27 (12:00pm, 3:15pm, 6:45pm, 10:00pm), Mon 9/28 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Tue 9/29 (11:00am, 2:30pm, 6:00pm, 9:15pm), Wed 9/30 (12:00pm, 3:30pm, 7:15pm, 10:30pm)
+
+    * [Primetime](https://drafthouse.com/raleigh/show/primetime): Thu 9/24 (5:15pm, 8:15pm), Fri 9/25 (1:00pm, 4:00pm, 4:45pm, 5:15pm, 7:45pm, 10:30pm), Sat 9/26 (1:00pm, 4:30pm, 5:15pm, 8:15pm, 10:45pm), Sun 9/27 (1:00pm, 2:30pm, 2:30pm, 4:00pm, 5:30pm, 10:30pm), Mon 9/28 (1:00pm, 2:00pm, 4:00pm, 4:30pm, 5:00pm, 6:00pm, 10:15pm, 10:30pm), Tue 9/29 (1:00pm, 2:15pm, 3:30pm, 4:00pm, 5:45pm, 7:00pm, 10:15pm, 10:45pm), Wed 9/30 (11:00am, 11:30am, 2:45pm, 6:00pm, 10:05pm, 10:30pm)
+
+    * [Resident Evil 2026](https://drafthouse.com/raleigh/show/resident-evil-2026): Thu 9/24 (11:00am, 1:00pm, 1:30pm, 4:45pm, 8:00pm, 10:45pm), Fri 9/25 (1:30pm, 4:45pm, 7:45pm, 9:15pm), Sat 9/26 (12:30pm, 4:45pm, 7:45pm, 9:15pm), Sun 9/27 (12:15pm, 4:30pm, 7:30pm, 9:30pm), Mon 9/28 (1:30pm, 5:15pm, 7:45pm, 9:30pm), Tue 9/29 (12:30pm, 4:45pm, 7:45pm, 9:15pm), Wed 9/30 (1:00pm, 5:00pm, 7:45pm, 10:45pm)
+
+    * [Spider Man Brand New Day](https://drafthouse.com/raleigh/show/spider-man-brand-new-day): Thu 9/24 (11:30am), Fri 9/25 (3:00pm, 6:00pm), Sat 9/26 (3:15pm, 5:00pm), Sun 9/27 (3:00pm, 7:45pm), Mon 9/28 (3:00pm, 7:30pm), Tue 9/29 (3:15pm, 5:30pm), Wed 9/30 (7:30pm)
+
+    * [The Odyssey](https://drafthouse.com/raleigh/show/the-odyssey): Thu 9/24 (1:00pm), Fri 9/25 (1:00pm), Sat 9/26 (1:15pm), Mon 9/28 (1:00pm), Tue 9/29 (1:30pm), Wed 9/30 (1:30pm)
+
+    * [The Twilight Saga New Moon](https://drafthouse.com/raleigh/show/the-twilight-saga-new-moon): Thu 9/24 (10:45pm)
+
+    * [The Uprising](https://drafthouse.com/raleigh/show/the-uprising): Thu 9/24 (12:30pm)
+
 ### Tue 9/22 2:44pm
 * New movies: Digger, Digger
 
