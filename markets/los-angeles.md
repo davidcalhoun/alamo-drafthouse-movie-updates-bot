@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 9/22 11:37am
+* New movies: Digger, Digger
+
+* New screenings: 
+    * [Digger](https://drafthouse.com/los-angeles/show/digger): Thu 10/1 (3:00pm, 6:30pm), Fri 10/2 (3:30pm), Sat 10/3 (3:00pm, 6:30pm), Sun 10/4 (3:00pm, 6:30pm)
+
+    * [Fan Event Digger](https://drafthouse.com/los-angeles/show/fan-event-digger): Fri 10/2 (7:00pm)
+
 ### Mon 9/21 1:53pm
 * New movies: Avengers Endgame: Encore, Heart of the Beast, The Stunt Driver, Nacho Libre, American Doctor
 
