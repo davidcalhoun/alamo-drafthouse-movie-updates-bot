@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 9/23 12:33pm
+* New movies: You Can See Everything
+
+* New screenings: 
+    * [You Can See Everything](https://drafthouse.com/los-angeles/show/you-can-see-everything): Thu 10/15 (6:00pm), Fri 10/16 (6:00pm), Sat 10/17 (6:00pm), Sun 10/18 (6:00pm)
+
 ### Tue 9/22 11:37am
 * New movies: Digger, Digger
 
