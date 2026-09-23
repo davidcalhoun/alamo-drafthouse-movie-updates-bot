@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 9/23 7:35pm
+* New movies: You Can See Everything
+
+* New screenings: 
+    * [You Can See Everything](https://drafthouse.com/raleigh/show/you-can-see-everything): Thu 10/15 (7:00pm), Fri 10/16 (6:30pm), Sat 10/17 (6:00pm), Sun 10/18 (7:00pm)
+
 ### Tue 9/22 8:18pm
 * New movies: The Hole 1998
 
