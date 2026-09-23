@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Tue 9/22 8:18pm
+* New movies: The Hole 1998
+
+* New screenings: 
+    * [Cameron Winter At Carnegie Hall](https://drafthouse.com/raleigh/show/cameron-winter-at-carnegie-hall): Fri 1/29 (6:00pm)
+
+    * [Weird Wednesday The Hole 1998](https://drafthouse.com/raleigh/show/weird-wednesday-the-hole-1998): Wed 10/21 (10:00pm)
+
 ### Tue 9/22 5:58pm
 * New movies: Ha-Chan, Shake Your Booty!, American Doctor, Basic Instinct, Ghost in the Shell Subtitled, Ozzy & Black Sabbath: Back to the Beginning, THE TWILIGHT SAGA: NEW MOON
 
