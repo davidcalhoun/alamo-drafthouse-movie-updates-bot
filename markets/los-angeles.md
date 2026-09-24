@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Thu 9/24 11:19am
+* New movies: Ozzy & Black Sabbath: Back to the Beginning, Union County, Never After Dark
+
+* New screenings: 
+    * [Jeopardy Interactive](https://drafthouse.com/los-angeles/show/jeopardy-interactive): Wed 10/28 (7:00pm)
+
+    * [Never After Dark](https://drafthouse.com/los-angeles/show/never-after-dark): Fri 10/9 (9:00pm)
+
+    * [Ozzy Black Sabbath Back To The Beginning](https://drafthouse.com/los-angeles/show/ozzy-black-sabbath-back-to-the-beginning): Wed 10/28 (8:00pm), Thu 10/29 (7:30pm)
+
+    * [Union County](https://drafthouse.com/los-angeles/show/union-county): Mon 10/5 (4:00pm), Wed 10/7 (4:30pm)
+
 ### Thu 9/24 12:25am
 
 * New screenings: 
