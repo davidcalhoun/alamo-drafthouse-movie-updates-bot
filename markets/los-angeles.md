@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 9/24 12:25am
+
+* New screenings: 
+    * [Primetime](https://drafthouse.com/los-angeles/show/primetime): Thu 9/24 (9:00pm), Fri 9/25 (3:15pm), Sat 9/26 (3:00pm), Sun 9/27 (6:45pm)
+
 ### Wed 9/23 12:33pm
 * New movies: You Can See Everything
 
