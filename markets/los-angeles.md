@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Thu 9/24 3:07pm
+
+* New screenings: 
+    * [Jeopardy Interactive](https://drafthouse.com/los-angeles/show/jeopardy-interactive): Wed 11/18 (7:00pm), Wed 12/16 (7:00pm)
+
 ### Thu 9/24 11:19am
 * New movies: Ozzy & Black Sabbath: Back to the Beginning, Union County, Never After Dark
 
