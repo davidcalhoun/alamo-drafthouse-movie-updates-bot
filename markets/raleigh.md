@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 9/25 9:37am
+* New movies: Your Mother Your Mother Your Mother
+
+* New screenings: 
+    * [Your Mother Your Mother Your Mother](https://drafthouse.com/raleigh/show/your-mother-your-mother-your-mother): Thu 10/15 (6:45pm, 9:45pm), Fri 10/16 (6:45pm, 9:45pm), Sat 10/17 (6:45pm, 9:45pm), Sun 10/18 (6:45pm, 9:45pm)
+
 ### Wed 9/23 7:35pm
 * New movies: You Can See Everything
 
