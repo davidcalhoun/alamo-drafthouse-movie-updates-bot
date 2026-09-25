@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 9/25 2:28pm
+* New movies: Naza
+
+* New screenings: 
+    * [Naza](https://drafthouse.com/raleigh/show/naza): Fri 10/9 (4:00pm, 6:30pm), Sat 10/10 (4:00pm, 6:30pm), Sun 10/11 (3:30pm, 6:30pm), Mon 10/12 (4:00pm, 7:30pm), Tue 10/13 (4:00pm), Wed 10/14 (5:00pm, 7:30pm), Thu 10/15 (4:45pm, 7:15pm)
+
 ### Fri 9/25 9:37am
 * New movies: Your Mother Your Mother Your Mother
 
