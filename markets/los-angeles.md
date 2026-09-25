@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 9/25 11:20am
+* New movies: Naza
+
+* New screenings: 
+    * [Naza](https://drafthouse.com/los-angeles/show/naza): Fri 10/9 (4:00pm, 6:30pm), Sat 10/10 (4:30pm, 7:00pm), Sun 10/11 (3:45pm, 6:15pm), Mon 10/12 (4:00pm, 6:30pm), Tue 10/13 (4:00pm), Wed 10/14 (4:30pm, 7:00pm), Thu 10/15 (4:00pm, 6:30pm)
+
 ### Thu 9/24 3:07pm
 
 * New screenings: 
