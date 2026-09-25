@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Fri 9/25 3:05pm
+* New movies: Vampire Circus, A Desert, Chopper, WEIRD WEDNESDAY: THIR13EN GHOSTS
+
+* New screenings: 
+    * [Terror Tuesday Vampire Circus](https://drafthouse.com/los-angeles/show/terror-tuesday-vampire-circus): Tue 10/20 (7:40pm)
+
+    * [Weird Wednesday A Desert Live Q A](https://drafthouse.com/los-angeles/show/weird-wednesday-a-desert-live-q-a): Wed 10/14 (7:30pm)
+
+    * [Weird Wednesday Chopper](https://drafthouse.com/los-angeles/show/weird-wednesday-chopper): Wed 10/7 (7:45pm)
+
+    * [Weird Wednesday Thir13en Ghosts](https://drafthouse.com/los-angeles/show/weird-wednesday-thir13en-ghosts): Wed 10/28 (7:30pm)
+
 ### Fri 9/25 11:20am
 * New movies: Naza
 
