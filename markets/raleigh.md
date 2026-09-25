@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Fri 9/25 6:12pm
+* New movies: A Prayer for the Dying
+
+* New screenings: 
+    * [A Prayer For The Dying](https://drafthouse.com/raleigh/show/a-prayer-for-the-dying): Fri 10/9 (4:15pm), Sat 10/10 (12:00pm), Sun 10/11 (3:15pm), Mon 10/12 (4:15pm), Tue 10/13 (4:15pm), Wed 10/14 (4:00pm), Thu 10/15 (4:00pm)
+
+    * [Jeopardy Interactive](https://drafthouse.com/raleigh/show/jeopardy-interactive): Wed 10/28 (6:30pm)
+
 ### Fri 9/25 2:28pm
 * New movies: Naza
 
