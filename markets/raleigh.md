@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Sun 9/27 6:00pm
+
+* New screenings: 
+    * [Jeopardy Interactive](https://drafthouse.com/raleigh/show/jeopardy-interactive): Wed 11/18 (7:00pm), Wed 12/16 (7:00pm)
+
 ### Fri 9/25 6:12pm
 * New movies: A Prayer for the Dying
 
