@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Sun 9/27 5:24pm
+
+* New screenings: 
+    * [Primetime](https://drafthouse.com/los-angeles/show/primetime): Sun 9/27 (10:00pm)
+
 ### Fri 9/25 3:05pm
 * New movies: Vampire Circus, A Desert, Chopper, WEIRD WEDNESDAY: THIR13EN GHOSTS
 
