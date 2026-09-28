@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Mon 9/28 5:49pm
+
+* New screenings: 
+    * [You Can See Everything](https://drafthouse.com/raleigh/show/you-can-see-everything): Fri 10/16 (11:00am, 3:00pm, 9:45pm), Sat 10/17 (12:00pm, 2:00pm, 10:15pm), Sun 10/18 (11:00am, 3:00pm, 9:30pm)
+
 ### Mon 9/28 11:17am
 * New movies: Dive in Wonderland
 
