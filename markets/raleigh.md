@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 9/28 11:17am
+* New movies: Dive in Wonderland
+
+* New screenings: 
+    * [Dive In Wonderland](https://drafthouse.com/raleigh/show/dive-in-wonderland): Mon 11/16 (7:00pm)
+
 ### Sun 9/27 6:00pm
 
 * New screenings: 
