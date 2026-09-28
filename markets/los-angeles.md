@@ -1,6 +1,60 @@
 # los-angeles
 
 ## Movie updates
+### Mon 9/28 2:41pm
+* New movies: The Scout, A Prayer for the Dying, Buddy 2026, Blue Velvet, Moonlight, Dive in Wonderland
+
+* New screenings: 
+    * [A Prayer For The Dying](https://drafthouse.com/los-angeles/show/a-prayer-for-the-dying): Fri 10/9 (4:15pm), Sat 10/10 (11:15am), Sun 10/11 (4:30pm), Mon 10/12 (3:00pm), Tue 10/13 (4:45pm), Wed 10/14 (4:45pm), Thu 10/15 (4:30pm)
+
+    * [Avengers Endgame Encore](https://drafthouse.com/los-angeles/show/avengers-endgame-encore): Thu 10/1 (11:15am, 3:30pm, 7:45pm, 9:00pm), Fri 10/2 (11:00am, 3:15pm, 7:30pm, 9:00pm), Sat 10/3 (11:00am, 3:15pm, 7:30pm, 8:15pm), Sun 10/4 (11:00am, 3:15pm, 7:30pm, 9:00pm), Mon 10/5 (11:00am, 3:15pm, 7:30pm, 9:15pm), Tue 10/6 (11:00am, 3:15pm, 7:30pm, 9:15pm), Wed 10/7 (11:00am, 3:15pm, 7:30pm, 9:15pm)
+
+    * [Beetlejuice](https://drafthouse.com/los-angeles/show/beetlejuice): Fri 10/2 (3:00pm), Sat 10/3 (1:15pm), Sun 10/4 (6:15pm), Tue 10/6 (4:40pm)
+
+    * [Blue Velvet](https://drafthouse.com/los-angeles/show/blue-velvet): Fri 10/2 (5:45pm), Sun 10/4 (10:00pm), Mon 10/5 (12:45pm), Tue 10/6 (12:45pm), Wed 10/7 (1:15pm)
+
+    * [Digger](https://drafthouse.com/los-angeles/show/digger): Thu 10/1 (10:00pm), Fri 10/2 (12:00pm, 10:15pm), Sat 10/3 (11:30am, 10:00pm), Sun 10/4 (11:30am, 10:00pm), Mon 10/5 (11:30am, 3:00pm, 6:30pm, 10:00pm), Tue 10/6 (11:30am, 3:00pm, 6:30pm, 10:00pm), Wed 10/7 (11:30am, 3:00pm, 6:30pm, 10:00pm)
+
+    * [Dive In Wonderland](https://drafthouse.com/los-angeles/show/dive-in-wonderland): Mon 11/16 (7:00pm)
+
+    * [Forgotten Island](https://drafthouse.com/los-angeles/show/forgotten-island): Thu 10/1 (12:30pm, 3:30pm, 6:30pm, 10:00pm), Fri 10/2 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sat 10/3 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sun 10/4 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Mon 10/5 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Tue 10/6 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Wed 10/7 (12:15pm, 3:15pm, 6:15pm, 9:15pm)
+
+    * [Ghost In The Cell](https://drafthouse.com/los-angeles/show/ghost-in-the-cell): Wed 10/7 (4:45pm)
+
+    * [Ha Chan Shake Your Booty](https://drafthouse.com/los-angeles/show/ha-chan-shake-your-booty): Thu 10/1 (11:30am, 2:45pm), Fri 10/2 (11:30am), Sat 10/3 (11:30am), Sun 10/4 (11:30am), Mon 10/5 (11:30am), Tue 10/6 (11:30am), Wed 10/7 (11:30am)
+
+    * [Heart Of The Beast](https://drafthouse.com/los-angeles/show/heart-of-the-beast): Thu 10/1 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Fri 10/2 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Sat 10/3 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Sun 10/4 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Mon 10/5 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Tue 10/6 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm), Wed 10/7 (11:00am, 1:50pm, 4:40pm, 7:30pm, 10:20pm)
+
+    * [Hope 2026](https://drafthouse.com/los-angeles/show/hope-2026): Thu 10/1 (11:45am, 5:15pm, 9:30pm), Fri 10/2 (6:00pm, 9:45pm), Sat 10/3 (6:00pm, 9:45pm), Sun 10/4 (6:00pm, 9:45pm), Mon 10/5 (6:00pm, 9:45pm), Tue 10/6 (6:00pm, 9:45pm), Wed 10/7 (6:00pm, 9:45pm)
+
+    * [If I Go Will They Miss Me](https://drafthouse.com/los-angeles/show/if-i-go-will-they-miss-me): Thu 10/1 (11:45am, 2:30pm), Fri 10/2 (12:30pm, 3:15pm), Sat 10/3 (12:30pm, 3:15pm), Sun 10/4 (12:30pm, 3:15pm), Mon 10/5 (12:30pm, 3:15pm), Tue 10/6 (12:30pm, 3:15pm), Wed 10/7 (12:30pm, 3:15pm)
+
+    * [Practical Magic 2](https://drafthouse.com/los-angeles/show/practical-magic-2): Thu 10/1 (11:30am)
+
+    * [Primetime](https://drafthouse.com/los-angeles/show/primetime): Thu 10/1 (12:00pm, 1:15pm, 3:00pm, 4:15pm, 6:00pm, 7:15pm, 9:00pm, 10:15pm), Fri 10/2 (12:45pm, 1:30pm, 3:45pm, 4:30pm, 6:45pm, 7:30pm, 9:45pm), Sat 10/3 (11:00am, 12:45pm, 3:00pm, 3:45pm, 5:15pm, 6:00pm, 6:45pm, 9:45pm), Sun 10/4 (11:45am, 1:00pm, 2:45pm, 3:15pm, 5:45pm, 7:00pm, 8:45pm), Mon 10/5 (12:15pm, 1:15pm, 3:15pm, 4:15pm, 6:15pm, 7:15pm, 9:15pm), Tue 10/6 (12:45pm, 1:30pm, 3:45pm, 6:00pm, 6:45pm, 9:45pm), Wed 10/7 (12:15pm, 1:45pm, 3:15pm, 6:15pm, 9:15pm)
+
+    * [Resident Evil 2026](https://drafthouse.com/los-angeles/show/resident-evil-2026): Thu 10/1 (11:30am, 12:45pm, 2:15pm, 3:30pm, 6:15pm, 9:00pm), Fri 10/2 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sat 10/3 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sun 10/4 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Mon 10/5 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Tue 10/6 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Wed 10/7 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm)
+
+    * [Sing Along Buddy 2026](https://drafthouse.com/los-angeles/show/sing-along-buddy-2026): Fri 10/2 (10:30pm), Mon 10/5 (10:40pm), Tue 10/6 (10:00pm)
+
+    * [Special Event Moonlight 10th Anniversary Remastered](https://drafthouse.com/los-angeles/show/special-event-moonlight-10th-anniversary-remastered): Fri 10/2 (2:45pm), Sat 10/3 (2:45pm), Sun 10/4 (2:45pm), Mon 10/5 (2:45pm), Tue 10/6 (2:45pm), Wed 10/7 (2:45pm)
+
+    * [The History Of Concrete](https://drafthouse.com/los-angeles/show/the-history-of-concrete): Thu 10/1 (1:00pm, 4:00pm, 7:00pm), Fri 10/2 (6:00pm, 9:00pm), Sat 10/3 (9:00pm), Sun 10/4 (6:00pm, 9:00pm), Mon 10/5 (6:00pm, 9:00pm), Tue 10/6 (9:00pm), Wed 10/7 (6:00pm, 9:00pm)
+
+    * [The Scout](https://drafthouse.com/los-angeles/show/the-scout): Thu 10/1 (5:00pm, 10:45pm), Fri 10/2 (11:00am, 1:40pm, 4:20pm, 10:15pm), Sat 10/3 (11:00am, 1:40pm, 4:20pm, 10:15pm), Sun 10/4 (11:15am, 1:55pm, 4:35pm, 7:15pm, 10:00pm), Mon 10/5 (11:15am, 1:55pm, 4:35pm, 7:15pm, 10:00pm), Tue 10/6 (11:15am, 1:55pm, 4:35pm, 7:15pm, 10:00pm), Wed 10/7 (11:15am, 1:55pm, 4:35pm, 7:15pm, 10:00pm)
+
+    * [The Social Reckoning](https://drafthouse.com/los-angeles/show/the-social-reckoning): Thu 10/8 (10:00pm)
+
+    * [The Weight](https://drafthouse.com/los-angeles/show/the-weight): Thu 10/1 (9:30pm)
+
+    * [Union County](https://drafthouse.com/los-angeles/show/union-county): Fri 10/2 (12:00pm), Tue 10/6 (4:00pm)
+
+    * [Verity](https://drafthouse.com/los-angeles/show/verity): Thu 10/1 (3:30pm, 6:45pm, 10:00pm), Fri 10/2 (12:15pm, 10:00pm), Sat 10/3 (11:45am, 9:15pm), Sun 10/4 (11:30am, 9:15pm), Mon 10/5 (11:30am, 2:45pm, 6:00pm, 10:15pm), Tue 10/6 (11:30am, 2:45pm, 6:00pm, 10:00pm), Wed 10/7 (11:30am, 2:45pm, 6:00pm, 10:15pm)
+
+    * [You Can See Everything](https://drafthouse.com/los-angeles/show/you-can-see-everything): Thu 10/15 (5:00pm, 9:00pm), Fri 10/16 (4:00pm, 8:00pm), Sat 10/17 (4:00pm, 8:00pm), Sun 10/18 (4:00pm, 8:00pm), Mon 10/19 (3:00pm, 7:00pm), Tue 10/20 (3:00pm, 7:00pm), Wed 10/21 (3:00pm, 7:00pm)
+
+    * [Your Mother Your Mother Your Mother](https://drafthouse.com/los-angeles/show/your-mother-your-mother-your-mother): Thu 10/8 (9:00pm)
+
 ### Sun 9/27 5:24pm
 
 * New screenings: 
