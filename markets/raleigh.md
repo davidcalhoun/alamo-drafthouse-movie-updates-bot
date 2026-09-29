@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 9/29 4:39pm
+* New movies: Addams Family Values
+
+* New screenings: 
+    * [Free Victory Screening Addams Family Values Eternally Yours](https://drafthouse.com/raleigh/show/free-victory-screening-addams-family-values-eternally-yours): Tue 10/6 (6:30pm)
+
 ### Tue 9/29 11:39am
 * New movies: Sense and Sensibility 2026, Sense and Sensibility 2026
 
