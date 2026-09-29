@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 9/29 8:31am
+* New movies: Sense and Sensibility 2026, Sense and Sensibility 2026
+
+* New screenings: 
+    * [Dress Up Screening Sense And Sensibility 2026 Sister Screening](https://drafthouse.com/los-angeles/show/dress-up-screening-sense-and-sensibility-2026-sister-screening): Sat 10/17 (11:00am)
+
+    * [Livestream Q A Sense And Sensibility 2026](https://drafthouse.com/los-angeles/show/livestream-q-a-sense-and-sensibility-2026): Mon 10/12 (4:00pm)
+
 ### Mon 9/28 2:41pm
 * New movies: The Scout, A Prayer for the Dying, Buddy 2026, Blue Velvet, Moonlight, Dive in Wonderland
 
