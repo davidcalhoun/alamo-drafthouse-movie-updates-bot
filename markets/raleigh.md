@@ -1,6 +1,48 @@
 # raleigh
 
 ## Movie updates
+### Mon 9/28 9:46pm
+* New movies: Buddy 2026, If I Go Will They Miss Me, Moonlight, Destroy All Monsters
+
+* New screenings: 
+    * [Avengers Endgame Encore](https://drafthouse.com/raleigh/show/avengers-endgame-encore): Thu 10/1 (12:30pm, 2:15pm, 6:15pm, 10:00pm), Fri 10/2 (11:15am, 3:45pm, 8:00pm), Sat 10/3 (11:30am, 3:45pm, 8:00pm), Sun 10/4 (11:30am, 4:30pm, 7:00pm), Mon 10/5 (1:30pm, 2:45pm, 6:00pm), Tue 10/6 (12:00pm, 2:00pm, 6:00pm), Wed 10/7 (12:00pm, 1:30pm, 5:45pm)
+
+    * [Blue Velvet](https://drafthouse.com/raleigh/show/blue-velvet): Tue 10/6 (11:00am)
+
+    * [By Any Means](https://drafthouse.com/raleigh/show/by-any-means): Thu 10/1 (11:45am)
+
+    * [Destroy All Monsters](https://drafthouse.com/raleigh/show/destroy-all-monsters): Thu 10/1 (10:30pm)
+
+    * [Digger](https://drafthouse.com/raleigh/show/digger): Thu 10/1 (2:30pm, 8:45pm), Fri 10/2 (12:45pm, 10:45pm), Sat 10/3 (12:45pm, 9:00pm, 9:30pm), Sun 10/4 (12:50pm, 9:30pm, 10:50pm), Mon 10/5 (11:30am, 12:00pm, 3:15pm, 6:30pm, 9:30pm, 10:30pm), Tue 10/6 (1:00pm, 4:15pm, 7:30pm, 10:50pm), Wed 10/7 (11:00am, 2:30pm, 7:15pm, 9:00pm)
+
+    * [Ernie Emma](https://drafthouse.com/raleigh/show/ernie-emma): Thu 10/1 (11:30am)
+
+    * [Forgotten Island](https://drafthouse.com/raleigh/show/forgotten-island): Thu 10/1 (11:30am, 2:30pm, 6:00pm, 9:00pm), Fri 10/2 (11:30am, 2:45pm, 6:15pm, 9:15pm), Sat 10/3 (11:30am, 2:45pm, 6:15pm, 9:15pm), Sun 10/4 (11:30am, 2:45pm, 6:15pm, 9:15pm), Mon 10/5 (11:15am, 2:30pm, 6:15pm, 9:15pm), Tue 10/6 (11:00am, 2:30pm, 6:15pm, 9:15pm), Wed 10/7 (12:00pm, 3:00pm, 6:15pm, 9:15pm)
+
+    * [Ha Chan Shake Your Booty](https://drafthouse.com/raleigh/show/ha-chan-shake-your-booty): Thu 10/1 (11:00am, 1:30pm), Fri 10/2 (1:30pm), Sat 10/3 (1:45pm), Sun 10/4 (1:30pm), Mon 10/5 (2:00pm), Tue 10/6 (2:00pm), Wed 10/7 (2:00pm)
+
+    * [Heart Of The Beast](https://drafthouse.com/raleigh/show/heart-of-the-beast): Thu 10/1 (1:00pm, 3:30pm, 6:45pm, 9:30pm), Fri 10/2 (12:30pm, 3:45pm, 6:45pm, 9:30pm), Sat 10/3 (12:30pm, 3:45pm, 6:45pm, 9:30pm), Sun 10/4 (12:30pm, 3:45pm, 6:45pm, 9:30pm), Mon 10/5 (12:45pm, 3:45pm, 6:45pm, 9:30pm), Tue 10/6 (12:45pm, 3:45pm, 6:45pm, 9:30pm), Wed 10/7 (12:30pm, 3:45pm, 6:45pm, 9:30pm)
+
+    * [If I Go Will They Miss Me](https://drafthouse.com/raleigh/show/if-i-go-will-they-miss-me): Fri 10/2 (11:30am), Sat 10/3 (1:30pm), Sun 10/4 (12:00pm), Mon 10/5 (1:45pm), Tue 10/6 (4:20pm)
+
+    * [Linkin Park Unshatter](https://drafthouse.com/raleigh/show/linkin-park-unshatter): Fri 10/2 (5:45pm)
+
+    * [Practical Magic 2](https://drafthouse.com/raleigh/show/practical-magic-2): Thu 10/1 (12:40pm, 4:00pm, 7:30pm, 10:45pm), Fri 10/2 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Sat 10/3 (7:30pm, 10:45pm), Sun 10/4 (2:45pm, 6:00pm, 9:15pm), Mon 10/5 (11:00am, 2:15pm, 6:15pm, 10:00pm), Tue 10/6 (12:30pm, 3:15pm, 6:45pm, 10:15pm), Wed 10/7 (11:30am, 3:00pm, 6:45pm, 10:15pm)
+
+    * [Primetime](https://drafthouse.com/raleigh/show/primetime): Thu 10/1 (11:15am, 1:30pm, 3:15pm, 7:15pm, 8:45pm, 10:15pm), Fri 10/2 (1:00pm, 4:00pm, 7:00pm, 7:30pm, 9:00pm), Sat 10/3 (12:30pm, 4:15pm, 6:30pm, 7:30pm, 10:30pm), Sun 10/4 (1:30pm, 3:45pm, 6:30pm, 7:30pm, 10:30pm), Mon 10/5 (12:30pm, 3:30pm, 7:30pm, 10:45pm), Tue 10/6 (12:15pm, 2:45pm, 7:30pm, 10:00pm), Wed 10/7 (12:30pm, 4:15pm, 7:15pm, 10:15pm)
+
+    * [Resident Evil 2026](https://drafthouse.com/raleigh/show/resident-evil-2026): Thu 10/1 (12:00pm, 4:45pm, 7:45pm, 10:45pm), Fri 10/2 (1:15pm, 5:00pm, 8:00pm, 10:45pm), Sat 10/3 (1:00pm, 5:00pm, 8:00pm, 10:45pm), Sun 10/4 (1:00pm, 5:00pm, 8:00pm, 10:45pm), Mon 10/5 (1:15pm, 5:15pm, 8:00pm, 10:45pm), Tue 10/6 (1:00pm, 5:15pm, 8:00pm, 10:45pm), Wed 10/7 (12:30pm, 5:15pm, 8:00pm, 10:45pm)
+
+    * [Sing Along Buddy 2026](https://drafthouse.com/raleigh/show/sing-along-buddy-2026): Fri 10/2 (10:30pm), Sat 10/3 (10:00pm), Sun 10/4 (10:30pm), Mon 10/5 (10:30pm), Tue 10/6 (10:00pm), Wed 10/7 (10:30pm)
+
+    * [Special Event Moonlight 10th Anniversary Remastered](https://drafthouse.com/raleigh/show/special-event-moonlight-10th-anniversary-remastered): Fri 10/2 (2:15pm), Sat 10/3 (4:15pm), Sun 10/4 (8:45pm), Mon 10/5 (7:30pm), Tue 10/6 (6:15pm), Wed 10/7 (4:30pm)
+
+    * [Spider Man Brand New Day](https://drafthouse.com/raleigh/show/spider-man-brand-new-day): Thu 10/1 (5:00pm), Fri 10/2 (4:00pm), Sat 10/3 (4:00pm), Sun 10/4 (4:00pm), Mon 10/5 (4:00pm), Tue 10/6 (4:00pm), Wed 10/7 (3:30pm)
+
+    * [The History Of Concrete](https://drafthouse.com/raleigh/show/the-history-of-concrete): Fri 10/2 (2:00pm, 4:45pm, 7:45pm, 10:00pm), Sat 10/3 (1:30pm, 6:15pm), Sun 10/4 (2:00pm, 4:45pm, 7:45pm), Mon 10/5 (4:45pm, 7:45pm), Tue 10/6 (11:45am, 9:45pm), Wed 10/7 (1:30pm, 7:45pm, 10:00pm)
+
+    * [Verity](https://drafthouse.com/raleigh/show/verity): Thu 10/1 (10:15pm), Fri 10/2 (9:00pm, 10:25pm), Sat 10/3 (9:00pm), Sun 10/4 (9:00pm), Mon 10/5 (11:45am, 2:45pm, 6:00pm, 9:00pm, 10:15pm), Tue 10/6 (11:30am, 2:45pm, 6:00pm, 9:00pm), Wed 10/7 (1:00pm, 4:00pm, 7:00pm, 10:00pm, 10:30pm)
+
 ### Mon 9/28 5:49pm
 
 * New screenings: 
