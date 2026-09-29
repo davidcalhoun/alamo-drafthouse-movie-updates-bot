@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Tue 9/29 11:39am
+* New movies: Sense and Sensibility 2026, Sense and Sensibility 2026
+
+* New screenings: 
+    * [Dress Up Screening Sense And Sensibility 2026 Sister Screening](https://drafthouse.com/raleigh/show/dress-up-screening-sense-and-sensibility-2026-sister-screening): Sun 10/18 (1:00pm)
+
+    * [Livestream Q A Sense And Sensibility 2026](https://drafthouse.com/raleigh/show/livestream-q-a-sense-and-sensibility-2026): Mon 10/12 (7:00pm)
+
 ### Mon 9/28 9:46pm
 * New movies: Buddy 2026, If I Go Will They Miss Me, Moonlight, Destroy All Monsters
 
