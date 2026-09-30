@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 9/30 11:56am
+* New movies: Sense and Sensibility 2026
+
+* New screenings: 
+    * [Sense And Sensibility 2026](https://drafthouse.com/los-angeles/show/sense-and-sensibility-2026): Fri 10/16 (11:30am, 3:00pm, 6:30pm), Sat 10/17 (11:30am, 3:00pm, 6:30pm), Sun 10/18 (11:30am, 3:00pm, 6:30pm)
+
 ### Wed 9/30 6:26am
 * New movies: Whalefall, Whalefall
 
