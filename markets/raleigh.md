@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 9/30 3:05pm
+* New movies: Sense and Sensibility 2026
+
+* New screenings: 
+    * [Sense And Sensibility 2026](https://drafthouse.com/raleigh/show/sense-and-sensibility-2026): Thu 10/15 (4:15pm, 7:30pm), Fri 10/16 (4:15pm, 7:30pm), Sat 10/17 (4:15pm, 7:30pm), Sun 10/18 (4:15pm, 7:30pm)
+
 ### Wed 9/30 9:34am
 * New movies: Whalefall, Whalefall
 
