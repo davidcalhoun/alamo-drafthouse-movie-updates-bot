@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Wed 9/30 9:34am
+* New movies: Whalefall, Whalefall
+
+* New screenings: 
+    * [Alamo Drafthouse Movie Book Club Whalefall](https://drafthouse.com/raleigh/show/alamo-drafthouse-movie-book-club-whalefall): Wed 10/14 (7:30pm)
+
+    * [Whalefall](https://drafthouse.com/raleigh/show/whalefall): Thu 10/15 (3:00pm, 6:00pm, 9:00pm), Fri 10/16 (6:00pm), Sat 10/17 (6:00pm), Sun 10/18 (6:15pm)
+
 ### Tue 9/29 4:39pm
 * New movies: Addams Family Values
 
