@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 9/30 6:26am
+* New movies: Whalefall, Whalefall
+
+* New screenings: 
+    * [Alamo Drafthouse Movie Book Club Whalefall W Live Intro](https://drafthouse.com/los-angeles/show/alamo-drafthouse-movie-book-club-whalefall-w-live-intro): Wed 10/14 (7:00pm)
+
+    * [Whalefall](https://drafthouse.com/los-angeles/show/whalefall): Thu 10/15 (4:30pm, 7:30pm), Fri 10/16 (4:30pm, 7:30pm), Sat 10/17 (4:30pm, 7:30pm), Sun 10/18 (4:30pm, 7:30pm)
+
 ### Tue 9/29 8:31am
 * New movies: Sense and Sensibility 2026, Sense and Sensibility 2026
 
