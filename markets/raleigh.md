@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Thu 10/1 12:17pm
+
+* New screenings: 
+    * [Linkin Park Unshatter](https://drafthouse.com/raleigh/show/linkin-park-unshatter): Fri 10/2 (5:45pm)
+
 ### Wed 9/30 3:05pm
 * New movies: Sense and Sensibility 2026
 
