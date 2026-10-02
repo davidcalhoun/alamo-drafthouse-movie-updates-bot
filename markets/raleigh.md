@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Fri 10/2 11:42am
+* New movies: Pearl, Wild at Heart
+
+* New screenings: 
+    * [A24 X Alamo Cinema Club Mandatory Bundle Pearl](https://drafthouse.com/raleigh/show/a24-x-alamo-cinema-club-mandatory-bundle-pearl): Sun 11/22 (7:00pm)
+
+    * [Special Event Wild At Heart Unrated](https://drafthouse.com/raleigh/show/special-event-wild-at-heart-unrated): Mon 11/2 (7:00pm), Wed 11/4 (7:00pm)
+
 ### Thu 10/1 12:17pm
 
 * New screenings: 
