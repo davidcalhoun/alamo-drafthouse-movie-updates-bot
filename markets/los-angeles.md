@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 10/2 8:33am
+* New movies: Pearl, Wild at Heart
+
+* New screenings: 
+    * [A24 X Alamo Cinema Club Mandatory Bundle Pearl](https://drafthouse.com/los-angeles/show/a24-x-alamo-cinema-club-mandatory-bundle-pearl): Sun 11/22 (4:00pm, 7:00pm)
+
+    * [Special Event Wild At Heart Unrated](https://drafthouse.com/los-angeles/show/special-event-wild-at-heart-unrated): Mon 11/2 (6:15pm), Tue 11/3 (4:00pm)
+
 ### Wed 9/30 11:56am
 * New movies: Sense and Sensibility 2026
 
