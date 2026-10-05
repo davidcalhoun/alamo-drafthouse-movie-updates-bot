@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Sun 10/4 8:45pm
+* New movies: Restoration at Grayson Manor
+
+* New screenings: 
+    * [Restoration At Grayson Manor](https://drafthouse.com/raleigh/show/restoration-at-grayson-manor): Thu 10/29 (7:00pm)
+
 ### Fri 10/2 11:42am
 * New movies: Pearl, Wild at Heart
 
