@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 10/6 4:44pm
+* New movies: Marie Antoinette 2006, Marie Antoinette 2006
+
+* New screenings: 
+    * [Marie Antoinette](https://drafthouse.com/los-angeles/show/marie-antoinette): Mon 10/26 (4:00pm)
+
+    * [Movie Party Marie Antoinette 2006](https://drafthouse.com/los-angeles/show/movie-party-marie-antoinette-2006): Wed 10/28 (7:15pm)
+
 ### Tue 10/6 7:53am
 * New movies: Godzilla Minus Zero, Godzilla vs. Mechagodzilla, Making Marie Antoinette
 
