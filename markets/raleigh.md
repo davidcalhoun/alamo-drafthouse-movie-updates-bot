@@ -1,6 +1,56 @@
 # raleigh
 
 ## Movie updates
+### Mon 10/5 10:52pm
+* New movies: 9 to 5, Pan Labyrinth 20th Anniversary, Never After Dark, Repo! The Genetic Opera
+
+* New screenings: 
+    * [9 To 5](https://drafthouse.com/raleigh/show/9-to-5): Fri 10/9 (11:30am, 12:00pm), Sat 10/10 (1:00pm), Sun 10/11 (1:00pm), Mon 10/12 (11:30am), Tue 10/13 (11:30am), Wed 10/14 (11:15am)
+
+    * [Avengers Endgame Encore](https://drafthouse.com/raleigh/show/avengers-endgame-encore): Thu 10/8 (12:00pm)
+
+    * [Digger](https://drafthouse.com/raleigh/show/digger): Thu 10/8 (11:30am, 2:45pm, 6:15pm, 9:30pm), Fri 10/9 (11:30am, 2:45pm, 7:00pm, 9:00pm), Sat 10/10 (11:00am, 3:30pm, 6:45pm, 10:15pm), Sun 10/11 (11:30am, 2:00pm, 6:00pm, 9:30pm), Mon 10/12 (1:00pm, 3:00pm, 7:00pm, 10:15pm), Tue 10/13 (1:00pm, 3:45pm, 7:00pm, 10:15pm), Wed 10/14 (12:30pm, 1:15pm, 4:30pm, 7:45pm, 9:15pm)
+
+    * [Fan Event Other Mommy Hdr By Barco Fan Event Screening](https://drafthouse.com/raleigh/show/fan-event-other-mommy-hdr-by-barco-fan-event-screening): Thu 10/8 (3:00pm)
+
+    * [Forgotten Island](https://drafthouse.com/raleigh/show/forgotten-island): Thu 10/8 (11:30am, 3:00pm), Fri 10/9 (1:00pm, 1:30pm), Sat 10/10 (11:30am, 1:00pm, 3:00pm), Sun 10/11 (1:00pm), Mon 10/12 (1:30pm, 4:30pm), Tue 10/13 (1:30pm, 4:45pm), Wed 10/14 (12:00pm, 3:00pm)
+
+    * [Ghost In The Cell](https://drafthouse.com/raleigh/show/ghost-in-the-cell): Thu 10/8 (3:40pm)
+
+    * [Heart Of The Beast](https://drafthouse.com/raleigh/show/heart-of-the-beast): Thu 10/8 (1:00pm, 4:00pm, 6:45pm, 9:45pm), Fri 10/9 (12:00pm, 3:00pm, 6:15pm, 9:15pm), Sat 10/10 (11:00am, 2:30pm, 6:00pm, 9:00pm), Sun 10/11 (12:00pm, 3:00pm, 6:15pm, 9:00pm), Mon 10/12 (12:00pm, 3:30pm, 6:15pm, 9:00pm), Tue 10/13 (12:00pm, 3:15pm, 6:15pm, 9:00pm), Wed 10/14 (12:45pm, 4:00pm, 7:00pm, 9:45pm)
+
+    * [Naza](https://drafthouse.com/raleigh/show/naza): Thu 10/8 (6:00pm, 9:00pm), Tue 10/13 (6:30pm)
+
+    * [Never After Dark](https://drafthouse.com/raleigh/show/never-after-dark): Fri 10/9 (10:30pm), Sat 10/10 (9:15pm), Sun 10/11 (9:30pm), Mon 10/12 (10:00pm), Tue 10/13 (9:30pm), Wed 10/14 (10:30pm)
+
+    * [Other Mommy](https://drafthouse.com/raleigh/show/other-mommy): Thu 10/8 (2:00pm, 5:00pm, 7:45pm, 10:30pm), Fri 10/9 (1:20pm, 2:45pm, 9:30pm, 10:15pm), Sat 10/10 (12:00pm, 4:00pm, 9:30pm), Sun 10/11 (11:00am, 2:00pm), Mon 10/12 (11:00am, 1:15pm, 2:00pm, 3:00pm, 6:00pm, 9:00pm, 9:30pm), Tue 10/13 (11:00am, 1:00pm, 2:00pm, 2:45pm, 6:00pm, 8:15pm, 9:00pm), Wed 10/14 (1:45pm, 2:15pm, 6:00pm, 9:30pm)
+
+    * [Pan Labyrinth 20th Anniversary](https://drafthouse.com/raleigh/show/pan-labyrinth-20th-anniversary): Fri 10/9 (4:15pm, 7:15pm), Sat 10/10 (2:15pm), Sun 10/11 (3:55pm), Mon 10/12 (5:00pm), Tue 10/13 (5:00pm, 7:15pm)
+
+    * [Primetime](https://drafthouse.com/raleigh/show/primetime): Thu 10/8 (12:30pm, 3:45pm, 7:15pm, 10:15pm), Fri 10/9 (12:30pm, 3:45pm, 6:45pm, 9:45pm), Sat 10/10 (12:30pm, 3:45pm, 7:15pm, 10:30pm), Sun 10/11 (12:30pm, 3:45pm, 6:45pm, 9:45pm), Mon 10/12 (12:30pm, 3:45pm, 6:45pm, 9:45pm), Tue 10/13 (12:30pm, 3:45pm, 6:45pm, 9:45pm), Wed 10/14 (12:15pm, 3:15pm, 6:15pm, 9:30pm)
+
+    * [Repo The Genetic Opera](https://drafthouse.com/raleigh/show/repo-the-genetic-opera): Sun 10/11 (5:00pm)
+
+    * [Resident Evil 2026](https://drafthouse.com/raleigh/show/resident-evil-2026): Thu 10/8 (1:30pm, 4:45pm, 8:00pm, 10:45pm), Fri 10/9 (2:00pm, 5:15pm, 8:00pm, 10:45pm), Sat 10/10 (1:30pm, 4:30pm, 7:45pm, 10:45pm), Sun 10/11 (1:30pm, 4:30pm, 7:15pm, 10:15pm), Mon 10/12 (1:30pm, 4:30pm, 7:45pm, 10:30pm), Tue 10/13 (1:30pm, 4:30pm, 7:15pm, 10:00pm), Wed 10/14 (1:45pm, 4:30pm, 7:15pm, 10:15pm)
+
+    * [Sense And Sensibility 2026](https://drafthouse.com/raleigh/show/sense-and-sensibility-2026): Thu 10/15 (10:45pm)
+
+    * [Showgirls](https://drafthouse.com/raleigh/show/showgirls): Fri 10/9 (6:15pm), Sat 10/10 (5:30pm)
+
+    * [Sing Along Buddy 2026](https://drafthouse.com/raleigh/show/sing-along-buddy-2026): Thu 10/8 (9:30pm)
+
+    * [Special Event Moonlight 10th Anniversary Remastered](https://drafthouse.com/raleigh/show/special-event-moonlight-10th-anniversary-remastered): Thu 10/8 (12:30pm)
+
+    * [The History Of Concrete](https://drafthouse.com/raleigh/show/the-history-of-concrete): Thu 10/8 (8:00pm, 10:45pm), Fri 10/9 (4:30pm, 6:00pm), Sat 10/10 (7:00pm, 10:00pm), Sun 10/11 (4:00pm, 7:00pm, 10:00pm), Mon 10/12 (8:15pm), Tue 10/13 (8:00pm), Wed 10/14 (8:45pm)
+
+    * [The Social Reckoning](https://drafthouse.com/raleigh/show/the-social-reckoning): Thu 10/8 (4:30pm), Fri 10/9 (1:00pm, 3:00pm), Sat 10/10 (1:30pm, 4:30pm), Sun 10/11 (1:30pm, 4:30pm), Mon 10/12 (11:15am, 2:30pm, 6:00pm, 9:00pm), Tue 10/13 (11:00am, 2:30pm, 6:00pm, 9:00pm), Wed 10/14 (11:30am, 2:30pm, 6:00pm, 9:00pm)
+
+    * [The Texas Chainsaw Massacre 1974](https://drafthouse.com/raleigh/show/the-texas-chainsaw-massacre-1974): Fri 10/9 (9:45pm), Sat 10/10 (6:15pm), Sun 10/11 (7:45pm), Tue 10/13 (10:30pm)
+
+    * [Verity](https://drafthouse.com/raleigh/show/verity): Thu 10/8 (12:00pm, 1:00pm, 2:00pm, 4:00pm, 5:00pm, 6:30pm, 10:00pm), Fri 10/9 (12:30pm, 3:45pm, 10:00pm), Sat 10/10 (11:30am, 3:00pm, 6:00pm, 8:45pm, 9:00pm), Sun 10/11 (11:00am, 12:00pm, 3:00pm, 5:30pm, 6:00pm, 8:30pm, 9:00pm), Mon 10/12 (11:45am, 12:45pm, 4:00pm, 6:15pm, 9:15pm, 10:30pm), Tue 10/13 (12:00pm, 12:30pm, 3:30pm), Wed 10/14 (12:00pm, 1:30pm, 3:15pm, 6:30pm, 10:00pm)
+
+    * [You Can See Everything](https://drafthouse.com/raleigh/show/you-can-see-everything): Thu 10/15 (5:30pm, 9:30pm)
+
 ### Sun 10/4 8:45pm
 * New movies: Restoration at Grayson Manor
 
