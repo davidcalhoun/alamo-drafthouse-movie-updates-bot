@@ -1,6 +1,58 @@
 # los-angeles
 
 ## Movie updates
+### Mon 10/5 5:40pm
+* New movies: Appofeniacs, Pan Labyrinth 20th Anniversary, 9 to 5, The Texas Chain Saw Massacre 1974
+
+* New screenings: 
+    * [9 To 5](https://drafthouse.com/los-angeles/show/9-to-5): Fri 10/9 (1:00pm), Sat 10/10 (1:30pm), Mon 10/12 (1:00pm), Tue 10/13 (11:00am)
+
+    * [Appofeniacs](https://drafthouse.com/los-angeles/show/appofeniacs): Fri 10/9 (1:30pm, 10:00pm), Sat 10/10 (4:45pm, 7:30pm, 10:15pm), Sun 10/11 (1:45pm, 8:45pm, 10:15pm), Mon 10/12 (10:00pm), Tue 10/13 (2:00pm, 6:30pm, 10:30pm), Wed 10/14 (11:15am, 2:00pm, 9:30pm)
+
+    * [Avengers Endgame Encore](https://drafthouse.com/los-angeles/show/avengers-endgame-encore): Thu 10/8 (12:30pm)
+
+    * [Blue Velvet](https://drafthouse.com/los-angeles/show/blue-velvet): Thu 10/8 (1:15pm)
+
+    * [Casino Royale](https://drafthouse.com/los-angeles/show/casino-royale): Thu 10/8 (3:15pm)
+
+    * [Digger](https://drafthouse.com/los-angeles/show/digger): Thu 10/8 (12:00pm, 3:20pm, 6:40pm, 10:00pm), Fri 10/9 (11:30am, 2:50pm, 6:10pm, 9:30pm), Sat 10/10 (11:30am, 2:50pm, 6:10pm, 9:30pm), Sun 10/11 (11:30am, 2:50pm, 6:10pm, 9:30pm), Mon 10/12 (12:00pm, 3:20pm, 6:40pm, 10:00pm), Tue 10/13 (11:30am, 2:50pm, 6:10pm, 9:30pm), Wed 10/14 (11:30am, 2:50pm, 6:10pm, 9:30pm)
+
+    * [Forgotten Island](https://drafthouse.com/los-angeles/show/forgotten-island): Thu 10/8 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Fri 10/9 (12:15pm, 3:15pm, 6:00pm, 9:00pm), Sat 10/10 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Sun 10/11 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Mon 10/12 (12:30pm, 3:30pm, 6:00pm, 10:00pm), Tue 10/13 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Wed 10/14 (12:00pm, 3:00pm, 6:00pm, 9:00pm)
+
+    * [Ha Chan Shake Your Booty](https://drafthouse.com/los-angeles/show/ha-chan-shake-your-booty): Thu 10/8 (12:00pm)
+
+    * [Heart Of The Beast](https://drafthouse.com/los-angeles/show/heart-of-the-beast): Thu 10/8 (12:00pm, 1:00pm, 3:00pm)
+
+    * [Hope 2026](https://drafthouse.com/los-angeles/show/hope-2026): Thu 10/8 (3:30pm), Mon 10/12 (12:15pm), Tue 10/13 (12:15pm)
+
+    * [If I Go Will They Miss Me](https://drafthouse.com/los-angeles/show/if-i-go-will-they-miss-me): Thu 10/8 (12:45pm), Sat 10/10 (1:45pm), Tue 10/13 (1:45pm), Wed 10/14 (1:45pm)
+
+    * [Live Q A The Texas Chain Saw Massacre 1974](https://drafthouse.com/los-angeles/show/live-q-a-the-texas-chain-saw-massacre-1974): Sun 10/11 (7:20pm)
+
+    * [Never After Dark](https://drafthouse.com/los-angeles/show/never-after-dark): Sat 10/10 (9:35pm), Tue 10/13 (9:15pm)
+
+    * [Other Mommy](https://drafthouse.com/los-angeles/show/other-mommy): Fri 10/9 (11:15am, 2:00pm), Sat 10/10 (11:15am, 2:00pm), Sun 10/11 (11:15am, 2:00pm), Mon 10/12 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Tue 10/13 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Wed 10/14 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm)
+
+    * [Pan Labyrinth 20th Anniversary](https://drafthouse.com/los-angeles/show/pan-labyrinth-20th-anniversary): Fri 10/9 (12:45pm, 9:00pm), Sat 10/10 (12:45pm, 9:00pm), Sun 10/11 (12:45pm, 9:00pm), Mon 10/12 (11:50am, 9:00pm), Tue 10/13 (12:45pm, 9:00pm), Wed 10/14 (12:00pm, 9:15pm)
+
+    * [Primetime](https://drafthouse.com/los-angeles/show/primetime): Thu 10/8 (12:45pm, 3:45pm, 4:30pm, 6:45pm, 7:30pm, 9:45pm), Fri 10/9 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sat 10/10 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sun 10/11 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Mon 10/12 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Tue 10/13 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Wed 10/14 (12:30pm, 3:30pm, 6:30pm, 9:30pm)
+
+    * [Resident Evil 2026](https://drafthouse.com/los-angeles/show/resident-evil-2026): Thu 10/8 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Fri 10/9 (1:00pm, 3:45pm, 6:00pm, 9:15pm), Sat 10/10 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sun 10/11 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Mon 10/12 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Tue 10/13 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Wed 10/14 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm)
+
+    * [Sing Along Buddy 2026](https://drafthouse.com/los-angeles/show/sing-along-buddy-2026): Thu 10/8 (10:30pm)
+
+    * [The History Of Concrete](https://drafthouse.com/los-angeles/show/the-history-of-concrete): Thu 10/8 (4:40pm, 7:35pm, 10:30pm), Fri 10/9 (3:15pm), Sat 10/10 (7:15pm), Sun 10/11 (1:40pm, 7:15pm), Mon 10/12 (2:45pm, 10:00pm), Tue 10/13 (7:15pm), Wed 10/14 (1:40pm, 7:15pm)
+
+    * [The Scout](https://drafthouse.com/los-angeles/show/the-scout): Thu 10/8 (11:10am, 1:50pm), Fri 10/9 (12:30pm), Sat 10/10 (11:00am, 4:35pm, 10:10pm), Sun 10/11 (11:00am, 4:35pm, 10:10pm), Mon 10/12 (12:00pm, 10:20pm), Tue 10/13 (11:00am, 4:35pm, 10:10pm), Wed 10/14 (11:00am, 4:35pm, 10:10pm)
+
+    * [The Social Reckoning](https://drafthouse.com/los-angeles/show/the-social-reckoning): Fri 10/9 (1:15pm, 10:15pm), Sat 10/10 (12:45pm, 9:45pm), Sun 10/11 (12:45pm, 9:45pm), Mon 10/12 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Tue 10/13 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Wed 10/14 (12:45pm, 3:45pm, 6:45pm, 9:45pm)
+
+    * [Union County](https://drafthouse.com/los-angeles/show/union-county): Thu 10/8 (9:45pm)
+
+    * [Verity](https://drafthouse.com/los-angeles/show/verity): Thu 10/8 (11:30am, 2:45pm, 6:00pm, 9:15pm), Fri 10/9 (11:30am, 2:45pm, 6:00pm, 9:00pm), Sat 10/10 (11:30am, 2:45pm, 6:00pm, 9:15pm), Sun 10/11 (11:30am, 2:45pm, 6:00pm, 9:15pm), Mon 10/12 (11:30am, 2:45pm, 6:30pm, 9:40pm), Tue 10/13 (11:30am, 2:45pm, 6:00pm, 9:15pm), Wed 10/14 (11:30am, 2:45pm, 6:00pm, 9:15pm)
+
+    * [Your Mother Your Mother Your Mother](https://drafthouse.com/los-angeles/show/your-mother-your-mother-your-mother): Thu 10/8 (7:15pm, 10:15pm), Fri 10/9 (12:00pm), Sat 10/10 (12:00pm, 10:00pm), Sun 10/11 (12:00pm, 10:00pm), Mon 10/12 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Tue 10/13 (12:00pm, 3:00pm, 4:00pm, 6:00pm, 7:00pm, 10:00pm), Wed 10/14 (1:00pm, 3:15pm, 4:00pm, 6:15pm, 9:50pm)
+
 ### Fri 10/2 8:33am
 * New movies: Pearl, Wild at Heart
 
