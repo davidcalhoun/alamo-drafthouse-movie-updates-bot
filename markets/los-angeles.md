@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 10/6 12:21am
+* New movies: Restoration at Grayson Manor
+
+* New screenings: 
+    * [Restoration At Grayson Manor](https://drafthouse.com/los-angeles/show/restoration-at-grayson-manor): Sun 10/18 (9:45pm), Mon 10/19 (10:00pm), Tue 10/20 (9:45pm), Wed 10/21 (9:45pm), Thu 10/22 (4:00pm)
+
 ### Mon 10/5 5:40pm
 * New movies: Appofeniacs, Pan Labyrinth 20th Anniversary, 9 to 5, The Texas Chain Saw Massacre 1974
 
