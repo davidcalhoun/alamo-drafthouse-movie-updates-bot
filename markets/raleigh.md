@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 10/6 5:34pm
+* New movies: Capturing Bigfoot
+
+* New screenings: 
+    * [Capturing Bigfoot](https://drafthouse.com/raleigh/show/capturing-bigfoot): Tue 10/20 (6:30pm)
+
 ### Tue 10/6 12:43pm
 * New movies: Godzilla Minus Zero, Godzilla vs. Mechagodzilla, Making Marie Antoinette
 
