@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Tue 10/6 7:53am
+* New movies: Godzilla Minus Zero, Godzilla vs. Mechagodzilla, Making Marie Antoinette
+
+* New screenings: 
+    * [Godzilla Minus Zero](https://drafthouse.com/los-angeles/show/godzilla-minus-zero): Thu 11/5 (4:00pm, 7:30pm, 10:00pm), Fri 11/6 (3:00pm, 6:30pm, 10:00pm), Sat 11/7 (3:00pm, 6:30pm, 10:00pm), Sun 11/8 (3:00pm, 6:30pm, 10:00pm)
+
+    * [Godzilla Vs Mechagodzilla](https://drafthouse.com/los-angeles/show/godzilla-vs-mechagodzilla): Sun 11/1 (12:00pm)
+
+    * [Making Marie Antoinette](https://drafthouse.com/los-angeles/show/making-marie-antoinette): Tue 10/27 (4:45pm), Thu 10/29 (7:00pm)
+
 ### Tue 10/6 12:21am
 * New movies: Restoration at Grayson Manor
 
