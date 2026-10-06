@@ -1,6 +1,18 @@
 # raleigh
 
 ## Movie updates
+### Tue 10/6 12:43pm
+* New movies: Godzilla Minus Zero, Godzilla vs. Mechagodzilla, Making Marie Antoinette
+
+* New screenings: 
+    * [Godzilla Minus Zero](https://drafthouse.com/raleigh/show/godzilla-minus-zero): Thu 11/5 (6:30pm, 10:00pm), Fri 11/6 (6:30pm, 10:00pm), Sat 11/7 (6:30pm, 10:00pm), Sun 11/8 (6:00pm, 9:30pm)
+
+    * [Godzilla Vs Mechagodzilla](https://drafthouse.com/raleigh/show/godzilla-vs-mechagodzilla): Sun 11/1 (11:30am)
+
+    * [Making Marie Antoinette](https://drafthouse.com/raleigh/show/making-marie-antoinette): Tue 10/27 (4:45pm), Thu 10/29 (7:15pm)
+
+    * [Showgirls](https://drafthouse.com/raleigh/show/showgirls): Wed 10/14 (11:30am)
+
 ### Mon 10/5 10:52pm
 * New movies: 9 to 5, Pan Labyrinth 20th Anniversary, Never After Dark, Repo! The Genetic Opera
 
