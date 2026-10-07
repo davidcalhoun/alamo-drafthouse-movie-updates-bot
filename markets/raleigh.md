@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Wed 10/7 12:19pm
+* New movies: Clayface, Psycho 1960
+
+* New screenings: 
+    * [Clayface](https://drafthouse.com/raleigh/show/clayface): Thu 10/22 (6:45pm, 9:00pm), Fri 10/23 (6:45pm, 9:00pm), Sat 10/24 (6:45pm, 9:00pm), Sun 10/25 (6:45pm, 9:00pm)
+
+    * [Free Victory Screening Psycho 1960](https://drafthouse.com/raleigh/show/free-victory-screening-psycho-1960): Mon 10/19 (6:00pm)
+
 ### Tue 10/6 9:24pm
 * New movies: Marie Antoinette 2006, Marie Antoinette 2006, The Rocky Horror Picture Show
 
