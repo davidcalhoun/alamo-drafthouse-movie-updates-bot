@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Tue 10/6 9:24pm
+* New movies: Marie Antoinette 2006, Marie Antoinette 2006, The Rocky Horror Picture Show
+
+* New screenings: 
+    * [Marie Antoinette](https://drafthouse.com/raleigh/show/marie-antoinette): Mon 10/26 (4:00pm)
+
+    * [Movie Party Marie Antoinette 2006](https://drafthouse.com/raleigh/show/movie-party-marie-antoinette-2006): Tue 10/27 (7:00pm)
+
+    * [The Rocky Horror Picture Show](https://drafthouse.com/raleigh/show/the-rocky-horror-picture-show): Sat 10/31 (9:00pm)
+
 ### Tue 10/6 5:34pm
 * New movies: Capturing Bigfoot
 
