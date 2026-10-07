@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/7 12:15pm
+* New movies: Clayface, Fjord, Psycho 1960
+
+* New screenings: 
+    * [Clayface](https://drafthouse.com/los-angeles/show/clayface): Thu 10/22 (4:30pm, 7:30pm), Fri 10/23 (4:00pm, 7:00pm), Sat 10/24 (4:00pm, 7:00pm), Sun 10/25 (4:00pm, 7:00pm)
+
+    * [Fjord](https://drafthouse.com/los-angeles/show/fjord): Thu 10/22 (6:00pm), Fri 10/23 (2:15pm, 6:00pm), Sat 10/24 (2:15pm, 6:00pm), Sun 10/25 (2:15pm, 6:00pm)
+
+    * [Free Victory Screening Psycho 1960](https://drafthouse.com/los-angeles/show/free-victory-screening-psycho-1960): Mon 10/19 (7:00pm)
+
+    * [You Can See Everything](https://drafthouse.com/los-angeles/show/you-can-see-everything): Thu 10/15 (3:00pm, 4:15pm, 8:15pm)
+
 ### Tue 10/6 4:44pm
 * New movies: Marie Antoinette 2006, Marie Antoinette 2006
 
