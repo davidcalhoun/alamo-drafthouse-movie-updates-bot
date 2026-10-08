@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 10/8 6:04am
+* New movies: Wicker
+
+* New screenings: 
+    * [Wicker](https://drafthouse.com/los-angeles/show/wicker): Fri 10/23 (3:45pm, 6:45pm), Sat 10/24 (3:45pm, 6:45pm), Sun 10/25 (3:45pm, 6:45pm)
+
 ### Wed 10/7 10:50pm
 * New movies: Chunks, The Rocky Horror Picture Show
 
