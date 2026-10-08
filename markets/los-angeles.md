@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/7 10:50pm
+* New movies: Chunks, The Rocky Horror Picture Show
+
+* New screenings: 
+    * [Godzilla Vs Mechagodzilla](https://drafthouse.com/los-angeles/show/godzilla-vs-mechagodzilla): Sun 11/1 (11:30am), Tue 11/3 (7:30pm)
+
+    * [Live Q A Chunks](https://drafthouse.com/los-angeles/show/live-q-a-chunks): Sun 11/15 (7:30pm)
+
+    * [The Rocky Horror Picture Show](https://drafthouse.com/los-angeles/show/the-rocky-horror-picture-show): Sat 10/31 (9:45pm)
+
 ### Wed 10/7 5:04pm
 * New movies: La Bola Negra, La Bola Negra, Restoration at Grayson Manor, Capturing Bigfoot, Pure Scum
 
