@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Thu 10/8 5:58pm
+* New movies: Wicker
+
+* New screenings: 
+    * [Advance Screening Dune Part Three Hdr By Barco Insider Screening](https://drafthouse.com/raleigh/show/advance-screening-dune-part-three-hdr-by-barco-insider-screening): Tue 12/15 (9:45pm)
+
+    * [Wicker](https://drafthouse.com/raleigh/show/wicker): Fri 10/23 (7:30pm), Sat 10/24 (7:30pm), Sun 10/25 (7:30pm)
+
 ### Wed 10/7 12:19pm
 * New movies: Clayface, Psycho 1960
 
