@@ -1,6 +1,20 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/7 5:04pm
+* New movies: La Bola Negra, La Bola Negra, Restoration at Grayson Manor, Capturing Bigfoot, Pure Scum
+
+* New screenings: 
+    * [Fan Event La Bola Negra Opening Night Fan Screening](https://drafthouse.com/los-angeles/show/fan-event-la-bola-negra-opening-night-fan-screening): Fri 11/6 (6:00pm, 6:45pm)
+
+    * [La Bola Negra](https://drafthouse.com/los-angeles/show/la-bola-negra): Fri 11/6 (3:00pm), Sat 11/7 (2:15pm, 6:00pm), Sun 11/8 (2:15pm, 6:00pm)
+
+    * [Live Q A Capturing Bigfoot](https://drafthouse.com/los-angeles/show/live-q-a-capturing-bigfoot): Tue 10/20 (9:30pm)
+
+    * [Live Q A Restoration At Grayson Manor](https://drafthouse.com/los-angeles/show/live-q-a-restoration-at-grayson-manor): Fri 10/16 (10:00pm), Sat 10/17 (10:00pm)
+
+    * [You Can See Everything](https://drafthouse.com/los-angeles/show/you-can-see-everything): Fri 10/16 (12:00pm), Sat 10/17 (12:00pm), Sun 10/18 (12:00pm)
+
 ### Wed 10/7 12:15pm
 * New movies: Clayface, Fjord, Psycho 1960
 
