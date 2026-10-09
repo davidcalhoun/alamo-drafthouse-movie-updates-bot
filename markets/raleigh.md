@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Fri 10/9 12:05pm
+* New movies: Klara and the Sun, Klara and the Sun
+
+* New screenings: 
+    * [Alamo Drafthouse Movie Book Club Klara And The Sun](https://drafthouse.com/raleigh/show/alamo-drafthouse-movie-book-club-klara-and-the-sun): Sat 10/24 (12:30pm)
+
+    * [Klara And The Sun](https://drafthouse.com/raleigh/show/klara-and-the-sun): Thu 10/22 (7:30pm), Fri 10/23 (6:00pm), Sat 10/24 (6:00pm), Sun 10/25 (6:00pm)
+
 ### Thu 10/8 5:58pm
 * New movies: Wicker
 
