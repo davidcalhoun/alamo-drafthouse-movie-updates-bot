@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 10/9 8:05am
+* New movies: Klara and the Sun, Klara and the Sun
+
+* New screenings: 
+    * [Alamo Drafthouse Movie Book Club Klara And The Sun](https://drafthouse.com/los-angeles/show/alamo-drafthouse-movie-book-club-klara-and-the-sun): Sat 10/24 (12:00pm)
+
+    * [Klara And The Sun](https://drafthouse.com/los-angeles/show/klara-and-the-sun): Thu 10/22 (4:00pm, 7:10pm), Fri 10/23 (3:10pm, 6:20pm), Sat 10/24 (3:10pm, 6:20pm), Sun 10/25 (3:10pm, 6:20pm)
+
 ### Thu 10/8 6:04am
 * New movies: Wicker
 
