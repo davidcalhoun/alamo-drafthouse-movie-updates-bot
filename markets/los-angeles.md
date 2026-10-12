@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Mon 10/12 1:10pm
+* New movies: Wild Horse Nine, Wild Horse Nine
+
+* New screenings: 
+    * [Fan Event Wild Horse Nine Advance Fan Screening](https://drafthouse.com/los-angeles/show/fan-event-wild-horse-nine-advance-fan-screening): Fri 10/30 (7:00pm)
+
+    * [Wild Horse Nine](https://drafthouse.com/los-angeles/show/wild-horse-nine): Thu 11/5 (3:00pm, 6:15pm), Fri 11/6 (3:45pm, 7:00pm), Sat 11/7 (3:45pm, 7:00pm), Sun 11/8 (3:45pm, 7:00pm)
+
 ### Fri 10/9 8:05am
 * New movies: Klara and the Sun, Klara and the Sun
 
