@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 10/12 1:44pm
+* New movies: Wild Horse Nine
+
+* New screenings: 
+    * [Wild Horse Nine](https://drafthouse.com/raleigh/show/wild-horse-nine): Fri 10/30 (7:00pm), Fri 11/6 (6:00pm, 9:00pm), Sat 11/7 (6:00pm, 9:00pm), Sun 11/8 (6:00pm, 9:00pm)
+
 ### Sun 10/11 8:25pm
 * New movies: WEIRD WEDNESDAY: EXORCIST II - THE HERETIC
 
