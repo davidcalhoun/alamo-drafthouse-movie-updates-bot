@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Sun 10/11 8:25pm
+* New movies: WEIRD WEDNESDAY: EXORCIST II - THE HERETIC
+
+* New screenings: 
+    * [Weird Wednesday Exorcist Ii The Heretic](https://drafthouse.com/raleigh/show/weird-wednesday-exorcist-ii-the-heretic): Wed 10/14 (9:00pm)
+
 ### Fri 10/9 12:05pm
 * New movies: Klara and the Sun, Klara and the Sun
 
