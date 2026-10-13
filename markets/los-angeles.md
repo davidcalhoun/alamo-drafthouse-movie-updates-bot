@@ -1,6 +1,54 @@
 # los-angeles
 
 ## Movie updates
+### Mon 10/12 7:28pm
+* New movies: Being Heumann
+
+* New screenings: 
+    * [Appofeniacs](https://drafthouse.com/los-angeles/show/appofeniacs): Thu 10/15 (12:15pm)
+
+    * [Being Heumann](https://drafthouse.com/los-angeles/show/being-heumann): Fri 11/6 (12:00pm, 3:00pm, 6:00pm), Sat 11/7 (12:00pm, 3:00pm, 6:00pm), Sun 11/8 (12:00pm, 3:00pm, 6:00pm), Mon 11/9 (12:00pm, 3:00pm, 6:00pm), Tue 11/10 (12:00pm, 3:00pm, 6:00pm), Wed 11/11 (12:00pm, 3:00pm, 6:00pm), Thu 11/12 (12:00pm, 3:00pm, 6:00pm)
+
+    * [Digger](https://drafthouse.com/los-angeles/show/digger): Thu 10/15 (11:40am)
+
+    * [Forgotten Island](https://drafthouse.com/los-angeles/show/forgotten-island): Thu 10/15 (1:30pm)
+
+    * [If I Go Will They Miss Me](https://drafthouse.com/los-angeles/show/if-i-go-will-they-miss-me): Thu 10/15 (1:30pm)
+
+    * [Ken Russells The Devils](https://drafthouse.com/los-angeles/show/ken-russells-the-devils): Thu 10/15 (10:00pm), Fri 10/16 (10:15am, 1:15pm, 10:15pm), Sat 10/17 (10:15am, 1:15pm, 10:15pm), Sun 10/18 (10:15am, 1:15pm, 10:15pm), Mon 10/19 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Tue 10/20 (10:15am, 1:15pm, 4:15pm, 7:15pm, 10:15pm), Wed 10/21 (1:15pm, 4:15pm, 7:15pm, 10:15pm)
+
+    * [Naza](https://drafthouse.com/los-angeles/show/naza): Fri 10/16 (1:30pm), Sat 10/17 (10:00am), Sun 10/18 (1:15pm), Mon 10/19 (1:30pm), Tue 10/20 (1:30pm), Wed 10/21 (11:30am)
+
+    * [Other Mommy](https://drafthouse.com/los-angeles/show/other-mommy): Thu 10/15 (11:00am, 1:45pm, 7:00pm, 9:45pm), Fri 10/16 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sat 10/17 (11:15am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Sun 10/18 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Mon 10/19 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Tue 10/20 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Wed 10/21 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm)
+
+    * [Pan Labyrinth 20th Anniversary](https://drafthouse.com/los-angeles/show/pan-labyrinth-20th-anniversary): Thu 10/15 (11:45am)
+
+    * [Primetime](https://drafthouse.com/los-angeles/show/primetime): Thu 10/15 (1:00pm, 3:00pm), Fri 10/16 (10:30am, 4:00pm), Sat 10/17 (6:00pm), Sun 10/18 (3:45pm, 6:45pm), Mon 10/19 (12:15pm, 4:00pm), Tue 10/20 (10:30am, 4:00pm), Wed 10/21 (1:15pm, 4:15pm)
+
+    * [Resident Evil 2026](https://drafthouse.com/los-angeles/show/resident-evil-2026): Thu 10/15 (11:30am, 2:15pm, 5:00pm, 7:45pm, 10:30pm), Fri 10/16 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Sat 10/17 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Sun 10/18 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Mon 10/19 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Tue 10/20 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Wed 10/21 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm)
+
+    * [Sad Girl Cinema Club A Tale Of Two Sisters](https://drafthouse.com/los-angeles/show/sad-girl-cinema-club-a-tale-of-two-sisters): Sun 10/18 (10:15am)
+
+    * [Sense And Sensibility 2026](https://drafthouse.com/los-angeles/show/sense-and-sensibility-2026): Thu 10/15 (3:30pm, 9:00pm), Fri 10/16 (10:00pm), Sat 10/17 (10:00pm), Sun 10/18 (10:00pm), Mon 10/19 (11:30am, 3:00pm, 6:30pm, 10:00pm), Tue 10/20 (11:30am, 3:00pm, 6:30pm, 10:00pm), Wed 10/21 (11:30am, 3:00pm, 6:30pm, 10:00pm)
+
+    * [Street Fighter 2026](https://drafthouse.com/los-angeles/show/street-fighter-2026): Thu 10/15 (10:00pm), Fri 10/16 (10:45am, 10:00pm), Sat 10/17 (12:15pm, 10:00pm), Sun 10/18 (12:15pm, 10:00pm), Mon 10/19 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Tue 10/20 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Wed 10/21 (12:15pm, 3:30pm, 6:45pm, 10:00pm)
+
+    * [The Craft](https://drafthouse.com/los-angeles/show/the-craft): Sun 10/18 (10:20am), Mon 10/19 (10:30pm)
+
+    * [The History Of Concrete](https://drafthouse.com/los-angeles/show/the-history-of-concrete): Thu 10/15 (2:00pm)
+
+    * [The Scout](https://drafthouse.com/los-angeles/show/the-scout): Thu 10/15 (11:15am)
+
+    * [The Social Reckoning](https://drafthouse.com/los-angeles/show/the-social-reckoning): Thu 10/15 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Fri 10/16 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sat 10/17 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sun 10/18 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Mon 10/19 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Tue 10/20 (12:15pm, 3:15pm, 6:15pm, 9:15pm), Wed 10/21 (12:30pm, 3:30pm, 6:30pm, 9:30pm)
+
+    * [Verity](https://drafthouse.com/los-angeles/show/verity): Thu 10/15 (12:20pm)
+
+    * [Whalefall](https://drafthouse.com/los-angeles/show/whalefall): Fri 10/16 (1:30pm, 10:30pm), Sat 10/17 (10:30am, 1:30pm, 10:30pm), Sun 10/18 (1:30pm, 10:30pm), Mon 10/19 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Tue 10/20 (12:30pm, 3:30pm, 6:30pm, 10:15pm), Wed 10/21 (1:30pm, 4:30pm, 7:30pm, 10:30pm)
+
+    * [You Can See Everything](https://drafthouse.com/los-angeles/show/you-can-see-everything): Thu 10/15 (7:15pm, 9:15pm, 9:30pm), Fri 10/16 (11:15am, 1:00pm, 2:00pm, 5:00pm, 9:00pm), Sat 10/17 (10:00am, 2:00pm, 9:00pm), Sun 10/18 (10:00am, 2:00pm, 3:15pm, 7:15pm, 9:00pm), Mon 10/19 (11:00am, 2:00pm, 3:15pm, 6:00pm, 9:00pm), Tue 10/20 (10:00am, 11:00am, 11:40am, 2:00pm, 3:40pm, 6:00pm, 9:00pm), Wed 10/21 (11:00am, 12:00pm, 2:00pm, 4:00pm, 6:00pm, 8:00pm, 9:00pm)
+
+    * [Your Mother Your Mother Your Mother](https://drafthouse.com/los-angeles/show/your-mother-your-mother-your-mother): Thu 10/15 (12:15pm, 3:15pm, 6:15pm, 10:30pm), Fri 10/16 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sat 10/17 (12:00pm, 3:00pm, 6:00pm, 9:00pm), Sun 10/18 (12:00pm, 3:00pm, 6:00pm, 10:00pm), Mon 10/19 (12:00pm, 3:00pm, 6:00pm, 10:00pm), Tue 10/20 (12:00pm, 3:00pm, 6:00pm, 10:00pm), Wed 10/21 (12:00pm, 3:00pm, 6:00pm, 10:00pm)
+
 ### Mon 10/12 1:10pm
 * New movies: Wild Horse Nine, Wild Horse Nine
 
