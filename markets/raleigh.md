@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Tue 10/13 5:09pm
+
+* New screenings: 
+    * [The Texas Chainsaw Massacre 1974](https://drafthouse.com/raleigh/show/the-texas-chainsaw-massacre-1974): Tue 10/13 (8:00pm)
+
 ### Mon 10/12 8:31pm
 * New movies: Repo! The Genetic Opera
 
