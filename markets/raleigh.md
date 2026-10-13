@@ -1,6 +1,48 @@
 # raleigh
 
 ## Movie updates
+### Mon 10/12 8:31pm
+* New movies: Repo! The Genetic Opera
+
+* New screenings: 
+    * [9 To 5](https://drafthouse.com/raleigh/show/9-to-5): Thu 10/15 (1:00pm)
+
+    * [Digger](https://drafthouse.com/raleigh/show/digger): Thu 10/15 (11:00am, 12:30pm)
+
+    * [Forgotten Island](https://drafthouse.com/raleigh/show/forgotten-island): Thu 10/15 (12:00pm)
+
+    * [Heart Of The Beast](https://drafthouse.com/raleigh/show/heart-of-the-beast): Thu 10/15 (2:00pm)
+
+    * [Klara And The Sun](https://drafthouse.com/raleigh/show/klara-and-the-sun): Thu 10/22 (10:45pm)
+
+    * [Other Mommy](https://drafthouse.com/raleigh/show/other-mommy): Thu 10/15 (12:00pm, 3:45pm, 6:45pm, 10:00pm), Fri 10/16 (1:30pm, 4:45pm, 8:00pm, 11:00pm), Sat 10/17 (11:25am, 5:00pm, 8:00pm, 11:00pm), Sun 10/18 (1:30pm, 4:30pm, 7:15pm, 10:00pm), Mon 10/19 (1:00pm, 4:00pm, 6:45pm, 9:30pm), Tue 10/20 (1:30pm, 4:45pm, 7:45pm, 10:30pm), Wed 10/21 (12:30pm, 4:45pm, 7:50pm, 10:30pm)
+
+    * [Pan Labyrinth 20th Anniversary](https://drafthouse.com/raleigh/show/pan-labyrinth-20th-anniversary): Thu 10/15 (11:30am)
+
+    * [Primetime](https://drafthouse.com/raleigh/show/primetime): Thu 10/15 (9:15pm), Fri 10/16 (9:00pm), Sat 10/17 (12:30pm), Sun 10/18 (12:30pm), Mon 10/19 (8:45pm), Tue 10/20 (8:45pm), Wed 10/21 (8:15pm)
+
+    * [Repo The Genetic Opera](https://drafthouse.com/raleigh/show/repo-the-genetic-opera): Thu 10/15 (11:00am)
+
+    * [Resident Evil 2026](https://drafthouse.com/raleigh/show/resident-evil-2026): Thu 10/15 (1:00pm, 3:45pm, 6:30pm, 10:00pm), Fri 10/16 (1:00pm, 4:00pm, 7:00pm, 10:30pm), Sat 10/17 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Sun 10/18 (1:00pm, 4:00pm, 7:00pm, 10:45pm), Mon 10/19 (12:30pm, 3:45pm, 6:30pm, 10:35pm), Tue 10/20 (1:00pm, 4:00pm, 7:00pm, 10:45pm), Wed 10/21 (1:00pm, 4:00pm, 6:45pm)
+
+    * [Sense And Sensibility 2026](https://drafthouse.com/raleigh/show/sense-and-sensibility-2026): Fri 10/16 (1:00pm, 10:45pm), Sat 10/17 (11:00am, 10:45pm), Sun 10/18 (12:00pm, 10:00pm), Mon 10/19 (12:30pm, 3:45pm, 7:30pm, 9:30pm), Tue 10/20 (1:00pm, 4:15pm, 7:30pm, 10:00pm), Wed 10/21 (1:00pm, 4:15pm, 7:30pm, 10:45pm)
+
+    * [Showgirls](https://drafthouse.com/raleigh/show/showgirls): Thu 10/15 (12:30pm)
+
+    * [Street Fighter 2026](https://drafthouse.com/raleigh/show/street-fighter-2026): Fri 10/16 (11:00am, 11:25am, 12:00pm), Sat 10/17 (12:00pm, 3:45pm), Sun 10/18 (11:00am), Mon 10/19 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Tue 10/20 (11:00am, 12:00pm, 3:00pm, 6:00pm, 9:00pm), Wed 10/21 (11:00am, 11:30am, 2:45pm, 6:00pm, 10:15pm)
+
+    * [The Social Reckoning](https://drafthouse.com/raleigh/show/the-social-reckoning): Thu 10/15 (2:30pm, 5:30pm), Fri 10/16 (2:00pm, 5:30pm), Sat 10/17 (2:30pm, 5:45pm), Sun 10/18 (2:15pm, 5:45pm), Mon 10/19 (3:00pm), Tue 10/20 (2:00pm, 5:30pm), Wed 10/21 (2:00pm, 5:00pm)
+
+    * [The Texas Chainsaw Massacre 1974](https://drafthouse.com/raleigh/show/the-texas-chainsaw-massacre-1974): Thu 10/15 (2:15pm)
+
+    * [Verity](https://drafthouse.com/raleigh/show/verity): Thu 10/15 (1:30pm, 4:30pm, 7:45pm, 10:45pm), Fri 10/16 (1:30pm, 4:45pm, 7:45pm, 10:45pm), Sat 10/17 (1:30pm, 4:45pm, 7:45pm, 10:45pm), Sun 10/18 (1:30pm, 4:45pm, 7:45pm, 10:45pm), Mon 10/19 (1:30pm, 4:45pm, 7:45pm, 10:45pm), Tue 10/20 (1:30pm, 4:45pm, 7:45pm, 10:45pm), Wed 10/21 (1:30pm, 4:45pm, 7:45pm, 10:45pm)
+
+    * [Whalefall](https://drafthouse.com/raleigh/show/whalefall): Fri 10/16 (12:00pm, 3:00pm, 10:00pm), Sat 10/17 (12:30pm, 3:30pm, 9:30pm), Sun 10/18 (11:30am, 3:25pm, 9:15pm), Mon 10/19 (11:30am, 2:45pm, 6:15pm, 10:00pm), Tue 10/20 (12:00pm, 3:00pm, 6:00pm, 9:35pm), Wed 10/21 (11:30am, 2:30pm, 6:00pm, 9:30pm)
+
+    * [You Can See Everything](https://drafthouse.com/raleigh/show/you-can-see-everything): Thu 10/15 (3:00pm, 8:45pm), Fri 10/16 (11:30am, 2:30pm, 3:30pm, 7:30pm, 8:45pm), Sat 10/17 (11:00am, 1:00pm, 2:45pm, 7:30pm, 8:45pm), Sun 10/18 (12:30pm, 2:45pm, 5:00pm, 7:30pm, 8:45pm), Mon 10/19 (11:00am, 11:30am, 12:30pm, 2:00pm, 3:30pm, 4:30pm, 6:00pm, 8:30pm, 9:15pm), Tue 10/20 (11:00am, 11:30am, 2:30pm, 3:00pm, 3:30pm, 7:30pm, 9:00pm), Wed 10/21 (11:00am, 12:00pm, 12:30pm, 3:00pm, 3:30pm, 4:30pm, 7:30pm, 8:30pm, 9:00pm)
+
+    * [Your Mother Your Mother Your Mother](https://drafthouse.com/raleigh/show/your-mother-your-mother-your-mother): Fri 10/16 (12:30pm, 3:45pm), Sat 10/17 (11:30am, 3:30pm), Sun 10/18 (12:00pm, 3:45pm), Mon 10/19 (12:00pm, 3:15pm, 6:45pm, 9:45pm), Tue 10/20 (12:30pm, 3:45pm, 6:45pm, 9:45pm), Wed 10/21 (12:00pm, 3:15pm, 6:15pm, 9:15pm)
+
 ### Mon 10/12 1:44pm
 * New movies: Wild Horse Nine
 
