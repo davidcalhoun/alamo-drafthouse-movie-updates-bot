@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Wed 10/14 2:29pm
+
+* New screenings: 
+    * [Digger](https://drafthouse.com/raleigh/show/digger): Wed 10/14 (10:20pm)
+
+    * [The Texas Chainsaw Massacre 1974](https://drafthouse.com/raleigh/show/the-texas-chainsaw-massacre-1974): Wed 10/14 (8:45pm)
+
 ### Tue 10/13 5:09pm
 
 * New screenings: 
