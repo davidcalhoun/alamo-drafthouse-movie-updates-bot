@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Wed 10/14 6:11pm
+* New movies: Wicker, Scream 1996
+
+* New screenings: 
+    * [Alamo Drafthouse Movie Book Club Wicker](https://drafthouse.com/raleigh/show/alamo-drafthouse-movie-book-club-wicker): Sat 10/24 (11:00am)
+
+    * [Scream](https://drafthouse.com/raleigh/show/scream): Sat 10/31 (12:00pm)
+
 ### Wed 10/14 2:29pm
 
 * New screenings: 
