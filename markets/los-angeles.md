@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/14 3:07pm
+* New movies: Wicker
+
+* New screenings: 
+    * [Alamo Drafthouse Movie Book Club Wicker](https://drafthouse.com/los-angeles/show/alamo-drafthouse-movie-book-club-wicker): Sat 10/24 (12:30pm)
+
+    * [Fantastic Fest Presents Littermates Advance Screening](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-littermates-advance-screening): Mon 10/26 (7:40pm)
+
 ### Tue 10/13 6:41pm
 * New movies: Whalefall
 
