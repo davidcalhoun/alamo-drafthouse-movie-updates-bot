@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 10/13 6:41pm
+* New movies: Whalefall
+
+* New screenings: 
+    * [Alamo Drafthouse Movie Book Club Whalefall](https://drafthouse.com/los-angeles/show/alamo-drafthouse-movie-book-club-whalefall): Wed 10/14 (7:00pm)
+
 ### Mon 10/12 7:28pm
 * New movies: Being Heumann
 
