@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/14 6:17pm
+
+* New screenings: 
+    * [You Can See Everything](https://drafthouse.com/los-angeles/show/you-can-see-everything): Thu 10/15 (7:45pm)
+
 ### Wed 10/14 3:07pm
 * New movies: Wicker
 
