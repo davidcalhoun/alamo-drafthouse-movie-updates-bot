@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 10/16 3:40pm
+* New movies: The Cycle
+
+* New screenings: 
+    * [Live Q A The Cycle](https://drafthouse.com/los-angeles/show/live-q-a-the-cycle): Tue 10/20 (7:00pm)
+
 ### Thu 10/15 5:08pm
 * New movies: On a String
 
