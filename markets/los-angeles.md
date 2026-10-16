@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 10/15 5:08pm
+* New movies: On a String
+
+* New screenings: 
+    * [On A String](https://drafthouse.com/los-angeles/show/on-a-string): Thu 11/5 (7:30pm), Fri 11/6 (4:00pm), Sat 11/7 (9:00pm), Sun 11/8 (11:00am)
+
+    * [Resident Evil 2026](https://drafthouse.com/los-angeles/show/resident-evil-2026): Tue 10/20 (7:30pm, 10:15pm)
+
 ### Wed 10/14 6:17pm
 
 * New screenings: 
