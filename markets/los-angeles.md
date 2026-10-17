@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Fri 10/16 11:44pm
+
+* New screenings: 
+    * [You Can See Everything](https://drafthouse.com/los-angeles/show/you-can-see-everything): Sat 10/17 (9:30pm), Sun 10/18 (10:20am, 5:20pm, 9:20pm)
+
 ### Fri 10/16 3:40pm
 * New movies: The Cycle
 
