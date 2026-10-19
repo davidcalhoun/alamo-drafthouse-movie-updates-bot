@@ -1,6 +1,38 @@
 # raleigh
 
 ## Movie updates
+### Mon 10/19 7:32pm
+* New movies: Fjord
+
+* New screenings: 
+    * [Clayface](https://drafthouse.com/raleigh/show/clayface): Thu 10/22 (3:45pm), Fri 10/23 (12:00pm, 3:30pm, 9:30pm), Sat 10/24 (12:30pm, 3:30pm), Sun 10/25 (12:00pm, 3:30pm), Mon 10/26 (1:30pm, 4:30pm, 7:15pm, 9:00pm), Tue 10/27 (11:30am, 3:30pm, 6:30pm, 10:00pm), Wed 10/28 (12:30pm, 3:30pm, 6:00pm, 9:00pm)
+
+    * [Fjord](https://drafthouse.com/raleigh/show/fjord): Thu 10/22 (6:00pm, 9:30pm), Fri 10/23 (12:00pm, 3:45pm, 7:15pm, 9:45pm), Sat 10/24 (1:00pm, 2:30pm, 6:30pm, 9:45pm), Sun 10/25 (1:00pm, 3:30pm, 7:00pm, 9:45pm), Mon 10/26 (12:00pm, 4:00pm, 7:30pm, 9:45pm), Tue 10/27 (12:00pm, 4:00pm, 7:30pm, 9:45pm), Wed 10/28 (11:30am, 3:15pm, 6:45pm, 9:15pm)
+
+    * [Klara And The Sun](https://drafthouse.com/raleigh/show/klara-and-the-sun): Thu 10/22 (4:00pm), Fri 10/23 (11:30am, 2:45pm, 9:15pm), Sat 10/24 (4:30pm, 9:15pm), Sun 10/25 (12:00pm, 3:00pm, 9:15pm), Mon 10/26 (11:30am, 2:30pm, 6:00pm, 10:00pm), Tue 10/27 (12:20pm, 3:15pm, 6:15pm, 10:15pm), Wed 10/28 (1:00pm, 4:15pm, 7:15pm, 10:30pm)
+
+    * [Other Mommy](https://drafthouse.com/raleigh/show/other-mommy): Thu 10/22 (10:45pm), Sun 10/25 (10:45pm)
+
+    * [Primetime](https://drafthouse.com/raleigh/show/primetime): Thu 10/22 (1:00pm)
+
+    * [Resident Evil 2026](https://drafthouse.com/raleigh/show/resident-evil-2026): Thu 10/22 (12:00pm, 1:30pm)
+
+    * [Sense And Sensibility 2026](https://drafthouse.com/raleigh/show/sense-and-sensibility-2026): Thu 10/22 (11:30am, 2:45pm, 6:15pm, 9:30pm), Fri 10/23 (11:00am, 2:30pm, 6:00pm, 10:15pm), Sat 10/24 (11:00am, 2:30pm, 6:00pm, 10:15pm), Sun 10/25 (11:00am, 2:30pm, 6:00pm, 10:15pm), Mon 10/26 (11:00am, 2:30pm, 6:00pm, 9:15pm), Tue 10/27 (11:00am, 2:30pm, 6:00pm, 9:30pm), Wed 10/28 (11:30am, 2:50pm, 6:15pm, 10:15pm)
+
+    * [Street Fighter 2026](https://drafthouse.com/raleigh/show/street-fighter-2026): Thu 10/22 (11:00am, 2:00pm, 4:30pm, 8:00pm, 10:15pm), Fri 10/23 (1:30pm, 4:45pm, 7:45pm, 10:45pm), Sat 10/24 (1:30pm, 4:45pm, 7:45pm, 10:45pm), Sun 10/25 (1:30pm, 4:35pm, 7:45pm, 10:45pm), Mon 10/26 (1:30pm, 4:35pm, 7:45pm, 10:45pm), Tue 10/27 (1:30pm, 4:35pm, 7:45pm, 10:45pm), Wed 10/28 (1:00pm, 4:30pm, 7:45pm, 10:45pm)
+
+    * [The Social Reckoning](https://drafthouse.com/raleigh/show/the-social-reckoning): Thu 10/22 (12:30pm, 3:30pm)
+
+    * [Verity](https://drafthouse.com/raleigh/show/verity): Thu 10/22 (1:00pm, 4:00pm), Fri 10/23 (11:30am, 3:00pm), Sat 10/24 (1:00pm, 4:00pm), Sun 10/25 (12:45pm, 4:10pm), Mon 10/26 (12:30pm, 3:45pm), Tue 10/27 (12:30pm, 3:45pm), Wed 10/28 (12:30pm, 4:00pm)
+
+    * [Whalefall](https://drafthouse.com/raleigh/show/whalefall): Thu 10/22 (12:30pm, 3:00pm, 6:00pm, 10:00pm), Fri 10/23 (12:30pm, 3:45pm, 7:15pm, 10:45pm), Sat 10/24 (12:00pm, 3:00pm, 6:15pm, 10:15pm), Sun 10/25 (11:45am, 3:00pm, 6:15pm, 10:15pm), Mon 10/26 (11:30am, 3:00pm, 6:15pm, 10:15pm), Tue 10/27 (11:30am, 3:00pm, 6:15pm, 9:15pm), Wed 10/28 (12:30pm, 3:30pm, 6:45pm, 10:00pm)
+
+    * [Wicker](https://drafthouse.com/raleigh/show/wicker): Thu 10/22 (7:45pm, 9:15pm), Fri 10/23 (1:00pm, 4:15pm, 9:30pm), Sat 10/24 (3:20pm, 9:30pm), Sun 10/25 (12:30pm, 4:30pm, 9:30pm), Mon 10/26 (1:00pm, 3:30pm, 6:30pm, 9:30pm), Tue 10/27 (1:00pm, 2:45pm, 6:00pm, 7:15pm, 9:00pm), Wed 10/28 (12:00pm, 3:00pm, 6:15pm, 9:35pm)
+
+    * [You Can See Everything](https://drafthouse.com/raleigh/show/you-can-see-everything): Thu 10/22 (11:00am, 2:00pm, 3:00pm, 5:00pm, 6:30pm, 9:45pm), Fri 10/23 (11:00am, 1:00pm, 1:30pm, 3:00pm, 5:00pm, 5:30pm, 7:00pm, 9:15pm), Sat 10/24 (12:00pm, 1:00pm, 1:30pm, 4:00pm, 5:00pm, 5:30pm, 8:00pm, 9:15pm), Sun 10/25 (11:00am, 1:00pm, 2:15pm, 3:00pm, 5:00pm, 6:15pm, 7:00pm, 9:15pm), Mon 10/26 (11:00am, 12:00pm, 1:00pm, 3:00pm, 5:00pm, 9:00pm, 9:30pm), Tue 10/27 (11:00am, 12:00pm, 2:00pm, 3:00pm, 6:00pm, 9:15pm), Wed 10/28 (11:00am, 1:30pm, 2:00pm, 3:00pm, 7:00pm, 9:45pm)
+
+    * [Your Mother Your Mother Your Mother](https://drafthouse.com/raleigh/show/your-mother-your-mother-your-mother): Thu 10/22 (1:30pm, 4:45pm, 7:15pm, 10:30pm), Fri 10/23 (6:15pm, 10:15pm), Sat 10/24 (7:15pm, 10:30pm), Sun 10/25 (7:15pm, 10:30pm), Mon 10/26 (6:45pm, 10:35pm), Tue 10/27 (6:45pm, 10:15pm), Wed 10/28 (7:15pm, 10:30pm)
+
 ### Wed 10/14 6:11pm
 * New movies: Wicker, Scream 1996
 
