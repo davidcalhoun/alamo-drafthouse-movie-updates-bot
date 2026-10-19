@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 10/19 12:08pm
+* New movies: On a String
+
+* New screenings: 
+    * [Special Event On A String Pre Recorded Q A](https://drafthouse.com/los-angeles/show/special-event-on-a-string-pre-recorded-q-a): Thu 11/5 (7:30pm), Fri 11/6 (4:00pm), Sat 11/7 (9:00pm), Sun 11/8 (11:00am)
+
 ### Fri 10/16 11:44pm
 
 * New screenings: 
