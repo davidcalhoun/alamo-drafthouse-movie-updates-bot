@@ -1,6 +1,54 @@
 # los-angeles
 
 ## Movie updates
+### Mon 10/19 4:27pm
+* New movies: A Tale of Two Sisters, The Cycle, Breeder
+
+* New screenings: 
+    * [Breeder](https://drafthouse.com/los-angeles/show/breeder): Wed 10/28 (10:15pm)
+
+    * [Clayface](https://drafthouse.com/los-angeles/show/clayface): Thu 10/22 (10:30pm), Fri 10/23 (1:00pm, 10:00pm), Sat 10/24 (1:00pm, 10:00pm), Sun 10/25 (1:00pm, 10:00pm), Mon 10/26 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Tue 10/27 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Wed 10/28 (1:00pm, 4:00pm, 7:00pm, 10:00pm)
+
+    * [Fjord](https://drafthouse.com/los-angeles/show/fjord): Thu 10/22 (9:40pm), Fri 10/23 (12:10pm, 9:45pm), Sat 10/24 (12:15pm, 9:45pm), Sun 10/25 (11:45am, 9:45pm), Mon 10/26 (12:15pm, 2:15pm, 6:00pm, 9:45pm), Tue 10/27 (11:20am, 2:15pm, 6:00pm, 9:45pm), Wed 10/28 (12:35pm, 2:15pm, 6:00pm, 9:45pm)
+
+    * [Godzilla Vs Megalon](https://drafthouse.com/los-angeles/show/godzilla-vs-megalon): Fri 10/23 (3:50pm), Sat 10/24 (11:40am), Sun 10/25 (11:40am, 3:25pm), Mon 10/26 (12:00pm, 4:25pm), Tue 10/27 (11:00am), Wed 10/28 (11:40am, 4:20pm)
+
+    * [Ken Russells The Devils](https://drafthouse.com/los-angeles/show/ken-russells-the-devils): Thu 10/22 (3:30pm, 6:30pm), Fri 10/23 (3:15pm, 6:15pm), Sat 10/24 (3:15pm, 6:15pm), Sun 10/25 (3:15pm, 6:15pm), Mon 10/26 (3:15pm, 6:15pm), Tue 10/27 (3:15pm, 6:15pm), Wed 10/28 (3:00pm)
+
+    * [Klara And The Sun](https://drafthouse.com/los-angeles/show/klara-and-the-sun): Thu 10/22 (10:20pm), Fri 10/23 (12:00pm, 9:30pm), Sat 10/24 (9:30pm), Sun 10/25 (12:00pm, 9:30pm), Mon 10/26 (1:00pm, 4:15pm, 7:35pm, 9:45pm), Tue 10/27 (12:00pm, 3:10pm, 6:20pm, 9:30pm), Wed 10/28 (12:50pm, 4:00pm, 6:00pm, 10:10pm)
+
+    * [Making Marie Antoinette](https://drafthouse.com/los-angeles/show/making-marie-antoinette): Sat 10/24 (11:50am), Wed 10/28 (5:20pm)
+
+    * [Naza](https://drafthouse.com/los-angeles/show/naza): Thu 10/22 (1:30pm)
+
+    * [Other Mommy](https://drafthouse.com/los-angeles/show/other-mommy): Thu 10/22 (6:45pm), Fri 10/23 (10:30pm), Sat 10/24 (7:45pm), Sun 10/25 (10:00pm), Mon 10/26 (10:20pm), Tue 10/27 (7:10pm), Wed 10/28 (10:45pm)
+
+    * [Primetime](https://drafthouse.com/los-angeles/show/primetime): Thu 10/22 (12:15pm, 3:15pm)
+
+    * [Queer Film Theory 101 Daughters Of Darkness](https://drafthouse.com/los-angeles/show/queer-film-theory-101-daughters-of-darkness): Sat 10/24 (2:35pm), Tue 10/27 (10:00pm)
+
+    * [Resident Evil 2026](https://drafthouse.com/los-angeles/show/resident-evil-2026): Thu 10/22 (9:30pm), Fri 10/23 (9:15pm), Sat 10/24 (10:30pm), Sun 10/25 (10:00pm), Mon 10/26 (10:15pm), Tue 10/27 (10:00pm), Wed 10/28 (10:15pm)
+
+    * [Sad Girl Cinema Club A Tale Of Two Sisters](https://drafthouse.com/los-angeles/show/sad-girl-cinema-club-a-tale-of-two-sisters): Thu 10/22 (12:00pm)
+
+    * [Sense And Sensibility 2026](https://drafthouse.com/los-angeles/show/sense-and-sensibility-2026): Thu 10/22 (12:45pm, 2:45pm, 6:15pm, 9:30pm), Fri 10/23 (11:30am, 3:00pm, 6:30pm, 10:00pm), Sat 10/24 (11:15am, 2:45pm, 6:15pm, 9:45pm), Sun 10/25 (11:15am, 2:45pm, 6:15pm, 9:45pm), Mon 10/26 (11:15am, 2:45pm, 6:15pm, 9:45pm), Tue 10/27 (11:15am, 2:45pm, 6:15pm, 9:45pm), Wed 10/28 (11:15am, 2:45pm, 6:15pm, 9:45pm)
+
+    * [Street Fighter 2026](https://drafthouse.com/los-angeles/show/street-fighter-2026): Thu 10/22 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Fri 10/23 (11:45am, 3:00pm, 6:15pm, 9:30pm), Sat 10/24 (11:45am, 3:00pm, 6:15pm, 9:30pm), Sun 10/25 (11:45am, 3:00pm, 6:15pm, 9:30pm), Mon 10/26 (11:45am, 3:00pm, 6:15pm, 9:30pm), Tue 10/27 (11:45am, 3:00pm, 6:15pm, 9:30pm), Wed 10/28 (11:45am, 3:00pm, 6:15pm, 9:30pm)
+
+    * [The Craft](https://drafthouse.com/los-angeles/show/the-craft): Thu 10/22 (10:15pm)
+
+    * [The Cycle](https://drafthouse.com/los-angeles/show/the-cycle): Thu 10/22 (7:30pm)
+
+    * [The Social Reckoning](https://drafthouse.com/los-angeles/show/the-social-reckoning): Thu 10/22 (1:30pm)
+
+    * [Whalefall](https://drafthouse.com/los-angeles/show/whalefall): Thu 10/22 (1:00pm, 4:15pm, 7:15pm, 10:15pm), Fri 10/23 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Sat 10/24 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Sun 10/25 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Mon 10/26 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Tue 10/27 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Wed 10/28 (1:15pm, 4:15pm, 7:15pm, 10:15pm)
+
+    * [Wicker](https://drafthouse.com/los-angeles/show/wicker): Thu 10/22 (6:15pm, 9:15pm), Fri 10/23 (12:45pm, 9:45pm), Sat 10/24 (9:45pm), Sun 10/25 (12:45pm, 9:45pm), Mon 10/26 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Tue 10/27 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Wed 10/28 (12:45pm, 3:45pm, 6:45pm, 9:45pm)
+
+    * [You Can See Everything](https://drafthouse.com/los-angeles/show/you-can-see-everything): Thu 10/22 (12:45pm, 1:45pm, 2:20pm, 3:15pm, 5:00pm, 6:30pm, 9:15pm), Fri 10/23 (11:10am, 12:10pm, 12:50pm, 3:20pm, 4:20pm, 5:00pm, 7:30pm, 8:30pm, 9:15pm), Sat 10/24 (11:20am, 12:30pm, 3:30pm, 4:30pm, 5:35pm, 7:40pm, 8:30pm, 9:15pm), Sun 10/25 (11:25am, 12:40pm, 1:35pm, 3:35pm, 4:50pm, 5:45pm, 7:45pm, 9:00pm, 9:15pm), Mon 10/26 (11:15am, 12:15pm, 2:35pm, 3:25pm, 6:45pm, 9:15pm), Tue 10/27 (11:30am, 12:35pm, 1:35pm, 3:00pm, 3:40pm, 5:45pm, 7:50pm, 9:15pm), Wed 10/28 (11:10am, 1:10pm, 1:50pm, 3:20pm, 6:00pm, 9:15pm)
+
+    * [Your Mother Your Mother Your Mother](https://drafthouse.com/los-angeles/show/your-mother-your-mother-your-mother): Thu 10/22 (12:30pm), Fri 10/23 (12:15pm), Sat 10/24 (12:15pm), Sun 10/25 (12:15pm), Mon 10/26 (12:15pm), Tue 10/27 (12:15pm), Wed 10/28 (12:00pm)
+
 ### Mon 10/19 12:08pm
 * New movies: On a String
 
