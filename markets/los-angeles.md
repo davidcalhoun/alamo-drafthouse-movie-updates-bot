@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Tue 10/20 12:02pm
+* New movies: Dune: Part Three, Dune: Part Three
+
+* New screenings: 
+    * [Avengers Doomsday](https://drafthouse.com/los-angeles/show/avengers-doomsday): Fri 12/18 (10:00pm), Sun 12/20 (10:00pm)
+
+    * [Dress Up Screening Dune Part Three](https://drafthouse.com/los-angeles/show/dress-up-screening-dune-part-three): Fri 12/18 (6:30pm)
+
+    * [Dune Part Three](https://drafthouse.com/los-angeles/show/dune-part-three): Thu 12/17 (4:00pm, 7:35pm, 11:10pm), Fri 12/18 (7:30am, 11:10am, 2:50pm, 10:15pm), Sat 12/19 (7:30am, 11:10am, 2:50pm, 6:30pm, 10:10pm), Sun 12/20 (7:30am, 11:10am, 2:50pm, 6:30pm, 10:10pm), Mon 12/21 (10:40am, 2:20pm, 6:00pm, 9:40pm), Tue 12/22 (10:40am, 2:20pm, 6:00pm, 9:40pm)
+
 ### Mon 10/19 4:27pm
 * New movies: A Tale of Two Sisters, The Cycle, Breeder
 
