@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Tue 10/20 3:08pm
+* New movies: Dune: Part Three
+
+* New screenings: 
+    * [Dress Up Screening Dune Part Three](https://drafthouse.com/raleigh/show/dress-up-screening-dune-part-three): Fri 12/18 (7:30pm), Sat 12/19 (7:30pm)
+
+    * [Dune Part Three](https://drafthouse.com/raleigh/show/dune-part-three): Thu 12/17 (4:00pm, 7:40pm, 11:20pm), Fri 12/18 (3:50pm, 11:20pm), Sat 12/19 (3:50pm, 11:20pm), Sun 12/20 (3:50pm, 7:30pm, 11:20pm)
+
 ### Tue 10/20 10:55am
 * New movies: Hexed, Hexed
 
