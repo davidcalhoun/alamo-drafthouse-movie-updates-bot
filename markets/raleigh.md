@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Tue 10/20 10:55am
+* New movies: Hexed, Hexed
+
+* New screenings: 
+    * [Alamo Crafthouse Hexed](https://drafthouse.com/raleigh/show/alamo-crafthouse-hexed): Sat 11/28 (11:15am)
+
+    * [Hexed](https://drafthouse.com/raleigh/show/hexed): Tue 11/24 (3:30pm, 6:00pm, 9:00pm), Wed 11/25 (12:00pm, 3:30pm, 6:30pm, 9:30pm), Thu 11/26 (3:00pm, 6:30pm, 9:30pm), Fri 11/27 (12:00pm, 3:30pm, 6:30pm, 9:30pm), Sat 11/28 (12:30pm, 3:00pm, 6:30pm, 9:30pm), Sun 11/29 (12:00pm, 3:30pm, 6:30pm, 9:30pm)
+
 ### Mon 10/19 7:32pm
 * New movies: Fjord
 
