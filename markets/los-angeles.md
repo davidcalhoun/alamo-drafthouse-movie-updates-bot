@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/21 11:29am
+* New movies: Green Room
+
+* New screenings: 
+    * [Special Event Green Room 10th Anniversary](https://drafthouse.com/los-angeles/show/special-event-green-room-10th-anniversary): Fri 10/30 (9:45pm)
+
 ### Tue 10/20 12:02pm
 * New movies: Dune: Part Three, Dune: Part Three
 
