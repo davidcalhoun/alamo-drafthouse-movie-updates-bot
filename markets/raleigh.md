@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Wed 10/21 3:14pm
+* New movies: American Psycho, Wallace & Gromit: The Classic Shorts
+
+* New screenings: 
+    * [Terror Tuesday American Psycho The King Of The Full Moon Night](https://drafthouse.com/raleigh/show/terror-tuesday-american-psycho-the-king-of-the-full-moon-night): Tue 12/8 (9:30pm)
+
+    * [Wallace Gromit The Classic Shorts](https://drafthouse.com/raleigh/show/wallace-gromit-the-classic-shorts): Tue 11/17 (6:15pm)
+
 ### Wed 10/21 11:03am
 * New movies: Elf, National Lampoon's Christmas Vacation, How the Grinch Stole Christmas, The Polar Express, September Songs: The Music of Kurt Weill, Green Room, Eyes Wide Shut, Point Blank 1967, Little Women 2019, Henry: Portrait of a Serial Killer, Crocodile Dose, Batman Returns, Married To The Mob, Southland Tales, The Cook, The Thief, His Wife, & Her Lover, The Magnificent Ambersons, The Room Returns, The Searchers, Tokyo Godfathers Subtitled, True Stories, Planes, Trains & Automobiles
 
