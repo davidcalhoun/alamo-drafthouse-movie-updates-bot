@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 10/21 7:10pm
+* New movies: Sudden Fury
+
+* New screenings: 
+    * [Weird Wednesday Sudden Fury](https://drafthouse.com/raleigh/show/weird-wednesday-sudden-fury): Wed 11/25 (9:30pm)
+
 ### Wed 10/21 3:14pm
 * New movies: American Psycho, Wallace & Gromit: The Classic Shorts
 
