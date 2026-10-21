@@ -1,6 +1,22 @@
 # raleigh
 
 ## Movie updates
+### Wed 10/21 12:29am
+* New movies: September Songs: The Music of Kurt Weill, Mystery Voyage, Dead Bang, Footprints on the Moon, TERROR TUESDAY: BLACK CHRISTMAS 1974, WTO/99
+
+* New screenings: 
+    * [Agfadrome Mystery Voyage November 2026](https://drafthouse.com/raleigh/show/agfadrome-mystery-voyage-november-2026): Mon 11/16 (10:15pm)
+
+    * [September Songs The Music Of Kurt Weill](https://drafthouse.com/raleigh/show/september-songs-the-music-of-kurt-weill): Wed 11/25 (7:30pm)
+
+    * [Special Event Dead Bang](https://drafthouse.com/raleigh/show/special-event-dead-bang): Wed 12/2 (9:30pm)
+
+    * [Terror Tuesday Black Christmas](https://drafthouse.com/raleigh/show/terror-tuesday-black-christmas): Tue 12/15 (10:15pm)
+
+    * [Terror Tuesday Footprints](https://drafthouse.com/raleigh/show/terror-tuesday-footprints): Tue 11/17 (9:30pm)
+
+    * [Wto 99](https://drafthouse.com/raleigh/show/wto-99): Mon 11/30 (6:30pm)
+
 ### Tue 10/20 3:08pm
 * New movies: Dune: Part Three
 
