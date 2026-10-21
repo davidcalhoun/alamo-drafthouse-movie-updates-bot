@@ -1,6 +1,50 @@
 # raleigh
 
 ## Movie updates
+### Wed 10/21 11:03am
+* New movies: Elf, National Lampoon's Christmas Vacation, How the Grinch Stole Christmas, The Polar Express, September Songs: The Music of Kurt Weill, Green Room, Eyes Wide Shut, Point Blank 1967, Little Women 2019, Henry: Portrait of a Serial Killer, Crocodile Dose, Batman Returns, Married To The Mob, Southland Tales, The Cook, The Thief, His Wife, & Her Lover, The Magnificent Ambersons, The Room Returns, The Searchers, Tokyo Godfathers Subtitled, True Stories, Planes, Trains & Automobiles
+
+* New screenings: 
+    * [Batman Returns](https://drafthouse.com/raleigh/show/batman-returns): Fri 11/27 (10:30pm)
+
+    * [Married To The Mob](https://drafthouse.com/raleigh/show/married-to-the-mob): Thu 11/19 (7:30pm)
+
+    * [Movie Party Dr Seuss How The Grinch Stole Christmas 2000](https://drafthouse.com/raleigh/show/movie-party-dr-seuss-how-the-grinch-stole-christmas-2000): Sun 12/13 (11:30am)
+
+    * [Movie Party Elf Movie Party Sing Along](https://drafthouse.com/raleigh/show/movie-party-elf-movie-party-sing-along): Wed 12/2 (6:00pm), Sat 12/5 (12:00pm), Tue 12/8 (6:30pm), Wed 12/9 (6:30pm), Sat 12/12 (12:00pm)
+
+    * [Movie Party National Lampoons Christmas Vacation](https://drafthouse.com/raleigh/show/movie-party-national-lampoons-christmas-vacation): Tue 12/1 (7:00pm), Thu 12/3 (6:00pm), Mon 12/7 (6:30pm), Mon 12/14 (6:00pm)
+
+    * [Movie Party The Polar Express](https://drafthouse.com/raleigh/show/movie-party-the-polar-express): Sun 12/6 (12:00pm)
+
+    * [Planes Trains Automobiles](https://drafthouse.com/raleigh/show/planes-trains-automobiles): Thu 11/26 (12:30pm)
+
+    * [Queer Film Theory 101 Eyes Wide Shut](https://drafthouse.com/raleigh/show/queer-film-theory-101-eyes-wide-shut): Sat 12/12 (2:30pm)
+
+    * [Queer Film Theory 101 Point Blank 1967](https://drafthouse.com/raleigh/show/queer-film-theory-101-point-blank-1967): Mon 11/23 (7:30pm)
+
+    * [Sad Girl Cinema Club Little Women 2019](https://drafthouse.com/raleigh/show/sad-girl-cinema-club-little-women-2019): Sun 12/13 (2:30pm)
+
+    * [Southland Tales](https://drafthouse.com/raleigh/show/southland-tales): Sun 11/8 (11:30am)
+
+    * [Special Event Green Room 10th Anniversary](https://drafthouse.com/raleigh/show/special-event-green-room-10th-anniversary): Fri 10/30 (9:45pm)
+
+    * [Terror Tuesday Henry Portrait Of A Serial Killer](https://drafthouse.com/raleigh/show/terror-tuesday-henry-portrait-of-a-serial-killer): Tue 11/10 (9:30pm)
+
+    * [The Cook The Thief His Wife Her Lover](https://drafthouse.com/raleigh/show/the-cook-the-thief-his-wife-her-lover): Fri 11/20 (9:45pm)
+
+    * [The Magnificent Ambersons](https://drafthouse.com/raleigh/show/the-magnificent-ambersons): Tue 11/10 (7:00pm)
+
+    * [The Room A Tribute](https://drafthouse.com/raleigh/show/the-room-a-tribute): Wed 11/25 (6:30pm)
+
+    * [The Searchers](https://drafthouse.com/raleigh/show/the-searchers): Sun 11/15 (11:00am)
+
+    * [Tokyo Godfathers Subtitled](https://drafthouse.com/raleigh/show/tokyo-godfathers-subtitled): Mon 11/30 (3:30pm)
+
+    * [True Stories](https://drafthouse.com/raleigh/show/true-stories): Sun 11/22 (3:45pm)
+
+    * [Weird Wednesday Crocodile Dose Ee](https://drafthouse.com/raleigh/show/weird-wednesday-crocodile-dose-ee): Wed 11/11 (9:30pm)
+
 ### Wed 10/21 12:29am
 * New movies: September Songs: The Music of Kurt Weill, Mystery Voyage, Dead Bang, Footprints on the Moon, TERROR TUESDAY: BLACK CHRISTMAS 1974, WTO/99
 
