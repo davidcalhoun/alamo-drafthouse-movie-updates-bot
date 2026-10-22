@@ -1,6 +1,20 @@
 # los-angeles
 
 ## Movie updates
+### Thu 10/22 12:18am
+* New movies: The Only Living Pickpocket in New York, Elf, How the Grinch Stole Christmas, National Lampoon's Christmas Vacation, The Polar Express
+
+* New screenings: 
+    * [Movie Party Dr Seuss How The Grinch Stole Christmas 2000](https://drafthouse.com/los-angeles/show/movie-party-dr-seuss-how-the-grinch-stole-christmas-2000): Sun 12/13 (12:00pm)
+
+    * [Movie Party Elf Movie Party Sing Along](https://drafthouse.com/los-angeles/show/movie-party-elf-movie-party-sing-along): Mon 11/30 (7:00pm), Mon 12/7 (7:00pm), Wed 12/9 (7:00pm), Sat 12/12 (12:00pm), Sun 12/13 (3:00pm), Wed 12/23 (3:00pm, 6:00pm)
+
+    * [Movie Party National Lampoons Christmas Vacation](https://drafthouse.com/los-angeles/show/movie-party-national-lampoons-christmas-vacation): Wed 12/2 (7:00pm), Sun 12/6 (6:00pm), Mon 12/14 (7:00pm)
+
+    * [Movie Party The Polar Express](https://drafthouse.com/los-angeles/show/movie-party-the-polar-express): Sat 12/5 (12:00pm)
+
+    * [The Only Living Pickpocket In New York](https://drafthouse.com/los-angeles/show/the-only-living-pickpocket-in-new-york): Thu 10/29 (5:00pm, 7:45pm), Fri 10/30 (4:45pm, 7:30pm), Sat 10/31 (4:45pm, 7:30pm), Sun 11/1 (4:45pm, 7:30pm)
+
 ### Wed 10/21 11:29am
 * New movies: Green Room
 
