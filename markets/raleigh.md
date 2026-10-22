@@ -1,6 +1,36 @@
 # raleigh
 
 ## Movie updates
+### Thu 10/22 3:09pm
+* New movies: The Love Witch, Birth, Red Rock West, The Arrival + Unarius Mixtape, The Peanut Butter Solution, Mars Attacks!, Megalopolis, The Apartment, The Shining, When Harry Met Sally..., TERROR TUESDAY: CHILD'S PLAY 1988
+
+* New screenings: 
+    * [Mars Attacks](https://drafthouse.com/raleigh/show/mars-attacks): Thu 12/31 (3:30pm)
+
+    * [Movie Party Elf Movie Party Sing Along](https://drafthouse.com/raleigh/show/movie-party-elf-movie-party-sing-along): Tue 12/22 (3:30pm, 6:45pm), Wed 12/23 (4:00pm)
+
+    * [Movie Party National Lampoons Christmas Vacation](https://drafthouse.com/raleigh/show/movie-party-national-lampoons-christmas-vacation): Wed 12/23 (7:30pm)
+
+    * [Special Event Megalopolis New Years Day Celebration](https://drafthouse.com/raleigh/show/special-event-megalopolis-new-years-day-celebration): Fri 1/1 (3:00pm)
+
+    * [Terror Tuesday Childs Play](https://drafthouse.com/raleigh/show/terror-tuesday-childs-play): Tue 12/1 (9:00pm)
+
+    * [Terror Tuesday The Love Witch](https://drafthouse.com/raleigh/show/terror-tuesday-the-love-witch): Tue 11/24 (9:30pm)
+
+    * [The Apartment](https://drafthouse.com/raleigh/show/the-apartment): Mon 12/28 (6:30pm)
+
+    * [The Shining](https://drafthouse.com/raleigh/show/the-shining): Tue 12/29 (6:30pm)
+
+    * [Weird Wednesday Birth 35mm](https://drafthouse.com/raleigh/show/weird-wednesday-birth-35mm): Wed 12/16 (9:30pm)
+
+    * [Weird Wednesday Red Rock West](https://drafthouse.com/raleigh/show/weird-wednesday-red-rock-west): Wed 11/4 (9:30pm)
+
+    * [Weird Wednesday The Arrival Unarius Mixtape](https://drafthouse.com/raleigh/show/weird-wednesday-the-arrival-unarius-mixtape): Wed 12/9 (9:30pm)
+
+    * [Weird Wednesday The Peanut Butter Solution](https://drafthouse.com/raleigh/show/weird-wednesday-the-peanut-butter-solution): Wed 11/18 (9:30pm)
+
+    * [When Harry Met Sally](https://drafthouse.com/raleigh/show/when-harry-met-sally): Wed 12/30 (6:30pm)
+
 ### Wed 10/21 7:10pm
 * New movies: Sudden Fury
 
