@@ -1,6 +1,88 @@
 # los-angeles
 
 ## Movie updates
+### Thu 10/22 11:24am
+* New movies: Birth of the Black Underworld, The Apartment, Mystery Voyage, Batman Returns, Married To The Mob, September Songs: The Music of Kurt Weill, Southland Tales, Megalopolis, The Shining, True Stories, When Harry Met Sally..., Eyes Wide Shut, Point Blank 1967, Little Women 2019, Volver, American Psycho, Death Spa, Henry: Portrait of a Serial Killer, The Black Cat 1981, Birth, Crocodile Dose, All About My Mother, Mars Attacks!, The Cook, The Thief, His Wife, & Her Lover, The Magnificent Ambersons, The Room Returns, The Searchers, The Skin I Live In, Tokyo Godfathers Dubbed, Tokyo Godfathers Subtitled, Women on the Verge of a Nervous Breakdown, Silent Night, Deadly Night 1984, The Last Temptation of Becky, Planes, Trains & Automobiles, Prom Night, TERROR TUESDAY: THE HOUSE OF THE DEVIL, WEIRD WEDNESDAY: GIRL INTERNET SHOW: A KATI KELLI MIXTAPE, WEIRD WEDNESDAY: RAD, WTO/99
+
+* New screenings: 
+    * [Agfadrome Mystery Voyage November 2026](https://drafthouse.com/los-angeles/show/agfadrome-mystery-voyage-november-2026): Fri 11/13 (10:00pm), Mon 11/16 (9:50pm)
+
+    * [All About My Mother](https://drafthouse.com/los-angeles/show/all-about-my-mother): Fri 11/13 (7:00pm)
+
+    * [Batman Returns](https://drafthouse.com/los-angeles/show/batman-returns): Fri 11/27 (4:20pm), Sat 11/28 (4:20pm)
+
+    * [Birth Of The Black Underworld](https://drafthouse.com/los-angeles/show/birth-of-the-black-underworld): Sat 11/21 (4:00pm), Sun 11/22 (3:30pm)
+
+    * [Married To The Mob](https://drafthouse.com/los-angeles/show/married-to-the-mob): Sun 11/15 (2:45pm), Mon 11/16 (7:30pm)
+
+    * [Mars Attacks](https://drafthouse.com/los-angeles/show/mars-attacks): Thu 12/31 (7:00pm)
+
+    * [Planes Trains Automobiles](https://drafthouse.com/los-angeles/show/planes-trains-automobiles): Thu 11/26 (4:40pm)
+
+    * [Queer Film Theory 101 Eyes Wide Shut](https://drafthouse.com/los-angeles/show/queer-film-theory-101-eyes-wide-shut): Sat 12/12 (6:30pm)
+
+    * [Queer Film Theory 101 Point Blank 1967](https://drafthouse.com/los-angeles/show/queer-film-theory-101-point-blank-1967): Mon 11/23 (7:00pm)
+
+    * [Sad Girl Cinema Club Little Women 2019](https://drafthouse.com/los-angeles/show/sad-girl-cinema-club-little-women-2019): Sat 12/12 (3:00pm)
+
+    * [Sad Girl Cinema Club Volver](https://drafthouse.com/los-angeles/show/sad-girl-cinema-club-volver): Sat 11/14 (3:15pm)
+
+    * [September Songs](https://drafthouse.com/los-angeles/show/september-songs): Tue 11/24 (7:00pm)
+
+    * [Southland Tales](https://drafthouse.com/los-angeles/show/southland-tales): Sat 11/7 (12:30pm), Mon 11/9 (7:00pm)
+
+    * [Special Event Megalopolis New Years Day Celebration](https://drafthouse.com/los-angeles/show/special-event-megalopolis-new-years-day-celebration): Fri 1/1 (3:45pm, 7:30pm)
+
+    * [Terror Tuesday American Psycho The King Of The Full Moon Night](https://drafthouse.com/los-angeles/show/terror-tuesday-american-psycho-the-king-of-the-full-moon-night): Tue 12/8 (7:15pm)
+
+    * [Terror Tuesday Death Spa](https://drafthouse.com/los-angeles/show/terror-tuesday-death-spa): Tue 11/24 (7:30pm)
+
+    * [Terror Tuesday Henry Portrait Of A Serial Killer](https://drafthouse.com/los-angeles/show/terror-tuesday-henry-portrait-of-a-serial-killer): Tue 11/10 (7:30pm)
+
+    * [Terror Tuesday Prom Night](https://drafthouse.com/los-angeles/show/terror-tuesday-prom-night): Tue 11/17 (7:30pm)
+
+    * [Terror Tuesday Silent Night Deadly Night](https://drafthouse.com/los-angeles/show/terror-tuesday-silent-night-deadly-night): Tue 12/15 (7:30pm)
+
+    * [Terror Tuesday The Black Cat 1981](https://drafthouse.com/los-angeles/show/terror-tuesday-the-black-cat-1981): Tue 11/3 (6:45pm)
+
+    * [Terror Tuesday The House Of The Devil 2](https://drafthouse.com/los-angeles/show/terror-tuesday-the-house-of-the-devil-2): Tue 12/1 (7:30pm)
+
+    * [The Apartment](https://drafthouse.com/los-angeles/show/the-apartment): Mon 12/28 (4:00pm, 7:20pm), Thu 12/31 (1:00pm)
+
+    * [The Cook The Thief His Wife Her Lover](https://drafthouse.com/los-angeles/show/the-cook-the-thief-his-wife-her-lover): Fri 11/20 (10:00pm)
+
+    * [The Last Temptation Of Becky](https://drafthouse.com/los-angeles/show/the-last-temptation-of-becky): Tue 11/3 (9:30pm)
+
+    * [The Magnificent Ambersons](https://drafthouse.com/los-angeles/show/the-magnificent-ambersons): Sun 11/8 (11:15am)
+
+    * [The Room A Tribute](https://drafthouse.com/los-angeles/show/the-room-a-tribute): Wed 11/25 (7:15pm)
+
+    * [The Searchers](https://drafthouse.com/los-angeles/show/the-searchers): Sat 11/14 (12:00pm)
+
+    * [The Shining](https://drafthouse.com/los-angeles/show/the-shining): Tue 12/29 (3:30pm, 7:15pm)
+
+    * [The Skin I Live In](https://drafthouse.com/los-angeles/show/the-skin-i-live-in): Sun 11/15 (4:15pm)
+
+    * [Tokyo Godfathers Dubbed](https://drafthouse.com/los-angeles/show/tokyo-godfathers-dubbed): Sat 11/28 (11:45am)
+
+    * [Tokyo Godfathers Subtitled](https://drafthouse.com/los-angeles/show/tokyo-godfathers-subtitled): Sun 11/29 (4:20pm)
+
+    * [True Stories](https://drafthouse.com/los-angeles/show/true-stories): Fri 11/20 (4:15pm), Sat 11/21 (12:00pm)
+
+    * [Weird Wednesday Birth](https://drafthouse.com/los-angeles/show/weird-wednesday-birth): Wed 12/16 (7:35pm)
+
+    * [Weird Wednesday Crocodile Dose Ee](https://drafthouse.com/los-angeles/show/weird-wednesday-crocodile-dose-ee): Wed 11/11 (8:45pm)
+
+    * [Weird Wednesday Girl Internet Show A Kati Kelli Mixtape](https://drafthouse.com/los-angeles/show/weird-wednesday-girl-internet-show-a-kati-kelli-mixtape): Wed 12/2 (7:40pm)
+
+    * [Weird Wednesday Rad](https://drafthouse.com/los-angeles/show/weird-wednesday-rad): Wed 11/25 (7:45pm)
+
+    * [When Harry Met Sally](https://drafthouse.com/los-angeles/show/when-harry-met-sally): Wed 12/30 (7:00pm), Thu 12/31 (4:15pm)
+
+    * [Women On The Verge Of A Nervous Breakdown](https://drafthouse.com/los-angeles/show/women-on-the-verge-of-a-nervous-breakdown): Thu 11/12 (7:15pm)
+
+    * [Wto 99](https://drafthouse.com/los-angeles/show/wto-99): Mon 11/30 (7:30pm)
+
 ### Thu 10/22 12:18am
 * New movies: The Only Living Pickpocket in New York, Elf, How the Grinch Stole Christmas, National Lampoon's Christmas Vacation, The Polar Express
 
