@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 10/22 3:11pm
+* New movies: Monty Python and the Holy Grail
+
+* New screenings: 
+    * [Weird Wednesday Monty Python And The Holy Grail](https://drafthouse.com/los-angeles/show/weird-wednesday-monty-python-and-the-holy-grail): Wed 12/9 (7:30pm)
+
 ### Thu 10/22 11:24am
 * New movies: Birth of the Black Underworld, The Apartment, Mystery Voyage, Batman Returns, Married To The Mob, September Songs: The Music of Kurt Weill, Southland Tales, Megalopolis, The Shining, True Stories, When Harry Met Sally..., Eyes Wide Shut, Point Blank 1967, Little Women 2019, Volver, American Psycho, Death Spa, Henry: Portrait of a Serial Killer, The Black Cat 1981, Birth, Crocodile Dose, All About My Mother, Mars Attacks!, The Cook, The Thief, His Wife, & Her Lover, The Magnificent Ambersons, The Room Returns, The Searchers, The Skin I Live In, Tokyo Godfathers Dubbed, Tokyo Godfathers Subtitled, Women on the Verge of a Nervous Breakdown, Silent Night, Deadly Night 1984, The Last Temptation of Becky, Planes, Trains & Automobiles, Prom Night, TERROR TUESDAY: THE HOUSE OF THE DEVIL, WEIRD WEDNESDAY: GIRL INTERNET SHOW: A KATI KELLI MIXTAPE, WEIRD WEDNESDAY: RAD, WTO/99
 
