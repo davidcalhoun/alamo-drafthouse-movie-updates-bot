@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 10/23 3:04pm
+* New movies: We Own the Night
+
+* New screenings: 
+    * [We Own The Night](https://drafthouse.com/raleigh/show/we-own-the-night): Sat 11/7 (2:30pm)
+
 ### Thu 10/22 3:09pm
 * New movies: The Love Witch, Birth, Red Rock West, The Arrival + Unarius Mixtape, The Peanut Butter Solution, Mars Attacks!, Megalopolis, The Apartment, The Shining, When Harry Met Sally..., TERROR TUESDAY: CHILD'S PLAY 1988
 
