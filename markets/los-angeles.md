@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 10/22 6:19pm
+* New movies: Body Snatchers 1993
+
+* New screenings: 
+    * [Weird Wednesday Body Snatchers 1993](https://drafthouse.com/los-angeles/show/weird-wednesday-body-snatchers-1993): Wed 11/18 (7:30pm)
+
 ### Thu 10/22 3:11pm
 * New movies: Monty Python and the Holy Grail
 
