@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 10/23 11:10am
+* New movies: We Own the Night
+
+* New screenings: 
+    * [We Own The Night](https://drafthouse.com/los-angeles/show/we-own-the-night): Sat 11/7 (4:15pm)
+
 ### Thu 10/22 6:19pm
 * New movies: Body Snatchers 1993
 
