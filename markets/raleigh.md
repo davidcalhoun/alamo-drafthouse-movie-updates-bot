@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Sat 10/24 1:40am
+* New movies: Little Odessa
+
+* New screenings: 
+    * [Little Odessa](https://drafthouse.com/raleigh/show/little-odessa): Sat 11/7 (11:45am)
+
 ### Fri 10/23 3:04pm
 * New movies: We Own the Night
 
