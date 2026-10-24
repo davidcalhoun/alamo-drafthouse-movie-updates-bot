@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 10/23 10:32pm
+* New movies: Birth of the Black Underworld, Little Odessa
+
+* New screenings: 
+    * [Little Odessa](https://drafthouse.com/los-angeles/show/little-odessa): Sun 11/8 (2:00pm)
+
+    * [Live Q A Birth Of The Black Underworld](https://drafthouse.com/los-angeles/show/live-q-a-birth-of-the-black-underworld): Fri 11/20 (7:00pm)
+
 ### Fri 10/23 11:10am
 * New movies: We Own the Night
 
