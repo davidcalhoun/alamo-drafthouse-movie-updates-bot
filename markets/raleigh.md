@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Sun 10/25 11:59am
+
+* New screenings: 
+    * [Whalefall](https://drafthouse.com/raleigh/show/whalefall): Sun 10/25 (11:45am)
+
 ### Sat 10/24 1:40am
 * New movies: Little Odessa
 
