@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 10/26 1:58am
+* New movies: The Cat in the Hat 2026
+
+* New screenings: 
+    * [The Cat In The Hat 2026](https://drafthouse.com/raleigh/show/the-cat-in-the-hat-2026): Thu 11/5 (6:15pm, 9:15pm), Fri 11/6 (6:00pm, 9:00pm), Sat 11/7 (6:00pm, 9:00pm), Sun 11/8 (6:15pm, 9:15pm)
+
 ### Sun 10/25 11:59am
 
 * New screenings: 
