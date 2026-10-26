@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 10/26 9:38am
+* New movies: Werwulf
+
+* New screenings: 
+    * [Werwulf](https://drafthouse.com/los-angeles/show/werwulf): Fri 12/25 (7:00pm), Sat 12/26 (7:00pm, 10:15pm), Sun 12/27 (6:45pm, 10:00pm), Mon 12/28 (6:45pm, 10:00pm)
+
 ### Fri 10/23 10:32pm
 * New movies: Birth of the Black Underworld, Little Odessa
 
