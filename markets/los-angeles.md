@@ -1,6 +1,56 @@
 # los-angeles
 
 ## Movie updates
+### Mon 10/26 2:29pm
+* New movies: Wildwood, Once Upon a Time in Harlem, Naza, Swingers
+
+* New screenings: 
+    * [Breeder](https://drafthouse.com/los-angeles/show/breeder): Thu 10/29 (9:40pm), Sat 10/31 (6:50pm), Sun 11/1 (9:40pm), Mon 11/2 (9:40pm), Tue 11/3 (10:10pm)
+
+    * [Clayface](https://drafthouse.com/los-angeles/show/clayface): Thu 10/29 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Fri 10/30 (10:30am, 1:30pm, 4:30pm, 7:30pm, 10:30pm), Sat 10/31 (10:30am, 1:30pm, 4:30pm, 7:30pm, 10:30pm), Sun 11/1 (10:30am, 1:30pm, 4:30pm, 7:30pm, 10:30pm), Mon 11/2 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Tue 11/3 (10:30am, 1:30pm, 4:30pm, 7:30pm, 10:30pm)
+
+    * [Fjord](https://drafthouse.com/los-angeles/show/fjord): Thu 10/29 (12:45pm, 2:15pm, 6:00pm, 9:45pm), Fri 10/30 (10:40am, 2:20pm, 6:00pm, 9:40pm), Sat 10/31 (2:20pm, 6:00pm, 9:40pm), Sun 11/1 (2:20pm, 6:00pm), Mon 11/2 (12:20pm, 2:20pm, 6:00pm, 9:40pm), Tue 11/3 (10:40am, 2:20pm, 6:00pm, 9:40pm)
+
+    * [Godzilla Vs Mechagodzilla](https://drafthouse.com/los-angeles/show/godzilla-vs-mechagodzilla): Fri 10/30 (1:20pm, 10:15pm), Sat 10/31 (10:30am), Sun 11/1 (10:40pm)
+
+    * [Godzilla Vs Megalon](https://drafthouse.com/los-angeles/show/godzilla-vs-megalon): Thu 10/29 (11:40am)
+
+    * [Halloween 1978](https://drafthouse.com/los-angeles/show/halloween-1978): Fri 10/30 (7:00pm), Sat 10/31 (12:45pm, 6:30pm)
+
+    * [Ken Russells The Devils](https://drafthouse.com/los-angeles/show/ken-russells-the-devils): Thu 10/29 (6:15pm, 9:15pm), Fri 10/30 (6:15pm, 9:15pm), Sat 10/31 (6:15pm, 9:15pm), Sun 11/1 (6:15pm, 9:15pm), Mon 11/2 (6:15pm, 9:15pm), Tue 11/3 (6:15pm, 9:15pm)
+
+    * [Klara And The Sun](https://drafthouse.com/los-angeles/show/klara-and-the-sun): Thu 10/29 (11:40am), Fri 10/30 (11:40am), Sat 10/31 (11:40am), Sun 11/1 (11:40am), Mon 11/2 (11:40am), Tue 11/3 (11:40am)
+
+    * [Naza](https://drafthouse.com/los-angeles/show/naza): Fri 10/30 (10:45am), Sat 10/31 (11:45am), Sun 11/1 (11:45am), Mon 11/2 (11:45am), Tue 11/3 (10:35am)
+
+    * [Once Upon A Time In Harlem](https://drafthouse.com/los-angeles/show/once-upon-a-time-in-harlem): Thu 10/29 (4:00pm, 6:50pm, 9:40pm), Fri 10/30 (10:30am, 1:20pm, 4:10pm, 7:00pm, 9:50pm), Sat 10/31 (10:30am, 1:20pm, 4:10pm, 7:00pm, 9:50pm), Sun 11/1 (10:30am, 1:20pm, 4:10pm, 7:00pm, 9:50pm), Mon 11/2 (1:15pm, 4:10pm, 7:00pm, 9:50pm), Tue 11/3 (10:30am, 1:20pm, 4:10pm, 7:00pm, 9:50pm)
+
+    * [Other Mommy](https://drafthouse.com/los-angeles/show/other-mommy): Thu 10/29 (2:15pm)
+
+    * [Queer Film Theory 101 Daughters Of Darkness](https://drafthouse.com/los-angeles/show/queer-film-theory-101-daughters-of-darkness): Thu 10/29 (4:30pm)
+
+    * [Resident Evil 2026](https://drafthouse.com/los-angeles/show/resident-evil-2026): Thu 10/29 (12:00pm)
+
+    * [Sense And Sensibility 2026](https://drafthouse.com/los-angeles/show/sense-and-sensibility-2026): Thu 10/29 (2:50pm), Fri 10/30 (2:50pm), Sat 10/31 (2:50pm), Sun 11/1 (2:50pm), Mon 11/2 (2:50pm), Tue 11/3 (2:50pm)
+
+    * [Street Fighter 2026](https://drafthouse.com/los-angeles/show/street-fighter-2026): Thu 10/29 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Fri 10/30 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Sat 10/31 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Sun 11/1 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Mon 11/2 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Tue 11/3 (12:15pm, 3:30pm, 6:45pm, 10:00pm)
+
+    * [Swingers](https://drafthouse.com/los-angeles/show/swingers): Sat 10/31 (1:10pm), Sun 11/1 (2:40pm), Mon 11/2 (8:15pm), Tue 11/3 (1:10pm)
+
+    * [The Only Living Pickpocket In New York](https://drafthouse.com/los-angeles/show/the-only-living-pickpocket-in-new-york): Thu 10/29 (10:30pm), Fri 10/30 (11:15am, 2:00pm, 10:15pm), Sat 10/31 (11:15am, 2:00pm, 10:15pm), Sun 11/1 (11:15am, 2:00pm, 10:15pm), Mon 11/2 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Tue 11/3 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm)
+
+    * [Trick Or Treat 1986](https://drafthouse.com/los-angeles/show/trick-or-treat-1986): Fri 10/30 (4:00pm), Sat 10/31 (3:35pm)
+
+    * [Whalefall](https://drafthouse.com/los-angeles/show/whalefall): Thu 10/29 (12:00pm, 3:00pm)
+
+    * [Wicker](https://drafthouse.com/los-angeles/show/wicker): Thu 10/29 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Fri 10/30 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sat 10/31 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Sun 11/1 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Mon 11/2 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Tue 11/3 (12:30pm, 3:30pm, 6:30pm, 9:30pm)
+
+    * [Wildwood](https://drafthouse.com/los-angeles/show/wildwood): Thu 10/29 (6:00pm, 9:25pm), Fri 10/30 (11:45am, 3:10pm, 6:35pm, 10:00pm), Sat 10/31 (11:25am, 2:50pm, 6:15pm, 9:40pm), Sun 11/1 (11:45am, 3:10pm, 6:35pm, 10:00pm), Mon 11/2 (11:45am, 3:10pm, 6:35pm, 10:00pm), Tue 11/3 (11:45am, 3:10pm, 6:35pm, 10:00pm)
+
+    * [You Can See Everything](https://drafthouse.com/los-angeles/show/you-can-see-everything): Thu 10/29 (11:10am, 12:40pm, 2:50pm, 3:20pm, 4:50pm, 7:30pm, 9:00pm), Fri 10/30 (10:40am, 11:30am, 12:40pm, 2:50pm, 3:40pm, 4:50pm, 7:50pm, 9:00pm), Sat 10/31 (11:00am, 12:40pm, 3:10pm, 4:50pm, 7:20pm, 9:00pm), Sun 11/1 (11:00am, 12:40pm, 2:15pm, 3:10pm, 4:50pm, 5:30pm, 6:30pm, 7:20pm, 9:00pm), Mon 11/2 (11:15am, 12:50pm, 2:00pm, 3:25pm, 4:00pm, 5:00pm, 7:35pm, 9:10pm), Tue 11/3 (11:00am, 12:40pm, 2:35pm, 3:10pm, 4:50pm, 7:20pm, 9:00pm)
+
+    * [Your Mother Your Mother Your Mother](https://drafthouse.com/los-angeles/show/your-mother-your-mother-your-mother): Thu 10/29 (1:00pm), Sun 11/1 (9:40pm), Tue 11/3 (11:35am)
+
 ### Mon 10/26 9:38am
 * New movies: Werwulf
 
