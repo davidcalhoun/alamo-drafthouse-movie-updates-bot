@@ -1,6 +1,48 @@
 # raleigh
 
 ## Movie updates
+### Mon 10/26 7:44pm
+* New movies: The Only Living Pickpocket in New York, Everest: The Other Side, Godzilla vs. Megalon
+
+* New screenings: 
+    * [Clayface](https://drafthouse.com/raleigh/show/clayface): Thu 10/29 (12:30pm, 3:30pm, 6:45pm, 9:45pm), Fri 10/30 (12:30pm, 3:45pm, 6:45pm, 9:45pm), Sat 10/31 (11:30am, 3:20pm, 6:00pm, 10:15pm), Sun 11/1 (12:30pm, 3:45pm, 6:45pm, 10:00pm), Mon 11/2 (12:30pm, 3:45pm, 6:45pm, 10:00pm), Wed 11/4 (12:30pm, 3:45pm, 6:45pm, 10:00pm)
+
+    * [Everest The Other Side](https://drafthouse.com/raleigh/show/everest-the-other-side): Thu 10/29 (3:00pm, 6:15pm), Fri 10/30 (3:00pm, 4:15pm), Sat 10/31 (2:30pm, 4:15pm), Sun 11/1 (11:00am, 3:00pm), Mon 11/2 (12:30pm, 3:00pm, 6:15pm), Wed 11/4 (12:30pm, 3:00pm, 6:15pm)
+
+    * [Fjord](https://drafthouse.com/raleigh/show/fjord): Thu 10/29 (11:00am, 2:30pm, 6:00pm, 9:30pm), Fri 10/30 (11:00am, 2:30pm, 6:00pm, 9:30pm), Sat 10/31 (12:00pm, 2:45pm, 6:15pm, 10:00pm), Sun 11/1 (2:30pm, 6:00pm, 9:45pm), Mon 11/2 (11:00am, 2:30pm, 6:00pm, 9:45pm), Wed 11/4 (11:00am, 2:30pm, 6:00pm, 9:45pm)
+
+    * [Godzilla Vs Mechagodzilla](https://drafthouse.com/raleigh/show/godzilla-vs-mechagodzilla): Sun 11/1 (9:00pm), Mon 11/2 (9:45pm)
+
+    * [Godzilla Vs Megalon](https://drafthouse.com/raleigh/show/godzilla-vs-megalon): Thu 10/29 (1:45pm)
+
+    * [Halloween 1978](https://drafthouse.com/raleigh/show/halloween-1978): Sat 10/31 (6:45pm)
+
+    * [Ken Russells The Devils](https://drafthouse.com/raleigh/show/ken-russells-the-devils): Thu 10/29 (4:30pm), Fri 10/30 (11:30am, 2:30pm), Sat 10/31 (11:30am, 7:15pm), Sun 11/1 (6:15pm), Mon 11/2 (3:30pm), Wed 11/4 (3:30pm, 9:15pm)
+
+    * [Klara And The Sun](https://drafthouse.com/raleigh/show/klara-and-the-sun): Thu 10/29 (1:00pm), Fri 10/30 (1:00pm), Sat 10/31 (1:00pm), Sun 11/1 (1:00pm), Mon 11/2 (1:30pm), Wed 11/4 (1:00pm)
+
+    * [Restoration At Grayson Manor](https://drafthouse.com/raleigh/show/restoration-at-grayson-manor): Thu 10/29 (10:00pm)
+
+    * [Scream](https://drafthouse.com/raleigh/show/scream): Sat 10/31 (6:15pm)
+
+    * [Sense And Sensibility 2026](https://drafthouse.com/raleigh/show/sense-and-sensibility-2026): Thu 10/29 (11:30am), Fri 10/30 (11:30am), Sat 10/31 (1:00pm), Sun 11/1 (11:30am), Mon 11/2 (11:30am), Wed 11/4 (11:30am)
+
+    * [Special Event Green Room 10th Anniversary](https://drafthouse.com/raleigh/show/special-event-green-room-10th-anniversary): Fri 10/30 (7:15pm)
+
+    * [Street Fighter 2026](https://drafthouse.com/raleigh/show/street-fighter-2026): Thu 10/29 (1:30pm, 4:45pm, 7:45pm, 10:45pm), Fri 10/30 (1:30pm, 4:45pm, 7:45pm, 10:45pm), Sat 10/31 (1:30pm, 4:45pm, 7:45pm, 10:45pm), Sun 11/1 (1:30pm, 4:45pm, 7:45pm, 10:45pm), Mon 11/2 (1:00pm, 4:30pm, 7:45pm, 10:45pm), Wed 11/4 (1:30pm, 4:45pm, 7:45pm, 10:45pm)
+
+    * [The Only Living Pickpocket In New York](https://drafthouse.com/raleigh/show/the-only-living-pickpocket-in-new-york): Thu 10/29 (5:00pm, 8:00pm, 10:45pm), Fri 10/30 (1:30pm, 4:30pm, 7:30pm, 10:15pm), Sat 10/31 (1:30pm, 4:45pm, 7:30pm, 10:45pm), Sun 11/1 (1:30pm, 4:30pm, 7:30pm, 10:15pm), Mon 11/2 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Wed 11/4 (1:30pm, 4:30pm, 7:30pm, 10:00pm)
+
+    * [Trick Or Treat 1986](https://drafthouse.com/raleigh/show/trick-or-treat-1986): Fri 10/30 (6:15pm), Sat 10/31 (3:45pm)
+
+    * [Whalefall](https://drafthouse.com/raleigh/show/whalefall): Thu 10/29 (4:15pm)
+
+    * [Wicker](https://drafthouse.com/raleigh/show/wicker): Thu 10/29 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Fri 10/30 (12:00pm, 2:50pm, 6:00pm, 9:00pm), Sat 10/31 (12:30pm, 4:00pm, 7:00pm, 10:00pm), Sun 11/1 (12:00pm, 2:50pm, 6:00pm, 9:15pm), Mon 11/2 (11:30am, 2:45pm, 6:00pm, 9:00pm), Wed 11/4 (11:30am, 2:30pm, 6:00pm, 9:00pm)
+
+    * [You Can See Everything](https://drafthouse.com/raleigh/show/you-can-see-everything): Thu 10/29 (11:00am, 12:00pm, 1:00pm, 2:00pm, 3:00pm, 4:00pm, 6:00pm, 8:00pm, 9:35pm, 10:00pm), Fri 10/30 (11:00am, 12:00pm, 1:00pm, 3:00pm, 4:00pm, 5:00pm, 5:30pm, 8:00pm, 9:15pm, 10:00pm, 10:00pm), Sat 10/31 (11:00am, 2:00pm, 3:00pm, 5:30pm, 6:15pm, 7:00pm, 9:15pm, 9:30pm), Sun 11/1 (11:00am, 12:00pm, 1:00pm, 3:00pm, 4:00pm, 4:30pm, 5:00pm, 5:30pm, 7:00pm, 8:00pm, 8:45pm, 9:30pm), Mon 11/2 (11:00am, 12:00pm, 1:00pm, 3:00pm, 4:00pm, 5:00pm, 5:30pm, 8:00pm, 9:00pm, 9:30pm, 10:15pm), Wed 11/4 (11:00am, 12:00pm, 1:00pm, 3:00pm, 4:00pm, 4:30pm, 5:00pm, 8:00pm, 8:45pm, 10:15pm)
+
+    * [Your Mother Your Mother Your Mother](https://drafthouse.com/raleigh/show/your-mother-your-mother-your-mother): Thu 10/29 (9:15pm), Fri 10/30 (9:15pm), Sat 10/31 (10:15pm), Sun 11/1 (9:15pm), Mon 11/2 (9:15pm), Wed 11/4 (9:15pm)
+
 ### Mon 10/26 3:08pm
 * New movies: Ken Russell's The Devils, Swingers
 
