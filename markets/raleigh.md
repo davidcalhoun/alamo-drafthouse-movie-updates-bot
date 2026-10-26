@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Mon 10/26 3:08pm
+* New movies: Ken Russell's The Devils, Swingers
+
+* New screenings: 
+    * [Ken Russells The Devils](https://drafthouse.com/raleigh/show/ken-russells-the-devils): Sun 11/1 (2:30pm), Mon 11/2 (6:30pm)
+
+    * [Swingers](https://drafthouse.com/raleigh/show/swingers): Thu 11/5 (7:00pm)
+
 ### Mon 10/26 1:58am
 * New movies: The Cat in the Hat 2026
 
