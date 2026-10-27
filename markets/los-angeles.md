@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 10/27 4:37pm
+* New movies: Wallace & Gromit: The Classic Shorts
+
+* New screenings: 
+    * [Alamo Crafthouse Wallace Gromit The Classic Shorts](https://drafthouse.com/los-angeles/show/alamo-crafthouse-wallace-gromit-the-classic-shorts): Sun 11/15 (12:00pm)
+
 ### Tue 10/27 7:10am
 * New movies: Littermates, Ebenezer, Littermates
 
