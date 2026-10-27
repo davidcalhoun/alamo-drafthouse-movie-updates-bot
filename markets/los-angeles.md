@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Tue 10/27 7:10am
+* New movies: Littermates, Ebenezer, Littermates
+
+* New screenings: 
+    * [Ebenezer](https://drafthouse.com/los-angeles/show/ebenezer): Thu 11/12 (3:30pm, 6:45pm), Fri 11/13 (3:30pm, 6:45pm), Sat 11/14 (3:30pm, 6:45pm), Sun 11/15 (3:30pm, 6:45pm)
+
+    * [Fantastic Fest Presents Littermates W Live Q A](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-littermates-w-live-q-a): Fri 11/6 (7:25pm)
+
+    * [Littermates](https://drafthouse.com/los-angeles/show/littermates): Mon 11/9 (4:00pm, 6:45pm), Tue 11/10 (4:00pm, 6:45pm), Wed 11/11 (4:00pm, 6:45pm), Thu 11/12 (4:00pm, 6:45pm)
+
 ### Mon 10/26 2:29pm
 * New movies: Wildwood, Once Upon a Time in Harlem, Naza, Swingers
 
