@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Tue 10/27 12:24pm
+* New movies: Ebenezer, Littermates
+
+* New screenings: 
+    * [Ebenezer](https://drafthouse.com/raleigh/show/ebenezer): Thu 11/12 (7:00pm, 10:05pm), Fri 11/13 (7:00pm, 10:05pm), Sat 11/14 (7:00pm, 10:05pm), Sun 11/15 (7:00pm, 10:05pm)
+
+    * [Littermates](https://drafthouse.com/raleigh/show/littermates): Fri 11/6 (9:45pm), Mon 11/9 (7:15pm)
+
 ### Mon 10/26 7:44pm
 * New movies: The Only Living Pickpocket in New York, Everest: The Other Side, Godzilla vs. Megalon
 
