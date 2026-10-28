@@ -1,6 +1,20 @@
 # los-angeles
 
 ## Movie updates
+### Wed 10/28 11:06am
+* New movies: The Hunger Games: Sunrise on the Reaping, Bitter Christmas, How to Rob a Bank, The Hunger Games: Sunrise on the Reaping, How to Rob a Bank
+
+* New screenings: 
+    * [Bitter Christmas](https://drafthouse.com/los-angeles/show/bitter-christmas): Wed 11/25 (4:00pm, 7:00pm), Thu 11/26 (4:00pm, 7:00pm), Fri 11/27 (4:00pm, 7:00pm), Sat 11/28 (4:00pm, 7:00pm), Sun 11/29 (4:00pm, 7:00pm)
+
+    * [Book Club Screening The Hunger Games Sunrise On The Reaping Book Club Dress Up Screening](https://drafthouse.com/los-angeles/show/book-club-screening-the-hunger-games-sunrise-on-the-reaping-book-club-dress-up-screening): Sat 11/21 (2:00pm)
+
+    * [How To Rob A Bank](https://drafthouse.com/los-angeles/show/how-to-rob-a-bank): Thu 11/12 (4:00pm), Fri 11/13 (3:50pm, 7:00pm), Sat 11/14 (3:50pm, 7:00pm), Sun 11/15 (3:50pm, 7:00pm)
+
+    * [Special Event How To Rob A Bank Wolf Pack Screening](https://drafthouse.com/los-angeles/show/special-event-how-to-rob-a-bank-wolf-pack-screening): Thu 11/12 (7:10pm)
+
+    * [The Hunger Games Sunrise On The Reaping](https://drafthouse.com/los-angeles/show/the-hunger-games-sunrise-on-the-reaping): Thu 11/19 (2:00pm, 6:00pm, 9:30pm), Fri 11/20 (10:00am, 2:00pm, 6:00pm, 9:30pm), Sat 11/21 (10:00am, 6:00pm, 9:30pm), Sun 11/22 (10:00am, 2:00pm, 6:00pm, 9:30pm), Mon 11/23 (10:00am, 2:00pm, 6:00pm, 9:30pm), Tue 11/24 (10:00am, 2:00pm, 6:00pm, 9:30pm), Wed 11/25 (10:00am, 2:00pm, 6:00pm, 9:30pm), Thu 11/26 (2:00pm, 6:00pm, 9:30pm), Fri 11/27 (10:00am, 2:00pm, 6:00pm, 9:30pm), Sat 11/28 (10:00am, 2:00pm, 6:00pm, 9:30pm), Sun 11/29 (10:00am, 2:00pm, 6:00pm, 9:30pm)
+
 ### Tue 10/27 4:37pm
 * New movies: Wallace & Gromit: The Classic Shorts
 
