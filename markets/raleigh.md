@@ -1,6 +1,22 @@
 # raleigh
 
 ## Movie updates
+### Wed 10/28 11:54am
+* New movies: The Hunger Games: Sunrise on the Reaping, How to Rob a Bank, How to Rob a Bank, The Hunger Games: Sunrise on the Reaping, The Hunger Games: Sunrise on the Reaping, How to Rob a Bank
+
+* New screenings: 
+    * [Advance Screening How To Rob A Bank Hdr By Barco Early Access](https://drafthouse.com/raleigh/show/advance-screening-how-to-rob-a-bank-hdr-by-barco-early-access): Wed 11/11 (7:00pm)
+
+    * [Advance Screening The Hunger Games Sunrise On The Reaping Hdr By Barco Early Access](https://drafthouse.com/raleigh/show/advance-screening-the-hunger-games-sunrise-on-the-reaping-hdr-by-barco-early-access): Wed 11/18 (7:30pm)
+
+    * [Book Club Screening The Hunger Games Sunrise On The Reaping Book Club Dress Up Screening](https://drafthouse.com/raleigh/show/book-club-screening-the-hunger-games-sunrise-on-the-reaping-book-club-dress-up-screening): Sat 11/21 (2:30pm)
+
+    * [How To Rob A Bank](https://drafthouse.com/raleigh/show/how-to-rob-a-bank): Thu 11/12 (10:00pm), Fri 11/13 (6:00pm, 9:05pm), Sat 11/14 (6:00pm, 9:05pm), Sun 11/15 (6:00pm, 9:05pm)
+
+    * [Special Event How To Rob A Bank Wolf Pack Screening](https://drafthouse.com/raleigh/show/special-event-how-to-rob-a-bank-wolf-pack-screening): Thu 11/12 (6:30pm)
+
+    * [The Hunger Games Sunrise On The Reaping](https://drafthouse.com/raleigh/show/the-hunger-games-sunrise-on-the-reaping): Thu 11/19 (2:00pm, 6:00pm, 10:00pm), Fri 11/20 (11:00am, 2:45pm, 6:30pm, 10:15pm), Sat 11/21 (11:15am, 3:00pm, 6:45pm, 10:30pm), Sun 11/22 (10:45am, 2:30pm, 6:15pm, 10:00pm), Wed 11/25 (6:00pm, 10:00pm), Thu 11/26 (6:00pm, 10:00pm), Fri 11/27 (6:00pm, 10:00pm), Sat 11/28 (6:00pm, 10:00pm), Sun 11/29 (6:00pm, 10:00pm)
+
 ### Tue 10/27 12:24pm
 * New movies: Ebenezer, Littermates
 
