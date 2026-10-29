@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 10/29 10:06am
+* New movies: Paper Tiger
+
+* New screenings: 
+    * [Livestream Q A Paper Tiger](https://drafthouse.com/raleigh/show/livestream-q-a-paper-tiger): Tue 11/10 (8:30pm)
+
 ### Wed 10/28 11:54am
 * New movies: The Hunger Games: Sunrise on the Reaping, How to Rob a Bank, How to Rob a Bank, The Hunger Games: Sunrise on the Reaping, The Hunger Games: Sunrise on the Reaping, How to Rob a Bank
 
