@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 10/29 2:38am
+* New movies: In Transit, In the Mouth
+
+* New screenings: 
+    * [In The Mouth](https://drafthouse.com/los-angeles/show/in-the-mouth): Tue 11/17 (7:00pm)
+
+    * [Live Q A In Transit](https://drafthouse.com/los-angeles/show/live-q-a-in-transit): Sat 11/7 (4:30pm)
+
 ### Wed 10/28 11:06am
 * New movies: The Hunger Games: Sunrise on the Reaping, Bitter Christmas, How to Rob a Bank, The Hunger Games: Sunrise on the Reaping, How to Rob a Bank
 
