@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 10/29 9:45am
+* New movies: Paper Tiger, Paper Tiger
+
+* New screenings: 
+    * [Livestream Q A Paper Tiger](https://drafthouse.com/los-angeles/show/livestream-q-a-paper-tiger): Tue 11/10 (5:30pm)
+
+    * [Paper Tiger](https://drafthouse.com/los-angeles/show/paper-tiger): Thu 11/19 (3:25pm, 6:30pm), Fri 11/20 (4:20pm, 7:25pm), Sat 11/21 (4:20pm, 7:25pm), Sun 11/22 (4:20pm, 7:25pm)
+
 ### Thu 10/29 2:38am
 * New movies: In Transit, In the Mouth
 
