@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 10/30 1:33pm
+* New movies: Raise the Red Lantern
+
+* New screenings: 
+    * [Raise The Red Lantern](https://drafthouse.com/los-angeles/show/raise-the-red-lantern): Sun 11/29 (11:45am), Thu 12/3 (6:20pm)
+
 ### Thu 10/29 9:45am
 * New movies: Paper Tiger, Paper Tiger
 
