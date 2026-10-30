@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Fri 10/30 3:08pm
+* New movies: Wild Horse Nine, Raise the Red Lantern
+
+* New screenings: 
+    * [Fan Event Wild Horse Nine Advance Fan Screening](https://drafthouse.com/raleigh/show/fan-event-wild-horse-nine-advance-fan-screening): Fri 10/30 (7:00pm)
+
+    * [Raise The Red Lantern](https://drafthouse.com/raleigh/show/raise-the-red-lantern): Wed 12/2 (6:30pm)
+
 ### Thu 10/29 10:06am
 * New movies: Paper Tiger
 
