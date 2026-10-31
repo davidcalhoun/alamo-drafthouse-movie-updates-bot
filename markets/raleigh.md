@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Sat 10/31 1:20am
+
+* New screenings: 
+    * [The Hunger Games Sunrise On The Reaping](https://drafthouse.com/raleigh/show/the-hunger-games-sunrise-on-the-reaping): Tue 11/24 (6:30pm, 10:30pm)
+
 ### Fri 10/30 3:08pm
 * New movies: Wild Horse Nine, Raise the Red Lantern
 
