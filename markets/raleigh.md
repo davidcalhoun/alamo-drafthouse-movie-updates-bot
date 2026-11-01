@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Sat 10/31 8:57pm
+* New movies: A/V Geeks Present: Were You Scared?
+
+* New screenings: 
+    * [A V Geeks Present Were You Scared](https://drafthouse.com/raleigh/show/a-v-geeks-present-were-you-scared): Tue 11/24 (7:00pm)
+
 ### Sat 10/31 1:20am
 
 * New screenings: 
