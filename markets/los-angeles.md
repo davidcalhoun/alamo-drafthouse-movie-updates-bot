@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Mon 11/2 10:00am
+* New movies: MY BROTHER'S WEDDING
+
+* New screenings: 
+    * [My Brothers Wedding](https://drafthouse.com/los-angeles/show/my-brothers-wedding): Sun 11/22 (1:20pm)
+
 ### Sun 11/1 4:24pm
 * New movies: I Play Rocky
 
