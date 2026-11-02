@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 11/2 6:24pm
+* New movies: My Brother's Wedding
+
+* New screenings: 
+    * [My Brothers Wedding](https://drafthouse.com/raleigh/show/my-brothers-wedding): Sat 11/21 (4:45pm)
+
 ### Sat 10/31 8:57pm
 * New movies: A/V Geeks Present: Were You Scared?
 
