@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Sun 11/1 4:24pm
+* New movies: I Play Rocky
+
+* New screenings: 
+    * [Fantastic Fest Presents Littermates W Live Q A](https://drafthouse.com/los-angeles/show/fantastic-fest-presents-littermates-w-live-q-a): Fri 11/6 (9:15pm), Sat 11/7 (7:30pm)
+
+    * [I Play Rocky](https://drafthouse.com/los-angeles/show/i-play-rocky): Thu 11/19 (6:15pm, 9:40pm), Fri 11/20 (11:45am, 3:10pm, 6:35pm, 10:00pm), Sat 11/21 (11:45am, 3:10pm, 6:35pm, 10:00pm), Sun 11/22 (11:45am, 3:10pm, 6:35pm, 10:00pm), Mon 11/23 (11:45am, 3:10pm, 6:35pm, 10:00pm), Tue 11/24 (11:45am, 3:10pm, 6:35pm, 10:00pm), Wed 11/25 (11:45am, 3:10pm, 6:35pm, 10:00pm), Thu 11/26 (11:45am, 3:10pm, 6:35pm, 10:00pm)
+
 ### Fri 10/30 1:33pm
 * New movies: Raise the Red Lantern
 
