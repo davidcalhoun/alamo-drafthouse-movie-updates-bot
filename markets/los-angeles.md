@@ -1,6 +1,51 @@
 # los-angeles
 
 ## Movie updates
+### Mon 11/2 4:44pm
+
+* New screenings: 
+    * [Breeder](https://drafthouse.com/los-angeles/show/breeder): Thu 11/5 (1:10pm)
+
+    * [Clayface](https://drafthouse.com/los-angeles/show/clayface): Thu 11/5 (12:30pm, 3:30pm, 6:00pm, 9:00pm), Fri 11/6 (1:15pm, 4:15pm, 7:15pm, 10:15pm), Sat 11/7 (10:20am, 1:20pm, 4:20pm, 7:20pm, 10:20pm), Sun 11/8 (10:20am, 1:20pm, 4:20pm, 7:20pm, 10:20pm), Mon 11/9 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Tue 11/10 (10:00am, 1:00pm, 4:00pm, 7:00pm, 10:00pm), Wed 11/11 (1:00pm, 4:00pm, 7:00pm, 10:00pm)
+
+    * [Fjord](https://drafthouse.com/los-angeles/show/fjord): Thu 11/5 (2:20pm), Fri 11/6 (11:20am), Sat 11/7 (2:35pm), Sun 11/8 (6:30pm), Mon 11/9 (6:30pm), Tue 11/10 (3:45pm), Wed 11/11 (12:30pm)
+
+    * [Godzilla Minus Zero](https://drafthouse.com/los-angeles/show/godzilla-minus-zero): Thu 11/5 (6:30pm), Fri 11/6 (11:30am, 9:15pm), Sat 11/7 (11:30am, 7:30pm), Sun 11/8 (11:30am, 4:15pm, 7:45pm, 9:00pm), Mon 11/9 (11:30am, 3:00pm, 3:30pm, 6:30pm, 9:30pm, 10:00pm), Tue 11/10 (10:30am, 12:30pm, 2:00pm, 6:30pm, 8:45pm, 10:00pm), Wed 11/11 (1:45pm, 3:00pm, 5:15pm, 6:30pm, 9:25pm, 10:00pm)
+
+    * [Godzilla Vs Mechagodzilla](https://drafthouse.com/los-angeles/show/godzilla-vs-mechagodzilla): Thu 11/5 (11:35am)
+
+    * [Ken Russells The Devils](https://drafthouse.com/los-angeles/show/ken-russells-the-devils): Thu 11/5 (10:15pm), Fri 11/6 (10:25pm), Sat 11/7 (10:30pm), Mon 11/9 (9:50pm), Tue 11/10 (9:30pm), Wed 11/11 (9:50pm)
+
+    * [Klara And The Sun](https://drafthouse.com/los-angeles/show/klara-and-the-sun): Thu 11/5 (12:00pm)
+
+    * [La Bola Negra](https://drafthouse.com/los-angeles/show/la-bola-negra): Thu 11/5 (2:15pm, 6:00pm, 9:45pm), Fri 11/6 (11:10am, 9:40pm), Sat 11/7 (10:30am, 9:45pm), Sun 11/8 (10:30am, 7:50pm, 9:45pm), Mon 11/9 (12:10pm, 2:15pm, 6:00pm, 9:25pm), Tue 11/10 (11:45am, 3:30pm, 7:15pm, 9:25pm), Wed 11/11 (12:10pm, 2:15pm, 6:00pm, 9:25pm)
+
+    * [Littermates](https://drafthouse.com/los-angeles/show/littermates): Sun 11/8 (1:35pm, 4:50pm)
+
+    * [Naza](https://drafthouse.com/los-angeles/show/naza): Thu 11/5 (11:45am)
+
+    * [Once Upon A Time In Harlem](https://drafthouse.com/los-angeles/show/once-upon-a-time-in-harlem): Fri 11/6 (6:15pm), Sat 11/7 (11:45am), Sun 11/8 (12:20pm), Mon 11/9 (12:20pm), Tue 11/10 (12:20pm), Wed 11/11 (7:20pm)
+
+    * [Sense And Sensibility 2026](https://drafthouse.com/los-angeles/show/sense-and-sensibility-2026): Thu 11/5 (3:10pm)
+
+    * [Southland Tales](https://drafthouse.com/los-angeles/show/southland-tales): Wed 11/11 (11:20am)
+
+    * [Street Fighter 2026](https://drafthouse.com/los-angeles/show/street-fighter-2026): Thu 11/5 (12:15pm, 3:30pm), Fri 11/6 (3:00pm), Sat 11/7 (6:15pm), Sun 11/8 (3:15pm), Mon 11/9 (3:15pm), Tue 11/10 (12:30pm, 3:15pm), Wed 11/11 (4:10pm)
+
+    * [The Only Living Pickpocket In New York](https://drafthouse.com/los-angeles/show/the-only-living-pickpocket-in-new-york): Thu 11/5 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Fri 11/6 (11:00am, 1:00pm, 3:45pm, 6:30pm, 10:20pm), Sat 11/7 (11:15am, 2:00pm, 4:45pm, 7:30pm, 10:15pm), Sun 11/8 (10:50am, 1:45pm, 4:30pm, 7:15pm, 10:00pm), Mon 11/9 (1:15pm, 4:00pm, 6:45pm, 9:30pm), Tue 11/10 (10:30am, 1:15pm, 4:00pm, 6:45pm, 9:30pm), Wed 11/11 (1:15pm, 4:00pm, 6:45pm, 9:30pm)
+
+    * [We Own The Night](https://drafthouse.com/los-angeles/show/we-own-the-night): Mon 11/9 (12:15pm)
+
+    * [Wicker](https://drafthouse.com/los-angeles/show/wicker): Thu 11/5 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Fri 11/6 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Sat 11/7 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Sun 11/8 (12:45pm, 3:45pm, 6:45pm, 10:15pm), Mon 11/9 (12:45pm, 3:45pm, 6:45pm, 10:15pm), Tue 11/10 (12:45pm, 3:45pm, 6:45pm, 10:00pm), Wed 11/11 (12:45pm, 3:45pm, 6:45pm, 10:15pm)
+
+    * [Wild Horse Nine](https://drafthouse.com/los-angeles/show/wild-horse-nine): Thu 11/5 (9:30pm), Fri 11/6 (12:30pm, 10:15pm), Sat 11/7 (12:30pm, 10:15pm), Sun 11/8 (12:30pm, 10:15pm), Mon 11/9 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Tue 11/10 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Wed 11/11 (12:30pm, 3:45pm, 7:00pm, 10:15pm)
+
+    * [Wildwood](https://drafthouse.com/los-angeles/show/wildwood): Thu 11/5 (11:45am, 3:10pm, 6:35pm, 10:00pm), Fri 11/6 (11:25am, 2:50pm, 6:15pm, 9:40pm), Sat 11/7 (11:25am, 2:50pm, 6:15pm, 9:40pm), Sun 11/8 (11:10am, 2:35pm, 6:00pm, 9:45pm), Mon 11/9 (11:10am, 2:35pm, 6:00pm, 9:45pm), Tue 11/10 (11:10am, 2:35pm, 6:00pm, 9:45pm), Wed 11/11 (11:10am, 2:35pm, 6:00pm, 9:45pm)
+
+    * [You Can See Everything](https://drafthouse.com/los-angeles/show/you-can-see-everything): Thu 11/5 (11:20am, 3:30pm, 7:40pm), Fri 11/6 (11:45am, 1:50pm, 6:45pm, 9:10pm), Sat 11/7 (11:00am, 3:10pm, 7:20pm, 9:30pm), Sun 11/8 (11:10am, 3:20pm, 7:30pm, 9:25pm), Mon 11/9 (11:10am, 3:20pm, 7:30pm, 9:00pm), Tue 11/10 (11:10am, 3:20pm, 7:30pm, 9:00pm), Wed 11/11 (11:10am, 3:20pm, 7:30pm, 9:00pm)
+
+    * [Your Mother Your Mother Your Mother](https://drafthouse.com/los-angeles/show/your-mother-your-mother-your-mother): Thu 11/5 (12:00pm)
+
 ### Mon 11/2 10:00am
 * New movies: MY BROTHER'S WEDDING
 
