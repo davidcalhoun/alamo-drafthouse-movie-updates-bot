@@ -1,6 +1,11 @@
 # los-angeles
 
 ## Movie updates
+### Tue 11/3 1:37pm
+
+* New screenings: 
+    * [All About My Mother](https://drafthouse.com/los-angeles/show/all-about-my-mother): Fri 11/13 (7:20pm)
+
 ### Mon 11/2 4:44pm
 
 * New screenings: 
