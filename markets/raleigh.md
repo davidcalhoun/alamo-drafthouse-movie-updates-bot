@@ -1,6 +1,46 @@
 # raleigh
 
 ## Movie updates
+### Tue 11/3 1:29am
+* New movies: La Bola Negra
+
+* New screenings: 
+    * [Clayface](https://drafthouse.com/raleigh/show/clayface): Thu 11/5 (12:30pm, 3:45pm, 6:45pm, 10:15pm), Fri 11/6 (1:30pm, 4:45pm, 7:45pm, 10:45pm), Sat 11/7 (1:00pm, 4:30pm, 7:45pm, 10:45pm), Sun 11/8 (1:00pm, 4:30pm, 7:45pm, 10:45pm), Mon 11/9 (1:00pm, 4:30pm, 7:45pm, 10:45pm), Tue 11/10 (1:00pm, 4:15pm, 7:30pm, 10:45pm), Wed 11/11 (1:00pm, 4:30pm, 7:45pm, 10:45pm)
+
+    * [Everest The Other Side](https://drafthouse.com/raleigh/show/everest-the-other-side): Thu 11/5 (11:00am, 2:45pm), Sat 11/7 (12:00pm), Sun 11/8 (12:00pm)
+
+    * [Fjord](https://drafthouse.com/raleigh/show/fjord): Thu 11/5 (11:30am)
+
+    * [Godzilla Minus Zero](https://drafthouse.com/raleigh/show/godzilla-minus-zero): Thu 11/5 (4:00pm, 7:30pm, 9:40pm), Fri 11/6 (11:00am, 11:30am, 1:00pm, 2:00pm, 2:45pm, 3:30pm, 4:30pm, 7:00pm, 8:00pm), Sat 11/7 (11:00am, 1:00pm, 3:00pm, 4:30pm, 8:00pm, 8:30pm), Sun 11/8 (11:00am, 2:30pm, 4:30pm, 6:30pm, 8:00pm), Mon 11/9 (11:30am, 1:00pm, 2:15pm, 3:00pm, 3:45pm, 4:30pm, 5:30pm, 6:30pm, 8:00pm, 10:15pm, 10:30pm), Tue 11/10 (11:00am, 1:30pm, 2:00pm, 2:30pm, 3:30pm, 5:00pm, 6:00pm, 10:00pm), Wed 11/11 (12:00pm, 1:00pm, 2:30pm, 3:30pm, 4:30pm, 5:45pm, 6:00pm, 10:15pm)
+
+    * [Godzilla Vs Mechagodzilla](https://drafthouse.com/raleigh/show/godzilla-vs-mechagodzilla): Thu 11/5 (11:30am, 1:00pm)
+
+    * [Ken Russells The Devils](https://drafthouse.com/raleigh/show/ken-russells-the-devils): Thu 11/5 (3:30pm)
+
+    * [Klara And The Sun](https://drafthouse.com/raleigh/show/klara-and-the-sun): Thu 11/5 (12:00pm)
+
+    * [La Bola Negra](https://drafthouse.com/raleigh/show/la-bola-negra): Thu 11/5 (2:30pm, 6:15pm, 10:00pm), Fri 11/6 (11:00am, 2:45pm, 5:30pm, 6:30pm, 10:15pm), Sat 11/7 (11:00am, 2:45pm, 6:30pm, 10:15pm), Sun 11/8 (11:00am, 3:15pm, 5:45pm, 7:00pm, 10:00pm), Mon 11/9 (11:00am, 2:45pm, 6:30pm, 9:00pm), Tue 11/10 (11:00am, 11:30am, 2:45pm, 5:45pm, 6:30pm, 9:45pm), Wed 11/11 (11:00am, 2:00pm, 2:45pm, 6:30pm, 9:15pm)
+
+    * [Littermates](https://drafthouse.com/raleigh/show/littermates): Mon 11/9 (11:00am), Wed 11/11 (8:00pm)
+
+    * [Little Odessa](https://drafthouse.com/raleigh/show/little-odessa): Wed 11/11 (11:00am)
+
+    * [Rammstein Live In Mexico City](https://drafthouse.com/raleigh/show/rammstein-live-in-mexico-city): Sat 11/7 (5:30pm)
+
+    * [Sense And Sensibility 2026](https://drafthouse.com/raleigh/show/sense-and-sensibility-2026): Thu 11/5 (11:00am)
+
+    * [Street Fighter 2026](https://drafthouse.com/raleigh/show/street-fighter-2026): Thu 11/5 (1:00pm, 4:45pm), Fri 11/6 (10:30pm), Sat 11/7 (9:45pm), Sun 11/8 (10:15pm), Mon 11/9 (10:15pm), Tue 11/10 (10:15pm), Wed 11/11 (10:15pm)
+
+    * [The Cat In The Hat 2026](https://drafthouse.com/raleigh/show/the-cat-in-the-hat-2026): Thu 11/5 (3:15pm), Fri 11/6 (12:30pm, 4:30pm), Sat 11/7 (12:30pm, 4:00pm), Sun 11/8 (12:30pm, 4:00pm, 6:45pm, 9:45pm), Mon 11/9 (12:30pm, 4:00pm, 6:15pm, 9:15pm), Tue 11/10 (12:30pm, 4:30pm, 6:15pm, 9:15pm), Wed 11/11 (11:30am, 4:00pm, 6:15pm, 10:00pm)
+
+    * [The Only Living Pickpocket In New York](https://drafthouse.com/raleigh/show/the-only-living-pickpocket-in-new-york): Thu 11/5 (1:30pm, 4:15pm, 7:15pm, 10:15pm), Fri 11/6 (1:00pm, 3:30pm, 7:30pm, 10:30pm), Sat 11/7 (11:30am, 3:15pm, 7:30pm, 10:30pm), Sun 11/8 (11:30am, 3:15pm, 7:30pm, 10:30pm), Mon 11/9 (1:30pm, 4:30pm, 7:00pm, 9:30pm), Tue 11/10 (12:00pm, 3:45pm, 7:45pm, 10:30pm), Wed 11/11 (1:30pm, 4:15pm, 7:15pm, 10:00pm)
+
+    * [Wicker](https://drafthouse.com/raleigh/show/wicker): Thu 11/5 (1:30pm, 4:45pm, 7:45pm, 10:35pm), Fri 11/6 (12:00pm, 3:15pm, 6:15pm, 10:15pm), Sat 11/7 (1:30pm, 4:15pm, 7:15pm, 10:30pm), Sun 11/8 (1:30pm, 4:15pm, 7:15pm, 10:30pm), Mon 11/9 (12:00pm, 3:15pm, 7:15pm, 10:30pm), Tue 11/10 (12:00pm, 3:15pm, 7:00pm, 10:30pm), Wed 11/11 (1:00pm, 4:00pm, 6:45pm, 10:30pm)
+
+    * [Wild Horse Nine](https://drafthouse.com/raleigh/show/wild-horse-nine): Thu 11/5 (3:00pm, 6:00pm, 9:00pm), Fri 11/6 (11:30am, 2:30pm), Sat 11/7 (12:00pm, 3:00pm), Sun 11/8 (12:00pm, 3:00pm, 10:00pm), Mon 11/9 (11:30am, 2:30pm, 6:00pm, 10:00pm), Tue 11/10 (11:30am, 2:30pm, 6:00pm, 10:00pm), Wed 11/11 (12:00pm, 3:00pm, 7:00pm, 9:45pm)
+
+    * [You Can See Everything](https://drafthouse.com/raleigh/show/you-can-see-everything): Thu 11/5 (12:00pm, 2:00pm, 6:00pm, 7:45pm, 9:45pm), Fri 11/6 (12:30pm, 2:15pm, 6:15pm, 9:15pm), Sat 11/7 (1:30pm, 2:00pm, 5:30pm, 6:15pm, 10:15pm), Sun 11/8 (12:30pm, 1:30pm, 2:00pm, 6:15pm, 9:00pm), Mon 11/9 (12:30pm, 2:00pm, 6:15pm, 9:00pm), Tue 11/10 (12:30pm, 2:30pm, 6:30pm, 9:00pm), Wed 11/11 (11:30am, 2:00pm, 6:00pm, 9:15pm)
+
 ### Mon 11/2 6:24pm
 * New movies: My Brother's Wedding
 
