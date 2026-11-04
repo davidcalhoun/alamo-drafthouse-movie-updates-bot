@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Wed 11/4 12:03pm
+* New movies: Nirvanna The Band The Show The Movie, Game
+
+* New screenings: 
+    * [Drafthouse Recommends Nirvanna The Band The Show The Movie The Commentary Track](https://drafthouse.com/raleigh/show/drafthouse-recommends-nirvanna-the-band-the-show-the-movie-the-commentary-track): Sun 1/10 (7:00pm)
+
+    * [Game](https://drafthouse.com/raleigh/show/game): Fri 12/4 (9:45pm)
+
 ### Tue 11/3 1:29am
 * New movies: La Bola Negra
 
