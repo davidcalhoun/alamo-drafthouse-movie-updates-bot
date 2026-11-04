@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Wed 11/4 8:56am
+* New movies: Victorian Psycho, Nirvanna The Band The Show The Movie, Game
+
+* New screenings: 
+    * [Drafthouse Recommends Nirvanna The Band The Show The Movie The Commentary Track](https://drafthouse.com/los-angeles/show/drafthouse-recommends-nirvanna-the-band-the-show-the-movie-the-commentary-track): Sun 1/10 (7:00pm)
+
+    * [Game](https://drafthouse.com/los-angeles/show/game): Fri 12/4 (9:45pm)
+
+    * [Victorian Psycho](https://drafthouse.com/los-angeles/show/victorian-psycho): Thu 11/12 (4:40pm, 7:35pm), Fri 11/13 (4:25pm, 7:20pm), Sat 11/14 (4:25pm, 7:20pm), Sun 11/15 (4:25pm, 7:20pm)
+
 ### Tue 11/3 1:37pm
 
 * New screenings: 
