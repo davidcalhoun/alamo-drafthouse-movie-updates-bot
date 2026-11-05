@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 11/5 11:42am
+* New movies: Elsinore
+
+* New screenings: 
+    * [Elsinore](https://drafthouse.com/los-angeles/show/elsinore): Tue 11/24 (3:30pm, 6:30pm), Wed 11/25 (3:30pm, 6:30pm), Thu 11/26 (3:30pm, 6:30pm), Fri 11/27 (3:30pm, 6:30pm), Sat 11/28 (3:30pm, 6:30pm), Sun 11/29 (3:30pm, 6:30pm)
+
 ### Thu 11/5 3:59am
 * New movies: Focker-In-Law, Focker-In-Law
 
