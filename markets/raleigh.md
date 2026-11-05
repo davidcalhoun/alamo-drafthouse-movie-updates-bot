@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 11/5 7:07am
+* New movies: Focker-In-Law
+
+* New screenings: 
+    * [Movie Party Focker In Law](https://drafthouse.com/raleigh/show/movie-party-focker-in-law): Fri 11/27 (12:30pm)
+
 ### Wed 11/4 12:03pm
 * New movies: Nirvanna The Band The Show The Movie, Game
 
