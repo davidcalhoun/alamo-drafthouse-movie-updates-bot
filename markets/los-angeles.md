@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 11/5 3:59am
+* New movies: Focker-In-Law, Focker-In-Law
+
+* New screenings: 
+    * [Focker In Law](https://drafthouse.com/los-angeles/show/focker-in-law): Wed 11/25 (10:30am, 1:30pm, 4:30pm, 7:30pm, 10:30pm), Thu 11/26 (1:30pm, 4:30pm, 7:30pm, 10:30pm), Fri 11/27 (10:15am, 1:15pm, 7:20pm, 10:20pm), Sat 11/28 (10:30am, 1:30pm, 4:30pm, 7:30pm, 10:30pm), Sun 11/29 (10:30am, 1:30pm, 4:30pm, 7:30pm, 10:30pm)
+
+    * [Movie Party Focker In Law](https://drafthouse.com/los-angeles/show/movie-party-focker-in-law): Fri 11/27 (4:15pm)
+
 ### Wed 11/4 8:56am
 * New movies: Victorian Psycho, Nirvanna The Band The Show The Movie, Game
 
