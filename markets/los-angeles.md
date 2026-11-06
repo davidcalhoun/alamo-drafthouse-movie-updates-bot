@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 11/5 4:53pm
+* New movies: Red Rocket
+
+* New screenings: 
+    * [A24 X Alamo Cinema Club Mandatory Bundle Red Rocket](https://drafthouse.com/los-angeles/show/a24-x-alamo-cinema-club-mandatory-bundle-red-rocket): Mon 12/21 (3:35pm, 7:00pm)
+
 ### Thu 11/5 11:42am
 * New movies: Elsinore
 
