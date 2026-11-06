@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Thu 11/5 8:28pm
+* New movies: Red Rocket
+
+* New screenings: 
+    * [A24 X Alamo Cinema Club Mandatory Bundle Red Rocket](https://drafthouse.com/raleigh/show/a24-x-alamo-cinema-club-mandatory-bundle-red-rocket): Mon 12/21 (7:00pm)
+
 ### Thu 11/5 7:07am
 * New movies: Focker-In-Law
 
