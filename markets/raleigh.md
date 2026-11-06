@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 11/6 12:23pm
+* New movies: I Play Rocky
+
+* New screenings: 
+    * [I Play Rocky](https://drafthouse.com/raleigh/show/i-play-rocky): Thu 11/19 (4:00pm, 7:15pm, 10:30pm), Fri 11/20 (12:30pm, 4:00pm, 7:15pm, 10:30pm), Sat 11/21 (1:00pm, 4:15pm, 7:30pm, 10:45pm), Sun 11/22 (12:45pm, 4:00pm, 7:15pm, 10:30pm)
+
 ### Thu 11/5 8:28pm
 * New movies: Red Rocket
 
