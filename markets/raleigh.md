@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Sat 11/7 7:23pm
+* New movies: NOFX: 40 YEARS OF FUCKIN' UP
+
+* New screenings: 
+    * [Nofx 40 Years Of Fuckin Up](https://drafthouse.com/raleigh/show/nofx-40-years-of-fuckin-up): Fri 11/20 (9:00pm)
+
 ### Fri 11/6 12:23pm
 * New movies: I Play Rocky
 
