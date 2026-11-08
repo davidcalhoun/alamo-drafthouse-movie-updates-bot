@@ -1,6 +1,16 @@
 # los-angeles
 
 ## Movie updates
+### Sun 11/8 2:42pm
+* New movies: In the Mouth, Crushed, NOFX: 40 YEARS OF FUCKIN' UP
+
+* New screenings: 
+    * [Crushed](https://drafthouse.com/los-angeles/show/crushed): Mon 11/23 (9:30pm)
+
+    * [Live Q A In The Mouth](https://drafthouse.com/los-angeles/show/live-q-a-in-the-mouth): Tue 11/17 (7:00pm)
+
+    * [Nofx 40 Years Of Fuckin Up](https://drafthouse.com/los-angeles/show/nofx-40-years-of-fuckin-up): Sat 11/21 (9:45pm)
+
 ### Thu 11/5 4:53pm
 * New movies: Red Rocket
 
