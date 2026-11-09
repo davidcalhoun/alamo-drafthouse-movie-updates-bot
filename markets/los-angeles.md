@@ -1,6 +1,44 @@
 # los-angeles
 
 ## Movie updates
+### Mon 11/9 1:23pm
+* New movies: Behemoth!, Club Kid
+
+* New screenings: 
+    * [Behemoth](https://drafthouse.com/los-angeles/show/behemoth): Thu 12/3 (2:40pm, 6:00pm), Fri 12/4 (3:20pm, 6:40pm), Sat 12/5 (3:20pm, 6:40pm), Sun 12/6 (3:20pm, 6:40pm)
+
+    * [Clayface](https://drafthouse.com/los-angeles/show/clayface): Thu 11/12 (12:30pm)
+
+    * [Club Kid](https://drafthouse.com/los-angeles/show/club-kid): Thu 11/12 (4:00pm, 7:15pm, 10:00pm)
+
+    * [Ebenezer](https://drafthouse.com/los-angeles/show/ebenezer): Thu 11/12 (10:00pm)
+
+    * [Fjord](https://drafthouse.com/los-angeles/show/fjord): Thu 11/12 (1:45pm)
+
+    * [Godzilla Minus Zero](https://drafthouse.com/los-angeles/show/godzilla-minus-zero): Thu 11/12 (12:15pm, 3:45pm, 6:15pm, 9:30pm)
+
+    * [How To Rob A Bank](https://drafthouse.com/los-angeles/show/how-to-rob-a-bank): Thu 11/12 (10:10pm)
+
+    * [Ken Russells The Devils](https://drafthouse.com/los-angeles/show/ken-russells-the-devils): Thu 11/12 (10:25pm)
+
+    * [La Bola Negra](https://drafthouse.com/los-angeles/show/la-bola-negra): Thu 11/12 (12:10pm, 2:45pm, 6:30pm, 9:25pm)
+
+    * [Once Upon A Time In Harlem](https://drafthouse.com/los-angeles/show/once-upon-a-time-in-harlem): Thu 11/12 (1:00pm)
+
+    * [Street Fighter 2026](https://drafthouse.com/los-angeles/show/street-fighter-2026): Thu 11/12 (12:45pm)
+
+    * [The Only Living Pickpocket In New York](https://drafthouse.com/los-angeles/show/the-only-living-pickpocket-in-new-york): Thu 11/12 (11:15am, 2:00pm)
+
+    * [Victorian Psycho](https://drafthouse.com/los-angeles/show/victorian-psycho): Thu 11/12 (10:30pm)
+
+    * [Wicker](https://drafthouse.com/los-angeles/show/wicker): Thu 11/12 (11:45am)
+
+    * [Wild Horse Nine](https://drafthouse.com/los-angeles/show/wild-horse-nine): Thu 11/12 (12:00pm, 3:10pm, 6:20pm, 10:15pm)
+
+    * [Wildwood](https://drafthouse.com/los-angeles/show/wildwood): Thu 11/12 (11:25am, 2:50pm, 9:40pm)
+
+    * [You Can See Everything](https://drafthouse.com/los-angeles/show/you-can-see-everything): Thu 11/12 (11:10am, 3:20pm, 7:30pm, 9:00pm)
+
 ### Sun 11/8 2:42pm
 * New movies: In the Mouth, Crushed, NOFX: 40 YEARS OF FUCKIN' UP
 
