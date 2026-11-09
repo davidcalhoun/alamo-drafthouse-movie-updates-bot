@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 11/9 10:59am
+* New movies: Behemoth!
+
+* New screenings: 
+    * [Behemoth](https://drafthouse.com/raleigh/show/behemoth): Thu 12/3 (4:15pm, 7:30pm, 10:45pm), Fri 12/4 (1:00pm, 4:15pm, 7:30pm, 10:45pm), Sat 12/5 (1:00pm, 4:15pm, 7:30pm, 10:45pm), Sun 12/6 (1:00pm, 4:15pm, 7:30pm, 10:45pm)
+
 ### Sat 11/7 7:23pm
 * New movies: NOFX: 40 YEARS OF FUCKIN' UP
 
