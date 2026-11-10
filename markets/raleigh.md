@@ -1,6 +1,42 @@
 # raleigh
 
 ## Movie updates
+### Mon 11/9 7:07pm
+* New movies: Victorian Psycho, We Own the Night, Everest: The Other Side, The Scout
+
+* New screenings: 
+    * [Clayface](https://drafthouse.com/raleigh/show/clayface): Thu 11/12 (10:30pm), Fri 11/13 (9:45pm), Sat 11/14 (9:45pm), Sun 11/15 (9:45pm), Mon 11/16 (9:45pm), Tue 11/17 (9:45pm), Wed 11/18 (10:30pm)
+
+    * [Ebenezer](https://drafthouse.com/raleigh/show/ebenezer): Thu 11/12 (2:00pm, 4:30pm), Fri 11/13 (1:00pm, 4:25pm), Sat 11/14 (1:00pm, 4:25pm, 10:05pm), Sun 11/15 (1:15pm, 4:25pm), Mon 11/16 (1:15pm, 4:25pm, 7:30pm, 10:35pm), Tue 11/17 (1:30pm, 4:35pm, 7:40pm, 10:45pm), Wed 11/18 (1:30pm, 4:35pm, 7:40pm, 10:45pm)
+
+    * [Everest The Other Side](https://drafthouse.com/raleigh/show/everest-the-other-side): Thu 11/12 (1:30pm)
+
+    * [Godzilla Minus Zero](https://drafthouse.com/raleigh/show/godzilla-minus-zero): Thu 11/12 (11:00am, 11:30am, 12:30pm, 1:00pm, 2:30pm, 3:00pm, 6:00pm, 7:30pm, 10:30pm), Fri 11/13 (11:00am, 12:00pm, 12:30pm, 2:30pm, 3:30pm, 5:30pm, 6:45pm, 7:30pm, 10:30pm), Sat 11/14 (11:00am, 12:00pm, 2:30pm, 3:30pm, 5:30pm, 6:45pm, 7:30pm, 9:05pm), Sun 11/15 (11:00am, 12:00pm, 2:30pm, 3:30pm, 5:30pm, 6:45pm, 7:30pm, 10:05pm), Mon 11/16 (11:00am, 12:00pm, 12:30pm, 2:30pm, 3:30pm, 5:30pm, 6:00pm, 10:00pm), Tue 11/17 (11:00am, 11:30am, 2:30pm, 3:00pm, 6:00pm, 7:00pm, 10:30pm), Wed 11/18 (11:00am, 12:00pm, 12:30pm, 2:30pm, 4:00pm, 6:30pm, 10:00pm)
+
+    * [How To Rob A Bank](https://drafthouse.com/raleigh/show/how-to-rob-a-bank): Thu 11/12 (4:00pm, 7:15pm), Fri 11/13 (12:00pm, 3:30pm), Sat 11/14 (12:00pm, 3:30pm, 10:00pm), Sun 11/15 (12:00pm, 3:30pm), Mon 11/16 (12:00pm, 3:30pm, 6:45pm, 9:30pm), Tue 11/17 (12:00pm, 3:30pm, 6:45pm, 9:30pm), Wed 11/18 (11:30am, 3:00pm, 6:30pm, 9:45pm)
+
+    * [La Bola Negra](https://drafthouse.com/raleigh/show/la-bola-negra): Thu 11/12 (11:30am, 3:30pm, 7:30pm, 9:40pm), Fri 11/13 (12:30pm, 4:30pm, 8:15pm, 9:30pm), Sat 11/14 (12:30pm, 4:30pm, 8:15pm, 9:30pm), Sun 11/15 (12:30pm, 4:30pm, 8:15pm, 9:30pm), Mon 11/16 (12:30pm, 4:30pm, 8:15pm, 9:00pm), Tue 11/17 (12:30pm, 4:30pm, 8:15pm, 10:15pm), Wed 11/18 (12:00pm, 3:45pm, 7:45pm)
+
+    * [Littermates](https://drafthouse.com/raleigh/show/littermates): Thu 11/12 (3:30pm), Fri 11/13 (11:30am)
+
+    * [The Cat In The Hat 2026](https://drafthouse.com/raleigh/show/the-cat-in-the-hat-2026): Thu 11/12 (12:30pm, 3:00pm, 6:15pm, 9:30pm), Fri 11/13 (11:30am, 3:00pm, 6:15pm, 9:30pm), Sat 11/14 (11:30am, 3:00pm, 6:15pm, 9:30pm), Sun 11/15 (11:30am, 3:00pm, 6:15pm, 9:30pm), Mon 11/16 (11:30am, 3:00pm, 6:15pm, 9:30pm), Tue 11/17 (11:30am, 3:00pm, 6:30pm, 9:00pm), Wed 11/18 (11:00am, 2:30pm, 6:00pm, 9:00pm)
+
+    * [The Only Living Pickpocket In New York](https://drafthouse.com/raleigh/show/the-only-living-pickpocket-in-new-york): Thu 11/12 (5:15pm), Fri 11/13 (4:00pm), Sat 11/14 (4:00pm), Sun 11/15 (4:00pm), Mon 11/16 (4:00pm), Tue 11/17 (4:00pm), Wed 11/18 (4:00pm)
+
+    * [The Scout](https://drafthouse.com/raleigh/show/the-scout): Sun 11/15 (11:30am)
+
+    * [Victorian Psycho](https://drafthouse.com/raleigh/show/victorian-psycho): Thu 11/12 (4:45pm, 7:45pm, 10:45pm), Fri 11/13 (1:30pm, 4:15pm, 7:00pm, 10:00pm), Sat 11/14 (1:30pm, 4:15pm, 7:00pm, 10:30pm), Sun 11/15 (1:30pm, 4:15pm, 7:00pm, 10:30pm), Mon 11/16 (1:30pm, 4:15pm, 7:00pm, 10:00pm), Tue 11/17 (1:30pm, 4:15pm, 7:15pm, 10:00pm), Wed 11/18 (1:30pm, 4:15pm, 7:00pm, 10:00pm)
+
+    * [Wallace Gromit The Classic Shorts](https://drafthouse.com/raleigh/show/wallace-gromit-the-classic-shorts): Sat 11/14 (11:30am), Mon 11/16 (11:30am), Wed 11/18 (1:00pm)
+
+    * [We Own The Night](https://drafthouse.com/raleigh/show/we-own-the-night): Thu 11/12 (12:00pm)
+
+    * [Wicker](https://drafthouse.com/raleigh/show/wicker): Thu 11/12 (7:45pm), Fri 11/13 (2:05pm, 6:30pm), Sat 11/14 (2:00pm, 6:30pm), Sun 11/15 (2:05pm, 6:30pm), Mon 11/16 (2:00pm, 6:30pm), Tue 11/17 (1:00pm, 6:45pm), Wed 11/18 (3:30pm)
+
+    * [Wild Horse Nine](https://drafthouse.com/raleigh/show/wild-horse-nine): Thu 11/12 (11:00am, 2:30pm, 6:00pm, 9:00pm), Fri 11/13 (11:00am, 2:30pm, 6:00pm, 9:00pm), Sat 11/14 (12:30pm, 3:00pm, 6:00pm, 9:00pm), Sun 11/15 (12:30pm, 2:30pm, 6:00pm, 9:00pm), Mon 11/16 (11:00am, 2:30pm, 6:00pm, 9:15pm), Tue 11/17 (12:30pm, 3:30pm, 6:00pm, 9:00pm), Wed 11/18 (11:30am, 3:00pm, 6:15pm, 10:15pm)
+
+    * [You Can See Everything](https://drafthouse.com/raleigh/show/you-can-see-everything): Thu 11/12 (1:00pm, 5:00pm, 9:00pm), Fri 11/13 (1:00pm, 5:00pm, 9:15pm), Sat 11/14 (1:00pm, 5:00pm, 9:15pm), Sun 11/15 (1:00pm, 5:00pm, 9:15pm), Mon 11/16 (1:00pm, 5:00pm, 9:15pm), Tue 11/17 (1:00pm, 5:00pm, 9:15pm), Wed 11/18 (1:00pm, 5:00pm, 9:15pm)
+
 ### Mon 11/9 10:59am
 * New movies: Behemoth!
 
