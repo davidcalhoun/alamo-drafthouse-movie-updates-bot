@@ -1,6 +1,46 @@
 # los-angeles
 
 ## Movie updates
+### Mon 11/9 7:59pm
+* New movies: Wallace & Gromit: The Classic Shorts
+
+* New screenings: 
+    * [All About My Mother](https://drafthouse.com/los-angeles/show/all-about-my-mother): Fri 11/13 (10:15pm), Sat 11/14 (6:35pm), Mon 11/16 (1:30pm)
+
+    * [Club Kid](https://drafthouse.com/los-angeles/show/club-kid): Fri 11/13 (11:30am, 2:45pm, 6:00pm, 6:45pm, 9:15pm, 10:00pm), Sat 11/14 (11:30am, 2:45pm, 6:00pm, 7:00pm, 9:15pm, 10:15pm), Sun 11/15 (11:30am, 2:45pm, 6:00pm, 6:45pm, 9:15pm, 10:00pm), Mon 11/16 (11:45am, 3:00pm, 6:15pm, 7:00pm, 9:30pm, 10:15pm), Tue 11/17 (11:30am, 2:45pm, 6:00pm, 7:00pm, 9:15pm, 10:15pm), Wed 11/18 (1:00pm, 4:15pm, 6:15pm, 7:30pm, 9:30pm, 10:15pm)
+
+    * [Ebenezer](https://drafthouse.com/los-angeles/show/ebenezer): Fri 11/13 (12:15pm, 10:00pm), Sat 11/14 (12:15pm, 10:00pm), Sun 11/15 (12:15pm, 10:00pm), Mon 11/16 (12:30pm, 3:45pm, 7:00pm, 10:15pm), Tue 11/17 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Wed 11/18 (12:30pm, 3:45pm, 7:00pm, 10:15pm)
+
+    * [Godzilla Minus Zero](https://drafthouse.com/los-angeles/show/godzilla-minus-zero): Fri 11/13 (11:15am, 2:45pm, 6:15pm, 9:45pm), Sat 11/14 (11:30am, 3:00pm, 6:30pm, 10:00pm), Sun 11/15 (11:30am, 3:00pm, 6:30pm, 10:00pm), Mon 11/16 (11:30am, 3:00pm, 6:30pm, 10:00pm), Tue 11/17 (11:30am, 3:00pm, 6:30pm, 10:00pm), Wed 11/18 (11:30am, 3:00pm, 6:30pm, 10:00pm)
+
+    * [How To Rob A Bank](https://drafthouse.com/los-angeles/show/how-to-rob-a-bank): Fri 11/13 (12:40pm, 10:10pm), Sat 11/14 (12:40pm, 10:10pm), Sun 11/15 (12:40pm, 10:15pm), Mon 11/16 (12:40pm, 3:50pm, 7:00pm, 10:10pm), Tue 11/17 (12:40pm, 3:50pm, 7:00pm, 10:10pm), Wed 11/18 (12:40pm, 3:50pm, 7:00pm, 10:10pm)
+
+    * [La Bola Negra](https://drafthouse.com/los-angeles/show/la-bola-negra): Fri 11/13 (12:45pm, 2:30pm, 6:15pm, 9:40pm), Sat 11/14 (10:45am, 2:30pm, 6:15pm, 9:25pm), Sun 11/15 (10:45am, 2:30pm, 6:15pm, 9:25pm), Mon 11/16 (11:50am, 2:10pm, 6:00pm, 9:25pm), Tue 11/17 (10:45am, 2:30pm, 6:15pm, 9:25pm), Wed 11/18 (12:40pm, 2:10pm, 6:00pm, 9:25pm)
+
+    * [Littermates](https://drafthouse.com/los-angeles/show/littermates): Fri 11/13 (4:35pm), Sat 11/14 (9:30pm), Tue 11/17 (10:15pm)
+
+    * [Married To The Mob](https://drafthouse.com/los-angeles/show/married-to-the-mob): Tue 11/17 (1:30pm)
+
+    * [Sad Girl Cinema Club Volver](https://drafthouse.com/los-angeles/show/sad-girl-cinema-club-volver): Sat 11/14 (12:00pm), Sun 11/15 (12:50pm), Mon 11/16 (3:40pm), Tue 11/17 (3:40pm), Wed 11/18 (3:40pm)
+
+    * [The Only Living Pickpocket In New York](https://drafthouse.com/los-angeles/show/the-only-living-pickpocket-in-new-york): Fri 11/13 (12:20pm), Sat 11/14 (1:00pm)
+
+    * [The Searchers](https://drafthouse.com/los-angeles/show/the-searchers): Wed 11/18 (12:25pm)
+
+    * [The Skin I Live In](https://drafthouse.com/los-angeles/show/the-skin-i-live-in): Tue 11/17 (12:25pm)
+
+    * [Victorian Psycho](https://drafthouse.com/los-angeles/show/victorian-psycho): Fri 11/13 (1:30pm, 10:15pm), Sat 11/14 (10:35am, 1:30pm, 10:15pm), Sun 11/15 (10:35am, 1:30pm, 10:15pm), Mon 11/16 (12:30pm, 3:25pm, 6:20pm, 10:25pm), Tue 11/17 (10:35am, 1:30pm, 4:25pm, 7:20pm, 10:15pm), Wed 11/18 (12:35pm, 3:30pm, 6:25pm, 10:15pm)
+
+    * [Wallace Gromit The Classic Shorts](https://drafthouse.com/los-angeles/show/wallace-gromit-the-classic-shorts): Sat 11/14 (3:20pm), Tue 11/17 (10:45am)
+
+    * [Wicker](https://drafthouse.com/los-angeles/show/wicker): Fri 11/13 (4:00pm), Sat 11/14 (6:00pm), Sun 11/15 (5:50pm), Mon 11/16 (4:30pm), Tue 11/17 (4:30pm), Wed 11/18 (4:30pm)
+
+    * [Wild Horse Nine](https://drafthouse.com/los-angeles/show/wild-horse-nine): Fri 11/13 (11:30am, 2:45pm, 6:00pm, 10:10pm), Sat 11/14 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Sun 11/15 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Mon 11/16 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Tue 11/17 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Wed 11/18 (12:00pm, 3:15pm, 6:30pm, 9:45pm)
+
+    * [Wildwood](https://drafthouse.com/los-angeles/show/wildwood): Fri 11/13 (11:25am, 2:50pm, 6:15pm, 10:00pm), Sat 11/14 (11:10am, 2:35pm, 6:00pm, 10:00pm), Sun 11/15 (11:10am, 2:35pm, 6:00pm, 10:00pm), Mon 11/16 (11:10am, 2:35pm, 6:00pm, 9:50pm), Tue 11/17 (11:10am, 2:35pm, 6:00pm, 10:00pm), Wed 11/18 (11:10am, 2:35pm, 6:00pm, 9:50pm)
+
+    * [You Can See Everything](https://drafthouse.com/los-angeles/show/you-can-see-everything): Fri 11/13 (11:50am, 1:50pm, 6:00pm, 9:15pm), Sat 11/14 (11:00am, 3:10pm, 7:20pm, 9:00pm), Sun 11/15 (11:00am, 3:10pm, 7:20pm, 9:00pm), Mon 11/16 (11:25am, 3:35pm, 7:45pm, 9:15pm), Tue 11/17 (11:00am, 3:10pm, 7:20pm, 9:20pm), Wed 11/18 (11:25am, 3:35pm, 7:45pm, 9:20pm)
+
 ### Mon 11/9 1:23pm
 * New movies: Behemoth!, Club Kid
 
