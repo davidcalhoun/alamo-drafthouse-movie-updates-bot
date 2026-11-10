@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 11/10 11:57am
+* New movies: Billy Joel Tonight
+
+* New screenings: 
+    * [Billy Joel Tonight](https://drafthouse.com/raleigh/show/billy-joel-tonight): Thu 12/10 (6:30pm)
+
 ### Mon 11/9 7:07pm
 * New movies: Victorian Psycho, We Own the Night, Everest: The Other Side, The Scout
 
