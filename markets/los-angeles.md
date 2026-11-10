@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 11/10 12:20pm
+* New movies: Mouse, Billy Joel Tonight
+
+* New screenings: 
+    * [Billy Joel Tonight](https://drafthouse.com/los-angeles/show/billy-joel-tonight): Thu 12/10 (7:00pm)
+
+    * [Mouse](https://drafthouse.com/los-angeles/show/mouse): Fri 11/13 (3:30pm), Sat 11/14 (3:45pm), Sun 11/15 (12:15pm, 3:30pm), Mon 11/16 (12:40pm, 3:50pm), Tue 11/17 (12:30pm, 3:45pm), Wed 11/18 (11:45am, 3:00pm)
+
 ### Mon 11/9 7:59pm
 * New movies: Wallace & Gromit: The Classic Shorts
 
