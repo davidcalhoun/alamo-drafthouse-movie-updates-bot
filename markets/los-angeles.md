@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Wed 11/11 7:57am
+* New movies: Crunchyroll Anime Nights Sneak Peek 12/14/2026
+
+* New screenings: 
+    * [Crunchyroll Anime Nights Sneak Peek 12 14 2026](https://drafthouse.com/los-angeles/show/crunchyroll-anime-nights-sneak-peek-12-14-2026): Mon 12/14 (6:45pm)
+
 ### Tue 11/10 12:20pm
 * New movies: Mouse, Billy Joel Tonight
 
