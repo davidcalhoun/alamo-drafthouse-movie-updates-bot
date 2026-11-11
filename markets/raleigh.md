@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Wed 11/11 1:34pm
+* New movies: Crunchyroll Anime Nights Sneak Peek 12/14/2026
+
+* New screenings: 
+    * [Crunchyroll Anime Nights Sneak Peek 12 14 2026](https://drafthouse.com/raleigh/show/crunchyroll-anime-nights-sneak-peek-12-14-2026): Mon 12/14 (7:15pm)
+
 ### Tue 11/10 11:57am
 * New movies: Billy Joel Tonight
 
