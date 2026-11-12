@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Thu 11/12 4:21am
+* New movies: Violent Night 2, Violent Night 2
+
+* New screenings: 
+    * [Movie Party Violent Night 2](https://drafthouse.com/los-angeles/show/movie-party-violent-night-2): Thu 12/3 (7:00pm)
+
+    * [Violent Night 2](https://drafthouse.com/los-angeles/show/violent-night-2): Thu 12/3 (4:00pm, 10:10pm), Fri 12/4 (4:15pm, 7:15pm, 10:15pm), Sat 12/5 (4:15pm, 7:15pm, 10:15pm), Sun 12/6 (4:15pm, 7:15pm, 10:15pm)
+
 ### Wed 11/11 7:57am
 * New movies: Crunchyroll Anime Nights Sneak Peek 12/14/2026
 
