@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Thu 11/12 1:07pm
+* New movies: Violent Night 2, Violent Night 2
+
+* New screenings: 
+    * [Movie Party Violent Night 2](https://drafthouse.com/raleigh/show/movie-party-violent-night-2): Thu 12/3 (7:00pm)
+
+    * [Violent Night 2](https://drafthouse.com/raleigh/show/violent-night-2): Thu 12/3 (10:00pm), Fri 12/4 (7:00pm, 10:00pm), Sat 12/5 (7:00pm, 10:00pm), Sun 12/6 (7:00pm, 10:00pm)
+
 ### Wed 11/11 1:34pm
 * New movies: Crunchyroll Anime Nights Sneak Peek 12/14/2026
 
