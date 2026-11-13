@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Fri 11/13 11:06am
+* New movies: Elsinore
+
+* New screenings: 
+    * [Elsinore](https://drafthouse.com/raleigh/show/elsinore): Thu 12/3 (6:15pm, 9:15pm), Fri 12/4 (6:15pm, 9:15pm), Sat 12/5 (6:15pm, 9:15pm)
+
 ### Thu 11/12 1:07pm
 * New movies: Violent Night 2, Violent Night 2
 
