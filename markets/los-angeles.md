@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Fri 11/13 3:23pm
+* New movies: Hexed
+
+* New screenings: 
+    * [Club Kid](https://drafthouse.com/los-angeles/show/club-kid): Sun 11/15 (3:30pm)
+
+    * [Hexed](https://drafthouse.com/los-angeles/show/hexed): Tue 11/24 (3:00pm, 6:00pm, 9:00pm), Wed 11/25 (10:15am, 1:15pm, 4:15pm, 7:15pm, 10:15pm), Thu 11/26 (12:45pm, 3:45pm, 6:45pm), Fri 11/27 (10:30am, 1:30pm, 4:30pm, 7:30pm), Sat 11/28 (10:30am, 1:30pm, 4:30pm, 7:30pm), Sun 11/29 (10:30am, 1:30pm, 4:30pm, 7:30pm)
+
 ### Fri 11/13 1:15am
 * New movies: Chunks
 
