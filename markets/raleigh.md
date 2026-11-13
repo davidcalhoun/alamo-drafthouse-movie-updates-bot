@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Fri 11/13 5:29pm
+
+* New screenings: 
+    * [Elsinore](https://drafthouse.com/raleigh/show/elsinore): Sun 12/6 (6:15pm, 9:15pm)
+
 ### Fri 11/13 11:06am
 * New movies: Elsinore
 
