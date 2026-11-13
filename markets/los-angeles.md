@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 11/13 1:15am
+* New movies: Chunks
+
+* New screenings: 
+    * [Chunks](https://drafthouse.com/los-angeles/show/chunks): Sun 11/15 (10:30pm)
+
 ### Thu 11/12 4:21am
 * New movies: Violent Night 2, Violent Night 2
 
