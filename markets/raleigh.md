@@ -1,6 +1,11 @@
 # raleigh
 
 ## Movie updates
+### Sat 11/14 5:07am
+
+* New screenings: 
+    * [Godzilla Minus Zero](https://drafthouse.com/raleigh/show/godzilla-minus-zero): Sat 11/14 (10:45pm)
+
 ### Fri 11/13 5:29pm
 
 * New screenings: 
