@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Sun 11/15 4:39pm
+* New movies: Prince 3121 Las Vegas Live, The Vile, Lucid
+
+* New screenings: 
+    * [Lucid](https://drafthouse.com/raleigh/show/lucid): Mon 12/7 (9:30pm)
+
+    * [Prince 3121 Las Vegas Live](https://drafthouse.com/raleigh/show/prince-3121-las-vegas-live): Thu 12/3 (7:30pm), Fri 12/4 (6:45pm), Sun 12/6 (4:00pm)
+
+    * [The Vile](https://drafthouse.com/raleigh/show/the-vile): Tue 11/24 (6:00pm)
+
 ### Sat 11/14 5:07am
 
 * New screenings: 
