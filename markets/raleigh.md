@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Mon 11/16 3:17pm
+* New movies: The Holiday
+
+* New screenings: 
+    * [Special Event The Holiday 20th Anniversary](https://drafthouse.com/raleigh/show/special-event-the-holiday-20th-anniversary): Fri 12/11 (3:00pm), Sat 12/12 (11:00am), Sun 12/13 (11:00am)
+
 ### Sun 11/15 4:39pm
 * New movies: Prince 3121 Las Vegas Live, The Vile, Lucid
 
