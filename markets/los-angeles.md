@@ -1,6 +1,30 @@
 # los-angeles
 
 ## Movie updates
+### Mon 11/16 12:50pm
+* New movies: The Holiday, The Lord of the Rings: The Rings of Power, The Vile, Lucid
+
+* New screenings: 
+    * [Bitter Christmas](https://drafthouse.com/los-angeles/show/bitter-christmas): Thu 11/26 (10:00pm)
+
+    * [Elsinore](https://drafthouse.com/los-angeles/show/elsinore): Thu 11/26 (10:00pm)
+
+    * [Focker In Law](https://drafthouse.com/los-angeles/show/focker-in-law): Thu 11/26 (10:30pm)
+
+    * [Hexed](https://drafthouse.com/los-angeles/show/hexed): Thu 11/26 (9:45pm)
+
+    * [I Play Rocky](https://drafthouse.com/los-angeles/show/i-play-rocky): Thu 11/26 (10:00pm)
+
+    * [Lucid](https://drafthouse.com/los-angeles/show/lucid): Mon 12/7 (10:00pm)
+
+    * [Special Event The Holiday 20th Anniversary](https://drafthouse.com/los-angeles/show/special-event-the-holiday-20th-anniversary): Fri 12/11 (12:00pm), Sat 12/12 (12:15pm), Sun 12/13 (12:15pm)
+
+    * [Special Event The Lord Of The Rings The Rings Of Power Season 3 Episode 7](https://drafthouse.com/los-angeles/show/special-event-the-lord-of-the-rings-the-rings-of-power-season-3-episode-7): Mon 11/23 (7:00pm)
+
+    * [The Hunger Games Sunrise On The Reaping](https://drafthouse.com/los-angeles/show/the-hunger-games-sunrise-on-the-reaping): Thu 11/26 (9:30pm)
+
+    * [The Vile](https://drafthouse.com/los-angeles/show/the-vile): Tue 11/24 (7:45pm)
+
 ### Fri 11/13 3:23pm
 * New movies: Hexed
 
