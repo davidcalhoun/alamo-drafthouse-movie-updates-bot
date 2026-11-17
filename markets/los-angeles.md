@@ -1,6 +1,48 @@
 # los-angeles
 
 ## Movie updates
+### Mon 11/16 7:30pm
+* New movies: Prince 3121 Las Vegas Live
+
+* New screenings: 
+    * [All About My Mother](https://drafthouse.com/los-angeles/show/all-about-my-mother): Thu 11/19 (2:00pm)
+
+    * [Club Kid](https://drafthouse.com/los-angeles/show/club-kid): Thu 11/19 (11:45am, 12:30pm, 3:00pm, 3:45pm, 7:00pm, 10:15pm), Fri 11/20 (10:00am, 1:15pm, 4:30pm, 7:45pm, 10:00pm), Sat 11/21 (10:00am, 1:15pm, 4:30pm, 7:45pm, 10:10pm), Sun 11/22 (10:00am, 1:15pm, 4:30pm, 6:00pm, 10:00pm), Mon 11/23 (10:00am, 1:15pm, 4:30pm, 7:45pm, 10:00pm)
+
+    * [Ebenezer](https://drafthouse.com/los-angeles/show/ebenezer): Thu 11/19 (12:15pm, 3:30pm, 6:45pm, 10:00pm), Fri 11/20 (11:45am, 3:00pm, 6:15pm, 10:25pm), Sat 11/21 (11:45am, 3:00pm, 6:15pm, 10:10pm), Sun 11/22 (10:20am, 3:00pm, 6:15pm, 10:10pm), Mon 11/23 (11:45am, 3:00pm, 6:15pm)
+
+    * [Godzilla Minus Zero](https://drafthouse.com/los-angeles/show/godzilla-minus-zero): Thu 11/19 (11:00am, 2:00pm), Fri 11/20 (11:30am, 10:00pm), Sat 11/21 (2:45pm, 10:00pm), Sun 11/22 (4:15pm, 10:00pm), Mon 11/23 (2:45pm, 10:00pm)
+
+    * [How To Rob A Bank](https://drafthouse.com/los-angeles/show/how-to-rob-a-bank): Thu 11/19 (12:50pm, 4:00pm, 10:00pm), Fri 11/20 (3:20pm, 10:10pm), Sat 11/21 (3:00pm, 10:15pm), Sun 11/22 (3:00pm, 10:15pm), Mon 11/23 (12:40pm, 3:50pm, 7:00pm, 10:10pm)
+
+    * [La Bola Negra](https://drafthouse.com/los-angeles/show/la-bola-negra): Thu 11/19 (2:30pm), Fri 11/20 (12:20pm, 6:15pm), Sat 11/21 (12:20pm, 6:15pm), Sun 11/22 (12:20pm, 7:45pm), Mon 11/23 (12:20pm, 6:15pm)
+
+    * [Mouse](https://drafthouse.com/los-angeles/show/mouse): Thu 11/19 (11:35am)
+
+    * [Paper Tiger](https://drafthouse.com/los-angeles/show/paper-tiger): Thu 11/19 (9:35pm), Fri 11/20 (10:10am, 1:15pm, 10:30pm), Sat 11/21 (10:10am, 1:15pm, 10:30pm), Sun 11/22 (10:10am, 1:15pm, 10:30pm)
+
+    * [Planes Trains Automobiles](https://drafthouse.com/los-angeles/show/planes-trains-automobiles): Mon 11/23 (4:00pm)
+
+    * [Prince 3121 Las Vegas Live](https://drafthouse.com/los-angeles/show/prince-3121-las-vegas-live): Thu 12/3 (7:00pm), Fri 12/4 (7:00pm), Sun 12/6 (4:00pm)
+
+    * [Queer Film Theory 101 Point Blank 1967](https://drafthouse.com/los-angeles/show/queer-film-theory-101-point-blank-1967): Sat 11/21 (6:45pm)
+
+    * [The Cook The Thief His Wife Her Lover](https://drafthouse.com/los-angeles/show/the-cook-the-thief-his-wife-her-lover): Mon 11/23 (9:50pm)
+
+    * [The Hunger Games Sunrise On The Reaping](https://drafthouse.com/los-angeles/show/the-hunger-games-sunrise-on-the-reaping): Thu 11/19 (5:00pm, 5:30pm, 6:15pm, 7:15pm, 8:00pm, 9:10pm), Fri 11/20 (10:25am, 11:20am, 1:30pm, 2:20pm, 3:00pm, 5:30pm, 6:30pm), Sat 11/21 (10:45am, 11:00am, 1:30pm, 3:00pm, 5:30pm, 6:15pm, 7:00pm), Sun 11/22 (11:00am, 11:30am, 12:15pm, 1:30pm, 5:30pm, 6:15pm, 7:45pm, 9:10pm), Mon 11/23 (10:45am, 11:00am, 11:30am, 12:00pm, 1:30pm, 3:00pm, 3:30pm, 5:30pm, 7:30pm)
+
+    * [Victorian Psycho](https://drafthouse.com/los-angeles/show/victorian-psycho): Thu 11/19 (10:10pm), Fri 11/20 (10:30pm), Sat 11/21 (10:30pm), Sun 11/22 (10:30pm), Mon 11/23 (10:30pm)
+
+    * [Wallace Gromit The Classic Shorts](https://drafthouse.com/los-angeles/show/wallace-gromit-the-classic-shorts): Thu 11/19 (11:20am)
+
+    * [Wicker](https://drafthouse.com/los-angeles/show/wicker): Thu 11/19 (5:00pm)
+
+    * [Wild Horse Nine](https://drafthouse.com/los-angeles/show/wild-horse-nine): Thu 11/19 (2:45pm, 6:00pm), Fri 11/20 (4:10pm, 7:20pm), Sat 11/21 (4:10pm, 7:20pm), Sun 11/22 (4:10pm, 7:20pm), Mon 11/23 (4:10pm, 7:20pm)
+
+    * [Wildwood](https://drafthouse.com/los-angeles/show/wildwood): Thu 11/19 (12:00pm, 1:30pm)
+
+    * [You Can See Everything](https://drafthouse.com/los-angeles/show/you-can-see-everything): Thu 11/19 (11:25am, 3:35pm, 7:45pm, 9:00pm), Fri 11/20 (12:00pm, 1:50pm, 6:00pm, 9:25pm), Sat 11/21 (11:45am, 1:50pm, 6:00pm, 9:25pm), Sun 11/22 (10:50am, 1:50pm, 6:00pm, 9:25pm), Mon 11/23 (10:35am, 2:45pm, 6:45pm, 9:25pm)
+
 ### Mon 11/16 12:50pm
 * New movies: The Holiday, The Lord of the Rings: The Rings of Power, The Vile, Lucid
 
