@@ -1,6 +1,12 @@
 # raleigh
 
 ## Movie updates
+### Tue 11/17 4:42pm
+* New movies: The Departed
+
+* New screenings: 
+    * [Special Event The Departed 20th Anniversary](https://drafthouse.com/raleigh/show/special-event-the-departed-20th-anniversary): Sun 12/6 (2:30pm)
+
 ### Mon 11/16 10:40pm
 * New movies: Club Kid, The Searchers
 
