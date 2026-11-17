@@ -1,6 +1,38 @@
 # raleigh
 
 ## Movie updates
+### Mon 11/16 10:40pm
+* New movies: Club Kid, The Searchers
+
+* New screenings: 
+    * [Club Kid](https://drafthouse.com/raleigh/show/club-kid): Thu 11/19 (2:05pm, 6:00pm, 9:15pm), Fri 11/20 (11:00am, 2:30pm, 6:00pm, 9:15pm), Sat 11/21 (11:00am, 2:15pm, 6:00pm, 9:15pm), Sun 11/22 (11:00am, 2:30pm, 6:00pm, 9:15pm), Mon 11/23 (11:30am, 3:00pm, 6:15pm, 9:30pm)
+
+    * [Ebenezer](https://drafthouse.com/raleigh/show/ebenezer): Thu 11/19 (1:00pm, 4:00pm, 7:45pm, 10:45pm), Fri 11/20 (1:00pm, 4:15pm, 7:45pm, 10:45pm), Sat 11/21 (1:00pm, 4:15pm, 7:15pm, 10:15pm), Sun 11/22 (1:00pm, 4:15pm, 7:45pm, 10:45pm), Mon 11/23 (12:30pm, 3:30pm, 7:45pm, 10:45pm)
+
+    * [Godzilla Minus Zero](https://drafthouse.com/raleigh/show/godzilla-minus-zero): Thu 11/19 (11:30am, 11:30am, 3:00pm, 6:20pm, 9:45pm), Fri 11/20 (1:00pm, 4:30pm, 7:15pm, 10:35pm), Sat 11/21 (12:45pm, 4:30pm, 7:15pm, 10:35pm), Sun 11/22 (1:00pm, 5:00pm, 7:15pm, 10:35pm), Mon 11/23 (1:00pm, 4:30pm, 7:15pm, 10:35pm)
+
+    * [How To Rob A Bank](https://drafthouse.com/raleigh/show/how-to-rob-a-bank): Thu 11/19 (12:30pm, 3:35pm, 7:00pm, 10:15pm), Fri 11/20 (12:00pm, 3:30pm, 6:45pm, 10:05pm), Sat 11/21 (11:40am, 2:45pm, 6:00pm, 9:15pm), Sun 11/22 (1:15pm, 4:30pm, 6:45pm, 9:50pm), Mon 11/23 (12:00pm, 3:15pm, 6:30pm, 10:30pm)
+
+    * [I Play Rocky](https://drafthouse.com/raleigh/show/i-play-rocky): Fri 11/20 (10:30pm), Mon 11/23 (11:00am, 2:30pm, 6:00pm, 9:15pm)
+
+    * [La Bola Negra](https://drafthouse.com/raleigh/show/la-bola-negra): Thu 11/19 (12:00pm)
+
+    * [The Cat In The Hat 2026](https://drafthouse.com/raleigh/show/the-cat-in-the-hat-2026): Thu 11/19 (2:30pm), Fri 11/20 (11:30am), Sat 11/21 (11:30am), Sun 11/22 (12:00pm), Mon 11/23 (12:30pm)
+
+    * [The Hunger Games Sunrise On The Reaping](https://drafthouse.com/raleigh/show/the-hunger-games-sunrise-on-the-reaping): Thu 11/19 (1:00pm, 2:35pm, 3:05pm, 4:45pm, 5:30pm, 6:30pm, 7:00pm), Fri 11/20 (11:30am, 12:00pm, 1:30pm, 2:30pm, 3:15pm, 4:00pm, 5:15pm, 6:15pm, 7:00pm, 8:00pm), Sat 11/21 (12:00pm, 12:30pm, 1:30pm, 4:00pm, 5:15pm, 6:15pm, 7:45pm, 8:15pm, 10:05pm), Sun 11/22 (11:30am, 12:30pm, 1:30pm, 3:15pm, 4:30pm, 5:15pm, 8:30pm, 8:30pm, 9:30pm), Mon 11/23 (11:00am, 12:00pm, 1:00pm, 1:30pm, 2:45pm, 3:30pm, 3:45pm, 5:00pm, 5:30pm, 6:30pm, 7:30pm, 9:00pm, 9:30pm, 10:00pm, 10:30pm)
+
+    * [The Searchers](https://drafthouse.com/raleigh/show/the-searchers): Thu 11/19 (11:00am)
+
+    * [Victorian Psycho](https://drafthouse.com/raleigh/show/victorian-psycho): Thu 11/19 (10:30pm), Fri 11/20 (10:45pm)
+
+    * [Wallace Gromit The Classic Shorts](https://drafthouse.com/raleigh/show/wallace-gromit-the-classic-shorts): Thu 11/19 (12:00pm)
+
+    * [Wicker](https://drafthouse.com/raleigh/show/wicker): Thu 11/19 (11:00am)
+
+    * [Wild Horse Nine](https://drafthouse.com/raleigh/show/wild-horse-nine): Thu 11/19 (1:30pm, 4:30pm, 8:30pm, 10:15pm), Fri 11/20 (12:30pm, 3:30pm, 6:30pm, 9:45pm), Sat 11/21 (12:30pm, 3:30pm, 6:30pm, 9:45pm), Sun 11/22 (12:00pm, 3:00pm, 6:15pm, 10:15pm), Mon 11/23 (1:30pm, 4:30pm, 7:15pm, 10:15pm)
+
+    * [You Can See Everything](https://drafthouse.com/raleigh/show/you-can-see-everything): Thu 11/19 (9:15pm), Sat 11/21 (9:00pm), Sun 11/22 (9:00pm)
+
 ### Mon 11/16 3:17pm
 * New movies: The Holiday
 
