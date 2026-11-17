@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Tue 11/17 1:35pm
+* New movies: The Departed
+
+* New screenings: 
+    * [Special Event The Departed 20th Anniversary](https://drafthouse.com/los-angeles/show/special-event-the-departed-20th-anniversary): Sun 12/6 (2:15pm)
+
 ### Mon 11/16 7:30pm
 * New movies: Prince 3121 Las Vegas Live
 
