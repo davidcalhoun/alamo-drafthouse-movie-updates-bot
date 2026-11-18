@@ -1,6 +1,18 @@
 # los-angeles
 
 ## Movie updates
+### Wed 11/18 1:11pm
+* New movies: The Odyssey, Until Dawn 2: Terror Til Dawn Horror Marathon, Violent Night 2, Red Snow
+
+* New screenings: 
+    * [Free Victory Screening Until Dawn 2 Terror Til Dawn Horror Marathon](https://drafthouse.com/los-angeles/show/free-victory-screening-until-dawn-2-terror-til-dawn-horror-marathon): Fri 12/11 (7:00pm)
+
+    * [Live Q A Violent Night 2](https://drafthouse.com/los-angeles/show/live-q-a-violent-night-2): Fri 12/4 (7:15pm)
+
+    * [Red Snow](https://drafthouse.com/los-angeles/show/red-snow): Sat 12/12 (10:30pm)
+
+    * [The Odyssey](https://drafthouse.com/los-angeles/show/the-odyssey): Fri 12/11 (3:30pm), Sat 12/12 (3:45pm), Sun 12/13 (3:45pm)
+
 ### Tue 11/17 1:35pm
 * New movies: The Departed
 
