@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Wed 11/18 4:18pm
+* New movies: Red Snow, HDR BY BARCO: THE ODYSSEY
+
+* New screenings: 
+    * [Hdr By Barco The Odyssey](https://drafthouse.com/raleigh/show/hdr-by-barco-the-odyssey): Fri 12/11 (11:00am), Sat 12/12 (3:00pm), Sun 12/13 (11:00am)
+
+    * [Red Snow](https://drafthouse.com/raleigh/show/red-snow): Fri 12/11 (9:45pm)
+
 ### Tue 11/17 4:42pm
 * New movies: The Departed
 
