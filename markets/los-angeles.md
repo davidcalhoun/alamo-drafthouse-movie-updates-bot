@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Thu 11/19 12:14pm
+* New movies: Grotesqqque
+
+* New screenings: 
+    * [Grotesqqque](https://drafthouse.com/los-angeles/show/grotesqqque): Thu 12/3 (4:15pm, 7:15pm, 10:15pm), Fri 12/4 (4:20pm, 7:20pm, 10:20pm), Sat 12/5 (4:15pm, 7:15pm, 10:15pm), Sun 12/6 (4:15pm, 7:15pm, 10:15pm), Mon 12/7 (4:15pm, 7:15pm, 10:15pm), Tue 12/8 (4:15pm, 7:15pm, 10:15pm), Wed 12/9 (4:15pm, 7:15pm, 10:15pm)
+
 ### Wed 11/18 6:59pm
 
 * New screenings: 
