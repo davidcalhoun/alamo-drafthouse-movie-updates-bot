@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Wed 11/18 6:59pm
+
+* New screenings: 
+    * [Bitter Christmas](https://drafthouse.com/los-angeles/show/bitter-christmas): Fri 11/27 (10:00am, 1:00pm)
+
+    * [Elsinore](https://drafthouse.com/los-angeles/show/elsinore): Fri 11/27 (12:30pm)
+
 ### Wed 11/18 1:11pm
 * New movies: The Odyssey, Until Dawn 2: Terror Til Dawn Horror Marathon, Violent Night 2, Red Snow
 
