@@ -1,6 +1,16 @@
 # raleigh
 
 ## Movie updates
+### Thu 11/19 9:58pm
+* New movies: Focker In-Law
+
+* New screenings: 
+    * [Focker In Law](https://drafthouse.com/raleigh/show/focker-in-law): Thu 11/26 (12:00pm, 3:30pm, 7:00pm, 10:00pm)
+
+    * [Hexed](https://drafthouse.com/raleigh/show/hexed): Thu 11/26 (12:30pm)
+
+    * [The Hunger Games Sunrise On The Reaping](https://drafthouse.com/raleigh/show/the-hunger-games-sunrise-on-the-reaping): Thu 11/26 (11:00am, 3:00pm)
+
 ### Wed 11/18 4:18pm
 * New movies: Red Snow, HDR BY BARCO: THE ODYSSEY
 
