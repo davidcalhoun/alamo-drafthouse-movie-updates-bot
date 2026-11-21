@@ -1,6 +1,13 @@
 # raleigh
 
 ## Movie updates
+### Sat 11/21 6:01pm
+
+* New screenings: 
+    * [Focker In Law](https://drafthouse.com/raleigh/show/focker-in-law): Fri 11/27 (3:00pm, 7:00pm, 10:00pm)
+
+    * [The Hunger Games Sunrise On The Reaping](https://drafthouse.com/raleigh/show/the-hunger-games-sunrise-on-the-reaping): Fri 11/27 (11:00am, 3:00pm)
+
 ### Thu 11/19 9:58pm
 * New movies: Focker In-Law
 
