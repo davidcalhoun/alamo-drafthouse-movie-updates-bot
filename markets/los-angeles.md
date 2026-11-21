@@ -1,6 +1,39 @@
 # los-angeles
 
 ## Movie updates
+### Sat 11/21 1:34pm
+
+* New screenings: 
+    * [Avengers Doomsday](https://drafthouse.com/los-angeles/show/avengers-doomsday): Fri 12/25 (10:15am, 11:00am, 2:15pm, 3:00pm, 6:15pm, 7:45pm, 9:00pm), Sat 12/26 (10:15am, 11:00am, 2:15pm, 3:00pm, 6:15pm, 7:45pm, 9:00pm), Sun 12/27 (10:15am, 10:45am, 2:15pm, 2:45pm, 6:15pm, 7:45pm, 9:00pm), Mon 12/28 (10:15am, 10:45am, 2:15pm, 2:45pm, 6:15pm, 7:45pm, 9:00pm)
+
+    * [Bitter Christmas](https://drafthouse.com/los-angeles/show/bitter-christmas): Wed 11/25 (10:00am, 1:00pm, 10:00pm), Thu 11/26 (1:00pm)
+
+    * [Club Kid](https://drafthouse.com/los-angeles/show/club-kid): Tue 11/24 (10:20am, 1:30pm, 4:40pm, 7:50pm, 10:20pm), Wed 11/25 (11:30am, 2:45pm, 6:00pm, 9:30pm), Thu 11/26 (12:00pm, 3:15pm, 6:30pm, 9:45pm)
+
+    * [Dune Part Three](https://drafthouse.com/los-angeles/show/dune-part-three): Fri 12/25 (10:40am, 2:20pm, 6:00pm, 9:40pm), Sat 12/26 (10:40am, 2:20pm, 6:00pm, 9:40pm), Sun 12/27 (10:40am, 2:20pm, 6:00pm, 9:40pm), Mon 12/28 (10:40am, 2:20pm, 6:00pm, 9:40pm)
+
+    * [Ebenezer](https://drafthouse.com/los-angeles/show/ebenezer): Tue 11/24 (11:40am, 2:50pm, 6:00pm, 10:10pm)
+
+    * [Elsinore](https://drafthouse.com/los-angeles/show/elsinore): Tue 11/24 (10:00pm), Wed 11/25 (12:30pm, 10:00pm), Thu 11/26 (12:30pm)
+
+    * [How To Rob A Bank](https://drafthouse.com/los-angeles/show/how-to-rob-a-bank): Tue 11/24 (4:35pm, 10:10pm)
+
+    * [La Bola Negra](https://drafthouse.com/los-angeles/show/la-bola-negra): Tue 11/24 (12:00pm, 3:40pm), Thu 11/26 (1:50pm)
+
+    * [Paper Tiger](https://drafthouse.com/los-angeles/show/paper-tiger): Tue 11/24 (10:00am, 1:05pm, 4:10pm, 7:15pm, 10:20pm), Wed 11/25 (10:10am, 1:15pm, 4:20pm, 7:25pm, 10:30pm), Thu 11/26 (12:30pm, 3:35pm, 6:40pm, 9:45pm)
+
+    * [Planes Trains Automobiles](https://drafthouse.com/los-angeles/show/planes-trains-automobiles): Tue 11/24 (12:50pm)
+
+    * [Queer Film Theory 101 Point Blank 1967](https://drafthouse.com/los-angeles/show/queer-film-theory-101-point-blank-1967): Tue 11/24 (10:25am)
+
+    * [The Cook The Thief His Wife Her Lover](https://drafthouse.com/los-angeles/show/the-cook-the-thief-his-wife-her-lover): Tue 11/24 (1:15pm)
+
+    * [The Hunger Games Sunrise On The Reaping](https://drafthouse.com/los-angeles/show/the-hunger-games-sunrise-on-the-reaping): Tue 11/24 (11:00am, 11:30am, 3:00pm), Wed 11/25 (11:30am, 12:15pm, 3:30pm, 7:30pm), Thu 11/26 (12:15pm, 4:15pm, 7:30pm)
+
+    * [Victorian Psycho](https://drafthouse.com/los-angeles/show/victorian-psycho): Tue 11/24 (10:30pm), Wed 11/25 (10:30pm)
+
+    * [Wild Horse Nine](https://drafthouse.com/los-angeles/show/wild-horse-nine): Tue 11/24 (3:50pm, 7:00pm), Wed 11/25 (4:00pm), Thu 11/26 (5:45pm, 9:30pm)
+
 ### Thu 11/19 12:14pm
 * New movies: Grotesqqque
 
