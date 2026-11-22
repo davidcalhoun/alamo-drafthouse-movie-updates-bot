@@ -1,6 +1,13 @@
 # los-angeles
 
 ## Movie updates
+### Sat 11/21 5:57pm
+
+* New screenings: 
+    * [Avengers Doomsday](https://drafthouse.com/los-angeles/show/avengers-doomsday): Mon 12/21 (9:00am, 11:00am, 1:00pm, 3:00pm, 5:00pm, 7:00pm, 9:00pm, 10:00pm), Tue 12/22 (9:00am, 11:00am, 1:00pm, 3:00pm, 5:00pm, 7:00pm, 9:00pm, 10:00pm), Wed 12/23 (9:00am, 11:00am, 1:00pm, 3:00pm, 5:00pm, 7:00pm, 9:00pm, 10:00pm), Thu 12/24 (10:00am, 10:45am, 2:00pm, 2:45pm, 6:00pm, 7:00pm), Tue 12/29 (10:30am, 11:30am, 2:30pm, 3:30pm, 6:15pm, 7:30pm, 9:00pm), Wed 12/30 (10:30am, 11:30am, 2:30pm, 3:30pm, 6:30pm, 7:30pm, 9:00pm), Thu 12/31 (10:00am, 10:45am, 2:00pm, 2:45pm, 6:00pm, 6:45pm)
+
+    * [Dune Part Three](https://drafthouse.com/los-angeles/show/dune-part-three): Wed 12/23 (10:40am, 2:20pm, 6:00pm, 9:40pm), Thu 12/24 (11:10am, 2:50pm, 6:30pm), Tue 12/29 (10:40am, 2:20pm, 6:00pm, 9:40pm), Wed 12/30 (10:40am, 2:20pm, 6:00pm, 9:40pm), Thu 12/31 (11:00am, 2:40pm, 6:20pm)
+
 ### Sat 11/21 1:34pm
 
 * New screenings: 
