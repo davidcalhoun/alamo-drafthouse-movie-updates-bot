@@ -1,6 +1,15 @@
 # raleigh
 
 ## Movie updates
+### Sat 11/21 9:58pm
+
+* New screenings: 
+    * [Focker In Law](https://drafthouse.com/raleigh/show/focker-in-law): Sat 11/28 (12:00pm, 3:30pm, 7:00pm, 10:00pm), Sun 11/29 (12:30pm, 3:00pm, 7:00pm, 10:00pm), Mon 11/30 (12:00pm, 3:30pm, 7:00pm, 10:00pm)
+
+    * [Hexed](https://drafthouse.com/raleigh/show/hexed): Mon 11/30 (12:30pm, 3:00pm, 6:30pm, 9:30pm)
+
+    * [The Hunger Games Sunrise On The Reaping](https://drafthouse.com/raleigh/show/the-hunger-games-sunrise-on-the-reaping): Sat 11/28 (11:00am, 3:00pm), Sun 11/29 (11:00am, 3:00pm), Mon 11/30 (11:00am, 3:00pm, 6:00pm, 10:00pm)
+
 ### Sat 11/21 6:01pm
 
 * New screenings: 
