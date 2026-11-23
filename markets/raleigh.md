@@ -1,6 +1,15 @@
 # raleigh
 
 ## Movie updates
+### Mon 11/23 3:53am
+
+* New screenings: 
+    * [Advance Screening Dune Part Three Hdr By Barco Insider Screening](https://drafthouse.com/raleigh/show/advance-screening-dune-part-three-hdr-by-barco-insider-screening): Sat 12/26 (2:15pm), Sun 12/27 (2:15pm), Mon 12/28 (10:00pm), Tue 12/29 (10:00pm), Wed 12/30 (10:00pm)
+
+    * [Avengers Doomsday](https://drafthouse.com/raleigh/show/avengers-doomsday): Fri 12/25 (10:00am, 2:00pm, 6:00pm, 10:00pm), Sat 12/26 (10:15am, 6:00pm, 10:40pm), Sun 12/27 (10:15am, 6:00pm, 10:40pm), Mon 12/28 (10:00am, 6:00pm), Tue 12/29 (10:00am, 6:00pm), Wed 12/30 (9:30am, 10:00am, 1:30pm, 5:30pm, 6:00pm, 9:30pm), Thu 12/31 (11:30am, 1:45pm, 6:00pm)
+
+    * [Dune Part Three](https://drafthouse.com/raleigh/show/dune-part-three): Fri 12/25 (8:30am, 12:05pm, 3:40pm, 7:00pm, 10:35pm), Sat 12/26 (8:00am, 11:30am, 2:50pm, 6:30pm, 10:30pm), Sun 12/27 (8:00am, 11:30am, 2:50pm, 6:30pm, 10:30pm), Mon 12/28 (11:30am, 3:15pm, 7:00pm, 10:35pm), Tue 12/29 (11:30am, 3:15pm, 7:00pm, 10:35pm), Wed 12/30 (11:30am, 3:15pm, 7:00pm, 10:35pm), Thu 12/31 (11:00am, 3:00pm, 7:00pm)
+
 ### Sat 11/21 9:58pm
 
 * New screenings: 
