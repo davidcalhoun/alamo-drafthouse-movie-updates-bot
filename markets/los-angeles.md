@@ -1,6 +1,15 @@
 # los-angeles
 
 ## Movie updates
+### Mon 11/23 11:04am
+
+* New screenings: 
+    * [Ebenezer](https://drafthouse.com/los-angeles/show/ebenezer): Wed 11/25 (12:30pm), Thu 11/26 (1:00pm)
+
+    * [Godzilla Minus Zero](https://drafthouse.com/los-angeles/show/godzilla-minus-zero): Tue 11/24 (11:30am, 9:45pm), Wed 11/25 (4:15pm)
+
+    * [You Can See Everything](https://drafthouse.com/los-angeles/show/you-can-see-everything): Tue 11/24 (10:00am, 2:10pm, 6:15pm, 9:10pm), Wed 11/25 (10:40am, 2:50pm, 7:00pm, 9:15pm), Thu 11/26 (12:30pm, 1:45pm, 6:00pm, 8:15pm)
+
 ### Sat 11/21 5:57pm
 
 * New screenings: 
