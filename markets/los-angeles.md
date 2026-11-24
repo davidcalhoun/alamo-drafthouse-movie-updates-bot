@@ -1,6 +1,46 @@
 # los-angeles
 
 ## Movie updates
+### Mon 11/23 8:14pm
+* New movies: Elf, National Lampoon's Christmas Vacation
+
+* New screenings: 
+    * [Batman Returns](https://drafthouse.com/los-angeles/show/batman-returns): Mon 11/30 (3:40pm), Tue 12/1 (3:20pm)
+
+    * [Bitter Christmas](https://drafthouse.com/los-angeles/show/bitter-christmas): Fri 11/27 (10:00pm), Sat 11/28 (10:00am, 1:00pm, 10:00pm), Sun 11/29 (10:00am, 1:00pm, 10:00pm), Mon 11/30 (12:30pm, 3:30pm, 6:30pm, 9:30pm), Tue 12/1 (10:00am, 1:00pm, 4:00pm, 7:00pm, 10:00pm), Wed 12/2 (12:30pm, 3:30pm, 6:30pm, 9:30pm)
+
+    * [Club Kid](https://drafthouse.com/los-angeles/show/club-kid): Fri 11/27 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Sat 11/28 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Sun 11/29 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Mon 11/30 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Tue 12/1 (12:00pm, 3:15pm, 6:30pm, 9:45pm), Wed 12/2 (12:00pm, 3:15pm, 6:30pm, 9:45pm)
+
+    * [Elf](https://drafthouse.com/los-angeles/show/elf): Sun 11/29 (3:10pm), Tue 12/1 (10:00am), Wed 12/2 (4:10pm)
+
+    * [Elsinore](https://drafthouse.com/los-angeles/show/elsinore): Fri 11/27 (10:00pm), Sat 11/28 (12:30pm, 10:00pm), Sun 11/29 (12:30pm, 10:00pm), Mon 11/30 (12:30pm, 3:30pm, 6:30pm, 10:00pm), Tue 12/1 (12:30pm, 3:30pm, 6:30pm, 10:00pm), Wed 12/2 (12:30pm, 3:30pm, 6:30pm, 10:00pm)
+
+    * [Focker In Law](https://drafthouse.com/los-angeles/show/focker-in-law): Mon 11/30 (1:00pm, 4:00pm, 7:00pm, 10:00pm), Tue 12/1 (10:30am, 1:30pm, 4:30pm, 7:30pm, 10:30pm), Wed 12/2 (1:00pm, 4:00pm, 7:00pm, 10:00pm)
+
+    * [Hexed](https://drafthouse.com/los-angeles/show/hexed): Fri 11/27 (10:30pm), Sat 11/28 (10:30pm), Sun 11/29 (10:30pm), Mon 11/30 (12:45pm, 3:45pm, 6:45pm, 9:45pm), Tue 12/1 (10:30am, 1:30pm, 4:30pm, 7:30pm, 10:30pm), Wed 12/2 (12:45pm, 3:45pm, 6:45pm, 9:45pm)
+
+    * [I Play Rocky](https://drafthouse.com/los-angeles/show/i-play-rocky): Fri 11/27 (11:25am, 2:50pm, 6:15pm, 9:40pm), Sat 11/28 (11:25am, 2:50pm, 6:15pm, 9:40pm), Sun 11/29 (11:25am, 2:50pm, 6:15pm, 9:40pm), Mon 11/30 (11:25am, 2:50pm, 6:15pm, 9:40pm), Tue 12/1 (11:25am, 2:50pm, 6:15pm, 9:40pm), Wed 12/2 (11:25am, 2:50pm, 6:15pm, 9:40pm)
+
+    * [La Bola Negra](https://drafthouse.com/los-angeles/show/la-bola-negra): Sat 11/28 (12:30pm), Mon 11/30 (11:50am), Tue 12/1 (12:50pm), Wed 12/2 (12:40pm)
+
+    * [National Lampoons Christmas Vacation](https://drafthouse.com/los-angeles/show/national-lampoons-christmas-vacation): Tue 12/1 (4:40pm)
+
+    * [Paper Tiger](https://drafthouse.com/los-angeles/show/paper-tiger): Fri 11/27 (10:00am, 1:05pm, 4:10pm, 7:15pm, 10:20pm), Sat 11/28 (10:00am, 1:05pm, 4:10pm, 7:15pm, 10:20pm), Sun 11/29 (10:00am, 1:05pm, 4:10pm, 7:15pm, 10:20pm), Mon 11/30 (1:00pm, 4:10pm, 7:15pm, 10:20pm), Tue 12/1 (10:00am, 1:05pm, 4:10pm, 7:15pm, 10:20pm), Wed 12/2 (1:00pm, 4:10pm, 7:15pm, 10:20pm)
+
+    * [Raise The Red Lantern](https://drafthouse.com/los-angeles/show/raise-the-red-lantern): Mon 11/30 (1:00pm)
+
+    * [The Hunger Games Sunrise On The Reaping](https://drafthouse.com/los-angeles/show/the-hunger-games-sunrise-on-the-reaping): Fri 11/27 (11:00am, 12:20pm, 3:00pm, 7:00pm, 7:40pm), Sat 11/28 (11:00am, 3:00pm, 7:00pm, 7:40pm), Sun 11/29 (11:00am, 12:20pm, 3:00pm, 7:00pm), Mon 11/30 (11:00am, 2:00pm, 3:00pm, 6:00pm, 7:00pm, 9:30pm), Tue 12/1 (10:00am, 11:00am, 2:00pm, 3:00pm, 6:00pm, 7:00pm, 9:30pm), Wed 12/2 (11:00am, 12:15pm, 2:00pm, 3:00pm, 6:00pm, 7:00pm, 9:30pm)
+
+    * [Tokyo Godfathers Dubbed](https://drafthouse.com/los-angeles/show/tokyo-godfathers-dubbed): Sun 11/29 (6:00pm), Tue 12/1 (10:15pm)
+
+    * [Tokyo Godfathers Subtitled](https://drafthouse.com/los-angeles/show/tokyo-godfathers-subtitled): Mon 11/30 (10:20pm)
+
+    * [Wild Horse Nine](https://drafthouse.com/los-angeles/show/wild-horse-nine): Fri 11/27 (2:45pm, 6:00pm), Sat 11/28 (2:35pm, 5:45pm), Sun 11/29 (7:15pm), Mon 11/30 (4:20pm, 10:00pm), Tue 12/1 (12:10pm, 6:45pm), Wed 12/2 (4:30pm, 10:00pm)
+
+    * [Wto 99](https://drafthouse.com/los-angeles/show/wto-99): Fri 11/27 (11:45am), Wed 12/2 (10:15pm)
+
+    * [You Can See Everything](https://drafthouse.com/los-angeles/show/you-can-see-everything): Fri 11/27 (11:25am, 3:35pm, 7:45pm, 9:15pm), Sat 11/28 (11:25am, 3:35pm, 7:45pm, 9:00pm), Sun 11/29 (11:25am, 3:35pm, 7:45pm, 9:00pm), Mon 11/30 (11:25am, 3:35pm, 7:45pm), Tue 12/1 (11:25am, 3:35pm, 7:45pm), Wed 12/2 (11:25am, 3:35pm, 7:45pm)
+
 ### Mon 11/23 11:04am
 
 * New screenings: 
