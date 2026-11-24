@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Tue 11/24 12:28pm
+* New movies: Werwulf, Werwulf
+
+* New screenings: 
+    * [Werwulf](https://drafthouse.com/raleigh/show/werwulf): Fri 12/25 (9:30am, 12:35pm, 4:00pm, 7:30pm, 10:45pm), Sat 12/26 (8:30am, 11:45am, 3:15pm, 6:30pm, 10:00pm), Sun 12/27 (8:30am, 11:45am, 3:15pm, 6:30pm, 10:00pm), Mon 12/28 (9:30am, 12:45pm, 4:15pm, 7:35pm, 9:40pm), Tue 12/29 (9:30am, 12:45pm, 4:15pm, 7:40pm, 10:30pm), Wed 12/30 (9:30am, 12:45pm, 4:15pm, 7:40pm, 9:40pm)
+
+    * [Werwulf Moonlight Screening Mandatory Bundle](https://drafthouse.com/raleigh/show/werwulf-moonlight-screening-mandatory-bundle): Thu 12/24 (7:00pm)
+
 ### Tue 11/24 12:53am
 * New movies: Paper Tiger, True Stories
 
