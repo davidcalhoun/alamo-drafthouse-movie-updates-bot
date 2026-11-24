@@ -1,6 +1,14 @@
 # los-angeles
 
 ## Movie updates
+### Tue 11/24 7:37am
+* New movies: Werwulf
+
+* New screenings: 
+    * [Werwulf](https://drafthouse.com/los-angeles/show/werwulf): Thu 12/24 (2:00pm, 5:15pm), Fri 12/25 (10:00am, 1:15pm, 4:30pm, 10:15pm), Sat 12/26 (10:00am, 1:15pm, 4:30pm), Sun 12/27 (10:00am, 1:15pm, 4:30pm), Mon 12/28 (10:00am, 1:15pm, 4:30pm), Tue 12/29 (9:15am, 12:30pm, 3:45pm, 7:00pm, 10:15pm), Wed 12/30 (9:15am, 12:30pm, 3:45pm, 7:00pm, 10:15pm), Thu 12/31 (9:15am, 12:30pm, 3:45pm, 7:00pm)
+
+    * [Werwulf 35mm Moonlight Screening Mandatory Bundle](https://drafthouse.com/los-angeles/show/werwulf-35mm-moonlight-screening-mandatory-bundle): Thu 12/24 (7:00pm)
+
 ### Mon 11/23 8:14pm
 * New movies: Elf, National Lampoon's Christmas Vacation
 
