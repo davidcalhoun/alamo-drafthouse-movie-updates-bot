@@ -1,6 +1,40 @@
 # raleigh
 
 ## Movie updates
+### Tue 11/24 12:53am
+* New movies: Paper Tiger, True Stories
+
+* New screenings: 
+    * [Batman Returns](https://drafthouse.com/raleigh/show/batman-returns): Tue 12/1 (10:30pm)
+
+    * [Club Kid](https://drafthouse.com/raleigh/show/club-kid): Tue 11/24 (11:00am, 3:00pm, 6:30pm, 10:00pm), Wed 11/25 (11:30am, 2:45pm, 6:00pm, 9:15pm), Thu 11/26 (11:30am, 3:30pm, 7:30pm, 10:35pm), Fri 11/27 (10:00am, 1:00pm, 4:05pm, 7:15pm, 10:30pm), Sat 11/28 (10:00am, 1:00pm, 4:15pm, 7:30pm, 10:45pm), Sun 11/29 (10:00am, 1:00pm, 4:15pm, 7:30pm, 10:45pm), Mon 11/30 (1:00pm, 4:15pm, 7:30pm, 10:45pm), Tue 12/1 (12:00pm, 4:00pm, 7:30pm, 10:45pm), Wed 12/2 (11:30am, 3:25pm, 7:30pm, 10:45pm)
+
+    * [Ebenezer](https://drafthouse.com/raleigh/show/ebenezer): Tue 11/24 (1:00pm, 4:15pm, 7:45pm, 10:45pm), Wed 11/25 (12:30pm, 3:45pm, 7:15pm, 10:15pm), Thu 11/26 (1:00pm, 4:30pm, 6:45pm, 10:15pm), Fri 11/27 (9:30am, 11:30am, 2:30pm, 6:00pm, 9:30pm), Sat 11/28 (9:00am, 11:30am, 2:30pm, 6:00pm, 9:15pm), Sun 11/29 (9:00am, 11:30am, 2:30pm, 6:00pm, 9:30pm), Mon 11/30 (11:30am, 2:30pm, 6:00pm, 9:15pm), Tue 12/1 (11:00am, 2:00pm, 6:00pm, 9:00pm), Wed 12/2 (12:30pm, 3:30pm, 7:00pm, 10:30pm)
+
+    * [Focker In Law](https://drafthouse.com/raleigh/show/focker-in-law): Wed 11/25 (1:00pm, 3:00pm, 7:00pm, 10:00pm), Thu 11/26 (10:45pm), Fri 11/27 (9:00am), Sat 11/28 (9:00am), Sun 11/29 (9:00am), Tue 12/1 (11:00am, 3:30pm, 7:30pm, 10:45pm), Wed 12/2 (1:00pm, 4:30pm, 7:30pm, 10:45pm)
+
+    * [Godzilla Minus Zero](https://drafthouse.com/raleigh/show/godzilla-minus-zero): Tue 11/24 (8:30pm), Wed 11/25 (9:45pm), Thu 11/26 (9:45pm), Fri 11/27 (10:45pm), Sat 11/28 (10:15pm), Sun 11/29 (10:30pm), Mon 11/30 (9:30pm)
+
+    * [Hexed](https://drafthouse.com/raleigh/show/hexed): Tue 11/24 (4:50pm), Sat 11/28 (10:00am), Sun 11/29 (10:00am), Tue 12/1 (11:30am, 2:00pm, 6:00pm, 9:30pm), Wed 12/2 (11:30am, 4:00pm, 6:00pm, 9:00pm)
+
+    * [How To Rob A Bank](https://drafthouse.com/raleigh/show/how-to-rob-a-bank): Tue 11/24 (10:30pm), Wed 11/25 (10:30pm), Thu 11/26 (9:30pm)
+
+    * [I Play Rocky](https://drafthouse.com/raleigh/show/i-play-rocky): Tue 11/24 (11:00am, 2:15pm, 6:30pm, 10:00pm)
+
+    * [Paper Tiger](https://drafthouse.com/raleigh/show/paper-tiger): Tue 11/24 (4:00pm, 7:30pm, 9:00pm), Wed 11/25 (1:30pm, 4:30pm, 6:45pm, 10:30pm), Thu 11/26 (11:30am, 2:30pm, 6:15pm, 9:15pm), Fri 11/27 (10:30am, 11:00am, 2:45pm, 6:15pm, 9:15pm), Sat 11/28 (10:30am, 11:30am, 2:45pm, 6:45pm, 10:15pm), Sun 11/29 (10:30am, 11:00am, 2:45pm, 6:15pm, 9:00pm), Mon 11/30 (11:00am, 2:30pm, 6:15pm, 9:00pm), Tue 12/1 (12:30pm, 2:30pm, 6:30pm, 9:15pm), Wed 12/2 (12:00pm, 2:30pm, 6:30pm, 9:15pm)
+
+    * [Queer Film Theory 101 Point Blank 1967](https://drafthouse.com/raleigh/show/queer-film-theory-101-point-blank-1967): Wed 11/25 (12:30pm)
+
+    * [The Cat In The Hat 2026](https://drafthouse.com/raleigh/show/the-cat-in-the-hat-2026): Tue 11/24 (12:30pm)
+
+    * [The Hunger Games Sunrise On The Reaping](https://drafthouse.com/raleigh/show/the-hunger-games-sunrise-on-the-reaping): Tue 11/24 (11:30am, 12:00pm, 12:30pm, 1:00pm, 1:30pm, 2:05pm, 2:35pm, 3:45pm, 4:30pm, 5:30pm, 7:15pm, 9:30pm), Wed 11/25 (11:00am, 11:30am, 1:00pm, 2:00pm, 2:15pm, 2:50pm, 3:15pm, 4:15pm, 5:00pm, 6:15pm, 8:15pm, 9:00pm), Thu 11/26 (12:00pm, 1:00pm, 1:30pm, 2:00pm, 2:35pm, 4:15pm, 5:00pm, 5:15pm, 5:45pm, 6:30pm, 8:15pm, 9:00pm, 9:45pm), Fri 11/27 (10:30am, 11:30am, 12:30pm, 1:05pm, 1:30pm, 2:00pm, 3:45pm, 4:30pm, 5:00pm, 5:15pm, 6:30pm, 8:00pm, 8:30pm, 9:00pm), Sat 11/28 (10:00am, 12:30pm, 1:05pm, 1:30pm, 2:00pm, 2:30pm, 4:30pm, 5:00pm, 5:30pm, 5:45pm, 6:15pm, 8:15pm, 9:00pm, 9:45pm), Sun 11/29 (10:30am, 11:30am, 12:00pm, 1:05pm, 1:30pm, 2:00pm, 3:45pm, 4:15pm, 5:00pm, 5:15pm, 6:30pm, 8:00pm, 8:15pm, 9:00pm, 9:45pm), Mon 11/30 (11:30am, 12:00pm, 1:00pm, 1:30pm, 3:45pm, 4:15pm, 5:00pm, 5:15pm, 8:00pm, 8:15pm, 9:00pm, 9:45pm), Tue 12/1 (11:30am, 12:00pm, 12:30pm, 1:30pm, 2:30pm, 3:05pm, 3:30pm, 3:45pm, 4:30pm, 5:00pm, 5:15pm, 6:30pm, 8:00pm, 8:30pm, 9:45pm, 10:00pm), Wed 12/2 (12:00pm, 12:00pm, 12:30pm, 1:30pm, 2:05pm, 2:35pm, 3:40pm, 3:45pm, 4:00pm, 5:15pm, 7:00pm, 8:00pm, 8:00pm, 9:00pm, 10:00pm)
+
+    * [Tokyo Godfathers Subtitled](https://drafthouse.com/raleigh/show/tokyo-godfathers-subtitled): Tue 12/1 (1:00pm), Wed 12/2 (1:00pm)
+
+    * [True Stories](https://drafthouse.com/raleigh/show/true-stories): Tue 11/24 (12:00pm)
+
+    * [Wild Horse Nine](https://drafthouse.com/raleigh/show/wild-horse-nine): Tue 11/24 (11:30am), Wed 11/25 (11:00am), Thu 11/26 (11:00am), Fri 11/27 (9:30am), Sat 11/28 (9:30am), Sun 11/29 (9:30am), Mon 11/30 (12:30pm), Tue 12/1 (11:30am), Wed 12/2 (11:00am)
+
 ### Mon 11/23 3:53am
 
 * New screenings: 
