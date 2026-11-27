@@ -1,6 +1,12 @@
 # los-angeles
 
 ## Movie updates
+### Fri 11/27 2:32pm
+* New movies: Spider-Man "Brand New" Brand New Day
+
+* New screenings: 
+    * [Spider Man Brand New Brand New Day](https://drafthouse.com/los-angeles/show/spider-man-brand-new-brand-new-day): Fri 12/4 (2:20pm, 6:00pm), Sat 12/5 (2:20pm, 6:00pm), Sun 12/6 (2:20pm, 6:00pm)
+
 ### Tue 11/24 7:37am
 * New movies: Werwulf
 
