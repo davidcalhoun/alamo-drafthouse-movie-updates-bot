@@ -1,6 +1,14 @@
 # raleigh
 
 ## Movie updates
+### Sat 11/28 5:10am
+* New movies: Spider-Man "Brand New" Brand New Day, This Symphony May Contain Hope.
+
+* New screenings: 
+    * [Spider Man Brand New Brand New Day](https://drafthouse.com/raleigh/show/spider-man-brand-new-brand-new-day): Fri 12/4 (3:15pm), Sat 12/5 (3:00pm), Sun 12/6 (7:15pm), Mon 12/7 (2:30pm), Tue 12/8 (2:30pm), Wed 12/9 (2:30pm), Thu 12/10 (2:30pm)
+
+    * [This Symphony May Contain Hope](https://drafthouse.com/raleigh/show/this-symphony-may-contain-hope): Sun 12/13 (9:00pm)
+
 ### Tue 11/24 12:28pm
 * New movies: Werwulf, Werwulf
 
